@@ -10,14 +10,14 @@
   },
   "statistik": {
    "norm": 192,
-   "concept": 78,
-   "schema": 11,
-   "step": 116,
-   "case": 96,
-   "distinction": 14,
+   "concept": 87,
+   "schema": 14,
+   "step": 155,
+   "case": 101,
+   "distinction": 17,
    "source": 93
   },
-  "kanten": 1496
+  "kanten": 1892
  },
  "nodes": [
   {
@@ -6959,6 +6959,87 @@
    "url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=25.01.2007&Aktenzeichen=C-48/05"
   },
   {
+   "id": "case:eugh_pago",
+   "type": "case",
+   "label": "EuGH – PAGO/Tirolmilch",
+   "name": "PAGO/Tirolmilch",
+   "court": "EuGH",
+   "date": "2009-10-06",
+   "az": "C-301/07",
+   "fundstelle": "GRUR 2009, 1158",
+   "kern": "Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn sie einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist. Das Gebiet eines einzigen Mitgliedstaats (hier: Österreich) kann ein wesentlicher Teil der Union sein.",
+   "tags": [
+    "Unionsmarke",
+    "Bekanntheitsschutz"
+   ],
+   "url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=06.10.2009&Aktenzeichen=C-301/07"
+  },
+  {
+   "id": "case:eugh_iron_smith",
+   "type": "case",
+   "label": "EuGH – Iron & Smith/Unilever",
+   "name": "Iron & Smith/Unilever",
+   "court": "EuGH",
+   "date": "2015-09-03",
+   "az": "C-125/14",
+   "fundstelle": "GRUR 2015, 1002",
+   "kern": "Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgegangen, genügt für die Bekanntheit 'in der Union' die Bekanntheit in einem wesentlichen Teil der Union, der ein einziger Mitgliedstaat sein kann – auch wenn dies nicht der Mitgliedstaat der jüngeren Marke ist. Die Beeinträchtigung/Ausnutzung im Inland setzt aber voraus, dass ein wirtschaftlich nicht unbedeutender Teil des inländischen Publikums die Unionsmarke kennt und die Zeichen gedanklich verknüpft.",
+   "tags": [
+    "Unionsmarke",
+    "Bekanntheitsschutz"
+   ],
+   "url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=03.09.2015&Aktenzeichen=C-125/14"
+  },
+  {
+   "id": "case:eugh_leno_merken",
+   "type": "case",
+   "label": "EuGH – Leno Merken/Hagelkruis (ONEL/OMEL)",
+   "name": "Leno Merken/Hagelkruis (ONEL/OMEL)",
+   "court": "EuGH",
+   "date": "2012-12-19",
+   "az": "C-149/11",
+   "fundstelle": "GRUR 2013, 182",
+   "kern": "Für die ernsthafte Benutzung einer Unionsmarke (Art. 18 UMV) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.",
+   "tags": [
+    "Unionsmarke",
+    "Benutzungszwang"
+   ],
+   "url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=19.12.2012&Aktenzeichen=C-149/11"
+  },
+  {
+   "id": "case:eugh_dhl_chronopost",
+   "type": "case",
+   "label": "EuGH – DHL Express France/Chronopost (WEBSHIPPING)",
+   "name": "DHL Express France/Chronopost (WEBSHIPPING)",
+   "court": "EuGH",
+   "date": "2011-04-12",
+   "az": "C-235/09",
+   "fundstelle": "GRUR 2011, 518",
+   "kern": "Ein von einem Unionsmarkengericht ausgesprochenes Verbot erstreckt sich grundsätzlich auf das gesamte Gebiet der Union; Zwangsmaßnahmen zur Durchsetzung wirken ebenfalls unionsweit. Das Gericht muss die Reichweite beschränken, wenn die Verletzung nur in einem Teil der Union vorliegt oder der Kläger sein Begehren beschränkt.",
+   "tags": [
+    "Unionsmarke",
+    "Verfahren"
+   ],
+   "url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=12.04.2011&Aktenzeichen=C-235/09"
+  },
+  {
+   "id": "case:eugh_combit",
+   "type": "case",
+   "label": "EuGH – combit Software/Commit Business Solutions",
+   "name": "combit Software/Commit Business Solutions",
+   "court": "EuGH",
+   "date": "2016-09-22",
+   "az": "C-223/15",
+   "fundstelle": "GRUR 2016, 1166",
+   "kern": "Stellt das Unionsmarkengericht fest, dass Verwechslungsgefahr in einem Teil der Union (etwa in den deutschsprachigen Mitgliedstaaten) besteht, in einem anderen Teil aber wegen sprachlicher Unterschiede nicht, muss es das Verbot auf die Gebiete beschränken, in denen Verwechslungsgefahr besteht; für die übrigen Gebiete darf der rechtmäßige Handel nicht untersagt werden.",
+   "tags": [
+    "Unionsmarke",
+    "Verfahren",
+    "Verwechslungsgefahr"
+   ],
+   "url": "https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=EuGH&Datum=22.09.2016&Aktenzeichen=C-223/15"
+  },
+  {
    "id": "concept:marke",
    "type": "concept",
    "label": "Marke",
@@ -7578,9 +7659,81 @@
    "id": "concept:unionsmarke",
    "type": "concept",
    "label": "Unionsmarke (UMV) und Koexistenz",
-   "kategorie": "Grundlagen",
-   "definition": "Die Unionsmarke (VO (EU) 2017/1001) gewährt einheitlichen Schutz im gesamten Gebiet der EU; sie besteht neben nationalen Marken (Koexistenz). Verletzungsklagen werden vor den Unionsmarkengerichten (§ 125e MarkenG) erhoben; die materiellen Tatbestände (Art. 9 UMV) entsprechen § 14 Abs. 2.",
-   "erlaeuterung": "Ältere Unionsmarken sind relative Schutzhindernisse gegenüber deutschen Marken (§ 9 i.V.m. § 125b); die Seniorität erlaubt die Beanspruchung des Zeitrangs einer nationalen Marke. Die MarkenRL (RL (EU) 2015/2436) harmonisiert das nationale Recht; das MarkenG ist richtlinienkonform auszulegen (Vorlagen an den EuGH)."
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, Art. 1 Abs. 2 UMV). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über § 125b MarkenG und Art. 8 Abs. 2 UMV wechselseitig als ältere Rechte verzahnt.",
+   "erlaeuterung": "Materiell entsprechen die Verletzungstatbestände des Art. 9 Abs. 2 lit. a-c UMV den § 14 Abs. 2 Nr. 1-3, die Schranken Art. 14 (= § 23) und Art. 15 (= § 24) UMV. Normkette beim Vorgehen in Deutschland: Art. 9 UMV (Anspruch) → § 125b Nr. 2 (Schadensersatz, Vernichtung, Auskunft aus dem MarkenG) → § 125e (Unionsmarkengerichte) → Art. 123 ff. UMV (Zuständigkeit, Vermutung der Gültigkeit, Widerklage, Sanktionen). Beim Angriff auf deutsche Marken: § 125b Nr. 1 (§ 9 gilt, Bekanntheit in der Union), Nr. 4/5 (Benutzung nach Art. 18 UMV). Beim Angriff auf die Unionsmarke aus einer deutschen Marke: Art. 8 Abs. 1, 5 UMV (Widerspruch, Art. 46), Art. 60 Abs. 1 lit. a (Nichtigkeit), Art. 47 Abs. 2, 3 (Benutzungsnachweis). Seniorität: Art. 39, 40 UMV, § 125c. Umwandlung: Art. 139 ff. UMV, § 125d. Die MarkenRL (RL (EU) 2015/2436) harmonisiert das nationale Recht; das MarkenG ist richtlinienkonform auszulegen."
+  },
+  {
+   "id": "concept:relative_schutzhindernis_bekannt",
+   "type": "concept",
+   "label": "Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3)",
+   "kategorie": "Schutzvoraussetzungen",
+   "definition": "Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer angemeldeten oder eingetragenen älteren Marke identisch oder ihr ähnlich ist, die ältere Marke im Inland bekannt ist und die Benutzung der jüngeren Marke die Unterscheidungskraft oder die Wertschätzung der bekannten Marke ohne rechtfertigenden Grund in unlauterer Weise ausnutzen oder beeinträchtigen würde.",
+   "erlaeuterung": "Registerrechtliches Spiegelbild des § 14 Abs. 2 Nr. 3; die Auslegung ist identisch. Geltendmachung nur durch den Inhaber der älteren Marke im Widerspruch (§ 42 Abs. 2 Nr. 1) oder Nichtigkeitsverfahren (§ 51 Abs. 1 mit §§ 53, 55). Besonderheiten: (1) Zeitpunkt – die Bekanntheit muss am Anmelde-/Prioritätstag der jüngeren Marke bestehen (§ 51 Abs. 3) und bei der Entscheidung fortbestehen; (2) Prognose – geprüft wird die hypothetische Benutzung der jüngeren Marke für die eingetragenen Waren (Registerlage), nicht der tatsächliche Marktauftritt ('würde'); (3) Waren – seit dem MaMoG 2019 für alle Waren, auch identische/ähnliche; (4) gedankliche Verknüpfung als ungeschriebene Voraussetzung; (5) im Widerspruch nur Glaubhaftmachung mit präsenten Beweismitteln, daher praktisch oft Nichtigkeitsklage nach § 55. Aus einer Unionsmarke tritt die Bekanntheit in der Union an die Stelle der Bekanntheit im Inland (§ 125b Nr. 1)."
+  },
+  {
+   "id": "concept:koexistenz_22",
+   "type": "concept",
+   "label": "Ausschluss von Ansprüchen bei Bestandskraft der jüngeren Marke (§ 22)",
+   "kategorie": "Schranken",
+   "definition": "Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jüngeren Marke nicht untersagen, wenn ein Nichtigkeitsantrag gegen sie zurückgewiesen wurde oder zurückzuweisen wäre, weil (1) das ältere Zeichen am Prioritätstag der jüngeren Marke noch nicht bekannt war (§ 51 Abs. 3), (2) die ältere Marke damals löschungsreif war (§ 51 Abs. 4) oder (3) damals noch keine Verwechslungsgefahr bestand (§ 22 Abs. 1). Umgekehrt kann auch der Inhaber der jüngeren Marke die ältere nicht untersagen (§ 22 Abs. 2): Koexistenz.",
+   "erlaeuterung": "Praktische Bedeutung für § 9 Abs. 1 Nr. 3 / § 14 Abs. 2 Nr. 3: Erlangt eine Marke erst nach dem Prioritätstag der jüngeren Marke Bekanntheit, kann sie weder deren Löschung (§ 51 Abs. 3) noch die Unterlassung ihrer Benutzung für die eingetragenen Waren (§ 22 Abs. 1 Nr. 1) verlangen. Die Bekanntheit muss also zum richtigen Zeitpunkt vorliegen. Für Unionsmarken gilt § 21 Abs. 1 entsprechend (§ 125b Nr. 3); Art. 16 UMV enthält die Parallelregelung."
+  },
+  {
+   "id": "concept:bekanntheit_union",
+   "type": "concept",
+   "label": "Bekanntheit in der Union (§ 125b Nr. 1, Art. 9 Abs. 2 lit. c UMV)",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Wird aus einer Unionsmarke nach § 9 Abs. 1 Nr. 3 gegen eine deutsche Marke vorgegangen, tritt an die Stelle der Bekanntheit im Inland die Bekanntheit in der Union. Sie liegt vor, wenn die Marke einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist; ein einziger Mitgliedstaat kann genügen (PAGO).",
+   "erlaeuterung": "Zweistufige Prüfung nach EuGH Iron & Smith: (1) Bekanntheit in der Union – auch wenn der wesentliche Teil nicht Deutschland ist; (2) für die Ausnutzung/Beeinträchtigung im Inland muss die Unionsmarke aber einem wirtschaftlich nicht unbedeutenden Teil des inländischen Publikums bekannt sein, sonst fehlt die gedankliche Verknüpfung im Kollisionsgebiet. Für Verletzungsansprüche aus Art. 9 Abs. 2 lit. c UMV gilt derselbe Maßstab."
+  },
+  {
+   "id": "concept:benutzung_union",
+   "type": "concept",
+   "label": "Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5)",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach § 26 die ernsthafte Benutzung in der Union nach Art. 18 UMV. Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).",
+   "erlaeuterung": "Benutzungsschonfrist: fünf Jahre ab Eintragung der Unionsmarke (Art. 18 Abs. 1 UMV). Im Verletzungsprozess vor dem Unionsmarkengericht kann der Verfall wegen Nichtbenutzung als Einwand erhoben werden (Art. 127 Abs. 3 UMV), im Übrigen nur per Widerklage (Art. 128). Vor dem EUIPO: Benutzungsnachweis nach Art. 47 Abs. 2 (Unionsmarke) bzw. Abs. 3 (nationale Marke)."
+  },
+  {
+   "id": "concept:unionsmarkengericht",
+   "type": "concept",
+   "label": "Unionsmarkengerichte und Verfahren (§ 125e, Art. 123 ff. UMV)",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben (Art. 124 UMV; in Deutschland die von den Ländern bestimmten Landgerichte, § 125e). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).",
+   "erlaeuterung": "Weitere Regeln: Vermutung der Gültigkeit und Nichtbenutzungseinwand (Art. 127), Widerklage auf Verfall/Nichtigkeit (Art. 128), anwendbares nationales Recht für nicht geregelte Fragen (Art. 129, § 125b Nr. 2), unionsweites Verbot als Regelfall mit Beschränkung auf das Gebiet der tatsächlichen Verletzung (Art. 130; DHL/Chronopost, combit), Aussetzung bei parallelen Verfahren vor dem EUIPO (Art. 132). Für IR-Marken mit Benennung EU gelten dieselben Regeln (Art. 189 ff. UMV)."
+  },
+  {
+   "id": "concept:senioritaet",
+   "type": "concept",
+   "label": "Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ 125c, 125d)",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend (Art. 39, 40 UMV). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, § 125d).",
+   "erlaeuterung": "§ 125c erlaubt die nachträgliche Feststellung, dass die erloschene deutsche Marke, deren Seniorität beansprucht wurde, löschungsreif war – dann entfällt die Seniorität. Parallel bei IR-Marken: Umwandlung nach Art. 9quinquies PMMA, § 125 MarkenG."
+  },
+  {
+   "id": "concept:ir_marke",
+   "type": "concept",
+   "label": "International registrierte Marke (IR-Marke, Madrider System)",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Marke, die über die WIPO auf Grundlage einer Basismarke/-anmeldung nach dem Madrider Markenabkommen (MMA, §§ 107-118) oder – heute praktisch ausschließlich – dem Protokoll zum MMA (PMMA, §§ 119-125) international registriert und auf Deutschland erstreckt wurde. Sie hat dieselbe Wirkung wie eine am Tag der internationalen Registrierung (bzw. der nachträglichen Schutzerstreckung) beim DPMA angemeldete und eingetragene Marke (§ 112, § 124).",
+   "erlaeuterung": "Folgen: Die IR-Marke (DE) ist Basis für § 9, § 14, Widerspruch und Nichtigkeitsantrag (§ 116) mit dem Zeitrang der internationalen Registrierung (Art. 3 Abs. 4, Art. 3ter PMMA) zuzüglich PVÜ-Priorität. Die Wirkung gilt als nicht eingetreten, wenn der Schutz nach §§ 113-115 verweigert wird (§ 112 Abs. 2). Eine IR-Marke mit Benennung 'EU' gilt als Unionsmarke (Art. 189 ff. UMV); dann gelten § 125b und die UMV. Abhängigkeit: Fünf Jahre lang teilt die IR-Marke das Schicksal der Basismarke ('central attack', Art. 6 PMMA); danach Umwandlung in nationale Anmeldungen (Art. 9quinquies PMMA, § 125)."
+  },
+  {
+   "id": "concept:ir_schutzverweigerung",
+   "type": "concept",
+   "label": "Schutzverweigerung und Widerspruch gegen IR-Marken (§§ 113-115)",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Das DPMA prüft die auf Deutschland erstreckte IR-Marke auf absolute Schutzhindernisse wie eine Anmeldung (§ 113) und muss eine Schutzverweigerung innerhalb der Frist des Art. 5 Abs. 2 PMMA (12 bzw. 18 Monate) an die WIPO mitteilen. Der Widerspruch (§ 114) richtet sich gegen die Schutzgewährung; die Frist beginnt mit dem ersten Tag des Monats nach dem Ausgabemonat der WIPO-Gazette. An die Stelle der Löschung tritt die Verweigerung bzw. nachträgliche Entziehung des Schutzes (§ 114 Abs. 3, § 115).",
+   "erlaeuterung": "§ 115 Abs. 1: Verfall und Nichtigkeit (§§ 49-51) führen zur Schutzentziehung statt zur Löschung. § 115 Abs. 2 bestimmt, welcher Tag für Fristen an die Stelle des Eintragungstags tritt (Ablauf der Schutzverweigerungsfrist bzw. rechtskräftige Schutzgewährung) – darauf verweisen §§ 116, 117."
+  },
+  {
+   "id": "concept:ir_benutzungsschonfrist",
+   "type": "concept",
+   "label": "Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117)",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Für IR-Marken tritt an die Stelle des Eintragungstags (§ 26 Abs. 5, § 25, § 43 Abs. 1, § 53 Abs. 6) einer der in § 115 Abs. 2 bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.",
+   "erlaeuterung": "§ 116 Abs. 1: Nichtbenutzungseinrede im Widerspruch aus einer IR-Marke; § 116 Abs. 2: im Nichtigkeitsverfahren aus einer IR-Marke; § 117: Einrede nach § 25 im Verletzungsprozess aus einer IR-Marke. Rechtserhaltend ist die Benutzung im Inland nach § 26 (bei Benennung EU: Art. 18 UMV)."
   },
   {
    "id": "distinction:d_kennzeichnungskraft_unterscheidungskraft",
@@ -8176,6 +8329,183 @@
    "merksatz": "Störer haften nur auf Unterlassung und nur nach Hinweis."
   },
   {
+   "id": "distinction:d_9_1_3_vs_14_2_3",
+   "type": "distinction",
+   "label": "§ 9 Abs. 1 Nr. 3 vs. § 14 Abs. 2 Nr. 3 MarkenG",
+   "frage": "Worin unterscheiden sich der Bekanntheitsschutz im Register (§ 9 Abs. 1 Nr. 3) und im Verletzungsprozess (§ 14 Abs. 2 Nr. 3)?",
+   "kriterien": [
+    "Funktion",
+    "Verfahren",
+    "Angreifer / Gegner",
+    "Prüfungsgegenstand",
+    "Zeitpunkt der Bekanntheit",
+    "Beweismaß",
+    "Rechtsfolge",
+    "Gemeinsam"
+   ],
+   "spalten": [
+    "§ 9 Abs. 1 Nr. 3 (relatives Schutzhindernis)",
+    "§ 14 Abs. 2 Nr. 3 (Verletzungstatbestand)"
+   ],
+   "rows": [
+    [
+     "Angriff auf den Bestand der jüngeren Registermarke",
+     "Verbot der Benutzung eines Zeichens im Markt"
+    ],
+    [
+     "Widerspruch (§ 42) vor DPMA oder Nichtigkeitsverfahren (§ 51; DPMA § 53 / Landgericht § 55)",
+     "Verletzungsklage vor dem Landgericht (§ 140), einstweilige Verfügung"
+    ],
+    [
+     "Nur Inhaber der älteren bekannten Marke gegen eine eingetragene jüngere Marke",
+     "Markeninhaber (oder Lizenznehmer) gegen jeden Benutzer, auch ohne Registermarke"
+    ],
+    [
+     "Hypothetische Benutzung der jüngeren Marke für die eingetragenen Waren nach Registerlage ('würde')",
+     "Konkrete, tatsächliche Benutzungshandlung in ihrem Marktumfeld"
+    ],
+    [
+     "Anmelde-/Prioritätstag der jüngeren Marke (§ 51 Abs. 3) und Fortbestehen bei der Entscheidung",
+     "Zeitpunkt der Verletzungshandlung; gegen eingetragene jüngere Marke zusätzlich deren Prioritätstag (§ 22 Abs. 1 Nr. 1)"
+    ],
+    [
+     "Widerspruch: Glaubhaftmachung mit präsenten Beweismitteln; Nichtigkeit: Beweis / Amtsermittlung",
+     "Voller Beweis nach ZPO (Umfragen, Marktdaten)"
+    ],
+    [
+     "Löschung (ex tunc, § 52 Abs. 2) ganz oder teilweise",
+     "Unterlassung, Schadensersatz, Vernichtung, Auskunft (§§ 14 Abs. 5-7, 18, 19)"
+    ],
+    [
+     "Gleiche Voraussetzungen: Bekanntheit, Zeichenähnlichkeit, gedankliche Verknüpfung, vier Eingriffsalternativen, Unlauterkeit ohne rechtfertigenden Grund; seit MaMoG beide auch bei identischen/ähnlichen Waren",
+     ""
+    ]
+   ],
+   "merksatz": "§ 9 fragt: Darf die Marke im Register stehen? § 14 fragt: Darf das Zeichen benutzt werden? Gleicher Tatbestand, andere Perspektive und anderer Zeitpunkt."
+  },
+  {
+   "id": "distinction:d_bekanntheit_inland_union",
+   "type": "distinction",
+   "label": "Bekanntheit im Inland vs. Bekanntheit in der Union",
+   "frage": "Welche Bekanntheit ist maßgeblich, wenn die ältere Marke eine deutsche Marke bzw. eine Unionsmarke ist?",
+   "kriterien": [
+    "Norm",
+    "Räumlicher Bezug",
+    "Wesentlicher Teil",
+    "Zusatzvoraussetzung im Kollisionsgebiet",
+    "Leitentscheidungen"
+   ],
+   "spalten": [
+    "Deutsche Marke / IR-Marke (DE)",
+    "Unionsmarke / IR-Marke (EU)"
+   ],
+   "rows": [
+    [
+     "§ 9 Abs. 1 Nr. 3, § 14 Abs. 2 Nr. 3 MarkenG",
+     "§ 125b Nr. 1 MarkenG, Art. 9 Abs. 2 lit. c, Art. 8 Abs. 5 UMV"
+    ],
+    [
+     "Bekanntheit im Inland (Bundesgebiet)",
+     "Bekanntheit in der Union"
+    ],
+    [
+     "Ein wesentlicher Teil des Bundesgebiets genügt",
+     "Ein wesentlicher Teil der Union; das Gebiet eines einzigen Mitgliedstaats kann genügen (PAGO)"
+    ],
+    [
+     "Keine",
+     "Für Ausnutzung/Beeinträchtigung in Deutschland muss ein wirtschaftlich nicht unbedeutender Teil des deutschen Publikums die Marke kennen (Iron & Smith)"
+    ],
+    [
+     "EuGH General Motors; BGH TÜV II",
+     "EuGH PAGO; EuGH Iron & Smith"
+    ]
+   ],
+   "merksatz": "Unionsmarke: bekannt in der Union reicht für den Tatbestand, aber ohne Bekanntheit beim deutschen Publikum keine Verknüpfung in Deutschland."
+  },
+  {
+   "id": "distinction:d_marke_unionsmarke_irmarke",
+   "type": "distinction",
+   "label": "Deutsche Marke vs. Unionsmarke vs. IR-Marke",
+   "frage": "Welche Normen gelten, wenn aus einer deutschen Marke, einer Unionsmarke oder einer IR-Marke vorgegangen wird?",
+   "kriterien": [
+    "Rechtsgrundlage",
+    "Amt / Entstehung",
+    "Zeitrang",
+    "Verletzungstatbestand",
+    "Annexansprüche",
+    "Gericht",
+    "Bekanntheit",
+    "Rechtserhaltende Benutzung",
+    "Beginn der Benutzungsschonfrist",
+    "Angriff auf die Marke",
+    "Besonderheiten"
+   ],
+   "spalten": [
+    "Deutsche Marke",
+    "Unionsmarke",
+    "IR-Marke (Benennung DE)"
+   ],
+   "rows": [
+    [
+     "MarkenG",
+     "UMV (VO (EU) 2017/1001) + § 125b ff. MarkenG",
+     "PMMA/MMA + §§ 107-125 MarkenG (v.a. §§ 112-117 über § 124)"
+    ],
+    [
+     "DPMA, Eintragung (§ 4 Nr. 1)",
+     "EUIPO, Eintragung mit einheitlicher Wirkung in der EU",
+     "WIPO auf Basis einer Basismarke; Schutzerstreckung auf DE durch Benennung"
+    ],
+    [
+     "Anmeldetag (§ 6 Abs. 2, § 33)",
+     "Anmeldetag beim EUIPO; Seniorität nationaler Marken (Art. 39, 40 UMV)",
+     "Tag der internationalen Registrierung bzw. nachträglichen Schutzerstreckung (§ 112)"
+    ],
+    [
+     "§ 14 Abs. 2 Nr. 1-3",
+     "Art. 9 Abs. 2 lit. a-c UMV",
+     "§ 14 Abs. 2 Nr. 1-3 (Wirkung wie deutsche Marke, § 112)"
+    ],
+    [
+     "§§ 14 Abs. 5-7, 18-19c",
+     "Art. 130 UMV + §§ 14 Abs. 6, 7, 18-19c über § 125b Nr. 2",
+     "§§ 14 Abs. 5-7, 18-19c; Einrede § 25 mit § 117"
+    ],
+    [
+     "Landgericht, Kennzeichenstreitsache (§ 140)",
+     "Unionsmarkengericht (§ 125e, Art. 123 ff. UMV); Verbot grundsätzlich unionsweit",
+     "Landgericht (§ 140)"
+    ],
+    [
+     "Im Inland",
+     "In der Union (§ 125b Nr. 1; PAGO, Iron & Smith)",
+     "Im Inland"
+    ],
+    [
+     "§ 26: im Inland",
+     "Art. 18 UMV: in der Union, Grenzen der Mitgliedstaaten unbeachtlich (Leno Merken); § 125b Nr. 4, 5",
+     "§ 26: im Inland"
+    ],
+    [
+     "Eintragung (§ 26 Abs. 5: ggf. Ende des Widerspruchsverfahrens)",
+     "Eintragung der Unionsmarke (Art. 18 Abs. 1 UMV)",
+     "Ablauf der Schutzverweigerungsfrist oder rechtskräftige Schutzgewährung (§ 115 Abs. 2, §§ 116, 117)"
+    ],
+    [
+     "Widerspruch § 42, Verfall § 49, Nichtigkeit §§ 50, 51",
+     "Widerspruch Art. 46/Art. 8, Verfall Art. 58, Nichtigkeit Art. 59, 60 UMV (EUIPO) oder Widerklage Art. 128",
+     "Schutzverweigerung § 113, Widerspruch § 114, Schutzentziehung § 115; 'central attack' auf die Basismarke (Art. 6 PMMA)"
+    ],
+    [
+     "–",
+     "Umwandlung in nationale Anmeldungen (Art. 139 ff. UMV, § 125d); Koexistenz mit nationalen Marken",
+     "Benennung EU = Unionsmarke (Art. 189 ff. UMV); Umwandlung § 125"
+    ]
+   ],
+   "merksatz": "Deutsche Marke: MarkenG pur. Unionsmarke: UMV plus Brücke § 125b. IR-Marke: wie deutsche Marke (§ 112), aber eigene Fristen (§ 115 Abs. 2) und Schutzverweigerung statt Löschung."
+  },
+  {
    "id": "schema:schema_markenverletzung",
    "type": "schema",
    "label": "Unterlassungsanspruch wegen Markenverletzung (§ 14 Abs. 2, 5 MarkenG)",
@@ -8330,7 +8660,7 @@
    "id": "step:schema_markenverletzung.4.4",
    "type": "step",
    "label": "4. § 21 – Verwirkung; § 22 – Bestandskraft jüngerer Marke",
-   "text": "",
+   "text": "§ 22: keine Untersagung einer eingetragenen jüngeren Marke, wenn die Klagemarke an deren Prioritätstag noch nicht bekannt war, löschungsreif war oder noch keine Verwechslungsgefahr bestand.",
    "hinweis": "",
    "order": 4
   },
@@ -8488,7 +8818,7 @@
    "id": "step:schema_bekanntheitsschutz.1",
    "type": "step",
    "label": "1. Bekannte Marke im Inland",
-   "text": "Bekanntheit bei einem bedeutenden Teil des von den Waren/Dienstleistungen angesprochenen Publikums; keine festen Prozentsätze; Faktoren: Marktanteil, Intensität, Dauer, Werbeaufwand. Maßgeblicher Zeitpunkt: Kollisionszeitpunkt (Verletzung) bzw. Anmeldetag des jüngeren Zeichens.",
+   "text": "Bekanntheit bei einem bedeutenden Teil des von den Waren/Dienstleistungen angesprochenen Publikums; keine festen Prozentsätze; Faktoren: Marktanteil, Intensität, Dauer, Werbeaufwand. Maßgeblicher Zeitpunkt: Kollisionszeitpunkt (Verletzung) bzw. Anmeldetag des jüngeren Zeichens (§ 22 Abs. 1 Nr. 1, § 51 Abs. 3). Bei Unionsmarken: Bekanntheit in der Union (Art. 9 Abs. 2 lit. c UMV, § 125b Nr. 1).",
    "hinweis": "",
    "order": 1
   },
@@ -8986,7 +9316,7 @@
    "id": "step:schema_widerspruch.1",
    "type": "step",
    "label": "1. Zulässigkeit des Widerspruchs",
-   "text": "Frist: drei Monate ab Veröffentlichung der Eintragung (§ 42 Abs. 1); Widerspruchsberechtigung: Inhaber eines in § 42 Abs. 2 genannten älteren Rechts (Marke, notorisch bekannte Marke, Benutzungsmarke/geschäftliche Bezeichnung, Ursprungsbezeichnung); Gebühr.",
+   "text": "Frist: drei Monate ab Veröffentlichung der Eintragung (§ 42 Abs. 1); Widerspruchsberechtigung: Inhaber eines in § 42 Abs. 2 genannten älteren Rechts (Marke, notorisch bekannte Marke, Benutzungsmarke/geschäftliche Bezeichnung, Ursprungsbezeichnung); Gebühr. Ältere Unionsmarken (§ 125b Nr. 1) und IR-Marken (§ 112, § 116) sind gleichgestellt; gegen IR-Marken gilt § 114.",
    "hinweis": "",
    "order": 1
   },
@@ -9026,7 +9356,7 @@
    "id": "step:schema_widerspruch.3.3",
    "type": "step",
    "label": "Nr. 3 – Bekannte ältere Marke",
-   "text": "",
+   "text": "Bekanntheit am Anmeldetag der jüngeren Marke (§ 51 Abs. 3), Prognose der hypothetischen Benutzung nach Registerlage; Details im Schema „Relative Schutzhindernisse im Register“. Aus Unionsmarke: Bekanntheit in der Union (§ 125b Nr. 1).",
    "hinweis": "",
    "order": 3
   },
@@ -9177,6 +9507,339 @@
    "type": "step",
    "label": "5. Erlöschen",
    "text": "Verzicht (§ 48), Nichtverlängerung (§ 47 Abs. 6), Verfall (§ 49), Nichtigkeit (§§ 50, 51), Löschung im Widerspruchsverfahren (§ 43 Abs. 2).",
+   "hinweis": "",
+   "order": 5
+  },
+  {
+   "id": "schema:schema_relative_schutzhindernisse",
+   "type": "schema",
+   "label": "Relative Schutzhindernisse im Register (§ 9 Abs. 1 Nr. 1-3 MarkenG)",
+   "kategorie": "Verfahren",
+   "beschreibung": "Kollisionsprüfung nach der Registerlage im Widerspruch (§ 42) und im Nichtigkeitsverfahren (§ 51). Schwerpunkt: die bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3) mit ihren registerrechtlichen Besonderheiten."
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.1",
+   "type": "step",
+   "label": "1. Verfahrensrahmen",
+   "text": "Nur auf Antrag des Inhabers des älteren Rechts: Widerspruch (§ 42 Abs. 2 Nr. 1, drei Monate) oder Nichtigkeitsantrag/-klage (§ 51 Abs. 1 mit §§ 53, 55). Keine Prüfung von Amts wegen (§ 37 prüft nur absolute Hindernisse).",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.2",
+   "type": "step",
+   "label": "2. Ältere Marke mit besserem Zeitrang",
+   "text": "Angemeldete oder eingetragene Marke (§ 9 Abs. 1); Anmeldung nur, wenn sie eingetragen wird (§ 9 Abs. 2). Zeitrang nach § 6 (Anmeldetag, Priorität). Aus Unionsmarke: § 125b Nr. 1; aus IR-Marke: § 112, § 116.",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.3",
+   "type": "step",
+   "label": "3. Nichtbenutzungseinrede gegen die ältere Marke",
+   "text": "§ 43 Abs. 1 (Widerspruch: Glaubhaftmachung) bzw. § 53 Abs. 6 (Nichtigkeit). Unionsmarke: Art. 18 UMV (§ 125b Nr. 4, 5); IR-Marke: Fristbeginn nach § 115 Abs. 2 (§ 116).",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4",
+   "type": "step",
+   "label": "4. Kollisionstatbestand",
+   "text": "",
+   "hinweis": "",
+   "order": 4
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.1",
+   "type": "step",
+   "label": "Nr. 1 – Doppelidentität",
+   "text": "Zeichen- und Warenidentität nach den Verzeichnissen.",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.2",
+   "type": "step",
+   "label": "Nr. 2 – Verwechslungsgefahr",
+   "text": "Registerlage beider Marken; Kennzeichnungskraft der älteren Marke am Anmeldetag der jüngeren (§ 51 Abs. 4 S. 2). Im Übrigen wie § 14 Abs. 2 Nr. 2.",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.3",
+   "type": "step",
+   "label": "Nr. 3 – Bekannte ältere Marke",
+   "text": "Spiegelbild des § 14 Abs. 2 Nr. 3 mit registerrechtlichen Besonderheiten.",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.3.1",
+   "type": "step",
+   "label": "a) Bekanntheit im Inland zum maßgeblichen Zeitpunkt",
+   "text": "Bekannt bei einem bedeutenden Teil des angesprochenen Publikums (General Motors). Zeitpunkt: Anmelde-/Prioritätstag der jüngeren Marke (§ 51 Abs. 3); Fortbestehen bei der Entscheidung. Aus Unionsmarke: Bekanntheit in der Union (§ 125b Nr. 1; PAGO, Iron & Smith).",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.3.2",
+   "type": "step",
+   "label": "b) Zeichenidentität oder -ähnlichkeit",
+   "text": "Vergleich der eingetragenen Zeichen; ein zur Verknüpfung ausreichender Ähnlichkeitsgrad genügt (Goldbären: Wortmarke vs. 3D nur begrifflich).",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.3.3",
+   "type": "step",
+   "label": "c) Waren/Dienstleistungen der jüngeren Marke",
+   "text": "Seit dem MaMoG 2019 ohne Einschränkung: auch identische und ähnliche Waren (Linie OTTO Cap ist Gesetz geworden).",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.3.4",
+   "type": "step",
+   "label": "d) Gedankliche Verknüpfung",
+   "text": "Ungeschriebene Voraussetzung: Der Verkehr bringt die jüngere Marke mit der bekannten in Verbindung (Intel). Aus Unionsmarke: Bekanntheit bei einem wirtschaftlich nicht unbedeutenden Teil des inländischen Publikums erforderlich (Iron & Smith).",
+   "hinweis": "",
+   "order": 4
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.3.5",
+   "type": "step",
+   "label": "e) Prognose: Benutzung 'würde' ausnutzen oder beeinträchtigen",
+   "text": "Hypothetische Benutzung der jüngeren Marke für die eingetragenen Waren, nicht der tatsächliche Marktauftritt. Vier Alternativen: Ausnutzung/Beeinträchtigung der Unterscheidungskraft oder der Wertschätzung.",
+   "hinweis": "",
+   "order": 5
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.4.3.6",
+   "type": "step",
+   "label": "f) Ohne rechtfertigenden Grund in unlauterer Weise",
+   "text": "Interessenabwägung; Kunst-/Meinungsfreiheit rechtfertigt keine Eintragung als eigene Marke (Springender Pudel).",
+   "hinweis": "",
+   "order": 6
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.5",
+   "type": "step",
+   "label": "5. Ausschlussgründe (nur Nichtigkeitsverfahren)",
+   "text": "Duldung über fünf Jahre (§ 51 Abs. 2 S. 1), Zustimmung (§ 51 Abs. 2 S. 3), fehlende Bekanntheit am Prioritätstag der jüngeren Marke (§ 51 Abs. 3), Löschungsreife der älteren Marke am Prioritätstag der jüngeren wegen Verfalls oder absoluter Schutzhindernisse (§ 51 Abs. 4).",
+   "hinweis": "",
+   "order": 5
+  },
+  {
+   "id": "step:schema_relative_schutzhindernisse.6",
+   "type": "step",
+   "label": "6. Rechtsfolge und Wechselwirkung mit dem Verletzungsprozess",
+   "text": "Löschung ganz oder für Teile der Waren (§ 43 Abs. 2, § 51 Abs. 5), Wirkung ex tunc (§ 52 Abs. 2). Greift § 51 Abs. 3 oder 4, sperrt § 22 Abs. 1 zugleich Unterlassungsansprüche gegen die Benutzung der jüngeren Marke für ihre eingetragenen Waren; es entsteht Koexistenz (§ 22 Abs. 2).",
+   "hinweis": "",
+   "order": 6
+  },
+  {
+   "id": "schema:schema_unionsmarke",
+   "type": "schema",
+   "label": "Vorgehen aus einer Unionsmarke in Deutschland (UMV, § 125b ff. MarkenG)",
+   "kategorie": "EU- und IR-Marken",
+   "beschreibung": "Normketten für Verletzungsklage, Widerspruch und Nichtigkeitsantrag aus einer Unionsmarke sowie Angriffe gegen die Unionsmarke selbst."
+  },
+  {
+   "id": "step:schema_unionsmarke.1",
+   "type": "step",
+   "label": "1. Rechtsgrundlagen",
+   "text": "Unionsmarkenverordnung (VO (EU) 2017/1001, UMV) unmittelbar; das MarkenG gilt nur, soweit § 125b es anordnet (Nr. 1, 2 unmittelbar; Nr. 3-6 entsprechend) oder Art. 129 UMV auf nationales Recht verweist. IR-Marken mit Benennung EU stehen der Unionsmarke gleich (Art. 189 ff. UMV).",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_unionsmarke.2",
+   "type": "step",
+   "label": "2. Verletzungsklage aus der Unionsmarke",
+   "text": "",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_unionsmarke.2.1",
+   "type": "step",
+   "label": "a) Anspruch",
+   "text": "Art. 9 Abs. 2 lit. a (Doppelidentität), lit. b (Verwechslungsgefahr), lit. c (bekannte Marke – Bekanntheit in der Union) UMV; Benutzungshandlungen Art. 9 Abs. 3, Transit Art. 9 Abs. 4. Auslegung wie § 14 Abs. 2 Nr. 1-3.",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_unionsmarke.2.2",
+   "type": "step",
+   "label": "b) Schranken",
+   "text": "Art. 14 UMV (= § 23), Art. 15 UMV (Erschöpfung, = § 24), Art. 16 UMV (Zwischenrecht des Inhabers einer jüngeren Marke, ≈ § 22), Verwirkung Art. 61 UMV / § 21 Abs. 1 entsprechend (§ 125b Nr. 3).",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_unionsmarke.2.3",
+   "type": "step",
+   "label": "c) Einwand der Nichtbenutzung und Widerklage",
+   "text": "Vermutung der Gültigkeit (Art. 127 Abs. 1); Einwand des Verfalls wegen Nichtbenutzung ohne Widerklage zulässig (Art. 127 Abs. 3); sonstige Verfalls-/Nichtigkeitsgründe nur per Widerklage (Art. 128); Aussetzung bei EUIPO-Verfahren (Art. 132).",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_unionsmarke.2.4",
+   "type": "step",
+   "label": "d) Rechtsfolgen",
+   "text": "Unterlassung und Sanktionen nach Art. 130 UMV; Schadensersatz, Vernichtung/Rückruf, Auskunft, Vorlage, Sicherung, Urteilsbekanntmachung nach §§ 14 Abs. 6, 7, 18-19c MarkenG (§ 125b Nr. 2). Verbot grundsätzlich unionsweit (DHL/Chronopost), Beschränkung bei nur regionaler Verwechslungsgefahr (combit).",
+   "hinweis": "",
+   "order": 4
+  },
+  {
+   "id": "step:schema_unionsmarke.2.5",
+   "type": "step",
+   "label": "e) Zuständigkeit",
+   "text": "Unionsmarkengerichte (Art. 123, 124 UMV; § 125e); international: Beklagtensitz (Art. 125 Abs. 1-4, unionsweite Kognition) oder Handlungsort (Art. 125 Abs. 5, beschränkt nach Art. 126 Abs. 2); örtlich § 125g; Kennzeichenstreitsache § 140.",
+   "hinweis": "",
+   "order": 5
+  },
+  {
+   "id": "step:schema_unionsmarke.3",
+   "type": "step",
+   "label": "3. Angriff auf eine deutsche Marke aus der Unionsmarke",
+   "text": "",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_unionsmarke.3.1",
+   "type": "step",
+   "label": "a) Widerspruch (§ 42) und Nichtigkeit (§ 51)",
+   "text": "Unionsmarke ist ältere Marke i.S.d. § 9 (§ 125b Nr. 1); Bekanntheit in der Union statt im Inland (§ 9 Abs. 1 Nr. 3).",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_unionsmarke.3.2",
+   "type": "step",
+   "label": "b) Nichtbenutzungseinrede",
+   "text": "Benutzung der Unionsmarke nach Art. 18 UMV statt § 26 (§ 125b Nr. 4 für § 43 Abs. 1, Nr. 5 für § 53 Abs. 6); Verwirkung § 51 Abs. 2 S. 1 entsprechend.",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_unionsmarke.4",
+   "type": "step",
+   "label": "4. Angriff auf die Unionsmarke aus einer deutschen Marke oder IR-Marke (DE)",
+   "text": "Vor dem EUIPO: Widerspruch nach Art. 46 i.V.m. Art. 8 Abs. 1 (Identität/Verwechslungsgefahr), Abs. 5 (bekannte Marke, hier genügt Bekanntheit im Mitgliedstaat) UMV; ältere Rechte nach Art. 8 Abs. 2 (nationale Marken, IR-Marken mit Wirkung im Mitgliedstaat, Anmeldungen); Nichtigkeit Art. 60 Abs. 1 lit. a, Abs. 2 (sonstige ältere Rechte); Benutzungsnachweis Art. 47 Abs. 2, 3. Sonst Widerklage vor dem Unionsmarkengericht (Art. 128).",
+   "hinweis": "",
+   "order": 4
+  },
+  {
+   "id": "step:schema_unionsmarke.5",
+   "type": "step",
+   "label": "5. Seniorität, Umwandlung, Koexistenz",
+   "text": "Seniorität Art. 39, 40 UMV (§ 125c: nachträgliche Feststellung der Löschungsreife); Umwandlung Art. 139 ff. UMV (§ 125d); Koexistenz von Unions- und nationaler Marke, Prioritätsprinzip nach Zeitrang.",
+   "hinweis": "",
+   "order": 5
+  },
+  {
+   "id": "schema:schema_ir_marke",
+   "type": "schema",
+   "label": "Vorgehen aus einer IR-Marke in Deutschland (PMMA, §§ 112-125 MarkenG)",
+   "kategorie": "EU- und IR-Marken",
+   "beschreibung": "Internationale Registrierung nach dem Madrider System mit Schutzerstreckung auf Deutschland: Wirkung, Zeitrang, Angriff und Verteidigung."
+  },
+  {
+   "id": "step:schema_ir_marke.1",
+   "type": "step",
+   "label": "1. Rechtsgrundlagen",
+   "text": "Madrider Markenabkommen (MMA, §§ 107-118) und Protokoll (PMMA, §§ 119-125); § 124 erklärt §§ 112-117 auf Protokollmarken für entsprechend anwendbar. Basismarke oder -anmeldung im Ursprungsland erforderlich; internationale Registrierung durch die WIPO; Schutzerstreckung durch Benennung (Art. 3ter PMMA).",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_ir_marke.2",
+   "type": "step",
+   "label": "2. Wirkung und Zeitrang (§ 112)",
+   "text": "Wie eine am Tag der internationalen Registrierung bzw. der nachträglichen Schutzerstreckung angemeldete und eingetragene deutsche Marke; PVÜ-Priorität (Art. 4 PVÜ) bleibt möglich. Wirkung entfällt bei Schutzverweigerung (§ 112 Abs. 2).",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_ir_marke.3",
+   "type": "step",
+   "label": "3. Verteidigung der Erstreckung in Deutschland",
+   "text": "",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_ir_marke.3.1",
+   "type": "step",
+   "label": "a) Prüfung absoluter Schutzhindernisse (§ 113)",
+   "text": "Wie bei Anmeldungen (§§ 37, 8); Schutzverweigerung muss innerhalb der Frist des Art. 5 Abs. 2 PMMA mitgeteilt werden.",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_ir_marke.3.2",
+   "type": "step",
+   "label": "b) Widerspruch Dritter (§ 114)",
+   "text": "Veröffentlichung in der WIPO-Gazette ersetzt § 41; Frist ab dem ersten Tag des Folgemonats des Ausgabemonats; statt Löschung: Schutzverweigerung (§ 114 Abs. 3).",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_ir_marke.3.3",
+   "type": "step",
+   "label": "c) Verfall und Nichtigkeit (§ 115)",
+   "text": "§§ 49-51 gelten; Rechtsfolge ist die nachträgliche Schutzentziehung. § 115 Abs. 2 legt den Ersatzzeitpunkt für den Eintragungstag fest.",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_ir_marke.3.4",
+   "type": "step",
+   "label": "d) Abhängigkeit von der Basismarke und Umwandlung",
+   "text": "Fünf Jahre 'central attack' (Art. 6 PMMA); danach Umwandlung in nationale Anmeldung unter Wahrung des Zeitrangs (Art. 9quinquies PMMA, § 125).",
+   "hinweis": "",
+   "order": 4
+  },
+  {
+   "id": "step:schema_ir_marke.4",
+   "type": "step",
+   "label": "4. Angriff aus der IR-Marke",
+   "text": "",
+   "hinweis": "",
+   "order": 4
+  },
+  {
+   "id": "step:schema_ir_marke.4.1",
+   "type": "step",
+   "label": "a) Verletzungsklage",
+   "text": "§§ 14 ff. gelten unmittelbar (§ 112: Wirkung wie eingetragene Marke); Nichtbenutzungseinrede nach § 25 mit Fristbeginn nach § 115 Abs. 2 (§ 117).",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_ir_marke.4.2",
+   "type": "step",
+   "label": "b) Widerspruch und Nichtigkeitsantrag gegen deutsche Marken (§ 116)",
+   "text": "§ 9 gilt unverändert (Bekanntheit im Inland); Nichtbenutzungseinrede nach § 43 Abs. 1 bzw. § 53 Abs. 6 mit Fristbeginn nach § 115 Abs. 2.",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_ir_marke.4.3",
+   "type": "step",
+   "label": "c) IR-Marke mit Benennung EU",
+   "text": "Gilt als Unionsmarke (Art. 189 ff. UMV): dann § 125b, Unionsmarkengerichte, Bekanntheit und Benutzung in der Union.",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_ir_marke.5",
+   "type": "step",
+   "label": "5. Benutzungsschonfrist (§§ 115 Abs. 2, 116, 117)",
+   "text": "Fünf Jahre ab Ablauf der Schutzverweigerungsfrist (Art. 5 Abs. 2 PMMA) oder ab rechtskräftiger Schutzgewährung – nicht ab dem Tag der internationalen Registrierung.",
    "hinweis": "",
    "order": 5
   }
@@ -10147,6 +10810,54 @@
    "target": "norm:§23",
    "relation": "interprets",
    "ref": "§ 23"
+  },
+  {
+   "source": "case:eugh_pago",
+   "target": "norm:§125b",
+   "relation": "interprets",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "case:eugh_pago",
+   "target": "norm:§9",
+   "relation": "interprets",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "case:eugh_iron_smith",
+   "target": "norm:§125b",
+   "relation": "interprets",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "case:eugh_iron_smith",
+   "target": "norm:§9",
+   "relation": "interprets",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "case:eugh_leno_merken",
+   "target": "norm:§125b",
+   "relation": "interprets",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "case:eugh_leno_merken",
+   "target": "norm:§26",
+   "relation": "interprets",
+   "ref": "§ 26"
+  },
+  {
+   "source": "case:eugh_dhl_chronopost",
+   "target": "norm:§125e",
+   "relation": "interprets",
+   "ref": "§ 125e"
+  },
+  {
+   "source": "case:eugh_combit",
+   "target": "norm:§125e",
+   "relation": "interprets",
+   "ref": "§ 125e"
   },
   {
    "source": "concept:marke",
@@ -11165,6 +11876,21 @@
   },
   {
    "source": "concept:relative_schutzhindernisse",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernisse",
+   "target": "concept:unionsmarke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernisse",
+   "target": "concept:ir_marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernisse",
    "target": "case:bgh_springender_pudel",
    "relation": "illustrated_by"
   },
@@ -11999,6 +12725,21 @@
   {
    "source": "concept:bekannte_marke",
    "target": "concept:unlauterkeit",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:bekannte_marke",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:bekannte_marke",
+   "target": "concept:bekanntheit_union",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:bekannte_marke",
+   "target": "concept:koexistenz_22",
    "relation": "related_to"
   },
   {
@@ -13055,6 +13796,21 @@
   },
   {
    "source": "concept:widerspruch",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:widerspruch",
+   "target": "concept:ir_schutzverweigerung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:widerspruch",
+   "target": "concept:benutzung_union",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:widerspruch",
    "target": "case:bgh_maalox",
    "relation": "illustrated_by"
   },
@@ -13779,14 +14535,76 @@
   },
   {
    "source": "concept:unionsmarke",
+   "target": "norm:§125c",
+   "relation": "defined_in",
+   "ref": "§ 125c"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "norm:§125d",
+   "relation": "defined_in",
+   "ref": "§ 125d"
+  },
+  {
+   "source": "concept:unionsmarke",
    "target": "norm:§125e",
    "relation": "defined_in",
    "ref": "§ 125e"
   },
   {
    "source": "concept:unionsmarke",
+   "target": "concept:bekanntheit_union",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "concept:benutzung_union",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "concept:unionsmarkengericht",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "concept:senioritaet",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "concept:ir_marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarke",
    "target": "concept:marke",
    "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "case:eugh_pago",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "case:eugh_iron_smith",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "case:eugh_leno_merken",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "case:eugh_dhl_chronopost",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "case:eugh_combit",
+   "relation": "illustrated_by"
   },
   {
    "source": "concept:unionsmarke",
@@ -13806,6 +14624,492 @@
   {
    "source": "concept:unionsmarke",
    "target": "source:markenrecht:markenrechtsrichtlinie:rechte_aus_der_marke",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "norm:§9",
+   "relation": "defined_in",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "norm:§42",
+   "relation": "defined_in",
+   "ref": "§ 42"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "norm:§51",
+   "relation": "defined_in",
+   "ref": "§ 51 Abs. 3"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "norm:§22",
+   "relation": "defined_in",
+   "ref": "§ 22 Abs. 1 Nr. 1"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "norm:§125b",
+   "relation": "defined_in",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "concept:bekannte_marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "concept:relative_schutzhindernisse",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "concept:gedankliche_verknuepfung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "concept:koexistenz_22",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "concept:widerspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "concept:nichtigkeit",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "concept:bekanntheit_union",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "case:bgh_springender_pudel",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "case:eugh_intel",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "case:eugh_general_motors",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "case:eugh_iron_smith",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "source:markenrecht:kollission_mit_einer_aelteren_bekannten_marke",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "source:markenrecht:verwechslungsgefahr_mit_einer_aelteren_marke",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "norm:§22",
+   "relation": "defined_in",
+   "ref": "§ 22"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "norm:§51",
+   "relation": "defined_in",
+   "ref": "§ 51 Abs. 3"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "norm:§51",
+   "relation": "defined_in",
+   "ref": "§ 51 Abs. 4"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "norm:§21",
+   "relation": "defined_in",
+   "ref": "§ 21"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "concept:verwirkung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "concept:prioritaet",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "concept:bekannte_marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "source:markenrecht:schranken_des_schutzes",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "norm:§125b",
+   "relation": "defined_in",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "norm:§9",
+   "relation": "defined_in",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "concept:bekannte_marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "concept:unionsmarke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "case:eugh_pago",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "case:eugh_iron_smith",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "case:eugh_general_motors",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "source:markenrecht:bekannte_marke",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "norm:§125b",
+   "relation": "defined_in",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "norm:§26",
+   "relation": "defined_in",
+   "ref": "§ 26"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "norm:§43",
+   "relation": "defined_in",
+   "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "norm:§53",
+   "relation": "defined_in",
+   "ref": "§ 53"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "concept:rechtserhaltende_benutzung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "concept:ernsthafte_benutzung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "concept:nichtbenutzungseinrede",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "concept:unionsmarke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "case:eugh_leno_merken",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "case:eugh_ansul",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "source:markenrecht:rechtserhaltende_benutzung",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:unionsmarkengericht",
+   "target": "norm:§125e",
+   "relation": "defined_in",
+   "ref": "§ 125e"
+  },
+  {
+   "source": "concept:unionsmarkengericht",
+   "target": "norm:§125g",
+   "relation": "defined_in",
+   "ref": "§ 125g"
+  },
+  {
+   "source": "concept:unionsmarkengericht",
+   "target": "norm:§140",
+   "relation": "defined_in",
+   "ref": "§ 140"
+  },
+  {
+   "source": "concept:unionsmarkengericht",
+   "target": "concept:unionsmarke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarkengericht",
+   "target": "concept:unterlassungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarkengericht",
+   "target": "concept:verwechslungsgefahr",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarkengericht",
+   "target": "case:eugh_dhl_chronopost",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:unionsmarkengericht",
+   "target": "case:eugh_combit",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:senioritaet",
+   "target": "norm:§125c",
+   "relation": "defined_in",
+   "ref": "§ 125c"
+  },
+  {
+   "source": "concept:senioritaet",
+   "target": "norm:§125d",
+   "relation": "defined_in",
+   "ref": "§ 125d"
+  },
+  {
+   "source": "concept:senioritaet",
+   "target": "norm:§125",
+   "relation": "defined_in",
+   "ref": "§ 125"
+  },
+  {
+   "source": "concept:senioritaet",
+   "target": "concept:unionsmarke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:senioritaet",
+   "target": "concept:prioritaet",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:senioritaet",
+   "target": "concept:ir_marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "norm:§112",
+   "relation": "defined_in",
+   "ref": "§ 112"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "norm:§116",
+   "relation": "defined_in",
+   "ref": "§ 116"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "norm:§119",
+   "relation": "defined_in",
+   "ref": "§ 119"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "norm:§124",
+   "relation": "defined_in",
+   "ref": "§ 124"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "norm:§125",
+   "relation": "defined_in",
+   "ref": "§ 125"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "concept:ir_schutzverweigerung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "concept:ir_benutzungsschonfrist",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "concept:unionsmarke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "concept:prioritaet",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_marke",
+   "target": "concept:senioritaet",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_schutzverweigerung",
+   "target": "norm:§113",
+   "relation": "defined_in",
+   "ref": "§ 113"
+  },
+  {
+   "source": "concept:ir_schutzverweigerung",
+   "target": "norm:§114",
+   "relation": "defined_in",
+   "ref": "§ 114"
+  },
+  {
+   "source": "concept:ir_schutzverweigerung",
+   "target": "norm:§115",
+   "relation": "defined_in",
+   "ref": "§ 115"
+  },
+  {
+   "source": "concept:ir_schutzverweigerung",
+   "target": "norm:§124",
+   "relation": "defined_in",
+   "ref": "§ 124"
+  },
+  {
+   "source": "concept:ir_schutzverweigerung",
+   "target": "concept:ir_marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_schutzverweigerung",
+   "target": "concept:ir_benutzungsschonfrist",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_schutzverweigerung",
+   "target": "concept:widerspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_schutzverweigerung",
+   "target": "concept:absolute_schutzhindernisse",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "norm:§115",
+   "relation": "defined_in",
+   "ref": "§ 115"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "norm:§116",
+   "relation": "defined_in",
+   "ref": "§ 116"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "norm:§117",
+   "relation": "defined_in",
+   "ref": "§ 117"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "norm:§124",
+   "relation": "defined_in",
+   "ref": "§ 124"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "norm:§25",
+   "relation": "defined_in",
+   "ref": "§ 25"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "norm:§26",
+   "relation": "defined_in",
+   "ref": "§ 26"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "concept:ir_marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "concept:benutzungsschonfrist",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "concept:nichtbenutzungseinrede",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "concept:rechtserhaltende_benutzung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "source:markenrecht:benutzungsschonfrist",
    "relation": "documented_in"
   },
   {
@@ -13911,6 +15215,31 @@
   {
    "source": "concept:herkunftsfunktion",
    "target": "case:eugh_adam_opel",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:bekannte_marke",
+   "target": "case:eugh_pago",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:gedankliche_verknuepfung",
+   "target": "case:eugh_iron_smith",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:ernsthafte_benutzung",
+   "target": "case:eugh_leno_merken",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:unterlassungsanspruch",
+   "target": "case:eugh_dhl_chronopost",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:verwechslungsgefahr",
+   "target": "case:eugh_combit",
    "relation": "illustrated_by"
   },
   {
@@ -14081,6 +15410,41 @@
   {
    "source": "distinction:d_taeter_stoerer",
    "target": "concept:stoererhaftung",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_9_1_3_vs_14_2_3",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_9_1_3_vs_14_2_3",
+   "target": "concept:bekannte_marke",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_bekanntheit_inland_union",
+   "target": "concept:bekannte_marke",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_bekanntheit_inland_union",
+   "target": "concept:bekanntheit_union",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_marke_unionsmarke_irmarke",
+   "target": "concept:marke",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_marke_unionsmarke_irmarke",
+   "target": "concept:unionsmarke",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_marke_unionsmarke_irmarke",
+   "target": "concept:ir_marke",
    "relation": "contrasts"
   },
   {
@@ -14640,6 +16004,11 @@
   },
   {
    "source": "step:schema_markenverletzung.4.4",
+   "target": "concept:koexistenz_22",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenverletzung.4.4",
    "target": "case:bgh_hard_rock_cafe",
    "relation": "cites"
   },
@@ -15174,12 +16543,32 @@
   },
   {
    "source": "step:schema_bekanntheitsschutz.1",
+   "target": "concept:bekanntheit_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_bekanntheitsschutz.1",
+   "target": "concept:koexistenz_22",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_bekanntheitsschutz.1",
    "target": "case:eugh_general_motors",
    "relation": "cites"
   },
   {
    "source": "step:schema_bekanntheitsschutz.1",
    "target": "case:bgh_tuev_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_bekanntheitsschutz.1",
+   "target": "case:eugh_pago",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_bekanntheitsschutz.1",
+   "target": "case:eugh_iron_smith",
    "relation": "cites"
   },
   {
@@ -16588,6 +17977,34 @@
    "relation": "uses_concept"
   },
   {
+   "source": "step:schema_widerspruch.1",
+   "target": "concept:unionsmarke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_widerspruch.1",
+   "target": "concept:ir_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_widerspruch.1",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "step:schema_widerspruch.1",
+   "target": "norm:§114",
+   "relation": "applies",
+   "ref": "§ 114"
+  },
+  {
+   "source": "step:schema_widerspruch.1",
+   "target": "norm:§116",
+   "relation": "applies",
+   "ref": "§ 116"
+  },
+  {
    "source": "schema:schema_widerspruch",
    "target": "step:schema_widerspruch.2",
    "relation": "has_step",
@@ -16679,13 +18096,40 @@
   },
   {
    "source": "step:schema_widerspruch.3.3",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_widerspruch.3.3",
    "target": "concept:bekannte_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_widerspruch.3.3",
+   "target": "concept:bekanntheit_union",
    "relation": "uses_concept"
   },
   {
    "source": "step:schema_widerspruch.3.3",
    "target": "case:bgh_springender_pudel",
    "relation": "cites"
+  },
+  {
+   "source": "step:schema_widerspruch.3.3",
+   "target": "case:eugh_iron_smith",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_widerspruch.3.3",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "step:schema_widerspruch.3.3",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 3"
   },
   {
    "source": "schema:schema_widerspruch",
@@ -17206,6 +18650,1378 @@
    "target": "norm:§47",
    "relation": "applies",
    "ref": "§ 47"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "norm:§42",
+   "relation": "applies",
+   "ref": "§ 42"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "norm:§22",
+   "relation": "applies",
+   "ref": "§ 22"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "step:schema_relative_schutzhindernisse.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.1",
+   "target": "concept:relative_schutzhindernisse",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.1",
+   "target": "concept:widerspruch",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.1",
+   "target": "concept:nichtigkeit",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.1",
+   "target": "norm:§42",
+   "relation": "applies",
+   "ref": "§ 42"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.1",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.1",
+   "target": "norm:§53",
+   "relation": "applies",
+   "ref": "§ 53"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.1",
+   "target": "norm:§55",
+   "relation": "applies",
+   "ref": "§ 55"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "step:schema_relative_schutzhindernisse.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.1",
+   "target": "step:schema_relative_schutzhindernisse.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.2",
+   "target": "concept:prioritaet",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.2",
+   "target": "concept:unionsmarke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.2",
+   "target": "concept:ir_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.2",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 2"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.2",
+   "target": "norm:§6",
+   "relation": "applies",
+   "ref": "§ 6"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.2",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.2",
+   "target": "norm:§112",
+   "relation": "applies",
+   "ref": "§ 112"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "step:schema_relative_schutzhindernisse.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.2",
+   "target": "step:schema_relative_schutzhindernisse.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.3",
+   "target": "concept:nichtbenutzungseinrede",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.3",
+   "target": "concept:benutzung_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.3",
+   "target": "concept:ir_benutzungsschonfrist",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.3",
+   "target": "norm:§43",
+   "relation": "applies",
+   "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.3",
+   "target": "norm:§53",
+   "relation": "applies",
+   "ref": "§ 53"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.3",
+   "target": "norm:§116",
+   "relation": "applies",
+   "ref": "§ 116"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "step:schema_relative_schutzhindernisse.4",
+   "relation": "has_step",
+   "order": 4
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.3",
+   "target": "step:schema_relative_schutzhindernisse.4",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4",
+   "target": "step:schema_relative_schutzhindernisse.4.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.1",
+   "target": "concept:doppelidentitaet",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.1",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 1"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4",
+   "target": "step:schema_relative_schutzhindernisse.4.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.1",
+   "target": "step:schema_relative_schutzhindernisse.4.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.2",
+   "target": "concept:verwechslungsgefahr",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.2",
+   "target": "concept:wechselwirkung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.2",
+   "target": "case:bgh_maalox",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.2",
+   "target": "case:bgh_desperados",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.2",
+   "target": "case:bgh_culinaria",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.2",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 2"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.2",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 4"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4",
+   "target": "step:schema_relative_schutzhindernisse.4.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.2",
+   "target": "step:schema_relative_schutzhindernisse.4.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "case:bgh_springender_pudel",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "step:schema_relative_schutzhindernisse.4.3.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.1",
+   "target": "concept:bekannte_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.1",
+   "target": "concept:bekanntheit_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.1",
+   "target": "case:eugh_general_motors",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.1",
+   "target": "case:eugh_pago",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.1",
+   "target": "case:eugh_iron_smith",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.1",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 3"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.1",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "step:schema_relative_schutzhindernisse.4.3.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.1",
+   "target": "step:schema_relative_schutzhindernisse.4.3.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.2",
+   "target": "concept:zeichenaehnlichkeit",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.2",
+   "target": "case:bgh_goldbaeren",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.2",
+   "target": "case:bgh_springender_pudel",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "step:schema_relative_schutzhindernisse.4.3.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.2",
+   "target": "step:schema_relative_schutzhindernisse.4.3.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.3",
+   "target": "case:bgh_otto_cap",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "step:schema_relative_schutzhindernisse.4.3.4",
+   "relation": "has_step",
+   "order": 4
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.3",
+   "target": "step:schema_relative_schutzhindernisse.4.3.4",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.4",
+   "target": "concept:gedankliche_verknuepfung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.4",
+   "target": "case:eugh_intel",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.4",
+   "target": "case:eugh_iron_smith",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.4",
+   "target": "case:bgh_metrobus",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "step:schema_relative_schutzhindernisse.4.3.5",
+   "relation": "has_step",
+   "order": 5
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.4",
+   "target": "step:schema_relative_schutzhindernisse.4.3.5",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.5",
+   "target": "concept:ausnutzung_unterscheidungskraft",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.5",
+   "target": "concept:ausnutzung_wertschaetzung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.5",
+   "target": "concept:verwaesserung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.5",
+   "target": "concept:rufschaedigung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.5",
+   "target": "case:bgh_springender_pudel",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.5",
+   "target": "case:eugh_loreal_bellure",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3",
+   "target": "step:schema_relative_schutzhindernisse.4.3.6",
+   "relation": "has_step",
+   "order": 6
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.5",
+   "target": "step:schema_relative_schutzhindernisse.4.3.6",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.6",
+   "target": "concept:unlauterkeit",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.6",
+   "target": "case:bgh_springender_pudel",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4.3.6",
+   "target": "case:bgh_lila_postkarte",
+   "relation": "cites"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "step:schema_relative_schutzhindernisse.5",
+   "relation": "has_step",
+   "order": 5
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.4",
+   "target": "step:schema_relative_schutzhindernisse.5",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.5",
+   "target": "concept:verwirkung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.5",
+   "target": "concept:koexistenz_22",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.5",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 2"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.5",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 3"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.5",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 4"
+  },
+  {
+   "source": "schema:schema_relative_schutzhindernisse",
+   "target": "step:schema_relative_schutzhindernisse.6",
+   "relation": "has_step",
+   "order": 6
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.5",
+   "target": "step:schema_relative_schutzhindernisse.6",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.6",
+   "target": "concept:koexistenz_22",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.6",
+   "target": "concept:nichtigkeit",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.6",
+   "target": "norm:§22",
+   "relation": "applies",
+   "ref": "§ 22"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.6",
+   "target": "norm:§52",
+   "relation": "applies",
+   "ref": "§ 52"
+  },
+  {
+   "source": "step:schema_relative_schutzhindernisse.6",
+   "target": "norm:§43",
+   "relation": "applies",
+   "ref": "§ 43 Abs. 2"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "norm:§125c",
+   "relation": "applies",
+   "ref": "§ 125c"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "norm:§125d",
+   "relation": "applies",
+   "ref": "§ 125d"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "norm:§125e",
+   "relation": "applies",
+   "ref": "§ 125e"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "norm:§125g",
+   "relation": "applies",
+   "ref": "§ 125g"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "step:schema_unionsmarke.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_unionsmarke.1",
+   "target": "concept:unionsmarke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.1",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "step:schema_unionsmarke.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_unionsmarke.1",
+   "target": "step:schema_unionsmarke.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.2",
+   "target": "step:schema_unionsmarke.2.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_unionsmarke.2.1",
+   "target": "concept:doppelidentitaet",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.1",
+   "target": "concept:verwechslungsgefahr",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.1",
+   "target": "concept:bekannte_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.1",
+   "target": "concept:bekanntheit_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.1",
+   "target": "case:eugh_pago",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.1",
+   "target": "case:eugh_iron_smith",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_unionsmarke.2",
+   "target": "step:schema_unionsmarke.2.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_unionsmarke.2.1",
+   "target": "step:schema_unionsmarke.2.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.2",
+   "target": "concept:schranke_23",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.2",
+   "target": "concept:erschoepfung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.2",
+   "target": "concept:verwirkung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.2",
+   "target": "concept:koexistenz_22",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.2",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.2",
+   "target": "norm:§21",
+   "relation": "applies",
+   "ref": "§ 21"
+  },
+  {
+   "source": "step:schema_unionsmarke.2",
+   "target": "step:schema_unionsmarke.2.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_unionsmarke.2.2",
+   "target": "step:schema_unionsmarke.2.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.3",
+   "target": "concept:benutzung_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.3",
+   "target": "concept:unionsmarkengericht",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.3",
+   "target": "case:eugh_leno_merken",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_unionsmarke.2",
+   "target": "step:schema_unionsmarke.2.4",
+   "relation": "has_step",
+   "order": 4
+  },
+  {
+   "source": "step:schema_unionsmarke.2.3",
+   "target": "step:schema_unionsmarke.2.4",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "concept:unterlassungsanspruch",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "concept:schadensersatz",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "concept:vernichtung_auskunft",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "concept:unionsmarkengericht",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "case:eugh_dhl_chronopost",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "case:eugh_combit",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 6"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "norm:§18",
+   "relation": "applies",
+   "ref": "§ 18"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "norm:§19",
+   "relation": "applies",
+   "ref": "§ 19"
+  },
+  {
+   "source": "step:schema_unionsmarke.2",
+   "target": "step:schema_unionsmarke.2.5",
+   "relation": "has_step",
+   "order": 5
+  },
+  {
+   "source": "step:schema_unionsmarke.2.4",
+   "target": "step:schema_unionsmarke.2.5",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.5",
+   "target": "concept:unionsmarkengericht",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.5",
+   "target": "norm:§125e",
+   "relation": "applies",
+   "ref": "§ 125e"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.5",
+   "target": "norm:§125g",
+   "relation": "applies",
+   "ref": "§ 125g"
+  },
+  {
+   "source": "step:schema_unionsmarke.2.5",
+   "target": "norm:§140",
+   "relation": "applies",
+   "ref": "§ 140"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "step:schema_unionsmarke.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_unionsmarke.2",
+   "target": "step:schema_unionsmarke.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.3",
+   "target": "step:schema_unionsmarke.3.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "concept:bekanntheit_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "concept:relative_schutzhindernisse",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "case:eugh_iron_smith",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "norm:§42",
+   "relation": "applies",
+   "ref": "§ 42"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "step:schema_unionsmarke.3",
+   "target": "step:schema_unionsmarke.3.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_unionsmarke.3.1",
+   "target": "step:schema_unionsmarke.3.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.2",
+   "target": "concept:benutzung_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.2",
+   "target": "case:eugh_leno_merken",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.2",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.2",
+   "target": "norm:§43",
+   "relation": "applies",
+   "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "step:schema_unionsmarke.3.2",
+   "target": "norm:§53",
+   "relation": "applies",
+   "ref": "§ 53"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "step:schema_unionsmarke.4",
+   "relation": "has_step",
+   "order": 4
+  },
+  {
+   "source": "step:schema_unionsmarke.3",
+   "target": "step:schema_unionsmarke.4",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.4",
+   "target": "concept:relative_schutzhindernisse",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.4",
+   "target": "concept:bekannte_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.4",
+   "target": "concept:rechtserhaltende_benutzung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "schema:schema_unionsmarke",
+   "target": "step:schema_unionsmarke.5",
+   "relation": "has_step",
+   "order": 5
+  },
+  {
+   "source": "step:schema_unionsmarke.4",
+   "target": "step:schema_unionsmarke.5",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_unionsmarke.5",
+   "target": "concept:senioritaet",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.5",
+   "target": "concept:prioritaet",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_unionsmarke.5",
+   "target": "norm:§125c",
+   "relation": "applies",
+   "ref": "§ 125c"
+  },
+  {
+   "source": "step:schema_unionsmarke.5",
+   "target": "norm:§125d",
+   "relation": "applies",
+   "ref": "§ 125d"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§112",
+   "relation": "applies",
+   "ref": "§ 112"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§113",
+   "relation": "applies",
+   "ref": "§ 113"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§114",
+   "relation": "applies",
+   "ref": "§ 114"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§115",
+   "relation": "applies",
+   "ref": "§ 115"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§116",
+   "relation": "applies",
+   "ref": "§ 116"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§117",
+   "relation": "applies",
+   "ref": "§ 117"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§119",
+   "relation": "applies",
+   "ref": "§ 119"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§124",
+   "relation": "applies",
+   "ref": "§ 124"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "norm:§125",
+   "relation": "applies",
+   "ref": "§ 125"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "step:schema_ir_marke.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_ir_marke.1",
+   "target": "concept:ir_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.1",
+   "target": "norm:§119",
+   "relation": "applies",
+   "ref": "§ 119"
+  },
+  {
+   "source": "step:schema_ir_marke.1",
+   "target": "norm:§124",
+   "relation": "applies",
+   "ref": "§ 124"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "step:schema_ir_marke.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_ir_marke.1",
+   "target": "step:schema_ir_marke.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.2",
+   "target": "concept:ir_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.2",
+   "target": "concept:prioritaet",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.2",
+   "target": "concept:entstehung_markenschutz",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.2",
+   "target": "norm:§112",
+   "relation": "applies",
+   "ref": "§ 112"
+  },
+  {
+   "source": "step:schema_ir_marke.2",
+   "target": "norm:§6",
+   "relation": "applies",
+   "ref": "§ 6"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "step:schema_ir_marke.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_ir_marke.2",
+   "target": "step:schema_ir_marke.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.3",
+   "target": "step:schema_ir_marke.3.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_ir_marke.3.1",
+   "target": "concept:ir_schutzverweigerung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.1",
+   "target": "concept:absolute_schutzhindernisse",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.1",
+   "target": "norm:§113",
+   "relation": "applies",
+   "ref": "§ 113"
+  },
+  {
+   "source": "step:schema_ir_marke.3.1",
+   "target": "norm:§37",
+   "relation": "applies",
+   "ref": "§ 37"
+  },
+  {
+   "source": "step:schema_ir_marke.3",
+   "target": "step:schema_ir_marke.3.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_ir_marke.3.1",
+   "target": "step:schema_ir_marke.3.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.3.2",
+   "target": "concept:ir_schutzverweigerung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.2",
+   "target": "concept:widerspruch",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.2",
+   "target": "norm:§114",
+   "relation": "applies",
+   "ref": "§ 114"
+  },
+  {
+   "source": "step:schema_ir_marke.3.2",
+   "target": "norm:§42",
+   "relation": "applies",
+   "ref": "§ 42"
+  },
+  {
+   "source": "step:schema_ir_marke.3",
+   "target": "step:schema_ir_marke.3.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_ir_marke.3.2",
+   "target": "step:schema_ir_marke.3.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.3.3",
+   "target": "concept:ir_schutzverweigerung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.3",
+   "target": "concept:verfall",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.3",
+   "target": "concept:nichtigkeit",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.3",
+   "target": "norm:§115",
+   "relation": "applies",
+   "ref": "§ 115"
+  },
+  {
+   "source": "step:schema_ir_marke.3.3",
+   "target": "norm:§49",
+   "relation": "applies",
+   "ref": "§ 49"
+  },
+  {
+   "source": "step:schema_ir_marke.3.3",
+   "target": "norm:§50",
+   "relation": "applies",
+   "ref": "§ 50"
+  },
+  {
+   "source": "step:schema_ir_marke.3.3",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "step:schema_ir_marke.3",
+   "target": "step:schema_ir_marke.3.4",
+   "relation": "has_step",
+   "order": 4
+  },
+  {
+   "source": "step:schema_ir_marke.3.3",
+   "target": "step:schema_ir_marke.3.4",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.3.4",
+   "target": "concept:ir_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.4",
+   "target": "concept:senioritaet",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.3.4",
+   "target": "norm:§125",
+   "relation": "applies",
+   "ref": "§ 125"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "step:schema_ir_marke.4",
+   "relation": "has_step",
+   "order": 4
+  },
+  {
+   "source": "step:schema_ir_marke.3",
+   "target": "step:schema_ir_marke.4",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.4",
+   "target": "step:schema_ir_marke.4.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_ir_marke.4.1",
+   "target": "concept:unterlassungsanspruch",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.4.1",
+   "target": "concept:ir_benutzungsschonfrist",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.4.1",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14"
+  },
+  {
+   "source": "step:schema_ir_marke.4.1",
+   "target": "norm:§117",
+   "relation": "applies",
+   "ref": "§ 117"
+  },
+  {
+   "source": "step:schema_ir_marke.4.1",
+   "target": "norm:§25",
+   "relation": "applies",
+   "ref": "§ 25"
+  },
+  {
+   "source": "step:schema_ir_marke.4",
+   "target": "step:schema_ir_marke.4.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_ir_marke.4.1",
+   "target": "step:schema_ir_marke.4.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.4.2",
+   "target": "concept:relative_schutzhindernisse",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.4.2",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.4.2",
+   "target": "concept:ir_benutzungsschonfrist",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.4.2",
+   "target": "norm:§116",
+   "relation": "applies",
+   "ref": "§ 116"
+  },
+  {
+   "source": "step:schema_ir_marke.4.2",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9"
+  },
+  {
+   "source": "step:schema_ir_marke.4.2",
+   "target": "norm:§43",
+   "relation": "applies",
+   "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "step:schema_ir_marke.4",
+   "target": "step:schema_ir_marke.4.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_ir_marke.4.2",
+   "target": "step:schema_ir_marke.4.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.4.3",
+   "target": "concept:unionsmarke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.4.3",
+   "target": "concept:bekanntheit_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.4.3",
+   "target": "concept:benutzung_union",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.4.3",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "schema:schema_ir_marke",
+   "target": "step:schema_ir_marke.5",
+   "relation": "has_step",
+   "order": 5
+  },
+  {
+   "source": "step:schema_ir_marke.4",
+   "target": "step:schema_ir_marke.5",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_ir_marke.5",
+   "target": "concept:ir_benutzungsschonfrist",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.5",
+   "target": "concept:benutzungsschonfrist",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_ir_marke.5",
+   "target": "norm:§115",
+   "relation": "applies",
+   "ref": "§ 115"
+  },
+  {
+   "source": "step:schema_ir_marke.5",
+   "target": "norm:§116",
+   "relation": "applies",
+   "ref": "§ 116"
+  },
+  {
+   "source": "step:schema_ir_marke.5",
+   "target": "norm:§117",
+   "relation": "applies",
+   "ref": "§ 117"
   }
  ]
 }

@@ -8,7 +8,7 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 | Pfad | Inhalt |
 |---|---|
 | `docs/index.html` | **Lernapp** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (600 Knoten, ca. 1.500 Kanten) |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (659 Knoten, ca. 1.900 Kanten) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
@@ -21,9 +21,10 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 - **Prüfungsschemata**: Gutachtenaufbau z.B. für die Markenverletzung (§ 14), die Verwechslungsgefahr,
   den Bekanntheitsschutz, die Eintragungsfähigkeit (§§ 3, 8), §§ 23/24, Benutzungszwang, §§ 5/15,
-  Widerspruch und Löschung. Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
+  Widerspruch und Löschung, die relativen Schutzhindernisse im Register (§ 9 Abs. 1 Nr. 1-3) sowie
+  das Vorgehen aus einer Unionsmarke (UMV, § 125b ff.) und aus einer IR-Marke (PMMA, §§ 112-125). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
   und Entscheidungen (violett) öffnen sich als Karte direkt an Ort und Stelle – auch verschachtelt.
-- **Karteikarten**: 448 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
+- **Karteikarten**: 500 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
   Entscheidungen, Normen). Filter nach Typ und Thema, Karten pro Schema, Tastatursteuerung,
   Fortschritt „gewusst / nicht gewusst“ im Browser (localStorage).
 - **Abgrenzungen**: Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft,
@@ -64,7 +65,7 @@ gepflegt.
 - **IPWiki** (www.ipwiki.de): Die Artikel konnten aus der Build-Umgebung nicht direkt geladen werden
   (Netzwerk-Sperre). `src/knowledge/ipwiki.py` enthält den per Websuche ermittelten Artikelindex mit
   Kurzinhalt und Link; die Begriffe verweisen darauf.
-- **Rechtsprechung**: 96 Entscheidungen (75 BGH, 21 EuGH), per Websuche recherchiert und mit
+- **Rechtsprechung**: 101 Entscheidungen (75 BGH, 26 EuGH), per Websuche recherchiert und mit
   Aktenzeichen/Datum gegen dejure.org, bundesgerichtshof.de und Fachveröffentlichungen abgeglichen.
   Die Kernaussagen sind Paraphrasen für Lernzwecke – für Zitate den Volltext prüfen
   (Link „dejure ↗“ in jeder Entscheidung).

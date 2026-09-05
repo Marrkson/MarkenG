@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht
 
-448 Karten, generiert aus graph/markenrecht_graph.json.
+500 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -1376,7 +1376,7 @@ Die Marke muss von ihrem Inhaber oder mit seiner Zustimmung (§ 26 Abs. 2) im In
 
 Normen: § 26 Abs. 1 MarkenG
 
-Rechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11)
+Rechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11)
 
 *Tags: Begriff, Benutzungszwang*
 
@@ -1606,7 +1606,7 @@ Anspruchsberechtigt ist der Markeninhaber (§ 14 Abs. 1, § 28 Abs. 1: Vermutung
 
 Normen: § 14 Abs. 5, § 15 Abs. 4, § 140 MarkenG
 
-Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH ORTLIEB II (I ZR 29/18); BGH Hard Rock Cafe (I ZR 188/11)
+Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH ORTLIEB II (I ZR 29/18); BGH Hard Rock Cafe (I ZR 188/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1988,13 +1988,13 @@ Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen 
 
 **F:** Definiere: Unionsmarke (UMV) und Koexistenz
 
-**A:** Die Unionsmarke (VO (EU) 2017/1001) gewährt einheitlichen Schutz im gesamten Gebiet der EU; sie besteht neben nationalen Marken (Koexistenz). Verletzungsklagen werden vor den Unionsmarkengerichten (§ 125e MarkenG) erhoben; die materiellen Tatbestände (Art. 9 UMV) entsprechen § 14 Abs. 2.
+**A:** Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, Art. 1 Abs. 2 UMV). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über § 125b MarkenG und Art. 8 Abs. 2 UMV wechselseitig als ältere Rechte verzahnt.
 
-Normen: § 125b, § 125e MarkenG
+Normen: § 125b, § 125c, § 125d, § 125e MarkenG
 
-Rechtsprechung: EuGH L'Oréal/Bellure (C-487/07); EuGH THOMSON LIFE (Medion) (C-120/04)
+Rechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)
 
-*Tags: Begriff, Grundlagen*
+*Tags: Begriff, EU- und IR-Marken*
 
 ---
 
@@ -2002,11 +2002,235 @@ Rechtsprechung: EuGH L'Oréal/Bellure (C-487/07); EuGH THOMSON LIFE (Medion) (C-
 
 **F:** Welcher Begriff wird so definiert?
 
-Die Unionsmarke (VO (EU) 2017/1001) gewährt einheitlichen Schutz im gesamten Gebiet der EU; sie besteht neben nationalen Marken (Koexistenz). Verletzungsklagen werden vor den Unionsmarkengerichten (§ 125e MarkenG) erhoben; die materiellen Tatbestände (Art. 9 UMV) entsprechen § 14 Abs. 2.
+Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, Art. 1 Abs. 2 UMV). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über § 125b MarkenG und Art. 8 Abs. 2 UMV wechselseitig als ältere Rechte verzahnt.
 
 **A:** Unionsmarke (UMV) und Koexistenz
 
-*Tags: Begriff, Umkehr, Grundlagen*
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3)
+
+**A:** Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer angemeldeten oder eingetragenen älteren Marke identisch oder ihr ähnlich ist, die ältere Marke im Inland bekannt ist und die Benutzung der jüngeren Marke die Unterscheidungskraft oder die Wertschätzung der bekannten Marke ohne rechtfertigenden Grund in unlauterer Weise ausnutzen oder beeinträchtigen würde.
+
+Normen: § 9 Abs. 1 Nr. 3, § 42, § 51 Abs. 3, § 22 Abs. 1 Nr. 1, § 125b MarkenG
+
+Rechtsprechung: BGH Springender Pudel (I ZR 59/13); EuGH Intel/CPM (INTELMARK) (C-252/07); EuGH General Motors/Yplon (Chevy) (C-375/97); EuGH Iron & Smith/Unilever (C-125/14)
+
+*Tags: Begriff, Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer angemeldeten oder eingetragenen älteren Marke identisch oder ihr ähnlich ist, die ältere Marke im Inland bekannt ist und die Benutzung der jüngeren Marke die Unterscheidungskraft oder die Wertschätzung der bekannten Marke ohne rechtfertigenden Grund in unlauterer Weise ausnutzen oder beeinträchtigen würde.
+
+**A:** Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3)
+
+*Tags: Begriff, Umkehr, Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Ausschluss von Ansprüchen bei Bestandskraft der jüngeren Marke (§ 22)
+
+**A:** Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jüngeren Marke nicht untersagen, wenn ein Nichtigkeitsantrag gegen sie zurückgewiesen wurde oder zurückzuweisen wäre, weil (1) das ältere Zeichen am Prioritätstag der jüngeren Marke noch nicht bekannt war (§ 51 Abs. 3), (2) die ältere Marke damals löschungsreif war (§ 51 Abs. 4) oder (3) damals noch keine Verwechslungsgefahr bestand (§ 22 Abs. 1). Umgekehrt kann auch der Inhaber der jüngeren Marke die ältere nicht untersagen (§ 22 Abs. 2): Koexistenz.
+
+Normen: § 22, § 51 Abs. 3, § 51 Abs. 4, § 21 MarkenG
+
+*Tags: Begriff, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jüngeren Marke nicht untersagen, wenn ein Nichtigkeitsantrag gegen sie zurückgewiesen wurde oder zurückzuweisen wäre, weil (1) das ältere Zeichen am Prioritätstag der jüngeren Marke noch nicht bekannt war (§ 51 Abs. 3), (2) die ältere Marke damals löschungsreif war (§ 51 Abs. 4) oder (3) damals noch keine Verwechslungsgefahr bestand (§ 22 Abs. 1). Umgekehrt kann auch der Inhaber der jüngeren Marke die ältere nicht untersagen (§ 22 Abs. 2): Koexistenz.
+
+**A:** Ausschluss von Ansprüchen bei Bestandskraft der jüngeren Marke (§ 22)
+
+*Tags: Begriff, Umkehr, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Bekanntheit in der Union (§ 125b Nr. 1, Art. 9 Abs. 2 lit. c UMV)
+
+**A:** Wird aus einer Unionsmarke nach § 9 Abs. 1 Nr. 3 gegen eine deutsche Marke vorgegangen, tritt an die Stelle der Bekanntheit im Inland die Bekanntheit in der Union. Sie liegt vor, wenn die Marke einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist; ein einziger Mitgliedstaat kann genügen (PAGO).
+
+Normen: § 125b, § 9 Abs. 1 Nr. 3 MarkenG
+
+Rechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH General Motors/Yplon (Chevy) (C-375/97)
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wird aus einer Unionsmarke nach § 9 Abs. 1 Nr. 3 gegen eine deutsche Marke vorgegangen, tritt an die Stelle der Bekanntheit im Inland die Bekanntheit in der Union. Sie liegt vor, wenn die Marke einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist; ein einziger Mitgliedstaat kann genügen (PAGO).
+
+**A:** Bekanntheit in der Union (§ 125b Nr. 1, Art. 9 Abs. 2 lit. c UMV)
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5)
+
+**A:** Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach § 26 die ernsthafte Benutzung in der Union nach Art. 18 UMV. Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
+
+Normen: § 125b, § 26, § 43 Abs. 1, § 53 MarkenG
+
+Rechtsprechung: EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH Ansul/Ajax (C-40/01)
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach § 26 die ernsthafte Benutzung in der Union nach Art. 18 UMV. Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
+
+**A:** Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5)
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Unionsmarkengerichte und Verfahren (§ 125e, Art. 123 ff. UMV)
+
+**A:** Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben (Art. 124 UMV; in Deutschland die von den Ländern bestimmten Landgerichte, § 125e). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
+
+Normen: § 125e, § 125g, § 140 MarkenG
+
+Rechtsprechung: EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09); EuGH combit Software/Commit Business Solutions (C-223/15)
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben (Art. 124 UMV; in Deutschland die von den Ländern bestimmten Landgerichte, § 125e). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
+
+**A:** Unionsmarkengerichte und Verfahren (§ 125e, Art. 123 ff. UMV)
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ 125c, 125d)
+
+**A:** Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend (Art. 39, 40 UMV). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, § 125d).
+
+Normen: § 125c, § 125d, § 125 MarkenG
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend (Art. 39, 40 UMV). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, § 125d).
+
+**A:** Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ 125c, 125d)
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: International registrierte Marke (IR-Marke, Madrider System)
+
+**A:** Marke, die über die WIPO auf Grundlage einer Basismarke/-anmeldung nach dem Madrider Markenabkommen (MMA, §§ 107-118) oder – heute praktisch ausschließlich – dem Protokoll zum MMA (PMMA, §§ 119-125) international registriert und auf Deutschland erstreckt wurde. Sie hat dieselbe Wirkung wie eine am Tag der internationalen Registrierung (bzw. der nachträglichen Schutzerstreckung) beim DPMA angemeldete und eingetragene Marke (§ 112, § 124).
+
+Normen: § 112, § 116, § 119, § 124, § 125 MarkenG
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Marke, die über die WIPO auf Grundlage einer Basismarke/-anmeldung nach dem Madrider Markenabkommen (MMA, §§ 107-118) oder – heute praktisch ausschließlich – dem Protokoll zum MMA (PMMA, §§ 119-125) international registriert und auf Deutschland erstreckt wurde. Sie hat dieselbe Wirkung wie eine am Tag der internationalen Registrierung (bzw. der nachträglichen Schutzerstreckung) beim DPMA angemeldete und eingetragene Marke (§ 112, § 124).
+
+**A:** International registrierte Marke (IR-Marke, Madrider System)
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Schutzverweigerung und Widerspruch gegen IR-Marken (§§ 113-115)
+
+**A:** Das DPMA prüft die auf Deutschland erstreckte IR-Marke auf absolute Schutzhindernisse wie eine Anmeldung (§ 113) und muss eine Schutzverweigerung innerhalb der Frist des Art. 5 Abs. 2 PMMA (12 bzw. 18 Monate) an die WIPO mitteilen. Der Widerspruch (§ 114) richtet sich gegen die Schutzgewährung; die Frist beginnt mit dem ersten Tag des Monats nach dem Ausgabemonat der WIPO-Gazette. An die Stelle der Löschung tritt die Verweigerung bzw. nachträgliche Entziehung des Schutzes (§ 114 Abs. 3, § 115).
+
+Normen: § 113, § 114, § 115, § 124 MarkenG
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das DPMA prüft die auf Deutschland erstreckte IR-Marke auf absolute Schutzhindernisse wie eine Anmeldung (§ 113) und muss eine Schutzverweigerung innerhalb der Frist des Art. 5 Abs. 2 PMMA (12 bzw. 18 Monate) an die WIPO mitteilen. Der Widerspruch (§ 114) richtet sich gegen die Schutzgewährung; die Frist beginnt mit dem ersten Tag des Monats nach dem Ausgabemonat der WIPO-Gazette. An die Stelle der Löschung tritt die Verweigerung bzw. nachträgliche Entziehung des Schutzes (§ 114 Abs. 3, § 115).
+
+**A:** Schutzverweigerung und Widerspruch gegen IR-Marken (§§ 113-115)
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117)
+
+**A:** Für IR-Marken tritt an die Stelle des Eintragungstags (§ 26 Abs. 5, § 25, § 43 Abs. 1, § 53 Abs. 6) einer der in § 115 Abs. 2 bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.
+
+Normen: § 115, § 116, § 117, § 124, § 25, § 26 MarkenG
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für IR-Marken tritt an die Stelle des Eintragungstags (§ 26 Abs. 5, § 25, § 43 Abs. 1, § 53 Abs. 6) einer der in § 115 Abs. 2 bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.
+
+**A:** Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117)
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
 
 ---
 
@@ -2202,6 +2426,66 @@ Die Unionsmarke (VO (EU) 2017/1001) gewährt einheitlichen Schutz im gesamten Ge
 - 5. Erlöschen
 
 *Tags: Prüfungsschema, Grundlagen*
+
+---
+
+**F:** Prüfungsschema: Relative Schutzhindernisse im Register (§ 9 Abs. 1 Nr. 1-3 MarkenG)
+
+**A:** - 1. Verfahrensrahmen
+- 2. Ältere Marke mit besserem Zeitrang
+- 3. Nichtbenutzungseinrede gegen die ältere Marke
+- 4. Kollisionstatbestand
+  - Nr. 1 – Doppelidentität
+  - Nr. 2 – Verwechslungsgefahr
+  - Nr. 3 – Bekannte ältere Marke
+    - a) Bekanntheit im Inland zum maßgeblichen Zeitpunkt
+    - b) Zeichenidentität oder -ähnlichkeit
+    - c) Waren/Dienstleistungen der jüngeren Marke
+    - d) Gedankliche Verknüpfung
+    - e) Prognose: Benutzung 'würde' ausnutzen oder beeinträchtigen
+    - f) Ohne rechtfertigenden Grund in unlauterer Weise
+- 5. Ausschlussgründe (nur Nichtigkeitsverfahren)
+- 6. Rechtsfolge und Wechselwirkung mit dem Verletzungsprozess
+
+*Tags: Prüfungsschema, Verfahren*
+
+---
+
+**F:** Prüfungsschema: Vorgehen aus einer Unionsmarke in Deutschland (UMV, § 125b ff. MarkenG)
+
+**A:** - 1. Rechtsgrundlagen
+- 2. Verletzungsklage aus der Unionsmarke
+  - a) Anspruch
+  - b) Schranken
+  - c) Einwand der Nichtbenutzung und Widerklage
+  - d) Rechtsfolgen
+  - e) Zuständigkeit
+- 3. Angriff auf eine deutsche Marke aus der Unionsmarke
+  - a) Widerspruch (§ 42) und Nichtigkeit (§ 51)
+  - b) Nichtbenutzungseinrede
+- 4. Angriff auf die Unionsmarke aus einer deutschen Marke oder IR-Marke (DE)
+- 5. Seniorität, Umwandlung, Koexistenz
+
+*Tags: Prüfungsschema, EU- und IR-Marken*
+
+---
+
+**F:** Prüfungsschema: Vorgehen aus einer IR-Marke in Deutschland (PMMA, §§ 112-125 MarkenG)
+
+**A:** - 1. Rechtsgrundlagen
+- 2. Wirkung und Zeitrang (§ 112)
+- 3. Verteidigung der Erstreckung in Deutschland
+  - a) Prüfung absoluter Schutzhindernisse (§ 113)
+  - b) Widerspruch Dritter (§ 114)
+  - c) Verfall und Nichtigkeit (§ 115)
+  - d) Abhängigkeit von der Basismarke und Umwandlung
+- 4. Angriff aus der IR-Marke
+  - a) Verletzungsklage
+  - b) Widerspruch und Nichtigkeitsantrag gegen deutsche Marken (§ 116)
+  - c) IR-Marke mit Benennung EU
+- 5. Benutzungsschonfrist (§§ 115 Abs. 2, 116, 117)
+
+*Tags: Prüfungsschema, EU- und IR-Marken*
 
 ---
 
@@ -2402,6 +2686,97 @@ Welche Punkte sind hier zu prüfen?
 **A:** - Nr. 1 – Eintragung
 - Nr. 2 – Verkehrsgeltung durch Benutzung
 - Nr. 3 – Notorische Bekanntheit
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 4. Kollisionstatbestand
+(Relative Schutzhindernisse im Register (§ 9 Abs. 1 Nr. 1-3 MarkenG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - Nr. 1 – Doppelidentität
+- Nr. 2 – Verwechslungsgefahr
+- Nr. 3 – Bekannte ältere Marke
+  - a) Bekanntheit im Inland zum maßgeblichen Zeitpunkt
+  - b) Zeichenidentität oder -ähnlichkeit
+  - c) Waren/Dienstleistungen der jüngeren Marke
+  - d) Gedankliche Verknüpfung
+  - e) Prognose: Benutzung 'würde' ausnutzen oder beeinträchtigen
+  - f) Ohne rechtfertigenden Grund in unlauterer Weise
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** Nr. 3 – Bekannte ältere Marke
+(Relative Schutzhindernisse im Register (§ 9 Abs. 1 Nr. 1-3 MarkenG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Bekanntheit im Inland zum maßgeblichen Zeitpunkt
+- b) Zeichenidentität oder -ähnlichkeit
+- c) Waren/Dienstleistungen der jüngeren Marke
+- d) Gedankliche Verknüpfung
+- e) Prognose: Benutzung 'würde' ausnutzen oder beeinträchtigen
+- f) Ohne rechtfertigenden Grund in unlauterer Weise
+
+Spiegelbild des § 14 Abs. 2 Nr. 3 mit registerrechtlichen Besonderheiten.
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 2. Verletzungsklage aus der Unionsmarke
+(Vorgehen aus einer Unionsmarke in Deutschland (UMV, § 125b ff. MarkenG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Anspruch
+- b) Schranken
+- c) Einwand der Nichtbenutzung und Widerklage
+- d) Rechtsfolgen
+- e) Zuständigkeit
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 3. Angriff auf eine deutsche Marke aus der Unionsmarke
+(Vorgehen aus einer Unionsmarke in Deutschland (UMV, § 125b ff. MarkenG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Widerspruch (§ 42) und Nichtigkeit (§ 51)
+- b) Nichtbenutzungseinrede
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 3. Verteidigung der Erstreckung in Deutschland
+(Vorgehen aus einer IR-Marke in Deutschland (PMMA, §§ 112-125 MarkenG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Prüfung absoluter Schutzhindernisse (§ 113)
+- b) Widerspruch Dritter (§ 114)
+- c) Verfall und Nichtigkeit (§ 115)
+- d) Abhängigkeit von der Basismarke und Umwandlung
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 4. Angriff aus der IR-Marke
+(Vorgehen aus einer IR-Marke in Deutschland (PMMA, §§ 112-125 MarkenG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Verletzungsklage
+- b) Widerspruch und Nichtigkeitsantrag gegen deutsche Marken (§ 116)
+- c) IR-Marke mit Benennung EU
 
 *Tags: Prüfungsschema, Prüfungspunkt*
 
@@ -2611,6 +2986,60 @@ Merksatz: Ausnutzen = der Dritte gewinnt. Beeinträchtigen = der Inhaber verlier
 • Beispiel — Täter: Hersteller/Händler von Plagiaten | Teilnehmer: Lieferant von Nachfüllware, der um Befüllung weiß (Tork) | Störer: eBay/Amazon nach Hinweis auf klare Verletzung (Internet-Versteigerung II)
 
 Merksatz: Störer haften nur auf Unterlassung und nur nach Hinweis.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Worin unterscheiden sich der Bekanntheitsschutz im Register (§ 9 Abs. 1 Nr. 3) und im Verletzungsprozess (§ 14 Abs. 2 Nr. 3)?
+(§ 9 Abs. 1 Nr. 3 vs. § 14 Abs. 2 Nr. 3 MarkenG)
+
+**A:** • Funktion — § 9 Abs. 1 Nr. 3 (relatives Schutzhindernis): Angriff auf den Bestand der jüngeren Registermarke | § 14 Abs. 2 Nr. 3 (Verletzungstatbestand): Verbot der Benutzung eines Zeichens im Markt
+• Verfahren — § 9 Abs. 1 Nr. 3 (relatives Schutzhindernis): Widerspruch (§ 42) vor DPMA oder Nichtigkeitsverfahren (§ 51; DPMA § 53 / Landgericht § 55) | § 14 Abs. 2 Nr. 3 (Verletzungstatbestand): Verletzungsklage vor dem Landgericht (§ 140), einstweilige Verfügung
+• Angreifer / Gegner — § 9 Abs. 1 Nr. 3 (relatives Schutzhindernis): Nur Inhaber der älteren bekannten Marke gegen eine eingetragene jüngere Marke | § 14 Abs. 2 Nr. 3 (Verletzungstatbestand): Markeninhaber (oder Lizenznehmer) gegen jeden Benutzer, auch ohne Registermarke
+• Prüfungsgegenstand — § 9 Abs. 1 Nr. 3 (relatives Schutzhindernis): Hypothetische Benutzung der jüngeren Marke für die eingetragenen Waren nach Registerlage ('würde') | § 14 Abs. 2 Nr. 3 (Verletzungstatbestand): Konkrete, tatsächliche Benutzungshandlung in ihrem Marktumfeld
+• Zeitpunkt der Bekanntheit — § 9 Abs. 1 Nr. 3 (relatives Schutzhindernis): Anmelde-/Prioritätstag der jüngeren Marke (§ 51 Abs. 3) und Fortbestehen bei der Entscheidung | § 14 Abs. 2 Nr. 3 (Verletzungstatbestand): Zeitpunkt der Verletzungshandlung; gegen eingetragene jüngere Marke zusätzlich deren Prioritätstag (§ 22 Abs. 1 Nr. 1)
+• Beweismaß — § 9 Abs. 1 Nr. 3 (relatives Schutzhindernis): Widerspruch: Glaubhaftmachung mit präsenten Beweismitteln; Nichtigkeit: Beweis / Amtsermittlung | § 14 Abs. 2 Nr. 3 (Verletzungstatbestand): Voller Beweis nach ZPO (Umfragen, Marktdaten)
+• Rechtsfolge — § 9 Abs. 1 Nr. 3 (relatives Schutzhindernis): Löschung (ex tunc, § 52 Abs. 2) ganz oder teilweise | § 14 Abs. 2 Nr. 3 (Verletzungstatbestand): Unterlassung, Schadensersatz, Vernichtung, Auskunft (§§ 14 Abs. 5-7, 18, 19)
+• Gemeinsam — § 9 Abs. 1 Nr. 3 (relatives Schutzhindernis): Gleiche Voraussetzungen: Bekanntheit, Zeichenähnlichkeit, gedankliche Verknüpfung, vier Eingriffsalternativen, Unlauterkeit ohne rechtfertigenden Grund; seit MaMoG beide auch bei identischen/ähnlichen Waren
+
+Merksatz: § 9 fragt: Darf die Marke im Register stehen? § 14 fragt: Darf das Zeichen benutzt werden? Gleicher Tatbestand, andere Perspektive und anderer Zeitpunkt.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Bekanntheit ist maßgeblich, wenn die ältere Marke eine deutsche Marke bzw. eine Unionsmarke ist?
+(Bekanntheit im Inland vs. Bekanntheit in der Union)
+
+**A:** • Norm — Deutsche Marke / IR-Marke (DE): § 9 Abs. 1 Nr. 3, § 14 Abs. 2 Nr. 3 MarkenG | Unionsmarke / IR-Marke (EU): § 125b Nr. 1 MarkenG, Art. 9 Abs. 2 lit. c, Art. 8 Abs. 5 UMV
+• Räumlicher Bezug — Deutsche Marke / IR-Marke (DE): Bekanntheit im Inland (Bundesgebiet) | Unionsmarke / IR-Marke (EU): Bekanntheit in der Union
+• Wesentlicher Teil — Deutsche Marke / IR-Marke (DE): Ein wesentlicher Teil des Bundesgebiets genügt | Unionsmarke / IR-Marke (EU): Ein wesentlicher Teil der Union; das Gebiet eines einzigen Mitgliedstaats kann genügen (PAGO)
+• Zusatzvoraussetzung im Kollisionsgebiet — Deutsche Marke / IR-Marke (DE): Keine | Unionsmarke / IR-Marke (EU): Für Ausnutzung/Beeinträchtigung in Deutschland muss ein wirtschaftlich nicht unbedeutender Teil des deutschen Publikums die Marke kennen (Iron & Smith)
+• Leitentscheidungen — Deutsche Marke / IR-Marke (DE): EuGH General Motors; BGH TÜV II | Unionsmarke / IR-Marke (EU): EuGH PAGO; EuGH Iron & Smith
+
+Merksatz: Unionsmarke: bekannt in der Union reicht für den Tatbestand, aber ohne Bekanntheit beim deutschen Publikum keine Verknüpfung in Deutschland.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Normen gelten, wenn aus einer deutschen Marke, einer Unionsmarke oder einer IR-Marke vorgegangen wird?
+(Deutsche Marke vs. Unionsmarke vs. IR-Marke)
+
+**A:** • Rechtsgrundlage — Deutsche Marke: MarkenG | Unionsmarke: UMV (VO (EU) 2017/1001) + § 125b ff. MarkenG | IR-Marke (Benennung DE): PMMA/MMA + §§ 107-125 MarkenG (v.a. §§ 112-117 über § 124)
+• Amt / Entstehung — Deutsche Marke: DPMA, Eintragung (§ 4 Nr. 1) | Unionsmarke: EUIPO, Eintragung mit einheitlicher Wirkung in der EU | IR-Marke (Benennung DE): WIPO auf Basis einer Basismarke; Schutzerstreckung auf DE durch Benennung
+• Zeitrang — Deutsche Marke: Anmeldetag (§ 6 Abs. 2, § 33) | Unionsmarke: Anmeldetag beim EUIPO; Seniorität nationaler Marken (Art. 39, 40 UMV) | IR-Marke (Benennung DE): Tag der internationalen Registrierung bzw. nachträglichen Schutzerstreckung (§ 112)
+• Verletzungstatbestand — Deutsche Marke: § 14 Abs. 2 Nr. 1-3 | Unionsmarke: Art. 9 Abs. 2 lit. a-c UMV | IR-Marke (Benennung DE): § 14 Abs. 2 Nr. 1-3 (Wirkung wie deutsche Marke, § 112)
+• Annexansprüche — Deutsche Marke: §§ 14 Abs. 5-7, 18-19c | Unionsmarke: Art. 130 UMV + §§ 14 Abs. 6, 7, 18-19c über § 125b Nr. 2 | IR-Marke (Benennung DE): §§ 14 Abs. 5-7, 18-19c; Einrede § 25 mit § 117
+• Gericht — Deutsche Marke: Landgericht, Kennzeichenstreitsache (§ 140) | Unionsmarke: Unionsmarkengericht (§ 125e, Art. 123 ff. UMV); Verbot grundsätzlich unionsweit | IR-Marke (Benennung DE): Landgericht (§ 140)
+• Bekanntheit — Deutsche Marke: Im Inland | Unionsmarke: In der Union (§ 125b Nr. 1; PAGO, Iron & Smith) | IR-Marke (Benennung DE): Im Inland
+• Rechtserhaltende Benutzung — Deutsche Marke: § 26: im Inland | Unionsmarke: Art. 18 UMV: in der Union, Grenzen der Mitgliedstaaten unbeachtlich (Leno Merken); § 125b Nr. 4, 5 | IR-Marke (Benennung DE): § 26: im Inland
+• Beginn der Benutzungsschonfrist — Deutsche Marke: Eintragung (§ 26 Abs. 5: ggf. Ende des Widerspruchsverfahrens) | Unionsmarke: Eintragung der Unionsmarke (Art. 18 Abs. 1 UMV) | IR-Marke (Benennung DE): Ablauf der Schutzverweigerungsfrist oder rechtskräftige Schutzgewährung (§ 115 Abs. 2, §§ 116, 117)
+• Angriff auf die Marke — Deutsche Marke: Widerspruch § 42, Verfall § 49, Nichtigkeit §§ 50, 51 | Unionsmarke: Widerspruch Art. 46/Art. 8, Verfall Art. 58, Nichtigkeit Art. 59, 60 UMV (EUIPO) oder Widerklage Art. 128 | IR-Marke (Benennung DE): Schutzverweigerung § 113, Widerspruch § 114, Schutzentziehung § 115; 'central attack' auf die Basismarke (Art. 6 PMMA)
+• Besonderheiten — Deutsche Marke: – | Unionsmarke: Umwandlung in nationale Anmeldungen (Art. 139 ff. UMV, § 125d); Koexistenz mit nationalen Marken | IR-Marke (Benennung DE): Benennung EU = Unionsmarke (Art. 189 ff. UMV); Umwandlung § 125
+
+Merksatz: Deutsche Marke: MarkenG pur. Unionsmarke: UMV plus Brücke § 125b. IR-Marke: wie deutsche Marke (§ 112), aber eigene Fristen (§ 115 Abs. 2) und Schutzverweigerung statt Löschung.
 
 *Tags: Abgrenzung*
 
@@ -5016,6 +5445,131 @@ Die Anbringung eines für Kraftfahrzeuge und Spielzeug eingetragenen Zeichens au
 
 ---
 
+## entscheidung
+
+**F:** EuGH „PAGO/Tirolmilch“ (C-301/07, 2009) – Kernaussage?
+
+**A:** Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn sie einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist. Das Gebiet eines einzigen Mitgliedstaats (hier: Österreich) kann ein wesentlicher Teil der Union sein.
+
+Normen: § 125b, § 9 Abs. 1 Nr. 3 MarkenG
+Fundstelle: GRUR 2009, 1158
+
+*Tags: Rechtsprechung, EuGH, Unionsmarke, Bekanntheitsschutz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn sie einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist. Das Gebiet eines einzigen Mitgliedstaats (hier: Österreich) kann ein wesentlicher Teil der Union sein.
+
+**A:** EuGH „PAGO/Tirolmilch“ – C-301/07 (2009), GRUR 2009, 1158
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Unionsmarke, Bekanntheitsschutz*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Iron & Smith/Unilever“ (C-125/14, 2015) – Kernaussage?
+
+**A:** Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgegangen, genügt für die Bekanntheit 'in der Union' die Bekanntheit in einem wesentlichen Teil der Union, der ein einziger Mitgliedstaat sein kann – auch wenn dies nicht der Mitgliedstaat der jüngeren Marke ist. Die Beeinträchtigung/Ausnutzung im Inland setzt aber voraus, dass ein wirtschaftlich nicht unbedeutender Teil des inländischen Publikums die Unionsmarke kennt und die Zeichen gedanklich verknüpft.
+
+Normen: § 125b, § 9 Abs. 1 Nr. 3 MarkenG
+Fundstelle: GRUR 2015, 1002
+
+*Tags: Rechtsprechung, EuGH, Unionsmarke, Bekanntheitsschutz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgegangen, genügt für die Bekanntheit 'in der Union' die Bekanntheit in einem wesentlichen Teil der Union, der ein einziger Mitgliedstaat sein kann – auch wenn dies nicht der Mitgliedstaat der jüngeren Marke ist. Die Beeinträchtigung/Ausnutzung im Inland setzt aber voraus, dass ein wirtschaftlich nicht unbedeutender Teil des inländischen Publikums die Unionsmarke kennt und die Zeichen gedanklich verknüpft.
+
+**A:** EuGH „Iron & Smith/Unilever“ – C-125/14 (2015), GRUR 2015, 1002
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Unionsmarke, Bekanntheitsschutz*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Leno Merken/Hagelkruis (ONEL/OMEL)“ (C-149/11, 2012) – Kernaussage?
+
+**A:** Für die ernsthafte Benutzung einer Unionsmarke (Art. 18 UMV) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.
+
+Normen: § 125b, § 26 MarkenG
+Fundstelle: GRUR 2013, 182
+
+*Tags: Rechtsprechung, EuGH, Unionsmarke, Benutzungszwang*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Für die ernsthafte Benutzung einer Unionsmarke (Art. 18 UMV) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.
+
+**A:** EuGH „Leno Merken/Hagelkruis (ONEL/OMEL)“ – C-149/11 (2012), GRUR 2013, 182
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Unionsmarke, Benutzungszwang*
+
+---
+
+## entscheidung
+
+**F:** EuGH „DHL Express France/Chronopost (WEBSHIPPING)“ (C-235/09, 2011) – Kernaussage?
+
+**A:** Ein von einem Unionsmarkengericht ausgesprochenes Verbot erstreckt sich grundsätzlich auf das gesamte Gebiet der Union; Zwangsmaßnahmen zur Durchsetzung wirken ebenfalls unionsweit. Das Gericht muss die Reichweite beschränken, wenn die Verletzung nur in einem Teil der Union vorliegt oder der Kläger sein Begehren beschränkt.
+
+Normen: § 125e MarkenG
+Fundstelle: GRUR 2011, 518
+
+*Tags: Rechtsprechung, EuGH, Unionsmarke, Verfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Ein von einem Unionsmarkengericht ausgesprochenes Verbot erstreckt sich grundsätzlich auf das gesamte Gebiet der Union; Zwangsmaßnahmen zur Durchsetzung wirken ebenfalls unionsweit. Das Gericht muss die Reichweite beschränken, wenn die Verletzung nur in einem Teil der Union vorliegt oder der Kläger sein Begehren beschränkt.
+
+**A:** EuGH „DHL Express France/Chronopost (WEBSHIPPING)“ – C-235/09 (2011), GRUR 2011, 518
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Unionsmarke, Verfahren*
+
+---
+
+## entscheidung
+
+**F:** EuGH „combit Software/Commit Business Solutions“ (C-223/15, 2016) – Kernaussage?
+
+**A:** Stellt das Unionsmarkengericht fest, dass Verwechslungsgefahr in einem Teil der Union (etwa in den deutschsprachigen Mitgliedstaaten) besteht, in einem anderen Teil aber wegen sprachlicher Unterschiede nicht, muss es das Verbot auf die Gebiete beschränken, in denen Verwechslungsgefahr besteht; für die übrigen Gebiete darf der rechtmäßige Handel nicht untersagt werden.
+
+Normen: § 125e MarkenG
+Fundstelle: GRUR 2016, 1166
+
+*Tags: Rechtsprechung, EuGH, Unionsmarke, Verfahren, Verwechslungsgefahr*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Stellt das Unionsmarkengericht fest, dass Verwechslungsgefahr in einem Teil der Union (etwa in den deutschsprachigen Mitgliedstaaten) besteht, in einem anderen Teil aber wegen sprachlicher Unterschiede nicht, muss es das Verbot auf die Gebiete beschränken, in denen Verwechslungsgefahr besteht; für die übrigen Gebiete darf der rechtmäßige Handel nicht untersagt werden.
+
+**A:** EuGH „combit Software/Commit Business Solutions“ – C-223/15 (2016), GRUR 2016, 1166
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Unionsmarke, Verfahren, Verwechslungsgefahr*
+
+---
+
 ## norm
 
 **F:** Was regelt § 1 MarkenG?
@@ -5171,7 +5725,7 @@ Die Eintragung einer Marke kann gelöscht werden,
  besteht, einschließlich der Gefahr, daß die Marken gedanklich
  miteinander  …
 
-Zugehörige Begriffe: Bekannte Marke (§ 14 Abs. 2 Nr. 3), Doppelidentität / Identitätsschutz (§ 14 Abs. 2 Nr. 1), Kennzeichnungskraft, Relative Schutzhindernisse (§§ 9-13), Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2), Waren-/Dienstleistungsähnlichkeit
+Zugehörige Begriffe: Bekannte Marke (§ 14 Abs. 2 Nr. 3), Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3), Bekanntheit in der Union (§ 125b Nr. 1, Art. 9 Abs. 2 lit. c UMV), Doppelidentität / Identitätsschutz (§ 14 Abs. 2 Nr. 1), Kennzeichnungskraft, Relative Schutzhindernisse (§§ 9-13), Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2), Waren-/Dienstleistungsähnlichkeit
 
 *Tags: Gesetz*
 
@@ -5402,7 +5956,7 @@ Zeitraums von fünf aufeinanderfolgenden Jahren in Kenntnis dieser
 Benutzung geduldet hat, es sei denn, daß die Anmeldung der Marke mit
 jüngerem Zeitrang bösgläubig vorgenommen worden ist.
 
-Zugehörige Begriffe: Verwirkung (§ 21)
+Zugehörige Begriffe: Ausschluss von Ansprüchen bei Bestandskraft der jüngeren Marke (§ 22), Verwirkung (§ 21)
 
 *Tags: Gesetz*
 
@@ -5426,6 +5980,8 @@ zurückzuweisen wäre,
  3),
 
 2. weil die Eintragung der Marke mit älterem Zeitrang am …
+
+Zugehörige Begriffe: Ausschluss von Ansprüchen bei Bestandskraft der jüngeren Marke (§ 22), Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3)
 
 *Tags: Gesetz*
 
@@ -5489,7 +6045,7 @@ seines Anspruchs beruft, nicht gemäß § 26 benutzt worden ist, sofern
 zu diesem Zeitpunkt seit mindestens fünf Jahren kein Widerspruch mehr
 gegen die Marke möglich war.
 
-Zugehörige Begriffe: Benutzungsschonfrist, Nichtbenutzungseinrede (§ 25, § 43 Abs. 1), Rechtserhaltende Benutzung (§ 26)
+Zugehörige Begriffe: Benutzungsschonfrist, Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117), Nichtbenutzungseinrede (§ 25, § 43 Abs. 1), Rechtserhaltende Benutzung (§ 26)
 
 *Tags: Gesetz*
 
@@ -5506,7 +6062,7 @@ Waren oder Dienstleistungen, für die sie eingetragen ist, im Inland
 ernsthaft benutzt worden sein, es sei denn, daß berechtigte Gründe für
 die Nichtbenutzung vorliegen.
 
-Zugehörige Begriffe: Benutzung in abweichender Form (§ 26 Abs. 3), Benutzungsschonfrist, Ernsthafte Benutzung, Rechtserhaltende Benutzung (§ 26)
+Zugehörige Begriffe: Benutzung in abweichender Form (§ 26 Abs. 3), Benutzungsschonfrist, Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117), Ernsthafte Benutzung, Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5), Rechtserhaltende Benutzung (§ 26)
 
 *Tags: Gesetz*
 
@@ -5705,7 +6261,7 @@ sind, Rechte aus einer geschützten Ursprungsbezeichnung oder einer
 geschützten geografischen Angabe mit älterem Zeitrang geltend zu
 machen, gegen die Eintragung der Marke Widerspruch erhoben werden.
 
-Zugehörige Begriffe: Relative Schutzhindernisse (§§ 9-13), Widerspruchsverfahren (§§ 42, 43)
+Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3), Relative Schutzhindernisse (§§ 9-13), Widerspruchsverfahren (§§ 42, 43)
 
 *Tags: Gesetz*
 
@@ -5726,7 +6282,7 @@ durch eine eidesstattliche Versicherung erbracht werden. Bei der
 Entscheidung werden nur Waren und Dienstleistungen berücksichtigt, für
 die die Benutzung nachgewiesen worden ist.
 
-Zugehörige Begriffe: Nichtbenutzungseinrede (§ 25, § 43 Abs. 1), Rechtserhaltende Benutzung (§ 26), Widerspruchsverfahren (§§ 42, 43)
+Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5), Nichtbenutzungseinrede (§ 25, § 43 Abs. 1), Rechtserhaltende Benutzung (§ 26), Widerspruchsverfahren (§§ 42, 43)
 
 *Tags: Gesetz*
 
@@ -5800,7 +6356,7 @@ Sinne der §§ 9 bis 13 mit älterem Zeitrang entgegensteht. Der Antrag
 auf Erklärung der Nichtigkeit kann auch auf mehrere ältere Rechte
 desselben Inhabers gestützt werden.
 
-Zugehörige Begriffe: Nichtigkeit (§§ 50, 51), Relative Schutzhindernisse (§§ 9-13)
+Zugehörige Begriffe: Ausschluss von Ansprüchen bei Bestandskraft der jüngeren Marke (§ 22), Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3), Nichtigkeit (§§ 50, 51), Relative Schutzhindernisse (§§ 9-13)
 
 *Tags: Gesetz*
 
@@ -5839,7 +6395,7 @@ oder rechtskräftiges Urteil entschieden wurde. Dies gilt auch, wenn
 § 55 rechtshängig ist. § 325 Absatz 1 der Zivilprozessordnung gilt
 entsprechend. Werden zwisch …
 
-Zugehörige Begriffe: Nichtigkeit (§§ 50, 51), Verfall (§ 49)
+Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5), Nichtigkeit (§§ 50, 51), Verfall (§ 49)
 
 *Tags: Gesetz*
 
@@ -5974,6 +6530,163 @@ Zugehörige Begriffe: Kollektivmarke und Gewährleistungsmarke (§§ 97 ff., 106
 
 ---
 
+**F:** Was regelt § 112 MarkenG?
+
+**A:** Wirkung der internationalen Registrierung
+
+Die internationale Registrierung einer Marke, deren Schutz nach
+Artikel
+3ter des Madrider Markenabkommens auf das Gebiet der Bundesrepublik
+Deutschland erstreckt worden ist, hat dieselbe Wirkung, wie wenn die
+Marke am Tag der internationalen Registrierung nach Artikel 3 Abs. 4
+des Madrider Markenabkommens oder am Tag der Eintragung der
+nachträglichen Schutzerstreckung nach Artikel
+3ter Abs. 2 des Madrider Markenabkommens zur Eintragung in das vom
+Deutschen Patent- und Markenamt geführte Register angemeldet und
+eingetragen worden wäre.
+
+Zugehörige Begriffe: International registrierte Marke (IR-Marke, Madrider System)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 113 MarkenG?
+
+**A:** Prüfung auf absolute Schutzhindernisse
+
+International registrierte Marken werden in gleicher Weise wie zur
+Eintragung in das Register angemeldete Marken nach § 37 auf absolute
+Schutzhindernisse geprüft. § 37 Abs. 2 ist nicht anzuwenden.
+
+Zugehörige Begriffe: Schutzverweigerung und Widerspruch gegen IR-Marken (§§ 113-115)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 114 MarkenG?
+
+**A:** Widerspruch gegen eine international registrierte Marke
+
+An die Stelle der Veröffentlichung der Eintragung (§ 41 Absatz 2)
+tritt für international registrierte Marken die Veröffentlichung in
+dem vom Internationalen Büro der Weltorganisation für geistiges
+Eigentum herausgegebenen Veröffentlichungsblatt.
+
+Zugehörige Begriffe: Schutzverweigerung und Widerspruch gegen IR-Marken (§§ 113-115)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 115 MarkenG?
+
+**A:** Schutzentziehung
+
+An die Stelle des Antrags auf Erklärung des Verfalls einer Marke
+(§ 49) oder der Nichtigkeit wegen absoluter Schutzhindernisse (§ 50)
+oder älterer Rechte (§ 51) tritt für international registrierte Marken
+der Antrag auf Schutzentziehung.
+
+Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117), Schutzverweigerung und Widerspruch gegen IR-Marken (§§ 113-115)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 116 MarkenG?
+
+**A:** Widerspruch aufgrund einer international registrierten Marke und Antrag auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke
+
+Wird aufgrund einer international registrierten Marke Widerspruch
+gegen die Eintragung einer Marke erhoben, so ist § 43 Absatz 1 mit der
+Maßgabe anzuwenden, dass an die Stelle des Zeitpunkts, ab dem kein
+Widerspruch mehr gegen die Marke möglich war, einer der in § 115
+Absatz 2 bezeichneten Tage tritt.
+
+Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117), International registrierte Marke (IR-Marke, Madrider System)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 117 MarkenG?
+
+**A:** Ausschluß von Ansprüchen wegen mangelnder Benutzung
+
+Werden Ansprüche im Sinne der §§ 14 und 18 bis 19c wegen der
+Verletzung einer international registrierten Marke geltend gemacht, so
+ist § 25 mit der Maßgabe anzuwenden, daß an die Stelle des Zeitpunkts,
+ab dem kein Widerspruch mehr gegen die Marke möglich war, einer der in
+§ 115 Absatz 2 bezeichneten Tage tritt.
+
+Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 119 MarkenG?
+
+**A:** Anwendung der Vorschriften dieses Gesetzes; Sprachen
+
+Die Vorschriften dieses Gesetzes sind auf internationale
+Registrierungen von Marken nach dem Madrider Protokoll vom 27. Juni
+1989 zum Madrider Abkommen über die internationale Registrierung von
+Marken (Protokoll zum Madrider Markenabkommen), die durch Vermittlung
+des Deutschen Patent- und Markenamts vorgenommen werden oder deren
+Schutz sich auf das Gebiet der Bundesrepublik Deutschland erstreckt,
+entsprechend anzuwenden, soweit in diesem Abschnitt oder im Protokoll
+zum Madrider Markenabkommen nichts anderes bestimmt ist.
+
+Zugehörige Begriffe: International registrierte Marke (IR-Marke, Madrider System)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 124 MarkenG?
+
+**A:** Entsprechende Anwendung der Vorschriften über die Wirkung der nach dem Madrider Markenabkommen international registrierten Marken
+
+Die §§ 112 bis 117 sind auf international registrierte Marken, deren
+Schutz nach Artikel
+3ter des Protokolls zum Madrider Markenabkommen auf das Gebiet der
+Bundesrepublik Deutschland erstreckt worden ist, entsprechend
+anzuwenden mit der Maßgabe, daß an die Stelle der in den §§ 112 bis
+117 aufgeführten Vorschriften des Madrider Markenabkommens die
+entsprechenden Vorschriften des Protokolls zum Madrider Markenabkommen
+treten.
+
+Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117), International registrierte Marke (IR-Marke, Madrider System), Schutzverweigerung und Widerspruch gegen IR-Marken (§§ 113-115)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 125 MarkenG?
+
+**A:** Umwandlung einer internationalen Registrierung
+
+Wird beim Deutschen Patent- und Markenamt ein Antrag nach Artikel
+9quinquies des Protokolls zum Madrider Markenabkommen auf Umwandlung
+einer im internationalen Register gemäß Artikel 6 Abs. 4 des
+Protokolls zum Madrider Markenabkommen gelöschten Marke gestellt und
+geht der Antrag mit den erforderlichen Angaben dem Deutschen Patent-
+und Markenamt vor Ablauf einer Frist von drei Monaten nach dem Tag der
+Löschung der Marke im internationalen Register zu, so ist der Tag der
+internationalen Registrierung dieser Marke nach Artikel 3 Abs. 4 des
+Protokolls zum Madrider Markenabkommen oder der Tag der Eintragung der
+Schutzerstreckung nach Artikel
+3ter Abs. 2 des Protokolls zum Madrider Markenabkommen …
+
+Zugehörige Begriffe: International registrierte Marke (IR-Marke, Madrider System), Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ 125c, 125d)
+
+*Tags: Gesetz*
+
+---
+
 **F:** Was regelt § 125b MarkenG?
 
 **A:** Anwendung der Vorschriften dieses Gesetzes
@@ -5991,7 +6704,45 @@ Nummern 3 bis 6 entsprechend wie folgt anzuwenden:
  angemeldete oder eingetragene Unionsmarken mit älterem Zeitrang den
  nach diesem Gesetz angemeldeten oder eingetragenen Ma …
 
-Zugehörige Begriffe: Unionsmarke (UMV) und Koexistenz
+Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3), Bekanntheit in der Union (§ 125b Nr. 1, Art. 9 Abs. 2 lit. c UMV), Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5), Unionsmarke (UMV) und Koexistenz
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 125c MarkenG?
+
+**A:** Nachträgliche Feststellung der Ungültigkeit einer Marke
+
+Ist für eine angemeldete oder eingetragene Unionsmarke der
+Zeitrang einer im Register des Deutschen Patent- und Markenamts
+eingetragenen Marke nach Artikel 39 oder Artikel 40 der
+Unionsmarkenverordnung in Anspruch genommen worden und ist die im
+Register des Deutschen Patent- und Markenamts eingetragene Marke wegen
+Nichtverlängerung der Schutzdauer nach § 47 Absatz 6 oder wegen
+Verzichts nach § 48 Absatz 1 gelöscht worden, so kann auf Antrag
+nachträglich die Ungültigkeit dieser Marke wegen Verfalls oder wegen
+Nichtigkeit festgestellt werden. In diesem Fall entfaltet der Zeitrang
+keine Wirkung.
+
+Zugehörige Begriffe: Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ 125c, 125d), Unionsmarke (UMV) und Koexistenz
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 125d MarkenG?
+
+**A:** Umwandlung von Unionsmarken
+
+Ist dem Deutschen Patent- und Markenamt ein Antrag auf Umwandlung
+einer angemeldeten oder eingetragenen Unionsmarke nach Artikel 139
+Absatz 3 der Unionsmarkenverordnung übermittelt worden, so sind die
+Gebühr und die Klassengebühren nach dem Patentkostengesetz für das
+Umwandlungsverfahren mit Zugang des Umwandlungsantrages beim Deutschen
+Patent- und Markenamt fällig.
+
+Zugehörige Begriffe: Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ 125c, 125d), Unionsmarke (UMV) und Koexistenz
 
 *Tags: Gesetz*
 
@@ -6007,7 +6758,26 @@ Unionsmarkenverordnung zuständig sind (Unionsmarkenstreitsachen), sind
 als Unionsmarkengerichte im ersten Rechtszug die Landgerichte ohne
 Rücksicht auf den Streitwert ausschließlich zuständig.
 
-Zugehörige Begriffe: Unionsmarke (UMV) und Koexistenz
+Zugehörige Begriffe: Unionsmarke (UMV) und Koexistenz, Unionsmarkengerichte und Verfahren (§ 125e, Art. 123 ff. UMV)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt § 125g MarkenG?
+
+**A:** Örtliche Zuständigkeit der Unionsmarkengerichte
+
+Sind nach Artikel 125 der Unionsmarkenverordnung deutsche
+Unionsmarkengerichte international zuständig, so gelten für die
+örtliche Zuständigkeit dieser Gerichte die Vorschriften entsprechend,
+die anzuwenden wären, wenn es sich um eine beim Deutschen Patent- und
+Markenamt eingereichte Anmeldung einer Marke oder um eine im Register
+des Deutschen Patent- und Markenamts eingetragene Marke handelte. Ist
+eine Zuständigkeit danach nicht begründet, so ist das Gericht örtlich
+zuständig, bei dem der Kläger seinen allgemeinen Gerichtsstand hat.
+
+Zugehörige Begriffe: Unionsmarkengerichte und Verfahren (§ 125e, Art. 123 ff. UMV)
 
 *Tags: Gesetz*
 
@@ -6073,7 +6843,7 @@ Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
 (Kennzeichenstreitsachen), sind die Landgerichte ohne Rücksicht auf
 den Streitwert ausschließlich zuständig.
 
-Zugehörige Begriffe: Unterlassungsanspruch (§ 14 Abs. 5)
+Zugehörige Begriffe: Unionsmarkengerichte und Verfahren (§ 125e, Art. 123 ff. UMV), Unterlassungsanspruch (§ 14 Abs. 5)
 
 *Tags: Gesetz*
 

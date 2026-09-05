@@ -539,6 +539,34 @@ CASES = [
          concepts=["markenmaessige_benutzung", "herkunftsfunktion"],
          kern="Die Anbringung eines für Kraftfahrzeuge und Spielzeug eingetragenen Zeichens auf Modellautos ist nur dann untersagbar, wenn sie die Funktionen der Marke als für Spielzeug eingetragene Marke beeinträchtigt. Für Kraftfahrzeuge liegt keine Benutzung 'für Waren' vor, die identisch oder ähnlich sind.",
          tags=["Markenmäßige Benutzung"]),
+    # ------------------------------------------------------------------
+    # Unionsmarke / EU-Ebene
+    # ------------------------------------------------------------------
+    dict(id="eugh_pago", name="PAGO/Tirolmilch", court="EuGH", date="2009-10-06", az="C-301/07",
+         fundstelle="GRUR 2009, 1158", norms=["§ 125b", "§ 9 Abs. 1 Nr. 3"],
+         concepts=["bekanntheit_union", "bekannte_marke", "unionsmarke"],
+         kern="Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn sie einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist. Das Gebiet eines einzigen Mitgliedstaats (hier: Österreich) kann ein wesentlicher Teil der Union sein.",
+         tags=["Unionsmarke", "Bekanntheitsschutz"]),
+    dict(id="eugh_iron_smith", name="Iron & Smith/Unilever", court="EuGH", date="2015-09-03", az="C-125/14",
+         fundstelle="GRUR 2015, 1002", norms=["§ 125b", "§ 9 Abs. 1 Nr. 3"],
+         concepts=["bekanntheit_union", "relative_schutzhindernis_bekannt", "gedankliche_verknuepfung"],
+         kern="Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgegangen, genügt für die Bekanntheit 'in der Union' die Bekanntheit in einem wesentlichen Teil der Union, der ein einziger Mitgliedstaat sein kann – auch wenn dies nicht der Mitgliedstaat der jüngeren Marke ist. Die Beeinträchtigung/Ausnutzung im Inland setzt aber voraus, dass ein wirtschaftlich nicht unbedeutender Teil des inländischen Publikums die Unionsmarke kennt und die Zeichen gedanklich verknüpft.",
+         tags=["Unionsmarke", "Bekanntheitsschutz"]),
+    dict(id="eugh_leno_merken", name="Leno Merken/Hagelkruis (ONEL/OMEL)", court="EuGH", date="2012-12-19", az="C-149/11",
+         fundstelle="GRUR 2013, 182", norms=["§ 125b", "§ 26"],
+         concepts=["benutzung_union", "ernsthafte_benutzung", "unionsmarke"],
+         kern="Für die ernsthafte Benutzung einer Unionsmarke (Art. 18 UMV) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.",
+         tags=["Unionsmarke", "Benutzungszwang"]),
+    dict(id="eugh_dhl_chronopost", name="DHL Express France/Chronopost (WEBSHIPPING)", court="EuGH", date="2011-04-12", az="C-235/09",
+         fundstelle="GRUR 2011, 518", norms=["§ 125e"],
+         concepts=["unionsmarkengericht", "unionsmarke", "unterlassungsanspruch"],
+         kern="Ein von einem Unionsmarkengericht ausgesprochenes Verbot erstreckt sich grundsätzlich auf das gesamte Gebiet der Union; Zwangsmaßnahmen zur Durchsetzung wirken ebenfalls unionsweit. Das Gericht muss die Reichweite beschränken, wenn die Verletzung nur in einem Teil der Union vorliegt oder der Kläger sein Begehren beschränkt.",
+         tags=["Unionsmarke", "Verfahren"]),
+    dict(id="eugh_combit", name="combit Software/Commit Business Solutions", court="EuGH", date="2016-09-22", az="C-223/15",
+         fundstelle="GRUR 2016, 1166", norms=["§ 125e"],
+         concepts=["unionsmarkengericht", "verwechslungsgefahr", "unionsmarke"],
+         kern="Stellt das Unionsmarkengericht fest, dass Verwechslungsgefahr in einem Teil der Union (etwa in den deutschsprachigen Mitgliedstaaten) besteht, in einem anderen Teil aber wegen sprachlicher Unterschiede nicht, muss es das Verbot auf die Gebiete beschränken, in denen Verwechslungsgefahr besteht; für die übrigen Gebiete darf der rechtmäßige Handel nicht untersagt werden.",
+         tags=["Unionsmarke", "Verfahren", "Verwechslungsgefahr"]),
 ]
 
 CASE_INDEX = {c["id"]: c for c in CASES}

@@ -24,6 +24,12 @@ Kanten (source -> target, relation):
   step     -[applies]->        norm
   schema   -[applies]->        norm
   distinction -[contrasts]->   concept
+  course   -[has_chapter]->    chapter     (order)
+  chapter  -[has_unit]->       unit        (order)
+  unit     -[trains]->         concept
+  unit     -[cites]->          case
+  unit     -[applies]->        norm
+  unit     -[covers]->         step | schema
 """
 import json
 import re
@@ -38,6 +44,7 @@ from knowledge.concepts import CONCEPTS  # noqa: E402
 from knowledge.distinctions import DISTINCTIONS  # noqa: E402
 from knowledge.ipwiki import IPWIKI, IPWIKI_BASE  # noqa: E402
 from knowledge.schemata import SCHEMATA  # noqa: E402
+from knowledge.kurse import KURSE  # noqa: E402
 
 STATUTE = ROOT / "data" / "markeng.json"
 OUT = ROOT / "graph" / "markenrecht_graph.json"
@@ -148,6 +155,29 @@ def build():
         link_norms(sid, s["norms"], "applies")
         add_steps(sid, s["steps"], f"step:{s['id']}")
 
+    # --- Kurse (fallbasierte Lerneinheiten) ---
+    for i, k in enumerate(KURSE, 1):
+        kid = f"course:{k['id']}"
+        add_node(dict(id=kid, type="course", label=k["titel"], untertitel=k["untertitel"], beschreibung=k["beschreibung"], order=i))
+        for j, kap in enumerate(k["kapitel"], 1):
+            cid = f"chapter:{kap['id']}"
+            add_node(dict(id=cid, type="chapter", label=kap["titel"], order=j))
+            add_edge(kid, cid, "has_chapter", order=j)
+            for m, e in enumerate(kap["einheiten"], 1):
+                uid = f"unit:{e['id']}"
+                add_node(dict(id=uid, type="unit", label=e["titel"], typ=e["typ"], level=e.get("level", 0),
+                              frage=e.get("frage", ""), order=m))
+                add_edge(cid, uid, "has_unit", order=m)
+                for c in e["concepts"]:
+                    add_edge(uid, f"concept:{c}", "trains")
+                for c in e["cases"]:
+                    add_edge(uid, f"case:{c}", "cites")
+                link_norms(uid, e["norms"], "applies")
+                if e.get("step"):
+                    add_edge(uid, e["step"], "covers")
+                if e["typ"] == "schema":
+                    add_edge(uid, f"schema:{e['schema']}", "covers")
+
     # Validierung
     ids = {n["id"] for n in nodes}
     for e in edges:
@@ -161,7 +191,7 @@ def build():
             beschreibung="Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Markenrecht.",
             gesetz_quelle=statute["quelle"], gesetz_stand=statute["meta"],
             statistik={t: sum(1 for n in nodes if n["type"] == t) for t in
-                       ["norm", "concept", "schema", "step", "case", "distinction", "source"]},
+                       ["norm", "concept", "schema", "step", "case", "distinction", "source", "course", "chapter", "unit"]},
             kanten=len(edges),
         ),
         nodes=nodes, edges=edges,

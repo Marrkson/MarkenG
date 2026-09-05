@@ -15,9 +15,12 @@
    "step": 155,
    "case": 101,
    "distinction": 17,
-   "source": 93
+   "source": 93,
+   "course": 10,
+   "chapter": 26,
+   "unit": 125
   },
-  "kanten": 1892
+  "kanten": 2585
  },
  "nodes": [
   {
@@ -9841,6 +9844,1367 @@
    "label": "5. Benutzungsschonfrist (§§ 115 Abs. 2, 116, 117)",
    "text": "Fünf Jahre ab Ablauf der Schutzverweigerungsfrist (Art. 5 Abs. 2 PMMA) oder ab rechtskräftiger Schutzgewährung – nicht ab dem Tag der internationalen Registrierung.",
    "hinweis": "",
+   "order": 5
+  },
+  {
+   "id": "course:k01",
+   "type": "course",
+   "label": "Grundlagen des Markenrechts",
+   "untertitel": "Was eine Marke ist, wie sie entsteht und was sie leistet",
+   "beschreibung": "Der Einstieg: Schutzgegenstände des MarkenG, Markenfunktionen, die drei Entstehungstatbestände des § 4 und das Prioritätsprinzip.",
+   "order": 1
+  },
+  {
+   "id": "chapter:k01a",
+   "type": "chapter",
+   "label": "Schutzgegenstände und Funktionen",
+   "order": 1
+  },
+  {
+   "id": "unit:k01a-0",
+   "type": "unit",
+   "label": "Worum geht es im Markenrecht?",
+   "typ": "intro",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k01a-1",
+   "type": "unit",
+   "label": "Das Logo auf der Limonade",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Ist „ZITRA“ mit dem Logo ein Zeichen, das grundsätzlich als Marke geschützt werden kann?",
+   "order": 2
+  },
+  {
+   "id": "unit:k01a-2",
+   "type": "unit",
+   "label": "Die Farbe des Lieferwagens",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann eine abstrakte Farbe überhaupt markenfähig sein?",
+   "order": 3
+  },
+  {
+   "id": "unit:k01a-3",
+   "type": "unit",
+   "label": "Die Funktionen der Marke",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Welche Funktion der Marke ist nach EuGH und BGH die Hauptfunktion, an die auch der Verletzungstatbestand anknüpft?",
+   "order": 4
+  },
+  {
+   "id": "unit:k01a-4",
+   "type": "unit",
+   "label": "Der Vereinsname",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Genießt der Vereinsname trotzdem Kennzeichenschutz nach dem MarkenG?",
+   "order": 5
+  },
+  {
+   "id": "chapter:k01b",
+   "type": "chapter",
+   "label": "Entstehung des Markenschutzes und Priorität",
+   "order": 2
+  },
+  {
+   "id": "unit:k01b-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Entstehung und Erlöschen",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k01b-1",
+   "type": "unit",
+   "label": "Die angemeldete, noch nicht eingetragene Marke",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Hat Tom am 15. März bereits eine Marke im Sinne des § 4 Nr. 1, aus der er gegen Karl vorgehen kann?",
+   "order": 2
+  },
+  {
+   "id": "unit:k01b-2",
+   "type": "unit",
+   "label": "Die Benutzungsmarke",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann Bea auch ohne Eintragung Inhaberin einer Marke sein?",
+   "order": 3
+  },
+  {
+   "id": "unit:k01b-3",
+   "type": "unit",
+   "label": "Die Weltmarke ohne deutsche Eintragung",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Besteht in Deutschland dennoch Markenschutz?",
+   "order": 4
+  },
+  {
+   "id": "unit:k01b-4",
+   "type": "unit",
+   "label": "Wer war zuerst?",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Hat Ben das ältere Recht, weil seine Marke früher eingetragen wurde?",
+   "order": 5
+  },
+  {
+   "id": "unit:k01b-5",
+   "type": "unit",
+   "label": "Schutzdauer",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Wie lange gilt der Schutz einer eingetragenen Marke und wie wird er verlängert?",
+   "order": 6
+  },
+  {
+   "id": "course:k02",
+   "type": "course",
+   "label": "Schutzfähigkeit und absolute Schutzhindernisse",
+   "untertitel": "§§ 3, 7, 8 MarkenG: Was ins Register darf",
+   "beschreibung": "Markenfähigkeit, Formausschluss, Unterscheidungskraft, Freihaltebedürfnis, Bösgläubigkeit und die Verkehrsdurchsetzung als Rettungsanker.",
+   "order": 2
+  },
+  {
+   "id": "chapter:k02a",
+   "type": "chapter",
+   "label": "Markenfähigkeit und Formausschluss (§ 3)",
+   "order": 1
+  },
+  {
+   "id": "unit:k02a-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Eintragungsfähigkeit",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k02a-1",
+   "type": "unit",
+   "label": "Die quadratische Schokolade",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Greift der Formausschluss des § 3 Abs. 2 Nr. 3 (wesentlicher Wert), weil Verbraucher die praktische quadratische Form schätzen?",
+   "order": 2
+  },
+  {
+   "id": "unit:k02a-2",
+   "type": "unit",
+   "label": "Der Dübel mit Rippen",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Steht § 3 Abs. 2 Nr. 2 der Eintragung entgegen, obwohl alternative Formen dieselbe Wirkung erzielen könnten?",
+   "order": 3
+  },
+  {
+   "id": "unit:k02a-3",
+   "type": "unit",
+   "label": "Der variable Slogan",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Ist dieses „Zeichen“ markenfähig?",
+   "order": 4
+  },
+  {
+   "id": "chapter:k02b",
+   "type": "chapter",
+   "label": "Unterscheidungskraft (§ 8 Abs. 2 Nr. 1)",
+   "order": 2
+  },
+  {
+   "id": "unit:k02b-0",
+   "type": "unit",
+   "label": "Was Unterscheidungskraft bedeutet",
+   "typ": "intro",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k02b-1",
+   "type": "unit",
+   "label": "„marktfrisch“ für Lebensmittel",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Fehlt dem Zeichen für diese Waren die Unterscheidungskraft?",
+   "order": 2
+  },
+  {
+   "id": "unit:k02b-2",
+   "type": "unit",
+   "label": "„HOT“ für Ketchup und Massageöl",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Rettet die Mehrdeutigkeit die Unterscheidungskraft?",
+   "order": 3
+  },
+  {
+   "id": "unit:k02b-3",
+   "type": "unit",
+   "label": "„for you“ für Nahrungsergänzung",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist „for you“ unterscheidungskräftig, weil es die Waren nicht beschreibt?",
+   "order": 4
+  },
+  {
+   "id": "unit:k02b-4",
+   "type": "unit",
+   "label": "„#darferdas?“ auf T-Shirts",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Darf das DPMA die Unterscheidungskraft allein nach der wahrscheinlichsten Verwendung (Aufdruck vorn) beurteilen?",
+   "order": 5
+  },
+  {
+   "id": "unit:k02b-5",
+   "type": "unit",
+   "label": "„Pippi Langstrumpf“ für ein Hotel",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Fehlt „Pippi Langstrumpf“ für Hotels die Unterscheidungskraft?",
+   "order": 6
+  },
+  {
+   "id": "unit:k02b-6",
+   "type": "unit",
+   "label": "Die Pralinenkugel",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Hat die Form originäre Unterscheidungskraft, weil sie hübsch und aufwendig ist?",
+   "order": 7
+  },
+  {
+   "id": "chapter:k02c",
+   "type": "chapter",
+   "label": "Freihaltebedürfnis, Bösgläubigkeit, Verkehrsdurchsetzung",
+   "order": 3
+  },
+  {
+   "id": "unit:k02c-1",
+   "type": "unit",
+   "label": "„Black Friday“ für Elektronik",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann ein Freihaltebedürfnis nach § 8 Abs. 2 Nr. 2 bestehen, obwohl die Angabe im Anmeldezeitpunkt noch kaum beschreibend verwendet wurde?",
+   "order": 1
+  },
+  {
+   "id": "unit:k02c-2",
+   "type": "unit",
+   "label": "Nr. 1 oder Nr. 2?",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Was ist der eigentliche Schutzzweck des § 8 Abs. 2 Nr. 2 (Freihaltebedürfnis) im Unterschied zu Nr. 1?",
+   "order": 2
+  },
+  {
+   "id": "unit:k02c-3",
+   "type": "unit",
+   "label": "Die Sperrmarke",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann die Marke wegen Bösgläubigkeit gelöscht werden?",
+   "order": 3
+  },
+  {
+   "id": "unit:k02c-4",
+   "type": "unit",
+   "label": "Das Gelb der Wörterbücher",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann die abstrakte Farbmarke Gelb trotz fehlender originärer Unterscheidungskraft eingetragen werden?",
+   "order": 4
+  },
+  {
+   "id": "unit:k02c-5",
+   "type": "unit",
+   "label": "Die Marke „test“",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Reicht das für die Verkehrsdurchsetzung einer glatt beschreibenden Angabe aus?",
+   "order": 5
+  },
+  {
+   "id": "unit:k02c-6",
+   "type": "unit",
+   "label": "Wer trägt die Feststellungslast im Löschungsverfahren?",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Ein Dritter beantragt die Löschung der eingetragenen Marke „smartbook“ wegen fehlender Unterscheidungskraft. Ob das Zeichen im Anmeldezeitpunkt beschreibend war, lässt sich nicht sicher klären. Was gilt?",
+   "order": 6
+  },
+  {
+   "id": "course:k03",
+   "type": "course",
+   "label": "Markenverletzung I: Aufbau und markenmäßige Benutzung",
+   "untertitel": "§ 14 Abs. 2 MarkenG: Der Verletzungstatbestand",
+   "beschreibung": "Das zentrale Klausurschema: Aktivlegitimation, geschäftlicher Verkehr, markenmäßige Benutzung, Doppelidentität und die Sonderfälle Keyword-Advertising und Modellbezeichnung.",
+   "order": 3
+  },
+  {
+   "id": "chapter:k03a",
+   "type": "chapter",
+   "label": "Der Aufbau des Verletzungstatbestands",
+   "order": 1
+  },
+  {
+   "id": "unit:k03a-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Unterlassungsanspruch aus § 14",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k03a-1",
+   "type": "unit",
+   "label": "Der private Flohmarktverkauf",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Handelt Sara mit den Taschen im geschäftlichen Verkehr?",
+   "order": 2
+  },
+  {
+   "id": "unit:k03a-2",
+   "type": "unit",
+   "label": "Der Lizenznehmer klagt",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann Lux als einfache Lizenznehmerin ohne Zustimmung von Nova Klage erheben?",
+   "order": 3
+  },
+  {
+   "id": "unit:k03a-3",
+   "type": "unit",
+   "label": "Die Bindung an die Eintragung",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Darf das Verletzungsgericht die Klage abweisen, weil die Marke nicht schutzfähig ist?",
+   "order": 4
+  },
+  {
+   "id": "chapter:k03b",
+   "type": "chapter",
+   "label": "Markenmäßige Benutzung",
+   "order": 2
+  },
+  {
+   "id": "unit:k03b-0",
+   "type": "unit",
+   "label": "Das ungeschriebene Tatbestandsmerkmal",
+   "typ": "intro",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k03b-1",
+   "type": "unit",
+   "label": "Der Modellbausatz",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Verletzt die Abbildung des Logos die Spielzeugmarke des Autoherstellers?",
+   "order": 2
+  },
+  {
+   "id": "unit:k03b-2",
+   "type": "unit",
+   "label": "Der Frühstücks-Drink",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Benutzt der Konkurrent „Frühstücks-Drink“ markenmäßig?",
+   "order": 3
+  },
+  {
+   "id": "unit:k03b-3",
+   "type": "unit",
+   "label": "Die Hose „Sam“",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Liegt in der Nennung „Modell: Sam“ eine markenmäßige Benutzung?",
+   "order": 4
+  },
+  {
+   "id": "unit:k03b-4",
+   "type": "unit",
+   "label": "Die Damen-Hose „MO“",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Schließt die bekannte Herstellermarke aus, dass „MO“ markenmäßig benutzt wird?",
+   "order": 5
+  },
+  {
+   "id": "unit:k03b-5",
+   "type": "unit",
+   "label": "Der Firmenname auf der Rechnung",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist die bloße Verwendung als Firmenname eine Benutzung „für Waren“ im Sinne des § 14 Abs. 2?",
+   "order": 6
+  },
+  {
+   "id": "chapter:k03c",
+   "type": "chapter",
+   "label": "Doppelidentität und Keyword-Advertising",
+   "order": 3
+  },
+  {
+   "id": "unit:k03c-1",
+   "type": "unit",
+   "label": "Die Fälschung",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Muss der Markeninhaber eine Verwechslungsgefahr nachweisen?",
+   "order": 1
+  },
+  {
+   "id": "unit:k03c-2",
+   "type": "unit",
+   "label": "Die AdWords-Anzeige",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Verletzt die Keyword-Buchung die Marke „bananabay“?",
+   "order": 2
+  },
+  {
+   "id": "unit:k03c-3",
+   "type": "unit",
+   "label": "Die Blumen-Anzeige",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Liegt hier ausnahmsweise eine Beeinträchtigung der Herkunftsfunktion vor?",
+   "order": 3
+  },
+  {
+   "id": "unit:k03c-4",
+   "type": "unit",
+   "label": "Amazon und die Fahrradtaschen",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Verletzt diese Werbung die Marke „ORTLIEB“?",
+   "order": 4
+  },
+  {
+   "id": "unit:k03c-5",
+   "type": "unit",
+   "label": "Die satirische Postkarte",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Benutzt der Verlag die Marken markenmäßig, obwohl es sich um Satire handelt?",
+   "order": 5
+  },
+  {
+   "id": "course:k04",
+   "type": "course",
+   "label": "Markenverletzung II: Verwechslungsgefahr",
+   "untertitel": "§ 14 Abs. 2 Nr. 2 MarkenG: Der Kern jeder Markenklausur",
+   "beschreibung": "Warenähnlichkeit, Kennzeichnungskraft, Zeichenähnlichkeit und ihre Wechselwirkung. Prägetheorie, selbständig kennzeichnende Stellung und die Arten der Verwechslungsgefahr.",
+   "order": 4
+  },
+  {
+   "id": "chapter:k04a",
+   "type": "chapter",
+   "label": "Die drei Faktoren und ihre Wechselwirkung",
+   "order": 1
+  },
+  {
+   "id": "unit:k04a-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Verwechslungsgefahr",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k04a-1",
+   "type": "unit",
+   "label": "Bier und Snacks",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Genügt die funktionelle Ergänzung, um Warenähnlichkeit zu bejahen?",
+   "order": 2
+  },
+  {
+   "id": "unit:k04a-2",
+   "type": "unit",
+   "label": "„Kinder“ für Schokolade",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Hat „Kinder“ automatisch gesteigerte Kennzeichnungskraft, weil die Marke bekannt ist?",
+   "order": 3
+  },
+  {
+   "id": "unit:k04a-3",
+   "type": "unit",
+   "label": "Die Skala der Kennzeichnungskraft",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Welche Abstufungen der Kennzeichnungskraft unterscheidet der BGH seit „Culinaria/Villa Culinaria“?",
+   "order": 4
+  },
+  {
+   "id": "unit:k04a-4",
+   "type": "unit",
+   "label": "Die Wechselwirkung",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Kann eine hohe Kennzeichnungskraft und Zeichenähnlichkeit eine geringe Warenähnlichkeit ausgleichen?",
+   "order": 5
+  },
+  {
+   "id": "unit:k04a-5",
+   "type": "unit",
+   "label": "Ärzte und Patienten",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Genügt es für die Verwechslungsgefahr, dass sie bei einer der beiden Verkehrsgruppen besteht?",
+   "order": 6
+  },
+  {
+   "id": "chapter:k04b",
+   "type": "chapter",
+   "label": "Zeichenähnlichkeit: Gesamteindruck, Prägung, selbständige Stellung",
+   "order": 2
+  },
+  {
+   "id": "unit:k04b-1",
+   "type": "unit",
+   "label": "Die springende Raubkatze",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Darf beim Zeichenvergleich allein auf den Bildbestandteil abgestellt werden?",
+   "order": 1
+  },
+  {
+   "id": "unit:k04b-2",
+   "type": "unit",
+   "label": "THOMSON LIFE",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Kann Verwechslungsgefahr bestehen, obwohl „LIFE“ das Gesamtzeichen „THOMSON LIFE“ nicht prägt?",
+   "order": 2
+  },
+  {
+   "id": "unit:k04b-3",
+   "type": "unit",
+   "label": "METRO gegen METROBUS",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Prägt „Metro“ das Zeichen „MetroBus“, sodass Verwechslungsgefahr besteht?",
+   "order": 3
+  },
+  {
+   "id": "unit:k04b-4",
+   "type": "unit",
+   "label": "Goldbären gegen Schokoteddy",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Kann zwischen einer Wortmarke und einer dreidimensionalen Produktgestaltung Zeichenähnlichkeit bestehen?",
+   "order": 4
+  },
+  {
+   "id": "unit:k04b-5",
+   "type": "unit",
+   "label": "Das Krokodil",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann Verwechslungsgefahr allein aus der Übereinstimmung im Bedeutungsgehalt (beide zeigen ein Krokodil) folgen?",
+   "order": 5
+  },
+  {
+   "id": "chapter:k04c",
+   "type": "chapter",
+   "label": "Arten der Verwechslungsgefahr",
+   "order": 3
+  },
+  {
+   "id": "unit:k04c-1",
+   "type": "unit",
+   "label": "Drei Arten",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Der Verkehr erkennt, dass „Volks-Inspektion“ nicht von Volkswagen stammt, glaubt aber, es handle sich um eine lizenzierte Partnerwerkstatt. Welche Art der Verwechslungsgefahr ist das?",
+   "order": 1
+  },
+  {
+   "id": "unit:k04c-2",
+   "type": "unit",
+   "label": "Sixtyseven by Mustang",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Kann eine Verwechslungsgefahr im weiteren Sinne bestehen, obwohl „Sixtyseven“ das Zeichen prägt?",
+   "order": 2
+  },
+  {
+   "id": "unit:k04c-3",
+   "type": "unit",
+   "label": "Ein einziges Zeichen ist keine Serie",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Liegt eine mittelbare Verwechslungsgefahr unter dem Gesichtspunkt des Serienzeichens vor?",
+   "order": 3
+  },
+  {
+   "id": "course:k05",
+   "type": "course",
+   "label": "Markenverletzung III: Bekanntheitsschutz",
+   "untertitel": "§ 14 Abs. 2 Nr. 3 und § 9 Abs. 1 Nr. 3 MarkenG",
+   "beschreibung": "Wann ist eine Marke bekannt, was ist die gedankliche Verknüpfung, welche vier Eingriffe gibt es und wann fehlt der rechtfertigende Grund. Plus: die bekannte Marke im Register.",
+   "order": 5
+  },
+  {
+   "id": "chapter:k05a",
+   "type": "chapter",
+   "label": "Bekanntheit und gedankliche Verknüpfung",
+   "order": 1
+  },
+  {
+   "id": "unit:k05a-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Bekanntheitsschutz",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k05a-1",
+   "type": "unit",
+   "label": "Wann ist eine Marke bekannt?",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Welche Aussage zur Bekanntheit im Sinne des § 14 Abs. 2 Nr. 3 ist richtig?",
+   "order": 2
+  },
+  {
+   "id": "unit:k05a-2",
+   "type": "unit",
+   "label": "OTTO für Caps",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann der Bekanntheitsschutz auch dann greifen, wenn die Waren identisch oder ähnlich sind?",
+   "order": 3
+  },
+  {
+   "id": "unit:k05a-3",
+   "type": "unit",
+   "label": "INTELMARK",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Genügt die bloße gedankliche Verknüpfung für eine Beeinträchtigung der Unterscheidungskraft (Verwässerung)?",
+   "order": 4
+  },
+  {
+   "id": "chapter:k05b",
+   "type": "chapter",
+   "label": "Die vier Eingriffe und die Unlauterkeit",
+   "order": 2
+  },
+  {
+   "id": "unit:k05b-1",
+   "type": "unit",
+   "label": "Welcher Eingriff?",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Ein Parfümhersteller vertreibt Imitate bekannter Luxusdüfte und legt Händlern Vergleichslisten bei („entspricht Chanel No. 5“). Welchen Eingriff bejaht der EuGH hier vorrangig?",
+   "order": 1
+  },
+  {
+   "id": "unit:k05b-2",
+   "type": "unit",
+   "label": "Der springende Pudel",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Rechtfertigt die Kunst- und Meinungsfreiheit die Eintragung der Parodie als eigene Marke?",
+   "order": 2
+  },
+  {
+   "id": "unit:k05b-3",
+   "type": "unit",
+   "label": "Das Testsiegel ohne Lizenz",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Verletzt die Werbung die bekannte Marke, obwohl sie für ganz andere Dienstleistungen eingetragen ist?",
+   "order": 3
+  },
+  {
+   "id": "unit:k05b-4",
+   "type": "unit",
+   "label": "Interflora bei Google",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Ist diese Keyword-Werbung eine unlautere Ausnutzung der Unterscheidungskraft?",
+   "order": 4
+  },
+  {
+   "id": "chapter:k05c",
+   "type": "chapter",
+   "label": "Die bekannte Marke im Register (§ 9 Abs. 1 Nr. 3)",
+   "order": 3
+  },
+  {
+   "id": "unit:k05c-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Relative Schutzhindernisse im Register",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k05c-1",
+   "type": "unit",
+   "label": "Zu spät bekannt",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Hat der Antrag Erfolg?",
+   "order": 2
+  },
+  {
+   "id": "unit:k05c-2",
+   "type": "unit",
+   "label": "Register oder Verletzungsprozess?",
+   "typ": "mc",
+   "level": 3,
+   "frage": "Worin liegt der wichtigste Unterschied im Prüfungsgegenstand zwischen § 9 Abs. 1 Nr. 3 und § 14 Abs. 2 Nr. 3?",
+   "order": 3
+  },
+  {
+   "id": "unit:k05c-3",
+   "type": "unit",
+   "label": "Glaubhaft machen im Widerspruch",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Ist das Widerspruchsverfahren der richtige Ort für eine solche Beweisaufnahme?",
+   "order": 4
+  },
+  {
+   "id": "course:k06",
+   "type": "course",
+   "label": "Schranken des Markenschutzes",
+   "untertitel": "§§ 20 bis 24 MarkenG: Wann der Markeninhaber nichts verbieten kann",
+   "beschreibung": "Beschreibende Benutzung, Ersatzteilhinweise, das Recht der Gleichnamigen, Erschöpfung mit Parallelimport und Beweislast, Verwirkung und Verjährung.",
+   "order": 6
+  },
+  {
+   "id": "chapter:k06a",
+   "type": "chapter",
+   "label": "§ 23: Namen, beschreibende Angaben, Bestimmungshinweis",
+   "order": 1
+  },
+  {
+   "id": "unit:k06a-0",
+   "type": "unit",
+   "label": "Prüfungsschema: § 23 MarkenG",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k06a-1",
+   "type": "unit",
+   "label": "Filtertüten passend für Vorwerk",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Kann sich der Hersteller auf § 23 Abs. 1 Nr. 3 berufen?",
+   "order": 2
+  },
+  {
+   "id": "unit:k06a-2",
+   "type": "unit",
+   "label": "Der Kühlergrill mit Ringen",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist die Nachbildung der Ringform als Bestimmungshinweis nach § 23 Abs. 1 Nr. 3 gerechtfertigt?",
+   "order": 3
+  },
+  {
+   "id": "unit:k06a-3",
+   "type": "unit",
+   "label": "Große Inspektion für alle",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Entspricht die Verwendung des Logos den anständigen Gepflogenheiten?",
+   "order": 4
+  },
+  {
+   "id": "unit:k06a-4",
+   "type": "unit",
+   "label": "Zwei Mal Peek & Cloppenburg",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Muss das Düsseldorfer Unternehmen die Werbung im Norden ganz unterlassen?",
+   "order": 5
+  },
+  {
+   "id": "unit:k06a-5",
+   "type": "unit",
+   "label": "Beschreibend trotz Eintragung",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Kann der Markeninhaber diese Werbung verbieten?",
+   "order": 6
+  },
+  {
+   "id": "chapter:k06b",
+   "type": "chapter",
+   "label": "§ 24: Erschöpfung",
+   "order": 2
+  },
+  {
+   "id": "unit:k06b-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Erschöpfung",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k06b-1",
+   "type": "unit",
+   "label": "Die Turnschuhe aus den USA",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Ist das Markenrecht an den Schuhen erschöpft?",
+   "order": 2
+  },
+  {
+   "id": "unit:k06b-2",
+   "type": "unit",
+   "label": "Wer muss was beweisen?",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Muss trotzdem der Parallelhändler die Erschöpfung beweisen?",
+   "order": 3
+  },
+  {
+   "id": "unit:k06b-3",
+   "type": "unit",
+   "label": "Der Lizenznehmer verkauft an Discounter",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Ist die Ware mit Zustimmung des Markeninhabers in Verkehr gebracht worden?",
+   "order": 4
+  },
+  {
+   "id": "unit:k06b-4",
+   "type": "unit",
+   "label": "Umgepackte Arzneimittel",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Kann sich der Markeninhaber dem Vertrieb der umgepackten Ware widersetzen?",
+   "order": 5
+  },
+  {
+   "id": "unit:k06b-5",
+   "type": "unit",
+   "label": "Luxusparfum im Discounter-Prospekt",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann der Markeninhaber diese Werbung verbieten?",
+   "order": 6
+  },
+  {
+   "id": "chapter:k06c",
+   "type": "chapter",
+   "label": "Verwirkung, Verjährung und § 22",
+   "order": 3
+  },
+  {
+   "id": "unit:k06c-1",
+   "type": "unit",
+   "label": "Zehn Jahre zugeschaut",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Ist der Unterlassungsanspruch verwirkt, weil der Inhaber so lange geduldet hat?",
+   "order": 1
+  },
+  {
+   "id": "unit:k06c-2",
+   "type": "unit",
+   "label": "Die Fünfjahresregel des § 21",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Der Inhaber einer älteren Marke hat die Benutzung einer eingetragenen jüngeren Marke fünf Jahre lang in Kenntnis geduldet. Die jüngere Marke wurde gutgläubig angemeldet. Was gilt?",
+   "order": 2
+  },
+  {
+   "id": "unit:k06c-3",
+   "type": "unit",
+   "label": "Die verspätete Bekanntheit",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Kann er die Benutzung der jüngeren Marke für deren eingetragene Waren verbieten?",
+   "order": 3
+  },
+  {
+   "id": "unit:k06c-4",
+   "type": "unit",
+   "label": "Verjährung",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Wann verjähren Ansprüche aus dem MarkenG?",
+   "order": 4
+  },
+  {
+   "id": "course:k07",
+   "type": "course",
+   "label": "Benutzungszwang, Widerspruch und Löschung",
+   "untertitel": "§§ 25, 26, 42, 43, 49 bis 55 MarkenG",
+   "beschreibung": "Rechtserhaltende Benutzung, Benutzungsschonfrist und Einreden; Verfall und Nichtigkeit mit ihren Verfahren; das Widerspruchsverfahren.",
+   "order": 7
+  },
+  {
+   "id": "chapter:k07a",
+   "type": "chapter",
+   "label": "Rechtserhaltende Benutzung (§ 26)",
+   "order": 1
+  },
+  {
+   "id": "unit:k07a-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Benutzungszwang und Verfall",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k07a-1",
+   "type": "unit",
+   "label": "Die Vorratsmarke",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Ist der geringe Umfang eine ernsthafte Benutzung?",
+   "order": 2
+  },
+  {
+   "id": "unit:k07a-2",
+   "type": "unit",
+   "label": "Dorzo-Vision",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist die Benutzung von „Dorzo-Vision“ rechtserhaltend für „Dorzo“?",
+   "order": 3
+  },
+  {
+   "id": "unit:k07a-3",
+   "type": "unit",
+   "label": "LOTTO auf der Lottocard",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Kann einer eingetragenen Marke die rechtserhaltende Benutzung abgesprochen werden, weil sie beschreibend sei?",
+   "order": 4
+  },
+  {
+   "id": "unit:k07a-4",
+   "type": "unit",
+   "label": "Wann beginnt die Schonfrist?",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Eine Marke wurde am 1. Februar 2020 eingetragen. Ein Widerspruch wurde am 30. November 2021 rechtskräftig zurückgewiesen. Ab wann läuft die fünfjährige Benutzungsschonfrist?",
+   "order": 5
+  },
+  {
+   "id": "chapter:k07b",
+   "type": "chapter",
+   "label": "Verfall und Nichtigkeit (§§ 49 bis 52)",
+   "order": 2
+  },
+  {
+   "id": "unit:k07b-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Löschung eingetragener Marken",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k07b-1",
+   "type": "unit",
+   "label": "Wiederaufnahme in letzter Minute",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Rettet die Benutzungsaufnahme im März die Marke?",
+   "order": 2
+  },
+  {
+   "id": "unit:k07b-2",
+   "type": "unit",
+   "label": "TÜV als Gattungsbegriff?",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist die Marke wegen Entwicklung zur gebräuchlichen Bezeichnung verfallen?",
+   "order": 3
+  },
+  {
+   "id": "unit:k07b-3",
+   "type": "unit",
+   "label": "Ex tunc oder ex nunc?",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Eine Marke wird wegen Bösgläubigkeit der Anmeldung gelöscht. Ab wann gilt sie als nicht existent?",
+   "order": 4
+  },
+  {
+   "id": "unit:k07b-4",
+   "type": "unit",
+   "label": "Wer darf löschen lassen?",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Kann jedermann einen Nichtigkeitsantrag wegen absoluter Schutzhindernisse stellen?",
+   "order": 5
+  },
+  {
+   "id": "chapter:k07c",
+   "type": "chapter",
+   "label": "Das Widerspruchsverfahren (§§ 42, 43)",
+   "order": 3
+  },
+  {
+   "id": "unit:k07c-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Widerspruchsverfahren",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k07c-1",
+   "type": "unit",
+   "label": "Die Widerspruchsfrist",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Die Eintragung der Marke „NORDLICHT“ wird am 10. Januar veröffentlicht. Bis wann kann der Inhaber einer älteren Marke Widerspruch einlegen?",
+   "order": 2
+  },
+  {
+   "id": "unit:k07c-2",
+   "type": "unit",
+   "label": "Die Einrede im Widerspruch",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann der Widerspruch auf alle eingetragenen Waren der älteren Marke gestützt werden?",
+   "order": 3
+  },
+  {
+   "id": "unit:k07c-3",
+   "type": "unit",
+   "label": "Das Namensrecht als Widerspruchsgrund",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist das Namensrecht ein zulässiger Widerspruchsgrund?",
+   "order": 4
+  },
+  {
+   "id": "course:k08",
+   "type": "course",
+   "label": "Geschäftliche Bezeichnungen und Domains",
+   "untertitel": "§§ 5, 15 MarkenG: Unternehmenskennzeichen und Werktitel",
+   "beschreibung": "Wie Unternehmenskennzeichen und Werktitel entstehen, wie ihre Verletzung geprüft wird und was für Domainnamen gilt.",
+   "order": 8
+  },
+  {
+   "id": "chapter:k08a",
+   "type": "chapter",
+   "label": "Unternehmenskennzeichen",
+   "order": 1
+  },
+  {
+   "id": "unit:k08a-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Schutz geschäftlicher Bezeichnungen",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k08a-1",
+   "type": "unit",
+   "label": "Die Domain als Kennzeichen",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Kann der Domainname als Unternehmenskennzeichen nach § 5 Abs. 2 geschützt sein?",
+   "order": 2
+  },
+  {
+   "id": "unit:k08a-2",
+   "type": "unit",
+   "label": "Das Firmenschlagwort",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Genießt der Bestandteil „defacto“ selbständigen Schutz, obwohl die Firma länger lautet?",
+   "order": 3
+  },
+  {
+   "id": "unit:k08a-3",
+   "type": "unit",
+   "label": "shell.de",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Gilt bei Gleichnamigkeit auch hier das Prinzip „wer zuerst registriert“?",
+   "order": 4
+  },
+  {
+   "id": "unit:k08a-4",
+   "type": "unit",
+   "label": "Was ersetzt die Warenähnlichkeit?",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Bei der Verwechslungsgefahr zwischen zwei Unternehmenskennzeichen (§ 15 Abs. 2) tritt an die Stelle der Waren-/Dienstleistungsähnlichkeit …",
+   "order": 5
+  },
+  {
+   "id": "chapter:k08b",
+   "type": "chapter",
+   "label": "Werktitel",
+   "order": 2
+  },
+  {
+   "id": "unit:k08b-1",
+   "type": "unit",
+   "label": "Die Wetter-App",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Genießt „wetter.de“ Werktitelschutz nach § 5 Abs. 3?",
+   "order": 1
+  },
+  {
+   "id": "unit:k08b-2",
+   "type": "unit",
+   "label": "Augsburger gegen Leipziger Puppenkiste",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Schützt der Werktitel auch gegen die Annahme, beide Theater seien wirtschaftlich verbunden?",
+   "order": 2
+  },
+  {
+   "id": "unit:k08b-3",
+   "type": "unit",
+   "label": "Wem gehört der Songtitel?",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Steht das Werktitelrecht dem Verlag zu, weil er den Titel vermarktet hat?",
+   "order": 3
+  },
+  {
+   "id": "course:k09",
+   "type": "course",
+   "label": "Rechtsfolgen und Durchsetzung",
+   "untertitel": "§§ 14 Abs. 5 bis 7, 18, 19 MarkenG und Haftung Dritter",
+   "beschreibung": "Unterlassung, Schadensersatz mit dreifacher Schadensberechnung, Auskunft und Vernichtung; Täter, Teilnehmer und Störer.",
+   "order": 9
+  },
+  {
+   "id": "chapter:k09a",
+   "type": "chapter",
+   "label": "Unterlassung und Schadensersatz",
+   "order": 1
+  },
+  {
+   "id": "unit:k09a-1",
+   "type": "unit",
+   "label": "Die einmalige Verletzung",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Besteht der Unterlassungsanspruch nach § 14 Abs. 5 weiter?",
+   "order": 1
+  },
+  {
+   "id": "unit:k09a-2",
+   "type": "unit",
+   "label": "Dreifache Schadensberechnung",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Der Verletzer hat mit Plagiaten 100.000 Euro Gewinn erzielt; ein üblicher Lizenzsatz wären 5 % vom Umsatz; der Inhaber kann keinen konkreten Umsatzrückgang nachweisen. Welche Berechnungsarten stehen ihm zur Wahl?",
+   "order": 2
+  },
+  {
+   "id": "unit:k09a-3",
+   "type": "unit",
+   "label": "Der Chef haftet mit",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann der Markeninhaber Unterlassung und Schadensersatz auch gegen H verlangen?",
+   "order": 3
+  },
+  {
+   "id": "unit:k09a-4",
+   "type": "unit",
+   "label": "Annexansprüche",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Welcher Anspruch dient dazu, den Schadensersatz überhaupt beziffern zu können, und richtet sich bei offensichtlicher Verletzung auch gegen Spediteure und Lagerhalter?",
+   "order": 4
+  },
+  {
+   "id": "chapter:k09b",
+   "type": "chapter",
+   "label": "Täter, Teilnehmer, Störer",
+   "order": 2
+  },
+  {
+   "id": "unit:k09b-1",
+   "type": "unit",
+   "label": "Die Auktionsplattform",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Haftet der Plattformbetreiber auf Unterlassung?",
+   "order": 1
+  },
+  {
+   "id": "unit:k09b-2",
+   "type": "unit",
+   "label": "Nachfüllware für Markenspender",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Ist N Täter einer Markenverletzung?",
+   "order": 2
+  },
+  {
+   "id": "unit:k09b-3",
+   "type": "unit",
+   "label": "Wer haftet auf Schadensersatz?",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Welche Aussage ist richtig?",
+   "order": 3
+  },
+  {
+   "id": "course:k10",
+   "type": "course",
+   "label": "Unionsmarke und IR-Marke",
+   "untertitel": "UMV, § 125b ff. und §§ 112 bis 125 MarkenG",
+   "beschreibung": "Vorgehen aus einer Unionsmarke oder einer international registrierten Marke in Deutschland: Normketten, Bekanntheit in der Union, Benutzung, Gerichte und Fristen.",
+   "order": 10
+  },
+  {
+   "id": "chapter:k10a",
+   "type": "chapter",
+   "label": "Die Unionsmarke",
+   "order": 1
+  },
+  {
+   "id": "unit:k10a-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Vorgehen aus einer Unionsmarke",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k10a-1",
+   "type": "unit",
+   "label": "Bekannt in Österreich",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist „PAGO“ eine in der Union bekannte Marke im Sinne des Art. 9 Abs. 2 lit. c UMV?",
+   "order": 2
+  },
+  {
+   "id": "unit:k10a-2",
+   "type": "unit",
+   "label": "Bekannt in der Union, unbekannt in Deutschland",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Genügt die Bekanntheit in Italien und Frankreich für den Erfolg des Antrags?",
+   "order": 3
+  },
+  {
+   "id": "unit:k10a-3",
+   "type": "unit",
+   "label": "Benutzung nur in den Niederlanden",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Genügt die Benutzung in einem einzigen Mitgliedstaat?",
+   "order": 4
+  },
+  {
+   "id": "unit:k10a-4",
+   "type": "unit",
+   "label": "Das unionsweite Verbot",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Wirkt das Verbot grundsätzlich für die gesamte Union?",
+   "order": 5
+  },
+  {
+   "id": "unit:k10a-5",
+   "type": "unit",
+   "label": "Die Brücke § 125b",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Der Inhaber einer Unionsmarke verlangt vor dem Landgericht Vernichtung der Plagiate und Auskunft. Die UMV regelt diese Ansprüche nicht selbst. Woraus ergeben sie sich?",
+   "order": 6
+  },
+  {
+   "id": "chapter:k10b",
+   "type": "chapter",
+   "label": "Die IR-Marke",
+   "order": 2
+  },
+  {
+   "id": "unit:k10b-0",
+   "type": "unit",
+   "label": "Prüfungsschema: Vorgehen aus einer IR-Marke",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k10b-1",
+   "type": "unit",
+   "label": "Wirkung wie eine deutsche Marke",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Kann das Unternehmen direkt aus § 14 gegen den Händler vorgehen?",
+   "order": 2
+  },
+  {
+   "id": "unit:k10b-2",
+   "type": "unit",
+   "label": "Wann beginnt die Schonfrist der IR-Marke?",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Eine IR-Marke wurde am 1. Juni 2019 international registriert. Die Schutzverweigerungsfrist des DPMA lief am 1. Dezember 2020 ab, ohne dass Schutz verweigert wurde. Ab wann läuft die fünfjährige Benutzungsschonfrist?",
+   "order": 3
+  },
+  {
+   "id": "unit:k10b-3",
+   "type": "unit",
+   "label": "Widerspruch gegen die IR-Marke",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Läuft die Widerspruchsfrist ab der Veröffentlichung im deutschen Markenblatt?",
+   "order": 4
+  },
+  {
+   "id": "unit:k10b-4",
+   "type": "unit",
+   "label": "Der Angriff auf die Basismarke",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Bleibt die deutsche Schutzerstreckung der IR-Marke davon unberührt?",
    "order": 5
   }
  ],
@@ -20022,6 +21386,3783 @@
    "target": "norm:§117",
    "relation": "applies",
    "ref": "§ 117"
+  },
+  {
+   "source": "course:k01",
+   "target": "chapter:k01a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k01a",
+   "target": "unit:k01a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k01a-0",
+   "target": "concept:marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-0",
+   "target": "concept:geschaeftliche_bezeichnung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-0",
+   "target": "concept:geographische_herkunftsangabe",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-0",
+   "target": "norm:§1",
+   "relation": "applies",
+   "ref": "§ 1"
+  },
+  {
+   "source": "unit:k01a-0",
+   "target": "norm:§2",
+   "relation": "applies",
+   "ref": "§ 2"
+  },
+  {
+   "source": "chapter:k01a",
+   "target": "unit:k01a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k01a-1",
+   "target": "concept:marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-1",
+   "target": "concept:markenfaehigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-1",
+   "target": "concept:herkunftsfunktion",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-1",
+   "target": "norm:§3",
+   "relation": "applies",
+   "ref": "§ 3 Abs. 1"
+  },
+  {
+   "source": "chapter:k01a",
+   "target": "unit:k01a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k01a-2",
+   "target": "concept:farbmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-2",
+   "target": "concept:markenfaehigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-2",
+   "target": "case:eugh_libertel",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k01a-2",
+   "target": "norm:§3",
+   "relation": "applies",
+   "ref": "§ 3 Abs. 1"
+  },
+  {
+   "source": "chapter:k01a",
+   "target": "unit:k01a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k01a-3",
+   "target": "concept:markenfunktionen",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-3",
+   "target": "concept:herkunftsfunktion",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-3",
+   "target": "case:eugh_loreal_bellure",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k01a-3",
+   "target": "case:eugh_arsenal",
+   "relation": "cites"
+  },
+  {
+   "source": "chapter:k01a",
+   "target": "unit:k01a-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k01a-4",
+   "target": "concept:geschaeftliche_bezeichnung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-4",
+   "target": "concept:unternehmenskennzeichen",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01a-4",
+   "target": "norm:§1",
+   "relation": "applies",
+   "ref": "§ 1"
+  },
+  {
+   "source": "unit:k01a-4",
+   "target": "norm:§5",
+   "relation": "applies",
+   "ref": "§ 5 Abs. 2"
+  },
+  {
+   "source": "course:k01",
+   "target": "chapter:k01b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k01b",
+   "target": "unit:k01b-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k01b-0",
+   "target": "schema:schema_entstehung",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k01b",
+   "target": "unit:k01b-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k01b-1",
+   "target": "concept:entstehung_markenschutz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01b-1",
+   "target": "concept:prioritaet",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01b-1",
+   "target": "norm:§4",
+   "relation": "applies",
+   "ref": "§ 4"
+  },
+  {
+   "source": "unit:k01b-1",
+   "target": "norm:§6",
+   "relation": "applies",
+   "ref": "§ 6 Abs. 2"
+  },
+  {
+   "source": "unit:k01b-1",
+   "target": "norm:§33",
+   "relation": "applies",
+   "ref": "§ 33"
+  },
+  {
+   "source": "chapter:k01b",
+   "target": "unit:k01b-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k01b-2",
+   "target": "concept:verkehrsgeltung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01b-2",
+   "target": "concept:entstehung_markenschutz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01b-2",
+   "target": "norm:§4",
+   "relation": "applies",
+   "ref": "§ 4 Nr. 2"
+  },
+  {
+   "source": "unit:k01b-2",
+   "target": "norm:§6",
+   "relation": "applies",
+   "ref": "§ 6 Abs. 3"
+  },
+  {
+   "source": "chapter:k01b",
+   "target": "unit:k01b-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k01b-3",
+   "target": "concept:notorische_bekanntheit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01b-3",
+   "target": "norm:§4",
+   "relation": "applies",
+   "ref": "§ 4 Nr. 3"
+  },
+  {
+   "source": "unit:k01b-3",
+   "target": "norm:§10",
+   "relation": "applies",
+   "ref": "§ 10"
+  },
+  {
+   "source": "chapter:k01b",
+   "target": "unit:k01b-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k01b-4",
+   "target": "concept:prioritaet",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01b-4",
+   "target": "norm:§6",
+   "relation": "applies",
+   "ref": "§ 6"
+  },
+  {
+   "source": "chapter:k01b",
+   "target": "unit:k01b-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k01b-5",
+   "target": "concept:entstehung_markenschutz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01b-5",
+   "target": "norm:§47",
+   "relation": "applies",
+   "ref": "§ 47"
+  },
+  {
+   "source": "course:k02",
+   "target": "chapter:k02a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k02a",
+   "target": "unit:k02a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k02a-0",
+   "target": "schema:schema_eintragungsfaehigkeit",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k02a",
+   "target": "unit:k02a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k02a-1",
+   "target": "concept:formausschluss",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02a-1",
+   "target": "concept:formmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02a-1",
+   "target": "case:bgh_ritter_sport",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02a-1",
+   "target": "norm:§3",
+   "relation": "applies",
+   "ref": "§ 3 Abs. 2"
+  },
+  {
+   "source": "chapter:k02a",
+   "target": "unit:k02a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k02a-2",
+   "target": "concept:formausschluss",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02a-2",
+   "target": "case:bgh_bodenduebel",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02a-2",
+   "target": "case:eugh_philips_remington",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02a-2",
+   "target": "norm:§3",
+   "relation": "applies",
+   "ref": "§ 3 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "chapter:k02a",
+   "target": "unit:k02a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k02a-3",
+   "target": "concept:markenfaehigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02a-3",
+   "target": "concept:darstellbarkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02a-3",
+   "target": "norm:§3",
+   "relation": "applies",
+   "ref": "§ 3 Abs. 1"
+  },
+  {
+   "source": "unit:k02a-3",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 1"
+  },
+  {
+   "source": "course:k02",
+   "target": "chapter:k02b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k02b",
+   "target": "unit:k02b-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k02b-0",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-0",
+   "target": "concept:durchschnittsverbraucher",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-0",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "chapter:k02b",
+   "target": "unit:k02b-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k02b-1",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-1",
+   "target": "concept:freihaltebeduerfnis",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-1",
+   "target": "case:bgh_marktfrisch",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-1",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "chapter:k02b",
+   "target": "unit:k02b-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k02b-2",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-2",
+   "target": "case:bgh_hot",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-2",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k02b-2",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "chapter:k02b",
+   "target": "unit:k02b-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k02b-3",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-3",
+   "target": "case:bgh_for_you",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-3",
+   "target": "case:bgh_oui",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-3",
+   "target": "case:bgh_link_economy",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-3",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "chapter:k02b",
+   "target": "unit:k02b-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k02b-4",
+   "target": "concept:verwendungsformen",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-4",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-4",
+   "target": "case:eugh_darferdas",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-4",
+   "target": "case:bgh_darferdas_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-4",
+   "target": "case:bgh_marlene_dietrich_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-4",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "chapter:k02b",
+   "target": "unit:k02b-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k02b-5",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-5",
+   "target": "case:bgh_pippi_langstrumpf",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-5",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "chapter:k02b",
+   "target": "unit:k02b-6",
+   "relation": "has_unit",
+   "order": 7
+  },
+  {
+   "source": "unit:k02b-6",
+   "target": "concept:formmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-6",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-6",
+   "target": "concept:verkehrsdurchsetzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02b-6",
+   "target": "case:bgh_rocher_kugel",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02b-6",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k02b-6",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 3"
+  },
+  {
+   "source": "course:k02",
+   "target": "chapter:k02c",
+   "relation": "has_chapter",
+   "order": 3
+  },
+  {
+   "source": "chapter:k02c",
+   "target": "unit:k02c-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k02c-1",
+   "target": "concept:freihaltebeduerfnis",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-1",
+   "target": "concept:nichtigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-1",
+   "target": "case:bgh_black_friday",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-1",
+   "target": "case:eugh_chiemsee",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-1",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k02c-1",
+   "target": "norm:§50",
+   "relation": "applies",
+   "ref": "§ 50"
+  },
+  {
+   "source": "chapter:k02c",
+   "target": "unit:k02c-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k02c-2",
+   "target": "concept:freihaltebeduerfnis",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-2",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-2",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "chapter:k02c",
+   "target": "unit:k02c-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k02c-3",
+   "target": "concept:boesglaeubigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-3",
+   "target": "case:bgh_eros",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-3",
+   "target": "case:bgh_glueckspilz",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-3",
+   "target": "case:bgh_ivadal",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-3",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 14"
+  },
+  {
+   "source": "unit:k02c-3",
+   "target": "norm:§50",
+   "relation": "applies",
+   "ref": "§ 50"
+  },
+  {
+   "source": "chapter:k02c",
+   "target": "unit:k02c-4",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k02c-4",
+   "target": "concept:verkehrsdurchsetzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-4",
+   "target": "concept:farbmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-4",
+   "target": "case:bgh_langenscheidt_gelb",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-4",
+   "target": "case:bgh_nivea_blau",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-4",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 3"
+  },
+  {
+   "source": "chapter:k02c",
+   "target": "unit:k02c-5",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k02c-5",
+   "target": "concept:verkehrsdurchsetzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-5",
+   "target": "case:bgh_test",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-5",
+   "target": "case:bgh_kinder_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-5",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 3"
+  },
+  {
+   "source": "unit:k02c-5",
+   "target": "norm:§50",
+   "relation": "applies",
+   "ref": "§ 50 Abs. 2"
+  },
+  {
+   "source": "chapter:k02c",
+   "target": "unit:k02c-6",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k02c-6",
+   "target": "concept:nichtigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-6",
+   "target": "concept:absolute_schutzhindernisse",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k02c-6",
+   "target": "case:bgh_smartbook",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-6",
+   "target": "case:bgh_sparkassen_rot",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k02c-6",
+   "target": "norm:§50",
+   "relation": "applies",
+   "ref": "§ 50"
+  },
+  {
+   "source": "course:k03",
+   "target": "chapter:k03a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k03a",
+   "target": "unit:k03a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k03a-0",
+   "target": "schema:schema_markenverletzung",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k03a",
+   "target": "unit:k03a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k03a-1",
+   "target": "concept:geschaeftlicher_verkehr",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03a-1",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2"
+  },
+  {
+   "source": "unit:k03a-1",
+   "target": "step:schema_markenverletzung.3.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k03a",
+   "target": "unit:k03a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k03a-2",
+   "target": "concept:aktivlegitimation",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03a-2",
+   "target": "concept:lizenz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03a-2",
+   "target": "norm:§30",
+   "relation": "applies",
+   "ref": "§ 30 Abs. 3"
+  },
+  {
+   "source": "unit:k03a-2",
+   "target": "norm:§28",
+   "relation": "applies",
+   "ref": "§ 28"
+  },
+  {
+   "source": "unit:k03a-2",
+   "target": "step:schema_markenverletzung.2.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k03a",
+   "target": "unit:k03a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k03a-3",
+   "target": "concept:entstehung_markenschutz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03a-3",
+   "target": "concept:nichtigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03a-3",
+   "target": "concept:schranke_23",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03a-3",
+   "target": "case:bgh_langenscheidt_gelb",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03a-3",
+   "target": "case:bgh_sparkassen_rot",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03a-3",
+   "target": "norm:§4",
+   "relation": "applies",
+   "ref": "§ 4 Nr. 1"
+  },
+  {
+   "source": "unit:k03a-3",
+   "target": "norm:§50",
+   "relation": "applies",
+   "ref": "§ 50"
+  },
+  {
+   "source": "unit:k03a-3",
+   "target": "step:schema_markenverletzung.2.1",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k03",
+   "target": "chapter:k03b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k03b",
+   "target": "unit:k03b-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k03b-0",
+   "target": "concept:markenmaessige_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-0",
+   "target": "concept:herkunftsfunktion",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-0",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2"
+  },
+  {
+   "source": "chapter:k03b",
+   "target": "unit:k03b-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k03b-1",
+   "target": "concept:markenmaessige_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-1",
+   "target": "concept:herkunftsfunktion",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-1",
+   "target": "case:bgh_opel_blitz_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03b-1",
+   "target": "case:eugh_adam_opel",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03b-1",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k03b-1",
+   "target": "step:schema_markenverletzung.3.4",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k03b",
+   "target": "unit:k03b-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k03b-2",
+   "target": "concept:markenmaessige_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-2",
+   "target": "case:bgh_fruehstuecks_drink_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03b-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k03b-2",
+   "target": "step:schema_markenverletzung.3.4",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k03b",
+   "target": "unit:k03b-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k03b-3",
+   "target": "concept:markenmaessige_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-3",
+   "target": "case:bgh_sam",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03b-3",
+   "target": "case:bgh_damen_hose_mo",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03b-3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k03b-3",
+   "target": "step:schema_markenverletzung.3.4",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k03b",
+   "target": "unit:k03b-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k03b-4",
+   "target": "concept:markenmaessige_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-4",
+   "target": "case:bgh_damen_hose_mo",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03b-4",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "chapter:k03b",
+   "target": "unit:k03b-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k03b-5",
+   "target": "concept:firmenmaessiger_gebrauch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-5",
+   "target": "concept:markenmaessige_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03b-5",
+   "target": "case:eugh_celine",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03b-5",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 3 Nr. 5"
+  },
+  {
+   "source": "unit:k03b-5",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15"
+  },
+  {
+   "source": "course:k03",
+   "target": "chapter:k03c",
+   "relation": "has_chapter",
+   "order": 3
+  },
+  {
+   "source": "chapter:k03c",
+   "target": "unit:k03c-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k03c-1",
+   "target": "concept:doppelidentitaet",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-1",
+   "target": "concept:markenfunktionen",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-1",
+   "target": "case:eugh_loreal_bellure",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03c-1",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k03c-1",
+   "target": "step:schema_markenverletzung.3.5.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k03c",
+   "target": "unit:k03c-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k03c-2",
+   "target": "concept:keyword_advertising",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-2",
+   "target": "concept:herkunftsfunktion",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-2",
+   "target": "case:eugh_google_france",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03c-2",
+   "target": "case:bgh_bananabay_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03c-2",
+   "target": "case:bgh_most_pralinen",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03c-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "chapter:k03c",
+   "target": "unit:k03c-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k03c-3",
+   "target": "concept:keyword_advertising",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-3",
+   "target": "case:bgh_fleurop",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03c-3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "chapter:k03c",
+   "target": "unit:k03c-4",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k03c-4",
+   "target": "concept:keyword_advertising",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-4",
+   "target": "case:bgh_ortlieb_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03c-4",
+   "target": "case:bgh_ortlieb_i",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03c-4",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k03c-4",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 5"
+  },
+  {
+   "source": "chapter:k03c",
+   "target": "unit:k03c-5",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k03c-5",
+   "target": "concept:markenmaessige_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-5",
+   "target": "concept:bekannte_marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-5",
+   "target": "concept:unlauterkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k03c-5",
+   "target": "case:bgh_lila_postkarte",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k03c-5",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "course:k04",
+   "target": "chapter:k04a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k04a",
+   "target": "unit:k04a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k04a-0",
+   "target": "schema:schema_verwechslungsgefahr",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k04a",
+   "target": "unit:k04a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k04a-1",
+   "target": "concept:warenaehnlichkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04a-1",
+   "target": "case:bgh_desperados",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04a-1",
+   "target": "case:eugh_canon",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04a-1",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 2"
+  },
+  {
+   "source": "unit:k04a-1",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k04a-1",
+   "target": "step:schema_verwechslungsgefahr.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k04a",
+   "target": "unit:k04a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k04a-2",
+   "target": "concept:kennzeichnungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04a-2",
+   "target": "concept:verkehrsdurchsetzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04a-2",
+   "target": "case:bgh_kinder_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04a-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k04a-2",
+   "target": "step:schema_verwechslungsgefahr.3",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k04a",
+   "target": "unit:k04a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k04a-3",
+   "target": "concept:kennzeichnungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04a-3",
+   "target": "case:bgh_culinaria",
+   "relation": "cites"
+  },
+  {
+   "source": "chapter:k04a",
+   "target": "unit:k04a-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k04a-4",
+   "target": "concept:wechselwirkung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04a-4",
+   "target": "concept:kennzeichnungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04a-4",
+   "target": "case:eugh_canon",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04a-4",
+   "target": "case:eugh_lloyd",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04a-4",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k04a-4",
+   "target": "step:schema_verwechslungsgefahr.5",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k04a",
+   "target": "unit:k04a-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k04a-5",
+   "target": "concept:durchschnittsverbraucher",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04a-5",
+   "target": "concept:zeichenaehnlichkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04a-5",
+   "target": "case:bgh_maalox",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04a-5",
+   "target": "case:eugh_lloyd",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04a-5",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 2"
+  },
+  {
+   "source": "unit:k04a-5",
+   "target": "step:schema_verwechslungsgefahr.1",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k04",
+   "target": "chapter:k04b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k04b",
+   "target": "unit:k04b-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k04b-1",
+   "target": "concept:praegetheorie",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-1",
+   "target": "concept:gesamteindruck",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-1",
+   "target": "case:bgh_springende_raubkatze",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04b-1",
+   "target": "case:eugh_sabel_puma",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04b-1",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 2"
+  },
+  {
+   "source": "unit:k04b-1",
+   "target": "step:schema_verwechslungsgefahr.4.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k04b",
+   "target": "unit:k04b-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k04b-2",
+   "target": "concept:selbstaendig_kennzeichnende_stellung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-2",
+   "target": "concept:praegetheorie",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-2",
+   "target": "case:eugh_thomson_life",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04b-2",
+   "target": "case:bgh_culinaria",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04b-2",
+   "target": "case:bgh_interconnect",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04b-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k04b-2",
+   "target": "step:schema_verwechslungsgefahr.4.4",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k04b",
+   "target": "unit:k04b-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k04b-3",
+   "target": "concept:praegetheorie",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-3",
+   "target": "concept:gedankliche_verknuepfung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-3",
+   "target": "case:bgh_metrobus",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04b-3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k04b-3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "chapter:k04b",
+   "target": "unit:k04b-4",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k04b-4",
+   "target": "concept:zeichenaehnlichkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-4",
+   "target": "case:bgh_goldbaeren",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04b-4",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k04b-4",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "unit:k04b-4",
+   "target": "step:schema_verwechslungsgefahr.4.3",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k04b",
+   "target": "unit:k04b-5",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k04b-5",
+   "target": "concept:zeichenaehnlichkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-5",
+   "target": "concept:kennzeichnungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04b-5",
+   "target": "case:bgh_lacoste_krokodil",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04b-5",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 2"
+  },
+  {
+   "source": "course:k04",
+   "target": "chapter:k04c",
+   "relation": "has_chapter",
+   "order": 3
+  },
+  {
+   "source": "chapter:k04c",
+   "target": "unit:k04c-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k04c-1",
+   "target": "concept:verwechslungsgefahr_weiterer_sinn",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04c-1",
+   "target": "concept:serienmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04c-1",
+   "target": "case:bgh_volkswagen_volksinspektion",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04c-1",
+   "target": "case:eugh_sabel_puma",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04c-1",
+   "target": "step:schema_verwechslungsgefahr.6",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k04c",
+   "target": "unit:k04c-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k04c-2",
+   "target": "concept:verwechslungsgefahr_weiterer_sinn",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04c-2",
+   "target": "concept:selbstaendig_kennzeichnende_stellung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04c-2",
+   "target": "case:bgh_mustang",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04c-2",
+   "target": "case:bgh_interconnect",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04c-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "unit:k04c-2",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15"
+  },
+  {
+   "source": "chapter:k04c",
+   "target": "unit:k04c-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k04c-3",
+   "target": "concept:serienmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04c-3",
+   "target": "concept:verwechslungsgefahr_weiterer_sinn",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k04c-3",
+   "target": "case:bgh_volkswagen_volksinspektion",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k04c-3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "course:k05",
+   "target": "chapter:k05a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k05a",
+   "target": "unit:k05a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k05a-0",
+   "target": "schema:schema_bekanntheitsschutz",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k05a",
+   "target": "unit:k05a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k05a-1",
+   "target": "concept:bekannte_marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05a-1",
+   "target": "case:eugh_general_motors",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05a-1",
+   "target": "case:bgh_tuev_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05a-1",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "unit:k05a-1",
+   "target": "step:schema_bekanntheitsschutz.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k05a",
+   "target": "unit:k05a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k05a-2",
+   "target": "concept:bekannte_marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05a-2",
+   "target": "concept:ausnutzung_unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05a-2",
+   "target": "case:bgh_otto_cap",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05a-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "unit:k05a-2",
+   "target": "step:schema_bekanntheitsschutz.3",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k05a",
+   "target": "unit:k05a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k05a-3",
+   "target": "concept:gedankliche_verknuepfung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05a-3",
+   "target": "concept:verwaesserung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05a-3",
+   "target": "case:eugh_intel",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05a-3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "unit:k05a-3",
+   "target": "step:schema_bekanntheitsschutz.4",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k05",
+   "target": "chapter:k05b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k05b",
+   "target": "unit:k05b-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k05b-1",
+   "target": "concept:ausnutzung_wertschaetzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-1",
+   "target": "concept:ausnutzung_unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-1",
+   "target": "concept:verwaesserung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-1",
+   "target": "concept:rufschaedigung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-1",
+   "target": "case:eugh_loreal_bellure",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05b-1",
+   "target": "step:schema_bekanntheitsschutz.5",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k05b",
+   "target": "unit:k05b-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k05b-2",
+   "target": "concept:ausnutzung_unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-2",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-2",
+   "target": "concept:unlauterkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-2",
+   "target": "case:bgh_springender_pudel",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05b-2",
+   "target": "case:bgh_lila_postkarte",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05b-2",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "unit:k05b-2",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "unit:k05b-2",
+   "target": "step:schema_bekanntheitsschutz.6",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k05b",
+   "target": "unit:k05b-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k05b-3",
+   "target": "concept:ausnutzung_wertschaetzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-3",
+   "target": "concept:bekannte_marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-3",
+   "target": "case:bgh_oeko_test_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05b-3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "chapter:k05b",
+   "target": "unit:k05b-4",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k05b-4",
+   "target": "concept:unlauterkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-4",
+   "target": "concept:keyword_advertising",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05b-4",
+   "target": "case:eugh_interflora",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05b-4",
+   "target": "case:bgh_fleurop",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05b-4",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "unit:k05b-4",
+   "target": "step:schema_bekanntheitsschutz.6",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k05",
+   "target": "chapter:k05c",
+   "relation": "has_chapter",
+   "order": 3
+  },
+  {
+   "source": "chapter:k05c",
+   "target": "unit:k05c-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k05c-0",
+   "target": "schema:schema_relative_schutzhindernisse",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k05c",
+   "target": "unit:k05c-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k05c-1",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05c-1",
+   "target": "concept:koexistenz_22",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05c-1",
+   "target": "concept:prioritaet",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05c-1",
+   "target": "case:bgh_springender_pudel",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k05c-1",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "unit:k05c-1",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 3"
+  },
+  {
+   "source": "unit:k05c-1",
+   "target": "norm:§22",
+   "relation": "applies",
+   "ref": "§ 22"
+  },
+  {
+   "source": "unit:k05c-1",
+   "target": "step:schema_relative_schutzhindernisse.4.3.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k05c",
+   "target": "unit:k05c-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k05c-2",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05c-2",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "unit:k05c-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 3"
+  },
+  {
+   "source": "chapter:k05c",
+   "target": "unit:k05c-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k05c-3",
+   "target": "concept:widerspruch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05c-3",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05c-3",
+   "target": "concept:nichtigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k05c-3",
+   "target": "norm:§42",
+   "relation": "applies",
+   "ref": "§ 42"
+  },
+  {
+   "source": "unit:k05c-3",
+   "target": "norm:§43",
+   "relation": "applies",
+   "ref": "§ 43"
+  },
+  {
+   "source": "unit:k05c-3",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "unit:k05c-3",
+   "target": "norm:§55",
+   "relation": "applies",
+   "ref": "§ 55"
+  },
+  {
+   "source": "course:k06",
+   "target": "chapter:k06a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k06a",
+   "target": "unit:k06a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k06a-0",
+   "target": "schema:schema_schranke_23",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06a",
+   "target": "unit:k06a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k06a-1",
+   "target": "concept:ersatzteilhinweis",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-1",
+   "target": "concept:schranke_23",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-1",
+   "target": "case:bgh_staubsaugerfiltertueten",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-1",
+   "target": "case:eugh_gillette",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-1",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "unit:k06a-1",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23 Abs. 2"
+  },
+  {
+   "source": "unit:k06a-1",
+   "target": "step:schema_schranke_23.2.3",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06a",
+   "target": "unit:k06a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k06a-2",
+   "target": "concept:ersatzteilhinweis",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-2",
+   "target": "case:bgh_kuehlergrill",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-2",
+   "target": "case:bgh_grosse_inspektion",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-2",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "chapter:k06a",
+   "target": "unit:k06a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k06a-3",
+   "target": "concept:schranke_23",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-3",
+   "target": "concept:ersatzteilhinweis",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-3",
+   "target": "case:bgh_grosse_inspektion",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-3",
+   "target": "case:eugh_gillette",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-3",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23 Abs. 2"
+  },
+  {
+   "source": "unit:k06a-3",
+   "target": "step:schema_schranke_23.3",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06a",
+   "target": "unit:k06a-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k06a-4",
+   "target": "concept:gleichnamigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-4",
+   "target": "concept:unternehmenskennzeichen",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-4",
+   "target": "case:bgh_peek_cloppenburg",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-4",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23 Abs. 1 Nr. 1"
+  },
+  {
+   "source": "unit:k06a-4",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15"
+  },
+  {
+   "source": "unit:k06a-4",
+   "target": "step:schema_schranke_23.2.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06a",
+   "target": "unit:k06a-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k06a-5",
+   "target": "concept:schranke_23",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-5",
+   "target": "concept:markenmaessige_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06a-5",
+   "target": "case:bgh_kinder_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-5",
+   "target": "case:bgh_tuev_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06a-5",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23 Abs. 1 Nr. 2"
+  },
+  {
+   "source": "unit:k06a-5",
+   "target": "step:schema_schranke_23.2.2",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k06",
+   "target": "chapter:k06b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k06b",
+   "target": "unit:k06b-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k06b-0",
+   "target": "schema:schema_erschoepfung",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06b",
+   "target": "unit:k06b-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k06b-1",
+   "target": "concept:erschoepfung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06b-1",
+   "target": "case:bgh_converse_i",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06b-1",
+   "target": "norm:§24",
+   "relation": "applies",
+   "ref": "§ 24 Abs. 1"
+  },
+  {
+   "source": "unit:k06b-1",
+   "target": "step:schema_erschoepfung.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06b",
+   "target": "unit:k06b-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k06b-2",
+   "target": "concept:beweislast_erschoepfung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06b-2",
+   "target": "case:eugh_van_doren",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06b-2",
+   "target": "case:bgh_stuessy_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06b-2",
+   "target": "case:bgh_converse_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06b-2",
+   "target": "norm:§24",
+   "relation": "applies",
+   "ref": "§ 24 Abs. 1"
+  },
+  {
+   "source": "unit:k06b-2",
+   "target": "step:schema_erschoepfung.3",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06b",
+   "target": "unit:k06b-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k06b-3",
+   "target": "concept:erschoepfung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06b-3",
+   "target": "concept:lizenz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06b-3",
+   "target": "case:bgh_converse_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06b-3",
+   "target": "norm:§24",
+   "relation": "applies",
+   "ref": "§ 24 Abs. 1"
+  },
+  {
+   "source": "unit:k06b-3",
+   "target": "norm:§30",
+   "relation": "applies",
+   "ref": "§ 30 Abs. 2"
+  },
+  {
+   "source": "chapter:k06b",
+   "target": "unit:k06b-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k06b-4",
+   "target": "concept:umverpackung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06b-4",
+   "target": "concept:berechtigte_gruende",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06b-4",
+   "target": "case:eugh_bms",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06b-4",
+   "target": "norm:§24",
+   "relation": "applies",
+   "ref": "§ 24 Abs. 2"
+  },
+  {
+   "source": "unit:k06b-4",
+   "target": "step:schema_erschoepfung.4",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06b",
+   "target": "unit:k06b-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k06b-5",
+   "target": "concept:berechtigte_gruende",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06b-5",
+   "target": "concept:erschoepfung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06b-5",
+   "target": "case:eugh_dior_evora",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06b-5",
+   "target": "norm:§24",
+   "relation": "applies",
+   "ref": "§ 24 Abs. 2"
+  },
+  {
+   "source": "unit:k06b-5",
+   "target": "step:schema_erschoepfung.5",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k06",
+   "target": "chapter:k06c",
+   "relation": "has_chapter",
+   "order": 3
+  },
+  {
+   "source": "chapter:k06c",
+   "target": "unit:k06c-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k06c-1",
+   "target": "concept:verwirkung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06c-1",
+   "target": "concept:verhaeltnis_uwg",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06c-1",
+   "target": "case:bgh_hard_rock_cafe",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k06c-1",
+   "target": "norm:§21",
+   "relation": "applies",
+   "ref": "§ 21 Abs. 4"
+  },
+  {
+   "source": "chapter:k06c",
+   "target": "unit:k06c-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k06c-2",
+   "target": "concept:verwirkung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06c-2",
+   "target": "concept:koexistenz_22",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06c-2",
+   "target": "norm:§21",
+   "relation": "applies",
+   "ref": "§ 21"
+  },
+  {
+   "source": "unit:k06c-2",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 2"
+  },
+  {
+   "source": "chapter:k06c",
+   "target": "unit:k06c-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k06c-3",
+   "target": "concept:koexistenz_22",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06c-3",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06c-3",
+   "target": "norm:§22",
+   "relation": "applies",
+   "ref": "§ 22 Abs. 1 Nr. 1"
+  },
+  {
+   "source": "unit:k06c-3",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 3"
+  },
+  {
+   "source": "unit:k06c-3",
+   "target": "step:schema_markenverletzung.4.4",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k06c",
+   "target": "unit:k06c-4",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k06c-4",
+   "target": "concept:verjaehrung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k06c-4",
+   "target": "norm:§20",
+   "relation": "applies",
+   "ref": "§ 20"
+  },
+  {
+   "source": "course:k07",
+   "target": "chapter:k07a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k07a",
+   "target": "unit:k07a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k07a-0",
+   "target": "schema:schema_benutzungszwang",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k07a",
+   "target": "unit:k07a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k07a-1",
+   "target": "concept:ernsthafte_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07a-1",
+   "target": "concept:nichtbenutzungseinrede",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07a-1",
+   "target": "case:eugh_ansul",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k07a-1",
+   "target": "case:bgh_voodoo",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k07a-1",
+   "target": "norm:§26",
+   "relation": "applies",
+   "ref": "§ 26 Abs. 1"
+  },
+  {
+   "source": "unit:k07a-1",
+   "target": "norm:§25",
+   "relation": "applies",
+   "ref": "§ 25"
+  },
+  {
+   "source": "unit:k07a-1",
+   "target": "step:schema_benutzungszwang.3.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k07a",
+   "target": "unit:k07a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k07a-2",
+   "target": "concept:abweichende_form",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07a-2",
+   "target": "case:bgh_dorzo",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k07a-2",
+   "target": "case:bgh_probiotik",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k07a-2",
+   "target": "norm:§26",
+   "relation": "applies",
+   "ref": "§ 26 Abs. 3"
+  },
+  {
+   "source": "unit:k07a-2",
+   "target": "step:schema_benutzungszwang.3.6",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k07a",
+   "target": "unit:k07a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k07a-3",
+   "target": "concept:rechtserhaltende_benutzung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07a-3",
+   "target": "case:bgh_lottocard",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k07a-3",
+   "target": "norm:§26",
+   "relation": "applies",
+   "ref": "§ 26 Abs. 1"
+  },
+  {
+   "source": "unit:k07a-3",
+   "target": "norm:§26",
+   "relation": "applies",
+   "ref": "§ 26 Abs. 3"
+  },
+  {
+   "source": "chapter:k07a",
+   "target": "unit:k07a-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k07a-4",
+   "target": "concept:benutzungsschonfrist",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07a-4",
+   "target": "norm:§26",
+   "relation": "applies",
+   "ref": "§ 26 Abs. 5"
+  },
+  {
+   "source": "unit:k07a-4",
+   "target": "norm:§25",
+   "relation": "applies",
+   "ref": "§ 25 Abs. 1"
+  },
+  {
+   "source": "unit:k07a-4",
+   "target": "norm:§49",
+   "relation": "applies",
+   "ref": "§ 49 Abs. 1"
+  },
+  {
+   "source": "unit:k07a-4",
+   "target": "step:schema_benutzungszwang.1",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k07",
+   "target": "chapter:k07b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k07b",
+   "target": "unit:k07b-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k07b-0",
+   "target": "schema:schema_loeschung",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k07b",
+   "target": "unit:k07b-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k07b-1",
+   "target": "concept:verfall",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07b-1",
+   "target": "concept:benutzungsschonfrist",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07b-1",
+   "target": "norm:§49",
+   "relation": "applies",
+   "ref": "§ 49 Abs. 1"
+  },
+  {
+   "source": "unit:k07b-1",
+   "target": "step:schema_benutzungszwang.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k07b",
+   "target": "unit:k07b-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k07b-2",
+   "target": "concept:uebliche_bezeichnung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07b-2",
+   "target": "concept:verfall",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07b-2",
+   "target": "case:bgh_tuev_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k07b-2",
+   "target": "norm:§49",
+   "relation": "applies",
+   "ref": "§ 49 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "chapter:k07b",
+   "target": "unit:k07b-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k07b-3",
+   "target": "concept:nichtigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07b-3",
+   "target": "concept:verfall",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07b-3",
+   "target": "norm:§52",
+   "relation": "applies",
+   "ref": "§ 52"
+  },
+  {
+   "source": "chapter:k07b",
+   "target": "unit:k07b-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k07b-4",
+   "target": "concept:nichtigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07b-4",
+   "target": "concept:verfall",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07b-4",
+   "target": "case:bgh_black_friday",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k07b-4",
+   "target": "norm:§53",
+   "relation": "applies",
+   "ref": "§ 53"
+  },
+  {
+   "source": "unit:k07b-4",
+   "target": "norm:§50",
+   "relation": "applies",
+   "ref": "§ 50"
+  },
+  {
+   "source": "unit:k07b-4",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "course:k07",
+   "target": "chapter:k07c",
+   "relation": "has_chapter",
+   "order": 3
+  },
+  {
+   "source": "chapter:k07c",
+   "target": "unit:k07c-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k07c-0",
+   "target": "schema:schema_widerspruch",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k07c",
+   "target": "unit:k07c-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k07c-1",
+   "target": "concept:widerspruch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07c-1",
+   "target": "norm:§42",
+   "relation": "applies",
+   "ref": "§ 42"
+  },
+  {
+   "source": "unit:k07c-1",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "unit:k07c-1",
+   "target": "step:schema_widerspruch.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k07c",
+   "target": "unit:k07c-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k07c-2",
+   "target": "concept:nichtbenutzungseinrede",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07c-2",
+   "target": "concept:widerspruch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07c-2",
+   "target": "norm:§43",
+   "relation": "applies",
+   "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "unit:k07c-2",
+   "target": "step:schema_widerspruch.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k07c",
+   "target": "unit:k07c-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k07c-3",
+   "target": "concept:widerspruch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07c-3",
+   "target": "concept:relative_schutzhindernisse",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07c-3",
+   "target": "concept:nichtigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k07c-3",
+   "target": "norm:§42",
+   "relation": "applies",
+   "ref": "§ 42 Abs. 2"
+  },
+  {
+   "source": "unit:k07c-3",
+   "target": "norm:§13",
+   "relation": "applies",
+   "ref": "§ 13"
+  },
+  {
+   "source": "unit:k07c-3",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51"
+  },
+  {
+   "source": "course:k08",
+   "target": "chapter:k08a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k08a",
+   "target": "unit:k08a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k08a-0",
+   "target": "schema:schema_unternehmenskennzeichen",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k08a",
+   "target": "unit:k08a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k08a-1",
+   "target": "concept:domain",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08a-1",
+   "target": "concept:unternehmenskennzeichen",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08a-1",
+   "target": "case:bgh_soco_de",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k08a-1",
+   "target": "norm:§5",
+   "relation": "applies",
+   "ref": "§ 5 Abs. 2"
+  },
+  {
+   "source": "unit:k08a-1",
+   "target": "step:schema_unternehmenskennzeichen.1.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k08a",
+   "target": "unit:k08a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k08a-2",
+   "target": "concept:firmenschlagwort",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08a-2",
+   "target": "concept:branchennaehe",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08a-2",
+   "target": "case:bgh_defacto",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k08a-2",
+   "target": "norm:§5",
+   "relation": "applies",
+   "ref": "§ 5 Abs. 2"
+  },
+  {
+   "source": "unit:k08a-2",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15 Abs. 2"
+  },
+  {
+   "source": "unit:k08a-2",
+   "target": "step:schema_unternehmenskennzeichen.3",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k08a",
+   "target": "unit:k08a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k08a-3",
+   "target": "concept:domain",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08a-3",
+   "target": "concept:gleichnamigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08a-3",
+   "target": "case:bgh_shell_de",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k08a-3",
+   "target": "case:bgh_peek_cloppenburg",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k08a-3",
+   "target": "norm:§5",
+   "relation": "applies",
+   "ref": "§ 5"
+  },
+  {
+   "source": "unit:k08a-3",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15"
+  },
+  {
+   "source": "chapter:k08a",
+   "target": "unit:k08a-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k08a-4",
+   "target": "concept:branchennaehe",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08a-4",
+   "target": "case:bgh_defacto",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k08a-4",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15 Abs. 2"
+  },
+  {
+   "source": "unit:k08a-4",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15 Abs. 3"
+  },
+  {
+   "source": "course:k08",
+   "target": "chapter:k08b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k08b",
+   "target": "unit:k08b-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k08b-1",
+   "target": "concept:werktitel",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08b-1",
+   "target": "concept:unterscheidungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08b-1",
+   "target": "case:bgh_wetter_de",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k08b-1",
+   "target": "norm:§5",
+   "relation": "applies",
+   "ref": "§ 5 Abs. 3"
+  },
+  {
+   "source": "unit:k08b-1",
+   "target": "step:schema_unternehmenskennzeichen.1.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k08b",
+   "target": "unit:k08b-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k08b-2",
+   "target": "concept:werktitel",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08b-2",
+   "target": "concept:verwechslungsgefahr_weiterer_sinn",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08b-2",
+   "target": "case:bgh_augsburger_puppenkiste",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k08b-2",
+   "target": "norm:§5",
+   "relation": "applies",
+   "ref": "§ 5 Abs. 3"
+  },
+  {
+   "source": "unit:k08b-2",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15 Abs. 2"
+  },
+  {
+   "source": "chapter:k08b",
+   "target": "unit:k08b-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k08b-3",
+   "target": "concept:werktitel",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k08b-3",
+   "target": "case:bgh_das_omen",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k08b-3",
+   "target": "norm:§5",
+   "relation": "applies",
+   "ref": "§ 5 Abs. 3"
+  },
+  {
+   "source": "unit:k08b-3",
+   "target": "norm:§15",
+   "relation": "applies",
+   "ref": "§ 15"
+  },
+  {
+   "source": "course:k09",
+   "target": "chapter:k09a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k09a",
+   "target": "unit:k09a-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k09a-1",
+   "target": "concept:unterlassungsanspruch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09a-1",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 5"
+  },
+  {
+   "source": "unit:k09a-1",
+   "target": "step:schema_markenverletzung.5",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k09a",
+   "target": "unit:k09a-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k09a-2",
+   "target": "concept:schadensersatz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09a-2",
+   "target": "concept:lizenzanalogie",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09a-2",
+   "target": "case:bgh_btk",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k09a-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 6"
+  },
+  {
+   "source": "unit:k09a-2",
+   "target": "step:schema_markenverletzung.6.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k09a",
+   "target": "unit:k09a-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k09a-3",
+   "target": "concept:schadensersatz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09a-3",
+   "target": "concept:unterlassungsanspruch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09a-3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 7"
+  },
+  {
+   "source": "chapter:k09a",
+   "target": "unit:k09a-4",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k09a-4",
+   "target": "concept:vernichtung_auskunft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09a-4",
+   "target": "norm:§18",
+   "relation": "applies",
+   "ref": "§ 18"
+  },
+  {
+   "source": "unit:k09a-4",
+   "target": "norm:§19",
+   "relation": "applies",
+   "ref": "§ 19"
+  },
+  {
+   "source": "unit:k09a-4",
+   "target": "step:schema_markenverletzung.6.2",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k09",
+   "target": "chapter:k09b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k09b",
+   "target": "unit:k09b-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k09b-1",
+   "target": "concept:stoererhaftung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09b-1",
+   "target": "case:bgh_internet_versteigerung_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k09b-1",
+   "target": "case:bgh_kinderhochstuehle",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k09b-1",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 5"
+  },
+  {
+   "source": "chapter:k09b",
+   "target": "unit:k09b-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k09b-2",
+   "target": "concept:stoererhaftung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09b-2",
+   "target": "concept:ersatzteilhinweis",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09b-2",
+   "target": "case:bgh_tork",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k09b-2",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k09b-2",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "chapter:k09b",
+   "target": "unit:k09b-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k09b-3",
+   "target": "concept:stoererhaftung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09b-3",
+   "target": "concept:schadensersatz",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k09b-3",
+   "target": "case:bgh_kinderhochstuehle",
+   "relation": "cites"
+  },
+  {
+   "source": "course:k10",
+   "target": "chapter:k10a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k10a",
+   "target": "unit:k10a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k10a-0",
+   "target": "schema:schema_unionsmarke",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k10a",
+   "target": "unit:k10a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k10a-1",
+   "target": "concept:bekanntheit_union",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-1",
+   "target": "concept:bekannte_marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-1",
+   "target": "case:eugh_pago",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k10a-1",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "chapter:k10a",
+   "target": "unit:k10a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k10a-2",
+   "target": "concept:bekanntheit_union",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-2",
+   "target": "concept:relative_schutzhindernis_bekannt",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-2",
+   "target": "concept:gedankliche_verknuepfung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-2",
+   "target": "case:eugh_iron_smith",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k10a-2",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "unit:k10a-2",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "unit:k10a-2",
+   "target": "step:schema_relative_schutzhindernisse.4.3.1",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k10a",
+   "target": "unit:k10a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k10a-3",
+   "target": "concept:benutzung_union",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-3",
+   "target": "case:eugh_leno_merken",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k10a-3",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "unit:k10a-3",
+   "target": "norm:§43",
+   "relation": "applies",
+   "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "unit:k10a-3",
+   "target": "step:schema_unionsmarke.3.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k10a",
+   "target": "unit:k10a-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k10a-4",
+   "target": "concept:unionsmarkengericht",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-4",
+   "target": "case:eugh_dhl_chronopost",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k10a-4",
+   "target": "case:eugh_combit",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k10a-4",
+   "target": "norm:§125e",
+   "relation": "applies",
+   "ref": "§ 125e"
+  },
+  {
+   "source": "unit:k10a-4",
+   "target": "step:schema_unionsmarke.2.4",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k10a",
+   "target": "unit:k10a-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k10a-5",
+   "target": "concept:unionsmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-5",
+   "target": "concept:unionsmarkengericht",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-5",
+   "target": "concept:vernichtung_auskunft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10a-5",
+   "target": "norm:§125b",
+   "relation": "applies",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "unit:k10a-5",
+   "target": "norm:§125e",
+   "relation": "applies",
+   "ref": "§ 125e"
+  },
+  {
+   "source": "unit:k10a-5",
+   "target": "step:schema_unionsmarke.2.4",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k10",
+   "target": "chapter:k10b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k10b",
+   "target": "unit:k10b-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k10b-0",
+   "target": "schema:schema_ir_marke",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k10b",
+   "target": "unit:k10b-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k10b-1",
+   "target": "concept:ir_marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10b-1",
+   "target": "norm:§112",
+   "relation": "applies",
+   "ref": "§ 112"
+  },
+  {
+   "source": "unit:k10b-1",
+   "target": "norm:§124",
+   "relation": "applies",
+   "ref": "§ 124"
+  },
+  {
+   "source": "unit:k10b-1",
+   "target": "step:schema_ir_marke.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k10b",
+   "target": "unit:k10b-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k10b-2",
+   "target": "concept:ir_benutzungsschonfrist",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10b-2",
+   "target": "norm:§115",
+   "relation": "applies",
+   "ref": "§ 115"
+  },
+  {
+   "source": "unit:k10b-2",
+   "target": "norm:§116",
+   "relation": "applies",
+   "ref": "§ 116"
+  },
+  {
+   "source": "unit:k10b-2",
+   "target": "norm:§117",
+   "relation": "applies",
+   "ref": "§ 117"
+  },
+  {
+   "source": "unit:k10b-2",
+   "target": "step:schema_ir_marke.5",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k10b",
+   "target": "unit:k10b-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k10b-3",
+   "target": "concept:ir_schutzverweigerung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10b-3",
+   "target": "concept:widerspruch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10b-3",
+   "target": "norm:§114",
+   "relation": "applies",
+   "ref": "§ 114"
+  },
+  {
+   "source": "unit:k10b-3",
+   "target": "norm:§115",
+   "relation": "applies",
+   "ref": "§ 115"
+  },
+  {
+   "source": "unit:k10b-3",
+   "target": "step:schema_ir_marke.3.2",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k10b",
+   "target": "unit:k10b-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k10b-4",
+   "target": "concept:ir_marke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10b-4",
+   "target": "concept:senioritaet",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k10b-4",
+   "target": "norm:§125",
+   "relation": "applies",
+   "ref": "§ 125"
+  },
+  {
+   "source": "unit:k10b-4",
+   "target": "step:schema_ir_marke.3.4",
+   "relation": "covers"
   }
  ]
 }

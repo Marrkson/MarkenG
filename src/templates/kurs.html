@@ -1,0 +1,343 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Markenrecht Fallkurs</title>
+<style>
+:root{
+  --bg:#fbf7f2;--card:#ffffff;--ink:#1e2228;--muted:#6b7280;--line:#e9e2d8;--soft:#f6efe6;
+  --accent:#e8730c;--accent-deep:#b9560a;--accent-soft:#fdeedd;--ok:#1f8a5b;--ok-soft:#e3f5ec;--bad:#c8402f;--bad-soft:#fbe6e2;
+  --norm:#2b5b8a;--norm-soft:#e4edf7;--concept:#8a2f1f;--concept-soft:#f6e6e1;--case:#6a4c93;--case-soft:#ece5f5;--schema:#2f6b4f;--schema-soft:#e2f0e8;
+  --radius:16px;--shadow:0 1px 2px rgba(60,40,20,.06),0 6px 20px rgba(60,40,20,.06);color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#17181b;--card:#202226;--ink:#ecebe7;--muted:#9aa0a8;--line:#32353b;--soft:#26282d;
+  --accent:#f08a2e;--accent-deep:#f5a55f;--accent-soft:#3a2a1a;--ok:#5fc48f;--ok-soft:#1c3328;--bad:#ef8a7a;--bad-soft:#3b221e;
+  --norm:#8db7e6;--norm-soft:#20303f;--concept:#e0866f;--concept-soft:#3a2622;--case:#b89ee0;--case-soft:#2c2540;--schema:#7fc4a0;--schema-soft:#1f3329;
+  --shadow:0 1px 2px rgba(0,0,0,.5);color-scheme:dark;}}
+:root[data-theme="dark"]{
+  --bg:#17181b;--card:#202226;--ink:#ecebe7;--muted:#9aa0a8;--line:#32353b;--soft:#26282d;
+  --accent:#f08a2e;--accent-deep:#f5a55f;--accent-soft:#3a2a1a;--ok:#5fc48f;--ok-soft:#1c3328;--bad:#ef8a7a;--bad-soft:#3b221e;
+  --norm:#8db7e6;--norm-soft:#20303f;--concept:#e0866f;--concept-soft:#3a2622;--case:#b89ee0;--case-soft:#2c2540;--schema:#7fc4a0;--schema-soft:#1f3329;
+  --shadow:0 1px 2px rgba(0,0,0,.5);color-scheme:dark;}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 "Segoe UI",system-ui,-apple-system,Roboto,"Helvetica Neue",sans-serif}
+a{color:var(--norm)}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+.shell{max-width:720px;margin:0 auto;padding:0 16px 96px}
+.top{position:sticky;top:0;z-index:20;background:var(--bg);display:flex;align-items:center;gap:10px;padding:12px 0 8px}
+.top .back{color:var(--ink);width:40px;height:40px;border-radius:12px;background:var(--card);box-shadow:var(--shadow);display:flex;align-items:center;justify-content:center;font-size:20px}
+.top .ttl{flex:1;font-weight:700;font-size:17px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.pill{display:inline-flex;align-items:center;gap:6px;background:var(--card);box-shadow:var(--shadow);border-radius:999px;padding:6px 12px;font-size:14px;font-weight:600}
+.pill svg{width:16px;height:16px}
+.bar{height:10px;background:var(--soft);border-radius:999px;overflow:hidden}
+.bar > i{display:block;height:100%;background:var(--accent);border-radius:999px;transition:width .4s}
+.bar.ok > i{background:var(--ok)}
+h1{font-size:26px;margin:14px 0 4px;line-height:1.2}
+h2{font-size:20px;margin:22px 0 10px}
+h3{font-size:16px;margin:14px 0 6px}
+.lead{color:var(--muted);margin:0 0 14px}
+.card{background:var(--card);border-radius:var(--radius);box-shadow:var(--shadow);padding:18px}
+.course{display:grid;grid-template-columns:52px 1fr;gap:14px;align-items:center;padding:16px;margin:10px 0;cursor:pointer;border-left:6px solid var(--c,var(--accent))}
+.course:hover{transform:translateY(-1px)}
+.course .ico{width:52px;height:52px;border-radius:14px;background:var(--c,var(--accent));display:flex;align-items:center;justify-content:center;color:#fff}
+.course .ico svg{width:28px;height:28px}
+.course .t{font-weight:700}
+.course .s{color:var(--muted);font-size:14px}
+.course .m{display:flex;align-items:center;gap:10px;margin-top:8px;font-size:13px;color:var(--muted)}
+.course .m .bar{flex:1}
+.hero{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;padding:20px;background:linear-gradient(135deg,var(--accent-soft),var(--card));}
+.ring{width:84px;height:84px;position:relative}
+.ring svg{width:84px;height:84px;transform:rotate(-90deg)}
+.ring .v{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:18px}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:14px 0}
+.stat{background:var(--card);border-radius:14px;box-shadow:var(--shadow);padding:12px;text-align:center}
+.stat b{display:block;font-size:22px;font-variant-numeric:tabular-nums}
+.stat span{font-size:12px;color:var(--muted)}
+.btn,.back,nav.bottom a{text-decoration:none}
+.btn{color:var(--ink);display:inline-flex;align-items:center;justify-content:center;gap:8px;border-radius:14px;padding:14px 20px;font-weight:700;font-size:16px;background:var(--card);box-shadow:var(--shadow);border:2px solid transparent}
+.btn.primary{background:var(--accent);color:#fff}
+.btn.primary:hover{background:var(--accent-deep)}
+.btn.block{width:100%}
+.btn.ghost{background:transparent;box-shadow:none;border-color:var(--line)}
+.btn:focus-visible{outline:3px solid var(--norm);outline-offset:2px}
+.btn[disabled]{opacity:.5;cursor:default}
+.row{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+.row .btn{flex:1}
+/* chapter list */
+.chap{margin:14px 0}
+.chap .h{display:flex;align-items:center;gap:10px;padding:12px 0;font-weight:700}
+.chap .h .n{width:30px;height:30px;border-radius:50%;background:var(--soft);display:flex;align-items:center;justify-content:center;font-size:13px;flex:none}
+.chap .h .bar{flex:1;height:6px}
+.unit{display:flex;align-items:center;gap:12px;padding:12px 14px;margin:6px 0;cursor:pointer;border-left:4px solid transparent}
+.unit .ty{width:34px;height:34px;border-radius:10px;background:var(--soft);display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;letter-spacing:.04em;flex:none;color:var(--muted)}
+.unit .ty.fall{background:var(--accent-soft);color:var(--accent-deep)}.unit .ty.mc{background:var(--norm-soft);color:var(--norm)}.unit .ty.schema{background:var(--schema-soft);color:var(--schema)}
+.unit .t{flex:1;font-weight:600;font-size:15px}
+.unit .st{width:26px;height:26px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:14px;font-weight:800;flex:none}
+.unit .st.ok{background:var(--ok-soft);color:var(--ok)}.unit .st.bad{background:var(--bad-soft);color:var(--bad)}.unit .st.none{background:var(--soft);color:var(--muted)}
+.unit.ok{border-left-color:var(--ok)}.unit.bad{border-left-color:var(--bad)}
+.lvl{font-size:11px;color:var(--muted);font-weight:600}
+/* player */
+.kind{font-size:12px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-deep)}
+.sv{background:var(--soft);border-radius:14px;padding:16px;margin:12px 0;font-size:17px;line-height:1.6}
+.sv::before{content:"Sachverhalt";display:block;font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.frage{font-weight:700;font-size:19px;margin:14px 0;line-height:1.4;text-wrap:balance}
+.answers{display:grid;gap:10px;margin:14px 0}
+.answers.yn{grid-template-columns:1fr 1fr}
+.ans{border-radius:14px;padding:16px;font-weight:700;font-size:17px;background:var(--card);border:2px solid var(--line);text-align:left}
+.answers.yn .ans{text-align:center}
+.ans:hover{border-color:var(--accent)}
+.ans.sel{border-color:var(--accent);background:var(--accent-soft)}
+.ans.right{border-color:var(--ok);background:var(--ok-soft)}
+.ans.wrong{border-color:var(--bad);background:var(--bad-soft)}
+.ans[disabled]{cursor:default}
+.fb{border-radius:14px;padding:14px 16px;margin:14px 0;font-weight:700;display:flex;gap:10px;align-items:center}
+.fb.ok{background:var(--ok-soft);color:var(--ok)}.fb.bad{background:var(--bad-soft);color:var(--bad)}
+.fb .big{font-size:22px}
+.loes p{margin:0 0 10px;line-height:1.6}
+.merke{background:var(--accent-soft);border-left:4px solid var(--accent);border-radius:0 12px 12px 0;padding:12px 14px;margin:14px 0}
+.merke b{color:var(--accent-deep)}
+.intro p{font-size:17px;line-height:1.65}
+.meta{font-size:13px;color:var(--muted)}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 2px}
+.chip{display:inline-flex;align-items:center;gap:5px;font-size:13px;padding:5px 11px;border-radius:20px;cursor:pointer;user-select:none;border:1px solid transparent;font-weight:600}
+.chip::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor;opacity:.8}
+.chip.concept{background:var(--concept-soft);color:var(--concept)}.chip.norm{background:var(--norm-soft);color:var(--norm)}.chip.case{background:var(--case-soft);color:var(--case)}.chip.step,.chip.schema{background:var(--schema-soft);color:var(--schema)}.chip.distinction{background:var(--accent-soft);color:var(--accent-deep)}
+.chip.open{border-color:currentColor}
+.slot:empty{display:none}
+.inline{border-left:3px solid var(--line);margin:8px 0;padding:10px 14px;background:var(--card);border-radius:0 12px 12px 0;box-shadow:var(--shadow);font-size:15px}
+.inline.concept{border-left-color:var(--concept)}.inline.norm{border-left-color:var(--norm)}.inline.case{border-left-color:var(--case)}.inline.step,.inline.schema{border-left-color:var(--schema)}
+.inline h5{margin:2px 0 6px;font-size:15px}
+.inline .k{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.inline p{margin:0 0 6px}
+.abs{margin:6px 0}.abs b{color:var(--norm);margin-right:4px}
+.tree{list-style:none;padding:0;margin:0}
+.tree li{margin:4px 0}
+.tree .node{display:flex;gap:8px;align-items:flex-start;padding:8px 10px;border-radius:10px;cursor:pointer}
+.tree .node:hover{background:var(--soft)}
+.tree .tw{width:16px;color:var(--muted);flex:none}
+.tree .lbl{font-weight:600}
+.tree .body{margin:2px 0 6px 30px}
+.tree .body p{margin:4px 0 6px;font-size:15px}
+.tree ul{list-style:none;padding-left:22px;margin:0;border-left:1px dashed var(--line)}
+.done{text-align:center;padding:26px 18px}
+.done .score{font-size:44px;font-weight:800;color:var(--accent)}
+.list{margin:10px 0}
+.notice{position:fixed;left:0;right:0;bottom:62px;z-index:30;background:var(--card);box-shadow:0 -4px 20px rgba(0,0,0,.12);padding:14px 16px;display:flex;gap:12px;align-items:center;font-size:14px}
+.notice .btn{padding:10px 16px}
+nav.bottom{position:fixed;left:0;right:0;bottom:0;z-index:25;background:var(--card);border-top:1px solid var(--line);display:flex;justify-content:space-around;padding:6px 0 max(6px,env(safe-area-inset-bottom))}
+nav.bottom a{flex:1;text-align:center;text-decoration:none;color:var(--muted);font-size:11px;font-weight:700;padding:6px 0}
+nav.bottom a svg{width:22px;height:22px;display:block;margin:0 auto 2px}
+nav.bottom a.active{color:var(--accent)}
+.kbd{font-size:12px;border:1px solid var(--line);border-radius:5px;padding:1px 5px;color:var(--muted)}
+mark{background:var(--accent-soft);color:inherit}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<div class="shell">
+  <div class="top" id="top"></div>
+  <main id="main"></main>
+</div>
+<nav class="bottom" id="bnav"></nav>
+<div id="notice" hidden></div>
+<script id="kurse-data" type="application/json">__KURSE__</script>
+<script id="graph-data" type="application/json">__GRAPH__</script>
+<script>
+(function(){
+'use strict';
+const KURSE = JSON.parse(document.getElementById('kurse-data').textContent);
+const G = JSON.parse(document.getElementById('graph-data').textContent);
+const byId = new Map(G.nodes.map(n=>[n.id,n]));
+const out = new Map(); for(const e of G.edges){ (out.get(e.source)||out.set(e.source,[]).get(e.source)).push(e); }
+const O = id => out.get(id)||[];
+const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const md = s => esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>');
+const UNITS = []; const UNIT = new Map(); const CHAP = new Map(); const KURS = new Map();
+for(const k of KURSE){ KURS.set(k.id,k); for(const c of k.kapitel){ CHAP.set(c.id,c); c.kurs=k.id; for(const e of c.einheiten){ e.kap=c.id; e.kurs=k.id; UNITS.push(e); UNIT.set(e.id,e); } } }
+const QUIZ = e => e.typ==='fall'||e.typ==='mc';
+const ICONS = {
+  marke:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 12l-8 8-8-8V4h8z"/><circle cx="8.5" cy="8.5" r="1.5" fill="currentColor"/></svg>',
+  register:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>',
+  verletzung:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l9 4-9 14L3 7z"/><path d="M12 3v18"/></svg>',
+  waage:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3v18M4 21h16M3 8h18M6 8l-3 6h6zM18 8l-3 6h6z"/></svg>',
+  stern:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9z"/></svg>',
+  schranke:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9h18M3 15h18M6 5v14M18 5v14"/></svg>',
+  loeschung:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M9 7V4h6v3M6 7l1 13h10l1-13"/></svg>',
+  firma:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M5 21V7l7-4 7 4v14M9 21v-5h6v5"/></svg>',
+  hammer:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 4l6 6-3 3-6-6zM12 9l-8 8 3 3 8-8M3 21h8"/></svg>',
+  europa:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg>',
+  flame:'<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2c1 4 5 6 5 11a5 5 0 01-10 0c0-2 1-3 2-4 0 2 1 3 2 3 0-4-1-6 1-10z"/></svg>',
+  home:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 11l9-8 9 8v10H3z"/></svg>',
+  book:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h7a3 3 0 013 3v13a2 2 0 00-2-2H4zM20 4h-7a3 3 0 00-3 3v13a2 2 0 012-2h8z"/></svg>',
+  repeat:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 12a8 8 0 0114-5l2 2M20 4v5h-5M20 12a8 8 0 01-14 5l-2-2M4 20v-5h5"/></svg>',
+  user:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0116 0"/></svg>',
+};
+
+// ---------- Fortschritt: Cookie (Fallback localStorage) ----------
+const DAY = () => Math.floor(Date.now()/86400000);
+const Store = (()=>{
+  const NAME='mgk_p', META='mgk_m';
+  const getC = n => { const m=document.cookie.match(new RegExp('(?:^|; )'+n+'=([^;]*)')); return m?decodeURIComponent(m[1]):null; };
+  const setC = (n,v) => { document.cookie = n+'='+encodeURIComponent(v)+'; max-age=31536000; path=/; SameSite=Lax'; };
+  let mode = 'cookie';
+  const probe = () => { try{ setC('mgk_t','1'); const ok = getC('mgk_t')==='1'; document.cookie='mgk_t=; max-age=0; path=/'; if(!ok) mode='local'; }catch(e){ mode='local'; } };
+  probe();
+  const rd = n => { try{ return mode==='cookie' ? getC(n) : localStorage.getItem(n); }catch(e){ return null; } };
+  const wr = (n,v) => { try{ if(mode==='cookie') setC(n,v); else localStorage.setItem(n,v); }catch(e){} };
+  const load = () => {
+    const p = {u:{}, s:{last:0,cnt:0,best:0}, xp:0, last:'', ack:0};
+    const u = rd(NAME); if(u){ for(const part of u.split('_')){ const [id,r,d,n]=part.split('.'); if(id) p.u[id]={r:+r,d:+d,n:+n||0}; } }
+    const m = rd(META); if(m){ const [last,cnt,best,xp,lastU,ack]=m.split(','); p.s={last:+last||0,cnt:+cnt||0,best:+best||0}; p.xp=+xp||0; p.last=lastU||''; p.ack=+ack||0; }
+    return p; };
+  const save = p => {
+    wr(NAME, Object.entries(p.u).map(([id,v])=>`${id}.${v.r}.${v.d}.${v.n}`).join('_'));
+    wr(META, [p.s.last,p.s.cnt,p.s.best,p.xp,p.last,p.ack].join(','));
+  };
+  const clear = () => { wr(NAME,''); wr(META,''); if(mode==='cookie'){ document.cookie='mgk_p=; max-age=0; path=/'; document.cookie='mgk_m=; max-age=0; path=/'; } };
+  return {load, save, clear, mode:()=>mode};
+})();
+let P = Store.load();
+function touchStreak(){ const t=DAY(); if(P.s.last===t) return; P.s.cnt = (P.s.last===t-1) ? P.s.cnt+1 : 1; P.s.last=t; P.s.best=Math.max(P.s.best,P.s.cnt); }
+function record(id, ok){ const prev=P.u[id]; const n = ok ? ((prev&&prev.r===1?prev.n:0)+1) : 0; P.u[id]={r:ok?1:0,d:DAY(),n}; P.xp += ok?10:2; touchStreak(); P.last=id; Store.save(P); }
+function markSeen(id){ if(!P.u[id]) { P.u[id]={r:1,d:DAY(),n:1}; P.xp+=3; } touchStreak(); P.last=id; Store.save(P); }
+const INT=[1,3,7,14,30,60];
+const due = e => { const v=P.u[e.id]; if(!v||!QUIZ(e)) return false; if(v.r===0) return true; return v.d + INT[Math.min(v.n,INT.length-1)] <= DAY(); };
+const st = e => { const v=P.u[e.id]; return v ? (v.r===1?'ok':'bad') : 'none'; };
+const progOf = units => { const q=units; const done=q.filter(e=>P.u[e.id]).length; const ok=q.filter(e=>P.u[e.id]&&P.u[e.id].r===1).length; return {total:q.length,done,ok,pct:q.length?Math.round(done/q.length*100):0}; };
+const unitsOf = k => k.kapitel.flatMap(c=>c.einheiten);
+
+// ---------- Inline-Karten (Begriffe, Normen, Entscheidungen, Schema) ----------
+const norms = id => O(id).filter(e=>['defined_in','applies','interprets'].includes(e.relation)).map(e=>({node:byId.get(e.target),ref:e.ref}));
+const cases = id => O(id).filter(e=>e.relation==='illustrated_by'||e.relation==='cites').map(e=>byId.get(e.target));
+const related = id => O(id).filter(e=>e.relation==='related_to'||e.relation==='uses_concept').map(e=>byId.get(e.target));
+const steps = id => O(id).filter(e=>e.relation==='has_step').sort((a,b)=>a.order-b.order).map(e=>byId.get(e.target));
+function chip(n, ref){ if(!n) return ''; const label = n.type==='norm'&&ref ? ref+' MarkenG' : n.type==='case' ? n.court+' '+n.name : n.label; return `<span class="chip ${n.type}" data-node="${n.id}">${esc(label)}</span>`; }
+function chips(list){ return list.length ? `<div class="chips">${list.map(x=>x&&x.node!==undefined?chip(x.node,x.ref):chip(x)).join('')}</div><div class="slot"></div>` : ''; }
+function section(t,h){ return h?`<div class="meta" style="margin-top:8px">${t}</div>${h}`:''; }
+function normText(n, ref){ const m=ref&&ref.match(/Abs\. (\d+[a-z]?)/); const want=m?m[1]:null; let list=n.absaetze.filter(a=>!want||a.nr===want||a.nr===null); if(!list.length) list=n.absaetze;
+  let h=list.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${esc(a.text).replace(/\n/g,'<br>')}</div>`).join('');
+  if(want&&list.length<n.absaetze.length) h+=`<div class="chips"><span class="chip norm" data-node="${n.id}" data-full="1">ganzen ${esc(n.label)} anzeigen</span></div><div class="slot"></div>`; return h; }
+function inlineCard(n, ref){
+  let b='';
+  if(n.type==='concept') b=`<h5>${esc(n.label)}</h5><p>${esc(n.definition)}</p><p class="meta">${esc(n.erlaeuterung)}</p>${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id).slice(0,6)))}${section('Verwandt',chips(related(n.id).slice(0,6)))}`;
+  else if(n.type==='norm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5>${normText(n,ref)}<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
+  else if(n.type==='case') b=`<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p>${esc(n.kern)}</p>${section('Normen',chips(norms(n.id)))}`;
+  else if(n.type==='step') b=`<h5>${esc(n.label)}</h5><p>${esc(n.text)}</p>${section('Begriffe',chips(related(n.id)))}${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id)))}`;
+  else if(n.type==='schema') b=`<h5>${esc(n.label)}</h5><p>${esc(n.beschreibung)}</p>`;
+  const kinds={concept:'Definition',norm:'Gesetz',case:'Entscheidung',step:'Prüfungspunkt',schema:'Prüfungsschema'};
+  return `<div class="inline ${n.type}"><div class="k">${kinds[n.type]||n.type}</div>${b}</div>`;
+}
+document.addEventListener('click', ev=>{
+  const c=ev.target.closest('.chip[data-node]'); if(!c) return; const n=byId.get(c.dataset.node); if(!n) return;
+  const row=c.closest('.chips'); let slot=row.nextElementSibling; if(!slot||!slot.classList.contains('slot')){ slot=document.createElement('div'); slot.className='slot'; row.after(slot); }
+  const wasOpen=c.classList.contains('open')&&!c.dataset.full; row.querySelectorAll('.chip.open').forEach(x=>x.classList.remove('open'));
+  if(wasOpen){ slot.innerHTML=''; return; } c.classList.add('open');
+  slot.innerHTML=inlineCard(n, c.dataset.full?null:(n.type==='norm'?c.textContent.replace(' MarkenG',''):null));
+});
+function schemaTree(schemaId){
+  const li = s => { const kids=steps(s.id); return `<li><div class="node" data-step><span class="tw">${kids.length?'▸':'·'}</span><div><div class="lbl">${esc(s.label)}</div></div></div><div class="body" hidden>${s.text?`<p>${esc(s.text)}</p>`:''}${section('Begriffe',chips(related(s.id)))}${section('Normen',chips(norms(s.id)))}${section('Rechtsprechung',chips(cases(s.id)))}${kids.length?`<ul>${kids.map(li).join('')}</ul>`:''}</div></li>`; };
+  return `<ul class="tree">${steps(schemaId).map(li).join('')}</ul>`;
+}
+document.addEventListener('click', ev=>{ const n=ev.target.closest('.node[data-step]'); if(!n) return; const b=n.nextElementSibling; b.hidden=!b.hidden; const tw=n.querySelector('.tw'); if(tw.textContent!=='·') tw.textContent=b.hidden?'▸':'▾'; });
+
+// ---------- Routing & Chrome ----------
+const main=document.getElementById('main'), top=document.getElementById('top');
+function chrome(title, back, extra){ top.innerHTML = `${back?`<a class="back" href="${back}" aria-label="Zurück">‹</a>`:''}<div class="ttl">${esc(title)}</div>${extra||''}`; }
+function streakPill(){ return `<span class="pill" title="Lern-Streak"><span style="color:var(--accent)">${ICONS.flame}</span>${P.s.cnt}</span><span class="pill" title="Punkte">${P.xp} XP</span>`; }
+function bnav(){ const h=location.hash||'#/'; const item=(href,ic,l)=>`<a href="${href}" class="${(href==='#/'?h==='#/'||h===''||h.startsWith('#/kurs')||h.startsWith('#/lernen'):h.startsWith(href))?'active':''}">${ICONS[ic]}${l}</a>`;
+  document.getElementById('bnav').innerHTML=item('#/','home','Kurse')+item('#/wdh','repeat','Wiederholen')+item('#/profil','user','Profil')+item('#/didaktik','book','Konzept'); }
+function route(){ const h=decodeURIComponent(location.hash||'#/').replace(/^#\//,''); const [v,a,b]=h.split('/'); window.scrollTo(0,0); bnav();
+  ({'':vHome,kurs:vKurs,lernen:vLernen,wdh:vWdh,profil:vProfil,didaktik:vDidaktik,ende:vEnde}[v]||vHome)(a,b); notice(); }
+window.addEventListener('hashchange',route);
+
+function ring(pct){ const r=36,c=2*Math.PI*r; return `<div class="ring"><svg viewBox="0 0 84 84"><circle cx="42" cy="42" r="${r}" fill="none" stroke="var(--soft)" stroke-width="9"/><circle cx="42" cy="42" r="${r}" fill="none" stroke="var(--accent)" stroke-width="9" stroke-linecap="round" stroke-dasharray="${c}" stroke-dashoffset="${c*(1-pct/100)}"/></svg><div class="v">${pct}%</div></div>`; }
+function nextUnit(){ if(P.last&&UNIT.has(P.last)){ const i=UNITS.findIndex(e=>e.id===P.last); for(let j=i+1;j<UNITS.length;j++) if(!P.u[UNITS[j].id]) return UNITS[j]; } return UNITS.find(e=>!P.u[e.id])||UNITS[0]; }
+
+function vHome(){
+  chrome('Markenrecht Fallkurs', null, streakPill());
+  const all=progOf(UNITS.filter(QUIZ)); const dueN=UNITS.filter(due).length; const nx=nextUnit();
+  main.innerHTML=`<h1>Hallo! Bereit für ein paar Fälle?</h1><p class="lead">Kleine Fälle, eine Frage, sofortige Lösung. Jeder Fall trainiert genau einen Prüfungspunkt des Markenrechts.</p>
+  <div class="card hero"><div><div class="meta">Gesamtfortschritt</div><div style="font-size:22px;font-weight:800">${all.ok} von ${all.total} Fällen gelöst</div><div class="meta" style="margin-top:4px">${dueN?`${dueN} zur Wiederholung fällig`:'Nichts fällig, weiter so'}</div><div class="row" style="margin-bottom:0"><a class="btn primary" href="#/lernen/${nx.id}">Weiter lernen</a>${dueN?`<a class="btn" href="#/wdh">Wiederholen</a>`:''}</div></div>${ring(all.pct)}</div>
+  <h2>Kurse</h2>${KURSE.map(k=>{ const p=progOf(unitsOf(k).filter(QUIZ)); return `<div class="card course" style="--c:${k.farbe}" onclick="location.hash='#/kurs/${k.id}'"><div class="ico">${ICONS[k.icon]||ICONS.marke}</div><div><div class="t">${esc(k.titel)}</div><div class="s">${esc(k.untertitel)}</div><div class="m"><div class="bar ${p.pct===100?'ok':''}"><i style="width:${p.pct}%"></i></div><span>${p.ok}/${p.total}</span></div></div></div>`; }).join('')}
+  <p class="meta">Fortschritt wird ${Store.mode()==='cookie'?'in einem Cookie':'im Browserspeicher'} auf diesem Gerät gespeichert.</p>`;
+}
+function vKurs(id){
+  const k=KURS.get(id); if(!k) return vHome(); chrome(k.titel,'#/',streakPill());
+  const p=progOf(unitsOf(k).filter(QUIZ));
+  main.innerHTML=`<h1 style="color:${k.farbe}">${esc(k.titel)}</h1><p class="lead">${esc(k.beschreibung)}</p>
+  <div class="card" style="display:grid;grid-template-columns:1fr auto;gap:14px;align-items:center"><div><b>${p.ok} von ${p.total} Fällen gelöst</b><div class="bar" style="margin-top:8px"><i style="width:${p.pct}%"></i></div></div><a class="btn primary" href="#/lernen/${(unitsOf(k).find(e=>!P.u[e.id])||unitsOf(k)[0]).id}">${p.done?'Fortsetzen':'Starten'}</a></div>
+  ${k.kapitel.map((c,i)=>{ const cp=progOf(c.einheiten.filter(QUIZ)); return `<div class="chap"><div class="h"><span class="n">${i+1}</span><span>${esc(c.titel)}</span><div class="bar ${cp.pct===100?'ok':''}"><i style="width:${cp.pct}%"></i></div><span class="meta">${cp.ok}/${cp.total}</span></div>
+    ${c.einheiten.map(e=>{ const s=st(e); const ty={fall:'Fall',mc:'Quiz',intro:'Info',schema:'Schema'}[e.typ]; return `<div class="card unit ${s}" onclick="location.hash='#/lernen/${e.id}'"><div class="ty ${e.typ}">${ty}</div><div class="t">${esc(e.titel)}${e.level?`<div class="lvl">${['','Basics','Fortgeschritten','Examen'][e.level]}</div>`:''}</div><div class="st ${s}">${s==='ok'?'✓':s==='bad'?'✗':''}</div></div>`; }).join('')}</div>`; }).join('')}`;
+}
+function vLernen(id){
+  const e=UNIT.get(id); if(!e) return vHome(); const c=CHAP.get(e.kap), k=KURS.get(e.kurs);
+  const idx=c.einheiten.indexOf(e); const next=c.einheiten[idx+1];
+  chrome(`${k.titel}`, `#/kurs/${k.id}`, `<span class="pill">${idx+1}/${c.einheiten.length}</span>`);
+  const pct=Math.round(idx/c.einheiten.length*100);
+  const refs = section('Begriffe',chips(e.concepts.map(x=>byId.get('concept:'+x))))+section('Normen',chips(e.norms.map(r=>({node:byId.get('norm:'+r.match(/§ (\d+[a-z]?)/)[1]),ref:r}))))+section('Rechtsprechung',chips(e.cases.map(x=>byId.get('case:'+x))))+(e.step?section('Im Prüfungsschema',chips([byId.get(e.step)])):'');
+  const nextBtn = next ? `<a class="btn primary block" href="#/lernen/${next.id}">Weiter →</a>` : `<a class="btn primary block" href="#/ende/${c.id}">Kapitel abschließen ✓</a>`;
+  let body='';
+  if(e.typ==='intro'){ body=`<div class="kind">Einführung</div><h1>${esc(e.titel)}</h1><div class="intro"><p>${md(e.text)}</p></div>${refs}<div class="row" id="nav" style="margin-top:20px"><button class="btn primary block" id="ok">Verstanden, weiter →</button></div>`; }
+  else if(e.typ==='schema'){ const s=byId.get('schema:'+e.schema); body=`<div class="kind">Prüfungsschema</div><h1>${esc(e.titel)}</h1>${e.text?`<p class="lead">${md(e.text)}</p>`:''}<div class="card"><div class="meta" style="margin-bottom:8px">${esc(s?s.beschreibung:'')}</div>${schemaTree('schema:'+e.schema)}</div><div class="row" style="margin-top:20px"><button class="btn primary block" id="ok">Gelesen, weiter →</button></div>`; }
+  else {
+    const lvl=['','Basics','Fortgeschritten','Examen'][e.level]||''; const prev=P.u[e.id];
+    body=`<div class="kind">${e.typ==='fall'?'Fall':'Wissensfrage'} · ${lvl}${prev?` · zuletzt ${prev.r?'richtig':'falsch'}`:''}</div><h1>${esc(e.titel)}</h1>${e.sachverhalt?`<div class="sv">${esc(e.sachverhalt)}</div>`:''}<div class="frage">${esc(e.frage)}</div>
+      <div class="answers ${e.typ==='fall'?'yn':''}" id="answers">${e.typ==='fall'?`<button class="ans" data-v="1">Ja</button><button class="ans" data-v="0">Nein</button>`:e.optionen.map((o,i)=>`<button class="ans" data-v="${i}">${esc(o)}</button>`).join('')}</div>
+      <div id="result" hidden><div id="fb"></div><div class="card"><div class="kind" style="margin-bottom:6px">Lösung</div><div class="loes">${e.loesung.map(p=>`<p>${md(p)}</p>`).join('')}</div>${e.merke?`<div class="merke"><b>Merke:</b> ${md(e.merke)}</div>`:''}${refs}</div><div class="row" style="margin-top:16px">${nextBtn}</div></div>`;
+  }
+  main.innerHTML=`<div class="bar" style="margin:4px 0 14px"><i style="width:${pct}%"></i></div>${body}`;
+  const okBtn=document.getElementById('ok'); if(okBtn) okBtn.onclick=()=>{ markSeen(e.id); location.hash = next?`#/lernen/${next.id}`:`#/ende/${c.id}`; };
+  const answers=document.getElementById('answers'); if(answers){
+    const correct = e.typ==='fall' ? (e.antwort?1:0) : e.richtig;
+    const choose = v => { const ok = v===correct; record(e.id, ok);
+      answers.querySelectorAll('.ans').forEach(b=>{ b.disabled=true; const bv=+b.dataset.v; if(bv===correct) b.classList.add('right'); else if(bv===v) b.classList.add('wrong'); });
+      document.getElementById('fb').innerHTML=`<div class="fb ${ok?'ok':'bad'}"><span class="big">${ok?'✓':'✗'}</span><span>${ok?'Richtig!':'Leider nicht. '+(e.typ==='fall'?`Richtig wäre: ${correct?'Ja':'Nein'}.`:'Die richtige Antwort ist markiert.')}</span><span style="margin-left:auto;font-weight:600">${ok?'+10 XP':'+2 XP'}</span></div>`;
+      document.getElementById('result').hidden=false; document.getElementById('result').scrollIntoView({behavior:'smooth',block:'start'}); top.querySelector('.pill').textContent=`${idx+1}/${c.einheiten.length}`; };
+    answers.querySelectorAll('.ans').forEach(b=>b.onclick=()=>choose(+b.dataset.v));
+    document.onkeydown = ev => { if(!location.hash.startsWith('#/lernen')) return; if(document.getElementById('result')&&!document.getElementById('result').hidden){ if(ev.key==='Enter'||ev.key==='ArrowRight'){ const a=document.querySelector('#result .btn'); if(a) a.click(); } return; }
+      if(e.typ==='fall'){ if(ev.key==='j'||ev.key==='J'||ev.key==='ArrowLeft') choose(1); if(ev.key==='n'||ev.key==='N'||ev.key==='ArrowRight') choose(0); } else if(/^[1-4]$/.test(ev.key)) choose(+ev.key-1); };
+  } else document.onkeydown=null;
+}
+function vEnde(cid){
+  const c=CHAP.get(cid); if(!c) return vHome(); const k=KURS.get(c.kurs); const q=c.einheiten.filter(QUIZ); const p=progOf(q); const wrong=q.filter(e=>st(e)==='bad');
+  const ki=k.kapitel.indexOf(c); const nextC=k.kapitel[ki+1]; const nk=KURSE[KURSE.indexOf(k)+1];
+  chrome(k.titel,`#/kurs/${k.id}`,streakPill());
+  main.innerHTML=`<div class="card done"><div class="kind">Kapitel abgeschlossen</div><h1>${esc(c.titel)}</h1><div class="score">${p.ok}/${p.total}</div><p class="lead">${p.ok===p.total?'Alles richtig. Stark!':wrong.length?`${wrong.length} Fall${wrong.length>1?'e':''} noch einmal ansehen.`:'Gut gemacht!'}</p>
+    ${wrong.length?`<div class="list">${wrong.map(e=>`<div class="card unit bad" onclick="location.hash='#/lernen/${e.id}'"><div class="ty ${e.typ}">${e.typ==='fall'?'Fall':'Quiz'}</div><div class="t">${esc(e.titel)}</div><div class="st bad">✗</div></div>`).join('')}</div>`:''}
+    <div class="row">${nextC?`<a class="btn primary" href="#/lernen/${nextC.einheiten[0].id}">Nächstes Kapitel →</a>`:nk?`<a class="btn primary" href="#/kurs/${nk.id}">Nächster Kurs →</a>`:`<a class="btn primary" href="#/">Zur Übersicht</a>`}<a class="btn" href="#/kurs/${k.id}">Kursübersicht</a></div></div>`;
+}
+function vWdh(){
+  chrome('Wiederholen','#/',streakPill()); const d=UNITS.filter(due); const wrong=UNITS.filter(e=>st(e)==='bad');
+  main.innerHTML=`<h1>Wiederholen</h1><p class="lead">Falsch beantwortete Fälle und solche, deren Wiederholungsintervall abgelaufen ist (1, 3, 7, 14, 30, 60 Tage nach jeder richtigen Antwort).</p>
+  <div class="stats"><div class="stat"><b>${d.length}</b><span>fällig</span></div><div class="stat"><b>${wrong.length}</b><span>falsch</span></div><div class="stat"><b>${UNITS.filter(e=>st(e)==='ok').length}</b><span>gelöst</span></div></div>
+  ${d.length?`<a class="btn primary block" href="#/lernen/${d[0].id}">Wiederholung starten</a><div class="list">${d.map(e=>`<div class="card unit ${st(e)}" onclick="location.hash='#/lernen/${e.id}'"><div class="ty ${e.typ}">${e.typ==='fall'?'Fall':'Quiz'}</div><div class="t">${esc(e.titel)}<div class="lvl">${esc(KURS.get(e.kurs).titel)}</div></div><div class="st ${st(e)}">${st(e)==='ok'?'✓':'✗'}</div></div>`).join('')}</div>`:`<div class="card">Nichts fällig. Wenn du heute weiterlernst, wächst dein Streak.</div>`}`;
+}
+function vProfil(){
+  chrome('Profil','#/'); const all=progOf(UNITS.filter(QUIZ));
+  main.innerHTML=`<h1>Dein Fortschritt</h1><div class="stats"><div class="stat"><b>${P.xp}</b><span>XP</span></div><div class="stat"><b>${P.s.cnt}</b><span>Tage Streak</span></div><div class="stat"><b>${P.s.best}</b><span>Bester Streak</span></div></div>
+  <div class="card"><b>${all.ok} von ${all.total} Fällen gelöst</b> (${all.pct}% bearbeitet)<div class="bar" style="margin-top:8px"><i style="width:${all.pct}%"></i></div></div>
+  ${KURSE.map(k=>{ const p=progOf(unitsOf(k).filter(QUIZ)); return `<div class="card course" style="--c:${k.farbe};grid-template-columns:1fr" onclick="location.hash='#/kurs/${k.id}'"><div><div class="t">${esc(k.titel)}</div><div class="m"><div class="bar ${p.pct===100?'ok':''}"><i style="width:${p.pct}%"></i></div><span>${p.ok}/${p.total} richtig · ${p.done-p.ok} falsch</span></div></div></div>`; }).join('')}
+  <h2>Speicherung</h2><div class="card"><p>Dein Fortschritt liegt ${Store.mode()==='cookie'?'in zwei Cookies (<code>mgk_p</code>, <code>mgk_m</code>, 1 Jahr gültig)':'im lokalen Browserspeicher (Cookies sind hier nicht verfügbar, etwa beim Öffnen als Datei)'} auf diesem Gerät. Es werden keine Daten an einen Server gesendet.</p><div class="row"><button class="btn ghost" id="theme">Hell/Dunkel</button><button class="btn ghost" id="reset" style="color:var(--bad)">Fortschritt löschen</button></div></div>`;
+  document.getElementById('reset').onclick=()=>{ if(confirm('Gesamten Fortschritt löschen?')){ Store.clear(); P=Store.load(); route(); } };
+  document.getElementById('theme').onclick=()=>{ const r=document.documentElement; const cur=r.dataset.theme||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light'); r.dataset.theme=cur==='dark'?'light':'dark'; try{localStorage.setItem('mgk_theme',r.dataset.theme)}catch(e){} };
+}
+function vDidaktik(){
+  chrome('Konzept','#/');
+  main.innerHTML=`<h1>So ist der Kurs gebaut</h1><p class="lead">Das Format folgt der Falldidaktik von Microlearning-Apps wie Jurafuchs, übertragen auf das Markengesetz.</p>
+  <div class="card"><h3>1. Kleinste Einheiten</h3><p>Jeder Fall behandelt genau einen Prüfungspunkt. Der Sachverhalt ist wenige Sätze lang und bildet einen echten Lebenssachverhalt ab, oft angelehnt an eine BGH- oder EuGH-Entscheidung.</p>
+  <h3>2. Frage, Antwort, sofortiges Feedback</h3><p>Du entscheidest dich (Ja/Nein oder Auswahl), bekommst sofort Richtig oder Falsch und dann die Lösung im Gutachtenstil: Definition, Subsumtion, Ergebnis. Der Merksatz fasst die Regel in einem Satz zusammen.</p>
+  <h3>3. Aufeinander aufbauend</h3><p>Jedes Kapitel beginnt mit einer Einführung oder dem Prüfungsschema, danach folgen die Fälle in der Reihenfolge der Prüfung. Die Kurse bauen aufeinander auf: Grundlagen, Schutzfähigkeit, Verletzung, Schranken, Verfahren, EU und IR.</p>
+  <h3>4. Vernetzt</h3><p>Begriffe, Normen und Entscheidungen lassen sich in jeder Lösung inline aufklappen. Sie stammen aus dem Wissensgraphen, der auch den Lernnavigator und die Karteikarten speist.</p>
+  <h3>5. Wiederholen und dranbleiben</h3><p>Falsche Antworten landen in der Wiederholung; richtige kehren nach wachsenden Intervallen zurück. Streak und Punkte machen den Fortschritt sichtbar. Der Fortschritt bleibt per Cookie auf deinem Gerät.</p>
+  <h3>Schwierigkeitsgrade</h3><p><span class="lvl">Basics</span> Grundregel und Definition · <span class="lvl">Fortgeschritten</span> Abgrenzung und Ausnahme · <span class="lvl">Examen</span> Rechtsprechungsdetail und Meinungsstand.</p>
+  <p class="meta">Tastatur im Fall: <span class="kbd">J</span>/<span class="kbd">N</span> antworten, <span class="kbd">1</span>–<span class="kbd">4</span> bei Auswahlfragen, <span class="kbd">Enter</span> weiter.</p></div>`;
+}
+function notice(){ const n=document.getElementById('notice'); if(P.ack||Store.mode()!=='cookie'){ n.hidden=true; return; } n.hidden=false; n.className='notice'; n.innerHTML=`<span>Dein Lernfortschritt wird in einem Cookie auf diesem Gerät gespeichert (kein Tracking, keine Übermittlung).</span><button class="btn primary" id="ack">Alles klar</button>`; document.getElementById('ack').onclick=()=>{ P.ack=1; Store.save(P); n.hidden=true; }; }
+try{ const t=localStorage.getItem('mgk_theme'); if(t) document.documentElement.dataset.theme=t; }catch(e){}
+route();
+})();
+</script>
+</body>
+</html>

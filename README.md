@@ -7,15 +7,27 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/index.html` | **Lernapp** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (659 Knoten, ca. 1.900 Kanten) |
+| `docs/kurse/index.html` | **Fallkurs** im Jurafuchs-Format: 10 Kurse, 125 Lerneinheiten (Fälle mit Ja/Nein, Wissensfragen, Prüfungsschemata, Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie |
+| `docs/didaktik.md` | Analyse des Jurafuchs-Formats und Kursaufbau |
+| `docs/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (820 Knoten, ca. 2.600 Kanten) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
 | `src/knowledge/` | kuratiertes Fachwissen (Begriffe, Schemata, Abgrenzungen, Entscheidungen, IPWiki-Index) |
+| `src/knowledge/kurse/` | die zehn Fallkurse (`data/kurse.json` ist der Export) |
 | `src/*.py`, `build.py` | Build-Pipeline |
 
-## Lernapp starten
+## Fallkurs starten
+
+`docs/kurse/index.html` im Browser öffnen, am besten über einen kleinen Webserver (`python3 -m http.server` im Ordner `docs`), damit der Fortschritt in Cookies gespeichert wird. Als lokale Datei geöffnet, nutzt die App automatisch den Browserspeicher.
+
+- **Kurse → Kapitel → Einheiten**: Sachverhalt, Frage, Ja/Nein oder Auswahl, sofortiges Feedback, Lösung im Gutachtenstil, Merksatz; Begriffe, Normen und Entscheidungen inline aufklappbar.
+- **Wiederholen**: falsch beantwortete Fälle und fällige Wiederholungen (Intervalle 1, 3, 7, 14, 30, 60 Tage).
+- **Profil**: Streak, Punkte, Fortschritt je Kurs, Fortschritt löschen.
+- Tastatur: `J`/`N`, `1`–`4`, `Enter`.
+
+## Lernnavigator starten
 
 `docs/index.html` im Browser öffnen. Keine Installation, keine externen Ressourcen.
 
@@ -37,7 +49,8 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 Knotentypen: `norm` (Paragraph mit Absätzen), `concept` (Definition + Erläuterung), `schema`,
 `step` (Prüfungspunkt, baumförmig), `case` (Entscheidung mit Kernaussage, Aktenzeichen, Fundstelle,
-dejure-Link), `distinction` (Vergleichstabelle), `source` (IPWiki-Artikel).
+dejure-Link), `distinction` (Vergleichstabelle), `source` (IPWiki-Artikel), `course`, `chapter`, `unit`
+(Fallkurs; Einheiten verweisen mit `trains`, `cites`, `applies`, `covers` auf Begriffe, Entscheidungen, Normen und Prüfungspunkte).
 
 Kanten: `defined_in`, `related_to`, `illustrated_by`, `documented_in`, `interprets`, `has_step`,
 `next_step`, `uses_concept`, `cites`, `applies`, `contrasts`.
@@ -53,8 +66,8 @@ drittes Feld als Tags.
 python3 build.py
 ```
 
-Die Pipeline parst `data/markeng.md`, baut den Graphen aus `src/knowledge/`, erzeugt die Karten und
-rendert die HTML-App aus `src/templates/app.html`. Inhalte werden ausschließlich in `src/knowledge/`
+Die Pipeline parst `data/markeng.md`, baut den Graphen aus `src/knowledge/` (inklusive Kursen), erzeugt die Karten und
+rendert beide Apps aus `src/templates/app.html` und `src/templates/kurs.html`. Inhalte werden ausschließlich in `src/knowledge/`
 gepflegt.
 
 ## Quellen und Hinweise

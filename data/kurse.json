@@ -1,0 +1,3263 @@
+[
+ {
+  "id": "k01",
+  "titel": "Grundlagen des Markenrechts",
+  "untertitel": "Was eine Marke ist, wie sie entsteht und was sie leistet",
+  "farbe": "#E8730C",
+  "icon": "marke",
+  "beschreibung": "Der Einstieg: Schutzgegenstände des MarkenG, Markenfunktionen, die drei Entstehungstatbestände des § 4 und das Prioritätsprinzip.",
+  "kapitel": [
+   {
+    "id": "k01a",
+    "titel": "Schutzgegenstände und Funktionen",
+    "einheiten": [
+     {
+      "id": "k01a-0",
+      "typ": "intro",
+      "titel": "Worum geht es im Markenrecht?",
+      "text": "Das MarkenG schützt drei Arten von Kennzeichen (§ 1): **Marken** (für Waren und Dienstleistungen), **geschäftliche Bezeichnungen** (Unternehmenskennzeichen und Werktitel) und **geographische Herkunftsangaben**. Alle drei sind Zeichen, die im geschäftlichen Verkehr etwas voneinander unterscheidbar machen. In diesem Kurs lernst du, was eine Marke ist, welche Funktionen sie hat und wie Markenschutz entsteht.",
+      "concepts": [
+       "marke",
+       "geschaeftliche_bezeichnung",
+       "geographische_herkunftsangabe"
+      ],
+      "norms": [
+       "§ 1",
+       "§ 2"
+      ],
+      "cases": []
+     },
+     {
+      "id": "k01a-1",
+      "typ": "fall",
+      "titel": "Das Logo auf der Limonade",
+      "sachverhalt": "Lena stellt Limonade her und druckt auf jede Flasche ein stilisiertes Zitronen-Logo mit dem Wort „ZITRA“. Kunden erkennen die Limonade im Regal daran wieder.",
+      "frage": "Ist „ZITRA“ mit dem Logo ein Zeichen, das grundsätzlich als Marke geschützt werden kann?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, in der Tat!** Als Marke können alle Zeichen geschützt werden, die geeignet sind, Waren eines Unternehmens von denen anderer Unternehmen zu unterscheiden (§ 3 Abs. 1). Wörter und Abbildungen nennt das Gesetz ausdrücklich.",
+       "Das Zeichen erfüllt hier genau die **Hauptfunktion der Marke**: Es garantiert dem Kunden, dass die Limonade aus einem bestimmten Unternehmen stammt (Herkunftsfunktion). Ob das Zeichen auch eingetragen wird, ist eine andere Frage (§ 8)."
+      ],
+      "merke": "§ 3 Abs. 1 fragt nur abstrakt: Kann ein solches Zeichen überhaupt unterscheiden? Die konkrete Unterscheidungskraft für bestimmte Waren prüft erst § 8 Abs. 2 Nr. 1.",
+      "level": 1,
+      "concepts": [
+       "marke",
+       "markenfaehigkeit",
+       "herkunftsfunktion"
+      ],
+      "norms": [
+       "§ 3 Abs. 1"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k01a-2",
+      "typ": "fall",
+      "titel": "Die Farbe des Lieferwagens",
+      "sachverhalt": "Ein Paketdienst lackiert alle Fahrzeuge in einem bestimmten Gelbton und möchte diesen Farbton ohne Form und Umriss als Marke anmelden.",
+      "frage": "Kann eine abstrakte Farbe überhaupt markenfähig sein?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** § 3 Abs. 1 nennt „sonstige Aufmachungen einschließlich Farben und Farbzusammenstellungen“. Auch eine konturlose Farbe ist markenfähig, wenn sie eindeutig bestimmt ist, etwa durch einen Farbcode (EuGH Libertel).",
+       "Etwas anderes ist die Frage, ob die Farbe für Paketdienste **unterscheidungskräftig** ist. Das bejaht die Rechtsprechung bei Farben nur ausnahmsweise; meist braucht es Verkehrsdurchsetzung (§ 8 Abs. 3). Dazu später mehr."
+      ],
+      "merke": "Markenfähigkeit (§ 3) und Unterscheidungskraft (§ 8 Abs. 2 Nr. 1) sind zwei Stufen. Farben nehmen die erste fast immer, die zweite selten.",
+      "level": 2,
+      "concepts": [
+       "farbmarke",
+       "markenfaehigkeit"
+      ],
+      "norms": [
+       "§ 3 Abs. 1"
+      ],
+      "cases": [
+       "eugh_libertel"
+      ],
+      "step": null
+     },
+     {
+      "id": "k01a-3",
+      "typ": "mc",
+      "titel": "Die Funktionen der Marke",
+      "sachverhalt": "",
+      "frage": "Welche Funktion der Marke ist nach EuGH und BGH die Hauptfunktion, an die auch der Verletzungstatbestand anknüpft?",
+      "optionen": [
+       "Die Werbefunktion",
+       "Die Herkunftsfunktion",
+       "Die Qualitätsfunktion",
+       "Die Investitionsfunktion"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Die **Herkunftsfunktion** ist die Hauptfunktion: Die Marke garantiert dem Verbraucher die Ursprungsidentität der Ware. Sie ist der Maßstab für die Unterscheidungskraft (§ 8 Abs. 2 Nr. 1) und für die markenmäßige Benutzung (§ 14 Abs. 2).",
+       "Daneben schützt der EuGH auch die Qualitäts-, Kommunikations-, Investitions- und Werbefunktion (L'Oréal/Bellure). Diese spielen vor allem bei der Doppelidentität (§ 14 Abs. 2 Nr. 1) und beim Bekanntheitsschutz (Nr. 3) eine Rolle."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "markenfunktionen",
+       "herkunftsfunktion"
+      ],
+      "norms": [],
+      "cases": [
+       "eugh_loreal_bellure",
+       "eugh_arsenal"
+      ],
+      "step": null
+     },
+     {
+      "id": "k01a-4",
+      "typ": "fall",
+      "titel": "Der Vereinsname",
+      "sachverhalt": "Der Fußballverein „FC Sonnenberg e.V.“ tritt unter diesem Namen im Geschäftsverkehr auf (Ticketverkauf, Fanartikel). Er hat keine Marke angemeldet.",
+      "frage": "Genießt der Vereinsname trotzdem Kennzeichenschutz nach dem MarkenG?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Neben Marken schützt das MarkenG **geschäftliche Bezeichnungen** (§ 1 Nr. 2, § 5). Der Name eines Vereins, der im geschäftlichen Verkehr benutzt wird, ist ein Unternehmenskennzeichen nach § 5 Abs. 2.",
+       "Der Schutz entsteht **ohne Eintragung** allein durch die Benutzungsaufnahme, wenn der Name unterscheidungskräftig ist. Verletzungen richten sich dann nach § 15, nicht nach § 14."
+      ],
+      "merke": "Marke = kennzeichnet Produkte. Unternehmenskennzeichen = kennzeichnet das Unternehmen. Beide stehen im MarkenG, haben aber eigene Normen (§§ 4/14 vs. §§ 5/15).",
+      "level": 1,
+      "concepts": [
+       "geschaeftliche_bezeichnung",
+       "unternehmenskennzeichen"
+      ],
+      "norms": [
+       "§ 1",
+       "§ 5 Abs. 2"
+      ],
+      "cases": [],
+      "step": null
+     }
+    ]
+   },
+   {
+    "id": "k01b",
+    "titel": "Entstehung des Markenschutzes und Priorität",
+    "einheiten": [
+     {
+      "id": "k01b-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Entstehung und Erlöschen",
+      "schema": "schema_entstehung",
+      "text": "Verschaffe dir zuerst einen Überblick über den Lebenszyklus einer Marke. Die folgenden Fälle gehen die Entstehungstatbestände des § 4 durch.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k01b-1",
+      "typ": "fall",
+      "titel": "Die angemeldete, noch nicht eingetragene Marke",
+      "sachverhalt": "Tom meldet am 1. März die Wortmarke „KAFFEEKUSS“ für Kaffee beim DPMA an. Am 15. März bietet Konkurrent Karl Kaffee unter „Kaffeekuss“ an. Die Eintragung erfolgt erst am 20. Mai.",
+      "frage": "Hat Tom am 15. März bereits eine Marke im Sinne des § 4 Nr. 1, aus der er gegen Karl vorgehen kann?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Markenschutz durch Eintragung entsteht erst mit der **Eintragung** in das Register (§ 4 Nr. 1). Die bloße Anmeldung begründet noch kein Ausschließlichkeitsrecht nach § 14.",
+       "Aber: Der **Zeitrang** der Marke bestimmt sich nach dem Anmeldetag (§ 6 Abs. 2, § 33 Abs. 1). Nach der Eintragung kann Tom gegen Benutzungen vorgehen, die nach dem 1. März begonnen haben. Für die Zeit davor bleibt ihm nur das UWG."
+      ],
+      "merke": "Anmeldung sichert den Zeitrang, Eintragung schafft das Recht.",
+      "level": 1,
+      "concepts": [
+       "entstehung_markenschutz",
+       "prioritaet"
+      ],
+      "norms": [
+       "§ 4",
+       "§ 6 Abs. 2",
+       "§ 33"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k01b-2",
+      "typ": "fall",
+      "titel": "Die Benutzungsmarke",
+      "sachverhalt": "Bäckerin Bea verkauft seit zwölf Jahren in ganz Deutschland Brote unter der Bezeichnung „KRUSTIS“, ohne je eine Marke angemeldet zu haben. Umfragen zeigen, dass 45 % der Brotkäufer „KRUSTIS“ einem bestimmten Unternehmen zuordnen.",
+      "frage": "Kann Bea auch ohne Eintragung Inhaberin einer Marke sein?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, in der Tat!** Markenschutz entsteht auch durch Benutzung eines Zeichens im geschäftlichen Verkehr, soweit das Zeichen innerhalb der beteiligten Verkehrskreise als Marke **Verkehrsgeltung** erworben hat (§ 4 Nr. 2).",
+       "Bei einem von Haus aus unterscheidungskräftigen Phantasiewort wie „KRUSTIS“ genügt ein Zuordnungsgrad von etwa 20 bis 25 %. Bea hat also eine Benutzungsmarke mit dem Zeitrang des Zeitpunkts, zu dem die Verkehrsgeltung eingetreten ist (§ 6 Abs. 3)."
+      ],
+      "merke": "Verkehrsgeltung (§ 4 Nr. 2) ist weniger als Verkehrsdurchsetzung (§ 8 Abs. 3): Sie schafft die Marke, statt ein Eintragungshindernis zu überwinden.",
+      "level": 2,
+      "concepts": [
+       "verkehrsgeltung",
+       "entstehung_markenschutz"
+      ],
+      "norms": [
+       "§ 4 Nr. 2",
+       "§ 6 Abs. 3"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k01b-3",
+      "typ": "fall",
+      "titel": "Die Weltmarke ohne deutsche Eintragung",
+      "sachverhalt": "Ein amerikanischer Sportartikelhersteller ist mit seinem Logo weltberühmt, hat es in Deutschland aber weder eingetragen noch je Ware nach Deutschland geliefert. Praktisch jeder Deutsche kennt das Logo.",
+      "frage": "Besteht in Deutschland dennoch Markenschutz?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** § 4 Nr. 3 gewährt Markenschutz für Zeichen, die im Inland **notorisch bekannt** im Sinne des Art. 6bis PVÜ sind. Weder Eintragung noch inländische Benutzung sind erforderlich.",
+       "Notorische Bekanntheit verlangt allerdings einen sehr hohen Bekanntheitsgrad, der über die „bekannte Marke“ des § 14 Abs. 2 Nr. 3 hinausgeht. Der Fall ist praktisch selten, in der Klausur aber beliebt."
+      ],
+      "merke": "Drei Wege zur Marke: Eintragung, Verkehrsgeltung, Notorietät (§ 4 Nr. 1 bis 3).",
+      "level": 2,
+      "concepts": [
+       "notorische_bekanntheit"
+      ],
+      "norms": [
+       "§ 4 Nr. 3",
+       "§ 10"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k01b-4",
+      "typ": "fall",
+      "titel": "Wer war zuerst?",
+      "sachverhalt": "Anna hat „SOLARO“ am 3. Januar für Sonnencreme angemeldet, die Eintragung erfolgte im Juni. Ben hat „SOLARO“ für Sonnencreme am 10. Januar angemeldet, die Eintragung erfolgte bereits im April.",
+      "frage": "Hat Ben das ältere Recht, weil seine Marke früher eingetragen wurde?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Für den Vorrang zwischen kollidierenden Rechten kommt es auf den **Zeitrang** an (§ 6 Abs. 1). Bei angemeldeten und eingetragenen Marken ist das der Anmeldetag (§ 6 Abs. 2), nicht der Tag der Eintragung.",
+       "Anna hat mit dem 3. Januar den besseren Zeitrang. Sie kann Bens Marke mit Widerspruch (§ 42) oder Nichtigkeitsantrag (§ 51) angreifen und ihm die Benutzung nach § 14 untersagen."
+      ],
+      "merke": "Prioritätsprinzip: Es zählt der Anmeldetag, nicht die Eintragung.",
+      "level": 1,
+      "concepts": [
+       "prioritaet"
+      ],
+      "norms": [
+       "§ 6"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k01b-5",
+      "typ": "mc",
+      "titel": "Schutzdauer",
+      "sachverhalt": "",
+      "frage": "Wie lange gilt der Schutz einer eingetragenen Marke und wie wird er verlängert?",
+      "optionen": [
+       "20 Jahre ab Anmeldung, nicht verlängerbar",
+       "10 Jahre ab Anmeldetag, beliebig oft um 10 Jahre verlängerbar",
+       "10 Jahre ab Eintragung, einmal verlängerbar",
+       "Unbegrenzt ohne Verlängerung"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Die Schutzdauer beträgt **zehn Jahre ab dem Anmeldetag** und kann durch Zahlung der Verlängerungsgebühr beliebig oft um jeweils zehn Jahre verlängert werden (§ 47).",
+       "Anders als Patent und Design kann eine Marke also **ewig** leben, solange sie verlängert und rechtserhaltend benutzt wird (§ 26)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "entstehung_markenschutz"
+      ],
+      "norms": [
+       "§ 47"
+      ],
+      "cases": [],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k02",
+  "titel": "Schutzfähigkeit und absolute Schutzhindernisse",
+  "untertitel": "§§ 3, 7, 8 MarkenG: Was ins Register darf",
+  "farbe": "#2F6B4F",
+  "icon": "register",
+  "beschreibung": "Markenfähigkeit, Formausschluss, Unterscheidungskraft, Freihaltebedürfnis, Bösgläubigkeit und die Verkehrsdurchsetzung als Rettungsanker.",
+  "kapitel": [
+   {
+    "id": "k02a",
+    "titel": "Markenfähigkeit und Formausschluss (§ 3)",
+    "einheiten": [
+     {
+      "id": "k02a-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Eintragungsfähigkeit",
+      "schema": "schema_eintragungsfaehigkeit",
+      "text": "Das DPMA prüft in dieser Reihenfolge. Merke dir vor allem: § 3 Abs. 2 ist nicht durch Verkehrsdurchsetzung überwindbar, § 8 Abs. 2 Nr. 1 bis 3 schon.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k02a-1",
+      "typ": "fall",
+      "titel": "Die quadratische Schokolade",
+      "sachverhalt": "Ein Schokoladenhersteller hat die quadratische Verpackungsform seiner Tafeln als dreidimensionale Marke eingetragen. Ein Konkurrent beantragt die Löschung: Die Form verleihe der Ware ihren wesentlichen Wert, außerdem sei sie durch die Art der Ware bedingt.",
+      "frage": "Greift der Formausschluss des § 3 Abs. 2 Nr. 3 (wesentlicher Wert), weil Verbraucher die praktische quadratische Form schätzen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der BGH hat die Ritter-Sport-Verpackung als Marke bestätigt (Quadratische Tafelschokoladenverpackung II). Eine Form verleiht der Ware nur dann einen wesentlichen Wert, wenn die **ästhetische Qualität der Form** die Kaufentscheidung maßgeblich bestimmt.",
+       "Dass Verbraucher die Form als Herkunftshinweis erkennen oder praktisch finden, ist kein „wesentlicher Wert“ im Sinne der Norm. Auch § 3 Abs. 2 Nr. 1 greift nicht: Schokolade muss nicht quadratisch sein.",
+       "Hintergrund des § 3 Abs. 2: Technische und ästhetische Lösungen gehören ins Patent- und Designrecht mit begrenzter Laufzeit, nicht in ein ewiges Markenmonopol."
+      ],
+      "merke": "§ 3 Abs. 2 sperrt drei Formen: warenbedingt, technisch erforderlich, wertverleihend. Keine Heilung durch Verkehrsdurchsetzung.",
+      "level": 2,
+      "concepts": [
+       "formausschluss",
+       "formmarke"
+      ],
+      "norms": [
+       "§ 3 Abs. 2"
+      ],
+      "cases": [
+       "bgh_ritter_sport"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02a-2",
+      "typ": "fall",
+      "titel": "Der Dübel mit Rippen",
+      "sachverhalt": "Ein Hersteller meldet die Form eines Bodendübels mit charakteristischen Rippen als Marke an. Die Rippen sorgen für besseren Halt im Boden. Es gäbe auch andere Formen, die denselben Halt erreichen.",
+      "frage": "Steht § 3 Abs. 2 Nr. 2 der Eintragung entgegen, obwohl alternative Formen dieselbe Wirkung erzielen könnten?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, in der Tat!** Ein Zeichen ist ausgeschlossen, wenn alle wesentlichen Merkmale der Form zur Erreichung einer **technischen Wirkung** erforderlich sind. Es genügt, dass die Merkmale eine technische Funktion erfüllen; sie müssen nicht die einzige Möglichkeit sein (BGH Bodendübel, EuGH Philips/Remington).",
+       "Wäre es anders, könnte der Anmelder mit mehreren Formmarken sämtliche Alternativen sperren und so ein zeitlich unbegrenztes Technikmonopol erhalten."
+      ],
+      "merke": "Beim technischen Formausschluss zählt nicht, ob es Alternativen gibt, sondern ob die Form technisch funktioniert.",
+      "level": 2,
+      "concepts": [
+       "formausschluss"
+      ],
+      "norms": [
+       "§ 3 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "bgh_bodenduebel",
+       "eugh_philips_remington"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02a-3",
+      "typ": "fall",
+      "titel": "Der variable Slogan",
+      "sachverhalt": "Ein Unternehmen möchte „ein Slogan, der jeweils den aktuellen Monat nennt“ als Marke schützen lassen, ohne die konkrete Wortfolge festzulegen.",
+      "frage": "Ist dieses „Zeichen“ markenfähig?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Markenfähig ist nur ein Zeichen, das als **einheitlicher Gegenstand** bestimmbar ist. Variable Marken, mit denen Schutz für eine unbestimmte Zahl unterschiedlicher Erscheinungsformen beansprucht wird, fehlt bereits die Markenfähigkeit nach § 3 Abs. 1.",
+       "Zusätzlich fehlt die Darstellbarkeit im Register (§ 8 Abs. 1): Behörden und Publikum müssen den Schutzgegenstand klar und eindeutig bestimmen können."
+      ],
+      "merke": "Ein Zeichen, kein Konzept: Das Register schützt nur konkret bestimmte Zeichen.",
+      "level": 1,
+      "concepts": [
+       "markenfaehigkeit",
+       "darstellbarkeit"
+      ],
+      "norms": [
+       "§ 3 Abs. 1",
+       "§ 8 Abs. 1"
+      ],
+      "cases": [],
+      "step": null
+     }
+    ]
+   },
+   {
+    "id": "k02b",
+    "titel": "Unterscheidungskraft (§ 8 Abs. 2 Nr. 1)",
+    "einheiten": [
+     {
+      "id": "k02b-0",
+      "typ": "intro",
+      "titel": "Was Unterscheidungskraft bedeutet",
+      "text": "Unterscheidungskraft ist die **konkrete** Eignung eines Zeichens, vom Verkehr als Herkunftshinweis für die beanspruchten Waren verstanden zu werden. Der Maßstab ist großzügig: **Jede noch so geringe** Unterscheidungskraft genügt. Sie fehlt bei beschreibenden Angaben, bei gebräuchlichen Wörtern, die immer nur als solche verstanden werden, und bei reinen Werbeaussagen. Maßgeblich ist der Durchschnittsverbraucher im Anmeldezeitpunkt, und zwar für jede Ware gesondert.",
+      "concepts": [
+       "unterscheidungskraft",
+       "durchschnittsverbraucher"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 1"
+      ],
+      "cases": []
+     },
+     {
+      "id": "k02b-1",
+      "typ": "fall",
+      "titel": "„marktfrisch“ für Lebensmittel",
+      "sachverhalt": "Ein Lebensmittelhändler meldet „marktfrisch“ für Obst, Gemüse und Fleisch an.",
+      "frage": "Fehlt dem Zeichen für diese Waren die Unterscheidungskraft?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein Wort mit einem für die Waren **im Vordergrund stehenden beschreibenden Begriffsinhalt** hat keine Unterscheidungskraft. „marktfrisch“ beschreibt die Beschaffenheit der Lebensmittel; der Verkehr sieht darin eine Qualitätsangabe, keinen Herkunftshinweis (BGH marktfrisch).",
+       "Zugleich besteht ein Freihaltebedürfnis nach § 8 Abs. 2 Nr. 2, weil Mitbewerber die Angabe ebenfalls brauchen. Beide Hindernisse sind gesondert zu prüfen, überschneiden sich aber häufig."
+      ],
+      "merke": "Beschreibend für die konkrete Ware = keine Unterscheidungskraft. Immer wareweise prüfen!",
+      "level": 1,
+      "concepts": [
+       "unterscheidungskraft",
+       "freihaltebeduerfnis"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "bgh_marktfrisch"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02b-2",
+      "typ": "fall",
+      "titel": "„HOT“ für Ketchup und Massageöl",
+      "sachverhalt": "„HOT“ wird für Ketchup, Reinigungsmittel, Massageöle und Bekleidung angemeldet. Der Anmelder argumentiert: Das Wort sei mehrdeutig (heiß, scharf, angesagt) und deshalb unterscheidungskräftig.",
+      "frage": "Rettet die Mehrdeutigkeit die Unterscheidungskraft?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Es genügt, dass das Zeichen **in einer seiner möglichen Bedeutungen** ein Merkmal der Waren beschreibt (BGH HOT). Für Ketchup beschreibt „hot“ die Schärfe, für Massageöl die wärmende Wirkung, für Bekleidung liegt eine bloße Anpreisung („angesagt“) nahe.",
+       "Mehrdeutigkeit begründet nur dann Unterscheidungskraft, wenn keine der naheliegenden Bedeutungen beschreibend ist und der Verkehr zum Nachdenken angeregt wird."
+      ],
+      "merke": "Eine beschreibende Bedeutung reicht. Mehrdeutigkeit hilft nur, wenn keine Deutung beschreibt.",
+      "level": 2,
+      "concepts": [
+       "unterscheidungskraft"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 1",
+       "§ 8 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "bgh_hot"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02b-3",
+      "typ": "fall",
+      "titel": "„for you“ für Nahrungsergänzung",
+      "sachverhalt": "Ein Hersteller meldet die Wortfolge „for you“ für Nahrungsergänzungsmittel und Kosmetik an.",
+      "frage": "Ist „for you“ unterscheidungskräftig, weil es die Waren nicht beschreibt?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Unterscheidungskraft fehlt auch Zeichen, die der Verkehr nur als **werbliche Anpreisung** versteht. „for you“ („für dich“) ist eine allgemeine Kundenansprache ohne Herkunftshinweis (BGH for you).",
+       "Anders liegt es bei Wortfolgen, die originell, mehrdeutig oder interpretationsbedürftig sind (EuGH Vorsprung durch Technik) oder bei denen kein Werbebezug erkennbar ist (BGH OUI für Bekleidung)."
+      ],
+      "merke": "Nicht beschreibend heißt nicht automatisch unterscheidungskräftig: Reine Werbeslogans fallen auch durch.",
+      "level": 2,
+      "concepts": [
+       "unterscheidungskraft"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "bgh_for_you",
+       "bgh_oui",
+       "bgh_link_economy"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02b-4",
+      "typ": "fall",
+      "titel": "„#darferdas?“ auf T-Shirts",
+      "sachverhalt": "Das Zeichen „#darferdas?“ wird für Bekleidung angemeldet. Auf der Vorderseite eines T-Shirts würde es als Spruch wahrgenommen; im Einnähetikett dagegen als Marke. Beide Verwendungen sind in der Modebranche üblich.",
+      "frage": "Darf das DPMA die Unterscheidungskraft allein nach der wahrscheinlichsten Verwendung (Aufdruck vorn) beurteilen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Bei der Prüfung sind **alle praktisch bedeutsamen Verwendungsarten** in der Branche zu berücksichtigen. Nur wenn eine einzige Verwendungsart praktisch bedeutsam ist, darf die Prüfung darauf beschränkt werden (EuGH #darferdas?, BGH #darferdas? II).",
+       "Da in der Bekleidungsbranche auch die Kennzeichnung im Etikett praktisch bedeutsam ist und der Verkehr das Zeichen dort als Herkunftshinweis versteht, kann die Eintragung nicht schlechthin versagt werden."
+      ],
+      "merke": "Verwendungsformen: alle praktisch bedeutsamen, nicht nur die wahrscheinlichste.",
+      "level": 3,
+      "concepts": [
+       "verwendungsformen",
+       "unterscheidungskraft"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "eugh_darferdas",
+       "bgh_darferdas_ii",
+       "bgh_marlene_dietrich_ii"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02b-5",
+      "typ": "fall",
+      "titel": "„Pippi Langstrumpf“ für ein Hotel",
+      "sachverhalt": "Ein Hotelbetreiber meldet „Pippi Langstrumpf“ für Beherbergungsdienstleistungen an. Das DPMA meint, der Verkehr denke sofort an die Romanfigur und ein kindgerechtes Hotel; das Zeichen sei daher beschreibend.",
+      "frage": "Fehlt „Pippi Langstrumpf“ für Hotels die Unterscheidungskraft?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Name einer fiktiven Figur beschreibt Beherbergungsdienstleistungen nicht. Assoziationen, die der Verkehr von der Figur auf das Hotel überträgt, erzeugen allenfalls eine **beschreibende Konnotation**, nehmen dem Zeichen aber nicht die Eignung als Herkunftshinweis (BGH Pippi-Langstrumpf-Marke).",
+       "Anders wäre es nur bei einem engen beschreibenden Bezug, etwa „Pippi Langstrumpf“ für Kinderbücher über genau diese Figur."
+      ],
+      "merke": "„Sprechende“ Marken sind erlaubt: Ein Anklang an die Ware schadet nicht, nur ein enger beschreibender Bezug.",
+      "level": 2,
+      "concepts": [
+       "unterscheidungskraft"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "bgh_pippi_langstrumpf"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02b-6",
+      "typ": "fall",
+      "titel": "Die Pralinenkugel",
+      "sachverhalt": "Ein Hersteller meldet die Form einer runden, mit Nusssplittern besetzten Praline in goldener Folie als 3D-Marke für Pralinen an.",
+      "frage": "Hat die Form originäre Unterscheidungskraft, weil sie hübsch und aufwendig ist?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Verkehr schließt aus der Form einer Ware gewöhnlich nicht auf ihre Herkunft, sondern sieht darin die Ware selbst. Originäre Unterscheidungskraft hat eine Warenform nur, wenn sie **erheblich von der Norm oder Branchenüblichkeit** abweicht (BGH ROCHER-Kugel).",
+       "Eine runde, nussbesetzte Praline in Folie bewegt sich im Rahmen des Üblichen. Der Weg ins Register führt hier nur über Verkehrsdurchsetzung (§ 8 Abs. 3), für die der BGH mindestens 50 % Zuordnung verlangt."
+      ],
+      "merke": "Warenformen: Unterscheidungskraft nur bei erheblicher Abweichung vom Branchenüblichen.",
+      "level": 2,
+      "concepts": [
+       "formmarke",
+       "unterscheidungskraft",
+       "verkehrsdurchsetzung"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 1",
+       "§ 8 Abs. 3"
+      ],
+      "cases": [
+       "bgh_rocher_kugel"
+      ],
+      "step": null
+     }
+    ]
+   },
+   {
+    "id": "k02c",
+    "titel": "Freihaltebedürfnis, Bösgläubigkeit, Verkehrsdurchsetzung",
+    "einheiten": [
+     {
+      "id": "k02c-1",
+      "typ": "fall",
+      "titel": "„Black Friday“ für Elektronik",
+      "sachverhalt": "„Black Friday“ wurde 2013 als Wortmarke für Elektronikwaren und Werbedienstleistungen eingetragen. Damals war der Begriff in Deutschland noch wenig verbreitet. Ein Händler beantragt die Löschung wegen Freihaltebedürfnisses.",
+      "frage": "Kann ein Freihaltebedürfnis nach § 8 Abs. 2 Nr. 2 bestehen, obwohl die Angabe im Anmeldezeitpunkt noch kaum beschreibend verwendet wurde?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** § 8 Abs. 2 Nr. 2 erfasst Angaben, die zur Beschreibung von Merkmalen der Waren **dienen können**. Es genügt, dass im Anmeldezeitpunkt vernünftigerweise zu erwarten war, dass die Angabe künftig beschreibend verwendet wird (BGH Black Friday, EuGH Chiemsee).",
+       "„Black Friday“ bezeichnet den Zeitpunkt von Rabattaktionen und damit ein Merkmal von Werbedienstleistungen und Elektronikangeboten. Die Marke wurde insoweit gelöscht."
+      ],
+      "merke": "Freihaltebedürfnis auch für die Zukunft: „dienen können“, nicht „schon dienen“.",
+      "level": 2,
+      "concepts": [
+       "freihaltebeduerfnis",
+       "nichtigkeit"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 2",
+       "§ 50"
+      ],
+      "cases": [
+       "bgh_black_friday",
+       "eugh_chiemsee"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02c-2",
+      "typ": "mc",
+      "titel": "Nr. 1 oder Nr. 2?",
+      "sachverhalt": "",
+      "frage": "Was ist der eigentliche Schutzzweck des § 8 Abs. 2 Nr. 2 (Freihaltebedürfnis) im Unterschied zu Nr. 1?",
+      "optionen": [
+       "Verbraucherschutz vor Irreführung",
+       "Das Allgemeininteresse der Mitbewerber an der freien Verwendbarkeit beschreibender Angaben",
+       "Der Schutz der Herkunftsfunktion",
+       "Die Vermeidung von Doppeleintragungen"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Nr. 2 schützt das **Allgemeininteresse der Mitbewerber**: Angaben über Art, Beschaffenheit, Menge, Bestimmung, Herkunft oder Zeit dürfen nicht monopolisiert werden. Nr. 1 schützt dagegen die Herkunftsfunktion aus Sicht des Verbrauchers.",
+       "Praktisch fehlt jeder nach Nr. 2 beschreibenden Angabe auch die Unterscheidungskraft nach Nr. 1; umgekehrt gilt das nicht (Beispiel „for you“: nicht beschreibend, aber trotzdem ohne Unterscheidungskraft)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "freihaltebeduerfnis",
+       "unterscheidungskraft"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 2"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k02c-3",
+      "typ": "fall",
+      "titel": "Die Sperrmarke",
+      "sachverhalt": "Max erfährt, dass ein Start-up unter „NEBULA“ eine Software vertreibt, aber die Marke nicht angemeldet hat. Er meldet „NEBULA“ für Software an, ohne sie selbst benutzen zu wollen, und fordert vom Start-up 50.000 Euro für die Übertragung.",
+      "frage": "Kann die Marke wegen Bösgläubigkeit gelöscht werden?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, in der Tat!** Bösgläubig handelt, wer ein Zeichen in Kenntnis eines **schutzwürdigen Besitzstands** eines Vorbenutzers ohne sachlichen Grund für gleiche Waren anmeldet, um diesen Besitzstand zu stören oder die Benutzung zu sperren (BGH EROS, GLÜCKSPILZ).",
+       "Die Absicht, die Marke nur als Druckmittel einzusetzen (Hinterhalts- oder Sperrmarke), zeigt, dass Max sie nicht zur Förderung des eigenen Absatzes will. Rechtsfolge: Nichtigkeit nach § 50 i.V.m. § 8 Abs. 2 Nr. 14.",
+       "Die bloße Kenntnis von der Vorbenutzung genügt allerdings nicht; hinzukommen müssen besondere Umstände wie hier die Behinderungsabsicht (BGH Ivadal)."
+      ],
+      "merke": "Bösgläubigkeit = Anmeldung als Waffe statt als Kennzeichen. Maßgeblicher Zeitpunkt: die Anmeldung.",
+      "level": 2,
+      "concepts": [
+       "boesglaeubigkeit"
+      ],
+      "norms": [
+       "§ 8 Abs. 2 Nr. 14",
+       "§ 50"
+      ],
+      "cases": [
+       "bgh_eros",
+       "bgh_glueckspilz",
+       "bgh_ivadal"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02c-4",
+      "typ": "fall",
+      "titel": "Das Gelb der Wörterbücher",
+      "sachverhalt": "Ein Verlag benutzt seit Jahrzehnten einen bestimmten Gelbton für zweisprachige Wörterbücher, stets zusammen mit seinem Namen. Eine Umfrage ergibt, dass 66 % der Befragten die Farbe dem Verlag zuordnen.",
+      "frage": "Kann die abstrakte Farbmarke Gelb trotz fehlender originärer Unterscheidungskraft eingetragen werden?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Nach § 8 Abs. 3 stehen die Hindernisse der Nr. 1 bis 3 nicht entgegen, wenn sich die Marke infolge ihrer Benutzung **in den beteiligten Verkehrskreisen durchgesetzt** hat. Für Farbmarken verlangt der BGH regelmäßig einen Zuordnungsgrad von über 50 % (Langenscheidt-Gelb, Nivea-Blau).",
+       "Dass die Farbe immer zusammen mit dem Verlagsnamen benutzt wurde, schadet nicht, solange der Verkehr die Farbe selbst als Herkunftshinweis versteht."
+      ],
+      "merke": "Verkehrsdurchsetzung heilt Nr. 1 bis 3, nicht aber § 3 Abs. 2 oder Nr. 4 ff. Richtwert: über 50 %.",
+      "level": 2,
+      "concepts": [
+       "verkehrsdurchsetzung",
+       "farbmarke"
+      ],
+      "norms": [
+       "§ 8 Abs. 3"
+      ],
+      "cases": [
+       "bgh_langenscheidt_gelb",
+       "bgh_nivea_blau"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02c-5",
+      "typ": "fall",
+      "titel": "Die Marke „test“",
+      "sachverhalt": "Eine Verbraucherorganisation hat „test“ als Wort-Bild-Marke für Testzeitschriften eingetragen. Im Löschungsverfahren ergibt eine Umfrage einen Zuordnungsgrad von 43 %.",
+      "frage": "Reicht das für die Verkehrsdurchsetzung einer glatt beschreibenden Angabe aus?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** „test“ beschreibt den Inhalt einer Testzeitschrift. Für die Verkehrsdurchsetzung ist ein Zuordnungsgrad von 43 % regelmäßig **nicht ausreichend** (BGH test). Bei glatt beschreibenden Angaben verlangt der BGH sogar eine deutlich über 50 % liegende Quote.",
+       "Maßgeblicher Zeitpunkt ist der Anmeldetag; im Löschungsverfahren muss die Durchsetzung zudem noch im Entscheidungszeitpunkt fortbestehen (§ 50 Abs. 2)."
+      ],
+      "merke": "Je beschreibender das Zeichen, desto höher die nötige Durchsetzungsquote.",
+      "level": 2,
+      "concepts": [
+       "verkehrsdurchsetzung"
+      ],
+      "norms": [
+       "§ 8 Abs. 3",
+       "§ 50 Abs. 2"
+      ],
+      "cases": [
+       "bgh_test",
+       "bgh_kinder_ii"
+      ],
+      "step": null
+     },
+     {
+      "id": "k02c-6",
+      "typ": "mc",
+      "titel": "Wer trägt die Feststellungslast im Löschungsverfahren?",
+      "sachverhalt": "",
+      "frage": "Ein Dritter beantragt die Löschung der eingetragenen Marke „smartbook“ wegen fehlender Unterscheidungskraft. Ob das Zeichen im Anmeldezeitpunkt beschreibend war, lässt sich nicht sicher klären. Was gilt?",
+      "optionen": [
+       "Die Marke wird gelöscht, weil der Inhaber die Schutzfähigkeit beweisen muss",
+       "Die Marke bleibt bestehen, weil der Antragsteller die Feststellungslast für das Schutzhindernis trägt",
+       "Das DPMA entscheidet nach freiem Ermessen",
+       "Die Marke wird zur Hälfte gelöscht"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Im Nichtigkeitsverfahren nach § 50 trägt der **Antragsteller die Feststellungslast** für das Vorliegen des Schutzhindernisses im Anmeldezeitpunkt. Verbleibende Zweifel gehen zu seinen Lasten (BGH smartbook, Sparkassen-Rot).",
+       "Die eingetragene Marke genießt also einen Bestandsschutz: Was einmal im Register steht, wird nur bei feststellbarem Mangel gelöscht."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "nichtigkeit",
+       "absolute_schutzhindernisse"
+      ],
+      "norms": [
+       "§ 50"
+      ],
+      "cases": [
+       "bgh_smartbook",
+       "bgh_sparkassen_rot"
+      ],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k03",
+  "titel": "Markenverletzung I: Aufbau und markenmäßige Benutzung",
+  "untertitel": "§ 14 Abs. 2 MarkenG: Der Verletzungstatbestand",
+  "farbe": "#8A2F1F",
+  "icon": "verletzung",
+  "beschreibung": "Das zentrale Klausurschema: Aktivlegitimation, geschäftlicher Verkehr, markenmäßige Benutzung, Doppelidentität und die Sonderfälle Keyword-Advertising und Modellbezeichnung.",
+  "kapitel": [
+   {
+    "id": "k03a",
+    "titel": "Der Aufbau des Verletzungstatbestands",
+    "einheiten": [
+     {
+      "id": "k03a-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Unterlassungsanspruch aus § 14",
+      "schema": "schema_markenverletzung",
+      "text": "Dieses Schema begleitet dich durch die Kurse 3 bis 6. Präge dir die Reihenfolge ein: Marke, Verletzungshandlung, Schranken, Rechtsfolge.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k03a-1",
+      "typ": "fall",
+      "titel": "Der private Flohmarktverkauf",
+      "sachverhalt": "Studentin Sara verkauft auf einem Flohmarkt ihre alte, echte Designerjacke und drei selbstgenähte Taschen, auf die sie zum Spaß das Logo eines Luxuslabels gestickt hat.",
+      "frage": "Handelt Sara mit den Taschen im geschäftlichen Verkehr?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine Benutzung im geschäftlichen Verkehr liegt vor, wenn sie im Zusammenhang mit einer auf wirtschaftlichen Vorteil gerichteten Tätigkeit erfolgt und nicht rein privat ist. Ein gelegentlicher Verkauf privater Gegenstände auf dem Flohmarkt ist **Privatbereich**.",
+       "Anders wäre es, wenn Sara regelmäßig, in größerem Umfang oder mit Neuware handelt. An das Merkmal werden zwar keine hohen Anforderungen gestellt, der rein private Bereich bleibt aber frei. Auch die Strafbarkeit nach § 143 setzt geschäftlichen Verkehr voraus."
+      ],
+      "merke": "Kein geschäftlicher Verkehr, keine Markenverletzung. Indizien für Geschäftlichkeit: Häufigkeit, Umfang, Neuware, Gewerbeanmeldung.",
+      "level": 1,
+      "concepts": [
+       "geschaeftlicher_verkehr"
+      ],
+      "norms": [
+       "§ 14 Abs. 2"
+      ],
+      "cases": [],
+      "step": "step:schema_markenverletzung.3.1"
+     },
+     {
+      "id": "k03a-2",
+      "typ": "fall",
+      "titel": "Der Lizenznehmer klagt",
+      "sachverhalt": "Die Firma Nova ist Inhaberin der Marke „NOVA“. Sie hat der Firma Lux eine einfache Lizenz erteilt. Lux entdeckt Plagiate und will sofort selbst klagen. Nova antwortet nicht auf Lux' Anfrage.",
+      "frage": "Kann Lux als einfache Lizenznehmerin ohne Zustimmung von Nova Klage erheben?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Lizenznehmer kann Klage wegen Verletzung der Marke **nur mit Zustimmung des Inhabers** erheben (§ 30 Abs. 3 S. 1). Eine Ausnahme gilt nur für den **ausschließlichen** Lizenznehmer: Er darf klagen, wenn der Inhaber nach förmlicher Aufforderung nicht innerhalb angemessener Frist selbst klagt (§ 30 Abs. 3 S. 2).",
+       "Lux kann aber einer Klage von Nova beitreten, um eigenen Schaden geltend zu machen (§ 30 Abs. 4)."
+      ],
+      "merke": "Aktivlegitimation: Inhaber (§ 28 Vermutung), Lizenznehmer nur mit Zustimmung, ausschließlicher Lizenznehmer nach Aufforderung.",
+      "level": 2,
+      "concepts": [
+       "aktivlegitimation",
+       "lizenz"
+      ],
+      "norms": [
+       "§ 30 Abs. 3",
+       "§ 28"
+      ],
+      "cases": [],
+      "step": "step:schema_markenverletzung.2.2"
+     },
+     {
+      "id": "k03a-3",
+      "typ": "fall",
+      "titel": "Die Bindung an die Eintragung",
+      "sachverhalt": "Der Inhaber der eingetragenen Marke „SUPERSOFT“ für Toilettenpapier klagt gegen einen Konkurrenten. Dieser wendet ein, „supersoft“ sei glatt beschreibend und hätte nie eingetragen werden dürfen.",
+      "frage": "Darf das Verletzungsgericht die Klage abweisen, weil die Marke nicht schutzfähig ist?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Das Verletzungsgericht ist an die **Eintragung gebunden**. Absolute Schutzhindernisse prüft es nicht; dafür ist das Nichtigkeitsverfahren vor dem DPMA zuständig (§§ 50, 53).",
+       "Der Beklagte kann einen Löschungsantrag stellen und die Aussetzung des Verletzungsprozesses anregen (§ 148 ZPO). Außerdem kann er sich auf § 23 Abs. 1 Nr. 2 berufen, wenn er „supersoft“ nur beschreibend benutzt. Die geringe Kennzeichnungskraft fließt zudem in die Verwechslungsgefahr ein."
+      ],
+      "merke": "Bindung an die Eintragung: Schutzfähigkeit wird im Register geklärt, nicht im Verletzungsprozess.",
+      "level": 2,
+      "concepts": [
+       "entstehung_markenschutz",
+       "nichtigkeit",
+       "schranke_23"
+      ],
+      "norms": [
+       "§ 4 Nr. 1",
+       "§ 50"
+      ],
+      "cases": [
+       "bgh_langenscheidt_gelb",
+       "bgh_sparkassen_rot"
+      ],
+      "step": "step:schema_markenverletzung.2.1"
+     }
+    ]
+   },
+   {
+    "id": "k03b",
+    "titel": "Markenmäßige Benutzung",
+    "einheiten": [
+     {
+      "id": "k03b-0",
+      "typ": "intro",
+      "titel": "Das ungeschriebene Tatbestandsmerkmal",
+      "text": "§ 14 Abs. 2 verbietet nicht jede Verwendung eines fremden Zeichens. Erforderlich ist eine **markenmäßige Benutzung**: Das Zeichen muss so benutzt werden, dass es die Funktionen der Marke, vor allem die Herkunftsfunktion, beeinträchtigt oder beeinträchtigen kann. Der Verkehr muss das Zeichen also als Hinweis auf die betriebliche Herkunft der Ware verstehen. Rein beschreibende, dekorative oder firmenmäßige Verwendungen scheiden aus. Die folgenden Fälle zeigen die Grenzlinie.",
+      "concepts": [
+       "markenmaessige_benutzung",
+       "herkunftsfunktion"
+      ],
+      "norms": [
+       "§ 14 Abs. 2"
+      ],
+      "cases": []
+     },
+     {
+      "id": "k03b-1",
+      "typ": "fall",
+      "titel": "Der Modellbausatz",
+      "sachverhalt": "Ein Spielzeughersteller vertreibt originalgetreue Modellautos, auf deren Kühlergrill das eingetragene Logo des Autoherstellers (auch für Spielzeug eingetragen) abgebildet ist.",
+      "frage": "Verletzt die Abbildung des Logos die Spielzeugmarke des Autoherstellers?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Verkehr versteht das Logo auf dem Modellauto nur als **originalgetreue Nachbildung** des Vorbilds, nicht als Hinweis auf die Herkunft des Spielzeugs (BGH Opel-Blitz II, EuGH Adam Opel).",
+       "Die Herkunftsfunktion der für Spielzeug eingetragenen Marke wird also nicht beeinträchtigt; es fehlt an der markenmäßigen Benutzung."
+      ],
+      "merke": "Abbildung als Teil der Wirklichkeit ist kein Herkunftshinweis.",
+      "level": 2,
+      "concepts": [
+       "markenmaessige_benutzung",
+       "herkunftsfunktion"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "bgh_opel_blitz_ii",
+       "eugh_adam_opel"
+      ],
+      "step": "step:schema_markenverletzung.3.4"
+     },
+     {
+      "id": "k03b-2",
+      "typ": "fall",
+      "titel": "Der Frühstücks-Drink",
+      "sachverhalt": "Ein Molkereiunternehmen ist Inhaber der Marke „FRÜHSTÜCKS-DRINK“. Ein Konkurrent bewirbt sein Joghurtgetränk mit dem Text „der ideale Frühstücks-Drink für die ganze Familie“, unter seiner eigenen, deutlich hervorgehobenen Marke.",
+      "frage": "Benutzt der Konkurrent „Frühstücks-Drink“ markenmäßig?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine markenmäßige Benutzung setzt voraus, dass das Zeichen im Rahmen des Produktabsatzes jedenfalls auch der **Unterscheidung der Waren** eines Unternehmens von denen anderer dient. Hier wird der Begriff rein **beschreibend** als Produktbezeichnung im Fließtext verwendet (BGH FRÜHSTÜCKS-DRINK II).",
+       "Der Verkehr entnimmt der Wendung keine Herkunftsangabe; die eigene Marke des Konkurrenten steht im Vordergrund. Es fehlt bereits am Tatbestand, § 23 muss gar nicht mehr geprüft werden."
+      ],
+      "merke": "Beschreibend im Fließtext = keine markenmäßige Benutzung.",
+      "level": 1,
+      "concepts": [
+       "markenmaessige_benutzung"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "bgh_fruehstuecks_drink_ii"
+      ],
+      "step": "step:schema_markenverletzung.3.4"
+     },
+     {
+      "id": "k03b-3",
+      "typ": "fall",
+      "titel": "Die Hose „Sam“",
+      "sachverhalt": "Ein Online-Händler bietet Hosen an. Im Fließtext des Angebots steht klein „Modell: Sam“, während die Herstellermarke groß in der Überschrift erscheint. „SAM“ ist als Wortmarke für Bekleidung eingetragen, aber nicht bekannt.",
+      "frage": "Liegt in der Nennung „Modell: Sam“ eine markenmäßige Benutzung?",
+      "antwort": false,
+      "loesung": [
+       "**Nein, jedenfalls nicht ohne weiteres!** Ob eine Modellbezeichnung als Herkunftshinweis verstanden wird, hängt von den **Kennzeichnungsgewohnheiten der Branche** und der konkreten Präsentation ab (BGH SAM).",
+       "Bei einer unauffälligen Nennung nur im Bestelltext eines Online-Angebots, ohne Bekanntheit der Marke und mit prominenter Herstellermarke, sieht der Verkehr im Vornamen nur eine Bestellhilfe. Anders bei Anbringung auf der Ware oder dem Etikett: Dort liegt regelmäßig ein Herkunftshinweis vor."
+      ],
+      "merke": "Modellbezeichnungen: Etikett und Ware sprechen für Herkunftshinweis, versteckter Bestelltext dagegen.",
+      "level": 3,
+      "concepts": [
+       "markenmaessige_benutzung"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "bgh_sam",
+       "bgh_damen_hose_mo"
+      ],
+      "step": "step:schema_markenverletzung.3.4"
+     },
+     {
+      "id": "k03b-4",
+      "typ": "fall",
+      "titel": "Die Damen-Hose „MO“",
+      "sachverhalt": "Ein Händler überschreibt sein Angebot mit „Bench Damen Hose MO“. „MO“ ist als Marke für Bekleidung eingetragen. Der Händler meint, wegen der bekannten Herstellermarke „Bench“ könne „MO“ kein Herkunftshinweis sein.",
+      "frage": "Schließt die bekannte Herstellermarke aus, dass „MO“ markenmäßig benutzt wird?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Verkehr ist in der Modebranche an **Zweitmarken** neben der Herstellermarke gewöhnt. Erscheint die Modellbezeichnung in der Angebotsüberschrift neben der Herstellermarke, kann sie als eigenständiger Herkunftshinweis verstanden werden (BGH Damen Hose MO).",
+       "Entscheidend ist die Gesamtgestaltung: Position, Größe und Nähe zur Herstellermarke. Das OLG bejahte im Anschluss die markenmäßige Benutzung."
+      ],
+      "merke": "Eine bekannte Herstellermarke schließt eine markenmäßig benutzte Zweitmarke nicht aus.",
+      "level": 3,
+      "concepts": [
+       "markenmaessige_benutzung"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "bgh_damen_hose_mo"
+      ],
+      "step": null
+     },
+     {
+      "id": "k03b-5",
+      "typ": "fall",
+      "titel": "Der Firmenname auf der Rechnung",
+      "sachverhalt": "Die „Céline GmbH“ verkauft Bekleidung und verwendet ihren Firmennamen nur auf Rechnungen, dem Ladenschild und im Impressum, nie auf der Ware. Inhaberin der Bekleidungsmarke „CÉLINE“ ist ein anderes Unternehmen.",
+      "frage": "Ist die bloße Verwendung als Firmenname eine Benutzung „für Waren“ im Sinne des § 14 Abs. 2?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Benutzung einer Firma dient der Bezeichnung des Unternehmens, nicht der Unterscheidung von Waren. Sie ist nur dann eine Benutzung „für Waren“, wenn das Zeichen so verwendet wird, dass der Verkehr eine **Verbindung zwischen Firma und Ware** herstellt, etwa durch Anbringung auf der Ware oder in der Produktwerbung (EuGH Céline).",
+       "Gegen rein firmenmäßigen Gebrauch schützt § 15, wenn der Kläger ein Unternehmenskennzeichen hat, sowie das UWG. Seit dem MaMoG stellt § 14 Abs. 3 Nr. 5 klar, dass die Verwendung als Handelsname eine Verletzungshandlung sein kann, sofern sie „für Waren“ erfolgt."
+      ],
+      "merke": "Firma ≠ Marke. Firmenmäßiger Gebrauch verletzt § 14 nur mit Warenbezug.",
+      "level": 2,
+      "concepts": [
+       "firmenmaessiger_gebrauch",
+       "markenmaessige_benutzung"
+      ],
+      "norms": [
+       "§ 14 Abs. 3 Nr. 5",
+       "§ 15"
+      ],
+      "cases": [
+       "eugh_celine"
+      ],
+      "step": null
+     }
+    ]
+   },
+   {
+    "id": "k03c",
+    "titel": "Doppelidentität und Keyword-Advertising",
+    "einheiten": [
+     {
+      "id": "k03c-1",
+      "typ": "fall",
+      "titel": "Die Fälschung",
+      "sachverhalt": "Ein Händler verkauft Sneaker mit dem identischen Logo eines Sportartikelherstellers. Die Schuhe sind Fälschungen, allerdings von so guter Qualität, dass Kunden keinen Unterschied bemerken.",
+      "frage": "Muss der Markeninhaber eine Verwechslungsgefahr nachweisen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Bei Identität des Zeichens und Identität der Waren gilt der **absolute Schutz** des § 14 Abs. 2 Nr. 1 (Doppelidentität). Eine Verwechslungsgefahr muss nicht festgestellt werden.",
+       "Erforderlich bleibt eine Beeinträchtigung einer Markenfunktion; bei Fälschungen ist die Herkunftsfunktion offensichtlich betroffen. Nach dem EuGH genügt bei Nr. 1 die Beeinträchtigung jeder Funktion, auch der Werbe- oder Investitionsfunktion (L'Oréal/Bellure)."
+      ],
+      "merke": "Identisch + identisch = Nr. 1. Keine Verwechslungsprüfung, aber Funktionsbeeinträchtigung.",
+      "level": 1,
+      "concepts": [
+       "doppelidentitaet",
+       "markenfunktionen"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "eugh_loreal_bellure"
+      ],
+      "step": "step:schema_markenverletzung.3.5.1"
+     },
+     {
+      "id": "k03c-2",
+      "typ": "fall",
+      "titel": "Die AdWords-Anzeige",
+      "sachverhalt": "Ein Erotikversand bucht die fremde Marke „bananabay“ als Keyword. Bei Google erscheint seine Anzeige im deutlich abgesetzten Anzeigenblock; sie enthält weder das Wort „bananabay“ noch einen Hinweis auf den Markeninhaber, und die Domain lautet „eis.de“.",
+      "frage": "Verletzt die Keyword-Buchung die Marke „bananabay“?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Das Keyword wird zwar im geschäftlichen Verkehr für Waren benutzt (EuGH Google France). Die **Herkunftsfunktion** ist aber nur beeinträchtigt, wenn ein normal informierter Internetnutzer nicht oder nur schwer erkennen kann, ob die beworbenen Waren vom Markeninhaber oder einem Dritten stammen.",
+       "Erscheint die Anzeige in einem abgesetzten Werbeblock, enthält sie die Marke nicht und weist die Domain auf ein anderes Unternehmen hin, ist die Herkunftsfunktion regelmäßig nicht beeinträchtigt (BGH Bananabay II, MOST-Pralinen)."
+      ],
+      "merke": "Keyword-Advertising ist erlaubt, wenn die Anzeige über die fremde Herkunft nicht im Unklaren lässt.",
+      "level": 2,
+      "concepts": [
+       "keyword_advertising",
+       "herkunftsfunktion"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "eugh_google_france",
+       "bgh_bananabay_ii",
+       "bgh_most_pralinen"
+      ],
+      "step": null
+     },
+     {
+      "id": "k03c-3",
+      "typ": "fall",
+      "titel": "Die Blumen-Anzeige",
+      "sachverhalt": "Ein Blumenversand bucht „Fleurop“ als Keyword. Der Verkehr weiß, dass Fleurop über ein Netz von Partnerfloristen arbeitet. Die Anzeige ist abgesetzt und enthält die Marke nicht; sie stellt aber auch nicht klar, dass der Werbende kein Fleurop-Partner ist.",
+      "frage": "Liegt hier ausnahmsweise eine Beeinträchtigung der Herkunftsfunktion vor?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Weiß der Verkehr, dass der Markeninhaber sein Geschäft über ein Netz **wirtschaftlich verbundener Partner** betreibt, liegt die Vermutung nahe, auch der Werbende gehöre dazu. Dann ist die Herkunftsfunktion beeinträchtigt, wenn die Anzeige eine solche Verbindung nicht ausschließt (BGH Fleurop).",
+       "Die Bananabay-Grundsätze gelten also nicht ausnahmslos; maßgeblich sind die Verkehrsvorstellungen über das konkrete Vertriebssystem."
+      ],
+      "merke": "Ausnahme Fleurop: Bei bekannten Partnernetzen muss die Anzeige die fehlende Verbindung klarstellen.",
+      "level": 3,
+      "concepts": [
+       "keyword_advertising"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "bgh_fleurop"
+      ],
+      "step": null
+     },
+     {
+      "id": "k03c-4",
+      "typ": "fall",
+      "titel": "Amazon und die Fahrradtaschen",
+      "sachverhalt": "Amazon schaltet Google-Anzeigen mit dem Text „Ortlieb Fahrradtasche“, die auf eine Amazon-Angebotsliste verlinken. Dort erscheinen neben Ortlieb-Taschen auch Taschen anderer Hersteller. Ortlieb verkauft selbst nicht über Amazon.",
+      "frage": "Verletzt diese Werbung die Marke „ORTLIEB“?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, in der Tat!** Der Nutzer erwartet aufgrund der Anzeige „Ortlieb Fahrradtasche“ **ausschließlich Ortlieb-Produkte**. Führt die Anzeige zu einer Liste mit gemischten Angeboten, wird die Werbewirkung der Marke zu Drittprodukten umgeleitet; die Anzeige ist irreführend und verletzt die Marke (BGH ORTLIEB II).",
+       "Anders bei der plattforminternen Suche: Wer bei Amazon „Ortlieb“ eingibt, rechnet mit Alternativangeboten in der Trefferliste (BGH ORTLIEB I)."
+      ],
+      "merke": "Externe Anzeige mit Markennamen = Erwartung nur dieser Marke. Interne Suche = Alternativen erwartet.",
+      "level": 3,
+      "concepts": [
+       "keyword_advertising"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 1",
+       "§ 14 Abs. 5"
+      ],
+      "cases": [
+       "bgh_ortlieb_ii",
+       "bgh_ortlieb_i"
+      ],
+      "step": null
+     },
+     {
+      "id": "k03c-5",
+      "typ": "fall",
+      "titel": "Die satirische Postkarte",
+      "sachverhalt": "Ein Verlag vertreibt eine lilafarbene Postkarte mit dem Text „Über allen Wipfeln ist Ruh, irgendwo blökt eine Kuh. Muh! Rainer Maria Milka“. Lila und „Milka“ sind bekannte Marken.",
+      "frage": "Benutzt der Verlag die Marken markenmäßig, obwohl es sich um Satire handelt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Der Verkehr erkennt die Farbe Lila und das Wort „Milka“ auf der Postkarte als Anspielung auf die bekannten Marken; die Zeichen werden **gedanklich verknüpft**. Für den Bekanntheitsschutz nach § 14 Abs. 2 Nr. 3 genügt das, eine Beeinträchtigung der Herkunftsfunktion ist nicht nötig (BGH Lila-Postkarte).",
+       "Der Verlag gewinnt den Fall trotzdem: Die Ausnutzung erfolgt nicht „ohne rechtfertigenden Grund in unlauterer Weise“, weil die **Kunstfreiheit** (Art. 5 Abs. 3 GG) überwiegt und die Marke nicht herabgesetzt wird. Dazu mehr in Kurs 5."
+      ],
+      "merke": "Beim Bekanntheitsschutz reicht die gedankliche Verknüpfung; die Kunstfreiheit greift erst bei der Unlauterkeit.",
+      "level": 3,
+      "concepts": [
+       "markenmaessige_benutzung",
+       "bekannte_marke",
+       "unlauterkeit"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [
+       "bgh_lila_postkarte"
+      ],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k04",
+  "titel": "Markenverletzung II: Verwechslungsgefahr",
+  "untertitel": "§ 14 Abs. 2 Nr. 2 MarkenG: Der Kern jeder Markenklausur",
+  "farbe": "#2B5B8A",
+  "icon": "waage",
+  "beschreibung": "Warenähnlichkeit, Kennzeichnungskraft, Zeichenähnlichkeit und ihre Wechselwirkung. Prägetheorie, selbständig kennzeichnende Stellung und die Arten der Verwechslungsgefahr.",
+  "kapitel": [
+   {
+    "id": "k04a",
+    "titel": "Die drei Faktoren und ihre Wechselwirkung",
+    "einheiten": [
+     {
+      "id": "k04a-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Verwechslungsgefahr",
+      "schema": "schema_verwechslungsgefahr",
+      "text": "Die Reihenfolge Warenähnlichkeit, Kennzeichnungskraft, Zeichenähnlichkeit, Gesamtabwägung solltest du auswendig können.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k04a-1",
+      "typ": "fall",
+      "titel": "Bier und Snacks",
+      "sachverhalt": "Die Marke „DESPERADO“ ist für Bier eingetragen. Ein Konkurrent meldet „DESPERADOS“ für Knabbergebäck an. Der Inhaber argumentiert: Bier und Snacks würden zusammen konsumiert und ergänzten sich funktionell.",
+      "frage": "Genügt die funktionelle Ergänzung, um Warenähnlichkeit zu bejahen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Waren sind ähnlich, wenn sie unter Berücksichtigung aller Faktoren (Art, Verwendungszweck, Nutzung, Herstellungsstätten, Vertriebswege, Konkurrenz- oder Ergänzungsverhältnis) so enge Berührungspunkte aufweisen, dass der Verkehr bei identischer Kennzeichnung eine **gemeinsame betriebliche Herkunft** annehmen könnte.",
+       "Der Gesichtspunkt der funktionellen Ergänzung darf die übrigen Faktoren nicht verdrängen (BGH DESPERADOS/DESPERADO). Bier und Snacks stammen aus verschiedenen Betrieben, haben verschiedene Beschaffenheit und werden nur zufällig zusammen konsumiert."
+      ],
+      "merke": "Warenähnlichkeit fragt: Würde der Verkehr bei gleicher Marke denselben Hersteller vermuten?",
+      "level": 2,
+      "concepts": [
+       "warenaehnlichkeit"
+      ],
+      "norms": [
+       "§ 9 Abs. 1 Nr. 2",
+       "§ 14 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "bgh_desperados",
+       "eugh_canon"
+      ],
+      "step": "step:schema_verwechslungsgefahr.2"
+     },
+     {
+      "id": "k04a-2",
+      "typ": "fall",
+      "titel": "„Kinder“ für Schokolade",
+      "sachverhalt": "Die Marke „Kinder“ ist für Süßwaren eingetragen. Sie wurde nur aufgrund von Verkehrsdurchsetzung eingetragen, da sie die Zielgruppe beschreibt. Der Inhaber macht gegen „Kinderzeit“ eine gesteigerte Kennzeichnungskraft geltend, weil die Marke sehr bekannt sei.",
+      "frage": "Hat „Kinder“ automatisch gesteigerte Kennzeichnungskraft, weil die Marke bekannt ist?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine glatt beschreibende Angabe, die erst durch Verkehrsdurchsetzung eingetragen wurde, hat regelmäßig nur **durchschnittliche** Kennzeichnungskraft (BGH Kinder II). Die Bekanntheit war nötig, um überhaupt ins Register zu kommen; sie führt nicht zusätzlich zu einem erweiterten Schutzbereich.",
+       "Gesteigerte Kennzeichnungskraft setzt voraus, dass die Bekanntheit über das für die Durchsetzung nötige Maß deutlich hinausgeht. Zudem bleibt der Schutz auf die konkrete durchgesetzte Form beschränkt."
+      ],
+      "merke": "Verkehrsdurchsetzung hebt das Zeichen auf Normalniveau, nicht darüber.",
+      "level": 2,
+      "concepts": [
+       "kennzeichnungskraft",
+       "verkehrsdurchsetzung"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "bgh_kinder_ii"
+      ],
+      "step": "step:schema_verwechslungsgefahr.3"
+     },
+     {
+      "id": "k04a-3",
+      "typ": "mc",
+      "titel": "Die Skala der Kennzeichnungskraft",
+      "sachverhalt": "",
+      "frage": "Welche Abstufungen der Kennzeichnungskraft unterscheidet der BGH seit „Culinaria/Villa Culinaria“?",
+      "optionen": [
+       "Schwach, normal, stark",
+       "Sehr gering, gering, durchschnittlich, erhöht, sehr hoch",
+       "Vorhanden oder nicht vorhanden",
+       "Beschreibend, suggestiv, willkürlich, fantasievoll"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Der BGH unterscheidet **fünf Grade**: sehr geringe, geringe (unterdurchschnittliche), durchschnittliche (normale), erhöhte (überdurchschnittliche) und sehr hohe Kennzeichnungskraft.",
+       "Ausgangspunkt ist die originäre Kennzeichnungskraft (Phantasiewort: durchschnittlich; beschreibende Anklänge: geringer). Steigerung durch intensive Benutzung, Schwächung durch Drittzeichen im Ähnlichkeitsbereich."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "kennzeichnungskraft"
+      ],
+      "norms": [],
+      "cases": [
+       "bgh_culinaria"
+      ],
+      "step": null
+     },
+     {
+      "id": "k04a-4",
+      "typ": "fall",
+      "titel": "Die Wechselwirkung",
+      "sachverhalt": "Die Marke „CANON“ (Kameras, hohe Kennzeichnungskraft) kollidiert mit „CANNON“ für Videokassetten. Die Zeichen sind klanglich identisch, die Waren nur entfernt ähnlich.",
+      "frage": "Kann eine hohe Kennzeichnungskraft und Zeichenähnlichkeit eine geringe Warenähnlichkeit ausgleichen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, in der Tat!** Nach der **Wechselwirkungslehre** kann ein geringerer Grad eines Faktors durch einen höheren Grad eines anderen ausgeglichen werden (EuGH Canon). Bei klanglicher Identität und hoher Kennzeichnungskraft reicht schon eine entfernte Warenähnlichkeit.",
+       "Grenze: Absolute Unähnlichkeit der Waren oder der Zeichen lässt sich nicht kompensieren. Dann kommt nur der Bekanntheitsschutz (§ 14 Abs. 2 Nr. 3) in Betracht."
+      ],
+      "merke": "Wechselwirkung: drei Schieberegler, aber keiner darf auf null stehen.",
+      "level": 1,
+      "concepts": [
+       "wechselwirkung",
+       "kennzeichnungskraft"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "eugh_canon",
+       "eugh_lloyd"
+      ],
+      "step": "step:schema_verwechslungsgefahr.5"
+     },
+     {
+      "id": "k04a-5",
+      "typ": "fall",
+      "titel": "Ärzte und Patienten",
+      "sachverhalt": "Die Arzneimittelmarken „Maalox“ und „Melox-GRY“ stehen sich gegenüber. Fachkreise (Ärzte, Apotheker) unterscheiden die Zeichen sicher, Endverbraucher könnten sie verwechseln.",
+      "frage": "Genügt es für die Verwechslungsgefahr, dass sie bei einer der beiden Verkehrsgruppen besteht?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Setzen sich die angesprochenen Verkehrskreise aus mehreren Gruppen zusammen, genügt es, dass die Verwechslungsgefahr bei **einer** Gruppe besteht (BGH Maalox/Melox-GRY).",
+       "Im konkreten Fall verneinte der BGH die Verwechslungsgefahr allerdings, weil die Zeichen klanglich („Maa-lox“ gegen „Me-lox-GRY“) und schriftbildlich hinreichend verschieden sind und der Bestandteil „GRY“ den Gesamteindruck mitprägt."
+      ],
+      "merke": "Gespaltene Verkehrsauffassung: Verwechslungsgefahr bei einer Gruppe reicht.",
+      "level": 2,
+      "concepts": [
+       "durchschnittsverbraucher",
+       "zeichenaehnlichkeit"
+      ],
+      "norms": [
+       "§ 9 Abs. 1 Nr. 2"
+      ],
+      "cases": [
+       "bgh_maalox",
+       "eugh_lloyd"
+      ],
+      "step": "step:schema_verwechslungsgefahr.1"
+     }
+    ]
+   },
+   {
+    "id": "k04b",
+    "titel": "Zeichenähnlichkeit: Gesamteindruck, Prägung, selbständige Stellung",
+    "einheiten": [
+     {
+      "id": "k04b-1",
+      "typ": "fall",
+      "titel": "Die springende Raubkatze",
+      "sachverhalt": "Die Wort-Bild-Marke eines Sportartikelherstellers zeigt eine springende Raubkatze neben dem Firmennamen. Ein Konkurrent verwendet eine ähnliche springende Raubkatze ohne Wort.",
+      "frage": "Darf beim Zeichenvergleich allein auf den Bildbestandteil abgestellt werden?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, wenn er den Gesamteindruck prägt!** Maßgeblich ist zwar der Gesamteindruck des Zeichens. Ein einzelner Bestandteil kann den Gesamteindruck aber **prägen**, wenn die übrigen Bestandteile für den Verkehr zurücktreten und ihn nicht mitbestimmen (BGH Springende Raubkatze, Prägetheorie).",
+       "Ein rein beschreibender Bestandteil prägt nie. Bei Wort-Bild-Marken orientiert sich der Verkehr im Regelfall am Wort; ein einprägsames Bild kann aber ebenso prägen."
+      ],
+      "merke": "Prägetheorie: Der Vergleich erfolgt mit dem Bestandteil, der im Erinnerungsbild des Verkehrs übrig bleibt.",
+      "level": 2,
+      "concepts": [
+       "praegetheorie",
+       "gesamteindruck"
+      ],
+      "norms": [
+       "§ 9 Abs. 1 Nr. 2"
+      ],
+      "cases": [
+       "bgh_springende_raubkatze",
+       "eugh_sabel_puma"
+      ],
+      "step": "step:schema_verwechslungsgefahr.4.2"
+     },
+     {
+      "id": "k04b-2",
+      "typ": "fall",
+      "titel": "THOMSON LIFE",
+      "sachverhalt": "Medion ist Inhaberin der Marke „LIFE“ für Unterhaltungselektronik. Thomson vertreibt Fernseher unter „THOMSON LIFE“. „THOMSON“ ist ein bekannter Herstellername und prägt das Gesamtzeichen.",
+      "frage": "Kann Verwechslungsgefahr bestehen, obwohl „LIFE“ das Gesamtzeichen „THOMSON LIFE“ nicht prägt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Wird eine ältere Marke in ein zusammengesetztes jüngeres Zeichen übernommen und behält sie dort eine **selbständig kennzeichnende Stellung**, kann der Verkehr annehmen, die Waren stammten aus wirtschaftlich verbundenen Unternehmen (EuGH THOMSON LIFE).",
+       "Die Prägetheorie ist damit nicht der einzige Weg zur Verwechslungsgefahr. Der BGH betont aber: Die selbständig kennzeichnende Stellung ist die **Ausnahme** und bedarf besonderer Umstände, typischerweise die Kombination einer fremden Marke mit der eigenen Unternehmensbezeichnung (Culinaria/Villa Culinaria)."
+      ],
+      "merke": "Prägung = ein Teil ist das Ganze. Selbständig kennzeichnende Stellung = ein Teil bleibt erkennbar fremd.",
+      "level": 3,
+      "concepts": [
+       "selbstaendig_kennzeichnende_stellung",
+       "praegetheorie"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "eugh_thomson_life",
+       "bgh_culinaria",
+       "bgh_interconnect"
+      ],
+      "step": "step:schema_verwechslungsgefahr.4.4"
+     },
+     {
+      "id": "k04b-3",
+      "typ": "fall",
+      "titel": "METRO gegen METROBUS",
+      "sachverhalt": "Der Handelskonzern METRO klagt gegen Verkehrsbetriebe, die ihre Schnellbuslinien „MetroBus“ nennen. „METRO“ ist für zahlreiche Dienstleistungen eingetragen und bekannt.",
+      "frage": "Prägt „Metro“ das Zeichen „MetroBus“, sodass Verwechslungsgefahr besteht?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Im Zusammenhang mit Verkehrsdienstleistungen versteht der Verkehr „Metro“ in „MetroBus“ als **beschreibenden Hinweis** auf ein städtisches Verkehrsmittel (wie „Metro“ = U-Bahn). Ein beschreibend verstandener Bestandteil prägt nicht und hat auch keine selbständig kennzeichnende Stellung (BGH METROBUS).",
+       "Auch der Bekanntheitsschutz scheiterte: Wer „Metro“ als Sachangabe versteht, verknüpft das Zeichen nicht gedanklich mit dem Handelskonzern."
+      ],
+      "merke": "Ein Bestandteil, der in der konkreten Kombination beschreibend wirkt, verliert seine Kennzeichnungskraft.",
+      "level": 2,
+      "concepts": [
+       "praegetheorie",
+       "gedankliche_verknuepfung"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2",
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [
+       "bgh_metrobus"
+      ],
+      "step": null
+     },
+     {
+      "id": "k04b-4",
+      "typ": "fall",
+      "titel": "Goldbären gegen Schokoteddy",
+      "sachverhalt": "Haribo ist Inhaberin der Wortmarke „Goldbären“ für Süßwaren. Lindt vertreibt einen in Goldfolie verpackten Schokoladenbären mit rotem Halsband. Bild- oder Klangähnlichkeit scheidet naturgemäß aus.",
+      "frage": "Kann zwischen einer Wortmarke und einer dreidimensionalen Produktgestaltung Zeichenähnlichkeit bestehen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, aber nur begrifflich!** Beim Vergleich einer Wortmarke mit einer Produktform kommt nur die **Ähnlichkeit im Sinngehalt** in Betracht. Sie setzt voraus, dass die Wortmarke aus Sicht des Verkehrs die naheliegende, ungezwungene und erschöpfende Bezeichnung der Gestaltung ist (BGH Goldbären).",
+       "Diesen strengen Maßstab verfehlte Haribo: Der Lindt-Teddy lässt sich ebenso gut als „Teddy“ oder „Schokobär“ bezeichnen. Sonst könnte eine Wortmarke ganze Produktformen monopolisieren."
+      ],
+      "merke": "Wort gegen Form: nur begriffliche Ähnlichkeit, und die muss zwingend sein.",
+      "level": 3,
+      "concepts": [
+       "zeichenaehnlichkeit"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2",
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [
+       "bgh_goldbaeren"
+      ],
+      "step": "step:schema_verwechslungsgefahr.4.3"
+     },
+     {
+      "id": "k04b-5",
+      "typ": "fall",
+      "titel": "Das Krokodil",
+      "sachverhalt": "Lacoste ist Inhaberin der Bildmarke eines Krokodils für Bekleidung (hohe Kennzeichnungskraft). Ein Konkurrent meldet ein anders gezeichnetes Krokodil („coccodrillo“) für Bekleidung an.",
+      "frage": "Kann Verwechslungsgefahr allein aus der Übereinstimmung im Bedeutungsgehalt (beide zeigen ein Krokodil) folgen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Bei Bildmarken kann eine Verwechslungsgefahr auf der **Übereinstimmung im Bedeutungsgehalt** beruhen, wenn die ältere Marke hohe Kennzeichnungskraft besitzt (BGH coccodrillo). Der Verkehr merkt sich „das Krokodil“, nicht die Details der Zeichnung.",
+       "Die gesteigerte Kennzeichnungskraft erweitert den Schutzbereich auch auf abweichend gestaltete Motive desselben Sinngehalts."
+      ],
+      "merke": "Hohe Kennzeichnungskraft macht das Motiv schutzfähig, nicht nur die konkrete Zeichnung.",
+      "level": 2,
+      "concepts": [
+       "zeichenaehnlichkeit",
+       "kennzeichnungskraft"
+      ],
+      "norms": [
+       "§ 9 Abs. 1 Nr. 2"
+      ],
+      "cases": [
+       "bgh_lacoste_krokodil"
+      ],
+      "step": null
+     }
+    ]
+   },
+   {
+    "id": "k04c",
+    "titel": "Arten der Verwechslungsgefahr",
+    "einheiten": [
+     {
+      "id": "k04c-1",
+      "typ": "mc",
+      "titel": "Drei Arten",
+      "sachverhalt": "",
+      "frage": "Der Verkehr erkennt, dass „Volks-Inspektion“ nicht von Volkswagen stammt, glaubt aber, es handle sich um eine lizenzierte Partnerwerkstatt. Welche Art der Verwechslungsgefahr ist das?",
+      "optionen": [
+       "Unmittelbare Verwechslungsgefahr",
+       "Mittelbare Verwechslungsgefahr (Serienzeichen)",
+       "Verwechslungsgefahr im weiteren Sinne",
+       "Keine Verwechslungsgefahr, sondern nur Assoziation"
+      ],
+      "richtig": 2,
+      "loesung": [
+       "Bei der **Verwechslungsgefahr im weiteren Sinne** erkennt der Verkehr die Unterschiede und die verschiedenen Unternehmen, nimmt aber irrig **wirtschaftliche oder organisatorische Verbindungen** (Lizenz, Konzern) an.",
+       "Unmittelbar: Zeichen werden verwechselt. Mittelbar: Zeichen werden unterschieden, aber wegen eines gemeinsamen Stammbestandteils demselben Unternehmen zugeordnet (Serienzeichen). Die bloße gedankliche Assoziation ohne Herkunftsvorstellung genügt nicht (EuGH SABEL/Puma)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "verwechslungsgefahr_weiterer_sinn",
+       "serienmarke"
+      ],
+      "norms": [],
+      "cases": [
+       "bgh_volkswagen_volksinspektion",
+       "eugh_sabel_puma"
+      ],
+      "step": "step:schema_verwechslungsgefahr.6"
+     },
+     {
+      "id": "k04c-2",
+      "typ": "fall",
+      "titel": "Sixtyseven by Mustang",
+      "sachverhalt": "Die Marke „MUSTANG“ ist für Bekleidung eingetragen und zugleich Unternehmenskennzeichen. Ein Konkurrent vertreibt Jeans unter „Sixtyseven by Mustang Bekleidung“.",
+      "frage": "Kann eine Verwechslungsgefahr im weiteren Sinne bestehen, obwohl „Sixtyseven“ das Zeichen prägt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** „Mustang“ behält in dem zusammengesetzten Zeichen eine **selbständig kennzeichnende Stellung**. Da „MUSTANG“ zugleich Unternehmenskennzeichen des Klägers ist, liegt für den Verkehr die Annahme nahe, „Sixtyseven“ sei eine Zweitmarke aus dem Hause Mustang (BGH Mustang).",
+       "Die Verwechslungsgefahr im weiteren Sinne bleibt Ausnahme: Sie setzt besondere Umstände voraus, etwa dass das ältere Zeichen als Unternehmenskennzeichen bekannt ist."
+      ],
+      "merke": "„by“-Kombinationen sind der Klassiker der Verwechslungsgefahr im weiteren Sinne.",
+      "level": 3,
+      "concepts": [
+       "verwechslungsgefahr_weiterer_sinn",
+       "selbstaendig_kennzeichnende_stellung"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2",
+       "§ 15"
+      ],
+      "cases": [
+       "bgh_mustang",
+       "bgh_interconnect"
+      ],
+      "step": null
+     },
+     {
+      "id": "k04c-3",
+      "typ": "fall",
+      "titel": "Ein einziges Zeichen ist keine Serie",
+      "sachverhalt": "Die Inhaberin der Marke „Sun-Flow“ behauptet, „Sun-Boost“ eines Konkurrenten füge sich in ihre Markenserie mit dem Stamm „Sun-“ ein. Tatsächlich benutzt sie nur „Sun-Flow“.",
+      "frage": "Liegt eine mittelbare Verwechslungsgefahr unter dem Gesichtspunkt des Serienzeichens vor?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Mittelbare Verwechslungsgefahr setzt voraus, dass der Verkehr den gemeinsamen Bestandteil als **Stamm einer benutzten Zeichenserie** kennt und ihm Hinweischarakter auf den Inhaber beimisst. Eine einzige Marke bildet keine Serie.",
+       "Außerdem muss der Stammbestandteil kennzeichnungskräftig sein; „Sun-“ hat für Sonnenprodukte beschreibende Anklänge."
+      ],
+      "merke": "Serienzeichen: mehrere benutzte Marken mit kennzeichnungskräftigem Stamm.",
+      "level": 2,
+      "concepts": [
+       "serienmarke",
+       "verwechslungsgefahr_weiterer_sinn"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 2"
+      ],
+      "cases": [
+       "bgh_volkswagen_volksinspektion"
+      ],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k05",
+  "titel": "Markenverletzung III: Bekanntheitsschutz",
+  "untertitel": "§ 14 Abs. 2 Nr. 3 und § 9 Abs. 1 Nr. 3 MarkenG",
+  "farbe": "#6A4C93",
+  "icon": "stern",
+  "beschreibung": "Wann ist eine Marke bekannt, was ist die gedankliche Verknüpfung, welche vier Eingriffe gibt es und wann fehlt der rechtfertigende Grund. Plus: die bekannte Marke im Register.",
+  "kapitel": [
+   {
+    "id": "k05a",
+    "titel": "Bekanntheit und gedankliche Verknüpfung",
+    "einheiten": [
+     {
+      "id": "k05a-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Bekanntheitsschutz",
+      "schema": "schema_bekanntheitsschutz",
+      "text": "Der Bekanntheitsschutz funktioniert ohne Verwechslungsgefahr und ohne Beeinträchtigung der Herkunftsfunktion. Sein Herzstück ist die gedankliche Verknüpfung.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k05a-1",
+      "typ": "mc",
+      "titel": "Wann ist eine Marke bekannt?",
+      "sachverhalt": "",
+      "frage": "Welche Aussage zur Bekanntheit im Sinne des § 14 Abs. 2 Nr. 3 ist richtig?",
+      "optionen": [
+       "Bekannt ist eine Marke ab 50 % Bekanntheit in der Gesamtbevölkerung",
+       "Bekannt ist eine Marke, wenn sie einem bedeutenden Teil des von den Waren angesprochenen Publikums bekannt ist; feste Prozentsätze gibt es nicht",
+       "Bekannt ist nur eine notorisch bekannte Marke nach Art. 6bis PVÜ",
+       "Bekanntheit setzt Eintragung seit mindestens zehn Jahren voraus"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Bekannt ist eine Marke, wenn sie einem **bedeutenden Teil des Publikums** bekannt ist, das von den durch die Marke erfassten Waren oder Dienstleistungen betroffen ist. Feste Prozentsätze gibt es nicht; maßgeblich sind Marktanteil, Intensität, geographische Ausdehnung, Dauer der Benutzung und Werbeaufwand (EuGH General Motors, BGH TÜV II).",
+       "Bekanntheit in einem wesentlichen Teil des Bundesgebiets genügt. Die Bekanntheit muss im Kollisionszeitpunkt bestehen."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "bekannte_marke"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [
+       "eugh_general_motors",
+       "bgh_tuev_ii"
+      ],
+      "step": "step:schema_bekanntheitsschutz.1"
+     },
+     {
+      "id": "k05a-2",
+      "typ": "fall",
+      "titel": "OTTO für Caps",
+      "sachverhalt": "Der Versandhändler OTTO ist Inhaber der bekannten Marke „OTTO“, unter anderem für Bekleidung. Ein Dritter verkauft Baseballcaps mit dem Aufdruck „OTTO“. Verwechslungsgefahr lässt sich nicht sicher feststellen.",
+      "frage": "Kann der Bekanntheitsschutz auch dann greifen, wenn die Waren identisch oder ähnlich sind?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Nach früherem Wortlaut galt § 14 Abs. 2 Nr. 3 nur für „nicht ähnliche“ Waren. Der BGH hat die Norm aber schon lange richtlinienkonform auch auf identische und ähnliche Waren angewandt (OTTO Cap); seit dem MaMoG 2019 steht das ausdrücklich im Gesetz.",
+       "Der Bekanntheitsschutz ist damit unabhängig von der Verwechslungsgefahr: Wer die Aufmerksamkeit einer bekannten Marke für eigene Bekleidung ausnutzt, verletzt sie, auch wenn niemand die Herkunft verwechselt."
+      ],
+      "merke": "Bekanntheitsschutz gilt für alle Waren: unähnliche, ähnliche und identische.",
+      "level": 2,
+      "concepts": [
+       "bekannte_marke",
+       "ausnutzung_unterscheidungskraft"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [
+       "bgh_otto_cap"
+      ],
+      "step": "step:schema_bekanntheitsschutz.3"
+     },
+     {
+      "id": "k05a-3",
+      "typ": "fall",
+      "titel": "INTELMARK",
+      "sachverhalt": "Intel ist Inhaberin der bekannten Marke „INTEL“ für Prozessoren. CPM benutzt „INTELMARK“ für Marketingdienstleistungen. Verbraucher denken bei „INTELMARK“ zwar an Intel, ändern ihr Kaufverhalten bei Prozessoren aber nicht.",
+      "frage": "Genügt die bloße gedankliche Verknüpfung für eine Beeinträchtigung der Unterscheidungskraft (Verwässerung)?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die gedankliche Verknüpfung ist **notwendige, aber nicht hinreichende** Voraussetzung. Für die Verwässerung ist zusätzlich der Nachweis erforderlich, dass sich das wirtschaftliche Verhalten des Durchschnittsverbrauchers geändert hat oder eine ernsthafte Gefahr einer solchen Änderung besteht (EuGH Intel).",
+       "Der Bekanntheitsschutz setzt also zwei Schritte voraus: erst die Verknüpfung, dann einen der vier Eingriffe."
+      ],
+      "merke": "Verknüpfung + Eingriff: Die Assoziation allein verletzt nicht.",
+      "level": 3,
+      "concepts": [
+       "gedankliche_verknuepfung",
+       "verwaesserung"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [
+       "eugh_intel"
+      ],
+      "step": "step:schema_bekanntheitsschutz.4"
+     }
+    ]
+   },
+   {
+    "id": "k05b",
+    "titel": "Die vier Eingriffe und die Unlauterkeit",
+    "einheiten": [
+     {
+      "id": "k05b-1",
+      "typ": "mc",
+      "titel": "Welcher Eingriff?",
+      "sachverhalt": "",
+      "frage": "Ein Parfümhersteller vertreibt Imitate bekannter Luxusdüfte und legt Händlern Vergleichslisten bei („entspricht Chanel No. 5“). Welchen Eingriff bejaht der EuGH hier vorrangig?",
+      "optionen": [
+       "Beeinträchtigung der Unterscheidungskraft (Verwässerung)",
+       "Ausnutzung der Wertschätzung (Rufausbeutung)",
+       "Beeinträchtigung der Wertschätzung (Rufschädigung)",
+       "Keinen, weil vergleichende Werbung erlaubt ist"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Der EuGH bejaht die **unlautere Ausnutzung der Wertschätzung**: Der Dritte begibt sich in den Bereich der Sogwirkung der bekannten Marke, um von ihrer Anziehungskraft, ihrem Ruf und ihrem Ansehen ohne eigene Anstrengung und ohne finanzielle Gegenleistung zu profitieren (L'Oréal/Bellure).",
+       "Die vier Eingriffe: Ausnutzung der Unterscheidungskraft (Aufmerksamkeit), Ausnutzung der Wertschätzung (Image), Beeinträchtigung der Unterscheidungskraft (Verwässerung), Beeinträchtigung der Wertschätzung (Rufschädigung)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "ausnutzung_wertschaetzung",
+       "ausnutzung_unterscheidungskraft",
+       "verwaesserung",
+       "rufschaedigung"
+      ],
+      "norms": [],
+      "cases": [
+       "eugh_loreal_bellure"
+      ],
+      "step": "step:schema_bekanntheitsschutz.5"
+     },
+     {
+      "id": "k05b-2",
+      "typ": "fall",
+      "titel": "Der springende Pudel",
+      "sachverhalt": "Ein Künstler lässt eine Wort-Bild-Marke mit einem springenden Pudel und dem Wort „PUDEL“ für Bekleidung eintragen, die Aufbau und Wortanfang der bekannten Puma-Marke parodiert. Puma verlangt Löschung nach § 9 Abs. 1 Nr. 3.",
+      "frage": "Rechtfertigt die Kunst- und Meinungsfreiheit die Eintragung der Parodie als eigene Marke?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Verkehr verknüpft den „springenden Pudel“ gedanklich mit Puma und der Anmelder profitiert von der **Aufmerksamkeit** der bekannten Marke (Ausnutzung der Unterscheidungskraft). Kunst- und Meinungsfreiheit können zwar eine einzelne Benutzung rechtfertigen, nicht aber die Erlangung eines eigenen Ausschließlichkeitsrechts im Register (BGH Springender Pudel).",
+       "Der Inhaber der bekannten Marke muss nicht hinnehmen, dass ein sein Recht verletzendes Zeichen selbst Registerschutz erhält."
+      ],
+      "merke": "Parodie als Benutzung kann gerechtfertigt sein (Lila-Postkarte), Parodie als eigene Marke nicht (Springender Pudel).",
+      "level": 3,
+      "concepts": [
+       "ausnutzung_unterscheidungskraft",
+       "relative_schutzhindernis_bekannt",
+       "unlauterkeit"
+      ],
+      "norms": [
+       "§ 9 Abs. 1 Nr. 3",
+       "§ 51"
+      ],
+      "cases": [
+       "bgh_springender_pudel",
+       "bgh_lila_postkarte"
+      ],
+      "step": "step:schema_bekanntheitsschutz.6"
+     },
+     {
+      "id": "k05b-3",
+      "typ": "fall",
+      "titel": "Das Testsiegel ohne Lizenz",
+      "sachverhalt": "Ein Zahnpastahersteller wirbt auf der Verpackung mit dem bekannten ÖKO-TEST-Siegel („sehr gut“), obwohl er keinen Lizenzvertrag geschlossen hat. Das Siegel ist als Marke für Verbraucherinformationsdienstleistungen eingetragen, nicht für Zahnpasta.",
+      "frage": "Verletzt die Werbung die bekannte Marke, obwohl sie für ganz andere Dienstleistungen eingetragen ist?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Der Bekanntheitsschutz greift gerade bei **unähnlichen Waren**. Wer das Siegel ohne Lizenz verwendet, nutzt die Wertschätzung der bekannten Marke aus, weil er sich das Vertrauen der Verbraucher in das Testinstitut zunutze macht, ohne dessen Bedingungen einzuhalten (BGH ÖKO-TEST II im Anschluss an EuGH C-690/17).",
+       "Die Unlauterkeit liegt darin, dass die Marke als Werbeinstrument für fremde Waren eingesetzt wird, ohne dass der Inhaber die Verwendungsbedingungen kontrollieren kann."
+      ],
+      "merke": "Fremde Siegel und Gütezeichen sind Bekanntheitsschutz in Reinform.",
+      "level": 2,
+      "concepts": [
+       "ausnutzung_wertschaetzung",
+       "bekannte_marke"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [
+       "bgh_oeko_test_ii"
+      ],
+      "step": null
+     },
+     {
+      "id": "k05b-4",
+      "typ": "fall",
+      "titel": "Interflora bei Google",
+      "sachverhalt": "Ein Kaufhaus bucht die bekannte Marke „Interflora“ als Keyword und bewirbt seinen eigenen Blumenlieferservice als Alternative, ohne Nachahmungen anzubieten oder die Marke zu verwässern.",
+      "frage": "Ist diese Keyword-Werbung eine unlautere Ausnutzung der Unterscheidungskraft?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Bietet der Werbende lediglich eine **Alternative** zu den Waren des Markeninhabers an, ohne Nachahmungen zu vertreiben, die Marke zu verwässern oder ihre Funktionen zu beeinträchtigen, fällt die Nutzung unter den gesunden und lauteren Wettbewerb. Ein rechtfertigender Grund liegt vor (EuGH Interflora).",
+       "Anders, wenn Nachahmungen angeboten werden (Trittbrettfahren) oder die Anzeige den Nutzer über eine Verbindung im Unklaren lässt (Beeinträchtigung der Herkunftsfunktion, Fleurop)."
+      ],
+      "merke": "Alternative anbieten = erlaubt. Nachahmung anbieten oder Verbindung vortäuschen = verboten.",
+      "level": 3,
+      "concepts": [
+       "unlauterkeit",
+       "keyword_advertising"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [
+       "eugh_interflora",
+       "bgh_fleurop"
+      ],
+      "step": "step:schema_bekanntheitsschutz.6"
+     }
+    ]
+   },
+   {
+    "id": "k05c",
+    "titel": "Die bekannte Marke im Register (§ 9 Abs. 1 Nr. 3)",
+    "einheiten": [
+     {
+      "id": "k05c-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Relative Schutzhindernisse im Register",
+      "schema": "schema_relative_schutzhindernisse",
+      "text": "§ 9 Abs. 1 Nr. 3 ist das Spiegelbild des § 14 Abs. 2 Nr. 3. Die Unterschiede liegen im Verfahren, im Zeitpunkt und im Prüfungsgegenstand.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k05c-1",
+      "typ": "fall",
+      "titel": "Zu spät bekannt",
+      "sachverhalt": "Die Marke „VELORA“ wurde 2015 angemeldet und ist heute bekannt. Ein Dritter hatte „VELORA“ bereits 2013 für andere Waren angemeldet und eingetragen. Der Inhaber der bekannten Marke beantragt 2024 die Löschung der Marke von 2013 nach § 9 Abs. 1 Nr. 3.",
+      "frage": "Hat der Antrag Erfolg?",
+      "antwort": false,
+      "loesung": [
+       "**Nein, aus zwei Gründen!** Erstens ist die Marke von 2013 die **prioritätsältere**; § 9 setzt eine ältere bekannte Marke voraus. Zweitens muss die Bekanntheit am **Anmeldetag der angegriffenen Marke** bestanden haben (§ 51 Abs. 3). 2013 war „VELORA“ noch nicht einmal angemeldet.",
+       "Selbst wenn die bekannte Marke die ältere wäre, aber erst nach dem Anmeldetag der jüngeren Marke Bekanntheit erlangt hätte, scheitert die Löschung an § 51 Abs. 3, und § 22 Abs. 1 Nr. 1 sperrt zugleich Unterlassungsansprüche gegen die Benutzung der jüngeren Marke für ihre eingetragenen Waren: Koexistenz."
+      ],
+      "merke": "Bekanntheit zum Prioritätstag der jüngeren Marke, sonst § 51 Abs. 3 und § 22 Abs. 1 Nr. 1.",
+      "level": 3,
+      "concepts": [
+       "relative_schutzhindernis_bekannt",
+       "koexistenz_22",
+       "prioritaet"
+      ],
+      "norms": [
+       "§ 9 Abs. 1 Nr. 3",
+       "§ 51 Abs. 3",
+       "§ 22"
+      ],
+      "cases": [
+       "bgh_springender_pudel"
+      ],
+      "step": "step:schema_relative_schutzhindernisse.4.3.1"
+     },
+     {
+      "id": "k05c-2",
+      "typ": "mc",
+      "titel": "Register oder Verletzungsprozess?",
+      "sachverhalt": "",
+      "frage": "Worin liegt der wichtigste Unterschied im Prüfungsgegenstand zwischen § 9 Abs. 1 Nr. 3 und § 14 Abs. 2 Nr. 3?",
+      "optionen": [
+       "§ 9 verlangt Verwechslungsgefahr, § 14 nicht",
+       "§ 9 prüft die hypothetische Benutzung der jüngeren Marke nach Registerlage („würde“), § 14 die konkrete Benutzungshandlung",
+       "§ 9 gilt nur für unähnliche Waren",
+       "§ 9 verlangt keine gedankliche Verknüpfung"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Im Register wird die **hypothetische Benutzung** der jüngeren Marke für die eingetragenen Waren beurteilt („die Benutzung … würde … ausnutzen“). Im Verletzungsprozess geht es um die **konkrete Benutzungshandlung** in ihrem tatsächlichen Umfeld.",
+       "Alles andere ist gleich: Bekanntheit, Zeichenähnlichkeit, gedankliche Verknüpfung, die vier Eingriffe, Unlauterkeit ohne rechtfertigenden Grund; beide gelten seit dem MaMoG auch für ähnliche Waren. Verfahren: Widerspruch (§ 42) oder Nichtigkeit (§ 51) statt Klage nach § 140."
+      ],
+      "merke": "",
+      "level": 3,
+      "concepts": [
+       "relative_schutzhindernis_bekannt"
+      ],
+      "norms": [
+       "§ 9 Abs. 1 Nr. 3",
+       "§ 14 Abs. 2 Nr. 3"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k05c-3",
+      "typ": "fall",
+      "titel": "Glaubhaft machen im Widerspruch",
+      "sachverhalt": "Die Inhaberin einer bekannten Marke legt Widerspruch nach § 42 gegen eine jüngere Marke ein und stützt sich auf § 9 Abs. 1 Nr. 3. Sie kündigt an, die Bekanntheit durch Zeugen und ein noch einzuholendes Gutachten zu beweisen.",
+      "frage": "Ist das Widerspruchsverfahren der richtige Ort für eine solche Beweisaufnahme?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Das Widerspruchsverfahren ist ein **summarisches Registerverfahren**: Es gibt keine Beweisaufnahme, sondern nur Glaubhaftmachung mit präsenten Beweismitteln (vorhandene Umfragen, Unterlagen). Ist die Bekanntheit nicht amtsbekannt oder liquide belegt, scheitert der Widerspruch.",
+       "Deshalb wird der Bekanntheitsschutz gegen eingetragene Marken praktisch häufig im **Nichtigkeitsverfahren** verfolgt (§ 51, vor dem DPMA nach § 53 oder als Klage vor dem Landgericht nach § 55), wo volle Beweisführung möglich ist."
+      ],
+      "merke": "Widerspruch = schnell und liquide. Bekanntheit ist selten liquide.",
+      "level": 3,
+      "concepts": [
+       "widerspruch",
+       "relative_schutzhindernis_bekannt",
+       "nichtigkeit"
+      ],
+      "norms": [
+       "§ 42",
+       "§ 43",
+       "§ 51",
+       "§ 55"
+      ],
+      "cases": [],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k06",
+  "titel": "Schranken des Markenschutzes",
+  "untertitel": "§§ 20 bis 24 MarkenG: Wann der Markeninhaber nichts verbieten kann",
+  "farbe": "#A56B00",
+  "icon": "schranke",
+  "beschreibung": "Beschreibende Benutzung, Ersatzteilhinweise, das Recht der Gleichnamigen, Erschöpfung mit Parallelimport und Beweislast, Verwirkung und Verjährung.",
+  "kapitel": [
+   {
+    "id": "k06a",
+    "titel": "§ 23: Namen, beschreibende Angaben, Bestimmungshinweis",
+    "einheiten": [
+     {
+      "id": "k06a-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: § 23 MarkenG",
+      "schema": "schema_schranke_23",
+      "text": "§ 23 ist eine Einwendung: Er wird erst geprüft, wenn der Tatbestand des § 14 Abs. 2 erfüllt ist. Fehlt schon die markenmäßige Benutzung, brauchst du § 23 nicht.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k06a-1",
+      "typ": "fall",
+      "titel": "Filtertüten passend für Vorwerk",
+      "sachverhalt": "Ein Hersteller verkauft Staubsaugerbeutel unter seiner Eigenmarke „EURO PLUS“, deutlich hervorgehoben, mit dem Zusatz „Filtertüte passend für Vorwerk Kobold 130“. Vorwerk klagt.",
+      "frage": "Kann sich der Hersteller auf § 23 Abs. 1 Nr. 3 berufen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, in der Tat!** Der Markeninhaber kann die Benutzung seiner Marke als **Hinweis auf die Bestimmung** einer Ware (insbesondere Zubehör oder Ersatzteil) nicht untersagen, soweit die Benutzung notwendig ist und den anständigen Gepflogenheiten entspricht (§ 23 Abs. 1 Nr. 3, Abs. 2).",
+       "Notwendig ist die Nennung, weil der Kunde sonst nicht erfährt, in welchen Staubsauger die Tüte passt (EuGH Gillette). Anständig ist sie, weil „passend für“ hervorgehoben ist und die Eigenmarke im Vordergrund steht, sodass keine Verbindung zu Vorwerk suggeriert wird (BGH Staubsaugerfiltertüten)."
+      ],
+      "merke": "§ 23 Nr. 3: notwendig + anständig. Eigenmarke groß, „passend für“ deutlich.",
+      "level": 1,
+      "concepts": [
+       "ersatzteilhinweis",
+       "schranke_23"
+      ],
+      "norms": [
+       "§ 23 Abs. 1 Nr. 3",
+       "§ 23 Abs. 2"
+      ],
+      "cases": [
+       "bgh_staubsaugerfiltertueten",
+       "eugh_gillette"
+      ],
+      "step": "step:schema_schranke_23.2.3"
+     },
+     {
+      "id": "k06a-2",
+      "typ": "fall",
+      "titel": "Der Kühlergrill mit Ringen",
+      "sachverhalt": "Ein Ersatzteilhändler vertreibt Kühlergrills für Audi-Modelle. In den Grill ist eine Aufnahme eingearbeitet, die exakt die Form der vier Audi-Ringe hat, damit das Original-Emblem eingesetzt werden kann.",
+      "frage": "Ist die Nachbildung der Ringform als Bestimmungshinweis nach § 23 Abs. 1 Nr. 3 gerechtfertigt?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Aufnahme in Form des Emblems ist eine markenmäßige Benutzung der bekannten Bildmarke. Sie ist zur Angabe der Bestimmung als Ersatzteil **nicht notwendig**: Eine neutrale Halterung, in die das Original-Emblem eingesetzt werden kann, genügt (BGH Kühlergrill).",
+       "Nur die Nennung der Marke als Information über die Kompatibilität ist privilegiert, nicht die Übernahme des Zeichens selbst in das Produkt."
+      ],
+      "merke": "§ 23 Nr. 3 erlaubt zu informieren, nicht zu imitieren.",
+      "level": 2,
+      "concepts": [
+       "ersatzteilhinweis"
+      ],
+      "norms": [
+       "§ 23 Abs. 1 Nr. 3"
+      ],
+      "cases": [
+       "bgh_kuehlergrill",
+       "bgh_grosse_inspektion"
+      ],
+      "step": null
+     },
+     {
+      "id": "k06a-3",
+      "typ": "fall",
+      "titel": "Große Inspektion für alle",
+      "sachverhalt": "Eine freie Werkstatt wirbt für Inspektionen an VW-Fahrzeugen und verwendet dazu blickfangmäßig das VW-Logo (Wort-Bild-Marke). Die Bestimmung ließe sich auch mit der Wortmarke „VW“ angeben.",
+      "frage": "Entspricht die Verwendung des Logos den anständigen Gepflogenheiten?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Zur Angabe, dass die Werkstatt VW-Fahrzeuge wartet, genügt die **Wortmarke**. Die zusätzliche Verwendung des Bildzeichens ist nicht notwendig und nutzt die Werbewirkung der bekannten Marke aus; sie beeinträchtigt die Werbefunktion (BGH GROSSE INSPEKTION FÜR ALLE).",
+       "Anständige Gepflogenheiten fehlen nach EuGH Gillette, wenn (1) eine Verbindung suggeriert, (2) die Wertschätzung ausgenutzt, (3) die Marke herabgesetzt oder (4) die eigene Ware als Imitat dargestellt wird."
+      ],
+      "merke": "Wortmarke reicht, Logo ist zu viel.",
+      "level": 2,
+      "concepts": [
+       "schranke_23",
+       "ersatzteilhinweis"
+      ],
+      "norms": [
+       "§ 23 Abs. 2"
+      ],
+      "cases": [
+       "bgh_grosse_inspektion",
+       "eugh_gillette"
+      ],
+      "step": "step:schema_schranke_23.3"
+     },
+     {
+      "id": "k06a-4",
+      "typ": "fall",
+      "titel": "Zwei Mal Peek & Cloppenburg",
+      "sachverhalt": "Zwei wirtschaftlich unabhängige Unternehmen führen seit über hundert Jahren den Namen „Peek & Cloppenburg“, eines in Hamburg für den Norden, eines in Düsseldorf für den Rest. Das Düsseldorfer Unternehmen wirbt jetzt bundesweit in Zeitschriften.",
+      "frage": "Muss das Düsseldorfer Unternehmen die Werbung im Norden ganz unterlassen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Zwischen den Gleichnamigen besteht eine seit langem gewachsene **Gleichgewichtslage**. Der Störer darf sie nicht einseitig verschieben, muss aber nur das Erforderliche und Zumutbare tun, um Verwechslungen zu vermeiden: einen **aufklärenden Zusatz** (Ortsangabe, Hinweis auf zwei Unternehmen). Der Zusatz muss deutlich sein, aber nicht in gleicher Größe wie die Werbebotschaft erscheinen (BGH Peek & Cloppenburg).",
+       "Grundlage ist § 23 Abs. 1 Nr. 1 in Verbindung mit einer Interessenabwägung, das sogenannte Recht der Gleichnamigen."
+      ],
+      "merke": "Gleichnamige: Zusatz statt Verbot.",
+      "level": 3,
+      "concepts": [
+       "gleichnamigkeit",
+       "unternehmenskennzeichen"
+      ],
+      "norms": [
+       "§ 23 Abs. 1 Nr. 1",
+       "§ 15"
+      ],
+      "cases": [
+       "bgh_peek_cloppenburg"
+      ],
+      "step": "step:schema_schranke_23.2.1"
+     },
+     {
+      "id": "k06a-5",
+      "typ": "fall",
+      "titel": "Beschreibend trotz Eintragung",
+      "sachverhalt": "Die Marke „Kinder“ ist für Süßwaren eingetragen. Ein Bäcker bewirbt seine Muffins mit „Ideal für Kinder und Erwachsene“.",
+      "frage": "Kann der Markeninhaber diese Werbung verbieten?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Schon die markenmäßige Benutzung fehlt: „Kinder“ wird als Zielgruppenangabe im Fließtext verwendet. Selbst wenn man sie bejahte, greift § 23 Abs. 1 Nr. 2: Angaben über Merkmale der Ware (hier die Bestimmung für eine Zielgruppe) dürfen benutzt werden, auch wenn sie mit einer eingetragenen Marke identisch sind.",
+       "Die Verkehrsdurchsetzung verschafft dem Inhaber das Recht am Zeichen als Marke, nicht ein Monopol am beschreibenden Wort."
+      ],
+      "merke": "Eine verkehrsdurchgesetzte Marke verliert nie ihre beschreibende Bedeutung für andere.",
+      "level": 1,
+      "concepts": [
+       "schranke_23",
+       "markenmaessige_benutzung"
+      ],
+      "norms": [
+       "§ 23 Abs. 1 Nr. 2"
+      ],
+      "cases": [
+       "bgh_kinder_ii",
+       "bgh_tuev_ii"
+      ],
+      "step": "step:schema_schranke_23.2.2"
+     }
+    ]
+   },
+   {
+    "id": "k06b",
+    "titel": "§ 24: Erschöpfung",
+    "einheiten": [
+     {
+      "id": "k06b-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Erschöpfung",
+      "schema": "schema_erschoepfung",
+      "text": "Erschöpfung betrifft nur Originalware, die im EWR mit Zustimmung des Inhabers in Verkehr gebracht wurde. Beweislast und berechtigte Gründe sind die Klausurschwerpunkte.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k06b-1",
+      "typ": "fall",
+      "titel": "Die Turnschuhe aus den USA",
+      "sachverhalt": "Ein deutscher Händler importiert Original-Turnschuhe der Marke „Converse“, die der Markeninhaber in den USA in Verkehr gebracht hat, und verkauft sie in Deutschland deutlich günstiger.",
+      "frage": "Ist das Markenrecht an den Schuhen erschöpft?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Erschöpfung tritt nur ein, wenn die Ware vom Inhaber oder mit seiner Zustimmung **im Inland, in der EU oder im EWR** in Verkehr gebracht wurde (§ 24 Abs. 1). Das MarkenG kennt keine internationale Erschöpfung.",
+       "Ware aus Drittstaaten darf der Inhaber also vom EWR-Markt fernhalten, auch wenn sie echt ist. Der Händler müsste nachweisen, dass gerade diese Schuhe im EWR in Verkehr gebracht wurden (BGH Converse I)."
+      ],
+      "merke": "EWR-weite, keine weltweite Erschöpfung.",
+      "level": 1,
+      "concepts": [
+       "erschoepfung"
+      ],
+      "norms": [
+       "§ 24 Abs. 1"
+      ],
+      "cases": [
+       "bgh_converse_i"
+      ],
+      "step": "step:schema_erschoepfung.2"
+     },
+     {
+      "id": "k06b-2",
+      "typ": "fall",
+      "titel": "Wer muss was beweisen?",
+      "sachverhalt": "Der Markeninhaber betreibt ein ausschließliches Vertriebssystem mit einem Alleinvertriebshändler pro EU-Land. Ein Parallelhändler kann Erschöpfung nur beweisen, wenn er seine Bezugsquelle innerhalb des Systems offenlegt, die dann vom Inhaber abgeschnitten würde.",
+      "frage": "Muss trotzdem der Parallelhändler die Erschöpfung beweisen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Grundsätzlich trägt zwar der Dritte die Beweislast für die Erschöpfung. Betreibt der Inhaber aber ein **ausschließliches Vertriebssystem** und droht bei Offenlegung der Bezugsquelle eine **Abschottung der nationalen Märkte**, kehrt sich die Beweislast um: Der Inhaber muss beweisen, dass die Ware außerhalb des EWR in Verkehr gebracht wurde (EuGH Van Doren, BGH stüssy II).",
+       "Ohne Marktabschottungsgefahr bleibt es bei der Beweislast des Händlers, auch wenn die Ware von einem EWR-Lizenznehmer stammt (BGH Converse II)."
+      ],
+      "merke": "Beweislast beim Händler, Umkehr bei Vertriebssystem plus Abschottungsgefahr.",
+      "level": 3,
+      "concepts": [
+       "beweislast_erschoepfung"
+      ],
+      "norms": [
+       "§ 24 Abs. 1"
+      ],
+      "cases": [
+       "eugh_van_doren",
+       "bgh_stuessy_ii",
+       "bgh_converse_ii"
+      ],
+      "step": "step:schema_erschoepfung.3"
+     },
+     {
+      "id": "k06b-3",
+      "typ": "fall",
+      "titel": "Der Lizenznehmer verkauft an Discounter",
+      "sachverhalt": "Ein Lizenznehmer darf Markenware laut Lizenzvertrag nur an Fachhändler verkaufen. Er verkauft dennoch an einen Discounter im EWR, der die Ware weitervertreibt.",
+      "frage": "Ist die Ware mit Zustimmung des Markeninhabers in Verkehr gebracht worden?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Verstößt der Lizenznehmer gegen eine der in § 30 Abs. 2 genannten Beschränkungen (etwa die Qualität der Waren oder das Vertriebsgebiet), kann der Inhaber die Marke gegen ihn geltend machen; das Inverkehrbringen erfolgt dann **ohne Zustimmung** und die Erschöpfung tritt nicht ein (BGH Converse II, EuGH Copad).",
+       "Achtung: Nicht jeder Vertragsverstoß hindert die Erschöpfung, sondern nur ein Verstoß gegen die in § 30 Abs. 2 abschließend genannten Punkte. Ein Verstoß gegen eine reine Preisabsprache wäre unerheblich."
+      ],
+      "merke": "Lizenzverstoß nach § 30 Abs. 2 = keine Zustimmung = keine Erschöpfung.",
+      "level": 3,
+      "concepts": [
+       "erschoepfung",
+       "lizenz"
+      ],
+      "norms": [
+       "§ 24 Abs. 1",
+       "§ 30 Abs. 2"
+      ],
+      "cases": [
+       "bgh_converse_ii"
+      ],
+      "step": null
+     },
+     {
+      "id": "k06b-4",
+      "typ": "fall",
+      "titel": "Umgepackte Arzneimittel",
+      "sachverhalt": "Ein Parallelimporteur führt Arzneimittel aus Spanien ein, wo sie in 30er-Packungen verkauft werden. In Deutschland sind nur 50er-Packungen verkehrsüblich. Er packt um, gibt sich als Umpacker an, beeinträchtigt die Blister nicht und informiert den Hersteller vorab.",
+      "frage": "Kann sich der Markeninhaber dem Vertrieb der umgepackten Ware widersetzen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Zwar ist das Umpacken eine Veränderung der Ware (§ 24 Abs. 2). Der Inhaber kann sich dem Vertrieb aber nicht widersetzen, wenn die **BMS-Kriterien** erfüllt sind: (1) Umpacken zur Vermarktung erforderlich, (2) Originalzustand unberührt, (3) Hersteller und Umpacker angegeben, (4) Aufmachung nicht rufschädigend, (5) Vorabinformation des Inhabers (EuGH Bristol-Myers Squibb).",
+       "Die Erforderlichkeit ist streng: Nur wenn der Marktzugang ohne Umpacken tatsächlich behindert wäre (andere Packungsgrößen), ist es erlaubt."
+      ],
+      "merke": "Umpacken erlaubt, wenn nötig, schonend, transparent, nicht rufschädigend und angekündigt.",
+      "level": 3,
+      "concepts": [
+       "umverpackung",
+       "berechtigte_gruende"
+      ],
+      "norms": [
+       "§ 24 Abs. 2"
+      ],
+      "cases": [
+       "eugh_bms"
+      ],
+      "step": "step:schema_erschoepfung.4"
+     },
+     {
+      "id": "k06b-5",
+      "typ": "fall",
+      "titel": "Luxusparfum im Discounter-Prospekt",
+      "sachverhalt": "Ein Drogeriediscounter verkauft erschöpfte Original-Luxusparfums und bildet sie in seinem Wochenprospekt neben Waschmittel und Toilettenpapier ab.",
+      "frage": "Kann der Markeninhaber diese Werbung verbieten?",
+      "antwort": false,
+      "loesung": [
+       "**Grundsätzlich nein!** Mit der Erschöpfung darf der Wiederverkäufer die Marke auch in seiner **Werbung** benutzen, und zwar in der in seiner Branche üblichen Weise (EuGH Dior/Evora). Ein berechtigter Grund nach § 24 Abs. 2 liegt nur vor, wenn die Werbung den **Ruf der Marke erheblich schädigt**.",
+       "Die bloße Abbildung in einem branchenüblichen Discounter-Prospekt reicht dafür nicht; anders könnte es bei einer gezielt herabwürdigenden Aufmachung liegen."
+      ],
+      "merke": "Wer erschöpfte Ware verkaufen darf, darf sie auch bewerben, solange er den Ruf nicht erheblich schädigt.",
+      "level": 2,
+      "concepts": [
+       "berechtigte_gruende",
+       "erschoepfung"
+      ],
+      "norms": [
+       "§ 24 Abs. 2"
+      ],
+      "cases": [
+       "eugh_dior_evora"
+      ],
+      "step": "step:schema_erschoepfung.5"
+     }
+    ]
+   },
+   {
+    "id": "k06c",
+    "titel": "Verwirkung, Verjährung und § 22",
+    "einheiten": [
+     {
+      "id": "k06c-1",
+      "typ": "fall",
+      "titel": "Zehn Jahre zugeschaut",
+      "sachverhalt": "Der Inhaber der bekannten Marke „Hard Rock Cafe“ weiß seit über zehn Jahren, dass ein Heidelberger Restaurant unter „Hard Rock Cafe Heidelberg“ Merchandising verkauft, und hat nichts unternommen. Jetzt klagt er auf Unterlassung des Merchandising-Verkaufs.",
+      "frage": "Ist der Unterlassungsanspruch verwirkt, weil der Inhaber so lange geduldet hat?",
+      "antwort": false,
+      "loesung": [
+       "**Nein, jedenfalls nicht für den Verkauf!** Verwirkung nach § 21 Abs. 4 i.V.m. § 242 BGB verlangt Zeitmoment, Umstandsmoment (schutzwürdiger Besitzstand) und Zurechenbarkeit. Bei **wiederholten, gleichartigen Verletzungshandlungen** entsteht aber mit jeder Handlung ein neuer Unterlassungsanspruch, sodass eine Verwirkung nur für den Fortbestand eines konkret geduldeten Zustands in Betracht kommt (BGH Hard Rock Cafe).",
+       "Der Verkauf neuer Merchandisingartikel ist jeweils eine neue Verletzung. Verwirkt sein kann dagegen der Anspruch gegen die Weiterführung des Restaurantnamens selbst."
+      ],
+      "merke": "Verwirkung schützt den geduldeten Zustand, nicht immer neue Handlungen.",
+      "level": 3,
+      "concepts": [
+       "verwirkung",
+       "verhaeltnis_uwg"
+      ],
+      "norms": [
+       "§ 21 Abs. 4"
+      ],
+      "cases": [
+       "bgh_hard_rock_cafe"
+      ],
+      "step": null
+     },
+     {
+      "id": "k06c-2",
+      "typ": "mc",
+      "titel": "Die Fünfjahresregel des § 21",
+      "sachverhalt": "",
+      "frage": "Der Inhaber einer älteren Marke hat die Benutzung einer eingetragenen jüngeren Marke fünf Jahre lang in Kenntnis geduldet. Die jüngere Marke wurde gutgläubig angemeldet. Was gilt?",
+      "optionen": [
+       "Der ältere Inhaber kann die jüngere Marke weiterhin löschen lassen und verbieten",
+       "Der ältere Inhaber kann die Benutzung nicht mehr untersagen; auch der jüngere Inhaber kann die ältere Marke nicht untersagen (Koexistenz)",
+       "Die jüngere Marke wird automatisch zur älteren",
+       "Der ältere Inhaber verliert seine Marke"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Nach § 21 Abs. 1 kann der Inhaber des älteren Rechts die Benutzung der jüngeren eingetragenen Marke **nicht mehr untersagen**, wenn er sie fünf aufeinanderfolgende Jahre in Kenntnis geduldet hat, es sei denn, die Anmeldung war bösgläubig. Parallel ist auch die Nichtigkeit nach § 51 Abs. 2 ausgeschlossen.",
+       "§ 21 Abs. 3 ordnet Koexistenz an: Auch der Inhaber des jüngeren Rechts kann die Benutzung des älteren nicht untersagen."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "verwirkung",
+       "koexistenz_22"
+      ],
+      "norms": [
+       "§ 21",
+       "§ 51 Abs. 2"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k06c-3",
+      "typ": "fall",
+      "titel": "Die verspätete Bekanntheit",
+      "sachverhalt": "Die Marke „ARVO“ wurde 2010 angemeldet und ist seit 2018 bekannt. 2014 hatte ein Dritter „ARVO“ für völlig andere Waren angemeldet und eingetragen und benutzt sie seitdem. Der Inhaber der bekannten Marke klagt 2024 auf Unterlassung nach § 14 Abs. 2 Nr. 3.",
+      "frage": "Kann er die Benutzung der jüngeren Marke für deren eingetragene Waren verbieten?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Nach § 22 Abs. 1 Nr. 1 kann der Inhaber des älteren Zeichens die Benutzung einer eingetragenen jüngeren Marke nicht untersagen, wenn ein Nichtigkeitsantrag zurückzuweisen wäre, weil das ältere Zeichen **am Prioritätstag der jüngeren Marke noch nicht bekannt** war (§ 51 Abs. 3). 2014 war „ARVO“ nicht bekannt.",
+       "Umgekehrt kann auch der Inhaber der jüngeren Marke nichts gegen die ältere unternehmen (§ 22 Abs. 2). Beide koexistieren. Die Bekanntheit muss also zum richtigen Zeitpunkt vorliegen."
+      ],
+      "merke": "§ 22 und § 51 Abs. 3 laufen parallel: Was nicht gelöscht werden kann, darf auch benutzt werden.",
+      "level": 3,
+      "concepts": [
+       "koexistenz_22",
+       "relative_schutzhindernis_bekannt"
+      ],
+      "norms": [
+       "§ 22 Abs. 1 Nr. 1",
+       "§ 51 Abs. 3"
+      ],
+      "cases": [],
+      "step": "step:schema_markenverletzung.4.4"
+     },
+     {
+      "id": "k06c-4",
+      "typ": "mc",
+      "titel": "Verjährung",
+      "sachverhalt": "",
+      "frage": "Wann verjähren Ansprüche aus dem MarkenG?",
+      "optionen": [
+       "Nach 6 Monaten ab Kenntnis (§ 11 UWG analog)",
+       "Nach den allgemeinen Vorschriften des BGB: regelmäßig 3 Jahre ab Ende des Jahres der Kenntnis (§§ 195, 199 BGB)",
+       "Nach 10 Jahren ab Verletzung",
+       "Nie, solange die Marke eingetragen ist"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "§ 20 verweist auf die **allgemeinen Verjährungsvorschriften des BGB**: drei Jahre ab dem Schluss des Jahres, in dem der Anspruch entstanden ist und der Inhaber Kenntnis erlangt hat (§§ 195, 199 BGB). Anders als im UWG (§ 11: sechs Monate) gilt keine kurze Frist.",
+       "Bei Dauerverletzungen beginnt die Verjährung des Unterlassungsanspruchs nicht, solange die Verletzung andauert. Der Bereicherungsanspruch bleibt nach § 852 BGB erhalten (§ 20 S. 2)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "verjaehrung"
+      ],
+      "norms": [
+       "§ 20"
+      ],
+      "cases": [],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k07",
+  "titel": "Benutzungszwang, Widerspruch und Löschung",
+  "untertitel": "§§ 25, 26, 42, 43, 49 bis 55 MarkenG",
+  "farbe": "#4B6B6B",
+  "icon": "loeschung",
+  "beschreibung": "Rechtserhaltende Benutzung, Benutzungsschonfrist und Einreden; Verfall und Nichtigkeit mit ihren Verfahren; das Widerspruchsverfahren.",
+  "kapitel": [
+   {
+    "id": "k07a",
+    "titel": "Rechtserhaltende Benutzung (§ 26)",
+    "einheiten": [
+     {
+      "id": "k07a-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Benutzungszwang und Verfall",
+      "schema": "schema_benutzungszwang",
+      "text": "Nach fünf Jahren muss die Marke benutzt werden, sonst drohen der Verlust der Ansprüche (§ 25) und die Löschung (§ 49).",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k07a-1",
+      "typ": "fall",
+      "titel": "Die Vorratsmarke",
+      "sachverhalt": "Ein Unternehmen hat „VOODOO“ 2015 für Bekleidung eintragen lassen und seit 2016 jährlich etwa 200 T-Shirts mit einem „VOODOO“-Etikett über seinen Onlineshop verkauft. 2024 erhebt ein Verletzer die Einrede der Nichtbenutzung.",
+      "frage": "Ist der geringe Umfang eine ernsthafte Benutzung?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ernsthaft ist eine Benutzung, die entsprechend der Hauptfunktion der Marke erfolgt, um für die Waren einen **Absatzmarkt zu erschließen oder zu sichern**; nur eine symbolische Benutzung zur Rechtserhaltung genügt nicht (EuGH Ansul). Einen Mindestumfang gibt es nicht; die Benutzung muss nach Art, Umfang und Dauer wirtschaftlich sinnvoll sein (BGH VOODOO).",
+       "Tatsächlicher Absatz von Etikettenware über mehrere Jahre reicht. Die Beweislast trägt im Verletzungsprozess der Markeninhaber, wenn die Einrede nach § 25 Abs. 2 erhoben wird."
+      ],
+      "merke": "Ernsthaft = auf dem Markt, nicht nur im Register. Kein Mindestumsatz.",
+      "level": 1,
+      "concepts": [
+       "ernsthafte_benutzung",
+       "nichtbenutzungseinrede"
+      ],
+      "norms": [
+       "§ 26 Abs. 1",
+       "§ 25"
+      ],
+      "cases": [
+       "eugh_ansul",
+       "bgh_voodoo"
+      ],
+      "step": "step:schema_benutzungszwang.3.1"
+     },
+     {
+      "id": "k07a-2",
+      "typ": "fall",
+      "titel": "Dorzo-Vision",
+      "sachverhalt": "Die Marke „Dorzo“ ist für Augentropfen eingetragen. Benutzt wird ausschließlich „Dorzo-Vision“, wobei der Verkehr die Kombination als einheitliches Zeichen wahrnimmt.",
+      "frage": "Ist die Benutzung von „Dorzo-Vision“ rechtserhaltend für „Dorzo“?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Benutzung in abweichender Form ist nur rechtserhaltend, wenn die Abweichung den **kennzeichnenden Charakter** der Marke nicht verändert (§ 26 Abs. 3). Erkennt der Verkehr das Markenwort in der Kombination nicht mehr als eigenständigen Herkunftshinweis, ist der kennzeichnende Charakter verändert (BGH Dorzo).",
+       "Anders liegt es bei bloßen beschreibenden oder werblichen Zusätzen und bei graphischer Modernisierung; diese verändern den kennzeichnenden Charakter nicht (BGH Probiotik)."
+      ],
+      "merke": "Zusatz unschädlich, Verschmelzung schädlich.",
+      "level": 2,
+      "concepts": [
+       "abweichende_form"
+      ],
+      "norms": [
+       "§ 26 Abs. 3"
+      ],
+      "cases": [
+       "bgh_dorzo",
+       "bgh_probiotik"
+      ],
+      "step": "step:schema_benutzungszwang.3.6"
+     },
+     {
+      "id": "k07a-3",
+      "typ": "fall",
+      "titel": "LOTTO auf der Lottocard",
+      "sachverhalt": "Die Marke „LOTTO“ ist für Lotteriedienstleistungen eingetragen. Der Inhaber benutzt sie als Bestandteil von „LOTTOCARD“ und auf Annahmestellenschildern. Der Gegner meint, „Lotto“ werde vom Verkehr nur beschreibend verstanden, daher liege keine markenmäßige und keine rechtserhaltende Benutzung vor.",
+      "frage": "Kann einer eingetragenen Marke die rechtserhaltende Benutzung abgesprochen werden, weil sie beschreibend sei?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die rechtserhaltende Benutzung kann nicht mit der Begründung verneint werden, die Marke sei für die Dienstleistungen beschreibend; das wäre ein Angriff auf die Eintragung selbst, der nur im Löschungsverfahren möglich ist (BGH LOTTOCARD). Es genügt, dass der Verkehr die konkrete Verwendung als Marke auffasst.",
+       "Die Verwendung in Kombination („LOTTOCARD“) kann rechtserhaltend sein, wenn „LOTTO“ seine kennzeichnende Eigenständigkeit behält."
+      ],
+      "merke": "Im Benutzungsstreit wird die Schutzfähigkeit nicht neu aufgerollt.",
+      "level": 3,
+      "concepts": [
+       "rechtserhaltende_benutzung"
+      ],
+      "norms": [
+       "§ 26 Abs. 1",
+       "§ 26 Abs. 3"
+      ],
+      "cases": [
+       "bgh_lottocard"
+      ],
+      "step": null
+     },
+     {
+      "id": "k07a-4",
+      "typ": "mc",
+      "titel": "Wann beginnt die Schonfrist?",
+      "sachverhalt": "",
+      "frage": "Eine Marke wurde am 1. Februar 2020 eingetragen. Ein Widerspruch wurde am 30. November 2021 rechtskräftig zurückgewiesen. Ab wann läuft die fünfjährige Benutzungsschonfrist?",
+      "optionen": [
+       "Ab dem Anmeldetag",
+       "Ab dem 1. Februar 2020 (Eintragung)",
+       "Ab dem 30. November 2021 (Abschluss des Widerspruchsverfahrens)",
+       "Ab der ersten Benutzung"
+      ],
+      "richtig": 2,
+      "loesung": [
+       "Wird gegen die Eintragung Widerspruch erhoben, beginnt die Benutzungsschonfrist erst mit dem **Abschluss des Widerspruchsverfahrens** (§ 26 Abs. 5). Ohne Widerspruch läuft sie ab der Eintragung.",
+       "Innerhalb der fünf Jahre ist Nichtbenutzung unschädlich: Weder die Einrede nach § 25 noch der Verfall nach § 49 Abs. 1 greifen."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "benutzungsschonfrist"
+      ],
+      "norms": [
+       "§ 26 Abs. 5",
+       "§ 25 Abs. 1",
+       "§ 49 Abs. 1"
+      ],
+      "cases": [],
+      "step": "step:schema_benutzungszwang.1"
+     }
+    ]
+   },
+   {
+    "id": "k07b",
+    "titel": "Verfall und Nichtigkeit (§§ 49 bis 52)",
+    "einheiten": [
+     {
+      "id": "k07b-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Löschung eingetragener Marken",
+      "schema": "schema_loeschung",
+      "text": "Merke die Grundunterscheidung: Verfall = nachträglich entstandener Mangel, Wirkung ex nunc. Nichtigkeit = ursprünglicher Mangel, Wirkung ex tunc.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k07b-1",
+      "typ": "fall",
+      "titel": "Wiederaufnahme in letzter Minute",
+      "sachverhalt": "Die Marke „ZIRKON“ wurde seit sieben Jahren nicht benutzt. Am 1. März erfährt der Inhaber, dass ein Konkurrent einen Verfallsantrag vorbereitet. Am 15. März startet er hektisch den Vertrieb. Der Antrag geht am 1. Mai beim DPMA ein.",
+      "frage": "Rettet die Benutzungsaufnahme im März die Marke?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Zwar heilt eine Benutzungsaufnahme nach Ablauf der fünf Jahre, aber vor dem Antrag, den Verfall grundsätzlich (§ 49 Abs. 1 S. 2). Das gilt aber nicht, wenn die Benutzung erst **innerhalb von drei Monaten vor dem Antrag** aufgenommen wurde, nachdem der Inhaber vom drohenden Antrag Kenntnis erlangt hatte (§ 49 Abs. 1 S. 3).",
+       "Die Regelung verhindert, dass Inhaber nur auf den Antrag hin Scheinbenutzungen starten."
+      ],
+      "merke": "Heilung ja, aber nicht in den letzten drei Monaten nach Kenntnis vom Antrag.",
+      "level": 2,
+      "concepts": [
+       "verfall",
+       "benutzungsschonfrist"
+      ],
+      "norms": [
+       "§ 49 Abs. 1"
+      ],
+      "cases": [],
+      "step": "step:schema_benutzungszwang.2"
+     },
+     {
+      "id": "k07b-2",
+      "typ": "fall",
+      "titel": "TÜV als Gattungsbegriff?",
+      "sachverhalt": "Ein Wettbewerber beantragt den Verfall der Marke „TÜV“: Der Verkehr verwende „TÜV“ längst als Gattungsbegriff für jede technische Prüfung („den TÜV machen“).",
+      "frage": "Ist die Marke wegen Entwicklung zur gebräuchlichen Bezeichnung verfallen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Verfall nach § 49 Abs. 2 Nr. 1 setzt voraus, dass die Marke **infolge des Verhaltens oder der Untätigkeit des Inhabers** im geschäftlichen Verkehr zur gebräuchlichen Bezeichnung geworden ist. Der BGH hat für „TÜV“ trotz verbreiteter umgangssprachlicher Verwendung die Entwicklung zum Gattungsbegriff verneint, weil der Verkehr weiterhin die Prüforganisationen dahinter sieht und der Inhaber gegen Verletzungen vorgeht (BGH TÜV II).",
+       "Der Inhaber einer bekannten Marke muss also aktiv gegen generische Verwendung vorgehen, um diesen Verfallsgrund zu vermeiden."
+      ],
+      "merke": "Gattungsbegriff nur bei Untätigkeit des Inhabers und Wandel im geschäftlichen Verkehr.",
+      "level": 2,
+      "concepts": [
+       "uebliche_bezeichnung",
+       "verfall"
+      ],
+      "norms": [
+       "§ 49 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "bgh_tuev_ii"
+      ],
+      "step": null
+     },
+     {
+      "id": "k07b-3",
+      "typ": "mc",
+      "titel": "Ex tunc oder ex nunc?",
+      "sachverhalt": "",
+      "frage": "Eine Marke wird wegen Bösgläubigkeit der Anmeldung gelöscht. Ab wann gilt sie als nicht existent?",
+      "optionen": [
+       "Ab dem Löschungsantrag (ex nunc)",
+       "Ab der Eintragung, also rückwirkend (ex tunc)",
+       "Ab dem Tag der Entscheidung",
+       "Ab dem Ende der Benutzungsschonfrist"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Bösgläubigkeit ist ein absolutes Schutzhindernis (§ 8 Abs. 2 Nr. 14), die Löschung erfolgt wegen **Nichtigkeit** (§ 50). Die Wirkungen der Eintragung gelten dann als **von Anfang an nicht eingetreten** (§ 52 Abs. 2, ex tunc).",
+       "Beim Verfall (§ 49) gilt die Marke dagegen erst ab dem Löschungsantrag als erloschen, auf Antrag ab dem früheren Zeitpunkt des Verfallseintritts (§ 52 Abs. 1, ex nunc)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "nichtigkeit",
+       "verfall"
+      ],
+      "norms": [
+       "§ 52"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k07b-4",
+      "typ": "fall",
+      "titel": "Wer darf löschen lassen?",
+      "sachverhalt": "Ein Verbraucher, der keinerlei Geschäftsbeziehung zur Markenbranche hat, beantragt die Löschung der Marke „Black Friday“ wegen Freihaltebedürfnisses. Der Inhaber bestreitet die Antragsbefugnis.",
+      "frage": "Kann jedermann einen Nichtigkeitsantrag wegen absoluter Schutzhindernisse stellen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Der Antrag auf Nichtigkeit wegen absoluter Schutzhindernisse (§ 50) und der Verfallsantrag (§ 49) sind **Popularanträge**: Jede Person kann sie stellen (§ 53 Abs. 1), ein eigenes Interesse ist nicht nötig, weil absolute Schutzhindernisse im Allgemeininteresse bestehen.",
+       "Anders die Nichtigkeit wegen älterer Rechte (§ 51): Hier ist nur der Inhaber des älteren Rechts antragsbefugt."
+      ],
+      "merke": "§§ 49, 50: jedermann. § 51: nur der Inhaber des älteren Rechts.",
+      "level": 1,
+      "concepts": [
+       "nichtigkeit",
+       "verfall"
+      ],
+      "norms": [
+       "§ 53",
+       "§ 50",
+       "§ 51"
+      ],
+      "cases": [
+       "bgh_black_friday"
+      ],
+      "step": null
+     }
+    ]
+   },
+   {
+    "id": "k07c",
+    "titel": "Das Widerspruchsverfahren (§§ 42, 43)",
+    "einheiten": [
+     {
+      "id": "k07c-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Widerspruchsverfahren",
+      "schema": "schema_widerspruch",
+      "text": "Der Widerspruch ist das schnelle, günstige Registerverfahren gegen jüngere Marken. Er ist befristet und auf bestimmte ältere Rechte beschränkt.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k07c-1",
+      "typ": "mc",
+      "titel": "Die Widerspruchsfrist",
+      "sachverhalt": "",
+      "frage": "Die Eintragung der Marke „NORDLICHT“ wird am 10. Januar veröffentlicht. Bis wann kann der Inhaber einer älteren Marke Widerspruch einlegen?",
+      "optionen": [
+       "Bis 10. Februar",
+       "Bis 10. April",
+       "Bis 10. Juli",
+       "Unbefristet"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Der Widerspruch ist innerhalb von **drei Monaten** nach dem Tag der Veröffentlichung der Eintragung einzulegen (§ 42 Abs. 1). Danach bleibt nur der Nichtigkeitsantrag nach § 51 (§ 53 oder § 55), der unbefristet ist, aber der Verwirkung (§ 51 Abs. 2) unterliegt.",
+       "Widerspruchsgründe sind nur die in § 42 Abs. 2 genannten älteren Rechte; sonstige Rechte (Name, Urheberrecht, Design) können nur im Nichtigkeitsverfahren geltend gemacht werden."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "widerspruch"
+      ],
+      "norms": [
+       "§ 42",
+       "§ 51"
+      ],
+      "cases": [],
+      "step": "step:schema_widerspruch.1"
+     },
+     {
+      "id": "k07c-2",
+      "typ": "fall",
+      "titel": "Die Einrede im Widerspruch",
+      "sachverhalt": "Die Widersprechende stützt sich auf eine seit acht Jahren eingetragene Marke. Der Inhaber der jüngeren Marke bestreitet die Benutzung. Die Widersprechende legt eine eidesstattliche Versicherung und Rechnungen für nur einen Teil der eingetragenen Waren vor.",
+      "frage": "Kann der Widerspruch auf alle eingetragenen Waren der älteren Marke gestützt werden?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Bestreitet der Gegner die Benutzung, muss die Widersprechende die rechtserhaltende Benutzung **glaubhaft machen** (§ 43 Abs. 1). Bei der Entscheidung werden nur die Waren berücksichtigt, für die die Benutzung glaubhaft gemacht wurde (§ 43 Abs. 1 S. 3).",
+       "Glaubhaftmachung bedeutet überwiegende Wahrscheinlichkeit mit präsenten Beweismitteln (eidesstattliche Versicherung, Rechnungen, Kataloge). Ein Beweis wie im Zivilprozess ist nicht nötig."
+      ],
+      "merke": "Einrede im Widerspruch: Nur die glaubhaft gemachten Waren zählen.",
+      "level": 2,
+      "concepts": [
+       "nichtbenutzungseinrede",
+       "widerspruch"
+      ],
+      "norms": [
+       "§ 43 Abs. 1"
+      ],
+      "cases": [],
+      "step": "step:schema_widerspruch.2"
+     },
+     {
+      "id": "k07c-3",
+      "typ": "fall",
+      "titel": "Das Namensrecht als Widerspruchsgrund",
+      "sachverhalt": "Schauspielerin Nora Stern sieht ihren Namen in der jüngeren Marke „Nora Stern“ für Kosmetik. Sie legt Widerspruch nach § 42 ein und beruft sich auf ihr Namensrecht nach § 12 BGB.",
+      "frage": "Ist das Namensrecht ein zulässiger Widerspruchsgrund?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Widerspruch kann nur auf die in § 42 Abs. 2 abschließend genannten Rechte gestützt werden: ältere Marken, notorisch bekannte Marken, Benutzungsmarken und geschäftliche Bezeichnungen, geschützte Ursprungsbezeichnungen und geographische Angaben. Das **Namensrecht** (§ 13 Abs. 2 Nr. 1) gehört nicht dazu.",
+       "Nora kann aber ein Nichtigkeitsverfahren nach § 51 Abs. 1 i.V.m. § 13 Abs. 2 Nr. 1 einleiten, beim DPMA (§ 53) oder mit Klage vor dem Landgericht (§ 55)."
+      ],
+      "merke": "Widerspruch = enger Katalog des § 42 Abs. 2. Alles andere über § 51.",
+      "level": 2,
+      "concepts": [
+       "widerspruch",
+       "relative_schutzhindernisse",
+       "nichtigkeit"
+      ],
+      "norms": [
+       "§ 42 Abs. 2",
+       "§ 13",
+       "§ 51"
+      ],
+      "cases": [],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k08",
+  "titel": "Geschäftliche Bezeichnungen und Domains",
+  "untertitel": "§§ 5, 15 MarkenG: Unternehmenskennzeichen und Werktitel",
+  "farbe": "#2F6B4F",
+  "icon": "firma",
+  "beschreibung": "Wie Unternehmenskennzeichen und Werktitel entstehen, wie ihre Verletzung geprüft wird und was für Domainnamen gilt.",
+  "kapitel": [
+   {
+    "id": "k08a",
+    "titel": "Unternehmenskennzeichen",
+    "einheiten": [
+     {
+      "id": "k08a-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Schutz geschäftlicher Bezeichnungen",
+      "schema": "schema_unternehmenskennzeichen",
+      "text": "§ 15 ist das Pendant zu § 14 für Unternehmenskennzeichen und Werktitel. Statt Warenähnlichkeit prüfst du die Branchennähe.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k08a-1",
+      "typ": "fall",
+      "titel": "Die Domain als Kennzeichen",
+      "sachverhalt": "Ein Softwarehaus betreibt seit Jahren unter „soco.de“ eine Website, über die es sich als Unternehmen präsentiert und Aufträge akquiriert. Einen Firmennamen „soco“ hat es nicht.",
+      "frage": "Kann der Domainname als Unternehmenskennzeichen nach § 5 Abs. 2 geschützt sein?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein Domainname kann Unternehmenskennzeichen sein, wenn der Verkehr in ihm einen **Hinweis auf das Unternehmen** und nicht nur eine Adresse sieht (BGH soco.de). Der Schutz entsteht mit der **Benutzungsaufnahme im geschäftlichen Verkehr**, nicht schon mit der Registrierung.",
+       "Voraussetzung ist Unterscheidungskraft: Bei beschreibenden Domains wie „wetter.de“ fehlt sie, dann bleibt nur die Verkehrsgeltung."
+      ],
+      "merke": "Registrieren schafft kein Kennzeichenrecht, Benutzen schon.",
+      "level": 1,
+      "concepts": [
+       "domain",
+       "unternehmenskennzeichen"
+      ],
+      "norms": [
+       "§ 5 Abs. 2"
+      ],
+      "cases": [
+       "bgh_soco_de"
+      ],
+      "step": "step:schema_unternehmenskennzeichen.1.1"
+     },
+     {
+      "id": "k08a-2",
+      "typ": "fall",
+      "titel": "Das Firmenschlagwort",
+      "sachverhalt": "Die „defacto marketing GmbH“ tritt seit 1990 auf; Kunden nennen sie einfach „defacto“. Ein anderes Unternehmen registriert „defacto.de“ und bietet dort Marketingdienstleistungen an.",
+      "frage": "Genießt der Bestandteil „defacto“ selbständigen Schutz, obwohl die Firma länger lautet?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein Firmenbestandteil ist selbständig geschützt, wenn er **seiner Natur nach geeignet** ist, als schlagwortartiger Hinweis auf das Unternehmen zu wirken. Eine tatsächliche schlagwortartige Verwendung ist nicht erforderlich; „marketing GmbH“ ist beschreibend, „defacto“ kennzeichnend (BGH defacto).",
+       "Die Verwechslungsgefahr nach § 15 Abs. 2 richtet sich nach Branchennähe, Kennzeichnungskraft und Zeichenähnlichkeit. Bei identischer Branche und identischem Schlagwort ist sie gegeben."
+      ],
+      "merke": "Der kennzeichnende Teil der Firma ist für sich geschützt.",
+      "level": 2,
+      "concepts": [
+       "firmenschlagwort",
+       "branchennaehe"
+      ],
+      "norms": [
+       "§ 5 Abs. 2",
+       "§ 15 Abs. 2"
+      ],
+      "cases": [
+       "bgh_defacto"
+      ],
+      "step": "step:schema_unternehmenskennzeichen.3"
+     },
+     {
+      "id": "k08a-3",
+      "typ": "fall",
+      "titel": "shell.de",
+      "sachverhalt": "Herr Andreas Shell registriert „shell.de“ für seine private Homepage und ein kleines Übersetzungsbüro. Der Mineralölkonzern verlangt die Freigabe der Domain.",
+      "frage": "Gilt bei Gleichnamigkeit auch hier das Prinzip „wer zuerst registriert“?",
+      "antwort": false,
+      "loesung": [
+       "**Nein, ausnahmsweise nicht!** Grundsätzlich gilt bei Gleichnamigen für Domains das **Prioritätsprinzip der Registrierung**. Bei **überragender Bekanntheit** eines der Namensträger erwartet der Verkehr unter „shell.de“ aber den Konzern; der Privatmann muss einen unterscheidenden Zusatz wählen (BGH shell.de).",
+       "Rechtsgrundlage ist hier das Namensrecht (§ 12 BGB), weil die private Nutzung außerhalb des geschäftlichen Verkehrs liegt; im geschäftlichen Verkehr wären §§ 5, 15 vorrangig."
+      ],
+      "merke": "Gleichnamige: Registrierungspriorität, außer einer ist überragend bekannt.",
+      "level": 3,
+      "concepts": [
+       "domain",
+       "gleichnamigkeit"
+      ],
+      "norms": [
+       "§ 5",
+       "§ 15"
+      ],
+      "cases": [
+       "bgh_shell_de",
+       "bgh_peek_cloppenburg"
+      ],
+      "step": null
+     },
+     {
+      "id": "k08a-4",
+      "typ": "mc",
+      "titel": "Was ersetzt die Warenähnlichkeit?",
+      "sachverhalt": "",
+      "frage": "Bei der Verwechslungsgefahr zwischen zwei Unternehmenskennzeichen (§ 15 Abs. 2) tritt an die Stelle der Waren-/Dienstleistungsähnlichkeit …",
+      "optionen": [
+       "die Unternehmensgröße",
+       "die Branchennähe",
+       "die geographische Nähe",
+       "die Rechtsform"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Statt Waren werden Unternehmen verglichen: Maßgeblich ist die **Branchennähe**, also Berührungspunkte der Unternehmen auf dem Markt nach Art der Waren/Dienstleistungen, Vertriebswegen und Kundenkreisen. Sie steht in Wechselwirkung mit Kennzeichnungskraft und Zeichenähnlichkeit.",
+       "Bei absoluter Branchenverschiedenheit scheidet Verwechslungsgefahr aus; dann hilft nur § 15 Abs. 3 (bekannte geschäftliche Bezeichnung)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "branchennaehe"
+      ],
+      "norms": [
+       "§ 15 Abs. 2",
+       "§ 15 Abs. 3"
+      ],
+      "cases": [
+       "bgh_defacto"
+      ],
+      "step": null
+     }
+    ]
+   },
+   {
+    "id": "k08b",
+    "titel": "Werktitel",
+    "einheiten": [
+     {
+      "id": "k08b-1",
+      "typ": "fall",
+      "titel": "Die Wetter-App",
+      "sachverhalt": "Ein Medienunternehmen bietet seit Jahren unter „wetter.de“ Wetterinformationen im Internet und als App an. Ein Konkurrent bringt die App „wetter DE“ heraus.",
+      "frage": "Genießt „wetter.de“ Werktitelschutz nach § 5 Abs. 3?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Apps und Internet-Informationsangebote sind zwar **titelschutzfähige Werke** (BGH wetter.de, erstmals entschieden). „wetter.de“ fehlt aber die **originäre Unterscheidungskraft**: Die Bezeichnung beschreibt nur den Inhalt.",
+       "Bei Zeitschriften gilt wegen der Verkehrsgewöhnung an beschreibende Titel ein abgesenkter Maßstab. Für Apps und Domains hat der BGH eine solche Gewöhnung nicht festgestellt. Ohne Verkehrsgeltung bleibt der Titel schutzlos."
+      ],
+      "merke": "Apps sind Werke, aber beschreibende Titel bleiben ohne Verkehrsgeltung schutzlos.",
+      "level": 2,
+      "concepts": [
+       "werktitel",
+       "unterscheidungskraft"
+      ],
+      "norms": [
+       "§ 5 Abs. 3"
+      ],
+      "cases": [
+       "bgh_wetter_de"
+      ],
+      "step": "step:schema_unternehmenskennzeichen.1.2"
+     },
+     {
+      "id": "k08b-2",
+      "typ": "fall",
+      "titel": "Augsburger gegen Leipziger Puppenkiste",
+      "sachverhalt": "Die „Augsburger Puppenkiste“ ist als Werktitel und Marke geschützt. Ein Theater nennt sich „Leipziger Puppenkiste“.",
+      "frage": "Schützt der Werktitel auch gegen die Annahme, beide Theater seien wirtschaftlich verbunden?",
+      "antwort": false,
+      "loesung": [
+       "**Grundsätzlich nein!** Werktitel schützen nur gegen die **unmittelbare Verwechslung der Werke**. Eine Verwechslungsgefahr im weiteren Sinne (Annahme geschäftlicher Verbindungen) kommt nur bei bekannten Titeln in Betracht, denen der Verkehr auch einen Hinweis auf die betriebliche Herkunft entnimmt (BGH Augsburger Puppenkiste).",
+       "Im konkreten Fall verneinte der BGH schon die Zeichenähnlichkeit: Die Ortsangaben prägen mit, „Puppenkiste“ ist kennzeichnungsschwach."
+      ],
+      "merke": "Werktitel unterscheiden Werke, nicht Unternehmen.",
+      "level": 3,
+      "concepts": [
+       "werktitel",
+       "verwechslungsgefahr_weiterer_sinn"
+      ],
+      "norms": [
+       "§ 5 Abs. 3",
+       "§ 15 Abs. 2"
+      ],
+      "cases": [
+       "bgh_augsburger_puppenkiste"
+      ],
+      "step": null
+     },
+     {
+      "id": "k08b-3",
+      "typ": "fall",
+      "titel": "Wem gehört der Songtitel?",
+      "sachverhalt": "Komponist K und Textdichter T haben das Musikstück „Das Omen (Teil 1)“ geschaffen; der Verlag V hat es vermarktet. Ein Dritter veröffentlicht „Omen – Extended Mix“. V klagt aus dem Werktitel.",
+      "frage": "Steht das Werktitelrecht dem Verlag zu, weil er den Titel vermarktet hat?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Inhaberschaft am Werktitel folgt der **Zuordnung des Werks**: Inhaber ist, wem das Werk zuzuordnen ist, bei einem Musikstück also Komponist und Textdichter (BGH Das Omen). Der Verlag kann Rechte nur aus abgeleiteter Berechtigung oder Lizenz geltend machen.",
+       "Der BGH bejahte die Unterscheidungskraft von „Das Omen (Teil 1)“; die Verwechslungsgefahr ist unter Berücksichtigung der Werkähnlichkeit zu prüfen."
+      ],
+      "merke": "Werktitelrecht hängt am Werk, nicht an der Vermarktung.",
+      "level": 3,
+      "concepts": [
+       "werktitel"
+      ],
+      "norms": [
+       "§ 5 Abs. 3",
+       "§ 15"
+      ],
+      "cases": [
+       "bgh_das_omen"
+      ],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k09",
+  "titel": "Rechtsfolgen und Durchsetzung",
+  "untertitel": "§§ 14 Abs. 5 bis 7, 18, 19 MarkenG und Haftung Dritter",
+  "farbe": "#8A2F1F",
+  "icon": "hammer",
+  "beschreibung": "Unterlassung, Schadensersatz mit dreifacher Schadensberechnung, Auskunft und Vernichtung; Täter, Teilnehmer und Störer.",
+  "kapitel": [
+   {
+    "id": "k09a",
+    "titel": "Unterlassung und Schadensersatz",
+    "einheiten": [
+     {
+      "id": "k09a-1",
+      "typ": "fall",
+      "titel": "Die einmalige Verletzung",
+      "sachverhalt": "Händler H hat ein einziges Mal Plagiate verkauft, den Rest vernichtet und schriftlich versichert, es nie wieder zu tun, allerdings ohne Vertragsstrafeversprechen.",
+      "frage": "Besteht der Unterlassungsanspruch nach § 14 Abs. 5 weiter?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Die begangene Verletzung begründet eine **Vermutung der Wiederholungsgefahr**. Diese wird regelmäßig nur durch eine **strafbewehrte Unterlassungserklärung** ausgeräumt; eine bloße Zusicherung reicht nicht.",
+       "Ein Verschulden ist für den Unterlassungsanspruch nicht erforderlich. Der Anspruch besteht auch bei Erstbegehungsgefahr, wenn eine Verletzung ernsthaft droht (§ 14 Abs. 5 S. 2)."
+      ],
+      "merke": "Wiederholungsgefahr wird vermutet und nur mit Vertragsstrafe beseitigt.",
+      "level": 1,
+      "concepts": [
+       "unterlassungsanspruch"
+      ],
+      "norms": [
+       "§ 14 Abs. 5"
+      ],
+      "cases": [],
+      "step": "step:schema_markenverletzung.5"
+     },
+     {
+      "id": "k09a-2",
+      "typ": "mc",
+      "titel": "Dreifache Schadensberechnung",
+      "sachverhalt": "",
+      "frage": "Der Verletzer hat mit Plagiaten 100.000 Euro Gewinn erzielt; ein üblicher Lizenzsatz wären 5 % vom Umsatz; der Inhaber kann keinen konkreten Umsatzrückgang nachweisen. Welche Berechnungsarten stehen ihm zur Wahl?",
+      "optionen": [
+       "Nur der konkrete Schaden",
+       "Konkreter Schaden, Herausgabe des Verletzergewinns oder angemessene Lizenzgebühr, nach seiner Wahl",
+       "Nur die Lizenzgebühr",
+       "Verletzergewinn plus Lizenzgebühr kumulativ"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "§ 14 Abs. 6 erlaubt die **dreifache Schadensberechnung**: (1) konkreter Schaden einschließlich entgangenem Gewinn, (2) Herausgabe des **Verletzergewinns** (S. 2), (3) **Lizenzanalogie** (S. 3). Die Arten sind alternativ; eine Kumulation ist ausgeschlossen.",
+       "Voraussetzung ist Verschulden; Fahrlässigkeit wird im geschäftlichen Verkehr wegen der Prüfpflicht regelmäßig bejaht. Bei der Lizenzanalogie ist zu fragen, was vernünftige Parteien vereinbart hätten (BGH BTK)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "schadensersatz",
+       "lizenzanalogie"
+      ],
+      "norms": [
+       "§ 14 Abs. 6"
+      ],
+      "cases": [
+       "bgh_btk"
+      ],
+      "step": "step:schema_markenverletzung.6.1"
+     },
+     {
+      "id": "k09a-3",
+      "typ": "fall",
+      "titel": "Der Chef haftet mit",
+      "sachverhalt": "Ein Angestellter des Handelsunternehmens H bestellt eigenmächtig Plagiate und verkauft sie über den Laden von H. Der Inhaber von H wusste nichts davon.",
+      "frage": "Kann der Markeninhaber Unterlassung und Schadensersatz auch gegen H verlangen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Wird die Verletzungshandlung in einem geschäftlichen Betrieb von einem Angestellten oder Beauftragten begangen, kann der Unterlassungsanspruch **und der Schadensersatzanspruch** auch gegen den Inhaber des Betriebs geltend gemacht werden (§ 14 Abs. 7). Eine Exkulpation wie bei § 831 BGB ist nicht möglich.",
+       "Für den Schadensersatzanspruch gegen den Betriebsinhaber ist das Verschulden des Angestellten maßgeblich."
+      ],
+      "merke": "§ 14 Abs. 7: Der Betriebsinhaber haftet ohne Entlastungsmöglichkeit.",
+      "level": 2,
+      "concepts": [
+       "schadensersatz",
+       "unterlassungsanspruch"
+      ],
+      "norms": [
+       "§ 14 Abs. 7"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k09a-4",
+      "typ": "mc",
+      "titel": "Annexansprüche",
+      "sachverhalt": "",
+      "frage": "Welcher Anspruch dient dazu, den Schadensersatz überhaupt beziffern zu können, und richtet sich bei offensichtlicher Verletzung auch gegen Spediteure und Lagerhalter?",
+      "optionen": [
+       "Vernichtungsanspruch (§ 18 Abs. 1)",
+       "Auskunftsanspruch (§ 19)",
+       "Rückrufanspruch (§ 18 Abs. 2)",
+       "Urteilsbekanntmachung (§ 19c)"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Der **Auskunftsanspruch** nach § 19 verpflichtet den Verletzer zur Auskunft über Herkunft und Vertriebsweg der Waren (Abs. 1, 3); bei offensichtlicher Verletzung auch Dritte wie Spediteure, Lagerhalter oder Plattformbetreiber (Abs. 2). Im Eilverfahren durchsetzbar (Abs. 7).",
+       "Daneben: Vernichtung und Rückruf (§ 18, mit Verhältnismäßigkeitsvorbehalt in Abs. 3), Vorlage und Besichtigung (§ 19a), Sicherung (§ 19b), Urteilsbekanntmachung (§ 19c). Alle setzen kein Verschulden voraus."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "vernichtung_auskunft"
+      ],
+      "norms": [
+       "§ 18",
+       "§ 19"
+      ],
+      "cases": [],
+      "step": "step:schema_markenverletzung.6.2"
+     }
+    ]
+   },
+   {
+    "id": "k09b",
+    "titel": "Täter, Teilnehmer, Störer",
+    "einheiten": [
+     {
+      "id": "k09b-1",
+      "typ": "fall",
+      "titel": "Die Auktionsplattform",
+      "sachverhalt": "Auf einer Internet-Auktionsplattform bieten Dritte gefälschte Uhren an. Der Markeninhaber weist den Betreiber auf ein konkretes, klar erkennbares Fälschungsangebot hin. Der Betreiber sperrt es, unternimmt aber nichts gegen gleichartige neue Angebote.",
+      "frage": "Haftet der Plattformbetreiber auf Unterlassung?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, als Störer!** Störer ist, wer willentlich und adäquat kausal zur Verletzung beiträgt und **zumutbare Prüfpflichten** verletzt. Nach dem Hinweis auf eine klare Rechtsverletzung muss der Betreiber nicht nur das Angebot sperren, sondern auch dafür sorgen, dass es nicht zu weiteren gleichartigen Verletzungen kommt (BGH Internet-Versteigerung II).",
+       "Der Störer haftet nur auf Unterlassung, nicht auf Schadensersatz. Eine allgemeine Pflicht, alle Angebote manuell zu prüfen, besteht nicht (BGH Kinderhochstühle im Internet)."
+      ],
+      "merke": "Störer: Prüfpflicht erst ab Hinweis, nur Unterlassung.",
+      "level": 2,
+      "concepts": [
+       "stoererhaftung"
+      ],
+      "norms": [
+       "§ 14 Abs. 5"
+      ],
+      "cases": [
+       "bgh_internet_versteigerung_ii",
+       "bgh_kinderhochstuehle"
+      ],
+      "step": null
+     },
+     {
+      "id": "k09b-2",
+      "typ": "fall",
+      "titel": "Nachfüllware für Markenspender",
+      "sachverhalt": "Hersteller N verkauft Papierhandtücher als „passend auch für Tork-Spender“. Kunden befüllen damit ihre mit der Marke „Tork“ gekennzeichneten Spender in Waschräumen, wo Nutzer die Handtücher dem Markeninhaber zuordnen.",
+      "frage": "Ist N Täter einer Markenverletzung?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Täter ist, wer die Verletzungshandlung selbst begeht. Das Befüllen des markierten Spenders mit Fremdware nehmen die **Kunden** vor; N handelt insoweit nicht selbst (BGH Tork).",
+       "In Betracht kommt aber eine **Teilnahme** (Beihilfe), wenn N vorsätzlich an einer vorsätzlichen Haupttat der Kunden mitwirkt, oder eine Störerhaftung. Für den Hinweis „passend für“ gilt zudem § 23 Abs. 1 Nr. 3."
+      ],
+      "merke": "Wer nur liefert, ist kein Täter; er kann aber Teilnehmer oder Störer sein.",
+      "level": 3,
+      "concepts": [
+       "stoererhaftung",
+       "ersatzteilhinweis"
+      ],
+      "norms": [
+       "§ 14 Abs. 2 Nr. 1",
+       "§ 23 Abs. 1 Nr. 3"
+      ],
+      "cases": [
+       "bgh_tork"
+      ],
+      "step": null
+     },
+     {
+      "id": "k09b-3",
+      "typ": "mc",
+      "titel": "Wer haftet auf Schadensersatz?",
+      "sachverhalt": "",
+      "frage": "Welche Aussage ist richtig?",
+      "optionen": [
+       "Täter, Teilnehmer und Störer haften alle auf Schadensersatz",
+       "Täter und Teilnehmer haften bei Verschulden auf Schadensersatz, der Störer nur auf Unterlassung",
+       "Nur der Täter haftet überhaupt",
+       "Der Störer haftet nur auf Schadensersatz, nicht auf Unterlassung"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "**Täter und Teilnehmer** haften bei Verschulden auf Schadensersatz (§ 14 Abs. 6) und auf die Annexansprüche. Der **Störer** haftet dagegen nur auf Unterlassung und Beseitigung, weil ihm kein eigenes Verschulden an der Haupttat vorgeworfen wird, sondern nur die Verletzung von Prüfpflichten.",
+       "Im Lauterkeitsrecht hat der BGH die Störerhaftung aufgegeben, im Markenrecht besteht sie fort (Kinderhochstühle im Internet)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "stoererhaftung",
+       "schadensersatz"
+      ],
+      "norms": [],
+      "cases": [
+       "bgh_kinderhochstuehle"
+      ],
+      "step": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k10",
+  "titel": "Unionsmarke und IR-Marke",
+  "untertitel": "UMV, § 125b ff. und §§ 112 bis 125 MarkenG",
+  "farbe": "#2B5B8A",
+  "icon": "europa",
+  "beschreibung": "Vorgehen aus einer Unionsmarke oder einer international registrierten Marke in Deutschland: Normketten, Bekanntheit in der Union, Benutzung, Gerichte und Fristen.",
+  "kapitel": [
+   {
+    "id": "k10a",
+    "titel": "Die Unionsmarke",
+    "einheiten": [
+     {
+      "id": "k10a-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Vorgehen aus einer Unionsmarke",
+      "schema": "schema_unionsmarke",
+      "text": "Die UMV gilt unmittelbar; das MarkenG kommt nur über die Brücke des § 125b ins Spiel.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k10a-1",
+      "typ": "fall",
+      "titel": "Bekannt in Österreich",
+      "sachverhalt": "Die Unionsmarke „PAGO“ für Fruchtsäfte ist in Österreich sehr bekannt, im Rest der EU kaum. Ein österreichischer Konkurrent verwendet ein ähnliches Zeichen.",
+      "frage": "Ist „PAGO“ eine in der Union bekannte Marke im Sinne des Art. 9 Abs. 2 lit. c UMV?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Eine Unionsmarke ist in der Union bekannt, wenn sie einem bedeutenden Teil des Publikums in einem **wesentlichen Teil des Unionsgebiets** bekannt ist. Das Gebiet eines einzigen Mitgliedstaats kann ein wesentlicher Teil sein (EuGH PAGO).",
+       "Der Bekanntheitsschutz der Unionsmarke gilt dann unionsweit, auch in Mitgliedstaaten, in denen die Marke unbekannt ist, sofern dort eine gedankliche Verknüpfung möglich ist."
+      ],
+      "merke": "Ein Mitgliedstaat kann für die Bekanntheit in der Union reichen.",
+      "level": 2,
+      "concepts": [
+       "bekanntheit_union",
+       "bekannte_marke"
+      ],
+      "norms": [
+       "§ 125b"
+      ],
+      "cases": [
+       "eugh_pago"
+      ],
+      "step": null
+     },
+     {
+      "id": "k10a-2",
+      "typ": "fall",
+      "titel": "Bekannt in der Union, unbekannt in Deutschland",
+      "sachverhalt": "Der Inhaber einer Unionsmarke, die in Italien und Frankreich bekannt ist, in Deutschland aber niemand kennt, geht nach § 9 Abs. 1 Nr. 3 gegen eine jüngere deutsche Marke vor.",
+      "frage": "Genügt die Bekanntheit in Italien und Frankreich für den Erfolg des Antrags?",
+      "antwort": false,
+      "loesung": [
+       "**Nur für die erste Stufe!** Nach § 125b Nr. 1 tritt an die Stelle der Bekanntheit im Inland die **Bekanntheit in der Union**; ein wesentlicher Teil der Union genügt, auch wenn Deutschland nicht dazugehört (EuGH Iron & Smith).",
+       "Für die Ausnutzung oder Beeinträchtigung **in Deutschland** muss die Unionsmarke aber einem wirtschaftlich nicht unbedeutenden Teil des deutschen Publikums bekannt sein, sonst fehlt die gedankliche Verknüpfung im Kollisionsgebiet. Kennt in Deutschland niemand die Marke, scheitert der Antrag."
+      ],
+      "merke": "Zwei Stufen: Bekanntheit in der Union (Tatbestand) plus Bekanntheit beim deutschen Publikum (Verknüpfung).",
+      "level": 3,
+      "concepts": [
+       "bekanntheit_union",
+       "relative_schutzhindernis_bekannt",
+       "gedankliche_verknuepfung"
+      ],
+      "norms": [
+       "§ 125b",
+       "§ 9 Abs. 1 Nr. 3"
+      ],
+      "cases": [
+       "eugh_iron_smith"
+      ],
+      "step": "step:schema_relative_schutzhindernisse.4.3.1"
+     },
+     {
+      "id": "k10a-3",
+      "typ": "fall",
+      "titel": "Benutzung nur in den Niederlanden",
+      "sachverhalt": "Die Unionsmarke „ONEL“ wird seit Jahren nur in den Niederlanden ernsthaft benutzt. Der Inhaber legt aus ihr Widerspruch gegen eine deutsche Marke ein; der Gegner erhebt die Nichtbenutzungseinrede.",
+      "frage": "Genügt die Benutzung in einem einzigen Mitgliedstaat?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, grundsätzlich!** Bei der ernsthaften Benutzung einer Unionsmarke nach Art. 18 UMV sind die **Grenzen der Mitgliedstaaten außer Betracht** zu lassen. Die Benutzung in einem Mitgliedstaat kann ausreichen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (EuGH Leno Merken).",
+       "Im deutschen Widerspruchsverfahren ordnet § 125b Nr. 4 an, dass Art. 18 UMV an die Stelle des § 26 tritt."
+      ],
+      "merke": "Art. 18 UMV: Union ist ein Markt, Landesgrenzen zählen nicht.",
+      "level": 2,
+      "concepts": [
+       "benutzung_union"
+      ],
+      "norms": [
+       "§ 125b",
+       "§ 43 Abs. 1"
+      ],
+      "cases": [
+       "eugh_leno_merken"
+      ],
+      "step": "step:schema_unionsmarke.3.2"
+     },
+     {
+      "id": "k10a-4",
+      "typ": "fall",
+      "titel": "Das unionsweite Verbot",
+      "sachverhalt": "Ein Unionsmarkengericht in Frankreich stellt fest, dass DHL die Unionsmarke „WEBSHIPPING“ von Chronopost verletzt, und spricht ein Verbot aus. DHL meint, das Verbot gelte nur in Frankreich.",
+      "frage": "Wirkt das Verbot grundsätzlich für die gesamte Union?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein von einem Unionsmarkengericht ausgesprochenes Verbot erstreckt sich **grundsätzlich auf das gesamte Gebiet der Union**, ebenso die Zwangsmaßnahmen zu seiner Durchsetzung (EuGH DHL/Chronopost). Das folgt aus der Einheitlichkeit der Unionsmarke.",
+       "Grenzen: Das Gericht muss das Verbot beschränken, wenn die Verletzung nur in einem Teil der Union vorliegt, etwa weil Verwechslungsgefahr nur in bestimmten Sprachräumen besteht (EuGH combit), oder wenn der Kläger sein Begehren beschränkt. Zuständig nach Art. 125 Abs. 5 (Handlungsort) ist die Kognition ohnehin auf den Mitgliedstaat beschränkt (Art. 126 Abs. 2)."
+      ],
+      "merke": "Unionsweit ist die Regel, territorial beschränkt die begründete Ausnahme.",
+      "level": 3,
+      "concepts": [
+       "unionsmarkengericht"
+      ],
+      "norms": [
+       "§ 125e"
+      ],
+      "cases": [
+       "eugh_dhl_chronopost",
+       "eugh_combit"
+      ],
+      "step": "step:schema_unionsmarke.2.4"
+     },
+     {
+      "id": "k10a-5",
+      "typ": "mc",
+      "titel": "Die Brücke § 125b",
+      "sachverhalt": "",
+      "frage": "Der Inhaber einer Unionsmarke verlangt vor dem Landgericht Vernichtung der Plagiate und Auskunft. Die UMV regelt diese Ansprüche nicht selbst. Woraus ergeben sie sich?",
+      "optionen": [
+       "Aus Art. 9 UMV direkt",
+       "Aus §§ 18, 19 MarkenG über § 125b Nr. 2",
+       "Aus dem UWG",
+       "Gar nicht, nur Unterlassung ist möglich"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "§ 125b Nr. 2 stellt dem Inhaber einer eingetragenen Unionsmarke neben den Ansprüchen aus Art. 9 bis 11 UMV die Ansprüche auf **Schadensersatz, Vernichtung und Rückruf (§ 18), Auskunft (§ 19), Vorlage (§ 19a), Sicherung (§ 19b) und Urteilsbekanntmachung (§ 19c)** zur Verfügung. Art. 129 UMV verweist für nicht geregelte Fragen auf nationales Recht.",
+       "Zuständig sind ausschließlich die Unionsmarkengerichte, in Deutschland bestimmte Landgerichte (§ 125e)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "unionsmarke",
+       "unionsmarkengericht",
+       "vernichtung_auskunft"
+      ],
+      "norms": [
+       "§ 125b",
+       "§ 125e"
+      ],
+      "cases": [],
+      "step": "step:schema_unionsmarke.2.4"
+     }
+    ]
+   },
+   {
+    "id": "k10b",
+    "titel": "Die IR-Marke",
+    "einheiten": [
+     {
+      "id": "k10b-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Vorgehen aus einer IR-Marke",
+      "schema": "schema_ir_marke",
+      "text": "Die IR-Marke mit Schutzerstreckung auf Deutschland wirkt wie eine deutsche Marke. Die Besonderheiten liegen bei Fristen und Schutzverweigerung.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k10b-1",
+      "typ": "fall",
+      "titel": "Wirkung wie eine deutsche Marke",
+      "sachverhalt": "Ein Schweizer Unternehmen hat seine Marke über die WIPO international registriert und auf Deutschland erstreckt. Das DPMA hat keine Schutzverweigerung ausgesprochen. Nun kopiert ein deutscher Händler das Zeichen.",
+      "frage": "Kann das Unternehmen direkt aus § 14 gegen den Händler vorgehen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Die auf Deutschland erstreckte IR-Marke hat **dieselbe Wirkung**, wie wenn sie am Tag der internationalen Registrierung beim DPMA angemeldet und eingetragen worden wäre (§ 112 Abs. 1, für Protokollmarken über § 124). §§ 14 ff. gelten unmittelbar.",
+       "Zeitrang ist der Tag der internationalen Registrierung bzw. der nachträglichen Schutzerstreckung (Art. 3ter PMMA). Die Wirkung entfällt nur, wenn der Schutz nach §§ 113 bis 115 verweigert wird (§ 112 Abs. 2)."
+      ],
+      "merke": "IR-Marke (DE) = deutsche Marke mit dem Zeitrang der internationalen Registrierung.",
+      "level": 1,
+      "concepts": [
+       "ir_marke"
+      ],
+      "norms": [
+       "§ 112",
+       "§ 124"
+      ],
+      "cases": [],
+      "step": "step:schema_ir_marke.2"
+     },
+     {
+      "id": "k10b-2",
+      "typ": "mc",
+      "titel": "Wann beginnt die Schonfrist der IR-Marke?",
+      "sachverhalt": "",
+      "frage": "Eine IR-Marke wurde am 1. Juni 2019 international registriert. Die Schutzverweigerungsfrist des DPMA lief am 1. Dezember 2020 ab, ohne dass Schutz verweigert wurde. Ab wann läuft die fünfjährige Benutzungsschonfrist?",
+      "optionen": [
+       "Ab 1. Juni 2019",
+       "Ab 1. Dezember 2020",
+       "Ab Eintragung der Basismarke",
+       "Ab der ersten Benutzung in Deutschland"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Für IR-Marken tritt an die Stelle des Eintragungstags einer der in **§ 115 Abs. 2** genannten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder, bei zunächst verweigertem Schutz, der Tag der rechtskräftigen Schutzgewährung. Darauf verweisen § 116 (Widerspruch, Nichtigkeit) und § 117 (Einrede nach § 25).",
+       "Die Schonfrist beginnt also nicht mit der internationalen Registrierung, sondern erst, wenn der Schutz in Deutschland feststeht."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "ir_benutzungsschonfrist"
+      ],
+      "norms": [
+       "§ 115",
+       "§ 116",
+       "§ 117"
+      ],
+      "cases": [],
+      "step": "step:schema_ir_marke.5"
+     },
+     {
+      "id": "k10b-3",
+      "typ": "fall",
+      "titel": "Widerspruch gegen die IR-Marke",
+      "sachverhalt": "Die Inhaberin einer deutschen Marke will gegen eine auf Deutschland erstreckte IR-Marke vorgehen. Sie sucht im DPMA-Register nach der Veröffentlichung der Eintragung, um die Widerspruchsfrist zu berechnen.",
+      "frage": "Läuft die Widerspruchsfrist ab der Veröffentlichung im deutschen Markenblatt?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Bei IR-Marken tritt an die Stelle der Veröffentlichung der Eintragung die Veröffentlichung in der **WIPO-Gazette** (§ 114 Abs. 1). Die Widerspruchsfrist beginnt mit dem ersten Tag des Monats, der dem Ausgabemonat des Gazette-Hefts folgt (§ 114 Abs. 2).",
+       "Rechtsfolge eines erfolgreichen Widerspruchs ist nicht die Löschung, sondern die **Schutzverweigerung** für Deutschland (§ 114 Abs. 3); bei Verfall oder Nichtigkeit die nachträgliche Schutzentziehung (§ 115)."
+      ],
+      "merke": "IR-Marke: Gazette statt Markenblatt, Schutzverweigerung statt Löschung.",
+      "level": 2,
+      "concepts": [
+       "ir_schutzverweigerung",
+       "widerspruch"
+      ],
+      "norms": [
+       "§ 114",
+       "§ 115"
+      ],
+      "cases": [],
+      "step": "step:schema_ir_marke.3.2"
+     },
+     {
+      "id": "k10b-4",
+      "typ": "fall",
+      "titel": "Der Angriff auf die Basismarke",
+      "sachverhalt": "Drei Jahre nach der internationalen Registrierung wird die Basismarke im Ursprungsland rechtskräftig gelöscht.",
+      "frage": "Bleibt die deutsche Schutzerstreckung der IR-Marke davon unberührt?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Während der ersten **fünf Jahre** ab der internationalen Registrierung ist die IR-Marke von der Basismarke abhängig: Wird diese gelöscht, entfällt auch die internationale Registrierung mit allen Erstreckungen (Art. 6 PMMA, sogenannter „central attack“).",
+       "Der Inhaber kann die IR-Marke dann innerhalb von drei Monaten in nationale Anmeldungen **umwandeln** und den Zeitrang der internationalen Registrierung behalten (Art. 9quinquies PMMA, § 125). Eine IR-Marke mit Benennung EU wird dabei wie eine Unionsmarke behandelt (Art. 189 ff. UMV)."
+      ],
+      "merke": "Fünf Jahre Abhängigkeit, dann Selbständigkeit; Rettung durch Umwandlung.",
+      "level": 3,
+      "concepts": [
+       "ir_marke",
+       "senioritaet"
+      ],
+      "norms": [
+       "§ 125"
+      ],
+      "cases": [],
+      "step": "step:schema_ir_marke.3.4"
+     }
+    ]
+   }
+  ]
+ }
+]

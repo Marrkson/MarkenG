@@ -6,5 +6,5 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "src"))
-for script in ["parse_markeng", "build_graph", "build_flashcards", "build_html"]:
+for script in ["parse_markeng", "build_graph", "build_flashcards", "build_html", "build_kurs"]:
     runpy.run_path(str(ROOT / "src" / f"{script}.py"), run_name="__main__")

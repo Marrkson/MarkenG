@@ -2,9 +2,11 @@
 """Erzeugt Lernkarteikarten aus dem Wissensgraphen.
 
 Ausgaben (flashcards/):
-  karteikarten.json   strukturierte Karten (für die HTML-App)
-  karteikarten.csv    Anki-Import (Tab-getrennt: Vorderseite, Rückseite, Tags)
-  karteikarten.md     lesbare Markdown-Fassung
+  karteikarten.json   strukturierte Karten (für die HTML-App; Gesetzeszitate werden
+                      dort beim Rendern verlinkt)
+  karteikarten.csv    Anki-Import (Tab-getrennt: Vorderseite, Rückseite, Tags);
+                      Gesetzeszitate als HTML-Links auf gesetze-im-internet.de
+  karteikarten.md     lesbare Markdown-Fassung mit Links auf gesetze-im-internet.de
 
 Kartentypen:
   definition      Begriff -> Definition
@@ -22,6 +24,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "src"))
+
+from knowledge.gesetze import linkify  # noqa: E402
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
 OUTDIR = ROOT / "flashcards"
 
@@ -141,14 +146,18 @@ def write(cards):
     with (OUTDIR / "karteikarten.csv").open("w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter="\t", quoting=csv.QUOTE_MINIMAL)
         for c in cards:
-            w.writerow([c["front"].replace("\n", "<br>"), c["back"].replace("\n", "<br>"), " ".join(t.replace(" ", "_") for t in c["tags"])])
+            front = linkify(c["front"], "html").replace("\n", "<br>")
+            back = linkify(c["back"], "html").replace("\n", "<br>")
+            w.writerow([front, back, " ".join(t.replace(" ", "_") for t in c["tags"])])
     md = ["# Karteikarten Markenrecht", "", f"{len(cards)} Karten, generiert aus graph/markenrecht_graph.json.", ""]
     current = None
     for c in cards:
         if c["typ"] != current:
             current = c["typ"]
             md += [f"## {current}", ""]
-        md += [f"**F:** {c['front']}", "", f"**A:** {c['back']}", "", f"*Tags: {', '.join(c['tags'])}*", "", "---", ""]
+        md += [f"**F:** {linkify(c['front'], 'markdown')}", "",
+               f"**A:** {linkify(c['back'], 'markdown')}", "",
+               f"*Tags: {', '.join(c['tags'])}*", "", "---", ""]
     (OUTDIR / "karteikarten.md").write_text("\n".join(md), encoding="utf-8")
     from collections import Counter
     print(f"{len(cards)} Karteikarten -> {OUTDIR.relative_to(ROOT)}/ ", dict(Counter(c["typ"] for c in cards)))

@@ -7,6 +7,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
+
+from knowledge.gesetze import js_source  # noqa: E402
 from knowledge.kurse import KURSE  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
@@ -40,7 +42,8 @@ def build():
     DATA.write_text(json.dumps(KURSE, ensure_ascii=False, indent=1), encoding="utf-8")
     html = (TEMPLATE.read_text(encoding="utf-8")
             .replace("__KURSE__", embed(KURSE))
-            .replace("__GRAPH__", embed(reduced_graph(graph))))
+            .replace("__GRAPH__", embed(reduced_graph(graph)))
+            .replace("__LAWJS__", js_source()))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
     n = sum(len(k["einheiten"]) for kurs in KURSE for k in kurs["kapitel"])

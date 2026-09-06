@@ -117,6 +117,11 @@ table.cmp td:first-child{font-weight:600;background:var(--bg);width:150px}
 .hit:hover{border-color:var(--accent)}
 .hit .k{font:11px system-ui;text-transform:uppercase;letter-parsing:.08em;color:var(--muted)}
 mark{background:var(--dist-soft);color:inherit;padding:0 2px}
+.lawlink{color:var(--norm);text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px}
+.lawlink:hover{text-decoration-style:solid}
+.chip .ext{margin-left:2px;text-decoration:none;font-weight:700;opacity:.75}
+.chip .ext:hover{opacity:1}
+
 .kbd{font:12px system-ui;border:1px solid var(--line);border-radius:5px;padding:1px 5px;color:var(--muted)}
 .backlink{font:13px system-ui;margin-bottom:10px}
 @media (max-width:820px){#layout{grid-template-columns:1fr}nav{display:flex;flex-wrap:wrap;gap:4px;border-right:0;border-bottom:1px solid var(--line)}nav .grp{display:none}main{padding:16px}.two{grid-template-columns:1fr}.toc{columns:1}}
@@ -145,6 +150,37 @@ for(const e of G.edges){ (out.get(e.source)||out.set(e.source,[]).get(e.source))
 const O = id => out.get(id)||[], I = id => inc.get(id)||[];
 const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const nl = s => esc(s).replace(/\n/g,'<br>');
+
+// ---- Gesetzeslinks auf gesetze-im-internet.de (erzeugt aus src/knowledge/gesetze.py) ----
+const LAW = {"base": "https://www.gesetze-im-internet.de/", "laws": {"MarkenG": {"slug": "markeng", "kind": "§"}, "BGB": {"slug": "bgb", "kind": "§"}, "UWG": {"slug": "uwg_2004", "kind": "§"}, "ZPO": {"slug": "zpo", "kind": "§"}, "GG": {"slug": "gg", "kind": "Art."}, "UrhG": {"slug": "urhg", "kind": "§"}, "PatG": {"slug": "patg", "kind": "§"}, "DesignG": {"slug": "geschmmg_2004", "kind": "§"}, "GebrMG": {"slug": "gebrmg", "kind": "§"}, "HGB": {"slug": "hgb", "kind": "§"}, "TMG": {"slug": "tmg", "kind": "§"}, "GKG": {"slug": "gkg_2004", "kind": "§"}, "MarkenV": {"slug": "markenv_2004", "kind": "§"}, "DPMAV": {"slug": "dpmav", "kind": "§"}, "PAO": {"slug": "pao", "kind": "§"}, "StGB": {"slug": "stgb", "kind": "§"}, "GWB": {"slug": "gwb", "kind": "§"}}, "unlinked": ["UMV", "GMV", "MarkenRL", "PMMA", "MMA", "PVÜ", "TRIPS", "AEUV", "EUV", "DSGVO", "GGV", "EPÜ"], "default": "MarkenG"};
+const LAWABBR = Object.keys(LAW.laws).concat(LAW.unlinked).sort((a, b) => b.length - a.length).join('|');
+const CITE = new RegExp("(\u00a7\u00a7|\u00a7|Art\\.)\\s*(\\d+[a-z]?(?:\\s*(?:bis|,|und|ff\\.|f\\.|/|-|\u2013)\\s*\\d+[a-z]?)*)((?:\\s+(?:Abs\\.|Absatz|Nr\\.|Nummer|Satz|S\\.|lit\\.|Halbsatz|Alt\\.)\\s*[\\w\u00a7]+)*)(?:\\s+(MarkenRL|MarkenG|DesignG|MarkenV|GebrMG|DPMAV|TRIPS|DSGVO|UrhG|PatG|StGB|PMMA|AEUV|BGB|UWG|ZPO|HGB|TMG|GKG|PAO|GWB|UMV|GMV|MMA|PV\u00dc|EUV|GGV|EP\u00dc|GG))?", 'g');
+function lawUrl(num, law){ const e = LAW.laws[law]; if(!e) return null;
+  return LAW.base + e.slug + '/' + (e.kind === 'Art.' ? 'art_' + num + '.html' : '__' + num + '.html'); }
+function lawA(href, label){ return '<a href="' + href + '" target="_blank" rel="noopener" class="lawlink"'
+  + ' title="Auf gesetze-im-internet.de nachlesen">' + label + '</a>'; }
+function lawifyText(s){
+  return s.replace(CITE, function(m, head, nums, sub, law){
+    if(law && LAW.unlinked.indexOf(law) >= 0) return m;
+    if(head === 'Art.' && law !== 'GG') return m;
+    var target = law || LAW.default; if(!LAW.laws[target]) return m;
+    var found = nums.match(new RegExp("\\d+[a-z]?", 'g')) || []; if(!found.length) return m;
+    if(head === '\u00a7\u00a7' && found.length > 1){
+      var rest = m.slice(head.length), o = head, pos = 0;
+      for(var i = 0; i < found.length; i++){ var n = found[i], at = rest.indexOf(n, pos);
+        o += rest.slice(pos, at) + lawA(lawUrl(n, target), n); pos = at + n.length; }
+      return o + rest.slice(pos);
+    }
+    var href = lawUrl(found[0], target); return href ? lawA(href, m) : m;
+  });
+}
+function lawify(html){ if(html == null) return ''; var s = String(html);
+  if(s.indexOf('class="lawlink"') >= 0) return s;
+  return s.split(/(<[^>]*>)/).map(function(p, i){ return i % 2 ? p : lawifyText(p); }).join(''); }
+
+
+const txt = s => lawify(esc(s));
+const mdt = s => lawify(nl(s));
 const TYPE_LABEL = {norm:'Gesetz',concept:'Begriff',schema:'Prüfungsschema',step:'Prüfungspunkt',case:'Entscheidung',distinction:'Abgrenzung',source:'IPWiki'};
 const steps = id => O(id).filter(e=>e.relation==='has_step').sort((a,b)=>a.order-b.order).map(e=>byId.get(e.target));
 const schemaOf = stepId => byId.get('schema:'+stepId.slice(5).split('.')[0]);
@@ -162,7 +198,8 @@ const usedIn = id => { // Begriff/Entscheidung/Norm -> Schemata & Begriffe, die 
 
 // ---------- Chips & inline cards ----------
 function chip(n, ref){ if(!n) return ''; const label = n.type==='norm' && ref ? ref+' MarkenG' : (n.type==='case'? n.court+' '+n.name : n.label);
-  return `<span class="chip ${n.type}" data-node="${n.id}" title="${esc(TYPE_LABEL[n.type])}: ${esc(n.label)}">${esc(label)}</span>`; }
+  const ext = n.type==='norm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf gesetze-im-internet.de nachlesen">↗</a>` : '';
+  return `<span class="chip ${n.type}" data-node="${n.id}" title="${esc(TYPE_LABEL[n.type])}: ${esc(n.label)}">${esc(label)}${ext}</span>`; }
 function chips(list, cls){ if(!list.length) return ''; return `<div class="chips">${list.map(x=>x.node?chip(x.node,x.ref):chip(x)).join('')}</div><div class="slot"></div>`; }
 function section(title, html){ return html ? `<div class="sec"><div class="meta" style="margin-top:8px">${title}</div>${html}</div>` : ''; }
 
@@ -170,22 +207,22 @@ function inlineCard(n, ref){
   const link = `<a href="#/${n.type}/${encodeURIComponent(n.id)}">öffnen ↗</a>`;
   let body='';
   if(n.type==='concept'){
-    body = `<h5>${esc(n.label)}</h5><p class="def">${esc(n.definition)}</p><p class="erl">${esc(n.erlaeuterung)}</p>`
+    body = `<h5>${esc(n.label)}</h5><p class="def">${txt(n.definition)}</p><p class="erl">${txt(n.erlaeuterung)}</p>`
       + section('Normen', chips(norms(n.id))) + section('Rechtsprechung', chips(cases(n.id))) + section('Verwandte Begriffe', chips(concepts(n.id)))
       + section('IPWiki', sources(n.id).map(s=>`<a class="chip source" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>`).join(' '));
   } else if(n.type==='norm'){
     body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5>` + normText(n, ref) + `<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
   } else if(n.type==='case'){
-    body = `<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.court)}, ${fmtDate(n.date)} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p class="def">${esc(n.kern)}</p>`
+    body = `<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.court)}, ${fmtDate(n.date)} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p class="def">${txt(n.kern)}</p>`
       + section('Normen', chips(norms(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='illustrated_by').map(e=>byId.get(e.source))));
   } else if(n.type==='schema'){
-    body = `<h5>${esc(n.label)}</h5><p class="def">${esc(n.beschreibung)}</p><ol>${steps(n.id).map(s=>`<li>${esc(s.label)}</li>`).join('')}</ol>`;
+    body = `<h5>${esc(n.label)}</h5><p class="def">${txt(n.beschreibung)}</p><ol>${steps(n.id).map(s=>`<li>${esc(s.label)}</li>`).join('')}</ol>`;
   } else if(n.type==='step'){
-    body = `<h5>${esc(n.label)}</h5><p class="def">${esc(n.text)}</p>`+section('Begriffe',chips(concepts(n.id)))+section('Normen',chips(norms(n.id)))+section('Rechtsprechung',chips(cases(n.id)));
+    body = `<h5>${esc(n.label)}</h5><p class="def">${txt(n.text)}</p>`+section('Begriffe',chips(concepts(n.id)))+section('Normen',chips(norms(n.id)))+section('Rechtsprechung',chips(cases(n.id)));
   } else if(n.type==='distinction'){
     body = `<h5>${esc(n.label)}</h5>`+cmpTable(n);
   } else if(n.type==='source'){
-    body = `<h5>${esc(n.label)}</h5><p class="def">${esc(n.summary)}</p><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.url)}</a>`;
+    body = `<h5>${esc(n.label)}</h5><p class="def">${txt(n.summary)}</p><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.url)}</a>`;
   }
   return `<div class="inline ${n.type}"><div class="kind"><span>${esc(TYPE_LABEL[n.type])}</span>${link}</div>${body}</div>`;
 }
@@ -193,19 +230,20 @@ function normText(n, ref){
   const m = ref && ref.match(/Abs\. (\d+[a-z]?)/); const want = m?m[1]:null;
   const abs = n.absaetze.filter(a=>!want || a.nr===want || a.nr===null);
   const list = abs.length?abs:n.absaetze;
-  let html = list.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${nl(a.text)}</div>`).join('');
+  let html = list.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${mdt(a.text)}</div>`).join('');
   if(want && abs.length && abs.length<n.absaetze.length) html += `<div class="meta"><span class="chip norm" data-node="${n.id}" data-full="1">ganzen § ${esc(n.nummer)} anzeigen</span></div>`;
   return html;
 }
 function fmtDate(d){ const [y,m,dd]=d.split('-'); return `${dd}.${m}.${y}`; }
 function cmpTable(n){
-  return `<p class="def"><i>${esc(n.frage)}</i></p><div style="overflow-x:auto"><table class="cmp"><tr><th></th>${n.spalten.map(s=>`<th>${esc(s)}</th>`).join('')}</tr>`
-    + n.kriterien.map((k,i)=>`<tr><td>${esc(k)}</td>${n.rows[i].map(v=>`<td>${esc(v)}</td>`).join('')}</tr>`).join('') + `</table></div><div class="merk"><b>Merksatz:</b> ${esc(n.merksatz)}</div>`
+  return `<p class="def"><i>${txt(n.frage)}</i></p><div style="overflow-x:auto"><table class="cmp"><tr><th></th>${n.spalten.map(s=>`<th>${esc(s)}</th>`).join('')}</tr>`
+    + n.kriterien.map((k,i)=>`<tr><td>${esc(k)}</td>${n.rows[i].map(v=>`<td>${txt(v)}</td>`).join('')}</tr>`).join('') + `</table></div><div class="merk"><b>Merksatz:</b> ${txt(n.merksatz)}</div>`
     + section('Begriffe', chips(concepts(n.id)));
 }
 // Click-Delegation: Chip toggelt Inline-Karte im nachfolgenden .slot
 document.addEventListener('click', ev=>{
-  const c = ev.target.closest('.chip[data-node]'); if(!c || c.tagName==='A') return;
+  if(ev.target.closest('a')) return;
+  const c = ev.target.closest('.chip[data-node]'); if(!c) return;
   ev.preventDefault();
   const n = byId.get(c.dataset.node); if(!n) return;
   const row = c.closest('.chips') || c.parentElement; let slot = row.nextElementSibling;
@@ -258,17 +296,17 @@ function tile(href,t,s){ return `<div class="tile" onclick="location.hash='${hre
 function vSchemata(){
   const list = G.nodes.filter(n=>n.type==='schema');
   main.innerHTML = `<h2>Prüfungsschemata</h2><p class="lead">Aufbau wie im Gutachten. Klicke auf einen Prüfungspunkt, um Erläuterung, Definitionen, Normtext und Entscheidungen einzublenden.</p><div class="grid">`+
-    list.map(s=>`<div class="tile" onclick="location.hash='#/schema/${s.id}'"><div class="t">${esc(s.label)}</div><div class="s">${esc(s.beschreibung)}</div><div class="n">${esc(s.kategorie)} · ${steps(s.id).length} Hauptpunkte</div></div>`).join('')+`</div>`;
+    list.map(s=>`<div class="tile" onclick="location.hash='#/schema/${s.id}'"><div class="t">${esc(s.label)}</div><div class="s">${txt(s.beschreibung)}</div><div class="n">${esc(s.kategorie)} · ${steps(s.id).length} Hauptpunkte</div></div>`).join('')+`</div>`;
 }
 function stepLi(s){
   const kids = steps(s.id); const has = kids.length>0;
   const sum = [concepts(s.id).length&&`${concepts(s.id).length} Begriffe`, norms(s.id).length&&`${norms(s.id).length} Normen`, cases(s.id).length&&`${cases(s.id).length} Entscheidungen`].filter(Boolean).join(' · ');
   return `<li><div class="node" data-step="${s.id}"><span class="tw">${has?'▸':'·'}</span><div style="flex:1"><div class="lbl">${esc(s.label)}</div>${sum?`<div class="stepsum">${sum}</div>`:''}</div></div>
-    <div class="body" hidden>${s.text?`<p>${esc(s.text)}</p>`:''}${s.hinweis?`<p class="erl">${esc(s.hinweis)}</p>`:''}${section('Begriffe',chips(concepts(s.id)))}${section('Normen',chips(norms(s.id)))}${section('Rechtsprechung',chips(cases(s.id)))}${has?`<ul>${kids.map(stepLi).join('')}</ul>`:''}</div></li>`;
+    <div class="body" hidden>${s.text?`<p>${txt(s.text)}</p>`:''}${s.hinweis?`<p class="erl">${txt(s.hinweis)}</p>`:''}${section('Begriffe',chips(concepts(s.id)))}${section('Normen',chips(norms(s.id)))}${section('Rechtsprechung',chips(cases(s.id)))}${has?`<ul>${kids.map(stepLi).join('')}</ul>`:''}</div></li>`;
 }
 function vSchema(id){
   const s = byId.get(id); if(!s) return vSchemata();
-  main.innerHTML = `<div class="backlink"><a href="#/schemata">← alle Schemata</a></div><h2>${esc(s.label)}</h2><p class="lead">${esc(s.beschreibung)}</p>
+  main.innerHTML = `<div class="backlink"><a href="#/schemata">← alle Schemata</a></div><h2>${esc(s.label)}</h2><p class="lead">${txt(s.beschreibung)}</p>
     <div class="card">${section('Normen',chips(norms(s.id)))}</div>
     <div class="fcbar" style="justify-content:flex-start"><button id="expAll">alle aufklappen</button><button id="colAll">alle zuklappen</button><button onclick="location.hash='#/cards/schema/${s.id}'">Karteikarten zu diesem Schema</button></div>
     <ul class="tree">${steps(s.id).map(stepLi).join('')}</ul>`;
@@ -285,7 +323,7 @@ function vStep(id){ const s=byId.get(id); if(!s) return vSchemata(); const sc=sc
 function vConcepts(){
   const list = G.nodes.filter(n=>n.type==='concept'); const cats=[...new Set(list.map(c=>c.kategorie))];
   main.innerHTML = `<h2>Begriffe und Definitionen</h2><p class="lead">${list.length} Begriffe. Klicke auf einen Begriff für Definition, Erläuterung, Normen, Rechtsprechung und Verwendung in Prüfungsschemata.</p>`+
-    cats.map(c=>`<h3>${esc(c)}</h3><div class="grid">${list.filter(x=>x.kategorie===c).map(x=>`<div class="tile" onclick="location.hash='#/concept/${x.id}'"><div class="t">${esc(x.label)}</div><div class="s">${esc(x.definition.slice(0,140))}…</div></div>`).join('')}</div>`).join('');
+    cats.map(c=>`<h3>${esc(c)}</h3><div class="grid">${list.filter(x=>x.kategorie===c).map(x=>`<div class="tile" onclick="location.hash='#/concept/${x.id}'"><div class="t">${esc(x.label)}</div><div class="s">${txt(x.definition.slice(0,140))}…</div></div>`).join('')}</div>`).join('');
 }
 function vDistinctions(){
   const list=G.nodes.filter(n=>n.type==='distinction');
@@ -299,7 +337,7 @@ function vCases(){
     document.getElementById('caseList').innerHTML = list.filter(c=>(!ct||c.court===ct)&&(!tg||c.tags.includes(tg))&&(!tx||(c.name+c.kern+c.az).toLowerCase().includes(tx))).map(caseCard).join('')||'<p class="meta">Keine Treffer.</p>'; };
   ['fCourt','fTag','fText'].forEach(i=>document.getElementById(i).addEventListener('input',draw)); draw();
 }
-function caseCard(c){ return `<div class="card"><h4><a href="#/case/${c.id}" style="color:inherit;text-decoration:none">${esc(c.court)} „${esc(c.name)}“</a></h4><div class="meta">${fmtDate(c.date)} – ${esc(c.az)}${c.fundstelle?' – '+esc(c.fundstelle):''} · ${c.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><p class="def">${esc(c.kern)}</p>${chips(norms(c.id))}</div>`; }
+function caseCard(c){ return `<div class="card"><h4><a href="#/case/${c.id}" style="color:inherit;text-decoration:none">${esc(c.court)} „${esc(c.name)}“</a></h4><div class="meta">${fmtDate(c.date)} – ${esc(c.az)}${c.fundstelle?' – '+esc(c.fundstelle):''} · ${c.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><p class="def">${txt(c.kern)}</p>${chips(norms(c.id))}</div>`; }
 function vLaw(){
   const list=G.nodes.filter(n=>n.type==='norm'); let cur=null,curA=null,html='';
   for(const n of list){ if(n.teil!==cur){cur=n.teil;html+=`<div class="h">${esc(cur)}</div>`;curA=null;} if(n.abschnitt&&n.abschnitt!==curA){curA=n.abschnitt;html+=`<div class="h" style="font-weight:500;font-size:13px">${esc(curA)}</div>`;}
@@ -309,7 +347,7 @@ function vLaw(){
 function vSources(){
   const list=G.nodes.filter(n=>n.type==='source');
   main.innerHTML=`<h2>IPWiki-Quellen</h2><p class="lead">Artikel des IPWiki (www.ipwiki.de) zum Markenrecht, die den Begriffen zugeordnet sind. Die Kurzbeschreibungen stammen aus den Suchergebnissen; der Volltext ist auf ipwiki.de abrufbar.</p>`+
-    list.map(s=>`<div class="card"><h4><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></h4><p class="def">${esc(s.summary)}</p>${section('Begriffe',chips(I(s.id).map(e=>byId.get(e.source))))}</div>`).join('');
+    list.map(s=>`<div class="card"><h4><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></h4><p class="def">${txt(s.summary)}</p>${section('Begriffe',chips(I(s.id).map(e=>byId.get(e.source))))}</div>`).join('');
 }
 function vNode(id){
   const n=byId.get(id); if(!n){ main.innerHTML='<p>Nicht gefunden.</p>'; return; }
@@ -349,7 +387,7 @@ function vCards(sub){
     return d; };
   const start=()=>{ deck=filt(); for(let i=deck.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[deck[i],deck[j]]=[deck[j],deck[i]];} pos=0; flipped=false; show(); };
   const show=()=>{ const el=document.getElementById('fcard'); if(!deck.length){el.innerHTML='<div class="txt">Keine Karten für diese Auswahl.</div>';document.getElementById('cProg').textContent='';return;}
-    const c=deck[pos]; el.className='fcard'+(flipped?' back':''); el.innerHTML=`<div class="side">${flipped?'Antwort':'Frage'} · ${esc(TYPN[c.typ]||c.typ)} ${progress[c.id]?`· zuletzt: ${progress[c.id]==='ok'?'gewusst':'nicht gewusst'}`:''}</div><div class="txt">${flipped?nl(c.back):nl(c.front)}</div>${flipped&&c.erlaeuterung?`<p class="erl" style="margin-top:10px">${esc(c.erlaeuterung)}</p>`:''}`;
+    const c=deck[pos]; el.className='fcard'+(flipped?' back':''); el.innerHTML=`<div class="side">${flipped?'Antwort':'Frage'} · ${esc(TYPN[c.typ]||c.typ)} ${progress[c.id]?`· zuletzt: ${progress[c.id]==='ok'?'gewusst':'nicht gewusst'}`:''}</div><div class="txt">${flipped?mdt(c.back):mdt(c.front)}</div>${flipped&&c.erlaeuterung?`<p class="erl" style="margin-top:10px">${txt(c.erlaeuterung)}</p>`:''}`;
     document.getElementById('cProg').textContent=`Karte ${pos+1} / ${deck.length}`; const n=byId.get(c.node); document.getElementById('cLink').innerHTML=n?`<a href="#/${n.type}/${n.id}">Zum Eintrag „${esc(n.label)}“ →</a>`:''; };
   const next=()=>{ if(!deck.length)return; pos=(pos+1)%deck.length; flipped=false; show(); };
   const prev=()=>{ if(!deck.length)return; pos=(pos-1+deck.length)%deck.length; flipped=false; show(); };

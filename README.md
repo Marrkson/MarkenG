@@ -31,10 +31,10 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 `docs/index.html` im Browser öffnen. Keine Installation, keine externen Ressourcen.
 
-- **Prüfungsschemata**: Gutachtenaufbau z.B. für die Markenverletzung (§ 14), die Verwechslungsgefahr,
-  den Bekanntheitsschutz, die Eintragungsfähigkeit (§§ 3, 8), §§ 23/24, Benutzungszwang, §§ 5/15,
-  Widerspruch und Löschung, die relativen Schutzhindernisse im Register (§ 9 Abs. 1 Nr. 1-3) sowie
-  das Vorgehen aus einer Unionsmarke (UMV, § 125b ff.) und aus einer IR-Marke (PMMA, §§ 112-125). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
+- **Prüfungsschemata**: Gutachtenaufbau z.B. für die Markenverletzung ([§ 14](https://www.gesetze-im-internet.de/markeng/__14.html)), die Verwechslungsgefahr,
+  den Bekanntheitsschutz, die Eintragungsfähigkeit (§§ [3](https://www.gesetze-im-internet.de/markeng/__3.html), [8](https://www.gesetze-im-internet.de/markeng/__8.html)), §§ [23](https://www.gesetze-im-internet.de/markeng/__23.html)/[24](https://www.gesetze-im-internet.de/markeng/__24.html), Benutzungszwang, §§ [5](https://www.gesetze-im-internet.de/markeng/__5.html)/[15](https://www.gesetze-im-internet.de/markeng/__15.html),
+  Widerspruch und Löschung, die relativen Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3) sowie
+  das Vorgehen aus einer Unionsmarke (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff.) und aus einer IR-Marke (PMMA, §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
   und Entscheidungen (violett) öffnen sich als Karte direkt an Ort und Stelle – auch verschachtelt.
 - **Karteikarten**: 500 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
   Entscheidungen, Normen). Filter nach Typ und Thema, Karten pro Schema, Tastatursteuerung,
@@ -69,6 +69,28 @@ python3 build.py
 Die Pipeline parst `data/markeng.md`, baut den Graphen aus `src/knowledge/` (inklusive Kursen), erzeugt die Karten und
 rendert beide Apps aus `src/templates/app.html` und `src/templates/kurs.html`. Inhalte werden ausschließlich in `src/knowledge/`
 gepflegt.
+
+## Gesetzeszitate
+
+Jedes Zitat einer deutschen Vorschrift wird automatisch auf
+[gesetze-im-internet.de](https://www.gesetze-im-internet.de/) verlinkt: in beiden Web-Apps
+(Fragen, Lösungen, Definitionen, Entscheidungen, Vergleichstabellen, Gesetzestext) sowie in
+`flashcards/karteikarten.md` (Markdown-Links) und `flashcards/karteikarten.csv` (HTML-Links
+für Anki).
+
+Die Regeln stehen nur an einer Stelle, in `src/knowledge/gesetze.py`; die JavaScript-Fassung
+für die HTML-Apps wird daraus erzeugt (`js_source`), damit beide identisch verlinken:
+
+- Ohne Gesetzesangabe gilt das MarkenG: `§ 14 Abs. 2 Nr. 2` führt zu `markeng/__14.html`.
+- Andere deutsche Gesetze werden an ihrer Abkürzung erkannt (BGB, UWG, ZPO, GG, UrhG, PatG,
+  HGB, TMG, GKG und weitere; Tabelle `LAWS` im Modul).
+- Ketten werden je Vorschrift einzeln verlinkt: `§§ 9 bis 13`, `§§ 3, 7, 8`, `§§ 23/24`,
+  `§§ 112-125`.
+- Unionsrecht und internationale Abkommen (UMV, MarkenRL, PMMA, PVÜ) stehen nicht auf
+  gesetze-im-internet.de und bleiben deshalb unverlinkt.
+- Normen-Chips tragen zusätzlich ein ↗ direkt zur amtlichen Fassung.
+
+Erkennung prüfen: `python3 src/knowledge/gesetze.py` gibt Beispielzitate mit Links aus.
 
 ## Quellen und Hinweise
 

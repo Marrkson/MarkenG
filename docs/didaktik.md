@@ -30,12 +30,12 @@ Kursfarben und Icons. Lückentexte und Gruppierungsaufgaben wurden nicht nachgeb
 | Kurs | Kapitel | Einheiten |
 |---|---|---|
 | 1 Grundlagen des Markenrechts | Schutzgegenstände und Funktionen · Entstehung und Priorität | 11 |
-| 2 Schutzfähigkeit und absolute Schutzhindernisse | § 3 · Unterscheidungskraft · Freihaltebedürfnis, Bösgläubigkeit, Verkehrsdurchsetzung | 17 |
+| 2 Schutzfähigkeit und absolute Schutzhindernisse | [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html) · Unterscheidungskraft · Freihaltebedürfnis, Bösgläubigkeit, Verkehrsdurchsetzung | 17 |
 | 3 Markenverletzung I | Aufbau · Markenmäßige Benutzung · Doppelidentität und Keyword-Advertising | 15 |
 | 4 Markenverletzung II: Verwechslungsgefahr | Faktoren und Wechselwirkung · Zeichenähnlichkeit · Arten | 14 |
-| 5 Markenverletzung III: Bekanntheitsschutz | Bekanntheit und Verknüpfung · Vier Eingriffe · § 9 Abs. 1 Nr. 3 | 12 |
-| 6 Schranken | § 23 · § 24 · Verwirkung, Verjährung, § 22 | 15 |
-| 7 Benutzungszwang, Widerspruch, Löschung | § 26 · §§ 49–52 · §§ 42, 43 | 13 |
+| 5 Markenverletzung III: Bekanntheitsschutz | Bekanntheit und Verknüpfung · Vier Eingriffe · [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) | 12 |
+| 6 Schranken | [§ 23](https://www.gesetze-im-internet.de/markeng/__23.html) · [§ 24](https://www.gesetze-im-internet.de/markeng/__24.html) · Verwirkung, Verjährung, [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html) | 15 |
+| 7 Benutzungszwang, Widerspruch, Löschung | [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html) · §§ [49](https://www.gesetze-im-internet.de/markeng/__49.html)–[52](https://www.gesetze-im-internet.de/markeng/__52.html) · §§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html) | 13 |
 | 8 Geschäftliche Bezeichnungen und Domains | Unternehmenskennzeichen · Werktitel | 8 |
 | 9 Rechtsfolgen und Durchsetzung | Unterlassung und Schadensersatz · Täter, Teilnehmer, Störer | 7 |
 | 10 Unionsmarke und IR-Marke | Unionsmarke · IR-Marke | 11 |

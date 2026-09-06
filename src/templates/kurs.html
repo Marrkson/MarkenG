@@ -133,6 +133,11 @@ nav.bottom a svg{width:22px;height:22px;display:block;margin:0 auto 2px}
 nav.bottom a.active{color:var(--accent)}
 .kbd{font-size:12px;border:1px solid var(--line);border-radius:5px;padding:1px 5px;color:var(--muted)}
 mark{background:var(--accent-soft);color:inherit}
+.lawlink{color:var(--norm);text-decoration:underline;text-decoration-style:dotted;text-underline-offset:2px}
+.lawlink:hover{text-decoration-style:solid}
+.chip .ext{margin-left:2px;text-decoration:none;font-weight:700;opacity:.75}
+.chip .ext:hover{opacity:1}
+
 @media (prefers-reduced-motion: reduce){*{transition:none!important}}
 </style>
 </head>
@@ -154,7 +159,11 @@ const byId = new Map(G.nodes.map(n=>[n.id,n]));
 const out = new Map(); for(const e of G.edges){ (out.get(e.source)||out.set(e.source,[]).get(e.source)).push(e); }
 const O = id => out.get(id)||[];
 const esc = s => String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const md = s => esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>');
+const md0 = s => esc(s).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>');
+__LAWJS__
+
+const md = s => lawify(md0(s));
+const txt = s => lawify(esc(s));
 const UNITS = []; const UNIT = new Map(); const CHAP = new Map(); const KURS = new Map();
 for(const k of KURSE){ KURS.set(k.id,k); for(const c of k.kapitel){ CHAP.set(c.id,c); c.kurs=k.id; for(const e of c.einheiten){ e.kap=c.id; e.kurs=k.id; UNITS.push(e); UNIT.set(e.id,e); } } }
 const QUIZ = e => e.typ==='fall'||e.typ==='mc';
@@ -214,23 +223,25 @@ const norms = id => O(id).filter(e=>['defined_in','applies','interprets'].includ
 const cases = id => O(id).filter(e=>e.relation==='illustrated_by'||e.relation==='cites').map(e=>byId.get(e.target));
 const related = id => O(id).filter(e=>e.relation==='related_to'||e.relation==='uses_concept').map(e=>byId.get(e.target));
 const steps = id => O(id).filter(e=>e.relation==='has_step').sort((a,b)=>a.order-b.order).map(e=>byId.get(e.target));
-function chip(n, ref){ if(!n) return ''; const label = n.type==='norm'&&ref ? ref+' MarkenG' : n.type==='case' ? n.court+' '+n.name : n.label; return `<span class="chip ${n.type}" data-node="${n.id}">${esc(label)}</span>`; }
+function chip(n, ref){ if(!n) return ''; const label = n.type==='norm'&&ref ? ref+' MarkenG' : n.type==='case' ? n.court+' '+n.name : n.label; const ext = n.type==='norm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf gesetze-im-internet.de nachlesen">↗</a>` : '';
+  return `<span class="chip ${n.type}" data-node="${n.id}">${esc(label)}${ext}</span>`; }
 function chips(list){ return list.length ? `<div class="chips">${list.map(x=>x&&x.node!==undefined?chip(x.node,x.ref):chip(x)).join('')}</div><div class="slot"></div>` : ''; }
 function section(t,h){ return h?`<div class="meta" style="margin-top:8px">${t}</div>${h}`:''; }
 function normText(n, ref){ const m=ref&&ref.match(/Abs\. (\d+[a-z]?)/); const want=m?m[1]:null; let list=n.absaetze.filter(a=>!want||a.nr===want||a.nr===null); if(!list.length) list=n.absaetze;
-  let h=list.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${esc(a.text).replace(/\n/g,'<br>')}</div>`).join('');
+  let h=list.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${lawify(esc(a.text).replace(/\n/g,'<br>'))}</div>`).join('');
   if(want&&list.length<n.absaetze.length) h+=`<div class="chips"><span class="chip norm" data-node="${n.id}" data-full="1">ganzen ${esc(n.label)} anzeigen</span></div><div class="slot"></div>`; return h; }
 function inlineCard(n, ref){
   let b='';
-  if(n.type==='concept') b=`<h5>${esc(n.label)}</h5><p>${esc(n.definition)}</p><p class="meta">${esc(n.erlaeuterung)}</p>${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id).slice(0,6)))}${section('Verwandt',chips(related(n.id).slice(0,6)))}`;
+  if(n.type==='concept') b=`<h5>${esc(n.label)}</h5><p>${txt(n.definition)}</p><p class="meta">${txt(n.erlaeuterung)}</p>${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id).slice(0,6)))}${section('Verwandt',chips(related(n.id).slice(0,6)))}`;
   else if(n.type==='norm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5>${normText(n,ref)}<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
-  else if(n.type==='case') b=`<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p>${esc(n.kern)}</p>${section('Normen',chips(norms(n.id)))}`;
-  else if(n.type==='step') b=`<h5>${esc(n.label)}</h5><p>${esc(n.text)}</p>${section('Begriffe',chips(related(n.id)))}${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id)))}`;
-  else if(n.type==='schema') b=`<h5>${esc(n.label)}</h5><p>${esc(n.beschreibung)}</p>`;
+  else if(n.type==='case') b=`<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p>${txt(n.kern)}</p>${section('Normen',chips(norms(n.id)))}`;
+  else if(n.type==='step') b=`<h5>${esc(n.label)}</h5><p>${txt(n.text)}</p>${section('Begriffe',chips(related(n.id)))}${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id)))}`;
+  else if(n.type==='schema') b=`<h5>${esc(n.label)}</h5><p>${txt(n.beschreibung)}</p>`;
   const kinds={concept:'Definition',norm:'Gesetz',case:'Entscheidung',step:'Prüfungspunkt',schema:'Prüfungsschema'};
   return `<div class="inline ${n.type}"><div class="k">${kinds[n.type]||n.type}</div>${b}</div>`;
 }
 document.addEventListener('click', ev=>{
+  if(ev.target.closest('a')) return;
   const c=ev.target.closest('.chip[data-node]'); if(!c) return; const n=byId.get(c.dataset.node); if(!n) return;
   const row=c.closest('.chips'); let slot=row.nextElementSibling; if(!slot||!slot.classList.contains('slot')){ slot=document.createElement('div'); slot.className='slot'; row.after(slot); }
   const wasOpen=c.classList.contains('open')&&!c.dataset.full; row.querySelectorAll('.chip.open').forEach(x=>x.classList.remove('open'));
@@ -238,7 +249,7 @@ document.addEventListener('click', ev=>{
   slot.innerHTML=inlineCard(n, c.dataset.full?null:(n.type==='norm'?c.textContent.replace(' MarkenG',''):null));
 });
 function schemaTree(schemaId){
-  const li = s => { const kids=steps(s.id); return `<li><div class="node" data-step><span class="tw">${kids.length?'▸':'·'}</span><div><div class="lbl">${esc(s.label)}</div></div></div><div class="body" hidden>${s.text?`<p>${esc(s.text)}</p>`:''}${section('Begriffe',chips(related(s.id)))}${section('Normen',chips(norms(s.id)))}${section('Rechtsprechung',chips(cases(s.id)))}${kids.length?`<ul>${kids.map(li).join('')}</ul>`:''}</div></li>`; };
+  const li = s => { const kids=steps(s.id); return `<li><div class="node" data-step><span class="tw">${kids.length?'▸':'·'}</span><div><div class="lbl">${esc(s.label)}</div></div></div><div class="body" hidden>${s.text?`<p>${txt(s.text)}</p>`:''}${section('Begriffe',chips(related(s.id)))}${section('Normen',chips(norms(s.id)))}${section('Rechtsprechung',chips(cases(s.id)))}${kids.length?`<ul>${kids.map(li).join('')}</ul>`:''}</div></li>`; };
   return `<ul class="tree">${steps(schemaId).map(li).join('')}</ul>`;
 }
 document.addEventListener('click', ev=>{ const n=ev.target.closest('.node[data-step]'); if(!n) return; const b=n.nextElementSibling; b.hidden=!b.hidden; const tw=n.querySelector('.tw'); if(tw.textContent!=='·') tw.textContent=b.hidden?'▸':'▾'; });
@@ -261,13 +272,13 @@ function vHome(){
   const all=progOf(UNITS.filter(QUIZ)); const dueN=UNITS.filter(due).length; const nx=nextUnit();
   main.innerHTML=`<h1>Hallo! Bereit für ein paar Fälle?</h1><p class="lead">Kleine Fälle, eine Frage, sofortige Lösung. Jeder Fall trainiert genau einen Prüfungspunkt des Markenrechts.</p>
   <div class="card hero"><div><div class="meta">Gesamtfortschritt</div><div style="font-size:22px;font-weight:800">${all.ok} von ${all.total} Fällen gelöst</div><div class="meta" style="margin-top:4px">${dueN?`${dueN} zur Wiederholung fällig`:'Nichts fällig, weiter so'}</div><div class="row" style="margin-bottom:0"><a class="btn primary" href="#/lernen/${nx.id}">Weiter lernen</a>${dueN?`<a class="btn" href="#/wdh">Wiederholen</a>`:''}</div></div>${ring(all.pct)}</div>
-  <h2>Kurse</h2>${KURSE.map(k=>{ const p=progOf(unitsOf(k).filter(QUIZ)); return `<div class="card course" style="--c:${k.farbe}" onclick="location.hash='#/kurs/${k.id}'"><div class="ico">${ICONS[k.icon]||ICONS.marke}</div><div><div class="t">${esc(k.titel)}</div><div class="s">${esc(k.untertitel)}</div><div class="m"><div class="bar ${p.pct===100?'ok':''}"><i style="width:${p.pct}%"></i></div><span>${p.ok}/${p.total}</span></div></div></div>`; }).join('')}
+  <h2>Kurse</h2>${KURSE.map(k=>{ const p=progOf(unitsOf(k).filter(QUIZ)); return `<div class="card course" style="--c:${k.farbe}" onclick="location.hash='#/kurs/${k.id}'"><div class="ico">${ICONS[k.icon]||ICONS.marke}</div><div><div class="t">${esc(k.titel)}</div><div class="s">${txt(k.untertitel)}</div><div class="m"><div class="bar ${p.pct===100?'ok':''}"><i style="width:${p.pct}%"></i></div><span>${p.ok}/${p.total}</span></div></div></div>`; }).join('')}
   <p class="meta">Fortschritt wird ${Store.mode()==='cookie'?'in einem Cookie':'im Browserspeicher'} auf diesem Gerät gespeichert.</p>`;
 }
 function vKurs(id){
   const k=KURS.get(id); if(!k) return vHome(); chrome(k.titel,'#/',streakPill());
   const p=progOf(unitsOf(k).filter(QUIZ));
-  main.innerHTML=`<h1 style="color:${k.farbe}">${esc(k.titel)}</h1><p class="lead">${esc(k.beschreibung)}</p>
+  main.innerHTML=`<h1 style="color:${k.farbe}">${esc(k.titel)}</h1><p class="lead">${txt(k.beschreibung)}</p>
   <div class="card" style="display:grid;grid-template-columns:1fr auto;gap:14px;align-items:center"><div><b>${p.ok} von ${p.total} Fällen gelöst</b><div class="bar" style="margin-top:8px"><i style="width:${p.pct}%"></i></div></div><a class="btn primary" href="#/lernen/${(unitsOf(k).find(e=>!P.u[e.id])||unitsOf(k)[0]).id}">${p.done?'Fortsetzen':'Starten'}</a></div>
   ${k.kapitel.map((c,i)=>{ const cp=progOf(c.einheiten.filter(QUIZ)); return `<div class="chap"><div class="h"><span class="n">${i+1}</span><span>${esc(c.titel)}</span><div class="bar ${cp.pct===100?'ok':''}"><i style="width:${cp.pct}%"></i></div><span class="meta">${cp.ok}/${cp.total}</span></div>
     ${c.einheiten.map(e=>{ const s=st(e); const ty={fall:'Fall',mc:'Quiz',intro:'Info',schema:'Schema'}[e.typ]; return `<div class="card unit ${s}" onclick="location.hash='#/lernen/${e.id}'"><div class="ty ${e.typ}">${ty}</div><div class="t">${esc(e.titel)}${e.level?`<div class="lvl">${['','Basics','Fortgeschritten','Examen'][e.level]}</div>`:''}</div><div class="st ${s}">${s==='ok'?'✓':s==='bad'?'✗':''}</div></div>`; }).join('')}</div>`; }).join('')}`;
@@ -277,15 +288,15 @@ function vLernen(id){
   const idx=c.einheiten.indexOf(e); const next=c.einheiten[idx+1];
   chrome(`${k.titel}`, `#/kurs/${k.id}`, `<span class="pill">${idx+1}/${c.einheiten.length}</span>`);
   const pct=Math.round(idx/c.einheiten.length*100);
-  const refs = section('Begriffe',chips(e.concepts.map(x=>byId.get('concept:'+x))))+section('Normen',chips(e.norms.map(r=>({node:byId.get('norm:'+r.match(/§ (\d+[a-z]?)/)[1]),ref:r}))))+section('Rechtsprechung',chips(e.cases.map(x=>byId.get('case:'+x))))+(e.step?section('Im Prüfungsschema',chips([byId.get(e.step)])):'');
+  const refs = section('Begriffe',chips(e.concepts.map(x=>byId.get('concept:'+x))))+section('Normen',chips(e.norms.map(r=>({node:byId.get('norm:§'+r.match(/§ (\d+[a-z]?)/)[1]),ref:r}))))+section('Rechtsprechung',chips(e.cases.map(x=>byId.get('case:'+x))))+(e.step?section('Im Prüfungsschema',chips([byId.get(e.step)])):'');
   const nextBtn = next ? `<a class="btn primary block" href="#/lernen/${next.id}">Weiter →</a>` : `<a class="btn primary block" href="#/ende/${c.id}">Kapitel abschließen ✓</a>`;
   let body='';
   if(e.typ==='intro'){ body=`<div class="kind">Einführung</div><h1>${esc(e.titel)}</h1><div class="intro"><p>${md(e.text)}</p></div>${refs}<div class="row" id="nav" style="margin-top:20px"><button class="btn primary block" id="ok">Verstanden, weiter →</button></div>`; }
-  else if(e.typ==='schema'){ const s=byId.get('schema:'+e.schema); body=`<div class="kind">Prüfungsschema</div><h1>${esc(e.titel)}</h1>${e.text?`<p class="lead">${md(e.text)}</p>`:''}<div class="card"><div class="meta" style="margin-bottom:8px">${esc(s?s.beschreibung:'')}</div>${schemaTree('schema:'+e.schema)}</div><div class="row" style="margin-top:20px"><button class="btn primary block" id="ok">Gelesen, weiter →</button></div>`; }
+  else if(e.typ==='schema'){ const s=byId.get('schema:'+e.schema); body=`<div class="kind">Prüfungsschema</div><h1>${esc(e.titel)}</h1>${e.text?`<p class="lead">${md(e.text)}</p>`:''}<div class="card"><div class="meta" style="margin-bottom:8px">${txt(s?s.beschreibung:'')}</div>${schemaTree('schema:'+e.schema)}</div><div class="row" style="margin-top:20px"><button class="btn primary block" id="ok">Gelesen, weiter →</button></div>`; }
   else {
     const lvl=['','Basics','Fortgeschritten','Examen'][e.level]||''; const prev=P.u[e.id];
-    body=`<div class="kind">${e.typ==='fall'?'Fall':'Wissensfrage'} · ${lvl}${prev?` · zuletzt ${prev.r?'richtig':'falsch'}`:''}</div><h1>${esc(e.titel)}</h1>${e.sachverhalt?`<div class="sv">${esc(e.sachverhalt)}</div>`:''}<div class="frage">${esc(e.frage)}</div>
-      <div class="answers ${e.typ==='fall'?'yn':''}" id="answers">${e.typ==='fall'?`<button class="ans" data-v="1">Ja</button><button class="ans" data-v="0">Nein</button>`:e.optionen.map((o,i)=>`<button class="ans" data-v="${i}">${esc(o)}</button>`).join('')}</div>
+    body=`<div class="kind">${e.typ==='fall'?'Fall':'Wissensfrage'} · ${lvl}${prev?` · zuletzt ${prev.r?'richtig':'falsch'}`:''}</div><h1>${esc(e.titel)}</h1>${e.sachverhalt?`<div class="sv">${txt(e.sachverhalt)}</div>`:''}<div class="frage">${txt(e.frage)}</div>
+      <div class="answers ${e.typ==='fall'?'yn':''}" id="answers">${e.typ==='fall'?`<button class="ans" data-v="1">Ja</button><button class="ans" data-v="0">Nein</button>`:e.optionen.map((o,i)=>`<button class="ans" data-v="${i}">${txt(o)}</button>`).join('')}</div>
       <div id="result" hidden><div id="fb"></div><div class="card"><div class="kind" style="margin-bottom:6px">Lösung</div><div class="loes">${e.loesung.map(p=>`<p>${md(p)}</p>`).join('')}</div>${e.merke?`<div class="merke"><b>Merke:</b> ${md(e.merke)}</div>`:''}${refs}</div><div class="row" style="margin-top:16px">${nextBtn}</div></div>`;
   }
   main.innerHTML=`<div class="bar" style="margin:4px 0 14px"><i style="width:${pct}%"></i></div>${body}`;

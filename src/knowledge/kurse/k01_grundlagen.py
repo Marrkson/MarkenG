@@ -74,7 +74,7 @@ KURS = dict(
                ["20 Jahre ab Anmeldung, nicht verlängerbar", "10 Jahre ab Anmeldetag, beliebig oft um 10 Jahre verlängerbar", "10 Jahre ab Eintragung, einmal verlängerbar", "Unbegrenzt ohne Verlängerung"], 1,
                ["Die Schutzdauer beträgt **zehn Jahre ab dem Anmeldetag** und kann durch Zahlung der Verlängerungsgebühr beliebig oft um jeweils zehn Jahre verlängert werden (§ 47).",
                 "Anders als Patent und Design kann eine Marke also **ewig** leben, solange sie verlängert und rechtserhaltend benutzt wird (§ 26)."],
-               norms=["§ 47"], concepts=["entstehung_markenschutz"]),
+               norms=["§ 47", "Art. 48 MarkenRL", "Art. 49 MarkenRL"], concepts=["entstehung_markenschutz", "schutzdauer"]),
         ]),
     ],
 )

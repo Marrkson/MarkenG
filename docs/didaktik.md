@@ -49,3 +49,7 @@ Zwei Cookies (`mgk_p` Einheiten mit Ergebnis, Tag und Wiederholungszähler; `mgk
 Punkte, letzte Einheit, Hinweis bestätigt), Laufzeit ein Jahr, `SameSite=Lax`, keine
 Übermittlung an einen Server. Wird die Seite als lokale Datei geöffnet, akzeptiert der Browser
 keine Cookies; dann weicht die App automatisch auf `localStorage` aus und sagt das im Profil.
+
+## Kurs 11: Die Markenrechtsrichtlinie (EU) 2015/2436
+
+Der Kurs folgt demselben Format, behandelt aber die Ebene über dem MarkenG: Aufbau der Richtlinie, richtlinienkonforme Auslegung und Vorlage an den EuGH, dann die Artikel 3 bis 18 und die Verfahrensvorschriften mit ihren Umsetzungen im MaMoG 2019 (Transit, Vorbereitungshandlungen, Namensschranke, Schonfrist, Cooling-off, Amtsverfahren, Gewährleistungsmarke). Zusätzlich verweisen zehn bestehende Fälle der Kurse 1 bis 7 nun auf den jeweils zugrunde liegenden Richtlinienartikel.

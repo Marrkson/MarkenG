@@ -104,11 +104,11 @@ h3{font-size:16px;margin:14px 0 6px}
 .chips{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0 2px}
 .chip{display:inline-flex;align-items:center;gap:5px;font-size:13px;padding:5px 11px;border-radius:20px;cursor:pointer;user-select:none;border:1px solid transparent;font-weight:600}
 .chip::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor;opacity:.8}
-.chip.concept{background:var(--concept-soft);color:var(--concept)}.chip.norm{background:var(--norm-soft);color:var(--norm)}.chip.case{background:var(--case-soft);color:var(--case)}.chip.step,.chip.schema{background:var(--schema-soft);color:var(--schema)}.chip.distinction{background:var(--accent-soft);color:var(--accent-deep)}
+.chip.concept{background:var(--concept-soft);color:var(--concept)}.chip.norm,.chip.eunorm{background:var(--norm-soft);color:var(--norm)}.chip.case{background:var(--case-soft);color:var(--case)}.chip.step,.chip.schema{background:var(--schema-soft);color:var(--schema)}.chip.distinction{background:var(--accent-soft);color:var(--accent-deep)}
 .chip.open{border-color:currentColor}
 .slot:empty{display:none}
 .inline{border-left:3px solid var(--line);margin:8px 0;padding:10px 14px;background:var(--card);border-radius:0 12px 12px 0;box-shadow:var(--shadow);font-size:15px}
-.inline.concept{border-left-color:var(--concept)}.inline.norm{border-left-color:var(--norm)}.inline.case{border-left-color:var(--case)}.inline.step,.inline.schema{border-left-color:var(--schema)}
+.inline.concept{border-left-color:var(--concept)}.inline.norm,.inline.eunorm{border-left-color:var(--norm)}.inline.case{border-left-color:var(--case)}.inline.step,.inline.schema{border-left-color:var(--schema)}
 .inline h5{margin:2px 0 6px;font-size:15px}
 .inline .k{font-size:11px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 .inline p{margin:0 0 6px}
@@ -167,6 +167,7 @@ const txt = s => lawify(esc(s));
 const UNITS = []; const UNIT = new Map(); const CHAP = new Map(); const KURS = new Map();
 for(const k of KURSE){ KURS.set(k.id,k); for(const c of k.kapitel){ CHAP.set(c.id,c); c.kurs=k.id; for(const e of c.einheiten){ e.kap=c.id; e.kurs=k.id; UNITS.push(e); UNIT.set(e.id,e); } } }
 const QUIZ = e => e.typ==='fall'||e.typ==='mc';
+const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?: .*)? MarkenRL$/); if(m) return byId.get('eunorm:markenrl:'+m[1]); m=r.match(/§ (\d+[a-z]?)/); return m?byId.get('norm:§'+m[1]):null; };
 const ICONS = {
   marke:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 12l-8 8-8-8V4h8z"/><circle cx="8.5" cy="8.5" r="1.5" fill="currentColor"/></svg>',
   register:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>',
@@ -223,7 +224,7 @@ const norms = id => O(id).filter(e=>['defined_in','applies','interprets'].includ
 const cases = id => O(id).filter(e=>e.relation==='illustrated_by'||e.relation==='cites').map(e=>byId.get(e.target));
 const related = id => O(id).filter(e=>e.relation==='related_to'||e.relation==='uses_concept').map(e=>byId.get(e.target));
 const steps = id => O(id).filter(e=>e.relation==='has_step').sort((a,b)=>a.order-b.order).map(e=>byId.get(e.target));
-function chip(n, ref){ if(!n) return ''; const label = n.type==='norm'&&ref ? ref+' MarkenG' : n.type==='case' ? n.court+' '+n.name : n.label; const ext = n.type==='norm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf gesetze-im-internet.de nachlesen">↗</a>` : '';
+function chip(n, ref){ if(!n) return ''; const label = n.type==='norm'&&ref ? ref+' MarkenG' : n.type==='eunorm'&&ref ? ref : n.type==='case' ? n.court+' '+n.name : n.label; const ext = n.type==='norm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf gesetze-im-internet.de nachlesen">↗</a>` : n.type==='eunorm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf EUR-Lex nachlesen">↗</a>` : '';
   return `<span class="chip ${n.type}" data-node="${n.id}">${esc(label)}${ext}</span>`; }
 function chips(list){ return list.length ? `<div class="chips">${list.map(x=>x&&x.node!==undefined?chip(x.node,x.ref):chip(x)).join('')}</div><div class="slot"></div>` : ''; }
 function section(t,h){ return h?`<div class="meta" style="margin-top:8px">${t}</div>${h}`:''; }
@@ -234,10 +235,11 @@ function inlineCard(n, ref){
   let b='';
   if(n.type==='concept') b=`<h5>${esc(n.label)}</h5><p>${txt(n.definition)}</p><p class="meta">${txt(n.erlaeuterung)}</p>${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id).slice(0,6)))}${section('Verwandt',chips(related(n.id).slice(0,6)))}`;
   else if(n.type==='norm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5>${normText(n,ref)}<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
+  else if(n.type==='eunorm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)}${n.abschnitt?' · '+esc(n.abschnitt):''}</div>${n.absaetze.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${txt(a.text)}</div>`).join('')}${n.hinweis?`<div class="merke"><b>Umsetzung:</b> ${txt(n.hinweis)}</div>`:''}<div class="meta">Paraphrase; Wortlaut auf <a href="${esc(n.url)}" target="_blank" rel="noopener">EUR-Lex ↗</a></div>`;
   else if(n.type==='case') b=`<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p>${txt(n.kern)}</p>${section('Normen',chips(norms(n.id)))}`;
   else if(n.type==='step') b=`<h5>${esc(n.label)}</h5><p>${txt(n.text)}</p>${section('Begriffe',chips(related(n.id)))}${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id)))}`;
   else if(n.type==='schema') b=`<h5>${esc(n.label)}</h5><p>${txt(n.beschreibung)}</p>`;
-  const kinds={concept:'Definition',norm:'Gesetz',case:'Entscheidung',step:'Prüfungspunkt',schema:'Prüfungsschema'};
+  const kinds={concept:'Definition',norm:'Gesetz',eunorm:'Richtlinie',case:'Entscheidung',step:'Prüfungspunkt',schema:'Prüfungsschema'};
   return `<div class="inline ${n.type}"><div class="k">${kinds[n.type]||n.type}</div>${b}</div>`;
 }
 document.addEventListener('click', ev=>{
@@ -288,7 +290,7 @@ function vLernen(id){
   const idx=c.einheiten.indexOf(e); const next=c.einheiten[idx+1];
   chrome(`${k.titel}`, `#/kurs/${k.id}`, `<span class="pill">${idx+1}/${c.einheiten.length}</span>`);
   const pct=Math.round(idx/c.einheiten.length*100);
-  const refs = section('Begriffe',chips(e.concepts.map(x=>byId.get('concept:'+x))))+section('Normen',chips(e.norms.map(r=>({node:byId.get('norm:§'+r.match(/§ (\d+[a-z]?)/)[1]),ref:r}))))+section('Rechtsprechung',chips(e.cases.map(x=>byId.get('case:'+x))))+(e.step?section('Im Prüfungsschema',chips([byId.get(e.step)])):'');
+  const refs = section('Begriffe',chips(e.concepts.map(x=>byId.get('concept:'+x))))+section('Normen',chips(e.norms.map(r=>({node:normNode(r),ref:r}))))+section('Rechtsprechung',chips(e.cases.map(x=>byId.get('case:'+x))))+(e.step?section('Im Prüfungsschema',chips([byId.get(e.step)])):'');
   const nextBtn = next ? `<a class="btn primary block" href="#/lernen/${next.id}">Weiter →</a>` : `<a class="btn primary block" href="#/ende/${c.id}">Kapitel abschließen ✓</a>`;
   let body='';
   if(e.typ==='intro'){ body=`<div class="kind">Einführung</div><h1>${esc(e.titel)}</h1><div class="intro"><p>${md(e.text)}</p></div>${refs}<div class="row" id="nav" style="margin-top:20px"><button class="btn primary block" id="ok">Verstanden, weiter →</button></div>`; }

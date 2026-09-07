@@ -335,6 +335,31 @@ SCHEMATA = [
                  concepts=["ir_benutzungsschonfrist", "benutzungsschonfrist"], norms=["§ 115", "§ 116", "§ 117"]),
         ],
     ),
+    dict(
+        id="schema_markenrl",
+        label="Unionsrechtlicher Rahmen: Markenrechtsrichtlinie anwenden",
+        kategorie="EU- und IR-Marken",
+        beschreibung="Wie die MarkenRL (EU) 2015/2436 in der Fallbearbeitung wirkt: Aufbau der Richtlinie, Zuordnung der MarkenG-Normen, richtlinienkonforme Auslegung und EuGH-Vorlage.",
+        norms=["Art. 1 MarkenRL", "Art. 10 MarkenRL", "Art. 54 MarkenRL"],
+        steps=[
+            step("1. Anwendungsbereich prüfen", "Erfasst sind eingetragene und angemeldete Marken sowie IR-Marken mit Wirkung im Mitgliedstaat (Art. 1). Nicht harmonisiert: Benutzungsmarken (§ 4 Nr. 2), geschäftliche Bezeichnungen (§ 5), Rechtsfolgen (§§ 14 Abs. 5 ff., 18, 19: Durchsetzungs-RL 2004/48/EG).",
+                 concepts=["markenrl"], norms=["Art. 1 MarkenRL", "§ 1"]),
+            step("2. Aufbau der Richtlinie kennen", children=[
+                step("Kapitel 2 Abschnitt 1 und 2: Markenformen, Eintragungshindernisse", "Art. 3 (Markenformen), Art. 4 (absolute), Art. 5 (relative Gründe), Art. 6 (Seniorität), Art. 7 (Teilzurückweisung), Art. 8 (Zeitpunkt), Art. 9 (Duldung).", concepts=["markenfaehigkeit", "absolute_schutzhindernisse", "relative_schutzhindernisse", "koexistenz_22", "verwirkung"], norms=["Art. 3 MarkenRL", "Art. 4 MarkenRL", "Art. 5 MarkenRL", "Art. 8 MarkenRL", "Art. 9 MarkenRL"]),
+                step("Kapitel 2 Abschnitt 3: Rechte und Schranken", "Art. 10 (Rechte, Transit), Art. 11 (Vorbereitungshandlungen), Art. 12 (Nachschlagewerke), Art. 13 (Agentenmarke), Art. 14 (Schranken), Art. 15 (Erschöpfung), Art. 16 (Benutzung), Art. 17 (Einrede), Art. 18 (Zwischenrecht).", concepts=["doppelidentitaet", "verwechslungsgefahr", "bekannte_marke", "transit", "vorbereitungshandlungen", "schranke_23", "erschoepfung", "rechtserhaltende_benutzung"], norms=["Art. 10 MarkenRL", "Art. 14 MarkenRL", "Art. 15 MarkenRL", "Art. 16 MarkenRL", "Art. 18 MarkenRL"]),
+                step("Kapitel 2 Abschnitt 4 bis 6: Verfall, Vermögen, Kollektivmarken", "Art. 19 bis 21 (Verfall), Art. 22 bis 26 (Übertragung, Lizenz), Art. 27 bis 36 (Gewährleistungs- und Kollektivmarken).", concepts=["verfall", "lizenz", "kollektivmarke"], norms=["Art. 19 MarkenRL", "Art. 25 MarkenRL", "Art. 28 MarkenRL"]),
+                step("Kapitel 3: Verfahren", "Art. 37 bis 42 (Anmeldung, Klassifizierung), Art. 43 bis 47 (Widerspruch, Verfall/Nichtigkeit vor dem Amt, Wirkungen), Art. 48, 49 (Schutzdauer).", concepts=["klassifizierung", "widerspruch", "verwaltungsverfahren_loeschung", "schutzdauer"], norms=["Art. 39 MarkenRL", "Art. 43 MarkenRL", "Art. 45 MarkenRL", "Art. 48 MarkenRL"]),
+            ]),
+            step("3. Zugehörige MarkenG-Norm zuordnen", "Umsetzungstabelle: Art. 3 → §§ 3, 8 Abs. 1; Art. 4 → § 8 Abs. 2; Art. 5 → §§ 9 ff.; Art. 10 → § 14; Art. 14 → § 23; Art. 15 → § 24; Art. 16 → § 26; Art. 18 → § 22; Art. 19/20 → § 49; Art. 43 → § 42; Art. 45 → § 53; Art. 48/49 → § 47.",
+                 concepts=["markenrl"], norms=["§ 14", "§ 23", "§ 24", "§ 26"]),
+            step("4. Richtlinienkonform auslegen", "Unionsrechtliche Begriffe (Unterscheidungskraft, Verwechslungsgefahr, Bekanntheit, ernsthafte Benutzung) haben die vom EuGH gegebene Bedeutung; EuGH-Urteile zur UMV sind wegen des Gleichlaufs übertragbar. Nationale Spielräume nur bei Optionen der Richtlinie (Art. 4 Abs. 3, Art. 5 Abs. 4, Art. 28 Abs. 1).",
+                 concepts=["richtlinienkonforme_auslegung"], cases=["bgh_darferdas_ii", "bgh_otto_cap", "eugh_thomson_life"]),
+            step("5. Bei Zweifeln: Vorlage an den EuGH", "Art. 267 AEUV: Vorlagerecht jedes Gerichts, Vorlagepflicht des BGH als letztinstanzliches Gericht, sofern die Frage nicht bereits geklärt (acte éclairé) oder offenkundig (acte clair) ist. Beispiele: #darferdas? (C-541/18), Thomson Life (C-120/04), Iron & Smith (C-125/14).",
+                 concepts=["richtlinienkonforme_auslegung"], cases=["eugh_darferdas", "eugh_thomson_life", "eugh_iron_smith"]),
+            step("6. Übergangsrecht beachten", "Umsetzung bis 14.1.2019 (Art. 54), für Art. 45 bis 14.1.2023; MaMoG in Kraft seit 14.1.2019, DPMA-Nichtigkeitsverfahren seit 1.5.2020. Für Altfälle gilt § 158 MarkenG.",
+                 concepts=["markenrl"], norms=["Art. 54 MarkenRL", "§ 158"]),
+        ],
+    ),
 ]
 
 SCHEMA_INDEX = {s["id"]: s for s in SCHEMATA}

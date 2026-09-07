@@ -3,7 +3,7 @@
   "id": "card:definition:concept:marke",
   "typ": "definition",
   "front": "Definiere: Marke",
-  "back": "Ein Zeichen, das geeignet ist, Waren oder Dienstleistungen eines Unternehmens von denjenigen anderer Unternehmen zu unterscheiden (§ 3 Abs. 1 MarkenG). Schutz entsteht durch Eintragung, Verkehrsgeltung oder notorische Bekanntheit (§ 4 MarkenG).\n\nNormen: § 1, § 3, § 4 MarkenG",
+  "back": "Ein Zeichen, das geeignet ist, Waren oder Dienstleistungen eines Unternehmens von denjenigen anderer Unternehmen zu unterscheiden (§ 3 Abs. 1 MarkenG). Schutz entsteht durch Eintragung, Verkehrsgeltung oder notorische Bekanntheit (§ 4 MarkenG).\n\nNormen: Art. 1 MarkenRL, § 1, § 3, § 4 MarkenG",
   "tags": [
    "Begriff",
    "Grundlagen"
@@ -27,7 +27,7 @@
   "id": "card:definition:concept:markenfunktionen",
   "typ": "definition",
   "front": "Definiere: Funktionen der Marke",
-  "back": "Hauptfunktion ist die Herkunftsfunktion (Garantie der Ursprungsidentität). Daneben schützt der EuGH die Qualitäts- (Garantie-), Kommunikations-, Investitions- und Werbefunktion.\n\nNormen: § 14 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Arsenal Football Club (C-206/01); EuGH L'Oréal/Bellure (C-487/07); EuGH Interflora/Marks & Spencer (C-323/09); BGH Opel-Blitz II (I ZR 88/08)",
+  "back": "Hauptfunktion ist die Herkunftsfunktion (Garantie der Ursprungsidentität). Daneben schützt der EuGH die Qualitäts- (Garantie-), Kommunikations-, Investitions- und Werbefunktion.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Arsenal Football Club (C-206/01); EuGH L'Oréal/Bellure (C-487/07); EuGH Interflora/Marks & Spencer (C-323/09); BGH Opel-Blitz II (I ZR 88/08)",
   "tags": [
    "Begriff",
    "Grundlagen"
@@ -75,7 +75,7 @@
   "id": "card:definition:concept:entstehung_markenschutz",
   "typ": "definition",
   "front": "Definiere: Entstehung des Markenschutzes (§ 4)",
-  "back": "Markenschutz entsteht (1) durch Eintragung in das Register des DPMA (§ 4 Nr. 1), (2) durch Benutzung im geschäftlichen Verkehr mit Verkehrsgeltung innerhalb der beteiligten Verkehrskreise (§ 4 Nr. 2, Benutzungsmarke) oder (3) durch notorische Bekanntheit i.S.d. Art. 6bis PVÜ (§ 4 Nr. 3).\n\nNormen: § 4, § 6 MarkenG",
+  "back": "Markenschutz entsteht (1) durch Eintragung in das Register des DPMA (§ 4 Nr. 1), (2) durch Benutzung im geschäftlichen Verkehr mit Verkehrsgeltung innerhalb der beteiligten Verkehrskreise (§ 4 Nr. 2, Benutzungsmarke) oder (3) durch notorische Bekanntheit i.S.d. Art. 6bis PVÜ (§ 4 Nr. 3).\n\nNormen: Art. 37 MarkenRL, Art. 38 MarkenRL, § 4, § 6 MarkenG",
   "tags": [
    "Begriff",
    "Grundlagen"
@@ -99,7 +99,7 @@
   "id": "card:definition:concept:prioritaet",
   "typ": "definition",
   "front": "Definiere: Vorrang und Zeitrang (Prioritätsprinzip)",
-  "back": "Bei der Kollision von Kennzeichenrechten hat das Recht mit dem älteren Zeitrang Vorrang (§ 6 Abs. 1). Zeitrang der Registermarke ist der Anmeldetag (§ 6 Abs. 2 i.V.m. § 33 Abs. 1), ggf. der Prioritätstag (§§ 34, 35); bei sonstigen Rechten der Zeitpunkt des Rechtserwerbs (§ 6 Abs. 3). Bei gleichem Zeitrang: Koexistenz (§ 6 Abs. 4).\n\nNormen: § 6, § 33, § 34, § 35 MarkenG\n\nRechtsprechung: BGH Baumann II (I ZR 241/14)",
+  "back": "Bei der Kollision von Kennzeichenrechten hat das Recht mit dem älteren Zeitrang Vorrang (§ 6 Abs. 1). Zeitrang der Registermarke ist der Anmeldetag (§ 6 Abs. 2 i.V.m. § 33 Abs. 1), ggf. der Prioritätstag (§§ 34, 35); bei sonstigen Rechten der Zeitpunkt des Rechtserwerbs (§ 6 Abs. 3). Bei gleichem Zeitrang: Koexistenz (§ 6 Abs. 4).\n\nNormen: Art. 5 MarkenRL, Art. 38 MarkenRL, § 6, § 33, § 34, § 35 MarkenG\n\nRechtsprechung: BGH Baumann II (I ZR 241/14)",
   "tags": [
    "Begriff",
    "Grundlagen"
@@ -123,7 +123,7 @@
   "id": "card:definition:concept:markenfaehigkeit",
   "typ": "definition",
   "front": "Definiere: Markenfähigkeit (§ 3 Abs. 1)",
-  "back": "Abstrakte Eignung eines Zeichens, Waren oder Dienstleistungen eines Unternehmens von denen anderer Unternehmen zu unterscheiden (abstrakte Unterscheidungseignung). Alle Zeichenarten kommen in Betracht, insbes. Wörter, Abbildungen, Buchstaben, Zahlen, Klänge, dreidimensionale Gestaltungen, Farben.\n\nNormen: § 3 Abs. 1 MarkenG\n\nRechtsprechung: EuGH Libertel (C-104/01)",
+  "back": "Abstrakte Eignung eines Zeichens, Waren oder Dienstleistungen eines Unternehmens von denen anderer Unternehmen zu unterscheiden (abstrakte Unterscheidungseignung). Alle Zeichenarten kommen in Betracht, insbes. Wörter, Abbildungen, Buchstaben, Zahlen, Klänge, dreidimensionale Gestaltungen, Farben.\n\nNormen: Art. 3 MarkenRL, § 3 Abs. 1 MarkenG\n\nRechtsprechung: EuGH Libertel (C-104/01)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -147,7 +147,7 @@
   "id": "card:definition:concept:formausschluss",
   "typ": "definition",
   "front": "Definiere: Formausschluss (§ 3 Abs. 2)",
-  "back": "Nicht markenfähig sind Zeichen, die ausschließlich aus Formen oder anderen charakteristischen Merkmalen bestehen, die (1) durch die Art der Ware selbst bedingt sind, (2) zur Erreichung einer technischen Wirkung erforderlich sind oder (3) der Ware einen wesentlichen Wert verleihen.\n\nNormen: § 3 Abs. 2 MarkenG\n\nRechtsprechung: BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19); BGH Bodendübel (I ZB 105/16); BGH Traubenzuckertäfelchen (I ZB 3/17); EuGH Philips/Remington (C-299/99)",
+  "back": "Nicht markenfähig sind Zeichen, die ausschließlich aus Formen oder anderen charakteristischen Merkmalen bestehen, die (1) durch die Art der Ware selbst bedingt sind, (2) zur Erreichung einer technischen Wirkung erforderlich sind oder (3) der Ware einen wesentlichen Wert verleihen.\n\nNormen: Art. 4 MarkenRL, § 3 Abs. 2 MarkenG\n\nRechtsprechung: BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19); BGH Bodendübel (I ZB 105/16); BGH Traubenzuckertäfelchen (I ZB 3/17); EuGH Philips/Remington (C-299/99)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -171,7 +171,7 @@
   "id": "card:definition:concept:formmarke",
   "typ": "definition",
   "front": "Definiere: Formmarke / dreidimensionale Marke",
-  "back": "Marke, die aus der dreidimensionalen Gestaltung der Ware selbst oder ihrer Verpackung besteht (§ 3 Abs. 1). Sie unterliegt dem Formausschluss des § 3 Abs. 2 und strengen Anforderungen an die Unterscheidungskraft.\n\nNormen: § 3 Abs. 1, § 3 Abs. 2, § 8 Abs. 2 Nr. 1 MarkenG\n\nRechtsprechung: BGH ROCHER-Kugel (I ZB 88/07); BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19); BGH Bodendübel (I ZB 105/16); BGH Traubenzuckertäfelchen (I ZB 3/17)",
+  "back": "Marke, die aus der dreidimensionalen Gestaltung der Ware selbst oder ihrer Verpackung besteht (§ 3 Abs. 1). Sie unterliegt dem Formausschluss des § 3 Abs. 2 und strengen Anforderungen an die Unterscheidungskraft.\n\nNormen: Art. 3 MarkenRL, § 3 Abs. 1, § 3 Abs. 2, § 8 Abs. 2 Nr. 1 MarkenG\n\nRechtsprechung: BGH ROCHER-Kugel (I ZB 88/07); BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19); BGH Bodendübel (I ZB 105/16); BGH Traubenzuckertäfelchen (I ZB 3/17)",
   "tags": [
    "Begriff",
    "Markenformen"
@@ -195,7 +195,7 @@
   "id": "card:definition:concept:farbmarke",
   "typ": "definition",
   "front": "Definiere: Abstrakte Farbmarke",
-  "back": "Marke, die aus einer Farbe oder Farbkombination ohne räumliche Begrenzung besteht. Markenfähig, wenn die Farbe eindeutig bestimmt ist (Farbcode). Originäre Unterscheidungskraft nur ausnahmsweise; regelmäßig Eintragung nur über Verkehrsdurchsetzung.\n\nNormen: § 3 Abs. 1, § 8 Abs. 1, § 8 Abs. 3 MarkenG\n\nRechtsprechung: EuGH Libertel (C-104/01); BGH Langenscheidt-Gelb (I ZB 61/13); BGH Nivea-Blau (I ZB 65/13); BGH Sparkassen-Rot (I ZB 52/15)",
+  "back": "Marke, die aus einer Farbe oder Farbkombination ohne räumliche Begrenzung besteht. Markenfähig, wenn die Farbe eindeutig bestimmt ist (Farbcode). Originäre Unterscheidungskraft nur ausnahmsweise; regelmäßig Eintragung nur über Verkehrsdurchsetzung.\n\nNormen: Art. 3 MarkenRL, § 3 Abs. 1, § 8 Abs. 1, § 8 Abs. 3 MarkenG\n\nRechtsprechung: EuGH Libertel (C-104/01); BGH Langenscheidt-Gelb (I ZB 61/13); BGH Nivea-Blau (I ZB 65/13); BGH Sparkassen-Rot (I ZB 52/15)",
   "tags": [
    "Begriff",
    "Markenformen"
@@ -219,7 +219,7 @@
   "id": "card:definition:concept:darstellbarkeit",
   "typ": "definition",
   "front": "Definiere: Darstellbarkeit im Register (§ 8 Abs. 1)",
-  "back": "Von der Eintragung ausgeschlossen sind Zeichen, die nicht geeignet sind, in dem Register so dargestellt zu werden, dass die zuständigen Behörden und das Publikum den Gegenstand des Schutzes klar und eindeutig bestimmen können.\n\nNormen: § 8 Abs. 1, § 32 MarkenG\n\nRechtsprechung: EuGH Libertel (C-104/01)",
+  "back": "Von der Eintragung ausgeschlossen sind Zeichen, die nicht geeignet sind, in dem Register so dargestellt zu werden, dass die zuständigen Behörden und das Publikum den Gegenstand des Schutzes klar und eindeutig bestimmen können.\n\nNormen: Art. 3 MarkenRL, Art. 37 MarkenRL, § 8 Abs. 1, § 32 MarkenG\n\nRechtsprechung: EuGH Libertel (C-104/01)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -243,7 +243,7 @@
   "id": "card:definition:concept:absolute_schutzhindernisse",
   "typ": "definition",
   "front": "Definiere: Absolute Schutzhindernisse (§ 8 Abs. 2)",
-  "back": "Eintragungshindernisse, die im Allgemeininteresse (nicht im Interesse einzelner Rechtsinhaber) bestehen und vom DPMA von Amts wegen geprüft werden (§ 37): u.a. fehlende Unterscheidungskraft (Nr. 1), Freihaltebedürfnis (Nr. 2), üblich gewordene Bezeichnungen (Nr. 3), Täuschungseignung (Nr. 4), Verstoß gegen öffentliche Ordnung/gute Sitten (Nr. 5), Hoheitszeichen (Nr. 6-8), geschützte Herkunftsangaben u.a. (Nr. 9-13), Bösgläubigkeit (Nr. 14).\n\nNormen: § 8 Abs. 2, § 37, § 50 MarkenG\n\nRechtsprechung: BGH smartbook (I ZB 59/12); BGH Black Friday (I ZB 21/20)",
+  "back": "Eintragungshindernisse, die im Allgemeininteresse (nicht im Interesse einzelner Rechtsinhaber) bestehen und vom DPMA von Amts wegen geprüft werden (§ 37): u.a. fehlende Unterscheidungskraft (Nr. 1), Freihaltebedürfnis (Nr. 2), üblich gewordene Bezeichnungen (Nr. 3), Täuschungseignung (Nr. 4), Verstoß gegen öffentliche Ordnung/gute Sitten (Nr. 5), Hoheitszeichen (Nr. 6-8), geschützte Herkunftsangaben u.a. (Nr. 9-13), Bösgläubigkeit (Nr. 14).\n\nNormen: Art. 4 MarkenRL, Art. 7 MarkenRL, Art. 40 MarkenRL, § 8 Abs. 2, § 37, § 50 MarkenG\n\nRechtsprechung: BGH smartbook (I ZB 59/12); BGH Black Friday (I ZB 21/20)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -267,7 +267,7 @@
   "id": "card:definition:concept:unterscheidungskraft",
   "typ": "definition",
   "front": "Definiere: Unterscheidungskraft (§ 8 Abs. 2 Nr. 1)",
-  "back": "Die einer Marke innewohnende (konkrete) Eignung, vom Verkehr als Unterscheidungsmittel aufgefasst zu werden, das die beanspruchten Waren oder Dienstleistungen als von einem bestimmten Unternehmen stammend kennzeichnet und von denen anderer Unternehmen unterscheidet.\n\nNormen: § 8 Abs. 2 Nr. 1, § 8 Abs. 3 MarkenG\n\nRechtsprechung: BGH HOT (I ZB 3/13); BGH Link economy (I ZB 56/09); BGH #darferdas? II (I ZB 61/17); EuGH AS/DPMA (#darferdas?) (C-541/18)",
+  "back": "Die einer Marke innewohnende (konkrete) Eignung, vom Verkehr als Unterscheidungsmittel aufgefasst zu werden, das die beanspruchten Waren oder Dienstleistungen als von einem bestimmten Unternehmen stammend kennzeichnet und von denen anderer Unternehmen unterscheidet.\n\nNormen: Art. 4 MarkenRL, § 8 Abs. 2 Nr. 1, § 8 Abs. 3 MarkenG\n\nRechtsprechung: BGH HOT (I ZB 3/13); BGH Link economy (I ZB 56/09); BGH #darferdas? II (I ZB 61/17); EuGH AS/DPMA (#darferdas?) (C-541/18)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -315,7 +315,7 @@
   "id": "card:definition:concept:freihaltebeduerfnis",
   "typ": "definition",
   "front": "Definiere: Freihaltebedürfnis / beschreibende Angaben (§ 8 Abs. 2 Nr. 2)",
-  "back": "Von der Eintragung ausgeschlossen sind Zeichen, die ausschließlich aus Angaben bestehen, die im Verkehr zur Bezeichnung der Art, Beschaffenheit, Menge, Bestimmung, des Wertes, der geographischen Herkunft, der Zeit der Herstellung oder sonstiger Merkmale der Waren/Dienstleistungen dienen können.\n\nNormen: § 8 Abs. 2 Nr. 2, § 8 Abs. 3 MarkenG\n\nRechtsprechung: BGH Black Friday (I ZB 21/20); EuGH Windsurfing Chiemsee (C-108/97); BGH HOT (I ZB 3/13); BGH marktfrisch (I ZB 42/98)",
+  "back": "Von der Eintragung ausgeschlossen sind Zeichen, die ausschließlich aus Angaben bestehen, die im Verkehr zur Bezeichnung der Art, Beschaffenheit, Menge, Bestimmung, des Wertes, der geographischen Herkunft, der Zeit der Herstellung oder sonstiger Merkmale der Waren/Dienstleistungen dienen können.\n\nNormen: Art. 4 MarkenRL, § 8 Abs. 2 Nr. 2, § 8 Abs. 3 MarkenG\n\nRechtsprechung: BGH Black Friday (I ZB 21/20); EuGH Windsurfing Chiemsee (C-108/97); BGH HOT (I ZB 3/13); BGH marktfrisch (I ZB 42/98)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -339,7 +339,7 @@
   "id": "card:definition:concept:uebliche_bezeichnung",
   "typ": "definition",
   "front": "Definiere: Üblich gewordene Bezeichnungen (§ 8 Abs. 2 Nr. 3)",
-  "back": "Ausgeschlossen sind Zeichen, die im allgemeinen Sprachgebrauch oder in den redlichen und ständigen Verkehrsgepflogenheiten zur Bezeichnung der Waren oder Dienstleistungen üblich geworden sind (Gattungsbezeichnungen, Freizeichen).\n\nNormen: § 8 Abs. 2 Nr. 3, § 49 Abs. 2 Nr. 1 MarkenG\n\nRechtsprechung: BGH TÜV II (I ZR 108/09)",
+  "back": "Ausgeschlossen sind Zeichen, die im allgemeinen Sprachgebrauch oder in den redlichen und ständigen Verkehrsgepflogenheiten zur Bezeichnung der Waren oder Dienstleistungen üblich geworden sind (Gattungsbezeichnungen, Freizeichen).\n\nNormen: Art. 4 MarkenRL, Art. 12 MarkenRL, Art. 20 MarkenRL, § 8 Abs. 2 Nr. 3, § 49 Abs. 2 Nr. 1 MarkenG\n\nRechtsprechung: BGH TÜV II (I ZR 108/09)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -363,7 +363,7 @@
   "id": "card:definition:concept:taeuschung",
   "typ": "definition",
   "front": "Definiere: Täuschungseignung (§ 8 Abs. 2 Nr. 4)",
-  "back": "Ausgeschlossen sind Zeichen, die geeignet sind, das Publikum insbesondere über die Art, die Beschaffenheit oder die geographische Herkunft der Waren oder Dienstleistungen zu täuschen.\n\nNormen: § 8 Abs. 2 Nr. 4, § 37 Abs. 3, § 49 Abs. 2 Nr. 2 MarkenG",
+  "back": "Ausgeschlossen sind Zeichen, die geeignet sind, das Publikum insbesondere über die Art, die Beschaffenheit oder die geographische Herkunft der Waren oder Dienstleistungen zu täuschen.\n\nNormen: Art. 4 MarkenRL, Art. 20 MarkenRL, § 8 Abs. 2 Nr. 4, § 37 Abs. 3, § 49 Abs. 2 Nr. 2 MarkenG",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -387,7 +387,7 @@
   "id": "card:definition:concept:boesglaeubigkeit",
   "typ": "definition",
   "front": "Definiere: Bösgläubige Markenanmeldung (§ 8 Abs. 2 Nr. 14)",
-  "back": "Eine Anmeldung ist bösgläubig, wenn der Anmelder das Zeichen nicht zur Förderung des eigenen Absatzes, sondern rechtsmissbräuchlich oder sittenwidrig anmeldet, insbesondere um einen schutzwürdigen Besitzstand eines Vorbenutzers zu stören, Dritte zu behindern (Sperrmarke) oder Lizenzgebühren zu erpressen (Hinterhaltsmarke).\n\nNormen: § 8 Abs. 2 Nr. 14, § 37 Abs. 3, § 50 MarkenG\n\nRechtsprechung: BGH GLÜCKSPILZ (I ZB 69/14); BGH EROS (I ZR 190/05); BGH Ivadal (I ZB 8/06)",
+  "back": "Eine Anmeldung ist bösgläubig, wenn der Anmelder das Zeichen nicht zur Förderung des eigenen Absatzes, sondern rechtsmissbräuchlich oder sittenwidrig anmeldet, insbesondere um einen schutzwürdigen Besitzstand eines Vorbenutzers zu stören, Dritte zu behindern (Sperrmarke) oder Lizenzgebühren zu erpressen (Hinterhaltsmarke).\n\nNormen: Art. 4 MarkenRL, § 8 Abs. 2 Nr. 14, § 37 Abs. 3, § 50 MarkenG\n\nRechtsprechung: BGH GLÜCKSPILZ (I ZB 69/14); BGH EROS (I ZR 190/05); BGH Ivadal (I ZB 8/06)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -411,7 +411,7 @@
   "id": "card:definition:concept:verkehrsdurchsetzung",
   "typ": "definition",
   "front": "Definiere: Verkehrsdurchsetzung (§ 8 Abs. 3)",
-  "back": "Die Schutzhindernisse des § 8 Abs. 2 Nr. 1, 2 und 3 finden keine Anwendung, wenn die Marke sich vor dem Anmeldetag infolge ihrer Benutzung für die Waren oder Dienstleistungen in den beteiligten Verkehrskreisen durchgesetzt hat.\n\nNormen: § 8 Abs. 3 MarkenG\n\nRechtsprechung: EuGH Windsurfing Chiemsee (C-108/97); BGH ROCHER-Kugel (I ZB 88/07); BGH test (Stiftung Warentest) (I ZB 65/12); BGH Langenscheidt-Gelb (I ZB 61/13)",
+  "back": "Die Schutzhindernisse des § 8 Abs. 2 Nr. 1, 2 und 3 finden keine Anwendung, wenn die Marke sich vor dem Anmeldetag infolge ihrer Benutzung für die Waren oder Dienstleistungen in den beteiligten Verkehrskreisen durchgesetzt hat.\n\nNormen: Art. 4 MarkenRL, § 8 Abs. 3 MarkenG\n\nRechtsprechung: EuGH Windsurfing Chiemsee (C-108/97); BGH ROCHER-Kugel (I ZB 88/07); BGH test (Stiftung Warentest) (I ZB 65/12); BGH Langenscheidt-Gelb (I ZB 61/13)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -483,7 +483,7 @@
   "id": "card:definition:concept:relative_schutzhindernisse",
   "typ": "definition",
   "front": "Definiere: Relative Schutzhindernisse (§§ 9-13)",
-  "back": "Ältere Rechte Dritter, die der Eintragung entgegenstehen und nur auf Widerspruch (§ 42) oder Nichtigkeitsantrag/-klage (§ 51, § 55) geltend gemacht werden: ältere Marken (§ 9: Identität, Verwechslungsgefahr, Bekanntheitsschutz), notorisch bekannte Marken (§ 10), Agentenmarken (§ 11), Benutzungsmarken und geschäftliche Bezeichnungen (§ 12), sonstige ältere Rechte (§ 13: Name, Bildnis, Urheberrecht, Design usw.).\n\nNormen: § 9, § 10, § 11, § 12, § 13, § 42, § 51 MarkenG\n\nRechtsprechung: BGH Springender Pudel (I ZR 59/13)",
+  "back": "Ältere Rechte Dritter, die der Eintragung entgegenstehen und nur auf Widerspruch (§ 42) oder Nichtigkeitsantrag/-klage (§ 51, § 55) geltend gemacht werden: ältere Marken (§ 9: Identität, Verwechslungsgefahr, Bekanntheitsschutz), notorisch bekannte Marken (§ 10), Agentenmarken (§ 11), Benutzungsmarken und geschäftliche Bezeichnungen (§ 12), sonstige ältere Rechte (§ 13: Name, Bildnis, Urheberrecht, Design usw.).\n\nNormen: Art. 5 MarkenRL, Art. 43 MarkenRL, § 9, § 10, § 11, § 12, § 13, § 42, § 51 MarkenG\n\nRechtsprechung: BGH Springender Pudel (I ZR 59/13)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -531,7 +531,7 @@
   "id": "card:definition:concept:markenmaessige_benutzung",
   "typ": "definition",
   "front": "Definiere: Markenmäßige (rechtsverletzende) Benutzung",
-  "back": "Ungeschriebenes Tatbestandsmerkmal des § 14 Abs. 2: Das Zeichen muss so benutzt werden, dass es die Funktionen der Marke, insbesondere die Herkunftsfunktion, beeinträchtigt oder beeinträchtigen kann, d.h. der Verkehr es als Hinweis auf die betriebliche Herkunft der Waren/Dienstleistungen versteht.\n\nNormen: § 14 Abs. 2, § 14 Abs. 3 MarkenG\n\nRechtsprechung: EuGH Arsenal Football Club (C-206/01); BGH Opel-Blitz II (I ZR 88/08); EuGH Adam Opel/Autec (C-48/05); BGH SAM (I ZR 195/17)",
+  "back": "Ungeschriebenes Tatbestandsmerkmal des § 14 Abs. 2: Das Zeichen muss so benutzt werden, dass es die Funktionen der Marke, insbesondere die Herkunftsfunktion, beeinträchtigt oder beeinträchtigen kann, d.h. der Verkehr es als Hinweis auf die betriebliche Herkunft der Waren/Dienstleistungen versteht.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2, § 14 Abs. 3 MarkenG\n\nRechtsprechung: EuGH Arsenal Football Club (C-206/01); BGH Opel-Blitz II (I ZR 88/08); EuGH Adam Opel/Autec (C-48/05); BGH SAM (I ZR 195/17)",
   "tags": [
    "Begriff",
    "Verletzung"
@@ -555,7 +555,7 @@
   "id": "card:definition:concept:firmenmaessiger_gebrauch",
   "typ": "definition",
   "front": "Definiere: Firmenmäßiger Gebrauch",
-  "back": "Die Benutzung eines Zeichens ausschließlich als Unternehmensbezeichnung (Firma, Geschäftsbezeichnung) ist keine Benutzung 'für Waren oder Dienstleistungen' i.S.d. § 14 Abs. 2; sie wird zur markenmäßigen Benutzung, wenn der Verkehr eine Verbindung zwischen der Bezeichnung und den vertriebenen Waren herstellt.\n\nNormen: § 14 Abs. 2, § 14 Abs. 3 Nr. 5, § 15 MarkenG\n\nRechtsprechung: EuGH Céline (C-17/06)",
+  "back": "Die Benutzung eines Zeichens ausschließlich als Unternehmensbezeichnung (Firma, Geschäftsbezeichnung) ist keine Benutzung 'für Waren oder Dienstleistungen' i.S.d. § 14 Abs. 2; sie wird zur markenmäßigen Benutzung, wenn der Verkehr eine Verbindung zwischen der Bezeichnung und den vertriebenen Waren herstellt.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2, § 14 Abs. 3 Nr. 5, § 15 MarkenG\n\nRechtsprechung: EuGH Céline (C-17/06)",
   "tags": [
    "Begriff",
    "Verletzung"
@@ -579,7 +579,7 @@
   "id": "card:definition:concept:doppelidentitaet",
   "typ": "definition",
   "front": "Definiere: Doppelidentität / Identitätsschutz (§ 14 Abs. 2 Nr. 1)",
-  "back": "Verletzung durch Benutzung eines mit der Marke identischen Zeichens für Waren oder Dienstleistungen, die mit denen identisch sind, für die die Marke Schutz genießt. Eine Verwechslungsgefahr muss nicht festgestellt werden.\n\nNormen: § 14 Abs. 2 Nr. 1, § 9 Abs. 1 Nr. 1 MarkenG\n\nRechtsprechung: EuGH L'Oréal/Bellure (C-487/07); EuGH Arsenal Football Club (C-206/01); BGH SAM (I ZR 195/17); BGH Kühlergrill (I ZR 61/18)",
+  "back": "Verletzung durch Benutzung eines mit der Marke identischen Zeichens für Waren oder Dienstleistungen, die mit denen identisch sind, für die die Marke Schutz genießt. Eine Verwechslungsgefahr muss nicht festgestellt werden.\n\nNormen: Art. 5 MarkenRL, Art. 10 MarkenRL, § 14 Abs. 2 Nr. 1, § 9 Abs. 1 Nr. 1 MarkenG\n\nRechtsprechung: EuGH L'Oréal/Bellure (C-487/07); EuGH Arsenal Football Club (C-206/01); BGH SAM (I ZR 195/17); BGH Kühlergrill (I ZR 61/18)",
   "tags": [
    "Begriff",
    "Verletzung"
@@ -603,7 +603,7 @@
   "id": "card:definition:concept:verwechslungsgefahr",
   "typ": "definition",
   "front": "Definiere: Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2)",
-  "back": "Die Gefahr, dass das Publikum glauben könnte, die betreffenden Waren oder Dienstleistungen stammten aus demselben Unternehmen oder aus wirtschaftlich miteinander verbundenen Unternehmen. Sie ist umfassend unter Berücksichtigung aller Umstände des Einzelfalls zu beurteilen, insbesondere der Wechselwirkung zwischen Waren-/Dienstleistungsähnlichkeit, Zeichenähnlichkeit und Kennzeichnungskraft der älteren Marke.\n\nNormen: § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2, § 15 Abs. 2 MarkenG\n\nRechtsprechung: EuGH SABEL/Puma (C-251/95); EuGH Canon (C-39/97); EuGH Lloyd Schuhfabrik Meyer (C-342/97); BGH Culinaria/Villa Culinaria (I ZR 85/11)",
+  "back": "Die Gefahr, dass das Publikum glauben könnte, die betreffenden Waren oder Dienstleistungen stammten aus demselben Unternehmen oder aus wirtschaftlich miteinander verbundenen Unternehmen. Sie ist umfassend unter Berücksichtigung aller Umstände des Einzelfalls zu beurteilen, insbesondere der Wechselwirkung zwischen Waren-/Dienstleistungsähnlichkeit, Zeichenähnlichkeit und Kennzeichnungskraft der älteren Marke.\n\nNormen: Art. 5 MarkenRL, Art. 10 MarkenRL, § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2, § 15 Abs. 2 MarkenG\n\nRechtsprechung: EuGH SABEL/Puma (C-251/95); EuGH Canon (C-39/97); EuGH Lloyd Schuhfabrik Meyer (C-342/97); BGH Culinaria/Villa Culinaria (I ZR 85/11)",
   "tags": [
    "Begriff",
    "Verletzung"
@@ -699,7 +699,7 @@
   "id": "card:definition:concept:warenaehnlichkeit",
   "typ": "definition",
   "front": "Definiere: Waren-/Dienstleistungsähnlichkeit",
-  "back": "Waren oder Dienstleistungen sind ähnlich, wenn sie unter Berücksichtigung aller erheblichen Faktoren – Art, Verwendungszweck, Nutzung, Eigenart als konkurrierende oder einander ergänzende Produkte, regelmäßige Herstellungsstätten und Vertriebswege – so enge Berührungspunkte aufweisen, dass der Verkehr bei identischer Kennzeichnung annehmen könnte, sie stammten aus demselben oder wirtschaftlich verbundenen Unternehmen.\n\nNormen: § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2 MarkenG\n\nRechtsprechung: EuGH Canon (C-39/97); BGH DESPERADOS/DESPERADO (I ZB 63/12); BGH OTTO Cap (I ZR 49/12)",
+  "back": "Waren oder Dienstleistungen sind ähnlich, wenn sie unter Berücksichtigung aller erheblichen Faktoren – Art, Verwendungszweck, Nutzung, Eigenart als konkurrierende oder einander ergänzende Produkte, regelmäßige Herstellungsstätten und Vertriebswege – so enge Berührungspunkte aufweisen, dass der Verkehr bei identischer Kennzeichnung annehmen könnte, sie stammten aus demselben oder wirtschaftlich verbundenen Unternehmen.\n\nNormen: Art. 39 MarkenRL, § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2 MarkenG\n\nRechtsprechung: EuGH Canon (C-39/97); BGH DESPERADOS/DESPERADO (I ZB 63/12); BGH OTTO Cap (I ZR 49/12)",
   "tags": [
    "Begriff",
    "Verletzung"
@@ -723,7 +723,7 @@
   "id": "card:definition:concept:kennzeichnungskraft",
   "typ": "definition",
   "front": "Definiere: Kennzeichnungskraft",
-  "back": "Die Eignung eines Zeichens, sich dem Publikum aufgrund seiner Eigenart und seines Bekanntheitsgrades als Marke einzuprägen und die gekennzeichneten Waren/Dienstleistungen als von einem bestimmten Unternehmen stammend zu identifizieren. Sie bestimmt den Schutzumfang der Marke im Kollisionsfall.\n\nNormen: § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2 MarkenG\n\nRechtsprechung: BGH Culinaria/Villa Culinaria (I ZR 85/11); BGH Kinder II (I ZR 94/04); BGH coccodrillo (Lacoste-Krokodil) (I ZB 40/03); EuGH Lloyd Schuhfabrik Meyer (C-342/97)",
+  "back": "Die Eignung eines Zeichens, sich dem Publikum aufgrund seiner Eigenart und seines Bekanntheitsgrades als Marke einzuprägen und die gekennzeichneten Waren/Dienstleistungen als von einem bestimmten Unternehmen stammend zu identifizieren. Sie bestimmt den Schutzumfang der Marke im Kollisionsfall.\n\nNormen: Art. 8 MarkenRL, § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2 MarkenG\n\nRechtsprechung: BGH Culinaria/Villa Culinaria (I ZR 85/11); BGH Kinder II (I ZR 94/04); BGH coccodrillo (Lacoste-Krokodil) (I ZB 40/03); EuGH Lloyd Schuhfabrik Meyer (C-342/97)",
   "tags": [
    "Begriff",
    "Verletzung"
@@ -867,7 +867,7 @@
   "id": "card:definition:concept:bekannte_marke",
   "typ": "definition",
   "front": "Definiere: Bekannte Marke (§ 14 Abs. 2 Nr. 3)",
-  "back": "Eine Marke ist bekannt, wenn sie einem bedeutenden Teil des Publikums bekannt ist, das von den durch die Marke erfassten Waren oder Dienstleistungen betroffen ist. Feste Prozentsätze gibt es nicht; zu berücksichtigen sind Marktanteil, Intensität, geographische Ausdehnung und Dauer der Benutzung sowie Werbeaufwand (General Motors).\n\nNormen: § 14 Abs. 2 Nr. 3, § 9 Abs. 1 Nr. 3, § 15 Abs. 3 MarkenG\n\nRechtsprechung: EuGH General Motors/Yplon (Chevy) (C-375/97); BGH OTTO Cap (I ZR 49/12); BGH TÜV II (I ZR 108/09); BGH Lila-Postkarte (I ZR 159/02)",
+  "back": "Eine Marke ist bekannt, wenn sie einem bedeutenden Teil des Publikums bekannt ist, das von den durch die Marke erfassten Waren oder Dienstleistungen betroffen ist. Feste Prozentsätze gibt es nicht; zu berücksichtigen sind Marktanteil, Intensität, geographische Ausdehnung und Dauer der Benutzung sowie Werbeaufwand (General Motors).\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 Nr. 3, § 9 Abs. 1 Nr. 3, § 15 Abs. 3, Art. 5 MarkenRL MarkenG\n\nRechtsprechung: EuGH General Motors/Yplon (Chevy) (C-375/97); BGH OTTO Cap (I ZR 49/12); BGH TÜV II (I ZR 108/09); BGH Lila-Postkarte (I ZR 159/02)",
   "tags": [
    "Begriff",
    "Bekanntheitsschutz"
@@ -1035,7 +1035,7 @@
   "id": "card:definition:concept:schranke_23",
   "typ": "definition",
   "front": "Definiere: Schranken des § 23 (Namen, beschreibende Angaben, Bestimmungshinweis)",
-  "back": "Der Markeninhaber kann einem Dritten nicht untersagen, im geschäftlichen Verkehr (1) dessen Namen oder Anschrift (nur natürliche Personen), (2) Zeichen ohne Unterscheidungskraft oder beschreibende Angaben oder (3) die Marke als Hinweis auf die Bestimmung einer Ware (insbesondere Zubehör/Ersatzteile) oder Dienstleistung zu benutzen, sofern die Benutzung den anständigen Gepflogenheiten in Gewerbe oder Handel entspricht (§ 23 Abs. 2).\n\nNormen: § 23 MarkenG\n\nRechtsprechung: EuGH Gillette/LA-Laboratories (C-228/03); BGH Staubsaugerfiltertüten (I ZR 34/02); BGH Kühlergrill (I ZR 61/18); BGH GROSSE INSPEKTION FÜR ALLE (I ZR 33/10)",
+  "back": "Der Markeninhaber kann einem Dritten nicht untersagen, im geschäftlichen Verkehr (1) dessen Namen oder Anschrift (nur natürliche Personen), (2) Zeichen ohne Unterscheidungskraft oder beschreibende Angaben oder (3) die Marke als Hinweis auf die Bestimmung einer Ware (insbesondere Zubehör/Ersatzteile) oder Dienstleistung zu benutzen, sofern die Benutzung den anständigen Gepflogenheiten in Gewerbe oder Handel entspricht (§ 23 Abs. 2).\n\nNormen: Art. 14 MarkenRL, § 23 MarkenG\n\nRechtsprechung: EuGH Gillette/LA-Laboratories (C-228/03); BGH Staubsaugerfiltertüten (I ZR 34/02); BGH Kühlergrill (I ZR 61/18); BGH GROSSE INSPEKTION FÜR ALLE (I ZR 33/10)",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1059,7 +1059,7 @@
   "id": "card:definition:concept:ersatzteilhinweis",
   "typ": "definition",
   "front": "Definiere: Bestimmungshinweis / Ersatzteil- und Zubehörgeschäft (§ 23 Abs. 1 Nr. 3)",
-  "back": "Die Benutzung einer fremden Marke ist zulässig, wenn sie als Hinweis auf die Bestimmung der eigenen Ware (Zubehör, Ersatzteil, Kompatibilität: 'passend für ...') notwendig ist und den anständigen Gepflogenheiten entspricht.\n\nNormen: § 23 Abs. 1 Nr. 3, § 23 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Gillette/LA-Laboratories (C-228/03); BGH Staubsaugerfiltertüten (I ZR 34/02); BGH Kühlergrill (I ZR 61/18); BGH GROSSE INSPEKTION FÜR ALLE (I ZR 33/10)",
+  "back": "Die Benutzung einer fremden Marke ist zulässig, wenn sie als Hinweis auf die Bestimmung der eigenen Ware (Zubehör, Ersatzteil, Kompatibilität: 'passend für ...') notwendig ist und den anständigen Gepflogenheiten entspricht.\n\nNormen: Art. 14 MarkenRL, § 23 Abs. 1 Nr. 3, § 23 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Gillette/LA-Laboratories (C-228/03); BGH Staubsaugerfiltertüten (I ZR 34/02); BGH Kühlergrill (I ZR 61/18); BGH GROSSE INSPEKTION FÜR ALLE (I ZR 33/10)",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1083,7 +1083,7 @@
   "id": "card:definition:concept:gleichnamigkeit",
   "typ": "definition",
   "front": "Definiere: Recht der Gleichnamigen",
-  "back": "Tragen zwei Unternehmen redlich denselben Namen, muss der Prioritätsjüngere grundsätzlich alles Erforderliche und Zumutbare tun, um Verwechslungen zu vermeiden (unterscheidende Zusätze); bei langjähriger Koexistenz kann eine Gleichgewichtslage entstehen, die keine Seite einseitig stören darf.\n\nNormen: § 23 Abs. 1 Nr. 1, § 15 MarkenG\n\nRechtsprechung: BGH Peek & Cloppenburg (I ZR 174/07); BGH shell.de (I ZR 138/99)",
+  "back": "Tragen zwei Unternehmen redlich denselben Namen, muss der Prioritätsjüngere grundsätzlich alles Erforderliche und Zumutbare tun, um Verwechslungen zu vermeiden (unterscheidende Zusätze); bei langjähriger Koexistenz kann eine Gleichgewichtslage entstehen, die keine Seite einseitig stören darf.\n\nNormen: Art. 14 MarkenRL, § 23 Abs. 1 Nr. 1, § 15 MarkenG\n\nRechtsprechung: BGH Peek & Cloppenburg (I ZR 174/07); BGH shell.de (I ZR 138/99)",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1107,7 +1107,7 @@
   "id": "card:definition:concept:erschoepfung",
   "typ": "definition",
   "front": "Definiere: Erschöpfung (§ 24 Abs. 1)",
-  "back": "Der Markeninhaber kann die Benutzung der Marke für Waren nicht untersagen, die unter dieser Marke von ihm oder mit seiner Zustimmung im Inland, in einem EU-Mitgliedstaat oder EWR-Vertragsstaat in den Verkehr gebracht worden sind (EWR-weite, keine internationale Erschöpfung).\n\nNormen: § 24 Abs. 1, § 30 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Van Doren + Q. (stüssy) (C-244/00); BGH stüssy II (I ZR 193/97); BGH Converse I (I ZR 52/10); BGH Converse II (I ZR 137/10)",
+  "back": "Der Markeninhaber kann die Benutzung der Marke für Waren nicht untersagen, die unter dieser Marke von ihm oder mit seiner Zustimmung im Inland, in einem EU-Mitgliedstaat oder EWR-Vertragsstaat in den Verkehr gebracht worden sind (EWR-weite, keine internationale Erschöpfung).\n\nNormen: Art. 15 MarkenRL, Art. 25 MarkenRL, § 24 Abs. 1, § 30 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Van Doren + Q. (stüssy) (C-244/00); BGH stüssy II (I ZR 193/97); BGH Converse I (I ZR 52/10); BGH Converse II (I ZR 137/10)",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1131,7 +1131,7 @@
   "id": "card:definition:concept:berechtigte_gruende",
   "typ": "definition",
   "front": "Definiere: Berechtigte Gründe gegen Erschöpfung (§ 24 Abs. 2)",
-  "back": "Die Erschöpfung greift nicht, wenn sich der Inhaber der Benutzung im Zusammenhang mit dem weiteren Vertrieb aus berechtigten Gründen widersetzt, insbesondere wenn der Zustand der Waren nach dem Inverkehrbringen verändert oder verschlechtert ist.\n\nNormen: § 24 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Bristol-Myers Squibb/Paranova (C-427/93 u.a.); EuGH Parfums Christian Dior/Evora (C-337/95)",
+  "back": "Die Erschöpfung greift nicht, wenn sich der Inhaber der Benutzung im Zusammenhang mit dem weiteren Vertrieb aus berechtigten Gründen widersetzt, insbesondere wenn der Zustand der Waren nach dem Inverkehrbringen verändert oder verschlechtert ist.\n\nNormen: Art. 15 MarkenRL, § 24 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Bristol-Myers Squibb/Paranova (C-427/93 u.a.); EuGH Parfums Christian Dior/Evora (C-337/95)",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1155,7 +1155,7 @@
   "id": "card:definition:concept:umverpackung",
   "typ": "definition",
   "front": "Definiere: Umverpackung / Parallelimport (BMS-Kriterien)",
-  "back": "Der Parallelimporteur darf umgepackte Markenware vertreiben, wenn (1) das Umpacken zur Vermarktung im Einfuhrstaat erforderlich ist, (2) der Originalzustand des Produkts nicht beeinträchtigt wird, (3) Hersteller und Umpacker auf der Packung angegeben sind, (4) die Aufmachung den Ruf der Marke nicht schädigt und (5) der Markeninhaber vorab unterrichtet wird.\n\nNormen: § 24 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Bristol-Myers Squibb/Paranova (C-427/93 u.a.)",
+  "back": "Der Parallelimporteur darf umgepackte Markenware vertreiben, wenn (1) das Umpacken zur Vermarktung im Einfuhrstaat erforderlich ist, (2) der Originalzustand des Produkts nicht beeinträchtigt wird, (3) Hersteller und Umpacker auf der Packung angegeben sind, (4) die Aufmachung den Ruf der Marke nicht schädigt und (5) der Markeninhaber vorab unterrichtet wird.\n\nNormen: Art. 15 MarkenRL, § 24 Abs. 2 MarkenG\n\nRechtsprechung: EuGH Bristol-Myers Squibb/Paranova (C-427/93 u.a.)",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1179,7 +1179,7 @@
   "id": "card:definition:concept:beweislast_erschoepfung",
   "typ": "definition",
   "front": "Definiere: Beweislast bei der Erschöpfung",
-  "back": "Grundsätzlich trägt der in Anspruch genommene Dritte die Beweislast für die Voraussetzungen der Erschöpfung (Inverkehrbringen im EWR mit Zustimmung). Betreibt der Markeninhaber ein ausschließliches Vertriebssystem und droht bei Offenlegung der Bezugsquelle eine Abschottung der nationalen Märkte, muss der Markeninhaber beweisen, dass die Ware außerhalb des EWR in Verkehr gebracht wurde.\n\nNormen: § 24 Abs. 1 MarkenG\n\nRechtsprechung: EuGH Van Doren + Q. (stüssy) (C-244/00); BGH stüssy II (I ZR 193/97); BGH Converse I (I ZR 52/10); BGH Converse II (I ZR 137/10)",
+  "back": "Grundsätzlich trägt der in Anspruch genommene Dritte die Beweislast für die Voraussetzungen der Erschöpfung (Inverkehrbringen im EWR mit Zustimmung). Betreibt der Markeninhaber ein ausschließliches Vertriebssystem und droht bei Offenlegung der Bezugsquelle eine Abschottung der nationalen Märkte, muss der Markeninhaber beweisen, dass die Ware außerhalb des EWR in Verkehr gebracht wurde.\n\nNormen: Art. 15 MarkenRL, § 24 Abs. 1 MarkenG\n\nRechtsprechung: EuGH Van Doren + Q. (stüssy) (C-244/00); BGH stüssy II (I ZR 193/97); BGH Converse I (I ZR 52/10); BGH Converse II (I ZR 137/10)",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1203,7 +1203,7 @@
   "id": "card:definition:concept:verwirkung",
   "typ": "definition",
   "front": "Definiere: Verwirkung (§ 21)",
-  "back": "Der Inhaber eines älteren Kennzeichenrechts kann die Benutzung eines jüngeren eingetragenen Rechts nicht untersagen, wenn er sie fünf aufeinanderfolgende Jahre in Kenntnis geduldet hat, es sei denn, die jüngere Anmeldung war bösgläubig (§ 21 Abs. 1, 2). Daneben bleibt die allgemeine Verwirkung nach § 242 BGB (§ 21 Abs. 4).\n\nNormen: § 21 MarkenG\n\nRechtsprechung: BGH Hard Rock Cafe (I ZR 188/11); BGH Baumann II (I ZR 241/14)",
+  "back": "Der Inhaber eines älteren Kennzeichenrechts kann die Benutzung eines jüngeren eingetragenen Rechts nicht untersagen, wenn er sie fünf aufeinanderfolgende Jahre in Kenntnis geduldet hat, es sei denn, die jüngere Anmeldung war bösgläubig (§ 21 Abs. 1, 2). Daneben bleibt die allgemeine Verwirkung nach § 242 BGB (§ 21 Abs. 4).\n\nNormen: Art. 9 MarkenRL, § 21 MarkenG\n\nRechtsprechung: BGH Hard Rock Cafe (I ZR 188/11); BGH Baumann II (I ZR 241/14)",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1251,7 +1251,7 @@
   "id": "card:definition:concept:rechtserhaltende_benutzung",
   "typ": "definition",
   "front": "Definiere: Rechtserhaltende Benutzung (§ 26)",
-  "back": "Die Marke muss von ihrem Inhaber oder mit seiner Zustimmung (§ 26 Abs. 2) im Inland (§ 26 Abs. 1) für die eingetragenen Waren/Dienstleistungen ernsthaft benutzt worden sein, es sei denn, es liegen berechtigte Gründe für die Nichtbenutzung vor. Die Benutzung in abweichender Form genügt, wenn die Abweichungen den kennzeichnenden Charakter nicht verändern (§ 26 Abs. 3); Anbringen auf Waren zum Export genügt (§ 26 Abs. 4).\n\nNormen: § 26, § 25, § 43 Abs. 1, § 49 MarkenG\n\nRechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11); BGH LOTTOCARD (I ZR 167/05); BGH Probiotik (I ZR 38/13)",
+  "back": "Die Marke muss von ihrem Inhaber oder mit seiner Zustimmung (§ 26 Abs. 2) im Inland (§ 26 Abs. 1) für die eingetragenen Waren/Dienstleistungen ernsthaft benutzt worden sein, es sei denn, es liegen berechtigte Gründe für die Nichtbenutzung vor. Die Benutzung in abweichender Form genügt, wenn die Abweichungen den kennzeichnenden Charakter nicht verändern (§ 26 Abs. 3); Anbringen auf Waren zum Export genügt (§ 26 Abs. 4).\n\nNormen: Art. 16 MarkenRL, Art. 32 MarkenRL, § 26, § 25, § 43 Abs. 1, § 49 MarkenG\n\nRechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11); BGH LOTTOCARD (I ZR 167/05); BGH Probiotik (I ZR 38/13)",
   "tags": [
    "Begriff",
    "Benutzungszwang"
@@ -1275,7 +1275,7 @@
   "id": "card:definition:concept:ernsthafte_benutzung",
   "typ": "definition",
   "front": "Definiere: Ernsthafte Benutzung",
-  "back": "Eine Benutzung ist ernsthaft, wenn sie entsprechend der Hauptfunktion der Marke erfolgt, um für die Waren/Dienstleistungen einen Absatzmarkt zu erschließen oder zu sichern; symbolische Benutzung allein zum Zweck der Rechtserhaltung genügt nicht (Ansul).\n\nNormen: § 26 Abs. 1 MarkenG\n\nRechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11)",
+  "back": "Eine Benutzung ist ernsthaft, wenn sie entsprechend der Hauptfunktion der Marke erfolgt, um für die Waren/Dienstleistungen einen Absatzmarkt zu erschließen oder zu sichern; symbolische Benutzung allein zum Zweck der Rechtserhaltung genügt nicht (Ansul).\n\nNormen: Art. 16 MarkenRL, Art. 19 MarkenRL, § 26 Abs. 1 MarkenG\n\nRechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11)",
   "tags": [
    "Begriff",
    "Benutzungszwang"
@@ -1299,7 +1299,7 @@
   "id": "card:definition:concept:abweichende_form",
   "typ": "definition",
   "front": "Definiere: Benutzung in abweichender Form (§ 26 Abs. 3)",
-  "back": "Als Benutzung gilt auch die Benutzung in einer Form, die von der Eintragung abweicht, soweit die Abweichungen den kennzeichnenden Charakter der Marke nicht verändern – auch wenn die abweichende Form selbst eingetragen ist (§ 26 Abs. 3 S. 2).\n\nNormen: § 26 Abs. 3 MarkenG\n\nRechtsprechung: BGH Probiotik (I ZR 38/13); BGH Dorzo (I ZB 6/16); BGH Castell/VIN CASTEL (I ZR 112/10); BGH LOTTOCARD (I ZR 167/05)",
+  "back": "Als Benutzung gilt auch die Benutzung in einer Form, die von der Eintragung abweicht, soweit die Abweichungen den kennzeichnenden Charakter der Marke nicht verändern – auch wenn die abweichende Form selbst eingetragen ist (§ 26 Abs. 3 S. 2).\n\nNormen: Art. 16 MarkenRL, § 26 Abs. 3 MarkenG\n\nRechtsprechung: BGH Probiotik (I ZR 38/13); BGH Dorzo (I ZB 6/16); BGH Castell/VIN CASTEL (I ZR 112/10); BGH LOTTOCARD (I ZR 167/05)",
   "tags": [
    "Begriff",
    "Benutzungszwang"
@@ -1323,7 +1323,7 @@
   "id": "card:definition:concept:benutzungsschonfrist",
   "typ": "definition",
   "front": "Definiere: Benutzungsschonfrist",
-  "back": "Innerhalb von fünf Jahren nach der Eintragung (bzw. nach Abschluss eines Widerspruchsverfahrens, § 26 Abs. 5) ist die Nichtbenutzung unschädlich. Erst danach können Ansprüche wegen Nichtbenutzung ausgeschlossen (§ 25) und die Marke für verfallen erklärt werden (§ 49 Abs. 1).\n\nNormen: § 25 Abs. 1, § 26 Abs. 5, § 49 Abs. 1 MarkenG",
+  "back": "Innerhalb von fünf Jahren nach der Eintragung (bzw. nach Abschluss eines Widerspruchsverfahrens, § 26 Abs. 5) ist die Nichtbenutzung unschädlich. Erst danach können Ansprüche wegen Nichtbenutzung ausgeschlossen (§ 25) und die Marke für verfallen erklärt werden (§ 49 Abs. 1).\n\nNormen: Art. 16 MarkenRL, Art. 19 MarkenRL, § 25 Abs. 1, § 26 Abs. 5, § 49 Abs. 1 MarkenG",
   "tags": [
    "Begriff",
    "Benutzungszwang"
@@ -1347,7 +1347,7 @@
   "id": "card:definition:concept:nichtbenutzungseinrede",
   "typ": "definition",
   "front": "Definiere: Nichtbenutzungseinrede (§ 25, § 43 Abs. 1)",
-  "back": "Im Verletzungsprozess (§ 25 Abs. 2) und im Widerspruchsverfahren (§ 43 Abs. 1) kann der Gegner die Einrede erheben, die Marke sei innerhalb der letzten fünf Jahre nicht rechtserhaltend benutzt worden; dann muss der Inhaber die Benutzung nachweisen (im Verletzungsprozess) bzw. glaubhaft machen (im Widerspruchsverfahren).\n\nNormen: § 25, § 43 Abs. 1 MarkenG\n\nRechtsprechung: BGH VOODOO (I ZR 106/11)",
+  "back": "Im Verletzungsprozess (§ 25 Abs. 2) und im Widerspruchsverfahren (§ 43 Abs. 1) kann der Gegner die Einrede erheben, die Marke sei innerhalb der letzten fünf Jahre nicht rechtserhaltend benutzt worden; dann muss der Inhaber die Benutzung nachweisen (im Verletzungsprozess) bzw. glaubhaft machen (im Widerspruchsverfahren).\n\nNormen: Art. 17 MarkenRL, Art. 44 MarkenRL, Art. 46 MarkenRL, § 25, § 43 Abs. 1 MarkenG\n\nRechtsprechung: BGH VOODOO (I ZR 106/11)",
   "tags": [
    "Begriff",
    "Benutzungszwang"
@@ -1371,7 +1371,7 @@
   "id": "card:definition:concept:verfall",
   "typ": "definition",
   "front": "Definiere: Verfall (§ 49)",
-  "back": "Die Marke wird auf Antrag für verfallen erklärt und gelöscht, wenn (1) sie nach der Eintragung fünf Jahre ununterbrochen nicht rechtserhaltend benutzt wurde (Abs. 1), (2) sie infolge des Verhaltens des Inhabers zur gebräuchlichen Bezeichnung geworden ist (Abs. 2 Nr. 1), (3) sie infolge ihrer Benutzung täuschend geworden ist (Abs. 2 Nr. 2) oder (4) der Inhaber die Voraussetzungen des § 7 nicht mehr erfüllt (Abs. 2 Nr. 3).\n\nNormen: § 49, § 52 Abs. 1, § 53, § 55 MarkenG\n\nRechtsprechung: BGH VOODOO (I ZR 106/11); BGH TÜV II (I ZR 108/09)",
+  "back": "Die Marke wird auf Antrag für verfallen erklärt und gelöscht, wenn (1) sie nach der Eintragung fünf Jahre ununterbrochen nicht rechtserhaltend benutzt wurde (Abs. 1), (2) sie infolge des Verhaltens des Inhabers zur gebräuchlichen Bezeichnung geworden ist (Abs. 2 Nr. 1), (3) sie infolge ihrer Benutzung täuschend geworden ist (Abs. 2 Nr. 2) oder (4) der Inhaber die Voraussetzungen des § 7 nicht mehr erfüllt (Abs. 2 Nr. 3).\n\nNormen: Art. 19 MarkenRL, Art. 20 MarkenRL, Art. 21 MarkenRL, Art. 35 MarkenRL, Art. 45 MarkenRL, Art. 47 MarkenRL, § 49, § 52 Abs. 1, § 53, § 55 MarkenG\n\nRechtsprechung: BGH VOODOO (I ZR 106/11); BGH TÜV II (I ZR 108/09)",
   "tags": [
    "Begriff",
    "Verfahren"
@@ -1395,7 +1395,7 @@
   "id": "card:definition:concept:nichtigkeit",
   "typ": "definition",
   "front": "Definiere: Nichtigkeit (§§ 50, 51)",
-  "back": "Die Eintragung wird auf Antrag für nichtig erklärt und gelöscht, wenn die Marke entgegen §§ 3, 7 oder 8 eingetragen wurde (§ 50 – absolute Schutzhindernisse) oder ihr ein Recht mit älterem Zeitrang i.S.d. §§ 9-13 entgegensteht (§ 51 – relative Nichtigkeitsgründe).\n\nNormen: § 50, § 51, § 52 Abs. 2, § 53, § 55 MarkenG\n\nRechtsprechung: BGH smartbook (I ZB 59/12); BGH Sparkassen-Rot (I ZB 52/15); BGH Black Friday (I ZB 21/20); BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19)",
+  "back": "Die Eintragung wird auf Antrag für nichtig erklärt und gelöscht, wenn die Marke entgegen §§ 3, 7 oder 8 eingetragen wurde (§ 50 – absolute Schutzhindernisse) oder ihr ein Recht mit älterem Zeitrang i.S.d. §§ 9-13 entgegensteht (§ 51 – relative Nichtigkeitsgründe).\n\nNormen: Art. 7 MarkenRL, Art. 36 MarkenRL, Art. 45 MarkenRL, Art. 46 MarkenRL, Art. 47 MarkenRL, § 50, § 51, § 52 Abs. 2, § 53, § 55 MarkenG\n\nRechtsprechung: BGH smartbook (I ZB 59/12); BGH Sparkassen-Rot (I ZB 52/15); BGH Black Friday (I ZB 21/20); BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19)",
   "tags": [
    "Begriff",
    "Verfahren"
@@ -1419,7 +1419,7 @@
   "id": "card:definition:concept:widerspruch",
   "typ": "definition",
   "front": "Definiere: Widerspruchsverfahren (§§ 42, 43)",
-  "back": "Innerhalb von drei Monaten nach Veröffentlichung der Eintragung kann der Inhaber eines älteren Rechts (ältere Marke, notorisch bekannte Marke, Benutzungsmarke, geschäftliche Bezeichnung, geschützte Ursprungsbezeichnung) beim DPMA Widerspruch gegen die Eintragung erheben (§ 42). Auf Einrede muss er die Benutzung seiner älteren Marke glaubhaft machen (§ 43 Abs. 1).\n\nNormen: § 42, § 43, § 66, § 83 MarkenG\n\nRechtsprechung: BGH Maalox/Melox-GRY (I ZB 52/09); BGH DESPERADOS/DESPERADO (I ZB 63/12)",
+  "back": "Innerhalb von drei Monaten nach Veröffentlichung der Eintragung kann der Inhaber eines älteren Rechts (ältere Marke, notorisch bekannte Marke, Benutzungsmarke, geschäftliche Bezeichnung, geschützte Ursprungsbezeichnung) beim DPMA Widerspruch gegen die Eintragung erheben (§ 42). Auf Einrede muss er die Benutzung seiner älteren Marke glaubhaft machen (§ 43 Abs. 1).\n\nNormen: Art. 43 MarkenRL, § 42, § 43, § 66, § 83, Art. 44 MarkenRL MarkenG\n\nRechtsprechung: BGH Maalox/Melox-GRY (I ZB 52/09); BGH DESPERADOS/DESPERADO (I ZB 63/12)",
   "tags": [
    "Begriff",
    "Verfahren"
@@ -1443,7 +1443,7 @@
   "id": "card:definition:concept:lizenz",
   "typ": "definition",
   "front": "Definiere: Lizenz (§ 30)",
-  "back": "Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen ausschließlich oder nicht ausschließlich, räumlich oder sachlich beschränkt lizenziert werden (§ 30 Abs. 1). Bei Verstoß des Lizenznehmers gegen die in § 30 Abs. 2 genannten Beschränkungen kann der Inhaber die Marke gegen ihn geltend machen; ein Inverkehrbringen unter Verstoß gegen diese Beschränkungen erfolgt ohne Zustimmung (keine Erschöpfung).\n\nNormen: § 30, § 27 MarkenG\n\nRechtsprechung: BGH Converse II (I ZR 137/10)",
+  "back": "Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen ausschließlich oder nicht ausschließlich, räumlich oder sachlich beschränkt lizenziert werden (§ 30 Abs. 1). Bei Verstoß des Lizenznehmers gegen die in § 30 Abs. 2 genannten Beschränkungen kann der Inhaber die Marke gegen ihn geltend machen; ein Inverkehrbringen unter Verstoß gegen diese Beschränkungen erfolgt ohne Zustimmung (keine Erschöpfung).\n\nNormen: Art. 22 MarkenRL, Art. 25 MarkenRL, § 30, § 27 MarkenG\n\nRechtsprechung: BGH Converse II (I ZR 137/10)",
   "tags": [
    "Begriff",
    "Verkehr mit Marken"
@@ -1467,7 +1467,7 @@
   "id": "card:definition:concept:aktivlegitimation",
   "typ": "definition",
   "front": "Definiere: Aktivlegitimation / Rechtsinhaberschaft",
-  "back": "Anspruchsberechtigt ist der Markeninhaber (§ 14 Abs. 1, § 28 Abs. 1: Vermutung der Inhaberschaft für den Eingetragenen) sowie der Lizenznehmer unter den Voraussetzungen des § 30 Abs. 3.\n\nNormen: § 14 Abs. 1, § 28, § 30 Abs. 3 MarkenG",
+  "back": "Anspruchsberechtigt ist der Markeninhaber (§ 14 Abs. 1, § 28 Abs. 1: Vermutung der Inhaberschaft für den Eingetragenen) sowie der Lizenznehmer unter den Voraussetzungen des § 30 Abs. 3.\n\nNormen: Art. 22 MarkenRL, § 14 Abs. 1, § 28, § 30 Abs. 3 MarkenG",
   "tags": [
    "Begriff",
    "Rechtsfolgen"
@@ -1515,7 +1515,7 @@
   "id": "card:definition:concept:schadensersatz",
   "typ": "definition",
   "front": "Definiere: Schadensersatz (§ 14 Abs. 6) und dreifache Schadensberechnung",
-  "back": "Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des entstandenen Schadens verpflichtet. Berechnung nach Wahl des Verletzten: (1) konkreter Schaden inkl. entgangenem Gewinn, (2) Herausgabe des Verletzergewinns (§ 14 Abs. 6 S. 2), (3) angemessene Lizenzgebühr (Lizenzanalogie, § 14 Abs. 6 S. 3).\n\nNormen: § 14 Abs. 6, § 14 Abs. 7, § 19 MarkenG\n\nRechtsprechung: BGH BTK (I ZR 169/07)",
+  "back": "Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des entstandenen Schadens verpflichtet. Berechnung nach Wahl des Verletzten: (1) konkreter Schaden inkl. entgangenem Gewinn, (2) Herausgabe des Verletzergewinns (§ 14 Abs. 6 S. 2), (3) angemessene Lizenzgebühr (Lizenzanalogie, § 14 Abs. 6 S. 3).\n\nNormen: Art. 34 MarkenRL, § 14 Abs. 6, § 14 Abs. 7, § 19 MarkenG\n\nRechtsprechung: BGH BTK (I ZR 169/07)",
   "tags": [
    "Begriff",
    "Rechtsfolgen"
@@ -1803,7 +1803,7 @@
   "id": "card:definition:concept:geographische_herkunftsangabe",
   "typ": "definition",
   "front": "Definiere: Geographische Herkunftsangaben (§§ 126 ff.)",
-  "back": "Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung der geographischen Herkunft von Waren oder Dienstleistungen benutzt werden (§ 126 Abs. 1). Sie dürfen nicht für Waren anderer Herkunft benutzt werden, wenn Irreführungsgefahr besteht (§ 127 Abs. 1); qualifizierte Angaben und bekannte Angaben genießen erweiterten Schutz (§ 127 Abs. 2, 3).\n\nNormen: § 126, § 127, § 128, § 99 MarkenG\n\nRechtsprechung: EuGH Windsurfing Chiemsee (C-108/97)",
+  "back": "Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung der geographischen Herkunft von Waren oder Dienstleistungen benutzt werden (§ 126 Abs. 1). Sie dürfen nicht für Waren anderer Herkunft benutzt werden, wenn Irreführungsgefahr besteht (§ 127 Abs. 1); qualifizierte Angaben und bekannte Angaben genießen erweiterten Schutz (§ 127 Abs. 2, 3).\n\nNormen: Art. 29 MarkenRL, § 126, § 127, § 128, § 99 MarkenG\n\nRechtsprechung: EuGH Windsurfing Chiemsee (C-108/97)",
   "tags": [
    "Begriff",
    "Sonstige Kennzeichen"
@@ -1827,7 +1827,7 @@
   "id": "card:definition:concept:kollektivmarke",
   "typ": "definition",
   "front": "Definiere: Kollektivmarke und Gewährleistungsmarke (§§ 97 ff., 106a ff.)",
-  "back": "Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen der Mitglieder nach Herkunft, Beschaffenheit oder sonstigen Eigenschaften unterscheidet (§ 97); auch geographische Herkunftsangaben sind eintragbar (§ 99). Gewährleistungsmarke: Marke, die Waren/Dienstleistungen hinsichtlich garantierter Eigenschaften (Material, Qualität, Herstellungsweise) von anderen unterscheidet, deren Inhaber die Waren nicht selbst vertreibt (§ 106a).\n\nNormen: § 97, § 99, § 102, § 106a MarkenG\n\nRechtsprechung: BGH ÖKO-TEST II (I ZR 117/17)",
+  "back": "Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen der Mitglieder nach Herkunft, Beschaffenheit oder sonstigen Eigenschaften unterscheidet (§ 97); auch geographische Herkunftsangaben sind eintragbar (§ 99). Gewährleistungsmarke: Marke, die Waren/Dienstleistungen hinsichtlich garantierter Eigenschaften (Material, Qualität, Herstellungsweise) von anderen unterscheidet, deren Inhaber die Waren nicht selbst vertreibt (§ 106a).\n\nNormen: Art. 27 MarkenRL, Art. 28 MarkenRL, Art. 29 MarkenRL, Art. 30 MarkenRL, Art. 31 MarkenRL, Art. 32 MarkenRL, Art. 33 MarkenRL, Art. 34 MarkenRL, Art. 35 MarkenRL, Art. 36 MarkenRL, § 97, § 99, § 102, § 106a MarkenG\n\nRechtsprechung: BGH ÖKO-TEST II (I ZR 117/17)",
   "tags": [
    "Begriff",
    "Sonstige Kennzeichen"
@@ -1851,7 +1851,7 @@
   "id": "card:definition:concept:unionsmarke",
   "typ": "definition",
   "front": "Definiere: Unionsmarke (UMV) und Koexistenz",
-  "back": "Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, Art. 1 Abs. 2 UMV). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über § 125b MarkenG und Art. 8 Abs. 2 UMV wechselseitig als ältere Rechte verzahnt.\n\nNormen: § 125b, § 125c, § 125d, § 125e MarkenG\n\nRechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)",
+  "back": "Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, Art. 1 Abs. 2 UMV). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über § 125b MarkenG und Art. 8 Abs. 2 UMV wechselseitig als ältere Rechte verzahnt.\n\nNormen: Art. 6 MarkenRL, § 125b, § 125c, § 125d, § 125e MarkenG\n\nRechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)",
   "tags": [
    "Begriff",
    "EU- und IR-Marken"
@@ -1875,7 +1875,7 @@
   "id": "card:definition:concept:relative_schutzhindernis_bekannt",
   "typ": "definition",
   "front": "Definiere: Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3)",
-  "back": "Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer angemeldeten oder eingetragenen älteren Marke identisch oder ihr ähnlich ist, die ältere Marke im Inland bekannt ist und die Benutzung der jüngeren Marke die Unterscheidungskraft oder die Wertschätzung der bekannten Marke ohne rechtfertigenden Grund in unlauterer Weise ausnutzen oder beeinträchtigen würde.\n\nNormen: § 9 Abs. 1 Nr. 3, § 42, § 51 Abs. 3, § 22 Abs. 1 Nr. 1, § 125b MarkenG\n\nRechtsprechung: BGH Springender Pudel (I ZR 59/13); EuGH Intel/CPM (INTELMARK) (C-252/07); EuGH General Motors/Yplon (Chevy) (C-375/97); EuGH Iron & Smith/Unilever (C-125/14)",
+  "back": "Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer angemeldeten oder eingetragenen älteren Marke identisch oder ihr ähnlich ist, die ältere Marke im Inland bekannt ist und die Benutzung der jüngeren Marke die Unterscheidungskraft oder die Wertschätzung der bekannten Marke ohne rechtfertigenden Grund in unlauterer Weise ausnutzen oder beeinträchtigen würde.\n\nNormen: Art. 5 MarkenRL, Art. 8 MarkenRL, § 9 Abs. 1 Nr. 3, § 42, § 51 Abs. 3, § 22 Abs. 1 Nr. 1, § 125b MarkenG\n\nRechtsprechung: BGH Springender Pudel (I ZR 59/13); EuGH Intel/CPM (INTELMARK) (C-252/07); EuGH General Motors/Yplon (Chevy) (C-375/97); EuGH Iron & Smith/Unilever (C-125/14)",
   "tags": [
    "Begriff",
    "Schutzvoraussetzungen"
@@ -1899,7 +1899,7 @@
   "id": "card:definition:concept:koexistenz_22",
   "typ": "definition",
   "front": "Definiere: Ausschluss von Ansprüchen bei Bestandskraft der jüngeren Marke (§ 22)",
-  "back": "Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jüngeren Marke nicht untersagen, wenn ein Nichtigkeitsantrag gegen sie zurückgewiesen wurde oder zurückzuweisen wäre, weil (1) das ältere Zeichen am Prioritätstag der jüngeren Marke noch nicht bekannt war (§ 51 Abs. 3), (2) die ältere Marke damals löschungsreif war (§ 51 Abs. 4) oder (3) damals noch keine Verwechslungsgefahr bestand (§ 22 Abs. 1). Umgekehrt kann auch der Inhaber der jüngeren Marke die ältere nicht untersagen (§ 22 Abs. 2): Koexistenz.\n\nNormen: § 22, § 51 Abs. 3, § 51 Abs. 4, § 21 MarkenG",
+  "back": "Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jüngeren Marke nicht untersagen, wenn ein Nichtigkeitsantrag gegen sie zurückgewiesen wurde oder zurückzuweisen wäre, weil (1) das ältere Zeichen am Prioritätstag der jüngeren Marke noch nicht bekannt war (§ 51 Abs. 3), (2) die ältere Marke damals löschungsreif war (§ 51 Abs. 4) oder (3) damals noch keine Verwechslungsgefahr bestand (§ 22 Abs. 1). Umgekehrt kann auch der Inhaber der jüngeren Marke die ältere nicht untersagen (§ 22 Abs. 2): Koexistenz.\n\nNormen: Art. 8 MarkenRL, Art. 18 MarkenRL, § 22, § 51 Abs. 3, § 51 Abs. 4, § 21 MarkenG",
   "tags": [
    "Begriff",
    "Schranken"
@@ -1923,7 +1923,7 @@
   "id": "card:definition:concept:bekanntheit_union",
   "typ": "definition",
   "front": "Definiere: Bekanntheit in der Union (§ 125b Nr. 1, Art. 9 Abs. 2 lit. c UMV)",
-  "back": "Wird aus einer Unionsmarke nach § 9 Abs. 1 Nr. 3 gegen eine deutsche Marke vorgegangen, tritt an die Stelle der Bekanntheit im Inland die Bekanntheit in der Union. Sie liegt vor, wenn die Marke einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist; ein einziger Mitgliedstaat kann genügen (PAGO).\n\nNormen: § 125b, § 9 Abs. 1 Nr. 3 MarkenG\n\nRechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH General Motors/Yplon (Chevy) (C-375/97)",
+  "back": "Wird aus einer Unionsmarke nach § 9 Abs. 1 Nr. 3 gegen eine deutsche Marke vorgegangen, tritt an die Stelle der Bekanntheit im Inland die Bekanntheit in der Union. Sie liegt vor, wenn die Marke einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist; ein einziger Mitgliedstaat kann genügen (PAGO).\n\nNormen: Art. 5 MarkenRL, § 125b, § 9 Abs. 1 Nr. 3 MarkenG\n\nRechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH General Motors/Yplon (Chevy) (C-375/97)",
   "tags": [
    "Begriff",
    "EU- und IR-Marken"
@@ -1947,7 +1947,7 @@
   "id": "card:definition:concept:benutzung_union",
   "typ": "definition",
   "front": "Definiere: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5)",
-  "back": "Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach § 26 die ernsthafte Benutzung in der Union nach Art. 18 UMV. Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).\n\nNormen: § 125b, § 26, § 43 Abs. 1, § 53 MarkenG\n\nRechtsprechung: EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH Ansul/Ajax (C-40/01)",
+  "back": "Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach § 26 die ernsthafte Benutzung in der Union nach Art. 18 UMV. Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).\n\nNormen: Art. 44 MarkenRL, § 125b, § 26, § 43 Abs. 1, § 53 MarkenG\n\nRechtsprechung: EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH Ansul/Ajax (C-40/01)",
   "tags": [
    "Begriff",
    "EU- und IR-Marken"
@@ -1995,7 +1995,7 @@
   "id": "card:definition:concept:senioritaet",
   "typ": "definition",
   "front": "Definiere: Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ 125c, 125d)",
-  "back": "Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend (Art. 39, 40 UMV). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, § 125d).\n\nNormen: § 125c, § 125d, § 125 MarkenG",
+  "back": "Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend (Art. 39, 40 UMV). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, § 125d).\n\nNormen: Art. 6 MarkenRL, § 125c, § 125d, § 125 MarkenG",
   "tags": [
    "Begriff",
    "EU- und IR-Marken"
@@ -2067,7 +2067,7 @@
   "id": "card:definition:concept:ir_benutzungsschonfrist",
   "typ": "definition",
   "front": "Definiere: Benutzungsschonfrist und Einreden bei IR-Marken (§§ 115 Abs. 2, 116, 117)",
-  "back": "Für IR-Marken tritt an die Stelle des Eintragungstags (§ 26 Abs. 5, § 25, § 43 Abs. 1, § 53 Abs. 6) einer der in § 115 Abs. 2 bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.\n\nNormen: § 115, § 116, § 117, § 124, § 25, § 26 MarkenG",
+  "back": "Für IR-Marken tritt an die Stelle des Eintragungstags (§ 26 Abs. 5, § 25, § 43 Abs. 1, § 53 Abs. 6) einer der in § 115 Abs. 2 bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.\n\nNormen: Art. 16 MarkenRL, § 115, § 116, § 117, § 124, § 25, § 26 MarkenG",
   "tags": [
    "Begriff",
    "EU- und IR-Marken"
@@ -2086,6 +2086,222 @@
    "EU- und IR-Marken"
   ],
   "node": "concept:ir_benutzungsschonfrist"
+ },
+ {
+  "id": "card:definition:concept:markenrl",
+  "typ": "definition",
+  "front": "Definiere: Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)",
+  "back": "Richtlinie des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (Neufassung der RL 2008/95/EG). Sie harmonisiert das materielle Markenrecht (Markenformen, Schutzhindernisse, Rechte aus der Marke, Schranken, Benutzungszwang, Verfall) und erstmals wesentliche Verfahrensregeln (Widerspruch, Verfall und Nichtigkeit vor dem Amt, Klassifizierung, Schutzdauer) der nationalen Markensysteme.\n\nNormen: Art. 1 MarkenRL, Art. 2 MarkenRL, Art. 51 MarkenRL, Art. 52 MarkenRL, Art. 54 MarkenRL, Art. 55 MarkenRL, Art. 56 MarkenRL, Art. 57 MarkenRL, § 1 MarkenG\n\nRechtsprechung: EuGH SABEL/Puma (C-251/95); EuGH L'Oréal/Bellure (C-487/07); EuGH AS/DPMA (#darferdas?) (C-541/18)",
+  "tags": [
+   "Begriff",
+   "EU- und IR-Marken"
+  ],
+  "node": "concept:markenrl",
+  "erlaeuterung": "Umsetzung in Deutschland durch das Markenrechtsmodernisierungsgesetz (MaMoG) vom 11.12.2018 mit Wirkung zum 14.1.2019; das Verwaltungsverfahren für Verfall und Nichtigkeit (Art. 45 MarkenRL) gilt seit 1.5.2020. Das MarkenG ist richtlinienkonform auszulegen; Auslegungsfragen legt der BGH dem EuGH vor (Art. 267 AEUV). Die MarkenRL ist parallel zur Unionsmarkenverordnung formuliert, sodass EuGH-Rechtsprechung zur UMV regelmäßig auf das MarkenG übertragbar ist. Nicht harmonisiert: Benutzungsmarken, geschäftliche Bezeichnungen, Rechtsfolgen der Verletzung (dazu Durchsetzungsrichtlinie 2004/48/EG)."
+ },
+ {
+  "id": "card:begriff:concept:markenrl",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nRichtlinie des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (Neufassung der RL 2008/95/EG). Sie harmonisiert das materielle Markenrecht (Markenformen, Schutzhindernisse, Rechte aus der Marke, Schranken, Benutzungszwang, Verfall) und erstmals wesentliche Verfahrensregeln (Widerspruch, Verfall und Nichtigkeit vor dem Amt, Klassifizierung, Schutzdauer) der nationalen Markensysteme.",
+  "back": "Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "EU- und IR-Marken"
+  ],
+  "node": "concept:markenrl"
+ },
+ {
+  "id": "card:definition:concept:richtlinienkonforme_auslegung",
+  "typ": "definition",
+  "front": "Definiere: Richtlinienkonforme Auslegung und Vorlage an den EuGH",
+  "back": "Nationale Gerichte und das DPMA müssen das MarkenG so auslegen, dass Wortlaut und Zweck der MarkenRL erreicht werden (Art. 288 AEUV). Ist die Auslegung der Richtlinie zweifelhaft, kann jedes Gericht dem EuGH vorlegen; letztinstanzliche Gerichte (BGH) müssen vorlegen (Art. 267 AEUV).\n\nNormen: Art. 10 MarkenRL, § 14 MarkenG\n\nRechtsprechung: EuGH AS/DPMA (#darferdas?) (C-541/18); BGH #darferdas? II (I ZB 61/17); BGH OTTO Cap (I ZR 49/12); EuGH THOMSON LIFE (Medion) (C-120/04)",
+  "tags": [
+   "Begriff",
+   "EU- und IR-Marken"
+  ],
+  "node": "concept:richtlinienkonforme_auslegung",
+  "erlaeuterung": "Praktische Folgen: Begriffe wie Unterscheidungskraft, Verwechslungsgefahr, Bekanntheit, ernsthafte Benutzung oder Erschöpfung sind unionsrechtliche Begriffe mit einheitlicher Bedeutung; Auslegungsspielräume des nationalen Rechts bestehen nur, wo die Richtlinie Optionen einräumt (etwa Art. 4 Abs. 3, Art. 5 Abs. 4 MarkenRL). Beispiel: BGH #darferdas? II nach EuGH C-541/18; BGH OTTO Cap (richtlinienkonforme Auslegung des § 14 Abs. 2 Nr. 3 vor dem MaMoG)."
+ },
+ {
+  "id": "card:begriff:concept:richtlinienkonforme_auslegung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nNationale Gerichte und das DPMA müssen das MarkenG so auslegen, dass Wortlaut und Zweck der MarkenRL erreicht werden (Art. 288 AEUV). Ist die Auslegung der Richtlinie zweifelhaft, kann jedes Gericht dem EuGH vorlegen; letztinstanzliche Gerichte (BGH) müssen vorlegen (Art. 267 AEUV).",
+  "back": "Richtlinienkonforme Auslegung und Vorlage an den EuGH",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "EU- und IR-Marken"
+  ],
+  "node": "concept:richtlinienkonforme_auslegung"
+ },
+ {
+  "id": "card:definition:concept:transit",
+  "typ": "definition",
+  "front": "Definiere: Transitverbot (§ 14a MarkenG, Art. 10 Abs. 4 MarkenRL)",
+  "back": "Der Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.\n\nNormen: Art. 10 MarkenRL, § 14a, § 146 MarkenG",
+  "tags": [
+   "Begriff",
+   "Verletzung"
+  ],
+  "node": "concept:transit",
+  "erlaeuterung": "Reaktion auf EuGH Philips/Nokia (C-446/09, C-495/09), wonach bloßer Transit keine Verletzung war. Das Recht erlischt, wenn der Anmelder oder Besitzer der Waren im Verletzungsverfahren nachweist, dass der Markeninhaber im Bestimmungsland die Vermarktung nicht verbieten könnte (§ 14a Abs. 2 MarkenG). Durchsetzung über die Grenzbeschlagnahme (§§ 146 ff. MarkenG, VO (EU) Nr. 608/2013)."
+ },
+ {
+  "id": "card:begriff:concept:transit",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDer Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.",
+  "back": "Transitverbot (§ 14a MarkenG, Art. 10 Abs. 4 MarkenRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Verletzung"
+  ],
+  "node": "concept:transit"
+ },
+ {
+  "id": "card:definition:concept:vorbereitungshandlungen",
+  "typ": "definition",
+  "front": "Definiere: Verbot von Vorbereitungshandlungen (§ 14 Abs. 4 MarkenG, Art. 11 MarkenRL)",
+  "back": "Der Inhaber kann Dritten verbieten, die Marke auf Aufmachungen, Verpackungen, Etiketten, Anhängern oder Sicherheits- und Echtheitshinweisen anzubringen sowie solche Kennzeichnungsmittel anzubieten, in Verkehr zu bringen, zu besitzen oder ein- und auszuführen, wenn die Gefahr besteht, dass sie für eine verletzende Kennzeichnung von Waren benutzt werden.\n\nNormen: Art. 11 MarkenRL, § 14 Abs. 4 MarkenG",
+  "tags": [
+   "Begriff",
+   "Verletzung"
+  ],
+  "node": "concept:vorbereitungshandlungen",
+  "erlaeuterung": "Vorverlagerung des Markenschutzes gegen Produktpiraterie: Erfasst wird schon der Handel mit gefälschten Etiketten und Verpackungen, bevor sie mit der Ware verbunden werden. Die Gefahr einer Verletzung ist Tatbestandsmerkmal."
+ },
+ {
+  "id": "card:begriff:concept:vorbereitungshandlungen",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDer Inhaber kann Dritten verbieten, die Marke auf Aufmachungen, Verpackungen, Etiketten, Anhängern oder Sicherheits- und Echtheitshinweisen anzubringen sowie solche Kennzeichnungsmittel anzubieten, in Verkehr zu bringen, zu besitzen oder ein- und auszuführen, wenn die Gefahr besteht, dass sie für eine verletzende Kennzeichnung von Waren benutzt werden.",
+  "back": "Verbot von Vorbereitungshandlungen (§ 14 Abs. 4 MarkenG, Art. 11 MarkenRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Verletzung"
+  ],
+  "node": "concept:vorbereitungshandlungen"
+ },
+ {
+  "id": "card:definition:concept:agentenmarke",
+  "typ": "definition",
+  "front": "Definiere: Agentenmarke (§§ 11, 17 MarkenG, Art. 13 MarkenRL)",
+  "back": "Meldet ein Agent oder Vertreter des Markeninhabers dessen Marke ohne Zustimmung auf eigenen Namen an, ist die Eintragung löschbar (§ 11, relatives Schutzhindernis) und der Inhaber kann die Übertragung der Marke sowie Unterlassung verlangen (§ 17).\n\nNormen: Art. 13 MarkenRL, § 11, § 17 MarkenG",
+  "tags": [
+   "Begriff",
+   "Schutzvoraussetzungen"
+  ],
+  "node": "concept:agentenmarke",
+  "erlaeuterung": "Umsetzung von Art. 6septies PVÜ und Art. 5 Abs. 3 lit. b, Art. 13 MarkenRL. Agent oder Vertreter ist weit zu verstehen: jede Person, die aufgrund einer Vereinbarung zur Wahrnehmung der Interessen des Inhabers verpflichtet ist (Vertriebshändler, Lizenznehmer). Rechtfertigung ist möglich, etwa bei Zustimmung oder Aufgabe der Marke durch den Inhaber."
+ },
+ {
+  "id": "card:begriff:concept:agentenmarke",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nMeldet ein Agent oder Vertreter des Markeninhabers dessen Marke ohne Zustimmung auf eigenen Namen an, ist die Eintragung löschbar (§ 11, relatives Schutzhindernis) und der Inhaber kann die Übertragung der Marke sowie Unterlassung verlangen (§ 17).",
+  "back": "Agentenmarke (§§ 11, 17 MarkenG, Art. 13 MarkenRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Schutzvoraussetzungen"
+  ],
+  "node": "concept:agentenmarke"
+ },
+ {
+  "id": "card:definition:concept:nachschlagewerke",
+  "typ": "definition",
+  "front": "Definiere: Wiedergabe in Nachschlagewerken (§ 16 MarkenG, Art. 12 MarkenRL)",
+  "back": "Erweckt die Wiedergabe einer eingetragenen Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck einer Gattungsbezeichnung, kann der Inhaber vom Verleger verlangen, dass spätestens bei der nächsten Auflage ein Hinweis auf die Eintragung als Marke aufgenommen wird.\n\nNormen: Art. 12 MarkenRL, § 16, § 49 Abs. 2 Nr. 1 MarkenG\n\nRechtsprechung: BGH TÜV II (I ZR 108/09)",
+  "tags": [
+   "Begriff",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:nachschlagewerke",
+  "erlaeuterung": "Schutz vor der Degeneration zur Gattungsbezeichnung (§ 49 Abs. 2 Nr. 1); der Anspruch ist eine Obliegenheit des Inhabers, der aktiv gegen generische Verwendung vorgehen muss (vgl. BGH TÜV II)."
+ },
+ {
+  "id": "card:begriff:concept:nachschlagewerke",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nErweckt die Wiedergabe einer eingetragenen Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck einer Gattungsbezeichnung, kann der Inhaber vom Verleger verlangen, dass spätestens bei der nächsten Auflage ein Hinweis auf die Eintragung als Marke aufgenommen wird.",
+  "back": "Wiedergabe in Nachschlagewerken (§ 16 MarkenG, Art. 12 MarkenRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:nachschlagewerke"
+ },
+ {
+  "id": "card:definition:concept:klassifizierung",
+  "typ": "definition",
+  "front": "Definiere: Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation (§ 32 MarkenG, Art. 39 MarkenRL)",
+  "back": "Die Waren und Dienstleistungen sind nach der Nizza-Klassifikation so klar und eindeutig anzugeben, dass Behörden und Wirtschaftsteilnehmer den Schutzumfang bestimmen können. Allgemeine Begriffe und Klassenüberschriften umfassen nur, was von ihrer wörtlichen Bedeutung eindeutig erfasst ist (EuGH IP Translator, C-307/10; Art. 39 Abs. 5 MarkenRL).\n\nNormen: Art. 39 MarkenRL, § 32, § 9 Abs. 3 MarkenG",
+  "tags": [
+   "Begriff",
+   "Verfahren"
+  ],
+  "node": "concept:klassifizierung",
+  "erlaeuterung": "Die Klasse allein sagt nichts über Warenähnlichkeit (§ 9 Abs. 3 MarkenG, Art. 39 Abs. 7 MarkenRL). Das Verzeichnis bestimmt die Registerlage, die bei Verwechslungsgefahr, Benutzungszwang (Teilbenutzung) und Teillöschung maßgeblich ist."
+ },
+ {
+  "id": "card:begriff:concept:klassifizierung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie Waren und Dienstleistungen sind nach der Nizza-Klassifikation so klar und eindeutig anzugeben, dass Behörden und Wirtschaftsteilnehmer den Schutzumfang bestimmen können. Allgemeine Begriffe und Klassenüberschriften umfassen nur, was von ihrer wörtlichen Bedeutung eindeutig erfasst ist (EuGH IP Translator, C-307/10; Art. 39 Abs. 5 MarkenRL).",
+  "back": "Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation (§ 32 MarkenG, Art. 39 MarkenRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Verfahren"
+  ],
+  "node": "concept:klassifizierung"
+ },
+ {
+  "id": "card:definition:concept:verwaltungsverfahren_loeschung",
+  "typ": "definition",
+  "front": "Definiere: Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG, Art. 45 MarkenRL)",
+  "back": "Art. 45 MarkenRL verpflichtet die Mitgliedstaaten, ein effizientes und zügiges Verwaltungsverfahren vor dem Markenamt für die Erklärung des Verfalls und der Nichtigkeit vorzusehen. Deutschland hat es seit 1.5.2020 in § 53 MarkenG als vollständiges Verfahren vor dem DPMA ausgestaltet; daneben bleibt die Klage vor dem Landgericht nach § 55 für Verfall und relative Nichtigkeit.\n\nNormen: Art. 45 MarkenRL, § 53, § 54, § 55, Art. 46 MarkenRL MarkenG\n\nRechtsprechung: BGH Black Friday (I ZB 21/20)",
+  "tags": [
+   "Begriff",
+   "Verfahren"
+  ],
+  "node": "concept:verwaltungsverfahren_loeschung",
+  "erlaeuterung": "Ablauf: Antrag mit Begründung und Gebühr; Zustellung an den Inhaber; widerspricht dieser nicht binnen zwei Monaten, wird gelöscht (§ 53 Abs. 5); sonst kontradiktorisches Verfahren mit Entscheidung durch Beschluss, Beschwerde zum BPatG (§ 66). Nichtbenutzungseinrede § 53 Abs. 6 (Art. 46 MarkenRL). Bei parallelen Verfahren Aussetzung möglich (§ 53 Abs. 7, § 148 ZPO)."
+ },
+ {
+  "id": "card:begriff:concept:verwaltungsverfahren_loeschung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nArt. 45 MarkenRL verpflichtet die Mitgliedstaaten, ein effizientes und zügiges Verwaltungsverfahren vor dem Markenamt für die Erklärung des Verfalls und der Nichtigkeit vorzusehen. Deutschland hat es seit 1.5.2020 in § 53 MarkenG als vollständiges Verfahren vor dem DPMA ausgestaltet; daneben bleibt die Klage vor dem Landgericht nach § 55 für Verfall und relative Nichtigkeit.",
+  "back": "Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG, Art. 45 MarkenRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Verfahren"
+  ],
+  "node": "concept:verwaltungsverfahren_loeschung"
+ },
+ {
+  "id": "card:definition:concept:schutzdauer",
+  "typ": "definition",
+  "front": "Definiere: Schutzdauer und Verlängerung (§ 47 MarkenG, Art. 48, 49 MarkenRL)",
+  "back": "Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag und kann beliebig oft um zehn Jahre verlängert werden. Die Verlängerung erfolgt durch Zahlung der Verlängerungsgebühr innerhalb von sechs Monaten vor Ablauf, nachträglich innerhalb weiterer sechs Monate mit Zuschlag; das DPMA unterrichtet den Inhaber vorab.\n\nNormen: Art. 48 MarkenRL, Art. 49 MarkenRL, § 47 MarkenG",
+  "tags": [
+   "Begriff",
+   "Grundlagen"
+  ],
+  "node": "concept:schutzdauer",
+  "erlaeuterung": "Seit dem MaMoG läuft die Frist tagesgenau ab dem Anmeldetag (früher: Ende des Monats). Die Verlängerung kann auf einen Teil der Waren beschränkt werden. Ohne Verlängerung erlischt die Marke (§ 47 Abs. 6)."
+ },
+ {
+  "id": "card:begriff:concept:schutzdauer",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie Schutzdauer beträgt zehn Jahre ab dem Anmeldetag und kann beliebig oft um zehn Jahre verlängert werden. Die Verlängerung erfolgt durch Zahlung der Verlängerungsgebühr innerhalb von sechs Monaten vor Ablauf, nachträglich innerhalb weiterer sechs Monate mit Zuschlag; das DPMA unterrichtet den Inhaber vorab.",
+  "back": "Schutzdauer und Verlängerung (§ 47 MarkenG, Art. 48, 49 MarkenRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Grundlagen"
+  ],
+  "node": "concept:schutzdauer"
  },
  {
   "id": "card:schema:schema:schema_markenverletzung",
@@ -2240,6 +2456,17 @@
    "EU- und IR-Marken"
   ],
   "node": "schema:schema_ir_marke"
+ },
+ {
+  "id": "card:schema:schema:schema_markenrl",
+  "typ": "schema",
+  "front": "Prüfungsschema: Unionsrechtlicher Rahmen: Markenrechtsrichtlinie anwenden",
+  "back": "- 1. Anwendungsbereich prüfen\n- 2. Aufbau der Richtlinie kennen\n  - Kapitel 2 Abschnitt 1 und 2: Markenformen, Eintragungshindernisse\n  - Kapitel 2 Abschnitt 3: Rechte und Schranken\n  - Kapitel 2 Abschnitt 4 bis 6: Verfall, Vermögen, Kollektivmarken\n  - Kapitel 3: Verfahren\n- 3. Zugehörige MarkenG-Norm zuordnen\n- 4. Richtlinienkonform auslegen\n- 5. Bei Zweifeln: Vorlage an den EuGH\n- 6. Übergangsrecht beachten",
+  "tags": [
+   "Prüfungsschema",
+   "EU- und IR-Marken"
+  ],
+  "node": "schema:schema_markenrl"
  },
  {
   "id": "card:schema_step:step:schema_markenverletzung.2",
@@ -2462,6 +2689,17 @@
   "node": "step:schema_ir_marke.4"
  },
  {
+  "id": "card:schema_step:step:schema_markenrl.2",
+  "typ": "schema_step",
+  "front": "2. Aufbau der Richtlinie kennen\n(Unionsrechtlicher Rahmen: Markenrechtsrichtlinie anwenden)\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- Kapitel 2 Abschnitt 1 und 2: Markenformen, Eintragungshindernisse\n- Kapitel 2 Abschnitt 3: Rechte und Schranken\n- Kapitel 2 Abschnitt 4 bis 6: Verfall, Vermögen, Kollektivmarken\n- Kapitel 3: Verfahren",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:schema_markenrl.2"
+ },
+ {
   "id": "card:abgrenzung:distinction:d_kennzeichnungskraft_unterscheidungskraft",
   "typ": "abgrenzung",
   "front": "Worin unterscheiden sich Unterscheidungskraft und Kennzeichnungskraft?\n(Kennzeichnungskraft vs. Unterscheidungskraft)",
@@ -2632,6 +2870,16 @@
   "node": "distinction:d_marke_unionsmarke_irmarke"
  },
  {
+  "id": "card:abgrenzung:distinction:d_markenrl_umsetzung",
+  "typ": "abgrenzung",
+  "front": "Welche Vorschrift des MarkenG setzt welchen Artikel der MarkenRL um, und was hat das MaMoG 2019 geändert?\n(Umsetzungstabelle: Markenrechtsrichtlinie (EU) 2015/2436 und MarkenG)",
+  "back": "• Markenformen — MarkenRL: Art. 3 | MarkenG: § 3 Abs. 1, § 8 Abs. 1 | Änderung durch das MaMoG 2019: Graphische Darstellbarkeit entfällt; neue Markenformen (Klang, Bewegung, Multimedia, Hologramm)\n• Absolute Schutzhindernisse — MarkenRL: Art. 4 | MarkenG: § 3 Abs. 2, § 8 Abs. 2, Abs. 3, § 50 | Änderung durch das MaMoG 2019: Formausschluss auch für „andere charakteristische Merkmale“; Bösgläubigkeit Nr. 14; Nr. 9 bis 13 neu\n• Relative Schutzhindernisse — MarkenRL: Art. 5 | MarkenG: §§ 9 bis 13, § 42, § 51, § 125b | Änderung durch das MaMoG 2019: Bekanntheitsschutz im Register zwingend und für alle Waren (§ 9 Abs. 1 Nr. 3)\n• Zeitpunkt / Zwischenrecht — MarkenRL: Art. 8, 18 | MarkenG: § 22, § 51 Abs. 3, Abs. 4 | Änderung durch das MaMoG 2019: Kennzeichnungskraft und Bekanntheit der älteren Marke werden zum Prioritätstag der jüngeren beurteilt\n• Verwirkung durch Duldung — MarkenRL: Art. 9 | MarkenG: § 21, § 51 Abs. 2 | Änderung durch das MaMoG 2019: Unverändert (bereits RL 2008/95)\n• Rechte aus der Marke — MarkenRL: Art. 10 | MarkenG: § 14 Abs. 1 bis 3, § 15 | Änderung durch das MaMoG 2019: Benutzung als Unternehmensbezeichnung ausdrücklich Verletzungshandlung (§ 14 Abs. 3 Nr. 5); vergleichende Werbung (Nr. 7)\n• Transit — MarkenRL: Art. 10 Abs. 4 | MarkenG: § 14a | Änderung durch das MaMoG 2019: Neu: Verbot der Durchfuhr gefälschter Ware unter zollamtlicher Überwachung\n• Vorbereitungshandlungen — MarkenRL: Art. 11 | MarkenG: § 14 Abs. 4 | Änderung durch das MaMoG 2019: Erweitert um Sicherheits- und Echtheitshinweise\n• Nachschlagewerke — MarkenRL: Art. 12 | MarkenG: § 16 | Änderung durch das MaMoG 2019: Unverändert\n• Agentenmarke — MarkenRL: Art. 13 | MarkenG: § 11, § 17 | Änderung durch das MaMoG 2019: Unverändert\n• Schranken — MarkenRL: Art. 14 | MarkenG: § 23 | Änderung durch das MaMoG 2019: Namensschranke nur noch für natürliche Personen; referierende Benutzung ausdrücklich\n• Erschöpfung — MarkenRL: Art. 15 | MarkenG: § 24 | Änderung durch das MaMoG 2019: Unverändert (unionsweite Erschöpfung)\n• Benutzung — MarkenRL: Art. 16 | MarkenG: § 26, §§ 115 bis 117 | Änderung durch das MaMoG 2019: Schonfrist beginnt mit Abschluss des Widerspruchsverfahrens (§ 26 Abs. 5); abweichende Form auch bei eigener Eintragung (§ 26 Abs. 3 S. 2)\n• Nichtbenutzungseinrede — MarkenRL: Art. 17, 44, 46 | MarkenG: § 25, § 43 Abs. 1, § 53 Abs. 6 | Änderung durch das MaMoG 2019: Fünfjahreszeitraum im Widerspruch bezogen auf den Anmeldetag der jüngeren Marke\n• Verfall — MarkenRL: Art. 19 bis 21 | MarkenG: § 49 | Änderung durch das MaMoG 2019: Unverändert\n• Lizenz — MarkenRL: Art. 25 | MarkenG: § 30 | Änderung durch das MaMoG 2019: Unverändert\n• Kollektiv-/Gewährleistungsmarke — MarkenRL: Art. 27 bis 36 | MarkenG: §§ 97 bis 106, §§ 106a bis 106h | Änderung durch das MaMoG 2019: Neu: Gewährleistungsmarke (§§ 106a ff.)\n• Anmeldung / Klassifizierung — MarkenRL: Art. 37 bis 42 | MarkenG: §§ 32, 33, 40, 46 | Änderung durch das MaMoG 2019: Klarheit des Verzeichnisses, Klassengebühren\n• Widerspruch — MarkenRL: Art. 43 | MarkenG: § 42 | Änderung durch das MaMoG 2019: Widerspruch aus mehreren Rechten; Cooling-off (§ 42 Abs. 4)\n• Verfall/Nichtigkeit vor dem Amt — MarkenRL: Art. 45 | MarkenG: § 53, § 54 | Änderung durch das MaMoG 2019: Neu seit 1.5.2020: vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA; § 55 nur noch für Verfall und relative Nichtigkeit\n• Wirkungen — MarkenRL: Art. 47 | MarkenG: § 52 | Änderung durch das MaMoG 2019: Unverändert (Verfall ex nunc, Nichtigkeit ex tunc)\n• Schutzdauer — MarkenRL: Art. 48, 49 | MarkenG: § 47 | Änderung durch das MaMoG 2019: Fristen laufen tagesgenau ab dem Anmeldetag\n\nMerksatz: MarkenRL = Bauplan, MarkenG = Gebäude: Bei jeder Norm des MarkenG lohnt der Blick auf den zugehörigen Artikel, weil der EuGH das letzte Wort zur Auslegung hat.",
+  "tags": [
+   "Abgrenzung"
+  ],
+  "node": "distinction:d_markenrl_umsetzung"
+ },
+ {
   "id": "card:entscheidung:case:bgh_rocher_kugel",
   "typ": "entscheidung",
   "front": "BGH „ROCHER-Kugel“ (I ZB 88/07, 2009) – Kernaussage?",
@@ -2662,7 +2910,7 @@
   "id": "card:entscheidung:case:bgh_ritter_sport",
   "typ": "entscheidung",
   "front": "BGH „Quadratische Tafelschokoladenverpackung II“ (I ZB 42/19, 2020) – Kernaussage?",
-  "back": "Die quadratische Ritter-Sport-Verpackung bleibt als Formmarke geschützt. Das Schutzhindernis der wertverleihenden Form (§ 3 Abs. 2 Nr. 3 MarkenG) greift nicht, wenn die Kaufentscheidung nicht durch die ästhetische Qualität der Form, sondern durch andere Merkmale (hier: Herkunftshinweis, Praktikabilität) bestimmt wird. Die Form ist auch nicht durch die Art der Ware selbst bedingt (§ 3 Abs. 2 Nr. 1).\n\nNormen: § 3 Abs. 2 Nr. 1, § 3 Abs. 2 Nr. 3, § 50 MarkenG\nFundstelle: GRUR 2020, 1089",
+  "back": "Die quadratische Ritter-Sport-Verpackung bleibt als Formmarke geschützt. Das Schutzhindernis der wertverleihenden Form (§ 3 Abs. 2 Nr. 3 MarkenG) greift nicht, wenn die Kaufentscheidung nicht durch die ästhetische Qualität der Form, sondern durch andere Merkmale (hier: Herkunftshinweis, Praktikabilität) bestimmt wird. Die Form ist auch nicht durch die Art der Ware selbst bedingt (§ 3 Abs. 2 Nr. 1).\n\nNormen: Art. 4 MarkenRL, § 3 Abs. 2 Nr. 1, § 3 Abs. 2 Nr. 3, § 50 MarkenG\nFundstelle: GRUR 2020, 1089",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -2741,7 +2989,7 @@
   "id": "card:entscheidung:case:eugh_philips_remington",
   "typ": "entscheidung",
   "front": "EuGH „Philips/Remington“ (C-299/99, 2002) – Kernaussage?",
-  "back": "Ein Zeichen, das ausschließlich aus der Form einer Ware besteht, ist nicht eintragungsfähig, wenn die wesentlichen funktionellen Merkmale nur der technischen Wirkung zuzuschreiben sind. Der Ausschluss kann nicht durch den Nachweis überwunden werden, dass es andere Formen gibt, mit denen dieselbe Wirkung erzielt werden kann; auch nicht durch Verkehrsdurchsetzung.\n\nNormen: § 3 Abs. 2 Nr. 2 MarkenG\nFundstelle: GRUR 2002, 804",
+  "back": "Ein Zeichen, das ausschließlich aus der Form einer Ware besteht, ist nicht eintragungsfähig, wenn die wesentlichen funktionellen Merkmale nur der technischen Wirkung zuzuschreiben sind. Der Ausschluss kann nicht durch den Nachweis überwunden werden, dass es andere Formen gibt, mit denen dieselbe Wirkung erzielt werden kann; auch nicht durch Verkehrsdurchsetzung.\n\nNormen: Art. 4 MarkenRL, § 3 Abs. 2 Nr. 2 MarkenG\nFundstelle: GRUR 2002, 804",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -2768,7 +3016,7 @@
   "id": "card:entscheidung:case:eugh_libertel",
   "typ": "entscheidung",
   "front": "EuGH „Libertel“ (C-104/01, 2003) – Kernaussage?",
-  "back": "Eine abstrakte Farbe ohne räumliche Begrenzung kann markenfähig sein, wenn sie durch einen international anerkannten Farbcode eindeutig bestimmt ist. Originäre Unterscheidungskraft kommt einer Farbe nur unter außergewöhnlichen Umständen zu; regelmäßig ist Verkehrsdurchsetzung nötig. Das Allgemeininteresse an der Verfügbarkeit von Farben ist zu berücksichtigen.\n\nNormen: § 3 Abs. 1, § 8 Abs. 1, § 8 Abs. 2 Nr. 1 MarkenG\nFundstelle: GRUR 2003, 604",
+  "back": "Eine abstrakte Farbe ohne räumliche Begrenzung kann markenfähig sein, wenn sie durch einen international anerkannten Farbcode eindeutig bestimmt ist. Originäre Unterscheidungskraft kommt einer Farbe nur unter außergewöhnlichen Umständen zu; regelmäßig ist Verkehrsdurchsetzung nötig. Das Allgemeininteresse an der Verfügbarkeit von Farben ist zu berücksichtigen.\n\nNormen: Art. 3 MarkenRL, § 3 Abs. 1, § 8 Abs. 1, § 8 Abs. 2 Nr. 1 MarkenG\nFundstelle: GRUR 2003, 604",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -2903,7 +3151,7 @@
   "id": "card:entscheidung:case:eugh_darferdas",
   "typ": "entscheidung",
   "front": "EuGH „AS/DPMA (#darferdas?)“ (C-541/18, 2019) – Kernaussage?",
-  "back": "Die Unterscheidungskraft eines Zeichens ist unter Berücksichtigung aller relevanten Tatsachen und Umstände, einschließlich sämtlicher wahrscheinlicher Verwendungsarten der angemeldeten Marke, zu prüfen. Praktisch nicht bedeutsame Verwendungsarten bleiben außer Betracht.\n\nNormen: § 8 Abs. 2 Nr. 1 MarkenG\nFundstelle: GRUR 2019, 1194",
+  "back": "Die Unterscheidungskraft eines Zeichens ist unter Berücksichtigung aller relevanten Tatsachen und Umstände, einschließlich sämtlicher wahrscheinlicher Verwendungsarten der angemeldeten Marke, zu prüfen. Praktisch nicht bedeutsame Verwendungsarten bleiben außer Betracht.\n\nNormen: Art. 4 MarkenRL, § 8 Abs. 2 Nr. 1 MarkenG\nFundstelle: GRUR 2019, 1194",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3086,7 +3334,7 @@
   "id": "card:entscheidung:case:bgh_black_friday",
   "typ": "entscheidung",
   "front": "BGH „Black Friday“ (I ZB 21/20, 2021) – Kernaussage?",
-  "back": "Ein Freihaltebedürfnis nach § 8 Abs. 2 Nr. 2 MarkenG setzt nicht voraus, dass das Zeichen im Anmeldezeitpunkt bereits beschreibend verwendet wird; es genügt, dass eine beschreibende Verwendung vernünftigerweise für die Zukunft zu erwarten ist. 'Black Friday' wurde für Elektronikwaren und Werbedienstleistungen teilweise gelöscht.\n\nNormen: § 50, § 8 Abs. 2 Nr. 2 MarkenG\nFundstelle: GRUR 2021, 1195",
+  "back": "Ein Freihaltebedürfnis nach § 8 Abs. 2 Nr. 2 MarkenG setzt nicht voraus, dass das Zeichen im Anmeldezeitpunkt bereits beschreibend verwendet wird; es genügt, dass eine beschreibende Verwendung vernünftigerweise für die Zukunft zu erwarten ist. 'Black Friday' wurde für Elektronikwaren und Werbedienstleistungen teilweise gelöscht.\n\nNormen: Art. 4 MarkenRL, § 50, § 8 Abs. 2 Nr. 2 MarkenG\nFundstelle: GRUR 2021, 1195",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -3113,7 +3361,7 @@
   "id": "card:entscheidung:case:eugh_chiemsee",
   "typ": "entscheidung",
   "front": "EuGH „Windsurfing Chiemsee“ (C-108/97, 1999) – Kernaussage?",
-  "back": "Geographische Herkunftsangaben sind freizuhalten, wenn sie gegenwärtig oder vernünftigerweise in Zukunft mit den Waren in Verbindung gebracht werden können. Für die Verkehrsdurchsetzung gibt es keine feste Prozentzahl; maßgeblich ist, ob ein erheblicher Teil der beteiligten Verkehrskreise die Ware aufgrund der Marke einem bestimmten Unternehmen zuordnet (Gesamtbetrachtung: Marktanteil, Intensität, Dauer, Werbeaufwand, Umfragen).\n\nNormen: § 8 Abs. 2 Nr. 2, § 8 Abs. 3 MarkenG\nFundstelle: GRUR 1999, 723",
+  "back": "Geographische Herkunftsangaben sind freizuhalten, wenn sie gegenwärtig oder vernünftigerweise in Zukunft mit den Waren in Verbindung gebracht werden können. Für die Verkehrsdurchsetzung gibt es keine feste Prozentzahl; maßgeblich ist, ob ein erheblicher Teil der beteiligten Verkehrskreise die Ware aufgrund der Marke einem bestimmten Unternehmen zuordnet (Gesamtbetrachtung: Marktanteil, Intensität, Dauer, Werbeaufwand, Umfragen).\n\nNormen: Art. 4 MarkenRL, § 8 Abs. 2 Nr. 2, § 8 Abs. 3 MarkenG\nFundstelle: GRUR 1999, 723",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3350,7 +3598,7 @@
   "id": "card:entscheidung:case:eugh_arsenal",
   "typ": "entscheidung",
   "front": "EuGH „Arsenal Football Club“ (C-206/01, 2002) – Kernaussage?",
-  "back": "Der Markeninhaber kann eine Benutzung verbieten, die die Funktionen der Marke, insbesondere die Herkunftsfunktion, beeinträchtigt oder beeinträchtigen kann. Auch die Verwendung als 'Fanartikel' (Zeichen der Verbundenheit) kann rechtsverletzend sein, wenn der Eindruck einer Verbindung zum Markeninhaber entsteht.\n\nNormen: § 14 Abs. 2 Nr. 1 MarkenG\nFundstelle: GRUR 2003, 55",
+  "back": "Der Markeninhaber kann eine Benutzung verbieten, die die Funktionen der Marke, insbesondere die Herkunftsfunktion, beeinträchtigt oder beeinträchtigen kann. Auch die Verwendung als 'Fanartikel' (Zeichen der Verbundenheit) kann rechtsverletzend sein, wenn der Eindruck einer Verbindung zum Markeninhaber entsteht.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 Nr. 1 MarkenG\nFundstelle: GRUR 2003, 55",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3377,7 +3625,7 @@
   "id": "card:entscheidung:case:eugh_loreal_bellure",
   "typ": "entscheidung",
   "front": "EuGH „L'Oréal/Bellure“ (C-487/07, 2009) – Kernaussage?",
-  "back": "Geschützt sind neben der Herkunftsfunktion auch Qualitäts-, Kommunikations-, Investitions- und Werbefunktion. Bei Doppelidentität genügt die Beeinträchtigung einer dieser Funktionen. Unlautere Ausnutzung der Wertschätzung (Duftvergleichslisten) liegt vor, wenn sich der Dritte in den Bereich der Sogwirkung der bekannten Marke begibt, um von ihrer Anziehungskraft ohne eigene Anstrengung zu profitieren.\n\nNormen: § 14 Abs. 2 Nr. 1, § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR 2009, 756",
+  "back": "Geschützt sind neben der Herkunftsfunktion auch Qualitäts-, Kommunikations-, Investitions- und Werbefunktion. Bei Doppelidentität genügt die Beeinträchtigung einer dieser Funktionen. Unlautere Ausnutzung der Wertschätzung (Duftvergleichslisten) liegt vor, wenn sich der Dritte in den Bereich der Sogwirkung der bekannten Marke begibt, um von ihrer Anziehungskraft ohne eigene Anstrengung zu profitieren.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 Nr. 1, § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR 2009, 756",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3508,7 +3756,7 @@
   "id": "card:entscheidung:case:eugh_celine",
   "typ": "entscheidung",
   "front": "EuGH „Céline“ (C-17/06, 2007) – Kernaussage?",
-  "back": "Die bloße Benutzung einer Firma oder Geschäftsbezeichnung ist keine Benutzung 'für Waren oder Dienstleistungen'. Anders, wenn das Zeichen so benutzt wird, dass eine Verbindung zwischen der Firma und den vertriebenen Waren hergestellt wird und dadurch die Herkunftsfunktion beeinträchtigt werden kann.\n\nNormen: § 14 Abs. 2, § 23 MarkenG\nFundstelle: GRUR 2007, 971",
+  "back": "Die bloße Benutzung einer Firma oder Geschäftsbezeichnung ist keine Benutzung 'für Waren oder Dienstleistungen'. Anders, wenn das Zeichen so benutzt wird, dass eine Verbindung zwischen der Firma und den vertriebenen Waren hergestellt wird und dadurch die Herkunftsfunktion beeinträchtigt werden kann.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2, § 23 MarkenG\nFundstelle: GRUR 2007, 971",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3533,7 +3781,7 @@
   "id": "card:entscheidung:case:eugh_google_france",
   "typ": "entscheidung",
   "front": "EuGH „Google France und Google“ (C-236/08 bis C-238/08, 2010) – Kernaussage?",
-  "back": "Die Buchung einer fremden Marke als AdWords-Keyword ist eine Benutzung im geschäftlichen Verkehr. Die Herkunftsfunktion wird beeinträchtigt, wenn aus der Anzeige für einen normal informierten Internetnutzer nicht oder nur schwer zu erkennen ist, ob die beworbenen Waren vom Markeninhaber, einem verbundenen Unternehmen oder einem Dritten stammen. Google selbst benutzt die Marke nicht.\n\nNormen: § 14 Abs. 2 Nr. 1 MarkenG\nFundstelle: GRUR 2010, 445",
+  "back": "Die Buchung einer fremden Marke als AdWords-Keyword ist eine Benutzung im geschäftlichen Verkehr. Die Herkunftsfunktion wird beeinträchtigt, wenn aus der Anzeige für einen normal informierten Internetnutzer nicht oder nur schwer zu erkennen ist, ob die beworbenen Waren vom Markeninhaber, einem verbundenen Unternehmen oder einem Dritten stammen. Google selbst benutzt die Marke nicht.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 Nr. 1 MarkenG\nFundstelle: GRUR 2010, 445",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3716,7 +3964,7 @@
   "id": "card:entscheidung:case:eugh_sabel_puma",
   "typ": "entscheidung",
   "front": "EuGH „SABEL/Puma“ (C-251/95, 1997) – Kernaussage?",
-  "back": "Die Verwechslungsgefahr ist umfassend unter Berücksichtigung aller Umstände des Einzelfalls zu beurteilen. Maßgeblich ist der Gesamteindruck der Zeichen beim Durchschnittsverbraucher; die bloße gedankliche Verbindung genügt nicht. Je höher die Kennzeichnungskraft der älteren Marke, desto größer die Verwechslungsgefahr.\n\nNormen: § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2 MarkenG\nFundstelle: GRUR 1998, 387",
+  "back": "Die Verwechslungsgefahr ist umfassend unter Berücksichtigung aller Umstände des Einzelfalls zu beurteilen. Maßgeblich ist der Gesamteindruck der Zeichen beim Durchschnittsverbraucher; die bloße gedankliche Verbindung genügt nicht. Je höher die Kennzeichnungskraft der älteren Marke, desto größer die Verwechslungsgefahr.\n\nNormen: Art. 5 MarkenRL, § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2 MarkenG\nFundstelle: GRUR 1998, 387",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3741,7 +3989,7 @@
   "id": "card:entscheidung:case:eugh_canon",
   "typ": "entscheidung",
   "front": "EuGH „Canon“ (C-39/97, 1998) – Kernaussage?",
-  "back": "Wechselwirkungslehre: Ein geringerer Grad der Warenähnlichkeit kann durch einen höheren Grad der Zeichenähnlichkeit oder eine erhöhte Kennzeichnungskraft ausgeglichen werden und umgekehrt. Bei der Warenähnlichkeit sind Art, Verwendungszweck, Nutzung, Eigenart als konkurrierende oder ergänzende Waren zu berücksichtigen. Verwechslungsgefahr umfasst auch die Annahme wirtschaftlicher Verbindungen.\n\nNormen: § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2 MarkenG\nFundstelle: GRUR 1998, 922",
+  "back": "Wechselwirkungslehre: Ein geringerer Grad der Warenähnlichkeit kann durch einen höheren Grad der Zeichenähnlichkeit oder eine erhöhte Kennzeichnungskraft ausgeglichen werden und umgekehrt. Bei der Warenähnlichkeit sind Art, Verwendungszweck, Nutzung, Eigenart als konkurrierende oder ergänzende Waren zu berücksichtigen. Verwechslungsgefahr umfasst auch die Annahme wirtschaftlicher Verbindungen.\n\nNormen: Art. 5 MarkenRL, § 14 Abs. 2 Nr. 2, § 9 Abs. 1 Nr. 2 MarkenG\nFundstelle: GRUR 1998, 922",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3768,7 +4016,7 @@
   "id": "card:entscheidung:case:eugh_lloyd",
   "typ": "entscheidung",
   "front": "EuGH „Lloyd Schuhfabrik Meyer“ (C-342/97, 1999) – Kernaussage?",
-  "back": "Maßstab ist der durchschnittlich informierte, aufmerksame und verständige Durchschnittsverbraucher, der die Marken selten gleichzeitig wahrnimmt und sich auf sein unvollkommenes Erinnerungsbild verlässt. Die Kennzeichnungskraft ist anhand aller Umstände (Marktanteil, Intensität, Dauer, Werbeaufwand, Bekanntheitsgrad) zu bestimmen; feste Prozentsätze gibt es nicht.\n\nNormen: § 14 Abs. 2 Nr. 2 MarkenG\nFundstelle: GRUR Int. 1999, 734",
+  "back": "Maßstab ist der durchschnittlich informierte, aufmerksame und verständige Durchschnittsverbraucher, der die Marken selten gleichzeitig wahrnimmt und sich auf sein unvollkommenes Erinnerungsbild verlässt. Die Kennzeichnungskraft ist anhand aller Umstände (Marktanteil, Intensität, Dauer, Werbeaufwand, Bekanntheitsgrad) zu bestimmen; feste Prozentsätze gibt es nicht.\n\nNormen: Art. 5 MarkenRL, § 14 Abs. 2 Nr. 2 MarkenG\nFundstelle: GRUR Int. 1999, 734",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -3795,7 +4043,7 @@
   "id": "card:entscheidung:case:eugh_thomson_life",
   "typ": "entscheidung",
   "front": "EuGH „THOMSON LIFE (Medion)“ (C-120/04, 2005) – Kernaussage?",
-  "back": "Verwechslungsgefahr kann auch dann bestehen, wenn eine ältere Marke ('LIFE') in ein zusammengesetztes jüngeres Zeichen ('THOMSON LIFE') übernommen wird und dort eine selbständig kennzeichnende Stellung behält, ohne den Gesamteindruck zu dominieren. Der Verkehr kann annehmen, die Waren stammten aus wirtschaftlich verbundenen Unternehmen.\n\nNormen: § 14 Abs. 2 Nr. 2 MarkenG\nFundstelle: GRUR 2005, 1042",
+  "back": "Verwechslungsgefahr kann auch dann bestehen, wenn eine ältere Marke ('LIFE') in ein zusammengesetztes jüngeres Zeichen ('THOMSON LIFE') übernommen wird und dort eine selbständig kennzeichnende Stellung behält, ohne den Gesamteindruck zu dominieren. Der Verkehr kann annehmen, die Waren stammten aus wirtschaftlich verbundenen Unternehmen.\n\nNormen: Art. 10 MarkenRL, Art. 5 MarkenRL, § 14 Abs. 2 Nr. 2 MarkenG\nFundstelle: GRUR 2005, 1042",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -4136,7 +4384,7 @@
   "id": "card:entscheidung:case:eugh_general_motors",
   "typ": "entscheidung",
   "front": "EuGH „General Motors/Yplon (Chevy)“ (C-375/97, 1999) – Kernaussage?",
-  "back": "Eine Marke ist bekannt, wenn sie einem bedeutenden Teil des Publikums bekannt ist, das von den durch die Marke erfassten Waren oder Dienstleistungen betroffen ist. Feste Prozentsätze gibt es nicht; zu berücksichtigen sind Marktanteil, Intensität, geographische Ausdehnung, Dauer der Benutzung und Werbeaufwand. Bekanntheit in einem wesentlichen Teil des Gebiets genügt.\n\nNormen: § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR Int. 2000, 73",
+  "back": "Eine Marke ist bekannt, wenn sie einem bedeutenden Teil des Publikums bekannt ist, das von den durch die Marke erfassten Waren oder Dienstleistungen betroffen ist. Feste Prozentsätze gibt es nicht; zu berücksichtigen sind Marktanteil, Intensität, geographische Ausdehnung, Dauer der Benutzung und Werbeaufwand. Bekanntheit in einem wesentlichen Teil des Gebiets genügt.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR Int. 2000, 73",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -4161,7 +4409,7 @@
   "id": "card:entscheidung:case:eugh_intel",
   "typ": "entscheidung",
   "front": "EuGH „Intel/CPM (INTELMARK)“ (C-252/07, 2008) – Kernaussage?",
-  "back": "Die gedankliche Verknüpfung zwischen den Zeichen ist notwendige, aber nicht hinreichende Voraussetzung des Bekanntheitsschutzes. Eine Beeinträchtigung der Unterscheidungskraft (Verwässerung) erfordert den Nachweis einer Änderung des wirtschaftlichen Verhaltens des Durchschnittsverbrauchers oder die ernsthafte Gefahr einer solchen Änderung.\n\nNormen: § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR 2009, 56",
+  "back": "Die gedankliche Verknüpfung zwischen den Zeichen ist notwendige, aber nicht hinreichende Voraussetzung des Bekanntheitsschutzes. Eine Beeinträchtigung der Unterscheidungskraft (Verwässerung) erfordert den Nachweis einer Änderung des wirtschaftlichen Verhaltens des Durchschnittsverbrauchers oder die ernsthafte Gefahr einer solchen Änderung.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR 2009, 56",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -4215,7 +4463,7 @@
   "id": "card:entscheidung:case:bgh_springender_pudel",
   "typ": "entscheidung",
   "front": "BGH „Springender Pudel“ (I ZR 59/13, 2015) – Kernaussage?",
-  "back": "Die Parodie einer bekannten Marke (springender Pudel statt Puma-Raubkatze) nutzt deren Unterscheidungskraft in unlauterer Weise aus, wenn der Verkehr die Zeichen gedanklich verknüpft und der Parodist von der Aufmerksamkeit der bekannten Marke profitiert. Kunst- und Meinungsfreiheit rechtfertigen nicht die Eintragung als eigene Marke; der Inhaber der bekannten Marke kann die Löschung verlangen.\n\nNormen: § 14 Abs. 2 Nr. 3, § 51, § 9 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2015, 1114",
+  "back": "Die Parodie einer bekannten Marke (springender Pudel statt Puma-Raubkatze) nutzt deren Unterscheidungskraft in unlauterer Weise aus, wenn der Verkehr die Zeichen gedanklich verknüpft und der Parodist von der Aufmerksamkeit der bekannten Marke profitiert. Kunst- und Meinungsfreiheit rechtfertigen nicht die Eintragung als eigene Marke; der Inhaber der bekannten Marke kann die Löschung verlangen.\n\nNormen: Art. 5 MarkenRL, § 14 Abs. 2 Nr. 3, § 51, § 9 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2015, 1114",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4267,7 +4515,7 @@
   "id": "card:entscheidung:case:bgh_oeko_test_ii",
   "typ": "entscheidung",
   "front": "BGH „ÖKO-TEST II“ (I ZR 117/17, 2019) – Kernaussage?",
-  "back": "Die Verwendung des bekannten ÖKO-TEST-Siegels in der Produktwerbung ohne Lizenz nutzt die Wertschätzung der bekannten Marke unlauter aus, auch wenn das Testsiegel für Dienstleistungen (Verbraucherinformation) und nicht für die beworbenen Waren eingetragen ist (im Anschluss an EuGH C-690/17).\n\nNormen: § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR 2020, 405",
+  "back": "Die Verwendung des bekannten ÖKO-TEST-Siegels in der Produktwerbung ohne Lizenz nutzt die Wertschätzung der bekannten Marke unlauter aus, auch wenn das Testsiegel für Dienstleistungen (Verbraucherinformation) und nicht für die beworbenen Waren eingetragen ist (im Anschluss an EuGH C-690/17).\n\nNormen: Art. 28 MarkenRL, § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR 2020, 405",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4319,7 +4567,7 @@
   "id": "card:entscheidung:case:bgh_tuev_ii",
   "typ": "entscheidung",
   "front": "BGH „TÜV II“ (I ZR 108/09, 2011) – Kernaussage?",
-  "back": "Die Verwendung der bekannten Marke 'TÜV' durch einen Wettbewerber ('TÜV-Service' ohne Berechtigung) nutzt die Unterscheidungskraft und Wertschätzung in unlauterer Weise aus; eine Rechtfertigung als beschreibende Angabe (§ 23 Nr. 2) scheidet aus, wenn 'TÜV' nicht generisch für Prüfdienstleistungen geworden ist.\n\nNormen: § 14 Abs. 2 Nr. 3, § 23 MarkenG\nFundstelle: GRUR 2011, 1043",
+  "back": "Die Verwendung der bekannten Marke 'TÜV' durch einen Wettbewerber ('TÜV-Service' ohne Berechtigung) nutzt die Unterscheidungskraft und Wertschätzung in unlauterer Weise aus; eine Rechtfertigung als beschreibende Angabe (§ 23 Nr. 2) scheidet aus, wenn 'TÜV' nicht generisch für Prüfdienstleistungen geworden ist.\n\nNormen: Art. 20 MarkenRL, § 14 Abs. 2 Nr. 3, § 23 MarkenG\nFundstelle: GRUR 2011, 1043",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4344,7 +4592,7 @@
   "id": "card:entscheidung:case:eugh_gillette",
   "typ": "entscheidung",
   "front": "EuGH „Gillette/LA-Laboratories“ (C-228/03, 2005) – Kernaussage?",
-  "back": "Die Benutzung einer fremden Marke als Bestimmungshinweis (Rasierklingen 'passend für Gillette Sensor') ist notwendig, wenn sie praktisch das einzige Mittel ist, dem Publikum eine verständliche und vollständige Information über die Bestimmung zu geben. Sie muss den anständigen Gepflogenheiten entsprechen: keine Verbindung suggerieren, Wertschätzung nicht unlauter ausnutzen, Marke nicht herabsetzen, kein Imitat.\n\nNormen: § 23 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2005, 509",
+  "back": "Die Benutzung einer fremden Marke als Bestimmungshinweis (Rasierklingen 'passend für Gillette Sensor') ist notwendig, wenn sie praktisch das einzige Mittel ist, dem Publikum eine verständliche und vollständige Information über die Bestimmung zu geben. Sie muss den anständigen Gepflogenheiten entsprechen: keine Verbindung suggerieren, Wertschätzung nicht unlauter ausnutzen, Marke nicht herabsetzen, kein Imitat.\n\nNormen: Art. 14 MarkenRL, § 23 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2005, 509",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -4371,7 +4619,7 @@
   "id": "card:entscheidung:case:bgh_staubsaugerfiltertueten",
   "typ": "entscheidung",
   "front": "BGH „Staubsaugerfiltertüten“ (I ZR 34/02, 2005) – Kernaussage?",
-  "back": "Die Angabe 'Filtertüte passend für Vorwerk Kobold 130' ist als notwendiger Bestimmungshinweis zulässig, wenn der Zusatz 'passend für' deutlich hervorgehoben ist und die eigene Marke des Anbieters im Vordergrund steht, so dass keine Verbindung zum Markeninhaber suggeriert wird.\n\nNormen: § 23 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2005, 423",
+  "back": "Die Angabe 'Filtertüte passend für Vorwerk Kobold 130' ist als notwendiger Bestimmungshinweis zulässig, wenn der Zusatz 'passend für' deutlich hervorgehoben ist und die eigene Marke des Anbieters im Vordergrund steht, so dass keine Verbindung zum Markeninhaber suggeriert wird.\n\nNormen: Art. 14 MarkenRL, § 23 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2005, 423",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4398,7 +4646,7 @@
   "id": "card:entscheidung:case:bgh_kuehlergrill",
   "typ": "entscheidung",
   "front": "BGH „Kühlergrill“ (I ZR 61/18, 2019) – Kernaussage?",
-  "back": "Ein Kühlergrill mit einer Aufnahme, die die Form des Audi-Emblems (Ringe) hat, benutzt die Marke markenmäßig. Die Schranke des § 23 Nr. 3 greift nicht, weil die Nachbildung des Emblems zur Angabe der Bestimmung als Ersatzteil nicht notwendig ist – eine neutrale Halterung genügt.\n\nNormen: § 14 Abs. 2 Nr. 1, § 23 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2019, 953",
+  "back": "Ein Kühlergrill mit einer Aufnahme, die die Form des Audi-Emblems (Ringe) hat, benutzt die Marke markenmäßig. Die Schranke des § 23 Nr. 3 greift nicht, weil die Nachbildung des Emblems zur Angabe der Bestimmung als Ersatzteil nicht notwendig ist – eine neutrale Halterung genügt.\n\nNormen: Art. 14 MarkenRL, § 14 Abs. 2 Nr. 1, § 23 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2019, 953",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4450,7 +4698,7 @@
   "id": "card:entscheidung:case:eugh_bms",
   "typ": "entscheidung",
   "front": "EuGH „Bristol-Myers Squibb/Paranova“ (C-427/93 u.a., 1996) – Kernaussage?",
-  "back": "Der Markeninhaber kann sich dem Vertrieb umgepackter Arzneimittel (Parallelimport) nicht widersetzen, wenn (1) das Umpacken zur Vermarktung im Einfuhrstaat erforderlich ist, (2) der Originalzustand nicht beeinträchtigt wird, (3) Umpacker und Hersteller angegeben sind, (4) die Aufmachung den Ruf nicht schädigt und (5) der Inhaber vorab unterrichtet wird (BMS-Kriterien).\n\nNormen: § 24 Abs. 2 MarkenG\nFundstelle: GRUR Int. 1996, 1144",
+  "back": "Der Markeninhaber kann sich dem Vertrieb umgepackter Arzneimittel (Parallelimport) nicht widersetzen, wenn (1) das Umpacken zur Vermarktung im Einfuhrstaat erforderlich ist, (2) der Originalzustand nicht beeinträchtigt wird, (3) Umpacker und Hersteller angegeben sind, (4) die Aufmachung den Ruf nicht schädigt und (5) der Inhaber vorab unterrichtet wird (BMS-Kriterien).\n\nNormen: Art. 15 MarkenRL, § 24 Abs. 2 MarkenG\nFundstelle: GRUR Int. 1996, 1144",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -4477,7 +4725,7 @@
   "id": "card:entscheidung:case:eugh_van_doren",
   "typ": "entscheidung",
   "front": "EuGH „Van Doren + Q. (stüssy)“ (C-244/00, 2003) – Kernaussage?",
-  "back": "Grundsätzlich trägt der Dritte, der sich auf Erschöpfung beruft, die Beweislast für das Inverkehrbringen im EWR mit Zustimmung des Inhabers. Bei einem ausschließlichen Vertriebssystem und tatsächlicher Gefahr der Marktabschottung muss jedoch der Markeninhaber beweisen, dass die Ware außerhalb des EWR in Verkehr gebracht wurde.\n\nNormen: § 24 Abs. 1 MarkenG\nFundstelle: GRUR 2003, 512",
+  "back": "Grundsätzlich trägt der Dritte, der sich auf Erschöpfung beruft, die Beweislast für das Inverkehrbringen im EWR mit Zustimmung des Inhabers. Bei einem ausschließlichen Vertriebssystem und tatsächlicher Gefahr der Marktabschottung muss jedoch der Markeninhaber beweisen, dass die Ware außerhalb des EWR in Verkehr gebracht wurde.\n\nNormen: Art. 15 MarkenRL, § 24 Abs. 1 MarkenG\nFundstelle: GRUR 2003, 512",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -4558,7 +4806,7 @@
   "id": "card:entscheidung:case:bgh_converse_ii",
   "typ": "entscheidung",
   "front": "BGH „Converse II“ (I ZR 137/10, 2012) – Kernaussage?",
-  "back": "Stammt die Ware von einem ehemaligen Lizenznehmer des Markeninhabers im EWR, gilt: Das Inverkehrbringen durch einen Lizenznehmer unter Verstoß gegen den Lizenzvertrag (§ 30 Abs. 2) erfolgt ohne Zustimmung; Erschöpfung tritt nicht ein. Keine Beweislastumkehr ohne Marktabschottungsgefahr.\n\nNormen: § 24 Abs. 1 MarkenG\nFundstelle: GRUR 2012, 630",
+  "back": "Stammt die Ware von einem ehemaligen Lizenznehmer des Markeninhabers im EWR, gilt: Das Inverkehrbringen durch einen Lizenznehmer unter Verstoß gegen den Lizenzvertrag (§ 30 Abs. 2) erfolgt ohne Zustimmung; Erschöpfung tritt nicht ein. Keine Beweislastumkehr ohne Marktabschottungsgefahr.\n\nNormen: Art. 25 MarkenRL, § 24 Abs. 1 MarkenG\nFundstelle: GRUR 2012, 630",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4585,7 +4833,7 @@
   "id": "card:entscheidung:case:eugh_dior_evora",
   "typ": "entscheidung",
   "front": "EuGH „Parfums Christian Dior/Evora“ (C-337/95, 1997) – Kernaussage?",
-  "back": "Nach Erschöpfung darf der Wiederverkäufer die Marke auch in seiner Werbung benutzen. Ein berechtigter Grund i.S.d. § 24 Abs. 2 liegt nur vor, wenn die Werbung den Ruf der Marke (Luxusimage) erheblich schädigt – Abwägung zwischen dem berechtigten Interesse des Inhabers und dem Interesse des Händlers an branchenüblicher Werbung.\n\nNormen: § 24 Abs. 2 MarkenG\nFundstelle: GRUR Int. 1998, 140",
+  "back": "Nach Erschöpfung darf der Wiederverkäufer die Marke auch in seiner Werbung benutzen. Ein berechtigter Grund i.S.d. § 24 Abs. 2 liegt nur vor, wenn die Werbung den Ruf der Marke (Luxusimage) erheblich schädigt – Abwägung zwischen dem berechtigten Interesse des Inhabers und dem Interesse des Händlers an branchenüblicher Werbung.\n\nNormen: Art. 15 MarkenRL, § 24 Abs. 2 MarkenG\nFundstelle: GRUR Int. 1998, 140",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -4612,7 +4860,7 @@
   "id": "card:entscheidung:case:eugh_ansul",
   "typ": "entscheidung",
   "front": "EuGH „Ansul/Ajax“ (C-40/01, 2003) – Kernaussage?",
-  "back": "Ernsthafte Benutzung liegt vor, wenn die Marke entsprechend ihrer Hauptfunktion benutzt wird, um für die Waren einen Absatzmarkt zu erschließen oder zu sichern; rein symbolische Benutzung zur Rechtserhaltung genügt nicht. Auch die Benutzung für Ersatzteile oder im Rahmen des Kundendienstes kann ausreichen.\n\nNormen: § 26 Abs. 1 MarkenG\nFundstelle: GRUR 2003, 425",
+  "back": "Ernsthafte Benutzung liegt vor, wenn die Marke entsprechend ihrer Hauptfunktion benutzt wird, um für die Waren einen Absatzmarkt zu erschließen oder zu sichern; rein symbolische Benutzung zur Rechtserhaltung genügt nicht. Auch die Benutzung für Ersatzteile oder im Rahmen des Kundendienstes kann ausreichen.\n\nNormen: Art. 16 MarkenRL, Art. 19 MarkenRL, § 26 Abs. 1 MarkenG\nFundstelle: GRUR 2003, 425",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -4637,7 +4885,7 @@
   "id": "card:entscheidung:case:bgh_voodoo",
   "typ": "entscheidung",
   "front": "BGH „VOODOO“ (I ZR 106/11, 2013) – Kernaussage?",
-  "back": "Ernsthafte Benutzung setzt keinen Mindestumfang voraus; entscheidend ist, ob die Benutzung wirtschaftlich sinnvoll ist, um Marktanteile zu gewinnen oder zu halten. Bei einer Wortmarke reicht die Benutzung auf Etiketten und in Katalogen mit tatsächlichem Absatz; die Beweislast trägt im Verletzungsprozess der Markeninhaber, wenn die Einrede erhoben wird.\n\nNormen: § 25, § 26 Abs. 1, § 49 MarkenG\nFundstelle: GRUR 2013, 925",
+  "back": "Ernsthafte Benutzung setzt keinen Mindestumfang voraus; entscheidend ist, ob die Benutzung wirtschaftlich sinnvoll ist, um Marktanteile zu gewinnen oder zu halten. Bei einer Wortmarke reicht die Benutzung auf Etiketten und in Katalogen mit tatsächlichem Absatz; die Beweislast trägt im Verletzungsprozess der Markeninhaber, wenn die Einrede erhoben wird.\n\nNormen: Art. 16 MarkenRL, Art. 17 MarkenRL, Art. 19 MarkenRL, § 25, § 26 Abs. 1, § 49 MarkenG\nFundstelle: GRUR 2013, 925",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4687,7 +4935,7 @@
   "id": "card:entscheidung:case:bgh_probiotik",
   "typ": "entscheidung",
   "front": "BGH „Probiotik“ (I ZR 38/13, 2014) – Kernaussage?",
-  "back": "Wird eine Wortmarke graphisch gestaltet oder mit Bildelementen ergänzt, ist zu prüfen, ob die Zusätze einen Bezug zur Herkunftsfunktion haben oder nur allgemeine Sachhinweise/Werbemittel sind; letztere verändern den kennzeichnenden Charakter nicht (§ 26 Abs. 3).\n\nNormen: § 26 Abs. 3 MarkenG\nFundstelle: GRUR 2014, 662",
+  "back": "Wird eine Wortmarke graphisch gestaltet oder mit Bildelementen ergänzt, ist zu prüfen, ob die Zusätze einen Bezug zur Herkunftsfunktion haben oder nur allgemeine Sachhinweise/Werbemittel sind; letztere verändern den kennzeichnenden Charakter nicht (§ 26 Abs. 3).\n\nNormen: Art. 16 MarkenRL, § 26 Abs. 3 MarkenG\nFundstelle: GRUR 2014, 662",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4714,7 +4962,7 @@
   "id": "card:entscheidung:case:bgh_dorzo",
   "typ": "entscheidung",
   "front": "BGH „Dorzo“ (I ZB 6/16, 2017) – Kernaussage?",
-  "back": "Die Benutzung 'Dorzo-Vision' für die Marke 'Dorzo' ist nicht rechtserhaltend, wenn der Verkehr die Kombination als einheitliches Zeichen wahrnimmt und 'Dorzo' nicht mehr als eigenständigen Herkunftshinweis erkennt: Der kennzeichnende Charakter ist dann verändert.\n\nNormen: § 26 Abs. 3 MarkenG\nFundstelle: GRUR 2017, 1043",
+  "back": "Die Benutzung 'Dorzo-Vision' für die Marke 'Dorzo' ist nicht rechtserhaltend, wenn der Verkehr die Kombination als einheitliches Zeichen wahrnimmt und 'Dorzo' nicht mehr als eigenständigen Herkunftshinweis erkennt: Der kennzeichnende Charakter ist dann verändert.\n\nNormen: Art. 16 MarkenRL, § 26 Abs. 3 MarkenG\nFundstelle: GRUR 2017, 1043",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -4976,7 +5224,7 @@
   "id": "card:entscheidung:case:bgh_hard_rock_cafe",
   "typ": "entscheidung",
   "front": "BGH „Hard Rock Cafe“ (I ZR 188/11, 2013) – Kernaussage?",
-  "back": "Verwirkung nach § 21 Abs. 4 MarkenG i.V.m. § 242 BGB: Bei wiederholten, gleichartigen Verletzungshandlungen entsteht mit jeder Handlung ein neuer Unterlassungsanspruch, so dass Verwirkung nur bei Duldung des konkreten Zustands in Betracht kommt. Aufgabe der Vorrangthese: Lauterkeitsrechtliche Ansprüche (§ 5 Abs. 2 UWG) bestehen neben markenrechtlichen; Wertungswidersprüche sind zu vermeiden.\n\nNormen: § 14 Abs. 5, § 21 MarkenG\nFundstelle: GRUR 2013, 1161",
+  "back": "Verwirkung nach § 21 Abs. 4 MarkenG i.V.m. § 242 BGB: Bei wiederholten, gleichartigen Verletzungshandlungen entsteht mit jeder Handlung ein neuer Unterlassungsanspruch, so dass Verwirkung nur bei Duldung des konkreten Zustands in Betracht kommt. Aufgabe der Vorrangthese: Lauterkeitsrechtliche Ansprüche (§ 5 Abs. 2 UWG) bestehen neben markenrechtlichen; Wertungswidersprüche sind zu vermeiden.\n\nNormen: Art. 9 MarkenRL, § 14 Abs. 5, § 21 MarkenG\nFundstelle: GRUR 2013, 1161",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -5109,7 +5357,7 @@
   "id": "card:entscheidung:case:eugh_interflora",
   "typ": "entscheidung",
   "front": "EuGH „Interflora/Marks & Spencer“ (C-323/09, 2011) – Kernaussage?",
-  "back": "Keyword-Werbung mit einer bekannten Marke beeinträchtigt die Investitionsfunktion, wenn sie die Nutzung der Marke zum Erwerb/zur Wahrung eines Rufs wesentlich stört. Sie ist als 'Trittbrettfahren' unlauter, wenn Nachahmungen angeboten werden; nicht aber, wenn lediglich eine Alternative zum Markenprodukt angeboten wird (gesunder Wettbewerb).\n\nNormen: § 14 Abs. 2 Nr. 1, § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR 2011, 1124",
+  "back": "Keyword-Werbung mit einer bekannten Marke beeinträchtigt die Investitionsfunktion, wenn sie die Nutzung der Marke zum Erwerb/zur Wahrung eines Rufs wesentlich stört. Sie ist als 'Trittbrettfahren' unlauter, wenn Nachahmungen angeboten werden; nicht aber, wenn lediglich eine Alternative zum Markenprodukt angeboten wird (gesunder Wettbewerb).\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 Nr. 1, § 14 Abs. 2 Nr. 3 MarkenG\nFundstelle: GRUR 2011, 1124",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -5136,7 +5384,7 @@
   "id": "card:entscheidung:case:eugh_adam_opel",
   "typ": "entscheidung",
   "front": "EuGH „Adam Opel/Autec“ (C-48/05, 2007) – Kernaussage?",
-  "back": "Die Anbringung eines für Kraftfahrzeuge und Spielzeug eingetragenen Zeichens auf Modellautos ist nur dann untersagbar, wenn sie die Funktionen der Marke als für Spielzeug eingetragene Marke beeinträchtigt. Für Kraftfahrzeuge liegt keine Benutzung 'für Waren' vor, die identisch oder ähnlich sind.\n\nNormen: § 14 Abs. 2 Nr. 1, § 23 MarkenG\nFundstelle: GRUR 2007, 318",
+  "back": "Die Anbringung eines für Kraftfahrzeuge und Spielzeug eingetragenen Zeichens auf Modellautos ist nur dann untersagbar, wenn sie die Funktionen der Marke als für Spielzeug eingetragene Marke beeinträchtigt. Für Kraftfahrzeuge liegt keine Benutzung 'für Waren' vor, die identisch oder ähnlich sind.\n\nNormen: Art. 10 MarkenRL, § 14 Abs. 2 Nr. 1, § 23 MarkenG\nFundstelle: GRUR 2007, 318",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -5161,7 +5409,7 @@
   "id": "card:entscheidung:case:eugh_pago",
   "typ": "entscheidung",
   "front": "EuGH „PAGO/Tirolmilch“ (C-301/07, 2009) – Kernaussage?",
-  "back": "Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn sie einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist. Das Gebiet eines einzigen Mitgliedstaats (hier: Österreich) kann ein wesentlicher Teil der Union sein.\n\nNormen: § 125b, § 9 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2009, 1158",
+  "back": "Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn sie einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist. Das Gebiet eines einzigen Mitgliedstaats (hier: Österreich) kann ein wesentlicher Teil der Union sein.\n\nNormen: Art. 5 MarkenRL, § 125b, § 9 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2009, 1158",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -5188,7 +5436,7 @@
   "id": "card:entscheidung:case:eugh_iron_smith",
   "typ": "entscheidung",
   "front": "EuGH „Iron & Smith/Unilever“ (C-125/14, 2015) – Kernaussage?",
-  "back": "Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgegangen, genügt für die Bekanntheit 'in der Union' die Bekanntheit in einem wesentlichen Teil der Union, der ein einziger Mitgliedstaat sein kann – auch wenn dies nicht der Mitgliedstaat der jüngeren Marke ist. Die Beeinträchtigung/Ausnutzung im Inland setzt aber voraus, dass ein wirtschaftlich nicht unbedeutender Teil des inländischen Publikums die Unionsmarke kennt und die Zeichen gedanklich verknüpft.\n\nNormen: § 125b, § 9 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2015, 1002",
+  "back": "Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgegangen, genügt für die Bekanntheit 'in der Union' die Bekanntheit in einem wesentlichen Teil der Union, der ein einziger Mitgliedstaat sein kann – auch wenn dies nicht der Mitgliedstaat der jüngeren Marke ist. Die Beeinträchtigung/Ausnutzung im Inland setzt aber voraus, dass ein wirtschaftlich nicht unbedeutender Teil des inländischen Publikums die Unionsmarke kennt und die Zeichen gedanklich verknüpft.\n\nNormen: Art. 5 MarkenRL, § 125b, § 9 Abs. 1 Nr. 3 MarkenG\nFundstelle: GRUR 2015, 1002",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -5215,7 +5463,7 @@
   "id": "card:entscheidung:case:eugh_leno_merken",
   "typ": "entscheidung",
   "front": "EuGH „Leno Merken/Hagelkruis (ONEL/OMEL)“ (C-149/11, 2012) – Kernaussage?",
-  "back": "Für die ernsthafte Benutzung einer Unionsmarke (Art. 18 UMV) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.\n\nNormen: § 125b, § 26 MarkenG\nFundstelle: GRUR 2013, 182",
+  "back": "Für die ernsthafte Benutzung einer Unionsmarke (Art. 18 UMV) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.\n\nNormen: Art. 44 MarkenRL, § 125b, § 26 MarkenG\nFundstelle: GRUR 2013, 182",
   "tags": [
    "Rechtsprechung",
    "EuGH",
@@ -5298,7 +5546,7 @@
   "id": "card:norm:norm:§1",
   "typ": "norm",
   "front": "Was regelt § 1 MarkenG?",
-  "back": "Geschützte Marken und sonstige Kennzeichen\n\nNach diesem Gesetz werden geschützt:\n\n1. Marken,\n\n2. geschäftliche Bezeichnungen,\n\n3. geographische Herkunftsangaben.\n\nZugehörige Begriffe: Geschäftliche Bezeichnungen (§ 5), Marke",
+  "back": "Geschützte Marken und sonstige Kennzeichen\n\nNach diesem Gesetz werden geschützt:\n\n1. Marken,\n\n2. geschäftliche Bezeichnungen,\n\n3. geographische Herkunftsangaben.\n\nZugehörige Begriffe: Geschäftliche Bezeichnungen (§ 5), Marke, Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)",
   "tags": [
    "Gesetz"
   ],
@@ -5378,7 +5626,7 @@
   "id": "card:norm:norm:§9",
   "typ": "norm",
   "front": "Was regelt § 9 MarkenG?",
-  "back": "Angemeldete oder eingetragene Marken als relative Schutzhindernisse\n\nDie Eintragung einer Marke kann gelöscht werden,\n\n1. wenn sie mit einer angemeldeten oder eingetragenen Marke mit älterem\n Zeitrang identisch ist und die Waren oder Dienstleistungen, für die\n sie eingetragen worden ist, mit den Waren oder Dienstleistungen\n identisch sind, für die die Marke mit älterem Zeitrang angemeldet oder\n eingetragen worden ist,\n\n2. wenn wegen ihrer Identität oder Ähnlichkeit mit einer angemeldeten\n oder eingetragenen Marke mit älterem Zeitrang und der Identität oder\n der Ähnlichkeit der durch die beiden Marken erfaßten Waren oder\n Dienstleistungen für das Publikum die Gefahr von Verwechslungen\n besteht, einschließlich der Gefahr, daß die Marken gedanklich\n miteinander  …\n\nZugehörige Begriffe: Bekannte Marke (§ 14 Abs. 2 Nr. 3), Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3), Bekanntheit in der Union (§ 125b Nr. 1, Art. 9 Abs. 2 lit. c UMV), Doppelidentität / Identitätsschutz (§ 14 Abs. 2 Nr. 1), Kennzeichnungskraft, Relative Schutzhindernisse (§§ 9-13), Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2), Waren-/Dienstleistungsähnlichkeit",
+  "back": "Angemeldete oder eingetragene Marken als relative Schutzhindernisse\n\nDie Eintragung einer Marke kann gelöscht werden,\n\n1. wenn sie mit einer angemeldeten oder eingetragenen Marke mit älterem\n Zeitrang identisch ist und die Waren oder Dienstleistungen, für die\n sie eingetragen worden ist, mit den Waren oder Dienstleistungen\n identisch sind, für die die Marke mit älterem Zeitrang angemeldet oder\n eingetragen worden ist,\n\n2. wenn wegen ihrer Identität oder Ähnlichkeit mit einer angemeldeten\n oder eingetragenen Marke mit älterem Zeitrang und der Identität oder\n der Ähnlichkeit der durch die beiden Marken erfaßten Waren oder\n Dienstleistungen für das Publikum die Gefahr von Verwechslungen\n besteht, einschließlich der Gefahr, daß die Marken gedanklich\n miteinander  …\n\nZugehörige Begriffe: Bekannte Marke (§ 14 Abs. 2 Nr. 3), Bekannte Marke als relatives Schutzhindernis (§ 9 Abs. 1 Nr. 3), Bekanntheit in der Union (§ 125b Nr. 1, Art. 9 Abs. 2 lit. c UMV), Doppelidentität / Identitätsschutz (§ 14 Abs. 2 Nr. 1), Kennzeichnungskraft, Relative Schutzhindernisse (§§ 9-13), Verwechslungsgefahr (§ 14 Abs. 2 Nr. 2), Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation (§ 32 MarkenG, Art. 39 MarkenRL)",
   "tags": [
    "Gesetz"
   ],
@@ -5398,7 +5646,7 @@
   "id": "card:norm:norm:§11",
   "typ": "norm",
   "front": "Was regelt § 11 MarkenG?",
-  "back": "Agentenmarken\n\nDie Eintragung einer Marke kann gelöscht werden, wenn die Marke ohne\ndie Zustimmung des Inhabers der Marke für dessen Agenten oder\nVertreter eingetragen worden ist, es sei denn, es liegt ein\nRechtfertigungsgrund für die Handlungsweise des Agenten oder des\nVertreters vor.\n\nZugehörige Begriffe: Relative Schutzhindernisse (§§ 9-13)",
+  "back": "Agentenmarken\n\nDie Eintragung einer Marke kann gelöscht werden, wenn die Marke ohne\ndie Zustimmung des Inhabers der Marke für dessen Agenten oder\nVertreter eingetragen worden ist, es sei denn, es liegt ein\nRechtfertigungsgrund für die Handlungsweise des Agenten oder des\nVertreters vor.\n\nZugehörige Begriffe: Agentenmarke (§§ 11, 17 MarkenG, Art. 13 MarkenRL), Relative Schutzhindernisse (§§ 9-13)",
   "tags": [
    "Gesetz"
   ],
@@ -5435,6 +5683,16 @@
   "node": "norm:§14"
  },
  {
+  "id": "card:norm:norm:§14a",
+  "typ": "norm",
+  "front": "Was regelt § 14a MarkenG?",
+  "back": "Waren unter zollamtlicher Überwachung\n\nDer Inhaber einer Marke oder einer geschäftlichen Bezeichnung ist\nberechtigt, Dritten zu untersagen, im geschäftlichen Verkehr Waren in\ndas Gebiet der Bundesrepublik Deutschland zu verbringen, ohne die\nWaren dort in den zollrechtlich freien Verkehr zu überführen, wenn die\nWaren, einschließlich ihrer Verpackung, aus Drittstaaten stammen und\nohne Zustimmung eine Marke oder eine geschäftliche Bezeichnung\naufweisen, die mit der für derartige Waren eingetragenen Marke oder\ngeschäftlichen Bezeichnung identisch ist oder in ihren wesentlichen\nAspekten nicht von dieser Marke oder dieser geschäftlichen Bezeichnung\nzu unterscheiden ist.\n\nZugehörige Begriffe: Transitverbot (§ 14a MarkenG, Art. 10 Abs. 4 MarkenRL)",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§14a"
+ },
+ {
   "id": "card:norm:norm:§15",
   "typ": "norm",
   "front": "Was regelt § 15 MarkenG?",
@@ -5443,6 +5701,26 @@
    "Gesetz"
   ],
   "node": "norm:§15"
+ },
+ {
+  "id": "card:norm:norm:§16",
+  "typ": "norm",
+  "front": "Was regelt § 16 MarkenG?",
+  "back": "Wiedergabe einer eingetragenen Marke in Nachschlagewerken\n\nErweckt die Wiedergabe einer eingetragenen Marke in einem\nWörterbuch, einem Lexikon oder einem ähnlichen Nachschlagewerk den\nEindruck, daß es sich bei der Marke um eine Gattungsbezeichnung für\ndie Waren oder Dienstleistungen handelt, für die die Marke eingetragen\nist, kann der Inhaber der Marke vom Verleger des Werkes verlangen, daß\nder Wiedergabe der Marke ein Hinweis beigefügt wird, daß es sich um\neine eingetragene Marke handelt.\n\nZugehörige Begriffe: Wiedergabe in Nachschlagewerken (§ 16 MarkenG, Art. 12 MarkenRL)",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§16"
+ },
+ {
+  "id": "card:norm:norm:§17",
+  "typ": "norm",
+  "front": "Was regelt § 17 MarkenG?",
+  "back": "Ansprüche gegen Agenten oder Vertreter\n\nIst eine Marke entgegen § 11 für den Agenten oder Vertreter des\nInhabers der Marke ohne dessen Zustimmung angemeldet oder eingetragen\nworden, so ist der Inhaber der Marke berechtigt, von dem Agenten oder\nVertreter die Übertragung des durch die Anmeldung oder Eintragung der\nMarke begründeten Rechts zu verlangen.\n\nZugehörige Begriffe: Agentenmarke (§§ 11, 17 MarkenG, Art. 13 MarkenRL)",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§17"
  },
  {
   "id": "card:norm:norm:§18",
@@ -5618,7 +5896,7 @@
   "id": "card:norm:norm:§32",
   "typ": "norm",
   "front": "Was regelt § 32 MarkenG?",
-  "back": "Erfordernisse der Anmeldung\n\nDie Anmeldung zur Eintragung einer Marke in das Register ist beim\nDeutschen Patent- und Markenamt einzureichen. Die Anmeldung kann auch\nüber ein Patentinformationszentrum eingereicht werden, wenn diese\nStelle durch Bekanntmachung des Bundesministeriums der Justiz und für\nVerbraucherschutz im Bundesgesetzblatt dazu bestimmt ist,\nMarkenanmeldungen entgegenzunehmen.\n\nZugehörige Begriffe: Darstellbarkeit im Register (§ 8 Abs. 1)",
+  "back": "Erfordernisse der Anmeldung\n\nDie Anmeldung zur Eintragung einer Marke in das Register ist beim\nDeutschen Patent- und Markenamt einzureichen. Die Anmeldung kann auch\nüber ein Patentinformationszentrum eingereicht werden, wenn diese\nStelle durch Bekanntmachung des Bundesministeriums der Justiz und für\nVerbraucherschutz im Bundesgesetzblatt dazu bestimmt ist,\nMarkenanmeldungen entgegenzunehmen.\n\nZugehörige Begriffe: Darstellbarkeit im Register (§ 8 Abs. 1), Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation (§ 32 MarkenG, Art. 39 MarkenRL)",
   "tags": [
    "Gesetz"
   ],
@@ -5708,7 +5986,7 @@
   "id": "card:norm:norm:§47",
   "typ": "norm",
   "front": "Was regelt § 47 MarkenG?",
-  "back": "Schutzdauer und Verlängerung\n\nDie Schutzdauer einer eingetragenen Marke beträgt zehn Jahre,\ngerechnet vom Tag der Anmeldung an (§ 33 Absatz 1).",
+  "back": "Schutzdauer und Verlängerung\n\nDie Schutzdauer einer eingetragenen Marke beträgt zehn Jahre,\ngerechnet vom Tag der Anmeldung an (§ 33 Absatz 1).\n\nZugehörige Begriffe: Schutzdauer und Verlängerung (§ 47 MarkenG, Art. 48, 49 MarkenRL)",
   "tags": [
    "Gesetz"
   ],
@@ -5728,7 +6006,7 @@
   "id": "card:norm:norm:§49",
   "typ": "norm",
   "front": "Was regelt § 49 MarkenG?",
-  "back": "Verfall\n\nDie Eintragung einer Marke wird auf Antrag für verfallen erklärt\nund gelöscht, wenn die Marke nach dem Tag, ab dem kein Widerspruch\nmehr gegen sie möglich ist, innerhalb eines ununterbrochenen Zeitraums\nvon fünf Jahren nicht gemäß § 26 benutzt worden ist. Der Verfall einer\nMarke kann jedoch nicht geltend gemacht werden, wenn nach Ende dieses\nZeitraums und vor Stellung des Antrags auf Erklärung des Verfalls eine\nBenutzung der Marke gemäß § 26 begonnen oder wieder aufgenommen worden\nist. Wird die Benutzung jedoch im Anschluß an einen ununterbrochenen\nZeitraum von fünf Jahren der Nichtbenutzung innerhalb von drei Monaten\nvor der Stellung des Antrags auf Erklärung des Verfalls begonnen oder\nwied …\n\nZugehörige Begriffe: Benutzungsschonfrist, Rechtserhaltende Benutzung (§ 26), Täuschungseignung (§ 8 Abs. 2 Nr. 4), Verfall (§ 49), Üblich gewordene Bezeichnungen (§ 8 Abs. 2 Nr. 3)",
+  "back": "Verfall\n\nDie Eintragung einer Marke wird auf Antrag für verfallen erklärt\nund gelöscht, wenn die Marke nach dem Tag, ab dem kein Widerspruch\nmehr gegen sie möglich ist, innerhalb eines ununterbrochenen Zeitraums\nvon fünf Jahren nicht gemäß § 26 benutzt worden ist. Der Verfall einer\nMarke kann jedoch nicht geltend gemacht werden, wenn nach Ende dieses\nZeitraums und vor Stellung des Antrags auf Erklärung des Verfalls eine\nBenutzung der Marke gemäß § 26 begonnen oder wieder aufgenommen worden\nist. Wird die Benutzung jedoch im Anschluß an einen ununterbrochenen\nZeitraum von fünf Jahren der Nichtbenutzung innerhalb von drei Monaten\nvor der Stellung des Antrags auf Erklärung des Verfalls begonnen oder\nwied …\n\nZugehörige Begriffe: Benutzungsschonfrist, Rechtserhaltende Benutzung (§ 26), Täuschungseignung (§ 8 Abs. 2 Nr. 4), Verfall (§ 49), Wiedergabe in Nachschlagewerken (§ 16 MarkenG, Art. 12 MarkenRL), Üblich gewordene Bezeichnungen (§ 8 Abs. 2 Nr. 3)",
   "tags": [
    "Gesetz"
   ],
@@ -5768,17 +6046,27 @@
   "id": "card:norm:norm:§53",
   "typ": "norm",
   "front": "Was regelt § 53 MarkenG?",
-  "back": "Verfalls- und Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt\n\nDer Antrag auf Erklärung des Verfalls (§ 49) und der Nichtigkeit\nwegen absoluter Schutzhindernisse (§ 50) und älterer Rechte (§ 51) ist\nschriftlich beim Deutschen Patent- und Markenamt zu stellen. Die zur\nBegründung dienenden Tatsachen und Beweismittel sind anzugeben. Für\ndie Sicherheitsleistung gilt § 81 Absatz 6 des Patentgesetzes\nentsprechend. Der Antrag ist unzulässig, soweit über denselben\nStreitgegenstand zwischen den Parteien durch unanfechtbaren Beschluss\noder rechtskräftiges Urteil entschieden wurde. Dies gilt auch, wenn\nüber denselben Streitgegenstand zwischen den Parteien eine Klage nach\n§ 55 rechtshängig ist. § 325 Absatz 1 der Zivilprozessordnung gilt\nentsprechend. Werden zwisch …\n\nZugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5), Nichtigkeit (§§ 50, 51), Verfall (§ 49)",
+  "back": "Verfalls- und Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt\n\nDer Antrag auf Erklärung des Verfalls (§ 49) und der Nichtigkeit\nwegen absoluter Schutzhindernisse (§ 50) und älterer Rechte (§ 51) ist\nschriftlich beim Deutschen Patent- und Markenamt zu stellen. Die zur\nBegründung dienenden Tatsachen und Beweismittel sind anzugeben. Für\ndie Sicherheitsleistung gilt § 81 Absatz 6 des Patentgesetzes\nentsprechend. Der Antrag ist unzulässig, soweit über denselben\nStreitgegenstand zwischen den Parteien durch unanfechtbaren Beschluss\noder rechtskräftiges Urteil entschieden wurde. Dies gilt auch, wenn\nüber denselben Streitgegenstand zwischen den Parteien eine Klage nach\n§ 55 rechtshängig ist. § 325 Absatz 1 der Zivilprozessordnung gilt\nentsprechend. Werden zwisch …\n\nZugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, § 125b Nr. 4, 5), Nichtigkeit (§§ 50, 51), Verfall (§ 49), Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG, Art. 45 MarkenRL)",
   "tags": [
    "Gesetz"
   ],
   "node": "norm:§53"
  },
  {
+  "id": "card:norm:norm:§54",
+  "typ": "norm",
+  "front": "Was regelt § 54 MarkenG?",
+  "back": "Beitritt zum Verfalls- und Nichtigkeitsverfahren\n\nEin Dritter kann einem Verfalls- oder Nichtigkeitsverfahren\nbeitreten, wenn über den Antrag auf Erklärung des Verfalls oder der\nNichtigkeit noch keine unanfechtbare Entscheidung getroffen wurde und\ner glaubhaft machen kann, dass\n\n1. gegen ihn ein Verfahren wegen Verletzung derselben eingetragenen Marke\n anhängig ist oder\n\n2. er aufgefordert wurde, eine behauptete Verletzung derselben\n eingetragenen Marke zu unterlassen.\n\nDer Beitritt kann innerhalb von drei Monaten ab Einleitung des\nVerfahrens nach Satz 1 Nummer 1 oder ab Zugang der\nUnterlassungsaufforderung nach Satz 1 Nummer 2 beantragt werden.\n\nZugehörige Begriffe: Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG, Art. 45 MarkenRL)",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§54"
+ },
+ {
   "id": "card:norm:norm:§55",
   "typ": "norm",
   "front": "Was regelt § 55 MarkenG?",
-  "back": "Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten\n\nDie Klage auf Erklärung des Verfalls (§ 49) oder der Nichtigkeit\nwegen Bestehens älterer Rechte (§ 51) ist gegen den als Inhaber der\nMarke Eingetragenen oder seinen Rechtsnachfolger zu richten. Die Klage\nist unzulässig, wenn über denselben Streitgegenstand zwischen den\nParteien\n\n1. bereits gemäß § 53 entschieden wurde,\n\n2. ein Antrag gemäß § 53 beim Deutschen Patent- und Markenamt gestellt\n wurde.\n\n§ 325 Absatz 1 der Zivilprozessordnung gilt entsprechend.\n\nZugehörige Begriffe: Nichtigkeit (§§ 50, 51), Verfall (§ 49)",
+  "back": "Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten\n\nDie Klage auf Erklärung des Verfalls (§ 49) oder der Nichtigkeit\nwegen Bestehens älterer Rechte (§ 51) ist gegen den als Inhaber der\nMarke Eingetragenen oder seinen Rechtsnachfolger zu richten. Die Klage\nist unzulässig, wenn über denselben Streitgegenstand zwischen den\nParteien\n\n1. bereits gemäß § 53 entschieden wurde,\n\n2. ein Antrag gemäß § 53 beim Deutschen Patent- und Markenamt gestellt\n wurde.\n\n§ 325 Absatz 1 der Zivilprozessordnung gilt entsprechend.\n\nZugehörige Begriffe: Nichtigkeit (§§ 50, 51), Verfall (§ 49), Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG, Art. 45 MarkenRL)",
   "tags": [
    "Gesetz"
   ],
@@ -5843,6 +6131,16 @@
    "Gesetz"
   ],
   "node": "norm:§106a"
+ },
+ {
+  "id": "card:norm:norm:§106d",
+  "typ": "norm",
+  "front": "Was regelt § 106d MarkenG?",
+  "back": "Gewährleistungsmarkensatzung\n\nDer Anmeldung der Gewährleistungsmarke muss eine\nGewährleistungsmarkensatzung beigefügt sein.",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§106d"
  },
  {
   "id": "card:norm:norm:§112",
@@ -6023,5 +6321,652 @@
    "Gesetz"
   ],
   "node": "norm:§140"
+ },
+ {
+  "id": "card:norm:norm:§146",
+  "typ": "norm",
+  "front": "Was regelt § 146 MarkenG?",
+  "back": "Beschlagnahme bei der Verletzung von Kennzeichenrechten\n\nWaren, die widerrechtlich mit einer nach diesem Gesetz geschützten\nMarke oder geschäftlichen Bezeichnung versehen sind, unterliegen,\nsoweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen\nParlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte\ngeistigen Eigentums durch die Zollbehörden und zur Aufhebung der\nVerordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S.\n15), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und\ngegen Sicherheitsleistung des Rechtsinhabers bei ihrer Einfuhr oder\nAusfuhr der Beschlagnahme durch die Zollbehörde, sofern die\nRechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit\nanderen Mitgliedstaaten der Euro …\n\nZugehörige Begriffe: Transitverbot (§ 14a MarkenG, Art. 10 Abs. 4 MarkenRL)",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§146"
+ },
+ {
+  "id": "card:norm:norm:§158",
+  "typ": "norm",
+  "front": "Was regelt § 158 MarkenG?",
+  "back": "Übergangsvorschriften\n\nArtikel 229 § 6 des Einführungsgesetzes zum Bürgerlichen\nGesetzbuche findet mit der Maßgabe entsprechende Anwendung, dass § 20\nin der bis zum 1. Januar 2002 geltenden Fassung den Vorschriften des\nBürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar\n2002 geltenden Fassung gleichgestellt ist.",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§158"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:1",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 1 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Anwendungsbereich\n\nDie Richtlinie gilt für alle Individual-, Garantie-, Gewährleistungs- und Kollektivmarken für Waren oder Dienstleistungen, die in einem Mitgliedstaat oder beim Benelux-Amt eingetragen oder angemeldet sind oder mit Wirkung für einen Mitgliedstaat international registriert wurden.\n\nUmgesetzt in: § 1 MarkenG\n\nHinweis: Nicht harmonisiert sind Benutzungsmarken (§ 4 Nr. 2 MarkenG) und geschäftliche Bezeichnungen (§ 5 MarkenG); insoweit bleibt das nationale Recht frei.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:1"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:2",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 2 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Begriffsbestimmungen\n\n„Amt“ ist die für die Eintragung von Marken zuständige zentrale Behörde für den gewerblichen Rechtsschutz des Mitgliedstaats oder das Benelux-Amt für geistiges Eigentum.\n\nUmgesetzt in: § 41, § 56 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:2"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:3",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 3 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Markenformen\n\nMarken können alle Zeichen sein, insbesondere Wörter einschließlich Personennamen, Abbildungen, Buchstaben, Zahlen, Farben, die Form der Ware oder ihrer Verpackung sowie Klänge, sofern sie (a) geeignet sind, Waren oder Dienstleistungen eines Unternehmens von denen anderer zu unterscheiden, und (b) im Register so dargestellt werden können, dass Behörden und Publikum den Schutzgegenstand klar und eindeutig bestimmen können.\n\nUmgesetzt in: § 3 Abs. 1, § 8 Abs. 1 MarkenG\n\nHinweis: Aufgabe des Erfordernisses der graphischen Darstellbarkeit (Sieckmann-Kriterien bleiben Maßstab). Umsetzung im MaMoG: § 8 Abs. 1 MarkenG neu gefasst; Klang-, Bewegungs-, Multimedia- und Hologrammmarken ausdrücklich zulässig.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:3"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:4",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 4 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Absolute Eintragungshindernisse oder Ungültigkeitsgründe\n\nVon der Eintragung ausgeschlossen bzw. für ungültig zu erklären sind: (a) nicht markenfähige Zeichen; (b) Marken ohne Unterscheidungskraft; (c) ausschließlich beschreibende Angaben (Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung, sonstige Merkmale); (d) im allgemeinen Sprachgebrauch oder in redlichen Verkehrsgepflogenheiten üblich gewordene Zeichen; (e) Zeichen, die ausschließlich aus der Form oder einem anderen charakteristischen Merkmal bestehen, die durch die Art der Ware bedingt, zur Erreichung einer technischen Wirkung erforderlich sind oder der …\n\nUmgesetzt in: § 3 Abs. 2, § 50, § 8 Abs. 2, § 8 Abs. 3 MarkenG\n\nHinweis: Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ (§ 3 Abs. 2 MarkenG), Bösgläubigkeit als zwingender Ungültigkeitsgrund (§ 8 Abs. 2 Nr. 14 MarkenG), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen (§ 8 Abs. 2 Nr. 9 bis 13 MarkenG).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:4"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:5",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 5 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Relative Eintragungshindernisse oder Ungültigkeitsgründe\n\nAusgeschlossen oder ungültig ist eine Marke, (a) die mit einer älteren Marke identisch ist und für identische Waren angemeldet wurde, oder (b) wenn wegen Identität oder Ähnlichkeit mit der älteren Marke und der Waren für das Publikum Verwechslungsgefahr besteht, einschließlich der Gefahr gedanklicher Verbindung.\n\nUmgesetzt in: § 10, § 11, § 12, § 125b, § 13, § 42, § 51, § 9 MarkenG\n\nHinweis: Der Bekanntheitsschutz im Register ist jetzt zwingend und gilt ausdrücklich auch bei identischen und ähnlichen Waren; § 9 Abs. 1 Nr. 3 MarkenG wurde entsprechend geändert (Streichung von „nicht ähnlich“).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:5"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:6",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 6 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Nachträgliche Feststellung der Ungültigkeit oder des Verfalls einer Marke\n\nWurde für eine Unionsmarke die Seniorität einer nationalen Marke in Anspruch genommen, auf die verzichtet wurde oder die erloschen ist, kann die Ungültigkeit oder der Verfall dieser nationalen Marke nachträglich festgestellt werden, sofern die Voraussetzungen schon im Zeitpunkt des Verzichts oder Erlöschens vorlagen; die Seniorität entfällt dann.\n\nUmgesetzt in: § 125c MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:6"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:7",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 7 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Eintragungshindernisse und Ungültigkeitsgründe nur für einen Teil der Waren oder Dienstleistungen\n\nLiegt ein Hindernis nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil zurückgewiesen oder für ungültig erklärt.\n\nUmgesetzt in: § 37 Abs. 5, § 50, § 51 Abs. 5 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:7"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:8",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 8 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Fehlende Unterscheidungskraft oder Bekanntheit einer älteren Marke als Hindernis für die Nichtigerklärung einer eingetragenen Marke\n\nEin Antrag auf Nichtigerklärung aufgrund einer älteren Marke ist erfolglos, wenn er am Anmelde- oder Prioritätstag der jüngeren Marke erfolglos gewesen wäre, weil (a) die ältere Marke damals nach Art. 4 Abs. 1 lit. b, c oder d für ungültig erklärt werden konnte und noch keine Unterscheidungskraft erlangt hatte, (b) noch keine Verwechslungsgefahr bestand, weil die ältere Marke noch nicht hinreichend unterscheidungskräftig war, oder (c) die ältere Marke noch nicht bekannt war.\n\nUmgesetzt in: § 22, § 51 Abs. 3, § 51 Abs. 4 MarkenG\n\nHinweis: Maßgeblicher Zeitpunkt für Kennzeichnungskraft und Bekanntheit der älteren Marke ist der Prioritätstag der jüngeren Marke (§ 51 Abs. 3, Abs. 4 S. 2 MarkenG).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:8"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:9",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 9 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Verwirkung durch Duldung\n\nHat der Inhaber einer älteren Marke die Benutzung einer jüngeren eingetragenen Marke fünf aufeinanderfolgende Jahre in Kenntnis geduldet, kann er weder die Nichtigkeit der jüngeren Marke geltend machen noch ihrer Benutzung widersprechen, es sei denn, die jüngere Marke wurde bösgläubig angemeldet.\n\nUmgesetzt in: § 21, § 51 Abs. 2 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:9"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:10",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 10 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Rechte aus der Marke\n\nDie Eintragung gewährt dem Inhaber ein ausschließliches Recht.\n\nUmgesetzt in: § 14 Abs. 1, § 14 Abs. 2, § 14 Abs. 3, § 14a, § 15 MarkenG\n\nHinweis: Kern der Harmonisierung. Neu: Transitverbot (§ 14a MarkenG), Benutzung als Unternehmensbezeichnung ausdrücklich als Verletzungshandlung (§ 14 Abs. 3 Nr. 5), Bekanntheitsschutz zwingend und für alle Waren (§ 14 Abs. 2 Nr. 3). Die Funktionenlehre des EuGH (Herkunfts-, Werbe-, Investitionsfunktion) ist Auslegung dieses Artikels.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:10"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:11",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 11 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Recht, Vorbereitungshandlungen im Zusammenhang mit der Benutzung von Aufmachungen oder anderen Kennzeichnungsmitteln zu verbieten\n\nBesteht die Gefahr, dass Aufmachungen, Verpackungen, Etiketten, Anhänger, Sicherheits- oder Echtheitshinweise, auf denen die Marke angebracht ist, für Waren benutzt werden und dies eine Verletzung wäre, kann der Inhaber verbieten: (a) das Anbringen der Marke auf solchen Kennzeichnungsmitteln, (b) das Anbieten, Inverkehrbringen, Besitzen, Ein- oder Ausführen solcher Kennzeichnungsmittel.\n\nUmgesetzt in: § 14 Abs. 4 MarkenG\n\nHinweis: Vorverlagerung des Schutzes gegen Produktpiraterie; § 14 Abs. 4 MarkenG wurde um Sicherheits- und Echtheitshinweise erweitert.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:11"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:12",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 12 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Wiedergabe von Marken in Wörterbüchern\n\nErweckt die Wiedergabe einer Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck, es handle sich um eine Gattungsbezeichnung, muss der Verleger auf Verlangen des Inhabers unverzüglich, bei Druckwerken spätestens in der nächsten Auflage, kenntlich machen, dass es sich um eine eingetragene Marke handelt.\n\nUmgesetzt in: § 16 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:12"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:13",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 13 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Untersagung der Benutzung einer Marke, die für einen Agenten oder Vertreter eingetragen ist\n\nWurde eine Marke ohne Zustimmung des Inhabers auf den Namen seines Agenten oder Vertreters eingetragen, kann der Inhaber der Benutzung widersprechen, es sei denn, der Agent rechtfertigt seine Handlung; außerdem kann er die Übertragung der Eintragung auf sich verlangen.\n\nUmgesetzt in: § 11, § 17 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:13"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:14",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 14 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Beschränkung der Wirkungen der Marke\n\nDie Marke gewährt nicht das Recht, Dritten zu verbieten, im geschäftlichen Verkehr zu benutzen: (a) den Namen oder die Anschrift des Dritten, wenn dieser eine natürliche Person ist; (b) Zeichen ohne Unterscheidungskraft oder Angaben über Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung oder andere Merkmale; (c) die Marke zu Zwecken der Identifizierung oder zum Verweis auf Waren des Inhabers, insbesondere wenn dies als Hinweis auf die Bestimmung einer Ware als Zubehör oder Ersatzteil notwendig ist.\n\nUmgesetzt in: § 23 MarkenG\n\nHinweis: Neu: Die Namensschranke gilt nur noch für natürliche Personen (§ 23 Abs. 1 Nr. 1 MarkenG); die referierende Benutzung („zu Zwecken der Identifizierung oder des Verweises“) ist ausdrücklich privilegiert.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:14"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:15",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 15 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Erschöpfung des Rechts aus der Marke\n\nDie Marke gewährt nicht das Recht, die Benutzung für Waren zu verbieten, die unter dieser Marke vom Inhaber oder mit seiner Zustimmung in der Union in den Verkehr gebracht worden sind.\n\nUmgesetzt in: § 24 MarkenG\n\nHinweis: Unionsweite (EWR-weite) Erschöpfung; keine internationale Erschöpfung (EuGH Silhouette). Die Beweislastregeln (Van Doren) und die BMS-Kriterien konkretisieren Abs. 1 und 2.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:15"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:16",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 16 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Benutzung der Marke\n\nHat der Inhaber die Marke binnen fünf Jahren nach Abschluss des Eintragungsverfahrens nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt oder die Benutzung fünf Jahre ausgesetzt, unterliegt die Marke den Beschränkungen und Sanktionen der Art. 17, 19 Abs. 1, 44 Abs. 1 und 2 sowie 46 Abs. 3 und 4, sofern keine berechtigten Gründe vorliegen.\n\nUmgesetzt in: § 115, § 116, § 117, § 25, § 26 MarkenG\n\nHinweis: Die Schonfrist beginnt jetzt mit dem Abschluss des Widerspruchsverfahrens (§ 26 Abs. 5 MarkenG neu); Benutzung in abweichender Form ist auch dann rechtserhaltend, wenn die abweichende Form selbst eingetragen ist (§ 26 Abs. 3 S. 2).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:16"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:17",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 17 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Einrede der Nichtbenutzung in Verletzungsverfahren\n\nDer Inhaber kann die Benutzung eines Zeichens nur verbieten, soweit seine Rechte zum Zeitpunkt der Klageerhebung nicht nach Art. 19 für verfallen erklärt werden könnten; auf Verlangen des Beklagten muss der Inhaber nachweisen, dass die Marke in den fünf Jahren vor Klageerhebung ernsthaft benutzt wurde oder berechtigte Gründe vorliegen, sofern die Schonfrist bei Klageerhebung abgelaufen war.\n\nUmgesetzt in: § 25 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:17"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:18",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 18 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Zwischenrecht des Inhabers einer später eingetragenen Marke als Einwand in Verletzungsverfahren\n\nDer Inhaber kann die Benutzung einer später eingetragenen Marke nicht verbieten, wenn diese jüngere Marke nach Art. 8, Art. 9 Abs. 1 oder 2 oder Art. 46 Abs. 3 nicht für ungültig erklärt werden könnte.\n\nUmgesetzt in: § 22 MarkenG\n\nHinweis: Übernahme des unionsmarkenrechtlichen Zwischenrechts (Art. 16 UMV) in das nationale Recht; § 22 MarkenG wurde neu gefasst.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:18"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:19",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 19 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Nichtbenutzung als Verfallsgrund\n\nEine Marke wird für verfallen erklärt, wenn sie innerhalb von fünf aufeinanderfolgenden Jahren nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt wurde und keine berechtigten Gründe vorliegen.\n\nUmgesetzt in: § 49 Abs. 1 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:19"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:20",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 20 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Entwicklung zu einer gebräuchlichen Bezeichnung oder irreführende Angabe als Verfallsgrund\n\nEine Marke wird für verfallen erklärt, wenn sie nach der Eintragung (a) infolge des Verhaltens oder der Untätigkeit des Inhabers zur gebräuchlichen Bezeichnung einer Ware oder Dienstleistung geworden ist, für die sie eingetragen ist, oder (b) infolge ihrer Benutzung durch den Inhaber oder mit seiner Zustimmung geeignet ist, das Publikum insbesondere über Art, Beschaffenheit oder geographische Herkunft irrezuführen.\n\nUmgesetzt in: § 49 Abs. 2 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:20"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:21",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 21 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Verfall nur für einen Teil der Waren oder Dienstleistungen\n\nLiegt ein Verfallsgrund nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil für verfallen erklärt.\n\nUmgesetzt in: § 49 Abs. 3 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:21"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:22",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 22 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Rechtsübergang eingetragener Marken\n\nDie Marke kann unabhängig vom Unternehmen für alle oder einen Teil der Waren übertragen werden.\n\nUmgesetzt in: § 27 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:22"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:23",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 23 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Dingliche Rechte\n\nDie Marke kann unabhängig vom Unternehmen verpfändet oder Gegenstand eines sonstigen dinglichen Rechts sein.\n\nUmgesetzt in: § 29 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:23"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:24",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 24 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Zwangsvollstreckung\n\nDie Marke kann Gegenstand von Maßnahmen der Zwangsvollstreckung sein.\n\nUmgesetzt in: § 29 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:24"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:25",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 25 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Lizenz\n\nDie Marke kann für alle oder einen Teil der Waren und für das gesamte Gebiet oder einen Teil des Mitgliedstaats Gegenstand ausschließlicher oder nicht ausschließlicher Lizenzen sein.\n\nUmgesetzt in: § 30 MarkenG\n\nHinweis: Abs. 2 ist der unionsrechtliche Hintergrund des § 30 Abs. 2 MarkenG: Ein Lizenzverstoß in diesen Punkten schließt die Zustimmung und damit die Erschöpfung aus (EuGH Copad, BGH Converse II).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:25"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:26",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 26 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Anmeldung einer Marke als Gegenstand des Vermögens\n\nDie Art. 22 bis 25 gelten auch für Markenanmeldungen.\n\nUmgesetzt in: § 31 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:26"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:27",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 27 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Begriffsbestimmungen\n\n„Garantie- oder Gewährleistungsmarke“: Marke, die geeignet ist, Waren oder Dienstleistungen, für die der Inhaber Material, Herstellungsart, Qualität, Genauigkeit oder andere Eigenschaften gewährleistet, von nicht gewährleisteten zu unterscheiden.\n\nUmgesetzt in: § 106a, § 97 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:27"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:28",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 28 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Garantie- oder Gewährleistungsmarken\n\nDie Mitgliedstaaten können die Eintragung von Garantie- oder Gewährleistungsmarken vorsehen.\n\nUmgesetzt in: § 106a, § 106b, § 106c, § 106d MarkenG\n\nHinweis: Deutschland hat die Option genutzt: Gewährleistungsmarke seit dem MaMoG in §§ 106a ff. MarkenG (Prüf- und Gütesiegel).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:28"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:29",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 29 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Kollektivmarken\n\nDie Mitgliedstaaten sehen die Eintragung von Kollektivmarken vor.\n\nUmgesetzt in: § 100, § 97, § 98, § 99 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:29"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:30",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 30 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Satzung der Kollektivmarke\n\nDer Anmelder legt dem Amt die Markensatzung vor.\n\nUmgesetzt in: § 102 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:30"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:31",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 31 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Zurückweisung der Anmeldung\n\nNeben den Gründen der Art. 4 und 5 wird die Anmeldung zurückgewiesen, wenn Art. 27 lit. b, 29 oder 30 nicht erfüllt sind oder die Satzung gegen die öffentliche Ordnung oder die guten Sitten verstößt.\n\nUmgesetzt in: § 103 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:31"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:32",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 32 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Benutzung von Kollektivmarken\n\nArt. 16 ist erfüllt, wenn eine zur Benutzung befugte Person die Kollektivmarke ernsthaft benutzt.\n\nUmgesetzt in: § 100 Abs. 2 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:32"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:33",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 33 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Änderung der Satzung der Kollektivmarke\n\nDer Inhaber legt jede geänderte Satzung dem Amt vor.\n\nUmgesetzt in: § 104 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:33"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:34",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 34 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Klagebefugnis\n\nArt. 25 Abs. 3 und 4 gelten für zur Benutzung Befugte entsprechend.\n\nUmgesetzt in: § 101, § 106c MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:34"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:35",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 35 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Zusätzliche Verfallsgründe\n\nZusätzlich zu Art. 19 und 20 wird die Kollektivmarke für verfallen erklärt, wenn (a) der Inhaber keine angemessenen Maßnahmen gegen satzungswidrige Benutzung trifft, (b) die Benutzung durch Befugte das Publikum nach Art. 31 Abs. 2 irreführen kann, oder (c) eine Satzungsänderung entgegen Art. 33 Abs. 2 im Register vermerkt wurde, es sei denn, der Inhaber erfüllt die Anforderungen durch erneute Änderung.\n\nUmgesetzt in: § 105, § 106g MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:35"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:36",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 36 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Zusätzliche Ungültigkeitsgründe\n\nZusätzlich zu Art. 4 und 5 wird eine entgegen Art. 31 eingetragene Kollektivmarke für ungültig erklärt, es sei denn, der Inhaber erfüllt die Anforderungen durch Satzungsänderung.\n\nUmgesetzt in: § 106, § 106h MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:36"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:37",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 37 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Anmeldeerfordernisse\n\nDie Anmeldung enthält mindestens: (a) einen Antrag auf Eintragung, (b) Angaben zur Identität des Anmelders, (c) das Verzeichnis der Waren und Dienstleistungen, (d) eine Wiedergabe der Marke nach Art. 3 lit. b.\n\nUmgesetzt in: § 32 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:37"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:38",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 38 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Anmeldetag\n\nAnmeldetag ist der Tag, an dem die Unterlagen nach Art. 37 Abs. 1 beim Amt eingereicht werden.\n\nUmgesetzt in: § 33 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:38"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:39",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 39 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Bezeichnung und Klassifizierung von Waren und Dienstleistungen\n\nDie Waren und Dienstleistungen werden nach der Nizza-Klassifikation klassifiziert.\n\nUmgesetzt in: § 32 Abs. 3, § 65, § 9 Abs. 3 MarkenG\n\nHinweis: Abs. 7 entspricht § 9 Abs. 3 MarkenG; Abs. 5 kodifiziert die IP-Translator-Rechtsprechung (EuGH C-307/10).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:39"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:40",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 40 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Bemerkungen Dritter\n\nDie Mitgliedstaaten können vorsehen, dass Dritte vor der Eintragung schriftliche Bemerkungen zu absoluten Eintragungshindernissen einreichen, ohne am Verfahren beteiligt zu werden.\n\nUmgesetzt in: § 37 Abs. 6 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:40"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:41",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 41 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Teilung von Anmeldungen und Eintragungen\n\nDer Anmelder oder Inhaber kann die Anmeldung oder Eintragung in zwei oder mehr Teile teilen.\n\nUmgesetzt in: § 40, § 46 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:41"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:42",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 42 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Klassengebühren\n\nDie Mitgliedstaaten können für Anmeldung und Verlängerung eine zusätzliche Gebühr je Klasse jenseits der ersten Klasse vorsehen.\n\nUmgesetzt in: § 32 Abs. 4 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:42"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:43",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 43 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Widerspruchsverfahren\n\nDie Mitgliedstaaten sehen ein effizientes und zügiges Verwaltungsverfahren vor, mit dem gegen die Anmeldung auf Grundlage der Gründe des Art. 5 Widerspruch erhoben werden kann.\n\nUmgesetzt in: § 42 MarkenG\n\nHinweis: Umsetzung: § 42 Abs. 2 (Widerspruchsberechtigte, jetzt auch bekannte Marken ausdrücklich), Abs. 3 (mehrere ältere Rechte), Abs. 4 (Cooling-off von mindestens zwei Monaten).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:43"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:44",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 44 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Nichtbenutzung als Einrede im Widerspruchsverfahren\n\nWar die Schonfrist der älteren Marke am Anmelde- oder Prioritätstag der jüngeren Marke abgelaufen, muss der Widersprechende auf Verlangen des Anmelders nachweisen, dass die ältere Marke in den fünf Jahren vor diesem Tag ernsthaft benutzt wurde oder berechtigte Gründe vorlagen; sonst wird der Widerspruch zurückgewiesen.\n\nUmgesetzt in: § 125b, § 43 Abs. 1 MarkenG\n\nHinweis: Maßgeblicher Fünfjahreszeitraum ist der vor dem Anmelde-/Prioritätstag der jüngeren Marke (§ 43 Abs. 1 S. 1 MarkenG neu).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:44"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:45",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 45 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Verfahren zur Erklärung des Verfalls oder der Nichtigkeit\n\nUnbeschadet gerichtlicher Verfahren sehen die Mitgliedstaaten ein effizientes und zügiges Verwaltungsverfahren vor den Ämtern für die Erklärung des Verfalls oder der Nichtigkeit vor.\n\nUmgesetzt in: § 53, § 54, § 55 MarkenG\n\nHinweis: Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 UAbs. 2). Deutschland: seit 1.5.2020 vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG), daneben Klage nach § 55 nur noch für Verfall und relative Nichtigkeit.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:45"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:46",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 46 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Nichtbenutzung als Einrede in Verfahren zur Erklärung der Nichtigkeit\n\nDer Inhaber der jüngeren Marke kann verlangen, dass der Antragsteller die ernsthafte Benutzung seiner älteren Marke in den fünf Jahren vor Antragstellung nachweist, wenn deren Schonfrist bei Antragstellung abgelaufen war.\n\nUmgesetzt in: § 125b, § 53 Abs. 6, § 55 Abs. 3 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:46"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:47",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 47 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Wirkungen des Verfalls und der Nichtigkeit\n\nBei Verfall gelten die Wirkungen der Marke ab dem Tag der Antragstellung als nicht mehr eingetreten; auf Antrag kann ein früherer Zeitpunkt festgesetzt werden, zu dem der Verfallsgrund eintrat.\n\nUmgesetzt in: § 52 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:47"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:48",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 48 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Schutzdauer\n\nDie Schutzdauer beträgt zehn Jahre ab dem Anmeldetag.\n\nUmgesetzt in: § 47 Abs. 1, § 47 Abs. 2 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:48"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:49",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 49 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Verlängerung\n\nDie Verlängerung erfolgt auf Antrag des Inhabers oder eines Bevollmächtigten gegen Gebühr; die Mitgliedstaaten können die Gebührenzahlung als Antrag gelten lassen.\n\nUmgesetzt in: § 47 Abs. 3, § 47 Abs. 4, § 47 Abs. 5 MarkenG\n\nHinweis: Schutzdauer und Verlängerungsfristen laufen jetzt ab dem Anmeldetag, nicht mehr ab dem Monatsende (§ 47 MarkenG neu).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:49"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:50",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 50 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Kommunikation mit dem Amt\n\nDie Verfahrensbeteiligten oder ihre Vertreter geben eine amtliche Anschrift für die amtliche Kommunikation an; die Mitgliedstaaten können verlangen, dass sie im EWR liegt.\n\nUmgesetzt in: § 94, § 96 MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:50"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:51",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 51 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Zusammenarbeit im Bereich der Eintragung und Verwaltung von Marken\n\nDie Ämter arbeiten untereinander und mit dem EUIPO zusammen, um Verfahren und Instrumente zu harmonisieren und Ergebnisse zu vereinheitlichen.\n\nUmgesetzt in: § 65a MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:51"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:52",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 52 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Zusammenarbeit in anderen Bereichen\n\nDie Ämter können mit dem EUIPO auch in anderen Tätigkeitsbereichen zusammenarbeiten, etwa bei Sensibilisierung und Bekämpfung von Verletzungen.\n\nUmgesetzt in: § 65a MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:52"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:53",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 53 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Datenschutz\n\nFür die Verarbeitung personenbezogener Daten gilt das nationale Datenschutzrecht in Umsetzung der RL 95/46/EG (heute DSGVO).\n\nUmgesetzt in: § 62a MarkenG",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:53"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:54",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 54 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Umsetzung\n\nDie Mitgliedstaaten setzen die Art. 3 bis 6, 8 bis 14, 16, 17, 18, 22 bis 39, 41 und 43 bis 50 bis zum 14. Januar 2019 um; Art. 45 bis zum 14. Januar 2023.\n\nUmgesetzt in: § 158 MarkenG\n\nHinweis: Deutschland: Markenrechtsmodernisierungsgesetz (MaMoG) vom 11.12.2018, BGBl. I S. 2357, in Kraft seit 14.1.2019; Verfalls-/Nichtigkeitsverfahren vor dem DPMA seit 1.5.2020.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:54"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:55",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 55 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Aufhebung\n\nDie Richtlinie 2008/95/EG wird mit Wirkung vom 15. Januar 2019 aufgehoben; Verweise gelten als Verweise auf diese Richtlinie (Entsprechungstabelle in Anhang).",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:55"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:56",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 56 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Inkrafttreten\n\nDie Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt in Kraft; Art. 1, 7, 15, 19, 20, 21 und 54 bis 57 gelten ab dem 15. Januar 2019.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:56"
+ },
+ {
+  "id": "card:eunorm:eunorm:markenrl:57",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 57 MarkenRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Adressaten\n\nDie Richtlinie ist an die Mitgliedstaaten gerichtet.",
+  "tags": [
+   "Richtlinie",
+   "EU"
+  ],
+  "node": "eunorm:markenrl:57"
  }
 ]

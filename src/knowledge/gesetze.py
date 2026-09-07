@@ -39,10 +39,16 @@ LAWS = {
 }
 
 DEFAULT_LAW = "MarkenG"
-# Ohne Fundstelle auf gesetze-im-internet.de: nie verlinken.
-UNLINKED = ("UMV", "GMV", "MarkenRL", "PMMA", "MMA", "PVÜ", "TRIPS", "AEUV", "EUV", "DSGVO", "GGV", "EPÜ")
+# Unionsrecht: nicht auf gesetze-im-internet.de, aber auf EUR-Lex (Link auf das Gesamtdokument).
+EU_LAWS = {
+    "MarkenRL": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+    "UMV": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001",
+    "AEUV": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT",
+}
+# Ohne verlinkbare Fundstelle: nie verlinken.
+UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "GGV", "EPÜ")
 
-_ABBR = "|".join(sorted(list(LAWS) + list(UNLINKED), key=len, reverse=True))
+_ABBR = "|".join(sorted(list(LAWS) + list(EU_LAWS) + list(UNLINKED), key=len, reverse=True))
 _PATTERN = (
     r"(§§|§|Art\.)\s*"
     r"(\d+[a-z]?(?:\s*(?:bis|,|und|ff\.|f\.|/|-|–)\s*\d+[a-z]?)*)"
@@ -64,7 +70,7 @@ def url_for(nummer, law=DEFAULT_LAW):
 
 
 def _link(nummer, law, label, fmt):
-    href = url_for(nummer, law)
+    href = EU_LAWS.get(law) or url_for(nummer, law)
     if not href:
         return label
     if fmt == "markdown":
@@ -84,6 +90,8 @@ def linkify(text, fmt="html", escape=None):
         label = m.group(0)
         if law in UNLINKED:
             return label
+        if law in EU_LAWS:
+            return _link(None, law, label, fmt)
         if head == "Art." and law != "GG":
             return label
         target = law or DEFAULT_LAW
@@ -118,6 +126,7 @@ def js_table():
         "base": BASE,
         "laws": {k: {"slug": v[0], "kind": v[1]} for k, v in LAWS.items()},
         "unlinked": list(UNLINKED),
+        "eu": EU_LAWS,
         "default": DEFAULT_LAW,
     }
 
@@ -125,15 +134,17 @@ def js_table():
 JS_TEMPLATE = """
 // ---- Gesetzeslinks auf gesetze-im-internet.de (erzeugt aus src/knowledge/gesetze.py) ----
 const LAW = __LAWDATA__;
-const LAWABBR = Object.keys(LAW.laws).concat(LAW.unlinked).sort((a, b) => b.length - a.length).join('|');
+const LAWABBR = Object.keys(LAW.laws).concat(Object.keys(LAW.eu), LAW.unlinked).sort((a, b) => b.length - a.length).join('|');
 const CITE = new RegExp(__PATTERN__, 'g');
 function lawUrl(num, law){ const e = LAW.laws[law]; if(!e) return null;
   return LAW.base + e.slug + '/' + (e.kind === 'Art.' ? 'art_' + num + '.html' : '__' + num + '.html'); }
-function lawA(href, label){ return '<a href="' + href + '" target="_blank" rel="noopener" class="lawlink"'
-  + ' title="Auf gesetze-im-internet.de nachlesen">' + label + '</a>'; }
+function lawA(href, label){ var eu = href.indexOf('eur-lex') >= 0;
+  return '<a href="' + href + '" target="_blank" rel="noopener" class="lawlink"'
+  + ' title="' + (eu ? 'Auf EUR-Lex nachlesen' : 'Auf gesetze-im-internet.de nachlesen') + '">' + label + '</a>'; }
 function lawifyText(s){
   return s.replace(CITE, function(m, head, nums, sub, law){
     if(law && LAW.unlinked.indexOf(law) >= 0) return m;
+    if(law && LAW.eu[law]) return lawA(LAW.eu[law], m);
     if(head === 'Art.' && law !== 'GG') return m;
     var target = law || LAW.default; if(!LAW.laws[target]) return m;
     var found = nums.match(NUMRE) || []; if(!found.length) return m;
@@ -168,7 +179,7 @@ if __name__ == "__main__":
         "Die §§ 9 bis 13 regeln relative Schutzhindernisse; §§ 3, 7, 8 die Eintragung.",
         "Schranken der §§ 23/24, Verfahren der §§ 112-125, Löschung §§ 49–52.",
         "Verwirkung nach § 21 Abs. 4 i.V.m. § 242 BGB; Kunstfreiheit Art. 5 Abs. 3 GG.",
-        "Art. 9 Abs. 2 lit. c UMV entspricht § 14 Abs. 2 Nr. 3; Art. 6 PMMA bleibt frei.",
+        "Art. 9 Abs. 2 lit. c UMV entspricht § 14 Abs. 2 Nr. 3; Art. 6 PMMA bleibt frei; Art. 10 Abs. 2 MarkenRL ist der Ursprung.",
         "Streitwert nach § 51 GKG, Zuständigkeit § 140, Aussetzung § 148 ZPO.",
     ]
     for p in proben:

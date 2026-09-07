@@ -17,6 +17,7 @@ Kartentypen:
   entscheidung    Entscheidung -> Kernaussage
   entscheidung_r  Kernaussage -> Entscheidungsname (Umkehrkarte)
   norm            Paragraph -> Regelungsinhalt
+  eunorm          Artikel der MarkenRL -> Inhalt und Umsetzung im MarkenG
 """
 import csv
 import json
@@ -137,6 +138,19 @@ def generate(graph):
             back += "\n\nZugehörige Begriffe: " + ", ".join(sorted(concepts)[:8])
         add("norm", f"Was regelt {n['label']}?", back, ["Gesetz"], nid)
 
+    # Markenrechtsrichtlinie: Artikel -> Inhalt und Umsetzung
+    for n in graph["nodes"]:
+        if n["type"] != "eunorm" or n["nummer"] == "0":
+            continue
+        umsetzung = [e["ref"] for e in inc.get(n["id"], []) if e["relation"] == "implements"]
+        first = n["absaetze"][0]["text"] if n["absaetze"] else ""
+        first = first if len(first) <= 600 else first[:600] + " …"
+        back = f"{n['titel']}\n\n{first}"
+        if umsetzung:
+            back += "\n\nUmgesetzt in: " + ", ".join(sorted(set(umsetzung))) + " MarkenG"
+        if n.get("hinweis"):
+            back += "\n\nHinweis: " + n["hinweis"]
+        add("eunorm", f"Was regelt {n['label']} und welche Vorschrift des MarkenG setzt ihn um?", back, ["Richtlinie", "EU"], n["id"])
     return cards
 
 

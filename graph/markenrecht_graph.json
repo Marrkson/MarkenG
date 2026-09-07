@@ -2,6 +2,10 @@
  "meta": {
   "titel": "Wissensgraph Markenrecht (MarkenG)",
   "beschreibung": "Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Markenrecht.",
+  "markenrl": {
+   "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "hinweis": "Artikel der Richtlinie (EU) 2015/2436 sind als Paraphrase erfasst (amtlicher Wortlaut aus der Build-Umgebung nicht abrufbar)."
+  },
   "gesetz_quelle": "https://www.gesetze-im-internet.de/markeng/ (Spiegel: https://github.com/bundestag/gesetze/blob/master/m/markeng/index.md)",
   "gesetz_stand": {
    "Ausfertigungsdatum": "1994-10-25",
@@ -10,17 +14,18 @@
   },
   "statistik": {
    "norm": 192,
-   "concept": 87,
-   "schema": 14,
-   "step": 155,
+   "eunorm": 58,
+   "concept": 96,
+   "schema": 15,
+   "step": 165,
    "case": 101,
-   "distinction": 17,
+   "distinction": 18,
    "source": 93,
-   "course": 10,
-   "chapter": 26,
-   "unit": 125
+   "course": 11,
+   "chapter": 29,
+   "unit": 145
   },
-  "kanten": 2585
+  "kanten": 3098
  },
  "nodes": [
   {
@@ -4715,6 +4720,1538 @@
    "url": "https://www.gesetze-im-internet.de/markeng/__164.html"
   },
   {
+   "id": "eunorm:markenrl:1",
+   "type": "eunorm",
+   "label": "Art. 1 MarkenRL",
+   "titel": "Anwendungsbereich",
+   "nummer": "1",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 1 – Allgemeine Bestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Richtlinie gilt für alle Individual-, Garantie-, Gewährleistungs- und Kollektivmarken für Waren oder Dienstleistungen, die in einem Mitgliedstaat oder beim Benelux-Amt eingetragen oder angemeldet sind oder mit Wirkung für einen Mitgliedstaat international registriert wurden."
+    }
+   ],
+   "hinweis": "Nicht harmonisiert sind Benutzungsmarken (§ 4 Nr. 2 MarkenG) und geschäftliche Bezeichnungen (§ 5 MarkenG); insoweit bleibt das nationale Recht frei.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:2",
+   "type": "eunorm",
+   "label": "Art. 2 MarkenRL",
+   "titel": "Begriffsbestimmungen",
+   "nummer": "2",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 1 – Allgemeine Bestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "a",
+     "text": "„Amt“ ist die für die Eintragung von Marken zuständige zentrale Behörde für den gewerblichen Rechtsschutz des Mitgliedstaats oder das Benelux-Amt für geistiges Eigentum."
+    },
+    {
+     "nr": "b",
+     "text": "„Register“ ist das von einem Amt geführte Markenregister."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:3",
+   "type": "eunorm",
+   "label": "Art. 3 MarkenRL",
+   "titel": "Markenformen",
+   "nummer": "3",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 1 – Markenformen",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Marken können alle Zeichen sein, insbesondere Wörter einschließlich Personennamen, Abbildungen, Buchstaben, Zahlen, Farben, die Form der Ware oder ihrer Verpackung sowie Klänge, sofern sie (a) geeignet sind, Waren oder Dienstleistungen eines Unternehmens von denen anderer zu unterscheiden, und (b) im Register so dargestellt werden können, dass Behörden und Publikum den Schutzgegenstand klar und eindeutig bestimmen können."
+    }
+   ],
+   "hinweis": "Aufgabe des Erfordernisses der graphischen Darstellbarkeit (Sieckmann-Kriterien bleiben Maßstab). Umsetzung im MaMoG: § 8 Abs. 1 MarkenG neu gefasst; Klang-, Bewegungs-, Multimedia- und Hologrammmarken ausdrücklich zulässig.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:4",
+   "type": "eunorm",
+   "label": "Art. 4 MarkenRL",
+   "titel": "Absolute Eintragungshindernisse oder Ungültigkeitsgründe",
+   "nummer": "4",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Von der Eintragung ausgeschlossen bzw. für ungültig zu erklären sind: (a) nicht markenfähige Zeichen; (b) Marken ohne Unterscheidungskraft; (c) ausschließlich beschreibende Angaben (Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung, sonstige Merkmale); (d) im allgemeinen Sprachgebrauch oder in redlichen Verkehrsgepflogenheiten üblich gewordene Zeichen; (e) Zeichen, die ausschließlich aus der Form oder einem anderen charakteristischen Merkmal bestehen, die durch die Art der Ware bedingt, zur Erreichung einer technischen Wirkung erforderlich sind oder der Ware einen wesentlichen Wert verleihen; (f) Verstoß gegen öffentliche Ordnung oder gute Sitten; (g) Täuschungseignung; (h) Hoheitszeichen nach Art. 6ter PVÜ ohne Genehmigung; (i) Ursprungsbezeichnungen und geographische Angaben; (j) traditionelle Weinbezeichnungen; (k) garantiert traditionelle Spezialitäten; (l) frühere Sortenbezeichnungen."
+    },
+    {
+     "nr": "2",
+     "text": "Eine Marke ist für ungültig zu erklären, wenn der Anmelder bei der Anmeldung bösgläubig war; die Mitgliedstaaten können Bösgläubigkeit auch als Eintragungshindernis vorsehen."
+    },
+    {
+     "nr": "3",
+     "text": "Fakultative Gründe der Mitgliedstaaten: Verbot der Benutzung nach anderem Recht; Zeichen von hoher symbolischer Bedeutung, insbesondere religiöse Symbole; Abzeichen, Embleme und Wappen jenseits von Art. 6ter PVÜ."
+    },
+    {
+     "nr": "4",
+     "text": "Die Hindernisse nach Abs. 1 lit. b, c und d greifen nicht, wenn die Marke vor dem Anmeldetag infolge Benutzung Unterscheidungskraft erlangt hat; die Ungültigerklärung ist ausgeschlossen, wenn die Unterscheidungskraft vor dem Antrag erlangt wurde."
+    },
+    {
+     "nr": "5",
+     "text": "Die Mitgliedstaaten können vorsehen, dass Abs. 4 auch gilt, wenn die Unterscheidungskraft erst nach dem Anmeldetag, aber vor der Eintragung erlangt wurde."
+    }
+   ],
+   "hinweis": "Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ (§ 3 Abs. 2 MarkenG), Bösgläubigkeit als zwingender Ungültigkeitsgrund (§ 8 Abs. 2 Nr. 14 MarkenG), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen (§ 8 Abs. 2 Nr. 9 bis 13 MarkenG).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:5",
+   "type": "eunorm",
+   "label": "Art. 5 MarkenRL",
+   "titel": "Relative Eintragungshindernisse oder Ungültigkeitsgründe",
+   "nummer": "5",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Ausgeschlossen oder ungültig ist eine Marke, (a) die mit einer älteren Marke identisch ist und für identische Waren angemeldet wurde, oder (b) wenn wegen Identität oder Ähnlichkeit mit der älteren Marke und der Waren für das Publikum Verwechslungsgefahr besteht, einschließlich der Gefahr gedanklicher Verbindung."
+    },
+    {
+     "nr": "2",
+     "text": "„Ältere Marken“ sind: Unionsmarken, nationale und Benelux-Marken, international registrierte Marken mit Wirkung im Mitgliedstaat oder in der Union, jeweils mit früherem Anmeldetag (auch Priorität), Unionsmarken mit Seniorität, Anmeldungen solcher Marken vorbehaltlich ihrer Eintragung sowie notorisch bekannte Marken im Sinne des Art. 6bis PVÜ."
+    },
+    {
+     "nr": "3",
+     "text": "Ferner ausgeschlossen oder ungültig: (a) Marken, die einer älteren, im Mitgliedstaat oder in der Union bekannten Marke identisch oder ähnlich sind, wenn die Benutzung deren Unterscheidungskraft oder Wertschätzung ohne rechtfertigenden Grund unlauter ausnutzen oder beeinträchtigen würde, und zwar unabhängig davon, ob die Waren identisch, ähnlich oder unähnlich sind; (b) Agentenmarken, die ein Agent oder Vertreter ohne Zustimmung des Inhabers auf eigenen Namen anmeldet; (c) Marken, die mit einer älteren Ursprungsbezeichnung oder geographischen Angabe kollidieren."
+    },
+    {
+     "nr": "4",
+     "text": "Fakultative Gründe der Mitgliedstaaten: ältere Benutzungsmarken oder sonstige im Verkehr benutzte Kennzeichen, die ein Verbietungsrecht gewähren; sonstige ältere Rechte wie Name, Bildnis, Urheberrecht, gewerbliche Schutzrechte; Verwechslungsgefahr mit einer im Ausland benutzten Marke bei bösgläubiger Anmeldung."
+    },
+    {
+     "nr": "5",
+     "text": "Keine Zurückweisung oder Ungültigerklärung, wenn der Inhaber des älteren Rechts der Eintragung zustimmt."
+    },
+    {
+     "nr": "6",
+     "text": "Mitgliedstaaten können abweichend vorsehen, dass vor Inkrafttreten der Umsetzungsvorschriften der RL 89/104/EWG geltende Gründe weiter anwendbar sind."
+    }
+   ],
+   "hinweis": "Der Bekanntheitsschutz im Register ist jetzt zwingend und gilt ausdrücklich auch bei identischen und ähnlichen Waren; § 9 Abs. 1 Nr. 3 MarkenG wurde entsprechend geändert (Streichung von „nicht ähnlich“).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:6",
+   "type": "eunorm",
+   "label": "Art. 6 MarkenRL",
+   "titel": "Nachträgliche Feststellung der Ungültigkeit oder des Verfalls einer Marke",
+   "nummer": "6",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Wurde für eine Unionsmarke die Seniorität einer nationalen Marke in Anspruch genommen, auf die verzichtet wurde oder die erloschen ist, kann die Ungültigkeit oder der Verfall dieser nationalen Marke nachträglich festgestellt werden, sofern die Voraussetzungen schon im Zeitpunkt des Verzichts oder Erlöschens vorlagen; die Seniorität entfällt dann."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:7",
+   "type": "eunorm",
+   "label": "Art. 7 MarkenRL",
+   "titel": "Eintragungshindernisse und Ungültigkeitsgründe nur für einen Teil der Waren oder Dienstleistungen",
+   "nummer": "7",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Liegt ein Hindernis nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil zurückgewiesen oder für ungültig erklärt."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:8",
+   "type": "eunorm",
+   "label": "Art. 8 MarkenRL",
+   "titel": "Fehlende Unterscheidungskraft oder Bekanntheit einer älteren Marke als Hindernis für die Nichtigerklärung einer eingetragenen Marke",
+   "nummer": "8",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Ein Antrag auf Nichtigerklärung aufgrund einer älteren Marke ist erfolglos, wenn er am Anmelde- oder Prioritätstag der jüngeren Marke erfolglos gewesen wäre, weil (a) die ältere Marke damals nach Art. 4 Abs. 1 lit. b, c oder d für ungültig erklärt werden konnte und noch keine Unterscheidungskraft erlangt hatte, (b) noch keine Verwechslungsgefahr bestand, weil die ältere Marke noch nicht hinreichend unterscheidungskräftig war, oder (c) die ältere Marke noch nicht bekannt war."
+    }
+   ],
+   "hinweis": "Maßgeblicher Zeitpunkt für Kennzeichnungskraft und Bekanntheit der älteren Marke ist der Prioritätstag der jüngeren Marke (§ 51 Abs. 3, Abs. 4 S. 2 MarkenG).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:9",
+   "type": "eunorm",
+   "label": "Art. 9 MarkenRL",
+   "titel": "Verwirkung durch Duldung",
+   "nummer": "9",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Hat der Inhaber einer älteren Marke die Benutzung einer jüngeren eingetragenen Marke fünf aufeinanderfolgende Jahre in Kenntnis geduldet, kann er weder die Nichtigkeit der jüngeren Marke geltend machen noch ihrer Benutzung widersprechen, es sei denn, die jüngere Marke wurde bösgläubig angemeldet."
+    },
+    {
+     "nr": "2",
+     "text": "Die Mitgliedstaaten können dies auf sonstige ältere Rechte nach Art. 5 Abs. 4 lit. a und b erstrecken."
+    },
+    {
+     "nr": "3",
+     "text": "Auch der Inhaber der jüngeren Marke kann sich der Benutzung des älteren Rechts nicht widersetzen, obwohl dieses nicht mehr gegen die jüngere Marke geltend gemacht werden kann."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:10",
+   "type": "eunorm",
+   "label": "Art. 10 MarkenRL",
+   "titel": "Rechte aus der Marke",
+   "nummer": "10",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Eintragung gewährt dem Inhaber ein ausschließliches Recht."
+    },
+    {
+     "nr": "2",
+     "text": "Unbeschadet älterer Rechte kann der Inhaber Dritten verbieten, ohne seine Zustimmung im geschäftlichen Verkehr für Waren oder Dienstleistungen ein Zeichen zu benutzen, (a) das mit der Marke identisch ist und für identische Waren benutzt wird; (b) das mit der Marke identisch oder ähnlich ist und für identische oder ähnliche Waren benutzt wird, wenn Verwechslungsgefahr einschließlich der Gefahr gedanklicher Verbindung besteht; (c) das mit der Marke identisch oder ähnlich ist, wenn die Marke im Mitgliedstaat bekannt ist und die Benutzung ihre Unterscheidungskraft oder Wertschätzung ohne rechtfertigenden Grund unlauter ausnutzt oder beeinträchtigt, unabhängig von der Waren(un)ähnlichkeit."
+    },
+    {
+     "nr": "3",
+     "text": "Verboten werden können insbesondere: (a) Anbringen auf Waren oder Verpackungen; (b) Anbieten, Inverkehrbringen, Besitz zu diesen Zwecken, Anbieten oder Erbringen von Dienstleistungen; (c) Einfuhr oder Ausfuhr; (d) Benutzung als Handelsname oder Unternehmensbezeichnung oder als Teil davon; (e) Benutzung in Geschäftspapieren und Werbung; (f) Benutzung in vergleichender Werbung entgegen der RL 2006/114/EG."
+    },
+    {
+     "nr": "4",
+     "text": "Der Inhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen (oder in wesentlichen Aspekten nicht unterscheidbaren) Marke versehen sind, in den Mitgliedstaat verbringen, ohne sie dort in den Verkehr zu bringen (Transit); das Recht erlischt, wenn der Anmelder oder Besitzer im Verletzungsverfahren nachweist, dass der Inhaber im Bestimmungsland die Vermarktung nicht verbieten könnte."
+    },
+    {
+     "nr": "5",
+     "text": "Konnte nach dem Recht des Mitgliedstaats die Benutzung vor Inkrafttreten der Umsetzungsvorschriften der RL 89/104/EWG nicht verboten werden, kann sie auch jetzt nicht verboten werden."
+    },
+    {
+     "nr": "6",
+     "text": "Die Absätze 1, 2, 3 und 5 lassen Vorschriften über den Schutz gegen Benutzung zu anderen Zwecken als der Unterscheidung von Waren unberührt, wenn die Benutzung die Unterscheidungskraft oder Wertschätzung unlauter ausnutzt oder beeinträchtigt."
+    }
+   ],
+   "hinweis": "Kern der Harmonisierung. Neu: Transitverbot (§ 14a MarkenG), Benutzung als Unternehmensbezeichnung ausdrücklich als Verletzungshandlung (§ 14 Abs. 3 Nr. 5), Bekanntheitsschutz zwingend und für alle Waren (§ 14 Abs. 2 Nr. 3). Die Funktionenlehre des EuGH (Herkunfts-, Werbe-, Investitionsfunktion) ist Auslegung dieses Artikels.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:11",
+   "type": "eunorm",
+   "label": "Art. 11 MarkenRL",
+   "titel": "Recht, Vorbereitungshandlungen im Zusammenhang mit der Benutzung von Aufmachungen oder anderen Kennzeichnungsmitteln zu verbieten",
+   "nummer": "11",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Besteht die Gefahr, dass Aufmachungen, Verpackungen, Etiketten, Anhänger, Sicherheits- oder Echtheitshinweise, auf denen die Marke angebracht ist, für Waren benutzt werden und dies eine Verletzung wäre, kann der Inhaber verbieten: (a) das Anbringen der Marke auf solchen Kennzeichnungsmitteln, (b) das Anbieten, Inverkehrbringen, Besitzen, Ein- oder Ausführen solcher Kennzeichnungsmittel."
+    }
+   ],
+   "hinweis": "Vorverlagerung des Schutzes gegen Produktpiraterie; § 14 Abs. 4 MarkenG wurde um Sicherheits- und Echtheitshinweise erweitert.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:12",
+   "type": "eunorm",
+   "label": "Art. 12 MarkenRL",
+   "titel": "Wiedergabe von Marken in Wörterbüchern",
+   "nummer": "12",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Erweckt die Wiedergabe einer Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck, es handle sich um eine Gattungsbezeichnung, muss der Verleger auf Verlangen des Inhabers unverzüglich, bei Druckwerken spätestens in der nächsten Auflage, kenntlich machen, dass es sich um eine eingetragene Marke handelt."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:13",
+   "type": "eunorm",
+   "label": "Art. 13 MarkenRL",
+   "titel": "Untersagung der Benutzung einer Marke, die für einen Agenten oder Vertreter eingetragen ist",
+   "nummer": "13",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Wurde eine Marke ohne Zustimmung des Inhabers auf den Namen seines Agenten oder Vertreters eingetragen, kann der Inhaber der Benutzung widersprechen, es sei denn, der Agent rechtfertigt seine Handlung; außerdem kann er die Übertragung der Eintragung auf sich verlangen."
+    },
+    {
+     "nr": "2",
+     "text": "Das Recht besteht nur, wenn der Agent oder Vertreter die Handlung nicht rechtfertigen kann."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:14",
+   "type": "eunorm",
+   "label": "Art. 14 MarkenRL",
+   "titel": "Beschränkung der Wirkungen der Marke",
+   "nummer": "14",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Marke gewährt nicht das Recht, Dritten zu verbieten, im geschäftlichen Verkehr zu benutzen: (a) den Namen oder die Anschrift des Dritten, wenn dieser eine natürliche Person ist; (b) Zeichen ohne Unterscheidungskraft oder Angaben über Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung oder andere Merkmale; (c) die Marke zu Zwecken der Identifizierung oder zum Verweis auf Waren des Inhabers, insbesondere wenn dies als Hinweis auf die Bestimmung einer Ware als Zubehör oder Ersatzteil notwendig ist."
+    },
+    {
+     "nr": "2",
+     "text": "Abs. 1 gilt nur, wenn die Benutzung den anständigen Gepflogenheiten in Gewerbe oder Handel entspricht."
+    },
+    {
+     "nr": "3",
+     "text": "Die Marke gewährt nicht das Recht, einem Dritten die Benutzung eines älteren Rechts von örtlicher Bedeutung zu verbieten, wenn dieses Recht nach dem Recht des Mitgliedstaats anerkannt ist, in den Grenzen des Gebiets, in dem es anerkannt ist."
+    }
+   ],
+   "hinweis": "Neu: Die Namensschranke gilt nur noch für natürliche Personen (§ 23 Abs. 1 Nr. 1 MarkenG); die referierende Benutzung („zu Zwecken der Identifizierung oder des Verweises“) ist ausdrücklich privilegiert.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:15",
+   "type": "eunorm",
+   "label": "Art. 15 MarkenRL",
+   "titel": "Erschöpfung des Rechts aus der Marke",
+   "nummer": "15",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Marke gewährt nicht das Recht, die Benutzung für Waren zu verbieten, die unter dieser Marke vom Inhaber oder mit seiner Zustimmung in der Union in den Verkehr gebracht worden sind."
+    },
+    {
+     "nr": "2",
+     "text": "Abs. 1 gilt nicht, wenn berechtigte Gründe es rechtfertigen, dass der Inhaber sich dem weiteren Vertrieb widersetzt, insbesondere wenn der Zustand der Waren nach dem Inverkehrbringen verändert oder verschlechtert ist."
+    }
+   ],
+   "hinweis": "Unionsweite (EWR-weite) Erschöpfung; keine internationale Erschöpfung (EuGH Silhouette). Die Beweislastregeln (Van Doren) und die BMS-Kriterien konkretisieren Abs. 1 und 2.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:16",
+   "type": "eunorm",
+   "label": "Art. 16 MarkenRL",
+   "titel": "Benutzung der Marke",
+   "nummer": "16",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Hat der Inhaber die Marke binnen fünf Jahren nach Abschluss des Eintragungsverfahrens nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt oder die Benutzung fünf Jahre ausgesetzt, unterliegt die Marke den Beschränkungen und Sanktionen der Art. 17, 19 Abs. 1, 44 Abs. 1 und 2 sowie 46 Abs. 3 und 4, sofern keine berechtigten Gründe vorliegen."
+    },
+    {
+     "nr": "2",
+     "text": "Sieht ein Mitgliedstaat ein Widerspruchsverfahren nach der Eintragung vor, beginnt die Fünfjahresfrist mit dem Tag, ab dem kein Widerspruch mehr möglich ist oder das Widerspruchsverfahren abgeschlossen ist."
+    },
+    {
+     "nr": "3",
+     "text": "Bei international registrierten Marken mit Wirkung im Mitgliedstaat beginnt die Frist mit dem Tag, ab dem die Marke nicht mehr zurückgewiesen oder ihr nicht mehr widersprochen werden kann, bzw. mit Abschluss des Verfahrens."
+    },
+    {
+     "nr": "4",
+     "text": "Der Tag des Fristbeginns wird im Register vermerkt."
+    },
+    {
+     "nr": "5",
+     "text": "Als Benutzung gilt auch (a) die Benutzung in einer nur in unwesentlichen Bestandteilen abweichenden Form, die den kennzeichnenden Charakter nicht verändert, unabhängig davon, ob die abweichende Form ebenfalls eingetragen ist, und (b) das Anbringen der Marke auf Waren oder Verpackungen ausschließlich für den Export."
+    },
+    {
+     "nr": "6",
+     "text": "Die Benutzung mit Zustimmung des Inhabers gilt als Benutzung durch den Inhaber."
+    }
+   ],
+   "hinweis": "Die Schonfrist beginnt jetzt mit dem Abschluss des Widerspruchsverfahrens (§ 26 Abs. 5 MarkenG neu); Benutzung in abweichender Form ist auch dann rechtserhaltend, wenn die abweichende Form selbst eingetragen ist (§ 26 Abs. 3 S. 2).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:17",
+   "type": "eunorm",
+   "label": "Art. 17 MarkenRL",
+   "titel": "Einrede der Nichtbenutzung in Verletzungsverfahren",
+   "nummer": "17",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Der Inhaber kann die Benutzung eines Zeichens nur verbieten, soweit seine Rechte zum Zeitpunkt der Klageerhebung nicht nach Art. 19 für verfallen erklärt werden könnten; auf Verlangen des Beklagten muss der Inhaber nachweisen, dass die Marke in den fünf Jahren vor Klageerhebung ernsthaft benutzt wurde oder berechtigte Gründe vorliegen, sofern die Schonfrist bei Klageerhebung abgelaufen war."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:18",
+   "type": "eunorm",
+   "label": "Art. 18 MarkenRL",
+   "titel": "Zwischenrecht des Inhabers einer später eingetragenen Marke als Einwand in Verletzungsverfahren",
+   "nummer": "18",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 3 – Rechte aus der Marke und Beschränkungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Inhaber kann die Benutzung einer später eingetragenen Marke nicht verbieten, wenn diese jüngere Marke nach Art. 8, Art. 9 Abs. 1 oder 2 oder Art. 46 Abs. 3 nicht für ungültig erklärt werden könnte."
+    },
+    {
+     "nr": "2",
+     "text": "Ebenso nicht, wenn die jüngere Unionsmarke nach Art. 53 Abs. 1, 3 oder 4, Art. 54 Abs. 1 oder 2 oder Art. 57 Abs. 2 UMV nicht für nichtig erklärt werden könnte."
+    },
+    {
+     "nr": "3",
+     "text": "Kann der Inhaber der älteren Marke die Benutzung der jüngeren Marke danach nicht verbieten, kann auch deren Inhaber die Benutzung der älteren Marke nicht verbieten, obwohl diese nicht mehr gegen die jüngere geltend gemacht werden kann."
+    }
+   ],
+   "hinweis": "Übernahme des unionsmarkenrechtlichen Zwischenrechts (Art. 16 UMV) in das nationale Recht; § 22 MarkenG wurde neu gefasst.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:19",
+   "type": "eunorm",
+   "label": "Art. 19 MarkenRL",
+   "titel": "Nichtbenutzung als Verfallsgrund",
+   "nummer": "19",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 4 – Verfall",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Eine Marke wird für verfallen erklärt, wenn sie innerhalb von fünf aufeinanderfolgenden Jahren nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt wurde und keine berechtigten Gründe vorliegen."
+    },
+    {
+     "nr": "2",
+     "text": "Der Verfall kann nicht geltend gemacht werden, wenn die Benutzung zwischen Ablauf der fünf Jahre und Antragstellung ernsthaft begonnen oder wieder aufgenommen wurde."
+    },
+    {
+     "nr": "3",
+     "text": "Eine Aufnahme oder Wiederaufnahme innerhalb von drei Monaten vor Antragstellung, frühestens nach Ablauf der fünf Jahre, bleibt unberücksichtigt, wenn die Vorbereitungen erst begannen, nachdem der Inhaber vom möglichen Antrag Kenntnis erlangt hatte."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:20",
+   "type": "eunorm",
+   "label": "Art. 20 MarkenRL",
+   "titel": "Entwicklung zu einer gebräuchlichen Bezeichnung oder irreführende Angabe als Verfallsgrund",
+   "nummer": "20",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 4 – Verfall",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Eine Marke wird für verfallen erklärt, wenn sie nach der Eintragung (a) infolge des Verhaltens oder der Untätigkeit des Inhabers zur gebräuchlichen Bezeichnung einer Ware oder Dienstleistung geworden ist, für die sie eingetragen ist, oder (b) infolge ihrer Benutzung durch den Inhaber oder mit seiner Zustimmung geeignet ist, das Publikum insbesondere über Art, Beschaffenheit oder geographische Herkunft irrezuführen."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:21",
+   "type": "eunorm",
+   "label": "Art. 21 MarkenRL",
+   "titel": "Verfall nur für einen Teil der Waren oder Dienstleistungen",
+   "nummer": "21",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 4 – Verfall",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Liegt ein Verfallsgrund nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil für verfallen erklärt."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:22",
+   "type": "eunorm",
+   "label": "Art. 22 MarkenRL",
+   "titel": "Rechtsübergang eingetragener Marken",
+   "nummer": "22",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 5 – Marken als Gegenstand des Vermögens",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Marke kann unabhängig vom Unternehmen für alle oder einen Teil der Waren übertragen werden."
+    },
+    {
+     "nr": "2",
+     "text": "Der Übergang des gesamten Unternehmens erfasst die Marke, sofern nichts anderes vereinbart ist oder sich aus den Umständen ergibt."
+    },
+    {
+     "nr": "3",
+     "text": "Die Mitgliedstaaten sehen Verfahren zur Eintragung des Rechtsübergangs im Register vor."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:23",
+   "type": "eunorm",
+   "label": "Art. 23 MarkenRL",
+   "titel": "Dingliche Rechte",
+   "nummer": "23",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 5 – Marken als Gegenstand des Vermögens",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Marke kann unabhängig vom Unternehmen verpfändet oder Gegenstand eines sonstigen dinglichen Rechts sein."
+    },
+    {
+     "nr": "2",
+     "text": "Die Mitgliedstaaten sehen Verfahren zur Eintragung dinglicher Rechte im Register vor."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:24",
+   "type": "eunorm",
+   "label": "Art. 24 MarkenRL",
+   "titel": "Zwangsvollstreckung",
+   "nummer": "24",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 5 – Marken als Gegenstand des Vermögens",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Marke kann Gegenstand von Maßnahmen der Zwangsvollstreckung sein."
+    },
+    {
+     "nr": "2",
+     "text": "Die Mitgliedstaaten sehen Verfahren zur Eintragung der Zwangsvollstreckung im Register vor."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:25",
+   "type": "eunorm",
+   "label": "Art. 25 MarkenRL",
+   "titel": "Lizenz",
+   "nummer": "25",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 5 – Marken als Gegenstand des Vermögens",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Marke kann für alle oder einen Teil der Waren und für das gesamte Gebiet oder einen Teil des Mitgliedstaats Gegenstand ausschließlicher oder nicht ausschließlicher Lizenzen sein."
+    },
+    {
+     "nr": "2",
+     "text": "Der Inhaber kann die Marke gegen einen Lizenznehmer geltend machen, der gegen Bestimmungen des Lizenzvertrags über Dauer, Form der Benutzung, Art der Waren, Gebiet oder Qualität verstößt."
+    },
+    {
+     "nr": "3",
+     "text": "Der Lizenznehmer kann Verletzungsklage nur mit Zustimmung des Inhabers erheben; der ausschließliche Lizenznehmer auch ohne Zustimmung, wenn der Inhaber nach förmlicher Aufforderung nicht innerhalb angemessener Frist selbst klagt."
+    },
+    {
+     "nr": "4",
+     "text": "Jeder Lizenznehmer kann einer Verletzungsklage des Inhabers beitreten, um eigenen Schaden geltend zu machen."
+    },
+    {
+     "nr": "5",
+     "text": "Die Mitgliedstaaten sehen Verfahren zur Eintragung von Lizenzen im Register vor."
+    }
+   ],
+   "hinweis": "Abs. 2 ist der unionsrechtliche Hintergrund des § 30 Abs. 2 MarkenG: Ein Lizenzverstoß in diesen Punkten schließt die Zustimmung und damit die Erschöpfung aus (EuGH Copad, BGH Converse II).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:26",
+   "type": "eunorm",
+   "label": "Art. 26 MarkenRL",
+   "titel": "Anmeldung einer Marke als Gegenstand des Vermögens",
+   "nummer": "26",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 5 – Marken als Gegenstand des Vermögens",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Art. 22 bis 25 gelten auch für Markenanmeldungen."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:27",
+   "type": "eunorm",
+   "label": "Art. 27 MarkenRL",
+   "titel": "Begriffsbestimmungen",
+   "nummer": "27",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "a",
+     "text": "„Garantie- oder Gewährleistungsmarke“: Marke, die geeignet ist, Waren oder Dienstleistungen, für die der Inhaber Material, Herstellungsart, Qualität, Genauigkeit oder andere Eigenschaften gewährleistet, von nicht gewährleisteten zu unterscheiden."
+    },
+    {
+     "nr": "b",
+     "text": "„Kollektivmarke“: Marke, die geeignet ist, Waren oder Dienstleistungen der Mitglieder eines Verbands von denen anderer Unternehmen zu unterscheiden."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:28",
+   "type": "eunorm",
+   "label": "Art. 28 MarkenRL",
+   "titel": "Garantie- oder Gewährleistungsmarken",
+   "nummer": "28",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Mitgliedstaaten können die Eintragung von Garantie- oder Gewährleistungsmarken vorsehen."
+    },
+    {
+     "nr": "2",
+     "text": "Anmelden kann jede natürliche oder juristische Person einschließlich Einrichtungen des öffentlichen Rechts, sofern sie keine Waren der gewährleisteten Art selbst anbietet."
+    },
+    {
+     "nr": "3",
+     "text": "Abweichend von Art. 4 Abs. 1 lit. c können beschreibende Herkunftsangaben Gewährleistungsmarken sein; der Inhaber kann Dritten die redliche Benutzung solcher Angaben nicht verbieten."
+    },
+    {
+     "nr": "4",
+     "text": "Die Mitgliedstaaten können zusätzliche Verfalls- und Ungültigkeitsgründe vorsehen."
+    },
+    {
+     "nr": "5",
+     "text": "Die Benutzung durch eine berechtigte Person gilt als rechtserhaltend."
+    }
+   ],
+   "hinweis": "Deutschland hat die Option genutzt: Gewährleistungsmarke seit dem MaMoG in §§ 106a ff. MarkenG (Prüf- und Gütesiegel).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:29",
+   "type": "eunorm",
+   "label": "Art. 29 MarkenRL",
+   "titel": "Kollektivmarken",
+   "nummer": "29",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Mitgliedstaaten sehen die Eintragung von Kollektivmarken vor."
+    },
+    {
+     "nr": "2",
+     "text": "Anmelden können Verbände von Herstellern, Erzeugern, Dienstleistern oder Händlern mit Rechtsfähigkeit sowie juristische Personen des öffentlichen Rechts."
+    },
+    {
+     "nr": "3",
+     "text": "Abweichend von Art. 4 Abs. 1 lit. c können geographische Herkunftsangaben Kollektivmarken sein; der Inhaber kann Dritten die redliche Benutzung, insbesondere durch ortsansässige Berechtigte, nicht verbieten."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:30",
+   "type": "eunorm",
+   "label": "Art. 30 MarkenRL",
+   "titel": "Satzung der Kollektivmarke",
+   "nummer": "30",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Anmelder legt dem Amt die Markensatzung vor."
+    },
+    {
+     "nr": "2",
+     "text": "Die Satzung nennt die zur Benutzung befugten Personen, die Voraussetzungen der Mitgliedschaft und der Benutzung sowie Sanktionen; bei geographischen Angaben muss jeder Ortsansässige, der die Voraussetzungen erfüllt, Mitglied werden können."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:31",
+   "type": "eunorm",
+   "label": "Art. 31 MarkenRL",
+   "titel": "Zurückweisung der Anmeldung",
+   "nummer": "31",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Neben den Gründen der Art. 4 und 5 wird die Anmeldung zurückgewiesen, wenn Art. 27 lit. b, 29 oder 30 nicht erfüllt sind oder die Satzung gegen die öffentliche Ordnung oder die guten Sitten verstößt."
+    },
+    {
+     "nr": "2",
+     "text": "Zurückweisung auch, wenn das Publikum über Charakter oder Bedeutung der Marke irregeführt werden kann, insbesondere wenn sie nicht als Kollektivmarke erscheint."
+    },
+    {
+     "nr": "3",
+     "text": "Die Anmeldung wird nicht zurückgewiesen, wenn der Anmelder die Satzung so ändert, dass die Voraussetzungen erfüllt sind."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:32",
+   "type": "eunorm",
+   "label": "Art. 32 MarkenRL",
+   "titel": "Benutzung von Kollektivmarken",
+   "nummer": "32",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Art. 16 ist erfüllt, wenn eine zur Benutzung befugte Person die Kollektivmarke ernsthaft benutzt."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:33",
+   "type": "eunorm",
+   "label": "Art. 33 MarkenRL",
+   "titel": "Änderung der Satzung der Kollektivmarke",
+   "nummer": "33",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Inhaber legt jede geänderte Satzung dem Amt vor."
+    },
+    {
+     "nr": "2",
+     "text": "Die Änderung wird im Register vermerkt, sofern sie den Anforderungen des Art. 30 entspricht und keinen Zurückweisungsgrund nach Art. 31 begründet."
+    },
+    {
+     "nr": "3",
+     "text": "Die Änderung wird erst mit dem Registervermerk wirksam."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:34",
+   "type": "eunorm",
+   "label": "Art. 34 MarkenRL",
+   "titel": "Klagebefugnis",
+   "nummer": "34",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Art. 25 Abs. 3 und 4 gelten für zur Benutzung Befugte entsprechend."
+    },
+    {
+     "nr": "2",
+     "text": "Der Inhaber kann im Namen der Benutzungsberechtigten Ersatz des Schadens verlangen, der diesen durch unberechtigte Benutzung entstanden ist."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:35",
+   "type": "eunorm",
+   "label": "Art. 35 MarkenRL",
+   "titel": "Zusätzliche Verfallsgründe",
+   "nummer": "35",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Zusätzlich zu Art. 19 und 20 wird die Kollektivmarke für verfallen erklärt, wenn (a) der Inhaber keine angemessenen Maßnahmen gegen satzungswidrige Benutzung trifft, (b) die Benutzung durch Befugte das Publikum nach Art. 31 Abs. 2 irreführen kann, oder (c) eine Satzungsänderung entgegen Art. 33 Abs. 2 im Register vermerkt wurde, es sei denn, der Inhaber erfüllt die Anforderungen durch erneute Änderung."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:36",
+   "type": "eunorm",
+   "label": "Art. 36 MarkenRL",
+   "titel": "Zusätzliche Ungültigkeitsgründe",
+   "nummer": "36",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 2 – Materielles Markenrecht",
+   "abschnitt": "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Zusätzlich zu Art. 4 und 5 wird eine entgegen Art. 31 eingetragene Kollektivmarke für ungültig erklärt, es sei denn, der Inhaber erfüllt die Anforderungen durch Satzungsänderung."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:37",
+   "type": "eunorm",
+   "label": "Art. 37 MarkenRL",
+   "titel": "Anmeldeerfordernisse",
+   "nummer": "37",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 1 – Anmeldung und Eintragung",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Anmeldung enthält mindestens: (a) einen Antrag auf Eintragung, (b) Angaben zur Identität des Anmelders, (c) das Verzeichnis der Waren und Dienstleistungen, (d) eine Wiedergabe der Marke nach Art. 3 lit. b."
+    },
+    {
+     "nr": "2",
+     "text": "Die Anmeldung unterliegt einer Gebühr."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:38",
+   "type": "eunorm",
+   "label": "Art. 38 MarkenRL",
+   "titel": "Anmeldetag",
+   "nummer": "38",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 1 – Anmeldung und Eintragung",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Anmeldetag ist der Tag, an dem die Unterlagen nach Art. 37 Abs. 1 beim Amt eingereicht werden."
+    },
+    {
+     "nr": "2",
+     "text": "Die Mitgliedstaaten können die Zuerkennung des Anmeldetags zusätzlich von der Zahlung der Gebühr abhängig machen."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:39",
+   "type": "eunorm",
+   "label": "Art. 39 MarkenRL",
+   "titel": "Bezeichnung und Klassifizierung von Waren und Dienstleistungen",
+   "nummer": "39",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 1 – Anmeldung und Eintragung",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Waren und Dienstleistungen werden nach der Nizza-Klassifikation klassifiziert."
+    },
+    {
+     "nr": "2",
+     "text": "Sie sind so klar und eindeutig anzugeben, dass Behörden und Wirtschaftsteilnehmer den Schutzumfang bestimmen können."
+    },
+    {
+     "nr": "3",
+     "text": "Zulässig sind die allgemeinen Begriffe der Klassenüberschriften, sofern sie hinreichend klar sind."
+    },
+    {
+     "nr": "4",
+     "text": "Zu unklare Angaben weist das Amt zurück, wenn der Anmelder nicht binnen Frist nachbessert."
+    },
+    {
+     "nr": "5",
+     "text": "Allgemeine Begriffe, einschließlich der Klassenüberschriften, umfassen nur die Waren und Dienstleistungen, die eindeutig von ihrer wörtlichen Bedeutung erfasst sind (Klarstellung nach EuGH IP Translator)."
+    },
+    {
+     "nr": "6",
+     "text": "Bei Klassenüberschriften wird nicht vermutet, dass alle Waren der Klasse beansprucht sind."
+    },
+    {
+     "nr": "7",
+     "text": "Waren gelten nicht schon deshalb als ähnlich, weil sie derselben Klasse angehören, und nicht als unähnlich, weil sie verschiedenen Klassen angehören."
+    }
+   ],
+   "hinweis": "Abs. 7 entspricht § 9 Abs. 3 MarkenG; Abs. 5 kodifiziert die IP-Translator-Rechtsprechung (EuGH C-307/10).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:40",
+   "type": "eunorm",
+   "label": "Art. 40 MarkenRL",
+   "titel": "Bemerkungen Dritter",
+   "nummer": "40",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 1 – Anmeldung und Eintragung",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Mitgliedstaaten können vorsehen, dass Dritte vor der Eintragung schriftliche Bemerkungen zu absoluten Eintragungshindernissen einreichen, ohne am Verfahren beteiligt zu werden."
+    },
+    {
+     "nr": "2",
+     "text": "Bei Kollektiv- und Gewährleistungsmarken können sich Bemerkungen auch auf Art. 31 beziehen."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:41",
+   "type": "eunorm",
+   "label": "Art. 41 MarkenRL",
+   "titel": "Teilung von Anmeldungen und Eintragungen",
+   "nummer": "41",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 1 – Anmeldung und Eintragung",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Der Anmelder oder Inhaber kann die Anmeldung oder Eintragung in zwei oder mehr Teile teilen."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:42",
+   "type": "eunorm",
+   "label": "Art. 42 MarkenRL",
+   "titel": "Klassengebühren",
+   "nummer": "42",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 1 – Anmeldung und Eintragung",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Mitgliedstaaten können für Anmeldung und Verlängerung eine zusätzliche Gebühr je Klasse jenseits der ersten Klasse vorsehen."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:43",
+   "type": "eunorm",
+   "label": "Art. 43 MarkenRL",
+   "titel": "Widerspruchsverfahren",
+   "nummer": "43",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Mitgliedstaaten sehen ein effizientes und zügiges Verwaltungsverfahren vor, mit dem gegen die Anmeldung auf Grundlage der Gründe des Art. 5 Widerspruch erhoben werden kann."
+    },
+    {
+     "nr": "2",
+     "text": "Widerspruch kann zumindest der Inhaber einer älteren Marke nach Art. 5 Abs. 2 und Abs. 3 lit. a sowie der Berechtigte einer Ursprungsbezeichnung erheben; ein Widerspruch kann auf mehrere ältere Rechte desselben Inhabers gestützt werden und sich gegen einen Teil der Waren richten."
+    },
+    {
+     "nr": "3",
+     "text": "Den Parteien wird auf gemeinsamen Antrag eine Frist von mindestens zwei Monaten für eine gütliche Einigung eingeräumt (Cooling-off)."
+    }
+   ],
+   "hinweis": "Umsetzung: § 42 Abs. 2 (Widerspruchsberechtigte, jetzt auch bekannte Marken ausdrücklich), Abs. 3 (mehrere ältere Rechte), Abs. 4 (Cooling-off von mindestens zwei Monaten).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:44",
+   "type": "eunorm",
+   "label": "Art. 44 MarkenRL",
+   "titel": "Nichtbenutzung als Einrede im Widerspruchsverfahren",
+   "nummer": "44",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "War die Schonfrist der älteren Marke am Anmelde- oder Prioritätstag der jüngeren Marke abgelaufen, muss der Widersprechende auf Verlangen des Anmelders nachweisen, dass die ältere Marke in den fünf Jahren vor diesem Tag ernsthaft benutzt wurde oder berechtigte Gründe vorlagen; sonst wird der Widerspruch zurückgewiesen."
+    },
+    {
+     "nr": "2",
+     "text": "Bei nur teilweiser Benutzung gilt die ältere Marke für die Prüfung nur für die benutzten Waren als eingetragen."
+    },
+    {
+     "nr": "3",
+     "text": "Bei älteren Unionsmarken bestimmt sich die ernsthafte Benutzung nach Art. 15 (jetzt Art. 18) UMV."
+    }
+   ],
+   "hinweis": "Maßgeblicher Fünfjahreszeitraum ist der vor dem Anmelde-/Prioritätstag der jüngeren Marke (§ 43 Abs. 1 S. 1 MarkenG neu).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:45",
+   "type": "eunorm",
+   "label": "Art. 45 MarkenRL",
+   "titel": "Verfahren zur Erklärung des Verfalls oder der Nichtigkeit",
+   "nummer": "45",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Unbeschadet gerichtlicher Verfahren sehen die Mitgliedstaaten ein effizientes und zügiges Verwaltungsverfahren vor den Ämtern für die Erklärung des Verfalls oder der Nichtigkeit vor."
+    },
+    {
+     "nr": "2",
+     "text": "Das Verfahren muss Verfall nach Art. 19 und 20 sowie Nichtigkeit nach Art. 4 und 5 ermöglichen."
+    },
+    {
+     "nr": "3",
+     "text": "Antragsbefugt sind mindestens: (a) bei Verfall und absoluten Ungültigkeitsgründen jede natürliche oder juristische Person sowie Verbände; (b) bei relativen Gründen die Inhaber der älteren Rechte."
+    },
+    {
+     "nr": "4",
+     "text": "Der Antrag kann sich gegen einen Teil der Waren richten."
+    },
+    {
+     "nr": "5",
+     "text": "Er kann auf mehrere ältere Rechte desselben Inhabers gestützt werden."
+    },
+    {
+     "nr": "6",
+     "text": "Bei Nichtigkeit aufgrund einer Unionsmarke gilt für deren Benutzung Art. 15 (jetzt Art. 18) UMV."
+    }
+   ],
+   "hinweis": "Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 UAbs. 2). Deutschland: seit 1.5.2020 vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG), daneben Klage nach § 55 nur noch für Verfall und relative Nichtigkeit.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:46",
+   "type": "eunorm",
+   "label": "Art. 46 MarkenRL",
+   "titel": "Nichtbenutzung als Einrede in Verfahren zur Erklärung der Nichtigkeit",
+   "nummer": "46",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Inhaber der jüngeren Marke kann verlangen, dass der Antragsteller die ernsthafte Benutzung seiner älteren Marke in den fünf Jahren vor Antragstellung nachweist, wenn deren Schonfrist bei Antragstellung abgelaufen war."
+    },
+    {
+     "nr": "2",
+     "text": "War die Schonfrist bereits am Anmelde- oder Prioritätstag der jüngeren Marke abgelaufen, muss zusätzlich die Benutzung in den fünf Jahren vor diesem Tag nachgewiesen werden."
+    },
+    {
+     "nr": "3",
+     "text": "Ohne Nachweis wird der Antrag zurückgewiesen."
+    },
+    {
+     "nr": "4",
+     "text": "Bei teilweiser Benutzung gilt die ältere Marke nur für die benutzten Waren als eingetragen."
+    },
+    {
+     "nr": "5",
+     "text": "Bei älteren Unionsmarken gilt Art. 15 (jetzt Art. 18) UMV."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:47",
+   "type": "eunorm",
+   "label": "Art. 47 MarkenRL",
+   "titel": "Wirkungen des Verfalls und der Nichtigkeit",
+   "nummer": "47",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Bei Verfall gelten die Wirkungen der Marke ab dem Tag der Antragstellung als nicht mehr eingetreten; auf Antrag kann ein früherer Zeitpunkt festgesetzt werden, zu dem der Verfallsgrund eintrat."
+    },
+    {
+     "nr": "2",
+     "text": "Bei Nichtigkeit gelten die Wirkungen der Marke als von Anfang an nicht eingetreten."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:48",
+   "type": "eunorm",
+   "label": "Art. 48 MarkenRL",
+   "titel": "Schutzdauer",
+   "nummer": "48",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 3 – Schutzdauer und Verlängerung",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag."
+    },
+    {
+     "nr": "2",
+     "text": "Sie kann um jeweils zehn Jahre verlängert werden."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:49",
+   "type": "eunorm",
+   "label": "Art. 49 MarkenRL",
+   "titel": "Verlängerung",
+   "nummer": "49",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 3 – Schutzdauer und Verlängerung",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Verlängerung erfolgt auf Antrag des Inhabers oder eines Bevollmächtigten gegen Gebühr; die Mitgliedstaaten können die Gebührenzahlung als Antrag gelten lassen."
+    },
+    {
+     "nr": "2",
+     "text": "Das Amt unterrichtet den Inhaber mindestens sechs Monate vor Ablauf; eine unterbliebene Unterrichtung begründet keine Haftung."
+    },
+    {
+     "nr": "3",
+     "text": "Antrag und Gebühr müssen innerhalb von mindestens sechs Monaten vor Ablauf eingehen; nachträglich innerhalb weiterer sechs Monate gegen Zuschlag."
+    },
+    {
+     "nr": "4",
+     "text": "Die Verlängerung kann auf einen Teil der Waren beschränkt werden."
+    },
+    {
+     "nr": "5",
+     "text": "Sie wird am Tag nach Ablauf der Schutzdauer wirksam und im Register vermerkt."
+    }
+   ],
+   "hinweis": "Schutzdauer und Verlängerungsfristen laufen jetzt ab dem Anmeldetag, nicht mehr ab dem Monatsende (§ 47 MarkenG neu).",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:50",
+   "type": "eunorm",
+   "label": "Art. 50 MarkenRL",
+   "titel": "Kommunikation mit dem Amt",
+   "nummer": "50",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 3 – Verfahren",
+   "abschnitt": "Abschnitt 4 – Kommunikation mit dem Amt",
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Verfahrensbeteiligten oder ihre Vertreter geben eine amtliche Anschrift für die amtliche Kommunikation an; die Mitgliedstaaten können verlangen, dass sie im EWR liegt."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:51",
+   "type": "eunorm",
+   "label": "Art. 51 MarkenRL",
+   "titel": "Zusammenarbeit im Bereich der Eintragung und Verwaltung von Marken",
+   "nummer": "51",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 4 – Verwaltungszusammenarbeit",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Ämter arbeiten untereinander und mit dem EUIPO zusammen, um Verfahren und Instrumente zu harmonisieren und Ergebnisse zu vereinheitlichen."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:52",
+   "type": "eunorm",
+   "label": "Art. 52 MarkenRL",
+   "titel": "Zusammenarbeit in anderen Bereichen",
+   "nummer": "52",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 4 – Verwaltungszusammenarbeit",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Ämter können mit dem EUIPO auch in anderen Tätigkeitsbereichen zusammenarbeiten, etwa bei Sensibilisierung und Bekämpfung von Verletzungen."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:53",
+   "type": "eunorm",
+   "label": "Art. 53 MarkenRL",
+   "titel": "Datenschutz",
+   "nummer": "53",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 5 – Schlussbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Für die Verarbeitung personenbezogener Daten gilt das nationale Datenschutzrecht in Umsetzung der RL 95/46/EG (heute DSGVO)."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:54",
+   "type": "eunorm",
+   "label": "Art. 54 MarkenRL",
+   "titel": "Umsetzung",
+   "nummer": "54",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 5 – Schlussbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Mitgliedstaaten setzen die Art. 3 bis 6, 8 bis 14, 16, 17, 18, 22 bis 39, 41 und 43 bis 50 bis zum 14. Januar 2019 um; Art. 45 bis zum 14. Januar 2023."
+    },
+    {
+     "nr": "2",
+     "text": "Sie teilen der Kommission den Wortlaut der Umsetzungsvorschriften mit."
+    }
+   ],
+   "hinweis": "Deutschland: Markenrechtsmodernisierungsgesetz (MaMoG) vom 11.12.2018, BGBl. I S. 2357, in Kraft seit 14.1.2019; Verfalls-/Nichtigkeitsverfahren vor dem DPMA seit 1.5.2020.",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:55",
+   "type": "eunorm",
+   "label": "Art. 55 MarkenRL",
+   "titel": "Aufhebung",
+   "nummer": "55",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 5 – Schlussbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Richtlinie 2008/95/EG wird mit Wirkung vom 15. Januar 2019 aufgehoben; Verweise gelten als Verweise auf diese Richtlinie (Entsprechungstabelle in Anhang)."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:56",
+   "type": "eunorm",
+   "label": "Art. 56 MarkenRL",
+   "titel": "Inkrafttreten",
+   "nummer": "56",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 5 – Schlussbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt in Kraft; Art. 1, 7, 15, 19, 20, 21 und 54 bis 57 gelten ab dem 15. Januar 2019."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:57",
+   "type": "eunorm",
+   "label": "Art. 57 MarkenRL",
+   "titel": "Adressaten",
+   "nummer": "57",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Kapitel 5 – Schlussbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "None",
+     "text": "Die Richtlinie ist an die Mitgliedstaaten gerichtet."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
+   "id": "eunorm:markenrl:erwaegungsgruende",
+   "type": "eunorm",
+   "label": "Erwägungsgründe MarkenRL",
+   "titel": "Erwägungsgründe (Auswahl)",
+   "nummer": "0",
+   "gesetz": "Richtlinie (EU) 2015/2436",
+   "kapitel": "Präambel",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1-3",
+     "text": "Neufassung der RL 2008/95/EG; Ziel ist die weitere Angleichung des nationalen Markenrechts an das Unionsmarkensystem, weil verbleibende Unterschiede Hindernisse für den freien Warenverkehr und Wettbewerbsverzerrungen begründen."
+    },
+    {
+     "nr": "5-9",
+     "text": "Koexistenz und Ausgleich der nationalen Marken und der Unionsmarke; nationale Marken bleiben für Unternehmen wichtig, die keinen unionsweiten Schutz wollen. Die Harmonisierung erfasst nun auch Verfahrensregeln, nicht nur das materielle Recht."
+    },
+    {
+     "nr": "13",
+     "text": "Aufgabe der graphischen Darstellbarkeit: Die Darstellung muss klar, eindeutig, in sich abgeschlossen, leicht zugänglich, verständlich, dauerhaft und objektiv sein (Sieckmann-Kriterien), kann aber jede geeignete Technologie nutzen."
+    },
+    {
+     "nr": "16",
+     "text": "Der Schutz der eingetragenen Marke dient insbesondere der Gewährleistung der Herkunftsfunktion; bei Doppelidentität ist er absolut, bei Ähnlichkeit ist die Verwechslungsgefahr die spezifische Schutzvoraussetzung."
+    },
+    {
+     "nr": "17-18",
+     "text": "Die Beurteilung der Verwechslungsgefahr hängt von zahlreichen Faktoren ab: Bekanntheit der Marke, gedankliche Verbindung, Grad der Ähnlichkeit von Zeichen und Waren. Eine Verletzung setzt Benutzung zur Unterscheidung von Waren voraus; Benutzung als Handelsname ist erfasst, wenn sie Warenbezug hat."
+    },
+    {
+     "nr": "19-20",
+     "text": "Rechtssicherheit: Die Rechte aus der jüngeren Marke sollen nicht gegenüber älteren Marken bestehen, die im Prioritätszeitpunkt der jüngeren Marke nicht durchsetzbar waren (Zwischenrecht)."
+    },
+    {
+     "nr": "21-22",
+     "text": "Zollrechtliche Durchsetzung: Der Inhaber soll gegen rechtsverletzende Waren im Transit vorgehen können, ohne die legitime Durchfuhr von Generika oder Waren, die im Bestimmungsland nicht verletzen, zu behindern."
+    },
+    {
+     "nr": "25-26",
+     "text": "Vorverlagerung des Schutzes auf Vorbereitungshandlungen (Etiketten, Verpackungen, Echtheitshinweise), um Produktpiraterie effektiver zu bekämpfen."
+    },
+    {
+     "nr": "27",
+     "text": "Die ausschließlichen Rechte sollen redliche Benutzungen nicht verhindern: Nutzung des eigenen Namens natürlicher Personen, beschreibende Angaben, referierende Benutzung (Zubehör, Ersatzteile, vergleichende Werbung), Meinungs- und Kunstfreiheit; Maßstab sind die anständigen Gepflogenheiten."
+    },
+    {
+     "nr": "28",
+     "text": "Unionsweite Erschöpfung: Der Inhaber darf den Weitervertrieb von Waren, die er selbst oder mit seiner Zustimmung in der Union in Verkehr gebracht hat, nicht verbieten, es sei denn, berechtigte Gründe liegen vor."
+    },
+    {
+     "nr": "31-32",
+     "text": "Benutzungszwang: Eingetragene Marken müssen tatsächlich benutzt werden; nicht benutzte Marken sollen für verfallen erklärt werden können und in Widerspruchs- und Nichtigkeitsverfahren nicht durchgreifen. Die Nichtbenutzungseinrede soll auch im Verletzungsprozess möglich sein."
+    },
+    {
+     "nr": "35-37",
+     "text": "Kollektiv- und Gewährleistungsmarken: Einführung eines gemeinsamen Rahmens; Gewährleistungsmarken bleiben fakultativ."
+    },
+    {
+     "nr": "38-40",
+     "text": "Verfahrensrechtliche Angleichung: Klassifizierung nach IP Translator, Widerspruchsverfahren, verwaltungsbehördliche Verfalls- und Nichtigkeitsverfahren zur Entlastung der Gerichte."
+    },
+    {
+     "nr": "41-44",
+     "text": "Verwaltungszusammenarbeit der Ämter mit dem EUIPO; Einhaltung der Grundrechte der Charta; Umsetzungspflichten."
+    }
+   ],
+   "hinweis": "",
+   "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436",
+   "url_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32015L2436",
+   "paraphrase": true
+  },
+  {
    "id": "source:markenrecht:markenrecht",
    "type": "source",
    "label": "Markenrecht (Übersicht)",
@@ -7739,6 +9276,78 @@
    "erlaeuterung": "§ 116 Abs. 1: Nichtbenutzungseinrede im Widerspruch aus einer IR-Marke; § 116 Abs. 2: im Nichtigkeitsverfahren aus einer IR-Marke; § 117: Einrede nach § 25 im Verletzungsprozess aus einer IR-Marke. Rechtserhaltend ist die Benutzung im Inland nach § 26 (bei Benennung EU: Art. 18 UMV)."
   },
   {
+   "id": "concept:markenrl",
+   "type": "concept",
+   "label": "Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Richtlinie des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (Neufassung der RL 2008/95/EG). Sie harmonisiert das materielle Markenrecht (Markenformen, Schutzhindernisse, Rechte aus der Marke, Schranken, Benutzungszwang, Verfall) und erstmals wesentliche Verfahrensregeln (Widerspruch, Verfall und Nichtigkeit vor dem Amt, Klassifizierung, Schutzdauer) der nationalen Markensysteme.",
+   "erlaeuterung": "Umsetzung in Deutschland durch das Markenrechtsmodernisierungsgesetz (MaMoG) vom 11.12.2018 mit Wirkung zum 14.1.2019; das Verwaltungsverfahren für Verfall und Nichtigkeit (Art. 45 MarkenRL) gilt seit 1.5.2020. Das MarkenG ist richtlinienkonform auszulegen; Auslegungsfragen legt der BGH dem EuGH vor (Art. 267 AEUV). Die MarkenRL ist parallel zur Unionsmarkenverordnung formuliert, sodass EuGH-Rechtsprechung zur UMV regelmäßig auf das MarkenG übertragbar ist. Nicht harmonisiert: Benutzungsmarken, geschäftliche Bezeichnungen, Rechtsfolgen der Verletzung (dazu Durchsetzungsrichtlinie 2004/48/EG)."
+  },
+  {
+   "id": "concept:richtlinienkonforme_auslegung",
+   "type": "concept",
+   "label": "Richtlinienkonforme Auslegung und Vorlage an den EuGH",
+   "kategorie": "EU- und IR-Marken",
+   "definition": "Nationale Gerichte und das DPMA müssen das MarkenG so auslegen, dass Wortlaut und Zweck der MarkenRL erreicht werden (Art. 288 AEUV). Ist die Auslegung der Richtlinie zweifelhaft, kann jedes Gericht dem EuGH vorlegen; letztinstanzliche Gerichte (BGH) müssen vorlegen (Art. 267 AEUV).",
+   "erlaeuterung": "Praktische Folgen: Begriffe wie Unterscheidungskraft, Verwechslungsgefahr, Bekanntheit, ernsthafte Benutzung oder Erschöpfung sind unionsrechtliche Begriffe mit einheitlicher Bedeutung; Auslegungsspielräume des nationalen Rechts bestehen nur, wo die Richtlinie Optionen einräumt (etwa Art. 4 Abs. 3, Art. 5 Abs. 4 MarkenRL). Beispiel: BGH #darferdas? II nach EuGH C-541/18; BGH OTTO Cap (richtlinienkonforme Auslegung des § 14 Abs. 2 Nr. 3 vor dem MaMoG)."
+  },
+  {
+   "id": "concept:transit",
+   "type": "concept",
+   "label": "Transitverbot (§ 14a MarkenG, Art. 10 Abs. 4 MarkenRL)",
+   "kategorie": "Verletzung",
+   "definition": "Der Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.",
+   "erlaeuterung": "Reaktion auf EuGH Philips/Nokia (C-446/09, C-495/09), wonach bloßer Transit keine Verletzung war. Das Recht erlischt, wenn der Anmelder oder Besitzer der Waren im Verletzungsverfahren nachweist, dass der Markeninhaber im Bestimmungsland die Vermarktung nicht verbieten könnte (§ 14a Abs. 2 MarkenG). Durchsetzung über die Grenzbeschlagnahme (§§ 146 ff. MarkenG, VO (EU) Nr. 608/2013)."
+  },
+  {
+   "id": "concept:vorbereitungshandlungen",
+   "type": "concept",
+   "label": "Verbot von Vorbereitungshandlungen (§ 14 Abs. 4 MarkenG, Art. 11 MarkenRL)",
+   "kategorie": "Verletzung",
+   "definition": "Der Inhaber kann Dritten verbieten, die Marke auf Aufmachungen, Verpackungen, Etiketten, Anhängern oder Sicherheits- und Echtheitshinweisen anzubringen sowie solche Kennzeichnungsmittel anzubieten, in Verkehr zu bringen, zu besitzen oder ein- und auszuführen, wenn die Gefahr besteht, dass sie für eine verletzende Kennzeichnung von Waren benutzt werden.",
+   "erlaeuterung": "Vorverlagerung des Markenschutzes gegen Produktpiraterie: Erfasst wird schon der Handel mit gefälschten Etiketten und Verpackungen, bevor sie mit der Ware verbunden werden. Die Gefahr einer Verletzung ist Tatbestandsmerkmal."
+  },
+  {
+   "id": "concept:agentenmarke",
+   "type": "concept",
+   "label": "Agentenmarke (§§ 11, 17 MarkenG, Art. 13 MarkenRL)",
+   "kategorie": "Schutzvoraussetzungen",
+   "definition": "Meldet ein Agent oder Vertreter des Markeninhabers dessen Marke ohne Zustimmung auf eigenen Namen an, ist die Eintragung löschbar (§ 11, relatives Schutzhindernis) und der Inhaber kann die Übertragung der Marke sowie Unterlassung verlangen (§ 17).",
+   "erlaeuterung": "Umsetzung von Art. 6septies PVÜ und Art. 5 Abs. 3 lit. b, Art. 13 MarkenRL. Agent oder Vertreter ist weit zu verstehen: jede Person, die aufgrund einer Vereinbarung zur Wahrnehmung der Interessen des Inhabers verpflichtet ist (Vertriebshändler, Lizenznehmer). Rechtfertigung ist möglich, etwa bei Zustimmung oder Aufgabe der Marke durch den Inhaber."
+  },
+  {
+   "id": "concept:nachschlagewerke",
+   "type": "concept",
+   "label": "Wiedergabe in Nachschlagewerken (§ 16 MarkenG, Art. 12 MarkenRL)",
+   "kategorie": "Rechtsfolgen",
+   "definition": "Erweckt die Wiedergabe einer eingetragenen Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck einer Gattungsbezeichnung, kann der Inhaber vom Verleger verlangen, dass spätestens bei der nächsten Auflage ein Hinweis auf die Eintragung als Marke aufgenommen wird.",
+   "erlaeuterung": "Schutz vor der Degeneration zur Gattungsbezeichnung (§ 49 Abs. 2 Nr. 1); der Anspruch ist eine Obliegenheit des Inhabers, der aktiv gegen generische Verwendung vorgehen muss (vgl. BGH TÜV II)."
+  },
+  {
+   "id": "concept:klassifizierung",
+   "type": "concept",
+   "label": "Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation (§ 32 MarkenG, Art. 39 MarkenRL)",
+   "kategorie": "Verfahren",
+   "definition": "Die Waren und Dienstleistungen sind nach der Nizza-Klassifikation so klar und eindeutig anzugeben, dass Behörden und Wirtschaftsteilnehmer den Schutzumfang bestimmen können. Allgemeine Begriffe und Klassenüberschriften umfassen nur, was von ihrer wörtlichen Bedeutung eindeutig erfasst ist (EuGH IP Translator, C-307/10; Art. 39 Abs. 5 MarkenRL).",
+   "erlaeuterung": "Die Klasse allein sagt nichts über Warenähnlichkeit (§ 9 Abs. 3 MarkenG, Art. 39 Abs. 7 MarkenRL). Das Verzeichnis bestimmt die Registerlage, die bei Verwechslungsgefahr, Benutzungszwang (Teilbenutzung) und Teillöschung maßgeblich ist."
+  },
+  {
+   "id": "concept:verwaltungsverfahren_loeschung",
+   "type": "concept",
+   "label": "Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG, Art. 45 MarkenRL)",
+   "kategorie": "Verfahren",
+   "definition": "Art. 45 MarkenRL verpflichtet die Mitgliedstaaten, ein effizientes und zügiges Verwaltungsverfahren vor dem Markenamt für die Erklärung des Verfalls und der Nichtigkeit vorzusehen. Deutschland hat es seit 1.5.2020 in § 53 MarkenG als vollständiges Verfahren vor dem DPMA ausgestaltet; daneben bleibt die Klage vor dem Landgericht nach § 55 für Verfall und relative Nichtigkeit.",
+   "erlaeuterung": "Ablauf: Antrag mit Begründung und Gebühr; Zustellung an den Inhaber; widerspricht dieser nicht binnen zwei Monaten, wird gelöscht (§ 53 Abs. 5); sonst kontradiktorisches Verfahren mit Entscheidung durch Beschluss, Beschwerde zum BPatG (§ 66). Nichtbenutzungseinrede § 53 Abs. 6 (Art. 46 MarkenRL). Bei parallelen Verfahren Aussetzung möglich (§ 53 Abs. 7, § 148 ZPO)."
+  },
+  {
+   "id": "concept:schutzdauer",
+   "type": "concept",
+   "label": "Schutzdauer und Verlängerung (§ 47 MarkenG, Art. 48, 49 MarkenRL)",
+   "kategorie": "Grundlagen",
+   "definition": "Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag und kann beliebig oft um zehn Jahre verlängert werden. Die Verlängerung erfolgt durch Zahlung der Verlängerungsgebühr innerhalb von sechs Monaten vor Ablauf, nachträglich innerhalb weiterer sechs Monate mit Zuschlag; das DPMA unterrichtet den Inhaber vorab.",
+   "erlaeuterung": "Seit dem MaMoG läuft die Frist tagesgenau ab dem Anmeldetag (früher: Ende des Monats). Die Verlängerung kann auf einen Teil der Waren beschränkt werden. Ohne Verlängerung erlischt die Marke (§ 47 Abs. 6)."
+  },
+  {
    "id": "distinction:d_kennzeichnungskraft_unterscheidungskraft",
    "type": "distinction",
    "label": "Kennzeichnungskraft vs. Unterscheidungskraft",
@@ -8507,6 +10116,154 @@
     ]
    ],
    "merksatz": "Deutsche Marke: MarkenG pur. Unionsmarke: UMV plus Brücke § 125b. IR-Marke: wie deutsche Marke (§ 112), aber eigene Fristen (§ 115 Abs. 2) und Schutzverweigerung statt Löschung."
+  },
+  {
+   "id": "distinction:d_markenrl_umsetzung",
+   "type": "distinction",
+   "label": "Umsetzungstabelle: Markenrechtsrichtlinie (EU) 2015/2436 und MarkenG",
+   "frage": "Welche Vorschrift des MarkenG setzt welchen Artikel der MarkenRL um, und was hat das MaMoG 2019 geändert?",
+   "kriterien": [
+    "Markenformen",
+    "Absolute Schutzhindernisse",
+    "Relative Schutzhindernisse",
+    "Zeitpunkt / Zwischenrecht",
+    "Verwirkung durch Duldung",
+    "Rechte aus der Marke",
+    "Transit",
+    "Vorbereitungshandlungen",
+    "Nachschlagewerke",
+    "Agentenmarke",
+    "Schranken",
+    "Erschöpfung",
+    "Benutzung",
+    "Nichtbenutzungseinrede",
+    "Verfall",
+    "Lizenz",
+    "Kollektiv-/Gewährleistungsmarke",
+    "Anmeldung / Klassifizierung",
+    "Widerspruch",
+    "Verfall/Nichtigkeit vor dem Amt",
+    "Wirkungen",
+    "Schutzdauer"
+   ],
+   "spalten": [
+    "MarkenRL",
+    "MarkenG",
+    "Änderung durch das MaMoG 2019"
+   ],
+   "rows": [
+    [
+     "Art. 3",
+     "§ 3 Abs. 1, § 8 Abs. 1",
+     "Graphische Darstellbarkeit entfällt; neue Markenformen (Klang, Bewegung, Multimedia, Hologramm)"
+    ],
+    [
+     "Art. 4",
+     "§ 3 Abs. 2, § 8 Abs. 2, Abs. 3, § 50",
+     "Formausschluss auch für „andere charakteristische Merkmale“; Bösgläubigkeit Nr. 14; Nr. 9 bis 13 neu"
+    ],
+    [
+     "Art. 5",
+     "§§ 9 bis 13, § 42, § 51, § 125b",
+     "Bekanntheitsschutz im Register zwingend und für alle Waren (§ 9 Abs. 1 Nr. 3)"
+    ],
+    [
+     "Art. 8, 18",
+     "§ 22, § 51 Abs. 3, Abs. 4",
+     "Kennzeichnungskraft und Bekanntheit der älteren Marke werden zum Prioritätstag der jüngeren beurteilt"
+    ],
+    [
+     "Art. 9",
+     "§ 21, § 51 Abs. 2",
+     "Unverändert (bereits RL 2008/95)"
+    ],
+    [
+     "Art. 10",
+     "§ 14 Abs. 1 bis 3, § 15",
+     "Benutzung als Unternehmensbezeichnung ausdrücklich Verletzungshandlung (§ 14 Abs. 3 Nr. 5); vergleichende Werbung (Nr. 7)"
+    ],
+    [
+     "Art. 10 Abs. 4",
+     "§ 14a",
+     "Neu: Verbot der Durchfuhr gefälschter Ware unter zollamtlicher Überwachung"
+    ],
+    [
+     "Art. 11",
+     "§ 14 Abs. 4",
+     "Erweitert um Sicherheits- und Echtheitshinweise"
+    ],
+    [
+     "Art. 12",
+     "§ 16",
+     "Unverändert"
+    ],
+    [
+     "Art. 13",
+     "§ 11, § 17",
+     "Unverändert"
+    ],
+    [
+     "Art. 14",
+     "§ 23",
+     "Namensschranke nur noch für natürliche Personen; referierende Benutzung ausdrücklich"
+    ],
+    [
+     "Art. 15",
+     "§ 24",
+     "Unverändert (unionsweite Erschöpfung)"
+    ],
+    [
+     "Art. 16",
+     "§ 26, §§ 115 bis 117",
+     "Schonfrist beginnt mit Abschluss des Widerspruchsverfahrens (§ 26 Abs. 5); abweichende Form auch bei eigener Eintragung (§ 26 Abs. 3 S. 2)"
+    ],
+    [
+     "Art. 17, 44, 46",
+     "§ 25, § 43 Abs. 1, § 53 Abs. 6",
+     "Fünfjahreszeitraum im Widerspruch bezogen auf den Anmeldetag der jüngeren Marke"
+    ],
+    [
+     "Art. 19 bis 21",
+     "§ 49",
+     "Unverändert"
+    ],
+    [
+     "Art. 25",
+     "§ 30",
+     "Unverändert"
+    ],
+    [
+     "Art. 27 bis 36",
+     "§§ 97 bis 106, §§ 106a bis 106h",
+     "Neu: Gewährleistungsmarke (§§ 106a ff.)"
+    ],
+    [
+     "Art. 37 bis 42",
+     "§§ 32, 33, 40, 46",
+     "Klarheit des Verzeichnisses, Klassengebühren"
+    ],
+    [
+     "Art. 43",
+     "§ 42",
+     "Widerspruch aus mehreren Rechten; Cooling-off (§ 42 Abs. 4)"
+    ],
+    [
+     "Art. 45",
+     "§ 53, § 54",
+     "Neu seit 1.5.2020: vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA; § 55 nur noch für Verfall und relative Nichtigkeit"
+    ],
+    [
+     "Art. 47",
+     "§ 52",
+     "Unverändert (Verfall ex nunc, Nichtigkeit ex tunc)"
+    ],
+    [
+     "Art. 48, 49",
+     "§ 47",
+     "Fristen laufen tagesgenau ab dem Anmeldetag"
+    ]
+   ],
+   "merksatz": "MarkenRL = Bauplan, MarkenG = Gebäude: Bei jeder Norm des MarkenG lohnt der Blick auf den zugehörigen Artikel, weil der EuGH das letzte Wort zur Auslegung hat."
   },
   {
    "id": "schema:schema_markenverletzung",
@@ -9845,6 +11602,93 @@
    "text": "Fünf Jahre ab Ablauf der Schutzverweigerungsfrist (Art. 5 Abs. 2 PMMA) oder ab rechtskräftiger Schutzgewährung – nicht ab dem Tag der internationalen Registrierung.",
    "hinweis": "",
    "order": 5
+  },
+  {
+   "id": "schema:schema_markenrl",
+   "type": "schema",
+   "label": "Unionsrechtlicher Rahmen: Markenrechtsrichtlinie anwenden",
+   "kategorie": "EU- und IR-Marken",
+   "beschreibung": "Wie die MarkenRL (EU) 2015/2436 in der Fallbearbeitung wirkt: Aufbau der Richtlinie, Zuordnung der MarkenG-Normen, richtlinienkonforme Auslegung und EuGH-Vorlage."
+  },
+  {
+   "id": "step:schema_markenrl.1",
+   "type": "step",
+   "label": "1. Anwendungsbereich prüfen",
+   "text": "Erfasst sind eingetragene und angemeldete Marken sowie IR-Marken mit Wirkung im Mitgliedstaat (Art. 1). Nicht harmonisiert: Benutzungsmarken (§ 4 Nr. 2), geschäftliche Bezeichnungen (§ 5), Rechtsfolgen (§§ 14 Abs. 5 ff., 18, 19: Durchsetzungs-RL 2004/48/EG).",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_markenrl.2",
+   "type": "step",
+   "label": "2. Aufbau der Richtlinie kennen",
+   "text": "",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_markenrl.2.1",
+   "type": "step",
+   "label": "Kapitel 2 Abschnitt 1 und 2: Markenformen, Eintragungshindernisse",
+   "text": "Art. 3 (Markenformen), Art. 4 (absolute), Art. 5 (relative Gründe), Art. 6 (Seniorität), Art. 7 (Teilzurückweisung), Art. 8 (Zeitpunkt), Art. 9 (Duldung).",
+   "hinweis": "",
+   "order": 1
+  },
+  {
+   "id": "step:schema_markenrl.2.2",
+   "type": "step",
+   "label": "Kapitel 2 Abschnitt 3: Rechte und Schranken",
+   "text": "Art. 10 (Rechte, Transit), Art. 11 (Vorbereitungshandlungen), Art. 12 (Nachschlagewerke), Art. 13 (Agentenmarke), Art. 14 (Schranken), Art. 15 (Erschöpfung), Art. 16 (Benutzung), Art. 17 (Einrede), Art. 18 (Zwischenrecht).",
+   "hinweis": "",
+   "order": 2
+  },
+  {
+   "id": "step:schema_markenrl.2.3",
+   "type": "step",
+   "label": "Kapitel 2 Abschnitt 4 bis 6: Verfall, Vermögen, Kollektivmarken",
+   "text": "Art. 19 bis 21 (Verfall), Art. 22 bis 26 (Übertragung, Lizenz), Art. 27 bis 36 (Gewährleistungs- und Kollektivmarken).",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_markenrl.2.4",
+   "type": "step",
+   "label": "Kapitel 3: Verfahren",
+   "text": "Art. 37 bis 42 (Anmeldung, Klassifizierung), Art. 43 bis 47 (Widerspruch, Verfall/Nichtigkeit vor dem Amt, Wirkungen), Art. 48, 49 (Schutzdauer).",
+   "hinweis": "",
+   "order": 4
+  },
+  {
+   "id": "step:schema_markenrl.3",
+   "type": "step",
+   "label": "3. Zugehörige MarkenG-Norm zuordnen",
+   "text": "Umsetzungstabelle: Art. 3 → §§ 3, 8 Abs. 1; Art. 4 → § 8 Abs. 2; Art. 5 → §§ 9 ff.; Art. 10 → § 14; Art. 14 → § 23; Art. 15 → § 24; Art. 16 → § 26; Art. 18 → § 22; Art. 19/20 → § 49; Art. 43 → § 42; Art. 45 → § 53; Art. 48/49 → § 47.",
+   "hinweis": "",
+   "order": 3
+  },
+  {
+   "id": "step:schema_markenrl.4",
+   "type": "step",
+   "label": "4. Richtlinienkonform auslegen",
+   "text": "Unionsrechtliche Begriffe (Unterscheidungskraft, Verwechslungsgefahr, Bekanntheit, ernsthafte Benutzung) haben die vom EuGH gegebene Bedeutung; EuGH-Urteile zur UMV sind wegen des Gleichlaufs übertragbar. Nationale Spielräume nur bei Optionen der Richtlinie (Art. 4 Abs. 3, Art. 5 Abs. 4, Art. 28 Abs. 1).",
+   "hinweis": "",
+   "order": 4
+  },
+  {
+   "id": "step:schema_markenrl.5",
+   "type": "step",
+   "label": "5. Bei Zweifeln: Vorlage an den EuGH",
+   "text": "Art. 267 AEUV: Vorlagerecht jedes Gerichts, Vorlagepflicht des BGH als letztinstanzliches Gericht, sofern die Frage nicht bereits geklärt (acte éclairé) oder offenkundig (acte clair) ist. Beispiele: #darferdas? (C-541/18), Thomson Life (C-120/04), Iron & Smith (C-125/14).",
+   "hinweis": "",
+   "order": 5
+  },
+  {
+   "id": "step:schema_markenrl.6",
+   "type": "step",
+   "label": "6. Übergangsrecht beachten",
+   "text": "Umsetzung bis 14.1.2019 (Art. 54), für Art. 45 bis 14.1.2023; MaMoG in Kraft seit 14.1.2019, DPMA-Nichtigkeitsverfahren seit 1.5.2020. Für Altfälle gilt § 158 MarkenG.",
+   "hinweis": "",
+   "order": 6
   },
   {
    "id": "course:k01",
@@ -11206,9 +13050,1667 @@
    "level": 3,
    "frage": "Bleibt die deutsche Schutzerstreckung der IR-Marke davon unberührt?",
    "order": 5
+  },
+  {
+   "id": "course:k11",
+   "type": "course",
+   "label": "Die Markenrechtsrichtlinie (EU) 2015/2436",
+   "untertitel": "Der unionsrechtliche Bauplan des MarkenG",
+   "beschreibung": "Aufbau und Inhalt der Richtlinie, ihre Umsetzung durch das MaMoG 2019, richtlinienkonforme Auslegung und die Neuerungen: Transit, Vorbereitungshandlungen, Namensschranke, Schonfrist, Amtsverfahren.",
+   "order": 11
+  },
+  {
+   "id": "chapter:k11a",
+   "type": "chapter",
+   "label": "Struktur, Harmonisierung, Auslegung",
+   "order": 1
+  },
+  {
+   "id": "unit:k11a-0",
+   "type": "unit",
+   "label": "Warum du die Richtlinie kennen musst",
+   "typ": "intro",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:k11a-1",
+   "type": "unit",
+   "label": "Prüfungsschema: Markenrechtsrichtlinie anwenden",
+   "typ": "schema",
+   "level": 0,
+   "frage": "",
+   "order": 2
+  },
+  {
+   "id": "unit:k11a-2",
+   "type": "unit",
+   "label": "Die Benutzungsmarke und Brüssel",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Verstößt § 4 Nr. 2 MarkenG gegen die Markenrechtsrichtlinie?",
+   "order": 3
+  },
+  {
+   "id": "unit:k11a-3",
+   "type": "unit",
+   "label": "Wer legt die Begriffe aus?",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Der BGH ist unsicher, ob bei der Prüfung der Unterscheidungskraft eines Zeichens auf T-Shirts nur die wahrscheinlichste Verwendungsform zählt. Was muss er tun?",
+   "order": 4
+  },
+  {
+   "id": "unit:k11a-4",
+   "type": "unit",
+   "label": "Ein Urteil zur Unionsmarke für das MarkenG",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Darf das Landgericht die EuGH-Rechtsprechung zur UMV auf das MarkenG übertragen?",
+   "order": 5
+  },
+  {
+   "id": "unit:k11a-5",
+   "type": "unit",
+   "label": "Umsetzungsfristen",
+   "typ": "mc",
+   "level": 1,
+   "frage": "Bis wann mussten die Mitgliedstaaten die MarkenRL umsetzen, und welche Ausnahme gab es?",
+   "order": 6
+  },
+  {
+   "id": "chapter:k11b",
+   "type": "chapter",
+   "label": "Materielles Recht: Art. 3 bis 18",
+   "order": 2
+  },
+  {
+   "id": "unit:k11b-1",
+   "type": "unit",
+   "label": "Die Klangmarke als Audiodatei",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Muss die Anmeldung zurückgewiesen werden, weil eine Audiodatei keine graphische Darstellung ist?",
+   "order": 1
+  },
+  {
+   "id": "unit:k11b-2",
+   "type": "unit",
+   "label": "Der technisch bedingte Farbverlauf",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Greift der Formausschluss, obwohl es sich nicht um eine Form handelt?",
+   "order": 2
+  },
+  {
+   "id": "unit:k11b-3",
+   "type": "unit",
+   "label": "Bösgläubigkeit als Pflichtgrund",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist das mit der Richtlinie vereinbar?",
+   "order": 3
+  },
+  {
+   "id": "unit:k11b-4",
+   "type": "unit",
+   "label": "Der Container im Hamburger Hafen",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann der Markeninhaber gegen die Durchfuhr vorgehen?",
+   "order": 4
+  },
+  {
+   "id": "unit:k11b-5",
+   "type": "unit",
+   "label": "Der Etikettenhändler",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Verletzt der Etikettenhändler die Marke, obwohl er sie auf keiner Ware anbringt?",
+   "order": 5
+  },
+  {
+   "id": "unit:k11b-6",
+   "type": "unit",
+   "label": "Die GmbH mit Familiennamen",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Kann sich die GmbH auf § 23 Abs. 1 Nr. 1 MarkenG (Name) berufen?",
+   "order": 6
+  },
+  {
+   "id": "unit:k11b-7",
+   "type": "unit",
+   "label": "Die Schonfrist nach dem Widerspruch",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Ist die Einrede beachtlich?",
+   "order": 7
+  },
+  {
+   "id": "unit:k11b-8",
+   "type": "unit",
+   "label": "Zwei Marken, beide eingetragen",
+   "typ": "fall",
+   "level": 3,
+   "frage": "Kann Anna Ben die Benutzung seiner eingetragenen Marke verbieten?",
+   "order": 8
+  },
+  {
+   "id": "chapter:k11c",
+   "type": "chapter",
+   "label": "Verfahren und Umsetzung im MaMoG",
+   "order": 3
+  },
+  {
+   "id": "unit:k11c-1",
+   "type": "unit",
+   "label": "Der Klassenkopf",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Eine Marke ist für „Klasse 25: Bekleidungsstücke, Schuhwaren, Kopfbedeckungen“ eingetragen. Welche Waren sind erfasst?",
+   "order": 1
+  },
+  {
+   "id": "unit:k11c-2",
+   "type": "unit",
+   "label": "Cooling-off im Widerspruch",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Muss das DPMA den Parteien Zeit für eine gütliche Einigung einräumen?",
+   "order": 2
+  },
+  {
+   "id": "unit:k11c-3",
+   "type": "unit",
+   "label": "Nichtigkeit ohne Gericht",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Kann er die Nichtigkeit vollständig vor dem DPMA klären lassen?",
+   "order": 3
+  },
+  {
+   "id": "unit:k11c-4",
+   "type": "unit",
+   "label": "Zweimal fünf Jahre",
+   "typ": "mc",
+   "level": 3,
+   "frage": "Im Nichtigkeitsverfahren aus einer älteren Marke war deren Schonfrist sowohl bei Antragstellung als auch schon am Anmeldetag der jüngeren Marke abgelaufen. Welche Benutzung muss der Antragsteller nachweisen?",
+   "order": 4
+  },
+  {
+   "id": "unit:k11c-4b",
+   "type": "unit",
+   "label": "Das Gütesiegel als Marke",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Gibt es dafür eine passende Markenkategorie?",
+   "order": 5
+  },
+  {
+   "id": "unit:k11c-5",
+   "type": "unit",
+   "label": "Was das MaMoG geändert hat",
+   "typ": "mc",
+   "level": 2,
+   "frage": "Welche Aussage über das Markenrechtsmodernisierungsgesetz 2019 ist falsch?",
+   "order": 6
   }
  ],
  "edges": [
+  {
+   "source": "norm:§1",
+   "target": "eunorm:markenrl:1",
+   "relation": "implements",
+   "ref": "§ 1"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "eunorm:markenrl:1",
+   "relation": "defined_in",
+   "ref": "Art. 1 MarkenRL"
+  },
+  {
+   "source": "concept:marke",
+   "target": "eunorm:markenrl:1",
+   "relation": "defined_in",
+   "ref": "Art. 1 MarkenRL"
+  },
+  {
+   "source": "norm:§56",
+   "target": "eunorm:markenrl:2",
+   "relation": "implements",
+   "ref": "§ 56"
+  },
+  {
+   "source": "norm:§41",
+   "target": "eunorm:markenrl:2",
+   "relation": "implements",
+   "ref": "§ 41"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "eunorm:markenrl:2",
+   "relation": "defined_in",
+   "ref": "Art. 2 MarkenRL"
+  },
+  {
+   "source": "norm:§3",
+   "target": "eunorm:markenrl:3",
+   "relation": "implements",
+   "ref": "§ 3 Abs. 1"
+  },
+  {
+   "source": "norm:§8",
+   "target": "eunorm:markenrl:3",
+   "relation": "implements",
+   "ref": "§ 8 Abs. 1"
+  },
+  {
+   "source": "concept:markenfaehigkeit",
+   "target": "eunorm:markenrl:3",
+   "relation": "defined_in",
+   "ref": "Art. 3 MarkenRL"
+  },
+  {
+   "source": "concept:darstellbarkeit",
+   "target": "eunorm:markenrl:3",
+   "relation": "defined_in",
+   "ref": "Art. 3 MarkenRL"
+  },
+  {
+   "source": "concept:farbmarke",
+   "target": "eunorm:markenrl:3",
+   "relation": "defined_in",
+   "ref": "Art. 3 MarkenRL"
+  },
+  {
+   "source": "concept:formmarke",
+   "target": "eunorm:markenrl:3",
+   "relation": "defined_in",
+   "ref": "Art. 3 MarkenRL"
+  },
+  {
+   "source": "case:eugh_libertel",
+   "target": "eunorm:markenrl:3",
+   "relation": "interprets",
+   "ref": "Art. 3 MarkenRL"
+  },
+  {
+   "source": "norm:§3",
+   "target": "eunorm:markenrl:4",
+   "relation": "implements",
+   "ref": "§ 3 Abs. 2"
+  },
+  {
+   "source": "norm:§8",
+   "target": "eunorm:markenrl:4",
+   "relation": "implements",
+   "ref": "§ 8 Abs. 2"
+  },
+  {
+   "source": "norm:§8",
+   "target": "eunorm:markenrl:4",
+   "relation": "implements",
+   "ref": "§ 8 Abs. 3"
+  },
+  {
+   "source": "norm:§50",
+   "target": "eunorm:markenrl:4",
+   "relation": "implements",
+   "ref": "§ 50"
+  },
+  {
+   "source": "concept:absolute_schutzhindernisse",
+   "target": "eunorm:markenrl:4",
+   "relation": "defined_in",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "concept:unterscheidungskraft",
+   "target": "eunorm:markenrl:4",
+   "relation": "defined_in",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "concept:freihaltebeduerfnis",
+   "target": "eunorm:markenrl:4",
+   "relation": "defined_in",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "concept:uebliche_bezeichnung",
+   "target": "eunorm:markenrl:4",
+   "relation": "defined_in",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "concept:formausschluss",
+   "target": "eunorm:markenrl:4",
+   "relation": "defined_in",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "concept:taeuschung",
+   "target": "eunorm:markenrl:4",
+   "relation": "defined_in",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "concept:boesglaeubigkeit",
+   "target": "eunorm:markenrl:4",
+   "relation": "defined_in",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "concept:verkehrsdurchsetzung",
+   "target": "eunorm:markenrl:4",
+   "relation": "defined_in",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "case:eugh_chiemsee",
+   "target": "eunorm:markenrl:4",
+   "relation": "interprets",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "case:eugh_philips_remington",
+   "target": "eunorm:markenrl:4",
+   "relation": "interprets",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "case:bgh_black_friday",
+   "target": "eunorm:markenrl:4",
+   "relation": "interprets",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "case:bgh_ritter_sport",
+   "target": "eunorm:markenrl:4",
+   "relation": "interprets",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "norm:§9",
+   "target": "eunorm:markenrl:5",
+   "relation": "implements",
+   "ref": "§ 9"
+  },
+  {
+   "source": "norm:§10",
+   "target": "eunorm:markenrl:5",
+   "relation": "implements",
+   "ref": "§ 10"
+  },
+  {
+   "source": "norm:§11",
+   "target": "eunorm:markenrl:5",
+   "relation": "implements",
+   "ref": "§ 11"
+  },
+  {
+   "source": "norm:§12",
+   "target": "eunorm:markenrl:5",
+   "relation": "implements",
+   "ref": "§ 12"
+  },
+  {
+   "source": "norm:§13",
+   "target": "eunorm:markenrl:5",
+   "relation": "implements",
+   "ref": "§ 13"
+  },
+  {
+   "source": "norm:§42",
+   "target": "eunorm:markenrl:5",
+   "relation": "implements",
+   "ref": "§ 42"
+  },
+  {
+   "source": "norm:§51",
+   "target": "eunorm:markenrl:5",
+   "relation": "implements",
+   "ref": "§ 51"
+  },
+  {
+   "source": "norm:§125b",
+   "target": "eunorm:markenrl:5",
+   "relation": "implements",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "concept:relative_schutzhindernisse",
+   "target": "eunorm:markenrl:5",
+   "relation": "defined_in",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "concept:verwechslungsgefahr",
+   "target": "eunorm:markenrl:5",
+   "relation": "defined_in",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "concept:doppelidentitaet",
+   "target": "eunorm:markenrl:5",
+   "relation": "defined_in",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "eunorm:markenrl:5",
+   "relation": "defined_in",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "concept:bekanntheit_union",
+   "target": "eunorm:markenrl:5",
+   "relation": "defined_in",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "concept:prioritaet",
+   "target": "eunorm:markenrl:5",
+   "relation": "defined_in",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "case:eugh_sabel_puma",
+   "target": "eunorm:markenrl:5",
+   "relation": "interprets",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "case:eugh_canon",
+   "target": "eunorm:markenrl:5",
+   "relation": "interprets",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "case:eugh_thomson_life",
+   "target": "eunorm:markenrl:5",
+   "relation": "interprets",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "case:bgh_springender_pudel",
+   "target": "eunorm:markenrl:5",
+   "relation": "interprets",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "case:eugh_iron_smith",
+   "target": "eunorm:markenrl:5",
+   "relation": "interprets",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "norm:§125c",
+   "target": "eunorm:markenrl:6",
+   "relation": "implements",
+   "ref": "§ 125c"
+  },
+  {
+   "source": "concept:senioritaet",
+   "target": "eunorm:markenrl:6",
+   "relation": "defined_in",
+   "ref": "Art. 6 MarkenRL"
+  },
+  {
+   "source": "concept:unionsmarke",
+   "target": "eunorm:markenrl:6",
+   "relation": "defined_in",
+   "ref": "Art. 6 MarkenRL"
+  },
+  {
+   "source": "norm:§37",
+   "target": "eunorm:markenrl:7",
+   "relation": "implements",
+   "ref": "§ 37 Abs. 5"
+  },
+  {
+   "source": "norm:§51",
+   "target": "eunorm:markenrl:7",
+   "relation": "implements",
+   "ref": "§ 51 Abs. 5"
+  },
+  {
+   "source": "norm:§50",
+   "target": "eunorm:markenrl:7",
+   "relation": "implements",
+   "ref": "§ 50"
+  },
+  {
+   "source": "concept:absolute_schutzhindernisse",
+   "target": "eunorm:markenrl:7",
+   "relation": "defined_in",
+   "ref": "Art. 7 MarkenRL"
+  },
+  {
+   "source": "concept:nichtigkeit",
+   "target": "eunorm:markenrl:7",
+   "relation": "defined_in",
+   "ref": "Art. 7 MarkenRL"
+  },
+  {
+   "source": "norm:§51",
+   "target": "eunorm:markenrl:8",
+   "relation": "implements",
+   "ref": "§ 51 Abs. 3"
+  },
+  {
+   "source": "norm:§51",
+   "target": "eunorm:markenrl:8",
+   "relation": "implements",
+   "ref": "§ 51 Abs. 4"
+  },
+  {
+   "source": "norm:§22",
+   "target": "eunorm:markenrl:8",
+   "relation": "implements",
+   "ref": "§ 22"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "eunorm:markenrl:8",
+   "relation": "defined_in",
+   "ref": "Art. 8 MarkenRL"
+  },
+  {
+   "source": "concept:relative_schutzhindernis_bekannt",
+   "target": "eunorm:markenrl:8",
+   "relation": "defined_in",
+   "ref": "Art. 8 MarkenRL"
+  },
+  {
+   "source": "concept:kennzeichnungskraft",
+   "target": "eunorm:markenrl:8",
+   "relation": "defined_in",
+   "ref": "Art. 8 MarkenRL"
+  },
+  {
+   "source": "norm:§21",
+   "target": "eunorm:markenrl:9",
+   "relation": "implements",
+   "ref": "§ 21"
+  },
+  {
+   "source": "norm:§51",
+   "target": "eunorm:markenrl:9",
+   "relation": "implements",
+   "ref": "§ 51 Abs. 2"
+  },
+  {
+   "source": "concept:verwirkung",
+   "target": "eunorm:markenrl:9",
+   "relation": "defined_in",
+   "ref": "Art. 9 MarkenRL"
+  },
+  {
+   "source": "case:bgh_hard_rock_cafe",
+   "target": "eunorm:markenrl:9",
+   "relation": "interprets",
+   "ref": "Art. 9 MarkenRL"
+  },
+  {
+   "source": "norm:§14",
+   "target": "eunorm:markenrl:10",
+   "relation": "implements",
+   "ref": "§ 14 Abs. 1"
+  },
+  {
+   "source": "norm:§14",
+   "target": "eunorm:markenrl:10",
+   "relation": "implements",
+   "ref": "§ 14 Abs. 2"
+  },
+  {
+   "source": "norm:§14",
+   "target": "eunorm:markenrl:10",
+   "relation": "implements",
+   "ref": "§ 14 Abs. 3"
+  },
+  {
+   "source": "norm:§14a",
+   "target": "eunorm:markenrl:10",
+   "relation": "implements",
+   "ref": "§ 14a"
+  },
+  {
+   "source": "norm:§15",
+   "target": "eunorm:markenrl:10",
+   "relation": "implements",
+   "ref": "§ 15"
+  },
+  {
+   "source": "concept:doppelidentitaet",
+   "target": "eunorm:markenrl:10",
+   "relation": "defined_in",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "concept:verwechslungsgefahr",
+   "target": "eunorm:markenrl:10",
+   "relation": "defined_in",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "concept:bekannte_marke",
+   "target": "eunorm:markenrl:10",
+   "relation": "defined_in",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "concept:markenmaessige_benutzung",
+   "target": "eunorm:markenrl:10",
+   "relation": "defined_in",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "concept:markenfunktionen",
+   "target": "eunorm:markenrl:10",
+   "relation": "defined_in",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "concept:transit",
+   "target": "eunorm:markenrl:10",
+   "relation": "defined_in",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "concept:firmenmaessiger_gebrauch",
+   "target": "eunorm:markenrl:10",
+   "relation": "defined_in",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "case:eugh_arsenal",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "case:eugh_loreal_bellure",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "case:eugh_google_france",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "case:eugh_celine",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "case:eugh_general_motors",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "case:eugh_intel",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "norm:§14",
+   "target": "eunorm:markenrl:11",
+   "relation": "implements",
+   "ref": "§ 14 Abs. 4"
+  },
+  {
+   "source": "concept:vorbereitungshandlungen",
+   "target": "eunorm:markenrl:11",
+   "relation": "defined_in",
+   "ref": "Art. 11 MarkenRL"
+  },
+  {
+   "source": "norm:§16",
+   "target": "eunorm:markenrl:12",
+   "relation": "implements",
+   "ref": "§ 16"
+  },
+  {
+   "source": "concept:uebliche_bezeichnung",
+   "target": "eunorm:markenrl:12",
+   "relation": "defined_in",
+   "ref": "Art. 12 MarkenRL"
+  },
+  {
+   "source": "concept:nachschlagewerke",
+   "target": "eunorm:markenrl:12",
+   "relation": "defined_in",
+   "ref": "Art. 12 MarkenRL"
+  },
+  {
+   "source": "norm:§11",
+   "target": "eunorm:markenrl:13",
+   "relation": "implements",
+   "ref": "§ 11"
+  },
+  {
+   "source": "norm:§17",
+   "target": "eunorm:markenrl:13",
+   "relation": "implements",
+   "ref": "§ 17"
+  },
+  {
+   "source": "concept:agentenmarke",
+   "target": "eunorm:markenrl:13",
+   "relation": "defined_in",
+   "ref": "Art. 13 MarkenRL"
+  },
+  {
+   "source": "norm:§23",
+   "target": "eunorm:markenrl:14",
+   "relation": "implements",
+   "ref": "§ 23"
+  },
+  {
+   "source": "concept:schranke_23",
+   "target": "eunorm:markenrl:14",
+   "relation": "defined_in",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "concept:ersatzteilhinweis",
+   "target": "eunorm:markenrl:14",
+   "relation": "defined_in",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "concept:gleichnamigkeit",
+   "target": "eunorm:markenrl:14",
+   "relation": "defined_in",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "case:eugh_gillette",
+   "target": "eunorm:markenrl:14",
+   "relation": "interprets",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "case:bgh_kuehlergrill",
+   "target": "eunorm:markenrl:14",
+   "relation": "interprets",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "case:bgh_staubsaugerfiltertueten",
+   "target": "eunorm:markenrl:14",
+   "relation": "interprets",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "norm:§24",
+   "target": "eunorm:markenrl:15",
+   "relation": "implements",
+   "ref": "§ 24"
+  },
+  {
+   "source": "concept:erschoepfung",
+   "target": "eunorm:markenrl:15",
+   "relation": "defined_in",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "concept:berechtigte_gruende",
+   "target": "eunorm:markenrl:15",
+   "relation": "defined_in",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "concept:beweislast_erschoepfung",
+   "target": "eunorm:markenrl:15",
+   "relation": "defined_in",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "concept:umverpackung",
+   "target": "eunorm:markenrl:15",
+   "relation": "defined_in",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "case:eugh_van_doren",
+   "target": "eunorm:markenrl:15",
+   "relation": "interprets",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "case:eugh_bms",
+   "target": "eunorm:markenrl:15",
+   "relation": "interprets",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "case:eugh_dior_evora",
+   "target": "eunorm:markenrl:15",
+   "relation": "interprets",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "norm:§26",
+   "target": "eunorm:markenrl:16",
+   "relation": "implements",
+   "ref": "§ 26"
+  },
+  {
+   "source": "norm:§25",
+   "target": "eunorm:markenrl:16",
+   "relation": "implements",
+   "ref": "§ 25"
+  },
+  {
+   "source": "norm:§115",
+   "target": "eunorm:markenrl:16",
+   "relation": "implements",
+   "ref": "§ 115"
+  },
+  {
+   "source": "norm:§116",
+   "target": "eunorm:markenrl:16",
+   "relation": "implements",
+   "ref": "§ 116"
+  },
+  {
+   "source": "norm:§117",
+   "target": "eunorm:markenrl:16",
+   "relation": "implements",
+   "ref": "§ 117"
+  },
+  {
+   "source": "concept:rechtserhaltende_benutzung",
+   "target": "eunorm:markenrl:16",
+   "relation": "defined_in",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "concept:ernsthafte_benutzung",
+   "target": "eunorm:markenrl:16",
+   "relation": "defined_in",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "concept:abweichende_form",
+   "target": "eunorm:markenrl:16",
+   "relation": "defined_in",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "concept:benutzungsschonfrist",
+   "target": "eunorm:markenrl:16",
+   "relation": "defined_in",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "concept:ir_benutzungsschonfrist",
+   "target": "eunorm:markenrl:16",
+   "relation": "defined_in",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "case:eugh_ansul",
+   "target": "eunorm:markenrl:16",
+   "relation": "interprets",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "case:bgh_voodoo",
+   "target": "eunorm:markenrl:16",
+   "relation": "interprets",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "case:bgh_dorzo",
+   "target": "eunorm:markenrl:16",
+   "relation": "interprets",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "case:bgh_probiotik",
+   "target": "eunorm:markenrl:16",
+   "relation": "interprets",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "norm:§25",
+   "target": "eunorm:markenrl:17",
+   "relation": "implements",
+   "ref": "§ 25"
+  },
+  {
+   "source": "concept:nichtbenutzungseinrede",
+   "target": "eunorm:markenrl:17",
+   "relation": "defined_in",
+   "ref": "Art. 17 MarkenRL"
+  },
+  {
+   "source": "case:bgh_voodoo",
+   "target": "eunorm:markenrl:17",
+   "relation": "interprets",
+   "ref": "Art. 17 MarkenRL"
+  },
+  {
+   "source": "norm:§22",
+   "target": "eunorm:markenrl:18",
+   "relation": "implements",
+   "ref": "§ 22"
+  },
+  {
+   "source": "concept:koexistenz_22",
+   "target": "eunorm:markenrl:18",
+   "relation": "defined_in",
+   "ref": "Art. 18 MarkenRL"
+  },
+  {
+   "source": "norm:§49",
+   "target": "eunorm:markenrl:19",
+   "relation": "implements",
+   "ref": "§ 49 Abs. 1"
+  },
+  {
+   "source": "concept:verfall",
+   "target": "eunorm:markenrl:19",
+   "relation": "defined_in",
+   "ref": "Art. 19 MarkenRL"
+  },
+  {
+   "source": "concept:benutzungsschonfrist",
+   "target": "eunorm:markenrl:19",
+   "relation": "defined_in",
+   "ref": "Art. 19 MarkenRL"
+  },
+  {
+   "source": "concept:ernsthafte_benutzung",
+   "target": "eunorm:markenrl:19",
+   "relation": "defined_in",
+   "ref": "Art. 19 MarkenRL"
+  },
+  {
+   "source": "case:eugh_ansul",
+   "target": "eunorm:markenrl:19",
+   "relation": "interprets",
+   "ref": "Art. 19 MarkenRL"
+  },
+  {
+   "source": "case:bgh_voodoo",
+   "target": "eunorm:markenrl:19",
+   "relation": "interprets",
+   "ref": "Art. 19 MarkenRL"
+  },
+  {
+   "source": "norm:§49",
+   "target": "eunorm:markenrl:20",
+   "relation": "implements",
+   "ref": "§ 49 Abs. 2"
+  },
+  {
+   "source": "concept:uebliche_bezeichnung",
+   "target": "eunorm:markenrl:20",
+   "relation": "defined_in",
+   "ref": "Art. 20 MarkenRL"
+  },
+  {
+   "source": "concept:taeuschung",
+   "target": "eunorm:markenrl:20",
+   "relation": "defined_in",
+   "ref": "Art. 20 MarkenRL"
+  },
+  {
+   "source": "concept:verfall",
+   "target": "eunorm:markenrl:20",
+   "relation": "defined_in",
+   "ref": "Art. 20 MarkenRL"
+  },
+  {
+   "source": "case:bgh_tuev_ii",
+   "target": "eunorm:markenrl:20",
+   "relation": "interprets",
+   "ref": "Art. 20 MarkenRL"
+  },
+  {
+   "source": "norm:§49",
+   "target": "eunorm:markenrl:21",
+   "relation": "implements",
+   "ref": "§ 49 Abs. 3"
+  },
+  {
+   "source": "concept:verfall",
+   "target": "eunorm:markenrl:21",
+   "relation": "defined_in",
+   "ref": "Art. 21 MarkenRL"
+  },
+  {
+   "source": "norm:§27",
+   "target": "eunorm:markenrl:22",
+   "relation": "implements",
+   "ref": "§ 27"
+  },
+  {
+   "source": "concept:lizenz",
+   "target": "eunorm:markenrl:22",
+   "relation": "defined_in",
+   "ref": "Art. 22 MarkenRL"
+  },
+  {
+   "source": "concept:aktivlegitimation",
+   "target": "eunorm:markenrl:22",
+   "relation": "defined_in",
+   "ref": "Art. 22 MarkenRL"
+  },
+  {
+   "source": "norm:§29",
+   "target": "eunorm:markenrl:23",
+   "relation": "implements",
+   "ref": "§ 29"
+  },
+  {
+   "source": "norm:§29",
+   "target": "eunorm:markenrl:24",
+   "relation": "implements",
+   "ref": "§ 29"
+  },
+  {
+   "source": "norm:§30",
+   "target": "eunorm:markenrl:25",
+   "relation": "implements",
+   "ref": "§ 30"
+  },
+  {
+   "source": "concept:lizenz",
+   "target": "eunorm:markenrl:25",
+   "relation": "defined_in",
+   "ref": "Art. 25 MarkenRL"
+  },
+  {
+   "source": "concept:erschoepfung",
+   "target": "eunorm:markenrl:25",
+   "relation": "defined_in",
+   "ref": "Art. 25 MarkenRL"
+  },
+  {
+   "source": "case:bgh_converse_ii",
+   "target": "eunorm:markenrl:25",
+   "relation": "interprets",
+   "ref": "Art. 25 MarkenRL"
+  },
+  {
+   "source": "norm:§31",
+   "target": "eunorm:markenrl:26",
+   "relation": "implements",
+   "ref": "§ 31"
+  },
+  {
+   "source": "norm:§97",
+   "target": "eunorm:markenrl:27",
+   "relation": "implements",
+   "ref": "§ 97"
+  },
+  {
+   "source": "norm:§106a",
+   "target": "eunorm:markenrl:27",
+   "relation": "implements",
+   "ref": "§ 106a"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:27",
+   "relation": "defined_in",
+   "ref": "Art. 27 MarkenRL"
+  },
+  {
+   "source": "norm:§106a",
+   "target": "eunorm:markenrl:28",
+   "relation": "implements",
+   "ref": "§ 106a"
+  },
+  {
+   "source": "norm:§106b",
+   "target": "eunorm:markenrl:28",
+   "relation": "implements",
+   "ref": "§ 106b"
+  },
+  {
+   "source": "norm:§106c",
+   "target": "eunorm:markenrl:28",
+   "relation": "implements",
+   "ref": "§ 106c"
+  },
+  {
+   "source": "norm:§106d",
+   "target": "eunorm:markenrl:28",
+   "relation": "implements",
+   "ref": "§ 106d"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:28",
+   "relation": "defined_in",
+   "ref": "Art. 28 MarkenRL"
+  },
+  {
+   "source": "case:bgh_oeko_test_ii",
+   "target": "eunorm:markenrl:28",
+   "relation": "interprets",
+   "ref": "Art. 28 MarkenRL"
+  },
+  {
+   "source": "norm:§97",
+   "target": "eunorm:markenrl:29",
+   "relation": "implements",
+   "ref": "§ 97"
+  },
+  {
+   "source": "norm:§98",
+   "target": "eunorm:markenrl:29",
+   "relation": "implements",
+   "ref": "§ 98"
+  },
+  {
+   "source": "norm:§99",
+   "target": "eunorm:markenrl:29",
+   "relation": "implements",
+   "ref": "§ 99"
+  },
+  {
+   "source": "norm:§100",
+   "target": "eunorm:markenrl:29",
+   "relation": "implements",
+   "ref": "§ 100"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:29",
+   "relation": "defined_in",
+   "ref": "Art. 29 MarkenRL"
+  },
+  {
+   "source": "concept:geographische_herkunftsangabe",
+   "target": "eunorm:markenrl:29",
+   "relation": "defined_in",
+   "ref": "Art. 29 MarkenRL"
+  },
+  {
+   "source": "norm:§102",
+   "target": "eunorm:markenrl:30",
+   "relation": "implements",
+   "ref": "§ 102"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:30",
+   "relation": "defined_in",
+   "ref": "Art. 30 MarkenRL"
+  },
+  {
+   "source": "norm:§103",
+   "target": "eunorm:markenrl:31",
+   "relation": "implements",
+   "ref": "§ 103"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:31",
+   "relation": "defined_in",
+   "ref": "Art. 31 MarkenRL"
+  },
+  {
+   "source": "norm:§100",
+   "target": "eunorm:markenrl:32",
+   "relation": "implements",
+   "ref": "§ 100 Abs. 2"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:32",
+   "relation": "defined_in",
+   "ref": "Art. 32 MarkenRL"
+  },
+  {
+   "source": "concept:rechtserhaltende_benutzung",
+   "target": "eunorm:markenrl:32",
+   "relation": "defined_in",
+   "ref": "Art. 32 MarkenRL"
+  },
+  {
+   "source": "norm:§104",
+   "target": "eunorm:markenrl:33",
+   "relation": "implements",
+   "ref": "§ 104"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:33",
+   "relation": "defined_in",
+   "ref": "Art. 33 MarkenRL"
+  },
+  {
+   "source": "norm:§101",
+   "target": "eunorm:markenrl:34",
+   "relation": "implements",
+   "ref": "§ 101"
+  },
+  {
+   "source": "norm:§106c",
+   "target": "eunorm:markenrl:34",
+   "relation": "implements",
+   "ref": "§ 106c"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:34",
+   "relation": "defined_in",
+   "ref": "Art. 34 MarkenRL"
+  },
+  {
+   "source": "concept:schadensersatz",
+   "target": "eunorm:markenrl:34",
+   "relation": "defined_in",
+   "ref": "Art. 34 MarkenRL"
+  },
+  {
+   "source": "norm:§105",
+   "target": "eunorm:markenrl:35",
+   "relation": "implements",
+   "ref": "§ 105"
+  },
+  {
+   "source": "norm:§106g",
+   "target": "eunorm:markenrl:35",
+   "relation": "implements",
+   "ref": "§ 106g"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:35",
+   "relation": "defined_in",
+   "ref": "Art. 35 MarkenRL"
+  },
+  {
+   "source": "concept:verfall",
+   "target": "eunorm:markenrl:35",
+   "relation": "defined_in",
+   "ref": "Art. 35 MarkenRL"
+  },
+  {
+   "source": "norm:§106",
+   "target": "eunorm:markenrl:36",
+   "relation": "implements",
+   "ref": "§ 106"
+  },
+  {
+   "source": "norm:§106h",
+   "target": "eunorm:markenrl:36",
+   "relation": "implements",
+   "ref": "§ 106h"
+  },
+  {
+   "source": "concept:kollektivmarke",
+   "target": "eunorm:markenrl:36",
+   "relation": "defined_in",
+   "ref": "Art. 36 MarkenRL"
+  },
+  {
+   "source": "concept:nichtigkeit",
+   "target": "eunorm:markenrl:36",
+   "relation": "defined_in",
+   "ref": "Art. 36 MarkenRL"
+  },
+  {
+   "source": "norm:§32",
+   "target": "eunorm:markenrl:37",
+   "relation": "implements",
+   "ref": "§ 32"
+  },
+  {
+   "source": "concept:entstehung_markenschutz",
+   "target": "eunorm:markenrl:37",
+   "relation": "defined_in",
+   "ref": "Art. 37 MarkenRL"
+  },
+  {
+   "source": "concept:darstellbarkeit",
+   "target": "eunorm:markenrl:37",
+   "relation": "defined_in",
+   "ref": "Art. 37 MarkenRL"
+  },
+  {
+   "source": "norm:§33",
+   "target": "eunorm:markenrl:38",
+   "relation": "implements",
+   "ref": "§ 33"
+  },
+  {
+   "source": "concept:prioritaet",
+   "target": "eunorm:markenrl:38",
+   "relation": "defined_in",
+   "ref": "Art. 38 MarkenRL"
+  },
+  {
+   "source": "concept:entstehung_markenschutz",
+   "target": "eunorm:markenrl:38",
+   "relation": "defined_in",
+   "ref": "Art. 38 MarkenRL"
+  },
+  {
+   "source": "norm:§32",
+   "target": "eunorm:markenrl:39",
+   "relation": "implements",
+   "ref": "§ 32 Abs. 3"
+  },
+  {
+   "source": "norm:§9",
+   "target": "eunorm:markenrl:39",
+   "relation": "implements",
+   "ref": "§ 9 Abs. 3"
+  },
+  {
+   "source": "norm:§65",
+   "target": "eunorm:markenrl:39",
+   "relation": "implements",
+   "ref": "§ 65"
+  },
+  {
+   "source": "concept:klassifizierung",
+   "target": "eunorm:markenrl:39",
+   "relation": "defined_in",
+   "ref": "Art. 39 MarkenRL"
+  },
+  {
+   "source": "concept:warenaehnlichkeit",
+   "target": "eunorm:markenrl:39",
+   "relation": "defined_in",
+   "ref": "Art. 39 MarkenRL"
+  },
+  {
+   "source": "norm:§37",
+   "target": "eunorm:markenrl:40",
+   "relation": "implements",
+   "ref": "§ 37 Abs. 6"
+  },
+  {
+   "source": "concept:absolute_schutzhindernisse",
+   "target": "eunorm:markenrl:40",
+   "relation": "defined_in",
+   "ref": "Art. 40 MarkenRL"
+  },
+  {
+   "source": "norm:§40",
+   "target": "eunorm:markenrl:41",
+   "relation": "implements",
+   "ref": "§ 40"
+  },
+  {
+   "source": "norm:§46",
+   "target": "eunorm:markenrl:41",
+   "relation": "implements",
+   "ref": "§ 46"
+  },
+  {
+   "source": "norm:§32",
+   "target": "eunorm:markenrl:42",
+   "relation": "implements",
+   "ref": "§ 32 Abs. 4"
+  },
+  {
+   "source": "norm:§42",
+   "target": "eunorm:markenrl:43",
+   "relation": "implements",
+   "ref": "§ 42"
+  },
+  {
+   "source": "concept:widerspruch",
+   "target": "eunorm:markenrl:43",
+   "relation": "defined_in",
+   "ref": "Art. 43 MarkenRL"
+  },
+  {
+   "source": "concept:relative_schutzhindernisse",
+   "target": "eunorm:markenrl:43",
+   "relation": "defined_in",
+   "ref": "Art. 43 MarkenRL"
+  },
+  {
+   "source": "norm:§43",
+   "target": "eunorm:markenrl:44",
+   "relation": "implements",
+   "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "norm:§125b",
+   "target": "eunorm:markenrl:44",
+   "relation": "implements",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "concept:nichtbenutzungseinrede",
+   "target": "eunorm:markenrl:44",
+   "relation": "defined_in",
+   "ref": "Art. 44 MarkenRL"
+  },
+  {
+   "source": "concept:benutzung_union",
+   "target": "eunorm:markenrl:44",
+   "relation": "defined_in",
+   "ref": "Art. 44 MarkenRL"
+  },
+  {
+   "source": "case:eugh_leno_merken",
+   "target": "eunorm:markenrl:44",
+   "relation": "interprets",
+   "ref": "Art. 44 MarkenRL"
+  },
+  {
+   "source": "norm:§53",
+   "target": "eunorm:markenrl:45",
+   "relation": "implements",
+   "ref": "§ 53"
+  },
+  {
+   "source": "norm:§54",
+   "target": "eunorm:markenrl:45",
+   "relation": "implements",
+   "ref": "§ 54"
+  },
+  {
+   "source": "norm:§55",
+   "target": "eunorm:markenrl:45",
+   "relation": "implements",
+   "ref": "§ 55"
+  },
+  {
+   "source": "concept:verfall",
+   "target": "eunorm:markenrl:45",
+   "relation": "defined_in",
+   "ref": "Art. 45 MarkenRL"
+  },
+  {
+   "source": "concept:nichtigkeit",
+   "target": "eunorm:markenrl:45",
+   "relation": "defined_in",
+   "ref": "Art. 45 MarkenRL"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "eunorm:markenrl:45",
+   "relation": "defined_in",
+   "ref": "Art. 45 MarkenRL"
+  },
+  {
+   "source": "norm:§53",
+   "target": "eunorm:markenrl:46",
+   "relation": "implements",
+   "ref": "§ 53 Abs. 6"
+  },
+  {
+   "source": "norm:§55",
+   "target": "eunorm:markenrl:46",
+   "relation": "implements",
+   "ref": "§ 55 Abs. 3"
+  },
+  {
+   "source": "norm:§125b",
+   "target": "eunorm:markenrl:46",
+   "relation": "implements",
+   "ref": "§ 125b"
+  },
+  {
+   "source": "concept:nichtbenutzungseinrede",
+   "target": "eunorm:markenrl:46",
+   "relation": "defined_in",
+   "ref": "Art. 46 MarkenRL"
+  },
+  {
+   "source": "concept:nichtigkeit",
+   "target": "eunorm:markenrl:46",
+   "relation": "defined_in",
+   "ref": "Art. 46 MarkenRL"
+  },
+  {
+   "source": "norm:§52",
+   "target": "eunorm:markenrl:47",
+   "relation": "implements",
+   "ref": "§ 52"
+  },
+  {
+   "source": "concept:verfall",
+   "target": "eunorm:markenrl:47",
+   "relation": "defined_in",
+   "ref": "Art. 47 MarkenRL"
+  },
+  {
+   "source": "concept:nichtigkeit",
+   "target": "eunorm:markenrl:47",
+   "relation": "defined_in",
+   "ref": "Art. 47 MarkenRL"
+  },
+  {
+   "source": "norm:§47",
+   "target": "eunorm:markenrl:48",
+   "relation": "implements",
+   "ref": "§ 47 Abs. 1"
+  },
+  {
+   "source": "norm:§47",
+   "target": "eunorm:markenrl:48",
+   "relation": "implements",
+   "ref": "§ 47 Abs. 2"
+  },
+  {
+   "source": "concept:schutzdauer",
+   "target": "eunorm:markenrl:48",
+   "relation": "defined_in",
+   "ref": "Art. 48 MarkenRL"
+  },
+  {
+   "source": "norm:§47",
+   "target": "eunorm:markenrl:49",
+   "relation": "implements",
+   "ref": "§ 47 Abs. 3"
+  },
+  {
+   "source": "norm:§47",
+   "target": "eunorm:markenrl:49",
+   "relation": "implements",
+   "ref": "§ 47 Abs. 4"
+  },
+  {
+   "source": "norm:§47",
+   "target": "eunorm:markenrl:49",
+   "relation": "implements",
+   "ref": "§ 47 Abs. 5"
+  },
+  {
+   "source": "concept:schutzdauer",
+   "target": "eunorm:markenrl:49",
+   "relation": "defined_in",
+   "ref": "Art. 49 MarkenRL"
+  },
+  {
+   "source": "norm:§96",
+   "target": "eunorm:markenrl:50",
+   "relation": "implements",
+   "ref": "§ 96"
+  },
+  {
+   "source": "norm:§94",
+   "target": "eunorm:markenrl:50",
+   "relation": "implements",
+   "ref": "§ 94"
+  },
+  {
+   "source": "norm:§65a",
+   "target": "eunorm:markenrl:51",
+   "relation": "implements",
+   "ref": "§ 65a"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "eunorm:markenrl:51",
+   "relation": "defined_in",
+   "ref": "Art. 51 MarkenRL"
+  },
+  {
+   "source": "norm:§65a",
+   "target": "eunorm:markenrl:52",
+   "relation": "implements",
+   "ref": "§ 65a"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "eunorm:markenrl:52",
+   "relation": "defined_in",
+   "ref": "Art. 52 MarkenRL"
+  },
+  {
+   "source": "norm:§62a",
+   "target": "eunorm:markenrl:53",
+   "relation": "implements",
+   "ref": "§ 62a"
+  },
+  {
+   "source": "norm:§158",
+   "target": "eunorm:markenrl:54",
+   "relation": "implements",
+   "ref": "§ 158"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "eunorm:markenrl:54",
+   "relation": "defined_in",
+   "ref": "Art. 54 MarkenRL"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "eunorm:markenrl:55",
+   "relation": "defined_in",
+   "ref": "Art. 55 MarkenRL"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "eunorm:markenrl:56",
+   "relation": "defined_in",
+   "ref": "Art. 56 MarkenRL"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "eunorm:markenrl:57",
+   "relation": "defined_in",
+   "ref": "Art. 57 MarkenRL"
+  },
   {
    "source": "case:bgh_rocher_kugel",
    "target": "norm:§3",
@@ -11322,6 +14824,12 @@
    "target": "norm:§8",
    "relation": "interprets",
    "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "case:eugh_darferdas",
+   "target": "eunorm:markenrl:4",
+   "relation": "interprets",
+   "ref": "Art. 4 MarkenRL"
   },
   {
    "source": "case:bgh_pippi_langstrumpf",
@@ -11672,10 +15180,22 @@
    "ref": "§ 14 Abs. 2 Nr. 2"
   },
   {
+   "source": "case:eugh_lloyd",
+   "target": "eunorm:markenrl:5",
+   "relation": "interprets",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
    "source": "case:eugh_thomson_life",
    "target": "norm:§14",
    "relation": "interprets",
    "ref": "§ 14 Abs. 2 Nr. 2"
+  },
+  {
+   "source": "case:eugh_thomson_life",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
   },
   {
    "source": "case:bgh_culinaria",
@@ -12164,6 +15684,12 @@
    "ref": "§ 14 Abs. 2 Nr. 3"
   },
   {
+   "source": "case:eugh_interflora",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
    "source": "case:eugh_adam_opel",
    "target": "norm:§14",
    "relation": "interprets",
@@ -12176,6 +15702,12 @@
    "ref": "§ 23"
   },
   {
+   "source": "case:eugh_adam_opel",
+   "target": "eunorm:markenrl:10",
+   "relation": "interprets",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
    "source": "case:eugh_pago",
    "target": "norm:§125b",
    "relation": "interprets",
@@ -12186,6 +15718,12 @@
    "target": "norm:§9",
    "relation": "interprets",
    "ref": "§ 9 Abs. 1 Nr. 3"
+  },
+  {
+   "source": "case:eugh_pago",
+   "target": "eunorm:markenrl:5",
+   "relation": "interprets",
+   "ref": "Art. 5 MarkenRL"
   },
   {
    "source": "case:eugh_iron_smith",
@@ -14063,6 +17601,12 @@
   },
   {
    "source": "concept:bekannte_marke",
+   "target": "eunorm:markenrl:5",
+   "relation": "defined_in",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "concept:bekannte_marke",
    "target": "concept:gedankliche_verknuepfung",
    "relation": "related_to"
   },
@@ -15145,6 +18689,12 @@
   },
   {
    "source": "concept:widerspruch",
+   "target": "eunorm:markenrl:44",
+   "relation": "defined_in",
+   "ref": "Art. 44 MarkenRL"
+  },
+  {
+   "source": "concept:widerspruch",
    "target": "concept:relative_schutzhindernisse",
    "relation": "related_to"
   },
@@ -15947,6 +19497,11 @@
   },
   {
    "source": "concept:unionsmarke",
+   "target": "concept:markenrl",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:unionsmarke",
    "target": "case:eugh_pago",
    "relation": "illustrated_by"
   },
@@ -16477,6 +20032,258 @@
    "relation": "documented_in"
   },
   {
+   "source": "concept:markenrl",
+   "target": "norm:§1",
+   "relation": "defined_in",
+   "ref": "§ 1"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "concept:richtlinienkonforme_auslegung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "concept:unionsmarke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "concept:marke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "case:eugh_sabel_puma",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "case:eugh_loreal_bellure",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "case:eugh_darferdas",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:markenrl",
+   "target": "source:markenrecht:markenrechtsrichtlinie:rechte_aus_der_marke",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:richtlinienkonforme_auslegung",
+   "target": "eunorm:markenrl:10",
+   "relation": "defined_in",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "concept:richtlinienkonforme_auslegung",
+   "target": "norm:§14",
+   "relation": "defined_in",
+   "ref": "§ 14"
+  },
+  {
+   "source": "concept:richtlinienkonforme_auslegung",
+   "target": "concept:markenrl",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:richtlinienkonforme_auslegung",
+   "target": "concept:unionsmarke",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:richtlinienkonforme_auslegung",
+   "target": "case:eugh_darferdas",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:richtlinienkonforme_auslegung",
+   "target": "case:bgh_darferdas_ii",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:richtlinienkonforme_auslegung",
+   "target": "case:bgh_otto_cap",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:richtlinienkonforme_auslegung",
+   "target": "case:eugh_thomson_life",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:transit",
+   "target": "norm:§14a",
+   "relation": "defined_in",
+   "ref": "§ 14a"
+  },
+  {
+   "source": "concept:transit",
+   "target": "norm:§146",
+   "relation": "defined_in",
+   "ref": "§ 146"
+  },
+  {
+   "source": "concept:transit",
+   "target": "concept:doppelidentitaet",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:transit",
+   "target": "concept:vorbereitungshandlungen",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:vorbereitungshandlungen",
+   "target": "norm:§14",
+   "relation": "defined_in",
+   "ref": "§ 14 Abs. 4"
+  },
+  {
+   "source": "concept:vorbereitungshandlungen",
+   "target": "concept:transit",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:vorbereitungshandlungen",
+   "target": "concept:doppelidentitaet",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:agentenmarke",
+   "target": "norm:§11",
+   "relation": "defined_in",
+   "ref": "§ 11"
+  },
+  {
+   "source": "concept:agentenmarke",
+   "target": "norm:§17",
+   "relation": "defined_in",
+   "ref": "§ 17"
+  },
+  {
+   "source": "concept:agentenmarke",
+   "target": "concept:relative_schutzhindernisse",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:agentenmarke",
+   "target": "concept:boesglaeubigkeit",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:nachschlagewerke",
+   "target": "norm:§16",
+   "relation": "defined_in",
+   "ref": "§ 16"
+  },
+  {
+   "source": "concept:nachschlagewerke",
+   "target": "norm:§49",
+   "relation": "defined_in",
+   "ref": "§ 49 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "concept:nachschlagewerke",
+   "target": "concept:uebliche_bezeichnung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:nachschlagewerke",
+   "target": "concept:verfall",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:nachschlagewerke",
+   "target": "case:bgh_tuev_ii",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:klassifizierung",
+   "target": "norm:§32",
+   "relation": "defined_in",
+   "ref": "§ 32"
+  },
+  {
+   "source": "concept:klassifizierung",
+   "target": "norm:§9",
+   "relation": "defined_in",
+   "ref": "§ 9 Abs. 3"
+  },
+  {
+   "source": "concept:klassifizierung",
+   "target": "concept:warenaehnlichkeit",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:klassifizierung",
+   "target": "concept:entstehung_markenschutz",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "norm:§53",
+   "relation": "defined_in",
+   "ref": "§ 53"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "norm:§54",
+   "relation": "defined_in",
+   "ref": "§ 54"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "norm:§55",
+   "relation": "defined_in",
+   "ref": "§ 55"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "eunorm:markenrl:46",
+   "relation": "defined_in",
+   "ref": "Art. 46 MarkenRL"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "concept:verfall",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "concept:nichtigkeit",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "concept:nichtbenutzungseinrede",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "case:bgh_black_friday",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:verwaltungsverfahren_loeschung",
+   "target": "source:markenrecht:loeschung_aufgrund_verfalls_oder_nichtigkeit",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:schutzdauer",
+   "target": "norm:§47",
+   "relation": "defined_in",
+   "ref": "§ 47"
+  },
+  {
+   "source": "concept:schutzdauer",
+   "target": "concept:entstehung_markenschutz",
+   "relation": "related_to"
+  },
+  {
    "source": "concept:unterscheidungskraft",
    "target": "case:bgh_rocher_kugel",
    "relation": "illustrated_by"
@@ -16809,6 +20616,21 @@
   {
    "source": "distinction:d_marke_unionsmarke_irmarke",
    "target": "concept:ir_marke",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_markenrl_umsetzung",
+   "target": "concept:markenrl",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_markenrl_umsetzung",
+   "target": "concept:richtlinienkonforme_auslegung",
+   "relation": "contrasts"
+  },
+  {
+   "source": "distinction:d_markenrl_umsetzung",
+   "target": "concept:unionsmarke",
    "relation": "contrasts"
   },
   {
@@ -21388,6 +25210,429 @@
    "ref": "§ 117"
   },
   {
+   "source": "schema:schema_markenrl",
+   "target": "eunorm:markenrl:1",
+   "relation": "applies",
+   "ref": "Art. 1 MarkenRL"
+  },
+  {
+   "source": "schema:schema_markenrl",
+   "target": "eunorm:markenrl:10",
+   "relation": "applies",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "schema:schema_markenrl",
+   "target": "eunorm:markenrl:54",
+   "relation": "applies",
+   "ref": "Art. 54 MarkenRL"
+  },
+  {
+   "source": "schema:schema_markenrl",
+   "target": "step:schema_markenrl.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_markenrl.1",
+   "target": "concept:markenrl",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.1",
+   "target": "eunorm:markenrl:1",
+   "relation": "applies",
+   "ref": "Art. 1 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.1",
+   "target": "norm:§1",
+   "relation": "applies",
+   "ref": "§ 1"
+  },
+  {
+   "source": "schema:schema_markenrl",
+   "target": "step:schema_markenrl.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_markenrl.1",
+   "target": "step:schema_markenrl.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_markenrl.2",
+   "target": "step:schema_markenrl.2.1",
+   "relation": "has_step",
+   "order": 1
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "concept:markenfaehigkeit",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "concept:absolute_schutzhindernisse",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "concept:relative_schutzhindernisse",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "concept:koexistenz_22",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "concept:verwirkung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "eunorm:markenrl:3",
+   "relation": "applies",
+   "ref": "Art. 3 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "eunorm:markenrl:4",
+   "relation": "applies",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "eunorm:markenrl:5",
+   "relation": "applies",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "eunorm:markenrl:8",
+   "relation": "applies",
+   "ref": "Art. 8 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "eunorm:markenrl:9",
+   "relation": "applies",
+   "ref": "Art. 9 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2",
+   "target": "step:schema_markenrl.2.2",
+   "relation": "has_step",
+   "order": 2
+  },
+  {
+   "source": "step:schema_markenrl.2.1",
+   "target": "step:schema_markenrl.2.2",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "concept:doppelidentitaet",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "concept:verwechslungsgefahr",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "concept:bekannte_marke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "concept:transit",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "concept:vorbereitungshandlungen",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "concept:schranke_23",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "concept:erschoepfung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "concept:rechtserhaltende_benutzung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "eunorm:markenrl:10",
+   "relation": "applies",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "eunorm:markenrl:14",
+   "relation": "applies",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "eunorm:markenrl:15",
+   "relation": "applies",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "eunorm:markenrl:16",
+   "relation": "applies",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "eunorm:markenrl:18",
+   "relation": "applies",
+   "ref": "Art. 18 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2",
+   "target": "step:schema_markenrl.2.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_markenrl.2.2",
+   "target": "step:schema_markenrl.2.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_markenrl.2.3",
+   "target": "concept:verfall",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.3",
+   "target": "concept:lizenz",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.3",
+   "target": "concept:kollektivmarke",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.3",
+   "target": "eunorm:markenrl:19",
+   "relation": "applies",
+   "ref": "Art. 19 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.3",
+   "target": "eunorm:markenrl:25",
+   "relation": "applies",
+   "ref": "Art. 25 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.3",
+   "target": "eunorm:markenrl:28",
+   "relation": "applies",
+   "ref": "Art. 28 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2",
+   "target": "step:schema_markenrl.2.4",
+   "relation": "has_step",
+   "order": 4
+  },
+  {
+   "source": "step:schema_markenrl.2.3",
+   "target": "step:schema_markenrl.2.4",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_markenrl.2.4",
+   "target": "concept:klassifizierung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.4",
+   "target": "concept:widerspruch",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.4",
+   "target": "concept:verwaltungsverfahren_loeschung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.4",
+   "target": "concept:schutzdauer",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.2.4",
+   "target": "eunorm:markenrl:39",
+   "relation": "applies",
+   "ref": "Art. 39 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.4",
+   "target": "eunorm:markenrl:43",
+   "relation": "applies",
+   "ref": "Art. 43 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.4",
+   "target": "eunorm:markenrl:45",
+   "relation": "applies",
+   "ref": "Art. 45 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.2.4",
+   "target": "eunorm:markenrl:48",
+   "relation": "applies",
+   "ref": "Art. 48 MarkenRL"
+  },
+  {
+   "source": "schema:schema_markenrl",
+   "target": "step:schema_markenrl.3",
+   "relation": "has_step",
+   "order": 3
+  },
+  {
+   "source": "step:schema_markenrl.2",
+   "target": "step:schema_markenrl.3",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_markenrl.3",
+   "target": "concept:markenrl",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.3",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14"
+  },
+  {
+   "source": "step:schema_markenrl.3",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23"
+  },
+  {
+   "source": "step:schema_markenrl.3",
+   "target": "norm:§24",
+   "relation": "applies",
+   "ref": "§ 24"
+  },
+  {
+   "source": "step:schema_markenrl.3",
+   "target": "norm:§26",
+   "relation": "applies",
+   "ref": "§ 26"
+  },
+  {
+   "source": "schema:schema_markenrl",
+   "target": "step:schema_markenrl.4",
+   "relation": "has_step",
+   "order": 4
+  },
+  {
+   "source": "step:schema_markenrl.3",
+   "target": "step:schema_markenrl.4",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_markenrl.4",
+   "target": "concept:richtlinienkonforme_auslegung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.4",
+   "target": "case:bgh_darferdas_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_markenrl.4",
+   "target": "case:bgh_otto_cap",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_markenrl.4",
+   "target": "case:eugh_thomson_life",
+   "relation": "cites"
+  },
+  {
+   "source": "schema:schema_markenrl",
+   "target": "step:schema_markenrl.5",
+   "relation": "has_step",
+   "order": 5
+  },
+  {
+   "source": "step:schema_markenrl.4",
+   "target": "step:schema_markenrl.5",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_markenrl.5",
+   "target": "concept:richtlinienkonforme_auslegung",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.5",
+   "target": "case:eugh_darferdas",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_markenrl.5",
+   "target": "case:eugh_thomson_life",
+   "relation": "cites"
+  },
+  {
+   "source": "step:schema_markenrl.5",
+   "target": "case:eugh_iron_smith",
+   "relation": "cites"
+  },
+  {
+   "source": "schema:schema_markenrl",
+   "target": "step:schema_markenrl.6",
+   "relation": "has_step",
+   "order": 6
+  },
+  {
+   "source": "step:schema_markenrl.5",
+   "target": "step:schema_markenrl.6",
+   "relation": "next_step"
+  },
+  {
+   "source": "step:schema_markenrl.6",
+   "target": "concept:markenrl",
+   "relation": "uses_concept"
+  },
+  {
+   "source": "step:schema_markenrl.6",
+   "target": "eunorm:markenrl:54",
+   "relation": "applies",
+   "ref": "Art. 54 MarkenRL"
+  },
+  {
+   "source": "step:schema_markenrl.6",
+   "target": "norm:§158",
+   "relation": "applies",
+   "ref": "§ 158"
+  },
+  {
    "source": "course:k01",
    "target": "chapter:k01a",
    "relation": "has_chapter",
@@ -21666,9 +25911,26 @@
   },
   {
    "source": "unit:k01b-5",
+   "target": "concept:schutzdauer",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k01b-5",
    "target": "norm:§47",
    "relation": "applies",
    "ref": "§ 47"
+  },
+  {
+   "source": "unit:k01b-5",
+   "target": "eunorm:markenrl:48",
+   "relation": "applies",
+   "ref": "Art. 48 MarkenRL"
+  },
+  {
+   "source": "unit:k01b-5",
+   "target": "eunorm:markenrl:49",
+   "relation": "applies",
+   "ref": "Art. 49 MarkenRL"
   },
   {
    "source": "course:k02",
@@ -21713,6 +25975,12 @@
    "target": "norm:§3",
    "relation": "applies",
    "ref": "§ 3 Abs. 2"
+  },
+  {
+   "source": "unit:k02a-1",
+   "target": "eunorm:markenrl:4",
+   "relation": "applies",
+   "ref": "Art. 4 MarkenRL"
   },
   {
    "source": "chapter:k02a",
@@ -21768,6 +26036,12 @@
    "target": "norm:§8",
    "relation": "applies",
    "ref": "§ 8 Abs. 1"
+  },
+  {
+   "source": "unit:k02a-3",
+   "target": "eunorm:markenrl:3",
+   "relation": "applies",
+   "ref": "Art. 3 MarkenRL"
   },
   {
    "source": "course:k02",
@@ -22084,6 +26358,12 @@
    "target": "norm:§50",
    "relation": "applies",
    "ref": "§ 50"
+  },
+  {
+   "source": "unit:k02c-3",
+   "target": "eunorm:markenrl:4",
+   "relation": "applies",
+   "ref": "Art. 4 MarkenRL"
   },
   {
    "source": "chapter:k02c",
@@ -22482,6 +26762,12 @@
    "ref": "§ 15"
   },
   {
+   "source": "unit:k03b-5",
+   "target": "eunorm:markenrl:10",
+   "relation": "applies",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
    "source": "course:k03",
    "target": "chapter:k03c",
    "relation": "has_chapter",
@@ -22513,6 +26799,12 @@
    "target": "norm:§14",
    "relation": "applies",
    "ref": "§ 14 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k03c-1",
+   "target": "eunorm:markenrl:10",
+   "relation": "applies",
+   "ref": "Art. 10 MarkenRL"
   },
   {
    "source": "unit:k03c-1",
@@ -23178,6 +27470,12 @@
   },
   {
    "source": "unit:k05a-2",
+   "target": "eunorm:markenrl:10",
+   "relation": "applies",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "unit:k05a-2",
    "target": "step:schema_bekanntheitsschutz.3",
    "relation": "covers"
   },
@@ -23660,6 +27958,12 @@
   },
   {
    "source": "unit:k06a-4",
+   "target": "eunorm:markenrl:14",
+   "relation": "applies",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "unit:k06a-4",
    "target": "step:schema_schranke_23.2.1",
    "relation": "covers"
   },
@@ -23738,6 +28042,12 @@
    "target": "norm:§24",
    "relation": "applies",
    "ref": "§ 24 Abs. 1"
+  },
+  {
+   "source": "unit:k06b-1",
+   "target": "eunorm:markenrl:15",
+   "relation": "applies",
+   "ref": "Art. 15 MarkenRL"
   },
   {
    "source": "unit:k06b-1",
@@ -23969,6 +28279,18 @@
   },
   {
    "source": "unit:k06c-3",
+   "target": "eunorm:markenrl:18",
+   "relation": "applies",
+   "ref": "Art. 18 MarkenRL"
+  },
+  {
+   "source": "unit:k06c-3",
+   "target": "eunorm:markenrl:8",
+   "relation": "applies",
+   "ref": "Art. 8 MarkenRL"
+  },
+  {
+   "source": "unit:k06c-3",
    "target": "step:schema_markenverletzung.4.4",
    "relation": "covers"
   },
@@ -24140,6 +28462,12 @@
   },
   {
    "source": "unit:k07a-4",
+   "target": "eunorm:markenrl:16",
+   "relation": "applies",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "unit:k07a-4",
    "target": "step:schema_benutzungszwang.1",
    "relation": "covers"
   },
@@ -24276,6 +28604,12 @@
    "ref": "§ 51"
   },
   {
+   "source": "unit:k07b-4",
+   "target": "eunorm:markenrl:45",
+   "relation": "applies",
+   "ref": "Art. 45 MarkenRL"
+  },
+  {
    "source": "course:k07",
    "target": "chapter:k07c",
    "relation": "has_chapter",
@@ -24341,6 +28675,12 @@
    "target": "norm:§43",
    "relation": "applies",
    "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "unit:k07c-2",
+   "target": "eunorm:markenrl:44",
+   "relation": "applies",
+   "ref": "Art. 44 MarkenRL"
   },
   {
    "source": "unit:k07c-2",
@@ -25163,6 +29503,674 @@
    "source": "unit:k10b-4",
    "target": "step:schema_ir_marke.3.4",
    "relation": "covers"
+  },
+  {
+   "source": "course:k11",
+   "target": "chapter:k11a",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:k11a",
+   "target": "unit:k11a-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k11a-0",
+   "target": "concept:markenrl",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-0",
+   "target": "concept:richtlinienkonforme_auslegung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-0",
+   "target": "eunorm:markenrl:1",
+   "relation": "applies",
+   "ref": "Art. 1 MarkenRL"
+  },
+  {
+   "source": "unit:k11a-0",
+   "target": "eunorm:markenrl:54",
+   "relation": "applies",
+   "ref": "Art. 54 MarkenRL"
+  },
+  {
+   "source": "chapter:k11a",
+   "target": "unit:k11a-1",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k11a-1",
+   "target": "schema:schema_markenrl",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k11a",
+   "target": "unit:k11a-2",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k11a-2",
+   "target": "concept:markenrl",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-2",
+   "target": "concept:verkehrsgeltung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-2",
+   "target": "eunorm:markenrl:1",
+   "relation": "applies",
+   "ref": "Art. 1 MarkenRL"
+  },
+  {
+   "source": "unit:k11a-2",
+   "target": "eunorm:markenrl:5",
+   "relation": "applies",
+   "ref": "Art. 5 MarkenRL"
+  },
+  {
+   "source": "unit:k11a-2",
+   "target": "norm:§4",
+   "relation": "applies",
+   "ref": "§ 4 Nr. 2"
+  },
+  {
+   "source": "unit:k11a-2",
+   "target": "norm:§12",
+   "relation": "applies",
+   "ref": "§ 12"
+  },
+  {
+   "source": "chapter:k11a",
+   "target": "unit:k11a-3",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k11a-3",
+   "target": "concept:richtlinienkonforme_auslegung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-3",
+   "target": "concept:verwendungsformen",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-3",
+   "target": "case:eugh_darferdas",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k11a-3",
+   "target": "case:bgh_darferdas_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k11a-3",
+   "target": "eunorm:markenrl:4",
+   "relation": "applies",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "unit:k11a-3",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 1"
+  },
+  {
+   "source": "unit:k11a-3",
+   "target": "step:schema_markenrl.5",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k11a",
+   "target": "unit:k11a-4",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k11a-4",
+   "target": "concept:richtlinienkonforme_auslegung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-4",
+   "target": "concept:unionsmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-4",
+   "target": "concept:selbstaendig_kennzeichnende_stellung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-4",
+   "target": "case:eugh_thomson_life",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k11a-4",
+   "target": "eunorm:markenrl:10",
+   "relation": "applies",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "unit:k11a-4",
+   "target": "step:schema_markenrl.4",
+   "relation": "covers"
+  },
+  {
+   "source": "chapter:k11a",
+   "target": "unit:k11a-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k11a-5",
+   "target": "concept:markenrl",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-5",
+   "target": "concept:verwaltungsverfahren_loeschung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11a-5",
+   "target": "eunorm:markenrl:54",
+   "relation": "applies",
+   "ref": "Art. 54 MarkenRL"
+  },
+  {
+   "source": "unit:k11a-5",
+   "target": "eunorm:markenrl:45",
+   "relation": "applies",
+   "ref": "Art. 45 MarkenRL"
+  },
+  {
+   "source": "unit:k11a-5",
+   "target": "norm:§53",
+   "relation": "applies",
+   "ref": "§ 53"
+  },
+  {
+   "source": "unit:k11a-5",
+   "target": "step:schema_markenrl.6",
+   "relation": "covers"
+  },
+  {
+   "source": "course:k11",
+   "target": "chapter:k11b",
+   "relation": "has_chapter",
+   "order": 2
+  },
+  {
+   "source": "chapter:k11b",
+   "target": "unit:k11b-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k11b-1",
+   "target": "concept:darstellbarkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-1",
+   "target": "concept:markenfaehigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-1",
+   "target": "eunorm:markenrl:3",
+   "relation": "applies",
+   "ref": "Art. 3 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-1",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 1"
+  },
+  {
+   "source": "chapter:k11b",
+   "target": "unit:k11b-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k11b-2",
+   "target": "concept:formausschluss",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-2",
+   "target": "case:eugh_philips_remington",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k11b-2",
+   "target": "case:bgh_bodenduebel",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k11b-2",
+   "target": "eunorm:markenrl:4",
+   "relation": "applies",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-2",
+   "target": "norm:§3",
+   "relation": "applies",
+   "ref": "§ 3 Abs. 2"
+  },
+  {
+   "source": "chapter:k11b",
+   "target": "unit:k11b-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k11b-3",
+   "target": "concept:boesglaeubigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-3",
+   "target": "case:bgh_glueckspilz",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k11b-3",
+   "target": "eunorm:markenrl:4",
+   "relation": "applies",
+   "ref": "Art. 4 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-3",
+   "target": "norm:§8",
+   "relation": "applies",
+   "ref": "§ 8 Abs. 2 Nr. 14"
+  },
+  {
+   "source": "unit:k11b-3",
+   "target": "norm:§50",
+   "relation": "applies",
+   "ref": "§ 50"
+  },
+  {
+   "source": "chapter:k11b",
+   "target": "unit:k11b-4",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k11b-4",
+   "target": "concept:transit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-4",
+   "target": "concept:doppelidentitaet",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-4",
+   "target": "eunorm:markenrl:10",
+   "relation": "applies",
+   "ref": "Art. 10 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-4",
+   "target": "norm:§14a",
+   "relation": "applies",
+   "ref": "§ 14a"
+  },
+  {
+   "source": "unit:k11b-4",
+   "target": "norm:§146",
+   "relation": "applies",
+   "ref": "§ 146"
+  },
+  {
+   "source": "chapter:k11b",
+   "target": "unit:k11b-5",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k11b-5",
+   "target": "concept:vorbereitungshandlungen",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-5",
+   "target": "eunorm:markenrl:11",
+   "relation": "applies",
+   "ref": "Art. 11 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-5",
+   "target": "norm:§14",
+   "relation": "applies",
+   "ref": "§ 14 Abs. 4"
+  },
+  {
+   "source": "chapter:k11b",
+   "target": "unit:k11b-6",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k11b-6",
+   "target": "concept:schranke_23",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-6",
+   "target": "concept:gleichnamigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-6",
+   "target": "eunorm:markenrl:14",
+   "relation": "applies",
+   "ref": "Art. 14 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-6",
+   "target": "norm:§23",
+   "relation": "applies",
+   "ref": "§ 23 Abs. 1 Nr. 1"
+  },
+  {
+   "source": "chapter:k11b",
+   "target": "unit:k11b-7",
+   "relation": "has_unit",
+   "order": 7
+  },
+  {
+   "source": "unit:k11b-7",
+   "target": "concept:benutzungsschonfrist",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-7",
+   "target": "concept:nichtbenutzungseinrede",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-7",
+   "target": "eunorm:markenrl:16",
+   "relation": "applies",
+   "ref": "Art. 16 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-7",
+   "target": "norm:§26",
+   "relation": "applies",
+   "ref": "§ 26 Abs. 5"
+  },
+  {
+   "source": "unit:k11b-7",
+   "target": "norm:§25",
+   "relation": "applies",
+   "ref": "§ 25"
+  },
+  {
+   "source": "chapter:k11b",
+   "target": "unit:k11b-8",
+   "relation": "has_unit",
+   "order": 8
+  },
+  {
+   "source": "unit:k11b-8",
+   "target": "concept:koexistenz_22",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-8",
+   "target": "concept:kennzeichnungskraft",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11b-8",
+   "target": "eunorm:markenrl:18",
+   "relation": "applies",
+   "ref": "Art. 18 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-8",
+   "target": "eunorm:markenrl:8",
+   "relation": "applies",
+   "ref": "Art. 8 MarkenRL"
+  },
+  {
+   "source": "unit:k11b-8",
+   "target": "norm:§22",
+   "relation": "applies",
+   "ref": "§ 22"
+  },
+  {
+   "source": "unit:k11b-8",
+   "target": "norm:§51",
+   "relation": "applies",
+   "ref": "§ 51 Abs. 4"
+  },
+  {
+   "source": "course:k11",
+   "target": "chapter:k11c",
+   "relation": "has_chapter",
+   "order": 3
+  },
+  {
+   "source": "chapter:k11c",
+   "target": "unit:k11c-1",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:k11c-1",
+   "target": "concept:klassifizierung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-1",
+   "target": "concept:warenaehnlichkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-1",
+   "target": "eunorm:markenrl:39",
+   "relation": "applies",
+   "ref": "Art. 39 MarkenRL"
+  },
+  {
+   "source": "unit:k11c-1",
+   "target": "norm:§32",
+   "relation": "applies",
+   "ref": "§ 32"
+  },
+  {
+   "source": "unit:k11c-1",
+   "target": "norm:§9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 3"
+  },
+  {
+   "source": "chapter:k11c",
+   "target": "unit:k11c-2",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:k11c-2",
+   "target": "concept:widerspruch",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-2",
+   "target": "eunorm:markenrl:43",
+   "relation": "applies",
+   "ref": "Art. 43 MarkenRL"
+  },
+  {
+   "source": "unit:k11c-2",
+   "target": "norm:§42",
+   "relation": "applies",
+   "ref": "§ 42 Abs. 4"
+  },
+  {
+   "source": "chapter:k11c",
+   "target": "unit:k11c-3",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:k11c-3",
+   "target": "concept:verwaltungsverfahren_loeschung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-3",
+   "target": "concept:nichtigkeit",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-3",
+   "target": "case:bgh_black_friday",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k11c-3",
+   "target": "eunorm:markenrl:45",
+   "relation": "applies",
+   "ref": "Art. 45 MarkenRL"
+  },
+  {
+   "source": "unit:k11c-3",
+   "target": "norm:§53",
+   "relation": "applies",
+   "ref": "§ 53"
+  },
+  {
+   "source": "unit:k11c-3",
+   "target": "norm:§55",
+   "relation": "applies",
+   "ref": "§ 55"
+  },
+  {
+   "source": "chapter:k11c",
+   "target": "unit:k11c-4",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:k11c-4",
+   "target": "concept:nichtbenutzungseinrede",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-4",
+   "target": "concept:verwaltungsverfahren_loeschung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-4",
+   "target": "eunorm:markenrl:46",
+   "relation": "applies",
+   "ref": "Art. 46 MarkenRL"
+  },
+  {
+   "source": "unit:k11c-4",
+   "target": "eunorm:markenrl:44",
+   "relation": "applies",
+   "ref": "Art. 44 MarkenRL"
+  },
+  {
+   "source": "unit:k11c-4",
+   "target": "norm:§53",
+   "relation": "applies",
+   "ref": "§ 53"
+  },
+  {
+   "source": "unit:k11c-4",
+   "target": "norm:§43",
+   "relation": "applies",
+   "ref": "§ 43 Abs. 1"
+  },
+  {
+   "source": "chapter:k11c",
+   "target": "unit:k11c-4b",
+   "relation": "has_unit",
+   "order": 5
+  },
+  {
+   "source": "unit:k11c-4b",
+   "target": "concept:kollektivmarke",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-4b",
+   "target": "case:bgh_oeko_test_ii",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:k11c-4b",
+   "target": "eunorm:markenrl:28",
+   "relation": "applies",
+   "ref": "Art. 28 MarkenRL"
+  },
+  {
+   "source": "unit:k11c-4b",
+   "target": "norm:§106a",
+   "relation": "applies",
+   "ref": "§ 106a"
+  },
+  {
+   "source": "unit:k11c-4b",
+   "target": "norm:§106d",
+   "relation": "applies",
+   "ref": "§ 106d"
+  },
+  {
+   "source": "chapter:k11c",
+   "target": "unit:k11c-5",
+   "relation": "has_unit",
+   "order": 6
+  },
+  {
+   "source": "unit:k11c-5",
+   "target": "concept:markenrl",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-5",
+   "target": "concept:erschoepfung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:k11c-5",
+   "target": "eunorm:markenrl:15",
+   "relation": "applies",
+   "ref": "Art. 15 MarkenRL"
+  },
+  {
+   "source": "unit:k11c-5",
+   "target": "norm:§24",
+   "relation": "applies",
+   "ref": "§ 24"
   }
  ]
 }

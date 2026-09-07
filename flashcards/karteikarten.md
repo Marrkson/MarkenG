@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht
 
-500 Karten, generiert aus graph/markenrecht_graph.json.
+585 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -8,7 +8,7 @@
 
 **A:** Ein Zeichen, das geeignet ist, Waren oder Dienstleistungen eines Unternehmens von denjenigen anderer Unternehmen zu unterscheiden ([§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)). Schutz entsteht durch Eintragung, Verkehrsgeltung oder notorische Bekanntheit ([§ 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html)).
 
-Normen: [§ 1](https://www.gesetze-im-internet.de/markeng/__1.html), [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html)
+Normen: [Art. 1 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 1](https://www.gesetze-im-internet.de/markeng/__1.html), [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html)
 
 *Tags: Begriff, Grundlagen*
 
@@ -32,7 +32,7 @@ Ein Zeichen, das geeignet ist, Waren oder Dienstleistungen eines Unternehmens vo
 
 **A:** Hauptfunktion ist die Herkunftsfunktion (Garantie der Ursprungsidentität). Daneben schützt der EuGH die Qualitäts- (Garantie-), Kommunikations-, Investitions- und Werbefunktion.
 
-Normen: [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
 Rechtsprechung: EuGH Arsenal Football Club (C-206/01); EuGH L'Oréal/Bellure (C-487/07); EuGH Interflora/Marks & Spencer (C-323/09); BGH Opel-Blitz II (I ZR 88/08)
 
@@ -84,7 +84,7 @@ Die Hauptfunktion der Marke: Sie garantiert dem Verbraucher die Ursprungsidentit
 
 **A:** Markenschutz entsteht (1) durch Eintragung in das Register des DPMA ([§ 4 Nr. 1](https://www.gesetze-im-internet.de/markeng/__4.html)), (2) durch Benutzung im geschäftlichen Verkehr mit Verkehrsgeltung innerhalb der beteiligten Verkehrskreise ([§ 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__4.html), Benutzungsmarke) oder (3) durch notorische Bekanntheit i.S.d. Art. 6bis PVÜ ([§ 4 Nr. 3](https://www.gesetze-im-internet.de/markeng/__4.html)).
 
-Normen: [§ 4](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__6.html)
+Normen: [Art. 37 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 38 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 4](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__6.html)
 
 *Tags: Begriff, Grundlagen*
 
@@ -108,7 +108,7 @@ Markenschutz entsteht (1) durch Eintragung in das Register des DPMA ([§ 4 Nr. 1
 
 **A:** Bei der Kollision von Kennzeichenrechten hat das Recht mit dem älteren Zeitrang Vorrang ([§ 6 Abs. 1](https://www.gesetze-im-internet.de/markeng/__6.html)). Zeitrang der Registermarke ist der Anmeldetag ([§ 6 Abs. 2](https://www.gesetze-im-internet.de/markeng/__6.html) i.V.m. [§ 33 Abs. 1](https://www.gesetze-im-internet.de/markeng/__33.html)), ggf. der Prioritätstag (§§ [34](https://www.gesetze-im-internet.de/markeng/__34.html), [35](https://www.gesetze-im-internet.de/markeng/__35.html)); bei sonstigen Rechten der Zeitpunkt des Rechtserwerbs ([§ 6 Abs. 3](https://www.gesetze-im-internet.de/markeng/__6.html)). Bei gleichem Zeitrang: Koexistenz ([§ 6 Abs. 4](https://www.gesetze-im-internet.de/markeng/__6.html)).
 
-Normen: [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html), [§ 33](https://www.gesetze-im-internet.de/markeng/__33.html), [§ 34](https://www.gesetze-im-internet.de/markeng/__34.html), [§ 35 MarkenG](https://www.gesetze-im-internet.de/markeng/__35.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 38 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html), [§ 33](https://www.gesetze-im-internet.de/markeng/__33.html), [§ 34](https://www.gesetze-im-internet.de/markeng/__34.html), [§ 35 MarkenG](https://www.gesetze-im-internet.de/markeng/__35.html)
 
 Rechtsprechung: BGH Baumann II (I ZR 241/14)
 
@@ -134,7 +134,7 @@ Bei der Kollision von Kennzeichenrechten hat das Recht mit dem älteren Zeitrang
 
 **A:** Abstrakte Eignung eines Zeichens, Waren oder Dienstleistungen eines Unternehmens von denen anderer Unternehmen zu unterscheiden (abstrakte Unterscheidungseignung). Alle Zeichenarten kommen in Betracht, insbes. Wörter, Abbildungen, Buchstaben, Zahlen, Klänge, dreidimensionale Gestaltungen, Farben.
 
-Normen: [§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)
 
 Rechtsprechung: EuGH Libertel (C-104/01)
 
@@ -160,7 +160,7 @@ Abstrakte Eignung eines Zeichens, Waren oder Dienstleistungen eines Unternehmens
 
 **A:** Nicht markenfähig sind Zeichen, die ausschließlich aus Formen oder anderen charakteristischen Merkmalen bestehen, die (1) durch die Art der Ware selbst bedingt sind, (2) zur Erreichung einer technischen Wirkung erforderlich sind oder (3) der Ware einen wesentlichen Wert verleihen.
 
-Normen: [§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)
 
 Rechtsprechung: BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19); BGH Bodendübel (I ZB 105/16); BGH Traubenzuckertäfelchen (I ZB 3/17); EuGH Philips/Remington (C-299/99)
 
@@ -186,7 +186,7 @@ Nicht markenfähig sind Zeichen, die ausschließlich aus Formen oder anderen cha
 
 **A:** Marke, die aus der dreidimensionalen Gestaltung der Ware selbst oder ihrer Verpackung besteht ([§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html)). Sie unterliegt dem Formausschluss des [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html) und strengen Anforderungen an die Unterscheidungskraft.
 
-Normen: [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: BGH ROCHER-Kugel (I ZB 88/07); BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19); BGH Bodendübel (I ZB 105/16); BGH Traubenzuckertäfelchen (I ZB 3/17)
 
@@ -212,7 +212,7 @@ Marke, die aus der dreidimensionalen Gestaltung der Ware selbst oder ihrer Verpa
 
 **A:** Marke, die aus einer Farbe oder Farbkombination ohne räumliche Begrenzung besteht. Markenfähig, wenn die Farbe eindeutig bestimmt ist (Farbcode). Originäre Unterscheidungskraft nur ausnahmsweise; regelmäßig Eintragung nur über Verkehrsdurchsetzung.
 
-Normen: [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: EuGH Libertel (C-104/01); BGH Langenscheidt-Gelb (I ZB 61/13); BGH Nivea-Blau (I ZB 65/13); BGH Sparkassen-Rot (I ZB 52/15)
 
@@ -238,7 +238,7 @@ Marke, die aus einer Farbe oder Farbkombination ohne räumliche Begrenzung beste
 
 **A:** Von der Eintragung ausgeschlossen sind Zeichen, die nicht geeignet sind, in dem Register so dargestellt zu werden, dass die zuständigen Behörden und das Publikum den Gegenstand des Schutzes klar und eindeutig bestimmen können.
 
-Normen: [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 37 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html)
 
 Rechtsprechung: EuGH Libertel (C-104/01)
 
@@ -264,7 +264,7 @@ Von der Eintragung ausgeschlossen sind Zeichen, die nicht geeignet sind, in dem 
 
 **A:** Eintragungshindernisse, die im Allgemeininteresse (nicht im Interesse einzelner Rechtsinhaber) bestehen und vom DPMA von Amts wegen geprüft werden ([§ 37](https://www.gesetze-im-internet.de/markeng/__37.html)): u.a. fehlende Unterscheidungskraft (Nr. 1), Freihaltebedürfnis (Nr. 2), üblich gewordene Bezeichnungen (Nr. 3), Täuschungseignung (Nr. 4), Verstoß gegen öffentliche Ordnung/gute Sitten (Nr. 5), Hoheitszeichen (Nr. 6-8), geschützte Herkunftsangaben u.a. (Nr. 9-13), Bösgläubigkeit (Nr. 14).
 
-Normen: [§ 8 Abs. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 7 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 40 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
 
 Rechtsprechung: BGH smartbook (I ZB 59/12); BGH Black Friday (I ZB 21/20)
 
@@ -290,7 +290,7 @@ Eintragungshindernisse, die im Allgemeininteresse (nicht im Interesse einzelner 
 
 **A:** Die einer Marke innewohnende (konkrete) Eignung, vom Verkehr als Unterscheidungsmittel aufgefasst zu werden, das die beanspruchten Waren oder Dienstleistungen als von einem bestimmten Unternehmen stammend kennzeichnet und von denen anderer Unternehmen unterscheidet.
 
-Normen: [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: BGH HOT (I ZB 3/13); BGH Link economy (I ZB 56/09); BGH #darferdas? II (I ZB 61/17); EuGH AS/DPMA (#darferdas?) (C-541/18)
 
@@ -342,7 +342,7 @@ Bei der Prüfung der Unterscheidungskraft sind alle wahrscheinlichen und praktis
 
 **A:** Von der Eintragung ausgeschlossen sind Zeichen, die ausschließlich aus Angaben bestehen, die im Verkehr zur Bezeichnung der Art, Beschaffenheit, Menge, Bestimmung, des Wertes, der geographischen Herkunft, der Zeit der Herstellung oder sonstiger Merkmale der Waren/Dienstleistungen dienen können.
 
-Normen: [§ 8 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: BGH Black Friday (I ZB 21/20); EuGH Windsurfing Chiemsee (C-108/97); BGH HOT (I ZB 3/13); BGH marktfrisch (I ZB 42/98)
 
@@ -368,7 +368,7 @@ Von der Eintragung ausgeschlossen sind Zeichen, die ausschließlich aus Angaben 
 
 **A:** Ausgeschlossen sind Zeichen, die im allgemeinen Sprachgebrauch oder in den redlichen und ständigen Verkehrsgepflogenheiten zur Bezeichnung der Waren oder Dienstleistungen üblich geworden sind (Gattungsbezeichnungen, Freizeichen).
 
-Normen: [§ 8 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 49 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 49 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 Rechtsprechung: BGH TÜV II (I ZR 108/09)
 
@@ -394,7 +394,7 @@ Ausgeschlossen sind Zeichen, die im allgemeinen Sprachgebrauch oder in den redli
 
 **A:** Ausgeschlossen sind Zeichen, die geeignet sind, das Publikum insbesondere über die Art, die Beschaffenheit oder die geographische Herkunft der Waren oder Dienstleistungen zu täuschen.
 
-Normen: [§ 8 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 49 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 49 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 *Tags: Begriff, Schutzvoraussetzungen*
 
@@ -418,7 +418,7 @@ Ausgeschlossen sind Zeichen, die geeignet sind, das Publikum insbesondere über 
 
 **A:** Eine Anmeldung ist bösgläubig, wenn der Anmelder das Zeichen nicht zur Förderung des eigenen Absatzes, sondern rechtsmissbräuchlich oder sittenwidrig anmeldet, insbesondere um einen schutzwürdigen Besitzstand eines Vorbenutzers zu stören, Dritte zu behindern (Sperrmarke) oder Lizenzgebühren zu erpressen (Hinterhaltsmarke).
 
-Normen: [§ 8 Abs. 2 Nr. 14](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 14](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
 
 Rechtsprechung: BGH GLÜCKSPILZ (I ZB 69/14); BGH EROS (I ZR 190/05); BGH Ivadal (I ZB 8/06)
 
@@ -444,7 +444,7 @@ Eine Anmeldung ist bösgläubig, wenn der Anmelder das Zeichen nicht zur Förder
 
 **A:** Die Schutzhindernisse des [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), 2 und 3 finden keine Anwendung, wenn die Marke sich vor dem Anmeldetag infolge ihrer Benutzung für die Waren oder Dienstleistungen in den beteiligten Verkehrskreisen durchgesetzt hat.
 
-Normen: [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: EuGH Windsurfing Chiemsee (C-108/97); BGH ROCHER-Kugel (I ZB 88/07); BGH test (Stiftung Warentest) (I ZB 65/12); BGH Langenscheidt-Gelb (I ZB 61/13)
 
@@ -518,7 +518,7 @@ Markenschutz entsteht auch ohne Eintragung oder Inlandsbenutzung, wenn die Marke
 
 **A:** Ältere Rechte Dritter, die der Eintragung entgegenstehen und nur auf Widerspruch ([§ 42](https://www.gesetze-im-internet.de/markeng/__42.html)) oder Nichtigkeitsantrag/-klage ([§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html)) geltend gemacht werden: ältere Marken ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html): Identität, Verwechslungsgefahr, Bekanntheitsschutz), notorisch bekannte Marken ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html)), Agentenmarken ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html)), Benutzungsmarken und geschäftliche Bezeichnungen ([§ 12](https://www.gesetze-im-internet.de/markeng/__12.html)), sonstige ältere Rechte ([§ 13](https://www.gesetze-im-internet.de/markeng/__13.html): Name, Bildnis, Urheberrecht, Design usw.).
 
-Normen: [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 10](https://www.gesetze-im-internet.de/markeng/__10.html), [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 43 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 10](https://www.gesetze-im-internet.de/markeng/__10.html), [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
 
 Rechtsprechung: BGH Springender Pudel (I ZR 59/13)
 
@@ -570,7 +570,7 @@ Jede wirtschaftliche Tätigkeit, die auf die Erzielung eines wirtschaftlichen Vo
 
 **A:** Ungeschriebenes Tatbestandsmerkmal des [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html): Das Zeichen muss so benutzt werden, dass es die Funktionen der Marke, insbesondere die Herkunftsfunktion, beeinträchtigt oder beeinträchtigen kann, d.h. der Verkehr es als Hinweis auf die betriebliche Herkunft der Waren/Dienstleistungen versteht.
 
-Normen: [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
 Rechtsprechung: EuGH Arsenal Football Club (C-206/01); BGH Opel-Blitz II (I ZR 88/08); EuGH Adam Opel/Autec (C-48/05); BGH SAM (I ZR 195/17)
 
@@ -596,7 +596,7 @@ Ungeschriebenes Tatbestandsmerkmal des [§ 14 Abs. 2](https://www.gesetze-im-int
 
 **A:** Die Benutzung eines Zeichens ausschließlich als Unternehmensbezeichnung (Firma, Geschäftsbezeichnung) ist keine Benutzung 'für Waren oder Dienstleistungen' i.S.d. [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html); sie wird zur markenmäßigen Benutzung, wenn der Verkehr eine Verbindung zwischen der Bezeichnung und den vertriebenen Waren herstellt.
 
-Normen: [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: EuGH Céline (C-17/06)
 
@@ -622,7 +622,7 @@ Die Benutzung eines Zeichens ausschließlich als Unternehmensbezeichnung (Firma,
 
 **A:** Verletzung durch Benutzung eines mit der Marke identischen Zeichens für Waren oder Dienstleistungen, die mit denen identisch sind, für die die Marke Schutz genießt. Eine Verwechslungsgefahr muss nicht festgestellt werden.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Rechtsprechung: EuGH L'Oréal/Bellure (C-487/07); EuGH Arsenal Football Club (C-206/01); BGH SAM (I ZR 195/17); BGH Kühlergrill (I ZR 61/18)
 
@@ -648,7 +648,7 @@ Verletzung durch Benutzung eines mit der Marke identischen Zeichens für Waren o
 
 **A:** Die Gefahr, dass das Publikum glauben könnte, die betreffenden Waren oder Dienstleistungen stammten aus demselben Unternehmen oder aus wirtschaftlich miteinander verbundenen Unternehmen. Sie ist umfassend unter Berücksichtigung aller Umstände des Einzelfalls zu beurteilen, insbesondere der Wechselwirkung zwischen Waren-/Dienstleistungsähnlichkeit, Zeichenähnlichkeit und Kennzeichnungskraft der älteren Marke.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: EuGH SABEL/Puma (C-251/95); EuGH Canon (C-39/97); EuGH Lloyd Schuhfabrik Meyer (C-342/97); BGH Culinaria/Villa Culinaria (I ZR 85/11)
 
@@ -752,7 +752,7 @@ Die Faktoren der Verwechslungsgefahr – Ähnlichkeit der Waren/Dienstleistungen
 
 **A:** Waren oder Dienstleistungen sind ähnlich, wenn sie unter Berücksichtigung aller erheblichen Faktoren – Art, Verwendungszweck, Nutzung, Eigenart als konkurrierende oder einander ergänzende Produkte, regelmäßige Herstellungsstätten und Vertriebswege – so enge Berührungspunkte aufweisen, dass der Verkehr bei identischer Kennzeichnung annehmen könnte, sie stammten aus demselben oder wirtschaftlich verbundenen Unternehmen.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Rechtsprechung: EuGH Canon (C-39/97); BGH DESPERADOS/DESPERADO (I ZB 63/12); BGH OTTO Cap (I ZR 49/12)
 
@@ -778,7 +778,7 @@ Waren oder Dienstleistungen sind ähnlich, wenn sie unter Berücksichtigung alle
 
 **A:** Die Eignung eines Zeichens, sich dem Publikum aufgrund seiner Eigenart und seines Bekanntheitsgrades als Marke einzuprägen und die gekennzeichneten Waren/Dienstleistungen als von einem bestimmten Unternehmen stammend zu identifizieren. Sie bestimmt den Schutzumfang der Marke im Kollisionsfall.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Rechtsprechung: BGH Culinaria/Villa Culinaria (I ZR 85/11); BGH Kinder II (I ZR 94/04); BGH coccodrillo (Lacoste-Krokodil) (I ZB 40/03); EuGH Lloyd Schuhfabrik Meyer (C-342/97)
 
@@ -934,7 +934,7 @@ Maßstab für Unterscheidungskraft und Verwechslungsgefahr ist der normal inform
 
 **A:** Eine Marke ist bekannt, wenn sie einem bedeutenden Teil des Publikums bekannt ist, das von den durch die Marke erfassten Waren oder Dienstleistungen betroffen ist. Feste Prozentsätze gibt es nicht; zu berücksichtigen sind Marktanteil, Intensität, geographische Ausdehnung und Dauer der Benutzung sowie Werbeaufwand (General Motors).
 
-Normen: [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 15 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 15 Abs. 3](https://www.gesetze-im-internet.de/markeng/__15.html), [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) MarkenG
 
 Rechtsprechung: EuGH General Motors/Yplon (Chevy) (C-375/97); BGH OTTO Cap (I ZR 49/12); BGH TÜV II (I ZR 108/09); BGH Lila-Postkarte (I ZR 159/02)
 
@@ -1116,7 +1116,7 @@ Der Bekanntheitsschutz setzt voraus, dass die Ausnutzung oder Beeinträchtigung 
 
 **A:** Der Markeninhaber kann einem Dritten nicht untersagen, im geschäftlichen Verkehr (1) dessen Namen oder Anschrift (nur natürliche Personen), (2) Zeichen ohne Unterscheidungskraft oder beschreibende Angaben oder (3) die Marke als Hinweis auf die Bestimmung einer Ware (insbesondere Zubehör/Ersatzteile) oder Dienstleistung zu benutzen, sofern die Benutzung den anständigen Gepflogenheiten in Gewerbe oder Handel entspricht ([§ 23 Abs. 2](https://www.gesetze-im-internet.de/markeng/__23.html)).
 
-Normen: [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 
 Rechtsprechung: EuGH Gillette/LA-Laboratories (C-228/03); BGH Staubsaugerfiltertüten (I ZR 34/02); BGH Kühlergrill (I ZR 61/18); BGH GROSSE INSPEKTION FÜR ALLE (I ZR 33/10)
 
@@ -1142,7 +1142,7 @@ Der Markeninhaber kann einem Dritten nicht untersagen, im geschäftlichen Verkeh
 
 **A:** Die Benutzung einer fremden Marke ist zulässig, wenn sie als Hinweis auf die Bestimmung der eigenen Ware (Zubehör, Ersatzteil, Kompatibilität: 'passend für ...') notwendig ist und den anständigen Gepflogenheiten entspricht.
 
-Normen: [§ 23 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 23 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 23 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 
 Rechtsprechung: EuGH Gillette/LA-Laboratories (C-228/03); BGH Staubsaugerfiltertüten (I ZR 34/02); BGH Kühlergrill (I ZR 61/18); BGH GROSSE INSPEKTION FÜR ALLE (I ZR 33/10)
 
@@ -1168,7 +1168,7 @@ Die Benutzung einer fremden Marke ist zulässig, wenn sie als Hinweis auf die Be
 
 **A:** Tragen zwei Unternehmen redlich denselben Namen, muss der Prioritätsjüngere grundsätzlich alles Erforderliche und Zumutbare tun, um Verwechslungen zu vermeiden (unterscheidende Zusätze); bei langjähriger Koexistenz kann eine Gleichgewichtslage entstehen, die keine Seite einseitig stören darf.
 
-Normen: [§ 23 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: BGH Peek & Cloppenburg (I ZR 174/07); BGH shell.de (I ZR 138/99)
 
@@ -1194,7 +1194,7 @@ Tragen zwei Unternehmen redlich denselben Namen, muss der Prioritätsjüngere gr
 
 **A:** Der Markeninhaber kann die Benutzung der Marke für Waren nicht untersagen, die unter dieser Marke von ihm oder mit seiner Zustimmung im Inland, in einem EU-Mitgliedstaat oder EWR-Vertragsstaat in den Verkehr gebracht worden sind (EWR-weite, keine internationale Erschöpfung).
 
-Normen: [§ 24 Abs. 1](https://www.gesetze-im-internet.de/markeng/__24.html), [§ 30 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 1](https://www.gesetze-im-internet.de/markeng/__24.html), [§ 30 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
 
 Rechtsprechung: EuGH Van Doren + Q. (stüssy) (C-244/00); BGH stüssy II (I ZR 193/97); BGH Converse I (I ZR 52/10); BGH Converse II (I ZR 137/10)
 
@@ -1220,7 +1220,7 @@ Der Markeninhaber kann die Benutzung der Marke für Waren nicht untersagen, die 
 
 **A:** Die Erschöpfung greift nicht, wenn sich der Inhaber der Benutzung im Zusammenhang mit dem weiteren Vertrieb aus berechtigten Gründen widersetzt, insbesondere wenn der Zustand der Waren nach dem Inverkehrbringen verändert oder verschlechtert ist.
 
-Normen: [§ 24 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
+Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
 
 Rechtsprechung: EuGH Bristol-Myers Squibb/Paranova (C-427/93 u.a.); EuGH Parfums Christian Dior/Evora (C-337/95)
 
@@ -1246,7 +1246,7 @@ Die Erschöpfung greift nicht, wenn sich der Inhaber der Benutzung im Zusammenha
 
 **A:** Der Parallelimporteur darf umgepackte Markenware vertreiben, wenn (1) das Umpacken zur Vermarktung im Einfuhrstaat erforderlich ist, (2) der Originalzustand des Produkts nicht beeinträchtigt wird, (3) Hersteller und Umpacker auf der Packung angegeben sind, (4) die Aufmachung den Ruf der Marke nicht schädigt und (5) der Markeninhaber vorab unterrichtet wird.
 
-Normen: [§ 24 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
+Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
 
 Rechtsprechung: EuGH Bristol-Myers Squibb/Paranova (C-427/93 u.a.)
 
@@ -1272,7 +1272,7 @@ Der Parallelimporteur darf umgepackte Markenware vertreiben, wenn (1) das Umpack
 
 **A:** Grundsätzlich trägt der in Anspruch genommene Dritte die Beweislast für die Voraussetzungen der Erschöpfung (Inverkehrbringen im EWR mit Zustimmung). Betreibt der Markeninhaber ein ausschließliches Vertriebssystem und droht bei Offenlegung der Bezugsquelle eine Abschottung der nationalen Märkte, muss der Markeninhaber beweisen, dass die Ware außerhalb des EWR in Verkehr gebracht wurde.
 
-Normen: [§ 24 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
+Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
 
 Rechtsprechung: EuGH Van Doren + Q. (stüssy) (C-244/00); BGH stüssy II (I ZR 193/97); BGH Converse I (I ZR 52/10); BGH Converse II (I ZR 137/10)
 
@@ -1298,7 +1298,7 @@ Grundsätzlich trägt der in Anspruch genommene Dritte die Beweislast für die V
 
 **A:** Der Inhaber eines älteren Kennzeichenrechts kann die Benutzung eines jüngeren eingetragenen Rechts nicht untersagen, wenn er sie fünf aufeinanderfolgende Jahre in Kenntnis geduldet hat, es sei denn, die jüngere Anmeldung war bösgläubig ([§ 21 Abs. 1](https://www.gesetze-im-internet.de/markeng/__21.html), 2). Daneben bleibt die allgemeine Verwirkung nach [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) ([§ 21 Abs. 4](https://www.gesetze-im-internet.de/markeng/__21.html)).
 
-Normen: [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
+Normen: [Art. 9 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
 
 Rechtsprechung: BGH Hard Rock Cafe (I ZR 188/11); BGH Baumann II (I ZR 241/14)
 
@@ -1348,7 +1348,7 @@ Ansprüche aus dem MarkenG verjähren nach den allgemeinen Vorschriften des BGB 
 
 **A:** Die Marke muss von ihrem Inhaber oder mit seiner Zustimmung ([§ 26 Abs. 2](https://www.gesetze-im-internet.de/markeng/__26.html)) im Inland ([§ 26 Abs. 1](https://www.gesetze-im-internet.de/markeng/__26.html)) für die eingetragenen Waren/Dienstleistungen ernsthaft benutzt worden sein, es sei denn, es liegen berechtigte Gründe für die Nichtbenutzung vor. Die Benutzung in abweichender Form genügt, wenn die Abweichungen den kennzeichnenden Charakter nicht verändern ([§ 26 Abs. 3](https://www.gesetze-im-internet.de/markeng/__26.html)); Anbringen auf Waren zum Export genügt ([§ 26 Abs. 4](https://www.gesetze-im-internet.de/markeng/__26.html)).
 
-Normen: [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 32 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 Rechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11); BGH LOTTOCARD (I ZR 167/05); BGH Probiotik (I ZR 38/13)
 
@@ -1374,7 +1374,7 @@ Die Marke muss von ihrem Inhaber oder mit seiner Zustimmung ([§ 26 Abs. 2](http
 
 **A:** Eine Benutzung ist ernsthaft, wenn sie entsprechend der Hauptfunktion der Marke erfolgt, um für die Waren/Dienstleistungen einen Absatzmarkt zu erschließen oder zu sichern; symbolische Benutzung allein zum Zweck der Rechtserhaltung genügt nicht (Ansul).
 
-Normen: [§ 26 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 26 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 
 Rechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11)
 
@@ -1400,7 +1400,7 @@ Eine Benutzung ist ernsthaft, wenn sie entsprechend der Hauptfunktion der Marke 
 
 **A:** Als Benutzung gilt auch die Benutzung in einer Form, die von der Eintragung abweicht, soweit die Abweichungen den kennzeichnenden Charakter der Marke nicht verändern – auch wenn die abweichende Form selbst eingetragen ist ([§ 26 Abs. 3 S. 2](https://www.gesetze-im-internet.de/markeng/__26.html)).
 
-Normen: [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 
 Rechtsprechung: BGH Probiotik (I ZR 38/13); BGH Dorzo (I ZB 6/16); BGH Castell/VIN CASTEL (I ZR 112/10); BGH LOTTOCARD (I ZR 167/05)
 
@@ -1426,7 +1426,7 @@ Als Benutzung gilt auch die Benutzung in einer Form, die von der Eintragung abwe
 
 **A:** Innerhalb von fünf Jahren nach der Eintragung (bzw. nach Abschluss eines Widerspruchsverfahrens, [§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html)) ist die Nichtbenutzung unschädlich. Erst danach können Ansprüche wegen Nichtbenutzung ausgeschlossen ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html)) und die Marke für verfallen erklärt werden ([§ 49 Abs. 1](https://www.gesetze-im-internet.de/markeng/__49.html)).
 
-Normen: [§ 25 Abs. 1](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 49 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25 Abs. 1](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 49 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 *Tags: Begriff, Benutzungszwang*
 
@@ -1450,7 +1450,7 @@ Innerhalb von fünf Jahren nach der Eintragung (bzw. nach Abschluss eines Widers
 
 **A:** Im Verletzungsprozess ([§ 25 Abs. 2](https://www.gesetze-im-internet.de/markeng/__25.html)) und im Widerspruchsverfahren ([§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)) kann der Gegner die Einrede erheben, die Marke sei innerhalb der letzten fünf Jahre nicht rechtserhaltend benutzt worden; dann muss der Inhaber die Benutzung nachweisen (im Verletzungsprozess) bzw. glaubhaft machen (im Widerspruchsverfahren).
 
-Normen: [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html)
+Normen: [Art. 17 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html)
 
 Rechtsprechung: BGH VOODOO (I ZR 106/11)
 
@@ -1476,7 +1476,7 @@ Im Verletzungsprozess ([§ 25 Abs. 2](https://www.gesetze-im-internet.de/markeng
 
 **A:** Die Marke wird auf Antrag für verfallen erklärt und gelöscht, wenn (1) sie nach der Eintragung fünf Jahre ununterbrochen nicht rechtserhaltend benutzt wurde (Abs. 1), (2) sie infolge des Verhaltens des Inhabers zur gebräuchlichen Bezeichnung geworden ist (Abs. 2 Nr. 1), (3) sie infolge ihrer Benutzung täuschend geworden ist (Abs. 2 Nr. 2) oder (4) der Inhaber die Voraussetzungen des [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html) nicht mehr erfüllt (Abs. 2 Nr. 3).
 
-Normen: [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html), [§ 52 Abs. 1](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
+Normen: [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 21 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 35 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 47 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html), [§ 52 Abs. 1](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
 
 Rechtsprechung: BGH VOODOO (I ZR 106/11); BGH TÜV II (I ZR 108/09)
 
@@ -1502,7 +1502,7 @@ Die Marke wird auf Antrag für verfallen erklärt und gelöscht, wenn (1) sie na
 
 **A:** Die Eintragung wird auf Antrag für nichtig erklärt und gelöscht, wenn die Marke entgegen §§ [3](https://www.gesetze-im-internet.de/markeng/__3.html), [7](https://www.gesetze-im-internet.de/markeng/__7.html) oder 8 eingetragen wurde ([§ 50](https://www.gesetze-im-internet.de/markeng/__50.html) – absolute Schutzhindernisse) oder ihr ein Recht mit älterem Zeitrang i.S.d. §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html) entgegensteht ([§ 51](https://www.gesetze-im-internet.de/markeng/__51.html) – relative Nichtigkeitsgründe).
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 52 Abs. 2](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
+Normen: [Art. 7 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 36 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 47 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 52 Abs. 2](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
 
 Rechtsprechung: BGH smartbook (I ZB 59/12); BGH Sparkassen-Rot (I ZB 52/15); BGH Black Friday (I ZB 21/20); BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19)
 
@@ -1528,7 +1528,7 @@ Die Eintragung wird auf Antrag für nichtig erklärt und gelöscht, wenn die Mar
 
 **A:** Innerhalb von drei Monaten nach Veröffentlichung der Eintragung kann der Inhaber eines älteren Rechts (ältere Marke, notorisch bekannte Marke, Benutzungsmarke, geschäftliche Bezeichnung, geschützte Ursprungsbezeichnung) beim DPMA Widerspruch gegen die Eintragung erheben ([§ 42](https://www.gesetze-im-internet.de/markeng/__42.html)). Auf Einrede muss er die Benutzung seiner älteren Marke glaubhaft machen ([§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)).
 
-Normen: [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 43](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 66](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
+Normen: [Art. 43 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 43](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 66](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 83](https://www.gesetze-im-internet.de/markeng/__83.html), [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) MarkenG
 
 Rechtsprechung: BGH Maalox/Melox-GRY (I ZB 52/09); BGH DESPERADOS/DESPERADO (I ZB 63/12)
 
@@ -1554,7 +1554,7 @@ Innerhalb von drei Monaten nach Veröffentlichung der Eintragung kann der Inhabe
 
 **A:** Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen ausschließlich oder nicht ausschließlich, räumlich oder sachlich beschränkt lizenziert werden ([§ 30 Abs. 1](https://www.gesetze-im-internet.de/markeng/__30.html)). Bei Verstoß des Lizenznehmers gegen die in [§ 30 Abs. 2](https://www.gesetze-im-internet.de/markeng/__30.html) genannten Beschränkungen kann der Inhaber die Marke gegen ihn geltend machen; ein Inverkehrbringen unter Verstoß gegen diese Beschränkungen erfolgt ohne Zustimmung (keine Erschöpfung).
 
-Normen: [§ 30](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 27 MarkenG](https://www.gesetze-im-internet.de/markeng/__27.html)
+Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 30](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 27 MarkenG](https://www.gesetze-im-internet.de/markeng/__27.html)
 
 Rechtsprechung: BGH Converse II (I ZR 137/10)
 
@@ -1580,7 +1580,7 @@ Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen aussch
 
 **A:** Anspruchsberechtigt ist der Markeninhaber ([§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 Abs. 1](https://www.gesetze-im-internet.de/markeng/__28.html): Vermutung der Inhaberschaft für den Eingetragenen) sowie der Lizenznehmer unter den Voraussetzungen des [§ 30 Abs. 3](https://www.gesetze-im-internet.de/markeng/__30.html).
 
-Normen: [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1630,7 +1630,7 @@ Wer ein Zeichen entgegen [§ 14 Abs. 2](https://www.gesetze-im-internet.de/marke
 
 **A:** Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des entstandenen Schadens verpflichtet. Berechnung nach Wahl des Verletzten: (1) konkreter Schaden inkl. entgangenem Gewinn, (2) Herausgabe des Verletzergewinns ([§ 14 Abs. 6 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html)), (3) angemessene Lizenzgebühr (Lizenzanalogie, [§ 14 Abs. 6 S. 3](https://www.gesetze-im-internet.de/markeng/__14.html)).
 
-Normen: [§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Normen: [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
 
 Rechtsprechung: BGH BTK (I ZR 169/07)
 
@@ -1938,7 +1938,7 @@ Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https
 
 **A:** Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung der geographischen Herkunft von Waren oder Dienstleistungen benutzt werden ([§ 126 Abs. 1](https://www.gesetze-im-internet.de/markeng/__126.html)). Sie dürfen nicht für Waren anderer Herkunft benutzt werden, wenn Irreführungsgefahr besteht ([§ 127 Abs. 1](https://www.gesetze-im-internet.de/markeng/__127.html)); qualifizierte Angaben und bekannte Angaben genießen erweiterten Schutz ([§ 127 Abs. 2](https://www.gesetze-im-internet.de/markeng/__127.html), 3).
 
-Normen: [§ 126](https://www.gesetze-im-internet.de/markeng/__126.html), [§ 127](https://www.gesetze-im-internet.de/markeng/__127.html), [§ 128](https://www.gesetze-im-internet.de/markeng/__128.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
+Normen: [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 126](https://www.gesetze-im-internet.de/markeng/__126.html), [§ 127](https://www.gesetze-im-internet.de/markeng/__127.html), [§ 128](https://www.gesetze-im-internet.de/markeng/__128.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
 
 Rechtsprechung: EuGH Windsurfing Chiemsee (C-108/97)
 
@@ -1964,7 +1964,7 @@ Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Ze
 
 **A:** Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen der Mitglieder nach Herkunft, Beschaffenheit oder sonstigen Eigenschaften unterscheidet ([§ 97](https://www.gesetze-im-internet.de/markeng/__97.html)); auch geographische Herkunftsangaben sind eintragbar ([§ 99](https://www.gesetze-im-internet.de/markeng/__99.html)). Gewährleistungsmarke: Marke, die Waren/Dienstleistungen hinsichtlich garantierter Eigenschaften (Material, Qualität, Herstellungsweise) von anderen unterscheidet, deren Inhaber die Waren nicht selbst vertreibt ([§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html)).
 
-Normen: [§ 97](https://www.gesetze-im-internet.de/markeng/__97.html), [§ 99](https://www.gesetze-im-internet.de/markeng/__99.html), [§ 102](https://www.gesetze-im-internet.de/markeng/__102.html), [§ 106a MarkenG](https://www.gesetze-im-internet.de/markeng/__106a.html)
+Normen: [Art. 27 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 28 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 30 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 31 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 32 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 33 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 35 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 36 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 97](https://www.gesetze-im-internet.de/markeng/__97.html), [§ 99](https://www.gesetze-im-internet.de/markeng/__99.html), [§ 102](https://www.gesetze-im-internet.de/markeng/__102.html), [§ 106a MarkenG](https://www.gesetze-im-internet.de/markeng/__106a.html)
 
 Rechtsprechung: BGH ÖKO-TEST II (I ZR 117/17)
 
@@ -1988,9 +1988,9 @@ Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen 
 
 **F:** Definiere: Unionsmarke (UMV) und Koexistenz
 
-**A:** Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, Art. 1 Abs. 2 UMV). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html) und Art. 8 Abs. 2 UMV wechselseitig als ältere Rechte verzahnt.
+**A:** Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, [Art. 1 Abs. 2 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html) und [Art. 8 Abs. 2 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) wechselseitig als ältere Rechte verzahnt.
 
-Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125e MarkenG](https://www.gesetze-im-internet.de/markeng/__125e.html)
+Normen: [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125e MarkenG](https://www.gesetze-im-internet.de/markeng/__125e.html)
 
 Rechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)
 
@@ -2002,7 +2002,7 @@ Rechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-1
 
 **F:** Welcher Begriff wird so definiert?
 
-Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, Art. 1 Abs. 2 UMV). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html) und Art. 8 Abs. 2 UMV wechselseitig als ältere Rechte verzahnt.
+Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, [Art. 1 Abs. 2 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html) und [Art. 8 Abs. 2 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) wechselseitig als ältere Rechte verzahnt.
 
 **A:** Unionsmarke (UMV) und Koexistenz
 
@@ -2016,7 +2016,7 @@ Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewähr
 
 **A:** Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer angemeldeten oder eingetragenen älteren Marke identisch oder ihr ähnlich ist, die ältere Marke im Inland bekannt ist und die Benutzung der jüngeren Marke die Unterscheidungskraft oder die Wertschätzung der bekannten Marke ohne rechtfertigenden Grund in unlauterer Weise ausnutzen oder beeinträchtigen würde.
 
-Normen: [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 22 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 22 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html)
 
 Rechtsprechung: BGH Springender Pudel (I ZR 59/13); EuGH Intel/CPM (INTELMARK) (C-252/07); EuGH General Motors/Yplon (Chevy) (C-375/97); EuGH Iron & Smith/Unilever (C-125/14)
 
@@ -2042,7 +2042,7 @@ Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer a
 
 **A:** Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jüngeren Marke nicht untersagen, wenn ein Nichtigkeitsantrag gegen sie zurückgewiesen wurde oder zurückzuweisen wäre, weil (1) das ältere Zeichen am Prioritätstag der jüngeren Marke noch nicht bekannt war ([§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html)), (2) die ältere Marke damals löschungsreif war ([§ 51 Abs. 4](https://www.gesetze-im-internet.de/markeng/__51.html)) oder (3) damals noch keine Verwechslungsgefahr bestand ([§ 22 Abs. 1](https://www.gesetze-im-internet.de/markeng/__22.html)). Umgekehrt kann auch der Inhaber der jüngeren Marke die ältere nicht untersagen ([§ 22 Abs. 2](https://www.gesetze-im-internet.de/markeng/__22.html)): Koexistenz.
 
-Normen: [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 51 Abs. 4](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
+Normen: [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 18 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 51 Abs. 4](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
 
 *Tags: Begriff, Schranken*
 
@@ -2062,11 +2062,11 @@ Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jü
 
 ## definition
 
-**F:** Definiere: Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), Art. 9 Abs. 2 lit. c UMV)
+**F:** Definiere: Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), [Art. 9 Abs. 2 lit. c UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001))
 
 **A:** Wird aus einer Unionsmarke nach [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) gegen eine deutsche Marke vorgegangen, tritt an die Stelle der Bekanntheit im Inland die Bekanntheit in der Union. Sie liegt vor, wenn die Marke einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist; ein einziger Mitgliedstaat kann genügen (PAGO).
 
-Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Rechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH General Motors/Yplon (Chevy) (C-375/97)
 
@@ -2080,7 +2080,7 @@ Rechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-1
 
 Wird aus einer Unionsmarke nach [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) gegen eine deutsche Marke vorgegangen, tritt an die Stelle der Bekanntheit im Inland die Bekanntheit in der Union. Sie liegt vor, wenn die Marke einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist; ein einziger Mitgliedstaat kann genügen (PAGO).
 
-**A:** Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), Art. 9 Abs. 2 lit. c UMV)
+**A:** Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), [Art. 9 Abs. 2 lit. c UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001))
 
 *Tags: Begriff, Umkehr, EU- und IR-Marken*
 
@@ -2088,11 +2088,11 @@ Wird aus einer Unionsmarke nach [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-inter
 
 ## definition
 
-**F:** Definiere: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5)
+**F:** Definiere: Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5)
 
-**A:** Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html) die ernsthafte Benutzung in der Union nach Art. 18 UMV. Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
+**A:** Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html) die ernsthafte Benutzung in der Union nach [Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001). Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
 
-Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)
+Normen: [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)
 
 Rechtsprechung: EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH Ansul/Ajax (C-40/01)
 
@@ -2104,9 +2104,9 @@ Rechtsprechung: EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH Ansul/A
 
 **F:** Welcher Begriff wird so definiert?
 
-Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html) die ernsthafte Benutzung in der Union nach Art. 18 UMV. Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
+Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html) die ernsthafte Benutzung in der Union nach [Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001). Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
 
-**A:** Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5)
+**A:** Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5)
 
 *Tags: Begriff, Umkehr, EU- und IR-Marken*
 
@@ -2116,7 +2116,7 @@ Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stell
 
 **F:** Definiere: Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV)
 
-**A:** Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben (Art. 124 UMV; in Deutschland die von den Ländern bestimmten Landgerichte, [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html)). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
+**A:** Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben ([Art. 124 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); in Deutschland die von den Ländern bestimmten Landgerichte, [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html)). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
 
 Normen: [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), [§ 125g](https://www.gesetze-im-internet.de/markeng/__125g.html), [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
 
@@ -2130,7 +2130,7 @@ Rechtsprechung: EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09); EuG
 
 **F:** Welcher Begriff wird so definiert?
 
-Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben (Art. 124 UMV; in Deutschland die von den Ländern bestimmten Landgerichte, [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html)). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
+Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben ([Art. 124 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); in Deutschland die von den Ländern bestimmten Landgerichte, [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html)). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
 
 **A:** Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV)
 
@@ -2142,9 +2142,9 @@ Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengeri
 
 **F:** Definiere: Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html))
 
-**A:** Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend (Art. 39, 40 UMV). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
+**A:** Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
 
-Normen: [§ 125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125 MarkenG](https://www.gesetze-im-internet.de/markeng/__125.html)
+Normen: [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125 MarkenG](https://www.gesetze-im-internet.de/markeng/__125.html)
 
 *Tags: Begriff, EU- und IR-Marken*
 
@@ -2154,7 +2154,7 @@ Normen: [§ 125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 1
 
 **F:** Welcher Begriff wird so definiert?
 
-Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend (Art. 39, 40 UMV). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
+Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
 
 **A:** Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html))
 
@@ -2216,7 +2216,7 @@ Das DPMA prüft die auf Deutschland erstreckte IR-Marke auf absolute Schutzhinde
 
 **A:** Für IR-Marken tritt an die Stelle des Eintragungstags ([§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html)) einer der in [§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html) bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.
 
-Normen: [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 116](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 116](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 
 *Tags: Begriff, EU- und IR-Marken*
 
@@ -2231,6 +2231,230 @@ Für IR-Marken tritt an die Stelle des Eintragungstags ([§ 26 Abs. 5](https://w
 **A:** Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117)
 
 *Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)
+
+**A:** Richtlinie des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (Neufassung der RL 2008/95/EG). Sie harmonisiert das materielle Markenrecht (Markenformen, Schutzhindernisse, Rechte aus der Marke, Schranken, Benutzungszwang, Verfall) und erstmals wesentliche Verfahrensregeln (Widerspruch, Verfall und Nichtigkeit vor dem Amt, Klassifizierung, Schutzdauer) der nationalen Markensysteme.
+
+Normen: [Art. 1 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 2 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 51 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 52 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 54 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 55 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 56 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 57 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html)
+
+Rechtsprechung: EuGH SABEL/Puma (C-251/95); EuGH L'Oréal/Bellure (C-487/07); EuGH AS/DPMA (#darferdas?) (C-541/18)
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Richtlinie des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (Neufassung der RL 2008/95/EG). Sie harmonisiert das materielle Markenrecht (Markenformen, Schutzhindernisse, Rechte aus der Marke, Schranken, Benutzungszwang, Verfall) und erstmals wesentliche Verfahrensregeln (Widerspruch, Verfall und Nichtigkeit vor dem Amt, Klassifizierung, Schutzdauer) der nationalen Markensysteme.
+
+**A:** Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Richtlinienkonforme Auslegung und Vorlage an den EuGH
+
+**A:** Nationale Gerichte und das DPMA müssen das MarkenG so auslegen, dass Wortlaut und Zweck der MarkenRL erreicht werden ([Art. 288 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)). Ist die Auslegung der Richtlinie zweifelhaft, kann jedes Gericht dem EuGH vorlegen; letztinstanzliche Gerichte (BGH) müssen vorlegen ([Art. 267 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)).
+
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+
+Rechtsprechung: EuGH AS/DPMA (#darferdas?) (C-541/18); BGH #darferdas? II (I ZB 61/17); BGH OTTO Cap (I ZR 49/12); EuGH THOMSON LIFE (Medion) (C-120/04)
+
+*Tags: Begriff, EU- und IR-Marken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nationale Gerichte und das DPMA müssen das MarkenG so auslegen, dass Wortlaut und Zweck der MarkenRL erreicht werden ([Art. 288 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)). Ist die Auslegung der Richtlinie zweifelhaft, kann jedes Gericht dem EuGH vorlegen; letztinstanzliche Gerichte (BGH) müssen vorlegen ([Art. 267 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)).
+
+**A:** Richtlinienkonforme Auslegung und Vorlage an den EuGH
+
+*Tags: Begriff, Umkehr, EU- und IR-Marken*
+
+---
+
+## definition
+
+**F:** Definiere: Transitverbot ([§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html), [Art. 10 Abs. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+**A:** Der Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.
+
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14a](https://www.gesetze-im-internet.de/markeng/__14a.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
+
+*Tags: Begriff, Verletzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.
+
+**A:** Transitverbot ([§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html), [Art. 10 Abs. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Begriff, Umkehr, Verletzung*
+
+---
+
+## definition
+
+**F:** Definiere: Verbot von Vorbereitungshandlungen ([§ 14 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [Art. 11 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+**A:** Der Inhaber kann Dritten verbieten, die Marke auf Aufmachungen, Verpackungen, Etiketten, Anhängern oder Sicherheits- und Echtheitshinweisen anzubringen sowie solche Kennzeichnungsmittel anzubieten, in Verkehr zu bringen, zu besitzen oder ein- und auszuführen, wenn die Gefahr besteht, dass sie für eine verletzende Kennzeichnung von Waren benutzt werden.
+
+Normen: [Art. 11 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+
+*Tags: Begriff, Verletzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Inhaber kann Dritten verbieten, die Marke auf Aufmachungen, Verpackungen, Etiketten, Anhängern oder Sicherheits- und Echtheitshinweisen anzubringen sowie solche Kennzeichnungsmittel anzubieten, in Verkehr zu bringen, zu besitzen oder ein- und auszuführen, wenn die Gefahr besteht, dass sie für eine verletzende Kennzeichnung von Waren benutzt werden.
+
+**A:** Verbot von Vorbereitungshandlungen ([§ 14 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [Art. 11 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Begriff, Umkehr, Verletzung*
+
+---
+
+## definition
+
+**F:** Definiere: Agentenmarke (§§ [11](https://www.gesetze-im-internet.de/markeng/__11.html), [17](https://www.gesetze-im-internet.de/markeng/__17.html) MarkenG, [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+**A:** Meldet ein Agent oder Vertreter des Markeninhabers dessen Marke ohne Zustimmung auf eigenen Namen an, ist die Eintragung löschbar ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), relatives Schutzhindernis) und der Inhaber kann die Übertragung der Marke sowie Unterlassung verlangen ([§ 17](https://www.gesetze-im-internet.de/markeng/__17.html)).
+
+Normen: [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 17 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
+
+*Tags: Begriff, Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Meldet ein Agent oder Vertreter des Markeninhabers dessen Marke ohne Zustimmung auf eigenen Namen an, ist die Eintragung löschbar ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), relatives Schutzhindernis) und der Inhaber kann die Übertragung der Marke sowie Unterlassung verlangen ([§ 17](https://www.gesetze-im-internet.de/markeng/__17.html)).
+
+**A:** Agentenmarke (§§ [11](https://www.gesetze-im-internet.de/markeng/__11.html), [17](https://www.gesetze-im-internet.de/markeng/__17.html) MarkenG, [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Begriff, Umkehr, Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Wiedergabe in Nachschlagewerken ([§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+**A:** Erweckt die Wiedergabe einer eingetragenen Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck einer Gattungsbezeichnung, kann der Inhaber vom Verleger verlangen, dass spätestens bei der nächsten Auflage ein Hinweis auf die Eintragung als Marke aufgenommen wird.
+
+Normen: [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 16](https://www.gesetze-im-internet.de/markeng/__16.html), [§ 49 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+
+Rechtsprechung: BGH TÜV II (I ZR 108/09)
+
+*Tags: Begriff, Rechtsfolgen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Erweckt die Wiedergabe einer eingetragenen Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck einer Gattungsbezeichnung, kann der Inhaber vom Verleger verlangen, dass spätestens bei der nächsten Auflage ein Hinweis auf die Eintragung als Marke aufgenommen wird.
+
+**A:** Wiedergabe in Nachschlagewerken ([§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Begriff, Umkehr, Rechtsfolgen*
+
+---
+
+## definition
+
+**F:** Definiere: Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation ([§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html), [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+**A:** Die Waren und Dienstleistungen sind nach der Nizza-Klassifikation so klar und eindeutig anzugeben, dass Behörden und Wirtschaftsteilnehmer den Schutzumfang bestimmen können. Allgemeine Begriffe und Klassenüberschriften umfassen nur, was von ihrer wörtlichen Bedeutung eindeutig erfasst ist (EuGH IP Translator, C-307/10; [Art. 39 Abs. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)).
+
+Normen: [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 32](https://www.gesetze-im-internet.de/markeng/__32.html), [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Waren und Dienstleistungen sind nach der Nizza-Klassifikation so klar und eindeutig anzugeben, dass Behörden und Wirtschaftsteilnehmer den Schutzumfang bestimmen können. Allgemeine Begriffe und Klassenüberschriften umfassen nur, was von ihrer wörtlichen Bedeutung eindeutig erfasst ist (EuGH IP Translator, C-307/10; [Art. 39 Abs. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)).
+
+**A:** Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation ([§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html), [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+**A:** [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) verpflichtet die Mitgliedstaaten, ein effizientes und zügiges Verwaltungsverfahren vor dem Markenamt für die Erklärung des Verfalls und der Nichtigkeit vorzusehen. Deutschland hat es seit 1.5.2020 in [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html) als vollständiges Verfahren vor dem DPMA ausgestaltet; daneben bleibt die Klage vor dem Landgericht nach [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) für Verfall und relative Nichtigkeit.
+
+Normen: [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54](https://www.gesetze-im-internet.de/markeng/__54.html), [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) MarkenG
+
+Rechtsprechung: BGH Black Friday (I ZB 21/20)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+[Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) verpflichtet die Mitgliedstaaten, ein effizientes und zügiges Verwaltungsverfahren vor dem Markenamt für die Erklärung des Verfalls und der Nichtigkeit vorzusehen. Deutschland hat es seit 1.5.2020 in [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html) als vollständiges Verfahren vor dem DPMA ausgestaltet; daneben bleibt die Klage vor dem Landgericht nach [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) für Verfall und relative Nichtigkeit.
+
+**A:** Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Schutzdauer und Verlängerung ([§ 47 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html), [Art. 48, 49 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+**A:** Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag und kann beliebig oft um zehn Jahre verlängert werden. Die Verlängerung erfolgt durch Zahlung der Verlängerungsgebühr innerhalb von sechs Monaten vor Ablauf, nachträglich innerhalb weiterer sechs Monate mit Zuschlag; das DPMA unterrichtet den Inhaber vorab.
+
+Normen: [Art. 48 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 49 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 47 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html)
+
+*Tags: Begriff, Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag und kann beliebig oft um zehn Jahre verlängert werden. Die Verlängerung erfolgt durch Zahlung der Verlängerungsgebühr innerhalb von sechs Monaten vor Ablauf, nachträglich innerhalb weiterer sechs Monate mit Zuschlag; das DPMA unterrichtet den Inhaber vorab.
+
+**A:** Schutzdauer und Verlängerung ([§ 47 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html), [Art. 48, 49 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Begriff, Umkehr, Grundlagen*
 
 ---
 
@@ -2484,6 +2708,23 @@ Für IR-Marken tritt an die Stelle des Eintragungstags ([§ 26 Abs. 5](https://w
   - b) Widerspruch und Nichtigkeitsantrag gegen deutsche Marken ([§ 116](https://www.gesetze-im-internet.de/markeng/__116.html))
   - c) IR-Marke mit Benennung EU
 - 5. Benutzungsschonfrist ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117)
+
+*Tags: Prüfungsschema, EU- und IR-Marken*
+
+---
+
+**F:** Prüfungsschema: Unionsrechtlicher Rahmen: Markenrechtsrichtlinie anwenden
+
+**A:** - 1. Anwendungsbereich prüfen
+- 2. Aufbau der Richtlinie kennen
+  - Kapitel 2 Abschnitt 1 und 2: Markenformen, Eintragungshindernisse
+  - Kapitel 2 Abschnitt 3: Rechte und Schranken
+  - Kapitel 2 Abschnitt 4 bis 6: Verfall, Vermögen, Kollektivmarken
+  - Kapitel 3: Verfahren
+- 3. Zugehörige MarkenG-Norm zuordnen
+- 4. Richtlinienkonform auslegen
+- 5. Bei Zweifeln: Vorlage an den EuGH
+- 6. Übergangsrecht beachten
 
 *Tags: Prüfungsschema, EU- und IR-Marken*
 
@@ -2782,6 +3023,20 @@ Welche Punkte sind hier zu prüfen?
 
 ---
 
+**F:** 2. Aufbau der Richtlinie kennen
+(Unionsrechtlicher Rahmen: Markenrechtsrichtlinie anwenden)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - Kapitel 2 Abschnitt 1 und 2: Markenformen, Eintragungshindernisse
+- Kapitel 2 Abschnitt 3: Rechte und Schranken
+- Kapitel 2 Abschnitt 4 bis 6: Verfall, Vermögen, Kollektivmarken
+- Kapitel 3: Verfahren
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
 ## abgrenzung
 
 **F:** Worin unterscheiden sich Unterscheidungskraft und Kennzeichnungskraft?
@@ -3012,7 +3267,7 @@ Merksatz: [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html) fragt: Dar
 **F:** Welche Bekanntheit ist maßgeblich, wenn die ältere Marke eine deutsche Marke bzw. eine Unionsmarke ist?
 (Bekanntheit im Inland vs. Bekanntheit in der Union)
 
-**A:** • Norm — Deutsche Marke / IR-Marke (DE): [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) | Unionsmarke / IR-Marke (EU): [§ 125b Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), Art. 9 Abs. 2 lit. c, Art. 8 Abs. 5 UMV
+**A:** • Norm — Deutsche Marke / IR-Marke (DE): [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) | Unionsmarke / IR-Marke (EU): [§ 125b Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), Art. 9 Abs. 2 lit. c, [Art. 8 Abs. 5 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)
 • Räumlicher Bezug — Deutsche Marke / IR-Marke (DE): Bekanntheit im Inland (Bundesgebiet) | Unionsmarke / IR-Marke (EU): Bekanntheit in der Union
 • Wesentlicher Teil — Deutsche Marke / IR-Marke (DE): Ein wesentlicher Teil des Bundesgebiets genügt | Unionsmarke / IR-Marke (EU): Ein wesentlicher Teil der Union; das Gebiet eines einzigen Mitgliedstaats kann genügen (PAGO)
 • Zusatzvoraussetzung im Kollisionsgebiet — Deutsche Marke / IR-Marke (DE): Keine | Unionsmarke / IR-Marke (EU): Für Ausnutzung/Beeinträchtigung in Deutschland muss ein wirtschaftlich nicht unbedeutender Teil des deutschen Publikums die Marke kennen (Iron & Smith)
@@ -3029,17 +3284,49 @@ Merksatz: Unionsmarke: bekannt in der Union reicht für den Tatbestand, aber ohn
 
 **A:** • Rechtsgrundlage — Deutsche Marke: MarkenG | Unionsmarke: UMV (VO (EU) 2017/1001) + [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff. MarkenG | IR-Marke (Benennung DE): PMMA/MMA + §§ [107](https://www.gesetze-im-internet.de/markeng/__107.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html) MarkenG (v.a. §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[117](https://www.gesetze-im-internet.de/markeng/__117.html) über [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html))
 • Amt / Entstehung — Deutsche Marke: DPMA, Eintragung ([§ 4 Nr. 1](https://www.gesetze-im-internet.de/markeng/__4.html)) | Unionsmarke: EUIPO, Eintragung mit einheitlicher Wirkung in der EU | IR-Marke (Benennung DE): WIPO auf Basis einer Basismarke; Schutzerstreckung auf DE durch Benennung
-• Zeitrang — Deutsche Marke: Anmeldetag ([§ 6 Abs. 2](https://www.gesetze-im-internet.de/markeng/__6.html), [§ 33](https://www.gesetze-im-internet.de/markeng/__33.html)) | Unionsmarke: Anmeldetag beim EUIPO; Seniorität nationaler Marken (Art. 39, 40 UMV) | IR-Marke (Benennung DE): Tag der internationalen Registrierung bzw. nachträglichen Schutzerstreckung ([§ 112](https://www.gesetze-im-internet.de/markeng/__112.html))
+• Zeitrang — Deutsche Marke: Anmeldetag ([§ 6 Abs. 2](https://www.gesetze-im-internet.de/markeng/__6.html), [§ 33](https://www.gesetze-im-internet.de/markeng/__33.html)) | Unionsmarke: Anmeldetag beim EUIPO; Seniorität nationaler Marken ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) | IR-Marke (Benennung DE): Tag der internationalen Registrierung bzw. nachträglichen Schutzerstreckung ([§ 112](https://www.gesetze-im-internet.de/markeng/__112.html))
 • Verletzungstatbestand — Deutsche Marke: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html)-3 | Unionsmarke: Art. 9 Abs. 2 lit. a-c UMV | IR-Marke (Benennung DE): [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html)-3 (Wirkung wie deutsche Marke, [§ 112](https://www.gesetze-im-internet.de/markeng/__112.html))
-• Annexansprüche — Deutsche Marke: [§§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)-7, 18-19c | Unionsmarke: Art. 130 UMV + [§§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), 7, 18-19c über [§ 125b Nr. 2](https://www.gesetze-im-internet.de/markeng/__125b.html) | IR-Marke (Benennung DE): [§§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)-7, 18-19c; Einrede [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html) mit [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html)
+• Annexansprüche — Deutsche Marke: [§§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)-7, 18-19c | Unionsmarke: [Art. 130 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) + [§§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), 7, 18-19c über [§ 125b Nr. 2](https://www.gesetze-im-internet.de/markeng/__125b.html) | IR-Marke (Benennung DE): [§§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)-7, 18-19c; Einrede [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html) mit [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html)
 • Gericht — Deutsche Marke: Landgericht, Kennzeichenstreitsache ([§ 140](https://www.gesetze-im-internet.de/markeng/__140.html)) | Unionsmarke: Unionsmarkengericht ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV); Verbot grundsätzlich unionsweit | IR-Marke (Benennung DE): Landgericht ([§ 140](https://www.gesetze-im-internet.de/markeng/__140.html))
 • Bekanntheit — Deutsche Marke: Im Inland | Unionsmarke: In der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html); PAGO, Iron & Smith) | IR-Marke (Benennung DE): Im Inland
-• Rechtserhaltende Benutzung — Deutsche Marke: [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html): im Inland | Unionsmarke: Art. 18 UMV: in der Union, Grenzen der Mitgliedstaaten unbeachtlich (Leno Merken); [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5 | IR-Marke (Benennung DE): [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html): im Inland
-• Beginn der Benutzungsschonfrist — Deutsche Marke: Eintragung ([§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html): ggf. Ende des Widerspruchsverfahrens) | Unionsmarke: Eintragung der Unionsmarke (Art. 18 Abs. 1 UMV) | IR-Marke (Benennung DE): Ablauf der Schutzverweigerungsfrist oder rechtskräftige Schutzgewährung ([§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), §§ [116](https://www.gesetze-im-internet.de/markeng/__116.html), [117](https://www.gesetze-im-internet.de/markeng/__117.html))
-• Angriff auf die Marke — Deutsche Marke: Widerspruch [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), Verfall [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html), Nichtigkeit §§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html) | Unionsmarke: Widerspruch Art. 46/Art. 8, Verfall Art. 58, Nichtigkeit Art. 59, 60 UMV (EUIPO) oder Widerklage Art. 128 | IR-Marke (Benennung DE): Schutzverweigerung [§ 113](https://www.gesetze-im-internet.de/markeng/__113.html), Widerspruch [§ 114](https://www.gesetze-im-internet.de/markeng/__114.html), Schutzentziehung [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html); 'central attack' auf die Basismarke (Art. 6 PMMA)
+• Rechtserhaltende Benutzung — Deutsche Marke: [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html): im Inland | Unionsmarke: [Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001): in der Union, Grenzen der Mitgliedstaaten unbeachtlich (Leno Merken); [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5 | IR-Marke (Benennung DE): [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html): im Inland
+• Beginn der Benutzungsschonfrist — Deutsche Marke: Eintragung ([§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html): ggf. Ende des Widerspruchsverfahrens) | Unionsmarke: Eintragung der Unionsmarke ([Art. 18 Abs. 1 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) | IR-Marke (Benennung DE): Ablauf der Schutzverweigerungsfrist oder rechtskräftige Schutzgewährung ([§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), §§ [116](https://www.gesetze-im-internet.de/markeng/__116.html), [117](https://www.gesetze-im-internet.de/markeng/__117.html))
+• Angriff auf die Marke — Deutsche Marke: Widerspruch [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), Verfall [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html), Nichtigkeit §§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html) | Unionsmarke: Widerspruch Art. 46/Art. 8, Verfall Art. 58, Nichtigkeit [Art. 59, 60 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) (EUIPO) oder Widerklage Art. 128 | IR-Marke (Benennung DE): Schutzverweigerung [§ 113](https://www.gesetze-im-internet.de/markeng/__113.html), Widerspruch [§ 114](https://www.gesetze-im-internet.de/markeng/__114.html), Schutzentziehung [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html); 'central attack' auf die Basismarke (Art. 6 PMMA)
 • Besonderheiten — Deutsche Marke: – | Unionsmarke: Umwandlung in nationale Anmeldungen (Art. 139 ff. UMV, [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)); Koexistenz mit nationalen Marken | IR-Marke (Benennung DE): Benennung EU = Unionsmarke (Art. 189 ff. UMV); Umwandlung [§ 125](https://www.gesetze-im-internet.de/markeng/__125.html)
 
 Merksatz: Deutsche Marke: MarkenG pur. Unionsmarke: UMV plus Brücke [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html). IR-Marke: wie deutsche Marke ([§ 112](https://www.gesetze-im-internet.de/markeng/__112.html)), aber eigene Fristen ([§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html)) und Schutzverweigerung statt Löschung.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Vorschrift des MarkenG setzt welchen Artikel der MarkenRL um, und was hat das MaMoG 2019 geändert?
+(Umsetzungstabelle: Markenrechtsrichtlinie (EU) 2015/2436 und MarkenG)
+
+**A:** • Markenformen — MarkenRL: Art. 3 | MarkenG: [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html) | Änderung durch das MaMoG 2019: Graphische Darstellbarkeit entfällt; neue Markenformen (Klang, Bewegung, Multimedia, Hologramm)
+• Absolute Schutzhindernisse — MarkenRL: Art. 4 | MarkenG: [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2](https://www.gesetze-im-internet.de/markeng/__8.html), Abs. 3, [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html) | Änderung durch das MaMoG 2019: Formausschluss auch für „andere charakteristische Merkmale“; Bösgläubigkeit Nr. 14; Nr. 9 bis 13 neu
+• Relative Schutzhindernisse — MarkenRL: Art. 5 | MarkenG: §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html) bis [13](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) | Änderung durch das MaMoG 2019: Bekanntheitsschutz im Register zwingend und für alle Waren ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html))
+• Zeitpunkt / Zwischenrecht — MarkenRL: Art. 8, 18 | MarkenG: [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), Abs. 4 | Änderung durch das MaMoG 2019: Kennzeichnungskraft und Bekanntheit der älteren Marke werden zum Prioritätstag der jüngeren beurteilt
+• Verwirkung durch Duldung — MarkenRL: Art. 9 | MarkenG: [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 51 Abs. 2](https://www.gesetze-im-internet.de/markeng/__51.html) | Änderung durch das MaMoG 2019: Unverändert (bereits RL 2008/95)
+• Rechte aus der Marke — MarkenRL: Art. 10 | MarkenG: [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html) bis 3, [§ 15](https://www.gesetze-im-internet.de/markeng/__15.html) | Änderung durch das MaMoG 2019: Benutzung als Unternehmensbezeichnung ausdrücklich Verletzungshandlung ([§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html)); vergleichende Werbung (Nr. 7)
+• Transit — MarkenRL: Art. 10 Abs. 4 | MarkenG: [§ 14a](https://www.gesetze-im-internet.de/markeng/__14a.html) | Änderung durch das MaMoG 2019: Neu: Verbot der Durchfuhr gefälschter Ware unter zollamtlicher Überwachung
+• Vorbereitungshandlungen — MarkenRL: Art. 11 | MarkenG: [§ 14 Abs. 4](https://www.gesetze-im-internet.de/markeng/__14.html) | Änderung durch das MaMoG 2019: Erweitert um Sicherheits- und Echtheitshinweise
+• Nachschlagewerke — MarkenRL: Art. 12 | MarkenG: [§ 16](https://www.gesetze-im-internet.de/markeng/__16.html) | Änderung durch das MaMoG 2019: Unverändert
+• Agentenmarke — MarkenRL: Art. 13 | MarkenG: [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 17](https://www.gesetze-im-internet.de/markeng/__17.html) | Änderung durch das MaMoG 2019: Unverändert
+• Schranken — MarkenRL: Art. 14 | MarkenG: [§ 23](https://www.gesetze-im-internet.de/markeng/__23.html) | Änderung durch das MaMoG 2019: Namensschranke nur noch für natürliche Personen; referierende Benutzung ausdrücklich
+• Erschöpfung — MarkenRL: Art. 15 | MarkenG: [§ 24](https://www.gesetze-im-internet.de/markeng/__24.html) | Änderung durch das MaMoG 2019: Unverändert (unionsweite Erschöpfung)
+• Benutzung — MarkenRL: Art. 16 | MarkenG: [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html), §§ [115](https://www.gesetze-im-internet.de/markeng/__115.html) bis [117](https://www.gesetze-im-internet.de/markeng/__117.html) | Änderung durch das MaMoG 2019: Schonfrist beginnt mit Abschluss des Widerspruchsverfahrens ([§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html)); abweichende Form auch bei eigener Eintragung ([§ 26 Abs. 3 S. 2](https://www.gesetze-im-internet.de/markeng/__26.html))
+• Nichtbenutzungseinrede — MarkenRL: Art. 17, 44, 46 | MarkenG: [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html) | Änderung durch das MaMoG 2019: Fünfjahreszeitraum im Widerspruch bezogen auf den Anmeldetag der jüngeren Marke
+• Verfall — MarkenRL: Art. 19 bis 21 | MarkenG: [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html) | Änderung durch das MaMoG 2019: Unverändert
+• Lizenz — MarkenRL: Art. 25 | MarkenG: [§ 30](https://www.gesetze-im-internet.de/markeng/__30.html) | Änderung durch das MaMoG 2019: Unverändert
+• Kollektiv-/Gewährleistungsmarke — MarkenRL: Art. 27 bis 36 | MarkenG: §§ [97](https://www.gesetze-im-internet.de/markeng/__97.html) bis [106](https://www.gesetze-im-internet.de/markeng/__106.html), §§ [106a](https://www.gesetze-im-internet.de/markeng/__106a.html) bis [106h](https://www.gesetze-im-internet.de/markeng/__106h.html) | Änderung durch das MaMoG 2019: Neu: Gewährleistungsmarke ([§§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html) ff.)
+• Anmeldung / Klassifizierung — MarkenRL: Art. 37 bis 42 | MarkenG: §§ [32](https://www.gesetze-im-internet.de/markeng/__32.html), [33](https://www.gesetze-im-internet.de/markeng/__33.html), [40](https://www.gesetze-im-internet.de/markeng/__40.html), [46](https://www.gesetze-im-internet.de/markeng/__46.html) | Änderung durch das MaMoG 2019: Klarheit des Verzeichnisses, Klassengebühren
+• Widerspruch — MarkenRL: Art. 43 | MarkenG: [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html) | Änderung durch das MaMoG 2019: Widerspruch aus mehreren Rechten; Cooling-off ([§ 42 Abs. 4](https://www.gesetze-im-internet.de/markeng/__42.html))
+• Verfall/Nichtigkeit vor dem Amt — MarkenRL: Art. 45 | MarkenG: [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54](https://www.gesetze-im-internet.de/markeng/__54.html) | Änderung durch das MaMoG 2019: Neu seit 1.5.2020: vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA; [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) nur noch für Verfall und relative Nichtigkeit
+• Wirkungen — MarkenRL: Art. 47 | MarkenG: [§ 52](https://www.gesetze-im-internet.de/markeng/__52.html) | Änderung durch das MaMoG 2019: Unverändert (Verfall ex nunc, Nichtigkeit ex tunc)
+• Schutzdauer — MarkenRL: Art. 48, 49 | MarkenG: [§ 47](https://www.gesetze-im-internet.de/markeng/__47.html) | Änderung durch das MaMoG 2019: Fristen laufen tagesgenau ab dem Anmeldetag
+
+Merksatz: MarkenRL = Bauplan, MarkenG = Gebäude: Bei jeder Norm des MarkenG lohnt der Blick auf den zugehörigen Artikel, weil der EuGH das letzte Wort zur Auslegung hat.
 
 *Tags: Abgrenzung*
 
@@ -3076,7 +3363,7 @@ Eine dreidimensionale Warenformmarke (Ferrero-Rocher-Praline) besitzt nur dann o
 
 **A:** Die quadratische Ritter-Sport-Verpackung bleibt als Formmarke geschützt. Das Schutzhindernis der wertverleihenden Form ([§ 3 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)) greift nicht, wenn die Kaufentscheidung nicht durch die ästhetische Qualität der Form, sondern durch andere Merkmale (hier: Herkunftshinweis, Praktikabilität) bestimmt wird. Die Form ist auch nicht durch die Art der Ware selbst bedingt ([§ 3 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__3.html)).
 
-Normen: [§ 3 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 3 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 3 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
 Fundstelle: GRUR 2020, 1089
 
 *Tags: Rechtsprechung, BGH, Formmarke, § 3 Abs. 2*
@@ -3151,7 +3438,7 @@ Eine technische Wirkung i.S.d. [§ 3 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-i
 
 **A:** Ein Zeichen, das ausschließlich aus der Form einer Ware besteht, ist nicht eintragungsfähig, wenn die wesentlichen funktionellen Merkmale nur der technischen Wirkung zuzuschreiben sind. Der Ausschluss kann nicht durch den Nachweis überwunden werden, dass es andere Formen gibt, mit denen dieselbe Wirkung erzielt werden kann; auch nicht durch Verkehrsdurchsetzung.
 
-Normen: [§ 3 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)
 Fundstelle: GRUR 2002, 804
 
 *Tags: Rechtsprechung, EuGH, Formmarke, technische Wirkung*
@@ -3176,7 +3463,7 @@ Ein Zeichen, das ausschließlich aus der Form einer Ware besteht, ist nicht eint
 
 **A:** Eine abstrakte Farbe ohne räumliche Begrenzung kann markenfähig sein, wenn sie durch einen international anerkannten Farbcode eindeutig bestimmt ist. Originäre Unterscheidungskraft kommt einer Farbe nur unter außergewöhnlichen Umständen zu; regelmäßig ist Verkehrsdurchsetzung nötig. Das Allgemeininteresse an der Verfügbarkeit von Farben ist zu berücksichtigen.
 
-Normen: [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2003, 604
 
 *Tags: Rechtsprechung, EuGH, Farbmarke*
@@ -3301,7 +3588,7 @@ Im Anschluss an EuGH C-541/18: Bei der Prüfung der Unterscheidungskraft sind al
 
 **A:** Die Unterscheidungskraft eines Zeichens ist unter Berücksichtigung aller relevanten Tatsachen und Umstände, einschließlich sämtlicher wahrscheinlicher Verwendungsarten der angemeldeten Marke, zu prüfen. Praktisch nicht bedeutsame Verwendungsarten bleiben außer Betracht.
 
-Normen: [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2019, 1194
 
 *Tags: Rechtsprechung, EuGH, Unterscheidungskraft*
@@ -3476,7 +3763,7 @@ Fundstelle: GRUR 2001, 1151
 
 **A:** Ein Freihaltebedürfnis nach [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html) setzt nicht voraus, dass das Zeichen im Anmeldezeitpunkt bereits beschreibend verwendet wird; es genügt, dass eine beschreibende Verwendung vernünftigerweise für die Zukunft zu erwarten ist. 'Black Friday' wurde für Elektronikwaren und Werbedienstleistungen teilweise gelöscht.
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2021, 1195
 
 *Tags: Rechtsprechung, BGH, Freihaltebedürfnis, Löschung*
@@ -3501,7 +3788,7 @@ Ein Freihaltebedürfnis nach [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-
 
 **A:** Geographische Herkunftsangaben sind freizuhalten, wenn sie gegenwärtig oder vernünftigerweise in Zukunft mit den Waren in Verbindung gebracht werden können. Für die Verkehrsdurchsetzung gibt es keine feste Prozentzahl; maßgeblich ist, ob ein erheblicher Teil der beteiligten Verkehrskreise die Ware aufgrund der Marke einem bestimmten Unternehmen zuordnet (Gesamtbetrachtung: Marktanteil, Intensität, Dauer, Werbeaufwand, Umfragen).
 
-Normen: [§ 8 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 1999, 723
 
 *Tags: Rechtsprechung, EuGH, Freihaltebedürfnis, Verkehrsdurchsetzung*
@@ -3726,7 +4013,7 @@ Die Anmeldung einer Marke, die ein Dritter (hier: ausländischer Vorbenutzer) be
 
 **A:** Der Markeninhaber kann eine Benutzung verbieten, die die Funktionen der Marke, insbesondere die Herkunftsfunktion, beeinträchtigt oder beeinträchtigen kann. Auch die Verwendung als 'Fanartikel' (Zeichen der Verbundenheit) kann rechtsverletzend sein, wenn der Eindruck einer Verbindung zum Markeninhaber entsteht.
 
-Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2003, 55
 
 *Tags: Rechtsprechung, EuGH, Markenmäßige Benutzung, Funktionenlehre*
@@ -3751,7 +4038,7 @@ Der Markeninhaber kann eine Benutzung verbieten, die die Funktionen der Marke, i
 
 **A:** Geschützt sind neben der Herkunftsfunktion auch Qualitäts-, Kommunikations-, Investitions- und Werbefunktion. Bei Doppelidentität genügt die Beeinträchtigung einer dieser Funktionen. Unlautere Ausnutzung der Wertschätzung (Duftvergleichslisten) liegt vor, wenn sich der Dritte in den Bereich der Sogwirkung der bekannten Marke begibt, um von ihrer Anziehungskraft ohne eigene Anstrengung zu profitieren.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2009, 756
 
 *Tags: Rechtsprechung, EuGH, Funktionenlehre, Bekanntheitsschutz*
@@ -3876,7 +4163,7 @@ Eine Markenverletzung setzt eine markenmäßige Benutzung voraus, d.h. das Zeich
 
 **A:** Die bloße Benutzung einer Firma oder Geschäftsbezeichnung ist keine Benutzung 'für Waren oder Dienstleistungen'. Anders, wenn das Zeichen so benutzt wird, dass eine Verbindung zwischen der Firma und den vertriebenen Waren hergestellt wird und dadurch die Herkunftsfunktion beeinträchtigt werden kann.
 
-Normen: [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2007, 971
 
 *Tags: Rechtsprechung, EuGH, Firmenmäßiger Gebrauch*
@@ -3901,7 +4188,7 @@ Die bloße Benutzung einer Firma oder Geschäftsbezeichnung ist keine Benutzung 
 
 **A:** Die Buchung einer fremden Marke als AdWords-Keyword ist eine Benutzung im geschäftlichen Verkehr. Die Herkunftsfunktion wird beeinträchtigt, wenn aus der Anzeige für einen normal informierten Internetnutzer nicht oder nur schwer zu erkennen ist, ob die beworbenen Waren vom Markeninhaber, einem verbundenen Unternehmen oder einem Dritten stammen. Google selbst benutzt die Marke nicht.
 
-Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2010, 445
 
 *Tags: Rechtsprechung, EuGH, Keyword-Advertising*
@@ -4076,7 +4363,7 @@ Wird ein mit der Marke des Originalherstellers gekennzeichneter Papierhandtuchsp
 
 **A:** Die Verwechslungsgefahr ist umfassend unter Berücksichtigung aller Umstände des Einzelfalls zu beurteilen. Maßgeblich ist der Gesamteindruck der Zeichen beim Durchschnittsverbraucher; die bloße gedankliche Verbindung genügt nicht. Je höher die Kennzeichnungskraft der älteren Marke, desto größer die Verwechslungsgefahr.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 1998, 387
 
 *Tags: Rechtsprechung, EuGH, Verwechslungsgefahr*
@@ -4101,7 +4388,7 @@ Die Verwechslungsgefahr ist umfassend unter Berücksichtigung aller Umstände de
 
 **A:** Wechselwirkungslehre: Ein geringerer Grad der Warenähnlichkeit kann durch einen höheren Grad der Zeichenähnlichkeit oder eine erhöhte Kennzeichnungskraft ausgeglichen werden und umgekehrt. Bei der Warenähnlichkeit sind Art, Verwendungszweck, Nutzung, Eigenart als konkurrierende oder ergänzende Waren zu berücksichtigen. Verwechslungsgefahr umfasst auch die Annahme wirtschaftlicher Verbindungen.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 1998, 922
 
 *Tags: Rechtsprechung, EuGH, Verwechslungsgefahr, Warenähnlichkeit*
@@ -4126,7 +4413,7 @@ Wechselwirkungslehre: Ein geringerer Grad der Warenähnlichkeit kann durch einen
 
 **A:** Maßstab ist der durchschnittlich informierte, aufmerksame und verständige Durchschnittsverbraucher, der die Marken selten gleichzeitig wahrnimmt und sich auf sein unvollkommenes Erinnerungsbild verlässt. Die Kennzeichnungskraft ist anhand aller Umstände (Marktanteil, Intensität, Dauer, Werbeaufwand, Bekanntheitsgrad) zu bestimmen; feste Prozentsätze gibt es nicht.
 
-Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR Int. 1999, 734
 
 *Tags: Rechtsprechung, EuGH, Verwechslungsgefahr, Durchschnittsverbraucher*
@@ -4151,7 +4438,7 @@ Maßstab ist der durchschnittlich informierte, aufmerksame und verständige Durc
 
 **A:** Verwechslungsgefahr kann auch dann bestehen, wenn eine ältere Marke ('LIFE') in ein zusammengesetztes jüngeres Zeichen ('THOMSON LIFE') übernommen wird und dort eine selbständig kennzeichnende Stellung behält, ohne den Gesamteindruck zu dominieren. Der Verkehr kann annehmen, die Waren stammten aus wirtschaftlich verbundenen Unternehmen.
 
-Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2005, 1042
 
 *Tags: Rechtsprechung, EuGH, Verwechslungsgefahr, Zusammengesetzte Zeichen*
@@ -4476,7 +4763,7 @@ Die Ähnlichkeit von Buchstabenfolgen ist nach Klang, Schriftbild und Sinngehalt
 
 **A:** Eine Marke ist bekannt, wenn sie einem bedeutenden Teil des Publikums bekannt ist, das von den durch die Marke erfassten Waren oder Dienstleistungen betroffen ist. Feste Prozentsätze gibt es nicht; zu berücksichtigen sind Marktanteil, Intensität, geographische Ausdehnung, Dauer der Benutzung und Werbeaufwand. Bekanntheit in einem wesentlichen Teil des Gebiets genügt.
 
-Normen: [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR Int. 2000, 73
 
 *Tags: Rechtsprechung, EuGH, Bekanntheitsschutz*
@@ -4501,7 +4788,7 @@ Eine Marke ist bekannt, wenn sie einem bedeutenden Teil des Publikums bekannt is
 
 **A:** Die gedankliche Verknüpfung zwischen den Zeichen ist notwendige, aber nicht hinreichende Voraussetzung des Bekanntheitsschutzes. Eine Beeinträchtigung der Unterscheidungskraft (Verwässerung) erfordert den Nachweis einer Änderung des wirtschaftlichen Verhaltens des Durchschnittsverbrauchers oder die ernsthafte Gefahr einer solchen Änderung.
 
-Normen: [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2009, 56
 
 *Tags: Rechtsprechung, EuGH, Bekanntheitsschutz, Verwässerung*
@@ -4551,7 +4838,7 @@ Die Verwendung der bekannten Milka-Marken (Farbe Lila, 'Milka') auf einer satiri
 
 **A:** Die Parodie einer bekannten Marke (springender Pudel statt Puma-Raubkatze) nutzt deren Unterscheidungskraft in unlauterer Weise aus, wenn der Verkehr die Zeichen gedanklich verknüpft und der Parodist von der Aufmerksamkeit der bekannten Marke profitiert. Kunst- und Meinungsfreiheit rechtfertigen nicht die Eintragung als eigene Marke; der Inhaber der bekannten Marke kann die Löschung verlangen.
 
-Normen: [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 2015, 1114
 
 *Tags: Rechtsprechung, BGH, Bekanntheitsschutz, Markenparodie*
@@ -4601,7 +4888,7 @@ Der Bekanntheitsschutz gilt auch bei Waren-/Dienstleistungsidentität oder -ähn
 
 **A:** Die Verwendung des bekannten ÖKO-TEST-Siegels in der Produktwerbung ohne Lizenz nutzt die Wertschätzung der bekannten Marke unlauter aus, auch wenn das Testsiegel für Dienstleistungen (Verbraucherinformation) und nicht für die beworbenen Waren eingetragen ist (im Anschluss an EuGH C-690/17).
 
-Normen: [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 28 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2020, 405
 
 *Tags: Rechtsprechung, BGH, Bekanntheitsschutz, Testsiegel*
@@ -4651,7 +4938,7 @@ Zur Beeinträchtigung/Ausnutzung der bekannten Marke VOLKSWAGEN durch 'Volks.Ins
 
 **A:** Die Verwendung der bekannten Marke 'TÜV' durch einen Wettbewerber ('TÜV-Service' ohne Berechtigung) nutzt die Unterscheidungskraft und Wertschätzung in unlauterer Weise aus; eine Rechtfertigung als beschreibende Angabe ([§ 23 Nr. 2](https://www.gesetze-im-internet.de/markeng/__23.html)) scheidet aus, wenn 'TÜV' nicht generisch für Prüfdienstleistungen geworden ist.
 
-Normen: [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2011, 1043
 
 *Tags: Rechtsprechung, BGH, Bekanntheitsschutz*
@@ -4676,7 +4963,7 @@ Die Verwendung der bekannten Marke 'TÜV' durch einen Wettbewerber ('TÜV-Servic
 
 **A:** Die Benutzung einer fremden Marke als Bestimmungshinweis (Rasierklingen 'passend für Gillette Sensor') ist notwendig, wenn sie praktisch das einzige Mittel ist, dem Publikum eine verständliche und vollständige Information über die Bestimmung zu geben. Sie muss den anständigen Gepflogenheiten entsprechen: keine Verbindung suggerieren, Wertschätzung nicht unlauter ausnutzen, Marke nicht herabsetzen, kein Imitat.
 
-Normen: [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2005, 509
 
 *Tags: Rechtsprechung, EuGH, § 23, Ersatzteil*
@@ -4701,7 +4988,7 @@ Die Benutzung einer fremden Marke als Bestimmungshinweis (Rasierklingen 'passend
 
 **A:** Die Angabe 'Filtertüte passend für Vorwerk Kobold 130' ist als notwendiger Bestimmungshinweis zulässig, wenn der Zusatz 'passend für' deutlich hervorgehoben ist und die eigene Marke des Anbieters im Vordergrund steht, so dass keine Verbindung zum Markeninhaber suggeriert wird.
 
-Normen: [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2005, 423
 
 *Tags: Rechtsprechung, BGH, § 23, Ersatzteil*
@@ -4726,7 +5013,7 @@ Die Angabe 'Filtertüte passend für Vorwerk Kobold 130' ist als notwendiger Bes
 
 **A:** Ein Kühlergrill mit einer Aufnahme, die die Form des Audi-Emblems (Ringe) hat, benutzt die Marke markenmäßig. Die Schranke des [§ 23 Nr. 3](https://www.gesetze-im-internet.de/markeng/__23.html) greift nicht, weil die Nachbildung des Emblems zur Angabe der Bestimmung als Ersatzteil nicht notwendig ist – eine neutrale Halterung genügt.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2019, 953
 
 *Tags: Rechtsprechung, BGH, § 23, Ersatzteil*
@@ -4776,7 +5063,7 @@ Die Verwendung der Wort-Bild-Marke (VW-Logo) einer Kfz-Werkstatt in der Werbung 
 
 **A:** Der Markeninhaber kann sich dem Vertrieb umgepackter Arzneimittel (Parallelimport) nicht widersetzen, wenn (1) das Umpacken zur Vermarktung im Einfuhrstaat erforderlich ist, (2) der Originalzustand nicht beeinträchtigt wird, (3) Umpacker und Hersteller angegeben sind, (4) die Aufmachung den Ruf nicht schädigt und (5) der Inhaber vorab unterrichtet wird (BMS-Kriterien).
 
-Normen: [§ 24 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
+Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
 Fundstelle: GRUR Int. 1996, 1144
 
 *Tags: Rechtsprechung, EuGH, Erschöpfung, Parallelimport*
@@ -4801,7 +5088,7 @@ Der Markeninhaber kann sich dem Vertrieb umgepackter Arzneimittel (Parallelimpor
 
 **A:** Grundsätzlich trägt der Dritte, der sich auf Erschöpfung beruft, die Beweislast für das Inverkehrbringen im EWR mit Zustimmung des Inhabers. Bei einem ausschließlichen Vertriebssystem und tatsächlicher Gefahr der Marktabschottung muss jedoch der Markeninhaber beweisen, dass die Ware außerhalb des EWR in Verkehr gebracht wurde.
 
-Normen: [§ 24 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
+Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
 Fundstelle: GRUR 2003, 512
 
 *Tags: Rechtsprechung, EuGH, Erschöpfung, Beweislast*
@@ -4876,7 +5163,7 @@ Behauptet der Beklagte, es handle sich um Originalware, für die Erschöpfung ei
 
 **A:** Stammt die Ware von einem ehemaligen Lizenznehmer des Markeninhabers im EWR, gilt: Das Inverkehrbringen durch einen Lizenznehmer unter Verstoß gegen den Lizenzvertrag ([§ 30 Abs. 2](https://www.gesetze-im-internet.de/markeng/__30.html)) erfolgt ohne Zustimmung; Erschöpfung tritt nicht ein. Keine Beweislastumkehr ohne Marktabschottungsgefahr.
 
-Normen: [§ 24 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
+Normen: [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
 Fundstelle: GRUR 2012, 630
 
 *Tags: Rechtsprechung, BGH, Erschöpfung, Lizenz*
@@ -4901,7 +5188,7 @@ Stammt die Ware von einem ehemaligen Lizenznehmer des Markeninhabers im EWR, gil
 
 **A:** Nach Erschöpfung darf der Wiederverkäufer die Marke auch in seiner Werbung benutzen. Ein berechtigter Grund i.S.d. [§ 24 Abs. 2](https://www.gesetze-im-internet.de/markeng/__24.html) liegt nur vor, wenn die Werbung den Ruf der Marke (Luxusimage) erheblich schädigt – Abwägung zwischen dem berechtigten Interesse des Inhabers und dem Interesse des Händlers an branchenüblicher Werbung.
 
-Normen: [§ 24 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
+Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
 Fundstelle: GRUR Int. 1998, 140
 
 *Tags: Rechtsprechung, EuGH, Erschöpfung, Werbung*
@@ -4926,7 +5213,7 @@ Nach Erschöpfung darf der Wiederverkäufer die Marke auch in seiner Werbung ben
 
 **A:** Ernsthafte Benutzung liegt vor, wenn die Marke entsprechend ihrer Hauptfunktion benutzt wird, um für die Waren einen Absatzmarkt zu erschließen oder zu sichern; rein symbolische Benutzung zur Rechtserhaltung genügt nicht. Auch die Benutzung für Ersatzteile oder im Rahmen des Kundendienstes kann ausreichen.
 
-Normen: [§ 26 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 26 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 Fundstelle: GRUR 2003, 425
 
 *Tags: Rechtsprechung, EuGH, Benutzungszwang*
@@ -4951,7 +5238,7 @@ Ernsthafte Benutzung liegt vor, wenn die Marke entsprechend ihrer Hauptfunktion 
 
 **A:** Ernsthafte Benutzung setzt keinen Mindestumfang voraus; entscheidend ist, ob die Benutzung wirtschaftlich sinnvoll ist, um Marktanteile zu gewinnen oder zu halten. Bei einer Wortmarke reicht die Benutzung auf Etiketten und in Katalogen mit tatsächlichem Absatz; die Beweislast trägt im Verletzungsprozess der Markeninhaber, wenn die Einrede erhoben wird.
 
-Normen: [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 Abs. 1](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 17 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 Abs. 1](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 Fundstelle: GRUR 2013, 925
 
 *Tags: Rechtsprechung, BGH, Benutzungszwang*
@@ -5001,7 +5288,7 @@ Einer Marke ('LOTTO' für Lotteriedienstleistungen) kann die rechtserhaltende Be
 
 **A:** Wird eine Wortmarke graphisch gestaltet oder mit Bildelementen ergänzt, ist zu prüfen, ob die Zusätze einen Bezug zur Herkunftsfunktion haben oder nur allgemeine Sachhinweise/Werbemittel sind; letztere verändern den kennzeichnenden Charakter nicht ([§ 26 Abs. 3](https://www.gesetze-im-internet.de/markeng/__26.html)).
 
-Normen: [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 Fundstelle: GRUR 2014, 662
 
 *Tags: Rechtsprechung, BGH, Benutzungszwang, Abweichende Form*
@@ -5026,7 +5313,7 @@ Wird eine Wortmarke graphisch gestaltet oder mit Bildelementen ergänzt, ist zu 
 
 **A:** Die Benutzung 'Dorzo-Vision' für die Marke 'Dorzo' ist nicht rechtserhaltend, wenn der Verkehr die Kombination als einheitliches Zeichen wahrnimmt und 'Dorzo' nicht mehr als eigenständigen Herkunftshinweis erkennt: Der kennzeichnende Charakter ist dann verändert.
 
-Normen: [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 Fundstelle: GRUR 2017, 1043
 
 *Tags: Rechtsprechung, BGH, Benutzungszwang, Abweichende Form*
@@ -5276,7 +5563,7 @@ Für die Verwechslungsgefahr bei Unternehmenskennzeichen kommt es auf die Branch
 
 **A:** Verwirkung nach [§ 21 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html) i.V.m. [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html): Bei wiederholten, gleichartigen Verletzungshandlungen entsteht mit jeder Handlung ein neuer Unterlassungsanspruch, so dass Verwirkung nur bei Duldung des konkreten Zustands in Betracht kommt. Aufgabe der Vorrangthese: Lauterkeitsrechtliche Ansprüche ([§ 5 Abs. 2 UWG](https://www.gesetze-im-internet.de/uwg_2004/__5.html)) bestehen neben markenrechtlichen; Wertungswidersprüche sind zu vermeiden.
 
-Normen: [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
+Normen: [Art. 9 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
 Fundstelle: GRUR 2013, 1161
 
 *Tags: Rechtsprechung, BGH, Verwirkung, UWG*
@@ -5401,7 +5688,7 @@ Im Löschungsverfahren wegen absoluter Schutzhindernisse ist auf den Anmeldezeit
 
 **A:** Keyword-Werbung mit einer bekannten Marke beeinträchtigt die Investitionsfunktion, wenn sie die Nutzung der Marke zum Erwerb/zur Wahrung eines Rufs wesentlich stört. Sie ist als 'Trittbrettfahren' unlauter, wenn Nachahmungen angeboten werden; nicht aber, wenn lediglich eine Alternative zum Markenprodukt angeboten wird (gesunder Wettbewerb).
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2011, 1124
 
 *Tags: Rechtsprechung, EuGH, Keyword-Advertising, Bekanntheitsschutz*
@@ -5426,7 +5713,7 @@ Keyword-Werbung mit einer bekannten Marke beeinträchtigt die Investitionsfunkti
 
 **A:** Die Anbringung eines für Kraftfahrzeuge und Spielzeug eingetragenen Zeichens auf Modellautos ist nur dann untersagbar, wenn sie die Funktionen der Marke als für Spielzeug eingetragene Marke beeinträchtigt. Für Kraftfahrzeuge liegt keine Benutzung 'für Waren' vor, die identisch oder ähnlich sind.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2007, 318
 
 *Tags: Rechtsprechung, EuGH, Markenmäßige Benutzung*
@@ -5451,7 +5738,7 @@ Die Anbringung eines für Kraftfahrzeuge und Spielzeug eingetragenen Zeichens au
 
 **A:** Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn sie einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist. Das Gebiet eines einzigen Mitgliedstaats (hier: Österreich) kann ein wesentlicher Teil der Union sein.
 
-Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 2009, 1158
 
 *Tags: Rechtsprechung, EuGH, Unionsmarke, Bekanntheitsschutz*
@@ -5476,7 +5763,7 @@ Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn si
 
 **A:** Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgegangen, genügt für die Bekanntheit 'in der Union' die Bekanntheit in einem wesentlichen Teil der Union, der ein einziger Mitgliedstaat sein kann – auch wenn dies nicht der Mitgliedstaat der jüngeren Marke ist. Die Beeinträchtigung/Ausnutzung im Inland setzt aber voraus, dass ein wirtschaftlich nicht unbedeutender Teil des inländischen Publikums die Unionsmarke kennt und die Zeichen gedanklich verknüpft.
 
-Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 2015, 1002
 
 *Tags: Rechtsprechung, EuGH, Unionsmarke, Bekanntheitsschutz*
@@ -5499,9 +5786,9 @@ Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgega
 
 **F:** EuGH „Leno Merken/Hagelkruis (ONEL/OMEL)“ (C-149/11, 2012) – Kernaussage?
 
-**A:** Für die ernsthafte Benutzung einer Unionsmarke (Art. 18 UMV) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.
+**A:** Für die ernsthafte Benutzung einer Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.
 
-Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 Fundstelle: GRUR 2013, 182
 
 *Tags: Rechtsprechung, EuGH, Unionsmarke, Benutzungszwang*
@@ -5512,7 +5799,7 @@ Fundstelle: GRUR 2013, 182
 
 **F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
 
-Für die ernsthafte Benutzung einer Unionsmarke (Art. 18 UMV) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.
+Für die ernsthafte Benutzung einer Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.
 
 **A:** EuGH „Leno Merken/Hagelkruis (ONEL/OMEL)“ – C-149/11 (2012), GRUR 2013, 182
 
@@ -5584,7 +5871,7 @@ Nach diesem Gesetz werden geschützt:
 
 3. geographische Herkunftsangaben.
 
-Zugehörige Begriffe: Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Marke
+Zugehörige Begriffe: Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Marke, Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)
 
 *Tags: Gesetz*
 
@@ -5725,7 +6012,7 @@ Die Eintragung einer Marke kann gelöscht werden,
  besteht, einschließlich der Gefahr, daß die Marken gedanklich
  miteinander  …
 
-Zugehörige Begriffe: Bekannte Marke ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)), Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), Art. 9 Abs. 2 lit. c UMV), Doppelidentität / Identitätsschutz ([§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html)), Kennzeichnungskraft, Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html)), Verwechslungsgefahr ([§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html)), Waren-/Dienstleistungsähnlichkeit
+Zugehörige Begriffe: Bekannte Marke ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)), Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), [Art. 9 Abs. 2 lit. c UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)), Doppelidentität / Identitätsschutz ([§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html)), Kennzeichnungskraft, Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html)), Verwechslungsgefahr ([§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html)), Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation ([§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html), [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -5757,7 +6044,7 @@ Vertreter eingetragen worden ist, es sei denn, es liegt ein
 Rechtfertigungsgrund für die Handlungsweise des Agenten oder des
 Vertreters vor.
 
-Zugehörige Begriffe: Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html))
+Zugehörige Begriffe: Agentenmarke (§§ [11](https://www.gesetze-im-internet.de/markeng/__11.html), [17](https://www.gesetze-im-internet.de/markeng/__17.html) MarkenG, [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)), Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html))
 
 *Tags: Gesetz*
 
@@ -5809,6 +6096,27 @@ Zugehörige Begriffe: Aktivlegitimation / Rechtsinhaberschaft, Ausnutzung der Un
 
 ---
 
+**F:** Was regelt [§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html)?
+
+**A:** Waren unter zollamtlicher Überwachung
+
+Der Inhaber einer Marke oder einer geschäftlichen Bezeichnung ist
+berechtigt, Dritten zu untersagen, im geschäftlichen Verkehr Waren in
+das Gebiet der Bundesrepublik Deutschland zu verbringen, ohne die
+Waren dort in den zollrechtlich freien Verkehr zu überführen, wenn die
+Waren, einschließlich ihrer Verpackung, aus Drittstaaten stammen und
+ohne Zustimmung eine Marke oder eine geschäftliche Bezeichnung
+aufweisen, die mit der für derartige Waren eingetragenen Marke oder
+geschäftlichen Bezeichnung identisch ist oder in ihren wesentlichen
+Aspekten nicht von dieser Marke oder dieser geschäftlichen Bezeichnung
+zu unterscheiden ist.
+
+Zugehörige Begriffe: Transitverbot ([§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html), [Art. 10 Abs. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Gesetz*
+
+---
+
 **F:** Was regelt [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)?
 
 **A:** Ausschließliches Recht des Inhabers einer geschäftlichen Bezeichnung, Unterlassungsanspruch, Schadensersatzanspruch
@@ -5817,6 +6125,40 @@ Der Erwerb des Schutzes einer geschäftlichen Bezeichnung gewährt
 ihrem Inhaber ein ausschließliches Recht.
 
 Zugehörige Begriffe: Bekannte Marke ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)), Benutzung im geschäftlichen Verkehr, Branchennähe, Domainname als Kennzeichen, Firmenmäßiger Gebrauch, Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Recht der Gleichnamigen, Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html)?
+
+**A:** Wiedergabe einer eingetragenen Marke in Nachschlagewerken
+
+Erweckt die Wiedergabe einer eingetragenen Marke in einem
+Wörterbuch, einem Lexikon oder einem ähnlichen Nachschlagewerk den
+Eindruck, daß es sich bei der Marke um eine Gattungsbezeichnung für
+die Waren oder Dienstleistungen handelt, für die die Marke eingetragen
+ist, kann der Inhaber der Marke vom Verleger des Werkes verlangen, daß
+der Wiedergabe der Marke ein Hinweis beigefügt wird, daß es sich um
+eine eingetragene Marke handelt.
+
+Zugehörige Begriffe: Wiedergabe in Nachschlagewerken ([§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 17 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)?
+
+**A:** Ansprüche gegen Agenten oder Vertreter
+
+Ist eine Marke entgegen [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html) für den Agenten oder Vertreter des
+Inhabers der Marke ohne dessen Zustimmung angemeldet oder eingetragen
+worden, so ist der Inhaber der Marke berechtigt, von dem Agenten oder
+Vertreter die Übertragung des durch die Anmeldung oder Eintragung der
+Marke begründeten Rechts zu verlangen.
+
+Zugehörige Begriffe: Agentenmarke (§§ [11](https://www.gesetze-im-internet.de/markeng/__11.html), [17](https://www.gesetze-im-internet.de/markeng/__17.html) MarkenG, [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -6062,7 +6404,7 @@ Waren oder Dienstleistungen, für die sie eingetragen ist, im Inland
 ernsthaft benutzt worden sein, es sei denn, daß berechtigte Gründe für
 die Nichtbenutzung vorliegen.
 
-Zugehörige Begriffe: Benutzung in abweichender Form ([§ 26 Abs. 3](https://www.gesetze-im-internet.de/markeng/__26.html)), Benutzungsschonfrist, Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117), Ernsthafte Benutzung, Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html))
+Zugehörige Begriffe: Benutzung in abweichender Form ([§ 26 Abs. 3](https://www.gesetze-im-internet.de/markeng/__26.html)), Benutzungsschonfrist, Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117), Ernsthafte Benutzung, Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html))
 
 *Tags: Gesetz*
 
@@ -6140,7 +6482,7 @@ Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für
 Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist,
 Markenanmeldungen entgegenzunehmen.
 
-Zugehörige Begriffe: Darstellbarkeit im Register ([§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html))
+Zugehörige Begriffe: Darstellbarkeit im Register ([§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html)), Waren-/Dienstleistungsverzeichnis und Nizza-Klassifikation ([§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html), [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -6282,7 +6624,7 @@ durch eine eidesstattliche Versicherung erbracht werden. Bei der
 Entscheidung werden nur Waren und Dienstleistungen berücksichtigt, für
 die die Benutzung nachgewiesen worden ist.
 
-Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Nichtbenutzungseinrede ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Nichtbenutzungseinrede ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
 
 *Tags: Gesetz*
 
@@ -6294,6 +6636,8 @@ Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, [§ 125
 
 Die Schutzdauer einer eingetragenen Marke beträgt zehn Jahre,
 gerechnet vom Tag der Anmeldung an ([§ 33 Absatz 1](https://www.gesetze-im-internet.de/markeng/__33.html)).
+
+Zugehörige Begriffe: Schutzdauer und Verlängerung ([§ 47 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html), [Art. 48, 49 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -6327,7 +6671,7 @@ Zeitraum von fünf Jahren der Nichtbenutzung innerhalb von drei Monaten
 vor der Stellung des Antrags auf Erklärung des Verfalls begonnen oder
 wied …
 
-Zugehörige Begriffe: Benutzungsschonfrist, Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)), Täuschungseignung ([§ 8 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__8.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Üblich gewordene Bezeichnungen ([§ 8 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__8.html))
+Zugehörige Begriffe: Benutzungsschonfrist, Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)), Täuschungseignung ([§ 8 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__8.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Wiedergabe in Nachschlagewerken ([§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)), Üblich gewordene Bezeichnungen ([§ 8 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__8.html))
 
 *Tags: Gesetz*
 
@@ -6395,7 +6739,32 @@ oder rechtskräftiges Urteil entschieden wurde. Dies gilt auch, wenn
 [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) rechtshängig ist. [§ 325 Absatz 1](https://www.gesetze-im-internet.de/markeng/__325.html) der Zivilprozessordnung gilt
 entsprechend. Werden zwisch …
 
-Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html))
+Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 54 MarkenG](https://www.gesetze-im-internet.de/markeng/__54.html)?
+
+**A:** Beitritt zum Verfalls- und Nichtigkeitsverfahren
+
+Ein Dritter kann einem Verfalls- oder Nichtigkeitsverfahren
+beitreten, wenn über den Antrag auf Erklärung des Verfalls oder der
+Nichtigkeit noch keine unanfechtbare Entscheidung getroffen wurde und
+er glaubhaft machen kann, dass
+
+1. gegen ihn ein Verfahren wegen Verletzung derselben eingetragenen Marke
+ anhängig ist oder
+
+2. er aufgefordert wurde, eine behauptete Verletzung derselben
+ eingetragenen Marke zu unterlassen.
+
+Der Beitritt kann innerhalb von drei Monaten ab Einleitung des
+Verfahrens nach Satz 1 Nummer 1 oder ab Zugang der
+Unterlassungsaufforderung nach Satz 1 Nummer 2 beantragt werden.
+
+Zugehörige Begriffe: Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -6418,7 +6787,7 @@ Parteien
 
 [§ 325 Absatz 1](https://www.gesetze-im-internet.de/markeng/__325.html) der Zivilprozessordnung gilt entsprechend.
 
-Zugehörige Begriffe: Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html))
+Zugehörige Begriffe: Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -6525,6 +6894,17 @@ Gewährleistungsmarke muss bei der Anmeldung als solche bezeichnet
 werden.
 
 Zugehörige Begriffe: Kollektivmarke und Gewährleistungsmarke ([§§ 97](https://www.gesetze-im-internet.de/markeng/__97.html) ff., 106a ff.)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 106d MarkenG](https://www.gesetze-im-internet.de/markeng/__106d.html)?
+
+**A:** Gewährleistungsmarkensatzung
+
+Der Anmeldung der Gewährleistungsmarke muss eine
+Gewährleistungsmarkensatzung beigefügt sein.
 
 *Tags: Gesetz*
 
@@ -6704,7 +7084,7 @@ Nummern 3 bis 6 entsprechend wie folgt anzuwenden:
  angemeldete oder eingetragene Unionsmarken mit älterem Zeitrang den
  nach diesem Gesetz angemeldeten oder eingetragenen Ma …
 
-Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), Art. 9 Abs. 2 lit. c UMV), Ernsthafte Benutzung der Unionsmarke (Art. 18 UMV, [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Unionsmarke (UMV) und Koexistenz
+Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), [Art. 9 Abs. 2 lit. c UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Unionsmarke (UMV) und Koexistenz
 
 *Tags: Gesetz*
 
@@ -6846,5 +7226,759 @@ den Streitwert ausschließlich zuständig.
 Zugehörige Begriffe: Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV), Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html))
 
 *Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)?
+
+**A:** Beschlagnahme bei der Verletzung von Kennzeichenrechten
+
+Waren, die widerrechtlich mit einer nach diesem Gesetz geschützten
+Marke oder geschäftlichen Bezeichnung versehen sind, unterliegen,
+soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen
+Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte
+geistigen Eigentums durch die Zollbehörden und zur Aufhebung der
+Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S.
+15), in ihrer jeweils geltenden Fassung anzuwenden ist, auf Antrag und
+gegen Sicherheitsleistung des Rechtsinhabers bei ihrer Einfuhr oder
+Ausfuhr der Beschlagnahme durch die Zollbehörde, sofern die
+Rechtsverletzung offensichtlich ist. Dies gilt für den Verkehr mit
+anderen Mitgliedstaaten der Euro …
+
+Zugehörige Begriffe: Transitverbot ([§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html), [Art. 10 Abs. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 158 MarkenG](https://www.gesetze-im-internet.de/markeng/__158.html)?
+
+**A:** Übergangsvorschriften
+
+Artikel 229 [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html) des Einführungsgesetzes zum Bürgerlichen
+Gesetzbuche findet mit der Maßgabe entsprechende Anwendung, dass [§ 20](https://www.gesetze-im-internet.de/markeng/__20.html)
+in der bis zum 1. Januar 2002 geltenden Fassung den Vorschriften des
+Bürgerlichen Gesetzbuchs über die Verjährung in der bis zum 1. Januar
+2002 geltenden Fassung gleichgestellt ist.
+
+*Tags: Gesetz*
+
+---
+
+## eunorm
+
+**F:** Was regelt [Art. 1 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Anwendungsbereich
+
+Die Richtlinie gilt für alle Individual-, Garantie-, Gewährleistungs- und Kollektivmarken für Waren oder Dienstleistungen, die in einem Mitgliedstaat oder beim Benelux-Amt eingetragen oder angemeldet sind oder mit Wirkung für einen Mitgliedstaat international registriert wurden.
+
+Umgesetzt in: [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html)
+
+Hinweis: Nicht harmonisiert sind Benutzungsmarken ([§ 4 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html)) und geschäftliche Bezeichnungen ([§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)); insoweit bleibt das nationale Recht frei.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 2 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Begriffsbestimmungen
+
+„Amt“ ist die für die Eintragung von Marken zuständige zentrale Behörde für den gewerblichen Rechtsschutz des Mitgliedstaats oder das Benelux-Amt für geistiges Eigentum.
+
+Umgesetzt in: [§ 41](https://www.gesetze-im-internet.de/markeng/__41.html), [§ 56 MarkenG](https://www.gesetze-im-internet.de/markeng/__56.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Markenformen
+
+Marken können alle Zeichen sein, insbesondere Wörter einschließlich Personennamen, Abbildungen, Buchstaben, Zahlen, Farben, die Form der Ware oder ihrer Verpackung sowie Klänge, sofern sie (a) geeignet sind, Waren oder Dienstleistungen eines Unternehmens von denen anderer zu unterscheiden, und (b) im Register so dargestellt werden können, dass Behörden und Publikum den Schutzgegenstand klar und eindeutig bestimmen können.
+
+Umgesetzt in: [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+
+Hinweis: Aufgabe des Erfordernisses der graphischen Darstellbarkeit (Sieckmann-Kriterien bleiben Maßstab). Umsetzung im MaMoG: [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html) neu gefasst; Klang-, Bewegungs-, Multimedia- und Hologrammmarken ausdrücklich zulässig.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Absolute Eintragungshindernisse oder Ungültigkeitsgründe
+
+Von der Eintragung ausgeschlossen bzw. für ungültig zu erklären sind: (a) nicht markenfähige Zeichen; (b) Marken ohne Unterscheidungskraft; (c) ausschließlich beschreibende Angaben (Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung, sonstige Merkmale); (d) im allgemeinen Sprachgebrauch oder in redlichen Verkehrsgepflogenheiten üblich gewordene Zeichen; (e) Zeichen, die ausschließlich aus der Form oder einem anderen charakteristischen Merkmal bestehen, die durch die Art der Ware bedingt, zur Erreichung einer technischen Wirkung erforderlich sind oder der …
+
+Umgesetzt in: [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+
+Hinweis: Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ ([§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)), Bösgläubigkeit als zwingender Ungültigkeitsgrund ([§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen ([§ 8 Abs. 2 Nr. 9](https://www.gesetze-im-internet.de/markeng/__8.html) bis 13 MarkenG).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Relative Eintragungshindernisse oder Ungültigkeitsgründe
+
+Ausgeschlossen oder ungültig ist eine Marke, (a) die mit einer älteren Marke identisch ist und für identische Waren angemeldet wurde, oder (b) wenn wegen Identität oder Ähnlichkeit mit der älteren Marke und der Waren für das Publikum Verwechslungsgefahr besteht, einschließlich der Gefahr gedanklicher Verbindung.
+
+Umgesetzt in: [§ 10](https://www.gesetze-im-internet.de/markeng/__10.html), [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+
+Hinweis: Der Bekanntheitsschutz im Register ist jetzt zwingend und gilt ausdrücklich auch bei identischen und ähnlichen Waren; [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html) wurde entsprechend geändert (Streichung von „nicht ähnlich“).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Nachträgliche Feststellung der Ungültigkeit oder des Verfalls einer Marke
+
+Wurde für eine Unionsmarke die Seniorität einer nationalen Marke in Anspruch genommen, auf die verzichtet wurde oder die erloschen ist, kann die Ungültigkeit oder der Verfall dieser nationalen Marke nachträglich festgestellt werden, sofern die Voraussetzungen schon im Zeitpunkt des Verzichts oder Erlöschens vorlagen; die Seniorität entfällt dann.
+
+Umgesetzt in: [§ 125c MarkenG](https://www.gesetze-im-internet.de/markeng/__125c.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 7 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Eintragungshindernisse und Ungültigkeitsgründe nur für einen Teil der Waren oder Dienstleistungen
+
+Liegt ein Hindernis nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil zurückgewiesen oder für ungültig erklärt.
+
+Umgesetzt in: [§ 37 Abs. 5](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Fehlende Unterscheidungskraft oder Bekanntheit einer älteren Marke als Hindernis für die Nichtigerklärung einer eingetragenen Marke
+
+Ein Antrag auf Nichtigerklärung aufgrund einer älteren Marke ist erfolglos, wenn er am Anmelde- oder Prioritätstag der jüngeren Marke erfolglos gewesen wäre, weil (a) die ältere Marke damals nach Art. 4 Abs. 1 lit. b, c oder d für ungültig erklärt werden konnte und noch keine Unterscheidungskraft erlangt hatte, (b) noch keine Verwechslungsgefahr bestand, weil die ältere Marke noch nicht hinreichend unterscheidungskräftig war, oder (c) die ältere Marke noch nicht bekannt war.
+
+Umgesetzt in: [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 51 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
+
+Hinweis: Maßgeblicher Zeitpunkt für Kennzeichnungskraft und Bekanntheit der älteren Marke ist der Prioritätstag der jüngeren Marke ([§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), Abs. 4 S. 2 MarkenG).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 9 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Verwirkung durch Duldung
+
+Hat der Inhaber einer älteren Marke die Benutzung einer jüngeren eingetragenen Marke fünf aufeinanderfolgende Jahre in Kenntnis geduldet, kann er weder die Nichtigkeit der jüngeren Marke geltend machen noch ihrer Benutzung widersprechen, es sei denn, die jüngere Marke wurde bösgläubig angemeldet.
+
+Umgesetzt in: [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 51 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Rechte aus der Marke
+
+Die Eintragung gewährt dem Inhaber ein ausschließliches Recht.
+
+Umgesetzt in: [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14a](https://www.gesetze-im-internet.de/markeng/__14a.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+
+Hinweis: Kern der Harmonisierung. Neu: Transitverbot ([§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html)), Benutzung als Unternehmensbezeichnung ausdrücklich als Verletzungshandlung ([§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html)), Bekanntheitsschutz zwingend und für alle Waren ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)). Die Funktionenlehre des EuGH (Herkunfts-, Werbe-, Investitionsfunktion) ist Auslegung dieses Artikels.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 11 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Recht, Vorbereitungshandlungen im Zusammenhang mit der Benutzung von Aufmachungen oder anderen Kennzeichnungsmitteln zu verbieten
+
+Besteht die Gefahr, dass Aufmachungen, Verpackungen, Etiketten, Anhänger, Sicherheits- oder Echtheitshinweise, auf denen die Marke angebracht ist, für Waren benutzt werden und dies eine Verletzung wäre, kann der Inhaber verbieten: (a) das Anbringen der Marke auf solchen Kennzeichnungsmitteln, (b) das Anbieten, Inverkehrbringen, Besitzen, Ein- oder Ausführen solcher Kennzeichnungsmittel.
+
+Umgesetzt in: [§ 14 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+
+Hinweis: Vorverlagerung des Schutzes gegen Produktpiraterie; [§ 14 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) wurde um Sicherheits- und Echtheitshinweise erweitert.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Wiedergabe von Marken in Wörterbüchern
+
+Erweckt die Wiedergabe einer Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck, es handle sich um eine Gattungsbezeichnung, muss der Verleger auf Verlangen des Inhabers unverzüglich, bei Druckwerken spätestens in der nächsten Auflage, kenntlich machen, dass es sich um eine eingetragene Marke handelt.
+
+Umgesetzt in: [§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Untersagung der Benutzung einer Marke, die für einen Agenten oder Vertreter eingetragen ist
+
+Wurde eine Marke ohne Zustimmung des Inhabers auf den Namen seines Agenten oder Vertreters eingetragen, kann der Inhaber der Benutzung widersprechen, es sei denn, der Agent rechtfertigt seine Handlung; außerdem kann er die Übertragung der Eintragung auf sich verlangen.
+
+Umgesetzt in: [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 17 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Beschränkung der Wirkungen der Marke
+
+Die Marke gewährt nicht das Recht, Dritten zu verbieten, im geschäftlichen Verkehr zu benutzen: (a) den Namen oder die Anschrift des Dritten, wenn dieser eine natürliche Person ist; (b) Zeichen ohne Unterscheidungskraft oder Angaben über Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung oder andere Merkmale; (c) die Marke zu Zwecken der Identifizierung oder zum Verweis auf Waren des Inhabers, insbesondere wenn dies als Hinweis auf die Bestimmung einer Ware als Zubehör oder Ersatzteil notwendig ist.
+
+Umgesetzt in: [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+
+Hinweis: Neu: Die Namensschranke gilt nur noch für natürliche Personen ([§ 23 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)); die referierende Benutzung („zu Zwecken der Identifizierung oder des Verweises“) ist ausdrücklich privilegiert.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Erschöpfung des Rechts aus der Marke
+
+Die Marke gewährt nicht das Recht, die Benutzung für Waren zu verbieten, die unter dieser Marke vom Inhaber oder mit seiner Zustimmung in der Union in den Verkehr gebracht worden sind.
+
+Umgesetzt in: [§ 24 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html)
+
+Hinweis: Unionsweite (EWR-weite) Erschöpfung; keine internationale Erschöpfung (EuGH Silhouette). Die Beweislastregeln (Van Doren) und die BMS-Kriterien konkretisieren Abs. 1 und 2.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Benutzung der Marke
+
+Hat der Inhaber die Marke binnen fünf Jahren nach Abschluss des Eintragungsverfahrens nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt oder die Benutzung fünf Jahre ausgesetzt, unterliegt die Marke den Beschränkungen und Sanktionen der Art. 17, 19 Abs. 1, 44 Abs. 1 und 2 sowie 46 Abs. 3 und 4, sofern keine berechtigten Gründe vorliegen.
+
+Umgesetzt in: [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 116](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+
+Hinweis: Die Schonfrist beginnt jetzt mit dem Abschluss des Widerspruchsverfahrens ([§ 26 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html) neu); Benutzung in abweichender Form ist auch dann rechtserhaltend, wenn die abweichende Form selbst eingetragen ist ([§ 26 Abs. 3 S. 2](https://www.gesetze-im-internet.de/markeng/__26.html)).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 17 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Einrede der Nichtbenutzung in Verletzungsverfahren
+
+Der Inhaber kann die Benutzung eines Zeichens nur verbieten, soweit seine Rechte zum Zeitpunkt der Klageerhebung nicht nach Art. 19 für verfallen erklärt werden könnten; auf Verlangen des Beklagten muss der Inhaber nachweisen, dass die Marke in den fünf Jahren vor Klageerhebung ernsthaft benutzt wurde oder berechtigte Gründe vorliegen, sofern die Schonfrist bei Klageerhebung abgelaufen war.
+
+Umgesetzt in: [§ 25 MarkenG](https://www.gesetze-im-internet.de/markeng/__25.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 18 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Zwischenrecht des Inhabers einer später eingetragenen Marke als Einwand in Verletzungsverfahren
+
+Der Inhaber kann die Benutzung einer später eingetragenen Marke nicht verbieten, wenn diese jüngere Marke nach Art. 8, Art. 9 Abs. 1 oder 2 oder Art. 46 Abs. 3 nicht für ungültig erklärt werden könnte.
+
+Umgesetzt in: [§ 22 MarkenG](https://www.gesetze-im-internet.de/markeng/__22.html)
+
+Hinweis: Übernahme des unionsmarkenrechtlichen Zwischenrechts ([Art. 16 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) in das nationale Recht; [§ 22 MarkenG](https://www.gesetze-im-internet.de/markeng/__22.html) wurde neu gefasst.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Nichtbenutzung als Verfallsgrund
+
+Eine Marke wird für verfallen erklärt, wenn sie innerhalb von fünf aufeinanderfolgenden Jahren nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt wurde und keine berechtigten Gründe vorliegen.
+
+Umgesetzt in: [§ 49 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Entwicklung zu einer gebräuchlichen Bezeichnung oder irreführende Angabe als Verfallsgrund
+
+Eine Marke wird für verfallen erklärt, wenn sie nach der Eintragung (a) infolge des Verhaltens oder der Untätigkeit des Inhabers zur gebräuchlichen Bezeichnung einer Ware oder Dienstleistung geworden ist, für die sie eingetragen ist, oder (b) infolge ihrer Benutzung durch den Inhaber oder mit seiner Zustimmung geeignet ist, das Publikum insbesondere über Art, Beschaffenheit oder geographische Herkunft irrezuführen.
+
+Umgesetzt in: [§ 49 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 21 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Verfall nur für einen Teil der Waren oder Dienstleistungen
+
+Liegt ein Verfallsgrund nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil für verfallen erklärt.
+
+Umgesetzt in: [§ 49 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Rechtsübergang eingetragener Marken
+
+Die Marke kann unabhängig vom Unternehmen für alle oder einen Teil der Waren übertragen werden.
+
+Umgesetzt in: [§ 27 MarkenG](https://www.gesetze-im-internet.de/markeng/__27.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 23 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Dingliche Rechte
+
+Die Marke kann unabhängig vom Unternehmen verpfändet oder Gegenstand eines sonstigen dinglichen Rechts sein.
+
+Umgesetzt in: [§ 29 MarkenG](https://www.gesetze-im-internet.de/markeng/__29.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 24 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Zwangsvollstreckung
+
+Die Marke kann Gegenstand von Maßnahmen der Zwangsvollstreckung sein.
+
+Umgesetzt in: [§ 29 MarkenG](https://www.gesetze-im-internet.de/markeng/__29.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Lizenz
+
+Die Marke kann für alle oder einen Teil der Waren und für das gesamte Gebiet oder einen Teil des Mitgliedstaats Gegenstand ausschließlicher oder nicht ausschließlicher Lizenzen sein.
+
+Umgesetzt in: [§ 30 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+
+Hinweis: Abs. 2 ist der unionsrechtliche Hintergrund des [§ 30 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html): Ein Lizenzverstoß in diesen Punkten schließt die Zustimmung und damit die Erschöpfung aus (EuGH Copad, BGH Converse II).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 26 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Anmeldung einer Marke als Gegenstand des Vermögens
+
+Die Art. 22 bis 25 gelten auch für Markenanmeldungen.
+
+Umgesetzt in: [§ 31 MarkenG](https://www.gesetze-im-internet.de/markeng/__31.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 27 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Begriffsbestimmungen
+
+„Garantie- oder Gewährleistungsmarke“: Marke, die geeignet ist, Waren oder Dienstleistungen, für die der Inhaber Material, Herstellungsart, Qualität, Genauigkeit oder andere Eigenschaften gewährleistet, von nicht gewährleisteten zu unterscheiden.
+
+Umgesetzt in: [§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html), [§ 97 MarkenG](https://www.gesetze-im-internet.de/markeng/__97.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 28 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Garantie- oder Gewährleistungsmarken
+
+Die Mitgliedstaaten können die Eintragung von Garantie- oder Gewährleistungsmarken vorsehen.
+
+Umgesetzt in: [§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html), [§ 106b](https://www.gesetze-im-internet.de/markeng/__106b.html), [§ 106c](https://www.gesetze-im-internet.de/markeng/__106c.html), [§ 106d MarkenG](https://www.gesetze-im-internet.de/markeng/__106d.html)
+
+Hinweis: Deutschland hat die Option genutzt: Gewährleistungsmarke seit dem MaMoG in [§§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html) ff. MarkenG (Prüf- und Gütesiegel).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Kollektivmarken
+
+Die Mitgliedstaaten sehen die Eintragung von Kollektivmarken vor.
+
+Umgesetzt in: [§ 100](https://www.gesetze-im-internet.de/markeng/__100.html), [§ 97](https://www.gesetze-im-internet.de/markeng/__97.html), [§ 98](https://www.gesetze-im-internet.de/markeng/__98.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 30 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Satzung der Kollektivmarke
+
+Der Anmelder legt dem Amt die Markensatzung vor.
+
+Umgesetzt in: [§ 102 MarkenG](https://www.gesetze-im-internet.de/markeng/__102.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 31 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Zurückweisung der Anmeldung
+
+Neben den Gründen der Art. 4 und 5 wird die Anmeldung zurückgewiesen, wenn Art. 27 lit. b, 29 oder 30 nicht erfüllt sind oder die Satzung gegen die öffentliche Ordnung oder die guten Sitten verstößt.
+
+Umgesetzt in: [§ 103 MarkenG](https://www.gesetze-im-internet.de/markeng/__103.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 32 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Benutzung von Kollektivmarken
+
+Art. 16 ist erfüllt, wenn eine zur Benutzung befugte Person die Kollektivmarke ernsthaft benutzt.
+
+Umgesetzt in: [§ 100 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__100.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 33 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Änderung der Satzung der Kollektivmarke
+
+Der Inhaber legt jede geänderte Satzung dem Amt vor.
+
+Umgesetzt in: [§ 104 MarkenG](https://www.gesetze-im-internet.de/markeng/__104.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Klagebefugnis
+
+Art. 25 Abs. 3 und 4 gelten für zur Benutzung Befugte entsprechend.
+
+Umgesetzt in: [§ 101](https://www.gesetze-im-internet.de/markeng/__101.html), [§ 106c MarkenG](https://www.gesetze-im-internet.de/markeng/__106c.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 35 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Zusätzliche Verfallsgründe
+
+Zusätzlich zu Art. 19 und 20 wird die Kollektivmarke für verfallen erklärt, wenn (a) der Inhaber keine angemessenen Maßnahmen gegen satzungswidrige Benutzung trifft, (b) die Benutzung durch Befugte das Publikum nach Art. 31 Abs. 2 irreführen kann, oder (c) eine Satzungsänderung entgegen Art. 33 Abs. 2 im Register vermerkt wurde, es sei denn, der Inhaber erfüllt die Anforderungen durch erneute Änderung.
+
+Umgesetzt in: [§ 105](https://www.gesetze-im-internet.de/markeng/__105.html), [§ 106g MarkenG](https://www.gesetze-im-internet.de/markeng/__106g.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 36 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Zusätzliche Ungültigkeitsgründe
+
+Zusätzlich zu Art. 4 und 5 wird eine entgegen Art. 31 eingetragene Kollektivmarke für ungültig erklärt, es sei denn, der Inhaber erfüllt die Anforderungen durch Satzungsänderung.
+
+Umgesetzt in: [§ 106](https://www.gesetze-im-internet.de/markeng/__106.html), [§ 106h MarkenG](https://www.gesetze-im-internet.de/markeng/__106h.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 37 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Anmeldeerfordernisse
+
+Die Anmeldung enthält mindestens: (a) einen Antrag auf Eintragung, (b) Angaben zur Identität des Anmelders, (c) das Verzeichnis der Waren und Dienstleistungen, (d) eine Wiedergabe der Marke nach Art. 3 lit. b.
+
+Umgesetzt in: [§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 38 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Anmeldetag
+
+Anmeldetag ist der Tag, an dem die Unterlagen nach Art. 37 Abs. 1 beim Amt eingereicht werden.
+
+Umgesetzt in: [§ 33 MarkenG](https://www.gesetze-im-internet.de/markeng/__33.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Bezeichnung und Klassifizierung von Waren und Dienstleistungen
+
+Die Waren und Dienstleistungen werden nach der Nizza-Klassifikation klassifiziert.
+
+Umgesetzt in: [§ 32 Abs. 3](https://www.gesetze-im-internet.de/markeng/__32.html), [§ 65](https://www.gesetze-im-internet.de/markeng/__65.html), [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+
+Hinweis: Abs. 7 entspricht [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html); Abs. 5 kodifiziert die IP-Translator-Rechtsprechung (EuGH C-307/10).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 40 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Bemerkungen Dritter
+
+Die Mitgliedstaaten können vorsehen, dass Dritte vor der Eintragung schriftliche Bemerkungen zu absoluten Eintragungshindernissen einreichen, ohne am Verfahren beteiligt zu werden.
+
+Umgesetzt in: [§ 37 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__37.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 41 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Teilung von Anmeldungen und Eintragungen
+
+Der Anmelder oder Inhaber kann die Anmeldung oder Eintragung in zwei oder mehr Teile teilen.
+
+Umgesetzt in: [§ 40](https://www.gesetze-im-internet.de/markeng/__40.html), [§ 46 MarkenG](https://www.gesetze-im-internet.de/markeng/__46.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 42 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Klassengebühren
+
+Die Mitgliedstaaten können für Anmeldung und Verlängerung eine zusätzliche Gebühr je Klasse jenseits der ersten Klasse vorsehen.
+
+Umgesetzt in: [§ 32 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 43 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Widerspruchsverfahren
+
+Die Mitgliedstaaten sehen ein effizientes und zügiges Verwaltungsverfahren vor, mit dem gegen die Anmeldung auf Grundlage der Gründe des Art. 5 Widerspruch erhoben werden kann.
+
+Umgesetzt in: [§ 42 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html)
+
+Hinweis: Umsetzung: [§ 42 Abs. 2](https://www.gesetze-im-internet.de/markeng/__42.html) (Widerspruchsberechtigte, jetzt auch bekannte Marken ausdrücklich), Abs. 3 (mehrere ältere Rechte), Abs. 4 (Cooling-off von mindestens zwei Monaten).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Nichtbenutzung als Einrede im Widerspruchsverfahren
+
+War die Schonfrist der älteren Marke am Anmelde- oder Prioritätstag der jüngeren Marke abgelaufen, muss der Widersprechende auf Verlangen des Anmelders nachweisen, dass die ältere Marke in den fünf Jahren vor diesem Tag ernsthaft benutzt wurde oder berechtigte Gründe vorlagen; sonst wird der Widerspruch zurückgewiesen.
+
+Umgesetzt in: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html)
+
+Hinweis: Maßgeblicher Fünfjahreszeitraum ist der vor dem Anmelde-/Prioritätstag der jüngeren Marke ([§ 43 Abs. 1 S. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html) neu).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Verfahren zur Erklärung des Verfalls oder der Nichtigkeit
+
+Unbeschadet gerichtlicher Verfahren sehen die Mitgliedstaaten ein effizientes und zügiges Verwaltungsverfahren vor den Ämtern für die Erklärung des Verfalls oder der Nichtigkeit vor.
+
+Umgesetzt in: [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54](https://www.gesetze-im-internet.de/markeng/__54.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
+
+Hinweis: Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 UAbs. 2). Deutschland: seit 1.5.2020 vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)), daneben Klage nach [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) nur noch für Verfall und relative Nichtigkeit.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Nichtbenutzung als Einrede in Verfahren zur Erklärung der Nichtigkeit
+
+Der Inhaber der jüngeren Marke kann verlangen, dass der Antragsteller die ernsthafte Benutzung seiner älteren Marke in den fünf Jahren vor Antragstellung nachweist, wenn deren Schonfrist bei Antragstellung abgelaufen war.
+
+Umgesetzt in: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 47 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Wirkungen des Verfalls und der Nichtigkeit
+
+Bei Verfall gelten die Wirkungen der Marke ab dem Tag der Antragstellung als nicht mehr eingetreten; auf Antrag kann ein früherer Zeitpunkt festgesetzt werden, zu dem der Verfallsgrund eintrat.
+
+Umgesetzt in: [§ 52 MarkenG](https://www.gesetze-im-internet.de/markeng/__52.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 48 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Schutzdauer
+
+Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag.
+
+Umgesetzt in: [§ 47 Abs. 1](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 49 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Verlängerung
+
+Die Verlängerung erfolgt auf Antrag des Inhabers oder eines Bevollmächtigten gegen Gebühr; die Mitgliedstaaten können die Gebührenzahlung als Antrag gelten lassen.
+
+Umgesetzt in: [§ 47 Abs. 3](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 4](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html)
+
+Hinweis: Schutzdauer und Verlängerungsfristen laufen jetzt ab dem Anmeldetag, nicht mehr ab dem Monatsende ([§ 47 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html) neu).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 50 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Kommunikation mit dem Amt
+
+Die Verfahrensbeteiligten oder ihre Vertreter geben eine amtliche Anschrift für die amtliche Kommunikation an; die Mitgliedstaaten können verlangen, dass sie im EWR liegt.
+
+Umgesetzt in: [§ 94](https://www.gesetze-im-internet.de/markeng/__94.html), [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 51 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Zusammenarbeit im Bereich der Eintragung und Verwaltung von Marken
+
+Die Ämter arbeiten untereinander und mit dem EUIPO zusammen, um Verfahren und Instrumente zu harmonisieren und Ergebnisse zu vereinheitlichen.
+
+Umgesetzt in: [§ 65a MarkenG](https://www.gesetze-im-internet.de/markeng/__65a.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 52 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Zusammenarbeit in anderen Bereichen
+
+Die Ämter können mit dem EUIPO auch in anderen Tätigkeitsbereichen zusammenarbeiten, etwa bei Sensibilisierung und Bekämpfung von Verletzungen.
+
+Umgesetzt in: [§ 65a MarkenG](https://www.gesetze-im-internet.de/markeng/__65a.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 53 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Datenschutz
+
+Für die Verarbeitung personenbezogener Daten gilt das nationale Datenschutzrecht in Umsetzung der RL 95/46/EG (heute DSGVO).
+
+Umgesetzt in: [§ 62a MarkenG](https://www.gesetze-im-internet.de/markeng/__62a.html)
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 54 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Umsetzung
+
+Die Mitgliedstaaten setzen die Art. 3 bis 6, 8 bis 14, 16, 17, 18, 22 bis 39, 41 und 43 bis 50 bis zum 14. Januar 2019 um; Art. 45 bis zum 14. Januar 2023.
+
+Umgesetzt in: [§ 158 MarkenG](https://www.gesetze-im-internet.de/markeng/__158.html)
+
+Hinweis: Deutschland: Markenrechtsmodernisierungsgesetz (MaMoG) vom 11.12.2018, BGBl. I S. 2357, in Kraft seit 14.1.2019; Verfalls-/Nichtigkeitsverfahren vor dem DPMA seit 1.5.2020.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 55 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Aufhebung
+
+Die Richtlinie 2008/95/EG wird mit Wirkung vom 15. Januar 2019 aufgehoben; Verweise gelten als Verweise auf diese Richtlinie (Entsprechungstabelle in Anhang).
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 56 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Inkrafttreten
+
+Die Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt in Kraft; Art. 1, 7, 15, 19, 20, 21 und 54 bis 57 gelten ab dem 15. Januar 2019.
+
+*Tags: Richtlinie, EU*
+
+---
+
+**F:** Was regelt [Art. 57 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Adressaten
+
+Die Richtlinie ist an die Mitgliedstaaten gerichtet.
+
+*Tags: Richtlinie, EU*
 
 ---

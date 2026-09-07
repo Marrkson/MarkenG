@@ -260,10 +260,13 @@
       "merke": "",
       "level": 1,
       "concepts": [
-       "entstehung_markenschutz"
+       "entstehung_markenschutz",
+       "schutzdauer"
       ],
       "norms": [
-       "§ 47"
+       "§ 47",
+       "Art. 48 MarkenRL",
+       "Art. 49 MarkenRL"
       ],
       "cases": [],
       "step": null
@@ -313,7 +316,8 @@
        "formmarke"
       ],
       "norms": [
-       "§ 3 Abs. 2"
+       "§ 3 Abs. 2",
+       "Art. 4 MarkenRL"
       ],
       "cases": [
        "bgh_ritter_sport"
@@ -354,7 +358,7 @@
       "antwort": false,
       "loesung": [
        "**Nein!** Markenfähig ist nur ein Zeichen, das als **einheitlicher Gegenstand** bestimmbar ist. Variable Marken, mit denen Schutz für eine unbestimmte Zahl unterschiedlicher Erscheinungsformen beansprucht wird, fehlt bereits die Markenfähigkeit nach § 3 Abs. 1.",
-       "Zusätzlich fehlt die Darstellbarkeit im Register (§ 8 Abs. 1): Behörden und Publikum müssen den Schutzgegenstand klar und eindeutig bestimmen können."
+       "Zusätzlich fehlt die Darstellbarkeit im Register (§ 8 Abs. 1): Behörden und Publikum müssen den Schutzgegenstand klar und eindeutig bestimmen können. Das Erfordernis stammt aus Art. 3 lit. b MarkenRL, der die graphische Darstellbarkeit durch dieses Bestimmtheitsgebot ersetzt hat."
       ],
       "merke": "Ein Zeichen, kein Konzept: Das Register schützt nur konkret bestimmte Zeichen.",
       "level": 1,
@@ -364,7 +368,8 @@
       ],
       "norms": [
        "§ 3 Abs. 1",
-       "§ 8 Abs. 1"
+       "§ 8 Abs. 1",
+       "Art. 3 MarkenRL"
       ],
       "cases": [],
       "step": null
@@ -615,7 +620,7 @@
       "loesung": [
        "**Ja, in der Tat!** Bösgläubig handelt, wer ein Zeichen in Kenntnis eines **schutzwürdigen Besitzstands** eines Vorbenutzers ohne sachlichen Grund für gleiche Waren anmeldet, um diesen Besitzstand zu stören oder die Benutzung zu sperren (BGH EROS, GLÜCKSPILZ).",
        "Die Absicht, die Marke nur als Druckmittel einzusetzen (Hinterhalts- oder Sperrmarke), zeigt, dass Max sie nicht zur Förderung des eigenen Absatzes will. Rechtsfolge: Nichtigkeit nach § 50 i.V.m. § 8 Abs. 2 Nr. 14.",
-       "Die bloße Kenntnis von der Vorbenutzung genügt allerdings nicht; hinzukommen müssen besondere Umstände wie hier die Behinderungsabsicht (BGH Ivadal)."
+       "Die bloße Kenntnis von der Vorbenutzung genügt allerdings nicht; hinzukommen müssen besondere Umstände wie hier die Behinderungsabsicht (BGH Ivadal). Unionsrechtlich ist die Bösgläubigkeit seit Art. 4 Abs. 2 MarkenRL ein zwingender Nichtigkeitsgrund."
       ],
       "merke": "Bösgläubigkeit = Anmeldung als Waffe statt als Kennzeichen. Maßgeblicher Zeitpunkt: die Anmeldung.",
       "level": 2,
@@ -624,7 +629,8 @@
       ],
       "norms": [
        "§ 8 Abs. 2 Nr. 14",
-       "§ 50"
+       "§ 50",
+       "Art. 4 MarkenRL"
       ],
       "cases": [
        "bgh_eros",
@@ -945,7 +951,7 @@
       "antwort": false,
       "loesung": [
        "**Nein!** Die Benutzung einer Firma dient der Bezeichnung des Unternehmens, nicht der Unterscheidung von Waren. Sie ist nur dann eine Benutzung „für Waren“, wenn das Zeichen so verwendet wird, dass der Verkehr eine **Verbindung zwischen Firma und Ware** herstellt, etwa durch Anbringung auf der Ware oder in der Produktwerbung (EuGH Céline).",
-       "Gegen rein firmenmäßigen Gebrauch schützt § 15, wenn der Kläger ein Unternehmenskennzeichen hat, sowie das UWG. Seit dem MaMoG stellt § 14 Abs. 3 Nr. 5 klar, dass die Verwendung als Handelsname eine Verletzungshandlung sein kann, sofern sie „für Waren“ erfolgt."
+       "Gegen rein firmenmäßigen Gebrauch schützt § 15, wenn der Kläger ein Unternehmenskennzeichen hat, sowie das UWG. Seit dem MaMoG stellt § 14 Abs. 3 Nr. 5 klar, dass die Verwendung als Handelsname eine Verletzungshandlung sein kann, sofern sie „für Waren“ erfolgt; Vorbild ist Art. 10 Abs. 3 lit. d MarkenRL."
       ],
       "merke": "Firma ≠ Marke. Firmenmäßiger Gebrauch verletzt § 14 nur mit Warenbezug.",
       "level": 2,
@@ -955,7 +961,8 @@
       ],
       "norms": [
        "§ 14 Abs. 3 Nr. 5",
-       "§ 15"
+       "§ 15",
+       "Art. 10 MarkenRL"
       ],
       "cases": [
        "eugh_celine"
@@ -977,7 +984,7 @@
       "antwort": false,
       "loesung": [
        "**Nein!** Bei Identität des Zeichens und Identität der Waren gilt der **absolute Schutz** des § 14 Abs. 2 Nr. 1 (Doppelidentität). Eine Verwechslungsgefahr muss nicht festgestellt werden.",
-       "Erforderlich bleibt eine Beeinträchtigung einer Markenfunktion; bei Fälschungen ist die Herkunftsfunktion offensichtlich betroffen. Nach dem EuGH genügt bei Nr. 1 die Beeinträchtigung jeder Funktion, auch der Werbe- oder Investitionsfunktion (L'Oréal/Bellure)."
+       "Erforderlich bleibt eine Beeinträchtigung einer Markenfunktion; bei Fälschungen ist die Herkunftsfunktion offensichtlich betroffen. Nach dem EuGH genügt bei Nr. 1 die Beeinträchtigung jeder Funktion, auch der Werbe- oder Investitionsfunktion (L'Oréal/Bellure). § 14 Abs. 2 Nr. 1 setzt Art. 10 Abs. 2 lit. a MarkenRL um; Erwägungsgrund 16 nennt den Schutz bei Doppelidentität ausdrücklich „absolut“."
       ],
       "merke": "Identisch + identisch = Nr. 1. Keine Verwechslungsprüfung, aber Funktionsbeeinträchtigung.",
       "level": 1,
@@ -986,7 +993,8 @@
        "markenfunktionen"
       ],
       "norms": [
-       "§ 14 Abs. 2 Nr. 1"
+       "§ 14 Abs. 2 Nr. 1",
+       "Art. 10 MarkenRL"
       ],
       "cases": [
        "eugh_loreal_bellure"
@@ -1541,7 +1549,7 @@
       "frage": "Kann der Bekanntheitsschutz auch dann greifen, wenn die Waren identisch oder ähnlich sind?",
       "antwort": true,
       "loesung": [
-       "**Ja!** Nach früherem Wortlaut galt § 14 Abs. 2 Nr. 3 nur für „nicht ähnliche“ Waren. Der BGH hat die Norm aber schon lange richtlinienkonform auch auf identische und ähnliche Waren angewandt (OTTO Cap); seit dem MaMoG 2019 steht das ausdrücklich im Gesetz.",
+       "**Ja!** Nach früherem Wortlaut galt § 14 Abs. 2 Nr. 3 nur für „nicht ähnliche“ Waren. Der BGH hat die Norm aber schon lange richtlinienkonform auch auf identische und ähnliche Waren angewandt (OTTO Cap); seit dem MaMoG 2019 steht das ausdrücklich im Gesetz, weil Art. 10 Abs. 2 lit. c MarkenRL den Bekanntheitsschutz „unabhängig davon, ob die Waren identisch, ähnlich oder nicht ähnlich sind“ zwingend vorschreibt.",
        "Der Bekanntheitsschutz ist damit unabhängig von der Verwechslungsgefahr: Wer die Aufmerksamkeit einer bekannten Marke für eigene Bekleidung ausnutzt, verletzt sie, auch wenn niemand die Herkunft verwechselt."
       ],
       "merke": "Bekanntheitsschutz gilt für alle Waren: unähnliche, ähnliche und identische.",
@@ -1551,7 +1559,8 @@
        "ausnutzung_unterscheidungskraft"
       ],
       "norms": [
-       "§ 14 Abs. 2 Nr. 3"
+       "§ 14 Abs. 2 Nr. 3",
+       "Art. 10 MarkenRL"
       ],
       "cases": [
        "bgh_otto_cap"
@@ -1912,7 +1921,7 @@
       "antwort": false,
       "loesung": [
        "**Nein!** Zwischen den Gleichnamigen besteht eine seit langem gewachsene **Gleichgewichtslage**. Der Störer darf sie nicht einseitig verschieben, muss aber nur das Erforderliche und Zumutbare tun, um Verwechslungen zu vermeiden: einen **aufklärenden Zusatz** (Ortsangabe, Hinweis auf zwei Unternehmen). Der Zusatz muss deutlich sein, aber nicht in gleicher Größe wie die Werbebotschaft erscheinen (BGH Peek & Cloppenburg).",
-       "Grundlage ist § 23 Abs. 1 Nr. 1 in Verbindung mit einer Interessenabwägung, das sogenannte Recht der Gleichnamigen."
+       "Grundlage ist § 23 Abs. 1 Nr. 1 in Verbindung mit einer Interessenabwägung, das sogenannte Recht der Gleichnamigen. Beachte: Seit Art. 14 Abs. 1 lit. a MarkenRL gilt die Namensschranke nur für natürliche Personen; für die Unternehmen selbst tragen hier das ältere Unternehmenskennzeichen (§ 5) und die Gleichgewichtslage."
       ],
       "merke": "Gleichnamige: Zusatz statt Verbot.",
       "level": 3,
@@ -1922,7 +1931,8 @@
       ],
       "norms": [
        "§ 23 Abs. 1 Nr. 1",
-       "§ 15"
+       "§ 15",
+       "Art. 14 MarkenRL"
       ],
       "cases": [
        "bgh_peek_cloppenburg"
@@ -1980,7 +1990,7 @@
       "antwort": false,
       "loesung": [
        "**Nein!** Erschöpfung tritt nur ein, wenn die Ware vom Inhaber oder mit seiner Zustimmung **im Inland, in der EU oder im EWR** in Verkehr gebracht wurde (§ 24 Abs. 1). Das MarkenG kennt keine internationale Erschöpfung.",
-       "Ware aus Drittstaaten darf der Inhaber also vom EWR-Markt fernhalten, auch wenn sie echt ist. Der Händler müsste nachweisen, dass gerade diese Schuhe im EWR in Verkehr gebracht wurden (BGH Converse I)."
+       "Ware aus Drittstaaten darf der Inhaber also vom EWR-Markt fernhalten, auch wenn sie echt ist. Der Händler müsste nachweisen, dass gerade diese Schuhe im EWR in Verkehr gebracht wurden (BGH Converse I). Art. 15 Abs. 1 MarkenRL lässt den Mitgliedstaaten keinen Spielraum für eine weitergehende internationale Erschöpfung (EuGH Silhouette)."
       ],
       "merke": "EWR-weite, keine weltweite Erschöpfung.",
       "level": 1,
@@ -1988,7 +1998,8 @@
        "erschoepfung"
       ],
       "norms": [
-       "§ 24 Abs. 1"
+       "§ 24 Abs. 1",
+       "Art. 15 MarkenRL"
       ],
       "cases": [
        "bgh_converse_i"
@@ -2177,7 +2188,9 @@
       ],
       "norms": [
        "§ 22 Abs. 1 Nr. 1",
-       "§ 51 Abs. 3"
+       "§ 51 Abs. 3",
+       "Art. 18 MarkenRL",
+       "Art. 8 MarkenRL"
       ],
       "cases": [],
       "step": "step:schema_markenverletzung.4.4"
@@ -2338,7 +2351,8 @@
       "norms": [
        "§ 26 Abs. 5",
        "§ 25 Abs. 1",
-       "§ 49 Abs. 1"
+       "§ 49 Abs. 1",
+       "Art. 16 MarkenRL"
       ],
       "cases": [],
       "step": "step:schema_benutzungszwang.1"
@@ -2445,7 +2459,7 @@
       "antwort": true,
       "loesung": [
        "**Ja!** Der Antrag auf Nichtigkeit wegen absoluter Schutzhindernisse (§ 50) und der Verfallsantrag (§ 49) sind **Popularanträge**: Jede Person kann sie stellen (§ 53 Abs. 1), ein eigenes Interesse ist nicht nötig, weil absolute Schutzhindernisse im Allgemeininteresse bestehen.",
-       "Anders die Nichtigkeit wegen älterer Rechte (§ 51): Hier ist nur der Inhaber des älteren Rechts antragsbefugt."
+       "Anders die Nichtigkeit wegen älterer Rechte (§ 51): Hier ist nur der Inhaber des älteren Rechts antragsbefugt. Art. 45 Abs. 3 MarkenRL schreibt beides so vor."
       ],
       "merke": "§§ 49, 50: jedermann. § 51: nur der Inhaber des älteren Rechts.",
       "level": 1,
@@ -2456,7 +2470,8 @@
       "norms": [
        "§ 53",
        "§ 50",
-       "§ 51"
+       "§ 51",
+       "Art. 45 MarkenRL"
       ],
       "cases": [
        "bgh_black_friday"
@@ -2526,7 +2541,8 @@
        "widerspruch"
       ],
       "norms": [
-       "§ 43 Abs. 1"
+       "§ 43 Abs. 1",
+       "Art. 44 MarkenRL"
       ],
       "cases": [],
       "step": "step:schema_widerspruch.2"
@@ -3255,6 +3271,543 @@
       ],
       "cases": [],
       "step": "step:schema_ir_marke.3.4"
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "k11",
+  "titel": "Die Markenrechtsrichtlinie (EU) 2015/2436",
+  "untertitel": "Der unionsrechtliche Bauplan des MarkenG",
+  "farbe": "#1F5F8B",
+  "icon": "europa",
+  "beschreibung": "Aufbau und Inhalt der Richtlinie, ihre Umsetzung durch das MaMoG 2019, richtlinienkonforme Auslegung und die Neuerungen: Transit, Vorbereitungshandlungen, Namensschranke, Schonfrist, Amtsverfahren.",
+  "kapitel": [
+   {
+    "id": "k11a",
+    "titel": "Struktur, Harmonisierung, Auslegung",
+    "einheiten": [
+     {
+      "id": "k11a-0",
+      "typ": "intro",
+      "titel": "Warum du die Richtlinie kennen musst",
+      "text": "Fast jede Norm des MarkenG hat einen Zwilling in der **Markenrechtsrichtlinie (EU) 2015/2436**. Sie harmonisiert das materielle Markenrecht aller Mitgliedstaaten und seit 2019 auch zentrale Verfahren. Deutschland hat sie mit dem Markenrechtsmodernisierungsgesetz (MaMoG) umgesetzt. Praktische Folge: Begriffe wie Unterscheidungskraft, Verwechslungsgefahr oder ernsthafte Benutzung bedeuten in allen Mitgliedstaaten dasselbe, und das letzte Wort hat der EuGH. Dieser Kurs zeigt dir den Aufbau der Richtlinie und die Stellen, an denen sie das MarkenG geprägt oder verändert hat.",
+      "concepts": [
+       "markenrl",
+       "richtlinienkonforme_auslegung"
+      ],
+      "norms": [
+       "Art. 1 MarkenRL",
+       "Art. 54 MarkenRL"
+      ],
+      "cases": []
+     },
+     {
+      "id": "k11a-1",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Markenrechtsrichtlinie anwenden",
+      "schema": "schema_markenrl",
+      "text": "Verschaffe dir zuerst den Überblick über die Kapitel der Richtlinie und die Umsetzungstabelle.",
+      "concepts": [],
+      "norms": [],
+      "cases": []
+     },
+     {
+      "id": "k11a-2",
+      "typ": "fall",
+      "titel": "Die Benutzungsmarke und Brüssel",
+      "sachverhalt": "Bäckerin Bea hat durch jahrelange Benutzung eine Benutzungsmarke „KRUSTIS“ nach § 4 Nr. 2 MarkenG erworben. Ein Konkurrent meint, Benutzungsmarken seien unionsrechtswidrig, weil die MarkenRL nur eingetragene Marken kenne.",
+      "frage": "Verstößt § 4 Nr. 2 MarkenG gegen die Markenrechtsrichtlinie?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Richtlinie gilt nach Art. 1 MarkenRL nur für **eingetragene oder angemeldete** Marken und IR-Marken mit Wirkung im Mitgliedstaat. Benutzungsmarken, geschäftliche Bezeichnungen (§ 5) und die Rechtsfolgen der Verletzung sind nicht harmonisiert.",
+       "In diesen Bereichen bleibt das nationale Recht frei; die Richtlinie erwähnt Benutzungsmarken nur als fakultatives relatives Eintragungshindernis (Art. 5 Abs. 4 lit. a MarkenRL, umgesetzt in § 12 MarkenG)."
+      ],
+      "merke": "Harmonisiert ist die Registermarke, nicht das ganze Kennzeichenrecht.",
+      "level": 1,
+      "concepts": [
+       "markenrl",
+       "verkehrsgeltung"
+      ],
+      "norms": [
+       "Art. 1 MarkenRL",
+       "Art. 5 MarkenRL",
+       "§ 4 Nr. 2",
+       "§ 12"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11a-3",
+      "typ": "mc",
+      "titel": "Wer legt die Begriffe aus?",
+      "sachverhalt": "",
+      "frage": "Der BGH ist unsicher, ob bei der Prüfung der Unterscheidungskraft eines Zeichens auf T-Shirts nur die wahrscheinlichste Verwendungsform zählt. Was muss er tun?",
+      "optionen": [
+       "Er entscheidet nach deutscher Tradition, weil § 8 MarkenG deutsches Recht ist",
+       "Er muss die Frage dem EuGH vorlegen, weil die Unterscheidungskraft ein unionsrechtlicher Begriff aus Art. 4 MarkenRL ist und er letztinstanzlich entscheidet",
+       "Er fragt das DPMA",
+       "Er setzt das Verfahren aus, bis die Kommission eine Leitlinie erlässt"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Die Unterscheidungskraft ist in Art. 4 Abs. 1 lit. b MarkenRL geregelt; § 8 Abs. 2 Nr. 1 MarkenG setzt sie um und ist **richtlinienkonform** auszulegen. Als letztinstanzliches Gericht ist der BGH nach Art. 267 Abs. 3 AEUV zur **Vorlage** verpflichtet, wenn die Auslegung nicht offenkundig oder bereits geklärt ist.",
+       "Genau das geschah in #darferdas?: EuGH C-541/18 entschied, dass alle praktisch bedeutsamen Verwendungsarten zu berücksichtigen sind; der BGH setzte das um (#darferdas? II)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "richtlinienkonforme_auslegung",
+       "verwendungsformen"
+      ],
+      "norms": [
+       "Art. 4 MarkenRL",
+       "§ 8 Abs. 2 Nr. 1"
+      ],
+      "cases": [
+       "eugh_darferdas",
+       "bgh_darferdas_ii"
+      ],
+      "step": "step:schema_markenrl.5"
+     },
+     {
+      "id": "k11a-4",
+      "typ": "fall",
+      "titel": "Ein Urteil zur Unionsmarke für das MarkenG",
+      "sachverhalt": "Der EuGH hat in einem Fall zur Unionsmarkenverordnung entschieden, wie die selbständig kennzeichnende Stellung zu prüfen ist. Ein Landgericht muss nun einen Fall nach § 14 Abs. 2 Nr. 2 MarkenG entscheiden.",
+      "frage": "Darf das Landgericht die EuGH-Rechtsprechung zur UMV auf das MarkenG übertragen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Art. 10 Abs. 2 lit. b MarkenRL und Art. 9 Abs. 2 lit. b UMV sind wortgleich formuliert; der EuGH legt beide **einheitlich** aus. Rechtsprechung zur Unionsmarke ist deshalb regelmäßig auf das richtlinienkonform auszulegende MarkenG übertragbar und umgekehrt.",
+       "Beispiel: THOMSON LIFE erging zu Art. 5 Abs. 1 lit. b der alten Markenrichtlinie und prägt seither auch die Auslegung von Art. 9 UMV."
+      ],
+      "merke": "MarkenRL und UMV laufen parallel: EuGH-Urteile gelten für beide Welten.",
+      "level": 2,
+      "concepts": [
+       "richtlinienkonforme_auslegung",
+       "unionsmarke",
+       "selbstaendig_kennzeichnende_stellung"
+      ],
+      "norms": [
+       "Art. 10 MarkenRL"
+      ],
+      "cases": [
+       "eugh_thomson_life"
+      ],
+      "step": "step:schema_markenrl.4"
+     },
+     {
+      "id": "k11a-5",
+      "typ": "mc",
+      "titel": "Umsetzungsfristen",
+      "sachverhalt": "",
+      "frage": "Bis wann mussten die Mitgliedstaaten die MarkenRL umsetzen, und welche Ausnahme gab es?",
+      "optionen": [
+       "Bis 15.1.2016 vollständig",
+       "Bis 14.1.2019; nur das Verwaltungsverfahren für Verfall und Nichtigkeit (Art. 45) erst bis 14.1.2023",
+       "Bis 1.5.2020 vollständig",
+       "Es gab keine Frist, Richtlinien gelten unmittelbar"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Art. 54 MarkenRL setzt die allgemeine Umsetzungsfrist auf den **14. Januar 2019**; für das verwaltungsbehördliche Verfalls- und Nichtigkeitsverfahren nach Art. 45 galt eine verlängerte Frist bis zum **14. Januar 2023**.",
+       "Deutschland: MaMoG vom 11.12.2018, in Kraft seit 14.1.2019; das DPMA-Verfahren nach § 53 MarkenG gilt seit 1.5.2020. Richtlinien gelten nicht unmittelbar zwischen Privaten; sie wirken über die Umsetzung und die richtlinienkonforme Auslegung."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "markenrl",
+       "verwaltungsverfahren_loeschung"
+      ],
+      "norms": [
+       "Art. 54 MarkenRL",
+       "Art. 45 MarkenRL",
+       "§ 53"
+      ],
+      "cases": [],
+      "step": "step:schema_markenrl.6"
+     }
+    ]
+   },
+   {
+    "id": "k11b",
+    "titel": "Materielles Recht: Art. 3 bis 18",
+    "einheiten": [
+     {
+      "id": "k11b-1",
+      "typ": "fall",
+      "titel": "Die Klangmarke als Audiodatei",
+      "sachverhalt": "Ein Radiosender will seine Erkennungsmelodie als Marke anmelden und reicht statt einer Notenschrift eine MP3-Datei ein.",
+      "frage": "Muss die Anmeldung zurückgewiesen werden, weil eine Audiodatei keine graphische Darstellung ist?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Art. 3 lit. b MarkenRL verlangt nur noch, dass das Zeichen im Register so **dargestellt** werden kann, dass Behörden und Publikum den Schutzgegenstand klar und eindeutig bestimmen können. Das Erfordernis der graphischen Darstellbarkeit ist entfallen; § 8 Abs. 1 MarkenG wurde entsprechend gefasst.",
+       "Maßstab bleiben die Sieckmann-Kriterien (klar, eindeutig, in sich abgeschlossen, leicht zugänglich, verständlich, dauerhaft, objektiv). Eine Audiodatei erfüllt sie für Klangmarken; auch Bewegungs-, Multimedia- und Hologrammmarken sind so anmeldbar."
+      ],
+      "merke": "Darstellbar, nicht mehr graphisch darstellbar: Die Technik darf helfen, die Bestimmtheit bleibt Pflicht.",
+      "level": 1,
+      "concepts": [
+       "darstellbarkeit",
+       "markenfaehigkeit"
+      ],
+      "norms": [
+       "Art. 3 MarkenRL",
+       "§ 8 Abs. 1"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11b-2",
+      "typ": "fall",
+      "titel": "Der technisch bedingte Farbverlauf",
+      "sachverhalt": "Ein Hersteller meldet für Reflektoren ein Zeichen an, das ausschließlich aus einem bestimmten Farbmuster besteht, das die Reflexionswirkung technisch bedingt.",
+      "frage": "Greift der Formausschluss, obwohl es sich nicht um eine Form handelt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Art. 4 Abs. 1 lit. e MarkenRL erstreckt den Ausschluss ausdrücklich auf Zeichen, die ausschließlich aus der Form **oder einem anderen charakteristischen Merkmal** bestehen, das technisch erforderlich ist. § 3 Abs. 2 MarkenG wurde im MaMoG entsprechend erweitert.",
+       "Damit lässt sich der Ausschluss nicht mehr umgehen, indem man statt der Form ein anderes funktionales Merkmal (Farbe, Muster, Klang) anmeldet. Verkehrsdurchsetzung hilft hier nicht (Art. 4 Abs. 4 gilt nur für lit. b bis d)."
+      ],
+      "merke": "Funktional ist funktional: Form oder anderes Merkmal, beides gesperrt.",
+      "level": 2,
+      "concepts": [
+       "formausschluss"
+      ],
+      "norms": [
+       "Art. 4 MarkenRL",
+       "§ 3 Abs. 2"
+      ],
+      "cases": [
+       "eugh_philips_remington",
+       "bgh_bodenduebel"
+      ],
+      "step": null
+     },
+     {
+      "id": "k11b-3",
+      "typ": "fall",
+      "titel": "Bösgläubigkeit als Pflichtgrund",
+      "sachverhalt": "Ein Mitgliedstaat hat in seinem Markengesetz keinen Nichtigkeitsgrund für bösgläubige Anmeldungen vorgesehen.",
+      "frage": "Ist das mit der Richtlinie vereinbar?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Nach Art. 4 Abs. 2 MarkenRL **ist** eine Marke für ungültig zu erklären, wenn der Anmelder bösgläubig war; nur die Ausgestaltung als Eintragungshindernis ist fakultativ. In Deutschland: § 8 Abs. 2 Nr. 14 MarkenG (Zurückweisung, wenn ersichtlich, § 37 Abs. 3) und § 50 (Nichtigkeit).",
+       "Fakultativ bleiben nach Art. 4 Abs. 3 nur der Verstoß gegen sonstiges Recht, religiöse Symbole und nationale Embleme."
+      ],
+      "merke": "Bösgläubigkeit: zwingender Nichtigkeitsgrund, optionales Eintragungshindernis.",
+      "level": 2,
+      "concepts": [
+       "boesglaeubigkeit"
+      ],
+      "norms": [
+       "Art. 4 MarkenRL",
+       "§ 8 Abs. 2 Nr. 14",
+       "§ 50"
+      ],
+      "cases": [
+       "bgh_glueckspilz"
+      ],
+      "step": null
+     },
+     {
+      "id": "k11b-4",
+      "typ": "fall",
+      "titel": "Der Container im Hamburger Hafen",
+      "sachverhalt": "Im Hamburger Hafen wird ein Container mit gefälschten Markenturnschuhen aus China entdeckt, der für Brasilien bestimmt ist. Die Ware soll in Deutschland nicht verkauft werden.",
+      "frage": "Kann der Markeninhaber gegen die Durchfuhr vorgehen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, grundsätzlich!** Nach Art. 10 Abs. 4 MarkenRL, umgesetzt in § 14a MarkenG, kann der Inhaber verhindern, dass Waren aus Drittstaaten mit identischer Marke unter zollamtlicher Überwachung ins Inland verbracht werden, auch **ohne Inverkehrbringen** im Inland (Transit). Das korrigiert die frühere EuGH-Linie (Philips/Nokia), nach der bloßer Transit nicht verletzte.",
+       "Das Recht erlischt, wenn der Anmelder oder Besitzer der Ware nachweist, dass der Inhaber die Vermarktung im **Bestimmungsland** (Brasilien) nicht verbieten könnte (§ 14a Abs. 2). Durchsetzung über die Grenzbeschlagnahme (§§ 146 ff.)."
+      ],
+      "merke": "Transit ist Verletzung, es sei denn, im Zielland wäre der Vertrieb legal.",
+      "level": 2,
+      "concepts": [
+       "transit",
+       "doppelidentitaet"
+      ],
+      "norms": [
+       "Art. 10 MarkenRL",
+       "§ 14a",
+       "§ 146"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11b-5",
+      "typ": "fall",
+      "titel": "Der Etikettenhändler",
+      "sachverhalt": "Ein Händler verkauft gewebte Etiketten mit dem Logo eines Sportartikelherstellers an Textilfabriken, ohne selbst Kleidung zu produzieren. Die Etiketten sind erkennbar für Plagiate bestimmt.",
+      "frage": "Verletzt der Etikettenhändler die Marke, obwohl er sie auf keiner Ware anbringt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Art. 11 MarkenRL, umgesetzt in § 14 Abs. 4 MarkenG, verbietet **Vorbereitungshandlungen**: das Anbringen der Marke auf Etiketten, Verpackungen, Anhängern oder Echtheitshinweisen sowie deren Anbieten, Inverkehrbringen, Besitz, Ein- und Ausfuhr, wenn die Gefahr besteht, dass sie für eine verletzende Kennzeichnung benutzt werden.",
+       "Der Markenschutz greift damit schon eine Stufe vor der eigentlichen Kennzeichnung der Ware."
+      ],
+      "merke": "Wer die Etiketten liefert, verletzt schon, bevor jemand sie aufnäht.",
+      "level": 2,
+      "concepts": [
+       "vorbereitungshandlungen"
+      ],
+      "norms": [
+       "Art. 11 MarkenRL",
+       "§ 14 Abs. 4"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11b-6",
+      "typ": "fall",
+      "titel": "Die GmbH mit Familiennamen",
+      "sachverhalt": "Die „Müller Werkzeuge GmbH“ vertreibt Werkzeuge unter ihrem Firmennamen. Inhaberin der älteren Werkzeugmarke „MÜLLER“ ist eine andere Firma. Die GmbH beruft sich auf die Namensschranke.",
+      "frage": "Kann sich die GmbH auf § 23 Abs. 1 Nr. 1 MarkenG (Name) berufen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Art. 14 Abs. 1 lit. a MarkenRL privilegiert nur den Namen oder die Anschrift des Dritten, **wenn dieser eine natürliche Person ist**. § 23 Abs. 1 Nr. 1 MarkenG wurde entsprechend eingeschränkt. Juristische Personen können ihren Firmennamen nicht über die Namensschranke gegen eine ältere Marke verteidigen.",
+       "Bleibt: die beschreibende Benutzung (Nr. 2), das Recht der Gleichnamigen bei redlichem Namensgebrauch natürlicher Personen und die Prioritätsfrage nach § 6, falls das Unternehmenskennzeichen älter ist."
+      ],
+      "merke": "Die Namensschranke schützt Menschen, nicht Gesellschaften.",
+      "level": 3,
+      "concepts": [
+       "schranke_23",
+       "gleichnamigkeit"
+      ],
+      "norms": [
+       "Art. 14 MarkenRL",
+       "§ 23 Abs. 1 Nr. 1"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11b-7",
+      "typ": "fall",
+      "titel": "Die Schonfrist nach dem Widerspruch",
+      "sachverhalt": "Die Marke „ORBIS“ wurde am 1.3.2019 eingetragen. Gegen die Eintragung wurde Widerspruch erhoben, der erst am 1.9.2020 rechtskräftig zurückgewiesen wurde. Am 1.6.2024 erhebt ein Verletzer die Nichtbenutzungseinrede.",
+      "frage": "Ist die Einrede beachtlich?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Nach Art. 16 Abs. 2 MarkenRL beginnt die fünfjährige Benutzungsschonfrist bei einem Widerspruchsverfahren erst mit dem Tag, an dem das Verfahren **abgeschlossen** ist. § 26 Abs. 5 MarkenG setzt das um. Die Frist läuft hier also bis zum 1.9.2025.",
+       "Für IR-Marken gilt entsprechend der Ablauf der Schutzverweigerungsfrist oder die rechtskräftige Schutzgewährung (Art. 16 Abs. 3, § 115 Abs. 2 MarkenG). Der Fristbeginn wird im Register vermerkt (Art. 16 Abs. 4)."
+      ],
+      "merke": "Erst wenn die Marke unangreifbar im Register steht, tickt die Benutzungsuhr.",
+      "level": 2,
+      "concepts": [
+       "benutzungsschonfrist",
+       "nichtbenutzungseinrede"
+      ],
+      "norms": [
+       "Art. 16 MarkenRL",
+       "§ 26 Abs. 5",
+       "§ 25"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11b-8",
+      "typ": "fall",
+      "titel": "Zwei Marken, beide eingetragen",
+      "sachverhalt": "Anna ist Inhaberin der Marke „VELA“ (2012). Ben hat „VELA“ 2016 für ähnliche Waren eingetragen; damals hatte Annas Marke nur geringe Kennzeichnungskraft und es bestand keine Verwechslungsgefahr. Inzwischen ist Annas Marke stark und verwechslungsfähig. Anna klagt auf Unterlassung.",
+      "frage": "Kann Anna Ben die Benutzung seiner eingetragenen Marke verbieten?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Art. 18 MarkenRL (Zwischenrecht) und Art. 8 MarkenRL ordnen an: Der Inhaber der älteren Marke kann die Benutzung einer später eingetragenen Marke nicht verbieten, wenn diese am **Prioritätstag** nicht für ungültig erklärt werden konnte, etwa weil damals noch keine Verwechslungsgefahr bestand. § 22 Abs. 1 Nr. 3 und § 51 Abs. 4 S. 2 MarkenG setzen das um.",
+       "Umgekehrt kann auch Ben Anna nichts verbieten (Art. 18 Abs. 3, § 22 Abs. 2): beide koexistieren. Die Kennzeichnungskraft der älteren Marke wird damit „eingefroren“ auf den Zeitpunkt der jüngeren Anmeldung."
+      ],
+      "merke": "Was am Anmeldetag der jüngeren Marke nicht kollidierte, kollidiert auch später nicht.",
+      "level": 3,
+      "concepts": [
+       "koexistenz_22",
+       "kennzeichnungskraft"
+      ],
+      "norms": [
+       "Art. 18 MarkenRL",
+       "Art. 8 MarkenRL",
+       "§ 22",
+       "§ 51 Abs. 4"
+      ],
+      "cases": [],
+      "step": null
+     }
+    ]
+   },
+   {
+    "id": "k11c",
+    "titel": "Verfahren und Umsetzung im MaMoG",
+    "einheiten": [
+     {
+      "id": "k11c-1",
+      "typ": "mc",
+      "titel": "Der Klassenkopf",
+      "sachverhalt": "",
+      "frage": "Eine Marke ist für „Klasse 25: Bekleidungsstücke, Schuhwaren, Kopfbedeckungen“ eingetragen. Welche Waren sind erfasst?",
+      "optionen": [
+       "Alle Waren der Klasse 25 nach der alphabetischen Liste",
+       "Nur die Waren, die von der wörtlichen Bedeutung der genannten Begriffe eindeutig erfasst sind",
+       "Alle Textilien in allen Klassen",
+       "Gar keine, weil Klassenüberschriften unzulässig sind"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Nach Art. 39 Abs. 5 MarkenRL umfassen allgemeine Begriffe einschließlich der Klassenüberschriften **nur die Waren, die eindeutig von ihrer wörtlichen Bedeutung erfasst sind** (Kodifizierung von EuGH IP Translator, C-307/10). Eine Vermutung, dass alle Waren der Klasse gemeint sind, besteht nicht (Abs. 6).",
+       "Die Zugehörigkeit zur selben Klasse begründet keine Warenähnlichkeit, verschiedene Klassen keine Unähnlichkeit (Art. 39 Abs. 7, § 9 Abs. 3 MarkenG)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "klassifizierung",
+       "warenaehnlichkeit"
+      ],
+      "norms": [
+       "Art. 39 MarkenRL",
+       "§ 32",
+       "§ 9 Abs. 3"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11c-2",
+      "typ": "fall",
+      "titel": "Cooling-off im Widerspruch",
+      "sachverhalt": "Im Widerspruchsverfahren vor dem DPMA wollen beide Parteien in Ruhe über eine Abgrenzungsvereinbarung verhandeln und beantragen gemeinsam eine Verfahrensaussetzung.",
+      "frage": "Muss das DPMA den Parteien Zeit für eine gütliche Einigung einräumen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Art. 43 Abs. 3 MarkenRL verpflichtet die Ämter, den Parteien auf gemeinsamen Antrag eine Frist von **mindestens zwei Monaten** für eine gütliche Einigung einzuräumen. § 42 Abs. 4 MarkenG setzt das um (Cooling-off).",
+       "Weitere Neuerungen des Art. 43: Der Widerspruch kann auf mehrere ältere Rechte desselben Inhabers gestützt werden (§ 42 Abs. 3) und muss auch dem Inhaber einer bekannten Marke und dem Berechtigten einer Ursprungsbezeichnung offenstehen."
+      ],
+      "merke": "Zwei Monate Cooling-off sind Pflicht, wenn beide es wollen.",
+      "level": 1,
+      "concepts": [
+       "widerspruch"
+      ],
+      "norms": [
+       "Art. 43 MarkenRL",
+       "§ 42 Abs. 4"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11c-3",
+      "typ": "fall",
+      "titel": "Nichtigkeit ohne Gericht",
+      "sachverhalt": "Ein Wettbewerber will die Marke „AQUAFRESH“ wegen absoluter Schutzhindernisse löschen lassen und scheut die Kosten eines Gerichtsverfahrens.",
+      "frage": "Kann er die Nichtigkeit vollständig vor dem DPMA klären lassen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Art. 45 MarkenRL verpflichtet die Mitgliedstaaten zu einem effizienten **Verwaltungsverfahren** vor dem Amt für Verfall und Nichtigkeit. Deutschland hat es zum 1.5.2020 in § 53 MarkenG umgesetzt: Antrag, Zustellung, bei Widerspruch des Inhabers kontradiktorisches Verfahren mit Beschluss, Beschwerde zum BPatG.",
+       "Die Nichtigkeit wegen absoluter Schutzhindernisse (§ 50) ist seither **ausschließlich** dem DPMA zugewiesen; die Klage nach § 55 bleibt nur für Verfall (§ 49) und relative Nichtigkeit (§ 51)."
+      ],
+      "merke": "Art. 45: Löschung als Amtsverfahren, damit nicht jeder Streit vor Gericht muss.",
+      "level": 2,
+      "concepts": [
+       "verwaltungsverfahren_loeschung",
+       "nichtigkeit"
+      ],
+      "norms": [
+       "Art. 45 MarkenRL",
+       "§ 53",
+       "§ 55"
+      ],
+      "cases": [
+       "bgh_black_friday"
+      ],
+      "step": null
+     },
+     {
+      "id": "k11c-4",
+      "typ": "mc",
+      "titel": "Zweimal fünf Jahre",
+      "sachverhalt": "",
+      "frage": "Im Nichtigkeitsverfahren aus einer älteren Marke war deren Schonfrist sowohl bei Antragstellung als auch schon am Anmeldetag der jüngeren Marke abgelaufen. Welche Benutzung muss der Antragsteller nachweisen?",
+      "optionen": [
+       "Nur die fünf Jahre vor Antragstellung",
+       "Nur die fünf Jahre vor dem Anmeldetag der jüngeren Marke",
+       "Beide Zeiträume: fünf Jahre vor Antragstellung und fünf Jahre vor dem Anmeldetag der jüngeren Marke",
+       "Gar keine, im Nichtigkeitsverfahren gibt es keine Einrede"
+      ],
+      "richtig": 2,
+      "loesung": [
+       "Art. 46 Abs. 1 und 2 MarkenRL verlangen bei abgelaufener Schonfrist den Nachweis der ernsthaften Benutzung in den fünf Jahren **vor Antragstellung** und, wenn die Schonfrist schon am Anmeldetag der jüngeren Marke abgelaufen war, zusätzlich in den fünf Jahren **vor diesem Tag**. § 53 Abs. 6 und § 55 Abs. 3 MarkenG setzen das um.",
+       "Im Widerspruchsverfahren gilt nach Art. 44 nur der Zeitraum vor dem Anmeldetag der jüngeren Marke (§ 43 Abs. 1 MarkenG)."
+      ],
+      "merke": "",
+      "level": 3,
+      "concepts": [
+       "nichtbenutzungseinrede",
+       "verwaltungsverfahren_loeschung"
+      ],
+      "norms": [
+       "Art. 46 MarkenRL",
+       "Art. 44 MarkenRL",
+       "§ 53",
+       "§ 43 Abs. 1"
+      ],
+      "cases": [],
+      "step": null
+     },
+     {
+      "id": "k11c-4b",
+      "typ": "fall",
+      "titel": "Das Gütesiegel als Marke",
+      "sachverhalt": "Ein Prüfinstitut möchte sein Siegel „GEPRÜFTE QUALITÄT“ eintragen lassen. Es stellt selbst keine Waren her, sondern vergibt das Siegel an Hersteller, die seine Prüfkriterien erfüllen.",
+      "frage": "Gibt es dafür eine passende Markenkategorie?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Art. 27 lit. a und Art. 28 MarkenRL ermöglichen die **Gewährleistungsmarke**: eine Marke, die Waren mit vom Inhaber gewährleisteten Eigenschaften (Material, Herstellung, Qualität) von anderen unterscheidet. Der Inhaber darf die gewährleisteten Waren nicht selbst anbieten (Art. 28 Abs. 2).",
+       "Deutschland hat die Option genutzt: §§ 106a ff. MarkenG mit Satzungspflicht (§ 106d). Die Benutzung durch Berechtigte ist rechtserhaltend (Art. 28 Abs. 5, § 106b)."
+      ],
+      "merke": "Gewährleistungsmarke: Neutralität des Inhabers ist Voraussetzung.",
+      "level": 2,
+      "concepts": [
+       "kollektivmarke"
+      ],
+      "norms": [
+       "Art. 28 MarkenRL",
+       "§ 106a",
+       "§ 106d"
+      ],
+      "cases": [
+       "bgh_oeko_test_ii"
+      ],
+      "step": null
+     },
+     {
+      "id": "k11c-5",
+      "typ": "mc",
+      "titel": "Was das MaMoG geändert hat",
+      "sachverhalt": "",
+      "frage": "Welche Aussage über das Markenrechtsmodernisierungsgesetz 2019 ist falsch?",
+      "optionen": [
+       "Es hat die graphische Darstellbarkeit als Eintragungsvoraussetzung abgeschafft",
+       "Es hat die Gewährleistungsmarke eingeführt",
+       "Es hat die internationale Erschöpfung eingeführt",
+       "Es hat die Namensschranke auf natürliche Personen beschränkt"
+      ],
+      "richtig": 2,
+      "loesung": [
+       "Das MaMoG hat **keine** internationale Erschöpfung eingeführt; Art. 15 MarkenRL schreibt die unionsweite Erschöpfung fest und § 24 MarkenG blieb unverändert (keine Erschöpfung durch Inverkehrbringen in Drittstaaten).",
+       "Richtig sind: Wegfall der graphischen Darstellbarkeit (Art. 3), Gewährleistungsmarke (Art. 28, §§ 106a ff.), Namensschranke nur für natürliche Personen (Art. 14, § 23). Weitere Änderungen: § 14a Transit, § 14 Abs. 4 Vorbereitungshandlungen, § 26 Abs. 5 Schonfrist, § 42 Abs. 4 Cooling-off, § 53 Amtsverfahren, § 47 tagesgenaue Schutzdauer."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "markenrl",
+       "erschoepfung"
+      ],
+      "norms": [
+       "Art. 15 MarkenRL",
+       "§ 24"
+      ],
+      "cases": [],
+      "step": null
      }
     ]
    }

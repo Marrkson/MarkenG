@@ -52,7 +52,7 @@ h3{font-size:17px;margin:22px 0 8px;font-weight:600}
 .chip{display:inline-flex;align-items:center;gap:5px;font:13px/1.2 system-ui,sans-serif;padding:4px 10px;border-radius:20px;border:1px solid transparent;cursor:pointer;user-select:none}
 .chip::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor;opacity:.8}
 .chip.concept{background:var(--concept-soft);color:var(--concept)}
-.chip.norm{background:var(--norm-soft);color:var(--norm)}
+.chip.norm,.chip.eunorm{background:var(--norm-soft);color:var(--norm)}
 .chip.case{background:var(--case-soft);color:var(--case)}
 .chip.schema,.chip.step{background:var(--schema-soft);color:var(--schema)}
 .chip.distinction{background:var(--dist-soft);color:var(--dist)}
@@ -61,7 +61,7 @@ h3{font-size:17px;margin:22px 0 8px;font-weight:600}
 .chip:hover{filter:brightness(.95)}
 .slot:empty{display:none}
 .inline{border-left:3px solid var(--line);margin:8px 0 8px 4px;padding:10px 14px;background:var(--panel);border-radius:0 var(--radius) var(--radius) 0;box-shadow:var(--shadow)}
-.inline.concept{border-left-color:var(--concept)}.inline.norm{border-left-color:var(--norm)}.inline.case{border-left-color:var(--case)}
+.inline.concept{border-left-color:var(--concept)}.inline.norm,.inline.eunorm{border-left-color:var(--norm)}.inline.case{border-left-color:var(--case)}
 .inline.schema,.inline.step{border-left-color:var(--schema)}.inline.distinction{border-left-color:var(--dist)}.inline.source{border-left-color:var(--source)}
 .inline .kind{font:11px system-ui,sans-serif;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);display:flex;justify-content:space-between;align-items:center}
 .inline .kind a{font-size:12px;text-transform:none;letter-spacing:0}
@@ -154,10 +154,12 @@ __LAWJS__
 
 const txt = s => lawify(esc(s));
 const mdt = s => lawify(nl(s));
-const TYPE_LABEL = {norm:'Gesetz',concept:'Begriff',schema:'Prüfungsschema',step:'Prüfungspunkt',case:'Entscheidung',distinction:'Abgrenzung',source:'IPWiki'};
+const TYPE_LABEL = {norm:'Gesetz',eunorm:'Richtlinie',concept:'Begriff',schema:'Prüfungsschema',step:'Prüfungspunkt',case:'Entscheidung',distinction:'Abgrenzung',source:'IPWiki'};
 const steps = id => O(id).filter(e=>e.relation==='has_step').sort((a,b)=>a.order-b.order).map(e=>byId.get(e.target));
 const schemaOf = stepId => byId.get('schema:'+stepId.slice(5).split('.')[0]);
 const norms = id => O(id).filter(e=>['defined_in','applies','interprets'].includes(e.relation)).map(e=>({node:byId.get(e.target),ref:e.ref}));
+const implementsOf = id => O(id).filter(e=>e.relation==='implements').map(e=>byId.get(e.target));
+const implementedBy = id => I(id).filter(e=>e.relation==='implements').map(e=>({node:byId.get(e.source),ref:e.ref}));
 const cases = id => O(id).filter(e=>e.relation==='illustrated_by'||e.relation==='cites').map(e=>byId.get(e.target));
 const concepts = id => O(id).filter(e=>e.relation==='uses_concept'||e.relation==='related_to'||e.relation==='contrasts').map(e=>byId.get(e.target));
 const sources = id => O(id).filter(e=>e.relation==='documented_in').map(e=>byId.get(e.target));
@@ -170,8 +172,8 @@ const usedIn = id => { // Begriff/Entscheidung/Norm -> Schemata & Begriffe, die 
 };
 
 // ---------- Chips & inline cards ----------
-function chip(n, ref){ if(!n) return ''; const label = n.type==='norm' && ref ? ref+' MarkenG' : (n.type==='case'? n.court+' '+n.name : n.label);
-  const ext = n.type==='norm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf gesetze-im-internet.de nachlesen">↗</a>` : '';
+function chip(n, ref){ if(!n) return ''; const label = n.type==='norm' && ref ? ref+' MarkenG' : n.type==='eunorm' && ref ? ref : (n.type==='case'? n.court+' '+n.name : n.label);
+  const ext = n.type==='norm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf gesetze-im-internet.de nachlesen">↗</a>` : n.type==='eunorm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf EUR-Lex nachlesen">↗</a>` : '';
   return `<span class="chip ${n.type}" data-node="${n.id}" title="${esc(TYPE_LABEL[n.type])}: ${esc(n.label)}">${esc(label)}${ext}</span>`; }
 function chips(list, cls){ if(!list.length) return ''; return `<div class="chips">${list.map(x=>x.node?chip(x.node,x.ref):chip(x)).join('')}</div><div class="slot"></div>`; }
 function section(title, html){ return html ? `<div class="sec"><div class="meta" style="margin-top:8px">${title}</div>${html}</div>` : ''; }
@@ -184,7 +186,9 @@ function inlineCard(n, ref){
       + section('Normen', chips(norms(n.id))) + section('Rechtsprechung', chips(cases(n.id))) + section('Verwandte Begriffe', chips(concepts(n.id)))
       + section('IPWiki', sources(n.id).map(s=>`<a class="chip source" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>`).join(' '));
   } else if(n.type==='norm'){
-    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5>` + normText(n, ref) + `<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
+    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5>` + normText(n, ref) + section('Setzt um', chips(implementsOf(n.id))) + `<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
+  } else if(n.type==='eunorm'){
+    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)} · ${esc(n.kapitel)}${n.abschnitt?' · '+esc(n.abschnitt):''}</div>` + eunormText(n) + (n.hinweis?`<div class="merk"><b>Umsetzung/Hinweis:</b> ${txt(n.hinweis)}</div>`:'') + section('Umgesetzt durch', chips(implementedBy(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source)))) + section('Rechtsprechung', chips(I(n.id).filter(e=>e.relation==='interprets').map(e=>byId.get(e.source)))) + `<div class="meta">Inhalt als Paraphrase erfasst (amtlicher Wortlaut nicht abrufbar). <a href="${esc(n.url)}" target="_blank" rel="noopener">EUR-Lex ↗</a> · <a href="${esc(n.url_pdf)}" target="_blank" rel="noopener">PDF ↗</a></div>`;
   } else if(n.type==='case'){
     body = `<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.court)}, ${fmtDate(n.date)} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p class="def">${txt(n.kern)}</p>`
       + section('Normen', chips(norms(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='illustrated_by').map(e=>byId.get(e.source))));
@@ -207,6 +211,7 @@ function normText(n, ref){
   if(want && abs.length && abs.length<n.absaetze.length) html += `<div class="meta"><span class="chip norm" data-node="${n.id}" data-full="1">ganzen § ${esc(n.nummer)} anzeigen</span></div>`;
   return html;
 }
+function eunormText(n){ return n.absaetze.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${mdt(a.text)}</div>`).join(''); }
 function fmtDate(d){ const [y,m,dd]=d.split('-'); return `${dd}.${m}.${y}`; }
 function cmpTable(n){
   return `<p class="def"><i>${txt(n.frage)}</i></p><div style="overflow-x:auto"><table class="cmp"><tr><th></th>${n.spalten.map(s=>`<th>${esc(s)}</th>`).join('')}</tr>`
@@ -233,7 +238,7 @@ document.addEventListener('click', ev=>{
 // ---------- Views ----------
 const NAV = [
   ['grp','Lernen'],['#/start','Start'],['#/schemata','Prüfungsschemata'],['#/cards','Karteikarten'],['#/graph','Graph-Explorer'],
-  ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/sources','IPWiki-Quellen']
+  ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/richtlinie','Markenrechtsrichtlinie'],['#/sources','IPWiki-Quellen']
 ];
 function renderNav(){ const h=location.hash||'#/start'; document.getElementById('nav').innerHTML = NAV.map(([a,b])=>a==='grp'?`<div class="grp">${b}</div>`:`<a href="${a}" class="${h.startsWith(a)?'active':''}">${b}</a>`).join(''); }
 const main = document.getElementById('main');
@@ -242,7 +247,7 @@ function route(){
   const h = decodeURIComponent(location.hash||'#/start').replace(/^#\//,''); const [view,...rest]=h.split('/'); const id=rest.join('/');
   window.scrollTo(0,0);
   if(view!=='search' && q.value) q.value='';
-  const V = {start:vStart,schemata:vSchemata,schema:vSchema,cards:vCards,graph:vGraph,concepts:vConcepts,concept:vNode,distinctions:vDistinctions,distinction:vNode,cases:vCases,case:vNode,law:vLaw,norm:vNode,step:vStep,sources:vSources,source:vNode,search:vSearch};
+  const V = {start:vStart,richtlinie:vRichtlinie,eunorm:vNode,schemata:vSchemata,schema:vSchema,cards:vCards,graph:vGraph,concepts:vConcepts,concept:vNode,distinctions:vDistinctions,distinction:vNode,cases:vCases,case:vNode,law:vLaw,norm:vNode,step:vStep,sources:vSources,source:vNode,search:vSearch};
   (V[view]||vStart)(id);
 }
 window.addEventListener('hashchange',route);
@@ -257,6 +262,7 @@ function vStart(){
     ${tile('#/distinctions','Abgrenzungen',`${st.distinction} Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft.`)}
     ${tile('#/cases','Rechtsprechung',`${st.case} Leitentscheidungen des BGH und EuGH mit Kernaussage.`)}
     ${tile('#/law','Gesetz',`Volltext des MarkenG (${st.norm} Paragraphen).`)}
+    ${tile('#/richtlinie','Markenrechtsrichtlinie',`${st.eunorm-1} Artikel der RL (EU) 2015/2436 mit Umsetzungstabelle.`)}
     ${tile('#/graph','Graph-Explorer','Nachbarschaft eines Knotens visuell erkunden.')}
     ${tile('#/sources','IPWiki','Verweise auf '+st.source+' IPWiki-Artikel.')}
   </div>
@@ -317,6 +323,16 @@ function vLaw(){
     html+=`<a href="#/norm/${n.id}">${esc(n.label.replace(' MarkenG',''))} ${esc(n.titel)}</a>`; }
   main.innerHTML = `<h2>Markengesetz (MarkenG)</h2><p class="lead">Gesetz über den Schutz von Marken und sonstigen Kennzeichen. Quelle: gesetze-im-internet.de (Spiegel bundestag/gesetze). Stand: ${esc(G.meta.gesetz_stand['Zuletzt geändert durch']||'')}.</p><div class="card toc">${html}</div>`;
 }
+function vRichtlinie(){
+  const list=G.nodes.filter(n=>n.type==='eunorm'&&n.nummer!=='0').sort((a,b)=>+a.nummer-+b.nummer); let cur=null,curA=null,html='';
+  for(const n of list){ if(n.kapitel!==cur){cur=n.kapitel;html+=`<div class="h">${esc(cur)}</div>`;curA=null;} if(n.abschnitt&&n.abschnitt!==curA){curA=n.abschnitt;html+=`<div class="h" style="font-weight:500;font-size:13px">${esc(curA)}</div>`;}
+    html+=`<a href="#/eunorm/${n.id}">Art. ${esc(n.nummer)} ${esc(n.titel)}</a>`; }
+  const umsetzung = byId.get('distinction:d_markenrl_umsetzung');
+  main.innerHTML = `<h2>Markenrechtsrichtlinie (EU) 2015/2436</h2><p class="lead">Richtlinie des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (Neufassung), ABl. L 336, S. 1. Der Bauplan des MarkenG: Jeder Artikel zeigt, welche Vorschrift ihn umsetzt.</p>
+    <div class="card"><b>Hinweis:</b> Die Artikel sind als inhaltlich vollständige Paraphrase erfasst, nicht im amtlichen Wortlaut (EUR-Lex war beim Erstellen nicht erreichbar). Für Zitate: <a href="${esc(G.meta.markenrl.quelle)}" target="_blank" rel="noopener">EUR-Lex ↗</a>.
+    ${chips([byId.get('eunorm:markenrl:erwaegungsgruende'), byId.get('schema:schema_markenrl'), umsetzung, byId.get('concept:markenrl'), byId.get('concept:richtlinienkonforme_auslegung')])}</div>
+    <div class="card toc">${html}</div>`;
+}
 function vSources(){
   const list=G.nodes.filter(n=>n.type==='source');
   main.innerHTML=`<h2>IPWiki-Quellen</h2><p class="lead">Artikel des IPWiki (www.ipwiki.de) zum Markenrecht, die den Begriffen zugeordnet sind. Die Kurzbeschreibungen stammen aus den Suchergebnissen; der Volltext ist auf ipwiki.de abrufbar.</p>`+
@@ -324,7 +340,7 @@ function vSources(){
 }
 function vNode(id){
   const n=byId.get(id); if(!n){ main.innerHTML='<p>Nicht gefunden.</p>'; return; }
-  const back = {concept:'#/concepts',case:'#/cases',norm:'#/law',distinction:'#/distinctions',source:'#/sources'}[n.type]||'#/start';
+  const back = {concept:'#/concepts',case:'#/cases',norm:'#/law',eunorm:'#/richtlinie',distinction:'#/distinctions',source:'#/sources'}[n.type]||'#/start';
   const u=usedIn(n.id);
   const usage = [...u.schema.values()].length||[...u.concept.values()].length||[...u.distinction.values()].length
     ? `<div class="card"><h4>Verwendung</h4>${section('In Prüfungsschemata',chips([...u.schema.values()]))}${section('Prüfungspunkte',chips([...u.step.values()]))}${section('Von Begriffen referenziert',chips([...u.concept.values()]))}${section('Abgrenzungen',chips([...u.distinction.values()]))}</div>` : '';
@@ -337,9 +353,9 @@ q.addEventListener('input',()=>{ const v=q.value.trim(); if(v.length>=2){ locati
 document.addEventListener('keydown',e=>{ if(e.key==='/'&&document.activeElement!==q){e.preventDefault();q.focus();} });
 function vSearch(term){
   term=decodeURIComponent(term||''); const t=term.toLowerCase(); if(q.value!==term) q.value=term;
-  const score=n=>{ const f=[n.label,n.name,n.az,n.definition,n.kern,n.titel,n.text,n.frage,n.summary].filter(Boolean).join(' ').toLowerCase(); if(!f.includes(t)) return 0; return (n.label||'').toLowerCase().includes(t)?3:(n.type==='norm'&&(n.label.toLowerCase()===('§ '+t+' markeng')||n.label.toLowerCase().startsWith('§ '+t.replace('§','').trim()))?4:1); };
+  const score=n=>{ const f=[n.label,n.name,n.az,n.definition,n.kern,n.titel,n.text,n.frage,n.summary,n.type==='eunorm'?n.absaetze.map(a=>a.text).join(' '):''].filter(Boolean).join(' ').toLowerCase(); if(!f.includes(t)) return 0; return (n.label||'').toLowerCase().includes(t)?3:(n.type==='norm'&&(n.label.toLowerCase()===('§ '+t+' markeng')||n.label.toLowerCase().startsWith('§ '+t.replace('§','').trim()))?4:1); };
   const hits=G.nodes.filter(n=>n.type!=='step').map(n=>[score(n),n]).filter(x=>x[0]>0).sort((a,b)=>b[0]-a[0]).slice(0,60);
-  const snippet=n=>{ const f=[n.definition,n.kern,n.text,n.frage,n.summary,n.beschreibung].filter(Boolean).join(' '); const i=f.toLowerCase().indexOf(t); const s=i<0?f.slice(0,160):f.slice(Math.max(0,i-70),i+110); return esc(s).replace(new RegExp(esc(term).replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'ig'),m=>`<mark>${m}</mark>`); };
+  const snippet=n=>{ const f=[n.definition,n.kern,n.text,n.frage,n.summary,n.beschreibung,n.type==='eunorm'?n.absaetze.map(a=>a.text).join(' '):''].filter(Boolean).join(' '); const i=f.toLowerCase().indexOf(t); const s=i<0?f.slice(0,160):f.slice(Math.max(0,i-70),i+110); return esc(s).replace(new RegExp(esc(term).replace(/[.*+?^${}()|[\]\\]/g,'\\$&'),'ig'),m=>`<mark>${m}</mark>`); };
   main.innerHTML=`<h2>Suche: „${esc(term)}“</h2><p class="lead">${hits.length} Treffer</p>`+hits.map(([s,n])=>`<div class="hit" onclick="location.hash='#/${n.type}/${n.id}'"><div class="k">${esc(TYPE_LABEL[n.type])}</div><b>${esc(n.type==='case'?n.court+' '+n.name+' ('+n.az+')':n.label)}</b><div class="meta">…${snippet(n)}…</div></div>`).join('');
 }
 
@@ -376,10 +392,10 @@ function vCards(sub){
   if(mode==='schema'){ const s=byId.get(arg); if(s) document.querySelector('.lead').insertAdjacentHTML('beforeend',` <b>Auswahl: ${esc(s.label)}</b>`); }
   start();
 }
-const TYPN={definition:'Definition',begriff:'Begriff erkennen',schema:'Prüfungsschema',schema_step:'Prüfungspunkt',abgrenzung:'Abgrenzung',entscheidung:'Entscheidung',entscheidung_r:'Entscheidung erkennen',norm:'Norm'};
+const TYPN={definition:'Definition',begriff:'Begriff erkennen',schema:'Prüfungsschema',schema_step:'Prüfungspunkt',abgrenzung:'Abgrenzung',entscheidung:'Entscheidung',entscheidung_r:'Entscheidung erkennen',norm:'Norm',eunorm:'Richtlinienartikel'};
 
 // ---------- Graph-Explorer (Ego-Netz, einfache Kräftesimulation) ----------
-const COLORS={norm:'#2b5b8a',concept:'#8a2f1f',schema:'#2f6b4f',step:'#5f9a7b',case:'#6a4c93',distinction:'#a56b00',source:'#4b6b6b'};
+const COLORS={norm:'#2b5b8a',eunorm:'#1f5f8b',concept:'#8a2f1f',schema:'#2f6b4f',step:'#5f9a7b',case:'#6a4c93',distinction:'#a56b00',source:'#4b6b6b'};
 function vGraph(id){
   const start = byId.get(id) || byId.get('concept:verwechslungsgefahr');
   main.innerHTML=`<h2>Graph-Explorer</h2><p class="lead">Nachbarschaft von <b id="gTitle"></b>. Klick auf einen Knoten wählt ihn als Zentrum; Doppelklick öffnet den Eintrag. Tiefe: <select id="gDepth"><option value="1">1</option><option value="2">2</option></select> <label><input type="checkbox" id="gNorms" checked> Normen</label> <label><input type="checkbox" id="gSteps"> Prüfungspunkte</label> <label><input type="checkbox" id="gSrc"> IPWiki</label></p>
@@ -387,7 +403,7 @@ function vGraph(id){
   const cv=document.getElementById('gcanvas'), ctx=cv.getContext('2d'); let center=start, nodes=[], links=[], anim, drag=null, hover=null;
   const opts=()=>({depth:+document.getElementById('gDepth').value, norms:document.getElementById('gNorms').checked, steps:document.getElementById('gSteps').checked, src:document.getElementById('gSrc').checked});
   function build(){
-    const o=opts(); const keep=n=>n&&(o.norms||n.type!=='norm')&&(o.steps||n.type!=='step')&&(o.src||n.type!=='source');
+    const o=opts(); const keep=n=>n&&(o.norms||(n.type!=='norm'&&n.type!=='eunorm'))&&(o.steps||n.type!=='step')&&(o.src||n.type!=='source');
     const set=new Map([[center.id,0]]); let frontier=[center.id];
     for(let d=1; d<=o.depth; d++){ const nf=[]; for(const id of frontier){ for(const e of [...O(id),...I(id)]){ const other=e.source===id?e.target:e.source; const n=byId.get(other); if(!keep(n)||set.has(other)) continue; if(n.type==='step'&&!o.steps) continue; set.set(other,d); nf.push(other); if(set.size>70) break; } } frontier=nf; }
     const W=cv.width=cv.clientWidth*devicePixelRatio, H=cv.height=cv.clientHeight*devicePixelRatio; ctx.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0);

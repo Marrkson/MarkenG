@@ -14,6 +14,7 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
+| `src/knowledge/markenrl.py` | Markenrechtsrichtlinie (EU) 2015/2436: alle 57 Artikel als Paraphrase je Absatz, Erwägungsgründe, Umsetzungstabelle zum MarkenG |
 | `src/knowledge/` | kuratiertes Fachwissen (Begriffe, Schemata, Abgrenzungen, Entscheidungen, IPWiki-Index) |
 | `src/knowledge/kurse/` | die zehn Fallkurse (`data/kurse.json` ist der Export) |
 | `src/*.py`, `build.py` | Build-Pipeline |
@@ -31,6 +32,7 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 `docs/index.html` im Browser öffnen. Keine Installation, keine externen Ressourcen.
 
+- **Markenrechtsrichtlinie**: alle 57 Artikel der RL (EU) 2015/2436 mit Kapitelgliederung, je Artikel die umsetzenden MarkenG-Normen, Hinweise zu den Änderungen durch das MaMoG 2019 und die zugehörigen EuGH-Entscheidungen; Umsetzungstabelle als Abgrenzung; Schema „Markenrechtsrichtlinie anwenden“.
 - **Prüfungsschemata**: Gutachtenaufbau z.B. für die Markenverletzung ([§ 14](https://www.gesetze-im-internet.de/markeng/__14.html)), die Verwechslungsgefahr,
   den Bekanntheitsschutz, die Eintragungsfähigkeit (§§ [3](https://www.gesetze-im-internet.de/markeng/__3.html), [8](https://www.gesetze-im-internet.de/markeng/__8.html)), §§ [23](https://www.gesetze-im-internet.de/markeng/__23.html)/[24](https://www.gesetze-im-internet.de/markeng/__24.html), Benutzungszwang, §§ [5](https://www.gesetze-im-internet.de/markeng/__5.html)/[15](https://www.gesetze-im-internet.de/markeng/__15.html),
   Widerspruch und Löschung, die relativen Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3) sowie
@@ -47,12 +49,12 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 ## Graph-Modell
 
-Knotentypen: `norm` (Paragraph mit Absätzen), `concept` (Definition + Erläuterung), `schema`,
+Knotentypen: `norm` (Paragraph mit Absätzen), `eunorm` (Artikel der MarkenRL, Paraphrase), `concept` (Definition + Erläuterung), `schema`,
 `step` (Prüfungspunkt, baumförmig), `case` (Entscheidung mit Kernaussage, Aktenzeichen, Fundstelle,
 dejure-Link), `distinction` (Vergleichstabelle), `source` (IPWiki-Artikel), `course`, `chapter`, `unit`
 (Fallkurs; Einheiten verweisen mit `trains`, `cites`, `applies`, `covers` auf Begriffe, Entscheidungen, Normen und Prüfungspunkte).
 
-Kanten: `defined_in`, `related_to`, `illustrated_by`, `documented_in`, `interprets`, `has_step`,
+Kanten: `defined_in`, `related_to`, `illustrated_by`, `documented_in`, `interprets`, `implements` (MarkenG-Norm setzt MarkenRL-Artikel um), `has_step`,
 `next_step`, `uses_concept`, `cites`, `applies`, `contrasts`.
 
 ## Karteikarten in Anki importieren
@@ -86,13 +88,19 @@ für die HTML-Apps wird daraus erzeugt (`js_source`), damit beide identisch verl
   HGB, TMG, GKG und weitere; Tabelle `LAWS` im Modul).
 - Ketten werden je Vorschrift einzeln verlinkt: `§§ 9 bis 13`, `§§ 3, 7, 8`, `§§ 23/24`,
   `§§ 112-125`.
-- Unionsrecht und internationale Abkommen (UMV, MarkenRL, PMMA, PVÜ) stehen nicht auf
-  gesetze-im-internet.de und bleiben deshalb unverlinkt.
+- Unionsrecht (MarkenRL, UMV, AEUV) steht nicht auf gesetze-im-internet.de; Zitate führen deshalb auf
+  das Dokument bei EUR-Lex. Internationale Abkommen (PMMA, PVÜ) bleiben unverlinkt.
 - Normen-Chips tragen zusätzlich ein ↗ direkt zur amtlichen Fassung.
 
 Erkennung prüfen: `python3 src/knowledge/gesetze.py` gibt Beispielzitate mit Links aus.
 
 ## Quellen und Hinweise
+
+- **Markenrechtsrichtlinie (EU) 2015/2436**: EUR-Lex war aus der Build-Umgebung nicht erreichbar.
+  Die Artikel in `src/knowledge/markenrl.py` sind deshalb inhaltlich vollständige **Paraphrasen**
+  je Absatz, kein amtlicher Wortlaut. Für Zitate den Text auf
+  [EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) prüfen; beide
+  Apps und die Karteikarten weisen darauf hin.
 
 - **Gesetzestext**: gesetze-im-internet.de, bezogen über den Spiegel
   [bundestag/gesetze](https://github.com/bundestag/gesetze) (Stand im Repo: Änderungen bis 2021

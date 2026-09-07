@@ -45,15 +45,20 @@ from knowledge.distinctions import DISTINCTIONS  # noqa: E402
 from knowledge.ipwiki import IPWIKI, IPWIKI_BASE  # noqa: E402
 from knowledge.schemata import SCHEMATA  # noqa: E402
 from knowledge.kurse import KURSE  # noqa: E402
+from knowledge.markenrl import ARTIKEL, ERWAEGUNGSGRUENDE, URL as MARKENRL_URL, URL_PDF as MARKENRL_PDF  # noqa: E402
 
 STATUTE = ROOT / "data" / "markeng.json"
 OUT = ROOT / "graph" / "markenrecht_graph.json"
 
 NORM_RE = re.compile(r"§ (\d+[a-z]?)")
+EUNORM_RE = re.compile(r"Art\. (\d+[a-z]?)(?: .*)? MarkenRL$")
 
 
 def norm_id(ref: str) -> str:
-    """'§ 14 Abs. 2 Nr. 2' -> 'norm:§14'"""
+    """'§ 14 Abs. 2 Nr. 2' -> 'norm:§14'; 'Art. 10 Abs. 2 MarkenRL' -> 'eunorm:markenrl:10'"""
+    m = EUNORM_RE.match(ref)
+    if m:
+        return f"eunorm:markenrl:{m.group(1)}"
     m = NORM_RE.match(ref)
     if not m:
         raise ValueError(ref)
@@ -87,7 +92,27 @@ def build():
                       nummer=p["nummer"], teil=p["teil"], abschnitt=p["abschnitt"],
                       absaetze=p["absaetze"], text=p["text"],
                       url=f"https://www.gesetze-im-internet.de/markeng/__{p['nummer']}.html"))
+    # --- Markenrechtsrichtlinie (EU) 2015/2436 ---
+    for a in ARTIKEL:
+        add_node(dict(id=f"eunorm:markenrl:{a['nr']}", type="eunorm", label=f"Art. {a['nr']} MarkenRL", titel=a["titel"],
+                      nummer=a["nr"], gesetz="Richtlinie (EU) 2015/2436", kapitel=a["kapitel"], abschnitt=a["abschnitt"],
+                      absaetze=a["absaetze"], hinweis=a["hinweis"], url=MARKENRL_URL, url_pdf=MARKENRL_PDF,
+                      paraphrase=True))
+    add_node(dict(id="eunorm:markenrl:erwaegungsgruende", type="eunorm", label="Erwägungsgründe MarkenRL", titel="Erwägungsgründe (Auswahl)",
+                  nummer="0", gesetz="Richtlinie (EU) 2015/2436", kapitel="Präambel", abschnitt=None,
+                  absaetze=[dict(nr=e["nr"], text=e["text"]) for e in ERWAEGUNGSGRUENDE], hinweis="", url=MARKENRL_URL, url_pdf=MARKENRL_PDF, paraphrase=True))
     norm_ids = {n["id"] for n in nodes}
+    for a in ARTIKEL:
+        aid = f"eunorm:markenrl:{a['nr']}"
+        for ref in a["umsetzung"]:
+            nid = norm_id(ref)
+            if nid not in norm_ids:
+                raise ValueError(f"Unbekannte Umsetzungsnorm {ref} bei Art. {a['nr']} MarkenRL")
+            add_edge(nid, aid, "implements", ref=ref)
+        for c in a["concepts"]:
+            add_edge(f"concept:{c}", aid, "defined_in", ref=f"Art. {a['nr']} MarkenRL")
+        for c in a["cases"]:
+            add_edge(f"case:{c}", aid, "interprets", ref=f"Art. {a['nr']} MarkenRL")
 
     def link_norms(src, refs, rel):
         for r in refs:
@@ -178,6 +203,16 @@ def build():
                 if e["typ"] == "schema":
                     add_edge(uid, f"schema:{e['schema']}", "covers")
 
+    # Doppelte Kanten entfernen (z.B. Begriff -> Artikel aus beiden Richtungen erfasst)
+    seen_e, dedup = set(), []
+    for e in edges:
+        key = (e["source"], e["target"], e["relation"], e.get("ref"))
+        if key in seen_e:
+            continue
+        seen_e.add(key)
+        dedup.append(e)
+    edges[:] = dedup
+
     # Validierung
     ids = {n["id"] for n in nodes}
     for e in edges:
@@ -189,9 +224,10 @@ def build():
         meta=dict(
             titel="Wissensgraph Markenrecht (MarkenG)",
             beschreibung="Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Markenrecht.",
+            markenrl=dict(quelle=MARKENRL_URL, hinweis="Artikel der Richtlinie (EU) 2015/2436 sind als Paraphrase erfasst (amtlicher Wortlaut aus der Build-Umgebung nicht abrufbar)."),
             gesetz_quelle=statute["quelle"], gesetz_stand=statute["meta"],
             statistik={t: sum(1 for n in nodes if n["type"] == t) for t in
-                       ["norm", "concept", "schema", "step", "case", "distinction", "source", "course", "chapter", "unit"]},
+                       ["norm", "eunorm", "concept", "schema", "step", "case", "distinction", "source", "course", "chapter", "unit"]},
             kanten=len(edges),
         ),
         nodes=nodes, edges=edges,

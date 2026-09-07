@@ -72,6 +72,20 @@ Die Pipeline parst `data/markeng.md`, baut den Graphen aus `src/knowledge/` (ink
 rendert beide Apps aus `src/templates/app.html` und `src/templates/kurs.html`. Inhalte werden ausschließlich in `src/knowledge/`
 gepflegt.
 
+## Deployment auf GitHub Pages
+
+Der Workflow `.github/workflows/pages.yml` läuft bei jedem Push auf `main` (und manuell über
+„Run workflow“). Er baut Graph, Karteikarten und beide Apps neu und veröffentlicht:
+
+| URL | Inhalt |
+|---|---|
+| `https://<owner>.github.io/MarkenG/` | Fallkurs (Jurafuchs-Format) |
+| `https://<owner>.github.io/MarkenG/navigator/` | Lernnavigator |
+
+Beim ersten Lauf aktiviert der Workflow GitHub Pages selbst (Quelle „GitHub Actions“). Falls das
+an fehlenden Rechten scheitert: Settings → Pages → Source „GitHub Actions“ wählen und den Workflow
+erneut starten. Der Lernfortschritt liegt in Cookies, die auf den Pfad `/MarkenG/` begrenzt sind.
+
 ## Gesetzeszitate
 
 Jedes Zitat einer deutschen Vorschrift wird automatisch auf

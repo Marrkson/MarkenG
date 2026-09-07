@@ -220,9 +220,10 @@ const DAY = () => Math.floor(Date.now()/86400000);
 const Store = (()=>{
   const NAME='mgk_p', META='mgk_m';
   const getC = n => { const m=document.cookie.match(new RegExp('(?:^|; )'+n+'=([^;]*)')); return m?decodeURIComponent(m[1]):null; };
-  const setC = (n,v) => { document.cookie = n+'='+encodeURIComponent(v)+'; max-age=31536000; path=/; SameSite=Lax'; };
+  const CPATH = location.pathname.replace(/[^/]*$/, '') || '/';
+  const setC = (n,v) => { document.cookie = n+'='+encodeURIComponent(v)+'; max-age=31536000; path='+CPATH+'; SameSite=Lax'; };
   let mode = 'cookie';
-  const probe = () => { try{ setC('mgk_t','1'); const ok = getC('mgk_t')==='1'; document.cookie='mgk_t=; max-age=0; path=/'; if(!ok) mode='local'; }catch(e){ mode='local'; } };
+  const probe = () => { try{ setC('mgk_t','1'); const ok = getC('mgk_t')==='1'; document.cookie='mgk_t=; max-age=0; path='+CPATH; if(!ok) mode='local'; }catch(e){ mode='local'; } };
   probe();
   const rd = n => { try{ return mode==='cookie' ? getC(n) : localStorage.getItem(n); }catch(e){ return null; } };
   const wr = (n,v) => { try{ if(mode==='cookie') setC(n,v); else localStorage.setItem(n,v); }catch(e){} };
@@ -235,7 +236,7 @@ const Store = (()=>{
     wr(NAME, Object.entries(p.u).map(([id,v])=>`${id}.${v.r}.${v.d}.${v.n}`).join('_'));
     wr(META, [p.s.last,p.s.cnt,p.s.best,p.xp,p.last,p.ack].join(','));
   };
-  const clear = () => { wr(NAME,''); wr(META,''); if(mode==='cookie'){ document.cookie='mgk_p=; max-age=0; path=/'; document.cookie='mgk_m=; max-age=0; path=/'; } };
+  const clear = () => { wr(NAME,''); wr(META,''); if(mode==='cookie'){ document.cookie='mgk_p=; max-age=0; path='+CPATH; document.cookie='mgk_m=; max-age=0; path='+CPATH; } };
   return {load, save, clear, mode:()=>mode};
 })();
 let P = Store.load();

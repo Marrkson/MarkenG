@@ -347,6 +347,7 @@ function vDidaktik(){
   <h3>4. Vernetzt</h3><p>Begriffe, Normen und Entscheidungen lassen sich in jeder Lösung inline aufklappen. Sie stammen aus dem Wissensgraphen, der auch den Lernnavigator und die Karteikarten speist.</p>
   <h3>5. Wiederholen und dranbleiben</h3><p>Falsche Antworten landen in der Wiederholung; richtige kehren nach wachsenden Intervallen zurück. Streak und Punkte machen den Fortschritt sichtbar. Der Fortschritt bleibt per Cookie auf deinem Gerät.</p>
   <h3>Schwierigkeitsgrade</h3><p><span class="lvl">Basics</span> Grundregel und Definition · <span class="lvl">Fortgeschritten</span> Abgrenzung und Ausnahme · <span class="lvl">Examen</span> Rechtsprechungsdetail und Meinungsstand.</p>
+  <p><a class="btn ghost" href="navigator/">Zum Lernnavigator: Prüfungsschemata, Begriffe, Rechtsprechung, Gesetz</a></p>
   <p class="meta">Tastatur im Fall: <span class="kbd">J</span>/<span class="kbd">N</span> antworten, <span class="kbd">1</span>–<span class="kbd">4</span> bei Auswahlfragen, <span class="kbd">Enter</span> weiter.</p></div>`;
 }
 function notice(){ const n=document.getElementById('notice'); if(P.ack||Store.mode()!=='cookie'){ n.hidden=true; return; } n.hidden=false; n.className='notice'; n.innerHTML=`<span>Dein Lernfortschritt wird in einem Cookie auf diesem Gerät gespeichert (kein Tracking, keine Übermittlung).</span><button class="btn primary" id="ack">Alles klar</button>`; document.getElementById('ack').onclick=()=>{ P.ack=1; Store.save(P); n.hidden=true; }; }

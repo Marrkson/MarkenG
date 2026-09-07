@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Erzeugt die fallbasierte Lernapp docs/kurse/index.html (Jurafuchs-artiges Format)
+"""Erzeugt die fallbasierte Lernapp docs/index.html (Jurafuchs-artiges Format, Startseite)
 sowie data/kurse.json."""
 import json
 import sys
@@ -13,7 +13,7 @@ from knowledge.kurse import KURSE  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
-OUT = ROOT / "docs" / "kurse" / "index.html"
+OUT = ROOT / "docs" / "index.html"
 DATA = ROOT / "data" / "kurse.json"
 
 

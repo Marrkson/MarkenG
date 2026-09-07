@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Erzeugt die eigenständige HTML-Lernapp docs/index.html aus Graph und Karteikarten."""
+"""Erzeugt den Lernnavigator docs/navigator/index.html aus Graph und Karteikarten."""
 import json
 import sys
 from pathlib import Path
@@ -12,7 +12,7 @@ from knowledge.gesetze import js_source  # noqa: E402
 TEMPLATE = ROOT / "src" / "templates" / "app.html"
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
 CARDS = ROOT / "flashcards" / "karteikarten.json"
-OUT = ROOT / "docs" / "index.html"
+OUT = ROOT / "docs" / "navigator" / "index.html"
 
 
 def embed(obj):
@@ -27,7 +27,7 @@ def build():
             .replace("__DATA__", embed(graph))
             .replace("__CARDS__", embed(cards))
             .replace("__LAWJS__", js_source()))
-    OUT.parent.mkdir(exist_ok=True)
+    OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
     print(f"HTML -> {OUT.relative_to(ROOT)} ({OUT.stat().st_size/1024:.0f} KB)")
 

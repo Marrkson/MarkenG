@@ -266,6 +266,8 @@ function vStart(){
     ${tile('#/graph','Graph-Explorer','Nachbarschaft eines Knotens visuell erkunden.')}
     ${tile('#/sources','IPWiki','Verweise auf '+st.source+' IPWiki-Artikel.')}
   </div>
+  <h3>Fallkurs</h3>
+  <div class="card"><a href="../">Zum Fallkurs: Fälle mit Frage, sofortigem Feedback und Fortschritt (Jurafuchs-Format) →</a></div>
   <h3>Einstieg für die Klausur</h3>
   <div class="card">${chips([byId.get('schema:schema_markenverletzung'),byId.get('schema:schema_verwechslungsgefahr'),byId.get('schema:schema_eintragungsfaehigkeit'),byId.get('distinction:d_kennzeichnungskraft_unterscheidungskraft'),byId.get('concept:markenmaessige_benutzung')])}</div>
   <p class="meta">Gesetzesstand: ${esc(G.meta.gesetz_stand['Zuletzt geändert durch']||'')} · Quelle: gesetze-im-internet.de (Spiegel bundestag/gesetze). Tastatur: <span class="kbd">/</span> Suche.</p>`;

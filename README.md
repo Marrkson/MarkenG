@@ -74,17 +74,26 @@ gepflegt.
 
 ## Deployment auf GitHub Pages
 
-Der Workflow `.github/workflows/pages.yml` läuft bei jedem Push auf `main` (und manuell über
-„Run workflow“). Er baut Graph, Karteikarten und beide Apps neu und veröffentlicht:
+Der Ordner `docs/` ist die fertige Website; er wird mitversioniert. Zwei Wege, beide brauchen
+einmalig einen Klick in den Repo-Settings:
+
+**A. GitHub Actions (empfohlen, baut bei jedem Push aus den Quellen):**
+Settings → Pages → Source „GitHub Actions“ wählen. Danach läuft `.github/workflows/pages.yml`
+bei jedem Push auf `main` (und manuell über „Run workflow“): `python3 build.py`, dann Upload von
+`docs/`. Änderungen in `src/knowledge/` erscheinen so auch dann, wenn man vergisst, lokal zu bauen.
+
+**B. Direkt aus dem Branch (kein Workflow nötig):**
+Settings → Pages → Source „Deploy from a branch“, Branch `main`, Ordner `/docs`. GitHub
+veröffentlicht dann die eingecheckten HTML-Dateien bei jedem Push. Vor dem Push `python3 build.py`
+ausführen, damit `docs/` aktuell ist. Bei diesem Weg die Datei `.github/workflows/pages.yml`
+löschen, sonst läuft der Workflow leer mit.
 
 | URL | Inhalt |
 |---|---|
-| `https://<owner>.github.io/MarkenG/` | Fallkurs (Jurafuchs-Format) |
+| `https://<owner>.github.io/MarkenG/` | Fallkurs |
 | `https://<owner>.github.io/MarkenG/navigator/` | Lernnavigator |
 
-Beim ersten Lauf aktiviert der Workflow GitHub Pages selbst (Quelle „GitHub Actions“). Falls das
-an fehlenden Rechten scheitert: Settings → Pages → Source „GitHub Actions“ wählen und den Workflow
-erneut starten. Der Lernfortschritt liegt in Cookies, die auf den Pfad `/MarkenG/` begrenzt sind.
+Der Lernfortschritt liegt in Cookies, die auf den Pfad der Seite begrenzt sind.
 
 ## Gesetzeszitate
 

@@ -1,6 +1,8 @@
-# Baut den Wissensgraphen, die Karteikarten und beide Web-Apps und veröffentlicht
-# den Fallkurs (Jurafuchs-Format) als Startseite auf GitHub Pages.
-# Lernnavigator liegt zusätzlich unter /navigator/.
+# Baut bei jedem Push auf main den Wissensgraphen, die Karteikarten und beide Web-Apps
+# neu und veröffentlicht den Ordner docs/ auf GitHub Pages:
+#   /            Fallkurs (Jurafuchs-Format)
+#   /navigator/  Lernnavigator
+# Voraussetzung (einmalig): Settings -> Pages -> Source "GitHub Actions".
 name: GitHub Pages
 
 on:
@@ -26,21 +28,11 @@ jobs:
         with:
           python-version: "3.12"
       - name: Graph, Karteikarten und Apps bauen
-        run: |
-          python3 build.py
-          python3 src/build_kurs.py
-      - name: Seite zusammenstellen (Fallkurs als Startseite)
-        run: |
-          mkdir -p site/navigator
-          cp docs/kurse/index.html site/index.html
-          cp docs/index.html site/navigator/index.html
-          touch site/.nojekyll
+        run: python3 build.py
       - uses: actions/configure-pages@v5
-        with:
-          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: docs
 
   deploy:
     needs: build

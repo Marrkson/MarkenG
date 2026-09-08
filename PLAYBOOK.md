@@ -119,6 +119,32 @@ insgesamt 120 bis 150; etwa 70 % Ja/Nein-Fälle, 15 % MC, 15 % Intro/Schema. Fä
 Leitentscheidungen anlehnen (der Fall im Kurs ist der Fall des BGH in drei Sätzen), dann trägt
 die Verlinkung auf die Entscheidung den Lernstoff.
 
+### 5a. Kurse aus Prüfungsklausuren
+
+Für Kurs 12 wurden die NS-Klausuren der Patentanwaltsprüfung (kandidatentreff.de) heruntergeladen,
+mit `pdftotext -layout` extrahiert und jede Klausur dem zugrunde liegenden Beschluss zugeordnet.
+Was funktioniert hat: Volltextsuche der BPatG-Entscheidungsdatenbank per `curl`
+(`Entscheidungen_Formular.html?templateQueryString=<Wort>&cl2LanguageEnts_Themenbereich=marke`)
+nach Markenwörtern, Registernummern oder ungewöhnlichen Verfahrensbegriffen („Abholfach“, „Amtsliste“);
+die PDFs unter `SharedDocs/Entscheidungen/DE/<Jahr>/…` lassen sich direkt laden. rewis.io und lexika.de
+liefern Volltexte, wenn ein Aktenzeichen bekannt ist; dejure.org bestätigt Datum und Aktenzeichen.
+Ein Treffer gilt erst als sicher, wenn Waren-/Dienstleistungsverzeichnis, Daten und Verfahrensgang mit
+der Klausur übereinstimmen (Prüfer tauschen Namen und verschieben Jahre). Etwa die Hälfte der
+Klausuren sind reine Lehrfälle ohne Beschluss; diese Einheiten stützen sich auf Lösungshinweise und
+Standardrechtsprechung und sind im Kurs entsprechend gekennzeichnet. Zuordnungstabelle: `klausuren/README.md`.
+
+Aus derselben Auswertung entstand die Navigator-Sektion „Klausur NS“ (`src/knowledge/klausur.py`,
+View `vKlausur` in `src/templates/app.html`). Das Muster lässt sich auf andere Prüfungen übertragen:
+Aufgabenstellungen aller Klausuren extrahieren (`grep -E "Aufgabe|Bearbeitervermerk|Nehmen Sie"`),
+daraus die Aufgabentypen mit Häufigkeit ableiten, das Prüfungsraster als eigene Schemata in
+`schemata.py` modellieren (dann landen sie automatisch im Graphen und in den Karteikarten) und den
+Rest – Format, Zeitplan, Fristen, Gebühren, Tenorformeln, Fehlerliste – als reine Datenlisten in ein
+eigenes Modul legen, das `build_html.py` als `__KLAUSUR__` einbettet. Gebührennummern und Beträge
+immer am Gebührenverzeichnis (Anlage zu § 2 Abs. 1 PatKostG) prüfen, Zahlungstage an § 2 PatKostZV;
+beides ändert sich und wird in Klausuren gezielt abgefragt. Achtung: In `norms`-Feldern dürfen nur
+Normen des Standardgesetzes und MarkenRL-Artikel stehen, weil `build_graph` sonst abbricht;
+Fremdgesetze gehören in den Fließtext, wo `gesetze.py` sie verlinkt.
+
 ## 6. Apps, Karten, Links
 
 - Templates sind eigenständige HTML-Dateien ohne externe Ressourcen; Daten werden als JSON

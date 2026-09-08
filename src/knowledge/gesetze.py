@@ -36,6 +36,17 @@ LAWS = {
     "PAO": ("pao", "§"),
     "StGB": ("stgb", "§"),
     "GWB": ("gwb", "§"),
+    "PatKostG": ("patkostg", "§"),
+    "PatKostZV": ("patkostzv_2004", "§"),
+    "GmbHG": ("gmbhg", "§"),
+    "FamFG": ("famfg", "§"),
+    "VwZG": ("vwzg", "§"),
+    "GVG": ("gvg", "§"),
+    "InsO": ("inso", "§"),
+    "PartGG": ("partgg", "§"),
+    "AktG": ("aktg", "§"),
+    "RVG": ("rvg", "§"),
+    "RPflG": ("rpflg_1969", "§"),
 }
 
 DEFAULT_LAW = "MarkenG"
@@ -46,7 +57,7 @@ EU_LAWS = {
     "AEUV": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT",
 }
 # Ohne verlinkbare Fundstelle: nie verlinken.
-UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "GGV", "EPÜ")
+UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "GGV", "EPÜ", "ERVDPMAV", "PatAnwAPrV", "GV")
 
 _ABBR = "|".join(sorted(list(LAWS) + list(EU_LAWS) + list(UNLINKED), key=len, reverse=True))
 _PATTERN = (

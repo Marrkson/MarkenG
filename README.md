@@ -7,16 +7,18 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/kurse/index.html` | **Fallkurs** im Jurafuchs-Format: 10 Kurse, 125 Lerneinheiten (Fälle mit Ja/Nein, Wissensfragen, Prüfungsschemata, Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie |
+| `docs/kurse/index.html` | **Fallkurs** im Jurafuchs-Format: 13 Kurse, 260 Lerneinheiten (Fälle mit Ja/Nein, Wissensfragen, Prüfungsschemata, Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie |
 | `docs/didaktik.md` | Analyse des Jurafuchs-Formats und Kursaufbau |
 | `docs/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (820 Knoten, ca. 2.600 Kanten) |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (1.138 Knoten, ca. 4.300 Kanten) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
 | `src/knowledge/markenrl.py` | Markenrechtsrichtlinie (EU) 2015/2436: alle 57 Artikel als Paraphrase je Absatz, Erwägungsgründe, Umsetzungstabelle zum MarkenG |
 | `src/knowledge/` | kuratiertes Fachwissen (Begriffe, Schemata, Abgrenzungen, Entscheidungen, IPWiki-Index) |
-| `src/knowledge/kurse/` | die zehn Fallkurse (`data/kurse.json` ist der Export) |
+| `src/knowledge/klausur.py` | Klausurwissen zur Aufsichtsarbeit „Nichttechnische Schutzrechte“: Aufgabentypen, Zeitplan, Fristen- und Gebührentabellen, Tenorformeln, typische Fehler, alle 23 Klausuren (Export: `data/klausur.json`) |
+| `src/knowledge/kurse/` | die dreizehn Fallkurse (`data/kurse.json` ist der Export); Kurs 12 „Klausurtraining NS“ folgt den Klausuren der Patentanwaltsprüfung, Kurs 13 „Wirksamkeit und Zulässigkeit“ übt das Verfahrensrecht nach Verfahrensart mit den Anschlussnormen aus BGB, HGB, GmbHG, ZPO, GVG und InsO |
+| `klausuren/` | NS-Klausuren 2018–2025 (kandidatentreff.de) und die Zuordnung zu den zugrunde liegenden BPatG-/BGH-Beschlüssen (`klausuren/README.md`) |
 | `src/*.py`, `build.py` | Build-Pipeline |
 
 ## Fallkurs starten
@@ -32,13 +34,18 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 `docs/index.html` im Browser öffnen. Keine Installation, keine externen Ressourcen.
 
+- **Klausur NS**: eigene Sektion zur Aufsichtsarbeit „Nichttechnische Schutzrechte“ der Patentanwaltsprüfung.
+  Aufgabentypen mit Häufigkeit und Aufgabenformeln, Zeitplan für vier Stunden, das Zulässigkeitsraster als
+  klickbare Prüfungsschemata (Widerspruch, Beschwerde, Wiedereinsetzung), Fristen- und Gebührentabellen
+  mit Zahlungstag nach der PatKostZV, zwölf Tenorformeln aus veröffentlichten Beschlüssen, Textbausteine,
+  typische Fehler und alle 23 Klausuren 2018 bis 2025 mit Schwerpunkten und zugeordnetem Beschluss.
 - **Markenrechtsrichtlinie**: alle 57 Artikel der RL (EU) 2015/2436 mit Kapitelgliederung, je Artikel die umsetzenden MarkenG-Normen, Hinweise zu den Änderungen durch das MaMoG 2019 und die zugehörigen EuGH-Entscheidungen; Umsetzungstabelle als Abgrenzung; Schema „Markenrechtsrichtlinie anwenden“.
 - **Prüfungsschemata**: Gutachtenaufbau z.B. für die Markenverletzung ([§ 14](https://www.gesetze-im-internet.de/markeng/__14.html)), die Verwechslungsgefahr,
   den Bekanntheitsschutz, die Eintragungsfähigkeit (§§ [3](https://www.gesetze-im-internet.de/markeng/__3.html), [8](https://www.gesetze-im-internet.de/markeng/__8.html)), §§ [23](https://www.gesetze-im-internet.de/markeng/__23.html)/[24](https://www.gesetze-im-internet.de/markeng/__24.html), Benutzungszwang, §§ [5](https://www.gesetze-im-internet.de/markeng/__5.html)/[15](https://www.gesetze-im-internet.de/markeng/__15.html),
   Widerspruch und Löschung, die relativen Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3) sowie
   das Vorgehen aus einer Unionsmarke (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff.) und aus einer IR-Marke (PMMA, §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
   und Entscheidungen (violett) öffnen sich als Karte direkt an Ort und Stelle – auch verschachtelt.
-- **Karteikarten**: 500 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
+- **Karteikarten**: 676 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
   Entscheidungen, Normen). Filter nach Typ und Thema, Karten pro Schema, Tastatursteuerung,
   Fortschritt „gewusst / nicht gewusst“ im Browser (localStorage).
 - **Abgrenzungen**: Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft,

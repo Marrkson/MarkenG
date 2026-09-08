@@ -1,3 +1,7 @@
 __pycache__/
 *.pyc
 .DS_Store
+
+# Klausur-PDFs (urheberrechtlich geschützt, per klausuren/ns/urls.txt neu ladbar)
+klausuren/**/*.pdf
+klausuren/**/txt/

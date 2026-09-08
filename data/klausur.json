@@ -1,0 +1,862 @@
+{
+ "format": {
+  "titel": "Aufsichtsarbeit „Nichttechnische Schutzrechte“ (NS)",
+  "rechtsgrundlage": "§ 40 Abs. 1 S. 2 Nr. 2 PatAnwAPrV",
+  "dauer": "4 Stunden",
+  "umfang": "Deckblatt plus zwei bis sechs Seiten Sachverhalt; überwiegend „bestehend aus einem Teil“, gelegentlich zwei Teile.",
+  "haeufigkeit": "Dreimal jährlich (Termine I, II und III).",
+  "beschreibung": "Die NS-Klausur ist eine reine Markenrechtsklausur. In den Jahrgängen 2018 bis 2025 kam kein Design-, Gebrauchsmuster- oder Sortenschutzfall vor; einmal ging es zusätzlich um eine geschützte geografische Angabe. Geprüft wird fast immer ein Registerverfahren: Widerspruch, Beschwerde, Verfall oder Nichtigkeit. Der materielle Kern ist in aller Regel die Verwechslungsgefahr, der verfahrensrechtliche Rahmen entscheidet aber über die halbe Punktzahl.",
+  "hilfsmittel": "Gesetzestexte sind zugelassen. Häufig liegt ein Kalender bei; das ist ein deutlicher Hinweis darauf, dass eine Frist auf ein Wochenende oder einen Feiertag fällt.",
+  "bearbeitervermerk": "Der Bearbeitervermerk ist wörtlich zu befolgen. Wiederkehrende Formeln: „Es ist zu unterstellen, dass der Tatsachenvortrag der Beteiligten wahr und eine weitere Sachverhaltsaufklärung nicht möglich ist“ (keine Beweisaufnahme erörtern), „ggf. hilfsgutachtlich“ (auch die Gegenansicht durchprüfen) und „prüfen Sie auch, wenn Sie die Beschwerde für unzulässig halten“ (Zulässigkeit verneinen und trotzdem weiterprüfen)."
+ },
+ "typen": [
+  {
+   "id": "beschwerde",
+   "label": "Beschwerdegutachten (BPatG-Perspektive)",
+   "anteil": "15 von 23 Klausuren",
+   "perspektive": "Sie schreiben aus Sicht des Berichterstatters eines Marken-Beschwerdesenats oder als zugewiesene Kandidatin.",
+   "aufgabenformel": "„Wie wird das Bundespatentgericht über die Beschwerde entscheiden?“ · „Nehmen Sie zu den Erfolgsaussichten der Beschwerde bezüglich aller aufgeworfenen Rechtsfragen Stellung.“ · „Wie würde der Tenor lauten?“",
+   "aufbau": [
+    "A. Sachverhalt und Verfahrensgang (Zeitleiste, nicht abschreiben)",
+    "B. Zulässigkeit der Beschwerde: Statthaftigkeit (Erinnerung oder Beschwerde), Beschwer, Form, Frist, Gebühr, gegebenenfalls Wiedereinsetzung",
+    "C. Begründetheit: War die Entscheidung des DPMA richtig? Dazu die vollständige Prüfung des Widerspruchs oder Antrags, einschließlich Zulässigkeit des Widerspruchs",
+    "D. Nebenentscheidungen: Kosten, Rückzahlung der Beschwerdegebühr, Zurückverweisung, Zulassung der Rechtsbeschwerde, Aussetzungsantrag",
+    "E. Tenorvorschlag"
+   ],
+   "schema": "schema_zulaessigkeit_beschwerde",
+   "hinweis": "Typische Zusatzfrage: Wer ist Verfahrensbeteiligter? Wer entscheidet in welcher Besetzung? Welcher Rechtsbehelf ist überhaupt statthaft?"
+  },
+  {
+   "id": "widerspruch",
+   "label": "Amtsgutachten zum Widerspruch (DPMA-Perspektive)",
+   "anteil": "2 von 23 Klausuren",
+   "perspektive": "Sie prüfen den Widerspruch, bevor die Markenstelle entscheidet.",
+   "aufgabenformel": "„Bitte nehmen Sie gutachterlich zu den beiden Widersprüchen Stellung.“ · „Nehmen Sie zu den Erfolgsaussichten des Widerspruchs Stellung, ggf. hilfsgutachtlich.“",
+   "aufbau": [
+    "Je Widerspruch getrennt: 1. Wirksamkeit (Gebühr) – 2. Zulässigkeit – 3. Begründetheit",
+    "Innerhalb der Begründetheit: Widerspruchsberechtigung, Nichtbenutzungseinrede, Verkehrskreise, Vergleich der Waren und Dienstleistungen, Kennzeichnungskraft, Zeichenvergleich, Wechselwirkung",
+    "Ergebnis warenbezogen formulieren, dann Tenor und Kosten"
+   ],
+   "schema": "schema_zulaessigkeit_widerspruch",
+   "hinweis": "Bei mehreren Widersprüchen jeden vollständig und getrennt prüfen; Verweisungen auf den ersten Prüfungspunkt sind erlaubt und sparen Zeit."
+  },
+  {
+   "id": "beratung",
+   "label": "Anwaltsgutachten / Mandantenschreiben",
+   "anteil": "5 von 23 Klausuren",
+   "perspektive": "Sie beraten einen Mandanten, oft auf ein Anschreiben hin, mit mehreren nummerierten Fragen.",
+   "aufgabenformel": "„Fertigen Sie ein Schreiben an Ihren Mandanten, in dem Sie zu den aufgeworfenen Rechtsfragen gutachterlich Stellung nehmen.“ · „Fragen Sie konkret auch nach Informationen, die Sie noch benötigen.“",
+   "aufbau": [
+    "Jede Mandantenfrage einzeln beantworten, in der Reihenfolge des Schreibens",
+    "Zu jeder Frage: Rechtslage, Subsumtion, klare Empfehlung, Alternativen und Risiken",
+    "Fehlende Informationen ausdrücklich benennen und erfragen",
+    "Fristen und nächste Schritte mit Datum nennen; Kostenfolgen ansprechen"
+   ],
+   "schema": "schema_markenverletzung",
+   "hinweis": "Hier zählt die Handlungsempfehlung: Welcher Antrag, bei welcher Stelle, bis wann, mit welcher Gebühr? Auch die Frage nach dem Vollmachtsnachweis und der Vertretungsbefugnis wird geprüft."
+  },
+  {
+   "id": "gericht",
+   "label": "Streitverfahren vor dem ordentlichen Gericht",
+   "anteil": "1 von 23 Klausuren",
+   "perspektive": "Verletzungs- oder Feststellungsklage vor dem Landgericht.",
+   "aufgabenformel": "„Wie wird das örtlich und sachlich zuständige Landgericht über die negative Feststellungsklage entscheiden?“ · „Erörtern Sie die Haftungssituation des Rechtsanwalts.“",
+   "aufbau": [
+    "Zulässigkeit der Klage: Zuständigkeit (§ 140 Kennzeichenstreitsachen, § 141), Feststellungsinteresse",
+    "Begründetheit: Bestehen des behaupteten Anspruchs, hier gespiegelt – die negative Feststellungsklage ist begründet, wenn der Anspruch nicht besteht",
+    "Nichtbenutzungseinrede nach § 25 Abs. 2 statt § 43 Abs. 1",
+    "Folgeansprüche: unberechtigte Schutzrechtsverwarnung, Anwaltshaftung, Streitverkündung"
+   ],
+   "schema": "schema_markenverletzung",
+   "hinweis": "Im Verletzungsprozess ist das Gericht an die Eintragung gebunden; absolute Schutzhindernisse sind nur über das Löschungsverfahren zu klären."
+  }
+ ],
+ "ablauf": [
+  {
+   "phase": "Sachverhalt erfassen",
+   "minuten": "30",
+   "was": "Zweimal lesen. Beim zweiten Durchgang eine Zeitleiste aller Daten anlegen, die Waren- und Dienstleistungsverzeichnisse beider Marken nebeneinander schreiben und die Besetzung der entscheidenden Stelle markieren."
+  },
+  {
+   "phase": "Aufgabe auswerten",
+   "minuten": "10",
+   "was": "Bearbeitervermerk Wort für Wort auswerten: Wer fragt? Welche Perspektive? Tenor verlangt? Hilfsgutachten verlangt? Punkte, die ausdrücklich ausgeklammert sind (etwa Kostenfolgen), nicht behandeln."
+  },
+  {
+   "phase": "Gliederung",
+   "minuten": "30",
+   "was": "Stichwortgliederung auf einem eigenen Blatt: Wirksamkeit, Zulässigkeit mit allen Unterpunkten, Begründetheit, Nebenentscheidungen, Tenor. Fristen sofort durchrechnen und das Ergebnis notieren."
+  },
+  {
+   "phase": "Reinschrift",
+   "minuten": "150",
+   "was": "Im Gutachtenstil schreiben, aber ökonomisch: Unproblematisches im Urteilsstil abhandeln („Die Widersprechende ist als GmbH nach § 7 Nr. 2 markenrechtsfähig.“), den Schwerpunkt ausführlich."
+  },
+  {
+   "phase": "Tenor und Durchsicht",
+   "minuten": "20",
+   "was": "Tenorvorschlag formulieren, Nebenentscheidungen ergänzen, Zwischenergebnisse auf Widersprüche prüfen. Lieber ein knappes Hilfsgutachten als eine fehlende Prüfung."
+  }
+ ],
+ "fristen": [
+  {
+   "frist": "Widerspruch",
+   "laenge": "3 Monate",
+   "beginn": "Tag der Veröffentlichung der Eintragung",
+   "norm": "§ 42 Abs. 1",
+   "wieder": "nein (§ 91 Abs. 1 S. 2)",
+   "hinweis": "Widerspruch ist schon ab Eintragung möglich, also auch vor Beginn der Frist."
+  },
+  {
+   "frist": "Widerspruchsgebühr",
+   "laenge": "mit der Widerspruchsfrist",
+   "beginn": "wie Widerspruch",
+   "norm": "§ 64a, § 6 Abs. 1 PatKostG",
+   "wieder": "nein",
+   "hinweis": "250 Euro; sonst gilt der Widerspruch als nicht erhoben."
+  },
+  {
+   "frist": "Einigungsfrist (cooling off)",
+   "laenge": "mindestens 2 Monate",
+   "beginn": "auf beiderseitigen Antrag",
+   "norm": "§ 42 Abs. 4",
+   "wieder": "—",
+   "hinweis": "Seit dem MaMoG; verlängerbar."
+  },
+  {
+   "frist": "Erinnerung",
+   "laenge": "1 Monat",
+   "beginn": "Zustellung des Beschlusses",
+   "norm": "§ 64 Abs. 2",
+   "wieder": "ja",
+   "hinweis": "Nur gegen Beschlüsse des gehobenen Dienstes; Gebühr 150 Euro."
+  },
+  {
+   "frist": "Beschwerde zum BPatG",
+   "laenge": "1 Monat",
+   "beginn": "Zustellung des Beschlusses",
+   "norm": "§ 66 Abs. 2",
+   "wieder": "ja",
+   "hinweis": "Einlegung beim DPMA, nicht beim BPatG."
+  },
+  {
+   "frist": "Beschwerdegebühr",
+   "laenge": "mit der Beschwerdefrist",
+   "beginn": "wie Beschwerde",
+   "norm": "§ 6 Abs. 2 PatKostG",
+   "wieder": "ja",
+   "hinweis": "200 Euro; sonst gilt die Beschwerde als nicht eingelegt."
+  },
+  {
+   "frist": "Rechtsbeschwerde zum BGH",
+   "laenge": "1 Monat",
+   "beginn": "Zustellung des Beschlusses",
+   "norm": "§ 85 Abs. 1",
+   "wieder": "ja",
+   "hinweis": "Anwaltszwang; Einlegung beim BGH."
+  },
+  {
+   "frist": "Widerspruch gegen Verfalls- oder Nichtigkeitsantrag",
+   "laenge": "2 Monate",
+   "beginn": "Zustellung der Mitteilung nach § 53 Abs. 4",
+   "norm": "§ 53 Abs. 5",
+   "wieder": "ja",
+   "hinweis": "Zulässig bereits ab Eingang des Antrags beim DPMA; ohne Fristsetzung läuft keine Frist."
+  },
+  {
+   "frist": "Wiedereinsetzungsantrag",
+   "laenge": "2 Monate",
+   "beginn": "Wegfall des Hindernisses",
+   "norm": "§ 91 Abs. 2",
+   "wieder": "—",
+   "hinweis": "Ausschlussfrist ein Jahr nach Ablauf der versäumten Frist (§ 91 Abs. 5)."
+  },
+  {
+   "frist": "Weiterbehandlung",
+   "laenge": "1 Monat",
+   "beginn": "Zustellung der Zurückweisung",
+   "norm": "§ 91a",
+   "wieder": "—",
+   "hinweis": "Nur im Anmeldeverfahren, ohne Verschuldensprüfung, Gebühr 100 Euro."
+  },
+  {
+   "frist": "Benutzungsschonfrist",
+   "laenge": "5 Jahre",
+   "beginn": "Tag, ab dem kein Widerspruch mehr möglich war",
+   "norm": "§ 26 Abs. 5",
+   "wieder": "—",
+   "hinweis": "Bei IR-Marken Sonderregel des § 115 Abs. 2."
+  },
+  {
+   "frist": "Benutzungszeitraum im Widerspruch",
+   "laenge": "5 Jahre",
+   "beginn": "Anmelde- oder Prioritätstag der angegriffenen Marke",
+   "norm": "§ 43 Abs. 1",
+   "wieder": "—",
+   "hinweis": "Für vor dem 14.1.2019 erhobene Widersprüche gilt § 43 Abs. 1 a.F. mit zwei Zeiträumen (§ 158 Abs. 5)."
+  },
+  {
+   "frist": "Verlängerung der Schutzdauer",
+   "laenge": "6 Monate vor Ablauf, danach 6 Monate Nachfrist",
+   "beginn": "Ablauf der Schutzdauer",
+   "norm": "§ 47 Abs. 3",
+   "wieder": "—",
+   "hinweis": "750 Euro, in der Nachfrist mit Zuschlag von 50 Euro."
+  },
+  {
+   "frist": "Duldung / Verwirkung",
+   "laenge": "5 Jahre",
+   "beginn": "Kenntnis von der Benutzung der jüngeren Marke",
+   "norm": "§ 21, § 51 Abs. 2",
+   "wieder": "—",
+   "hinweis": "Nur bei Kenntnis und ohne Bösgläubigkeit des jüngeren Inhabers."
+  }
+ ],
+ "gebuehren": [
+  {
+   "nr": "331 600",
+   "tatbestand": "Widerspruch, Grundbetrag für ein Widerspruchskennzeichen",
+   "betrag": "250 €",
+   "norm": "§ 42"
+  },
+  {
+   "nr": "331 610",
+   "tatbestand": "Widerspruch, jedes weitere Widerspruchskennzeichen",
+   "betrag": "50 €",
+   "norm": "§ 42 Abs. 3"
+  },
+  {
+   "nr": "333 000",
+   "tatbestand": "Erinnerungsverfahren",
+   "betrag": "150 €",
+   "norm": "§ 64"
+  },
+  {
+   "nr": "333 050",
+   "tatbestand": "Weiterbehandlung",
+   "betrag": "100 €",
+   "norm": "§ 91a"
+  },
+  {
+   "nr": "333 300",
+   "tatbestand": "Nichtigkeit wegen absoluter Schutzhindernisse oder älterer Rechte",
+   "betrag": "400 €",
+   "norm": "§ 50, § 51, § 53"
+  },
+  {
+   "nr": "333 350",
+   "tatbestand": "jedes weitere geltend gemachte ältere Recht",
+   "betrag": "100 €",
+   "norm": "§ 51"
+  },
+  {
+   "nr": "333 400",
+   "tatbestand": "Antrag auf Erklärung des Verfalls",
+   "betrag": "100 €",
+   "norm": "§ 49, § 53"
+  },
+  {
+   "nr": "333 450",
+   "tatbestand": "Weiterverfolgung des Verfallsantrags nach Widerspruch des Inhabers",
+   "betrag": "300 €",
+   "norm": "§ 53 Abs. 5"
+  },
+  {
+   "nr": "332 100",
+   "tatbestand": "Verlängerung der Schutzdauer (bis drei Klassen)",
+   "betrag": "750 €",
+   "norm": "§ 47"
+  },
+  {
+   "nr": "401 300",
+   "tatbestand": "Beschwerde zum BPatG in Markensachen",
+   "betrag": "200 €",
+   "norm": "§ 66"
+  },
+  {
+   "nr": "401 200",
+   "tatbestand": "Beschwerde gegen einen Kostenfestsetzungsbeschluss",
+   "betrag": "50 €",
+   "norm": "§ 63"
+  }
+ ],
+ "zahlungstag": [
+  {
+   "weg": "Überweisung",
+   "tag": "Tag der Gutschrift bei der zuständigen Bundeskasse",
+   "norm": "§ 2 Nr. 1 PatKostZV",
+   "hinweis": "Am letzten Tag der Frist untauglich; nur Echtzeitüberweisung hilft."
+  },
+  {
+   "weg": "Bareinzahlung auf das Konto der Bundeskasse",
+   "tag": "Tag der Einzahlung",
+   "norm": "§ 2 Nr. 2 PatKostZV",
+   "hinweis": "Auch am letzten Tag möglich."
+  },
+  {
+   "weg": "SEPA-Basislastschriftmandat",
+   "tag": "Tag des Eingangs beim DPMA oder BPatG",
+   "norm": "§ 2 Nr. 3 PatKostZV",
+   "hinweis": "Per Telefax übermitteltes Mandat wahrt den Zahlungstag, wenn das Original binnen eines Monats nachgereicht wird."
+  },
+  {
+   "weg": "Elektronische Zahlung, Karte",
+   "tag": "Tag der Gutschrift, bei Kartenzahlung der Tag der Akzeptanz",
+   "norm": "§ 2 Nr. 4 PatKostZV",
+   "hinweis": ""
+  }
+ ],
+ "tenor": [
+  {
+   "gruppe": "Beschwerde ohne Erfolg",
+   "formel": "Die Beschwerde wird zurückgewiesen.",
+   "hinweis": "Standardfall, wenn die Entscheidung des DPMA richtig war."
+  },
+  {
+   "gruppe": "Beschwerde unzulässig",
+   "formel": "Die Beschwerde wird als unzulässig verworfen.",
+   "hinweis": "Bei fehlender Beschwer, Form- oder Fristmangel, fehlender Prozessfähigkeit."
+  },
+  {
+   "gruppe": "Gebühr nicht gezahlt",
+   "formel": "Es wird festgestellt, dass die Beschwerde als nicht eingelegt gilt.",
+   "hinweis": "§ 6 Abs. 2 PatKostG; dazu regelmäßig: „Die Rückzahlung der Beschwerdegebühr wird angeordnet.“"
+  },
+  {
+   "gruppe": "Beschwerde erfolgreich, Löschung",
+   "formel": "Auf die Beschwerde der Widersprechenden wird der Beschluss der Markenstelle für Klasse … des Deutschen Patent- und Markenamts vom … aufgehoben. Wegen des Widerspruchs aus der Marke … wird die Löschung der Eintragung der Marke … für die Waren … angeordnet.",
+   "hinweis": "Alternativ: „… und das Deutsche Patent- und Markenamt angewiesen, die Eintragung der angegriffenen Marke wegen des Widerspruchs aus der IR-Marke … zu löschen.“ Immer warenbezogen tenorieren."
+  },
+  {
+   "gruppe": "Beschwerde erfolgreich, Widerspruch zurückweisen",
+   "formel": "Auf die Beschwerde des Inhabers der angegriffenen Marke wird der Beschluss … aufgehoben und der Widerspruch aus der Marke … zurückgewiesen.",
+   "hinweis": "Spiegelbild des vorigen Tenors."
+  },
+  {
+   "gruppe": "Zurückverweisung",
+   "formel": "Der Beschluss … wird aufgehoben. Die Sache wird zur erneuten Entscheidung an das Deutsche Patent- und Markenamt zurückverwiesen.",
+   "hinweis": "§ 70 Abs. 3: wesentlicher Verfahrensmangel, noch keine Sachentscheidung oder neue Tatsachen. Ermessen; Instanzverlust ist ein Argument."
+  },
+  {
+   "gruppe": "Rückzahlung",
+   "formel": "Die Rückzahlung der Beschwerdegebühr wird angeordnet.",
+   "hinweis": "§ 71 Abs. 3, nur aus Billigkeit: fehlerhafte Sachbehandlung des DPMA, nicht bloßer Beschwerdeerfolg."
+  },
+  {
+   "gruppe": "Kosten",
+   "formel": "Die Kosten des Beschwerdeverfahrens werden der Widersprechenden auferlegt.",
+   "hinweis": "Ausführlich: „… hat die Kosten des Verfahrens vor dem Bundespatentgericht einschließlich der dem Inhaber der angegriffenen Marke erwachsenen notwendigen Kosten zu tragen.“ Ohne Billigkeitsgründe: „Der Kostenantrag wird zurückgewiesen.“"
+  },
+  {
+   "gruppe": "Wiedereinsetzung",
+   "formel": "Der Antrag auf Wiedereinsetzung in die versäumte Frist zur Einlegung der Beschwerde wird zurückgewiesen.",
+   "hinweis": "Bei Erfolg wird die Wiedereinsetzung gewährt und in der Sache entschieden; die Gewährung ist unanfechtbar."
+  },
+  {
+   "gruppe": "Aussetzung",
+   "formel": "Der Antrag des Markeninhabers auf Aussetzung des Verfahrens wird zurückgewiesen.",
+   "hinweis": "Bei Erfolg: „Das Beschwerdeverfahren wird ausgesetzt, bis über den Antrag auf Erklärung der Nichtigkeit der Widerspruchsmarke … rechtskräftig entschieden ist.“"
+  },
+  {
+   "gruppe": "Amtsentscheidung über den Widerspruch",
+   "formel": "Auf den Widerspruch aus der Marke … wird die Eintragung der Marke … für die Waren … gelöscht. Im Übrigen wird der Widerspruch zurückgewiesen.",
+   "hinweis": "DPMA-Perspektive; § 43 Abs. 2."
+  },
+  {
+   "gruppe": "Rechtsbeschwerde",
+   "formel": "Die Rechtsbeschwerde wird zugelassen.",
+   "hinweis": "§ 83 Abs. 2: grundsätzliche Bedeutung oder Sicherung einheitlicher Rechtsprechung; in der Klausur nur bei echter Streitfrage."
+  }
+ ],
+ "fehler": [
+  {
+   "fehler": "Erinnerung und Beschwerde verwechseln",
+   "richtig": "Zuerst prüfen, wer den Beschluss erlassen hat: gehobener Dienst → Erinnerung (§ 64), höherer Dienst oder Rechtspfleger → Beschwerde (§ 66 Abs. 1)."
+  },
+  {
+   "fehler": "Zustellungsfiktion übersehen",
+   "richtig": "Bei Einschreiben und Abholfach gilt der dritte Tag, bei öffentlicher Zustellung zwei Wochen; erst danach beginnt die Frist zu laufen."
+  },
+  {
+   "fehler": "Gebührenzahlung nicht geprüft",
+   "richtig": "Wirksamkeit vor Zulässigkeit: Ohne rechtzeitige und vollständige Gebühr gilt die Handlung als nicht vorgenommen."
+  },
+  {
+   "fehler": "Bösgläubigkeit im Widerspruch prüfen",
+   "richtig": "Absolute Schutzhindernisse der angegriffenen Marke gehören ins Nichtigkeitsverfahren (§ 50, § 53), nicht in den Widerspruch."
+  },
+  {
+   "fehler": "Schutzunfähigkeit der Widerspruchsmarke einwenden",
+   "richtig": "Die Eintragung bindet; die Schwäche wirkt sich nur über eine geringe Kennzeichnungskraft aus."
+  },
+  {
+   "fehler": "Regionales Unternehmenskennzeichen als Widerspruchsgrund",
+   "richtig": "§ 42 Abs. 2 Nr. 4 verlangt über § 12 eine bundesweite Untersagungsbefugnis; sonst ist der Widerspruch unbegründet."
+  },
+  {
+   "fehler": "Tatsächliche Benutzung statt Registerlage vergleichen",
+   "richtig": "Im Widerspruch zählen die eingetragenen Verzeichnisse; die tatsächliche Benutzung wird nur über die Nichtbenutzungseinrede relevant (§ 43 Abs. 1 S. 3)."
+  },
+  {
+   "fehler": "Nur ein Ähnlichkeitskriterium prüfen",
+   "richtig": "Klang, Schriftbild und Sinngehalt getrennt prüfen; eine Ähnlichkeit in nur einer Richtung genügt für die Verwechslungsgefahr."
+  },
+  {
+   "fehler": "Alten Benutzungszeitraum anwenden",
+   "richtig": "§ 158 Abs. 5 prüfen: Für vor dem 14.1.2019 erhobene Widersprüche gelten §§ 26, 43 Abs. 1 a.F. mit zwei Zeiträumen."
+  },
+  {
+   "fehler": "Kostenentscheidung wie im Zivilprozess",
+   "richtig": "Kein „Unterliegen trägt die Kosten“: Jeder trägt seine Kosten selbst, Abweichung nur aus Billigkeit (§ 63 Abs. 1, § 71 Abs. 1)."
+  },
+  {
+   "fehler": "Tenor vergessen oder unvollständig",
+   "richtig": "Aufhebung, Anordnung und Nebenentscheidungen gehören in den Tenor; die Löschung ist warenbezogen auszusprechen."
+  },
+  {
+   "fehler": "Hilfsgutachten weggelassen",
+   "richtig": "Wird die Zulässigkeit verneint, verlangt der Bearbeitervermerk meist trotzdem die Begründetheitsprüfung."
+  }
+ ],
+ "klausuren": [
+  {
+   "jahr": 2025,
+   "termin": "III",
+   "kurz": "Lurkis",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Vier Widersprüche gegen eine Wort-/Bildmarke: Fristen, Gebühren, Erbfolge beim Unternehmenskennzeichen, Inlandsvertreter, Markenserie, Verzicht und Teilrücknahme.",
+   "schwerpunkte": [
+    "Statthafter Rechtsbehelf und Besetzung des Spruchkörpers",
+    "Widerspruchsgebühr bei mehreren Zeichen",
+    "§ 96 knüpft an Wohnsitz, nicht an Staatsangehörigkeit",
+    "Serienzeichen setzt benutzte Serie voraus"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2025,
+   "termin": "II",
+   "kurz": "Gold-Bärger",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Widerspruch aus dem Unternehmenskennzeichen einer regionalen Stadtbäckerei; Bösgläubigkeit im Widerspruchsverfahren; Rechtsübergang der angegriffenen Marke.",
+   "schwerpunkte": [
+    "§ 12 verlangt bundesweite Untersagungsbefugnis",
+    "Bösgläubigkeit gehört ins Nichtigkeitsverfahren",
+    "§ 50 Abs. 3 nicht analog",
+    "Kostenauferlegung bei aussichtsloser Beschwerde"
+   ],
+   "entscheidung": "BPatG 24.10.2022 – 25 W (pat) 52/21 „Engelbrecht/Stadtbäckerei Engelbrecht GmbH“",
+   "status": "sicher",
+   "case": "bpatg_engelbrecht"
+  },
+  {
+   "jahr": 2025,
+   "termin": "I",
+   "kurz": "NITREDA / INTREDA",
+   "typ": "beschwerde",
+   "loesung": true,
+   "thema": "Widerspruch aus Wortmarke und Unternehmenskennzeichen, aber nur 250 Euro gezahlt; Klarstellung per Telefax geht amtsintern verloren.",
+   "schwerpunkte": [
+    "Zuordnung der Widerspruchsgebühr nach Fristablauf",
+    "Beschwerde und Wiedereinsetzung nebeneinander",
+    "Teilverzicht verkleinert nicht den Ähnlichkeitsbereich",
+    "Rückzahlung der Beschwerdegebühr"
+   ],
+   "entscheidung": "BPatG 18.07.2022 – 26 W (pat) 30/20 „Silberweide“",
+   "status": "sicher",
+   "case": "bpatg_silberweide"
+  },
+  {
+   "jahr": 2024,
+   "termin": "III",
+   "kurz": "Dream A Job",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Beschwerde einer wegen Vermögenslosigkeit gelöschten UG, zusätzlich von der Geschäftsführerin persönlich; Kosten bei Rücknahme; mehrere Widersprüche.",
+   "schwerpunkte": [
+    "Beteiligtenfähigkeit und Prozessfähigkeit nach Löschung",
+    "Nachtragsliquidation",
+    "Kosten bei Rücknahme des Widerspruchs",
+    "Ein Widerspruch aus mehreren Zeichen (§ 42 Abs. 3)"
+   ],
+   "entscheidung": "Kernfrage nach BPatG 01.02.2024 – 30 W (pat) 61/23 „BLIZZARD“",
+   "status": "Vorbild",
+   "case": "bpatg_blizzard_ug"
+  },
+  {
+   "jahr": 2024,
+   "termin": "II",
+   "kurz": "SofTax Esro.Med",
+   "typ": "gericht",
+   "loesung": false,
+   "thema": "Negative Feststellungsklage gegen eine markenrechtliche Abmahnung; selbständig kennzeichnende Stellung; Haftung des abmahnenden Anwalts.",
+   "schwerpunkte": [
+    "Zuständigkeit in Kennzeichenstreitsachen",
+    "Nichtbenutzungseinrede nach § 25 Abs. 2",
+    "Unberechtigte Schutzrechtsverwarnung",
+    "Streitverkündung und Anwaltshaftung"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2024,
+   "termin": "I",
+   "kurz": "KuKa / KreuzKamp",
+   "typ": "beschwerde",
+   "loesung": true,
+   "thema": "Aussetzung des Beschwerdeverfahrens wegen eines Nichtigkeitsantrags gegen die Unionswiderspruchsmarke; verspätete Nichtbenutzungseinrede.",
+   "schwerpunkte": [
+    "Vorgreiflichkeit und Ermessen (§ 148 ZPO)",
+    "Unionsmarken nur beim EUIPO angreifbar",
+    "§ 44 als Korrektiv",
+    "Einrede nur bei fünfjähriger Unangreifbarkeit"
+   ],
+   "entscheidung": "BPatG 07.03.2022 – 29 W (pat) 522/20",
+   "status": "sicher",
+   "case": "bpatg_aussetzung_unionsmarke"
+  },
+  {
+   "jahr": 2023,
+   "termin": "III",
+   "kurz": "MEGACAPS",
+   "typ": "beschwerde",
+   "loesung": true,
+   "thema": "Antrag auf Erklärung des Verfalls und Schutzentziehung gegen eine IR-Marke; Widerspruch des Inhabers vor Zustellung der Mitteilung; fehlende Fristsetzung.",
+   "schwerpunkte": [
+    "§ 53 Abs. 4 und 5: Widerspruch ab Antragseingang zulässig",
+    "Ohne Fristsetzung keine Frist",
+    "Zurückverweisung nach § 70 Abs. 3",
+    "Unterzeichnung mit „i.V.“"
+   ],
+   "entscheidung": "BPatG 08.02.2023 – 29 W (pat) 30/22 „AUTOMATOR“",
+   "status": "sicher",
+   "case": "bpatg_automator"
+  },
+  {
+   "jahr": 2023,
+   "termin": "II",
+   "kurz": "LOUIS HOTEL",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Widerspruch aus einer Hotelmarke; öffentliche Zustellung des Beschlusses nach Umzug nach London; Benutzung auf Speisekarten und Kugelschreibern; Verfahrenskostensicherheit.",
+   "schwerpunkte": [
+    "Öffentliche Zustellung und Fristbeginn",
+    "Benutzung für Waren oder nur für die Dienstleistung",
+    "Prägung durch den Vornamen",
+    "Sicherheitsleistung nach § 81 Abs. 6"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2023,
+   "termin": "I",
+   "kurz": "Gelbe Kaffeemühlen",
+   "typ": "beratung",
+   "loesung": false,
+   "thema": "Benutzungsmarke an einem Farbton ohne Registrierung; Vorgehen gegen einen Nachahmer; Anmeldestrategie für „Mahlefix“.",
+   "schwerpunkte": [
+    "§ 4 Nr. 2 Verkehrsgeltung",
+    "Farbe als Marke",
+    "Schadensersatz und Verschulden",
+    "Inhaberschaft und Anmeldeverfahren"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2022,
+   "termin": "III",
+   "kurz": "Dunes Berlin",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Zwei Widersprüche in einem Beschluss; Beschwerde nur gegen einen Teil; spätere Beschwerdeerweiterung; Widersprechender in London.",
+   "schwerpunkte": [
+    "Teilrechtskraft und Umfang der Beschwerde",
+    "Eine Zustellung, eine Frist",
+    "Wiedereinsetzung bei Rechtsirrtum",
+    "Unternehmenskennzeichen einer bundesweiten Kette"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2022,
+   "termin": "II",
+   "kurz": "EMOTION rims",
+   "typ": "beratung",
+   "loesung": false,
+   "thema": "Verletzung einer Unionswort-/Bildmarke durch die Modellbezeichnung „Emotion FANCY BLACK“; Einwand der Nichtbenutzung und der beschreibenden Verwendung.",
+   "schwerpunkte": [
+    "Benutzung in abweichender Form (Art. 18 UMV)",
+    "Markenmäßige Benutzung und Modellbezeichnung",
+    "Zeichenvergleich bei Zusätzen",
+    "Einstweilige Verfügung als Handlungsempfehlung"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2022,
+   "termin": "I",
+   "kurz": "Silberpferd / POWER HORSE",
+   "typ": "beschwerde",
+   "loesung": true,
+   "thema": "Wiedereinsetzung nach verspäteter Überweisung der Beschwerdegebühr; Einrede der Nichtbenutzung durch den Prokuristen; Verwechslungsgefahr bei Energydrinks.",
+   "schwerpunkte": [
+    "Zahlungstag bei Überweisung",
+    "Sorgfaltspflichten bei Fristzahlungen",
+    "Beschwer und Auslegung von Schriftsätzen",
+    "Drittmarken schwächen nur bei nachgewiesener Benutzung"
+   ],
+   "entscheidung": "BPatG 26.07.2022 – 26 W (pat) 38/17; BGH 01.06.2023 – I ZB 65/22",
+   "status": "sicher",
+   "case": "bpatg_silver_horse"
+  },
+  {
+   "jahr": 2021,
+   "termin": "III",
+   "kurz": "vita+lebenskraft / VITA",
+   "typ": "widerspruch",
+   "loesung": false,
+   "thema": "Widerspruch aus einer in Fachkreisen bekannten Unionsmarke; Markenserie; Fristberechnungen für beide Nichtbenutzungseinreden; Besetzung und Rechtsmittel.",
+   "schwerpunkte": [
+    "Serienzeichen und selbständig kennzeichnende Stellung",
+    "Demoskopisches Gutachten",
+    "Keine Geständnisfiktion",
+    "Ab wann ist die Einrede zulässig?"
+   ],
+   "entscheidung": "BPatG 13.06.2019 – 25 W (pat) 11/18",
+   "status": "sicher",
+   "case": "bpatg_vita_lebenskraft"
+  },
+  {
+   "jahr": 2021,
+   "termin": "II",
+   "kurz": "Black Panther",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Verlorene Beschwerdeschrift trotz ordnungsgemäßer Kanzleiorganisation; Benutzung durch Frontaufdruck und Sponsoring; Widerspruch auch aus dem Unternehmenskennzeichen.",
+   "schwerpunkte": [
+    "Wiedereinsetzung und Büroorganisation",
+    "Markenmäßige Benutzung auf Bekleidung",
+    "Verspätete Nichtbenutzungseinrede",
+    "Tenor"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2021,
+   "termin": "I",
+   "kurz": "rahi / RAMI",
+   "typ": "beratung",
+   "loesung": false,
+   "thema": "Vorgehen gegen eine jüngere Marke, Gegenangriff auf die eigene Marke, Eintragungsfähigkeit eines türkischen Sachbegriffs.",
+   "schwerpunkte": [
+    "Widerspruch oder Nichtigkeitsantrag, Kostenvergleich",
+    "Nichtbenutzungseinrede gegen die eigene Marke",
+    "Fremdsprachige beschreibende Angaben",
+    "Waren-Ähnlichkeit technischer und dekorativer Textilien"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2020,
+   "termin": "III",
+   "kurz": "gelbfunk / Gelbe Seiten",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Beschwerde per E-Mail an das BPatG; Wiedereinsetzung; Übergang der Widerspruchsmarke im laufenden Verfahren; Verkehrsdurchsetzung.",
+   "schwerpunkte": [
+    "Form und Ort der Beschwerde",
+    "Wer ist Beteiligter (§ 28 Abs. 2)?",
+    "Schutzumfang durchgesetzter Zeichen",
+    "Serienmarke mit beschreibendem Stamm"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2020,
+   "termin": "II",
+   "kurz": "Balidrom",
+   "typ": "beschwerde",
+   "loesung": true,
+   "thema": "Die frühere Pächterin meldet den Namen des Wellnessbades als Marke an; Löschungsantrag wegen Bösgläubigkeit; parallel zwei ausgesetzte Widersprüche.",
+   "schwerpunkte": [
+    "Besitzstand des Verpächters",
+    "Bösgläubigkeit und lokal beschränkte Kennzeichen",
+    "Benutzung mit Zustimmung (§ 26 Abs. 2)",
+    "Aussetzung und Wiederaufnahme"
+   ],
+   "entscheidung": "BPatG 17.04.2014 – 30 W (pat) 32/12; BGH 15.10.2015 – I ZB 44/14 „LIQUIDROM“",
+   "status": "sicher",
+   "case": "bgh_liquidrom"
+  },
+  {
+   "jahr": 2020,
+   "termin": "I",
+   "kurz": "ACRIGLAS",
+   "typ": "beratung",
+   "loesung": false,
+   "thema": "Traditionsmarke gegen italienische IR-Marke; Einwand der Gattungsbezeichnung; Rechtsübergang im Konzern; Beschluss geht an die falsche Gesellschaft.",
+   "schwerpunkte": [
+    "Verfall wegen Gattungsentwicklung (§ 49 Abs. 2 Nr. 1)",
+    "Zustellung und Fristbeginn beim Rechtsnachfolger",
+    "Vollmacht des Vertreters",
+    "Vorgehen gegen Werbeaussagen"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2019,
+   "termin": "III",
+   "kurz": "sportnord / NordSport",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Widerspruch aus Marke und Unternehmenskennzeichen; Änderungen durch das MaMoG; Benutzungszeitraum; Silbenrotation.",
+   "schwerpunkte": [
+    "Zahl der Widersprüche und Gebühren nach neuem Recht",
+    "Berechnung des Benutzungszeitraums",
+    "Klangliche Verwechslungsgefahr bei vertauschten Silben",
+    "Alternative nach Fristversäumung"
+   ],
+   "entscheidung": "BPatG 22.05.2019 – 29 W (pat) 47/16",
+   "status": "sicher",
+   "case": "bpatg_sportnord"
+  },
+  {
+   "jahr": 2019,
+   "termin": "II",
+   "kurz": "Öresundbrücke",
+   "typ": "beratung",
+   "loesung": false,
+   "thema": "Ehemaliger Ticketvertriebspartner meldet Namen und Bild der Brücke als Marke an; Mandantin will dagegen vorgehen und die Kosten erstattet bekommen.",
+   "schwerpunkte": [
+    "Bösgläubigkeit und geografische Sachangaben",
+    "Ältere Rechte nach § 13 (Name, Urheberrecht)",
+    "Widerspruch oder Nichtigkeitsantrag",
+    "Kostenerstattung im Amtsverfahren"
+   ],
+   "entscheidung": "BPatG 06.09.2024 – 26 W (pat) 2/20",
+   "status": "sicher",
+   "case": "bpatg_oeresundbruecke"
+  },
+  {
+   "jahr": 2019,
+   "termin": "I",
+   "kurz": "MICHEL LEON / JEAN LEON",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Beide Seiten legen Beschwerde ein; eine verspätet und mit zu geringer Gebühr; Vor- und Nachname als Marke; Warenähnlichkeit von Wein und Crémant.",
+   "schwerpunkte": [
+    "Beschwerdefrist und Gebührenhöhe",
+    "Anschlussbeschwerde",
+    "Registerlage statt tatsächlicher Produktion",
+    "Prägung durch den Nachnamen"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2018,
+   "termin": "III",
+   "kurz": "villa rocca / ROCA",
+   "typ": "beschwerde",
+   "loesung": false,
+   "thema": "Zustellung in das Abholfach beim DPMA; Nichtbenutzungseinrede erstmals im Beschwerdeverfahren; Benutzung mit Wellenlinie; Zeichenserie.",
+   "schwerpunkte": [
+    "Zustellungsfiktion Abholfach",
+    "Einrede in jedem Verfahrensstadium",
+    "Abweichende Benutzungsform (§ 26 Abs. 3)",
+    "Tenorvorschlag"
+   ],
+   "entscheidung": null,
+   "status": "Lehrfall"
+  },
+  {
+   "jahr": 2018,
+   "termin": "II",
+   "kurz": "Fassbrause und Wuppertaler Flönz",
+   "typ": "widerspruch",
+   "loesung": true,
+   "thema": "Zwei Widersprüche gegen eine Wort-/Bildmarke; dazu die Verwendung einer geschützten geografischen Angabe für eine abweichende Wurst.",
+   "schwerpunkte": [
+    "Vollständige Zulässigkeitsprüfung je Widerspruch",
+    "Beschreibende Bestandteile und Schutzumfang",
+    "Art. 13 VO (EU) Nr. 1151/2012",
+    "Kollektivmarke und Bestandsschutz"
+   ],
+   "entscheidung": "Teil 2 nach BGH 12.04.2018 – I ZR 253/16 „Deutscher Balsamico“; EuGH 04.12.2019 – C-432/18",
+   "status": "Lehrfall mit realer g.g.A.",
+   "case": "bgh_deutscher_balsamico"
+  }
+ ],
+ "bausteine": [
+  {
+   "zweck": "Obersatz Widerspruch",
+   "text": "Der Widerspruch aus der Marke … führt zur Löschung der angegriffenen Marke, wenn er wirksam erhoben, zulässig und begründet ist."
+  },
+  {
+   "zweck": "Obersatz Beschwerde",
+   "text": "Die Beschwerde hat Erfolg, wenn sie zulässig und begründet ist. Begründet ist sie, wenn die Markenstelle den Widerspruch zu Unrecht zurückgewiesen hat."
+  },
+  {
+   "zweck": "Gebühr",
+   "text": "Die Widerspruchsgebühr von 250 Euro (Nr. 331 600 GV PatKostG) ist am … und damit innerhalb der Widerspruchsfrist gezahlt worden; als Zahlungstag gilt nach § 2 Nr. 3 PatKostZV der Tag des Eingangs des SEPA-Basislastschriftmandats. Der Widerspruch ist wirksam erhoben."
+  },
+  {
+   "zweck": "Fristberechnung",
+   "text": "Die Eintragung wurde am … veröffentlicht. Die dreimonatige Widerspruchsfrist des § 42 Abs. 1 begann nach § 187 Abs. 1 BGB am … und endete nach § 188 Abs. 2 BGB mit Ablauf des …; da dieser Tag ein Samstag war, trat nach § 193 BGB der folgende Montag an seine Stelle."
+  },
+  {
+   "zweck": "Beteiligtenfähigkeit",
+   "text": "Die Widersprechende ist als GmbH nach § 13 Abs. 1 GmbHG rechtsfähig und damit nach § 7 Nr. 2 markenrechtsfähig; sie wird durch ihren Geschäftsführer vertreten (§ 35 Abs. 1 GmbHG). Bedenken gegen die Prozess- und Postulationsfähigkeit bestehen nicht."
+  },
+  {
+   "zweck": "Weitere Zulassungsvoraussetzungen",
+   "text": "Die weiteren Zulassungsvoraussetzungen, insbesondere die Angaben zur Identität der angegriffenen Marke, des Widerspruchskennzeichens und der Widersprechenden nach § 30 Abs. 1 MarkenV sowie Form und Ort der Einreichung, liegen vor."
+  },
+  {
+   "zweck": "Wechselwirkung",
+   "text": "Die Verwechslungsgefahr ist unter Berücksichtigung aller Umstände des Einzelfalls umfassend zu beurteilen. Zwischen der Ähnlichkeit der Waren, der Ähnlichkeit der Marken und der Kennzeichnungskraft der älteren Marke besteht eine Wechselwirkung."
+  },
+  {
+   "zweck": "Nichtbenutzungseinrede",
+   "text": "Die Inhaberin der angegriffenen Marke hat die Einrede der Nichtbenutzung erhoben. Diese ist zulässig, weil gegen die Widerspruchsmarke am Anmeldetag der angegriffenen Marke seit mehr als fünf Jahren kein Widerspruch mehr möglich war (§ 43 Abs. 1 S. 1, § 26 Abs. 5)."
+  },
+  {
+   "zweck": "Ergebnis warenbezogen",
+   "text": "Der Widerspruch ist begründet, soweit er sich gegen die Waren … richtet; im Übrigen ist er zurückzuweisen. Die Eintragung ist insoweit nach § 43 Abs. 2 S. 1 zu löschen."
+  },
+  {
+   "zweck": "Kosten",
+   "text": "Für eine Abweichung von dem Grundsatz, dass jeder Beteiligte seine Kosten selbst trägt (§ 71 Abs. 1 S. 2), fehlt es an Billigkeitsgründen; ein Verhalten, das mit der prozessualen Sorgfalt nicht zu vereinbaren wäre, liegt nicht vor."
+  },
+  {
+   "zweck": "Hilfsgutachten",
+   "text": "Sollte man die Beschwerde entgegen der hier vertretenen Auffassung für zulässig halten, wäre sie jedenfalls unbegründet. Denn …"
+  }
+ ],
+ "statistik": {
+  "klausuren": 23,
+  "mit_loesung": 6,
+  "mit_entscheidung": 9,
+  "typen": {
+   "beschwerde": 15,
+   "widerspruch": 2,
+   "beratung": 5,
+   "gericht": 1
+  },
+  "fristen": 14,
+  "gebuehren": 11,
+  "tenor": 12
+ }
+}

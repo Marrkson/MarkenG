@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht
 
-585 Karten, generiert aus graph/markenrecht_graph.json.
+676 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -420,7 +420,7 @@ Ausgeschlossen sind Zeichen, die geeignet sind, das Publikum insbesondere über 
 
 Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 14](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
 
-Rechtsprechung: BGH GLÜCKSPILZ (I ZB 69/14); BGH EROS (I ZR 190/05); BGH Ivadal (I ZB 8/06)
+Rechtsprechung: BGH GLÜCKSPILZ (I ZB 69/14); BGH EROS (I ZR 190/05); BGH Ivadal (I ZB 8/06); BPatG LIQUIDROM (30 W (pat) 32/12)
 
 *Tags: Begriff, Schutzvoraussetzungen*
 
@@ -702,7 +702,7 @@ Mittelbare Verwechslungsgefahr: Der Verkehr erkennt die Unterschiede der Zeichen
 
 Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
-Rechtsprechung: BGH VOLKSWAGEN/Volks.Inspektion (I ZR 214/11)
+Rechtsprechung: BGH VOLKSWAGEN/Volks.Inspektion (I ZR 214/11); BPatG vita+lebenskraft/VITA (25 W (pat) 11/18)
 
 *Tags: Begriff, Verletzung*
 
@@ -1452,7 +1452,7 @@ Innerhalb von fünf Jahren nach der Eintragung (bzw. nach Abschluss eines Widers
 
 Normen: [Art. 17 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html)
 
-Rechtsprechung: BGH VOODOO (I ZR 106/11)
+Rechtsprechung: BGH VOODOO (I ZR 106/11); BPatG SILVER HORSE/POWER HORSE (26 W (pat) 38/17); BGH Silver Horse/Power Horse (I ZB 65/22)
 
 *Tags: Begriff, Benutzungszwang*
 
@@ -1478,7 +1478,7 @@ Im Verletzungsprozess ([§ 25 Abs. 2](https://www.gesetze-im-internet.de/markeng
 
 Normen: [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 21 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 35 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 47 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html), [§ 52 Abs. 1](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
 
-Rechtsprechung: BGH VOODOO (I ZR 106/11); BGH TÜV II (I ZR 108/09)
+Rechtsprechung: BGH VOODOO (I ZR 106/11); BGH TÜV II (I ZR 108/09); BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22)
 
 *Tags: Begriff, Verfahren*
 
@@ -1530,7 +1530,7 @@ Die Eintragung wird auf Antrag für nichtig erklärt und gelöscht, wenn die Mar
 
 Normen: [Art. 43 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 43](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 66](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 83](https://www.gesetze-im-internet.de/markeng/__83.html), [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) MarkenG
 
-Rechtsprechung: BGH Maalox/Melox-GRY (I ZB 52/09); BGH DESPERADOS/DESPERADO (I ZB 63/12)
+Rechtsprechung: BGH Maalox/Melox-GRY (I ZB 52/09); BGH DESPERADOS/DESPERADO (I ZB 63/12); BGH Silver Horse/Power Horse (I ZB 65/22); BPatG Aussetzung bei Nichtigkeitsantrag gegen die Unionswiderspruchsmarke (29 W (pat) 522/20)
 
 *Tags: Begriff, Verfahren*
 
@@ -1940,7 +1940,7 @@ Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https
 
 Normen: [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 126](https://www.gesetze-im-internet.de/markeng/__126.html), [§ 127](https://www.gesetze-im-internet.de/markeng/__127.html), [§ 128](https://www.gesetze-im-internet.de/markeng/__128.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
 
-Rechtsprechung: EuGH Windsurfing Chiemsee (C-108/97)
+Rechtsprechung: EuGH Windsurfing Chiemsee (C-108/97); BPatG Öresundbrücke (26 W (pat) 2/20); BGH Deutscher Balsamico (Vorlagebeschluss) (I ZR 253/16); EuGH Aceto Balsamico di Modena (Balema) (C-432/18)
 
 *Tags: Begriff, Sonstige Kennzeichen*
 
@@ -2169,6 +2169,8 @@ Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren 
 **A:** Marke, die über die WIPO auf Grundlage einer Basismarke/-anmeldung nach dem Madrider Markenabkommen (MMA, §§ [107](https://www.gesetze-im-internet.de/markeng/__107.html)-[118](https://www.gesetze-im-internet.de/markeng/__118.html)) oder – heute praktisch ausschließlich – dem Protokoll zum MMA (PMMA, §§ [119](https://www.gesetze-im-internet.de/markeng/__119.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)) international registriert und auf Deutschland erstreckt wurde. Sie hat dieselbe Wirkung wie eine am Tag der internationalen Registrierung (bzw. der nachträglichen Schutzerstreckung) beim DPMA angemeldete und eingetragene Marke ([§ 112](https://www.gesetze-im-internet.de/markeng/__112.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html)).
 
 Normen: [§ 112](https://www.gesetze-im-internet.de/markeng/__112.html), [§ 116](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 119](https://www.gesetze-im-internet.de/markeng/__119.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 125 MarkenG](https://www.gesetze-im-internet.de/markeng/__125.html)
+
+Rechtsprechung: BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22)
 
 *Tags: Begriff, EU- und IR-Marken*
 
@@ -2416,7 +2418,7 @@ Die Waren und Dienstleistungen sind nach der Nizza-Klassifikation so klar und ei
 
 Normen: [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54](https://www.gesetze-im-internet.de/markeng/__54.html), [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) MarkenG
 
-Rechtsprechung: BGH Black Friday (I ZB 21/20)
+Rechtsprechung: BGH Black Friday (I ZB 21/20); BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22)
 
 *Tags: Begriff, Verfahren*
 
@@ -2455,6 +2457,388 @@ Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag und kann beliebig oft um z
 **A:** Schutzdauer und Verlängerung ([§ 47 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html), [Art. 48, 49 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Begriff, Umkehr, Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Beteiligten-, Prozess- und Postulationsfähigkeit
+
+**A:** Beteiligtenfähig ist, wer Träger von Rechten und Pflichten sein kann; im Markenverfahren folgt das aus [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html) (natürliche Personen, juristische Personen, rechtsfähige Personengesellschaften). Prozessfähig ist, wer Verfahrenshandlungen selbst oder durch einen selbst bestellten Vertreter wirksam vornehmen kann; juristische Personen handeln durch ihr vertretungsberechtigtes Organ. Postulationsfähig ist, wer vor der jeweiligen Instanz selbst auftreten darf.
+
+Normen: [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html), [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 84 MarkenG](https://www.gesetze-im-internet.de/markeng/__84.html)
+
+Rechtsprechung: BPatG BLIZZARD (Beschwerde einer gelöschten UG) (30 W (pat) 61/23)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Beteiligtenfähig ist, wer Träger von Rechten und Pflichten sein kann; im Markenverfahren folgt das aus [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html) (natürliche Personen, juristische Personen, rechtsfähige Personengesellschaften). Prozessfähig ist, wer Verfahrenshandlungen selbst oder durch einen selbst bestellten Vertreter wirksam vornehmen kann; juristische Personen handeln durch ihr vertretungsberechtigtes Organ. Postulationsfähig ist, wer vor der jeweiligen Instanz selbst auftreten darf.
+
+**A:** Beteiligten-, Prozess- und Postulationsfähigkeit
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Inlandsvertreter ([§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html))
+
+**A:** Wer im Inland weder Wohnsitz noch Sitz noch Niederlassung hat, kann an Verfahren vor dem DPMA und dem BPatG und in Markenstreitsachen nur teilnehmen, wenn er einen im Inland niedergelassenen Rechts- oder Patentanwalt als Vertreter bestellt hat.
+
+Normen: [§ 96](https://www.gesetze-im-internet.de/markeng/__96.html), [§ 81 MarkenG](https://www.gesetze-im-internet.de/markeng/__81.html)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer im Inland weder Wohnsitz noch Sitz noch Niederlassung hat, kann an Verfahren vor dem DPMA und dem BPatG und in Markenstreitsachen nur teilnehmen, wenn er einen im Inland niedergelassenen Rechts- oder Patentanwalt als Vertreter bestellt hat.
+
+**A:** Inlandsvertreter ([§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Erinnerung ([§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html))
+
+**A:** Rechtsbehelf gegen Beschlüsse der Markenstellen und Markenabteilungen, die von einem Beamten des gehobenen Dienstes oder einem vergleichbaren Angestellten erlassen worden sind. Sie ist innerhalb eines Monats nach Zustellung beim DPMA einzulegen und hat aufschiebende Wirkung.
+
+Normen: [§ 64](https://www.gesetze-im-internet.de/markeng/__64.html), [§ 66 Abs. 3](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 56 MarkenG](https://www.gesetze-im-internet.de/markeng/__56.html)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Rechtsbehelf gegen Beschlüsse der Markenstellen und Markenabteilungen, die von einem Beamten des gehobenen Dienstes oder einem vergleichbaren Angestellten erlassen worden sind. Sie ist innerhalb eines Monats nach Zustellung beim DPMA einzulegen und hat aufschiebende Wirkung.
+
+**A:** Erinnerung ([§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html))
+
+**A:** Gegen Beschlüsse der Markenstellen und Markenabteilungen findet, unbeschadet der Erinnerung nach [§ 64](https://www.gesetze-im-internet.de/markeng/__64.html), die Beschwerde zum Bundespatentgericht statt. Sie steht den am Verfahren vor dem DPMA Beteiligten zu, ist innerhalb eines Monats nach Zustellung schriftlich beim DPMA einzulegen und hat aufschiebende Wirkung.
+
+Normen: [§ 66](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 70](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71](https://www.gesetze-im-internet.de/markeng/__71.html), [§ 95a MarkenG](https://www.gesetze-im-internet.de/markeng/__95a.html)
+
+Rechtsprechung: BPatG Silberweide (Zuordnung der Widerspruchsgebühr) (26 W (pat) 30/20); BPatG BLIZZARD (Beschwerde einer gelöschten UG) (30 W (pat) 61/23)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen Beschlüsse der Markenstellen und Markenabteilungen findet, unbeschadet der Erinnerung nach [§ 64](https://www.gesetze-im-internet.de/markeng/__64.html), die Beschwerde zum Bundespatentgericht statt. Sie steht den am Verfahren vor dem DPMA Beteiligten zu, ist innerhalb eines Monats nach Zustellung schriftlich beim DPMA einzulegen und hat aufschiebende Wirkung.
+
+**A:** Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Beschwer als Zulässigkeitsvoraussetzung
+
+**A:** Ein Rechtsbehelf ist nur zulässig, wenn der Rechtsbehelfsführer durch die angefochtene Entscheidung beschwert ist, also formell (sein Antrag wurde nicht oder nicht vollständig erfüllt) und materiell (die Entscheidung wirkt sich für ihn nachteilig aus) betroffen ist.
+
+Normen: [§ 66 Abs. 1](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
+
+Rechtsprechung: BPatG SILVER HORSE/POWER HORSE (26 W (pat) 38/17)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Rechtsbehelf ist nur zulässig, wenn der Rechtsbehelfsführer durch die angefochtene Entscheidung beschwert ist, also formell (sein Antrag wurde nicht oder nicht vollständig erfüllt) und materiell (die Entscheidung wirkt sich für ihn nachteilig aus) betroffen ist.
+
+**A:** Beschwer als Zulässigkeitsvoraussetzung
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html))
+
+**A:** Gegen Beschlüsse der Beschwerdesenate des BPatG findet die Rechtsbeschwerde zum BGH statt, wenn der Senat sie wegen grundsätzlicher Bedeutung oder zur Rechtsfortbildung und Sicherung einheitlicher Rechtsprechung zugelassen hat ([§ 83 Abs. 1](https://www.gesetze-im-internet.de/markeng/__83.html), 2). Ohne Zulassung ist sie nur bei den sechs absoluten Verfahrensmängeln des [§ 83 Abs. 3](https://www.gesetze-im-internet.de/markeng/__83.html) statthaft.
+
+Normen: [§ 83](https://www.gesetze-im-internet.de/markeng/__83.html), [§ 84](https://www.gesetze-im-internet.de/markeng/__84.html), [§ 85](https://www.gesetze-im-internet.de/markeng/__85.html), [§ 88 MarkenG](https://www.gesetze-im-internet.de/markeng/__88.html)
+
+Rechtsprechung: BGH Silver Horse/Power Horse (I ZB 65/22)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen Beschlüsse der Beschwerdesenate des BPatG findet die Rechtsbeschwerde zum BGH statt, wenn der Senat sie wegen grundsätzlicher Bedeutung oder zur Rechtsfortbildung und Sicherung einheitlicher Rechtsprechung zugelassen hat ([§ 83 Abs. 1](https://www.gesetze-im-internet.de/markeng/__83.html), 2). Ohne Zulassung ist sie nur bei den sechs absoluten Verfahrensmängeln des [§ 83 Abs. 3](https://www.gesetze-im-internet.de/markeng/__83.html) statthaft.
+
+**A:** Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
+
+**A:** Wer ohne Verschulden verhindert war, eine Frist gegenüber dem DPMA oder dem BPatG einzuhalten, deren Versäumung einen Rechtsnachteil zur Folge hat, ist auf Antrag wieder in den vorigen Stand einzusetzen. Der Antrag ist innerhalb von zwei Monaten nach Wegfall des Hindernisses zu stellen, die versäumte Handlung nachzuholen und die Begründungstatsachen glaubhaft zu machen; nach einem Jahr ab Fristende ist die Wiedereinsetzung ausgeschlossen.
+
+Normen: [§ 91](https://www.gesetze-im-internet.de/markeng/__91.html), [§ 91a](https://www.gesetze-im-internet.de/markeng/__91a.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html)
+
+Rechtsprechung: BPatG SILVER HORSE/POWER HORSE (26 W (pat) 38/17)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer ohne Verschulden verhindert war, eine Frist gegenüber dem DPMA oder dem BPatG einzuhalten, deren Versäumung einen Rechtsnachteil zur Folge hat, ist auf Antrag wieder in den vorigen Stand einzusetzen. Der Antrag ist innerhalb von zwei Monaten nach Wegfall des Hindernisses zu stellen, die versäumte Handlung nachzuholen und die Begründungstatsachen glaubhaft zu machen; nach einem Jahr ab Fristende ist die Wiedereinsetzung ausgeschlossen.
+
+**A:** Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Weiterbehandlung der Anmeldung ([§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html))
+
+**A:** Wird eine vom DPMA gesetzte Frist im Anmeldeverfahren versäumt und die Anmeldung deshalb zurückgewiesen, kann der Anmelder ohne Nachweis eines Hinderungsgrundes die Weiterbehandlung beantragen: Antrag binnen eines Monats nach Zustellung, Nachholung der Handlung und Zahlung der Weiterbehandlungsgebühr von 100 Euro (Nr. 333 050 GV PatKostG).
+
+Normen: [§ 91a](https://www.gesetze-im-internet.de/markeng/__91a.html), [§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wird eine vom DPMA gesetzte Frist im Anmeldeverfahren versäumt und die Anmeldung deshalb zurückgewiesen, kann der Anmelder ohne Nachweis eines Hinderungsgrundes die Weiterbehandlung beantragen: Antrag binnen eines Monats nach Zustellung, Nachholung der Handlung und Zahlung der Weiterbehandlungsgebühr von 100 Euro (Nr. 333 050 GV PatKostG).
+
+**A:** Weiterbehandlung der Anmeldung ([§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Zustellung im Markenverfahren ([§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html))
+
+**A:** Zustellungen erfolgen nach dem Verwaltungszustellungsgesetz mit den Maßgaben des [§ 94](https://www.gesetze-im-internet.de/markeng/__94.html): durch Einschreiben mit Rückschein oder gegen Empfangsbekenntnis, an Anwälte gegen Empfangsbekenntnis, durch Niederlegung in einem beim DPMA eingerichteten Abholfach oder elektronisch; die Zustellung setzt die Rechtsbehelfsfristen in Lauf.
+
+Normen: [§ 94](https://www.gesetze-im-internet.de/markeng/__94.html), [§ 95a](https://www.gesetze-im-internet.de/markeng/__95a.html), [§ 81](https://www.gesetze-im-internet.de/markeng/__81.html), [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)
+
+Rechtsprechung: BPatG BLIZZARD (Beschwerde einer gelöschten UG) (30 W (pat) 61/23)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Zustellungen erfolgen nach dem Verwaltungszustellungsgesetz mit den Maßgaben des [§ 94](https://www.gesetze-im-internet.de/markeng/__94.html): durch Einschreiben mit Rückschein oder gegen Empfangsbekenntnis, an Anwälte gegen Empfangsbekenntnis, durch Niederlegung in einem beim DPMA eingerichteten Abholfach oder elektronisch; die Zustellung setzt die Rechtsbehelfsfristen in Lauf.
+
+**A:** Zustellung im Markenverfahren ([§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB)
+
+**A:** Verfahrensfristen werden nach den §§ [187](https://www.gesetze-im-internet.de/bgb/__187.html) bis [193](https://www.gesetze-im-internet.de/bgb/__193.html) BGB berechnet, die über [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html) in Verbindung mit [§ 222 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html) gelten: Der Ereignistag zählt nicht mit ([§ 187 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__187.html)); Wochen-, Monats- und Jahresfristen enden mit Ablauf des Tages, der dem Ereignistag entspricht ([§ 188 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__188.html)); fällt das Ende auf einen Samstag, Sonntag oder Feiertag, tritt der nächste Werktag an seine Stelle ([§ 193 BGB](https://www.gesetze-im-internet.de/bgb/__193.html), [§ 222 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html)).
+
+Normen: [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 42 Abs. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 66 Abs. 2](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 91 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verfahrensfristen werden nach den §§ [187](https://www.gesetze-im-internet.de/bgb/__187.html) bis [193](https://www.gesetze-im-internet.de/bgb/__193.html) BGB berechnet, die über [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html) in Verbindung mit [§ 222 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html) gelten: Der Ereignistag zählt nicht mit ([§ 187 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__187.html)); Wochen-, Monats- und Jahresfristen enden mit Ablauf des Tages, der dem Ereignistag entspricht ([§ 188 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__188.html)); fällt das Ende auf einen Samstag, Sonntag oder Feiertag, tritt der nächste Werktag an seine Stelle ([§ 193 BGB](https://www.gesetze-im-internet.de/bgb/__193.html), [§ 222 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html)).
+
+**A:** Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB)
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV)
+
+**A:** Für Verfahrenshandlungen, die eine Gebühr auslösen, gilt: Wird die Gebühr nicht innerhalb der gesetzlichen Frist vollständig gezahlt, gilt die Handlung als nicht vorgenommen ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html) i.V.m. [§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)). Als Zahlungstag gilt bei Überweisung der Tag der Gutschrift bei der Bundeskasse, bei Bareinzahlung der Tag der Einzahlung und beim SEPA-Basislastschriftmandat der Tag seines Eingangs beim DPMA oder BPatG ([§ 2 PatKostZV](https://www.gesetze-im-internet.de/patkostzv_2004/__2.html)).
+
+Normen: [§ 64a](https://www.gesetze-im-internet.de/markeng/__64a.html), [§ 42 Abs. 3](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 66 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)
+
+Rechtsprechung: BPatG Silberweide (Zuordnung der Widerspruchsgebühr) (26 W (pat) 30/20)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für Verfahrenshandlungen, die eine Gebühr auslösen, gilt: Wird die Gebühr nicht innerhalb der gesetzlichen Frist vollständig gezahlt, gilt die Handlung als nicht vorgenommen ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html) i.V.m. [§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)). Als Zahlungstag gilt bei Überweisung der Tag der Gutschrift bei der Bundeskasse, bei Bareinzahlung der Tag der Einzahlung und beim SEPA-Basislastschriftmandat der Tag seines Eingangs beim DPMA oder BPatG ([§ 2 PatKostZV](https://www.gesetze-im-internet.de/patkostzv_2004/__2.html)).
+
+**A:** Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV)
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Amtsermittlung und rechtliches Gehör ([§ 59 MarkenG](https://www.gesetze-im-internet.de/markeng/__59.html))
+
+**A:** Das DPMA ermittelt den Sachverhalt von Amts wegen und ist an das Vorbringen und die Beweisanträge der Beteiligten nicht gebunden; vor einer Entscheidung ist den Beteiligten rechtliches Gehör zu gewähren, und Beschlüsse sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen ([§ 61](https://www.gesetze-im-internet.de/markeng/__61.html)).
+
+Normen: [§ 59](https://www.gesetze-im-internet.de/markeng/__59.html), [§ 61](https://www.gesetze-im-internet.de/markeng/__61.html), [§ 70 Abs. 3](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 83 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
+
+Rechtsprechung: BPatG Engelbrecht/Stadtbäckerei Engelbrecht GmbH (25 W (pat) 52/21); BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das DPMA ermittelt den Sachverhalt von Amts wegen und ist an das Vorbringen und die Beweisanträge der Beteiligten nicht gebunden; vor einer Entscheidung ist den Beteiligten rechtliches Gehör zu gewähren, und Beschlüsse sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen ([§ 61](https://www.gesetze-im-internet.de/markeng/__61.html)).
+
+**A:** Amtsermittlung und rechtliches Gehör ([§ 59 MarkenG](https://www.gesetze-im-internet.de/markeng/__59.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Kosten und Rückzahlung der Beschwerdegebühr (§§ [63](https://www.gesetze-im-internet.de/markeng/__63.html), [71](https://www.gesetze-im-internet.de/markeng/__71.html) MarkenG)
+
+**A:** Im Widerspruchs- und Beschwerdeverfahren trägt grundsätzlich jeder Beteiligte seine Kosten selbst ([§ 63 Abs. 1 Satz 3](https://www.gesetze-im-internet.de/markeng/__63.html), [§ 71 Abs. 1 Satz 2](https://www.gesetze-im-internet.de/markeng/__71.html)). Eine Kostenauferlegung setzt voraus, dass es der Billigkeit entspricht; die Rückzahlung der Beschwerdegebühr kann das BPatG aus Billigkeit anordnen ([§ 71 Abs. 3](https://www.gesetze-im-internet.de/markeng/__71.html)).
+
+Normen: [§ 63](https://www.gesetze-im-internet.de/markeng/__63.html), [§ 71 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
+
+Rechtsprechung: BPatG Engelbrecht/Stadtbäckerei Engelbrecht GmbH (25 W (pat) 52/21); BPatG Silberweide (Zuordnung der Widerspruchsgebühr) (26 W (pat) 30/20); BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22); BPatG BLIZZARD (Beschwerde einer gelöschten UG) (30 W (pat) 61/23)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Im Widerspruchs- und Beschwerdeverfahren trägt grundsätzlich jeder Beteiligte seine Kosten selbst ([§ 63 Abs. 1 Satz 3](https://www.gesetze-im-internet.de/markeng/__63.html), [§ 71 Abs. 1 Satz 2](https://www.gesetze-im-internet.de/markeng/__71.html)). Eine Kostenauferlegung setzt voraus, dass es der Billigkeit entspricht; die Rückzahlung der Beschwerdegebühr kann das BPatG aus Billigkeit anordnen ([§ 71 Abs. 3](https://www.gesetze-im-internet.de/markeng/__71.html)).
+
+**A:** Kosten und Rückzahlung der Beschwerdegebühr (§§ [63](https://www.gesetze-im-internet.de/markeng/__63.html), [71](https://www.gesetze-im-internet.de/markeng/__71.html) MarkenG)
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html))
+
+**A:** Das BPatG kann das Beschwerdeverfahren aussetzen, wenn die Entscheidung ganz oder teilweise vom Bestehen oder Nichtbestehen eines Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen Verfahrens bildet (Vorgreiflichkeit). Die Entscheidung steht im pflichtgemäßen Ermessen.
+
+Normen: [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 44](https://www.gesetze-im-internet.de/markeng/__44.html), [§ 43 Abs. 3](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)
+
+Rechtsprechung: BPatG Aussetzung bei Nichtigkeitsantrag gegen die Unionswiderspruchsmarke (29 W (pat) 522/20); BPatG Engelbrecht/Stadtbäckerei Engelbrecht GmbH (25 W (pat) 52/21)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das BPatG kann das Beschwerdeverfahren aussetzen, wenn die Entscheidung ganz oder teilweise vom Bestehen oder Nichtbestehen eines Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen Verfahrens bildet (Vorgreiflichkeit). Die Entscheidung steht im pflichtgemäßen Ermessen.
+
+**A:** Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Glaubhaftmachung und eidesstattliche Versicherung
+
+**A:** Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html) für die rechtserhaltende Benutzung, [§ 91 Abs. 3](https://www.gesetze-im-internet.de/markeng/__91.html) für die Wiedereinsetzungsgründe), reicht ein geringerer Grad der Wahrscheinlichkeit als beim Vollbeweis; zulässig sind alle präsenten Beweismittel einschließlich der eidesstattlichen Versicherung ([§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html) i.V.m. [§ 294 ZPO](https://www.gesetze-im-internet.de/zpo/__294.html)).
+
+Normen: [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 91 Abs. 3](https://www.gesetze-im-internet.de/markeng/__91.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html)
+
+Rechtsprechung: BPatG SILVER HORSE/POWER HORSE (26 W (pat) 38/17); BGH VOODOO (I ZR 106/11)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html) für die rechtserhaltende Benutzung, [§ 91 Abs. 3](https://www.gesetze-im-internet.de/markeng/__91.html) für die Wiedereinsetzungsgründe), reicht ein geringerer Grad der Wahrscheinlichkeit als beim Vollbeweis; zulässig sind alle präsenten Beweismittel einschließlich der eidesstattlichen Versicherung ([§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html) i.V.m. [§ 294 ZPO](https://www.gesetze-im-internet.de/zpo/__294.html)).
+
+**A:** Glaubhaftmachung und eidesstattliche Versicherung
+
+*Tags: Begriff, Umkehr, Verfahren*
 
 ---
 
@@ -2727,6 +3111,85 @@ Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag und kann beliebig oft um z
 - 6. Übergangsrecht beachten
 
 *Tags: Prüfungsschema, EU- und IR-Marken*
+
+---
+
+**F:** Prüfungsschema: Aufbau der NS-Klausur (Patentanwaltsprüfung)
+
+**A:** - A. Vorüberlegung: Welche Perspektive verlangt die Aufgabe?
+- B. Verfahrensgang aus dem Sachverhalt herausschreiben
+- C. Wirksamkeit der Verfahrenshandlung
+- D. Zulässigkeit
+  - 1. Statthaftigkeit
+  - 2. Beteiligten-, Prozess- und Postulationsfähigkeit
+  - 3. Berechtigung und Beschwer
+  - 4. Form und Ort
+  - 5. Frist
+  - 6. Zwischenergebnis
+- E. Begründetheit
+  - 1. Älteres Recht und Zeitrang
+  - 2. Nichtbenutzungseinrede
+  - 3. Kollisionstatbestand
+  - 4. Ergebnis je Ware und Dienstleistung
+- F. Nebenentscheidungen
+- G. Tenorvorschlag
+
+*Tags: Prüfungsschema, Klausur*
+
+---
+
+**F:** Prüfungsschema: Zulässigkeit des Widerspruchs ([§ 42 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html))
+
+**A:** - 1. Wirksamkeit: Gebühr
+- 2. Statthaftigkeit
+- 3. Beteiligten-, Prozess- und Postulationsfähigkeit
+- 4. Widerspruchsberechtigung
+  - Nr. 1 – ältere angemeldete oder eingetragene Marke ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html))
+  - Nr. 2 – notorisch bekannte Marke ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html))
+  - Nr. 3 – Agentenmarke ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html))
+  - Nr. 4 – Benutzungsmarke und geschäftliche Bezeichnung ([§§ 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__4.html), 5, 12)
+  - Nr. 5 – Ursprungsbezeichnung oder geografische Angabe ([§ 13 Abs. 2 Nr. 5](https://www.gesetze-im-internet.de/markeng/__13.html))
+- 5. Form und Inhalt
+- 6. Widerspruchsfrist
+- 7. Weitere Zulassungsvoraussetzungen
+- 8. Zwischenergebnis
+
+*Tags: Prüfungsschema, Klausur*
+
+---
+
+**F:** Prüfungsschema: Zulässigkeit der Beschwerde zum BPatG ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html))
+
+**A:** - 1. Statthaftigkeit
+- 2. Beschwerdeberechtigung und Beschwer
+- 3. Beteiligten- und Prozessfähigkeit
+- 4. Form und Ort
+- 5. Frist
+  - a) Zustellungsart und Fiktion
+  - b) Empfänger
+  - c) Fristende
+- 6. Beschwerdegebühr
+- 7. Bei Versäumung: Wiedereinsetzung
+- 8. Umfang der Beschwerde
+- 9. Zwischenergebnis und weiterer Aufbau
+
+*Tags: Prüfungsschema, Klausur*
+
+---
+
+**F:** Prüfungsschema: Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
+
+**A:** - 1. Statthaftigkeit
+- 2. Antragsfrist und Form
+- 3. Glaubhaftmachung
+- 4. Fehlendes Verschulden
+  - a) Zurechnung
+  - b) Sorgfaltspflichten des Anwalts
+  - c) Anerkannte Entschuldigungsgründe
+  - d) Nicht entschuldigt
+- 5. Entscheidung
+
+*Tags: Prüfungsschema, Klausur*
 
 ---
 
@@ -3032,6 +3495,88 @@ Welche Punkte sind hier zu prüfen?
 - Kapitel 2 Abschnitt 3: Rechte und Schranken
 - Kapitel 2 Abschnitt 4 bis 6: Verfall, Vermögen, Kollektivmarken
 - Kapitel 3: Verfahren
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** D. Zulässigkeit
+(Aufbau der NS-Klausur (Patentanwaltsprüfung))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Statthaftigkeit
+- 2. Beteiligten-, Prozess- und Postulationsfähigkeit
+- 3. Berechtigung und Beschwer
+- 4. Form und Ort
+- 5. Frist
+- 6. Zwischenergebnis
+
+Nach dem immer gleichen Raster; Einzelheiten in den Schemata zur Zulässigkeit des Widerspruchs und der Beschwerde.
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** E. Begründetheit
+(Aufbau der NS-Klausur (Patentanwaltsprüfung))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Älteres Recht und Zeitrang
+- 2. Nichtbenutzungseinrede
+- 3. Kollisionstatbestand
+- 4. Ergebnis je Ware und Dienstleistung
+
+Reihenfolge im Kollisionsverfahren: Bestand und Zeitrang des älteren Rechts, Nichtbenutzungseinrede als Vorfrage, dann der Kollisionstatbestand.
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 4. Widerspruchsberechtigung
+(Zulässigkeit des Widerspruchs ([§ 42 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - Nr. 1 – ältere angemeldete oder eingetragene Marke ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html))
+- Nr. 2 – notorisch bekannte Marke ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html))
+- Nr. 3 – Agentenmarke ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html))
+- Nr. 4 – Benutzungsmarke und geschäftliche Bezeichnung ([§§ 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__4.html), 5, 12)
+- Nr. 5 – Ursprungsbezeichnung oder geografische Angabe ([§ 13 Abs. 2 Nr. 5](https://www.gesetze-im-internet.de/markeng/__13.html))
+
+Nur der Inhaber eines der in [§ 42 Abs. 2](https://www.gesetze-im-internet.de/markeng/__42.html) genannten Rechte:
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 5. Frist
+(Zulässigkeit der Beschwerde zum BPatG ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Zustellungsart und Fiktion
+- b) Empfänger
+- c) Fristende
+
+Ein Monat ab Zustellung des Beschlusses ([§ 66 Abs. 2](https://www.gesetze-im-internet.de/markeng/__66.html)). Zuerst den Zustellungszeitpunkt bestimmen:
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 4. Fehlendes Verschulden
+(Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Zurechnung
+- b) Sorgfaltspflichten des Anwalts
+- c) Anerkannte Entschuldigungsgründe
+- d) Nicht entschuldigt
+
+Kernpunkt der Klausur.
 
 *Tags: Prüfungsschema, Prüfungspunkt*
 
@@ -5857,6 +6402,356 @@ Stellt das Unionsmarkengericht fest, dass Verwechslungsgefahr in einem Teil der 
 
 ---
 
+## entscheidung
+
+**F:** BPatG „sportnord/NordSport“ (29 W (pat) 47/16, 2019) – Kernaussage?
+
+**A:** Zwei Marken, die aus denselben sinntragenden Bestandteilen in vertauschter Reihenfolge bestehen ('sportnord' / 'NordSport'), sind klanglich verwechselbar (Silbenrotation): Der Verkehr behält die Einzelbestandteile, nicht aber ihre Reihenfolge im Gedächtnis. 'NordSport' ist für Sportbekleidung nicht glatt beschreibend, sondern nur ein vager Hinweis auf im Norden betriebenen Sport, also normal kennzeichnungskräftig. Vorlage der Klausur NS III/2019.
+
+Normen: [§ 42 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Fundstelle: ECLI:DE:BPatG:2019:220519B29Wpat47.16.0
+
+*Tags: Rechtsprechung, BPatG, Verwechslungsgefahr, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Zwei Marken, die aus denselben sinntragenden Bestandteilen in vertauschter Reihenfolge bestehen ('sportnord' / 'NordSport'), sind klanglich verwechselbar (Silbenrotation): Der Verkehr behält die Einzelbestandteile, nicht aber ihre Reihenfolge im Gedächtnis. 'NordSport' ist für Sportbekleidung nicht glatt beschreibend, sondern nur ein vager Hinweis auf im Norden betriebenen Sport, also normal kennzeichnungskräftig. Vorlage der Klausur NS III/2019.
+
+**A:** BPatG „sportnord/NordSport“ – 29 W (pat) 47/16 (2019), ECLI:DE:BPatG:2019:220519B29Wpat47.16.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Verwechslungsgefahr, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „vita+lebenskraft/VITA“ (25 W (pat) 11/18, 2019) – Kernaussage?
+
+**A:** Zwischen 'vita+lebenskraft' und der in Fachkreisen bekannten Unionsmarke 'VITA' (Dentalprodukte) besteht zwar keine unmittelbare Verwechslungsgefahr, weil die jüngere Marke als Gesamtbegriff wahrgenommen wird; die Verkehrskreise bringen die Zeichen aber gedanklich miteinander in Verbindung, weil 'VITA' zugleich Firmenschlagwort und benutzter Stammbestandteil einer Markenserie (VITAFOL, VITAPAN, VITA In-Ceram …) der Widersprechenden ist. Teillöschung für die dentalen Waren der Klasse 5. Vorlage der Klausur NS III/2021.
+
+Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 42 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Fundstelle: ECLI:DE:BPatG:2019:130619B25Wpat11.18.0
+
+*Tags: Rechtsprechung, BPatG, Verwechslungsgefahr, Serienzeichen, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Zwischen 'vita+lebenskraft' und der in Fachkreisen bekannten Unionsmarke 'VITA' (Dentalprodukte) besteht zwar keine unmittelbare Verwechslungsgefahr, weil die jüngere Marke als Gesamtbegriff wahrgenommen wird; die Verkehrskreise bringen die Zeichen aber gedanklich miteinander in Verbindung, weil 'VITA' zugleich Firmenschlagwort und benutzter Stammbestandteil einer Markenserie (VITAFOL, VITAPAN, VITA In-Ceram …) der Widersprechenden ist. Teillöschung für die dentalen Waren der Klasse 5. Vorlage der Klausur NS III/2021.
+
+**A:** BPatG „vita+lebenskraft/VITA“ – 25 W (pat) 11/18 (2019), ECLI:DE:BPatG:2019:130619B25Wpat11.18.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Verwechslungsgefahr, Serienzeichen, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „SILVER HORSE/POWER HORSE“ (26 W (pat) 38/17, 2022) – Kernaussage?
+
+**A:** Zwischen den Wort-/Bildmarken 'SILVER HORSE' und 'POWER HORSE' (Energydrinks) besteht Verwechslungsgefahr. Die Kennzeichnungskraft der älteren Marke wird durch Drittmarken nur geschwächt, wenn deren Benutzung liquide oder glaubhaft gemacht ist; die bloße Registerlage genügt nicht. Auch bei Waren, die überwiegend auf Sicht gekauft werden, bleibt die klangliche Ähnlichkeit relevant, weil dem Kauf mündliche Empfehlungen und Bestellungen vorausgehen. Vorlage der Klausur NS I/2022.
+
+Normen: [§ 119](https://www.gesetze-im-internet.de/markeng/__119.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Fundstelle: ECLI:DE:BPatG:2022:260722B26Wpat38.17.0
+
+*Tags: Rechtsprechung, BPatG, Verwechslungsgefahr, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Zwischen den Wort-/Bildmarken 'SILVER HORSE' und 'POWER HORSE' (Energydrinks) besteht Verwechslungsgefahr. Die Kennzeichnungskraft der älteren Marke wird durch Drittmarken nur geschwächt, wenn deren Benutzung liquide oder glaubhaft gemacht ist; die bloße Registerlage genügt nicht. Auch bei Waren, die überwiegend auf Sicht gekauft werden, bleibt die klangliche Ähnlichkeit relevant, weil dem Kauf mündliche Empfehlungen und Bestellungen vorausgehen. Vorlage der Klausur NS I/2022.
+
+**A:** BPatG „SILVER HORSE/POWER HORSE“ – 26 W (pat) 38/17 (2022), ECLI:DE:BPatG:2022:260722B26Wpat38.17.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Verwechslungsgefahr, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BGH „Silver Horse/Power Horse“ (I ZB 65/22, 2023) – Kernaussage?
+
+**A:** Die Einrede der Nichtbenutzung nach [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html) muss eindeutig erklärt werden; der Wille, sich gegen die Widerspruchsmarke mit dem Benutzungseinwand zu verteidigen, muss hinreichend klar erkennbar sein. Das Unterlassen einer gebotenen Zulassung der Rechtsbeschwerde ist kein Begründungsmangel und kann nicht mit der zulassungsfreien Rechtsbeschwerde ([§ 83 Abs. 3 Nr. 6](https://www.gesetze-im-internet.de/markeng/__83.html)) gerügt werden.
+
+Normen: [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 83 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
+Fundstelle: GRUR 2023, 1293
+
+*Tags: Rechtsprechung, BGH, Benutzungszwang, Verfahren, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Einrede der Nichtbenutzung nach [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html) muss eindeutig erklärt werden; der Wille, sich gegen die Widerspruchsmarke mit dem Benutzungseinwand zu verteidigen, muss hinreichend klar erkennbar sein. Das Unterlassen einer gebotenen Zulassung der Rechtsbeschwerde ist kein Begründungsmangel und kann nicht mit der zulassungsfreien Rechtsbeschwerde ([§ 83 Abs. 3 Nr. 6](https://www.gesetze-im-internet.de/markeng/__83.html)) gerügt werden.
+
+**A:** BGH „Silver Horse/Power Horse“ – I ZB 65/22 (2023), GRUR 2023, 1293
+
+*Tags: Rechtsprechung, Umkehr, BGH, Benutzungszwang, Verfahren, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „LIQUIDROM“ (30 W (pat) 32/12, 2014) – Kernaussage?
+
+**A:** Werden Räume samt Geschäftsbetrieb (Wellnessbad) unter einer bestimmten Bezeichnung verpachtet, wächst der aus der Benutzung entstehende Besitzstand an dieser Bezeichnung dem Verpächter zu, nicht dem Pächter (Anschluss an BGH 'Fischl'). Meldet die frühere Pächterin die Bezeichnung nach verlorener Neuausschreibung als Marke an, greift sie in diesen fremden Besitzstand ein; das BPatG hielt die Anmeldung für bösgläubig. Vorlage der Klausur NS II/2020 ('Balidrom').
+
+Normen: [§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 1](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Fundstelle: GRUR 2014, 780
+
+*Tags: Rechtsprechung, BPatG, Bösgläubigkeit, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Werden Räume samt Geschäftsbetrieb (Wellnessbad) unter einer bestimmten Bezeichnung verpachtet, wächst der aus der Benutzung entstehende Besitzstand an dieser Bezeichnung dem Verpächter zu, nicht dem Pächter (Anschluss an BGH 'Fischl'). Meldet die frühere Pächterin die Bezeichnung nach verlorener Neuausschreibung als Marke an, greift sie in diesen fremden Besitzstand ein; das BPatG hielt die Anmeldung für bösgläubig. Vorlage der Klausur NS II/2020 ('Balidrom').
+
+**A:** BPatG „LIQUIDROM“ – 30 W (pat) 32/12 (2014), GRUR 2014, 780
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Bösgläubigkeit, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BGH „LIQUIDROM“ (I ZB 44/14, 2015) – Kernaussage?
+
+**A:** Die Löschung einer Marke wegen bösgläubiger Anmeldung kann nicht allein mit der Beeinträchtigung eines Unternehmenskennzeichens begründet werden, dessen Schutzbereich nur räumlich auf das lokale Tätigkeitsgebiet beschränkt ist; ein solches Kennzeichen könnte der Marke nicht einmal im Nichtigkeitsverfahren nach [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html) entgegengehalten werden. Zu prüfen bleibt aber, ob die Marke als zweckfremdes Mittel des Wettbewerbskampfes angemeldet wurde. Aufhebung und Zurückverweisung an das BPatG.
+
+Normen: [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 1](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Fundstelle: GRUR 2016, 378
+
+*Tags: Rechtsprechung, BGH, Bösgläubigkeit, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Löschung einer Marke wegen bösgläubiger Anmeldung kann nicht allein mit der Beeinträchtigung eines Unternehmenskennzeichens begründet werden, dessen Schutzbereich nur räumlich auf das lokale Tätigkeitsgebiet beschränkt ist; ein solches Kennzeichen könnte der Marke nicht einmal im Nichtigkeitsverfahren nach [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html) entgegengehalten werden. Zu prüfen bleibt aber, ob die Marke als zweckfremdes Mittel des Wettbewerbskampfes angemeldet wurde. Aufhebung und Zurückverweisung an das BPatG.
+
+**A:** BGH „LIQUIDROM“ – I ZB 44/14 (2015), GRUR 2016, 378
+
+*Tags: Rechtsprechung, Umkehr, BGH, Bösgläubigkeit, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Öresundbrücke“ (26 W (pat) 2/20, 2024) – Kernaussage?
+
+**A:** Die Anmeldung einer Wort-/Bildmarke mit der Bezeichnung und dem Bild der Öresundbrücke durch einen Ticket-Wiederverkäufer ist nicht bösgläubig: 'Öresundbrücke' ist eine geografische Sachangabe, an der die Brückenbetreiberin keinen schutzwürdigen Besitzstand hat; die Absicht, einen gebräuchlichen Begriff zu monopolisieren, begründet für sich keine Bösgläubigkeit. Ein Urheberrecht am Bauwerk ist ein älteres Recht im Sinne des [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html), das nicht im Verfahren wegen absoluter Schutzhindernisse, sondern nach [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html) geltend zu machen ist. Vorlage der Klausur NS II/2019.
+
+Normen: [§ 13 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 50 Abs. 1](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Fundstelle: ECLI:DE:BPatG:2024:060924B26Wpat2.20.0
+
+*Tags: Rechtsprechung, BPatG, Bösgläubigkeit, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Die Anmeldung einer Wort-/Bildmarke mit der Bezeichnung und dem Bild der Öresundbrücke durch einen Ticket-Wiederverkäufer ist nicht bösgläubig: 'Öresundbrücke' ist eine geografische Sachangabe, an der die Brückenbetreiberin keinen schutzwürdigen Besitzstand hat; die Absicht, einen gebräuchlichen Begriff zu monopolisieren, begründet für sich keine Bösgläubigkeit. Ein Urheberrecht am Bauwerk ist ein älteres Recht im Sinne des [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html), das nicht im Verfahren wegen absoluter Schutzhindernisse, sondern nach [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html) geltend zu machen ist. Vorlage der Klausur NS II/2019.
+
+**A:** BPatG „Öresundbrücke“ – 26 W (pat) 2/20 (2024), ECLI:DE:BPatG:2024:060924B26Wpat2.20.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Bösgläubigkeit, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „AUTOMATOR (Widerspruch gegen Verfallsantrag)“ (29 W (pat) 30/22, 2023) – Kernaussage?
+
+**A:** Der Widerspruch des Markeninhabers gegen einen Verfalls- oder Nichtigkeitsantrag ([§ 53 Abs. 5](https://www.gesetze-im-internet.de/markeng/__53.html)) ist bereits ab Eingang des Antrags beim DPMA zulässig, also auch schon vor Zustellung der Mitteilung nach [§ 53 Abs. 4](https://www.gesetze-im-internet.de/markeng/__53.html); das Wort 'innerhalb' legt nur das Fristende fest. Enthält die Mitteilung des DPMA keine Fristsetzung, wird die Zweimonatsfrist nicht in Lauf gesetzt. Ein ohne Sachprüfung ergangener Verfallsbeschluss ist aufzuheben und die Sache zurückzuverweisen; die Beschwerdegebühr wird zurückgezahlt. Vorlage der Klausur NS III/2023 ('MEGACAPS').
+
+Normen: [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 49 Abs. 1](https://www.gesetze-im-internet.de/markeng/__49.html), [§ 53 Abs. 4](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 53 Abs. 5](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 70 Abs. 3](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
+Fundstelle: ECLI:DE:BPatG:2023:080223B29Wpat30.22.0
+
+*Tags: Rechtsprechung, BPatG, Verfall, Verfahren, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Der Widerspruch des Markeninhabers gegen einen Verfalls- oder Nichtigkeitsantrag ([§ 53 Abs. 5](https://www.gesetze-im-internet.de/markeng/__53.html)) ist bereits ab Eingang des Antrags beim DPMA zulässig, also auch schon vor Zustellung der Mitteilung nach [§ 53 Abs. 4](https://www.gesetze-im-internet.de/markeng/__53.html); das Wort 'innerhalb' legt nur das Fristende fest. Enthält die Mitteilung des DPMA keine Fristsetzung, wird die Zweimonatsfrist nicht in Lauf gesetzt. Ein ohne Sachprüfung ergangener Verfallsbeschluss ist aufzuheben und die Sache zurückzuverweisen; die Beschwerdegebühr wird zurückgezahlt. Vorlage der Klausur NS III/2023 ('MEGACAPS').
+
+**A:** BPatG „AUTOMATOR (Widerspruch gegen Verfallsantrag)“ – 29 W (pat) 30/22 (2023), ECLI:DE:BPatG:2023:080223B29Wpat30.22.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Verfall, Verfahren, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Aussetzung bei Nichtigkeitsantrag gegen die Unionswiderspruchsmarke“ (29 W (pat) 522/20, 2022) – Kernaussage?
+
+**A:** Ein beim DPMA gestellter Nichtigkeitsantrag wegen älterer Rechte kann eine Unionsmarke nicht angreifen und ist deshalb für ein Widerspruchsbeschwerdeverfahren aus dieser Unionsmarke nicht vorgreiflich. Auch ein Antrag beim EUIPO ([Art. 60 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) zwingt nicht zur Aussetzung nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html): Erfolgsaussichten und Dauer sind offen, und die Löschung der angegriffenen Marke lässt sich über die Eintragungsbewilligungsklage nach [§ 44](https://www.gesetze-im-internet.de/markeng/__44.html) rückgängig machen, die als Korrektiv der beschränkten Prüfung im Widerspruchsverfahren dient. Vorlage der Klausur NS I/2024.
+
+Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 42 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 44](https://www.gesetze-im-internet.de/markeng/__44.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Fundstelle: ECLI:DE:BPatG:2022:070322B29Wpat522.20.0
+
+*Tags: Rechtsprechung, BPatG, Verfahren, Unionsmarke, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ein beim DPMA gestellter Nichtigkeitsantrag wegen älterer Rechte kann eine Unionsmarke nicht angreifen und ist deshalb für ein Widerspruchsbeschwerdeverfahren aus dieser Unionsmarke nicht vorgreiflich. Auch ein Antrag beim EUIPO ([Art. 60 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) zwingt nicht zur Aussetzung nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html): Erfolgsaussichten und Dauer sind offen, und die Löschung der angegriffenen Marke lässt sich über die Eintragungsbewilligungsklage nach [§ 44](https://www.gesetze-im-internet.de/markeng/__44.html) rückgängig machen, die als Korrektiv der beschränkten Prüfung im Widerspruchsverfahren dient. Vorlage der Klausur NS I/2024.
+
+**A:** BPatG „Aussetzung bei Nichtigkeitsantrag gegen die Unionswiderspruchsmarke“ – 29 W (pat) 522/20 (2022), ECLI:DE:BPatG:2022:070322B29Wpat522.20.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Verfahren, Unionsmarke, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Silberweide (Zuordnung der Widerspruchsgebühr)“ (26 W (pat) 30/20, 2022) – Kernaussage?
+
+**A:** Wird aus zwei Widerspruchskennzeichen Widerspruch erhoben, aber nur die Grundgebühr von 250 Euro gezahlt, kann der Widersprechende auch nach Ablauf der Widerspruchsfrist klarstellen, für welches Kennzeichen die Zahlung bestimmt ist; die Angabe 'aus der Wortmarke' ist eindeutig, weil ein Unternehmenskennzeichen keine Wortmarke ist. Eine rechtzeitig per Telefax eingereichte, amtsintern nicht weitergeleitete Klarstellung geht nicht zu Lasten des Widersprechenden. Aufhebung, Zurückverweisung und Rückzahlung der Beschwerdegebühr. Vorlage der Klausur NS I/2025 ('NITREDA/INTREDA').
+
+Normen: [§ 42 Abs. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 42 Abs. 3](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 64a](https://www.gesetze-im-internet.de/markeng/__64a.html), [§ 70 Abs. 3](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
+Fundstelle: ECLI:DE:BPatG:2022:180722B26Wpat30.20.0
+
+*Tags: Rechtsprechung, BPatG, Verfahren, Widerspruch, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Wird aus zwei Widerspruchskennzeichen Widerspruch erhoben, aber nur die Grundgebühr von 250 Euro gezahlt, kann der Widersprechende auch nach Ablauf der Widerspruchsfrist klarstellen, für welches Kennzeichen die Zahlung bestimmt ist; die Angabe 'aus der Wortmarke' ist eindeutig, weil ein Unternehmenskennzeichen keine Wortmarke ist. Eine rechtzeitig per Telefax eingereichte, amtsintern nicht weitergeleitete Klarstellung geht nicht zu Lasten des Widersprechenden. Aufhebung, Zurückverweisung und Rückzahlung der Beschwerdegebühr. Vorlage der Klausur NS I/2025 ('NITREDA/INTREDA').
+
+**A:** BPatG „Silberweide (Zuordnung der Widerspruchsgebühr)“ – 26 W (pat) 30/20 (2022), ECLI:DE:BPatG:2022:180722B26Wpat30.20.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Verfahren, Widerspruch, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Engelbrecht/Stadtbäckerei Engelbrecht GmbH“ (25 W (pat) 52/21, 2022) – Kernaussage?
+
+**A:** Das Unternehmenskennzeichen einer regional tätigen Bäckerei (Filialen in einer Stadt und Umgebung, Lieferfahrzeuge, Internetauftritt) berechtigt nicht, die Benutzung einer jüngeren Marke im gesamten Bundesgebiet zu untersagen, und trägt deshalb keinen Widerspruch nach [§ 42 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__42.html). Der Einwand, die angegriffene Marke sei bösgläubig angemeldet, wird im Widerspruchsverfahren nicht berücksichtigt; [§ 50 Abs. 3](https://www.gesetze-im-internet.de/markeng/__50.html) ist wegen der getrennten Zuständigkeiten von Markenstelle und Markenabteilung nicht analog anwendbar. Wer trotz eindeutiger Rechtslage Beschwerde einlegt, trägt aus Billigkeit die Kosten ([§ 71 Abs. 1](https://www.gesetze-im-internet.de/markeng/__71.html)). Vorlage der Klausur NS II/2025 ('Gold-Bärger').
+
+Normen: [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 28 Abs. 2](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 42 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 3](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 71 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
+Fundstelle: ECLI:DE:BPatG:2022:241022B25Wpat52.21.0
+
+*Tags: Rechtsprechung, BPatG, Unternehmenskennzeichen, Bösgläubigkeit, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Das Unternehmenskennzeichen einer regional tätigen Bäckerei (Filialen in einer Stadt und Umgebung, Lieferfahrzeuge, Internetauftritt) berechtigt nicht, die Benutzung einer jüngeren Marke im gesamten Bundesgebiet zu untersagen, und trägt deshalb keinen Widerspruch nach [§ 42 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__42.html). Der Einwand, die angegriffene Marke sei bösgläubig angemeldet, wird im Widerspruchsverfahren nicht berücksichtigt; [§ 50 Abs. 3](https://www.gesetze-im-internet.de/markeng/__50.html) ist wegen der getrennten Zuständigkeiten von Markenstelle und Markenabteilung nicht analog anwendbar. Wer trotz eindeutiger Rechtslage Beschwerde einlegt, trägt aus Billigkeit die Kosten ([§ 71 Abs. 1](https://www.gesetze-im-internet.de/markeng/__71.html)). Vorlage der Klausur NS II/2025 ('Gold-Bärger').
+
+**A:** BPatG „Engelbrecht/Stadtbäckerei Engelbrecht GmbH“ – 25 W (pat) 52/21 (2022), ECLI:DE:BPatG:2022:241022B25Wpat52.21.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Unternehmenskennzeichen, Bösgläubigkeit, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BPatG „BLIZZARD (Beschwerde einer gelöschten UG)“ (30 W (pat) 61/23, 2024) – Kernaussage?
+
+**A:** Wird die Inhaberin der angegriffenen Marke (eine UG) wegen Vermögenslosigkeit im Handelsregister gelöscht, bleibt sie rechts- und beteiligtenfähig, solange die Marke noch einen Vermögenswert darstellt; sie wird aber prozessunfähig, weil die Vertretungsbefugnis des Geschäftsführers endet. Das Verfahren ist nach [§ 241 ZPO](https://www.gesetze-im-internet.de/zpo/__241.html) unterbrochen, bis ein Nachtragsliquidator ([§ 66 Abs. 5 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__66.html)) bestellt ist. Eine vom früheren Geschäftsführer eingelegte Beschwerde ist unzulässig; ein trotz Unterbrechung ergangener Beschluss ist unwirksam, aber nicht nichtig. Vorbild für die Klausur NS III/2024.
+
+Normen: [§ 66 Abs. 1](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html), [§ 71 Abs. 3](https://www.gesetze-im-internet.de/markeng/__71.html), [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html)
+Fundstelle: ECLI:DE:BPatG:2024:010224B30Wpat61.23.0
+
+*Tags: Rechtsprechung, BPatG, Verfahren, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Wird die Inhaberin der angegriffenen Marke (eine UG) wegen Vermögenslosigkeit im Handelsregister gelöscht, bleibt sie rechts- und beteiligtenfähig, solange die Marke noch einen Vermögenswert darstellt; sie wird aber prozessunfähig, weil die Vertretungsbefugnis des Geschäftsführers endet. Das Verfahren ist nach [§ 241 ZPO](https://www.gesetze-im-internet.de/zpo/__241.html) unterbrochen, bis ein Nachtragsliquidator ([§ 66 Abs. 5 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__66.html)) bestellt ist. Eine vom früheren Geschäftsführer eingelegte Beschwerde ist unzulässig; ein trotz Unterbrechung ergangener Beschluss ist unwirksam, aber nicht nichtig. Vorbild für die Klausur NS III/2024.
+
+**A:** BPatG „BLIZZARD (Beschwerde einer gelöschten UG)“ – 30 W (pat) 61/23 (2024), ECLI:DE:BPatG:2024:010224B30Wpat61.23.0
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Verfahren, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** BGH „Deutscher Balsamico (Vorlagebeschluss)“ (I ZR 253/16, 2018) – Kernaussage?
+
+**A:** Vorlage an den EuGH zur Frage, ob sich der Schutz der geschützten geografischen Angabe 'Aceto Balsamico di Modena' auch auf die einzelnen nichtgeografischen Begriffe der zusammengesetzten Bezeichnung ('Aceto', 'Balsamico') erstreckt. Ansprüche wegen Verletzung einer g.g.A. richten sich nach Art. 13 der Verordnung (EU) Nr. 1151/2012 in Verbindung mit [§ 135](https://www.gesetze-im-internet.de/markeng/__135.html). In der Lösungsskizze zur Klausur NS II/2018 ('Wuppertaler Flönz') herangezogen.
+
+Normen: [§ 135 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__135.html)
+Fundstelle: ECLI:DE:BGH:2018:120418BIZR253.16.0
+
+*Tags: Rechtsprechung, BGH, Herkunftsangaben, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Vorlage an den EuGH zur Frage, ob sich der Schutz der geschützten geografischen Angabe 'Aceto Balsamico di Modena' auch auf die einzelnen nichtgeografischen Begriffe der zusammengesetzten Bezeichnung ('Aceto', 'Balsamico') erstreckt. Ansprüche wegen Verletzung einer g.g.A. richten sich nach Art. 13 der Verordnung (EU) Nr. 1151/2012 in Verbindung mit [§ 135](https://www.gesetze-im-internet.de/markeng/__135.html). In der Lösungsskizze zur Klausur NS II/2018 ('Wuppertaler Flönz') herangezogen.
+
+**A:** BGH „Deutscher Balsamico (Vorlagebeschluss)“ – I ZR 253/16 (2018), ECLI:DE:BGH:2018:120418BIZR253.16.0
+
+*Tags: Rechtsprechung, Umkehr, BGH, Herkunftsangaben, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Aceto Balsamico di Modena (Balema)“ (C-432/18, 2019) – Kernaussage?
+
+**A:** Der Schutz der g.g.A. 'Aceto Balsamico di Modena' erstreckt sich nicht auf die Verwendung der einzelnen nichtgeografischen Begriffe 'Aceto' und 'Balsamico'; diese sind Gattungs- bzw. Beschaffenheitsangaben. Anders liegt es, wenn die geschützte Bezeichnung selbst (etwa 'Flönz') vollständig für ein Erzeugnis verwendet wird, das der Spezifikation nicht entspricht.
+
+Normen: [§ 135 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__135.html)
+Fundstelle: GRUR 2020, 187
+
+*Tags: Rechtsprechung, EuGH, Herkunftsangaben, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Der Schutz der g.g.A. 'Aceto Balsamico di Modena' erstreckt sich nicht auf die Verwendung der einzelnen nichtgeografischen Begriffe 'Aceto' und 'Balsamico'; diese sind Gattungs- bzw. Beschaffenheitsangaben. Anders liegt es, wenn die geschützte Bezeichnung selbst (etwa 'Flönz') vollständig für ein Erzeugnis verwendet wird, das der Spezifikation nicht entspricht.
+
+**A:** EuGH „Aceto Balsamico di Modena (Balema)“ – C-432/18 (2019), GRUR 2020, 187
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Herkunftsangaben, Klausur NS*
+
+---
+
 ## norm
 
 **F:** Was regelt [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html)?
@@ -5973,6 +6868,8 @@ Inhaber von eingetragenen und angemeldeten Marken können sein:
 
 3. Personengesellschaften, sofern sie mit der Fähigkeit ausgestattet
  sind, Rechte zu erwerben und Verbindlichkeiten einzugehen.
+
+Zugehörige Begriffe: Beteiligten-, Prozess- und Postulationsfähigkeit
 
 *Tags: Gesetz*
 
@@ -6603,7 +7500,7 @@ sind, Rechte aus einer geschützten Ursprungsbezeichnung oder einer
 geschützten geografischen Angabe mit älterem Zeitrang geltend zu
 machen, gegen die Eintragung der Marke Widerspruch erhoben werden.
 
-Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB), Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV), Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
 
 *Tags: Gesetz*
 
@@ -6624,7 +7521,21 @@ durch eine eidesstattliche Versicherung erbracht werden. Bei der
 Entscheidung werden nur Waren und Dienstleistungen berücksichtigt, für
 die die Benutzung nachgewiesen worden ist.
 
-Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Nichtbenutzungseinrede ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Glaubhaftmachung und eidesstattliche Versicherung, Nichtbenutzungseinrede ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 44 MarkenG](https://www.gesetze-im-internet.de/markeng/__44.html)?
+
+**A:** Eintragungsbewilligungsklage
+
+Der Inhaber der Marke kann im Wege der Klage gegen den
+Widersprechenden geltend machen, daß ihm trotz der Löschung der
+Eintragung nach [§ 43](https://www.gesetze-im-internet.de/markeng/__43.html) ein Anspruch auf die Eintragung zusteht.
+
+Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html))
 
 *Tags: Gesetz*
 
@@ -6739,7 +7650,7 @@ oder rechtskräftiges Urteil entschieden wurde. Dies gilt auch, wenn
 [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) rechtshängig ist. [§ 325 Absatz 1](https://www.gesetze-im-internet.de/markeng/__325.html) der Zivilprozessordnung gilt
 entsprechend. Werden zwisch …
 
-Zugehörige Begriffe: Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -6793,6 +7704,104 @@ Zugehörige Begriffe: Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/
 
 ---
 
+**F:** Was regelt [§ 56 MarkenG](https://www.gesetze-im-internet.de/markeng/__56.html)?
+
+**A:** Zuständigkeiten im Deutschen Patent- und Markenamt
+
+Im Deutschen Patent- und Markenamt werden zur Durchführung der
+Verfahren in Markenangelegenheiten Markenstellen und Markenabteilungen
+gebildet.
+
+Zugehörige Begriffe: Erinnerung ([§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 59 MarkenG](https://www.gesetze-im-internet.de/markeng/__59.html)?
+
+**A:** Ermittlung des Sachverhalts, rechtliches Gehör
+
+Das Deutsche Patent- und Markenamt ermittelt den Sachverhalt von
+Amts wegen. Es ist an das Vorbringen und die Beweisanträge der
+Beteiligten nicht gebunden.
+
+Zugehörige Begriffe: Amtsermittlung und rechtliches Gehör ([§ 59 MarkenG](https://www.gesetze-im-internet.de/markeng/__59.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 61 MarkenG](https://www.gesetze-im-internet.de/markeng/__61.html)?
+
+**A:** Beschlüsse, Rechtsmittelbelehrung
+
+Die Beschlüsse des Deutschen Patent- und Markenamts sind, auch
+wenn sie nach Satz 3 verkündet worden sind, zu begründen und den
+Beteiligten von Amts wegen in Abschrift zuzustellen; eine Beglaubigung
+der Abschrift ist nicht erforderlich. Ausfertigungen werden nur auf
+Antrag eines Beteiligten und nur in Papierform erteilt. Falls eine
+Anhörung stattgefunden hat, können sie auch am Ende der Anhörung
+verkündet werden. Einer Begründung bedarf es nicht, wenn am Verfahren
+nur der Anmelder oder Inhaber der Marke beteiligt ist und seinem
+Antrag stattgegeben wird.
+
+Zugehörige Begriffe: Amtsermittlung und rechtliches Gehör ([§ 59 MarkenG](https://www.gesetze-im-internet.de/markeng/__59.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 63 MarkenG](https://www.gesetze-im-internet.de/markeng/__63.html)?
+
+**A:** Kosten der Verfahren
+
+Sind an dem Verfahren mehrere Personen beteiligt, so kann das
+Deutsche Patent- und Markenamt in der Entscheidung bestimmen, daß die
+Kosten des Verfahrens einschließlich der Auslagen des Deutschen
+Patent- und Markenamts und der den Beteiligten erwachsenen Kosten,
+soweit sie zur zweckentsprechenden Wahrung der Ansprüche und Rechte
+notwendig waren, einem Beteiligten ganz oder teilweise zur Last
+fallen, wenn dies der Billigkeit entspricht. Die Bestimmung kann auch
+getroffen werden, wenn der Beteiligte die Erinnerung, die Anmeldung
+der Marke, den Widerspruch oder den Antrag auf Erklärung des Verfalls
+oder der Nichtigkeit ganz oder teilweise zurücknimmt oder wenn die
+Eintragung der Marke wegen Ver …
+
+Zugehörige Begriffe: Kosten und Rückzahlung der Beschwerdegebühr (§§ [63](https://www.gesetze-im-internet.de/markeng/__63.html), [71](https://www.gesetze-im-internet.de/markeng/__71.html) MarkenG)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html)?
+
+**A:** Erinnerung
+
+Gegen die Beschlüsse der Markenstellen und der Markenabteilungen,
+die von einem Beamten des gehobenen Dienstes oder einem vergleichbaren
+Angestellten erlassen worden sind, findet die Erinnerung statt. Die
+Erinnerung hat aufschiebende Wirkung.
+
+Zugehörige Begriffe: Erinnerung ([§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html)?
+
+**A:** Kostenregelungen im Verfahren vor dem Deutschen Patent- und Markenamt
+
+Im Verfahren vor dem Deutschen Patent- und Markenamt gilt für die
+Kosten das Patentkostengesetz.
+
+Zugehörige Begriffe: Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV)
+
+*Tags: Gesetz*
+
+---
+
 **F:** Was regelt [§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)?
 
 **A:** Beschwerde
@@ -6803,7 +7812,82 @@ Bundespatentgericht statt. Die Beschwerde steht den am Verfahren vor
 dem Deutschen Patent- und Markenamt Beteiligten zu. Die Beschwerde hat
 aufschiebende Wirkung.
 
-Zugehörige Begriffe: Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+Zugehörige Begriffe: Beschwer als Zulässigkeitsvoraussetzung, Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)), Erinnerung ([§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html)), Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB), Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 67 MarkenG](https://www.gesetze-im-internet.de/markeng/__67.html)?
+
+**A:** Beschwerdesenate, Öffentlichkeit der Verhandlung
+
+Über Beschwerden im Sinne des [§ 66](https://www.gesetze-im-internet.de/markeng/__66.html) entscheidet ein Beschwerdesenat
+des Bundespatentgerichts in der Besetzung mit drei rechtskundigen
+Mitgliedern.
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 70 MarkenG](https://www.gesetze-im-internet.de/markeng/__70.html)?
+
+**A:** Entscheidung über die Beschwerde
+
+Über die Beschwerde wird durch Beschluß entschieden.
+
+Zugehörige Begriffe: Amtsermittlung und rechtliches Gehör ([§ 59 MarkenG](https://www.gesetze-im-internet.de/markeng/__59.html)), Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 71 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)?
+
+**A:** Kosten des Beschwerdeverfahrens
+
+Sind an dem Verfahren mehrere Personen beteiligt, so kann das
+Bundespatentgericht bestimmen, daß die Kosten des Verfahrens
+einschließlich der den Beteiligten erwachsenen Kosten, soweit sie zur
+zweckentsprechenden Wahrung der Ansprüche und Rechte notwendig waren,
+einem Beteiligten ganz oder teilweise zur Last fallen, wenn dies der
+Billigkeit entspricht. Soweit eine Bestimmung über die Kosten nicht
+getroffen wird, trägt jeder Beteiligte die ihm erwachsenen Kosten
+selbst.
+
+Zugehörige Begriffe: Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)), Kosten und Rückzahlung der Beschwerdegebühr (§§ [63](https://www.gesetze-im-internet.de/markeng/__63.html), [71](https://www.gesetze-im-internet.de/markeng/__71.html) MarkenG)
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 81 MarkenG](https://www.gesetze-im-internet.de/markeng/__81.html)?
+
+**A:** Vertretung, Vollmacht
+
+Die Beteiligten können vor dem Bundespatentgericht den
+Rechtsstreit selbst führen. [§ 96](https://www.gesetze-im-internet.de/markeng/__96.html) bleibt unberührt.
+
+Zugehörige Begriffe: Inlandsvertreter ([§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)), Zustellung im Markenverfahren ([§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html)?
+
+**A:** Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht
+
+Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem
+Bundespatentgericht enthält, sind das Gerichtsverfassungsgesetz und
+die Zivilprozeßordnung entsprechend anzuwenden, wenn die
+Besonderheiten des Verfahrens vor dem Patentgericht dies nicht
+ausschließen. [§ 227 Abs. 3 Satz 1](https://www.gesetze-im-internet.de/markeng/__227.html) der Zivilprozeßordnung ist nicht
+anzuwenden. Im Verfahren vor dem Bundespatentgericht gilt für die
+Gebühren das Patentkostengesetz, für die Auslagen gilt das
+Gerichtskostengesetz entsprechend.
+
+Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Beteiligten-, Prozess- und Postulationsfähigkeit, Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB), Glaubhaftmachung und eidesstattliche Versicherung, Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
 
 *Tags: Gesetz*
 
@@ -6819,7 +7903,162 @@ entschieden wird, findet die Rechtsbeschwerde an den Bundesgerichtshof
 statt, wenn der Beschwerdesenat die Rechtsbeschwerde in dem Beschluß
 zugelassen hat. Die Rechtsbeschwerde hat aufschiebende Wirkung.
 
-Zugehörige Begriffe: Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+Zugehörige Begriffe: Amtsermittlung und rechtliches Gehör ([§ 59 MarkenG](https://www.gesetze-im-internet.de/markeng/__59.html)), Beschwer als Zulässigkeitsvoraussetzung, Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 84 MarkenG](https://www.gesetze-im-internet.de/markeng/__84.html)?
+
+**A:** Beschwerdeberechtigung, Beschwerdegründe
+
+Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten
+zu.
+
+Zugehörige Begriffe: Beteiligten-, Prozess- und Postulationsfähigkeit, Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 85 MarkenG](https://www.gesetze-im-internet.de/markeng/__85.html)?
+
+**A:** Förmliche Voraussetzungen
+
+Die Rechtsbeschwerde ist innerhalb eines Monats nach Zustellung
+des Beschlusses beim Bundesgerichtshof schriftlich einzulegen.
+
+Zugehörige Begriffe: Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 88 MarkenG](https://www.gesetze-im-internet.de/markeng/__88.html)?
+
+**A:** Anwendung weiterer Vorschriften
+
+Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften der
+Zivilprozessordnung über Ausschließung und Ablehnung der
+Gerichtspersonen (§§ [41](https://www.gesetze-im-internet.de/markeng/__41.html) bis [49](https://www.gesetze-im-internet.de/markeng/__49.html)), über Prozessbevollmächtigte und
+Beistände (§§ [78](https://www.gesetze-im-internet.de/markeng/__78.html) bis [90](https://www.gesetze-im-internet.de/markeng/__90.html)), über Zustellungen von Amts wegen (§§ [166](https://www.gesetze-im-internet.de/markeng/__166.html) bis
+[190](https://www.gesetze-im-internet.de/markeng/__190.html)), über Ladungen, Termine und Fristen (§§ [214](https://www.gesetze-im-internet.de/markeng/__214.html) bis [229](https://www.gesetze-im-internet.de/markeng/__229.html)) und über
+Wiedereinsetzung in den vorigen Stand (§§ [233](https://www.gesetze-im-internet.de/markeng/__233.html) bis [238](https://www.gesetze-im-internet.de/markeng/__238.html)) entsprechend.
+Im Falle der Wiedereinsetzung in den vorigen Stand gilt [§ 91 Abs. 8](https://www.gesetze-im-internet.de/markeng/__91.html)
+entsprechend. Auf Antrag ist einem Beteiligten unter entsprechender
+Anwendung des [§ 138](https://www.gesetze-im-internet.de/markeng/__138.html) des Patentgesetzes Verfahrenskostenhilfe zu
+bewilligen.
+
+Zugehörige Begriffe: Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html)?
+
+**A:** Wiedereinsetzung
+
+Wer ohne Verschulden verhindert war, dem Deutschen Patent- und
+Markenamt oder dem Bundespatentgericht gegenüber eine Frist
+einzuhalten, deren Versäumung nach gesetzlicher Vorschrift einen
+Rechtsnachteil zur Folge hat, ist auf Antrag wieder in den vorigen
+Stand einzusetzen. Dies gilt nicht für die Frist zur Erhebung des
+Widerspruchs und zur Zahlung der Widerspruchsgebühr ([§ 6 Abs. 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__6.html)
+des Patentkostengesetzes).
+
+Zugehörige Begriffe: Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB), Glaubhaftmachung und eidesstattliche Versicherung, Weiterbehandlung der Anmeldung ([§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html)), Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html)?
+
+**A:** Weiterbehandlung der Anmeldung
+
+Ist nach Versäumung einer vom Deutschen Patent- und Markenamt
+bestimmten Frist die Markenanmeldung zurückgewiesen worden, so wird
+der Beschluss wirkungslos, ohne dass es seiner ausdrücklichen
+Aufhebung bedarf, wenn der Anmelder die Weiterbehandlung der Anmeldung
+beantragt und die versäumte Handlung nachholt.
+
+Zugehörige Begriffe: Weiterbehandlung der Anmeldung ([§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html)), Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 93 MarkenG](https://www.gesetze-im-internet.de/markeng/__93.html)?
+
+**A:** Amtssprache und Gerichtssprache
+
+Die Sprache vor dem Deutschen Patent- und Markenamt und vor dem
+Bundespatentgericht ist deutsch. Im übrigen finden die Vorschriften
+des Gerichtsverfassungsgesetzes über die Gerichtssprache Anwendung.
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html)?
+
+**A:** Zustellungen; Verordnungsermächtigung
+
+Für Zustellungen im Verfahren vor dem Deutschen Patent- und
+Markenamt gelten die Vorschriften des Verwaltungszustellungsgesetzes
+mit folgenden Maßgaben:
+
+1. An Empfänger, die sich im Ausland aufhalten und die entgegen dem
+ Erfordernis des [§ 96](https://www.gesetze-im-internet.de/markeng/__96.html) keinen Inlandsvertreter bestellt haben, kann mit
+ eingeschriebenem Brief durch Aufgabe zur Post zugestellt werden.
+ Gleiches gilt für Empfänger, die selbst Inlandsvertreter im Sinne des
+ [§ 96 Abs. 2](https://www.gesetze-im-internet.de/markeng/__96.html) sind. [§ 184 Abs. 2 Satz 1](https://www.gesetze-im-internet.de/markeng/__184.html) und 4 der Zivilprozessordnung
+ gilt entsprechend.
+
+2. Für Zustellungen an Erlaubnisscheininhaber ([§ 177](https://www.gesetze-im-internet.de/markeng/__177.html) der
+ Patentanwaltsordnung) ist [§ 5 Abs. 4](https://www.gesetze-im-internet.de/markeng/__5.html) des
+ Verwaltungszustellungsgesetzes entsprechend anzuwenden.
+
+3. An Empfänger, denen  …
+
+Zugehörige Begriffe: Zustellung im Markenverfahren ([§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 95a MarkenG](https://www.gesetze-im-internet.de/markeng/__95a.html)?
+
+**A:** Elektronische Verfahrensführung, Verordnungsermächtigung
+
+Soweit in Verfahren vor dem Deutschen Patent- und Markenamt für
+Anmeldungen, Anträge oder sonstige Handlungen die Schriftform
+vorgesehen ist, gelten die Regelungen des [§ 130a Absatz 1](https://www.gesetze-im-internet.de/markeng/__130a.html), 2 Satz 1,
+Absatz 5 und 6 der Zivilprozessordnung entsprechend.
+
+Zugehörige Begriffe: Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)), Zustellung im Markenverfahren ([§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)?
+
+**A:** Inlandsvertreter
+
+Wer im Inland weder einen Wohnsitz, Sitz noch Niederlassung hat,
+kann an einem in diesem Gesetz geregelten Verfahren vor dem Deutschen
+Patent- und Markenamt oder dem Bundespatentgericht nur teilnehmen und
+die Rechte aus einer Marke nur geltend machen, wenn er einen
+Rechtsanwalt oder Patentanwalt als Vertreter bestellt hat, der zur
+Vertretung im Verfahren vor dem Deutschen Patent- und Markenamt, dem
+Bundespatentgericht und in bürgerlichen Streitigkeiten, die diese
+Marke betreffen, sowie zur Stellung von Strafanträgen befugt und
+bevollmächtigt ist.
+
+Zugehörige Begriffe: Inlandsvertreter ([§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)), Zustellung im Markenverfahren ([§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html))
 
 *Tags: Gesetz*
 
@@ -7214,6 +8453,22 @@ Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126](https://www.ges
 
 ---
 
+**F:** Was regelt [§ 135 MarkenG](https://www.gesetze-im-internet.de/markeng/__135.html)?
+
+**A:** Ansprüche wegen Verletzung
+
+Wer im geschäftlichen Verkehr Handlungen vornimmt, die gegen
+Artikel 13 der Verordnung (EU) Nr. 1151/2012 verstoßen, kann von den
+nach [§ 8 Abs. 3](https://www.gesetze-im-internet.de/markeng/__8.html) des Gesetzes gegen den unlauteren Wettbewerb zur
+Geltendmachung von Ansprüchen Berechtigten bei Wiederholungsgefahr auf
+Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch
+dann, wenn eine Zuwiderhandlung erstmalig droht. Die §§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html), [19a](https://www.gesetze-im-internet.de/markeng/__19a.html)
+und [19c](https://www.gesetze-im-internet.de/markeng/__19c.html) gelten entsprechend.
+
+*Tags: Gesetz*
+
+---
+
 **F:** Was regelt [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)?
 
 **A:** Kennzeichenstreitsachen
@@ -7224,6 +8479,42 @@ Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
 den Streitwert ausschließlich zuständig.
 
 Zugehörige Begriffe: Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV), Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 141 MarkenG](https://www.gesetze-im-internet.de/markeng/__141.html)?
+
+**A:** Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb
+
+Ansprüche, welche die in diesem Gesetz geregelten Rechtsverhältnisse
+betreffen und auf Vorschriften des Gesetzes gegen den unlauteren
+Wettbewerb gegründet werden, brauchen nicht im Gerichtsstand des [§ 14](https://www.gesetze-im-internet.de/markeng/__14.html)
+des Gesetzes gegen den unlauteren Wettbewerb geltend gemacht zu
+werden.
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html)?
+
+**A:** Strafbare Benutzung geographischer Herkunftsangaben
+
+Wer im geschäftlichen Verkehr widerrechtlich eine geographische
+Herkunftsangabe, einen Namen, eine Angabe oder ein Zeichen
+
+1. entgegen [§ 127 Abs. 1](https://www.gesetze-im-internet.de/markeng/__127.html) oder 2, jeweils auch in Verbindung mit Abs. 4
+ oder einer Rechtsverordnung nach [§ 137 Abs. 1](https://www.gesetze-im-internet.de/markeng/__137.html), benutzt oder
+
+2. entgegen [§ 127 Abs. 3](https://www.gesetze-im-internet.de/markeng/__127.html), auch in Verbindung mit Abs. 4, oder einer
+ Rechtsverordnung nach [§ 137 Abs. 1](https://www.gesetze-im-internet.de/markeng/__137.html), in der Absicht benutzt, den Ruf
+ oder die Unterscheidungskraft einer geographischen Herkunftsangabe
+ auszunutzen oder zu beeinträchtigen,
+
+wird mit Freiheitsstrafe bis zu zwei Jahren oder mit Geldstrafe
+bestraft.
 
 *Tags: Gesetz*
 

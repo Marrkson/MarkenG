@@ -91,6 +91,17 @@ table.cmp{border-collapse:collapse;width:100%;font-size:14px;margin:10px 0}
 table.cmp th,table.cmp td{border:1px solid var(--line);padding:8px 10px;vertical-align:top;text-align:left}
 table.cmp th{background:var(--bg);font-family:system-ui,sans-serif;font-size:13px}
 table.cmp td:first-child{font-weight:600;background:var(--bg);width:150px}
+table.cmp.plain td:first-child{font-weight:400;background:var(--panel);width:auto}
+.ktabs{display:flex;flex-wrap:wrap;gap:6px;margin:12px 0 18px}
+.ktabs a{font:13px system-ui;padding:6px 12px;border:1px solid var(--line);border-radius:20px;text-decoration:none;color:var(--ink);background:var(--panel)}
+.ktabs a:hover{border-color:var(--accent);color:var(--accent)}
+.ktabs a.on{background:var(--accent);border-color:var(--accent);color:#fff}
+ul.kls,ol.kls{margin:6px 0 0 18px;padding:0}
+ul.kls li,ol.kls li{margin:3px 0}
+dl.kdl{margin:6px 0;display:grid;grid-template-columns:170px 1fr;gap:6px 14px}
+dl.kdl dt{font-weight:600;font-family:system-ui,sans-serif;font-size:13px;color:var(--muted)}
+dl.kdl dd{margin:0}
+@media (max-width:640px){dl.kdl{grid-template-columns:1fr}}
 .merk{background:var(--dist-soft);border-radius:8px;padding:10px 12px;margin-top:8px}
 .filters{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:8px 0 14px}
 .filters select,.filters input{font:inherit;padding:6px 10px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink)}
@@ -139,11 +150,13 @@ mark{background:var(--dist-soft);color:inherit;padding:0 2px}
 </div>
 <script id="graph-data" type="application/json">__DATA__</script>
 <script id="cards-data" type="application/json">__CARDS__</script>
+<script id="klausur-data" type="application/json">__KLAUSUR__</script>
 <script>
 (function(){
 'use strict';
 const G = JSON.parse(document.getElementById('graph-data').textContent);
 const CARDS = JSON.parse(document.getElementById('cards-data').textContent);
+const KLAUSUR = JSON.parse(document.getElementById('klausur-data').textContent);
 const byId = new Map(G.nodes.map(n=>[n.id,n]));
 const out = new Map(), inc = new Map();
 for(const e of G.edges){ (out.get(e.source)||out.set(e.source,[]).get(e.source)).push(e); (inc.get(e.target)||inc.set(e.target,[]).get(e.target)).push(e); }
@@ -237,7 +250,7 @@ document.addEventListener('click', ev=>{
 
 // ---------- Views ----------
 const NAV = [
-  ['grp','Lernen'],['#/start','Start'],['#/schemata','Prüfungsschemata'],['#/cards','Karteikarten'],['#/graph','Graph-Explorer'],
+  ['grp','Lernen'],['#/start','Start'],['#/klausur','Klausur NS'],['#/schemata','Prüfungsschemata'],['#/cards','Karteikarten'],['#/graph','Graph-Explorer'],
   ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/richtlinie','Markenrechtsrichtlinie'],['#/sources','IPWiki-Quellen']
 ];
 function renderNav(){ const h=location.hash||'#/start'; document.getElementById('nav').innerHTML = NAV.map(([a,b])=>a==='grp'?`<div class="grp">${b}</div>`:`<a href="${a}" class="${h.startsWith(a)?'active':''}">${b}</a>`).join(''); }
@@ -247,7 +260,7 @@ function route(){
   const h = decodeURIComponent(location.hash||'#/start').replace(/^#\//,''); const [view,...rest]=h.split('/'); const id=rest.join('/');
   window.scrollTo(0,0);
   if(view!=='search' && q.value) q.value='';
-  const V = {start:vStart,richtlinie:vRichtlinie,eunorm:vNode,schemata:vSchemata,schema:vSchema,cards:vCards,graph:vGraph,concepts:vConcepts,concept:vNode,distinctions:vDistinctions,distinction:vNode,cases:vCases,case:vNode,law:vLaw,norm:vNode,step:vStep,sources:vSources,source:vNode,search:vSearch};
+  const V = {start:vStart,klausur:vKlausur,richtlinie:vRichtlinie,eunorm:vNode,schemata:vSchemata,schema:vSchema,cards:vCards,graph:vGraph,concepts:vConcepts,concept:vNode,distinctions:vDistinctions,distinction:vNode,cases:vCases,case:vNode,law:vLaw,norm:vNode,step:vStep,sources:vSources,source:vNode,search:vSearch};
   (V[view]||vStart)(id);
 }
 window.addEventListener('hashchange',route);
@@ -256,6 +269,7 @@ function vStart(){
   const st=G.meta.statistik;
   main.innerHTML = `<h2>Markenrecht – Lernnavigator</h2><p class="lead">${esc(G.meta.beschreibung)} Klicke dich durch die Prüfungsschemata; Begriffe, Normen und Entscheidungen öffnen sich inline.</p>
   <div class="grid">
+    ${tile('#/klausur','Klausur NS',`Die Aufsichtsarbeit „Nichttechnische Schutzrechte“: Format, Zulässigkeitsraster, Fristen, Tenor und alle ${KLAUSUR.statistik.klausuren} Klausuren 2018 bis 2025.`)}
     ${tile('#/schemata','Prüfungsschemata',`${st.schema} Schemata mit ${st.step} Prüfungspunkten – zum Durchklicken mit Definitionen inline.`)}
     ${tile('#/cards','Karteikarten',`${CARDS.length} Karten: Definitionen, Schemata, Abgrenzungen, Entscheidungen, Normen.`)}
     ${tile('#/concepts','Begriffe',`${st.concept} Definitionen mit Erläuterung, Normen und Rechtsprechung.`)}
@@ -273,6 +287,140 @@ function vStart(){
   <p class="meta">Gesetzesstand: ${esc(G.meta.gesetz_stand['Zuletzt geändert durch']||'')} · Quelle: gesetze-im-internet.de (Spiegel bundestag/gesetze). Tastatur: <span class="kbd">/</span> Suche.</p>`;
 }
 function tile(href,t,s){ return `<div class="tile" onclick="location.hash='${href}'"><div class="t">${t}</div><div class="s">${s}</div></div>`; }
+
+
+// ---------- Klausur „Nichttechnische Schutzrechte“ ----------
+const KTABS = [['','Überblick'],['format','Format und Typen'],['ablauf','Zeitplan'],['zulaessigkeit','Zulässigkeit'],
+               ['fristen','Fristen und Gebühren'],['tenor','Tenor und Bausteine'],['fehler','Typische Fehler'],['klausuren','Die Klausuren']];
+const ktabs = cur => `<div class="ktabs">${KTABS.map(([k,l])=>`<a href="#/klausur${k?'/'+k:''}" class="${k===cur?'on':''}">${esc(l)}</a>`).join('')}</div>`;
+const ktable = (cols, rows, plain) => `<div style="overflow-x:auto"><table class="cmp${plain?' plain':''}">`+
+  (cols.length?`<tr>${cols.map(c=>`<th>${esc(c)}</th>`).join('')}</tr>`:'')+
+  rows.map(r=>`<tr>${r.map(v=>`<td>${v}</td>`).join('')}</tr>`).join('')+`</table></div>`;
+const kdl = pairs => `<dl class="kdl">${pairs.map(([k,v])=>`<dt>${esc(k)}</dt><dd>${v}</dd>`).join('')}</dl>`;
+
+function vKlausur(sub){
+  const K = KLAUSUR, S = K.statistik, t = (sub||'').split('/')[0];
+  let h = `<h2>Klausur „Nichttechnische Schutzrechte“</h2>` + ktabs(t);
+
+  if(!t){
+    h += `<p class="lead">${txt(K.format.beschreibung)}</p>
+    <div class="grid">
+      ${tile('#/klausur/format','Format und Typen',`${S.typen.beschwerde} von ${S.klausuren} Klausuren sind Beschwerdegutachten. Aufgabenformeln und Gliederung je Typ.`)}
+      ${tile('#/klausur/zulaessigkeit','Zulässigkeit',"Das Raster, das jede Klausur abfragt: Wirksamkeit, Statthaftigkeit, Fähigkeiten, Form, Frist, Gebühr.")}
+      ${tile('#/klausur/fristen','Fristen und Gebühren',`${S.fristen} Fristen mit Beginn und Norm, ${S.gebuehren} Gebührentatbestände, Zahlungstag nach der PatKostZV.`)}
+      ${tile('#/klausur/tenor','Tenor und Bausteine',`${S.tenor} Tenorformeln aus veröffentlichten Beschlüssen und Textbausteine für die Reinschrift.`)}
+      ${tile('#/klausur/ablauf','Zeitplan',"Vier Stunden in fünf Phasen: lesen, Aufgabe auswerten, gliedern, schreiben, tenorieren.")}
+      ${tile('#/klausur/fehler','Typische Fehler',"Was in Lösungshinweisen und Beschlüssen regelmäßig schiefgeht.")}
+      ${tile('#/klausur/klausuren','Die Klausuren 2018 bis 2025',`Alle ${S.klausuren} Klausuren mit Schwerpunkten; ${S.mit_entscheidung} sicher einem Beschluss zugeordnet, ${S.mit_loesung} mit amtlichem Lösungshinweis.`)}
+      ${tile('#/schema/schema:schema_klausur_ns','Aufbauschema',"Gliederungsgerüst von der Vorüberlegung bis zum Tenorvorschlag – zum Durchklicken.")}
+    </div>
+    <div class="card"><h4>Rahmen</h4>${kdl([
+      ['Rechtsgrundlage', txt(K.format.rechtsgrundlage)],
+      ['Bearbeitungszeit', txt(K.format.dauer)],
+      ['Umfang', txt(K.format.umfang)],
+      ['Termine', txt(K.format.haeufigkeit)],
+      ['Hilfsmittel', txt(K.format.hilfsmittel)],
+    ])}</div>
+    <div class="card"><h4>Bearbeitervermerk ernst nehmen</h4><p class="def">${txt(K.format.bearbeitervermerk)}</p></div>
+    <div class="card"><a href="../#/kurs/k12">Zum Fallkurs „Klausurtraining NS“: 56 Kurzfälle zu genau diesen Rechtsfragen →</a></div>`;
+  }
+
+  else if(t==='format'){
+    h += `<p class="lead">Vier Aufgabentypen, erkennbar am Bearbeitervermerk. Der Typ bestimmt Perspektive, Gliederung und Schlussteil.</p>`;
+    h += K.typen.map(ty=>`<div class="card"><h4>${esc(ty.label)}</h4>
+      <div class="meta">${esc(ty.anteil)}</div>
+      <p class="def">${txt(ty.perspektive)}</p>
+      <div class="sec"><div class="meta">Aufgabenformeln</div><p class="erl">${txt(ty.aufgabenformel)}</p></div>
+      <div class="sec"><div class="meta">Gliederung</div><ol class="kls">${ty.aufbau.map(a=>`<li>${txt(a)}</li>`).join('')}</ol></div>
+      <div class="merk"><b>Hinweis:</b> ${txt(ty.hinweis)}</div>
+      <div class="sec">${chips([byId.get('schema:'+ty.schema)])}</div></div>`).join('');
+  }
+
+  else if(t==='ablauf'){
+    h += `<p class="lead">Richtwerte für vier Stunden. Wer erst nach 90 Minuten zu schreiben beginnt, wird nicht fertig.</p>`+
+      ktable(['Phase','Minuten','Was zu tun ist'], K.ablauf.map(a=>[`<b>${esc(a.phase)}</b>`, esc(a.minuten), txt(a.was)]), true)+
+      `<div class="merk"><b>Merke:</b> Unproblematisches im Urteilsstil, den Schwerpunkt im Gutachtenstil. Zwischenergebnisse ausdrücklich formulieren, damit der Korrektor den Aufbau sieht.</div>`;
+  }
+
+  else if(t==='zulaessigkeit'){
+    h += `<p class="lead">Die Zulässigkeit entscheidet in der NS-Klausur regelmäßig über die halbe Punktzahl. Die drei Schemata sind klickbar: Prüfungspunkte öffnen Definitionen, Normtext und Entscheidungen inline.</p>
+    <div class="grid">
+      ${tile('#/schema/schema:schema_zulaessigkeit_widerspruch','Zulässigkeit des Widerspruchs','Wirksamkeit, Statthaftigkeit, Fähigkeiten, Widerspruchsberechtigung nach § 42 Abs. 2, Form, Frist, weitere Zulassungsvoraussetzungen.')}
+      ${tile('#/schema/schema:schema_zulaessigkeit_beschwerde','Zulässigkeit der Beschwerde','Erinnerung oder Beschwerde, Beschwer, Form und Ort, Zustellungsfiktionen, Gebühr, Umfang der Anfechtung.')}
+      ${tile('#/schema/schema:schema_wiedereinsetzung','Wiedereinsetzung','Statthaftigkeit, Zwei-Monats-Frist, Nachholung, Glaubhaftmachung, Verschulden und Zurechnung.')}
+    </div>
+    <div class="card"><h4>Das Raster in Kurzform</h4>
+    ${ktable(['Prüfungspunkt','Widerspruch (§ 42)','Beschwerde (§ 66)'],[
+      ['Wirksamkeit','Gebühr 250 € je Zeichen, 50 € je weiterem (§ 64a, § 6 Abs. 2 PatKostG)','Gebühr 200 € innerhalb der Beschwerdefrist'],
+      ['Statthaftigkeit','gegen eine eingetragene Marke, ab Eintragung','gegen Beschlüsse der Markenstellen und Markenabteilungen; bei gehobenem Dienst zuerst Erinnerung (§ 64)'],
+      ['Berechtigung','Inhaber eines Rechts nach § 42 Abs. 2 Nr. 1 bis 5, § 28 Abs. 1','Beteiligter des Amtsverfahrens und beschwert'],
+      ['Fähigkeiten','§ 7; §§ 50, 51 ZPO über § 82 Abs. 1; Inlandsvertreter nach § 96','wie nebenstehend; zusätzlich Unterbrechung nach §§ 240, 241 ZPO prüfen'],
+      ['Form und Ort','schriftlich oder elektronisch (§ 95a); Inhalt nach § 30 Abs. 1 MarkenV','schriftlich mit Unterschrift oder nach § 95a; Eingang beim DPMA'],
+      ['Frist','3 Monate ab Veröffentlichung der Eintragung (§ 42 Abs. 1)','1 Monat ab Zustellung (§ 66 Abs. 2), Fiktionen des § 94 beachten'],
+      ['Wiedereinsetzung','ausgeschlossen (§ 91 Abs. 1 S. 2)','möglich (§ 91)'],
+    ].map(r=>[`<b>${esc(r[0])}</b>`, txt(r[1]), txt(r[2])]))}</div>
+    <div class="card"><h4>Reihenfolge im Gutachten</h4><p class="def">Wirksamkeit vor Zulässigkeit vor Begründetheit. Fehlt die Gebühr, gilt die Handlung als nicht vorgenommen; dann ist keine Zulässigkeitsprüfung mehr nötig, wohl aber ein Hilfsgutachten, wenn der Bearbeitervermerk es verlangt.</p>
+    ${chips([byId.get('concept:beteiligtenfaehigkeit'),byId.get('concept:inlandsvertreter'),byId.get('concept:beschwer'),byId.get('concept:zustellung'),byId.get('concept:fristberechnung'),byId.get('concept:zahlungstag'),byId.get('concept:wiedereinsetzung')])}</div>`;
+  }
+
+  else if(t==='fristen'){
+    h += `<p class="lead">Jede Frist mit Beginn, Norm und der Frage, ob Wiedereinsetzung möglich ist. Der Fristbeginn hängt fast immer von der Zustellungsart ab.</p>`+
+      ktable(['Frist','Länge','Beginn','Norm','Wiedereinsetzung','Hinweis'],
+        K.fristen.map(f=>[`<b>${esc(f.frist)}</b>`, esc(f.laenge), txt(f.beginn), txt(f.norm), esc(f.wieder), txt(f.hinweis)]), true)+
+      `<h3>Zustellung und Fristbeginn</h3>`+
+      ktable(['Zustellungsart','Zustellung gilt als bewirkt','Norm'],[
+        ['Übergabeeinschreiben','am dritten Tag nach Aufgabe zur Post','§ 94 Abs. 1, § 4 Abs. 2 VwZG'],
+        ['Abholfach beim DPMA','am dritten Tag nach der Niederlegung, auch bei früherer Entnahme','§ 94 Abs. 1 Nr. 3'],
+        ['Empfangsbekenntnis (Anwälte)','am Tag der Entgegennahme','§ 94 Abs. 1, § 5 VwZG'],
+        ['Öffentliche Zustellung','zwei Wochen nach Bekanntmachung','§ 94 Abs. 1, § 10 VwZG'],
+        ['Elektronisches Dokument','mit Eingang auf dem sicheren Übermittlungsweg','§ 94 Abs. 1 Nr. 4, § 95a'],
+      ].map(r=>[`<b>${esc(r[0])}</b>`, txt(r[1]), txt(r[2])]), true)+
+      `<h3>Gebühren</h3>`+
+      ktable(['Nummer','Tatbestand','Betrag','Norm'], K.gebuehren.map(g=>[esc(g.nr), txt(g.tatbestand), `<b>${esc(g.betrag)}</b>`, txt(g.norm)]), true)+
+      `<h3>Zahlungstag</h3>`+
+      ktable(['Zahlungsweg','Als Zahlungstag gilt','Norm','Hinweis'], K.zahlungstag.map(z=>[`<b>${esc(z.weg)}</b>`, txt(z.tag), txt(z.norm), txt(z.hinweis)]), true)+
+      `<div class="merk"><b>Merke:</b> Am letzten Tag der Frist rettet nur ein SEPA-Basislastschriftmandat, eine Bareinzahlung oder eine Echtzeitüberweisung. Bei der gewöhnlichen Überweisung zählt erst die Gutschrift.</div>
+      ${chips([byId.get('concept:fristberechnung'),byId.get('concept:zustellung'),byId.get('concept:zahlungstag')])}`;
+  }
+
+  else if(t==='tenor'){
+    h += `<p class="lead">Formulierungen aus veröffentlichten Beschlüssen des Bundespatentgerichts. Der Tenor wird in den meisten Klausuren ausdrücklich verlangt.</p>`+
+      K.tenor.map(x=>`<div class="card"><div class="meta">${esc(x.gruppe)}</div><p class="def" style="font-family:var(--serif,inherit)">„${txt(x.formel)}“</p><p class="erl">${txt(x.hinweis)}</p></div>`).join('')+
+      `<h3>Textbausteine für die Reinschrift</h3>`+
+      ktable(['Zweck','Formulierung'], K.bausteine.map(b=>[`<b>${esc(b.zweck)}</b>`, txt(b.text)]), true);
+  }
+
+  else if(t==='fehler'){
+    h += `<p class="lead">Fehler, die in den Lösungshinweisen und in den zugrunde liegenden Beschlüssen immer wieder auftauchen.</p>`+
+      ktable(['Fehler','Richtig'], K.fehler.map(f=>[`<b>${esc(f.fehler)}</b>`, txt(f.richtig)]), true);
+  }
+
+  else if(t==='klausuren'){
+    const tl = Object.fromEntries(K.typen.map(x=>[x.id,x.label]));
+    h += `<p class="lead">Alle ${S.klausuren} Klausuren der Jahrgänge 2018 bis 2025 mit ihren Schwerpunkten. „Beschluss“ nennt die Entscheidung, auf der die Klausur beruht; Prüfvermerke stehen in <span class="kbd">klausuren/README.md</span>.</p>
+      <div class="filters"><select id="kTyp"><option value="">Typ: alle</option>${K.typen.map(x=>`<option value="${x.id}">${esc(x.label)}</option>`).join('')}</select>
+      <select id="kSt"><option value="">Zuordnung: alle</option><option value="sicher">mit Beschluss</option><option value="Lehrfall">Lehrfall</option></select>
+      <input id="kTxt" placeholder="Filter…"></div><div id="kList"></div>`;
+    main.innerHTML = h;
+    const draw = () => {
+      const ty=document.getElementById('kTyp').value, st=document.getElementById('kSt').value, tx=document.getElementById('kTxt').value.toLowerCase();
+      document.getElementById('kList').innerHTML = K.klausuren.filter(k=>
+        (!ty||k.typ===ty) && (!st|| (st==='sicher'? k.status==='sicher' : k.status!=='sicher')) &&
+        (!tx||(k.kurz+' '+k.thema+' '+k.schwerpunkte.join(' ')+' '+(k.entscheidung||'')).toLowerCase().includes(tx))
+      ).map(k=>`<div class="card"><h4>${k.jahr} ${esc(k.termin)} – ${esc(k.kurz)}</h4>
+        <div class="meta">${esc(tl[k.typ]||k.typ)}${k.loesung?' · amtlicher Lösungshinweis vorhanden':''} · <span class="tag">${esc(k.status)}</span></div>
+        <p class="def">${txt(k.thema)}</p>
+        <div class="sec"><div class="meta">Schwerpunkte</div><ul class="kls">${k.schwerpunkte.map(s=>`<li>${txt(s)}</li>`).join('')}</ul></div>
+        ${k.entscheidung?`<div class="sec"><div class="meta">Beschluss</div><p class="erl">${txt(k.entscheidung)}</p>${k.case?chips([byId.get('case:'+k.case)]):''}</div>`:''}
+      </div>`).join('') || '<p class="meta">Keine Treffer.</p>';
+    };
+    ['kTyp','kSt','kTxt'].forEach(i=>document.getElementById(i).addEventListener('input',draw));
+    draw();
+    return;
+  }
+
+  main.innerHTML = h;
+}
 
 function vSchemata(){
   const list = G.nodes.filter(n=>n.type==='schema');

@@ -8,3 +8,5 @@
 - Vor jedem Push: `python3 build.py` fehlerfrei, Playwright-Rauchtest über lokalen HTTP-Server
   (siehe `PLAYBOOK.md` Abschnitt 7).
 - Aktenzeichen und Daten von Entscheidungen nie ungeprüft übernehmen; per WebSearch verifizieren.
+- Klausur-PDFs unter `klausuren/` sind nicht versioniert; Zuordnung Klausur → Beschluss steht in
+  `klausuren/README.md` und ist bei neuen Klausuren fortzuschreiben (Vorgehen: `PLAYBOOK.md` 5a).

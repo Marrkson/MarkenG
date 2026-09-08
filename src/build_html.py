@@ -8,11 +8,13 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
 from knowledge.gesetze import js_source  # noqa: E402
+from knowledge.klausur import DATA as KLAUSUR  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "app.html"
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
 CARDS = ROOT / "flashcards" / "karteikarten.json"
 OUT = ROOT / "docs" / "navigator" / "index.html"
+KLAUSUR_JSON = ROOT / "data" / "klausur.json"
 
 
 def embed(obj):
@@ -22,10 +24,12 @@ def embed(obj):
 def build():
     graph = json.loads(GRAPH.read_text(encoding="utf-8"))
     cards = json.loads(CARDS.read_text(encoding="utf-8"))
+    KLAUSUR_JSON.write_text(json.dumps(KLAUSUR, ensure_ascii=False, indent=1), encoding="utf-8")
     # Für die HTML-App reichen die Kartenfelder ohne Redundanz
     html = (TEMPLATE.read_text(encoding="utf-8")
             .replace("__DATA__", embed(graph))
             .replace("__CARDS__", embed(cards))
+            .replace("__KLAUSUR__", embed(KLAUSUR))
             .replace("__LAWJS__", js_source()))
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")

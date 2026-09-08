@@ -1,0 +1,27 @@
+# Lädt die NS-Klausuren (Nichttechnische Schutzrechte) und Lösungshinweise von kandidatentreff.de,
+# extrahiert den Text und committet alles nach klausuren/ auf den Branch, von dem der Workflow
+# gestartet wurde. Manuell starten: Actions -> "Klausuren NS laden" -> Run workflow.
+name: Klausuren NS laden
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: pdftotext installieren
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+      - name: PDFs laden und Text extrahieren
+        run: python3 klausuren/fetch.py
+      - name: Ergebnis committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add klausuren
+          git commit -m "Klausuren NS und Lösungshinweise von kandidatentreff.de geladen" || echo "nichts zu committen"
+          git push origin HEAD:${{ github.ref_name }}

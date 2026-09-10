@@ -60,16 +60,25 @@ EU_LAWS = {
     "DurchsetzungsRL": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)",
     "UMV": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001",
     "AEUV": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT",
+    # Einheitliches Patentgericht: Übereinkommen (EUR-Lex) und Verfahrensordnung (unifiedpatentcourt.org, PDF)
+    "EPGÜ": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)",
+    "UPCA": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)",
+    "VerfO": "https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf",
+    "RoP": "https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf",
 }
+# Zitierkürzel -> Schlüssel des Richtlinien-/Übereinkommensknotens im Graphen (eunorm:<key>:<nr>); Aliase erlaubt.
+EU_NORM_KEYS = {"MarkenRL": "markenrl", "DurchsetzungsRL": "durchsetzungsrl", "EPGÜ": "upca", "UPCA": "upca", "VerfO": "rop", "RoP": "rop"}
+# Zitatköpfe für Regeln (VerfO): „R. 19.1 VerfO“, „Regel 262A VerfO“, „Rule 19 RoP“; ohne Gesetzesangabe nie verlinken.
+RULE_HEADS = ("R.", "Regel", "Rule")
 # Ohne verlinkbare Fundstelle: nie verlinken.
 UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "GGV", "EPÜ", "ERVDPMAV", "PatAnwAPrV", "GV", "GRCh")
 
 _ABBR = "|".join(sorted(list(LAWS) + list(EU_LAWS) + list(UNLINKED), key=len, reverse=True))
-# Gruppen: 1 Zitatkopf, 2 Nummern (Ketten „9 bis 13“, „146 ff.“), 3 Untergliederung (Abs., Nr., S., lit.,
-# jeweils mit Ketten „S. 3 bis 5“, „lit. a bis d“), 4 Gesetz
+# Gruppen: 1 Zitatkopf (auch „R.“/„Regel“/„Rule“ für die VerfO), 2 Nummern (Ketten „9 bis 13“, „146 ff.“, Regeln
+# „262A“, „19.1“, „262.1(b)“), 3 Untergliederung (Abs., Nr., S., lit., jeweils mit Ketten „S. 3 bis 5“, „lit. a bis d“), 4 Gesetz
 _PATTERN = (
-    r"(§§|§|Art\.)\s*"
-    r"(\d+[a-z]?(?:\s*(?:bis|,|und|ff\.|f\.|/|-|–)\s*\d+[a-z]?)*(?:\s*f{1,2}\.)?)"
+    r"(§§|§|Art\.|\bR\.|\bRegel|\bRule)\s*"
+    r"(\d+[a-zA-Z]?(?:\.\d+)*(?:\([a-z0-9]+\))*(?:\s*(?:bis|,|und|ff\.|f\.|/|-|–)\s*\d+[a-zA-Z]?(?:\.\d+)*(?:\([a-z0-9]+\))*)*(?:\s*f{1,2}\.)?)"
     r"((?:\s+(?:Abs\.|Absatz|Nr\.|Nummer|Satz|S\.|lit\.|Halbsatz|Alt\.)\s*[\w§]+(?:\s*(?:bis|und|,|/|–|-)\s*(?:\d+[a-z]?|[a-z])(?![\w.]))*)*)"
     r"(?:\s+(" + _ABBR + r"))?"
 )
@@ -127,7 +136,7 @@ def linkify(text, fmt="html", escape=None):
             return label
         if law in EU_LAWS:
             return _link(None, law, label, fmt)
-        if head == "Art." and law != "GG":
+        if head in RULE_HEADS or (head == "Art." and law != "GG"):
             return label
         target = law or DEFAULT_LAW
         if target not in LAWS:
@@ -163,6 +172,8 @@ def js_table():
         "unlinked": list(UNLINKED),
         "eu": EU_LAWS,
         "default": DEFAULT_LAW,
+        "eukeys": EU_NORM_KEYS,
+        "ruleheads": list(RULE_HEADS),
     }
 
 
@@ -173,14 +184,14 @@ const LAWABBR = Object.keys(LAW.laws).concat(Object.keys(LAW.eu), LAW.unlinked).
 const CITE = new RegExp(__PATTERN__, 'g');
 function lawUrl(num, law){ const e = LAW.laws[law]; if(!e) return null;
   return LAW.base + e.slug + '/' + (e.kind === 'Art.' ? 'art_' + num + '.html' : '__' + num + '.html'); }
-function lawA(href, label){ var eu = href.indexOf('eur-lex') >= 0;
+function lawA(href, label){ var eu = href.indexOf('eur-lex') >= 0, upc = href.indexOf('unifiedpatentcourt') >= 0;
   return '<a href="' + href + '" target="_blank" rel="noopener" class="lawlink"'
-  + ' title="' + (eu ? 'Auf EUR-Lex nachlesen' : 'Auf gesetze-im-internet.de nachlesen') + '">' + label + '</a>'; }
+  + ' title="' + (upc ? 'Verfahrensordnung des EPG (PDF)' : eu ? 'Auf EUR-Lex nachlesen' : 'Auf gesetze-im-internet.de nachlesen') + '">' + label + '</a>'; }
 function lawifyText(s){
   return s.replace(CITE, function(m, head, nums, sub, law){
     if(law && LAW.unlinked.indexOf(law) >= 0) return m;
     if(law && LAW.eu[law]) return lawA(LAW.eu[law], m);
-    if(head === 'Art.' && law !== 'GG') return m;
+    if(LAW.ruleheads.indexOf(head) >= 0 || (head === 'Art.' && law !== 'GG')) return m;
     var target = law || LAW.default; if(!LAW.laws[target]) return m;
     var found = nums.match(NUMRE) || []; if(!found.length) return m;
     if(head === '\\u00a7\\u00a7' && found.length > 1){
@@ -216,6 +227,7 @@ if __name__ == "__main__":
         "Verwirkung nach § 21 Abs. 4 i.V.m. § 242 BGB; Kunstfreiheit Art. 5 Abs. 3 GG.",
         "Art. 9 Abs. 2 lit. c UMV entspricht § 14 Abs. 2 Nr. 3; Art. 6 PMMA bleibt frei; Art. 10 Abs. 2 MarkenRL ist der Ursprung.",
         "Streitwert nach § 51 GKG, Zuständigkeit § 140, Aussetzung § 148 ZPO.",
+        "Einspruch nach R. 19.1 VerfO, Vertraulichkeit R. 262A VerfO, Zugang R. 262.1(b) RoP; Art. 33 Abs. 1 lit. a EPGÜ; Rule 19 RoP; Nr. 2 bleibt frei; R. 19 ohne Gesetz bleibt frei.",
     ]
     for p in proben:
         print(linkify(p, "markdown"))

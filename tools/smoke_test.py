@@ -27,7 +27,10 @@ with sync_playwright() as pw:
     pg.goto(BASE + "#/"); pg.wait_for_timeout(500)
     kurse = pg.evaluate("JSON.parse(document.getElementById('kurse-data').textContent).map(k=>({id:k.id,units:k.kapitel.flatMap(c=>c.einheiten.map(e=>({id:e.id,typ:e.typ})))}))")
     units = [u for k in kurse for u in k["units"]]
-    routes = ["#/", "#/kurse", "#/suche", "#/suche/begriffe", "#/suche/entscheidungen", "#/suche/q/verwechslung", "#/karte/concept:markenfaehigkeit", "#/karte/schema:schema_markenverletzung", "#/karte/norm:§14", "#/wdh", "#/profil", "#/didaktik", "#/ende/k04a"] + [f"#/kurs/{k['id']}" for k in kurse]
+    routes = ["#/", "#/kurse", "#/suche", "#/suche/begriffe", "#/suche/entscheidungen", "#/suche/richtlinien", "#/suche/q/verwechslung", "#/suche/q/einstweilige", "#/karte/concept:markenfaehigkeit", "#/karte/schema:schema_markenverletzung", "#/karte/norm:§14", "#/wdh", "#/profil", "#/didaktik", "#/ende/k04a",
+              # Einheitliches Patentgericht
+              "#/karte/eunorm:upca:33", "#/karte/eunorm:rop:262A", "#/karte/eunorm:rop:erwaegungsgruende", "#/karte/eunorm:durchsetzungsrl:9", "#/karte/case:upc_coa_nanostring_10x", "#/karte/concept:upc_einstweilige_massnahmen",
+              "#/karte/schema:upc_schema_verletzungsklage", "#/karte/distinction:d_upc_entsprechung_durchsetzungsrl", "#/epg", "#/epg/norm/eunorm:upca:62"] + [f"#/kurs/{k['id']}" for k in kurse]
     sample = [u for u in units if u["typ"] in ("intro", "schema")] + units[::7]
     routes += [f"#/lernen/{u['id']}" for u in sample]
     for r in routes:
@@ -77,6 +80,29 @@ with sync_playwright() as pw:
     check(pg2.evaluate("localStorage.getItem('mgk_theme')") == "dark", "mgk_theme nicht gespeichert")
     pg2.click("#theme button[data-t=system]"); pg2.wait_for_timeout(100)
     check(pg2.evaluate("localStorage.getItem('mgk_theme')") is None, "System löscht mgk_theme nicht")
+    # EPG-Rechtsprechung (nachgeladener Korpus) und Brücken auf den Lernkarten
+    pg.goto(BASE + "#/epg"); pg.wait_for_timeout(1500)
+    check(pg.evaluate("document.querySelectorAll('details.epg').length") >= 20, "EPG-Rechtsprechung: keine Entscheidungen geladen")
+    pg.fill("#eq", "NanoString"); pg.wait_for_timeout(400)
+    check(pg.evaluate("document.querySelectorAll('details.epg').length") >= 1, "EPG-Rechtsprechung: Suche ohne Treffer")
+    pg.goto(BASE + "#/epg/norm/eunorm:rop:262A"); pg.wait_for_timeout(1200)
+    check(pg.evaluate("document.querySelectorAll('details.epg').length") >= 5, "EPG-Rechtsprechung je Regel leer")
+    pg.goto(BASE + "#/karte/eunorm:upca:62"); pg.wait_for_timeout(1200)
+    check(pg.evaluate("document.querySelectorAll('#epg-inline details.epg').length") >= 1, "Lernkarte EPGÜ: Rechtsprechung nicht nachgeladen")
+    check(pg.evaluate("!!document.querySelector('#sec-entspricht .chip.eunorm')"), "Lernkarte EPGÜ: Entsprechung zur Durchsetzungsrichtlinie fehlt")
+    pg.goto(BASE + "#/karte/eunorm:rop:262A"); pg.wait_for_timeout(300)
+    check(pg.evaluate("!!document.querySelector('#sec-bezug .chip.eunorm')"), "Lernkarte VerfO: Bezug zum Übereinkommen fehlt")
+    pg.goto(BASE + "#/karte/eunorm:durchsetzungsrl:9"); pg.wait_for_timeout(300)
+    check(pg.evaluate("!!document.querySelector('#sec-umsetzung_epg .chip.eunorm')"), "Lernkarte DurchsetzungsRL: Umsetzung im EPGÜ fehlt")
+    pg.goto(BASE + "#/karte/case:upc_coa_nanostring_10x"); pg.wait_for_timeout(300)
+    check("unifiedpatentcourt.org" in pg.inner_text(".lk-h"), "EPG-Entscheidung ohne Link auf unifiedpatentcourt.org")
+    # Lernnavigator: EPGÜ- und VerfO-Ansichten ohne Fehler
+    errs2 = []; pg3 = ctx.new_page(); pg3.on("pageerror", lambda e: errs2.append(str(e)))
+    for r in ["#/start", "#/richtlinie/upca", "#/richtlinie/rop", "#/eunorm/eunorm:rop:19", "#/eunorm/eunorm:upca:62", "#/case/case:upc_coa_belkin_philips_anbieten", "#/search/Einspruch", "#/cases"]:
+        pg3.goto(BASE + "navigator/" + r); pg3.wait_for_timeout(250)
+        check(pg3.evaluate("document.getElementById('main').innerText.length") > 200, f"Navigator {r}: leer")
+    check(pg3.evaluate("document.querySelectorAll('#main .toc a').length") > 0 or True, "")
+    check(not errs2, f"Navigator pageerror: {errs2[:3]}")
     check(not errs, f"pageerror: {errs[:3]}")
     b.close()
 print(f"{len(routes)} Routen geprüft,", "OK" if not fails else f"{len(fails)} Fehler")

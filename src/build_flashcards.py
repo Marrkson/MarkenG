@@ -59,6 +59,11 @@ def outline(by_id, out, nid, depth=0, max_depth=2):
     return lines
 
 
+def fmt_norms(refs):
+    """'§ 14 Abs. 2' -> '§ 14 Abs. 2 MarkenG'; EU-/EPG-Zitate tragen ihr Gesetz schon im Text."""
+    return ", ".join(r + " MarkenG" if r.startswith("§") else r for r in refs)
+
+
 def generate(graph):
     by_id, out, inc = index(graph)
     cards = []
@@ -77,7 +82,7 @@ def generate(graph):
         cases = [by_id[e["target"]] for e in out.get(n["id"], []) if e["relation"] == "illustrated_by"]
         back = n["definition"]
         if norms:
-            back += "\n\nNormen: " + ", ".join(norms) + " MarkenG"
+            back += "\n\nNormen: " + fmt_norms(norms)
         if cases:
             back += "\n\nRechtsprechung: " + "; ".join(f"{c['court']} {c['name']} ({c['az']})" for c in cases[:4])
         add("definition", f"Definiere: {n['label']}", back, ["Begriff", n["kategorie"]], n["id"],
@@ -119,7 +124,7 @@ def generate(graph):
             continue
         norms = sorted({e["ref"] for e in out.get(n["id"], []) if e["relation"] == "interprets"})
         front = f"{n['court']} „{n['name']}“ ({n['az']}, {n['date'][:4]}) – Kernaussage?"
-        back = n["kern"] + (f"\n\nNormen: {', '.join(norms)} MarkenG" if norms else "") + (f"\nFundstelle: {n['fundstelle']}" if n.get("fundstelle") else "")
+        back = n["kern"] + (f"\n\nNormen: {fmt_norms(norms)}" if norms else "") + (f"\nFundstelle: {n['fundstelle']}" if n.get("fundstelle") else "")
         add("entscheidung", front, back, ["Rechtsprechung", n["court"]] + n["tags"], n["id"])
         add("entscheidung_r", f"Welche Entscheidung ({n['court']}) steht für folgenden Grundsatz?\n\n{n['kern']}", f"{n['court']} „{n['name']}“ – {n['az']} ({n['date'][:4]}), {n['fundstelle']}", ["Rechtsprechung", "Umkehr", n["court"]] + n["tags"], n["id"])
 
@@ -138,22 +143,40 @@ def generate(graph):
             back += "\n\nZugehörige Begriffe: " + ", ".join(sorted(concepts)[:8])
         add("norm", f"Was regelt {n['label']}?", back, ["Gesetz"], nid)
 
-    # Markenrechtsrichtlinie: Artikel -> Inhalt und Umsetzung
+    # Richtlinien, EPGÜ, VerfO: Artikel/Regel -> Inhalt, Umsetzung und Brücken. Beim EPGÜ und bei der VerfO nur
+    # Vorschriften, die im Wissensnetz hängen (Begriff, Schema, Entscheidung oder Hinweis), sonst 400 Textkarten.
     for n in graph["nodes"]:
         if n["type"] != "eunorm" or n["nummer"] == "0":
+            continue
+        upc = n["rl"] in ("upca", "rop")
+        if upc and not n.get("hinweis") and not any(e["relation"] in ("defined_in", "applies", "interprets") for e in inc.get(n["id"], [])):
             continue
         umsetzung = [e["ref"] for e in inc.get(n["id"], []) if e["relation"] == "implements"]
         first = n["absaetze"][0]["text"] if n["absaetze"] else ""
         first = first if len(first) <= 600 else first[:600] + " …"
         back = f"{n['titel']}\n\n{first}"
         if umsetzung:
-            back += "\n\nUmgesetzt in: " + ", ".join(sorted(set(umsetzung))) + " MarkenG"
+            back += "\n\nUmgesetzt in: " + fmt_norms(sorted(set(umsetzung)))
         weitere = [f"{law}: {ref}" for law, ref in n.get("umsetzung_weitere", {}).items() if law != "MarkenG"]
         if weitere:
             back += "\n\nWeitere Gesetze: " + "; ".join(weitere)
+        ents = sorted({by_id[e["target"]]["label"] for e in out.get(n["id"], []) if e["relation"] == "entspricht"})
+        if ents:
+            back += "\n\nEntspricht: " + ", ".join(ents)
+        ents_in = sorted({by_id[e["source"]]["label"] for e in inc.get(n["id"], []) if e["relation"] == "entspricht"})
+        if ents_in:
+            back += "\n\nUmsetzung im EPGÜ: " + ", ".join(ents_in)
+        bezug = sorted({by_id[e["target"]]["label"] for e in out.get(n["id"], []) if e["relation"] == "konkretisiert"})
+        if bezug:
+            back += "\n\nBezug zum Übereinkommen: " + ", ".join(bezug)
         if n.get("hinweis"):
             back += "\n\nHinweis: " + n["hinweis"]
-        add("eunorm", f"Was regelt {n['label']} und welche Vorschrift des MarkenG setzt ihn um?", back, ["Richtlinie", "EU", n.get("kurz", "")], n["id"])
+        if n.get("zitiert"):
+            back += f"\n\nIn {n['zitiert']} Entscheidungen des EPG zitiert."
+        if upc:
+            add("eunorm", f"Was regelt {n['label']} ({n['titel']})?", back, ["EPG", n.get("kurz", "")], n["id"])
+        else:
+            add("eunorm", f"Was regelt {n['label']} und welche Vorschrift des MarkenG setzt ihn um?", back, ["Richtlinie", "EU", n.get("kurz", "")], n["id"])
     return cards
 
 
@@ -166,7 +189,7 @@ def write(cards):
             front = linkify(c["front"], "html").replace("\n", "<br>")
             back = linkify(c["back"], "html").replace("\n", "<br>")
             w.writerow([front, back, " ".join(t.replace(" ", "_") for t in c["tags"])])
-    md = ["# Karteikarten Markenrecht", "", f"{len(cards)} Karten, generiert aus graph/markenrecht_graph.json.", ""]
+    md = ["# Karteikarten Markenrecht und Einheitliches Patentgericht", "", f"{len(cards)} Karten, generiert aus graph/markenrecht_graph.json.", ""]
     current = None
     for c in cards:
         if c["typ"] != current:

@@ -17,11 +17,13 @@ sys.path.insert(0, str(ROOT / "src"))
 
 from knowledge.gesetze import js_source  # noqa: E402
 from knowledge.kurse import KURSE, GEBIETE  # noqa: E402
+from knowledge.upc import entscheidungen as upc_entscheidungen  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
 ASSETS = ROOT / "src" / "templates" / "ipelico"
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
 OUT = ROOT / "docs" / "index.html"
+EPG_DB = ROOT / "docs" / "upc_entscheidungen.json"  # Entscheidungskorpus des EPG, von IPelico nachgeladen (#/epg)
 DATA = ROOT / "data" / "kurse.json"
 
 # Icons, die das Template verwendet; fehlt eines im Sprite, bricht der Build ab.
@@ -118,7 +120,7 @@ def app_icons():
             raise SystemExit(f"App-Icon fehlt: {src} (Rendern: siehe PLAYBOOK 6)")
         (OUT.parent / name).write_bytes(src.read_bytes())
     manifest = {
-        "name": "IPelico – Markenrecht in Fällen", "short_name": "IPelico", "start_url": "./", "scope": "./",
+        "name": "IPelico – Markenrecht und EPG in Fällen", "short_name": "IPelico", "start_url": "./", "scope": "./",
         "display": "standalone", "background_color": "#f3f5f9", "theme_color": "#1482e3", "lang": "de",
         "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
                   {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
@@ -144,6 +146,9 @@ def build():
             raise SystemExit(f"Platzhalter {ph} nicht ersetzt")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
+    epg = upc_entscheidungen.kompakt()
+    EPG_DB.write_text(json.dumps(epg, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"EPG-Rechtsprechung: {epg['meta']['anzahl']} Entscheidungen -> {EPG_DB.relative_to(ROOT)} ({EPG_DB.stat().st_size/1024:.0f} KB)")
     app_icons()
     n = sum(len(k["einheiten"]) for kurs in KURSE for k in kurs["kapitel"])
     print(f"IPelico: {len(KURSE)} Kurse, {n} Einheiten, Sprite {len(sp)/1024:.0f} KB -> "

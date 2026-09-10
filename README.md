@@ -7,11 +7,11 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/index.html` | **IPelico**, der Fallkurs: 14 Kurse, 46 Kapitel, 290 Lerneinheiten (193 Fälle mit Ja/Nein, 60 Wissensfragen, 23 Prüfungsschemata, 14 Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie; Gestaltung nach `DESIGN.md` |
+| `docs/index.html` | **IPelico**, der Fallkurs: 24 Kurse in zwei Rechtsgebieten (Markenrecht, Einheitliches Patentgericht), 74 Kapitel, 409 Lerneinheiten (261 Fälle mit Ja/Nein, 81 Wissensfragen, 31 Prüfungsschemata, 36 Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie; Gestaltung nach `DESIGN.md` |
 | `docs/didaktik.md` | Didaktisches Konzept von IPelico und Kursaufbau |
 | `DESIGN.md`, `src/templates/ipelico/` | Gestaltungsrichtlinie (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons, Schriften) und die Assets dazu; `tools/gen_assets.py` erzeugt die Icons |
 | `docs/navigator/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (1.237 Knoten, ca. 4.900 Kanten) |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (2.180 Knoten, ca. 7.500 Kanten; Markenrecht und EPG in einem Graphen) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
@@ -48,7 +48,7 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
   Widerspruch und Löschung, die relativen Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3) sowie
   das Vorgehen aus einer Unionsmarke (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff.) und aus einer IR-Marke (PMMA, §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
   und Entscheidungen (violett) öffnen sich als Karte direkt an Ort und Stelle – auch verschachtelt.
-- **Karteikarten**: 755 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
+- **Karteikarten**: 1.248 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
   Entscheidungen, Normen). Filter nach Typ und Thema, Karten pro Schema, Tastatursteuerung,
   Fortschritt „gewusst / nicht gewusst“ im Browser (localStorage).
 - **Abgrenzungen**: Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft,
@@ -57,14 +57,40 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 - **Graph-Explorer**: Nachbarschaft eines Knotens als Kräftegraph, Klick wechselt das Zentrum.
 - **Suche** (Taste `/`): Begriffe, Paragraphen (z.B. `23`), Entscheidungen (Name oder Aktenzeichen).
 
+## Einheitliches Patentgericht (EPGÜ, VerfO, EPG-Rechtsprechung)
+
+Seit September 2026 enthält der Graph ein zweites Wissenspaket zum Verfahren vor dem Einheitlichen Patentgericht
+(`src/knowledge/upc/`), im selben Graphen wie das Markenrecht und über die Durchsetzungsrichtlinie 2004/48/EG mit ihm
+verbunden (Art. 59 bis 69 und 80 EPGÜ tragen `entspricht`-Kanten zu den Richtlinienartikeln, die Tabelle
+„Durchsetzungsrichtlinie: Umsetzung im EPGÜ, in der VerfO und im deutschen Recht“ stellt EPGÜ, VerfO, MarkenG und PatG nebeneinander).
+
+- **EPGÜ**: alle 89 Artikel im amtlichen deutschen Wortlaut (englischer Titel und Wortlaut je Artikel verlinkt), gegliedert nach
+  Teilen und Kapiteln, mit Lern- und Klausurhinweisen zu den Kernnormen (Art. 25 bis 34, 47 bis 49, 56 bis 69, 73 bis 83).
+- **Verfahrensordnung**: alle 303 Regeln der konsolidierten deutschen Fassung (Änderungen vom 4.11.2025, in Kraft seit 1.1.2026)
+  mit Präambel, englischen Regeltiteln und der Kante „Bezug zum Übereinkommen“ (`konkretisiert`) zu den EPGÜ-Artikeln.
+- **EPG-Rechtsprechung**: alle Entscheidungen und Anordnungen des EPG seit dem 1. Juni 2023 aus der RheinIP-Datenbank
+  (`data/upc_decisions.json`, Volltexte bleiben in der Datenbank) mit Leitsätzen, Schlagworten und den zitierten Artikeln und
+  Regeln; in IPelico als Datenbank `#/epg` mit Suche und Filtern (Kammer, Verfahrensart, nur mit Leitsatz), je Artikel und Regel
+  unter `#/epg/norm/…` und als Abschnitt auf jeder EPGÜ-/VerfO-Lernkarte; jeder Norm-Knoten trägt die Zahl der zitierenden Entscheidungen.
+- **Kuratiert**: 80 Begriffe, 65 Leitentscheidungen (überwiegend Berufungsgericht, Kernaussage auf Deutsch), 8 Prüfungsschemata
+  (Zuständigkeit, Verletzungsklage, einstweilige Maßnahmen, Beweissicherung, Nichtigkeit, Berufung, Kosten, Vertraulichkeit),
+  8 Abgrenzungen (u.a. Lokal- vs. Zentralkammer, Einspruch vs. Klageerwiderung, R. 262 vs. R. 262A, EPG vs. deutsches Verfahren).
+- **Kurse 15 bis 24** (Rechtsgebiet „EPG“): Grundlagen, Zuständigkeit, Verletzungsverfahren, Verletzung und Auslegung, einstweilige
+  Maßnahmen und Beweis, Nichtigkeit, Rechtsfolgen und Vollstreckung, Kosten, Berufung, EPGÜ und Durchsetzungsrichtlinie.
+- **Zitierweise** in Texten und `norms`-Feldern: `Art. 33 Abs. 1 EPGÜ`, `R. 19.1 VerfO`, `R. 262A VerfO` (auch `UPCA`, `RoP`);
+  `Art. … EPGÜ` verlinkt auf EUR-Lex, `R. … VerfO` auf das VerfO-PDF.
+
+Aktualisieren: `python3 tools/fetch_upc.py` (Postgres-Zugang aus `~/github/RheinIP/.env`; `--no-net` nutzt nur die Datenbank und
+den lokalen Cache der Normtexte), danach `python3 build.py`. Vorgehen und Datenmodell: `PLAYBOOK.md` Abschnitt 11.
+
 ## Graph-Modell
 
-Knotentypen: `norm` (Paragraph mit Absätzen), `eunorm` (Artikel der MarkenRL als Paraphrase und der DurchsetzungsRL im Wortlaut; Feld `rl` unterscheidet sie, `umsetzung_weitere` nennt die Parallelnormen der anderen Gesetze), `concept` (Definition + Erläuterung), `schema`,
+Knotentypen: `norm` (Paragraph mit Absätzen), `eunorm` (Artikel der MarkenRL als Paraphrase, der DurchsetzungsRL und des EPGÜ im Wortlaut sowie die Regeln der VerfO; Feld `rl` unterscheidet sie (`markenrl`, `durchsetzungsrl`, `upca`, `rop`), `zitat` die Zitierform (`Art.`/`R.`), `umsetzung_weitere` nennt die Parallelnormen der anderen Gesetze, `zitiert` die Zahl der EPG-Entscheidungen), `concept` (Definition + Erläuterung), `schema`,
 `step` (Prüfungspunkt, baumförmig), `case` (Entscheidung mit Kernaussage, Aktenzeichen, Fundstelle,
 dejure-Link), `distinction` (Vergleichstabelle), `source` (IPWiki-Artikel), `course`, `chapter`, `unit`
 (Fallkurs; Einheiten verweisen mit `trains`, `cites`, `applies`, `covers` auf Begriffe, Entscheidungen, Normen, Prüfungspunkte und Abgrenzungstabellen).
 
-Kanten: `defined_in`, `related_to`, `illustrated_by`, `documented_in`, `interprets`, `implements` (MarkenG-Norm setzt einen Richtlinienartikel um), `has_step`,
+Kanten: `defined_in`, `related_to`, `illustrated_by`, `documented_in`, `interprets`, `implements` (MarkenG-Norm setzt einen Richtlinienartikel um), `entspricht` (EPGÜ-Artikel setzt einen Artikel der DurchsetzungsRL für das EPG um), `konkretisiert` (VerfO-Regel → EPGÜ-Artikel), `has_step`,
 `next_step`, `uses_concept`, `cites`, `applies`, `contrasts`.
 
 ## Karteikarten in Anki importieren
@@ -148,7 +174,7 @@ Erkennung prüfen: `python3 src/knowledge/gesetze.py` gibt Beispielzitate mit Li
 - **IPWiki** (www.ipwiki.de): Die Artikel konnten aus der Build-Umgebung nicht direkt geladen werden
   (Netzwerk-Sperre). `src/knowledge/ipwiki.py` enthält den per Websuche ermittelten Artikelindex mit
   Kurzinhalt und Link; die Begriffe verweisen darauf.
-- **Rechtsprechung**: 131 Entscheidungen (81 BGH, 40 EuGH, 10 BPatG), per Websuche recherchiert und mit
+- **Rechtsprechung**: 131 Entscheidungen zum Markenrecht (81 BGH, 40 EuGH, 10 BPatG), per Websuche recherchiert und mit
   Aktenzeichen/Datum gegen dejure.org, bundesgerichtshof.de und Fachveröffentlichungen abgeglichen.
   Die Kernaussagen sind Paraphrasen für Lernzwecke – für Zitate den Volltext prüfen
   (Link „dejure ↗“ in jeder Entscheidung).

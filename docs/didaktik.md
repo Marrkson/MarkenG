@@ -38,8 +38,23 @@ Gruppierungsaufgaben wurden nicht nachgebaut.
 | 8 Geschäftliche Bezeichnungen und Domains | Unternehmenskennzeichen · Werktitel | 8 |
 | 9 Rechtsfolgen und Durchsetzung | Unterlassung und Schadensersatz · Täter, Teilnehmer, Störer | 7 |
 | 10 Unionsmarke und IR-Marke | Unionsmarke · IR-Marke | 11 |
+| 11 Die Markenrechtsrichtlinie (EU) 2015/2436 | Struktur, Harmonisierung, Auslegung · Materielles Recht: Art. 3 bis 18 · Verfahren und Umsetzung im MaMoG | 20 |
+| 12 Die Durchsetzungsrichtlinie 2004/48/EG | Zwei Richtlinien, ein Muster in sieben Gesetzen · Aufklärung: Auskunft, Vorlage, Sicherung (Art. 6 bis 9) · Eilrechtsschutz, Sanktionen, Mittelspersonen, Kosten (Art. 9 bis 15) | 30 |
+| 13 Klausurtraining NS | Widerspruch: Zulässigkeit, Frist, Gebühr · Beschwerde: Form, Frist, Gebühr, Wiedereinsetzung · Nichtbenutzungseinrede und Glaubhaftmachung · Verwechslungsgefahr in der Klausur · Unternehmenskennzeichen, Bösgläubigkeit, ältere Rechte · Verfall, Schutzentziehung, Herkunftsangaben | 56 |
+| 14 Wirksamkeit und Zulässigkeit | Die drei Ebenen · Die vier Fähigkeiten · Wirksamkeit: Gebühren und Zahlungstag · Zulässigkeit des Widerspruchs · Erinnerung, Beschwerde, Rechtsbeschwerde · Wiedereinsetzung und Weiterbehandlung · Klagen vor dem ordentlichen Gericht · Tenor formulieren | 59 |
+| 15 Das Einheitliche Patentgericht: Aufbau, Rechtsquellen, Übergangszeit | Gericht, Kammern, Spruchkörper · Rechtsquellen und Vorrang des Unionsrechts · Übergangszeit, Opt-out, Altfälle und Verfahrensgrundsätze | 12 |
+| 16 Zuständigkeit und Kammerwahl | Ob und wo: internationale, sachliche und Kammerzuständigkeit · Die Rüge: Einspruch nach R. 19 bis 21 VerfO | 12 |
+| 17 Die Verletzungsklage: vom Schriftsatz zur Entscheidung | Klageschrift, Zustellung, Fristen · Sprache, Berichterstatter, Zwischenverfahren, mündliche Verhandlung · Änderung, Rücknahme, Streithilfe und rechtliches Gehör | 12 |
+| 18 Verletzung und Auslegung vor dem EPG | Schutzbereich: Auslegung des Patentanspruchs · Benutzungshandlungen: unmittelbar, mittelbar, äquivalent · Einwendungen und Haftung: Art. 27 bis 29, 63 EPGÜ, FRAND | 12 |
+| 19 Einstweilige Maßnahmen, Beweissicherung, Vertraulichkeit | Antrag auf einstweilige Maßnahmen (Art. 62 EPGÜ, R. 205 bis 213 VerfO) · Beweissicherung, Beweisvorlage und Ex-parte-Anordnungen · Vertraulichkeit und Akteneinsicht (Art. 58 EPGÜ, R. 262, 262A VerfO) | 12 |
+| 20 Nichtigkeit, Widerklage und Änderung des Patents | Nichtigkeitsklage und Widerklage: Zulässigkeit und Verfahren · Nichtigkeitsgründe (Art. 65 Abs. 2 EPGÜ, Art. 138 EPÜ) · Verteidigung: Änderung des Patents und Erwiderung | 12 |
+| 21 Rechtsfolgen, Zwangsgeld und Vollstreckung | Die Anordnungen nach Art. 63, 64, 67 und 80 EPGÜ · Schadensersatz (Art. 68 EPGÜ) und das Festsetzungsverfahren · Vollstreckung und Zwangsgeld (Art. 82 EPGÜ, R. 354 VerfO) | 13 |
+| 22 Kosten, Gebühren und Prozesskostensicherheit | Gerichtsgebühren und Streitwert (R. 370 VerfO) · Kostengrundentscheidung und Kostenfestsetzung (Art. 69 EPGÜ, R. 150 bis 157 VerfO) · Prozesskostensicherheit (Art. 69 Abs. 4 EPGÜ, R. 158 VerfO) | 13 |
+| 23 Berufung und Rechtsbehelfe | Statthaftigkeit und Frist (Art. 73 EPGÜ, R. 220 bis 224 VerfO) · Beschwer, Anschlussberufung, bedingte Berufung, Streithelfer · Aufschiebende Wirkung, neues Vorbringen, Entscheidung, Wiederaufnahme | 13 |
+| 24 EPGÜ und Durchsetzungsrichtlinie: eine Richtlinie, drei Gesetze | Die Entsprechungen: Richtlinie, EPGÜ, PatG, MarkenG · Schadensersatz, Kosten und Veröffentlichung (Art. 68, 69, 80 EPGÜ ↔ Art. 13, 14, 15 RL) | 8 |
 
-Stand September 2026: 14 Kurse, 46 Kapitel, 290 Einheiten: 193 Fälle (Ja/Nein), 60 Wissensfragen (Auswahl),
+
+Stand September 2026: 24 Kurse, 74 Kapitel, 409 Einheiten: 261 Fälle (Ja/Nein), 81 Wissensfragen (Auswahl),
 23 Prüfungsschemata, 14 Einführungen. Zu den Kursen 1 bis 10 kamen Kurs 11 (Markenrechtsrichtlinie), Kurs 12
 (Klausurtraining NS nach den Klausuren der Patentanwaltsprüfung), Kurs 13 (Wirksamkeit und Zulässigkeit)
 und Kurs 14 (Durchsetzungsrichtlinie).

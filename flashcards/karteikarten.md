@@ -1,6 +1,6 @@
-# Karteikarten Markenrecht
+# Karteikarten Markenrecht und Einheitliches Patentgericht
 
-755 Karten, generiert aus graph/markenrecht_graph.json.
+1248 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -8,7 +8,7 @@
 
 **A:** Ein Zeichen, das geeignet ist, Waren oder Dienstleistungen eines Unternehmens von denjenigen anderer Unternehmen zu unterscheiden ([§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)). Schutz entsteht durch Eintragung, Verkehrsgeltung oder notorische Bekanntheit ([§ 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html)).
 
-Normen: [Art. 1 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 1](https://www.gesetze-im-internet.de/markeng/__1.html), [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html)
+Normen: [Art. 1 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html), [§ 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html)
 
 *Tags: Begriff, Grundlagen*
 
@@ -58,7 +58,7 @@ Hauptfunktion ist die Herkunftsfunktion (Garantie der Ursprungsidentität). Dane
 
 **A:** Die Hauptfunktion der Marke: Sie garantiert dem Verbraucher die Ursprungsidentität der gekennzeichneten Ware oder Dienstleistung, indem sie ihm ermöglicht, diese ohne Verwechslungsgefahr von Waren anderer Herkunft zu unterscheiden.
 
-Normen: [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
 Rechtsprechung: EuGH Arsenal Football Club (C-206/01); BGH Opel-Blitz II (I ZR 88/08); EuGH Google France und Google (C-236/08 bis C-238/08); EuGH Adam Opel/Autec (C-48/05)
 
@@ -84,7 +84,7 @@ Die Hauptfunktion der Marke: Sie garantiert dem Verbraucher die Ursprungsidentit
 
 **A:** Markenschutz entsteht (1) durch Eintragung in das Register des DPMA ([§ 4 Nr. 1](https://www.gesetze-im-internet.de/markeng/__4.html)), (2) durch Benutzung im geschäftlichen Verkehr mit Verkehrsgeltung innerhalb der beteiligten Verkehrskreise ([§ 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__4.html), Benutzungsmarke) oder (3) durch notorische Bekanntheit i.S.d. Art. 6bis PVÜ ([§ 4 Nr. 3](https://www.gesetze-im-internet.de/markeng/__4.html)).
 
-Normen: [Art. 37 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 38 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 4](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__6.html)
+Normen: [Art. 37 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 38 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__6.html)
 
 *Tags: Begriff, Grundlagen*
 
@@ -108,7 +108,7 @@ Markenschutz entsteht (1) durch Eintragung in das Register des DPMA ([§ 4 Nr. 1
 
 **A:** Bei der Kollision von Kennzeichenrechten hat das Recht mit dem älteren Zeitrang Vorrang ([§ 6 Abs. 1](https://www.gesetze-im-internet.de/markeng/__6.html)). Zeitrang der Registermarke ist der Anmeldetag ([§ 6 Abs. 2](https://www.gesetze-im-internet.de/markeng/__6.html) i.V.m. [§ 33 Abs. 1](https://www.gesetze-im-internet.de/markeng/__33.html)), ggf. der Prioritätstag (§§ [34](https://www.gesetze-im-internet.de/markeng/__34.html), [35](https://www.gesetze-im-internet.de/markeng/__35.html)); bei sonstigen Rechten der Zeitpunkt des Rechtserwerbs ([§ 6 Abs. 3](https://www.gesetze-im-internet.de/markeng/__6.html)). Bei gleichem Zeitrang: Koexistenz ([§ 6 Abs. 4](https://www.gesetze-im-internet.de/markeng/__6.html)).
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 38 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html), [§ 33](https://www.gesetze-im-internet.de/markeng/__33.html), [§ 34](https://www.gesetze-im-internet.de/markeng/__34.html), [§ 35 MarkenG](https://www.gesetze-im-internet.de/markeng/__35.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 38 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__6.html), [§ 33 MarkenG](https://www.gesetze-im-internet.de/markeng/__33.html), [§ 34 MarkenG](https://www.gesetze-im-internet.de/markeng/__34.html), [§ 35 MarkenG](https://www.gesetze-im-internet.de/markeng/__35.html)
 
 Rechtsprechung: BGH Baumann II (I ZR 241/14)
 
@@ -186,7 +186,7 @@ Nicht markenfähig sind Zeichen, die ausschließlich aus Formen oder anderen cha
 
 **A:** Marke, die aus der dreidimensionalen Gestaltung der Ware selbst oder ihrer Verpackung besteht ([§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html)). Sie unterliegt dem Formausschluss des [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html) und strengen Anforderungen an die Unterscheidungskraft.
 
-Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: BGH ROCHER-Kugel (I ZB 88/07); BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19); BGH Bodendübel (I ZB 105/16); BGH Traubenzuckertäfelchen (I ZB 3/17)
 
@@ -212,7 +212,7 @@ Marke, die aus der dreidimensionalen Gestaltung der Ware selbst oder ihrer Verpa
 
 **A:** Marke, die aus einer Farbe oder Farbkombination ohne räumliche Begrenzung besteht. Markenfähig, wenn die Farbe eindeutig bestimmt ist (Farbcode). Originäre Unterscheidungskraft nur ausnahmsweise; regelmäßig Eintragung nur über Verkehrsdurchsetzung.
 
-Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: EuGH Libertel (C-104/01); BGH Langenscheidt-Gelb (I ZB 61/13); BGH Nivea-Blau (I ZB 65/13); BGH Sparkassen-Rot (I ZB 52/15)
 
@@ -238,7 +238,7 @@ Marke, die aus einer Farbe oder Farbkombination ohne räumliche Begrenzung beste
 
 **A:** Von der Eintragung ausgeschlossen sind Zeichen, die nicht geeignet sind, in dem Register so dargestellt zu werden, dass die zuständigen Behörden und das Publikum den Gegenstand des Schutzes klar und eindeutig bestimmen können.
 
-Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 37 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 37 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html)
 
 Rechtsprechung: EuGH Libertel (C-104/01)
 
@@ -264,7 +264,7 @@ Von der Eintragung ausgeschlossen sind Zeichen, die nicht geeignet sind, in dem 
 
 **A:** Eintragungshindernisse, die im Allgemeininteresse (nicht im Interesse einzelner Rechtsinhaber) bestehen und vom DPMA von Amts wegen geprüft werden ([§ 37](https://www.gesetze-im-internet.de/markeng/__37.html)): u.a. fehlende Unterscheidungskraft (Nr. 1), Freihaltebedürfnis (Nr. 2), üblich gewordene Bezeichnungen (Nr. 3), Täuschungseignung (Nr. 4), Verstoß gegen öffentliche Ordnung/gute Sitten (Nr. 5), Hoheitszeichen (Nr. 6-8), geschützte Herkunftsangaben u.a. (Nr. 9-13), Bösgläubigkeit (Nr. 14).
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 7 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 40 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 7 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 40 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 MarkenG](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
 
 Rechtsprechung: BGH smartbook (I ZB 59/12); BGH Black Friday (I ZB 21/20)
 
@@ -290,7 +290,7 @@ Eintragungshindernisse, die im Allgemeininteresse (nicht im Interesse einzelner 
 
 **A:** Die einer Marke innewohnende (konkrete) Eignung, vom Verkehr als Unterscheidungsmittel aufgefasst zu werden, das die beanspruchten Waren oder Dienstleistungen als von einem bestimmten Unternehmen stammend kennzeichnet und von denen anderer Unternehmen unterscheidet.
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: BGH HOT (I ZB 3/13); BGH Link economy (I ZB 56/09); BGH #darferdas? II (I ZB 61/17); EuGH AS/DPMA (#darferdas?) (C-541/18)
 
@@ -342,7 +342,7 @@ Bei der Prüfung der Unterscheidungskraft sind alle wahrscheinlichen und praktis
 
 **A:** Von der Eintragung ausgeschlossen sind Zeichen, die ausschließlich aus Angaben bestehen, die im Verkehr zur Bezeichnung der Art, Beschaffenheit, Menge, Bestimmung, des Wertes, der geographischen Herkunft, der Zeit der Herstellung oder sonstiger Merkmale der Waren/Dienstleistungen dienen können.
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Rechtsprechung: BGH Black Friday (I ZB 21/20); EuGH Windsurfing Chiemsee (C-108/97); BGH HOT (I ZB 3/13); BGH marktfrisch (I ZB 42/98)
 
@@ -368,7 +368,7 @@ Von der Eintragung ausgeschlossen sind Zeichen, die ausschließlich aus Angaben 
 
 **A:** Ausgeschlossen sind Zeichen, die im allgemeinen Sprachgebrauch oder in den redlichen und ständigen Verkehrsgepflogenheiten zur Bezeichnung der Waren oder Dienstleistungen üblich geworden sind (Gattungsbezeichnungen, Freizeichen).
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 49 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 49 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 Rechtsprechung: BGH TÜV II (I ZR 108/09)
 
@@ -394,7 +394,7 @@ Ausgeschlossen sind Zeichen, die im allgemeinen Sprachgebrauch oder in den redli
 
 **A:** Ausgeschlossen sind Zeichen, die geeignet sind, das Publikum insbesondere über die Art, die Beschaffenheit oder die geographische Herkunft der Waren oder Dienstleistungen zu täuschen.
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 49 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 49 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 *Tags: Begriff, Schutzvoraussetzungen*
 
@@ -418,7 +418,7 @@ Ausgeschlossen sind Zeichen, die geeignet sind, das Publikum insbesondere über 
 
 **A:** Eine Anmeldung ist bösgläubig, wenn der Anmelder das Zeichen nicht zur Förderung des eigenen Absatzes, sondern rechtsmissbräuchlich oder sittenwidrig anmeldet, insbesondere um einen schutzwürdigen Besitzstand eines Vorbenutzers zu stören, Dritte zu behindern (Sperrmarke) oder Lizenzgebühren zu erpressen (Hinterhaltsmarke).
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 14](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 37 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
 
 Rechtsprechung: BGH GLÜCKSPILZ (I ZB 69/14); BGH EROS (I ZR 190/05); BGH Ivadal (I ZB 8/06); BPatG LIQUIDROM (30 W (pat) 32/12)
 
@@ -494,7 +494,7 @@ Markenschutz durch Benutzung entsteht, wenn ein Zeichen im geschäftlichen Verke
 
 **A:** Markenschutz entsteht auch ohne Eintragung oder Inlandsbenutzung, wenn die Marke im Inland i.S.d. Art. 6bis PVÜ notorisch, d.h. allgemein (auch außerhalb der Fachkreise) bekannt ist.
 
-Normen: [§ 4 Nr. 3](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 10 MarkenG](https://www.gesetze-im-internet.de/markeng/__10.html)
+Normen: [§ 4 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 10 MarkenG](https://www.gesetze-im-internet.de/markeng/__10.html)
 
 *Tags: Begriff, Grundlagen*
 
@@ -518,7 +518,7 @@ Markenschutz entsteht auch ohne Eintragung oder Inlandsbenutzung, wenn die Marke
 
 **A:** Ältere Rechte Dritter, die der Eintragung entgegenstehen und nur auf Widerspruch ([§ 42](https://www.gesetze-im-internet.de/markeng/__42.html)) oder Nichtigkeitsantrag/-klage ([§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html)) geltend gemacht werden: ältere Marken ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html): Identität, Verwechslungsgefahr, Bekanntheitsschutz), notorisch bekannte Marken ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html)), Agentenmarken ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html)), Benutzungsmarken und geschäftliche Bezeichnungen ([§ 12](https://www.gesetze-im-internet.de/markeng/__12.html)), sonstige ältere Rechte ([§ 13](https://www.gesetze-im-internet.de/markeng/__13.html): Name, Bildnis, Urheberrecht, Design usw.).
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 43 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 10](https://www.gesetze-im-internet.de/markeng/__10.html), [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 43 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 10 MarkenG](https://www.gesetze-im-internet.de/markeng/__10.html), [§ 11 MarkenG](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 12 MarkenG](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 13 MarkenG](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
 
 Rechtsprechung: BGH Springender Pudel (I ZR 59/13)
 
@@ -544,7 +544,7 @@ Rechtsprechung: BGH Springender Pudel (I ZR 59/13)
 
 **A:** Jede wirtschaftliche Tätigkeit, die auf die Erzielung eines wirtschaftlichen Vorteils gerichtet ist und nicht rein privat, wissenschaftlich, politisch oder hoheitlich ist. An das Merkmal sind keine hohen Anforderungen zu stellen.
 
-Normen: [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: EuGH Google France und Google (C-236/08 bis C-238/08)
 
@@ -570,7 +570,7 @@ Jede wirtschaftliche Tätigkeit, die auf die Erzielung eines wirtschaftlichen Vo
 
 **A:** Ungeschriebenes Tatbestandsmerkmal des [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html): Das Zeichen muss so benutzt werden, dass es die Funktionen der Marke, insbesondere die Herkunftsfunktion, beeinträchtigt oder beeinträchtigen kann, d.h. der Verkehr es als Hinweis auf die betriebliche Herkunft der Waren/Dienstleistungen versteht.
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
 Rechtsprechung: EuGH Arsenal Football Club (C-206/01); BGH Opel-Blitz II (I ZR 88/08); EuGH Adam Opel/Autec (C-48/05); BGH SAM (I ZR 195/17)
 
@@ -596,7 +596,7 @@ Ungeschriebenes Tatbestandsmerkmal des [§ 14 Abs. 2](https://www.gesetze-im-int
 
 **A:** Die Benutzung eines Zeichens ausschließlich als Unternehmensbezeichnung (Firma, Geschäftsbezeichnung) ist keine Benutzung 'für Waren oder Dienstleistungen' i.S.d. [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html); sie wird zur markenmäßigen Benutzung, wenn der Verkehr eine Verbindung zwischen der Bezeichnung und den vertriebenen Waren herstellt.
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 Nr. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: EuGH Céline (C-17/06)
 
@@ -622,7 +622,7 @@ Die Benutzung eines Zeichens ausschließlich als Unternehmensbezeichnung (Firma,
 
 **A:** Verletzung durch Benutzung eines mit der Marke identischen Zeichens für Waren oder Dienstleistungen, die mit denen identisch sind, für die die Marke Schutz genießt. Eine Verwechslungsgefahr muss nicht festgestellt werden.
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Rechtsprechung: EuGH L'Oréal/Bellure (C-487/07); EuGH Arsenal Football Club (C-206/01); BGH SAM (I ZR 195/17); BGH Kühlergrill (I ZR 61/18)
 
@@ -648,7 +648,7 @@ Verletzung durch Benutzung eines mit der Marke identischen Zeichens für Waren o
 
 **A:** Die Gefahr, dass das Publikum glauben könnte, die betreffenden Waren oder Dienstleistungen stammten aus demselben Unternehmen oder aus wirtschaftlich miteinander verbundenen Unternehmen. Sie ist umfassend unter Berücksichtigung aller Umstände des Einzelfalls zu beurteilen, insbesondere der Wechselwirkung zwischen Waren-/Dienstleistungsähnlichkeit, Zeichenähnlichkeit und Kennzeichnungskraft der älteren Marke.
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: EuGH SABEL/Puma (C-251/95); EuGH Canon (C-39/97); EuGH Lloyd Schuhfabrik Meyer (C-342/97); BGH Culinaria/Villa Culinaria (I ZR 85/11)
 
@@ -752,7 +752,7 @@ Die Faktoren der Verwechslungsgefahr – Ähnlichkeit der Waren/Dienstleistungen
 
 **A:** Waren oder Dienstleistungen sind ähnlich, wenn sie unter Berücksichtigung aller erheblichen Faktoren – Art, Verwendungszweck, Nutzung, Eigenart als konkurrierende oder einander ergänzende Produkte, regelmäßige Herstellungsstätten und Vertriebswege – so enge Berührungspunkte aufweisen, dass der Verkehr bei identischer Kennzeichnung annehmen könnte, sie stammten aus demselben oder wirtschaftlich verbundenen Unternehmen.
 
-Normen: [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Rechtsprechung: EuGH Canon (C-39/97); BGH DESPERADOS/DESPERADO (I ZB 63/12); BGH OTTO Cap (I ZR 49/12)
 
@@ -778,7 +778,7 @@ Waren oder Dienstleistungen sind ähnlich, wenn sie unter Berücksichtigung alle
 
 **A:** Die Eignung eines Zeichens, sich dem Publikum aufgrund seiner Eigenart und seines Bekanntheitsgrades als Marke einzuprägen und die gekennzeichneten Waren/Dienstleistungen als von einem bestimmten Unternehmen stammend zu identifizieren. Sie bestimmt den Schutzumfang der Marke im Kollisionsfall.
 
-Normen: [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Rechtsprechung: BGH Culinaria/Villa Culinaria (I ZR 85/11); BGH Kinder II (I ZR 94/04); BGH coccodrillo (Lacoste-Krokodil) (I ZB 40/03); EuGH Lloyd Schuhfabrik Meyer (C-342/97)
 
@@ -908,7 +908,7 @@ Verwechslungsgefahr kann auch bestehen, wenn eine ältere Marke in ein zusammeng
 
 **A:** Maßstab für Unterscheidungskraft und Verwechslungsgefahr ist der normal informierte, angemessen aufmerksame und verständige Durchschnittsverbraucher der betreffenden Waren/Dienstleistungen; bei Fachwaren die Fachkreise. Der Aufmerksamkeitsgrad variiert je nach Produktart (höher bei teuren/gesundheitsbezogenen Waren).
 
-Normen: [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
 Rechtsprechung: EuGH Lloyd Schuhfabrik Meyer (C-342/97); BGH Maalox/Melox-GRY (I ZB 52/09)
 
@@ -934,7 +934,7 @@ Maßstab für Unterscheidungskraft und Verwechslungsgefahr ist der normal inform
 
 **A:** Eine Marke ist bekannt, wenn sie einem bedeutenden Teil des Publikums bekannt ist, das von den durch die Marke erfassten Waren oder Dienstleistungen betroffen ist. Feste Prozentsätze gibt es nicht; zu berücksichtigen sind Marktanteil, Intensität, geographische Ausdehnung und Dauer der Benutzung sowie Werbeaufwand (General Motors).
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 15 Abs. 3](https://www.gesetze-im-internet.de/markeng/__15.html), [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) MarkenG
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 15 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)
 
 Rechtsprechung: EuGH General Motors/Yplon (Chevy) (C-375/97); BGH OTTO Cap (I ZR 49/12); BGH TÜV II (I ZR 108/09); BGH Lila-Postkarte (I ZR 159/02)
 
@@ -1142,7 +1142,7 @@ Der Markeninhaber kann einem Dritten nicht untersagen, im geschäftlichen Verkeh
 
 **A:** Die Benutzung einer fremden Marke ist zulässig, wenn sie als Hinweis auf die Bestimmung der eigenen Ware (Zubehör, Ersatzteil, Kompatibilität: 'passend für ...') notwendig ist und den anständigen Gepflogenheiten entspricht.
 
-Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 23 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 23 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 
 Rechtsprechung: EuGH Gillette/LA-Laboratories (C-228/03); BGH Staubsaugerfiltertüten (I ZR 34/02); BGH Kühlergrill (I ZR 61/18); BGH GROSSE INSPEKTION FÜR ALLE (I ZR 33/10)
 
@@ -1168,7 +1168,7 @@ Die Benutzung einer fremden Marke ist zulässig, wenn sie als Hinweis auf die Be
 
 **A:** Tragen zwei Unternehmen redlich denselben Namen, muss der Prioritätsjüngere grundsätzlich alles Erforderliche und Zumutbare tun, um Verwechslungen zu vermeiden (unterscheidende Zusätze); bei langjähriger Koexistenz kann eine Gleichgewichtslage entstehen, die keine Seite einseitig stören darf.
 
-Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 23 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: BGH Peek & Cloppenburg (I ZR 174/07); BGH shell.de (I ZR 138/99)
 
@@ -1194,7 +1194,7 @@ Tragen zwei Unternehmen redlich denselben Namen, muss der Prioritätsjüngere gr
 
 **A:** Der Markeninhaber kann die Benutzung der Marke für Waren nicht untersagen, die unter dieser Marke von ihm oder mit seiner Zustimmung im Inland, in einem EU-Mitgliedstaat oder EWR-Vertragsstaat in den Verkehr gebracht worden sind (EWR-weite, keine internationale Erschöpfung).
 
-Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 1](https://www.gesetze-im-internet.de/markeng/__24.html), [§ 30 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+Normen: [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 24 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html), [§ 30 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
 
 Rechtsprechung: EuGH Van Doren + Q. (stüssy) (C-244/00); BGH stüssy II (I ZR 193/97); BGH Converse I (I ZR 52/10); BGH Converse II (I ZR 137/10)
 
@@ -1348,7 +1348,7 @@ Ansprüche aus dem MarkenG verjähren nach den allgemeinen Vorschriften des BGB 
 
 **A:** Die Marke muss von ihrem Inhaber oder mit seiner Zustimmung ([§ 26 Abs. 2](https://www.gesetze-im-internet.de/markeng/__26.html)) im Inland ([§ 26 Abs. 1](https://www.gesetze-im-internet.de/markeng/__26.html)) für die eingetragenen Waren/Dienstleistungen ernsthaft benutzt worden sein, es sei denn, es liegen berechtigte Gründe für die Nichtbenutzung vor. Die Benutzung in abweichender Form genügt, wenn die Abweichungen den kennzeichnenden Charakter nicht verändern ([§ 26 Abs. 3](https://www.gesetze-im-internet.de/markeng/__26.html)); Anbringen auf Waren zum Export genügt ([§ 26 Abs. 4](https://www.gesetze-im-internet.de/markeng/__26.html)).
 
-Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 32 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 32 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 25 MarkenG](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 Rechtsprechung: EuGH Ansul/Ajax (C-40/01); BGH VOODOO (I ZR 106/11); BGH LOTTOCARD (I ZR 167/05); BGH Probiotik (I ZR 38/13)
 
@@ -1426,7 +1426,7 @@ Als Benutzung gilt auch die Benutzung in einer Form, die von der Eintragung abwe
 
 **A:** Innerhalb von fünf Jahren nach der Eintragung (bzw. nach Abschluss eines Widerspruchsverfahrens, [§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html)) ist die Nichtbenutzung unschädlich. Erst danach können Ansprüche wegen Nichtbenutzung ausgeschlossen ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html)) und die Marke für verfallen erklärt werden ([§ 49 Abs. 1](https://www.gesetze-im-internet.de/markeng/__49.html)).
 
-Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25 Abs. 1](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 49 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 49 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 *Tags: Begriff, Benutzungszwang*
 
@@ -1450,7 +1450,7 @@ Innerhalb von fünf Jahren nach der Eintragung (bzw. nach Abschluss eines Widers
 
 **A:** Im Verletzungsprozess ([§ 25 Abs. 2](https://www.gesetze-im-internet.de/markeng/__25.html)) und im Widerspruchsverfahren ([§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)) kann der Gegner die Einrede erheben, die Marke sei innerhalb der letzten fünf Jahre nicht rechtserhaltend benutzt worden; dann muss der Inhaber die Benutzung nachweisen (im Verletzungsprozess) bzw. glaubhaft machen (im Widerspruchsverfahren).
 
-Normen: [Art. 17 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html)
+Normen: [Art. 17 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25 MarkenG](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html)
 
 Rechtsprechung: BGH VOODOO (I ZR 106/11); BPatG SILVER HORSE/POWER HORSE (26 W (pat) 38/17); BGH Silver Horse/Power Horse (I ZB 65/22)
 
@@ -1476,7 +1476,7 @@ Im Verletzungsprozess ([§ 25 Abs. 2](https://www.gesetze-im-internet.de/markeng
 
 **A:** Die Marke wird auf Antrag für verfallen erklärt und gelöscht, wenn (1) sie nach der Eintragung fünf Jahre ununterbrochen nicht rechtserhaltend benutzt wurde (Abs. 1), (2) sie infolge des Verhaltens des Inhabers zur gebräuchlichen Bezeichnung geworden ist (Abs. 2 Nr. 1), (3) sie infolge ihrer Benutzung täuschend geworden ist (Abs. 2 Nr. 2) oder (4) der Inhaber die Voraussetzungen des [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html) nicht mehr erfüllt (Abs. 2 Nr. 3).
 
-Normen: [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 21 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 35 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 47 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html), [§ 52 Abs. 1](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
+Normen: [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 21 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 35 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 47 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html), [§ 52 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
 
 Rechtsprechung: BGH VOODOO (I ZR 106/11); BGH TÜV II (I ZR 108/09); BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22)
 
@@ -1502,7 +1502,7 @@ Die Marke wird auf Antrag für verfallen erklärt und gelöscht, wenn (1) sie na
 
 **A:** Die Eintragung wird auf Antrag für nichtig erklärt und gelöscht, wenn die Marke entgegen §§ [3](https://www.gesetze-im-internet.de/markeng/__3.html), [7](https://www.gesetze-im-internet.de/markeng/__7.html) oder 8 eingetragen wurde ([§ 50](https://www.gesetze-im-internet.de/markeng/__50.html) – absolute Schutzhindernisse) oder ihr ein Recht mit älterem Zeitrang i.S.d. §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html) entgegensteht ([§ 51](https://www.gesetze-im-internet.de/markeng/__51.html) – relative Nichtigkeitsgründe).
 
-Normen: [Art. 7 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 36 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 47 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 52 Abs. 2](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
+Normen: [Art. 7 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 36 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 47 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 52 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__52.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
 
 Rechtsprechung: BGH smartbook (I ZB 59/12); BGH Sparkassen-Rot (I ZB 52/15); BGH Black Friday (I ZB 21/20); BGH Quadratische Tafelschokoladenverpackung II (I ZB 42/19)
 
@@ -1528,7 +1528,7 @@ Die Eintragung wird auf Antrag für nichtig erklärt und gelöscht, wenn die Mar
 
 **A:** Innerhalb von drei Monaten nach Veröffentlichung der Eintragung kann der Inhaber eines älteren Rechts (ältere Marke, notorisch bekannte Marke, Benutzungsmarke, geschäftliche Bezeichnung, geschützte Ursprungsbezeichnung) beim DPMA Widerspruch gegen die Eintragung erheben ([§ 42](https://www.gesetze-im-internet.de/markeng/__42.html)). Auf Einrede muss er die Benutzung seiner älteren Marke glaubhaft machen ([§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)).
 
-Normen: [Art. 43 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 43](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 66](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 83](https://www.gesetze-im-internet.de/markeng/__83.html), [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) MarkenG
+Normen: [Art. 43 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 42 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 43 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html), [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)
 
 Rechtsprechung: BGH Maalox/Melox-GRY (I ZB 52/09); BGH DESPERADOS/DESPERADO (I ZB 63/12); BGH Silver Horse/Power Horse (I ZB 65/22); BPatG Aussetzung bei Nichtigkeitsantrag gegen die Unionswiderspruchsmarke (29 W (pat) 522/20)
 
@@ -1554,7 +1554,7 @@ Innerhalb von drei Monaten nach Veröffentlichung der Eintragung kann der Inhabe
 
 **A:** Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen ausschließlich oder nicht ausschließlich, räumlich oder sachlich beschränkt lizenziert werden ([§ 30 Abs. 1](https://www.gesetze-im-internet.de/markeng/__30.html)). Bei Verstoß des Lizenznehmers gegen die in [§ 30 Abs. 2](https://www.gesetze-im-internet.de/markeng/__30.html) genannten Beschränkungen kann der Inhaber die Marke gegen ihn geltend machen; ein Inverkehrbringen unter Verstoß gegen diese Beschränkungen erfolgt ohne Zustimmung (keine Erschöpfung).
 
-Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 30](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 27 MarkenG](https://www.gesetze-im-internet.de/markeng/__27.html)
+Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 30 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 27 MarkenG](https://www.gesetze-im-internet.de/markeng/__27.html)
 
 Rechtsprechung: BGH Converse II (I ZR 137/10)
 
@@ -1580,7 +1580,7 @@ Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen aussch
 
 **A:** Anspruchsberechtigt ist der Markeninhaber ([§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 Abs. 1](https://www.gesetze-im-internet.de/markeng/__28.html): Vermutung der Inhaberschaft für den Eingetragenen) sowie der Lizenznehmer unter den Voraussetzungen des [§ 30 Abs. 3](https://www.gesetze-im-internet.de/markeng/__30.html).
 
-Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 5 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 5 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1604,7 +1604,7 @@ Anspruchsberechtigt ist der Markeninhaber ([§ 14 Abs. 1](https://www.gesetze-im
 
 **A:** Wer ein Zeichen entgegen [§ 14 Abs. 2 bis 4](https://www.gesetze-im-internet.de/markeng/__14.html) benutzt, kann vom Markeninhaber bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Anspruch besteht auch bei Erstbegehungsgefahr ([§ 14 Abs. 5 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html)). Verschulden ist nicht erforderlich.
 
-Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
 
 Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH ORTLIEB II (I ZR 29/18); BGH Hard Rock Cafe (I ZR 188/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)
 
@@ -1630,7 +1630,7 @@ Wer ein Zeichen entgegen [§ 14 Abs. 2 bis 4](https://www.gesetze-im-internet.de
 
 **A:** Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des entstandenen Schadens verpflichtet. Berechnung nach Wahl des Verletzten: (1) konkreter Schaden inkl. entgangenem Gewinn, (2) Herausgabe des Verletzergewinns ([§ 14 Abs. 6 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html)), (3) angemessene Lizenzgebühr (Lizenzanalogie, [§ 14 Abs. 6 S. 3](https://www.gesetze-im-internet.de/markeng/__14.html)).
 
-Normen: [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Normen: [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
 
 Rechtsprechung: BGH BTK (I ZR 169/07); EuGH Liffers/Mandarina (C-99/15); EuGH OTK/Stowarzyszenie Filmowców Polskich (C-367/15)
 
@@ -1682,7 +1682,7 @@ Methode der Schadensberechnung: Der Verletzer schuldet den Betrag, den er als an
 
 **A:** Der Verletzte kann Vernichtung der widerrechtlich gekennzeichneten Waren und der Herstellungsmittel ([§ 18 Abs. 1](https://www.gesetze-im-internet.de/markeng/__18.html)) sowie Rückruf und Entfernung aus den Vertriebswegen ([§ 18 Abs. 2](https://www.gesetze-im-internet.de/markeng/__18.html)) verlangen, soweit verhältnismäßig ([§ 18 Abs. 3](https://www.gesetze-im-internet.de/markeng/__18.html)). Ferner Auskunft über Herkunft und Vertriebsweg ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)), auch gegen Dritte ([§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html)), bei offensichtlicher Verletzung im Eilverfahren ([§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html)).
 
-Normen: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+Normen: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
 
 Rechtsprechung: EuGH NEW WAVE CZ/ALLTOYS (C-427/15)
 
@@ -1708,7 +1708,7 @@ Der Verletzte kann Vernichtung der widerrechtlich gekennzeichneten Waren und der
 
 **A:** Täter ist, wer die Verletzungshandlung selbst (oder mittäterschaftlich) begeht; Teilnehmer (Anstifter/Gehilfe) haftet bei vorsätzlicher Beteiligung an einer vorsätzlichen Haupttat; Störer ist, wer willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt – er haftet nur auf Unterlassung, nicht auf Schadensersatz.
 
-Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
 Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühle im Internet (I ZR 139/08); BGH Tork (I ZR 136/17); EuGH L'Oréal/eBay (C-324/09)
 
@@ -1734,7 +1734,7 @@ Täter ist, wer die Verletzungshandlung selbst (oder mittäterschaftlich) begeht
 
 **A:** Richtlinie des Europäischen Parlaments und des Rates vom 29.4.2004 zur Durchsetzung der Rechte des geistigen Eigentums (ABl. L 157, S. 45; berichtigt ABl. L 195, S. 16). Sie harmonisiert nicht das materielle Recht, sondern die zivilrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe bei Verletzung aller Rechte des geistigen Eigentums (Art. 1, 2): Beweise, Auskunft, einstweilige Maßnahmen, Rückruf und Vernichtung, Unterlassung, Schadensersatz, Kosten und Urteilsveröffentlichung.
 
-Normen: [Art. 1 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 17 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 18 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 19 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 20 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 21 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 22 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+Normen: [Art. 1 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 17 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 18 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 19 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 20 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 21 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 22 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
 
 Rechtsprechung: EuGH OTK/Stowarzyszenie Filmowców Polskich (C-367/15); EuGH Mircom/Telenet (C-597/19); EuGH NovaText/Universität Heidelberg (C-531/20); EuGH Promusicae/Telefónica (C-275/06)
 
@@ -1760,7 +1760,7 @@ Richtlinie des Europäischen Parlaments und des Rates vom 29.4.2004 zur Durchset
 
 **A:** Rechtsverletzungen, die zur Erlangung eines unmittelbaren oder mittelbaren wirtschaftlichen oder kommerziellen Vorteils vorgenommen werden; Handlungen gutgläubiger Endverbraucher sind in der Regel ausgeschlossen (Erwägungsgrund 14 DurchsetzungsRL). Voraussetzung der Drittauskunft ([§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html)), der Vorlage von Bank-, Finanz- und Handelsunterlagen ([§ 19a Abs. 1 S. 2](https://www.gesetze-im-internet.de/markeng/__19a.html)) und der Sicherung von Schadensersatz ([§ 19b Abs. 1](https://www.gesetze-im-internet.de/markeng/__19b.html)).
 
-Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
 Rechtsprechung: EuGH Mircom/Telenet (C-597/19)
 
@@ -1786,7 +1786,7 @@ Rechtsverletzungen, die zur Erlangung eines unmittelbaren oder mittelbaren wirts
 
 **A:** Bei offensichtlicher Rechtsverletzung oder nach Klageerhebung gegen den Verletzer richtet sich der Anspruch auf Auskunft über Herkunft und Vertriebsweg auch gegen Dritte, die in gewerblichem Ausmaß rechtsverletzende Ware besaßen, rechtsverletzende Dienstleistungen in Anspruch nahmen oder für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbrachten oder nach Angaben eines solchen an Herstellung oder Vertrieb beteiligt waren ([§ 19 Abs. 2 S. 1 Nr. 1 bis 4](https://www.gesetze-im-internet.de/markeng/__19.html) = [Art. 8 Abs. 1 lit. a bis d DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))). Ausgenommen sind Zeugnisverweigerungsberechtigte nach §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO.
 
-Normen: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Normen: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
 
 Rechtsprechung: EuGH Coty Germany/Stadtsparkasse Magdeburg (C-580/13); BGH Davidoff Hot Water II (I ZR 51/12); EuGH Constantin Film Verleih/YouTube (C-264/19); EuGH NEW WAVE CZ/ALLTOYS (C-427/15)
 
@@ -1838,7 +1838,7 @@ Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung kann der Inhaber vom
 
 **A:** Bei einer in gewerblichem Ausmaß begangenen Verletzung kann der Verletzte vom Verletzer die Vorlage von Bank-, Finanz- oder Handelsunterlagen verlangen, die für die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn ohne sie dessen Erfüllung fraglich ist ([§ 19b Abs. 1](https://www.gesetze-im-internet.de/markeng/__19b.html); [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
 
-Normen: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+Normen: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1862,7 +1862,7 @@ Bei einer in gewerblichem Ausmaß begangenen Verletzung kann der Verletzte vom V
 
 **A:** Unterlassungs-, Auskunfts- ([§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html)) und Vorlageansprüche ([§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html)) können im Eilverfahren nach [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) gesichert werden; für Unterlassungsansprüche entfällt die Darlegung und Glaubhaftmachung des Verfügungsgrundes ([§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html): Dringlichkeitsvermutung, seit dem MaMoG 2019, widerlegt durch zögerliches Vorgehen des Antragstellers). Unionsrechtlicher Rahmen ist [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); die Vermutung selbst verlangt er nicht.
 
-Normen: [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+Normen: [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
 
 Rechtsprechung: EuGH Bayer Pharma/Richter Gedeon (C-688/17)
 
@@ -1888,7 +1888,7 @@ Unterlassungs-, Auskunfts- ([§ 19 Abs. 7](https://www.gesetze-im-internet.de/ma
 
 **A:** Rechtsinhaber müssen eine gerichtliche Anordnung gegen Mittelspersonen beantragen können, deren Dienste ein Dritter zur Verletzung nutzt (Art. 11 S. 3, [Art. 9 Abs. 1 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))), unabhängig von einer eigenen Haftung der Mittelsperson. Deutschland setzt das durch die Störerhaftung um: Unterlassungsanspruch aus [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html) gegen den, der willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt.
 
-Normen: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Normen: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
 
 Rechtsprechung: EuGH L'Oréal/eBay (C-324/09); EuGH Tommy Hilfiger/Delta Center (C-494/15); BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühle im Internet (I ZR 139/08)
 
@@ -1914,7 +1914,7 @@ Rechtsinhaber müssen eine gerichtliche Anordnung gegen Mittelspersonen beantrag
 
 **A:** Die Prozesskosten und sonstigen Kosten der obsiegenden Partei trägt in der Regel die unterlegene Partei, soweit sie zumutbar und angemessen sind ([Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html)). In Kennzeichenstreitsachen sind die Gebühren eines mitwirkenden Patentanwalts nach [§ 13 RVG](https://www.gesetze-im-internet.de/rvg/__13.html) und seine notwendigen Auslagen zu erstatten ([§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html)), nach EuGH NovaText und BGH Kosten des Patentanwalts VII aber nur, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war.
 
-Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html)
+Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html)
 
 Rechtsprechung: EuGH NovaText/Universität Heidelberg (C-531/20); BGH Kosten des Patentanwalts VII (I ZB 59/19); EuGH Koch Media/FU (C-559/20); EuGH United Video Properties/Telenet (C-57/15)
 
@@ -1964,7 +1964,7 @@ Ist Klage aus dem MarkenG erhoben, kann der obsiegenden Partei im Urteil die Bef
 
 **A:** Die Buchung einer fremden Marke als Schlüsselwort für Suchmaschinenwerbung ist eine Benutzung im geschäftlichen Verkehr für Waren/Dienstleistungen. Sie verletzt die Herkunftsfunktion nur, wenn aus der Anzeige für den normal informierten Internetnutzer nicht oder nur schwer zu erkennen ist, ob die beworbenen Waren vom Markeninhaber, einem verbundenen Unternehmen oder einem Dritten stammen.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
 Rechtsprechung: EuGH Google France und Google (C-236/08 bis C-238/08); BGH Bananabay II (I ZR 125/07); BGH MOST-Pralinen (I ZR 217/10); BGH Fleurop (I ZR 53/12)
 
@@ -1990,7 +1990,7 @@ Die Buchung einer fremden Marke als Schlüsselwort für Suchmaschinenwerbung ist
 
 **A:** Oberbegriff für Unternehmenskennzeichen ([§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html)) und Werktitel ([§ 5 Abs. 3](https://www.gesetze-im-internet.de/markeng/__5.html)). Sie entstehen ohne Eintragung durch Benutzung und gewähren ein ausschließliches Recht nach [§ 15](https://www.gesetze-im-internet.de/markeng/__15.html).
 
-Normen: [§ 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__1.html), [§ 5](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [§ 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html), [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 *Tags: Begriff, Geschäftliche Bezeichnungen*
 
@@ -2014,7 +2014,7 @@ Oberbegriff für Unternehmenskennzeichen ([§ 5 Abs. 2](https://www.gesetze-im-i
 
 **A:** Zeichen, die im geschäftlichen Verkehr als Name, Firma oder besondere Bezeichnung eines Geschäftsbetriebs oder Unternehmens benutzt werden ([§ 5 Abs. 2 S. 1](https://www.gesetze-im-internet.de/markeng/__5.html)); Geschäftsabzeichen und sonstige Unterscheidungszeichen stehen ihnen bei Verkehrsgeltung gleich ([§ 5 Abs. 2 S. 2](https://www.gesetze-im-internet.de/markeng/__5.html)).
 
-Normen: [§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: BGH soco.de (I ZR 135/01); BGH defacto (I ZR 230/99); BGH Peek & Cloppenburg (I ZR 174/07); BGH Baumann II (I ZR 241/14)
 
@@ -2092,7 +2092,7 @@ Bei der Verwechslungsgefahr zwischen Unternehmenskennzeichen ([§ 15 Abs. 2](htt
 
 **A:** Namen oder besondere Bezeichnungen von Druckschriften, Filmwerken, Tonwerken, Bühnenwerken oder sonstigen vergleichbaren Werken (auch Software, Apps, Spiele, Internetangebote). Der Titel kennzeichnet das Werk als solches (Individualisierungsfunktion), nicht seine betriebliche Herkunft.
 
-Normen: [§ 5 Abs. 3](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [§ 5 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: BGH wetter.de (I ZR 202/14); BGH Das Omen (I ZR 97/17); BGH Augsburger Puppenkiste (I ZR 200/06); BGH Die Vision (I ZB 35/09)
 
@@ -2118,7 +2118,7 @@ Namen oder besondere Bezeichnungen von Druckschriften, Filmwerken, Tonwerken, B�
 
 **A:** Ein Domainname ist selbst kein Kennzeichenrecht, kann aber durch Benutzung im geschäftlichen Verkehr als Unternehmenskennzeichen ([§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html)), Werktitel ([§ 5 Abs. 3](https://www.gesetze-im-internet.de/markeng/__5.html)) oder – bei Verkehrsgeltung – als Benutzungsmarke ([§ 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__4.html)) Schutz erlangen. Die Registrierung allein begründet kein Kennzeichenrecht.
 
-Normen: [§ 5](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 14](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Rechtsprechung: BGH soco.de (I ZR 135/01); BGH shell.de (I ZR 138/99); BGH wetter.de (I ZR 202/14)
 
@@ -2144,7 +2144,7 @@ Ein Domainname ist selbst kein Kennzeichenrecht, kann aber durch Benutzung im ge
 
 **A:** Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https://www.gesetze-im-internet.de/markeng/__2.html)). Nach Aufgabe der 'Vorrangthese' (Hard Rock Cafe) können lauterkeitsrechtliche Ansprüche ([§§ 4 Nr. 3, 5 Abs. 2 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)) neben kennzeichenrechtlichen bestehen; Wertungswidersprüche zu den markenrechtlichen Schranken sind aber zu vermeiden.
 
-Normen: [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 2](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 126 MarkenG](https://www.gesetze-im-internet.de/markeng/__126.html)
+Normen: [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 126 MarkenG](https://www.gesetze-im-internet.de/markeng/__126.html)
 
 Rechtsprechung: BGH Hard Rock Cafe (I ZR 188/11)
 
@@ -2170,7 +2170,7 @@ Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https
 
 **A:** Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung der geographischen Herkunft von Waren oder Dienstleistungen benutzt werden ([§ 126 Abs. 1](https://www.gesetze-im-internet.de/markeng/__126.html)). Sie dürfen nicht für Waren anderer Herkunft benutzt werden, wenn Irreführungsgefahr besteht ([§ 127 Abs. 1](https://www.gesetze-im-internet.de/markeng/__127.html)); qualifizierte Angaben und bekannte Angaben genießen erweiterten Schutz ([§ 127 Abs. 2, 3](https://www.gesetze-im-internet.de/markeng/__127.html)).
 
-Normen: [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 126](https://www.gesetze-im-internet.de/markeng/__126.html), [§ 127](https://www.gesetze-im-internet.de/markeng/__127.html), [§ 128](https://www.gesetze-im-internet.de/markeng/__128.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
+Normen: [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 126 MarkenG](https://www.gesetze-im-internet.de/markeng/__126.html), [§ 127 MarkenG](https://www.gesetze-im-internet.de/markeng/__127.html), [§ 128 MarkenG](https://www.gesetze-im-internet.de/markeng/__128.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
 
 Rechtsprechung: EuGH Windsurfing Chiemsee (C-108/97); BPatG Öresundbrücke (26 W (pat) 2/20); BGH Deutscher Balsamico (Vorlagebeschluss) (I ZR 253/16); EuGH Aceto Balsamico di Modena (Balema) (C-432/18)
 
@@ -2196,7 +2196,7 @@ Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Ze
 
 **A:** Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen der Mitglieder nach Herkunft, Beschaffenheit oder sonstigen Eigenschaften unterscheidet ([§ 97](https://www.gesetze-im-internet.de/markeng/__97.html)); auch geographische Herkunftsangaben sind eintragbar ([§ 99](https://www.gesetze-im-internet.de/markeng/__99.html)). Gewährleistungsmarke: Marke, die Waren/Dienstleistungen hinsichtlich garantierter Eigenschaften (Material, Qualität, Herstellungsweise) von anderen unterscheidet, deren Inhaber die Waren nicht selbst vertreibt ([§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html)).
 
-Normen: [Art. 27 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 28 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 30 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 31 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 32 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 33 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 35 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 36 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 97](https://www.gesetze-im-internet.de/markeng/__97.html), [§ 99](https://www.gesetze-im-internet.de/markeng/__99.html), [§ 102](https://www.gesetze-im-internet.de/markeng/__102.html), [§ 106a MarkenG](https://www.gesetze-im-internet.de/markeng/__106a.html)
+Normen: [Art. 27 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 28 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 30 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 31 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 32 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 33 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 35 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 36 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 97 MarkenG](https://www.gesetze-im-internet.de/markeng/__97.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html), [§ 102 MarkenG](https://www.gesetze-im-internet.de/markeng/__102.html), [§ 106a MarkenG](https://www.gesetze-im-internet.de/markeng/__106a.html)
 
 Rechtsprechung: BGH ÖKO-TEST II (I ZR 117/17)
 
@@ -2222,7 +2222,7 @@ Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen 
 
 **A:** Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewährt einheitlichen Schutz im gesamten Gebiet der EU (Einheitlichkeitsgrundsatz, [Art. 1 Abs. 2 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Sie besteht neben den nationalen Marken (Koexistenz); beide Systeme sind über [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html) und [Art. 8 Abs. 2 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) wechselseitig als ältere Rechte verzahnt.
 
-Normen: [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125e MarkenG](https://www.gesetze-im-internet.de/markeng/__125e.html)
+Normen: [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 125c MarkenG](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d MarkenG](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125e MarkenG](https://www.gesetze-im-internet.de/markeng/__125e.html)
 
 Rechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)
 
@@ -2248,7 +2248,7 @@ Die Unionsmarke (VO (EU) 2017/1001, UMV) wird beim EUIPO eingetragen und gewähr
 
 **A:** Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer angemeldeten oder eingetragenen älteren Marke identisch oder ihr ähnlich ist, die ältere Marke im Inland bekannt ist und die Benutzung der jüngeren Marke die Unterscheidungskraft oder die Wertschätzung der bekannten Marke ohne rechtfertigenden Grund in unlauterer Weise ausnutzen oder beeinträchtigen würde.
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 22 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html), [§ 42 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 22 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html)
 
 Rechtsprechung: BGH Springender Pudel (I ZR 59/13); EuGH Intel/CPM (INTELMARK) (C-252/07); EuGH General Motors/Yplon (Chevy) (C-375/97); EuGH Iron & Smith/Unilever (C-125/14)
 
@@ -2274,7 +2274,7 @@ Die Eintragung einer jüngeren Marke kann gelöscht werden, wenn sie mit einer a
 
 **A:** Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jüngeren Marke nicht untersagen, wenn ein Nichtigkeitsantrag gegen sie zurückgewiesen wurde oder zurückzuweisen wäre, weil (1) das ältere Zeichen am Prioritätstag der jüngeren Marke noch nicht bekannt war ([§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html)), (2) die ältere Marke damals löschungsreif war ([§ 51 Abs. 4](https://www.gesetze-im-internet.de/markeng/__51.html)) oder (3) damals noch keine Verwechslungsgefahr bestand ([§ 22 Abs. 1](https://www.gesetze-im-internet.de/markeng/__22.html)). Umgekehrt kann auch der Inhaber der jüngeren Marke die ältere nicht untersagen ([§ 22 Abs. 2](https://www.gesetze-im-internet.de/markeng/__22.html)): Koexistenz.
 
-Normen: [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 18 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 51 Abs. 4](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
+Normen: [Art. 8 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 18 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 22 MarkenG](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 51 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
 
 *Tags: Begriff, Schranken*
 
@@ -2298,7 +2298,7 @@ Der Inhaber des älteren Kennzeichens kann die Benutzung einer eingetragenen jü
 
 **A:** Wird aus einer Unionsmarke nach [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) gegen eine deutsche Marke vorgegangen, tritt an die Stelle der Bekanntheit im Inland die Bekanntheit in der Union. Sie liegt vor, wenn die Marke einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist; ein einziger Mitgliedstaat kann genügen (PAGO).
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Rechtsprechung: EuGH PAGO/Tirolmilch (C-301/07); EuGH Iron & Smith/Unilever (C-125/14); EuGH General Motors/Yplon (Chevy) (C-375/97)
 
@@ -2324,7 +2324,7 @@ Wird aus einer Unionsmarke nach [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-inter
 
 **A:** Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html) die ernsthafte Benutzung in der Union nach [Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001). Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
 
-Normen: [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)
+Normen: [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)
 
 Rechtsprechung: EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH Ansul/Ajax (C-40/01)
 
@@ -2350,7 +2350,7 @@ Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stell
 
 **A:** Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben ([Art. 124 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); in Deutschland die von den Ländern bestimmten Landgerichte, [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html)). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
 
-Normen: [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), [§ 125g](https://www.gesetze-im-internet.de/markeng/__125g.html), [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
+Normen: [§ 125e MarkenG](https://www.gesetze-im-internet.de/markeng/__125e.html), [§ 125g MarkenG](https://www.gesetze-im-internet.de/markeng/__125g.html), [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
 
 Rechtsprechung: EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09); EuGH combit Software/Commit Business Solutions (C-223/15)
 
@@ -2376,7 +2376,7 @@ Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengeri
 
 **A:** Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden ([Art. 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
 
-Normen: [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125 MarkenG](https://www.gesetze-im-internet.de/markeng/__125.html)
+Normen: [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125c MarkenG](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d MarkenG](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125 MarkenG](https://www.gesetze-im-internet.de/markeng/__125.html)
 
 *Tags: Begriff, EU- und IR-Marken*
 
@@ -2400,7 +2400,7 @@ Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren 
 
 **A:** Marke, die über die WIPO auf Grundlage einer Basismarke/-anmeldung nach dem Madrider Markenabkommen (MMA, §§ [107](https://www.gesetze-im-internet.de/markeng/__107.html)-[118](https://www.gesetze-im-internet.de/markeng/__118.html)) oder – heute praktisch ausschließlich – dem Protokoll zum MMA (PMMA, §§ [119](https://www.gesetze-im-internet.de/markeng/__119.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)) international registriert und auf Deutschland erstreckt wurde. Sie hat dieselbe Wirkung wie eine am Tag der internationalen Registrierung (bzw. der nachträglichen Schutzerstreckung) beim DPMA angemeldete und eingetragene Marke ([§ 112](https://www.gesetze-im-internet.de/markeng/__112.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html)).
 
-Normen: [§ 112](https://www.gesetze-im-internet.de/markeng/__112.html), [§ 116](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 119](https://www.gesetze-im-internet.de/markeng/__119.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 125 MarkenG](https://www.gesetze-im-internet.de/markeng/__125.html)
+Normen: [§ 112 MarkenG](https://www.gesetze-im-internet.de/markeng/__112.html), [§ 116 MarkenG](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 119 MarkenG](https://www.gesetze-im-internet.de/markeng/__119.html), [§ 124 MarkenG](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 125 MarkenG](https://www.gesetze-im-internet.de/markeng/__125.html)
 
 Rechtsprechung: BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22)
 
@@ -2426,7 +2426,7 @@ Marke, die über die WIPO auf Grundlage einer Basismarke/-anmeldung nach dem Mad
 
 **A:** Das DPMA prüft die auf Deutschland erstreckte IR-Marke auf absolute Schutzhindernisse wie eine Anmeldung ([§ 113](https://www.gesetze-im-internet.de/markeng/__113.html)) und muss eine Schutzverweigerung innerhalb der Frist des Art. 5 Abs. 2 PMMA (12 bzw. 18 Monate) an die WIPO mitteilen. Der Widerspruch ([§ 114](https://www.gesetze-im-internet.de/markeng/__114.html)) richtet sich gegen die Schutzgewährung; die Frist beginnt mit dem ersten Tag des Monats nach dem Ausgabemonat der WIPO-Gazette. An die Stelle der Löschung tritt die Verweigerung bzw. nachträgliche Entziehung des Schutzes ([§ 114 Abs. 3](https://www.gesetze-im-internet.de/markeng/__114.html), [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html)).
 
-Normen: [§ 113](https://www.gesetze-im-internet.de/markeng/__113.html), [§ 114](https://www.gesetze-im-internet.de/markeng/__114.html), [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 124 MarkenG](https://www.gesetze-im-internet.de/markeng/__124.html)
+Normen: [§ 113 MarkenG](https://www.gesetze-im-internet.de/markeng/__113.html), [§ 114 MarkenG](https://www.gesetze-im-internet.de/markeng/__114.html), [§ 115 MarkenG](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 124 MarkenG](https://www.gesetze-im-internet.de/markeng/__124.html)
 
 *Tags: Begriff, EU- und IR-Marken*
 
@@ -2450,7 +2450,7 @@ Das DPMA prüft die auf Deutschland erstreckte IR-Marke auf absolute Schutzhinde
 
 **A:** Für IR-Marken tritt an die Stelle des Eintragungstags ([§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html)) einer der in [§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html) bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.
 
-Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 116](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 115 MarkenG](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 116 MarkenG](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 117 MarkenG](https://www.gesetze-im-internet.de/markeng/__117.html), [§ 124 MarkenG](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 25 MarkenG](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 
 *Tags: Begriff, EU- und IR-Marken*
 
@@ -2526,7 +2526,7 @@ Nationale Gerichte und das DPMA müssen das MarkenG so auslegen, dass Wortlaut u
 
 **A:** Der Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 16 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14a](https://www.gesetze-im-internet.de/markeng/__14a.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 16 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
 
 *Tags: Begriff, Verletzung*
 
@@ -2574,7 +2574,7 @@ Der Inhaber kann Dritten verbieten, die Marke auf Aufmachungen, Verpackungen, Et
 
 **A:** Meldet ein Agent oder Vertreter des Markeninhabers dessen Marke ohne Zustimmung auf eigenen Namen an, ist die Eintragung löschbar ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), relatives Schutzhindernis) und der Inhaber kann die Übertragung der Marke sowie Unterlassung verlangen ([§ 17](https://www.gesetze-im-internet.de/markeng/__17.html)).
 
-Normen: [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 17 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
+Normen: [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 11 MarkenG](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 17 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
 
 *Tags: Begriff, Schutzvoraussetzungen*
 
@@ -2598,7 +2598,7 @@ Meldet ein Agent oder Vertreter des Markeninhabers dessen Marke ohne Zustimmung 
 
 **A:** Erweckt die Wiedergabe einer eingetragenen Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck einer Gattungsbezeichnung, kann der Inhaber vom Verleger verlangen, dass spätestens bei der nächsten Auflage ein Hinweis auf die Eintragung als Marke aufgenommen wird.
 
-Normen: [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 16](https://www.gesetze-im-internet.de/markeng/__16.html), [§ 49 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html), [§ 49 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
 Rechtsprechung: BGH TÜV II (I ZR 108/09)
 
@@ -2624,7 +2624,7 @@ Erweckt die Wiedergabe einer eingetragenen Marke in einem Wörterbuch, Lexikon o
 
 **A:** Die Waren und Dienstleistungen sind nach der Nizza-Klassifikation so klar und eindeutig anzugeben, dass Behörden und Wirtschaftsteilnehmer den Schutzumfang bestimmen können. Allgemeine Begriffe und Klassenüberschriften umfassen nur, was von ihrer wörtlichen Bedeutung eindeutig erfasst ist (EuGH IP Translator, C-307/10; [Art. 39 Abs. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)).
 
-Normen: [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 32](https://www.gesetze-im-internet.de/markeng/__32.html), [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 39 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html), [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 *Tags: Begriff, Verfahren*
 
@@ -2648,7 +2648,7 @@ Die Waren und Dienstleistungen sind nach der Nizza-Klassifikation so klar und ei
 
 **A:** [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) verpflichtet die Mitgliedstaaten, ein effizientes und zügiges Verwaltungsverfahren vor dem Markenamt für die Erklärung des Verfalls und der Nichtigkeit vorzusehen. Deutschland hat es seit 1.5.2020 in [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html) als vollständiges Verfahren vor dem DPMA ausgestaltet; daneben bleibt die Klage vor dem Landgericht nach [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) für Verfall und relative Nichtigkeit.
 
-Normen: [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54](https://www.gesetze-im-internet.de/markeng/__54.html), [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) MarkenG
+Normen: [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54 MarkenG](https://www.gesetze-im-internet.de/markeng/__54.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html), [Art. 46 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)
 
 Rechtsprechung: BGH Black Friday (I ZB 21/20); BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22)
 
@@ -2698,7 +2698,7 @@ Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag und kann beliebig oft um z
 
 **A:** Beteiligtenfähig ist, wer Träger von Rechten und Pflichten sein kann; im Markenverfahren folgt das aus [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html) (natürliche Personen, juristische Personen, rechtsfähige Personengesellschaften). Prozessfähig ist, wer Verfahrenshandlungen selbst oder durch einen selbst bestellten Vertreter wirksam vornehmen kann; juristische Personen handeln durch ihr vertretungsberechtigtes Organ. Postulationsfähig ist, wer vor der jeweiligen Instanz selbst auftreten darf.
 
-Normen: [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html), [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 84 MarkenG](https://www.gesetze-im-internet.de/markeng/__84.html)
+Normen: [§ 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__7.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 84 MarkenG](https://www.gesetze-im-internet.de/markeng/__84.html)
 
 Rechtsprechung: BPatG BLIZZARD (Beschwerde einer gelöschten UG) (30 W (pat) 61/23)
 
@@ -2724,7 +2724,7 @@ Beteiligtenfähig ist, wer Träger von Rechten und Pflichten sein kann; im Marke
 
 **A:** Wer im Inland weder Wohnsitz noch Sitz noch Niederlassung hat, kann an Verfahren vor dem DPMA und dem BPatG und in Markenstreitsachen nur teilnehmen, wenn er einen im Inland niedergelassenen Rechts- oder Patentanwalt als Vertreter bestellt hat.
 
-Normen: [§ 96](https://www.gesetze-im-internet.de/markeng/__96.html), [§ 81 MarkenG](https://www.gesetze-im-internet.de/markeng/__81.html)
+Normen: [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html), [§ 81 MarkenG](https://www.gesetze-im-internet.de/markeng/__81.html)
 
 *Tags: Begriff, Verfahren*
 
@@ -2748,7 +2748,7 @@ Wer im Inland weder Wohnsitz noch Sitz noch Niederlassung hat, kann an Verfahren
 
 **A:** Rechtsbehelf gegen Beschlüsse der Markenstellen und Markenabteilungen, die von einem Beamten des gehobenen Dienstes oder einem vergleichbaren Angestellten erlassen worden sind. Sie ist innerhalb eines Monats nach Zustellung beim DPMA einzulegen und hat aufschiebende Wirkung.
 
-Normen: [§ 64](https://www.gesetze-im-internet.de/markeng/__64.html), [§ 66 Abs. 3](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 56 MarkenG](https://www.gesetze-im-internet.de/markeng/__56.html)
+Normen: [§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html), [§ 66 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 56 MarkenG](https://www.gesetze-im-internet.de/markeng/__56.html)
 
 *Tags: Begriff, Verfahren*
 
@@ -2772,7 +2772,7 @@ Rechtsbehelf gegen Beschlüsse der Markenstellen und Markenabteilungen, die von 
 
 **A:** Gegen Beschlüsse der Markenstellen und Markenabteilungen findet, unbeschadet der Erinnerung nach [§ 64](https://www.gesetze-im-internet.de/markeng/__64.html), die Beschwerde zum Bundespatentgericht statt. Sie steht den am Verfahren vor dem DPMA Beteiligten zu, ist innerhalb eines Monats nach Zustellung schriftlich beim DPMA einzulegen und hat aufschiebende Wirkung.
 
-Normen: [§ 66](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 70](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71](https://www.gesetze-im-internet.de/markeng/__71.html), [§ 95a MarkenG](https://www.gesetze-im-internet.de/markeng/__95a.html)
+Normen: [§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 70 MarkenG](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html), [§ 95a MarkenG](https://www.gesetze-im-internet.de/markeng/__95a.html)
 
 Rechtsprechung: BPatG Silberweide (Zuordnung der Widerspruchsgebühr) (26 W (pat) 30/20); BPatG BLIZZARD (Beschwerde einer gelöschten UG) (30 W (pat) 61/23)
 
@@ -2798,7 +2798,7 @@ Gegen Beschlüsse der Markenstellen und Markenabteilungen findet, unbeschadet de
 
 **A:** Ein Rechtsbehelf ist nur zulässig, wenn der Rechtsbehelfsführer durch die angefochtene Entscheidung beschwert ist, also formell (sein Antrag wurde nicht oder nicht vollständig erfüllt) und materiell (die Entscheidung wirkt sich für ihn nachteilig aus) betroffen ist.
 
-Normen: [§ 66 Abs. 1](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
+Normen: [§ 66 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
 
 Rechtsprechung: BPatG SILVER HORSE/POWER HORSE (26 W (pat) 38/17)
 
@@ -2824,7 +2824,7 @@ Ein Rechtsbehelf ist nur zulässig, wenn der Rechtsbehelfsführer durch die ange
 
 **A:** Gegen Beschlüsse der Beschwerdesenate des BPatG findet die Rechtsbeschwerde zum BGH statt, wenn der Senat sie wegen grundsätzlicher Bedeutung oder zur Rechtsfortbildung und Sicherung einheitlicher Rechtsprechung zugelassen hat ([§ 83 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__83.html)). Ohne Zulassung ist sie nur bei den sechs absoluten Verfahrensmängeln des [§ 83 Abs. 3](https://www.gesetze-im-internet.de/markeng/__83.html) statthaft.
 
-Normen: [§ 83](https://www.gesetze-im-internet.de/markeng/__83.html), [§ 84](https://www.gesetze-im-internet.de/markeng/__84.html), [§ 85](https://www.gesetze-im-internet.de/markeng/__85.html), [§ 88 MarkenG](https://www.gesetze-im-internet.de/markeng/__88.html)
+Normen: [§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html), [§ 84 MarkenG](https://www.gesetze-im-internet.de/markeng/__84.html), [§ 85 MarkenG](https://www.gesetze-im-internet.de/markeng/__85.html), [§ 88 MarkenG](https://www.gesetze-im-internet.de/markeng/__88.html)
 
 Rechtsprechung: BGH Silver Horse/Power Horse (I ZB 65/22)
 
@@ -2850,7 +2850,7 @@ Gegen Beschlüsse der Beschwerdesenate des BPatG findet die Rechtsbeschwerde zum
 
 **A:** Wer ohne Verschulden verhindert war, eine Frist gegenüber dem DPMA oder dem BPatG einzuhalten, deren Versäumung einen Rechtsnachteil zur Folge hat, ist auf Antrag wieder in den vorigen Stand einzusetzen. Der Antrag ist innerhalb von zwei Monaten nach Wegfall des Hindernisses zu stellen, die versäumte Handlung nachzuholen und die Begründungstatsachen glaubhaft zu machen; nach einem Jahr ab Fristende ist die Wiedereinsetzung ausgeschlossen.
 
-Normen: [§ 91](https://www.gesetze-im-internet.de/markeng/__91.html), [§ 91a](https://www.gesetze-im-internet.de/markeng/__91a.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html)
+Normen: [§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html), [§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html)
 
 Rechtsprechung: BPatG SILVER HORSE/POWER HORSE (26 W (pat) 38/17)
 
@@ -2876,7 +2876,7 @@ Wer ohne Verschulden verhindert war, eine Frist gegenüber dem DPMA oder dem BPa
 
 **A:** Wird eine vom DPMA gesetzte Frist im Anmeldeverfahren versäumt und die Anmeldung deshalb zurückgewiesen, kann der Anmelder ohne Nachweis eines Hinderungsgrundes die Weiterbehandlung beantragen: Antrag binnen eines Monats nach Zustellung, Nachholung der Handlung und Zahlung der Weiterbehandlungsgebühr von 100 Euro (Nr. 333 050 GV PatKostG).
 
-Normen: [§ 91a](https://www.gesetze-im-internet.de/markeng/__91a.html), [§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html)
+Normen: [§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html), [§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html)
 
 *Tags: Begriff, Verfahren*
 
@@ -2900,7 +2900,7 @@ Wird eine vom DPMA gesetzte Frist im Anmeldeverfahren versäumt und die Anmeldun
 
 **A:** Zustellungen erfolgen nach dem Verwaltungszustellungsgesetz mit den Maßgaben des [§ 94](https://www.gesetze-im-internet.de/markeng/__94.html): durch Einschreiben mit Rückschein oder gegen Empfangsbekenntnis, an Anwälte gegen Empfangsbekenntnis, durch Niederlegung in einem beim DPMA eingerichteten Abholfach oder elektronisch; die Zustellung setzt die Rechtsbehelfsfristen in Lauf.
 
-Normen: [§ 94](https://www.gesetze-im-internet.de/markeng/__94.html), [§ 95a](https://www.gesetze-im-internet.de/markeng/__95a.html), [§ 81](https://www.gesetze-im-internet.de/markeng/__81.html), [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)
+Normen: [§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html), [§ 95a MarkenG](https://www.gesetze-im-internet.de/markeng/__95a.html), [§ 81 MarkenG](https://www.gesetze-im-internet.de/markeng/__81.html), [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)
 
 Rechtsprechung: BPatG BLIZZARD (Beschwerde einer gelöschten UG) (30 W (pat) 61/23)
 
@@ -2926,7 +2926,7 @@ Zustellungen erfolgen nach dem Verwaltungszustellungsgesetz mit den Maßgaben de
 
 **A:** Verfahrensfristen werden nach den §§ [187](https://www.gesetze-im-internet.de/bgb/__187.html) bis [193](https://www.gesetze-im-internet.de/bgb/__193.html) BGB berechnet, die über [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html) in Verbindung mit [§ 222 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html) gelten: Der Ereignistag zählt nicht mit ([§ 187 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__187.html)); Wochen-, Monats- und Jahresfristen enden mit Ablauf des Tages, der dem Ereignistag entspricht ([§ 188 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__188.html)); fällt das Ende auf einen Samstag, Sonntag oder Feiertag, tritt der nächste Werktag an seine Stelle ([§ 193 BGB](https://www.gesetze-im-internet.de/bgb/__193.html), [§ 222 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html)).
 
-Normen: [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 42 Abs. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 66 Abs. 2](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 91 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html)
+Normen: [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 42 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 66 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 91 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html)
 
 *Tags: Begriff, Verfahren*
 
@@ -2950,7 +2950,7 @@ Verfahrensfristen werden nach den §§ [187](https://www.gesetze-im-internet.de/
 
 **A:** Für Verfahrenshandlungen, die eine Gebühr auslösen, gilt: Wird die Gebühr nicht innerhalb der gesetzlichen Frist vollständig gezahlt, gilt die Handlung als nicht vorgenommen ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html) i.V.m. [§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)). Als Zahlungstag gilt bei Überweisung der Tag der Gutschrift bei der Bundeskasse, bei Bareinzahlung der Tag der Einzahlung und beim SEPA-Basislastschriftmandat der Tag seines Eingangs beim DPMA oder BPatG ([§ 2 PatKostZV](https://www.gesetze-im-internet.de/patkostzv_2004/__2.html)).
 
-Normen: [§ 64a](https://www.gesetze-im-internet.de/markeng/__64a.html), [§ 42 Abs. 3](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 66 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)
+Normen: [§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), [§ 42 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 66 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)
 
 Rechtsprechung: BPatG Silberweide (Zuordnung der Widerspruchsgebühr) (26 W (pat) 30/20)
 
@@ -2976,7 +2976,7 @@ Für Verfahrenshandlungen, die eine Gebühr auslösen, gilt: Wird die Gebühr ni
 
 **A:** Das DPMA ermittelt den Sachverhalt von Amts wegen und ist an das Vorbringen und die Beweisanträge der Beteiligten nicht gebunden; vor einer Entscheidung ist den Beteiligten rechtliches Gehör zu gewähren, und Beschlüsse sind zu begründen und mit einer Rechtsmittelbelehrung zu versehen ([§ 61](https://www.gesetze-im-internet.de/markeng/__61.html)).
 
-Normen: [§ 59](https://www.gesetze-im-internet.de/markeng/__59.html), [§ 61](https://www.gesetze-im-internet.de/markeng/__61.html), [§ 70 Abs. 3](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 83 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
+Normen: [§ 59 MarkenG](https://www.gesetze-im-internet.de/markeng/__59.html), [§ 61 MarkenG](https://www.gesetze-im-internet.de/markeng/__61.html), [§ 70 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 83 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
 
 Rechtsprechung: BPatG Engelbrecht/Stadtbäckerei Engelbrecht GmbH (25 W (pat) 52/21); BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22)
 
@@ -3002,7 +3002,7 @@ Das DPMA ermittelt den Sachverhalt von Amts wegen und ist an das Vorbringen und 
 
 **A:** Im Widerspruchs- und Beschwerdeverfahren trägt grundsätzlich jeder Beteiligte seine Kosten selbst ([§ 63 Abs. 1 Satz 3](https://www.gesetze-im-internet.de/markeng/__63.html), [§ 71 Abs. 1 Satz 2](https://www.gesetze-im-internet.de/markeng/__71.html)). Eine Kostenauferlegung setzt voraus, dass es der Billigkeit entspricht; die Rückzahlung der Beschwerdegebühr kann das BPatG aus Billigkeit anordnen ([§ 71 Abs. 3](https://www.gesetze-im-internet.de/markeng/__71.html)).
 
-Normen: [§ 63](https://www.gesetze-im-internet.de/markeng/__63.html), [§ 71 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
+Normen: [§ 63 MarkenG](https://www.gesetze-im-internet.de/markeng/__63.html), [§ 71 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
 
 Rechtsprechung: BPatG Engelbrecht/Stadtbäckerei Engelbrecht GmbH (25 W (pat) 52/21); BPatG Silberweide (Zuordnung der Widerspruchsgebühr) (26 W (pat) 30/20); BPatG AUTOMATOR (Widerspruch gegen Verfallsantrag) (29 W (pat) 30/22); BPatG BLIZZARD (Beschwerde einer gelöschten UG) (30 W (pat) 61/23)
 
@@ -3028,7 +3028,7 @@ Im Widerspruchs- und Beschwerdeverfahren trägt grundsätzlich jeder Beteiligte 
 
 **A:** Das BPatG kann das Beschwerdeverfahren aussetzen, wenn die Entscheidung ganz oder teilweise vom Bestehen oder Nichtbestehen eines Rechtsverhältnisses abhängt, das den Gegenstand eines anderen anhängigen Verfahrens bildet (Vorgreiflichkeit). Die Entscheidung steht im pflichtgemäßen Ermessen.
 
-Normen: [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 44](https://www.gesetze-im-internet.de/markeng/__44.html), [§ 43 Abs. 3](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)
+Normen: [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 44 MarkenG](https://www.gesetze-im-internet.de/markeng/__44.html), [§ 43 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)
 
 Rechtsprechung: BPatG Aussetzung bei Nichtigkeitsantrag gegen die Unionswiderspruchsmarke (29 W (pat) 522/20); BPatG Engelbrecht/Stadtbäckerei Engelbrecht GmbH (25 W (pat) 52/21)
 
@@ -3054,7 +3054,7 @@ Das BPatG kann das Beschwerdeverfahren aussetzen, wenn die Entscheidung ganz ode
 
 **A:** Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html) für die rechtserhaltende Benutzung, [§ 91 Abs. 3](https://www.gesetze-im-internet.de/markeng/__91.html) für die Wiedereinsetzungsgründe), reicht ein geringerer Grad der Wahrscheinlichkeit als beim Vollbeweis; zulässig sind alle präsenten Beweismittel einschließlich der eidesstattlichen Versicherung ([§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html) i.V.m. [§ 294 ZPO](https://www.gesetze-im-internet.de/zpo/__294.html)).
 
-Normen: [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 91 Abs. 3](https://www.gesetze-im-internet.de/markeng/__91.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html)
+Normen: [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 91 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html)
 
 Rechtsprechung: BPatG SILVER HORSE/POWER HORSE (26 W (pat) 38/17); BGH VOODOO (I ZR 106/11)
 
@@ -3071,6 +3071,2060 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
 **A:** Glaubhaftmachung und eidesstattliche Versicherung
 
 *Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Einheitliches Patentgericht (EPG)
+
+**A:** Gemeinsames Gericht der Vertragsmitgliedstaaten mit ausschließlicher Zuständigkeit für europäische Patente mit einheitlicher Wirkung und für klassische europäische Patente ohne Opt-out ([Art. 1, 3, 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Es ist Teil des Gerichtssystems der Mitgliedstaaten und an das Unionsrecht gebunden (Art. 1 Abs. 2, [Art. 20 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 20 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 89 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr) (UPC_CoA_288/2025)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gemeinsames Gericht der Vertragsmitgliedstaaten mit ausschließlicher Zuständigkeit für europäische Patente mit einheitlicher Wirkung und für klassische europäische Patente ohne Opt-out ([Art. 1, 3, 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Es ist Teil des Gerichtssystems der Mitgliedstaaten und an das Unionsrecht gebunden (Art. 1 Abs. 2, [Art. 20 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Einheitliches Patentgericht (EPG)
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Aufbau: Gericht erster Instanz, Berufungsgericht, Kanzlei
+
+**A:** Das Gericht erster Instanz besteht aus der Zentralkammer (Sitz Paris, Abteilungen München und Mailand) sowie Lokal- und Regionalkammern in den Vertragsmitgliedstaaten ([Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Das Berufungsgericht hat seinen Sitz in Luxemburg ([Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die Kanzlei führt das Register ([Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 87 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr) (UPC_CoA_288/2025)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht erster Instanz besteht aus der Zentralkammer (Sitz Paris, Abteilungen München und Mailand) sowie Lokal- und Regionalkammern in den Vertragsmitgliedstaaten ([Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Das Berufungsgericht hat seinen Sitz in Luxemburg ([Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die Kanzlei führt das Register ([Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Aufbau: Gericht erster Instanz, Berufungsgericht, Kanzlei
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Spruchkörper und technisch qualifizierte Richter
+
+**A:** Die Spruchkörper sind multinational besetzt: In Lokal- und Regionalkammern sitzen drei rechtlich qualifizierte Richter, in der Zentralkammer zwei rechtlich und ein technisch qualifizierter Richter ([Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Ein technisch qualifizierter Richter aus dem Richterpool ([Art. 18 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) wird auf Antrag einer Partei oder bei einer Widerklage auf Nichtigerklärung zugewiesen (Art. 8 Abs. 5, [Art. 33 Abs. 3 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 18 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 18 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Spruchkörper sind multinational besetzt: In Lokal- und Regionalkammern sitzen drei rechtlich qualifizierte Richter, in der Zentralkammer zwei rechtlich und ein technisch qualifizierter Richter ([Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Ein technisch qualifizierter Richter aus dem Richterpool ([Art. 18 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) wird auf Antrag einer Partei oder bei einer Widerklage auf Nichtigerklärung zugewiesen (Art. 8 Abs. 5, [Art. 33 Abs. 3 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Spruchkörper und technisch qualifizierte Richter
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Rechtsquellen und anwendbares Recht ([Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Das Gericht stützt seine Entscheidungen in dieser Reihenfolge auf Unionsrecht (einschließlich der Verordnungen 1257/2012 und 1260/2012), das EPGÜ, das EPÜ, andere für alle Vertragsmitgliedstaaten verbindliche internationale Übereinkünfte und nationales Recht ([Art. 24 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Welches nationale Recht gilt, bestimmt sich nach dem unmittelbar anwendbaren Unionsrecht (Rom II) oder den internationalen bzw. nationalen IPR-Regeln ([Art. 24 Abs. 2, 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht stützt seine Entscheidungen in dieser Reihenfolge auf Unionsrecht (einschließlich der Verordnungen 1257/2012 und 1260/2012), das EPGÜ, das EPÜ, andere für alle Vertragsmitgliedstaaten verbindliche internationale Übereinkünfte und nationales Recht ([Art. 24 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Welches nationale Recht gilt, bestimmt sich nach dem unmittelbar anwendbaren Unionsrecht (Rom II) oder den internationalen bzw. nationalen IPR-Regeln ([Art. 24 Abs. 2, 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Rechtsquellen und anwendbares Recht ([Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Vorrang des Unionsrechts, Vorlage an den EuGH, Haftung
+
+**A:** Das Gericht wendet das Unionsrecht in vollem Umfang an und achtet seinen Vorrang ([Art. 20 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Als gemeinsames Gericht der Mitgliedstaaten arbeitet es mit dem EuGH zusammen und legt Fragen nach [Art. 267 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT) vor; das Berufungsgericht ist vorlagepflichtig ([Art. 21 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Für Verstöße gegen Unionsrecht haften die Vertragsmitgliedstaaten gesamtschuldnerisch ([Art. 22 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 20 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 21 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 22 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 23 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr) (UPC_CoA_288/2025)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht wendet das Unionsrecht in vollem Umfang an und achtet seinen Vorrang ([Art. 20 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Als gemeinsames Gericht der Mitgliedstaaten arbeitet es mit dem EuGH zusammen und legt Fragen nach [Art. 267 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT) vor; das Berufungsgericht ist vorlagepflichtig ([Art. 21 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Für Verstöße gegen Unionsrecht haften die Vertragsmitgliedstaaten gesamtschuldnerisch ([Art. 22 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Vorrang des Unionsrechts, Vorlage an den EuGH, Haftung
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Übergangsregelung ([Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Während einer Übergangszeit von sieben Jahren ab Inkrafttreten (verlängerbar um bis zu sieben Jahre) können Verletzungs- und Nichtigkeitsklagen zu klassischen europäischen Patenten und ESZ weiterhin bei nationalen Gerichten erhoben werden ([Art. 83 Abs. 1, 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Anhängige nationale Verfahren bleiben unberührt (Abs. 2).
+
+Normen: [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Fives/REEL (Altfälle, Schadensersatzklage) (UPC_CoA_30/2024); EPG-BerG Knaus Tabbert (Altfälle, Fachperson, product-by-process) (UPC_CoA_365/2025); EPG LK Paris DexCom/Abbott (LK Paris: Dispositionsmaxime, Carve-out) (UPC_CFI_230/2023)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Während einer Übergangszeit von sieben Jahren ab Inkrafttreten (verlängerbar um bis zu sieben Jahre) können Verletzungs- und Nichtigkeitsklagen zu klassischen europäischen Patenten und ESZ weiterhin bei nationalen Gerichten erhoben werden ([Art. 83 Abs. 1, 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Anhängige nationale Verfahren bleiben unberührt (Abs. 2).
+
+**A:** Übergangsregelung ([Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Opt-out (Inanspruchnahme der Ausnahmeregelung)
+
+**A:** Der Inhaber oder Anmelder eines klassischen europäischen Patents kann die ausschließliche Zuständigkeit des EPG durch Antrag bei der Kanzlei ausschließen ([Art. 83 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Der Opt-out wird mit Eintragung im Register wirksam, gilt für das gesamte Bündelpatent und muss von allen Inhabern erklärt werden; er ist ausgeschlossen, wenn bereits eine Klage vor dem EPG anhängig ist ([R. 5.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 83 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 83 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 5A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Silimed/Polytech (Entfernung eines unbefugten Opt-out) (UPC-CoA-066/2026)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Inhaber oder Anmelder eines klassischen europäischen Patents kann die ausschließliche Zuständigkeit des EPG durch Antrag bei der Kanzlei ausschließen ([Art. 83 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Der Opt-out wird mit Eintragung im Register wirksam, gilt für das gesamte Bündelpatent und muss von allen Inhabern erklärt werden; er ist ausgeschlossen, wenn bereits eine Klage vor dem EPG anhängig ist ([R. 5.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Opt-out (Inanspruchnahme der Ausnahmeregelung)
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Europäisches Patent mit einheitlicher Wirkung
+
+**A:** Ein vom EPA erteiltes europäisches Patent, für das auf Antrag binnen eines Monats nach Erteilung die einheitliche Wirkung nach Verordnung (EU) Nr. 1257/2012 eingetragen wurde; es gewährt einheitlichen Schutz in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei Eintragung in Kraft war ([Art. 2 lit. f EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein vom EPA erteiltes europäisches Patent, für das auf Antrag binnen eines Monats nach Erteilung die einheitliche Wirkung nach Verordnung (EU) Nr. 1257/2012 eingetragen wurde; es gewährt einheitlichen Schutz in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei Eintragung in Kraft war ([Art. 2 lit. f EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Europäisches Patent mit einheitlicher Wirkung
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Verfahrensgrundsätze: Verhältnismäßigkeit, Fairness, Front-loading
+
+**A:** Die Verfahrensordnung ist nach [Art. 41 Abs. 3, 42 und 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) auf Verhältnismäßigkeit, Flexibilität, Fairness und Billigkeit angelegt (Präambel VerfO Nr. 2 bis 5). Die Parteien müssen ihren Fall so früh wie möglich vollständig vortragen (Präambel Nr. 7, „front-loaded“), damit die mündliche Verhandlung binnen eines Jahres stattfinden kann.
+
+Normen: [Art. 41 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 42 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG bioMérieux/Labrador (Fristverlängerung) (UPC-COA-0000937/2025); EPG-BerG Amycel (aufschiebende Wirkung: vollständiger Antrag) (UPC-COA-0000935/2025); EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Verfahrensordnung ist nach [Art. 41 Abs. 3, 42 und 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) auf Verhältnismäßigkeit, Flexibilität, Fairness und Billigkeit angelegt (Präambel VerfO Nr. 2 bis 5). Die Parteien müssen ihren Fall so früh wie möglich vollständig vortragen (Präambel Nr. 7, „front-loaded“), damit die mündliche Verhandlung binnen eines Jahres stattfinden kann.
+
+**A:** Verfahrensgrundsätze: Verhältnismäßigkeit, Fairness, Front-loading
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
+
+---
+
+## definition
+
+**F:** Definiere: Internationale Zuständigkeit ([Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Brüssel-Ia-VO)
+
+**A:** Die internationale Zuständigkeit des EPG richtet sich nach der Brüssel-Ia-VO (Art. 71a bis 71d) bzw. dem Lugano-Übereinkommen ([Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Das EPG gilt als Gericht eines Mitgliedstaats; es ist zuständig für Beklagte mit Sitz in einem Mitgliedstaat (Art. 4 Brüssel-Ia-VO) und für Verletzungen im Gebiet der Vertragsmitgliedstaaten (Art. 7 Nr. 2 i.V.m. Art. 71b Nr. 2 Brüssel-Ia-VO), auch gegen Drittstaatenbeklagte.
+
+Normen: [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Sinocare/Abbott (Zuständigkeit, Schadensort, Berufungsrüge) (UPC-COA-0000899/2025); EPG LK Hamburg Dyson/Dreame (LK Hamburg: internationale Zuständigkeit) (UPC_CFI_387/2025); EPG-BerG NUC/Hurom (rügelose Einlassung, CMS-Zugriff) (UPC_CoA_409/2025)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die internationale Zuständigkeit des EPG richtet sich nach der Brüssel-Ia-VO (Art. 71a bis 71d) bzw. dem Lugano-Übereinkommen ([Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Das EPG gilt als Gericht eines Mitgliedstaats; es ist zuständig für Beklagte mit Sitz in einem Mitgliedstaat (Art. 4 Brüssel-Ia-VO) und für Verletzungen im Gebiet der Vertragsmitgliedstaaten (Art. 7 Nr. 2 i.V.m. Art. 71b Nr. 2 Brüssel-Ia-VO), auch gegen Drittstaatenbeklagte.
+
+**A:** Internationale Zuständigkeit ([Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Brüssel-Ia-VO)
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Sachliche Zuständigkeit ([Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** [Art. 32 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) zählt die ausschließlichen Zuständigkeiten abschließend auf: Verletzungsklagen (lit. a), Feststellung der Nichtverletzung (lit. b), einstweilige Maßnahmen (lit. c), Nichtigkeitsklagen (lit. d) und Widerklagen auf Nichtigerklärung (lit. e), Schadensersatz aus vorläufigem Schutz (lit. f), Vorbenutzung (lit. g), Lizenzvergütung nach Art. 8 VO 1257/2012 (lit. h) und Klagen gegen EPA-Entscheidungen zur einheitlichen Wirkung (lit. i). Für alles Übrige bleiben die nationalen Gerichte zuständig (Abs. 2).
+
+Normen: [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Fives/REEL (Altfälle, Schadensersatzklage) (UPC_CoA_30/2024); EPG-BerG Knaus Tabbert (Altfälle, Fachperson, product-by-process) (UPC_CoA_365/2025)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+[Art. 32 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) zählt die ausschließlichen Zuständigkeiten abschließend auf: Verletzungsklagen (lit. a), Feststellung der Nichtverletzung (lit. b), einstweilige Maßnahmen (lit. c), Nichtigkeitsklagen (lit. d) und Widerklagen auf Nichtigerklärung (lit. e), Schadensersatz aus vorläufigem Schutz (lit. f), Vorbenutzung (lit. g), Lizenzvergütung nach Art. 8 VO 1257/2012 (lit. h) und Klagen gegen EPA-Entscheidungen zur einheitlichen Wirkung (lit. i). Für alles Übrige bleiben die nationalen Gerichte zuständig (Abs. 2).
+
+**A:** Sachliche Zuständigkeit ([Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Zuständigkeit der Kammern ([Art. 33 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Verletzungsklagen sind bei der Lokal- oder Regionalkammer des Vertragsmitgliedstaats zu erheben, in dem die Verletzung erfolgt ist oder droht ([Art. 33 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))), oder in dem der Beklagte seinen Sitz hat (lit. b); Klagen gegen mehrere Beklagte setzen eine Geschäftsbeziehung und denselben Verletzungsvorwurf voraus. Gegen Beklagte ohne Sitz in einem Vertragsmitgliedstaat kann auch die Zentralkammer angerufen werden (Abs. 1 UAbs. 3).
+
+Normen: [Art. 33 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 13.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 17 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Barco/Yealink (Kammerzuständigkeit im Eilverfahren) (UPC_CoA_317/2025); EPG LK Hamburg Dyson/Dreame (LK Hamburg: internationale Zuständigkeit) (UPC_CFI_387/2025)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verletzungsklagen sind bei der Lokal- oder Regionalkammer des Vertragsmitgliedstaats zu erheben, in dem die Verletzung erfolgt ist oder droht ([Art. 33 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))), oder in dem der Beklagte seinen Sitz hat (lit. b); Klagen gegen mehrere Beklagte setzen eine Geschäftsbeziehung und denselben Verletzungsvorwurf voraus. Gegen Beklagte ohne Sitz in einem Vertragsmitgliedstaat kann auch die Zentralkammer angerufen werden (Abs. 1 UAbs. 3).
+
+**A:** Zuständigkeit der Kammern ([Art. 33 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Zentralkammer: Nichtigkeitsklage und Feststellungsklage
+
+**A:** Nichtigkeitsklagen ([Art. 32 Abs. 1 lit. d EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) und Klagen auf Feststellung der Nichtverletzung (lit. b) sind bei der Zentralkammer zu erheben ([Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))), es sei denn, zwischen denselben Parteien ist zu demselben Patent bereits eine Verletzungsklage bei einer Lokal- oder Regionalkammer anhängig; dann ist nur diese zuständig. Die Zuweisung an Paris, München oder Mailand folgt der IPC-Hauptklasse des Patents (Anhang II EPGÜ, [R. 17.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 33 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 7 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 17 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG ZK Mailand Pari/Philips (ZK Mailand: Klagebefugnis zur Nichtigkeitsklage) (UPC_CFI_613/2024); EPG-BerG Meril/Edwards (dieselben Parteien, Änderungsanträge, Auslegung, Erfindungshöhe) (UPC_CoA_464/2024); EPG ZK Paris Seoul Viosys/Emporia (ZK Paris: Strohmann-Theorie) (UPC_CFI_258/2025)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nichtigkeitsklagen ([Art. 32 Abs. 1 lit. d EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) und Klagen auf Feststellung der Nichtverletzung (lit. b) sind bei der Zentralkammer zu erheben ([Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))), es sei denn, zwischen denselben Parteien ist zu demselben Patent bereits eine Verletzungsklage bei einer Lokal- oder Regionalkammer anhängig; dann ist nur diese zuständig. Die Zuweisung an Paris, München oder Mailand folgt der IPC-Hauptklasse des Patents (Anhang II EPGÜ, [R. 17.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Zentralkammer: Nichtigkeitsklage und Feststellungsklage
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Widerklage auf Nichtigerklärung und die drei Optionen ([Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Wird gegen eine Verletzungsklage Widerklage auf Nichtigerklärung erhoben ([R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), hat die Lokal- oder Regionalkammer nach Anhörung der Parteien drei Optionen ([Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))): (a) beide Klagen selbst verhandeln unter Zuweisung eines technisch qualifizierten Richters, (b) die Widerklage an die Zentralkammer verweisen und die Verletzungsklage fortführen oder aussetzen (Bifurkation), (c) mit Zustimmung der Parteien alles an die Zentralkammer verweisen.
+
+Normen: [Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 33 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 37 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Emboline/AorticLab (bedingte Widerklage, bedingte Berufung) (UPC-COA-0000040/2026); EPG-BerG AorticLab/Emboline (Verletzungsklage und Widerklage als getrennte Klagen) (UPC-COA-0000123/2026)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wird gegen eine Verletzungsklage Widerklage auf Nichtigerklärung erhoben ([R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), hat die Lokal- oder Regionalkammer nach Anhörung der Parteien drei Optionen ([Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))): (a) beide Klagen selbst verhandeln unter Zuweisung eines technisch qualifizierten Richters, (b) die Widerklage an die Zentralkammer verweisen und die Verletzungsklage fortführen oder aussetzen (Bifurkation), (c) mit Zustimmung der Parteien alles an die Zentralkammer verweisen.
+
+**A:** Widerklage auf Nichtigerklärung und die drei Optionen ([Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Bifurkation (Trennung von Verletzung und Rechtsbestand)
+
+**A:** Bifurkation bezeichnet die getrennte Behandlung von Verletzungsfrage und Rechtsbestand vor verschiedenen Spruchkörpern, wie sie im deutschen System zwingend ist (Verletzungsgericht/BPatG). Das EPGÜ lässt sie als Option (b) des Art. 33 Abs. 3 zu, macht sie aber nicht zur Regel; die Lokalkammer kann die Verletzungsklage fortführen oder aussetzen ([R. 37.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 37 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bifurkation bezeichnet die getrennte Behandlung von Verletzungsfrage und Rechtsbestand vor verschiedenen Spruchkörpern, wie sie im deutschen System zwingend ist (Verletzungsgericht/BPatG). Das EPGÜ lässt sie als Option (b) des Art. 33 Abs. 3 zu, macht sie aber nicht zur Regel; die Lokalkammer kann die Verletzungsklage fortführen oder aussetzen ([R. 37.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Bifurkation (Trennung von Verletzung und Rechtsbestand)
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Anhängigkeit und „dieselben Parteien“ ([Art. 33 Abs. 2, 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Ist eine Klage zwischen denselben Parteien zum selben Patent bei einer Kammer anhängig, darf keine Klage nach Art. 32 Abs. 1 lit. a, c, f, g oder h bei einer anderen Kammer erhoben werden ([Art. 33 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die zuerst angerufene Kammer ist zuständig. Entsprechend ist die Zentralkammer für eine Nichtigkeitsklage nicht zuständig, wenn zwischen denselben Parteien eine Verletzungsklage vor einer Lokalkammer anhängig ist (Abs. 4).
+
+Normen: [Art. 33 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Meril/Edwards (dieselben Parteien, Änderungsanträge, Auslegung, Erfindungshöhe) (UPC_CoA_464/2024); EPG ZK Paris Seoul Viosys/Emporia (ZK Paris: Strohmann-Theorie) (UPC_CFI_258/2025)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ist eine Klage zwischen denselben Parteien zum selben Patent bei einer Kammer anhängig, darf keine Klage nach Art. 32 Abs. 1 lit. a, c, f, g oder h bei einer anderen Kammer erhoben werden ([Art. 33 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die zuerst angerufene Kammer ist zuständig. Entsprechend ist die Zentralkammer für eine Nichtigkeitsklage nicht zuständig, wenn zwischen denselben Parteien eine Verletzungsklage vor einer Lokalkammer anhängig ist (Abs. 4).
+
+**A:** Anhängigkeit und „dieselben Parteien“ ([Art. 33 Abs. 2, 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Einspruch gegen die Zuständigkeit (Preliminary objection, [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Der Beklagte kann binnen eines Monats nach Zustellung der Klageschrift einen Einspruch erheben, der sich nur auf die Zuständigkeit des Gerichts (einschließlich Opt-out), die Zuständigkeit der gewählten Kammer oder die Sprache der Klageschrift stützen kann ([R. 19.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Unterbleibt er, gilt die Zuständigkeit als anerkannt ([R. 19.7 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 20 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 21 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 48 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr) (UPC_CoA_288/2025); EPG-BerG Vivo/Sun Patent (Einspruch ins Hauptverfahren) (UPC-COA-0000904/2025); EPG-BerG Sun Patent/Vivo (Aussetzung, R. 21 und R. 295) (UPC_CoA_757/2025); EPG-BerG Barco/Yealink (Kammerzuständigkeit im Eilverfahren) (UPC_CoA_317/2025)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Beklagte kann binnen eines Monats nach Zustellung der Klageschrift einen Einspruch erheben, der sich nur auf die Zuständigkeit des Gerichts (einschließlich Opt-out), die Zuständigkeit der gewählten Kammer oder die Sprache der Klageschrift stützen kann ([R. 19.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Unterbleibt er, gilt die Zuständigkeit als anerkannt ([R. 19.7 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Einspruch gegen die Zuständigkeit (Preliminary objection, [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Rügelose Einlassung (Art. 26 Brüssel-Ia-VO)
+
+**A:** Die internationale Zuständigkeit des EPG wird auch begründet, wenn sich der Beklagte auf das Verfahren einlässt, ohne den Mangel der Zuständigkeit zu rügen (Art. 26 Abs. 1 Brüssel-Ia-VO i.V.m. [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 71b Brüssel-Ia-VO).
+
+Normen: [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 19.7 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG NUC/Hurom (rügelose Einlassung, CMS-Zugriff) (UPC_CoA_409/2025)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die internationale Zuständigkeit des EPG wird auch begründet, wenn sich der Beklagte auf das Verfahren einlässt, ohne den Mangel der Zuständigkeit zu rügen (Art. 26 Abs. 1 Brüssel-Ia-VO i.V.m. [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 71b Brüssel-Ia-VO).
+
+**A:** Rügelose Einlassung (Art. 26 Brüssel-Ia-VO)
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Altfälle: Verletzungshandlungen vor dem 1. Juni 2023
+
+**A:** Das EPG ist auch für Verletzungshandlungen zuständig, die vor dem Inkrafttreten des EPGÜ am 1.6.2023 begangen wurden, solange das europäische Patent zu diesem Zeitpunkt noch nicht erloschen war (EPG-BerG Fives/REEL).
+
+Normen: [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 89 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Fives/REEL (Altfälle, Schadensersatzklage) (UPC_CoA_30/2024); EPG-BerG Knaus Tabbert (Altfälle, Fachperson, product-by-process) (UPC_CoA_365/2025)
+
+*Tags: Begriff, EPG: Zuständigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das EPG ist auch für Verletzungshandlungen zuständig, die vor dem Inkrafttreten des EPGÜ am 1.6.2023 begangen wurden, solange das europäische Patent zu diesem Zeitpunkt noch nicht erloschen war (EPG-BerG Fives/REEL).
+
+**A:** Altfälle: Verletzungshandlungen vor dem 1. Juni 2023
+
+*Tags: Begriff, Umkehr, EPG: Zuständigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Verfahrensablauf: schriftliches Verfahren, Zwischenverfahren, mündliches Verfahren
+
+**A:** Das Verfahren vor dem EPG besteht aus dem schriftlichen Verfahren, dem Zwischenverfahren und dem mündlichen Verfahren ([Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 10 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Das schriftliche Verfahren umfasst Klageschrift, Klageerwiderung (drei Monate), Widerklage, Replik und Duplik ([R. 12 bis 36 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); das Zwischenverfahren bereitet die mündliche Verhandlung vor ([R. 101 bis 110 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); die mündliche Verhandlung soll an einem Tag stattfinden ([R. 111 bis 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 10 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 12 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 23 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 101 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 111 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Verfahren vor dem EPG besteht aus dem schriftlichen Verfahren, dem Zwischenverfahren und dem mündlichen Verfahren ([Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 10 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Das schriftliche Verfahren umfasst Klageschrift, Klageerwiderung (drei Monate), Widerklage, Replik und Duplik ([R. 12 bis 36 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); das Zwischenverfahren bereitet die mündliche Verhandlung vor ([R. 101 bis 110 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); die mündliche Verhandlung soll an einem Tag stattfinden ([R. 111 bis 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Verfahrensablauf: schriftliches Verfahren, Zwischenverfahren, mündliches Verfahren
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Front-loaded procedure (Vollständigkeit des Vortrags)
+
+**A:** Die Parteien müssen ihren Fall so früh wie möglich im Verfahren vollständig vortragen (Präambel VerfO Nr. 7 Satz 2). Späterer Tatsachen- und Beweisvortrag wird nur zugelassen, wenn er mit angemessener Sorgfalt nicht früher möglich war und die Gegenseite nicht unangemessen behindert ([R. 222.2, 263.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 13 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025); EPG-BerG Amycel (aufschiebende Wirkung: vollständiger Antrag) (UPC-COA-0000935/2025); EPG-BerG Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung) (UPC_CoA_623/2025)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Parteien müssen ihren Fall so früh wie möglich im Verfahren vollständig vortragen (Präambel VerfO Nr. 7 Satz 2). Späterer Tatsachen- und Beweisvortrag wird nur zugelassen, wenn er mit angemessener Sorgfalt nicht früher möglich war und die Gegenseite nicht unangemessen behindert ([R. 222.2, 263.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Front-loaded procedure (Vollständigkeit des Vortrags)
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Klageschrift ([R. 13 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Die Verletzungsklage wird durch Einreichen der Klageschrift bei der Kanzlei bzw. Nebenstelle der gewählten Kammer erhoben ([R. 13.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Sie muss u.a. Parteien und Vertreter, Patentnummer, Angaben zur Kammerwahl (lit. i), Zuständigkeit, die Anträge, die verletzten Ansprüche mit Merkmalsanalyse (lit. m), Tatsachen und Beweismittel (lit. n) sowie Angaben zu Vorverfahren enthalten; die Gebühr ist zu zahlen ([R. 15 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Anlagen sind gleichzeitig einzureichen ([R. 13.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 13 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 15 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 16 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Sanofi/Amgen (Anlagen zur Klageschrift) (UPC_CoA_320/2023); EPG LK München Edwards/Meril (LK München: CMS-Workflows, Prozesskostensicherheit) (UPC_CFI_15/2023); EPG LK Hamburg Avago/Tesla (LK Hamburg: Workflows, teilweise Nichtigkeit) (UPC_CFI_54/2023)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Verletzungsklage wird durch Einreichen der Klageschrift bei der Kanzlei bzw. Nebenstelle der gewählten Kammer erhoben ([R. 13.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Sie muss u.a. Parteien und Vertreter, Patentnummer, Angaben zur Kammerwahl (lit. i), Zuständigkeit, die Anträge, die verletzten Ansprüche mit Merkmalsanalyse (lit. m), Tatsachen und Beweismittel (lit. n) sowie Angaben zu Vorverfahren enthalten; die Gebühr ist zu zahlen ([R. 15 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Anlagen sind gleichzeitig einzureichen ([R. 13.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Klageschrift ([R. 13 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Zustellung ([R. 270 bis 276 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Die Klageschrift wird vom Gericht zugestellt, innerhalb der Vertragsmitgliedstaaten elektronisch über das CMS oder nach [R. 271 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); außerhalb nach der EU-Zustellungsverordnung, dem Haager Zustellungsübereinkommen oder diplomatisch ([R. 274 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Ersatzzustellung an einem anderen Ort oder in anderer Weise ist nur mit Erlaubnis des Gerichts möglich ([R. 275 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 270 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 271 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 274 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 275 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 276 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG NEC/TCL (Zustellung in China) (UPC_CoA_69/2024); EPG-BerG Sanofi/Amgen (Anlagen zur Klageschrift) (UPC_CoA_320/2023)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Klageschrift wird vom Gericht zugestellt, innerhalb der Vertragsmitgliedstaaten elektronisch über das CMS oder nach [R. 271 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); außerhalb nach der EU-Zustellungsverordnung, dem Haager Zustellungsübereinkommen oder diplomatisch ([R. 274 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Ersatzzustellung an einem anderen Ort oder in anderer Weise ist nur mit Erlaubnis des Gerichts möglich ([R. 275 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Zustellung ([R. 270 bis 276 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Fristen und Fristverlängerung (R. 9, [R. 300 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Die Verfahrensordnung setzt feste Fristen: Einspruch ein Monat (R. 19.1), Klageerwiderung drei Monate (R. 23), Erwiderung auf die Widerklage zwei Monate (R. 29), Replik und Duplik je ein Monat (R. 29, 29A), Berufung zwei Monate bzw. 15 Tage (R. 224). Das Gericht kann Fristen auf begründeten Antrag verlängern oder verkürzen ([R. 9.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); Berechnung nach [R. 300 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf).
+
+Normen: [R. 9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 300 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 23 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 29 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG bioMérieux/Labrador (Fristverlängerung) (UPC-COA-0000937/2025); EPG-BerG Sanofi/Amgen (Anlagen zur Klageschrift) (UPC_CoA_320/2023)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Verfahrensordnung setzt feste Fristen: Einspruch ein Monat (R. 19.1), Klageerwiderung drei Monate (R. 23), Erwiderung auf die Widerklage zwei Monate (R. 29), Replik und Duplik je ein Monat (R. 29, 29A), Berufung zwei Monate bzw. 15 Tage (R. 224). Das Gericht kann Fristen auf begründeten Antrag verlängern oder verkürzen ([R. 9.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); Berechnung nach [R. 300 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf).
+
+**A:** Fristen und Fristverlängerung (R. 9, [R. 300 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Verfahrenssprache ([Art. 49 bis 51 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 14 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Vor einer Lokal- oder Regionalkammer ist die Verfahrenssprache eine Amtssprache des Sitzstaats oder eine von der Kammer zusätzlich bestimmte EPA-Amtssprache ([Art. 49 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die Parteien können die Patentsprache vereinbaren (Abs. 3), der Spruchkörper kann sie aus Gründen der Zweckmäßigkeit und Fairness auf Antrag des Beklagten anordnen (Abs. 5, [R. 323 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Vor der Zentralkammer gilt die Patentsprache (Abs. 6); vor dem Berufungsgericht die Sprache der ersten Instanz ([Art. 50 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 50 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 51 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 14 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 109 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 321 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 323 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG LK München TP-Link/Huawei (LK München: Wechsel der Verfahrenssprache) (UPC_CFI_804/2025); EPG LK Düsseldorf 10x Genomics/Curio (LK Düsseldorf: Verdolmetschung) (UPC_CFI_463/2023)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Vor einer Lokal- oder Regionalkammer ist die Verfahrenssprache eine Amtssprache des Sitzstaats oder eine von der Kammer zusätzlich bestimmte EPA-Amtssprache ([Art. 49 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die Parteien können die Patentsprache vereinbaren (Abs. 3), der Spruchkörper kann sie aus Gründen der Zweckmäßigkeit und Fairness auf Antrag des Beklagten anordnen (Abs. 5, [R. 323 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Vor der Zentralkammer gilt die Patentsprache (Abs. 6); vor dem Berufungsgericht die Sprache der ersten Instanz ([Art. 50 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Verfahrenssprache ([Art. 49 bis 51 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 14 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Vertretung ([Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Die Parteien müssen sich durch Anwälte, die bei einem Gericht eines Vertragsmitgliedstaats zugelassen sind, oder durch europäische Patentanwälte mit Vertretungsbefugnis (European Patent Litigation Certificate oder gleichwertige Qualifikation) vertreten lassen ([Art. 48 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Vertretungszwang gilt auch für Dritte, die Akteneinsicht beantragen (EPG-BerG Ocado).
+
+Normen: [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 284 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 290 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Suinno/Microsoft (Vertretung durch Organe) (UPC_CoA_563/2024); EPG-BerG Ecovacs/Roborock (Offenlegungspflicht bei Ex-parte-Besichtigung) (UPC-COA-0000003/2026)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Parteien müssen sich durch Anwälte, die bei einem Gericht eines Vertragsmitgliedstaats zugelassen sind, oder durch europäische Patentanwälte mit Vertretungsbefugnis (European Patent Litigation Certificate oder gleichwertige Qualifikation) vertreten lassen ([Art. 48 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Vertretungszwang gilt auch für Dritte, die Akteneinsicht beantragen (EPG-BerG Ocado).
+
+**A:** Vertretung ([Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Berichterstatter und Fallmanagement ([R. 18, 331 bis 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Der Vorsitzende bestimmt einen rechtlich qualifizierten Richter des Spruchkörpers zum Berichterstatter ([R. 18 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Dieser ist für das Fallmanagement im schriftlichen Verfahren und Zwischenverfahren verantwortlich ([R. 331 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), erlässt verfahrensleitende Anordnungen ([R. 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) und kann jede Frage dem Spruchkörper vorlegen ([R. 102, 331.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 18 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 102 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 331 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Vivo/Sun Patent (Einspruch ins Hauptverfahren) (UPC-COA-0000904/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach R. 333, Drittakteneinsicht) (UPC_CFI_1234/2025)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Vorsitzende bestimmt einen rechtlich qualifizierten Richter des Spruchkörpers zum Berichterstatter ([R. 18 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Dieser ist für das Fallmanagement im schriftlichen Verfahren und Zwischenverfahren verantwortlich ([R. 331 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), erlässt verfahrensleitende Anordnungen ([R. 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) und kann jede Frage dem Spruchkörper vorlegen ([R. 102, 331.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Berichterstatter und Fallmanagement ([R. 18, 331 bis 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Zwischenverfahren und Zwischenanhörung ([R. 101 bis 110 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Nach Abschluss des schriftlichen Verfahrens bereitet der Berichterstatter die mündliche Verhandlung vor: Er kann eine Zwischenanhörung (per Videokonferenz) abhalten, Fragen stellen, Beweisaufnahmen anordnen, den Streitwert festsetzen und einen Vergleich anregen ([R. 101 bis 106 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Das Zwischenverfahren soll innerhalb von drei Monaten abgeschlossen sein ([R. 101.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 101 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 102 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 103 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 104 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 105 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 108 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nach Abschluss des schriftlichen Verfahrens bereitet der Berichterstatter die mündliche Verhandlung vor: Er kann eine Zwischenanhörung (per Videokonferenz) abhalten, Fragen stellen, Beweisaufnahmen anordnen, den Streitwert festsetzen und einen Vergleich anregen ([R. 101 bis 106 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Das Zwischenverfahren soll innerhalb von drei Monaten abgeschlossen sein ([R. 101.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Zwischenverfahren und Zwischenanhörung ([R. 101 bis 110 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Mündliche Verhandlung und Entscheidung ([R. 111 bis 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Die mündliche Verhandlung vor dem Spruchkörper ist öffentlich ([Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) und soll einen Tag nicht überschreiten ([R. 113 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Vorsitzende leitet sie, das Gericht kann Fragen beschränken und die Verhandlung aufzeichnen ([R. 112, 115 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Die Entscheidung in der Sache ergeht schriftlich mit Gründen so bald wie möglich, in der Regel binnen sechs Wochen ([R. 118.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 111 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 112 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 113 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 115 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 116 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG LK Düsseldorf 10x Genomics/Curio (LK Düsseldorf: Verdolmetschung) (UPC_CFI_463/2023)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die mündliche Verhandlung vor dem Spruchkörper ist öffentlich ([Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) und soll einen Tag nicht überschreiten ([R. 113 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Vorsitzende leitet sie, das Gericht kann Fragen beschränken und die Verhandlung aufzeichnen ([R. 112, 115 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Die Entscheidung in der Sache ergeht schriftlich mit Gründen so bald wie möglich, in der Regel binnen sechs Wochen ([R. 118.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Mündliche Verhandlung und Entscheidung ([R. 111 bis 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Klageänderung und Klageerweiterung ([R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Eine Partei kann jederzeit die Zulassung einer Klageänderung oder -erweiterung beantragen; sie muss begründen, warum die Änderung nicht schon im ursprünglichen Schriftsatz enthalten war ([R. 263.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Die Zulassung wird verweigert, wenn die Partei nicht darlegt, dass die Änderung mit angemessener Sorgfalt nicht früher möglich war und die Gegenseite nicht unangemessen behindert wird ([R. 263.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); bedingungslose Beschränkungen des Klagebegehrens sind stets zulässig ([R. 263.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025); EPG-BerG Merz/Viatris (Verzicht auf den Nichtigkeitseinwand im Eilverfahren) (UPC-COA-0000917/2025); EPG-BerG AorticLab/Emboline (Verletzungsklage und Widerklage als getrennte Klagen) (UPC-COA-0000123/2026)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Partei kann jederzeit die Zulassung einer Klageänderung oder -erweiterung beantragen; sie muss begründen, warum die Änderung nicht schon im ursprünglichen Schriftsatz enthalten war ([R. 263.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Die Zulassung wird verweigert, wenn die Partei nicht darlegt, dass die Änderung mit angemessener Sorgfalt nicht früher möglich war und die Gegenseite nicht unangemessen behindert wird ([R. 263.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); bedingungslose Beschränkungen des Klagebegehrens sind stets zulässig ([R. 263.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Klageänderung und Klageerweiterung ([R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Klagerücknahme und Erledigung (R. 265, [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Der Kläger kann die Klage zurücknehmen, solange keine Endentscheidung ergangen ist; nach Zustellung an den Beklagten nur, wenn dieser nicht widerspricht bzw. das Gericht die Rücknahme zulässt; das Gericht entscheidet über die Kosten ([R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Ist das Verfahren erledigt, kann das Gericht es auf Antrag einstellen ([R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 370.9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Juul/NJOY (Gebührenerstattung bei Rücknahme) (UPC_CoA_237/2025); EPG LK München Dolby/Roku (LK München: Kosten bei Erledigung, Abmahnung) (UPC_CFI_58/2025); EPG-BerG Strabag/Swarco (Streithelfer) (UPC_CoA_70/2025)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Kläger kann die Klage zurücknehmen, solange keine Endentscheidung ergangen ist; nach Zustellung an den Beklagten nur, wenn dieser nicht widerspricht bzw. das Gericht die Rücknahme zulässt; das Gericht entscheidet über die Kosten ([R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Ist das Verfahren erledigt, kann das Gericht es auf Antrag einstellen ([R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Klagerücknahme und Erledigung (R. 265, [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Versäumnisentscheidung ([R. 355 bis 357 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Nimmt eine Partei eine erforderliche Verfahrenshandlung nicht fristgerecht vor oder erscheint sie nicht zur mündlichen Verhandlung, kann auf Antrag der Gegenseite eine Versäumnisentscheidung ergehen ([R. 355.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); gegen den Kläger nur bei Untätigkeit trotz Aufforderung (R. 355.2). Der Antrag auf Aufhebung ist binnen eines Monats zu stellen ([R. 356 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 355 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 356 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 357 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 158.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Suinno/Microsoft (Versäumnisentscheidung gegen Berufungskläger) (UPC-CoA-21/2026)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nimmt eine Partei eine erforderliche Verfahrenshandlung nicht fristgerecht vor oder erscheint sie nicht zur mündlichen Verhandlung, kann auf Antrag der Gegenseite eine Versäumnisentscheidung ergehen ([R. 355.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); gegen den Kläger nur bei Untätigkeit trotz Aufforderung (R. 355.2). Der Antrag auf Aufhebung ist binnen eines Monats zu stellen ([R. 356 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Versäumnisentscheidung ([R. 355 bis 357 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Streithilfe ([R. 313 bis 317 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Wer ein rechtliches Interesse am Ausgang des Verfahrens hat, kann als Streithelfer beitreten ([R. 313 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Antrag ist zu begründen und das Gericht entscheidet nach Anhörung der Parteien ([R. 314, 315 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Der Streithelfer wird an die Entscheidung gebunden ([R. 316 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 313 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 314 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 315 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 316 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Strabag/Swarco (Streithelfer) (UPC_CoA_70/2025)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer ein rechtliches Interesse am Ausgang des Verfahrens hat, kann als Streithelfer beitreten ([R. 313 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Antrag ist zu begründen und das Gericht entscheidet nach Anhörung der Parteien ([R. 314, 315 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Der Streithelfer wird an die Entscheidung gebunden ([R. 316 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Streithilfe ([R. 313 bis 317 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Aussetzung des Verfahrens ([R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Das Gericht kann das Verfahren aussetzen, u.a. wenn ein paralleles Einspruchs- oder Beschränkungsverfahren vor dem EPA läuft und eine rasche Entscheidung zu erwarten ist ([R. 295 lit. a VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))), bei Vorlage an den EuGH (lit. c), bei Insolvenz (lit. d), auf gemeinsamen Antrag (lit. i) oder aus sonstigen Gründen ordnungsgemäßer Rechtspflege (lit. m).
+
+Normen: [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 118.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 21 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Sun Patent/Vivo (Aussetzung, R. 21 und R. 295) (UPC_CoA_757/2025); EPG-BerG bioMérieux/Labrador (Fristverlängerung) (UPC-COA-0000937/2025); EPG-BerG Suinno/Microsoft (Sicherheit, bedingte Widerklage nach Abschluss) (UPC-COA-0000021/2026)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht kann das Verfahren aussetzen, u.a. wenn ein paralleles Einspruchs- oder Beschränkungsverfahren vor dem EPA läuft und eine rasche Entscheidung zu erwarten ist ([R. 295 lit. a VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))), bei Vorlage an den EuGH (lit. c), bei Insolvenz (lit. d), auf gemeinsamen Antrag (lit. i) oder aus sonstigen Gründen ordnungsgemäßer Rechtspflege (lit. m).
+
+**A:** Aussetzung des Verfahrens ([R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Prozesskostensicherheit ([Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Auf Antrag des Beklagten kann das Gericht dem Kläger aufgeben, Sicherheit für die Kosten des Beklagten zu leisten, wenn seine Vermögensverhältnisse befürchten lassen, dass ein Kostenerstattungsanspruch nicht bedient werden kann, oder die Vollstreckung einer Kostenentscheidung unmöglich oder unangemessen erschwert wäre ([Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Wird die Sicherheit nicht geleistet, kann Versäumnisentscheidung ergehen ([R. 158.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Aarke/SodaStream (Prozesskostensicherheit: Kriterien) (UPC_CoA_548/2024); EPG-BerG Hefei/Grundfos (Prozesskostensicherheit nur gegen den Antragsteller) (UPC_CoA_622/2025); EPG-BerG Syntorr/Arthrex (Prozessfinanzierungsversicherung) (UPC-COA-0000889/2025); EPG-BerG La Siddhi/Athena (KMU und Prozesskostensicherheit) (UPC_CoA_48/2026)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Auf Antrag des Beklagten kann das Gericht dem Kläger aufgeben, Sicherheit für die Kosten des Beklagten zu leisten, wenn seine Vermögensverhältnisse befürchten lassen, dass ein Kostenerstattungsanspruch nicht bedient werden kann, oder die Vollstreckung einer Kostenentscheidung unmöglich oder unangemessen erschwert wäre ([Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Wird die Sicherheit nicht geleistet, kann Versäumnisentscheidung ergehen ([R. 158.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Prozesskostensicherheit ([Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Gerichtsgebühren ([R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Für Verletzungsklage, Widerklage auf Nichtigerklärung, Antrag auf einstweilige Maßnahmen und Berufung fällt eine Festgebühr an, bei Streitwerten über 500.000 EUR zusätzlich eine streitwertabhängige Gebühr; die Nichtigkeitsklage kostet eine Festgebühr ([R. 370.2, 370.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Gebührentabelle des Verwaltungsausschusses). Kleine Unternehmen und Kleinstunternehmen zahlen nur 50 % der regulären Gebühren ([R. 370.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 371 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 15 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 228 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Juul/NJOY (Gebührenerstattung bei Rücknahme) (UPC_CoA_237/2025); EPG-BerG Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr) (UPC_CoA_288/2025); EPG-BerG La Siddhi/Athena (KMU und Prozesskostensicherheit) (UPC_CoA_48/2026)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für Verletzungsklage, Widerklage auf Nichtigerklärung, Antrag auf einstweilige Maßnahmen und Berufung fällt eine Festgebühr an, bei Streitwerten über 500.000 EUR zusätzlich eine streitwertabhängige Gebühr; die Nichtigkeitsklage kostet eine Festgebühr ([R. 370.2, 370.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Gebührentabelle des Verwaltungsausschusses). Kleine Unternehmen und Kleinstunternehmen zahlen nur 50 % der regulären Gebühren ([R. 370.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Gerichtsgebühren ([R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Streitwert ([R. 370.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Der Streitwert wird vom Gericht festgesetzt und bestimmt die streitwertabhängige Gebühr sowie die Obergrenze der erstattungsfähigen Kosten ([R. 370.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Leitlinien des Verwaltungsausschusses). Maßgeblich ist das Interesse der Partei, die das Verfahren eingeleitet hat.
+
+Normen: [R. 370.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 104 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung) (UPC-COA-0000028/2026)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Streitwert wird vom Gericht festgesetzt und bestimmt die streitwertabhängige Gebühr sowie die Obergrenze der erstattungsfähigen Kosten ([R. 370.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Leitlinien des Verwaltungsausschusses). Maßgeblich ist das Interesse der Partei, die das Verfahren eingeleitet hat.
+
+**A:** Streitwert ([R. 370.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Kosten des Verfahrens ([Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 150 bis 157 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Die unterliegende Partei trägt die Kosten der obsiegenden Partei, soweit sie zumutbar und angemessen sind, bis zu einer streitwertabhängigen Obergrenze; bei teilweisem Obsiegen werden die Kosten geteilt ([Art. 69 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Die Kostenfestsetzung erfolgt in einem gesonderten Verfahren auf Antrag binnen eines Monats nach der Hauptsacheentscheidung ([R. 150, 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); Vorschuss auf die Kosten kann im Urteil zugesprochen werden ([R. 150.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 150 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 152 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 156 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 157 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG SharkNinja (Kosten bei teilweisem Obsiegen mit zwei Patenten) (UPC-COA-0000061/2026); EPG-BerG Strabag/Swarco (Streithelfer) (UPC_CoA_70/2025); EPG LK München Dolby/Roku (LK München: Kosten bei Erledigung, Abmahnung) (UPC_CFI_58/2025)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die unterliegende Partei trägt die Kosten der obsiegenden Partei, soweit sie zumutbar und angemessen sind, bis zu einer streitwertabhängigen Obergrenze; bei teilweisem Obsiegen werden die Kosten geteilt ([Art. 69 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Die Kostenfestsetzung erfolgt in einem gesonderten Verfahren auf Antrag binnen eines Monats nach der Hauptsacheentscheidung ([R. 150, 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); Vorschuss auf die Kosten kann im Urteil zugesprochen werden ([R. 150.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Kosten des Verfahrens ([Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 150 bis 157 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Rechtliches Gehör, Dispositionsmaxime und Beibringungsgrundsatz ([Art. 76 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Das Gericht entscheidet nur über die Anträge der Parteien ([Art. 76 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) und stützt seine Entscheidung nur auf Gründe, Tatsachen und Beweismittel, die die Parteien vorgebracht haben (Abs. 2); das Gericht muss den Parteien Gelegenheit zur Stellungnahme geben ([Art. 76 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 264 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 76 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 264 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Siemens/Hologic (rechtliches Gehör) (UPC-COA-0000093/2026); EPG LK Paris DexCom/Abbott (LK Paris: Dispositionsmaxime, Carve-out) (UPC_CFI_230/2023); EPG LK Düsseldorf Fujifilm/Kodak (LK Düsseldorf: Substantiierung des Geheimnisschutzes) (UPC_CFI_355/2023)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht entscheidet nur über die Anträge der Parteien ([Art. 76 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) und stützt seine Entscheidung nur auf Gründe, Tatsachen und Beweismittel, die die Parteien vorgebracht haben (Abs. 2); das Gericht muss den Parteien Gelegenheit zur Stellungnahme geben ([Art. 76 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 264 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Rechtliches Gehör, Dispositionsmaxime und Beibringungsgrundsatz ([Art. 76 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Öffentlichkeit des Registers und Akteneinsicht ([Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Entscheidungen und Anordnungen werden veröffentlicht; Schriftsätze und Beweismittel sind Dritten auf begründeten Antrag zugänglich, über den der Berichterstatter nach Anhörung der Parteien entscheidet ([R. 262.1 lit. b VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Parteien können beantragen, bestimmte Informationen als vertraulich zu behandeln ([R. 262.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Gowling/Boehringer (Akteneinsicht Dritter je Instanz) (UPC-COA-0000009/2026); EPG-BerG EOFlow/Insulet (Verlust des Geheimnisschutzes) (UPC-COA-0000930/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach R. 333, Drittakteneinsicht) (UPC_CFI_1234/2025)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Entscheidungen und Anordnungen werden veröffentlicht; Schriftsätze und Beweismittel sind Dritten auf begründeten Antrag zugänglich, über den der Berichterstatter nach Anhörung der Parteien entscheidet ([R. 262.1 lit. b VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Parteien können beantragen, bestimmte Informationen als vertraulich zu behandeln ([R. 262.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Öffentlichkeit des Registers und Akteneinsicht ([Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Schutz vertraulicher Informationen ([Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Eine Partei kann beantragen, den Zugang zu vertraulichen Informationen in Schriftsätzen oder Beweismitteln auf bestimmte Personen zu beschränken ([R. 262A.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Antrag ist bei Einreichung des Dokuments zu stellen und zu begründen (Abs. 2, 3). Der Vertraulichkeitskreis muss mindestens eine natürliche Person jeder Partei und deren Vertreter umfassen ([R. 262A.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Ericsson/ASUS (Vertraulichkeitskreis, Mitarbeiter) (UPC_CoA_631/2025); EPG-BerG Curio/10x Genomics (Fortgeltung der R.-262A-Anordnung) (UPC_CoA_101/2024); EPG-BerG EOFlow/Insulet (Verlust des Geheimnisschutzes) (UPC-COA-0000930/2025); EPG LK Düsseldorf Fujifilm/Kodak (LK Düsseldorf: Substantiierung des Geheimnisschutzes) (UPC_CFI_355/2023)
+
+*Tags: Begriff, EPG: Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Partei kann beantragen, den Zugang zu vertraulichen Informationen in Schriftsätzen oder Beweismitteln auf bestimmte Personen zu beschränken ([R. 262A.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Antrag ist bei Einreichung des Dokuments zu stellen und zu begründen (Abs. 2, 3). Der Vertraulichkeitskreis muss mindestens eine natürliche Person jeder Partei und deren Vertreter umfassen ([R. 262A.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Schutz vertraulicher Informationen ([Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Unmittelbare Benutzung der Erfindung ([Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Das Patent gewährt das Recht, Dritten ohne Zustimmung zu verbieten: Herstellen, Anbieten, Inverkehrbringen, Gebrauchen, Einführen oder Besitzen des Erzeugnisses (lit. a); Anwenden oder Anbieten des Verfahrens (lit. b); Anbieten, Inverkehrbringen, Gebrauchen, Einführen oder Besitzen des unmittelbaren Verfahrenserzeugnisses (lit. c).
+
+Normen: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 34 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Belkin/Philips (Anbieten, Geschäftsführerhaftung, Anerkennung) (UPC_CoA_19/2025); EPG-BerG Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking) (UPC-COA-0000087/2026)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Patent gewährt das Recht, Dritten ohne Zustimmung zu verbieten: Herstellen, Anbieten, Inverkehrbringen, Gebrauchen, Einführen oder Besitzen des Erzeugnisses (lit. a); Anwenden oder Anbieten des Verfahrens (lit. b); Anbieten, Inverkehrbringen, Gebrauchen, Einführen oder Besitzen des unmittelbaren Verfahrenserzeugnisses (lit. c).
+
+**A:** Unmittelbare Benutzung der Erfindung ([Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Anbieten ([Art. 25 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Anbieten ist jede Handlung, die einen Gegenstand so präsentiert, dass Betrachter ein Angebot auf Überlassung (Kauf, Miete, Pacht) abgeben können; es ist wirtschaftlich, nicht als bindendes Vertragsangebot zu verstehen (EPG-BerG Belkin/Philips).
+
+Normen: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Belkin/Philips (Anbieten, Geschäftsführerhaftung, Anerkennung) (UPC_CoA_19/2025); EPG-BerG Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking) (UPC-COA-0000087/2026); EPG-BerG Barco/Yealink (Kammerzuständigkeit im Eilverfahren) (UPC_CoA_317/2025)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Anbieten ist jede Handlung, die einen Gegenstand so präsentiert, dass Betrachter ein Angebot auf Überlassung (Kauf, Miete, Pacht) abgeben können; es ist wirtschaftlich, nicht als bindendes Vertragsangebot zu verstehen (EPG-BerG Belkin/Philips).
+
+**A:** Anbieten ([Art. 25 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Mittelbare Benutzung der Erfindung ([Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Verboten ist, ohne Zustimmung Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, zur Benutzung der Erfindung anzubieten oder zu liefern, wenn der Dritte weiß oder es offensichtlich ist, dass die Mittel dazu geeignet und bestimmt sind ([Art. 26 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Allgemein im Handel erhältliche Erzeugnisse sind ausgenommen, es sei denn, der Dritte veranlasst den Belieferten bewusst zur Verletzung (Abs. 2).
+
+Normen: [Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Onward/Niche (nicht eingetragene Anspruchsfassung, Verwendungsbestimmung) (UPC-COA-0000898/2025)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verboten ist, ohne Zustimmung Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, zur Benutzung der Erfindung anzubieten oder zu liefern, wenn der Dritte weiß oder es offensichtlich ist, dass die Mittel dazu geeignet und bestimmt sind ([Art. 26 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Allgemein im Handel erhältliche Erzeugnisse sind ausgenommen, es sei denn, der Dritte veranlasst den Belieferten bewusst zur Verletzung (Abs. 2).
+
+**A:** Mittelbare Benutzung der Erfindung ([Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Auslegung des Patentanspruchs (Art. 69 EPÜ und Protokoll)
+
+**A:** Der Patentanspruch ist nicht nur Ausgangspunkt, sondern maßgebliche Grundlage für den Schutzbereich; Beschreibung und Zeichnungen sind stets als Erläuterungshilfen heranzuziehen, nicht nur bei Unklarheiten. Der Anspruch ist aus Sicht der Fachperson auszulegen; angemessener Schutz des Inhabers und Rechtssicherheit für Dritte sind zu verbinden. Diese Grundsätze gelten für Verletzung und Rechtsbestand gleichermaßen (EPG-BerG NanoString/10x).
+
+Normen: [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023); EPG-BerG Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung) (UPC_CoA_623/2025); EPG-BerG Meril/Edwards (dieselben Parteien, Änderungsanträge, Auslegung, Erfindungshöhe) (UPC_CoA_464/2024); EPG-BerG Dyson/Dreame (Auslegung, Reichweite der Unterlassungsanordnung) (UPC_CoA_789/2025)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Patentanspruch ist nicht nur Ausgangspunkt, sondern maßgebliche Grundlage für den Schutzbereich; Beschreibung und Zeichnungen sind stets als Erläuterungshilfen heranzuziehen, nicht nur bei Unklarheiten. Der Anspruch ist aus Sicht der Fachperson auszulegen; angemessener Schutz des Inhabers und Rechtssicherheit für Dritte sind zu verbinden. Diese Grundsätze gelten für Verletzung und Rechtsbestand gleichermaßen (EPG-BerG NanoString/10x).
+
+**A:** Auslegung des Patentanspruchs (Art. 69 EPÜ und Protokoll)
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Fachperson
+
+**A:** Maßstabsfigur für Auslegung, Offenbarung, Neuheit, erfinderische Tätigkeit und Ausführbarkeit: die Person mit durchschnittlichen Kenntnissen und Fähigkeiten auf dem technischen Gebiet des Patents, ausgestattet mit dem allgemeinen Fachwissen am Prioritätstag.
+
+Normen: [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Knaus Tabbert (Altfälle, Fachperson, product-by-process) (UPC_CoA_365/2025); EPG-BerG Amgen/Regeneron (Unteransprüche, medizinische Verwendung, Ausführbarkeit) (UPC_CoA_529/2024); EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023); EPG-BerG expert/Seoul Viosys (unzulässige Erweiterung, Teilanmeldung) (UPC_CoA_764/2024)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Maßstabsfigur für Auslegung, Offenbarung, Neuheit, erfinderische Tätigkeit und Ausführbarkeit: die Person mit durchschnittlichen Kenntnissen und Fähigkeiten auf dem technischen Gebiet des Patents, ausgestattet mit dem allgemeinen Fachwissen am Prioritätstag.
+
+**A:** Fachperson
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Äquivalente Verletzung
+
+**A:** Nach Art. 2 des Protokolls zu Art. 69 EPÜ sind bei der Bestimmung des Schutzbereichs Elemente zu berücksichtigen, die den im Anspruch genannten gleichwertig sind. Das EPGÜ enthält keinen eigenen Äquivalenztest; die Kammern greifen auf die nationalen Traditionen zurück.
+
+Normen: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nach Art. 2 des Protokolls zu Art. 69 EPÜ sind bei der Bestimmung des Schutzbereichs Elemente zu berücksichtigen, die den im Anspruch genannten gleichwertig sind. Das EPGÜ enthält keinen eigenen Äquivalenztest; die Kammern greifen auf die nationalen Traditionen zurück.
+
+**A:** Äquivalente Verletzung
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Beschränkungen der Wirkung des Patents ([Art. 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Nicht erfasst sind u.a. private Handlungen zu nichtgewerblichen Zwecken (lit. a), Versuchshandlungen (lit. b), die Verwendung biologischen Materials zur Züchtung (lit. c), Studien und Versuche für Zulassungen (Bolar, lit. d), Apothekenrezepturen (lit. e), Benutzung an Bord fremder Schiffe und Luftfahrzeuge (lit. f, g), Landwirteprivileg (lit. i, j) und Dekompilierung von Software (lit. k, l).
+
+Normen: [Art. 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 26 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nicht erfasst sind u.a. private Handlungen zu nichtgewerblichen Zwecken (lit. a), Versuchshandlungen (lit. b), die Verwendung biologischen Materials zur Züchtung (lit. c), Studien und Versuche für Zulassungen (Bolar, lit. d), Apothekenrezepturen (lit. e), Benutzung an Bord fremder Schiffe und Luftfahrzeuge (lit. f, g), Landwirteprivileg (lit. i, j) und Dekompilierung von Software (lit. k, l).
+
+**A:** Beschränkungen der Wirkung des Patents ([Art. 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Vorbenutzungsrecht ([Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Wer in einem Vertragsmitgliedstaat ein Vorbenutzungsrecht oder ein persönliches Besitzrecht an der Erfindung hätte, wenn ein nationales Patent erteilt worden wäre, hat dieses Recht in diesem Staat auch gegenüber dem europäischen Patent ([Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer in einem Vertragsmitgliedstaat ein Vorbenutzungsrecht oder ein persönliches Besitzrecht an der Erfindung hätte, wenn ein nationales Patent erteilt worden wäre, hat dieses Recht in diesem Staat auch gegenüber dem europäischen Patent ([Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Vorbenutzungsrecht ([Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Erschöpfung ([Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Die Rechte aus dem europäischen Patent erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, das vom Inhaber oder mit seiner Zustimmung in der EU in Verkehr gebracht wurde, es sei denn, der Inhaber hat berechtigte Gründe, sich dem weiteren Vertrieb zu widersetzen ([Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 54 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Rechte aus dem europäischen Patent erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, das vom Inhaber oder mit seiner Zustimmung in der EU in Verkehr gebracht wurde, es sei denn, der Inhaber hat berechtigte Gründe, sich dem weiteren Vertrieb zu widersetzen ([Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Erschöpfung ([Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Verletzer, Mittäter und Haftung des Geschäftsführers ([Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Verletzer im Sinne des Art. 63 i.V.m. [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist auch, wer die Benutzungshandlungen nicht selbst vornimmt, dem sie aber als Anstifter, Mittäter oder Gehilfe zuzurechnen sind; die Zurechnung bestimmt sich durch autonome Auslegung des EPGÜ (EPG-BerG Belkin/Philips).
+
+Normen: [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Belkin/Philips (Anbieten, Geschäftsführerhaftung, Anerkennung) (UPC_CoA_19/2025)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verletzer im Sinne des Art. 63 i.V.m. [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist auch, wer die Benutzungshandlungen nicht selbst vornimmt, dem sie aber als Anstifter, Mittäter oder Gehilfe zuzurechnen sind; die Zurechnung bestimmt sich durch autonome Auslegung des EPGÜ (EPG-BerG Belkin/Philips).
+
+**A:** Verletzer, Mittäter und Haftung des Geschäftsführers ([Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Nichtigkeitsgründe ([Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 138 EPÜ)
+
+**A:** Das Gericht kann ein Patent nur aus den Gründen des Art. 138 Abs. 1 und Art. 139 Abs. 2 EPÜ ganz oder teilweise für nichtig erklären: fehlende Patentierbarkeit (Neuheit, erfinderische Tätigkeit, Ausschlüsse), unzureichende Offenbarung, unzulässige Erweiterung, Erweiterung des Schutzbereichs, fehlende Berechtigung ([Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Bei teilweiser Nichtigkeit wird das Patent entsprechend beschränkt (Abs. 3); die Nichtigerklärung wirkt ex tunc (Abs. 4).
+
+Normen: [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 44 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 29A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG LK Hamburg Avago/Tesla (LK Hamburg: Workflows, teilweise Nichtigkeit) (UPC_CFI_54/2023); EPG-BerG Fujifilm/Kodak (Substantiierung der Nichtigkeitsklage, Unteransprüche, Pointer) (UPC-CoA-473/2025)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht kann ein Patent nur aus den Gründen des Art. 138 Abs. 1 und Art. 139 Abs. 2 EPÜ ganz oder teilweise für nichtig erklären: fehlende Patentierbarkeit (Neuheit, erfinderische Tätigkeit, Ausschlüsse), unzureichende Offenbarung, unzulässige Erweiterung, Erweiterung des Schutzbereichs, fehlende Berechtigung ([Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Bei teilweiser Nichtigkeit wird das Patent entsprechend beschränkt (Abs. 3); die Nichtigerklärung wirkt ex tunc (Abs. 4).
+
+**A:** Nichtigkeitsgründe ([Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 138 EPÜ)
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Unzulässige Erweiterung (Art. 138 Abs. 1 lit. c EPÜ)
+
+**A:** Unzulässige Erweiterung liegt vor, wenn der Gegenstand des erteilten Anspruchs über den Inhalt der ursprünglich eingereichten Anmeldung hinausgeht. Maßgeblich ist, was die Fachperson bei objektiver, auf den Anmeldetag bezogener Betrachtung mit ihrem Fachwissen unmittelbar und eindeutig der Gesamtheit der Anmeldung entnimmt; implizit Offenbartes gehört dazu (EPG-BerG expert/Seoul Viosys).
+
+Normen: [Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG expert/Seoul Viosys (unzulässige Erweiterung, Teilanmeldung) (UPC_CoA_764/2024); EPG-BerG Amgen/Regeneron (Unteransprüche, medizinische Verwendung, Ausführbarkeit) (UPC_CoA_529/2024)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Unzulässige Erweiterung liegt vor, wenn der Gegenstand des erteilten Anspruchs über den Inhalt der ursprünglich eingereichten Anmeldung hinausgeht. Maßgeblich ist, was die Fachperson bei objektiver, auf den Anmeldetag bezogener Betrachtung mit ihrem Fachwissen unmittelbar und eindeutig der Gesamtheit der Anmeldung entnimmt; implizit Offenbartes gehört dazu (EPG-BerG expert/Seoul Viosys).
+
+**A:** Unzulässige Erweiterung (Art. 138 Abs. 1 lit. c EPÜ)
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Offenbarungsgehalt und Neuheit
+
+**A:** Neuheitsschädlich ist nur, was die Fachperson einer Vorveröffentlichung bei aufmerksamer Lektüre ohne Weiteres entnimmt und als selbstverständlich mitliest; ein allgemeiner Begriff offenbart nicht ohne Weiteres alle darunter fallenden, nicht genannten spezifischen Ausführungen (EPG-BerG Knaus Tabbert).
+
+Normen: [Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Knaus Tabbert (Altfälle, Fachperson, product-by-process) (UPC_CoA_365/2025); EPG ZK Mailand Pari/Philips (ZK Mailand: Klagebefugnis zur Nichtigkeitsklage) (UPC_CFI_613/2024)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Neuheitsschädlich ist nur, was die Fachperson einer Vorveröffentlichung bei aufmerksamer Lektüre ohne Weiteres entnimmt und als selbstverständlich mitliest; ein allgemeiner Begriff offenbart nicht ohne Weiteres alle darunter fallenden, nicht genannten spezifischen Ausführungen (EPG-BerG Knaus Tabbert).
+
+**A:** Offenbarungsgehalt und Neuheit
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Erfinderische Tätigkeit vor dem EPG
+
+**A:** Eine Erfindung gilt als auf erfinderischer Tätigkeit beruhend, wenn sie sich für die Fachperson nicht in naheliegender Weise aus dem Stand der Technik ergibt (Art. 56 EPÜ). Das Berufungsgericht wendet keinen starren Aufgabe-Lösungs-Ansatz an: Ausgangspunkt ist ein realistischer Stand der Technik, von dem die Fachperson mit Aussicht auf Erfolg zur Erfindung gelangen würde; es genügt nicht, dass sie dorthin gelangen könnte (NanoString/10x; Meril/Edwards).
+
+Normen: [Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023); EPG-BerG Fujifilm/Kodak (Substantiierung der Nichtigkeitsklage, Unteransprüche, Pointer) (UPC-CoA-473/2025); EPG-BerG Abbott/Sinocare (nichttechnische Merkmale, Anschlussberufung) (UPC-COA-0000901/2025); EPG ZK Paris Meril/Edwards (ZK Paris: Prüfung der erfinderischen Tätigkeit) (UPC_CFI_189/2024)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Erfindung gilt als auf erfinderischer Tätigkeit beruhend, wenn sie sich für die Fachperson nicht in naheliegender Weise aus dem Stand der Technik ergibt (Art. 56 EPÜ). Das Berufungsgericht wendet keinen starren Aufgabe-Lösungs-Ansatz an: Ausgangspunkt ist ein realistischer Stand der Technik, von dem die Fachperson mit Aussicht auf Erfolg zur Erfindung gelangen würde; es genügt nicht, dass sie dorthin gelangen könnte (NanoString/10x; Meril/Edwards).
+
+**A:** Erfinderische Tätigkeit vor dem EPG
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Änderung des Patents und Hilfsanträge (R. 30, [R. 50 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Der Patentinhaber kann mit der Erwiderung auf die Widerklage bzw. Nichtigkeitsklage beantragen, das Patent zu ändern (R. 30.1, [R. 50.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Antrag muss die geänderten Ansprüche, die Begründung der Zulässigkeit und die Angabe enthalten, ob die Änderung bedingt oder unbedingt ist; die Zahl der Hilfsanträge muss angemessen sein (R. 30.1 lit. c). Spätere Änderungen sind nur mit Erlaubnis des Gerichts zulässig ([R. 30.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 30 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 32 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 43 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 50 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Meril/Edwards (dieselben Parteien, Änderungsanträge, Auslegung, Erfindungshöhe) (UPC_CoA_464/2024); EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025); EPG-BerG Fujifilm/Kodak (Substantiierung der Nichtigkeitsklage, Unteransprüche, Pointer) (UPC-CoA-473/2025); EPG-BerG Onward/Niche (nicht eingetragene Anspruchsfassung, Verwendungsbestimmung) (UPC-COA-0000898/2025)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Patentinhaber kann mit der Erwiderung auf die Widerklage bzw. Nichtigkeitsklage beantragen, das Patent zu ändern (R. 30.1, [R. 50.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Antrag muss die geänderten Ansprüche, die Begründung der Zulässigkeit und die Angabe enthalten, ob die Änderung bedingt oder unbedingt ist; die Zahl der Hilfsanträge muss angemessen sein (R. 30.1 lit. c). Spätere Änderungen sind nur mit Erlaubnis des Gerichts zulässig ([R. 30.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Änderung des Patents und Hilfsanträge (R. 30, [R. 50 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Nichtigkeitsklage und Widerklage ([Art. 32 Abs. 1 lit. d, e EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 42 bis 50 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Die Nichtigkeitsklage wird bei der Zentralkammer erhoben ([R. 42 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Widerklage auf Nichtigerklärung ist in der Klageerwiderung zu erheben ([R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Beide müssen Umfang, Gründe, Tatsachen und Beweismittel vollständig angeben. Die Klagebefugnis steht jeder Person zu ([Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); kein Rechtsschutzbedürfnis wie im deutschen Nichtigkeitsverfahren erforderlich, aber Betroffenheit.
+
+Normen: [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 42 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 44 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 49 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG ZK Mailand Pari/Philips (ZK Mailand: Klagebefugnis zur Nichtigkeitsklage) (UPC_CFI_613/2024); EPG-BerG Fujifilm/Kodak (Substantiierung der Nichtigkeitsklage, Unteransprüche, Pointer) (UPC-CoA-473/2025); EPG-BerG Emboline/AorticLab (bedingte Widerklage, bedingte Berufung) (UPC-COA-0000040/2026); EPG ZK Paris Meril/Edwards (ZK Paris: Prüfung der erfinderischen Tätigkeit) (UPC_CFI_189/2024)
+
+*Tags: Begriff, EPG: Materielles Recht*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Nichtigkeitsklage wird bei der Zentralkammer erhoben ([R. 42 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Widerklage auf Nichtigerklärung ist in der Klageerwiderung zu erheben ([R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Beide müssen Umfang, Gründe, Tatsachen und Beweismittel vollständig angeben. Die Klagebefugnis steht jeder Person zu ([Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); kein Rechtsschutzbedürfnis wie im deutschen Nichtigkeitsverfahren erforderlich, aber Betroffenheit.
+
+**A:** Nichtigkeitsklage und Widerklage ([Art. 32 Abs. 1 lit. d, e EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 42 bis 50 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Materielles Recht*
+
+---
+
+## definition
+
+**F:** Definiere: Einstweilige Maßnahmen ([Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Das Gericht kann durch Anordnung dem mutmaßlichen Verletzer die Fortsetzung der Verletzung untersagen, sie von Sicherheiten abhängig machen oder die Beschlagnahme von Erzeugnissen anordnen ([Art. 62 Abs. 1, 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Voraussetzung: hinreichende Sicherheit, dass der Antragsteller berechtigt ist und das Patent verletzt wird oder droht ([Art. 62 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), Interessenabwägung einschließlich möglicher Schäden (Art. 62 Abs. 2, R. 211.3), keine unangemessene Verzögerung (R. 211.4), ggf. Sicherheitsleistung (R. 211.5).
+
+Normen: [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 205 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 206 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 209 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 211 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 212 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023); EPG-BerG Biolitec/Lightguide (Notwendigkeit einstweiliger Maßnahmen) (UPC_CoA_540/2024); EPG-BerG Dyson/Dreame (Auslegung, Reichweite der Unterlassungsanordnung) (UPC_CoA_789/2025); EPG-BerG Onward/Niche (nicht eingetragene Anspruchsfassung, Verwendungsbestimmung) (UPC-COA-0000898/2025)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht kann durch Anordnung dem mutmaßlichen Verletzer die Fortsetzung der Verletzung untersagen, sie von Sicherheiten abhängig machen oder die Beschlagnahme von Erzeugnissen anordnen ([Art. 62 Abs. 1, 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Voraussetzung: hinreichende Sicherheit, dass der Antragsteller berechtigt ist und das Patent verletzt wird oder droht ([Art. 62 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), Interessenabwägung einschließlich möglicher Schäden (Art. 62 Abs. 2, R. 211.3), keine unangemessene Verzögerung (R. 211.4), ggf. Sicherheitsleistung (R. 211.5).
+
+**A:** Einstweilige Maßnahmen ([Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Hinreichende Sicherheit ([R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Das Gericht muss es zumindest für überwiegend wahrscheinlich halten, dass der Antragsteller zur Verfahrenseinleitung berechtigt ist und das Patent verletzt wird; an der hinreichenden Sicherheit fehlt es, wenn das Gericht es für überwiegend wahrscheinlich hält, dass das Patent nicht rechtsbeständig ist (EPG-BerG NanoString/10x zu [R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) i.V.m. [Art. 62 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 Abs. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+Normen: [R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 62 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023); EPG-BerG Merz/Viatris (Verzicht auf den Nichtigkeitseinwand im Eilverfahren) (UPC-COA-0000917/2025); EPG-BerG Centripetal/Palo Alto (Maßstab der Beweissicherung) (UPC_CoA_239/2025)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht muss es zumindest für überwiegend wahrscheinlich halten, dass der Antragsteller zur Verfahrenseinleitung berechtigt ist und das Patent verletzt wird; an der hinreichenden Sicherheit fehlt es, wenn das Gericht es für überwiegend wahrscheinlich hält, dass das Patent nicht rechtsbeständig ist (EPG-BerG NanoString/10x zu [R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) i.V.m. [Art. 62 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 Abs. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+**A:** Hinreichende Sicherheit ([R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Dringlichkeit und unangemessene Verzögerung ([R. 211.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Das Gericht berücksichtigt, ob der Antragsteller den Antrag ohne unangemessene Verzögerung gestellt hat, nachdem er von der Verletzung Kenntnis erlangt hat oder hätte erlangen müssen (R. 211.4, [R. 209.2 lit. b VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Daneben muss die Sache so dringlich sein, dass die Hauptsache nicht abgewartet werden kann (EPG-BerG Biolitec/Lightguide).
+
+Normen: [R. 211.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 209 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Biolitec/Lightguide (Notwendigkeit einstweiliger Maßnahmen) (UPC_CoA_540/2024); EPG-BerG Barco/Yealink (Kammerzuständigkeit im Eilverfahren) (UPC_CoA_317/2025); EPG LK München Nokia/Sunmi (LK München: drohende Verletzung, Anti-Suit-Injunction) (UPC_CFI_112/2025)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht berücksichtigt, ob der Antragsteller den Antrag ohne unangemessene Verzögerung gestellt hat, nachdem er von der Verletzung Kenntnis erlangt hat oder hätte erlangen müssen (R. 211.4, [R. 209.2 lit. b VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Daneben muss die Sache so dringlich sein, dass die Hauptsache nicht abgewartet werden kann (EPG-BerG Biolitec/Lightguide).
+
+**A:** Dringlichkeit und unangemessene Verzögerung ([R. 211.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Schutzschrift ([R. 207 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Wer einen Antrag auf einstweilige Maßnahmen gegen sich befürchtet, kann bei der Kanzlei eine Schutzschrift einreichen, die Gründe gegen den Erlass enthält ([R. 207.1, 207.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Sie gilt sechs Monate (verlängerbar) und wird dem Antragsteller erst nach Antragstellung übermittelt ([R. 207.5, 207.9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 207 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 209 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer einen Antrag auf einstweilige Maßnahmen gegen sich befürchtet, kann bei der Kanzlei eine Schutzschrift einreichen, die Gründe gegen den Erlass enthält ([R. 207.1, 207.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Sie gilt sechs Monate (verlängerbar) und wird dem Antragsteller erst nach Antragstellung übermittelt ([R. 207.5, 207.9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Schutzschrift ([R. 207 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Anordnungen ohne Anhörung des Antragsgegners (ex parte)
+
+**A:** Einstweilige Maßnahmen und Beweissicherung können ohne Anhörung des Antragsgegners angeordnet werden, insbesondere wenn eine Verzögerung dem Antragsteller nicht wiedergutzumachenden Schaden zufügen würde oder Beweismittel vernichtet werden könnten (Art. 60 Abs. 5, Art. 62 Abs. 5 i.V.m. [Art. 60 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 197, [R. 212 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Der Antragsgegner ist unverzüglich zu unterrichten und kann Überprüfung beantragen ([R. 197.3, 212.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 60 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 192.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 197 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 212 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Ecovacs/Roborock (Offenlegungspflicht bei Ex-parte-Besichtigung) (UPC-COA-0000003/2026); EPG-BerG Centripetal/Palo Alto (Maßstab der Beweissicherung) (UPC_CoA_239/2025)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Einstweilige Maßnahmen und Beweissicherung können ohne Anhörung des Antragsgegners angeordnet werden, insbesondere wenn eine Verzögerung dem Antragsteller nicht wiedergutzumachenden Schaden zufügen würde oder Beweismittel vernichtet werden könnten (Art. 60 Abs. 5, Art. 62 Abs. 5 i.V.m. [Art. 60 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 197, [R. 212 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Der Antragsgegner ist unverzüglich zu unterrichten und kann Überprüfung beantragen ([R. 197.3, 212.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Anordnungen ohne Anhörung des Antragsgegners (ex parte)
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 192 bis 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Auf Antrag kann das Gericht schnelle und wirksame einstweilige Maßnahmen zur Sicherung von Beweismitteln anordnen (Beschreibung, Probenahme, Beschlagnahme, Besichtigung von Räumlichkeiten), wenn der Antragsteller alle vernünftigerweise verfügbaren Beweismittel zur Begründung der Verletzung vorgelegt hat ([Art. 60 Abs. 1 bis 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Sicherheitsleistung (Abs. 7) und Schadensersatz bei Aufhebung (Abs. 8, [R. 198 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) schützen den Antragsgegner.
+
+Normen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 192 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 194 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 196 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 197 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 198 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Centripetal/Palo Alto (Maßstab der Beweissicherung) (UPC_CoA_239/2025); EPG-BerG Ecovacs/Roborock (Offenlegungspflicht bei Ex-parte-Besichtigung) (UPC-COA-0000003/2026)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Auf Antrag kann das Gericht schnelle und wirksame einstweilige Maßnahmen zur Sicherung von Beweismitteln anordnen (Beschreibung, Probenahme, Beschlagnahme, Besichtigung von Räumlichkeiten), wenn der Antragsteller alle vernünftigerweise verfügbaren Beweismittel zur Begründung der Verletzung vorgelegt hat ([Art. 60 Abs. 1 bis 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Sicherheitsleistung (Abs. 7) und Schadensersatz bei Aufhebung (Abs. 8, [R. 198 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) schützen den Antragsgegner.
+
+**A:** Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 192 bis 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Beweismittel und Beweislast ([Art. 53 bis 55 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 170 bis 172 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Zulässige Beweismittel sind u.a. Parteianhörung, Auskünfte, Urkunden, Zeugen, Sachverständigengutachten, Augenschein, Vergleichstests und schriftliche eidesstattliche Erklärungen ([Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 170 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Die Beweislast trägt die Partei, die sich auf Tatsachen beruft ([Art. 54 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); bei Verfahrenspatenten für neue Erzeugnisse wird vermutet, dass das gleiche Erzeugnis nach dem Verfahren hergestellt wurde ([Art. 55 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 54 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 55 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 170 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 171 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 172 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 181 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Zulässige Beweismittel sind u.a. Parteianhörung, Auskünfte, Urkunden, Zeugen, Sachverständigengutachten, Augenschein, Vergleichstests und schriftliche eidesstattliche Erklärungen ([Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 170 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Die Beweislast trägt die Partei, die sich auf Tatsachen beruft ([Art. 54 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); bei Verfahrenspatenten für neue Erzeugnisse wird vermutet, dass das gleiche Erzeugnis nach dem Verfahren hergestellt wurde ([Art. 55 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Beweismittel und Beweislast ([Art. 53 bis 55 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 170 bis 172 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Anordnung der Beweisvorlage und Auskunft ([Art. 59, 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 190, 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Hat eine Partei alle vernünftigerweise verfügbaren Beweismittel vorgelegt und Beweismittel in der Verfügungsgewalt der Gegenseite oder eines Dritten bezeichnet, kann das Gericht deren Vorlage anordnen, vorbehaltlich des Schutzes vertraulicher Informationen ([Art. 59 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 190 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Daneben besteht der Auskunftsanspruch über Herkunft und Vertriebswege ([Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 190 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Hat eine Partei alle vernünftigerweise verfügbaren Beweismittel vorgelegt und Beweismittel in der Verfügungsgewalt der Gegenseite oder eines Dritten bezeichnet, kann das Gericht deren Vorlage anordnen, vorbehaltlich des Schutzes vertraulicher Informationen ([Art. 59 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 190 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Daneben besteht der Auskunftsanspruch über Herkunft und Vertriebswege ([Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Anordnung der Beweisvorlage und Auskunft ([Art. 59, 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 190, 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Sicherheitsleistung und Schadensersatz bei Aufhebung (Art. 62 Abs. 5, [Art. 60 Abs. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Das Gericht kann einstweilige Maßnahmen von einer angemessenen Sicherheit des Antragstellers abhängig machen ([R. 211.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Werden die Maßnahmen aufgehoben, weil sie unbegründet waren, oder wird keine Hauptsacheklage erhoben, hat der Antragsgegner Anspruch auf Ersatz des durch die Maßnahmen entstandenen Schadens (Art. 62 Abs. 5 i.V.m. [Art. 60 Abs. 8, 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 62 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 Abs. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 211.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 352 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung) (UPC-COA-0000028/2026)
+
+*Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gericht kann einstweilige Maßnahmen von einer angemessenen Sicherheit des Antragstellers abhängig machen ([R. 211.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Werden die Maßnahmen aufgehoben, weil sie unbegründet waren, oder wird keine Hauptsacheklage erhoben, hat der Antragsgegner Anspruch auf Ersatz des durch die Maßnahmen entstandenen Schadens (Art. 62 Abs. 5 i.V.m. [Art. 60 Abs. 8, 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Sicherheitsleistung und Schadensersatz bei Aufhebung (Art. 62 Abs. 5, [Art. 60 Abs. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+## definition
+
+**F:** Definiere: Unterlassungsanordnung ([Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Stellt das Gericht eine Verletzung fest, kann es dem Verletzer die Fortsetzung untersagen und die Anordnung mit Zwangsgeld bewehren ([Art. 63 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); auch Mittelspersonen können Adressaten sein. Der Wortlaut („kann“) eröffnet Ermessen, das in der Praxis regelmäßig zugunsten des Unterlassungsgebots ausgeübt wird; Verhältnismäßigkeit ist zu prüfen ([Art. 42 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 42 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Dyson/Dreame (Auslegung, Reichweite der Unterlassungsanordnung) (UPC_CoA_789/2025); EPG-BerG Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking) (UPC-COA-0000087/2026); EPG LK Düsseldorf Dolby/Beko (LK Düsseldorf: FRAND-Einwand, [Art. 102 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)) (UPC_CFI_135/2024)
+
+*Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Stellt das Gericht eine Verletzung fest, kann es dem Verletzer die Fortsetzung untersagen und die Anordnung mit Zwangsgeld bewehren ([Art. 63 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); auch Mittelspersonen können Adressaten sein. Der Wortlaut („kann“) eröffnet Ermessen, das in der Praxis regelmäßig zugunsten des Unterlassungsgebots ausgeübt wird; Verhältnismäßigkeit ist zu prüfen ([Art. 42 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** Unterlassungsanordnung ([Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## definition
+
+**F:** Definiere: Abhilfemaßnahmen: Rückruf, Entfernung, Vernichtung ([Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Auf Antrag kann das Gericht anordnen, dass verletzende Erzeugnisse aus den Vertriebswegen zurückgerufen, ihrer verletzenden Eigenschaft beraubt, endgültig entfernt oder vernichtet werden ([Art. 64 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die Maßnahmen gehen zu Lasten des Verletzers (Abs. 3) und müssen verhältnismäßig sein (Abs. 4).
+
+Normen: [Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Auf Antrag kann das Gericht anordnen, dass verletzende Erzeugnisse aus den Vertriebswegen zurückgerufen, ihrer verletzenden Eigenschaft beraubt, endgültig entfernt oder vernichtet werden ([Art. 64 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die Maßnahmen gehen zu Lasten des Verletzers (Abs. 3) und müssen verhältnismäßig sein (Abs. 4).
+
+**A:** Abhilfemaßnahmen: Rückruf, Entfernung, Vernichtung ([Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## definition
+
+**F:** Definiere: Auskunftsanordnung ([Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** Auf begründeten Antrag kann das Gericht dem Verletzer aufgeben, Auskunft über Herkunft und Vertriebswege, Mengen und Preise sowie die Identität Dritter zu erteilen ([Art. 67 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die Pflicht trifft auch Dritte, die verletzende Erzeugnisse gewerblich besaßen oder Dienstleistungen erbrachten (Abs. 2).
+
+Normen: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+*Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Auf begründeten Antrag kann das Gericht dem Verletzer aufgeben, Auskunft über Herkunft und Vertriebswege, Mengen und Preise sowie die Identität Dritter zu erteilen ([Art. 67 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); die Pflicht trifft auch Dritte, die verletzende Erzeugnisse gewerblich besaßen oder Dienstleistungen erbrachten (Abs. 2).
+
+**A:** Auskunftsanordnung ([Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Begriff, Umkehr, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## definition
+
+**F:** Definiere: Schadensersatz ([Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 125 bis 131 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzung begeht, hat dem Geschädigten angemessenen Ersatz zu leisten ([Art. 68 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Der Ersatz umfasst alle negativen Folgen einschließlich Gewinnverlust, Verletzergewinn und immaterieller Schäden oder alternativ eine Lizenzanalogie (Abs. 3); Strafschadensersatz ist ausgeschlossen (Abs. 2). Der gutgläubige Verletzer kann zur Herausgabe des Gewinns oder Entschädigung verpflichtet werden (Abs. 4).
+
+Normen: [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 119 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 125 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 126 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 131 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Fives/REEL (Altfälle, Schadensersatzklage) (UPC_CoA_30/2024)
+
+*Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzung begeht, hat dem Geschädigten angemessenen Ersatz zu leisten ([Art. 68 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Der Ersatz umfasst alle negativen Folgen einschließlich Gewinnverlust, Verletzergewinn und immaterieller Schäden oder alternativ eine Lizenzanalogie (Abs. 3); Strafschadensersatz ist ausgeschlossen (Abs. 2). Der gutgläubige Verletzer kann zur Herausgabe des Gewinns oder Entschädigung verpflichtet werden (Abs. 4).
+
+**A:** Schadensersatz ([Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 125 bis 131 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## definition
+
+**F:** Definiere: Vollstreckung ([Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Entscheidungen und Anordnungen des Gerichts sind in jedem Vertragsmitgliedstaat vollstreckbar; die Vollstreckungsanordnung wird der Entscheidung beigefügt und die Vollstreckung richtet sich nach dem Recht des Vollstreckungsstaats ([Art. 82 Abs. 1, 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Entscheidungen sind grundsätzlich sofort vollstreckbar, ggf. gegen Sicherheit ([R. 354.1, 118.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); die Vollstreckung von Anordnungen erfolgt durch das EPG selbst durch Zwangsgeld ([Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354.3, 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 118.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 352 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung) (UPC-COA-0000028/2026); EPG-BerG Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking) (UPC-COA-0000087/2026); EPG-BerG Kodak/Fujifilm (System der Zwangsgelder) (UPC_CoA_699/2025)
+
+*Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Entscheidungen und Anordnungen des Gerichts sind in jedem Vertragsmitgliedstaat vollstreckbar; die Vollstreckungsanordnung wird der Entscheidung beigefügt und die Vollstreckung richtet sich nach dem Recht des Vollstreckungsstaats ([Art. 82 Abs. 1, 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Entscheidungen sind grundsätzlich sofort vollstreckbar, ggf. gegen Sicherheit ([R. 354.1, 118.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); die Vollstreckung von Anordnungen erfolgt durch das EPG selbst durch Zwangsgeld ([Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354.3, 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Vollstreckung ([Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## definition
+
+**F:** Definiere: Zwangsgeld ([Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354.3, 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Eine Anordnung kann mit der Androhung eines Zwangsgelds für den Fall der Zuwiderhandlung verbunden werden ([R. 354.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); bei Verstoß setzt das Gericht das Zwangsgeld fest, das an das Gericht zu zahlen ist ([R. 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Die Höhe muss abschreckend, aber verhältnismäßig sein und die Bedeutung der Anordnung berücksichtigen.
+
+Normen: [Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 63 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Kodak/Fujifilm (System der Zwangsgelder) (UPC_CoA_699/2025); EPG-BerG EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung) (UPC_CoA_930/2025); EPG-BerG Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung) (UPC-COA-0000028/2026)
+
+*Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Anordnung kann mit der Androhung eines Zwangsgelds für den Fall der Zuwiderhandlung verbunden werden ([R. 354.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); bei Verstoß setzt das Gericht das Zwangsgeld fest, das an das Gericht zu zahlen ist ([R. 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Die Höhe muss abschreckend, aber verhältnismäßig sein und die Bedeutung der Anordnung berücksichtigen.
+
+**A:** Zwangsgeld ([Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354.3, 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Rechtsfolgen und Vollstreckung*
+
+---
+
+## definition
+
+**F:** Definiere: Berufung ([Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Gegen Endentscheidungen des Gerichts erster Instanz ist die Berufung binnen zwei Monaten statthaft ([Art. 73 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220.1 lit. a, b VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); gegen Anordnungen nach [Art. 49 Abs. 5, 59 bis 62 und 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) binnen 15 Tagen (Art. 73 Abs. 2 lit. a, R. 220.1 lit. c). Andere Anordnungen sind nur mit der Endentscheidung oder mit Zulassung durch das Gericht erster Instanz anfechtbar (Art. 73 Abs. 2 lit. b, [R. 220.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); wird die Zulassung verweigert, kann das Berufungsgericht sie nach Ermessensüberprüfung erteilen ([R. 220.3, 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 225 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 226 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 242 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Abbott/Sinocare (nichttechnische Merkmale, Anschlussberufung) (UPC-COA-0000901/2025); EPG-BerG EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung) (UPC_CoA_930/2025); EPG-BerG Emboline/AorticLab (bedingte Widerklage, bedingte Berufung) (UPC-COA-0000040/2026); EPG-BerG AorticLab/Emboline (Verletzungsklage und Widerklage als getrennte Klagen) (UPC-COA-0000123/2026)
+
+*Tags: Begriff, EPG: Berufung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen Endentscheidungen des Gerichts erster Instanz ist die Berufung binnen zwei Monaten statthaft ([Art. 73 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220.1 lit. a, b VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); gegen Anordnungen nach [Art. 49 Abs. 5, 59 bis 62 und 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) binnen 15 Tagen (Art. 73 Abs. 2 lit. a, R. 220.1 lit. c). Andere Anordnungen sind nur mit der Endentscheidung oder mit Zulassung durch das Gericht erster Instanz anfechtbar (Art. 73 Abs. 2 lit. b, [R. 220.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); wird die Zulassung verweigert, kann das Berufungsgericht sie nach Ermessensüberprüfung erteilen ([R. 220.3, 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Berufung ([Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Berufung*
+
+---
+
+## definition
+
+**F:** Definiere: Berufungsfrist ([R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Die Berufungsschrift ist binnen zwei Monaten (Endentscheidung, Kostenentscheidung) bzw. 15 Tagen (Anordnungen) nach Zustellung einzureichen; die Berufungsbegründung folgt binnen vier Monaten bzw. 15 Tagen ([R. 224.1, 224.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Die Frist beginnt erst mit Zustellung der Entscheidung einschließlich der Gründe (EPG-BerG Belkin/Philips; Ballino/Kinexon).
+
+Normen: [R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 225 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Rechtsprechung: EPG-BerG Belkin/Philips (Beginn der Berufungsfrist) (PR-UPC-COA-0000054/2026); EPG-BerG Emboline/AorticLab (bedingte Widerklage, bedingte Berufung) (UPC-COA-0000040/2026); EPG-BerG bioMérieux/Labrador (Fristverlängerung) (UPC-COA-0000937/2025)
+
+*Tags: Begriff, EPG: Berufung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Berufungsschrift ist binnen zwei Monaten (Endentscheidung, Kostenentscheidung) bzw. 15 Tagen (Anordnungen) nach Zustellung einzureichen; die Berufungsbegründung folgt binnen vier Monaten bzw. 15 Tagen ([R. 224.1, 224.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Die Frist beginnt erst mit Zustellung der Entscheidung einschließlich der Gründe (EPG-BerG Belkin/Philips; Ballino/Kinexon).
+
+**A:** Berufungsfrist ([R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Berufung*
+
+---
+
+## definition
+
+**F:** Definiere: Aufschiebende Wirkung der Berufung ([Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Die Berufung hat keine aufschiebende Wirkung, außer bei Entscheidungen über Nichtigkeitsklagen und Widerklagen ([Art. 74 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Auf Antrag kann das Berufungsgericht sie anordnen (Art. 74 Abs. 1 Satz 2, [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); erforderlich sind außergewöhnliche Umstände, die der Antragsteller darlegen muss, etwa ein offensichtlicher Fehler der Entscheidung oder ein unverhältnismäßiger, nicht wiedergutzumachender Schaden.
+
+Normen: [Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Amycel (aufschiebende Wirkung: vollständiger Antrag) (UPC-COA-0000935/2025); EPG-BerG Siemens/Hologic (rechtliches Gehör) (UPC-COA-0000093/2026)
+
+*Tags: Begriff, EPG: Berufung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Berufung hat keine aufschiebende Wirkung, außer bei Entscheidungen über Nichtigkeitsklagen und Widerklagen ([Art. 74 Abs. 1, 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Auf Antrag kann das Berufungsgericht sie anordnen (Art. 74 Abs. 1 Satz 2, [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); erforderlich sind außergewöhnliche Umstände, die der Antragsteller darlegen muss, etwa ein offensichtlicher Fehler der Entscheidung oder ein unverhältnismäßiger, nicht wiedergutzumachender Schaden.
+
+**A:** Aufschiebende Wirkung der Berufung ([Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Berufung*
+
+---
+
+## definition
+
+**F:** Definiere: Neues Vorbringen in der Berufung ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Anträge, Tatsachen und Beweismittel, die in erster Instanz nicht vorgebracht wurden, dürfen vom Berufungsgericht außer Acht gelassen werden; bei der Ermessensausübung berücksichtigt es, ob die Partei sie mit angemessener Sorgfalt hätte vorbringen können, ihre Bedeutung für die Entscheidung und die Stellungnahme der Gegenseite ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 226 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung) (UPC_CoA_623/2025); EPG-BerG Onward/Niche (nicht eingetragene Anspruchsfassung, Verwendungsbestimmung) (UPC-COA-0000898/2025); EPG-BerG Knaus Tabbert (Altfälle, Fachperson, product-by-process) (UPC_CoA_365/2025)
+
+*Tags: Begriff, EPG: Berufung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Anträge, Tatsachen und Beweismittel, die in erster Instanz nicht vorgebracht wurden, dürfen vom Berufungsgericht außer Acht gelassen werden; bei der Ermessensausübung berücksichtigt es, ob die Partei sie mit angemessener Sorgfalt hätte vorbringen können, ihre Bedeutung für die Entscheidung und die Stellungnahme der Gegenseite ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Neues Vorbringen in der Berufung ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Berufung*
+
+---
+
+## definition
+
+**F:** Definiere: Zulassung der Berufung und Ermessensüberprüfung ([R. 220.2 bis 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Verfahrensleitende Anordnungen und andere Anordnungen, die nicht in [R. 220.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) genannt sind, sind nur mit Zulassung durch das Gericht erster Instanz anfechtbar ([R. 220.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Verweigert dieses die Zulassung, kann binnen 15 Tagen ein Antrag auf Ermessensüberprüfung an das Berufungsgericht gestellt werden ([R. 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Bereitschaftsrichter entscheidet über die Zulassung ([R. 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 220.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung) (UPC_CoA_930/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach R. 333, Drittakteneinsicht) (UPC_CFI_1234/2025)
+
+*Tags: Begriff, EPG: Berufung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verfahrensleitende Anordnungen und andere Anordnungen, die nicht in [R. 220.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) genannt sind, sind nur mit Zulassung durch das Gericht erster Instanz anfechtbar ([R. 220.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Verweigert dieses die Zulassung, kann binnen 15 Tagen ein Antrag auf Ermessensüberprüfung an das Berufungsgericht gestellt werden ([R. 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); der Bereitschaftsrichter entscheidet über die Zulassung ([R. 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** Zulassung der Berufung und Ermessensüberprüfung ([R. 220.2 bis 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Berufung*
+
+---
+
+## definition
+
+**F:** Definiere: Beschwer und Berufungsinteresse
+
+**A:** Berufung und Anschlussberufung kann nur die Partei einlegen, die durch die Entscheidung ganz oder teilweise beschwert ist (R. 220.1, [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Eine Anschlussberufung, die nur die Begründung der für sie günstigen Entscheidung ändern will, ist unzulässig (EPG-BerG Abbott/Sinocare).
+
+Normen: [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Abbott/Sinocare (nichttechnische Merkmale, Anschlussberufung) (UPC-COA-0000901/2025); EPG-BerG Emboline/AorticLab (bedingte Widerklage, bedingte Berufung) (UPC-COA-0000040/2026); EPG-BerG Sinocare/Abbott (Zuständigkeit, Schadensort, Berufungsrüge) (UPC-COA-0000899/2025)
+
+*Tags: Begriff, EPG: Berufung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Berufung und Anschlussberufung kann nur die Partei einlegen, die durch die Entscheidung ganz oder teilweise beschwert ist (R. 220.1, [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Eine Anschlussberufung, die nur die Begründung der für sie günstigen Entscheidung ändern will, ist unzulässig (EPG-BerG Abbott/Sinocare).
+
+**A:** Beschwer und Berufungsinteresse
+
+*Tags: Begriff, Umkehr, EPG: Berufung*
+
+---
+
+## definition
+
+**F:** Definiere: Wiederaufnahme des Verfahrens ([Art. 81 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 245 bis 250 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Nach einer rechtskräftigen Entscheidung kann das Berufungsgericht auf Antrag das Verfahren ausnahmsweise wiederaufnehmen, wenn eine Tatsache von entscheidender Bedeutung entdeckt wird, die dem Antragsteller unbekannt war, oder wenn ein grundlegender Verfahrensfehler vorliegt ([Art. 81 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Frist: zehn Jahre ab Entscheidung, zwei Monate ab Entdeckung (Abs. 2).
+
+Normen: [Art. 81 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 245 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 247 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Suinno/Microsoft (Wiederaufnahme) (UPC-COA-0000883/2025)
+
+*Tags: Begriff, EPG: Berufung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nach einer rechtskräftigen Entscheidung kann das Berufungsgericht auf Antrag das Verfahren ausnahmsweise wiederaufnehmen, wenn eine Tatsache von entscheidender Bedeutung entdeckt wird, die dem Antragsteller unbekannt war, oder wenn ein grundlegender Verfahrensfehler vorliegt ([Art. 81 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Frist: zehn Jahre ab Entscheidung, zwei Monate ab Entdeckung (Abs. 2).
+
+**A:** Wiederaufnahme des Verfahrens ([Art. 81 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 245 bis 250 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, EPG: Berufung*
+
+---
+
+## definition
+
+**F:** Definiere: EPGÜ und Durchsetzungsrichtlinie 2004/48/EG
+
+**A:** Die Art. 56 bis 69 und [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) setzen die Maßnahmen, Verfahren und Rechtsbehelfe der Durchsetzungsrichtlinie für das EPG um: Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 6 RL), Beweissicherung (Art. 60, Art. 7 RL), Auskunft (Art. 67, Art. 8 RL), einstweilige Maßnahmen (Art. 62, Art. 9 RL), Abhilfe (Art. 64, Art. 10 RL), Unterlassung (Art. 63, Art. 11 RL), Schadensersatz (Art. 68, Art. 13 RL), Kosten (Art. 69, Art. 14 RL), Veröffentlichung (Art. 80, Art. 15 RL). Die Richtlinie ist als Unionsrecht vorrangige Rechtsquelle ([Art. 24 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+Normen: [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Rechtsprechung: EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023)
+
+*Tags: Begriff, EPG: Grundlagen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Art. 56 bis 69 und [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) setzen die Maßnahmen, Verfahren und Rechtsbehelfe der Durchsetzungsrichtlinie für das EPG um: Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 6 RL), Beweissicherung (Art. 60, Art. 7 RL), Auskunft (Art. 67, Art. 8 RL), einstweilige Maßnahmen (Art. 62, Art. 9 RL), Abhilfe (Art. 64, Art. 10 RL), Unterlassung (Art. 63, Art. 11 RL), Schadensersatz (Art. 68, Art. 13 RL), Kosten (Art. 69, Art. 14 RL), Veröffentlichung (Art. 80, Art. 15 RL). Die Richtlinie ist als Unionsrecht vorrangige Rechtsquelle ([Art. 24 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+**A:** EPGÜ und Durchsetzungsrichtlinie 2004/48/EG
+
+*Tags: Begriff, Umkehr, EPG: Grundlagen*
 
 ---
 
@@ -3443,6 +5497,140 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
 - 5. Entscheidung
 
 *Tags: Prüfungsschema, Klausur*
+
+---
+
+**F:** Prüfungsschema: Zuständigkeit des EPG und Kammerwahl ([Art. 31 bis 34 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+**A:** - A. Anwendbarkeit des EPGÜ ([Art. 3, 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- B. Internationale Zuständigkeit ([Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Brüssel-Ia-VO)
+- C. Sachliche Zuständigkeit ([Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- D. Zuständige Kammer ([Art. 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 1. Verletzungsklage: Lokal-/Regionalkammer (Art. 33 Abs. 1)
+  - 2. Sperre paralleler Klagen (Art. 33 Abs. 2)
+  - 3. Widerklage auf Nichtigerklärung: drei Optionen (Art. 33 Abs. 3)
+  - 4. Nichtigkeits- und Feststellungsklage: Zentralkammer (Art. 33 Abs. 4 bis 6)
+  - 5. Vereinbarung und Aussetzung (Art. 33 Abs. 7, 10)
+- E. Rüge durch den Beklagten: Einspruch ([R. 19 bis 21 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Prüfungsschema, EPG: Zuständigkeit*
+
+---
+
+**F:** Prüfungsschema: Verletzungsklage vor dem EPG ([Art. 32 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 12 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** - A. Zulässigkeit
+  - 1. Zuständigkeit und Kammer
+  - 2. Parteien und Klagebefugnis ([Art. 46, 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 3. Vertretung ([Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 4. Klageschrift, Gebühr, Zustellung ([R. 13 bis 16, 270 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+  - 5. Verfahrenssprache ([Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 14 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+  - 6. Keine entgegenstehende Rechtshängigkeit, kein Opt-out
+- B. Begründetheit: Verletzung
+  - 1. Schutzbereich: Auslegung des Patentanspruchs (Art. 69 EPÜ)
+  - 2. Benutzungshandlung ([Art. 25, 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 3. Wortsinngemäß oder äquivalent
+  - 4. Im Gebiet der Vertragsmitgliedstaaten, ohne Zustimmung
+  - 5. Keine Beschränkungen und Einwendungen ([Art. 27, 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 6. Rechtsbestand: Widerklage auf Nichtigerklärung ([R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- C. Rechtsfolgen ([Art. 63 bis 69, 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 1. Unterlassung und Zwangsgeld ([Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 2. Abhilfemaßnahmen, Auskunft, Veröffentlichung ([Art. 64, 67, 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 3. Schadensersatz ([Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 125 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+  - 4. Kosten und Vollstreckung ([Art. 69, 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Prüfungsschema, EPG: Verfahren*
+
+---
+
+**F:** Prüfungsschema: Antrag auf einstweilige Maßnahmen ([Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** - A. Zulässigkeit des Antrags
+  - 1. Zuständigkeit (Art. 32 Abs. 1 lit. c, [Art. 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 2. Inhalt des Antrags ([R. 206.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+  - 3. Schutzschrift des Antragsgegners ([R. 207 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- B. Begründetheit ([R. 211 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 62 Abs. 2, 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 1. Hinreichende Sicherheit über Berechtigung und Verletzung (R. 211.2)
+  - 2. Rechtsbestand
+  - 3. Notwendigkeit und Interessenabwägung (R. 211.3, Art. 62 Abs. 2)
+  - 4. Keine unangemessene Verzögerung (R. 211.4)
+- C. Verfahren und Entscheidung
+  - 1. Anhörung oder ex parte ([R. 209, 212 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+  - 2. Inhalt der Anordnung ([Art. 62 Abs. 1, 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 3. Sicherheitsleistung und Folgen ([R. 211.5, 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 62 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 4. Berufung ([Art. 73 Abs. 2 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 220.1 lit. c)
+
+*Tags: Prüfungsschema, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+**F:** Prüfungsschema: Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 192 bis 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** - A. Antrag ([R. 192 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- B. Voraussetzungen ([Art. 60 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 194 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+  - 1. Vernünftigerweise verfügbare Beweismittel für die Verletzung
+  - 2. Ermessen und Verhältnismäßigkeit (R. 194.2, 194.3)
+- C. Anordnung und Vollzug ([R. 196, 197 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- D. Folgen ([R. 198 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 60 Abs. 8, 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Prüfungsschema, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+**F:** Prüfungsschema: Nichtigkeitsklage und Widerklage auf Nichtigerklärung ([Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 25, 42 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** - A. Zulässigkeit
+  - 1. Klageart und Kammer
+  - 2. Klagebefugnis ([Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+  - 3. Inhalt und Substantiierung (R. 44, [R. 25.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+  - 4. Kein Hindernis durch paralleles EPA-Verfahren
+- B. Begründetheit: Nichtigkeitsgründe ([Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 138 EPÜ)
+  - 1. Auslegung des Anspruchs
+  - 2. Neuheit und Offenbarungsgehalt
+  - 3. Erfinderische Tätigkeit
+  - 4. Unzulässige Erweiterung und Ausführbarkeit
+- C. Verteidigung: Änderung des Patents ([R. 30, 50 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- D. Entscheidung und Wirkung ([Art. 65 Abs. 3 bis 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Prüfungsschema, EPG: Materielles Recht*
+
+---
+
+**F:** Prüfungsschema: Berufung zum Berufungsgericht ([Art. 73 bis 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220 bis 243 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** - A. Statthaftigkeit ([Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+  - 1. Endentscheidungen und Kostenentscheidungen (R. 220.1 lit. a, b)
+  - 2. Anordnungen nach [Art. 49 Abs. 5, 59 bis 62, 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (R. 220.1 lit. c)
+  - 3. Sonstige Anordnungen: Zulassung oder Ermessensüberprüfung (R. 220.2 bis 220.4)
+- B. Frist und Form ([R. 224 bis 226 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- C. Beschwer, Anschlussberufung, Streithelfer ([R. 237, 313 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- D. Aufschiebende Wirkung ([Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- E. Prüfungsumfang und neues Vorbringen ([R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- F. Entscheidung ([Art. 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 242 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Prüfungsschema, EPG: Berufung*
+
+---
+
+**F:** Prüfungsschema: Kosten, Gebühren und Prozesskostensicherheit ([Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 150 bis 158, 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** - A. Gerichtsgebühren ([R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- B. Prozesskostensicherheit ([Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- C. Kostengrundentscheidung ([Art. 69 Abs. 1 bis 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- D. Kostenfestsetzung ([R. 150 bis 157 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Prüfungsschema, EPG: Verfahren*
+
+---
+
+**F:** Prüfungsschema: Antrag auf Schutz vertraulicher Informationen ([Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** - A. Antrag ([R. 262A.1 bis 262A.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- B. Anhörung und Abwägung ([R. 262A.4, 262A.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- C. Vertraulichkeitskreis ([R. 262A.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- D. Wirkung und Rechtsmittel
+
+*Tags: Prüfungsschema, EPG: Einstweilige Maßnahmen und Beweis*
 
 ---
 
@@ -3862,6 +6050,161 @@ Kernpunkt der Klausur.
 
 ---
 
+**F:** D. Zuständige Kammer ([Art. 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+(Zuständigkeit des EPG und Kammerwahl ([Art. 31 bis 34 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Verletzungsklage: Lokal-/Regionalkammer (Art. 33 Abs. 1)
+- 2. Sperre paralleler Klagen (Art. 33 Abs. 2)
+- 3. Widerklage auf Nichtigerklärung: drei Optionen (Art. 33 Abs. 3)
+- 4. Nichtigkeits- und Feststellungsklage: Zentralkammer (Art. 33 Abs. 4 bis 6)
+- 5. Vereinbarung und Aussetzung (Art. 33 Abs. 7, 10)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** A. Zulässigkeit
+(Verletzungsklage vor dem EPG ([Art. 32 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 12 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Zuständigkeit und Kammer
+- 2. Parteien und Klagebefugnis ([Art. 46, 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 3. Vertretung ([Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 4. Klageschrift, Gebühr, Zustellung ([R. 13 bis 16, 270 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- 5. Verfahrenssprache ([Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 14 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- 6. Keine entgegenstehende Rechtshängigkeit, kein Opt-out
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Begründetheit: Verletzung
+(Verletzungsklage vor dem EPG ([Art. 32 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 12 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Schutzbereich: Auslegung des Patentanspruchs (Art. 69 EPÜ)
+- 2. Benutzungshandlung ([Art. 25, 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 3. Wortsinngemäß oder äquivalent
+- 4. Im Gebiet der Vertragsmitgliedstaaten, ohne Zustimmung
+- 5. Keine Beschränkungen und Einwendungen ([Art. 27, 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 6. Rechtsbestand: Widerklage auf Nichtigerklärung ([R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Rechtsfolgen ([Art. 63 bis 69, 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+(Verletzungsklage vor dem EPG ([Art. 32 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 12 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Unterlassung und Zwangsgeld ([Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 2. Abhilfemaßnahmen, Auskunft, Veröffentlichung ([Art. 64, 67, 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 3. Schadensersatz ([Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 125 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- 4. Kosten und Vollstreckung ([Art. 69, 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** A. Zulässigkeit des Antrags
+(Antrag auf einstweilige Maßnahmen ([Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Zuständigkeit (Art. 32 Abs. 1 lit. c, [Art. 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 2. Inhalt des Antrags ([R. 206.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- 3. Schutzschrift des Antragsgegners ([R. 207 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Begründetheit ([R. 211 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 62 Abs. 2, 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+(Antrag auf einstweilige Maßnahmen ([Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Hinreichende Sicherheit über Berechtigung und Verletzung (R. 211.2)
+- 2. Rechtsbestand
+- 3. Notwendigkeit und Interessenabwägung (R. 211.3, Art. 62 Abs. 2)
+- 4. Keine unangemessene Verzögerung (R. 211.4)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Verfahren und Entscheidung
+(Antrag auf einstweilige Maßnahmen ([Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Anhörung oder ex parte ([R. 209, 212 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- 2. Inhalt der Anordnung ([Art. 62 Abs. 1, 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 3. Sicherheitsleistung und Folgen ([R. 211.5, 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 62 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 4. Berufung ([Art. 73 Abs. 2 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 220.1 lit. c)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Voraussetzungen ([Art. 60 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 194 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+(Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 192 bis 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Vernünftigerweise verfügbare Beweismittel für die Verletzung
+- 2. Ermessen und Verhältnismäßigkeit (R. 194.2, 194.3)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** A. Zulässigkeit
+(Nichtigkeitsklage und Widerklage auf Nichtigerklärung ([Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 25, 42 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Klageart und Kammer
+- 2. Klagebefugnis ([Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+- 3. Inhalt und Substantiierung (R. 44, [R. 25.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- 4. Kein Hindernis durch paralleles EPA-Verfahren
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Begründetheit: Nichtigkeitsgründe ([Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 138 EPÜ)
+(Nichtigkeitsklage und Widerklage auf Nichtigerklärung ([Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 25, 42 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Auslegung des Anspruchs
+- 2. Neuheit und Offenbarungsgehalt
+- 3. Erfinderische Tätigkeit
+- 4. Unzulässige Erweiterung und Ausführbarkeit
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** A. Statthaftigkeit ([Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+(Berufung zum Berufungsgericht ([Art. 73 bis 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220 bis 243 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Endentscheidungen und Kostenentscheidungen (R. 220.1 lit. a, b)
+- 2. Anordnungen nach [Art. 49 Abs. 5, 59 bis 62, 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (R. 220.1 lit. c)
+- 3. Sonstige Anordnungen: Zulassung oder Ermessensüberprüfung (R. 220.2 bis 220.4)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
 ## abgrenzung
 
 **F:** Worin unterscheiden sich Unterscheidungskraft und Kennzeichnungskraft?
@@ -4205,13 +6548,149 @@ Merksatz: Ein Muster, sieben Gesetze: Vernichtung/Rückruf – Auskunft – Vorl
 
 ---
 
+**F:** Welche Klagen gehören vor die Lokal- oder Regionalkammer, welche vor die Zentralkammer?
+(Lokal-/Regionalkammer vs. Zentralkammer)
+
+**A:** • Zuständige Klagen — Lokal-/Regionalkammer: Verletzungsklage, einstweilige Maßnahmen, Schadensersatz, Vorbenutzung, Lizenzvergütung ([Art. 32 Abs. 1 lit. a, c, f, g, h EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Widerklage auf Nichtigerklärung | Zentralkammer: Nichtigkeitsklage, Feststellung der Nichtverletzung ([Art. 32 Abs. 1 lit. b, d EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Verletzungsklagen gegen Drittstaatenbeklagte wahlweise; Klagen gegen EPA-Entscheidungen
+• Anknüpfung — Lokal-/Regionalkammer: Verletzungsort oder Beklagtensitz ([Art. 33 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) | Zentralkammer: IPC-Klasse des Patents (Anhang II EPGÜ, [R. 17.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+• Besetzung — Lokal-/Regionalkammer: Drei rechtlich qualifizierte Richter, technisch qualifizierter Richter auf Antrag oder bei Widerklage ([Art. 8 Abs. 2 bis 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) | Zentralkammer: Zwei rechtlich und ein technisch qualifizierter Richter ([Art. 8 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+• Sprache — Lokal-/Regionalkammer: Amtssprache des Sitzstaats oder zugelassene EPA-Sprache; Patentsprache auf Antrag ([Art. 49 Abs. 1 bis 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) | Zentralkammer: Sprache des Patents ([Art. 49 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+• Sitz/Abteilung — Lokal-/Regionalkammer: Bis zu vier Lokalkammern je Staat (DE: Düsseldorf, Hamburg, Mannheim, München); Regionalkammer Nordisch-Baltisch | Zentralkammer: Sitz Paris; Abteilungen München und Mailand (statt London)
+• Verhältnis zueinander — Lokal-/Regionalkammer: Anhängige Verletzungsklage zieht Nichtigkeitsklage an sich ([Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Optionen bei Widerklage (Abs. 3) | Zentralkammer: Feststellungsklage wird bei Verletzungsklage binnen drei Monaten ausgesetzt ([Art. 33 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+
+Merksatz: Angriff auf das Produkt zur Lokalkammer, Angriff auf das Patent zur Zentralkammer, es sei denn, die Lokalkammer ist schon befasst.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Worin unterscheiden sich Hauptsacheverfahren und Eilverfahren vor dem EPG?
+(Verletzungsklage vs. Antrag auf einstweilige Maßnahmen)
+
+**A:** • Rechtsgrundlage — Verletzungsklage: Art. 32 Abs. 1 lit. a, [Art. 63 ff. EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 12 bis 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | Einstweilige Maßnahmen: Art. 32 Abs. 1 lit. c, [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+• Beweismaß — Verletzungsklage: Volle Überzeugung nach Beweisaufnahme ([Art. 54 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) | Einstweilige Maßnahmen: Hinreichende Sicherheit = überwiegende Wahrscheinlichkeit ([R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); NanoString/10x)
+• Rechtsbestand — Verletzungsklage: Nur als Widerklage auf Nichtigerklärung ([R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); Optionen des Art. 33 Abs. 3 | Einstweilige Maßnahmen: Einwand ohne eigene Klage; Beweislast beim Antragsgegner; Verzicht jederzeit möglich (Merz/Viatris)
+• Dringlichkeit — Verletzungsklage: Keine | Einstweilige Maßnahmen: Unangemessene Verzögerung schadet (R. 211.4); Hauptsache darf nicht abwartbar sein (Biolitec)
+• Anhörung — Verletzungsklage: Immer schriftliches Verfahren mit Erwiderung (drei Monate) | Einstweilige Maßnahmen: Regel: Anhörung; ausnahmsweise ex parte (R. 212) mit Offenlegungspflicht
+• Dauer und Ablauf — Verletzungsklage: Ziel: mündliche Verhandlung binnen eines Jahres; Zwischenverfahren | Einstweilige Maßnahmen: Wenige Wochen bis Monate; Entscheidung durch Spruchkörper oder Einzelrichter
+• Berufung — Verletzungsklage: Zwei Monate, Endentscheidung (R. 220.1 lit. a) | Einstweilige Maßnahmen: 15 Tage, Anordnung nach Art. 62 (R. 220.1 lit. c)
+• Folgen bei Aufhebung — Verletzungsklage: Aufhebung wirkt zurück; Zwangsgelder entfallen (Kodak/Fujifilm) | Einstweilige Maßnahmen: Verschuldensunabhängiger Schadensersatz (Art. 62 Abs. 5, R. 213); Sicherheitsleistung (R. 211.5)
+
+Merksatz: Eilverfahren = Wahrscheinlichkeit statt Gewissheit, Tempo statt Vollständigkeit, Sicherheit statt Rechtskraft.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wann greift [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), wann [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)?
+(Akteneinsicht Dritter (R. 262) vs. Schutz vertraulicher Informationen (R. 262A))
+
+**A:** • Schutzrichtung — [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Öffentlichkeit des Registers): Zugang der Öffentlichkeit zu Entscheidungen (automatisch) und zu Schriftsätzen/Beweismitteln (auf begründeten Antrag, Abs. 1 lit. b) | [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vertraulichkeit im Verfahren): Beschränkung des Zugangs der Gegenpartei und ihrer Vertreter auf einen Personenkreis
+• Antragsteller — [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Öffentlichkeit des Registers): Dritter (vertreten nach [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) bzw. Partei für Vertraulichkeitsvermerk (Abs. 2) | [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vertraulichkeit im Verfahren): Die Partei, die das Dokument einreicht
+• Zeitpunkt — [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Öffentlichkeit des Registers): Jederzeit; Entscheidung des Berichterstatters nach Anhörung der Parteien | [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vertraulichkeit im Verfahren): Bei Einreichung des Dokuments (R. 262A.3)
+• Prüfungsmaßstab — [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Öffentlichkeit des Registers): Begründetes Interesse des Dritten (auch abstraktes Fortbildungsinteresse einer Kanzlei, Huawei/MediaTek); Vertraulichkeitsinteressen | [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vertraulichkeit im Verfahren): Interesse des Antragstellers überwiegt beträchtlich (R. 262A.5); Recht auf faires Verfahren; mindestens eine natürliche Person je Partei (Ericsson/ASUS)
+• Wirkung gegenüber der Gegenpartei — [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Öffentlichkeit des Registers): Keine: Ein Antrag nach R. 262.2 schützt nicht vor Weitergabe durch die Gegenpartei; Geheimnis geht verloren (EOFlow/Insulet) | [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vertraulichkeit im Verfahren): Ja: Zugangsbeschränkung, gilt über die Instanz hinaus (Curio/10x)
+• Rechtsmittel — [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Öffentlichkeit des Registers): Überprüfung nach R. 333, dann Berufung nach R. 220.2, 220.3 (EPG-BerG 2026) | [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vertraulichkeit im Verfahren): Berufung nach [R. 220.2, 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Merksatz: R. 262 regelt, was die Welt sieht; R. 262A regelt, was der Gegner sieht.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Was gehört in den Einspruch, was in die Klageerwiderung?
+(Einspruch (R. 19) vs. Klageerwiderung (R. 23))
+
+**A:** • Frist — Einspruch (Preliminary objection, [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Ein Monat nach Zustellung der Klageschrift (R. 19.1) | Klageerwiderung (Statement of defence, [R. 23 bis 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Drei Monate nach Zustellung (R. 23)
+• Zulässige Inhalte — Einspruch (Preliminary objection, [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Nur: Zuständigkeit des Gerichts (inkl. Opt-out), Zuständigkeit der Kammer, Sprache der Klageschrift; abschließend (Roku/Dolby) | Klageerwiderung (Statement of defence, [R. 23 bis 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Alle Einwendungen zur Sache: Nichtverletzung, Schranken, Erschöpfung, FRAND; Nichtigkeit nur als Widerklage (R. 25)
+• Folge des Unterlassens — Einspruch (Preliminary objection, [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Anerkennung der Zuständigkeit (R. 19.7); Rüge in der Berufung ausgeschlossen (Sinocare/Abbott) | Klageerwiderung (Statement of defence, [R. 23 bis 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Versäumnisentscheidung (R. 355) auf Antrag des Klägers
+• Entscheidung — Einspruch (Preliminary objection, [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Berichterstatter, ggf. Verweisung ins Hauptverfahren (R. 20); Verweisung an zuständige Kammer (R. 19.5) | Klageerwiderung (Statement of defence, [R. 23 bis 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Spruchkörper in der Endentscheidung
+• Rechtsmittel — Einspruch (Preliminary objection, [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Berufung nach [R. 21 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Zulassung); Aussetzung nur bei eingelegter Berufung (Sun Patent/Vivo) | Klageerwiderung (Statement of defence, [R. 23 bis 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Berufung gegen die Endentscheidung (R. 220.1 lit. a)
+• Wirkung auf die Hauptfrist — Einspruch (Preliminary objection, [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Berührt die Frist für die Klageerwiderung nicht (R. 19.6), außer der Berichterstatter entscheidet anders | Klageerwiderung (Statement of defence, [R. 23 bis 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)): Verlängerung nur ausnahmsweise (R. 9.3), etwa bei fehlenden Anlagen (Sanofi/Amgen)
+
+Merksatz: Der Einspruch fragt „darf dieses Gericht?“, die Klageerwiderung fragt „hat der Kläger recht?“.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Entscheidungen des Gerichts erster Instanz sind wie anfechtbar?
+(Berufung gegen Endentscheidungen vs. gegen Anordnungen)
+
+**A:** • Gegenstand — Endentscheidung (R. 220.1 lit. a, b): Entscheidung in der Sache, Kostenentscheidung, Versäumnisentscheidung | Anordnung nach Art. 73 Abs. 2 lit. a (R. 220.1 lit. c): Anordnungen nach [Art. 49 Abs. 5, 59, 60, 61, 62, 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) | Sonstige Anordnung (R. 220.2 bis 220.4): Verfahrensleitende Anordnungen, Streitwert, Zwangsgeldfestsetzung (EOFlow/Insulet), Entscheidungen nach R. 333
+• Zulassung — Endentscheidung (R. 220.1 lit. a, b): Keine | Anordnung nach Art. 73 Abs. 2 lit. a (R. 220.1 lit. c): Keine | Sonstige Anordnung (R. 220.2 bis 220.4): Zulassung durch das Gericht erster Instanz oder Ermessensüberprüfung durch den Bereitschaftsrichter (R. 220.3, 220.4)
+• Frist — Endentscheidung (R. 220.1 lit. a, b): Zwei Monate ab Zustellung der begründeten Entscheidung (R. 224.1 lit. a) | Anordnung nach Art. 73 Abs. 2 lit. a (R. 220.1 lit. c): 15 Tage (R. 224.1 lit. b) | Sonstige Anordnung (R. 220.2 bis 220.4): 15 Tage ab Zulassung bzw. Antrag auf Überprüfung binnen 15 Tagen
+• Aufschiebende Wirkung — Endentscheidung (R. 220.1 lit. a, b): Nein, außer Nichtigkeitsentscheidungen (Art. 74 Abs. 2); Antrag nach R. 223 | Anordnung nach Art. 73 Abs. 2 lit. a (R. 220.1 lit. c): Nein; Antrag nach R. 223 | Sonstige Anordnung (R. 220.2 bis 220.4): Nein
+• Beispiele — Endentscheidung (R. 220.1 lit. a, b): Urteil über Verletzung und Widerklage | Anordnung nach Art. 73 Abs. 2 lit. a (R. 220.1 lit. c): Einstweilige Maßnahme, Beweissicherung, Sprachwechsel | Sonstige Anordnung (R. 220.2 bis 220.4): Fristverlängerung, Vertraulichkeitsanordnung, Akteneinsicht
+
+Merksatz: Endentscheidung und Eilanordnungen sind frei anfechtbar, alles andere braucht die Zulassung.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wann Beweissicherung/Besichtigung, wann Anordnung der Beweisvorlage?
+(Beweissicherung (Art. 60) vs. Beweisvorlage (Art. 59))
+
+**A:** • Zweck — Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 192 ff.): Sicherung gefährdeter Beweismittel, Besichtigung von Räumen, Probenahme („saisie“) | Anordnung der Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 190): Vorlage bezeichneter Beweismittel in der Verfügungsgewalt der Gegenseite oder Dritter
+• Zeitpunkt — Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 192 ff.): Vor oder während der Hauptsache; oft ex parte | Anordnung der Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 190): Im laufenden Verfahren, typisch im Zwischenverfahren
+• Maßstab — Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 192 ff.): Vernünftigerweise verfügbare Beweise, Plausibilität der Verletzung; keine fishing expedition (Centripetal/Palo Alto) | Anordnung der Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 190): Substantiierte, erhebliche und bestrittene Tatsachen; keine Ausforschung unbekannter Tatsachen (LK Düsseldorf Ecovacs/Roborock)
+• Verfahren — Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 192 ff.): Gerichtlich bestellter Sachverständiger vollzieht (R. 196); Verwendungsbeschränkung | Anordnung der Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 190): Anordnung mit Bedingungen, Vertraulichkeitsschutz (R. 262A)
+• Adressat — Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 192 ff.): Mutmaßlicher Verletzer, ggf. Dritte | Anordnung der Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 190): Gegenpartei oder Dritter
+• Schutz des Gegners — Beweissicherung und Besichtigung ([Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 192 ff.): Sicherheit (Art. 60 Abs. 7), Schadensersatz bei Aufhebung (Abs. 8), Überprüfung (R. 197.3), Hauptsachefrist (R. 198) | Anordnung der Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), R. 190): Rechtliches Gehör vor der Anordnung; Vertraulichkeit (Art. 58)
+
+Merksatz: Art. 60 holt Beweise, bevor sie verschwinden; Art. 59 holt Beweise, die der Gegner hat.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Was ist vor dem EPG anders als im deutschen Patentverletzungsprozess?
+(Verletzungsverfahren vor dem EPG vs. vor deutschen Gerichten)
+
+**A:** • Rechtsbestand — EPG: Widerklage auf Nichtigerklärung vor derselben Kammer möglich (Art. 33 Abs. 3 lit. a); Bifurkation nur als Option | Deutschland (LG/OLG, BPatG): Trennungsprinzip: Nichtigkeitsklage nur beim BPatG ([§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html)); Verletzungsgericht setzt allenfalls aus ([§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html))
+• Territoriale Wirkung — EPG: Alle Vertragsmitgliedstaaten, für die das Patent gilt ([Art. 34 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) | Deutschland (LG/OLG, BPatG): Nur der deutsche Teil des europäischen Patents
+• Verfahrensdauer und Struktur — EPG: Front-loaded, feste Fristen, mündliche Verhandlung binnen etwa eines Jahres; drei Verfahrensabschnitte | Deutschland (LG/OLG, BPatG): Klage, Erwiderung, Replik, Duplik nach richterlicher Fristsetzung; Verhandlung meist nach 12 bis 15 Monaten
+• Besetzung — EPG: Multinationaler Spruchkörper, technisch qualifizierter Richter aus dem Pool | Deutschland (LG/OLG, BPatG): Drei Berufsrichter ohne technische Ausbildung; Sachverständige
+• Sprache — EPG: Wählbar: Deutsch oder Englisch vor deutschen Lokalkammern; Patentsprache auf Antrag | Deutschland (LG/OLG, BPatG): Deutsch ([§ 184 GVG](https://www.gesetze-im-internet.de/gvg/__184.html))
+• Kosten — EPG: Festgebühr plus Streitwertgebühr, Erstattung bis zur Obergrenze ([Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) | Deutschland (LG/OLG, BPatG): GKG-Gebühren nach Streitwert, Erstattung nach RVG-Sätzen ([§ 91 ZPO](https://www.gesetze-im-internet.de/zpo/__91.html))
+• Vollstreckung — EPG: Sofort vollstreckbar, Zwangsgeld durch das Gericht selbst (R. 354) | Deutschland (LG/OLG, BPatG): Vorläufige Vollstreckbarkeit gegen Sicherheit ([§ 709 ZPO](https://www.gesetze-im-internet.de/zpo/__709.html)), Ordnungsmittel nach [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html)
+• Rechtsmittel — EPG: Berufung zum Berufungsgericht Luxemburg, keine dritte Instanz; Vorlage an den EuGH | Deutschland (LG/OLG, BPatG): Berufung zum OLG, Nichtzulassungsbeschwerde/Revision zum BGH
+
+Merksatz: Das EPG verbindet Verletzung und Rechtsbestand in einem Verfahren mit Wirkung für den ganzen Vertragsraum – das ist der Systembruch gegenüber Deutschland.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Vorschrift des EPGÜ und der VerfO entspricht welchem Artikel der Durchsetzungsrichtlinie 2004/48/EG, und wo steht die deutsche Umsetzung?
+(Durchsetzungsrichtlinie: Umsetzung im EPGÜ, in der VerfO und im deutschen Recht)
+
+**A:** • Art. 3 – Allgemeine Verpflichtung (fair, verhältnismäßig, abschreckend) — EPGÜ: [Art. 42 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Verhältnismäßigkeit und Fairness); Präambel VerfO Nr. 2 bis 5 | VerfO: [R. 1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html) (Verhältnismäßigkeit) und allgemeine Grundsätze | PatG: [§ 140a Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 140b Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140b.html), [§ 139 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+• Art. 4 – Antragsbefugte (Inhaber, Lizenznehmer) — EPGÜ: [Art. 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Parteien: Inhaber, ausschließlicher Lizenznehmer, einfacher Lizenznehmer mit Zustimmung) | VerfO: [R. 13.1(g) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html) | PatG: [§ 15 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html), [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+• Art. 6 – Beweise / Vorlage von Beweismitteln — EPGÜ: [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Anordnung der Beweisvorlage), [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Vertraulichkeit) | VerfO: [R. 190 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html) | PatG: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)
+• Art. 7 – Maßnahmen zur Beweissicherung — EPGÜ: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Beweissicherung, Besichtigung, Arrest) | VerfO: [R. 192 bis 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html) i.V.m. [§§ 485 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__485.html) | PatG: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) i.V.m. [§§ 485 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__485.html)
+• Art. 8 – Recht auf Auskunft — EPGÜ: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Anordnung zur Auskunftserteilung) | VerfO: [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html) | PatG: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html)
+• Art. 9 – Einstweilige Maßnahmen und Sicherungsmaßnahmen — EPGÜ: [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (einstweilige Maßnahmen), [Art. 61 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Arrest, Kontensperre) | VerfO: [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html) | PatG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html), [§ 140b Abs. 7 PatG](https://www.gesetze-im-internet.de/patg/__140b.html)
+• Art. 10 – Abhilfemaßnahmen (Rückruf, Entfernung, Vernichtung) — EPGÜ: [Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Abhilfemaßnahmen) | VerfO: [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) | PatG: [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html)
+• Art. 11 – Gerichtliche Anordnungen (Unterlassung, Mittelspersonen) — EPGÜ: [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Unterlassungsanordnung, Zwangsgeld) | VerfO: R. 118, [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html) | PatG: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html)
+• Art. 13 – Schadensersatz — EPGÜ: [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Schadensersatz, drei Berechnungsarten) | VerfO: R. 118.1, [R. 125 bis 131 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) | PatG: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+• Art. 14 – Prozesskosten — EPGÜ: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Kosten, Obergrenzen, Prozesskostensicherheit) | VerfO: R. 150 bis 158, [R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html) (Streitwertbegünstigung) | PatG: [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html), [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html)
+• Art. 15 – Veröffentlichung von Gerichtsentscheidungen — EPGÜ: [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Veröffentlichung der Entscheidung) | VerfO: [R. 118.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html) | PatG: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html)
+
+Merksatz: Die Durchsetzungsrichtlinie ist der gemeinsame Nenner: Was im MarkenG die §§ [18](https://www.gesetze-im-internet.de/markeng/__18.html) bis [19c](https://www.gesetze-im-internet.de/markeng/__19c.html) und im PatG die §§ [140a](https://www.gesetze-im-internet.de/markeng/__140a.html) bis [140e](https://www.gesetze-im-internet.de/markeng/__140e.html) regeln, steht für das EPG in [Art. 56 bis 69 und 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)).
+
+*Tags: Abgrenzung*
+
+---
+
 ## entscheidung
 
 **F:** BGH „ROCHER-Kugel“ (I ZB 88/07, 2009) – Kernaussage?
 
 **A:** Eine dreidimensionale Warenformmarke (Ferrero-Rocher-Praline) besitzt nur dann originäre Unterscheidungskraft, wenn sie erheblich von der Norm oder Branchenüblichkeit abweicht. Für die Verkehrsdurchsetzung nach [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html) ist im Regelfall ein Zuordnungsgrad von mindestens 50 % erforderlich.
 
-Normen: [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2010, 138
 
 *Tags: Rechtsprechung, BGH, Formmarke, Verkehrsdurchsetzung*
@@ -4236,7 +6715,7 @@ Eine dreidimensionale Warenformmarke (Ferrero-Rocher-Praline) besitzt nur dann o
 
 **A:** Die quadratische Ritter-Sport-Verpackung bleibt als Formmarke geschützt. Das Schutzhindernis der wertverleihenden Form ([§ 3 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)) greift nicht, wenn die Kaufentscheidung nicht durch die ästhetische Qualität der Form, sondern durch andere Merkmale (hier: Herkunftshinweis, Praktikabilität) bestimmt wird. Die Form ist auch nicht durch die Art der Ware selbst bedingt ([§ 3 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__3.html)).
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 3 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 3 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html)
 Fundstelle: GRUR 2020, 1089
 
 *Tags: Rechtsprechung, BGH, Formmarke, § 3 Abs. 2*
@@ -4286,7 +6765,7 @@ Ein Zeichen ist von der Eintragung ausgeschlossen, wenn alle wesentlichen Merkma
 
 **A:** Eine technische Wirkung i.S.d. [§ 3 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html) kann auch durch formgebende Merkmale eines Zeichens erreicht werden, das für nichttechnische Produkte wie Lebensmittel (Dextro-Energy-Täfelchen) beansprucht wird.
 
-Normen: [§ 3 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 3 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2018, 411
 
 *Tags: Rechtsprechung, BGH, Formmarke*
@@ -4336,7 +6815,7 @@ Ein Zeichen, das ausschließlich aus der Form einer Ware besteht, ist nicht eint
 
 **A:** Eine abstrakte Farbe ohne räumliche Begrenzung kann markenfähig sein, wenn sie durch einen international anerkannten Farbcode eindeutig bestimmt ist. Originäre Unterscheidungskraft kommt einer Farbe nur unter außergewöhnlichen Umständen zu; regelmäßig ist Verkehrsdurchsetzung nötig. Das Allgemeininteresse an der Verfügbarkeit von Farben ist zu berücksichtigen.
 
-Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 3 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2003, 604
 
 *Tags: Rechtsprechung, EuGH, Farbmarke*
@@ -4361,7 +6840,7 @@ Eine abstrakte Farbe ohne räumliche Begrenzung kann markenfähig sein, wenn sie
 
 **A:** Ein Zeichen mit mehreren Bedeutungen ('HOT' = heiß/scharf/angesagt) fehlt die Unterscheidungskraft, wenn es in einer seiner möglichen Bedeutungen ein Merkmal der Waren beschreibt. Die Mehrdeutigkeit begründet keine Unterscheidungskraft. Zugleich: Freihaltebedürfnis für Waren, bei denen 'hot' die Beschaffenheit beschreibt.
 
-Normen: [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2014, 569
 
 *Tags: Rechtsprechung, BGH, Unterscheidungskraft, Mehrdeutigkeit*
@@ -4486,7 +6965,7 @@ Die Unterscheidungskraft eines Zeichens ist unter Berücksichtigung aller releva
 
 **A:** Der Name einer fiktiven Romanfigur ('Pippi Langstrumpf') ist für Beherbergungsdienstleistungen unterscheidungskräftig. Eine 'sprechende' Marke, die neben der Herkunft auch Assoziationen zur Dienstleistung weckt, ist nur dann nicht unterscheidungskräftig, wenn ein enger beschreibender Bezug besteht.
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2018, 301
 
 *Tags: Rechtsprechung, BGH, Unterscheidungskraft, Personenname*
@@ -4561,7 +7040,7 @@ Fundstelle: GRUR 2016, 934
 
 **A:** Die Kombination einer Ortsangabe mit einer beschreibenden Gattungsbezeichnung ('DüsseldorfCongress') fehlt für Veranstaltungsdienstleistungen die Unterscheidungskraft; die Zusammenschreibung ändert den beschreibenden Charakter nicht.
 
-Normen: [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2014, 1204
 
 *Tags: Rechtsprechung, BGH, Unterscheidungskraft, geographische Angabe*
@@ -4611,7 +7090,7 @@ Für Druckereierzeugnisse und Verlagsdienstleistungen fehlt 'Die Vision' die Unt
 
 **A:** 'marktfrisch' ist für Lebensmittel eine beschreibende Angabe (Beschaffenheit) und daher weder unterscheidungskräftig noch vom Freihaltebedürfnis ausgenommen. Grundsatz: Unterscheidungskraft fehlt bei Wörtern mit für die Ware im Vordergrund stehendem beschreibenden Begriffsinhalt.
 
-Normen: [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2001, 1151
 
 *Tags: Rechtsprechung, BGH, Unterscheidungskraft*
@@ -4636,7 +7115,7 @@ Fundstelle: GRUR 2001, 1151
 
 **A:** Ein Freihaltebedürfnis nach [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html) setzt nicht voraus, dass das Zeichen im Anmeldezeitpunkt bereits beschreibend verwendet wird; es genügt, dass eine beschreibende Verwendung vernünftigerweise für die Zukunft zu erwarten ist. 'Black Friday' wurde für Elektronikwaren und Werbedienstleistungen teilweise gelöscht.
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2021, 1195
 
 *Tags: Rechtsprechung, BGH, Freihaltebedürfnis, Löschung*
@@ -4661,7 +7140,7 @@ Ein Freihaltebedürfnis nach [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-
 
 **A:** Geographische Herkunftsangaben sind freizuhalten, wenn sie gegenwärtig oder vernünftigerweise in Zukunft mit den Waren in Verbindung gebracht werden können. Für die Verkehrsdurchsetzung gibt es keine feste Prozentzahl; maßgeblich ist, ob ein erheblicher Teil der beteiligten Verkehrskreise die Ware aufgrund der Marke einem bestimmten Unternehmen zuordnet (Gesamtbetrachtung: Marktanteil, Intensität, Dauer, Werbeaufwand, Umfragen).
 
-Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 1999, 723
 
 *Tags: Rechtsprechung, EuGH, Freihaltebedürfnis, Verkehrsdurchsetzung*
@@ -4686,7 +7165,7 @@ Geographische Herkunftsangaben sind freizuhalten, wenn sie gegenwärtig oder ver
 
 **A:** Die Wort-Bild-Marke 'test' ist für Testzeitschriften beschreibend. Für die Verkehrsdurchsetzung reicht ein Zuordnungsgrad von 43 % regelmäßig nicht aus. Maßgeblicher Zeitpunkt der Verkehrsdurchsetzung ist der Anmeldetag; im Löschungsverfahren muss sie zusätzlich im Entscheidungszeitpunkt fortbestehen.
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2014, 483
 
 *Tags: Rechtsprechung, BGH, Verkehrsdurchsetzung*
@@ -4711,7 +7190,7 @@ Die Wort-Bild-Marke 'test' ist für Testzeitschriften beschreibend. Für die Ver
 
 **A:** Eine abstrakte Farbmarke (Gelb für zweisprachige Wörterbücher) hat sich im Verkehr durchgesetzt, wenn über 50 % der Verkehrskreise die Farbe einem Unternehmen zuordnen. Die Verkehrsdurchsetzung setzt nicht voraus, dass die Farbe isoliert, ohne Wort- und Bildzeichen benutzt wurde.
 
-Normen: [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2015, 581
 
 *Tags: Rechtsprechung, BGH, Farbmarke, Verkehrsdurchsetzung*
@@ -4736,7 +7215,7 @@ Eine abstrakte Farbmarke (Gelb für zweisprachige Wörterbücher) hat sich im Ve
 
 **A:** Für die Verkehrsdurchsetzung einer abstrakten Farbmarke genügt regelmäßig ein Zuordnungsgrad von über 50 %; ein höherer Grad (75 %) ist nicht erforderlich. Verkehrsbefragungen müssen die konkrete Farbe für die konkreten Waren abfragen; eine Verwendung zusammen mit anderen Kennzeichen steht der Durchsetzung nicht entgegen.
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2015, 1012
 
 *Tags: Rechtsprechung, BGH, Farbmarke, Verkehrsdurchsetzung*
@@ -4761,7 +7240,7 @@ Für die Verkehrsdurchsetzung einer abstrakten Farbmarke genügt regelmäßig ei
 
 **A:** Verletzung der abstrakten Farbmarke Gelb (Langenscheidt) durch gelbe Verpackungen von Sprachlernsoftware: Eine markenmäßige Benutzung der Farbe setzt keine gesteigerte Kennzeichnungskraft der Farbmarke voraus; nimmt der Verkehr die Farbe als eigenständiges Zeichen (Zweitmarke) wahr, ist sie isoliert in den Zeichenvergleich einzustellen. Hohe Ähnlichkeit zwischen Wörterbüchern und Sprachlernsoftware.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2015, 1101
 
 *Tags: Rechtsprechung, BGH, Farbmarke, Verletzung*
@@ -4786,7 +7265,7 @@ Verletzung der abstrakten Farbmarke Gelb (Langenscheidt) durch gelbe Verpackunge
 
 **A:** Im Löschungsverfahren trägt der Antragsteller die Feststellungslast für das Fehlen der Verkehrsdurchsetzung im Anmeldezeitpunkt; verbleibende Zweifel gehen zu seinen Lasten. Das Sparkassen-Rot blieb als Farbmarke eingetragen.
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2016, 1167
 
 *Tags: Rechtsprechung, BGH, Farbmarke, Verkehrsdurchsetzung, Löschung*
@@ -4811,7 +7290,7 @@ Im Löschungsverfahren trägt der Antragsteller die Feststellungslast für das F
 
 **A:** Bösgläubigkeit kann sich aus dem sonstigen Verhalten des Anmelders ergeben, etwa wenn die Marke in erster Linie als Mittel des Wettbewerbskampfes (Sperrmarke) und nicht zur Förderung des eigenen Absatzes angemeldet wird. Maßgeblicher Zeitpunkt ist die Anmeldung; späteres Verhalten kann Indiz sein.
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2016, 380
 
 *Tags: Rechtsprechung, BGH, Bösgläubigkeit*
@@ -4836,7 +7315,7 @@ Bösgläubigkeit kann sich aus dem sonstigen Verhalten des Anmelders ergeben, et
 
 **A:** Bösgläubig handelt, wer ein Zeichen in Kenntnis eines schutzwürdigen Besitzstands eines Vorbenutzers ohne hinreichenden sachlichen Grund für gleiche Waren anmeldet, um den Besitzstand zu stören oder die Benutzung zu sperren. Die Sperrabsicht muss nicht der einzige Beweggrund sein.
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2008, 917
 
 *Tags: Rechtsprechung, BGH, Bösgläubigkeit*
@@ -4911,7 +7390,7 @@ Der Markeninhaber kann eine Benutzung verbieten, die die Funktionen der Marke, i
 
 **A:** Geschützt sind neben der Herkunftsfunktion auch Qualitäts-, Kommunikations-, Investitions- und Werbefunktion. Bei Doppelidentität genügt die Beeinträchtigung einer dieser Funktionen. Unlautere Ausnutzung der Wertschätzung (Duftvergleichslisten) liegt vor, wenn sich der Dritte in den Bereich der Sogwirkung der bekannten Marke begibt, um von ihrer Anziehungskraft ohne eigene Anstrengung zu profitieren.
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2009, 756
 
 *Tags: Rechtsprechung, EuGH, Funktionenlehre, Bekanntheitsschutz*
@@ -4936,7 +7415,7 @@ Geschützt sind neben der Herkunftsfunktion auch Qualitäts-, Kommunikations-, I
 
 **A:** Die Anbringung des Opel-Blitzes auf Spielzeugmodellautos verletzt die für Spielzeug eingetragene Marke nicht: Der Verkehr sieht darin nur die originalgetreue Nachbildung des Vorbilds, keinen Hinweis auf die Herkunft des Spielzeugs. Die Herkunftsfunktion wird nicht beeinträchtigt (Umsetzung von EuGH C-48/05 Adam Opel).
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2010, 726
 
 *Tags: Rechtsprechung, BGH, Markenmäßige Benutzung*
@@ -4986,7 +7465,7 @@ Ob eine Modellbezeichnung (Vorname 'Sam' für Hosen) markenmäßig benutzt wird,
 
 **A:** Die Verwendung von 'MO' in der Angebotsüberschrift 'Bench Damen Hose MO' kann als Herkunftshinweis (Zweitmarke) verstanden werden. Die Beurteilung erfolgt anhand der Kennzeichnungsgewohnheiten der Branche und der Gestaltung des konkreten Angebots; ein bekannter Herstellername schließt eine markenmäßige Benutzung der Modellbezeichnung nicht aus.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2019, 1289
 
 *Tags: Rechtsprechung, BGH, Markenmäßige Benutzung, Modellbezeichnung*
@@ -5036,7 +7515,7 @@ Eine Markenverletzung setzt eine markenmäßige Benutzung voraus, d.h. das Zeich
 
 **A:** Die bloße Benutzung einer Firma oder Geschäftsbezeichnung ist keine Benutzung 'für Waren oder Dienstleistungen'. Anders, wenn das Zeichen so benutzt wird, dass eine Verbindung zwischen der Firma und den vertriebenen Waren hergestellt wird und dadurch die Herkunftsfunktion beeinträchtigt werden kann.
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2007, 971
 
 *Tags: Rechtsprechung, EuGH, Firmenmäßiger Gebrauch*
@@ -5111,7 +7590,7 @@ Keyword-Advertising mit einer fremden Marke verletzt die Herkunftsfunktion regel
 
 **A:** Bestätigung und Präzisierung von Bananabay II: Auch wenn die Anzeige nicht ausdrücklich darauf hinweist, dass keine Verbindung zum Markeninhaber besteht, fehlt die Beeinträchtigung der Herkunftsfunktion, sofern die Anzeige klar abgesetzt ist und keine Angaben zu einer wirtschaftlichen Verbindung enthält. Anders, wenn die Anzeige eine Verbindung nahelegt.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2013, 290
 
 *Tags: Rechtsprechung, BGH, Keyword-Advertising*
@@ -5161,7 +7640,7 @@ Ausnahme zur Bananabay-Rechtsprechung: Weiß der Verkehr, dass der Markeninhaber
 
 **A:** Amazon-Anzeigen mit der Marke 'ORTLIEB', die auf Angebotslisten verlinken, in denen auch Produkte anderer Hersteller erscheinen, sind irreführend und verletzen die Marke: Der Verkehr erwartet aufgrund der Anzeige ausschließlich Produkte des Markeninhabers. Die Werbewirkung der Marke wird zu Drittprodukten umgeleitet.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2019, 1053
 
 *Tags: Rechtsprechung, BGH, Keyword-Advertising, Online-Handel*
@@ -5186,7 +7665,7 @@ Amazon-Anzeigen mit der Marke 'ORTLIEB', die auf Angebotslisten verlinken, in de
 
 **A:** Die Anzeige von Konkurrenzprodukten in der internen Suchergebnisliste von Amazon bei Eingabe der Marke 'Ortlieb' verletzt die Marke nicht ohne weiteres: Der Nutzer erkennt bei einer Plattform-Suche, dass ihm auch Alternativangebote gezeigt werden, sofern die Ergebnisse nicht als Produkte des Markeninhabers ausgegeben werden.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2018, 924
 
 *Tags: Rechtsprechung, BGH, Keyword-Advertising, Online-Handel*
@@ -5211,7 +7690,7 @@ Die Anzeige von Konkurrenzprodukten in der internen Suchergebnisliste von Amazon
 
 **A:** Wird ein mit der Marke des Originalherstellers gekennzeichneter Papierhandtuchspender mit Handtüchern eines Dritten befüllt, kann darin eine markenmäßige Benutzung (Doppelidentität) liegen, wenn der Verkehr die Nachfüllware dem Markeninhaber zuordnet. Der Lieferant der Nachfüllware, der die Spender nicht selbst befüllt, ist nicht Täter, kommt aber als Teilnehmer in Betracht; der Hinweis 'passend auch für Tork-Spender' ist an [§ 23 Nr. 3](https://www.gesetze-im-internet.de/markeng/__23.html) zu messen.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2019, 79
 
 *Tags: Rechtsprechung, BGH, Doppelidentität, Ersatzteil, § 23*
@@ -5236,7 +7715,7 @@ Wird ein mit der Marke des Originalherstellers gekennzeichneter Papierhandtuchsp
 
 **A:** Die Verwechslungsgefahr ist umfassend unter Berücksichtigung aller Umstände des Einzelfalls zu beurteilen. Maßgeblich ist der Gesamteindruck der Zeichen beim Durchschnittsverbraucher; die bloße gedankliche Verbindung genügt nicht. Je höher die Kennzeichnungskraft der älteren Marke, desto größer die Verwechslungsgefahr.
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 1998, 387
 
 *Tags: Rechtsprechung, EuGH, Verwechslungsgefahr*
@@ -5261,7 +7740,7 @@ Die Verwechslungsgefahr ist umfassend unter Berücksichtigung aller Umstände de
 
 **A:** Wechselwirkungslehre: Ein geringerer Grad der Warenähnlichkeit kann durch einen höheren Grad der Zeichenähnlichkeit oder eine erhöhte Kennzeichnungskraft ausgeglichen werden und umgekehrt. Bei der Warenähnlichkeit sind Art, Verwendungszweck, Nutzung, Eigenart als konkurrierende oder ergänzende Waren zu berücksichtigen. Verwechslungsgefahr umfasst auch die Annahme wirtschaftlicher Verbindungen.
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 1998, 922
 
 *Tags: Rechtsprechung, EuGH, Verwechslungsgefahr, Warenähnlichkeit*
@@ -5386,7 +7865,7 @@ Ein Bestandteil, der in einem zusammengesetzten Zeichen neben einem bekannten St
 
 **A:** Keine Verwechslungsgefahr zwischen 'METRO' und 'METROBUS' für Verkehrsdienstleistungen: 'Metro' wird in 'Metrobus' als beschreibender Hinweis auf ein städtisches Verkehrsmittel verstanden und prägt das Zeichen nicht; auch keine selbständig kennzeichnende Stellung. Schutz der bekannten Marke scheitert an fehlender gedanklicher Verknüpfung.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 Fundstelle: GRUR 2009, 484
 
 *Tags: Rechtsprechung, BGH, Verwechslungsgefahr*
@@ -5411,7 +7890,7 @@ Keine Verwechslungsgefahr zwischen 'METRO' und 'METROBUS' für Verkehrsdienstlei
 
 **A:** Der Wortbestandteil 'Kinder' ist für Süßwaren glatt beschreibend; er hat seine Schutzfähigkeit erst durch Verkehrsdurchsetzung erlangt und besitzt daher nur durchschnittliche, nicht gesteigerte Kennzeichnungskraft. Die durch Verkehrsdurchsetzung erworbene Kennzeichnungskraft beschränkt sich auf die konkrete durchgesetzte Form.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2007, 1066
 
 *Tags: Rechtsprechung, BGH, Kennzeichnungskraft, Verkehrsdurchsetzung*
@@ -5461,7 +7940,7 @@ Setzen sich die angesprochenen Verkehrskreise aus mehreren Gruppen (Fachkreise u
 
 **A:** Beim Vergleich einer Wortmarke ('Goldbären') mit einer dreidimensionalen Produktgestaltung (Lindt-Teddy) kann Zeichenähnlichkeit nur in begrifflicher Hinsicht bestehen. Sie setzt voraus, dass die Wortmarke aus Sicht des Verkehrs die naheliegende, ungezwungene und erschöpfende Bezeichnung der Gestaltung ist – strenger Maßstab, hier verneint.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2016, 197
 
 *Tags: Rechtsprechung, BGH, Zeichenähnlichkeit, Bekanntheitsschutz*
@@ -5511,7 +7990,7 @@ Bei Bildmarken kann Verwechslungsgefahr auf einer Übereinstimmung im Bedeutungs
 
 **A:** Wird eine ältere Marke ('MUSTANG') als Bestandteil in ein zusammengesetztes Zeichen ('Sixtyseven by Mustang') übernommen, kann sie dort eine selbständig kennzeichnende Stellung behalten, ohne den Gesamteindruck zu prägen. Eine Verwechslungsgefahr im weiteren Sinne (Annahme wirtschaftlicher Verbindungen) kommt in Betracht, wenn das ältere Zeichen zugleich Unternehmenskennzeichen ist; sie bleibt die Ausnahme.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 Fundstelle: GRUR 2004, 865
 
 *Tags: Rechtsprechung, BGH, Verwechslungsgefahr*
@@ -5711,7 +8190,7 @@ Die Verwendung der bekannten Milka-Marken (Farbe Lila, 'Milka') auf einer satiri
 
 **A:** Die Parodie einer bekannten Marke (springender Pudel statt Puma-Raubkatze) nutzt deren Unterscheidungskraft in unlauterer Weise aus, wenn der Verkehr die Zeichen gedanklich verknüpft und der Parodist von der Aufmerksamkeit der bekannten Marke profitiert. Kunst- und Meinungsfreiheit rechtfertigen nicht die Eintragung als eigene Marke; der Inhaber der bekannten Marke kann die Löschung verlangen.
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 2015, 1114
 
 *Tags: Rechtsprechung, BGH, Bekanntheitsschutz, Markenparodie*
@@ -5736,7 +8215,7 @@ Die Parodie einer bekannten Marke (springender Pudel statt Puma-Raubkatze) nutzt
 
 **A:** Der Bekanntheitsschutz gilt auch bei Waren-/Dienstleistungsidentität oder -ähnlichkeit (richtlinienkonforme Auslegung). Unlautere Ausnutzung der Unterscheidungskraft ('OTTO' für Caps): Der Verkehr verknüpft die Zeichen gedanklich; der Versandhändler kann die Verwendung für Bekleidung verbieten, auch ohne Verwechslungsgefahr.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2014, 378
 
 *Tags: Rechtsprechung, BGH, Bekanntheitsschutz*
@@ -5786,7 +8265,7 @@ Die Verwendung des bekannten ÖKO-TEST-Siegels in der Produktwerbung ohne Lizenz
 
 **A:** Zur Beeinträchtigung/Ausnutzung der bekannten Marke VOLKSWAGEN durch 'Volks.Inspektion' u.a. (ATU): Verwechslungsgefahr wurde verneint; für den Bekanntheitsschutz genügt die gedankliche Verknüpfung, die bei Übernahme des charakteristischen Bestandteils 'Volks' in Verbindung mit Kfz-Dienstleistungen naheliegt – Zurückverweisung.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2013, 1239
 
 *Tags: Rechtsprechung, BGH, Bekanntheitsschutz*
@@ -5811,7 +8290,7 @@ Zur Beeinträchtigung/Ausnutzung der bekannten Marke VOLKSWAGEN durch 'Volks.Ins
 
 **A:** Die Verwendung der bekannten Marke 'TÜV' durch einen Wettbewerber ('TÜV-Service' ohne Berechtigung) nutzt die Unterscheidungskraft und Wertschätzung in unlauterer Weise aus; eine Rechtfertigung als beschreibende Angabe ([§ 23 Nr. 2](https://www.gesetze-im-internet.de/markeng/__23.html)) scheidet aus, wenn 'TÜV' nicht generisch für Prüfdienstleistungen geworden ist.
 
-Normen: [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 20 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2011, 1043
 
 *Tags: Rechtsprechung, BGH, Bekanntheitsschutz*
@@ -5886,7 +8365,7 @@ Die Angabe 'Filtertüte passend für Vorwerk Kobold 130' ist als notwendiger Bes
 
 **A:** Ein Kühlergrill mit einer Aufnahme, die die Form des Audi-Emblems (Ringe) hat, benutzt die Marke markenmäßig. Die Schranke des [§ 23 Nr. 3](https://www.gesetze-im-internet.de/markeng/__23.html) greift nicht, weil die Nachbildung des Emblems zur Angabe der Bestimmung als Ersatzteil nicht notwendig ist – eine neutrale Halterung genügt.
 
-Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 14 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2019, 953
 
 *Tags: Rechtsprechung, BGH, § 23, Ersatzteil*
@@ -5911,7 +8390,7 @@ Ein Kühlergrill mit einer Aufnahme, die die Form des Audi-Emblems (Ringe) hat, 
 
 **A:** Die Verwendung der Wort-Bild-Marke (VW-Logo) einer Kfz-Werkstatt in der Werbung für Inspektionen ist nicht nach [§ 23 Nr. 3](https://www.gesetze-im-internet.de/markeng/__23.html) gerechtfertigt, wenn die Angabe der Bestimmung auch durch die Wortmarke 'VW' möglich wäre; die Verwendung des Bildzeichens ist nicht notwendig und verstößt gegen die anständigen Gepflogenheiten.
 
-Normen: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2011, 1135
 
 *Tags: Rechtsprechung, BGH, § 23*
@@ -6111,7 +8590,7 @@ Ernsthafte Benutzung liegt vor, wenn die Marke entsprechend ihrer Hauptfunktion 
 
 **A:** Ernsthafte Benutzung setzt keinen Mindestumfang voraus; entscheidend ist, ob die Benutzung wirtschaftlich sinnvoll ist, um Marktanteile zu gewinnen oder zu halten. Bei einer Wortmarke reicht die Benutzung auf Etiketten und in Katalogen mit tatsächlichem Absatz; die Beweislast trägt im Verletzungsprozess der Markeninhaber, wenn die Einrede erhoben wird.
 
-Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 17 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 Abs. 1](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
+Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 17 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 19 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 25 MarkenG](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 49 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 Fundstelle: GRUR 2013, 925
 
 *Tags: Rechtsprechung, BGH, Benutzungszwang*
@@ -6136,7 +8615,7 @@ Ernsthafte Benutzung setzt keinen Mindestumfang voraus; entscheidend ist, ob die
 
 **A:** Einer Marke ('LOTTO' für Lotteriedienstleistungen) kann die rechtserhaltende Benutzung nicht mit der Begründung abgesprochen werden, sie werde nur beschreibend verstanden; es genügt, dass der Verkehr die konkrete Verwendung als Marke auffasst. Die Verwendung in Kombination mit anderen Zeichen ('LOTTOCARD') kann rechtserhaltend sein, wenn 'LOTTO' seine kennzeichnende Eigenständigkeit behält.
 
-Normen: [§ 26 Abs. 1](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [§ 26 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 Fundstelle: GRUR 2009, 60
 
 *Tags: Rechtsprechung, BGH, Benutzungszwang*
@@ -6211,7 +8690,7 @@ Die Benutzung 'Dorzo-Vision' für die Marke 'Dorzo' ist nicht rechtserhaltend, w
 
 **A:** Zum Schutz eines Firmenbestandteils ('Castell') als Unternehmenskennzeichen nach [§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html): Erforderlich ist ein unterscheidungskräftiger Bestandteil, der sich seiner Natur nach als schlagwortartiger Hinweis auf das Unternehmen eignet. Zur rechtserhaltenden Benutzung einer Marke in Kombination mit weiteren Bestandteilen ('Castell' in 'Castell Castell'): unschädlich, wenn der Verkehr die Marke als eigenständigen Herkunftshinweis erkennt.
 
-Normen: [§ 26 Abs. 3](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 26 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2013, 68
 
 *Tags: Rechtsprechung, BGH, Benutzungszwang*
@@ -6236,7 +8715,7 @@ Zum Schutz eines Firmenbestandteils ('Castell') als Unternehmenskennzeichen nach
 
 **A:** Apps und Internet-Informationsangebote können titelschutzfähige Werke i.S.d. [§ 5 Abs. 3](https://www.gesetze-im-internet.de/markeng/__5.html) sein. 'wetter.de' fehlt jedoch die originäre Unterscheidungskraft, weil die Bezeichnung nur den Inhalt (Wetterinformationen) beschreibt; eine Verkehrsgewöhnung an beschreibende Titel wie bei Zeitschriften ist für Apps/Domains nicht festgestellt.
 
-Normen: [§ 15](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2016, 939
 
 *Tags: Rechtsprechung, BGH, Werktitel, Domain, App*
@@ -6261,7 +8740,7 @@ Apps und Internet-Informationsangebote können titelschutzfähige Werke i.S.d. [
 
 **A:** Der Titel eines Musikstücks ('Das Omen (Teil 1)') genießt Werktitelschutz; Inhaber ist, wem das Werk zuzuordnen ist (Komponist/Textdichter). Die Verwechslungsgefahr ist unter Berücksichtigung der Besonderheiten des Werks (Werkähnlichkeit) zu prüfen.
 
-Normen: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2019, 535
 
 *Tags: Rechtsprechung, BGH, Werktitel*
@@ -6286,7 +8765,7 @@ Der Titel eines Musikstücks ('Das Omen (Teil 1)') genießt Werktitelschutz; Inh
 
 **A:** Keine Verwechslungsgefahr zwischen 'Augsburger Puppenkiste' und 'Leipziger Puppenkiste': Die Ortsangaben prägen die Gesamtbezeichnungen mit, der gemeinsame Bestandteil 'Puppenkiste' ist kennzeichnungsschwach. Werktitel schützen grundsätzlich nur gegen unmittelbare Werkverwechslung; eine Verwechslungsgefahr im weiteren Sinne kommt nur bei bekannten Titeln mit Herkunftshinweisfunktion in Betracht.
 
-Normen: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2009, 772
 
 *Tags: Rechtsprechung, BGH, Werktitel*
@@ -6311,7 +8790,7 @@ Keine Verwechslungsgefahr zwischen 'Augsburger Puppenkiste' und 'Leipziger Puppe
 
 **A:** Recht der Gleichnamigen: Zwei seit langem koexistierende Unternehmen gleichen Namens müssen die Verwechslungsgefahr durch aufklärende Zusätze (Ortsangabe) reduzieren; bundesweite Werbung ist zulässig, wenn ein deutlicher, nicht notwendig gleich großer Hinweis auf die Unternehmensidentität erfolgt.
 
-Normen: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 23 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 23 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2010, 738
 
 *Tags: Rechtsprechung, BGH, Unternehmenskennzeichen, Gleichnamigkeit*
@@ -6336,7 +8815,7 @@ Recht der Gleichnamigen: Zwei seit langem koexistierende Unternehmen gleichen Na
 
 **A:** Der Schutz eines Unternehmenskennzeichens entsteht mit Benutzungsaufnahme; die Priorität bestimmt sich nach [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html). Zur Verwirkung und zum Fortbestand des Kennzeichenrechts bei Änderungen der Firma; bei mehreren Bestandteilen kann der prägende Bestandteil ('Baumann') selbständig geschützt sein.
 
-Normen: [§ 15](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2016, 965
 
 *Tags: Rechtsprechung, BGH, Unternehmenskennzeichen*
@@ -6361,7 +8840,7 @@ Der Schutz eines Unternehmenskennzeichens entsteht mit Benutzungsaufnahme; die P
 
 **A:** Ein Domainname kann als Unternehmenskennzeichen geschützt sein, wenn der Verkehr ihn als Hinweis auf ein Unternehmen versteht. Der Schutz einer Domain als Kennzeichen entsteht erst mit Benutzungsaufnahme im geschäftlichen Verkehr, nicht schon mit der Registrierung.
 
-Normen: [§ 15](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2005, 262
 
 *Tags: Rechtsprechung, BGH, Unternehmenskennzeichen, Domain*
@@ -6386,7 +8865,7 @@ Ein Domainname kann als Unternehmenskennzeichen geschützt sein, wenn der Verkeh
 
 **A:** Bei Gleichnamigkeit (Privatperson Shell vs. Shell-Konzern) gilt für Domains grundsätzlich Priorität der Registrierung. Ausnahme bei überragender Bekanntheit eines Namensträgers: Der Verkehr erwartet unter 'shell.de' den bekannten Konzern; der Privatmann muss einen unterscheidenden Zusatz wählen.
 
-Normen: [§ 15](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2002, 622
 
 *Tags: Rechtsprechung, BGH, Domain, Namensrecht*
@@ -6411,7 +8890,7 @@ Bei Gleichnamigkeit (Privatperson Shell vs. Shell-Konzern) gilt für Domains gru
 
 **A:** Für die Verwechslungsgefahr bei Unternehmenskennzeichen kommt es auf die Branchennähe, die Kennzeichnungskraft des älteren Zeichens und die Zeichenähnlichkeit an (Wechselwirkung). Firmenschlagworte ('defacto') sind selbständig schutzfähig, wenn sie ihrer Natur nach geeignet sind, als Schlagwort zu wirken.
 
-Normen: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Normen: [§ 15 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 Fundstelle: GRUR 2002, 898
 
 *Tags: Rechtsprechung, BGH, Unternehmenskennzeichen*
@@ -6436,7 +8915,7 @@ Für die Verwechslungsgefahr bei Unternehmenskennzeichen kommt es auf die Branch
 
 **A:** Verwirkung nach [§ 21 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html) i.V.m. [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html): Bei wiederholten, gleichartigen Verletzungshandlungen entsteht mit jeder Handlung ein neuer Unterlassungsanspruch, so dass Verwirkung nur bei Duldung des konkreten Zustands in Betracht kommt. Aufgabe der Vorrangthese: Lauterkeitsrechtliche Ansprüche ([§ 5 Abs. 2 UWG](https://www.gesetze-im-internet.de/uwg_2004/__5.html)) bestehen neben markenrechtlichen; Wertungswidersprüche sind zu vermeiden.
 
-Normen: [Art. 9 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
+Normen: [Art. 9 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
 Fundstelle: GRUR 2013, 1161
 
 *Tags: Rechtsprechung, BGH, Verwirkung, UWG*
@@ -6486,7 +8965,7 @@ Der Betreiber einer Internet-Handelsplattform (eBay) haftet als Störer auf Unte
 
 **A:** Ein Plattformbetreiber muss nicht alle Angebote mit einer Marke manuell auf Fälschungen prüfen; Prüfpflichten bestehen erst nach konkretem Hinweis und im zumutbaren Umfang. Teilnehmerhaftung (Beihilfe) setzt Vorsatz bezüglich der Haupttat voraus; die Störerhaftung wurde für das Lauterkeitsrecht aufgegeben, im Markenrecht beibehalten.
 
-Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2011, 152
 
 *Tags: Rechtsprechung, BGH, Störerhaftung, Plattform*
@@ -6536,7 +9015,7 @@ Zur Schadensberechnung nach der Lizenzanalogie bei Kennzeichenverletzungen: Der 
 
 **A:** Im Löschungsverfahren wegen absoluter Schutzhindernisse ist auf den Anmeldezeitpunkt abzustellen; die Feststellungslast für das Vorliegen des Schutzhindernisses trägt der Löschungsantragsteller. Verbleibende Zweifel gehen zu Lasten des Antragstellers ('smartbook' für Computer: Schutzhindernis nicht sicher feststellbar).
 
-Normen: [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 2 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2014, 565
 
 *Tags: Rechtsprechung, BGH, Löschung, Nichtigkeit*
@@ -6561,7 +9040,7 @@ Im Löschungsverfahren wegen absoluter Schutzhindernisse ist auf den Anmeldezeit
 
 **A:** Keyword-Werbung mit einer bekannten Marke beeinträchtigt die Investitionsfunktion, wenn sie die Nutzung der Marke zum Erwerb/zur Wahrung eines Rufs wesentlich stört. Sie ist als 'Trittbrettfahren' unlauter, wenn Nachahmungen angeboten werden; nicht aber, wenn lediglich eine Alternative zum Markenprodukt angeboten wird (gesunder Wettbewerb).
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2011, 1124
 
 *Tags: Rechtsprechung, EuGH, Keyword-Advertising, Bekanntheitsschutz*
@@ -6586,7 +9065,7 @@ Keyword-Werbung mit einer bekannten Marke beeinträchtigt die Investitionsfunkti
 
 **A:** Die Anbringung eines für Kraftfahrzeuge und Spielzeug eingetragenen Zeichens auf Modellautos ist nur dann untersagbar, wenn sie die Funktionen der Marke als für Spielzeug eingetragene Marke beeinträchtigt. Für Kraftfahrzeuge liegt keine Benutzung 'für Waren' vor, die identisch oder ähnlich sind.
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)
 Fundstelle: GRUR 2007, 318
 
 *Tags: Rechtsprechung, EuGH, Markenmäßige Benutzung*
@@ -6611,7 +9090,7 @@ Die Anbringung eines für Kraftfahrzeuge und Spielzeug eingetragenen Zeichens au
 
 **A:** Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn sie einem bedeutenden Teil des Publikums in einem wesentlichen Teil des Unionsgebiets bekannt ist. Das Gebiet eines einzigen Mitgliedstaats (hier: Österreich) kann ein wesentlicher Teil der Union sein.
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 2009, 1158
 
 *Tags: Rechtsprechung, EuGH, Unionsmarke, Bekanntheitsschutz*
@@ -6636,7 +9115,7 @@ Eine Unionsmarke (damals Gemeinschaftsmarke) ist 'in der Union bekannt', wenn si
 
 **A:** Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgegangen, genügt für die Bekanntheit 'in der Union' die Bekanntheit in einem wesentlichen Teil der Union, der ein einziger Mitgliedstaat sein kann – auch wenn dies nicht der Mitgliedstaat der jüngeren Marke ist. Die Beeinträchtigung/Ausnutzung im Inland setzt aber voraus, dass ein wirtschaftlich nicht unbedeutender Teil des inländischen Publikums die Unionsmarke kennt und die Zeichen gedanklich verknüpft.
 
-Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [Art. 5 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: GRUR 2015, 1002
 
 *Tags: Rechtsprechung, EuGH, Unionsmarke, Bekanntheitsschutz*
@@ -6661,7 +9140,7 @@ Wird aus einer bekannten Unionsmarke gegen eine jüngere nationale Marke vorgega
 
 **A:** Für die ernsthafte Benutzung einer Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) sind die Grenzen der Mitgliedstaaten außer Betracht zu lassen. Die Benutzung in nur einem Mitgliedstaat kann ausreichen; maßgeblich ist, ob die Benutzung nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu gewinnen oder zu halten.
 
-Normen: [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Normen: [Art. 44 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 Fundstelle: GRUR 2013, 182
 
 *Tags: Rechtsprechung, EuGH, Unionsmarke, Benutzungszwang*
@@ -6736,7 +9215,7 @@ Stellt das Unionsmarkengericht fest, dass Verwechslungsgefahr in einem Teil der 
 
 **A:** Zwei Marken, die aus denselben sinntragenden Bestandteilen in vertauschter Reihenfolge bestehen ('sportnord' / 'NordSport'), sind klanglich verwechselbar (Silbenrotation): Der Verkehr behält die Einzelbestandteile, nicht aber ihre Reihenfolge im Gedächtnis. 'NordSport' ist für Sportbekleidung nicht glatt beschreibend, sondern nur ein vager Hinweis auf im Norden betriebenen Sport, also normal kennzeichnungskräftig. Vorlage der Klausur NS III/2019.
 
-Normen: [§ 42 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [§ 42 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: ECLI:DE:BPatG:2019:220519B29Wpat47.16.0
 
 *Tags: Rechtsprechung, BPatG, Verwechslungsgefahr, Klausur NS*
@@ -6761,7 +9240,7 @@ Zwei Marken, die aus denselben sinntragenden Bestandteilen in vertauschter Reihe
 
 **A:** Zwischen 'vita+lebenskraft' und der in Fachkreisen bekannten Unionsmarke 'VITA' (Dentalprodukte) besteht zwar keine unmittelbare Verwechslungsgefahr, weil die jüngere Marke als Gesamtbegriff wahrgenommen wird; die Verkehrskreise bringen die Zeichen aber gedanklich miteinander in Verbindung, weil 'VITA' zugleich Firmenschlagwort und benutzter Stammbestandteil einer Markenserie (VITAFOL, VITAPAN, VITA In-Ceram …) der Widersprechenden ist. Teillöschung für die dentalen Waren der Klasse 5. Vorlage der Klausur NS III/2021.
 
-Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 42 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 42 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: ECLI:DE:BPatG:2019:130619B25Wpat11.18.0
 
 *Tags: Rechtsprechung, BPatG, Verwechslungsgefahr, Serienzeichen, Klausur NS*
@@ -6786,7 +9265,7 @@ Zwischen 'vita+lebenskraft' und der in Fachkreisen bekannten Unionsmarke 'VITA' 
 
 **A:** Zwischen den Wort-/Bildmarken 'SILVER HORSE' und 'POWER HORSE' (Energydrinks) besteht Verwechslungsgefahr. Die Kennzeichnungskraft der älteren Marke wird durch Drittmarken nur geschwächt, wenn deren Benutzung liquide oder glaubhaft gemacht ist; die bloße Registerlage genügt nicht. Auch bei Waren, die überwiegend auf Sicht gekauft werden, bleibt die klangliche Ähnlichkeit relevant, weil dem Kauf mündliche Empfehlungen und Bestellungen vorausgehen. Vorlage der Klausur NS I/2022.
 
-Normen: [§ 119](https://www.gesetze-im-internet.de/markeng/__119.html), [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [§ 119 MarkenG](https://www.gesetze-im-internet.de/markeng/__119.html), [§ 124 MarkenG](https://www.gesetze-im-internet.de/markeng/__124.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: ECLI:DE:BPatG:2022:260722B26Wpat38.17.0
 
 *Tags: Rechtsprechung, BPatG, Verwechslungsgefahr, Klausur NS*
@@ -6811,7 +9290,7 @@ Zwischen den Wort-/Bildmarken 'SILVER HORSE' und 'POWER HORSE' (Energydrinks) be
 
 **A:** Die Einrede der Nichtbenutzung nach [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html) muss eindeutig erklärt werden; der Wille, sich gegen die Widerspruchsmarke mit dem Benutzungseinwand zu verteidigen, muss hinreichend klar erkennbar sein. Das Unterlassen einer gebotenen Zulassung der Rechtsbeschwerde ist kein Begründungsmangel und kann nicht mit der zulassungsfreien Rechtsbeschwerde ([§ 83 Abs. 3 Nr. 6](https://www.gesetze-im-internet.de/markeng/__83.html)) gerügt werden.
 
-Normen: [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 83 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
+Normen: [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 83 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html)
 Fundstelle: GRUR 2023, 1293
 
 *Tags: Rechtsprechung, BGH, Benutzungszwang, Verfahren, Klausur NS*
@@ -6836,7 +9315,7 @@ Die Einrede der Nichtbenutzung nach [§ 43 Abs. 1](https://www.gesetze-im-intern
 
 **A:** Werden Räume samt Geschäftsbetrieb (Wellnessbad) unter einer bestimmten Bezeichnung verpachtet, wächst der aus der Benutzung entstehende Besitzstand an dieser Bezeichnung dem Verpächter zu, nicht dem Pächter (Anschluss an BGH 'Fischl'). Meldet die frühere Pächterin die Bezeichnung nach verlorener Neuausschreibung als Marke an, greift sie in diesen fremden Besitzstand ein; das BPatG hielt die Anmeldung für bösgläubig. Vorlage der Klausur NS II/2020 ('Balidrom').
 
-Normen: [§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 1](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2014, 780
 
 *Tags: Rechtsprechung, BPatG, Bösgläubigkeit, Klausur NS*
@@ -6861,7 +9340,7 @@ Werden Räume samt Geschäftsbetrieb (Wellnessbad) unter einer bestimmten Bezeic
 
 **A:** Die Löschung einer Marke wegen bösgläubiger Anmeldung kann nicht allein mit der Beeinträchtigung eines Unternehmenskennzeichens begründet werden, dessen Schutzbereich nur räumlich auf das lokale Tätigkeitsgebiet beschränkt ist; ein solches Kennzeichen könnte der Marke nicht einmal im Nichtigkeitsverfahren nach [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html) entgegengehalten werden. Zu prüfen bleibt aber, ob die Marke als zweckfremdes Mittel des Wettbewerbskampfes angemeldet wurde. Aufhebung und Zurückverweisung an das BPatG.
 
-Normen: [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 1](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 12 MarkenG](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: GRUR 2016, 378
 
 *Tags: Rechtsprechung, BGH, Bösgläubigkeit, Klausur NS*
@@ -6886,7 +9365,7 @@ Die Löschung einer Marke wegen bösgläubiger Anmeldung kann nicht allein mit d
 
 **A:** Die Anmeldung einer Wort-/Bildmarke mit der Bezeichnung und dem Bild der Öresundbrücke durch einen Ticket-Wiederverkäufer ist nicht bösgläubig: 'Öresundbrücke' ist eine geografische Sachangabe, an der die Brückenbetreiberin keinen schutzwürdigen Besitzstand hat; die Absicht, einen gebräuchlichen Begriff zu monopolisieren, begründet für sich keine Bösgläubigkeit. Ein Urheberrecht am Bauwerk ist ein älteres Recht im Sinne des [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html), das nicht im Verfahren wegen absoluter Schutzhindernisse, sondern nach [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html) geltend zu machen ist. Vorlage der Klausur NS II/2019.
 
-Normen: [§ 13 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 50 Abs. 1](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Normen: [§ 13 Abs. 2 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 50 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 Fundstelle: ECLI:DE:BPatG:2024:060924B26Wpat2.20.0
 
 *Tags: Rechtsprechung, BPatG, Bösgläubigkeit, Klausur NS*
@@ -6911,7 +9390,7 @@ Die Anmeldung einer Wort-/Bildmarke mit der Bezeichnung und dem Bild der Öresun
 
 **A:** Der Widerspruch des Markeninhabers gegen einen Verfalls- oder Nichtigkeitsantrag ([§ 53 Abs. 5](https://www.gesetze-im-internet.de/markeng/__53.html)) ist bereits ab Eingang des Antrags beim DPMA zulässig, also auch schon vor Zustellung der Mitteilung nach [§ 53 Abs. 4](https://www.gesetze-im-internet.de/markeng/__53.html); das Wort 'innerhalb' legt nur das Fristende fest. Enthält die Mitteilung des DPMA keine Fristsetzung, wird die Zweimonatsfrist nicht in Lauf gesetzt. Ein ohne Sachprüfung ergangener Verfallsbeschluss ist aufzuheben und die Sache zurückzuverweisen; die Beschwerdegebühr wird zurückgezahlt. Vorlage der Klausur NS III/2023 ('MEGACAPS').
 
-Normen: [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 49 Abs. 1](https://www.gesetze-im-internet.de/markeng/__49.html), [§ 53 Abs. 4](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 53 Abs. 5](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 70 Abs. 3](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
+Normen: [§ 115 MarkenG](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 49 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html), [§ 53 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 53 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 70 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
 Fundstelle: ECLI:DE:BPatG:2023:080223B29Wpat30.22.0
 
 *Tags: Rechtsprechung, BPatG, Verfall, Verfahren, Klausur NS*
@@ -6936,7 +9415,7 @@ Der Widerspruch des Markeninhabers gegen einen Verfalls- oder Nichtigkeitsantrag
 
 **A:** Ein beim DPMA gestellter Nichtigkeitsantrag wegen älterer Rechte kann eine Unionsmarke nicht angreifen und ist deshalb für ein Widerspruchsbeschwerdeverfahren aus dieser Unionsmarke nicht vorgreiflich. Auch ein Antrag beim EUIPO ([Art. 60 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) zwingt nicht zur Aussetzung nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html): Erfolgsaussichten und Dauer sind offen, und die Löschung der angegriffenen Marke lässt sich über die Eintragungsbewilligungsklage nach [§ 44](https://www.gesetze-im-internet.de/markeng/__44.html) rückgängig machen, die als Korrektiv der beschränkten Prüfung im Widerspruchsverfahren dient. Vorlage der Klausur NS I/2024.
 
-Normen: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 42 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 44](https://www.gesetze-im-internet.de/markeng/__44.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Normen: [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 42 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 44 MarkenG](https://www.gesetze-im-internet.de/markeng/__44.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 9 Abs. 1 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 Fundstelle: ECLI:DE:BPatG:2022:070322B29Wpat522.20.0
 
 *Tags: Rechtsprechung, BPatG, Verfahren, Unionsmarke, Klausur NS*
@@ -6961,7 +9440,7 @@ Ein beim DPMA gestellter Nichtigkeitsantrag wegen älterer Rechte kann eine Unio
 
 **A:** Wird aus zwei Widerspruchskennzeichen Widerspruch erhoben, aber nur die Grundgebühr von 250 Euro gezahlt, kann der Widersprechende auch nach Ablauf der Widerspruchsfrist klarstellen, für welches Kennzeichen die Zahlung bestimmt ist; die Angabe 'aus der Wortmarke' ist eindeutig, weil ein Unternehmenskennzeichen keine Wortmarke ist. Eine rechtzeitig per Telefax eingereichte, amtsintern nicht weitergeleitete Klarstellung geht nicht zu Lasten des Widersprechenden. Aufhebung, Zurückverweisung und Rückzahlung der Beschwerdegebühr. Vorlage der Klausur NS I/2025 ('NITREDA/INTREDA').
 
-Normen: [§ 42 Abs. 1](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 42 Abs. 3](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 64a](https://www.gesetze-im-internet.de/markeng/__64a.html), [§ 70 Abs. 3](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
+Normen: [§ 42 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 42 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), [§ 70 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__70.html), [§ 71 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
 Fundstelle: ECLI:DE:BPatG:2022:180722B26Wpat30.20.0
 
 *Tags: Rechtsprechung, BPatG, Verfahren, Widerspruch, Klausur NS*
@@ -6986,7 +9465,7 @@ Wird aus zwei Widerspruchskennzeichen Widerspruch erhoben, aber nur die Grundgeb
 
 **A:** Das Unternehmenskennzeichen einer regional tätigen Bäckerei (Filialen in einer Stadt und Umgebung, Lieferfahrzeuge, Internetauftritt) berechtigt nicht, die Benutzung einer jüngeren Marke im gesamten Bundesgebiet zu untersagen, und trägt deshalb keinen Widerspruch nach [§ 42 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__42.html). Der Einwand, die angegriffene Marke sei bösgläubig angemeldet, wird im Widerspruchsverfahren nicht berücksichtigt; [§ 50 Abs. 3](https://www.gesetze-im-internet.de/markeng/__50.html) ist wegen der getrennten Zuständigkeiten von Markenstelle und Markenabteilung nicht analog anwendbar. Wer trotz eindeutiger Rechtslage Beschwerde einlegt, trägt aus Billigkeit die Kosten ([§ 71 Abs. 1](https://www.gesetze-im-internet.de/markeng/__71.html)). Vorlage der Klausur NS II/2025 ('Gold-Bärger').
 
-Normen: [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 28 Abs. 2](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 42 Abs. 2 Nr. 4](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 3](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 71 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
+Normen: [§ 12 MarkenG](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 28 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 42 Abs. 2 Nr. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 5 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 71 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html)
 Fundstelle: ECLI:DE:BPatG:2022:241022B25Wpat52.21.0
 
 *Tags: Rechtsprechung, BPatG, Unternehmenskennzeichen, Bösgläubigkeit, Klausur NS*
@@ -7011,7 +9490,7 @@ Das Unternehmenskennzeichen einer regional tätigen Bäckerei (Filialen in einer
 
 **A:** Wird die Inhaberin der angegriffenen Marke (eine UG) wegen Vermögenslosigkeit im Handelsregister gelöscht, bleibt sie rechts- und beteiligtenfähig, solange die Marke noch einen Vermögenswert darstellt; sie wird aber prozessunfähig, weil die Vertretungsbefugnis des Geschäftsführers endet. Das Verfahren ist nach [§ 241 ZPO](https://www.gesetze-im-internet.de/zpo/__241.html) unterbrochen, bis ein Nachtragsliquidator ([§ 66 Abs. 5 GmbHG](https://www.gesetze-im-internet.de/gmbhg/__66.html)) bestellt ist. Eine vom früheren Geschäftsführer eingelegte Beschwerde ist unzulässig; ein trotz Unterbrechung ergangener Beschluss ist unwirksam, aber nicht nichtig. Vorbild für die Klausur NS III/2024.
 
-Normen: [§ 66 Abs. 1](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html), [§ 71 Abs. 3](https://www.gesetze-im-internet.de/markeng/__71.html), [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html)
+Normen: [§ 66 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__7.html), [§ 71 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__71.html), [§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html)
 Fundstelle: ECLI:DE:BPatG:2024:010224B30Wpat61.23.0
 
 *Tags: Rechtsprechung, BPatG, Verfahren, Klausur NS*
@@ -7136,7 +9615,7 @@ Das Unionsrecht (Durchsetzungs-, E-Commerce-, InfoSoc- und Datenschutzrichtlinie
 
 **A:** Der Betreiber eines Online-Marktplatzes benutzt die Marken der Angebote nicht selbst; das Haftungsprivileg des Art. 14 E-Commerce-RL gilt nur bei neutraler Rolle. Nach [Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) müssen die Gerichte dem Betreiber als Mittelsperson Maßnahmen aufgeben können, die nicht nur die konkrete Verletzung beenden, sondern auch neue Verletzungen derselben Art verhindern; sie müssen wirksam, verhältnismäßig und abschreckend sein, dürfen aber keine allgemeine Überwachungspflicht begründen und den rechtmäßigen Handel nicht behindern.
 
-Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 2 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2011, 1025
 
 *Tags: Rechtsprechung, EuGH, Durchsetzung, Mittelspersonen, Störerhaftung*
@@ -7308,7 +9787,7 @@ Das Auskunftsrecht des [Art. 8 Abs. 1 DurchsetzungsRL](https://eur-lex.europa.eu
 
 **A:** Die Durchsetzungsrichtlinie ist Mindestharmonisierung (Art. 2 Abs. 1). Art. 13 steht einer nationalen Regelung nicht entgegen, nach der der Verletzte ohne Nachweis des tatsächlichen Schadens pauschal das Doppelte der angemessenen Lizenzgebühr verlangen kann. Erwägungsgrund 26 verbietet keinen Strafschadensersatz, sondern schließt nur eine Verpflichtung dazu aus.
 
-Normen: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+Normen: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
 *Tags: Rechtsprechung, EuGH, Durchsetzung, Schadensersatz*
 
@@ -7332,7 +9811,7 @@ Die Durchsetzungsrichtlinie ist Mindestharmonisierung (Art. 2 Abs. 1). Art. 13 s
 
 **A:** „Angemessener Ersatz“ nach [Art. 9 Abs. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) für Schäden aus einer später aufgehobenen einstweiligen Maßnahme ist kein automatischer Vollersatz: Das nationale Gericht darf alle Umstände würdigen, insbesondere ob der Antragsgegner durch den Markteintritt trotz laufenden Schutzrechts das Risiko selbst geschaffen hat. Die verschuldensunabhängige Haftung des [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) geht darüber hinaus und bleibt als günstigere Regelung zulässig.
 
-Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 Abs. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 Abs. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
 *Tags: Rechtsprechung, EuGH, Durchsetzung, Einstweilige Verfügung*
 
@@ -7381,7 +9860,7 @@ Fundstelle: GRUR 2020, 840
 
 **A:** Auch ein Zessionar, der Rechte nur erwirbt, um Verletzer abzumahnen, kann Inhaber im Sinne von [Art. 4 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) sein und Auskunft nach Art. 8 verlangen. Das Gericht muss aber prüfen, ob der Antrag begründet und verhältnismäßig ist und ob ein Rechtsmissbrauch nach Art. 3 Abs. 2 vorliegt; die Speicherung von IP-Adressen durch den Rechtsinhaber kann ein berechtigtes Interesse nach der DSGVO sein.
 
-Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
 *Tags: Rechtsprechung, EuGH, Durchsetzung, Auskunft, Missbrauch*
 
@@ -7405,7 +9884,7 @@ Auch ein Zessionar, der Rechte nur erwirbt, um Verletzer abzumahnen, kann Inhabe
 
 **A:** Kosten der außergerichtlichen Rechtsverfolgung, etwa Anwaltskosten einer Abmahnung, sind „sonstige Kosten“ im Sinne von [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)). Eine nationale Deckelung des Gegenstandswerts ([§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html): 1.000 Euro gegenüber privaten Verletzern) ist zulässig, wenn sie dem Gericht erlaubt, in Fällen der Unbilligkeit davon abzuweichen und so Verhältnismäßigkeit und Billigkeit zu wahren.
 
-Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 Fundstelle: GRUR 2022, 849
 
 *Tags: Rechtsprechung, EuGH, Durchsetzung, Kosten, Abmahnung*
@@ -7471,6 +9950,1631 @@ Fundstelle: GRUR 2023, 446
 **A:** BGH „Kosten des Patentanwalts VII“ – I ZB 59/19 (2022), GRUR 2023, 446
 
 *Tags: Rechtsprechung, Umkehr, BGH, Durchsetzung, Kosten, Patentanwalt, Klausur NS*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Sanofi/Amgen (Anlagen zur Klageschrift)“ (UPC_CoA_320/2023, 2023) – Kernaussage?
+
+**A:** Eine Klageschrift kann nach [R. 271 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) auch ohne die in Bezug genommenen Anlagen wirksam zugestellt werden, wenn der Beklagte seine Rechte auch ohne sie wahrnehmen kann. Lädt der Kläger die Anlagen entgegen [R. 13.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) nicht gleichzeitig ins CMS hoch, sind die Fristen für Einspruch (R. 19.1) und Klageerwiderung (R. 23) um den Zeitraum zu verlängern, in dem die Anlagen nicht verfügbar waren; auf Art und Inhalt der Anlagen kommt es nicht an.
+
+Normen: [R. 13.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 19.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 23 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 271 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_320/2023
+
+*Tags: Rechtsprechung, EPG-BerG, Zustellung, Fristen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Eine Klageschrift kann nach [R. 271 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) auch ohne die in Bezug genommenen Anlagen wirksam zugestellt werden, wenn der Beklagte seine Rechte auch ohne sie wahrnehmen kann. Lädt der Kläger die Anlagen entgegen [R. 13.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) nicht gleichzeitig ins CMS hoch, sind die Fristen für Einspruch (R. 19.1) und Klageerwiderung (R. 23) um den Zeitraum zu verlängern, in dem die Anlagen nicht verfügbar waren; auf Art und Inhalt der Anlagen kommt es nicht an.
+
+**A:** EPG-BerG „Sanofi/Amgen (Anlagen zur Klageschrift)“ – UPC_CoA_320/2023 (2023), EPG, UPC_CoA_320/2023
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zustellung, Fristen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „NEC/TCL (Zustellung in China)“ (UPC_CoA_69/2024, 2024) – Kernaussage?
+
+**A:** Einem Unternehmen in China oder Hongkong kann die Klageschrift nicht per E-Mail an eine nicht empfangsberechtigte Person zugestellt werden; auch öffentliche Zustellung durch Aushang bei der Lokalkammer scheidet in diesem Stadium aus. Vor einer Zustellung auf andere Weise (R. 274.1(b)) oder einer Ersatzzustellung (R. 275) sind normalerweise Zustellversuche nach dem Haager Zustellungsübereinkommen (R. 274.1(a)(ii)) zu unternehmen.
+
+Normen: [R. 274 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 275 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_69/2024, EP2645714
+
+*Tags: Rechtsprechung, EPG-BerG, Zustellung, Drittstaaten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Einem Unternehmen in China oder Hongkong kann die Klageschrift nicht per E-Mail an eine nicht empfangsberechtigte Person zugestellt werden; auch öffentliche Zustellung durch Aushang bei der Lokalkammer scheidet in diesem Stadium aus. Vor einer Zustellung auf andere Weise (R. 274.1(b)) oder einer Ersatzzustellung (R. 275) sind normalerweise Zustellversuche nach dem Haager Zustellungsübereinkommen (R. 274.1(a)(ii)) zu unternehmen.
+
+**A:** EPG-BerG „NEC/TCL (Zustellung in China)“ – UPC_CoA_69/2024 (2024), EPG, UPC_CoA_69/2024, EP2645714
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zustellung, Drittstaaten*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „bioMérieux/Labrador (Fristverlängerung)“ (UPC-COA-0000937/2025, 2026) – Kernaussage?
+
+**A:** Angesichts des strengen Fristenregimes der Verfahrensordnung ist die Fristverlängerung nach [R. 9.3(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) mit Zurückhaltung und nur unter außergewöhnlichen Umständen zu gewähren. Die Angleichung der Frist für die Berufungsbegründung im Nichtigkeitsverfahren an die spätere Frist im parallelen Verletzungsverfahren ist nicht gerechtfertigt, wenn effizientere Mittel wie die gemeinsame Verhandlung nach [R. 220.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) zur Verfügung stehen.
+
+Normen: [R. 220.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 9.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000937/2025, EP3756767
+
+*Tags: Rechtsprechung, EPG-BerG, Fristen, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Angesichts des strengen Fristenregimes der Verfahrensordnung ist die Fristverlängerung nach [R. 9.3(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) mit Zurückhaltung und nur unter außergewöhnlichen Umständen zu gewähren. Die Angleichung der Frist für die Berufungsbegründung im Nichtigkeitsverfahren an die spätere Frist im parallelen Verletzungsverfahren ist nicht gerechtfertigt, wenn effizientere Mittel wie die gemeinsame Verhandlung nach [R. 220.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) zur Verfügung stehen.
+
+**A:** EPG-BerG „bioMérieux/Labrador (Fristverlängerung)“ – UPC-COA-0000937/2025 (2026), EPG, UPC-COA-0000937/2025, EP3756767
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Fristen, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Suinno/Microsoft (Vertretung durch Organe)“ (UPC_CoA_563/2024, 2025) – Kernaussage?
+
+**A:** Organe einer juristischen Person und natürliche Personen mit weitreichenden Verwaltungs- und Finanzbefugnissen (Leitungsposition, wesentliche Beteiligung) dürfen diese nicht vertreten, auch wenn sie nach Art. 48 Abs. 1 oder 2 EPGÜ als Vertreter qualifiziert sind; die Vertretung soll hinreichenden Abstand zur Partei sichern. Die bloße Anstellung des Anwalts oder Patentanwalts bei der Partei beeinträchtigt die Unabhängigkeit dagegen nicht, solange er als unabhängiger Berater nach Art. 2.4.1 des Verhaltenskodex handelt.
+
+Normen: [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 290 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_563/2024, EP2671173
+
+*Tags: Rechtsprechung, EPG-BerG, Vertretung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Organe einer juristischen Person und natürliche Personen mit weitreichenden Verwaltungs- und Finanzbefugnissen (Leitungsposition, wesentliche Beteiligung) dürfen diese nicht vertreten, auch wenn sie nach Art. 48 Abs. 1 oder 2 EPGÜ als Vertreter qualifiziert sind; die Vertretung soll hinreichenden Abstand zur Partei sichern. Die bloße Anstellung des Anwalts oder Patentanwalts bei der Partei beeinträchtigt die Unabhängigkeit dagegen nicht, solange er als unabhängiger Berater nach Art. 2.4.1 des Verhaltenskodex handelt.
+
+**A:** EPG-BerG „Suinno/Microsoft (Vertretung durch Organe)“ – UPC_CoA_563/2024 (2025), EPG, UPC_CoA_563/2024, EP2671173
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Vertretung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Fives/REEL (Altfälle, Schadensersatzklage)“ (UPC_CoA_30/2024, 2025) – Kernaussage?
+
+**A:** Das EPG ist auch für eine selbständige Klage auf Festsetzung von Schadensersatz zuständig, nachdem ein nationales Gericht die Verletzung und die Ersatzpflicht dem Grunde nach festgestellt hat. Die Zuständigkeit erfasst Verletzungshandlungen vor dem Inkrafttreten des EPGÜ am 1. Juni 2023, solange das Patent zu diesem Zeitpunkt noch nicht erloschen war.
+
+Normen: [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_30/2024, EP1740740
+
+*Tags: Rechtsprechung, EPG-BerG, Zuständigkeit, Altfälle*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Das EPG ist auch für eine selbständige Klage auf Festsetzung von Schadensersatz zuständig, nachdem ein nationales Gericht die Verletzung und die Ersatzpflicht dem Grunde nach festgestellt hat. Die Zuständigkeit erfasst Verletzungshandlungen vor dem Inkrafttreten des EPGÜ am 1. Juni 2023, solange das Patent zu diesem Zeitpunkt noch nicht erloschen war.
+
+**A:** EPG-BerG „Fives/REEL (Altfälle, Schadensersatzklage)“ – UPC_CoA_30/2024 (2025), EPG, UPC_CoA_30/2024, EP1740740
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zuständigkeit, Altfälle*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Knaus Tabbert (Altfälle, Fachperson, product-by-process)“ (UPC_CoA_365/2025, 2026) – Kernaussage?
+
+**A:** Das EPG ist für Altfälle nach [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) zuständig; für die Zeit vor dem 1. Juni 2023 sind anwendbares Recht und Rückwirkungsverbot gesondert zu prüfen. Materiell: Erkennt die Fachperson, dass sich das Problem in einem benachbarten Gebiet ähnlich stellt, zieht sie dortige Experten hinzu. Die Aufnahme eines Herstellungsverfahrens in einen Erzeugnisanspruch macht diesen nicht zum Verfahrensanspruch; es ist zu prüfen, ob sich das Verfahren in Eigenschaften des Erzeugnisses niederschlägt. Ein allgemeiner Begriff offenbart nicht ohne Weiteres alle spezifischen Unterbegriffe. Die Berufungsbegründung muss vollständig sein ([R. 222.2, 226 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 226 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_365/2025, EP3356109
+
+*Tags: Rechtsprechung, EPG-BerG, Zuständigkeit, Rechtsbestand, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Das EPG ist für Altfälle nach [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) zuständig; für die Zeit vor dem 1. Juni 2023 sind anwendbares Recht und Rückwirkungsverbot gesondert zu prüfen. Materiell: Erkennt die Fachperson, dass sich das Problem in einem benachbarten Gebiet ähnlich stellt, zieht sie dortige Experten hinzu. Die Aufnahme eines Herstellungsverfahrens in einen Erzeugnisanspruch macht diesen nicht zum Verfahrensanspruch; es ist zu prüfen, ob sich das Verfahren in Eigenschaften des Erzeugnisses niederschlägt. Ein allgemeiner Begriff offenbart nicht ohne Weiteres alle spezifischen Unterbegriffe. Die Berufungsbegründung muss vollständig sein ([R. 222.2, 226 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** EPG-BerG „Knaus Tabbert (Altfälle, Fachperson, product-by-process)“ – UPC_CoA_365/2025 (2026), EPG, UPC_CoA_365/2025, EP3356109
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zuständigkeit, Rechtsbestand, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr)“ (UPC_CoA_288/2025, 2025) – Kernaussage?
+
+**A:** [R. 19.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) enthält einen abschließenden Katalog der Einspruchsgründe; dazu gehört die Zuständigkeit des Gerichts einschließlich der Gültigkeit der Zuständigkeitsvorschriften, nicht aber ein Verstoß gegen Art. 47 GRCh oder Art. 6 EMRK als solcher. Die Kompetenzzuweisung an das EPG ([Art. 31, 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) i.V.m. Art. 71a ff. Brüssel-Ia-VO) greift nicht in Art. 19 EUV und [Art. 267 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT) ein. Der Verwaltungsausschuss durfte nach [Art. 87 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) analog Mailand an die Stelle Londons setzen. Die Berufungsgebühr ist für jedes Berufungsverfahren zu entrichten, auch bei gleichen Fragen.
+
+Normen: [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 87 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 19.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 228 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_288/2025, EP3490258
+
+*Tags: Rechtsprechung, EPG-BerG, Einspruch, Zuständigkeit, Gebühren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+[R. 19.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) enthält einen abschließenden Katalog der Einspruchsgründe; dazu gehört die Zuständigkeit des Gerichts einschließlich der Gültigkeit der Zuständigkeitsvorschriften, nicht aber ein Verstoß gegen Art. 47 GRCh oder Art. 6 EMRK als solcher. Die Kompetenzzuweisung an das EPG ([Art. 31, 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) i.V.m. Art. 71a ff. Brüssel-Ia-VO) greift nicht in Art. 19 EUV und [Art. 267 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT) ein. Der Verwaltungsausschuss durfte nach [Art. 87 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) analog Mailand an die Stelle Londons setzen. Die Berufungsgebühr ist für jedes Berufungsverfahren zu entrichten, auch bei gleichen Fragen.
+
+**A:** EPG-BerG „Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr)“ – UPC_CoA_288/2025 (2025), EPG, UPC_CoA_288/2025, EP3490258
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Einspruch, Zuständigkeit, Gebühren*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Vivo/Sun Patent (Einspruch ins Hauptverfahren)“ (UPC-COA-0000904/2025, 2026) – Kernaussage?
+
+**A:** Die Entscheidung, den Einspruch im Hauptverfahren zu behandeln, kann der Berichterstatter ([R. 20.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) oder der Spruchkörper treffen, wenn der Berichterstatter die Frage nach [R. 102.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) an ihn verwiesen hat; R. 102 gilt im schriftlichen Verfahren entsprechend, weil der Berichterstatter nach [R. 18, 331 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) auch dort das Fallmanagement innehat, einschließlich der Reihenfolge der zu entscheidenden Fragen ([R. 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [R. 102 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 20 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 331 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000904/2025, EP3407524
+
+*Tags: Rechtsprechung, EPG-BerG, Einspruch, Fallmanagement*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Die Entscheidung, den Einspruch im Hauptverfahren zu behandeln, kann der Berichterstatter ([R. 20.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) oder der Spruchkörper treffen, wenn der Berichterstatter die Frage nach [R. 102.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) an ihn verwiesen hat; R. 102 gilt im schriftlichen Verfahren entsprechend, weil der Berichterstatter nach [R. 18, 331 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) auch dort das Fallmanagement innehat, einschließlich der Reihenfolge der zu entscheidenden Fragen ([R. 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** EPG-BerG „Vivo/Sun Patent (Einspruch ins Hauptverfahren)“ – UPC-COA-0000904/2025 (2026), EPG, UPC-COA-0000904/2025, EP3407524
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Einspruch, Fallmanagement*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Sun Patent/Vivo (Aussetzung, R. 21 und R. 295)“ (UPC_CoA_757/2025, 2025) – Kernaussage?
+
+**A:** Eine Aussetzung nach [R. 21.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) setzt voraus, dass die Berufung gegen die Einspruchsentscheidung bereits eingelegt ist; die Sonderregeln der R. 19 bis 21 gehen den allgemeinen Aussetzungsregeln (R. 295 ff.) vor. [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gilt für beide Instanzen; über die Aussetzung eines erstinstanzlichen Verfahrens entscheidet aber grundsätzlich das Gericht erster Instanz, das die Umstände besser kennt und Ermessen beim Fallmanagement hat.
+
+Normen: [R. 21 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_757/2025, EP3852468
+
+*Tags: Rechtsprechung, EPG-BerG, Aussetzung, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Eine Aussetzung nach [R. 21.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) setzt voraus, dass die Berufung gegen die Einspruchsentscheidung bereits eingelegt ist; die Sonderregeln der R. 19 bis 21 gehen den allgemeinen Aussetzungsregeln (R. 295 ff.) vor. [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gilt für beide Instanzen; über die Aussetzung eines erstinstanzlichen Verfahrens entscheidet aber grundsätzlich das Gericht erster Instanz, das die Umstände besser kennt und Ermessen beim Fallmanagement hat.
+
+**A:** EPG-BerG „Sun Patent/Vivo (Aussetzung, R. 21 und R. 295)“ – UPC_CoA_757/2025 (2025), EPG, UPC_CoA_757/2025, EP3852468
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Aussetzung, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Barco/Yealink (Kammerzuständigkeit im Eilverfahren)“ (UPC_CoA_317/2025, 2025) – Kernaussage?
+
+**A:** [R. 19.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gilt aus Effizienzgründen entsprechend im Verfahren auf einstweilige Maßnahmen: Ist die gewählte Lokalkammer unzuständig und benennt der Antragsteller eine zuständige, wird verwiesen statt abgewiesen. Die Kammerzuständigkeit nach [Art. 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist eine interne Frage des EPG außerhalb der Brüssel-Ia-VO; zwischen Verletzungsort (lit. a) und Beklagtensitz (lit. b) besteht keine Rangfolge. Für lit. a genügt bei mehreren Beklagten die Feststellung von Verletzungshandlungen im Kammergebiet, etwa ein Angebot über eine dort abrufbare Website; die Prüfung ist kursorisch. Mögliche Produktänderungen rechtfertigen kein Zuwarten nach [R. 211.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf).
+
+Normen: [Art. 33 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 19.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 211.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_317/2025, EP3732827
+
+*Tags: Rechtsprechung, EPG-BerG, Zuständigkeit, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+[R. 19.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gilt aus Effizienzgründen entsprechend im Verfahren auf einstweilige Maßnahmen: Ist die gewählte Lokalkammer unzuständig und benennt der Antragsteller eine zuständige, wird verwiesen statt abgewiesen. Die Kammerzuständigkeit nach [Art. 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist eine interne Frage des EPG außerhalb der Brüssel-Ia-VO; zwischen Verletzungsort (lit. a) und Beklagtensitz (lit. b) besteht keine Rangfolge. Für lit. a genügt bei mehreren Beklagten die Feststellung von Verletzungshandlungen im Kammergebiet, etwa ein Angebot über eine dort abrufbare Website; die Prüfung ist kursorisch. Mögliche Produktänderungen rechtfertigen kein Zuwarten nach [R. 211.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf).
+
+**A:** EPG-BerG „Barco/Yealink (Kammerzuständigkeit im Eilverfahren)“ – UPC_CoA_317/2025 (2025), EPG, UPC_CoA_317/2025, EP3732827
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zuständigkeit, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „NUC/Hurom (rügelose Einlassung, CMS-Zugriff)“ (UPC_CoA_409/2025, 2026) – Kernaussage?
+
+**A:** Im elektronischen Verfahren des EPG ([Art. 44 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 4.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) ist der erste Schritt des Vertreters der Zugriff auf die Akte im CMS mit dem zugestellten Zugangscode. Dieser Zugriff ist noch keine Einlassung im Sinne des Art. 26 Abs. 1 Brüssel-Ia-VO. Erst mit dem ersten Schriftsatz, dem Einspruch nach [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) oder der Klageerwiderung nach [R. 23 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), entscheidet sich der Beklagte bewusst für oder gegen die internationale Zuständigkeit des angerufenen Gerichts.
+
+Normen: [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 44 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_409/2025, EP2028981
+
+*Tags: Rechtsprechung, EPG-BerG, Zuständigkeit, Einlassung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Im elektronischen Verfahren des EPG ([Art. 44 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 4.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) ist der erste Schritt des Vertreters der Zugriff auf die Akte im CMS mit dem zugestellten Zugangscode. Dieser Zugriff ist noch keine Einlassung im Sinne des Art. 26 Abs. 1 Brüssel-Ia-VO. Erst mit dem ersten Schriftsatz, dem Einspruch nach [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) oder der Klageerwiderung nach [R. 23 ff. VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), entscheidet sich der Beklagte bewusst für oder gegen die internationale Zuständigkeit des angerufenen Gerichts.
+
+**A:** EPG-BerG „NUC/Hurom (rügelose Einlassung, CMS-Zugriff)“ – UPC_CoA_409/2025 (2026), EPG, UPC_CoA_409/2025, EP2028981
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zuständigkeit, Einlassung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Sinocare/Abbott (Zuständigkeit, Schadensort, Berufungsrüge)“ (UPC-COA-0000899/2025, 2026) – Kernaussage?
+
+**A:** Wer die Zuständigkeit in erster Instanz nicht rügt, hat diese Möglichkeit in der Berufung grundsätzlich verloren (Art. 26 Abs. 1 Brüssel-Ia-VO, [R. 19.7 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Werden angeblich verletzende Produkte für die Vertragsmitgliedstaaten hergestellt und verkauft, droht dort ein Schaden durch den Erwerb über Dritte, auch wenn die Handlungen außerhalb des EPG-Gebiets vorgenommen werden; das begründet die Zuständigkeit nach Art. 71b Nr. 2 i.V.m. Art. 7 Nr. 2 Brüssel-Ia-VO. Berufungskläger müssen darlegen, dass gerügte Verfahrensfehler zu einer unrichtigen Entscheidung geführt haben.
+
+Normen: [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 19.7 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000899/2025, EP4344633
+
+*Tags: Rechtsprechung, EPG-BerG, Zuständigkeit, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Wer die Zuständigkeit in erster Instanz nicht rügt, hat diese Möglichkeit in der Berufung grundsätzlich verloren (Art. 26 Abs. 1 Brüssel-Ia-VO, [R. 19.7 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Werden angeblich verletzende Produkte für die Vertragsmitgliedstaaten hergestellt und verkauft, droht dort ein Schaden durch den Erwerb über Dritte, auch wenn die Handlungen außerhalb des EPG-Gebiets vorgenommen werden; das begründet die Zuständigkeit nach Art. 71b Nr. 2 i.V.m. Art. 7 Nr. 2 Brüssel-Ia-VO. Berufungskläger müssen darlegen, dass gerügte Verfahrensfehler zu einer unrichtigen Entscheidung geführt haben.
+
+**A:** EPG-BerG „Sinocare/Abbott (Zuständigkeit, Schadensort, Berufungsrüge)“ – UPC-COA-0000899/2025 (2026), EPG, UPC-COA-0000899/2025, EP4344633
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zuständigkeit, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG LK Hamburg „Dyson/Dreame (LK Hamburg: internationale Zuständigkeit)“ (UPC_CFI_387/2025, 2025) – Kernaussage?
+
+**A:** Das EPG ist als gemeinsames Gericht unabhängig vom Sitz des Beklagten für alle Verletzungen in einem Vertragsmitgliedstaat zuständig (Art. 71b Nr. 2 i.V.m. Art. 7 Nr. 2 Brüssel-Ia-VO). Ist ein Beklagter im Kammerstaat weder ansässig noch tätig, gehört aber zum selben Konzern wie Mitbeklagte und betrifft der Vorwurf dieselben Ausführungsformen, besteht der enge Zusammenhang nach Art. 8 Nr. 1 Brüssel-Ia-VO.
+
+Normen: [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 33 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Fundstelle: EPG, UPC_CFI_387/2025, EP3119235
+
+*Tags: Rechtsprechung, EPG LK Hamburg, Zuständigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK Hamburg) steht für folgenden Grundsatz?
+
+Das EPG ist als gemeinsames Gericht unabhängig vom Sitz des Beklagten für alle Verletzungen in einem Vertragsmitgliedstaat zuständig (Art. 71b Nr. 2 i.V.m. Art. 7 Nr. 2 Brüssel-Ia-VO). Ist ein Beklagter im Kammerstaat weder ansässig noch tätig, gehört aber zum selben Konzern wie Mitbeklagte und betrifft der Vorwurf dieselben Ausführungsformen, besteht der enge Zusammenhang nach Art. 8 Nr. 1 Brüssel-Ia-VO.
+
+**A:** EPG LK Hamburg „Dyson/Dreame (LK Hamburg: internationale Zuständigkeit)“ – UPC_CFI_387/2025 (2025), EPG, UPC_CFI_387/2025, EP3119235
+
+*Tags: Rechtsprechung, Umkehr, EPG LK Hamburg, Zuständigkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Meril/Edwards (dieselben Parteien, Änderungsanträge, Auslegung, Erfindungshöhe)“ (UPC_CoA_464/2024, 2025) – Kernaussage?
+
+**A:** „Dieselben Parteien“ in [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) verlangt Identität; ausnahmsweise gelten zwei Rechtsträger als eine Partei, wenn ihre Interessen so identisch sind, dass ein Urteil gegen den einen Rechtskraft gegen den anderen entfaltet. Spätere Änderungsanträge (R. 50.2 i.V.m. [R. 30.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) bedürfen der Erlaubnis; das Gericht erster Instanz hat Ermessen, die Berufungskontrolle ist beschränkt. Ein Ausführungsbeispiel ist in der Regel vom Anspruch umfasst, außer das Patent lehrt eindeutig das Gegenteil. Erfinderische Tätigkeit: Ausgangspunkt ist ein realistischer Stand der Technik; die Fachperson muss mit Aussicht auf Erfolg zur Erfindung gelangen, nicht nur gelangen können.
+
+Normen: [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 30 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 50 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_464/2024, EP3646825
+
+*Tags: Rechtsprechung, EPG-BerG, Zuständigkeit, Rechtsbestand, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+„Dieselben Parteien“ in [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) verlangt Identität; ausnahmsweise gelten zwei Rechtsträger als eine Partei, wenn ihre Interessen so identisch sind, dass ein Urteil gegen den einen Rechtskraft gegen den anderen entfaltet. Spätere Änderungsanträge (R. 50.2 i.V.m. [R. 30.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) bedürfen der Erlaubnis; das Gericht erster Instanz hat Ermessen, die Berufungskontrolle ist beschränkt. Ein Ausführungsbeispiel ist in der Regel vom Anspruch umfasst, außer das Patent lehrt eindeutig das Gegenteil. Erfinderische Tätigkeit: Ausgangspunkt ist ein realistischer Stand der Technik; die Fachperson muss mit Aussicht auf Erfolg zur Erfindung gelangen, nicht nur gelangen können.
+
+**A:** EPG-BerG „Meril/Edwards (dieselben Parteien, Änderungsanträge, Auslegung, Erfindungshöhe)“ – UPC_CoA_464/2024 (2025), EPG, UPC_CoA_464/2024, EP3646825
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zuständigkeit, Rechtsbestand, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** EPG ZK Paris „Seoul Viosys/Emporia (ZK Paris: Strohmann-Theorie)“ (UPC_CFI_258/2025, 2025) – Kernaussage?
+
+**A:** Die Strohmann-Theorie hat eine Grundlage im Unionsrecht und kann für das Merkmal „dieselben Parteien“ in [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) relevant sein. Dass zwei Unternehmen eine gemeinsame Verteidigungsstrategie gegen eine Verletzungsklage abgestimmt haben, genügt aber nicht, um das im zweiten Verfahren beteiligte Unternehmen als Strohmann des ersten anzusehen.
+
+Normen: [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_258/2025, EP3926698
+
+*Tags: Rechtsprechung, EPG ZK Paris, Zuständigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG ZK Paris) steht für folgenden Grundsatz?
+
+Die Strohmann-Theorie hat eine Grundlage im Unionsrecht und kann für das Merkmal „dieselben Parteien“ in [Art. 33 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) relevant sein. Dass zwei Unternehmen eine gemeinsame Verteidigungsstrategie gegen eine Verletzungsklage abgestimmt haben, genügt aber nicht, um das im zweiten Verfahren beteiligte Unternehmen als Strohmann des ersten anzusehen.
+
+**A:** EPG ZK Paris „Seoul Viosys/Emporia (ZK Paris: Strohmann-Theorie)“ – UPC_CFI_258/2025 (2025), EPG, UPC_CFI_258/2025, EP3926698
+
+*Tags: Rechtsprechung, Umkehr, EPG ZK Paris, Zuständigkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG ZK Mailand „Pari/Philips (ZK Mailand: Klagebefugnis zur Nichtigkeitsklage)“ (UPC_CFI_613/2024, 2025) – Kernaussage?
+
+**A:** Jede Person, die ihre Freedom-to-operate klären will, also jeder, der auf dem technischen Gebiet des Patents tätig ist oder werden könnte, ist vom Patent „betroffen“ und nach [Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) zur Nichtigkeitsklage befugt. Aus schematischen Zeichnungen leitet die Fachperson in der Regel keine Abmessungen unmittelbar und eindeutig ab.
+
+Normen: [Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 42 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_613/2024, EP3397329
+
+*Tags: Rechtsprechung, EPG ZK Mailand, Nichtigkeit, Klagebefugnis*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG ZK Mailand) steht für folgenden Grundsatz?
+
+Jede Person, die ihre Freedom-to-operate klären will, also jeder, der auf dem technischen Gebiet des Patents tätig ist oder werden könnte, ist vom Patent „betroffen“ und nach [Art. 47 Abs. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) zur Nichtigkeitsklage befugt. Aus schematischen Zeichnungen leitet die Fachperson in der Regel keine Abmessungen unmittelbar und eindeutig ab.
+
+**A:** EPG ZK Mailand „Pari/Philips (ZK Mailand: Klagebefugnis zur Nichtigkeitsklage)“ – UPC_CFI_613/2024 (2025), EPG, UPC_CFI_613/2024, EP3397329
+
+*Tags: Rechtsprechung, Umkehr, EPG ZK Mailand, Nichtigkeit, Klagebefugnis*
+
+---
+
+## entscheidung
+
+**F:** EPG LK München „Edwards/Meril (LK München: CMS-Workflows, Prozesskostensicherheit)“ (UPC_CFI_15/2023, 2023) – Kernaussage?
+
+**A:** Nach [R. 4.1 Satz 2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) müssen die Parteien die amtlichen Online-Formulare einschließlich der gesonderten CMS-Workflows verwenden. Ein Antrag auf Prozesskostensicherheit nach [R. 158.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) setzt die Darlegung voraus, dass die Vermögensverhältnisse der Gegenseite die Erstattung gefährden oder die Vollstreckung einer Kostenentscheidung unmöglich oder besonders schwierig erscheint.
+
+Normen: [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_15/2023, EP3646825
+
+*Tags: Rechtsprechung, EPG LK München, Verfahren, Kosten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK München) steht für folgenden Grundsatz?
+
+Nach [R. 4.1 Satz 2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) müssen die Parteien die amtlichen Online-Formulare einschließlich der gesonderten CMS-Workflows verwenden. Ein Antrag auf Prozesskostensicherheit nach [R. 158.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) setzt die Darlegung voraus, dass die Vermögensverhältnisse der Gegenseite die Erstattung gefährden oder die Vollstreckung einer Kostenentscheidung unmöglich oder besonders schwierig erscheint.
+
+**A:** EPG LK München „Edwards/Meril (LK München: CMS-Workflows, Prozesskostensicherheit)“ – UPC_CFI_15/2023 (2023), EPG, UPC_CFI_15/2023, EP3646825
+
+*Tags: Rechtsprechung, Umkehr, EPG LK München, Verfahren, Kosten*
+
+---
+
+## entscheidung
+
+**F:** EPG LK Hamburg „Avago/Tesla (LK Hamburg: Workflows, teilweise Nichtigkeit)“ (UPC_CFI_54/2023, 2024) – Kernaussage?
+
+**A:** Die unterbliebene Nutzung des CMS-Workflows steht der Fristwahrung nicht entgegen ([R. 4.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); in der Anfangsphase des EPG ist ein großzügiger Maßstab angezeigt. Nach [Art. 65 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) kann ein Patent nur so weit widerrufen werden, wie die Widerrufsgründe reichen; es kann auch im Umfang einzelner selbständiger Ansprüche eines vollständigen Anspruchssatzes bestehen bleiben, wenn diese nicht so aufeinander aufbauen, dass der Wegfall des einen den des anderen erzwingt.
+
+Normen: [Art. 65 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 30 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_54/2023, EP1612910
+
+*Tags: Rechtsprechung, EPG LK Hamburg, Verfahren, Nichtigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK Hamburg) steht für folgenden Grundsatz?
+
+Die unterbliebene Nutzung des CMS-Workflows steht der Fristwahrung nicht entgegen ([R. 4.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); in der Anfangsphase des EPG ist ein großzügiger Maßstab angezeigt. Nach [Art. 65 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) kann ein Patent nur so weit widerrufen werden, wie die Widerrufsgründe reichen; es kann auch im Umfang einzelner selbständiger Ansprüche eines vollständigen Anspruchssatzes bestehen bleiben, wenn diese nicht so aufeinander aufbauen, dass der Wegfall des einen den des anderen erzwingt.
+
+**A:** EPG LK Hamburg „Avago/Tesla (LK Hamburg: Workflows, teilweise Nichtigkeit)“ – UPC_CFI_54/2023 (2024), EPG, UPC_CFI_54/2023, EP1612910
+
+*Tags: Rechtsprechung, Umkehr, EPG LK Hamburg, Verfahren, Nichtigkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG LK Düsseldorf „10x Genomics/Curio (LK Düsseldorf: Verdolmetschung)“ (UPC_CFI_463/2023, 2024) – Kernaussage?
+
+**A:** Nach [Art. 51 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) und [R. 109 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) sehen die Kammern auf Verlangen einer Partei Verdolmetschung vor, soweit dies angemessen erscheint, um die Partei in der mündlichen Verhandlung zu unterstützen; sie soll Beteiligten ohne ausreichende Sprachkenntnis die aktive Teilnahme ermöglichen. Sind Parteivertreter der Verfahrenssprache mächtig, dürfen sie nicht in einer anderen Sprache verhandeln.
+
+Normen: [Art. 51 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 109 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_463/2023, EP2697391
+
+*Tags: Rechtsprechung, EPG LK Düsseldorf, Verfahrenssprache*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK Düsseldorf) steht für folgenden Grundsatz?
+
+Nach [Art. 51 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) und [R. 109 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) sehen die Kammern auf Verlangen einer Partei Verdolmetschung vor, soweit dies angemessen erscheint, um die Partei in der mündlichen Verhandlung zu unterstützen; sie soll Beteiligten ohne ausreichende Sprachkenntnis die aktive Teilnahme ermöglichen. Sind Parteivertreter der Verfahrenssprache mächtig, dürfen sie nicht in einer anderen Sprache verhandeln.
+
+**A:** EPG LK Düsseldorf „10x Genomics/Curio (LK Düsseldorf: Verdolmetschung)“ – UPC_CFI_463/2023 (2024), EPG, UPC_CFI_463/2023, EP2697391
+
+*Tags: Rechtsprechung, Umkehr, EPG LK Düsseldorf, Verfahrenssprache*
+
+---
+
+## entscheidung
+
+**F:** EPG LK München „TP-Link/Huawei (LK München: Wechsel der Verfahrenssprache)“ (UPC_CFI_804/2025, 2025) – Kernaussage?
+
+**A:** Beim Antrag auf Änderung der Verfahrenssprache in die Patentsprache aus Fairnessgründen ([Art. 49 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 323 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) sind alle Umstände abzuwägen; angesichts der strengen Fristen sind die interne Arbeitssprache der Parteien und der Koordinierungsbedarf mehrerer Beklagter wichtige Faktoren.
+
+Normen: [Art. 49 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 323 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_804/2025, EP3678321
+
+*Tags: Rechtsprechung, EPG LK München, Verfahrenssprache*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK München) steht für folgenden Grundsatz?
+
+Beim Antrag auf Änderung der Verfahrenssprache in die Patentsprache aus Fairnessgründen ([Art. 49 Abs. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 323 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) sind alle Umstände abzuwägen; angesichts der strengen Fristen sind die interne Arbeitssprache der Parteien und der Koordinierungsbedarf mehrerer Beklagter wichtige Faktoren.
+
+**A:** EPG LK München „TP-Link/Huawei (LK München: Wechsel der Verfahrenssprache)“ – UPC_CFI_804/2025 (2025), EPG, UPC_CFI_804/2025, EP3678321
+
+*Tags: Rechtsprechung, Umkehr, EPG LK München, Verfahrenssprache*
+
+---
+
+## entscheidung
+
+**F:** EPG LK München „Huawei/MediaTek (LK München: Überprüfung nach R. 333, Drittakteneinsicht)“ (UPC_CFI_1234/2025, 2026) – Kernaussage?
+
+**A:** Ein Antrag nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegen eine Entscheidung des Berichterstatters über die Drittakteneinsicht nach [R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist unstatthaft, wenn der Spruchkörper für dieses Verfahren nicht zuständig ist. Für das Fortbildungs- und Beratungsinteresse einer Kanzlei an der Akteneinsicht genügt eine abstrakte Betrachtung: Es reicht, dass die Einsicht objektiv das Informationsbedürfnis befriedigen kann.
+
+Normen: [R. 262.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_1234/2025, EP3905840
+
+*Tags: Rechtsprechung, EPG LK München, Fallmanagement, Akteneinsicht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK München) steht für folgenden Grundsatz?
+
+Ein Antrag nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegen eine Entscheidung des Berichterstatters über die Drittakteneinsicht nach [R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist unstatthaft, wenn der Spruchkörper für dieses Verfahren nicht zuständig ist. Für das Fortbildungs- und Beratungsinteresse einer Kanzlei an der Akteneinsicht genügt eine abstrakte Betrachtung: Es reicht, dass die Einsicht objektiv das Informationsbedürfnis befriedigen kann.
+
+**A:** EPG LK München „Huawei/MediaTek (LK München: Überprüfung nach R. 333, Drittakteneinsicht)“ – UPC_CFI_1234/2025 (2026), EPG, UPC_CFI_1234/2025, EP3905840
+
+*Tags: Rechtsprechung, Umkehr, EPG LK München, Fallmanagement, Akteneinsicht*
+
+---
+
+## entscheidung
+
+**F:** EPG LK Paris „DexCom/Abbott (LK Paris: Dispositionsmaxime, Carve-out)“ (UPC_CFI_230/2023, 2024) – Kernaussage?
+
+**A:** Der Streitgegenstand wird von den Parteien bestimmt ([Art. 76 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); der Kläger kann bestimmte Verletzungshandlungen oder Staaten ausklammern („carve-out“), um parallele Zuständigkeiten in der Übergangszeit nach [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) zu vermeiden. Dieser Grundsatz beschränkt aber nicht den Beklagten in seinem Angriff auf den Rechtsbestand des Patents.
+
+Normen: [Art. 76 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Fundstelle: EPG, UPC_CFI_230/2023, EP3435866
+
+*Tags: Rechtsprechung, EPG LK Paris, Verfahrensgrundsätze*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK Paris) steht für folgenden Grundsatz?
+
+Der Streitgegenstand wird von den Parteien bestimmt ([Art. 76 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); der Kläger kann bestimmte Verletzungshandlungen oder Staaten ausklammern („carve-out“), um parallele Zuständigkeiten in der Übergangszeit nach [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) zu vermeiden. Dieser Grundsatz beschränkt aber nicht den Beklagten in seinem Angriff auf den Rechtsbestand des Patents.
+
+**A:** EPG LK Paris „DexCom/Abbott (LK Paris: Dispositionsmaxime, Carve-out)“ – UPC_CFI_230/2023 (2024), EPG, UPC_CFI_230/2023, EP3435866
+
+*Tags: Rechtsprechung, Umkehr, EPG LK Paris, Verfahrensgrundsätze*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Siemens/Hologic (rechtliches Gehör)“ (UPC-COA-0000093/2026, 2026) – Kernaussage?
+
+**A:** Das rechtliche Gehör nach [Art. 76 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) verpflichtet das Gericht, den Vortrag der Parteien zur Kenntnis zu nehmen, seinen wesentlichen Kern zu behandeln und auf zentrale Fragen in den Gründen einzugehen. Eine Verletzung ist zu vermuten, wenn die Gründe nur den Schluss zulassen, dass der Vortrag völlig übergangen wurde, oder wenn sie allenfalls den Wortlaut, nicht den Sinn des Vortrags erfassen. Nicht jedes Argument muss ausdrücklich behandelt werden, die Kernargumente aber schon.
+
+Normen: [Art. 76 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000093/2026, EP2352431
+
+*Tags: Rechtsprechung, EPG-BerG, Verfahrensgrundsätze, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Das rechtliche Gehör nach [Art. 76 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) verpflichtet das Gericht, den Vortrag der Parteien zur Kenntnis zu nehmen, seinen wesentlichen Kern zu behandeln und auf zentrale Fragen in den Gründen einzugehen. Eine Verletzung ist zu vermuten, wenn die Gründe nur den Schluss zulassen, dass der Vortrag völlig übergangen wurde, oder wenn sie allenfalls den Wortlaut, nicht den Sinn des Vortrags erfassen. Nicht jedes Argument muss ausdrücklich behandelt werden, die Kernargumente aber schon.
+
+**A:** EPG-BerG „Siemens/Hologic (rechtliches Gehör)“ – UPC-COA-0000093/2026 (2026), EPG, UPC-COA-0000093/2026, EP2352431
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Verfahrensgrundsätze, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Strabag/Swarco (Streithelfer)“ (UPC_CoA_70/2025, 2025) – Kernaussage?
+
+**A:** Der Streithelfer darf sich nicht in Widerspruch zu Handlungen der unterstützten Partei setzen; sein Widerspruch gegen deren Rücknahme der Berufung ist unzulässig. Seine Prozesshandlungen sind nur zulässig, soweit sie deren Anträge unterstützen; scheidet die Partei aus, wird die Streithilfe unzulässig. Haben Partei und Streithelfer Berufung eingelegt, ist es ein einheitliches Rechtsmittel, das nach Rücknahme durch die Partei infolge eines Vergleichs nach [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegenstandslos wird. Kostenrechtlich wird der Streithelfer wie die Hauptpartei behandelt.
+
+Normen: [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 313 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_70/2025, EP2643717
+
+*Tags: Rechtsprechung, EPG-BerG, Streithilfe, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Streithelfer darf sich nicht in Widerspruch zu Handlungen der unterstützten Partei setzen; sein Widerspruch gegen deren Rücknahme der Berufung ist unzulässig. Seine Prozesshandlungen sind nur zulässig, soweit sie deren Anträge unterstützen; scheidet die Partei aus, wird die Streithilfe unzulässig. Haben Partei und Streithelfer Berufung eingelegt, ist es ein einheitliches Rechtsmittel, das nach Rücknahme durch die Partei infolge eines Vergleichs nach [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegenstandslos wird. Kostenrechtlich wird der Streithelfer wie die Hauptpartei behandelt.
+
+**A:** EPG-BerG „Strabag/Swarco (Streithelfer)“ – UPC_CoA_70/2025 (2025), EPG, UPC_CoA_70/2025, EP2643717
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Streithilfe, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Suinno/Microsoft (Versäumnisentscheidung gegen Berufungskläger)“ (UPC-CoA-21/2026, 2026) – Kernaussage?
+
+**A:** Für [R. 355.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gilt der Berufungskläger als Kläger des Berufungsverfahrens. R. 355.2 ist deshalb nicht anwendbar, wenn der Berufungsbeklagte eine Versäumnisentscheidung gegen den Berufungskläger beantragt, weil dieser eine Frist versäumt hat, etwa die angeordnete Prozesskostensicherheit nicht geleistet hat ([R. 158.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), oder nicht zur mündlichen Verhandlung erschienen ist.
+
+Normen: [R. 158.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 355 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-CoA-21/2026, EP2671173
+
+*Tags: Rechtsprechung, EPG-BerG, Versäumnis, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Für [R. 355.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gilt der Berufungskläger als Kläger des Berufungsverfahrens. R. 355.2 ist deshalb nicht anwendbar, wenn der Berufungsbeklagte eine Versäumnisentscheidung gegen den Berufungskläger beantragt, weil dieser eine Frist versäumt hat, etwa die angeordnete Prozesskostensicherheit nicht geleistet hat ([R. 158.5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), oder nicht zur mündlichen Verhandlung erschienen ist.
+
+**A:** EPG-BerG „Suinno/Microsoft (Versäumnisentscheidung gegen Berufungskläger)“ – UPC-CoA-21/2026 (2026), EPG, UPC-CoA-21/2026, EP2671173
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Versäumnis, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Suinno/Microsoft (Wiederaufnahme)“ (UPC-COA-0000883/2025, 2026) – Kernaussage?
+
+**A:** Anträge auf Wiederaufnahme wegen eines grundlegenden Verfahrensfehlers nach [Art. 81 Abs. 1 lit. b EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) und [R. 247 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) sind auf die dort genannten Fehler beschränkt; die Wiederaufnahme ist ein außerordentlicher Rechtsbehelf gegen rechtskräftige Entscheidungen des Berufungsgerichts.
+
+Normen: [Art. 81 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 245 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 247 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000883/2025, EP2671173
+
+*Tags: Rechtsprechung, EPG-BerG, Wiederaufnahme*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Anträge auf Wiederaufnahme wegen eines grundlegenden Verfahrensfehlers nach [Art. 81 Abs. 1 lit. b EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) und [R. 247 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) sind auf die dort genannten Fehler beschränkt; die Wiederaufnahme ist ein außerordentlicher Rechtsbehelf gegen rechtskräftige Entscheidungen des Berufungsgerichts.
+
+**A:** EPG-BerG „Suinno/Microsoft (Wiederaufnahme)“ – UPC-COA-0000883/2025 (2026), EPG, UPC-COA-0000883/2025, EP2671173
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Wiederaufnahme*
+
+---
+
+## entscheidung
+
+**F:** EPG LK München „Dolby/Roku (LK München: Kosten bei Erledigung, Abmahnung)“ (UPC_CFI_58/2025, 2025) – Kernaussage?
+
+**A:** Kommt es für die Kostenentscheidung nach [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) darauf an, ob der Beklagte Anlass zur Klage gegeben hat, ist auf die objektive Sicht einer Person in der Lage des Klägers bei Klageeinreichung abzustellen. Eine Abmahnung ist keine Voraussetzung für Zulässigkeit oder Begründetheit eines Antrags auf einstweilige Maßnahmen und lässt die Dringlichkeit nicht entfallen; ihr Fehlen kann aber zur Kostentragung des Antragstellers führen.
+
+Normen: [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_58/2025, EP3490258
+
+*Tags: Rechtsprechung, EPG LK München, Kosten, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK München) steht für folgenden Grundsatz?
+
+Kommt es für die Kostenentscheidung nach [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) darauf an, ob der Beklagte Anlass zur Klage gegeben hat, ist auf die objektive Sicht einer Person in der Lage des Klägers bei Klageeinreichung abzustellen. Eine Abmahnung ist keine Voraussetzung für Zulässigkeit oder Begründetheit eines Antrags auf einstweilige Maßnahmen und lässt die Dringlichkeit nicht entfallen; ihr Fehlen kann aber zur Kostentragung des Antragstellers führen.
+
+**A:** EPG LK München „Dolby/Roku (LK München: Kosten bei Erledigung, Abmahnung)“ – UPC_CFI_58/2025 (2025), EPG, UPC_CFI_58/2025, EP3490258
+
+*Tags: Rechtsprechung, Umkehr, EPG LK München, Kosten, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Aarke/SodaStream (Prozesskostensicherheit: Kriterien)“ (UPC_CoA_548/2024, 2024) – Kernaussage?
+
+**A:** Für die Prozesskostensicherheit ist allein die finanzielle Lage des Klägers selbst maßgeblich, nicht die Zugehörigkeit zu einem solventen Konzern; unerheblich sind die Bereitschaft des Klägers zur Erstattung und die Erfolgsaussichten der Klage. Der Antragsteller muss nicht die Unmöglichkeit der Vollstreckung beweisen; es genügt, dass die Vollstreckung einer Kostenentscheidung unangemessen beschwerlich wäre, wofür er das ausländische Recht und dessen Anwendung darlegen muss.
+
+Normen: [Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_548/2024, EP1793917
+
+*Tags: Rechtsprechung, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Für die Prozesskostensicherheit ist allein die finanzielle Lage des Klägers selbst maßgeblich, nicht die Zugehörigkeit zu einem solventen Konzern; unerheblich sind die Bereitschaft des Klägers zur Erstattung und die Erfolgsaussichten der Klage. Der Antragsteller muss nicht die Unmöglichkeit der Vollstreckung beweisen; es genügt, dass die Vollstreckung einer Kostenentscheidung unangemessen beschwerlich wäre, wofür er das ausländische Recht und dessen Anwendung darlegen muss.
+
+**A:** EPG-BerG „Aarke/SodaStream (Prozesskostensicherheit: Kriterien)“ – UPC_CoA_548/2024 (2024), EPG, UPC_CoA_548/2024, EP1793917
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Hefei/Grundfos (Prozesskostensicherheit nur gegen den Antragsteller)“ (UPC_CoA_622/2025, 2025) – Kernaussage?
+
+**A:** [Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) erlaubt Prozesskostensicherheit nur zu Lasten des Antragstellers, also desjenigen, der den Rechtszug in Gang bringt. In erster Instanz ist ein Antrag des Klägers unstatthaft, auch wenn der Beklagte Widerklage auf Nichtigerklärung erhebt. Im Berufungsverfahren ist allein der Berufungsbeklagte antragsbefugt; bei wechselseitigen Berufungen kann jede Partei nur Sicherheit für die Kosten der Berufung der anderen verlangen. Ausnahme: Rügt der Beklagte zu Recht einen evidenten Fehler der erstinstanzlichen Entscheidung, kann nur er Sicherheit für die Berufungsinstanz verlangen.
+
+Normen: [Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_622/2025, EP2778423
+
+*Tags: Rechtsprechung, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+[Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) erlaubt Prozesskostensicherheit nur zu Lasten des Antragstellers, also desjenigen, der den Rechtszug in Gang bringt. In erster Instanz ist ein Antrag des Klägers unstatthaft, auch wenn der Beklagte Widerklage auf Nichtigerklärung erhebt. Im Berufungsverfahren ist allein der Berufungsbeklagte antragsbefugt; bei wechselseitigen Berufungen kann jede Partei nur Sicherheit für die Kosten der Berufung der anderen verlangen. Ausnahme: Rügt der Beklagte zu Recht einen evidenten Fehler der erstinstanzlichen Entscheidung, kann nur er Sicherheit für die Berufungsinstanz verlangen.
+
+**A:** EPG-BerG „Hefei/Grundfos (Prozesskostensicherheit nur gegen den Antragsteller)“ – UPC_CoA_622/2025 (2025), EPG, UPC_CoA_622/2025, EP2778423
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Suinno/Microsoft (Sicherheit, bedingte Widerklage nach Abschluss)“ (UPC-COA-0000021/2026, 2026) – Kernaussage?
+
+**A:** Bestätigung von Hefei/Grundfos: Sicherheit für die Kosten nur gegen den Antragsteller; der Verletzungskläger kann keine Sicherheit für die Kosten der Widerklage verlangen, weil diese unmittelbare Folge seiner Klage ist. Im Berufungsverfahren ist nur der Berufungsbeklagte antragsbefugt, auch wenn er erstinstanzlich Kläger war. Über die Aussetzung nach R. 295(m) und Fristverlängerung nach [R. 9.3(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) entscheidet das Gericht nach Ermessen.
+
+Normen: [Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 9.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000021/2026, EP2671173
+
+*Tags: Rechtsprechung, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Bestätigung von Hefei/Grundfos: Sicherheit für die Kosten nur gegen den Antragsteller; der Verletzungskläger kann keine Sicherheit für die Kosten der Widerklage verlangen, weil diese unmittelbare Folge seiner Klage ist. Im Berufungsverfahren ist nur der Berufungsbeklagte antragsbefugt, auch wenn er erstinstanzlich Kläger war. Über die Aussetzung nach R. 295(m) und Fristverlängerung nach [R. 9.3(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) entscheidet das Gericht nach Ermessen.
+
+**A:** EPG-BerG „Suinno/Microsoft (Sicherheit, bedingte Widerklage nach Abschluss)“ – UPC-COA-0000021/2026 (2026), EPG, UPC-COA-0000021/2026, EP2671173
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Syntorr/Arthrex (Prozessfinanzierungsversicherung)“ (UPC-COA-0000889/2025, 2026) – Kernaussage?
+
+**A:** Bei der Ermessensentscheidung nach [Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) und [R. 158.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist zu prüfen, ob die finanzielle Lage des Klägers eine berechtigte und reale Sorge begründet, dass eine Kostenentscheidung nicht oder nur unangemessen beschwerlich vollstreckt werden kann. Eine Prozessfinanzierungsversicherung (After-the-event-Versicherung), die die Kosten des Beklagten deckt, ist dabei zu berücksichtigen.
+
+Normen: [Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000889/2025, EP3835470
+
+*Tags: Rechtsprechung, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Bei der Ermessensentscheidung nach [Art. 69 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) und [R. 158.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist zu prüfen, ob die finanzielle Lage des Klägers eine berechtigte und reale Sorge begründet, dass eine Kostenentscheidung nicht oder nur unangemessen beschwerlich vollstreckt werden kann. Eine Prozessfinanzierungsversicherung (After-the-event-Versicherung), die die Kosten des Beklagten deckt, ist dabei zu berücksichtigen.
+
+**A:** EPG-BerG „Syntorr/Arthrex (Prozessfinanzierungsversicherung)“ – UPC-COA-0000889/2025 (2026), EPG, UPC-COA-0000889/2025, EP3835470
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „La Siddhi/Athena (KMU und Prozesskostensicherheit)“ (UPC_CoA_48/2026, 2026) – Kernaussage?
+
+**A:** Die Eigenschaft als KMU oder eine Erklärung nach [R. 370.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) befreit nicht von der Prozesskostensicherheit nach [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), wenn deren Voraussetzungen vorliegen. Die Höhe der Sicherheit ist ausgehend von der Obergrenze der erstattungsfähigen Kosten (Anhang A des Beschlusses des Verwaltungsausschusses vom 24.4.2023) nach allen Umständen zu bemessen; der KMU-Status kann dabei berücksichtigt werden.
+
+Normen: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 370.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_48/2026, EP3592333
+
+*Tags: Rechtsprechung, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Die Eigenschaft als KMU oder eine Erklärung nach [R. 370.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) befreit nicht von der Prozesskostensicherheit nach [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), wenn deren Voraussetzungen vorliegen. Die Höhe der Sicherheit ist ausgehend von der Obergrenze der erstattungsfähigen Kosten (Anhang A des Beschlusses des Verwaltungsausschusses vom 24.4.2023) nach allen Umständen zu bemessen; der KMU-Status kann dabei berücksichtigt werden.
+
+**A:** EPG-BerG „La Siddhi/Athena (KMU und Prozesskostensicherheit)“ – UPC_CoA_48/2026 (2026), EPG, UPC_CoA_48/2026, EP3592333
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Kosten, Sicherheit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Juul/NJOY (Gebührenerstattung bei Rücknahme)“ (UPC_CoA_237/2025, 2026) – Kernaussage?
+
+**A:** [R. 370.9(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) wurde zum 1. Januar 2026 geändert: Bei Rücknahme der Klage vor Abschluss des schriftlichen Verfahrens werden 50 % statt bisher 60 % der Gerichtsgebühren erstattet. Die Änderungen gelten nur für Klagen und Anträge, die nach dem 31. Dezember 2025 eingereicht wurden.
+
+Normen: [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 370.9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_237/2025, EP3430921
+
+*Tags: Rechtsprechung, EPG-BerG, Gebühren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+[R. 370.9(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) wurde zum 1. Januar 2026 geändert: Bei Rücknahme der Klage vor Abschluss des schriftlichen Verfahrens werden 50 % statt bisher 60 % der Gerichtsgebühren erstattet. Die Änderungen gelten nur für Klagen und Anträge, die nach dem 31. Dezember 2025 eingereicht wurden.
+
+**A:** EPG-BerG „Juul/NJOY (Gebührenerstattung bei Rücknahme)“ – UPC_CoA_237/2025 (2026), EPG, UPC_CoA_237/2025, EP3430921
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Gebühren*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „SharkNinja (Kosten bei teilweisem Obsiegen mit zwei Patenten)“ (UPC-COA-0000061/2026, 2026) – Kernaussage?
+
+**A:** Sind zwei Patente Gegenstand des Verfahrens und hat die Klage nur bei einem Erfolg, ist es in der Regel angemessen, die Kosten im Verhältnis der Werte der beiden Patente zu verteilen ([Art. 69 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); alternativ kann die unterliegende Partei die dem jeweiligen Patent zuzuordnenden Kosten tragen.
+
+Normen: [Art. 69 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 150 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000061/2026, EP3689198
+
+*Tags: Rechtsprechung, EPG-BerG, Kosten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Sind zwei Patente Gegenstand des Verfahrens und hat die Klage nur bei einem Erfolg, ist es in der Regel angemessen, die Kosten im Verhältnis der Werte der beiden Patente zu verteilen ([Art. 69 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); alternativ kann die unterliegende Partei die dem jeweiligen Patent zuzuordnenden Kosten tragen.
+
+**A:** EPG-BerG „SharkNinja (Kosten bei teilweisem Obsiegen mit zwei Patenten)“ – UPC-COA-0000061/2026 (2026), EPG, UPC-COA-0000061/2026, EP3689198
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Kosten*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Belkin/Philips (Anbieten, Geschäftsführerhaftung, Anerkennung)“ (UPC_CoA_19/2025, 2025) – Kernaussage?
+
+**A:** „Anbieten“ in [Art. 25 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist autonom und wirtschaftlich auszulegen: Es genügt die Präsentation eines Gegenstands, die Betrachtern ein Angebot auf Überlassung ermöglicht (invitatio ad offerendum); Preisangabe, Lieferbereitschaft oder -möglichkeit sind nicht erforderlich. Verletzer nach [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist auch, wem die Handlungen Dritter als Anstifter, Mittäter oder Gehilfe zuzurechnen sind. Die bloße Organstellung macht den Geschäftsführer nicht zum Mittäter; er haftet nur, wenn er das Unternehmen zweckgerichtet zur Verletzung nutzt oder trotz Kenntnis und Zumutbarkeit nicht einschreitet. Entscheidungen nationaler Gerichte werden nach Art. 36 Brüssel-Ia-VO anerkannt.
+
+Normen: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Fundstelle: EPG, UPC_CoA_19/2025
+
+*Tags: Rechtsprechung, EPG-BerG, Verletzung, Haftung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+„Anbieten“ in [Art. 25 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist autonom und wirtschaftlich auszulegen: Es genügt die Präsentation eines Gegenstands, die Betrachtern ein Angebot auf Überlassung ermöglicht (invitatio ad offerendum); Preisangabe, Lieferbereitschaft oder -möglichkeit sind nicht erforderlich. Verletzer nach [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist auch, wem die Handlungen Dritter als Anstifter, Mittäter oder Gehilfe zuzurechnen sind. Die bloße Organstellung macht den Geschäftsführer nicht zum Mittäter; er haftet nur, wenn er das Unternehmen zweckgerichtet zur Verletzung nutzt oder trotz Kenntnis und Zumutbarkeit nicht einschreitet. Entscheidungen nationaler Gerichte werden nach Art. 36 Brüssel-Ia-VO anerkannt.
+
+**A:** EPG-BerG „Belkin/Philips (Anbieten, Geschäftsführerhaftung, Anerkennung)“ – UPC_CoA_19/2025 (2025), EPG, UPC_CoA_19/2025
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Verletzung, Haftung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Onward/Niche (nicht eingetragene Anspruchsfassung, Verwendungsbestimmung)“ (UPC-COA-0000898/2025, 2026) – Kernaussage?
+
+**A:** Die Geltendmachung eines Patents in einer nicht eingetragenen (beschränkten) Anspruchsfassung ist auch im Verfahren auf einstweilige Maßnahmen nicht von vornherein ausgeschlossen; die Zulässigkeit hängt von den Umständen und dem summarischen Charakter ab. Neue Hilfsanträge in der Berufung richten sich nach [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf). Die Verwendungsbestimmung nach [Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) kann aus objektiven Umständen gefolgert werden, die den hinreichend sicheren Schluss zulassen, dass das Mittel vom Belieferten erfindungsgemäß verwendet werden soll.
+
+Normen: [Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 30 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000898/2025, EP3421081
+
+*Tags: Rechtsprechung, EPG-BerG, Verletzung, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Die Geltendmachung eines Patents in einer nicht eingetragenen (beschränkten) Anspruchsfassung ist auch im Verfahren auf einstweilige Maßnahmen nicht von vornherein ausgeschlossen; die Zulässigkeit hängt von den Umständen und dem summarischen Charakter ab. Neue Hilfsanträge in der Berufung richten sich nach [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf). Die Verwendungsbestimmung nach [Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) kann aus objektiven Umständen gefolgert werden, die den hinreichend sicheren Schluss zulassen, dass das Mittel vom Belieferten erfindungsgemäß verwendet werden soll.
+
+**A:** EPG-BerG „Onward/Niche (nicht eingetragene Anspruchsfassung, Verwendungsbestimmung)“ – UPC-COA-0000898/2025 (2026), EPG, UPC-COA-0000898/2025, EP3421081
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Verletzung, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen)“ (UPC_CoA_335/2023, 2024) – Kernaussage?
+
+**A:** Die Anforderungen der R. 206.2(b) bis (e) VerfO betreffen die Begründetheit des Antrags. Der Patentanspruch ist maßgebliche Grundlage des Schutzbereichs nach Art. 69 EPÜ; Beschreibung und Zeichnungen sind stets als Erläuterungshilfen heranzuziehen, nicht nur bei Unklarheiten; Auslegung aus Sicht der Fachperson, angemessener Schutz und Rechtssicherheit sind zu verbinden; dieselben Grundsätze gelten für Verletzung und Rechtsbestand. Hinreichende Sicherheit ([R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 62 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 Abs. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))) verlangt, dass das Gericht Berechtigung und Verletzung für überwiegend wahrscheinlich hält; sie fehlt, wenn es die Nichtigkeit für überwiegend wahrscheinlich hält. Darlegungs- und Beweislast für Berechtigung und Verletzung trägt der Antragsteller, für die Nichtigkeit der Antragsgegner.
+
+Normen: [Art. 62 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [R. 206 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_335/2023, EP4108782
+
+*Tags: Rechtsprechung, EPG-BerG, Auslegung, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Die Anforderungen der R. 206.2(b) bis (e) VerfO betreffen die Begründetheit des Antrags. Der Patentanspruch ist maßgebliche Grundlage des Schutzbereichs nach Art. 69 EPÜ; Beschreibung und Zeichnungen sind stets als Erläuterungshilfen heranzuziehen, nicht nur bei Unklarheiten; Auslegung aus Sicht der Fachperson, angemessener Schutz und Rechtssicherheit sind zu verbinden; dieselben Grundsätze gelten für Verletzung und Rechtsbestand. Hinreichende Sicherheit ([R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 62 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 Abs. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))) verlangt, dass das Gericht Berechtigung und Verletzung für überwiegend wahrscheinlich hält; sie fehlt, wenn es die Nichtigkeit für überwiegend wahrscheinlich hält. Darlegungs- und Beweislast für Berechtigung und Verletzung trägt der Antragsteller, für die Nichtigkeit der Antragsgegner.
+
+**A:** EPG-BerG „NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen)“ – UPC_CoA_335/2023 (2024), EPG, UPC_CoA_335/2023, EP4108782
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Auslegung, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Amgen/Regeneron (Unteransprüche, medizinische Verwendung, Ausführbarkeit)“ (UPC_CoA_529/2024, 2025) – Kernaussage?
+
+**A:** Ob aus einem Unteranspruch Rückschlüsse für die Auslegung des Hauptanspruchs zu ziehen sind, hängt vom Einzelfall ab; fügt der Unteranspruch nur ein zusätzliches Merkmal hinzu, spricht das dagegen. Bei Ansprüchen im Format der medizinischen Verwendung ist die objektive Eignung für die therapeutische Wirkung inhärentes Merkmal. Unzulässige Erweiterung ist Rechtsfrage auf Basis der vorgetragenen Tatsachen; das Gericht darf die gesamte Anmeldung heranziehen. Ausführbarkeit: Die Fachperson muss den Gegenstand ohne erfinderisches Zutun und ohne unzumutbaren Aufwand nacharbeiten können; ein Weg genügt.
+
+Normen: [Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Fundstelle: EPG, UPC_CoA_529/2024
+
+*Tags: Rechtsprechung, EPG-BerG, Auslegung, Rechtsbestand*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Ob aus einem Unteranspruch Rückschlüsse für die Auslegung des Hauptanspruchs zu ziehen sind, hängt vom Einzelfall ab; fügt der Unteranspruch nur ein zusätzliches Merkmal hinzu, spricht das dagegen. Bei Ansprüchen im Format der medizinischen Verwendung ist die objektive Eignung für die therapeutische Wirkung inhärentes Merkmal. Unzulässige Erweiterung ist Rechtsfrage auf Basis der vorgetragenen Tatsachen; das Gericht darf die gesamte Anmeldung heranziehen. Ausführbarkeit: Die Fachperson muss den Gegenstand ohne erfinderisches Zutun und ohne unzumutbaren Aufwand nacharbeiten können; ein Weg genügt.
+
+**A:** EPG-BerG „Amgen/Regeneron (Unteransprüche, medizinische Verwendung, Ausführbarkeit)“ – UPC_CoA_529/2024 (2025), EPG, UPC_CoA_529/2024
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Auslegung, Rechtsbestand*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „expert/Seoul Viosys (unzulässige Erweiterung, Teilanmeldung)“ (UPC_CoA_764/2024, 2025) – Kernaussage?
+
+**A:** Unzulässige Erweiterung liegt vor, wenn der Gegenstand des erteilten Anspruchs über den Inhalt der ursprünglichen Anmeldung hinausgeht; maßgeblich ist, was die Fachperson objektiv am Anmeldetag mit ihrem Fachwissen unmittelbar und eindeutig der Gesamtheit der Anmeldung entnimmt, einschließlich implizit Offenbartem. Bei Patenten aus Teilanmeldungen gilt dies gegenüber jeder früheren Anmeldung, also auch gegenüber der PCT-Stammanmeldung.
+
+Normen: [Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Fundstelle: EPG, UPC_CoA_764/2024, EP3926698
+
+*Tags: Rechtsprechung, EPG-BerG, Rechtsbestand*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Unzulässige Erweiterung liegt vor, wenn der Gegenstand des erteilten Anspruchs über den Inhalt der ursprünglichen Anmeldung hinausgeht; maßgeblich ist, was die Fachperson objektiv am Anmeldetag mit ihrem Fachwissen unmittelbar und eindeutig der Gesamtheit der Anmeldung entnimmt, einschließlich implizit Offenbartem. Bei Patenten aus Teilanmeldungen gilt dies gegenüber jeder früheren Anmeldung, also auch gegenüber der PCT-Stammanmeldung.
+
+**A:** EPG-BerG „expert/Seoul Viosys (unzulässige Erweiterung, Teilanmeldung)“ – UPC_CoA_764/2024 (2025), EPG, UPC_CoA_764/2024, EP3926698
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Rechtsbestand*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Abbott/Sinocare (nichttechnische Merkmale, Anschlussberufung)“ (UPC-COA-0000901/2025, 2026) – Kernaussage?
+
+**A:** Ein Anspruchsmerkmal ist bei der erfinderischen Tätigkeit nicht schon deshalb auszuklammern, weil es für sich genommen nichttechnisch wäre (Art. 52 Abs. 2 EPÜ); es kann durch Zusammenwirken mit den übrigen Merkmalen zum technischen Charakter beitragen, weshalb die Merkmale gemeinsam zu würdigen sind. Berufung und Anschlussberufung (R. 220.1, [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) setzen Beschwer voraus; eine Anschlussberufung nur zur Änderung der Begründung ist unzulässig.
+
+Normen: [Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000901/2025, EP3988471
+
+*Tags: Rechtsprechung, EPG-BerG, Rechtsbestand, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Ein Anspruchsmerkmal ist bei der erfinderischen Tätigkeit nicht schon deshalb auszuklammern, weil es für sich genommen nichttechnisch wäre (Art. 52 Abs. 2 EPÜ); es kann durch Zusammenwirken mit den übrigen Merkmalen zum technischen Charakter beitragen, weshalb die Merkmale gemeinsam zu würdigen sind. Berufung und Anschlussberufung (R. 220.1, [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) setzen Beschwer voraus; eine Anschlussberufung nur zur Änderung der Begründung ist unzulässig.
+
+**A:** EPG-BerG „Abbott/Sinocare (nichttechnische Merkmale, Anschlussberufung)“ – UPC-COA-0000901/2025 (2026), EPG, UPC-COA-0000901/2025, EP3988471
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Rechtsbestand, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG ZK Paris „Meril/Edwards (ZK Paris: Prüfung der erfinderischen Tätigkeit)“ (UPC_CFI_189/2024, 2025) – Kernaussage?
+
+**A:** Die Prüfung der erfinderischen Tätigkeit verlangt erstens die Bestimmung der objektiven Aufgabe im Lichte der Patentschrift, zweitens die Bestimmung des Standes der Technik, der durch einen oder mehrere realistische Ausgangspunkte repräsentiert wird (Sache der Parteien), und drittens die Frage, ob es für die Fachperson naheliegend war, zur beanspruchten Lösung zu gelangen; dabei ist die Erfindung als Ganzes zu betrachten.
+
+Normen: [Art. 65 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 44 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_189/2024, EP4151181
+
+*Tags: Rechtsprechung, EPG ZK Paris, Rechtsbestand*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG ZK Paris) steht für folgenden Grundsatz?
+
+Die Prüfung der erfinderischen Tätigkeit verlangt erstens die Bestimmung der objektiven Aufgabe im Lichte der Patentschrift, zweitens die Bestimmung des Standes der Technik, der durch einen oder mehrere realistische Ausgangspunkte repräsentiert wird (Sache der Parteien), und drittens die Frage, ob es für die Fachperson naheliegend war, zur beanspruchten Lösung zu gelangen; dabei ist die Erfindung als Ganzes zu betrachten.
+
+**A:** EPG ZK Paris „Meril/Edwards (ZK Paris: Prüfung der erfinderischen Tätigkeit)“ – UPC_CFI_189/2024 (2025), EPG, UPC_CFI_189/2024, EP4151181
+
+*Tags: Rechtsprechung, Umkehr, EPG ZK Paris, Rechtsbestand*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Fujifilm/Kodak (Substantiierung der Nichtigkeitsklage, Unteransprüche, Pointer)“ (UPC-CoA-473/2025, 2026) – Kernaussage?
+
+**A:** Der Nichtigkeitskläger muss angeben, in welchem Umfang er die Nichtigerklärung begehrt, und dies für jeden angegriffenen Anspruch substantiieren (R. 25.1(a)-(d) VerfO). Der Patentinhaber muss nach [R. 29A(c) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) hinreichend substantiiert angeben, welche Unteransprüche oder Kombinationen er für rechtsbeständig hält, in angemessener Zahl; ein Hilfsantrag nach R. 30 ist dafür nicht nötig, sondern nur, wenn der Anspruchswortlaut geändert werden soll. Ohne Anregung zur Kombination eines Ausgangspunkts mit einer weiteren Schrift lässt sich die Motivation nicht aus deren Inhalt herleiten.
+
+Normen: [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 29A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 30 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-CoA-473/2025, EP3476616
+
+*Tags: Rechtsprechung, EPG-BerG, Rechtsbestand, Nichtigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Nichtigkeitskläger muss angeben, in welchem Umfang er die Nichtigerklärung begehrt, und dies für jeden angegriffenen Anspruch substantiieren (R. 25.1(a)-(d) VerfO). Der Patentinhaber muss nach [R. 29A(c) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) hinreichend substantiiert angeben, welche Unteransprüche oder Kombinationen er für rechtsbeständig hält, in angemessener Zahl; ein Hilfsantrag nach R. 30 ist dafür nicht nötig, sondern nur, wenn der Anspruchswortlaut geändert werden soll. Ohne Anregung zur Kombination eines Ausgangspunkts mit einer weiteren Schrift lässt sich die Motivation nicht aus deren Inhalt herleiten.
+
+**A:** EPG-BerG „Fujifilm/Kodak (Substantiierung der Nichtigkeitsklage, Unteransprüche, Pointer)“ – UPC-CoA-473/2025 (2026), EPG, UPC-CoA-473/2025, EP3476616
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Rechtsbestand, Nichtigkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe)“ (UPC_CoA_71/2025, 2025) – Kernaussage?
+
+**A:** Auf einen Antrag auf Änderung des Patents folgt die Erwiderung nach [R. 43.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), die Ausführungen nach R. 44(d)-(h) und hilfsweise Nichtverletzungsargumente enthalten kann. Sie eröffnet dem Kläger aber nicht die Möglichkeit, neue Nichtigkeitsgründe oder neue Entgegenhaltungen gegen das Patent in erteilter Fassung einzuführen, es sei denn, eine Klageänderung wird zugelassen ([R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Im front-loaded-Verfahren sind neue Argumente nur nach den Umständen zuzulassen; Fairness kann neue Beweise zum allgemeinen Fachwissen als Reaktion auf die Klageerwiderung erlauben.
+
+Normen: [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 32 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 43 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 44 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_71/2025, EP3456214
+
+*Tags: Rechtsprechung, EPG-BerG, Nichtigkeit, Verfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Auf einen Antrag auf Änderung des Patents folgt die Erwiderung nach [R. 43.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), die Ausführungen nach R. 44(d)-(h) und hilfsweise Nichtverletzungsargumente enthalten kann. Sie eröffnet dem Kläger aber nicht die Möglichkeit, neue Nichtigkeitsgründe oder neue Entgegenhaltungen gegen das Patent in erteilter Fassung einzuführen, es sei denn, eine Klageänderung wird zugelassen ([R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Im front-loaded-Verfahren sind neue Argumente nur nach den Umständen zuzulassen; Fairness kann neue Beweise zum allgemeinen Fachwissen als Reaktion auf die Klageerwiderung erlauben.
+
+**A:** EPG-BerG „VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe)“ – UPC_CoA_71/2025 (2025), EPG, UPC_CoA_71/2025, EP3456214
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Nichtigkeit, Verfahren*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Emboline/AorticLab (bedingte Widerklage, bedingte Berufung)“ (UPC-COA-0000040/2026, 2026) – Kernaussage?
+
+**A:** Eine Widerklage auf Nichtigerklärung darf unter die Bedingung einer Verletzungsfeststellung gestellt werden. Legt der Verletzungskläger gegen die Abweisung Berufung ein, kann der Widerkläger die Entscheidung, die Widerklage nicht zu bescheiden, anfechten; er kann die Berufung unter der Bedingung einlegen, dass der Kläger Berufung einlegt, und die Gebühr wird erst dann fällig. In der Berufung bleibt die Widerklage bedingt, sofern nicht die Bedingung nach R. 263 analog und [R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) fallengelassen wird; stellt das Berufungsgericht die Verletzung fest, entscheidet es die Widerklage in der Regel selbst ([Art. 75 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 242.2(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 242 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000040/2026, EP2129425
+
+*Tags: Rechtsprechung, EPG-BerG, Widerklage, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Eine Widerklage auf Nichtigerklärung darf unter die Bedingung einer Verletzungsfeststellung gestellt werden. Legt der Verletzungskläger gegen die Abweisung Berufung ein, kann der Widerkläger die Entscheidung, die Widerklage nicht zu bescheiden, anfechten; er kann die Berufung unter der Bedingung einlegen, dass der Kläger Berufung einlegt, und die Gebühr wird erst dann fällig. In der Berufung bleibt die Widerklage bedingt, sofern nicht die Bedingung nach R. 263 analog und [R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) fallengelassen wird; stellt das Berufungsgericht die Verletzung fest, entscheidet es die Widerklage in der Regel selbst ([Art. 75 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 242.2(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** EPG-BerG „Emboline/AorticLab (bedingte Widerklage, bedingte Berufung)“ – UPC-COA-0000040/2026 (2026), EPG, UPC-COA-0000040/2026, EP2129425
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Widerklage, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „AorticLab/Emboline (Verletzungsklage und Widerklage als getrennte Klagen)“ (UPC-COA-0000123/2026, 2026) – Kernaussage?
+
+**A:** Verletzungsklage und Widerklage auf Nichtigerklärung sind nach EPGÜ und VerfO getrennte Klagen; die Bedingung einer Verletzungsfeststellung ist eine „inter-prozedurale“ Bedingung, die eine gesonderte Berufung (statt Anschlussberufung) erfordert. Die Bedingung lässt die Anhängigkeit der Widerklage unberührt; [R. 263.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gilt analog. „Das Gericht“ als Bezugspunkt der Bedingung meint ohne gegenteilige Angabe beide Instanzen. „Failed to decide“ in [R. 242.2(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) erfasst jede Situation, in der etwas Entscheidungserhebliches nicht entschieden wurde.
+
+Normen: [Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 242 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000123/2026, EP2129425
+
+*Tags: Rechtsprechung, EPG-BerG, Widerklage, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Verletzungsklage und Widerklage auf Nichtigerklärung sind nach EPGÜ und VerfO getrennte Klagen; die Bedingung einer Verletzungsfeststellung ist eine „inter-prozedurale“ Bedingung, die eine gesonderte Berufung (statt Anschlussberufung) erfordert. Die Bedingung lässt die Anhängigkeit der Widerklage unberührt; [R. 263.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gilt analog. „Das Gericht“ als Bezugspunkt der Bedingung meint ohne gegenteilige Angabe beide Instanzen. „Failed to decide“ in [R. 242.2(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) erfasst jede Situation, in der etwas Entscheidungserhebliches nicht entschieden wurde.
+
+**A:** EPG-BerG „AorticLab/Emboline (Verletzungsklage und Widerklage als getrennte Klagen)“ – UPC-COA-0000123/2026 (2026), EPG, UPC-COA-0000123/2026, EP2129425
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Widerklage, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG LK Düsseldorf „Dolby/Beko (LK Düsseldorf: FRAND-Einwand, [Art. 102 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT))“ (UPC_CFI_135/2024, 2026) – Kernaussage?
+
+**A:** Eine marktbeherrschende Stellung nach [Art. 102 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT) kann sich daraus ergeben, dass ohne Lizenz am Streitpatent keine mit einem gängigen Standard kompatiblen Produkte (Smart-TVs) angeboten werden können; entscheidend ist die Verbrauchererwartung, dass alle gängigen Codecs unterstützt werden. Für das FRAND-Verhandlungsprogramm nach Huawei/ZTE schließt sich die Lokalkammer Düsseldorf den Lokalkammern Mannheim und München an: Der Unterlassungsanspruch ist nur gesperrt, wenn sich der Verletzer als lizenzwilliger Lizenzsucher verhält.
+
+Normen: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Fundstelle: EPG, UPC_CFI_135/2024, EP3605534
+
+*Tags: Rechtsprechung, EPG LK Düsseldorf, Verletzung, FRAND*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK Düsseldorf) steht für folgenden Grundsatz?
+
+Eine marktbeherrschende Stellung nach [Art. 102 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT) kann sich daraus ergeben, dass ohne Lizenz am Streitpatent keine mit einem gängigen Standard kompatiblen Produkte (Smart-TVs) angeboten werden können; entscheidend ist die Verbrauchererwartung, dass alle gängigen Codecs unterstützt werden. Für das FRAND-Verhandlungsprogramm nach Huawei/ZTE schließt sich die Lokalkammer Düsseldorf den Lokalkammern Mannheim und München an: Der Unterlassungsanspruch ist nur gesperrt, wenn sich der Verletzer als lizenzwilliger Lizenzsucher verhält.
+
+**A:** EPG LK Düsseldorf „Dolby/Beko (LK Düsseldorf: FRAND-Einwand, [Art. 102 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT))“ – UPC_CFI_135/2024 (2026), EPG, UPC_CFI_135/2024, EP3605534
+
+*Tags: Rechtsprechung, Umkehr, EPG LK Düsseldorf, Verletzung, FRAND*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Biolitec/Lightguide (Notwendigkeit einstweiliger Maßnahmen)“ (UPC_CoA_540/2024, 2025) – Kernaussage?
+
+**A:** Einstweilige Maßnahmen kommen in Betracht, wenn nach der Art der Sache die Hauptsache nicht abgewartet werden kann; kann sie abgewartet werden, sind sie nicht notwendig, weil das Hauptsacheverfahren mehr Verfahrensgarantien bietet. In der Interessenabwägung berücksichtigt das Gericht neben den Schäden auch den Zeitfaktor. Sollen Maßnahmen einen Marktzustand ändern, der sich Jahre vor der Patenterteilung etabliert hat, muss der Antragsteller darlegen, warum sie zum Schutz seiner Marktanteile oder Preise nicht bis zur Hauptsache warten können.
+
+Normen: [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 206 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 211 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_540/2024, EP3685783
+
+*Tags: Rechtsprechung, EPG-BerG, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Einstweilige Maßnahmen kommen in Betracht, wenn nach der Art der Sache die Hauptsache nicht abgewartet werden kann; kann sie abgewartet werden, sind sie nicht notwendig, weil das Hauptsacheverfahren mehr Verfahrensgarantien bietet. In der Interessenabwägung berücksichtigt das Gericht neben den Schäden auch den Zeitfaktor. Sollen Maßnahmen einen Marktzustand ändern, der sich Jahre vor der Patenterteilung etabliert hat, muss der Antragsteller darlegen, warum sie zum Schutz seiner Marktanteile oder Preise nicht bis zur Hauptsache warten können.
+
+**A:** EPG-BerG „Biolitec/Lightguide (Notwendigkeit einstweiliger Maßnahmen)“ – UPC_CoA_540/2024 (2025), EPG, UPC_CoA_540/2024, EP3685783
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung
+
+**F:** EPG LK München „Nokia/Sunmi (LK München: drohende Verletzung, Anti-Suit-Injunction)“ (UPC_CFI_112/2025, 2025) – Kernaussage?
+
+**A:** Eine Verletzung droht im Sinne von [Art. 62 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), wenn sie noch nicht eingetreten ist, aber aufgrund konkreter Umstände ernsthafte und greifbare Anhaltspunkte dafür bestehen, dass sich der Antragsgegner in naher Zukunft rechtswidrig verhalten wird; die Verletzungshandlung muss sich konkret abzeichnen und nur noch vom Willen des Antragsgegners abhängen. Gegen eine drohende Anti-Suit-Injunction kann das EPG einstweilige Maßnahmen erlassen.
+
+Normen: [Art. 62 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 206 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_112/2025, EP2243229
+
+*Tags: Rechtsprechung, EPG LK München, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK München) steht für folgenden Grundsatz?
+
+Eine Verletzung droht im Sinne von [Art. 62 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), wenn sie noch nicht eingetreten ist, aber aufgrund konkreter Umstände ernsthafte und greifbare Anhaltspunkte dafür bestehen, dass sich der Antragsgegner in naher Zukunft rechtswidrig verhalten wird; die Verletzungshandlung muss sich konkret abzeichnen und nur noch vom Willen des Antragsgegners abhängen. Gegen eine drohende Anti-Suit-Injunction kann das EPG einstweilige Maßnahmen erlassen.
+
+**A:** EPG LK München „Nokia/Sunmi (LK München: drohende Verletzung, Anti-Suit-Injunction)“ – UPC_CFI_112/2025 (2025), EPG, UPC_CFI_112/2025, EP2243229
+
+*Tags: Rechtsprechung, Umkehr, EPG LK München, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Dyson/Dreame (Auslegung, Reichweite der Unterlassungsanordnung)“ (UPC_CoA_789/2025, 2026) – Kernaussage?
+
+**A:** Bei der Auslegung eines Merkmals zu einem Bauteil ist dessen Funktion zu berücksichtigen, ebenso aber die vom Patent gelehrte körperliche und räumliche Anordnung. Eine Beschränkung der Unterlassungsanordnung auf die konkret begangenen Verletzungshandlungen lässt sich aus Art. 62 Abs. 1 und [Art. 25 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) nicht herleiten; wer verletzt hat, begründet in der Regel die Gefahr weiterer Verletzungen auch durch andere, bisher nicht begangene Benutzungshandlungen.
+
+Normen: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Fundstelle: EPG, UPC_CoA_789/2025, EP3119235
+
+*Tags: Rechtsprechung, EPG-BerG, Auslegung, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Bei der Auslegung eines Merkmals zu einem Bauteil ist dessen Funktion zu berücksichtigen, ebenso aber die vom Patent gelehrte körperliche und räumliche Anordnung. Eine Beschränkung der Unterlassungsanordnung auf die konkret begangenen Verletzungshandlungen lässt sich aus Art. 62 Abs. 1 und [Art. 25 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) nicht herleiten; wer verletzt hat, begründet in der Regel die Gefahr weiterer Verletzungen auch durch andere, bisher nicht begangene Benutzungshandlungen.
+
+**A:** EPG-BerG „Dyson/Dreame (Auslegung, Reichweite der Unterlassungsanordnung)“ – UPC_CoA_789/2025 (2026), EPG, UPC_CoA_789/2025, EP3119235
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Auslegung, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Merz/Viatris (Verzicht auf den Nichtigkeitseinwand im Eilverfahren)“ (UPC-COA-0000917/2025, 2026) – Kernaussage?
+
+**A:** Anders als in der Hauptsache, wo die Nichtigkeit als Widerklage geltend zu machen ist ([R. 25.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), ist der Nichtigkeitseinwand im Verfahren auf einstweilige Maßnahmen keine eigene Klage; sein Verzicht ist weder Klageänderung (R. 263) noch Rücknahme (R. 265). Nach [Art. 76 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) bestimmen die Parteien Gründe, Tatsachen und Beweise; erklärt eine Partei, sich auf Vorbringen nicht mehr zu stützen, entscheidet das Gericht auf der verbleibenden Grundlage und kann die dadurch verursachten Kosten der verzichtenden Partei auferlegen.
+
+Normen: [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 76 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000917/2025, EP2377536
+
+*Tags: Rechtsprechung, EPG-BerG, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Anders als in der Hauptsache, wo die Nichtigkeit als Widerklage geltend zu machen ist ([R. 25.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), ist der Nichtigkeitseinwand im Verfahren auf einstweilige Maßnahmen keine eigene Klage; sein Verzicht ist weder Klageänderung (R. 263) noch Rücknahme (R. 265). Nach [Art. 76 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) bestimmen die Parteien Gründe, Tatsachen und Beweise; erklärt eine Partei, sich auf Vorbringen nicht mehr zu stützen, entscheidet das Gericht auf der verbleibenden Grundlage und kann die dadurch verursachten Kosten der verzichtenden Partei auferlegen.
+
+**A:** EPG-BerG „Merz/Viatris (Verzicht auf den Nichtigkeitseinwand im Eilverfahren)“ – UPC-COA-0000917/2025 (2026), EPG, UPC-COA-0000917/2025, EP2377536
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Einstweilige Maßnahmen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Centripetal/Palo Alto (Maßstab der Beweissicherung)“ (UPC_CoA_239/2025, 2025) – Kernaussage?
+
+**A:** Im summarischen Verfahren darf das Beweismaß weder zu hoch noch zu niedrig angesetzt werden. Der Zweck der Beweissicherung unterscheidet sich von der Hauptsache: Das Erfordernis „vernünftigerweise verfügbarer Beweismittel“ nach [Art. 60 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist eine niedrigere Hürde als die Beweislast des Verletzungsklägers, insbesondere für Aspekte, zu denen dem Antragsteller keine Beweise zugänglich sind. Bloße Spekulation genügt nicht; um „fishing expeditions“ zu verhindern, muss die Verletzung plausibel sein, besonders bei Ex-parte-Anordnungen. Besichtigungen greifen in Art. 7 GRCh ein und verlangen wirksame Schutzvorkehrungen.
+
+Normen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [R. 192 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 194 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 197 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_239/2025
+
+*Tags: Rechtsprechung, EPG-BerG, Beweissicherung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Im summarischen Verfahren darf das Beweismaß weder zu hoch noch zu niedrig angesetzt werden. Der Zweck der Beweissicherung unterscheidet sich von der Hauptsache: Das Erfordernis „vernünftigerweise verfügbarer Beweismittel“ nach [Art. 60 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist eine niedrigere Hürde als die Beweislast des Verletzungsklägers, insbesondere für Aspekte, zu denen dem Antragsteller keine Beweise zugänglich sind. Bloße Spekulation genügt nicht; um „fishing expeditions“ zu verhindern, muss die Verletzung plausibel sein, besonders bei Ex-parte-Anordnungen. Besichtigungen greifen in Art. 7 GRCh ein und verlangen wirksame Schutzvorkehrungen.
+
+**A:** EPG-BerG „Centripetal/Palo Alto (Maßstab der Beweissicherung)“ – UPC_CoA_239/2025 (2025), EPG, UPC_CoA_239/2025
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Beweissicherung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Ecovacs/Roborock (Offenlegungspflicht bei Ex-parte-Besichtigung)“ (UPC-COA-0000003/2026, 2026) – Kernaussage?
+
+**A:** Beweissicherung ohne Anhörung des Gegners wirft Fragen des fairen Verfahrens auf. Der Antragsteller muss alle ihm bekannten wesentlichen Tatsachen offenlegen, die die Entscheidung über eine Ex-parte-Anordnung beeinflussen könnten, einschließlich solcher zur Verhältnismäßigkeit ([R. 192.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), gesteigerte Pflicht neben [R. 284 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Auslassungen und verzerrte Darstellungen wesentlicher Tatsachen können nicht durch späteren Vortrag im Überprüfungsverfahren kompensiert werden.
+
+Normen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 192.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 197 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 284 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000003/2026, EP3808512
+
+*Tags: Rechtsprechung, EPG-BerG, Beweissicherung, Ex parte*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Beweissicherung ohne Anhörung des Gegners wirft Fragen des fairen Verfahrens auf. Der Antragsteller muss alle ihm bekannten wesentlichen Tatsachen offenlegen, die die Entscheidung über eine Ex-parte-Anordnung beeinflussen könnten, einschließlich solcher zur Verhältnismäßigkeit ([R. 192.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), gesteigerte Pflicht neben [R. 284 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Auslassungen und verzerrte Darstellungen wesentlicher Tatsachen können nicht durch späteren Vortrag im Überprüfungsverfahren kompensiert werden.
+
+**A:** EPG-BerG „Ecovacs/Roborock (Offenlegungspflicht bei Ex-parte-Besichtigung)“ – UPC-COA-0000003/2026 (2026), EPG, UPC-COA-0000003/2026, EP3808512
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Beweissicherung, Ex parte*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Ericsson/ASUS (Vertraulichkeitskreis, Mitarbeiter)“ (UPC_CoA_631/2025, 2026) – Kernaussage?
+
+**A:** Bei Maßnahmen zum Schutz vertraulicher Informationen sind das Recht auf wirksamen Rechtsbehelf und faires Verfahren, die berechtigten Interessen der Parteien und Dritter sowie mögliche Schäden abzuwägen. Eine juristische Person darf natürliche Personen für den Zugangskreis vorschlagen; über den Zugang entscheiden Rolle, Relevanz der Information und Vertrauenswürdigkeit. Die Mitarbeitereigenschaft allein rechtfertigt keinen Ausschluss; in der Regel überwiegt das Interesse der Partei, dass mindestens ein Mitarbeiter vollen Zugang hat, auch wenn „external eyes only“ dem Geheimnisschutz besser diente.
+
+Normen: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_631/2025, EP2727342
+
+*Tags: Rechtsprechung, EPG-BerG, Vertraulichkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Bei Maßnahmen zum Schutz vertraulicher Informationen sind das Recht auf wirksamen Rechtsbehelf und faires Verfahren, die berechtigten Interessen der Parteien und Dritter sowie mögliche Schäden abzuwägen. Eine juristische Person darf natürliche Personen für den Zugangskreis vorschlagen; über den Zugang entscheiden Rolle, Relevanz der Information und Vertrauenswürdigkeit. Die Mitarbeitereigenschaft allein rechtfertigt keinen Ausschluss; in der Regel überwiegt das Interesse der Partei, dass mindestens ein Mitarbeiter vollen Zugang hat, auch wenn „external eyes only“ dem Geheimnisschutz besser diente.
+
+**A:** EPG-BerG „Ericsson/ASUS (Vertraulichkeitskreis, Mitarbeiter)“ – UPC_CoA_631/2025 (2026), EPG, UPC_CoA_631/2025, EP2727342
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Vertraulichkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Curio/10x Genomics (Fortgeltung der R.-262A-Anordnung)“ (UPC_CoA_101/2024, 2024) – Kernaussage?
+
+**A:** Eine nicht mit der Berufung angegriffene Anordnung nach [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), die den Zugang zu Informationen oder Beweismitteln auf bestimmte Personen beschränkt, gilt, soweit nichts anderes bestimmt ist, nach Abschluss des Verfahrens und damit auch während des Berufungsverfahrens fort.
+
+Normen: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_101/2024, EP2697391
+
+*Tags: Rechtsprechung, EPG-BerG, Vertraulichkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Eine nicht mit der Berufung angegriffene Anordnung nach [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), die den Zugang zu Informationen oder Beweismitteln auf bestimmte Personen beschränkt, gilt, soweit nichts anderes bestimmt ist, nach Abschluss des Verfahrens und damit auch während des Berufungsverfahrens fort.
+
+**A:** EPG-BerG „Curio/10x Genomics (Fortgeltung der R.-262A-Anordnung)“ – UPC_CoA_101/2024 (2024), EPG, UPC_CoA_101/2024, EP2697391
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Vertraulichkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „EOFlow/Insulet (Verlust des Geheimnisschutzes)“ (UPC-COA-0000930/2025, 2026) – Kernaussage?
+
+**A:** Geschäftsgeheimnisse und andere vertrauliche Informationen verlieren ihren Charakter, wenn sie der Gegenpartei ohne Anordnung nach [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) oder ohne sonstige Beschränkung (Vereinbarung, Verpflichtungserklärung) offengelegt werden. Ein Antrag nach [R. 262.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) schützt nur gegenüber der Öffentlichkeit und nicht automatisch vor der Weitergabe durch die Gegenpartei.
+
+Normen: [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000930/2025, EP4201327
+
+*Tags: Rechtsprechung, EPG-BerG, Vertraulichkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Geschäftsgeheimnisse und andere vertrauliche Informationen verlieren ihren Charakter, wenn sie der Gegenpartei ohne Anordnung nach [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) oder ohne sonstige Beschränkung (Vereinbarung, Verpflichtungserklärung) offengelegt werden. Ein Antrag nach [R. 262.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) schützt nur gegenüber der Öffentlichkeit und nicht automatisch vor der Weitergabe durch die Gegenpartei.
+
+**A:** EPG-BerG „EOFlow/Insulet (Verlust des Geheimnisschutzes)“ – UPC-COA-0000930/2025 (2026), EPG, UPC-COA-0000930/2025, EP4201327
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Vertraulichkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG LK Düsseldorf „Fujifilm/Kodak (LK Düsseldorf: Substantiierung des Geheimnisschutzes)“ (UPC_CFI_355/2023, 2024) – Kernaussage?
+
+**A:** Bei einem Antrag auf Schutz vertraulicher Informationen wägt das Gericht das Recht der Partei auf uneingeschränkten Aktenzugang (rechtliches Gehör) gegen das Geheimhaltungsinteresse ab. Der Antragsteller muss zunächst hinreichend substantiiert darlegen, warum die Information schutzwürdig ist; allgemeine Umstände wie das Wettbewerbsverhältnis genügen nicht.
+
+Normen: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CFI_355/2023, EP3594009
+
+*Tags: Rechtsprechung, EPG LK Düsseldorf, Vertraulichkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG LK Düsseldorf) steht für folgenden Grundsatz?
+
+Bei einem Antrag auf Schutz vertraulicher Informationen wägt das Gericht das Recht der Partei auf uneingeschränkten Aktenzugang (rechtliches Gehör) gegen das Geheimhaltungsinteresse ab. Der Antragsteller muss zunächst hinreichend substantiiert darlegen, warum die Information schutzwürdig ist; allgemeine Umstände wie das Wettbewerbsverhältnis genügen nicht.
+
+**A:** EPG LK Düsseldorf „Fujifilm/Kodak (LK Düsseldorf: Substantiierung des Geheimnisschutzes)“ – UPC_CFI_355/2023 (2024), EPG, UPC_CFI_355/2023, EP3594009
+
+*Tags: Rechtsprechung, Umkehr, EPG LK Düsseldorf, Vertraulichkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Gowling/Boehringer (Akteneinsicht Dritter je Instanz)“ (UPC-COA-0000009/2026, 2026) – Kernaussage?
+
+**A:** Begründete Anträge Dritter auf Zugang zu Schriftsätzen und Beweismitteln ([R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) sind bei der Kammer zu stellen, bei der die Dokumente eingereicht wurden; für Dokumente des Berufungsverfahrens beim Berufungsgericht. Der Berichterstatter der jeweiligen Instanz kennt die Akte. Das Berufungsgericht zieht die erstinstanzliche Akte nach [R. 222.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) bei, ohne Kopien zu erzeugen; ein erneutes Einreichen erstinstanzlicher Dokumente in der Berufung ist normalerweise nicht geboten.
+
+Normen: [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 222.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 262.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000009/2026, EP1830843
+
+*Tags: Rechtsprechung, EPG-BerG, Akteneinsicht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Begründete Anträge Dritter auf Zugang zu Schriftsätzen und Beweismitteln ([R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) sind bei der Kammer zu stellen, bei der die Dokumente eingereicht wurden; für Dokumente des Berufungsverfahrens beim Berufungsgericht. Der Berichterstatter der jeweiligen Instanz kennt die Akte. Das Berufungsgericht zieht die erstinstanzliche Akte nach [R. 222.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) bei, ohne Kopien zu erzeugen; ein erneutes Einreichen erstinstanzlicher Dokumente in der Berufung ist normalerweise nicht geboten.
+
+**A:** EPG-BerG „Gowling/Boehringer (Akteneinsicht Dritter je Instanz)“ – UPC-COA-0000009/2026 (2026), EPG, UPC-COA-0000009/2026, EP1830843
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Akteneinsicht*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Kodak/Fujifilm (System der Zwangsgelder)“ (UPC_CoA_699/2025, 2025) – Kernaussage?
+
+**A:** Nach [R. 354.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) kann eine Anordnung die Androhung eines Zwangsgelds enthalten; sie kann auch später gesondert ergehen und an eine frühere Anordnung anknüpfen, ohne dass es einer Berufung gegen die Hauptentscheidung bedarf. Die Höhe legt das Gericht nach der Bedeutung der Anordnung fest: abschreckend, aber verhältnismäßig; die Androhung muss bestimmen, bei welchem Ereignis welcher Betrag verfällt (Pauschale oder je Zeitraum, Stück, Handlung), ggf. mit Höchstbetrag, der später erhöht werden kann.
+
+Normen: [Art. 63 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_699/2025
+
+*Tags: Rechtsprechung, EPG-BerG, Vollstreckung, Zwangsgeld*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Nach [R. 354.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) kann eine Anordnung die Androhung eines Zwangsgelds enthalten; sie kann auch später gesondert ergehen und an eine frühere Anordnung anknüpfen, ohne dass es einer Berufung gegen die Hauptentscheidung bedarf. Die Höhe legt das Gericht nach der Bedeutung der Anordnung fest: abschreckend, aber verhältnismäßig; die Androhung muss bestimmen, bei welchem Ereignis welcher Betrag verfällt (Pauschale oder je Zeitraum, Stück, Handlung), ggf. mit Höchstbetrag, der später erhöht werden kann.
+
+**A:** EPG-BerG „Kodak/Fujifilm (System der Zwangsgelder)“ – UPC_CoA_699/2025 (2025), EPG, UPC_CoA_699/2025
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Vollstreckung, Zwangsgeld*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung)“ (UPC_CoA_930/2025, 2026) – Kernaussage?
+
+**A:** Anordnungen zur Festsetzung eines Zwangsgelds ([Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) sind keine Anordnungen nach [Art. 73 Abs. 2 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) oder [R. 220.1(c) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf). Die Berufung ist nur zulässig, wenn das Gericht erster Instanz sie zulässt oder das Berufungsgericht sie nach Ermessensüberprüfung gemäß [R. 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) zulässt.
+
+Normen: [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 220.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_930/2025, EP4201327
+
+*Tags: Rechtsprechung, EPG-BerG, Zwangsgeld, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Anordnungen zur Festsetzung eines Zwangsgelds ([Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) sind keine Anordnungen nach [Art. 73 Abs. 2 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) oder [R. 220.1(c) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf). Die Berufung ist nur zulässig, wenn das Gericht erster Instanz sie zulässt oder das Berufungsgericht sie nach Ermessensüberprüfung gemäß [R. 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) zulässt.
+
+**A:** EPG-BerG „EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung)“ – UPC_CoA_930/2025 (2026), EPG, UPC_CoA_930/2025, EP4201327
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zwangsgeld, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung)“ (UPC-COA-0000028/2026, 2026) – Kernaussage?
+
+**A:** Die Aufhebung einer erstinstanzlichen Unterlassungsanordnung nach [Art. 75 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 242.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) wirkt in der Regel zurück; die Anordnung gilt als nie wirksam gewesen, so dass Zwangsgeldfestsetzungen auch für Verstöße vor der Aufhebung ihre Grundlage verlieren. Der Streitwert bestimmt sich nach [R. 370.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) nach dem Interesse der Partei, die das Verfahren eingeleitet hat; verfallene Zwangsgelder sind kein Maßstab, weil sie an das Gericht fließen. Vollstreckungskosten können nicht auf Grundlage einer als nie wirksam geltenden Entscheidung zugewiesen werden.
+
+Normen: [Art. 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 242 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 370.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000028/2026, EP3511174
+
+*Tags: Rechtsprechung, EPG-BerG, Vollstreckung, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Die Aufhebung einer erstinstanzlichen Unterlassungsanordnung nach [Art. 75 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 242.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) wirkt in der Regel zurück; die Anordnung gilt als nie wirksam gewesen, so dass Zwangsgeldfestsetzungen auch für Verstöße vor der Aufhebung ihre Grundlage verlieren. Der Streitwert bestimmt sich nach [R. 370.6 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) nach dem Interesse der Partei, die das Verfahren eingeleitet hat; verfallene Zwangsgelder sind kein Maßstab, weil sie an das Gericht fließen. Vollstreckungskosten können nicht auf Grundlage einer als nie wirksam geltenden Entscheidung zugewiesen werden.
+
+**A:** EPG-BerG „Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung)“ – UPC-COA-0000028/2026 (2026), EPG, UPC-COA-0000028/2026, EP3511174
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Vollstreckung, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking)“ (UPC-COA-0000087/2026, 2026) – Kernaussage?
+
+**A:** Der Adressat einer Unterlassungsanordnung muss Dritte kontrollieren, denen er Aufgaben zur Umsetzung überträgt; nutzt er eine Verkaufsplattform und liefert Inhalte, muss er sicherstellen, dass deren Inhalte nicht gegen die Anordnung verstoßen. Geoblocking der Kaufoption genügt nicht, wenn Anbieten und Inverkehrbringen als selbständige Handlungen nach [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) verboten sind. Ein zutreffender Website-Disclaimer kann ausreichen, wenn kein Besucher den Inhalt vernünftigerweise als Angebot für die verbotenen Gebiete verstehen kann.
+
+Normen: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000087/2026, EP2387951
+
+*Tags: Rechtsprechung, EPG-BerG, Vollstreckung, Verletzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Adressat einer Unterlassungsanordnung muss Dritte kontrollieren, denen er Aufgaben zur Umsetzung überträgt; nutzt er eine Verkaufsplattform und liefert Inhalte, muss er sicherstellen, dass deren Inhalte nicht gegen die Anordnung verstoßen. Geoblocking der Kaufoption genügt nicht, wenn Anbieten und Inverkehrbringen als selbständige Handlungen nach [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) verboten sind. Ein zutreffender Website-Disclaimer kann ausreichen, wenn kein Besucher den Inhalt vernünftigerweise als Angebot für die verbotenen Gebiete verstehen kann.
+
+**A:** EPG-BerG „Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking)“ – UPC-COA-0000087/2026 (2026), EPG, UPC-COA-0000087/2026, EP2387951
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Vollstreckung, Verletzung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Belkin/Philips (Beginn der Berufungsfrist)“ (PR-UPC-COA-0000054/2026, 2026) – Kernaussage?
+
+**A:** Die Frist zur Einlegung der Berufung ([R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) beginnt erst zu laufen, wenn das Gericht erster Instanz eine Entscheidung mit Gründen erlässt (im Anschluss an Ballino/Kinexon, UPC_CoA_328/2024).
+
+Normen: [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, PR-UPC-COA-0000054/2026, EP2867997
+
+*Tags: Rechtsprechung, EPG-BerG, Berufung, Fristen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Die Frist zur Einlegung der Berufung ([R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) beginnt erst zu laufen, wenn das Gericht erster Instanz eine Entscheidung mit Gründen erlässt (im Anschluss an Ballino/Kinexon, UPC_CoA_328/2024).
+
+**A:** EPG-BerG „Belkin/Philips (Beginn der Berufungsfrist)“ – PR-UPC-COA-0000054/2026 (2026), EPG, PR-UPC-COA-0000054/2026, EP2867997
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Berufung, Fristen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Amycel (aufschiebende Wirkung: vollständiger Antrag)“ (UPC-COA-0000935/2025, 2026) – Kernaussage?
+
+**A:** Der Grundsatz, dass die Parteien ihren Fall so früh wie möglich vollständig vortragen (Präambel VerfO Nr. 7), gilt auch für Anträge auf aufschiebende Wirkung nach [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf): Der Antrag muss alle Gründe, Tatsachen, Beweise und Argumente enthalten. Ein späterer weiterer Antrag ist unzulässig, es sei denn, er stützt sich auf Vorbringen, das im ersten Antrag vernünftigerweise nicht möglich war.
+
+Normen: [Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-0000935/2025, EP1993350
+
+*Tags: Rechtsprechung, EPG-BerG, Berufung, Aufschiebende Wirkung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Grundsatz, dass die Parteien ihren Fall so früh wie möglich vollständig vortragen (Präambel VerfO Nr. 7), gilt auch für Anträge auf aufschiebende Wirkung nach [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf): Der Antrag muss alle Gründe, Tatsachen, Beweise und Argumente enthalten. Ein späterer weiterer Antrag ist unzulässig, es sei denn, er stützt sich auf Vorbringen, das im ersten Antrag vernünftigerweise nicht möglich war.
+
+**A:** EPG-BerG „Amycel (aufschiebende Wirkung: vollständiger Antrag)“ – UPC-COA-0000935/2025 (2026), EPG, UPC-COA-0000935/2025, EP1993350
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Berufung, Aufschiebende Wirkung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung)“ (UPC_CoA_623/2025, 2026) – Kernaussage?
+
+**A:** Ob in zweiter Instanz konkretisiertes Vorbringen neu ist, hängt davon ab, wie allgemein es in erster Instanz war: Die Konkretisierung eines bereits schlüssigen Vortrags ist nicht neu; die erstmalige Herleitung konkreter technischer Informationen und Anregungen aus einer bereits vorgelegten Druckschrift ist neu ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Anspruchsmerkmale sind im Lichte des gesamten Anspruchs auszulegen; identische Begriffe haben grundsätzlich dieselbe Bedeutung, sofern nicht die Beschreibung oder die Funktion der Merkmale ein abweichendes Verständnis ergibt.
+
+Normen: [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_623/2025, EP2778423
+
+*Tags: Rechtsprechung, EPG-BerG, Berufung, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Ob in zweiter Instanz konkretisiertes Vorbringen neu ist, hängt davon ab, wie allgemein es in erster Instanz war: Die Konkretisierung eines bereits schlüssigen Vortrags ist nicht neu; die erstmalige Herleitung konkreter technischer Informationen und Anregungen aus einer bereits vorgelegten Druckschrift ist neu ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Anspruchsmerkmale sind im Lichte des gesamten Anspruchs auszulegen; identische Begriffe haben grundsätzlich dieselbe Bedeutung, sofern nicht die Beschreibung oder die Funktion der Merkmale ein abweichendes Verständnis ergibt.
+
+**A:** EPG-BerG „Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung)“ – UPC_CoA_623/2025 (2026), EPG, UPC_CoA_623/2025, EP2778423
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Berufung, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Silimed/Polytech (Entfernung eines unbefugten Opt-out)“ (UPC-CoA-066/2026, 2026) – Kernaussage?
+
+**A:** Ein Antrag auf Entfernung eines unbefugten Opt-out nach [R. 5A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) muss entweder darlegen, dass der Antragsteller des Opt-out bei Antragstellung nicht die in den nationalen Registern als berechtigt eingetragene Person war, sondern der Antragsteller der Entfernung ([R. 8.5(c) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), oder bei Personenidentität, dass die eingetragene Person nach dem jeweiligen nationalen Recht nicht berechtigt war, als Inhaber eingetragen zu werden, sondern der Antragsteller ([R. 8.5(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+Normen: [Art. 83 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 5A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-CoA-066/2026, EP2581193
+
+*Tags: Rechtsprechung, EPG-BerG, Opt-out*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Ein Antrag auf Entfernung eines unbefugten Opt-out nach [R. 5A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) muss entweder darlegen, dass der Antragsteller des Opt-out bei Antragstellung nicht die in den nationalen Registern als berechtigt eingetragene Person war, sondern der Antragsteller der Entfernung ([R. 8.5(c) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), oder bei Personenidentität, dass die eingetragene Person nach dem jeweiligen nationalen Recht nicht berechtigt war, als Inhaber eingetragen zu werden, sondern der Antragsteller ([R. 8.5(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
+
+**A:** EPG-BerG „Silimed/Polytech (Entfernung eines unbefugten Opt-out)“ – UPC-CoA-066/2026 (2026), EPG, UPC-CoA-066/2026, EP2581193
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Opt-out*
 
 ---
 
@@ -9345,7 +13449,7 @@ Hinweis: Nicht harmonisiert sind Benutzungsmarken ([§ 4 Nr. 2 MarkenG](https://
 
 „Amt“ ist die für die Eintragung von Marken zuständige zentrale Behörde für den gewerblichen Rechtsschutz des Mitgliedstaats oder das Benelux-Amt für geistiges Eigentum.
 
-Umgesetzt in: [§ 41](https://www.gesetze-im-internet.de/markeng/__41.html), [§ 56 MarkenG](https://www.gesetze-im-internet.de/markeng/__56.html)
+Umgesetzt in: [§ 41 MarkenG](https://www.gesetze-im-internet.de/markeng/__41.html), [§ 56 MarkenG](https://www.gesetze-im-internet.de/markeng/__56.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9357,7 +13461,7 @@ Umgesetzt in: [§ 41](https://www.gesetze-im-internet.de/markeng/__41.html), [§
 
 Marken können alle Zeichen sein, insbesondere Wörter einschließlich Personennamen, Abbildungen, Buchstaben, Zahlen, Farben, die Form der Ware oder ihrer Verpackung sowie Klänge, sofern sie (a) geeignet sind, Waren oder Dienstleistungen eines Unternehmens von denen anderer zu unterscheiden, und (b) im Register so dargestellt werden können, dass Behörden und Publikum den Schutzgegenstand klar und eindeutig bestimmen können.
 
-Umgesetzt in: [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Umgesetzt in: [§ 3 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Hinweis: Aufgabe des Erfordernisses der graphischen Darstellbarkeit (Sieckmann-Kriterien bleiben Maßstab). Umsetzung im MaMoG: [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html) neu gefasst; Klang-, Bewegungs-, Multimedia- und Hologrammmarken ausdrücklich zulässig.
 
@@ -9371,7 +13475,7 @@ Hinweis: Aufgabe des Erfordernisses der graphischen Darstellbarkeit (Sieckmann-K
 
 Von der Eintragung ausgeschlossen bzw. für ungültig zu erklären sind: (a) nicht markenfähige Zeichen; (b) Marken ohne Unterscheidungskraft; (c) ausschließlich beschreibende Angaben (Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung, sonstige Merkmale); (d) im allgemeinen Sprachgebrauch oder in redlichen Verkehrsgepflogenheiten üblich gewordene Zeichen; (e) Zeichen, die ausschließlich aus der Form oder einem anderen charakteristischen Merkmal bestehen, die durch die Art der Ware bedingt, zur Erreichung einer technischen Wirkung erforderlich sind oder der …
 
-Umgesetzt in: [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
+Umgesetzt in: [§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
 Hinweis: Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ ([§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)), Bösgläubigkeit als zwingender Ungültigkeitsgrund ([§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen ([§ 8 Abs. 2 Nr. 9 bis 13 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)).
 
@@ -9385,7 +13489,7 @@ Hinweis: Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakter
 
 Ausgeschlossen oder ungültig ist eine Marke, (a) die mit einer älteren Marke identisch ist und für identische Waren angemeldet wurde, oder (b) wenn wegen Identität oder Ähnlichkeit mit der älteren Marke und der Waren für das Publikum Verwechslungsgefahr besteht, einschließlich der Gefahr gedanklicher Verbindung.
 
-Umgesetzt in: [§ 10](https://www.gesetze-im-internet.de/markeng/__10.html), [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 12](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Umgesetzt in: [§ 10 MarkenG](https://www.gesetze-im-internet.de/markeng/__10.html), [§ 11 MarkenG](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 12 MarkenG](https://www.gesetze-im-internet.de/markeng/__12.html), [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 13 MarkenG](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Hinweis: Der Bekanntheitsschutz im Register ist jetzt zwingend und gilt ausdrücklich auch bei identischen und ähnlichen Waren; [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html) wurde entsprechend geändert (Streichung von „nicht ähnlich“).
 
@@ -9411,7 +13515,7 @@ Umgesetzt in: [§ 125c MarkenG](https://www.gesetze-im-internet.de/markeng/__125
 
 Liegt ein Hindernis nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil zurückgewiesen oder für ungültig erklärt.
 
-Umgesetzt in: [§ 37 Abs. 5](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
+Umgesetzt in: [§ 37 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50 MarkenG](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9423,7 +13527,7 @@ Umgesetzt in: [§ 37 Abs. 5](https://www.gesetze-im-internet.de/markeng/__37.htm
 
 Ein Antrag auf Nichtigerklärung aufgrund einer älteren Marke ist erfolglos, wenn er am Anmelde- oder Prioritätstag der jüngeren Marke erfolglos gewesen wäre, weil (a) die ältere Marke damals nach Art. 4 Abs. 1 lit. b, c oder d für ungültig erklärt werden konnte und noch keine Unterscheidungskraft erlangt hatte, (b) noch keine Verwechslungsgefahr bestand, weil die ältere Marke noch nicht hinreichend unterscheidungskräftig war, oder (c) die ältere Marke noch nicht bekannt war.
 
-Umgesetzt in: [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 51 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
+Umgesetzt in: [§ 22 MarkenG](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 51 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
 
 Hinweis: Maßgeblicher Zeitpunkt für Kennzeichnungskraft und Bekanntheit der älteren Marke ist der Prioritätstag der jüngeren Marke ([§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), Abs. 4 S. 2 MarkenG).
 
@@ -9437,7 +13541,7 @@ Hinweis: Maßgeblicher Zeitpunkt für Kennzeichnungskraft und Bekanntheit der ä
 
 Hat der Inhaber einer älteren Marke die Benutzung einer jüngeren eingetragenen Marke fünf aufeinanderfolgende Jahre in Kenntnis geduldet, kann er weder die Nichtigkeit der jüngeren Marke geltend machen noch ihrer Benutzung widersprechen, es sei denn, die jüngere Marke wurde bösgläubig angemeldet.
 
-Umgesetzt in: [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 51 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
+Umgesetzt in: [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 51 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9449,7 +13553,7 @@ Umgesetzt in: [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html), [§
 
 Die Eintragung gewährt dem Inhaber ein ausschließliches Recht.
 
-Umgesetzt in: [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14a](https://www.gesetze-im-internet.de/markeng/__14a.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Umgesetzt in: [§ 14 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html), [§ 15 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Hinweis: Kern der Harmonisierung. Neu: Transitverbot ([§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html)), Benutzung als Unternehmensbezeichnung ausdrücklich als Verletzungshandlung ([§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html)), Bekanntheitsschutz zwingend und für alle Waren ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)). Die Funktionenlehre des EuGH (Herkunfts-, Werbe-, Investitionsfunktion) ist Auslegung dieses Artikels.
 
@@ -9489,7 +13593,7 @@ Umgesetzt in: [§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.ht
 
 Wurde eine Marke ohne Zustimmung des Inhabers auf den Namen seines Agenten oder Vertreters eingetragen, kann der Inhaber der Benutzung widersprechen, es sei denn, der Agent rechtfertigt seine Handlung; außerdem kann er die Übertragung der Eintragung auf sich verlangen.
 
-Umgesetzt in: [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 17 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
+Umgesetzt in: [§ 11 MarkenG](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 17 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9529,7 +13633,7 @@ Hinweis: Unionsweite (EWR-weite) Erschöpfung; keine internationale Erschöpfung
 
 Hat der Inhaber die Marke binnen fünf Jahren nach Abschluss des Eintragungsverfahrens nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt oder die Benutzung fünf Jahre ausgesetzt, unterliegt die Marke den Beschränkungen und Sanktionen der Art. 17, 19 Abs. 1, 44 Abs. 1 und 2 sowie 46 Abs. 3 und 4, sofern keine berechtigten Gründe vorliegen.
 
-Umgesetzt in: [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 116](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
+Umgesetzt in: [§ 115 MarkenG](https://www.gesetze-im-internet.de/markeng/__115.html), [§ 116 MarkenG](https://www.gesetze-im-internet.de/markeng/__116.html), [§ 117 MarkenG](https://www.gesetze-im-internet.de/markeng/__117.html), [§ 25 MarkenG](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 26 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html)
 
 Hinweis: Die Schonfrist beginnt jetzt mit dem Abschluss des Widerspruchsverfahrens ([§ 26 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html) neu); Benutzung in abweichender Form ist auch dann rechtserhaltend, wenn die abweichende Form selbst eingetragen ist ([§ 26 Abs. 3 S. 2](https://www.gesetze-im-internet.de/markeng/__26.html)).
 
@@ -9667,7 +13771,7 @@ Umgesetzt in: [§ 31 MarkenG](https://www.gesetze-im-internet.de/markeng/__31.ht
 
 „Garantie- oder Gewährleistungsmarke“: Marke, die geeignet ist, Waren oder Dienstleistungen, für die der Inhaber Material, Herstellungsart, Qualität, Genauigkeit oder andere Eigenschaften gewährleistet, von nicht gewährleisteten zu unterscheiden.
 
-Umgesetzt in: [§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html), [§ 97 MarkenG](https://www.gesetze-im-internet.de/markeng/__97.html)
+Umgesetzt in: [§ 106a MarkenG](https://www.gesetze-im-internet.de/markeng/__106a.html), [§ 97 MarkenG](https://www.gesetze-im-internet.de/markeng/__97.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9679,7 +13783,7 @@ Umgesetzt in: [§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html),
 
 Die Mitgliedstaaten können die Eintragung von Garantie- oder Gewährleistungsmarken vorsehen.
 
-Umgesetzt in: [§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html), [§ 106b](https://www.gesetze-im-internet.de/markeng/__106b.html), [§ 106c](https://www.gesetze-im-internet.de/markeng/__106c.html), [§ 106d MarkenG](https://www.gesetze-im-internet.de/markeng/__106d.html)
+Umgesetzt in: [§ 106a MarkenG](https://www.gesetze-im-internet.de/markeng/__106a.html), [§ 106b MarkenG](https://www.gesetze-im-internet.de/markeng/__106b.html), [§ 106c MarkenG](https://www.gesetze-im-internet.de/markeng/__106c.html), [§ 106d MarkenG](https://www.gesetze-im-internet.de/markeng/__106d.html)
 
 Hinweis: Deutschland hat die Option genutzt: Gewährleistungsmarke seit dem MaMoG in [§§ 106a ff. MarkenG](https://www.gesetze-im-internet.de/markeng/__106a.html) (Prüf- und Gütesiegel).
 
@@ -9693,7 +13797,7 @@ Hinweis: Deutschland hat die Option genutzt: Gewährleistungsmarke seit dem MaMo
 
 Die Mitgliedstaaten sehen die Eintragung von Kollektivmarken vor.
 
-Umgesetzt in: [§ 100](https://www.gesetze-im-internet.de/markeng/__100.html), [§ 97](https://www.gesetze-im-internet.de/markeng/__97.html), [§ 98](https://www.gesetze-im-internet.de/markeng/__98.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
+Umgesetzt in: [§ 100 MarkenG](https://www.gesetze-im-internet.de/markeng/__100.html), [§ 97 MarkenG](https://www.gesetze-im-internet.de/markeng/__97.html), [§ 98 MarkenG](https://www.gesetze-im-internet.de/markeng/__98.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9753,7 +13857,7 @@ Umgesetzt in: [§ 104 MarkenG](https://www.gesetze-im-internet.de/markeng/__104.
 
 Art. 25 Abs. 3 und 4 gelten für zur Benutzung Befugte entsprechend.
 
-Umgesetzt in: [§ 101](https://www.gesetze-im-internet.de/markeng/__101.html), [§ 106c MarkenG](https://www.gesetze-im-internet.de/markeng/__106c.html)
+Umgesetzt in: [§ 101 MarkenG](https://www.gesetze-im-internet.de/markeng/__101.html), [§ 106c MarkenG](https://www.gesetze-im-internet.de/markeng/__106c.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9765,7 +13869,7 @@ Umgesetzt in: [§ 101](https://www.gesetze-im-internet.de/markeng/__101.html), [
 
 Zusätzlich zu Art. 19 und 20 wird die Kollektivmarke für verfallen erklärt, wenn (a) der Inhaber keine angemessenen Maßnahmen gegen satzungswidrige Benutzung trifft, (b) die Benutzung durch Befugte das Publikum nach Art. 31 Abs. 2 irreführen kann, oder (c) eine Satzungsänderung entgegen Art. 33 Abs. 2 im Register vermerkt wurde, es sei denn, der Inhaber erfüllt die Anforderungen durch erneute Änderung.
 
-Umgesetzt in: [§ 105](https://www.gesetze-im-internet.de/markeng/__105.html), [§ 106g MarkenG](https://www.gesetze-im-internet.de/markeng/__106g.html)
+Umgesetzt in: [§ 105 MarkenG](https://www.gesetze-im-internet.de/markeng/__105.html), [§ 106g MarkenG](https://www.gesetze-im-internet.de/markeng/__106g.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9777,7 +13881,7 @@ Umgesetzt in: [§ 105](https://www.gesetze-im-internet.de/markeng/__105.html), [
 
 Zusätzlich zu Art. 4 und 5 wird eine entgegen Art. 31 eingetragene Kollektivmarke für ungültig erklärt, es sei denn, der Inhaber erfüllt die Anforderungen durch Satzungsänderung.
 
-Umgesetzt in: [§ 106](https://www.gesetze-im-internet.de/markeng/__106.html), [§ 106h MarkenG](https://www.gesetze-im-internet.de/markeng/__106h.html)
+Umgesetzt in: [§ 106 MarkenG](https://www.gesetze-im-internet.de/markeng/__106.html), [§ 106h MarkenG](https://www.gesetze-im-internet.de/markeng/__106h.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9813,7 +13917,7 @@ Umgesetzt in: [§ 33 MarkenG](https://www.gesetze-im-internet.de/markeng/__33.ht
 
 Die Waren und Dienstleistungen werden nach der Nizza-Klassifikation klassifiziert.
 
-Umgesetzt in: [§ 32 Abs. 3](https://www.gesetze-im-internet.de/markeng/__32.html), [§ 65](https://www.gesetze-im-internet.de/markeng/__65.html), [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
+Umgesetzt in: [§ 32 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html), [§ 65 MarkenG](https://www.gesetze-im-internet.de/markeng/__65.html), [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)
 
 Hinweis: Abs. 7 entspricht [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html); Abs. 5 kodifiziert die IP-Translator-Rechtsprechung (EuGH C-307/10).
 
@@ -9839,7 +13943,7 @@ Umgesetzt in: [§ 37 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/
 
 Der Anmelder oder Inhaber kann die Anmeldung oder Eintragung in zwei oder mehr Teile teilen.
 
-Umgesetzt in: [§ 40](https://www.gesetze-im-internet.de/markeng/__40.html), [§ 46 MarkenG](https://www.gesetze-im-internet.de/markeng/__46.html)
+Umgesetzt in: [§ 40 MarkenG](https://www.gesetze-im-internet.de/markeng/__40.html), [§ 46 MarkenG](https://www.gesetze-im-internet.de/markeng/__46.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9877,7 +13981,7 @@ Hinweis: Umsetzung: [§ 42 Abs. 2](https://www.gesetze-im-internet.de/markeng/__
 
 War die Schonfrist der älteren Marke am Anmelde- oder Prioritätstag der jüngeren Marke abgelaufen, muss der Widersprechende auf Verlangen des Anmelders nachweisen, dass die ältere Marke in den fünf Jahren vor diesem Tag ernsthaft benutzt wurde oder berechtigte Gründe vorlagen; sonst wird der Widerspruch zurückgewiesen.
 
-Umgesetzt in: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html)
+Umgesetzt in: [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 43 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html)
 
 Hinweis: Maßgeblicher Fünfjahreszeitraum ist der vor dem Anmelde-/Prioritätstag der jüngeren Marke ([§ 43 Abs. 1 S. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html) neu).
 
@@ -9891,7 +13995,7 @@ Hinweis: Maßgeblicher Fünfjahreszeitraum ist der vor dem Anmelde-/Prioritätst
 
 Unbeschadet gerichtlicher Verfahren sehen die Mitgliedstaaten ein effizientes und zügiges Verwaltungsverfahren vor den Ämtern für die Erklärung des Verfalls oder der Nichtigkeit vor.
 
-Umgesetzt in: [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54](https://www.gesetze-im-internet.de/markeng/__54.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
+Umgesetzt in: [§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54 MarkenG](https://www.gesetze-im-internet.de/markeng/__54.html), [§ 55 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
 
 Hinweis: Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 UAbs. 2). Deutschland: seit 1.5.2020 vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)), daneben Klage nach [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) nur noch für Verfall und relative Nichtigkeit.
 
@@ -9905,7 +14009,7 @@ Hinweis: Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 UAbs. 2). Deutschla
 
 Der Inhaber der jüngeren Marke kann verlangen, dass der Antragsteller die ernsthafte Benutzung seiner älteren Marke in den fünf Jahren vor Antragstellung nachweist, wenn deren Schonfrist bei Antragstellung abgelaufen war.
 
-Umgesetzt in: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
+Umgesetzt in: [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 53 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9929,7 +14033,7 @@ Umgesetzt in: [§ 52 MarkenG](https://www.gesetze-im-internet.de/markeng/__52.ht
 
 Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag.
 
-Umgesetzt in: [§ 47 Abs. 1](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html)
+Umgesetzt in: [§ 47 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -9941,7 +14045,7 @@ Umgesetzt in: [§ 47 Abs. 1](https://www.gesetze-im-internet.de/markeng/__47.htm
 
 Die Verlängerung erfolgt auf Antrag des Inhabers oder eines Bevollmächtigten gegen Gebühr; die Mitgliedstaaten können die Gebührenzahlung als Antrag gelten lassen.
 
-Umgesetzt in: [§ 47 Abs. 3](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 4](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html)
+Umgesetzt in: [§ 47 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html)
 
 Hinweis: Schutzdauer und Verlängerungsfristen laufen jetzt ab dem Anmeldetag, nicht mehr ab dem Monatsende ([§ 47 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html) neu).
 
@@ -9955,7 +14059,7 @@ Hinweis: Schutzdauer und Verlängerungsfristen laufen jetzt ab dem Anmeldetag, n
 
 Die Verfahrensbeteiligten oder ihre Vertreter geben eine amtliche Anschrift für die amtliche Kommunikation an; die Mitgliedstaaten können verlangen, dass sie im EWR liegt.
 
-Umgesetzt in: [§ 94](https://www.gesetze-im-internet.de/markeng/__94.html), [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)
+Umgesetzt in: [§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html), [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)
 
 *Tags: Richtlinie, EU, MarkenRL*
 
@@ -10047,7 +14151,7 @@ Die Richtlinie ist an die Mitgliedstaaten gerichtet.
 
 Diese Richtlinie betrifft die Maßnahmen, Verfahren und Rechtsbehelfe, die erforderlich sind, um die Durchsetzung der Rechte des geistigen Eigentums sicherzustellen. Im Sinne dieser Richtlinie umfasst der Begriff „Rechte des geistigen Eigentums“ auch die gewerblichen Schutzrechte.
 
-Umgesetzt in: [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+Umgesetzt in: [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
 
 Weitere Gesetze: PatG: §§ [139](https://www.gesetze-im-internet.de/patg/__139.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG; GebrMG: §§ [24](https://www.gesetze-im-internet.de/gebrmg/__24.html) bis [24e](https://www.gesetze-im-internet.de/gebrmg/__24e.html) GebrMG; DesignG: §§ [42](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG; UrhG: §§ [97](https://www.gesetze-im-internet.de/urhg/__97.html) bis [103](https://www.gesetze-im-internet.de/urhg/__103.html) UrhG; HalblSchG: [§ 9 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: §§ [37](https://www.gesetze-im-internet.de/sortschg_1985/__37.html) bis [37e](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html) SortSchG; Allgemeines Recht: ZPO (einstweiliger Rechtsschutz, Kosten), BGB (Bereicherung, GoA)
 
@@ -10063,7 +14167,7 @@ Hinweis: Die Richtlinie harmonisiert nicht das materielle Recht (das tun MarkenR
 
 Unbeschadet etwaiger Instrumente in den Rechtsvorschriften der Gemeinschaft oder der Mitgliedstaaten, die für die Rechtsinhaber günstiger sind, finden die in dieser Richtlinie vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe gemäß Artikel 3 auf jede Verletzung von Rechten des geistigen Eigentums, die im Gemeinschaftsrecht und/oder im innerstaatlichen Recht des betreffenden Mitgliedstaats vorgesehen sind, Anwendung.
 
-Umgesetzt in: [§ 19d](https://www.gesetze-im-internet.de/markeng/__19d.html), [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Umgesetzt in: [§ 19d MarkenG](https://www.gesetze-im-internet.de/markeng/__19d.html), [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 
 Weitere Gesetze: PatG: [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html); GebrMG: [§ 24g GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24g.html); DesignG: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html); UrhG: [§ 102a UrhG](https://www.gesetze-im-internet.de/urhg/__102a.html); HalblSchG: [§ 9 Abs. 4 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37g SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37g.html); Allgemeines Recht: UWG, §§ [823](https://www.gesetze-im-internet.de/bgb/__823.html), [826](https://www.gesetze-im-internet.de/bgb/__826.html), [812](https://www.gesetze-im-internet.de/bgb/__812.html) BGB, GoA bleiben unberührt (Mindestharmonisierung)
 
@@ -10079,9 +14183,11 @@ Hinweis: Abs. 1 macht die Richtlinie zur Mindestharmonisierung: Strengere nation
 
 Die Mitgliedstaaten sehen die Maßnahmen, Verfahren und Rechtsbehelfe vor, die zur Durchsetzung der Rechte des geistigen Eigentums, auf die diese Richtlinie abstellt, erforderlich sind. Diese Maßnahmen, Verfahren und Rechtsbehelfe müssen fair und gerecht sein, außerdem dürfen sie nicht unnötig kompliziert oder kostspielig sein und keine unangemessenen Fristen oder ungerechtfertigten Verzögerungen mit sich bringen.
 
-Umgesetzt in: [§ 18 Abs. 3](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 Abs. 4](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 2](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
+Umgesetzt in: [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
 
 Weitere Gesetze: PatG: [§ 139 Abs. 1 S. 3 bis 5 PatG](https://www.gesetze-im-internet.de/patg/__139.html) (Verhältnismäßigkeit des Unterlassungsanspruchs), [§ 140a Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 140b Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140b.html), [§ 140c Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__140c.html); GebrMG: [§ 24 Abs. 1 S. 3 bis 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html), [§ 24a Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html), [§ 24b Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html), [§ 24c Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); DesignG: [§ 43 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [§ 46 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html), [§ 46a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html); UrhG: [§ 98 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html), [§ 101 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html), [§ 101a Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. §§ [24a](https://www.gesetze-im-internet.de/gebrmg/__24a.html) bis [24c](https://www.gesetze-im-internet.de/gebrmg/__24c.html) GebrMG; SortSchG: [§ 37a Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html), [§ 37b Abs. 4 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html), [§ 37c Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html); Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html); Auslegungsmaßstab für alle Durchsetzungsnormen
+
+Umsetzung im EPGÜ: [Art. 42 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Art. 3 ist die Generalklausel der Richtlinie. Der EuGH zieht sie zur Auslegung jeder Einzelnorm heran: Kostenerstattung nur für zumutbare und angemessene Kosten (NovaText), Missbrauchskontrolle bei Auskunftsanträgen (Mircom), keine allgemeine Überwachungspflicht für Mittelspersonen (L'Oréal/eBay). Im deutschen Recht spiegeln die Verhältnismäßigkeitsvorbehalte der [§§ 18 Abs. 3, 19 Abs. 4, 19a Abs. 2, 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) Abs. 2 wider.
 
@@ -10095,9 +14201,11 @@ Hinweis: Art. 3 ist die Generalklausel der Richtlinie. Der EuGH zieht sie zur Au
 
 Die Mitgliedstaaten räumen den folgenden Personen das Recht ein, die in diesem Kapitel vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe zu beantragen: a) den Inhabern der Rechte des geistigen Eigentums im Einklang mit den Bestimmungen des anwendbaren Rechts, b) allen anderen Personen, die zur Nutzung solcher Rechte befugt sind, insbesondere Lizenznehmern, soweit dies nach den Bestimmungen des anwendbaren Rechts zulässig ist und mit ihnen im Einklang steht, c) Verwertungsgesellschaften mit ordnungsgemäß anerkannter Befugnis zur Vertretung von Inhabern von Rechten des geistigen Eigentums, sow …
 
-Umgesetzt in: [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 Abs. 1](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 30 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+Umgesetzt in: [§ 14 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 30 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
 
 Weitere Gesetze: PatG: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) („Verletzter“); Lizenz [§ 15 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html), Klagebefugnis des ausschließlichen Lizenznehmers nach der Rechtsprechung; GebrMG: [§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); Lizenz [§ 22 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__22.html); DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) („Rechtsinhaber oder anderer Berechtigter“); [§ 31 Abs. 3, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) (Lizenznehmer); UrhG: [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) („Verletzter“); Verwertungsgesellschaften nach dem VGG; HalblSchG: [§ 9 Abs. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Nutzungsrechte [§ 11 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__11.html); Allgemeines Recht: Prozessstandschaft, Abtretung (auch Zessionar ist Inhaber: EuGH Mircom)
+
+Umsetzung im EPGÜ: [Art. 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Die Richtlinie überlässt dem nationalen Recht, ob und wann Lizenznehmer klagen dürfen („soweit dies nach dem anwendbaren Recht zulässig ist“). [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html): Zustimmung des Inhabers, ausnahmsweise eigenes Klagerecht des ausschließlichen Lizenznehmers nach förmlicher Aufforderung; Abs. 4: Beitritt zur Geltendmachung eigenen Schadens.
 
@@ -10131,6 +14239,8 @@ Umgesetzt in: [§ 19a Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng
 
 Weitere Gesetze: PatG: [§ 140c Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__140c.html); GebrMG: [§ 24c Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); DesignG: [§ 46a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html); UrhG: [§ 101a Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); SortSchG: [§ 37c Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html); Allgemeines Recht: §§ [142](https://www.gesetze-im-internet.de/zpo/__142.html), [144](https://www.gesetze-im-internet.de/zpo/__144.html) ZPO (Anordnung der Urkundenvorlage und des Augenscheins), [§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html)
 
+Umsetzung im EPGÜ: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
 Hinweis: Deutschland hat Art. 6 und 7 als materiellen Anspruch ausgestaltet ([§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html): Vorlage einer Urkunde, Besichtigung einer Sache; bei gewerblichem Ausmaß auch Bank-, Finanz-, Handelsunterlagen), nicht als bloße prozessuale Anordnungsbefugnis. Voraussetzung ist „hinreichende Wahrscheinlichkeit“ der Verletzung, nicht ihr Nachweis.
 
 *Tags: Richtlinie, EU, DurchsetzungsRL*
@@ -10143,9 +14253,11 @@ Hinweis: Deutschland hat Art. 6 und 7 als materiellen Anspruch ausgestaltet ([§
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte selbst vor Einleitung eines Verfahrens in der Sache auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur Begründung ihrer Ansprüche, dass ihre Rechte an geistigem Eigentum verletzt worden sind oder verletzt zu werden drohen, vorgelegt hat, schnelle und wirksame einstweilige Maßnahmen zur Sicherung der rechtserheblichen Beweismittel hinsichtlich der behaupteten Verletzung anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Derartige Maßnahmen können die ausführliche Besch …
 
-Umgesetzt in: [§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19a Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+Umgesetzt in: [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19a Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
 
 Weitere Gesetze: PatG: [§ 140c Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140c.html), Abs. 5; GebrMG: [§ 24c Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html), Abs. 5; DesignG: [§ 46a Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), Abs. 5; UrhG: [§ 101a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html), Abs. 5; HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); SortSchG: [§ 37c Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html), Abs. 5; Allgemeines Recht: [§§ 485 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__485.html) (selbständiges Beweisverfahren); [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html), [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html), [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html)
+
+Umsetzung im EPGÜ: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besichtigung ([§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html)), auch ohne Anhörung, mit Geheimnisschutz („Düsseldorfer Verfahren“: Besichtigung durch einen zur Verschwiegenheit verpflichteten Sachverständigen). Abs. 4 entspricht [§ 19a Abs. 5](https://www.gesetze-im-internet.de/markeng/__19a.html) (verschuldensunabhängiger Schadensersatz, wenn keine Verletzung vorlag) und allgemein [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html).
 
@@ -10159,9 +14271,11 @@ Hinweis: Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besi
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte im Zusammenhang mit einem Verfahren wegen Verletzung eines Rechts des geistigen Eigentums auf einen begründeten und die Verhältnismäßigkeit wahrenden Antrag des Klägers hin anordnen können, dass Auskünfte über den Ursprung und die Vertriebswege von Waren oder Dienstleistungen, die ein Recht des geistigen Eigentums verletzen, von dem Verletzer und/oder jeder anderen Person erteilt werden, die a) nachweislich rechtsverletzende Ware in gewerblichem Ausmaß in ihrem Besitz hatte, b) nachweislich rechtsverletzende Dienstleistungen in  …
 
-Umgesetzt in: [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Umgesetzt in: [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
 
 Weitere Gesetze: PatG: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html); GebrMG: [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html); DesignG: [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html); UrhG: [§ 101 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html) (Abs. 1: Anspruch gegen den Verletzer nur bei gewerblichem Ausmaß); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html); SortSchG: [§ 37b SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html); Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) (unselbständige Auskunft zur Bezifferung); §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO (Zeugnisverweigerung = Abs. 3 lit. d)
+
+Umsetzung im EPGÜ: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Kernstück der Richtlinie. Zuordnung: Abs. 1 lit. a bis d = [§ 19 Abs. 2 S. 1 Nr. 1 bis 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html) (Drittauskunft bei offensichtlicher Verletzung oder nach Klageerhebung); Abs. 2 = [§ 19 Abs. 3](https://www.gesetze-im-internet.de/markeng/__19.html); Abs. 3 lit. d = Zeugnisverweigerungsrecht (§§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO); Abs. 3 lit. e = Richtervorbehalt für Verkehrsdaten ([§ 19 Abs. 9](https://www.gesetze-im-internet.de/markeng/__19.html)). „Adressen“ meint nur die Postanschrift (Constantin Film); das Bankgeheimnis rechtfertigt keine pauschale Verweigerung (Coty, Davidoff Hot Water II); der Anspruch kann auch in einem gesonderten Verfahren nach dem Verletzungsprozess verfolgt werden (NEW WAVE).
 
@@ -10175,9 +14289,11 @@ Hinweis: Kernstück der Richtlinie. Zuordnung: Abs. 1 lit. a bis d = [§ 19 Abs.
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte die Möglichkeit haben, auf Antrag des Antragstellers a) gegen den angeblichen Verletzer eine einstweilige Maßnahme anzuordnen, um eine drohende Verletzung eines Rechts des geistigen Eigentums zu verhindern oder einstweilig und, sofern die einzelstaatlichen Rechtsvorschriften dies vorsehen, in geeigneten Fällen unter Verhängung von Zwangsgeldern die Fortsetzung angeblicher Verletzungen dieses Rechts zu untersagen oder die Fortsetzung an die Stellung von Sicherheiten zu knüpfen, die die Entschädigung des Rechtsinhabers sicherstell …
 
-Umgesetzt in: [§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
+Umgesetzt in: [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
 
 Weitere Gesetze: PatG: [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) (Sicherung); keine Dringlichkeitsvermutung; GebrMG: [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html); DesignG: [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html); UrhG: [§ 101b UrhG](https://www.gesetze-im-internet.de/urhg/__101b.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html); SortSchG: [§ 37d SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37d.html); Allgemeines Recht: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) (Abs. 1 lit. a), [§ 938 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__938.html) Sequestration (lit. b), [§§ 916 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__916.html) dinglicher Arrest (Abs. 2), [§ 920 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__920.html) Glaubhaftmachung (Abs. 3), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html) (Abs. 4), [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html) (Abs. 5), [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html) (Abs. 6), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) (Abs. 7)
+
+Umsetzung im EPGÜ: [Art. 61 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG ergänzt nur die Dringlichkeitsvermutung des [§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html) (Unterlassung; erst seit dem MaMoG 2019, nicht richtliniengetrieben), die Eilauskunft ([§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html)) und die Vorlageverfügung ([§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html)). Abs. 2 (Kontosperre, Unterlagen) = [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html) plus Arrest. Abs. 7 = [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html), der verschuldensunabhängig haftet und damit über die Richtlinie hinausgeht (EuGH Bayer/Richter: „angemessener Ersatz“ erlaubt die Berücksichtigung eigenen Risikos des Antragsgegners).
 
@@ -10191,9 +14307,11 @@ Hinweis: Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG er
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag des Antragstellers anordnen können, dass in Bezug auf Waren, die nach ihren Feststellungen ein Recht des geistigen Eigentums verletzen, und gegebenenfalls in Bezug auf Materialien und Geräte, die vorwiegend zur Schaffung oder Herstellung dieser Waren gedient haben, unbeschadet etwaiger Schadensersatzansprüche des Rechtsinhabers aus der Verletzung sowie ohne Entschädigung irgendwelcher Art geeignete Maßnahmen getroffen werden. Zu diesen Maßnahmen gehören a) der Rückruf aus den Vertriebswegen, b) das endgültige Entferne …
 
-Umgesetzt in: [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 1](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 2](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html)
+Umgesetzt in: [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html)
 
 Weitere Gesetze: PatG: [§ 140a Abs. 1 bis 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html); GebrMG: [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html); DesignG: [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) (Abs. 3: Überlassung gegen Vergütung); UrhG: [§ 98 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) (Abs. 3: Überlassung); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html); SortSchG: [§ 37a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html); Allgemeines Recht: Beseitigungsanspruch ([§ 1004 BGB](https://www.gesetze-im-internet.de/bgb/__1004.html) analog); Vollstreckung §§ [883](https://www.gesetze-im-internet.de/zpo/__883.html), [887](https://www.gesetze-im-internet.de/zpo/__887.html) ZPO
+
+Umsetzung im EPGÜ: [Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Abs. 1 lit. a und b sind der Rückruf- und Entfernungsanspruch des [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) (neu seit 2008), lit. c der Vernichtungsanspruch des [§ 18 Abs. 1](https://www.gesetze-im-internet.de/markeng/__18.html); Abs. 3 ist der Verhältnismäßigkeitsvorbehalt des [§ 18 Abs. 3](https://www.gesetze-im-internet.de/markeng/__18.html) einschließlich der Interessen Dritter (etwa gutgläubiger Abnehmer). Kein Verschulden erforderlich.
 
@@ -10207,9 +14325,11 @@ Hinweis: Abs. 1 lit. a und b sind der Rückruf- und Entfernungsanspruch des [§ 
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte bei Feststellung einer Verletzung eines Rechts des geistigen Eigentums eine Anordnung gegen den Verletzer erlassen können, die ihm die weitere Verletzung des betreffenden Rechts untersagt. Sofern dies nach dem Recht eines Mitgliedstaats vorgesehen ist, werden im Falle einer Missachtung dieser Anordnung in geeigneten Fällen Zwangsgelder verhängt, um die Einhaltung der Anordnung zu gewährleisten. Unbeschadet des Artikels 8 Absatz 3 der Richtlinie 2001/29/EG stellen die Mitgliedstaaten ferner sicher, dass die Rechtsinhaber eine Ano …
 
-Umgesetzt in: [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Umgesetzt in: [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Weitere Gesetze: PatG: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html); GebrMG: [§ 24 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); UrhG: [§ 97 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html); HalblSchG: [§ 9 Abs. 1 S. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Allgemeines Recht: [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html) (Ordnungsgeld, Ordnungshaft); Störerhaftung nach der Rechtsprechung des BGH für Mittelspersonen
+
+Umsetzung im EPGÜ: [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Satz 1 = Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)), Satz 2 = Vollstreckung über [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html). Satz 3 verlangt Anordnungen gegen Mittelspersonen unabhängig von deren eigener Haftung; Deutschland erfüllt das mit der Störerhaftung (Unterlassung ohne Verschulden bei Verletzung zumutbarer Prüfpflichten). Die Anordnung muss auch künftige gleichartige Verletzungen verhindern, darf aber keine allgemeine Überwachungspflicht begründen (L'Oréal/eBay); Mittelsperson kann auch der Betreiber einer physischen Markthalle sein (Tommy Hilfiger).
 
@@ -10237,9 +14357,11 @@ Hinweis: Fakultative Regelung; Deutschland hat sie nur im DesignG ([§ 45](https
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag der geschädigten Partei anordnen, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzungshandlung vornahm, dem Rechtsinhaber zum Ausgleich des von diesem wegen der Rechtsverletzung erlittenen tatsächlichen Schadens angemessenen Schadensersatz zu leisten hat. Bei der Festsetzung des Schadensersatzes verfahren die Gerichte wie folgt: a) Sie berücksichtigen alle in Frage kommenden Aspekte, wie die negativen wirtschaftlichen Auswirkungen, einschließlich der Gewinneinbußen für di …
 
-Umgesetzt in: [§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
+Umgesetzt in: [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
 
 Weitere Gesetze: PatG: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html); GebrMG: [§ 24 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); DesignG: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); UrhG: [§ 97 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) (S. 4: immaterieller Schaden); HalblSchG: [§ 9 Abs. 1 S. 2, 3 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Allgemeines Recht: Abs. 2: Eingriffskondiktion [§ 812 Abs. 1 S. 1 Alt. 2 BGB](https://www.gesetze-im-internet.de/bgb/__812.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) über [§ 20 S. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html)
+
+Umsetzung im EPGÜ: [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Das Durchsetzungsgesetz hat die dreifache Schadensberechnung in allen Schutzrechtsgesetzen kodifiziert ([§ 14 Abs. 6 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html): Verletzergewinn, S. 3: Lizenzanalogie). Verschulden bleibt Voraussetzung („wusste oder hätte wissen müssen“). Der Pauschalbetrag nach lit. b ist eine Untergrenze („mindestens“), immaterieller Schaden kann hinzukommen (Liffers); strengere nationale Regeln wie die doppelte Lizenzgebühr sind zulässig (OTK). Für den schuldlosen Verletzer (Abs. 2) greift in Deutschland die Eingriffskondiktion.
 
@@ -10253,9 +14375,11 @@ Hinweis: Das Durchsetzungsgesetz hat die dreifache Schadensberechnung in allen S
 
 Die Mitgliedstaaten stellen sicher, dass die Prozesskosten und sonstigen Kosten der obsiegenden Partei in der Regel, soweit sie zumutbar und angemessen sind, von der unterlegenen Partei getragen werden, sofern Billigkeitsgründe dem nicht entgegenstehen.
 
-Umgesetzt in: [§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html)
+Umgesetzt in: [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html)
 
 Weitere Gesetze: PatG: [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html) (Patentanwaltskosten), [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) (Streitwertbegünstigung); GebrMG: [§ 27 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__27.html); DesignG: [§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html); UrhG: [§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html) (Abmahnkosten, Deckelung des Gegenstandswerts); HalblSchG: –; SortSchG: –; Allgemeines Recht: [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html), RVG; Abmahnkosten aus GoA (§§ [677](https://www.gesetze-im-internet.de/bgb/__677.html), [683](https://www.gesetze-im-internet.de/bgb/__683.html), [670](https://www.gesetze-im-internet.de/bgb/__670.html) BGB) und als Schadensersatz
+
+Umsetzung im EPGÜ: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Klausurklassiker seit 2022: [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) a.F. (heute Abs. 4) ließ Patentanwaltskosten in Kennzeichenstreitsachen stets erstatten; das verstößt gegen Art. 3 und 14 (EuGH NovaText). Der BGH legt die Norm seither richtlinienkonform aus: Erstattung nur, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war (Kosten des Patentanwalts VII). Auch Abmahnkosten sind „sonstige Kosten“ (Koch Media); Pauschal- und Höchstsätze sind zulässig, wenn ein erheblicher und angemessener Teil erstattet wird (United Video Properties).
 
@@ -10273,6 +14397,8 @@ Umgesetzt in: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.
 
 Weitere Gesetze: PatG: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html); GebrMG: [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html); DesignG: [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html); UrhG: [§ 103 UrhG](https://www.gesetze-im-internet.de/urhg/__103.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html); SortSchG: [§ 37e SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html); Allgemeines Recht: strafrechtlich [§ 143 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html); [§ 12 Abs. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__12.html) a.F. (Vorbild)
 
+Umsetzung im EPGÜ: [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
 Hinweis: [§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html): Befugnis der obsiegenden Partei (auch des Beklagten) bei berechtigtem Interesse; Art und Umfang bestimmt das Urteil; Erlöschen drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar. Wortgleich in allen Schutzrechtsgesetzen.
 
 *Tags: Richtlinie, EU, DurchsetzungsRL*
@@ -10285,7 +14411,7 @@ Hinweis: [§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html): Befugn
 
 Unbeschadet der in dieser Richtlinie vorgesehenen zivil- und verwaltungsrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe können die Mitgliedstaaten in Fällen von Verletzungen von Rechten des geistigen Eigentums andere angemessene Sanktionen vorsehen.
 
-Umgesetzt in: [§ 143](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 143a](https://www.gesetze-im-internet.de/markeng/__143a.html), [§ 144](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
+Umgesetzt in: [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 143a MarkenG](https://www.gesetze-im-internet.de/markeng/__143a.html), [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
 
 Weitere Gesetze: PatG: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) (Strafvorschrift); §§ [142a](https://www.gesetze-im-internet.de/patg/__142a.html), [142b](https://www.gesetze-im-internet.de/patg/__142b.html) PatG (Zollbeschlagnahme); GebrMG: [§ 25 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__25.html); §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG; DesignG: [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html); [§§ 55 ff. DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html); UrhG: §§ [106](https://www.gesetze-im-internet.de/urhg/__106.html) bis [111a](https://www.gesetze-im-internet.de/urhg/__111a.html) UrhG; [§ 111b UrhG](https://www.gesetze-im-internet.de/urhg/__111b.html); HalblSchG: [§ 10 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__10.html); [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG; SortSchG: [§ 39 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__39.html); [§ 40a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__40a.html); Allgemeines Recht: Verordnung (EU) Nr. 608/2013 (Grenzbeschlagnahme); Art. 61 TRIPS
 
@@ -10366,5 +14492,2349 @@ Hinweis: Veröffentlicht am 30.4.2004 (ABl. L 157, S. 45); wegen Fehlern in der 
 Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
 
 *Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Einheitliches Patentgericht)?
+
+**A:** Einheitliches Patentgericht
+
+Es wird ein Einheitliches Patentgericht für die Regelung von Streitigkeiten über europäische Patente und europäische Patente mit einheitlicher Wirkung errichtet. Das Einheitliche Patentgericht ist ein gemeinsames Gericht der Vertragsmitgliedstaaten und unterliegt somit denselben Verpflichtungen nach dem Unionsrecht wie jedes nationale Gericht der Vertragsmitgliedstaaten.
+
+Hinweis: Das EPG ist ein gemeinsames Gericht der Vertragsmitgliedstaaten, kein Unionsorgan; es unterliegt aber denselben unionsrechtlichen Pflichten wie nationale Gerichte (Art. 20 bis 23).
+
+In 14 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Begriffsbestimmungen)?
+
+**A:** Begriffsbestimmungen
+
+Für die Zwecke dieses Übereinkommens bezeichnet der Ausdruck a) "Gericht" das Einheitliche Patentgericht, das mit diesem Übereinkommen errichtet wird, b) "Mitgliedstaat" einen Mitgliedstaat der Europäischen Union, c) "Vertragsmitgliedstaat" einen Mitgliedstaat, der Vertragspartei dieses Übereinkommens ist, d) "EPÜ" das Übereinkommen über die Erteilung europäischer Patente vom 5. Oktober 1973 mit allen nachfolgenden Änderungen, e) "europäisches Patent" ein nach dem EPÜ erteiltes Patent, das keine einheitliche Wirkung aufgrund der Verordnung (EU) Nr. 1257/2012 hat, f) "europäisches Patent mit ei …
+
+Hinweis: Begriffe merken: „Vertragsmitgliedstaat“ (nur EU-Staaten, die das EPGÜ ratifiziert haben), „europäisches Patent mit einheitlicher Wirkung“ und „europäisches Patent“ (Bündelpatent, soweit nicht opt-out).
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Geltungsbereich)?
+
+**A:** Geltungsbereich
+
+Dieses Übereinkommen gilt a) für alle europäischen Patente mit einheitlicher Wirkung, b) für alle ergänzenden Schutzzertifikate, die zu einem durch ein Patent geschützten Erzeugnis erteilt worden sind, c) unbeschadet des Artikels 83 für alle europäische Patente, die zum Zeitpunkt des Inkrafttretens dieses Übereinkommens noch nicht erloschen sind oder die nach diesem Zeitpunkt erteilt werden und d) unbeschadet des Artikels 83 für alle europäischen Patentanmeldungen, die zum Zeitpunkt des Inkrafttretens dieses Übereinkommens anhängig sind oder die nach diesem Zeitpunkt eingereicht werden.
+
+Hinweis: Sachlicher Geltungsbereich: Einheitspatente, ESZ, europäische Bündelpatente (auch vor dem 1.6.2023 erteilte) und Anmeldungen – jeweils ohne Opt-out (Art. 83 Abs. 3).
+
+In 7 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Gericht)?
+
+**A:** Gericht
+
+Das Gericht besteht aus einem Gericht erster Instanz, einem Berufungsgericht und einer Kanzlei.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Gericht erster Instanz)?
+
+**A:** Gericht erster Instanz
+
+Das Gericht erster Instanz umfasst eine Zentralkammer sowie Lokalkammern und Regionalkammern.
+
+Hinweis: Gericht erster Instanz = Zentralkammer (Sitz Paris; Abteilungen München und Mailand) + Lokal- und Regionalkammern. Zuweisung der Nichtigkeitsklagen nach IPC-Klassen (Anhang II).
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Zusammensetzung der Spruchkörper des Gerichts erster Instanz)?
+
+**A:** Zusammensetzung der Spruchkörper des Gerichts erster Instanz
+
+Alle Spruchkörper des Gerichts erster Instanz sind multinational zusammengesetzt. Unbeschadet des Absatzes 5 und des Artikels 33 Absatz 3 Buchstabe a bestehen sie aus drei Richtern.
+
+Hinweis: Multinationale Besetzung: Lokalkammer drei rechtlich qualifizierte Richter; technisch qualifizierter Richter auf Antrag oder bei Widerklage auf Nichtigerklärung (Abs. 5) aus dem Richterpool (Art. 18).
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Berufungsgericht)?
+
+**A:** Berufungsgericht
+
+Jeder Spruchkörper des Berufungsgerichts tagt in einer multinationalen Zusammensetzung aus fünf Richtern. Er besteht aus drei rechtlich qualifizierten Richtern, die Staatsangehörige unterschiedlicher Vertragsmitgliedstaaten sind, und zwei technisch qualifizierten Richtern, die über eine entsprechende Qualifikation und Erfahrung auf dem betreffenden Gebiet der Technik verfügen. Die technisch qualifizierten Richter werden dem Spruchkörper vom Präsidenten des Berufungsgerichts aus dem Richterpool gemäß Artikel 18 zugewiesen.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Kanzlei)?
+
+**A:** Kanzlei
+
+Am Sitz des Berufungsgerichts wird eine Kanzlei eingerichtet. Sie wird vom Kanzler geleitet und nimmt die ihr durch die Satzung zugewiesenen Aufgaben wahr. Vorbehaltlich der in diesem Übereinkommen festgelegten Bedingungen und der Verfahrensordnung ist das von der Kanzlei geführte Register öffentlich.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 18 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Richterpool)?
+
+**A:** Richterpool
+
+Nach Maßgabe der Satzung wird ein Richterpool eingerichtet.
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 20 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Vorrang und Achtung des Unionsrechts)?
+
+**A:** Vorrang und Achtung des Unionsrechts
+
+Das Gericht wendet das Unionsrecht in vollem Umfang an und achtet seinen Vorrang.
+
+In 26 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 21 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Vorabentscheidungsersuchen)?
+
+**A:** Vorabentscheidungsersuchen
+
+Als gemeinsames Gericht der Vertragsmitgliedstaaten und Teil ihres Gerichtssystems arbeitet das Gericht – wie jedes nationale Gericht – mit dem Gerichtshof der Europäischen Union zur Gewährleistung der korrekten Anwendung und einheitlichen Auslegung des Unionsrechts insbesondere im Einklang mit Artikel 267 AEUV zusammen. Entscheidungen des Gerichtshofs der Europäischen Union sind für das Gericht bindend.
+
+In 26 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 22 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Haftung für durch Verstöße gegen das Unionsrecht entstandene Schäden)?
+
+**A:** Haftung für durch Verstöße gegen das Unionsrecht entstandene Schäden
+
+Die Vertragsmitgliedstaaten haften gesamtschuldnerisch für Schäden, die durch einen Verstoß des Berufungsgerichts gegen das Unionsrecht entstanden sind, gemäß dem Unionsrecht über die außervertragliche Haftung der Mitgliedstaaten für Schäden, die durch Verstöße ihrer nationalen Gerichte gegen das Unionsrecht entstanden sind.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 23 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Verantwortlichkeit der Vertragsmitgliedstaaten)?
+
+**A:** Verantwortlichkeit der Vertragsmitgliedstaaten
+
+Handlungen des Gerichts sind jedem Vertragsmitgliedstaat einzeln, einschließlich für die Zwecke der Artikel 258, 259 und 260 AEUV, und allen Vertragsmitgliedstaaten gemeinsam unmittelbar zuzurechnen.
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Rechtsquellen)?
+
+**A:** Rechtsquellen
+
+Unter uneingeschränkter Beachtung des Artikels 20 stützt das Gericht seine Entscheidungen in Rechtsstreitigkeiten, in denen es nach diesem Übereinkommen angerufen wird, auf a) das Unionsrecht einschließlich der Verordnung (EU) Nr. 1257/2012 und der Verordnung (EU) Nr. 1260/2012 7, b) dieses Übereinkommen, c) das EPÜ, d) andere internationale Übereinkünfte, die für Patente gelten und für alle Vertragsmitgliedstaaten bindend sind, und e) das nationale Recht.
+
+Hinweis: Rechtsquellen in Rangfolge: Unionsrecht, EPGÜ, EPÜ, sonstige internationale Übereinkünfte, nationales Recht (über Abs. 2 bestimmt nach Rom II/EU-Recht).
+
+In 21 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Recht auf Verbot der unmittelbaren Benutzung der Erfindung)?
+
+**A:** Recht auf Verbot der unmittelbaren Benutzung der Erfindung
+
+Ein Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung a) ein Erzeugnis, das Gegenstand des Patents ist, herzustellen, anzubieten, in Verkehr zu bringen, zu gebrauchen oder zu den genannten Zwecken einzuführen oder zu besitzen; b) ein Verfahren, das Gegenstand des Patents ist, anzuwenden, oder, falls der Dritte weiß oder hätte wissen müssen, dass die Anwendung des Verfahrens ohne Zustimmung des Patentinhabers verboten ist, zur Anwendung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anzubieten; c) ein durch ein Verfahren, das …
+
+Hinweis: Verletzungshandlungen entsprechen [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html); das EPG legt die Begriffe („Anbieten“) autonom aus (EPG-BerG Belkin/Philips).
+
+In 64 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Recht auf Verbot der mittelbaren Benutzung der Erfindung)?
+
+**A:** Recht auf Verbot der mittelbaren Benutzung der Erfindung
+
+Ein Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anderen als zur Benutzung der patentierten Erfindung berechtigten Personen Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, zur Benutzung der Erfindung in diesem Gebiet anzubieten oder zu liefern, wenn der Dritte weiß oder hätte wissen müssen, dass diese Mittel dazu geeignet und bestimmt sind, für die Benutzung der Erfindung verwendet zu werden.
+
+Hinweis: Mittelbare Verletzung wie [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html); Verwendungsbestimmung aus objektiven Umständen (EPG-BerG Onward/Niche).
+
+In 48 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Beschränkungen der Wirkungen des Patents)?
+
+**A:** Beschränkungen der Wirkungen des Patents
+
+Die Rechte aus einem Patent erstrecken sich nicht auf a) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden; b) Handlungen zu Versuchszwecken, die sich auf den Gegenstand der patentierten Erfindung beziehen; c) die Verwendung biologischen Materials zum Zwecke der Züchtung, Entdeckung oder Entwicklung anderer Pflanzensorten; d) erlaubte Handlungen nach Artikel 13 Absatz 6 der Richtlinie 2001/82/EG 8 oder Artikel 10 Absatz 6 der Richtlinie 2001/83/EG 9, im Hinblick auf alle Patente, die das Erzeugnis im Sinne einer dieser Richtlinien erfassen; e) die unmittelbare …
+
+Hinweis: Schrankenkatalog inkl. Bolar (lit. d), Landwirteprivileg, Schiffe/Luftfahrzeuge, Dekompilierung, Züchtung (lit. c).
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Recht des Vorbenutzers der Erfindung)?
+
+**A:** Recht des Vorbenutzers der Erfindung
+
+Wer in einem Vertragsmitgliedstaat ein Vorbenutzungsrecht oder ein persönliches Besitzrecht an einer Erfindung erworben hätte, wenn ein nationales Patent für diese Erfindung erteilt worden wäre, hat in diesem Vertragsmitgliedstaat die gleichen Rechte auch in Bezug auf ein Patent, das diese Erfindung zum Gegenstand hat.
+
+Hinweis: Vorbenutzungsrecht besteht nur nach dem jeweiligen nationalen Recht und nur für dessen Gebiet.
+
+In 22 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Erschöpfung der Rechte aus einem europäischen Patent)?
+
+**A:** Erschöpfung der Rechte aus einem europäischen Patent
+
+Die durch das europäische Patent verliehenen Rechte erstrecken sich nicht auf Handlungen, die ein durch das Patent geschütztes Erzeugnis betreffen, nachdem das Erzeugnis vom Patentinhaber oder mit seiner Zustimmung in der Europäischen Union in Verkehr gebracht worden ist, es sei denn, der Patentinhaber hat berechtigte Gründe, sich dem weiteren Vertrieb des Erzeugnisses zu widersetzen.
+
+In 15 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 31 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Internationale Zuständigkeit)?
+
+**A:** Internationale Zuständigkeit
+
+Die internationale Zuständigkeit des Gerichts wird im Einklang mit der Verordnung (EU) Nr. 1215/2012 oder gegebenenfalls auf Grundlage des Übereinkommens über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen (Lugano-Übereinkommen) 14 bestimmt. 14 Übereinkommen über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen, beschlossen am 30. Oktober 2007 in Lugano, mit allen nachfolgenden Änderungen.
+
+Hinweis: Internationale Zuständigkeit richtet sich nach Brüssel-Ia-VO (Art. 71a bis 71d) bzw. Lugano-Übereinkommen; das EPG ist „Gericht eines Mitgliedstaats“.
+
+In 73 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Zuständigkeit des Gerichts)?
+
+**A:** Zuständigkeit des Gerichts
+
+Das Gericht besitzt die ausschließliche Zuständigkeit für a) Klagen wegen tatsächlicher oder drohender Verletzung von Patenten und ergänzenden Schutzzertifikaten und zugehörige Klageerwiderungen, einschließlich Widerklagen in Bezug auf Lizenzen, b) Klagen auf Feststellung der Nichtverletzung von Patenten und ergänzenden Schutzzertifikaten, c) Klagen auf Erlass von einstweiligen Maßnahmen und Sicherungsmaßnahmen und einstweiligen Verfügungen, d) Klagen auf Nichtigerklärung von Patenten und Nichtigerklärung der ergänzenden Schutzzertifikate, e) Widerklagen auf Nichtigerklärung von Patenten und N …
+
+Hinweis: Abschließender Katalog der ausschließlichen Zuständigkeiten; alles andere bleibt bei nationalen Gerichten (Abs. 2).
+
+In 68 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Zuständigkeit der Kammern des Gerichts erster Instanz)?
+
+**A:** Zuständigkeit der Kammern des Gerichts erster Instanz
+
+Unbeschadet des Absatzes 7 sind die in Artikel 32 Absatz 1 Buchstaben a, c, f und g genannten Klagen zu erheben bei a) der Lokalkammer in dem Vertragsmitgliedstaat, in dessen Gebiet die tatsächliche oder drohende Verletzung erfolgt ist oder möglicherweise erfolgen wird, oder bei der Regionalkammer, an der dieser Vertragsmitgliedstaat beteiligt ist, oder b) der Lokalkammer in dem Vertragsmitgliedstaat, in dessen Gebiet der Beklagte oder, bei mehreren Beklagten, einer der Beklagten seinen Wohnsitz oder den Sitz seiner Hauptniederlassung oder – in Ermangelung derselben – seinen Geschäftssitz hat, …
+
+Hinweis: Die Klausurnorm: Verletzungsort oder Beklagtensitz (Abs. 1), Sperre paralleler Klagen (Abs. 2), drei Optionen bei Widerklage auf Nichtigerklärung (Abs. 3), Nichtigkeitsklage zur Zentralkammer (Abs. 4), Aussetzung bei EPA-Verfahren (Abs. 10).
+
+In 91 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 34 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Räumlicher Geltungsbereich von Entscheidungen)?
+
+**A:** Räumlicher Geltungsbereich von Entscheidungen
+
+Die Entscheidungen des Gerichts gelten im Falle eines europäischen Patents für das Hoheitsgebiet derjenigen Vertragsmitgliedstaaten, für die das europäische Patent Wirkung hat.
+
+Hinweis: Entscheidungen wirken für das Gebiet aller Vertragsmitgliedstaaten, für die das Patent Wirkung hat.
+
+In 62 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 41 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Verfahrensordnung)?
+
+**A:** Verfahrensordnung
+
+Die Verfahrensordnung regelt die Einzelheiten der Verfahren vor dem Gericht. Sie steht mit diesem Übereinkommen und der Satzung im Einklang.
+
+In 17 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 42 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Verhältnismäßigkeit und Fairness)?
+
+**A:** Verhältnismäßigkeit und Fairness
+
+Das Gericht führt die Verfahren auf eine ihrer Bedeutung und Komplexität angemessene Art und Weise durch.
+
+Entspricht: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Verhältnismäßigkeit und Fairness als Leitprinzipien; Umsetzung von [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)).
+
+In 25 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 44 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Elektronische Verfahren)?
+
+**A:** Elektronische Verfahren
+
+Das Gericht macht nach Maßgabe der Verfahrensordnung den bestmöglichen Gebrauch von elektronischen Verfahren, wie der elektronischen Einreichung von Parteivorbringen und Beweisantritten, sowie von Videokonferenzen.
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Öffentlichkeit der Verhandlungen)?
+
+**A:** Öffentlichkeit der Verhandlungen
+
+Die Verhandlungen sind öffentlich, es sei denn, das Gericht beschließt, soweit erforderlich, sie im Interesse einer der Parteien oder sonstiger Betroffener oder im allgemeinen Interesse der Justiz oder der öffentlichen Ordnung unter Ausschluss der Öffentlichkeit zu führen.
+
+In 67 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 46 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Parteifähigkeit)?
+
+**A:** Parteifähigkeit
+
+Jede natürliche oder juristische Person oder jede einer juristischen Person gleichgestellte Gesellschaft, die nach dem für sie geltenden nationalen Recht berechtigt ist, ein Verfahren anzustrengen, kann in Verfahren, die beim Gericht anhängig sind, Partei sein.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Parteien)?
+
+**A:** Parteien
+
+Der Patentinhaber ist berechtigt, das Gericht anzurufen.
+
+Entspricht: [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Parteifähigkeit/Klagebefugnis: Inhaber, ausschließlicher Lizenznehmer (Abs. 2), einfacher Lizenznehmer nur mit Zustimmung (Abs. 3); Nichtigkeitsklage kann „jede Person“ erheben (Abs. 6).
+
+In 79 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Vertretung)?
+
+**A:** Vertretung
+
+Die Parteien werden von Anwälten vertreten, die bei einem Gericht eines Vertragsmitgliedstaats zugelassen sind.
+
+Hinweis: Vertretung durch Anwälte oder europäische Patentanwälte mit EPLC; kein Vertretungszwang für Entscheidungsträger der Partei (EPG-BerG Suinno/Microsoft).
+
+In 61 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Verfahrenssprache vor dem Gericht erster Instanz)?
+
+**A:** Verfahrenssprache vor dem Gericht erster Instanz
+
+Verfahrenssprache vor einer Lokal- oder Regionalkammer ist eine Amtssprache der Europäischen Union, die die Amtssprache oder eine der Amtssprachen des Vertragsmitgliedstaats ist, in dessen Gebiet sich die betreffende Kammer befindet, oder die Amtssprache(n), die von den Vertragsmitgliedstaaten mit einer gemeinsamen Regionalkammer bestimmt wird/werden.
+
+Hinweis: Verfahrenssprache erster Instanz: Amtssprache der Kammer (Abs. 1), zusätzlich bestimmte EPA-Sprachen (Abs. 2), auf Vereinbarung oder Antrag die Patentsprache (Abs. 3 bis 5).
+
+In 45 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 50 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Verfahrenssprache vor dem Berufungsgericht)?
+
+**A:** Verfahrenssprache vor dem Berufungsgericht
+
+Verfahrenssprache vor dem Berufungsgericht ist die Verfahrenssprache vor dem Gericht erster Instanz.
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 51 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Weitere Sprachenregelungen)?
+
+**A:** Weitere Sprachenregelungen
+
+Alle Spruchkörper des Gerichts erster Instanz und das Berufungsgericht können auf eine Übersetzung verzichten, soweit dies angemessen erscheint.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Schriftliches Verfahren, Zwischenverfahren und mündliches Verfahren)?
+
+**A:** Schriftliches Verfahren, Zwischenverfahren und mündliches Verfahren
+
+Das Verfahren vor dem Gericht umfasst nach Maßgabe der Verfahrensordnung ein schriftliches Verfahren, ein Zwischenverfahren und ein mündliches Verfahren. Alle Verfahren werden auf flexible und ausgewogene Weise durchgeführt.
+
+Hinweis: Drei Verfahrensabschnitte: schriftliches Verfahren, Zwischenverfahren, mündliches Verfahren.
+
+In 15 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Beweismittel)?
+
+**A:** Beweismittel
+
+In den Verfahren vor dem Gericht sind insbesondere folgende Beweismittel zulässig: a) Anhörung der Parteien; b) Einholung von Auskünften; c) Vorlage von Urkunden; d) Vernehmung von Zeugen; e) Gutachten durch Sachverständige; f) Einnahme des Augenscheins; g) Vergleichstests oder Versuche; h) Abgabe einer schriftlichen eidesstattlichen Erklärung (Affidavit).
+
+In 11 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 54 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Beweislast)?
+
+**A:** Beweislast
+
+Die Beweislast für Tatsachen trägt unbeschadet des Artikels 24 Absätze 2 und 3 die Partei, die sich auf diese Tatsachen beruft.
+
+Hinweis: Beweislast trägt, wer sich auf Tatsachen beruft; Ausnahme Art. 55 (Verfahrenspatent, Beweislastumkehr).
+
+In 32 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 55 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Umkehr der Beweislast)?
+
+**A:** Umkehr der Beweislast
+
+Ist der Gegenstand eines Patents ein Verfahren zur Herstellung eines neuen Erzeugnisses, so gilt unbeschadet des Artikels 24 Absätze 2 und 3 bis zum Beweis des Gegenteils jedes identische ohne Zustimmung des Patentinhabers hergestellte Erzeugnis als nach dem patentierten Verfahren hergestellt.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 56 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Allgemeine Befugnisse des Gerichts)?
+
+**A:** Allgemeine Befugnisse des Gerichts
+
+Das Gericht kann die in diesem Übereinkommen festgelegten Maßnahmen, Verfahren und Abhilfemaßnahmen anordnen und seine Anordnungen nach Maßgabe der Verfahrensordnung von Bedingungen abhängig machen.
+
+Hinweis: Allgemeine Befugnisse: Anordnungen unter Bedingungen, Sicherheitsleistung, rechtliches Gehör vor Anordnungen zu Lasten einer Partei.
+
+In 11 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Schutz vertraulicher Informationen)?
+
+**A:** Schutz vertraulicher Informationen
+
+Das Gericht kann zum Schutz von Geschäftsgeheimnissen, personenbezogenen Daten oder sonstigen vertraulichen Informationen einer Verfahrenspartei oder eines Dritten oder zur Verhinderung eines Missbrauchs von Beweismitteln anordnen, dass die Erhebung und Verwendung von Beweisen in den vor ihm geführten Verfahren eingeschränkt oder für unzulässig erklärt werden oder der Zugang zu solchen Beweismitteln auf bestimmte Personen beschränkt wird.
+
+Entspricht: [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Schutz vertraulicher Informationen; konkretisiert in [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vertraulichkeitskreis, mindestens eine natürliche Person je Partei).
+
+In 115 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Anordnung der Beweisvorlage)?
+
+**A:** Anordnung der Beweisvorlage
+
+Auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur hinreichenden Begründung ihrer Ansprüche vorgelegt und die in der Verfügungsgewalt der gegnerischen Partei oder einer dritten Partei befindlichen Beweismittel zur Begründung ihrer Ansprüche bezeichnet hat, kann das Gericht die Vorlage dieser Beweismittel durch die gegnerische Partei oder eine dritte Partei anordnen, sofern der Schutz vertraulicher Informationen gewährleistet wird. Eine solche Anordnung darf nicht zu einer Pflicht zur Selbstbelastung führen.
+
+Entspricht: [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Anordnung der Beweisvorlage („discovery light“); konkretisiert in [R. 190 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); keine Ausforschung.
+
+In 28 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Anordnung der Beweissicherung und der Inspektion von Räumlichkeiten)?
+
+**A:** Anordnung der Beweissicherung und der Inspektion von Räumlichkeiten
+
+Auf Ersuchen des Antragstellers, der alle vernünftigerweise verfügbaren Beweismittel zur Begründung der Behauptung, dass das Patent verletzt worden ist oder verletzt zu werden droht, vorgelegt hat, kann das Gericht selbst vor Einleitung eines Verfahrens in der Sache schnelle und wirksame einstweilige Maßnahmen zur Sicherung der rechtserheblichen Beweismittel hinsichtlich der behaupteten Verletzung anordnen, sofern der Schutz vertraulicher Informationen gewährleistet wird.
+
+Entspricht: [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Beweissicherung und Besichtigung („saisie“): [R. 192 bis 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); auch ex parte; Sicherheitsleistung und Schadensersatz bei Aufhebung (Abs. 8).
+
+In 54 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 61 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Arrest)?
+
+**A:** Arrest
+
+Auf Ersuchen des Antragstellers, der alle vernünftigerweise verfügbaren Beweismittel zur Begründung der Behauptung, dass das Patent verletzt worden ist oder verletzt zu werden droht, vorgelegt hat, kann das Gericht selbst vor Einleitung eines Verfahrens in der Sache einer Partei untersagen, Vermögensgegenstände aus seinem Zuständigkeitsbereich zu verbringen oder über Vermögensgegenständen zu verfügen, unabhängig davon, ob sie sich in seinem Zuständigkeitsbereich befinden oder nicht.
+
+Entspricht: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Einstweilige Maßnahmen und Sicherungsmaßnahmen)?
+
+**A:** Einstweilige Maßnahmen und Sicherungsmaßnahmen
+
+Das Gericht kann im Wege einer Anordnung gegen einen angeblichen Verletzer oder eine Mittelsperson, deren Dienste der angebliche Verletzer in Anspruch nimmt, Verfügungen erlassen, um eine drohende Verletzung zu verhindern, die Fortsetzung der angeblichen Verletzung einstweilig und gegebenenfalls unter Androhung von Zwangsgeldern zu untersagen oder die Fortsetzung an die Stellung von Sicherheiten zu knüpfen, durch die eine Entschädigung des Rechtsinhabers gewährleistet werden soll.
+
+Entspricht: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Einstweilige Maßnahmen: „hinreichende Sicherheit“ (Abs. 4, [R. 211.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), Interessenabwägung, Dringlichkeit (R. 211.4), Sicherheitsleistung, Schadensersatz bei Aufhebung (Abs. 5).
+
+In 98 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Endgültige Verfügungen)?
+
+**A:** Endgültige Verfügungen
+
+Wird eine Patentverletzung festgestellt, so kann das Gericht gegen den Verletzer eine Verfügung erlassen, durch die die Fortsetzung der Verletzung untersagt wird. Das Gericht kann auch eine Verfügung gegen Mittelspersonen erlassen, deren Dienste von einem Dritten zwecks Verletzung eines Patents in Anspruch genommen werden.
+
+Entspricht: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Unterlassungsanordnung gegen Verletzer und Mittelspersonen; Zwangsgeld; nicht auf bereits begangene Handlungen beschränkt (EPG-BerG Dyson/Dreame).
+
+In 94 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Abhilfemaßnahmen im Rahmen von Verletzungsverfahren)?
+
+**A:** Abhilfemaßnahmen im Rahmen von Verletzungsverfahren
+
+Das Gericht kann auf Antrag des Antragstellers anordnen, dass in Bezug auf Erzeugnisse, die nach seinen Feststellungen ein Patent verletzen, und gegebenenfalls in Bezug auf Materialien und Geräte, die vorwiegend zur Schaffung oder Herstellung dieser Erzeugnisse verwendet wurden, unbeschadet etwaiger Schadensersatzansprüche der geschädigten Partei aus der Verletzung sowie ohne Entschädigung irgendwelcher Art geeignete Maßnahmen getroffen werden.
+
+Entspricht: [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+In 39 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Entscheidung über die Gültigkeit eines Patents)?
+
+**A:** Entscheidung über die Gültigkeit eines Patents
+
+Das Gericht entscheidet über die Gültigkeit eines Patents auf der Grundlage einer Klage auf Nichtigerklärung oder einer Widerklage auf Nichtigerklärung.
+
+Hinweis: Nichtigkeitsgründe nur nach Art. 138 Abs. 1 und Art. 139 Abs. 2 EPÜ; teilweise Nichtigerklärung (Abs. 3); Wirkung ex tunc (Abs. 4).
+
+In 69 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Befugnis, die Erteilung einer Auskunft anzuordnen)?
+
+**A:** Befugnis, die Erteilung einer Auskunft anzuordnen
+
+Das Gericht kann auf einen begründeten und die Verhältnismäßigkeit wahrenden Antrag des Antragstellers hin nach Maßgabe der Verfahrensordnung anordnen, dass der Verletzer dem Antragsteller über Folgendes Auskunft erteilt: a) Ursprung und Vertriebswege der verletzenden Erzeugnisse oder Verfahren, b) die erzeugten, hergestellten, ausgelieferten, erhaltenen oder bestellten Mengen und die Preise, die für die verletzenden Erzeugnisse gezahlt wurden und c) die Identität aller an der Herstellung oder dem Vertrieb von verletzenden Erzeugnissen oder an der Anwendung des verletzenden Verfahrens beteilig …
+
+Entspricht: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+In 83 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Zuerkennung von Schadenersatz)?
+
+**A:** Zuerkennung von Schadenersatz
+
+Das Gericht ordnet auf Antrag der geschädigten Partei an, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Patentverletzungshandlung vornahm, der geschädigten Partei zum Ausgleich des von ihr wegen der Verletzung erlittenen tatsächlichen Schadens angemessenen Schadenersatz zu leisten hat.
+
+Entspricht: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Schadensersatz nur bei Verschulden (wusste oder hätte wissen müssen); Berechnung: Schaden, Verletzergewinn oder Lizenzanalogie (Abs. 3); kein Strafschadensersatz (Abs. 2).
+
+In 54 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Kosten des Rechtsstreits)?
+
+**A:** Kosten des Rechtsstreits
+
+Die Kosten des Rechtsstreits und sonstigen Kosten der obsiegenden Partei werden in der Regel, soweit sie zumutbar und angemessen sind, bis zu einer gemäß der Verfahrensordnung festgelegten Obergrenze von der unterlegenen Partei getragen, sofern Billigkeitsgründe dem nicht entgegenstehen.
+
+Entspricht: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Hinweis: Kosten trägt die unterliegende Partei bis zur Obergrenze; Prozesskostensicherheit nur gegen den Antragsteller (Abs. 4, EPG-BerG Hefei/Grundfos).
+
+In 294 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Berufung)?
+
+**A:** Berufung
+
+Eine Partei, die mit ihren Anträgen ganz oder teilweise unterlegen ist, kann beim Berufungsgericht innerhalb von zwei Monaten ab dem Tag, an dem die Entscheidung zugestellt worden ist, Berufung gegen eine Entscheidung des Gerichts erster Instanz einlegen.
+
+Hinweis: Berufung gegen Endentscheidungen (Abs. 1, zwei Monate) und bestimmte Anordnungen (Abs. 2 lit. a, 15 Tage); sonstige Anordnungen nur mit Zulassung (Abs. 2 lit. b).
+
+In 166 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Wirkung der Berufung)?
+
+**A:** Wirkung der Berufung
+
+Die Berufung hat keine aufschiebende Wirkung, sofern das Berufungsgericht auf begründeten Antrag einer der Parteien nicht etwas anderes beschließt. In der Verfahrensordnung wird sichergestellt, dass ein solcher Beschluss unverzüglich gefasst wird.
+
+Hinweis: Berufung hat grundsätzlich keine aufschiebende Wirkung (Ausnahme: Nichtigkeitsklage); Anordnung auf Antrag nach [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf).
+
+In 45 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Entscheidung über die Berufung und Zurückverweisung)?
+
+**A:** Entscheidung über die Berufung und Zurückverweisung
+
+Ist eine Berufung gemäß Artikel 73 begründet, so hebt das Berufungsgericht die Entscheidung des Gerichts erster Instanz auf und erlässt eine Endentscheidung. In Ausnahmefällen und im Einklang mit der Verfahrensordnung kann das Berufungsgericht die Sache an das Gericht erster Instanz zur Entscheidung zurückverweisen.
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 76 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Entscheidungsgrundlage und rechtliches Gehör)?
+
+**A:** Entscheidungsgrundlage und rechtliches Gehör
+
+Das Gericht entscheidet nach Maßgabe der von den Parteien gestellten Anträge und darf nicht mehr zusprechen, als beantragt ist.
+
+Hinweis: Dispositionsmaxime (Abs. 1) und Beibringungsgrundsatz (Abs. 2): Das Gericht entscheidet nur über die gestellten Anträge und nur auf Grundlage des Parteivorbringens.
+
+In 57 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Veröffentlichung von Entscheidungen)?
+
+**A:** Veröffentlichung von Entscheidungen
+
+Das Gericht kann auf Antrag des Antragstellers und auf Kosten des Verletzers geeignete Maßnahmen zur Verbreitung von Informationen über die betreffende Entscheidung des Gerichts einschließlich der Bekanntmachung der Entscheidung sowie ihrer vollständigen oder teilweisen Veröffentlichung in den Medien anordnen.
+
+Entspricht: [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+In 27 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 81 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Wiederaufnahme des Verfahrens)?
+
+**A:** Wiederaufnahme des Verfahrens
+
+Nach einer Endentscheidung des Gerichts kann das Berufungsgericht ausnahmsweise einem Antrag auf Wiederaufnahme des Verfahrens stattgeben, wenn a) die die Wiederaufnahme beantragende Partei einer Tatsache von entscheidender Bedeutung gewahr wird, die der die Wiederaufnahme beantragenden Partei vor Verkündung der Entscheidung unbekannt war; einem solchen Antrags darf nur wegen einer Handlung stattgegeben werden, die durch eine Endentscheidung eines nationalen Gerichts als Straftat qualifiziert wurde, oder b) ein grundlegender Verfahrensfehler vorliegt, insbesondere wenn einem nicht vor Gericht  …
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Vollstreckung der Entscheidungen und Anordnungen)?
+
+**A:** Vollstreckung der Entscheidungen und Anordnungen
+
+Die Entscheidungen und Anordnungen des Gerichts sind in allen Vertragsmitgliedstaaten vollstreckbar. Eine Anordnung zur Vollstreckung einer Entscheidung wird der Entscheidung des Gerichts beigefügt.
+
+Hinweis: Vollstreckung nach dem Recht des Vollstreckungsstaats, Anordnung des Gerichts gilt als vollstreckbarer Titel; Zwangsgeld an das Gericht (Abs. 4).
+
+In 200 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Übergangsregelung)?
+
+**A:** Übergangsregelung
+
+Während einer Übergangszeit von sieben Jahren nach dem Inkrafttreten dieses Übereinkommens können Klagen wegen Verletzung bzw. auf Nichtigerklärung eines europäischen Patents oder Klagen wegen Verletzung bzw. auf Nichtigerklärung eines ergänzenden Schutzzertifikats, das zu einem durch ein europäisches Patent geschützten Erzeugnis ausgestellt worden ist, weiterhin bei nationalen Gerichten oder anderen zuständigen nationalen Behörden erhoben werden.
+
+Hinweis: Übergangszeit sieben Jahre (verlängerbar): Wahlrecht für nationale Gerichte (Abs. 1) und Opt-out (Abs. 3), Rücknahme des Opt-out (Abs. 4).
+
+In 52 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 87 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Revision des Übereinkommens)?
+
+**A:** Revision des Übereinkommens
+
+Entweder sieben Jahre nach Inkrafttreten dieses Übereinkommens oder sobald 2000 Verletzungsverfahren vom Gericht entschieden worden sind – je nachdem, was später eintritt – und sofern erforderlich in der Folge in regelmäßigen Abständen, führt der Verwaltungsausschuss eine eingehende Konsultation der Nutzer des Patentsystems durch, die folgenden Aspekten gewidmet ist: Arbeitsweise, Effizienz und Kostenwirksamkeit des Gerichts sowie Vertrauen der Nutzer des Patentsystems in die Qualität der Entscheidungen des Gerichts. Auf Grundlage dieser Konsultation und einer Stellungnahme des Gerichts kann d …
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [Art. 89 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Inkrafttreten)?
+
+**A:** Inkrafttreten
+
+Dieses Übereinkommen tritt am 1. Januar 2014 in Kraft oder am ersten Tag des vierten Monats nach Hinterlegung der dreizehnten Ratifikations- oder Beitrittsurkunde gemäß Artikel 84, einschließlich der Hinterlegung durch die drei Mitgliedstaaten, in denen es im Jahr vor dem Jahr der Unterzeichnung des Übereinkommens die meisten geltenden europäischen Patente gab, oder am ersten Tag des vierten Monats nach dem Inkrafttreten der Änderungen der Verordnung (EU) Nr. 1215/2012, die das Verhältnis zwischen jener Verordnung und diesem Übereinkommen betreffen, je nachdem, welcher Zeitpunkt der späteste i …
+
+Hinweis: Inkrafttreten am 1. Juni 2023 (nach Ratifikation durch Deutschland); Voraussetzung: 13 Staaten inkl. der drei mit den meisten EP-Wirkungen im Jahr vor der Unterzeichnung.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
+**F:** Was regelt [R. 1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anwendung der Verfahrensordnung und allgemeine Auslegungsgrundsätze)?
+
+**A:** Anwendung der Verfahrensordnung und allgemeine Auslegungsgrundsätze
+
+Das Gericht führt das Verfahren in Übereinstimmung mit dem Übereinkommen, der Satzung und dieser Verfahrensordnung einschließlich ihrer Präambel und der darin niedergelegten Grundsätze. Im Falle eines Widerspruchs zwischen den Bestimmungen des Übereinkommens und/oder der Satzung einerseits und der Verfahrensordnung andererseits haben die Bestimmungen des Übereinkommens und/oder der Satzung Vorrang.
+
+Bezug zum Übereinkommen: [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 18 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einreichung von Unterlagen)?
+
+**A:** Einreichung von Unterlagen
+
+Schriftsätze und andere Unterlagen sind zu unterzeichnen und bei der Kanzlei oder betreffenden Nebenstelle in elektronischer Form einzureichen. Die Parteien sind gehalten, die online verfügbaren amtlichen Formulare zu verwenden. Der Eingang der Unterlagen wird durch die automatische Ausgabe einer elektronischen Quittung bestätigt, auf der Datum und Ortszeit des Eingangs angegeben sind.
+
+Bezug zum Übereinkommen: [Art. 44 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 20 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einreichung eines Antrags auf Inanspruchnahme der Ausnahmeregelung und Rücktritt von der Inanspruchnahme der Ausnahmeregelung)?
+
+**A:** Einreichung eines Antrags auf Inanspruchnahme der Ausnahmeregelung und Rücktritt von der Inanspruchnahme der Ausnahmeregelung
+
+Der Inhaber eines europäischen Patents (einschließlich eines abgelaufenen europäischen Patents) oder der Anmelder einer veröffentlichten Anmeldung eines europäischen Patents (in Regel 5 im Folgenden „Anmeldung“), der dieses Patent oder diese Anmeldung von der ausschließlichen Zuständigkeit des Gerichts gemäß Artikel 83 Absatz 3 des Übereinkommens ausnehmen will, hat bei der Kanzlei einen Antrag zu stellen (In Regel 5 im Folgenden „Antrag auf Inanspruchnahme der Ausnahmeregelung“). (a) Gehört das Patent oder die Anmeldung zwei oder mehr Inhabern oder Anmeldern, ist der Antrag auf Inanspruchnahm …
+
+Bezug zum Übereinkommen: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Opt-out: Antrag beim Kanzler für alle Inhaber, wirksam mit Eintragung; unwirksam, wenn bereits Klage beim EPG anhängig war (R. 5.6); Rücknahme nur, wenn noch keine nationale Klage (R. 5.8).
+
+In 36 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 5A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Entfernung eines unbefugten Antrags auf Inanspruchnahme der Ausnahmeregelung oder eines unbefugten Rücktritts von der Inanspruchnahme der Ausnahmeregelung)?
+
+**A:** Antrag auf Entfernung eines unbefugten Antrags auf Inanspruchnahme der Ausnahmeregelung oder eines unbefugten Rücktritts von der Inanspruchnahme der Ausnahmeregelung
+
+Unbeschadet der Einreichung eines Antrags auf Inanspruchnahme der Ausnahmeregelung gemäß Regel 5 kann der Inhaber eines europäischen Patents oder der Anmelder einer veröffentlichten Anmeldung eines europäischen Patents oder der Inhaber eines ergänzenden Schutzzertifikats, bezüglich dessen ein Antrag auf Inanspruchnahme der Ausnahmeregelung oder auf Rücktritt von der Inanspruchnahme der Ausnahmeregelung in das Register eingetragen wird, einen mit Gründen versehenen Antrag auf Entfernung der Eintragung eines unbefugten Antrags auf Inanspruchnahme der Ausnahmeregelung oder eines Rücktritts von de …
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Partei und Parteivertreter)?
+
+**A:** Partei und Parteivertreter
+
+Eine Partei muss gemäß Artikel 48 des Übereinkommens vertreten sein, sofern diese Verfahrensordnung nichts anderes vorsieht [Regeln 5, 88.4 und 378.5].
+
+Bezug zum Übereinkommen: [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 46 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Befugnisse des Gerichts)?
+
+**A:** Befugnisse des Gerichts
+
+Das Gericht kann zu jedem Zeitpunkt des Verfahrens von Amts wegen oder auf einen mit einer Begründung versehenen Antrag einer Partei prozessuale Maßnahmen anordnen, also beispielsweise verfügen, dass eine Partei innerhalb festzusetzender Fristen bestimmte Schritte unternimmt, Fragen beantwortet oder Klarstellungen oder Beweismittel liefert.
+
+Hinweis: Fallmanagement-Generalklausel: Fristverlängerung (Abs. 3) nur ausnahmsweise; das Gericht kann Vorbringen als unbeachtlich behandeln (Abs. 2).
+
+In 270 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 10 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Verfahrensabschnitte (Verfahren inter partes))?
+
+**A:** Verfahrensabschnitte (Verfahren inter partes)
+
+Das Verfahren vor dem Gericht erster Instanz umfasst die folgenden Abschnitte: (a) ein schriftliches Verfahren; (b) ein Zwischenverfahren, während dessen auch eine Zwischenanhörung mit den Parteien stattfinden kann; (c) ein mündliches Verfahren, das, vorbehaltlich der Regeln 116.1 und 117, eine mündliche Verhandlung der Parteien einschließt, sofern das Gericht nicht mit Zustimmung der Parteien auf eine mündliche Verhandlung verzichtet; (d) ein Schadensersatzverfahren, welches ein Verfahren zur Offenlegung der Bücher beinhalten kann; (e) ein Kostenfestsetzungsverfahren.
+
+Bezug zum Übereinkommen: [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 12 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Austausch von Schriftsätzen (Verletzungsklage))?
+
+**A:** Austausch von Schriftsätzen (Verletzungsklage)
+
+Das schriftliche Verfahren umfasst: (a) die Einreichung einer Klageschrift (durch den Kläger) [Regel 13], (b) die Einreichung einer Klageerwiderung (durch den Beklagten) [Regeln 23 und 24] sowie, optional, (c) die Einreichung einer Replik auf die Klageerwiderung (durch den Kläger) [Regel 29(b)] und (d) die Einreichung einer Duplik (durch den Beklagten) [Regel 29(c)].
+
+In 11 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 13 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt der Klageschrift)?
+
+**A:** Inhalt der Klageschrift
+
+Der Kläger hat bei der von ihm gewählten Kammer [Artikel 33 des Übereinkommens] eine Klageschrift einzureichen, die Folgendes enthalten muss: (a) den Namen des Klägers und, ist der Kläger eine juristische Person, deren eingetragenen Sitz und den Namen des Klägervertreters, (b) den Namen der Partei, gegen die sich die Klage richtet (der Beklagte), und, ist der Beklagte eine juristische Person, deren eingetragenen Sitz), (c) die postalische und elektronische Adresse für die Zustellung an den Kläger und die Namen der Zustellungsbevollmächtigten, (d) die postalische und, soweit verfügbar, elektron …
+
+Hinweis: Klageschrift: Inhalt lit. a bis q, insbesondere Kammerwahl (i), Angriffsmerkmale (m), Beweismittel (n); Anlagen sind gleichzeitig hochzuladen (R. 13.2).
+
+In 46 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 14 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Sprachenverwendung nach Artikel 49 Absätze 1 und 2 des Übereinkommens)?
+
+**A:** Sprachenverwendung nach Artikel 49 Absätze 1 und 2 des Übereinkommens
+
+Unbeschadet des Artikels 49 Absätze 3 bis 6 des Übereinkommens und vorbehaltlich des Absatzes 2 sowie der Regeln 271.7 und 321 bis 323 sind die Verfahren zu führen: (a) in der Amtssprache oder einer der Amtssprachen, die gemäß Artikel 49 Absatz 1 des Übereinkommens als Verfahrenssprachen bestimmt sind, oder (b) in einer Sprache, die gemäß Artikel 49 Absatz 2 des Übereinkommens durch einen Vertragsmitgliedstaat als Verfahrenssprache bestimmt ist.
+
+In 12 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 15 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Gebühr für die Verletzungsklage)?
+
+**A:** Gebühr für die Verletzungsklage
+
+Der Kläger hat die Festgebühr und gegebenenfalls die streitwertabhängige Gebühr für die Verletzungsklage gemäß Teil 6 zu entrichten.
+
+Bezug zum Übereinkommen: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 36 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 70 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 71 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 16 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Prüfung der Formerfordernisse der Klageschrift)?
+
+**A:** Prüfung der Formerfordernisse der Klageschrift
+
+Die Kanzlei prüft so bald wie möglich, ob das betreffende Patent Gegenstand einer Inanspruchnahme der Ausnahmeregelung gemäß Artikel 83 Absatz 3 des Übereinkommens und Regel 5 ist. Im Falle einer Inanspruchnahme der Ausnahmeregelung unterrichtet die Kanzlei so bald wie möglich den Kläger, der die Klageschrift zurücknehmen oder gegebenenfalls ändern kann.
+
+In 9 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 17 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Eintragung in das Register und Zuweisung (Gericht erster Instanz, Verletzungsklage))?
+
+**A:** Eintragung in das Register und Zuweisung (Gericht erster Instanz, Verletzungsklage)
+
+Sind die Anforderungen der Regel 16.2 oder 16.3 erfüllt, (a) trägt die Kanzlei so bald wie möglich das Datum des Eingangs der Klageschrift ein und teilt der Akte ein Aktenzeichen zu, (b) nimmt die Kanzlei das Verfahren so bald wie möglich in das Register auf und (c) unterrichtet die Kanzlei den Kläger so bald wie möglich über das Aktenzeichen und das Eingangsdatum.
+
+Bezug zum Übereinkommen: [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 18 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Bestimmung des Berichterstatters)?
+
+**A:** Bestimmung des Berichterstatters
+
+Der Vorsitzende Richter des Spruchkörpers, dem die Klage zugewiesen wurde [Regel 17.2] bestimmt einen rechtlich qualifizierten Richter des Spruchkörpers als Berichterstatter. Der Vorsitzende Richter kann sich selbst als Berichterstatter bestimmen. Die Kanzlei teilt dem Kläger und dem Beklagten so bald wie möglich mit, wer der Berichterstatter ist.
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 19 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einspruch)?
+
+**A:** Einspruch
+
+Der Beklagte kann innerhalb eines Monats nach Zustellung der Klageschrift einen Einspruch erheben betreffend (a) die Zuständigkeit des Gerichts, einschließlich der Einwendung, dass eine Inanspruchnahme der Ausnahmeregelung nach Regel 5 Anwendung auf das streitgegenständliche Patent findet; (b) die Zuständigkeit der vom Kläger angegebenen Kammer [Regel 13.1(i)]; (c) die Sprache der Klageschrift [Regel 14].
+
+Hinweis: Einspruch (Preliminary objection) binnen eines Monats; abschließender Katalog (Zuständigkeit, Kammer, Sprache); Versäumnis = Anerkennung (Abs. 7).
+
+In 183 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 20 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Entscheidung oder Anordnung aufgrund eines Einspruchs)?
+
+**A:** Entscheidung oder Anordnung aufgrund eines Einspruchs
+
+Der Berichterstatter entscheidet so bald wie möglich nach Ablauf der in Regel 19.5 genannten Frist über den Einspruch. Der Berichterstatter gewährt den Parteien rechtliches Gehör. Die Entscheidung enthält Hinweise an die Parteien und die Kanzlei bezüglich des nächsten Verfahrensschrittes.
+
+In 75 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 21 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Berufung gegen eine Entscheidung oder Anordnung aufgrund eines Einspruchs)?
+
+**A:** Berufung gegen eine Entscheidung oder Anordnung aufgrund eines Einspruchs
+
+Gegen eine Entscheidung des Berichterstatters, dem Einspruch stattzugeben, kann gemäß Regel 220.1(a) Berufung eingelegt werden. Gegen eine Entscheidung des Berichterstatters, den Einspruch zurückzuweisen, kann nur gemäß Regel 220.2 Berufung eingelegt werden.
+
+In 55 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 23 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einreichung der Klageerwiderung)?
+
+**A:** Einreichung der Klageerwiderung
+
+Der Beklagte hat die Klageerwiderung innerhalb von drei Monaten nach Zustellung der Klageschrift einzureichen.
+
+Hinweis: Klageerwiderung drei Monate nach Zustellung; ist die Nichtigkeit einzuwenden, muss die Widerklage darin enthalten sein (R. 25).
+
+In 38 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 24 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt der Klageerwiderung)?
+
+**A:** Inhalt der Klageerwiderung
+
+Die Klageerwiderung muss enthalten: (a) die Namen des Beklagten und des Beklagtenvertreters, (b) die postalische und elektronische Adresse für die Zustellung an den Beklagten und die Namen und Adressen der Zustellungsbevollmächtigten, (c) das Aktenzeichen, (d) die Angabe, ob der Beklagte einen vorläufigen Einspruch [Regel 19] eingelegt hat, (e) die vorgebrachten Tatsachen, ggf. einschließlich des Bestreitens vom Kläger vorgetragener Tatsachen, (f) die vorgebrachten Beweismittel [Regel 170.1], soweit verfügbar, sowie alle weiteren angebotenen Beweismittel, (g) die Begründung, warum die Klage ab …
+
+In 11 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Widerklage auf Nichtigerklärung)?
+
+**A:** Widerklage auf Nichtigerklärung
+
+Sofern die Klageerwiderung die Behauptung umfasst, dass das angeblich verletzte Patent ungültig ist, muss die Klageerwiderung eine Widerklage auf Nichtigerklärung des Patents gegen den Inhaber des Patents in Übereinstimmung mit Regel 42 enthalten. Die Widerklage auf Nichtigerklärung muss enthalten: (a) die Angabe, in welchem Umfang die Nichtigerklärung des Patents beantragt wird, (b) einen oder mehrere Nichtigkeitsgründe, welche soweit wie möglich durch rechtliche Ausführungen zu stützen sind, und gegebenenfalls eine Erläuterung zu der vom Beklagten vorgeschlagenen Auslegung des Patentanspruch …
+
+In 50 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 29 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einreichung der Erwiderung auf die Widerklage auf Nichtigerklärung, Replik auf die Erwiderung und Duplik auf die Replik)?
+
+**A:** Einreichung der Erwiderung auf die Widerklage auf Nichtigerklärung, Replik auf die Erwiderung und Duplik auf die Replik
+
+(a) Innerhalb von zwei Monaten nach Zustellung einer Klageerwiderung, die eine Widerklage auf Nichtigerklärung enthält, hat der Kläger eine Erwiderung auf die Widerklage auf Nichtigerklärung zusammen mit einer Replik auf die Klageerwiderung und gegebenenfalls einem Antrag auf Änderung des Patents gemäß Regel 30 einzureichen. (b) Innerhalb von zwei Monaten nach Zustellung einer Klageerwiderung, die keine Widerklage auf Nichtigerklärung enthält, kann der Kläger eine Replik auf die Klageerwiderung einreichen. (c) Innerhalb eines Monats nach Zustellung einer Replik auf die Klageerwiderung, die kei …
+
+In 41 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 29A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt der Erwiderung auf die Widerklage)?
+
+**A:** Inhalt der Erwiderung auf die Widerklage
+
+Die Erwiderung auf die Widerklage auf Nichtigerklärung muss enthalten: (a) die vorgebrachten Tatsachen, einschließlich des Bestreitens der vom Beklagten vorgebrachten Tatsachen, (b) die vorgebrachten Beweismittel [Regel 170.1], soweit verfügbar, sowie alle weiteren angebotenen Beweismittel, (c) die Begründung, warum die Widerklage auf Nichtigerklärung abgewiesen werden soll, einschließlich rechtlicher Ausführungen sowie aller Gründe dafür, dass abhängige Ansprüche des Patents unabhängig rechtsgültig sind, (d) die Angabe aller Anordnungen, die der Kläger und der Inhaber während der Zwischenanhö …
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 30 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Änderung des Patents)?
+
+**A:** Antrag auf Änderung des Patents
+
+Die Erwiderung auf die Widerklage auf Nichtigerklärung kann einen Antrag des Patentinhabers auf Änderung des Patents enthalten, der Folgendes enthalten muss: (a) die vorgeschlagenen Änderungen der Ansprüche des betreffenden Patentes und/oder der Beschreibung, einschließlich, wo zutreffend und angebracht, einen oder mehrere alternative Patentansprüche (Hilfsanträge) in der Sprache, in der das Patent erteilt wurde; wenn die Verfahrenssprache [Regel 14.3] nicht die Sprache ist, in der das Patent erteilt wurde, muss der Inhaber eine Übersetzung der vorgeschlagenen Änderungen in die Verfahrenssprac …
+
+Hinweis: Änderung des Patents: Hilfsanträge in angemessener Zahl (Abs. 1 lit. c); spätere Änderungen nur mit Erlaubnis (Abs. 2).
+
+In 115 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 32 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einreichung der Erwiderung auf den Antrag auf Änderung des Patents, Replik auf die Erwiderung und Duplik auf die Replik)?
+
+**A:** Einreichung der Erwiderung auf den Antrag auf Änderung des Patents, Replik auf die Erwiderung und Duplik auf die Replik
+
+Innerhalb von zwei Monaten nach Zustellung des Antrags auf Änderung des Patents hat der Beklagte eine Erwiderung auf den Antrag auf Änderung des Patents einzureichen und darzulegen, ob er dem Antrag auf Änderung des Patents entgegen tritt, und in diesem Fall darzulegen, warum (a) die vorgeschlagenen Änderungen nicht zulässig sind und (b) das Patent nicht wie beantragt aufrechterhalten werden kann.
+
+In 21 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 37 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anwendung von Artikel 33 Absatz 3 des Übereinkommens)?
+
+**A:** Anwendung von Artikel 33 Absatz 3 des Übereinkommens
+
+Der Spruchkörper entscheidet so bald wie möglich nach Abschluss des schriftlichen Verfahrens durch Anordnung, wie in Bezug auf die Anwendung von Artikel 33 Absatz 3 des Übereinkommens zu verfahren ist. Den Parteien ist rechtliches Gehör zu gewähren [Regel 264]. Der Spruchkörper legt in seiner Anordnung die Gründe für seine Entscheidung kurz dar.
+
+Hinweis: Entscheidung der Lokalkammer über die drei Optionen des [Art. 33 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) nach Abschluss des schriftlichen Verfahrens.
+
+In 49 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 42 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Klage gegen den Patentinhaber)?
+
+**A:** Klage gegen den Patentinhaber
+
+Jede Klage auf Nichtigerklärung eines Patents ist gegen den Inhaber des Patents zu richten.
+
+Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 17 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 43 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Austausch von Schriftsätzen (Klage auf Nichtigerklärung))?
+
+**A:** Austausch von Schriftsätzen (Klage auf Nichtigerklärung)
+
+Das schriftliche Verfahren umfasst: (a) die Einreichung einer Klage auf Nichtigerklärung (durch den Kläger) [Regel 44] und (b) die Einreichung einer Erwiderung auf die Nichtigkeitsklage (durch den Beklagten) [Regel 49] sowie optional (c) die Einreichung einer Replik auf die Erwiderung auf die Nichtigkeitsklage (durch den Kläger) [Regel 51], (d) die Einreichung einer Duplik auf die Replik (durch den Beklagten) [Regel 52].
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 44 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt der Klage auf Nichtigerklärung)?
+
+**A:** Inhalt der Klage auf Nichtigerklärung
+
+Vorbehaltlich des Punktes (b) hat der Kläger die Klage auf Nichtigerklärung bei der Kanzlei nach Maßgabe von Artikel 7 Absatz 2 des Übereinkommens und Anhang II zum Übereinkommen einzureichen. Die Klage auf Nichtigerklärung muss enthalten: (a) die Angaben gemäß Regel 13.1(a) bis (d) und (g), (h), (b) soweit die Parteien vereinbart haben, die Klage gemäß Artikel 33 Absatz 7 des Übereinkommens vor einer Lokal- oder Regionalkammer zu erheben, die Angabe der Kammer, vor der die Klage verhandelt werden soll, zusammen mit dem Nachweis des Einverständnisses des Beklagten, (c) gegebenenfalls die Angab …
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 48 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einspruch)?
+
+**A:** Einspruch
+
+Regel 19.1 bis .3 und .5 bis .7 sowie die Regeln 20 und 21 gelten entsprechend.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 49 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einreichung der Erwiderung auf die Nichtigkeitsklage)?
+
+**A:** Einreichung der Erwiderung auf die Nichtigkeitsklage
+
+Der Beklagte hat die Erwiderung auf die Nichtigkeitsklage innerhalb von zwei Monaten nach Zustellung der Klage auf Nichtigerklärung einzureichen.
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 50 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt der Erwiderung auf die Nichtigkeitsklage und Verletzungswiderklage)?
+
+**A:** Inhalt der Erwiderung auf die Nichtigkeitsklage und Verletzungswiderklage
+
+Die Erwiderung auf die Nichtigkeitsklage muss die in Regel 24(a) bis (c) bezeichneten Angaben enthalten. Regel 29A(a) bis (d) und (f) gilt entsprechend.
+
+In 18 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Aufhebung einer Entscheidung des Amtes, einen Antrag auf einheitliche Wirkung abzulehnen)?
+
+**A:** Antrag auf Aufhebung einer Entscheidung des Amtes, einen Antrag auf einheitliche Wirkung abzulehnen
+
+Der Inhaber eines Patents, dessen Antrag auf einheitliche Wirkung vom Amt abgelehnt wurde, hat innerhalb von drei Wochen nach Zustellung der Entscheidung des Europäischen Patentamts bei der Kanzlei nach Maßgabe von Artikel 7 Abs. 2 des Übereinkommens und Anhang II zum Übereinkommen in der Sprache, in der das Patent erteilt wurde, einen Antrag auf Aufhebung der Entscheidung des Amtes einzureichen.
+
+In 7 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 101 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Rolle des Berichterstatters (Verfahrensleitung))?
+
+**A:** Rolle des Berichterstatters (Verfahrensleitung)
+
+Der Berichterstatter trifft während des Zwischenverfahrens alle notwendigen Vorbereitungen für die mündliche Verhandlung. Insbesondere kann er, sofern angebracht und vorbehaltlich des Mandats des Spruchkörpers, eine Zwischenanhörung mit den Parteien abhalten, auch mehrmalig, und die in Regel 334 vorgesehenen Befugnisse ausüben.
+
+Bezug zum Übereinkommen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 43 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 102 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Verweisung an den Spruchkörper)?
+
+**A:** Verweisung an den Spruchkörper
+
+Der Berichterstatter kann jede Angelegenheit zur Entscheidung an den Spruchkörper verweisen. Der Spruchkörper kann jede Entscheidung oder Anordnung des Berichterstatters oder die Führung des Zwischenverfahrens von Amts wegen prüfen.
+
+In 98 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 103 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vorbereitung der Zwischenanhörung)?
+
+**A:** Vorbereitung der Zwischenanhörung
+
+Unabhängig davon, ob der Berichterstatter beschließt, eine Zwischenanhörung abzuhalten, kann der Berichterstatter die Parteien insbesondere dazu auffordern, innerhalb festzusetzender Fristen (a) bestimmte Punkte weiter zu präzisieren; (b) konkrete Fragen zu beantworten; (c) Beweismittel vorzulegen; (d) bestimmte Unterlagen einzureichen, einschließlich von den Parteien erstellter Übersichten über die Anträge, die bei der Zwischenanhörung jeweils gestellt werden sollen. Der Berichterstatter unterrichtet die betreffende Partei gleichzeitig darüber, dass eine Versäumnisentscheidung nach Regel 355  …
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 104 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Ziel der Zwischenanhörung)?
+
+**A:** Ziel der Zwischenanhörung
+
+Die Zwischenanhörung soll den Berichterstatter in die Lage versetzen, (a) die wichtigsten Punkte zu identifizieren und festzustellen, welche maßgeblichen Tatsachen streitig sind; (b) gegebenenfalls die Haltung der Parteien zu diesen Punkten und Tatsachen zu klären; (c) einen Zeitplan für den weiteren Verlauf des Verfahrens zu erstellen; (d) mit den Parteien die Möglichkeiten einer Streitbeilegung oder Nutzung des Zentrums zu erörtern; (e) gegebenenfalls Anordnungen hinsichtlich weiterer Schriftsätze, Unterlagen, Sachverständiger (einschließlich gerichtlicher Sachverständiger), Versuchen, Inspe …
+
+Bezug zum Übereinkommen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 29 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 105 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Ablauf der Zwischenanhörung)?
+
+**A:** Ablauf der Zwischenanhörung
+
+Sofern möglich sollte die Zwischenanhörung per Telefon- oder Videokonferenz erfolgen.
+
+In 53 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 108 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Ladung zur mündlichen Verhandlung)?
+
+**A:** Ladung zur mündlichen Verhandlung
+
+Der Berichterstatter lädt die Parteien zur mündlichen Verhandlung, die an dem/den gemäß den Regeln 28 und/oder 41(c) und 104(h) bestimmten Termin/en vor dem Spruchkörper stattfindet. Wurde kein Termin/wurden keine Termine bestimmt, bestimmt der Berichterstatter einen Termin für die mündliche Verhandlung. Die Ladungsfrist beträgt mindestens zwei Monate, sofern die Parteien sich nicht auf eine kürzere Frist einigen.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 109 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Simultanverdolmetschung der mündlichen Verhandlung)?
+
+**A:** Simultanverdolmetschung der mündlichen Verhandlung
+
+Spätestens einen Monat vor der mündlichen Verhandlung, einschließlich etwaiger gesonderter Vernehmungen von Zeugen und Sachverständigen, kann eine Partei einen Antrag auf Simultanverdolmetschung stellen, der Folgendes enthalten muss: (a) die Angabe der Sprache, in die oder aus der die Partei während der mündlichen Verhandlung eine Simultanverdolmetschung beantragt; (b) eine Begründung des Antrags; (c) das betreffende technische Fachgebiet; (d) alle sonstigen Informationen, die für den Antrag von Bedeutung sind.
+
+Bezug zum Übereinkommen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 51 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 23 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 111 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Rolle des Vorsitzenden Richters (Verfahrensleitung))?
+
+**A:** Rolle des Vorsitzenden Richters (Verfahrensleitung)
+
+Der Vorsitzende Richter (a) verfügt über alle Befugnisse zur Sicherstellung eines fairen, geregelten und effizienten mündlichen Verfahrens und (b) stellt sicher, dass das Verfahren am Ende der mündlichen Verhandlung in der Hauptsache entscheidungsreif ist.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 112 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Durchführung der mündlichen Verhandlung)?
+
+**A:** Durchführung der mündlichen Verhandlung
+
+Die mündliche Verhandlung findet vor dem Spruchkörper und unter der Leitung des Vorsitzenden Richters statt.
+
+Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 113 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Dauer der mündlichen Verhandlung)?
+
+**A:** Dauer der mündlichen Verhandlung
+
+Unbeschadet des Grundsatzes der Verhältnismäßigkeit strebt der Vorsitzende Richter an, die mündliche Verhandlung innerhalb eines Tages abzuschließen. Im Vorfeld der mündlichen Verhandlung kann der Vorsitzende Richter zeitliche Begrenzungen für die mündlichen Ausführungen der Parteien festlegen.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 115 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Die mündliche Verhandlung)?
+
+**A:** Die mündliche Verhandlung
+
+Die mündliche Verhandlung und alle gesonderten Zeugenvernehmungen sind öffentlich, es sei denn, das Gericht beschließt, eine Verhandlung, soweit erforderlich, im Interesse einer der Parteien oder Dritter oder im allgemeinen Interesse der Justiz oder der öffentlichen Ordnung unter Ausschluss der Öffentlichkeit zu führen. Es wird eine Tonaufzeichnung der Verhandlung angefertigt. Die Aufzeichnung wird den Parteien bzw. deren Vertretern nach der Anhörung in den Räumlichkeiten des Gerichts zugänglich gemacht. Regel 103 gilt entsprechend.
+
+Bezug zum Übereinkommen: [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 34 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 116 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Abwesenheit einer Partei in der mündlichen Verhandlung)?
+
+**A:** Abwesenheit einer Partei in der mündlichen Verhandlung
+
+Eine Partei, die in der mündlichen Verhandlung nicht vertreten sein möchte, hat die Kanzlei rechtzeitig hierüber zu unterrichten. Haben beide Parteien die Kanzlei darüber unterrichtet, dass sie in der mündlichen Verhandlung nicht vertreten sein möchten, kann das Gericht die Klage gemäß Regel 117 entscheiden.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Entscheidung in der Sache)?
+
+**A:** Entscheidung in der Sache
+
+Zusätzlich zu den Anordnungen und Maßnahmen und unbeschadet des in den Artikeln 63, 64, 67 und 80 des Übereinkommens vorgesehenen gerichtlichen Ermessens kann das Gericht auf Antrag die Zahlung von Schadenersatz oder Entschädigung gemäß den Artikeln 68 und 32 Absatz 1 Buchstabe f des Übereinkommens anordnen. Die Höhe des Schadenersatzes oder der Entschädigung kann in der Anordnung angegeben oder in einem gesonderten Verfahren bestimmt werden [Regeln 125-144].
+
+Bezug zum Übereinkommen: [Art. 77 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Entscheidung in der Sache: Anordnungen, Zwangsgeld, Sicherheitsleistung, Aussetzung bei parallelem EPA-Verfahren (Abs. 2), Vollstreckbarkeit (Abs. 8).
+
+In 189 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 119 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vorläufige Zuerkennung von Schadenersatz)?
+
+**A:** Vorläufige Zuerkennung von Schadenersatz
+
+In der Entscheidung in der Hauptsache kann das Gericht der obsiegenden Partei, unter von ihm festgelegten Bedingungen, vorläufigen Schadenersatz zuerkennen. Dieser soll zumindest die voraussichtlichen Kosten für das Schadenersatz- und Entschädigungsverfahren auf Seiten der obsiegenden Partei abdecken.
+
+In 58 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 125 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Gesondertes Verfahren zur Festsetzung der Höhe des angeordneten Schadenersatzes)?
+
+**A:** Gesondertes Verfahren zur Festsetzung der Höhe des angeordneten Schadenersatzes
+
+Die Festsetzung der Höhe des der obsiegenden Partei zuzusprechenden Schadenersatzes kann Gegenstand eines gesonderten Verfahrens sein. Diese Festsetzung umfasst gegebenenfalls die Festsetzung der Höhe der Entschädigung, die infolge des vorläufigen Schutzes zuzusprechen ist, den eine veröffentlichte Anmeldung eines europäischen Patents gewährt [Artikel 32 Absatz 1 Buchstabe f des Übereinkommens, Artikel 67 EPÜ], sowie der gemäß den Regeln 118.1, 198.2, 213.2 und 354.2 zu zahlenden Entschädigung. Der in Kapitel 4 verwendete Begriff „Schadenersatz“ ist so zu verstehen, dass er eine solche Entschä …
+
+In 29 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 126 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einleitung des Verfahrens zur Festsetzung des Schadensersatzes)?
+
+**A:** Einleitung des Verfahrens zur Festsetzung des Schadensersatzes
+
+Wünscht die obsiegende Partei eine Festsetzung der Höhe des Schadenersatzes, muss sie innerhalb eines Jahres nach Zustellung der Endentscheidung in der Sache (einschließlich einer etwaigen Endentscheidung über eine Berufung) zur Verletzung und zur Rechtsgültigkeit (oder, im Falle der Zuerkennung einer Entschädigung gemäß den Regeln 118.1, 198.2, 213.2 oder 354.2 nach dem Tag des Zuspruchs) einen Antrag auf Festsetzung des Schadensersatzes stellen; dieser kann einen Antrag auf Anordnung der Offenlegung der Bücher beinhalten.
+
+Bezug zum Übereinkommen: [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 131 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt des Antrags auf Festsetzung von Schadensersatz)?
+
+**A:** Inhalt des Antrags auf Festsetzung von Schadensersatz
+
+Der Antrag auf Festsetzung von Schadensersatz muss enthalten: (a) die Angaben gemäß Regel 13.1(a) bis (d); (b) das Datum der Sachentscheidung und das Aktenzeichen; (c) soweit erforderlich einen Antrag auf Anordnung der Offenlegung der Bücher (Regeln 141 bis 144); in diesem Fall hat der Antragsteller die Angaben gemäß Regel 141(b) bis (e) zu machen.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 150 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Gesondertes Verfahren zur Kostenfestsetzung)?
+
+**A:** Gesondertes Verfahren zur Kostenfestsetzung
+
+Eine Kostenfestsetzung kann Gegenstand eines gesonderten Verfahrens sein, das einer Sachentscheidung und gegebenenfalls einer Entscheidung über die Festsetzung von Schadenersatz nachfolgt. Die Kostenfestsetzung umfasst die dem Gericht in dem Verfahren entstandenen Kosten, wie etwa die Kosten für die Simultanverdolmetschung und die Kosten gemäß den Regeln 173, 180.1, 185.7, 188 und 201, sowie, nach Maßgabe der Regeln 152 bis 156, die Kosten der obsiegenden Partei einschließlich der von dieser Partei entrichteten Gerichtsgebühren [Regel 151(d)]. Die Kosten für Verdolmetschungen und Übersetzungen …
+
+Hinweis: Kostenentscheidung als gesondertes Verfahren nach der Hauptsacheentscheidung; Antrag binnen eines Monats (R. 151).
+
+In 110 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einleitung des Verfahrens zur Kostenfestsetzung)?
+
+**A:** Einleitung des Verfahrens zur Kostenfestsetzung
+
+Wünscht die obsiegende Partei (im Folgenden „der Antragsteller“) eine Kostenfestsetzung, muss sie innerhalb eines Monats nach der Entscheidung einen Antrag auf Kostenfestsetzung stellen, der Folgendes enthalten muss: (a) die Angaben gemäß Regel 13.1(a) bis (d), (b) das Datum der Entscheidung und das Aktenzeichen, (c) die Angabe, ob gegen die Entscheidung in der Sache Berufung eingelegt wurde, soweit zum Zeitpunkt des Antrags bekannt, (d) die Angabe der Kosten, deren Erstattung beantragt wird und zu denen die Gerichtsgebühren und die Kosten der Vertretung, die Kosten für Zeugen und Sachverständ …
+
+In 68 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 152 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Erstattung der Kosten der Vertretung)?
+
+**A:** Erstattung der Kosten der Vertretung
+
+Der Antragsteller ist berechtigt, die angemessenen und verhältnismäßigen Kosten der Vertretung zurückzufordern.
+
+In 85 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 156 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Weiteres Verfahren)?
+
+**A:** Weiteres Verfahren
+
+Der Berichterstatter kann den Antragsteller auffordern, schriftliche Nachweise für alle gemäß Regel 151(d) geltend gemachten Kosten vorzulegen. Der Berichterstatter gibt der unterlegenen Partei Gelegenheit, sich zu den geltend gemachten Kosten, einschließlich aller Kosten, die gemäß Artikel 69 Absätze 1 bis 3 des Übereinkommens zwischen den Parteien aufgeteilt bzw. von jeder Partei allein getragen werden sollen, schriftlich zu äußern.
+
+In 34 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 157 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Berufung gegen die Kostenentscheidung)?
+
+**A:** Berufung gegen die Kostenentscheidung
+
+Gegen die Kostenentscheidung des Berichterstatters kann nur gemäß Regel 221 Berufung vor dem Berufungsgericht eingelegt werden.
+
+Bezug zum Übereinkommen: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 34 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Sicherheitsleistung für die Kosten einer Partei)?
+
+**A:** Sicherheitsleistung für die Kosten einer Partei
+
+Das Gericht kann zu jedem Zeitpunkt des Verfahrens auf einen mit einer Begründung versehenen Antrag einer Partei anordnen, dass die andere Partei innerhalb einer festgelegten Frist für die Kosten des Rechtsstreits und sonstigen der antragstellenden Partei entstandenen und/oder noch entstehenden Kosten, welche die andere Partei möglicherweise tragen muss, angemessene Sicherheit zu leisten hat. Beschließt das Gericht, eine solche Sicherheitsleistung anzuordnen, hat es darüber zu entscheiden, ob die Sicherheitsleistung durch Hinterlegung oder Bankbürgschaft erfolgen soll.
+
+Bezug zum Übereinkommen: [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Prozesskostensicherheit: Gefährdung der Erstattung oder Vollstreckungsschwierigkeiten; Beweislast beim Antragsteller (EPG-BerG Aarke/SodaStream).
+
+In 144 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 170 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Beweismittel und Beweiserhebung)?
+
+**A:** Beweismittel und Beweiserhebung
+
+In den Verfahren vor dem Gericht sind insbesondere folgende Beweismittel zulässig: (a) schriftliche Beweismittel, ob gedruckt, handgeschrieben oder gezeichnet, insbesondere Urkunden, schriftliche Zeugenaussagen, Pläne, Zeichnungen, Fotografien; (b) Sachverständigengutachten und Berichte über Versuche, die für die Zwecke des Verfahrens durchgeführt wurden; (c) physische Gegenstände, insbesondere Geräte, Erzeugnisse, Ausführungsformen, Ausstellungsstücke, Modelle; (d) elektronische Dateien und Audio-/Videoaufnahmen.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 171 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Beweisangebot)?
+
+**A:** Beweisangebot
+
+Eine Partei, die eine Tatsachenbehauptung aufstellt, die von der anderen Partei bestritten wird oder wahrscheinlich bestritten wird, hat die Beweise für diese Behauptung anzugeben. Werden in Bezug auf eine streitige Tatsache keine Beweismittel angegeben, wird das Gericht dies bei der Entscheidung über die in Rede stehende Angelegenheit berücksichtigen.
+
+In 63 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 172 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Pflicht zur Beweisvorlage)?
+
+**A:** Pflicht zur Beweisvorlage
+
+Die Beweismittel, die einer Partei in Bezug auf eine Tatsachenbehauptung, die von der anderen Partei bestritten wird oder wahrscheinlich bestritten wird, zur Verfügung stehen, müssen von der Partei, die die Tatsache behauptet, vorgelegt werden.
+
+Bezug zum Übereinkommen: [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 15 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 181 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Sachverständige der Parteien)?
+
+**A:** Sachverständige der Parteien
+
+Vorbehaltlich der in den Regeln 104(e) und 112.2(b) genannten Anordnungen des Gerichts kann eine Partei jeden Sachverständigenbeweis vorlegen, den sie für erforderlich hält. Die Regeln 175 bis 180 gelten für die Sachverständigen der Parteien entsprechend.
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 190 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anordnung der Beweisvorlage)?
+
+**A:** Anordnung der Beweisvorlage
+
+Hat eine Partei alle vernünftigerweise verfügbaren und plausiblen Beweismittel zur Begründung ihrer Ansprüche vorgelegt und zur Begründung dieser Ansprüche Beweismittel bezeichnet, die sich in der Verfügungsgewalt der gegnerischen Partei oder einer dritten Partei befinden, kann das Gericht auf einen mit einer Begründung versehenen Antrag der Partei, welche die Beweismittel bezeichnet hat, die Vorlage dieser Beweismittel durch die gegnerische Partei oder die dritte Partei anordnen. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass die Beweismittel nur bestimmten namentlich  …
+
+Bezug zum Übereinkommen: [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Beweisvorlage nach [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) für substantiierte, bestrittene Tatsachen; keine Ausforschung.
+
+In 70 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Anordnung der Auskunftserteilung)?
+
+**A:** Antrag auf Anordnung der Auskunftserteilung
+
+Das Gericht kann auf einen mit einer Begründung versehenen Antrag einer Partei anordnen, dass Informationen gemäß Artikel 67 des Übereinkommens, die sich in der Verfügungsgewalt der anderen oder einer dritten Partei befinden, oder Informationen, welche die antragstellende Partei zum Zwecke der Rechtsverfolgung vernünftigerweise benötigt, von der anderen bzw. dritten Partei übermittelt werden müssen. Regel 190.1, zweiter Satz, .5 und .6 gilt entsprechend.
+
+Bezug zum Übereinkommen: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 44 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 192 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Beweissicherung)?
+
+**A:** Antrag auf Beweissicherung
+
+Ein Antrag auf Beweissicherung kann von einer Partei (im Sinne von Artikel 47 des Übereinkommens) (im Folgenden „der Antragsteller“) bei der Kammer gestellt werden, bei der der Antragsteller das Verletzungsverfahren in der Sache anhängig gemacht hat. Wird der Antrag gestellt, bevor das Verfahren in der Sache eingeleitet worden ist, muss er bei der Kammer gestellt werden, bei der der Antragsteller beabsichtigt, das Verfahren in der Sache einzuleiten.
+
+Bezug zum Übereinkommen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Antrag auf Beweissicherung: Angaben, Beweismittel, Offenlegungspflicht bei ex parte (Abs. 3, EPG-BerG Ecovacs/Roborock).
+
+In 31 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 194 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Prüfung des Antrags auf Beweissicherung)?
+
+**A:** Prüfung des Antrags auf Beweissicherung
+
+Das Gericht kann nach eigenem Ermessen – auch wenn der Antrag gemäß Regel 192.3 gestellt wird – (a) den Antragsgegner über den Antrag unterrichten und ihn auffordern, innerhalb einer festzusetzenden Frist gegen den Antrag auf Beweissicherung einen Einspruch einzulegen, der Folgendes enthalten muss: (i) die Gründe, warum der Antrag zurückzuweisen ist; (ii) die vorgebrachten Tatsachen und Beweismittel, insbesondere jegliches Bestreiten vom Antragsteller vorgebrachter Tatsachen und jegliche Angriffe gegen vom Antragsteller vorgebrachte Beweismittel; (iii) ist noch kein Hauptverfahren in der Sache …
+
+In 15 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 196 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anordnung bezüglich des Antrags auf Beweissicherung)?
+
+**A:** Anordnung bezüglich des Antrags auf Beweissicherung
+
+Das Gericht kann insbesondere Folgendes anordnen: (a) die Beweissicherung durch ausführliche Beschreibung mit oder ohne Einbehaltung von Mustern, (b) die dingliche Beschlagnahme der angeblich verletzenden Erzeugnisse, (c) die dingliche Beschlagnahme der für die Herstellung und/oder den Vertrieb dieser Erzeugnisse verwendeten Materialien und Geräte und der zugehörigen Unterlagen, (d) die Sicherung und Offenlegung digitaler Medien und Daten und die Offenlegung aller für den Zugang zu diesen erforderlichen Passwörter. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass diese Of …
+
+Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 27 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 197 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anordnung der Beweissicherung ohne Anhörung des Antragsgegners)?
+
+**A:** Anordnung der Beweissicherung ohne Anhörung des Antragsgegners
+
+Das Gericht kann Maßnahmen zur Beweissicherung [Regel 196.1]ohne vorherige Anhörung des Antragsgegners insbesondere dann anordnen, wenn durch eine Verzögerung dem Antragsteller wahrscheinlich ein nicht wiedergutzumachender Schaden entstünde, oder wenn nachweislich die Gefahr besteht, dass Beweismittel vernichtet werden oder aus anderen Gründen nicht mehr verfügbar sein könnten.
+
+Bezug zum Übereinkommen: [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 42 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 198 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Aufhebung einer Anordnung der Beweissicherung)?
+
+**A:** Aufhebung einer Anordnung der Beweissicherung
+
+Das Gericht stellt sicher, dass eine Anordnung der Beweissicherung auf Antrag des Antragsgegners, unbeschadet etwaiger Schadenersatzforderungen, aufgehoben oder auf andere Weise außer Kraft gesetzt wird, wenn der Antragsteller nicht innerhalb einer Frist von 31 Kalendertagen oder 20 Werktagen – je nachdem, welcher Zeitraum länger ist – ab dem in der gerichtlichen Anordnung, unter angemessener Berücksichtigung des Datums, bis zu dem der Bericht gemäß Regel 196.4 vorliegen soll, festgelegten Datum das Hauptverfahren in der Sache bei dem Gericht einleitet.
+
+Bezug zum Übereinkommen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 26 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anordnung der Inspektion)?
+
+**A:** Anordnung der Inspektion
+
+Das Gericht kann auf einen mit einer Begründung versehenen Antrag einer Partei eine Inspektion von Erzeugnissen, Vorrichtungen, Verfahren, Räumlichkeiten oder lokalen Gegebenheiten vor Ort anordnen. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass diese Offenlegung nur gegenüber bestimmten namentlich benannten Personen erfolgt und einer angemessenen Geheimhaltungspflicht gemäß Artikel 58 des Übereinkommens unterliegt.
+
+Bezug zum Übereinkommen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 15 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 205 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Verfahrensabschnitte (summarisches Verfahren))?
+
+**A:** Verfahrensabschnitte (summarisches Verfahren)
+
+Einstweilige Maßnahmen werden im Wege des summarischen Verfahrens durchgeführt, das die folgenden Abschnitte umfasst: (a) ein schriftliches Verfahren und (b) ein mündliches Verfahren, das eine mündliche Anhörung der Parteien oder einer der Parteien beinhalten kann.
+
+In 12 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 206 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf einstweilige Maßnahmen)?
+
+**A:** Antrag auf einstweilige Maßnahmen
+
+Ein Antrag auf einstweilige Maßnahmen kann von einer Partei (im Folgenden „der Antragsteller“) bei dem Gericht vor oder nach Einleitung des Hauptverfahrens in der Sache gestellt werden.
+
+Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Antrag auf einstweilige Maßnahmen: Angaben zu Rechtsbestand, Verletzung, Dringlichkeit; Schutzschrift nach R. 207 ist zu berücksichtigen.
+
+In 65 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 207 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Schutzschrift)?
+
+**A:** Schutzschrift
+
+Hält eine Person, die gemäß Artikel 47 des Übereinkommens zur Einleitung des Verfahrens berechtigt ist, es für wahrscheinlich, dass in naher Zukunft ein Antrag auf einstweilige Maßnahmen gegen sie als Antragsgegner bei Gericht gestellt werden könnte, kann sie eine Schutzschrift einreichen.
+
+Hinweis: Schutzschrift: sechs Monate wirksam, verlängerbar; wird dem Antragsteller erst nach Antragstellung mitgeteilt.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 209 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Prüfung des Antrags auf einstweilige Maßnahmen)?
+
+**A:** Prüfung des Antrags auf einstweilige Maßnahmen
+
+Unbeschadet der Entscheidung des Gerichts über den Antrag auf einstweilige Maßnahmen liegt es – auch wenn der Antrag gemäß Regel 206.3 gestellt wird – im Ermessen des Gerichts, (a) den Antragsgegner über den Antrag zu unterrichten und ihn aufzufordern, innerhalb einer festzusetzenden Frist einen Einspruch gegen den Antrag auf einstweilige Maßnahmen einzulegen, der Folgendes enthalten muss: (i) die Gründe, warum der Antrag zurückzuweisen ist, (ii) die Tatsachen und Beweismittel, auf die sich der Antragsgegner stützt, insbesondere jegliches Bestreiten vom Antragsteller vorgebrachter Tatsachen un …
+
+Hinweis: Verfahrensgang bei einstweiligen Maßnahmen: Anhörung des Gegners oder ex parte (Abs. 1 lit. c), Prüfung der Dringlichkeit (Abs. 2 lit. b).
+
+In 56 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 211 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anordnung bezüglich des Antrags auf einstweilige Maßnahmen)?
+
+**A:** Anordnung bezüglich des Antrags auf einstweilige Maßnahmen
+
+Das Gericht kann insbesondere folgende einstweiligen Maßnahmen anordnen: (a) Verfügungen gegen einen Antragsgegner; (b) Beschlagnahme oder Herausgabe von Erzeugnissen, bei denen der Verdacht auf Verletzung eines Patentrechts besteht, um deren Inverkehrbringen und Umlauf auf den Vertriebswegen zu verhindern; (c) wenn ein Antragsteller glaubhaft macht, dass die Erfüllung seiner Schadenersatzansprüche fraglich ist, die vorsorgliche Beschlagnahme beweglichen und unbeweglichen Vermögens des Antragsgegners einschließlich der Sperrung der Bankkonten und der Beschlagnahme sonstiger Vermögenswerte des  …
+
+Bezug zum Übereinkommen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Entscheidung: hinreichende Sicherheit (Abs. 2 – überwiegend wahrscheinlich, EPG-BerG NanoString/10x), Interessenabwägung (Abs. 3), unangemessene Verzögerung (Abs. 4), Sicherheitsleistung (Abs. 5).
+
+In 108 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 212 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anordnung einstweiliger Maßnahmen ohne Anhörung des Antragsgegners)?
+
+**A:** Anordnung einstweiliger Maßnahmen ohne Anhörung des Antragsgegners
+
+Das Gericht kann einstweilige Maßnahmen ohne vorherige Anhörung des Antragsgegners insbesondere dann anordnen, wenn durch eine Verzögerung dem Antragsteller wahrscheinlich ein nicht wieder gutzumachender Schaden entstünde oder wenn nachweislich die Gefahr besteht, dass Beweismittel vernichtet werden. Regel 197 gilt entsprechend.
+
+Bezug zum Übereinkommen: [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 26 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Aufhebung einstweiliger Maßnahmen)?
+
+**A:** Aufhebung einstweiliger Maßnahmen
+
+Das Gericht stellt sicher, dass einstweilige Maßnahmen auf Antrag des Antragsgegners, unbeschadet etwaiger Schadenersatzforderungen, aufgehoben oder auf andere Weise außer Kraft gesetzt werden, wenn der Antragsteller nicht innerhalb einer Frist von 31 Kalendertagen oder 20 Werktagen – je nachdem, welcher Zeitraum länger ist – ab dem in der Anordnung des Gerichts festgelegten Datum bei dem Gericht das Verfahren in der Sache einleitet. Bei der Festlegung des Datums trägt das Gericht, wo anwendbar, dem Datum, an dem der Bericht nach Regel 196.4 vorgelegt werden soll, angemessen Rechnung.
+
+Bezug zum Übereinkommen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 68 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Berufungsfähige Entscheidungen)?
+
+**A:** Berufungsfähige Entscheidungen
+
+Eine beschwerte Partei kann Berufung einlegen gegen (a) Endentscheidungen des Gerichts erster Instanz; (b) Entscheidungen, die das Verfahren bezüglich einer der Parteien beenden; (c) die in den Artikeln 49 Absatz 5, 59, 60, 61, 62 oder 67 des Übereinkommens genannten Anordnungen.
+
+Bezug zum Übereinkommen: [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Berufung: gegen Endentscheidungen und aufgezählte Anordnungen (Abs. 1), sonst nur mit Zulassung (Abs. 2) oder nach Ermessensüberprüfung (Abs. 3, 4).
+
+In 272 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 221 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Zulassung der Berufung gegen Kostenentscheidungen)?
+
+**A:** Antrag auf Zulassung der Berufung gegen Kostenentscheidungen
+
+Eine Partei, die durch eine der in Regel 157 genannten Entscheidungen beschwert ist, kann innerhalb von 15 Tagen ab Zustellung der entsprechenden Entscheidung des Gerichts einen Antrag auf Zulassung der Berufung beim Berufungsgericht stellen.
+
+In 39 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Gegenstand des Verfahrens vor dem Berufungsgericht)?
+
+**A:** Gegenstand des Verfahrens vor dem Berufungsgericht
+
+Die von den Parteien gemäß den Regeln 221, 225, 226, 236 und 238 vorgebrachten Anträge, Tatsachen, Beweismittel und rechtlichen Ausführungen stellen vorbehaltlich des Absatzes 2 den Gegenstand des Verfahrens vor dem Berufungsgericht dar. Das Berufungsgericht zieht die Akte des Verfahrens vor dem Gericht erster Instanz bei.
+
+Bezug zum Übereinkommen: [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Berufungsgegenstand: neue Tatsachen und Beweismittel nur ausnahmsweise (Abs. 2); Ermessen des Berufungsgerichts.
+
+In 72 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf aufschiebende Wirkung)?
+
+**A:** Antrag auf aufschiebende Wirkung
+
+Eine Partei kann gemäß Artikel 74 des Übereinkommens einen Antrag auf aufschiebende Wirkung stellen. Der Antragsteller hat eine Gebühr für den Antrag gemäß Teil 6 zu entrichten.
+
+Bezug zum Übereinkommen: [Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Aufschiebende Wirkung nur auf Antrag und bei außergewöhnlichen Umständen; Antrag muss vollständig sein (EPG-BerG Amycel).
+
+In 69 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Fristen für die Einreichung der Berufungsschrift und der Berufungsbegründung)?
+
+**A:** Fristen für die Einreichung der Berufungsschrift und der Berufungsbegründung
+
+Der Berufungskläger muss die Berufungsschrift einreichen: (a) innerhalb von zwei Monaten nach Zustellung einer in Regel 220.1(a) oder (b) genannten Entscheidung oder (b) innerhalb von 15 Tagen nach Zustellung einer in Regel 220.1 (c) genannten Anordnung oder in Regel 220.2 oder 221.3 genannten Entscheidung.
+
+Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Berufungsfrist: zwei Monate (Endentscheidung) bzw. 15 Tage (Anordnungen) ab Zustellung der begründeten Entscheidung.
+
+In 41 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 225 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt der Berufungsschrift)?
+
+**A:** Inhalt der Berufungsschrift
+
+Die Berufungsschrift muss enthalten: (a) die Namen des Berufungsklägers und des Berufungsklägervertreters, (b) die Namen des Berufungsbeklagten und des Berufungsbeklagtenvertreters, (c) die postalische und elektronische Adresse für die Zustellung an den Berufungskläger und den Berufungsbeklagten und die Namen der Zustellungsbevollmächtigten, (d) das Datum der Entscheidung oder Anordnung, gegen die Berufung eingelegt wird, sowie das dem Verfahren vor dem Gericht erster Instanz zugeteilte Aktenzeichen und (e) die vom Berufungskläger beantragte Anordnung oder den vom Berufungskläger beantragten R …
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 226 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt der Berufungsbegründung)?
+
+**A:** Inhalt der Berufungsbegründung
+
+Die Berufungsbegründung muss enthalten: (a) die Angabe der Teile der Entscheidung oder Anordnung, die angefochten werden, (b) die Gründe für die Aufhebung der angefochtenen Entscheidung oder Anordnung und (c) die Tatsachen und Beweismittel, auf die sich die Berufung gemäß Regel 222.1 und .2 stützt.
+
+In 15 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 228 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Gebühr für die Berufung)?
+
+**A:** Gebühr für die Berufung
+
+Der Kläger hat die Festgebühr und gegebenenfalls die streitwertabhängige Gebühr für die Verletzungsklage gemäß Teil 6 zu entrichten. Regel 15.2 gilt entsprechend.
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anschlussberufung)?
+
+**A:** Anschlussberufung
+
+Eine Partei, die innerhalb der in Regel 224.1 angegebenen Frist keine Berufungsschrift eingereicht hat, kann innerhalb der in Regel 235 angegebenen Frist mittels einer Anschlussberufung dennoch Berufung einlegen, wenn eine der anderen Parteien eine Berufungsschrift eingereicht hat.
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 242 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Entscheidung des Berufungsgerichts)?
+
+**A:** Entscheidung des Berufungsgerichts
+
+Das Berufungsgericht weist die Berufung entweder zurück oder hebt die Entscheidung oder Anordnung ganz oder teilweise auf und ersetzt sie durch eine eigene Entscheidung oder Anordnung, auch hinsichtlich der Auferlegung der Kosten sowohl des erstinstanzlichen als auch des Berufungsverfahrens.
+
+Bezug zum Übereinkommen: [Art. 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 35 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 245 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Wiederaufnahme des Verfahrens)?
+
+**A:** Antrag auf Wiederaufnahme des Verfahrens
+
+Jede Partei, die durch eine Endentscheidung des Gerichts erster Instanz, für die die Frist zur Einlegung einer Berufung abgelaufen ist, oder des Berufungsgerichts (im Folgenden „die Endentscheidung“) beschwert ist (im Folgenden „der Antragsteller“), kann einen Antrag auf Wiederaufnahme des Verfahrens stellen.
+
+Bezug zum Übereinkommen: [Art. 81 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 247 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Grundlegende Verfahrensfehler)?
+
+**A:** Grundlegende Verfahrensfehler
+
+Ein grundlegender Verfahrensfehler gemäß Artikel 81 Absatz 1 des Übereinkommens kann zum Beispiel vorliegen, wenn (a) ein Richter des Gerichts entgegen Artikel 17 des Übereinkommens oder Artikel 7 der Satzung an der Entscheidung beteiligt war, (b) eine nicht zum Richter des Gerichts ernannte Person Mitglied des Spruchkörpers war, der die Endentscheidung getroffen hat, (c) es während des Verfahrens, das zu der Endentscheidung geführt hat, zu einer grundlegenden Verletzung von Artikel 76 des Übereinkommens gekommen ist, (d) die Entscheidung erging, ohne dass über einen für die Entscheidung maßge …
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Öffentlicher Zugang zum Register)?
+
+**A:** Öffentlicher Zugang zum Register
+
+Unbeschadet der Artikel 58 und 60 Absatz 1 des Übereinkommens und vorbehaltlich der Regeln 190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 und 365.2 und - soweit veranlasst - Schwärzung personenbezogener Daten im Sinne der Verordnung (EU) 2016/679 sowie vertraulicher Informationen nach Absatz 2 sind (a) Entscheidungen und Anordnungen des Gerichts zu veröffentlichen, (b) Schriftsätze und Beweismittel, die beim Gericht eingereicht und von der Kanzlei aufgenommen worden sind, der Öffentlichkeit auf einen an die Kanzlei zu richtenden begründeten Antrag zugänglich zu machen; die Entscheidung …
+
+Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Öffentlichkeit des Registers; Zugang zu Schriftsätzen und Beweismitteln nur auf begründeten Antrag (Abs. 1 lit. b).
+
+In 199 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Schutz vertraulicher Informationen)?
+
+**A:** Schutz vertraulicher Informationen
+
+Unbeschadet des Artikels 60 Abs. 1 des Übereinkommens und der Regeln 190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 und 365.2 kann eine Partei beim Gericht einen Antrag auf Erlass einer Anordnung stellen, den Zugriff auf bestimmte in ihren Schriftsätzen enthaltene Informationen oder die Erhebung und Verwendung von Beweisen im Verfahren einzuschränken oder für unzulässig zu erklären oder den Zugang zu solchen Informationen oder Beweismitteln auf bestimmte Personen zu beschränken.
+
+Bezug zum Übereinkommen: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Schutz vertraulicher Informationen: Antrag bei Einreichung, Vertraulichkeitskreis mit mindestens einer natürlichen Person je Partei (Abs. 6), Interessenabwägung.
+
+In 235 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Zulassung von Klageänderungen oder -erweiterungen)?
+
+**A:** Zulassung von Klageänderungen oder -erweiterungen
+
+Eine Partei kann zu jedem Zeitpunkt des Verfahrens beim Gericht die Zulassung einer Klageänderung oder Klageerweiterung, einschließlich einer Widerklage, beantragen. In dem Antrag ist zu begründen, weshalb die Änderung oder Ergänzung nicht schon in dem ursprünglichen Schriftsatz enthalten war.
+
+Hinweis: Klageänderung nur mit Erlaubnis; Ablehnung, wenn die Änderung mit angemessener Sorgfalt früher hätte erfolgen können (Abs. 2).
+
+In 154 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 264 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Rechtliches Gehör)?
+
+**A:** Rechtliches Gehör
+
+Wenn diese Verfahrensordnung vorsieht, dass einer Partei rechtliches Gehör zu gewähren ist oder gewährt werden kann, bevor das Gericht eine Anordnung trifft oder eine Maßnahme ergreift, muss oder kann das Gericht – je nach Lage des Falles – die Parteien zu einer schriftlichen Stellungnahme innerhalb einer festgesetzten Frist auffordern und/oder zu einer mündlichen Verhandlung an einem vom Gericht bestimmten Termin laden. Das Gericht kann auch eine Anhörung per Telefon- oder Videokonferenz anordnen. Die Regeln 105 und 106 gelten entsprechend.
+
+In 19 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Rücknahme)?
+
+**A:** Rücknahme
+
+Solange noch keine Endentscheidung über eine Klage ergangen ist, kann der Kläger die Rücknahme seiner Klage beantragen. Das Gericht entscheidet über den Antrag nach Anhörung der anderen Partei. Der Rücknahmeantrag wird nicht zugelassen, wenn die andere Partei ein berechtigtes Interesse daran hat, dass das Gericht über die Klage entscheidet.
+
+Hinweis: Rücknahme der Klage; Gebührenerstattung nach R. 370.9 (seit 1.1.2026: 50 % vor Abschluss des schriftlichen Verfahrens).
+
+In 211 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 270 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Geltungsbereich dieses Abschnitts)?
+
+**A:** Geltungsbereich dieses Abschnitts
+
+Auf die Zustellung der Klageschrift innerhalb der Vertragsmitgliedstaaten finden das Recht der Europäischen Union über die Zustellung von Schriftstücken in Zivil- und Handelssachen [Verordnung (EU) 2020/1784] sowie die in diesem Abschnitt enthaltenen Regeln, insbesondere Regel 271.2, Anwendung.
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 271 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Zustellung der Klageschrift)?
+
+**A:** Zustellung der Klageschrift
+
+Sind die in Artikel 19 der Verordnung (EU) 2020/1784 genannten Voraussetzungen erfüllt, stellt die Kanzlei die Klage auf elektronischem Wege (a) dem Beklagten an eine elektronische Adresse zu, die der Beklagte für die Zwecke der Zustellung im Verfahren angegeben hat, oder (b) einem Vertreter des Beklagten zu, wenn der Beklagte die elektronische Adresse eines Vertreters nach Regel 8.1 als Adresse angegeben hat, unter der dem Beklagten die Klageschrift zugestellt werden kann, oder (c) einem Vertreter des Beklagten gemäß Regel 8.1 zu, wenn der Vertreter der Kanzlei oder dem Kläger angezeigt hat,  …
+
+In 47 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 274 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Zustellung außerhalb der Vertragsmitgliedstaaten)?
+
+**A:** Zustellung außerhalb der Vertragsmitgliedstaaten
+
+Ist eine Klageschrift außerhalb der Vertragsmitgliedstaaten zuzustellen, erfolgt die Zustellung durch die Kanzlei (a) nach jedem Verfahren gemäß (i) dem Recht der Europäischen Union über die Zustellung von Schriftstücken in Zivil- und Handelssachen [Verordnung (EU) 2020/1784], soweit anwendbar, (ii) dem Haager Zustellungsübereinkommen oder jedem anderen Übereinkommen oder jeder anderen Vereinbarung, soweit anwendbar, oder (iii) soweit kein solches Übereinkommen oder keine solche Vereinbarung in Kraft ist, entweder durch Zustellung auf diplomatischem oder konsularischem Wege aus dem Vertragsmit …
+
+In 19 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 275 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Zustellung der Klageschrift nach einem alternativen Verfahren oder an einem anderen Ort)?
+
+**A:** Zustellung der Klageschrift nach einem alternativen Verfahren oder an einem anderen Ort
+
+Konnte eine Zustellung nach Abschnitt 1 oder 2 nicht vorgenommen werden, kann das Gericht auf Antrag des Klägers die Zustellung nach einem alternativen Verfahren oder an einem anderen Ort durch Anordnung zulassen, wenn es der Auffassung ist, dass gute Gründe dafür vorliegen, die Zustellung nach einem nach diesem Kapitel sonst nicht vorgesehenen Verfahren oder an einem nach diesem Kapitel sonst nicht vorgesehenen Ort zu gestatten.
+
+In 40 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 276 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Zustellung von Anordnungen und Entscheidungen)?
+
+**A:** Zustellung von Anordnungen und Entscheidungen
+
+Sämtliche Anordnungen oder Entscheidungen des Gerichts sind jeder Partei gemäß den Bestimmungen der Abschnitte 1, 2 oder 3 dieses Kapitels 2 zuzustellen.
+
+In 7 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 284 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Pflicht der Vertreter, Sachverhalte oder Fälle nicht falsch darzustellen)?
+
+**A:** Pflicht der Vertreter, Sachverhalte oder Fälle nicht falsch darzustellen
+
+Vertreter der Parteien dürfen Fälle oder Sachverhalte vor dem Gericht weder wissentlich noch aufgrund fahrlässiger Unkenntnis falsch darstellen.
+
+Bezug zum Übereinkommen: [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 12 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 290 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Befugnisse des Gerichts gegenüber Vertretern)?
+
+**A:** Befugnisse des Gerichts gegenüber Vertretern
+
+Das Gericht hat nach Maßgabe von Regel 291 gegenüber den vor ihm auftretenden Vertretern die den Gerichten üblicherweise zuerkannten Befugnisse.
+
+In 11 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Aussetzung des Verfahrens)?
+
+**A:** Aussetzung des Verfahrens
+
+Das Gericht kann das Verfahren aussetzen, (a) wenn es mit einer Klage befasst ist, die sich auf ein Patent bezieht, das auch Gegenstand eines Einspruchs- oder Beschränkungsverfahrens (einschließlich eines nachfolgenden Beschwerdeverfahrens) vor dem Europäischen Patentamt oder einer nationalen Behörde ist, und die Entscheidung in diesem Verfahren kurzfristig zu erwarten ist; (b) wenn es mit einer Klage befasst ist, die sich auf ein ergänzendes Schutzzertifikat bezieht, das auch Gegenstand eines Verfahrens vor einem nationalen Gericht oder einer nationalen Behörde ist; (c) wenn vor dem Berufungs …
+
+Hinweis: Aussetzungsgründe: u.a. paralleles EPA-Einspruchsverfahren mit baldiger Entscheidung (lit. a), Vorabentscheidung des EuGH (lit. c), Vergleichsverhandlungen (lit. i).
+
+In 89 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 300 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Berechnung von Fristen)?
+
+**A:** Berechnung von Fristen
+
+Alle in dem Übereinkommen, der Satzung, dieser Verfahrensordnung oder einer Anordnung des Gerichts vorgesehenen Fristen für Verfahrenshandlungen sind in vollen Tagen, Wochen, Monaten oder Jahren anzugeben und wie folgt zu berechnen: (a) Die Berechnung beginnt mit dem Tag, der auf den Tag folgt, an dem das maßgebliche Ereignis eingetreten ist; im Falle der Zustellung eines Schriftstückes ist das maßgebliche Ereignis der Zugang des Schriftstücks gemäß Teil 5, Kapitel 2; (b) ist als Frist ein Jahr oder eine bestimmte Anzahl von Jahren bestimmt, so endet die Frist in dem maßgeblichen folgenden Jah …
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 313 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Streithilfeantrag)?
+
+**A:** Streithilfeantrag
+
+Zu jedem Zeitpunkt des Verfahrens kann eine Person, die ein rechtliches Interesse am Ausgang eines Verfahrens über eine bei dem Gericht eingereichte Klage nachweisen kann (im Folgenden „Streithelfer“), einen Streithilfeantrag bei dem Gericht erster Instanz oder dem Berufungsgericht einreichen.
+
+In 31 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 314 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anordnung bezüglich des Streithilfeantrags)?
+
+**A:** Anordnung bezüglich des Streithilfeantrags
+
+Der Berichterstatter entscheidet über die Zulässigkeit des Streithilfeantrags durch Anordnung. Den übrigen Parteien wird vorab rechtliches Gehör gewährt.
+
+In 7 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 315 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Streithilfeschriftsatz)?
+
+**A:** Streithilfeschriftsatz
+
+Ist ein Streithilfeantrag zulässig, hat der Berichterstatter oder der Vorsitzende Richter (a) die Verfahrensparteien zu benachrichtigen und (b) eine Frist festzusetzen, innerhalb derer der Streithelfer einen Streithilfeschriftsatz einreichen kann.
+
+In 23 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 316 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Aufforderung zur Streithilfe)?
+
+**A:** Aufforderung zur Streithilfe
+
+Der Berichterstatter oder der Vorsitzende Richter kann von Amts wegen nach Anhörung der Parteien oder auf einen mit einer Begründung versehenen Antrag einer Partei jede Person, die vom Ergebnis des Rechtsstreits betroffen ist, dazu auffordern, dem Gericht innerhalb einer festzusetzenden Frist mitzuteilen, ob sie dem Verfahren als Streithelfer beitreten möchte.
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 321 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag beider Parteien auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache)?
+
+**A:** Antrag beider Parteien auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache
+
+Während des schriftlichen Verfahrens kann eine Partei jederzeit einen Antrag beider Parteien einreichen, die Sprache, in der das Patent erteilt wurde, gemäß Artikel 49 Absatz 3 des Übereinkommens als Verfahrenssprache zu verwenden. Aus dem Antrag muss hervorgehen, dass sich beide Parteien darauf verständigt haben, die Sprache, in der das Patent erteilt wurde, als Verfahrenssprache zu verwenden.
+
+Bezug zum Übereinkommen: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 7 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 323 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag einer Partei auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache)?
+
+**A:** Antrag einer Partei auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache
+
+Möchte eine Partei die Sprache, in der das Patent erteilt wurde, gemäß Artikel 49 Absatz 5 des Übereinkommens als Verfahrenssprache verwenden, hat sie einen entsprechenden Antrag der Klageschrift, im Falle des Klägers, bzw. der der Klageerwiderung, im Falle des Beklagten, beizufügen. Der Berichterstatter leitet den Antrag dem Präsidenten des Gerichts erster Instanz zu.
+
+Bezug zum Übereinkommen: [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 48 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 331 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Verantwortung für die Verfahrensleitung)?
+
+**A:** Verantwortung für die Verfahrensleitung
+
+Während des schriftlichen Verfahrens und des Zwischenverfahrens obliegt die Verfahrensleitung dem Berichterstatter nach Maßgabe der Regeln 102 und 333.
+
+In 12 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Überprüfung von verfahrensleitenden Anordnungen)?
+
+**A:** Überprüfung von verfahrensleitenden Anordnungen
+
+Verfahrensleitende Entscheidungen oder Anordnungen des Berichterstatters oder des Vorsitzenden Richters werden auf begründeten Antrag einer Partei vom Spruchkörper überprüft.
+
+Hinweis: Überprüfung verfahrensleitender Anordnungen des Berichterstatters durch den Spruchkörper; Antrag binnen 15 Tagen.
+
+In 234 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Verfahrensleitungsbefugnisse)?
+
+**A:** Verfahrensleitungsbefugnisse
+
+Soweit in dem Übereinkommen, der Satzung oder dieser Verfahrensordnung nicht anders bestimmt, kann der Berichterstatter, der Vorsitzende Richter oder der Spruchkörper (a) die Frist zur Befolgung einer Regel oder Anordnung verlängern oder verkürzen [Regel 9.3]; (b) die Zwischenanhörung oder die mündliche Verhandlung vertagen oder vorverlegen; (c) mit den Parteien kommunizieren, um ihnen Hinweise zu den Wünschen oder Anforderungen des Gerichts zu geben; (d) eine gesonderte Verhandlung über einen Streitpunkt anberaumen; (e) die Reihenfolge festlegen, in der über die Streitpunkte zu entscheiden is …
+
+In 29 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 352 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Von Sicherheitsleistung abhängige Bindungswirkung von Entscheidungen oder Anordnungen)?
+
+**A:** Von Sicherheitsleistung abhängige Bindungswirkung von Entscheidungen oder Anordnungen
+
+Eine Entscheidung oder Anordnung kann davon abhängig gemacht werden, dass eine Partei der anderen Partei für die Kosten des Rechtsstreits und sonstigen im Falle einer Vollstreckung und anschließenden Aufhebung der Entscheidungen und Anordnungen entstehenden oder wahrscheinlich entstehenden Kosten sowie für die Entschädigung des der anderen Partei im Falle einer Vollstreckung und anschließenden Aufhebung der Entscheidungen und Anordnungen entstehenden oder wahrscheinlich entstehenden Schadens eine Sicherheit leistet (durch Hinterlegung oder Bankbürgschaft oder anderweitig).
+
+In 65 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vollstreckung)?
+
+**A:** Vollstreckung
+
+Vorbehaltlich der Regeln 118.8 und 352 sind Entscheidungen und Anordnungen des Gerichts ab dem Tag ihrer Zustellung in jedem Vertragsmitgliedstaat unmittelbar vollstreckbar. Die Vollstreckung erfolgt nach den im Recht des Vertragsmitgliedstaats, in dem die Vollstreckung stattfindet, geregelten Vollstreckungsverfahren und -bedingungen.
+
+Bezug zum Übereinkommen: [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Vollstreckung: Anordnungen sofort vollstreckbar; Zwangsgeld (Abs. 3, 4); Sicherheitsleistung; Aufhebung wirkt zurück (EPG-BerG Kodak/Fujifilm).
+
+In 139 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 355 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Versäumnisentscheidung (Gericht erster Instanz))?
+
+**A:** Versäumnisentscheidung (Gericht erster Instanz)
+
+Auf Antrag kann gegen eine Partei eine Versäumnisentscheidung ergehen, wenn (a) die Verfahrensordnung dies für den Fall, dass eine Partei eine Handlung innerhalb der in dieser Verfahrensordnung vorgesehenen oder vom Gericht festgesetzten Frist versäumt, vorsieht, oder (b) unbeschadet der Regeln 116 und 117 eine ordnungsgemäß geladene Partei nicht zu einer mündlichen Verhandlung erscheint.
+
+In 103 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 356 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Einspruch gegen die Versäumnisentscheidung)?
+
+**A:** Einspruch gegen die Versäumnisentscheidung
+
+Eine Partei, gegen die eine Versäumnisentscheidung ergangen ist, kann innerhalb eines Monats nach Zustellung der Entscheidung Einspruch gegen die Versäumnisentscheidung beantragen.
+
+In 19 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 357 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Versäumnisentscheidung (Berufungsgericht))?
+
+**A:** Versäumnisentscheidung (Berufungsgericht)
+
+Die Regeln 355 und 356 gelten entsprechend, insbesondere wenn ein Berufungsbeklagter, dem eine Berufungsschrift und eine Berufungsbegründung ordnungsgemäß zugestellt worden sind, keine Berufungserwiderung einreicht, oder wenn eine Partei eine Erwiderung auf eine Anschlussberufung oder vom Berichterstatter angeordnete Übersetzungen nicht einreicht.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Erledigung der Hauptsache)?
+
+**A:** Erledigung der Hauptsache
+
+Stellt das Gericht fest, dass eine Klage gegenstandslos geworden ist und Erledigung der Hauptsache eingetreten ist, kann es die Klage jederzeit auf Antrag einer Partei oder von Amts wegen per Anordnung abweisen, nachdem den Parteien rechtliches Gehör gewährt worden ist.
+
+In 51 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Gerichtsgebühren)?
+
+**A:** Gerichtsgebühren
+
+Die in dieser Verfahrensordnung vorgesehenen Gerichtsgebühren sind im Einklang mit den in diesem Teil enthaltenen Bestimmungen sowie der vom Verwaltungsausschuss gemäß Artikel 36 Absatz 3 des Übereinkommens verabschiedeten Gebührentabelle (im Folgenden: Gebührentabelle) zu entrichten. Die Höhe der Gerichtsgebühren im Hinblick auf Inflation wird vom Verwaltungsausschuss alle zwei Jahre überprüft.
+
+Hinweis: Gerichtsgebühren: Festgebühr plus streitwertabhängige Gebühr (Verletzungsklage, Widerklage, einstweilige Maßnahmen, Berufung); KMU-Ermäßigung (Abs. 8); Erstattung (Abs. 9).
+
+In 171 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 371 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Fristen für die Zahlung der Gerichtsgebühren)?
+
+**A:** Fristen für die Zahlung der Gerichtsgebühren
+
+Die in Abschnitt I und Abschnitt IV der Gebührentabelle vorgesehenen Festgebühren und die in Abschnitt III der Gebührentabelle vorgesehenen Gebühren für andere Verfahren und Verfahrenshandlungen sind zum Zeitpunkt der Einreichung des betreffenden Schriftsatzes oder Antrags zu entrichten. Die Zahlung hat auf eines der vom Gericht angegebenen Bankkonten zu erfolgen und die Angabe der zahlenden Partei oder ihres Vertreters zusammen mit der Nummer des betreffenden Patents und des Aktenzeichens zu enthalten.
+
+Bezug zum Übereinkommen: [Art. 70 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
 
 ---

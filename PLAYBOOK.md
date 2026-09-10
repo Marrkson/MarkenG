@@ -253,3 +253,45 @@ DesignG, zuletzt die Verfahrens- und Kostengesetze als Ergänzung der bestehende
   Präfix hat in der Kursapp zeitweise alle Norm-Chips verschluckt, ohne Fehler zu werfen. Deshalb
   beim Rauchtest auf leere Chip-Zeilen prüfen.
 - Bei Republish eines Artifacts verlangt der Dienst zuerst `action: read` der Live-Version.
+
+## 11. Zweites Wissenspaket: Einheitliches Patentgericht (EPGÜ, VerfO, EPG-Rechtsprechung)
+
+So wurde das UPC-Paket im September 2026 aufgenommen; das Muster gilt für weitere Pakete (EPÜ, PatG).
+
+**Quellen.** Die Entscheidungen des EPG liegen in der Postgres-Datenbank `patentcost` (RheinIP, Tabelle
+`UpcDecision`: 1.886 Entscheidungen und Anordnungen seit 1.6.2023 mit Volltext, Kammer, Verfahrensart, Parteien,
+Patent, URL). `tools/fetch_upc.py` zieht daraus `data/upc_decisions.json` (Metadaten, Leitsätze und Schlagworte aus
+den Abschnitten LEITSATZ/HEADNOTES und SCHLAGWORTE/KEYWORDS der Entscheidungen, Zählung der zitierten EPGÜ-Artikel
+und VerfO-Regeln im Volltext; keine Volltexte). Zugang: `POSTGRES_LOGIN` aus `~/github/RheinIP/.env`, nur lesend.
+Die Datenbank enthält den EPGÜ-Text nur unvollständig (`EPOLegaltext`, type `upc-a`: Art. 1 bis 23, englisch) und
+die VerfO nur als englische PDF-Seiten von 2022 (`UPCLegaltext`). Deshalb holt das Skript den amtlichen deutschen
+und englischen Wortlaut des EPGÜ artikelweise von `epo.org/de/legal/up-upc/2022/upca_<n>.html` und die konsolidierte
+deutsche VerfO (Stand 1.1.2026) als PDF von unifiedpatentcourt.org (`pdftotext -layout`, Regeln, Absätze, Präambel
+und „Bezug zum Übereinkommen“ werden geparst). Zwischenstände liegen in `~/.cache/ipelico/upc/`;
+`--no-net`/`--no-db` bauen aus dem Cache. Alle drei JSON-Dateien sind versioniert, `build.py` braucht weder Netz
+noch Datenbank.
+
+**Modell.** `src/knowledge/upc/` hat dieselbe Struktur wie das Markenrecht (`concepts`, `cases`, `schemata`,
+`distinctions`), IDs mit Präfix `upc_`/`d_upc_`; `upca.py` und `rop.py` laden die Normtexte und tragen Hinweise,
+`entscheidungen.py` liefert den Korpus. EPGÜ und VerfO sind als weitere `eunorm`-Familien in
+`build_graph.RICHTLINIEN` registriert (`key=upca`, `kurz=EPGÜ`, Zitat `Art.`; `key=rop`, `kurz=VerfO`, Zitat `R.`).
+Zitierformen in `norms`-Feldern: `Art. 33 Abs. 1 EPGÜ`, `R. 19.1 VerfO`, `R. 262A VerfO` (Aliase `UPCA`, `RoP`;
+Kürzel und Schlüssel stehen in `gesetze.EU_NORM_KEYS`, die Regel-Zitatköpfe in `gesetze.RULE_HEADS`; der
+Zitaterkenner verlinkt `Art. … EPGÜ` auf EUR-Lex und `R. … VerfO` auf das VerfO-PDF). Entscheidungen tragen
+`url` (unifiedpatentcourt.org) statt der dejure-URL; Gerichte heißen `EPG-BerG`, `EPG LK <Ort>`, `EPG ZK <Ort>`.
+
+**Kanten zum Markenrecht.** Die Durchsetzungsrichtlinie verbindet beide Pakete: `upca.ENTSPRICHT` erzeugt Kanten
+`eunorm:upca:<n> -[entspricht]-> eunorm:durchsetzungsrl:<m>` (Art. 59↔6, 60↔7, 67↔8, 62↔9, 64↔10, 63↔11, 68↔13,
+69↔14, 80↔15), die Tabelle `d_upc_entsprechung_durchsetzungsrl` zeigt daneben MarkenG und PatG. Jede VerfO-Regel
+zeigt mit `konkretisiert` auf die Artikel aus ihrem „Bezug zum Übereinkommen“. Beide Kanten erscheinen auf den
+Lernkarten (IPelico) und Inline-Karten (Navigator).
+
+**Rechtsprechungskorpus.** Die 1.886 Entscheidungen sind keine Graphknoten (das würde die Apps verdoppeln), sondern
+liegen als `docs/upc_entscheidungen.json` (1 MB) neben der App und werden in IPelico nachgeladen: Ansicht `#/epg`
+(Suche, Kammer, Verfahrensart, nur mit Leitsatz), `#/epg/norm/<knoten-id>` je Artikel/Regel, und als Abschnitt
+„EPG-Rechtsprechung“ auf jeder EPGÜ-/VerfO-Lernkarte. Jeder Norm-Knoten trägt `zitiert` (Zahl der Entscheidungen).
+Kuratierte Leitentscheidungen (65, überwiegend Berufungsgericht) sind zusätzlich `case`-Knoten mit deutschem `kern`.
+
+**Aktualisieren.** Neue Entscheidungen: `python3 tools/fetch_upc.py --no-net` (nur Datenbank), dann `build.py`.
+Neue VerfO-Fassung: Cache-PDF löschen und ohne `--no-net` laufen lassen; das Deckblatt landet in `meta.stand`.
+Karteikarten entstehen für EPGÜ/VerfO nur für Vorschriften mit Begriff, Schema, Entscheidung oder Hinweis.

@@ -173,6 +173,9 @@ __LAWJS__
 const txt = s => lawify(esc(s));
 const mdt = s => lawify(nl(s));
 const TYPE_LABEL = {norm:'Gesetz',eunorm:'Richtlinie',concept:'Begriff',schema:'Prüfungsschema',step:'Prüfungspunkt',case:'Entscheidung',distinction:'Abgrenzung',source:'IPWiki'};
+const srcName = u => /eur-lex/.test(u||'') ? 'EUR-Lex' : /epo\.org/.test(u||'') ? 'epo.org' : /unifiedpatentcourt/.test(u||'') ? 'unifiedpatentcourt.org' : 'Quelle';
+const euKind = n => n.type!=='eunorm' ? TYPE_LABEL[n.type] : n.rl==='upca' ? 'EPGÜ' : n.rl==='rop' ? 'VerfO' : 'Richtlinie';
+const bridges = id => ({entspricht:O(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.target)), umgesetzt:I(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.source)), bezug:O(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.target)), regeln:I(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.source))});
 const steps = id => O(id).filter(e=>e.relation==='has_step').sort((a,b)=>a.order-b.order).map(e=>byId.get(e.target));
 const schemaOf = stepId => byId.get('schema:'+stepId.slice(5).split('.')[0]);
 const norms = id => O(id).filter(e=>['defined_in','applies','interprets'].includes(e.relation)).map(e=>({node:byId.get(e.target),ref:e.ref}));
@@ -191,8 +194,8 @@ const usedIn = id => { // Begriff/Entscheidung/Norm -> Schemata & Begriffe, die 
 
 // ---------- Chips & inline cards ----------
 function chip(n, ref){ if(!n) return ''; const label = n.type==='norm' && ref ? ref+' MarkenG' : n.type==='eunorm' && ref ? ref : (n.type==='case'? n.court+' '+n.name : n.label);
-  const ext = n.type==='norm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf gesetze-im-internet.de nachlesen">↗</a>` : n.type==='eunorm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf EUR-Lex nachlesen">↗</a>` : '';
-  return `<span class="chip ${n.type}" data-node="${n.id}" title="${esc(TYPE_LABEL[n.type])}: ${esc(n.label)}">${esc(label)}${ext}</span>`; }
+  const ext = n.type==='norm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf gesetze-im-internet.de nachlesen">↗</a>` : n.type==='eunorm' ? `<a class="ext" href="${esc(n.url)}" target="_blank" rel="noopener" title="Auf ${srcName(n.url)} nachlesen">↗</a>` : '';
+  return `<span class="chip ${n.type}" data-node="${n.id}" title="${esc(euKind(n))}: ${esc(n.label)}">${esc(label)}${ext}</span>`; }
 function chips(list, cls){ if(!list.length) return ''; return `<div class="chips">${list.map(x=>x.node?chip(x.node,x.ref):chip(x)).join('')}</div><div class="slot"></div>`; }
 function section(title, html){ return html ? `<div class="sec"><div class="meta" style="margin-top:8px">${title}</div>${html}</div>` : ''; }
 
@@ -206,9 +209,10 @@ function inlineCard(n, ref){
   } else if(n.type==='norm'){
     body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5>` + normText(n, ref) + section('Setzt um', chips(implementsOf(n.id))) + `<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
   } else if(n.type==='eunorm'){
-    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)} · ${esc(n.kapitel)}${n.abschnitt?' · '+esc(n.abschnitt):''}</div>` + eunormText(n) + (n.hinweis?`<div class="merk"><b>Umsetzung/Hinweis:</b> ${txt(n.hinweis)}</div>`:'') + section('Umgesetzt durch', chips(implementedBy(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source)))) + section('Rechtsprechung', chips(I(n.id).filter(e=>e.relation==='interprets').map(e=>byId.get(e.source)))) + weitereTable(n) + `<div class="meta">${n.paraphrase?'Inhalt als Paraphrase erfasst (amtlicher Wortlaut nicht abrufbar).':'Amtlicher Wortlaut (berichtigte Fassung).'} <a href="${esc(n.url)}" target="_blank" rel="noopener">EUR-Lex ↗</a> · <a href="${esc(n.url_pdf)}" target="_blank" rel="noopener">PDF ↗</a></div>`;
+    const br=bridges(n.id); const upc=n.rl==='upca'||n.rl==='rop';
+    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)} · ${esc(n.kapitel)}${n.abschnitt?' · '+esc(n.abschnitt):''}${n.titel_en?' · <i>'+esc(n.titel_en)+'</i>':''}</div>` + eunormText(n) + (n.hinweis?`<div class="merk"><b>${upc?'Hinweis':'Umsetzung/Hinweis'}:</b> ${txt(n.hinweis)}</div>`:'') + section('Umgesetzt durch', chips(implementedBy(n.id))) + section('Entsprechung in der Durchsetzungsrichtlinie', chips(br.entspricht)) + section('Umsetzung im EPGÜ', chips(br.umgesetzt)) + section('Bezug zum Übereinkommen', chips(br.bezug)) + section('Konkretisiert in der Verfahrensordnung', chips(br.regeln)) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source)))) + section('Rechtsprechung', chips(I(n.id).filter(e=>e.relation==='interprets').map(e=>byId.get(e.source)))) + weitereTable(n) + (upc?`<div class="meta">${n.zitiert?`In ${n.zitiert} Entscheidungen des EPG zitiert · <a href="../#/epg/norm/${encodeURIComponent(n.id)}">alle in IPelico anzeigen →</a>`:'Bisher in keiner Entscheidung des EPG zitiert.'}${n.url_en?` · <a href="${esc(n.url_en)}" target="_blank" rel="noopener">English ↗</a>`:''}</div>`:'') + `<div class="meta">${n.paraphrase?'Inhalt als Paraphrase erfasst (amtlicher Wortlaut nicht abrufbar).':'Amtlicher Wortlaut.'} <a href="${esc(n.url)}" target="_blank" rel="noopener">${srcName(n.url)} ↗</a> · <a href="${esc(n.url_pdf)}" target="_blank" rel="noopener">PDF ↗</a></div>`;
   } else if(n.type==='case'){
-    body = `<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.court)}, ${fmtDate(n.date)} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p class="def">${txt(n.kern)}</p>`
+    body = `<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.court)}, ${fmtDate(n.date)} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">${/unifiedpatentcourt/.test(n.url)?'unifiedpatentcourt.org':'dejure'} ↗</a></div><p class="def">${txt(n.kern)}</p>`
       + section('Normen', chips(norms(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='illustrated_by').map(e=>byId.get(e.source))));
   } else if(n.type==='schema'){
     body = `<h5>${esc(n.label)}</h5><p class="def">${txt(n.beschreibung)}</p><ol>${steps(n.id).map(s=>`<li>${esc(s.label)}</li>`).join('')}</ol>`;
@@ -219,7 +223,7 @@ function inlineCard(n, ref){
   } else if(n.type==='source'){
     body = `<h5>${esc(n.label)}</h5><p class="def">${txt(n.summary)}</p><a href="${esc(n.url)}" target="_blank" rel="noopener">${esc(n.url)}</a>`;
   }
-  return `<div class="inline ${n.type}"><div class="kind"><span>${esc(TYPE_LABEL[n.type])}</span>${link}</div>${body}</div>`;
+  return `<div class="inline ${n.type}"><div class="kind"><span>${esc(euKind(n))}</span>${link}</div>${body}</div>`;
 }
 function normText(n, ref){
   const m = ref && ref.match(/Abs\. (\d+[a-z]?)/); const want = m?m[1]:null;
@@ -259,7 +263,8 @@ document.addEventListener('click', ev=>{
 // ---------- Views ----------
 const NAV = [
   ['grp','Lernen'],['#/start','Start'],['#/klausur','Klausur NS'],['#/schemata','Prüfungsschemata'],['#/cards','Karteikarten'],['#/graph','Graph-Explorer'],
-  ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/richtlinie','Markenrechtsrichtlinie'],['#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie'],['#/sources','IPWiki-Quellen']
+  ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/richtlinie','Markenrechtsrichtlinie'],['#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie'],['#/sources','IPWiki-Quellen'],
+  ['grp','Einheitliches Patentgericht'],['#/richtlinie/upca','EPGÜ (Übereinkommen)'],['#/richtlinie/rop','Verfahrensordnung (VerfO)'],['../#/epg','EPG-Rechtsprechung']
 ];
 function renderNav(){ const h=location.hash||'#/start'; const act=NAV.filter(([a])=>a!=='grp'&&h.startsWith(a)).sort((x,y)=>y[0].length-x[0].length)[0];
   document.getElementById('nav').innerHTML = NAV.map(([a,b])=>a==='grp'?`<div class="grp">${b}</div>`:`<a href="${a}" class="${act&&act[0]===a?'active':''}">${b}</a>`).join(''); }
@@ -276,17 +281,19 @@ window.addEventListener('hashchange',route);
 
 function vStart(){
   const st=G.meta.statistik;
-  main.innerHTML = `<h2>Markenrecht – Lernnavigator</h2><p class="lead">${esc(G.meta.beschreibung)} Klicke dich durch die Prüfungsschemata; Begriffe, Normen und Entscheidungen öffnen sich inline.</p>
+  main.innerHTML = `<h2>Markenrecht und EPG – Lernnavigator</h2><p class="lead">${esc(G.meta.beschreibung)} Klicke dich durch die Prüfungsschemata; Begriffe, Normen und Entscheidungen öffnen sich inline.</p>
   <div class="grid">
     ${tile('#/klausur','Klausur NS',`Die Aufsichtsarbeit „Nichttechnische Schutzrechte“: Format, Zulässigkeitsraster, Fristen, Tenor und alle ${KLAUSUR.statistik.klausuren} Klausuren 2018 bis 2025.`)}
     ${tile('#/schemata','Prüfungsschemata',`${st.schema} Schemata mit ${st.step} Prüfungspunkten – zum Durchklicken mit Definitionen inline.`)}
     ${tile('#/cards','Karteikarten',`${CARDS.length} Karten: Definitionen, Schemata, Abgrenzungen, Entscheidungen, Normen.`)}
     ${tile('#/concepts','Begriffe',`${st.concept} Definitionen mit Erläuterung, Normen und Rechtsprechung.`)}
     ${tile('#/distinctions','Abgrenzungen',`${st.distinction} Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft.`)}
-    ${tile('#/cases','Rechtsprechung',`${st.case} Leitentscheidungen des BGH und EuGH mit Kernaussage.`)}
+    ${tile('#/cases','Rechtsprechung',`${st.case} Leitentscheidungen von BGH, EuGH und Einheitlichem Patentgericht mit Kernaussage.`)}
     ${tile('#/law','Gesetz',`Volltext des MarkenG (${st.norm} Paragraphen).`)}
     ${tile('#/richtlinie','Markenrechtsrichtlinie',`${rlCount('markenrl')} Artikel der RL (EU) 2015/2436 mit Umsetzungstabelle.`)}
-    ${tile('#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie',`${rlCount('durchsetzungsrl')} Artikel der RL 2004/48/EG im Wortlaut, Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG, SortSchG.`)}
+    ${tile('#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie',`${rlCount('durchsetzungsrl')} Artikel der RL 2004/48/EG im Wortlaut, Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG, SortSchG – und im EPGÜ.`)}
+    ${tile('#/richtlinie/upca','EPGÜ',`${rlCount('upca')} Artikel des Übereinkommens über ein Einheitliches Patentgericht (deutsch und englisch) mit Zitierzählern aus ${(G.meta.upc||{}).entscheidungen||0} EPG-Entscheidungen.`)}
+    ${tile('#/richtlinie/rop','Verfahrensordnung EPG',`${rlCount('rop')} Regeln der VerfO (Stand 1.1.2026) mit Bezug zum Übereinkommen und Rechtsprechung des Berufungsgerichts.`)}
     ${tile('#/graph','Graph-Explorer','Nachbarschaft eines Knotens visuell erkunden.')}
     ${tile('#/sources','IPWiki','Verweise auf '+st.source+' IPWiki-Artikel.')}
   </div>
@@ -477,7 +484,7 @@ function vCases(){
     document.getElementById('caseList').innerHTML = list.filter(c=>(!ct||c.court===ct)&&(!tg||c.tags.includes(tg))&&(!tx||(c.name+c.kern+c.az).toLowerCase().includes(tx))).map(caseCard).join('')||'<p class="meta">Keine Treffer.</p>'; };
   ['fCourt','fTag','fText'].forEach(i=>document.getElementById(i).addEventListener('input',draw)); draw();
 }
-function caseCard(c){ return `<div class="card"><h4><a href="#/case/${c.id}" style="color:inherit;text-decoration:none">${esc(c.court)} „${esc(c.name)}“</a></h4><div class="meta">${fmtDate(c.date)} – ${esc(c.az)}${c.fundstelle?' – '+esc(c.fundstelle):''} · ${c.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><p class="def">${txt(c.kern)}</p>${chips(norms(c.id))}</div>`; }
+function caseCard(c){ return `<div class="card"><h4><a href="#/case/${c.id}" style="color:inherit;text-decoration:none">${esc(c.court)} „${esc(c.name)}“</a></h4><div class="meta">${fmtDate(c.date)} – ${esc(c.az)}${c.fundstelle?' – '+esc(c.fundstelle):''} · <a href="${esc(c.url)}" target="_blank" rel="noopener">${/unifiedpatentcourt/.test(c.url)?'unifiedpatentcourt.org':'dejure'} ↗</a> · ${c.tags.map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><p class="def">${txt(c.kern)}</p>${chips(norms(c.id))}</div>`; }
 function vLaw(){
   const list=G.nodes.filter(n=>n.type==='norm'); let cur=null,curA=null,html='';
   for(const n of list){ if(n.teil!==cur){cur=n.teil;html+=`<div class="h">${esc(cur)}</div>`;curA=null;} if(n.abschnitt&&n.abschnitt!==curA){curA=n.abschnitt;html+=`<div class="h" style="font-weight:500;font-size:13px">${esc(curA)}</div>`;}
@@ -493,17 +500,27 @@ const RL_VIEW = {
   durchsetzungsrl: {titel:'Durchsetzungsrichtlinie 2004/48/EG',
     lead:'Richtlinie des Europäischen Parlaments und des Rates vom 29. April 2004 zur Durchsetzung der Rechte des geistigen Eigentums, ABl. L 157, S. 45, berichtigt ABl. L 195, S. 16. Sie regelt nicht, was eine Marke ist, sondern wie jedes Schutzrecht durchgesetzt wird: Beweise, Auskunft, Eilrechtsschutz, Rückruf, Vernichtung, Schadensersatz, Kosten. Die Umsetzungstabelle zeigt für jeden Artikel die Norm in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG.',
     hinweis:'Die Artikel stehen im amtlichen Wortlaut der berichtigten Fassung (Buchstabenaufzählungen in den Absatztext eingerückt). Quelle:',
-    chips:['distinction:d_durchsetzungsrl_umsetzung','schema:schema_durchsetzung','eunorm:durchsetzungsrl:erwaegungsgruende','concept:durchsetzungsrl','distinction:d_aufklaerungsansprueche','concept:drittauskunft']},
+    chips:['distinction:d_durchsetzungsrl_umsetzung','schema:schema_durchsetzung','eunorm:durchsetzungsrl:erwaegungsgruende','concept:durchsetzungsrl','distinction:d_aufklaerungsansprueche','concept:drittauskunft','distinction:d_upc_entsprechung_durchsetzungsrl']},
+  upca: {titel:'Übereinkommen über ein Einheitliches Patentgericht (EPGÜ)',
+    lead:'Übereinkommen vom 19. Februar 2013 (ABl. C 175, S. 1), in Kraft seit 1. Juni 2023. Es errichtet das EPG als gemeinsames Gericht der Vertragsmitgliedstaaten, regelt Zuständigkeit (Art. 31 bis 34), materielles Verletzungsrecht (Art. 25 bis 30), Verfahren (Art. 41 bis 82) und Übergangszeit (Art. 83). Jeder Artikel zeigt, in wie vielen Entscheidungen des EPG er genannt wird, welche Regel der VerfO ihn konkretisiert und welchem Artikel der Durchsetzungsrichtlinie er entspricht.',
+    hinweis:'Amtlicher deutscher Wortlaut (epo.org, Fassung 2022); englische Fassung je Artikel verlinkt. Quelle:',
+    chips:['schema:upc_schema_zustaendigkeit','schema:upc_schema_verletzungsklage','distinction:d_upc_epg_deutsches_verfahren','distinction:d_upc_entsprechung_durchsetzungsrl','concept:upc_epg','concept:upc_kammerzustaendigkeit']},
+  rop: {titel:'Verfahrensordnung des Einheitlichen Patentgerichts (VerfO)',
+    lead:'Vom Verwaltungsausschuss am 8. Juli 2022 beschlossen, zuletzt geändert am 4. November 2025 (in Kraft seit 1. Januar 2026). Die Regeln konkretisieren das Übereinkommen: schriftliches Verfahren, Zwischenverfahren, mündliche Verhandlung, einstweilige Maßnahmen, Beweis, Kosten, Berufung. Die Präambel (Verhältnismäßigkeit, Fairness, front-loaded) wird vom Berufungsgericht ständig zitiert.',
+    hinweis:'Deutscher Wortlaut der konsolidierten Fassung (unifiedpatentcourt.org); englische Regeltitel hinterlegt. Quelle:',
+    chips:['eunorm:rop:erwaegungsgruende','schema:upc_schema_einstweilige_massnahmen','schema:upc_schema_berufung','distinction:d_upc_einspruch_klageerwiderung','distinction:d_upc_r262_r262a','concept:upc_verfahrensgrundsaetze']},
 };
 function vRichtlinie(key){
   key = RL_VIEW[key] ? key : 'markenrl'; const v = RL_VIEW[key]; const meta = (G.meta.richtlinien||[]).find(r=>r.key===key) || {quelle:G.meta.markenrl.quelle};
-  const list=G.nodes.filter(n=>n.type==='eunorm'&&n.rl===key&&n.nummer!=='0').sort((a,b)=>+a.nummer-+b.nummer); let cur=null,curA=null,html='';
+  const numKey = n => { const m=String(n.nummer).match(/^(\d+)([A-Za-z]?)/); return m ? [+m[1], m[2]] : [0, String(n.nummer)]; };
+  const list=G.nodes.filter(n=>n.type==='eunorm'&&n.rl===key&&n.nummer!=='0').sort((a,b)=>numKey(a)[0]-numKey(b)[0]||numKey(a)[1].localeCompare(numKey(b)[1])); let cur=null,curA=null,html='';
   for(const n of list){ if(n.kapitel!==cur){cur=n.kapitel;html+=`<div class="h">${esc(cur)}</div>`;curA=null;} if(n.abschnitt&&n.abschnitt!==curA){curA=n.abschnitt;html+=`<div class="h" style="font-weight:500;font-size:13px">${esc(curA)}</div>`;}
-    html+=`<a href="#/eunorm/${n.id}">Art. ${esc(n.nummer)} ${esc(n.titel)}</a>`; }
-  const other = key==='markenrl' ? `<a href="#/richtlinie/durchsetzungsrl">Zur Durchsetzungsrichtlinie 2004/48/EG →</a>` : `<a href="#/richtlinie">Zur Markenrechtsrichtlinie (EU) 2015/2436 →</a>`;
-  const tabelle = key==='durchsetzungsrl' ? `<div class="card"><h4>Umsetzungstabelle: Artikel → Gesetz</h4>${cmpTable(byId.get('distinction:d_durchsetzungsrl_umsetzung'))}</div>` : '';
+    html+=`<a href="#/eunorm/${n.id}">${esc(n.zitat||'Art.')} ${esc(n.nummer)} ${esc(n.titel)}${n.zitiert?` <span class="meta" style="float:right">${n.zitiert}</span>`:''}</a>`; }
+  const others = {markenrl:['#/richtlinie/durchsetzungsrl','Zur Durchsetzungsrichtlinie 2004/48/EG →'], durchsetzungsrl:['#/richtlinie/upca','Zum EPGÜ (Umsetzung für das Einheitliche Patentgericht) →'], upca:['#/richtlinie/rop','Zur Verfahrensordnung des EPG →'], rop:['#/richtlinie/upca','Zum Übereinkommen (EPGÜ) →']};
+  const other = `<a href="${others[key][0]}">${others[key][1]}</a>`;
+  const tabelle = key==='durchsetzungsrl' ? `<div class="card"><h4>Umsetzungstabelle: Artikel → Gesetz</h4>${cmpTable(byId.get('distinction:d_durchsetzungsrl_umsetzung'))}</div>` : key==='upca' ? `<div class="card"><h4>Entsprechungstabelle: Durchsetzungsrichtlinie → EPGÜ, VerfO, MarkenG, PatG</h4>${cmpTable(byId.get('distinction:d_upc_entsprechung_durchsetzungsrl'))}</div>` : '';
   main.innerHTML = `<h2>${esc(v.titel)}</h2><p class="lead">${esc(v.lead)}</p>
-    <div class="card"><b>Hinweis:</b> ${esc(v.hinweis)} <a href="${esc(meta.quelle)}" target="_blank" rel="noopener">EUR-Lex ↗</a>. ${other}
+    <div class="card"><b>Hinweis:</b> ${esc(v.hinweis)} <a href="${esc(meta.quelle)}" target="_blank" rel="noopener">${srcName(meta.quelle)} ↗</a>. ${other}
     ${chips(v.chips.map(id=>byId.get(id)).filter(Boolean))}</div>
     ${tabelle}
     <div class="card toc">${html}</div>`;

@@ -13,3 +13,6 @@
 - Aktenzeichen und Daten von Entscheidungen nie ungeprüft übernehmen; per WebSearch verifizieren.
 - Klausur-PDFs unter `klausuren/` sind nicht versioniert; Zuordnung Klausur → Beschluss steht in
   `klausuren/README.md` und ist bei neuen Klausuren fortzuschreiben (Vorgehen: `PLAYBOOK.md` 5a).
+- Zweites Wissenspaket EPG (`src/knowledge/upc/`): Normtexte und Entscheidungen kommen aus `data/upca.json`,
+  `data/upc_rop.json`, `data/upc_decisions.json` (erzeugt von `tools/fetch_upc.py` aus der RheinIP-Postgres-Datenbank
+  und den amtlichen Texten; Vorgehen `PLAYBOOK.md` Abschnitt 11). Zitierform `Art. 33 Abs. 1 EPGÜ`, `R. 19.1 VerfO`.

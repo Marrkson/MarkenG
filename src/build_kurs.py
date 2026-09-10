@@ -106,6 +106,25 @@ def favicon():
     return "data:image/svg+xml;base64," + base64.b64encode(p.read_bytes()).decode()
 
 
+APP_ICONS = ["apple-touch-icon.png", "icon-192.png", "icon-512.png", "favicon-32.png", "favicon-16.png"]
+
+
+def app_icons():
+    """PNG-Icons (Homescreen, Favicon) und Web-Manifest nach docs/ kopieren; PNGs entstehen aus dem Badge."""
+    for name in APP_ICONS:
+        src = ASSETS / "logo" / name
+        if not src.exists():
+            raise SystemExit(f"App-Icon fehlt: {src} (Rendern: siehe PLAYBOOK 6)")
+        (OUT.parent / name).write_bytes(src.read_bytes())
+    manifest = {
+        "name": "IPelico – Markenrecht in Fällen", "short_name": "IPelico", "start_url": "./", "scope": "./",
+        "display": "standalone", "background_color": "#f3f5f9", "theme_color": "#1482e3", "lang": "de",
+        "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+                  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}],
+    }
+    (OUT.parent / "manifest.webmanifest").write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def build():
     graph = json.loads(GRAPH.read_text(encoding="utf-8"))
     DATA.write_text(json.dumps(KURSE, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -122,6 +141,7 @@ def build():
             raise SystemExit(f"Platzhalter {ph} nicht ersetzt")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
+    app_icons()
     n = sum(len(k["einheiten"]) for kurs in KURSE for k in kurs["kapitel"])
     print(f"IPelico: {len(KURSE)} Kurse, {n} Einheiten, Sprite {len(sp)/1024:.0f} KB -> "
           f"{OUT.relative_to(ROOT)} ({OUT.stat().st_size/1024:.0f} KB)")

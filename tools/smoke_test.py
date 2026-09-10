@@ -98,6 +98,24 @@ with sync_playwright() as pw:
     pg4.fill("#xio", dump); pg4.click("#xover"); pg4.wait_for_timeout(200)
     check("k01a-0." not in pg4.evaluate("document.cookie"), "Überschreiben behält alte Einheiten")
     ctx3.close()
+    # Umzug von marrkson.github.io (#umzug=, tools/umzug/): zusammenführen, nur einmal, leere Daten ignorieren
+    import base64
+    b64 = lambda o: base64.urlsafe_b64encode(json.dumps(o).encode()).decode().rstrip("=")
+    alt = {"app": "ipelico", "v": 1, "roh": {"mgk_p": "k01a-2.1.20300.2", "mgk_m": "20300,3,5,120,k01a-2,1"},
+           "einstellungen": {"mgk_theme": "dark"}, "navigator": {"markenrecht.cards.v1": '{"c1":"ok"}'}}
+    ctx4 = b.new_context(viewport={"width": 390, "height": 844}); pg5 = ctx4.new_page()
+    pg5.goto(BASE); pg5.evaluate("document.cookie='mgk_p=k01a-0.0.20310.0; path=/'; localStorage.setItem('markenrecht.cards.v1','{\"c2\":\"bad\"}')")
+    pg5.goto(BASE + "#umzug=" + b64({"app": "ipelico", "v": 1, "roh": {}})); pg5.reload(); pg5.wait_for_timeout(300)
+    check("kein Fortschritt gefunden" in pg5.inner_text("#xmsg") and pg5.evaluate("localStorage.getItem('mgk_umzug')") is None, "Umzug ohne Daten setzt Marke")
+    pg5.goto(BASE + "#umzug=" + b64(alt)); pg5.reload(); pg5.wait_for_timeout(300)
+    cookie = pg5.evaluate("document.cookie")
+    check("k01a-0.0.20310.0" in cookie and "k01a-2.1.20300.2" in cookie, "Umzug führt nicht zusammen")
+    check(pg5.url.endswith("#/profil") and "abgeschlossen" in pg5.inner_text("#xmsg"), "Umzug: keine Meldung oder Fragment bleibt stehen")
+    check(json.loads(pg5.evaluate("localStorage.getItem('markenrecht.cards.v1')")) == {"c2": "bad", "c1": "ok"}, "Umzug: Navigator-Karten nicht zusammengeführt")
+    alt["roh"]["mgk_p"] = "k01b-1.1.20300.1"
+    pg5.goto(BASE + "#umzug=" + b64(alt)); pg5.reload(); pg5.wait_for_timeout(300)
+    check("bereits" in pg5.inner_text("#xmsg") and "k01b-1" not in pg5.evaluate("document.cookie"), "Umzug wird mehrfach ausgeführt")
+    ctx4.close()
     # EPG-Rechtsprechung (nachgeladener Korpus) und Brücken auf den Lernkarten
     pg.goto(BASE + "#/epg"); pg.wait_for_timeout(1500)
     check(pg.evaluate("document.querySelectorAll('details.epg').length") >= 20, "EPG-Rechtsprechung: keine Entscheidungen geladen")

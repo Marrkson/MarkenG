@@ -444,17 +444,18 @@ const Store = (()=>{
   probe();
   const rd = n => { try{ return mode==='cookie' ? getC(n) : localStorage.getItem(n); }catch(e){ return null; } };
   const wr = (n,v) => { try{ if(mode==='cookie') setC(n,v); else localStorage.setItem(n,v); }catch(e){} };
-  const load = () => {
+  const decode = (u, m) => {
     const p = {u:{}, s:{last:0,cnt:0,best:0}, xp:0, last:'', ack:0};
-    const u = rd(NAME); if(u){ for(const part of u.split('_')){ const [id,r,d,n]=part.split('.'); if(id) p.u[id]={r:+r,d:+d,n:+n||0}; } }
-    const m = rd(META); if(m){ const [last,cnt,best,xp,lastU,ack]=m.split(','); p.s={last:+last||0,cnt:+cnt||0,best:+best||0}; p.xp=+xp||0; p.last=lastU||''; p.ack=+ack||0; }
+    if(u){ for(const part of u.split('_')){ const [id,r,d,n]=part.split('.'); if(id) p.u[id]={r:+r,d:+d,n:+n||0}; } }
+    if(m){ const [last,cnt,best,xp,lastU,ack]=m.split(','); p.s={last:+last||0,cnt:+cnt||0,best:+best||0}; p.xp=+xp||0; p.last=lastU||''; p.ack=+ack||0; }
     return p; };
+  const load = () => decode(rd(NAME), rd(META));
   const save = p => {
     wr(NAME, Object.entries(p.u).map(([id,v])=>`${id}.${v.r}.${v.d}.${v.n}`).join('_'));
     wr(META, [p.s.last,p.s.cnt,p.s.best,p.xp,p.last,p.ack].join(','));
   };
   const clear = () => { wr(NAME,''); wr(META,''); if(mode==='cookie'){ document.cookie='mgk_p=; max-age=0; path='+CPATH; document.cookie='mgk_m=; max-age=0; path='+CPATH; } };
-  return {load, save, clear, mode:()=>mode};
+  return {load, decode, save, clear, mode:()=>mode};
 })();
 let P = Store.load();
 function touchStreak(){ const t=DAY(); if(P.s.last===t) return; P.s.cnt = (P.s.last===t-1) ? P.s.cnt+1 : 1; P.s.last=t; P.s.best=Math.max(P.s.best,P.s.cnt); }
@@ -468,22 +469,34 @@ const unitsOf = k => k.kapitel.flatMap(c=>c.einheiten);
 // ---------- Fortschritt übertragen: JSON kopieren, einfügen (zusammenführen/überschreiben) ----------
 const Transfer = (()=>{
   const PREFS=['mgk_theme','mgk_radar','mgk_view','mgk_recent'];
+  const CARDS_LS='markenrecht.cards.v1', NAV=[CARDS_LS,'markenrecht.theme'];  // Lernnavigator (navigator/)
   const ID=/^[A-Za-z0-9-]+$/; const int=v=>Math.max(0,Math.floor(+v)||0);
   const getLS=k=>{ try{ return localStorage.getItem(k); }catch(e){ return null; } };
   const setLS=(k,v)=>{ try{ v==null ? localStorage.removeItem(k) : localStorage.setItem(k,v); }catch(e){} };
-  const dump = () => JSON.stringify({app:'ipelico', v:1, exportiert:new Date().toISOString(), fortschritt:P, einstellungen:Object.fromEntries(PREFS.map(k=>[k,getLS(k)]))});
+  const dump = () => JSON.stringify({app:'ipelico', v:1, exportiert:new Date().toISOString(), fortschritt:P, einstellungen:Object.fromEntries(PREFS.map(k=>[k,getLS(k)])), navigator:Object.fromEntries(NAV.map(k=>[k,getLS(k)]))});
   // Eingabe prüfen und in das Format von Store.load bringen (Trennzeichen . _ , dürfen nicht in IDs vorkommen)
+  // `roh` enthält die Cookie-Werte unverändert (Umzugsseite tools/umzug/)
   const parse = text => {
     let o; try{ o=JSON.parse(String(text).trim()); }catch(e){ throw new Error('Kein gültiges JSON. Bitte den kompletten kopierten Text einfügen.'); }
-    const f = o && (o.fortschritt || (o.u ? o : null));
+    const str = v => typeof v==='string' ? v : '';
+    const f = o && (o.fortschritt || (o.u ? o : null) || (o.roh && typeof o.roh==='object' ? Store.decode(str(o.roh.mgk_p), str(o.roh.mgk_m)) : null));
     if(!f || typeof f.u!=='object' || Array.isArray(f.u)) throw new Error('Das JSON enthält keinen IPelico-Fortschritt.');
     const u={}; for(const [id,v] of Object.entries(f.u)) if(ID.test(id) && v && typeof v==='object') u[id]={r:v.r?1:0, d:int(v.d), n:int(v.n)};
     const s=f.s||{};
     const p={u, s:{last:int(s.last),cnt:int(s.cnt),best:int(s.best)}, xp:int(f.xp), last:ID.test(f.last||'')?f.last:'', ack:f.ack?1:0};
     const prefs={}; const e=o.einstellungen; if(e && typeof e==='object') for(const k of PREFS) if(k in e) prefs[k]=typeof e[k]==='string'?e[k]:null;
-    return {p, prefs}; };
+    const nav={}; const g=o.navigator; if(g && typeof g==='object') for(const k of NAV) if(typeof g[k]==='string') nav[k]=g[k];
+    return {p, prefs, nav}; };
+  // Navigator-Karten tragen keinen Zeitstempel: beim Zusammenführen gewinnt der Stand dieses Geräts
+  const applyNav = (nav, mode) => {
+    if(nav[CARDS_LS]){ let a={}, b=null; try{ a=JSON.parse(getLS(CARDS_LS)||'{}'); }catch(e){} try{ b=JSON.parse(nav[CARDS_LS]); }catch(e){}
+      if(b && typeof b==='object' && !Array.isArray(b)){ const out = mode==='over' || !a || typeof a!=='object' ? {} : a;
+        for(const [k,v] of Object.entries(b)) if(typeof v==='string' && (mode==='over' || !(k in out))) out[k]=v;
+        setLS(CARDS_LS, JSON.stringify(out)); } }
+    if(nav['markenrecht.theme'] && (mode==='over' || getLS('markenrecht.theme')==null)) setLS('markenrecht.theme', nav['markenrecht.theme']); };
   const newer = (a,b) => !a || b.d>a.d || (b.d===a.d && b.n>a.n);
-  const apply = ({p,prefs}, mode) => {
+  const apply = ({p,prefs,nav}, mode) => {
+    if(nav) applyNav(nav, mode);
     if(mode==='over'){ P=p; for(const k of PREFS) if(k in prefs) setLS(k,prefs[k]); }
     else {
       for(const [id,v] of Object.entries(p.u)) if(newer(P.u[id],v)) P.u[id]=v;
@@ -860,7 +873,24 @@ function vEpg(a, b){
   }).catch(err=>{ document.getElementById('epg-box').innerHTML=`<div class="box bad"><div class="k">${ic('falsch','s')}Nicht geladen</div>Die Entscheidungsdatenbank (upc_entscheidungen.json) konnte nicht geladen werden. Sie ist nur über einen Webserver erreichbar (${esc(String(err))}).</div>`; });
 }
 function notice(){ const n=document.getElementById('notice'); if(P.ack||Store.mode()!=='cookie'){ n.hidden=true; return; } n.hidden=false; n.innerHTML=`${ic('datenschutz')}<span>Fortschritt wird nur in einem Cookie auf diesem Gerät gespeichert, kein Tracking.</span><button class="btn primary" id="ack">OK</button>`; document.getElementById('ack').onclick=()=>{ P.ack=1; Store.save(P); n.hidden=true; }; }
+// Umzug von marrkson.github.io/MarkenG: tools/umzug/ liest dort Cookies und localStorage und übergibt sie
+// als #umzug=<base64url(JSON)>; das Fragment erreicht keinen Server und wird sofort aus der Adresse entfernt.
+// Einmalig: nach einem Umzug mit Daten merkt sich mgk_umzug das Datum, spätere Weiterleitungen ändern nichts mehr.
+// Zusammengeführt wird immer (je Einheit gewinnt die neuere Antwort), nie überschrieben.
+let umzug=null;
+if(location.hash.startsWith('#umzug=')){
+  let done=null; try{ done=localStorage.getItem('mgk_umzug'); }catch(e){}
+  if(done) umzug={ok:true, t:`Der Fortschritt von marrkson.github.io wurde bereits am ${done.slice(0,10).split('-').reverse().join('.')} übernommen; nichts geändert.`};
+  else try{ const bin=atob(location.hash.slice(7).replace(/-/g,'+').replace(/_/g,'/'));
+    const d=Transfer.parse(new TextDecoder().decode(Uint8Array.from(bin,c=>c.charCodeAt(0))));
+    if(!Object.keys(d.p.u).length && !d.p.xp && !d.nav['markenrecht.cards.v1']) umzug={ok:false, t:'Auf marrkson.github.io wurde kein Fortschritt gefunden; nichts geändert.'};
+    else { const n=Transfer.apply(d,'merge'); try{ localStorage.setItem('mgk_umzug', new Date().toISOString()); }catch(e){}
+      umzug={ok:true, t:`Umzug von marrkson.github.io abgeschlossen: ${n} Einheiten übernommen, jetzt ${Object.keys(P.u).length} bearbeitet.`}; } }
+  catch(e){ umzug={ok:false, t:'Umzug fehlgeschlagen: '+e.message}; }
+  history.replaceState(null,'',location.pathname+location.search+'#/profil');
+}
 route();
+if(umzug){ const m=document.getElementById('xmsg'); if(m){ m.textContent=umzug.t; m.className='meta xmsg '+(umzug.ok?'ok':'bad'); m.scrollIntoView({block:'center'}); } }
 })();
 </script>
 </body>

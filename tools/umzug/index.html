@@ -1,0 +1,88 @@
+<!doctype html>
+<!--
+  Umzugsseite: überträgt den IPelico-Fortschritt von https://marrkson.github.io/MarkenG/ nach https://ipelico.com/.
+
+  Seit der eigenen Domain leitet GitHub jede Adresse unter /MarkenG/ sofort weiter; Cookies (mgk_p, mgk_m,
+  Pfad /MarkenG/) und localStorage des alten Ursprungs sind dort nicht mehr lesbar. Diese Seite muss deshalb
+  auf demselben Ursprung marrkson.github.io liegen, aber in einem anderen Repository ohne eigene Domain
+  (z. B. Marrkson/ipelico-umzug -> https://marrkson.github.io/ipelico-umzug/).
+
+  Ablauf: Adresse per history.replaceState auf /MarkenG/ setzen (document.cookie liefert dann die Cookies dieses
+  Pfads), Werte und localStorage einsammeln, zurücksetzen und nach https://ipelico.com/#umzug=<base64url(JSON)>
+  weiterleiten. kurs.html führt die Daten dort zusammen. Nichts wird an einen Server gesendet.
+  Test: ?ziel=http://localhost:8791/ leitet stattdessen auf einen lokalen Server.
+-->
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>IPelico – Fortschritt umziehen</title>
+<style>
+  :root{color-scheme:light dark;--bg:#f4f7fb;--fg:#10223a;--muted:#5b6b80;--brand:#1f5fbf}
+  @media (prefers-color-scheme:dark){:root{--bg:#0c1522;--fg:#e8eef7;--muted:#9aa8ba;--brand:#6ea2ff}}
+  body{margin:0;min-height:100vh;display:grid;place-items:center;background:var(--bg);color:var(--fg);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
+  main{max-width:34rem;padding:2rem 1.5rem}
+  h1{font-size:1.4rem;margin:0 0 .75rem}
+  p{margin:0 0 1rem;color:var(--muted)}
+  a{color:var(--brand)}
+</style>
+</head>
+<body>
+<main>
+  <h1>Fortschritt wird übertragen …</h1>
+  <p id="msg">Einen Moment, IPelico öffnet sich gleich unter <a href="https://ipelico.com/">ipelico.com</a>.</p>
+  <noscript><p>Für den Umzug wird JavaScript benötigt.</p></noscript>
+</main>
+<script>
+(async () => {
+  const msg = document.getElementById('msg');
+  const z = new URLSearchParams(location.search).get('ziel');
+  const ZIEL = z && /^http:\/\/(localhost|127\.0\.0\.1)(:\d+)?\/[^#]*$/.test(z) ? z : 'https://ipelico.com/';
+  const KEYS = ['mgk_theme', 'mgk_radar', 'mgk_view', 'mgk_recent', 'markenrecht.cards.v1', 'markenrecht.theme'];
+
+  // Cookies mit Pfad /MarkenG/ sind nur in Dokumenten unter /MarkenG/ lesbar. GitHub leitet dort alles weiter,
+  // außer ungültigen Adressen wie /MarkenG/%ZZ (Fehlerseite 400 auf demselben Ursprung): diese im iframe laden.
+  const viaFrame = path => new Promise(res => {
+    const f = document.createElement('iframe'); f.hidden = true; f.src = path;
+    const done = v => { clearTimeout(t); f.remove(); res(v); };
+    const t = setTimeout(() => done(''), 6000);
+    f.onload = () => { try { done(f.contentDocument.cookie || ''); } catch (e) { done(''); } };
+    document.body.appendChild(f);
+  });
+  // Rückfall für Browser, deren document.cookie der per replaceState geänderten Adresse folgt
+  const viaState = path => {
+    const here = location.pathname + location.search + location.hash;
+    try { history.replaceState(null, '', path); return document.cookie; }
+    catch (e) { return ''; }
+    finally { history.replaceState(null, '', here); }
+  };
+  const pick = (jar, n) => { const m = jar.match(new RegExp('(?:^|; )' + n + '=([^;]*)')); return m ? decodeURIComponent(m[1]) : null; };
+
+  const roh = {};
+  for (const jar of [await viaFrame('/MarkenG/%ZZ'), viaState('/MarkenG/')])
+    for (const n of ['mgk_p', 'mgk_m']) if (!roh[n]) { const v = pick(jar, n); if (v) roh[n] = v; }
+  const ls = {};
+  for (const k of KEYS) { try { const v = localStorage.getItem(k); if (v != null) ls[k] = v; } catch (e) {} }
+
+  if (!roh.mgk_p && !roh.mgk_m && !ls['markenrecht.cards.v1']) {
+    document.querySelector('h1').textContent = 'Kein alter Fortschritt gefunden';
+    msg.innerHTML = 'In diesem Browser liegen unter marrkson.github.io keine IPelico-Daten. Öffne diese Seite im selben Browser '
+      + '(und auf demselben Gerät), in dem du früher gelernt hast. Private Fenster und gelöschte Websitedaten lassen sich nicht wiederherstellen.<br><br>'
+      + '<a href="https://ipelico.com/">Weiter zu ipelico.com</a>';
+    return;
+  }
+
+  const data = {
+    app: 'ipelico', v: 1, quelle: location.origin + '/MarkenG/', roh,
+    einstellungen: Object.fromEntries(KEYS.filter(k => k.startsWith('mgk_')).map(k => [k, ls[k] ?? null])),
+    navigator: Object.fromEntries(KEYS.filter(k => k.startsWith('markenrecht.') && k in ls).map(k => [k, ls[k]])),
+  };
+  const bytes = new TextEncoder().encode(JSON.stringify(data));
+  let bin = ''; for (const b of bytes) bin += String.fromCharCode(b);
+  const b64 = btoa(bin).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
+  location.replace(ZIEL + '#umzug=' + b64);
+})();
+</script>
+</body>
+</html>

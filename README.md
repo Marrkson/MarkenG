@@ -1,4 +1,4 @@
-# Markenrecht – Wissensgraph, Karteikarten und Lernnavigator
+# IPelico – Markenrecht in Fällen: Fallkurs, Wissensgraph, Karteikarten, Lernnavigator
 
 Lernmaterial zum deutschen Markenrecht (MarkenG), aufgebaut auf einem Wissensgraphen aus
 Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und BGH-/EuGH-Leitentscheidungen.
@@ -7,9 +7,10 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/kurse/index.html` | **Fallkurs** im Jurafuchs-Format: 14 Kurse, 290 Lerneinheiten (Fälle mit Ja/Nein, Wissensfragen, Prüfungsschemata, Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie |
-| `docs/didaktik.md` | Analyse des Jurafuchs-Formats und Kursaufbau |
-| `docs/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
+| `docs/index.html` | **IPelico**, der Fallkurs: 14 Kurse, 46 Kapitel, 290 Lerneinheiten (193 Fälle mit Ja/Nein, 60 Wissensfragen, 23 Prüfungsschemata, 14 Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie; Gestaltung nach `DESIGN.md` |
+| `docs/didaktik.md` | Didaktisches Konzept von IPelico und Kursaufbau |
+| `DESIGN.md`, `src/templates/ipelico/` | Gestaltungsrichtlinie (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons, Schriften) und die Assets dazu; `tools/gen_assets.py` erzeugt die Icons |
+| `docs/navigator/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
 | `graph/markenrecht_graph.json` | **Wissensgraph** (1.237 Knoten, ca. 4.900 Kanten) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
@@ -22,9 +23,9 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 | `klausuren/` | NS-Klausuren 2018–2025 (kandidatentreff.de) und die Zuordnung zu den zugrunde liegenden BPatG-/BGH-Beschlüssen (`klausuren/README.md`) |
 | `src/*.py`, `build.py` | Build-Pipeline |
 
-## Fallkurs starten
+## IPelico starten
 
-`docs/kurse/index.html` im Browser öffnen, am besten über einen kleinen Webserver (`python3 -m http.server` im Ordner `docs`), damit der Fortschritt in Cookies gespeichert wird. Als lokale Datei geöffnet, nutzt die App automatisch den Browserspeicher.
+`docs/index.html` im Browser öffnen, am besten über einen kleinen Webserver (`python3 -m http.server` im Ordner `docs`), damit der Fortschritt in Cookies gespeichert wird. Als lokale Datei geöffnet, nutzt die App automatisch den Browserspeicher.
 
 - **Kurse → Kapitel → Einheiten**: Sachverhalt, Frage, Ja/Nein oder Auswahl, sofortiges Feedback, Lösung im Gutachtenstil, Merksatz; Begriffe, Normen und Entscheidungen inline aufklappbar.
 - **Wiederholen**: falsch beantwortete Fälle und fällige Wiederholungen (Intervalle 1, 3, 7, 14, 30, 60 Tage).
@@ -33,7 +34,7 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 ## Lernnavigator starten
 
-`docs/index.html` im Browser öffnen. Keine Installation, keine externen Ressourcen.
+`docs/navigator/index.html` im Browser öffnen. Keine Installation, keine externen Ressourcen.
 
 - **Klausur NS**: eigene Sektion zur Aufsichtsarbeit „Nichttechnische Schutzrechte“ der Patentanwaltsprüfung.
   Aufgabentypen mit Häufigkeit und Aufgabenformeln, Zeitplan für vier Stunden, das Zulässigkeitsraster als
@@ -78,7 +79,8 @@ python3 build.py
 ```
 
 Die Pipeline parst `data/markeng.md`, baut den Graphen aus `src/knowledge/` (inklusive Kursen), erzeugt die Karten und
-rendert beide Apps aus `src/templates/app.html` und `src/templates/kurs.html`. Inhalte werden ausschließlich in `src/knowledge/`
+rendert beide Apps aus `src/templates/app.html` und `src/templates/kurs.html`; in IPelico werden dabei das SVG-Sprite
+(Icons, Zeichen) und die Plex-Schriften aus `src/templates/ipelico/` eingebettet. Inhalte werden ausschließlich in `src/knowledge/`
 gepflegt.
 
 ## Deployment auf GitHub Pages
@@ -99,7 +101,7 @@ löschen, sonst läuft der Workflow leer mit.
 
 | URL | Inhalt |
 |---|---|
-| `https://<owner>.github.io/MarkenG/` | Fallkurs |
+| `https://<owner>.github.io/MarkenG/` | IPelico (Fallkurs) |
 | `https://<owner>.github.io/MarkenG/navigator/` | Lernnavigator |
 
 Der Lernfortschritt liegt in Cookies, die auf den Pfad der Seite begrenzt sind.

@@ -1,6 +1,6 @@
 # Baut bei jedem Push auf main den Wissensgraphen, die Karteikarten und beide Web-Apps
 # neu und veröffentlicht den Ordner docs/ auf GitHub Pages:
-#   /            Fallkurs (Jurafuchs-Format)
+#   /            IPelico (Fallkurs)
 #   /navigator/  Lernnavigator
 # Voraussetzung (einmalig): Settings -> Pages -> Source "GitHub Actions".
 name: GitHub Pages

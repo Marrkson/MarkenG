@@ -1,12 +1,9 @@
-# Didaktische Analyse: Jurafuchs-Format und Übertragung auf das MarkenG
+# Didaktisches Konzept von IPelico
 
-## Wie Jurafuchs Kapitel aufbereitet
+IPelico ist der Fallkurs zum Markenrecht. Die Falldidaktik folgt dem Vorbild von Jurafuchs (öffentliche
+Beschreibungen und Nutzung der App); die Umsetzung ist eigenständig. Fünf Prinzipien tragen das Format:
 
-Die Analyse stützt sich auf die öffentlichen Beschreibungen von Jurafuchs (Website, FAQ,
-Interviews mit den Gründern bei iurratio, Erfahrungsberichte aus der Lehre) und auf die
-Nutzung der App selbst. Fünf Prinzipien tragen das Format:
-
-| Prinzip | Was Jurafuchs macht | Übertragung im Markenrecht Fallkurs |
+| Prinzip | Vorbild | Umsetzung in IPelico |
 |---|---|---|
 | **Atomisierung** | Der Stoff wird in die kleinsten sinnvollen Einheiten zerlegt. Eine Einheit behandelt genau ein Rechtsproblem, meist einen Prüfungspunkt. | Jede Einheit ist an einen Prüfungspunkt des Wissensgraphen gekoppelt (`step`-Referenz), z.B. „markenmäßige Benutzung“ oder „Bekanntheit zum Prioritätstag“. |
 | **Falldidaktik** | Rechtswissen wird ausschließlich über konkrete Lebenssachverhalte vermittelt, wenige Sätze lang, mit Namen und Alltagsbezug, häufig an echte BGH-Fälle angelehnt. | 88 Mini-Fälle, viele nach Leitentscheidungen (Opel-Blitz, ORTLIEB, Goldbären, Ritter Sport, Tork). Sachverhalt in eigener Box, dann die Frage. |
@@ -22,8 +19,10 @@ Weitere Merkmale, die übernommen wurden:
   aufrufbar, statt sie in getrennten Listen zu verstecken.
 - **Kapitelabschluss** mit Ergebnis und Liste der Fehler, die direkt erneut geöffnet werden können.
 
-Was bewusst anders ist: Jurafuchs nutzt Illustrationen für jeden Fall; hier stehen stattdessen
-Kursfarben und Icons. Lückentexte und Gruppierungsaufgaben wurden nicht nachgebaut.
+Was bewusst anders ist: keine Illustrationen je Fall. IPelico setzt auf ein ruhiges, seriöses Design
+(`DESIGN.md`): Glas-Oberflächen in Rhein-IP-Blau, Wissensboxen (Sachverhalt, Merke, Richtig, Falsch),
+Kursnummern statt Farbkacheln, ein eigenes Icon-Set in der Sprache des Zeichens. Lückentexte und
+Gruppierungsaufgaben wurden nicht nachgebaut.
 
 ## Kursaufbau
 
@@ -40,8 +39,10 @@ Kursfarben und Icons. Lückentexte und Gruppierungsaufgaben wurden nicht nachgeb
 | 9 Rechtsfolgen und Durchsetzung | Unterlassung und Schadensersatz · Täter, Teilnehmer, Störer | 7 |
 | 10 Unionsmarke und IR-Marke | Unionsmarke · IR-Marke | 11 |
 
-Insgesamt 125 Einheiten: 88 Fälle (Ja/Nein), 20 Wissensfragen (Auswahl), 14 Prüfungsschemata,
-3 Einführungen.
+Stand September 2026: 14 Kurse, 46 Kapitel, 290 Einheiten: 193 Fälle (Ja/Nein), 60 Wissensfragen (Auswahl),
+23 Prüfungsschemata, 14 Einführungen. Zu den Kursen 1 bis 10 kamen Kurs 11 (Markenrechtsrichtlinie), Kurs 12
+(Klausurtraining NS nach den Klausuren der Patentanwaltsprüfung), Kurs 13 (Wirksamkeit und Zulässigkeit)
+und Kurs 14 (Durchsetzungsrichtlinie).
 
 ## Speicherung des Fortschritts
 

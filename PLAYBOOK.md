@@ -1,7 +1,7 @@
 # Playbook: Wissensgraph und Lernkurse für ein Rechtsgebiet erstellen
 
 Dieses Dokument beschreibt, wie der Markenrecht-Graph, die Karteikarten, der Lernnavigator und der
-Fallkurs entstanden sind, damit derselbe Prozess für weitere Gesetze (PatG, GebrMG, DesignG,
+Fallkurs IPelico entstanden sind, damit derselbe Prozess für weitere Gesetze (PatG, GebrMG, DesignG,
 ArbnErfG, PatKostG, IntPatÜG, ERVDPMAV, …) wiederholt werden kann. Es ist als Arbeitsanweisung
 für einen Agenten geschrieben. Reihenfolge, Konventionen und Prüfschritte sind verbindlich; die
 Inhalte sind das, was den Aufwand ausmacht.
@@ -17,7 +17,9 @@ Ein Rechtsgebiet ist fertig, wenn es Folgendes gibt:
 | Kurse (Fallformat) | `src/knowledge/kurse/k*.py` | Hand |
 | Wissensgraph | `graph/markenrecht_graph.json` | `src/build_graph.py` |
 | Karteikarten (JSON, Anki-CSV, Markdown) | `flashcards/` | `src/build_flashcards.py` |
-| Fallkurs (Website-Startseite) | `docs/index.html` | `src/build_kurs.py` + `src/templates/kurs.html` |
+| IPelico (Fallkurs, Website-Startseite) | `docs/index.html` | `src/build_kurs.py` + `src/templates/kurs.html` + `src/templates/ipelico/` |
+| Gestaltungsrichtlinie | `DESIGN.md` | Hand |
+| Icons, Zeichen, Schriften | `src/templates/ipelico/` | `tools/gen_assets.py` (Gemini + potrace), Hand |
 | Lernnavigator | `docs/navigator/index.html` | `src/build_html.py` + `src/templates/app.html` |
 
 `python3 build.py` erzeugt alles in dieser Reihenfolge. Jede Änderung geschieht **nur** in
@@ -118,7 +120,7 @@ Prüfblöcke, die während der Erstellung in Bash ausgeführt wurden; sie prüfe
   Zitatketten so schreiben, dass der Erkenner sie trennt: `§§ 935 ff. ZPO, § 937 Abs. 2 ZPO`, nicht
   `§§ 935 ff., 937 Abs. 2 ZPO`; Gesetz hinter das Zitat, nicht davor in Klammern.
 
-## 5. Kurse im Fallformat (Jurafuchs-Prinzip)
+## 5. Kurse im Fallformat
 
 Didaktik: kleinste Einheit = ein Prüfungspunkt; kurzer Lebenssachverhalt mit Namen; eine Frage
 (Ja/Nein oder vier Optionen); sofortiges Feedback; Lösung im Gutachtenstil (Antwortsatz fett,
@@ -166,7 +168,14 @@ Fremdgesetze gehören in den Fließtext, wo `gesetze.py` sie verlinkt.
 
 - Templates sind eigenständige HTML-Dateien ohne externe Ressourcen; Daten werden als JSON
   eingebettet (`__DATA__`, `__CARDS__`, `__KURSE__`, `__GRAPH__`), das Verlinkungs-JavaScript
-  wird aus `gesetze.py` erzeugt (`__LAWJS__`). Für ein neues Gesetz sind an den Templates in der
+  wird aus `gesetze.py` erzeugt (`__LAWJS__`). IPelico bettet zusätzlich `__SPRITE__` (alle `icons/ic-*.svg` und
+  `logo/*.svg` als `<symbol>`), `__FONTS__` (woff2 als data-URI) und `__FAVICON__` ein; `build_kurs.py` bricht ab,
+  wenn ein im Template benötigtes Icon fehlt (`REQUIRED_ICONS`).
+- App-Icons: `build_kurs.py` kopiert `logo/*.png` (Apple-Touch-Icon 180, 192, 512, Favicons) und schreibt
+  `docs/manifest.webmanifest`. Die PNGs werden aus `ipelico-badge.svg` gerendert (`python3 tools/render_icons.py`);
+  bei neuem Zeichen neu rendern.
+- Gestaltung: `DESIGN.md` ist verbindlich. Neue Icons in `tools/gen_assets.py` eintragen, `gen` und `trace`
+  laufen lassen, Ergebnis auf dem Kontaktblatt prüfen (16 px muss lesbar bleiben). Für ein neues Gesetz sind an den Templates in der
   Regel keine Änderungen nötig, außer Ansichten für neue Knotentypen (Vorbild: `vRichtlinie`).
 - Karteikarten entstehen automatisch aus dem Graphen (`build_flashcards.generate`): Definition,
   Umkehrkarte, Schema, Prüfungspunkt, Abgrenzung, Entscheidung (beide Richtungen), Norm, EU-Artikel.
@@ -176,14 +185,16 @@ Fremdgesetze gehören in den Fließtext, wo `gesetze.py` sie verlinkt.
 ## 7. Qualitätssicherung vor jedem Push
 
 1. `python3 build.py` ohne Fehler.
-2. Playwright-Rauchtest über einen lokalen HTTP-Server (Cookies brauchen http):
+2. Rauchtest über einen lokalen HTTP-Server (Cookies brauchen http), Python-Playwright ist installiert:
    ```bash
-   (cd docs && setsid nohup python3 -m http.server 8791 >/dev/null 2>&1 < /dev/null &)
-   node test.js   # require('/opt/node22/lib/node_modules/playwright'); Chromium ist installiert
+   (cd docs && python3 -m http.server 8791 >/dev/null 2>&1 &)
+   python3 tools/smoke_test.py
    ```
-   Prüfen: keine `pageerror`, alle Einheiten durchklicken (Antwort geben, Chips vorhanden, keine
-   leeren `.chips`), Gesetzeslinks mit gültigem `href`, Inline-Karten öffnen sich, Cookie gesetzt.
+   Prüft: keine `pageerror`, alle `<use>`-Symbole vorhanden, keine leeren `.chips`, Gesetzeslinks mit
+   `href`, Antwortfluss inkl. Tastatur, Cookie-Altformat, Theme-Umschaltung.
    Nicht `pkill -f http.server` verwenden; das Muster trifft die eigene Shell.
+   Sichtprüfung: Screenshots Home, Kurs, Einheit vor und nach Antwort, Ende, Profil in hell und dunkel
+   (390×844 und 1280×900).
 3. Stichprobe von fünf Lösungen fachlich gegenlesen (Antwortsatz, Norm, Entscheidung passen zusammen).
 4. README-Zahlen (Knoten, Karten, Einheiten) aktualisieren.
 

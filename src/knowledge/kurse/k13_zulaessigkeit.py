@@ -13,7 +13,7 @@ from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
     id="k13", titel="Wirksamkeit und Zulässigkeit", untertitel="Verfahrensrecht nach Verfahrensart: Widerspruch, Beschwerde, Amtsverfahren, Klage",
-    farbe="#2F5D50", icon="waage",
+    farbe="#4a6d3a", icon="waage",
     beschreibung="Die Zulässigkeitsprüfung im Detail, getrennt nach Verfahrensart, mit den Anschlussnormen aus BGB, HGB, GmbHG, ZPO, GVG und InsO. Am Ende ein Kapitel nur zu Tenorvorschlägen.",
     kapitel=[
         # ==============================================================

@@ -3,7 +3,7 @@ from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
     id="k14", titel="Die Durchsetzungsrichtlinie 2004/48/EG", untertitel="Auskunft, Beweise, Eilrechtsschutz, Sanktionen und Kosten – für alle Schutzrechte",
-    farbe="#8A5A1F", icon="hammer",
+    farbe="#8b3fb2", icon="hammer",
     beschreibung="Woher §§ 18 bis 19c MarkenG kommen: die Richtlinie 2004/48/EG im Wortlaut, ihre Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG, und die EuGH-Rechtsprechung zu Auskunft, Bankgeheimnis, Mittelspersonen, Schadensersatz und Patentanwaltskosten.",
     kapitel=[
         dict(id="k14a", titel="Zwei Richtlinien, ein Muster in sieben Gesetzen", einheiten=[

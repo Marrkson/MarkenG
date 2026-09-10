@@ -3,7 +3,7 @@ from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
     id="k08", titel="Geschäftliche Bezeichnungen und Domains", untertitel="§§ 5, 15 MarkenG: Unternehmenskennzeichen und Werktitel",
-    farbe="#2F6B4F", icon="firma",
+    farbe="#d6336c", icon="firma",
     beschreibung="Wie Unternehmenskennzeichen und Werktitel entstehen, wie ihre Verletzung geprüft wird und was für Domainnamen gilt.",
     kapitel=[
         dict(id="k08a", titel="Unternehmenskennzeichen", einheiten=[

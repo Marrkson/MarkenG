@@ -201,7 +201,7 @@ function inlineCard(n, ref){
   } else if(n.type==='norm'){
     body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5>` + normText(n, ref) + section('Setzt um', chips(implementsOf(n.id))) + `<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
   } else if(n.type==='eunorm'){
-    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)} · ${esc(n.kapitel)}${n.abschnitt?' · '+esc(n.abschnitt):''}</div>` + eunormText(n) + (n.hinweis?`<div class="merk"><b>Umsetzung/Hinweis:</b> ${txt(n.hinweis)}</div>`:'') + section('Umgesetzt durch', chips(implementedBy(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source)))) + section('Rechtsprechung', chips(I(n.id).filter(e=>e.relation==='interprets').map(e=>byId.get(e.source)))) + `<div class="meta">Inhalt als Paraphrase erfasst (amtlicher Wortlaut nicht abrufbar). <a href="${esc(n.url)}" target="_blank" rel="noopener">EUR-Lex ↗</a> · <a href="${esc(n.url_pdf)}" target="_blank" rel="noopener">PDF ↗</a></div>`;
+    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)} · ${esc(n.kapitel)}${n.abschnitt?' · '+esc(n.abschnitt):''}</div>` + eunormText(n) + (n.hinweis?`<div class="merk"><b>Umsetzung/Hinweis:</b> ${txt(n.hinweis)}</div>`:'') + section('Umgesetzt durch', chips(implementedBy(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source)))) + section('Rechtsprechung', chips(I(n.id).filter(e=>e.relation==='interprets').map(e=>byId.get(e.source)))) + weitereTable(n) + `<div class="meta">${n.paraphrase?'Inhalt als Paraphrase erfasst (amtlicher Wortlaut nicht abrufbar).':'Amtlicher Wortlaut (berichtigte Fassung).'} <a href="${esc(n.url)}" target="_blank" rel="noopener">EUR-Lex ↗</a> · <a href="${esc(n.url_pdf)}" target="_blank" rel="noopener">PDF ↗</a></div>`;
   } else if(n.type==='case'){
     body = `<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.court)}, ${fmtDate(n.date)} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p class="def">${txt(n.kern)}</p>`
       + section('Normen', chips(norms(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='illustrated_by').map(e=>byId.get(e.source))));
@@ -225,6 +225,9 @@ function normText(n, ref){
   return html;
 }
 function eunormText(n){ return n.absaetze.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${mdt(a.text)}</div>`).join(''); }
+// Umsetzung eines Richtlinienartikels in den übrigen Gesetzen des gewerblichen Rechtsschutzes (Text, nicht verknüpft)
+function weitereTable(n){ const w=n.umsetzung_weitere||{}; const keys=Object.keys(w); if(!keys.length) return '';
+  return `<div class="meta" style="margin-top:8px">Umsetzung in den anderen Gesetzen</div><div style="overflow-x:auto"><table class="cmp">${keys.map(k=>`<tr><th style="white-space:nowrap">${esc(k)}</th><td>${txt(w[k])}</td></tr>`).join('')}</table></div>`; }
 function fmtDate(d){ const [y,m,dd]=d.split('-'); return `${dd}.${m}.${y}`; }
 function cmpTable(n){
   return `<p class="def"><i>${txt(n.frage)}</i></p><div style="overflow-x:auto"><table class="cmp"><tr><th></th>${n.spalten.map(s=>`<th>${esc(s)}</th>`).join('')}</tr>`
@@ -251,9 +254,10 @@ document.addEventListener('click', ev=>{
 // ---------- Views ----------
 const NAV = [
   ['grp','Lernen'],['#/start','Start'],['#/klausur','Klausur NS'],['#/schemata','Prüfungsschemata'],['#/cards','Karteikarten'],['#/graph','Graph-Explorer'],
-  ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/richtlinie','Markenrechtsrichtlinie'],['#/sources','IPWiki-Quellen']
+  ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/richtlinie','Markenrechtsrichtlinie'],['#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie'],['#/sources','IPWiki-Quellen']
 ];
-function renderNav(){ const h=location.hash||'#/start'; document.getElementById('nav').innerHTML = NAV.map(([a,b])=>a==='grp'?`<div class="grp">${b}</div>`:`<a href="${a}" class="${h.startsWith(a)?'active':''}">${b}</a>`).join(''); }
+function renderNav(){ const h=location.hash||'#/start'; const act=NAV.filter(([a])=>a!=='grp'&&h.startsWith(a)).sort((x,y)=>y[0].length-x[0].length)[0];
+  document.getElementById('nav').innerHTML = NAV.map(([a,b])=>a==='grp'?`<div class="grp">${b}</div>`:`<a href="${a}" class="${act&&act[0]===a?'active':''}">${b}</a>`).join(''); }
 const main = document.getElementById('main');
 function route(){
   renderNav();
@@ -276,7 +280,8 @@ function vStart(){
     ${tile('#/distinctions','Abgrenzungen',`${st.distinction} Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft.`)}
     ${tile('#/cases','Rechtsprechung',`${st.case} Leitentscheidungen des BGH und EuGH mit Kernaussage.`)}
     ${tile('#/law','Gesetz',`Volltext des MarkenG (${st.norm} Paragraphen).`)}
-    ${tile('#/richtlinie','Markenrechtsrichtlinie',`${st.eunorm-1} Artikel der RL (EU) 2015/2436 mit Umsetzungstabelle.`)}
+    ${tile('#/richtlinie','Markenrechtsrichtlinie',`${rlCount('markenrl')} Artikel der RL (EU) 2015/2436 mit Umsetzungstabelle.`)}
+    ${tile('#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie',`${rlCount('durchsetzungsrl')} Artikel der RL 2004/48/EG im Wortlaut, Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG, SortSchG.`)}
     ${tile('#/graph','Graph-Explorer','Nachbarschaft eines Knotens visuell erkunden.')}
     ${tile('#/sources','IPWiki','Verweise auf '+st.source+' IPWiki-Artikel.')}
   </div>
@@ -287,6 +292,7 @@ function vStart(){
   <p class="meta">Gesetzesstand: ${esc(G.meta.gesetz_stand['Zuletzt geändert durch']||'')} · Quelle: gesetze-im-internet.de (Spiegel bundestag/gesetze). Tastatur: <span class="kbd">/</span> Suche.</p>`;
 }
 function tile(href,t,s){ return `<div class="tile" onclick="location.hash='${href}'"><div class="t">${t}</div><div class="s">${s}</div></div>`; }
+const rlCount = key => G.nodes.filter(n=>n.type==='eunorm'&&n.rl===key&&n.nummer!=='0').length;
 
 
 // ---------- Klausur „Nichttechnische Schutzrechte“ ----------
@@ -473,14 +479,28 @@ function vLaw(){
     html+=`<a href="#/norm/${n.id}">${esc(n.label.replace(' MarkenG',''))} ${esc(n.titel)}</a>`; }
   main.innerHTML = `<h2>Markengesetz (MarkenG)</h2><p class="lead">Gesetz über den Schutz von Marken und sonstigen Kennzeichen. Quelle: gesetze-im-internet.de (Spiegel bundestag/gesetze). Stand: ${esc(G.meta.gesetz_stand['Zuletzt geändert durch']||'')}.</p><div class="card toc">${html}</div>`;
 }
-function vRichtlinie(){
-  const list=G.nodes.filter(n=>n.type==='eunorm'&&n.nummer!=='0').sort((a,b)=>+a.nummer-+b.nummer); let cur=null,curA=null,html='';
+// Texte je Richtlinie; die Artikel selbst kommen aus dem Graphen (eunorm-Knoten mit rl=<key>)
+const RL_VIEW = {
+  markenrl: {titel:'Markenrechtsrichtlinie (EU) 2015/2436',
+    lead:'Richtlinie des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (Neufassung), ABl. L 336, S. 1. Der Bauplan des MarkenG: Jeder Artikel zeigt, welche Vorschrift ihn umsetzt.',
+    hinweis:'Die Artikel sind als inhaltlich vollständige Paraphrase erfasst, nicht im amtlichen Wortlaut (EUR-Lex war beim Erstellen nicht erreichbar). Für Zitate:',
+    chips:['eunorm:markenrl:erwaegungsgruende','schema:schema_markenrl','distinction:d_markenrl_umsetzung','concept:markenrl','concept:richtlinienkonforme_auslegung']},
+  durchsetzungsrl: {titel:'Durchsetzungsrichtlinie 2004/48/EG',
+    lead:'Richtlinie des Europäischen Parlaments und des Rates vom 29. April 2004 zur Durchsetzung der Rechte des geistigen Eigentums, ABl. L 157, S. 45, berichtigt ABl. L 195, S. 16. Sie regelt nicht, was eine Marke ist, sondern wie jedes Schutzrecht durchgesetzt wird: Beweise, Auskunft, Eilrechtsschutz, Rückruf, Vernichtung, Schadensersatz, Kosten. Die Umsetzungstabelle zeigt für jeden Artikel die Norm in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG.',
+    hinweis:'Die Artikel stehen im amtlichen Wortlaut der berichtigten Fassung (Buchstabenaufzählungen in den Absatztext eingerückt). Quelle:',
+    chips:['distinction:d_durchsetzungsrl_umsetzung','schema:schema_durchsetzung','eunorm:durchsetzungsrl:erwaegungsgruende','concept:durchsetzungsrl','distinction:d_aufklaerungsansprueche','concept:drittauskunft']},
+};
+function vRichtlinie(key){
+  key = RL_VIEW[key] ? key : 'markenrl'; const v = RL_VIEW[key]; const meta = (G.meta.richtlinien||[]).find(r=>r.key===key) || {quelle:G.meta.markenrl.quelle};
+  const list=G.nodes.filter(n=>n.type==='eunorm'&&n.rl===key&&n.nummer!=='0').sort((a,b)=>+a.nummer-+b.nummer); let cur=null,curA=null,html='';
   for(const n of list){ if(n.kapitel!==cur){cur=n.kapitel;html+=`<div class="h">${esc(cur)}</div>`;curA=null;} if(n.abschnitt&&n.abschnitt!==curA){curA=n.abschnitt;html+=`<div class="h" style="font-weight:500;font-size:13px">${esc(curA)}</div>`;}
     html+=`<a href="#/eunorm/${n.id}">Art. ${esc(n.nummer)} ${esc(n.titel)}</a>`; }
-  const umsetzung = byId.get('distinction:d_markenrl_umsetzung');
-  main.innerHTML = `<h2>Markenrechtsrichtlinie (EU) 2015/2436</h2><p class="lead">Richtlinie des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (Neufassung), ABl. L 336, S. 1. Der Bauplan des MarkenG: Jeder Artikel zeigt, welche Vorschrift ihn umsetzt.</p>
-    <div class="card"><b>Hinweis:</b> Die Artikel sind als inhaltlich vollständige Paraphrase erfasst, nicht im amtlichen Wortlaut (EUR-Lex war beim Erstellen nicht erreichbar). Für Zitate: <a href="${esc(G.meta.markenrl.quelle)}" target="_blank" rel="noopener">EUR-Lex ↗</a>.
-    ${chips([byId.get('eunorm:markenrl:erwaegungsgruende'), byId.get('schema:schema_markenrl'), umsetzung, byId.get('concept:markenrl'), byId.get('concept:richtlinienkonforme_auslegung')])}</div>
+  const other = key==='markenrl' ? `<a href="#/richtlinie/durchsetzungsrl">Zur Durchsetzungsrichtlinie 2004/48/EG →</a>` : `<a href="#/richtlinie">Zur Markenrechtsrichtlinie (EU) 2015/2436 →</a>`;
+  const tabelle = key==='durchsetzungsrl' ? `<div class="card"><h4>Umsetzungstabelle: Artikel → Gesetz</h4>${cmpTable(byId.get('distinction:d_durchsetzungsrl_umsetzung'))}</div>` : '';
+  main.innerHTML = `<h2>${esc(v.titel)}</h2><p class="lead">${esc(v.lead)}</p>
+    <div class="card"><b>Hinweis:</b> ${esc(v.hinweis)} <a href="${esc(meta.quelle)}" target="_blank" rel="noopener">EUR-Lex ↗</a>. ${other}
+    ${chips(v.chips.map(id=>byId.get(id)).filter(Boolean))}</div>
+    ${tabelle}
     <div class="card toc">${html}</div>`;
 }
 function vSources(){
@@ -490,7 +510,7 @@ function vSources(){
 }
 function vNode(id){
   const n=byId.get(id); if(!n){ main.innerHTML='<p>Nicht gefunden.</p>'; return; }
-  const back = {concept:'#/concepts',case:'#/cases',norm:'#/law',eunorm:'#/richtlinie',distinction:'#/distinctions',source:'#/sources'}[n.type]||'#/start';
+  const back = {concept:'#/concepts',case:'#/cases',norm:'#/law',eunorm:'#/richtlinie'+(n.rl&&n.rl!=='markenrl'?'/'+n.rl:''),distinction:'#/distinctions',source:'#/sources'}[n.type]||'#/start';
   const u=usedIn(n.id);
   const usage = [...u.schema.values()].length||[...u.concept.values()].length||[...u.distinction.values()].length
     ? `<div class="card"><h4>Verwendung</h4>${section('In Prüfungsschemata',chips([...u.schema.values()]))}${section('Prüfungspunkte',chips([...u.step.values()]))}${section('Von Begriffen referenziert',chips([...u.concept.values()]))}${section('Abgrenzungen',chips([...u.distinction.values()]))}</div>` : '';

@@ -11,11 +11,11 @@ Jede Einheit verweist auf Begriffe, Normen, Entscheidungen und ggf. einen Prüfu
 """
 from . import k01_grundlagen, k02_schutzfaehigkeit, k03_verletzung, k04_verwechslung, k05_bekanntheit
 from . import k06_schranken, k07_benutzung_loeschung, k08_bezeichnungen, k09_rechtsfolgen, k10_eu_ir, k11_markenrl
-from . import k12_klausurtraining, k13_zulaessigkeit
+from . import k12_klausurtraining, k13_zulaessigkeit, k14_durchsetzungsrl
 
 KURSE = [m.KURS for m in (k01_grundlagen, k02_schutzfaehigkeit, k03_verletzung, k04_verwechslung, k05_bekanntheit,
                           k06_schranken, k07_benutzung_loeschung, k08_bezeichnungen, k09_rechtsfolgen, k10_eu_ir, k11_markenrl,
-                          k12_klausurtraining, k13_zulaessigkeit)]
+                          k14_durchsetzungsrl, k12_klausurtraining, k13_zulaessigkeit)]
 
 
 def alle_einheiten():

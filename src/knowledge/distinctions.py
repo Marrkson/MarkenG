@@ -5,6 +5,8 @@ Felder: id, label, concepts (IDs), frage, rows: Liste von (Kriterium, Wert für 
 merksatz.
 """
 
+from .durchsetzungsrl import UMSETZUNG_DISTINCTION as _DRL_UMSETZUNG
+
 DISTINCTIONS = [
     dict(id="d_kennzeichnungskraft_unterscheidungskraft", label="Kennzeichnungskraft vs. Unterscheidungskraft",
          concepts=["kennzeichnungskraft", "unterscheidungskraft"],
@@ -263,6 +265,25 @@ DISTINCTIONS = [
              ["Art. 48, 49", "§ 47", "Fristen laufen tagesgenau ab dem Anmeldetag"],
          ],
          merksatz="MarkenRL = Bauplan, MarkenG = Gebäude: Bei jeder Norm des MarkenG lohnt der Blick auf den zugehörigen Artikel, weil der EuGH das letzte Wort zur Auslegung hat."),
+    dict(id="d_aufklaerungsansprueche", label="Auskunft (§ 19) vs. Vorlage/Besichtigung (§ 19a) vs. Sicherung (§ 19b)",
+         concepts=["drittauskunft", "vorlage_besichtigung", "sicherung_schadensersatz", "gewerbliches_ausmass"],
+         frage="Welcher der drei Aufklärungsansprüche der Durchsetzungsrichtlinie passt zu welcher Situation?",
+         kriterien=["Richtlinie", "Zweck", "Gegner", "Voraussetzung", "Gewerbliches Ausmaß nötig?", "Gegenstand", "Eilverfahren", "Geheimnisschutz", "Haftung bei unberechtigtem Begehren"],
+         spalten=["Auskunft (§ 19)", "Vorlage und Besichtigung (§ 19a)", "Sicherung von Schadensersatz (§ 19b)"],
+         rows=[
+             ["Art. 8", "Art. 6, 7", "Art. 9 Abs. 2"],
+             ["Vertriebskette aufdecken, Schaden beziffern", "Verletzung nachweisen (Beweismittel beim Gegner)", "Vollstreckung des Schadensersatzes sichern"],
+             ["Verletzer (Abs. 1); Dritte in der Kette (Abs. 2)", "vermeintlicher Verletzer", "Verletzer"],
+             ["Verletzung nach §§ 14, 15, 17; gegen Dritte nur bei offensichtlicher Verletzung oder nach Klageerhebung", "hinreichende Wahrscheinlichkeit einer Verletzung; Erforderlichkeit", "Schadensersatzanspruch (§ 14 Abs. 6, § 15 Abs. 5, § 17 Abs. 2 S. 2); Erfüllung fraglich"],
+             ["nur für Dritte (Abs. 2)", "nur für Bank-, Finanz-, Handelsunterlagen (Abs. 1 S. 2)", "ja, immer (Abs. 1 S. 1)"],
+             ["Namen, Anschriften, Mengen, Preise (Abs. 3)", "Urkunde, Sache; Bank-, Finanz-, Handelsunterlagen", "Bank-, Finanz-, Handelsunterlagen oder Zugang dazu"],
+             ["bei offensichtlicher Verletzung (Abs. 7)", "ja, auch ohne Anhörung (Abs. 3)", "nur bei offensichtlichem Schadensersatzanspruch (Abs. 3)"],
+             ["Zeugnisverweigerungsrechte §§ 383 bis 385 ZPO; Verkehrsdaten nur mit richterlicher Anordnung (Abs. 9)", "Gericht trifft Schutzmaßnahmen (Abs. 1 S. 3, Abs. 3 S. 2); Düsseldorfer Verfahren", "Gericht trifft Schutzmaßnahmen (Abs. 1 S. 2)"],
+             ["Schadensersatz bei vorsätzlich oder grob fahrlässig falscher Auskunft (Abs. 5); § 945 ZPO", "verschuldensunabhängig, wenn keine Verletzung vorlag (Abs. 5)", "§ 945 ZPO"],
+         ],
+         merksatz="§ 19 fragt „woher und wohin?“, § 19a „stimmt der Vorwurf?“, § 19b „kann er zahlen?“ – alle drei nur im Rahmen der Verhältnismäßigkeit (Art. 3 Abs. 2 DurchsetzungsRL)."),
 ]
+
+DISTINCTIONS.append(_DRL_UMSETZUNG)
 
 DISTINCTION_INDEX = {d["id"]: d for d in DISTINCTIONS}

@@ -360,6 +360,43 @@ SCHEMATA = [
                  concepts=["markenrl"], norms=["Art. 54 MarkenRL", "§ 158"]),
         ],
     ),
+    dict(
+        id="schema_durchsetzung",
+        label="Durchsetzung einer Markenverletzung: Ansprüche und Verfahren nach der Durchsetzungsrichtlinie",
+        kategorie="Verletzung",
+        beschreibung="Der Weg vom Verdacht zum vollstreckten Urteil, geordnet nach der Richtlinie 2004/48/EG: Aufklärung (Art. 6 bis 8), Eilrechtsschutz (Art. 9), Hauptsacheansprüche (Art. 10, 11, 13, 15), Mittelspersonen (Art. 11 S. 3) und Kosten (Art. 14). Jeder Schritt nennt die umsetzende MarkenG-Norm; die Parallelnormen der anderen Gesetze stehen in der Umsetzungstabelle.",
+        norms=["§ 18", "§ 19", "§ 19a", "§ 19b", "§ 19c", "§ 140", "Art. 3 DurchsetzungsRL"],
+        steps=[
+            step("1. Verletzung und Aktivlegitimation", "Verletzung nach §§ 14, 15 oder 17 (Prüfung im Schema Markenverletzung). Antragsbefugt: Inhaber (§ 28 Abs. 1), Lizenznehmer nach § 30 Abs. 3, 4 (Art. 4 DurchsetzungsRL); auch der Zessionar (EuGH Mircom).",
+                 concepts=["aktivlegitimation", "lizenz", "durchsetzungsrl"], norms=["§ 14 Abs. 1", "§ 28 Abs. 1", "§ 30 Abs. 3", "Art. 4 DurchsetzungsRL"], cases=["eugh_mircom"]),
+            step("2. Aufklärung vor und neben dem Prozess", children=[
+                step("a) Vorlage und Besichtigung (§ 19a; Art. 6, 7)", "Hinreichende Wahrscheinlichkeit der Verletzung, Erforderlichkeit, Verhältnismäßigkeit; bei gewerblichem Ausmaß auch Bank-, Finanz-, Handelsunterlagen. Einstweilige Verfügung ohne Anhörung mit Geheimnisschutz (Düsseldorfer Verfahren). Schadensersatz nach Abs. 5, wenn keine Verletzung vorlag.",
+                     concepts=["vorlage_besichtigung", "gewerbliches_ausmass"], norms=["§ 19a", "Art. 6 DurchsetzungsRL", "Art. 7 DurchsetzungsRL"], cases=["bgh_faxkarte"]),
+                step("b) Auskunft (§ 19; Art. 8)", "Gegen den Verletzer (Abs. 1) über Herkunft und Vertriebsweg; gegen Dritte in der Kette (Abs. 2 Nr. 1 bis 4) bei offensichtlicher Verletzung oder nach Klageerhebung, wenn sie in gewerblichem Ausmaß handelten. Inhalt Abs. 3: Namen, Anschriften (nur Postanschrift), Mengen, Preise. Grenzen: §§ 383 bis 385 ZPO, aber kein pauschales Bankgeheimnis; Verkehrsdaten nur mit richterlicher Anordnung (Abs. 9); Verhältnismäßigkeit (Abs. 4); Eilauskunft (Abs. 7).",
+                     concepts=["drittauskunft", "gewerbliches_ausmass"], norms=["§ 19", "Art. 8 DurchsetzungsRL"], cases=["eugh_coty_stadtsparkasse", "bgh_davidoff_hot_water_ii", "eugh_constantin_film", "eugh_new_wave"]),
+                step("c) Sicherung des Schadensersatzes (§ 19b; Art. 9 Abs. 2)", "Bei gewerblichem Ausmaß Vorlage von Bank-, Finanz-, Handelsunterlagen, wenn die Erfüllung des Schadensersatzanspruchs fraglich ist; Kontosperre über den dinglichen Arrest (§§ 916 ff. ZPO).",
+                     concepts=["sicherung_schadensersatz"], norms=["§ 19b", "Art. 9 Abs. 2 DurchsetzungsRL"]),
+            ]),
+            step("3. Eilrechtsschutz (Art. 9)", "Einstweilige Verfügung auf Unterlassung (§§ 935 ff. ZPO) ohne Glaubhaftmachung des Verfügungsgrundes (§ 140 Abs. 3), aber zügig nach Kenntnis; Sequestration (§ 938 Abs. 2 ZPO); ohne Anhörung bei Dringlichkeit (§ 937 Abs. 2 ZPO); Anordnung der Klageerhebung (§ 926 ZPO); Schadensersatz bei Aufhebung verschuldensunabhängig (§ 945 ZPO; EuGH Bayer/Richter). Auch gegen Mittelspersonen (Art. 9 Abs. 1 lit. a).",
+                 concepts=["einstweilige_verfuegung"], norms=["§ 140 Abs. 3", "Art. 9 DurchsetzungsRL"], cases=["eugh_bayer_richter"]),
+            step("4. Ansprüche in der Hauptsache", children=[
+                step("a) Unterlassung (§ 14 Abs. 5; Art. 11 S. 1, 2)", "Wiederholungs- oder Erstbegehungsgefahr, kein Verschulden; Vollstreckung durch Ordnungsgeld (§ 890 ZPO).",
+                     concepts=["unterlassungsanspruch"], norms=["§ 14 Abs. 5", "Art. 11 DurchsetzungsRL"]),
+                step("b) Vernichtung, Rückruf, Entfernen (§ 18; Art. 10)", "Vernichtung der gekennzeichneten Waren und vorwiegend dazu genutzten Materialien und Geräte (Abs. 1), Rückruf und endgültiges Entfernen aus den Vertriebswegen (Abs. 2); Verhältnismäßigkeit unter Berücksichtigung der Interessen Dritter (Abs. 3 = Art. 10 Abs. 3); auf Kosten des Verletzers.",
+                     concepts=["vernichtung_auskunft"], norms=["§ 18", "Art. 10 DurchsetzungsRL"]),
+                step("c) Schadensersatz (§ 14 Abs. 6; Art. 13)", "Verschulden („wusste oder hätte wissen müssen“); dreifache Berechnung: konkreter Schaden, Verletzergewinn (S. 2), Lizenzanalogie (S. 3); die Pauschale ist Untergrenze, immaterieller Schaden daneben (EuGH Liffers); strengere nationale Regeln zulässig (EuGH OTK). Schuldloser Verletzer: § 812 BGB, § 852 BGB über § 20 S. 2.",
+                     concepts=["schadensersatz", "lizenzanalogie"], norms=["§ 14 Abs. 6", "§ 20", "Art. 13 DurchsetzungsRL"], cases=["bgh_btk", "eugh_liffers", "eugh_otk"]),
+                step("d) Urteilsbekanntmachung (§ 19c; Art. 15)", "Befugnis der obsiegenden Partei bei berechtigtem Interesse; drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar.",
+                     concepts=["urteilsbekanntmachung"], norms=["§ 19c", "Art. 15 DurchsetzungsRL"]),
+            ]),
+            step("5. Anordnungen gegen Mittelspersonen (Art. 11 S. 3)", "Plattformen, Marktplätze, Provider: Störerhaftung auf Unterlassung nach Hinweis auf eine klare Verletzung, gerichtet auch auf die Verhinderung gleichartiger künftiger Verletzungen, ohne allgemeine Überwachungspflicht (EuGH L'Oréal/eBay, Tommy Hilfiger; BGH Internet-Versteigerung II). Kein Schadensersatz; Auskunft aus § 19 Abs. 2 Nr. 3.",
+                 concepts=["mittelsperson_anordnung", "stoererhaftung"], norms=["§ 14 Abs. 5", "§ 19 Abs. 2", "Art. 11 DurchsetzungsRL"], cases=["eugh_loreal_ebay", "eugh_tommy_hilfiger", "bgh_internet_versteigerung_ii"]),
+            step("6. Kosten (Art. 14)", "Unterlegener trägt zumutbare und angemessene Kosten (§§ 91 ff. ZPO); Patentanwaltskosten nach § 140 Abs. 4 nur bei Notwendigkeit der Mitwirkung (EuGH NovaText, BGH Kosten des Patentanwalts VII); Abmahnkosten als sonstige Kosten (EuGH Koch Media); Streitwertbegünstigung § 142.",
+                 concepts=["prozesskosten_erstattung"], norms=["§ 140 Abs. 4", "§ 142", "Art. 14 DurchsetzungsRL"], cases=["eugh_novatext", "bgh_kosten_patentanwalt_vii", "eugh_koch_media"]),
+            step("7. Querschnitt: Verhältnismäßigkeit und Missbrauch (Art. 3)", "Jede Maßnahme muss wirksam, verhältnismäßig und abschreckend sein und darf den rechtmäßigen Handel nicht behindern; Missbrauchskontrolle bei Serienabmahnern (EuGH Mircom); Verhältnismäßigkeitsvorbehalte in § 18 Abs. 3, § 19 Abs. 4, § 19a Abs. 2, § 19b Abs. 2. Nicht harmonisiert: Verjährung (§ 20), Haftung des Betriebsinhabers (§ 14 Abs. 7).",
+                 concepts=["durchsetzungsrl", "verjaehrung"], norms=["§ 18 Abs. 3", "§ 19 Abs. 4", "§ 20", "Art. 3 DurchsetzungsRL"], cases=["eugh_mircom", "eugh_novatext"]),
+        ],
+    ),
     # ------------------------------------------------------------------
     # Klausurschemata für die Aufsichtsarbeit „Nichttechnische Schutzrechte“
     # ------------------------------------------------------------------

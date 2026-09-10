@@ -137,6 +137,12 @@ mark{background:var(--accent-soft);color:inherit}
 .lawlink:hover{text-decoration-style:solid}
 .chip .ext{margin-left:2px;text-decoration:none;font-weight:700;opacity:.75}
 .chip .ext:hover{opacity:1}
+/* Vergleichs- und Umsetzungstabellen (Abgrenzungen) */
+.tw{overflow-x:auto;margin:8px 0}
+table.cmp{border-collapse:collapse;width:100%;font-size:13px;min-width:520px}
+table.cmp th,table.cmp td{border:1px solid var(--line);padding:6px 8px;vertical-align:top;text-align:left}
+table.cmp th{background:var(--soft);font-weight:600}
+table.cmp td:first-child{min-width:160px}
 
 @media (prefers-reduced-motion: reduce){*{transition:none!important}}
 </style>
@@ -167,7 +173,7 @@ const txt = s => lawify(esc(s));
 const UNITS = []; const UNIT = new Map(); const CHAP = new Map(); const KURS = new Map();
 for(const k of KURSE){ KURS.set(k.id,k); for(const c of k.kapitel){ CHAP.set(c.id,c); c.kurs=k.id; for(const e of c.einheiten){ e.kap=c.id; e.kurs=k.id; UNITS.push(e); UNIT.set(e.id,e); } } }
 const QUIZ = e => e.typ==='fall'||e.typ==='mc';
-const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?: .*)? MarkenRL$/); if(m) return byId.get('eunorm:markenrl:'+m[1]); m=r.match(/§ (\d+[a-z]?)/); return m?byId.get('norm:§'+m[1]):null; };
+const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?: .*)? (MarkenRL|DurchsetzungsRL)$/); if(m) return byId.get('eunorm:'+m[2].toLowerCase()+':'+m[1]); m=r.match(/§ (\d+[a-z]?)/); return m?byId.get('norm:§'+m[1]):null; };
 const ICONS = {
   marke:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 12l-8 8-8-8V4h8z"/><circle cx="8.5" cy="8.5" r="1.5" fill="currentColor"/></svg>',
   register:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 8h8M8 12h8M8 16h5"/></svg>',
@@ -236,13 +242,19 @@ function inlineCard(n, ref){
   let b='';
   if(n.type==='concept') b=`<h5>${esc(n.label)}</h5><p>${txt(n.definition)}</p><p class="meta">${txt(n.erlaeuterung)}</p>${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id).slice(0,6)))}${section('Verwandt',chips(related(n.id).slice(0,6)))}`;
   else if(n.type==='norm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5>${normText(n,ref)}<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
-  else if(n.type==='eunorm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)}${n.abschnitt?' · '+esc(n.abschnitt):''}</div>${n.absaetze.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${txt(a.text)}</div>`).join('')}${n.hinweis?`<div class="merke"><b>Umsetzung:</b> ${txt(n.hinweis)}</div>`:''}<div class="meta">Paraphrase; Wortlaut auf <a href="${esc(n.url)}" target="_blank" rel="noopener">EUR-Lex ↗</a></div>`;
+  else if(n.type==='eunorm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)}${n.abschnitt?' · '+esc(n.abschnitt):''}</div>${n.absaetze.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${txt(a.text)}</div>`).join('')}${n.hinweis?`<div class="merke"><b>Umsetzung:</b> ${txt(n.hinweis)}</div>`:''}${weitereTable(n)}<div class="meta">${n.paraphrase?'Paraphrase; Wortlaut auf':'Amtlicher Wortlaut (berichtigte Fassung); Quelle:'} <a href="${esc(n.url)}" target="_blank" rel="noopener">EUR-Lex ↗</a></div>`;
+  else if(n.type==='distinction') b=`<h5>${esc(n.label)}</h5>`+cmpTable(n);
   else if(n.type==='case') b=`<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p>${txt(n.kern)}</p>${section('Normen',chips(norms(n.id)))}`;
   else if(n.type==='step') b=`<h5>${esc(n.label)}</h5><p>${txt(n.text)}</p>${section('Begriffe',chips(related(n.id)))}${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id)))}`;
   else if(n.type==='schema') b=`<h5>${esc(n.label)}</h5><p>${txt(n.beschreibung)}</p>`;
-  const kinds={concept:'Definition',norm:'Gesetz',eunorm:'Richtlinie',case:'Entscheidung',step:'Prüfungspunkt',schema:'Prüfungsschema'};
+  const kinds={concept:'Definition',norm:'Gesetz',eunorm:'Richtlinie',case:'Entscheidung',step:'Prüfungspunkt',schema:'Prüfungsschema',distinction:'Abgrenzung / Tabelle'};
   return `<div class="inline ${n.type}"><div class="k">${kinds[n.type]||n.type}</div>${b}</div>`;
 }
+// Vergleichstabelle einer Abgrenzung (auch die Umsetzungstabellen der Richtlinien)
+function cmpTable(n){ return `<p class="meta"><i>${txt(n.frage)}</i></p><div class="tw"><table class="cmp"><tr><th></th>${n.spalten.map(s=>`<th>${esc(s)}</th>`).join('')}</tr>${n.kriterien.map((k,i)=>`<tr><td><b>${esc(k)}</b></td>${n.rows[i].map(v=>`<td>${txt(v)}</td>`).join('')}</tr>`).join('')}</table></div>${n.merksatz?`<div class="merke"><b>Merke:</b> ${txt(n.merksatz)}</div>`:''}`; }
+// Umsetzung eines Richtlinienartikels in den übrigen Gesetzen (Text aus umsetzung_weitere)
+function weitereTable(n){ const w=n.umsetzung_weitere||{}; const keys=Object.keys(w); if(!keys.length) return '';
+  return `<div class="meta" style="margin-top:8px">Umsetzung in den anderen Gesetzen</div><div class="tw"><table class="cmp">${keys.map(k=>`<tr><th style="white-space:nowrap">${esc(k)}</th><td>${txt(w[k])}</td></tr>`).join('')}</table></div>`; }
 document.addEventListener('click', ev=>{
   if(ev.target.closest('a')) return;
   const c=ev.target.closest('.chip[data-node]'); if(!c) return; const n=byId.get(c.dataset.node); if(!n) return;
@@ -291,10 +303,12 @@ function vLernen(id){
   const idx=c.einheiten.indexOf(e); const next=c.einheiten[idx+1];
   chrome(`${k.titel}`, `#/kurs/${k.id}`, `<span class="pill">${idx+1}/${c.einheiten.length}</span>`);
   const pct=Math.round(idx/c.einheiten.length*100);
-  const refs = section('Begriffe',chips(e.concepts.map(x=>byId.get('concept:'+x))))+section('Normen',chips(e.norms.map(r=>({node:normNode(r),ref:r}))))+section('Rechtsprechung',chips(e.cases.map(x=>byId.get('case:'+x))))+(e.step?section('Im Prüfungsschema',chips([byId.get(e.step)])):'');
+  const dists = (e.distinctions||[]).map(x=>byId.get('distinction:'+x)).filter(Boolean);
+  const refs = section('Begriffe',chips(e.concepts.map(x=>byId.get('concept:'+x))))+section('Normen',chips(e.norms.map(r=>({node:normNode(r),ref:r}))))+section('Rechtsprechung',chips(e.cases.map(x=>byId.get('case:'+x))))+(e.step?section('Im Prüfungsschema',chips([byId.get(e.step)])):'')+(dists.length&&e.typ!=='intro'?section('Tabellen',chips(dists)):'');
+  const tables = e.typ==='intro' ? dists.map(d=>`<div class="card"><h3 style="margin:0 0 6px">${esc(d.label)}</h3>${cmpTable(d)}</div>`).join('') : '';
   const nextBtn = next ? `<a class="btn primary block" href="#/lernen/${next.id}">Weiter →</a>` : `<a class="btn primary block" href="#/ende/${c.id}">Kapitel abschließen ✓</a>`;
   let body='';
-  if(e.typ==='intro'){ body=`<div class="kind">Einführung</div><h1>${esc(e.titel)}</h1><div class="intro"><p>${md(e.text)}</p></div>${refs}<div class="row" id="nav" style="margin-top:20px"><button class="btn primary block" id="ok">Verstanden, weiter →</button></div>`; }
+  if(e.typ==='intro'){ body=`<div class="kind">Einführung</div><h1>${esc(e.titel)}</h1><div class="intro"><p>${md(e.text)}</p></div>${tables}${refs}<div class="row" id="nav" style="margin-top:20px"><button class="btn primary block" id="ok">Verstanden, weiter →</button></div>`; }
   else if(e.typ==='schema'){ const s=byId.get('schema:'+e.schema); body=`<div class="kind">Prüfungsschema</div><h1>${esc(e.titel)}</h1>${e.text?`<p class="lead">${md(e.text)}</p>`:''}<div class="card"><div class="meta" style="margin-bottom:8px">${txt(s?s.beschreibung:'')}</div>${schemaTree('schema:'+e.schema)}</div><div class="row" style="margin-top:20px"><button class="btn primary block" id="ok">Gelesen, weiter →</button></div>`; }
   else {
     const lvl=['','Basics','Fortgeschritten','Examen'][e.level]||''; const prev=P.u[e.id];

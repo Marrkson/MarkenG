@@ -148,9 +148,12 @@ def generate(graph):
         back = f"{n['titel']}\n\n{first}"
         if umsetzung:
             back += "\n\nUmgesetzt in: " + ", ".join(sorted(set(umsetzung))) + " MarkenG"
+        weitere = [f"{law}: {ref}" for law, ref in n.get("umsetzung_weitere", {}).items() if law != "MarkenG"]
+        if weitere:
+            back += "\n\nWeitere Gesetze: " + "; ".join(weitere)
         if n.get("hinweis"):
             back += "\n\nHinweis: " + n["hinweis"]
-        add("eunorm", f"Was regelt {n['label']} und welche Vorschrift des MarkenG setzt ihn um?", back, ["Richtlinie", "EU"], n["id"])
+        add("eunorm", f"Was regelt {n['label']} und welche Vorschrift des MarkenG setzt ihn um?", back, ["Richtlinie", "EU", n.get("kurz", "")], n["id"])
     return cards
 
 

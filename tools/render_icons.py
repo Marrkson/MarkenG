@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-"""Rendert die App-Icons (Homescreen, Favicon) aus src/templates/ipelico/logo/ipelico-badge.svg.
+"""Rendert die App-Icons (Homescreen, Favicon) aus src/templates/ipelico/logo/ipelico-badge.svg und die
+Zeichen-Referenz ref/logo-mark.png (Vorlage für die Icons mit Markenmotiv in tools/gen_assets.py).
   python3 tools/render_icons.py     (braucht Python-Playwright mit Chromium)
 """
 from pathlib import Path
@@ -19,6 +20,10 @@ with sync_playwright() as pw:
         html = f'<body style="margin:0;background:transparent"><div style="width:{s}px;height:{s}px">{svg.replace("<svg ", f"<svg width={s} height={s} ", 1)}</div></body>'
         pg = b.new_page(viewport={"width": s, "height": s}); pg.set_content(html)
         pg.screenshot(path=str(LOGO / name), omit_background=True); pg.close(); print(name)
+    mark = (LOGO / "ipelico-mark.svg").read_text()
+    pg = b.new_page(viewport={"width": 512, "height": 512})
+    pg.set_content(f'<body style="margin:0;background:#fff">{mark.replace("<svg ", "<svg width=512 height=512 ", 1)}</body>')
+    pg.screenshot(path=str(LOGO.parent / "ref" / "logo-mark.png")); pg.close(); print("ref/logo-mark.png")
     b.close()
 # favicon.ico mit 16, 32 und 48 px (Browser ohne SVG/PNG-Favicon, GitHub Pages, Lesezeichen)
 from PIL import Image

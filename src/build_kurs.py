@@ -89,7 +89,9 @@ def sprite():
     missing = [n for n in REQUIRED_ICONS if f"ic-{n}" not in ids]
     if missing or "ipelico-mark" not in ids:
         raise SystemExit(f"Sprite unvollständig, fehlt: {missing + ([] if 'ipelico-mark' in ids else ['ipelico-mark'])}")
-    return '<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">' + "".join(syms) + "</svg>"
+    # Nicht display:none: Chrome wendet Masken und Verläufe aus unsichtbaren SVGs nicht an (Aussparung „IP“ im Zeichen)
+    return ('<svg xmlns="http://www.w3.org/2000/svg" width="0" height="0" aria-hidden="true" focusable="false" '
+            'style="position:absolute;width:0;height:0;overflow:hidden">' + "".join(syms) + "</svg>")
 
 
 def fonts_css():

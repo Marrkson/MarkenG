@@ -6,7 +6,8 @@
 
 Voraussetzungen: GEMINI_API_KEY in .env, Pillow, potrace (brew install potrace).
 Stil: dicke Linie in der Sprache des Zeichens (src/templates/ipelico/logo/ipelico-mark.svg), einfarbig,
-Farbe kommt aus dem CSS (currentColor). Die fünf Tab-/Feier-Icons enthalten den Pelikan.
+Farbe kommt aus dem CSS (currentColor). tab-kurse, tab-wdh und feier enthalten das Markenmotiv
+(zwei überlappende Kacheln als Kontur); Referenzbild ref/logo-mark.png erzeugt tools/render_icons.py.
 """
 import base64, json, re, subprocess, sys, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
@@ -18,24 +19,25 @@ ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "src" / "templates" / "ipelico"
 RAW = ROOT / "tools" / "gen_raw" / "icons"
 STYLE_REF = ASSETS / "ref" / "icons-T1.png"      # Stilblatt (dicke Linie)
-LOGO_REF = ASSETS / "ref" / "logo-mark.png"      # Zeichen als Bild (für Pelikan-Icons)
+LOGO_REF = ASSETS / "ref" / "logo-mark.png"      # Zeichen als Bild (für Icons mit Markenmotiv)
 MODEL = "gemini-3-pro-image"
 
 STYLE = ("Single icon in exactly the style of the reference sheet: thick monoline strokes (about one tenth of the icon "
          "size), rounded caps and joins, geometric construction from circles, straight strokes and arcs, no fills except "
          "where stated, no outlines around strokes, no gradients, no shadow, no text, no frame, no container. Single "
          "vivid blue #1482e3 on a pure white edge-to-edge background, centered, the icon fills about 70 percent of the canvas.")
-PELICAN = ("The pelican mark from the second reference image (ring head, straight beak, pouch arc) must appear exactly "
-           "as drawn, same stroke weight as the rest.")
+MARK = ("The brand motif, simplified from the second reference image: two overlapping rounded squares of equal size, "
+        "the back one upper left, the front one lower right, both drawn as thick monoline outlines with the same stroke "
+        "weight as the rest; inside the overlap the back square's lines are hidden behind the front square; no letters.")
 
-# name: (Prompt, mit Pelikan?)
+# name: (Prompt, mit Markenmotiv?)
 ICONS = {
-    # Tableiste und Feier (mit Pelikan)
-    "tab-kurse": ("a simple house outline (roof and walls, no door, no window) with the pelican mark centered inside, mark about half the house height", True),
-    "tab-wdh": ("the pelican mark with one circular arrow around it (repeat)", True),
-    "tab-profil": ("the pelican mark centered inside a plain circle, with clear space between mark and circle, nothing else", True),
-    "tab-konzept": ("an open book (two pages) drawn in the same monoline, with the pelican mark small and centered above it, not touching", True),
-    "feier": ("the pelican mark inside a laurel wreath (achievement)", True),
+    # Tableiste und Feier (tab-kurse, tab-wdh, feier mit Markenmotiv)
+    "tab-kurse": ("the brand motif alone, filling the icon, nothing else", True),
+    "tab-wdh": ("one circular arrow (repeat) around a small version of the brand motif, clear space between arrow and motif", True),
+    "tab-profil": ("a simple person bust (circle for the head, arc for the shoulders) inside a plain circle, nothing else", False),
+    "tab-konzept": ("a graduation cap (mortarboard) seen slightly from the front, nothing else", False),
+    "feier": ("a laurel wreath (achievement) around a small version of the brand motif", True),
     # Aktionen
     "zurueck": ("a chevron pointing left", False), "weiter": ("an arrow pointing right", False),
     "schliessen": ("a cross (X)", False), "menu": ("three horizontal lines", False),
@@ -105,9 +107,9 @@ def job_gen(name, force):
     raw = RAW / f"{name}.png"
     if raw.exists() and not force:
         return
-    desc, pel = ICONS[name]
-    refs = [STYLE_REF, LOGO_REF] if pel else [STYLE_REF]
-    gen(f"{STYLE} Icon: {desc}. {PELICAN if pel else ''}", raw, refs=refs)
+    desc, motif = ICONS[name]
+    refs = [STYLE_REF, LOGO_REF] if motif else [STYLE_REF]
+    gen(f"{STYLE} Icon: {desc}. {MARK if motif else ''}", raw, refs=refs)
 
 
 def trace(name):

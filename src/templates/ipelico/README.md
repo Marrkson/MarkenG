@@ -7,7 +7,7 @@ Stelle `__SPRITE__` in `src/templates/kurs.html` eingebettet. Dateiname = Symbol
 |---|---|---|---|
 | `icons/` | `ic-` | 24×24, Strich 1.75, `currentColor` | gefüllte Variante mit Suffix `-f` |
 | `motifs/` | `m-` | 24×24 wie Icons | Bausteine der Kapitel-Vignetten |
-| `mascot/` | `pl-` | 128×128 | Pelico-Posen, Farben nur über `var(--brand)`, `var(--ink)`, `var(--pl-body)` |
+| `logo/` | – | 100×100 | Zeichen `ipelico-mark`, Badge `ipelico-badge`, gerenderte App-Icons (`tools/render_icons.py`) |
 | `kurse/` | `ks-` | 160×120 | eine Szene je Kurs, Kursfarbe über `var(--c)` |
 | `kapitel/` | `vg-` | 64×64 | optionale Hand-Overrides; sonst erzeugt `vignettes.py` die Vignetten |
 

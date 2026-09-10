@@ -8,9 +8,11 @@ from playwright.sync_api import sync_playwright
 
 LOGO = Path(__file__).resolve().parent.parent / "src" / "templates" / "ipelico" / "logo"
 badge = (LOGO / "ipelico-badge.svg").read_text()
-full = badge.replace('rx="24"', 'rx="0"')   # iOS und Android runden selbst
+full = badge.replace('<rect width="100" height="100" rx="24"', '<rect width="100" height="100" rx="0"')   # iOS und Android runden selbst; nur die Außenkachel
+assert full != badge, "Außenkachel nicht gefunden (ipelico-badge.svg und render_icons.py abgleichen)"
 # maskable: Android schneidet bis zu 20 % je Seite ab; das Zeichen bleibt in der sicheren Mitte (Skalierung .6)
-maskable = full.replace('transform="translate(8 8) scale(.84)"', 'transform="translate(20 20) scale(.6)"')
+maskable = full.replace('transform="translate(14 14) scale(.72)"', 'transform="translate(20 20) scale(.6)"')
+assert maskable != full, "Badge-Transform nicht gefunden (ipelico-badge.svg und render_icons.py abgleichen)"
 SIZES = {"apple-touch-icon.png": (full, 180), "icon-192.png": (full, 192), "icon-512.png": (full, 512),
          "icon-maskable-512.png": (maskable, 512),
          "favicon-48.png": (badge, 48), "favicon-32.png": (badge, 32), "favicon-16.png": (badge, 16)}

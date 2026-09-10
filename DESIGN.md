@@ -10,7 +10,7 @@ Ein Lernwerkzeug, das aussieht wie ein gutes juristisches Arbeitsmittel: ruhig, 
 Rhein-IP-Blau. Die Inhalte sind gegliedert wie bei AMBOSS (Akte, Wissensboxen, Chips), die
 Oberflächen folgen dem Glas-Stil (weiche Lichtflecken im Hintergrund, halbtransparente Karten mit
 großen Radien, Verlaufs-Hero, schwarze Pill-Buttons). Kein Maskottchen, keine Illustrationen, kein
-Tiermotiv. Das Zeichen sind zwei überlappende Kacheln mit „IP“; die Icons sprechen dieselbe runde Formensprache.
+Tiermotiv. Das Zeichen ist eine Kachel mit ausgespartem „IP“; die Icons sprechen dieselbe runde Formensprache.
 
 ## 2. Farbtokens
 
@@ -112,25 +112,22 @@ Skala 12 (Labels, Versalien, 0,08 em), 13 (Meta), 14 (Chips, Untertitel), 15 (Fl
 
 ## 6. Zeichen
 
-Datei `src/templates/ipelico/logo/ipelico-mark.svg` (100×100, gewählt am 10.09.2026 als Konzept X1, das
-Pelikan-Zeichen ist verworfen): zwei gleich große Kacheln 58×58, Radius 15. Die hintere liegt oben links
-(6/6) mit 35 % Deckkraft, die vordere unten rechts (36/36) voll. In der vorderen Kachel steht „IP“ als
-Aussparung (Maske, der Grund scheint durch): I und P-Stamm als Pillen 13×50, Bauch als Bogen r 12,5 mit
-runden Enden, Strich 13, auf 58 % skaliert und in der vorderen Kachel zentriert; die Aussparung schneidet
-auch die hintere Kachel. Idee: zwei Zeichen treffen aufeinander (Markenvergleich), IP steht vorn. Farbe über
-`currentColor`. Badge `ipelico-badge.svg`: blaue Kachel, Radius 24, Zeichen in Weiß auf 84 % (Favicon,
-App-Icon); PNGs und `ref/logo-mark.png` rendert `python3 tools/render_icons.py`. Wortmarke: Zeichen 1,3 em
-hoch + „IPelico“ in Plex Sans 700. Keine Verläufe im Zeichen. Eine einfarbige Fassung ohne Transparenz ist
-noch nicht festgelegt. Vor Veröffentlichung: TMview-Bildrecherche (Wiener Klassifikation 26.4, 27.5) und
+Datei `src/templates/ipelico/logo/ipelico-mark.svg` (100×100, gewählt am 10.09.2026 als Konzept 04
+„IP-Kachel“, das Pelikan-Zeichen ist verworfen): eine Kachel 84×84 an 8/8, Radius 24, darin „IP“ als
+Aussparung (Maske, der Grund scheint durch): I und P-Stamm als Pillen 11×46 an x 27 und 46 (y 27), Bauch
+als Bogen r 11 mit runden Enden, Strich 11. Einfarbig, keine Transparenz, keine Verläufe. Farbe über
+`currentColor`. Badge `ipelico-badge.svg` (App-Icon, Favicon): blaue Kachel, Radius 24, darin das Zeichen in
+Weiß auf 72 % (Kachel in der Kachel); PNGs und `ref/logo-mark.png` rendert `python3 tools/render_icons.py`.
+Wortmarke: Zeichen 1,3 em hoch + „IPelico“ in Plex Sans 700. Vor Veröffentlichung: TMview-Bildrecherche (Wiener Klassifikation 26.4, 27.5) und
 Namensprüfung gegen „Pelico“ in den Klassen 9, 41 und 42.
 
 ## 7. Icons
 
 Stil T1: dicke Linie wie das Zeichen (Strich ≈ 1/10 der Höhe), runde Enden, Kreise, Striche, Bögen,
 keine Füllungen außer Punkten, einfarbig über `currentColor` (Tabbar aktiv Blau, inaktiv `--muted`,
-in Boxen die Boxfarbe). Markenmotiv: `tab-kurse` (das Zeichen als Kontur), `tab-wdh` und `feier` enthalten
-die zwei überlappenden Kacheln ohne Buchstaben; `tab-profil` (Büste im Kreis), `tab-konzept` (Doktorhut) und
-alle übrigen sind reine Motive. Erzeugung: `tools/gen_assets.py`
+in Boxen die Boxfarbe). Tableiste in der Sprache des Zeichens: `tab-kurse` (das Zeichen als Kontur mit IP),
+`tab-wdh` (Kreispfeil um eine Kachel), `tab-profil` (Büste in einer Kachel), `tab-konzept` (Doktorhut).
+`feier` zeigt noch zwei überlappende Kacheln aus der Vorrunde; alle übrigen sind reine Motive. Erzeugung: `tools/gen_assets.py`
 (Gemini → potrace → `icons/ic-*.svg`, viewBox 24). Symbol-IDs `ic-<name>`, im Template `ic('name')`.
 Größen: 24 (Tabbar, Buttons), 20 (Listen, Boxen), 16 (Chips, Pills).
 

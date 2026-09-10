@@ -26,17 +26,23 @@ STYLE = ("Single icon in exactly the style of the reference sheet: thick monolin
          "size), rounded caps and joins, geometric construction from circles, straight strokes and arcs, no fills except "
          "where stated, no outlines around strokes, no gradients, no shadow, no text, no frame, no container. Single "
          "vivid blue #1482e3 on a pure white edge-to-edge background, centered, the icon fills about 70 percent of the canvas.")
-MARK = ("The brand motif, simplified from the second reference image: two overlapping rounded squares of equal size, "
-        "the back one upper left, the front one lower right, both drawn as thick monoline outlines with the same stroke "
-        "weight as the rest; inside the overlap the back square's lines are hidden behind the front square; no letters.")
+MARK = ("The brand motif, simplified from the second reference image: one rounded square with large corner radius drawn "
+        "as a thick monoline outline, and inside it the letters I and P drawn as rounded monoline strokes of the same "
+        "weight (I a straight vertical stroke, P a straight vertical stroke with a rounded bowl at the top right).")
+
+# Von Hand gezeichnet (exakte Geometrie des Zeichens); gen und trace lassen sie aus
+HAND = {"tab-kurse"}
 
 # name: (Prompt, mit Markenmotiv?)
 ICONS = {
-    # Tableiste und Feier (tab-kurse, tab-wdh, feier mit Markenmotiv)
+    # Tableiste (tab-kurse, tab-wdh mit Markenmotiv; Zeichen seit 10.09.2026: eine Kachel mit IP)
     "tab-kurse": ("the brand motif alone, filling the icon, nothing else", True),
-    "tab-wdh": ("one circular arrow (repeat) around a small version of the brand motif, clear space between arrow and motif", True),
-    "tab-profil": ("a simple person bust (circle for the head, arc for the shoulders) inside a plain circle, nothing else", False),
-    "tab-konzept": ("a graduation cap (mortarboard) seen slightly from the front, nothing else", False),
+    "tab-wdh": ("one circular arrow (repeat) around a small plain rounded square outline without letters, clear space between arrow and square", False),
+    "tab-profil": ("a simple person bust (circle for the head, arc for the shoulders) inside a rounded square outline with large corner radius, nothing else", False),
+    "tab-konzept": ("a graduation cap (mortarboard) seen slightly from the front: a flat diamond top, a short cap body "
+                    "below it, one thin tassel hanging straight down on the right corner; no button, no extra lines or "
+                    "arcs, generous white space inside the shapes", False),
+    # Feier (noch mit dem Zwei-Kachel-Motiv erzeugt, bewusst beibehalten)
     "feier": ("a laurel wreath (achievement) around a small version of the brand motif", True),
     # Aktionen
     "zurueck": ("a chevron pointing left", False), "weiter": ("an arrow pointing right", False),
@@ -145,7 +151,9 @@ def main():
     mode = args[0] if args and not args[0].startswith("--") else "gen"
     force = "--force" in args
     only = set(args[args.index("--only") + 1].split(",")) if "--only" in args else None
-    names = [n for n in ICONS if not only or n in only]
+    names = [n for n in ICONS if (not only or n in only) and n not in HAND]
+    if only and only & HAND:
+        print("von Hand gezeichnet, übersprungen:", ", ".join(sorted(only & HAND)))
     RAW.mkdir(parents=True, exist_ok=True); (ASSETS / "icons").mkdir(parents=True, exist_ok=True)
     errors = []
     if mode == "gen":

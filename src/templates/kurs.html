@@ -108,6 +108,8 @@ h3{font-size:16px;margin:14px 0 6px;font-weight:600}
 .btn[disabled]{opacity:.5;cursor:default}
 .actions{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
 .actions .btn{flex:1}
+.xio{display:block;width:100%;box-sizing:border-box;margin:12px 0 0;padding:12px 14px;border:1px solid var(--line);border-radius:var(--r-md);background:var(--paper);color:var(--ink);font:13px/1.45 ui-monospace,SFMono-Regular,Menlo,monospace;resize:vertical;min-height:96px}
+.xmsg:empty{display:none}.xmsg.ok{color:var(--ok)}.xmsg.bad{color:var(--bad)}
 /* Startseite: Vollflächen-Hero (bis unter die Statusleiste), darunter überlappende Karte */
 .hero{position:relative;isolation:isolate;overflow:hidden;margin:0 -16px;padding:calc(12px + env(safe-area-inset-top)) 16px 70px;border-radius:0 0 var(--r-xl) var(--r-xl);color:#fff;text-align:center;
   background:var(--brand-grad);box-shadow:0 14px 40px rgba(11,95,176,.28),inset 0 -1px 0 rgba(255,255,255,.25)}
@@ -463,6 +465,37 @@ const due = e => { const v=P.u[e.id]; if(!v||!QUIZ(e)) return false; if(v.r===0)
 const st = e => { const v=P.u[e.id]; return v ? (v.r===1?'ok':'bad') : 'none'; };
 const progOf = units => { const q=units; const done=q.filter(e=>P.u[e.id]).length; const ok=q.filter(e=>P.u[e.id]&&P.u[e.id].r===1).length; return {total:q.length,done,ok,pct:q.length?Math.round(done/q.length*100):0}; };
 const unitsOf = k => k.kapitel.flatMap(c=>c.einheiten);
+// ---------- Fortschritt übertragen: JSON kopieren, einfügen (zusammenführen/überschreiben) ----------
+const Transfer = (()=>{
+  const PREFS=['mgk_theme','mgk_radar','mgk_view','mgk_recent'];
+  const ID=/^[A-Za-z0-9-]+$/; const int=v=>Math.max(0,Math.floor(+v)||0);
+  const getLS=k=>{ try{ return localStorage.getItem(k); }catch(e){ return null; } };
+  const setLS=(k,v)=>{ try{ v==null ? localStorage.removeItem(k) : localStorage.setItem(k,v); }catch(e){} };
+  const dump = () => JSON.stringify({app:'ipelico', v:1, exportiert:new Date().toISOString(), fortschritt:P, einstellungen:Object.fromEntries(PREFS.map(k=>[k,getLS(k)]))});
+  // Eingabe prüfen und in das Format von Store.load bringen (Trennzeichen . _ , dürfen nicht in IDs vorkommen)
+  const parse = text => {
+    let o; try{ o=JSON.parse(String(text).trim()); }catch(e){ throw new Error('Kein gültiges JSON. Bitte den kompletten kopierten Text einfügen.'); }
+    const f = o && (o.fortschritt || (o.u ? o : null));
+    if(!f || typeof f.u!=='object' || Array.isArray(f.u)) throw new Error('Das JSON enthält keinen IPelico-Fortschritt.');
+    const u={}; for(const [id,v] of Object.entries(f.u)) if(ID.test(id) && v && typeof v==='object') u[id]={r:v.r?1:0, d:int(v.d), n:int(v.n)};
+    const s=f.s||{};
+    const p={u, s:{last:int(s.last),cnt:int(s.cnt),best:int(s.best)}, xp:int(f.xp), last:ID.test(f.last||'')?f.last:'', ack:f.ack?1:0};
+    const prefs={}; const e=o.einstellungen; if(e && typeof e==='object') for(const k of PREFS) if(k in e) prefs[k]=typeof e[k]==='string'?e[k]:null;
+    return {p, prefs}; };
+  const newer = (a,b) => !a || b.d>a.d || (b.d===a.d && b.n>a.n);
+  const apply = ({p,prefs}, mode) => {
+    if(mode==='over'){ P=p; for(const k of PREFS) if(k in prefs) setLS(k,prefs[k]); }
+    else {
+      for(const [id,v] of Object.entries(p.u)) if(newer(P.u[id],v)) P.u[id]=v;
+      if(p.s.last>P.s.last){ P.s.last=p.s.last; P.s.cnt=p.s.cnt; P.last=p.last||P.last; } else if(p.s.last===P.s.last) P.s.cnt=Math.max(P.s.cnt,p.s.cnt);
+      P.s.best=Math.max(P.s.best,p.s.best,P.s.cnt); P.xp=Math.max(P.xp,p.xp); P.ack=Math.max(P.ack,p.ack);
+      for(const k of PREFS) if(k!=='mgk_recent' && getLS(k)==null && prefs[k]!=null) setLS(k,prefs[k]);
+      if(prefs.mgk_recent){ let a=[],b=[]; try{ a=JSON.parse(getLS('mgk_recent')||'[]'); b=JSON.parse(prefs.mgk_recent); }catch(e){}
+        if(Array.isArray(a)&&Array.isArray(b)){ const seen=new Set(); setLS('mgk_recent', JSON.stringify([...a,...b].filter(q=>typeof q==='string'&&!seen.has(q.toLowerCase())&&seen.add(q.toLowerCase())).slice(0,8))); } }
+    }
+    Store.save(P); applyTheme(); return Object.keys(p.u).length; };
+  return {dump, parse, apply};
+})();
 // ---------- Lernradar: Knoten, zu denen zuletzt ein Fall falsch war ----------
 const radarOn = () => { try{ return localStorage.getItem('mgk_radar')!=='0'; }catch(e){ return true; } };
 let WEAK = new Map();
@@ -659,8 +692,23 @@ function vProfil(){
   <h2>Lernradar</h2><div class="glass card"><p style="margin:0 0 10px">Markiert Begriffe, Prüfungspunkte und Entscheidungen rot, zu denen ein Fall zuletzt falsch war, in Chips, Schemata, Lernkarten und Suche.</p><div class="seg" id="radar"><button data-r="1" class="${radarOn()?'on':''}">${ic('falsch','s')}An</button><button data-r="0" class="${radarOn()?'':'on'}">Aus</button></div></div>
   <h2>Darstellung und Speicherung</h2><div class="glass card"><div class="seg" id="theme"><button data-t="light" class="${pref==='light'?'on':''}">${ic('hell','s')}Hell</button><button data-t="dark" class="${pref==='dark'?'on':''}">${ic('dunkel','s')}Dunkel</button><button data-t="system" class="${pref==='system'?'on':''}">${ic('system','s')}System</button></div>
     <p style="margin:14px 0 10px">Dein Fortschritt liegt ${Store.mode()==='cookie'?'in zwei Cookies (<code>mgk_p</code>, <code>mgk_m</code>, 1 Jahr gültig)':'im lokalen Browserspeicher (Cookies sind hier nicht verfügbar, etwa beim Öffnen als Datei)'} auf diesem Gerät. Es werden keine Daten an einen Server gesendet.</p>
-    <button class="btn ghost" id="reset" style="color:var(--bad)">${ic('loeschung','m')}Fortschritt löschen</button></div>`;
+    <button class="btn ghost" id="reset" style="color:var(--bad)">${ic('loeschung','m')}Fortschritt löschen</button></div>
+  <h2>Fortschritt übertragen</h2><div class="glass card"><p style="margin:0 0 12px">Kopiere deinen Fortschritt als JSON und füge ihn auf einem anderen Gerät oder einer anderen IPelico-Seite hier ein. <b>Zusammenführen</b> behält je Fall die neuere Antwort, <b>Überschreiben</b> ersetzt den Fortschritt und die Einstellungen dieses Geräts.</p>
+    <button class="btn block" id="xcopy">${ic('register','m')}Fortschritt kopieren</button>
+    <textarea id="xio" class="xio" rows="4" spellcheck="false" autocomplete="off" autocapitalize="off" aria-label="Fortschritt als JSON" placeholder='{"app":"ipelico","v":1, …} hier einfügen'></textarea>
+    <div class="actions"><button class="btn primary" id="xmerge">Zusammenführen</button><button class="btn ghost" id="xover">Überschreiben</button></div>
+    <p class="meta xmsg" id="xmsg" aria-live="polite" style="margin:0"></p></div>`;
   document.getElementById('reset').onclick=()=>{ if(confirm('Gesamten Fortschritt löschen?')){ Store.clear(); P=Store.load(); route(); } };
+  const xio=document.getElementById('xio'), xmsg=document.getElementById('xmsg');
+  const say=(t,ok)=>{ xmsg.textContent=t; xmsg.className='meta xmsg '+(ok?'ok':'bad'); };
+  document.getElementById('xcopy').onclick=async()=>{ const s=Transfer.dump();
+    try{ await navigator.clipboard.writeText(s); say(`Kopiert: ${Object.keys(P.u).length} bearbeitete Einheiten, ${P.xp} XP.`,true); }
+    catch(e){ xio.value=s; xio.focus(); xio.select(); let ok=false; try{ ok=document.execCommand('copy'); }catch(_){} say(ok?'Kopiert.':'Zwischenablage nicht verfügbar – der markierte Text unten lässt sich manuell kopieren.',ok); } };
+  const imp=mode=>{ let d; try{ d=Transfer.parse(xio.value); }catch(e){ say(e.message,false); return; }
+    if(mode==='over' && !confirm('Fortschritt und Einstellungen dieses Geräts durch die eingefügten Daten ersetzen?')) return;
+    const n=Transfer.apply(d,mode); route(); const m=document.getElementById('xmsg'); m.textContent=`${mode==='over'?'Überschrieben':'Zusammengeführt'}: ${n} Einheiten übernommen, jetzt ${Object.keys(P.u).length} bearbeitet.`; m.className='meta xmsg ok'; };
+  document.getElementById('xmerge').onclick=()=>imp('merge');
+  document.getElementById('xover').onclick=()=>imp('over');
   document.getElementById('radar').onclick=ev=>{ const b=ev.target.closest('button'); if(!b) return; try{ localStorage.setItem('mgk_radar',b.dataset.r); }catch(e){} document.querySelectorAll('#radar button').forEach(x=>x.classList.toggle('on',x===b)); };
   document.getElementById('theme').onclick=ev=>{ const b=ev.target.closest('button'); if(!b) return; const t=b.dataset.t; try{ if(t==='system') localStorage.removeItem('mgk_theme'); else localStorage.setItem('mgk_theme',t); }catch(e){} applyTheme(); document.querySelectorAll('#theme button').forEach(x=>x.classList.toggle('on',x===b)); };
 }

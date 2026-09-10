@@ -106,7 +106,7 @@ def favicon():
     return "data:image/svg+xml;base64," + base64.b64encode(p.read_bytes()).decode()
 
 
-APP_ICONS = ["apple-touch-icon.png", "icon-192.png", "icon-512.png", "favicon-32.png", "favicon-16.png"]
+APP_ICONS = ["apple-touch-icon.png", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "favicon-32.png", "favicon-16.png", "favicon.ico"]
 
 
 def app_icons():
@@ -119,8 +119,9 @@ def app_icons():
     manifest = {
         "name": "IPelico – Markenrecht in Fällen", "short_name": "IPelico", "start_url": "./", "scope": "./",
         "display": "standalone", "background_color": "#f3f5f9", "theme_color": "#1482e3", "lang": "de",
-        "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
-                  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}],
+        "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+                  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+                  {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}],
     }
     (OUT.parent / "manifest.webmanifest").write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
 

@@ -27,7 +27,7 @@ with sync_playwright() as pw:
     pg.goto(BASE + "#/"); pg.wait_for_timeout(500)
     kurse = pg.evaluate("JSON.parse(document.getElementById('kurse-data').textContent).map(k=>({id:k.id,units:k.kapitel.flatMap(c=>c.einheiten.map(e=>({id:e.id,typ:e.typ})))}))")
     units = [u for k in kurse for u in k["units"]]
-    routes = ["#/", "#/wdh", "#/profil", "#/didaktik", "#/ende/k04a"] + [f"#/kurs/{k['id']}" for k in kurse]
+    routes = ["#/", "#/kurse", "#/suche", "#/suche/begriffe", "#/suche/entscheidungen", "#/suche/q/verwechslung", "#/karte/concept:markenfaehigkeit", "#/karte/schema:schema_markenverletzung", "#/karte/norm:§14", "#/wdh", "#/profil", "#/didaktik", "#/ende/k04a"] + [f"#/kurs/{k['id']}" for k in kurse]
     sample = [u for u in units if u["typ"] in ("intro", "schema")] + units[::7]
     routes += [f"#/lernen/{u['id']}" for u in sample]
     for r in routes:
@@ -55,6 +55,17 @@ with sync_playwright() as pw:
         pg.goto(BASE + f"#/lernen/{mc['id']}"); pg.wait_for_timeout(200); pg.keyboard.press("2"); pg.wait_for_timeout(150)
         check(pg.is_visible("#result"), "MC-Tastatur 2 ohne Ergebnis")
     check(pg.evaluate("document.cookie.includes('mgk_p=')"), "Cookie mgk_p nicht gesetzt")
+    # Suche, Lernkarte, Lernradar
+    pg.goto(BASE + f"#/lernen/{fall['id']}"); pg.wait_for_timeout(200)
+    wrong = pg.evaluate("(()=>{const e=JSON.parse(document.getElementById('kurse-data').textContent).flatMap(k=>k.kapitel.flatMap(c=>c.einheiten)).find(u=>u.id==='%s'); return e.antwort?0:1;})()" % fall["id"])
+    pg.click(f".ans[data-v='{wrong}']"); pg.wait_for_timeout(200)
+    check(pg.evaluate("document.querySelectorAll('#result .chip.weak').length") > 0, "Lernradar markiert Chips nach falscher Antwort nicht")
+    pg.goto(BASE + "#/suche"); pg.wait_for_timeout(200); pg.fill("#q", "verwechslung"); pg.wait_for_timeout(400)
+    check(pg.evaluate("document.querySelectorAll('.hit').length") >= 5, "Suche liefert keine Treffer")
+    pg.click(".hit"); pg.wait_for_timeout(200)
+    check("#/karte/" in pg.url or "#/lernen/" in pg.url, "Treffer öffnet keine Lernkarte")
+    pg.goto(BASE + "#/wdh"); pg.wait_for_timeout(200)
+    check(pg.evaluate("document.querySelectorAll('.row .rd').length") > 0, "Lernradar-Abschnitt in Wiederholen fehlt")
     # Cookie-Kompatibilität (altes Format) und Theme
     ctx2 = b.new_context(viewport={"width": 390, "height": 844}); pg2 = ctx2.new_page()
     pg2.goto(BASE); pg2.evaluate("document.cookie='mgk_p=k01a-2.1.20300.2; path=/'; document.cookie='mgk_m=20300,3,5,120,k01a-2,1; path=/'")

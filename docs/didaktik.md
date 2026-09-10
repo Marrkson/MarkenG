@@ -54,3 +54,17 @@ keine Cookies; dann weicht die App automatisch auf `localStorage` aus und sagt d
 ## Kurs 11: Die Markenrechtsrichtlinie (EU) 2015/2436
 
 Der Kurs folgt demselben Format, behandelt aber die Ebene über dem MarkenG: Aufbau der Richtlinie, richtlinienkonforme Auslegung und Vorlage an den EuGH, dann die Artikel 3 bis 18 und die Verfahrensvorschriften mit ihren Umsetzungen im MaMoG 2019 (Transit, Vorbereitungshandlungen, Namensschranke, Schonfrist, Cooling-off, Amtsverfahren, Gewährleistungsmarke). Zusätzlich verweisen zehn bestehende Fälle der Kurse 1 bis 7 nun auf den jeweils zugrunde liegenden Richtlinienartikel.
+
+## Nachschlagen: Lernkarten, Suche und Lernradar (Vorbild AMBOSS)
+
+Neben der Falldidaktik (Vorbild Jurafuchs) übernimmt IPelico seit September 2026 drei Prinzipien der
+Medizin-Plattform AMBOSS, die Lernen und Nachschlagen in einer Wissensbasis verbindet:
+
+| Prinzip | Vorbild | Umsetzung in IPelico |
+|---|---|---|
+| **Suche über alles** | Eine Suche über Kapitel, Fragen und Begriffe mit gruppierten Treffern. | Such-Kugel in der Tableiste (Taste `/`). Treffer gruppiert nach Begriffen, Prüfungspunkten, Schemata, Gesetz, Richtlinien, Entscheidungen, Abgrenzungen und Fällen; zuletzt Gesuchtes und Stöbern-Kacheln, wenn das Feld leer ist. |
+| **Lernkarten mit festem Schema** | Jedes Kapitel ist gleich gegliedert, damit man beim Nachschlagen sofort weiß, wo etwas steht; über 200.000 Verlinkungen mit Kurzdefinitionen. | Jeder Knoten des Wissensgraphen hat eine Lernkarte in fester Reihenfolge: Definition oder Kern, Norm, Prüfung, Rechtsprechung, Abgrenzung, Verwandtes, Fälle dazu. Chips öffnen Kurzkarten inline, jede Kurzkarte verlinkt zur Lernkarte, jede Lernkarte zu den Fällen. |
+| **Lernradar** | Fakten, zu denen eine Frage falsch beantwortet wurde, bleiben in der Lernkarte rot unterstrichen, bis die Frage richtig beantwortet ist. | Falsch beantwortete Fälle markieren ihre Begriffe, Prüfungspunkte, Entscheidungen und Abgrenzungen rot in Chips, Schemata, Lernkarten, Suche und im Tab Wiederholen. Die Markierung verschwindet mit der nächsten richtigen Antwort; abschaltbar im Profil. |
+
+Noch nicht übernommen: Relevanz-Markierung nach Klausurhäufigkeit, ein eigener Nachschlage-Modus ohne
+Lernelemente und vorgefertigte Lernsitzungen.

@@ -94,7 +94,11 @@ Verlauf. Ohne `backdrop-filter` sehen Browser deckende Karten; nichts bricht.
 | `--r-sm` | 10px | kleine Kacheln |
 | `--r-pill` | 999px | Buttons, Tags, Chips, Tableiste |
 
-Seite: eine Spalte bis 720 px, 16 px Rand, 96 px Platz unten für die Tableiste. Tap-Ziele ≥ 44 px.
+Seite: eine Spalte bis 720 px, 16 px Rand, unten `104px + env(safe-area-inset-bottom)` Platz für die
+Tableiste. Tap-Ziele ≥ 44 px (Tabs 52 px, runde Knöpfe 44/52 px, Schnellzugriff-Pillen 48 px), Abstand
+zwischen Tap-Zielen ≥ 8 px. Horizontale Reihen (`.hscroll`, `.quick`) laufen bis an den Rand
+(`margin: 0 -16px`), Scroll-Snap, versteckte Scrollleiste, nächste Karte ragt sichtbar an (76 % Breite).
+Ab 760 px: Hero mit allen vier Radien, Tableiste als schwebende Pille, Reihen ohne Randüberlauf.
 
 ## 5. Typografie
 
@@ -127,8 +131,15 @@ Größen: 24 (Tabbar, Buttons), 20 (Listen, Boxen), 16 (Chips, Pills).
 
 | Klasse | Beschreibung |
 |---|---|
-| `.topbar` | sticky Glas, Zeichen + Wortmarke oder Zurück + Titel, rechts Streak- und XP-Pills |
-| `.hero` | `--brand-grad`, r-xl, Weiß-Text, weißer Button; Fortschrittsring |
+| `.topbar` | sticky, ohne Grund; runder Zurück-Knopf (44 px) + Titel 22/700, rechts Pills oder `.seg.ic-seg` (Liste/Raster). Beim Scrollen (`.scrolled`) Hintergrund `--bg` 82 % + Blur. Auf der Startseite ausgeblendet; dort trägt der Hero die Wortmarke |
+| `.hero` | Startseite: vollflächig bis unter die Statusleiste (`env(safe-area-inset-top)`), nur untere Radien r-xl, `--brand-grad` + zwei Lichtflecken, zentrierter Gruß (17) und Titel (32/700), darunter `.status`-Pille (Glas auf Verlauf, Zähler-Badge, Chevron; führt zu Wiederholung oder nächster Einheit) |
+| `.next` | überlappende Karte unter dem Hero (`margin-top:-52px`, `--paper`, `--shadow-2`): Eyebrow „Weiter mit Kurs“, Titel, Meta mit Icon, Wasserzeichen-Icon; Fußzeile mit Prozentwert und schwarzer Pill „Weiter lernen“ |
+| `.quick` / `.qa` | Schnellzugriff: zweizeiliges, horizontal scrollendes Raster aus weißen Pillen (Icon Brand + Label, optional Zähler `.n`) |
+| `.hscroll` / `.kcard` | Kurs-Karussell: Hochkant-Karten 76 % Breite in Kursfarbe (`.cthumb`-Verlauf), Pill oben, Wasserzeichen-Icon, Titel/Meta/Balken unten auf Abdunklung |
+| `.lcard` | Listenkarte (Glas): Kurskachel 96 px links, Kategorie-Pill, Titel 17/600, Meta mit Icon, Balken; im Raster (`.lgrid`) zweispaltig mit Kachel oben. Ansicht wird in `mgk_view` gemerkt |
+| `.detail` | Kursdetail (Glas): große Kurskachel 210 px mit Nummer-Pill, Status-Tag, h1, Beschreibung, `.mrow`-Metazeilen mit Icon, Balken, `.actrow`: schwarze Pill (flex 1) + runde Icon-Knöpfe 52 px |
+| `.cthumb` | Kurskachel: Verlauf aus `--c` (heller → Kursfarbe → dunkler), Glanzlicht, weißes Icon mit Schatten |
+| `.last` | „Zuletzt gelernt“: Avatar-Kreis mit Typ-Icon, Titel, Tags, darunter `.chk`-Zeilen (Haken/Kreuz/Uhr) |
 | `.glass` | Glaskarte (siehe 3) |
 | `.box` | Wissensbox: 4-px-Balken links, getönter Grund, Label in Versalien mit Icon; Typen `merke`, `def`, `tip`, `ok`, `bad`, `sv` (Sachverhalt) |
 | `.btn.primary` | schwarze Pill (`--ink` auf `--paper`), im Dunkelmodus invertiert; `.btn.light` weiße Pill auf Verlauf; `.btn.ghost` transparent mit Rahmen |
@@ -136,9 +147,38 @@ Größen: 24 (Tabbar, Buttons), 20 (Listen, Boxen), 16 (Chips, Pills).
 | `.chip` | Kategorie-Pill mit 16-px-Icon, öffnet Inline-Karte; `.open` invertiert |
 | `.row` | Listenzeile: Nummern-Kachel (Plex Mono) oder Typ-Icon, Titel, Untertitel, Balken, Chevron |
 | `.ans` | Antwortkarte: deckend, 2-px-Rahmen, Zustände `sel right wrong` |
-| `.tabbar` | schwebende Glas-Pille, 4 Tabs mit Pelikan-Icons |
-| `.notice` | schwebende Glaskarte über der Tableiste |
+| `.tabwrap` / `.tabbar` / `.fab` | wie iOS 26: schwebende Glas-Kapsel mit 4 Tabs (Icon 26 + Label 11, aktiv Icon Brand + Label Ink, `aria-current`) und daneben eine eigene Glas-Kugel (64 px) für Suchen/Nachschlagen; Abstand unten `max(12px, env(safe-area-inset-bottom))` |
+| `.notice` | kompakte Glaskarte (13 px, Knopf „OK“ 44 px) direkt über der Tableiste |
+| `.sbox` | Suchfeld als Glas-Pille, sticky unter der Kopfzeile, Lupe links, Löschen-Kreis rechts; Eingabe 17 px, `enterkeyhint=search`, Ergebnisse nach 110 ms |
+| `.grp` / `.hit` | Treffergruppe (Versalien-Label, Icon, Zähler, „alle zeigen“) und Trefferzeile: Typ-Kreis in Typfarbe, Titel mit `<mark>`, zweizeiliger Auszug, roter Punkt bei Lernradar |
+| `.cats` / `.cat` | Stöbern-Kacheln (2 Spalten, Glas): Icon, Kategorie, Zähler in Plex Mono |
+| `.toc` | Abschnittsleiste der Lernkarte: sticky, horizontal scrollend, Glas-Pillen mit 16-px-Icon, springt weich zu `.sec` |
+| `.sec` | Lernkarten-Abschnitt in fester Reihenfolge: Definition/Kern, Norm, Prüfung, Rechtsprechung, Abgrenzung, Verwandt, Fälle dazu; leere Abschnitte entfallen, die Reihenfolge nie |
+| Lernradar | `.chip.weak` (2-px-Unterstrich `--bad` + roter Punkt), `.tree .node.weak` (roter Unterstrich), `.row .rd` / `.hit .rd` (roter Punkt), `.box.bad` „Lernradar“ am Kopf der Lernkarte; bleibt bis zur nächsten richtigen Antwort |
 | `.inline` | Inline-Karte (Begriff, Norm, Entscheidung, Schema) mit Linksbalken in Typfarbe |
+
+## 8a. Mobile Struktur (Vorlage: Versicherungs-App, abgestimmt 10.09.2026)
+
+Reihenfolge Startseite: Hero → überlappende Weiter-Karte → Schnellzugriff → Kurs-Karussell mit „Alle
+anzeigen“ → Zuletzt gelernt → Kennzahlen. Route `#/kurse` zeigt alle Kurse als Liste oder Raster mit
+Umschalter in der Kopfzeile. Kursdetail wie eine Ortskarte: Bild, Kategorie, Titel, Metazeilen,
+Aktionszeile. Angewandte Regeln: Primäraktionen in der Daumenzone (Fußzeile der Karte, Aktionszeile,
+Tableiste), 3–5 Tabs mit Label, `touch-action: manipulation` und ohne Tap-Highlight, sichtbare
+`:active`-Skalierung, horizontale Reihen nur mit angeschnittener Folgekarte als Hinweis, sticky
+Kopfzeile ohne weiteren Inhalt, keine `100vh`-Höhen.
+
+## 8b. Nachschlagen (Vorbild AMBOSS, 10.09.2026)
+
+Eine Wissensbasis, zwei Nutzungsweisen: Kurse lernen, Lernkarten schlagen nach. Route `#/suche`
+(Such-Kugel in der Tableiste, Taste `/`): leer zeigt sie zuletzt Gesuchtes, den Lernradar-Hinweis und
+Stöbern-Kacheln je Knotentyp; ab zwei Zeichen gruppierte Treffer (Begriffe, Prüfungspunkte, Schemata,
+Gesetz, Richtlinien, Entscheidungen, Abgrenzungen, Fälle) mit Hervorhebung, maximal fünf je Gruppe plus
+„alle zeigen“, Null-Treffer mit Vorschlägen. Route `#/karte/<knoten>`: Lernkarte mit immer gleichem
+Aufbau (siehe `.sec`), Zurück per Verlauf. Jede Inline-Karte verlinkt auf ihre Lernkarte; jede Lernkarte
+listet die Fälle, die den Punkt trainieren. Lernradar: falsch beantwortete Fälle markieren ihre Begriffe,
+Prüfungspunkte, Entscheidungen und Abgrenzungen rot in Chips, Schemata, Lernkarten, Suche und im Tab
+Wiederholen; Schalter im Profil (`mgk_radar`). Glas nur auf der Navigationsebene (Kopfzeile, Suchfeld,
+Abschnittsleiste, Tableiste) und Karten erster Ebene; Listen und Boxen bleiben deckend.
 
 ## 9. Bewegung
 

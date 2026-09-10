@@ -171,8 +171,8 @@ Fremdgesetze gehören in den Fließtext, wo `gesetze.py` sie verlinkt.
   wird aus `gesetze.py` erzeugt (`__LAWJS__`). IPelico bettet zusätzlich `__SPRITE__` (alle `icons/ic-*.svg` und
   `logo/*.svg` als `<symbol>`), `__FONTS__` (woff2 als data-URI) und `__FAVICON__` ein; `build_kurs.py` bricht ab,
   wenn ein im Template benötigtes Icon fehlt (`REQUIRED_ICONS`).
-- App-Icons: `build_kurs.py` kopiert `logo/*.png` (Apple-Touch-Icon 180, 192, 512, Favicons) und schreibt
-  `docs/manifest.webmanifest`. Die PNGs werden aus `ipelico-badge.svg` gerendert (`python3 tools/render_icons.py`);
+- App-Icons: `build_kurs.py` kopiert `logo/*.png` und `favicon.ico` (Apple-Touch-Icon 180, 192, 512, maskable 512,
+  Favicons 16/32, ICO 16/32/48) und schreibt `docs/manifest.webmanifest`; der Navigator verweist auf dieselben Dateien. Die PNGs werden aus `ipelico-badge.svg` gerendert (`python3 tools/render_icons.py`);
   bei neuem Zeichen neu rendern.
 - Gestaltung: `DESIGN.md` ist verbindlich. Neue Icons in `tools/gen_assets.py` eintragen, `gen` und `trace`
   laufen lassen, Ergebnis auf dem Kontaktblatt prüfen (16 px muss lesbar bleiben). Für ein neues Gesetz sind an den Templates in der

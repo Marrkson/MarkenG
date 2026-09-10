@@ -1,7 +1,13 @@
 # -*- coding: utf-8 -*-
-"""Erzeugt die fallbasierte Lernapp docs/index.html (Jurafuchs-artiges Format, Startseite)
-sowie data/kurse.json."""
+"""Erzeugt IPelico, die fallbasierte Lernapp docs/index.html (Startseite), und data/kurse.json.
+
+Bettet ein: Kurse (__KURSE__), den reduzierten Graphen (__GRAPH__), das Verlinkungs-JavaScript
+(__LAWJS__), das SVG-Sprite aus src/templates/ipelico/ (__SPRITE__: Icons und Zeichen) sowie die
+Schriften als @font-face (__FONTS__). Die Datei bleibt ohne externe Ressourcen lauffähig.
+"""
+import base64
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -12,9 +18,24 @@ from knowledge.gesetze import js_source  # noqa: E402
 from knowledge.kurse import KURSE  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
+ASSETS = ROOT / "src" / "templates" / "ipelico"
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
 OUT = ROOT / "docs" / "index.html"
 DATA = ROOT / "data" / "kurse.json"
+
+# Icons, die das Template verwendet; fehlt eines im Sprite, bricht der Build ab.
+REQUIRED_ICONS = [
+    "tab-kurse", "tab-wdh", "tab-profil", "tab-konzept", "feier",
+    "zurueck", "weiter", "schliessen", "extern", "suche", "einstellungen",
+    "fall", "quiz", "intro", "schema", "richtig", "falsch", "offen", "streak", "punkte", "faellig",
+    "merke", "definition", "tipp", "sachverhalt", "loesung",
+    "begriff", "norm", "richtlinie", "entscheidung", "pruefungspunkt", "tabelle",
+    "hell", "dunkel", "system", "datenschutz", "loeschung",
+]
+FONTS = [  # (Datei, family, weight)
+    ("IBMPlexSans-var.woff2", "IBM Plex Sans", "400 700"),
+    ("IBMPlexMono-500.woff2", "IBM Plex Mono", "500"),
+]
 
 
 def embed(obj):
@@ -37,17 +58,73 @@ def reduced_graph(graph):
     return dict(nodes=nodes, edges=edges)
 
 
+SVG_RE = re.compile(r"<svg\b([^>]*)>(.*)</svg>", re.S)
+
+
+def to_symbol(svg_text, sid):
+    m = SVG_RE.search(svg_text)
+    if not m:
+        raise SystemExit(f"kein <svg> in {sid}")
+    attrs, body = m.group(1), m.group(2)
+    vb = re.search(r'viewBox="([^"]+)"', attrs)
+    keep = " ".join(re.findall(r'(?:fill|stroke|stroke-width|stroke-linecap|stroke-linejoin)="[^"]*"', attrs))
+    body = re.sub(r"<!--.*?-->", "", body, flags=re.S).strip()
+    body = re.sub(r'\bid="([^"]+)"', lambda x: f'id="{sid}-{x.group(1)}"', body)
+    body = re.sub(r"url\(#([^)]+)\)", lambda x: f"url(#{sid}-{x.group(1)})", body)
+    return f'<symbol id="{sid}" viewBox="{vb.group(1) if vb else "0 0 24 24"}" {keep}>{body}</symbol>'
+
+
+def sprite():
+    syms, ids = [], set()
+    for sub in ("icons", "logo"):
+        for f in sorted((ASSETS / sub).glob("*.svg")):
+            sid = f.stem
+            if sid in ids:
+                raise SystemExit(f"doppelte Symbol-ID {sid}")
+            ids.add(sid)
+            syms.append(to_symbol(f.read_text(encoding="utf-8"), sid))
+    missing = [n for n in REQUIRED_ICONS if f"ic-{n}" not in ids]
+    if missing or "ipelico-mark" not in ids:
+        raise SystemExit(f"Sprite unvollständig, fehlt: {missing + ([] if 'ipelico-mark' in ids else ['ipelico-mark'])}")
+    return '<svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">' + "".join(syms) + "</svg>"
+
+
+def fonts_css():
+    rules = []
+    for fname, family, weight in FONTS:
+        p = ASSETS / "fonts" / fname
+        if not p.exists():
+            raise SystemExit(f"Schrift fehlt: {p}")
+        b64 = base64.b64encode(p.read_bytes()).decode()
+        rules.append(f"@font-face{{font-family:\"{family}\";font-style:normal;font-weight:{weight};font-display:swap;"
+                     f"src:url(data:font/woff2;base64,{b64}) format(\"woff2\")}}")
+    return "\n".join(rules)
+
+
+def favicon():
+    p = ASSETS / "logo" / "ipelico-badge.svg"
+    return "data:image/svg+xml;base64," + base64.b64encode(p.read_bytes()).decode()
+
+
 def build():
     graph = json.loads(GRAPH.read_text(encoding="utf-8"))
     DATA.write_text(json.dumps(KURSE, ensure_ascii=False, indent=1), encoding="utf-8")
+    sp = sprite()
     html = (TEMPLATE.read_text(encoding="utf-8")
             .replace("__KURSE__", embed(KURSE))
             .replace("__GRAPH__", embed(reduced_graph(graph)))
-            .replace("__LAWJS__", js_source()))
+            .replace("__LAWJS__", js_source())
+            .replace("__SPRITE__", sp)
+            .replace("__FONTS__", fonts_css())
+            .replace("__FAVICON__", favicon()))
+    for ph in ("__KURSE__", "__GRAPH__", "__LAWJS__", "__SPRITE__", "__FONTS__", "__FAVICON__"):
+        if ph in html:
+            raise SystemExit(f"Platzhalter {ph} nicht ersetzt")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
     n = sum(len(k["einheiten"]) for kurs in KURSE for k in kurs["kapitel"])
-    print(f"Kursapp: {len(KURSE)} Kurse, {n} Einheiten -> {OUT.relative_to(ROOT)} ({OUT.stat().st_size/1024:.0f} KB)")
+    print(f"IPelico: {len(KURSE)} Kurse, {n} Einheiten, Sprite {len(sp)/1024:.0f} KB -> "
+          f"{OUT.relative_to(ROOT)} ({OUT.stat().st_size/1024:.0f} KB)")
 
 
 if __name__ == "__main__":

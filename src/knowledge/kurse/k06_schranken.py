@@ -3,7 +3,7 @@ from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
     id="k06", titel="Schranken des Markenschutzes", untertitel="§§ 20 bis 24 MarkenG: Wann der Markeninhaber nichts verbieten kann",
-    farbe="#A56B00", icon="schranke",
+    farbe="#2f9e44", icon="schranke",
     beschreibung="Beschreibende Benutzung, Ersatzteilhinweise, das Recht der Gleichnamigen, Erschöpfung mit Parallelimport und Beweislast, Verwirkung und Verjährung.",
     kapitel=[
         dict(id="k06a", titel="§ 23: Namen, beschreibende Angaben, Bestimmungshinweis", einheiten=[

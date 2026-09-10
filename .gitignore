@@ -1,7 +1,11 @@
 __pycache__/
 *.pyc
 .DS_Store
+.env
 
 # Klausur-PDFs (urheberrechtlich geschützt, per klausuren/ns/urls.txt neu ladbar)
 klausuren/**/*.pdf
 klausuren/**/txt/
+
+# Rohbilder der Asset-Generierung (tools/gen_assets.py)
+tools/gen_raw/

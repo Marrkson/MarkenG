@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""Baut alle Artefakte neu: Gesetz parsen -> Graph -> Karteikarten -> Lernnavigator -> Fallkurs.
-Der Ordner docs/ ist danach die fertige Website (Fallkurs unter /, Navigator unter /navigator/)."""
+"""Baut alle Artefakte neu: Gesetz parsen -> Graph -> Karteikarten -> Lernnavigator -> IPelico (Fallkurs).
+Der Ordner docs/ ist danach die fertige Website (IPelico unter /, Navigator unter /navigator/)."""
 import runpy
 import sys
 from pathlib import Path

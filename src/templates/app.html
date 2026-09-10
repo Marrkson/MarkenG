@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Markenrecht Lernnavigator</title>
+<title>IPelico – Lernnavigator Markenrecht</title>
 <style>
 :root{
   --bg:#f7f6f2;--panel:#ffffff;--ink:#1e2124;--muted:#5f6670;--line:#e3e0d8;--accent:#8a2f1f;--accent-soft:#f6e6e1;
@@ -140,7 +140,7 @@ mark{background:var(--dist-soft);color:inherit;padding:0 2px}
 </head>
 <body>
 <header>
-  <h1>Markenrecht Lernnavigator <small>MarkenG · Prüfungsschemata · BGH-Rechtsprechung</small></h1>
+  <h1>IPelico Navigator <small>MarkenG · Prüfungsschemata · BGH-Rechtsprechung</small></h1>
   <input id="q" type="search" placeholder="Suchen: Begriff, §, Entscheidung … (Taste /)" autocomplete="off">
   <button id="themeBtn" title="Hell/Dunkel umschalten">Hell/Dunkel</button>
 </header>
@@ -285,8 +285,8 @@ function vStart(){
     ${tile('#/graph','Graph-Explorer','Nachbarschaft eines Knotens visuell erkunden.')}
     ${tile('#/sources','IPWiki','Verweise auf '+st.source+' IPWiki-Artikel.')}
   </div>
-  <h3>Fallkurs</h3>
-  <div class="card"><a href="../">Zum Fallkurs: Fälle mit Frage, sofortigem Feedback und Fortschritt (Jurafuchs-Format) →</a></div>
+  <h3>IPelico</h3>
+  <div class="card"><a href="../">Zu IPelico: Fälle mit Frage, sofortigem Feedback und Fortschritt →</a></div>
   <h3>Einstieg für die Klausur</h3>
   <div class="card">${chips([byId.get('schema:schema_markenverletzung'),byId.get('schema:schema_verwechslungsgefahr'),byId.get('schema:schema_eintragungsfaehigkeit'),byId.get('distinction:d_kennzeichnungskraft_unterscheidungskraft'),byId.get('concept:markenmaessige_benutzung')])}</div>
   <p class="meta">Gesetzesstand: ${esc(G.meta.gesetz_stand['Zuletzt geändert durch']||'')} · Quelle: gesetze-im-internet.de (Spiegel bundestag/gesetze). Tastatur: <span class="kbd">/</span> Suche.</p>`;
@@ -328,7 +328,7 @@ function vKlausur(sub){
       ['Hilfsmittel', txt(K.format.hilfsmittel)],
     ])}</div>
     <div class="card"><h4>Bearbeitervermerk ernst nehmen</h4><p class="def">${txt(K.format.bearbeitervermerk)}</p></div>
-    <div class="card"><a href="../#/kurs/k12">Zum Fallkurs „Klausurtraining NS“: 56 Kurzfälle zu genau diesen Rechtsfragen →</a></div>`;
+    <div class="card"><a href="../#/kurs/k12">Zum IPelico-Kurs „Klausurtraining NS“: 56 Kurzfälle zu genau diesen Rechtsfragen →</a></div>`;
   }
 
   else if(t==='format'){

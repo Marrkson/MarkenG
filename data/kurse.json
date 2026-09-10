@@ -3,7 +3,7 @@
   "id": "k01",
   "titel": "Grundlagen des Markenrechts",
   "untertitel": "Was eine Marke ist, wie sie entsteht und was sie leistet",
-  "farbe": "#E8730C",
+  "farbe": "#1482e3",
   "icon": "marke",
   "beschreibung": "Der Einstieg: Schutzgegenstände des MarkenG, Markenfunktionen, die drei Entstehungstatbestände des § 4 und das Prioritätsprinzip.",
   "kapitel": [
@@ -290,7 +290,7 @@
   "id": "k02",
   "titel": "Schutzfähigkeit und absolute Schutzhindernisse",
   "untertitel": "§§ 3, 7, 8 MarkenG: Was ins Register darf",
-  "farbe": "#2F6B4F",
+  "farbe": "#14a085",
   "icon": "register",
   "beschreibung": "Markenfähigkeit, Formausschluss, Unterscheidungskraft, Freihaltebedürfnis, Bösgläubigkeit und die Verkehrsdurchsetzung als Rettungsanker.",
   "kapitel": [
@@ -759,7 +759,7 @@
   "id": "k03",
   "titel": "Markenverletzung I: Aufbau und markenmäßige Benutzung",
   "untertitel": "§ 14 Abs. 2 MarkenG: Der Verletzungstatbestand",
-  "farbe": "#8A2F1F",
+  "farbe": "#e14b3b",
   "icon": "verletzung",
   "beschreibung": "Das zentrale Klausurschema: Aktivlegitimation, geschäftlicher Verkehr, markenmäßige Benutzung, Doppelidentität und die Sonderfälle Keyword-Advertising und Modellbezeichnung.",
   "kapitel": [
@@ -1155,7 +1155,7 @@
   "id": "k04",
   "titel": "Markenverletzung II: Verwechslungsgefahr",
   "untertitel": "§ 14 Abs. 2 Nr. 2 MarkenG: Der Kern jeder Markenklausur",
-  "farbe": "#2B5B8A",
+  "farbe": "#7048e8",
   "icon": "waage",
   "beschreibung": "Warenähnlichkeit, Kennzeichnungskraft, Zeichenähnlichkeit und ihre Wechselwirkung. Prägetheorie, selbständig kennzeichnende Stellung und die Arten der Verwechslungsgefahr.",
   "kapitel": [
@@ -1549,7 +1549,7 @@
   "id": "k05",
   "titel": "Markenverletzung III: Bekanntheitsschutz",
   "untertitel": "§ 14 Abs. 2 Nr. 3 und § 9 Abs. 1 Nr. 3 MarkenG",
-  "farbe": "#6A4C93",
+  "farbe": "#c9900a",
   "icon": "stern",
   "beschreibung": "Wann ist eine Marke bekannt, was ist die gedankliche Verknüpfung, welche vier Eingriffe gibt es und wann fehlt der rechtfertigende Grund. Plus: die bekannte Marke im Register.",
   "kapitel": [
@@ -1885,7 +1885,7 @@
   "id": "k06",
   "titel": "Schranken des Markenschutzes",
   "untertitel": "§§ 20 bis 24 MarkenG: Wann der Markeninhaber nichts verbieten kann",
-  "farbe": "#A56B00",
+  "farbe": "#2f9e44",
   "icon": "schranke",
   "beschreibung": "Beschreibende Benutzung, Ersatzteilhinweise, das Recht der Gleichnamigen, Erschöpfung mit Parallelimport und Beweislast, Verwirkung und Verjährung.",
   "kapitel": [
@@ -2316,7 +2316,7 @@
   "id": "k07",
   "titel": "Benutzungszwang, Widerspruch und Löschung",
   "untertitel": "§§ 25, 26, 42, 43, 49 bis 55 MarkenG",
-  "farbe": "#4B6B6B",
+  "farbe": "#b36b2e",
   "icon": "loeschung",
   "beschreibung": "Rechtserhaltende Benutzung, Benutzungsschonfrist und Einreden; Verfall und Nichtigkeit mit ihren Verfahren; das Widerspruchsverfahren.",
   "kapitel": [
@@ -2680,7 +2680,7 @@
   "id": "k08",
   "titel": "Geschäftliche Bezeichnungen und Domains",
   "untertitel": "§§ 5, 15 MarkenG: Unternehmenskennzeichen und Werktitel",
-  "farbe": "#2F6B4F",
+  "farbe": "#d6336c",
   "icon": "firma",
   "beschreibung": "Wie Unternehmenskennzeichen und Werktitel entstehen, wie ihre Verletzung geprüft wird und was für Domainnamen gilt.",
   "kapitel": [
@@ -2905,7 +2905,7 @@
   "id": "k09",
   "titel": "Rechtsfolgen und Durchsetzung",
   "untertitel": "§§ 14 Abs. 5 bis 7, 18, 19 MarkenG und Haftung Dritter",
-  "farbe": "#8A2F1F",
+  "farbe": "#f0801a",
   "icon": "hammer",
   "beschreibung": "Unterlassung, Schadensersatz mit dreifacher Schadensberechnung, Auskunft und Vernichtung; Täter, Teilnehmer und Störer.",
   "kapitel": [
@@ -3119,7 +3119,7 @@
   "id": "k10",
   "titel": "Unionsmarke und IR-Marke",
   "untertitel": "UMV, § 125b ff. und §§ 112 bis 125 MarkenG",
-  "farbe": "#2B5B8A",
+  "farbe": "#2b3fb4",
   "icon": "europa",
   "beschreibung": "Vorgehen aus einer Unionsmarke oder einer international registrierten Marke in Deutschland: Normketten, Bekanntheit in der Union, Benutzung, Gerichte und Fristen.",
   "kapitel": [
@@ -3405,7 +3405,7 @@
   "id": "k11",
   "titel": "Die Markenrechtsrichtlinie (EU) 2015/2436",
   "untertitel": "Der unionsrechtliche Bauplan des MarkenG",
-  "farbe": "#1F5F8B",
+  "farbe": "#0c8599",
   "icon": "europa",
   "beschreibung": "Aufbau und Inhalt der Richtlinie, ihre Umsetzung durch das MaMoG 2019, richtlinienkonforme Auslegung und die Neuerungen: Transit, Vorbereitungshandlungen, Namensschranke, Schonfrist, Amtsverfahren.",
   "kapitel": [
@@ -3962,7 +3962,7 @@
   "id": "k14",
   "titel": "Die Durchsetzungsrichtlinie 2004/48/EG",
   "untertitel": "Auskunft, Beweise, Eilrechtsschutz, Sanktionen und Kosten – für alle Schutzrechte",
-  "farbe": "#8A5A1F",
+  "farbe": "#8b3fb2",
   "icon": "hammer",
   "beschreibung": "Woher §§ 18 bis 19c MarkenG kommen: die Richtlinie 2004/48/EG im Wortlaut, ihre Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG, und die EuGH-Rechtsprechung zu Auskunft, Bankgeheimnis, Mittelspersonen, Schadensersatz und Patentanwaltskosten.",
   "kapitel": [
@@ -4800,7 +4800,7 @@
   "id": "k12",
   "titel": "Klausurtraining NS",
   "untertitel": "Patentanwaltsprüfung: Widerspruch, Beschwerde, Benutzung, Löschung",
-  "farbe": "#4A3C8C",
+  "farbe": "#5c5f66",
   "icon": "hammer",
   "beschreibung": "Die Rechtsfragen der NS-Klausuren 2018 bis 2025 als Kurzfälle: Fristen und Gebühren im Widerspruchs- und Beschwerdeverfahren, Wiedereinsetzung, Nichtbenutzungseinrede, Verwechslungsgefahr, Unternehmenskennzeichen, Bösgläubigkeit, Verfall und Schutzentziehung.",
   "kapitel": [
@@ -6350,7 +6350,7 @@
   "id": "k13",
   "titel": "Wirksamkeit und Zulässigkeit",
   "untertitel": "Verfahrensrecht nach Verfahrensart: Widerspruch, Beschwerde, Amtsverfahren, Klage",
-  "farbe": "#2F5D50",
+  "farbe": "#4a6d3a",
   "icon": "waage",
   "beschreibung": "Die Zulässigkeitsprüfung im Detail, getrennt nach Verfahrensart, mit den Anschlussnormen aus BGB, HGB, GmbHG, ZPO, GVG und InsO. Am Ende ein Kapitel nur zu Tenorvorschlägen.",
   "kapitel": [

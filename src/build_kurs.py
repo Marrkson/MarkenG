@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """Erzeugt IPelico, die fallbasierte Lernapp docs/index.html (Startseite), und data/kurse.json.
+Bettet zusätzlich die Rechtsgebiete (__GEBIETE__, kurse/gebiete.py) ein.
 
 Bettet ein: Kurse (__KURSE__), den reduzierten Graphen (__GRAPH__), das Verlinkungs-JavaScript
 (__LAWJS__), das SVG-Sprite aus src/templates/ipelico/ (__SPRITE__: Icons und Zeichen) sowie die
@@ -15,7 +16,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
 from knowledge.gesetze import js_source  # noqa: E402
-from knowledge.kurse import KURSE  # noqa: E402
+from knowledge.kurse import KURSE, GEBIETE  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
 ASSETS = ROOT / "src" / "templates" / "ipelico"
@@ -132,12 +133,13 @@ def build():
     sp = sprite()
     html = (TEMPLATE.read_text(encoding="utf-8")
             .replace("__KURSE__", embed(KURSE))
+            .replace("__GEBIETE__", embed(GEBIETE))
             .replace("__GRAPH__", embed(reduced_graph(graph)))
             .replace("__LAWJS__", js_source())
             .replace("__SPRITE__", sp)
             .replace("__FONTS__", fonts_css())
             .replace("__FAVICON__", favicon()))
-    for ph in ("__KURSE__", "__GRAPH__", "__LAWJS__", "__SPRITE__", "__FONTS__", "__FAVICON__"):
+    for ph in ("__KURSE__", "__GEBIETE__", "__GRAPH__", "__LAWJS__", "__SPRITE__", "__FONTS__", "__FAVICON__"):
         if ph in html:
             raise SystemExit(f"Platzhalter {ph} nicht ersetzt")
     OUT.parent.mkdir(parents=True, exist_ok=True)

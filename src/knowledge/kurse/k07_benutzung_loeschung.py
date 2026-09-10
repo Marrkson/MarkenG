@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k07", titel="Benutzungszwang, Widerspruch und Löschung", untertitel="§§ 25, 26, 42, 43, 49 bis 55 MarkenG",
+    id="k07", gebiet="markeng", titel="Benutzungszwang, Widerspruch und Löschung", untertitel="§§ 25, 26, 42, 43, 49 bis 55 MarkenG",
     farbe="#b36b2e", icon="loeschung",
     beschreibung="Rechtserhaltende Benutzung, Benutzungsschonfrist und Einreden; Verfall und Nichtigkeit mit ihren Verfahren; das Widerspruchsverfahren.",
     kapitel=[

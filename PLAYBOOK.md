@@ -122,6 +122,11 @@ Prüfblöcke, die während der Erstellung in Bash ausgeführt wurden; sie prüfe
 
 ## 5. Kurse im Fallformat
 
+Ebene über den Kursen: Rechtsgebiete in `kurse/gebiete.py` (MarkenG, EU-Recht, Verfahren; geplant PatG, EPÜ,
+UPC, DesignG, ArbnErfG, BGB, UWG). Jeder Kurs trägt `gebiet=<id>`, der Import bricht bei unbekannter ID ab. Die App
+gruppiert die Kursliste danach und zeigt geplante Gebiete als „In Vorbereitung“. Neues Gebiet: Eintrag in
+`gebiete.py`, dann Kurse mit dieser ID anlegen; `geplant=True` entfernen, sobald der erste Kurs steht.
+
 Didaktik: kleinste Einheit = ein Prüfungspunkt; kurzer Lebenssachverhalt mit Namen; eine Frage
 (Ja/Nein oder vier Optionen); sofortiges Feedback; Lösung im Gutachtenstil (Antwortsatz fett,
 Definition, Subsumtion, Ergebnis, ein bis drei Absätze); ein Merksatz; Stufe 1 bis 3.

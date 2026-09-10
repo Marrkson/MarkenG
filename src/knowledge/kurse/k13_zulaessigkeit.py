@@ -12,7 +12,7 @@ Fremdgesetze werden im Fließtext zitiert und von `gesetze.py` automatisch verli
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k13", titel="Wirksamkeit und Zulässigkeit", untertitel="Verfahrensrecht nach Verfahrensart: Widerspruch, Beschwerde, Amtsverfahren, Klage",
+    id="k13", gebiet="verfahren", titel="Wirksamkeit und Zulässigkeit", untertitel="Verfahrensrecht nach Verfahrensart: Widerspruch, Beschwerde, Amtsverfahren, Klage",
     farbe="#4a6d3a", icon="waage",
     beschreibung="Die Zulässigkeitsprüfung im Detail, getrennt nach Verfahrensart, mit den Anschlussnormen aus BGB, HGB, GmbHG, ZPO, GVG und InsO. Am Ende ein Kapitel nur zu Tenorvorschlägen.",
     kapitel=[

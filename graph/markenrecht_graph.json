@@ -14243,6 +14243,7 @@
    "label": "Grundlagen des Markenrechts",
    "untertitel": "Was eine Marke ist, wie sie entsteht und was sie leistet",
    "beschreibung": "Der Einstieg: Schutzgegenstände des MarkenG, Markenfunktionen, die drei Entstehungstatbestände des § 4 und das Prioritätsprinzip.",
+   "gebiet": "markeng",
    "order": 1
   },
   {
@@ -14362,6 +14363,7 @@
    "label": "Schutzfähigkeit und absolute Schutzhindernisse",
    "untertitel": "§§ 3, 7, 8 MarkenG: Was ins Register darf",
    "beschreibung": "Markenfähigkeit, Formausschluss, Unterscheidungskraft, Freihaltebedürfnis, Bösgläubigkeit und die Verkehrsdurchsetzung als Rettungsanker.",
+   "gebiet": "markeng",
    "order": 2
   },
   {
@@ -14541,6 +14543,7 @@
    "label": "Markenverletzung I: Aufbau und markenmäßige Benutzung",
    "untertitel": "§ 14 Abs. 2 MarkenG: Der Verletzungstatbestand",
    "beschreibung": "Das zentrale Klausurschema: Aktivlegitimation, geschäftlicher Verkehr, markenmäßige Benutzung, Doppelidentität und die Sonderfälle Keyword-Advertising und Modellbezeichnung.",
+   "gebiet": "markeng",
    "order": 3
   },
   {
@@ -14702,6 +14705,7 @@
    "label": "Markenverletzung II: Verwechslungsgefahr",
    "untertitel": "§ 14 Abs. 2 Nr. 2 MarkenG: Der Kern jeder Markenklausur",
    "beschreibung": "Warenähnlichkeit, Kennzeichnungskraft, Zeichenähnlichkeit und ihre Wechselwirkung. Prägetheorie, selbständig kennzeichnende Stellung und die Arten der Verwechslungsgefahr.",
+   "gebiet": "markeng",
    "order": 4
   },
   {
@@ -14854,6 +14858,7 @@
    "label": "Markenverletzung III: Bekanntheitsschutz",
    "untertitel": "§ 14 Abs. 2 Nr. 3 und § 9 Abs. 1 Nr. 3 MarkenG",
    "beschreibung": "Wann ist eine Marke bekannt, was ist die gedankliche Verknüpfung, welche vier Eingriffe gibt es und wann fehlt der rechtfertigende Grund. Plus: die bekannte Marke im Register.",
+   "gebiet": "markeng",
    "order": 5
   },
   {
@@ -14988,6 +14993,7 @@
    "label": "Schranken des Markenschutzes",
    "untertitel": "§§ 20 bis 24 MarkenG: Wann der Markeninhaber nichts verbieten kann",
    "beschreibung": "Beschreibende Benutzung, Ersatzteilhinweise, das Recht der Gleichnamigen, Erschöpfung mit Parallelimport und Beweislast, Verwirkung und Verjährung.",
+   "gebiet": "markeng",
    "order": 6
   },
   {
@@ -15158,6 +15164,7 @@
    "label": "Benutzungszwang, Widerspruch und Löschung",
    "untertitel": "§§ 25, 26, 42, 43, 49 bis 55 MarkenG",
    "beschreibung": "Rechtserhaltende Benutzung, Benutzungsschonfrist und Einreden; Verfall und Nichtigkeit mit ihren Verfahren; das Widerspruchsverfahren.",
+   "gebiet": "markeng",
    "order": 7
   },
   {
@@ -15310,6 +15317,7 @@
    "label": "Geschäftliche Bezeichnungen und Domains",
    "untertitel": "§§ 5, 15 MarkenG: Unternehmenskennzeichen und Werktitel",
    "beschreibung": "Wie Unternehmenskennzeichen und Werktitel entstehen, wie ihre Verletzung geprüft wird und was für Domainnamen gilt.",
+   "gebiet": "markeng",
    "order": 8
   },
   {
@@ -15402,6 +15410,7 @@
    "label": "Rechtsfolgen und Durchsetzung",
    "untertitel": "§§ 14 Abs. 5 bis 7, 18, 19 MarkenG und Haftung Dritter",
    "beschreibung": "Unterlassung, Schadensersatz mit dreifacher Schadensberechnung, Auskunft und Vernichtung; Täter, Teilnehmer und Störer.",
+   "gebiet": "markeng",
    "order": 9
   },
   {
@@ -15485,6 +15494,7 @@
    "label": "Unionsmarke und IR-Marke",
    "untertitel": "UMV, § 125b ff. und §§ 112 bis 125 MarkenG",
    "beschreibung": "Vorgehen aus einer Unionsmarke oder einer international registrierten Marke in Deutschland: Normketten, Bekanntheit in der Union, Benutzung, Gerichte und Fristen.",
+   "gebiet": "eu",
    "order": 10
   },
   {
@@ -15604,6 +15614,7 @@
    "label": "Die Markenrechtsrichtlinie (EU) 2015/2436",
    "untertitel": "Der unionsrechtliche Bauplan des MarkenG",
    "beschreibung": "Aufbau und Inhalt der Richtlinie, ihre Umsetzung durch das MaMoG 2019, richtlinienkonforme Auslegung und die Neuerungen: Transit, Vorbereitungshandlungen, Namensschranke, Schonfrist, Amtsverfahren.",
+   "gebiet": "eu",
    "order": 11
   },
   {
@@ -15810,6 +15821,7 @@
    "label": "Die Durchsetzungsrichtlinie 2004/48/EG",
    "untertitel": "Auskunft, Beweise, Eilrechtsschutz, Sanktionen und Kosten – für alle Schutzrechte",
    "beschreibung": "Woher §§ 18 bis 19c MarkenG kommen: die Richtlinie 2004/48/EG im Wortlaut, ihre Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG, und die EuGH-Rechtsprechung zu Auskunft, Bankgeheimnis, Mittelspersonen, Schadensersatz und Patentanwaltskosten.",
+   "gebiet": "eu",
    "order": 12
   },
   {
@@ -16106,6 +16118,7 @@
    "label": "Klausurtraining NS",
    "untertitel": "Patentanwaltsprüfung: Widerspruch, Beschwerde, Benutzung, Löschung",
    "beschreibung": "Die Rechtsfragen der NS-Klausuren 2018 bis 2025 als Kurzfälle: Fristen und Gebühren im Widerspruchs- und Beschwerdeverfahren, Wiedereinsetzung, Nichtbenutzungseinrede, Verwechslungsgefahr, Unternehmenskennzeichen, Bösgläubigkeit, Verfall und Schutzentziehung.",
+   "gebiet": "verfahren",
    "order": 13
   },
   {
@@ -16654,6 +16667,7 @@
    "label": "Wirksamkeit und Zulässigkeit",
    "untertitel": "Verfahrensrecht nach Verfahrensart: Widerspruch, Beschwerde, Amtsverfahren, Klage",
    "beschreibung": "Die Zulässigkeitsprüfung im Detail, getrennt nach Verfahrensart, mit den Anschlussnormen aus BGB, HGB, GmbHG, ZPO, GVG und InsO. Am Ende ein Kapitel nur zu Tenorvorschlägen.",
+   "gebiet": "verfahren",
    "order": 14
   },
   {

@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k05", titel="Markenverletzung III: Bekanntheitsschutz", untertitel="§ 14 Abs. 2 Nr. 3 und § 9 Abs. 1 Nr. 3 MarkenG",
+    id="k05", gebiet="markeng", titel="Markenverletzung III: Bekanntheitsschutz", untertitel="§ 14 Abs. 2 Nr. 3 und § 9 Abs. 1 Nr. 3 MarkenG",
     farbe="#c9900a", icon="stern",
     beschreibung="Wann ist eine Marke bekannt, was ist die gedankliche Verknüpfung, welche vier Eingriffe gibt es und wann fehlt der rechtfertigende Grund. Plus: die bekannte Marke im Register.",
     kapitel=[

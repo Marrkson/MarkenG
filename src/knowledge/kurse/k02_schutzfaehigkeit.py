@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k02", titel="Schutzfähigkeit und absolute Schutzhindernisse", untertitel="§§ 3, 7, 8 MarkenG: Was ins Register darf",
+    id="k02", gebiet="markeng", titel="Schutzfähigkeit und absolute Schutzhindernisse", untertitel="§§ 3, 7, 8 MarkenG: Was ins Register darf",
     farbe="#14a085", icon="register",
     beschreibung="Markenfähigkeit, Formausschluss, Unterscheidungskraft, Freihaltebedürfnis, Bösgläubigkeit und die Verkehrsdurchsetzung als Rettungsanker.",
     kapitel=[

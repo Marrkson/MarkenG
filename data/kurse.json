@@ -1,6 +1,7 @@
 [
  {
   "id": "k01",
+  "gebiet": "markeng",
   "titel": "Grundlagen des Markenrechts",
   "untertitel": "Was eine Marke ist, wie sie entsteht und was sie leistet",
   "farbe": "#1482e3",
@@ -288,6 +289,7 @@
  },
  {
   "id": "k02",
+  "gebiet": "markeng",
   "titel": "Schutzfähigkeit und absolute Schutzhindernisse",
   "untertitel": "§§ 3, 7, 8 MarkenG: Was ins Register darf",
   "farbe": "#14a085",
@@ -757,6 +759,7 @@
  },
  {
   "id": "k03",
+  "gebiet": "markeng",
   "titel": "Markenverletzung I: Aufbau und markenmäßige Benutzung",
   "untertitel": "§ 14 Abs. 2 MarkenG: Der Verletzungstatbestand",
   "farbe": "#e14b3b",
@@ -1153,6 +1156,7 @@
  },
  {
   "id": "k04",
+  "gebiet": "markeng",
   "titel": "Markenverletzung II: Verwechslungsgefahr",
   "untertitel": "§ 14 Abs. 2 Nr. 2 MarkenG: Der Kern jeder Markenklausur",
   "farbe": "#7048e8",
@@ -1547,6 +1551,7 @@
  },
  {
   "id": "k05",
+  "gebiet": "markeng",
   "titel": "Markenverletzung III: Bekanntheitsschutz",
   "untertitel": "§ 14 Abs. 2 Nr. 3 und § 9 Abs. 1 Nr. 3 MarkenG",
   "farbe": "#c9900a",
@@ -1883,6 +1888,7 @@
  },
  {
   "id": "k06",
+  "gebiet": "markeng",
   "titel": "Schranken des Markenschutzes",
   "untertitel": "§§ 20 bis 24 MarkenG: Wann der Markeninhaber nichts verbieten kann",
   "farbe": "#2f9e44",
@@ -2314,6 +2320,7 @@
  },
  {
   "id": "k07",
+  "gebiet": "markeng",
   "titel": "Benutzungszwang, Widerspruch und Löschung",
   "untertitel": "§§ 25, 26, 42, 43, 49 bis 55 MarkenG",
   "farbe": "#b36b2e",
@@ -2678,6 +2685,7 @@
  },
  {
   "id": "k08",
+  "gebiet": "markeng",
   "titel": "Geschäftliche Bezeichnungen und Domains",
   "untertitel": "§§ 5, 15 MarkenG: Unternehmenskennzeichen und Werktitel",
   "farbe": "#d6336c",
@@ -2903,6 +2911,7 @@
  },
  {
   "id": "k09",
+  "gebiet": "markeng",
   "titel": "Rechtsfolgen und Durchsetzung",
   "untertitel": "§§ 14 Abs. 5 bis 7, 18, 19 MarkenG und Haftung Dritter",
   "farbe": "#f0801a",
@@ -3117,6 +3126,7 @@
  },
  {
   "id": "k10",
+  "gebiet": "eu",
   "titel": "Unionsmarke und IR-Marke",
   "untertitel": "UMV, § 125b ff. und §§ 112 bis 125 MarkenG",
   "farbe": "#2b3fb4",
@@ -3403,6 +3413,7 @@
  },
  {
   "id": "k11",
+  "gebiet": "eu",
   "titel": "Die Markenrechtsrichtlinie (EU) 2015/2436",
   "untertitel": "Der unionsrechtliche Bauplan des MarkenG",
   "farbe": "#0c8599",
@@ -3960,6 +3971,7 @@
  },
  {
   "id": "k14",
+  "gebiet": "eu",
   "titel": "Die Durchsetzungsrichtlinie 2004/48/EG",
   "untertitel": "Auskunft, Beweise, Eilrechtsschutz, Sanktionen und Kosten – für alle Schutzrechte",
   "farbe": "#8b3fb2",
@@ -4798,6 +4810,7 @@
  },
  {
   "id": "k12",
+  "gebiet": "verfahren",
   "titel": "Klausurtraining NS",
   "untertitel": "Patentanwaltsprüfung: Widerspruch, Beschwerde, Benutzung, Löschung",
   "farbe": "#5c5f66",
@@ -6348,6 +6361,7 @@
  },
  {
   "id": "k13",
+  "gebiet": "verfahren",
   "titel": "Wirksamkeit und Zulässigkeit",
   "untertitel": "Verfahrensrecht nach Verfahrensart: Widerspruch, Beschwerde, Amtsverfahren, Klage",
   "farbe": "#4a6d3a",

@@ -9,7 +9,7 @@ folgen der Klausur.
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k12", titel="Klausurtraining NS", untertitel="Patentanwaltsprüfung: Widerspruch, Beschwerde, Benutzung, Löschung",
+    id="k12", gebiet="verfahren", titel="Klausurtraining NS", untertitel="Patentanwaltsprüfung: Widerspruch, Beschwerde, Benutzung, Löschung",
     farbe="#5c5f66", icon="hammer",
     beschreibung="Die Rechtsfragen der NS-Klausuren 2018 bis 2025 als Kurzfälle: Fristen und Gebühren im Widerspruchs- und Beschwerdeverfahren, Wiedereinsetzung, Nichtbenutzungseinrede, Verwechslungsgefahr, Unternehmenskennzeichen, Bösgläubigkeit, Verfall und Schutzentziehung.",
     kapitel=[

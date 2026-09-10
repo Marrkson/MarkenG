@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k11", titel="Die Markenrechtsrichtlinie (EU) 2015/2436", untertitel="Der unionsrechtliche Bauplan des MarkenG",
+    id="k11", gebiet="eu", titel="Die Markenrechtsrichtlinie (EU) 2015/2436", untertitel="Der unionsrechtliche Bauplan des MarkenG",
     farbe="#0c8599", icon="europa",
     beschreibung="Aufbau und Inhalt der Richtlinie, ihre Umsetzung durch das MaMoG 2019, richtlinienkonforme Auslegung und die Neuerungen: Transit, Vorbereitungshandlungen, Namensschranke, Schonfrist, Amtsverfahren.",
     kapitel=[

@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k04", titel="Markenverletzung II: Verwechslungsgefahr", untertitel="§ 14 Abs. 2 Nr. 2 MarkenG: Der Kern jeder Markenklausur",
+    id="k04", gebiet="markeng", titel="Markenverletzung II: Verwechslungsgefahr", untertitel="§ 14 Abs. 2 Nr. 2 MarkenG: Der Kern jeder Markenklausur",
     farbe="#7048e8", icon="waage",
     beschreibung="Warenähnlichkeit, Kennzeichnungskraft, Zeichenähnlichkeit und ihre Wechselwirkung. Prägetheorie, selbständig kennzeichnende Stellung und die Arten der Verwechslungsgefahr.",
     kapitel=[

@@ -379,6 +379,7 @@ __SPRITE__
 <div class="tabwrap"><nav class="tabbar glass pill" id="bnav"></nav><a class="fab glass" id="fab" href="#/suche" aria-label="Suchen und Nachschlagen"></a></div>
 <div id="notice" class="notice glass" hidden></div>
 <script id="kurse-data" type="application/json">__KURSE__</script>
+<script id="gebiete-data" type="application/json">__GEBIETE__</script>
 <script id="graph-data" type="application/json">__GRAPH__</script>
 <script>
 (function(){
@@ -390,6 +391,9 @@ function applyTheme(){ const p=themePref(); document.documentElement.dataset.the
 applyTheme(); MQ.addEventListener('change', ()=>{ if(!themePref()) applyTheme(); });
 
 const KURSE = JSON.parse(document.getElementById('kurse-data').textContent);
+const GEBIETE = JSON.parse(document.getElementById('gebiete-data').textContent); const GEB = new Map(GEBIETE.map(g=>[g.id,g]));
+const gebOf = k => GEB.get(k.gebiet)||{kurz:'',titel:''};
+const kurseIn = g => KURSE.filter(k=>k.gebiet===g.id);
 const G = JSON.parse(document.getElementById('graph-data').textContent);
 const byId = new Map(G.nodes.map(n=>[n.id,n]));
 const out = new Map(); for(const e of G.edges){ (out.get(e.source)||out.set(e.source,[]).get(e.source)).push(e); }
@@ -519,7 +523,7 @@ window.addEventListener('hashchange',route);
 function nextUnit(){ if(P.last&&UNIT.has(P.last)){ const i=UNITS.findIndex(e=>e.id===P.last); for(let j=i+1;j<UNITS.length;j++) if(!P.u[UNITS[j].id]) return UNITS[j]; } return UNITS.find(e=>!P.u[e.id])||UNITS[0]; }
 function kmeta(k){ const u=unitsOf(k); const p=progOf(u.filter(QUIZ)); return {u,p,all:u.length,nF:u.filter(e=>e.typ==='fall').length,nQ:u.filter(e=>e.typ==='mc').length}; }
 function kcard(k){ const {p,all}=kmeta(k);
-  return `<a class="kcard cthumb" href="#/kurs/${k.id}" style="--c:${esc(k.farbe)}">${ic(kIcon(k),'wm')}<span class="tag ${p.pct===100?'done':''}">${p.pct===100?ic('richtig','s')+'Abgeschlossen':p.done?ic('weiter','s')+'In Arbeit':'Kurs '+nn(k.nr)}</span><div><div class="t">${esc(k.titel)}</div><div class="s">${all} Einheiten · ${p.ok} gelöst</div><div class="bar"><i style="width:${p.pct}%"></i></div></div></a>`; }
+  return `<a class="kcard cthumb" href="#/kurs/${k.id}" style="--c:${esc(k.farbe)}">${ic(kIcon(k),'wm')}<span class="tag ${p.pct===100?'done':''}">${p.pct===100?ic('richtig','s')+'Abgeschlossen':p.done?ic('weiter','s')+'In Arbeit':esc(gebOf(k).kurz)+' · '+nn(k.nr)}</span><div><div class="t">${esc(k.titel)}</div><div class="s">${all} Einheiten · ${p.ok} gelöst</div><div class="bar"><i style="width:${p.pct}%"></i></div></div></a>`; }
 function lcard(k){ const {p,all} = kmeta(k);
   return `<a class="lcard glass" href="#/kurs/${k.id}" style="--c:${esc(k.farbe)}"><div class="cthumb">${ic(kIcon(k))}</div><div class="b"><span class="tag ${p.pct===100?'ok':p.done?'brand':''}">${p.pct===100?'Abgeschlossen':p.done?'In Arbeit':'Kurs '+nn(k.nr)}</span><div class="t">${esc(k.titel)}</div><div class="m">${ic('fall','s')}${all} Einheiten · ${p.ok} gelöst</div><div class="bar ${p.pct===100?'ok':''}"><i style="width:${p.pct}%"></i></div></div></a>`; }
 const viewPref = () => { try{ return localStorage.getItem('mgk_view')||'list'; }catch(e){ return 'list'; } };
@@ -555,18 +559,23 @@ function vHome(){
     <button class="qa" id="qtheme">${ic(dark?'hell':'dunkel')}${dark?'Hell':'Dunkel'}</button>
   </nav>
   <div class="sh"><h2>Kurse</h2><a href="#/kurse">Alle ${KURSE.length} anzeigen</a></div>
-  <div class="hscroll" aria-label="Kurse">${KURSE.map(kcard).join('')}</div>
+  <div class="hscroll" aria-label="Kurse">${GEBIETE.flatMap(kurseIn).map(kcard).join('')}</div>
   ${last}
   <div class="stats"><div class="stat glass"><b class="mono">${all.ok}</b><span>${ic('richtig','s')}gelöst</span></div><div class="stat glass"><b class="mono">${dueN}</b><span>${ic('faellig','s')}fällig</span></div><div class="stat glass"><b class="mono">${P.s.cnt}</b><span>${ic('streak','s')}Tage Streak</span></div></div>
   <p class="meta">Fortschritt wird ${Store.mode()==='cookie'?'in einem Cookie':'im Browserspeicher'} auf diesem Gerät gespeichert.</p>`;
   document.getElementById('qtheme').onclick=()=>{ const t=document.documentElement.dataset.theme==='dark'?'light':'dark'; try{ localStorage.setItem('mgk_theme',t); }catch(e){} applyTheme(); vHome(); };
   // Karussell beim zuletzt genutzten Kurs beginnen
-  const sc=main.querySelector('.hscroll'); const idx=KURSE.indexOf(nk); const el=sc.children[idx]; if(el&&idx>0) sc.scrollLeft = el.offsetLeft - 16;
+  const sc=main.querySelector('.hscroll'); const idx=GEBIETE.flatMap(kurseIn).indexOf(nk); const el=sc.children[idx]; if(el&&idx>0) sc.scrollLeft = el.offsetLeft - 16;
 }
 function vKurse(){
   chrome('Kurse','#/',`<div class="seg ic-seg" id="view" role="group" aria-label="Ansicht"><button data-v="grid" aria-label="Raster" title="Raster">${ic('tabelle','m')}</button><button data-v="list" aria-label="Liste" title="Liste">${ic('menu','m')}</button></div>`);
   const render = () => { const v=viewPref(); document.querySelectorAll('#view button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));
-    main.innerHTML=`<p class="lead" style="margin-top:4px">${KURSE.length} Kurse, ${UNITS.length} Einheiten. Die Kurse bauen aufeinander auf.</p><div class="${v==='grid'?'lgrid':'lstack'}">${KURSE.map(lcard).join('')}</div>`; };
+    const groups = GEBIETE.filter(g=>!g.geplant&&kurseIn(g).length); const planned = GEBIETE.filter(g=>g.geplant||!kurseIn(g).length);
+    main.innerHTML=`<p class="lead" style="margin-top:4px">${KURSE.length} Kurse in ${groups.length} Rechtsgebieten, ${UNITS.length} Einheiten. Die Kurse bauen innerhalb eines Gebiets aufeinander auf.</p>
+      <nav class="quick" style="grid-template-rows:auto" aria-label="Rechtsgebiete">${groups.map(g=>`<a class="qa" href="#geb-${g.id}" data-geb>${esc(g.kurz)}<span class="n">${kurseIn(g).length}</span></a>`).join('')}</nav>
+      ${groups.map(g=>{ const ks=kurseIn(g); const p=progOf(ks.flatMap(unitsOf).filter(QUIZ)); return `<section class="sec" id="geb-${g.id}"><div class="sh"><h2>${esc(g.titel)}</h2><span class="meta mono">${p.ok}/${p.total}</span></div><p class="meta" style="margin:-6px 0 10px">${esc(g.beschreibung||'')}</p><div class="${v==='grid'?'lgrid':'lstack'}">${ks.map(lcard).join('')}</div></section>`; }).join('')}
+      ${planned.length?`<div class="sh"><h2>In Vorbereitung</h2></div><div class="tags" style="margin-top:0">${planned.map(g=>`<span class="tag" title="${esc(g.titel)}">${esc(g.kurz)}</span>`).join('')}</div><p class="meta">Weitere Rechtsgebiete folgen im gleichen Format: ${planned.map(g=>esc(g.titel)).join(', ')}.</p>`:''}`;
+    main.querySelectorAll('[data-geb]').forEach(a=>a.onclick=ev=>{ ev.preventDefault(); const t=document.querySelector(a.getAttribute('href')); if(t) t.scrollIntoView({behavior:'smooth',block:'start'}); }); };
   render();
   document.getElementById('view').onclick=ev=>{ const b=ev.target.closest('button'); if(!b) return; try{ localStorage.setItem('mgk_view',b.dataset.v); }catch(e){} render(); };
 }
@@ -574,7 +583,7 @@ function vKurs(id){
   const k=KURS.get(id); if(!k) return vHome(); chrome(`Kurs ${k.nr}`,'#/kurse',streakPill());
   const {u,p,nF,nQ}=kmeta(k); const dueK=u.filter(due).length;
   main.innerHTML=`<article class="glass card detail" style="--c:${esc(k.farbe)};margin-top:0"><div class="cthumb big">${ic(kIcon(k))}<span class="no mono">Kurs ${nn(k.nr)}</span></div><div class="inner">
-    <span class="tag ${p.pct===100?'ok':'brand'}">${p.pct===100?ic('richtig','s')+'Abgeschlossen':ic('fall','s')+(p.done?'In Arbeit':'Neu')}</span><h1>${esc(k.titel)}</h1><p class="lead" style="margin-bottom:10px">${txt(k.beschreibung)}</p>
+    <div class="tags" style="margin:0"><span class="tag brand">${esc(gebOf(k).titel)}</span><span class="tag ${p.pct===100?'ok':''}">${p.pct===100?ic('richtig','s')+'Abgeschlossen':ic('fall','s')+(p.done?'In Arbeit':'Neu')}</span></div><h1>${esc(k.titel)}</h1><p class="lead" style="margin-bottom:10px">${txt(k.beschreibung)}</p>
     <div class="mrow">${ic('schema','m')}<span>${k.kapitel.length} Kapitel · ${nF} Fälle${nQ?` · ${nQ} Wissensfragen`:''}</span></div>
     <div class="mrow">${ic('richtig','m')}<span class="mono">${p.ok} von ${p.total} gelöst</span>${dueK?`<span>·</span><span>${dueK} fällig</span>`:''}</div><div class="bar ${p.pct===100?'ok':''}" style="margin-top:8px"><i style="width:${p.pct}%"></i></div>
     <div class="actrow"><a class="btn primary" href="#/lernen/${(u.find(e=>!P.u[e.id])||u[0]).id}">${ic('weiter','m')}${p.done?'Fortsetzen':'Starten'}</a><a class="iconbtn lg" href="#/wdh" aria-label="Wiederholen" title="Wiederholen">${ic('tab-wdh')}</a><a class="iconbtn lg" href="navigator/" aria-label="Lernnavigator" title="Lernnavigator">${ic('suche')}</a></div></div></article>

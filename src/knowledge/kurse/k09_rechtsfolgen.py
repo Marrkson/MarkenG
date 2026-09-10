@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k09", titel="Rechtsfolgen und Durchsetzung", untertitel="§§ 14 Abs. 5 bis 7, 18, 19 MarkenG und Haftung Dritter",
+    id="k09", gebiet="markeng", titel="Rechtsfolgen und Durchsetzung", untertitel="§§ 14 Abs. 5 bis 7, 18, 19 MarkenG und Haftung Dritter",
     farbe="#f0801a", icon="hammer",
     beschreibung="Unterlassung, Schadensersatz mit dreifacher Schadensberechnung, Auskunft und Vernichtung; Täter, Teilnehmer und Störer.",
     kapitel=[

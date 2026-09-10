@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k10", titel="Unionsmarke und IR-Marke", untertitel="UMV, § 125b ff. und §§ 112 bis 125 MarkenG",
+    id="k10", gebiet="eu", titel="Unionsmarke und IR-Marke", untertitel="UMV, § 125b ff. und §§ 112 bis 125 MarkenG",
     farbe="#2b3fb4", icon="europa",
     beschreibung="Vorgehen aus einer Unionsmarke oder einer international registrierten Marke in Deutschland: Normketten, Bekanntheit in der Union, Benutzung, Gerichte und Fristen.",
     kapitel=[

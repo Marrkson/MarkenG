@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k01", titel="Grundlagen des Markenrechts", untertitel="Was eine Marke ist, wie sie entsteht und was sie leistet",
+    id="k01", gebiet="markeng", titel="Grundlagen des Markenrechts", untertitel="Was eine Marke ist, wie sie entsteht und was sie leistet",
     farbe="#1482e3", icon="marke",
     beschreibung="Der Einstieg: Schutzgegenstände des MarkenG, Markenfunktionen, die drei Entstehungstatbestände des § 4 und das Prioritätsprinzip.",
     kapitel=[

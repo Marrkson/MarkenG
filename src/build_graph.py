@@ -198,7 +198,7 @@ def build():
     # --- Kurse (fallbasierte Lerneinheiten) ---
     for i, k in enumerate(KURSE, 1):
         kid = f"course:{k['id']}"
-        add_node(dict(id=kid, type="course", label=k["titel"], untertitel=k["untertitel"], beschreibung=k["beschreibung"], order=i))
+        add_node(dict(id=kid, type="course", label=k["titel"], untertitel=k["untertitel"], beschreibung=k["beschreibung"], gebiet=k.get("gebiet"), order=i))
         for j, kap in enumerate(k["kapitel"], 1):
             cid = f"chapter:{kap['id']}"
             add_node(dict(id=cid, type="chapter", label=kap["titel"], order=j))

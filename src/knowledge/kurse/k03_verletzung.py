@@ -2,7 +2,7 @@
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="k03", titel="Markenverletzung I: Aufbau und markenmäßige Benutzung", untertitel="§ 14 Abs. 2 MarkenG: Der Verletzungstatbestand",
+    id="k03", gebiet="markeng", titel="Markenverletzung I: Aufbau und markenmäßige Benutzung", untertitel="§ 14 Abs. 2 MarkenG: Der Verletzungstatbestand",
     farbe="#e14b3b", icon="verletzung",
     beschreibung="Das zentrale Klausurschema: Aktivlegitimation, geschäftlicher Verkehr, markenmäßige Benutzung, Doppelidentität und die Sonderfälle Keyword-Advertising und Modellbezeichnung.",
     kapitel=[

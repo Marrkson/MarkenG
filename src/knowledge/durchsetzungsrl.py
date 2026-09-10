@@ -21,6 +21,8 @@ Felder je Artikel:
 CELEX = "32004L0048"
 URL = "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)"
 URL_PDF = "https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2004:195:0016:0025:de:PDF"
+from .gesetze import qualify  # Zitate ohne Gesetzesangabe erhalten das Gesetz der Spalte ("§ 140b" -> "§ 140b PatG")
+
 KURZ = "DurchsetzungsRL"
 TITEL = "Richtlinie 2004/48/EG (Durchsetzungsrichtlinie)"
 GESETZ = "Richtlinie 2004/48/EG"
@@ -45,7 +47,7 @@ GESETZE = ["MarkenG", "PatG", "GebrMG", "DesignG", "UrhG", "HalblSchG", "SortSch
 def art(nr, titel, kapitel, abschnitt, absaetze, umsetzung=(), weitere=None, concepts=(), cases=(), hinweis=""):
     return dict(nr=str(nr), titel=titel, kapitel=kapitel, abschnitt=abschnitt,
                 absaetze=[dict(nr=(str(a) if a is not None else None), text=t) for a, t in absaetze],
-                umsetzung=list(umsetzung), umsetzung_weitere=dict(weitere or {}),
+                umsetzung=list(umsetzung), umsetzung_weitere={law: qualify(t, law) for law, t in (weitere or {}).items()},
                 concepts=list(concepts), cases=list(cases), hinweis=hinweis)
 
 
@@ -111,7 +113,7 @@ ARTIKEL = [
         ("5", "Die Mitgliedstaaten können Maßnahmen zum Schutz der Identität von Zeugen ergreifen.")],
         umsetzung=["§ 19a Abs. 3", "§ 19a Abs. 5"],
         weitere={"PatG": "§ 140c Abs. 3, Abs. 5", "GebrMG": "§ 24c Abs. 3, Abs. 5", "DesignG": "§ 46a Abs. 3, Abs. 5", "UrhG": "§ 101a Abs. 3, Abs. 5", "HalblSchG": "§ 9 Abs. 2 i.V.m. § 24c GebrMG", "SortSchG": "§ 37c Abs. 3, Abs. 5",
-                 "Allgemeines Recht": "§§ 485 ff. ZPO (selbständiges Beweisverfahren); §§ 935 ff., 937 Abs. 2, 921, 926, 945 ZPO"},
+                 "Allgemeines Recht": "§§ 485 ff. ZPO (selbständiges Beweisverfahren); §§ 935 ff. ZPO, § 937 Abs. 2 ZPO, § 921 ZPO, § 926 ZPO, § 945 ZPO"},
         concepts=["vorlage_besichtigung", "einstweilige_verfuegung"], cases=["bgh_faxkarte"],
         hinweis="Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besichtigung (§ 19a Abs. 3), auch ohne Anhörung, mit Geheimnisschutz („Düsseldorfer Verfahren“: Besichtigung durch einen zur Verschwiegenheit verpflichteten Sachverständigen). Abs. 4 entspricht § 19a Abs. 5 (verschuldensunabhängiger Schadensersatz, wenn keine Verletzung vorlag) und allgemein § 945 ZPO."),
 
@@ -140,7 +142,7 @@ ARTIKEL = [
         weitere={"PatG": "§ 140d (Sicherung); keine Dringlichkeitsvermutung", "GebrMG": "§ 24d", "DesignG": "§ 46b", "UrhG": "§ 101b", "HalblSchG": "§ 9 Abs. 2 i.V.m. § 24d GebrMG", "SortSchG": "§ 37d",
                  "Allgemeines Recht": "§§ 935 ff. ZPO (Abs. 1 lit. a), § 938 Abs. 2 ZPO Sequestration (lit. b), §§ 916 ff. ZPO dinglicher Arrest (Abs. 2), § 920 Abs. 2 ZPO Glaubhaftmachung (Abs. 3), § 937 Abs. 2 ZPO (Abs. 4), § 926 ZPO (Abs. 5), § 921 ZPO (Abs. 6), § 945 ZPO (Abs. 7)"},
         concepts=["einstweilige_verfuegung", "sicherung_schadensersatz", "mittelsperson_anordnung"], cases=["eugh_bayer_richter", "eugh_tommy_hilfiger"],
-        hinweis="Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG ergänzt nur die Dringlichkeitsvermutung des § 140 Abs. 3 (Unterlassung), die Eilauskunft (§ 19 Abs. 7) und die Vorlageverfügung (§ 19a Abs. 3). Abs. 2 (Kontosperre, Unterlagen) = § 19b MarkenG plus Arrest. Abs. 7 = § 945 ZPO, der verschuldensunabhängig haftet und damit über die Richtlinie hinausgeht (EuGH Bayer/Richter: „angemessener Ersatz“ erlaubt die Berücksichtigung eigenen Risikos des Antragsgegners)."),
+        hinweis="Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG ergänzt nur die Dringlichkeitsvermutung des § 140 Abs. 3 (Unterlassung; erst seit dem MaMoG 2019, nicht richtliniengetrieben), die Eilauskunft (§ 19 Abs. 7) und die Vorlageverfügung (§ 19a Abs. 3). Abs. 2 (Kontosperre, Unterlagen) = § 19b MarkenG plus Arrest. Abs. 7 = § 945 ZPO, der verschuldensunabhängig haftet und damit über die Richtlinie hinausgeht (EuGH Bayer/Richter: „angemessener Ersatz“ erlaubt die Berücksichtigung eigenen Risikos des Antragsgegners)."),
 
     # ---------------- Kapitel II, Abschnitt 5 ----------------
     art(10, "Abhilfemaßnahmen", K2, A5, [
@@ -264,15 +266,15 @@ UMSETZUNG = [
     ("Art. 6 – Beweise: Vorlage von Beweismitteln, Bank-, Finanz- und Handelsunterlagen",
      ["§ 19a Abs. 1", "§ 140c Abs. 1", "§ 24c Abs. 1", "§ 46a Abs. 1", "§ 101a Abs. 1", "§ 9 Abs. 2 (§ 24c GebrMG)", "§ 37c Abs. 1", "§§ 142, 144 ZPO; § 809 BGB"]),
     ("Art. 7 – Beweissicherung: einstweilige Maßnahmen, ohne Anhörung, Schadensersatz bei Aufhebung",
-     ["§ 19a Abs. 3, Abs. 5", "§ 140c Abs. 3, Abs. 5", "§ 24c Abs. 3, Abs. 5", "§ 46a Abs. 3, Abs. 5", "§ 101a Abs. 3, Abs. 5", "§ 9 Abs. 2 (§ 24c GebrMG)", "§ 37c Abs. 3, Abs. 5", "§§ 485 ff. ZPO; §§ 935 ff., 937 Abs. 2, 945 ZPO"]),
+     ["§ 19a Abs. 3, Abs. 5", "§ 140c Abs. 3, Abs. 5", "§ 24c Abs. 3, Abs. 5", "§ 46a Abs. 3, Abs. 5", "§ 101a Abs. 3, Abs. 5", "§ 9 Abs. 2 (§ 24c GebrMG)", "§ 37c Abs. 3, Abs. 5", "§§ 485 ff. ZPO; §§ 935 ff. ZPO, § 937 Abs. 2 ZPO, § 945 ZPO"]),
     ("Art. 8 – Recht auf Auskunft: Verletzer und Dritte; Namen, Adressen, Mengen, Preise",
      ["§ 19 (Abs. 2 Nr. 1 bis 4 = Art. 8 Abs. 1 lit. a bis d; Abs. 3 = Art. 8 Abs. 2; Abs. 9 Verkehrsdaten)", "§ 140b", "§ 24b", "§ 46", "§ 101 (Abs. 1: nur bei gewerblichem Ausmaß)", "§ 9 Abs. 2 (§ 24b GebrMG)", "§ 37b", "§ 242 BGB; §§ 383 bis 385 ZPO (= Art. 8 Abs. 3 lit. d)"]),
     ("Art. 9 Abs. 1 – Einstweilige Maßnahmen: Unterlassung, auch gegen Mittelspersonen; Beschlagnahme",
-     ["§ 140 Abs. 3 (Dringlichkeitsvermutung); § 19 Abs. 7, § 19a Abs. 3", "§§ 935 ff. ZPO (keine Dringlichkeitsvermutung)", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935, 938, 940 ZPO; Sequestration § 938 Abs. 2 ZPO; Störerhaftung"]),
+     ["§ 140 Abs. 3 (Dringlichkeitsvermutung, seit MaMoG 2019); § 19 Abs. 7, § 19a Abs. 3", "§§ 935 ff. ZPO (keine Dringlichkeitsvermutung)", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935, 938, 940 ZPO; Sequestration § 938 Abs. 2 ZPO; Störerhaftung"]),
     ("Art. 9 Abs. 2 – Sicherung von Schadensersatz: Vermögensbeschlagnahme, Kontosperre, Unterlagen",
      ["§ 19b", "§ 140d", "§ 24d", "§ 46b", "§ 101b", "§ 9 Abs. 2 (§ 24d GebrMG)", "§ 37d", "dinglicher Arrest §§ 916 ff. ZPO"]),
     ("Art. 9 Abs. 3 bis 7 – Eilverfahren: Glaubhaftmachung, ohne Anhörung, Hauptsachefrist, Sicherheit, Schadensersatz",
-     ["–", "–", "–", "–", "–", "–", "–", "§ 920 Abs. 2, § 936 ZPO; § 937 Abs. 2 ZPO; § 926 ZPO; § 921 ZPO; § 945 ZPO (verschuldensunabhängig; EuGH Bayer/Richter)"]),
+     ["–", "–", "–", "–", "–", "–", "–", "§ 920 Abs. 2 ZPO, § 936 ZPO; § 937 Abs. 2 ZPO; § 926 ZPO; § 921 ZPO; § 945 ZPO (verschuldensunabhängig; EuGH Bayer/Richter)"]),
     ("Art. 10 – Abhilfemaßnahmen: Rückruf, endgültiges Entfernen, Vernichtung; Verhältnismäßigkeit",
      ["§ 18 Abs. 1 (Vernichtung), Abs. 2 (Rückruf, Entfernen), Abs. 3 (Verhältnismäßigkeit)", "§ 140a Abs. 1 bis 4", "§ 24a", "§ 43 (Abs. 3: Überlassung)", "§ 98 (Abs. 3: Überlassung)", "§ 9 Abs. 2 (§ 24a GebrMG)", "§ 37a", "§ 1004 BGB analog; Vollstreckung §§ 883, 887 ZPO"]),
     ("Art. 11 – Gerichtliche Anordnungen: Unterlassung, Zwangsgeld, Anordnung gegen Mittelspersonen",
@@ -300,7 +302,7 @@ UMSETZUNG_DISTINCTION = dict(
     frage="Welcher Artikel der Durchsetzungsrichtlinie steckt in welcher Vorschrift des MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG?",
     kriterien=[k for k, _ in UMSETZUNG],
     spalten=list(GESETZE),
-    rows=[r for _, r in UMSETZUNG],
+    rows=[[qualify(cell, law) for cell, law in zip(r, GESETZE)] for _, r in UMSETZUNG],
     merksatz="Ein Muster, sieben Gesetze: Vernichtung/Rückruf – Auskunft – Vorlage/Besichtigung – Sicherung – Urteilsbekanntmachung stehen überall in derselben Reihenfolge (§§ 18 bis 19c MarkenG = §§ 140a bis 140e PatG = §§ 24a bis 24e GebrMG = §§ 43, 46 bis 47 DesignG = §§ 98, 101 bis 103 UrhG = §§ 37a bis 37e SortSchG; HalblSchG verweist auf das GebrMG).",
 )
 

@@ -7,17 +7,18 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/kurse/index.html` | **Fallkurs** im Jurafuchs-Format: 13 Kurse, 260 Lerneinheiten (Fälle mit Ja/Nein, Wissensfragen, Prüfungsschemata, Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie |
+| `docs/kurse/index.html` | **Fallkurs** im Jurafuchs-Format: 14 Kurse, 290 Lerneinheiten (Fälle mit Ja/Nein, Wissensfragen, Prüfungsschemata, Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie |
 | `docs/didaktik.md` | Analyse des Jurafuchs-Formats und Kursaufbau |
 | `docs/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (1.138 Knoten, ca. 4.300 Kanten) |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (1.237 Knoten, ca. 4.900 Kanten) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
 | `src/knowledge/markenrl.py` | Markenrechtsrichtlinie (EU) 2015/2436: alle 57 Artikel als Paraphrase je Absatz, Erwägungsgründe, Umsetzungstabelle zum MarkenG |
+| `src/knowledge/durchsetzungsrl.py` | Durchsetzungsrichtlinie 2004/48/EG: alle 22 Artikel im amtlichen Wortlaut (berichtigte Fassung ABl. L 195/16), Erwägungsgründe, je Artikel die Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG, SortSchG und im allgemeinen Recht; Umsetzungstabelle über alle Gesetze |
 | `src/knowledge/` | kuratiertes Fachwissen (Begriffe, Schemata, Abgrenzungen, Entscheidungen, IPWiki-Index) |
 | `src/knowledge/klausur.py` | Klausurwissen zur Aufsichtsarbeit „Nichttechnische Schutzrechte“: Aufgabentypen, Zeitplan, Fristen- und Gebührentabellen, Tenorformeln, typische Fehler, alle 23 Klausuren (Export: `data/klausur.json`) |
-| `src/knowledge/kurse/` | die dreizehn Fallkurse (`data/kurse.json` ist der Export); Kurs 12 „Klausurtraining NS“ folgt den Klausuren der Patentanwaltsprüfung, Kurs 13 „Wirksamkeit und Zulässigkeit“ übt das Verfahrensrecht nach Verfahrensart mit den Anschlussnormen aus BGB, HGB, GmbHG, ZPO, GVG und InsO |
+| `src/knowledge/kurse/` | die vierzehn Fallkurse (`data/kurse.json` ist der Export); Kurs 14 „Die Durchsetzungsrichtlinie 2004/48/EG“ erklärt Auskunft, Vorlage, Sicherung, Eilrechtsschutz, Mittelspersonen und Kosten anhand der EuGH-Rechtsprechung und zeigt die Umsetzungstabelle für alle Schutzrechtsgesetze; Kurs 12 „Klausurtraining NS“ folgt den Klausuren der Patentanwaltsprüfung, Kurs 13 „Wirksamkeit und Zulässigkeit“ übt das Verfahrensrecht nach Verfahrensart mit den Anschlussnormen aus BGB, HGB, GmbHG, ZPO, GVG und InsO |
 | `klausuren/` | NS-Klausuren 2018–2025 (kandidatentreff.de) und die Zuordnung zu den zugrunde liegenden BPatG-/BGH-Beschlüssen (`klausuren/README.md`) |
 | `src/*.py`, `build.py` | Build-Pipeline |
 
@@ -40,12 +41,13 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
   mit Zahlungstag nach der PatKostZV, zwölf Tenorformeln aus veröffentlichten Beschlüssen, Textbausteine,
   typische Fehler und alle 23 Klausuren 2018 bis 2025 mit Schwerpunkten und zugeordnetem Beschluss.
 - **Markenrechtsrichtlinie**: alle 57 Artikel der RL (EU) 2015/2436 mit Kapitelgliederung, je Artikel die umsetzenden MarkenG-Normen, Hinweise zu den Änderungen durch das MaMoG 2019 und die zugehörigen EuGH-Entscheidungen; Umsetzungstabelle als Abgrenzung; Schema „Markenrechtsrichtlinie anwenden“.
+- **Durchsetzungsrichtlinie**: alle 22 Artikel der RL 2004/48/EG im Wortlaut, je Artikel die Umsetzung in allen sieben Schutzrechtsgesetzen und in ZPO/BGB (Tabelle „Artikel → Gesetz“), Schema „Durchsetzung einer Markenverletzung“, Abgrenzung §§ 19/19a/19b und 16 EuGH-/BGH-Entscheidungen (Coty, Constantin Film, L'Oréal/eBay, Tommy Hilfiger, NovaText, Koch Media, …).
 - **Prüfungsschemata**: Gutachtenaufbau z.B. für die Markenverletzung ([§ 14](https://www.gesetze-im-internet.de/markeng/__14.html)), die Verwechslungsgefahr,
   den Bekanntheitsschutz, die Eintragungsfähigkeit (§§ [3](https://www.gesetze-im-internet.de/markeng/__3.html), [8](https://www.gesetze-im-internet.de/markeng/__8.html)), §§ [23](https://www.gesetze-im-internet.de/markeng/__23.html)/[24](https://www.gesetze-im-internet.de/markeng/__24.html), Benutzungszwang, §§ [5](https://www.gesetze-im-internet.de/markeng/__5.html)/[15](https://www.gesetze-im-internet.de/markeng/__15.html),
   Widerspruch und Löschung, die relativen Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3) sowie
   das Vorgehen aus einer Unionsmarke (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff.) und aus einer IR-Marke (PMMA, §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
   und Entscheidungen (violett) öffnen sich als Karte direkt an Ort und Stelle – auch verschachtelt.
-- **Karteikarten**: 676 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
+- **Karteikarten**: 755 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
   Entscheidungen, Normen). Filter nach Typ und Thema, Karten pro Schema, Tastatursteuerung,
   Fortschritt „gewusst / nicht gewusst“ im Browser (localStorage).
 - **Abgrenzungen**: Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft,
@@ -56,12 +58,12 @@ Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und B
 
 ## Graph-Modell
 
-Knotentypen: `norm` (Paragraph mit Absätzen), `eunorm` (Artikel der MarkenRL, Paraphrase), `concept` (Definition + Erläuterung), `schema`,
+Knotentypen: `norm` (Paragraph mit Absätzen), `eunorm` (Artikel der MarkenRL als Paraphrase und der DurchsetzungsRL im Wortlaut; Feld `rl` unterscheidet sie, `umsetzung_weitere` nennt die Parallelnormen der anderen Gesetze), `concept` (Definition + Erläuterung), `schema`,
 `step` (Prüfungspunkt, baumförmig), `case` (Entscheidung mit Kernaussage, Aktenzeichen, Fundstelle,
 dejure-Link), `distinction` (Vergleichstabelle), `source` (IPWiki-Artikel), `course`, `chapter`, `unit`
-(Fallkurs; Einheiten verweisen mit `trains`, `cites`, `applies`, `covers` auf Begriffe, Entscheidungen, Normen und Prüfungspunkte).
+(Fallkurs; Einheiten verweisen mit `trains`, `cites`, `applies`, `covers` auf Begriffe, Entscheidungen, Normen, Prüfungspunkte und Abgrenzungstabellen).
 
-Kanten: `defined_in`, `related_to`, `illustrated_by`, `documented_in`, `interprets`, `implements` (MarkenG-Norm setzt MarkenRL-Artikel um), `has_step`,
+Kanten: `defined_in`, `related_to`, `illustrated_by`, `documented_in`, `interprets`, `implements` (MarkenG-Norm setzt einen Richtlinienartikel um), `has_step`,
 `next_step`, `uses_concept`, `cites`, `applies`, `contrasts`.
 
 ## Karteikarten in Anki importieren
@@ -115,10 +117,12 @@ für die HTML-Apps wird daraus erzeugt (`js_source`), damit beide identisch verl
 
 - Ohne Gesetzesangabe gilt das MarkenG: `§ 14 Abs. 2 Nr. 2` führt zu `markeng/__14.html`.
 - Andere deutsche Gesetze werden an ihrer Abkürzung erkannt (BGB, UWG, ZPO, GG, UrhG, PatG,
-  HGB, TMG, GKG und weitere; Tabelle `LAWS` im Modul).
+  GebrMG, DesignG, HalblSchG, SortSchG, HGB, GKG und weitere; Tabelle `LAWS` im Modul).
+- Tabellen mit einer Spalte je Gesetz: `qualify(text, law)` hängt Zitaten ohne Gesetzesangabe das
+  Gesetz der Spalte an („§ 140b“ → „§ 140b PatG“), damit sie nicht auf das MarkenG verlinken.
 - Ketten werden je Vorschrift einzeln verlinkt: `§§ 9 bis 13`, `§§ 3, 7, 8`, `§§ 23/24`,
   `§§ 112-125`.
-- Unionsrecht (MarkenRL, UMV, AEUV) steht nicht auf gesetze-im-internet.de; Zitate führen deshalb auf
+- Unionsrecht (MarkenRL, DurchsetzungsRL, UMV, AEUV) steht nicht auf gesetze-im-internet.de; Zitate führen deshalb auf
   das Dokument bei EUR-Lex. Internationale Abkommen (PMMA, PVÜ) bleiben unverlinkt.
 - Normen-Chips tragen zusätzlich ein ↗ direkt zur amtlichen Fassung.
 
@@ -131,6 +135,10 @@ Erkennung prüfen: `python3 src/knowledge/gesetze.py` gibt Beispielzitate mit Li
   je Absatz, kein amtlicher Wortlaut. Für Zitate den Text auf
   [EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436) prüfen; beide
   Apps und die Karteikarten weisen darauf hin.
+- **Durchsetzungsrichtlinie 2004/48/EG**: Der amtliche deutsche Wortlaut (berichtigte Fassung,
+  ABl. L 195 vom 2.6.2004, S. 16) wurde über den EU-Cellar geladen; `src/knowledge/durchsetzungsrl.py`
+  gibt ihn je Absatz wieder (Buchstabenaufzählungen eingerückt, Fußnoten weggelassen). Die Parallelnormen
+  in PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG sind am XML von gesetze-im-internet.de geprüft.
 
 - **Gesetzestext**: gesetze-im-internet.de, bezogen über den Spiegel
   [bundestag/gesetze](https://github.com/bundestag/gesetze) (Stand im Repo: Änderungen bis 2021
@@ -138,7 +146,7 @@ Erkennung prüfen: `python3 src/knowledge/gesetze.py` gibt Beispielzitate mit Li
 - **IPWiki** (www.ipwiki.de): Die Artikel konnten aus der Build-Umgebung nicht direkt geladen werden
   (Netzwerk-Sperre). `src/knowledge/ipwiki.py` enthält den per Websuche ermittelten Artikelindex mit
   Kurzinhalt und Link; die Begriffe verweisen darauf.
-- **Rechtsprechung**: 101 Entscheidungen (75 BGH, 26 EuGH), per Websuche recherchiert und mit
+- **Rechtsprechung**: 131 Entscheidungen (81 BGH, 40 EuGH, 10 BPatG), per Websuche recherchiert und mit
   Aktenzeichen/Datum gegen dejure.org, bundesgerichtshof.de und Fachveröffentlichungen abgeglichen.
   Die Kernaussagen sind Paraphrasen für Lernzwecke – für Zitate den Volltext prüfen
   (Link „dejure ↗“ in jeder Entscheidung).

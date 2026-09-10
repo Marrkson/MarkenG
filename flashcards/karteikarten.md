@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht
 
-676 Karten, generiert aus graph/markenrecht_graph.json.
+755 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -442,7 +442,7 @@ Eine Anmeldung ist bösgläubig, wenn der Anmelder das Zeichen nicht zur Förder
 
 **F:** Definiere: Verkehrsdurchsetzung ([§ 8 Abs. 3](https://www.gesetze-im-internet.de/markeng/__8.html))
 
-**A:** Die Schutzhindernisse des [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), 2 und 3 finden keine Anwendung, wenn die Marke sich vor dem Anmeldetag infolge ihrer Benutzung für die Waren oder Dienstleistungen in den beteiligten Verkehrskreisen durchgesetzt hat.
+**A:** Die Schutzhindernisse des [§ 8 Abs. 2 Nr. 1, 2 und 3](https://www.gesetze-im-internet.de/markeng/__8.html) finden keine Anwendung, wenn die Marke sich vor dem Anmeldetag infolge ihrer Benutzung für die Waren oder Dienstleistungen in den beteiligten Verkehrskreisen durchgesetzt hat.
 
 Normen: [Art. 4 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
@@ -456,7 +456,7 @@ Rechtsprechung: EuGH Windsurfing Chiemsee (C-108/97); BGH ROCHER-Kugel (I ZB 88/
 
 **F:** Welcher Begriff wird so definiert?
 
-Die Schutzhindernisse des [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html), 2 und 3 finden keine Anwendung, wenn die Marke sich vor dem Anmeldetag infolge ihrer Benutzung für die Waren oder Dienstleistungen in den beteiligten Verkehrskreisen durchgesetzt hat.
+Die Schutzhindernisse des [§ 8 Abs. 2 Nr. 1, 2 und 3](https://www.gesetze-im-internet.de/markeng/__8.html) finden keine Anwendung, wenn die Marke sich vor dem Anmeldetag infolge ihrer Benutzung für die Waren oder Dienstleistungen in den beteiligten Verkehrskreisen durchgesetzt hat.
 
 **A:** Verkehrsdurchsetzung ([§ 8 Abs. 3](https://www.gesetze-im-internet.de/markeng/__8.html))
 
@@ -1296,7 +1296,7 @@ Grundsätzlich trägt der in Anspruch genommene Dritte die Beweislast für die V
 
 **F:** Definiere: Verwirkung ([§ 21](https://www.gesetze-im-internet.de/markeng/__21.html))
 
-**A:** Der Inhaber eines älteren Kennzeichenrechts kann die Benutzung eines jüngeren eingetragenen Rechts nicht untersagen, wenn er sie fünf aufeinanderfolgende Jahre in Kenntnis geduldet hat, es sei denn, die jüngere Anmeldung war bösgläubig ([§ 21 Abs. 1](https://www.gesetze-im-internet.de/markeng/__21.html), 2). Daneben bleibt die allgemeine Verwirkung nach [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) ([§ 21 Abs. 4](https://www.gesetze-im-internet.de/markeng/__21.html)).
+**A:** Der Inhaber eines älteren Kennzeichenrechts kann die Benutzung eines jüngeren eingetragenen Rechts nicht untersagen, wenn er sie fünf aufeinanderfolgende Jahre in Kenntnis geduldet hat, es sei denn, die jüngere Anmeldung war bösgläubig ([§ 21 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__21.html)). Daneben bleibt die allgemeine Verwirkung nach [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) ([§ 21 Abs. 4](https://www.gesetze-im-internet.de/markeng/__21.html)).
 
 Normen: [Art. 9 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 21 MarkenG](https://www.gesetze-im-internet.de/markeng/__21.html)
 
@@ -1310,7 +1310,7 @@ Rechtsprechung: BGH Hard Rock Cafe (I ZR 188/11); BGH Baumann II (I ZR 241/14)
 
 **F:** Welcher Begriff wird so definiert?
 
-Der Inhaber eines älteren Kennzeichenrechts kann die Benutzung eines jüngeren eingetragenen Rechts nicht untersagen, wenn er sie fünf aufeinanderfolgende Jahre in Kenntnis geduldet hat, es sei denn, die jüngere Anmeldung war bösgläubig ([§ 21 Abs. 1](https://www.gesetze-im-internet.de/markeng/__21.html), 2). Daneben bleibt die allgemeine Verwirkung nach [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) ([§ 21 Abs. 4](https://www.gesetze-im-internet.de/markeng/__21.html)).
+Der Inhaber eines älteren Kennzeichenrechts kann die Benutzung eines jüngeren eingetragenen Rechts nicht untersagen, wenn er sie fünf aufeinanderfolgende Jahre in Kenntnis geduldet hat, es sei denn, die jüngere Anmeldung war bösgläubig ([§ 21 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__21.html)). Daneben bleibt die allgemeine Verwirkung nach [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) ([§ 21 Abs. 4](https://www.gesetze-im-internet.de/markeng/__21.html)).
 
 **A:** Verwirkung ([§ 21](https://www.gesetze-im-internet.de/markeng/__21.html))
 
@@ -1554,7 +1554,7 @@ Innerhalb von drei Monaten nach Veröffentlichung der Eintragung kann der Inhabe
 
 **A:** Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen ausschließlich oder nicht ausschließlich, räumlich oder sachlich beschränkt lizenziert werden ([§ 30 Abs. 1](https://www.gesetze-im-internet.de/markeng/__30.html)). Bei Verstoß des Lizenznehmers gegen die in [§ 30 Abs. 2](https://www.gesetze-im-internet.de/markeng/__30.html) genannten Beschränkungen kann der Inhaber die Marke gegen ihn geltend machen; ein Inverkehrbringen unter Verstoß gegen diese Beschränkungen erfolgt ohne Zustimmung (keine Erschöpfung).
 
-Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 30](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 27 MarkenG](https://www.gesetze-im-internet.de/markeng/__27.html)
+Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 25 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 30](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 27 MarkenG](https://www.gesetze-im-internet.de/markeng/__27.html)
 
 Rechtsprechung: BGH Converse II (I ZR 137/10)
 
@@ -1580,7 +1580,7 @@ Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen aussch
 
 **A:** Anspruchsberechtigt ist der Markeninhaber ([§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 Abs. 1](https://www.gesetze-im-internet.de/markeng/__28.html): Vermutung der Inhaberschaft für den Eingetragenen) sowie der Lizenznehmer unter den Voraussetzungen des [§ 30 Abs. 3](https://www.gesetze-im-internet.de/markeng/__30.html).
 
-Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+Normen: [Art. 22 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 5 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1602,9 +1602,9 @@ Anspruchsberechtigt ist der Markeninhaber ([§ 14 Abs. 1](https://www.gesetze-im
 
 **F:** Definiere: Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html))
 
-**A:** Wer ein Zeichen entgegen [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html) bis 4 benutzt, kann vom Markeninhaber bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Anspruch besteht auch bei Erstbegehungsgefahr ([§ 14 Abs. 5 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html)). Verschulden ist nicht erforderlich.
+**A:** Wer ein Zeichen entgegen [§ 14 Abs. 2 bis 4](https://www.gesetze-im-internet.de/markeng/__14.html) benutzt, kann vom Markeninhaber bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Anspruch besteht auch bei Erstbegehungsgefahr ([§ 14 Abs. 5 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html)). Verschulden ist nicht erforderlich.
 
-Normen: [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
 
 Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH ORTLIEB II (I ZR 29/18); BGH Hard Rock Cafe (I ZR 188/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)
 
@@ -1616,7 +1616,7 @@ Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH ORTLIEB II (I ZR
 
 **F:** Welcher Begriff wird so definiert?
 
-Wer ein Zeichen entgegen [§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html) bis 4 benutzt, kann vom Markeninhaber bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Anspruch besteht auch bei Erstbegehungsgefahr ([§ 14 Abs. 5 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html)). Verschulden ist nicht erforderlich.
+Wer ein Zeichen entgegen [§ 14 Abs. 2 bis 4](https://www.gesetze-im-internet.de/markeng/__14.html) benutzt, kann vom Markeninhaber bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Anspruch besteht auch bei Erstbegehungsgefahr ([§ 14 Abs. 5 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html)). Verschulden ist nicht erforderlich.
 
 **A:** Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html))
 
@@ -1630,9 +1630,9 @@ Wer ein Zeichen entgegen [§ 14 Abs. 2](https://www.gesetze-im-internet.de/marke
 
 **A:** Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des entstandenen Schadens verpflichtet. Berechnung nach Wahl des Verletzten: (1) konkreter Schaden inkl. entgangenem Gewinn, (2) Herausgabe des Verletzergewinns ([§ 14 Abs. 6 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html)), (3) angemessene Lizenzgebühr (Lizenzanalogie, [§ 14 Abs. 6 S. 3](https://www.gesetze-im-internet.de/markeng/__14.html)).
 
-Normen: [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Normen: [Art. 34 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
 
-Rechtsprechung: BGH BTK (I ZR 169/07)
+Rechtsprechung: BGH BTK (I ZR 169/07); EuGH Liffers/Mandarina (C-99/15); EuGH OTK/Stowarzyszenie Filmowców Polskich (C-367/15)
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1656,9 +1656,9 @@ Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht, ist zum Ersatz
 
 **A:** Methode der Schadensberechnung: Der Verletzer schuldet den Betrag, den er als angemessene Vergütung hätte entrichten müssen, wenn er die Erlaubnis zur Nutzung des Kennzeichens eingeholt hätte ([§ 14 Abs. 6 S. 3](https://www.gesetze-im-internet.de/markeng/__14.html)).
 
-Normen: [§ 14 Abs. 6 S. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 6 S. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
-Rechtsprechung: BGH BTK (I ZR 169/07)
+Rechtsprechung: BGH BTK (I ZR 169/07); EuGH Liffers/Mandarina (C-99/15)
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1682,7 +1682,9 @@ Methode der Schadensberechnung: Der Verletzer schuldet den Betrag, den er als an
 
 **A:** Der Verletzte kann Vernichtung der widerrechtlich gekennzeichneten Waren und der Herstellungsmittel ([§ 18 Abs. 1](https://www.gesetze-im-internet.de/markeng/__18.html)) sowie Rückruf und Entfernung aus den Vertriebswegen ([§ 18 Abs. 2](https://www.gesetze-im-internet.de/markeng/__18.html)) verlangen, soweit verhältnismäßig ([§ 18 Abs. 3](https://www.gesetze-im-internet.de/markeng/__18.html)). Ferner Auskunft über Herkunft und Vertriebsweg ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)), auch gegen Dritte ([§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html)), bei offensichtlicher Verletzung im Eilverfahren ([§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html)).
 
-Normen: [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+Normen: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+
+Rechtsprechung: EuGH NEW WAVE CZ/ALLTOYS (C-427/15)
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1706,9 +1708,9 @@ Der Verletzte kann Vernichtung der widerrechtlich gekennzeichneten Waren und der
 
 **A:** Täter ist, wer die Verletzungshandlung selbst (oder mittäterschaftlich) begeht; Teilnehmer (Anstifter/Gehilfe) haftet bei vorsätzlicher Beteiligung an einer vorsätzlichen Haupttat; Störer ist, wer willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt – er haftet nur auf Unterlassung, nicht auf Schadensersatz.
 
-Normen: [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 
-Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühle im Internet (I ZR 139/08); BGH Tork (I ZR 136/17)
+Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühle im Internet (I ZR 139/08); BGH Tork (I ZR 136/17); EuGH L'Oréal/eBay (C-324/09)
 
 *Tags: Begriff, Rechtsfolgen*
 
@@ -1721,6 +1723,236 @@ Rechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühl
 Täter ist, wer die Verletzungshandlung selbst (oder mittäterschaftlich) begeht; Teilnehmer (Anstifter/Gehilfe) haftet bei vorsätzlicher Beteiligung an einer vorsätzlichen Haupttat; Störer ist, wer willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt – er haftet nur auf Unterlassung, nicht auf Schadensersatz.
 
 **A:** Täter-, Teilnehmer- und Störerhaftung
+
+*Tags: Begriff, Umkehr, Rechtsfolgen*
+
+---
+
+## definition
+
+**F:** Definiere: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL)
+
+**A:** Richtlinie des Europäischen Parlaments und des Rates vom 29.4.2004 zur Durchsetzung der Rechte des geistigen Eigentums (ABl. L 157, S. 45; berichtigt ABl. L 195, S. 16). Sie harmonisiert nicht das materielle Recht, sondern die zivilrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe bei Verletzung aller Rechte des geistigen Eigentums (Art. 1, 2): Beweise, Auskunft, einstweilige Maßnahmen, Rückruf und Vernichtung, Unterlassung, Schadensersatz, Kosten und Urteilsveröffentlichung.
+
+Normen: [Art. 1 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 17 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 18 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 19 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 20 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 21 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 22 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+
+Rechtsprechung: EuGH OTK/Stowarzyszenie Filmowców Polskich (C-367/15); EuGH Mircom/Telenet (C-597/19); EuGH NovaText/Universität Heidelberg (C-531/20); EuGH Promusicae/Telefónica (C-275/06)
+
+*Tags: Begriff, Rechtsfolgen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Richtlinie des Europäischen Parlaments und des Rates vom 29.4.2004 zur Durchsetzung der Rechte des geistigen Eigentums (ABl. L 157, S. 45; berichtigt ABl. L 195, S. 16). Sie harmonisiert nicht das materielle Recht, sondern die zivilrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe bei Verletzung aller Rechte des geistigen Eigentums (Art. 1, 2): Beweise, Auskunft, einstweilige Maßnahmen, Rückruf und Vernichtung, Unterlassung, Schadensersatz, Kosten und Urteilsveröffentlichung.
+
+**A:** Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL)
+
+*Tags: Begriff, Umkehr, Rechtsfolgen*
+
+---
+
+## definition
+
+**F:** Definiere: Gewerbliches Ausmaß
+
+**A:** Rechtsverletzungen, die zur Erlangung eines unmittelbaren oder mittelbaren wirtschaftlichen oder kommerziellen Vorteils vorgenommen werden; Handlungen gutgläubiger Endverbraucher sind in der Regel ausgeschlossen (Erwägungsgrund 14 DurchsetzungsRL). Voraussetzung der Drittauskunft ([§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html)), der Vorlage von Bank-, Finanz- und Handelsunterlagen ([§ 19a Abs. 1 S. 2](https://www.gesetze-im-internet.de/markeng/__19a.html)) und der Sicherung von Schadensersatz ([§ 19b Abs. 1](https://www.gesetze-im-internet.de/markeng/__19b.html)).
+
+Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+
+Rechtsprechung: EuGH Mircom/Telenet (C-597/19)
+
+*Tags: Begriff, Rechtsfolgen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Rechtsverletzungen, die zur Erlangung eines unmittelbaren oder mittelbaren wirtschaftlichen oder kommerziellen Vorteils vorgenommen werden; Handlungen gutgläubiger Endverbraucher sind in der Regel ausgeschlossen (Erwägungsgrund 14 DurchsetzungsRL). Voraussetzung der Drittauskunft ([§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html)), der Vorlage von Bank-, Finanz- und Handelsunterlagen ([§ 19a Abs. 1 S. 2](https://www.gesetze-im-internet.de/markeng/__19a.html)) und der Sicherung von Schadensersatz ([§ 19b Abs. 1](https://www.gesetze-im-internet.de/markeng/__19b.html)).
+
+**A:** Gewerbliches Ausmaß
+
+*Tags: Begriff, Umkehr, Rechtsfolgen*
+
+---
+
+## definition
+
+**F:** Definiere: Auskunftsanspruch gegen Dritte ([§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html))
+
+**A:** Bei offensichtlicher Rechtsverletzung oder nach Klageerhebung gegen den Verletzer richtet sich der Anspruch auf Auskunft über Herkunft und Vertriebsweg auch gegen Dritte, die in gewerblichem Ausmaß rechtsverletzende Ware besaßen, rechtsverletzende Dienstleistungen in Anspruch nahmen oder für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbrachten oder nach Angaben eines solchen an Herstellung oder Vertrieb beteiligt waren ([§ 19 Abs. 2 S. 1 Nr. 1 bis 4](https://www.gesetze-im-internet.de/markeng/__19.html) = [Art. 8 Abs. 1 lit. a bis d DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))). Ausgenommen sind Zeugnisverweigerungsberechtigte nach §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO.
+
+Normen: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+
+Rechtsprechung: EuGH Coty Germany/Stadtsparkasse Magdeburg (C-580/13); BGH Davidoff Hot Water II (I ZR 51/12); EuGH Constantin Film Verleih/YouTube (C-264/19); EuGH NEW WAVE CZ/ALLTOYS (C-427/15)
+
+*Tags: Begriff, Rechtsfolgen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei offensichtlicher Rechtsverletzung oder nach Klageerhebung gegen den Verletzer richtet sich der Anspruch auf Auskunft über Herkunft und Vertriebsweg auch gegen Dritte, die in gewerblichem Ausmaß rechtsverletzende Ware besaßen, rechtsverletzende Dienstleistungen in Anspruch nahmen oder für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbrachten oder nach Angaben eines solchen an Herstellung oder Vertrieb beteiligt waren ([§ 19 Abs. 2 S. 1 Nr. 1 bis 4](https://www.gesetze-im-internet.de/markeng/__19.html) = [Art. 8 Abs. 1 lit. a bis d DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))). Ausgenommen sind Zeugnisverweigerungsberechtigte nach §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO.
+
+**A:** Auskunftsanspruch gegen Dritte ([§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html))
+
+*Tags: Begriff, Umkehr, Rechtsfolgen*
+
+---
+
+## definition
+
+**F:** Definiere: Vorlage- und Besichtigungsanspruch ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html))
+
+**A:** Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung kann der Inhaber vom vermeintlichen Verletzer die Vorlage einer Urkunde oder die Besichtigung einer Sache in dessen Verfügungsgewalt verlangen, wenn dies zur Begründung seiner Ansprüche erforderlich ist; bei gewerblichem Ausmaß auch die Vorlage von Bank-, Finanz- oder Handelsunterlagen ([§ 19a Abs. 1](https://www.gesetze-im-internet.de/markeng/__19a.html); [Art. 6, 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+Normen: [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+
+Rechtsprechung: BGH Faxkarte (I ZR 45/01)
+
+*Tags: Begriff, Rechtsfolgen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung kann der Inhaber vom vermeintlichen Verletzer die Vorlage einer Urkunde oder die Besichtigung einer Sache in dessen Verfügungsgewalt verlangen, wenn dies zur Begründung seiner Ansprüche erforderlich ist; bei gewerblichem Ausmaß auch die Vorlage von Bank-, Finanz- oder Handelsunterlagen ([§ 19a Abs. 1](https://www.gesetze-im-internet.de/markeng/__19a.html); [Art. 6, 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+**A:** Vorlage- und Besichtigungsanspruch ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html))
+
+*Tags: Begriff, Umkehr, Rechtsfolgen*
+
+---
+
+## definition
+
+**F:** Definiere: Sicherung von Schadensersatzansprüchen ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html))
+
+**A:** Bei einer in gewerblichem Ausmaß begangenen Verletzung kann der Verletzte vom Verletzer die Vorlage von Bank-, Finanz- oder Handelsunterlagen verlangen, die für die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn ohne sie dessen Erfüllung fraglich ist ([§ 19b Abs. 1](https://www.gesetze-im-internet.de/markeng/__19b.html); [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+Normen: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+
+*Tags: Begriff, Rechtsfolgen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei einer in gewerblichem Ausmaß begangenen Verletzung kann der Verletzte vom Verletzer die Vorlage von Bank-, Finanz- oder Handelsunterlagen verlangen, die für die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn ohne sie dessen Erfüllung fraglich ist ([§ 19b Abs. 1](https://www.gesetze-im-internet.de/markeng/__19b.html); [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+**A:** Sicherung von Schadensersatzansprüchen ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html))
+
+*Tags: Begriff, Umkehr, Rechtsfolgen*
+
+---
+
+## definition
+
+**F:** Definiere: Einstweilige Verfügung in Kennzeichenstreitsachen
+
+**A:** Unterlassungs-, Auskunfts- ([§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html)) und Vorlageansprüche ([§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html)) können im Eilverfahren nach [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) gesichert werden; für Unterlassungsansprüche entfällt die Darlegung und Glaubhaftmachung des Verfügungsgrundes ([§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html): Dringlichkeitsvermutung, seit dem MaMoG 2019, widerlegt durch zögerliches Vorgehen des Antragstellers). Unionsrechtlicher Rahmen ist [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); die Vermutung selbst verlangt er nicht.
+
+Normen: [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+
+Rechtsprechung: EuGH Bayer Pharma/Richter Gedeon (C-688/17)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Unterlassungs-, Auskunfts- ([§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html)) und Vorlageansprüche ([§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html)) können im Eilverfahren nach [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) gesichert werden; für Unterlassungsansprüche entfällt die Darlegung und Glaubhaftmachung des Verfügungsgrundes ([§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html): Dringlichkeitsvermutung, seit dem MaMoG 2019, widerlegt durch zögerliches Vorgehen des Antragstellers). Unionsrechtlicher Rahmen ist [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); die Vermutung selbst verlangt er nicht.
+
+**A:** Einstweilige Verfügung in Kennzeichenstreitsachen
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Anordnungen gegen Mittelspersonen ([Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)))
+
+**A:** Rechtsinhaber müssen eine gerichtliche Anordnung gegen Mittelspersonen beantragen können, deren Dienste ein Dritter zur Verletzung nutzt (Art. 11 S. 3, [Art. 9 Abs. 1 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))), unabhängig von einer eigenen Haftung der Mittelsperson. Deutschland setzt das durch die Störerhaftung um: Unterlassungsanspruch aus [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html) gegen den, der willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt.
+
+Normen: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+
+Rechtsprechung: EuGH L'Oréal/eBay (C-324/09); EuGH Tommy Hilfiger/Delta Center (C-494/15); BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühle im Internet (I ZR 139/08)
+
+*Tags: Begriff, Rechtsfolgen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Rechtsinhaber müssen eine gerichtliche Anordnung gegen Mittelspersonen beantragen können, deren Dienste ein Dritter zur Verletzung nutzt (Art. 11 S. 3, [Art. 9 Abs. 1 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))), unabhängig von einer eigenen Haftung der Mittelsperson. Deutschland setzt das durch die Störerhaftung um: Unterlassungsanspruch aus [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html) gegen den, der willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt.
+
+**A:** Anordnungen gegen Mittelspersonen ([Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)))
+
+*Tags: Begriff, Umkehr, Rechtsfolgen*
+
+---
+
+## definition
+
+**F:** Definiere: Kostenerstattung und Patentanwaltskosten ([Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html))
+
+**A:** Die Prozesskosten und sonstigen Kosten der obsiegenden Partei trägt in der Regel die unterlegene Partei, soweit sie zumutbar und angemessen sind ([Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html)). In Kennzeichenstreitsachen sind die Gebühren eines mitwirkenden Patentanwalts nach [§ 13 RVG](https://www.gesetze-im-internet.de/rvg/__13.html) und seine notwendigen Auslagen zu erstatten ([§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html)), nach EuGH NovaText und BGH Kosten des Patentanwalts VII aber nur, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war.
+
+Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html)
+
+Rechtsprechung: EuGH NovaText/Universität Heidelberg (C-531/20); BGH Kosten des Patentanwalts VII (I ZB 59/19); EuGH Koch Media/FU (C-559/20); EuGH United Video Properties/Telenet (C-57/15)
+
+*Tags: Begriff, Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Prozesskosten und sonstigen Kosten der obsiegenden Partei trägt in der Regel die unterlegene Partei, soweit sie zumutbar und angemessen sind ([Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html)). In Kennzeichenstreitsachen sind die Gebühren eines mitwirkenden Patentanwalts nach [§ 13 RVG](https://www.gesetze-im-internet.de/rvg/__13.html) und seine notwendigen Auslagen zu erstatten ([§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html)), nach EuGH NovaText und BGH Kosten des Patentanwalts VII aber nur, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war.
+
+**A:** Kostenerstattung und Patentanwaltskosten ([Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html))
+
+*Tags: Begriff, Umkehr, Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Urteilsbekanntmachung ([§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html))
+
+**A:** Ist Klage aus dem MarkenG erhoben, kann der obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse darlegt; Art und Umfang bestimmt das Urteil, die Befugnis erlischt drei Monate nach Rechtskraft ([§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html); [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+Normen: [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+
+*Tags: Begriff, Rechtsfolgen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ist Klage aus dem MarkenG erhoben, kann der obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse darlegt; Art und Umfang bestimmt das Urteil, die Befugnis erlischt drei Monate nach Rechtskraft ([§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html); [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+**A:** Urteilsbekanntmachung ([§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html))
 
 *Tags: Begriff, Umkehr, Rechtsfolgen*
 
@@ -1910,9 +2142,9 @@ Ein Domainname ist selbst kein Kennzeichenrecht, kann aber durch Benutzung im ge
 
 **F:** Definiere: Verhältnis MarkenG – UWG – [§ 12 BGB](https://www.gesetze-im-internet.de/bgb/__12.html)
 
-**A:** Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https://www.gesetze-im-internet.de/markeng/__2.html)). Nach Aufgabe der 'Vorrangthese' (Hard Rock Cafe) können lauterkeitsrechtliche Ansprüche ([§§ 4 Nr. 3](https://www.gesetze-im-internet.de/markeng/__4.html), 5 Abs. 2 UWG) neben kennzeichenrechtlichen bestehen; Wertungswidersprüche zu den markenrechtlichen Schranken sind aber zu vermeiden.
+**A:** Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https://www.gesetze-im-internet.de/markeng/__2.html)). Nach Aufgabe der 'Vorrangthese' (Hard Rock Cafe) können lauterkeitsrechtliche Ansprüche ([§§ 4 Nr. 3, 5 Abs. 2 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)) neben kennzeichenrechtlichen bestehen; Wertungswidersprüche zu den markenrechtlichen Schranken sind aber zu vermeiden.
 
-Normen: [§ 2](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 126 MarkenG](https://www.gesetze-im-internet.de/markeng/__126.html)
+Normen: [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 2](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 126 MarkenG](https://www.gesetze-im-internet.de/markeng/__126.html)
 
 Rechtsprechung: BGH Hard Rock Cafe (I ZR 188/11)
 
@@ -1924,7 +2156,7 @@ Rechtsprechung: BGH Hard Rock Cafe (I ZR 188/11)
 
 **F:** Welcher Begriff wird so definiert?
 
-Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https://www.gesetze-im-internet.de/markeng/__2.html)). Nach Aufgabe der 'Vorrangthese' (Hard Rock Cafe) können lauterkeitsrechtliche Ansprüche ([§§ 4 Nr. 3](https://www.gesetze-im-internet.de/markeng/__4.html), 5 Abs. 2 UWG) neben kennzeichenrechtlichen bestehen; Wertungswidersprüche zu den markenrechtlichen Schranken sind aber zu vermeiden.
+Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https://www.gesetze-im-internet.de/markeng/__2.html)). Nach Aufgabe der 'Vorrangthese' (Hard Rock Cafe) können lauterkeitsrechtliche Ansprüche ([§§ 4 Nr. 3, 5 Abs. 2 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)) neben kennzeichenrechtlichen bestehen; Wertungswidersprüche zu den markenrechtlichen Schranken sind aber zu vermeiden.
 
 **A:** Verhältnis MarkenG – UWG – [§ 12 BGB](https://www.gesetze-im-internet.de/bgb/__12.html)
 
@@ -1934,9 +2166,9 @@ Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus ([§ 2](https
 
 ## definition
 
-**F:** Definiere: Geographische Herkunftsangaben ([§§ 126](https://www.gesetze-im-internet.de/markeng/__126.html) ff.)
+**F:** Definiere: Geographische Herkunftsangaben ([§§ 126 ff.](https://www.gesetze-im-internet.de/markeng/__126.html))
 
-**A:** Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung der geographischen Herkunft von Waren oder Dienstleistungen benutzt werden ([§ 126 Abs. 1](https://www.gesetze-im-internet.de/markeng/__126.html)). Sie dürfen nicht für Waren anderer Herkunft benutzt werden, wenn Irreführungsgefahr besteht ([§ 127 Abs. 1](https://www.gesetze-im-internet.de/markeng/__127.html)); qualifizierte Angaben und bekannte Angaben genießen erweiterten Schutz ([§ 127 Abs. 2](https://www.gesetze-im-internet.de/markeng/__127.html), 3).
+**A:** Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung der geographischen Herkunft von Waren oder Dienstleistungen benutzt werden ([§ 126 Abs. 1](https://www.gesetze-im-internet.de/markeng/__126.html)). Sie dürfen nicht für Waren anderer Herkunft benutzt werden, wenn Irreführungsgefahr besteht ([§ 127 Abs. 1](https://www.gesetze-im-internet.de/markeng/__127.html)); qualifizierte Angaben und bekannte Angaben genießen erweiterten Schutz ([§ 127 Abs. 2, 3](https://www.gesetze-im-internet.de/markeng/__127.html)).
 
 Normen: [Art. 29 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 126](https://www.gesetze-im-internet.de/markeng/__126.html), [§ 127](https://www.gesetze-im-internet.de/markeng/__127.html), [§ 128](https://www.gesetze-im-internet.de/markeng/__128.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
 
@@ -1950,9 +2182,9 @@ Rechtsprechung: EuGH Windsurfing Chiemsee (C-108/97); BPatG Öresundbrücke (26 
 
 **F:** Welcher Begriff wird so definiert?
 
-Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung der geographischen Herkunft von Waren oder Dienstleistungen benutzt werden ([§ 126 Abs. 1](https://www.gesetze-im-internet.de/markeng/__126.html)). Sie dürfen nicht für Waren anderer Herkunft benutzt werden, wenn Irreführungsgefahr besteht ([§ 127 Abs. 1](https://www.gesetze-im-internet.de/markeng/__127.html)); qualifizierte Angaben und bekannte Angaben genießen erweiterten Schutz ([§ 127 Abs. 2](https://www.gesetze-im-internet.de/markeng/__127.html), 3).
+Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung der geographischen Herkunft von Waren oder Dienstleistungen benutzt werden ([§ 126 Abs. 1](https://www.gesetze-im-internet.de/markeng/__126.html)). Sie dürfen nicht für Waren anderer Herkunft benutzt werden, wenn Irreführungsgefahr besteht ([§ 127 Abs. 1](https://www.gesetze-im-internet.de/markeng/__127.html)); qualifizierte Angaben und bekannte Angaben genießen erweiterten Schutz ([§ 127 Abs. 2, 3](https://www.gesetze-im-internet.de/markeng/__127.html)).
 
-**A:** Geographische Herkunftsangaben ([§§ 126](https://www.gesetze-im-internet.de/markeng/__126.html) ff.)
+**A:** Geographische Herkunftsangaben ([§§ 126 ff.](https://www.gesetze-im-internet.de/markeng/__126.html))
 
 *Tags: Begriff, Umkehr, Sonstige Kennzeichen*
 
@@ -1960,7 +2192,7 @@ Namen von Orten, Gegenden, Gebieten oder Ländern sowie sonstige Angaben oder Ze
 
 ## definition
 
-**F:** Definiere: Kollektivmarke und Gewährleistungsmarke ([§§ 97](https://www.gesetze-im-internet.de/markeng/__97.html) ff., 106a ff.)
+**F:** Definiere: Kollektivmarke und Gewährleistungsmarke ([§§ 97 ff.](https://www.gesetze-im-internet.de/markeng/__97.html), 106a ff.)
 
 **A:** Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen der Mitglieder nach Herkunft, Beschaffenheit oder sonstigen Eigenschaften unterscheidet ([§ 97](https://www.gesetze-im-internet.de/markeng/__97.html)); auch geographische Herkunftsangaben sind eintragbar ([§ 99](https://www.gesetze-im-internet.de/markeng/__99.html)). Gewährleistungsmarke: Marke, die Waren/Dienstleistungen hinsichtlich garantierter Eigenschaften (Material, Qualität, Herstellungsweise) von anderen unterscheidet, deren Inhaber die Waren nicht selbst vertreibt ([§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html)).
 
@@ -1978,7 +2210,7 @@ Rechtsprechung: BGH ÖKO-TEST II (I ZR 117/17)
 
 Kollektivmarke: Marke eines rechtsfähigen Verbands, die Waren/Dienstleistungen der Mitglieder nach Herkunft, Beschaffenheit oder sonstigen Eigenschaften unterscheidet ([§ 97](https://www.gesetze-im-internet.de/markeng/__97.html)); auch geographische Herkunftsangaben sind eintragbar ([§ 99](https://www.gesetze-im-internet.de/markeng/__99.html)). Gewährleistungsmarke: Marke, die Waren/Dienstleistungen hinsichtlich garantierter Eigenschaften (Material, Qualität, Herstellungsweise) von anderen unterscheidet, deren Inhaber die Waren nicht selbst vertreibt ([§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html)).
 
-**A:** Kollektivmarke und Gewährleistungsmarke ([§§ 97](https://www.gesetze-im-internet.de/markeng/__97.html) ff., 106a ff.)
+**A:** Kollektivmarke und Gewährleistungsmarke ([§§ 97 ff.](https://www.gesetze-im-internet.de/markeng/__97.html), 106a ff.)
 
 *Tags: Begriff, Umkehr, Sonstige Kennzeichen*
 
@@ -2088,7 +2320,7 @@ Wird aus einer Unionsmarke nach [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-inter
 
 ## definition
 
-**F:** Definiere: Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5)
+**F:** Definiere: Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4, 5](https://www.gesetze-im-internet.de/markeng/__125b.html))
 
 **A:** Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html) die ernsthafte Benutzung in der Union nach [Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001). Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
 
@@ -2106,7 +2338,7 @@ Rechtsprechung: EuGH Leno Merken/Hagelkruis (ONEL/OMEL) (C-149/11); EuGH Ansul/A
 
 Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stelle der Benutzung nach [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html) die ernsthafte Benutzung in der Union nach [Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001). Die Grenzen der Mitgliedstaaten bleiben außer Betracht; Benutzung in einem Mitgliedstaat kann genügen, wenn sie nach Markt, Waren und Umfang geeignet ist, Marktanteile in der Union zu halten oder zu gewinnen (Leno Merken).
 
-**A:** Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5)
+**A:** Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4, 5](https://www.gesetze-im-internet.de/markeng/__125b.html))
 
 *Tags: Begriff, Umkehr, EU- und IR-Marken*
 
@@ -2114,7 +2346,7 @@ Bei Widerspruch oder Nichtigkeitsantrag aus einer Unionsmarke tritt an die Stell
 
 ## definition
 
-**F:** Definiere: Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV)
+**F:** Definiere: Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), [Art. 123 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001))
 
 **A:** Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben ([Art. 124 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); in Deutschland die von den Ländern bestimmten Landgerichte, [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html)). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
 
@@ -2132,7 +2364,7 @@ Rechtsprechung: EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09); EuG
 
 Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengerichten zu erheben ([Art. 124 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); in Deutschland die von den Ländern bestimmten Landgerichte, [§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html)). International zuständig ist primär das Gericht des Beklagtensitzes (Art. 125 Abs. 1-4) mit unionsweiter Kognition; wahlweise das Gericht des Handlungsorts (Art. 125 Abs. 5), dann beschränkt auf Handlungen in diesem Mitgliedstaat (Art. 126 Abs. 2).
 
-**A:** Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV)
+**A:** Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), [Art. 123 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001))
 
 *Tags: Begriff, Umkehr, EU- und IR-Marken*
 
@@ -2140,9 +2372,9 @@ Verletzungsklagen aus Unionsmarken sind ausschließlich vor den Unionsmarkengeri
 
 ## definition
 
-**F:** Definiere: Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html))
+**F:** Definiere: Seniorität und Umwandlung ([Art. 39, 40, 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html))
 
-**A:** Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
+**A:** Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden ([Art. 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
 
 Normen: [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html), [§ 125 MarkenG](https://www.gesetze-im-internet.de/markeng/__125.html)
 
@@ -2154,9 +2386,9 @@ Normen: [Art. 6 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CE
 
 **F:** Welcher Begriff wird so definiert?
 
-Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden (Art. 139 ff. UMV, [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
+Seniorität: Der Inhaber einer identischen älteren nationalen Marke kann deren Zeitrang für die Unionsmarke in Anspruch nehmen; lässt er die nationale Marke dann fallen, gelten ihre Rechte in dem Mitgliedstaat als fortbestehend ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)). Umwandlung: Scheitert die Unionsmarke, kann sie unter Wahrung ihres Zeitrangs in nationale Anmeldungen umgewandelt werden ([Art. 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)).
 
-**A:** Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html))
+**A:** Seniorität und Umwandlung ([Art. 39, 40, 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html))
 
 *Tags: Begriff, Umkehr, EU- und IR-Marken*
 
@@ -2214,7 +2446,7 @@ Das DPMA prüft die auf Deutschland erstreckte IR-Marke auf absolute Schutzhinde
 
 ## definition
 
-**F:** Definiere: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117)
+**F:** Definiere: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html))
 
 **A:** Für IR-Marken tritt an die Stelle des Eintragungstags ([§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html)) einer der in [§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html) bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.
 
@@ -2230,7 +2462,7 @@ Normen: [Art. 16 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=C
 
 Für IR-Marken tritt an die Stelle des Eintragungstags ([§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html), [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html)) einer der in [§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html) bezeichneten Tage: der Ablauf der Schutzverweigerungsfrist nach Art. 5 Abs. 2 PMMA oder – bei zunächst verweigertem Schutz – der Tag der rechtskräftigen Schutzgewährung. Ab dann läuft die fünfjährige Benutzungsschonfrist.
 
-**A:** Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117)
+**A:** Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html))
 
 *Tags: Begriff, Umkehr, EU- und IR-Marken*
 
@@ -2294,7 +2526,7 @@ Nationale Gerichte und das DPMA müssen das MarkenG so auslegen, dass Wortlaut u
 
 **A:** Der Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.
 
-Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [§ 14a](https://www.gesetze-im-internet.de/markeng/__14a.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
+Normen: [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436), [Art. 16 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14a](https://www.gesetze-im-internet.de/markeng/__14a.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
 
 *Tags: Begriff, Verletzung*
 
@@ -2590,7 +2822,7 @@ Ein Rechtsbehelf ist nur zulässig, wenn der Rechtsbehelfsführer durch die ange
 
 **F:** Definiere: Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html))
 
-**A:** Gegen Beschlüsse der Beschwerdesenate des BPatG findet die Rechtsbeschwerde zum BGH statt, wenn der Senat sie wegen grundsätzlicher Bedeutung oder zur Rechtsfortbildung und Sicherung einheitlicher Rechtsprechung zugelassen hat ([§ 83 Abs. 1](https://www.gesetze-im-internet.de/markeng/__83.html), 2). Ohne Zulassung ist sie nur bei den sechs absoluten Verfahrensmängeln des [§ 83 Abs. 3](https://www.gesetze-im-internet.de/markeng/__83.html) statthaft.
+**A:** Gegen Beschlüsse der Beschwerdesenate des BPatG findet die Rechtsbeschwerde zum BGH statt, wenn der Senat sie wegen grundsätzlicher Bedeutung oder zur Rechtsfortbildung und Sicherung einheitlicher Rechtsprechung zugelassen hat ([§ 83 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__83.html)). Ohne Zulassung ist sie nur bei den sechs absoluten Verfahrensmängeln des [§ 83 Abs. 3](https://www.gesetze-im-internet.de/markeng/__83.html) statthaft.
 
 Normen: [§ 83](https://www.gesetze-im-internet.de/markeng/__83.html), [§ 84](https://www.gesetze-im-internet.de/markeng/__84.html), [§ 85](https://www.gesetze-im-internet.de/markeng/__85.html), [§ 88 MarkenG](https://www.gesetze-im-internet.de/markeng/__88.html)
 
@@ -2604,7 +2836,7 @@ Rechtsprechung: BGH Silver Horse/Power Horse (I ZB 65/22)
 
 **F:** Welcher Begriff wird so definiert?
 
-Gegen Beschlüsse der Beschwerdesenate des BPatG findet die Rechtsbeschwerde zum BGH statt, wenn der Senat sie wegen grundsätzlicher Bedeutung oder zur Rechtsfortbildung und Sicherung einheitlicher Rechtsprechung zugelassen hat ([§ 83 Abs. 1](https://www.gesetze-im-internet.de/markeng/__83.html), 2). Ohne Zulassung ist sie nur bei den sechs absoluten Verfahrensmängeln des [§ 83 Abs. 3](https://www.gesetze-im-internet.de/markeng/__83.html) statthaft.
+Gegen Beschlüsse der Beschwerdesenate des BPatG findet die Rechtsbeschwerde zum BGH statt, wenn der Senat sie wegen grundsätzlicher Bedeutung oder zur Rechtsfortbildung und Sicherung einheitlicher Rechtsprechung zugelassen hat ([§ 83 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__83.html)). Ohne Zulassung ist sie nur bei den sechs absoluten Verfahrensmängeln des [§ 83 Abs. 3](https://www.gesetze-im-internet.de/markeng/__83.html) statthaft.
 
 **A:** Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html))
 
@@ -2690,7 +2922,7 @@ Zustellungen erfolgen nach dem Verwaltungszustellungsgesetz mit den Maßgaben de
 
 ## definition
 
-**F:** Definiere: Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB)
+**F:** Definiere: Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187 ff. BGB](https://www.gesetze-im-internet.de/bgb/__187.html))
 
 **A:** Verfahrensfristen werden nach den §§ [187](https://www.gesetze-im-internet.de/bgb/__187.html) bis [193](https://www.gesetze-im-internet.de/bgb/__193.html) BGB berechnet, die über [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html) in Verbindung mit [§ 222 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html) gelten: Der Ereignistag zählt nicht mit ([§ 187 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__187.html)); Wochen-, Monats- und Jahresfristen enden mit Ablauf des Tages, der dem Ereignistag entspricht ([§ 188 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__188.html)); fällt das Ende auf einen Samstag, Sonntag oder Feiertag, tritt der nächste Werktag an seine Stelle ([§ 193 BGB](https://www.gesetze-im-internet.de/bgb/__193.html), [§ 222 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html)).
 
@@ -2706,7 +2938,7 @@ Normen: [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html), [�
 
 Verfahrensfristen werden nach den §§ [187](https://www.gesetze-im-internet.de/bgb/__187.html) bis [193](https://www.gesetze-im-internet.de/bgb/__193.html) BGB berechnet, die über [§ 82 Abs. 1](https://www.gesetze-im-internet.de/markeng/__82.html) in Verbindung mit [§ 222 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html) gelten: Der Ereignistag zählt nicht mit ([§ 187 Abs. 1 BGB](https://www.gesetze-im-internet.de/bgb/__187.html)); Wochen-, Monats- und Jahresfristen enden mit Ablauf des Tages, der dem Ereignistag entspricht ([§ 188 Abs. 2 BGB](https://www.gesetze-im-internet.de/bgb/__188.html)); fällt das Ende auf einen Samstag, Sonntag oder Feiertag, tritt der nächste Werktag an seine Stelle ([§ 193 BGB](https://www.gesetze-im-internet.de/bgb/__193.html), [§ 222 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__222.html)).
 
-**A:** Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB)
+**A:** Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187 ff. BGB](https://www.gesetze-im-internet.de/bgb/__187.html))
 
 *Tags: Begriff, Umkehr, Verfahren*
 
@@ -2844,7 +3076,7 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
 
 ## schema
 
-**F:** Prüfungsschema: Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), 5 MarkenG)
+**F:** Prüfungsschema: Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2, 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html))
 
 **A:** - A. Anspruchsgrundlage
 - B. Schutzfähige Marke des Anspruchstellers
@@ -2987,7 +3219,7 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
 - 3. Verletzungshandlung ([§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html))
 - 4. Alternativ: Bekannte geschäftliche Bezeichnung ([§ 15 Abs. 3](https://www.gesetze-im-internet.de/markeng/__15.html))
 - 5. Schranken
-- 6. Rechtsfolgen ([§ 15 Abs. 4](https://www.gesetze-im-internet.de/markeng/__15.html)-6)
+- 6. Rechtsfolgen ([§ 15 Abs. 4-6](https://www.gesetze-im-internet.de/markeng/__15.html))
 
 *Tags: Prüfungsschema, Geschäftliche Bezeichnungen*
 
@@ -3037,7 +3269,7 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
 
 ---
 
-**F:** Prüfungsschema: Relative Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3 MarkenG)
+**F:** Prüfungsschema: Relative Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1-3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html))
 
 **A:** - 1. Verfahrensrahmen
 - 2. Ältere Marke mit besserem Zeitrang
@@ -3059,7 +3291,7 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
 
 ---
 
-**F:** Prüfungsschema: Vorgehen aus einer Unionsmarke in Deutschland (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff. MarkenG)
+**F:** Prüfungsschema: Vorgehen aus einer Unionsmarke in Deutschland (UMV, [§ 125b ff. MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html))
 
 **A:** - 1. Rechtsgrundlagen
 - 2. Verletzungsklage aus der Unionsmarke
@@ -3091,7 +3323,7 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
   - a) Verletzungsklage
   - b) Widerspruch und Nichtigkeitsantrag gegen deutsche Marken ([§ 116](https://www.gesetze-im-internet.de/markeng/__116.html))
   - c) IR-Marke mit Benennung EU
-- 5. Benutzungsschonfrist ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117)
+- 5. Benutzungsschonfrist ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html))
 
 *Tags: Prüfungsschema, EU- und IR-Marken*
 
@@ -3111,6 +3343,27 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
 - 6. Übergangsrecht beachten
 
 *Tags: Prüfungsschema, EU- und IR-Marken*
+
+---
+
+**F:** Prüfungsschema: Durchsetzung einer Markenverletzung: Ansprüche und Verfahren nach der Durchsetzungsrichtlinie
+
+**A:** - 1. Verletzung und Aktivlegitimation
+- 2. Aufklärung vor und neben dem Prozess
+  - a) Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html); Art. 6, 7)
+  - b) Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html); Art. 8)
+  - c) Sicherung des Schadensersatzes ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html); Art. 9 Abs. 2)
+- 3. Eilrechtsschutz (Art. 9)
+- 4. Ansprüche in der Hauptsache
+  - a) Unterlassung ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html); Art. 11 S. 1, 2)
+  - b) Vernichtung, Rückruf, Entfernen ([§ 18](https://www.gesetze-im-internet.de/markeng/__18.html); Art. 10)
+  - c) Schadensersatz ([§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html); Art. 13)
+  - d) Urteilsbekanntmachung ([§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html); Art. 15)
+- 5. Anordnungen gegen Mittelspersonen (Art. 11 S. 3)
+- 6. Kosten (Art. 14)
+- 7. Querschnitt: Verhältnismäßigkeit und Missbrauch (Art. 3)
+
+*Tags: Prüfungsschema, Verletzung*
 
 ---
 
@@ -3147,7 +3400,7 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
   - Nr. 1 – ältere angemeldete oder eingetragene Marke ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html))
   - Nr. 2 – notorisch bekannte Marke ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html))
   - Nr. 3 – Agentenmarke ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html))
-  - Nr. 4 – Benutzungsmarke und geschäftliche Bezeichnung ([§§ 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__4.html), 5, 12)
+  - Nr. 4 – Benutzungsmarke und geschäftliche Bezeichnung ([§§ 4 Nr. 2, 5, 12](https://www.gesetze-im-internet.de/markeng/__4.html))
   - Nr. 5 – Ursprungsbezeichnung oder geografische Angabe ([§ 13 Abs. 2 Nr. 5](https://www.gesetze-im-internet.de/markeng/__13.html))
 - 5. Form und Inhalt
 - 6. Widerspruchsfrist
@@ -3196,7 +3449,7 @@ Wo das Gesetz Glaubhaftmachung genügen lässt (etwa [§ 43 Abs. 1](https://www.
 ## schema_step
 
 **F:** B. Schutzfähige Marke des Anspruchstellers
-(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), 5 MarkenG))
+(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2, 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3209,7 +3462,7 @@ Welche Punkte sind hier zu prüfen?
 ---
 
 **F:** C. Verletzungshandlung ([§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html))
-(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), 5 MarkenG))
+(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2, 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3227,7 +3480,7 @@ Welche Punkte sind hier zu prüfen?
 ---
 
 **F:** 5. Kollisionstatbestand
-(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), 5 MarkenG))
+(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2, 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3240,7 +3493,7 @@ Welche Punkte sind hier zu prüfen?
 ---
 
 **F:** D. Keine Schranken / Einwendungen
-(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), 5 MarkenG))
+(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2, 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3256,7 +3509,7 @@ Welche Punkte sind hier zu prüfen?
 ---
 
 **F:** F. Weitere Ansprüche
-(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2](https://www.gesetze-im-internet.de/markeng/__14.html), 5 MarkenG))
+(Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2, 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3396,7 +3649,7 @@ Welche Punkte sind hier zu prüfen?
 ---
 
 **F:** 4. Kollisionstatbestand
-(Relative Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3 MarkenG))
+(Relative Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1-3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3415,7 +3668,7 @@ Welche Punkte sind hier zu prüfen?
 ---
 
 **F:** Nr. 3 – Bekannte ältere Marke
-(Relative Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3 MarkenG))
+(Relative Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1-3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3433,7 +3686,7 @@ Spiegelbild des [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/
 ---
 
 **F:** 2. Verletzungsklage aus der Unionsmarke
-(Vorgehen aus einer Unionsmarke in Deutschland (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff. MarkenG))
+(Vorgehen aus einer Unionsmarke in Deutschland (UMV, [§ 125b ff. MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3448,7 +3701,7 @@ Welche Punkte sind hier zu prüfen?
 ---
 
 **F:** 3. Angriff auf eine deutsche Marke aus der Unionsmarke
-(Vorgehen aus einer Unionsmarke in Deutschland (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff. MarkenG))
+(Vorgehen aus einer Unionsmarke in Deutschland (UMV, [§ 125b ff. MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html)))
 
 Welche Punkte sind hier zu prüfen?
 
@@ -3500,6 +3753,33 @@ Welche Punkte sind hier zu prüfen?
 
 ---
 
+**F:** 2. Aufklärung vor und neben dem Prozess
+(Durchsetzung einer Markenverletzung: Ansprüche und Verfahren nach der Durchsetzungsrichtlinie)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html); Art. 6, 7)
+- b) Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html); Art. 8)
+- c) Sicherung des Schadensersatzes ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html); Art. 9 Abs. 2)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 4. Ansprüche in der Hauptsache
+(Durchsetzung einer Markenverletzung: Ansprüche und Verfahren nach der Durchsetzungsrichtlinie)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - a) Unterlassung ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html); Art. 11 S. 1, 2)
+- b) Vernichtung, Rückruf, Entfernen ([§ 18](https://www.gesetze-im-internet.de/markeng/__18.html); Art. 10)
+- c) Schadensersatz ([§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html); Art. 13)
+- d) Urteilsbekanntmachung ([§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html); Art. 15)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
 **F:** D. Zulässigkeit
 (Aufbau der NS-Klausur (Patentanwaltsprüfung))
 
@@ -3542,7 +3822,7 @@ Welche Punkte sind hier zu prüfen?
 **A:** - Nr. 1 – ältere angemeldete oder eingetragene Marke ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html))
 - Nr. 2 – notorisch bekannte Marke ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html))
 - Nr. 3 – Agentenmarke ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html))
-- Nr. 4 – Benutzungsmarke und geschäftliche Bezeichnung ([§§ 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__4.html), 5, 12)
+- Nr. 4 – Benutzungsmarke und geschäftliche Bezeichnung ([§§ 4 Nr. 2, 5, 12](https://www.gesetze-im-internet.de/markeng/__4.html))
 - Nr. 5 – Ursprungsbezeichnung oder geografische Angabe ([§ 13 Abs. 2 Nr. 5](https://www.gesetze-im-internet.de/markeng/__13.html))
 
 Nur der Inhaber eines der in [§ 42 Abs. 2](https://www.gesetze-im-internet.de/markeng/__42.html) genannten Rechte:
@@ -3634,7 +3914,7 @@ Merksatz: [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html) = Türsteh
 (Verkehrsgeltung vs. Verkehrsdurchsetzung vs. Bekanntheit vs. notorische Bekanntheit)
 
 **A:** • Norm — Verkehrsgeltung: [§ 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__4.html) | Verkehrsdurchsetzung: [§ 8 Abs. 3](https://www.gesetze-im-internet.de/markeng/__8.html) | Bekannte Marke: [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) | Notorische Bekanntheit: [§ 4 Nr. 3](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 10](https://www.gesetze-im-internet.de/markeng/__10.html) (Art. 6bis PVÜ)
-• Funktion — Verkehrsgeltung: Entstehung einer Benutzungsmarke ohne Eintragung | Verkehrsdurchsetzung: Überwindung der Schutzhindernisse [§ 8 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__8.html)-3 bei Eintragung | Bekannte Marke: Erweiterter Schutzbereich über Verwechslungsgefahr hinaus | Notorische Bekanntheit: Entstehung von Markenschutz ohne Eintragung und Inlandsbenutzung
+• Funktion — Verkehrsgeltung: Entstehung einer Benutzungsmarke ohne Eintragung | Verkehrsdurchsetzung: Überwindung der Schutzhindernisse [§ 8 Abs. 2 Nr. 1-3](https://www.gesetze-im-internet.de/markeng/__8.html) bei Eintragung | Bekannte Marke: Erweiterter Schutzbereich über Verwechslungsgefahr hinaus | Notorische Bekanntheit: Entstehung von Markenschutz ohne Eintragung und Inlandsbenutzung
 • Bezugsgröße — Verkehrsgeltung: Beteiligte Verkehrskreise (kann regional beschränkt sein) | Verkehrsdurchsetzung: Beteiligte Verkehrskreise, bundesweit | Bekannte Marke: Bedeutender Teil des von den Waren angesprochenen Publikums, wesentlicher Teil des Inlands | Notorische Bekanntheit: Allgemeine Bekanntheit im Inland (auch außerhalb der Fachkreise)
 • Richtwert — Verkehrsgeltung: Bei unterscheidungskräftigen Zeichen ca. 20-25 %; bei beschreibenden wie Verkehrsdurchsetzung | Verkehrsdurchsetzung: Regelmäßig über 50 % Zuordnung; bei glatt beschreibenden Angaben mehr | Bekannte Marke: Keine feste Quote (General Motors); Faktoren Marktanteil, Intensität, Werbung | Notorische Bekanntheit: Sehr hoher Bekanntheitsgrad; praktisch selten
 
@@ -3645,7 +3925,7 @@ Merksatz: Verkehrsgeltung schafft die Marke, Verkehrsdurchsetzung öffnet das Re
 ---
 
 **F:** Welche Voraussetzungen haben die drei Kollisionstatbestände des [§ 14 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)?
-(Doppelidentität vs. Verwechslungsgefahr vs. Bekanntheitsschutz ([§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html)-3))
+(Doppelidentität vs. Verwechslungsgefahr vs. Bekanntheitsschutz ([§ 14 Abs. 2 Nr. 1-3](https://www.gesetze-im-internet.de/markeng/__14.html)))
 
 **A:** • Zeichen — Nr. 1 Doppelidentität: Identisch | Nr. 2 Verwechslungsgefahr: Identisch oder ähnlich | Nr. 3 Bekanntheitsschutz: Identisch oder ähnlich
 • Waren/Dienstleistungen — Nr. 1 Doppelidentität: Identisch | Nr. 2 Verwechslungsgefahr: Identisch oder ähnlich | Nr. 3 Bekanntheitsschutz: Beliebig (auch unähnlich; auch identisch/ähnlich nach OTTO Cap)
@@ -3736,10 +4016,10 @@ Merksatz: Verfall = später kaputt (ex nunc). Nichtigkeit = von Anfang an falsch
 (Marke vs. Unternehmenskennzeichen vs. Werktitel)
 
 **A:** • Kennzeichnungsgegenstand — Marke: Waren/Dienstleistungen (betriebliche Herkunft) | Unternehmenskennzeichen: Unternehmen/Geschäftsbetrieb | Werktitel: Werk (Individualisierung des geistigen Produkts)
-• Norm — Marke: §§ [3](https://www.gesetze-im-internet.de/markeng/__3.html), [4](https://www.gesetze-im-internet.de/markeng/__4.html), [14](https://www.gesetze-im-internet.de/markeng/__14.html) | Unternehmenskennzeichen: [§§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html), 15 | Werktitel: [§§ 5 Abs. 3](https://www.gesetze-im-internet.de/markeng/__5.html), 15
+• Norm — Marke: §§ [3](https://www.gesetze-im-internet.de/markeng/__3.html), [4](https://www.gesetze-im-internet.de/markeng/__4.html), [14](https://www.gesetze-im-internet.de/markeng/__14.html) | Unternehmenskennzeichen: [§§ 5 Abs. 2, 15](https://www.gesetze-im-internet.de/markeng/__5.html) | Werktitel: [§§ 5 Abs. 3, 15](https://www.gesetze-im-internet.de/markeng/__5.html)
 • Entstehung — Marke: Eintragung, Verkehrsgeltung, Notorietät ([§ 4](https://www.gesetze-im-internet.de/markeng/__4.html)) | Unternehmenskennzeichen: Benutzungsaufnahme (bei originärer Unterscheidungskraft), sonst Verkehrsgeltung | Werktitel: Benutzungsaufnahme/Erscheinen (Titelschutzanzeige)
 • Unterscheidungskraft — Marke: Konkret für Waren; großzügig | Unternehmenskennzeichen: Namensfunktion; beschreibende Angaben nur mit Verkehrsgeltung | Werktitel: Abgesenkter Maßstab bei Verkehrsgewöhnung (Zeitschriften), nicht bei Apps/Domains ohne Gewöhnung (wetter.de)
-• Verletzungstatbestand — Marke: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html)-3 | Unternehmenskennzeichen: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html) (Verwechslungsgefahr), Abs. 3 (bekannt) | Werktitel: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html), Abs. 3
+• Verletzungstatbestand — Marke: [§ 14 Abs. 2 Nr. 1-3](https://www.gesetze-im-internet.de/markeng/__14.html) | Unternehmenskennzeichen: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html) (Verwechslungsgefahr), Abs. 3 (bekannt) | Werktitel: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html), Abs. 3
 • Verwechslungsgefahr — Marke: Warenähnlichkeit × Kennzeichnungskraft × Zeichenähnlichkeit | Unternehmenskennzeichen: Branchennähe × Kennzeichnungskraft × Zeichenähnlichkeit | Werktitel: Grundsätzlich nur unmittelbare Werkverwechslung; weiterer Sinn nur bei bekannten Titeln
 
 Merksatz: Marke → Produkt, Unternehmenskennzeichen → Firma, Werktitel → Werk.
@@ -3800,7 +4080,7 @@ Merksatz: Störer haften nur auf Unterlassung und nur nach Hinweis.
 • Prüfungsgegenstand — [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) (relatives Schutzhindernis): Hypothetische Benutzung der jüngeren Marke für die eingetragenen Waren nach Registerlage ('würde') | [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html) (Verletzungstatbestand): Konkrete, tatsächliche Benutzungshandlung in ihrem Marktumfeld
 • Zeitpunkt der Bekanntheit — [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) (relatives Schutzhindernis): Anmelde-/Prioritätstag der jüngeren Marke ([§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html)) und Fortbestehen bei der Entscheidung | [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html) (Verletzungstatbestand): Zeitpunkt der Verletzungshandlung; gegen eingetragene jüngere Marke zusätzlich deren Prioritätstag ([§ 22 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__22.html))
 • Beweismaß — [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) (relatives Schutzhindernis): Widerspruch: Glaubhaftmachung mit präsenten Beweismitteln; Nichtigkeit: Beweis / Amtsermittlung | [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html) (Verletzungstatbestand): Voller Beweis nach ZPO (Umfragen, Marktdaten)
-• Rechtsfolge — [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) (relatives Schutzhindernis): Löschung (ex tunc, [§ 52 Abs. 2](https://www.gesetze-im-internet.de/markeng/__52.html)) ganz oder teilweise | [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html) (Verletzungstatbestand): Unterlassung, Schadensersatz, Vernichtung, Auskunft ([§§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)-7, 18, 19)
+• Rechtsfolge — [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) (relatives Schutzhindernis): Löschung (ex tunc, [§ 52 Abs. 2](https://www.gesetze-im-internet.de/markeng/__52.html)) ganz oder teilweise | [§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html) (Verletzungstatbestand): Unterlassung, Schadensersatz, Vernichtung, Auskunft ([§§ 14 Abs. 5-7, 18, 19](https://www.gesetze-im-internet.de/markeng/__14.html))
 • Gemeinsam — [§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html) (relatives Schutzhindernis): Gleiche Voraussetzungen: Bekanntheit, Zeichenähnlichkeit, gedankliche Verknüpfung, vier Eingriffsalternativen, Unlauterkeit ohne rechtfertigenden Grund; seit MaMoG beide auch bei identischen/ähnlichen Waren
 
 Merksatz: [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html) fragt: Darf die Marke im Register stehen? [§ 14](https://www.gesetze-im-internet.de/markeng/__14.html) fragt: Darf das Zeichen benutzt werden? Gleicher Tatbestand, andere Perspektive und anderer Zeitpunkt.
@@ -3827,17 +4107,17 @@ Merksatz: Unionsmarke: bekannt in der Union reicht für den Tatbestand, aber ohn
 **F:** Welche Normen gelten, wenn aus einer deutschen Marke, einer Unionsmarke oder einer IR-Marke vorgegangen wird?
 (Deutsche Marke vs. Unionsmarke vs. IR-Marke)
 
-**A:** • Rechtsgrundlage — Deutsche Marke: MarkenG | Unionsmarke: UMV (VO (EU) 2017/1001) + [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff. MarkenG | IR-Marke (Benennung DE): PMMA/MMA + §§ [107](https://www.gesetze-im-internet.de/markeng/__107.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html) MarkenG (v.a. §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[117](https://www.gesetze-im-internet.de/markeng/__117.html) über [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html))
+**A:** • Rechtsgrundlage — Deutsche Marke: MarkenG | Unionsmarke: UMV (VO (EU) 2017/1001) + [§ 125b ff. MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html) | IR-Marke (Benennung DE): PMMA/MMA + §§ [107](https://www.gesetze-im-internet.de/markeng/__107.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html) MarkenG (v.a. §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[117](https://www.gesetze-im-internet.de/markeng/__117.html) über [§ 124](https://www.gesetze-im-internet.de/markeng/__124.html))
 • Amt / Entstehung — Deutsche Marke: DPMA, Eintragung ([§ 4 Nr. 1](https://www.gesetze-im-internet.de/markeng/__4.html)) | Unionsmarke: EUIPO, Eintragung mit einheitlicher Wirkung in der EU | IR-Marke (Benennung DE): WIPO auf Basis einer Basismarke; Schutzerstreckung auf DE durch Benennung
 • Zeitrang — Deutsche Marke: Anmeldetag ([§ 6 Abs. 2](https://www.gesetze-im-internet.de/markeng/__6.html), [§ 33](https://www.gesetze-im-internet.de/markeng/__33.html)) | Unionsmarke: Anmeldetag beim EUIPO; Seniorität nationaler Marken ([Art. 39, 40 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) | IR-Marke (Benennung DE): Tag der internationalen Registrierung bzw. nachträglichen Schutzerstreckung ([§ 112](https://www.gesetze-im-internet.de/markeng/__112.html))
-• Verletzungstatbestand — Deutsche Marke: [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html)-3 | Unionsmarke: Art. 9 Abs. 2 lit. a-c UMV | IR-Marke (Benennung DE): [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html)-3 (Wirkung wie deutsche Marke, [§ 112](https://www.gesetze-im-internet.de/markeng/__112.html))
-• Annexansprüche — Deutsche Marke: [§§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)-7, 18-19c | Unionsmarke: [Art. 130 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) + [§§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), 7, 18-19c über [§ 125b Nr. 2](https://www.gesetze-im-internet.de/markeng/__125b.html) | IR-Marke (Benennung DE): [§§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)-7, 18-19c; Einrede [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html) mit [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html)
-• Gericht — Deutsche Marke: Landgericht, Kennzeichenstreitsache ([§ 140](https://www.gesetze-im-internet.de/markeng/__140.html)) | Unionsmarke: Unionsmarkengericht ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV); Verbot grundsätzlich unionsweit | IR-Marke (Benennung DE): Landgericht ([§ 140](https://www.gesetze-im-internet.de/markeng/__140.html))
+• Verletzungstatbestand — Deutsche Marke: [§ 14 Abs. 2 Nr. 1-3](https://www.gesetze-im-internet.de/markeng/__14.html) | Unionsmarke: [Art. 9 Abs. 2 lit. a-c UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) | IR-Marke (Benennung DE): [§ 14 Abs. 2 Nr. 1-3](https://www.gesetze-im-internet.de/markeng/__14.html) (Wirkung wie deutsche Marke, [§ 112](https://www.gesetze-im-internet.de/markeng/__112.html))
+• Annexansprüche — Deutsche Marke: [§§ 14 Abs. 5-7, 18-19c](https://www.gesetze-im-internet.de/markeng/__14.html) | Unionsmarke: [Art. 130 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) + [§§ 14 Abs. 6, 7, 18-19c](https://www.gesetze-im-internet.de/markeng/__14.html) über [§ 125b Nr. 2](https://www.gesetze-im-internet.de/markeng/__125b.html) | IR-Marke (Benennung DE): [§§ 14 Abs. 5-7, 18-19c](https://www.gesetze-im-internet.de/markeng/__14.html); Einrede [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html) mit [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html)
+• Gericht — Deutsche Marke: Landgericht, Kennzeichenstreitsache ([§ 140](https://www.gesetze-im-internet.de/markeng/__140.html)) | Unionsmarke: Unionsmarkengericht ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), [Art. 123 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)); Verbot grundsätzlich unionsweit | IR-Marke (Benennung DE): Landgericht ([§ 140](https://www.gesetze-im-internet.de/markeng/__140.html))
 • Bekanntheit — Deutsche Marke: Im Inland | Unionsmarke: In der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html); PAGO, Iron & Smith) | IR-Marke (Benennung DE): Im Inland
-• Rechtserhaltende Benutzung — Deutsche Marke: [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html): im Inland | Unionsmarke: [Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001): in der Union, Grenzen der Mitgliedstaaten unbeachtlich (Leno Merken); [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5 | IR-Marke (Benennung DE): [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html): im Inland
+• Rechtserhaltende Benutzung — Deutsche Marke: [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html): im Inland | Unionsmarke: [Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001): in der Union, Grenzen der Mitgliedstaaten unbeachtlich (Leno Merken); [§ 125b Nr. 4, 5](https://www.gesetze-im-internet.de/markeng/__125b.html) | IR-Marke (Benennung DE): [§ 26](https://www.gesetze-im-internet.de/markeng/__26.html): im Inland
 • Beginn der Benutzungsschonfrist — Deutsche Marke: Eintragung ([§ 26 Abs. 5](https://www.gesetze-im-internet.de/markeng/__26.html): ggf. Ende des Widerspruchsverfahrens) | Unionsmarke: Eintragung der Unionsmarke ([Art. 18 Abs. 1 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) | IR-Marke (Benennung DE): Ablauf der Schutzverweigerungsfrist oder rechtskräftige Schutzgewährung ([§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), §§ [116](https://www.gesetze-im-internet.de/markeng/__116.html), [117](https://www.gesetze-im-internet.de/markeng/__117.html))
 • Angriff auf die Marke — Deutsche Marke: Widerspruch [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), Verfall [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html), Nichtigkeit §§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html) | Unionsmarke: Widerspruch Art. 46/Art. 8, Verfall Art. 58, Nichtigkeit [Art. 59, 60 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) (EUIPO) oder Widerklage Art. 128 | IR-Marke (Benennung DE): Schutzverweigerung [§ 113](https://www.gesetze-im-internet.de/markeng/__113.html), Widerspruch [§ 114](https://www.gesetze-im-internet.de/markeng/__114.html), Schutzentziehung [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html); 'central attack' auf die Basismarke (Art. 6 PMMA)
-• Besonderheiten — Deutsche Marke: – | Unionsmarke: Umwandlung in nationale Anmeldungen (Art. 139 ff. UMV, [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)); Koexistenz mit nationalen Marken | IR-Marke (Benennung DE): Benennung EU = Unionsmarke (Art. 189 ff. UMV); Umwandlung [§ 125](https://www.gesetze-im-internet.de/markeng/__125.html)
+• Besonderheiten — Deutsche Marke: – | Unionsmarke: Umwandlung in nationale Anmeldungen ([Art. 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125d](https://www.gesetze-im-internet.de/markeng/__125d.html)); Koexistenz mit nationalen Marken | IR-Marke (Benennung DE): Benennung EU = Unionsmarke ([Art. 189 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)); Umwandlung [§ 125](https://www.gesetze-im-internet.de/markeng/__125.html)
 
 Merksatz: Deutsche Marke: MarkenG pur. Unionsmarke: UMV plus Brücke [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html). IR-Marke: wie deutsche Marke ([§ 112](https://www.gesetze-im-internet.de/markeng/__112.html)), aber eigene Fristen ([§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html)) und Schutzverweigerung statt Löschung.
 
@@ -3853,7 +4133,7 @@ Merksatz: Deutsche Marke: MarkenG pur. Unionsmarke: UMV plus Brücke [§ 125b](h
 • Relative Schutzhindernisse — MarkenRL: Art. 5 | MarkenG: §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html) bis [13](https://www.gesetze-im-internet.de/markeng/__13.html), [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html), [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) | Änderung durch das MaMoG 2019: Bekanntheitsschutz im Register zwingend und für alle Waren ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html))
 • Zeitpunkt / Zwischenrecht — MarkenRL: Art. 8, 18 | MarkenG: [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html), [§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), Abs. 4 | Änderung durch das MaMoG 2019: Kennzeichnungskraft und Bekanntheit der älteren Marke werden zum Prioritätstag der jüngeren beurteilt
 • Verwirkung durch Duldung — MarkenRL: Art. 9 | MarkenG: [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 51 Abs. 2](https://www.gesetze-im-internet.de/markeng/__51.html) | Änderung durch das MaMoG 2019: Unverändert (bereits RL 2008/95)
-• Rechte aus der Marke — MarkenRL: Art. 10 | MarkenG: [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html) bis 3, [§ 15](https://www.gesetze-im-internet.de/markeng/__15.html) | Änderung durch das MaMoG 2019: Benutzung als Unternehmensbezeichnung ausdrücklich Verletzungshandlung ([§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html)); vergleichende Werbung (Nr. 7)
+• Rechte aus der Marke — MarkenRL: Art. 10 | MarkenG: [§ 14 Abs. 1 bis 3](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15](https://www.gesetze-im-internet.de/markeng/__15.html) | Änderung durch das MaMoG 2019: Benutzung als Unternehmensbezeichnung ausdrücklich Verletzungshandlung ([§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html)); vergleichende Werbung (Nr. 7)
 • Transit — MarkenRL: Art. 10 Abs. 4 | MarkenG: [§ 14a](https://www.gesetze-im-internet.de/markeng/__14a.html) | Änderung durch das MaMoG 2019: Neu: Verbot der Durchfuhr gefälschter Ware unter zollamtlicher Überwachung
 • Vorbereitungshandlungen — MarkenRL: Art. 11 | MarkenG: [§ 14 Abs. 4](https://www.gesetze-im-internet.de/markeng/__14.html) | Änderung durch das MaMoG 2019: Erweitert um Sicherheits- und Echtheitshinweise
 • Nachschlagewerke — MarkenRL: Art. 12 | MarkenG: [§ 16](https://www.gesetze-im-internet.de/markeng/__16.html) | Änderung durch das MaMoG 2019: Unverändert
@@ -3864,7 +4144,7 @@ Merksatz: Deutsche Marke: MarkenG pur. Unionsmarke: UMV plus Brücke [§ 125b](h
 • Nichtbenutzungseinrede — MarkenRL: Art. 17, 44, 46 | MarkenG: [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html) | Änderung durch das MaMoG 2019: Fünfjahreszeitraum im Widerspruch bezogen auf den Anmeldetag der jüngeren Marke
 • Verfall — MarkenRL: Art. 19 bis 21 | MarkenG: [§ 49](https://www.gesetze-im-internet.de/markeng/__49.html) | Änderung durch das MaMoG 2019: Unverändert
 • Lizenz — MarkenRL: Art. 25 | MarkenG: [§ 30](https://www.gesetze-im-internet.de/markeng/__30.html) | Änderung durch das MaMoG 2019: Unverändert
-• Kollektiv-/Gewährleistungsmarke — MarkenRL: Art. 27 bis 36 | MarkenG: §§ [97](https://www.gesetze-im-internet.de/markeng/__97.html) bis [106](https://www.gesetze-im-internet.de/markeng/__106.html), §§ [106a](https://www.gesetze-im-internet.de/markeng/__106a.html) bis [106h](https://www.gesetze-im-internet.de/markeng/__106h.html) | Änderung durch das MaMoG 2019: Neu: Gewährleistungsmarke ([§§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html) ff.)
+• Kollektiv-/Gewährleistungsmarke — MarkenRL: Art. 27 bis 36 | MarkenG: §§ [97](https://www.gesetze-im-internet.de/markeng/__97.html) bis [106](https://www.gesetze-im-internet.de/markeng/__106.html), §§ [106a](https://www.gesetze-im-internet.de/markeng/__106a.html) bis [106h](https://www.gesetze-im-internet.de/markeng/__106h.html) | Änderung durch das MaMoG 2019: Neu: Gewährleistungsmarke ([§§ 106a ff.](https://www.gesetze-im-internet.de/markeng/__106a.html))
 • Anmeldung / Klassifizierung — MarkenRL: Art. 37 bis 42 | MarkenG: §§ [32](https://www.gesetze-im-internet.de/markeng/__32.html), [33](https://www.gesetze-im-internet.de/markeng/__33.html), [40](https://www.gesetze-im-internet.de/markeng/__40.html), [46](https://www.gesetze-im-internet.de/markeng/__46.html) | Änderung durch das MaMoG 2019: Klarheit des Verzeichnisses, Klassengebühren
 • Widerspruch — MarkenRL: Art. 43 | MarkenG: [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html) | Änderung durch das MaMoG 2019: Widerspruch aus mehreren Rechten; Cooling-off ([§ 42 Abs. 4](https://www.gesetze-im-internet.de/markeng/__42.html))
 • Verfall/Nichtigkeit vor dem Amt — MarkenRL: Art. 45 | MarkenG: [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 54](https://www.gesetze-im-internet.de/markeng/__54.html) | Änderung durch das MaMoG 2019: Neu seit 1.5.2020: vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA; [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) nur noch für Verfall und relative Nichtigkeit
@@ -3872,6 +4152,54 @@ Merksatz: Deutsche Marke: MarkenG pur. Unionsmarke: UMV plus Brücke [§ 125b](h
 • Schutzdauer — MarkenRL: Art. 48, 49 | MarkenG: [§ 47](https://www.gesetze-im-internet.de/markeng/__47.html) | Änderung durch das MaMoG 2019: Fristen laufen tagesgenau ab dem Anmeldetag
 
 Merksatz: MarkenRL = Bauplan, MarkenG = Gebäude: Bei jeder Norm des MarkenG lohnt der Blick auf den zugehörigen Artikel, weil der EuGH das letzte Wort zur Auslegung hat.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welcher der drei Aufklärungsansprüche der Durchsetzungsrichtlinie passt zu welcher Situation?
+(Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)) vs. Vorlage/Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)) vs. Sicherung ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)))
+
+**A:** • Richtlinie — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): Art. 8 | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): Art. 6, 7 | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): Art. 9 Abs. 2
+• Zweck — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): Vertriebskette aufdecken, Schaden beziffern | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): Verletzung nachweisen (Beweismittel beim Gegner) | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): Vollstreckung des Schadensersatzes sichern
+• Gegner — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): Verletzer (Abs. 1); Dritte in der Kette (Abs. 2) | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): vermeintlicher Verletzer | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): Verletzer
+• Voraussetzung — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): Verletzung nach §§ [14](https://www.gesetze-im-internet.de/markeng/__14.html), [15](https://www.gesetze-im-internet.de/markeng/__15.html), [17](https://www.gesetze-im-internet.de/markeng/__17.html); gegen Dritte nur bei offensichtlicher Verletzung oder nach Klageerhebung | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): hinreichende Wahrscheinlichkeit einer Verletzung; Erforderlichkeit | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): Schadensersatzanspruch ([§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 S. 2](https://www.gesetze-im-internet.de/markeng/__17.html)); Erfüllung fraglich
+• Gewerbliches Ausmaß nötig? — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): nur für Dritte (Abs. 2) | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): nur für Bank-, Finanz-, Handelsunterlagen (Abs. 1 S. 2) | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): ja, immer (Abs. 1 S. 1)
+• Gegenstand — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): Namen, Anschriften, Mengen, Preise (Abs. 3) | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): Urkunde, Sache; Bank-, Finanz-, Handelsunterlagen | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): Bank-, Finanz-, Handelsunterlagen oder Zugang dazu
+• Eilverfahren — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): bei offensichtlicher Verletzung (Abs. 7) | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): ja, auch ohne Anhörung (Abs. 3) | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): nur bei offensichtlichem Schadensersatzanspruch (Abs. 3)
+• Geheimnisschutz — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): Zeugnisverweigerungsrechte §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO; Verkehrsdaten nur mit richterlicher Anordnung (Abs. 9) | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): Gericht trifft Schutzmaßnahmen (Abs. 1 S. 3, Abs. 3 S. 2); Düsseldorfer Verfahren | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): Gericht trifft Schutzmaßnahmen (Abs. 1 S. 2)
+• Haftung bei unberechtigtem Begehren — Auskunft ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)): Schadensersatz bei vorsätzlich oder grob fahrlässig falscher Auskunft (Abs. 5); [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) | Vorlage und Besichtigung ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html)): verschuldensunabhängig, wenn keine Verletzung vorlag (Abs. 5) | Sicherung von Schadensersatz ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)): [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html)
+
+Merksatz: [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html) fragt „woher und wohin?“, [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html) „stimmt der Vorwurf?“, [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html) „kann er zahlen?“ – alle drei nur im Rahmen der Verhältnismäßigkeit ([Art. 3 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welcher Artikel der Durchsetzungsrichtlinie steckt in welcher Vorschrift des MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG?
+(Umsetzungstabelle: Durchsetzungsrichtlinie 2004/48/EG in allen Gesetzen des gewerblichen Rechtsschutzes)
+
+**A:** • Art. 2 Abs. 1 – Günstigere Vorschriften bleiben unberührt (Mindestharmonisierung) — MarkenG: [§ 19d MarkenG](https://www.gesetze-im-internet.de/markeng/__19d.html) | PatG: [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html) | GebrMG: [§ 24g GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24g.html) | DesignG: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) | UrhG: [§ 102a UrhG](https://www.gesetze-im-internet.de/urhg/__102a.html) | HalblSchG: [§ 9 Abs. 4 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) | SortSchG: [§ 37g SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37g.html) | Allgemeines Recht: UWG, §§ [823](https://www.gesetze-im-internet.de/bgb/__823.html), [826](https://www.gesetze-im-internet.de/bgb/__826.html), [812](https://www.gesetze-im-internet.de/bgb/__812.html) BGB, GoA (EuGH OTK: strengere Regeln zulässig)
+• Art. 3 – Allgemeine Verpflichtung: fair, wirksam, verhältnismäßig, abschreckend, kein Missbrauch — MarkenG: [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html) | PatG: [§ 139 Abs. 1 S. 3 bis 5 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 140a Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 140b Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140b.html), [§ 140c Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__140c.html) | GebrMG: [§ 24 Abs. 1 S. 3 bis 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html), [§ 24a Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html), [§ 24b Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html), [§ 24c Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html) | DesignG: [§ 43 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [§ 46 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html), [§ 46a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) | UrhG: [§ 98 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html), [§ 101 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html), [§ 101a Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html) | HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) (§§ [24a](https://www.gesetze-im-internet.de/gebrmg/__24a.html) bis [24c](https://www.gesetze-im-internet.de/gebrmg/__24c.html) GebrMG) | SortSchG: [§ 37a Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html), [§ 37b Abs. 4 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html), [§ 37c Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html) | Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html); Auslegungsmaßstab für alle Durchsetzungsnormen (EuGH NovaText, Mircom)
+• Art. 4 – Antragsbefugte: Inhaber, Lizenznehmer, Verwertungsgesellschaften, Verbände — MarkenG: [§ 14 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html); Lizenznehmer [§ 30 Abs. 3, 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html) | PatG: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) („Verletzter“); Lizenz [§ 15 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html) | GebrMG: [§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); Lizenz [§ 22 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__22.html) | DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); Lizenznehmer [§ 31 Abs. 3, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) | UrhG: [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html); Verwertungsgesellschaften nach VGG | HalblSchG: [§ 9 Abs. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) | SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); [§ 11 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__11.html) | Allgemeines Recht: Prozessstandschaft, Abtretung (EuGH Mircom)
+• Art. 5 – Urheber- oder Inhabervermutung — MarkenG: – (Registervermutung [§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html)) | PatG: – ([§ 30 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__30.html)) | GebrMG: – | DesignG: – | UrhG: [§ 10 UrhG](https://www.gesetze-im-internet.de/urhg/__10.html) | HalblSchG: – | SortSchG: – | Allgemeines Recht: nur Urheberrecht und verwandte Schutzrechte
+• Art. 6 – Beweise: Vorlage von Beweismitteln, Bank-, Finanz- und Handelsunterlagen — MarkenG: [§ 19a Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html) | PatG: [§ 140c Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__140c.html) | GebrMG: [§ 24c Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html) | DesignG: [§ 46a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) | UrhG: [§ 101a Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html) | HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) ([§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html)) | SortSchG: [§ 37c Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html) | Allgemeines Recht: §§ [142](https://www.gesetze-im-internet.de/zpo/__142.html), [144](https://www.gesetze-im-internet.de/zpo/__144.html) ZPO; [§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html)
+• Art. 7 – Beweissicherung: einstweilige Maßnahmen, ohne Anhörung, Schadensersatz bei Aufhebung — MarkenG: [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), Abs. 5 | PatG: [§ 140c Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140c.html), Abs. 5 | GebrMG: [§ 24c Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html), Abs. 5 | DesignG: [§ 46a Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), Abs. 5 | UrhG: [§ 101a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html), Abs. 5 | HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) ([§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html)) | SortSchG: [§ 37c Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html), Abs. 5 | Allgemeines Recht: [§§ 485 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__485.html); [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html)
+• Art. 8 – Recht auf Auskunft: Verletzer und Dritte; Namen, Adressen, Mengen, Preise — MarkenG: [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html) (Abs. 2 Nr. 1 bis 4 = Art. 8 Abs. 1 lit. a bis d MarkenG; Abs. 3 = Art. 8 Abs. 2 MarkenG; Abs. 9 Verkehrsdaten) | PatG: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) | GebrMG: [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html) | DesignG: [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) | UrhG: [§ 101 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html) (Abs. 1: nur bei gewerblichem Ausmaß) | HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) ([§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html)) | SortSchG: [§ 37b SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html) | Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html); §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO (= Art. 8 Abs. 3 lit. d)
+• Art. 9 Abs. 1 – Einstweilige Maßnahmen: Unterlassung, auch gegen Mittelspersonen; Beschlagnahme — MarkenG: [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) (Dringlichkeitsvermutung, seit MaMoG 2019); [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html) | PatG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) (keine Dringlichkeitsvermutung) | GebrMG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) | DesignG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) | UrhG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) | HalblSchG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) | SortSchG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) | Allgemeines Recht: §§ [935](https://www.gesetze-im-internet.de/zpo/__935.html), [938](https://www.gesetze-im-internet.de/zpo/__938.html), [940](https://www.gesetze-im-internet.de/zpo/__940.html) ZPO; Sequestration [§ 938 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__938.html); Störerhaftung
+• Art. 9 Abs. 2 – Sicherung von Schadensersatz: Vermögensbeschlagnahme, Kontosperre, Unterlagen — MarkenG: [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html) | PatG: [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) | GebrMG: [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html) | DesignG: [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) | UrhG: [§ 101b UrhG](https://www.gesetze-im-internet.de/urhg/__101b.html) | HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) ([§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html)) | SortSchG: [§ 37d SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37d.html) | Allgemeines Recht: dinglicher Arrest [§§ 916 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__916.html)
+• Art. 9 Abs. 3 bis 7 – Eilverfahren: Glaubhaftmachung, ohne Anhörung, Hauptsachefrist, Sicherheit, Schadensersatz — MarkenG: – | PatG: – | GebrMG: – | DesignG: – | UrhG: – | HalblSchG: – | SortSchG: – | Allgemeines Recht: [§ 920 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__920.html), [§ 936 ZPO](https://www.gesetze-im-internet.de/zpo/__936.html); [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html); [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html); [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html); [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) (verschuldensunabhängig; EuGH Bayer/Richter)
+• Art. 10 – Abhilfemaßnahmen: Rückruf, endgültiges Entfernen, Vernichtung; Verhältnismäßigkeit — MarkenG: [§ 18 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) (Vernichtung), Abs. 2 (Rückruf, Entfernen), Abs. 3 (Verhältnismäßigkeit) | PatG: [§ 140a Abs. 1 bis 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html) | GebrMG: [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html) | DesignG: [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) (Abs. 3: Überlassung) | UrhG: [§ 98 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) (Abs. 3: Überlassung) | HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) ([§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html)) | SortSchG: [§ 37a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html) | Allgemeines Recht: [§ 1004 BGB](https://www.gesetze-im-internet.de/bgb/__1004.html) analog; Vollstreckung §§ [883](https://www.gesetze-im-internet.de/zpo/__883.html), [887](https://www.gesetze-im-internet.de/zpo/__887.html) ZPO
+• Art. 11 – Gerichtliche Anordnungen: Unterlassung, Zwangsgeld, Anordnung gegen Mittelspersonen — MarkenG: [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html); Störerhaftung | PatG: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html) | GebrMG: [§ 24 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html) | DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) | UrhG: [§ 97 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) | HalblSchG: [§ 9 Abs. 1 S. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) | SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html) | Allgemeines Recht: [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html); Störerhaftung (BGH); Providerhaftung nach dem DDG
+• Art. 12 – Ersatzmaßnahmen: Abfindung statt Rückruf und Vernichtung bei schuldloser Verletzung — MarkenG: nicht genutzt | PatG: nicht genutzt ([§ 139 Abs. 1 S. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__139.html): Geldausgleich bei Härte) | GebrMG: nicht genutzt ([§ 24 Abs. 1 S. 3, 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html)) | DesignG: [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html) (Entschädigung) | UrhG: [§ 100 UrhG](https://www.gesetze-im-internet.de/urhg/__100.html) (Entschädigung) | HalblSchG: – | SortSchG: – | Allgemeines Recht: fakultativ (Erwägungsgrund 25)
+• Art. 13 – Schadensersatz: Verschulden; Verletzergewinn, immaterieller Schaden; Pauschale nach Lizenzgebühr — MarkenG: [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) (S. 2 Verletzergewinn, S. 3 Lizenzanalogie), [§ 15 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 S. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html) | PatG: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html) | GebrMG: [§ 24 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html) | DesignG: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) | UrhG: [§ 97 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) (S. 4: immaterieller Schaden) | HalblSchG: [§ 9 Abs. 1 S. 2, 3 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) | SortSchG: [§ 37 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html) | Allgemeines Recht: Abs. 2: [§ 812 Abs. 1 S. 1 Alt. 2 BGB](https://www.gesetze-im-internet.de/bgb/__812.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) ([§ 20 S. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html))
+• Art. 14 – Prozesskosten: zumutbare und angemessene Kosten trägt der Unterlegene — MarkenG: [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) (Patentanwaltskosten; nur bei Notwendigkeit: EuGH NovaText, BGH Kosten des Patentanwalts VII); [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html) | PatG: [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html); [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) | GebrMG: [§ 27 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__27.html) | DesignG: [§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) | UrhG: [§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html) (Abmahnkosten; EuGH Koch Media) | HalblSchG: – | SortSchG: – | Allgemeines Recht: [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html); RVG; Abmahnkosten aus GoA
+• Art. 15 – Veröffentlichung von Gerichtsentscheidungen — MarkenG: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html) | PatG: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html) | GebrMG: [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html) | DesignG: [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) | UrhG: [§ 103 UrhG](https://www.gesetze-im-internet.de/urhg/__103.html) | HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) ([§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html)) | SortSchG: [§ 37e SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html) | Allgemeines Recht: Befugnis erlischt drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar
+• Art. 16 – Sanktionen der Mitgliedstaaten: Strafrecht, Grenzbeschlagnahme — MarkenG: §§ [143](https://www.gesetze-im-internet.de/markeng/__143.html), [143a](https://www.gesetze-im-internet.de/markeng/__143a.html), [144](https://www.gesetze-im-internet.de/markeng/__144.html) MarkenG; §§ [146](https://www.gesetze-im-internet.de/markeng/__146.html) bis [151](https://www.gesetze-im-internet.de/markeng/__151.html) MarkenG | PatG: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html); §§ [142a](https://www.gesetze-im-internet.de/patg/__142a.html), [142b](https://www.gesetze-im-internet.de/patg/__142b.html) PatG | GebrMG: [§ 25 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__25.html); §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG | DesignG: [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html); [§§ 55 ff. DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html) | UrhG: §§ [106](https://www.gesetze-im-internet.de/urhg/__106.html) bis [111a](https://www.gesetze-im-internet.de/urhg/__111a.html) UrhG; [§ 111b UrhG](https://www.gesetze-im-internet.de/urhg/__111b.html) | HalblSchG: [§ 10 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__10.html); [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) (§§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG) | SortSchG: [§ 39 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__39.html); [§ 40a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__40a.html) | Allgemeines Recht: VO (EU) Nr. 608/2013; Art. 61 TRIPS
+• Nicht harmonisiert: Verjährung; Haftung des Betriebsinhabers — MarkenG: [§ 20 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html) (BGB, [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html)); [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) | PatG: [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html) | GebrMG: [§ 24f GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24f.html) | DesignG: [§ 49 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html); [§ 44 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__44.html) | UrhG: [§ 102 UrhG](https://www.gesetze-im-internet.de/urhg/__102.html); [§ 99 UrhG](https://www.gesetze-im-internet.de/urhg/__99.html) | HalblSchG: [§ 9 Abs. 3 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) | SortSchG: [§ 37f SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37f.html) | Allgemeines Recht: §§ [195](https://www.gesetze-im-internet.de/bgb/__195.html), [199](https://www.gesetze-im-internet.de/bgb/__199.html) BGB; [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) (Restschadensersatz, zehn Jahre)
+• Art. 20 – Umsetzungsfrist 29.4.2006 — MarkenG: – | PatG: – | GebrMG: – | DesignG: – | UrhG: – | HalblSchG: – | SortSchG: – | Allgemeines Recht: Durchsetzungsgesetz vom 7.7.2008 (BGBl. I S. 1191), in Kraft 1.9.2008, als Artikelgesetz für alle sieben Gesetze
+
+Merksatz: Ein Muster, sieben Gesetze: Vernichtung/Rückruf – Auskunft – Vorlage/Besichtigung – Sicherung – Urteilsbekanntmachung stehen überall in derselben Reihenfolge (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html) bis [19c](https://www.gesetze-im-internet.de/markeng/__19c.html) MarkenG = §§ [140a](https://www.gesetze-im-internet.de/patg/__140a.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG = §§ [24a](https://www.gesetze-im-internet.de/gebrmg/__24a.html) bis [24e](https://www.gesetze-im-internet.de/gebrmg/__24e.html) GebrMG = §§ [43](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [46](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG = §§ [98](https://www.gesetze-im-internet.de/urhg/__98.html), [101](https://www.gesetze-im-internet.de/urhg/__101.html) bis [103](https://www.gesetze-im-internet.de/urhg/__103.html) UrhG = §§ [37a](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html) bis [37e](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html) SortSchG; HalblSchG verweist auf das GebrMG).
 
 *Tags: Abgrenzung*
 
@@ -6133,7 +6461,7 @@ Verwirkung nach [§ 21 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/marken
 
 **A:** Der Betreiber einer Internet-Handelsplattform (eBay) haftet als Störer auf Unterlassung, wenn er nach Hinweis auf eine klare Markenverletzung das Angebot nicht sperrt und keine zumutbaren Vorkehrungen gegen gleichartige Verletzungen trifft. Die Haftungsprivilegierung des TMG gilt nicht für Unterlassungsansprüche.
 
-Normen: [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2007, 708
 
 *Tags: Rechtsprechung, BGH, Störerhaftung, Plattform*
@@ -6158,7 +6486,7 @@ Der Betreiber einer Internet-Handelsplattform (eBay) haftet als Störer auf Unte
 
 **A:** Ein Plattformbetreiber muss nicht alle Angebote mit einer Marke manuell auf Fälschungen prüfen; Prüfpflichten bestehen erst nach konkretem Hinweis und im zumutbaren Umfang. Teilnehmerhaftung (Beihilfe) setzt Vorsatz bezüglich der Haupttat voraus; die Störerhaftung wurde für das Lauterkeitsrecht aufgegeben, im Markenrecht beibehalten.
 
-Normen: [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2011, 152
 
 *Tags: Rechtsprechung, BGH, Störerhaftung, Plattform*
@@ -6183,7 +6511,7 @@ Ein Plattformbetreiber muss nicht alle Angebote mit einer Marke manuell auf Fäl
 
 **A:** Zur Schadensberechnung nach der Lizenzanalogie bei Kennzeichenverletzungen: Der Verletzer schuldet, was vernünftige Vertragsparteien als Lizenzgebühr vereinbart hätten; maßgeblich sind Bekanntheit und Ruf des Kennzeichens, Grad der Verwechslungsgefahr und Umfang der Benutzung.
 
-Normen: [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Normen: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
 Fundstelle: GRUR 2010, 239
 
 *Tags: Rechtsprechung, BGH, Schadensersatz*
@@ -6752,6 +7080,400 @@ Der Schutz der g.g.A. 'Aceto Balsamico di Modena' erstreckt sich nicht auf die V
 
 ---
 
+## entscheidung
+
+**F:** BGH „Faxkarte“ (I ZR 45/01, 2002) – Kernaussage?
+
+**A:** Der Besichtigungsanspruch aus [§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html) setzt nur einen gewissen Grad an Wahrscheinlichkeit einer Rechtsverletzung voraus, nicht deren Nachweis; das Geheimhaltungsinteresse des Besitzers ist im Rahmen einer umfassenden Interessenabwägung zu berücksichtigen und kann durch Einschaltung eines zur Verschwiegenheit verpflichteten Sachverständigen gewahrt werden. Vorbild des [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html) und des „Düsseldorfer Verfahrens“.
+
+Normen: [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+Fundstelle: GRUR 2002, 1046 = BGHZ 150, 377
+
+*Tags: Rechtsprechung, BGH, Durchsetzung, Beweise*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Besichtigungsanspruch aus [§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html) setzt nur einen gewissen Grad an Wahrscheinlichkeit einer Rechtsverletzung voraus, nicht deren Nachweis; das Geheimhaltungsinteresse des Besitzers ist im Rahmen einer umfassenden Interessenabwägung zu berücksichtigen und kann durch Einschaltung eines zur Verschwiegenheit verpflichteten Sachverständigen gewahrt werden. Vorbild des [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html) und des „Düsseldorfer Verfahrens“.
+
+**A:** BGH „Faxkarte“ – I ZR 45/01 (2002), GRUR 2002, 1046 = BGHZ 150, 377
+
+*Tags: Rechtsprechung, Umkehr, BGH, Durchsetzung, Beweise*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Promusicae/Telefónica“ (C-275/06, 2008) – Kernaussage?
+
+**A:** Das Unionsrecht (Durchsetzungs-, E-Commerce-, InfoSoc- und Datenschutzrichtlinie) verpflichtet die Mitgliedstaaten nicht, zur Durchsetzung des Urheberrechts eine Pflicht zur Herausgabe personenbezogener Verkehrsdaten im Zivilverfahren vorzusehen. Bei Umsetzung und Anwendung müssen sie aber ein angemessenes Gleichgewicht zwischen dem Schutz des geistigen Eigentums (Art. 17 Abs. 2 GRCh) und dem Datenschutz herstellen. Hintergrund des Richtervorbehalts für Verkehrsdaten in [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html).
+
+Normen: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Fundstelle: GRUR 2008, 241
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Auskunft, Datenschutz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Das Unionsrecht (Durchsetzungs-, E-Commerce-, InfoSoc- und Datenschutzrichtlinie) verpflichtet die Mitgliedstaaten nicht, zur Durchsetzung des Urheberrechts eine Pflicht zur Herausgabe personenbezogener Verkehrsdaten im Zivilverfahren vorzusehen. Bei Umsetzung und Anwendung müssen sie aber ein angemessenes Gleichgewicht zwischen dem Schutz des geistigen Eigentums (Art. 17 Abs. 2 GRCh) und dem Datenschutz herstellen. Hintergrund des Richtervorbehalts für Verkehrsdaten in [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html).
+
+**A:** EuGH „Promusicae/Telefónica“ – C-275/06 (2008), GRUR 2008, 241
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Auskunft, Datenschutz*
+
+---
+
+## entscheidung
+
+**F:** EuGH „L'Oréal/eBay“ (C-324/09, 2011) – Kernaussage?
+
+**A:** Der Betreiber eines Online-Marktplatzes benutzt die Marken der Angebote nicht selbst; das Haftungsprivileg des Art. 14 E-Commerce-RL gilt nur bei neutraler Rolle. Nach [Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) müssen die Gerichte dem Betreiber als Mittelsperson Maßnahmen aufgeben können, die nicht nur die konkrete Verletzung beenden, sondern auch neue Verletzungen derselben Art verhindern; sie müssen wirksam, verhältnismäßig und abschreckend sein, dürfen aber keine allgemeine Überwachungspflicht begründen und den rechtmäßigen Handel nicht behindern.
+
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Fundstelle: GRUR 2011, 1025
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Mittelspersonen, Störerhaftung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Der Betreiber eines Online-Marktplatzes benutzt die Marken der Angebote nicht selbst; das Haftungsprivileg des Art. 14 E-Commerce-RL gilt nur bei neutraler Rolle. Nach [Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) müssen die Gerichte dem Betreiber als Mittelsperson Maßnahmen aufgeben können, die nicht nur die konkrete Verletzung beenden, sondern auch neue Verletzungen derselben Art verhindern; sie müssen wirksam, verhältnismäßig und abschreckend sein, dürfen aber keine allgemeine Überwachungspflicht begründen und den rechtmäßigen Handel nicht behindern.
+
+**A:** EuGH „L'Oréal/eBay“ – C-324/09 (2011), GRUR 2011, 1025
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Mittelspersonen, Störerhaftung*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Coty Germany/Stadtsparkasse Magdeburg“ (C-580/13, 2015) – Kernaussage?
+
+**A:** [Art. 8 Abs. 3 lit. e DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) steht einer nationalen Regelung entgegen, die es einem Bankinstitut erlaubt, unter Berufung auf das Bankgeheimnis unbegrenzt und bedingungslos die Auskunft über Name und Anschrift eines Kontoinhabers zu verweigern, über dessen Konto der Kaufpreis für gefälschte Markenware abgewickelt wurde. Das Recht auf Auskunft (Art. 17 Abs. 2, 47 GRCh) und der Schutz personenbezogener Daten (Art. 8 GRCh) sind in ein angemessenes Gleichgewicht zu bringen.
+
+Normen: [Art. 8 Abs. 3 lit. e DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Fundstelle: GRUR 2015, 899
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Auskunft, Bankgeheimnis*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+[Art. 8 Abs. 3 lit. e DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) steht einer nationalen Regelung entgegen, die es einem Bankinstitut erlaubt, unter Berufung auf das Bankgeheimnis unbegrenzt und bedingungslos die Auskunft über Name und Anschrift eines Kontoinhabers zu verweigern, über dessen Konto der Kaufpreis für gefälschte Markenware abgewickelt wurde. Das Recht auf Auskunft (Art. 17 Abs. 2, 47 GRCh) und der Schutz personenbezogener Daten (Art. 8 GRCh) sind in ein angemessenes Gleichgewicht zu bringen.
+
+**A:** EuGH „Coty Germany/Stadtsparkasse Magdeburg“ – C-580/13 (2015), GRUR 2015, 899
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Auskunft, Bankgeheimnis*
+
+---
+
+## entscheidung
+
+**F:** BGH „Davidoff Hot Water II“ (I ZR 51/12, 2015) – Kernaussage?
+
+**A:** [§ 19 Abs. 2 S. 1](https://www.gesetze-im-internet.de/markeng/__19.html) Halbs. 2 MarkenG ist richtlinienkonform dahin auszulegen, dass ein Bankinstitut die Auskunft über Name und Anschrift eines Kontoinhabers nicht unter Berufung auf das Bankgeheimnis ([§ 383 Abs. 1 Nr. 6 ZPO](https://www.gesetze-im-internet.de/zpo/__383.html)) verweigern darf, wenn über das Konto der Kaufpreis für offensichtlich markenverletzende Ware abgewickelt wurde. Umsetzung der Vorabentscheidung Coty/Stadtsparkasse.
+
+Normen: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Fundstelle: NJW 2016, 2190
+
+*Tags: Rechtsprechung, BGH, Durchsetzung, Auskunft, Bankgeheimnis*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+[§ 19 Abs. 2 S. 1](https://www.gesetze-im-internet.de/markeng/__19.html) Halbs. 2 MarkenG ist richtlinienkonform dahin auszulegen, dass ein Bankinstitut die Auskunft über Name und Anschrift eines Kontoinhabers nicht unter Berufung auf das Bankgeheimnis ([§ 383 Abs. 1 Nr. 6 ZPO](https://www.gesetze-im-internet.de/zpo/__383.html)) verweigern darf, wenn über das Konto der Kaufpreis für offensichtlich markenverletzende Ware abgewickelt wurde. Umsetzung der Vorabentscheidung Coty/Stadtsparkasse.
+
+**A:** BGH „Davidoff Hot Water II“ – I ZR 51/12 (2015), NJW 2016, 2190
+
+*Tags: Rechtsprechung, Umkehr, BGH, Durchsetzung, Auskunft, Bankgeheimnis*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Liffers/Mandarina“ (C-99/15, 2016) – Kernaussage?
+
+**A:** Wer seinen Schaden pauschal nach der Lizenzanalogie (Art. 13 Abs. 1 UAbs. 2 lit. b DurchsetzungsRL) berechnet, kann daneben Ersatz des immateriellen Schadens verlangen. Der Pauschalbetrag ist nach dem Wortlaut („mindestens“) eine Untergrenze und deckt nicht jeden Schaden ab; Ziel ist der Ausgleich des tatsächlich erlittenen Schadens.
+
+Normen: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Schadensersatz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Wer seinen Schaden pauschal nach der Lizenzanalogie (Art. 13 Abs. 1 UAbs. 2 lit. b DurchsetzungsRL) berechnet, kann daneben Ersatz des immateriellen Schadens verlangen. Der Pauschalbetrag ist nach dem Wortlaut („mindestens“) eine Untergrenze und deckt nicht jeden Schaden ab; Ziel ist der Ausgleich des tatsächlich erlittenen Schadens.
+
+**A:** EuGH „Liffers/Mandarina“ – C-99/15 (2016), 
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Schadensersatz*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Tommy Hilfiger/Delta Center“ (C-494/15, 2016) – Kernaussage?
+
+**A:** Der Mieter einer Markthalle, der Verkaufsflächen an Händler untervermietet, die dort Fälschungen verkaufen, ist „Mittelsperson, deren Dienste von einem Dritten zwecks Verletzung in Anspruch genommen werden“ im Sinne von [Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)). Die in L'Oréal/eBay für Online-Marktplätze entwickelten Voraussetzungen für Anordnungen gelten für Betreiber physischer Marktplätze gleichermaßen.
+
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html)
+Fundstelle: GRUR 2016, 1062
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Mittelspersonen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Der Mieter einer Markthalle, der Verkaufsflächen an Händler untervermietet, die dort Fälschungen verkaufen, ist „Mittelsperson, deren Dienste von einem Dritten zwecks Verletzung in Anspruch genommen werden“ im Sinne von [Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)). Die in L'Oréal/eBay für Online-Marktplätze entwickelten Voraussetzungen für Anordnungen gelten für Betreiber physischer Marktplätze gleichermaßen.
+
+**A:** EuGH „Tommy Hilfiger/Delta Center“ – C-494/15 (2016), GRUR 2016, 1062
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Mittelspersonen*
+
+---
+
+## entscheidung
+
+**F:** EuGH „United Video Properties/Telenet“ (C-57/15, 2016) – Kernaussage?
+
+**A:** [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) steht Pauschaltarifen für die Erstattung von Anwaltskosten nicht entgegen, sofern die Höchstbeträge gewährleisten, dass ein erheblicher und angemessener Teil der zumutbaren Kosten des Obsiegenden erstattet wird. Kosten eines technischen Beraters sind „sonstige Kosten“; ihre Erstattung darf nicht von einem Verschulden des Unterlegenen abhängen, wenn sie für die Klage unmittelbar und eng erforderlich waren.
+
+Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Kosten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+[Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) steht Pauschaltarifen für die Erstattung von Anwaltskosten nicht entgegen, sofern die Höchstbeträge gewährleisten, dass ein erheblicher und angemessener Teil der zumutbaren Kosten des Obsiegenden erstattet wird. Kosten eines technischen Beraters sind „sonstige Kosten“; ihre Erstattung darf nicht von einem Verschulden des Unterlegenen abhängen, wenn sie für die Klage unmittelbar und eng erforderlich waren.
+
+**A:** EuGH „United Video Properties/Telenet“ – C-57/15 (2016), 
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Kosten*
+
+---
+
+## entscheidung
+
+**F:** EuGH „NEW WAVE CZ/ALLTOYS“ (C-427/15, 2017) – Kernaussage?
+
+**A:** Das Auskunftsrecht des [Art. 8 Abs. 1 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) kann auch in einem gesonderten Verfahren nach rechtskräftigem Abschluss des Verletzungsprozesses geltend gemacht werden. „Im Zusammenhang mit einem Verfahren wegen Verletzung“ ist weit auszulegen, weil das Auskunftsrecht der wirksamen Ausübung des Grundrechts auf geistiges Eigentum dient.
+
+Normen: [Art. 8 Abs. 1 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Auskunft*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Das Auskunftsrecht des [Art. 8 Abs. 1 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) kann auch in einem gesonderten Verfahren nach rechtskräftigem Abschluss des Verletzungsprozesses geltend gemacht werden. „Im Zusammenhang mit einem Verfahren wegen Verletzung“ ist weit auszulegen, weil das Auskunftsrecht der wirksamen Ausübung des Grundrechts auf geistiges Eigentum dient.
+
+**A:** EuGH „NEW WAVE CZ/ALLTOYS“ – C-427/15 (2017), 
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Auskunft*
+
+---
+
+## entscheidung
+
+**F:** EuGH „OTK/Stowarzyszenie Filmowców Polskich“ (C-367/15, 2017) – Kernaussage?
+
+**A:** Die Durchsetzungsrichtlinie ist Mindestharmonisierung (Art. 2 Abs. 1). Art. 13 steht einer nationalen Regelung nicht entgegen, nach der der Verletzte ohne Nachweis des tatsächlichen Schadens pauschal das Doppelte der angemessenen Lizenzgebühr verlangen kann. Erwägungsgrund 26 verbietet keinen Strafschadensersatz, sondern schließt nur eine Verpflichtung dazu aus.
+
+Normen: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Schadensersatz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Die Durchsetzungsrichtlinie ist Mindestharmonisierung (Art. 2 Abs. 1). Art. 13 steht einer nationalen Regelung nicht entgegen, nach der der Verletzte ohne Nachweis des tatsächlichen Schadens pauschal das Doppelte der angemessenen Lizenzgebühr verlangen kann. Erwägungsgrund 26 verbietet keinen Strafschadensersatz, sondern schließt nur eine Verpflichtung dazu aus.
+
+**A:** EuGH „OTK/Stowarzyszenie Filmowców Polskich“ – C-367/15 (2017), 
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Schadensersatz*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Bayer Pharma/Richter Gedeon“ (C-688/17, 2019) – Kernaussage?
+
+**A:** „Angemessener Ersatz“ nach [Art. 9 Abs. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) für Schäden aus einer später aufgehobenen einstweiligen Maßnahme ist kein automatischer Vollersatz: Das nationale Gericht darf alle Umstände würdigen, insbesondere ob der Antragsgegner durch den Markteintritt trotz laufenden Schutzrechts das Risiko selbst geschaffen hat. Die verschuldensunabhängige Haftung des [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) geht darüber hinaus und bleibt als günstigere Regelung zulässig.
+
+Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 Abs. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Einstweilige Verfügung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+„Angemessener Ersatz“ nach [Art. 9 Abs. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) für Schäden aus einer später aufgehobenen einstweiligen Maßnahme ist kein automatischer Vollersatz: Das nationale Gericht darf alle Umstände würdigen, insbesondere ob der Antragsgegner durch den Markteintritt trotz laufenden Schutzrechts das Risiko selbst geschaffen hat. Die verschuldensunabhängige Haftung des [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) geht darüber hinaus und bleibt als günstigere Regelung zulässig.
+
+**A:** EuGH „Bayer Pharma/Richter Gedeon“ – C-688/17 (2019), 
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Einstweilige Verfügung*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Constantin Film Verleih/YouTube“ (C-264/19, 2020) – Kernaussage?
+
+**A:** „Adressen“ im Sinne von [Art. 8 Abs. 2 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) meint nur die Postanschrift, nicht E-Mail-Adresse, Telefonnummer oder IP-Adresse des Nutzers, der rechtsverletzende Dateien hochgeladen hat. Die Mitgliedstaaten dürfen weitergehende Auskunftsrechte vorsehen (Art. 8 Abs. 3 lit. a), müssen dabei aber den Ausgleich der betroffenen Grundrechte wahren.
+
+Normen: [Art. 8 Abs. 2 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 19 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Fundstelle: GRUR 2020, 840
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Auskunft, Plattformen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+„Adressen“ im Sinne von [Art. 8 Abs. 2 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) meint nur die Postanschrift, nicht E-Mail-Adresse, Telefonnummer oder IP-Adresse des Nutzers, der rechtsverletzende Dateien hochgeladen hat. Die Mitgliedstaaten dürfen weitergehende Auskunftsrechte vorsehen (Art. 8 Abs. 3 lit. a), müssen dabei aber den Ausgleich der betroffenen Grundrechte wahren.
+
+**A:** EuGH „Constantin Film Verleih/YouTube“ – C-264/19 (2020), GRUR 2020, 840
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Auskunft, Plattformen*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Mircom/Telenet“ (C-597/19, 2021) – Kernaussage?
+
+**A:** Auch ein Zessionar, der Rechte nur erwirbt, um Verletzer abzumahnen, kann Inhaber im Sinne von [Art. 4 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) sein und Auskunft nach Art. 8 verlangen. Das Gericht muss aber prüfen, ob der Antrag begründet und verhältnismäßig ist und ob ein Rechtsmissbrauch nach Art. 3 Abs. 2 vorliegt; die Speicherung von IP-Adressen durch den Rechtsinhaber kann ein berechtigtes Interesse nach der DSGVO sein.
+
+Normen: [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Auskunft, Missbrauch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Auch ein Zessionar, der Rechte nur erwirbt, um Verletzer abzumahnen, kann Inhaber im Sinne von [Art. 4 lit. a DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) sein und Auskunft nach Art. 8 verlangen. Das Gericht muss aber prüfen, ob der Antrag begründet und verhältnismäßig ist und ob ein Rechtsmissbrauch nach Art. 3 Abs. 2 vorliegt; die Speicherung von IP-Adressen durch den Rechtsinhaber kann ein berechtigtes Interesse nach der DSGVO sein.
+
+**A:** EuGH „Mircom/Telenet“ – C-597/19 (2021), 
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Auskunft, Missbrauch*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Koch Media/FU“ (C-559/20, 2022) – Kernaussage?
+
+**A:** Kosten der außergerichtlichen Rechtsverfolgung, etwa Anwaltskosten einer Abmahnung, sind „sonstige Kosten“ im Sinne von [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)). Eine nationale Deckelung des Gegenstandswerts ([§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html): 1.000 Euro gegenüber privaten Verletzern) ist zulässig, wenn sie dem Gericht erlaubt, in Fällen der Unbilligkeit davon abzuweichen und so Verhältnismäßigkeit und Billigkeit zu wahren.
+
+Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) MarkenG
+Fundstelle: GRUR 2022, 849
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Kosten, Abmahnung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Kosten der außergerichtlichen Rechtsverfolgung, etwa Anwaltskosten einer Abmahnung, sind „sonstige Kosten“ im Sinne von [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)). Eine nationale Deckelung des Gegenstandswerts ([§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html): 1.000 Euro gegenüber privaten Verletzern) ist zulässig, wenn sie dem Gericht erlaubt, in Fällen der Unbilligkeit davon abzuweichen und so Verhältnismäßigkeit und Billigkeit zu wahren.
+
+**A:** EuGH „Koch Media/FU“ – C-559/20 (2022), GRUR 2022, 849
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Kosten, Abmahnung*
+
+---
+
+## entscheidung
+
+**F:** EuGH „NovaText/Universität Heidelberg“ (C-531/20, 2022) – Kernaussage?
+
+**A:** [Art. 3 und 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) stehen einer nationalen Regelung oder ihrer Auslegung entgegen, nach der die Kosten der Mitwirkung eines Patentanwalts in einer Kennzeichenstreitsache ohne Prüfung der Erforderlichkeit stets zu erstatten sind ([§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) a.F., heute Abs. 4). Das Gericht muss im Einzelfall prüfen können, ob die Kosten des Obsiegenden zumutbar und angemessen sind.
+
+Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
+Fundstelle: GRUR 2022, 853
+
+*Tags: Rechtsprechung, EuGH, Durchsetzung, Kosten, Patentanwalt*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+[Art. 3 und 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) stehen einer nationalen Regelung oder ihrer Auslegung entgegen, nach der die Kosten der Mitwirkung eines Patentanwalts in einer Kennzeichenstreitsache ohne Prüfung der Erforderlichkeit stets zu erstatten sind ([§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) a.F., heute Abs. 4). Das Gericht muss im Einzelfall prüfen können, ob die Kosten des Obsiegenden zumutbar und angemessen sind.
+
+**A:** EuGH „NovaText/Universität Heidelberg“ – C-531/20 (2022), GRUR 2022, 853
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Durchsetzung, Kosten, Patentanwalt*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kosten des Patentanwalts VII“ (I ZB 59/19, 2022) – Kernaussage?
+
+**A:** [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) a.F. (heute Abs. 4) ist richtlinienkonform ([Art. 3, 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))) dahin auszulegen, dass die Kosten der Mitwirkung eines Patentanwalts in einer Kennzeichenstreitsache nur erstattungsfähig sind, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war; die Partei muss das darlegen und glaubhaft machen. Aufgabe der bisherigen Rechtsprechung, nach der die Notwendigkeit nicht geprüft wurde.
+
+Normen: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html)
+Fundstelle: GRUR 2023, 446
+
+*Tags: Rechtsprechung, BGH, Durchsetzung, Kosten, Patentanwalt, Klausur NS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+[§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) a.F. (heute Abs. 4) ist richtlinienkonform ([Art. 3, 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))) dahin auszulegen, dass die Kosten der Mitwirkung eines Patentanwalts in einer Kennzeichenstreitsache nur erstattungsfähig sind, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war; die Partei muss das darlegen und glaubhaft machen. Aufgabe der bisherigen Rechtsprechung, nach der die Notwendigkeit nicht geprüft wurde.
+
+**A:** BGH „Kosten des Patentanwalts VII“ – I ZB 59/19 (2022), GRUR 2023, 446
+
+*Tags: Rechtsprechung, Umkehr, BGH, Durchsetzung, Kosten, Patentanwalt, Klausur NS*
+
+---
+
 ## norm
 
 **F:** Was regelt [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html)?
@@ -6923,7 +7645,7 @@ Von der Eintragung ausgeschlossen ist eine Marke, wenn sie mit
 einer im Inland im Sinne des Artikels
 6bis der Pariser Verbandsübereinkunft notorisch bekannten Marke mit
 älterem Zeitrang identisch oder dieser ähnlich ist und die weiteren
-Voraussetzungen des [§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html), 2 oder 3 gegeben sind.
+Voraussetzungen des [§ 9 Abs. 1 Nr. 1, 2](https://www.gesetze-im-internet.de/markeng/__9.html) oder 3 gegeben sind.
 
 Zugehörige Begriffe: Notorische Bekanntheit ([§ 4 Nr. 3](https://www.gesetze-im-internet.de/markeng/__4.html)), Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html))
 
@@ -6987,7 +7709,7 @@ Zugehörige Begriffe: Relative Schutzhindernisse (§§ [9](https://www.gesetze-i
 Der Erwerb des Markenschutzes nach [§ 4](https://www.gesetze-im-internet.de/markeng/__4.html) gewährt dem Inhaber der
 Marke ein ausschließliches Recht.
 
-Zugehörige Begriffe: Aktivlegitimation / Rechtsinhaberschaft, Ausnutzung der Unterscheidungskraft (Aufmerksamkeitsausbeutung), Ausnutzung der Wertschätzung (Rufausbeutung), Beeinträchtigung der Unterscheidungskraft (Verwässerung), Beeinträchtigung der Wertschätzung (Rufschädigung), Bekannte Marke ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)), Benutzung im geschäftlichen Verkehr, Domainname als Kennzeichen
+Zugehörige Begriffe: Aktivlegitimation / Rechtsinhaberschaft, Anordnungen gegen Mittelspersonen ([Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))), Ausnutzung der Unterscheidungskraft (Aufmerksamkeitsausbeutung), Ausnutzung der Wertschätzung (Rufausbeutung), Beeinträchtigung der Unterscheidungskraft (Verwässerung), Beeinträchtigung der Wertschätzung (Rufschädigung), Bekannte Marke ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)), Benutzung im geschäftlichen Verkehr
 
 *Tags: Gesetz*
 
@@ -7073,7 +7795,7 @@ die im Eigentum des Verletzers stehenden Materialien und Geräte
 anzuwenden, die vorwiegend zur widerrechtlichen Kennzeichnung der
 Waren gedient haben.
 
-Zugehörige Begriffe: Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
+Zugehörige Begriffe: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
 
 *Tags: Gesetz*
 
@@ -7088,7 +7810,7 @@ den Verletzer in den Fällen der §§ [14](https://www.gesetze-im-internet.de/ma
 Auskunft über die Herkunft und den Vertriebsweg von widerrechtlich
 gekennzeichneten Waren oder Dienstleistungen in Anspruch nehmen.
 
-Zugehörige Begriffe: Schadensersatz ([§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html)) und dreifache Schadensberechnung, Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
+Zugehörige Begriffe: Anordnungen gegen Mittelspersonen ([Art. 11 S. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))), Auskunftsanspruch gegen Dritte ([§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html)), Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Einstweilige Verfügung in Kennzeichenstreitsachen, Gewerbliches Ausmaß, Schadensersatz ([§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html)) und dreifache Schadensberechnung, Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
 
 *Tags: Gesetz*
 
@@ -7110,7 +7832,7 @@ Bank-, Finanz- oder Handelsunterlagen. Soweit der vermeintliche
 Verletzer geltend macht, dass es sich um vertrauliche Informationen
 handelt, trifft das Gericht die erforderlichen Ma …
 
-Zugehörige Begriffe: Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
+Zugehörige Begriffe: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Einstweilige Verfügung in Kennzeichenstreitsachen, Gewerbliches Ausmaß, Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html)), Vorlage- und Besichtigungsanspruch ([§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html))
 
 *Tags: Gesetz*
 
@@ -7132,7 +7854,7 @@ Erfüllung des Schadensersatzanspruchs fraglich ist. Soweit der
 Verletzer geltend macht, dass es sich um vertrauliche Informationen
 handelt, trifft das Gericht die erforderlichen Maßnahmen, u …
 
-Zugehörige Begriffe: Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
+Zugehörige Begriffe: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Gewerbliches Ausmaß, Sicherung von Schadensersatzansprüchen ([§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html)), Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
 
 *Tags: Gesetz*
 
@@ -7151,7 +7873,7 @@ wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der
 Rechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz
 1 ist nicht vorläufig vollstreckbar.
 
-Zugehörige Begriffe: Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
+Zugehörige Begriffe: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Urteilsbekanntmachung ([§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html)), Vernichtung, Rückruf, Auskunft (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html))
 
 *Tags: Gesetz*
 
@@ -7284,7 +8006,7 @@ seines Anspruchs beruft, nicht gemäß [§ 26](https://www.gesetze-im-internet.d
 zu diesem Zeitpunkt seit mindestens fünf Jahren kein Widerspruch mehr
 gegen die Marke möglich war.
 
-Zugehörige Begriffe: Benutzungsschonfrist, Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117), Nichtbenutzungseinrede ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html))
+Zugehörige Begriffe: Benutzungsschonfrist, Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html)), Nichtbenutzungseinrede ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html))
 
 *Tags: Gesetz*
 
@@ -7301,7 +8023,7 @@ Waren oder Dienstleistungen, für die sie eingetragen ist, im Inland
 ernsthaft benutzt worden sein, es sei denn, daß berechtigte Gründe für
 die Nichtbenutzung vorliegen.
 
-Zugehörige Begriffe: Benutzung in abweichender Form ([§ 26 Abs. 3](https://www.gesetze-im-internet.de/markeng/__26.html)), Benutzungsschonfrist, Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117), Ernsthafte Benutzung, Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html))
+Zugehörige Begriffe: Benutzung in abweichender Form ([§ 26 Abs. 3](https://www.gesetze-im-internet.de/markeng/__26.html)), Benutzungsschonfrist, Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html)), Ernsthafte Benutzung, Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4, 5](https://www.gesetze-im-internet.de/markeng/__125b.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html))
 
 *Tags: Gesetz*
 
@@ -7500,7 +8222,7 @@ sind, Rechte aus einer geschützten Ursprungsbezeichnung oder einer
 geschützten geografischen Angabe mit älterem Zeitrang geltend zu
 machen, gegen die Eintragung der Marke Widerspruch erhoben werden.
 
-Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB), Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV), Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187 ff. BGB](https://www.gesetze-im-internet.de/bgb/__187.html)), Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV), Relative Schutzhindernisse (§§ [9](https://www.gesetze-im-internet.de/markeng/__9.html)-[13](https://www.gesetze-im-internet.de/markeng/__13.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
 
 *Tags: Gesetz*
 
@@ -7521,7 +8243,7 @@ durch eine eidesstattliche Versicherung erbracht werden. Bei der
 Entscheidung werden nur Waren und Dienstleistungen berücksichtigt, für
 die die Benutzung nachgewiesen worden ist.
 
-Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Glaubhaftmachung und eidesstattliche Versicherung, Nichtbenutzungseinrede ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4, 5](https://www.gesetze-im-internet.de/markeng/__125b.html)), Glaubhaftmachung und eidesstattliche Versicherung, Nichtbenutzungseinrede ([§ 25](https://www.gesetze-im-internet.de/markeng/__25.html), [§ 43 Abs. 1](https://www.gesetze-im-internet.de/markeng/__43.html)), Rechtserhaltende Benutzung ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
 
 *Tags: Gesetz*
 
@@ -7650,7 +8372,7 @@ oder rechtskräftiges Urteil entschieden wurde. Dies gilt auch, wenn
 [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) rechtshängig ist. [§ 325 Absatz 1](https://www.gesetze-im-internet.de/markeng/__325.html) der Zivilprozessordnung gilt
 entsprechend. Werden zwisch …
 
-Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4, 5](https://www.gesetze-im-internet.de/markeng/__125b.html)), Nichtigkeit (§§ [50](https://www.gesetze-im-internet.de/markeng/__50.html), [51](https://www.gesetze-im-internet.de/markeng/__51.html)), Verfall ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html), [Art. 45 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -7812,7 +8534,7 @@ Bundespatentgericht statt. Die Beschwerde steht den am Verfahren vor
 dem Deutschen Patent- und Markenamt Beteiligten zu. Die Beschwerde hat
 aufschiebende Wirkung.
 
-Zugehörige Begriffe: Beschwer als Zulässigkeitsvoraussetzung, Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)), Erinnerung ([§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html)), Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB), Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
+Zugehörige Begriffe: Beschwer als Zulässigkeitsvoraussetzung, Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)), Erinnerung ([§ 64 MarkenG](https://www.gesetze-im-internet.de/markeng/__64.html)), Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187 ff. BGB](https://www.gesetze-im-internet.de/bgb/__187.html)), Gebührenzahlung und Zahlungstag ([§ 64a MarkenG](https://www.gesetze-im-internet.de/markeng/__64a.html), PatKostG, PatKostZV), Widerspruchsverfahren (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html), [43](https://www.gesetze-im-internet.de/markeng/__43.html))
 
 *Tags: Gesetz*
 
@@ -7887,7 +8609,7 @@ anzuwenden. Im Verfahren vor dem Bundespatentgericht gilt für die
 Gebühren das Patentkostengesetz, für die Auslagen gilt das
 Gerichtskostengesetz entsprechend.
 
-Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Beteiligten-, Prozess- und Postulationsfähigkeit, Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB), Glaubhaftmachung und eidesstattliche Versicherung, Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
+Zugehörige Begriffe: Aussetzung des Verfahrens ([§ 82 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html)), Beteiligten-, Prozess- und Postulationsfähigkeit, Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187 ff. BGB](https://www.gesetze-im-internet.de/bgb/__187.html)), Glaubhaftmachung und eidesstattliche Versicherung, Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
 
 *Tags: Gesetz*
 
@@ -7968,7 +8690,7 @@ Stand einzusetzen. Dies gilt nicht für die Frist zur Erhebung des
 Widerspruchs und zur Zahlung der Widerspruchsgebühr ([§ 6 Abs. 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__6.html)
 des Patentkostengesetzes).
 
-Zugehörige Begriffe: Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187](https://www.gesetze-im-internet.de/markeng/__187.html) ff. BGB), Glaubhaftmachung und eidesstattliche Versicherung, Weiterbehandlung der Anmeldung ([§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html)), Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
+Zugehörige Begriffe: Fristberechnung ([§ 82 MarkenG](https://www.gesetze-im-internet.de/markeng/__82.html), [§§ 187 ff. BGB](https://www.gesetze-im-internet.de/bgb/__187.html)), Glaubhaftmachung und eidesstattliche Versicherung, Weiterbehandlung der Anmeldung ([§ 91a MarkenG](https://www.gesetze-im-internet.de/markeng/__91a.html)), Wiedereinsetzung in den vorigen Stand ([§ 91 MarkenG](https://www.gesetze-im-internet.de/markeng/__91.html))
 
 *Tags: Gesetz*
 
@@ -8014,7 +8736,7 @@ mit folgenden Maßgaben:
  Erfordernis des [§ 96](https://www.gesetze-im-internet.de/markeng/__96.html) keinen Inlandsvertreter bestellt haben, kann mit
  eingeschriebenem Brief durch Aufgabe zur Post zugestellt werden.
  Gleiches gilt für Empfänger, die selbst Inlandsvertreter im Sinne des
- [§ 96 Abs. 2](https://www.gesetze-im-internet.de/markeng/__96.html) sind. [§ 184 Abs. 2 Satz 1](https://www.gesetze-im-internet.de/markeng/__184.html) und 4 der Zivilprozessordnung
+ [§ 96 Abs. 2](https://www.gesetze-im-internet.de/markeng/__96.html) sind. [§ 184 Abs. 2 Satz 1 und 4](https://www.gesetze-im-internet.de/markeng/__184.html) der Zivilprozessordnung
  gilt entsprechend.
 
 2. Für Zustellungen an Erlaubnisscheininhaber ([§ 177](https://www.gesetze-im-internet.de/markeng/__177.html) der
@@ -8035,7 +8757,7 @@ Zugehörige Begriffe: Zustellung im Markenverfahren ([§ 94 MarkenG](https://www
 
 Soweit in Verfahren vor dem Deutschen Patent- und Markenamt für
 Anmeldungen, Anträge oder sonstige Handlungen die Schriftform
-vorgesehen ist, gelten die Regelungen des [§ 130a Absatz 1](https://www.gesetze-im-internet.de/markeng/__130a.html), 2 Satz 1,
+vorgesehen ist, gelten die Regelungen des [§ 130a Absatz 1, 2 Satz 1](https://www.gesetze-im-internet.de/markeng/__130a.html),
 Absatz 5 und 6 der Zivilprozessordnung entsprechend.
 
 Zugehörige Begriffe: Beschwerde zum Bundespatentgericht ([§ 66 MarkenG](https://www.gesetze-im-internet.de/markeng/__66.html)), Zustellung im Markenverfahren ([§ 94 MarkenG](https://www.gesetze-im-internet.de/markeng/__94.html))
@@ -8076,7 +8798,7 @@ geographischen Herkunft, ihrer Art, ihrer Qualität oder ihren
 sonstigen Eigenschaften zu unterscheiden. Eine Kollektivmarke muss bei
 der Anmeldung als solche bezeichnet werden.
 
-Zugehörige Begriffe: Kollektivmarke und Gewährleistungsmarke ([§§ 97](https://www.gesetze-im-internet.de/markeng/__97.html) ff., 106a ff.)
+Zugehörige Begriffe: Kollektivmarke und Gewährleistungsmarke ([§§ 97 ff.](https://www.gesetze-im-internet.de/markeng/__97.html), 106a ff.)
 
 *Tags: Gesetz*
 
@@ -8091,7 +8813,7 @@ aus Zeichen oder Angaben bestehen, die im Verkehr zur Bezeichnung der
 geographischen Herkunft der Waren oder der Dienstleistungen dienen
 können.
 
-Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126](https://www.gesetze-im-internet.de/markeng/__126.html) ff.), Kollektivmarke und Gewährleistungsmarke ([§§ 97](https://www.gesetze-im-internet.de/markeng/__97.html) ff., 106a ff.)
+Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126 ff.](https://www.gesetze-im-internet.de/markeng/__126.html)), Kollektivmarke und Gewährleistungsmarke ([§§ 97 ff.](https://www.gesetze-im-internet.de/markeng/__97.html), 106a ff.)
 
 *Tags: Gesetz*
 
@@ -8104,7 +8826,7 @@ Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126](https://www.ges
 Der Anmeldung der Kollektivmarke muß eine Kollektivmarkensatzung
 beigefügt sein.
 
-Zugehörige Begriffe: Kollektivmarke und Gewährleistungsmarke ([§§ 97](https://www.gesetze-im-internet.de/markeng/__97.html) ff., 106a ff.)
+Zugehörige Begriffe: Kollektivmarke und Gewährleistungsmarke ([§§ 97 ff.](https://www.gesetze-im-internet.de/markeng/__97.html), 106a ff.)
 
 *Tags: Gesetz*
 
@@ -8132,7 +8854,7 @@ unterscheiden, für die keine derartige Gewährleistung besteht. Eine
 Gewährleistungsmarke muss bei der Anmeldung als solche bezeichnet
 werden.
 
-Zugehörige Begriffe: Kollektivmarke und Gewährleistungsmarke ([§§ 97](https://www.gesetze-im-internet.de/markeng/__97.html) ff., 106a ff.)
+Zugehörige Begriffe: Kollektivmarke und Gewährleistungsmarke ([§§ 97 ff.](https://www.gesetze-im-internet.de/markeng/__97.html), 106a ff.)
 
 *Tags: Gesetz*
 
@@ -8208,7 +8930,7 @@ An die Stelle des Antrags auf Erklärung des Verfalls einer Marke
 oder älterer Rechte ([§ 51](https://www.gesetze-im-internet.de/markeng/__51.html)) tritt für international registrierte Marken
 der Antrag auf Schutzentziehung.
 
-Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117), Schutzverweigerung und Widerspruch gegen IR-Marken (§§ [113](https://www.gesetze-im-internet.de/markeng/__113.html)-[115](https://www.gesetze-im-internet.de/markeng/__115.html))
+Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html)), Schutzverweigerung und Widerspruch gegen IR-Marken (§§ [113](https://www.gesetze-im-internet.de/markeng/__113.html)-[115](https://www.gesetze-im-internet.de/markeng/__115.html))
 
 *Tags: Gesetz*
 
@@ -8224,7 +8946,7 @@ Maßgabe anzuwenden, dass an die Stelle des Zeitpunkts, ab dem kein
 Widerspruch mehr gegen die Marke möglich war, einer der in [§ 115
 Absatz 2](https://www.gesetze-im-internet.de/markeng/__115.html) bezeichneten Tage tritt.
 
-Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117), International registrierte Marke (IR-Marke, Madrider System)
+Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html)), International registrierte Marke (IR-Marke, Madrider System)
 
 *Tags: Gesetz*
 
@@ -8240,7 +8962,7 @@ ist [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html) mit der Maßga
 ab dem kein Widerspruch mehr gegen die Marke möglich war, einer der in
 [§ 115 Absatz 2](https://www.gesetze-im-internet.de/markeng/__115.html) bezeichneten Tage tritt.
 
-Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117)
+Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html))
 
 *Tags: Gesetz*
 
@@ -8278,7 +9000,7 @@ anzuwenden mit der Maßgabe, daß an die Stelle der in den §§ [112](https://ww
 entsprechenden Vorschriften des Protokolls zum Madrider Markenabkommen
 treten.
 
-Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2](https://www.gesetze-im-internet.de/markeng/__115.html), 116, 117), International registrierte Marke (IR-Marke, Madrider System), Schutzverweigerung und Widerspruch gegen IR-Marken (§§ [113](https://www.gesetze-im-internet.de/markeng/__113.html)-[115](https://www.gesetze-im-internet.de/markeng/__115.html))
+Zugehörige Begriffe: Benutzungsschonfrist und Einreden bei IR-Marken ([§§ 115 Abs. 2, 116, 117](https://www.gesetze-im-internet.de/markeng/__115.html)), International registrierte Marke (IR-Marke, Madrider System), Schutzverweigerung und Widerspruch gegen IR-Marken (§§ [113](https://www.gesetze-im-internet.de/markeng/__113.html)-[115](https://www.gesetze-im-internet.de/markeng/__115.html))
 
 *Tags: Gesetz*
 
@@ -8300,7 +9022,7 @@ Protokolls zum Madrider Markenabkommen oder der Tag der Eintragung der
 Schutzerstreckung nach Artikel
 3ter Abs. 2 des Protokolls zum Madrider Markenabkommen …
 
-Zugehörige Begriffe: International registrierte Marke (IR-Marke, Madrider System), Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html))
+Zugehörige Begriffe: International registrierte Marke (IR-Marke, Madrider System), Seniorität und Umwandlung ([Art. 39, 40, 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html))
 
 *Tags: Gesetz*
 
@@ -8323,7 +9045,7 @@ Nummern 3 bis 6 entsprechend wie folgt anzuwenden:
  angemeldete oder eingetragene Unionsmarken mit älterem Zeitrang den
  nach diesem Gesetz angemeldeten oder eingetragenen Ma …
 
-Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), [Art. 9 Abs. 2 lit. c UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4](https://www.gesetze-im-internet.de/markeng/__125b.html), 5), Unionsmarke (UMV) und Koexistenz
+Zugehörige Begriffe: Bekannte Marke als relatives Schutzhindernis ([§ 9 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html)), Bekanntheit in der Union ([§ 125b Nr. 1](https://www.gesetze-im-internet.de/markeng/__125b.html), [Art. 9 Abs. 2 lit. c UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)), Ernsthafte Benutzung der Unionsmarke ([Art. 18 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [§ 125b Nr. 4, 5](https://www.gesetze-im-internet.de/markeng/__125b.html)), Unionsmarke (UMV) und Koexistenz
 
 *Tags: Gesetz*
 
@@ -8344,7 +9066,7 @@ nachträglich die Ungültigkeit dieser Marke wegen Verfalls oder wegen
 Nichtigkeit festgestellt werden. In diesem Fall entfaltet der Zeitrang
 keine Wirkung.
 
-Zugehörige Begriffe: Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html)), Unionsmarke (UMV) und Koexistenz
+Zugehörige Begriffe: Seniorität und Umwandlung ([Art. 39, 40, 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html)), Unionsmarke (UMV) und Koexistenz
 
 *Tags: Gesetz*
 
@@ -8361,7 +9083,7 @@ Gebühr und die Klassengebühren nach dem Patentkostengesetz für das
 Umwandlungsverfahren mit Zugang des Umwandlungsantrages beim Deutschen
 Patent- und Markenamt fällig.
 
-Zugehörige Begriffe: Seniorität und Umwandlung (Art. 39, 40, 139 ff. UMV; §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html)), Unionsmarke (UMV) und Koexistenz
+Zugehörige Begriffe: Seniorität und Umwandlung ([Art. 39, 40, 139 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); §§ [125c](https://www.gesetze-im-internet.de/markeng/__125c.html), [125d](https://www.gesetze-im-internet.de/markeng/__125d.html)), Unionsmarke (UMV) und Koexistenz
 
 *Tags: Gesetz*
 
@@ -8377,7 +9099,7 @@ Unionsmarkenverordnung zuständig sind (Unionsmarkenstreitsachen), sind
 als Unionsmarkengerichte im ersten Rechtszug die Landgerichte ohne
 Rücksicht auf den Streitwert ausschließlich zuständig.
 
-Zugehörige Begriffe: Unionsmarke (UMV) und Koexistenz, Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV)
+Zugehörige Begriffe: Unionsmarke (UMV) und Koexistenz, Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), [Art. 123 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001))
 
 *Tags: Gesetz*
 
@@ -8396,7 +9118,7 @@ des Deutschen Patent- und Markenamts eingetragene Marke handelte. Ist
 eine Zuständigkeit danach nicht begründet, so ist das Gericht örtlich
 zuständig, bei dem der Kläger seinen allgemeinen Gerichtsstand hat.
 
-Zugehörige Begriffe: Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV)
+Zugehörige Begriffe: Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), [Art. 123 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001))
 
 *Tags: Gesetz*
 
@@ -8412,7 +9134,7 @@ Angaben oder Zeichen, die im geschäftlichen Verkehr zur Kennzeichnung
 der geographischen Herkunft von Waren oder Dienstleistungen benutzt
 werden.
 
-Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126](https://www.gesetze-im-internet.de/markeng/__126.html) ff.), Verhältnis MarkenG – UWG – [§ 12 BGB](https://www.gesetze-im-internet.de/bgb/__12.html)
+Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126 ff.](https://www.gesetze-im-internet.de/markeng/__126.html)), Verhältnis MarkenG – UWG – [§ 12 BGB](https://www.gesetze-im-internet.de/bgb/__12.html)
 
 *Tags: Gesetz*
 
@@ -8430,7 +9152,7 @@ solcher Namen, Angaben oder Zeichen für Waren oder Dienstleistungen
 anderer Herkunft eine Gefahr der Irreführung über die geographische
 Herkunft besteht.
 
-Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126](https://www.gesetze-im-internet.de/markeng/__126.html) ff.)
+Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126 ff.](https://www.gesetze-im-internet.de/markeng/__126.html))
 
 *Tags: Gesetz*
 
@@ -8447,7 +9169,7 @@ bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden.
 Der Anspruch besteht auch dann, wenn eine Zuwiderhandlung droht. Die
 §§ [18](https://www.gesetze-im-internet.de/markeng/__18.html), [19](https://www.gesetze-im-internet.de/markeng/__19.html), [19a](https://www.gesetze-im-internet.de/markeng/__19a.html) und [19c](https://www.gesetze-im-internet.de/markeng/__19c.html) gelten entsprechend.
 
-Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126](https://www.gesetze-im-internet.de/markeng/__126.html) ff.)
+Zugehörige Begriffe: Geographische Herkunftsangaben ([§§ 126 ff.](https://www.gesetze-im-internet.de/markeng/__126.html))
 
 *Tags: Gesetz*
 
@@ -8478,7 +9200,7 @@ Gesetz geregelten Rechtsverhältnisse geltend gemacht wird
 (Kennzeichenstreitsachen), sind die Landgerichte ohne Rücksicht auf
 den Streitwert ausschließlich zuständig.
 
-Zugehörige Begriffe: Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), Art. 123 ff. UMV), Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html))
+Zugehörige Begriffe: Einstweilige Verfügung in Kennzeichenstreitsachen, Kostenerstattung und Patentanwaltskosten ([Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html)), Unionsmarkengerichte und Verfahren ([§ 125e](https://www.gesetze-im-internet.de/markeng/__125e.html), [Art. 123 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)), Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html))
 
 *Tags: Gesetz*
 
@@ -8493,6 +9215,51 @@ betreffen und auf Vorschriften des Gesetzes gegen den unlauteren
 Wettbewerb gegründet werden, brauchen nicht im Gerichtsstand des [§ 14](https://www.gesetze-im-internet.de/markeng/__14.html)
 des Gesetzes gegen den unlauteren Wettbewerb geltend gemacht zu
 werden.
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html)?
+
+**A:** Streitwertbegünstigung
+
+Macht in bürgerlichen Rechtsstreitigkeiten, in denen durch Klage
+ein Anspruch aus einem der in diesem Gesetz geregelten
+Rechtsverhältnisse geltend gemacht wird, eine Partei glaubhaft, daß
+die Belastung mit den Prozeßkosten nach dem vollen Streitwert ihre
+wirtschaftliche Lage erheblich gefährden würde, so kann das Gericht
+auf ihren Antrag anordnen, daß die Verpflichtung dieser Partei zur
+Zahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage
+angepaßten Teil des Streitwerts bemißt.
+
+Zugehörige Begriffe: Kostenerstattung und Patentanwaltskosten ([Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html)?
+
+**A:** Strafbare Kennzeichenverletzung
+
+Wer im geschäftlichen Verkehr widerrechtlich
+
+1. entgegen [§ 14 Abs. 2 Satz 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html) oder 2 ein Zeichen benutzt,
+
+2. entgegen [§ 14 Abs. 2 Satz 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html) ein Zeichen in der Absicht benutzt,
+ die Unterscheidungskraft oder die Wertschätzung einer bekannten Marke
+ auszunutzen oder zu beeinträchtigen,
+
+3. entgegen [§ 14 Abs. 4 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html) ein Zeichen anbringt oder entgegen [§ 14
+ Abs. 4 Nr. 2](https://www.gesetze-im-internet.de/markeng/__14.html) oder 3 eine Aufmachung oder Verpackung oder ein
+ Kennzeichnungsmittel anbietet, in den Verkehr bringt, besitzt,
+ einführt oder ausführt, soweit Dritten die Benutzung des Zeichens
+
+ a) nach [§ 14 Abs. 2 Satz 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__14.html) oder 2 untersagt wäre oder
+
+ b) nach [§ 14 Abs. 2 Satz 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html) untersagt wäre und die Handlung in der
+ Absic …
 
 *Tags: Gesetz*
 
@@ -8568,7 +9335,7 @@ Umgesetzt in: [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html
 
 Hinweis: Nicht harmonisiert sind Benutzungsmarken ([§ 4 Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__4.html)) und geschäftliche Bezeichnungen ([§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)); insoweit bleibt das nationale Recht frei.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8580,7 +9347,7 @@ Hinweis: Nicht harmonisiert sind Benutzungsmarken ([§ 4 Nr. 2 MarkenG](https://
 
 Umgesetzt in: [§ 41](https://www.gesetze-im-internet.de/markeng/__41.html), [§ 56 MarkenG](https://www.gesetze-im-internet.de/markeng/__56.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8594,7 +9361,7 @@ Umgesetzt in: [§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html)
 
 Hinweis: Aufgabe des Erfordernisses der graphischen Darstellbarkeit (Sieckmann-Kriterien bleiben Maßstab). Umsetzung im MaMoG: [§ 8 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html) neu gefasst; Klang-, Bewegungs-, Multimedia- und Hologrammmarken ausdrücklich zulässig.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8606,9 +9373,9 @@ Von der Eintragung ausgeschlossen bzw. für ungültig zu erklären sind: (a) nic
 
 Umgesetzt in: [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 8 Abs. 2](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 8 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)
 
-Hinweis: Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ ([§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)), Bösgläubigkeit als zwingender Ungültigkeitsgrund ([§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen ([§ 8 Abs. 2 Nr. 9](https://www.gesetze-im-internet.de/markeng/__8.html) bis 13 MarkenG).
+Hinweis: Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ ([§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)), Bösgläubigkeit als zwingender Ungültigkeitsgrund ([§ 8 Abs. 2 Nr. 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen ([§ 8 Abs. 2 Nr. 9 bis 13 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8622,7 +9389,7 @@ Umgesetzt in: [§ 10](https://www.gesetze-im-internet.de/markeng/__10.html), [§
 
 Hinweis: Der Bekanntheitsschutz im Register ist jetzt zwingend und gilt ausdrücklich auch bei identischen und ähnlichen Waren; [§ 9 Abs. 1 Nr. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html) wurde entsprechend geändert (Streichung von „nicht ähnlich“).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8634,7 +9401,7 @@ Wurde für eine Unionsmarke die Seniorität einer nationalen Marke in Anspruch g
 
 Umgesetzt in: [§ 125c MarkenG](https://www.gesetze-im-internet.de/markeng/__125c.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8646,7 +9413,7 @@ Liegt ein Hindernis nur für einen Teil der Waren oder Dienstleistungen vor, wir
 
 Umgesetzt in: [§ 37 Abs. 5](https://www.gesetze-im-internet.de/markeng/__37.html), [§ 50](https://www.gesetze-im-internet.de/markeng/__50.html), [§ 51 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8660,7 +9427,7 @@ Umgesetzt in: [§ 22](https://www.gesetze-im-internet.de/markeng/__22.html), [§
 
 Hinweis: Maßgeblicher Zeitpunkt für Kennzeichnungskraft und Bekanntheit der älteren Marke ist der Prioritätstag der jüngeren Marke ([§ 51 Abs. 3](https://www.gesetze-im-internet.de/markeng/__51.html), Abs. 4 S. 2 MarkenG).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8672,7 +9439,7 @@ Hat der Inhaber einer älteren Marke die Benutzung einer jüngeren eingetragenen
 
 Umgesetzt in: [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 51 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__51.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8686,7 +9453,7 @@ Umgesetzt in: [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.htm
 
 Hinweis: Kern der Harmonisierung. Neu: Transitverbot ([§ 14a MarkenG](https://www.gesetze-im-internet.de/markeng/__14a.html)), Benutzung als Unternehmensbezeichnung ausdrücklich als Verletzungshandlung ([§ 14 Abs. 3 Nr. 5](https://www.gesetze-im-internet.de/markeng/__14.html)), Bekanntheitsschutz zwingend und für alle Waren ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)). Die Funktionenlehre des EuGH (Herkunfts-, Werbe-, Investitionsfunktion) ist Auslegung dieses Artikels.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8700,7 +9467,7 @@ Umgesetzt in: [§ 14 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/
 
 Hinweis: Vorverlagerung des Schutzes gegen Produktpiraterie; [§ 14 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) wurde um Sicherheits- und Echtheitshinweise erweitert.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8712,7 +9479,7 @@ Erweckt die Wiedergabe einer Marke in einem Wörterbuch, Lexikon oder ähnlichen
 
 Umgesetzt in: [§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8724,7 +9491,7 @@ Wurde eine Marke ohne Zustimmung des Inhabers auf den Namen seines Agenten oder 
 
 Umgesetzt in: [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html), [§ 17 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8738,7 +9505,7 @@ Umgesetzt in: [§ 23 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.ht
 
 Hinweis: Neu: Die Namensschranke gilt nur noch für natürliche Personen ([§ 23 Abs. 1 Nr. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__23.html)); die referierende Benutzung („zu Zwecken der Identifizierung oder des Verweises“) ist ausdrücklich privilegiert.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8752,7 +9519,7 @@ Umgesetzt in: [§ 24 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.ht
 
 Hinweis: Unionsweite (EWR-weite) Erschöpfung; keine internationale Erschöpfung (EuGH Silhouette). Die Beweislastregeln (Van Doren) und die BMS-Kriterien konkretisieren Abs. 1 und 2.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8766,7 +9533,7 @@ Umgesetzt in: [§ 115](https://www.gesetze-im-internet.de/markeng/__115.html), [
 
 Hinweis: Die Schonfrist beginnt jetzt mit dem Abschluss des Widerspruchsverfahrens ([§ 26 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__26.html) neu); Benutzung in abweichender Form ist auch dann rechtserhaltend, wenn die abweichende Form selbst eingetragen ist ([§ 26 Abs. 3 S. 2](https://www.gesetze-im-internet.de/markeng/__26.html)).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8778,7 +9545,7 @@ Der Inhaber kann die Benutzung eines Zeichens nur verbieten, soweit seine Rechte
 
 Umgesetzt in: [§ 25 MarkenG](https://www.gesetze-im-internet.de/markeng/__25.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8792,7 +9559,7 @@ Umgesetzt in: [§ 22 MarkenG](https://www.gesetze-im-internet.de/markeng/__22.ht
 
 Hinweis: Übernahme des unionsmarkenrechtlichen Zwischenrechts ([Art. 16 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001)) in das nationale Recht; [§ 22 MarkenG](https://www.gesetze-im-internet.de/markeng/__22.html) wurde neu gefasst.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8804,7 +9571,7 @@ Eine Marke wird für verfallen erklärt, wenn sie innerhalb von fünf aufeinande
 
 Umgesetzt in: [§ 49 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8816,7 +9583,7 @@ Eine Marke wird für verfallen erklärt, wenn sie nach der Eintragung (a) infolg
 
 Umgesetzt in: [§ 49 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8828,7 +9595,7 @@ Liegt ein Verfallsgrund nur für einen Teil der Waren oder Dienstleistungen vor,
 
 Umgesetzt in: [§ 49 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8840,7 +9607,7 @@ Die Marke kann unabhängig vom Unternehmen für alle oder einen Teil der Waren �
 
 Umgesetzt in: [§ 27 MarkenG](https://www.gesetze-im-internet.de/markeng/__27.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8852,7 +9619,7 @@ Die Marke kann unabhängig vom Unternehmen verpfändet oder Gegenstand eines son
 
 Umgesetzt in: [§ 29 MarkenG](https://www.gesetze-im-internet.de/markeng/__29.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8864,7 +9631,7 @@ Die Marke kann Gegenstand von Maßnahmen der Zwangsvollstreckung sein.
 
 Umgesetzt in: [§ 29 MarkenG](https://www.gesetze-im-internet.de/markeng/__29.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8878,7 +9645,7 @@ Umgesetzt in: [§ 30 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.ht
 
 Hinweis: Abs. 2 ist der unionsrechtliche Hintergrund des [§ 30 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html): Ein Lizenzverstoß in diesen Punkten schließt die Zustimmung und damit die Erschöpfung aus (EuGH Copad, BGH Converse II).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8890,7 +9657,7 @@ Die Art. 22 bis 25 gelten auch für Markenanmeldungen.
 
 Umgesetzt in: [§ 31 MarkenG](https://www.gesetze-im-internet.de/markeng/__31.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8902,7 +9669,7 @@ Umgesetzt in: [§ 31 MarkenG](https://www.gesetze-im-internet.de/markeng/__31.ht
 
 Umgesetzt in: [§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html), [§ 97 MarkenG](https://www.gesetze-im-internet.de/markeng/__97.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8914,9 +9681,9 @@ Die Mitgliedstaaten können die Eintragung von Garantie- oder Gewährleistungsma
 
 Umgesetzt in: [§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html), [§ 106b](https://www.gesetze-im-internet.de/markeng/__106b.html), [§ 106c](https://www.gesetze-im-internet.de/markeng/__106c.html), [§ 106d MarkenG](https://www.gesetze-im-internet.de/markeng/__106d.html)
 
-Hinweis: Deutschland hat die Option genutzt: Gewährleistungsmarke seit dem MaMoG in [§§ 106a](https://www.gesetze-im-internet.de/markeng/__106a.html) ff. MarkenG (Prüf- und Gütesiegel).
+Hinweis: Deutschland hat die Option genutzt: Gewährleistungsmarke seit dem MaMoG in [§§ 106a ff. MarkenG](https://www.gesetze-im-internet.de/markeng/__106a.html) (Prüf- und Gütesiegel).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8928,7 +9695,7 @@ Die Mitgliedstaaten sehen die Eintragung von Kollektivmarken vor.
 
 Umgesetzt in: [§ 100](https://www.gesetze-im-internet.de/markeng/__100.html), [§ 97](https://www.gesetze-im-internet.de/markeng/__97.html), [§ 98](https://www.gesetze-im-internet.de/markeng/__98.html), [§ 99 MarkenG](https://www.gesetze-im-internet.de/markeng/__99.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8940,7 +9707,7 @@ Der Anmelder legt dem Amt die Markensatzung vor.
 
 Umgesetzt in: [§ 102 MarkenG](https://www.gesetze-im-internet.de/markeng/__102.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8952,7 +9719,7 @@ Neben den Gründen der Art. 4 und 5 wird die Anmeldung zurückgewiesen, wenn Art
 
 Umgesetzt in: [§ 103 MarkenG](https://www.gesetze-im-internet.de/markeng/__103.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8964,7 +9731,7 @@ Art. 16 ist erfüllt, wenn eine zur Benutzung befugte Person die Kollektivmarke 
 
 Umgesetzt in: [§ 100 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__100.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8976,7 +9743,7 @@ Der Inhaber legt jede geänderte Satzung dem Amt vor.
 
 Umgesetzt in: [§ 104 MarkenG](https://www.gesetze-im-internet.de/markeng/__104.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -8988,7 +9755,7 @@ Art. 25 Abs. 3 und 4 gelten für zur Benutzung Befugte entsprechend.
 
 Umgesetzt in: [§ 101](https://www.gesetze-im-internet.de/markeng/__101.html), [§ 106c MarkenG](https://www.gesetze-im-internet.de/markeng/__106c.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9000,7 +9767,7 @@ Zusätzlich zu Art. 19 und 20 wird die Kollektivmarke für verfallen erklärt, w
 
 Umgesetzt in: [§ 105](https://www.gesetze-im-internet.de/markeng/__105.html), [§ 106g MarkenG](https://www.gesetze-im-internet.de/markeng/__106g.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9012,7 +9779,7 @@ Zusätzlich zu Art. 4 und 5 wird eine entgegen Art. 31 eingetragene Kollektivmar
 
 Umgesetzt in: [§ 106](https://www.gesetze-im-internet.de/markeng/__106.html), [§ 106h MarkenG](https://www.gesetze-im-internet.de/markeng/__106h.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9024,7 +9791,7 @@ Die Anmeldung enthält mindestens: (a) einen Antrag auf Eintragung, (b) Angaben 
 
 Umgesetzt in: [§ 32 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9036,7 +9803,7 @@ Anmeldetag ist der Tag, an dem die Unterlagen nach Art. 37 Abs. 1 beim Amt einge
 
 Umgesetzt in: [§ 33 MarkenG](https://www.gesetze-im-internet.de/markeng/__33.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9050,7 +9817,7 @@ Umgesetzt in: [§ 32 Abs. 3](https://www.gesetze-im-internet.de/markeng/__32.htm
 
 Hinweis: Abs. 7 entspricht [§ 9 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__9.html); Abs. 5 kodifiziert die IP-Translator-Rechtsprechung (EuGH C-307/10).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9062,7 +9829,7 @@ Die Mitgliedstaaten können vorsehen, dass Dritte vor der Eintragung schriftlich
 
 Umgesetzt in: [§ 37 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__37.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9074,7 +9841,7 @@ Der Anmelder oder Inhaber kann die Anmeldung oder Eintragung in zwei oder mehr T
 
 Umgesetzt in: [§ 40](https://www.gesetze-im-internet.de/markeng/__40.html), [§ 46 MarkenG](https://www.gesetze-im-internet.de/markeng/__46.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9086,7 +9853,7 @@ Die Mitgliedstaaten können für Anmeldung und Verlängerung eine zusätzliche G
 
 Umgesetzt in: [§ 32 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__32.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9100,7 +9867,7 @@ Umgesetzt in: [§ 42 MarkenG](https://www.gesetze-im-internet.de/markeng/__42.ht
 
 Hinweis: Umsetzung: [§ 42 Abs. 2](https://www.gesetze-im-internet.de/markeng/__42.html) (Widerspruchsberechtigte, jetzt auch bekannte Marken ausdrücklich), Abs. 3 (mehrere ältere Rechte), Abs. 4 (Cooling-off von mindestens zwei Monaten).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9114,7 +9881,7 @@ Umgesetzt in: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html),
 
 Hinweis: Maßgeblicher Fünfjahreszeitraum ist der vor dem Anmelde-/Prioritätstag der jüngeren Marke ([§ 43 Abs. 1 S. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__43.html) neu).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9128,7 +9895,7 @@ Umgesetzt in: [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html), [§
 
 Hinweis: Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 UAbs. 2). Deutschland: seit 1.5.2020 vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA ([§ 53 MarkenG](https://www.gesetze-im-internet.de/markeng/__53.html)), daneben Klage nach [§ 55](https://www.gesetze-im-internet.de/markeng/__55.html) nur noch für Verfall und relative Nichtigkeit.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9140,7 +9907,7 @@ Der Inhaber der jüngeren Marke kann verlangen, dass der Antragsteller die ernst
 
 Umgesetzt in: [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 53 Abs. 6](https://www.gesetze-im-internet.de/markeng/__53.html), [§ 55 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__55.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9152,7 +9919,7 @@ Bei Verfall gelten die Wirkungen der Marke ab dem Tag der Antragstellung als nic
 
 Umgesetzt in: [§ 52 MarkenG](https://www.gesetze-im-internet.de/markeng/__52.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9164,7 +9931,7 @@ Die Schutzdauer beträgt zehn Jahre ab dem Anmeldetag.
 
 Umgesetzt in: [§ 47 Abs. 1](https://www.gesetze-im-internet.de/markeng/__47.html), [§ 47 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9178,7 +9945,7 @@ Umgesetzt in: [§ 47 Abs. 3](https://www.gesetze-im-internet.de/markeng/__47.htm
 
 Hinweis: Schutzdauer und Verlängerungsfristen laufen jetzt ab dem Anmeldetag, nicht mehr ab dem Monatsende ([§ 47 MarkenG](https://www.gesetze-im-internet.de/markeng/__47.html) neu).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9190,7 +9957,7 @@ Die Verfahrensbeteiligten oder ihre Vertreter geben eine amtliche Anschrift für
 
 Umgesetzt in: [§ 94](https://www.gesetze-im-internet.de/markeng/__94.html), [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9202,7 +9969,7 @@ Die Ämter arbeiten untereinander und mit dem EUIPO zusammen, um Verfahren und I
 
 Umgesetzt in: [§ 65a MarkenG](https://www.gesetze-im-internet.de/markeng/__65a.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9214,7 +9981,7 @@ Die Ämter können mit dem EUIPO auch in anderen Tätigkeitsbereichen zusammenar
 
 Umgesetzt in: [§ 65a MarkenG](https://www.gesetze-im-internet.de/markeng/__65a.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9226,7 +9993,7 @@ Für die Verarbeitung personenbezogener Daten gilt das nationale Datenschutzrech
 
 Umgesetzt in: [§ 62a MarkenG](https://www.gesetze-im-internet.de/markeng/__62a.html)
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9240,7 +10007,7 @@ Umgesetzt in: [§ 158 MarkenG](https://www.gesetze-im-internet.de/markeng/__158.
 
 Hinweis: Deutschland: Markenrechtsmodernisierungsgesetz (MaMoG) vom 11.12.2018, BGBl. I S. 2357, in Kraft seit 14.1.2019; Verfalls-/Nichtigkeitsverfahren vor dem DPMA seit 1.5.2020.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9250,7 +10017,7 @@ Hinweis: Deutschland: Markenrechtsmodernisierungsgesetz (MaMoG) vom 11.12.2018, 
 
 Die Richtlinie 2008/95/EG wird mit Wirkung vom 15. Januar 2019 aufgehoben; Verweise gelten als Verweise auf diese Richtlinie (Entsprechungstabelle in Anhang).
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9260,7 +10027,7 @@ Die Richtlinie 2008/95/EG wird mit Wirkung vom 15. Januar 2019 aufgehoben; Verwe
 
 Die Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt in Kraft; Art. 1, 7, 15, 19, 20, 21 und 54 bis 57 gelten ab dem 15. Januar 2019.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
 
 ---
 
@@ -9270,6 +10037,334 @@ Die Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblat
 
 Die Richtlinie ist an die Mitgliedstaaten gerichtet.
 
-*Tags: Richtlinie, EU*
+*Tags: Richtlinie, EU, MarkenRL*
+
+---
+
+**F:** Was regelt [Art. 1 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Gegenstand
+
+Diese Richtlinie betrifft die Maßnahmen, Verfahren und Rechtsbehelfe, die erforderlich sind, um die Durchsetzung der Rechte des geistigen Eigentums sicherzustellen. Im Sinne dieser Richtlinie umfasst der Begriff „Rechte des geistigen Eigentums“ auch die gewerblichen Schutzrechte.
+
+Umgesetzt in: [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+
+Weitere Gesetze: PatG: §§ [139](https://www.gesetze-im-internet.de/patg/__139.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG; GebrMG: §§ [24](https://www.gesetze-im-internet.de/gebrmg/__24.html) bis [24e](https://www.gesetze-im-internet.de/gebrmg/__24e.html) GebrMG; DesignG: §§ [42](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG; UrhG: §§ [97](https://www.gesetze-im-internet.de/urhg/__97.html) bis [103](https://www.gesetze-im-internet.de/urhg/__103.html) UrhG; HalblSchG: [§ 9 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: §§ [37](https://www.gesetze-im-internet.de/sortschg_1985/__37.html) bis [37e](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html) SortSchG; Allgemeines Recht: ZPO (einstweiliger Rechtsschutz, Kosten), BGB (Bereicherung, GoA)
+
+Hinweis: Die Richtlinie harmonisiert nicht das materielle Recht (das tun MarkenRL, UMV, DesignRL usw.), sondern die zivilrechtliche Durchsetzung aller Schutzrechte. Deutschland hat sie mit einem Artikelgesetz (Durchsetzungsgesetz vom 7.7.2008, BGBl. I S. 1191, in Kraft seit 1.9.2008) gleichlautend in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG umgesetzt.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Anwendungsbereich
+
+Unbeschadet etwaiger Instrumente in den Rechtsvorschriften der Gemeinschaft oder der Mitgliedstaaten, die für die Rechtsinhaber günstiger sind, finden die in dieser Richtlinie vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe gemäß Artikel 3 auf jede Verletzung von Rechten des geistigen Eigentums, die im Gemeinschaftsrecht und/oder im innerstaatlichen Recht des betreffenden Mitgliedstaats vorgesehen sind, Anwendung.
+
+Umgesetzt in: [§ 19d](https://www.gesetze-im-internet.de/markeng/__19d.html), [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+
+Weitere Gesetze: PatG: [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html); GebrMG: [§ 24g GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24g.html); DesignG: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html); UrhG: [§ 102a UrhG](https://www.gesetze-im-internet.de/urhg/__102a.html); HalblSchG: [§ 9 Abs. 4 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37g SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37g.html); Allgemeines Recht: UWG, §§ [823](https://www.gesetze-im-internet.de/bgb/__823.html), [826](https://www.gesetze-im-internet.de/bgb/__826.html), [812](https://www.gesetze-im-internet.de/bgb/__812.html) BGB, GoA bleiben unberührt (Mindestharmonisierung)
+
+Hinweis: Abs. 1 macht die Richtlinie zur Mindestharmonisierung: Strengere nationale Sanktionen (etwa eine pauschale doppelte Lizenzgebühr) sind zulässig (EuGH OTK). Erfasst sind auch rein national geschützte Rechte wie Unternehmenskennzeichen ([§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)) und Benutzungsmarken.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 3 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Allgemeine Verpflichtung
+
+Die Mitgliedstaaten sehen die Maßnahmen, Verfahren und Rechtsbehelfe vor, die zur Durchsetzung der Rechte des geistigen Eigentums, auf die diese Richtlinie abstellt, erforderlich sind. Diese Maßnahmen, Verfahren und Rechtsbehelfe müssen fair und gerecht sein, außerdem dürfen sie nicht unnötig kompliziert oder kostspielig sein und keine unangemessenen Fristen oder ungerechtfertigten Verzögerungen mit sich bringen.
+
+Umgesetzt in: [§ 18 Abs. 3](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 Abs. 4](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 2](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
+
+Weitere Gesetze: PatG: [§ 139 Abs. 1 S. 3 bis 5 PatG](https://www.gesetze-im-internet.de/patg/__139.html) (Verhältnismäßigkeit des Unterlassungsanspruchs), [§ 140a Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 140b Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140b.html), [§ 140c Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__140c.html); GebrMG: [§ 24 Abs. 1 S. 3 bis 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html), [§ 24a Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html), [§ 24b Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html), [§ 24c Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); DesignG: [§ 43 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [§ 46 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html), [§ 46a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html); UrhG: [§ 98 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html), [§ 101 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html), [§ 101a Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. §§ [24a](https://www.gesetze-im-internet.de/gebrmg/__24a.html) bis [24c](https://www.gesetze-im-internet.de/gebrmg/__24c.html) GebrMG; SortSchG: [§ 37a Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html), [§ 37b Abs. 4 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html), [§ 37c Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html); Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html); Auslegungsmaßstab für alle Durchsetzungsnormen
+
+Hinweis: Art. 3 ist die Generalklausel der Richtlinie. Der EuGH zieht sie zur Auslegung jeder Einzelnorm heran: Kostenerstattung nur für zumutbare und angemessene Kosten (NovaText), Missbrauchskontrolle bei Auskunftsanträgen (Mircom), keine allgemeine Überwachungspflicht für Mittelspersonen (L'Oréal/eBay). Im deutschen Recht spiegeln die Verhältnismäßigkeitsvorbehalte der [§§ 18 Abs. 3, 19 Abs. 4, 19a Abs. 2, 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) Abs. 2 wider.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 4 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Zur Beantragung der Maßnahmen, Verfahren und Rechtsbehelfe befugte Personen
+
+Die Mitgliedstaaten räumen den folgenden Personen das Recht ein, die in diesem Kapitel vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe zu beantragen: a) den Inhabern der Rechte des geistigen Eigentums im Einklang mit den Bestimmungen des anwendbaren Rechts, b) allen anderen Personen, die zur Nutzung solcher Rechte befugt sind, insbesondere Lizenznehmern, soweit dies nach den Bestimmungen des anwendbaren Rechts zulässig ist und mit ihnen im Einklang steht, c) Verwertungsgesellschaften mit ordnungsgemäß anerkannter Befugnis zur Vertretung von Inhabern von Rechten des geistigen Eigentums, sow …
+
+Umgesetzt in: [§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 Abs. 1](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 30 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+
+Weitere Gesetze: PatG: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) („Verletzter“); Lizenz [§ 15 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html), Klagebefugnis des ausschließlichen Lizenznehmers nach der Rechtsprechung; GebrMG: [§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); Lizenz [§ 22 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__22.html); DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) („Rechtsinhaber oder anderer Berechtigter“); [§ 31 Abs. 3, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) (Lizenznehmer); UrhG: [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) („Verletzter“); Verwertungsgesellschaften nach dem VGG; HalblSchG: [§ 9 Abs. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Nutzungsrechte [§ 11 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__11.html); Allgemeines Recht: Prozessstandschaft, Abtretung (auch Zessionar ist Inhaber: EuGH Mircom)
+
+Hinweis: Die Richtlinie überlässt dem nationalen Recht, ob und wann Lizenznehmer klagen dürfen („soweit dies nach dem anwendbaren Recht zulässig ist“). [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html): Zustimmung des Inhabers, ausnahmsweise eigenes Klagerecht des ausschließlichen Lizenznehmers nach förmlicher Aufforderung; Abs. 4: Beitritt zur Geltendmachung eigenen Schadens.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 5 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Urheber- oder Inhabervermutung
+
+Zum Zwecke der Anwendung der in dieser Richtlinie vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe gilt Folgendes: a) Damit der Urheber eines Werkes der Literatur und Kunst mangels Gegenbeweises als solcher gilt und infolgedessen Verletzungsverfahren anstrengen kann, genügt es, dass sein Name in der üblichen Weise auf dem Werkstück angegeben ist. b) Die Bestimmung des Buchstabens a) gilt entsprechend für Inhaber von dem Urheberrecht verwandten Schutzrechten in Bezug auf ihre Schutzgegenstände.
+
+Umgesetzt in: [§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html)
+
+Weitere Gesetze: PatG: – (Registerfiktion [§ 30 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__30.html)); GebrMG: –; DesignG: –; UrhG: [§ 10 UrhG](https://www.gesetze-im-internet.de/urhg/__10.html) (Vermutung der Urheber- und Rechtsinhaberschaft); HalblSchG: –; SortSchG: –; Allgemeines Recht: nur für Urheberrecht und verwandte Schutzrechte vorgeschrieben
+
+Hinweis: Für Registerrechte braucht es keine Namensvermutung: Die Eintragung begründet die Vermutung der Inhaberschaft ([§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html)). Art. 5 ist deshalb allein im UrhG ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html)) umgesetzt.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Beweise
+
+Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur hinreichenden Begründung ihrer Ansprüche vorgelegt und die in der Verfügungsgewalt der gegnerischen Partei befindlichen Beweismittel zur Begründung ihrer Ansprüche bezeichnet hat, die Vorlage dieser Beweismittel durch die gegnerische Partei anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Für die Zwecke dieses Absatzes können die Mitgliedstaaten vorsehen, dass eine angemessen große Auswahl aus einer erheblichen Anza …
+
+Umgesetzt in: [§ 19a Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+
+Weitere Gesetze: PatG: [§ 140c Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__140c.html); GebrMG: [§ 24c Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); DesignG: [§ 46a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html); UrhG: [§ 101a Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); SortSchG: [§ 37c Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html); Allgemeines Recht: §§ [142](https://www.gesetze-im-internet.de/zpo/__142.html), [144](https://www.gesetze-im-internet.de/zpo/__144.html) ZPO (Anordnung der Urkundenvorlage und des Augenscheins), [§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html)
+
+Hinweis: Deutschland hat Art. 6 und 7 als materiellen Anspruch ausgestaltet ([§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html): Vorlage einer Urkunde, Besichtigung einer Sache; bei gewerblichem Ausmaß auch Bank-, Finanz-, Handelsunterlagen), nicht als bloße prozessuale Anordnungsbefugnis. Voraussetzung ist „hinreichende Wahrscheinlichkeit“ der Verletzung, nicht ihr Nachweis.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Maßnahmen zur Beweissicherung
+
+Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte selbst vor Einleitung eines Verfahrens in der Sache auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur Begründung ihrer Ansprüche, dass ihre Rechte an geistigem Eigentum verletzt worden sind oder verletzt zu werden drohen, vorgelegt hat, schnelle und wirksame einstweilige Maßnahmen zur Sicherung der rechtserheblichen Beweismittel hinsichtlich der behaupteten Verletzung anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Derartige Maßnahmen können die ausführliche Besch …
+
+Umgesetzt in: [§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19a Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+
+Weitere Gesetze: PatG: [§ 140c Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140c.html), Abs. 5; GebrMG: [§ 24c Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html), Abs. 5; DesignG: [§ 46a Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), Abs. 5; UrhG: [§ 101a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html), Abs. 5; HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); SortSchG: [§ 37c Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html), Abs. 5; Allgemeines Recht: [§§ 485 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__485.html) (selbständiges Beweisverfahren); [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html), [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html), [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html)
+
+Hinweis: Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besichtigung ([§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html)), auch ohne Anhörung, mit Geheimnisschutz („Düsseldorfer Verfahren“: Besichtigung durch einen zur Verschwiegenheit verpflichteten Sachverständigen). Abs. 4 entspricht [§ 19a Abs. 5](https://www.gesetze-im-internet.de/markeng/__19a.html) (verschuldensunabhängiger Schadensersatz, wenn keine Verletzung vorlag) und allgemein [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html).
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Recht auf Auskunft
+
+Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte im Zusammenhang mit einem Verfahren wegen Verletzung eines Rechts des geistigen Eigentums auf einen begründeten und die Verhältnismäßigkeit wahrenden Antrag des Klägers hin anordnen können, dass Auskünfte über den Ursprung und die Vertriebswege von Waren oder Dienstleistungen, die ein Recht des geistigen Eigentums verletzen, von dem Verletzer und/oder jeder anderen Person erteilt werden, die a) nachweislich rechtsverletzende Ware in gewerblichem Ausmaß in ihrem Besitz hatte, b) nachweislich rechtsverletzende Dienstleistungen in  …
+
+Umgesetzt in: [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 2](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+
+Weitere Gesetze: PatG: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html); GebrMG: [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html); DesignG: [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html); UrhG: [§ 101 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html) (Abs. 1: Anspruch gegen den Verletzer nur bei gewerblichem Ausmaß); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html); SortSchG: [§ 37b SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html); Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) (unselbständige Auskunft zur Bezifferung); §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO (Zeugnisverweigerung = Abs. 3 lit. d)
+
+Hinweis: Kernstück der Richtlinie. Zuordnung: Abs. 1 lit. a bis d = [§ 19 Abs. 2 S. 1 Nr. 1 bis 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html) (Drittauskunft bei offensichtlicher Verletzung oder nach Klageerhebung); Abs. 2 = [§ 19 Abs. 3](https://www.gesetze-im-internet.de/markeng/__19.html); Abs. 3 lit. d = Zeugnisverweigerungsrecht (§§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO); Abs. 3 lit. e = Richtervorbehalt für Verkehrsdaten ([§ 19 Abs. 9](https://www.gesetze-im-internet.de/markeng/__19.html)). „Adressen“ meint nur die Postanschrift (Constantin Film); das Bankgeheimnis rechtfertigt keine pauschale Verweigerung (Coty, Davidoff Hot Water II); der Anspruch kann auch in einem gesonderten Verfahren nach dem Verletzungsprozess verfolgt werden (NEW WAVE).
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Einstweilige Maßnahmen und Sicherungsmaßnahmen
+
+Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte die Möglichkeit haben, auf Antrag des Antragstellers a) gegen den angeblichen Verletzer eine einstweilige Maßnahme anzuordnen, um eine drohende Verletzung eines Rechts des geistigen Eigentums zu verhindern oder einstweilig und, sofern die einzelstaatlichen Rechtsvorschriften dies vorsehen, in geeigneten Fällen unter Verhängung von Zwangsgeldern die Fortsetzung angeblicher Verletzungen dieses Rechts zu untersagen oder die Fortsetzung an die Stellung von Sicherheiten zu knüpfen, die die Entschädigung des Rechtsinhabers sicherstell …
+
+Umgesetzt in: [§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
+
+Weitere Gesetze: PatG: [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) (Sicherung); keine Dringlichkeitsvermutung; GebrMG: [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html); DesignG: [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html); UrhG: [§ 101b UrhG](https://www.gesetze-im-internet.de/urhg/__101b.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html); SortSchG: [§ 37d SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37d.html); Allgemeines Recht: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) (Abs. 1 lit. a), [§ 938 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__938.html) Sequestration (lit. b), [§§ 916 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__916.html) dinglicher Arrest (Abs. 2), [§ 920 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__920.html) Glaubhaftmachung (Abs. 3), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html) (Abs. 4), [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html) (Abs. 5), [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html) (Abs. 6), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) (Abs. 7)
+
+Hinweis: Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG ergänzt nur die Dringlichkeitsvermutung des [§ 140 Abs. 3](https://www.gesetze-im-internet.de/markeng/__140.html) (Unterlassung; erst seit dem MaMoG 2019, nicht richtliniengetrieben), die Eilauskunft ([§ 19 Abs. 7](https://www.gesetze-im-internet.de/markeng/__19.html)) und die Vorlageverfügung ([§ 19a Abs. 3](https://www.gesetze-im-internet.de/markeng/__19a.html)). Abs. 2 (Kontosperre, Unterlagen) = [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html) plus Arrest. Abs. 7 = [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html), der verschuldensunabhängig haftet und damit über die Richtlinie hinausgeht (EuGH Bayer/Richter: „angemessener Ersatz“ erlaubt die Berücksichtigung eigenen Risikos des Antragsgegners).
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Abhilfemaßnahmen
+
+Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag des Antragstellers anordnen können, dass in Bezug auf Waren, die nach ihren Feststellungen ein Recht des geistigen Eigentums verletzen, und gegebenenfalls in Bezug auf Materialien und Geräte, die vorwiegend zur Schaffung oder Herstellung dieser Waren gedient haben, unbeschadet etwaiger Schadensersatzansprüche des Rechtsinhabers aus der Verletzung sowie ohne Entschädigung irgendwelcher Art geeignete Maßnahmen getroffen werden. Zu diesen Maßnahmen gehören a) der Rückruf aus den Vertriebswegen, b) das endgültige Entferne …
+
+Umgesetzt in: [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 1](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 2](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html)
+
+Weitere Gesetze: PatG: [§ 140a Abs. 1 bis 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html); GebrMG: [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html); DesignG: [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) (Abs. 3: Überlassung gegen Vergütung); UrhG: [§ 98 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) (Abs. 3: Überlassung); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html); SortSchG: [§ 37a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html); Allgemeines Recht: Beseitigungsanspruch ([§ 1004 BGB](https://www.gesetze-im-internet.de/bgb/__1004.html) analog); Vollstreckung §§ [883](https://www.gesetze-im-internet.de/zpo/__883.html), [887](https://www.gesetze-im-internet.de/zpo/__887.html) ZPO
+
+Hinweis: Abs. 1 lit. a und b sind der Rückruf- und Entfernungsanspruch des [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) (neu seit 2008), lit. c der Vernichtungsanspruch des [§ 18 Abs. 1](https://www.gesetze-im-internet.de/markeng/__18.html); Abs. 3 ist der Verhältnismäßigkeitsvorbehalt des [§ 18 Abs. 3](https://www.gesetze-im-internet.de/markeng/__18.html) einschließlich der Interessen Dritter (etwa gutgläubiger Abnehmer). Kein Verschulden erforderlich.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Gerichtliche Anordnungen
+
+Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte bei Feststellung einer Verletzung eines Rechts des geistigen Eigentums eine Anordnung gegen den Verletzer erlassen können, die ihm die weitere Verletzung des betreffenden Rechts untersagt. Sofern dies nach dem Recht eines Mitgliedstaats vorgesehen ist, werden im Falle einer Missachtung dieser Anordnung in geeigneten Fällen Zwangsgelder verhängt, um die Einhaltung der Anordnung zu gewährleisten. Unbeschadet des Artikels 8 Absatz 3 der Richtlinie 2001/29/EG stellen die Mitgliedstaaten ferner sicher, dass die Rechtsinhaber eine Ano …
+
+Umgesetzt in: [§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+
+Weitere Gesetze: PatG: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html); GebrMG: [§ 24 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); UrhG: [§ 97 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html); HalblSchG: [§ 9 Abs. 1 S. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Allgemeines Recht: [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html) (Ordnungsgeld, Ordnungshaft); Störerhaftung nach der Rechtsprechung des BGH für Mittelspersonen
+
+Hinweis: Satz 1 = Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html)), Satz 2 = Vollstreckung über [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html). Satz 3 verlangt Anordnungen gegen Mittelspersonen unabhängig von deren eigener Haftung; Deutschland erfüllt das mit der Störerhaftung (Unterlassung ohne Verschulden bei Verletzung zumutbarer Prüfpflichten). Die Anordnung muss auch künftige gleichartige Verletzungen verhindern, darf aber keine allgemeine Überwachungspflicht begründen (L'Oréal/eBay); Mittelsperson kann auch der Betreiber einer physischen Markthalle sein (Tommy Hilfiger).
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Ersatzmaßnahmen
+
+Die Mitgliedstaaten können vorsehen, dass die zuständigen Gerichte in entsprechenden Fällen und auf Antrag der Person, der die in diesem Abschnitt vorgesehenen Maßnahmen auferlegt werden könnten, anordnen können, dass anstelle der Anwendung der genannten Maßnahmen eine Abfindung an die geschädigte Partei zu zahlen ist, sofern die betreffende Person weder vorsätzlich noch fahrlässig gehandelt hat, ihr aus der Durchführung der betreffenden Maßnahmen ein unverhältnismäßig großer Schaden entstehen würde und die Zahlung einer Abfindung an die geschädigte Partei als angemessene Entschädigung erschei …
+
+Weitere Gesetze: PatG: nicht genutzt (aber [§ 139 Abs. 1 S. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__139.html): Ausgleich in Geld bei unverhältnismäßiger Härte); GebrMG: nicht genutzt ([§ 24 Abs. 1 S. 3, 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html)); DesignG: [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html) (Entschädigung); UrhG: [§ 100 UrhG](https://www.gesetze-im-internet.de/urhg/__100.html) (Entschädigung); HalblSchG: –; SortSchG: –; Allgemeines Recht: fakultativ (Erwägungsgrund 25)
+
+Hinweis: Fakultative Regelung; Deutschland hat sie nur im DesignG ([§ 45](https://www.gesetze-im-internet.de/markeng/__45.html)) und UrhG ([§ 100](https://www.gesetze-im-internet.de/markeng/__100.html)) umgesetzt: Der schuldlose Verletzer kann Unterlassung und Vernichtung durch eine Geldentschädigung in Höhe der angemessenen Vergütung abwenden. Im MarkenG gibt es diese Option nicht.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Schadensersatz
+
+Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag der geschädigten Partei anordnen, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzungshandlung vornahm, dem Rechtsinhaber zum Ausgleich des von diesem wegen der Rechtsverletzung erlittenen tatsächlichen Schadens angemessenen Schadensersatz zu leisten hat. Bei der Festsetzung des Schadensersatzes verfahren die Gerichte wie folgt: a) Sie berücksichtigen alle in Frage kommenden Aspekte, wie die negativen wirtschaftlichen Auswirkungen, einschließlich der Gewinneinbußen für di …
+
+Umgesetzt in: [§ 14 Abs. 6](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
+
+Weitere Gesetze: PatG: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html); GebrMG: [§ 24 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); DesignG: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); UrhG: [§ 97 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) (S. 4: immaterieller Schaden); HalblSchG: [§ 9 Abs. 1 S. 2, 3 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Allgemeines Recht: Abs. 2: Eingriffskondiktion [§ 812 Abs. 1 S. 1 Alt. 2 BGB](https://www.gesetze-im-internet.de/bgb/__812.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) über [§ 20 S. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html)
+
+Hinweis: Das Durchsetzungsgesetz hat die dreifache Schadensberechnung in allen Schutzrechtsgesetzen kodifiziert ([§ 14 Abs. 6 S. 2](https://www.gesetze-im-internet.de/markeng/__14.html): Verletzergewinn, S. 3: Lizenzanalogie). Verschulden bleibt Voraussetzung („wusste oder hätte wissen müssen“). Der Pauschalbetrag nach lit. b ist eine Untergrenze („mindestens“), immaterieller Schaden kann hinzukommen (Liffers); strengere nationale Regeln wie die doppelte Lizenzgebühr sind zulässig (OTK). Für den schuldlosen Verletzer (Abs. 2) greift in Deutschland die Eingriffskondiktion.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Prozesskosten
+
+Die Mitgliedstaaten stellen sicher, dass die Prozesskosten und sonstigen Kosten der obsiegenden Partei in der Regel, soweit sie zumutbar und angemessen sind, von der unterlegenen Partei getragen werden, sofern Billigkeitsgründe dem nicht entgegenstehen.
+
+Umgesetzt in: [§ 140 Abs. 4](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html)
+
+Weitere Gesetze: PatG: [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html) (Patentanwaltskosten), [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) (Streitwertbegünstigung); GebrMG: [§ 27 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__27.html); DesignG: [§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html); UrhG: [§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html) (Abmahnkosten, Deckelung des Gegenstandswerts); HalblSchG: –; SortSchG: –; Allgemeines Recht: [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html), RVG; Abmahnkosten aus GoA (§§ [677](https://www.gesetze-im-internet.de/bgb/__677.html), [683](https://www.gesetze-im-internet.de/bgb/__683.html), [670](https://www.gesetze-im-internet.de/bgb/__670.html) BGB) und als Schadensersatz
+
+Hinweis: Klausurklassiker seit 2022: [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) a.F. (heute Abs. 4) ließ Patentanwaltskosten in Kennzeichenstreitsachen stets erstatten; das verstößt gegen Art. 3 und 14 (EuGH NovaText). Der BGH legt die Norm seither richtlinienkonform aus: Erstattung nur, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war (Kosten des Patentanwalts VII). Auch Abmahnkosten sind „sonstige Kosten“ (Koch Media); Pauschal- und Höchstsätze sind zulässig, wenn ein erheblicher und angemessener Teil erstattet wird (United Video Properties).
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Veröffentlichung von Gerichtsentscheidungen
+
+Die Mitgliedstaaten stellen sicher, dass die Gerichte bei Verfahren wegen Verletzung von Rechten des geistigen Eigentums auf Antrag des Antragstellers und auf Kosten des Verletzers geeignete Maßnahmen zur Verbreitung von Informationen über die betreffende Entscheidung, einschließlich der Bekanntmachung und der vollständigen oder teilweisen Veröffentlichung, anordnen können. Die Mitgliedstaaten können andere, den besonderen Umständen angemessene Zusatzmaßnahmen, einschließlich öffentlichkeitswirksamer Anzeigen, vorsehen.
+
+Umgesetzt in: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+
+Weitere Gesetze: PatG: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html); GebrMG: [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html); DesignG: [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html); UrhG: [§ 103 UrhG](https://www.gesetze-im-internet.de/urhg/__103.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html); SortSchG: [§ 37e SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html); Allgemeines Recht: strafrechtlich [§ 143 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html); [§ 12 Abs. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__12.html) a.F. (Vorbild)
+
+Hinweis: [§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html): Befugnis der obsiegenden Partei (auch des Beklagten) bei berechtigtem Interesse; Art und Umfang bestimmt das Urteil; Erlöschen drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar. Wortgleich in allen Schutzrechtsgesetzen.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 16 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Sanktionen der Mitgliedstaaten
+
+Unbeschadet der in dieser Richtlinie vorgesehenen zivil- und verwaltungsrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe können die Mitgliedstaaten in Fällen von Verletzungen von Rechten des geistigen Eigentums andere angemessene Sanktionen vorsehen.
+
+Umgesetzt in: [§ 143](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 143a](https://www.gesetze-im-internet.de/markeng/__143a.html), [§ 144](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
+
+Weitere Gesetze: PatG: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) (Strafvorschrift); §§ [142a](https://www.gesetze-im-internet.de/patg/__142a.html), [142b](https://www.gesetze-im-internet.de/patg/__142b.html) PatG (Zollbeschlagnahme); GebrMG: [§ 25 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__25.html); §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG; DesignG: [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html); [§§ 55 ff. DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html); UrhG: §§ [106](https://www.gesetze-im-internet.de/urhg/__106.html) bis [111a](https://www.gesetze-im-internet.de/urhg/__111a.html) UrhG; [§ 111b UrhG](https://www.gesetze-im-internet.de/urhg/__111b.html); HalblSchG: [§ 10 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__10.html); [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG; SortSchG: [§ 39 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__39.html); [§ 40a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__40a.html); Allgemeines Recht: Verordnung (EU) Nr. 608/2013 (Grenzbeschlagnahme); Art. 61 TRIPS
+
+Hinweis: Strafrecht und Grenzbeschlagnahme sind nicht Gegenstand der Richtlinie (Art. 2 Abs. 3 lit. b, c); Art. 16 stellt nur klar, dass sie daneben zulässig bleiben. Die Grenzbeschlagnahme ist unionsrechtlich in der VO (EU) Nr. 608/2013 geregelt, [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html) gilt subsidiär.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 17 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Verhaltenskodizes
+
+Die Mitgliedstaaten wirken darauf hin, dass a) die Unternehmens- und Berufsverbände oder -organisationen auf Gemeinschaftsebene Verhaltenskodizes ausarbeiten, die zum Schutz der Rechte des geistigen Eigentums beitragen, insbesondere indem die Anbringung eines Codes auf optischen Speicherplatten empfohlen wird, der den Ort ihrer Herstellung erkennen lässt; b) der Kommission die Entwürfe innerstaatlicher oder gemeinschaftsweiter Verhaltenskodizes und etwaige Gutachten über deren Anwendung übermittelt werden.
+
+Weitere Gesetze: Allgemeines Recht: keine gesetzliche Umsetzung erforderlich
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 18 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Bewertung
+
+Jeder Mitgliedstaat legt der Kommission drei Jahre nach Ablauf der in Artikel 20 Absatz 1 genannten Frist einen Bericht über die Umsetzung dieser Richtlinie vor. Anhand dieser Berichte erstellt die Kommission einen Bericht über die Anwendung dieser Richtlinie, einschließlich einer Bewertung der Wirksamkeit der ergriffenen Maßnahmen sowie einer Bewertung der Auswirkungen der Richtlinie auf die Innovation und die Entwicklung der Informationsgesellschaft. Dieser Bericht wird dem Europäischen Parlament, dem Rat und dem Europäischen Wirtschafts- und Sozialausschuss vorgelegt. Soweit erforderlich, l …
+
+Weitere Gesetze: Allgemeines Recht: Bericht der Kommission KOM(2010) 779; Leitlinien zur Auslegung COM(2017) 708
+
+Hinweis: Die Leitlinien der Kommission von 2017 (COM(2017) 708) fassen die EuGH-Rechtsprechung zu Art. 3, 6 bis 11 und 13, 14 zusammen und sind eine gute Lernquelle.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 19 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Informationsaustausch und Korrespondenzstellen
+
+Zur Förderung der Zusammenarbeit, einschließlich des Informationsaustauschs, der Mitgliedstaaten untereinander sowie zwischen den Mitgliedstaaten und der Kommission benennt jeder Mitgliedstaat mindestens eine nationale Korrespondenzstelle für alle die Durchführung der in dieser Richtlinie vorgesehenen Maßnahmen betreffenden Fragen. Jeder Mitgliedstaat teilt die Kontaktadressen seiner Korrespondenzstelle(n) den anderen Mitgliedstaaten und der Kommission mit.
+
+Weitere Gesetze: Allgemeines Recht: Verwaltungspraxis (BMJ)
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 20 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Umsetzung
+
+Die Mitgliedstaaten setzen die Rechts- und Verwaltungsvorschriften in Kraft, die erforderlich sind, um dieser Richtlinie spätestens ab dem 29. April 2006 nachzukommen. Sie setzen die Kommission unverzüglich davon in Kenntnis. Wenn die Mitgliedstaaten diese Vorschriften erlassen, nehmen sie in den Vorschriften selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf diese Richtlinie Bezug. Die Mitgliedstaaten regeln die Einzelheiten der Bezugnahme.
+
+Weitere Gesetze: Allgemeines Recht: Gesetz zur Verbesserung der Durchsetzung von Rechten des geistigen Eigentums vom 7.7.2008 (BGBl. I S. 1191), in Kraft seit 1.9.2008 – Artikelgesetz für PatG, GebrMG, MarkenG, HalblSchG, UrhG, DesignG und SortSchG
+
+Hinweis: Deutschland hat die Frist (29.4.2006) um mehr als zwei Jahre verfehlt; in der Zwischenzeit galt richtlinienkonforme Auslegung des bestehenden Rechts (etwa [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) für Auskunft, [§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html) für Besichtigung).
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 21 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Inkrafttreten
+
+Diese Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
+
+Hinweis: Veröffentlicht am 30.4.2004 (ABl. L 157, S. 45); wegen Fehlern in der Erstveröffentlichung wurde der gesamte Text am 2.6.2004 berichtigt neu bekannt gemacht (ABl. L 195, S. 16). Zitiert wird die berichtigte Fassung.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
+
+---
+
+**F:** Was regelt [Art. 22 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) und welche Vorschrift des MarkenG setzt ihn um?
+
+**A:** Adressaten
+
+Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
+
+*Tags: Richtlinie, EU, DurchsetzungsRL*
 
 ---

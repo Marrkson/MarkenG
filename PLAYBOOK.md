@@ -52,6 +52,17 @@ Die Reihenfolge ist wichtig, weil der Netzwerkzugang aus der Agentenumgebung ein
    Dann wie bei der MarkenRL vorgehen: artikelweise **Paraphrase je Absatz** aus eigenem Wissen,
    in jedem Knoten `paraphrase=True`, deutlicher Hinweis in Apps, Karten und README, Link auf das
    Originaldokument. Für Zitate muss der Nutzer den Wortlaut prüfen; das steht überall dabei.
+5. **Vom Rechner des Nutzers aus** (Claude Code lokal statt Sandbox) sind beide Sperren weg, nur die
+   Adressen müssen stimmen:
+   - EUR-Lex: `legal-content/…` und `LexUriServ/…` liefern eine leere HTML-Hülle (HTTP 202). Der
+     **Cellar** liefert das Dokument per Content-Negotiation:
+     `curl -H "Accept: application/pdf" -H "Accept-Language: deu" -o rl.pdf "https://publications.europa.eu/resource/celex/32004L0048R(01)"`
+     (CELEX-Nummer mit `R(01)` für die Berichtigung; `pdftotext` daraus). So entstand
+     `src/knowledge/durchsetzungsrl.py` im amtlichen Wortlaut (`paraphrase=False`).
+   - gesetze-im-internet.de: `https://www.gesetze-im-internet.de/<slug>/xml.zip` enthält das Gesetz
+     als XML (`<norm>` mit `<enbez>§ 140b</enbez>`, `<titel>`, `<textdaten>`); damit lassen sich
+     Paragraphen anderer Gesetze für Umsetzungstabellen prüfen, ohne den Spiegel zu klonen.
+   - dejure.org, curia, rewis: per WebSearch erreichbar; EuGH-Aktenzeichen sind dort verlässlich.
 
 ## 2. Wissensmodell (was in `src/knowledge/` steht)
 
@@ -64,7 +75,7 @@ Alle Dateien sind reine Python-Datenlisten; IDs sind ASCII, snake_case, sprechen
 | `schemata.py` | Prüfungsschema als Baum | `id, label, kategorie, beschreibung, norms, steps` | Schritt: `label, text, concepts, norms, cases, children, hinweis` |
 | `distinctions.py` | Abgrenzungstabelle | `id, label, frage, kriterien, spalten, rows, merksatz, concepts` | `len(rows)==len(kriterien)`, `len(row)==len(spalten)` |
 | `ipwiki.py` | Quelle | `page, title, summary` | – |
-| `markenrl.py` | EU-Artikel | `nr, titel, kapitel, abschnitt, absaetze, umsetzung, concepts, cases, hinweis` | `umsetzung` = nationale Normzitate |
+| `markenrl.py`, `durchsetzungsrl.py` | EU-Artikel | `nr, titel, kapitel, abschnitt, absaetze, umsetzung, concepts, cases, hinweis` | `umsetzung` = MarkenG-Zitate (Graphkanten); `umsetzung_weitere` = dict Gesetz → Zitate der übrigen Gesetze (nur Text); Richtlinien werden in `build_graph.RICHTLINIEN` registriert (Kürzel, `paraphrase`-Flag), das Zitat `Art. 8 Abs. 3 lit. e DurchsetzungsRL` wird daraus aufgelöst |
 | `kurse/k*.py` | Kurs → Kapitel → Einheiten | s. Abschnitt 5 | `concepts, norms, cases, step` |
 | `gesetze.py` | Verlinkungsregeln | `LAWS` (Slug + Zitierweise), `EU_LAWS`, `UNLINKED` | erzeugt auch das JavaScript |
 
@@ -101,7 +112,11 @@ Prüfblöcke, die während der Erstellung in Bash ausgeführt wurden; sie prüfe
 - Abgrenzungen für die Paare, die Studierende erfahrungsgemäß verwechseln (beim Markenrecht:
   Kennzeichnungskraft/Unterscheidungskraft, Verfall/Nichtigkeit, § 23/§ 24, Prägetheorie/
   selbständig kennzeichnende Stellung). Fünf bis acht Kriterien, ein Merksatz.
-- Bei EU-Grundlage eine Umsetzungstabelle (Artikel, nationale Norm, letzte Änderung).
+- Bei EU-Grundlage eine Umsetzungstabelle (Artikel, nationale Norm, letzte Änderung). Betrifft die
+  Richtlinie mehrere Gesetze (Durchsetzungs-RL), eine Spalte je Gesetz; Zellen ohne Gesetzesangabe mit
+  `gesetze.qualify(text, law)` qualifizieren, sonst verlinkt `linkify` sie auf das Standardgesetz.
+  Zitatketten so schreiben, dass der Erkenner sie trennt: `§§ 935 ff. ZPO, § 937 Abs. 2 ZPO`, nicht
+  `§§ 935 ff., 937 Abs. 2 ZPO`; Gesetz hinter das Zitat, nicht davor in Klammern.
 
 ## 5. Kurse im Fallformat (Jurafuchs-Prinzip)
 
@@ -112,7 +127,9 @@ Kapitel beginnen mit `intro` (Systematik) oder `schema` (Prüfungsschema aus dem
 
 Einheitentypen (`kurse/_helpers.py`): `intro`, `schema`, `fall` (Ja/Nein), `mc` (Index der
 richtigen Option). Jede Einheit verweist auf `concepts`, `norms`, `cases` und, wenn passend, den
-Prüfungspunkt `step:<schema>.<n>.<m>`. IDs: `k07b-3` = Kurs 7, Kapitel b, Einheit 3.
+Prüfungspunkt `step:<schema>.<n>.<m>`; `distinctions` hängt Abgrenzungstabellen an, die bei
+`intro`-Einheiten direkt unter dem Text erscheinen (so steht die Umsetzungstabelle im Kurs 14).
+IDs: `k07b-3` = Kurs 7, Kapitel b, Einheit 3.
 
 Richtwerte aus dem Markenrecht: 10 bis 12 Kurse, je 2 bis 3 Kapitel, je 3 bis 8 Einheiten,
 insgesamt 120 bis 150; etwa 70 % Ja/Nein-Fälle, 15 % MC, 15 % Intro/Schema. Fälle an

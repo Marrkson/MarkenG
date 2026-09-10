@@ -1443,7 +1443,7 @@
   "id": "card:definition:concept:lizenz",
   "typ": "definition",
   "front": "Definiere: Lizenz (§ 30)",
-  "back": "Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen ausschließlich oder nicht ausschließlich, räumlich oder sachlich beschränkt lizenziert werden (§ 30 Abs. 1). Bei Verstoß des Lizenznehmers gegen die in § 30 Abs. 2 genannten Beschränkungen kann der Inhaber die Marke gegen ihn geltend machen; ein Inverkehrbringen unter Verstoß gegen diese Beschränkungen erfolgt ohne Zustimmung (keine Erschöpfung).\n\nNormen: Art. 22 MarkenRL, Art. 25 MarkenRL, § 30, § 27 MarkenG\n\nRechtsprechung: BGH Converse II (I ZR 137/10)",
+  "back": "Das Markenrecht kann für alle oder einen Teil der Waren/Dienstleistungen ausschließlich oder nicht ausschließlich, räumlich oder sachlich beschränkt lizenziert werden (§ 30 Abs. 1). Bei Verstoß des Lizenznehmers gegen die in § 30 Abs. 2 genannten Beschränkungen kann der Inhaber die Marke gegen ihn geltend machen; ein Inverkehrbringen unter Verstoß gegen diese Beschränkungen erfolgt ohne Zustimmung (keine Erschöpfung).\n\nNormen: Art. 22 MarkenRL, Art. 25 MarkenRL, Art. 4 DurchsetzungsRL, § 30, § 27 MarkenG\n\nRechtsprechung: BGH Converse II (I ZR 137/10)",
   "tags": [
    "Begriff",
    "Verkehr mit Marken"
@@ -1467,7 +1467,7 @@
   "id": "card:definition:concept:aktivlegitimation",
   "typ": "definition",
   "front": "Definiere: Aktivlegitimation / Rechtsinhaberschaft",
-  "back": "Anspruchsberechtigt ist der Markeninhaber (§ 14 Abs. 1, § 28 Abs. 1: Vermutung der Inhaberschaft für den Eingetragenen) sowie der Lizenznehmer unter den Voraussetzungen des § 30 Abs. 3.\n\nNormen: Art. 22 MarkenRL, § 14 Abs. 1, § 28, § 30 Abs. 3 MarkenG",
+  "back": "Anspruchsberechtigt ist der Markeninhaber (§ 14 Abs. 1, § 28 Abs. 1: Vermutung der Inhaberschaft für den Eingetragenen) sowie der Lizenznehmer unter den Voraussetzungen des § 30 Abs. 3.\n\nNormen: Art. 22 MarkenRL, Art. 4 DurchsetzungsRL, Art. 5 DurchsetzungsRL, § 14 Abs. 1, § 28, § 30 Abs. 3 MarkenG",
   "tags": [
    "Begriff",
    "Rechtsfolgen"
@@ -1491,7 +1491,7 @@
   "id": "card:definition:concept:unterlassungsanspruch",
   "typ": "definition",
   "front": "Definiere: Unterlassungsanspruch (§ 14 Abs. 5)",
-  "back": "Wer ein Zeichen entgegen § 14 Abs. 2 bis 4 benutzt, kann vom Markeninhaber bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Anspruch besteht auch bei Erstbegehungsgefahr (§ 14 Abs. 5 S. 2). Verschulden ist nicht erforderlich.\n\nNormen: § 14 Abs. 5, § 15 Abs. 4, § 140 MarkenG\n\nRechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH ORTLIEB II (I ZR 29/18); BGH Hard Rock Cafe (I ZR 188/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)",
+  "back": "Wer ein Zeichen entgegen § 14 Abs. 2 bis 4 benutzt, kann vom Markeninhaber bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Anspruch besteht auch bei Erstbegehungsgefahr (§ 14 Abs. 5 S. 2). Verschulden ist nicht erforderlich.\n\nNormen: Art. 11 DurchsetzungsRL, § 14 Abs. 5, § 15 Abs. 4, § 140 MarkenG\n\nRechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH ORTLIEB II (I ZR 29/18); BGH Hard Rock Cafe (I ZR 188/11); EuGH DHL Express France/Chronopost (WEBSHIPPING) (C-235/09)",
   "tags": [
    "Begriff",
    "Rechtsfolgen"
@@ -1515,7 +1515,7 @@
   "id": "card:definition:concept:schadensersatz",
   "typ": "definition",
   "front": "Definiere: Schadensersatz (§ 14 Abs. 6) und dreifache Schadensberechnung",
-  "back": "Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des entstandenen Schadens verpflichtet. Berechnung nach Wahl des Verletzten: (1) konkreter Schaden inkl. entgangenem Gewinn, (2) Herausgabe des Verletzergewinns (§ 14 Abs. 6 S. 2), (3) angemessene Lizenzgebühr (Lizenzanalogie, § 14 Abs. 6 S. 3).\n\nNormen: Art. 34 MarkenRL, § 14 Abs. 6, § 14 Abs. 7, § 19 MarkenG\n\nRechtsprechung: BGH BTK (I ZR 169/07)",
+  "back": "Wer die Verletzungshandlung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des entstandenen Schadens verpflichtet. Berechnung nach Wahl des Verletzten: (1) konkreter Schaden inkl. entgangenem Gewinn, (2) Herausgabe des Verletzergewinns (§ 14 Abs. 6 S. 2), (3) angemessene Lizenzgebühr (Lizenzanalogie, § 14 Abs. 6 S. 3).\n\nNormen: Art. 34 MarkenRL, Art. 13 DurchsetzungsRL, § 14 Abs. 6, § 14 Abs. 7, § 19 MarkenG\n\nRechtsprechung: BGH BTK (I ZR 169/07); EuGH Liffers/Mandarina (C-99/15); EuGH OTK/Stowarzyszenie Filmowców Polskich (C-367/15)",
   "tags": [
    "Begriff",
    "Rechtsfolgen"
@@ -1539,7 +1539,7 @@
   "id": "card:definition:concept:lizenzanalogie",
   "typ": "definition",
   "front": "Definiere: Lizenzanalogie",
-  "back": "Methode der Schadensberechnung: Der Verletzer schuldet den Betrag, den er als angemessene Vergütung hätte entrichten müssen, wenn er die Erlaubnis zur Nutzung des Kennzeichens eingeholt hätte (§ 14 Abs. 6 S. 3).\n\nNormen: § 14 Abs. 6 S. 3 MarkenG\n\nRechtsprechung: BGH BTK (I ZR 169/07)",
+  "back": "Methode der Schadensberechnung: Der Verletzer schuldet den Betrag, den er als angemessene Vergütung hätte entrichten müssen, wenn er die Erlaubnis zur Nutzung des Kennzeichens eingeholt hätte (§ 14 Abs. 6 S. 3).\n\nNormen: Art. 13 DurchsetzungsRL, § 14 Abs. 6 S. 3 MarkenG\n\nRechtsprechung: BGH BTK (I ZR 169/07); EuGH Liffers/Mandarina (C-99/15)",
   "tags": [
    "Begriff",
    "Rechtsfolgen"
@@ -1563,7 +1563,7 @@
   "id": "card:definition:concept:vernichtung_auskunft",
   "typ": "definition",
   "front": "Definiere: Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
-  "back": "Der Verletzte kann Vernichtung der widerrechtlich gekennzeichneten Waren und der Herstellungsmittel (§ 18 Abs. 1) sowie Rückruf und Entfernung aus den Vertriebswegen (§ 18 Abs. 2) verlangen, soweit verhältnismäßig (§ 18 Abs. 3). Ferner Auskunft über Herkunft und Vertriebsweg (§ 19), auch gegen Dritte (§ 19 Abs. 2), bei offensichtlicher Verletzung im Eilverfahren (§ 19 Abs. 7).\n\nNormen: § 18, § 19, § 19a, § 19b, § 19c MarkenG",
+  "back": "Der Verletzte kann Vernichtung der widerrechtlich gekennzeichneten Waren und der Herstellungsmittel (§ 18 Abs. 1) sowie Rückruf und Entfernung aus den Vertriebswegen (§ 18 Abs. 2) verlangen, soweit verhältnismäßig (§ 18 Abs. 3). Ferner Auskunft über Herkunft und Vertriebsweg (§ 19), auch gegen Dritte (§ 19 Abs. 2), bei offensichtlicher Verletzung im Eilverfahren (§ 19 Abs. 7).\n\nNormen: Art. 8 DurchsetzungsRL, Art. 10 DurchsetzungsRL, Art. 12 DurchsetzungsRL, § 18, § 19, § 19a, § 19b, § 19c MarkenG\n\nRechtsprechung: EuGH NEW WAVE CZ/ALLTOYS (C-427/15)",
   "tags": [
    "Begriff",
    "Rechtsfolgen"
@@ -1587,7 +1587,7 @@
   "id": "card:definition:concept:stoererhaftung",
   "typ": "definition",
   "front": "Definiere: Täter-, Teilnehmer- und Störerhaftung",
-  "back": "Täter ist, wer die Verletzungshandlung selbst (oder mittäterschaftlich) begeht; Teilnehmer (Anstifter/Gehilfe) haftet bei vorsätzlicher Beteiligung an einer vorsätzlichen Haupttat; Störer ist, wer willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt – er haftet nur auf Unterlassung, nicht auf Schadensersatz.\n\nNormen: § 14 Abs. 5, § 14 Abs. 7 MarkenG\n\nRechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühle im Internet (I ZR 139/08); BGH Tork (I ZR 136/17)",
+  "back": "Täter ist, wer die Verletzungshandlung selbst (oder mittäterschaftlich) begeht; Teilnehmer (Anstifter/Gehilfe) haftet bei vorsätzlicher Beteiligung an einer vorsätzlichen Haupttat; Störer ist, wer willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt – er haftet nur auf Unterlassung, nicht auf Schadensersatz.\n\nNormen: Art. 11 DurchsetzungsRL, § 14 Abs. 5, § 14 Abs. 7 MarkenG\n\nRechtsprechung: BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühle im Internet (I ZR 139/08); BGH Tork (I ZR 136/17); EuGH L'Oréal/eBay (C-324/09)",
   "tags": [
    "Begriff",
    "Rechtsfolgen"
@@ -1606,6 +1606,222 @@
    "Rechtsfolgen"
   ],
   "node": "concept:stoererhaftung"
+ },
+ {
+  "id": "card:definition:concept:durchsetzungsrl",
+  "typ": "definition",
+  "front": "Definiere: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL)",
+  "back": "Richtlinie des Europäischen Parlaments und des Rates vom 29.4.2004 zur Durchsetzung der Rechte des geistigen Eigentums (ABl. L 157, S. 45; berichtigt ABl. L 195, S. 16). Sie harmonisiert nicht das materielle Recht, sondern die zivilrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe bei Verletzung aller Rechte des geistigen Eigentums (Art. 1, 2): Beweise, Auskunft, einstweilige Maßnahmen, Rückruf und Vernichtung, Unterlassung, Schadensersatz, Kosten und Urteilsveröffentlichung.\n\nNormen: Art. 1 DurchsetzungsRL, Art. 2 DurchsetzungsRL, Art. 3 DurchsetzungsRL, Art. 17 DurchsetzungsRL, Art. 18 DurchsetzungsRL, Art. 19 DurchsetzungsRL, Art. 20 DurchsetzungsRL, Art. 21 DurchsetzungsRL, Art. 22 DurchsetzungsRL, § 18, § 19, § 19a, § 19b, § 19c MarkenG\n\nRechtsprechung: EuGH OTK/Stowarzyszenie Filmowców Polskich (C-367/15); EuGH Mircom/Telenet (C-597/19); EuGH NovaText/Universität Heidelberg (C-531/20); EuGH Promusicae/Telefónica (C-275/06)",
+  "tags": [
+   "Begriff",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:durchsetzungsrl",
+  "erlaeuterung": "Mindeststandard (Art. 2 Abs. 1: günstigere Vorschriften bleiben zulässig, EuGH OTK); die Grundsätze des Art. 3 (fair, wirksam, verhältnismäßig, abschreckend, kein Missbrauch) steuern die Auslegung aller Durchsetzungsnormen (EuGH NovaText, Mircom). Deutschland: Gesetz zur Verbesserung der Durchsetzung von Rechten des geistigen Eigentums vom 7.7.2008 (BGBl. I S. 1191), in Kraft seit 1.9.2008, mit gleichlaufenden Vorschriften: §§ 18 bis 19c MarkenG, §§ 140a bis 140e PatG, §§ 24a bis 24e GebrMG, §§ 43, 46 bis 47 DesignG, §§ 98, 101 bis 103 UrhG, §§ 37a bis 37e SortSchG und § 9 Abs. 2 HalblSchG (Verweis auf das GebrMG). Klausur: Bei jedem Annexanspruch die richtlinienkonforme Auslegung mitdenken; Rechtsfolgen sind der Teil des Markenrechts, den nicht die MarkenRL, sondern diese Richtlinie prägt."
+ },
+ {
+  "id": "card:begriff:concept:durchsetzungsrl",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nRichtlinie des Europäischen Parlaments und des Rates vom 29.4.2004 zur Durchsetzung der Rechte des geistigen Eigentums (ABl. L 157, S. 45; berichtigt ABl. L 195, S. 16). Sie harmonisiert nicht das materielle Recht, sondern die zivilrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe bei Verletzung aller Rechte des geistigen Eigentums (Art. 1, 2): Beweise, Auskunft, einstweilige Maßnahmen, Rückruf und Vernichtung, Unterlassung, Schadensersatz, Kosten und Urteilsveröffentlichung.",
+  "back": "Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:durchsetzungsrl"
+ },
+ {
+  "id": "card:definition:concept:gewerbliches_ausmass",
+  "typ": "definition",
+  "front": "Definiere: Gewerbliches Ausmaß",
+  "back": "Rechtsverletzungen, die zur Erlangung eines unmittelbaren oder mittelbaren wirtschaftlichen oder kommerziellen Vorteils vorgenommen werden; Handlungen gutgläubiger Endverbraucher sind in der Regel ausgeschlossen (Erwägungsgrund 14 DurchsetzungsRL). Voraussetzung der Drittauskunft (§ 19 Abs. 2), der Vorlage von Bank-, Finanz- und Handelsunterlagen (§ 19a Abs. 1 S. 2) und der Sicherung von Schadensersatz (§ 19b Abs. 1).\n\nNormen: Art. 3 DurchsetzungsRL, Art. 6 DurchsetzungsRL, Art. 8 DurchsetzungsRL, § 19 Abs. 2, § 19a, § 19b, Art. 9 DurchsetzungsRL MarkenG\n\nRechtsprechung: EuGH Mircom/Telenet (C-597/19)",
+  "tags": [
+   "Begriff",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:gewerbliches_ausmass",
+  "erlaeuterung": "Kann sich aus Zahl und Schwere der Verletzungen ergeben (so ausdrücklich § 101 Abs. 1 S. 2 UrhG). Der Anspruch gegen den Verletzer selbst (§ 19 Abs. 1) ist im MarkenG nicht an gewerbliches Ausmaß gebunden; Deutschland geht damit über Art. 8 Abs. 1 hinaus (zulässig nach Art. 2 Abs. 1). Nicht zu verwechseln mit dem Handeln „im geschäftlichen Verkehr“ (§ 14 Abs. 2), das die Verletzung selbst voraussetzt: Ein Privatverkäufer handelt nicht im geschäftlichen Verkehr; ein Spediteur, der Fälschungen lagert, verletzt nicht selbst, hat die Ware aber in gewerblichem Ausmaß in Besitz."
+ },
+ {
+  "id": "card:begriff:concept:gewerbliches_ausmass",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nRechtsverletzungen, die zur Erlangung eines unmittelbaren oder mittelbaren wirtschaftlichen oder kommerziellen Vorteils vorgenommen werden; Handlungen gutgläubiger Endverbraucher sind in der Regel ausgeschlossen (Erwägungsgrund 14 DurchsetzungsRL). Voraussetzung der Drittauskunft (§ 19 Abs. 2), der Vorlage von Bank-, Finanz- und Handelsunterlagen (§ 19a Abs. 1 S. 2) und der Sicherung von Schadensersatz (§ 19b Abs. 1).",
+  "back": "Gewerbliches Ausmaß",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:gewerbliches_ausmass"
+ },
+ {
+  "id": "card:definition:concept:drittauskunft",
+  "typ": "definition",
+  "front": "Definiere: Auskunftsanspruch gegen Dritte (§ 19 Abs. 2)",
+  "back": "Bei offensichtlicher Rechtsverletzung oder nach Klageerhebung gegen den Verletzer richtet sich der Anspruch auf Auskunft über Herkunft und Vertriebsweg auch gegen Dritte, die in gewerblichem Ausmaß rechtsverletzende Ware besaßen, rechtsverletzende Dienstleistungen in Anspruch nahmen oder für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbrachten oder nach Angaben eines solchen an Herstellung oder Vertrieb beteiligt waren (§ 19 Abs. 2 S. 1 Nr. 1 bis 4 = Art. 8 Abs. 1 lit. a bis d DurchsetzungsRL). Ausgenommen sind Zeugnisverweigerungsberechtigte nach §§ 383 bis 385 ZPO.\n\nNormen: Art. 8 DurchsetzungsRL, § 19 Abs. 2, § 19 Abs. 3, § 19 Abs. 7, § 19 Abs. 9 MarkenG\n\nRechtsprechung: EuGH Coty Germany/Stadtsparkasse Magdeburg (C-580/13); BGH Davidoff Hot Water II (I ZR 51/12); EuGH Constantin Film Verleih/YouTube (C-264/19); EuGH NEW WAVE CZ/ALLTOYS (C-427/15)",
+  "tags": [
+   "Begriff",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:drittauskunft",
+  "erlaeuterung": "Inhalt: Namen und Anschriften von Herstellern, Lieferanten, Vorbesitzern, gewerblichen Abnehmern und Verkaufsstellen sowie Mengen und Preise (§ 19 Abs. 3 = Art. 8 Abs. 2). „Adresse“ ist nur die Postanschrift, nicht E-Mail, Telefon oder IP-Adresse (EuGH Constantin Film). Banken können sich nicht pauschal auf das Bankgeheimnis berufen (EuGH Coty, BGH Davidoff Hot Water II). Auskunft aus Verkehrsdaten nur nach richterlicher Anordnung (§ 19 Abs. 9; EuGH Promusicae). Der Anspruch kann in einem gesonderten Verfahren auch nach Abschluss des Verletzungsprozesses verfolgt werden (EuGH NEW WAVE) und bei offensichtlicher Verletzung im Wege der einstweiligen Verfügung (§ 19 Abs. 7). Grenzen: Verhältnismäßigkeit (§ 19 Abs. 4), Missbrauch (Art. 3 Abs. 2; EuGH Mircom), Haftung für falsche Auskunft (§ 19 Abs. 5). Der Rechtsstreit gegen den Verletzer kann bis zur Auskunft ausgesetzt werden (§ 19 Abs. 2 S. 2)."
+ },
+ {
+  "id": "card:begriff:concept:drittauskunft",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nBei offensichtlicher Rechtsverletzung oder nach Klageerhebung gegen den Verletzer richtet sich der Anspruch auf Auskunft über Herkunft und Vertriebsweg auch gegen Dritte, die in gewerblichem Ausmaß rechtsverletzende Ware besaßen, rechtsverletzende Dienstleistungen in Anspruch nahmen oder für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbrachten oder nach Angaben eines solchen an Herstellung oder Vertrieb beteiligt waren (§ 19 Abs. 2 S. 1 Nr. 1 bis 4 = Art. 8 Abs. 1 lit. a bis d DurchsetzungsRL). Ausgenommen sind Zeugnisverweigerungsberechtigte nach §§ 383 bis 385 ZPO.",
+  "back": "Auskunftsanspruch gegen Dritte (§ 19 Abs. 2)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:drittauskunft"
+ },
+ {
+  "id": "card:definition:concept:vorlage_besichtigung",
+  "typ": "definition",
+  "front": "Definiere: Vorlage- und Besichtigungsanspruch (§ 19a)",
+  "back": "Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung kann der Inhaber vom vermeintlichen Verletzer die Vorlage einer Urkunde oder die Besichtigung einer Sache in dessen Verfügungsgewalt verlangen, wenn dies zur Begründung seiner Ansprüche erforderlich ist; bei gewerblichem Ausmaß auch die Vorlage von Bank-, Finanz- oder Handelsunterlagen (§ 19a Abs. 1; Art. 6, 7 DurchsetzungsRL).\n\nNormen: Art. 6 DurchsetzungsRL, Art. 7 DurchsetzungsRL, § 19a MarkenG\n\nRechtsprechung: BGH Faxkarte (I ZR 45/01)",
+  "tags": [
+   "Begriff",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:vorlage_besichtigung",
+  "erlaeuterung": "Ausschluss bei Unverhältnismäßigkeit (Abs. 2). Durchsetzung per einstweiliger Verfügung, auch ohne Anhörung (Abs. 3), mit Schutz vertraulicher Informationen: „Düsseldorfer Verfahren“ (Besichtigung durch einen zur Verschwiegenheit verpflichteten Sachverständigen, Freigabe des Gutachtens erst nach Anhörung des Gegners; Vorbild BGH Faxkarte zu § 809 BGB). Verschuldensunabhängiger Schadensersatz, wenn keine Verletzung vorlag (Abs. 5 = Art. 7 Abs. 4). § 809 BGB, §§ 142, 144 ZPO und §§ 485 ff. ZPO bleiben daneben anwendbar (§ 19d). Wortgleich: § 140c PatG, § 24c GebrMG, § 46a DesignG, § 101a UrhG, § 37c SortSchG."
+ },
+ {
+  "id": "card:begriff:concept:vorlage_besichtigung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nBei hinreichender Wahrscheinlichkeit einer Rechtsverletzung kann der Inhaber vom vermeintlichen Verletzer die Vorlage einer Urkunde oder die Besichtigung einer Sache in dessen Verfügungsgewalt verlangen, wenn dies zur Begründung seiner Ansprüche erforderlich ist; bei gewerblichem Ausmaß auch die Vorlage von Bank-, Finanz- oder Handelsunterlagen (§ 19a Abs. 1; Art. 6, 7 DurchsetzungsRL).",
+  "back": "Vorlage- und Besichtigungsanspruch (§ 19a)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:vorlage_besichtigung"
+ },
+ {
+  "id": "card:definition:concept:sicherung_schadensersatz",
+  "typ": "definition",
+  "front": "Definiere: Sicherung von Schadensersatzansprüchen (§ 19b)",
+  "back": "Bei einer in gewerblichem Ausmaß begangenen Verletzung kann der Verletzte vom Verletzer die Vorlage von Bank-, Finanz- oder Handelsunterlagen verlangen, die für die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn ohne sie dessen Erfüllung fraglich ist (§ 19b Abs. 1; Art. 9 Abs. 2 DurchsetzungsRL).\n\nNormen: Art. 9 DurchsetzungsRL, § 19b, Art. 9 Abs. 2 DurchsetzungsRL MarkenG",
+  "tags": [
+   "Begriff",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:sicherung_schadensersatz",
+  "erlaeuterung": "Anders als § 19a dient § 19b nicht dem Nachweis der Verletzung, sondern der Vollstreckbarkeit des Schadensersatzes; er setzt deshalb einen Schadensersatzanspruch (§ 14 Abs. 6, § 15 Abs. 5, § 17 Abs. 2 S. 2) voraus. Einstweilige Verfügung nur, wenn der Schadensersatzanspruch offensichtlich besteht (Abs. 3). Die von Art. 9 Abs. 2 zusätzlich geforderte vorsorgliche Beschlagnahme des Vermögens (Kontosperre) leistet der dingliche Arrest nach §§ 916 ff. ZPO."
+ },
+ {
+  "id": "card:begriff:concept:sicherung_schadensersatz",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nBei einer in gewerblichem Ausmaß begangenen Verletzung kann der Verletzte vom Verletzer die Vorlage von Bank-, Finanz- oder Handelsunterlagen verlangen, die für die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn ohne sie dessen Erfüllung fraglich ist (§ 19b Abs. 1; Art. 9 Abs. 2 DurchsetzungsRL).",
+  "back": "Sicherung von Schadensersatzansprüchen (§ 19b)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:sicherung_schadensersatz"
+ },
+ {
+  "id": "card:definition:concept:einstweilige_verfuegung",
+  "typ": "definition",
+  "front": "Definiere: Einstweilige Verfügung in Kennzeichenstreitsachen",
+  "back": "Unterlassungs-, Auskunfts- (§ 19 Abs. 7) und Vorlageansprüche (§ 19a Abs. 3) können im Eilverfahren nach §§ 935 ff. ZPO gesichert werden; für Unterlassungsansprüche entfällt die Darlegung und Glaubhaftmachung des Verfügungsgrundes (§ 140 Abs. 3: Dringlichkeitsvermutung, seit dem MaMoG 2019, widerlegt durch zögerliches Vorgehen des Antragstellers). Unionsrechtlicher Rahmen ist Art. 9 DurchsetzungsRL; die Vermutung selbst verlangt er nicht.\n\nNormen: Art. 7 DurchsetzungsRL, Art. 9 DurchsetzungsRL, § 140 Abs. 3, § 19 Abs. 7, § 19a Abs. 3 MarkenG\n\nRechtsprechung: EuGH Bayer Pharma/Richter Gedeon (C-688/17)",
+  "tags": [
+   "Begriff",
+   "Verfahren"
+  ],
+  "node": "concept:einstweilige_verfuegung",
+  "erlaeuterung": "Art. 9 verlangt: einstweilige Unterlassungsanordnung auch gegen Mittelspersonen (Abs. 1 lit. a), Beschlagnahme verdächtiger Ware (lit. b, § 938 Abs. 2 ZPO), Glaubhaftmachung (Abs. 3, § 920 Abs. 2 ZPO), Anordnung ohne Anhörung in dringenden Fällen (Abs. 4, § 937 Abs. 2 ZPO), Fristsetzung zur Hauptsacheklage (Abs. 5, § 926 ZPO), Sicherheitsleistung (Abs. 6, § 921 ZPO) und Schadensersatz bei Aufhebung (Abs. 7, § 945 ZPO). § 945 ZPO haftet verschuldensunabhängig und geht damit über Art. 9 Abs. 7 hinaus (EuGH Bayer/Richter: Mitverursachung des Antragsgegners darf berücksichtigt werden). Die Dringlichkeit ist nach Kenntnis von Verletzung und Verletzer zügig geltend zu machen; die Oberlandesgerichte setzen meist etwa einen Monat an."
+ },
+ {
+  "id": "card:begriff:concept:einstweilige_verfuegung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nUnterlassungs-, Auskunfts- (§ 19 Abs. 7) und Vorlageansprüche (§ 19a Abs. 3) können im Eilverfahren nach §§ 935 ff. ZPO gesichert werden; für Unterlassungsansprüche entfällt die Darlegung und Glaubhaftmachung des Verfügungsgrundes (§ 140 Abs. 3: Dringlichkeitsvermutung, seit dem MaMoG 2019, widerlegt durch zögerliches Vorgehen des Antragstellers). Unionsrechtlicher Rahmen ist Art. 9 DurchsetzungsRL; die Vermutung selbst verlangt er nicht.",
+  "back": "Einstweilige Verfügung in Kennzeichenstreitsachen",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Verfahren"
+  ],
+  "node": "concept:einstweilige_verfuegung"
+ },
+ {
+  "id": "card:definition:concept:mittelsperson_anordnung",
+  "typ": "definition",
+  "front": "Definiere: Anordnungen gegen Mittelspersonen (Art. 11 S. 3 DurchsetzungsRL)",
+  "back": "Rechtsinhaber müssen eine gerichtliche Anordnung gegen Mittelspersonen beantragen können, deren Dienste ein Dritter zur Verletzung nutzt (Art. 11 S. 3, Art. 9 Abs. 1 lit. a DurchsetzungsRL), unabhängig von einer eigenen Haftung der Mittelsperson. Deutschland setzt das durch die Störerhaftung um: Unterlassungsanspruch aus § 14 Abs. 5 gegen den, der willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt.\n\nNormen: Art. 9 DurchsetzungsRL, Art. 11 DurchsetzungsRL, § 14 Abs. 5, § 19 Abs. 2 MarkenG\n\nRechtsprechung: EuGH L'Oréal/eBay (C-324/09); EuGH Tommy Hilfiger/Delta Center (C-494/15); BGH Internet-Versteigerung II (I ZR 35/04); BGH Kinderhochstühle im Internet (I ZR 139/08)",
+  "tags": [
+   "Begriff",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:mittelsperson_anordnung",
+  "erlaeuterung": "Mittelsperson ist jeder, dessen Dienste genutzt werden: Online-Marktplatz (EuGH L'Oréal/eBay), Betreiber physischer Markthallen (EuGH Tommy Hilfiger), Access-Provider. Die Anordnung darf nicht nur die konkrete Verletzung beenden, sondern muss künftige gleichartige Verletzungen verhindern, ohne allgemeine Überwachungspflicht und ohne Schranken für den rechtmäßigen Handel (Art. 3 Abs. 2). Der bloße Störer schuldet keinen Schadensersatz (§ 14 Abs. 6) und keine Auskunft als Verletzer; Auskunft gegen Dienstleister folgt aber aus § 19 Abs. 2 Nr. 3."
+ },
+ {
+  "id": "card:begriff:concept:mittelsperson_anordnung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nRechtsinhaber müssen eine gerichtliche Anordnung gegen Mittelspersonen beantragen können, deren Dienste ein Dritter zur Verletzung nutzt (Art. 11 S. 3, Art. 9 Abs. 1 lit. a DurchsetzungsRL), unabhängig von einer eigenen Haftung der Mittelsperson. Deutschland setzt das durch die Störerhaftung um: Unterlassungsanspruch aus § 14 Abs. 5 gegen den, der willentlich und adäquat kausal zur Verletzung beiträgt und zumutbare Prüfpflichten verletzt.",
+  "back": "Anordnungen gegen Mittelspersonen (Art. 11 S. 3 DurchsetzungsRL)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:mittelsperson_anordnung"
+ },
+ {
+  "id": "card:definition:concept:prozesskosten_erstattung",
+  "typ": "definition",
+  "front": "Definiere: Kostenerstattung und Patentanwaltskosten (Art. 14 DurchsetzungsRL, § 140 Abs. 4)",
+  "back": "Die Prozesskosten und sonstigen Kosten der obsiegenden Partei trägt in der Regel die unterlegene Partei, soweit sie zumutbar und angemessen sind (Art. 14 DurchsetzungsRL; §§ 91 ff. ZPO). In Kennzeichenstreitsachen sind die Gebühren eines mitwirkenden Patentanwalts nach § 13 RVG und seine notwendigen Auslagen zu erstatten (§ 140 Abs. 4), nach EuGH NovaText und BGH Kosten des Patentanwalts VII aber nur, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war.\n\nNormen: Art. 14 DurchsetzungsRL, § 140 Abs. 4, § 142 MarkenG\n\nRechtsprechung: EuGH NovaText/Universität Heidelberg (C-531/20); BGH Kosten des Patentanwalts VII (I ZB 59/19); EuGH Koch Media/FU (C-559/20); EuGH United Video Properties/Telenet (C-57/15)",
+  "tags": [
+   "Begriff",
+   "Verfahren"
+  ],
+  "node": "concept:prozesskosten_erstattung",
+  "erlaeuterung": "Parallelnormen: § 143 Abs. 3 PatG, § 27 Abs. 3 GebrMG, § 52 Abs. 4 DesignG. Abmahnkosten sind „sonstige Kosten“ im Sinne von Art. 14 (EuGH Koch Media zu § 97a Abs. 3 UrhG); Pauschal- und Höchstsätze sind zulässig, wenn ein erheblicher und angemessener Teil der Kosten erstattet wird (EuGH United Video Properties). Im Markenrecht folgt der Ersatz der Abmahnkosten aus Geschäftsführung ohne Auftrag (§§ 677, 683, 670 BGB) und aus § 14 Abs. 6; Streitwertbegünstigung nach § 142."
+ },
+ {
+  "id": "card:begriff:concept:prozesskosten_erstattung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie Prozesskosten und sonstigen Kosten der obsiegenden Partei trägt in der Regel die unterlegene Partei, soweit sie zumutbar und angemessen sind (Art. 14 DurchsetzungsRL; §§ 91 ff. ZPO). In Kennzeichenstreitsachen sind die Gebühren eines mitwirkenden Patentanwalts nach § 13 RVG und seine notwendigen Auslagen zu erstatten (§ 140 Abs. 4), nach EuGH NovaText und BGH Kosten des Patentanwalts VII aber nur, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war.",
+  "back": "Kostenerstattung und Patentanwaltskosten (Art. 14 DurchsetzungsRL, § 140 Abs. 4)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Verfahren"
+  ],
+  "node": "concept:prozesskosten_erstattung"
+ },
+ {
+  "id": "card:definition:concept:urteilsbekanntmachung",
+  "typ": "definition",
+  "front": "Definiere: Urteilsbekanntmachung (§ 19c)",
+  "back": "Ist Klage aus dem MarkenG erhoben, kann der obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse darlegt; Art und Umfang bestimmt das Urteil, die Befugnis erlischt drei Monate nach Rechtskraft (§ 19c; Art. 15 DurchsetzungsRL).\n\nNormen: Art. 15 DurchsetzungsRL, § 19c MarkenG",
+  "tags": [
+   "Begriff",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:urteilsbekanntmachung",
+  "erlaeuterung": "Berechtigtes Interesse etwa bei fortwirkender Marktverwirrung oder zur Aufklärung des Verkehrs; auch der obsiegende Beklagte kann die Befugnis erhalten. Der Ausspruch ist nicht vorläufig vollstreckbar. Wortgleich: § 140e PatG, § 24e GebrMG, § 47 DesignG, § 103 UrhG, § 37e SortSchG; strafrechtlich § 143 Abs. 6."
+ },
+ {
+  "id": "card:begriff:concept:urteilsbekanntmachung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nIst Klage aus dem MarkenG erhoben, kann der obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse darlegt; Art und Umfang bestimmt das Urteil, die Befugnis erlischt drei Monate nach Rechtskraft (§ 19c; Art. 15 DurchsetzungsRL).",
+  "back": "Urteilsbekanntmachung (§ 19c)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Rechtsfolgen"
+  ],
+  "node": "concept:urteilsbekanntmachung"
  },
  {
   "id": "card:definition:concept:keyword_advertising",
@@ -1779,7 +1995,7 @@
   "id": "card:definition:concept:verhaeltnis_uwg",
   "typ": "definition",
   "front": "Definiere: Verhältnis MarkenG – UWG – § 12 BGB",
-  "back": "Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus (§ 2). Nach Aufgabe der 'Vorrangthese' (Hard Rock Cafe) können lauterkeitsrechtliche Ansprüche (§§ 4 Nr. 3, 5 Abs. 2 UWG) neben kennzeichenrechtlichen bestehen; Wertungswidersprüche zu den markenrechtlichen Schranken sind aber zu vermeiden.\n\nNormen: § 2, § 126 MarkenG\n\nRechtsprechung: BGH Hard Rock Cafe (I ZR 188/11)",
+  "back": "Das MarkenG schließt die Anwendung anderer Vorschriften nicht aus (§ 2). Nach Aufgabe der 'Vorrangthese' (Hard Rock Cafe) können lauterkeitsrechtliche Ansprüche (§§ 4 Nr. 3, 5 Abs. 2 UWG) neben kennzeichenrechtlichen bestehen; Wertungswidersprüche zu den markenrechtlichen Schranken sind aber zu vermeiden.\n\nNormen: Art. 2 DurchsetzungsRL, § 2, § 126 MarkenG\n\nRechtsprechung: BGH Hard Rock Cafe (I ZR 188/11)",
   "tags": [
    "Begriff",
    "Grundlagen"
@@ -2139,7 +2355,7 @@
   "id": "card:definition:concept:transit",
   "typ": "definition",
   "front": "Definiere: Transitverbot (§ 14a MarkenG, Art. 10 Abs. 4 MarkenRL)",
-  "back": "Der Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.\n\nNormen: Art. 10 MarkenRL, § 14a, § 146 MarkenG",
+  "back": "Der Markeninhaber kann verhindern, dass Dritte Waren aus Drittstaaten, die ohne Zustimmung mit einer identischen oder in wesentlichen Aspekten nicht unterscheidbaren Marke versehen sind, unter zollamtlicher Überwachung nach Deutschland verbringen, auch wenn sie hier nicht in den Verkehr gebracht werden sollen.\n\nNormen: Art. 10 MarkenRL, Art. 16 DurchsetzungsRL, § 14a, § 146 MarkenG",
   "tags": [
    "Begriff",
    "Verletzung"
@@ -2829,6 +3045,17 @@
   "node": "schema:schema_markenrl"
  },
  {
+  "id": "card:schema:schema:schema_durchsetzung",
+  "typ": "schema",
+  "front": "Prüfungsschema: Durchsetzung einer Markenverletzung: Ansprüche und Verfahren nach der Durchsetzungsrichtlinie",
+  "back": "- 1. Verletzung und Aktivlegitimation\n- 2. Aufklärung vor und neben dem Prozess\n  - a) Vorlage und Besichtigung (§ 19a; Art. 6, 7)\n  - b) Auskunft (§ 19; Art. 8)\n  - c) Sicherung des Schadensersatzes (§ 19b; Art. 9 Abs. 2)\n- 3. Eilrechtsschutz (Art. 9)\n- 4. Ansprüche in der Hauptsache\n  - a) Unterlassung (§ 14 Abs. 5; Art. 11 S. 1, 2)\n  - b) Vernichtung, Rückruf, Entfernen (§ 18; Art. 10)\n  - c) Schadensersatz (§ 14 Abs. 6; Art. 13)\n  - d) Urteilsbekanntmachung (§ 19c; Art. 15)\n- 5. Anordnungen gegen Mittelspersonen (Art. 11 S. 3)\n- 6. Kosten (Art. 14)\n- 7. Querschnitt: Verhältnismäßigkeit und Missbrauch (Art. 3)",
+  "tags": [
+   "Prüfungsschema",
+   "Verletzung"
+  ],
+  "node": "schema:schema_durchsetzung"
+ },
+ {
   "id": "card:schema:schema:schema_klausur_ns",
   "typ": "schema",
   "front": "Prüfungsschema: Aufbau der NS-Klausur (Patentanwaltsprüfung)",
@@ -3104,6 +3331,28 @@
   "node": "step:schema_markenrl.2"
  },
  {
+  "id": "card:schema_step:step:schema_durchsetzung.2",
+  "typ": "schema_step",
+  "front": "2. Aufklärung vor und neben dem Prozess\n(Durchsetzung einer Markenverletzung: Ansprüche und Verfahren nach der Durchsetzungsrichtlinie)\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- a) Vorlage und Besichtigung (§ 19a; Art. 6, 7)\n- b) Auskunft (§ 19; Art. 8)\n- c) Sicherung des Schadensersatzes (§ 19b; Art. 9 Abs. 2)",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:schema_durchsetzung.2"
+ },
+ {
+  "id": "card:schema_step:step:schema_durchsetzung.4",
+  "typ": "schema_step",
+  "front": "4. Ansprüche in der Hauptsache\n(Durchsetzung einer Markenverletzung: Ansprüche und Verfahren nach der Durchsetzungsrichtlinie)\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- a) Unterlassung (§ 14 Abs. 5; Art. 11 S. 1, 2)\n- b) Vernichtung, Rückruf, Entfernen (§ 18; Art. 10)\n- c) Schadensersatz (§ 14 Abs. 6; Art. 13)\n- d) Urteilsbekanntmachung (§ 19c; Art. 15)",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:schema_durchsetzung.4"
+ },
+ {
   "id": "card:schema_step:step:schema_klausur_ns.4",
   "typ": "schema_step",
   "front": "D. Zulässigkeit\n(Aufbau der NS-Klausur (Patentanwaltsprüfung))\n\nWelche Punkte sind hier zu prüfen?",
@@ -3337,6 +3586,26 @@
    "Abgrenzung"
   ],
   "node": "distinction:d_markenrl_umsetzung"
+ },
+ {
+  "id": "card:abgrenzung:distinction:d_aufklaerungsansprueche",
+  "typ": "abgrenzung",
+  "front": "Welcher der drei Aufklärungsansprüche der Durchsetzungsrichtlinie passt zu welcher Situation?\n(Auskunft (§ 19) vs. Vorlage/Besichtigung (§ 19a) vs. Sicherung (§ 19b))",
+  "back": "• Richtlinie — Auskunft (§ 19): Art. 8 | Vorlage und Besichtigung (§ 19a): Art. 6, 7 | Sicherung von Schadensersatz (§ 19b): Art. 9 Abs. 2\n• Zweck — Auskunft (§ 19): Vertriebskette aufdecken, Schaden beziffern | Vorlage und Besichtigung (§ 19a): Verletzung nachweisen (Beweismittel beim Gegner) | Sicherung von Schadensersatz (§ 19b): Vollstreckung des Schadensersatzes sichern\n• Gegner — Auskunft (§ 19): Verletzer (Abs. 1); Dritte in der Kette (Abs. 2) | Vorlage und Besichtigung (§ 19a): vermeintlicher Verletzer | Sicherung von Schadensersatz (§ 19b): Verletzer\n• Voraussetzung — Auskunft (§ 19): Verletzung nach §§ 14, 15, 17; gegen Dritte nur bei offensichtlicher Verletzung oder nach Klageerhebung | Vorlage und Besichtigung (§ 19a): hinreichende Wahrscheinlichkeit einer Verletzung; Erforderlichkeit | Sicherung von Schadensersatz (§ 19b): Schadensersatzanspruch (§ 14 Abs. 6, § 15 Abs. 5, § 17 Abs. 2 S. 2); Erfüllung fraglich\n• Gewerbliches Ausmaß nötig? — Auskunft (§ 19): nur für Dritte (Abs. 2) | Vorlage und Besichtigung (§ 19a): nur für Bank-, Finanz-, Handelsunterlagen (Abs. 1 S. 2) | Sicherung von Schadensersatz (§ 19b): ja, immer (Abs. 1 S. 1)\n• Gegenstand — Auskunft (§ 19): Namen, Anschriften, Mengen, Preise (Abs. 3) | Vorlage und Besichtigung (§ 19a): Urkunde, Sache; Bank-, Finanz-, Handelsunterlagen | Sicherung von Schadensersatz (§ 19b): Bank-, Finanz-, Handelsunterlagen oder Zugang dazu\n• Eilverfahren — Auskunft (§ 19): bei offensichtlicher Verletzung (Abs. 7) | Vorlage und Besichtigung (§ 19a): ja, auch ohne Anhörung (Abs. 3) | Sicherung von Schadensersatz (§ 19b): nur bei offensichtlichem Schadensersatzanspruch (Abs. 3)\n• Geheimnisschutz — Auskunft (§ 19): Zeugnisverweigerungsrechte §§ 383 bis 385 ZPO; Verkehrsdaten nur mit richterlicher Anordnung (Abs. 9) | Vorlage und Besichtigung (§ 19a): Gericht trifft Schutzmaßnahmen (Abs. 1 S. 3, Abs. 3 S. 2); Düsseldorfer Verfahren | Sicherung von Schadensersatz (§ 19b): Gericht trifft Schutzmaßnahmen (Abs. 1 S. 2)\n• Haftung bei unberechtigtem Begehren — Auskunft (§ 19): Schadensersatz bei vorsätzlich oder grob fahrlässig falscher Auskunft (Abs. 5); § 945 ZPO | Vorlage und Besichtigung (§ 19a): verschuldensunabhängig, wenn keine Verletzung vorlag (Abs. 5) | Sicherung von Schadensersatz (§ 19b): § 945 ZPO\n\nMerksatz: § 19 fragt „woher und wohin?“, § 19a „stimmt der Vorwurf?“, § 19b „kann er zahlen?“ – alle drei nur im Rahmen der Verhältnismäßigkeit (Art. 3 Abs. 2 DurchsetzungsRL).",
+  "tags": [
+   "Abgrenzung"
+  ],
+  "node": "distinction:d_aufklaerungsansprueche"
+ },
+ {
+  "id": "card:abgrenzung:distinction:d_durchsetzungsrl_umsetzung",
+  "typ": "abgrenzung",
+  "front": "Welcher Artikel der Durchsetzungsrichtlinie steckt in welcher Vorschrift des MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG?\n(Umsetzungstabelle: Durchsetzungsrichtlinie 2004/48/EG in allen Gesetzen des gewerblichen Rechtsschutzes)",
+  "back": "• Art. 2 Abs. 1 – Günstigere Vorschriften bleiben unberührt (Mindestharmonisierung) — MarkenG: § 19d MarkenG | PatG: § 141a PatG | GebrMG: § 24g GebrMG | DesignG: § 50 DesignG | UrhG: § 102a UrhG | HalblSchG: § 9 Abs. 4 HalblSchG | SortSchG: § 37g SortSchG | Allgemeines Recht: UWG, §§ 823, 826, 812 BGB, GoA (EuGH OTK: strengere Regeln zulässig)\n• Art. 3 – Allgemeine Verpflichtung: fair, wirksam, verhältnismäßig, abschreckend, kein Missbrauch — MarkenG: § 18 Abs. 3 MarkenG, § 19 Abs. 4 MarkenG, § 19a Abs. 2 MarkenG, § 19b Abs. 2 MarkenG | PatG: § 139 Abs. 1 S. 3 bis 5 PatG, § 140a Abs. 4 PatG, § 140b Abs. 4 PatG, § 140c Abs. 2 PatG | GebrMG: § 24 Abs. 1 S. 3 bis 5 GebrMG, § 24a Abs. 3 GebrMG, § 24b Abs. 4 GebrMG, § 24c Abs. 2 GebrMG | DesignG: § 43 Abs. 4 DesignG, § 46 Abs. 4 DesignG, § 46a Abs. 2 DesignG | UrhG: § 98 Abs. 4 UrhG, § 101 Abs. 4 UrhG, § 101a Abs. 2 UrhG | HalblSchG: § 9 Abs. 2 HalblSchG (§§ 24a bis 24c GebrMG) | SortSchG: § 37a Abs. 3 SortSchG, § 37b Abs. 4 SortSchG, § 37c Abs. 2 SortSchG | Allgemeines Recht: § 242 BGB; Auslegungsmaßstab für alle Durchsetzungsnormen (EuGH NovaText, Mircom)\n• Art. 4 – Antragsbefugte: Inhaber, Lizenznehmer, Verwertungsgesellschaften, Verbände — MarkenG: § 14 Abs. 1 MarkenG, § 28 Abs. 1 MarkenG; Lizenznehmer § 30 Abs. 3, 4 MarkenG | PatG: § 139 PatG („Verletzter“); Lizenz § 15 Abs. 2 PatG | GebrMG: § 24 GebrMG; Lizenz § 22 Abs. 2 GebrMG | DesignG: § 42 Abs. 1 DesignG; Lizenznehmer § 31 Abs. 3, 4 DesignG | UrhG: § 97 UrhG; Verwertungsgesellschaften nach VGG | HalblSchG: § 9 Abs. 1 HalblSchG | SortSchG: § 37 Abs. 1 SortSchG; § 11 Abs. 2 SortSchG | Allgemeines Recht: Prozessstandschaft, Abtretung (EuGH Mircom)\n• Art. 5 – Urheber- oder Inhabervermutung — MarkenG: – (Registervermutung § 28 Abs. 1 MarkenG) | PatG: – (§ 30 Abs. 3 PatG) | GebrMG: – | DesignG: – | UrhG: § 10 UrhG | HalblSchG: – | SortSchG: – | Allgemeines Recht: nur Urheberrecht und verwandte Schutzrechte\n• Art. 6 – Beweise: Vorlage von Beweismitteln, Bank-, Finanz- und Handelsunterlagen — MarkenG: § 19a Abs. 1 MarkenG | PatG: § 140c Abs. 1 PatG | GebrMG: § 24c Abs. 1 GebrMG | DesignG: § 46a Abs. 1 DesignG | UrhG: § 101a Abs. 1 UrhG | HalblSchG: § 9 Abs. 2 HalblSchG (§ 24c GebrMG) | SortSchG: § 37c Abs. 1 SortSchG | Allgemeines Recht: §§ 142, 144 ZPO; § 809 BGB\n• Art. 7 – Beweissicherung: einstweilige Maßnahmen, ohne Anhörung, Schadensersatz bei Aufhebung — MarkenG: § 19a Abs. 3 MarkenG, Abs. 5 | PatG: § 140c Abs. 3 PatG, Abs. 5 | GebrMG: § 24c Abs. 3 GebrMG, Abs. 5 | DesignG: § 46a Abs. 3 DesignG, Abs. 5 | UrhG: § 101a Abs. 3 UrhG, Abs. 5 | HalblSchG: § 9 Abs. 2 HalblSchG (§ 24c GebrMG) | SortSchG: § 37c Abs. 3 SortSchG, Abs. 5 | Allgemeines Recht: §§ 485 ff. ZPO; §§ 935 ff. ZPO, § 937 Abs. 2 ZPO, § 945 ZPO\n• Art. 8 – Recht auf Auskunft: Verletzer und Dritte; Namen, Adressen, Mengen, Preise — MarkenG: § 19 MarkenG (Abs. 2 Nr. 1 bis 4 = Art. 8 Abs. 1 lit. a bis d MarkenG; Abs. 3 = Art. 8 Abs. 2 MarkenG; Abs. 9 Verkehrsdaten) | PatG: § 140b PatG | GebrMG: § 24b GebrMG | DesignG: § 46 DesignG | UrhG: § 101 UrhG (Abs. 1: nur bei gewerblichem Ausmaß) | HalblSchG: § 9 Abs. 2 HalblSchG (§ 24b GebrMG) | SortSchG: § 37b SortSchG | Allgemeines Recht: § 242 BGB; §§ 383 bis 385 ZPO (= Art. 8 Abs. 3 lit. d)\n• Art. 9 Abs. 1 – Einstweilige Maßnahmen: Unterlassung, auch gegen Mittelspersonen; Beschlagnahme — MarkenG: § 140 Abs. 3 MarkenG (Dringlichkeitsvermutung, seit MaMoG 2019); § 19 Abs. 7 MarkenG, § 19a Abs. 3 MarkenG | PatG: §§ 935 ff. ZPO (keine Dringlichkeitsvermutung) | GebrMG: §§ 935 ff. ZPO | DesignG: §§ 935 ff. ZPO | UrhG: §§ 935 ff. ZPO | HalblSchG: §§ 935 ff. ZPO | SortSchG: §§ 935 ff. ZPO | Allgemeines Recht: §§ 935, 938, 940 ZPO; Sequestration § 938 Abs. 2 ZPO; Störerhaftung\n• Art. 9 Abs. 2 – Sicherung von Schadensersatz: Vermögensbeschlagnahme, Kontosperre, Unterlagen — MarkenG: § 19b MarkenG | PatG: § 140d PatG | GebrMG: § 24d GebrMG | DesignG: § 46b DesignG | UrhG: § 101b UrhG | HalblSchG: § 9 Abs. 2 HalblSchG (§ 24d GebrMG) | SortSchG: § 37d SortSchG | Allgemeines Recht: dinglicher Arrest §§ 916 ff. ZPO\n• Art. 9 Abs. 3 bis 7 – Eilverfahren: Glaubhaftmachung, ohne Anhörung, Hauptsachefrist, Sicherheit, Schadensersatz — MarkenG: – | PatG: – | GebrMG: – | DesignG: – | UrhG: – | HalblSchG: – | SortSchG: – | Allgemeines Recht: § 920 Abs. 2 ZPO, § 936 ZPO; § 937 Abs. 2 ZPO; § 926 ZPO; § 921 ZPO; § 945 ZPO (verschuldensunabhängig; EuGH Bayer/Richter)\n• Art. 10 – Abhilfemaßnahmen: Rückruf, endgültiges Entfernen, Vernichtung; Verhältnismäßigkeit — MarkenG: § 18 Abs. 1 MarkenG (Vernichtung), Abs. 2 (Rückruf, Entfernen), Abs. 3 (Verhältnismäßigkeit) | PatG: § 140a Abs. 1 bis 4 PatG | GebrMG: § 24a GebrMG | DesignG: § 43 DesignG (Abs. 3: Überlassung) | UrhG: § 98 UrhG (Abs. 3: Überlassung) | HalblSchG: § 9 Abs. 2 HalblSchG (§ 24a GebrMG) | SortSchG: § 37a SortSchG | Allgemeines Recht: § 1004 BGB analog; Vollstreckung §§ 883, 887 ZPO\n• Art. 11 – Gerichtliche Anordnungen: Unterlassung, Zwangsgeld, Anordnung gegen Mittelspersonen — MarkenG: § 14 Abs. 5 MarkenG, § 15 Abs. 4 MarkenG; Störerhaftung | PatG: § 139 Abs. 1 PatG | GebrMG: § 24 Abs. 1 GebrMG | DesignG: § 42 Abs. 1 DesignG | UrhG: § 97 Abs. 1 UrhG | HalblSchG: § 9 Abs. 1 S. 1 HalblSchG | SortSchG: § 37 Abs. 1 SortSchG | Allgemeines Recht: § 890 ZPO; Störerhaftung (BGH); Providerhaftung nach dem DDG\n• Art. 12 – Ersatzmaßnahmen: Abfindung statt Rückruf und Vernichtung bei schuldloser Verletzung — MarkenG: nicht genutzt | PatG: nicht genutzt (§ 139 Abs. 1 S. 3, 4 PatG: Geldausgleich bei Härte) | GebrMG: nicht genutzt (§ 24 Abs. 1 S. 3, 4 GebrMG) | DesignG: § 45 DesignG (Entschädigung) | UrhG: § 100 UrhG (Entschädigung) | HalblSchG: – | SortSchG: – | Allgemeines Recht: fakultativ (Erwägungsgrund 25)\n• Art. 13 – Schadensersatz: Verschulden; Verletzergewinn, immaterieller Schaden; Pauschale nach Lizenzgebühr — MarkenG: § 14 Abs. 6 MarkenG (S. 2 Verletzergewinn, S. 3 Lizenzanalogie), § 15 Abs. 5 MarkenG, § 17 Abs. 2 S. 2 MarkenG | PatG: § 139 Abs. 2 PatG | GebrMG: § 24 Abs. 2 GebrMG | DesignG: § 42 Abs. 2 DesignG | UrhG: § 97 Abs. 2 UrhG (S. 4: immaterieller Schaden) | HalblSchG: § 9 Abs. 1 S. 2, 3 HalblSchG | SortSchG: § 37 Abs. 2 SortSchG | Allgemeines Recht: Abs. 2: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 852 BGB (§ 20 S. 2 MarkenG)\n• Art. 14 – Prozesskosten: zumutbare und angemessene Kosten trägt der Unterlegene — MarkenG: § 140 Abs. 4 MarkenG (Patentanwaltskosten; nur bei Notwendigkeit: EuGH NovaText, BGH Kosten des Patentanwalts VII); § 142 MarkenG | PatG: § 143 Abs. 3 PatG; § 144 PatG | GebrMG: § 27 Abs. 3 GebrMG | DesignG: § 52 Abs. 4 DesignG | UrhG: § 97a Abs. 3 UrhG (Abmahnkosten; EuGH Koch Media) | HalblSchG: – | SortSchG: – | Allgemeines Recht: §§ 91 ff. ZPO; RVG; Abmahnkosten aus GoA\n• Art. 15 – Veröffentlichung von Gerichtsentscheidungen — MarkenG: § 19c MarkenG | PatG: § 140e PatG | GebrMG: § 24e GebrMG | DesignG: § 47 DesignG | UrhG: § 103 UrhG | HalblSchG: § 9 Abs. 2 HalblSchG (§ 24e GebrMG) | SortSchG: § 37e SortSchG | Allgemeines Recht: Befugnis erlischt drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar\n• Art. 16 – Sanktionen der Mitgliedstaaten: Strafrecht, Grenzbeschlagnahme — MarkenG: §§ 143, 143a, 144 MarkenG; §§ 146 bis 151 MarkenG | PatG: § 142 PatG; §§ 142a, 142b PatG | GebrMG: § 25 GebrMG; §§ 25a, 25b GebrMG | DesignG: § 51 DesignG; §§ 55 ff. DesignG | UrhG: §§ 106 bis 111a UrhG; § 111b UrhG | HalblSchG: § 10 HalblSchG; § 9 Abs. 2 HalblSchG (§§ 25a, 25b GebrMG) | SortSchG: § 39 SortSchG; § 40a SortSchG | Allgemeines Recht: VO (EU) Nr. 608/2013; Art. 61 TRIPS\n• Nicht harmonisiert: Verjährung; Haftung des Betriebsinhabers — MarkenG: § 20 MarkenG (BGB, § 852 BGB); § 14 Abs. 7 MarkenG | PatG: § 141 PatG | GebrMG: § 24f GebrMG | DesignG: § 49 DesignG; § 44 DesignG | UrhG: § 102 UrhG; § 99 UrhG | HalblSchG: § 9 Abs. 3 HalblSchG | SortSchG: § 37f SortSchG | Allgemeines Recht: §§ 195, 199 BGB; § 852 BGB (Restschadensersatz, zehn Jahre)\n• Art. 20 – Umsetzungsfrist 29.4.2006 — MarkenG: – | PatG: – | GebrMG: – | DesignG: – | UrhG: – | HalblSchG: – | SortSchG: – | Allgemeines Recht: Durchsetzungsgesetz vom 7.7.2008 (BGBl. I S. 1191), in Kraft 1.9.2008, als Artikelgesetz für alle sieben Gesetze\n\nMerksatz: Ein Muster, sieben Gesetze: Vernichtung/Rückruf – Auskunft – Vorlage/Besichtigung – Sicherung – Urteilsbekanntmachung stehen überall in derselben Reihenfolge (§§ 18 bis 19c MarkenG = §§ 140a bis 140e PatG = §§ 24a bis 24e GebrMG = §§ 43, 46 bis 47 DesignG = §§ 98, 101 bis 103 UrhG = §§ 37a bis 37e SortSchG; HalblSchG verweist auf das GebrMG).",
+  "tags": [
+   "Abgrenzung"
+  ],
+  "node": "distinction:d_durchsetzungsrl_umsetzung"
  },
  {
   "id": "card:entscheidung:case:bgh_rocher_kugel",
@@ -5710,7 +5979,7 @@
   "id": "card:entscheidung:case:bgh_internet_versteigerung_ii",
   "typ": "entscheidung",
   "front": "BGH „Internet-Versteigerung II“ (I ZR 35/04, 2007) – Kernaussage?",
-  "back": "Der Betreiber einer Internet-Handelsplattform (eBay) haftet als Störer auf Unterlassung, wenn er nach Hinweis auf eine klare Markenverletzung das Angebot nicht sperrt und keine zumutbaren Vorkehrungen gegen gleichartige Verletzungen trifft. Die Haftungsprivilegierung des TMG gilt nicht für Unterlassungsansprüche.\n\nNormen: § 14 Abs. 5 MarkenG\nFundstelle: GRUR 2007, 708",
+  "back": "Der Betreiber einer Internet-Handelsplattform (eBay) haftet als Störer auf Unterlassung, wenn er nach Hinweis auf eine klare Markenverletzung das Angebot nicht sperrt und keine zumutbaren Vorkehrungen gegen gleichartige Verletzungen trifft. Die Haftungsprivilegierung des TMG gilt nicht für Unterlassungsansprüche.\n\nNormen: Art. 11 DurchsetzungsRL, § 14 Abs. 5 MarkenG\nFundstelle: GRUR 2007, 708",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -5737,7 +6006,7 @@
   "id": "card:entscheidung:case:bgh_kinderhochstuehle",
   "typ": "entscheidung",
   "front": "BGH „Kinderhochstühle im Internet“ (I ZR 139/08, 2010) – Kernaussage?",
-  "back": "Ein Plattformbetreiber muss nicht alle Angebote mit einer Marke manuell auf Fälschungen prüfen; Prüfpflichten bestehen erst nach konkretem Hinweis und im zumutbaren Umfang. Teilnehmerhaftung (Beihilfe) setzt Vorsatz bezüglich der Haupttat voraus; die Störerhaftung wurde für das Lauterkeitsrecht aufgegeben, im Markenrecht beibehalten.\n\nNormen: § 14 Abs. 2 Nr. 2, § 14 Abs. 5 MarkenG\nFundstelle: GRUR 2011, 152",
+  "back": "Ein Plattformbetreiber muss nicht alle Angebote mit einer Marke manuell auf Fälschungen prüfen; Prüfpflichten bestehen erst nach konkretem Hinweis und im zumutbaren Umfang. Teilnehmerhaftung (Beihilfe) setzt Vorsatz bezüglich der Haupttat voraus; die Störerhaftung wurde für das Lauterkeitsrecht aufgegeben, im Markenrecht beibehalten.\n\nNormen: Art. 11 DurchsetzungsRL, § 14 Abs. 2 Nr. 2, § 14 Abs. 5 MarkenG\nFundstelle: GRUR 2011, 152",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -5764,7 +6033,7 @@
   "id": "card:entscheidung:case:bgh_btk",
   "typ": "entscheidung",
   "front": "BGH „BTK“ (I ZR 169/07, 2009) – Kernaussage?",
-  "back": "Zur Schadensberechnung nach der Lizenzanalogie bei Kennzeichenverletzungen: Der Verletzer schuldet, was vernünftige Vertragsparteien als Lizenzgebühr vereinbart hätten; maßgeblich sind Bekanntheit und Ruf des Kennzeichens, Grad der Verwechslungsgefahr und Umfang der Benutzung.\n\nNormen: § 14 Abs. 6 MarkenG\nFundstelle: GRUR 2010, 239",
+  "back": "Zur Schadensberechnung nach der Lizenzanalogie bei Kennzeichenverletzungen: Der Verletzer schuldet, was vernünftige Vertragsparteien als Lizenzgebühr vereinbart hätten; maßgeblich sind Bekanntheit und Ruf des Kennzeichens, Grad der Verwechslungsgefahr und Umfang der Benutzung.\n\nNormen: Art. 13 DurchsetzungsRL, § 14 Abs. 6 MarkenG\nFundstelle: GRUR 2010, 239",
   "tags": [
    "Rechtsprechung",
    "BGH",
@@ -6392,6 +6661,458 @@
   "node": "case:eugh_aceto_balsamico"
  },
  {
+  "id": "card:entscheidung:case:bgh_faxkarte",
+  "typ": "entscheidung",
+  "front": "BGH „Faxkarte“ (I ZR 45/01, 2002) – Kernaussage?",
+  "back": "Der Besichtigungsanspruch aus § 809 BGB setzt nur einen gewissen Grad an Wahrscheinlichkeit einer Rechtsverletzung voraus, nicht deren Nachweis; das Geheimhaltungsinteresse des Besitzers ist im Rahmen einer umfassenden Interessenabwägung zu berücksichtigen und kann durch Einschaltung eines zur Verschwiegenheit verpflichteten Sachverständigen gewahrt werden. Vorbild des § 19a MarkenG und des „Düsseldorfer Verfahrens“.\n\nNormen: Art. 6 DurchsetzungsRL, Art. 7 DurchsetzungsRL, § 19a MarkenG\nFundstelle: GRUR 2002, 1046 = BGHZ 150, 377",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Durchsetzung",
+   "Beweise"
+  ],
+  "node": "case:bgh_faxkarte"
+ },
+ {
+  "id": "card:entscheidung_r:case:bgh_faxkarte",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nDer Besichtigungsanspruch aus § 809 BGB setzt nur einen gewissen Grad an Wahrscheinlichkeit einer Rechtsverletzung voraus, nicht deren Nachweis; das Geheimhaltungsinteresse des Besitzers ist im Rahmen einer umfassenden Interessenabwägung zu berücksichtigen und kann durch Einschaltung eines zur Verschwiegenheit verpflichteten Sachverständigen gewahrt werden. Vorbild des § 19a MarkenG und des „Düsseldorfer Verfahrens“.",
+  "back": "BGH „Faxkarte“ – I ZR 45/01 (2002), GRUR 2002, 1046 = BGHZ 150, 377",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Durchsetzung",
+   "Beweise"
+  ],
+  "node": "case:bgh_faxkarte"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_promusicae",
+  "typ": "entscheidung",
+  "front": "EuGH „Promusicae/Telefónica“ (C-275/06, 2008) – Kernaussage?",
+  "back": "Das Unionsrecht (Durchsetzungs-, E-Commerce-, InfoSoc- und Datenschutzrichtlinie) verpflichtet die Mitgliedstaaten nicht, zur Durchsetzung des Urheberrechts eine Pflicht zur Herausgabe personenbezogener Verkehrsdaten im Zivilverfahren vorzusehen. Bei Umsetzung und Anwendung müssen sie aber ein angemessenes Gleichgewicht zwischen dem Schutz des geistigen Eigentums (Art. 17 Abs. 2 GRCh) und dem Datenschutz herstellen. Hintergrund des Richtervorbehalts für Verkehrsdaten in § 19 Abs. 9 MarkenG.\n\nNormen: Art. 8 DurchsetzungsRL, § 19 Abs. 9 MarkenG\nFundstelle: GRUR 2008, 241",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Datenschutz"
+  ],
+  "node": "case:eugh_promusicae"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_promusicae",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nDas Unionsrecht (Durchsetzungs-, E-Commerce-, InfoSoc- und Datenschutzrichtlinie) verpflichtet die Mitgliedstaaten nicht, zur Durchsetzung des Urheberrechts eine Pflicht zur Herausgabe personenbezogener Verkehrsdaten im Zivilverfahren vorzusehen. Bei Umsetzung und Anwendung müssen sie aber ein angemessenes Gleichgewicht zwischen dem Schutz des geistigen Eigentums (Art. 17 Abs. 2 GRCh) und dem Datenschutz herstellen. Hintergrund des Richtervorbehalts für Verkehrsdaten in § 19 Abs. 9 MarkenG.",
+  "back": "EuGH „Promusicae/Telefónica“ – C-275/06 (2008), GRUR 2008, 241",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Datenschutz"
+  ],
+  "node": "case:eugh_promusicae"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_loreal_ebay",
+  "typ": "entscheidung",
+  "front": "EuGH „L'Oréal/eBay“ (C-324/09, 2011) – Kernaussage?",
+  "back": "Der Betreiber eines Online-Marktplatzes benutzt die Marken der Angebote nicht selbst; das Haftungsprivileg des Art. 14 E-Commerce-RL gilt nur bei neutraler Rolle. Nach Art. 11 S. 3 DurchsetzungsRL müssen die Gerichte dem Betreiber als Mittelsperson Maßnahmen aufgeben können, die nicht nur die konkrete Verletzung beenden, sondern auch neue Verletzungen derselben Art verhindern; sie müssen wirksam, verhältnismäßig und abschreckend sein, dürfen aber keine allgemeine Überwachungspflicht begründen und den rechtmäßigen Handel nicht behindern.\n\nNormen: Art. 11 DurchsetzungsRL, Art. 3 DurchsetzungsRL, § 14 Abs. 2 Nr. 1, § 14 Abs. 5 MarkenG\nFundstelle: GRUR 2011, 1025",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Mittelspersonen",
+   "Störerhaftung"
+  ],
+  "node": "case:eugh_loreal_ebay"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_loreal_ebay",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nDer Betreiber eines Online-Marktplatzes benutzt die Marken der Angebote nicht selbst; das Haftungsprivileg des Art. 14 E-Commerce-RL gilt nur bei neutraler Rolle. Nach Art. 11 S. 3 DurchsetzungsRL müssen die Gerichte dem Betreiber als Mittelsperson Maßnahmen aufgeben können, die nicht nur die konkrete Verletzung beenden, sondern auch neue Verletzungen derselben Art verhindern; sie müssen wirksam, verhältnismäßig und abschreckend sein, dürfen aber keine allgemeine Überwachungspflicht begründen und den rechtmäßigen Handel nicht behindern.",
+  "back": "EuGH „L'Oréal/eBay“ – C-324/09 (2011), GRUR 2011, 1025",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Mittelspersonen",
+   "Störerhaftung"
+  ],
+  "node": "case:eugh_loreal_ebay"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_coty_stadtsparkasse",
+  "typ": "entscheidung",
+  "front": "EuGH „Coty Germany/Stadtsparkasse Magdeburg“ (C-580/13, 2015) – Kernaussage?",
+  "back": "Art. 8 Abs. 3 lit. e DurchsetzungsRL steht einer nationalen Regelung entgegen, die es einem Bankinstitut erlaubt, unter Berufung auf das Bankgeheimnis unbegrenzt und bedingungslos die Auskunft über Name und Anschrift eines Kontoinhabers zu verweigern, über dessen Konto der Kaufpreis für gefälschte Markenware abgewickelt wurde. Das Recht auf Auskunft (Art. 17 Abs. 2, 47 GRCh) und der Schutz personenbezogener Daten (Art. 8 GRCh) sind in ein angemessenes Gleichgewicht zu bringen.\n\nNormen: Art. 8 Abs. 3 lit. e DurchsetzungsRL, Art. 8 DurchsetzungsRL, § 19 Abs. 2 MarkenG\nFundstelle: GRUR 2015, 899",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Bankgeheimnis"
+  ],
+  "node": "case:eugh_coty_stadtsparkasse"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_coty_stadtsparkasse",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nArt. 8 Abs. 3 lit. e DurchsetzungsRL steht einer nationalen Regelung entgegen, die es einem Bankinstitut erlaubt, unter Berufung auf das Bankgeheimnis unbegrenzt und bedingungslos die Auskunft über Name und Anschrift eines Kontoinhabers zu verweigern, über dessen Konto der Kaufpreis für gefälschte Markenware abgewickelt wurde. Das Recht auf Auskunft (Art. 17 Abs. 2, 47 GRCh) und der Schutz personenbezogener Daten (Art. 8 GRCh) sind in ein angemessenes Gleichgewicht zu bringen.",
+  "back": "EuGH „Coty Germany/Stadtsparkasse Magdeburg“ – C-580/13 (2015), GRUR 2015, 899",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Bankgeheimnis"
+  ],
+  "node": "case:eugh_coty_stadtsparkasse"
+ },
+ {
+  "id": "card:entscheidung:case:bgh_davidoff_hot_water_ii",
+  "typ": "entscheidung",
+  "front": "BGH „Davidoff Hot Water II“ (I ZR 51/12, 2015) – Kernaussage?",
+  "back": "§ 19 Abs. 2 S. 1 Halbs. 2 MarkenG ist richtlinienkonform dahin auszulegen, dass ein Bankinstitut die Auskunft über Name und Anschrift eines Kontoinhabers nicht unter Berufung auf das Bankgeheimnis (§ 383 Abs. 1 Nr. 6 ZPO) verweigern darf, wenn über das Konto der Kaufpreis für offensichtlich markenverletzende Ware abgewickelt wurde. Umsetzung der Vorabentscheidung Coty/Stadtsparkasse.\n\nNormen: Art. 8 DurchsetzungsRL, § 19 Abs. 2 MarkenG\nFundstelle: NJW 2016, 2190",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Bankgeheimnis"
+  ],
+  "node": "case:bgh_davidoff_hot_water_ii"
+ },
+ {
+  "id": "card:entscheidung_r:case:bgh_davidoff_hot_water_ii",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\n§ 19 Abs. 2 S. 1 Halbs. 2 MarkenG ist richtlinienkonform dahin auszulegen, dass ein Bankinstitut die Auskunft über Name und Anschrift eines Kontoinhabers nicht unter Berufung auf das Bankgeheimnis (§ 383 Abs. 1 Nr. 6 ZPO) verweigern darf, wenn über das Konto der Kaufpreis für offensichtlich markenverletzende Ware abgewickelt wurde. Umsetzung der Vorabentscheidung Coty/Stadtsparkasse.",
+  "back": "BGH „Davidoff Hot Water II“ – I ZR 51/12 (2015), NJW 2016, 2190",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Bankgeheimnis"
+  ],
+  "node": "case:bgh_davidoff_hot_water_ii"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_liffers",
+  "typ": "entscheidung",
+  "front": "EuGH „Liffers/Mandarina“ (C-99/15, 2016) – Kernaussage?",
+  "back": "Wer seinen Schaden pauschal nach der Lizenzanalogie (Art. 13 Abs. 1 UAbs. 2 lit. b DurchsetzungsRL) berechnet, kann daneben Ersatz des immateriellen Schadens verlangen. Der Pauschalbetrag ist nach dem Wortlaut („mindestens“) eine Untergrenze und deckt nicht jeden Schaden ab; Ziel ist der Ausgleich des tatsächlich erlittenen Schadens.\n\nNormen: Art. 13 DurchsetzungsRL, § 14 Abs. 6 MarkenG",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Schadensersatz"
+  ],
+  "node": "case:eugh_liffers"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_liffers",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nWer seinen Schaden pauschal nach der Lizenzanalogie (Art. 13 Abs. 1 UAbs. 2 lit. b DurchsetzungsRL) berechnet, kann daneben Ersatz des immateriellen Schadens verlangen. Der Pauschalbetrag ist nach dem Wortlaut („mindestens“) eine Untergrenze und deckt nicht jeden Schaden ab; Ziel ist der Ausgleich des tatsächlich erlittenen Schadens.",
+  "back": "EuGH „Liffers/Mandarina“ – C-99/15 (2016), ",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Schadensersatz"
+  ],
+  "node": "case:eugh_liffers"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_tommy_hilfiger",
+  "typ": "entscheidung",
+  "front": "EuGH „Tommy Hilfiger/Delta Center“ (C-494/15, 2016) – Kernaussage?",
+  "back": "Der Mieter einer Markthalle, der Verkaufsflächen an Händler untervermietet, die dort Fälschungen verkaufen, ist „Mittelsperson, deren Dienste von einem Dritten zwecks Verletzung in Anspruch genommen werden“ im Sinne von Art. 11 S. 3 DurchsetzungsRL. Die in L'Oréal/eBay für Online-Marktplätze entwickelten Voraussetzungen für Anordnungen gelten für Betreiber physischer Marktplätze gleichermaßen.\n\nNormen: Art. 11 DurchsetzungsRL, Art. 9 DurchsetzungsRL, § 14 Abs. 5 MarkenG\nFundstelle: GRUR 2016, 1062",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Mittelspersonen"
+  ],
+  "node": "case:eugh_tommy_hilfiger"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_tommy_hilfiger",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nDer Mieter einer Markthalle, der Verkaufsflächen an Händler untervermietet, die dort Fälschungen verkaufen, ist „Mittelsperson, deren Dienste von einem Dritten zwecks Verletzung in Anspruch genommen werden“ im Sinne von Art. 11 S. 3 DurchsetzungsRL. Die in L'Oréal/eBay für Online-Marktplätze entwickelten Voraussetzungen für Anordnungen gelten für Betreiber physischer Marktplätze gleichermaßen.",
+  "back": "EuGH „Tommy Hilfiger/Delta Center“ – C-494/15 (2016), GRUR 2016, 1062",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Mittelspersonen"
+  ],
+  "node": "case:eugh_tommy_hilfiger"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_united_video",
+  "typ": "entscheidung",
+  "front": "EuGH „United Video Properties/Telenet“ (C-57/15, 2016) – Kernaussage?",
+  "back": "Art. 14 DurchsetzungsRL steht Pauschaltarifen für die Erstattung von Anwaltskosten nicht entgegen, sofern die Höchstbeträge gewährleisten, dass ein erheblicher und angemessener Teil der zumutbaren Kosten des Obsiegenden erstattet wird. Kosten eines technischen Beraters sind „sonstige Kosten“; ihre Erstattung darf nicht von einem Verschulden des Unterlegenen abhängen, wenn sie für die Klage unmittelbar und eng erforderlich waren.\n\nNormen: Art. 14 DurchsetzungsRL, § 140 Abs. 4 MarkenG",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Kosten"
+  ],
+  "node": "case:eugh_united_video"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_united_video",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nArt. 14 DurchsetzungsRL steht Pauschaltarifen für die Erstattung von Anwaltskosten nicht entgegen, sofern die Höchstbeträge gewährleisten, dass ein erheblicher und angemessener Teil der zumutbaren Kosten des Obsiegenden erstattet wird. Kosten eines technischen Beraters sind „sonstige Kosten“; ihre Erstattung darf nicht von einem Verschulden des Unterlegenen abhängen, wenn sie für die Klage unmittelbar und eng erforderlich waren.",
+  "back": "EuGH „United Video Properties/Telenet“ – C-57/15 (2016), ",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Kosten"
+  ],
+  "node": "case:eugh_united_video"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_new_wave",
+  "typ": "entscheidung",
+  "front": "EuGH „NEW WAVE CZ/ALLTOYS“ (C-427/15, 2017) – Kernaussage?",
+  "back": "Das Auskunftsrecht des Art. 8 Abs. 1 DurchsetzungsRL kann auch in einem gesonderten Verfahren nach rechtskräftigem Abschluss des Verletzungsprozesses geltend gemacht werden. „Im Zusammenhang mit einem Verfahren wegen Verletzung“ ist weit auszulegen, weil das Auskunftsrecht der wirksamen Ausübung des Grundrechts auf geistiges Eigentum dient.\n\nNormen: Art. 8 Abs. 1 DurchsetzungsRL, Art. 8 DurchsetzungsRL, § 19 MarkenG",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft"
+  ],
+  "node": "case:eugh_new_wave"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_new_wave",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nDas Auskunftsrecht des Art. 8 Abs. 1 DurchsetzungsRL kann auch in einem gesonderten Verfahren nach rechtskräftigem Abschluss des Verletzungsprozesses geltend gemacht werden. „Im Zusammenhang mit einem Verfahren wegen Verletzung“ ist weit auszulegen, weil das Auskunftsrecht der wirksamen Ausübung des Grundrechts auf geistiges Eigentum dient.",
+  "back": "EuGH „NEW WAVE CZ/ALLTOYS“ – C-427/15 (2017), ",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft"
+  ],
+  "node": "case:eugh_new_wave"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_otk",
+  "typ": "entscheidung",
+  "front": "EuGH „OTK/Stowarzyszenie Filmowców Polskich“ (C-367/15, 2017) – Kernaussage?",
+  "back": "Die Durchsetzungsrichtlinie ist Mindestharmonisierung (Art. 2 Abs. 1). Art. 13 steht einer nationalen Regelung nicht entgegen, nach der der Verletzte ohne Nachweis des tatsächlichen Schadens pauschal das Doppelte der angemessenen Lizenzgebühr verlangen kann. Erwägungsgrund 26 verbietet keinen Strafschadensersatz, sondern schließt nur eine Verpflichtung dazu aus.\n\nNormen: Art. 13 DurchsetzungsRL, Art. 2 DurchsetzungsRL MarkenG",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Schadensersatz"
+  ],
+  "node": "case:eugh_otk"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_otk",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nDie Durchsetzungsrichtlinie ist Mindestharmonisierung (Art. 2 Abs. 1). Art. 13 steht einer nationalen Regelung nicht entgegen, nach der der Verletzte ohne Nachweis des tatsächlichen Schadens pauschal das Doppelte der angemessenen Lizenzgebühr verlangen kann. Erwägungsgrund 26 verbietet keinen Strafschadensersatz, sondern schließt nur eine Verpflichtung dazu aus.",
+  "back": "EuGH „OTK/Stowarzyszenie Filmowców Polskich“ – C-367/15 (2017), ",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Schadensersatz"
+  ],
+  "node": "case:eugh_otk"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_bayer_richter",
+  "typ": "entscheidung",
+  "front": "EuGH „Bayer Pharma/Richter Gedeon“ (C-688/17, 2019) – Kernaussage?",
+  "back": "„Angemessener Ersatz“ nach Art. 9 Abs. 7 DurchsetzungsRL für Schäden aus einer später aufgehobenen einstweiligen Maßnahme ist kein automatischer Vollersatz: Das nationale Gericht darf alle Umstände würdigen, insbesondere ob der Antragsgegner durch den Markteintritt trotz laufenden Schutzrechts das Risiko selbst geschaffen hat. Die verschuldensunabhängige Haftung des § 945 ZPO geht darüber hinaus und bleibt als günstigere Regelung zulässig.\n\nNormen: Art. 3 DurchsetzungsRL, Art. 9 Abs. 7 DurchsetzungsRL, Art. 9 DurchsetzungsRL MarkenG",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Einstweilige Verfügung"
+  ],
+  "node": "case:eugh_bayer_richter"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_bayer_richter",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\n„Angemessener Ersatz“ nach Art. 9 Abs. 7 DurchsetzungsRL für Schäden aus einer später aufgehobenen einstweiligen Maßnahme ist kein automatischer Vollersatz: Das nationale Gericht darf alle Umstände würdigen, insbesondere ob der Antragsgegner durch den Markteintritt trotz laufenden Schutzrechts das Risiko selbst geschaffen hat. Die verschuldensunabhängige Haftung des § 945 ZPO geht darüber hinaus und bleibt als günstigere Regelung zulässig.",
+  "back": "EuGH „Bayer Pharma/Richter Gedeon“ – C-688/17 (2019), ",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Einstweilige Verfügung"
+  ],
+  "node": "case:eugh_bayer_richter"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_constantin_film",
+  "typ": "entscheidung",
+  "front": "EuGH „Constantin Film Verleih/YouTube“ (C-264/19, 2020) – Kernaussage?",
+  "back": "„Adressen“ im Sinne von Art. 8 Abs. 2 lit. a DurchsetzungsRL meint nur die Postanschrift, nicht E-Mail-Adresse, Telefonnummer oder IP-Adresse des Nutzers, der rechtsverletzende Dateien hochgeladen hat. Die Mitgliedstaaten dürfen weitergehende Auskunftsrechte vorsehen (Art. 8 Abs. 3 lit. a), müssen dabei aber den Ausgleich der betroffenen Grundrechte wahren.\n\nNormen: Art. 8 Abs. 2 lit. a DurchsetzungsRL, Art. 8 DurchsetzungsRL, § 19 Abs. 3 MarkenG\nFundstelle: GRUR 2020, 840",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Plattformen"
+  ],
+  "node": "case:eugh_constantin_film"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_constantin_film",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\n„Adressen“ im Sinne von Art. 8 Abs. 2 lit. a DurchsetzungsRL meint nur die Postanschrift, nicht E-Mail-Adresse, Telefonnummer oder IP-Adresse des Nutzers, der rechtsverletzende Dateien hochgeladen hat. Die Mitgliedstaaten dürfen weitergehende Auskunftsrechte vorsehen (Art. 8 Abs. 3 lit. a), müssen dabei aber den Ausgleich der betroffenen Grundrechte wahren.",
+  "back": "EuGH „Constantin Film Verleih/YouTube“ – C-264/19 (2020), GRUR 2020, 840",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Plattformen"
+  ],
+  "node": "case:eugh_constantin_film"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_mircom",
+  "typ": "entscheidung",
+  "front": "EuGH „Mircom/Telenet“ (C-597/19, 2021) – Kernaussage?",
+  "back": "Auch ein Zessionar, der Rechte nur erwirbt, um Verletzer abzumahnen, kann Inhaber im Sinne von Art. 4 lit. a DurchsetzungsRL sein und Auskunft nach Art. 8 verlangen. Das Gericht muss aber prüfen, ob der Antrag begründet und verhältnismäßig ist und ob ein Rechtsmissbrauch nach Art. 3 Abs. 2 vorliegt; die Speicherung von IP-Adressen durch den Rechtsinhaber kann ein berechtigtes Interesse nach der DSGVO sein.\n\nNormen: Art. 3 DurchsetzungsRL, Art. 4 DurchsetzungsRL, Art. 8 DurchsetzungsRL MarkenG",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Missbrauch"
+  ],
+  "node": "case:eugh_mircom"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_mircom",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nAuch ein Zessionar, der Rechte nur erwirbt, um Verletzer abzumahnen, kann Inhaber im Sinne von Art. 4 lit. a DurchsetzungsRL sein und Auskunft nach Art. 8 verlangen. Das Gericht muss aber prüfen, ob der Antrag begründet und verhältnismäßig ist und ob ein Rechtsmissbrauch nach Art. 3 Abs. 2 vorliegt; die Speicherung von IP-Adressen durch den Rechtsinhaber kann ein berechtigtes Interesse nach der DSGVO sein.",
+  "back": "EuGH „Mircom/Telenet“ – C-597/19 (2021), ",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Auskunft",
+   "Missbrauch"
+  ],
+  "node": "case:eugh_mircom"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_koch_media",
+  "typ": "entscheidung",
+  "front": "EuGH „Koch Media/FU“ (C-559/20, 2022) – Kernaussage?",
+  "back": "Kosten der außergerichtlichen Rechtsverfolgung, etwa Anwaltskosten einer Abmahnung, sind „sonstige Kosten“ im Sinne von Art. 14 DurchsetzungsRL. Eine nationale Deckelung des Gegenstandswerts (§ 97a Abs. 3 UrhG: 1.000 Euro gegenüber privaten Verletzern) ist zulässig, wenn sie dem Gericht erlaubt, in Fällen der Unbilligkeit davon abzuweichen und so Verhältnismäßigkeit und Billigkeit zu wahren.\n\nNormen: Art. 14 DurchsetzungsRL MarkenG\nFundstelle: GRUR 2022, 849",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Kosten",
+   "Abmahnung"
+  ],
+  "node": "case:eugh_koch_media"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_koch_media",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nKosten der außergerichtlichen Rechtsverfolgung, etwa Anwaltskosten einer Abmahnung, sind „sonstige Kosten“ im Sinne von Art. 14 DurchsetzungsRL. Eine nationale Deckelung des Gegenstandswerts (§ 97a Abs. 3 UrhG: 1.000 Euro gegenüber privaten Verletzern) ist zulässig, wenn sie dem Gericht erlaubt, in Fällen der Unbilligkeit davon abzuweichen und so Verhältnismäßigkeit und Billigkeit zu wahren.",
+  "back": "EuGH „Koch Media/FU“ – C-559/20 (2022), GRUR 2022, 849",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Kosten",
+   "Abmahnung"
+  ],
+  "node": "case:eugh_koch_media"
+ },
+ {
+  "id": "card:entscheidung:case:eugh_novatext",
+  "typ": "entscheidung",
+  "front": "EuGH „NovaText/Universität Heidelberg“ (C-531/20, 2022) – Kernaussage?",
+  "back": "Art. 3 und 14 DurchsetzungsRL stehen einer nationalen Regelung oder ihrer Auslegung entgegen, nach der die Kosten der Mitwirkung eines Patentanwalts in einer Kennzeichenstreitsache ohne Prüfung der Erforderlichkeit stets zu erstatten sind (§ 140 Abs. 3 MarkenG a.F., heute Abs. 4). Das Gericht muss im Einzelfall prüfen können, ob die Kosten des Obsiegenden zumutbar und angemessen sind.\n\nNormen: Art. 14 DurchsetzungsRL, Art. 3 DurchsetzungsRL, § 140 Abs. 4 MarkenG\nFundstelle: GRUR 2022, 853",
+  "tags": [
+   "Rechtsprechung",
+   "EuGH",
+   "Durchsetzung",
+   "Kosten",
+   "Patentanwalt"
+  ],
+  "node": "case:eugh_novatext"
+ },
+ {
+  "id": "card:entscheidung_r:case:eugh_novatext",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EuGH) steht für folgenden Grundsatz?\n\nArt. 3 und 14 DurchsetzungsRL stehen einer nationalen Regelung oder ihrer Auslegung entgegen, nach der die Kosten der Mitwirkung eines Patentanwalts in einer Kennzeichenstreitsache ohne Prüfung der Erforderlichkeit stets zu erstatten sind (§ 140 Abs. 3 MarkenG a.F., heute Abs. 4). Das Gericht muss im Einzelfall prüfen können, ob die Kosten des Obsiegenden zumutbar und angemessen sind.",
+  "back": "EuGH „NovaText/Universität Heidelberg“ – C-531/20 (2022), GRUR 2022, 853",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EuGH",
+   "Durchsetzung",
+   "Kosten",
+   "Patentanwalt"
+  ],
+  "node": "case:eugh_novatext"
+ },
+ {
+  "id": "card:entscheidung:case:bgh_kosten_patentanwalt_vii",
+  "typ": "entscheidung",
+  "front": "BGH „Kosten des Patentanwalts VII“ (I ZB 59/19, 2022) – Kernaussage?",
+  "back": "§ 140 Abs. 3 MarkenG a.F. (heute Abs. 4) ist richtlinienkonform (Art. 3, 14 DurchsetzungsRL) dahin auszulegen, dass die Kosten der Mitwirkung eines Patentanwalts in einer Kennzeichenstreitsache nur erstattungsfähig sind, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war; die Partei muss das darlegen und glaubhaft machen. Aufgabe der bisherigen Rechtsprechung, nach der die Notwendigkeit nicht geprüft wurde.\n\nNormen: Art. 14 DurchsetzungsRL, § 140 Abs. 4 MarkenG\nFundstelle: GRUR 2023, 446",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Durchsetzung",
+   "Kosten",
+   "Patentanwalt",
+   "Klausur NS"
+  ],
+  "node": "case:bgh_kosten_patentanwalt_vii"
+ },
+ {
+  "id": "card:entscheidung_r:case:bgh_kosten_patentanwalt_vii",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\n§ 140 Abs. 3 MarkenG a.F. (heute Abs. 4) ist richtlinienkonform (Art. 3, 14 DurchsetzungsRL) dahin auszulegen, dass die Kosten der Mitwirkung eines Patentanwalts in einer Kennzeichenstreitsache nur erstattungsfähig sind, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war; die Partei muss das darlegen und glaubhaft machen. Aufgabe der bisherigen Rechtsprechung, nach der die Notwendigkeit nicht geprüft wurde.",
+  "back": "BGH „Kosten des Patentanwalts VII“ – I ZB 59/19 (2022), GRUR 2023, 446",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Durchsetzung",
+   "Kosten",
+   "Patentanwalt",
+   "Klausur NS"
+  ],
+  "node": "case:bgh_kosten_patentanwalt_vii"
+ },
+ {
   "id": "card:norm:norm:§1",
   "typ": "norm",
   "front": "Was regelt § 1 MarkenG?",
@@ -6525,7 +7246,7 @@
   "id": "card:norm:norm:§14",
   "typ": "norm",
   "front": "Was regelt § 14 MarkenG?",
-  "back": "Ausschließliches Recht des Inhabers einer Marke, Unterlassungsanspruch, Schadensersatzanspruch\n\nDer Erwerb des Markenschutzes nach § 4 gewährt dem Inhaber der\nMarke ein ausschließliches Recht.\n\nZugehörige Begriffe: Aktivlegitimation / Rechtsinhaberschaft, Ausnutzung der Unterscheidungskraft (Aufmerksamkeitsausbeutung), Ausnutzung der Wertschätzung (Rufausbeutung), Beeinträchtigung der Unterscheidungskraft (Verwässerung), Beeinträchtigung der Wertschätzung (Rufschädigung), Bekannte Marke (§ 14 Abs. 2 Nr. 3), Benutzung im geschäftlichen Verkehr, Domainname als Kennzeichen",
+  "back": "Ausschließliches Recht des Inhabers einer Marke, Unterlassungsanspruch, Schadensersatzanspruch\n\nDer Erwerb des Markenschutzes nach § 4 gewährt dem Inhaber der\nMarke ein ausschließliches Recht.\n\nZugehörige Begriffe: Aktivlegitimation / Rechtsinhaberschaft, Anordnungen gegen Mittelspersonen (Art. 11 S. 3 DurchsetzungsRL), Ausnutzung der Unterscheidungskraft (Aufmerksamkeitsausbeutung), Ausnutzung der Wertschätzung (Rufausbeutung), Beeinträchtigung der Unterscheidungskraft (Verwässerung), Beeinträchtigung der Wertschätzung (Rufschädigung), Bekannte Marke (§ 14 Abs. 2 Nr. 3), Benutzung im geschäftlichen Verkehr",
   "tags": [
    "Gesetz"
   ],
@@ -6575,7 +7296,7 @@
   "id": "card:norm:norm:§18",
   "typ": "norm",
   "front": "Was regelt § 18 MarkenG?",
-  "back": "Vernichtungs- und Rückrufansprüche\n\nDer Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann\nden Verletzer in den Fällen der §§ 14, 15 und 17 auf Vernichtung der\nim Besitz oder Eigentum des Verletzers befindlichen widerrechtlich\ngekennzeichneten Waren in Anspruch nehmen. Satz 1 ist entsprechend auf\ndie im Eigentum des Verletzers stehenden Materialien und Geräte\nanzuwenden, die vorwiegend zur widerrechtlichen Kennzeichnung der\nWaren gedient haben.\n\nZugehörige Begriffe: Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
+  "back": "Vernichtungs- und Rückrufansprüche\n\nDer Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann\nden Verletzer in den Fällen der §§ 14, 15 und 17 auf Vernichtung der\nim Besitz oder Eigentum des Verletzers befindlichen widerrechtlich\ngekennzeichneten Waren in Anspruch nehmen. Satz 1 ist entsprechend auf\ndie im Eigentum des Verletzers stehenden Materialien und Geräte\nanzuwenden, die vorwiegend zur widerrechtlichen Kennzeichnung der\nWaren gedient haben.\n\nZugehörige Begriffe: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
   "tags": [
    "Gesetz"
   ],
@@ -6585,7 +7306,7 @@
   "id": "card:norm:norm:§19",
   "typ": "norm",
   "front": "Was regelt § 19 MarkenG?",
-  "back": "Auskunftsanspruch\n\nDer Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann\nden Verletzer in den Fällen der §§ 14, 15 und 17 auf unverzügliche\nAuskunft über die Herkunft und den Vertriebsweg von widerrechtlich\ngekennzeichneten Waren oder Dienstleistungen in Anspruch nehmen.\n\nZugehörige Begriffe: Schadensersatz (§ 14 Abs. 6) und dreifache Schadensberechnung, Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
+  "back": "Auskunftsanspruch\n\nDer Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann\nden Verletzer in den Fällen der §§ 14, 15 und 17 auf unverzügliche\nAuskunft über die Herkunft und den Vertriebsweg von widerrechtlich\ngekennzeichneten Waren oder Dienstleistungen in Anspruch nehmen.\n\nZugehörige Begriffe: Anordnungen gegen Mittelspersonen (Art. 11 S. 3 DurchsetzungsRL), Auskunftsanspruch gegen Dritte (§ 19 Abs. 2), Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Einstweilige Verfügung in Kennzeichenstreitsachen, Gewerbliches Ausmaß, Schadensersatz (§ 14 Abs. 6) und dreifache Schadensberechnung, Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
   "tags": [
    "Gesetz"
   ],
@@ -6595,7 +7316,7 @@
   "id": "card:norm:norm:§19a",
   "typ": "norm",
   "front": "Was regelt § 19a MarkenG?",
-  "back": "Vorlage- und Besichtigungsansprüche\n\nBei hinreichender Wahrscheinlichkeit einer Rechtsverletzung nach\nden §§ 14, 15 und 17 kann der Inhaber einer Marke oder einer\ngeschäftlichen Bezeichnung den vermeintlichen Verletzer auf Vorlage\neiner Urkunde oder Besichtigung einer Sache in Anspruch nehmen, die\nsich in dessen Verfügungsgewalt befindet, wenn dies zur Begründung\nseiner Ansprüche erforderlich ist. Besteht die hinreichende\nWahrscheinlichkeit einer in gewerblichem Ausmaß begangenen\nRechtsverletzung, erstreckt sich der Anspruch auch auf die Vorlage von\nBank-, Finanz- oder Handelsunterlagen. Soweit der vermeintliche\nVerletzer geltend macht, dass es sich um vertrauliche Informationen\nhandelt, trifft das Gericht die erforderlichen Ma …\n\nZugehörige Begriffe: Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
+  "back": "Vorlage- und Besichtigungsansprüche\n\nBei hinreichender Wahrscheinlichkeit einer Rechtsverletzung nach\nden §§ 14, 15 und 17 kann der Inhaber einer Marke oder einer\ngeschäftlichen Bezeichnung den vermeintlichen Verletzer auf Vorlage\neiner Urkunde oder Besichtigung einer Sache in Anspruch nehmen, die\nsich in dessen Verfügungsgewalt befindet, wenn dies zur Begründung\nseiner Ansprüche erforderlich ist. Besteht die hinreichende\nWahrscheinlichkeit einer in gewerblichem Ausmaß begangenen\nRechtsverletzung, erstreckt sich der Anspruch auch auf die Vorlage von\nBank-, Finanz- oder Handelsunterlagen. Soweit der vermeintliche\nVerletzer geltend macht, dass es sich um vertrauliche Informationen\nhandelt, trifft das Gericht die erforderlichen Ma …\n\nZugehörige Begriffe: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Einstweilige Verfügung in Kennzeichenstreitsachen, Gewerbliches Ausmaß, Vernichtung, Rückruf, Auskunft (§§ 18, 19), Vorlage- und Besichtigungsanspruch (§ 19a)",
   "tags": [
    "Gesetz"
   ],
@@ -6605,7 +7326,7 @@
   "id": "card:norm:norm:§19b",
   "typ": "norm",
   "front": "Was regelt § 19b MarkenG?",
-  "back": "Sicherung von Schadensersatzansprüchen\n\nDer Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann\nden Verletzer bei einer in gewerblichem Ausmaß begangenen\nRechtsverletzung in den Fällen des § 14 Abs. 6, § 15 Abs. 5 sowie § 17\nAbs. 2 Satz 2 auch auf Vorlage von Bank-, Finanz- oder\nHandelsunterlagen oder einen geeigneten Zugang zu den entsprechenden\nUnterlagen in Anspruch nehmen, die sich in der Verfügungsgewalt des\nVerletzers befinden und die für die Durchsetzung des\nSchadensersatzanspruchs erforderlich sind, wenn ohne die Vorlage die\nErfüllung des Schadensersatzanspruchs fraglich ist. Soweit der\nVerletzer geltend macht, dass es sich um vertrauliche Informationen\nhandelt, trifft das Gericht die erforderlichen Maßnahmen, u …\n\nZugehörige Begriffe: Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
+  "back": "Sicherung von Schadensersatzansprüchen\n\nDer Inhaber einer Marke oder einer geschäftlichen Bezeichnung kann\nden Verletzer bei einer in gewerblichem Ausmaß begangenen\nRechtsverletzung in den Fällen des § 14 Abs. 6, § 15 Abs. 5 sowie § 17\nAbs. 2 Satz 2 auch auf Vorlage von Bank-, Finanz- oder\nHandelsunterlagen oder einen geeigneten Zugang zu den entsprechenden\nUnterlagen in Anspruch nehmen, die sich in der Verfügungsgewalt des\nVerletzers befinden und die für die Durchsetzung des\nSchadensersatzanspruchs erforderlich sind, wenn ohne die Vorlage die\nErfüllung des Schadensersatzanspruchs fraglich ist. Soweit der\nVerletzer geltend macht, dass es sich um vertrauliche Informationen\nhandelt, trifft das Gericht die erforderlichen Maßnahmen, u …\n\nZugehörige Begriffe: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Gewerbliches Ausmaß, Sicherung von Schadensersatzansprüchen (§ 19b), Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
   "tags": [
    "Gesetz"
   ],
@@ -6615,7 +7336,7 @@
   "id": "card:norm:norm:§19c",
   "typ": "norm",
   "front": "Was regelt § 19c MarkenG?",
-  "back": "Urteilsbekanntmachung\n\nIst eine Klage auf Grund dieses Gesetzes erhoben worden, kann der\nobsiegenden Partei im Urteil die Befugnis zugesprochen werden, das\nUrteil auf Kosten der unterliegenden Partei öffentlich bekannt zu\nmachen, wenn sie ein berechtigtes Interesse darlegt. Art und Umfang\nder Bekanntmachung werden im Urteil bestimmt. Die Befugnis erlischt,\nwenn von ihr nicht innerhalb von drei Monaten nach Eintritt der\nRechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz\n1 ist nicht vorläufig vollstreckbar.\n\nZugehörige Begriffe: Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
+  "back": "Urteilsbekanntmachung\n\nIst eine Klage auf Grund dieses Gesetzes erhoben worden, kann der\nobsiegenden Partei im Urteil die Befugnis zugesprochen werden, das\nUrteil auf Kosten der unterliegenden Partei öffentlich bekannt zu\nmachen, wenn sie ein berechtigtes Interesse darlegt. Art und Umfang\nder Bekanntmachung werden im Urteil bestimmt. Die Befugnis erlischt,\nwenn von ihr nicht innerhalb von drei Monaten nach Eintritt der\nRechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz\n1 ist nicht vorläufig vollstreckbar.\n\nZugehörige Begriffe: Durchsetzungsrichtlinie 2004/48/EG (DurchsetzungsRL), Urteilsbekanntmachung (§ 19c), Vernichtung, Rückruf, Auskunft (§§ 18, 19)",
   "tags": [
    "Gesetz"
   ],
@@ -7385,7 +8106,7 @@
   "id": "card:norm:norm:§140",
   "typ": "norm",
   "front": "Was regelt § 140 MarkenG?",
-  "back": "Kennzeichenstreitsachen\n\nFür alle Klagen, durch die ein Anspruch aus einem der in diesem\nGesetz geregelten Rechtsverhältnisse geltend gemacht wird\n(Kennzeichenstreitsachen), sind die Landgerichte ohne Rücksicht auf\nden Streitwert ausschließlich zuständig.\n\nZugehörige Begriffe: Unionsmarkengerichte und Verfahren (§ 125e, Art. 123 ff. UMV), Unterlassungsanspruch (§ 14 Abs. 5)",
+  "back": "Kennzeichenstreitsachen\n\nFür alle Klagen, durch die ein Anspruch aus einem der in diesem\nGesetz geregelten Rechtsverhältnisse geltend gemacht wird\n(Kennzeichenstreitsachen), sind die Landgerichte ohne Rücksicht auf\nden Streitwert ausschließlich zuständig.\n\nZugehörige Begriffe: Einstweilige Verfügung in Kennzeichenstreitsachen, Kostenerstattung und Patentanwaltskosten (Art. 14 DurchsetzungsRL, § 140 Abs. 4), Unionsmarkengerichte und Verfahren (§ 125e, Art. 123 ff. UMV), Unterlassungsanspruch (§ 14 Abs. 5)",
   "tags": [
    "Gesetz"
   ],
@@ -7400,6 +8121,26 @@
    "Gesetz"
   ],
   "node": "norm:§141"
+ },
+ {
+  "id": "card:norm:norm:§142",
+  "typ": "norm",
+  "front": "Was regelt § 142 MarkenG?",
+  "back": "Streitwertbegünstigung\n\nMacht in bürgerlichen Rechtsstreitigkeiten, in denen durch Klage\nein Anspruch aus einem der in diesem Gesetz geregelten\nRechtsverhältnisse geltend gemacht wird, eine Partei glaubhaft, daß\ndie Belastung mit den Prozeßkosten nach dem vollen Streitwert ihre\nwirtschaftliche Lage erheblich gefährden würde, so kann das Gericht\nauf ihren Antrag anordnen, daß die Verpflichtung dieser Partei zur\nZahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage\nangepaßten Teil des Streitwerts bemißt.\n\nZugehörige Begriffe: Kostenerstattung und Patentanwaltskosten (Art. 14 DurchsetzungsRL, § 140 Abs. 4)",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§142"
+ },
+ {
+  "id": "card:norm:norm:§143",
+  "typ": "norm",
+  "front": "Was regelt § 143 MarkenG?",
+  "back": "Strafbare Kennzeichenverletzung\n\nWer im geschäftlichen Verkehr widerrechtlich\n\n1. entgegen § 14 Abs. 2 Satz 1 Nr. 1 oder 2 ein Zeichen benutzt,\n\n2. entgegen § 14 Abs. 2 Satz 1 Nr. 3 ein Zeichen in der Absicht benutzt,\n die Unterscheidungskraft oder die Wertschätzung einer bekannten Marke\n auszunutzen oder zu beeinträchtigen,\n\n3. entgegen § 14 Abs. 4 Nr. 1 ein Zeichen anbringt oder entgegen § 14\n Abs. 4 Nr. 2 oder 3 eine Aufmachung oder Verpackung oder ein\n Kennzeichnungsmittel anbietet, in den Verkehr bringt, besitzt,\n einführt oder ausführt, soweit Dritten die Benutzung des Zeichens\n\n a) nach § 14 Abs. 2 Satz 1 Nr. 1 oder 2 untersagt wäre oder\n\n b) nach § 14 Abs. 2 Satz 1 Nr. 3 untersagt wäre und die Handlung in der\n Absic …",
+  "tags": [
+   "Gesetz"
+  ],
+  "node": "norm:§143"
  },
  {
   "id": "card:norm:norm:§144",
@@ -7438,7 +8179,8 @@
   "back": "Anwendungsbereich\n\nDie Richtlinie gilt für alle Individual-, Garantie-, Gewährleistungs- und Kollektivmarken für Waren oder Dienstleistungen, die in einem Mitgliedstaat oder beim Benelux-Amt eingetragen oder angemeldet sind oder mit Wirkung für einen Mitgliedstaat international registriert wurden.\n\nUmgesetzt in: § 1 MarkenG\n\nHinweis: Nicht harmonisiert sind Benutzungsmarken (§ 4 Nr. 2 MarkenG) und geschäftliche Bezeichnungen (§ 5 MarkenG); insoweit bleibt das nationale Recht frei.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:1"
  },
@@ -7449,7 +8191,8 @@
   "back": "Begriffsbestimmungen\n\n„Amt“ ist die für die Eintragung von Marken zuständige zentrale Behörde für den gewerblichen Rechtsschutz des Mitgliedstaats oder das Benelux-Amt für geistiges Eigentum.\n\nUmgesetzt in: § 41, § 56 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:2"
  },
@@ -7460,7 +8203,8 @@
   "back": "Markenformen\n\nMarken können alle Zeichen sein, insbesondere Wörter einschließlich Personennamen, Abbildungen, Buchstaben, Zahlen, Farben, die Form der Ware oder ihrer Verpackung sowie Klänge, sofern sie (a) geeignet sind, Waren oder Dienstleistungen eines Unternehmens von denen anderer zu unterscheiden, und (b) im Register so dargestellt werden können, dass Behörden und Publikum den Schutzgegenstand klar und eindeutig bestimmen können.\n\nUmgesetzt in: § 3 Abs. 1, § 8 Abs. 1 MarkenG\n\nHinweis: Aufgabe des Erfordernisses der graphischen Darstellbarkeit (Sieckmann-Kriterien bleiben Maßstab). Umsetzung im MaMoG: § 8 Abs. 1 MarkenG neu gefasst; Klang-, Bewegungs-, Multimedia- und Hologrammmarken ausdrücklich zulässig.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:3"
  },
@@ -7471,7 +8215,8 @@
   "back": "Absolute Eintragungshindernisse oder Ungültigkeitsgründe\n\nVon der Eintragung ausgeschlossen bzw. für ungültig zu erklären sind: (a) nicht markenfähige Zeichen; (b) Marken ohne Unterscheidungskraft; (c) ausschließlich beschreibende Angaben (Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung, sonstige Merkmale); (d) im allgemeinen Sprachgebrauch oder in redlichen Verkehrsgepflogenheiten üblich gewordene Zeichen; (e) Zeichen, die ausschließlich aus der Form oder einem anderen charakteristischen Merkmal bestehen, die durch die Art der Ware bedingt, zur Erreichung einer technischen Wirkung erforderlich sind oder der …\n\nUmgesetzt in: § 3 Abs. 2, § 50, § 8 Abs. 2, § 8 Abs. 3 MarkenG\n\nHinweis: Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ (§ 3 Abs. 2 MarkenG), Bösgläubigkeit als zwingender Ungültigkeitsgrund (§ 8 Abs. 2 Nr. 14 MarkenG), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen (§ 8 Abs. 2 Nr. 9 bis 13 MarkenG).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:4"
  },
@@ -7482,7 +8227,8 @@
   "back": "Relative Eintragungshindernisse oder Ungültigkeitsgründe\n\nAusgeschlossen oder ungültig ist eine Marke, (a) die mit einer älteren Marke identisch ist und für identische Waren angemeldet wurde, oder (b) wenn wegen Identität oder Ähnlichkeit mit der älteren Marke und der Waren für das Publikum Verwechslungsgefahr besteht, einschließlich der Gefahr gedanklicher Verbindung.\n\nUmgesetzt in: § 10, § 11, § 12, § 125b, § 13, § 42, § 51, § 9 MarkenG\n\nHinweis: Der Bekanntheitsschutz im Register ist jetzt zwingend und gilt ausdrücklich auch bei identischen und ähnlichen Waren; § 9 Abs. 1 Nr. 3 MarkenG wurde entsprechend geändert (Streichung von „nicht ähnlich“).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:5"
  },
@@ -7493,7 +8239,8 @@
   "back": "Nachträgliche Feststellung der Ungültigkeit oder des Verfalls einer Marke\n\nWurde für eine Unionsmarke die Seniorität einer nationalen Marke in Anspruch genommen, auf die verzichtet wurde oder die erloschen ist, kann die Ungültigkeit oder der Verfall dieser nationalen Marke nachträglich festgestellt werden, sofern die Voraussetzungen schon im Zeitpunkt des Verzichts oder Erlöschens vorlagen; die Seniorität entfällt dann.\n\nUmgesetzt in: § 125c MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:6"
  },
@@ -7504,7 +8251,8 @@
   "back": "Eintragungshindernisse und Ungültigkeitsgründe nur für einen Teil der Waren oder Dienstleistungen\n\nLiegt ein Hindernis nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil zurückgewiesen oder für ungültig erklärt.\n\nUmgesetzt in: § 37 Abs. 5, § 50, § 51 Abs. 5 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:7"
  },
@@ -7515,7 +8263,8 @@
   "back": "Fehlende Unterscheidungskraft oder Bekanntheit einer älteren Marke als Hindernis für die Nichtigerklärung einer eingetragenen Marke\n\nEin Antrag auf Nichtigerklärung aufgrund einer älteren Marke ist erfolglos, wenn er am Anmelde- oder Prioritätstag der jüngeren Marke erfolglos gewesen wäre, weil (a) die ältere Marke damals nach Art. 4 Abs. 1 lit. b, c oder d für ungültig erklärt werden konnte und noch keine Unterscheidungskraft erlangt hatte, (b) noch keine Verwechslungsgefahr bestand, weil die ältere Marke noch nicht hinreichend unterscheidungskräftig war, oder (c) die ältere Marke noch nicht bekannt war.\n\nUmgesetzt in: § 22, § 51 Abs. 3, § 51 Abs. 4 MarkenG\n\nHinweis: Maßgeblicher Zeitpunkt für Kennzeichnungskraft und Bekanntheit der älteren Marke ist der Prioritätstag der jüngeren Marke (§ 51 Abs. 3, Abs. 4 S. 2 MarkenG).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:8"
  },
@@ -7526,7 +8275,8 @@
   "back": "Verwirkung durch Duldung\n\nHat der Inhaber einer älteren Marke die Benutzung einer jüngeren eingetragenen Marke fünf aufeinanderfolgende Jahre in Kenntnis geduldet, kann er weder die Nichtigkeit der jüngeren Marke geltend machen noch ihrer Benutzung widersprechen, es sei denn, die jüngere Marke wurde bösgläubig angemeldet.\n\nUmgesetzt in: § 21, § 51 Abs. 2 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:9"
  },
@@ -7537,7 +8287,8 @@
   "back": "Rechte aus der Marke\n\nDie Eintragung gewährt dem Inhaber ein ausschließliches Recht.\n\nUmgesetzt in: § 14 Abs. 1, § 14 Abs. 2, § 14 Abs. 3, § 14a, § 15 MarkenG\n\nHinweis: Kern der Harmonisierung. Neu: Transitverbot (§ 14a MarkenG), Benutzung als Unternehmensbezeichnung ausdrücklich als Verletzungshandlung (§ 14 Abs. 3 Nr. 5), Bekanntheitsschutz zwingend und für alle Waren (§ 14 Abs. 2 Nr. 3). Die Funktionenlehre des EuGH (Herkunfts-, Werbe-, Investitionsfunktion) ist Auslegung dieses Artikels.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:10"
  },
@@ -7548,7 +8299,8 @@
   "back": "Recht, Vorbereitungshandlungen im Zusammenhang mit der Benutzung von Aufmachungen oder anderen Kennzeichnungsmitteln zu verbieten\n\nBesteht die Gefahr, dass Aufmachungen, Verpackungen, Etiketten, Anhänger, Sicherheits- oder Echtheitshinweise, auf denen die Marke angebracht ist, für Waren benutzt werden und dies eine Verletzung wäre, kann der Inhaber verbieten: (a) das Anbringen der Marke auf solchen Kennzeichnungsmitteln, (b) das Anbieten, Inverkehrbringen, Besitzen, Ein- oder Ausführen solcher Kennzeichnungsmittel.\n\nUmgesetzt in: § 14 Abs. 4 MarkenG\n\nHinweis: Vorverlagerung des Schutzes gegen Produktpiraterie; § 14 Abs. 4 MarkenG wurde um Sicherheits- und Echtheitshinweise erweitert.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:11"
  },
@@ -7559,7 +8311,8 @@
   "back": "Wiedergabe von Marken in Wörterbüchern\n\nErweckt die Wiedergabe einer Marke in einem Wörterbuch, Lexikon oder ähnlichen Nachschlagewerk den Eindruck, es handle sich um eine Gattungsbezeichnung, muss der Verleger auf Verlangen des Inhabers unverzüglich, bei Druckwerken spätestens in der nächsten Auflage, kenntlich machen, dass es sich um eine eingetragene Marke handelt.\n\nUmgesetzt in: § 16 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:12"
  },
@@ -7570,7 +8323,8 @@
   "back": "Untersagung der Benutzung einer Marke, die für einen Agenten oder Vertreter eingetragen ist\n\nWurde eine Marke ohne Zustimmung des Inhabers auf den Namen seines Agenten oder Vertreters eingetragen, kann der Inhaber der Benutzung widersprechen, es sei denn, der Agent rechtfertigt seine Handlung; außerdem kann er die Übertragung der Eintragung auf sich verlangen.\n\nUmgesetzt in: § 11, § 17 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:13"
  },
@@ -7581,7 +8335,8 @@
   "back": "Beschränkung der Wirkungen der Marke\n\nDie Marke gewährt nicht das Recht, Dritten zu verbieten, im geschäftlichen Verkehr zu benutzen: (a) den Namen oder die Anschrift des Dritten, wenn dieser eine natürliche Person ist; (b) Zeichen ohne Unterscheidungskraft oder Angaben über Art, Beschaffenheit, Menge, Bestimmung, Wert, geographische Herkunft, Zeit der Herstellung oder andere Merkmale; (c) die Marke zu Zwecken der Identifizierung oder zum Verweis auf Waren des Inhabers, insbesondere wenn dies als Hinweis auf die Bestimmung einer Ware als Zubehör oder Ersatzteil notwendig ist.\n\nUmgesetzt in: § 23 MarkenG\n\nHinweis: Neu: Die Namensschranke gilt nur noch für natürliche Personen (§ 23 Abs. 1 Nr. 1 MarkenG); die referierende Benutzung („zu Zwecken der Identifizierung oder des Verweises“) ist ausdrücklich privilegiert.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:14"
  },
@@ -7592,7 +8347,8 @@
   "back": "Erschöpfung des Rechts aus der Marke\n\nDie Marke gewährt nicht das Recht, die Benutzung für Waren zu verbieten, die unter dieser Marke vom Inhaber oder mit seiner Zustimmung in der Union in den Verkehr gebracht worden sind.\n\nUmgesetzt in: § 24 MarkenG\n\nHinweis: Unionsweite (EWR-weite) Erschöpfung; keine internationale Erschöpfung (EuGH Silhouette). Die Beweislastregeln (Van Doren) und die BMS-Kriterien konkretisieren Abs. 1 und 2.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:15"
  },
@@ -7603,7 +8359,8 @@
   "back": "Benutzung der Marke\n\nHat der Inhaber die Marke binnen fünf Jahren nach Abschluss des Eintragungsverfahrens nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt oder die Benutzung fünf Jahre ausgesetzt, unterliegt die Marke den Beschränkungen und Sanktionen der Art. 17, 19 Abs. 1, 44 Abs. 1 und 2 sowie 46 Abs. 3 und 4, sofern keine berechtigten Gründe vorliegen.\n\nUmgesetzt in: § 115, § 116, § 117, § 25, § 26 MarkenG\n\nHinweis: Die Schonfrist beginnt jetzt mit dem Abschluss des Widerspruchsverfahrens (§ 26 Abs. 5 MarkenG neu); Benutzung in abweichender Form ist auch dann rechtserhaltend, wenn die abweichende Form selbst eingetragen ist (§ 26 Abs. 3 S. 2).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:16"
  },
@@ -7614,7 +8371,8 @@
   "back": "Einrede der Nichtbenutzung in Verletzungsverfahren\n\nDer Inhaber kann die Benutzung eines Zeichens nur verbieten, soweit seine Rechte zum Zeitpunkt der Klageerhebung nicht nach Art. 19 für verfallen erklärt werden könnten; auf Verlangen des Beklagten muss der Inhaber nachweisen, dass die Marke in den fünf Jahren vor Klageerhebung ernsthaft benutzt wurde oder berechtigte Gründe vorliegen, sofern die Schonfrist bei Klageerhebung abgelaufen war.\n\nUmgesetzt in: § 25 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:17"
  },
@@ -7625,7 +8383,8 @@
   "back": "Zwischenrecht des Inhabers einer später eingetragenen Marke als Einwand in Verletzungsverfahren\n\nDer Inhaber kann die Benutzung einer später eingetragenen Marke nicht verbieten, wenn diese jüngere Marke nach Art. 8, Art. 9 Abs. 1 oder 2 oder Art. 46 Abs. 3 nicht für ungültig erklärt werden könnte.\n\nUmgesetzt in: § 22 MarkenG\n\nHinweis: Übernahme des unionsmarkenrechtlichen Zwischenrechts (Art. 16 UMV) in das nationale Recht; § 22 MarkenG wurde neu gefasst.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:18"
  },
@@ -7636,7 +8395,8 @@
   "back": "Nichtbenutzung als Verfallsgrund\n\nEine Marke wird für verfallen erklärt, wenn sie innerhalb von fünf aufeinanderfolgenden Jahren nicht ernsthaft im Mitgliedstaat für die eingetragenen Waren benutzt wurde und keine berechtigten Gründe vorliegen.\n\nUmgesetzt in: § 49 Abs. 1 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:19"
  },
@@ -7647,7 +8407,8 @@
   "back": "Entwicklung zu einer gebräuchlichen Bezeichnung oder irreführende Angabe als Verfallsgrund\n\nEine Marke wird für verfallen erklärt, wenn sie nach der Eintragung (a) infolge des Verhaltens oder der Untätigkeit des Inhabers zur gebräuchlichen Bezeichnung einer Ware oder Dienstleistung geworden ist, für die sie eingetragen ist, oder (b) infolge ihrer Benutzung durch den Inhaber oder mit seiner Zustimmung geeignet ist, das Publikum insbesondere über Art, Beschaffenheit oder geographische Herkunft irrezuführen.\n\nUmgesetzt in: § 49 Abs. 2 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:20"
  },
@@ -7658,7 +8419,8 @@
   "back": "Verfall nur für einen Teil der Waren oder Dienstleistungen\n\nLiegt ein Verfallsgrund nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil für verfallen erklärt.\n\nUmgesetzt in: § 49 Abs. 3 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:21"
  },
@@ -7669,7 +8431,8 @@
   "back": "Rechtsübergang eingetragener Marken\n\nDie Marke kann unabhängig vom Unternehmen für alle oder einen Teil der Waren übertragen werden.\n\nUmgesetzt in: § 27 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:22"
  },
@@ -7680,7 +8443,8 @@
   "back": "Dingliche Rechte\n\nDie Marke kann unabhängig vom Unternehmen verpfändet oder Gegenstand eines sonstigen dinglichen Rechts sein.\n\nUmgesetzt in: § 29 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:23"
  },
@@ -7691,7 +8455,8 @@
   "back": "Zwangsvollstreckung\n\nDie Marke kann Gegenstand von Maßnahmen der Zwangsvollstreckung sein.\n\nUmgesetzt in: § 29 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:24"
  },
@@ -7702,7 +8467,8 @@
   "back": "Lizenz\n\nDie Marke kann für alle oder einen Teil der Waren und für das gesamte Gebiet oder einen Teil des Mitgliedstaats Gegenstand ausschließlicher oder nicht ausschließlicher Lizenzen sein.\n\nUmgesetzt in: § 30 MarkenG\n\nHinweis: Abs. 2 ist der unionsrechtliche Hintergrund des § 30 Abs. 2 MarkenG: Ein Lizenzverstoß in diesen Punkten schließt die Zustimmung und damit die Erschöpfung aus (EuGH Copad, BGH Converse II).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:25"
  },
@@ -7713,7 +8479,8 @@
   "back": "Anmeldung einer Marke als Gegenstand des Vermögens\n\nDie Art. 22 bis 25 gelten auch für Markenanmeldungen.\n\nUmgesetzt in: § 31 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:26"
  },
@@ -7724,7 +8491,8 @@
   "back": "Begriffsbestimmungen\n\n„Garantie- oder Gewährleistungsmarke“: Marke, die geeignet ist, Waren oder Dienstleistungen, für die der Inhaber Material, Herstellungsart, Qualität, Genauigkeit oder andere Eigenschaften gewährleistet, von nicht gewährleisteten zu unterscheiden.\n\nUmgesetzt in: § 106a, § 97 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:27"
  },
@@ -7735,7 +8503,8 @@
   "back": "Garantie- oder Gewährleistungsmarken\n\nDie Mitgliedstaaten können die Eintragung von Garantie- oder Gewährleistungsmarken vorsehen.\n\nUmgesetzt in: § 106a, § 106b, § 106c, § 106d MarkenG\n\nHinweis: Deutschland hat die Option genutzt: Gewährleistungsmarke seit dem MaMoG in §§ 106a ff. MarkenG (Prüf- und Gütesiegel).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:28"
  },
@@ -7746,7 +8515,8 @@
   "back": "Kollektivmarken\n\nDie Mitgliedstaaten sehen die Eintragung von Kollektivmarken vor.\n\nUmgesetzt in: § 100, § 97, § 98, § 99 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:29"
  },
@@ -7757,7 +8527,8 @@
   "back": "Satzung der Kollektivmarke\n\nDer Anmelder legt dem Amt die Markensatzung vor.\n\nUmgesetzt in: § 102 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:30"
  },
@@ -7768,7 +8539,8 @@
   "back": "Zurückweisung der Anmeldung\n\nNeben den Gründen der Art. 4 und 5 wird die Anmeldung zurückgewiesen, wenn Art. 27 lit. b, 29 oder 30 nicht erfüllt sind oder die Satzung gegen die öffentliche Ordnung oder die guten Sitten verstößt.\n\nUmgesetzt in: § 103 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:31"
  },
@@ -7779,7 +8551,8 @@
   "back": "Benutzung von Kollektivmarken\n\nArt. 16 ist erfüllt, wenn eine zur Benutzung befugte Person die Kollektivmarke ernsthaft benutzt.\n\nUmgesetzt in: § 100 Abs. 2 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:32"
  },
@@ -7790,7 +8563,8 @@
   "back": "Änderung der Satzung der Kollektivmarke\n\nDer Inhaber legt jede geänderte Satzung dem Amt vor.\n\nUmgesetzt in: § 104 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:33"
  },
@@ -7801,7 +8575,8 @@
   "back": "Klagebefugnis\n\nArt. 25 Abs. 3 und 4 gelten für zur Benutzung Befugte entsprechend.\n\nUmgesetzt in: § 101, § 106c MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:34"
  },
@@ -7812,7 +8587,8 @@
   "back": "Zusätzliche Verfallsgründe\n\nZusätzlich zu Art. 19 und 20 wird die Kollektivmarke für verfallen erklärt, wenn (a) der Inhaber keine angemessenen Maßnahmen gegen satzungswidrige Benutzung trifft, (b) die Benutzung durch Befugte das Publikum nach Art. 31 Abs. 2 irreführen kann, oder (c) eine Satzungsänderung entgegen Art. 33 Abs. 2 im Register vermerkt wurde, es sei denn, der Inhaber erfüllt die Anforderungen durch erneute Änderung.\n\nUmgesetzt in: § 105, § 106g MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:35"
  },
@@ -7823,7 +8599,8 @@
   "back": "Zusätzliche Ungültigkeitsgründe\n\nZusätzlich zu Art. 4 und 5 wird eine entgegen Art. 31 eingetragene Kollektivmarke für ungültig erklärt, es sei denn, der Inhaber erfüllt die Anforderungen durch Satzungsänderung.\n\nUmgesetzt in: § 106, § 106h MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:36"
  },
@@ -7834,7 +8611,8 @@
   "back": "Anmeldeerfordernisse\n\nDie Anmeldung enthält mindestens: (a) einen Antrag auf Eintragung, (b) Angaben zur Identität des Anmelders, (c) das Verzeichnis der Waren und Dienstleistungen, (d) eine Wiedergabe der Marke nach Art. 3 lit. b.\n\nUmgesetzt in: § 32 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:37"
  },
@@ -7845,7 +8623,8 @@
   "back": "Anmeldetag\n\nAnmeldetag ist der Tag, an dem die Unterlagen nach Art. 37 Abs. 1 beim Amt eingereicht werden.\n\nUmgesetzt in: § 33 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:38"
  },
@@ -7856,7 +8635,8 @@
   "back": "Bezeichnung und Klassifizierung von Waren und Dienstleistungen\n\nDie Waren und Dienstleistungen werden nach der Nizza-Klassifikation klassifiziert.\n\nUmgesetzt in: § 32 Abs. 3, § 65, § 9 Abs. 3 MarkenG\n\nHinweis: Abs. 7 entspricht § 9 Abs. 3 MarkenG; Abs. 5 kodifiziert die IP-Translator-Rechtsprechung (EuGH C-307/10).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:39"
  },
@@ -7867,7 +8647,8 @@
   "back": "Bemerkungen Dritter\n\nDie Mitgliedstaaten können vorsehen, dass Dritte vor der Eintragung schriftliche Bemerkungen zu absoluten Eintragungshindernissen einreichen, ohne am Verfahren beteiligt zu werden.\n\nUmgesetzt in: § 37 Abs. 6 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:40"
  },
@@ -7878,7 +8659,8 @@
   "back": "Teilung von Anmeldungen und Eintragungen\n\nDer Anmelder oder Inhaber kann die Anmeldung oder Eintragung in zwei oder mehr Teile teilen.\n\nUmgesetzt in: § 40, § 46 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:41"
  },
@@ -7889,7 +8671,8 @@
   "back": "Klassengebühren\n\nDie Mitgliedstaaten können für Anmeldung und Verlängerung eine zusätzliche Gebühr je Klasse jenseits der ersten Klasse vorsehen.\n\nUmgesetzt in: § 32 Abs. 4 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:42"
  },
@@ -7900,7 +8683,8 @@
   "back": "Widerspruchsverfahren\n\nDie Mitgliedstaaten sehen ein effizientes und zügiges Verwaltungsverfahren vor, mit dem gegen die Anmeldung auf Grundlage der Gründe des Art. 5 Widerspruch erhoben werden kann.\n\nUmgesetzt in: § 42 MarkenG\n\nHinweis: Umsetzung: § 42 Abs. 2 (Widerspruchsberechtigte, jetzt auch bekannte Marken ausdrücklich), Abs. 3 (mehrere ältere Rechte), Abs. 4 (Cooling-off von mindestens zwei Monaten).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:43"
  },
@@ -7911,7 +8695,8 @@
   "back": "Nichtbenutzung als Einrede im Widerspruchsverfahren\n\nWar die Schonfrist der älteren Marke am Anmelde- oder Prioritätstag der jüngeren Marke abgelaufen, muss der Widersprechende auf Verlangen des Anmelders nachweisen, dass die ältere Marke in den fünf Jahren vor diesem Tag ernsthaft benutzt wurde oder berechtigte Gründe vorlagen; sonst wird der Widerspruch zurückgewiesen.\n\nUmgesetzt in: § 125b, § 43 Abs. 1 MarkenG\n\nHinweis: Maßgeblicher Fünfjahreszeitraum ist der vor dem Anmelde-/Prioritätstag der jüngeren Marke (§ 43 Abs. 1 S. 1 MarkenG neu).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:44"
  },
@@ -7922,7 +8707,8 @@
   "back": "Verfahren zur Erklärung des Verfalls oder der Nichtigkeit\n\nUnbeschadet gerichtlicher Verfahren sehen die Mitgliedstaaten ein effizientes und zügiges Verwaltungsverfahren vor den Ämtern für die Erklärung des Verfalls oder der Nichtigkeit vor.\n\nUmgesetzt in: § 53, § 54, § 55 MarkenG\n\nHinweis: Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 UAbs. 2). Deutschland: seit 1.5.2020 vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG), daneben Klage nach § 55 nur noch für Verfall und relative Nichtigkeit.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:45"
  },
@@ -7933,7 +8719,8 @@
   "back": "Nichtbenutzung als Einrede in Verfahren zur Erklärung der Nichtigkeit\n\nDer Inhaber der jüngeren Marke kann verlangen, dass der Antragsteller die ernsthafte Benutzung seiner älteren Marke in den fünf Jahren vor Antragstellung nachweist, wenn deren Schonfrist bei Antragstellung abgelaufen war.\n\nUmgesetzt in: § 125b, § 53 Abs. 6, § 55 Abs. 3 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:46"
  },
@@ -7944,7 +8731,8 @@
   "back": "Wirkungen des Verfalls und der Nichtigkeit\n\nBei Verfall gelten die Wirkungen der Marke ab dem Tag der Antragstellung als nicht mehr eingetreten; auf Antrag kann ein früherer Zeitpunkt festgesetzt werden, zu dem der Verfallsgrund eintrat.\n\nUmgesetzt in: § 52 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:47"
  },
@@ -7955,7 +8743,8 @@
   "back": "Schutzdauer\n\nDie Schutzdauer beträgt zehn Jahre ab dem Anmeldetag.\n\nUmgesetzt in: § 47 Abs. 1, § 47 Abs. 2 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:48"
  },
@@ -7966,7 +8755,8 @@
   "back": "Verlängerung\n\nDie Verlängerung erfolgt auf Antrag des Inhabers oder eines Bevollmächtigten gegen Gebühr; die Mitgliedstaaten können die Gebührenzahlung als Antrag gelten lassen.\n\nUmgesetzt in: § 47 Abs. 3, § 47 Abs. 4, § 47 Abs. 5 MarkenG\n\nHinweis: Schutzdauer und Verlängerungsfristen laufen jetzt ab dem Anmeldetag, nicht mehr ab dem Monatsende (§ 47 MarkenG neu).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:49"
  },
@@ -7977,7 +8767,8 @@
   "back": "Kommunikation mit dem Amt\n\nDie Verfahrensbeteiligten oder ihre Vertreter geben eine amtliche Anschrift für die amtliche Kommunikation an; die Mitgliedstaaten können verlangen, dass sie im EWR liegt.\n\nUmgesetzt in: § 94, § 96 MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:50"
  },
@@ -7988,7 +8779,8 @@
   "back": "Zusammenarbeit im Bereich der Eintragung und Verwaltung von Marken\n\nDie Ämter arbeiten untereinander und mit dem EUIPO zusammen, um Verfahren und Instrumente zu harmonisieren und Ergebnisse zu vereinheitlichen.\n\nUmgesetzt in: § 65a MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:51"
  },
@@ -7999,7 +8791,8 @@
   "back": "Zusammenarbeit in anderen Bereichen\n\nDie Ämter können mit dem EUIPO auch in anderen Tätigkeitsbereichen zusammenarbeiten, etwa bei Sensibilisierung und Bekämpfung von Verletzungen.\n\nUmgesetzt in: § 65a MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:52"
  },
@@ -8010,7 +8803,8 @@
   "back": "Datenschutz\n\nFür die Verarbeitung personenbezogener Daten gilt das nationale Datenschutzrecht in Umsetzung der RL 95/46/EG (heute DSGVO).\n\nUmgesetzt in: § 62a MarkenG",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:53"
  },
@@ -8021,7 +8815,8 @@
   "back": "Umsetzung\n\nDie Mitgliedstaaten setzen die Art. 3 bis 6, 8 bis 14, 16, 17, 18, 22 bis 39, 41 und 43 bis 50 bis zum 14. Januar 2019 um; Art. 45 bis zum 14. Januar 2023.\n\nUmgesetzt in: § 158 MarkenG\n\nHinweis: Deutschland: Markenrechtsmodernisierungsgesetz (MaMoG) vom 11.12.2018, BGBl. I S. 2357, in Kraft seit 14.1.2019; Verfalls-/Nichtigkeitsverfahren vor dem DPMA seit 1.5.2020.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:54"
  },
@@ -8032,7 +8827,8 @@
   "back": "Aufhebung\n\nDie Richtlinie 2008/95/EG wird mit Wirkung vom 15. Januar 2019 aufgehoben; Verweise gelten als Verweise auf diese Richtlinie (Entsprechungstabelle in Anhang).",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:55"
  },
@@ -8043,7 +8839,8 @@
   "back": "Inkrafttreten\n\nDie Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt in Kraft; Art. 1, 7, 15, 19, 20, 21 und 54 bis 57 gelten ab dem 15. Januar 2019.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:56"
  },
@@ -8054,8 +8851,273 @@
   "back": "Adressaten\n\nDie Richtlinie ist an die Mitgliedstaaten gerichtet.",
   "tags": [
    "Richtlinie",
-   "EU"
+   "EU",
+   "MarkenRL"
   ],
   "node": "eunorm:markenrl:57"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:1",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 1 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Gegenstand\n\nDiese Richtlinie betrifft die Maßnahmen, Verfahren und Rechtsbehelfe, die erforderlich sind, um die Durchsetzung der Rechte des geistigen Eigentums sicherzustellen. Im Sinne dieser Richtlinie umfasst der Begriff „Rechte des geistigen Eigentums“ auch die gewerblichen Schutzrechte.\n\nUmgesetzt in: § 18, § 19, § 19a, § 19b, § 19c MarkenG\n\nWeitere Gesetze: PatG: §§ 139 bis 140e PatG; GebrMG: §§ 24 bis 24e GebrMG; DesignG: §§ 42 bis 47 DesignG; UrhG: §§ 97 bis 103 UrhG; HalblSchG: § 9 HalblSchG; SortSchG: §§ 37 bis 37e SortSchG; Allgemeines Recht: ZPO (einstweiliger Rechtsschutz, Kosten), BGB (Bereicherung, GoA)\n\nHinweis: Die Richtlinie harmonisiert nicht das materielle Recht (das tun MarkenRL, UMV, DesignRL usw.), sondern die zivilrechtliche Durchsetzung aller Schutzrechte. Deutschland hat sie mit einem Artikelgesetz (Durchsetzungsgesetz vom 7.7.2008, BGBl. I S. 1191, in Kraft seit 1.9.2008) gleichlautend in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG umgesetzt.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:1"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:2",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 2 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Anwendungsbereich\n\nUnbeschadet etwaiger Instrumente in den Rechtsvorschriften der Gemeinschaft oder der Mitgliedstaaten, die für die Rechtsinhaber günstiger sind, finden die in dieser Richtlinie vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe gemäß Artikel 3 auf jede Verletzung von Rechten des geistigen Eigentums, die im Gemeinschaftsrecht und/oder im innerstaatlichen Recht des betreffenden Mitgliedstaats vorgesehen sind, Anwendung.\n\nUmgesetzt in: § 19d, § 5 MarkenG\n\nWeitere Gesetze: PatG: § 141a PatG; GebrMG: § 24g GebrMG; DesignG: § 50 DesignG; UrhG: § 102a UrhG; HalblSchG: § 9 Abs. 4 HalblSchG; SortSchG: § 37g SortSchG; Allgemeines Recht: UWG, §§ 823, 826, 812 BGB, GoA bleiben unberührt (Mindestharmonisierung)\n\nHinweis: Abs. 1 macht die Richtlinie zur Mindestharmonisierung: Strengere nationale Sanktionen (etwa eine pauschale doppelte Lizenzgebühr) sind zulässig (EuGH OTK). Erfasst sind auch rein national geschützte Rechte wie Unternehmenskennzeichen (§ 5 MarkenG) und Benutzungsmarken.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:2"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:3",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 3 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Allgemeine Verpflichtung\n\nDie Mitgliedstaaten sehen die Maßnahmen, Verfahren und Rechtsbehelfe vor, die zur Durchsetzung der Rechte des geistigen Eigentums, auf die diese Richtlinie abstellt, erforderlich sind. Diese Maßnahmen, Verfahren und Rechtsbehelfe müssen fair und gerecht sein, außerdem dürfen sie nicht unnötig kompliziert oder kostspielig sein und keine unangemessenen Fristen oder ungerechtfertigten Verzögerungen mit sich bringen.\n\nUmgesetzt in: § 18 Abs. 3, § 19 Abs. 4, § 19a Abs. 2, § 19b Abs. 2 MarkenG\n\nWeitere Gesetze: PatG: § 139 Abs. 1 S. 3 bis 5 PatG (Verhältnismäßigkeit des Unterlassungsanspruchs), § 140a Abs. 4 PatG, § 140b Abs. 4 PatG, § 140c Abs. 2 PatG; GebrMG: § 24 Abs. 1 S. 3 bis 5 GebrMG, § 24a Abs. 3 GebrMG, § 24b Abs. 4 GebrMG, § 24c Abs. 2 GebrMG; DesignG: § 43 Abs. 4 DesignG, § 46 Abs. 4 DesignG, § 46a Abs. 2 DesignG; UrhG: § 98 Abs. 4 UrhG, § 101 Abs. 4 UrhG, § 101a Abs. 2 UrhG; HalblSchG: § 9 Abs. 2 HalblSchG i.V.m. §§ 24a bis 24c GebrMG; SortSchG: § 37a Abs. 3 SortSchG, § 37b Abs. 4 SortSchG, § 37c Abs. 2 SortSchG; Allgemeines Recht: § 242 BGB; Auslegungsmaßstab für alle Durchsetzungsnormen\n\nHinweis: Art. 3 ist die Generalklausel der Richtlinie. Der EuGH zieht sie zur Auslegung jeder Einzelnorm heran: Kostenerstattung nur für zumutbare und angemessene Kosten (NovaText), Missbrauchskontrolle bei Auskunftsanträgen (Mircom), keine allgemeine Überwachungspflicht für Mittelspersonen (L'Oréal/eBay). Im deutschen Recht spiegeln die Verhältnismäßigkeitsvorbehalte der §§ 18 Abs. 3, 19 Abs. 4, 19a Abs. 2, 19b Abs. 2 MarkenG Abs. 2 wider.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:3"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:4",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 4 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Zur Beantragung der Maßnahmen, Verfahren und Rechtsbehelfe befugte Personen\n\nDie Mitgliedstaaten räumen den folgenden Personen das Recht ein, die in diesem Kapitel vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe zu beantragen: a) den Inhabern der Rechte des geistigen Eigentums im Einklang mit den Bestimmungen des anwendbaren Rechts, b) allen anderen Personen, die zur Nutzung solcher Rechte befugt sind, insbesondere Lizenznehmern, soweit dies nach den Bestimmungen des anwendbaren Rechts zulässig ist und mit ihnen im Einklang steht, c) Verwertungsgesellschaften mit ordnungsgemäß anerkannter Befugnis zur Vertretung von Inhabern von Rechten des geistigen Eigentums, sow …\n\nUmgesetzt in: § 14 Abs. 1, § 28 Abs. 1, § 30 Abs. 3, § 30 Abs. 4 MarkenG\n\nWeitere Gesetze: PatG: § 139 PatG („Verletzter“); Lizenz § 15 Abs. 2 PatG, Klagebefugnis des ausschließlichen Lizenznehmers nach der Rechtsprechung; GebrMG: § 24 GebrMG; Lizenz § 22 Abs. 2 GebrMG; DesignG: § 42 Abs. 1 DesignG („Rechtsinhaber oder anderer Berechtigter“); § 31 Abs. 3, 4 DesignG (Lizenznehmer); UrhG: § 97 UrhG („Verletzter“); Verwertungsgesellschaften nach dem VGG; HalblSchG: § 9 Abs. 1 HalblSchG; SortSchG: § 37 Abs. 1 SortSchG; Nutzungsrechte § 11 Abs. 2 SortSchG; Allgemeines Recht: Prozessstandschaft, Abtretung (auch Zessionar ist Inhaber: EuGH Mircom)\n\nHinweis: Die Richtlinie überlässt dem nationalen Recht, ob und wann Lizenznehmer klagen dürfen („soweit dies nach dem anwendbaren Recht zulässig ist“). § 30 Abs. 3 MarkenG: Zustimmung des Inhabers, ausnahmsweise eigenes Klagerecht des ausschließlichen Lizenznehmers nach förmlicher Aufforderung; Abs. 4: Beitritt zur Geltendmachung eigenen Schadens.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:4"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:5",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 5 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Urheber- oder Inhabervermutung\n\nZum Zwecke der Anwendung der in dieser Richtlinie vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe gilt Folgendes: a) Damit der Urheber eines Werkes der Literatur und Kunst mangels Gegenbeweises als solcher gilt und infolgedessen Verletzungsverfahren anstrengen kann, genügt es, dass sein Name in der üblichen Weise auf dem Werkstück angegeben ist. b) Die Bestimmung des Buchstabens a) gilt entsprechend für Inhaber von dem Urheberrecht verwandten Schutzrechten in Bezug auf ihre Schutzgegenstände.\n\nUmgesetzt in: § 28 Abs. 1 MarkenG\n\nWeitere Gesetze: PatG: – (Registerfiktion § 30 Abs. 3 PatG); GebrMG: –; DesignG: –; UrhG: § 10 UrhG (Vermutung der Urheber- und Rechtsinhaberschaft); HalblSchG: –; SortSchG: –; Allgemeines Recht: nur für Urheberrecht und verwandte Schutzrechte vorgeschrieben\n\nHinweis: Für Registerrechte braucht es keine Namensvermutung: Die Eintragung begründet die Vermutung der Inhaberschaft (§ 28 Abs. 1 MarkenG). Art. 5 ist deshalb allein im UrhG (§ 10) umgesetzt.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:5"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:6",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 6 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Beweise\n\nDie Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur hinreichenden Begründung ihrer Ansprüche vorgelegt und die in der Verfügungsgewalt der gegnerischen Partei befindlichen Beweismittel zur Begründung ihrer Ansprüche bezeichnet hat, die Vorlage dieser Beweismittel durch die gegnerische Partei anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Für die Zwecke dieses Absatzes können die Mitgliedstaaten vorsehen, dass eine angemessen große Auswahl aus einer erheblichen Anza …\n\nUmgesetzt in: § 19a Abs. 1 MarkenG\n\nWeitere Gesetze: PatG: § 140c Abs. 1 PatG; GebrMG: § 24c Abs. 1 GebrMG; DesignG: § 46a Abs. 1 DesignG; UrhG: § 101a Abs. 1 UrhG; HalblSchG: § 9 Abs. 2 HalblSchG i.V.m. § 24c GebrMG; SortSchG: § 37c Abs. 1 SortSchG; Allgemeines Recht: §§ 142, 144 ZPO (Anordnung der Urkundenvorlage und des Augenscheins), § 809 BGB\n\nHinweis: Deutschland hat Art. 6 und 7 als materiellen Anspruch ausgestaltet (§ 19a MarkenG: Vorlage einer Urkunde, Besichtigung einer Sache; bei gewerblichem Ausmaß auch Bank-, Finanz-, Handelsunterlagen), nicht als bloße prozessuale Anordnungsbefugnis. Voraussetzung ist „hinreichende Wahrscheinlichkeit“ der Verletzung, nicht ihr Nachweis.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:6"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:7",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 7 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Maßnahmen zur Beweissicherung\n\nDie Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte selbst vor Einleitung eines Verfahrens in der Sache auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur Begründung ihrer Ansprüche, dass ihre Rechte an geistigem Eigentum verletzt worden sind oder verletzt zu werden drohen, vorgelegt hat, schnelle und wirksame einstweilige Maßnahmen zur Sicherung der rechtserheblichen Beweismittel hinsichtlich der behaupteten Verletzung anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Derartige Maßnahmen können die ausführliche Besch …\n\nUmgesetzt in: § 19a Abs. 3, § 19a Abs. 5 MarkenG\n\nWeitere Gesetze: PatG: § 140c Abs. 3 PatG, Abs. 5; GebrMG: § 24c Abs. 3 GebrMG, Abs. 5; DesignG: § 46a Abs. 3 DesignG, Abs. 5; UrhG: § 101a Abs. 3 UrhG, Abs. 5; HalblSchG: § 9 Abs. 2 HalblSchG i.V.m. § 24c GebrMG; SortSchG: § 37c Abs. 3 SortSchG, Abs. 5; Allgemeines Recht: §§ 485 ff. ZPO (selbständiges Beweisverfahren); §§ 935 ff. ZPO, § 937 Abs. 2 ZPO, § 921 ZPO, § 926 ZPO, § 945 ZPO\n\nHinweis: Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besichtigung (§ 19a Abs. 3), auch ohne Anhörung, mit Geheimnisschutz („Düsseldorfer Verfahren“: Besichtigung durch einen zur Verschwiegenheit verpflichteten Sachverständigen). Abs. 4 entspricht § 19a Abs. 5 (verschuldensunabhängiger Schadensersatz, wenn keine Verletzung vorlag) und allgemein § 945 ZPO.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:7"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:8",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 8 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Recht auf Auskunft\n\nDie Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte im Zusammenhang mit einem Verfahren wegen Verletzung eines Rechts des geistigen Eigentums auf einen begründeten und die Verhältnismäßigkeit wahrenden Antrag des Klägers hin anordnen können, dass Auskünfte über den Ursprung und die Vertriebswege von Waren oder Dienstleistungen, die ein Recht des geistigen Eigentums verletzen, von dem Verletzer und/oder jeder anderen Person erteilt werden, die a) nachweislich rechtsverletzende Ware in gewerblichem Ausmaß in ihrem Besitz hatte, b) nachweislich rechtsverletzende Dienstleistungen in  …\n\nUmgesetzt in: § 19, § 19 Abs. 2, § 19 Abs. 3, § 19 Abs. 7, § 19 Abs. 9 MarkenG\n\nWeitere Gesetze: PatG: § 140b PatG; GebrMG: § 24b GebrMG; DesignG: § 46 DesignG; UrhG: § 101 UrhG (Abs. 1: Anspruch gegen den Verletzer nur bei gewerblichem Ausmaß); HalblSchG: § 9 Abs. 2 HalblSchG i.V.m. § 24b GebrMG; SortSchG: § 37b SortSchG; Allgemeines Recht: § 242 BGB (unselbständige Auskunft zur Bezifferung); §§ 383 bis 385 ZPO (Zeugnisverweigerung = Abs. 3 lit. d)\n\nHinweis: Kernstück der Richtlinie. Zuordnung: Abs. 1 lit. a bis d = § 19 Abs. 2 S. 1 Nr. 1 bis 4 MarkenG (Drittauskunft bei offensichtlicher Verletzung oder nach Klageerhebung); Abs. 2 = § 19 Abs. 3; Abs. 3 lit. d = Zeugnisverweigerungsrecht (§§ 383 bis 385 ZPO); Abs. 3 lit. e = Richtervorbehalt für Verkehrsdaten (§ 19 Abs. 9). „Adressen“ meint nur die Postanschrift (Constantin Film); das Bankgeheimnis rechtfertigt keine pauschale Verweigerung (Coty, Davidoff Hot Water II); der Anspruch kann auch in einem gesonderten Verfahren nach dem Verletzungsprozess verfolgt werden (NEW WAVE).",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:8"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:9",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 9 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Einstweilige Maßnahmen und Sicherungsmaßnahmen\n\nDie Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte die Möglichkeit haben, auf Antrag des Antragstellers a) gegen den angeblichen Verletzer eine einstweilige Maßnahme anzuordnen, um eine drohende Verletzung eines Rechts des geistigen Eigentums zu verhindern oder einstweilig und, sofern die einzelstaatlichen Rechtsvorschriften dies vorsehen, in geeigneten Fällen unter Verhängung von Zwangsgeldern die Fortsetzung angeblicher Verletzungen dieses Rechts zu untersagen oder die Fortsetzung an die Stellung von Sicherheiten zu knüpfen, die die Entschädigung des Rechtsinhabers sicherstell …\n\nUmgesetzt in: § 140 Abs. 3, § 19 Abs. 7, § 19a Abs. 3, § 19b MarkenG\n\nWeitere Gesetze: PatG: § 140d PatG (Sicherung); keine Dringlichkeitsvermutung; GebrMG: § 24d GebrMG; DesignG: § 46b DesignG; UrhG: § 101b UrhG; HalblSchG: § 9 Abs. 2 HalblSchG i.V.m. § 24d GebrMG; SortSchG: § 37d SortSchG; Allgemeines Recht: §§ 935 ff. ZPO (Abs. 1 lit. a), § 938 Abs. 2 ZPO Sequestration (lit. b), §§ 916 ff. ZPO dinglicher Arrest (Abs. 2), § 920 Abs. 2 ZPO Glaubhaftmachung (Abs. 3), § 937 Abs. 2 ZPO (Abs. 4), § 926 ZPO (Abs. 5), § 921 ZPO (Abs. 6), § 945 ZPO (Abs. 7)\n\nHinweis: Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG ergänzt nur die Dringlichkeitsvermutung des § 140 Abs. 3 (Unterlassung; erst seit dem MaMoG 2019, nicht richtliniengetrieben), die Eilauskunft (§ 19 Abs. 7) und die Vorlageverfügung (§ 19a Abs. 3). Abs. 2 (Kontosperre, Unterlagen) = § 19b MarkenG plus Arrest. Abs. 7 = § 945 ZPO, der verschuldensunabhängig haftet und damit über die Richtlinie hinausgeht (EuGH Bayer/Richter: „angemessener Ersatz“ erlaubt die Berücksichtigung eigenen Risikos des Antragsgegners).",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:9"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:10",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 10 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Abhilfemaßnahmen\n\nDie Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag des Antragstellers anordnen können, dass in Bezug auf Waren, die nach ihren Feststellungen ein Recht des geistigen Eigentums verletzen, und gegebenenfalls in Bezug auf Materialien und Geräte, die vorwiegend zur Schaffung oder Herstellung dieser Waren gedient haben, unbeschadet etwaiger Schadensersatzansprüche des Rechtsinhabers aus der Verletzung sowie ohne Entschädigung irgendwelcher Art geeignete Maßnahmen getroffen werden. Zu diesen Maßnahmen gehören a) der Rückruf aus den Vertriebswegen, b) das endgültige Entferne …\n\nUmgesetzt in: § 18, § 18 Abs. 1, § 18 Abs. 2, § 18 Abs. 3 MarkenG\n\nWeitere Gesetze: PatG: § 140a Abs. 1 bis 4 PatG; GebrMG: § 24a GebrMG; DesignG: § 43 DesignG (Abs. 3: Überlassung gegen Vergütung); UrhG: § 98 UrhG (Abs. 3: Überlassung); HalblSchG: § 9 Abs. 2 HalblSchG i.V.m. § 24a GebrMG; SortSchG: § 37a SortSchG; Allgemeines Recht: Beseitigungsanspruch (§ 1004 BGB analog); Vollstreckung §§ 883, 887 ZPO\n\nHinweis: Abs. 1 lit. a und b sind der Rückruf- und Entfernungsanspruch des § 18 Abs. 2 MarkenG (neu seit 2008), lit. c der Vernichtungsanspruch des § 18 Abs. 1; Abs. 3 ist der Verhältnismäßigkeitsvorbehalt des § 18 Abs. 3 einschließlich der Interessen Dritter (etwa gutgläubiger Abnehmer). Kein Verschulden erforderlich.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:10"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:11",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 11 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Gerichtliche Anordnungen\n\nDie Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte bei Feststellung einer Verletzung eines Rechts des geistigen Eigentums eine Anordnung gegen den Verletzer erlassen können, die ihm die weitere Verletzung des betreffenden Rechts untersagt. Sofern dies nach dem Recht eines Mitgliedstaats vorgesehen ist, werden im Falle einer Missachtung dieser Anordnung in geeigneten Fällen Zwangsgelder verhängt, um die Einhaltung der Anordnung zu gewährleisten. Unbeschadet des Artikels 8 Absatz 3 der Richtlinie 2001/29/EG stellen die Mitgliedstaaten ferner sicher, dass die Rechtsinhaber eine Ano …\n\nUmgesetzt in: § 14 Abs. 5, § 15 Abs. 4 MarkenG\n\nWeitere Gesetze: PatG: § 139 Abs. 1 PatG; GebrMG: § 24 Abs. 1 GebrMG; DesignG: § 42 Abs. 1 DesignG; UrhG: § 97 Abs. 1 UrhG; HalblSchG: § 9 Abs. 1 S. 1 HalblSchG; SortSchG: § 37 Abs. 1 SortSchG; Allgemeines Recht: § 890 ZPO (Ordnungsgeld, Ordnungshaft); Störerhaftung nach der Rechtsprechung des BGH für Mittelspersonen\n\nHinweis: Satz 1 = Unterlassungsanspruch (§ 14 Abs. 5), Satz 2 = Vollstreckung über § 890 ZPO. Satz 3 verlangt Anordnungen gegen Mittelspersonen unabhängig von deren eigener Haftung; Deutschland erfüllt das mit der Störerhaftung (Unterlassung ohne Verschulden bei Verletzung zumutbarer Prüfpflichten). Die Anordnung muss auch künftige gleichartige Verletzungen verhindern, darf aber keine allgemeine Überwachungspflicht begründen (L'Oréal/eBay); Mittelsperson kann auch der Betreiber einer physischen Markthalle sein (Tommy Hilfiger).",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:11"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:12",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 12 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Ersatzmaßnahmen\n\nDie Mitgliedstaaten können vorsehen, dass die zuständigen Gerichte in entsprechenden Fällen und auf Antrag der Person, der die in diesem Abschnitt vorgesehenen Maßnahmen auferlegt werden könnten, anordnen können, dass anstelle der Anwendung der genannten Maßnahmen eine Abfindung an die geschädigte Partei zu zahlen ist, sofern die betreffende Person weder vorsätzlich noch fahrlässig gehandelt hat, ihr aus der Durchführung der betreffenden Maßnahmen ein unverhältnismäßig großer Schaden entstehen würde und die Zahlung einer Abfindung an die geschädigte Partei als angemessene Entschädigung erschei …\n\nWeitere Gesetze: PatG: nicht genutzt (aber § 139 Abs. 1 S. 3, 4 PatG: Ausgleich in Geld bei unverhältnismäßiger Härte); GebrMG: nicht genutzt (§ 24 Abs. 1 S. 3, 4 GebrMG); DesignG: § 45 DesignG (Entschädigung); UrhG: § 100 UrhG (Entschädigung); HalblSchG: –; SortSchG: –; Allgemeines Recht: fakultativ (Erwägungsgrund 25)\n\nHinweis: Fakultative Regelung; Deutschland hat sie nur im DesignG (§ 45) und UrhG (§ 100) umgesetzt: Der schuldlose Verletzer kann Unterlassung und Vernichtung durch eine Geldentschädigung in Höhe der angemessenen Vergütung abwenden. Im MarkenG gibt es diese Option nicht.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:12"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:13",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 13 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Schadensersatz\n\nDie Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag der geschädigten Partei anordnen, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzungshandlung vornahm, dem Rechtsinhaber zum Ausgleich des von diesem wegen der Rechtsverletzung erlittenen tatsächlichen Schadens angemessenen Schadensersatz zu leisten hat. Bei der Festsetzung des Schadensersatzes verfahren die Gerichte wie folgt: a) Sie berücksichtigen alle in Frage kommenden Aspekte, wie die negativen wirtschaftlichen Auswirkungen, einschließlich der Gewinneinbußen für di …\n\nUmgesetzt in: § 14 Abs. 6, § 15 Abs. 5, § 17 Abs. 2 MarkenG\n\nWeitere Gesetze: PatG: § 139 Abs. 2 PatG; GebrMG: § 24 Abs. 2 GebrMG; DesignG: § 42 Abs. 2 DesignG; UrhG: § 97 Abs. 2 UrhG (S. 4: immaterieller Schaden); HalblSchG: § 9 Abs. 1 S. 2, 3 HalblSchG; SortSchG: § 37 Abs. 2 SortSchG; Allgemeines Recht: Abs. 2: Eingriffskondiktion § 812 Abs. 1 S. 1 Alt. 2 BGB; § 852 BGB über § 20 S. 2 MarkenG\n\nHinweis: Das Durchsetzungsgesetz hat die dreifache Schadensberechnung in allen Schutzrechtsgesetzen kodifiziert (§ 14 Abs. 6 S. 2: Verletzergewinn, S. 3: Lizenzanalogie). Verschulden bleibt Voraussetzung („wusste oder hätte wissen müssen“). Der Pauschalbetrag nach lit. b ist eine Untergrenze („mindestens“), immaterieller Schaden kann hinzukommen (Liffers); strengere nationale Regeln wie die doppelte Lizenzgebühr sind zulässig (OTK). Für den schuldlosen Verletzer (Abs. 2) greift in Deutschland die Eingriffskondiktion.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:13"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:14",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 14 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Prozesskosten\n\nDie Mitgliedstaaten stellen sicher, dass die Prozesskosten und sonstigen Kosten der obsiegenden Partei in der Regel, soweit sie zumutbar und angemessen sind, von der unterlegenen Partei getragen werden, sofern Billigkeitsgründe dem nicht entgegenstehen.\n\nUmgesetzt in: § 140 Abs. 4, § 142 MarkenG\n\nWeitere Gesetze: PatG: § 143 Abs. 3 PatG (Patentanwaltskosten), § 144 PatG (Streitwertbegünstigung); GebrMG: § 27 Abs. 3 GebrMG; DesignG: § 52 Abs. 4 DesignG; UrhG: § 97a Abs. 3 UrhG (Abmahnkosten, Deckelung des Gegenstandswerts); HalblSchG: –; SortSchG: –; Allgemeines Recht: §§ 91 ff. ZPO, RVG; Abmahnkosten aus GoA (§§ 677, 683, 670 BGB) und als Schadensersatz\n\nHinweis: Klausurklassiker seit 2022: § 140 Abs. 3 MarkenG a.F. (heute Abs. 4) ließ Patentanwaltskosten in Kennzeichenstreitsachen stets erstatten; das verstößt gegen Art. 3 und 14 (EuGH NovaText). Der BGH legt die Norm seither richtlinienkonform aus: Erstattung nur, wenn die Mitwirkung zur zweckentsprechenden Rechtsverfolgung notwendig war (Kosten des Patentanwalts VII). Auch Abmahnkosten sind „sonstige Kosten“ (Koch Media); Pauschal- und Höchstsätze sind zulässig, wenn ein erheblicher und angemessener Teil erstattet wird (United Video Properties).",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:14"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:15",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 15 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Veröffentlichung von Gerichtsentscheidungen\n\nDie Mitgliedstaaten stellen sicher, dass die Gerichte bei Verfahren wegen Verletzung von Rechten des geistigen Eigentums auf Antrag des Antragstellers und auf Kosten des Verletzers geeignete Maßnahmen zur Verbreitung von Informationen über die betreffende Entscheidung, einschließlich der Bekanntmachung und der vollständigen oder teilweisen Veröffentlichung, anordnen können. Die Mitgliedstaaten können andere, den besonderen Umständen angemessene Zusatzmaßnahmen, einschließlich öffentlichkeitswirksamer Anzeigen, vorsehen.\n\nUmgesetzt in: § 19c MarkenG\n\nWeitere Gesetze: PatG: § 140e PatG; GebrMG: § 24e GebrMG; DesignG: § 47 DesignG; UrhG: § 103 UrhG; HalblSchG: § 9 Abs. 2 HalblSchG i.V.m. § 24e GebrMG; SortSchG: § 37e SortSchG; Allgemeines Recht: strafrechtlich § 143 Abs. 6 MarkenG; § 12 Abs. 3 UWG a.F. (Vorbild)\n\nHinweis: § 19c: Befugnis der obsiegenden Partei (auch des Beklagten) bei berechtigtem Interesse; Art und Umfang bestimmt das Urteil; Erlöschen drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar. Wortgleich in allen Schutzrechtsgesetzen.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:15"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:16",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 16 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Sanktionen der Mitgliedstaaten\n\nUnbeschadet der in dieser Richtlinie vorgesehenen zivil- und verwaltungsrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe können die Mitgliedstaaten in Fällen von Verletzungen von Rechten des geistigen Eigentums andere angemessene Sanktionen vorsehen.\n\nUmgesetzt in: § 143, § 143a, § 144, § 146 MarkenG\n\nWeitere Gesetze: PatG: § 142 PatG (Strafvorschrift); §§ 142a, 142b PatG (Zollbeschlagnahme); GebrMG: § 25 GebrMG; §§ 25a, 25b GebrMG; DesignG: § 51 DesignG; §§ 55 ff. DesignG; UrhG: §§ 106 bis 111a UrhG; § 111b UrhG; HalblSchG: § 10 HalblSchG; § 9 Abs. 2 HalblSchG i.V.m. §§ 25a, 25b GebrMG; SortSchG: § 39 SortSchG; § 40a SortSchG; Allgemeines Recht: Verordnung (EU) Nr. 608/2013 (Grenzbeschlagnahme); Art. 61 TRIPS\n\nHinweis: Strafrecht und Grenzbeschlagnahme sind nicht Gegenstand der Richtlinie (Art. 2 Abs. 3 lit. b, c); Art. 16 stellt nur klar, dass sie daneben zulässig bleiben. Die Grenzbeschlagnahme ist unionsrechtlich in der VO (EU) Nr. 608/2013 geregelt, § 146 MarkenG gilt subsidiär.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:16"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:17",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 17 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Verhaltenskodizes\n\nDie Mitgliedstaaten wirken darauf hin, dass a) die Unternehmens- und Berufsverbände oder -organisationen auf Gemeinschaftsebene Verhaltenskodizes ausarbeiten, die zum Schutz der Rechte des geistigen Eigentums beitragen, insbesondere indem die Anbringung eines Codes auf optischen Speicherplatten empfohlen wird, der den Ort ihrer Herstellung erkennen lässt; b) der Kommission die Entwürfe innerstaatlicher oder gemeinschaftsweiter Verhaltenskodizes und etwaige Gutachten über deren Anwendung übermittelt werden.\n\nWeitere Gesetze: Allgemeines Recht: keine gesetzliche Umsetzung erforderlich",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:17"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:18",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 18 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Bewertung\n\nJeder Mitgliedstaat legt der Kommission drei Jahre nach Ablauf der in Artikel 20 Absatz 1 genannten Frist einen Bericht über die Umsetzung dieser Richtlinie vor. Anhand dieser Berichte erstellt die Kommission einen Bericht über die Anwendung dieser Richtlinie, einschließlich einer Bewertung der Wirksamkeit der ergriffenen Maßnahmen sowie einer Bewertung der Auswirkungen der Richtlinie auf die Innovation und die Entwicklung der Informationsgesellschaft. Dieser Bericht wird dem Europäischen Parlament, dem Rat und dem Europäischen Wirtschafts- und Sozialausschuss vorgelegt. Soweit erforderlich, l …\n\nWeitere Gesetze: Allgemeines Recht: Bericht der Kommission KOM(2010) 779; Leitlinien zur Auslegung COM(2017) 708\n\nHinweis: Die Leitlinien der Kommission von 2017 (COM(2017) 708) fassen die EuGH-Rechtsprechung zu Art. 3, 6 bis 11 und 13, 14 zusammen und sind eine gute Lernquelle.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:18"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:19",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 19 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Informationsaustausch und Korrespondenzstellen\n\nZur Förderung der Zusammenarbeit, einschließlich des Informationsaustauschs, der Mitgliedstaaten untereinander sowie zwischen den Mitgliedstaaten und der Kommission benennt jeder Mitgliedstaat mindestens eine nationale Korrespondenzstelle für alle die Durchführung der in dieser Richtlinie vorgesehenen Maßnahmen betreffenden Fragen. Jeder Mitgliedstaat teilt die Kontaktadressen seiner Korrespondenzstelle(n) den anderen Mitgliedstaaten und der Kommission mit.\n\nWeitere Gesetze: Allgemeines Recht: Verwaltungspraxis (BMJ)",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:19"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:20",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 20 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Umsetzung\n\nDie Mitgliedstaaten setzen die Rechts- und Verwaltungsvorschriften in Kraft, die erforderlich sind, um dieser Richtlinie spätestens ab dem 29. April 2006 nachzukommen. Sie setzen die Kommission unverzüglich davon in Kenntnis. Wenn die Mitgliedstaaten diese Vorschriften erlassen, nehmen sie in den Vorschriften selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf diese Richtlinie Bezug. Die Mitgliedstaaten regeln die Einzelheiten der Bezugnahme.\n\nWeitere Gesetze: Allgemeines Recht: Gesetz zur Verbesserung der Durchsetzung von Rechten des geistigen Eigentums vom 7.7.2008 (BGBl. I S. 1191), in Kraft seit 1.9.2008 – Artikelgesetz für PatG, GebrMG, MarkenG, HalblSchG, UrhG, DesignG und SortSchG\n\nHinweis: Deutschland hat die Frist (29.4.2006) um mehr als zwei Jahre verfehlt; in der Zwischenzeit galt richtlinienkonforme Auslegung des bestehenden Rechts (etwa § 242 BGB für Auskunft, § 809 BGB für Besichtigung).",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:20"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:21",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 21 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Inkrafttreten\n\nDiese Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.\n\nHinweis: Veröffentlicht am 30.4.2004 (ABl. L 157, S. 45); wegen Fehlern in der Erstveröffentlichung wurde der gesamte Text am 2.6.2004 berichtigt neu bekannt gemacht (ABl. L 195, S. 16). Zitiert wird die berichtigte Fassung.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:21"
+ },
+ {
+  "id": "card:eunorm:eunorm:durchsetzungsrl:22",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 22 DurchsetzungsRL und welche Vorschrift des MarkenG setzt ihn um?",
+  "back": "Adressaten\n\nDiese Richtlinie ist an die Mitgliedstaaten gerichtet.",
+  "tags": [
+   "Richtlinie",
+   "EU",
+   "DurchsetzungsRL"
+  ],
+  "node": "eunorm:durchsetzungsrl:22"
  }
 ]

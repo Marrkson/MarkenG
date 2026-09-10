@@ -65,14 +65,33 @@ EU_LAWS = {
 UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "GGV", "EPÜ", "ERVDPMAV", "PatAnwAPrV", "GV", "GRCh")
 
 _ABBR = "|".join(sorted(list(LAWS) + list(EU_LAWS) + list(UNLINKED), key=len, reverse=True))
+# Gruppen: 1 Zitatkopf, 2 Nummern (Ketten „9 bis 13“, „146 ff.“), 3 Untergliederung (Abs., Nr., S., lit.,
+# jeweils mit Ketten „S. 3 bis 5“, „lit. a bis d“), 4 Gesetz
 _PATTERN = (
     r"(§§|§|Art\.)\s*"
-    r"(\d+[a-z]?(?:\s*(?:bis|,|und|ff\.|f\.|/|-|–)\s*\d+[a-z]?)*)"
-    r"((?:\s+(?:Abs\.|Absatz|Nr\.|Nummer|Satz|S\.|lit\.|Halbsatz|Alt\.)\s*[\w§]+)*)"
+    r"(\d+[a-z]?(?:\s*(?:bis|,|und|ff\.|f\.|/|-|–)\s*\d+[a-z]?)*(?:\s*f{1,2}\.)?)"
+    r"((?:\s+(?:Abs\.|Absatz|Nr\.|Nummer|Satz|S\.|lit\.|Halbsatz|Alt\.)\s*[\w§]+(?:\s*(?:bis|und|,|/|–|-)\s*(?:\d+[a-z]?|[a-z])(?![\w.]))*)*)"
     r"(?:\s+(" + _ABBR + r"))?"
 )
 CITATION = re.compile(_PATTERN)
 _NUM = re.compile(r"\d+[a-z]?")
+
+
+def qualify(text, law):
+    """Hängt an Zitate ohne Gesetzesangabe das Gesetz an, damit `linkify` sie richtig zuordnet.
+
+    qualify('§ 140b, § 139 Abs. 1 S. 3 bis 5', 'PatG') -> '§ 140b PatG, § 139 Abs. 1 S. 3 bis 5 PatG'
+    Zitate, die bereits ein Gesetz nennen, und unbekannte Gesetze bleiben unverändert.
+    """
+    if law not in LAWS and law not in EU_LAWS:
+        return text
+    out, pos = [], 0
+    for m in CITATION.finditer(text):
+        if m.group(4):
+            continue
+        out.append(text[pos:m.end()] + " " + law)
+        pos = m.end()
+    return "".join(out) + text[pos:]
 
 
 def url_for(nummer, law=DEFAULT_LAW):
@@ -200,3 +219,4 @@ if __name__ == "__main__":
     ]
     for p in proben:
         print(linkify(p, "markdown"))
+    print(qualify("§ 140b, § 139 Abs. 1 S. 3 bis 5, § 140a Abs. 1 bis 4; § 9 Abs. 2 (§§ 24a bis 24e GebrMG)", "PatG"))

@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht und Einheitliches Patentgericht
 
-1248 Karten, generiert aus graph/markenrecht_graph.json.
+1330 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -3256,11 +3256,13 @@ Der Inhaber oder Anmelder eines klassischen europäischen Patents kann die aussc
 
 ## definition
 
-**F:** Definiere: Europäisches Patent mit einheitlicher Wirkung
+**F:** Definiere: Europäisches Patent mit einheitlicher Wirkung (Einheitspatent)
 
-**A:** Ein vom EPA erteiltes europäisches Patent, für das auf Antrag binnen eines Monats nach Erteilung die einheitliche Wirkung nach Verordnung (EU) Nr. 1257/2012 eingetragen wurde; es gewährt einheitlichen Schutz in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei Eintragung in Kraft war ([Art. 2 lit. f EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+**A:** Ein vom EPA nach dem EPÜ erteiltes europäisches Patent, für das der Inhaber binnen eines Monats nach Bekanntmachung des Erteilungshinweises die einheitliche Wirkung beantragt hat und das die Abteilung für den einheitlichen Patentschutz im Register für den einheitlichen Patentschutz eingetragen hat (Art. 3 Abs. 1, [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [R. 5 bis 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Es gewährt einheitlichen Schutz mit gleicher Wirkung in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei der Eintragung in Kraft war (Art. 3 Abs. 2, [Art. 18 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [Art. 2 lit. f EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
 
-Normen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Normen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 4 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 18 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 5 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe) (UPC_CoA_796/2025)
 
 *Tags: Begriff, EPG: Grundlagen*
 
@@ -3270,9 +3272,9 @@ Normen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX
 
 **F:** Welcher Begriff wird so definiert?
 
-Ein vom EPA erteiltes europäisches Patent, für das auf Antrag binnen eines Monats nach Erteilung die einheitliche Wirkung nach Verordnung (EU) Nr. 1257/2012 eingetragen wurde; es gewährt einheitlichen Schutz in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei Eintragung in Kraft war ([Art. 2 lit. f EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+Ein vom EPA nach dem EPÜ erteiltes europäisches Patent, für das der Inhaber binnen eines Monats nach Bekanntmachung des Erteilungshinweises die einheitliche Wirkung beantragt hat und das die Abteilung für den einheitlichen Patentschutz im Register für den einheitlichen Patentschutz eingetragen hat (Art. 3 Abs. 1, [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [R. 5 bis 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Es gewährt einheitlichen Schutz mit gleicher Wirkung in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei der Eintragung in Kraft war (Art. 3 Abs. 2, [Art. 18 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [Art. 2 lit. f EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
 
-**A:** Europäisches Patent mit einheitlicher Wirkung
+**A:** Europäisches Patent mit einheitlicher Wirkung (Einheitspatent)
 
 *Tags: Begriff, Umkehr, EPG: Grundlagen*
 
@@ -5104,6 +5106,298 @@ Nach einer rechtskräftigen Entscheidung kann das Berufungsgericht auf Antrag da
 
 ## definition
 
+**F:** Definiere: Rechtsrahmen des Einheitspatents: EPatVO, EPatÜVO, DOEPS, GebOEPS, UP-Richtlinien
+
+**A:** Das Einheitspatent beruht auf zwei EU-Verordnungen der Verstärkten Zusammenarbeit (Art. 20 EUV): Die Verordnung (EU) Nr. 1257/2012 (EPatVO) schafft das europäische Patent mit einheitlicher Wirkung, die Verordnung (EU) Nr. 1260/2012 (EPatÜVO) regelt die Übersetzungen. Beide sind seit 20.1.2013 in Kraft und seit dem 1.6.2023, dem Inkrafttreten des EPGÜ, anwendbar ([Art. 18 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 7 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)). Das Verfahren vor dem EPA regeln als Sekundärrecht des Engeren Ausschusses des Verwaltungsrats (Art. 145 EPÜ) die Durchführungsordnung (DOEPS) und die Gebührenordnung (GebOEPS) zum einheitlichen Patentschutz.
+
+Normen: [Art. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 18 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 1 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 1 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 1 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html), [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Einheitspatent beruht auf zwei EU-Verordnungen der Verstärkten Zusammenarbeit (Art. 20 EUV): Die Verordnung (EU) Nr. 1257/2012 (EPatVO) schafft das europäische Patent mit einheitlicher Wirkung, die Verordnung (EU) Nr. 1260/2012 (EPatÜVO) regelt die Übersetzungen. Beide sind seit 20.1.2013 in Kraft und seit dem 1.6.2023, dem Inkrafttreten des EPGÜ, anwendbar ([Art. 18 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 7 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)). Das Verfahren vor dem EPA regeln als Sekundärrecht des Engeren Ausschusses des Verwaltungsrats (Art. 145 EPÜ) die Durchführungsordnung (DOEPS) und die Gebührenordnung (GebOEPS) zum einheitlichen Patentschutz.
+
+**A:** Rechtsrahmen des Einheitspatents: EPatVO, EPatÜVO, DOEPS, GebOEPS, UP-Richtlinien
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: UP-Richtlinien des EPA (Richtlinien für das Einheitspatent)
+
+**A:** Die Richtlinien für das Einheitspatent beschreiben die Praxis der Abteilung für den einheitlichen Patentschutz zum Antrag auf einheitliche Wirkung, zu Gebühren, Kompensation, Wiedereinsetzung, Unterbrechung, Registereintragungen und Verfahren. Der Präsident des EPA erlässt sie nach [R. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) i.V.m. Art. 10 Abs. 2 lit. a EPÜ; die Ausgabe April 2026 gilt seit dem 1.4.2026 (ABl. EPA 2026, A6) und ersetzt die erste Ausgabe vom 1.4.2025.
+
+Normen: [R. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 20 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Richtlinien für das Einheitspatent beschreiben die Praxis der Abteilung für den einheitlichen Patentschutz zum Antrag auf einheitliche Wirkung, zu Gebühren, Kompensation, Wiedereinsetzung, Unterbrechung, Registereintragungen und Verfahren. Der Präsident des EPA erlässt sie nach [R. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) i.V.m. Art. 10 Abs. 2 lit. a EPÜ; die Ausgabe April 2026 gilt seit dem 1.4.2026 (ABl. EPA 2026, A6) und ersetzt die erste Ausgabe vom 1.4.2025.
+
+**A:** UP-Richtlinien des EPA (Richtlinien für das Einheitspatent)
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Territorialer Geltungsbereich und Generationen von Einheitspatenten
+
+**A:** Ein Einheitspatent gilt in den teilnehmenden Mitgliedstaaten, in denen das EPGÜ am Tag der Eintragung der einheitlichen Wirkung in Kraft ist ([Art. 18 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)). Der Geltungsbereich bleibt für die gesamte Laufzeit unverändert und wird nicht auf Staaten erstreckt, die das EPGÜ später ratifizieren; jede weitere Ratifikation schafft eine neue „Generation“.
+
+Normen: [Art. 18 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 5 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 89 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Einheitspatent gilt in den teilnehmenden Mitgliedstaaten, in denen das EPGÜ am Tag der Eintragung der einheitlichen Wirkung in Kraft ist ([Art. 18 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)). Der Geltungsbereich bleibt für die gesamte Laufzeit unverändert und wird nicht auf Staaten erstreckt, die das EPGÜ später ratifizieren; jede weitere Ratifikation schafft eine neue „Generation“.
+
+**A:** Territorialer Geltungsbereich und Generationen von Einheitspatenten
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Antrag auf einheitliche Wirkung ([R. 5 bis 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+**A:** Der Inhaber des europäischen Patents beantragt die einheitliche Wirkung schriftlich in der Verfahrenssprache beim EPA, spätestens einen Monat nach Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt ([R. 6 Abs. 1, 2 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [Art. 9 Abs. 1 lit. g EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)). Der Antrag enthält Angaben zum Inhaber und Vertreter, die Patentnummer und während der Übergangszeit die Übersetzung nach [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260). Voraussetzung ist, dass das Patent mit denselben Ansprüchen für alle teilnehmenden Mitgliedstaaten erteilt wurde ([R. 5 Abs. 2 lit. a DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)).
+
+Normen: [R. 5 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 6 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 22 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 4 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Rechtsprechung: EPG-BerG Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe) (UPC_CoA_796/2025)
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Inhaber des europäischen Patents beantragt die einheitliche Wirkung schriftlich in der Verfahrenssprache beim EPA, spätestens einen Monat nach Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt ([R. 6 Abs. 1, 2 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [Art. 9 Abs. 1 lit. g EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)). Der Antrag enthält Angaben zum Inhaber und Vertreter, die Patentnummer und während der Übergangszeit die Übersetzung nach [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260). Voraussetzung ist, dass das Patent mit denselben Ansprüchen für alle teilnehmenden Mitgliedstaaten erteilt wurde ([R. 5 Abs. 2 lit. a DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)).
+
+**A:** Antrag auf einheitliche Wirkung ([R. 5 bis 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Übersetzungsregelung und Übergangszeit (EPatÜVO)
+
+**A:** Nach Veröffentlichung der Patentschrift in der EPA-Verfahrenssprache sind für das Einheitspatent keine weiteren Übersetzungen erforderlich ([Art. 3 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)). Während einer Übergangszeit von sechs Jahren ab 1.6.2023, verlängerbar bis höchstens zwölf Jahre, ist mit dem Antrag auf einheitliche Wirkung jedoch eine vollständige Übersetzung der Patentschrift einzureichen: ins Englische, wenn die Verfahrenssprache Deutsch oder Französisch war, in eine andere EU-Amtssprache, wenn sie Englisch war ([Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 6 Abs. 2 lit. d DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)).
+
+Normen: [Art. 3 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [Art. 4 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 6 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 18 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nach Veröffentlichung der Patentschrift in der EPA-Verfahrenssprache sind für das Einheitspatent keine weiteren Übersetzungen erforderlich ([Art. 3 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)). Während einer Übergangszeit von sechs Jahren ab 1.6.2023, verlängerbar bis höchstens zwölf Jahre, ist mit dem Antrag auf einheitliche Wirkung jedoch eine vollständige Übersetzung der Patentschrift einzureichen: ins Englische, wenn die Verfahrenssprache Deutsch oder Französisch war, in eine andere EU-Amtssprache, wenn sie Englisch war ([Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 6 Abs. 2 lit. d DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)).
+
+**A:** Übersetzungsregelung und Übergangszeit (EPatÜVO)
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Kompensationssystem für Übersetzungskosten ([Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 8 bis 11 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+**A:** Wer die europäische Patentanmeldung oder Euro-PCT-Anmeldung in einer anderen EU-Amtssprache als Deutsch, Englisch oder Französisch eingereicht hat, erhält bei Eintragung des Einheitspatents eine Pauschale von 500 EUR ([R. 11 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 4 Abs. 1 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)), wenn alle Inhaber und gegebenenfalls alle ursprünglichen Anmelder natürliche Personen, KMU, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen oder öffentliche Forschungseinrichtungen mit Wohnsitz oder Sitz in einem EU-Mitgliedstaat sind ([R. 8 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)).
+
+Normen: [Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 8 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 9 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 10 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 11 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 4 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer die europäische Patentanmeldung oder Euro-PCT-Anmeldung in einer anderen EU-Amtssprache als Deutsch, Englisch oder Französisch eingereicht hat, erhält bei Eintragung des Einheitspatents eine Pauschale von 500 EUR ([R. 11 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 4 Abs. 1 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)), wenn alle Inhaber und gegebenenfalls alle ursprünglichen Anmelder natürliche Personen, KMU, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen oder öffentliche Forschungseinrichtungen mit Wohnsitz oder Sitz in einem EU-Mitgliedstaat sind ([R. 8 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)).
+
+**A:** Kompensationssystem für Übersetzungskosten ([Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 8 bis 11 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Jahresgebühren des Einheitspatents ([Art. 11, 12 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [R. 13, 14 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html))
+
+**A:** Für das Einheitspatent ist eine einzige Jahresgebühr in Euro an das EPA zu zahlen, fällig für die Jahre nach dem Jahr des Erteilungshinweises, jeweils am letzten Tag des Monats, der dem Anmeldemonat entspricht ([Art. 11 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 13 Abs. 1, 2 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Die Beträge stehen in [Art. 2 Abs. 1 Nr. 1 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (2. Jahr 35 EUR bis 20. Jahr 4 855 EUR, „True Top 4“); Zahlung ohne Vertreterzwang durch jedermann.
+
+Normen: [Art. 11 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 12 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 13 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 13 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 14 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 22 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html), [Art. 3 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für das Einheitspatent ist eine einzige Jahresgebühr in Euro an das EPA zu zahlen, fällig für die Jahre nach dem Jahr des Erteilungshinweises, jeweils am letzten Tag des Monats, der dem Anmeldemonat entspricht ([Art. 11 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 13 Abs. 1, 2 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Die Beträge stehen in [Art. 2 Abs. 1 Nr. 1 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (2. Jahr 35 EUR bis 20. Jahr 4 855 EUR, „True Top 4“); Zahlung ohne Vertreterzwang durch jedermann.
+
+**A:** Jahresgebühren des Einheitspatents ([Art. 11, 12 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [R. 13, 14 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html))
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Lizenzbereitschaft ([Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+**A:** Der Inhaber eines Einheitspatents kann beim EPA erklären, dass er jedermann die Benutzung der Erfindung als Lizenznehmer gegen angemessene Vergütung gestattet ([Art. 8 Abs. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 12 Abs. 1 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Eine auf dieser Grundlage erworbene Lizenz gilt als Vertragslizenz ([Art. 8 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)); die Jahresgebühren ermäßigen sich ab Eingang der Erklärung um 15 % ([Art. 3 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)).
+
+Normen: [Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 3 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html), [Art. 32 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Inhaber eines Einheitspatents kann beim EPA erklären, dass er jedermann die Benutzung der Erfindung als Lizenznehmer gegen angemessene Vergütung gestattet ([Art. 8 Abs. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 12 Abs. 1 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Eine auf dieser Grundlage erworbene Lizenz gilt als Vertragslizenz ([Art. 8 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)); die Jahresgebühren ermäßigen sich ab Eingang der Erklärung um 15 % ([Art. 3 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)).
+
+**A:** Lizenzbereitschaft ([Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Register für den einheitlichen Patentschutz, Rechtsübergang und Lizenzen
+
+**A:** Das EPA führt das Register für den einheitlichen Patentschutz als gesonderten Teil des Europäischen Patentregisters ([Art. 9 Abs. 1 lit. b EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 15 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Es enthält die Eintragung der einheitlichen Wirkung mit Datum und Geltungsbereich, Rechtsübergänge, Lizenzen, dingliche Rechte, Beschränkung, Widerruf, Erlöschen, Lizenzbereitschaft und Lizenzzusagen ([R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Ein Einheitspatent kann nur für alle Staaten zugleich übertragen, aber für Teilgebiete lizenziert werden ([Art. 3 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)).
+
+Normen: [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 15 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 17 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 20 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das EPA führt das Register für den einheitlichen Patentschutz als gesonderten Teil des Europäischen Patentregisters ([Art. 9 Abs. 1 lit. b EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 15 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Es enthält die Eintragung der einheitlichen Wirkung mit Datum und Geltungsbereich, Rechtsübergänge, Lizenzen, dingliche Rechte, Beschränkung, Widerruf, Erlöschen, Lizenzbereitschaft und Lizenzzusagen ([R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Ein Einheitspatent kann nur für alle Staaten zugleich übertragen, aber für Teilgebiete lizenziert werden ([Art. 3 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)).
+
+**A:** Register für den einheitlichen Patentschutz, Rechtsübergang und Lizenzen
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Einheitspatent als Gegenstand des Vermögens ([Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257))
+
+**A:** Als Gegenstand des Vermögens wird das Einheitspatent in seiner Gesamtheit und in allen teilnehmenden Mitgliedstaaten wie ein nationales Patent des Staates behandelt, in dem der Anmelder am Anmeldetag laut Europäischem Patentregister seinen Wohnsitz oder Hauptniederlassung hatte, hilfsweise eine Niederlassung ([Art. 7 Abs. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)). Bei mehreren Anmeldern gilt der erstgenannte, bei dem die Voraussetzung vorliegt (Abs. 2). Trifft nichts zu, gilt deutsches Recht als Recht des Sitzstaats der EPO (Abs. 3).
+
+Normen: [Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Als Gegenstand des Vermögens wird das Einheitspatent in seiner Gesamtheit und in allen teilnehmenden Mitgliedstaaten wie ein nationales Patent des Staates behandelt, in dem der Anmelder am Anmeldetag laut Europäischem Patentregister seinen Wohnsitz oder Hauptniederlassung hatte, hilfsweise eine Niederlassung ([Art. 7 Abs. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)). Bei mehreren Anmeldern gilt der erstgenannte, bei dem die Voraussetzung vorliegt (Abs. 2). Trifft nichts zu, gilt deutsches Recht als Recht des Sitzstaats der EPO (Abs. 3).
+
+**A:** Einheitspatent als Gegenstand des Vermögens ([Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257))
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Abteilung für den einheitlichen Patentschutz und Verfahren vor dem EPA
+
+**A:** Die teilnehmenden Mitgliedstaaten haben dem EPA nach Art. 143 EPÜ die Verwaltung des Einheitspatents übertragen ([Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)): Anträge auf einheitliche Wirkung, Register, Jahresgebühren, Kompensation, Lizenzbereitschaft. Zuständig ist die Abteilung für den einheitlichen Patentschutz, deren Entscheidungen ein rechtskundiges Mitglied trifft ([R. 4 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Für das Verfahren verweist [R. 20 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) auf das EPÜ: Vertretung, rechtliches Gehör, Zustellung, Fristenberechnung, Unterbrechung, Registereintragungen.
+
+Normen: [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 4 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 20 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 21 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 22 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die teilnehmenden Mitgliedstaaten haben dem EPA nach Art. 143 EPÜ die Verwaltung des Einheitspatents übertragen ([Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)): Anträge auf einheitliche Wirkung, Register, Jahresgebühren, Kompensation, Lizenzbereitschaft. Zuständig ist die Abteilung für den einheitlichen Patentschutz, deren Entscheidungen ein rechtskundiges Mitglied trifft ([R. 4 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Für das Verfahren verweist [R. 20 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) auf das EPÜ: Vertretung, rechtliches Gehör, Zustellung, Fristenberechnung, Unterbrechung, Registereintragungen.
+
+**A:** Abteilung für den einheitlichen Patentschutz und Verfahren vor dem EPA
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
+**F:** Definiere: Klage gegen Entscheidungen des EPA zum Einheitspatent (Art. 32 Abs. 1 lit. i, [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 85 bis 98 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+**A:** Gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz ist nicht die Beschwerde zu den Beschwerdekammern, sondern die Klage vor dem EPG gegeben ([Art. 9 Abs. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [R. 23 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [Art. 32 Abs. 1 lit. i EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Das Gericht kann die Entscheidung aufheben oder abändern ([Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Die Klage ist binnen zwei Monaten nach Zustellung bei der Kanzlei einzureichen ([R. 88 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); gegen die Zurückweisung des Antrags auf einheitliche Wirkung gilt das beschleunigte Verfahren nach [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) mit einer Frist von drei Wochen und Entscheidung durch den Eilrichter binnen drei Wochen.
+
+Normen: [Art. 32 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 48 Abs. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 85 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 88 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 91 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 23 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 24 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Rechtsprechung: EPG-BerG Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe) (UPC_CoA_796/2025)
+
+*Tags: Begriff, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz ist nicht die Beschwerde zu den Beschwerdekammern, sondern die Klage vor dem EPG gegeben ([Art. 9 Abs. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [R. 23 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [Art. 32 Abs. 1 lit. i EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Das Gericht kann die Entscheidung aufheben oder abändern ([Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Die Klage ist binnen zwei Monaten nach Zustellung bei der Kanzlei einzureichen ([R. 88 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); gegen die Zurückweisung des Antrags auf einheitliche Wirkung gilt das beschleunigte Verfahren nach [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) mit einer Frist von drei Wochen und Entscheidung durch den Eilrichter binnen drei Wochen.
+
+**A:** Klage gegen Entscheidungen des EPA zum Einheitspatent (Art. 32 Abs. 1 lit. i, [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 85 bis 98 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+
+*Tags: Begriff, Umkehr, Einheitspatent: Erteilung und Verwaltung*
+
+---
+
+## definition
+
 **F:** Definiere: EPGÜ und Durchsetzungsrichtlinie 2004/48/EG
 
 **A:** Die Art. 56 bis 69 und [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) setzen die Maßnahmen, Verfahren und Rechtsbehelfe der Durchsetzungsrichtlinie für das EPG um: Beweisvorlage ([Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), Art. 6 RL), Beweissicherung (Art. 60, Art. 7 RL), Auskunft (Art. 67, Art. 8 RL), einstweilige Maßnahmen (Art. 62, Art. 9 RL), Abhilfe (Art. 64, Art. 10 RL), Unterlassung (Art. 63, Art. 11 RL), Schadensersatz (Art. 68, Art. 13 RL), Kosten (Art. 69, Art. 14 RL), Veröffentlichung (Art. 80, Art. 15 RL). Die Richtlinie ist als Unionsrecht vorrangige Rechtsquelle ([Art. 24 Abs. 1 lit. a EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
@@ -5497,6 +5791,28 @@ Die Art. 56 bis 69 und [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/D
 - 5. Entscheidung
 
 *Tags: Prüfungsschema, Klausur*
+
+---
+
+**F:** Prüfungsschema: Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS)
+
+**A:** - A. Anspruchsberechtigung ([Art. 3 Abs. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 5 Abs. 2 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+- B. Antrag: Frist, Form, Inhalt ([R. 6 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+  - 1. Monatsfrist ab Erteilungshinweis (R. 6 Abs. 1)
+  - 2. Schriftlich, in der Verfahrenssprache, Formblatt 7000 (R. 6 Abs. 2)
+  - 3. Übersetzung in der Übergangszeit ([Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), R. 6 Abs. 2 lit. d)
+  - 4. Zugleich: Antrag auf Kompensation ([R. 9 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+- C. Prüfung und Eintragung ([R. 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+  - 1. Eintragung und Wirksamwerden (R. 7 Abs. 1, [Art. 4 Abs. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257))
+  - 2. Formmängel: Monatsfrist ohne Wiedereinsetzung (R. 7 Abs. 3)
+  - 3. Zurückweisung (R. 7 Abs. 2, 3)
+- D. Rechtsbehelf: Klage vor dem EPG ([R. 23, 24 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [R. 85 bis 98 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))
+- E. Nach der Eintragung: Jahresgebühren, Register, Lizenzen
+  - 1. Jahresgebühren an das EPA ([R. 13, 14 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html))
+  - 2. Lizenzbereitschaft ([Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+  - 3. Rechtsübergang, Lizenzen, Vermögensstatut (Art. 3 Abs. 2, [Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+*Tags: Prüfungsschema, Einheitspatent: Erteilung und Verwaltung*
 
 ---
 
@@ -6050,6 +6366,46 @@ Kernpunkt der Klausur.
 
 ---
 
+**F:** B. Antrag: Frist, Form, Inhalt ([R. 6 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+(Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Monatsfrist ab Erteilungshinweis (R. 6 Abs. 1)
+- 2. Schriftlich, in der Verfahrenssprache, Formblatt 7000 (R. 6 Abs. 2)
+- 3. Übersetzung in der Übergangszeit ([Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), R. 6 Abs. 2 lit. d)
+- 4. Zugleich: Antrag auf Kompensation ([R. 9 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Prüfung und Eintragung ([R. 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+(Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Eintragung und Wirksamwerden (R. 7 Abs. 1, [Art. 4 Abs. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257))
+- 2. Formmängel: Monatsfrist ohne Wiedereinsetzung (R. 7 Abs. 3)
+- 3. Zurückweisung (R. 7 Abs. 2, 3)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** E. Nach der Eintragung: Jahresgebühren, Register, Lizenzen
+(Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Jahresgebühren an das EPA ([R. 13, 14 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html); [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html))
+- 2. Lizenzbereitschaft ([Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+- 3. Rechtsübergang, Lizenzen, Vermögensstatut (Art. 3 Abs. 2, [Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257); [R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
 **F:** D. Zuständige Kammer ([Art. 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
 (Zuständigkeit des EPG und Kammerwahl ([Art. 31 bis 34 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))))
 
@@ -6543,6 +6899,25 @@ Merksatz: [§ 19](https://www.gesetze-im-internet.de/markeng/__19.html) fragt �
 • Art. 20 – Umsetzungsfrist 29.4.2006 — MarkenG: – | PatG: – | GebrMG: – | DesignG: – | UrhG: – | HalblSchG: – | SortSchG: – | Allgemeines Recht: Durchsetzungsgesetz vom 7.7.2008 (BGBl. I S. 1191), in Kraft 1.9.2008, als Artikelgesetz für alle sieben Gesetze
 
 Merksatz: Ein Muster, sieben Gesetze: Vernichtung/Rückruf – Auskunft – Vorlage/Besichtigung – Sicherung – Urteilsbekanntmachung stehen überall in derselben Reihenfolge (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html) bis [19c](https://www.gesetze-im-internet.de/markeng/__19c.html) MarkenG = §§ [140a](https://www.gesetze-im-internet.de/patg/__140a.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG = §§ [24a](https://www.gesetze-im-internet.de/gebrmg/__24a.html) bis [24e](https://www.gesetze-im-internet.de/gebrmg/__24e.html) GebrMG = §§ [43](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [46](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG = §§ [98](https://www.gesetze-im-internet.de/urhg/__98.html), [101](https://www.gesetze-im-internet.de/urhg/__101.html) bis [103](https://www.gesetze-im-internet.de/urhg/__103.html) UrhG = §§ [37a](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html) bis [37e](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html) SortSchG; HalblSchG verweist auf das GebrMG).
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Worin unterscheiden sich das europäische Patent mit einheitlicher Wirkung und das klassische, national validierte europäische Patent nach der Erteilung?
+(Einheitspatent vs. klassisches europäisches Patent (Bündelpatent))
+
+**A:** • Rechtsgrundlage nach Erteilung — Einheitspatent: Verordnungen (EU) Nr. 1257/2012 und 1260/2012, DOEPS, GebOEPS; Praxis in den UP-Richtlinien | Klassisches europäisches Patent: Art. 64 ff. EPÜ und nationales Recht der benannten Staaten (in Deutschland IntPatÜG, PatG)
+• Entstehung — Einheitspatent: Antrag auf einheitliche Wirkung beim EPA binnen eines Monats nach Erteilungshinweis, Eintragung im Register ([R. 6, 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)); Wirkung rückwirkend ab Erteilungshinweis ([Art. 4 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)) | Klassisches europäisches Patent: Validierung Staat für Staat: Übersetzung, Gebühren und Vertreter nach nationalem Recht (Art. 65 EPÜ, Londoner Übereinkommen)
+• Geltungsbereich — Einheitspatent: Einheitlich in den teilnehmenden Mitgliedstaaten, in denen das EPGÜ bei Eintragung in Kraft war (17 bzw. seit 1.9.2024 18 Staaten); Generation bleibt fest ([Art. 18 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)) | Klassisches europäisches Patent: Bündel nationaler Schutzrechte in allen benannten EPÜ-Staaten (bis zu 39 plus Erstreckungs- und Validierungsstaaten), frei wählbar
+• Übersetzungen — Einheitspatent: Übergangszeit: eine vollständige Übersetzung zur Information ([Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)); danach keine; im Streitfall Übersetzung auf Kosten des Inhabers ([Art. 4 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)); Kompensation 500 EUR für KMU u.a. | Klassisches europäisches Patent: Übersetzung der Patentschrift oder Ansprüche je nach Staat und Londoner Übereinkommen; keine Kompensation
+• Jahresgebühren — Einheitspatent: Eine Gebühr an das EPA nach [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (2. bis 20. Jahr 35 bis 4 855 EUR, gesamt 35 555 EUR); Nachfrist sechs Monate mit 50 % Zuschlag ([R. 13 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)); 15 % Ermäßigung bei Lizenzbereitschaft | Klassisches europäisches Patent: Nationale Jahresgebühren je Staat in Landeswährung mit eigenen Fristen und Vertretern (Art. 141 EPÜ; [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html), [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html))
+• Verfügungen und Register — Einheitspatent: Übertragung nur für alle Staaten, Lizenz auch für Teilgebiete ([Art. 3 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)); Eintragung zentral im Register für den einheitlichen Patentschutz ([R. 15, 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)); Vermögensstatut nach [Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) | Klassisches europäisches Patent: Jeder nationale Teil ist getrennt übertragbar und wird im nationalen Register eingetragen ([§ 30 PatG](https://www.gesetze-im-internet.de/patg/__30.html))
+• Materielles Recht — Einheitspatent: [Art. 25 bis 30 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) über die Verweisung des [Art. 5 Abs. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), einheitlich für alle Staaten | Klassisches europäisches Patent: Nationales Recht ([§§ 9 ff. PatG](https://www.gesetze-im-internet.de/patg/__9.html)) oder, ohne Opt-out, [Art. 25 bis 30 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) vor dem EPG
+• Gericht — Einheitspatent: Ausschließlich das EPG, kein Opt-out (Art. 3 lit. a, [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Klagen gegen EPA-Entscheidungen ebenfalls zum EPG (Art. 32 Abs. 1 lit. i) | Klassisches europäisches Patent: Übergangszeit bis 31.5.2030 (verlängerbar): Wahl zwischen EPG und nationalen Gerichten; Opt-out möglich ([Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+• Erlöschen und Nichtigkeit — Einheitspatent: Nur für alle Staaten zugleich: Erlöschen bei Nichtzahlung ([R. 14 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)), Nichtigerklärung durch das EPG mit Wirkung für alle Staaten ([Art. 34, 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Einspruch beim EPA weiterhin möglich | Klassisches europäisches Patent: Je Staat: nationale Nichtigkeitsklage ([§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html)) oder EPG-Nichtigkeitsklage für alle Vertragsmitgliedstaaten; Erlöschen je Staat
+
+Merksatz: Ein Antrag, ein Register, eine Gebühr, ein Gericht – das Einheitspatent ersetzt das Bündel durch ein einheitliches Recht, aber nur in den Staaten seiner Generation.
 
 *Tags: Abgrenzung*
 
@@ -11555,6 +11930,31 @@ Ob in zweiter Instanz konkretisiertes Vorbringen neu ist, hängt davon ab, wie a
 
 ## entscheidung
 
+**F:** EPG-BerG „Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe)“ (UPC_CoA_796/2025, 2025) – Kernaussage?
+
+**A:** Der Antrag auf Aufhebung einer Entscheidung des EPA, mit der ein Antrag auf einheitliche Wirkung zurückgewiesen wurde, richtet sich allein nach [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf): Frist drei Wochen, Weiterleitung an den Eilrichter, Entscheidung binnen drei Wochen. Er ist ein beschleunigtes Verfahren im Sinne von [R. 85 Abs. 2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), sodass die Abhilfe durch das EPA nach [R. 91 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ([R. 24 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)) nicht stattfindet; [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist lex specialis. Die Mängelfrist des [R. 7 Abs. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (ein Monat, nicht verlängerbar) ist zwingend und einer Wiedereinsetzung nicht zugänglich. Anordnung des Eilrichters des Berufungsgerichts (Bodycap, CNRS und Université de Rennes gegen das EPA; Verfahrenssprache Französisch).
+
+Normen: [Art. 32 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 22 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 24 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 85 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 91 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_796/2025
+
+*Tags: Rechtsprechung, EPG-BerG, Einheitspatent, R. 97 VerfO, Abhilfe, DOEPS*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Antrag auf Aufhebung einer Entscheidung des EPA, mit der ein Antrag auf einheitliche Wirkung zurückgewiesen wurde, richtet sich allein nach [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf): Frist drei Wochen, Weiterleitung an den Eilrichter, Entscheidung binnen drei Wochen. Er ist ein beschleunigtes Verfahren im Sinne von [R. 85 Abs. 2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), sodass die Abhilfe durch das EPA nach [R. 91 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ([R. 24 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)) nicht stattfindet; [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist lex specialis. Die Mängelfrist des [R. 7 Abs. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (ein Monat, nicht verlängerbar) ist zwingend und einer Wiedereinsetzung nicht zugänglich. Anordnung des Eilrichters des Berufungsgerichts (Bodycap, CNRS und Université de Rennes gegen das EPA; Verfahrenssprache Französisch).
+
+**A:** EPG-BerG „Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe)“ – UPC_CoA_796/2025 (2025), EPG, UPC_CoA_796/2025
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Einheitspatent, R. 97 VerfO, Abhilfe, DOEPS*
+
+---
+
+## entscheidung
+
 **F:** EPG-BerG „Silimed/Polytech (Entfernung eines unbefugten Opt-out)“ (UPC-CoA-066/2026, 2026) – Kernaussage?
 
 **A:** Ein Antrag auf Entfernung eines unbefugten Opt-out nach [R. 5A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) muss entweder darlegen, dass der Antragsteller des Opt-out bei Antragstellung nicht die in den nationalen Registern als berechtigt eingetragene Person war, sondern der Antragsteller der Entfernung ([R. 8.5(c) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), oder bei Personenidentität, dass die eingetragene Person nach dem jeweiligen nationalen Recht nicht berechtigt war, als Inhaber eingetragen zu werden, sondern der Antragsteller ([R. 8.5(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)).
@@ -14515,6 +14915,8 @@ In 14 Entscheidungen des EPG zitiert.
 
 Für die Zwecke dieses Übereinkommens bezeichnet der Ausdruck a) "Gericht" das Einheitliche Patentgericht, das mit diesem Übereinkommen errichtet wird, b) "Mitgliedstaat" einen Mitgliedstaat der Europäischen Union, c) "Vertragsmitgliedstaat" einen Mitgliedstaat, der Vertragspartei dieses Übereinkommens ist, d) "EPÜ" das Übereinkommen über die Erteilung europäischer Patente vom 5. Oktober 1973 mit allen nachfolgenden Änderungen, e) "europäisches Patent" ein nach dem EPÜ erteiltes Patent, das keine einheitliche Wirkung aufgrund der Verordnung (EU) Nr. 1257/2012 hat, f) "europäisches Patent mit ei …
 
+Umsetzung im EPGÜ: [Art. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
 Hinweis: Begriffe merken: „Vertragsmitgliedstaat“ (nur EU-Staaten, die das EPGÜ ratifiziert haben), „europäisches Patent mit einheitlicher Wirkung“ und „europäisches Patent“ (Bündelpatent, soweit nicht opt-out).
 
 In 3 Entscheidungen des EPG zitiert.
@@ -14528,6 +14930,8 @@ In 3 Entscheidungen des EPG zitiert.
 **A:** Geltungsbereich
 
 Dieses Übereinkommen gilt a) für alle europäischen Patente mit einheitlicher Wirkung, b) für alle ergänzenden Schutzzertifikate, die zu einem durch ein Patent geschützten Erzeugnis erteilt worden sind, c) unbeschadet des Artikels 83 für alle europäische Patente, die zum Zeitpunkt des Inkrafttretens dieses Übereinkommens noch nicht erloschen sind oder die nach diesem Zeitpunkt erteilt werden und d) unbeschadet des Artikels 83 für alle europäischen Patentanmeldungen, die zum Zeitpunkt des Inkrafttretens dieses Übereinkommens anhängig sind oder die nach diesem Zeitpunkt eingereicht werden.
+
+Umsetzung im EPGÜ: [Art. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
 
 Hinweis: Sachlicher Geltungsbereich: Einheitspatente, ESZ, europäische Bündelpatente (auch vor dem 1.6.2023 erteilte) und Anmeldungen – jeweils ohne Opt-out (Art. 83 Abs. 3).
 
@@ -14679,6 +15083,8 @@ In 21 Entscheidungen des EPG zitiert.
 
 Ein Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung a) ein Erzeugnis, das Gegenstand des Patents ist, herzustellen, anzubieten, in Verkehr zu bringen, zu gebrauchen oder zu den genannten Zwecken einzuführen oder zu besitzen; b) ein Verfahren, das Gegenstand des Patents ist, anzuwenden, oder, falls der Dritte weiß oder hätte wissen müssen, dass die Anwendung des Verfahrens ohne Zustimmung des Patentinhabers verboten ist, zur Anwendung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anzubieten; c) ein durch ein Verfahren, das …
 
+Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
 Hinweis: Verletzungshandlungen entsprechen [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html); das EPG legt die Begriffe („Anbieten“) autonom aus (EPG-BerG Belkin/Philips).
 
 In 64 Entscheidungen des EPG zitiert.
@@ -14693,6 +15099,8 @@ In 64 Entscheidungen des EPG zitiert.
 
 Ein Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anderen als zur Benutzung der patentierten Erfindung berechtigten Personen Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, zur Benutzung der Erfindung in diesem Gebiet anzubieten oder zu liefern, wenn der Dritte weiß oder hätte wissen müssen, dass diese Mittel dazu geeignet und bestimmt sind, für die Benutzung der Erfindung verwendet zu werden.
 
+Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
 Hinweis: Mittelbare Verletzung wie [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html); Verwendungsbestimmung aus objektiven Umständen (EPG-BerG Onward/Niche).
 
 In 48 Entscheidungen des EPG zitiert.
@@ -14706,6 +15114,8 @@ In 48 Entscheidungen des EPG zitiert.
 **A:** Beschränkungen der Wirkungen des Patents
 
 Die Rechte aus einem Patent erstrecken sich nicht auf a) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden; b) Handlungen zu Versuchszwecken, die sich auf den Gegenstand der patentierten Erfindung beziehen; c) die Verwendung biologischen Materials zum Zwecke der Züchtung, Entdeckung oder Entwicklung anderer Pflanzensorten; d) erlaubte Handlungen nach Artikel 13 Absatz 6 der Richtlinie 2001/82/EG 8 oder Artikel 10 Absatz 6 der Richtlinie 2001/83/EG 9, im Hinblick auf alle Patente, die das Erzeugnis im Sinne einer dieser Richtlinien erfassen; e) die unmittelbare …
+
+Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
 
 Hinweis: Schrankenkatalog inkl. Bolar (lit. d), Landwirteprivileg, Schiffe/Luftfahrzeuge, Dekompilierung, Züchtung (lit. c).
 
@@ -14735,6 +15145,8 @@ In 22 Entscheidungen des EPG zitiert.
 
 Die durch das europäische Patent verliehenen Rechte erstrecken sich nicht auf Handlungen, die ein durch das Patent geschütztes Erzeugnis betreffen, nachdem das Erzeugnis vom Patentinhaber oder mit seiner Zustimmung in der Europäischen Union in Verkehr gebracht worden ist, es sei denn, der Patentinhaber hat berechtigte Gründe, sich dem weiteren Vertrieb des Erzeugnisses zu widersetzen.
 
+Umsetzung im EPGÜ: [Art. 6 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
 In 15 Entscheidungen des EPG zitiert.
 
 *Tags: EPG, EPGÜ*
@@ -14760,6 +15172,8 @@ In 73 Entscheidungen des EPG zitiert.
 **A:** Zuständigkeit des Gerichts
 
 Das Gericht besitzt die ausschließliche Zuständigkeit für a) Klagen wegen tatsächlicher oder drohender Verletzung von Patenten und ergänzenden Schutzzertifikaten und zugehörige Klageerwiderungen, einschließlich Widerklagen in Bezug auf Lizenzen, b) Klagen auf Feststellung der Nichtverletzung von Patenten und ergänzenden Schutzzertifikaten, c) Klagen auf Erlass von einstweiligen Maßnahmen und Sicherungsmaßnahmen und einstweiligen Verfügungen, d) Klagen auf Nichtigerklärung von Patenten und Nichtigerklärung der ergänzenden Schutzzertifikate, e) Widerklagen auf Nichtigerklärung von Patenten und N …
+
+Umsetzung im EPGÜ: [Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
 
 Hinweis: Abschließender Katalog der ausschließlichen Zuständigkeiten; alles andere bleibt bei nationalen Gerichten (Abs. 2).
 
@@ -15115,6 +15529,20 @@ In 69 Entscheidungen des EPG zitiert.
 
 ---
 
+**F:** Was regelt [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Befugnisse des Gerichts in Bezug auf Entscheidungen des Europäischen Patentamts)?
+
+**A:** Befugnisse des Gerichts in Bezug auf Entscheidungen des Europäischen Patentamts
+
+Bei Klagen nach Artikel 32 Absatz 1 Buchstabe i kann das Gericht alle Befugnisse ausüben, die dem Europäischen Patentamt nach Artikel 9 der Verordnung (EU) Nr. 1257/2012 übertragen wurden, einschließlich der Berichtigung des Registers für den einheitlichen Patentschutz.
+
+Umsetzung im EPGÜ: [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPGÜ*
+
+---
+
 **F:** Was regelt [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Befugnis, die Erteilung einer Auskunft anzuordnen)?
 
 **A:** Befugnis, die Erteilung einer Auskunft anzuordnen
@@ -15136,6 +15564,8 @@ In 83 Entscheidungen des EPG zitiert.
 Das Gericht ordnet auf Antrag der geschädigten Partei an, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Patentverletzungshandlung vornahm, der geschädigten Partei zum Ausgleich des von ihr wegen der Verletzung erlittenen tatsächlichen Schadens angemessenen Schadenersatz zu leisten hat.
 
 Entspricht: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Umsetzung im EPGÜ: [Art. 4 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)
 
 Hinweis: Schadensersatz nur bei Verschulden (wusste oder hätte wissen müssen); Berechnung: Schaden, Verletzergewinn oder Lizenzanalogie (Abs. 3); kein Strafschadensersatz (Abs. 2).
 
@@ -15287,6 +15717,8 @@ In 1 Entscheidungen des EPG zitiert.
 
 Dieses Übereinkommen tritt am 1. Januar 2014 in Kraft oder am ersten Tag des vierten Monats nach Hinterlegung der dreizehnten Ratifikations- oder Beitrittsurkunde gemäß Artikel 84, einschließlich der Hinterlegung durch die drei Mitgliedstaaten, in denen es im Jahr vor dem Jahr der Unterzeichnung des Übereinkommens die meisten geltenden europäischen Patente gab, oder am ersten Tag des vierten Monats nach dem Inkrafttreten der Änderungen der Verordnung (EU) Nr. 1215/2012, die das Verhältnis zwischen jener Verordnung und diesem Übereinkommen betreffen, je nachdem, welcher Zeitpunkt der späteste i …
 
+Umsetzung im EPGÜ: [Art. 18 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
 Hinweis: Inkrafttreten am 1. Juni 2023 (nach Ratifikation durch Deutschland); Voraussetzung: 13 Staaten inkl. der drei mit den meisten EP-Wirkungen im Jahr vor der Unterzeichnung.
 
 In 2 Entscheidungen des EPG zitiert.
@@ -15301,7 +15733,7 @@ In 2 Entscheidungen des EPG zitiert.
 
 Das Gericht führt das Verfahren in Übereinstimmung mit dem Übereinkommen, der Satzung und dieser Verfahrensordnung einschließlich ihrer Präambel und der darin niedergelegten Grundsätze. Im Falle eines Widerspruchs zwischen den Bestimmungen des Übereinkommens und/oder der Satzung einerseits und der Verfahrensordnung andererseits haben die Bestimmungen des Übereinkommens und/oder der Satzung Vorrang.
 
-Bezug zum Übereinkommen: [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 18 Entscheidungen des EPG zitiert.
 
@@ -15315,7 +15747,7 @@ In 18 Entscheidungen des EPG zitiert.
 
 Schriftsätze und andere Unterlagen sind zu unterzeichnen und bei der Kanzlei oder betreffenden Nebenstelle in elektronischer Form einzureichen. Die Parteien sind gehalten, die online verfügbaren amtlichen Formulare zu verwenden. Der Eingang der Unterlagen wird durch die automatische Ausgabe einer elektronischen Quittung bestätigt, auf der Datum und Ortszeit des Eingangs angegeben sind.
 
-Bezug zum Übereinkommen: [Art. 44 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 44 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 20 Entscheidungen des EPG zitiert.
 
@@ -15329,7 +15761,7 @@ In 20 Entscheidungen des EPG zitiert.
 
 Der Inhaber eines europäischen Patents (einschließlich eines abgelaufenen europäischen Patents) oder der Anmelder einer veröffentlichten Anmeldung eines europäischen Patents (in Regel 5 im Folgenden „Anmeldung“), der dieses Patent oder diese Anmeldung von der ausschließlichen Zuständigkeit des Gerichts gemäß Artikel 83 Absatz 3 des Übereinkommens ausnehmen will, hat bei der Kanzlei einen Antrag zu stellen (In Regel 5 im Folgenden „Antrag auf Inanspruchnahme der Ausnahmeregelung“). (a) Gehört das Patent oder die Anmeldung zwei oder mehr Inhabern oder Anmeldern, ist der Antrag auf Inanspruchnahm …
 
-Bezug zum Übereinkommen: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Opt-out: Antrag beim Kanzler für alle Inhaber, wirksam mit Eintragung; unwirksam, wenn bereits Klage beim EPG anhängig war (R. 5.6); Rücknahme nur, wenn noch keine nationale Klage (R. 5.8).
 
@@ -15357,7 +15789,7 @@ In 6 Entscheidungen des EPG zitiert.
 
 Eine Partei muss gemäß Artikel 48 des Übereinkommens vertreten sein, sofern diese Verfahrensordnung nichts anderes vorsieht [Regeln 5, 88.4 und 378.5].
 
-Bezug zum Übereinkommen: [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 46 Entscheidungen des EPG zitiert.
 
@@ -15385,7 +15817,7 @@ In 270 Entscheidungen des EPG zitiert.
 
 Das Verfahren vor dem Gericht erster Instanz umfasst die folgenden Abschnitte: (a) ein schriftliches Verfahren; (b) ein Zwischenverfahren, während dessen auch eine Zwischenanhörung mit den Parteien stattfinden kann; (c) ein mündliches Verfahren, das, vorbehaltlich der Regeln 116.1 und 117, eine mündliche Verhandlung der Parteien einschließt, sofern das Gericht nicht mit Zustimmung der Parteien auf eine mündliche Verhandlung verzichtet; (d) ein Schadensersatzverfahren, welches ein Verfahren zur Offenlegung der Bücher beinhalten kann; (e) ein Kostenfestsetzungsverfahren.
 
-Bezug zum Übereinkommen: [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 2 Entscheidungen des EPG zitiert.
 
@@ -15437,7 +15869,7 @@ In 12 Entscheidungen des EPG zitiert.
 
 Der Kläger hat die Festgebühr und gegebenenfalls die streitwertabhängige Gebühr für die Verletzungsklage gemäß Teil 6 zu entrichten.
 
-Bezug zum Übereinkommen: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 36 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 70 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 71 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 36 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 70 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 71 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 4 Entscheidungen des EPG zitiert.
 
@@ -15463,7 +15895,7 @@ In 9 Entscheidungen des EPG zitiert.
 
 Sind die Anforderungen der Regel 16.2 oder 16.3 erfüllt, (a) trägt die Kanzlei so bald wie möglich das Datum des Eingangs der Klageschrift ein und teilt der Akte ein Aktenzeichen zu, (b) nimmt die Kanzlei das Verfahren so bald wie möglich in das Register auf und (c) unterrichtet die Kanzlei den Kläger so bald wie möglich über das Aktenzeichen und das Eingangsdatum.
 
-Bezug zum Übereinkommen: [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 10 Entscheidungen des EPG zitiert.
 
@@ -15629,7 +16061,7 @@ In 49 Entscheidungen des EPG zitiert.
 
 Jede Klage auf Nichtigerklärung eines Patents ist gegen den Inhaber des Patents zu richten.
 
-Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 17 Entscheidungen des EPG zitiert.
 
@@ -15697,6 +16129,44 @@ In 18 Entscheidungen des EPG zitiert.
 
 ---
 
+**F:** Was regelt [R. 85 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Verfahrensabschnitte (Ex-parte-Verfahren))?
+
+**A:** Verfahrensabschnitte (Ex-parte-Verfahren)
+
+Wird gegen eine Entscheidung des Europäischen Patentamts, die im Rahmen der Ausführung der in Artikel 9 der Verordnung (EU) Nr. 1257/2012 genannten Aufgaben ergangen ist (im Folgenden „Entscheidung des Amtes“), Klage eingereicht, umfasst das Verfahren vor dem Gericht erster Instanz vorbehaltlich des Absatzes 2 (a) ein schriftliches Verfahren einschließlich der Möglichkeit einer Zwischenprüfung durch das Europäische Patentamt, (b) ein Zwischenverfahren, das auch eine Zwischenanhörung einschließen kann, und (c) ein mündliches Verfahren, das auf Antrag des Klägers oder auf Veranlassung des Gerich …
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 88 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Aufhebung oder Abänderung einer Entscheidung des Amtes)?
+
+**A:** Antrag auf Aufhebung oder Abänderung einer Entscheidung des Amtes
+
+Der Kläger hat einen Antrag auf Aufhebung oder Abänderung einer Entscheidung des Amtes innerhalb von zwei Monaten nach Zustellung der Entscheidung des Amtes bei der nach Artikel 7 Abs. 2 des Übereinkommens und Anhang II zum Übereinkommen zuständigen Kanzlei in der Sprache einzureichen, in der das Patent erteilt wurde.
+
+Bezug: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 47 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 7 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 91 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Zwischenprüfung durch das Europäische Patentamt)?
+
+**A:** Zwischenprüfung durch das Europäische Patentamt
+
+Ist das Europäische Patentamt der Ansicht, dass der Antrag auf Aufhebung oder Abänderung einer Entscheidung des Amtes begründet ist, hat es innerhalb von zwei Monaten ab Eingang des Antrags (a) die angefochtene Entscheidung gemäß der vom Kläger beantragten Anordnung oder Abhilfe zu berichtigen [Regel 88.2(g)] und (b) das Gericht darüber zu unterrichten, dass die Entscheidung berichtigt wurde.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
 **F:** Was regelt [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Aufhebung einer Entscheidung des Amtes, einen Antrag auf einheitliche Wirkung abzulehnen)?
 
 **A:** Antrag auf Aufhebung einer Entscheidung des Amtes, einen Antrag auf einheitliche Wirkung abzulehnen
@@ -15715,7 +16185,7 @@ In 7 Entscheidungen des EPG zitiert.
 
 Der Berichterstatter trifft während des Zwischenverfahrens alle notwendigen Vorbereitungen für die mündliche Verhandlung. Insbesondere kann er, sofern angebracht und vorbehaltlich des Mandats des Spruchkörpers, eine Zwischenanhörung mit den Parteien abhalten, auch mehrmalig, und die in Regel 334 vorgesehenen Befugnisse ausüben.
 
-Bezug zum Übereinkommen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 43 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 43 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 10 Entscheidungen des EPG zitiert.
 
@@ -15753,7 +16223,7 @@ In 10 Entscheidungen des EPG zitiert.
 
 Die Zwischenanhörung soll den Berichterstatter in die Lage versetzen, (a) die wichtigsten Punkte zu identifizieren und festzustellen, welche maßgeblichen Tatsachen streitig sind; (b) gegebenenfalls die Haltung der Parteien zu diesen Punkten und Tatsachen zu klären; (c) einen Zeitplan für den weiteren Verlauf des Verfahrens zu erstellen; (d) mit den Parteien die Möglichkeiten einer Streitbeilegung oder Nutzung des Zentrums zu erörtern; (e) gegebenenfalls Anordnungen hinsichtlich weiterer Schriftsätze, Unterlagen, Sachverständiger (einschließlich gerichtlicher Sachverständiger), Versuchen, Inspe …
 
-Bezug zum Übereinkommen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 29 Entscheidungen des EPG zitiert.
 
@@ -15791,7 +16261,7 @@ In 5 Entscheidungen des EPG zitiert.
 
 Spätestens einen Monat vor der mündlichen Verhandlung, einschließlich etwaiger gesonderter Vernehmungen von Zeugen und Sachverständigen, kann eine Partei einen Antrag auf Simultanverdolmetschung stellen, der Folgendes enthalten muss: (a) die Angabe der Sprache, in die oder aus der die Partei während der mündlichen Verhandlung eine Simultanverdolmetschung beantragt; (b) eine Begründung des Antrags; (c) das betreffende technische Fachgebiet; (d) alle sonstigen Informationen, die für den Antrag von Bedeutung sind.
 
-Bezug zum Übereinkommen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 51 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 51 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 23 Entscheidungen des EPG zitiert.
 
@@ -15817,7 +16287,7 @@ In 5 Entscheidungen des EPG zitiert.
 
 Die mündliche Verhandlung findet vor dem Spruchkörper und unter der Leitung des Vorsitzenden Richters statt.
 
-Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 52 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 6 Entscheidungen des EPG zitiert.
 
@@ -15843,7 +16313,7 @@ In 5 Entscheidungen des EPG zitiert.
 
 Die mündliche Verhandlung und alle gesonderten Zeugenvernehmungen sind öffentlich, es sei denn, das Gericht beschließt, eine Verhandlung, soweit erforderlich, im Interesse einer der Parteien oder Dritter oder im allgemeinen Interesse der Justiz oder der öffentlichen Ordnung unter Ausschluss der Öffentlichkeit zu führen. Es wird eine Tonaufzeichnung der Verhandlung angefertigt. Die Aufzeichnung wird den Parteien bzw. deren Vertretern nach der Anhörung in den Räumlichkeiten des Gerichts zugänglich gemacht. Regel 103 gilt entsprechend.
 
-Bezug zum Übereinkommen: [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 34 Entscheidungen des EPG zitiert.
 
@@ -15869,7 +16339,7 @@ In 2 Entscheidungen des EPG zitiert.
 
 Zusätzlich zu den Anordnungen und Maßnahmen und unbeschadet des in den Artikeln 63, 64, 67 und 80 des Übereinkommens vorgesehenen gerichtlichen Ermessens kann das Gericht auf Antrag die Zahlung von Schadenersatz oder Entschädigung gemäß den Artikeln 68 und 32 Absatz 1 Buchstabe f des Übereinkommens anordnen. Die Höhe des Schadenersatzes oder der Entschädigung kann in der Anordnung angegeben oder in einem gesonderten Verfahren bestimmt werden [Regeln 125-144].
 
-Bezug zum Übereinkommen: [Art. 77 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 77 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Entscheidung in der Sache: Anordnungen, Zwangsgeld, Sicherheitsleistung, Aussetzung bei parallelem EPA-Verfahren (Abs. 2), Vollstreckbarkeit (Abs. 8).
 
@@ -15909,7 +16379,7 @@ In 29 Entscheidungen des EPG zitiert.
 
 Wünscht die obsiegende Partei eine Festsetzung der Höhe des Schadenersatzes, muss sie innerhalb eines Jahres nach Zustellung der Endentscheidung in der Sache (einschließlich einer etwaigen Endentscheidung über eine Berufung) zur Verletzung und zur Rechtsgültigkeit (oder, im Falle der Zuerkennung einer Entschädigung gemäß den Regeln 118.1, 198.2, 213.2 oder 354.2 nach dem Tag des Zuspruchs) einen Antrag auf Festsetzung des Schadensersatzes stellen; dieser kann einen Antrag auf Anordnung der Offenlegung der Bücher beinhalten.
 
-Bezug zum Übereinkommen: [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 4 Entscheidungen des EPG zitiert.
 
@@ -15985,7 +16455,7 @@ In 34 Entscheidungen des EPG zitiert.
 
 Gegen die Kostenentscheidung des Berichterstatters kann nur gemäß Regel 221 Berufung vor dem Berufungsgericht eingelegt werden.
 
-Bezug zum Übereinkommen: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 34 Entscheidungen des EPG zitiert.
 
@@ -15999,7 +16469,7 @@ In 34 Entscheidungen des EPG zitiert.
 
 Das Gericht kann zu jedem Zeitpunkt des Verfahrens auf einen mit einer Begründung versehenen Antrag einer Partei anordnen, dass die andere Partei innerhalb einer festgelegten Frist für die Kosten des Rechtsstreits und sonstigen der antragstellenden Partei entstandenen und/oder noch entstehenden Kosten, welche die andere Partei möglicherweise tragen muss, angemessene Sicherheit zu leisten hat. Beschließt das Gericht, eine solche Sicherheitsleistung anzuordnen, hat es darüber zu entscheiden, ob die Sicherheitsleistung durch Hinterlegung oder Bankbürgschaft erfolgen soll.
 
-Bezug zum Übereinkommen: [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Prozesskostensicherheit: Gefährdung der Erstattung oder Vollstreckungsschwierigkeiten; Beweislast beim Antragsteller (EPG-BerG Aarke/SodaStream).
 
@@ -16039,7 +16509,7 @@ In 63 Entscheidungen des EPG zitiert.
 
 Die Beweismittel, die einer Partei in Bezug auf eine Tatsachenbehauptung, die von der anderen Partei bestritten wird oder wahrscheinlich bestritten wird, zur Verfügung stehen, müssen von der Partei, die die Tatsache behauptet, vorgelegt werden.
 
-Bezug zum Übereinkommen: [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 15 Entscheidungen des EPG zitiert.
 
@@ -16065,7 +16535,7 @@ In 6 Entscheidungen des EPG zitiert.
 
 Hat eine Partei alle vernünftigerweise verfügbaren und plausiblen Beweismittel zur Begründung ihrer Ansprüche vorgelegt und zur Begründung dieser Ansprüche Beweismittel bezeichnet, die sich in der Verfügungsgewalt der gegnerischen Partei oder einer dritten Partei befinden, kann das Gericht auf einen mit einer Begründung versehenen Antrag der Partei, welche die Beweismittel bezeichnet hat, die Vorlage dieser Beweismittel durch die gegnerische Partei oder die dritte Partei anordnen. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass die Beweismittel nur bestimmten namentlich  …
 
-Bezug zum Übereinkommen: [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Beweisvorlage nach [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) für substantiierte, bestrittene Tatsachen; keine Ausforschung.
 
@@ -16081,7 +16551,7 @@ In 70 Entscheidungen des EPG zitiert.
 
 Das Gericht kann auf einen mit einer Begründung versehenen Antrag einer Partei anordnen, dass Informationen gemäß Artikel 67 des Übereinkommens, die sich in der Verfügungsgewalt der anderen oder einer dritten Partei befinden, oder Informationen, welche die antragstellende Partei zum Zwecke der Rechtsverfolgung vernünftigerweise benötigt, von der anderen bzw. dritten Partei übermittelt werden müssen. Regel 190.1, zweiter Satz, .5 und .6 gilt entsprechend.
 
-Bezug zum Übereinkommen: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 44 Entscheidungen des EPG zitiert.
 
@@ -16095,7 +16565,7 @@ In 44 Entscheidungen des EPG zitiert.
 
 Ein Antrag auf Beweissicherung kann von einer Partei (im Sinne von Artikel 47 des Übereinkommens) (im Folgenden „der Antragsteller“) bei der Kammer gestellt werden, bei der der Antragsteller das Verletzungsverfahren in der Sache anhängig gemacht hat. Wird der Antrag gestellt, bevor das Verfahren in der Sache eingeleitet worden ist, muss er bei der Kammer gestellt werden, bei der der Antragsteller beabsichtigt, das Verfahren in der Sache einzuleiten.
 
-Bezug zum Übereinkommen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Antrag auf Beweissicherung: Angaben, Beweismittel, Offenlegungspflicht bei ex parte (Abs. 3, EPG-BerG Ecovacs/Roborock).
 
@@ -16123,7 +16593,7 @@ In 15 Entscheidungen des EPG zitiert.
 
 Das Gericht kann insbesondere Folgendes anordnen: (a) die Beweissicherung durch ausführliche Beschreibung mit oder ohne Einbehaltung von Mustern, (b) die dingliche Beschlagnahme der angeblich verletzenden Erzeugnisse, (c) die dingliche Beschlagnahme der für die Herstellung und/oder den Vertrieb dieser Erzeugnisse verwendeten Materialien und Geräte und der zugehörigen Unterlagen, (d) die Sicherung und Offenlegung digitaler Medien und Daten und die Offenlegung aller für den Zugang zu diesen erforderlichen Passwörter. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass diese Of …
 
-Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 27 Entscheidungen des EPG zitiert.
 
@@ -16137,7 +16607,7 @@ In 27 Entscheidungen des EPG zitiert.
 
 Das Gericht kann Maßnahmen zur Beweissicherung [Regel 196.1]ohne vorherige Anhörung des Antragsgegners insbesondere dann anordnen, wenn durch eine Verzögerung dem Antragsteller wahrscheinlich ein nicht wiedergutzumachender Schaden entstünde, oder wenn nachweislich die Gefahr besteht, dass Beweismittel vernichtet werden oder aus anderen Gründen nicht mehr verfügbar sein könnten.
 
-Bezug zum Übereinkommen: [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 42 Entscheidungen des EPG zitiert.
 
@@ -16151,7 +16621,7 @@ In 42 Entscheidungen des EPG zitiert.
 
 Das Gericht stellt sicher, dass eine Anordnung der Beweissicherung auf Antrag des Antragsgegners, unbeschadet etwaiger Schadenersatzforderungen, aufgehoben oder auf andere Weise außer Kraft gesetzt wird, wenn der Antragsteller nicht innerhalb einer Frist von 31 Kalendertagen oder 20 Werktagen – je nachdem, welcher Zeitraum länger ist – ab dem in der gerichtlichen Anordnung, unter angemessener Berücksichtigung des Datums, bis zu dem der Bericht gemäß Regel 196.4 vorliegen soll, festgelegten Datum das Hauptverfahren in der Sache bei dem Gericht einleitet.
 
-Bezug zum Übereinkommen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 26 Entscheidungen des EPG zitiert.
 
@@ -16165,7 +16635,7 @@ In 26 Entscheidungen des EPG zitiert.
 
 Das Gericht kann auf einen mit einer Begründung versehenen Antrag einer Partei eine Inspektion von Erzeugnissen, Vorrichtungen, Verfahren, Räumlichkeiten oder lokalen Gegebenheiten vor Ort anordnen. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass diese Offenlegung nur gegenüber bestimmten namentlich benannten Personen erfolgt und einer angemessenen Geheimhaltungspflicht gemäß Artikel 58 des Übereinkommens unterliegt.
 
-Bezug zum Übereinkommen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 15 Entscheidungen des EPG zitiert.
 
@@ -16191,7 +16661,7 @@ In 12 Entscheidungen des EPG zitiert.
 
 Ein Antrag auf einstweilige Maßnahmen kann von einer Partei (im Folgenden „der Antragsteller“) bei dem Gericht vor oder nach Einleitung des Hauptverfahrens in der Sache gestellt werden.
 
-Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Antrag auf einstweilige Maßnahmen: Angaben zu Rechtsbestand, Verletzung, Dringlichkeit; Schutzschrift nach R. 207 ist zu berücksichtigen.
 
@@ -16235,7 +16705,7 @@ In 56 Entscheidungen des EPG zitiert.
 
 Das Gericht kann insbesondere folgende einstweiligen Maßnahmen anordnen: (a) Verfügungen gegen einen Antragsgegner; (b) Beschlagnahme oder Herausgabe von Erzeugnissen, bei denen der Verdacht auf Verletzung eines Patentrechts besteht, um deren Inverkehrbringen und Umlauf auf den Vertriebswegen zu verhindern; (c) wenn ein Antragsteller glaubhaft macht, dass die Erfüllung seiner Schadenersatzansprüche fraglich ist, die vorsorgliche Beschlagnahme beweglichen und unbeweglichen Vermögens des Antragsgegners einschließlich der Sperrung der Bankkonten und der Beschlagnahme sonstiger Vermögenswerte des  …
 
-Bezug zum Übereinkommen: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Entscheidung: hinreichende Sicherheit (Abs. 2 – überwiegend wahrscheinlich, EPG-BerG NanoString/10x), Interessenabwägung (Abs. 3), unangemessene Verzögerung (Abs. 4), Sicherheitsleistung (Abs. 5).
 
@@ -16251,7 +16721,7 @@ In 108 Entscheidungen des EPG zitiert.
 
 Das Gericht kann einstweilige Maßnahmen ohne vorherige Anhörung des Antragsgegners insbesondere dann anordnen, wenn durch eine Verzögerung dem Antragsteller wahrscheinlich ein nicht wieder gutzumachender Schaden entstünde oder wenn nachweislich die Gefahr besteht, dass Beweismittel vernichtet werden. Regel 197 gilt entsprechend.
 
-Bezug zum Übereinkommen: [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 26 Entscheidungen des EPG zitiert.
 
@@ -16265,7 +16735,7 @@ In 26 Entscheidungen des EPG zitiert.
 
 Das Gericht stellt sicher, dass einstweilige Maßnahmen auf Antrag des Antragsgegners, unbeschadet etwaiger Schadenersatzforderungen, aufgehoben oder auf andere Weise außer Kraft gesetzt werden, wenn der Antragsteller nicht innerhalb einer Frist von 31 Kalendertagen oder 20 Werktagen – je nachdem, welcher Zeitraum länger ist – ab dem in der Anordnung des Gerichts festgelegten Datum bei dem Gericht das Verfahren in der Sache einleitet. Bei der Festlegung des Datums trägt das Gericht, wo anwendbar, dem Datum, an dem der Bericht nach Regel 196.4 vorgelegt werden soll, angemessen Rechnung.
 
-Bezug zum Übereinkommen: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 68 Entscheidungen des EPG zitiert.
 
@@ -16279,7 +16749,7 @@ In 68 Entscheidungen des EPG zitiert.
 
 Eine beschwerte Partei kann Berufung einlegen gegen (a) Endentscheidungen des Gerichts erster Instanz; (b) Entscheidungen, die das Verfahren bezüglich einer der Parteien beenden; (c) die in den Artikeln 49 Absatz 5, 59, 60, 61, 62 oder 67 des Übereinkommens genannten Anordnungen.
 
-Bezug zum Übereinkommen: [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Berufung: gegen Endentscheidungen und aufgezählte Anordnungen (Abs. 1), sonst nur mit Zulassung (Abs. 2) oder nach Ermessensüberprüfung (Abs. 3, 4).
 
@@ -16307,7 +16777,7 @@ In 39 Entscheidungen des EPG zitiert.
 
 Die von den Parteien gemäß den Regeln 221, 225, 226, 236 und 238 vorgebrachten Anträge, Tatsachen, Beweismittel und rechtlichen Ausführungen stellen vorbehaltlich des Absatzes 2 den Gegenstand des Verfahrens vor dem Berufungsgericht dar. Das Berufungsgericht zieht die Akte des Verfahrens vor dem Gericht erster Instanz bei.
 
-Bezug zum Übereinkommen: [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Berufungsgegenstand: neue Tatsachen und Beweismittel nur ausnahmsweise (Abs. 2); Ermessen des Berufungsgerichts.
 
@@ -16323,7 +16793,7 @@ In 72 Entscheidungen des EPG zitiert.
 
 Eine Partei kann gemäß Artikel 74 des Übereinkommens einen Antrag auf aufschiebende Wirkung stellen. Der Antragsteller hat eine Gebühr für den Antrag gemäß Teil 6 zu entrichten.
 
-Bezug zum Übereinkommen: [Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Aufschiebende Wirkung nur auf Antrag und bei außergewöhnlichen Umständen; Antrag muss vollständig sein (EPG-BerG Amycel).
 
@@ -16339,7 +16809,7 @@ In 69 Entscheidungen des EPG zitiert.
 
 Der Berufungskläger muss die Berufungsschrift einreichen: (a) innerhalb von zwei Monaten nach Zustellung einer in Regel 220.1(a) oder (b) genannten Entscheidung oder (b) innerhalb von 15 Tagen nach Zustellung einer in Regel 220.1 (c) genannten Anordnung oder in Regel 220.2 oder 221.3 genannten Entscheidung.
 
-Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 73 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Berufungsfrist: zwei Monate (Endentscheidung) bzw. 15 Tage (Anordnungen) ab Zustellung der begründeten Entscheidung.
 
@@ -16403,7 +16873,7 @@ In 8 Entscheidungen des EPG zitiert.
 
 Das Berufungsgericht weist die Berufung entweder zurück oder hebt die Entscheidung oder Anordnung ganz oder teilweise auf und ersetzt sie durch eine eigene Entscheidung oder Anordnung, auch hinsichtlich der Auferlegung der Kosten sowohl des erstinstanzlichen als auch des Berufungsverfahrens.
 
-Bezug zum Übereinkommen: [Art. 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 75 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 35 Entscheidungen des EPG zitiert.
 
@@ -16417,7 +16887,7 @@ In 35 Entscheidungen des EPG zitiert.
 
 Jede Partei, die durch eine Endentscheidung des Gerichts erster Instanz, für die die Frist zur Einlegung einer Berufung abgelaufen ist, oder des Berufungsgerichts (im Folgenden „die Endentscheidung“) beschwert ist (im Folgenden „der Antragsteller“), kann einen Antrag auf Wiederaufnahme des Verfahrens stellen.
 
-Bezug zum Übereinkommen: [Art. 81 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 81 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 8 Entscheidungen des EPG zitiert.
 
@@ -16443,7 +16913,7 @@ In 4 Entscheidungen des EPG zitiert.
 
 Unbeschadet der Artikel 58 und 60 Absatz 1 des Übereinkommens und vorbehaltlich der Regeln 190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 und 365.2 und - soweit veranlasst - Schwärzung personenbezogener Daten im Sinne der Verordnung (EU) 2016/679 sowie vertraulicher Informationen nach Absatz 2 sind (a) Entscheidungen und Anordnungen des Gerichts zu veröffentlichen, (b) Schriftsätze und Beweismittel, die beim Gericht eingereicht und von der Kanzlei aufgenommen worden sind, der Öffentlichkeit auf einen an die Kanzlei zu richtenden begründeten Antrag zugänglich zu machen; die Entscheidung …
 
-Bezug zum Übereinkommen: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Öffentlichkeit des Registers; Zugang zu Schriftsätzen und Beweismitteln nur auf begründeten Antrag (Abs. 1 lit. b).
 
@@ -16459,7 +16929,7 @@ In 199 Entscheidungen des EPG zitiert.
 
 Unbeschadet des Artikels 60 Abs. 1 des Übereinkommens und der Regeln 190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 und 365.2 kann eine Partei beim Gericht einen Antrag auf Erlass einer Anordnung stellen, den Zugriff auf bestimmte in ihren Schriftsätzen enthaltene Informationen oder die Erhebung und Verwendung von Beweisen im Verfahren einzuschränken oder für unzulässig zu erklären oder den Zugang zu solchen Informationen oder Beweismitteln auf bestimmte Personen zu beschränken.
 
-Bezug zum Übereinkommen: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Schutz vertraulicher Informationen: Antrag bei Einreichung, Vertraulichkeitskreis mit mindestens einer natürlichen Person je Partei (Abs. 6), Interessenabwägung.
 
@@ -16575,7 +17045,7 @@ In 7 Entscheidungen des EPG zitiert.
 
 Vertreter der Parteien dürfen Fälle oder Sachverhalte vor dem Gericht weder wissentlich noch aufgrund fahrlässiger Unkenntnis falsch darstellen.
 
-Bezug zum Übereinkommen: [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 48 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 12 Entscheidungen des EPG zitiert.
 
@@ -16675,7 +17145,7 @@ In 8 Entscheidungen des EPG zitiert.
 
 Während des schriftlichen Verfahrens kann eine Partei jederzeit einen Antrag beider Parteien einreichen, die Sprache, in der das Patent erteilt wurde, gemäß Artikel 49 Absatz 3 des Übereinkommens als Verfahrenssprache zu verwenden. Aus dem Antrag muss hervorgehen, dass sich beide Parteien darauf verständigt haben, die Sprache, in der das Patent erteilt wurde, als Verfahrenssprache zu verwenden.
 
-Bezug zum Übereinkommen: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 7 Entscheidungen des EPG zitiert.
 
@@ -16689,7 +17159,7 @@ In 7 Entscheidungen des EPG zitiert.
 
 Möchte eine Partei die Sprache, in der das Patent erteilt wurde, gemäß Artikel 49 Absatz 5 des Übereinkommens als Verfahrenssprache verwenden, hat sie einen entsprechenden Antrag der Klageschrift, im Falle des Klägers, bzw. der der Klageerwiderung, im Falle des Beklagten, beizufügen. Der Berichterstatter leitet den Antrag dem Präsidenten des Gerichts erster Instanz zu.
 
-Bezug zum Übereinkommen: [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 49 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 5 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 48 Entscheidungen des EPG zitiert.
 
@@ -16753,7 +17223,7 @@ In 65 Entscheidungen des EPG zitiert.
 
 Vorbehaltlich der Regeln 118.8 und 352 sind Entscheidungen und Anordnungen des Gerichts ab dem Tag ihrer Zustellung in jedem Vertragsmitgliedstaat unmittelbar vollstreckbar. Die Vollstreckung erfolgt nach den im Recht des Vertragsmitgliedstaats, in dem die Vollstreckung stattfindet, geregelten Vollstreckungsverfahren und -bedingungen.
 
-Bezug zum Übereinkommen: [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 Hinweis: Vollstreckung: Anordnungen sofort vollstreckbar; Zwangsgeld (Abs. 3, 4); Sicherheitsleistung; Aufhebung wirkt zurück (EPG-BerG Kodak/Fujifilm).
 
@@ -16831,10 +17301,640 @@ In 171 Entscheidungen des EPG zitiert.
 
 Die in Abschnitt I und Abschnitt IV der Gebührentabelle vorgesehenen Festgebühren und die in Abschnitt III der Gebührentabelle vorgesehenen Gebühren für andere Verfahren und Verfahrenshandlungen sind zum Zeitpunkt der Einreichung des betreffenden Schriftsatzes oder Antrags zu entrichten. Die Zahlung hat auf eines der vom Gericht angegebenen Bankkonten zu erfolgen und die Angabe der zahlenden Partei oder ihres Vertreters zusammen mit der Nummer des betreffenden Patents und des Aktenzeichens zu enthalten.
 
-Bezug zum Übereinkommen: [Art. 70 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+Bezug: [Art. 70 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
 In 6 Entscheidungen des EPG zitiert.
 
 *Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [Art. 1 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Gegenstand)?
+
+**A:** Gegenstand
+
+Mit dieser Verordnung wird die mit Beschluss 2011/167/EU genehmigte verstärkte Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes umgesetzt.
+
+Hinweis: Verstärkte Zusammenarbeit nach Art. 20 EUV: 25 Mitgliedstaaten (alle außer Spanien und Kroatien). Die Verordnung ist ein „besonderes Übereinkommen“ im Sinne von Art. 142 EPÜ.
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Begriffsbestimmungen)?
+
+**A:** Begriffsbestimmungen
+
+Für die Zwecke dieser Verordnung gelten die folgenden Begriffsbestimmungen: a) "Teilnehmender Mitgliedstaat" bezeichnet einen Mitgliedstaat, der an der verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes auf der Grundlage des Beschlusses 2011/167/EU oder auf der Grundlage eines gemäß Artikel 331 Absatz 1 Unterabsatz 2 oder 3 AEUV gefassten Beschlusses zum Zeitpunkt des in Artikel 9 genannten Antrags auf einheitliche Wirkung teilnimmt. b) "Europäisches Patent" bezeichnet ein Patent, das vom Europäischen Patentamt (im Folgenden "EPA") nach den Regeln und Verfah …
+
+Entspricht: [Art. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: „Teilnehmender Mitgliedstaat“ ist nur ein an der Verstärkten Zusammenarbeit beteiligter EU-Staat; wirken kann das Einheitspatent aber nur dort, wo das EPGÜ bei Eintragung in Kraft ist (Art. 18 Abs. 2).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Europäisches Patent mit einheitlicher Wirkung)?
+
+**A:** Europäisches Patent mit einheitlicher Wirkung
+
+Ein Europäisches Patent, das mit den gleichen Ansprüchen für alle teilnehmenden Mitgliedstaaten erteilt wurde, hat einheitliche Wirkung in den teilnehmenden Mitgliedstaaten, sofern seine einheitliche Wirkung in dem Register für den einheitlichen Patentschutz eingetragen wurde. Ein Europäisches Patent, das mit unterschiedlichen Ansprüchen für verschiedene teilnehmende Mitgliedstaaten erteilt wurde, hat keine einheitliche Wirkung.
+
+Entspricht: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Voraussetzung: Erteilung mit denselben Ansprüchen für alle teilnehmenden Mitgliedstaaten (Abs. 1; [R. 5 Abs. 2 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Einheitlicher Charakter (Abs. 2): Beschränkung, Übertragung, Nichtigerklärung und Erlöschen nur für alle Staaten zugleich, Lizenzen auch für Teilgebiete.
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 4 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Tag des Eintritts der Wirkung)?
+
+**A:** Tag des Eintritts der Wirkung
+
+Ein Europäisches Patent mit einheitlicher Wirkung wird am Tag der Veröffentlichung des Hinweises auf die Patenterteilung im Europäischen Patentblatt durch das EPA in den teilnehmenden Mitgliedstaaten wirksam.
+
+Hinweis: Wirksam am Tag der Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt, also rückwirkend zur Eintragung. Abs. 2: Die Mitgliedstaaten sorgen dafür, dass das europäische Patent für sie nicht daneben als nationales Patent wirkt.
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Einheitlicher Schutz)?
+
+**A:** Einheitlicher Schutz
+
+Das Europäische Patent mit einheitlicher Wirkung verleiht seinem Inhaber das Recht, Dritte daran zu hindern, Handlungen zu begehen, gegen die dieses Patent innerhalb der Hoheitsgebiete der teilnehmenden Mitgliedstaaten, in denen das Patent einheitliche Wirkung besitzt, vorbehaltlich geltender Beschränkungen Schutz bietet.
+
+Entspricht: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Das materielle Recht (Verletzungshandlungen, Beschränkungen) steht nicht in der Verordnung, sondern über die Verweisung des Abs. 3 im nationalen Recht des Staates nach Art. 7 – und damit für alle Vertragsmitgliedstaaten in [Art. 25 bis 30 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 6 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Erschöpfung der Rechte aus einem Europäischen Patent mit einheitlicher Wirkung)?
+
+**A:** Erschöpfung der Rechte aus einem Europäischen Patent mit einheitlicher Wirkung
+
+Die durch das Europäische Patent mit einheitlicher Wirkung verliehenen Rechte erstrecken sich nicht auf Handlungen, die ein durch das Patent geschütztes Erzeugnis betreffen und in den teilnehmenden Mitgliedstaaten vorgenommen werden, in denen dieses Patent einheitliche Wirkung hat, nachdem das Erzeugnis vom Patentinhaber oder mit seiner Zustimmung in der Union in Verkehr gebracht worden ist, es sei denn, der Patentinhaber hat berechtigte Gründe, sich dem weiteren Vertrieb des Erzeugnisses zu widersetzen.
+
+Entspricht: [Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Unionsweite Erschöpfung; wortgleich mit [Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Behandlung des Europäischen Patents mit einheitlicher Wirkung wie ein nationales Patent)?
+
+**A:** Behandlung des Europäischen Patents mit einheitlicher Wirkung wie ein nationales Patent
+
+Ein Europäisches Patent mit einheitlicher Wirkung als Gegenstand des Vermögens ist in seiner Gesamtheit und in allen teilnehmenden Mitgliedstaaten wie ein nationales Patent des teilnehmenden Mitgliedstaats zu behandeln, in dem dieses Patent einheitliche Wirkung hat, und in dem, gemäß dem Europäischen Patentregister: a) der Patentanmelder zum Zeitpunkt der Einreichung einer Anmeldung eines Europäischen Patents seinen Wohnsitz oder den Sitz seiner Hauptniederlassung hat oder, b) sofern Buchstabe a nicht zutrifft, der Patentanmelder zum Zeitpunkt der Einreichung einer Anmeldung eines Europäischen …
+
+Hinweis: Kollisionsnorm für das Einheitspatent als Gegenstand des Vermögens: Recht des teilnehmenden Mitgliedstaats, in dem der Anmelder am Anmeldetag Wohnsitz oder Hauptniederlassung hatte, hilfsweise eine Niederlassung ([R. 16 Abs. 1 lit. w DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)), sonst deutsches Recht (Abs. 3, Sitz der EPO).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Lizenzbereitschaft)?
+
+**A:** Lizenzbereitschaft
+
+Der Inhaber eines Europäischen Patents mit einheitlicher Wirkung kann dem EPA eine Erklärung vorlegen, dass der Patentinhaber bereit ist, jedermann die Benutzung der Erfindung als Lizenznehmer gegen angemessene Vergütung zu gestatten.
+
+Entspricht: [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Lizenzbereitschaftserklärung gegenüber dem EPA; Vertragslizenz kraft Gesetzes (Abs. 2). Folge: 15 % Ermäßigung der Jahresgebühren ([R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 3 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)); die angemessene Vergütung bestimmt das EPG ([Art. 32 Abs. 1 lit. h EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Verwaltungsaufgaben im Rahmen der Europäischen Patentorganisation)?
+
+**A:** Verwaltungsaufgaben im Rahmen der Europäischen Patentorganisation
+
+Die teilnehmenden Mitgliedstaaten übertragen dem EPA im Sinne von Artikel 143 EPÜ die folgenden Aufgaben, die das EPA gemäß seinen internen Regeln ausführt: a) die Verwaltung von Anträgen von Inhabern Europäischer Patente auf einheitliche Wirkung; b) die Eingliederung des Registers für den einheitlichen Patentschutz in das Europäische Patentregister und die Verwaltung des Registers für den einheitlichen Patentschutz; c) die Entgegennahme und Eintragung von Erklärungen über die Lizenzbereitschaft gemäß Artikel 8, deren Rücknahme sowie die Lizenzzusagen des Inhabers des Europäischen Patents mit  …
+
+Entspricht: [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Aufgabenkatalog des EPA nach Art. 143 EPÜ: Anträge auf einheitliche Wirkung (lit. a, g), Register (lit. b), Lizenzbereitschaft (lit. c), Übersetzungen (lit. d), Jahresgebühren (lit. e, f), Kompensation (lit. f). Abs. 3: Klagen gegen EPA-Entscheidungen zum EPG ([Art. 32 Abs. 1 lit. i EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 11 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Jahresgebühren)?
+
+**A:** Jahresgebühren
+
+Die Jahresgebühren für Europäische Patente mit einheitlicher Wirkung und die zusätzlichen Gebühren für die verspätete Zahlung der Jahresgebühren für diese Patente sind vom Patentinhaber an die Europäische Patentorganisation zu entrichten. Diese Jahresgebühren sind in den Folgejahren des Jahres fällig, in dem der Hinweis auf die Erteilung des Europäischen Patents mit einheitlicher Wirkung im Europäischen Patentblatt veröffentlicht wird.
+
+Hinweis: Eine einzige Jahresgebühr an das EPA, fällig ab dem Folgejahr des Erteilungshinweises; Zahlung ohne Vertreterzwang. Durchführung in [R. 13 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 12 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Höhe der Jahresgebühren)?
+
+**A:** Höhe der Jahresgebühren
+
+Die Jahresgebühren für Europäische Patente mit einheitlicher Wirkung a) sind über die gesamte Laufzeit des Patents hinweg progressiv gestaltet, b) sind ausreichend, um sämtliche Kosten für die Erteilung und Verwaltung des einheitlichen Patentschutzes abzudecken, und c) sind ausreichend, damit sie zusammen mit den an die Europäische Patentorganisation in der Antragsphase zu entrichtenden Gebühren einen ausgeglichenen Haushalt der Organisation sicherstellen.
+
+Hinweis: Grundsätze der Gebührenhöhe (progressiv, kostendeckend, KMU-freundlich); tatsächlich festgesetzt als Summe der vier validierungsstärksten Staaten von 2015 („True Top 4“) in [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 13 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Verteilung)?
+
+**A:** Verteilung
+
+Das EPA behält 50 % der in Artikel 11 genannten Jahresgebühren ein, die für Europäische Patente mit einheitlicher Wirkung entrichtet werden. Der Restbetrag wird entsprechend der nach Maßgabe des Artikels 9 Absatz 2 festgelegten Verteilung der Anteile der Jahresgebühren auf die teilnehmenden Mitgliedstaaten aufgeteilt.
+
+Hinweis: Das EPA behält 50 % der Jahresgebühren, der Rest wird nach einem Schlüssel des Engeren Ausschusses an die teilnehmenden Mitgliedstaaten verteilt.
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 18 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (Inkrafttreten und Anwendung)?
+
+**A:** Inkrafttreten und Anwendung
+
+Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.
+
+Entspricht: [Art. 89 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: In Kraft seit 20.1.2013, anwendbar seit 1.6.2023 (Inkrafttreten des EPGÜ). Abs. 2: einheitliche Wirkung nur für Staaten, in denen das EPGÜ bei Eintragung in Kraft ist – Grundlage der „Generationen“ von Einheitspatenten (17 Staaten ab 1.6.2023, 18 mit Rumänien ab 1.9.2024).
+
+*Tags: EPG, EPatVO*
+
+---
+
+**F:** Was regelt [Art. 1 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260) (Gegenstand)?
+
+**A:** Gegenstand
+
+Diese Verordnung setzt die mit Beschluss Nr. 2011/167/EU genehmigte verstärkte Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes im Hinblick auf die anzuwendenden Übersetzungsregelungen um.
+
+*Tags: EPG, EPatÜVO*
+
+---
+
+**F:** Was regelt [Art. 3 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260) (Übersetzungsregelungen für das Europäische Patent mit einheitlicher Wirkung)?
+
+**A:** Übersetzungsregelungen für das Europäische Patent mit einheitlicher Wirkung
+
+Unbeschadet der Artikel 4 und Artikel 6 dieser Verordnung sind keine weiteren Übersetzungen erforderlich, wenn die Patentschrift eines Europäischen Patents, das einheitliche Wirkung genießt, gemäß Artikel 14 Absatz 6 EPÜ veröffentlicht wurde.
+
+Hinweis: Grundsatz: Nach Veröffentlichung der Patentschrift in der EPA-Verfahrenssprache (mit Ansprüchen in den beiden anderen Amtssprachen, Art. 14 Abs. 6 EPÜ) sind keine weiteren Übersetzungen erforderlich – sobald die Übergangszeit des Art. 6 abgelaufen ist.
+
+*Tags: EPG, EPatÜVO*
+
+---
+
+**F:** Was regelt [Art. 4 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260) (Übersetzung im Falle eines Rechtsstreits)?
+
+**A:** Übersetzung im Falle eines Rechtsstreits
+
+Im Falle eines Rechtsstreits bezüglich einer mutmaßlichen Verletzung eines Europäischen Patents mit einheitlicher Wirkung hat der Patentinhaber auf Antrag und nach Wahl eines mutmaßlichen Patentrechtsverletzers eine vollständige Übersetzung des Europäischen Patents mit einheitlicher Wirkung in eine Amtssprache entweder des teilnehmenden Mitgliedstaats vorzulegen, in dem die mutmaßliche Patentrechtsverletzung stattgefunden hat oder des Mitgliedstaats, in dem der mutmaßliche Patentrechtsverletzer ansässig ist.
+
+Entspricht: [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Übersetzung im Streitfall auf Kosten des Inhabers: auf Verlangen des mutmaßlichen Verletzers in eine Amtssprache des Verletzungs- oder Sitzstaats (Abs. 1), auf Anforderung des Gerichts in die Verfahrenssprache (Abs. 2). Abs. 4: gutgläubige KMU und natürliche Personen vor Erhalt der Übersetzung – zu berücksichtigen beim Schadensersatz ([Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))).
+
+*Tags: EPG, EPatÜVO*
+
+---
+
+**F:** Was regelt [Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260) (Verwaltung des Kompensationssystems)?
+
+**A:** Verwaltung des Kompensationssystems
+
+In Anbetracht dessen, dass Europäische Patentanmeldungen gemäß Artikel 14 Absatz 2 EPÜ in einer beliebigen Sprache eingereicht werden können, übertragen die teilnehmenden Mitgliedstaaten gemäß Artikel 9 der Verordnung (EU) Nr. 1257/2012 und im Sinne des Artikels 143 EPÜ dem EPA die Aufgabe, ein Kompensationssystem zur Erstattung aller Übersetzungskosten zu verwalten, durch das den Patentanmeldern, die beim EPA ein Patent in einer Amtssprache der Union einreichen, die keine Amtssprache des EPA ist, diese Kosten bis zu einem Höchstbetrag erstattet werden.
+
+Hinweis: Kompensation der Übersetzungskosten in der Anmeldephase für KMU, natürliche Personen, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen und öffentliche Forschungseinrichtungen mit Sitz in der EU, die in einer anderen EU-Amtssprache als Deutsch, Englisch oder Französisch angemeldet haben; Pauschale 500 EUR ([R. 8 bis 11 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [Art. 4 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)).
+
+*Tags: EPG, EPatÜVO*
+
+---
+
+**F:** Was regelt [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260) (Übergangsmaßnahmen)?
+
+**A:** Übergangsmaßnahmen
+
+Während eines Übergangszeitraums, der an dem Tag des Geltungsbeginns dieser Verordnung beginnt, ist gemeinsam mit dem Antrag auf einheitliche Wirkung gemäß Artikel 9 der Verordnung (EU) Nr. 1257/2012 Folgendes beizufügen: a) sofern die Verfahrenssprache Französisch oder Deutsch ist, eine vollständige Übersetzung der Patentschrift des Europäischen Patents ins Englische oder b) sofern die Verfahrenssprache Englisch ist, eine vollständige Übersetzung der Patentschrift des Europäischen Patents in eine andere Amtssprache der Union.
+
+Hinweis: Übergangszeit von sechs Jahren ab 1.6.2023, verlängerbar bis höchstens zwölf Jahre: Mit dem Antrag auf einheitliche Wirkung ist eine vollständige Übersetzung der Patentschrift einzureichen – ins Englische bei Verfahrenssprache Deutsch oder Französisch, in eine andere EU-Amtssprache bei Verfahrenssprache Englisch ([R. 6 Abs. 2 lit. d DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Nur Information, keine Rechtswirkung (Abs. 2).
+
+*Tags: EPG, EPatÜVO*
+
+---
+
+**F:** Was regelt [R. 1 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Gegenstand)?
+
+**A:** Gegenstand
+
+Hiermit übertragen die teilnehmenden Mitgliedstaaten dem Europäischen Patentamt die in Artikel 9 Absatz 1 der Verordnung (EU) Nr. 1257/2012 genannten Aufgaben. Bei der Durchführung dieser Aufgaben wendet das Europäische Patentamt diese Durchführungsordnung an und ist im Falle von Klagen nach Artikel 32 Absatz 1 i) des Übereinkommens über ein Einheitliches Patentgericht 2 an die Entscheidungen des Einheitlichen Patentgerichts gebunden.
+
+Bezug: [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Gegenstand: Verfahren vor dem EPA nach beiden Verordnungen. Abs. 1: Das EPA ist bei Klagen gegen die Abteilung für den einheitlichen Patentschutz an die Entscheidungen des EPG gebunden.
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Aufgaben und Befugnisse des Präsidenten des Europäischen Patentamts)?
+
+**A:** Aufgaben und Befugnisse des Präsidenten des Europäischen Patentamts
+
+Die Leitung der in Regel 4 genannten Abteilung für den einheitlichen Patentschutz obliegt dem Präsidenten des Europäischen Patentamts, der dem Engeren Ausschuss des Verwaltungsrats gegenüber für die Tätigkeit der Abteilung verantwortlich ist. Zu diesem Zweck ist Artikel 10 Absätze 2 EPÜ und Artikel 10 Absätze 3 EPÜ entsprechend anzuwenden.
+
+Hinweis: Grundlage der UP-Richtlinien: Der Präsident des EPA erlässt nach [R. 3 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) i.V.m. Art. 10 Abs. 2 lit. a EPÜ die Verwaltungsvorschriften für die Abteilung für den einheitlichen Patentschutz (UP-Richtlinien, Ausgabe April 2026).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 4 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Abteilung für den einheitlichen Patentschutz)?
+
+**A:** Abteilung für den einheitlichen Patentschutz
+
+Im Europäischen Patentamt wird hiermit eine Abteilung für den einheitlichen Patentschutz als besonderes Organ im Sinne von Artikel 143 Absatz 2 EPÜ gebildet.
+
+Bezug: [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Die Abteilung für den einheitlichen Patentschutz ist eine eigene Abteilung des EPA; jede Entscheidung trifft ein rechtskundiges Mitglied (Abs. 3).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 5 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Allgemeines)?
+
+**A:** Allgemeines
+
+Auf Antrag des Inhabers eines europäischen Patents wird die einheitliche Wirkung vom Europäischen Patentamt in das Register für den einheitlichen Patentschutz eingetragen.
+
+Bezug: [Art. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Anspruchsberechtigung: Antrag durch den Inhaber (Abs. 1); Erteilung mit denselben Ansprüchen für alle 25 teilnehmenden Mitgliedstaaten (Abs. 2 lit. a) – deshalb keine einheitliche Wirkung bei zurückgenommener Benennung oder bei Anmeldungen vor dem 1.3.2007 (Beitritt Maltas). Abs. 2 lit. b (seit 15.11.2024): keine einheitliche Wirkung für sanktionierte Inhaber (14. EU-Sanktionspaket).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 6 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Erfordernisse des Antrags auf einheitliche Wirkung)?
+
+**A:** Erfordernisse des Antrags auf einheitliche Wirkung
+
+Der Antrag auf einheitliche Wirkung ist spätestens einen Monat nach Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt beim Europäischen Patentamt zu stellen.
+
+Bezug: [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Die Klausurnorm des Einheitspatents: Frist ein Monat ab Bekanntmachung des Erteilungshinweises, nicht verlängerbar, aber wiedereinsetzbar (R. 22 Abs. 2: zwei Monate ab Fristablauf). Schriftlich, in der Verfahrenssprache, Formblatt 7000; Inhalt nach Abs. 2 einschließlich der Übersetzung nach [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260). Ein früher Antrag nach der Erteilungsentscheidung ist möglich (Formblatt 2006A).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 7 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Prüfung des Antrags durch das Europäische Patentamt)?
+
+**A:** Prüfung des Antrags durch das Europäische Patentamt
+
+Sind die Erfordernisse der Regel 5 Absatz 2 erfüllt und entspricht der Antrag auf einheitliche Wirkung Regel 6, so trägt das Europäische Patentamt die einheitliche Wirkung in das Register für den einheitlichen Patentschutz ein und teilt dem Antragsteller den Tag dieser Eintragung mit.
+
+Bezug: [Art. 4 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Prüfung: Eintragung und Mitteilung des Eintragungstags (Abs. 1, Formblatt 7030); beabsichtigte Zurückweisung mit rechtlichem Gehör (Abs. 2, Art. 113 Abs. 1 EPÜ); Mängel nach R. 6 Abs. 2 binnen einer nicht verlängerbaren Monatsfrist behebbar (Abs. 3), für die es keine Wiedereinsetzung gibt (R. 22 Abs. 6; EPG-BerG Bodycap/EPA).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 8 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Definition und Anspruchsberechtigte)?
+
+**A:** Definition und Anspruchsberechtigte
+
+Inhaber europäischer Patente mit einheitlicher Wirkung, für die die europäische Patentanmeldung in einer anderen Amtssprache der Europäischen Union als Deutsch, Englisch oder Französisch eingereicht wurde, haben Anspruch auf eine Kompensation von Übersetzungskosten, wenn sie ihren Wohnsitz oder Sitz in einem Mitgliedstaat der Europäischen Union haben und eine Einheit oder eine natürliche Person im Sinne des Absatzes 2 sind.
+
+Bezug: [Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)
+
+Hinweis: Kompensation: Anmeldung in einer anderen EU-Amtssprache als Deutsch, Englisch, Französisch (Abs. 1); Berechtigte: KMU (Empfehlung 2003/361/EG), natürliche Personen, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen, öffentliche Forschungseinrichtungen mit Sitz in der EU (Abs. 2); bei mehreren Inhabern oder Rechtsübergang müssen alle die Kriterien erfüllen (Abs. 3, 4); auch Euro-PCT-Anmeldungen (Abs. 5).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 9 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Antrag auf Kompensation)?
+
+**A:** Antrag auf Kompensation
+
+Der Inhaber eines europäischen Patents, der eine Kompensation nach Regel 8 in Anspruch nehmen möchte, muss zusammen mit dem Antrag auf einheitliche Wirkung gemäß Regel 6 einen entsprechenden Antrag stellen.
+
+Bezug: [Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)
+
+Hinweis: Der Antrag auf Kompensation ist zusammen mit dem Antrag auf einheitliche Wirkung zu stellen (Kästchen im Formblatt 7000) und enthält eine Erklärung über den Status des Inhabers.
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 10 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Prüfung des Antrags und Gewährung der Kompensation)?
+
+**A:** Prüfung des Antrags und Gewährung der Kompensation
+
+Nachdem das Europäische Patentamt die einheitliche Wirkung des europäischen Patents in das Register für den einheitlichen Patentschutz eingetragen und den Antrag auf Kompensation geprüft hat, teilt es dem Patentinhaber mit, ob dem Antrag stattgegeben oder dieser zurückgewiesen wurde.
+
+Bezug: [Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)
+
+Hinweis: Gewährung erst nach Eintragung der einheitlichen Wirkung (Abs. 1), danach unwiderruflich (Abs. 2). Bei Zweifeln Beweismittel (Abs. 3); bei unrichtiger Erklärung Rückzahlung plus Verwaltungsgebühr von 50 % (Abs. 4, [Art. 4 Abs. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)), sonst Erlöschen (R. 14).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 11 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Höhe der Kompensation)?
+
+**A:** Höhe der Kompensation
+
+Die Erstattung von Übersetzungskosten erfolgt bis zu einem Höchstbetrag und wird in Form eines Pauschalbetrags entsprechend der Gebührenordnung zum einheitlichen Patentschutz gezahlt. Der Höchstbetrag wird festgelegt auf der Grundlage der durchschnittlichen Länge eines europäischen Patents und der durchschnittlichen Übersetzungskosten pro Seite, wobei die durchschnittliche nach Regel 6 EPÜ gewährte Ermäßigung Berücksichtigung findet.
+
+Bezug: [Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)
+
+Hinweis: Pauschalbetrag nach [Art. 4 Abs. 1 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html): 500 EUR; ausgezahlt wie eine Rückerstattung.
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Abgabe einer Erklärung durch den Patentinhaber)?
+
+**A:** Abgabe einer Erklärung durch den Patentinhaber
+
+Der Inhaber eines europäischen Patents mit einheitlicher Wirkung kann beim Europäischen Patentamt eine Erklärung abgeben, dass er bereit ist, jedermann die Benutzung der Erfindung als Lizenznehmer gegen angemessene Vergütung zu gestatten. In diesem Fall werden die nach Eingang der Erklärung für das europäische Patent mit einheitlicher Wirkung fällig werdenden Jahresgebühren ermäßigt; die Höhe der Ermäßigung wird in der Gebührenordnung zum einheitlichen Patentschutz festgelegt. Die Erklärung wird in das Register für den einheitlichen Patentschutz eingetragen.
+
+Bezug: [Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Lizenzbereitschaft: Erklärung beim EPA (Formblatt 7001), gebührenfrei eingetragen; nicht möglich bei eingetragener ausschließlicher Lizenz (Abs. 3); danach keine ausschließliche Lizenz mehr eintragbar (Abs. 4). Rücknahme nur gegen Rückzahlung der gesamten Ermäßigung (Abs. 2).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 13 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Entrichtung von Jahresgebühren für das europäische Patent mit einheitlicher Wirkung)?
+
+**A:** Entrichtung von Jahresgebühren für das europäische Patent mit einheitlicher Wirkung
+
+Die Jahresgebühren für europäische Patente mit einheitlicher Wirkung und die Zuschlagsgebühren für die verspätete Zahlung der Jahresgebühren für diese Patente sind an das Europäische Patentamt zu entrichten. Diese Jahresgebühren sind in den Folgejahren des Jahres fällig, in dem der Hinweis auf die Erteilung des europäischen Patents mit einheitlicher Wirkung im Europäischen Patentblatt veröffentlicht wird.
+
+Bezug: [Art. 11 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 12 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Jahresgebühren an das EPA, fällig am letzten Tag des Monats, der dem Anmeldemonat entspricht (Abs. 2, wie R. 51 Abs. 1 EPÜ); frühestens drei Monate vorher zahlbar; Nachfrist sechs Monate mit Zuschlag von 50 % (Abs. 3, [Art. 2 Abs. 1 Nr. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html)), berechnet „von Ultimo zu Ultimo“. Abs. 4 und 5: dreimonatige Sicherheitsfrist ohne Zuschlag nach Zustellung der Eintragungsmitteilung; Gebühren zwischen Erteilung und Mitteilung werden erst mit der Mitteilung fällig.
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 14 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Erlöschen)?
+
+**A:** Erlöschen
+
+Das europäische Patent mit einheitlicher Wirkung erlischt: a) 20 Jahre nach dem Anmeldetag der europäischen Patentanmeldung; b) wenn eine Jahresgebühr und gegebenenfalls eine Zuschlagsgebühr nicht rechtzeitig entrichtet werden.
+
+Bezug: [Art. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Erlöschen bei Nichtzahlung rückwirkend auf den Fälligkeitstag (Abs. 2); die Feststellung des Rechtsverlusts (R. 112 EPÜ) kann durch Entscheidung überprüft und diese vor dem EPG angefochten werden. Wiedereinsetzung nach R. 22 möglich (ein Jahr ab Ende der Nachfrist).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 15 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Einrichtung des Registers für den einheitlichen Patentschutz)?
+
+**A:** Einrichtung des Registers für den einheitlichen Patentschutz
+
+Das in Artikel 9 Absatz 1 b) der Verordnung (EU) Nr. 1257/2012 vorgesehene Register für den einheitlichen Patentschutz wird hiermit als gesonderter Teil des vom Europäischen Patentamt nach Artikel 127 EPÜ geführten Europäischen Patentregisters eingerichtet.
+
+Bezug: [Art. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Das Register für den einheitlichen Patentschutz ist gesonderter, aber integrierter Teil des Europäischen Patentregisters (Art. 127 EPÜ); Einheitspatente tragen dort den Code „C0“.
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 16 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Eintragungen in das Register für den einheitlichen Patentschutz)?
+
+**A:** Eintragungen in das Register für den einheitlichen Patentschutz
+
+In das Register für den einheitlichen Patentschutz werden folgende Angaben eingetragen: a) Tag der Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents; b) Tag der Stellung des Antrags auf einheitliche Wirkung für das europäische Patent; c) Angaben zur Person des Vertreters des Inhabers des europäischen Patents nach Maßgabe der Regel 41 Absatz 2 d) EPÜ; im Fall mehrerer Vertreter nur die Angaben zur Person des zuerst genannten Vertreters, gefolgt von den Worten "und Partner" sowie im Fall eines Zusammenschlusses von Vertretern nach Regel 152 Absatz 11 EPÜ nur Name und Anschr …
+
+Bezug: [Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Registerinhalt: unter anderem Eintragungstag der einheitlichen Wirkung, territorialer Geltungsbereich (lit. g), Rechtsübergänge und Lizenzen (lit. j), Lizenzzusagen gegenüber Normungsgremien (lit. k), Unterbrechung (lit. u) und die freiwillige Angabe der Niederlassung am Anmeldetag für [Art. 7 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257) (lit. w).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 17 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Europäisches Patentblatt und Amtsblatt des Europäischen Patentamts)?
+
+**A:** Europäisches Patentblatt und Amtsblatt des Europäischen Patentamts
+
+Das in Artikel 129 a) EPÜ genannte Europäische Patentblatt enthält als gesonderten Teil die Angaben, deren Veröffentlichung diese Durchführungsordnung, der Vorsitzende des Engeren Ausschusses des Verwaltungsrats oder der Präsident des Europäischen Patentamts vorschreibt.
+
+Bezug: [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Eigener Teil des Europäischen Patentblatts für Einheitspatente (Abs. 1); Beschlüsse und Mitteilungen zum Einheitspatent im Amtsblatt des EPA (Abs. 2).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 18 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Veröffentlichung von Übersetzungen)?
+
+**A:** Veröffentlichung von Übersetzungen
+
+Der Präsident des Europäischen Patentamts bestimmt, in welcher Form die in Regel 6 Absatz 2 d) genannten Übersetzungen veröffentlicht werden und welche Angaben sie enthalten.
+
+Bezug: [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Das EPA veröffentlicht die nach [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260) eingereichten Übersetzungen – ohne inhaltliche Prüfung, weil sie keine Rechtswirkung haben.
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 20 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Allgemeine Vorschriften für das Verfahren)?
+
+**A:** Allgemeine Vorschriften für das Verfahren
+
+Die folgenden Vorschriften des EPÜ in der jeweils geltenden Fassung sind entsprechend anzuwenden: Artikel 14 Absätze 1 EPÜ, Artikel 14 Absätze 3 EPÜ und Artikel 14 Absätze 7 EPÜ; Artikel 113 Absatz 1 EPÜ; Artikel 114 EPÜ, Artikel 117 EPÜ, Artikel 119 EPÜ, Artikel 120 EPÜ und Artikel 125 EPÜ; Artikel 128 Absatz 4 EPÜ; Artikel 131 EPÜ und Artikel 133 EPÜ; Artikel 134 Absätze 1 EPÜ, Artikel 134 Absätze 5 EPÜ und Artikel 134 Absätze 8 EPÜ.
+
+Bezug: [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Generalverweisung auf das EPÜ: Vertretung (Art. 133, 134 EPÜ), rechtliches Gehör (Art. 113 EPÜ), Zustellung (R. 125 ff. EPÜ), Fristenberechnung (R. 131, 134 EPÜ), Unterbrechung (R. 142 EPÜ), Rechtsübergänge und Lizenzen (R. 22 bis 24 EPÜ). Abs. 4: Fristen der Abteilung zwischen einem und vier Monaten, nicht verlängerbar; keine Weiterbehandlung (R. 135 EPÜ).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 21 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Mündliche Verhandlung)?
+
+**A:** Mündliche Verhandlung
+
+Eine mündliche Verhandlung findet entweder auf Antrag eines Beteiligten oder, sofern das Europäische Patentamt dies für sachdienlich erachtet, von Amts wegen statt. Das Europäische Patentamt kann jedoch einen Antrag auf erneute mündliche Verhandlung ablehnen, wenn die Parteien und der dem Verfahren zugrunde liegende Sachverhalt unverändert geblieben sind.
+
+Hinweis: Mündliche Verhandlung auf Antrag oder von Amts wegen (Abs. 1), im Verfahren über den Antrag auf einheitliche Wirkung nur auf Antrag des Inhabers und bei Sachdienlichkeit (Abs. 2); nicht öffentlich (Abs. 3).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 22 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Wiedereinsetzung in den vorigen Stand)?
+
+**A:** Wiedereinsetzung in den vorigen Stand
+
+Der Inhaber eines europäischen Patents oder eines europäischen Patents mit einheitlicher Wirkung, der trotz Beachtung aller nach den gegebenen Umständen gebotenen Sorgfalt verhindert worden ist, gegenüber dem Europäischen Patentamt eine Frist einzuhalten, wird auf Antrag wieder in den vorigen Stand eingesetzt, wenn die Versäumung dieser Frist zur unmittelbaren Folge hat, dass das europäische Patent mit einheitlicher Wirkung gemäß Regel 14 Absatz 1 b) erlischt oder der Verlust eines sonstigen Rechts oder eines Rechtsmittels eintritt.
+
+Bezug: [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Wiedereinsetzung (Maßstab: alle gebotene Sorgfalt, Rechtsprechung zu Art. 122 EPÜ): für die Frist des R. 6 Abs. 1 binnen zwei Monaten ab Fristablauf ohne Rücksicht auf den Wegfall des Hindernisses (Abs. 2), sonst zwei Monate ab Wegfall, höchstens ein Jahr; Gebühr nach [Art. 2 Abs. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html). Ausgeschlossen für die Wiedereinsetzungsfrist selbst und die Mängelfrist des R. 7 Abs. 3 (Abs. 6).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 23 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Form der Entscheidungen)?
+
+**A:** Form der Entscheidungen
+
+Entscheidungen des Europäischen Patentamts, gegen die gemäß Artikel 32 Absatz 1 i) des Übereinkommens über ein Einheitliches Patentgericht Klage vor dem Einheitlichen Patentgericht erhoben werden kann, sind zu begründen und mit einem Hinweis darüber zu versehen, dass gegen die Entscheidung die Klage vor dem Einheitlichen Patentgericht statthaft ist. Die Beteiligten können aus der Unterlassung des Hinweises keine Ansprüche herleiten.
+
+Bezug: [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 88 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Hinweis: Rechtsbehelf: Klage vor dem EPG gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz (Art. 32 Abs. 1 lit. i, [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) – zwei Monate nach [R. 88 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), bei Zurückweisung des Antrags auf einheitliche Wirkung drei Wochen nach [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (beschleunigtes Verfahren vor dem Eilrichter).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [R. 24 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html) (Abhilfe)?
+
+**A:** Abhilfe
+
+Wird das Europäische Patentamt vom Einheitlichen Patentgericht darüber informiert, dass eine Klage auf Aufhebung oder Änderung einer Entscheidung des Europäischen Patentamts zulässig ist, und erachtet es diese für begründet, so hat es innerhalb von zwei Monaten nach Eingang der Klage a) der Klage im Sinne des Begehrens des Klägers abzuhelfen und b) dem Einheitlichen Patentgericht mitzuteilen, dass der Klage abgeholfen wurde.
+
+Bezug: [Art. 66 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 91 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+
+Hinweis: Abhilfe durch das EPA binnen zwei Monaten, wenn das EPG die Klage für zulässig hält ([R. 91 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) – nicht im Verfahren nach [R. 97 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), das als lex specialis keine Abhilfe kennt ([R. 85 Abs. 2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); EPG-BerG Bodycap/EPA).
+
+*Tags: EPG, DOEPS*
+
+---
+
+**F:** Was regelt [Art. 1 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (Allgemeines)?
+
+**A:** Allgemeines
+
+Die an das Europäische Patentamt zu entrichtenden Gebühren, die Kompensation von Übersetzungskosten, die gemäß der Durchführungsordnung zum einheitlichen Patentschutz vom Europäischen Patentamt an die Inhaber europäischer Patente mit einheitlicher Wirkung zu zahlen ist, sowie die Gebühren und Auslagen, die der Präsident des Europäischen Patentamts aufgrund des Artikels 5 festsetzt, werden nach den Vorschriften der Artikel 2 bis Artikel 6 erhoben bzw. gezahlt.
+
+Hinweis: Die GebOEPS regelt nur die Gebühren des Einheitspatentverfahrens; für die Zahlung gilt im Übrigen die Gebührenordnung zum EPÜ (Art. 6).
+
+*Tags: EPG, GebOEPS*
+
+---
+
+**F:** Was regelt [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (In der Durchführungsordnung zum einheitlichen Patentschutz vorgesehene Gebühren)?
+
+**A:** In der Durchführungsordnung zum einheitlichen Patentschutz vorgesehene Gebühren
+
+Die an das Europäische Patentamt zu entrichtenden Gebühren werden wie folgt festgesetzt: 1. Jahresgebühren für das europäische Patent mit einheitlicher Wirkung (Regel 13 Absatz 1 der Durchführungsordnung zum einheitlichen Patentschutz), jeweils gerechnet vom Anmeldetag an EUR - für das 2. Jahr 35 - für das 3. Jahr 105 - für das 4. Jahr 145 - für das 5. Jahr 315 - für das 6. Jahr 475 - für das 7. Jahr 630 - für das 8. Jahr 815 - für das 9. Jahr 990 - für das 10. Jahr 1 175 - für das 11. Jahr 1 460 - für das 12. Jahr 1 775 - für das 13. Jahr 2 105 - für das 14. Jahr 2 455 - für das 15. Jahr 2 83 …
+
+Bezug: [Art. 11 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 12 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 13 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 22 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+Hinweis: Die Gebührentabelle: Jahresgebühren vom 2. Jahr (35 EUR) bis zum 20. Jahr (4 855 EUR), zusammen 35 555 EUR über die volle Laufzeit („True Top 4“: Summe der Jahresgebühren der vier 2015 validierungsstärksten Staaten); Zuschlagsgebühr 50 % (Abs. 1 Nr. 2); Wiedereinsetzungsgebühr (Abs. 2). Maßgeblich ist der am Zahlungstag geltende Betrag.
+
+*Tags: EPG, GebOEPS*
+
+---
+
+**F:** Was regelt [Art. 3 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (Ermäßigung von Jahresgebühren)?
+
+**A:** Ermäßigung von Jahresgebühren
+
+Die in Regel 12 Absatz 1 der Durchführungsordnung zum einheitlichen Patentschutz festgelegte Ermäßigung der Jahresgebühren für das europäische Patent mit einheitlicher Wirkung beträgt 15 %.
+
+Bezug: [Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+Hinweis: Ermäßigung um 15 % bei Lizenzbereitschaftserklärung ([R. 12 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)); der Zuschlag bei verspäteter Zahlung wird aus der ermäßigten Gebühr berechnet.
+
+*Tags: EPG, GebOEPS*
+
+---
+
+**F:** Was regelt [Art. 4 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (Kompensation von Übersetzungskosten)?
+
+**A:** Kompensation von Übersetzungskosten
+
+Der in Regel 11 der Durchführungsordnung zum einheitlichen Patentschutz vorgesehene Pauschalbetrag beläuft sich auf 500 EUR.
+
+Bezug: [Art. 5 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [R. 10 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html), [R. 11 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+Hinweis: Kompensation von Übersetzungskosten: Pauschale 500 EUR (Abs. 1); bei unrichtiger Erklärung Rückzahlung zuzüglich Verwaltungsgebühr von 50 % (Abs. 2, [R. 10 Abs. 4 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)).
+
+*Tags: EPG, GebOEPS*
+
+---
+
+**F:** Was regelt [Art. 5 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (Vom Präsidenten des Europäischen Patentamts festgesetzte Gebühren, Auslagen und Verkaufspreise)?
+
+**A:** Vom Präsidenten des Europäischen Patentamts festgesetzte Gebühren, Auslagen und Verkaufspreise
+
+Die in der Durchführungsordnung zum einheitlichen Patentschutz vorgesehenen Verwaltungsgebühren und die Gebühren und Auslagen für andere als in dieser Gebührenordnung genannte Amtshandlungen des Europäischen Patentamts sind in der vom Präsidenten des Europäischen Patentamts gemäß Artikel 3 der Gebührenordnung zum EPÜ festgesetzten Höhe zu entrichten.
+
+Bezug: [R. 20 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+Hinweis: Vom Präsidenten festgesetzte Gebühren, etwa für die Eintragung von Rechtsübergängen und Lizenzen (entfällt bei Antrag über MyEPO).
+
+*Tags: EPG, GebOEPS*
+
+---
+
+**F:** Was regelt [Art. 6 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (Gemeinsame Verfahrensvorschriften)?
+
+**A:** Gemeinsame Verfahrensvorschriften
+
+Die folgenden Vorschriften der Gebührenordnung zum EPÜ in der jeweils geltenden Fassung sind entsprechend anzuwenden: Artikel 4 bis 8 GebO, Artikel 12 GebO und Artikel 13 GebO.
+
+Bezug: [R. 20 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+
+Hinweis: Verweisung auf die Gebührenordnung zum EPÜ: Zahlungsarten, Fälligkeit, laufendes Konto; Jahresgebühren kann jedermann ohne Vertreter wirksam zahlen.
+
+*Tags: EPG, GebOEPS*
+
+---
+
+**F:** Was regelt [Art. 7 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html) (Überprüfung der Höhe der Jahresgebühren und Bericht über bestimmte Einheiten)?
+
+**A:** Überprüfung der Höhe der Jahresgebühren und Bericht über bestimmte Einheiten
+
+Spätestens fünf Jahre nach dem Tag des Geltungsbeginns der Verordnung (EU) Nr. 1257/2012 und danach alle fünf Jahre a) legt das Europäische Patentamt dem Engeren Ausschuss des Verwaltungs rats einen Bericht vor, in dem es die finanziellen Auswirkungen des europäi schen Patents mit einheitlicher Wirkung auf den Haushalt der Europäischen Patentorganisation und auf das Einkommen der teilnehmenden Mitgliedsstaaten aus den Jahres gebühren beurteilt, und unterbreitet, soweit erforderlich, einen geeigneten Vorschlag zur Anpassung der Höhe der Jahresgebühren; b) legt das Europäische Patentamt dem Enge …
+
+Bezug: [Art. 12 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 16 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Überprüfung der Jahresgebührenhöhe durch den Engeren Ausschuss und Bericht über KMU und andere begünstigte Einheiten.
+
+*Tags: EPG, GebOEPS*
 
 ---

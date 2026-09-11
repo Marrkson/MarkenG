@@ -10,4 +10,4 @@ from .concepts import CONCEPTS  # noqa: F401
 from .cases import CASES  # noqa: F401
 from .schemata import SCHEMATA  # noqa: F401
 from .distinctions import DISTINCTIONS  # noqa: F401
-from . import upca, rop, entscheidungen  # noqa: F401
+from . import upca, rop, entscheidungen, einheitspatent  # noqa: F401

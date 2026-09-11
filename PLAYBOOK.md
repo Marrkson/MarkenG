@@ -292,6 +292,31 @@ liegen als `docs/upc_entscheidungen.json` (1 MB) neben der App und werden in IPe
 „EPG-Rechtsprechung“ auf jeder EPGÜ-/VerfO-Lernkarte. Jeder Norm-Knoten trägt `zitiert` (Zahl der Entscheidungen).
 Kuratierte Leitentscheidungen (65, überwiegend Berufungsgericht) sind zusätzlich `case`-Knoten mit deutschem `kern`.
 
+**Einheitspatent (September 2026).** Die Rechtsgrundlagen der einheitlichen Wirkung sind vier weitere `eunorm`-Familien
+(`src/knowledge/upc/einheitspatent.py`): Verordnung (EU) Nr. 1257/2012 (`key=epatvo`, `kurz=EPatVO`), Verordnung (EU)
+Nr. 1260/2012 (`epatuevo`, `EPatÜVO`, Alias `EPatÜbersVO`), Durchführungsordnung zum einheitlichen Patentschutz (`doeps`,
+`DOEPS`, Alias `UPR`, Zitat `R.`) und Gebührenordnung (`gebeps`, `GebOEPS`, Aliase `GebEPS`, `RFeesUPP`). Quelle ist die
+RheinIP-Datenbank, Tabelle `UPLegaltext` (Spalten `instrument` = epatvo/epatuevo/doeps/gebeps/up-gl/up-info, `lang`,
+`sectionId` = a3/r6/index/pi/2_4/cost, `text` als Zeilen wie die epo.org-Seiten): `tools/fetch_upc.py` schreibt daraus
+`data/up_epatvo.json`, `up_epatuevo.json`, `up_doeps.json`, `up_gebeps.json` (deutsch und englisch, Teile aus dem
+Inhaltsverzeichnis `index`) sowie `data/up_richtlinien.json` (UP-Richtlinien 2026 abschnittsweise, EPA-Informationsseiten;
+nur deutsch mit englischen Titeln). Mit `--no-db` werden die vier Normtexte aus dem HTML-Cache `~/.cache/ipelico/upc/up_html/`
+(epo.org, Präfixe `eu20121257`, `eu20121260`, `upr`, `upf`) gebaut und `up_richtlinien.json` bleibt unverändert.
+Brücken: DOEPS-Regeln und GebOEPS-Artikel zeigen mit `bezug` (Kante `konkretisiert`) auf die Verordnungsartikel, die sie
+durchführen; EPatVO-Artikel zeigen mit `entspricht` auf EPGÜ-Artikel gleicher Funktion (Art. 5 → Art. 25 bis 27, Art. 6 →
+Art. 29, Art. 9 → Art. 32, 66). Die UP-Richtlinien sind keine Norm, sondern `source`-Knoten (Provider „UP-Richtlinien“:
+13 kuratierte Zusammenfassungen plus alle Abschnitte bis zur zweiten Ebene mit dem Textanfang aus der Datenbank, ohne
+Sachregister), ebenso die EPA-Informationsseiten (Provider „epo.org Einheitspatent“); UPC-Begriffe verweisen mit
+`quellen=["uprl:2.4", "upinfo:cost"]` darauf, IPelico zeigt sie als Abschnitt „Quellen“ auf der Lernkarte, der Navigator
+unter `#/sources`. Inhalte: Begriffe der Kategorie „Einheitspatent: Erteilung und Verwaltung“, Schema
+`upc_schema_einheitliche_wirkung`, Tabelle `d_upc_einheitspatent_buendelpatent`, Entscheidung Bodycap/EPA (UPC_CoA_796/2025,
+aus der Datenbank verifiziert); kein eigener Kurs, sondern Kapitel u01d (Rechtsrahmen, Antrag auf einheitliche Wirkung,
+Übersetzung, Kompensation, Rechtsbehelf) und u08d (Jahresgebühren, Lizenzbereitschaft, Register). Faktenquellen für Fristen
+und Beträge: UP-Richtlinien und die EPA-Seiten (Stand Juni 2026, Jahresgebühren zum 1.4.2026). Neue Ausgabe der
+UP-Richtlinien: Tabelle neu befüllen, `fetch_upc.py` laufen lassen, `UP_RL_URL`/`UP_RL_STAND` in `einheitspatent.py`
+anpassen und die kuratierten Abschnittsnummern prüfen.
+
 **Aktualisieren.** Neue Entscheidungen: `python3 tools/fetch_upc.py --no-net` (nur Datenbank), dann `build.py`.
+Neue Fassung von EPatVO/EPatÜVO/DOEPS/GebOEPS oder der UP-Richtlinien: Tabelle `UPLegaltext` neu befüllen, dann `fetch_upc.py` (mit Datenbank).
 Neue VerfO-Fassung: Cache-PDF löschen und ohne `--no-net` laufen lassen; das Deckblatt landet in `meta.stand`.
 Karteikarten entstehen für EPGÜ/VerfO nur für Vorschriften mit Begriff, Schema, Entscheidung oder Hinweis.

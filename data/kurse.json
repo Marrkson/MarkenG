@@ -7956,11 +7956,11 @@
  {
   "id": "u01",
   "gebiet": "upc",
-  "titel": "Das Einheitliche Patentgericht: Aufbau, Rechtsquellen, Übergangszeit",
-  "untertitel": "Gericht und Kammern, Spruchkörper, Rangfolge der Rechtsquellen, Opt-out und Altfälle, Verfahrensgrundsätze, Vertretung",
+  "titel": "Das Einheitliche Patentgericht und das Einheitspatent: Aufbau, Rechtsquellen, Übergangszeit",
+  "untertitel": "Gericht und Kammern, Spruchkörper, Rangfolge der Rechtsquellen, Opt-out und Altfälle, Verfahrensgrundsätze, Vertretung – und das Einheitspatent: EPatVO, EPatÜVO, DOEPS, Antrag auf einheitliche Wirkung, Rechtsbehelf zum EPG",
   "farbe": "#7a3e9d",
   "icon": "union",
-  "beschreibung": "Der Einstieg in das EPGÜ: Wie das Gericht aufgebaut ist (Art. 6 bis 10, Anhang II), wer auf der Richterbank sitzt (Art. 8, 18), in welcher Reihenfolge das Gericht seine Rechtsquellen anwendet (Art. 20 bis 24), wie die Übergangszeit mit Opt-out funktioniert (Art. 83, R. 5, R. 5A) und was Front-loading und Vertretungszwang für die Praxis bedeuten – mit Roku/Dolby, Silimed/Polytech, Fives/REEL, Knaus Tabbert und Suinno/Microsoft.",
+  "beschreibung": "Der Einstieg in das EPGÜ: Wie das Gericht aufgebaut ist (Art. 6 bis 10, Anhang II), wer auf der Richterbank sitzt (Art. 8, 18), in welcher Reihenfolge das Gericht seine Rechtsquellen anwendet (Art. 20 bis 24), wie die Übergangszeit mit Opt-out funktioniert (Art. 83, R. 5, R. 5A) und was Front-loading und Vertretungszwang für die Praxis bedeuten – mit Roku/Dolby, Silimed/Polytech, Fives/REEL, Knaus Tabbert und Suinno/Microsoft. Das vierte Kapitel führt zum Einheitspatent: die Verordnungen (EU) Nr. 1257/2012 und 1260/2012, die Durchführungsordnung (DOEPS) und die UP-Richtlinien des EPA – Anspruchsberechtigung und Monatsfrist (R. 5, 6 DOEPS), Generationen, Übersetzung und Kompensation, Wiedereinsetzung und die Klage nach R. 97 VerfO (Bodycap/EPA).",
   "kapitel": [
    {
     "id": "u01a",
@@ -8143,17 +8143,19 @@
       "id": "u01c-0",
       "typ": "intro",
       "titel": "Sieben Jahre Doppelzuständigkeit",
-      "text": "Für **Einheitspatente** ist das EPG von Anfang an ausschließlich zuständig; ein Opt-out ist ausgeschlossen (Art. 3 EPGÜ, VO 1257/2012). Für klassische **europäische Bündelpatente** und ESZ gilt eine **Übergangszeit von sieben Jahren** ab dem 1. Juni 2023, verlängerbar um bis zu sieben weitere Jahre: Verletzungs- und Nichtigkeitsklagen können weiterhin vor nationalen Gerichten erhoben werden (Art. 83 Abs. 1, 5 EPGÜ), anhängige nationale Verfahren bleiben unberührt (Abs. 2). Der Inhaber oder Anmelder kann die Zuständigkeit des EPG ganz ausschließen (**Opt-out**, Art. 83 Abs. 3 EPGÜ, R. 5 VerfO): Antrag bei der Kanzlei durch **alle** Inhaber, für alle benannten Staaten, wirksam mit Eintragung im Register – aber nur, solange noch keine Klage vor dem EPG erhoben ist. Der Rücktritt vom Opt-out (**Opt-in**, Abs. 4, R. 5.7, 5.8 VerfO) ist ausgeschlossen, sobald eine nationale Klage erhoben wurde; ein zweites Opt-out gibt es nicht (R. 5.9 VerfO). Unbefugte Opt-outs entfernt der Kanzler auf Antrag nach **R. 5A VerfO**; wer Inhaber ist, bestimmt R. 8.5 VerfO nach dem Recht des jeweiligen Staates (Silimed/Polytech). Die Zuständigkeit des EPG reicht zeitlich zurück: **Altfälle** vor dem 1. Juni 2023 sind erfasst, solange das Patent bei Inkrafttreten noch nicht erloschen war (Fives/REEL; Knaus Tabbert). Und über allem stehen die Grundsätze der **Präambel der VerfO**: Verhältnismäßigkeit, Flexibilität, Fairness und Billigkeit (Nr. 2 bis 5), mündliche Verhandlung binnen etwa eines Jahres und **vollständiger Vortrag so früh wie möglich** (Nr. 7, front-loaded).",
+      "text": "Für **Einheitspatente** ist das EPG von Anfang an ausschließlich zuständig; ein Opt-out ist ausgeschlossen (Art. 3 EPGÜ, Art. 3 EPatVO). Wie das Einheitspatent entsteht – Antrag auf einheitliche Wirkung binnen eines Monats nach dem Erteilungshinweis, Eintragung durch das EPA nach der DOEPS, Jahresgebühren nach der GebOEPS – behandelt das vierte Kapitel dieses Kurses. Für klassische **europäische Bündelpatente** und ESZ gilt eine **Übergangszeit von sieben Jahren** ab dem 1. Juni 2023, verlängerbar um bis zu sieben weitere Jahre: Verletzungs- und Nichtigkeitsklagen können weiterhin vor nationalen Gerichten erhoben werden (Art. 83 Abs. 1, 5 EPGÜ), anhängige nationale Verfahren bleiben unberührt (Abs. 2). Der Inhaber oder Anmelder kann die Zuständigkeit des EPG ganz ausschließen (**Opt-out**, Art. 83 Abs. 3 EPGÜ, R. 5 VerfO): Antrag bei der Kanzlei durch **alle** Inhaber, für alle benannten Staaten, wirksam mit Eintragung im Register – aber nur, solange noch keine Klage vor dem EPG erhoben ist. Der Rücktritt vom Opt-out (**Opt-in**, Abs. 4, R. 5.7, 5.8 VerfO) ist ausgeschlossen, sobald eine nationale Klage erhoben wurde; ein zweites Opt-out gibt es nicht (R. 5.9 VerfO). Unbefugte Opt-outs entfernt der Kanzler auf Antrag nach **R. 5A VerfO**; wer Inhaber ist, bestimmt R. 8.5 VerfO nach dem Recht des jeweiligen Staates (Silimed/Polytech). Die Zuständigkeit des EPG reicht zeitlich zurück: **Altfälle** vor dem 1. Juni 2023 sind erfasst, solange das Patent bei Inkrafttreten noch nicht erloschen war (Fives/REEL; Knaus Tabbert). Und über allem stehen die Grundsätze der **Präambel der VerfO**: Verhältnismäßigkeit, Flexibilität, Fairness und Billigkeit (Nr. 2 bis 5), mündliche Verhandlung binnen etwa eines Jahres und **vollständiger Vortrag so früh wie möglich** (Nr. 7, front-loaded).",
       "concepts": [
        "upc_uebergangsregelung",
        "upc_opt_out",
-       "upc_einheitspatent"
+       "upc_einheitspatent",
+       "upc_up_rechtsrahmen"
       ],
       "norms": [
        "Art. 83 Abs. 1 EPGÜ",
        "Art. 83 Abs. 3 EPGÜ",
        "R. 5 VerfO",
-       "R. 5A VerfO"
+       "R. 5A VerfO",
+       "Art. 3 EPatVO"
       ],
       "cases": [
        "upc_coa_silimed_polytech_optout",
@@ -8305,6 +8307,253 @@
        "upc_coa_suinno_microsoft_vertretung"
       ],
       "step": "step:upc_schema_verletzungsklage.1.3",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "u01d",
+    "titel": "Das Einheitspatent: Rechtsrahmen, Antrag auf einheitliche Wirkung, Rechtsbehelf",
+    "einheiten": [
+     {
+      "id": "u01d-0",
+      "typ": "intro",
+      "titel": "Vier Texte und eine Richtlinie",
+      "text": "Das **europäische Patent mit einheitlicher Wirkung** („Einheitspatent“) ist kein neues Schutzrecht des EPÜ, sondern ein vom EPA nach dem EPÜ erteiltes europäisches Patent, dem auf Antrag des Inhabers **einheitliche Wirkung** in den teilnehmenden Mitgliedstaaten verliehen wird. Rechtsgrundlage sind zwei EU-Verordnungen der **Verstärkten Zusammenarbeit** von 25 Mitgliedstaaten (alle außer Spanien und Kroatien): Die **Verordnung (EU) Nr. 1257/2012** (EPatVO) schafft das Einheitspatent und überträgt dem EPA die Verwaltung (Art. 9 EPatVO, Art. 143 EPÜ), die **Verordnung (EU) Nr. 1260/2012** (EPatÜVO) regelt die Übersetzungen. Beide gelten seit dem **1. Juni 2023**, dem Inkrafttreten des EPGÜ (Art. 18 EPatVO). Das Verfahren vor dem EPA hat der **Engere Ausschuss** des Verwaltungsrats (Art. 145 EPÜ) in der **Durchführungsordnung zum einheitlichen Patentschutz** (DOEPS, Regeln 1 bis 24) und der **Gebührenordnung** (GebOEPS, Art. 1 bis 7) geregelt; die Praxis der Abteilung für den einheitlichen Patentschutz beschreiben die **UP-Richtlinien** des EPA (Ausgabe April 2026, in Kraft seit 1.4.2026, ABl. EPA 2026, A6), erlassen nach R. 3 DOEPS. Die Merkmale: Das Einheitspatent hat **einheitlichen Charakter** – gleiche Wirkung in allen Staaten, Beschränkung, Übertragung, Nichtigerklärung und Erlöschen nur für alle zugleich, Lizenzen auch für Teilgebiete (Art. 3 Abs. 2 EPatVO). Es wird **rückwirkend am Tag des Erteilungshinweises** wirksam (Art. 4 Abs. 1 EPatVO). Das materielle Verletzungsrecht steht nicht in der Verordnung: Art. 5 Abs. 3 EPatVO verweist auf das nationale Recht des Staates nach Art. 7 – und das sind für alle Vertragsmitgliedstaaten die **Art. 25 bis 30 EPGÜ**. Für Einheitspatente ist das EPG von Anfang an ausschließlich zuständig, ein Opt-out gibt es nicht. Die Tabelle stellt Einheitspatent und Bündelpatent gegenüber.",
+      "concepts": [
+       "upc_einheitspatent",
+       "upc_up_rechtsrahmen",
+       "upc_up_richtlinien"
+      ],
+      "norms": [
+       "Art. 3 EPatVO",
+       "Art. 4 EPatVO",
+       "Art. 5 EPatVO",
+       "Art. 9 EPatVO",
+       "Art. 18 EPatVO",
+       "R. 3 DOEPS"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_upc_einheitspatent_buendelpatent"
+      ]
+     },
+     {
+      "id": "u01d-1",
+      "typ": "mc",
+      "titel": "Rumänien und die zweite Generation",
+      "sachverhalt": "",
+      "frage": "Die A-AG hat ihr europäisches Patent am 15. Juli 2024 als Einheitspatent eintragen lassen. Am 1. September 2024 ist das EPGÜ für Rumänien in Kraft getreten. Ein Wettbewerber vertreibt die patentgemäße Vorrichtung seit 2025 ausschließlich in Bukarest. Gilt das Einheitspatent der A-AG in Rumänien?",
+      "optionen": [
+       "Ja, weil sich der Geltungsbereich eines Einheitspatents automatisch auf jeden Staat erstreckt, der das EPGÜ später ratifiziert",
+       "Nein; das Einheitspatent gilt nur in den 17 Staaten, in denen das EPGÜ am Tag der Eintragung in Kraft war (Art. 18 Abs. 2 EPatVO), und dieser Geltungsbereich bleibt für die gesamte Laufzeit unverändert",
+       "Ja, wenn die A-AG nachträglich eine Erstreckungsgebühr für Rumänien zahlt",
+       "Nein, aber die A-AG kann die einheitliche Wirkung für Rumänien durch einen zweiten Antrag auf einheitliche Wirkung nachholen"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Nach **Art. 18 Abs. 2 EPatVO** hat ein Einheitspatent einheitliche Wirkung nur in den teilnehmenden Mitgliedstaaten, in denen das EPGÜ **am Tag der Eintragung** der einheitlichen Wirkung in Kraft ist. Jede spätere Ratifikation schafft eine neue **Generation**: Ab dem 1. September 2024 eingetragene Einheitspatente gelten in 18 Staaten, die davor eingetragenen bleiben bei 17 (UP-Richtlinien 1.5). Der Geltungsbereich wird weder ausgedehnt noch kann er nachträglich beantragt werden; er steht im Register (R. 16 Abs. 1 lit. g DOEPS).",
+       "Für Rumänien hätte die A-AG ihr europäisches Patent klassisch validieren müssen. Wer die neue Generation erreichen will, kann vor einem angekündigten Beitritt die **Verschiebung der Eintragung** beantragen (Mitteilung des EPA, ABl. EPA 2024, A61) – die Monatsfrist für den Antrag auf einheitliche Wirkung läuft trotzdem. Zu unterscheiden ist die Anspruchsberechtigung: Erteilt sein muss das Patent mit denselben Ansprüchen für alle **25** Staaten der Verstärkten Zusammenarbeit (R. 5 Abs. 2 lit. a DOEPS), wirken kann es nur in den derzeit **18** Staaten mit ratifiziertem EPGÜ."
+      ],
+      "merke": "25 Staaten in der Verstärkten Zusammenarbeit, 18 im System, und jedes Einheitspatent behält die Landkarte seines Eintragungstags.",
+      "level": 2,
+      "concepts": [
+       "upc_up_generationen",
+       "upc_einheitspatent"
+      ],
+      "norms": [
+       "Art. 18 EPatVO",
+       "Art. 2 EPatVO",
+       "R. 16 DOEPS",
+       "R. 5 DOEPS"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.3.1",
+      "distinctions": []
+     },
+     {
+      "id": "u01d-2",
+      "typ": "fall",
+      "titel": "Malta fehlt",
+      "sachverhalt": "Die B-GmbH hat 2006 eine europäische Patentanmeldung eingereicht; nach mehreren Teilanmeldungen wird 2025 aus einer Teilanmeldung ein europäisches Patent mit Benennung aller damals möglichen Vertragsstaaten erteilt. Malta, das dem EPÜ erst am 1. März 2007 beigetreten ist, ist nicht benannt. Die B-GmbH beantragt fristgerecht die einheitliche Wirkung. Die Abteilung für den einheitlichen Patentschutz kündigt die Zurückweisung an.",
+      "frage": "Kann für das Patent die einheitliche Wirkung eingetragen werden?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Einheitliche Wirkung hat nur ein europäisches Patent, das **mit denselben Ansprüchen für alle teilnehmenden Mitgliedstaaten** erteilt wurde (Art. 3 Abs. 1 EPatVO, R. 5 Abs. 2 lit. a DOEPS). Teilnehmender Mitgliedstaat ist jeder der 25 Staaten der Verstärkten Zusammenarbeit (Art. 2 lit. a EPatVO), also auch Malta. Liegt der Anmeldetag der Stammanmeldung vor dem 1. März 2007, konnte Malta nicht benannt werden; das Patent ist dann nicht für alle teilnehmenden Staaten erteilt (UP-Richtlinien 2.1). Dasselbe gilt, wenn die Benennung eines teilnehmenden Staates zurückgenommen wurde oder für einen Staat ein abweichender Anspruchssatz besteht (R. 138 EPÜ).",
+       "Die Abteilung teilt die beabsichtigte Zurückweisung mit, gibt Gelegenheit zur Stellungnahme (R. 7 Abs. 2 DOEPS, Art. 113 Abs. 1 EPÜ) und weist den Antrag dann zurück. Dagegen ist binnen drei Wochen der Antrag auf Aufhebung nach R. 97 VerfO vor dem EPG möglich – in der Sache aussichtslos. Der B-GmbH bleibt die klassische Validierung; die Fristen dafür laufen ab dem Erteilungshinweis weiter, nationale Sicherheitsnetze können helfen."
+      ],
+      "merke": "Erteilt für alle 25 – sonst kein Einheitspatent: Der Anmeldetag vor dem 1. März 2007 ist der klassische Stolperstein.",
+      "level": 2,
+      "concepts": [
+       "upc_antrag_einheitliche_wirkung",
+       "upc_einheitspatent"
+      ],
+      "norms": [
+       "Art. 3 Abs. 1 EPatVO",
+       "Art. 2 EPatVO",
+       "R. 5 Abs. 2 DOEPS",
+       "R. 7 Abs. 2 DOEPS"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.1",
+      "distinctions": []
+     },
+     {
+      "id": "u01d-3",
+      "typ": "fall",
+      "titel": "Wessen Recht gilt für die Verpfändung?",
+      "sachverhalt": "Die C-Inc. mit Sitz in Boston hat ihre europäische Patentanmeldung 2021 eingereicht; sie hatte damals keine Niederlassung in Europa. 2025 wird das Patent als Einheitspatent eingetragen. Zur Kreditsicherung will die C-Inc. das Einheitspatent verpfänden. Ihre Bank fragt, nach welchem Recht sich Bestellung und Wirkung des Pfandrechts richten; die C-Inc. meint, das Einheitspatent unterliege als Unionsrecht einem einheitlichen europäischen Sachenrecht.",
+      "frage": "Richtet sich das Pfandrecht nach deutschem Recht?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Die EPatVO enthält kein eigenes Vermögensrecht, sondern eine **Kollisionsnorm**: Als Gegenstand des Vermögens wird das Einheitspatent in seiner Gesamtheit und in allen teilnehmenden Mitgliedstaaten wie ein nationales Patent des Staates behandelt, in dem der Anmelder am Anmeldetag seinen Wohnsitz oder seine Hauptniederlassung hatte (Art. 7 Abs. 1 lit. a EPatVO), hilfsweise eine Niederlassung (lit. b). Trifft beides nicht zu, gilt das Recht des Sitzstaats der Europäischen Patentorganisation, also **deutsches Recht** (Art. 7 Abs. 3 EPatVO).",
+       "Die C-Inc. hatte am Anmeldetag weder Sitz noch Niederlassung in einem teilnehmenden Staat; das Pfandrecht richtet sich daher nach §§ 1273 ff. BGB und wird auf Antrag im Register für den einheitlichen Patentschutz eingetragen (R. 16 Abs. 1 lit. j, R. 20 Abs. 2 lit. b DOEPS i.V.m. R. 23 EPÜ). Eine Niederlassung am Anmeldetag kann nur zusammen mit dem Antrag auf einheitliche Wirkung freiwillig angegeben werden (R. 16 Abs. 1 lit. w DOEPS). Nicht verwechseln: Für Verletzung und Rechtsfolgen gilt über Art. 5 Abs. 3 EPatVO das EPGÜ."
+      ],
+      "merke": "Art. 7 EPatVO ist eine Kollisionsnorm, kein Sachrecht: Wohnsitz oder Niederlassung am Anmeldetag entscheidet, sonst deutsches Recht.",
+      "level": 3,
+      "concepts": [
+       "upc_up_vermoegen",
+       "upc_up_register"
+      ],
+      "norms": [
+       "Art. 7 EPatVO",
+       "Art. 5 EPatVO",
+       "R. 16 DOEPS"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.5.3",
+      "distinctions": []
+     },
+     {
+      "id": "u01d-4",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Antrag auf einheitliche Wirkung",
+      "schema": "upc_schema_einheitliche_wirkung",
+      "text": "Fünf Stationen: Anspruchsberechtigung (R. 5 Abs. 2 DOEPS), der Antrag mit Frist, Form, Übersetzung und Kompensation (R. 6, 9), Prüfung und Eintragung durch die Abteilung für den einheitlichen Patentschutz (R. 7), der Rechtsbehelf zum EPG (R. 23, 24 DOEPS, R. 97 VerfO) und die Verwaltung danach: Jahresgebühren, Lizenzbereitschaft, Register.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "u01d-5",
+      "typ": "fall",
+      "titel": "Einen Tag zu spät",
+      "sachverhalt": "Der Hinweis auf die Erteilung des europäischen Patents der D-SE wird am 5. März im Europäischen Patentblatt bekannt gemacht. Die Fristenabteilung der Patentanwaltskanzlei notiert den Antrag auf einheitliche Wirkung wegen eines Übertragungsfehlers auf den 6. April; am 5. April fällt der Fehler niemandem auf. Der Antrag geht am 6. April beim EPA ein. Am 20. Mai beantragt die Kanzlei Wiedereinsetzung, entrichtet die Gebühr und legt dar, dass die Fristenkontrolle seit Jahren fehlerfrei mit Vier-Augen-Prinzip arbeitet.",
+      "frage": "Kann der D-SE Wiedereinsetzung in die Frist des R. 6 Abs. 1 DOEPS gewährt werden?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Der Antrag auf einheitliche Wirkung ist spätestens einen Monat nach Bekanntmachung des Erteilungshinweises zu stellen (R. 6 Abs. 1 DOEPS), hier also bis zum 5. April; die Frist ist nicht verlängerbar. Sie ist aber **wiedereinsetzungsfähig**: Der Antrag ist binnen **zwei Monaten nach Ablauf der versäumten Frist** zu stellen, und zwar unabhängig vom Wegfall des Hindernisses (R. 22 Abs. 2 DOEPS) – die Einjahresfrist gilt hier nicht. Die versäumte Handlung (der Antrag) ist innerhalb dieser Frist nachzuholen, die Wiedereinsetzungsgebühr (Art. 2 Abs. 2 GebOEPS) zu zahlen und der Antrag zu begründen.",
+       "In der Sache gilt der Maßstab des Art. 122 EPÜ: alle nach den Umständen **gebotene Sorgfalt**; ein einmaliges Versehen in einem sonst gut funktionierenden Fristenüberwachungssystem genügt (UP-Richtlinien 5.3). Der Antrag vom 20. Mai liegt innerhalb der zwei Monate ab dem 5. April. Anders liegt es bei der **Mängelfrist des R. 7 Abs. 3 DOEPS**: Sie ist von der Wiedereinsetzung ausgeschlossen (R. 22 Abs. 6; Bodycap/EPA), ebenso die Wiedereinsetzungsfrist selbst. Weiterbehandlung (R. 135 EPÜ) gibt es im Einheitspatentverfahren nicht."
+      ],
+      "merke": "Monatsfrist versäumt: Wiedereinsetzung binnen zwei Monaten ab Fristablauf, ohne Rücksicht auf den Wegfall des Hindernisses – für die Mängelfrist des R. 7 Abs. 3 dagegen nie.",
+      "level": 2,
+      "concepts": [
+       "upc_antrag_einheitliche_wirkung",
+       "upc_up_abteilung"
+      ],
+      "norms": [
+       "R. 6 Abs. 1 DOEPS",
+       "R. 22 Abs. 2 DOEPS",
+       "R. 22 Abs. 6 DOEPS",
+       "R. 7 Abs. 3 DOEPS",
+       "Art. 2 GebOEPS"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.2.1",
+      "distinctions": []
+     },
+     {
+      "id": "u01d-6",
+      "typ": "fall",
+      "titel": "Der dritte Mitinhaber",
+      "sachverhalt": "Drei Mitinhaber – ein Unternehmen, eine Forschungsorganisation und eine Universität – beantragen fristgerecht die einheitliche Wirkung für ihr Patent. Das EPA beanstandet nach R. 7 Abs. 3 DOEPS, dass Name und Anschrift der Universität von den Angaben im Europäischen Patentregister abweichen, und setzt eine Frist von einem Monat. Der Vertreter antwortet erst nach Fristablauf und beantragt hilfsweise Wiedereinsetzung. Das EPA weist den Antrag auf einheitliche Wirkung zurück. Die Mitinhaber beantragen beim EPG nach R. 97 VerfO die Aufhebung und verlangen zugleich, das EPA müsse der Klage zunächst nach R. 24 DOEPS abhelfen.",
+      "frage": "Muss das EPA vor der Entscheidung des EPG über eine Abhilfe befinden?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Abhilfe (R. 24 DOEPS, R. 91 VerfO) setzt voraus, dass das EPG eine Klage auf Aufhebung oder Abänderung einer EPA-Entscheidung für zulässig befindet, und ist nach **R. 85 Abs. 2 VerfO** für beschleunigte Verfahren ausgeschlossen. Der Antrag gegen die Zurückweisung eines Antrags auf einheitliche Wirkung nach **R. 97 VerfO** ist ein solches beschleunigtes Verfahren: drei Wochen Frist, Weiterleitung an den Eilrichter, Entscheidung binnen drei Wochen. R. 97 VerfO ist lex specialis und kennt keine Abhilfe (EPG-BerG Bodycap/EPA, UPC_CoA_796/2025).",
+       "In der Sache bleibt es bei der Zurückweisung: Die Frist des **R. 7 Abs. 3 DOEPS** zur Behebung von Formmängeln ist nicht verlängerbar und einer Wiedereinsetzung entzogen (R. 22 Abs. 6 DOEPS); das Berufungsgericht hat sie als zwingend bestätigt. Für die Klausur: Zurückweisung des Antrags auf einheitliche Wirkung → R. 97 VerfO, drei Wochen, keine Abhilfe; alle anderen Entscheidungen der Abteilung → R. 88 VerfO, zwei Monate, Abhilfe nach R. 91 VerfO möglich. Zuständig ist die Zentralkammer, Vertretungszwang besteht nicht (Art. 48 Abs. 7 EPGÜ)."
+      ],
+      "merke": "R. 97 statt R. 88: Gegen die Zurückweisung der einheitlichen Wirkung läuft das Drei-Wochen-Verfahren beim Eilrichter, und das EPA hilft nicht ab.",
+      "level": 3,
+      "concepts": [
+       "upc_up_rechtsbehelf",
+       "upc_antrag_einheitliche_wirkung"
+      ],
+      "norms": [
+       "R. 97 VerfO",
+       "R. 85 VerfO",
+       "R. 91 VerfO",
+       "R. 24 DOEPS",
+       "R. 7 Abs. 3 DOEPS",
+       "Art. 32 Abs. 1 EPGÜ"
+      ],
+      "cases": [
+       "upc_coa_bodycap_epa_r97"
+      ],
+      "step": "step:upc_schema_einheitliche_wirkung.4",
+      "distinctions": []
+     },
+     {
+      "id": "u01d-7",
+      "typ": "mc",
+      "titel": "Welche Übersetzung?",
+      "sachverhalt": "",
+      "frage": "Das europäische Patent der E-AG wurde in der Verfahrenssprache Deutsch erteilt. Welche Übersetzung muss die E-AG während der Übergangszeit mit dem Antrag auf einheitliche Wirkung einreichen, und welche Rechtswirkung hat sie?",
+      "optionen": [
+       "Eine Übersetzung der Ansprüche ins Englische und Französische; sie bestimmt den Schutzbereich in den Staaten mit diesen Amtssprachen",
+       "Eine vollständige Übersetzung der Patentschrift ins Englische; sie dient nur der Information und hat keine Rechtswirkung (Art. 6 Abs. 1, 2 EPatÜVO, R. 6 Abs. 2 lit. d DOEPS)",
+       "Übersetzungen in alle Amtssprachen der 18 teilnehmenden Staaten, weil das Einheitspatent dort wie ein nationales Patent gilt",
+       "Keine Übersetzung, weil Art. 3 EPatÜVO nach Veröffentlichung der Patentschrift keine weiteren Übersetzungen verlangt"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Art. 3 EPatÜVO ist der Grundsatz: Nach Veröffentlichung der Patentschrift in der Verfahrenssprache (mit Ansprüchen in den beiden anderen EPA-Sprachen) sind keine weiteren Übersetzungen erforderlich. Während der **Übergangszeit** von sechs Jahren ab dem 1. Juni 2023, verlängerbar bis höchstens zwölf Jahre (Art. 6 Abs. 3 bis 5), gilt aber Art. 6 Abs. 1: Bei Verfahrenssprache Deutsch oder Französisch ist eine **vollständige Übersetzung der Patentschrift ins Englische** einzureichen, bei Verfahrenssprache Englisch eine Übersetzung in eine andere EU-Amtssprache. Sie ist Bestandteil des Antrags (R. 6 Abs. 2 lit. d DOEPS), dient ausschließlich Informationszwecken und hat **keine Rechtswirkung** (Art. 6 Abs. 2); das EPA prüft sie nicht, veröffentlicht sie aber (R. 18 DOEPS).",
+       "Die Übersetzung der Ansprüche aus dem Erteilungsverfahren kann wiederverwendet werden, zu übersetzen bleibt die Beschreibung. Im **Streitfall** muss der Inhaber auf Verlangen des mutmaßlichen Verletzers eine Übersetzung in eine Amtssprache des Verletzungs- oder Sitzstaats und auf Anforderung des Gerichts in dessen Verfahrenssprache liefern, auf eigene Kosten (Art. 4 EPatÜVO); bei KMU und natürlichen Personen berücksichtigt das Gericht beim Schadensersatz, ob sie vor Erhalt der Übersetzung gutgläubig waren (Art. 4 Abs. 4)."
+      ],
+      "merke": "Deutsch oder Französisch → ins Englische, Englisch → in eine andere EU-Sprache; nur zur Information, nur in der Übergangszeit.",
+      "level": 1,
+      "concepts": [
+       "upc_up_uebersetzung"
+      ],
+      "norms": [
+       "Art. 3 EPatÜVO",
+       "Art. 4 EPatÜVO",
+       "Art. 6 EPatÜVO",
+       "R. 6 Abs. 2 DOEPS",
+       "R. 18 DOEPS"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.2.3",
+      "distinctions": []
+     },
+     {
+      "id": "u01d-8",
+      "typ": "fall",
+      "titel": "500 Euro aus Valencia",
+      "sachverhalt": "Die F-S.L., ein Kleinunternehmen mit Sitz in Valencia, hat ihre europäische Patentanmeldung auf Spanisch beim EPA eingereicht und binnen der Frist eine englische Übersetzung nachgereicht. Nach Erteilung beantragt sie die einheitliche Wirkung und kreuzt im Formblatt 7000 den Antrag auf Kompensation an. Das EPA bezweifelt den Anspruch: Spanien nehme an der Verstärkten Zusammenarbeit nicht teil, und die F-S.L. profitiere ohnehin von der Gebührenermäßigung nach R. 7a EPÜ.",
+      "frage": "Hat die F-S.L. Anspruch auf die Kompensation?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Das Kompensationssystem (Art. 5 EPatÜVO, R. 8 bis 11 DOEPS) deckt die Übersetzungskosten der Anmeldephase, wenn die Anmeldung in einer **anderen EU-Amtssprache als Deutsch, Englisch oder Französisch** eingereicht wurde (R. 8 Abs. 1) und alle Inhaber natürliche Personen, **KMU**, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen oder öffentliche Forschungseinrichtungen mit **Wohnsitz oder Sitz in einem EU-Mitgliedstaat** sind (R. 8 Abs. 2). Ob dieser Staat am Einheitspatentsystem teilnimmt, ist unerheblich (UP-Richtlinien 4.1.1); Spanisch ist EU-Amtssprache. Die Kompensation ergänzt die Ermäßigung nach R. 7a EPÜ, sie schließt sie nicht aus.",
+       "Der Antrag ist zusammen mit dem Antrag auf einheitliche Wirkung zu stellen (R. 9 Abs. 1 DOEPS) und enthält die Statuserklärung; gewährt wird die **Pauschale von 500 EUR** (R. 11 DOEPS, Art. 4 Abs. 1 GebOEPS) erst nach Eintragung der einheitlichen Wirkung, danach unwiderruflich (R. 10 Abs. 1, 2). Bei Zweifeln kann das EPA einen Handelsregisterauszug verlangen. Wäre die Anmeldung vor dem Antrag von einem Großunternehmen übertragen worden, müssten ursprünglicher Anmelder und neuer Inhaber die Kriterien erfüllen (R. 8 Abs. 4); eine unrichtige Erklärung führt zur Rückzahlung plus 50 % Verwaltungsgebühr, sonst erlischt das Patent (R. 10 Abs. 4, R. 14 DOEPS)."
+      ],
+      "merke": "Kompensation: EU-Sitz, kleiner Anmelder, Anmeldung nicht in Deutsch, Englisch oder Französisch – dann 500 Euro pauschal nach Eintragung.",
+      "level": 2,
+      "concepts": [
+       "upc_up_kompensation",
+       "upc_up_uebersetzung"
+      ],
+      "norms": [
+       "Art. 5 EPatÜVO",
+       "R. 8 DOEPS",
+       "R. 9 DOEPS",
+       "R. 10 DOEPS",
+       "R. 11 DOEPS",
+       "Art. 4 GebOEPS"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.2.4",
       "distinctions": []
      }
     ]
@@ -10465,10 +10714,10 @@
   "id": "u08",
   "gebiet": "upc",
   "titel": "Kosten, Gebühren und Prozesskostensicherheit",
-  "untertitel": "Gerichtsgebühren und Streitwert, Kostengrundentscheidung und Kostenfestsetzung, Sicherheit für die Kosten des Beklagten",
+  "untertitel": "Gerichtsgebühren und Streitwert, Kostengrundentscheidung und Kostenfestsetzung, Sicherheit für die Kosten des Beklagten – und die Jahresgebühren, Lizenzbereitschaft und Registereintragungen des Einheitspatents beim EPA",
   "farbe": "#0f766e",
   "icon": "tabelle",
-  "beschreibung": "Das Geld hinter dem Verfahren: Festgebühr und streitwertabhängige Gebühr nach R. 370 VerfO, Ermäßigung und Erstattung (Juul/NJOY, Roku/Dolby), der Streitwert nach R. 370.6 (Kodak/Fujifilm), die Kostengrundentscheidung nach Art. 69 EPGÜ mit Obergrenzen (SharkNinja, Strabag/Swarco), die Kostenfestsetzung nach R. 150 bis 157 mit ihrer Monatsfrist, die Kosten bei Erledigung nach R. 360 (Dolby/Roku) und die Prozesskostensicherheit nach Art. 69 Abs. 4 EPGÜ, R. 158 VerfO in der Linie Aarke/SodaStream, Hefei/Grundfos, Syntorr/Arthrex, La Siddhi/Athena und Suinno/Microsoft.",
+  "beschreibung": "Das Geld hinter dem Verfahren: Festgebühr und streitwertabhängige Gebühr nach R. 370 VerfO, Ermäßigung und Erstattung (Juul/NJOY, Roku/Dolby), der Streitwert nach R. 370.6 (Kodak/Fujifilm), die Kostengrundentscheidung nach Art. 69 EPGÜ mit Obergrenzen (SharkNinja, Strabag/Swarco), die Kostenfestsetzung nach R. 150 bis 157 mit ihrer Monatsfrist, die Kosten bei Erledigung nach R. 360 (Dolby/Roku) und die Prozesskostensicherheit nach Art. 69 Abs. 4 EPGÜ, R. 158 VerfO in der Linie Aarke/SodaStream, Hefei/Grundfos, Syntorr/Arthrex, La Siddhi/Athena und Suinno/Microsoft. Das vierte Kapitel wechselt vom Gericht zum EPA: Jahresgebühren des Einheitspatents nach Art. 2 GebOEPS mit Nachfrist und Erlöschen (R. 13, 14 DOEPS), 15 % Ermäßigung bei Lizenzbereitschaft (Art. 8 EPatVO, R. 12 DOEPS) und das Register für den einheitlichen Patentschutz (Art. 3 Abs. 2 EPatVO, R. 16 DOEPS).",
   "kapitel": [
    {
     "id": "u08a",
@@ -10479,7 +10728,7 @@
       "typ": "schema",
       "titel": "Prüfungsschema: Kosten, Gebühren und Prozesskostensicherheit",
       "schema": "upc_schema_kosten",
-      "text": "Vier Stationen: die Gerichtsgebühren bei Einreichung (R. 370), die Sicherheit für die Kosten des Beklagten während des Verfahrens (Art. 69 Abs. 4, R. 158), die Kostengrundentscheidung im Urteil (Art. 69 Abs. 1 bis 3, R. 118.5) und die Kostenfestsetzung danach (R. 150 bis 157). Die Obergrenzen der erstattungsfähigen Vertretungskosten hängen am Streitwert (R. 152.2).",
+      "text": "Vier Stationen: die Gerichtsgebühren bei Einreichung (R. 370), die Sicherheit für die Kosten des Beklagten während des Verfahrens (Art. 69 Abs. 4, R. 158), die Kostengrundentscheidung im Urteil (Art. 69 Abs. 1 bis 3, R. 118.5) und die Kostenfestsetzung danach (R. 150 bis 157). Die Obergrenzen der erstattungsfähigen Vertretungskosten hängen am Streitwert (R. 152.2). Nicht zu verwechseln mit den Jahresgebühren des Einheitspatents, die an das EPA gehen (Art. 11 EPatVO, R. 13 DOEPS, Art. 2 GebOEPS; viertes Kapitel dieses Kurses).",
       "concepts": [],
       "norms": [],
       "cases": [],
@@ -10834,6 +11083,124 @@
        "upc_coa_hefei_grundfos_sicherheit"
       ],
       "step": "step:upc_schema_kosten.2",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "u08d",
+    "titel": "Jahresgebühren, Lizenzbereitschaft und Register des Einheitspatents (DOEPS, GebOEPS)",
+    "einheiten": [
+     {
+      "id": "u08d-0",
+      "typ": "intro",
+      "titel": "Eine Gebühr, ein Register, eine Erklärung",
+      "text": "Nach der Eintragung verwaltet das EPA das Einheitspatent zentral (Art. 9 EPatVO). **Jahresgebühren**: eine einzige Gebühr in Euro an das EPA für die Jahre nach dem Jahr des Erteilungshinweises (Art. 11 EPatVO, R. 13 Abs. 1 DOEPS), fällig am letzten Tag des Monats, der dem Anmeldemonat entspricht (R. 13 Abs. 2, wie R. 51 Abs. 1 EPÜ), frühestens drei Monate vorher zahlbar, von jedermann ohne Vertreter. Die Beträge stehen in **Art. 2 Abs. 1 Nr. 1 GebOEPS**: vom 2. Jahr (35 EUR) bis zum 20. Jahr (4 855 EUR), zusammen 35 555 EUR – die Summe der Gebühren der vier 2015 validierungsstärksten Staaten („True Top 4“); in den ersten zehn Jahren weniger als 5 000 EUR. Wer nicht rechtzeitig zahlt, hat eine **Nachfrist von sechs Monaten mit Zuschlag von 50 %** (R. 13 Abs. 3, Art. 2 Abs. 1 Nr. 2 GebOEPS); danach erlischt das Patent rückwirkend zum Fälligkeitstag (R. 14 Abs. 1 lit. b, Abs. 2), Wiedereinsetzung binnen eines Jahres (R. 22). Zwei Sicherheitsfristen: Gebühren, die binnen drei Monaten nach Zustellung der Eintragungsmitteilung fällig werden, sind in dieser Frist ohne Zuschlag zahlbar (R. 13 Abs. 4); Gebühren, die zwischen Erteilungshinweis und Mitteilung fällig geworden wären, werden erst mit der Mitteilung fällig (R. 13 Abs. 5). **Lizenzbereitschaft**: Erklärt der Inhaber gegenüber dem EPA, jedermann die Benutzung gegen angemessene Vergütung zu gestatten (Art. 8 EPatVO, R. 12 DOEPS), ermäßigen sich die Jahresgebühren um **15 %** (Art. 3 GebOEPS); die Lizenz gilt als Vertragslizenz, über die Vergütung entscheidet das EPG (Art. 32 Abs. 1 lit. h EPGÜ). **Register**: Das Register für den einheitlichen Patentschutz ist Teil des Europäischen Patentregisters (R. 15, 16 DOEPS) und nimmt Rechtsübergänge, Lizenzen, dingliche Rechte und Lizenzzusagen auf; Übertragung nur für alle Staaten, Lizenzen auch für Teilgebiete (Art. 3 Abs. 2 EPatVO). Einheitspatente erkennt man am Code „C0“.",
+      "concepts": [
+       "upc_up_jahresgebuehren",
+       "upc_up_lizenzbereitschaft",
+       "upc_up_register",
+       "upc_up_abteilung"
+      ],
+      "norms": [
+       "Art. 11 EPatVO",
+       "Art. 8 EPatVO",
+       "R. 13 DOEPS",
+       "R. 14 DOEPS",
+       "R. 12 DOEPS",
+       "R. 16 DOEPS",
+       "Art. 2 GebOEPS",
+       "Art. 3 GebOEPS"
+      ],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "u08d-1",
+      "typ": "fall",
+      "titel": "Von Ultimo zu Ultimo",
+      "sachverhalt": "Die europäische Patentanmeldung der G-GmbH wurde am 12. Februar 2021 eingereicht; das Patent ist seit 2024 Einheitspatent. Die Jahresgebühr für das 6. Jahr wird nicht gezahlt. Am 29. August 2026 bemerkt die G-GmbH das Versäumnis und zahlt am 31. August 2026 die Gebühr (475 EUR) zuzüglich 237,50 EUR Zuschlag. Das EPA meint, die Nachfrist sei am 28. August abgelaufen, und stellt den Rechtsverlust fest.",
+      "frage": "Ist die Zahlung am 31. August 2026 noch rechtzeitig?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Die Jahresgebühr für das 6. Jahr ist am letzten Tag des Monats fällig, der dem Anmeldemonat entspricht, also am **28. Februar 2026** (R. 13 Abs. 2 DOEPS). Die Nachfrist von **sechs Monaten** mit Zuschlagsgebühr von 50 % (R. 13 Abs. 3 DOEPS, Art. 2 Abs. 1 Nr. 2 GebOEPS: 237,50 EUR) wird nach der Praxis des EPA „von Ultimo zu Ultimo“ berechnet: Sie endet am letzten Tag des sechsten Monats nach dem Fälligkeitsmonat, hier am **31. August 2026**, nicht an dem Tag, der der Zahl nach dem Fälligkeitstag entspricht (UP-Richtlinien 3.11, R. 20 Abs. 2 lit. g DOEPS i.V.m. R. 131 EPÜ). Die Zahlung ist rechtzeitig; die Feststellung des Rechtsverlusts ist unrichtig.",
+       "Wäre die Frist versäumt, wäre das Einheitspatent rückwirkend zum 28. Februar erloschen (R. 14 Abs. 1 lit. b, Abs. 2 DOEPS). Die G-GmbH könnte dann binnen eines Jahres ab dem 31. August Wiedereinsetzung beantragen (R. 22 DOEPS: zwei Monate ab Wegfall des Hindernisses, höchstens ein Jahr) oder gegen die Feststellung des Rechtsverlusts eine Entscheidung nach R. 112 Abs. 2 EPÜ beantragen und diese mit der Klage nach R. 88 VerfO vor dem EPG anfechten (Art. 32 Abs. 1 lit. i EPGÜ). Beim Bündelpatent wäre für jeden Staat einzeln nach nationalem Recht zu prüfen (§ 7 PatKostG)."
+      ],
+      "merke": "Fällig am Monatsletzten des Anmeldemonats, Nachfrist sechs Monate mit 50 % Zuschlag, gerechnet von Ultimo zu Ultimo.",
+      "level": 2,
+      "concepts": [
+       "upc_up_jahresgebuehren",
+       "upc_up_rechtsbehelf"
+      ],
+      "norms": [
+       "R. 13 Abs. 2 DOEPS",
+       "R. 13 Abs. 3 DOEPS",
+       "R. 14 DOEPS",
+       "R. 22 DOEPS",
+       "Art. 2 GebOEPS"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.5.1",
+      "distinctions": []
+     },
+     {
+      "id": "u08d-2",
+      "typ": "mc",
+      "titel": "Lizenzbereitschaft mit Folgen",
+      "sachverhalt": "",
+      "frage": "Die H-AG hat für ihr Einheitspatent eine ausschließliche Lizenz zugunsten der L-GmbH im Register eintragen lassen. Um Jahresgebühren zu sparen, gibt sie beim EPA eine Erklärung über die Lizenzbereitschaft ab. Welche Aussage trifft zu?",
+      "optionen": [
+       "Die Erklärung wird eingetragen und die Jahresgebühren ermäßigen sich um 15 %, weil die ausschließliche Lizenz nur zwischen den Vertragsparteien wirkt",
+       "Die Erklärung kann nicht eingetragen werden, solange die ausschließliche Lizenz eingetragen ist (R. 12 Abs. 3 DOEPS); nach Löschung der Lizenz wäre sie möglich, die Ermäßigung beträgt dann 15 % und die Rücknahme setzt die Rückzahlung der gesamten Ermäßigung voraus",
+       "Die Erklärung wird eingetragen, führt aber nur zu einer Ermäßigung von 50 %, die das EPG in einer Vergütungsklage festsetzt",
+       "Die Erklärung ist beim EPG abzugeben, weil nur das Gericht nach Art. 32 Abs. 1 lit. h EPGÜ über Lizenzen an Einheitspatenten entscheidet"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Die Lizenzbereitschaft nach **Art. 8 EPatVO, R. 12 DOEPS** ist das Gegenstück zu § 23 PatG: Der Inhaber erklärt gegenüber dem EPA, jedermann die Benutzung gegen angemessene Vergütung als Lizenznehmer zu gestatten; eine so erworbene Lizenz gilt als Vertragslizenz (Art. 8 Abs. 2). Die Erklärung (Formblatt 7001) wird gebührenfrei eingetragen und ermäßigt die danach fällig werdenden Jahresgebühren um **15 %** (Art. 3 GebOEPS). Sie ist aber **ausgeschlossen, solange eine ausschließliche Lizenz** eingetragen oder beantragt ist (R. 12 Abs. 3), und umgekehrt kann nach der Erklärung keine ausschließliche Lizenz mehr eingetragen werden (R. 12 Abs. 4).",
+       "Die Rücknahme ist jederzeit möglich, wird aber erst wirksam, wenn der volle Ermäßigungsbetrag zurückgezahlt ist (R. 12 Abs. 2 DOEPS). Über die angemessene Vergütung entscheidet auf Klage das EPG (Art. 32 Abs. 1 lit. h EPGÜ). Davon zu unterscheiden sind FRAND-Lizenzzusagen gegenüber Normungsgremien, die das EPA nur entgegennimmt und im Register vermerkt (Art. 9 Abs. 1 lit. c EPatVO, R. 16 Abs. 1 lit. k DOEPS)."
+      ],
+      "merke": "Lizenzbereitschaft und ausschließliche Lizenz schließen sich aus; die 15 % gibt es nur ohne Exklusivität, und zurück gibt es sie nur gegen Rückzahlung.",
+      "level": 2,
+      "concepts": [
+       "upc_up_lizenzbereitschaft",
+       "upc_up_register"
+      ],
+      "norms": [
+       "Art. 8 EPatVO",
+       "R. 12 DOEPS",
+       "Art. 3 GebOEPS",
+       "Art. 32 Abs. 1 EPGÜ"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.5.2",
+      "distinctions": []
+     },
+     {
+      "id": "u08d-3",
+      "typ": "fall",
+      "titel": "Nur für Italien verkauft",
+      "sachverhalt": "Die I-S.p.A. hält ein Einheitspatent (zweite Generation, 18 Staaten). Sie vereinbart mit der K-GmbH, ihr das Einheitspatent „für Deutschland und Österreich“ zu übertragen und für die übrigen Staaten selbst zu behalten. Beide beantragen beim EPA die Eintragung des Rechtsübergangs für die beiden Staaten.",
+      "frage": "Kann das EPA den Rechtsübergang nur für Deutschland und Österreich eintragen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Das Einheitspatent hat **einheitlichen Charakter**: Es kann nur im Hinblick auf **alle** teilnehmenden Mitgliedstaaten beschränkt, übertragen, für nichtig erklärt werden oder erlöschen (Art. 3 Abs. 2 UAbs. 2 EPatVO, R. 16 DOEPS; UP-Richtlinien 7.2). Eine territorial geteilte Übertragung ist nicht möglich; das EPA kann sie nicht eintragen. Zulässig ist dagegen eine **Lizenz** für die Gesamtheit oder einen Teil der Hoheitsgebiete (Art. 3 Abs. 2 UAbs. 3 EPatVO), etwa eine ausschließliche Lizenz für Deutschland und Österreich, die auf Antrag eingetragen wird (R. 20 Abs. 2 lit. b DOEPS i.V.m. R. 23 EPÜ).",
+       "Die Parteien müssen ihren Vertrag also als Lizenz ausgestalten oder das Patent insgesamt übertragen. Der Nachweis des Rechtsübergangs erfolgt mit dem Vertrag oder anderen Urkunden; die Verwaltungsgebühr entfällt bei Antrag über MyEPO. Als Gegenstand des Vermögens richtet sich das Einheitspatent einheitlich nach dem Recht des Staates nach Art. 7 EPatVO, hier nach italienischem Recht, wenn die I-S.p.A. am Anmeldetag ihren Sitz in Italien hatte. Beim klassischen Bündelpatent wäre die Übertragung einzelner nationaler Teile dagegen ohne Weiteres möglich."
+      ],
+      "merke": "Übertragen nur ganz, lizenzieren auch teilweise: Der einheitliche Charakter des Art. 3 Abs. 2 EPatVO verbietet die territoriale Aufspaltung.",
+      "level": 1,
+      "concepts": [
+       "upc_up_register",
+       "upc_einheitspatent"
+      ],
+      "norms": [
+       "Art. 3 Abs. 2 EPatVO",
+       "Art. 7 EPatVO",
+       "R. 16 DOEPS",
+       "R. 20 DOEPS"
+      ],
+      "cases": [],
+      "step": "step:upc_schema_einheitliche_wirkung.5.3",
       "distinctions": []
      }
     ]

@@ -47,7 +47,7 @@ def embed(obj):
 
 def reduced_graph(graph):
     """Nur die Knoten, die die Kursapp für Inline-Karten braucht."""
-    keep_types = {"concept", "case", "norm", "eunorm", "schema", "step", "distinction"}
+    keep_types = {"concept", "case", "norm", "eunorm", "schema", "step", "distinction", "source"}
     nodes = []
     for n in graph["nodes"]:
         if n["type"] not in keep_types:

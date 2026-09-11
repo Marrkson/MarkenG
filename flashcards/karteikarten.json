@@ -3050,20 +3050,20 @@
  {
   "id": "card:definition:concept:upc_einheitspatent",
   "typ": "definition",
-  "front": "Definiere: Europäisches Patent mit einheitlicher Wirkung",
-  "back": "Ein vom EPA erteiltes europäisches Patent, für das auf Antrag binnen eines Monats nach Erteilung die einheitliche Wirkung nach Verordnung (EU) Nr. 1257/2012 eingetragen wurde; es gewährt einheitlichen Schutz in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei Eintragung in Kraft war (Art. 2 lit. f EPGÜ).\n\nNormen: Art. 2 EPGÜ, Art. 3 EPGÜ, R. 97 VerfO",
+  "front": "Definiere: Europäisches Patent mit einheitlicher Wirkung (Einheitspatent)",
+  "back": "Ein vom EPA nach dem EPÜ erteiltes europäisches Patent, für das der Inhaber binnen eines Monats nach Bekanntmachung des Erteilungshinweises die einheitliche Wirkung beantragt hat und das die Abteilung für den einheitlichen Patentschutz im Register für den einheitlichen Patentschutz eingetragen hat (Art. 3 Abs. 1, Art. 9 EPatVO; R. 5 bis 7 DOEPS). Es gewährt einheitlichen Schutz mit gleicher Wirkung in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei der Eintragung in Kraft war (Art. 3 Abs. 2, Art. 18 Abs. 2 EPatVO; Art. 2 lit. f EPGÜ).\n\nNormen: Art. 2 EPGÜ, Art. 3 EPGÜ, Art. 3 EPatVO, Art. 4 EPatVO, Art. 18 EPatVO, R. 5 DOEPS, R. 97 VerfO\n\nRechtsprechung: EPG-BerG Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe) (UPC_CoA_796/2025)",
   "tags": [
    "Begriff",
    "EPG: Grundlagen"
   ],
   "node": "concept:upc_einheitspatent",
-  "erlaeuterung": "Für Einheitspatente ist das EPG ohne Übergangsregelung ausschließlich zuständig; ein Opt-out ist nicht möglich. Der Antrag auf einheitliche Wirkung setzt voraus, dass das Patent für alle teilnehmenden Mitgliedstaaten mit denselben Ansprüchen erteilt wurde (Art. 3 Abs. 1 VO 1257/2012); fehlt die Benennung eines teilnehmenden Staates, kann die einheitliche Wirkung nicht eingetragen werden (EPG-BerG, Klage gegen die Entscheidung des EPA nach R. 97 VerfO)."
+  "erlaeuterung": "Rechtsgrundlagen sind die Verordnungen (EU) Nr. 1257/2012 (EPatVO) und Nr. 1260/2012 (EPatÜVO) als Verstärkte Zusammenarbeit von 25 Mitgliedstaaten, dazu als Sekundärrecht des Engeren Ausschusses die Durchführungsordnung (DOEPS) und die Gebührenordnung (GebOEPS) zum einheitlichen Patentschutz; die Praxis des EPA beschreiben die UP-Richtlinien. Voraussetzung ist die Erteilung mit denselben Ansprüchen für alle 25 teilnehmenden Staaten (R. 5 Abs. 2 DOEPS). Das Einheitspatent wird rückwirkend am Tag des Erteilungshinweises wirksam (Art. 4 Abs. 1 EPatVO) und kann nur für alle Staaten zugleich beschränkt, übertragen, für nichtig erklärt werden oder erlöschen (Art. 3 Abs. 2 EPatVO). Für Einheitspatente ist das EPG ohne Übergangsregelung ausschließlich zuständig; ein Opt-out ist nicht möglich. Die Zurückweisung des Antrags auf einheitliche Wirkung wird mit der Klage nach R. 97 VerfO vor dem EPG angegriffen (EPG-BerG Bodycap/EPA)."
  },
  {
   "id": "card:begriff:concept:upc_einheitspatent",
   "typ": "begriff",
-  "front": "Welcher Begriff wird so definiert?\n\nEin vom EPA erteiltes europäisches Patent, für das auf Antrag binnen eines Monats nach Erteilung die einheitliche Wirkung nach Verordnung (EU) Nr. 1257/2012 eingetragen wurde; es gewährt einheitlichen Schutz in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei Eintragung in Kraft war (Art. 2 lit. f EPGÜ).",
-  "back": "Europäisches Patent mit einheitlicher Wirkung",
+  "front": "Welcher Begriff wird so definiert?\n\nEin vom EPA nach dem EPÜ erteiltes europäisches Patent, für das der Inhaber binnen eines Monats nach Bekanntmachung des Erteilungshinweises die einheitliche Wirkung beantragt hat und das die Abteilung für den einheitlichen Patentschutz im Register für den einheitlichen Patentschutz eingetragen hat (Art. 3 Abs. 1, Art. 9 EPatVO; R. 5 bis 7 DOEPS). Es gewährt einheitlichen Schutz mit gleicher Wirkung in allen teilnehmenden Mitgliedstaaten, für die das EPGÜ bei der Eintragung in Kraft war (Art. 3 Abs. 2, Art. 18 Abs. 2 EPatVO; Art. 2 lit. f EPGÜ).",
+  "back": "Europäisches Patent mit einheitlicher Wirkung (Einheitspatent)",
   "tags": [
    "Begriff",
    "Umkehr",
@@ -4776,6 +4776,294 @@
   "node": "concept:upc_wiederaufnahme"
  },
  {
+  "id": "card:definition:concept:upc_up_rechtsrahmen",
+  "typ": "definition",
+  "front": "Definiere: Rechtsrahmen des Einheitspatents: EPatVO, EPatÜVO, DOEPS, GebOEPS, UP-Richtlinien",
+  "back": "Das Einheitspatent beruht auf zwei EU-Verordnungen der Verstärkten Zusammenarbeit (Art. 20 EUV): Die Verordnung (EU) Nr. 1257/2012 (EPatVO) schafft das europäische Patent mit einheitlicher Wirkung, die Verordnung (EU) Nr. 1260/2012 (EPatÜVO) regelt die Übersetzungen. Beide sind seit 20.1.2013 in Kraft und seit dem 1.6.2023, dem Inkrafttreten des EPGÜ, anwendbar (Art. 18 EPatVO, Art. 7 EPatÜVO). Das Verfahren vor dem EPA regeln als Sekundärrecht des Engeren Ausschusses des Verwaltungsrats (Art. 145 EPÜ) die Durchführungsordnung (DOEPS) und die Gebührenordnung (GebOEPS) zum einheitlichen Patentschutz.\n\nNormen: Art. 1 EPatVO, Art. 5 EPatVO, Art. 18 EPatVO, Art. 1 EPatÜVO, R. 1 DOEPS, R. 3 DOEPS, Art. 1 GebOEPS, Art. 24 EPGÜ",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_rechtsrahmen",
+  "erlaeuterung": "Die Verordnungen sind Unionsrecht und damit erste Rechtsquelle des EPG (Art. 24 Abs. 1 lit. a EPGÜ). Das materielle Recht steht nicht in der EPatVO: Art. 5 Abs. 3 EPatVO verweist auf das nationale Recht des nach Art. 7 bestimmten Staates, das für alle Vertragsmitgliedstaaten in Art. 25 bis 30 EPGÜ vereinheitlicht ist. Die Praxis des EPA beschreiben die UP-Richtlinien (Ausgabe April 2026, in Kraft seit 1.4.2026, ABl. EPA 2026, A6), erlassen vom Präsidenten nach R. 3 DOEPS; sie sind keine Rechtsvorschrift, das EPA hält sich aber an sie, bis das EPG anders entscheidet. An der Verstärkten Zusammenarbeit nehmen 25 EU-Staaten teil (alle außer Spanien und Kroatien); am System teilnehmen können nur Staaten, die das EPGÜ ratifiziert haben (derzeit 18)."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_rechtsrahmen",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDas Einheitspatent beruht auf zwei EU-Verordnungen der Verstärkten Zusammenarbeit (Art. 20 EUV): Die Verordnung (EU) Nr. 1257/2012 (EPatVO) schafft das europäische Patent mit einheitlicher Wirkung, die Verordnung (EU) Nr. 1260/2012 (EPatÜVO) regelt die Übersetzungen. Beide sind seit 20.1.2013 in Kraft und seit dem 1.6.2023, dem Inkrafttreten des EPGÜ, anwendbar (Art. 18 EPatVO, Art. 7 EPatÜVO). Das Verfahren vor dem EPA regeln als Sekundärrecht des Engeren Ausschusses des Verwaltungsrats (Art. 145 EPÜ) die Durchführungsordnung (DOEPS) und die Gebührenordnung (GebOEPS) zum einheitlichen Patentschutz.",
+  "back": "Rechtsrahmen des Einheitspatents: EPatVO, EPatÜVO, DOEPS, GebOEPS, UP-Richtlinien",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_rechtsrahmen"
+ },
+ {
+  "id": "card:definition:concept:upc_up_richtlinien",
+  "typ": "definition",
+  "front": "Definiere: UP-Richtlinien des EPA (Richtlinien für das Einheitspatent)",
+  "back": "Die Richtlinien für das Einheitspatent beschreiben die Praxis der Abteilung für den einheitlichen Patentschutz zum Antrag auf einheitliche Wirkung, zu Gebühren, Kompensation, Wiedereinsetzung, Unterbrechung, Registereintragungen und Verfahren. Der Präsident des EPA erlässt sie nach R. 3 DOEPS i.V.m. Art. 10 Abs. 2 lit. a EPÜ; die Ausgabe April 2026 gilt seit dem 1.4.2026 (ABl. EPA 2026, A6) und ersetzt die erste Ausgabe vom 1.4.2025.\n\nNormen: R. 3 DOEPS, R. 20 DOEPS",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_richtlinien",
+  "erlaeuterung": "Acht Teile: 1 Allgemeines (Rechtsrahmen, EPG, Geltungsbereich, Abteilung), 2 Antrag auf einheitliche Wirkung, 3 Gebühren, 4 Kompensationssystem, 5 Wiedereinsetzung, 6 Unterbrechung und Aussetzung, 7 Register (Rechtsübergang, Lizenzen, Lizenzbereitschaft), 8 Verfahren vor der Abteilung (Vertretung, Fristen, Rechtsmittel). Die Richtlinien sind keine Rechtsvorschrift; maßgeblich sind EPatVO, EPatÜVO, DOEPS, GebOEPS und EPGÜ, an zweiter Stelle die Auslegung durch das EPG. Sie werden jährlich überarbeitet (Stand jeweils 1. Dezember des Vorjahres) und nur elektronisch veröffentlicht; Recherche, Prüfung und Einspruch bleiben Sache der EPÜ-Richtlinien."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_richtlinien",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie Richtlinien für das Einheitspatent beschreiben die Praxis der Abteilung für den einheitlichen Patentschutz zum Antrag auf einheitliche Wirkung, zu Gebühren, Kompensation, Wiedereinsetzung, Unterbrechung, Registereintragungen und Verfahren. Der Präsident des EPA erlässt sie nach R. 3 DOEPS i.V.m. Art. 10 Abs. 2 lit. a EPÜ; die Ausgabe April 2026 gilt seit dem 1.4.2026 (ABl. EPA 2026, A6) und ersetzt die erste Ausgabe vom 1.4.2025.",
+  "back": "UP-Richtlinien des EPA (Richtlinien für das Einheitspatent)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_richtlinien"
+ },
+ {
+  "id": "card:definition:concept:upc_up_generationen",
+  "typ": "definition",
+  "front": "Definiere: Territorialer Geltungsbereich und Generationen von Einheitspatenten",
+  "back": "Ein Einheitspatent gilt in den teilnehmenden Mitgliedstaaten, in denen das EPGÜ am Tag der Eintragung der einheitlichen Wirkung in Kraft ist (Art. 18 Abs. 2 EPatVO). Der Geltungsbereich bleibt für die gesamte Laufzeit unverändert und wird nicht auf Staaten erstreckt, die das EPGÜ später ratifizieren; jede weitere Ratifikation schafft eine neue „Generation“.\n\nNormen: Art. 18 EPatVO, Art. 2 EPatVO, R. 16 DOEPS, R. 5 DOEPS, Art. 89 EPGÜ",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_generationen",
+  "erlaeuterung": "Am 1.6.2023 startete das System mit 17 Staaten (Belgien, Bulgarien, Dänemark, Deutschland, Estland, Finnland, Frankreich, Italien, Lettland, Litauen, Luxemburg, Malta, Niederlande, Österreich, Portugal, Schweden, Slowenien). Seit dem 1.9.2024 gehört Rumänien dazu: Ab diesem Tag eingetragene Einheitspatente (zweite Generation) gelten in 18 Staaten, ältere weiterhin in 17. Vor einem angekündigten Beitritt kann der Inhaber die Verschiebung der Eintragung beantragen, um die neue Generation zu erreichen (ABl. EPA 2024, A61); die Monatsfrist des R. 6 Abs. 1 DOEPS bleibt davon unberührt. Der Geltungsbereich jedes Einheitspatents steht im Register (R. 16 Abs. 1 lit. g DOEPS). Anspruchsberechtigt ist das Patent aber nur, wenn es für alle 25 Staaten der Verstärkten Zusammenarbeit mit denselben Ansprüchen erteilt wurde, unabhängig davon, wo es dann wirkt."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_generationen",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nEin Einheitspatent gilt in den teilnehmenden Mitgliedstaaten, in denen das EPGÜ am Tag der Eintragung der einheitlichen Wirkung in Kraft ist (Art. 18 Abs. 2 EPatVO). Der Geltungsbereich bleibt für die gesamte Laufzeit unverändert und wird nicht auf Staaten erstreckt, die das EPGÜ später ratifizieren; jede weitere Ratifikation schafft eine neue „Generation“.",
+  "back": "Territorialer Geltungsbereich und Generationen von Einheitspatenten",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_generationen"
+ },
+ {
+  "id": "card:definition:concept:upc_antrag_einheitliche_wirkung",
+  "typ": "definition",
+  "front": "Definiere: Antrag auf einheitliche Wirkung (R. 5 bis 7 DOEPS)",
+  "back": "Der Inhaber des europäischen Patents beantragt die einheitliche Wirkung schriftlich in der Verfahrenssprache beim EPA, spätestens einen Monat nach Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt (R. 6 Abs. 1, 2 DOEPS; Art. 9 Abs. 1 lit. g EPatVO). Der Antrag enthält Angaben zum Inhaber und Vertreter, die Patentnummer und während der Übergangszeit die Übersetzung nach Art. 6 EPatÜVO. Voraussetzung ist, dass das Patent mit denselben Ansprüchen für alle teilnehmenden Mitgliedstaaten erteilt wurde (R. 5 Abs. 2 lit. a DOEPS).\n\nNormen: R. 5 DOEPS, R. 6 DOEPS, R. 7 DOEPS, R. 22 DOEPS, Art. 4 EPatVO, Art. 9 EPatVO, Art. 6 EPatÜVO, R. 97 VerfO\n\nRechtsprechung: EPG-BerG Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe) (UPC_CoA_796/2025)",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_antrag_einheitliche_wirkung",
+  "erlaeuterung": "Die Monatsfrist ist nicht verlängerbar, aber wiedereinsetzbar: binnen zwei Monaten nach Fristablauf, unabhängig vom Wegfall des Hindernisses (R. 22 Abs. 2 DOEPS). Ein früher Antrag ist nach der Erteilungsentscheidung möglich (Formblatt 2006A), wird aber erst ab dem Erteilungshinweis bearbeitet. Bei mehreren Inhabern müssen alle beantragen; Mitinhaber nur für nicht teilnehmende Staaten können es nicht. Erfüllt der Antrag R. 5 Abs. 2 und R. 6, trägt die Abteilung die einheitliche Wirkung ein und teilt den Tag mit (R. 7 Abs. 1, Formblatt 7030); das Patent wirkt rückwirkend ab dem Erteilungshinweis (Art. 4 Abs. 1 EPatVO). Formmängel nach R. 6 Abs. 2 sind binnen einer nicht verlängerbaren Monatsfrist behebbar (R. 7 Abs. 3), für die es keine Wiedereinsetzung gibt (R. 22 Abs. 6 DOEPS; Bodycap/EPA). Fehlt die Anspruchsberechtigung oder ist die Frist versäumt, ergeht nach rechtlichem Gehör die Zurückweisung (R. 7 Abs. 2), anfechtbar binnen drei Wochen nach R. 97 VerfO; nationale „Sicherheitsnetze“ erlauben dann teils noch die Validierung. Der Antrag ist gebührenfrei und kann bis zur Entscheidung zurückgenommen werden."
+ },
+ {
+  "id": "card:begriff:concept:upc_antrag_einheitliche_wirkung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDer Inhaber des europäischen Patents beantragt die einheitliche Wirkung schriftlich in der Verfahrenssprache beim EPA, spätestens einen Monat nach Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt (R. 6 Abs. 1, 2 DOEPS; Art. 9 Abs. 1 lit. g EPatVO). Der Antrag enthält Angaben zum Inhaber und Vertreter, die Patentnummer und während der Übergangszeit die Übersetzung nach Art. 6 EPatÜVO. Voraussetzung ist, dass das Patent mit denselben Ansprüchen für alle teilnehmenden Mitgliedstaaten erteilt wurde (R. 5 Abs. 2 lit. a DOEPS).",
+  "back": "Antrag auf einheitliche Wirkung (R. 5 bis 7 DOEPS)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_antrag_einheitliche_wirkung"
+ },
+ {
+  "id": "card:definition:concept:upc_up_uebersetzung",
+  "typ": "definition",
+  "front": "Definiere: Übersetzungsregelung und Übergangszeit (EPatÜVO)",
+  "back": "Nach Veröffentlichung der Patentschrift in der EPA-Verfahrenssprache sind für das Einheitspatent keine weiteren Übersetzungen erforderlich (Art. 3 EPatÜVO). Während einer Übergangszeit von sechs Jahren ab 1.6.2023, verlängerbar bis höchstens zwölf Jahre, ist mit dem Antrag auf einheitliche Wirkung jedoch eine vollständige Übersetzung der Patentschrift einzureichen: ins Englische, wenn die Verfahrenssprache Deutsch oder Französisch war, in eine andere EU-Amtssprache, wenn sie Englisch war (Art. 6 EPatÜVO, R. 6 Abs. 2 lit. d DOEPS).\n\nNormen: Art. 3 EPatÜVO, Art. 4 EPatÜVO, Art. 6 EPatÜVO, R. 6 DOEPS, R. 18 DOEPS, Art. 68 EPGÜ",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_uebersetzung",
+  "erlaeuterung": "Die Übersetzung dient nur der Information und hat keine Rechtswirkung; das EPA prüft sie nicht, veröffentlicht sie aber (R. 18 DOEPS); Berichtigung nach R. 139 EPÜ. Im Streitfall muss der Inhaber auf Verlangen des mutmaßlichen Verletzers eine vollständige Übersetzung in eine Amtssprache des Verletzungs- oder Sitzstaats und auf Anforderung des Gerichts in dessen Verfahrenssprache vorlegen, jeweils auf eigene Kosten (Art. 4 Abs. 1 bis 3 EPatÜVO). Bei Schadensersatzansprüchen berücksichtigt das Gericht, ob ein KMU, eine natürliche Person oder eine Hochschule vor Erhalt der Übersetzung gutgläubig war (Art. 4 Abs. 4). Ergänzend deckt das Kompensationssystem die Übersetzungskosten der Anmeldephase."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_uebersetzung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nNach Veröffentlichung der Patentschrift in der EPA-Verfahrenssprache sind für das Einheitspatent keine weiteren Übersetzungen erforderlich (Art. 3 EPatÜVO). Während einer Übergangszeit von sechs Jahren ab 1.6.2023, verlängerbar bis höchstens zwölf Jahre, ist mit dem Antrag auf einheitliche Wirkung jedoch eine vollständige Übersetzung der Patentschrift einzureichen: ins Englische, wenn die Verfahrenssprache Deutsch oder Französisch war, in eine andere EU-Amtssprache, wenn sie Englisch war (Art. 6 EPatÜVO, R. 6 Abs. 2 lit. d DOEPS).",
+  "back": "Übersetzungsregelung und Übergangszeit (EPatÜVO)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_uebersetzung"
+ },
+ {
+  "id": "card:definition:concept:upc_up_kompensation",
+  "typ": "definition",
+  "front": "Definiere: Kompensationssystem für Übersetzungskosten (Art. 5 EPatÜVO, R. 8 bis 11 DOEPS)",
+  "back": "Wer die europäische Patentanmeldung oder Euro-PCT-Anmeldung in einer anderen EU-Amtssprache als Deutsch, Englisch oder Französisch eingereicht hat, erhält bei Eintragung des Einheitspatents eine Pauschale von 500 EUR (R. 11 DOEPS, Art. 4 Abs. 1 GebOEPS), wenn alle Inhaber und gegebenenfalls alle ursprünglichen Anmelder natürliche Personen, KMU, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen oder öffentliche Forschungseinrichtungen mit Wohnsitz oder Sitz in einem EU-Mitgliedstaat sind (R. 8 DOEPS).\n\nNormen: Art. 5 EPatÜVO, R. 8 DOEPS, R. 9 DOEPS, R. 10 DOEPS, R. 11 DOEPS, Art. 4 GebOEPS",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_kompensation",
+  "erlaeuterung": "Der Antrag ist zusammen mit dem Antrag auf einheitliche Wirkung zu stellen (Kästchen im Formblatt 7000) und enthält eine Erklärung über den Status (R. 9 DOEPS); der Sitz muss in der EU liegen, nicht notwendig in einem teilnehmenden Staat. Gewährt wird erst nach Eintragung der einheitlichen Wirkung, danach unwiderruflich auch bei späterem Statuswechsel (R. 10 Abs. 1, 2). Bei Zweifeln verlangt die Abteilung Nachweise, etwa Handelsregisterauszüge; beruhte die Kompensation auf einer unrichtigen Erklärung, sind sie und eine Verwaltungsgebühr von 50 % mit der nächsten Jahresgebühr zurückzuzahlen, sonst erlischt das Patent (R. 10 Abs. 4, R. 14 DOEPS, Art. 4 Abs. 2 GebOEPS). Die Kompensation ergänzt die Gebührenermäßigung nach R. 7a EPÜ für Anmeldungen in einer zugelassenen Nichtamtssprache."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_kompensation",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nWer die europäische Patentanmeldung oder Euro-PCT-Anmeldung in einer anderen EU-Amtssprache als Deutsch, Englisch oder Französisch eingereicht hat, erhält bei Eintragung des Einheitspatents eine Pauschale von 500 EUR (R. 11 DOEPS, Art. 4 Abs. 1 GebOEPS), wenn alle Inhaber und gegebenenfalls alle ursprünglichen Anmelder natürliche Personen, KMU, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen oder öffentliche Forschungseinrichtungen mit Wohnsitz oder Sitz in einem EU-Mitgliedstaat sind (R. 8 DOEPS).",
+  "back": "Kompensationssystem für Übersetzungskosten (Art. 5 EPatÜVO, R. 8 bis 11 DOEPS)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_kompensation"
+ },
+ {
+  "id": "card:definition:concept:upc_up_jahresgebuehren",
+  "typ": "definition",
+  "front": "Definiere: Jahresgebühren des Einheitspatents (Art. 11, 12 EPatVO; R. 13, 14 DOEPS; Art. 2 GebOEPS)",
+  "back": "Für das Einheitspatent ist eine einzige Jahresgebühr in Euro an das EPA zu zahlen, fällig für die Jahre nach dem Jahr des Erteilungshinweises, jeweils am letzten Tag des Monats, der dem Anmeldemonat entspricht (Art. 11 EPatVO, R. 13 Abs. 1, 2 DOEPS). Die Beträge stehen in Art. 2 Abs. 1 Nr. 1 GebOEPS (2. Jahr 35 EUR bis 20. Jahr 4 855 EUR, „True Top 4“); Zahlung ohne Vertreterzwang durch jedermann.\n\nNormen: Art. 11 EPatVO, Art. 12 EPatVO, Art. 13 EPatVO, R. 13 DOEPS, R. 14 DOEPS, R. 22 DOEPS, Art. 2 GebOEPS, Art. 3 GebOEPS",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_jahresgebuehren",
+  "erlaeuterung": "Zahlbar frühestens drei Monate vor Fälligkeit; Nachfrist sechs Monate mit Zuschlag von 50 % (R. 13 Abs. 3, Art. 2 Abs. 1 Nr. 2 GebOEPS), berechnet „von Ultimo zu Ultimo“. Wird nicht gezahlt, erlischt das Patent rückwirkend zum Fälligkeitstag (R. 14 Abs. 1 lit. b, Abs. 2 DOEPS); das EPA stellt den Rechtsverlust fest (R. 112 EPÜ), Wiedereinsetzung ist binnen eines Jahres ab Ende der Nachfrist möglich (R. 22 DOEPS). Besonderheiten: Gebühren, die binnen drei Monaten nach Zustellung der Eintragungsmitteilung fällig werden, können in dieser Frist ohne Zuschlag gezahlt werden (R. 13 Abs. 4); Gebühren, die zwischen Erteilungshinweis und Mitteilung fällig geworden wären, werden erst mit der Mitteilung fällig (R. 13 Abs. 5). Bei Lizenzbereitschaft ermäßigt sich die Gebühr um 15 % (Art. 3 GebOEPS). Das EPA behält 50 % der Einnahmen, der Rest geht an die teilnehmenden Staaten (Art. 13 EPatVO). Klassische Bündelpatente zahlen dagegen nationale Jahresgebühren je Staat."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_jahresgebuehren",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nFür das Einheitspatent ist eine einzige Jahresgebühr in Euro an das EPA zu zahlen, fällig für die Jahre nach dem Jahr des Erteilungshinweises, jeweils am letzten Tag des Monats, der dem Anmeldemonat entspricht (Art. 11 EPatVO, R. 13 Abs. 1, 2 DOEPS). Die Beträge stehen in Art. 2 Abs. 1 Nr. 1 GebOEPS (2. Jahr 35 EUR bis 20. Jahr 4 855 EUR, „True Top 4“); Zahlung ohne Vertreterzwang durch jedermann.",
+  "back": "Jahresgebühren des Einheitspatents (Art. 11, 12 EPatVO; R. 13, 14 DOEPS; Art. 2 GebOEPS)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_jahresgebuehren"
+ },
+ {
+  "id": "card:definition:concept:upc_up_lizenzbereitschaft",
+  "typ": "definition",
+  "front": "Definiere: Lizenzbereitschaft (Art. 8 EPatVO, R. 12 DOEPS)",
+  "back": "Der Inhaber eines Einheitspatents kann beim EPA erklären, dass er jedermann die Benutzung der Erfindung als Lizenznehmer gegen angemessene Vergütung gestattet (Art. 8 Abs. 1 EPatVO, R. 12 Abs. 1 DOEPS). Eine auf dieser Grundlage erworbene Lizenz gilt als Vertragslizenz (Art. 8 Abs. 2 EPatVO); die Jahresgebühren ermäßigen sich ab Eingang der Erklärung um 15 % (Art. 3 GebOEPS).\n\nNormen: Art. 8 EPatVO, R. 12 DOEPS, Art. 3 GebOEPS, Art. 32 Abs. 1 EPGÜ, R. 16 DOEPS",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_lizenzbereitschaft",
+  "erlaeuterung": "Die Erklärung (Formblatt 7001) wird gebührenfrei eingetragen; sie ist ausgeschlossen, solange eine ausschließliche Lizenz eingetragen oder beantragt ist (R. 12 Abs. 3), und danach ist keine ausschließliche Lizenz mehr eintragbar (R. 12 Abs. 4). Die Zurücknahme ist jederzeit möglich, wird aber erst mit Rückzahlung der gesamten Ermäßigung wirksam (R. 12 Abs. 2). Über die angemessene Vergütung entscheidet das EPG (Art. 32 Abs. 1 lit. h EPGÜ). Vorbild ist die Lizenzbereitschaftserklärung des § 23 PatG. Davon zu unterscheiden sind Lizenzzusagen gegenüber Normungsgremien (FRAND), die das EPA nur entgegennimmt und im Register vermerkt (Art. 9 Abs. 1 lit. c EPatVO, R. 16 Abs. 1 lit. k DOEPS)."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_lizenzbereitschaft",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDer Inhaber eines Einheitspatents kann beim EPA erklären, dass er jedermann die Benutzung der Erfindung als Lizenznehmer gegen angemessene Vergütung gestattet (Art. 8 Abs. 1 EPatVO, R. 12 Abs. 1 DOEPS). Eine auf dieser Grundlage erworbene Lizenz gilt als Vertragslizenz (Art. 8 Abs. 2 EPatVO); die Jahresgebühren ermäßigen sich ab Eingang der Erklärung um 15 % (Art. 3 GebOEPS).",
+  "back": "Lizenzbereitschaft (Art. 8 EPatVO, R. 12 DOEPS)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_lizenzbereitschaft"
+ },
+ {
+  "id": "card:definition:concept:upc_up_register",
+  "typ": "definition",
+  "front": "Definiere: Register für den einheitlichen Patentschutz, Rechtsübergang und Lizenzen",
+  "back": "Das EPA führt das Register für den einheitlichen Patentschutz als gesonderten Teil des Europäischen Patentregisters (Art. 9 Abs. 1 lit. b EPatVO, R. 15 DOEPS). Es enthält die Eintragung der einheitlichen Wirkung mit Datum und Geltungsbereich, Rechtsübergänge, Lizenzen, dingliche Rechte, Beschränkung, Widerruf, Erlöschen, Lizenzbereitschaft und Lizenzzusagen (R. 16 DOEPS). Ein Einheitspatent kann nur für alle Staaten zugleich übertragen, aber für Teilgebiete lizenziert werden (Art. 3 Abs. 2 EPatVO).\n\nNormen: Art. 9 EPatVO, Art. 3 EPatVO, R. 15 DOEPS, R. 16 DOEPS, R. 17 DOEPS, R. 20 DOEPS",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_register",
+  "erlaeuterung": "Eintragungen erfolgen auf Antrag nach den EPÜ-Regeln (R. 20 Abs. 2 lit. b DOEPS i.V.m. R. 22 bis 24 EPÜ) gegen Nachweis, etwa den Übertragungsvertrag; die Verwaltungsgebühr entfällt bei Anträgen über MyEPO. Eine Lizenz wird als ausschließlich bezeichnet, wenn Inhaber und Lizenznehmer es beantragen, als Unterlizenz, wenn sie ein eingetragener Lizenznehmer erteilt. Welches Recht für dingliche Rechte und Zwangsvollstreckung gilt, bestimmt Art. 7 EPatVO. Einheitspatente erkennt man im Register am Code „C0“; für sie gibt es einen eigenen Teil des Europäischen Patentblatts (R. 17 DOEPS). Anders als beim Bündelpatent ersetzt die zentrale Eintragung die parallelen Eintragungen in den nationalen Registern."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_register",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDas EPA führt das Register für den einheitlichen Patentschutz als gesonderten Teil des Europäischen Patentregisters (Art. 9 Abs. 1 lit. b EPatVO, R. 15 DOEPS). Es enthält die Eintragung der einheitlichen Wirkung mit Datum und Geltungsbereich, Rechtsübergänge, Lizenzen, dingliche Rechte, Beschränkung, Widerruf, Erlöschen, Lizenzbereitschaft und Lizenzzusagen (R. 16 DOEPS). Ein Einheitspatent kann nur für alle Staaten zugleich übertragen, aber für Teilgebiete lizenziert werden (Art. 3 Abs. 2 EPatVO).",
+  "back": "Register für den einheitlichen Patentschutz, Rechtsübergang und Lizenzen",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_register"
+ },
+ {
+  "id": "card:definition:concept:upc_up_vermoegen",
+  "typ": "definition",
+  "front": "Definiere: Einheitspatent als Gegenstand des Vermögens (Art. 7 EPatVO)",
+  "back": "Als Gegenstand des Vermögens wird das Einheitspatent in seiner Gesamtheit und in allen teilnehmenden Mitgliedstaaten wie ein nationales Patent des Staates behandelt, in dem der Anmelder am Anmeldetag laut Europäischem Patentregister seinen Wohnsitz oder Hauptniederlassung hatte, hilfsweise eine Niederlassung (Art. 7 Abs. 1 EPatVO). Bei mehreren Anmeldern gilt der erstgenannte, bei dem die Voraussetzung vorliegt (Abs. 2). Trifft nichts zu, gilt deutsches Recht als Recht des Sitzstaats der EPO (Abs. 3).\n\nNormen: Art. 7 EPatVO, Art. 5 EPatVO, R. 16 DOEPS, Art. 24 EPGÜ",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_vermoegen",
+  "erlaeuterung": "Die Kollisionsnorm entscheidet über Übertragung, Verpfändung, Zwangsvollstreckung und Insolvenz des Einheitspatents. Ein Anmelder aus einem Drittstaat kann mit dem Antrag auf einheitliche Wirkung freiwillig eine Niederlassung am Anmeldetag angeben (R. 16 Abs. 1 lit. w DOEPS); fehlt sie, gilt deutsches Recht. Die Angabe wird nicht angezeigt, wenn das EPGÜ in dem genannten Staat bei Eintragung nicht in Kraft ist. Für die Verletzung und ihre Rechtsfolgen gilt dagegen Art. 5 Abs. 3 EPatVO, der zum EPGÜ führt."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_vermoegen",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nAls Gegenstand des Vermögens wird das Einheitspatent in seiner Gesamtheit und in allen teilnehmenden Mitgliedstaaten wie ein nationales Patent des Staates behandelt, in dem der Anmelder am Anmeldetag laut Europäischem Patentregister seinen Wohnsitz oder Hauptniederlassung hatte, hilfsweise eine Niederlassung (Art. 7 Abs. 1 EPatVO). Bei mehreren Anmeldern gilt der erstgenannte, bei dem die Voraussetzung vorliegt (Abs. 2). Trifft nichts zu, gilt deutsches Recht als Recht des Sitzstaats der EPO (Abs. 3).",
+  "back": "Einheitspatent als Gegenstand des Vermögens (Art. 7 EPatVO)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_vermoegen"
+ },
+ {
+  "id": "card:definition:concept:upc_up_abteilung",
+  "typ": "definition",
+  "front": "Definiere: Abteilung für den einheitlichen Patentschutz und Verfahren vor dem EPA",
+  "back": "Die teilnehmenden Mitgliedstaaten haben dem EPA nach Art. 143 EPÜ die Verwaltung des Einheitspatents übertragen (Art. 9 EPatVO): Anträge auf einheitliche Wirkung, Register, Jahresgebühren, Kompensation, Lizenzbereitschaft. Zuständig ist die Abteilung für den einheitlichen Patentschutz, deren Entscheidungen ein rechtskundiges Mitglied trifft (R. 4 DOEPS). Für das Verfahren verweist R. 20 DOEPS auf das EPÜ: Vertretung, rechtliches Gehör, Zustellung, Fristenberechnung, Unterbrechung, Registereintragungen.\n\nNormen: Art. 9 EPatVO, R. 4 DOEPS, R. 20 DOEPS, R. 21 DOEPS, R. 22 DOEPS, R. 3 DOEPS",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_abteilung",
+  "erlaeuterung": "Eigenheiten gegenüber dem EPÜ-Verfahren: Fristen der Abteilung betragen ein bis vier Monate und sind nicht verlängerbar (R. 20 Abs. 4); keine Weiterbehandlung (R. 135 EPÜ), aber Wiedereinsetzung nach R. 22 DOEPS; der Antrag auf einheitliche Wirkung ist in der Verfahrenssprache zu stellen, Nichtamtssprachen sind ausgeschlossen; eine mündliche Verhandlung findet im Antragsverfahren nur auf Antrag des Inhabers statt und ist nicht öffentlich (R. 21); für das Einheitspatent ist ein eigener Vertreter zu bestellen, Inhaber mit Sitz in einem EPÜ-Staat können durch Angestellte handeln, Jahresgebühren kann jeder zahlen. Der Präsident kann das Eintragungsverfahren vorsorglich aussetzen (R. 3 DOEPS, Sanktionsfälle 2024). Rechtsschutz gibt es nicht bei den Beschwerdekammern, sondern beim EPG."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_abteilung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie teilnehmenden Mitgliedstaaten haben dem EPA nach Art. 143 EPÜ die Verwaltung des Einheitspatents übertragen (Art. 9 EPatVO): Anträge auf einheitliche Wirkung, Register, Jahresgebühren, Kompensation, Lizenzbereitschaft. Zuständig ist die Abteilung für den einheitlichen Patentschutz, deren Entscheidungen ein rechtskundiges Mitglied trifft (R. 4 DOEPS). Für das Verfahren verweist R. 20 DOEPS auf das EPÜ: Vertretung, rechtliches Gehör, Zustellung, Fristenberechnung, Unterbrechung, Registereintragungen.",
+  "back": "Abteilung für den einheitlichen Patentschutz und Verfahren vor dem EPA",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_abteilung"
+ },
+ {
+  "id": "card:definition:concept:upc_up_rechtsbehelf",
+  "typ": "definition",
+  "front": "Definiere: Klage gegen Entscheidungen des EPA zum Einheitspatent (Art. 32 Abs. 1 lit. i, Art. 66 EPGÜ; R. 85 bis 98 VerfO)",
+  "back": "Gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz ist nicht die Beschwerde zu den Beschwerdekammern, sondern die Klage vor dem EPG gegeben (Art. 9 Abs. 3 EPatVO; R. 23 DOEPS; Art. 32 Abs. 1 lit. i EPGÜ). Das Gericht kann die Entscheidung aufheben oder abändern (Art. 66 EPGÜ). Die Klage ist binnen zwei Monaten nach Zustellung bei der Kanzlei einzureichen (R. 88 VerfO); gegen die Zurückweisung des Antrags auf einheitliche Wirkung gilt das beschleunigte Verfahren nach R. 97 VerfO mit einer Frist von drei Wochen und Entscheidung durch den Eilrichter binnen drei Wochen.\n\nNormen: Art. 32 Abs. 1 EPGÜ, Art. 66 EPGÜ, Art. 48 Abs. 7 EPGÜ, R. 85 VerfO, R. 88 VerfO, R. 91 VerfO, R. 97 VerfO, R. 23 DOEPS, R. 24 DOEPS, Art. 9 EPatVO\n\nRechtsprechung: EPG-BerG Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe) (UPC_CoA_796/2025)",
+  "tags": [
+   "Begriff",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_rechtsbehelf",
+  "erlaeuterung": "Zuständig ist die Zentralkammer (Art. 33 Abs. 7 EPGÜ analog; Anhang II), Verfahrenssprache ist die Sprache des Patents; der Vertretungszwang gilt hier nicht (Art. 48 Abs. 7 EPGÜ). Die Abhilfe durch das EPA (R. 24 DOEPS, R. 91 VerfO: zwei Monate nach Zustellung der zulässigen Klage) ist im Verfahren nach R. 97 VerfO ausgeschlossen, weil R. 85 Abs. 2 VerfO beschleunigte Verfahren ausnimmt und R. 97 lex specialis ist (EPG-BerG Bodycap/EPA). Das EPA ist an die Entscheidung des EPG gebunden (R. 1 Abs. 1 DOEPS). Anfechtbar sind auch die Zurückweisung der Kompensation, der Wiedereinsetzung und die Entscheidung über einen Rechtsverlust nach R. 112 Abs. 2 EPÜ."
+ },
+ {
+  "id": "card:begriff:concept:upc_up_rechtsbehelf",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nGegen Entscheidungen der Abteilung für den einheitlichen Patentschutz ist nicht die Beschwerde zu den Beschwerdekammern, sondern die Klage vor dem EPG gegeben (Art. 9 Abs. 3 EPatVO; R. 23 DOEPS; Art. 32 Abs. 1 lit. i EPGÜ). Das Gericht kann die Entscheidung aufheben oder abändern (Art. 66 EPGÜ). Die Klage ist binnen zwei Monaten nach Zustellung bei der Kanzlei einzureichen (R. 88 VerfO); gegen die Zurückweisung des Antrags auf einheitliche Wirkung gilt das beschleunigte Verfahren nach R. 97 VerfO mit einer Frist von drei Wochen und Entscheidung durch den Eilrichter binnen drei Wochen.",
+  "back": "Klage gegen Entscheidungen des EPA zum Einheitspatent (Art. 32 Abs. 1 lit. i, Art. 66 EPGÜ; R. 85 bis 98 VerfO)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "concept:upc_up_rechtsbehelf"
+ },
+ {
   "id": "card:definition:concept:upc_durchsetzungsrl_bezug",
   "typ": "definition",
   "front": "Definiere: EPGÜ und Durchsetzungsrichtlinie 2004/48/EG",
@@ -5018,6 +5306,17 @@
    "Klausur"
   ],
   "node": "schema:schema_wiedereinsetzung"
+ },
+ {
+  "id": "card:schema:schema:upc_schema_einheitliche_wirkung",
+  "typ": "schema",
+  "front": "Prüfungsschema: Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS)",
+  "back": "- A. Anspruchsberechtigung (Art. 3 Abs. 1 EPatVO, R. 5 Abs. 2 DOEPS)\n- B. Antrag: Frist, Form, Inhalt (R. 6 DOEPS)\n  - 1. Monatsfrist ab Erteilungshinweis (R. 6 Abs. 1)\n  - 2. Schriftlich, in der Verfahrenssprache, Formblatt 7000 (R. 6 Abs. 2)\n  - 3. Übersetzung in der Übergangszeit (Art. 6 EPatÜVO, R. 6 Abs. 2 lit. d)\n  - 4. Zugleich: Antrag auf Kompensation (R. 9 DOEPS)\n- C. Prüfung und Eintragung (R. 7 DOEPS)\n  - 1. Eintragung und Wirksamwerden (R. 7 Abs. 1, Art. 4 Abs. 1 EPatVO)\n  - 2. Formmängel: Monatsfrist ohne Wiedereinsetzung (R. 7 Abs. 3)\n  - 3. Zurückweisung (R. 7 Abs. 2, 3)\n- D. Rechtsbehelf: Klage vor dem EPG (R. 23, 24 DOEPS; R. 85 bis 98 VerfO)\n- E. Nach der Eintragung: Jahresgebühren, Register, Lizenzen\n  - 1. Jahresgebühren an das EPA (R. 13, 14 DOEPS; Art. 2 GebOEPS)\n  - 2. Lizenzbereitschaft (Art. 8 EPatVO, R. 12 DOEPS)\n  - 3. Rechtsübergang, Lizenzen, Vermögensstatut (Art. 3 Abs. 2, Art. 7 EPatVO; R. 16 DOEPS)",
+  "tags": [
+   "Prüfungsschema",
+   "Einheitspatent: Erteilung und Verwaltung"
+  ],
+  "node": "schema:upc_schema_einheitliche_wirkung"
  },
  {
   "id": "card:schema:schema:upc_schema_zustaendigkeit",
@@ -5416,6 +5715,39 @@
   "node": "step:schema_wiedereinsetzung.4"
  },
  {
+  "id": "card:schema_step:step:upc_schema_einheitliche_wirkung.2",
+  "typ": "schema_step",
+  "front": "B. Antrag: Frist, Form, Inhalt (R. 6 DOEPS)\n(Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS))\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- 1. Monatsfrist ab Erteilungshinweis (R. 6 Abs. 1)\n- 2. Schriftlich, in der Verfahrenssprache, Formblatt 7000 (R. 6 Abs. 2)\n- 3. Übersetzung in der Übergangszeit (Art. 6 EPatÜVO, R. 6 Abs. 2 lit. d)\n- 4. Zugleich: Antrag auf Kompensation (R. 9 DOEPS)",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:upc_schema_einheitliche_wirkung.2"
+ },
+ {
+  "id": "card:schema_step:step:upc_schema_einheitliche_wirkung.3",
+  "typ": "schema_step",
+  "front": "C. Prüfung und Eintragung (R. 7 DOEPS)\n(Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS))\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- 1. Eintragung und Wirksamwerden (R. 7 Abs. 1, Art. 4 Abs. 1 EPatVO)\n- 2. Formmängel: Monatsfrist ohne Wiedereinsetzung (R. 7 Abs. 3)\n- 3. Zurückweisung (R. 7 Abs. 2, 3)",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:upc_schema_einheitliche_wirkung.3"
+ },
+ {
+  "id": "card:schema_step:step:upc_schema_einheitliche_wirkung.5",
+  "typ": "schema_step",
+  "front": "E. Nach der Eintragung: Jahresgebühren, Register, Lizenzen\n(Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS))\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- 1. Jahresgebühren an das EPA (R. 13, 14 DOEPS; Art. 2 GebOEPS)\n- 2. Lizenzbereitschaft (Art. 8 EPatVO, R. 12 DOEPS)\n- 3. Rechtsübergang, Lizenzen, Vermögensstatut (Art. 3 Abs. 2, Art. 7 EPatVO; R. 16 DOEPS)",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:upc_schema_einheitliche_wirkung.5"
+ },
+ {
   "id": "card:schema_step:step:upc_schema_zustaendigkeit.4",
   "typ": "schema_step",
   "front": "D. Zuständige Kammer (Art. 33 EPGÜ)\n(Zuständigkeit des EPG und Kammerwahl (Art. 31 bis 34 EPGÜ))\n\nWelche Punkte sind hier zu prüfen?",
@@ -5735,6 +6067,16 @@
    "Abgrenzung"
   ],
   "node": "distinction:d_durchsetzungsrl_umsetzung"
+ },
+ {
+  "id": "card:abgrenzung:distinction:d_upc_einheitspatent_buendelpatent",
+  "typ": "abgrenzung",
+  "front": "Worin unterscheiden sich das europäische Patent mit einheitlicher Wirkung und das klassische, national validierte europäische Patent nach der Erteilung?\n(Einheitspatent vs. klassisches europäisches Patent (Bündelpatent))",
+  "back": "• Rechtsgrundlage nach Erteilung — Einheitspatent: Verordnungen (EU) Nr. 1257/2012 und 1260/2012, DOEPS, GebOEPS; Praxis in den UP-Richtlinien | Klassisches europäisches Patent: Art. 64 ff. EPÜ und nationales Recht der benannten Staaten (in Deutschland IntPatÜG, PatG)\n• Entstehung — Einheitspatent: Antrag auf einheitliche Wirkung beim EPA binnen eines Monats nach Erteilungshinweis, Eintragung im Register (R. 6, 7 DOEPS); Wirkung rückwirkend ab Erteilungshinweis (Art. 4 EPatVO) | Klassisches europäisches Patent: Validierung Staat für Staat: Übersetzung, Gebühren und Vertreter nach nationalem Recht (Art. 65 EPÜ, Londoner Übereinkommen)\n• Geltungsbereich — Einheitspatent: Einheitlich in den teilnehmenden Mitgliedstaaten, in denen das EPGÜ bei Eintragung in Kraft war (17 bzw. seit 1.9.2024 18 Staaten); Generation bleibt fest (Art. 18 Abs. 2 EPatVO) | Klassisches europäisches Patent: Bündel nationaler Schutzrechte in allen benannten EPÜ-Staaten (bis zu 39 plus Erstreckungs- und Validierungsstaaten), frei wählbar\n• Übersetzungen — Einheitspatent: Übergangszeit: eine vollständige Übersetzung zur Information (Art. 6 EPatÜVO); danach keine; im Streitfall Übersetzung auf Kosten des Inhabers (Art. 4 EPatÜVO); Kompensation 500 EUR für KMU u.a. | Klassisches europäisches Patent: Übersetzung der Patentschrift oder Ansprüche je nach Staat und Londoner Übereinkommen; keine Kompensation\n• Jahresgebühren — Einheitspatent: Eine Gebühr an das EPA nach Art. 2 GebOEPS (2. bis 20. Jahr 35 bis 4 855 EUR, gesamt 35 555 EUR); Nachfrist sechs Monate mit 50 % Zuschlag (R. 13 DOEPS); 15 % Ermäßigung bei Lizenzbereitschaft | Klassisches europäisches Patent: Nationale Jahresgebühren je Staat in Landeswährung mit eigenen Fristen und Vertretern (Art. 141 EPÜ; § 17 PatG, § 7 PatKostG)\n• Verfügungen und Register — Einheitspatent: Übertragung nur für alle Staaten, Lizenz auch für Teilgebiete (Art. 3 Abs. 2 EPatVO); Eintragung zentral im Register für den einheitlichen Patentschutz (R. 15, 16 DOEPS); Vermögensstatut nach Art. 7 EPatVO | Klassisches europäisches Patent: Jeder nationale Teil ist getrennt übertragbar und wird im nationalen Register eingetragen (§ 30 PatG)\n• Materielles Recht — Einheitspatent: Art. 25 bis 30 EPGÜ über die Verweisung des Art. 5 Abs. 3 EPatVO, einheitlich für alle Staaten | Klassisches europäisches Patent: Nationales Recht (§§ 9 ff. PatG) oder, ohne Opt-out, Art. 25 bis 30 EPGÜ vor dem EPG\n• Gericht — Einheitspatent: Ausschließlich das EPG, kein Opt-out (Art. 3 lit. a, Art. 32 EPGÜ); Klagen gegen EPA-Entscheidungen ebenfalls zum EPG (Art. 32 Abs. 1 lit. i) | Klassisches europäisches Patent: Übergangszeit bis 31.5.2030 (verlängerbar): Wahl zwischen EPG und nationalen Gerichten; Opt-out möglich (Art. 83 EPGÜ)\n• Erlöschen und Nichtigkeit — Einheitspatent: Nur für alle Staaten zugleich: Erlöschen bei Nichtzahlung (R. 14 DOEPS), Nichtigerklärung durch das EPG mit Wirkung für alle Staaten (Art. 34, 65 EPGÜ); Einspruch beim EPA weiterhin möglich | Klassisches europäisches Patent: Je Staat: nationale Nichtigkeitsklage (§ 81 PatG) oder EPG-Nichtigkeitsklage für alle Vertragsmitgliedstaaten; Erlöschen je Staat\n\nMerksatz: Ein Antrag, ein Register, eine Gebühr, ein Gericht – das Einheitspatent ersetzt das Bündel durch ein einheitliches Recht, aber nur in den Staaten seiner Generation.",
+  "tags": [
+   "Abgrenzung"
+  ],
+  "node": "distinction:d_upc_einheitspatent_buendelpatent"
  },
  {
   "id": "card:abgrenzung:distinction:d_upc_lokalkammer_zentralkammer",
@@ -11016,6 +11358,37 @@
   "node": "case:upc_coa_hefei_grundfos_neues_vorbringen"
  },
  {
+  "id": "card:entscheidung:case:upc_coa_bodycap_epa_r97",
+  "typ": "entscheidung",
+  "front": "EPG-BerG „Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe)“ (UPC_CoA_796/2025, 2025) – Kernaussage?",
+  "back": "Der Antrag auf Aufhebung einer Entscheidung des EPA, mit der ein Antrag auf einheitliche Wirkung zurückgewiesen wurde, richtet sich allein nach R. 97 VerfO: Frist drei Wochen, Weiterleitung an den Eilrichter, Entscheidung binnen drei Wochen. Er ist ein beschleunigtes Verfahren im Sinne von R. 85 Abs. 2 VerfO, sodass die Abhilfe durch das EPA nach R. 91 VerfO (R. 24 DOEPS) nicht stattfindet; R. 97 VerfO ist lex specialis. Die Mängelfrist des R. 7 Abs. 3 DOEPS (ein Monat, nicht verlängerbar) ist zwingend und einer Wiedereinsetzung nicht zugänglich. Anordnung des Eilrichters des Berufungsgerichts (Bodycap, CNRS und Université de Rennes gegen das EPA; Verfahrenssprache Französisch).\n\nNormen: Art. 32 Abs. 1 EPGÜ, Art. 66 EPGÜ, R. 22 DOEPS, R. 24 DOEPS, R. 7 DOEPS, R. 85 VerfO, R. 91 VerfO, R. 97 VerfO\nFundstelle: EPG, UPC_CoA_796/2025",
+  "tags": [
+   "Rechtsprechung",
+   "EPG-BerG",
+   "Einheitspatent",
+   "R. 97 VerfO",
+   "Abhilfe",
+   "DOEPS"
+  ],
+  "node": "case:upc_coa_bodycap_epa_r97"
+ },
+ {
+  "id": "card:entscheidung_r:case:upc_coa_bodycap_epa_r97",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?\n\nDer Antrag auf Aufhebung einer Entscheidung des EPA, mit der ein Antrag auf einheitliche Wirkung zurückgewiesen wurde, richtet sich allein nach R. 97 VerfO: Frist drei Wochen, Weiterleitung an den Eilrichter, Entscheidung binnen drei Wochen. Er ist ein beschleunigtes Verfahren im Sinne von R. 85 Abs. 2 VerfO, sodass die Abhilfe durch das EPA nach R. 91 VerfO (R. 24 DOEPS) nicht stattfindet; R. 97 VerfO ist lex specialis. Die Mängelfrist des R. 7 Abs. 3 DOEPS (ein Monat, nicht verlängerbar) ist zwingend und einer Wiedereinsetzung nicht zugänglich. Anordnung des Eilrichters des Berufungsgerichts (Bodycap, CNRS und Université de Rennes gegen das EPA; Verfahrenssprache Französisch).",
+  "back": "EPG-BerG „Bodycap/EPA (Zurückweisung des Antrags auf einheitliche Wirkung, keine Abhilfe)“ – UPC_CoA_796/2025 (2025), EPG, UPC_CoA_796/2025",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "EPG-BerG",
+   "Einheitspatent",
+   "R. 97 VerfO",
+   "Abhilfe",
+   "DOEPS"
+  ],
+  "node": "case:upc_coa_bodycap_epa_r97"
+ },
+ {
   "id": "card:entscheidung:case:upc_coa_silimed_polytech_optout",
   "typ": "entscheidung",
   "front": "EPG-BerG „Silimed/Polytech (Entfernung eines unbefugten Opt-out)“ (UPC-CoA-066/2026, 2026) – Kernaussage?",
@@ -13063,7 +13436,7 @@
   "id": "card:eunorm:eunorm:upca:2",
   "typ": "eunorm",
   "front": "Was regelt Art. 2 EPGÜ (Begriffsbestimmungen)?",
-  "back": "Begriffsbestimmungen\n\nFür die Zwecke dieses Übereinkommens bezeichnet der Ausdruck a) \"Gericht\" das Einheitliche Patentgericht, das mit diesem Übereinkommen errichtet wird, b) \"Mitgliedstaat\" einen Mitgliedstaat der Europäischen Union, c) \"Vertragsmitgliedstaat\" einen Mitgliedstaat, der Vertragspartei dieses Übereinkommens ist, d) \"EPÜ\" das Übereinkommen über die Erteilung europäischer Patente vom 5. Oktober 1973 mit allen nachfolgenden Änderungen, e) \"europäisches Patent\" ein nach dem EPÜ erteiltes Patent, das keine einheitliche Wirkung aufgrund der Verordnung (EU) Nr. 1257/2012 hat, f) \"europäisches Patent mit ei …\n\nHinweis: Begriffe merken: „Vertragsmitgliedstaat“ (nur EU-Staaten, die das EPGÜ ratifiziert haben), „europäisches Patent mit einheitlicher Wirkung“ und „europäisches Patent“ (Bündelpatent, soweit nicht opt-out).\n\nIn 3 Entscheidungen des EPG zitiert.",
+  "back": "Begriffsbestimmungen\n\nFür die Zwecke dieses Übereinkommens bezeichnet der Ausdruck a) \"Gericht\" das Einheitliche Patentgericht, das mit diesem Übereinkommen errichtet wird, b) \"Mitgliedstaat\" einen Mitgliedstaat der Europäischen Union, c) \"Vertragsmitgliedstaat\" einen Mitgliedstaat, der Vertragspartei dieses Übereinkommens ist, d) \"EPÜ\" das Übereinkommen über die Erteilung europäischer Patente vom 5. Oktober 1973 mit allen nachfolgenden Änderungen, e) \"europäisches Patent\" ein nach dem EPÜ erteiltes Patent, das keine einheitliche Wirkung aufgrund der Verordnung (EU) Nr. 1257/2012 hat, f) \"europäisches Patent mit ei …\n\nUmsetzung im EPGÜ: Art. 2 EPatVO\n\nHinweis: Begriffe merken: „Vertragsmitgliedstaat“ (nur EU-Staaten, die das EPGÜ ratifiziert haben), „europäisches Patent mit einheitlicher Wirkung“ und „europäisches Patent“ (Bündelpatent, soweit nicht opt-out).\n\nIn 3 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13074,7 +13447,7 @@
   "id": "card:eunorm:eunorm:upca:3",
   "typ": "eunorm",
   "front": "Was regelt Art. 3 EPGÜ (Geltungsbereich)?",
-  "back": "Geltungsbereich\n\nDieses Übereinkommen gilt a) für alle europäischen Patente mit einheitlicher Wirkung, b) für alle ergänzenden Schutzzertifikate, die zu einem durch ein Patent geschützten Erzeugnis erteilt worden sind, c) unbeschadet des Artikels 83 für alle europäische Patente, die zum Zeitpunkt des Inkrafttretens dieses Übereinkommens noch nicht erloschen sind oder die nach diesem Zeitpunkt erteilt werden und d) unbeschadet des Artikels 83 für alle europäischen Patentanmeldungen, die zum Zeitpunkt des Inkrafttretens dieses Übereinkommens anhängig sind oder die nach diesem Zeitpunkt eingereicht werden.\n\nHinweis: Sachlicher Geltungsbereich: Einheitspatente, ESZ, europäische Bündelpatente (auch vor dem 1.6.2023 erteilte) und Anmeldungen – jeweils ohne Opt-out (Art. 83 Abs. 3).\n\nIn 7 Entscheidungen des EPG zitiert.",
+  "back": "Geltungsbereich\n\nDieses Übereinkommen gilt a) für alle europäischen Patente mit einheitlicher Wirkung, b) für alle ergänzenden Schutzzertifikate, die zu einem durch ein Patent geschützten Erzeugnis erteilt worden sind, c) unbeschadet des Artikels 83 für alle europäische Patente, die zum Zeitpunkt des Inkrafttretens dieses Übereinkommens noch nicht erloschen sind oder die nach diesem Zeitpunkt erteilt werden und d) unbeschadet des Artikels 83 für alle europäischen Patentanmeldungen, die zum Zeitpunkt des Inkrafttretens dieses Übereinkommens anhängig sind oder die nach diesem Zeitpunkt eingereicht werden.\n\nUmsetzung im EPGÜ: Art. 3 EPatVO\n\nHinweis: Sachlicher Geltungsbereich: Einheitspatente, ESZ, europäische Bündelpatente (auch vor dem 1.6.2023 erteilte) und Anmeldungen – jeweils ohne Opt-out (Art. 83 Abs. 3).\n\nIn 7 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13206,7 +13579,7 @@
   "id": "card:eunorm:eunorm:upca:25",
   "typ": "eunorm",
   "front": "Was regelt Art. 25 EPGÜ (Recht auf Verbot der unmittelbaren Benutzung der Erfindung)?",
-  "back": "Recht auf Verbot der unmittelbaren Benutzung der Erfindung\n\nEin Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung a) ein Erzeugnis, das Gegenstand des Patents ist, herzustellen, anzubieten, in Verkehr zu bringen, zu gebrauchen oder zu den genannten Zwecken einzuführen oder zu besitzen; b) ein Verfahren, das Gegenstand des Patents ist, anzuwenden, oder, falls der Dritte weiß oder hätte wissen müssen, dass die Anwendung des Verfahrens ohne Zustimmung des Patentinhabers verboten ist, zur Anwendung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anzubieten; c) ein durch ein Verfahren, das …\n\nHinweis: Verletzungshandlungen entsprechen § 9 PatG; das EPG legt die Begriffe („Anbieten“) autonom aus (EPG-BerG Belkin/Philips).\n\nIn 64 Entscheidungen des EPG zitiert.",
+  "back": "Recht auf Verbot der unmittelbaren Benutzung der Erfindung\n\nEin Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung a) ein Erzeugnis, das Gegenstand des Patents ist, herzustellen, anzubieten, in Verkehr zu bringen, zu gebrauchen oder zu den genannten Zwecken einzuführen oder zu besitzen; b) ein Verfahren, das Gegenstand des Patents ist, anzuwenden, oder, falls der Dritte weiß oder hätte wissen müssen, dass die Anwendung des Verfahrens ohne Zustimmung des Patentinhabers verboten ist, zur Anwendung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anzubieten; c) ein durch ein Verfahren, das …\n\nUmsetzung im EPGÜ: Art. 5 EPatVO\n\nHinweis: Verletzungshandlungen entsprechen § 9 PatG; das EPG legt die Begriffe („Anbieten“) autonom aus (EPG-BerG Belkin/Philips).\n\nIn 64 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13217,7 +13590,7 @@
   "id": "card:eunorm:eunorm:upca:26",
   "typ": "eunorm",
   "front": "Was regelt Art. 26 EPGÜ (Recht auf Verbot der mittelbaren Benutzung der Erfindung)?",
-  "back": "Recht auf Verbot der mittelbaren Benutzung der Erfindung\n\nEin Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anderen als zur Benutzung der patentierten Erfindung berechtigten Personen Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, zur Benutzung der Erfindung in diesem Gebiet anzubieten oder zu liefern, wenn der Dritte weiß oder hätte wissen müssen, dass diese Mittel dazu geeignet und bestimmt sind, für die Benutzung der Erfindung verwendet zu werden.\n\nHinweis: Mittelbare Verletzung wie § 10 PatG; Verwendungsbestimmung aus objektiven Umständen (EPG-BerG Onward/Niche).\n\nIn 48 Entscheidungen des EPG zitiert.",
+  "back": "Recht auf Verbot der mittelbaren Benutzung der Erfindung\n\nEin Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anderen als zur Benutzung der patentierten Erfindung berechtigten Personen Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, zur Benutzung der Erfindung in diesem Gebiet anzubieten oder zu liefern, wenn der Dritte weiß oder hätte wissen müssen, dass diese Mittel dazu geeignet und bestimmt sind, für die Benutzung der Erfindung verwendet zu werden.\n\nUmsetzung im EPGÜ: Art. 5 EPatVO\n\nHinweis: Mittelbare Verletzung wie § 10 PatG; Verwendungsbestimmung aus objektiven Umständen (EPG-BerG Onward/Niche).\n\nIn 48 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13228,7 +13601,7 @@
   "id": "card:eunorm:eunorm:upca:27",
   "typ": "eunorm",
   "front": "Was regelt Art. 27 EPGÜ (Beschränkungen der Wirkungen des Patents)?",
-  "back": "Beschränkungen der Wirkungen des Patents\n\nDie Rechte aus einem Patent erstrecken sich nicht auf a) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden; b) Handlungen zu Versuchszwecken, die sich auf den Gegenstand der patentierten Erfindung beziehen; c) die Verwendung biologischen Materials zum Zwecke der Züchtung, Entdeckung oder Entwicklung anderer Pflanzensorten; d) erlaubte Handlungen nach Artikel 13 Absatz 6 der Richtlinie 2001/82/EG 8 oder Artikel 10 Absatz 6 der Richtlinie 2001/83/EG 9, im Hinblick auf alle Patente, die das Erzeugnis im Sinne einer dieser Richtlinien erfassen; e) die unmittelbare …\n\nHinweis: Schrankenkatalog inkl. Bolar (lit. d), Landwirteprivileg, Schiffe/Luftfahrzeuge, Dekompilierung, Züchtung (lit. c).\n\nIn 2 Entscheidungen des EPG zitiert.",
+  "back": "Beschränkungen der Wirkungen des Patents\n\nDie Rechte aus einem Patent erstrecken sich nicht auf a) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden; b) Handlungen zu Versuchszwecken, die sich auf den Gegenstand der patentierten Erfindung beziehen; c) die Verwendung biologischen Materials zum Zwecke der Züchtung, Entdeckung oder Entwicklung anderer Pflanzensorten; d) erlaubte Handlungen nach Artikel 13 Absatz 6 der Richtlinie 2001/82/EG 8 oder Artikel 10 Absatz 6 der Richtlinie 2001/83/EG 9, im Hinblick auf alle Patente, die das Erzeugnis im Sinne einer dieser Richtlinien erfassen; e) die unmittelbare …\n\nUmsetzung im EPGÜ: Art. 5 EPatVO\n\nHinweis: Schrankenkatalog inkl. Bolar (lit. d), Landwirteprivileg, Schiffe/Luftfahrzeuge, Dekompilierung, Züchtung (lit. c).\n\nIn 2 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13250,7 +13623,7 @@
   "id": "card:eunorm:eunorm:upca:29",
   "typ": "eunorm",
   "front": "Was regelt Art. 29 EPGÜ (Erschöpfung der Rechte aus einem europäischen Patent)?",
-  "back": "Erschöpfung der Rechte aus einem europäischen Patent\n\nDie durch das europäische Patent verliehenen Rechte erstrecken sich nicht auf Handlungen, die ein durch das Patent geschütztes Erzeugnis betreffen, nachdem das Erzeugnis vom Patentinhaber oder mit seiner Zustimmung in der Europäischen Union in Verkehr gebracht worden ist, es sei denn, der Patentinhaber hat berechtigte Gründe, sich dem weiteren Vertrieb des Erzeugnisses zu widersetzen.\n\nIn 15 Entscheidungen des EPG zitiert.",
+  "back": "Erschöpfung der Rechte aus einem europäischen Patent\n\nDie durch das europäische Patent verliehenen Rechte erstrecken sich nicht auf Handlungen, die ein durch das Patent geschütztes Erzeugnis betreffen, nachdem das Erzeugnis vom Patentinhaber oder mit seiner Zustimmung in der Europäischen Union in Verkehr gebracht worden ist, es sei denn, der Patentinhaber hat berechtigte Gründe, sich dem weiteren Vertrieb des Erzeugnisses zu widersetzen.\n\nUmsetzung im EPGÜ: Art. 6 EPatVO\n\nIn 15 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13272,7 +13645,7 @@
   "id": "card:eunorm:eunorm:upca:32",
   "typ": "eunorm",
   "front": "Was regelt Art. 32 EPGÜ (Zuständigkeit des Gerichts)?",
-  "back": "Zuständigkeit des Gerichts\n\nDas Gericht besitzt die ausschließliche Zuständigkeit für a) Klagen wegen tatsächlicher oder drohender Verletzung von Patenten und ergänzenden Schutzzertifikaten und zugehörige Klageerwiderungen, einschließlich Widerklagen in Bezug auf Lizenzen, b) Klagen auf Feststellung der Nichtverletzung von Patenten und ergänzenden Schutzzertifikaten, c) Klagen auf Erlass von einstweiligen Maßnahmen und Sicherungsmaßnahmen und einstweiligen Verfügungen, d) Klagen auf Nichtigerklärung von Patenten und Nichtigerklärung der ergänzenden Schutzzertifikate, e) Widerklagen auf Nichtigerklärung von Patenten und N …\n\nHinweis: Abschließender Katalog der ausschließlichen Zuständigkeiten; alles andere bleibt bei nationalen Gerichten (Abs. 2).\n\nIn 68 Entscheidungen des EPG zitiert.",
+  "back": "Zuständigkeit des Gerichts\n\nDas Gericht besitzt die ausschließliche Zuständigkeit für a) Klagen wegen tatsächlicher oder drohender Verletzung von Patenten und ergänzenden Schutzzertifikaten und zugehörige Klageerwiderungen, einschließlich Widerklagen in Bezug auf Lizenzen, b) Klagen auf Feststellung der Nichtverletzung von Patenten und ergänzenden Schutzzertifikaten, c) Klagen auf Erlass von einstweiligen Maßnahmen und Sicherungsmaßnahmen und einstweiligen Verfügungen, d) Klagen auf Nichtigerklärung von Patenten und Nichtigerklärung der ergänzenden Schutzzertifikate, e) Widerklagen auf Nichtigerklärung von Patenten und N …\n\nUmsetzung im EPGÜ: Art. 8 EPatVO, Art. 9 EPatVO\n\nHinweis: Abschließender Katalog der ausschließlichen Zuständigkeiten; alles andere bleibt bei nationalen Gerichten (Abs. 2).\n\nIn 68 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13555,6 +13928,17 @@
   "node": "eunorm:upca:65"
  },
  {
+  "id": "card:eunorm:eunorm:upca:66",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 66 EPGÜ (Befugnisse des Gerichts in Bezug auf Entscheidungen des Europäischen Patentamts)?",
+  "back": "Befugnisse des Gerichts in Bezug auf Entscheidungen des Europäischen Patentamts\n\nBei Klagen nach Artikel 32 Absatz 1 Buchstabe i kann das Gericht alle Befugnisse ausüben, die dem Europäischen Patentamt nach Artikel 9 der Verordnung (EU) Nr. 1257/2012 übertragen wurden, einschließlich der Berichtigung des Registers für den einheitlichen Patentschutz.\n\nUmsetzung im EPGÜ: Art. 9 EPatVO\n\nIn 1 Entscheidungen des EPG zitiert.",
+  "tags": [
+   "EPG",
+   "EPGÜ"
+  ],
+  "node": "eunorm:upca:66"
+ },
+ {
   "id": "card:eunorm:eunorm:upca:67",
   "typ": "eunorm",
   "front": "Was regelt Art. 67 EPGÜ (Befugnis, die Erteilung einer Auskunft anzuordnen)?",
@@ -13569,7 +13953,7 @@
   "id": "card:eunorm:eunorm:upca:68",
   "typ": "eunorm",
   "front": "Was regelt Art. 68 EPGÜ (Zuerkennung von Schadenersatz)?",
-  "back": "Zuerkennung von Schadenersatz\n\nDas Gericht ordnet auf Antrag der geschädigten Partei an, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Patentverletzungshandlung vornahm, der geschädigten Partei zum Ausgleich des von ihr wegen der Verletzung erlittenen tatsächlichen Schadens angemessenen Schadenersatz zu leisten hat.\n\nEntspricht: Art. 13 DurchsetzungsRL\n\nHinweis: Schadensersatz nur bei Verschulden (wusste oder hätte wissen müssen); Berechnung: Schaden, Verletzergewinn oder Lizenzanalogie (Abs. 3); kein Strafschadensersatz (Abs. 2).\n\nIn 54 Entscheidungen des EPG zitiert.",
+  "back": "Zuerkennung von Schadenersatz\n\nDas Gericht ordnet auf Antrag der geschädigten Partei an, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Patentverletzungshandlung vornahm, der geschädigten Partei zum Ausgleich des von ihr wegen der Verletzung erlittenen tatsächlichen Schadens angemessenen Schadenersatz zu leisten hat.\n\nEntspricht: Art. 13 DurchsetzungsRL\n\nUmsetzung im EPGÜ: Art. 4 EPatÜVO\n\nHinweis: Schadensersatz nur bei Verschulden (wusste oder hätte wissen müssen); Berechnung: Schaden, Verletzergewinn oder Lizenzanalogie (Abs. 3); kein Strafschadensersatz (Abs. 2).\n\nIn 54 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13690,7 +14074,7 @@
   "id": "card:eunorm:eunorm:upca:89",
   "typ": "eunorm",
   "front": "Was regelt Art. 89 EPGÜ (Inkrafttreten)?",
-  "back": "Inkrafttreten\n\nDieses Übereinkommen tritt am 1. Januar 2014 in Kraft oder am ersten Tag des vierten Monats nach Hinterlegung der dreizehnten Ratifikations- oder Beitrittsurkunde gemäß Artikel 84, einschließlich der Hinterlegung durch die drei Mitgliedstaaten, in denen es im Jahr vor dem Jahr der Unterzeichnung des Übereinkommens die meisten geltenden europäischen Patente gab, oder am ersten Tag des vierten Monats nach dem Inkrafttreten der Änderungen der Verordnung (EU) Nr. 1215/2012, die das Verhältnis zwischen jener Verordnung und diesem Übereinkommen betreffen, je nachdem, welcher Zeitpunkt der späteste i …\n\nHinweis: Inkrafttreten am 1. Juni 2023 (nach Ratifikation durch Deutschland); Voraussetzung: 13 Staaten inkl. der drei mit den meisten EP-Wirkungen im Jahr vor der Unterzeichnung.\n\nIn 2 Entscheidungen des EPG zitiert.",
+  "back": "Inkrafttreten\n\nDieses Übereinkommen tritt am 1. Januar 2014 in Kraft oder am ersten Tag des vierten Monats nach Hinterlegung der dreizehnten Ratifikations- oder Beitrittsurkunde gemäß Artikel 84, einschließlich der Hinterlegung durch die drei Mitgliedstaaten, in denen es im Jahr vor dem Jahr der Unterzeichnung des Übereinkommens die meisten geltenden europäischen Patente gab, oder am ersten Tag des vierten Monats nach dem Inkrafttreten der Änderungen der Verordnung (EU) Nr. 1215/2012, die das Verhältnis zwischen jener Verordnung und diesem Übereinkommen betreffen, je nachdem, welcher Zeitpunkt der späteste i …\n\nUmsetzung im EPGÜ: Art. 18 EPatVO\n\nHinweis: Inkrafttreten am 1. Juni 2023 (nach Ratifikation durch Deutschland); Voraussetzung: 13 Staaten inkl. der drei mit den meisten EP-Wirkungen im Jahr vor der Unterzeichnung.\n\nIn 2 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "EPGÜ"
@@ -13701,7 +14085,7 @@
   "id": "card:eunorm:eunorm:rop:1",
   "typ": "eunorm",
   "front": "Was regelt R. 1 VerfO (Anwendung der Verfahrensordnung und allgemeine Auslegungsgrundsätze)?",
-  "back": "Anwendung der Verfahrensordnung und allgemeine Auslegungsgrundsätze\n\nDas Gericht führt das Verfahren in Übereinstimmung mit dem Übereinkommen, der Satzung und dieser Verfahrensordnung einschließlich ihrer Präambel und der darin niedergelegten Grundsätze. Im Falle eines Widerspruchs zwischen den Bestimmungen des Übereinkommens und/oder der Satzung einerseits und der Verfahrensordnung andererseits haben die Bestimmungen des Übereinkommens und/oder der Satzung Vorrang.\n\nBezug zum Übereinkommen: Art. 7 EPGÜ, Art. 8 EPGÜ\n\nIn 18 Entscheidungen des EPG zitiert.",
+  "back": "Anwendung der Verfahrensordnung und allgemeine Auslegungsgrundsätze\n\nDas Gericht führt das Verfahren in Übereinstimmung mit dem Übereinkommen, der Satzung und dieser Verfahrensordnung einschließlich ihrer Präambel und der darin niedergelegten Grundsätze. Im Falle eines Widerspruchs zwischen den Bestimmungen des Übereinkommens und/oder der Satzung einerseits und der Verfahrensordnung andererseits haben die Bestimmungen des Übereinkommens und/oder der Satzung Vorrang.\n\nBezug: Art. 7 EPGÜ, Art. 8 EPGÜ\n\nIn 18 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -13712,7 +14096,7 @@
   "id": "card:eunorm:eunorm:rop:4",
   "typ": "eunorm",
   "front": "Was regelt R. 4 VerfO (Einreichung von Unterlagen)?",
-  "back": "Einreichung von Unterlagen\n\nSchriftsätze und andere Unterlagen sind zu unterzeichnen und bei der Kanzlei oder betreffenden Nebenstelle in elektronischer Form einzureichen. Die Parteien sind gehalten, die online verfügbaren amtlichen Formulare zu verwenden. Der Eingang der Unterlagen wird durch die automatische Ausgabe einer elektronischen Quittung bestätigt, auf der Datum und Ortszeit des Eingangs angegeben sind.\n\nBezug zum Übereinkommen: Art. 44 EPGÜ\n\nIn 20 Entscheidungen des EPG zitiert.",
+  "back": "Einreichung von Unterlagen\n\nSchriftsätze und andere Unterlagen sind zu unterzeichnen und bei der Kanzlei oder betreffenden Nebenstelle in elektronischer Form einzureichen. Die Parteien sind gehalten, die online verfügbaren amtlichen Formulare zu verwenden. Der Eingang der Unterlagen wird durch die automatische Ausgabe einer elektronischen Quittung bestätigt, auf der Datum und Ortszeit des Eingangs angegeben sind.\n\nBezug: Art. 44 EPGÜ\n\nIn 20 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -13723,7 +14107,7 @@
   "id": "card:eunorm:eunorm:rop:5",
   "typ": "eunorm",
   "front": "Was regelt R. 5 VerfO (Einreichung eines Antrags auf Inanspruchnahme der Ausnahmeregelung und Rücktritt von der Inanspruchnahme der Ausnahmeregelung)?",
-  "back": "Einreichung eines Antrags auf Inanspruchnahme der Ausnahmeregelung und Rücktritt von der Inanspruchnahme der Ausnahmeregelung\n\nDer Inhaber eines europäischen Patents (einschließlich eines abgelaufenen europäischen Patents) oder der Anmelder einer veröffentlichten Anmeldung eines europäischen Patents (in Regel 5 im Folgenden „Anmeldung“), der dieses Patent oder diese Anmeldung von der ausschließlichen Zuständigkeit des Gerichts gemäß Artikel 83 Absatz 3 des Übereinkommens ausnehmen will, hat bei der Kanzlei einen Antrag zu stellen (In Regel 5 im Folgenden „Antrag auf Inanspruchnahme der Ausnahmeregelung“). (a) Gehört das Patent oder die Anmeldung zwei oder mehr Inhabern oder Anmeldern, ist der Antrag auf Inanspruchnahm …\n\nBezug zum Übereinkommen: Art. 3 EPGÜ, Art. 4 EPGÜ, Art. 83 EPGÜ\n\nHinweis: Opt-out: Antrag beim Kanzler für alle Inhaber, wirksam mit Eintragung; unwirksam, wenn bereits Klage beim EPG anhängig war (R. 5.6); Rücknahme nur, wenn noch keine nationale Klage (R. 5.8).\n\nIn 36 Entscheidungen des EPG zitiert.",
+  "back": "Einreichung eines Antrags auf Inanspruchnahme der Ausnahmeregelung und Rücktritt von der Inanspruchnahme der Ausnahmeregelung\n\nDer Inhaber eines europäischen Patents (einschließlich eines abgelaufenen europäischen Patents) oder der Anmelder einer veröffentlichten Anmeldung eines europäischen Patents (in Regel 5 im Folgenden „Anmeldung“), der dieses Patent oder diese Anmeldung von der ausschließlichen Zuständigkeit des Gerichts gemäß Artikel 83 Absatz 3 des Übereinkommens ausnehmen will, hat bei der Kanzlei einen Antrag zu stellen (In Regel 5 im Folgenden „Antrag auf Inanspruchnahme der Ausnahmeregelung“). (a) Gehört das Patent oder die Anmeldung zwei oder mehr Inhabern oder Anmeldern, ist der Antrag auf Inanspruchnahm …\n\nBezug: Art. 3 EPGÜ, Art. 4 EPGÜ, Art. 83 EPGÜ\n\nHinweis: Opt-out: Antrag beim Kanzler für alle Inhaber, wirksam mit Eintragung; unwirksam, wenn bereits Klage beim EPG anhängig war (R. 5.6); Rücknahme nur, wenn noch keine nationale Klage (R. 5.8).\n\nIn 36 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -13745,7 +14129,7 @@
   "id": "card:eunorm:eunorm:rop:8",
   "typ": "eunorm",
   "front": "Was regelt R. 8 VerfO (Partei und Parteivertreter)?",
-  "back": "Partei und Parteivertreter\n\nEine Partei muss gemäß Artikel 48 des Übereinkommens vertreten sein, sofern diese Verfahrensordnung nichts anderes vorsieht [Regeln 5, 88.4 und 378.5].\n\nBezug zum Übereinkommen: Art. 48 EPGÜ\n\nIn 46 Entscheidungen des EPG zitiert.",
+  "back": "Partei und Parteivertreter\n\nEine Partei muss gemäß Artikel 48 des Übereinkommens vertreten sein, sofern diese Verfahrensordnung nichts anderes vorsieht [Regeln 5, 88.4 und 378.5].\n\nBezug: Art. 48 EPGÜ\n\nIn 46 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -13767,7 +14151,7 @@
   "id": "card:eunorm:eunorm:rop:10",
   "typ": "eunorm",
   "front": "Was regelt R. 10 VerfO (Verfahrensabschnitte (Verfahren inter partes))?",
-  "back": "Verfahrensabschnitte (Verfahren inter partes)\n\nDas Verfahren vor dem Gericht erster Instanz umfasst die folgenden Abschnitte: (a) ein schriftliches Verfahren; (b) ein Zwischenverfahren, während dessen auch eine Zwischenanhörung mit den Parteien stattfinden kann; (c) ein mündliches Verfahren, das, vorbehaltlich der Regeln 116.1 und 117, eine mündliche Verhandlung der Parteien einschließt, sofern das Gericht nicht mit Zustimmung der Parteien auf eine mündliche Verhandlung verzichtet; (d) ein Schadensersatzverfahren, welches ein Verfahren zur Offenlegung der Bücher beinhalten kann; (e) ein Kostenfestsetzungsverfahren.\n\nBezug zum Übereinkommen: Art. 52 EPGÜ, Art. 68 EPGÜ, Art. 69 EPGÜ\n\nIn 2 Entscheidungen des EPG zitiert.",
+  "back": "Verfahrensabschnitte (Verfahren inter partes)\n\nDas Verfahren vor dem Gericht erster Instanz umfasst die folgenden Abschnitte: (a) ein schriftliches Verfahren; (b) ein Zwischenverfahren, während dessen auch eine Zwischenanhörung mit den Parteien stattfinden kann; (c) ein mündliches Verfahren, das, vorbehaltlich der Regeln 116.1 und 117, eine mündliche Verhandlung der Parteien einschließt, sofern das Gericht nicht mit Zustimmung der Parteien auf eine mündliche Verhandlung verzichtet; (d) ein Schadensersatzverfahren, welches ein Verfahren zur Offenlegung der Bücher beinhalten kann; (e) ein Kostenfestsetzungsverfahren.\n\nBezug: Art. 52 EPGÜ, Art. 68 EPGÜ, Art. 69 EPGÜ\n\nIn 2 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -13811,7 +14195,7 @@
   "id": "card:eunorm:eunorm:rop:15",
   "typ": "eunorm",
   "front": "Was regelt R. 15 VerfO (Gebühr für die Verletzungsklage)?",
-  "back": "Gebühr für die Verletzungsklage\n\nDer Kläger hat die Festgebühr und gegebenenfalls die streitwertabhängige Gebühr für die Verletzungsklage gemäß Teil 6 zu entrichten.\n\nBezug zum Übereinkommen: Art. 3 EPGÜ, Art. 36 EPGÜ, Art. 70 EPGÜ, Art. 71 EPGÜ\n\nIn 4 Entscheidungen des EPG zitiert.",
+  "back": "Gebühr für die Verletzungsklage\n\nDer Kläger hat die Festgebühr und gegebenenfalls die streitwertabhängige Gebühr für die Verletzungsklage gemäß Teil 6 zu entrichten.\n\nBezug: Art. 3 EPGÜ, Art. 36 EPGÜ, Art. 70 EPGÜ, Art. 71 EPGÜ\n\nIn 4 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -13833,7 +14217,7 @@
   "id": "card:eunorm:eunorm:rop:17",
   "typ": "eunorm",
   "front": "Was regelt R. 17 VerfO (Eintragung in das Register und Zuweisung (Gericht erster Instanz, Verletzungsklage))?",
-  "back": "Eintragung in das Register und Zuweisung (Gericht erster Instanz, Verletzungsklage)\n\nSind die Anforderungen der Regel 16.2 oder 16.3 erfüllt, (a) trägt die Kanzlei so bald wie möglich das Datum des Eingangs der Klageschrift ein und teilt der Akte ein Aktenzeichen zu, (b) nimmt die Kanzlei das Verfahren so bald wie möglich in das Register auf und (c) unterrichtet die Kanzlei den Kläger so bald wie möglich über das Aktenzeichen und das Eingangsdatum.\n\nBezug zum Übereinkommen: Art. 10 EPGÜ, Art. 2 EPGÜ, Art. 7 EPGÜ\n\nIn 10 Entscheidungen des EPG zitiert.",
+  "back": "Eintragung in das Register und Zuweisung (Gericht erster Instanz, Verletzungsklage)\n\nSind die Anforderungen der Regel 16.2 oder 16.3 erfüllt, (a) trägt die Kanzlei so bald wie möglich das Datum des Eingangs der Klageschrift ein und teilt der Akte ein Aktenzeichen zu, (b) nimmt die Kanzlei das Verfahren so bald wie möglich in das Register auf und (c) unterrichtet die Kanzlei den Kläger so bald wie möglich über das Aktenzeichen und das Eingangsdatum.\n\nBezug: Art. 10 EPGÜ, Art. 2 EPGÜ, Art. 7 EPGÜ\n\nIn 10 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -13976,7 +14360,7 @@
   "id": "card:eunorm:eunorm:rop:42",
   "typ": "eunorm",
   "front": "Was regelt R. 42 VerfO (Klage gegen den Patentinhaber)?",
-  "back": "Klage gegen den Patentinhaber\n\nJede Klage auf Nichtigerklärung eines Patents ist gegen den Inhaber des Patents zu richten.\n\nBezug zum Übereinkommen: Art. 1 EPGÜ, Art. 47 EPGÜ, Art. 5 EPGÜ, Art. 65 EPGÜ\n\nIn 17 Entscheidungen des EPG zitiert.",
+  "back": "Klage gegen den Patentinhaber\n\nJede Klage auf Nichtigerklärung eines Patents ist gegen den Inhaber des Patents zu richten.\n\nBezug: Art. 1 EPGÜ, Art. 47 EPGÜ, Art. 5 EPGÜ, Art. 65 EPGÜ\n\nIn 17 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14039,6 +14423,39 @@
   "node": "eunorm:rop:50"
  },
  {
+  "id": "card:eunorm:eunorm:rop:85",
+  "typ": "eunorm",
+  "front": "Was regelt R. 85 VerfO (Verfahrensabschnitte (Ex-parte-Verfahren))?",
+  "back": "Verfahrensabschnitte (Ex-parte-Verfahren)\n\nWird gegen eine Entscheidung des Europäischen Patentamts, die im Rahmen der Ausführung der in Artikel 9 der Verordnung (EU) Nr. 1257/2012 genannten Aufgaben ergangen ist (im Folgenden „Entscheidung des Amtes“), Klage eingereicht, umfasst das Verfahren vor dem Gericht erster Instanz vorbehaltlich des Absatzes 2 (a) ein schriftliches Verfahren einschließlich der Möglichkeit einer Zwischenprüfung durch das Europäische Patentamt, (b) ein Zwischenverfahren, das auch eine Zwischenanhörung einschließen kann, und (c) ein mündliches Verfahren, das auf Antrag des Klägers oder auf Veranlassung des Gerich …\n\nIn 1 Entscheidungen des EPG zitiert.",
+  "tags": [
+   "EPG",
+   "VerfO"
+  ],
+  "node": "eunorm:rop:85"
+ },
+ {
+  "id": "card:eunorm:eunorm:rop:88",
+  "typ": "eunorm",
+  "front": "Was regelt R. 88 VerfO (Antrag auf Aufhebung oder Abänderung einer Entscheidung des Amtes)?",
+  "back": "Antrag auf Aufhebung oder Abänderung einer Entscheidung des Amtes\n\nDer Kläger hat einen Antrag auf Aufhebung oder Abänderung einer Entscheidung des Amtes innerhalb von zwei Monaten nach Zustellung der Entscheidung des Amtes bei der nach Artikel 7 Abs. 2 des Übereinkommens und Anhang II zum Übereinkommen zuständigen Kanzlei in der Sprache einzureichen, in der das Patent erteilt wurde.\n\nBezug: Art. 1 EPGÜ, Art. 32 EPGÜ, Art. 47 EPGÜ, Art. 48 EPGÜ, Art. 49 EPGÜ, Art. 6 EPGÜ, Art. 7 EPGÜ\n\nIn 2 Entscheidungen des EPG zitiert.",
+  "tags": [
+   "EPG",
+   "VerfO"
+  ],
+  "node": "eunorm:rop:88"
+ },
+ {
+  "id": "card:eunorm:eunorm:rop:91",
+  "typ": "eunorm",
+  "front": "Was regelt R. 91 VerfO (Zwischenprüfung durch das Europäische Patentamt)?",
+  "back": "Zwischenprüfung durch das Europäische Patentamt\n\nIst das Europäische Patentamt der Ansicht, dass der Antrag auf Aufhebung oder Abänderung einer Entscheidung des Amtes begründet ist, hat es innerhalb von zwei Monaten ab Eingang des Antrags (a) die angefochtene Entscheidung gemäß der vom Kläger beantragten Anordnung oder Abhilfe zu berichtigen [Regel 88.2(g)] und (b) das Gericht darüber zu unterrichten, dass die Entscheidung berichtigt wurde.\n\nIn 4 Entscheidungen des EPG zitiert.",
+  "tags": [
+   "EPG",
+   "VerfO"
+  ],
+  "node": "eunorm:rop:91"
+ },
+ {
   "id": "card:eunorm:eunorm:rop:97",
   "typ": "eunorm",
   "front": "Was regelt R. 97 VerfO (Antrag auf Aufhebung einer Entscheidung des Amtes, einen Antrag auf einheitliche Wirkung abzulehnen)?",
@@ -14053,7 +14470,7 @@
   "id": "card:eunorm:eunorm:rop:101",
   "typ": "eunorm",
   "front": "Was regelt R. 101 VerfO (Rolle des Berichterstatters (Verfahrensleitung))?",
-  "back": "Rolle des Berichterstatters (Verfahrensleitung)\n\nDer Berichterstatter trifft während des Zwischenverfahrens alle notwendigen Vorbereitungen für die mündliche Verhandlung. Insbesondere kann er, sofern angebracht und vorbehaltlich des Mandats des Spruchkörpers, eine Zwischenanhörung mit den Parteien abhalten, auch mehrmalig, und die in Regel 334 vorgesehenen Befugnisse ausüben.\n\nBezug zum Übereinkommen: Art. 2 EPGÜ, Art. 3 EPGÜ, Art. 43 EPGÜ, Art. 52 EPGÜ\n\nIn 10 Entscheidungen des EPG zitiert.",
+  "back": "Rolle des Berichterstatters (Verfahrensleitung)\n\nDer Berichterstatter trifft während des Zwischenverfahrens alle notwendigen Vorbereitungen für die mündliche Verhandlung. Insbesondere kann er, sofern angebracht und vorbehaltlich des Mandats des Spruchkörpers, eine Zwischenanhörung mit den Parteien abhalten, auch mehrmalig, und die in Regel 334 vorgesehenen Befugnisse ausüben.\n\nBezug: Art. 2 EPGÜ, Art. 3 EPGÜ, Art. 43 EPGÜ, Art. 52 EPGÜ\n\nIn 10 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14086,7 +14503,7 @@
   "id": "card:eunorm:eunorm:rop:104",
   "typ": "eunorm",
   "front": "Was regelt R. 104 VerfO (Ziel der Zwischenanhörung)?",
-  "back": "Ziel der Zwischenanhörung\n\nDie Zwischenanhörung soll den Berichterstatter in die Lage versetzen, (a) die wichtigsten Punkte zu identifizieren und festzustellen, welche maßgeblichen Tatsachen streitig sind; (b) gegebenenfalls die Haltung der Parteien zu diesen Punkten und Tatsachen zu klären; (c) einen Zeitplan für den weiteren Verlauf des Verfahrens zu erstellen; (d) mit den Parteien die Möglichkeiten einer Streitbeilegung oder Nutzung des Zentrums zu erörtern; (e) gegebenenfalls Anordnungen hinsichtlich weiterer Schriftsätze, Unterlagen, Sachverständiger (einschließlich gerichtlicher Sachverständiger), Versuchen, Inspe …\n\nBezug zum Übereinkommen: Art. 2 EPGÜ, Art. 52 EPGÜ\n\nIn 29 Entscheidungen des EPG zitiert.",
+  "back": "Ziel der Zwischenanhörung\n\nDie Zwischenanhörung soll den Berichterstatter in die Lage versetzen, (a) die wichtigsten Punkte zu identifizieren und festzustellen, welche maßgeblichen Tatsachen streitig sind; (b) gegebenenfalls die Haltung der Parteien zu diesen Punkten und Tatsachen zu klären; (c) einen Zeitplan für den weiteren Verlauf des Verfahrens zu erstellen; (d) mit den Parteien die Möglichkeiten einer Streitbeilegung oder Nutzung des Zentrums zu erörtern; (e) gegebenenfalls Anordnungen hinsichtlich weiterer Schriftsätze, Unterlagen, Sachverständiger (einschließlich gerichtlicher Sachverständiger), Versuchen, Inspe …\n\nBezug: Art. 2 EPGÜ, Art. 52 EPGÜ\n\nIn 29 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14119,7 +14536,7 @@
   "id": "card:eunorm:eunorm:rop:109",
   "typ": "eunorm",
   "front": "Was regelt R. 109 VerfO (Simultanverdolmetschung der mündlichen Verhandlung)?",
-  "back": "Simultanverdolmetschung der mündlichen Verhandlung\n\nSpätestens einen Monat vor der mündlichen Verhandlung, einschließlich etwaiger gesonderter Vernehmungen von Zeugen und Sachverständigen, kann eine Partei einen Antrag auf Simultanverdolmetschung stellen, der Folgendes enthalten muss: (a) die Angabe der Sprache, in die oder aus der die Partei während der mündlichen Verhandlung eine Simultanverdolmetschung beantragt; (b) eine Begründung des Antrags; (c) das betreffende technische Fachgebiet; (d) alle sonstigen Informationen, die für den Antrag von Bedeutung sind.\n\nBezug zum Übereinkommen: Art. 2 EPGÜ, Art. 51 EPGÜ\n\nIn 23 Entscheidungen des EPG zitiert.",
+  "back": "Simultanverdolmetschung der mündlichen Verhandlung\n\nSpätestens einen Monat vor der mündlichen Verhandlung, einschließlich etwaiger gesonderter Vernehmungen von Zeugen und Sachverständigen, kann eine Partei einen Antrag auf Simultanverdolmetschung stellen, der Folgendes enthalten muss: (a) die Angabe der Sprache, in die oder aus der die Partei während der mündlichen Verhandlung eine Simultanverdolmetschung beantragt; (b) eine Begründung des Antrags; (c) das betreffende technische Fachgebiet; (d) alle sonstigen Informationen, die für den Antrag von Bedeutung sind.\n\nBezug: Art. 2 EPGÜ, Art. 51 EPGÜ\n\nIn 23 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14141,7 +14558,7 @@
   "id": "card:eunorm:eunorm:rop:112",
   "typ": "eunorm",
   "front": "Was regelt R. 112 VerfO (Durchführung der mündlichen Verhandlung)?",
-  "back": "Durchführung der mündlichen Verhandlung\n\nDie mündliche Verhandlung findet vor dem Spruchkörper und unter der Leitung des Vorsitzenden Richters statt.\n\nBezug zum Übereinkommen: Art. 1 EPGÜ, Art. 3 EPGÜ, Art. 52 EPGÜ, Art. 53 EPGÜ\n\nIn 6 Entscheidungen des EPG zitiert.",
+  "back": "Durchführung der mündlichen Verhandlung\n\nDie mündliche Verhandlung findet vor dem Spruchkörper und unter der Leitung des Vorsitzenden Richters statt.\n\nBezug: Art. 1 EPGÜ, Art. 3 EPGÜ, Art. 52 EPGÜ, Art. 53 EPGÜ\n\nIn 6 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14163,7 +14580,7 @@
   "id": "card:eunorm:eunorm:rop:115",
   "typ": "eunorm",
   "front": "Was regelt R. 115 VerfO (Die mündliche Verhandlung)?",
-  "back": "Die mündliche Verhandlung\n\nDie mündliche Verhandlung und alle gesonderten Zeugenvernehmungen sind öffentlich, es sei denn, das Gericht beschließt, eine Verhandlung, soweit erforderlich, im Interesse einer der Parteien oder Dritter oder im allgemeinen Interesse der Justiz oder der öffentlichen Ordnung unter Ausschluss der Öffentlichkeit zu führen. Es wird eine Tonaufzeichnung der Verhandlung angefertigt. Die Aufzeichnung wird den Parteien bzw. deren Vertretern nach der Anhörung in den Räumlichkeiten des Gerichts zugänglich gemacht. Regel 103 gilt entsprechend.\n\nBezug zum Übereinkommen: Art. 45 EPGÜ\n\nIn 34 Entscheidungen des EPG zitiert.",
+  "back": "Die mündliche Verhandlung\n\nDie mündliche Verhandlung und alle gesonderten Zeugenvernehmungen sind öffentlich, es sei denn, das Gericht beschließt, eine Verhandlung, soweit erforderlich, im Interesse einer der Parteien oder Dritter oder im allgemeinen Interesse der Justiz oder der öffentlichen Ordnung unter Ausschluss der Öffentlichkeit zu führen. Es wird eine Tonaufzeichnung der Verhandlung angefertigt. Die Aufzeichnung wird den Parteien bzw. deren Vertretern nach der Anhörung in den Räumlichkeiten des Gerichts zugänglich gemacht. Regel 103 gilt entsprechend.\n\nBezug: Art. 45 EPGÜ\n\nIn 34 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14185,7 +14602,7 @@
   "id": "card:eunorm:eunorm:rop:118",
   "typ": "eunorm",
   "front": "Was regelt R. 118 VerfO (Entscheidung in der Sache)?",
-  "back": "Entscheidung in der Sache\n\nZusätzlich zu den Anordnungen und Maßnahmen und unbeschadet des in den Artikeln 63, 64, 67 und 80 des Übereinkommens vorgesehenen gerichtlichen Ermessens kann das Gericht auf Antrag die Zahlung von Schadenersatz oder Entschädigung gemäß den Artikeln 68 und 32 Absatz 1 Buchstabe f des Übereinkommens anordnen. Die Höhe des Schadenersatzes oder der Entschädigung kann in der Anordnung angegeben oder in einem gesonderten Verfahren bestimmt werden [Regeln 125-144].\n\nBezug zum Übereinkommen: Art. 77 EPGÜ\n\nHinweis: Entscheidung in der Sache: Anordnungen, Zwangsgeld, Sicherheitsleistung, Aussetzung bei parallelem EPA-Verfahren (Abs. 2), Vollstreckbarkeit (Abs. 8).\n\nIn 189 Entscheidungen des EPG zitiert.",
+  "back": "Entscheidung in der Sache\n\nZusätzlich zu den Anordnungen und Maßnahmen und unbeschadet des in den Artikeln 63, 64, 67 und 80 des Übereinkommens vorgesehenen gerichtlichen Ermessens kann das Gericht auf Antrag die Zahlung von Schadenersatz oder Entschädigung gemäß den Artikeln 68 und 32 Absatz 1 Buchstabe f des Übereinkommens anordnen. Die Höhe des Schadenersatzes oder der Entschädigung kann in der Anordnung angegeben oder in einem gesonderten Verfahren bestimmt werden [Regeln 125-144].\n\nBezug: Art. 77 EPGÜ\n\nHinweis: Entscheidung in der Sache: Anordnungen, Zwangsgeld, Sicherheitsleistung, Aussetzung bei parallelem EPA-Verfahren (Abs. 2), Vollstreckbarkeit (Abs. 8).\n\nIn 189 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14218,7 +14635,7 @@
   "id": "card:eunorm:eunorm:rop:126",
   "typ": "eunorm",
   "front": "Was regelt R. 126 VerfO (Einleitung des Verfahrens zur Festsetzung des Schadensersatzes)?",
-  "back": "Einleitung des Verfahrens zur Festsetzung des Schadensersatzes\n\nWünscht die obsiegende Partei eine Festsetzung der Höhe des Schadenersatzes, muss sie innerhalb eines Jahres nach Zustellung der Endentscheidung in der Sache (einschließlich einer etwaigen Endentscheidung über eine Berufung) zur Verletzung und zur Rechtsgültigkeit (oder, im Falle der Zuerkennung einer Entschädigung gemäß den Regeln 118.1, 198.2, 213.2 oder 354.2 nach dem Tag des Zuspruchs) einen Antrag auf Festsetzung des Schadensersatzes stellen; dieser kann einen Antrag auf Anordnung der Offenlegung der Bücher beinhalten.\n\nBezug zum Übereinkommen: Art. 68 EPGÜ\n\nIn 4 Entscheidungen des EPG zitiert.",
+  "back": "Einleitung des Verfahrens zur Festsetzung des Schadensersatzes\n\nWünscht die obsiegende Partei eine Festsetzung der Höhe des Schadenersatzes, muss sie innerhalb eines Jahres nach Zustellung der Endentscheidung in der Sache (einschließlich einer etwaigen Endentscheidung über eine Berufung) zur Verletzung und zur Rechtsgültigkeit (oder, im Falle der Zuerkennung einer Entschädigung gemäß den Regeln 118.1, 198.2, 213.2 oder 354.2 nach dem Tag des Zuspruchs) einen Antrag auf Festsetzung des Schadensersatzes stellen; dieser kann einen Antrag auf Anordnung der Offenlegung der Bücher beinhalten.\n\nBezug: Art. 68 EPGÜ\n\nIn 4 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14284,7 +14701,7 @@
   "id": "card:eunorm:eunorm:rop:157",
   "typ": "eunorm",
   "front": "Was regelt R. 157 VerfO (Berufung gegen die Kostenentscheidung)?",
-  "back": "Berufung gegen die Kostenentscheidung\n\nGegen die Kostenentscheidung des Berichterstatters kann nur gemäß Regel 221 Berufung vor dem Berufungsgericht eingelegt werden.\n\nBezug zum Übereinkommen: Art. 69 EPGÜ\n\nIn 34 Entscheidungen des EPG zitiert.",
+  "back": "Berufung gegen die Kostenentscheidung\n\nGegen die Kostenentscheidung des Berichterstatters kann nur gemäß Regel 221 Berufung vor dem Berufungsgericht eingelegt werden.\n\nBezug: Art. 69 EPGÜ\n\nIn 34 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14295,7 +14712,7 @@
   "id": "card:eunorm:eunorm:rop:158",
   "typ": "eunorm",
   "front": "Was regelt R. 158 VerfO (Sicherheitsleistung für die Kosten einer Partei)?",
-  "back": "Sicherheitsleistung für die Kosten einer Partei\n\nDas Gericht kann zu jedem Zeitpunkt des Verfahrens auf einen mit einer Begründung versehenen Antrag einer Partei anordnen, dass die andere Partei innerhalb einer festgelegten Frist für die Kosten des Rechtsstreits und sonstigen der antragstellenden Partei entstandenen und/oder noch entstehenden Kosten, welche die andere Partei möglicherweise tragen muss, angemessene Sicherheit zu leisten hat. Beschließt das Gericht, eine solche Sicherheitsleistung anzuordnen, hat es darüber zu entscheiden, ob die Sicherheitsleistung durch Hinterlegung oder Bankbürgschaft erfolgen soll.\n\nBezug zum Übereinkommen: Art. 4 EPGÜ, Art. 69 EPGÜ\n\nHinweis: Prozesskostensicherheit: Gefährdung der Erstattung oder Vollstreckungsschwierigkeiten; Beweislast beim Antragsteller (EPG-BerG Aarke/SodaStream).\n\nIn 144 Entscheidungen des EPG zitiert.",
+  "back": "Sicherheitsleistung für die Kosten einer Partei\n\nDas Gericht kann zu jedem Zeitpunkt des Verfahrens auf einen mit einer Begründung versehenen Antrag einer Partei anordnen, dass die andere Partei innerhalb einer festgelegten Frist für die Kosten des Rechtsstreits und sonstigen der antragstellenden Partei entstandenen und/oder noch entstehenden Kosten, welche die andere Partei möglicherweise tragen muss, angemessene Sicherheit zu leisten hat. Beschließt das Gericht, eine solche Sicherheitsleistung anzuordnen, hat es darüber zu entscheiden, ob die Sicherheitsleistung durch Hinterlegung oder Bankbürgschaft erfolgen soll.\n\nBezug: Art. 4 EPGÜ, Art. 69 EPGÜ\n\nHinweis: Prozesskostensicherheit: Gefährdung der Erstattung oder Vollstreckungsschwierigkeiten; Beweislast beim Antragsteller (EPG-BerG Aarke/SodaStream).\n\nIn 144 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14328,7 +14745,7 @@
   "id": "card:eunorm:eunorm:rop:172",
   "typ": "eunorm",
   "front": "Was regelt R. 172 VerfO (Pflicht zur Beweisvorlage)?",
-  "back": "Pflicht zur Beweisvorlage\n\nDie Beweismittel, die einer Partei in Bezug auf eine Tatsachenbehauptung, die von der anderen Partei bestritten wird oder wahrscheinlich bestritten wird, zur Verfügung stehen, müssen von der Partei, die die Tatsache behauptet, vorgelegt werden.\n\nBezug zum Übereinkommen: Art. 53 EPGÜ\n\nIn 15 Entscheidungen des EPG zitiert.",
+  "back": "Pflicht zur Beweisvorlage\n\nDie Beweismittel, die einer Partei in Bezug auf eine Tatsachenbehauptung, die von der anderen Partei bestritten wird oder wahrscheinlich bestritten wird, zur Verfügung stehen, müssen von der Partei, die die Tatsache behauptet, vorgelegt werden.\n\nBezug: Art. 53 EPGÜ\n\nIn 15 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14350,7 +14767,7 @@
   "id": "card:eunorm:eunorm:rop:190",
   "typ": "eunorm",
   "front": "Was regelt R. 190 VerfO (Anordnung der Beweisvorlage)?",
-  "back": "Anordnung der Beweisvorlage\n\nHat eine Partei alle vernünftigerweise verfügbaren und plausiblen Beweismittel zur Begründung ihrer Ansprüche vorgelegt und zur Begründung dieser Ansprüche Beweismittel bezeichnet, die sich in der Verfügungsgewalt der gegnerischen Partei oder einer dritten Partei befinden, kann das Gericht auf einen mit einer Begründung versehenen Antrag der Partei, welche die Beweismittel bezeichnet hat, die Vorlage dieser Beweismittel durch die gegnerische Partei oder die dritte Partei anordnen. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass die Beweismittel nur bestimmten namentlich  …\n\nBezug zum Übereinkommen: Art. 59 EPGÜ\n\nHinweis: Beweisvorlage nach Art. 59 EPGÜ für substantiierte, bestrittene Tatsachen; keine Ausforschung.\n\nIn 70 Entscheidungen des EPG zitiert.",
+  "back": "Anordnung der Beweisvorlage\n\nHat eine Partei alle vernünftigerweise verfügbaren und plausiblen Beweismittel zur Begründung ihrer Ansprüche vorgelegt und zur Begründung dieser Ansprüche Beweismittel bezeichnet, die sich in der Verfügungsgewalt der gegnerischen Partei oder einer dritten Partei befinden, kann das Gericht auf einen mit einer Begründung versehenen Antrag der Partei, welche die Beweismittel bezeichnet hat, die Vorlage dieser Beweismittel durch die gegnerische Partei oder die dritte Partei anordnen. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass die Beweismittel nur bestimmten namentlich  …\n\nBezug: Art. 59 EPGÜ\n\nHinweis: Beweisvorlage nach Art. 59 EPGÜ für substantiierte, bestrittene Tatsachen; keine Ausforschung.\n\nIn 70 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14361,7 +14778,7 @@
   "id": "card:eunorm:eunorm:rop:191",
   "typ": "eunorm",
   "front": "Was regelt R. 191 VerfO (Antrag auf Anordnung der Auskunftserteilung)?",
-  "back": "Antrag auf Anordnung der Auskunftserteilung\n\nDas Gericht kann auf einen mit einer Begründung versehenen Antrag einer Partei anordnen, dass Informationen gemäß Artikel 67 des Übereinkommens, die sich in der Verfügungsgewalt der anderen oder einer dritten Partei befinden, oder Informationen, welche die antragstellende Partei zum Zwecke der Rechtsverfolgung vernünftigerweise benötigt, von der anderen bzw. dritten Partei übermittelt werden müssen. Regel 190.1, zweiter Satz, .5 und .6 gilt entsprechend.\n\nBezug zum Übereinkommen: Art. 67 EPGÜ\n\nIn 44 Entscheidungen des EPG zitiert.",
+  "back": "Antrag auf Anordnung der Auskunftserteilung\n\nDas Gericht kann auf einen mit einer Begründung versehenen Antrag einer Partei anordnen, dass Informationen gemäß Artikel 67 des Übereinkommens, die sich in der Verfügungsgewalt der anderen oder einer dritten Partei befinden, oder Informationen, welche die antragstellende Partei zum Zwecke der Rechtsverfolgung vernünftigerweise benötigt, von der anderen bzw. dritten Partei übermittelt werden müssen. Regel 190.1, zweiter Satz, .5 und .6 gilt entsprechend.\n\nBezug: Art. 67 EPGÜ\n\nIn 44 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14372,7 +14789,7 @@
   "id": "card:eunorm:eunorm:rop:192",
   "typ": "eunorm",
   "front": "Was regelt R. 192 VerfO (Antrag auf Beweissicherung)?",
-  "back": "Antrag auf Beweissicherung\n\nEin Antrag auf Beweissicherung kann von einer Partei (im Sinne von Artikel 47 des Übereinkommens) (im Folgenden „der Antragsteller“) bei der Kammer gestellt werden, bei der der Antragsteller das Verletzungsverfahren in der Sache anhängig gemacht hat. Wird der Antrag gestellt, bevor das Verfahren in der Sache eingeleitet worden ist, muss er bei der Kammer gestellt werden, bei der der Antragsteller beabsichtigt, das Verfahren in der Sache einzuleiten.\n\nBezug zum Übereinkommen: Art. 60 EPGÜ\n\nHinweis: Antrag auf Beweissicherung: Angaben, Beweismittel, Offenlegungspflicht bei ex parte (Abs. 3, EPG-BerG Ecovacs/Roborock).\n\nIn 31 Entscheidungen des EPG zitiert.",
+  "back": "Antrag auf Beweissicherung\n\nEin Antrag auf Beweissicherung kann von einer Partei (im Sinne von Artikel 47 des Übereinkommens) (im Folgenden „der Antragsteller“) bei der Kammer gestellt werden, bei der der Antragsteller das Verletzungsverfahren in der Sache anhängig gemacht hat. Wird der Antrag gestellt, bevor das Verfahren in der Sache eingeleitet worden ist, muss er bei der Kammer gestellt werden, bei der der Antragsteller beabsichtigt, das Verfahren in der Sache einzuleiten.\n\nBezug: Art. 60 EPGÜ\n\nHinweis: Antrag auf Beweissicherung: Angaben, Beweismittel, Offenlegungspflicht bei ex parte (Abs. 3, EPG-BerG Ecovacs/Roborock).\n\nIn 31 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14394,7 +14811,7 @@
   "id": "card:eunorm:eunorm:rop:196",
   "typ": "eunorm",
   "front": "Was regelt R. 196 VerfO (Anordnung bezüglich des Antrags auf Beweissicherung)?",
-  "back": "Anordnung bezüglich des Antrags auf Beweissicherung\n\nDas Gericht kann insbesondere Folgendes anordnen: (a) die Beweissicherung durch ausführliche Beschreibung mit oder ohne Einbehaltung von Mustern, (b) die dingliche Beschlagnahme der angeblich verletzenden Erzeugnisse, (c) die dingliche Beschlagnahme der für die Herstellung und/oder den Vertrieb dieser Erzeugnisse verwendeten Materialien und Geräte und der zugehörigen Unterlagen, (d) die Sicherung und Offenlegung digitaler Medien und Daten und die Offenlegung aller für den Zugang zu diesen erforderlichen Passwörter. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass diese Of …\n\nBezug zum Übereinkommen: Art. 1 EPGÜ, Art. 4 EPGÜ, Art. 60 EPGÜ\n\nIn 27 Entscheidungen des EPG zitiert.",
+  "back": "Anordnung bezüglich des Antrags auf Beweissicherung\n\nDas Gericht kann insbesondere Folgendes anordnen: (a) die Beweissicherung durch ausführliche Beschreibung mit oder ohne Einbehaltung von Mustern, (b) die dingliche Beschlagnahme der angeblich verletzenden Erzeugnisse, (c) die dingliche Beschlagnahme der für die Herstellung und/oder den Vertrieb dieser Erzeugnisse verwendeten Materialien und Geräte und der zugehörigen Unterlagen, (d) die Sicherung und Offenlegung digitaler Medien und Daten und die Offenlegung aller für den Zugang zu diesen erforderlichen Passwörter. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass diese Of …\n\nBezug: Art. 1 EPGÜ, Art. 4 EPGÜ, Art. 60 EPGÜ\n\nIn 27 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14405,7 +14822,7 @@
   "id": "card:eunorm:eunorm:rop:197",
   "typ": "eunorm",
   "front": "Was regelt R. 197 VerfO (Anordnung der Beweissicherung ohne Anhörung des Antragsgegners)?",
-  "back": "Anordnung der Beweissicherung ohne Anhörung des Antragsgegners\n\nDas Gericht kann Maßnahmen zur Beweissicherung [Regel 196.1]ohne vorherige Anhörung des Antragsgegners insbesondere dann anordnen, wenn durch eine Verzögerung dem Antragsteller wahrscheinlich ein nicht wiedergutzumachender Schaden entstünde, oder wenn nachweislich die Gefahr besteht, dass Beweismittel vernichtet werden oder aus anderen Gründen nicht mehr verfügbar sein könnten.\n\nBezug zum Übereinkommen: Art. 6 EPGÜ, Art. 60 EPGÜ\n\nIn 42 Entscheidungen des EPG zitiert.",
+  "back": "Anordnung der Beweissicherung ohne Anhörung des Antragsgegners\n\nDas Gericht kann Maßnahmen zur Beweissicherung [Regel 196.1]ohne vorherige Anhörung des Antragsgegners insbesondere dann anordnen, wenn durch eine Verzögerung dem Antragsteller wahrscheinlich ein nicht wiedergutzumachender Schaden entstünde, oder wenn nachweislich die Gefahr besteht, dass Beweismittel vernichtet werden oder aus anderen Gründen nicht mehr verfügbar sein könnten.\n\nBezug: Art. 6 EPGÜ, Art. 60 EPGÜ\n\nIn 42 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14416,7 +14833,7 @@
   "id": "card:eunorm:eunorm:rop:198",
   "typ": "eunorm",
   "front": "Was regelt R. 198 VerfO (Aufhebung einer Anordnung der Beweissicherung)?",
-  "back": "Aufhebung einer Anordnung der Beweissicherung\n\nDas Gericht stellt sicher, dass eine Anordnung der Beweissicherung auf Antrag des Antragsgegners, unbeschadet etwaiger Schadenersatzforderungen, aufgehoben oder auf andere Weise außer Kraft gesetzt wird, wenn der Antragsteller nicht innerhalb einer Frist von 31 Kalendertagen oder 20 Werktagen – je nachdem, welcher Zeitraum länger ist – ab dem in der gerichtlichen Anordnung, unter angemessener Berücksichtigung des Datums, bis zu dem der Bericht gemäß Regel 196.4 vorliegen soll, festgelegten Datum das Hauptverfahren in der Sache bei dem Gericht einleitet.\n\nBezug zum Übereinkommen: Art. 60 EPGÜ, Art. 8 EPGÜ, Art. 9 EPGÜ\n\nIn 26 Entscheidungen des EPG zitiert.",
+  "back": "Aufhebung einer Anordnung der Beweissicherung\n\nDas Gericht stellt sicher, dass eine Anordnung der Beweissicherung auf Antrag des Antragsgegners, unbeschadet etwaiger Schadenersatzforderungen, aufgehoben oder auf andere Weise außer Kraft gesetzt wird, wenn der Antragsteller nicht innerhalb einer Frist von 31 Kalendertagen oder 20 Werktagen – je nachdem, welcher Zeitraum länger ist – ab dem in der gerichtlichen Anordnung, unter angemessener Berücksichtigung des Datums, bis zu dem der Bericht gemäß Regel 196.4 vorliegen soll, festgelegten Datum das Hauptverfahren in der Sache bei dem Gericht einleitet.\n\nBezug: Art. 60 EPGÜ, Art. 8 EPGÜ, Art. 9 EPGÜ\n\nIn 26 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14427,7 +14844,7 @@
   "id": "card:eunorm:eunorm:rop:199",
   "typ": "eunorm",
   "front": "Was regelt R. 199 VerfO (Anordnung der Inspektion)?",
-  "back": "Anordnung der Inspektion\n\nDas Gericht kann auf einen mit einer Begründung versehenen Antrag einer Partei eine Inspektion von Erzeugnissen, Vorrichtungen, Verfahren, Räumlichkeiten oder lokalen Gegebenheiten vor Ort anordnen. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass diese Offenlegung nur gegenüber bestimmten namentlich benannten Personen erfolgt und einer angemessenen Geheimhaltungspflicht gemäß Artikel 58 des Übereinkommens unterliegt.\n\nBezug zum Übereinkommen: Art. 60 EPGÜ\n\nIn 15 Entscheidungen des EPG zitiert.",
+  "back": "Anordnung der Inspektion\n\nDas Gericht kann auf einen mit einer Begründung versehenen Antrag einer Partei eine Inspektion von Erzeugnissen, Vorrichtungen, Verfahren, Räumlichkeiten oder lokalen Gegebenheiten vor Ort anordnen. Zum Schutz vertraulicher Informationen kann das Gericht anordnen, dass diese Offenlegung nur gegenüber bestimmten namentlich benannten Personen erfolgt und einer angemessenen Geheimhaltungspflicht gemäß Artikel 58 des Übereinkommens unterliegt.\n\nBezug: Art. 60 EPGÜ\n\nIn 15 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14449,7 +14866,7 @@
   "id": "card:eunorm:eunorm:rop:206",
   "typ": "eunorm",
   "front": "Was regelt R. 206 VerfO (Antrag auf einstweilige Maßnahmen)?",
-  "back": "Antrag auf einstweilige Maßnahmen\n\nEin Antrag auf einstweilige Maßnahmen kann von einer Partei (im Folgenden „der Antragsteller“) bei dem Gericht vor oder nach Einleitung des Hauptverfahrens in der Sache gestellt werden.\n\nBezug zum Übereinkommen: Art. 1 EPGÜ, Art. 32 EPGÜ, Art. 62 EPGÜ\n\nHinweis: Antrag auf einstweilige Maßnahmen: Angaben zu Rechtsbestand, Verletzung, Dringlichkeit; Schutzschrift nach R. 207 ist zu berücksichtigen.\n\nIn 65 Entscheidungen des EPG zitiert.",
+  "back": "Antrag auf einstweilige Maßnahmen\n\nEin Antrag auf einstweilige Maßnahmen kann von einer Partei (im Folgenden „der Antragsteller“) bei dem Gericht vor oder nach Einleitung des Hauptverfahrens in der Sache gestellt werden.\n\nBezug: Art. 1 EPGÜ, Art. 32 EPGÜ, Art. 62 EPGÜ\n\nHinweis: Antrag auf einstweilige Maßnahmen: Angaben zu Rechtsbestand, Verletzung, Dringlichkeit; Schutzschrift nach R. 207 ist zu berücksichtigen.\n\nIn 65 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14482,7 +14899,7 @@
   "id": "card:eunorm:eunorm:rop:211",
   "typ": "eunorm",
   "front": "Was regelt R. 211 VerfO (Anordnung bezüglich des Antrags auf einstweilige Maßnahmen)?",
-  "back": "Anordnung bezüglich des Antrags auf einstweilige Maßnahmen\n\nDas Gericht kann insbesondere folgende einstweiligen Maßnahmen anordnen: (a) Verfügungen gegen einen Antragsgegner; (b) Beschlagnahme oder Herausgabe von Erzeugnissen, bei denen der Verdacht auf Verletzung eines Patentrechts besteht, um deren Inverkehrbringen und Umlauf auf den Vertriebswegen zu verhindern; (c) wenn ein Antragsteller glaubhaft macht, dass die Erfüllung seiner Schadenersatzansprüche fraglich ist, die vorsorgliche Beschlagnahme beweglichen und unbeweglichen Vermögens des Antragsgegners einschließlich der Sperrung der Bankkonten und der Beschlagnahme sonstiger Vermögenswerte des  …\n\nBezug zum Übereinkommen: Art. 2 EPGÜ, Art. 4 EPGÜ, Art. 62 EPGÜ\n\nHinweis: Entscheidung: hinreichende Sicherheit (Abs. 2 – überwiegend wahrscheinlich, EPG-BerG NanoString/10x), Interessenabwägung (Abs. 3), unangemessene Verzögerung (Abs. 4), Sicherheitsleistung (Abs. 5).\n\nIn 108 Entscheidungen des EPG zitiert.",
+  "back": "Anordnung bezüglich des Antrags auf einstweilige Maßnahmen\n\nDas Gericht kann insbesondere folgende einstweiligen Maßnahmen anordnen: (a) Verfügungen gegen einen Antragsgegner; (b) Beschlagnahme oder Herausgabe von Erzeugnissen, bei denen der Verdacht auf Verletzung eines Patentrechts besteht, um deren Inverkehrbringen und Umlauf auf den Vertriebswegen zu verhindern; (c) wenn ein Antragsteller glaubhaft macht, dass die Erfüllung seiner Schadenersatzansprüche fraglich ist, die vorsorgliche Beschlagnahme beweglichen und unbeweglichen Vermögens des Antragsgegners einschließlich der Sperrung der Bankkonten und der Beschlagnahme sonstiger Vermögenswerte des  …\n\nBezug: Art. 2 EPGÜ, Art. 4 EPGÜ, Art. 62 EPGÜ\n\nHinweis: Entscheidung: hinreichende Sicherheit (Abs. 2 – überwiegend wahrscheinlich, EPG-BerG NanoString/10x), Interessenabwägung (Abs. 3), unangemessene Verzögerung (Abs. 4), Sicherheitsleistung (Abs. 5).\n\nIn 108 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14493,7 +14910,7 @@
   "id": "card:eunorm:eunorm:rop:212",
   "typ": "eunorm",
   "front": "Was regelt R. 212 VerfO (Anordnung einstweiliger Maßnahmen ohne Anhörung des Antragsgegners)?",
-  "back": "Anordnung einstweiliger Maßnahmen ohne Anhörung des Antragsgegners\n\nDas Gericht kann einstweilige Maßnahmen ohne vorherige Anhörung des Antragsgegners insbesondere dann anordnen, wenn durch eine Verzögerung dem Antragsteller wahrscheinlich ein nicht wieder gutzumachender Schaden entstünde oder wenn nachweislich die Gefahr besteht, dass Beweismittel vernichtet werden. Regel 197 gilt entsprechend.\n\nBezug zum Übereinkommen: Art. 5 EPGÜ, Art. 6 EPGÜ, Art. 60 EPGÜ\n\nIn 26 Entscheidungen des EPG zitiert.",
+  "back": "Anordnung einstweiliger Maßnahmen ohne Anhörung des Antragsgegners\n\nDas Gericht kann einstweilige Maßnahmen ohne vorherige Anhörung des Antragsgegners insbesondere dann anordnen, wenn durch eine Verzögerung dem Antragsteller wahrscheinlich ein nicht wieder gutzumachender Schaden entstünde oder wenn nachweislich die Gefahr besteht, dass Beweismittel vernichtet werden. Regel 197 gilt entsprechend.\n\nBezug: Art. 5 EPGÜ, Art. 6 EPGÜ, Art. 60 EPGÜ\n\nIn 26 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14504,7 +14921,7 @@
   "id": "card:eunorm:eunorm:rop:213",
   "typ": "eunorm",
   "front": "Was regelt R. 213 VerfO (Aufhebung einstweiliger Maßnahmen)?",
-  "back": "Aufhebung einstweiliger Maßnahmen\n\nDas Gericht stellt sicher, dass einstweilige Maßnahmen auf Antrag des Antragsgegners, unbeschadet etwaiger Schadenersatzforderungen, aufgehoben oder auf andere Weise außer Kraft gesetzt werden, wenn der Antragsteller nicht innerhalb einer Frist von 31 Kalendertagen oder 20 Werktagen – je nachdem, welcher Zeitraum länger ist – ab dem in der Anordnung des Gerichts festgelegten Datum bei dem Gericht das Verfahren in der Sache einleitet. Bei der Festlegung des Datums trägt das Gericht, wo anwendbar, dem Datum, an dem der Bericht nach Regel 196.4 vorgelegt werden soll, angemessen Rechnung.\n\nBezug zum Übereinkommen: Art. 60 EPGÜ, Art. 9 EPGÜ\n\nIn 68 Entscheidungen des EPG zitiert.",
+  "back": "Aufhebung einstweiliger Maßnahmen\n\nDas Gericht stellt sicher, dass einstweilige Maßnahmen auf Antrag des Antragsgegners, unbeschadet etwaiger Schadenersatzforderungen, aufgehoben oder auf andere Weise außer Kraft gesetzt werden, wenn der Antragsteller nicht innerhalb einer Frist von 31 Kalendertagen oder 20 Werktagen – je nachdem, welcher Zeitraum länger ist – ab dem in der Anordnung des Gerichts festgelegten Datum bei dem Gericht das Verfahren in der Sache einleitet. Bei der Festlegung des Datums trägt das Gericht, wo anwendbar, dem Datum, an dem der Bericht nach Regel 196.4 vorgelegt werden soll, angemessen Rechnung.\n\nBezug: Art. 60 EPGÜ, Art. 9 EPGÜ\n\nIn 68 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14515,7 +14932,7 @@
   "id": "card:eunorm:eunorm:rop:220",
   "typ": "eunorm",
   "front": "Was regelt R. 220 VerfO (Berufungsfähige Entscheidungen)?",
-  "back": "Berufungsfähige Entscheidungen\n\nEine beschwerte Partei kann Berufung einlegen gegen (a) Endentscheidungen des Gerichts erster Instanz; (b) Entscheidungen, die das Verfahren bezüglich einer der Parteien beenden; (c) die in den Artikeln 49 Absatz 5, 59, 60, 61, 62 oder 67 des Übereinkommens genannten Anordnungen.\n\nBezug zum Übereinkommen: Art. 73 EPGÜ\n\nHinweis: Berufung: gegen Endentscheidungen und aufgezählte Anordnungen (Abs. 1), sonst nur mit Zulassung (Abs. 2) oder nach Ermessensüberprüfung (Abs. 3, 4).\n\nIn 272 Entscheidungen des EPG zitiert.",
+  "back": "Berufungsfähige Entscheidungen\n\nEine beschwerte Partei kann Berufung einlegen gegen (a) Endentscheidungen des Gerichts erster Instanz; (b) Entscheidungen, die das Verfahren bezüglich einer der Parteien beenden; (c) die in den Artikeln 49 Absatz 5, 59, 60, 61, 62 oder 67 des Übereinkommens genannten Anordnungen.\n\nBezug: Art. 73 EPGÜ\n\nHinweis: Berufung: gegen Endentscheidungen und aufgezählte Anordnungen (Abs. 1), sonst nur mit Zulassung (Abs. 2) oder nach Ermessensüberprüfung (Abs. 3, 4).\n\nIn 272 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14537,7 +14954,7 @@
   "id": "card:eunorm:eunorm:rop:222",
   "typ": "eunorm",
   "front": "Was regelt R. 222 VerfO (Gegenstand des Verfahrens vor dem Berufungsgericht)?",
-  "back": "Gegenstand des Verfahrens vor dem Berufungsgericht\n\nDie von den Parteien gemäß den Regeln 221, 225, 226, 236 und 238 vorgebrachten Anträge, Tatsachen, Beweismittel und rechtlichen Ausführungen stellen vorbehaltlich des Absatzes 2 den Gegenstand des Verfahrens vor dem Berufungsgericht dar. Das Berufungsgericht zieht die Akte des Verfahrens vor dem Gericht erster Instanz bei.\n\nBezug zum Übereinkommen: Art. 4 EPGÜ, Art. 73 EPGÜ\n\nHinweis: Berufungsgegenstand: neue Tatsachen und Beweismittel nur ausnahmsweise (Abs. 2); Ermessen des Berufungsgerichts.\n\nIn 72 Entscheidungen des EPG zitiert.",
+  "back": "Gegenstand des Verfahrens vor dem Berufungsgericht\n\nDie von den Parteien gemäß den Regeln 221, 225, 226, 236 und 238 vorgebrachten Anträge, Tatsachen, Beweismittel und rechtlichen Ausführungen stellen vorbehaltlich des Absatzes 2 den Gegenstand des Verfahrens vor dem Berufungsgericht dar. Das Berufungsgericht zieht die Akte des Verfahrens vor dem Gericht erster Instanz bei.\n\nBezug: Art. 4 EPGÜ, Art. 73 EPGÜ\n\nHinweis: Berufungsgegenstand: neue Tatsachen und Beweismittel nur ausnahmsweise (Abs. 2); Ermessen des Berufungsgerichts.\n\nIn 72 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14548,7 +14965,7 @@
   "id": "card:eunorm:eunorm:rop:223",
   "typ": "eunorm",
   "front": "Was regelt R. 223 VerfO (Antrag auf aufschiebende Wirkung)?",
-  "back": "Antrag auf aufschiebende Wirkung\n\nEine Partei kann gemäß Artikel 74 des Übereinkommens einen Antrag auf aufschiebende Wirkung stellen. Der Antragsteller hat eine Gebühr für den Antrag gemäß Teil 6 zu entrichten.\n\nBezug zum Übereinkommen: Art. 74 EPGÜ\n\nHinweis: Aufschiebende Wirkung nur auf Antrag und bei außergewöhnlichen Umständen; Antrag muss vollständig sein (EPG-BerG Amycel).\n\nIn 69 Entscheidungen des EPG zitiert.",
+  "back": "Antrag auf aufschiebende Wirkung\n\nEine Partei kann gemäß Artikel 74 des Übereinkommens einen Antrag auf aufschiebende Wirkung stellen. Der Antragsteller hat eine Gebühr für den Antrag gemäß Teil 6 zu entrichten.\n\nBezug: Art. 74 EPGÜ\n\nHinweis: Aufschiebende Wirkung nur auf Antrag und bei außergewöhnlichen Umständen; Antrag muss vollständig sein (EPG-BerG Amycel).\n\nIn 69 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14559,7 +14976,7 @@
   "id": "card:eunorm:eunorm:rop:224",
   "typ": "eunorm",
   "front": "Was regelt R. 224 VerfO (Fristen für die Einreichung der Berufungsschrift und der Berufungsbegründung)?",
-  "back": "Fristen für die Einreichung der Berufungsschrift und der Berufungsbegründung\n\nDer Berufungskläger muss die Berufungsschrift einreichen: (a) innerhalb von zwei Monaten nach Zustellung einer in Regel 220.1(a) oder (b) genannten Entscheidung oder (b) innerhalb von 15 Tagen nach Zustellung einer in Regel 220.1 (c) genannten Anordnung oder in Regel 220.2 oder 221.3 genannten Entscheidung.\n\nBezug zum Übereinkommen: Art. 1 EPGÜ, Art. 2 EPGÜ, Art. 73 EPGÜ\n\nHinweis: Berufungsfrist: zwei Monate (Endentscheidung) bzw. 15 Tage (Anordnungen) ab Zustellung der begründeten Entscheidung.\n\nIn 41 Entscheidungen des EPG zitiert.",
+  "back": "Fristen für die Einreichung der Berufungsschrift und der Berufungsbegründung\n\nDer Berufungskläger muss die Berufungsschrift einreichen: (a) innerhalb von zwei Monaten nach Zustellung einer in Regel 220.1(a) oder (b) genannten Entscheidung oder (b) innerhalb von 15 Tagen nach Zustellung einer in Regel 220.1 (c) genannten Anordnung oder in Regel 220.2 oder 221.3 genannten Entscheidung.\n\nBezug: Art. 1 EPGÜ, Art. 2 EPGÜ, Art. 73 EPGÜ\n\nHinweis: Berufungsfrist: zwei Monate (Endentscheidung) bzw. 15 Tage (Anordnungen) ab Zustellung der begründeten Entscheidung.\n\nIn 41 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14614,7 +15031,7 @@
   "id": "card:eunorm:eunorm:rop:242",
   "typ": "eunorm",
   "front": "Was regelt R. 242 VerfO (Entscheidung des Berufungsgerichts)?",
-  "back": "Entscheidung des Berufungsgerichts\n\nDas Berufungsgericht weist die Berufung entweder zurück oder hebt die Entscheidung oder Anordnung ganz oder teilweise auf und ersetzt sie durch eine eigene Entscheidung oder Anordnung, auch hinsichtlich der Auferlegung der Kosten sowohl des erstinstanzlichen als auch des Berufungsverfahrens.\n\nBezug zum Übereinkommen: Art. 75 EPGÜ\n\nIn 35 Entscheidungen des EPG zitiert.",
+  "back": "Entscheidung des Berufungsgerichts\n\nDas Berufungsgericht weist die Berufung entweder zurück oder hebt die Entscheidung oder Anordnung ganz oder teilweise auf und ersetzt sie durch eine eigene Entscheidung oder Anordnung, auch hinsichtlich der Auferlegung der Kosten sowohl des erstinstanzlichen als auch des Berufungsverfahrens.\n\nBezug: Art. 75 EPGÜ\n\nIn 35 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14625,7 +15042,7 @@
   "id": "card:eunorm:eunorm:rop:245",
   "typ": "eunorm",
   "front": "Was regelt R. 245 VerfO (Antrag auf Wiederaufnahme des Verfahrens)?",
-  "back": "Antrag auf Wiederaufnahme des Verfahrens\n\nJede Partei, die durch eine Endentscheidung des Gerichts erster Instanz, für die die Frist zur Einlegung einer Berufung abgelaufen ist, oder des Berufungsgerichts (im Folgenden „die Endentscheidung“) beschwert ist (im Folgenden „der Antragsteller“), kann einen Antrag auf Wiederaufnahme des Verfahrens stellen.\n\nBezug zum Übereinkommen: Art. 81 EPGÜ\n\nIn 8 Entscheidungen des EPG zitiert.",
+  "back": "Antrag auf Wiederaufnahme des Verfahrens\n\nJede Partei, die durch eine Endentscheidung des Gerichts erster Instanz, für die die Frist zur Einlegung einer Berufung abgelaufen ist, oder des Berufungsgerichts (im Folgenden „die Endentscheidung“) beschwert ist (im Folgenden „der Antragsteller“), kann einen Antrag auf Wiederaufnahme des Verfahrens stellen.\n\nBezug: Art. 81 EPGÜ\n\nIn 8 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14647,7 +15064,7 @@
   "id": "card:eunorm:eunorm:rop:262",
   "typ": "eunorm",
   "front": "Was regelt R. 262 VerfO (Öffentlicher Zugang zum Register)?",
-  "back": "Öffentlicher Zugang zum Register\n\nUnbeschadet der Artikel 58 und 60 Absatz 1 des Übereinkommens und vorbehaltlich der Regeln 190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 und 365.2 und - soweit veranlasst - Schwärzung personenbezogener Daten im Sinne der Verordnung (EU) 2016/679 sowie vertraulicher Informationen nach Absatz 2 sind (a) Entscheidungen und Anordnungen des Gerichts zu veröffentlichen, (b) Schriftsätze und Beweismittel, die beim Gericht eingereicht und von der Kanzlei aufgenommen worden sind, der Öffentlichkeit auf einen an die Kanzlei zu richtenden begründeten Antrag zugänglich zu machen; die Entscheidung …\n\nBezug zum Übereinkommen: Art. 1 EPGÜ, Art. 10 EPGÜ, Art. 45 EPGÜ, Art. 58 EPGÜ, Art. 60 EPGÜ\n\nHinweis: Öffentlichkeit des Registers; Zugang zu Schriftsätzen und Beweismitteln nur auf begründeten Antrag (Abs. 1 lit. b).\n\nIn 199 Entscheidungen des EPG zitiert.",
+  "back": "Öffentlicher Zugang zum Register\n\nUnbeschadet der Artikel 58 und 60 Absatz 1 des Übereinkommens und vorbehaltlich der Regeln 190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 und 365.2 und - soweit veranlasst - Schwärzung personenbezogener Daten im Sinne der Verordnung (EU) 2016/679 sowie vertraulicher Informationen nach Absatz 2 sind (a) Entscheidungen und Anordnungen des Gerichts zu veröffentlichen, (b) Schriftsätze und Beweismittel, die beim Gericht eingereicht und von der Kanzlei aufgenommen worden sind, der Öffentlichkeit auf einen an die Kanzlei zu richtenden begründeten Antrag zugänglich zu machen; die Entscheidung …\n\nBezug: Art. 1 EPGÜ, Art. 10 EPGÜ, Art. 45 EPGÜ, Art. 58 EPGÜ, Art. 60 EPGÜ\n\nHinweis: Öffentlichkeit des Registers; Zugang zu Schriftsätzen und Beweismitteln nur auf begründeten Antrag (Abs. 1 lit. b).\n\nIn 199 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14658,7 +15075,7 @@
   "id": "card:eunorm:eunorm:rop:262A",
   "typ": "eunorm",
   "front": "Was regelt R. 262A VerfO (Schutz vertraulicher Informationen)?",
-  "back": "Schutz vertraulicher Informationen\n\nUnbeschadet des Artikels 60 Abs. 1 des Übereinkommens und der Regeln 190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 und 365.2 kann eine Partei beim Gericht einen Antrag auf Erlass einer Anordnung stellen, den Zugriff auf bestimmte in ihren Schriftsätzen enthaltene Informationen oder die Erhebung und Verwendung von Beweisen im Verfahren einzuschränken oder für unzulässig zu erklären oder den Zugang zu solchen Informationen oder Beweismitteln auf bestimmte Personen zu beschränken.\n\nBezug zum Übereinkommen: Art. 58 EPGÜ\n\nHinweis: Schutz vertraulicher Informationen: Antrag bei Einreichung, Vertraulichkeitskreis mit mindestens einer natürlichen Person je Partei (Abs. 6), Interessenabwägung.\n\nIn 235 Entscheidungen des EPG zitiert.",
+  "back": "Schutz vertraulicher Informationen\n\nUnbeschadet des Artikels 60 Abs. 1 des Übereinkommens und der Regeln 190.1, 194.5, 196.1, 197.4, 199.1, 207.7, 209.4, 315.2 und 365.2 kann eine Partei beim Gericht einen Antrag auf Erlass einer Anordnung stellen, den Zugriff auf bestimmte in ihren Schriftsätzen enthaltene Informationen oder die Erhebung und Verwendung von Beweisen im Verfahren einzuschränken oder für unzulässig zu erklären oder den Zugang zu solchen Informationen oder Beweismitteln auf bestimmte Personen zu beschränken.\n\nBezug: Art. 58 EPGÜ\n\nHinweis: Schutz vertraulicher Informationen: Antrag bei Einreichung, Vertraulichkeitskreis mit mindestens einer natürlichen Person je Partei (Abs. 6), Interessenabwägung.\n\nIn 235 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14757,7 +15174,7 @@
   "id": "card:eunorm:eunorm:rop:284",
   "typ": "eunorm",
   "front": "Was regelt R. 284 VerfO (Pflicht der Vertreter, Sachverhalte oder Fälle nicht falsch darzustellen)?",
-  "back": "Pflicht der Vertreter, Sachverhalte oder Fälle nicht falsch darzustellen\n\nVertreter der Parteien dürfen Fälle oder Sachverhalte vor dem Gericht weder wissentlich noch aufgrund fahrlässiger Unkenntnis falsch darstellen.\n\nBezug zum Übereinkommen: Art. 48 EPGÜ, Art. 6 EPGÜ\n\nIn 12 Entscheidungen des EPG zitiert.",
+  "back": "Pflicht der Vertreter, Sachverhalte oder Fälle nicht falsch darzustellen\n\nVertreter der Parteien dürfen Fälle oder Sachverhalte vor dem Gericht weder wissentlich noch aufgrund fahrlässiger Unkenntnis falsch darstellen.\n\nBezug: Art. 48 EPGÜ, Art. 6 EPGÜ\n\nIn 12 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14845,7 +15262,7 @@
   "id": "card:eunorm:eunorm:rop:321",
   "typ": "eunorm",
   "front": "Was regelt R. 321 VerfO (Antrag beider Parteien auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache)?",
-  "back": "Antrag beider Parteien auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache\n\nWährend des schriftlichen Verfahrens kann eine Partei jederzeit einen Antrag beider Parteien einreichen, die Sprache, in der das Patent erteilt wurde, gemäß Artikel 49 Absatz 3 des Übereinkommens als Verfahrenssprache zu verwenden. Aus dem Antrag muss hervorgehen, dass sich beide Parteien darauf verständigt haben, die Sprache, in der das Patent erteilt wurde, als Verfahrenssprache zu verwenden.\n\nBezug zum Übereinkommen: Art. 3 EPGÜ, Art. 49 EPGÜ\n\nIn 7 Entscheidungen des EPG zitiert.",
+  "back": "Antrag beider Parteien auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache\n\nWährend des schriftlichen Verfahrens kann eine Partei jederzeit einen Antrag beider Parteien einreichen, die Sprache, in der das Patent erteilt wurde, gemäß Artikel 49 Absatz 3 des Übereinkommens als Verfahrenssprache zu verwenden. Aus dem Antrag muss hervorgehen, dass sich beide Parteien darauf verständigt haben, die Sprache, in der das Patent erteilt wurde, als Verfahrenssprache zu verwenden.\n\nBezug: Art. 3 EPGÜ, Art. 49 EPGÜ\n\nIn 7 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14856,7 +15273,7 @@
   "id": "card:eunorm:eunorm:rop:323",
   "typ": "eunorm",
   "front": "Was regelt R. 323 VerfO (Antrag einer Partei auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache)?",
-  "back": "Antrag einer Partei auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache\n\nMöchte eine Partei die Sprache, in der das Patent erteilt wurde, gemäß Artikel 49 Absatz 5 des Übereinkommens als Verfahrenssprache verwenden, hat sie einen entsprechenden Antrag der Klageschrift, im Falle des Klägers, bzw. der der Klageerwiderung, im Falle des Beklagten, beizufügen. Der Berichterstatter leitet den Antrag dem Präsidenten des Gerichts erster Instanz zu.\n\nBezug zum Übereinkommen: Art. 49 EPGÜ, Art. 5 EPGÜ\n\nIn 48 Entscheidungen des EPG zitiert.",
+  "back": "Antrag einer Partei auf Verwendung der Sprache, in der das Patent erteilt wurde, als Verfahrenssprache\n\nMöchte eine Partei die Sprache, in der das Patent erteilt wurde, gemäß Artikel 49 Absatz 5 des Übereinkommens als Verfahrenssprache verwenden, hat sie einen entsprechenden Antrag der Klageschrift, im Falle des Klägers, bzw. der der Klageerwiderung, im Falle des Beklagten, beizufügen. Der Berichterstatter leitet den Antrag dem Präsidenten des Gerichts erster Instanz zu.\n\nBezug: Art. 49 EPGÜ, Art. 5 EPGÜ\n\nIn 48 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14911,7 +15328,7 @@
   "id": "card:eunorm:eunorm:rop:354",
   "typ": "eunorm",
   "front": "Was regelt R. 354 VerfO (Vollstreckung)?",
-  "back": "Vollstreckung\n\nVorbehaltlich der Regeln 118.8 und 352 sind Entscheidungen und Anordnungen des Gerichts ab dem Tag ihrer Zustellung in jedem Vertragsmitgliedstaat unmittelbar vollstreckbar. Die Vollstreckung erfolgt nach den im Recht des Vertragsmitgliedstaats, in dem die Vollstreckung stattfindet, geregelten Vollstreckungsverfahren und -bedingungen.\n\nBezug zum Übereinkommen: Art. 82 EPGÜ\n\nHinweis: Vollstreckung: Anordnungen sofort vollstreckbar; Zwangsgeld (Abs. 3, 4); Sicherheitsleistung; Aufhebung wirkt zurück (EPG-BerG Kodak/Fujifilm).\n\nIn 139 Entscheidungen des EPG zitiert.",
+  "back": "Vollstreckung\n\nVorbehaltlich der Regeln 118.8 und 352 sind Entscheidungen und Anordnungen des Gerichts ab dem Tag ihrer Zustellung in jedem Vertragsmitgliedstaat unmittelbar vollstreckbar. Die Vollstreckung erfolgt nach den im Recht des Vertragsmitgliedstaats, in dem die Vollstreckung stattfindet, geregelten Vollstreckungsverfahren und -bedingungen.\n\nBezug: Art. 82 EPGÜ\n\nHinweis: Vollstreckung: Anordnungen sofort vollstreckbar; Zwangsgeld (Abs. 3, 4); Sicherheitsleistung; Aufhebung wirkt zurück (EPG-BerG Kodak/Fujifilm).\n\nIn 139 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
@@ -14977,11 +15394,528 @@
   "id": "card:eunorm:eunorm:rop:371",
   "typ": "eunorm",
   "front": "Was regelt R. 371 VerfO (Fristen für die Zahlung der Gerichtsgebühren)?",
-  "back": "Fristen für die Zahlung der Gerichtsgebühren\n\nDie in Abschnitt I und Abschnitt IV der Gebührentabelle vorgesehenen Festgebühren und die in Abschnitt III der Gebührentabelle vorgesehenen Gebühren für andere Verfahren und Verfahrenshandlungen sind zum Zeitpunkt der Einreichung des betreffenden Schriftsatzes oder Antrags zu entrichten. Die Zahlung hat auf eines der vom Gericht angegebenen Bankkonten zu erfolgen und die Angabe der zahlenden Partei oder ihres Vertreters zusammen mit der Nummer des betreffenden Patents und des Aktenzeichens zu enthalten.\n\nBezug zum Übereinkommen: Art. 70 EPGÜ\n\nIn 6 Entscheidungen des EPG zitiert.",
+  "back": "Fristen für die Zahlung der Gerichtsgebühren\n\nDie in Abschnitt I und Abschnitt IV der Gebührentabelle vorgesehenen Festgebühren und die in Abschnitt III der Gebührentabelle vorgesehenen Gebühren für andere Verfahren und Verfahrenshandlungen sind zum Zeitpunkt der Einreichung des betreffenden Schriftsatzes oder Antrags zu entrichten. Die Zahlung hat auf eines der vom Gericht angegebenen Bankkonten zu erfolgen und die Angabe der zahlenden Partei oder ihres Vertreters zusammen mit der Nummer des betreffenden Patents und des Aktenzeichens zu enthalten.\n\nBezug: Art. 70 EPGÜ\n\nIn 6 Entscheidungen des EPG zitiert.",
   "tags": [
    "EPG",
    "VerfO"
   ],
   "node": "eunorm:rop:371"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:1",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 1 EPatVO (Gegenstand)?",
+  "back": "Gegenstand\n\nMit dieser Verordnung wird die mit Beschluss 2011/167/EU genehmigte verstärkte Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes umgesetzt.\n\nHinweis: Verstärkte Zusammenarbeit nach Art. 20 EUV: 25 Mitgliedstaaten (alle außer Spanien und Kroatien). Die Verordnung ist ein „besonderes Übereinkommen“ im Sinne von Art. 142 EPÜ.",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:1"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:2",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 2 EPatVO (Begriffsbestimmungen)?",
+  "back": "Begriffsbestimmungen\n\nFür die Zwecke dieser Verordnung gelten die folgenden Begriffsbestimmungen: a) \"Teilnehmender Mitgliedstaat\" bezeichnet einen Mitgliedstaat, der an der verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes auf der Grundlage des Beschlusses 2011/167/EU oder auf der Grundlage eines gemäß Artikel 331 Absatz 1 Unterabsatz 2 oder 3 AEUV gefassten Beschlusses zum Zeitpunkt des in Artikel 9 genannten Antrags auf einheitliche Wirkung teilnimmt. b) \"Europäisches Patent\" bezeichnet ein Patent, das vom Europäischen Patentamt (im Folgenden \"EPA\") nach den Regeln und Verfah …\n\nEntspricht: Art. 2 EPGÜ\n\nHinweis: „Teilnehmender Mitgliedstaat“ ist nur ein an der Verstärkten Zusammenarbeit beteiligter EU-Staat; wirken kann das Einheitspatent aber nur dort, wo das EPGÜ bei Eintragung in Kraft ist (Art. 18 Abs. 2).",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:2"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:3",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 3 EPatVO (Europäisches Patent mit einheitlicher Wirkung)?",
+  "back": "Europäisches Patent mit einheitlicher Wirkung\n\nEin Europäisches Patent, das mit den gleichen Ansprüchen für alle teilnehmenden Mitgliedstaaten erteilt wurde, hat einheitliche Wirkung in den teilnehmenden Mitgliedstaaten, sofern seine einheitliche Wirkung in dem Register für den einheitlichen Patentschutz eingetragen wurde. Ein Europäisches Patent, das mit unterschiedlichen Ansprüchen für verschiedene teilnehmende Mitgliedstaaten erteilt wurde, hat keine einheitliche Wirkung.\n\nEntspricht: Art. 3 EPGÜ\n\nHinweis: Voraussetzung: Erteilung mit denselben Ansprüchen für alle teilnehmenden Mitgliedstaaten (Abs. 1; R. 5 Abs. 2 DOEPS). Einheitlicher Charakter (Abs. 2): Beschränkung, Übertragung, Nichtigerklärung und Erlöschen nur für alle Staaten zugleich, Lizenzen auch für Teilgebiete.",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:3"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:4",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 4 EPatVO (Tag des Eintritts der Wirkung)?",
+  "back": "Tag des Eintritts der Wirkung\n\nEin Europäisches Patent mit einheitlicher Wirkung wird am Tag der Veröffentlichung des Hinweises auf die Patenterteilung im Europäischen Patentblatt durch das EPA in den teilnehmenden Mitgliedstaaten wirksam.\n\nHinweis: Wirksam am Tag der Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt, also rückwirkend zur Eintragung. Abs. 2: Die Mitgliedstaaten sorgen dafür, dass das europäische Patent für sie nicht daneben als nationales Patent wirkt.",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:4"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:5",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 5 EPatVO (Einheitlicher Schutz)?",
+  "back": "Einheitlicher Schutz\n\nDas Europäische Patent mit einheitlicher Wirkung verleiht seinem Inhaber das Recht, Dritte daran zu hindern, Handlungen zu begehen, gegen die dieses Patent innerhalb der Hoheitsgebiete der teilnehmenden Mitgliedstaaten, in denen das Patent einheitliche Wirkung besitzt, vorbehaltlich geltender Beschränkungen Schutz bietet.\n\nEntspricht: Art. 25 EPGÜ, Art. 26 EPGÜ, Art. 27 EPGÜ\n\nHinweis: Das materielle Recht (Verletzungshandlungen, Beschränkungen) steht nicht in der Verordnung, sondern über die Verweisung des Abs. 3 im nationalen Recht des Staates nach Art. 7 – und damit für alle Vertragsmitgliedstaaten in Art. 25 bis 30 EPGÜ.",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:5"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:6",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 6 EPatVO (Erschöpfung der Rechte aus einem Europäischen Patent mit einheitlicher Wirkung)?",
+  "back": "Erschöpfung der Rechte aus einem Europäischen Patent mit einheitlicher Wirkung\n\nDie durch das Europäische Patent mit einheitlicher Wirkung verliehenen Rechte erstrecken sich nicht auf Handlungen, die ein durch das Patent geschütztes Erzeugnis betreffen und in den teilnehmenden Mitgliedstaaten vorgenommen werden, in denen dieses Patent einheitliche Wirkung hat, nachdem das Erzeugnis vom Patentinhaber oder mit seiner Zustimmung in der Union in Verkehr gebracht worden ist, es sei denn, der Patentinhaber hat berechtigte Gründe, sich dem weiteren Vertrieb des Erzeugnisses zu widersetzen.\n\nEntspricht: Art. 29 EPGÜ\n\nHinweis: Unionsweite Erschöpfung; wortgleich mit Art. 29 EPGÜ.",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:6"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:7",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 7 EPatVO (Behandlung des Europäischen Patents mit einheitlicher Wirkung wie ein nationales Patent)?",
+  "back": "Behandlung des Europäischen Patents mit einheitlicher Wirkung wie ein nationales Patent\n\nEin Europäisches Patent mit einheitlicher Wirkung als Gegenstand des Vermögens ist in seiner Gesamtheit und in allen teilnehmenden Mitgliedstaaten wie ein nationales Patent des teilnehmenden Mitgliedstaats zu behandeln, in dem dieses Patent einheitliche Wirkung hat, und in dem, gemäß dem Europäischen Patentregister: a) der Patentanmelder zum Zeitpunkt der Einreichung einer Anmeldung eines Europäischen Patents seinen Wohnsitz oder den Sitz seiner Hauptniederlassung hat oder, b) sofern Buchstabe a nicht zutrifft, der Patentanmelder zum Zeitpunkt der Einreichung einer Anmeldung eines Europäischen …\n\nHinweis: Kollisionsnorm für das Einheitspatent als Gegenstand des Vermögens: Recht des teilnehmenden Mitgliedstaats, in dem der Anmelder am Anmeldetag Wohnsitz oder Hauptniederlassung hatte, hilfsweise eine Niederlassung (R. 16 Abs. 1 lit. w DOEPS), sonst deutsches Recht (Abs. 3, Sitz der EPO).",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:7"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:8",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 8 EPatVO (Lizenzbereitschaft)?",
+  "back": "Lizenzbereitschaft\n\nDer Inhaber eines Europäischen Patents mit einheitlicher Wirkung kann dem EPA eine Erklärung vorlegen, dass der Patentinhaber bereit ist, jedermann die Benutzung der Erfindung als Lizenznehmer gegen angemessene Vergütung zu gestatten.\n\nEntspricht: Art. 32 EPGÜ\n\nHinweis: Lizenzbereitschaftserklärung gegenüber dem EPA; Vertragslizenz kraft Gesetzes (Abs. 2). Folge: 15 % Ermäßigung der Jahresgebühren (R. 12 DOEPS, Art. 3 GebOEPS); die angemessene Vergütung bestimmt das EPG (Art. 32 Abs. 1 lit. h EPGÜ).",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:8"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:9",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 9 EPatVO (Verwaltungsaufgaben im Rahmen der Europäischen Patentorganisation)?",
+  "back": "Verwaltungsaufgaben im Rahmen der Europäischen Patentorganisation\n\nDie teilnehmenden Mitgliedstaaten übertragen dem EPA im Sinne von Artikel 143 EPÜ die folgenden Aufgaben, die das EPA gemäß seinen internen Regeln ausführt: a) die Verwaltung von Anträgen von Inhabern Europäischer Patente auf einheitliche Wirkung; b) die Eingliederung des Registers für den einheitlichen Patentschutz in das Europäische Patentregister und die Verwaltung des Registers für den einheitlichen Patentschutz; c) die Entgegennahme und Eintragung von Erklärungen über die Lizenzbereitschaft gemäß Artikel 8, deren Rücknahme sowie die Lizenzzusagen des Inhabers des Europäischen Patents mit  …\n\nEntspricht: Art. 32 EPGÜ, Art. 66 EPGÜ\n\nHinweis: Aufgabenkatalog des EPA nach Art. 143 EPÜ: Anträge auf einheitliche Wirkung (lit. a, g), Register (lit. b), Lizenzbereitschaft (lit. c), Übersetzungen (lit. d), Jahresgebühren (lit. e, f), Kompensation (lit. f). Abs. 3: Klagen gegen EPA-Entscheidungen zum EPG (Art. 32 Abs. 1 lit. i EPGÜ).",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:9"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:11",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 11 EPatVO (Jahresgebühren)?",
+  "back": "Jahresgebühren\n\nDie Jahresgebühren für Europäische Patente mit einheitlicher Wirkung und die zusätzlichen Gebühren für die verspätete Zahlung der Jahresgebühren für diese Patente sind vom Patentinhaber an die Europäische Patentorganisation zu entrichten. Diese Jahresgebühren sind in den Folgejahren des Jahres fällig, in dem der Hinweis auf die Erteilung des Europäischen Patents mit einheitlicher Wirkung im Europäischen Patentblatt veröffentlicht wird.\n\nHinweis: Eine einzige Jahresgebühr an das EPA, fällig ab dem Folgejahr des Erteilungshinweises; Zahlung ohne Vertreterzwang. Durchführung in R. 13 DOEPS.",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:11"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:12",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 12 EPatVO (Höhe der Jahresgebühren)?",
+  "back": "Höhe der Jahresgebühren\n\nDie Jahresgebühren für Europäische Patente mit einheitlicher Wirkung a) sind über die gesamte Laufzeit des Patents hinweg progressiv gestaltet, b) sind ausreichend, um sämtliche Kosten für die Erteilung und Verwaltung des einheitlichen Patentschutzes abzudecken, und c) sind ausreichend, damit sie zusammen mit den an die Europäische Patentorganisation in der Antragsphase zu entrichtenden Gebühren einen ausgeglichenen Haushalt der Organisation sicherstellen.\n\nHinweis: Grundsätze der Gebührenhöhe (progressiv, kostendeckend, KMU-freundlich); tatsächlich festgesetzt als Summe der vier validierungsstärksten Staaten von 2015 („True Top 4“) in Art. 2 GebOEPS.",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:12"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:13",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 13 EPatVO (Verteilung)?",
+  "back": "Verteilung\n\nDas EPA behält 50 % der in Artikel 11 genannten Jahresgebühren ein, die für Europäische Patente mit einheitlicher Wirkung entrichtet werden. Der Restbetrag wird entsprechend der nach Maßgabe des Artikels 9 Absatz 2 festgelegten Verteilung der Anteile der Jahresgebühren auf die teilnehmenden Mitgliedstaaten aufgeteilt.\n\nHinweis: Das EPA behält 50 % der Jahresgebühren, der Rest wird nach einem Schlüssel des Engeren Ausschusses an die teilnehmenden Mitgliedstaaten verteilt.",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:13"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatvo:18",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 18 EPatVO (Inkrafttreten und Anwendung)?",
+  "back": "Inkrafttreten und Anwendung\n\nDiese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.\n\nEntspricht: Art. 89 EPGÜ\n\nHinweis: In Kraft seit 20.1.2013, anwendbar seit 1.6.2023 (Inkrafttreten des EPGÜ). Abs. 2: einheitliche Wirkung nur für Staaten, in denen das EPGÜ bei Eintragung in Kraft ist – Grundlage der „Generationen“ von Einheitspatenten (17 Staaten ab 1.6.2023, 18 mit Rumänien ab 1.9.2024).",
+  "tags": [
+   "EPG",
+   "EPatVO"
+  ],
+  "node": "eunorm:epatvo:18"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatuevo:1",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 1 EPatÜVO (Gegenstand)?",
+  "back": "Gegenstand\n\nDiese Verordnung setzt die mit Beschluss Nr. 2011/167/EU genehmigte verstärkte Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes im Hinblick auf die anzuwendenden Übersetzungsregelungen um.",
+  "tags": [
+   "EPG",
+   "EPatÜVO"
+  ],
+  "node": "eunorm:epatuevo:1"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatuevo:3",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 3 EPatÜVO (Übersetzungsregelungen für das Europäische Patent mit einheitlicher Wirkung)?",
+  "back": "Übersetzungsregelungen für das Europäische Patent mit einheitlicher Wirkung\n\nUnbeschadet der Artikel 4 und Artikel 6 dieser Verordnung sind keine weiteren Übersetzungen erforderlich, wenn die Patentschrift eines Europäischen Patents, das einheitliche Wirkung genießt, gemäß Artikel 14 Absatz 6 EPÜ veröffentlicht wurde.\n\nHinweis: Grundsatz: Nach Veröffentlichung der Patentschrift in der EPA-Verfahrenssprache (mit Ansprüchen in den beiden anderen Amtssprachen, Art. 14 Abs. 6 EPÜ) sind keine weiteren Übersetzungen erforderlich – sobald die Übergangszeit des Art. 6 abgelaufen ist.",
+  "tags": [
+   "EPG",
+   "EPatÜVO"
+  ],
+  "node": "eunorm:epatuevo:3"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatuevo:4",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 4 EPatÜVO (Übersetzung im Falle eines Rechtsstreits)?",
+  "back": "Übersetzung im Falle eines Rechtsstreits\n\nIm Falle eines Rechtsstreits bezüglich einer mutmaßlichen Verletzung eines Europäischen Patents mit einheitlicher Wirkung hat der Patentinhaber auf Antrag und nach Wahl eines mutmaßlichen Patentrechtsverletzers eine vollständige Übersetzung des Europäischen Patents mit einheitlicher Wirkung in eine Amtssprache entweder des teilnehmenden Mitgliedstaats vorzulegen, in dem die mutmaßliche Patentrechtsverletzung stattgefunden hat oder des Mitgliedstaats, in dem der mutmaßliche Patentrechtsverletzer ansässig ist.\n\nEntspricht: Art. 68 EPGÜ\n\nHinweis: Übersetzung im Streitfall auf Kosten des Inhabers: auf Verlangen des mutmaßlichen Verletzers in eine Amtssprache des Verletzungs- oder Sitzstaats (Abs. 1), auf Anforderung des Gerichts in die Verfahrenssprache (Abs. 2). Abs. 4: gutgläubige KMU und natürliche Personen vor Erhalt der Übersetzung – zu berücksichtigen beim Schadensersatz (Art. 68 EPGÜ).",
+  "tags": [
+   "EPG",
+   "EPatÜVO"
+  ],
+  "node": "eunorm:epatuevo:4"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatuevo:5",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 5 EPatÜVO (Verwaltung des Kompensationssystems)?",
+  "back": "Verwaltung des Kompensationssystems\n\nIn Anbetracht dessen, dass Europäische Patentanmeldungen gemäß Artikel 14 Absatz 2 EPÜ in einer beliebigen Sprache eingereicht werden können, übertragen die teilnehmenden Mitgliedstaaten gemäß Artikel 9 der Verordnung (EU) Nr. 1257/2012 und im Sinne des Artikels 143 EPÜ dem EPA die Aufgabe, ein Kompensationssystem zur Erstattung aller Übersetzungskosten zu verwalten, durch das den Patentanmeldern, die beim EPA ein Patent in einer Amtssprache der Union einreichen, die keine Amtssprache des EPA ist, diese Kosten bis zu einem Höchstbetrag erstattet werden.\n\nHinweis: Kompensation der Übersetzungskosten in der Anmeldephase für KMU, natürliche Personen, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen und öffentliche Forschungseinrichtungen mit Sitz in der EU, die in einer anderen EU-Amtssprache als Deutsch, Englisch oder Französisch angemeldet haben; Pauschale 500 EUR (R. 8 bis 11 DOEPS, Art. 4 GebOEPS).",
+  "tags": [
+   "EPG",
+   "EPatÜVO"
+  ],
+  "node": "eunorm:epatuevo:5"
+ },
+ {
+  "id": "card:eunorm:eunorm:epatuevo:6",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 6 EPatÜVO (Übergangsmaßnahmen)?",
+  "back": "Übergangsmaßnahmen\n\nWährend eines Übergangszeitraums, der an dem Tag des Geltungsbeginns dieser Verordnung beginnt, ist gemeinsam mit dem Antrag auf einheitliche Wirkung gemäß Artikel 9 der Verordnung (EU) Nr. 1257/2012 Folgendes beizufügen: a) sofern die Verfahrenssprache Französisch oder Deutsch ist, eine vollständige Übersetzung der Patentschrift des Europäischen Patents ins Englische oder b) sofern die Verfahrenssprache Englisch ist, eine vollständige Übersetzung der Patentschrift des Europäischen Patents in eine andere Amtssprache der Union.\n\nHinweis: Übergangszeit von sechs Jahren ab 1.6.2023, verlängerbar bis höchstens zwölf Jahre: Mit dem Antrag auf einheitliche Wirkung ist eine vollständige Übersetzung der Patentschrift einzureichen – ins Englische bei Verfahrenssprache Deutsch oder Französisch, in eine andere EU-Amtssprache bei Verfahrenssprache Englisch (R. 6 Abs. 2 lit. d DOEPS). Nur Information, keine Rechtswirkung (Abs. 2).",
+  "tags": [
+   "EPG",
+   "EPatÜVO"
+  ],
+  "node": "eunorm:epatuevo:6"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:1",
+  "typ": "eunorm",
+  "front": "Was regelt R. 1 DOEPS (Gegenstand)?",
+  "back": "Gegenstand\n\nHiermit übertragen die teilnehmenden Mitgliedstaaten dem Europäischen Patentamt die in Artikel 9 Absatz 1 der Verordnung (EU) Nr. 1257/2012 genannten Aufgaben. Bei der Durchführung dieser Aufgaben wendet das Europäische Patentamt diese Durchführungsordnung an und ist im Falle von Klagen nach Artikel 32 Absatz 1 i) des Übereinkommens über ein Einheitliches Patentgericht 2 an die Entscheidungen des Einheitlichen Patentgerichts gebunden.\n\nBezug: Art. 9 EPatVO\n\nHinweis: Gegenstand: Verfahren vor dem EPA nach beiden Verordnungen. Abs. 1: Das EPA ist bei Klagen gegen die Abteilung für den einheitlichen Patentschutz an die Entscheidungen des EPG gebunden.",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:1"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:3",
+  "typ": "eunorm",
+  "front": "Was regelt R. 3 DOEPS (Aufgaben und Befugnisse des Präsidenten des Europäischen Patentamts)?",
+  "back": "Aufgaben und Befugnisse des Präsidenten des Europäischen Patentamts\n\nDie Leitung der in Regel 4 genannten Abteilung für den einheitlichen Patentschutz obliegt dem Präsidenten des Europäischen Patentamts, der dem Engeren Ausschuss des Verwaltungsrats gegenüber für die Tätigkeit der Abteilung verantwortlich ist. Zu diesem Zweck ist Artikel 10 Absätze 2 EPÜ und Artikel 10 Absätze 3 EPÜ entsprechend anzuwenden.\n\nHinweis: Grundlage der UP-Richtlinien: Der Präsident des EPA erlässt nach R. 3 DOEPS i.V.m. Art. 10 Abs. 2 lit. a EPÜ die Verwaltungsvorschriften für die Abteilung für den einheitlichen Patentschutz (UP-Richtlinien, Ausgabe April 2026).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:3"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:4",
+  "typ": "eunorm",
+  "front": "Was regelt R. 4 DOEPS (Abteilung für den einheitlichen Patentschutz)?",
+  "back": "Abteilung für den einheitlichen Patentschutz\n\nIm Europäischen Patentamt wird hiermit eine Abteilung für den einheitlichen Patentschutz als besonderes Organ im Sinne von Artikel 143 Absatz 2 EPÜ gebildet.\n\nBezug: Art. 9 EPatVO\n\nHinweis: Die Abteilung für den einheitlichen Patentschutz ist eine eigene Abteilung des EPA; jede Entscheidung trifft ein rechtskundiges Mitglied (Abs. 3).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:4"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:5",
+  "typ": "eunorm",
+  "front": "Was regelt R. 5 DOEPS (Allgemeines)?",
+  "back": "Allgemeines\n\nAuf Antrag des Inhabers eines europäischen Patents wird die einheitliche Wirkung vom Europäischen Patentamt in das Register für den einheitlichen Patentschutz eingetragen.\n\nBezug: Art. 3 EPatVO, Art. 9 EPatVO\n\nHinweis: Anspruchsberechtigung: Antrag durch den Inhaber (Abs. 1); Erteilung mit denselben Ansprüchen für alle 25 teilnehmenden Mitgliedstaaten (Abs. 2 lit. a) – deshalb keine einheitliche Wirkung bei zurückgenommener Benennung oder bei Anmeldungen vor dem 1.3.2007 (Beitritt Maltas). Abs. 2 lit. b (seit 15.11.2024): keine einheitliche Wirkung für sanktionierte Inhaber (14. EU-Sanktionspaket).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:5"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:6",
+  "typ": "eunorm",
+  "front": "Was regelt R. 6 DOEPS (Erfordernisse des Antrags auf einheitliche Wirkung)?",
+  "back": "Erfordernisse des Antrags auf einheitliche Wirkung\n\nDer Antrag auf einheitliche Wirkung ist spätestens einen Monat nach Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt beim Europäischen Patentamt zu stellen.\n\nBezug: Art. 6 EPatÜVO, Art. 9 EPatVO\n\nHinweis: Die Klausurnorm des Einheitspatents: Frist ein Monat ab Bekanntmachung des Erteilungshinweises, nicht verlängerbar, aber wiedereinsetzbar (R. 22 Abs. 2: zwei Monate ab Fristablauf). Schriftlich, in der Verfahrenssprache, Formblatt 7000; Inhalt nach Abs. 2 einschließlich der Übersetzung nach Art. 6 EPatÜVO. Ein früher Antrag nach der Erteilungsentscheidung ist möglich (Formblatt 2006A).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:6"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:7",
+  "typ": "eunorm",
+  "front": "Was regelt R. 7 DOEPS (Prüfung des Antrags durch das Europäische Patentamt)?",
+  "back": "Prüfung des Antrags durch das Europäische Patentamt\n\nSind die Erfordernisse der Regel 5 Absatz 2 erfüllt und entspricht der Antrag auf einheitliche Wirkung Regel 6, so trägt das Europäische Patentamt die einheitliche Wirkung in das Register für den einheitlichen Patentschutz ein und teilt dem Antragsteller den Tag dieser Eintragung mit.\n\nBezug: Art. 4 EPatVO, Art. 9 EPatVO\n\nHinweis: Prüfung: Eintragung und Mitteilung des Eintragungstags (Abs. 1, Formblatt 7030); beabsichtigte Zurückweisung mit rechtlichem Gehör (Abs. 2, Art. 113 Abs. 1 EPÜ); Mängel nach R. 6 Abs. 2 binnen einer nicht verlängerbaren Monatsfrist behebbar (Abs. 3), für die es keine Wiedereinsetzung gibt (R. 22 Abs. 6; EPG-BerG Bodycap/EPA).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:7"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:8",
+  "typ": "eunorm",
+  "front": "Was regelt R. 8 DOEPS (Definition und Anspruchsberechtigte)?",
+  "back": "Definition und Anspruchsberechtigte\n\nInhaber europäischer Patente mit einheitlicher Wirkung, für die die europäische Patentanmeldung in einer anderen Amtssprache der Europäischen Union als Deutsch, Englisch oder Französisch eingereicht wurde, haben Anspruch auf eine Kompensation von Übersetzungskosten, wenn sie ihren Wohnsitz oder Sitz in einem Mitgliedstaat der Europäischen Union haben und eine Einheit oder eine natürliche Person im Sinne des Absatzes 2 sind.\n\nBezug: Art. 5 EPatÜVO\n\nHinweis: Kompensation: Anmeldung in einer anderen EU-Amtssprache als Deutsch, Englisch, Französisch (Abs. 1); Berechtigte: KMU (Empfehlung 2003/361/EG), natürliche Personen, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen, öffentliche Forschungseinrichtungen mit Sitz in der EU (Abs. 2); bei mehreren Inhabern oder Rechtsübergang müssen alle die Kriterien erfüllen (Abs. 3, 4); auch Euro-PCT-Anmeldungen (Abs. 5).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:8"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:9",
+  "typ": "eunorm",
+  "front": "Was regelt R. 9 DOEPS (Antrag auf Kompensation)?",
+  "back": "Antrag auf Kompensation\n\nDer Inhaber eines europäischen Patents, der eine Kompensation nach Regel 8 in Anspruch nehmen möchte, muss zusammen mit dem Antrag auf einheitliche Wirkung gemäß Regel 6 einen entsprechenden Antrag stellen.\n\nBezug: Art. 5 EPatÜVO\n\nHinweis: Der Antrag auf Kompensation ist zusammen mit dem Antrag auf einheitliche Wirkung zu stellen (Kästchen im Formblatt 7000) und enthält eine Erklärung über den Status des Inhabers.",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:9"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:10",
+  "typ": "eunorm",
+  "front": "Was regelt R. 10 DOEPS (Prüfung des Antrags und Gewährung der Kompensation)?",
+  "back": "Prüfung des Antrags und Gewährung der Kompensation\n\nNachdem das Europäische Patentamt die einheitliche Wirkung des europäischen Patents in das Register für den einheitlichen Patentschutz eingetragen und den Antrag auf Kompensation geprüft hat, teilt es dem Patentinhaber mit, ob dem Antrag stattgegeben oder dieser zurückgewiesen wurde.\n\nBezug: Art. 5 EPatÜVO\n\nHinweis: Gewährung erst nach Eintragung der einheitlichen Wirkung (Abs. 1), danach unwiderruflich (Abs. 2). Bei Zweifeln Beweismittel (Abs. 3); bei unrichtiger Erklärung Rückzahlung plus Verwaltungsgebühr von 50 % (Abs. 4, Art. 4 Abs. 2 GebOEPS), sonst Erlöschen (R. 14).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:10"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:11",
+  "typ": "eunorm",
+  "front": "Was regelt R. 11 DOEPS (Höhe der Kompensation)?",
+  "back": "Höhe der Kompensation\n\nDie Erstattung von Übersetzungskosten erfolgt bis zu einem Höchstbetrag und wird in Form eines Pauschalbetrags entsprechend der Gebührenordnung zum einheitlichen Patentschutz gezahlt. Der Höchstbetrag wird festgelegt auf der Grundlage der durchschnittlichen Länge eines europäischen Patents und der durchschnittlichen Übersetzungskosten pro Seite, wobei die durchschnittliche nach Regel 6 EPÜ gewährte Ermäßigung Berücksichtigung findet.\n\nBezug: Art. 5 EPatÜVO\n\nHinweis: Pauschalbetrag nach Art. 4 Abs. 1 GebOEPS: 500 EUR; ausgezahlt wie eine Rückerstattung.",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:11"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:12",
+  "typ": "eunorm",
+  "front": "Was regelt R. 12 DOEPS (Abgabe einer Erklärung durch den Patentinhaber)?",
+  "back": "Abgabe einer Erklärung durch den Patentinhaber\n\nDer Inhaber eines europäischen Patents mit einheitlicher Wirkung kann beim Europäischen Patentamt eine Erklärung abgeben, dass er bereit ist, jedermann die Benutzung der Erfindung als Lizenznehmer gegen angemessene Vergütung zu gestatten. In diesem Fall werden die nach Eingang der Erklärung für das europäische Patent mit einheitlicher Wirkung fällig werdenden Jahresgebühren ermäßigt; die Höhe der Ermäßigung wird in der Gebührenordnung zum einheitlichen Patentschutz festgelegt. Die Erklärung wird in das Register für den einheitlichen Patentschutz eingetragen.\n\nBezug: Art. 8 EPatVO\n\nHinweis: Lizenzbereitschaft: Erklärung beim EPA (Formblatt 7001), gebührenfrei eingetragen; nicht möglich bei eingetragener ausschließlicher Lizenz (Abs. 3); danach keine ausschließliche Lizenz mehr eintragbar (Abs. 4). Rücknahme nur gegen Rückzahlung der gesamten Ermäßigung (Abs. 2).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:12"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:13",
+  "typ": "eunorm",
+  "front": "Was regelt R. 13 DOEPS (Entrichtung von Jahresgebühren für das europäische Patent mit einheitlicher Wirkung)?",
+  "back": "Entrichtung von Jahresgebühren für das europäische Patent mit einheitlicher Wirkung\n\nDie Jahresgebühren für europäische Patente mit einheitlicher Wirkung und die Zuschlagsgebühren für die verspätete Zahlung der Jahresgebühren für diese Patente sind an das Europäische Patentamt zu entrichten. Diese Jahresgebühren sind in den Folgejahren des Jahres fällig, in dem der Hinweis auf die Erteilung des europäischen Patents mit einheitlicher Wirkung im Europäischen Patentblatt veröffentlicht wird.\n\nBezug: Art. 11 EPatVO, Art. 12 EPatVO\n\nHinweis: Jahresgebühren an das EPA, fällig am letzten Tag des Monats, der dem Anmeldemonat entspricht (Abs. 2, wie R. 51 Abs. 1 EPÜ); frühestens drei Monate vorher zahlbar; Nachfrist sechs Monate mit Zuschlag von 50 % (Abs. 3, Art. 2 Abs. 1 Nr. 2 GebOEPS), berechnet „von Ultimo zu Ultimo“. Abs. 4 und 5: dreimonatige Sicherheitsfrist ohne Zuschlag nach Zustellung der Eintragungsmitteilung; Gebühren zwischen Erteilung und Mitteilung werden erst mit der Mitteilung fällig.",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:13"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:14",
+  "typ": "eunorm",
+  "front": "Was regelt R. 14 DOEPS (Erlöschen)?",
+  "back": "Erlöschen\n\nDas europäische Patent mit einheitlicher Wirkung erlischt: a) 20 Jahre nach dem Anmeldetag der europäischen Patentanmeldung; b) wenn eine Jahresgebühr und gegebenenfalls eine Zuschlagsgebühr nicht rechtzeitig entrichtet werden.\n\nBezug: Art. 3 EPatVO, Art. 9 EPatVO\n\nHinweis: Erlöschen bei Nichtzahlung rückwirkend auf den Fälligkeitstag (Abs. 2); die Feststellung des Rechtsverlusts (R. 112 EPÜ) kann durch Entscheidung überprüft und diese vor dem EPG angefochten werden. Wiedereinsetzung nach R. 22 möglich (ein Jahr ab Ende der Nachfrist).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:14"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:15",
+  "typ": "eunorm",
+  "front": "Was regelt R. 15 DOEPS (Einrichtung des Registers für den einheitlichen Patentschutz)?",
+  "back": "Einrichtung des Registers für den einheitlichen Patentschutz\n\nDas in Artikel 9 Absatz 1 b) der Verordnung (EU) Nr. 1257/2012 vorgesehene Register für den einheitlichen Patentschutz wird hiermit als gesonderter Teil des vom Europäischen Patentamt nach Artikel 127 EPÜ geführten Europäischen Patentregisters eingerichtet.\n\nBezug: Art. 2 EPatVO, Art. 9 EPatVO\n\nHinweis: Das Register für den einheitlichen Patentschutz ist gesonderter, aber integrierter Teil des Europäischen Patentregisters (Art. 127 EPÜ); Einheitspatente tragen dort den Code „C0“.",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:15"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:16",
+  "typ": "eunorm",
+  "front": "Was regelt R. 16 DOEPS (Eintragungen in das Register für den einheitlichen Patentschutz)?",
+  "back": "Eintragungen in das Register für den einheitlichen Patentschutz\n\nIn das Register für den einheitlichen Patentschutz werden folgende Angaben eingetragen: a) Tag der Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents; b) Tag der Stellung des Antrags auf einheitliche Wirkung für das europäische Patent; c) Angaben zur Person des Vertreters des Inhabers des europäischen Patents nach Maßgabe der Regel 41 Absatz 2 d) EPÜ; im Fall mehrerer Vertreter nur die Angaben zur Person des zuerst genannten Vertreters, gefolgt von den Worten \"und Partner\" sowie im Fall eines Zusammenschlusses von Vertretern nach Regel 152 Absatz 11 EPÜ nur Name und Anschr …\n\nBezug: Art. 7 EPatVO, Art. 9 EPatVO\n\nHinweis: Registerinhalt: unter anderem Eintragungstag der einheitlichen Wirkung, territorialer Geltungsbereich (lit. g), Rechtsübergänge und Lizenzen (lit. j), Lizenzzusagen gegenüber Normungsgremien (lit. k), Unterbrechung (lit. u) und die freiwillige Angabe der Niederlassung am Anmeldetag für Art. 7 EPatVO (lit. w).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:16"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:17",
+  "typ": "eunorm",
+  "front": "Was regelt R. 17 DOEPS (Europäisches Patentblatt und Amtsblatt des Europäischen Patentamts)?",
+  "back": "Europäisches Patentblatt und Amtsblatt des Europäischen Patentamts\n\nDas in Artikel 129 a) EPÜ genannte Europäische Patentblatt enthält als gesonderten Teil die Angaben, deren Veröffentlichung diese Durchführungsordnung, der Vorsitzende des Engeren Ausschusses des Verwaltungsrats oder der Präsident des Europäischen Patentamts vorschreibt.\n\nBezug: Art. 9 EPatVO\n\nHinweis: Eigener Teil des Europäischen Patentblatts für Einheitspatente (Abs. 1); Beschlüsse und Mitteilungen zum Einheitspatent im Amtsblatt des EPA (Abs. 2).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:17"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:18",
+  "typ": "eunorm",
+  "front": "Was regelt R. 18 DOEPS (Veröffentlichung von Übersetzungen)?",
+  "back": "Veröffentlichung von Übersetzungen\n\nDer Präsident des Europäischen Patentamts bestimmt, in welcher Form die in Regel 6 Absatz 2 d) genannten Übersetzungen veröffentlicht werden und welche Angaben sie enthalten.\n\nBezug: Art. 6 EPatÜVO, Art. 9 EPatVO\n\nHinweis: Das EPA veröffentlicht die nach Art. 6 EPatÜVO eingereichten Übersetzungen – ohne inhaltliche Prüfung, weil sie keine Rechtswirkung haben.",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:18"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:20",
+  "typ": "eunorm",
+  "front": "Was regelt R. 20 DOEPS (Allgemeine Vorschriften für das Verfahren)?",
+  "back": "Allgemeine Vorschriften für das Verfahren\n\nDie folgenden Vorschriften des EPÜ in der jeweils geltenden Fassung sind entsprechend anzuwenden: Artikel 14 Absätze 1 EPÜ, Artikel 14 Absätze 3 EPÜ und Artikel 14 Absätze 7 EPÜ; Artikel 113 Absatz 1 EPÜ; Artikel 114 EPÜ, Artikel 117 EPÜ, Artikel 119 EPÜ, Artikel 120 EPÜ und Artikel 125 EPÜ; Artikel 128 Absatz 4 EPÜ; Artikel 131 EPÜ und Artikel 133 EPÜ; Artikel 134 Absätze 1 EPÜ, Artikel 134 Absätze 5 EPÜ und Artikel 134 Absätze 8 EPÜ.\n\nBezug: Art. 9 EPatVO\n\nHinweis: Generalverweisung auf das EPÜ: Vertretung (Art. 133, 134 EPÜ), rechtliches Gehör (Art. 113 EPÜ), Zustellung (R. 125 ff. EPÜ), Fristenberechnung (R. 131, 134 EPÜ), Unterbrechung (R. 142 EPÜ), Rechtsübergänge und Lizenzen (R. 22 bis 24 EPÜ). Abs. 4: Fristen der Abteilung zwischen einem und vier Monaten, nicht verlängerbar; keine Weiterbehandlung (R. 135 EPÜ).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:20"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:21",
+  "typ": "eunorm",
+  "front": "Was regelt R. 21 DOEPS (Mündliche Verhandlung)?",
+  "back": "Mündliche Verhandlung\n\nEine mündliche Verhandlung findet entweder auf Antrag eines Beteiligten oder, sofern das Europäische Patentamt dies für sachdienlich erachtet, von Amts wegen statt. Das Europäische Patentamt kann jedoch einen Antrag auf erneute mündliche Verhandlung ablehnen, wenn die Parteien und der dem Verfahren zugrunde liegende Sachverhalt unverändert geblieben sind.\n\nHinweis: Mündliche Verhandlung auf Antrag oder von Amts wegen (Abs. 1), im Verfahren über den Antrag auf einheitliche Wirkung nur auf Antrag des Inhabers und bei Sachdienlichkeit (Abs. 2); nicht öffentlich (Abs. 3).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:21"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:22",
+  "typ": "eunorm",
+  "front": "Was regelt R. 22 DOEPS (Wiedereinsetzung in den vorigen Stand)?",
+  "back": "Wiedereinsetzung in den vorigen Stand\n\nDer Inhaber eines europäischen Patents oder eines europäischen Patents mit einheitlicher Wirkung, der trotz Beachtung aller nach den gegebenen Umständen gebotenen Sorgfalt verhindert worden ist, gegenüber dem Europäischen Patentamt eine Frist einzuhalten, wird auf Antrag wieder in den vorigen Stand eingesetzt, wenn die Versäumung dieser Frist zur unmittelbaren Folge hat, dass das europäische Patent mit einheitlicher Wirkung gemäß Regel 14 Absatz 1 b) erlischt oder der Verlust eines sonstigen Rechts oder eines Rechtsmittels eintritt.\n\nBezug: Art. 9 EPatVO\n\nHinweis: Wiedereinsetzung (Maßstab: alle gebotene Sorgfalt, Rechtsprechung zu Art. 122 EPÜ): für die Frist des R. 6 Abs. 1 binnen zwei Monaten ab Fristablauf ohne Rücksicht auf den Wegfall des Hindernisses (Abs. 2), sonst zwei Monate ab Wegfall, höchstens ein Jahr; Gebühr nach Art. 2 Abs. 2 GebOEPS. Ausgeschlossen für die Wiedereinsetzungsfrist selbst und die Mängelfrist des R. 7 Abs. 3 (Abs. 6).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:22"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:23",
+  "typ": "eunorm",
+  "front": "Was regelt R. 23 DOEPS (Form der Entscheidungen)?",
+  "back": "Form der Entscheidungen\n\nEntscheidungen des Europäischen Patentamts, gegen die gemäß Artikel 32 Absatz 1 i) des Übereinkommens über ein Einheitliches Patentgericht Klage vor dem Einheitlichen Patentgericht erhoben werden kann, sind zu begründen und mit einem Hinweis darüber zu versehen, dass gegen die Entscheidung die Klage vor dem Einheitlichen Patentgericht statthaft ist. Die Beteiligten können aus der Unterlassung des Hinweises keine Ansprüche herleiten.\n\nBezug: Art. 32 EPGÜ, Art. 66 EPGÜ, Art. 9 EPatVO, R. 88 VerfO, R. 97 VerfO\n\nHinweis: Rechtsbehelf: Klage vor dem EPG gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz (Art. 32 Abs. 1 lit. i, Art. 66 EPGÜ) – zwei Monate nach R. 88 VerfO, bei Zurückweisung des Antrags auf einheitliche Wirkung drei Wochen nach R. 97 VerfO (beschleunigtes Verfahren vor dem Eilrichter).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:23"
+ },
+ {
+  "id": "card:eunorm:eunorm:doeps:24",
+  "typ": "eunorm",
+  "front": "Was regelt R. 24 DOEPS (Abhilfe)?",
+  "back": "Abhilfe\n\nWird das Europäische Patentamt vom Einheitlichen Patentgericht darüber informiert, dass eine Klage auf Aufhebung oder Änderung einer Entscheidung des Europäischen Patentamts zulässig ist, und erachtet es diese für begründet, so hat es innerhalb von zwei Monaten nach Eingang der Klage a) der Klage im Sinne des Begehrens des Klägers abzuhelfen und b) dem Einheitlichen Patentgericht mitzuteilen, dass der Klage abgeholfen wurde.\n\nBezug: Art. 66 EPGÜ, R. 91 VerfO\n\nHinweis: Abhilfe durch das EPA binnen zwei Monaten, wenn das EPG die Klage für zulässig hält (R. 91 VerfO) – nicht im Verfahren nach R. 97 VerfO, das als lex specialis keine Abhilfe kennt (R. 85 Abs. 2 VerfO; EPG-BerG Bodycap/EPA).",
+  "tags": [
+   "EPG",
+   "DOEPS"
+  ],
+  "node": "eunorm:doeps:24"
+ },
+ {
+  "id": "card:eunorm:eunorm:gebeps:1",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 1 GebOEPS (Allgemeines)?",
+  "back": "Allgemeines\n\nDie an das Europäische Patentamt zu entrichtenden Gebühren, die Kompensation von Übersetzungskosten, die gemäß der Durchführungsordnung zum einheitlichen Patentschutz vom Europäischen Patentamt an die Inhaber europäischer Patente mit einheitlicher Wirkung zu zahlen ist, sowie die Gebühren und Auslagen, die der Präsident des Europäischen Patentamts aufgrund des Artikels 5 festsetzt, werden nach den Vorschriften der Artikel 2 bis Artikel 6 erhoben bzw. gezahlt.\n\nHinweis: Die GebOEPS regelt nur die Gebühren des Einheitspatentverfahrens; für die Zahlung gilt im Übrigen die Gebührenordnung zum EPÜ (Art. 6).",
+  "tags": [
+   "EPG",
+   "GebOEPS"
+  ],
+  "node": "eunorm:gebeps:1"
+ },
+ {
+  "id": "card:eunorm:eunorm:gebeps:2",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 2 GebOEPS (In der Durchführungsordnung zum einheitlichen Patentschutz vorgesehene Gebühren)?",
+  "back": "In der Durchführungsordnung zum einheitlichen Patentschutz vorgesehene Gebühren\n\nDie an das Europäische Patentamt zu entrichtenden Gebühren werden wie folgt festgesetzt: 1. Jahresgebühren für das europäische Patent mit einheitlicher Wirkung (Regel 13 Absatz 1 der Durchführungsordnung zum einheitlichen Patentschutz), jeweils gerechnet vom Anmeldetag an EUR - für das 2. Jahr 35 - für das 3. Jahr 105 - für das 4. Jahr 145 - für das 5. Jahr 315 - für das 6. Jahr 475 - für das 7. Jahr 630 - für das 8. Jahr 815 - für das 9. Jahr 990 - für das 10. Jahr 1 175 - für das 11. Jahr 1 460 - für das 12. Jahr 1 775 - für das 13. Jahr 2 105 - für das 14. Jahr 2 455 - für das 15. Jahr 2 83 …\n\nBezug: Art. 11 EPatVO, Art. 12 EPatVO, R. 13 DOEPS, R. 22 DOEPS\n\nHinweis: Die Gebührentabelle: Jahresgebühren vom 2. Jahr (35 EUR) bis zum 20. Jahr (4 855 EUR), zusammen 35 555 EUR über die volle Laufzeit („True Top 4“: Summe der Jahresgebühren der vier 2015 validierungsstärksten Staaten); Zuschlagsgebühr 50 % (Abs. 1 Nr. 2); Wiedereinsetzungsgebühr (Abs. 2). Maßgeblich ist der am Zahlungstag geltende Betrag.",
+  "tags": [
+   "EPG",
+   "GebOEPS"
+  ],
+  "node": "eunorm:gebeps:2"
+ },
+ {
+  "id": "card:eunorm:eunorm:gebeps:3",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 3 GebOEPS (Ermäßigung von Jahresgebühren)?",
+  "back": "Ermäßigung von Jahresgebühren\n\nDie in Regel 12 Absatz 1 der Durchführungsordnung zum einheitlichen Patentschutz festgelegte Ermäßigung der Jahresgebühren für das europäische Patent mit einheitlicher Wirkung beträgt 15 %.\n\nBezug: Art. 8 EPatVO, R. 12 DOEPS\n\nHinweis: Ermäßigung um 15 % bei Lizenzbereitschaftserklärung (R. 12 DOEPS); der Zuschlag bei verspäteter Zahlung wird aus der ermäßigten Gebühr berechnet.",
+  "tags": [
+   "EPG",
+   "GebOEPS"
+  ],
+  "node": "eunorm:gebeps:3"
+ },
+ {
+  "id": "card:eunorm:eunorm:gebeps:4",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 4 GebOEPS (Kompensation von Übersetzungskosten)?",
+  "back": "Kompensation von Übersetzungskosten\n\nDer in Regel 11 der Durchführungsordnung zum einheitlichen Patentschutz vorgesehene Pauschalbetrag beläuft sich auf 500 EUR.\n\nBezug: Art. 5 EPatÜVO, R. 10 DOEPS, R. 11 DOEPS\n\nHinweis: Kompensation von Übersetzungskosten: Pauschale 500 EUR (Abs. 1); bei unrichtiger Erklärung Rückzahlung zuzüglich Verwaltungsgebühr von 50 % (Abs. 2, R. 10 Abs. 4 DOEPS).",
+  "tags": [
+   "EPG",
+   "GebOEPS"
+  ],
+  "node": "eunorm:gebeps:4"
+ },
+ {
+  "id": "card:eunorm:eunorm:gebeps:5",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 5 GebOEPS (Vom Präsidenten des Europäischen Patentamts festgesetzte Gebühren, Auslagen und Verkaufspreise)?",
+  "back": "Vom Präsidenten des Europäischen Patentamts festgesetzte Gebühren, Auslagen und Verkaufspreise\n\nDie in der Durchführungsordnung zum einheitlichen Patentschutz vorgesehenen Verwaltungsgebühren und die Gebühren und Auslagen für andere als in dieser Gebührenordnung genannte Amtshandlungen des Europäischen Patentamts sind in der vom Präsidenten des Europäischen Patentamts gemäß Artikel 3 der Gebührenordnung zum EPÜ festgesetzten Höhe zu entrichten.\n\nBezug: R. 20 DOEPS\n\nHinweis: Vom Präsidenten festgesetzte Gebühren, etwa für die Eintragung von Rechtsübergängen und Lizenzen (entfällt bei Antrag über MyEPO).",
+  "tags": [
+   "EPG",
+   "GebOEPS"
+  ],
+  "node": "eunorm:gebeps:5"
+ },
+ {
+  "id": "card:eunorm:eunorm:gebeps:6",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 6 GebOEPS (Gemeinsame Verfahrensvorschriften)?",
+  "back": "Gemeinsame Verfahrensvorschriften\n\nDie folgenden Vorschriften der Gebührenordnung zum EPÜ in der jeweils geltenden Fassung sind entsprechend anzuwenden: Artikel 4 bis 8 GebO, Artikel 12 GebO und Artikel 13 GebO.\n\nBezug: R. 20 DOEPS\n\nHinweis: Verweisung auf die Gebührenordnung zum EPÜ: Zahlungsarten, Fälligkeit, laufendes Konto; Jahresgebühren kann jedermann ohne Vertreter wirksam zahlen.",
+  "tags": [
+   "EPG",
+   "GebOEPS"
+  ],
+  "node": "eunorm:gebeps:6"
+ },
+ {
+  "id": "card:eunorm:eunorm:gebeps:7",
+  "typ": "eunorm",
+  "front": "Was regelt Art. 7 GebOEPS (Überprüfung der Höhe der Jahresgebühren und Bericht über bestimmte Einheiten)?",
+  "back": "Überprüfung der Höhe der Jahresgebühren und Bericht über bestimmte Einheiten\n\nSpätestens fünf Jahre nach dem Tag des Geltungsbeginns der Verordnung (EU) Nr. 1257/2012 und danach alle fünf Jahre a) legt das Europäische Patentamt dem Engeren Ausschuss des Verwaltungs rats einen Bericht vor, in dem es die finanziellen Auswirkungen des europäi schen Patents mit einheitlicher Wirkung auf den Haushalt der Europäischen Patentorganisation und auf das Einkommen der teilnehmenden Mitgliedsstaaten aus den Jahres gebühren beurteilt, und unterbreitet, soweit erforderlich, einen geeigneten Vorschlag zur Anpassung der Höhe der Jahresgebühren; b) legt das Europäische Patentamt dem Enge …\n\nBezug: Art. 12 EPatVO, Art. 16 EPatVO\n\nHinweis: Überprüfung der Jahresgebührenhöhe durch den Engeren Ausschuss und Bericht über KMU und andere begünstigte Einheiten.",
+  "tags": [
+   "EPG",
+   "GebOEPS"
+  ],
+  "node": "eunorm:gebeps:7"
  }
 ]

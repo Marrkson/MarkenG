@@ -30,7 +30,9 @@ with sync_playwright() as pw:
     routes = ["#/", "#/kurse", "#/suche", "#/suche/begriffe", "#/suche/entscheidungen", "#/suche/richtlinien", "#/suche/q/verwechslung", "#/suche/q/einstweilige", "#/karte/concept:markenfaehigkeit", "#/karte/schema:schema_markenverletzung", "#/karte/norm:§14", "#/wdh", "#/profil", "#/didaktik", "#/ende/k04a",
               # Einheitliches Patentgericht
               "#/karte/eunorm:upca:33", "#/karte/eunorm:rop:262A", "#/karte/eunorm:rop:erwaegungsgruende", "#/karte/eunorm:durchsetzungsrl:9", "#/karte/case:upc_coa_nanostring_10x", "#/karte/concept:upc_einstweilige_massnahmen",
-              "#/karte/schema:upc_schema_verletzungsklage", "#/karte/distinction:d_upc_entsprechung_durchsetzungsrl", "#/epg", "#/epg/norm/eunorm:upca:62"] + [f"#/kurs/{k['id']}" for k in kurse]
+              "#/karte/schema:upc_schema_verletzungsklage", "#/karte/distinction:d_upc_entsprechung_durchsetzungsrl", "#/epg", "#/epg/norm/eunorm:upca:62",
+              "#/karte/eunorm:epatvo:3", "#/karte/eunorm:epatuevo:6", "#/karte/eunorm:doeps:6", "#/karte/eunorm:gebeps:2", "#/karte/concept:upc_antrag_einheitliche_wirkung",
+              "#/karte/schema:upc_schema_einheitliche_wirkung", "#/karte/distinction:d_upc_einheitspatent_buendelpatent", "#/karte/case:upc_coa_bodycap_epa_r97"] + [f"#/kurs/{k['id']}" for k in kurse]
     sample = [u for u in units if u["typ"] in ("intro", "schema")] + units[::7]
     routes += [f"#/lernen/{u['id']}" for u in sample]
     for r in routes:
@@ -130,11 +132,16 @@ with sync_playwright() as pw:
     check(pg.evaluate("!!document.querySelector('#sec-bezug .chip.eunorm')"), "Lernkarte VerfO: Bezug zum Übereinkommen fehlt")
     pg.goto(BASE + "#/karte/eunorm:durchsetzungsrl:9"); pg.wait_for_timeout(300)
     check(pg.evaluate("!!document.querySelector('#sec-umsetzung_epg .chip.eunorm')"), "Lernkarte DurchsetzungsRL: Umsetzung im EPGÜ fehlt")
+    pg.goto(BASE + "#/karte/eunorm:doeps:6"); pg.wait_for_timeout(300)
+    check(pg.evaluate("!!document.querySelector('#sec-bezug .chip.eunorm')"), "Lernkarte DOEPS: Bezug zur EPatVO fehlt")
+    pg.goto(BASE + "#/karte/concept:upc_antrag_einheitliche_wirkung"); pg.wait_for_timeout(300)
+    check(pg.evaluate("!!document.querySelector('#sec-quellen a[href*=\"guidelines-up\"]')"), "Lernkarte Begriff: Quelle UP-Richtlinien fehlt")
     pg.goto(BASE + "#/karte/case:upc_coa_nanostring_10x"); pg.wait_for_timeout(300)
     check("unifiedpatentcourt.org" in pg.inner_text(".lk-h"), "EPG-Entscheidung ohne Link auf unifiedpatentcourt.org")
     # Lernnavigator: EPGÜ- und VerfO-Ansichten ohne Fehler
     errs2 = []; pg3 = ctx.new_page(); pg3.on("pageerror", lambda e: errs2.append(str(e)))
-    for r in ["#/start", "#/richtlinie/upca", "#/richtlinie/rop", "#/eunorm/eunorm:rop:19", "#/eunorm/eunorm:upca:62", "#/case/case:upc_coa_belkin_philips_anbieten", "#/search/Einspruch", "#/cases"]:
+    for r in ["#/start", "#/richtlinie/upca", "#/richtlinie/rop", "#/eunorm/eunorm:rop:19", "#/eunorm/eunorm:upca:62", "#/case/case:upc_coa_belkin_philips_anbieten", "#/search/Einspruch", "#/cases",
+              "#/richtlinie/epatvo", "#/richtlinie/doeps", "#/richtlinie/gebeps", "#/eunorm/eunorm:doeps:13", "#/concept/concept:upc_up_jahresgebuehren", "#/sources"]:
         pg3.goto(BASE + "navigator/" + r); pg3.wait_for_timeout(250)
         check(pg3.evaluate("document.getElementById('main').innerText.length") > 200, f"Navigator {r}: leer")
     check(pg3.evaluate("document.querySelectorAll('#main .toc a').length") > 0 or True, "")

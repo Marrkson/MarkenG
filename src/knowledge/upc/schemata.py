@@ -4,6 +4,45 @@ from ..schemata import step
 
 SCHEMATA = [
     dict(
+        id="upc_schema_einheitliche_wirkung",
+        label="Antrag auf einheitliche Wirkung und Verwaltung des Einheitspatents (EPatVO, DOEPS)",
+        kategorie="Einheitspatent: Erteilung und Verwaltung",
+        beschreibung="Vom erteilten europäischen Patent zum Einheitspatent: Anspruchsberechtigung, Antrag binnen eines Monats mit Übersetzung, Prüfung durch die Abteilung für den einheitlichen Patentschutz, Eintragung mit Rückwirkung, Rechtsbehelf zum EPG – und danach Jahresgebühren, Kompensation und Register. Die Reihenfolge folgt den Teilen 2 bis 8 der UP-Richtlinien.",
+        norms=["Art. 3 EPatVO", "Art. 4 EPatVO", "Art. 9 EPatVO", "R. 5 DOEPS", "R. 6 DOEPS", "R. 7 DOEPS", "R. 97 VerfO"],
+        steps=[
+            step("A. Anspruchsberechtigung (Art. 3 Abs. 1 EPatVO, R. 5 Abs. 2 DOEPS)", "Europäisches Patent, erteilt mit denselben Ansprüchen für alle 25 teilnehmenden Mitgliedstaaten (keine zurückgenommene Benennung, kein unterschiedlicher Anspruchssatz nach R. 138 EPÜ, Anmeldetag ab 1.3.2007); Antrag durch den oder alle Inhaber (R. 5 Abs. 1); kein sanktionierter Inhaber (R. 5 Abs. 2 lit. b).",
+                 concepts=["upc_einheitspatent", "upc_up_generationen"], norms=["Art. 3 EPatVO", "R. 5 DOEPS"]),
+            step("B. Antrag: Frist, Form, Inhalt (R. 6 DOEPS)", children=[
+                step("1. Monatsfrist ab Erteilungshinweis (R. 6 Abs. 1)", "Ein Monat nach Bekanntmachung des Hinweises auf die Erteilung im Europäischen Patentblatt (Art. 97 Abs. 3 EPÜ); nicht verlängerbar; früher Antrag nach der Erteilungsentscheidung möglich; Wiedereinsetzung binnen zwei Monaten nach Fristablauf (R. 22 Abs. 2 DOEPS).",
+                     concepts=["upc_antrag_einheitliche_wirkung"], norms=["R. 6 DOEPS", "R. 22 DOEPS"]),
+                step("2. Schriftlich, in der Verfahrenssprache, Formblatt 7000 (R. 6 Abs. 2)", "Angaben zu Inhaber und Vertreter nach R. 41 Abs. 2 EPÜ, Patentnummer; Unterschrift des Inhabers (Sitz in einem EPÜ-Staat), Vertreters oder bevollmächtigten Angestellten; kein Fax; gebührenfrei.",
+                     concepts=["upc_antrag_einheitliche_wirkung", "upc_up_abteilung"], norms=["R. 6 DOEPS", "R. 20 DOEPS"]),
+                step("3. Übersetzung in der Übergangszeit (Art. 6 EPatÜVO, R. 6 Abs. 2 lit. d)", "Vollständige Übersetzung der Patentschrift: ins Englische bei Verfahrenssprache Deutsch oder Französisch, sonst in eine andere EU-Amtssprache; nur Information, keine Rechtswirkung; Übergangszeit sechs Jahre ab 1.6.2023, höchstens zwölf.",
+                     concepts=["upc_up_uebersetzung"], norms=["Art. 6 EPatÜVO", "Art. 3 EPatÜVO", "R. 18 DOEPS"]),
+                step("4. Zugleich: Antrag auf Kompensation (R. 9 DOEPS)", "Nur zusammen mit dem Antrag auf einheitliche Wirkung; Erklärung über Status (KMU, natürliche Person, Hochschule, öffentliche Forschungseinrichtung, Organisation ohne Gewinnerzielungsabsicht) und Sitz in der EU; Anmeldung in anderer EU-Amtssprache als DE/EN/FR; Pauschale 500 EUR nach Eintragung.",
+                     concepts=["upc_up_kompensation"], norms=["Art. 5 EPatÜVO", "R. 8 DOEPS", "R. 9 DOEPS", "R. 10 DOEPS", "Art. 4 GebOEPS"]),
+            ]),
+            step("C. Prüfung und Eintragung (R. 7 DOEPS)", children=[
+                step("1. Eintragung und Wirksamwerden (R. 7 Abs. 1, Art. 4 Abs. 1 EPatVO)", "Erfordernisse erfüllt: Eintragung im Register für den einheitlichen Patentschutz, Mitteilung des Eintragungstags (Formblatt 7030); das Einheitspatent wirkt rückwirkend ab dem Tag des Erteilungshinweises in den Staaten der aktuellen Generation (Art. 18 Abs. 2 EPatVO).",
+                     concepts=["upc_up_generationen", "upc_up_register"], norms=["R. 7 DOEPS", "Art. 4 EPatVO", "Art. 18 EPatVO", "R. 16 DOEPS"]),
+                step("2. Formmängel: Monatsfrist ohne Wiedereinsetzung (R. 7 Abs. 3)", "Mängel nach R. 6 Abs. 2 sind binnen einer nicht verlängerbaren Frist von einem Monat zu beheben; keine Wiedereinsetzung (R. 22 Abs. 6 DOEPS; Bodycap/EPA); mindestens einmal rechtliches Gehör (Art. 113 Abs. 1 EPÜ).",
+                     concepts=["upc_antrag_einheitliche_wirkung"], norms=["R. 7 DOEPS", "R. 22 DOEPS"], cases=["upc_coa_bodycap_epa_r97"]),
+                step("3. Zurückweisung (R. 7 Abs. 2, 3)", "Fehlende Anspruchsberechtigung, Fristversäumung ohne Wiedereinsetzung oder nicht behobene Mängel: beabsichtigte Zurückweisung, Gelegenheit zur Stellungnahme, endgültige Entscheidung. Danach nationale Sicherheitsnetze für die Validierung prüfen (Nationale Maßnahmen zum Einheitspatent).",
+                     concepts=["upc_antrag_einheitliche_wirkung", "upc_up_abteilung"], norms=["R. 7 DOEPS", "R. 20 DOEPS"]),
+            ]),
+            step("D. Rechtsbehelf: Klage vor dem EPG (R. 23, 24 DOEPS; R. 85 bis 98 VerfO)", "Gegen die Zurückweisung des Antrags auf einheitliche Wirkung: Antrag auf Aufhebung binnen drei Wochen, Eilrichter (R. 97 VerfO), keine Abhilfe (R. 85 Abs. 2 VerfO). Gegen andere Entscheidungen der Abteilung: Klage binnen zwei Monaten (R. 88 VerfO) mit Abhilfemöglichkeit (R. 91 VerfO). Zuständigkeit Art. 32 Abs. 1 lit. i, Befugnis Art. 66 EPGÜ; kein Vertretungszwang (Art. 48 Abs. 7 EPGÜ).",
+                 concepts=["upc_up_rechtsbehelf"], norms=["R. 23 DOEPS", "R. 24 DOEPS", "R. 88 VerfO", "R. 97 VerfO", "Art. 32 Abs. 1 EPGÜ", "Art. 66 EPGÜ"], cases=["upc_coa_bodycap_epa_r97"]),
+            step("E. Nach der Eintragung: Jahresgebühren, Register, Lizenzen", children=[
+                step("1. Jahresgebühren an das EPA (R. 13, 14 DOEPS; Art. 2 GebOEPS)", "Fällig ab dem Folgejahr des Erteilungshinweises am Monatsletzten des Anmeldemonats; Nachfrist sechs Monate mit 50 % Zuschlag; sonst Erlöschen rückwirkend zum Fälligkeitstag; Wiedereinsetzung binnen eines Jahres; Sicherheitsfristen nach R. 13 Abs. 4, 5.",
+                     concepts=["upc_up_jahresgebuehren"], norms=["Art. 11 EPatVO", "R. 13 DOEPS", "R. 14 DOEPS", "Art. 2 GebOEPS"]),
+                step("2. Lizenzbereitschaft (Art. 8 EPatVO, R. 12 DOEPS)", "Erklärung gegenüber dem EPA, 15 % Ermäßigung (Art. 3 GebOEPS); ausgeschlossen bei ausschließlicher Lizenz; Rücknahme nur gegen Rückzahlung; Vergütung durch das EPG (Art. 32 Abs. 1 lit. h EPGÜ).",
+                     concepts=["upc_up_lizenzbereitschaft"], norms=["Art. 8 EPatVO", "R. 12 DOEPS", "Art. 3 GebOEPS"]),
+                step("3. Rechtsübergang, Lizenzen, Vermögensstatut (Art. 3 Abs. 2, Art. 7 EPatVO; R. 16 DOEPS)", "Übertragung nur für alle Staaten, Lizenz auch für Teilgebiete; Eintragung nach R. 22 bis 24 EPÜ gegen Nachweis; anwendbares Recht für das Patent als Vermögensgegenstand nach Art. 7 EPatVO (Wohnsitz/Niederlassung am Anmeldetag, sonst deutsches Recht).",
+                     concepts=["upc_up_register", "upc_up_vermoegen"], norms=["Art. 3 EPatVO", "Art. 7 EPatVO", "R. 16 DOEPS", "R. 20 DOEPS"]),
+            ]),
+        ],
+    ),
+    dict(
         id="upc_schema_zustaendigkeit",
         label="Zuständigkeit des EPG und Kammerwahl (Art. 31 bis 34 EPGÜ)",
         kategorie="EPG: Zuständigkeit",

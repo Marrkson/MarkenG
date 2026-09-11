@@ -65,10 +65,22 @@ EU_LAWS = {
     "UPCA": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)",
     "VerfO": "https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf",
     "RoP": "https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf",
+    # Einheitspatent: Verordnungen (EUR-Lex), Durchführungs- und Gebührenordnung (epo.org, Rechtstexte zum Einheitspatentsystem)
+    "EPatVO": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257",
+    "EPatÜVO": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260",
+    "EPatÜbersVO": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260",
+    "DOEPS": "https://www.epo.org/de/legal/up-upc/2022/upr.html",
+    "UPR": "https://www.epo.org/de/legal/up-upc/2022/upr.html",
+    "GebOEPS": "https://www.epo.org/de/legal/up-upc/2022/upf.html",
+    "GebEPS": "https://www.epo.org/de/legal/up-upc/2022/upf.html",
+    "GebEPS": "https://www.epo.org/de/legal/up-upc/2022/upf.html",
+    "RFeesUPP": "https://www.epo.org/de/legal/up-upc/2022/upf.html",
 }
 # Zitierkürzel -> Schlüssel des Richtlinien-/Übereinkommensknotens im Graphen (eunorm:<key>:<nr>); Aliase erlaubt.
-EU_NORM_KEYS = {"MarkenRL": "markenrl", "DurchsetzungsRL": "durchsetzungsrl", "EPGÜ": "upca", "UPCA": "upca", "VerfO": "rop", "RoP": "rop"}
-# Zitatköpfe für Regeln (VerfO): „R. 19.1 VerfO“, „Regel 262A VerfO“, „Rule 19 RoP“; ohne Gesetzesangabe nie verlinken.
+EU_NORM_KEYS = {"MarkenRL": "markenrl", "DurchsetzungsRL": "durchsetzungsrl", "EPGÜ": "upca", "UPCA": "upca", "VerfO": "rop", "RoP": "rop",
+                "EPatVO": "epatvo", "EPatÜVO": "epatuevo", "EPatÜbersVO": "epatuevo", "DOEPS": "doeps", "UPR": "doeps",
+                "GebOEPS": "gebeps", "GebEPS": "gebeps", "RFeesUPP": "gebeps"}
+# Zitatköpfe für Regeln (VerfO, DOEPS): „R. 19.1 VerfO“, „Regel 262A VerfO“, „Rule 19 RoP“, „R. 6 Abs. 1 DOEPS“; ohne Gesetzesangabe nie verlinken.
 RULE_HEADS = ("R.", "Regel", "Rule")
 # Ohne verlinkbare Fundstelle: nie verlinken.
 UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "GGV", "EPÜ", "ERVDPMAV", "PatAnwAPrV", "GV", "GRCh")
@@ -184,9 +196,9 @@ const LAWABBR = Object.keys(LAW.laws).concat(Object.keys(LAW.eu), LAW.unlinked).
 const CITE = new RegExp(__PATTERN__, 'g');
 function lawUrl(num, law){ const e = LAW.laws[law]; if(!e) return null;
   return LAW.base + e.slug + '/' + (e.kind === 'Art.' ? 'art_' + num + '.html' : '__' + num + '.html'); }
-function lawA(href, label){ var eu = href.indexOf('eur-lex') >= 0, upc = href.indexOf('unifiedpatentcourt') >= 0;
+function lawA(href, label){ var eu = href.indexOf('eur-lex') >= 0, upc = href.indexOf('unifiedpatentcourt') >= 0, epo = href.indexOf('epo.org') >= 0;
   return '<a href="' + href + '" target="_blank" rel="noopener" class="lawlink"'
-  + ' title="' + (upc ? 'Verfahrensordnung des EPG (PDF)' : eu ? 'Auf EUR-Lex nachlesen' : 'Auf gesetze-im-internet.de nachlesen') + '">' + label + '</a>'; }
+  + ' title="' + (upc ? 'Verfahrensordnung des EPG (PDF)' : epo ? 'Auf epo.org nachlesen' : eu ? 'Auf EUR-Lex nachlesen' : 'Auf gesetze-im-internet.de nachlesen') + '">' + label + '</a>'; }
 function lawifyText(s){
   return s.replace(CITE, function(m, head, nums, sub, law){
     if(law && LAW.unlinked.indexOf(law) >= 0) return m;

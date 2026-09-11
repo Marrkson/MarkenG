@@ -422,8 +422,11 @@ const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?: .*)? (\S+)$/); if(m
   m=r.match(/§ (\d+[a-z]?)/); return m?byId.get('norm:§'+m[1]):null; };
 // Quelle eines EU-/Übereinkommensknotens und Sortenbezeichnung (Richtlinie, EPGÜ, VerfO)
 const srcName = u => /eur-lex/.test(u||'') ? 'EUR-Lex' : /epo\.org/.test(u||'') ? 'epo.org' : /unifiedpatentcourt/.test(u||'') ? 'unifiedpatentcourt.org (PDF)' : 'Quelle';
-const euKind = n => n.type!=='eunorm' ? null : n.rl==='upca' ? 'EPGÜ' : n.rl==='rop' ? 'VerfO' : 'Richtlinie';
-const isUpc = n => n && n.type==='eunorm' && (n.rl==='upca'||n.rl==='rop');
+const RL_FAM = {markenrl:'Richtlinie',durchsetzungsrl:'Richtlinie',upca:'EPGÜ',rop:'VerfO',epatvo:'EPatVO',epatuevo:'EPatÜVO',doeps:'DOEPS',gebeps:'GebOEPS'};
+const euKind = n => n.type!=='eunorm' ? null : (RL_FAM[n.rl]||n.kurz||'Richtlinie');
+const isUpc = n => n && n.type==='eunorm' && (n.rl==='upca'||n.rl==='rop'); // Zitierzähler aus dem EPG-Korpus nur für EPGÜ und VerfO
+const isRl = n => n && n.type==='eunorm' && (n.rl==='markenrl'||n.rl==='durchsetzungsrl');
+const famNames = list => { const k=[...new Set(list.filter(Boolean).map(n=>n.kurz||RL_FAM[n.rl]||''))].filter(Boolean); return k.length ? k.join(', ') : ''; };
 // Eingehende Kanten und Einheiten je Knoten (für Lernkarten, Suche, Lernradar)
 const inn = new Map(); for(const e of G.edges){ (inn.get(e.target)||inn.set(e.target,[]).get(e.target)).push(e); }
 const I = id => inn.get(id)||[];
@@ -739,7 +742,7 @@ function vDidaktik(){
   <p class="meta" style="margin-bottom:0">Tastatur im Fall: <span class="kbd">J</span>/<span class="kbd">N</span> antworten, <span class="kbd">1</span>–<span class="kbd">4</span> bei Auswahlfragen, <span class="kbd">Enter</span> weiter.</p></div>`;
 }
 // ---------- Suche ----------
-const KINDS = {concept:['begriff','Begriffe','begriffe'],step:['pruefungspunkt','Prüfungspunkte','pruefungspunkte'],schema:['schema','Prüfungsschemata','schemata'],norm:['norm','Gesetz (MarkenG)','gesetz'],eunorm:['richtlinie','Richtlinien, EPGÜ, VerfO','richtlinien'],case:['entscheidung','Entscheidungen','entscheidungen'],distinction:['tabelle','Abgrenzungen','abgrenzungen'],unit:['fall','Fälle und Einheiten','faelle']};
+const KINDS = {concept:['begriff','Begriffe','begriffe'],step:['pruefungspunkt','Prüfungspunkte','pruefungspunkte'],schema:['schema','Prüfungsschemata','schemata'],norm:['norm','Gesetz (MarkenG)','gesetz'],eunorm:['richtlinie','Richtlinien, EPGÜ, VerfO, Einheitspatent','richtlinien'],case:['entscheidung','Entscheidungen','entscheidungen'],distinction:['tabelle','Abgrenzungen','abgrenzungen'],unit:['fall','Fälle und Einheiten','faelle']};
 const KIND_ORDER = ['concept','step','schema','norm','eunorm','case','distinction','unit'];
 const BY_SLUG = Object.fromEntries(Object.entries(KINDS).map(([t,v])=>[v[2],t]));
 const fold = s => String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'').replace(/ß/g,'ss');
@@ -820,16 +823,16 @@ function vKarte(id){
   else if(n.type==='schema') sec('kern','schema','Aufbau',`<p>${txt(n.beschreibung)}</p>${schemaTree(id)}`);
   else if(n.type==='case') sec('kern','entscheidung','Kernaussage',`<div class="box def"><div class="k">${ic('entscheidung','s')}Leitsatz</div>${txt(n.kern)}</div>`);
   else if(n.type==='norm') sec('kern','norm','Wortlaut',normText(n,null));
-  else if(n.type==='eunorm') sec('kern','richtlinie','Wortlaut',`${(n.absaetze||[]).map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${txt(a.text)}</div>`).join('')}${n.hinweis?`<div class="box merke"><div class="k">${ic('merke','s')}${isUpc(n)?'Hinweis':'Umsetzung'}</div>${txt(n.hinweis)}</div>`:''}${weitereTable(n)}`);
+  else if(n.type==='eunorm') sec('kern','richtlinie','Wortlaut',`${(n.absaetze||[]).map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${txt(a.text)}</div>`).join('')}${n.hinweis?`<div class="box merke"><div class="k">${ic('merke','s')}${isRl(n)?'Umsetzung':'Hinweis'}</div>${txt(n.hinweis)}</div>`:''}${weitereTable(n)}${!isRl(n)&&n.url_en?`<p class="meta"><a href="${esc(n.url_en)}" target="_blank" rel="noopener">English ↗</a> · <a href="${esc(n.url)}" target="_blank" rel="noopener">epo.org ↗</a></p>`:''}`);
   else if(n.type==='distinction') sec('kern','tabelle','Gegenüberstellung',cmpTable(n));
   // 2 Norm
   if(n.type!=='norm'&&n.type!=='eunorm') sec('norm','norm','Norm',chips(normsOf));
   else { const c=uniq(I(id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source))); sec('begriffe','begriff','Begriffe aus dieser Norm',list(c.map(x=>[x,esc(x.kategorie||'')]))); const impl = n.type==='norm' ? O(id).filter(e=>e.relation==='implements').map(e=>byId.get(e.target)) : I(id).filter(e=>e.relation==='implements').map(e=>byId.get(e.source)); sec('umsetzung','richtlinie',n.type==='norm'?'Richtlinie':'Umsetzung im MarkenG',chips(uniq(impl)));
     // Brücken: EPGÜ <-> Durchsetzungsrichtlinie (entspricht), VerfO -> EPGÜ (konkretisiert)
-    const ents = O(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.target)); sec('entspricht','richtlinie','Entsprechung in der Durchsetzungsrichtlinie',chips(uniq(ents)));
-    const entsIn = I(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.source)); sec('umsetzung_epg','union','Umsetzung im EPGÜ',chips(uniq(entsIn)));
-    const bez = O(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.target)); sec('bezug','union','Bezug zum Übereinkommen',chips(uniq(bez)));
-    const bezIn = I(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.source)); sec('regeln','richtlinie','Konkretisiert in der Verfahrensordnung',chips(uniq(bezIn)));
+    const ents = O(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.target)); sec('entspricht','richtlinie','Entsprechung: '+famNames(ents),chips(uniq(ents)));
+    const entsIn = I(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.source)); sec('umsetzung_epg','union','Entsprechung in: '+famNames(entsIn),chips(uniq(entsIn)));
+    const bez = O(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.target)); sec('bezug','union','Bezug: '+famNames(bez),chips(uniq(bez)));
+    const bezIn = I(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.source)); sec('regeln','richtlinie','Konkretisiert in: '+famNames(bezIn),chips(uniq(bezIn)));
     if(isUpc(n)) sec('epg','entscheidung',`EPG-Rechtsprechung`,`<div id="epg-inline" class="glass list"></div><p class="meta">${n.zitiert?`${n.zitiert} Entscheidungen nennen ${esc(n.label)}. <a href="#/epg/norm/${encodeURIComponent(id)}">Alle anzeigen</a>`:'Bisher in keiner Entscheidung des EPG zitiert.'}${n.url_en?` · <a href="${esc(n.url_en)}" target="_blank" rel="noopener">English ↗</a>`:''}</p>`); }
   // 3 Prüfung
   if(n.type==='concept'||n.type==='case') { const st2 = n.type==='concept' ? stepsUsing : []; sec('pruefung','schema','Im Prüfungsschema',list(st2.map(x=>[x,esc((schemaOf(x.id)||{}).label||'')]))); }
@@ -838,7 +841,8 @@ function vKarte(id){
   // 4 Rechtsprechung
   if(n.type!=='case') sec('rspr','entscheidung','Rechtsprechung',casesOf.length?list(casesOf.map(x=>[x,esc(x.date.split('-').reverse().join('.'))+' · '+esc(x.az)])):'');
   // 5 Abgrenzung, 6 Verwandt
-  if(n.type==='concept'){ sec('abgr','tabelle','Abgrenzung',list(dists.map(x=>[x,esc(x.frage)]))); sec('verwandt','begriff','Verwandte Begriffe',chips(related(id))); }
+  if(n.type==='concept'){ sec('abgr','tabelle','Abgrenzung',list(dists.map(x=>[x,esc(x.frage)]))); sec('verwandt','begriff','Verwandte Begriffe',chips(related(id)));
+    const srcs=uniq(O(id).filter(e=>e.relation==='documented_in').map(e=>byId.get(e.target)).filter(Boolean)); sec('quellen','extern','Quellen',srcs.length?`<div class="glass list">${srcs.map(x=>`<a class="row" href="${esc(x.url)}" target="_blank" rel="noopener"><div class="b"><div class="t">${esc(x.label)}</div><div class="s">${esc(x.summary||'')}</div></div>${ic('extern','s')}</a>`).join('')}</div>`:''); }
   // 7 Fälle
   sec('faelle','fall',`Fälle dazu`,units.length?`<div class="glass list">${units.map(e=>unitRow(e, `Kurs ${nn(KURS.get(e.kurs).nr)} · ${CHAP.get(e.kap).titel}`)).join('')}</div>`:'');
   main.innerHTML = head + (S.length>2?`<nav class="toc" aria-label="Abschnitte">${S.map(s=>`<a class="glass pill" href="#sec-${s.key}">${ic(s.icn)}${s.title}</a>`).join('')}</nav>`:'') + S.map(s=>`<section class="sec" id="sec-${s.key}"><h2>${ic(s.icn)}${s.title}${s.key==='faelle'?`<span class="meta mono" style="margin-left:auto">${units.length}</span>`:''}</h2>${s.html}</section>`).join('') + `<p class="meta" style="margin-top:20px">Im <a href="navigator/#/${n.type}/${encodeURIComponent(id)}">Lernnavigator öffnen</a> (Graph, Karteikarten).</p>`;

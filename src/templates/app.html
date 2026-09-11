@@ -172,9 +172,12 @@ __LAWJS__
 
 const txt = s => lawify(esc(s));
 const mdt = s => lawify(nl(s));
-const TYPE_LABEL = {norm:'Gesetz',eunorm:'Richtlinie',concept:'Begriff',schema:'Prüfungsschema',step:'Prüfungspunkt',case:'Entscheidung',distinction:'Abgrenzung',source:'IPWiki'};
+const TYPE_LABEL = {norm:'Gesetz',eunorm:'Richtlinie',concept:'Begriff',schema:'Prüfungsschema',step:'Prüfungspunkt',case:'Entscheidung',distinction:'Abgrenzung',source:'Quelle'};
+const RL_FAM = {markenrl:'Richtlinie',durchsetzungsrl:'Richtlinie',upca:'EPGÜ',rop:'VerfO',epatvo:'EPatVO',epatuevo:'EPatÜVO',doeps:'DOEPS',gebeps:'GebOEPS'};
+const famNames = list => { const k=[...new Set(list.filter(Boolean).map(n=>n.kurz||RL_FAM[n.rl]||''))].filter(Boolean); return k.length ? k.join(', ') : ''; };
+const isEpg = n => n.rl==='upca'||n.rl==='rop'; // Zitierzähler aus dem EPG-Korpus nur für EPGÜ und VerfO
 const srcName = u => /eur-lex/.test(u||'') ? 'EUR-Lex' : /epo\.org/.test(u||'') ? 'epo.org' : /unifiedpatentcourt/.test(u||'') ? 'unifiedpatentcourt.org' : 'Quelle';
-const euKind = n => n.type!=='eunorm' ? TYPE_LABEL[n.type] : n.rl==='upca' ? 'EPGÜ' : n.rl==='rop' ? 'VerfO' : 'Richtlinie';
+const euKind = n => n.type!=='eunorm' ? (n.type==='source' ? (n.provider||'Quelle') : TYPE_LABEL[n.type]) : (RL_FAM[n.rl]||n.kurz||'Richtlinie');
 const bridges = id => ({entspricht:O(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.target)), umgesetzt:I(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.source)), bezug:O(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.target)), regeln:I(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.source))});
 const steps = id => O(id).filter(e=>e.relation==='has_step').sort((a,b)=>a.order-b.order).map(e=>byId.get(e.target));
 const schemaOf = stepId => byId.get('schema:'+stepId.slice(5).split('.')[0]);
@@ -205,12 +208,12 @@ function inlineCard(n, ref){
   if(n.type==='concept'){
     body = `<h5>${esc(n.label)}</h5><p class="def">${txt(n.definition)}</p><p class="erl">${txt(n.erlaeuterung)}</p>`
       + section('Normen', chips(norms(n.id))) + section('Rechtsprechung', chips(cases(n.id))) + section('Verwandte Begriffe', chips(concepts(n.id)))
-      + section('IPWiki', sources(n.id).map(s=>`<a class="chip source" href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>`).join(' '));
+      + section('Quellen', sources(n.id).map(s=>`<a class="chip source" href="${esc(s.url)}" target="_blank" rel="noopener" title="${esc(s.provider||'')}">${esc(s.label)}</a>`).join(' '));
   } else if(n.type==='norm'){
     body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5>` + normText(n, ref) + section('Setzt um', chips(implementsOf(n.id))) + `<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
   } else if(n.type==='eunorm'){
-    const br=bridges(n.id); const upc=n.rl==='upca'||n.rl==='rop';
-    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)} · ${esc(n.kapitel)}${n.abschnitt?' · '+esc(n.abschnitt):''}${n.titel_en?' · <i>'+esc(n.titel_en)+'</i>':''}</div>` + eunormText(n) + (n.hinweis?`<div class="merk"><b>${upc?'Hinweis':'Umsetzung/Hinweis'}:</b> ${txt(n.hinweis)}</div>`:'') + section('Umgesetzt durch', chips(implementedBy(n.id))) + section('Entsprechung in der Durchsetzungsrichtlinie', chips(br.entspricht)) + section('Umsetzung im EPGÜ', chips(br.umgesetzt)) + section('Bezug zum Übereinkommen', chips(br.bezug)) + section('Konkretisiert in der Verfahrensordnung', chips(br.regeln)) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source)))) + section('Rechtsprechung', chips(I(n.id).filter(e=>e.relation==='interprets').map(e=>byId.get(e.source)))) + weitereTable(n) + (upc?`<div class="meta">${n.zitiert?`In ${n.zitiert} Entscheidungen des EPG zitiert · <a href="../#/epg/norm/${encodeURIComponent(n.id)}">alle in IPelico anzeigen →</a>`:'Bisher in keiner Entscheidung des EPG zitiert.'}${n.url_en?` · <a href="${esc(n.url_en)}" target="_blank" rel="noopener">English ↗</a>`:''}</div>`:'') + `<div class="meta">${n.paraphrase?'Inhalt als Paraphrase erfasst (amtlicher Wortlaut nicht abrufbar).':'Amtlicher Wortlaut.'} <a href="${esc(n.url)}" target="_blank" rel="noopener">${srcName(n.url)} ↗</a> · <a href="${esc(n.url_pdf)}" target="_blank" rel="noopener">PDF ↗</a></div>`;
+    const br=bridges(n.id); const upc=!(n.rl==='markenrl'||n.rl==='durchsetzungsrl'); const epg=isEpg(n);
+    body = `<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)} · ${esc(n.kapitel)}${n.abschnitt?' · '+esc(n.abschnitt):''}${n.titel_en?' · <i>'+esc(n.titel_en)+'</i>':''}</div>` + eunormText(n) + (n.hinweis?`<div class="merk"><b>${upc?'Hinweis':'Umsetzung/Hinweis'}:</b> ${txt(n.hinweis)}</div>`:'') + section('Umgesetzt durch', chips(implementedBy(n.id))) + section('Entsprechung: '+famNames(br.entspricht), chips(br.entspricht)) + section('Entsprechung in: '+famNames(br.umgesetzt), chips(br.umgesetzt)) + section('Bezug: '+famNames(br.bezug), chips(br.bezug)) + section('Konkretisiert in: '+famNames(br.regeln), chips(br.regeln)) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source)))) + section('Rechtsprechung', chips(I(n.id).filter(e=>e.relation==='interprets').map(e=>byId.get(e.source)))) + weitereTable(n) + (upc?`<div class="meta">${epg?(n.zitiert?`In ${n.zitiert} Entscheidungen des EPG zitiert · <a href="../#/epg/norm/${encodeURIComponent(n.id)}">alle in IPelico anzeigen →</a>`:'Bisher in keiner Entscheidung des EPG zitiert.'):''}${n.url_en?`${epg?' · ':''}<a href="${esc(n.url_en)}" target="_blank" rel="noopener">English ↗</a>`:''}</div>`:'') + `<div class="meta">${n.paraphrase?'Inhalt als Paraphrase erfasst (amtlicher Wortlaut nicht abrufbar).':'Amtlicher Wortlaut.'} <a href="${esc(n.url)}" target="_blank" rel="noopener">${srcName(n.url)} ↗</a> · <a href="${esc(n.url_pdf)}" target="_blank" rel="noopener">PDF ↗</a></div>`;
   } else if(n.type==='case'){
     body = `<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta">${esc(n.court)}, ${fmtDate(n.date)} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">${/unifiedpatentcourt/.test(n.url)?'unifiedpatentcourt.org':'dejure'} ↗</a></div><p class="def">${txt(n.kern)}</p>`
       + section('Normen', chips(norms(n.id))) + section('Begriffe', chips(I(n.id).filter(e=>e.relation==='illustrated_by').map(e=>byId.get(e.source))));
@@ -263,8 +266,9 @@ document.addEventListener('click', ev=>{
 // ---------- Views ----------
 const NAV = [
   ['grp','Lernen'],['#/start','Start'],['#/klausur','Klausur NS'],['#/schemata','Prüfungsschemata'],['#/cards','Karteikarten'],['#/graph','Graph-Explorer'],
-  ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/richtlinie','Markenrechtsrichtlinie'],['#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie'],['#/sources','IPWiki-Quellen'],
-  ['grp','Einheitliches Patentgericht'],['#/richtlinie/upca','EPGÜ (Übereinkommen)'],['#/richtlinie/rop','Verfahrensordnung (VerfO)'],['../#/epg','EPG-Rechtsprechung']
+  ['grp','Nachschlagen'],['#/concepts','Begriffe'],['#/distinctions','Abgrenzungen'],['#/cases','Rechtsprechung'],['#/law','Gesetz (MarkenG)'],['#/richtlinie','Markenrechtsrichtlinie'],['#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie'],['#/sources','Quellen (IPWiki, UP-Richtlinien)'],
+  ['grp','Einheitliches Patentgericht'],['#/richtlinie/upca','EPGÜ (Übereinkommen)'],['#/richtlinie/rop','Verfahrensordnung (VerfO)'],['../#/epg','EPG-Rechtsprechung'],
+  ['grp','Einheitspatent'],['#/richtlinie/epatvo','Verordnung 1257/2012 (EPatVO)'],['#/richtlinie/epatuevo','Verordnung 1260/2012 (EPatÜVO)'],['#/richtlinie/doeps','Durchführungsordnung (DOEPS)'],['#/richtlinie/gebeps','Gebührenordnung (GebOEPS)']
 ];
 function renderNav(){ const h=location.hash||'#/start'; const act=NAV.filter(([a])=>a!=='grp'&&h.startsWith(a)).sort((x,y)=>y[0].length-x[0].length)[0];
   document.getElementById('nav').innerHTML = NAV.map(([a,b])=>a==='grp'?`<div class="grp">${b}</div>`:`<a href="${a}" class="${act&&act[0]===a?'active':''}">${b}</a>`).join(''); }
@@ -294,8 +298,9 @@ function vStart(){
     ${tile('#/richtlinie/durchsetzungsrl','Durchsetzungsrichtlinie',`${rlCount('durchsetzungsrl')} Artikel der RL 2004/48/EG im Wortlaut, Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG, SortSchG – und im EPGÜ.`)}
     ${tile('#/richtlinie/upca','EPGÜ',`${rlCount('upca')} Artikel des Übereinkommens über ein Einheitliches Patentgericht (deutsch und englisch) mit Zitierzählern aus ${(G.meta.upc||{}).entscheidungen||0} EPG-Entscheidungen.`)}
     ${tile('#/richtlinie/rop','Verfahrensordnung EPG',`${rlCount('rop')} Regeln der VerfO (Stand 1.1.2026) mit Bezug zum Übereinkommen und Rechtsprechung des Berufungsgerichts.`)}
+    ${tile('#/richtlinie/epatvo','Einheitspatent',`Rechtsgrundlagen der einheitlichen Wirkung: ${rlCount('epatvo')} Artikel der VO 1257/2012, ${rlCount('epatuevo')} Artikel der VO 1260/2012, ${rlCount('doeps')} Regeln der DOEPS und ${rlCount('gebeps')} Artikel der GebOEPS, verknüpft mit den UP-Richtlinien (April 2026).`)}
     ${tile('#/graph','Graph-Explorer','Nachbarschaft eines Knotens visuell erkunden.')}
-    ${tile('#/sources','IPWiki','Verweise auf '+st.source+' IPWiki-Artikel.')}
+    ${tile('#/sources','Quellen','Verweise auf '+st.source+' Quellen: IPWiki-Artikel, Abschnitte der UP-Richtlinien und EPA-Seiten zum Einheitspatent.')}
   </div>
   <h3>IPelico</h3>
   <div class="card"><a href="../">Zu IPelico: Fälle mit Frage, sofortigem Feedback und Fortschritt →</a></div>
@@ -509,6 +514,22 @@ const RL_VIEW = {
     lead:'Vom Verwaltungsausschuss am 8. Juli 2022 beschlossen, zuletzt geändert am 4. November 2025 (in Kraft seit 1. Januar 2026). Die Regeln konkretisieren das Übereinkommen: schriftliches Verfahren, Zwischenverfahren, mündliche Verhandlung, einstweilige Maßnahmen, Beweis, Kosten, Berufung. Die Präambel (Verhältnismäßigkeit, Fairness, front-loaded) wird vom Berufungsgericht ständig zitiert.',
     hinweis:'Deutscher Wortlaut der konsolidierten Fassung (unifiedpatentcourt.org); englische Regeltitel hinterlegt. Quelle:',
     chips:['eunorm:rop:erwaegungsgruende','schema:upc_schema_einstweilige_massnahmen','schema:upc_schema_berufung','distinction:d_upc_einspruch_klageerwiderung','distinction:d_upc_r262_r262a','concept:upc_verfahrensgrundsaetze']},
+  epatvo: {titel:'Verordnung (EU) Nr. 1257/2012 über das Einheitspatent (EPatVO)',
+    lead:'Verordnung des Europäischen Parlaments und des Rates vom 17. Dezember 2012 über die Umsetzung der Verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes (ABl. L 361, S. 1), anwendbar seit 1. Juni 2023. Sie schafft das europäische Patent mit einheitlicher Wirkung (Art. 3, 4), verweist für das materielle Recht auf das EPGÜ (Art. 5, 7), regelt Lizenzbereitschaft (Art. 8), die Aufgaben des EPA (Art. 9) und die Jahresgebühren (Art. 11 bis 13). Jeder Artikel zeigt die Regeln der DOEPS, die ihn durchführen, und die entsprechende Vorschrift des EPGÜ.',
+    hinweis:'Amtlicher deutscher Wortlaut aus der RheinIP-Datenbank (Tabelle UPLegaltext, Spiegel der epo.org-Rechtstexte zum Einheitspatentsystem); englische Fassung je Artikel verlinkt. Praxis: UP-Richtlinien des EPA, Ausgabe April 2026. Quelle:',
+    chips:['schema:upc_schema_einheitliche_wirkung','distinction:d_upc_einheitspatent_buendelpatent','concept:upc_einheitspatent','concept:upc_up_rechtsrahmen','concept:upc_up_generationen','concept:upc_up_vermoegen','concept:upc_up_richtlinien']},
+  epatuevo: {titel:'Verordnung (EU) Nr. 1260/2012 über die Übersetzungsregelungen (EPatÜVO)',
+    lead:'Verordnung des Rates vom 17. Dezember 2012 über die anzuwendenden Übersetzungsregelungen (ABl. L 361, S. 89), anwendbar seit 1. Juni 2023. Grundsatz: keine Übersetzungen nach der Patentschrift (Art. 3); Übersetzung im Streitfall (Art. 4); Kompensationssystem für KMU und andere (Art. 5); Übergangszeit von sechs bis zwölf Jahren mit einer Informationsübersetzung (Art. 6).',
+    hinweis:'Amtlicher deutscher Wortlaut (epo.org); englische Fassung je Artikel verlinkt. Quelle:',
+    chips:['concept:upc_up_uebersetzung','concept:upc_up_kompensation','concept:upc_antrag_einheitliche_wirkung','schema:upc_schema_einheitliche_wirkung']},
+  doeps: {titel:'Durchführungsordnung zum einheitlichen Patentschutz (DOEPS)',
+    lead:'Vom Engeren Ausschuss des Verwaltungsrats im Dezember 2015 beschlossen (SC/D 1/15), zuletzt geändert 2025. Vier Teile: Engerer Ausschuss, Präsident und Abteilung für den einheitlichen Patentschutz (R. 1 bis 4); Antrag auf einheitliche Wirkung, Kompensation, Lizenzbereitschaft, Jahresgebühren und Erlöschen (R. 5 bis 14); Register und Veröffentlichungen (R. 15 bis 19); Verfahren, Wiedereinsetzung, Klage vor dem EPG und Abhilfe (R. 20 bis 24). Jede Regel zeigt die Vorschrift der Verordnungen, die sie durchführt.',
+    hinweis:'Deutscher Wortlaut der fortlaufend aktualisierten HTML-Sammlung auf epo.org; englische Regeltitel hinterlegt. Zitierform: R. 6 Abs. 1 DOEPS. Quelle:',
+    chips:['schema:upc_schema_einheitliche_wirkung','concept:upc_antrag_einheitliche_wirkung','concept:upc_up_jahresgebuehren','concept:upc_up_abteilung','concept:upc_up_rechtsbehelf','case:upc_coa_bodycap_epa_r97','concept:upc_up_richtlinien']},
+  gebeps: {titel:'Gebührenordnung zum einheitlichen Patentschutz (GebOEPS)',
+    lead:'Vom Engeren Ausschuss im Dezember 2015 beschlossen (SC/D 2/15), zuletzt geändert 2025. Art. 2 enthält die Jahresgebührentabelle vom 2. bis zum 20. Jahr (35 bis 4 855 EUR, „True Top 4“), den Zuschlag von 50 % und die Wiedereinsetzungsgebühr; Art. 3 die Ermäßigung um 15 % bei Lizenzbereitschaft; Art. 4 die Kompensation von 500 EUR; Art. 6 verweist auf die Gebührenordnung zum EPÜ.',
+    hinweis:'Deutscher Wortlaut (epo.org); Beträge nach dem Stand der HTML-Sammlung, maßgeblich ist der am Zahlungstag geltende Betrag. Quelle:',
+    chips:['concept:upc_up_jahresgebuehren','concept:upc_up_lizenzbereitschaft','concept:upc_up_kompensation','distinction:d_upc_einheitspatent_buendelpatent']},
 };
 function vRichtlinie(key){
   key = RL_VIEW[key] ? key : 'markenrl'; const v = RL_VIEW[key]; const meta = (G.meta.richtlinien||[]).find(r=>r.key===key) || {quelle:G.meta.markenrl.quelle};
@@ -516,19 +537,25 @@ function vRichtlinie(key){
   const list=G.nodes.filter(n=>n.type==='eunorm'&&n.rl===key&&n.nummer!=='0').sort((a,b)=>numKey(a)[0]-numKey(b)[0]||numKey(a)[1].localeCompare(numKey(b)[1])); let cur=null,curA=null,html='';
   for(const n of list){ if(n.kapitel!==cur){cur=n.kapitel;html+=`<div class="h">${esc(cur)}</div>`;curA=null;} if(n.abschnitt&&n.abschnitt!==curA){curA=n.abschnitt;html+=`<div class="h" style="font-weight:500;font-size:13px">${esc(curA)}</div>`;}
     html+=`<a href="#/eunorm/${n.id}">${esc(n.zitat||'Art.')} ${esc(n.nummer)} ${esc(n.titel)}${n.zitiert?` <span class="meta" style="float:right">${n.zitiert}</span>`:''}</a>`; }
-  const others = {markenrl:['#/richtlinie/durchsetzungsrl','Zur Durchsetzungsrichtlinie 2004/48/EG →'], durchsetzungsrl:['#/richtlinie/upca','Zum EPGÜ (Umsetzung für das Einheitliche Patentgericht) →'], upca:['#/richtlinie/rop','Zur Verfahrensordnung des EPG →'], rop:['#/richtlinie/upca','Zum Übereinkommen (EPGÜ) →']};
+  const others = {markenrl:['#/richtlinie/durchsetzungsrl','Zur Durchsetzungsrichtlinie 2004/48/EG →'], durchsetzungsrl:['#/richtlinie/upca','Zum EPGÜ (Umsetzung für das Einheitliche Patentgericht) →'], upca:['#/richtlinie/rop','Zur Verfahrensordnung des EPG →'], rop:['#/richtlinie/epatvo','Zum Einheitspatent (EPatVO) →'], epatvo:['#/richtlinie/doeps','Zur Durchführungsordnung (DOEPS) →'], epatuevo:['#/richtlinie/doeps','Zur Durchführungsordnung (DOEPS) →'], doeps:['#/richtlinie/gebeps','Zur Gebührenordnung (GebOEPS) →'], gebeps:['#/richtlinie/epatvo','Zur Verordnung 1257/2012 (EPatVO) →']};
   const other = `<a href="${others[key][0]}">${others[key][1]}</a>`;
-  const tabelle = key==='durchsetzungsrl' ? `<div class="card"><h4>Umsetzungstabelle: Artikel → Gesetz</h4>${cmpTable(byId.get('distinction:d_durchsetzungsrl_umsetzung'))}</div>` : key==='upca' ? `<div class="card"><h4>Entsprechungstabelle: Durchsetzungsrichtlinie → EPGÜ, VerfO, MarkenG, PatG</h4>${cmpTable(byId.get('distinction:d_upc_entsprechung_durchsetzungsrl'))}</div>` : '';
+  const tabelle = key==='durchsetzungsrl' ? `<div class="card"><h4>Umsetzungstabelle: Artikel → Gesetz</h4>${cmpTable(byId.get('distinction:d_durchsetzungsrl_umsetzung'))}</div>` : key==='upca' ? `<div class="card"><h4>Entsprechungstabelle: Durchsetzungsrichtlinie → EPGÜ, VerfO, MarkenG, PatG</h4>${cmpTable(byId.get('distinction:d_upc_entsprechung_durchsetzungsrl'))}</div>` : key==='epatvo' ? `<div class="card"><h4>Einheitspatent vs. klassisches europäisches Patent</h4>${cmpTable(byId.get('distinction:d_upc_einheitspatent_buendelpatent'))}</div>` : '';
+  const uprl = (key==='epatvo'||key==='epatuevo'||key==='doeps'||key==='gebeps') && G.meta.upc && G.meta.upc.up_richtlinien ? `<div class="card"><b>UP-Richtlinien des EPA:</b> ${esc(G.meta.upc.up_richtlinien)} · <a href="${esc(G.meta.upc.up_richtlinien_url)}index.html" target="_blank" rel="noopener">HTML ↗</a> · <a href="${esc(G.meta.upc.up_richtlinien_pdf)}" target="_blank" rel="noopener">PDF ↗</a>${chips(G.nodes.filter(n=>n.type==='source'&&n.provider==='UP-Richtlinien'))}</div>` : '';
   main.innerHTML = `<h2>${esc(v.titel)}</h2><p class="lead">${esc(v.lead)}</p>
     <div class="card"><b>Hinweis:</b> ${esc(v.hinweis)} <a href="${esc(meta.quelle)}" target="_blank" rel="noopener">${srcName(meta.quelle)} ↗</a>. ${other}
     ${chips(v.chips.map(id=>byId.get(id)).filter(Boolean))}</div>
-    ${tabelle}
+    ${uprl}${tabelle}
     <div class="card toc">${html}</div>`;
 }
 function vSources(){
-  const list=G.nodes.filter(n=>n.type==='source');
-  main.innerHTML=`<h2>IPWiki-Quellen</h2><p class="lead">Artikel des IPWiki (www.ipwiki.de) zum Markenrecht, die den Begriffen zugeordnet sind. Die Kurzbeschreibungen stammen aus den Suchergebnissen; der Volltext ist auf ipwiki.de abrufbar.</p>`+
-    list.map(s=>`<div class="card"><h4><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a></h4><p class="def">${txt(s.summary)}</p>${section('Begriffe',chips(I(s.id).map(e=>byId.get(e.source))))}</div>`).join('');
+  const list=G.nodes.filter(n=>n.type==='source'); const up=G.meta.upc||{};
+  const card = s=>`<div class="card"><h4><a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.label)}</a>${s.titel_en?` <span class="meta"><i>${esc(s.titel_en)}</i></span>`:''}</h4><p class="def">${txt(s.summary)}</p>${section('Begriffe',chips(I(s.id).map(e=>byId.get(e.source))))}</div>`;
+  const GROUPS = [
+    ['UP-Richtlinien', 'UP-Richtlinien des EPA', `Richtlinien für das Einheitspatent, ${esc(up.up_richtlinien||'')}: Teile 1 bis 8 und ihre Abschnitte. Text aus der ${esc(up.up_richtlinien_quelle||'RheinIP-Datenbank')}. <a href="${esc(up.up_richtlinien_url||'')}index.html" target="_blank" rel="noopener">HTML ↗</a> · <a href="${esc(up.up_richtlinien_pdf||'')}" target="_blank" rel="noopener">PDF ↗</a>`],
+    ['epo.org Einheitspatent', 'EPA-Informationsseiten zum Einheitspatent', 'Die Seiten unter epo.org/de/applying/european/unitary/unitary-patent (Rechtlicher Rahmen, Merkmale, Beantragung, Kosten, Übersetzungen und Kompensation, Starttermin), Stand Juni 2026.'],
+    ['IPWiki', 'IPWiki', 'Artikel des IPWiki (www.ipwiki.de) zum Markenrecht, die den Begriffen zugeordnet sind. Die Kurzbeschreibungen stammen aus den Suchergebnissen; der Volltext ist auf ipwiki.de abrufbar.'],
+  ];
+  main.innerHTML=`<h2>Quellen</h2>`+GROUPS.map(([prov,h,lead])=>{ const l=list.filter(n=>(n.provider||'IPWiki')===prov); return l.length?`<h3>${esc(h)} <span class="meta">(${l.length})</span></h3><p class="lead">${lead}</p>`+l.map(card).join(''):''; }).join('');
 }
 function vNode(id){
   const n=byId.get(id); if(!n){ main.innerHTML='<p>Nicht gefunden.</p>'; return; }

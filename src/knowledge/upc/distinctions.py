@@ -3,6 +3,23 @@
 from .upca import ENTSPRECHUNG_DISTINCTION
 
 DISTINCTIONS = [
+    dict(id="d_upc_einheitspatent_buendelpatent", label="Einheitspatent vs. klassisches europäisches Patent (Bündelpatent)",
+         concepts=["upc_einheitspatent", "upc_up_jahresgebuehren", "upc_up_register", "upc_uebergangsregelung"],
+         frage="Worin unterscheiden sich das europäische Patent mit einheitlicher Wirkung und das klassische, national validierte europäische Patent nach der Erteilung?",
+         kriterien=["Rechtsgrundlage nach Erteilung", "Entstehung", "Geltungsbereich", "Übersetzungen", "Jahresgebühren", "Verfügungen und Register", "Materielles Recht", "Gericht", "Erlöschen und Nichtigkeit"],
+         spalten=["Einheitspatent", "Klassisches europäisches Patent"],
+         rows=[
+             ["Verordnungen (EU) Nr. 1257/2012 und 1260/2012, DOEPS, GebOEPS; Praxis in den UP-Richtlinien", "Art. 64 ff. EPÜ und nationales Recht der benannten Staaten (in Deutschland IntPatÜG, PatG)"],
+             ["Antrag auf einheitliche Wirkung beim EPA binnen eines Monats nach Erteilungshinweis, Eintragung im Register (R. 6, 7 DOEPS); Wirkung rückwirkend ab Erteilungshinweis (Art. 4 EPatVO)", "Validierung Staat für Staat: Übersetzung, Gebühren und Vertreter nach nationalem Recht (Art. 65 EPÜ, Londoner Übereinkommen)"],
+             ["Einheitlich in den teilnehmenden Mitgliedstaaten, in denen das EPGÜ bei Eintragung in Kraft war (17 bzw. seit 1.9.2024 18 Staaten); Generation bleibt fest (Art. 18 Abs. 2 EPatVO)", "Bündel nationaler Schutzrechte in allen benannten EPÜ-Staaten (bis zu 39 plus Erstreckungs- und Validierungsstaaten), frei wählbar"],
+             ["Übergangszeit: eine vollständige Übersetzung zur Information (Art. 6 EPatÜVO); danach keine; im Streitfall Übersetzung auf Kosten des Inhabers (Art. 4 EPatÜVO); Kompensation 500 EUR für KMU u.a.", "Übersetzung der Patentschrift oder Ansprüche je nach Staat und Londoner Übereinkommen; keine Kompensation"],
+             ["Eine Gebühr an das EPA nach Art. 2 GebOEPS (2. bis 20. Jahr 35 bis 4 855 EUR, gesamt 35 555 EUR); Nachfrist sechs Monate mit 50 % Zuschlag (R. 13 DOEPS); 15 % Ermäßigung bei Lizenzbereitschaft", "Nationale Jahresgebühren je Staat in Landeswährung mit eigenen Fristen und Vertretern (Art. 141 EPÜ; § 17 PatG, § 7 PatKostG)"],
+             ["Übertragung nur für alle Staaten, Lizenz auch für Teilgebiete (Art. 3 Abs. 2 EPatVO); Eintragung zentral im Register für den einheitlichen Patentschutz (R. 15, 16 DOEPS); Vermögensstatut nach Art. 7 EPatVO", "Jeder nationale Teil ist getrennt übertragbar und wird im nationalen Register eingetragen (§ 30 PatG)"],
+             ["Art. 25 bis 30 EPGÜ über die Verweisung des Art. 5 Abs. 3 EPatVO, einheitlich für alle Staaten", "Nationales Recht (§§ 9 ff. PatG) oder, ohne Opt-out, Art. 25 bis 30 EPGÜ vor dem EPG"],
+             ["Ausschließlich das EPG, kein Opt-out (Art. 3 lit. a, Art. 32 EPGÜ); Klagen gegen EPA-Entscheidungen ebenfalls zum EPG (Art. 32 Abs. 1 lit. i)", "Übergangszeit bis 31.5.2030 (verlängerbar): Wahl zwischen EPG und nationalen Gerichten; Opt-out möglich (Art. 83 EPGÜ)"],
+             ["Nur für alle Staaten zugleich: Erlöschen bei Nichtzahlung (R. 14 DOEPS), Nichtigerklärung durch das EPG mit Wirkung für alle Staaten (Art. 34, 65 EPGÜ); Einspruch beim EPA weiterhin möglich", "Je Staat: nationale Nichtigkeitsklage (§ 81 PatG) oder EPG-Nichtigkeitsklage für alle Vertragsmitgliedstaaten; Erlöschen je Staat"],
+         ],
+         merksatz="Ein Antrag, ein Register, eine Gebühr, ein Gericht – das Einheitspatent ersetzt das Bündel durch ein einheitliches Recht, aber nur in den Staaten seiner Generation."),
     dict(id="d_upc_lokalkammer_zentralkammer", label="Lokal-/Regionalkammer vs. Zentralkammer",
          concepts=["upc_kammerzustaendigkeit", "upc_zentralkammer"],
          frage="Welche Klagen gehören vor die Lokal- oder Regionalkammer, welche vor die Zentralkammer?",

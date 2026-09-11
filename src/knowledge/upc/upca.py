@@ -11,7 +11,7 @@ from pathlib import Path
 
 from ..gesetze import qualify
 
-_KLEIN = {"und", "der", "des", "die", "das", "oder", "zur", "zum", "von", "vor", "dem", "den", "mit", "bei", "im", "in", "an", "auf", "für", "durch", "nach", "über", "aus", "als", "ohne", "eines", "einer", "sowie"}
+_KLEIN = {"und", "der", "des", "die", "das", "oder", "zur", "zum", "von", "vor", "dem", "den", "mit", "bei", "im", "in", "an", "auf", "für", "durch", "nach", "über", "aus", "als", "ohne", "eines", "einer", "sowie", "gemäss", "gemäß"}
 _GROSS = {"epgü", "epg", "epa", "epü", "eu", "esz", "cms"}
 
 
@@ -26,7 +26,7 @@ def schoen(s):
         if w in ("–", "-"):
             out.append(w); satzanfang = True
             continue
-        if lw.rstrip(".,") in _GROSS or all(c in "ivxlc" for c in lw):
+        if lw.strip(".,()") in _GROSS or all(c in "ivxlc" for c in lw):
             out.append(w.upper())
         elif not satzanfang and lw in _KLEIN:
             out.append(lw)

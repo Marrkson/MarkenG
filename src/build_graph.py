@@ -73,6 +73,8 @@ RICHTLINIEN = [
     dict(key="rop", kurz=upc.rop.KURZ, titel=upc.rop.TITEL, gesetz=upc.rop.GESETZ, artikel=upc.rop.REGELN,
          erwaegungsgruende=upc.rop.ERWAEGUNGSGRUENDE, url=upc.rop.URL, url_pdf=upc.rop.URL_PDF, paraphrase=False, zitat="R.",
          hinweis="Deutscher Wortlaut der konsolidierten Verfahrensordnung (unifiedpatentcourt.org, Änderungen vom 4.11.2025 in Kraft seit 1.1.2026); Präambel als Sammelknoten."),
+    # Einheitspatent: EPatVO, EPatÜVO, DOEPS, GebOEPS (src/knowledge/upc/einheitspatent.py; Zitierform Art. 3 EPatVO, R. 6 DOEPS)
+    *upc.einheitspatent.FAMILIEN,
 ]
 RL_BY_KURZ = {r["kurz"]: r["key"] for r in RICHTLINIEN}
 RL_BY_KURZ.update({k: v for k, v in EU_NORM_KEYS.items() if v in {r["key"] for r in RICHTLINIEN}})
@@ -191,6 +193,10 @@ def build():
     for w in IPWIKI:
         add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"],
                       url=IPWIKI_BASE + w["page"], provider="IPWiki"))
+    # UP-Richtlinien des EPA (Ausgabe April 2026) und EPA-Informationsseiten zum Einheitspatent als Quellen der Einheitspatent-Begriffe
+    for w in upc.einheitspatent.QUELLEN:
+        add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"], url=w["url"], provider=w["provider"],
+                      **({"titel_en": w["title_en"]} if w.get("title_en") else {})))
 
     # --- Entscheidungen ---
     for c in CASES:
@@ -208,7 +214,7 @@ def build():
             add_edge(f"concept:{c['id']}", f"concept:{r}", "related_to")
         for k in c["cases"]:
             add_edge(f"concept:{c['id']}", f"case:{k}", "illustrated_by")
-        for w in c["ipwiki"]:
+        for w in c["ipwiki"] + c.get("quellen", []):
             add_edge(f"concept:{c['id']}", f"source:{w}", "documented_in")
     for c in CASES:  # Rückrichtung aus der Entscheidungsperspektive
         for k in c["concepts"]:
@@ -293,7 +299,10 @@ def build():
             titel="Wissensgraph Markenrecht (MarkenG) und Einheitliches Patentgericht (EPGÜ, VerfO)",
             beschreibung="Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Markenrecht sowie zum Verfahren vor dem Einheitlichen Patentgericht; verbunden über die Durchsetzungsrichtlinie 2004/48/EG.",
             upc=dict(entscheidungen=upc.entscheidungen.META["anzahl"], zeitraum=upc.entscheidungen.META["zeitraum"], quelle=upc.entscheidungen.META["quelle"],
-                     upca_stand=upc.upca.META["stand"], rop_stand=upc.rop.META["stand"][:160]),
+                     upca_stand=upc.upca.META["stand"], rop_stand=upc.rop.META["stand"][:160],
+                     einheitspatent_stand=upc.einheitspatent.META["doeps"]["stand"], einheitspatent_quelle=upc.einheitspatent.META["doeps"].get("quelle_db", ""),
+                     up_richtlinien=upc.einheitspatent.UP_RL_STAND, up_richtlinien_quelle=upc.einheitspatent.RL_META.get("quelle_db", ""),
+                     up_richtlinien_url=upc.einheitspatent.UP_RL_URL, up_richtlinien_pdf=upc.einheitspatent.UP_RL_PDF),
             markenrl=dict(quelle=markenrl.URL, hinweis=RICHTLINIEN[0]["hinweis"]),
             richtlinien=[dict(key=r["key"], kurz=r["kurz"], titel=r["titel"], gesetz=r["gesetz"], quelle=r["url"], pdf=r["url_pdf"],
                               paraphrase=r["paraphrase"], hinweis=r["hinweis"], artikel=len(r["artikel"])) for r in RICHTLINIEN],

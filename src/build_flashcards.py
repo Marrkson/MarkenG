@@ -148,7 +148,7 @@ def generate(graph):
     for n in graph["nodes"]:
         if n["type"] != "eunorm" or n["nummer"] == "0":
             continue
-        upc = n["rl"] in ("upca", "rop")
+        upc = n["rl"] not in ("markenrl", "durchsetzungsrl")
         if upc and not n.get("hinweis") and not any(e["relation"] in ("defined_in", "applies", "interprets") for e in inc.get(n["id"], [])):
             continue
         umsetzung = [e["ref"] for e in inc.get(n["id"], []) if e["relation"] == "implements"]
@@ -168,7 +168,7 @@ def generate(graph):
             back += "\n\nUmsetzung im EPGÜ: " + ", ".join(ents_in)
         bezug = sorted({by_id[e["target"]]["label"] for e in out.get(n["id"], []) if e["relation"] == "konkretisiert"})
         if bezug:
-            back += "\n\nBezug zum Übereinkommen: " + ", ".join(bezug)
+            back += "\n\nBezug: " + ", ".join(bezug)
         if n.get("hinweis"):
             back += "\n\nHinweis: " + n["hinweis"]
         if n.get("zitiert"):

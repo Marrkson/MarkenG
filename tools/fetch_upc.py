@@ -10,6 +10,16 @@ Erzeugt (alle mitversioniert, damit `build.py` ohne Netz und ohne Datenbank läu
   data/upc_decisions.json  Alle Entscheidungen und Anordnungen aus der Tabelle UpcDecision (RheinIP-Datenbank):
                            Metadaten, Leitsätze/Schlagworte (aus dem Volltext extrahiert), zitierte Artikel
                            und Regeln (Zählung im Volltext). Volltexte werden nicht versioniert.
+  data/up_epatvo.json      Verordnung (EU) Nr. 1257/2012 (Einheitspatent, EPatVO), Art. 1–18, deutsch und englisch (epo.org)
+  data/up_epatuevo.json    Verordnung (EU) Nr. 1260/2012 (Übersetzungsregelungen, EPatÜVO), Art. 1–7
+  data/up_doeps.json       Durchführungsordnung zum einheitlichen Patentschutz (DOEPS, engl. UPR), Regeln 1–24
+  data/up_gebeps.json     Gebührenordnung zum einheitlichen Patentschutz (GebOEPS, engl. RFeesUPP), Art. 1–7
+                           (Quelle: RheinIP-Datenbank, Tabelle UPLegaltext, instrument epatvo/epatuevo/doeps/gebeps, deutsch und englisch,
+                           Spiegel der fortlaufend aktualisierten HTML-Sammlung „Rechtstexte zum Einheitspatentsystem“ auf epo.org;
+                           ohne Datenbank (--no-db) direkt von epo.org bzw. aus dem Cache)
+  data/up_richtlinien.json UP-Richtlinien (Richtlinien für das Einheitspatent, Ausgabe 2026) abschnittsweise und die EPA-Informationsseiten
+                           zum Einheitspatent (epo.org/de/applying/european/unitary/unitary-patent/*), deutsch mit englischen Titeln
+                           (UPLegaltext, instrument up-gl und up-info; nur aus der Datenbank, mit --no-db bleibt die Datei unverändert)
 
 Aufruf:  python3 tools/fetch_upc.py [--no-net] [--no-db]
 Zwischenstände (HTML, PDF) liegen in ~/.cache/ipelico/upc/. Postgres-Zugang: POSTGRES_LOGIN aus
@@ -124,6 +134,172 @@ def build_upca(net):
                 quelle="https://www.epo.org/de/legal/up-upc/2022/index.html", stand="Fassung 2022 (epo.org, Rechtstexte Einheitspatent und EPG)",
                 hinweis="Amtlicher Wortlaut; deutsche, englische und französische Fassung sind gleichermaßen verbindlich (Art. 88 UPCA).")
     return dict(meta=meta, artikel=arts)
+
+
+# ---------------------------------------------------------------- Einheitspatent: EPatVO, EPatÜVO, DOEPS, GebOEPS (epo.org, HTML je Artikel/Regel)
+EPO_URL = "https://www.epo.org/%s/legal/up-upc/2022/%s_%d.html"
+_HEAD = re.compile(r"^(Artikel|Article|Regel|Rule)\s+(\d+)(?:\s+(.+))?$")
+UP_TEXTE = [
+    dict(key="epatvo", prefix="eu20121257", n=18, kopf=("Artikel", "Article"), datei="up_epatvo.json", kurz="EPatVO",
+         titel="Verordnung (EU) Nr. 1257/2012 über die Umsetzung der Verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes (EPatVO)",
+         hinweis="Amtlicher Wortlaut (ABl. EU L 361 vom 31.12.2012, S. 1; ABl. EPA 2013, 111); in Kraft seit 20.1.2013, anwendbar seit 1.6.2023 (Art. 18)."),
+    dict(key="epatuevo", prefix="eu20121260", n=7, kopf=("Artikel", "Article"), datei="up_epatuevo.json", kurz="EPatÜVO",
+         titel="Verordnung (EU) Nr. 1260/2012 über die Umsetzung der Verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes im Hinblick auf die anzuwendenden Übersetzungsregelungen (EPatÜVO)",
+         hinweis="Amtlicher Wortlaut (ABl. EU L 361 vom 31.12.2012, S. 89; ABl. EPA 2013, 132); in Kraft seit 20.1.2013, anwendbar seit 1.6.2023 (Art. 7)."),
+    dict(key="doeps", prefix="upr", n=24, kopf=("Regel", "Rule"), datei="up_doeps.json", kurz="DOEPS",
+         titel="Durchführungsordnung zum einheitlichen Patentschutz (DOEPS)",
+         hinweis="Beschluss des Engeren Ausschusses des Verwaltungsrats vom 15.12.2015 (SC/D 1/15), zuletzt geändert durch Beschluss vom 9.10.2025 (laut epo.org, HTML-Sammlung Rechtstexte zum Einheitspatentsystem)."),
+    dict(key="gebeps", prefix="upf", n=7, kopf=("Artikel", "Article"), datei="up_gebeps.json", kurz="GebOEPS",
+         titel="Gebührenordnung zum einheitlichen Patentschutz (GebOEPS)",
+         hinweis="Beschluss des Engeren Ausschusses des Verwaltungsrats vom 15.12.2015 (SC/D 2/15), zuletzt geändert durch Beschluss vom 9.10.2025 (laut epo.org); Jahresgebührenbeträge stehen in Art. 2."),
+]
+
+
+def parse_epo_page(html, nr, lang, kopf):
+    m = _MAIN.search(html)
+    return parse_epo_lines(_lines(m.group(0) if m else html), nr, lang, kopf)
+
+
+def parse_epo_lines(lines, nr, lang, kopf):
+    """Artikel-/Regelseite der epo.org-Sammlung (als Zeilen, aus HTML oder aus UPLegaltext.text): Kapitelzeile, Kopf
+    („Artikel 3“ oder „Article 4 Title“), Titel, Absätze. Absatzmarken sind „(1)“ (EPGÜ, DOEPS) oder „1.“ (EU-Verordnungen,
+    englische Fassung); Buchstabenpunkte bleiben im Absatztext."""
+    lines = [ln for ln in (re.sub(r"\s+", " ", x.replace("\xa0", " ")).strip() for x in lines) if ln]
+    ueb = "Übersicht" if lang == "de" else "Overview"
+    i, head = None, None
+    for k, ln in enumerate(lines):
+        h = _HEAD.match(ln)
+        if h and h.group(1) == kopf and int(h.group(2)) == nr and k > 0 and lines[k - 1] == ueb:
+            i, head = k, h
+            break
+    if i is None:
+        raise SystemExit("%s %d (%s): Textblock nicht gefunden" % (kopf, nr, lang))
+    kapitel = lines[i - 2] if re.match(r"(KAPITEL|CHAPTER)\b", lines[i - 2]) else ""
+    if head.group(3):
+        titel, start = head.group(3).strip(), i + 1
+    else:
+        titel, start = lines[i + 1], i + 2
+    body = []
+    for ln in lines[start:]:
+        if ln in ("Weiter", "Zurück", "Next", "Previous", "Show modifications") or ln.startswith("Drucken") or ln.startswith("Print"):
+            break
+        body.append(ln)
+    absaetze, cur = [], ""
+    for ln in body:
+        if re.fullmatch(r"\(\d+\)", ln) or re.fullmatch(r"\d+\.", ln):
+            if cur.strip():
+                absaetze.append(cur.strip())
+            cur = ("(%s) " % ln.strip("().")) if ln.endswith(".") else ln + " "
+            continue
+        cur += ln + " "
+    if cur.strip():
+        absaetze.append(cur.strip())
+    absaetze = [re.sub(r"\s+([,.;:)])", r"\1", re.sub(r"\(\s+", "(", a)) for a in absaetze]
+    return dict(nr=nr, titel=titel, kapitel=kapitel, absaetze=absaetze)
+
+
+def parse_teile_prefix(html, prefix):
+    """Teil-Überschriften (TEIL I – …) aus dem Inhaltsverzeichnis je Nummer; leer bei Texten ohne Teile (Verordnungen, GebOEPS)."""
+    teile = {}
+    html = html.replace("\xa0", " ").replace("\u200d", "")  # Menü schreibt „TEIL I“ mit geschütztem Leerzeichen, „NR. 1257“ mit Zero-Width-Joiner
+    for m in re.finditer(r'\["(TEIL [IVX]+ – [^"]+)","/de/legal/up-upc/2022/' + re.escape(prefix) + r'_p', html):
+        start = m.start()
+        nxt = re.search(r'\["TEIL [IVX]+ – ', html[m.end():])
+        chunk = html[start: m.end() + nxt.start()] if nxt else html[start:start + 60000]
+        for a in re.findall(re.escape(prefix) + r"_(\d+)\.html", chunk):
+            teile.setdefault(int(a), re.sub(r"\s+", " ", m.group(1)))
+    return teile
+
+
+def parse_teile_index(text):
+    """Teil-Überschrift je Regel/Artikel aus dem Inhaltsverzeichnis (UPLegaltext, sectionId index): Zeilen „TEIL II – …“,
+    darunter „Regel 5“ / „Artikel 3“ als eigene Zeilen."""
+    teile, cur = {}, ""
+    for ln in text.replace("\xa0", " ").replace("\u200d", "").split("\n"):
+        ln = re.sub(r"\s+", " ", ln).strip()
+        if ln.startswith("TEIL "):
+            cur = ln
+        m = re.fullmatch(r"(?:Regel|Artikel) (\d+)", ln)
+        if m and cur:
+            teile.setdefault(int(m.group(1)), cur)
+    return teile
+
+
+def up_db_rows():
+    """Alle Zeilen der Tabelle UPLegaltext: {(instrument, lang, sectionId): dict(text, url, titel, stand)}."""
+    cur = _db_cursor()
+    cur.execute('select instrument, lang, "sectionId", text, url, "documentTitle", "updatedAt" from "UPLegaltext"')
+    return {(i, l, sec): dict(text=t or "", url=u, titel=d or "", stand=up.date().isoformat() if up else "") for i, l, sec, t, u, d, up in cur.fetchall()}
+
+
+def build_up_text(t, net, db=None):
+    """Aus der Datenbank (UPLegaltext, Vorrang) oder von epo.org (HTML-Cache)."""
+    de, en, teile, urls = {}, {}, {}, {}
+    sec = "r" if t["kopf"][0] == "Regel" else "a"
+    stand = ""
+    for nr in range(1, t["n"] + 1):
+        for lang, store, kopf in (("de", de, t["kopf"][0]), ("en", en, t["kopf"][1])):
+            row = db.get((t["key"], lang, "%s%d" % (sec, nr))) if db else None
+            if row:
+                store[nr] = parse_epo_lines(row["text"].split("\n"), nr, lang, kopf)
+                urls[(lang, nr)] = row["url"]
+                stand = max(stand, row["stand"])
+            else:
+                raw = fetch(EPO_URL % (lang, t["prefix"], nr), CACHE / "up_html" / ("%s_%s_%d.html" % (t["prefix"], lang, nr)), net).decode("utf-8", "replace")
+                store[nr] = parse_epo_page(raw, nr, lang, kopf)
+                urls[(lang, nr)] = EPO_URL % (lang, t["prefix"], nr)
+                if lang == "de" and not teile:
+                    teile = parse_teile_prefix(raw, t["prefix"])
+    if db and (t["key"], "de", "index") in db:
+        teile = parse_teile_index(db[(t["key"], "de", "index")]["text"]) or teile
+    arts = []
+    for nr in range(1, t["n"] + 1):
+        d, e = de[nr], en[nr]
+        arts.append(dict(nr=nr, titel=d["titel"], titel_en=e["titel"], teil=teile.get(nr, ""), kapitel=d["kapitel"], kapitel_en=e["kapitel"],
+                         absaetze=d["absaetze"], absaetze_en=e["absaetze"], url=urls[("de", nr)], url_en=urls[("en", nr)]))
+    quelle_db = "RheinIP-Datenbank, Tabelle UPLegaltext (Spiegel von epo.org, Stand %s)" % stand if stand else "epo.org (HTML-Sammlung, ohne Datenbank abgerufen)"
+    meta = dict(titel=t["titel"], kurz=t["kurz"], zitat=t["kopf"][0], quelle="https://www.epo.org/de/legal/up-upc/2022/%s.html" % t["prefix"],
+                quelle_db=quelle_db, stand="HTML-Sammlung „Rechtstexte zum Einheitspatentsystem“ (epo.org, fortlaufend aktualisiert); %s" % quelle_db, hinweis=t["hinweis"])
+    return dict(meta=meta, artikel=arts)
+
+
+def _gl_text(text):
+    """Abschnittstext der UP-Richtlinien: erste Zeile ist die Überschrift; Zeilenumbrüche der Zitate wieder zusammenziehen."""
+    lines = [re.sub(r"\s+", " ", x.replace("\xa0", " ")).strip() for x in text.split("\n")]
+    lines = [x for x in lines if x and x not in ("Zurück", "Weiter", "Previous", "Next")]
+    head = lines[0] if lines else ""
+    body = " ".join(lines[1:])
+    body = re.sub(r"\s+([,.;:)])", r"\1", re.sub(r"\(\s+", "(", body))
+    return head, body
+
+
+def build_up_richtlinien(db):
+    """UP-Richtlinien (up-gl) abschnittsweise und EPA-Informationsseiten (up-info), deutsch; englische Titel und URLs dazu."""
+    abschnitte, info, stand = [], [], ""
+    for (inst, lang, sec), row in sorted(db.items(), key=lambda kv: (kv[0][0], [int(x) if x.isdigit() else x for x in kv[0][2].split("_")])):
+        if lang != "de" or inst not in ("up-gl", "up-info"):
+            continue
+        en = db.get((inst, "en", sec)) or {}
+        head, body = _gl_text(row["text"])
+        head_en = _gl_text(en["text"])[0] if en else ""
+        stand = max(stand, row["stand"])
+        if inst == "up-gl":
+            m = re.match(r"([\d.]+)\.?\s+(.*)", head)
+            nr, titel = (m.group(1), m.group(2)) if m else (sec.replace("_", "."), head)
+            abschnitte.append(dict(id=sec, nr=nr, titel=titel, titel_en=re.sub(r"^[\d.]+\s+", "", head_en), url=row["url"], url_en=en.get("url", ""), text=body))
+        else:
+            lines = [x for x in _gl_text(row["text"])]
+            abschnitte_txt = row["text"].split("\n")
+            # Informationsseiten: Titel = erste Zeile nach den Navigationszeilen (Einheitspatent & …, Einheitspatent, Übersicht)
+            body_lines = [re.sub(r"\s+", " ", x.replace("\xa0", " ")).strip() for x in abschnitte_txt]
+            body_lines = [x for x in body_lines if x][3:]
+            info.append(dict(id=sec, titel=body_lines[0] if body_lines else sec, titel_en=(re.sub(r"\s+", " ", (en.get("text", "").split("\n") + ["", "", "", ""])[3]).strip() if en else ""),
+                             url=row["url"], url_en=en.get("url", ""), text=" ".join(body_lines[1:])))
+    meta = dict(titel="Richtlinien für das Einheitspatent (UP-Richtlinien), Ausgabe April 2026, und EPA-Informationsseiten zum Einheitspatent",
+                quelle="https://www.epo.org/de/legal/guidelines-up", quelle_info="https://www.epo.org/de/applying/european/unitary/unitary-patent",
+                quelle_db="RheinIP-Datenbank, Tabelle UPLegaltext (instrument up-gl, up-info; Spiegel von epo.org, Stand %s)" % stand,
+                stand="Ausgabe April 2026 (in Kraft seit 1.4.2026, ABl. EPA 2026, A6); Informationsseiten Stand Juni 2026", hinweis="Nur deutscher Text; englische Titel und URLs je Abschnitt.")
+    return dict(meta=meta, abschnitte=abschnitte, info=info)
 
 
 # ---------------------------------------------------------------- Verfahrensordnung (PDF -> pdftotext)
@@ -254,14 +430,17 @@ def _clean(s):
     return re.sub(r"\s{2,}", " ", s)
 
 
-def build_decisions():
-    sys.path.insert(0, str(Path.home() / "github" / "RheinIP" / "script"))
+def _db_cursor():
     from dotenv import load_dotenv
     import psycopg2
     load_dotenv(Path.home() / "github" / "RheinIP" / ".env")
     conn = psycopg2.connect(os.environ["POSTGRES_LOGIN"], connect_timeout=30)
     conn.set_session(readonly=True)
-    cur = conn.cursor()
+    return conn.cursor()
+
+
+def build_decisions():
+    cur = _db_cursor()
     cur.execute('select docket, "decisionType", "decisionDate", division, language, claimant, respondent, patent, url, "decisionText" '
                 'from "UpcDecision" order by "decisionDate", docket')
     out = []
@@ -294,6 +473,17 @@ def main():
     r = build_rop(net)
     (DATA / "upc_rop.json").write_text(json.dumps(r, ensure_ascii=False, indent=1), encoding="utf-8")
     print("upc_rop.json: %d Regeln; Stand: %s" % (len(r["regeln"]), r["meta"]["stand"][:120]))
+    db = None if "--no-db" in sys.argv else up_db_rows()
+    for t in UP_TEXTE:
+        d = build_up_text(t, net, db)
+        (DATA / t["datei"]).write_text(json.dumps(d, ensure_ascii=False, indent=1), encoding="utf-8")
+        print("%s: %d %s (%s)" % (t["datei"], len(d["artikel"]), "Regeln" if t["kopf"][0] == "Regel" else "Artikel", d["meta"]["quelle_db"][:60]))
+    if db:
+        g = build_up_richtlinien(db)
+        (DATA / "up_richtlinien.json").write_text(json.dumps(g, ensure_ascii=False, indent=1), encoding="utf-8")
+        print("up_richtlinien.json: %d Abschnitte, %d Informationsseiten" % (len(g["abschnitte"]), len(g["info"])))
+    else:
+        print("up_richtlinien.json unverändert (--no-db)")
 
 
 if __name__ == "__main__":

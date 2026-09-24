@@ -18,12 +18,14 @@ sys.path.insert(0, str(ROOT / "src"))
 from knowledge.gesetze import js_source  # noqa: E402
 from knowledge.kurse import KURSE, GEBIETE  # noqa: E402
 from knowledge.upc import entscheidungen as upc_entscheidungen  # noqa: E402
+from knowledge.patent import entscheidungen as pat_entscheidungen  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
 ASSETS = ROOT / "src" / "templates" / "ipelico"
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
 OUT = ROOT / "docs" / "index.html"
 EPG_DB = ROOT / "docs" / "upc_entscheidungen.json"  # Entscheidungskorpus des EPG, von IPelico nachgeladen (#/epg)
+PAT_DB = ROOT / "docs" / "patent_entscheidungen.json"  # Entscheidungskorpus BPatG/BGH, nachgeladen (#/bpatg)
 DATA = ROOT / "data" / "kurse.json"
 
 # Icons, die das Template verwendet; fehlt eines im Sprite, bricht der Build ab.
@@ -151,6 +153,9 @@ def build():
     epg = upc_entscheidungen.kompakt()
     EPG_DB.write_text(json.dumps(epg, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"EPG-Rechtsprechung: {epg['meta']['anzahl']} Entscheidungen -> {EPG_DB.relative_to(ROOT)} ({EPG_DB.stat().st_size/1024:.0f} KB)")
+    pat = pat_entscheidungen.kompakt()
+    PAT_DB.write_text(json.dumps(pat, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"BPatG/BGH-Rechtsprechung: {pat['meta']['anzahl']} Entscheidungen -> {PAT_DB.relative_to(ROOT)} ({PAT_DB.stat().st_size/1024:.0f} KB)")
     app_icons()
     n = sum(len(k["einheiten"]) for kurs in KURSE for k in kurs["kapitel"])
     print(f"IPelico: {len(KURSE)} Kurse, {n} Einheiten, Sprite {len(sp)/1024:.0f} KB -> "

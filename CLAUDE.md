@@ -20,3 +20,8 @@
   `data/up_doeps.json`, `data/up_gebeps.json`, `data/up_richtlinien.json` (aus der Tabelle `UPLegaltext` der
   RheinIP-Datenbank); Zitierform `Art. 3 EPatVO`, `Art. 6 EPatÜVO`, `R. 6 Abs. 1 DOEPS`, `Art. 2 GebOEPS`; UP-Richtlinien
   und EPA-Informationsseiten als `source`-Knoten (`quellen=["uprl:2.4", "upinfo:cost"]`).
+- Drittes Wissenspaket Patentrecht (`src/knowledge/patent/`): Normtexte `data/patg.json`, `patv.json`, `intpatueg.json`, `patkostg.json`
+  (XML von gesetze-im-internet.de) und Korpus `data/patent_decisions.json` (BPatG-Nichtigkeits- und Beschwerdesenate, BGH-Patentsachen aus
+  den Tabellen BpatgDecision/BghDecision/DeCourtNorm der RheinIP-Datenbank), beides aus `tools/fetch_patent.py` (PLAYBOOK Abschnitt 12).
+  Zitierform `§ 3 Abs. 1 PatG`, `§ 9 PatV`, `Art. II § 6 Abs. 1 Nr. 3 IntPatÜG`, `§ 6 PatKostG`, `Anlage PatKostG`. Leitentscheidungen in
+  `patent/cases.py` werden beim Import gegen den Korpus geprüft (Aktenzeichen + Datum); unbekannte Entscheidungen brechen den Build ab.

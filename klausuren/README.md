@@ -60,3 +60,56 @@ Gesetz, ständige Rechtsprechung und, soweit vorhanden, die Lösungshinweise.
 cd klausuren/ns && while read u; do curl -sL -A "Mozilla/5.0" -O "$u"; done < urls.txt
 for f in *.pdf; do pdftotext -layout "$f" "txt/${f%.pdf}.txt"; done
 ```
+
+# Klausuren Patentanwaltsprüfung – Technische Schutzrechte (TS)
+
+Quelle: dieselbe Seite von kandidatentreff.de. Die PDFs (Aufgaben `PAP-<Jahr>-<Termin>-TS.pdf`, Lösungsskizzen
+`L-PAP-2018-II-TS.pdf`, `L-PAP-2018-II-TS_2.pdf`, `L-PAP-2018-III-TS.pdf`) liegen unter `ts/`, die Textextrakte unter
+`ts/txt/`; beide sind nicht versioniert, die URLs stehen in `ts/urls.txt`. Stand des Downloads: 24. September 2026.
+
+Daraus entstand der Kurs **„Klausurtraining TS“** (`src/knowledge/kurse/p01_klausurtraining_ts.py`, Rechtsgebiet
+`patg`) mit 61 Einheiten in neun Kapiteln (Aufbau, Anmeldung, Priorität/Teilung/Abzweigung, Neuheit und Vorbenutzung,
+Einspruch Zulässigkeit, Einspruch Widerrufsgründe, Nichtigkeitsklage, Beschwerde und Wiedereinsetzung, Verletzung und
+Entnahme). Die Einheiten verweisen auf die Begriffe, Schemata, Abgrenzungen und Leitentscheidungen des Patentpakets
+(`src/knowledge/patent/`).
+
+## Klausuren und Themen
+
+Anders als die NS-Klausuren sind die TS-Klausuren durchweg konstruierte Lehrfälle ohne einen zugrunde liegenden
+Beschluss (Namen wie „Flintenschuß KG“, Aktenzeichen wie „DE 111“). Eine Zuordnung zu Entscheidungen entfällt; wo eine
+Leitentscheidung die Rechtsfrage trägt, ist sie in der Einheit verlinkt. Lösungsskizzen von kandidatentreff.de gibt es
+nur für II/2018 und III/2018; sie decken sich mit den Lösungen im Kurs (Einspruch vor Veröffentlichung unzulässig,
+Erledigung bei Verzicht, Abzweigung mit Gebrauchsmuster-Schonfrist).
+
+| Klausur | Themen | Lösungsskizze | Einheiten |
+|---|---|---|---|
+| TS II/2018 | Fünf Einsprüche (vor Veröffentlichung, unsubstantiierte Vorbenutzung, PIZ, gemeinsame Gebühr, Erweiterung aus Zeichnung); Messevorführung und Gebrauchsmuster-Schonfrist | ja | p01d-1, p01d-6, p01e-1, p01e-2 |
+| TS III/2018 | Nichtigkeit eines EP (Technizität Haustierfutter-Verfahren), WO-Anmeldung als Stand der Technik, Priorität bei vier US-Erfindern | ja | p01c-2, p01g-7 |
+| TS I/2019 | Rechtskraft der Klageabweisung, Popularklage, Streitwert, Vergleich vor Zustellung an Verkündungs Statt | nein | p01g-1, p01g-2, p01g-3 |
+| TS II/2019 | Englische Anmeldung ohne Übersetzung, Priorität eines Mitanmelders, Einspruch mit Vorbenutzung, vier Abzweigungen, Löschungsverfahren | nein | p01b-3, p01c-2, p01c-5, p01e-4 |
+| TS III/2019 | Gebührenfreie Voranmeldung, Prioritätsintervall, § 83-Hinweis und verspäteter Hilfsantrag, Nichtangriff, Lizenzrückzahlung | nein | p01c-1, p01d-4, p01g-6 |
+| TS I/2020 | Erloschenes Patent, Jahresgebühren-Dienstleister, Entschädigung § 33, Teilanmeldung, Priorität aus Figuren | nein | p01h-6, p01i-2, p01i-3 |
+| TS II/2020 | Einspruchsschriftsatz mit sechs Druckschriften, verspätete Entgegenhaltung, Gebrauchsmuster für Verfahren, Kauf des Wettbewerbers | nein | p01f-3, p01e-7 |
+| TS III/2020 | PIZ-Eingang, Übersetzung, Anhörungspflicht, Hilfsanträge aus Figuren, Anträge, Beschwerdefrist, Teilung | nein | p01b-4, p01c-4, p01f-7, p01h-4 |
+| TS I/2021 | Teilung um 23:30 Uhr, sieben Vorbenutzungen, Ausstellungsschutz, Gebrauchsmuster, italienisches Handbuch | nein | p01c-3, p01d-2 |
+| TS II/2021 | Beschwerde zweier Inhaberinnen, Beteiligtenstellung, Verschlechterungsverbot, einschränkendes nicht offenbartes Merkmal, Aliud | nein | p01f-4, p01h-2 |
+| TS III/2021 | Berechtigungsanfrage, Vorbenutzungsrecht, Widerrufsgründe, Insolvenz, Nachanmeldung, Miterfinder, Klagesperre | nein | p01c-6, p01c-7, p01d-3, p01f-1, p01g-4, p01i-1, p01i-5 |
+| TS I/2022 | Formmängel, drei Einsprüche (falsche Gebührennummer, Angestellte, geschwärzte Beweise), Verteidigung, Verletzung | nein | p01e-3 |
+| TS II/2022 | Offene Bereichsangabe, PCT-Schrift als ältere Anmeldung, Beschwerdefrist, Vorbenutzung Las Vegas, Entnahme, Ausführbarkeit von Amts wegen | nein | p01d-5, p01f-5, p01h-1 |
+| TS III/2022 | GbR als Anmelderin, Gebühren, Prüfungsantragsfrist, PCT-Nachanmeldung eines Miterfinders, Blogeintrag | nein | p01b-1, p01b-7, p01g-4 |
+| TS I/2023 | Drei Einsprüche (PIZ Hamburg, Teilgebühr, Wiedereinsetzung), Beitritt, generische Formel, Rechtsbeschwerde | nein | p01d-5, p01d-7, p01e-2, p01e-6 |
+| TS II/2023 | Doppelpatentierung DE/EP, Einspruch mit eigener älterer Anmeldung, Sprache, neue Beweismittel in der Beschwerde, Klageschrift | nein | p01f-2, p01g-5 |
+| TS III/2023 | Mehrfachpriorität, Teilpriorität, Übersetzungsfehler, Rücknahme in der Anhörung | nein | p01c-8, p01h-7 |
+| TS I/2024 | Widerrechtliche Entnahme (Konstruktionszeichnung), Einspruch, SEPA-Mandat, Hilfsantrag der Freundin, Inlandsvertreter | nein | p01f-6, p01h-3 |
+| TS II/2024 | Elf Ansprüche mit 60 EUR, Priorität, Zurückweisung nach Fristablauf, Weiterbehandlung, Rache-Fachartikel, Miterfinder | nein | p01b-2, p01h-7, p01i-6 |
+| TS III/2024 | Anmeldetag und nachgereichte Figuren, Anhörung in Abwesenheit, rechtliches Gehör, ausgeschlossener Richter | nein | p01b-6, p01h-5 |
+| TS I/2025 | Gleiche Merkmale, anderes Substrat; Vorbenutzung; Miterfinderin; US-Priorität; Entnahme im Nichtigkeitsverfahren | nein | p01i-7 |
+| TS II/2025 | Fehlgeschlagenes Fax am Prioritätstag, erfinderische Tätigkeit, vier Einsprüche (Vorbenutzung, Gebühren), Beschwerde | nein | p01b-5, p01e-2, p01e-5 |
+| TS III/2025 | Geschäftsführer als Miterfinder, Priorität, Einspruch einer Kanzlei, Lizenz, Foreign Filing License, Rechtsnachfolge | nein | p01i-4 |
+
+## Erneut herunterladen
+
+```bash
+cd klausuren/ts && while read u; do curl -sL -A "Mozilla/5.0" -O "$u"; done < urls.txt
+mkdir -p txt && for f in *.pdf; do pdftotext -layout "$f" "txt/${f%.pdf}.txt"; done
+```

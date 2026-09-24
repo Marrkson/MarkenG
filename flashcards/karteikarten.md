@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht und Einheitliches Patentgericht
 
-1330 Karten, generiert aus graph/markenrecht_graph.json.
+1839 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -5422,6 +5422,1980 @@ Die Art. 56 bis 69 und [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/D
 
 ---
 
+## definition
+
+**F:** Definiere: Erfindung und Patentfähigkeit ([§ 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html))
+
+**A:** Patente werden für Erfindungen auf allen Gebieten der Technik erteilt, die neu sind, auf erfinderischer Tätigkeit beruhen und gewerblich anwendbar sind ([§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html)). Eine Erfindung ist eine Lehre zum planmäßigen Handeln unter Einsatz beherrschbarer Naturkräfte zur Erreichung eines kausal übersehbaren Erfolgs (Technizität).
+
+Normen: [§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG, [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG, [§ 5 PatG](https://www.gesetze-im-internet.de/patg/__5.html) MarkenG
+
+Rechtsprechung: BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Patente werden für Erfindungen auf allen Gebieten der Technik erteilt, die neu sind, auf erfinderischer Tätigkeit beruhen und gewerblich anwendbar sind ([§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html)). Eine Erfindung ist eine Lehre zum planmäßigen Handeln unter Einsatz beherrschbarer Naturkräfte zur Erreichung eines kausal übersehbaren Erfolgs (Technizität).
+
+**A:** Erfindung und Patentfähigkeit ([§ 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html))
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Technizität
+
+**A:** Technisch ist eine Lehre, die den Einsatz beherrschbarer Naturkräfte zur unmittelbaren Herbeiführung eines kausal übersehbaren Erfolgs vorsieht; sie ist Voraussetzung jeder Erfindung ([§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html)) und wird vom Negativkatalog des [§ 1 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html) nur „als solche“ ausgeschlossen ([§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html)).
+
+Normen: [§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 1 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG
+
+Rechtsprechung: BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07); BGH Webseitenanzeige (X ZR 121/09); BGH Rezeptortyrosinkinase (X ZR 141/13); BGH Dynamische Dokumentengenerierung (Xa ZB 20/08)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Technisch ist eine Lehre, die den Einsatz beherrschbarer Naturkräfte zur unmittelbaren Herbeiführung eines kausal übersehbaren Erfolgs vorsieht; sie ist Voraussetzung jeder Erfindung ([§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html)) und wird vom Negativkatalog des [§ 1 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html) nur „als solche“ ausgeschlossen ([§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html)).
+
+**A:** Technizität
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Computerprogramme und Geschäftsmethoden ([§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html))
+
+**A:** Programme für Datenverarbeitungsanlagen, Regeln für geistige Tätigkeiten und Geschäftsmethoden sind als solche keine Erfindungen ([§ 1 Abs. 3 Nr. 3](https://www.gesetze-im-internet.de/markeng/__1.html), Abs. 4 PatG). Patentfähig ist eine programmbezogene Lehre, wenn sie ein konkretes technisches Problem mit technischen Mitteln löst.
+
+Normen: [§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG
+
+Rechtsprechung: BGH Dynamische Dokumentengenerierung (Xa ZB 20/08); BGH Webseitenanzeige (X ZR 121/09); BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Programme für Datenverarbeitungsanlagen, Regeln für geistige Tätigkeiten und Geschäftsmethoden sind als solche keine Erfindungen ([§ 1 Abs. 3 Nr. 3](https://www.gesetze-im-internet.de/markeng/__1.html), Abs. 4 PatG). Patentfähig ist eine programmbezogene Lehre, wenn sie ein konkretes technisches Problem mit technischen Mitteln löst.
+
+**A:** Computerprogramme und Geschäftsmethoden ([§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html))
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Biotechnologische Erfindungen (§§ [1a](https://www.gesetze-im-internet.de/patg/__1a.html), [2](https://www.gesetze-im-internet.de/patg/__2.html), [2a](https://www.gesetze-im-internet.de/patg/__2a.html) PatG)
+
+**A:** Der menschliche Körper und die bloße Entdeckung seiner Bestandteile einschließlich Gensequenzen sind nicht patentfähig ([§ 1a Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1a.html)); isolierte Bestandteile mit angegebener Funktion sind es ([§ 1a Abs. 2, 3](https://www.gesetze-im-internet.de/markeng/__1a.html)). Ausgeschlossen sind Verfahren gegen die öffentliche Ordnung ([§ 2 PatG](https://www.gesetze-im-internet.de/patg/__2.html)), Pflanzensorten, Tierrassen und im Wesentlichen biologische Züchtungsverfahren ([§ 2a PatG](https://www.gesetze-im-internet.de/patg/__2a.html)).
+
+Normen: [§ 1a PatG](https://www.gesetze-im-internet.de/patg/__1a.html) MarkenG, [§ 2 PatG](https://www.gesetze-im-internet.de/patg/__2.html) MarkenG, [§ 2a PatG](https://www.gesetze-im-internet.de/patg/__2a.html) MarkenG, [§ 9a PatG](https://www.gesetze-im-internet.de/patg/__9a.html) MarkenG, [§ 9c PatG](https://www.gesetze-im-internet.de/patg/__9c.html) MarkenG
+
+Rechtsprechung: BGH Rezeptortyrosinkinase (X ZR 141/13)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der menschliche Körper und die bloße Entdeckung seiner Bestandteile einschließlich Gensequenzen sind nicht patentfähig ([§ 1a Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1a.html)); isolierte Bestandteile mit angegebener Funktion sind es ([§ 1a Abs. 2, 3](https://www.gesetze-im-internet.de/markeng/__1a.html)). Ausgeschlossen sind Verfahren gegen die öffentliche Ordnung ([§ 2 PatG](https://www.gesetze-im-internet.de/patg/__2.html)), Pflanzensorten, Tierrassen und im Wesentlichen biologische Züchtungsverfahren ([§ 2a PatG](https://www.gesetze-im-internet.de/patg/__2a.html)).
+
+**A:** Biotechnologische Erfindungen (§§ [1a](https://www.gesetze-im-internet.de/patg/__1a.html), [2](https://www.gesetze-im-internet.de/patg/__2.html), [2a](https://www.gesetze-im-internet.de/patg/__2a.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Therapeutische, chirurgische und diagnostische Verfahren
+
+**A:** Verfahren zur chirurgischen oder therapeutischen Behandlung des menschlichen oder tierischen Körpers und Diagnostizierverfahren am Körper sind vom Patentschutz ausgeschlossen ([§ 2a Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__2a.html)); Erzeugnisse zur Anwendung in diesen Verfahren sind patentfähig.
+
+Normen: [§ 2a Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__2a.html) MarkenG, [§ 5 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__5.html) MarkenG, [§ 3 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG
+
+Rechtsprechung: BGH Carvedilol II (X ZR 236/01)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verfahren zur chirurgischen oder therapeutischen Behandlung des menschlichen oder tierischen Körpers und Diagnostizierverfahren am Körper sind vom Patentschutz ausgeschlossen ([§ 2a Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__2a.html)); Erzeugnisse zur Anwendung in diesen Verfahren sind patentfähig.
+
+**A:** Therapeutische, chirurgische und diagnostische Verfahren
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Neuheit und Stand der Technik ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html))
+
+**A:** Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehört; dieser umfasst alle Kenntnisse, die vor dem maßgeblichen Tag durch schriftliche oder mündliche Beschreibung, Benutzung oder sonst der Öffentlichkeit zugänglich gemacht worden sind ([§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html)). Ältere, erst später veröffentlichte Anmeldungen zählen nur für die Neuheit ([§ 3 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__3.html)).
+
+Normen: [§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG, [§ 3 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG, [§ 3 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG
+
+Rechtsprechung: BGH Olanzapin (X ZR 89/07); BGH Glasfasern (X ZR 53/11); BGH Hohlfaserdialysator (X ZR 50/23); BGH Escitalopram (Xa ZR 130/07)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehört; dieser umfasst alle Kenntnisse, die vor dem maßgeblichen Tag durch schriftliche oder mündliche Beschreibung, Benutzung oder sonst der Öffentlichkeit zugänglich gemacht worden sind ([§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html)). Ältere, erst später veröffentlichte Anmeldungen zählen nur für die Neuheit ([§ 3 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__3.html)).
+
+**A:** Neuheit und Stand der Technik ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html))
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Offenbarung (unmittelbar und eindeutig)
+
+**A:** Offenbart ist, was der Fachmann einer Quelle als technische Information unmittelbar und eindeutig entnimmt, einschließlich dessen, was für ihn selbstverständlich ist und „mitgelesen“ wird; nicht offenbart ist, was er erst durch eigene Überlegungen aus seinem Fachwissen ergänzt.
+
+Normen: [§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG, [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html) MarkenG, [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG
+
+Rechtsprechung: BGH Olanzapin (X ZR 89/07); BGH Rotorelemente (X ZR 43/13); BGH Kommunikationskanal (X ZR 107/12); BGH Überbrücktes Netzwerk (X ZR 98/24)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Offenbart ist, was der Fachmann einer Quelle als technische Information unmittelbar und eindeutig entnimmt, einschließlich dessen, was für ihn selbstverständlich ist und „mitgelesen“ wird; nicht offenbart ist, was er erst durch eigene Überlegungen aus seinem Fachwissen ergänzt.
+
+**A:** Offenbarung (unmittelbar und eindeutig)
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Zweckgebundener Stoffschutz und zweite medizinische Indikation
+
+**A:** Ein bekannter Stoff kann für eine erste ([§ 3 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)) oder eine weitere spezifische Anwendung in einem therapeutischen Verfahren ([§ 3 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html)) als neu geschützt werden, wenn die Anwendung nicht zum Stand der Technik gehört (zweckgebundener Stoffschutz).
+
+Normen: [§ 3 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG, [§ 3 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG
+
+Rechtsprechung: BGH Carvedilol II (X ZR 236/01); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP))
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein bekannter Stoff kann für eine erste ([§ 3 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)) oder eine weitere spezifische Anwendung in einem therapeutischen Verfahren ([§ 3 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html)) als neu geschützt werden, wenn die Anwendung nicht zum Stand der Technik gehört (zweckgebundener Stoffschutz).
+
+**A:** Zweckgebundener Stoffschutz und zweite medizinische Indikation
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html))
+
+**A:** Eine Erfindung beruht auf erfinderischer Tätigkeit, wenn sie sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergibt ([§ 4 S. 1 PatG](https://www.gesetze-im-internet.de/patg/__4.html)); ältere nachveröffentlichte Anmeldungen bleiben außer Betracht ([§ 4 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__4.html)).
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+
+Rechtsprechung: BGH Fischbissanzeiger (Xa ZR 138/05); BGH Airbag-Auslösesteuerung (Xa ZR 56/05); BGH Kinderbett (X ZR 59/16); BGH Papiermaschinengewebe (X ZR 273/02)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Erfindung beruht auf erfinderischer Tätigkeit, wenn sie sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergibt ([§ 4 S. 1 PatG](https://www.gesetze-im-internet.de/patg/__4.html)); ältere nachveröffentlichte Anmeldungen bleiben außer Betracht ([§ 4 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__4.html)).
+
+**A:** Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html))
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Fachmann (Durchschnittsfachmann)
+
+**A:** Der Fachmann ist eine fiktive Person mit den durchschnittlichen Kenntnissen und Fähigkeiten auf dem technischen Gebiet der Erfindung am Prioritätstag; er ist Maßstab für Auslegung, Neuheit, erfinderische Tätigkeit, Ausführbarkeit und Äquivalenz.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG, [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+
+Rechtsprechung: BGH Fischbissanzeiger (Xa ZR 138/05); BGH Airbag-Auslösesteuerung (Xa ZR 56/05); BGH Farbversorgungssystem (X ZR 139/10)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Fachmann ist eine fiktive Person mit den durchschnittlichen Kenntnissen und Fähigkeiten auf dem technischen Gebiet der Erfindung am Prioritätstag; er ist Maßstab für Auslegung, Neuheit, erfinderische Tätigkeit, Ausführbarkeit und Äquivalenz.
+
+**A:** Fachmann (Durchschnittsfachmann)
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Aufgabe und Lösung (technisches Problem)
+
+**A:** Das technische Problem (Aufgabe) ist objektiv aus dem zu bestimmen, was die Erfindung gegenüber dem Stand der Technik tatsächlich leistet; es darf keine Lösungselemente enthalten und ist nicht an die in der Patentschrift formulierte Aufgabe gebunden.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG, [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html) MarkenG
+
+Rechtsprechung: BGH Papiermaschinengewebe (X ZR 273/02)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das technische Problem (Aufgabe) ist objektiv aus dem zu bestimmen, was die Erfindung gegenüber dem Stand der Technik tatsächlich leistet; es darf keine Lösungselemente enthalten und ist nicht an die in der Patentschrift formulierte Aufgabe gebunden.
+
+**A:** Aufgabe und Lösung (technisches Problem)
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Gewerbliche Anwendbarkeit ([§ 5 PatG](https://www.gesetze-im-internet.de/patg/__5.html))
+
+**A:** Eine Erfindung ist gewerblich anwendbar, wenn ihr Gegenstand auf irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft hergestellt oder benutzt werden kann ([§ 5 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__5.html)).
+
+Normen: [§ 5 PatG](https://www.gesetze-im-internet.de/patg/__5.html) MarkenG
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Erfindung ist gewerblich anwendbar, wenn ihr Gegenstand auf irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft hergestellt oder benutzt werden kann ([§ 5 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__5.html)).
+
+**A:** Gewerbliche Anwendbarkeit ([§ 5 PatG](https://www.gesetze-im-internet.de/patg/__5.html))
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Ausführbarkeit (deutliche und vollständige Offenbarung)
+
+**A:** Die Anmeldung muss die Erfindung so deutlich und vollständig offenbaren, dass ein Fachmann sie ausführen kann ([§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)); fehlende Ausführbarkeit ist Widerrufs- und Nichtigkeitsgrund ([§ 21 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 Abs. 1 Nr. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)).
+
+Normen: [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html) MarkenG, [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [Art. II § 6 Abs. 1 Nr. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
+
+Rechtsprechung: BGH Thermoplastische Zusammensetzung (Xa ZR 100/05); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP))
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Anmeldung muss die Erfindung so deutlich und vollständig offenbaren, dass ein Fachmann sie ausführen kann ([§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)); fehlende Ausführbarkeit ist Widerrufs- und Nichtigkeitsgrund ([§ 21 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 Abs. 1 Nr. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)).
+
+**A:** Ausführbarkeit (deutliche und vollständige Offenbarung)
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Schutzbereich ([§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html))
+
+**A:** Der Schutzbereich des Patents wird durch die Patentansprüche bestimmt; Beschreibung und Zeichnungen sind zur Auslegung heranzuziehen ([§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), Art. 69 EPÜ mit Auslegungsprotokoll). Er umfasst die wortsinngemäße Benutzung und den Äquivalenzbereich.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG, [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html) MarkenG
+
+Rechtsprechung: BGH Schneidmesser I (X ZR 168/00); BGH Kunststoffrohrteil (X ZR 43/01); BGH Okklusionsvorrichtung (X ZR 16/09); BGH Custodiol II (X ZR 73/01)
+
+*Tags: Begriff, Patent: Schutzbereich und Auslegung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Schutzbereich des Patents wird durch die Patentansprüche bestimmt; Beschreibung und Zeichnungen sind zur Auslegung heranzuziehen ([§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), Art. 69 EPÜ mit Auslegungsprotokoll). Er umfasst die wortsinngemäße Benutzung und den Äquivalenzbereich.
+
+**A:** Schutzbereich ([§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html))
+
+*Tags: Begriff, Umkehr, Patent: Schutzbereich und Auslegung*
+
+---
+
+## definition
+
+**F:** Definiere: Auslegung des Patentanspruchs
+
+**A:** Der Patentanspruch ist aus der Sicht des Fachmanns nach seinem technischen Sinngehalt auszulegen; Beschreibung und Zeichnungen erläutern die Merkmale und deren Funktion im Gesamtzusammenhang (funktionsorientierte Auslegung). Die Patentschrift ist ihr eigenes Lexikon.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+
+Rechtsprechung: BGH Drehzahlermittlung (X ZR 82/03); BGH Bodenseitige Vereinzelungseinrichtung (X ZR 255/01); BGH Okklusionsvorrichtung (X ZR 16/09); BGH Scheinwerferbelüftungssystem (X ZR 16/17)
+
+*Tags: Begriff, Patent: Schutzbereich und Auslegung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Patentanspruch ist aus der Sicht des Fachmanns nach seinem technischen Sinngehalt auszulegen; Beschreibung und Zeichnungen erläutern die Merkmale und deren Funktion im Gesamtzusammenhang (funktionsorientierte Auslegung). Die Patentschrift ist ihr eigenes Lexikon.
+
+**A:** Auslegung des Patentanspruchs
+
+*Tags: Begriff, Umkehr, Patent: Schutzbereich und Auslegung*
+
+---
+
+## definition
+
+**F:** Definiere: Zweck-, Wirkungs- und Funktionsangaben
+
+**A:** Zweck-, Wirkungs- und Funktionsangaben im Anspruch beschränken den Gegenstand nicht auf den genannten Zweck, können ihn aber mittelbar definieren: Die Vorrichtung muss so ausgebildet sein, dass sie die angegebene Funktion erfüllen kann.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG, [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html) MarkenG
+
+Rechtsprechung: BGH Bildunterstützung bei Katheternavigation (X ZB 9/09); BGH Referenzkontur (X ZR 35/24)
+
+*Tags: Begriff, Patent: Schutzbereich und Auslegung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Zweck-, Wirkungs- und Funktionsangaben im Anspruch beschränken den Gegenstand nicht auf den genannten Zweck, können ihn aber mittelbar definieren: Die Vorrichtung muss so ausgebildet sein, dass sie die angegebene Funktion erfüllen kann.
+
+**A:** Zweck-, Wirkungs- und Funktionsangaben
+
+*Tags: Begriff, Umkehr, Patent: Schutzbereich und Auslegung*
+
+---
+
+## definition
+
+**F:** Definiere: Äquivalente Patentverletzung
+
+**A:** Eine vom Wortsinn abweichende Ausführung verletzt das Patent äquivalent, wenn sie das Problem mit gleichwirkenden Mitteln löst (Gleichwirkung), der Fachmann die abgewandelten Mittel aufgrund seiner Fachkenntnisse als gleichwirkend auffinden konnte (Auffindbarkeit) und seine Überlegungen am Sinngehalt des Anspruchs orientiert waren (Gleichwertigkeit): die drei Schneidmesser-Fragen.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+
+Rechtsprechung: BGH Schneidmesser I (X ZR 168/00); BGH Custodiol II (X ZR 73/01); BGH Okklusionsvorrichtung (X ZR 16/09); BGH Diglycidverbindung (X ZR 69/10)
+
+*Tags: Begriff, Patent: Schutzbereich und Auslegung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine vom Wortsinn abweichende Ausführung verletzt das Patent äquivalent, wenn sie das Problem mit gleichwirkenden Mitteln löst (Gleichwirkung), der Fachmann die abgewandelten Mittel aufgrund seiner Fachkenntnisse als gleichwirkend auffinden konnte (Auffindbarkeit) und seine Überlegungen am Sinngehalt des Anspruchs orientiert waren (Gleichwertigkeit): die drei Schneidmesser-Fragen.
+
+**A:** Äquivalente Patentverletzung
+
+*Tags: Begriff, Umkehr, Patent: Schutzbereich und Auslegung*
+
+---
+
+## definition
+
+**F:** Definiere: Patentanspruch ([§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html))
+
+**A:** Der Patentanspruch gibt an, was unter Schutz gestellt werden soll ([§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html)); er ist ein- oder zweiteilig (Oberbegriff mit dem Stand der Technik, kennzeichnender Teil mit der Erfindung) zu fassen und darf nicht auf die Beschreibung verweisen ([§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html)).
+
+Normen: [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html) MarkenG, [§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html) MarkenG, [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+
+*Tags: Begriff, Patent: Schutzbereich und Auslegung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Patentanspruch gibt an, was unter Schutz gestellt werden soll ([§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html)); er ist ein- oder zweiteilig (Oberbegriff mit dem Stand der Technik, kennzeichnender Teil mit der Erfindung) zu fassen und darf nicht auf die Beschreibung verweisen ([§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html)).
+
+**A:** Patentanspruch ([§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html))
+
+*Tags: Begriff, Umkehr, Patent: Schutzbereich und Auslegung*
+
+---
+
+## definition
+
+**F:** Definiere: Wirkung des Patents und Benutzungshandlungen ([§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html))
+
+**A:** Das Patent hat die Wirkung, dass allein der Inhaber befugt ist, die Erfindung zu benutzen; Dritten ist ohne Zustimmung verboten, ein Erzeugnis herzustellen, anzubieten, in Verkehr zu bringen, zu gebrauchen, einzuführen oder zu besitzen ([§ 9 S. 2 Nr. 1 PatG](https://www.gesetze-im-internet.de/patg/__9.html)), ein Verfahren anzuwenden oder anzubieten (Nr. 2) und das unmittelbare Verfahrenserzeugnis zu verwerten (Nr. 3).
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+
+Rechtsprechung: BGH Abgasreinigungsvorrichtung (X ZR 14/03); BGH Rezeptortyrosinkinase II (X ZR 124/15); BGH Palettenbehälter II (X ZR 97/11)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Patent hat die Wirkung, dass allein der Inhaber befugt ist, die Erfindung zu benutzen; Dritten ist ohne Zustimmung verboten, ein Erzeugnis herzustellen, anzubieten, in Verkehr zu bringen, zu gebrauchen, einzuführen oder zu besitzen ([§ 9 S. 2 Nr. 1 PatG](https://www.gesetze-im-internet.de/patg/__9.html)), ein Verfahren anzuwenden oder anzubieten (Nr. 2) und das unmittelbare Verfahrenserzeugnis zu verwerten (Nr. 3).
+
+**A:** Wirkung des Patents und Benutzungshandlungen ([§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Unmittelbares Verfahrenserzeugnis ([§ 9 S. 2 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__9.html))
+
+**A:** Der Schutz eines Verfahrenspatents erstreckt sich auf das durch das Verfahren unmittelbar hergestellte Erzeugnis; unmittelbar ist das Erzeugnis, das am Ende des Verfahrens vorliegt, nicht das nach weiterer Bearbeitung entstandene Produkt.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG, [§ 139 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG
+
+Rechtsprechung: BGH Rezeptortyrosinkinase II (X ZR 124/15); BGH Wasserdichter Lederschuh (X ZR 27/16)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Schutz eines Verfahrenspatents erstreckt sich auf das durch das Verfahren unmittelbar hergestellte Erzeugnis; unmittelbar ist das Erzeugnis, das am Ende des Verfahrens vorliegt, nicht das nach weiterer Bearbeitung entstandene Produkt.
+
+**A:** Unmittelbares Verfahrenserzeugnis ([§ 9 S. 2 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__9.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Patentverletzung (Prüfungsaufbau)
+
+**A:** Eine Patentverletzung liegt vor, wenn ein Dritter ohne Zustimmung des Inhabers eine Benutzungshandlung nach [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html) oder [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html) im Inland vornimmt, die Ausführungsform in den Schutzbereich fällt (wortsinngemäß oder äquivalent) und keine Schranke (§§ [11](https://www.gesetze-im-internet.de/patg/__11.html), [12](https://www.gesetze-im-internet.de/patg/__12.html) PatG, Erschöpfung, Lizenz) eingreift.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG, [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html) MarkenG, [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG, [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html) MarkenG
+
+Rechtsprechung: BGH Kreuzgestänge (X ZR 103/13)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Patentverletzung liegt vor, wenn ein Dritter ohne Zustimmung des Inhabers eine Benutzungshandlung nach [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html) oder [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html) im Inland vornimmt, die Ausführungsform in den Schutzbereich fällt (wortsinngemäß oder äquivalent) und keine Schranke (§§ [11](https://www.gesetze-im-internet.de/patg/__11.html), [12](https://www.gesetze-im-internet.de/patg/__12.html) PatG, Erschöpfung, Lizenz) eingreift.
+
+**A:** Patentverletzung (Prüfungsaufbau)
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Mittelbare Patentverletzung ([§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html))
+
+**A:** Verboten ist, ohne Zustimmung Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, an Nichtberechtigte zur Benutzung der Erfindung im Inland anzubieten oder zu liefern, wenn der Dritte weiß oder es offensichtlich ist, dass die Mittel dazu geeignet und bestimmt sind ([§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html)).
+
+Normen: [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html) MarkenG
+
+Rechtsprechung: BGH Flügelradzähler (X ZR 48/03); BGH Fräsverfahren (X ZR 69/11); BGH Abgasreinigungsvorrichtung (X ZR 14/03)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verboten ist, ohne Zustimmung Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, an Nichtberechtigte zur Benutzung der Erfindung im Inland anzubieten oder zu liefern, wenn der Dritte weiß oder es offensichtlich ist, dass die Mittel dazu geeignet und bestimmt sind ([§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html)).
+
+**A:** Mittelbare Patentverletzung ([§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Schranken der Patentwirkung ([§ 11 PatG](https://www.gesetze-im-internet.de/patg/__11.html))
+
+**A:** Die Wirkung des Patents erstreckt sich nicht auf Handlungen im privaten Bereich zu nichtgewerblichen Zwecken, Handlungen zu Versuchszwecken, die sich auf den Gegenstand der Erfindung beziehen, Studien für arzneimittelrechtliche Zulassungen (Bolar), Einzelzubereitungen in Apotheken sowie auf Schiffe, Luft- und Landfahrzeuge im Transit ([§ 11 PatG](https://www.gesetze-im-internet.de/patg/__11.html)).
+
+Normen: [§ 11 PatG](https://www.gesetze-im-internet.de/patg/__11.html) MarkenG, [§ 12 PatG](https://www.gesetze-im-internet.de/patg/__12.html) MarkenG, [§ 13 PatG](https://www.gesetze-im-internet.de/patg/__13.html) MarkenG
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Wirkung des Patents erstreckt sich nicht auf Handlungen im privaten Bereich zu nichtgewerblichen Zwecken, Handlungen zu Versuchszwecken, die sich auf den Gegenstand der Erfindung beziehen, Studien für arzneimittelrechtliche Zulassungen (Bolar), Einzelzubereitungen in Apotheken sowie auf Schiffe, Luft- und Landfahrzeuge im Transit ([§ 11 PatG](https://www.gesetze-im-internet.de/patg/__11.html)).
+
+**A:** Schranken der Patentwirkung ([§ 11 PatG](https://www.gesetze-im-internet.de/patg/__11.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Vorbenutzungsrecht ([§ 12 PatG](https://www.gesetze-im-internet.de/patg/__12.html))
+
+**A:** Das Patent wirkt nicht gegen den, der die Erfindung zum Zeitpunkt der Anmeldung (Prioritätstag) bereits im Inland in Benutzung genommen oder die dazu erforderlichen Veranstaltungen getroffen hatte; er darf sie für die Bedürfnisse seines Betriebs weiterbenutzen ([§ 12 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__12.html)).
+
+Normen: [§ 12 PatG](https://www.gesetze-im-internet.de/patg/__12.html) MarkenG
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Patent wirkt nicht gegen den, der die Erfindung zum Zeitpunkt der Anmeldung (Prioritätstag) bereits im Inland in Benutzung genommen oder die dazu erforderlichen Veranstaltungen getroffen hatte; er darf sie für die Bedürfnisse seines Betriebs weiterbenutzen ([§ 12 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__12.html)).
+
+**A:** Vorbenutzungsrecht ([§ 12 PatG](https://www.gesetze-im-internet.de/patg/__12.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Erschöpfung und Reparatur
+
+**A:** Mit dem Inverkehrbringen eines patentgeschützten Erzeugnisses im EWR durch den Inhaber oder mit seiner Zustimmung ist das Patentrecht an diesem Exemplar erschöpft; Weiterveräußerung und bestimmungsgemäßer Gebrauch sind frei, nicht aber die Neuherstellung.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+
+Rechtsprechung: BGH Palettenbehälter II (X ZR 97/11); BGH Trommeleinheit (X ZR 55/16); BGH Tintenpatrone (X ZR 180/05)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Mit dem Inverkehrbringen eines patentgeschützten Erzeugnisses im EWR durch den Inhaber oder mit seiner Zustimmung ist das Patentrecht an diesem Exemplar erschöpft; Weiterveräußerung und bestimmungsgemäßer Gebrauch sind frei, nicht aber die Neuherstellung.
+
+**A:** Erschöpfung und Reparatur
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Unterlassungsanspruch und Verhältnismäßigkeit ([§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html))
+
+**A:** Wer entgegen §§ [9](https://www.gesetze-im-internet.de/patg/__9.html) bis [13](https://www.gesetze-im-internet.de/patg/__13.html) PatG eine patentierte Erfindung benutzt, kann bei Wiederholungs- oder Erstbegehungsgefahr auf Unterlassung in Anspruch genommen werden ([§ 139 Abs. 1 S. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html)); der Anspruch ist ausgeschlossen, soweit er wegen besonderer Umstände zu einer unverhältnismäßigen Härte führen würde ([§ 139 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__139.html)), dann Ausgleich in Geld (S. 4).
+
+Normen: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG
+
+Rechtsprechung: BGH Tintenpatrone (X ZR 180/05)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer entgegen §§ [9](https://www.gesetze-im-internet.de/patg/__9.html) bis [13](https://www.gesetze-im-internet.de/patg/__13.html) PatG eine patentierte Erfindung benutzt, kann bei Wiederholungs- oder Erstbegehungsgefahr auf Unterlassung in Anspruch genommen werden ([§ 139 Abs. 1 S. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html)); der Anspruch ist ausgeschlossen, soweit er wegen besonderer Umstände zu einer unverhältnismäßigen Härte führen würde ([§ 139 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__139.html)), dann Ausgleich in Geld (S. 4).
+
+**A:** Unterlassungsanspruch und Verhältnismäßigkeit ([§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Schadensersatz ([§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html))
+
+**A:** Wer die Verletzung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des Schadens verpflichtet ([§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html)); der Verletzte kann nach den drei Berechnungsarten wählen: konkreter Schaden, Herausgabe des Verletzergewinns oder angemessene Lizenzgebühr (Lizenzanalogie).
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html) MarkenG, [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) MarkenG
+
+Rechtsprechung: BGH Fräsverfahren (X ZR 69/11)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer die Verletzung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des Schadens verpflichtet ([§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html)); der Verletzte kann nach den drei Berechnungsarten wählen: konkreter Schaden, Herausgabe des Verletzergewinns oder angemessene Lizenzgebühr (Lizenzanalogie).
+
+**A:** Schadensersatz ([§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Vernichtung, Rückruf, Auskunft, Urteilsbekanntmachung (§§ [140a](https://www.gesetze-im-internet.de/patg/__140a.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG)
+
+**A:** Neben Unterlassung und Schadensersatz stehen dem Verletzten Vernichtung, Rückruf und Entfernung aus den Vertriebswegen ([§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html)), Auskunft über Herkunft und Vertriebsweg einschließlich Drittauskunft ([§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html)), Vorlage und Besichtigung ([§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)), Sicherung von Schadensersatzansprüchen ([§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html)) und Urteilsbekanntmachung ([§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html)) zu.
+
+Normen: [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) MarkenG, [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) MarkenG, [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) MarkenG, [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html) MarkenG
+
+Rechtsprechung: BGH Restschadstoffentfernung (X ZR 114/03)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Neben Unterlassung und Schadensersatz stehen dem Verletzten Vernichtung, Rückruf und Entfernung aus den Vertriebswegen ([§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html)), Auskunft über Herkunft und Vertriebsweg einschließlich Drittauskunft ([§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html)), Vorlage und Besichtigung ([§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)), Sicherung von Schadensersatzansprüchen ([§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html)) und Urteilsbekanntmachung ([§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html)) zu.
+
+**A:** Vernichtung, Rückruf, Auskunft, Urteilsbekanntmachung (§§ [140a](https://www.gesetze-im-internet.de/patg/__140a.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Besichtigung und Vorlage ([§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html))
+
+**A:** Bei hinreichender Wahrscheinlichkeit einer Patentverletzung kann der Verletzte vom vermeintlichen Verletzer Vorlage einer Urkunde oder Besichtigung einer Sache verlangen, auch im Wege der einstweiligen Verfügung; Geschäftsgeheimnisse sind durch Verfahrensgestaltung zu wahren ([§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)).
+
+Normen: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG
+
+Rechtsprechung: BGH Restschadstoffentfernung (X ZR 114/03)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei hinreichender Wahrscheinlichkeit einer Patentverletzung kann der Verletzte vom vermeintlichen Verletzer Vorlage einer Urkunde oder Besichtigung einer Sache verlangen, auch im Wege der einstweiligen Verfügung; Geschäftsgeheimnisse sind durch Verfahrensgestaltung zu wahren ([§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)).
+
+**A:** Besichtigung und Vorlage ([§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Trennungsprinzip und Aussetzung
+
+**A:** Verletzung und Rechtsbestand werden in Deutschland getrennt geprüft: Über die Verletzung entscheiden die Patentstreitkammern der Landgerichte ([§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html)), über die Nichtigkeit das BPatG und in der Berufung der BGH (§§ [81](https://www.gesetze-im-internet.de/patg/__81.html), [110](https://www.gesetze-im-internet.de/patg/__110.html) PatG); das Verletzungsgericht kann nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html) aussetzen, wenn die Vernichtung des Patents hinreichend wahrscheinlich ist.
+
+Normen: [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html) MarkenG, [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG
+
+Rechtsprechung: BGH Klimaschrank (X ZR 68/10); BGH Adalimumab (X ZR 36/25); BGH Kreuzgestänge (X ZR 103/13)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verletzung und Rechtsbestand werden in Deutschland getrennt geprüft: Über die Verletzung entscheiden die Patentstreitkammern der Landgerichte ([§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html)), über die Nichtigkeit das BPatG und in der Berufung der BGH (§§ [81](https://www.gesetze-im-internet.de/patg/__81.html), [110](https://www.gesetze-im-internet.de/patg/__110.html) PatG); das Verletzungsgericht kann nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html) aussetzen, wenn die Vernichtung des Patents hinreichend wahrscheinlich ist.
+
+**A:** Trennungsprinzip und Aussetzung
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Aussetzung des Verletzungsprozesses ([§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html))
+
+**A:** Das Verletzungsgericht kann den Rechtsstreit aussetzen, wenn ein Einspruchs- oder Nichtigkeitsverfahren anhängig ist und mit hinreichender Wahrscheinlichkeit zur Vernichtung des Klagepatents führen wird; die Aussetzung steht im Ermessen und ist wegen des Zeitverlusts für den Patentinhaber die Ausnahme.
+
+Normen: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG, [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG
+
+Rechtsprechung: BGH Klimaschrank (X ZR 68/10); BGH Adalimumab (X ZR 36/25)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Verletzungsgericht kann den Rechtsstreit aussetzen, wenn ein Einspruchs- oder Nichtigkeitsverfahren anhängig ist und mit hinreichender Wahrscheinlichkeit zur Vernichtung des Klagepatents führen wird; die Aussetzung steht im Ermessen und ist wegen des Zeitverlusts für den Patentinhaber die Ausnahme.
+
+**A:** Aussetzung des Verletzungsprozesses ([§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Klagekonzentration ([§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html))
+
+**A:** Wer wegen Verletzung eines Patents Klage erhoben hat, kann gegen den Beklagten wegen derselben oder einer gleichartigen Handlung aus einem anderen Patent nur klagen, wenn er ohne Verschulden nicht in der Lage war, auch dieses Patent im ersten Rechtsstreit geltend zu machen ([§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html)).
+
+Normen: [§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html) MarkenG
+
+Rechtsprechung: BGH Raffvorhang (X ZR 69/08)
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer wegen Verletzung eines Patents Klage erhoben hat, kann gegen den Beklagten wegen derselben oder einer gleichartigen Handlung aus einem anderen Patent nur klagen, wenn er ohne Verschulden nicht in der Lage war, auch dieses Patent im ersten Rechtsstreit geltend zu machen ([§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html)).
+
+**A:** Klagekonzentration ([§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Lizenz und Übertragung ([§ 15 PatG](https://www.gesetze-im-internet.de/patg/__15.html))
+
+**A:** Das Recht auf das Patent, der Anspruch auf Erteilung und das Patent sind übertragbar und können ganz oder teilweise Gegenstand ausschließlicher oder einfacher Lizenzen sein ([§ 15 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html)); ein Rechtsübergang lässt zuvor erteilte Lizenzen unberührt ([§ 15 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__15.html), Sukzessionsschutz).
+
+Normen: [§ 15 PatG](https://www.gesetze-im-internet.de/patg/__15.html) MarkenG, [§ 30 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__30.html) MarkenG, [§ 23 PatG](https://www.gesetze-im-internet.de/patg/__23.html) MarkenG
+
+*Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Recht auf das Patent, der Anspruch auf Erteilung und das Patent sind übertragbar und können ganz oder teilweise Gegenstand ausschließlicher oder einfacher Lizenzen sein ([§ 15 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html)); ein Rechtsübergang lässt zuvor erteilte Lizenzen unberührt ([§ 15 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__15.html), Sukzessionsschutz).
+
+**A:** Lizenz und Übertragung ([§ 15 PatG](https://www.gesetze-im-internet.de/patg/__15.html))
+
+*Tags: Begriff, Umkehr, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Patentanmeldung ([§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), PatV)
+
+**A:** Die Anmeldung ist beim DPMA einzureichen und muss Erteilungsantrag, Patentansprüche, Beschreibung, Zeichnungen und Zusammenfassung enthalten ([§ 34 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html)); Form und Inhalt regelt die PatV ([§ 34 Abs. 6 PatG](https://www.gesetze-im-internet.de/patg/__34.html)). Sie darf nur eine Erfindung oder eine Gruppe einheitlicher Erfindungen betreffen ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)).
+
+Normen: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html) MarkenG, [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html) MarkenG, [§ 5 PatV](https://www.gesetze-im-internet.de/patv/__5.html) MarkenG, [§ 6 PatV](https://www.gesetze-im-internet.de/patv/__6.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+
+Rechtsprechung: BPatG Mobilfunknetzwerk (10 W (pat) 43/07); BPatG Aufreißdeckel (10 W (pat) 21/06)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Anmeldung ist beim DPMA einzureichen und muss Erteilungsantrag, Patentansprüche, Beschreibung, Zeichnungen und Zusammenfassung enthalten ([§ 34 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html)); Form und Inhalt regelt die PatV ([§ 34 Abs. 6 PatG](https://www.gesetze-im-internet.de/patg/__34.html)). Sie darf nur eine Erfindung oder eine Gruppe einheitlicher Erfindungen betreffen ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)).
+
+**A:** Patentanmeldung ([§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), PatV)
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Anmeldetag ([§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html))
+
+**A:** Anmeldetag ist der Tag, an dem beim DPMA der Erteilungsantrag, Angaben zur Identifizierung des Anmelders und eine (auch fremdsprachige) Beschreibung eingegangen sind ([§ 35 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__35.html)); eine Übersetzung ist binnen drei Monaten nachzureichen, sonst gilt die Anmeldung als zurückgenommen ([§ 35 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__35.html)).
+
+Normen: [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html) MarkenG, [§ 35a PatG](https://www.gesetze-im-internet.de/patg/__35a.html) MarkenG, [§ 16 PatG](https://www.gesetze-im-internet.de/patg/__16.html) MarkenG
+
+Rechtsprechung: BPatG Mobilfunknetzwerk (10 W (pat) 43/07)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Anmeldetag ist der Tag, an dem beim DPMA der Erteilungsantrag, Angaben zur Identifizierung des Anmelders und eine (auch fremdsprachige) Beschreibung eingegangen sind ([§ 35 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__35.html)); eine Übersetzung ist binnen drei Monaten nachzureichen, sonst gilt die Anmeldung als zurückgenommen ([§ 35 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__35.html)).
+
+**A:** Anmeldetag ([§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Beschreibung ([§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html))
+
+**A:** Die Beschreibung nennt das technische Gebiet, den Stand der Technik, die Aufgabe, die Lösung, die erzielten Vorteile und mindestens ein Ausführungsbeispiel ([§ 10 Abs. 2 PatV](https://www.gesetze-im-internet.de/patv/__10.html)); sie muss die Erfindung so offenbaren, dass ein Fachmann sie ausführen kann ([§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)).
+
+Normen: [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html) MarkenG, [§ 13 PatV](https://www.gesetze-im-internet.de/patv/__13.html) MarkenG, [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html) MarkenG, [§ 36 PatG](https://www.gesetze-im-internet.de/patg/__36.html) MarkenG
+
+Rechtsprechung: BPatG Aufreißdeckel (10 W (pat) 21/06)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Beschreibung nennt das technische Gebiet, den Stand der Technik, die Aufgabe, die Lösung, die erzielten Vorteile und mindestens ein Ausführungsbeispiel ([§ 10 Abs. 2 PatV](https://www.gesetze-im-internet.de/patv/__10.html)); sie muss die Erfindung so offenbaren, dass ein Fachmann sie ausführen kann ([§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)).
+
+**A:** Beschreibung ([§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Recht auf das Patent, Erfinderprinzip, widerrechtliche Entnahme (§§ [6](https://www.gesetze-im-internet.de/patg/__6.html) bis [8](https://www.gesetze-im-internet.de/patg/__8.html) PatG)
+
+**A:** Das Recht auf das Patent hat der Erfinder oder sein Rechtsnachfolger ([§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html)); im Verfahren vor dem DPMA gilt der Anmelder als berechtigt ([§ 7 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__7.html)). Wer durch widerrechtliche Entnahme betroffen ist, kann Abtretung der Anmeldung oder Übertragung des Patents verlangen ([§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html), Vindikation) oder Einspruch einlegen ([§ 21 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__21.html)).
+
+Normen: [§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html) MarkenG, [§ 7 PatG](https://www.gesetze-im-internet.de/patg/__7.html) MarkenG, [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html) MarkenG, [Art. II § 5 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__5.html)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Recht auf das Patent hat der Erfinder oder sein Rechtsnachfolger ([§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html)); im Verfahren vor dem DPMA gilt der Anmelder als berechtigt ([§ 7 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__7.html)). Wer durch widerrechtliche Entnahme betroffen ist, kann Abtretung der Anmeldung oder Übertragung des Patents verlangen ([§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html), Vindikation) oder Einspruch einlegen ([§ 21 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__21.html)).
+
+**A:** Recht auf das Patent, Erfinderprinzip, widerrechtliche Entnahme (§§ [6](https://www.gesetze-im-internet.de/patg/__6.html) bis [8](https://www.gesetze-im-internet.de/patg/__8.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Priorität (§§ [40](https://www.gesetze-im-internet.de/patg/__40.html), [41](https://www.gesetze-im-internet.de/patg/__41.html) PatG)
+
+**A:** Innerhalb von zwölf Monaten nach einer ersten Anmeldung kann für dieselbe Erfindung deren Zeitrang beansprucht werden: innere Priorität einer deutschen Voranmeldung ([§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html)) oder Unionspriorität einer ausländischen Anmeldung nach der PVÜ ([§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html)); die Prioritätserklärung ist binnen 16 Monaten abzugeben.
+
+Normen: [§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html) MarkenG, [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html) MarkenG, [§ 123 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__123.html) MarkenG
+
+Rechtsprechung: BGH Fahrzeugscheibe (X ZR 49/12); BGH Kommunikationskanal (X ZR 107/12); BPatG Mehrfach-Funkgerät (10 W (pat) 36/06)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Innerhalb von zwölf Monaten nach einer ersten Anmeldung kann für dieselbe Erfindung deren Zeitrang beansprucht werden: innere Priorität einer deutschen Voranmeldung ([§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html)) oder Unionspriorität einer ausländischen Anmeldung nach der PVÜ ([§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html)); die Prioritätserklärung ist binnen 16 Monaten abzugeben.
+
+**A:** Priorität (§§ [40](https://www.gesetze-im-internet.de/patg/__40.html), [41](https://www.gesetze-im-internet.de/patg/__41.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Teilung und Ausscheidung ([§§ 34 Abs. 5, 39, 60 PatG](https://www.gesetze-im-internet.de/patg/__34.html))
+
+**A:** Der Anmelder kann die Anmeldung jederzeit bis zur Erteilung teilen; die Teilanmeldung behält Anmeldetag und Priorität, die Teilung ist unwiderruflich ([§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html)). Bei Uneinheitlichkeit verlangt das DPMA eine Ausscheidung ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)); im Einspruchsverfahren kann das Patent geteilt werden ([§ 60 PatG](https://www.gesetze-im-internet.de/patg/__60.html)).
+
+Normen: [§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html) MarkenG, [§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html) MarkenG, [§ 60 PatG](https://www.gesetze-im-internet.de/patg/__60.html) MarkenG
+
+Rechtsprechung: BGH Sammelhefter (X ZB 18/01); BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Anmelder kann die Anmeldung jederzeit bis zur Erteilung teilen; die Teilanmeldung behält Anmeldetag und Priorität, die Teilung ist unwiderruflich ([§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html)). Bei Uneinheitlichkeit verlangt das DPMA eine Ausscheidung ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)); im Einspruchsverfahren kann das Patent geteilt werden ([§ 60 PatG](https://www.gesetze-im-internet.de/patg/__60.html)).
+
+**A:** Teilung und Ausscheidung ([§§ 34 Abs. 5, 39, 60 PatG](https://www.gesetze-im-internet.de/patg/__34.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Unzulässige Erweiterung ([§ 38](https://www.gesetze-im-internet.de/markeng/__38.html), [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html))
+
+**A:** Änderungen der Anmeldung dürfen ihren Gegenstand nicht über den Inhalt der ursprünglich eingereichten Fassung hinaus erweitern ([§ 38 S. 1 PatG](https://www.gesetze-im-internet.de/patg/__38.html)); ein Verstoß ist Widerrufs- und Nichtigkeitsgrund ([§ 21 Abs. 1 Nr. 4](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 Abs. 1 Nr. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)). Maßstab ist, was der Fachmann den ursprünglichen Unterlagen unmittelbar und eindeutig als zur Erfindung gehörend entnimmt.
+
+Normen: [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html) MarkenG, [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html) MarkenG, [Art. II § 6 Abs. 1 Nr. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
+
+Rechtsprechung: BGH Hubgliedertor I (X ZR 27/06); BGH Winkelmesseinrichtung (Xa ZB 14/09); BGH Rotorelemente (X ZR 43/13); BGH Wundbehandlungsvorrichtung (X ZR 161/12)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Änderungen der Anmeldung dürfen ihren Gegenstand nicht über den Inhalt der ursprünglich eingereichten Fassung hinaus erweitern ([§ 38 S. 1 PatG](https://www.gesetze-im-internet.de/patg/__38.html)); ein Verstoß ist Widerrufs- und Nichtigkeitsgrund ([§ 21 Abs. 1 Nr. 4](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 Abs. 1 Nr. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)). Maßstab ist, was der Fachmann den ursprünglichen Unterlagen unmittelbar und eindeutig als zur Erfindung gehörend entnimmt.
+
+**A:** Unzulässige Erweiterung ([§ 38](https://www.gesetze-im-internet.de/markeng/__38.html), [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Prüfungsverfahren: Recherche, Prüfungsantrag, Erteilung (§§ [42](https://www.gesetze-im-internet.de/patg/__42.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG)
+
+**A:** Nach der Offensichtlichkeitsprüfung ([§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html)) wird die Anmeldung nur auf Prüfungsantrag sachlich geprüft; der Antrag ist binnen sieben Jahren ab Anmeldetag von jedermann stellbar ([§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html)), sonst gilt die Anmeldung als zurückgenommen. Genügt die Anmeldung den Anforderungen, ergeht der Erteilungsbeschluss ([§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html)), sonst Zurückweisung ([§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html)).
+
+Normen: [§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html) MarkenG, [§ 43 PatG](https://www.gesetze-im-internet.de/patg/__43.html) MarkenG, [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html) MarkenG, [§ 45 PatG](https://www.gesetze-im-internet.de/patg/__45.html) MarkenG, [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html) MarkenG, [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+
+Rechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07); BGH Phosphatidylcholin (X ZB 5/16)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nach der Offensichtlichkeitsprüfung ([§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html)) wird die Anmeldung nur auf Prüfungsantrag sachlich geprüft; der Antrag ist binnen sieben Jahren ab Anmeldetag von jedermann stellbar ([§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html)), sonst gilt die Anmeldung als zurückgenommen. Genügt die Anmeldung den Anforderungen, ergeht der Erteilungsbeschluss ([§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html)), sonst Zurückweisung ([§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html)).
+
+**A:** Prüfungsverfahren: Recherche, Prüfungsantrag, Erteilung (§§ [42](https://www.gesetze-im-internet.de/patg/__42.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Patentregister und Registerfiktion ([§ 30 PatG](https://www.gesetze-im-internet.de/patg/__30.html))
+
+**A:** Das DPMA führt das Register mit Anmeldungen, Patenten, Inhabern, Vertretern, Lizenzen und Erlöschen; wer als Inhaber eingetragen ist, gilt im Verfahren vor dem DPMA und dem Patentgericht als berechtigt ([§ 30 Abs. 3 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__30.html)).
+
+Normen: [§ 30 PatG](https://www.gesetze-im-internet.de/patg/__30.html) MarkenG, [§ 23 PatG](https://www.gesetze-im-internet.de/patg/__23.html) MarkenG
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das DPMA führt das Register mit Anmeldungen, Patenten, Inhabern, Vertretern, Lizenzen und Erlöschen; wer als Inhaber eingetragen ist, gilt im Verfahren vor dem DPMA und dem Patentgericht als berechtigt ([§ 30 Abs. 3 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__30.html)).
+
+**A:** Patentregister und Registerfiktion ([§ 30 PatG](https://www.gesetze-im-internet.de/patg/__30.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Akteneinsicht und Offenlegung (§§ [31](https://www.gesetze-im-internet.de/patg/__31.html), [32](https://www.gesetze-im-internet.de/patg/__32.html) PatG)
+
+**A:** Einsicht in die Akten der Anmeldung steht jedermann frei, sobald die Anmeldung offengelegt ist oder der Anmelder zugestimmt hat ([§ 31 PatG](https://www.gesetze-im-internet.de/patg/__31.html)); die Offenlegungsschrift wird 18 Monate nach dem Anmelde- oder Prioritätstag veröffentlicht ([§ 32 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__32.html)).
+
+Normen: [§ 31 PatG](https://www.gesetze-im-internet.de/patg/__31.html) MarkenG, [§ 32 PatG](https://www.gesetze-im-internet.de/patg/__32.html) MarkenG, [§ 33 PatG](https://www.gesetze-im-internet.de/patg/__33.html) MarkenG
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Einsicht in die Akten der Anmeldung steht jedermann frei, sobald die Anmeldung offengelegt ist oder der Anmelder zugestimmt hat ([§ 31 PatG](https://www.gesetze-im-internet.de/patg/__31.html)); die Offenlegungsschrift wird 18 Monate nach dem Anmelde- oder Prioritätstag veröffentlicht ([§ 32 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__32.html)).
+
+**A:** Akteneinsicht und Offenlegung (§§ [31](https://www.gesetze-im-internet.de/patg/__31.html), [32](https://www.gesetze-im-internet.de/patg/__32.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Erfinderbenennung und Erfindernennung (§§ [37](https://www.gesetze-im-internet.de/patg/__37.html), [63](https://www.gesetze-im-internet.de/patg/__63.html) PatG; [§ 7 PatV](https://www.gesetze-im-internet.de/patv/__7.html))
+
+**A:** Der Anmelder hat binnen 15 Monaten ab Anmeldetag oder Prioritätstag den Erfinder zu benennen und zu versichern, dass keine weiteren Personen beteiligt sind ([§ 37 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__37.html)); der Erfinder hat das Recht, in Patentschrift und Register genannt zu werden ([§ 63 PatG](https://www.gesetze-im-internet.de/patg/__63.html)).
+
+Normen: [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html) MarkenG, [§ 63 PatG](https://www.gesetze-im-internet.de/patg/__63.html) MarkenG, [§ 7 PatV](https://www.gesetze-im-internet.de/patv/__7.html) MarkenG, [§ 8 PatV](https://www.gesetze-im-internet.de/patv/__8.html) MarkenG
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Anmelder hat binnen 15 Monaten ab Anmeldetag oder Prioritätstag den Erfinder zu benennen und zu versichern, dass keine weiteren Personen beteiligt sind ([§ 37 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__37.html)); der Erfinder hat das Recht, in Patentschrift und Register genannt zu werden ([§ 63 PatG](https://www.gesetze-im-internet.de/patg/__63.html)).
+
+**A:** Erfinderbenennung und Erfindernennung (§§ [37](https://www.gesetze-im-internet.de/patg/__37.html), [63](https://www.gesetze-im-internet.de/patg/__63.html) PatG; [§ 7 PatV](https://www.gesetze-im-internet.de/patv/__7.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Laufzeit und Jahresgebühren (§§ [16](https://www.gesetze-im-internet.de/patg/__16.html), [17](https://www.gesetze-im-internet.de/patg/__17.html), [20](https://www.gesetze-im-internet.de/patg/__20.html) PatG)
+
+**A:** Das Patent dauert 20 Jahre ab dem Tag nach der Anmeldung ([§ 16 PatG](https://www.gesetze-im-internet.de/patg/__16.html)); ab dem dritten Jahr sind Jahresgebühren zu zahlen ([§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html)), bei deren Nichtzahlung das Patent erlischt ([§ 20 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__20.html)).
+
+Normen: [§ 16 PatG](https://www.gesetze-im-internet.de/patg/__16.html) MarkenG, [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html) MarkenG, [§ 20 PatG](https://www.gesetze-im-internet.de/patg/__20.html) MarkenG, [§ 23 PatG](https://www.gesetze-im-internet.de/patg/__23.html) MarkenG, [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html) MarkenG, [Art. II § 7 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__7.html)
+
+Rechtsprechung: BGH Verdickerpolymer II (X ZB 4/14); BPatG Sägeblatt (10 W (pat) 13/05)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Patent dauert 20 Jahre ab dem Tag nach der Anmeldung ([§ 16 PatG](https://www.gesetze-im-internet.de/patg/__16.html)); ab dem dritten Jahr sind Jahresgebühren zu zahlen ([§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html)), bei deren Nichtzahlung das Patent erlischt ([§ 20 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__20.html)).
+
+**A:** Laufzeit und Jahresgebühren (§§ [16](https://www.gesetze-im-internet.de/patg/__16.html), [17](https://www.gesetze-im-internet.de/patg/__17.html), [20](https://www.gesetze-im-internet.de/patg/__20.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Ergänzendes Schutzzertifikat (§§ [16a](https://www.gesetze-im-internet.de/patg/__16a.html), [49a](https://www.gesetze-im-internet.de/patg/__49a.html) PatG)
+
+**A:** Für Arzneimittel und Pflanzenschutzmittel, deren Vermarktung eine behördliche Genehmigung voraussetzt, kann nach den Verordnungen (EG) Nr. 469/2009 und Nr. 1610/96 ein ergänzendes Schutzzertifikat erteilt werden, das den Schutz des Grundpatents für das genehmigte Erzeugnis um bis zu fünf Jahre verlängert ([§ 16a PatG](https://www.gesetze-im-internet.de/patg/__16a.html)); Verfahren und Antrag: [§ 49a PatG](https://www.gesetze-im-internet.de/patg/__49a.html), §§ [20](https://www.gesetze-im-internet.de/patv/__20.html), [21](https://www.gesetze-im-internet.de/patv/__21.html) PatV.
+
+Normen: [§ 16a PatG](https://www.gesetze-im-internet.de/patg/__16a.html) MarkenG, [§ 49a PatG](https://www.gesetze-im-internet.de/patg/__49a.html) MarkenG, [§ 20 PatV](https://www.gesetze-im-internet.de/patv/__20.html) MarkenG, [Art. II § 6a IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6a.html)
+
+Rechtsprechung: BGH Escitalopram (Xa ZR 130/07)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für Arzneimittel und Pflanzenschutzmittel, deren Vermarktung eine behördliche Genehmigung voraussetzt, kann nach den Verordnungen (EG) Nr. 469/2009 und Nr. 1610/96 ein ergänzendes Schutzzertifikat erteilt werden, das den Schutz des Grundpatents für das genehmigte Erzeugnis um bis zu fünf Jahre verlängert ([§ 16a PatG](https://www.gesetze-im-internet.de/patg/__16a.html)); Verfahren und Antrag: [§ 49a PatG](https://www.gesetze-im-internet.de/patg/__49a.html), §§ [20](https://www.gesetze-im-internet.de/patv/__20.html), [21](https://www.gesetze-im-internet.de/patv/__21.html) PatV.
+
+**A:** Ergänzendes Schutzzertifikat (§§ [16a](https://www.gesetze-im-internet.de/patg/__16a.html), [49a](https://www.gesetze-im-internet.de/patg/__49a.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Einspruch ([§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html))
+
+**A:** Innerhalb von neun Monaten nach Veröffentlichung der Erteilung kann jeder Einspruch einlegen; er ist schriftlich zu erklären, zu begründen und kann nur auf die Widerrufsgründe des [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html) gestützt werden ([§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html)). Über den Einspruch entscheidet die Patentabteilung ([§ 61 PatG](https://www.gesetze-im-internet.de/patg/__61.html)); dagegen Beschwerde zum Technischen Beschwerdesenat ([§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html)).
+
+Normen: [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html) MarkenG, [§ 61 PatG](https://www.gesetze-im-internet.de/patg/__61.html) MarkenG, [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+
+Rechtsprechung: BGH Ratschenschlüssel (X ZB 3/15); BGH Leistungshalbleiterbauelement (Xa ZB 28/08); BGH Ventileinrichtung (X ZB 1/16); BPatG Einspruchsgebühren bei gemeinsamem Einspruch (19 W (pat) 303/05)
+
+*Tags: Begriff, Patent: Einspruch und Beschränkung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Innerhalb von neun Monaten nach Veröffentlichung der Erteilung kann jeder Einspruch einlegen; er ist schriftlich zu erklären, zu begründen und kann nur auf die Widerrufsgründe des [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html) gestützt werden ([§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html)). Über den Einspruch entscheidet die Patentabteilung ([§ 61 PatG](https://www.gesetze-im-internet.de/patg/__61.html)); dagegen Beschwerde zum Technischen Beschwerdesenat ([§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html)).
+
+**A:** Einspruch ([§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html))
+
+*Tags: Begriff, Umkehr, Patent: Einspruch und Beschränkung*
+
+---
+
+## definition
+
+**F:** Definiere: Widerrufsgründe ([§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html))
+
+**A:** Das Patent wird widerrufen, wenn der Gegenstand nicht patentfähig ist (Nr. 1), die Erfindung nicht ausführbar offenbart ist (Nr. 2), der wesentliche Inhalt widerrechtlich entnommen wurde (Nr. 3) oder der Gegenstand über den Inhalt der ursprünglichen Anmeldung hinausgeht (Nr. 4); betreffen die Gründe nur einen Teil, wird das Patent beschränkt aufrechterhalten ([§ 21 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html)).
+
+Normen: [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html) MarkenG, [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
+
+Rechtsprechung: BGH Winkelmesseinrichtung (Xa ZB 14/09); BGH Ventileinrichtung (X ZB 1/16)
+
+*Tags: Begriff, Patent: Einspruch und Beschränkung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Patent wird widerrufen, wenn der Gegenstand nicht patentfähig ist (Nr. 1), die Erfindung nicht ausführbar offenbart ist (Nr. 2), der wesentliche Inhalt widerrechtlich entnommen wurde (Nr. 3) oder der Gegenstand über den Inhalt der ursprünglichen Anmeldung hinausgeht (Nr. 4); betreffen die Gründe nur einen Teil, wird das Patent beschränkt aufrechterhalten ([§ 21 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html)).
+
+**A:** Widerrufsgründe ([§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html))
+
+*Tags: Begriff, Umkehr, Patent: Einspruch und Beschränkung*
+
+---
+
+## definition
+
+**F:** Definiere: Beitritt zum Einspruchsverfahren ([§ 59 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__59.html))
+
+**A:** Wer nachweist, dass gegen ihn Verletzungsklage aus dem Patent erhoben oder er vom Inhaber zur Unterlassung aufgefordert wurde, kann dem Einspruchsverfahren binnen drei Monaten beitreten ([§ 59 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__59.html)); der Beitritt hat die Stellung eines Einspruchs.
+
+Normen: [§ 59 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__59.html) MarkenG
+
+Rechtsprechung: BGH Ratschenschlüssel (X ZB 3/15)
+
+*Tags: Begriff, Patent: Einspruch und Beschränkung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer nachweist, dass gegen ihn Verletzungsklage aus dem Patent erhoben oder er vom Inhaber zur Unterlassung aufgefordert wurde, kann dem Einspruchsverfahren binnen drei Monaten beitreten ([§ 59 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__59.html)); der Beitritt hat die Stellung eines Einspruchs.
+
+**A:** Beitritt zum Einspruchsverfahren ([§ 59 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__59.html))
+
+*Tags: Begriff, Umkehr, Patent: Einspruch und Beschränkung*
+
+---
+
+## definition
+
+**F:** Definiere: Beschränkung und Widerruf auf Antrag ([§ 64 PatG](https://www.gesetze-im-internet.de/patg/__64.html))
+
+**A:** Der Patentinhaber kann jederzeit beim DPMA beantragen, das Patent durch Änderung der Ansprüche zu beschränken oder zu widerrufen ([§ 64 PatG](https://www.gesetze-im-internet.de/patg/__64.html)); die Beschränkung wirkt auf den Anmeldetag zurück.
+
+Normen: [§ 64 PatG](https://www.gesetze-im-internet.de/patg/__64.html) MarkenG, [§ 21 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG
+
+*Tags: Begriff, Patent: Einspruch und Beschränkung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Patentinhaber kann jederzeit beim DPMA beantragen, das Patent durch Änderung der Ansprüche zu beschränken oder zu widerrufen ([§ 64 PatG](https://www.gesetze-im-internet.de/patg/__64.html)); die Beschränkung wirkt auf den Anmeldetag zurück.
+
+**A:** Beschränkung und Widerruf auf Antrag ([§ 64 PatG](https://www.gesetze-im-internet.de/patg/__64.html))
+
+*Tags: Begriff, Umkehr, Patent: Einspruch und Beschränkung*
+
+---
+
+## definition
+
+**F:** Definiere: Nichtigkeitsklage ([§§ 81 ff. PatG](https://www.gesetze-im-internet.de/patg/__81.html))
+
+**A:** Das Patent wird auf Klage für nichtig erklärt, wenn ein Nichtigkeitsgrund des [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html) vorliegt; die Klage ist beim Patentgericht zu erheben, jedermann ist klagebefugt (Popularklage), während eines Einspruchsverfahrens ist sie unzulässig ([§ 81 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__81.html)). Die Nichtigkeitssenate entscheiden durch Urteil ([§ 84 PatG](https://www.gesetze-im-internet.de/patg/__84.html)), Berufung zum BGH ([§ 110 PatG](https://www.gesetze-im-internet.de/patg/__110.html)).
+
+Normen: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG, [§ 82 PatG](https://www.gesetze-im-internet.de/patg/__82.html) MarkenG, [§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html) MarkenG, [§ 84 PatG](https://www.gesetze-im-internet.de/patg/__84.html) MarkenG, [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html) MarkenG, [§ 121 PatG](https://www.gesetze-im-internet.de/patg/__121.html) MarkenG, [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
+
+Rechtsprechung: BGH Sensoranordnung (X ZR 109/08); BGH Polymerschaum (X ZR 117/11); BGH Walzstraße (X ZR 21/12); BGH Benutzerauthentifizierung (X ZR 65/24)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Patent wird auf Klage für nichtig erklärt, wenn ein Nichtigkeitsgrund des [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html) vorliegt; die Klage ist beim Patentgericht zu erheben, jedermann ist klagebefugt (Popularklage), während eines Einspruchsverfahrens ist sie unzulässig ([§ 81 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__81.html)). Die Nichtigkeitssenate entscheiden durch Urteil ([§ 84 PatG](https://www.gesetze-im-internet.de/patg/__84.html)), Berufung zum BGH ([§ 110 PatG](https://www.gesetze-im-internet.de/patg/__110.html)).
+
+**A:** Nichtigkeitsklage ([§§ 81 ff. PatG](https://www.gesetze-im-internet.de/patg/__81.html))
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Nichtigkeitsgründe ([§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html))
+
+**A:** Nichtigkeitsgründe sind die Widerrufsgründe des [§ 21 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__21.html) und die Erweiterung des Schutzbereichs nach Erteilung ([§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html)); für den deutschen Teil eines europäischen Patents gelten die Gründe des Art. 138 Abs. 1 EPÜ ([Art. II § 6 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)): fehlende Patentfähigkeit, mangelnde Ausführbarkeit, unzulässige Erweiterung, Schutzbereichserweiterung, fehlende Berechtigung.
+
+Normen: [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html) MarkenG, [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [Art. II § 6 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
+
+Rechtsprechung: BGH Fugenband (X ZR 11/13); BGH Sensoranordnung (X ZR 109/08); BGH Wundbehandlungsvorrichtung (X ZR 161/12)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nichtigkeitsgründe sind die Widerrufsgründe des [§ 21 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__21.html) und die Erweiterung des Schutzbereichs nach Erteilung ([§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html)); für den deutschen Teil eines europäischen Patents gelten die Gründe des Art. 138 Abs. 1 EPÜ ([Art. II § 6 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)): fehlende Patentfähigkeit, mangelnde Ausführbarkeit, unzulässige Erweiterung, Schutzbereichserweiterung, fehlende Berechtigung.
+
+**A:** Nichtigkeitsgründe ([§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html))
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Nichtigkeit des europäischen Patents ([Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html))
+
+**A:** Der mit Wirkung für Deutschland erteilte deutsche Teil eines europäischen Patents wird auf Klage nach [§§ 81 ff. PatG](https://www.gesetze-im-internet.de/patg/__81.html) für nichtig erklärt, wenn ein Grund des Art. 138 Abs. 1 EPÜ vorliegt ([Art. II § 6 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)); der Inhaber kann das Patent beschränkt verteidigen (Abs. 3).
+
+Normen: [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG, [Art. II § 15 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__15.html)
+
+Rechtsprechung: BPatG Torasemid (3 Ni 7/06 (EU)); BGH Wundbehandlungsvorrichtung (X ZR 161/12); BGH Thermoplastische Zusammensetzung (Xa ZR 100/05); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP))
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der mit Wirkung für Deutschland erteilte deutsche Teil eines europäischen Patents wird auf Klage nach [§§ 81 ff. PatG](https://www.gesetze-im-internet.de/patg/__81.html) für nichtig erklärt, wenn ein Grund des Art. 138 Abs. 1 EPÜ vorliegt ([Art. II § 6 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)); der Inhaber kann das Patent beschränkt verteidigen (Abs. 3).
+
+**A:** Nichtigkeit des europäischen Patents ([Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html))
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Qualifizierter Hinweis und Präklusion ([§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html))
+
+**A:** Das Patentgericht weist die Parteien so früh wie möglich auf die Gesichtspunkte hin, die für die Entscheidung voraussichtlich von besonderer Bedeutung sind ([§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html)), und setzt Fristen für Stellungnahmen (Abs. 2); verspätetes Vorbringen kann zurückgewiesen werden (Abs. 4) und bleibt in der Berufung ausgeschlossen ([§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html)).
+
+Normen: [§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html) MarkenG, [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html) MarkenG
+
+Rechtsprechung: BGH Walzstraße (X ZR 21/12); BGH Fahrzeugscheibe II (X ZR 41/14)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Patentgericht weist die Parteien so früh wie möglich auf die Gesichtspunkte hin, die für die Entscheidung voraussichtlich von besonderer Bedeutung sind ([§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html)), und setzt Fristen für Stellungnahmen (Abs. 2); verspätetes Vorbringen kann zurückgewiesen werden (Abs. 4) und bleibt in der Berufung ausgeschlossen ([§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html)).
+
+**A:** Qualifizierter Hinweis und Präklusion ([§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html))
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Beschränkte Verteidigung und Hilfsanträge
+
+**A:** Der Patentinhaber kann das Patent im Einspruchs- und Nichtigkeitsverfahren durch Änderung der Ansprüche in beschränktem Umfang verteidigen ([§ 21 Abs. 2](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 22 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 Abs. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)); die beschränkte Fassung ist dem Verfahren zugrunde zu legen. Hilfsanträge werden in der gestellten Reihenfolge geprüft.
+
+Normen: [§ 22 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__22.html) MarkenG, [§ 21 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [Art. II § 6 Abs. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 116 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__116.html) MarkenG
+
+Rechtsprechung: BGH Fugenband (X ZR 11/13); BPatG Kaffeemaschine (4 Ni 24/10 (EU)); BGH Fahrzeugscheibe II (X ZR 41/14); BGH Sensoranordnung (X ZR 109/08)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Patentinhaber kann das Patent im Einspruchs- und Nichtigkeitsverfahren durch Änderung der Ansprüche in beschränktem Umfang verteidigen ([§ 21 Abs. 2](https://www.gesetze-im-internet.de/markeng/__21.html), [§ 22 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 Abs. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)); die beschränkte Fassung ist dem Verfahren zugrunde zu legen. Hilfsanträge werden in der gestellten Reihenfolge geprüft.
+
+**A:** Beschränkte Verteidigung und Hilfsanträge
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Berufung im Nichtigkeitsverfahren ([§§ 110 ff. PatG](https://www.gesetze-im-internet.de/patg/__110.html))
+
+**A:** Gegen die Urteile der Nichtigkeitssenate findet die Berufung zum BGH statt; sie ist binnen eines Monats einzulegen und binnen drei Monaten zu begründen ([§ 110 PatG](https://www.gesetze-im-internet.de/patg/__110.html)). Der BGH prüft im Rahmen der Anträge und Berufungsgründe ([§ 116 PatG](https://www.gesetze-im-internet.de/patg/__116.html)); neue Angriffs- und Verteidigungsmittel sind nur nach [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html) zulässig.
+
+Normen: [§ 110 PatG](https://www.gesetze-im-internet.de/patg/__110.html) MarkenG, [§ 116 PatG](https://www.gesetze-im-internet.de/patg/__116.html) MarkenG, [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html) MarkenG, [§ 121 PatG](https://www.gesetze-im-internet.de/patg/__121.html) MarkenG
+
+Rechtsprechung: BGH Walzstraße (X ZR 21/12); BGH Fahrzeugscheibe II (X ZR 41/14); BGH Pemetrexed II (X ZR 150/18); BGH Streitwert im Nichtigkeitsberufungsverfahren (X ZR 56/04)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen die Urteile der Nichtigkeitssenate findet die Berufung zum BGH statt; sie ist binnen eines Monats einzulegen und binnen drei Monaten zu begründen ([§ 110 PatG](https://www.gesetze-im-internet.de/patg/__110.html)). Der BGH prüft im Rahmen der Anträge und Berufungsgründe ([§ 116 PatG](https://www.gesetze-im-internet.de/patg/__116.html)); neue Angriffs- und Verteidigungsmittel sind nur nach [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html) zulässig.
+
+**A:** Berufung im Nichtigkeitsverfahren ([§§ 110 ff. PatG](https://www.gesetze-im-internet.de/patg/__110.html))
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Nebenintervention im Nichtigkeitsverfahren ([§ 66 ZPO](https://www.gesetze-im-internet.de/zpo/__66.html))
+
+**A:** Über [§ 99 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__99.html) gilt [§ 66 ZPO](https://www.gesetze-im-internet.de/zpo/__66.html): Wer ein rechtliches Interesse am Obsiegen einer Partei hat, kann dem Nichtigkeitsverfahren beitreten; das Interesse ist weit zu verstehen und liegt schon vor, wenn der Beitretende ein durch das Patent behindertes Unternehmen betreibt.
+
+Normen: [§ 99 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__99.html) MarkenG, [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG
+
+Rechtsprechung: BGH Carvedilol (Nebenintervention) (X ZR 236/01); BGH Pemetrexed II (X ZR 150/18)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Über [§ 99 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__99.html) gilt [§ 66 ZPO](https://www.gesetze-im-internet.de/zpo/__66.html): Wer ein rechtliches Interesse am Obsiegen einer Partei hat, kann dem Nichtigkeitsverfahren beitreten; das Interesse ist weit zu verstehen und liegt schon vor, wenn der Beitretende ein durch das Patent behindertes Unternehmen betreibt.
+
+**A:** Nebenintervention im Nichtigkeitsverfahren ([§ 66 ZPO](https://www.gesetze-im-internet.de/zpo/__66.html))
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Zwangslizenz ([§ 24 PatG](https://www.gesetze-im-internet.de/patg/__24.html))
+
+**A:** Das Patentgericht erteilt eine nicht ausschließliche Zwangslizenz, wenn sich der Lizenzsucher innerhalb angemessener Zeit erfolglos bemüht hat, eine Lizenz zu angemessenen Bedingungen zu erhalten, und das öffentliche Interesse die Erteilung gebietet ([§ 24 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__24.html)); weitere Fälle: abhängige Erfindung mit wichtigem technischen Fortschritt (Abs. 2), Nichtausübung (Abs. 5).
+
+Normen: [§ 24 PatG](https://www.gesetze-im-internet.de/patg/__24.html) MarkenG, [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG, [§ 85 PatG](https://www.gesetze-im-internet.de/patg/__85.html) MarkenG, [Art. II § 16 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__16.html)
+
+Rechtsprechung: BGH Raltegravir (X ZB 2/17); BGH Alirocumab (X ZB 2/19)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Patentgericht erteilt eine nicht ausschließliche Zwangslizenz, wenn sich der Lizenzsucher innerhalb angemessener Zeit erfolglos bemüht hat, eine Lizenz zu angemessenen Bedingungen zu erhalten, und das öffentliche Interesse die Erteilung gebietet ([§ 24 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__24.html)); weitere Fälle: abhängige Erfindung mit wichtigem technischen Fortschritt (Abs. 2), Nichtausübung (Abs. 5).
+
+**A:** Zwangslizenz ([§ 24 PatG](https://www.gesetze-im-internet.de/patg/__24.html))
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Streitwert und Kostenentscheidung im Nichtigkeitsverfahren (§§ [84](https://www.gesetze-im-internet.de/patg/__84.html), [121](https://www.gesetze-im-internet.de/patg/__121.html) PatG)
+
+**A:** Der Streitwert bemisst sich nach dem gemeinen Wert des Patents bei Klageerhebung zuzüglich des bis dahin entstandenen Schadensersatzes ([§ 121 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__121.html) i.V.m. [§ 51 GKG](https://www.gesetze-im-internet.de/gkg_2004/__51.html)); die Kosten trägt die unterliegende Partei nach [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html), bei erst im Verfahren erklärter Beschränkung nach Billigkeit ([§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)).
+
+Normen: [§ 121 PatG](https://www.gesetze-im-internet.de/patg/__121.html) MarkenG, [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) MarkenG, [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) MarkenG, [§ 2 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html) MarkenG
+
+Rechtsprechung: BGH Streitwert im Nichtigkeitsberufungsverfahren (X ZR 56/04); BGH Benutzerauthentifizierung (X ZR 65/24); BPatG Syndikusanwalt im Nichtigkeitsverfahren (3 Ni 10/22 / KoF 4/25)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Streitwert bemisst sich nach dem gemeinen Wert des Patents bei Klageerhebung zuzüglich des bis dahin entstandenen Schadensersatzes ([§ 121 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__121.html) i.V.m. [§ 51 GKG](https://www.gesetze-im-internet.de/gkg_2004/__51.html)); die Kosten trägt die unterliegende Partei nach [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html), bei erst im Verfahren erklärter Beschränkung nach Billigkeit ([§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)).
+
+**A:** Streitwert und Kostenentscheidung im Nichtigkeitsverfahren (§§ [84](https://www.gesetze-im-internet.de/patg/__84.html), [121](https://www.gesetze-im-internet.de/patg/__121.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Kostenerstattung und Patentanwaltskosten
+
+**A:** Im Nichtigkeitsverfahren werden die Kosten nach [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html) erstattet ([§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)); in Patentstreitsachen sind die Kosten eines mitwirkenden Patentanwalts bis zur Höhe einer Rechtsanwaltsgebühr erstattungsfähig ([§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html)). Im Einspruchs- und Beschwerdeverfahren trägt jeder seine Kosten selbst, Auferlegung nur aus Billigkeit ([§ 62](https://www.gesetze-im-internet.de/markeng/__62.html), [§ 80 PatG](https://www.gesetze-im-internet.de/patg/__80.html)).
+
+Normen: [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) MarkenG, [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html) MarkenG, [§ 62 PatG](https://www.gesetze-im-internet.de/patg/__62.html) MarkenG, [§ 80 PatG](https://www.gesetze-im-internet.de/patg/__80.html) MarkenG
+
+Rechtsprechung: BPatG Syndikusanwalt im Nichtigkeitsverfahren (3 Ni 10/22 / KoF 4/25)
+
+*Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Im Nichtigkeitsverfahren werden die Kosten nach [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html) erstattet ([§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)); in Patentstreitsachen sind die Kosten eines mitwirkenden Patentanwalts bis zur Höhe einer Rechtsanwaltsgebühr erstattungsfähig ([§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html)). Im Einspruchs- und Beschwerdeverfahren trägt jeder seine Kosten selbst, Auferlegung nur aus Billigkeit ([§ 62](https://www.gesetze-im-internet.de/markeng/__62.html), [§ 80 PatG](https://www.gesetze-im-internet.de/patg/__80.html)).
+
+**A:** Kostenerstattung und Patentanwaltskosten
+
+*Tags: Begriff, Umkehr, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+## definition
+
+**F:** Definiere: Beschwerde zum Bundespatentgericht ([§§ 73 ff. PatG](https://www.gesetze-im-internet.de/patg/__73.html))
+
+**A:** Gegen Beschlüsse der Prüfungsstellen und Patentabteilungen findet die Beschwerde zum Patentgericht statt; sie ist binnen eines Monats nach Zustellung beim DPMA einzulegen ([§ 73 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__73.html)), das binnen eines Monats abhelfen kann (Abs. 3). Die Beschwerdegebühr ist innerhalb der Beschwerdefrist zu zahlen, sonst gilt die Beschwerde als nicht eingelegt ([§ 6 Abs. 1 S. 2](https://www.gesetze-im-internet.de/markeng/__6.html), Abs. 2 PatKostG).
+
+Normen: [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html) MarkenG, [§ 74 PatG](https://www.gesetze-im-internet.de/patg/__74.html) MarkenG, [§ 75 PatG](https://www.gesetze-im-internet.de/patg/__75.html) MarkenG, [§ 79 PatG](https://www.gesetze-im-internet.de/patg/__79.html) MarkenG, [§ 80 PatG](https://www.gesetze-im-internet.de/patg/__80.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG, [§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+
+Rechtsprechung: BGH Ventileinrichtung (X ZB 1/16); BPatG Teilbeschluss (15 W (pat) 11/07)
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen Beschlüsse der Prüfungsstellen und Patentabteilungen findet die Beschwerde zum Patentgericht statt; sie ist binnen eines Monats nach Zustellung beim DPMA einzulegen ([§ 73 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__73.html)), das binnen eines Monats abhelfen kann (Abs. 3). Die Beschwerdegebühr ist innerhalb der Beschwerdefrist zu zahlen, sonst gilt die Beschwerde als nicht eingelegt ([§ 6 Abs. 1 S. 2](https://www.gesetze-im-internet.de/markeng/__6.html), Abs. 2 PatKostG).
+
+**A:** Beschwerde zum Bundespatentgericht ([§§ 73 ff. PatG](https://www.gesetze-im-internet.de/patg/__73.html))
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Rechtsbeschwerde zum BGH ([§§ 100 ff. PatG](https://www.gesetze-im-internet.de/patg/__100.html))
+
+**A:** Gegen Beschlüsse der Beschwerdesenate findet die Rechtsbeschwerde zum BGH statt, wenn das Patentgericht sie zugelassen hat ([§ 100 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__100.html)) oder ein absoluter Rechtsbeschwerdegrund vorliegt ([§ 100 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html): fehlerhafte Besetzung, ausgeschlossener Richter, Verletzung des rechtlichen Gehörs, fehlende Vertretung, Öffentlichkeit, fehlende Gründe); Frist ein Monat, Anwaltszwang ([§ 102 PatG](https://www.gesetze-im-internet.de/patg/__102.html)).
+
+Normen: [§ 100 PatG](https://www.gesetze-im-internet.de/patg/__100.html) MarkenG, [§ 101 PatG](https://www.gesetze-im-internet.de/patg/__101.html) MarkenG, [§ 102 PatG](https://www.gesetze-im-internet.de/patg/__102.html) MarkenG, [§ 107 PatG](https://www.gesetze-im-internet.de/patg/__107.html) MarkenG
+
+Rechtsprechung: BGH Schwingungsdämpfer (Xa ZB 36/08); BGH Leistungshalbleiterbauelement (Xa ZB 28/08)
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen Beschlüsse der Beschwerdesenate findet die Rechtsbeschwerde zum BGH statt, wenn das Patentgericht sie zugelassen hat ([§ 100 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__100.html)) oder ein absoluter Rechtsbeschwerdegrund vorliegt ([§ 100 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html): fehlerhafte Besetzung, ausgeschlossener Richter, Verletzung des rechtlichen Gehörs, fehlende Vertretung, Öffentlichkeit, fehlende Gründe); Frist ein Monat, Anwaltszwang ([§ 102 PatG](https://www.gesetze-im-internet.de/patg/__102.html)).
+
+**A:** Rechtsbeschwerde zum BGH ([§§ 100 ff. PatG](https://www.gesetze-im-internet.de/patg/__100.html))
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Rechtliches Gehör im Patentverfahren
+
+**A:** Beteiligte müssen Gelegenheit haben, sich zu allen entscheidungserheblichen Tatsachen und Rechtsfragen zu äußern ([Art. 103 Abs. 1 GG](https://www.gesetze-im-internet.de/gg/art_103.html)); das DPMA darf nur aus Gründen zurückweisen, zu denen der Anmelder gehört wurde ([§ 48](https://www.gesetze-im-internet.de/markeng/__48.html) i.V.m. [§ 42 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__42.html)), und das Patentgericht muss auf abweichende Rechtsauffassungen hinweisen.
+
+Normen: [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html) MarkenG, [§ 100 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html) MarkenG, [§ 99 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__99.html) MarkenG, [§ 80 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__80.html) MarkenG
+
+Rechtsprechung: BGH Schwingungsdämpfer (Xa ZB 36/08)
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Beteiligte müssen Gelegenheit haben, sich zu allen entscheidungserheblichen Tatsachen und Rechtsfragen zu äußern ([Art. 103 Abs. 1 GG](https://www.gesetze-im-internet.de/gg/art_103.html)); das DPMA darf nur aus Gründen zurückweisen, zu denen der Anmelder gehört wurde ([§ 48](https://www.gesetze-im-internet.de/markeng/__48.html) i.V.m. [§ 42 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__42.html)), und das Patentgericht muss auf abweichende Rechtsauffassungen hinweisen.
+
+**A:** Rechtliches Gehör im Patentverfahren
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Wiedereinsetzung in den vorigen Stand ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html))
+
+**A:** Wer ohne Verschulden verhindert war, eine Frist einzuhalten, deren Versäumung einen Rechtsnachteil zur Folge hat, wird auf Antrag wieder eingesetzt; der Antrag ist binnen zwei Monaten nach Wegfall des Hindernisses zu stellen, zu begründen und die Handlung nachzuholen, spätestens ein Jahr nach Fristablauf ([§ 123 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__123.html)).
+
+Normen: [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html) MarkenG
+
+Rechtsprechung: BGH Verdickerpolymer II (X ZB 4/14); BPatG Mehrfach-Funkgerät (10 W (pat) 36/06); BPatG Weiterbehandlung (10 W (pat) 42/06)
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer ohne Verschulden verhindert war, eine Frist einzuhalten, deren Versäumung einen Rechtsnachteil zur Folge hat, wird auf Antrag wieder eingesetzt; der Antrag ist binnen zwei Monaten nach Wegfall des Hindernisses zu stellen, zu begründen und die Handlung nachzuholen, spätestens ein Jahr nach Fristablauf ([§ 123 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__123.html)).
+
+**A:** Wiedereinsetzung in den vorigen Stand ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html))
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html))
+
+**A:** Ist eine Anmeldung wegen Versäumung einer vom DPMA bestimmten Frist zurückgewiesen worden, wird der Zurückweisungsbeschluss auf Antrag gegenstandslos, wenn der Anmelder binnen eines Monats nach Zustellung die versäumte Handlung nachholt und die Weiterbehandlungsgebühr zahlt ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)); ein Verschulden spielt keine Rolle.
+
+Normen: [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+
+Rechtsprechung: BPatG Weiterbehandlung (10 W (pat) 42/06); BPatG Weiterbehandlung II (10 W (pat) 22/10)
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ist eine Anmeldung wegen Versäumung einer vom DPMA bestimmten Frist zurückgewiesen worden, wird der Zurückweisungsbeschluss auf Antrag gegenstandslos, wenn der Anmelder binnen eines Monats nach Zustellung die versäumte Handlung nachholt und die Weiterbehandlungsgebühr zahlt ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)); ein Verschulden spielt keine Rolle.
+
+**A:** Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html))
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Fristen im Patentverfahren (Übersicht)
+
+**A:** Gesetzliche Fristen: Übersetzung drei Monate ([§ 35 Abs. 2](https://www.gesetze-im-internet.de/markeng/__35.html)), Erfinderbenennung 15 Monate ([§ 37](https://www.gesetze-im-internet.de/markeng/__37.html)), Prioritätserklärung 16 Monate ([§ 41](https://www.gesetze-im-internet.de/markeng/__41.html)), Prüfungsantrag sieben Jahre ([§ 44](https://www.gesetze-im-internet.de/markeng/__44.html)), Einspruch neun Monate ([§ 59](https://www.gesetze-im-internet.de/markeng/__59.html)), Beschwerde und Rechtsbeschwerde ein Monat ([§ 73](https://www.gesetze-im-internet.de/markeng/__73.html), [§ 102](https://www.gesetze-im-internet.de/markeng/__102.html)), Berufung ein Monat plus drei Monate Begründung ([§ 110](https://www.gesetze-im-internet.de/markeng/__110.html)), Wiedereinsetzung zwei Monate/ein Jahr ([§ 123](https://www.gesetze-im-internet.de/markeng/__123.html)), Weiterbehandlung ein Monat ([§ 123a](https://www.gesetze-im-internet.de/markeng/__123a.html)); Zahlungsfristen nach §§ [6](https://www.gesetze-im-internet.de/patkostg/__6.html), [7](https://www.gesetze-im-internet.de/patkostg/__7.html) PatKostG.
+
+Normen: [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html) MarkenG, [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html) MarkenG, [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html) MarkenG, [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html) MarkenG, [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html) MarkenG, [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html) MarkenG, [§ 110 PatG](https://www.gesetze-im-internet.de/patg/__110.html) MarkenG, [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html) MarkenG, [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html) MarkenG, [§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG, [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html) MarkenG
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gesetzliche Fristen: Übersetzung drei Monate ([§ 35 Abs. 2](https://www.gesetze-im-internet.de/markeng/__35.html)), Erfinderbenennung 15 Monate ([§ 37](https://www.gesetze-im-internet.de/markeng/__37.html)), Prioritätserklärung 16 Monate ([§ 41](https://www.gesetze-im-internet.de/markeng/__41.html)), Prüfungsantrag sieben Jahre ([§ 44](https://www.gesetze-im-internet.de/markeng/__44.html)), Einspruch neun Monate ([§ 59](https://www.gesetze-im-internet.de/markeng/__59.html)), Beschwerde und Rechtsbeschwerde ein Monat ([§ 73](https://www.gesetze-im-internet.de/markeng/__73.html), [§ 102](https://www.gesetze-im-internet.de/markeng/__102.html)), Berufung ein Monat plus drei Monate Begründung ([§ 110](https://www.gesetze-im-internet.de/markeng/__110.html)), Wiedereinsetzung zwei Monate/ein Jahr ([§ 123](https://www.gesetze-im-internet.de/markeng/__123.html)), Weiterbehandlung ein Monat ([§ 123a](https://www.gesetze-im-internet.de/markeng/__123a.html)); Zahlungsfristen nach §§ [6](https://www.gesetze-im-internet.de/patkostg/__6.html), [7](https://www.gesetze-im-internet.de/patkostg/__7.html) PatKostG.
+
+**A:** Fristen im Patentverfahren (Übersicht)
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Bundespatentgericht: Aufbau und Senate ([§§ 65 ff. PatG](https://www.gesetze-im-internet.de/patg/__65.html))
+
+**A:** Das Bundespatentgericht in München entscheidet über Beschwerden gegen Beschlüsse des DPMA sowie über Nichtigkeits- und Zwangslizenzklagen ([§ 65 PatG](https://www.gesetze-im-internet.de/patg/__65.html)). Technische Beschwerdesenate sind mit einem rechtskundigen und zwei technischen Richtern besetzt, Nichtigkeitssenate mit zwei rechtskundigen und drei technischen Richtern, der Juristische Beschwerdesenat mit drei rechtskundigen Richtern ([§ 66](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 67 PatG](https://www.gesetze-im-internet.de/patg/__67.html)).
+
+Normen: [§ 65 PatG](https://www.gesetze-im-internet.de/patg/__65.html) MarkenG, [§ 66 PatG](https://www.gesetze-im-internet.de/patg/__66.html) MarkenG, [§ 67 PatG](https://www.gesetze-im-internet.de/patg/__67.html) MarkenG, [§ 99 PatG](https://www.gesetze-im-internet.de/patg/__99.html) MarkenG
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Bundespatentgericht in München entscheidet über Beschwerden gegen Beschlüsse des DPMA sowie über Nichtigkeits- und Zwangslizenzklagen ([§ 65 PatG](https://www.gesetze-im-internet.de/patg/__65.html)). Technische Beschwerdesenate sind mit einem rechtskundigen und zwei technischen Richtern besetzt, Nichtigkeitssenate mit zwei rechtskundigen und drei technischen Richtern, der Juristische Beschwerdesenat mit drei rechtskundigen Richtern ([§ 66](https://www.gesetze-im-internet.de/markeng/__66.html), [§ 67 PatG](https://www.gesetze-im-internet.de/patg/__67.html)).
+
+**A:** Bundespatentgericht: Aufbau und Senate ([§§ 65 ff. PatG](https://www.gesetze-im-internet.de/patg/__65.html))
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Gebrauchsmuster und Abzweigung (Verhältnis zum PatG)
+
+**A:** Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen außer Verfahren ([§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) mit zehnjähriger Laufzeit; aus einer Patentanmeldung kann binnen zwei Monaten nach deren Erledigung ein Gebrauchsmuster mit gleichem Zeitrang abgezweigt werden ([§ 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html), [§ 145a PatG](https://www.gesetze-im-internet.de/patg/__145a.html)).
+
+Normen: [§ 145a PatG](https://www.gesetze-im-internet.de/patg/__145a.html) MarkenG
+
+Rechtsprechung: BGH Feldmausbekämpfung (X ZB 18/16)
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen außer Verfahren ([§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) mit zehnjähriger Laufzeit; aus einer Patentanmeldung kann binnen zwei Monaten nach deren Erledigung ein Gebrauchsmuster mit gleichem Zeitrang abgezweigt werden ([§ 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html), [§ 145a PatG](https://www.gesetze-im-internet.de/patg/__145a.html)).
+
+**A:** Gebrauchsmuster und Abzweigung (Verhältnis zum PatG)
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Gebühren des DPMA und des BPatG (PatKostG, Gebührenverzeichnis)
+
+**A:** Die Gebühren des DPMA und des BPatG richten sich nach dem Gebührenverzeichnis der Anlage zum PatKostG ([§ 2 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html)); im Klageverfahren vor dem BPatG werden Wertgebühren nach dem Streitwert erhoben ([§ 2 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html)). Kostenschuldner ist, wer die Amtshandlung beantragt ([§ 4 PatKostG](https://www.gesetze-im-internet.de/patkostg/__4.html)).
+
+Normen: [§ 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html) MarkenG, [§ 4 PatKostG](https://www.gesetze-im-internet.de/patkostg/__4.html) MarkenG, Anlage PatKostG
+
+Rechtsprechung: BPatG Einspruchsgebühren bei gemeinsamem Einspruch (19 W (pat) 303/05); BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03); BPatG Jahresgebühren (keine Rückzahlung) (10 W (pat) 45/05)
+
+*Tags: Begriff, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Gebühren des DPMA und des BPatG richten sich nach dem Gebührenverzeichnis der Anlage zum PatKostG ([§ 2 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html)); im Klageverfahren vor dem BPatG werden Wertgebühren nach dem Streitwert erhoben ([§ 2 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html)). Kostenschuldner ist, wer die Amtshandlung beantragt ([§ 4 PatKostG](https://www.gesetze-im-internet.de/patkostg/__4.html)).
+
+**A:** Gebühren des DPMA und des BPatG (PatKostG, Gebührenverzeichnis)
+
+*Tags: Begriff, Umkehr, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## definition
+
+**F:** Definiere: Fälligkeit der Gebühren ([§ 3 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html))
+
+**A:** Gebühren werden mit Einreichung der Anmeldung, des Antrags oder der Vornahme der Handlung fällig ([§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html)); Jahresgebühren werden jeweils für das folgende Jahr am letzten Tag des Monats fällig, der durch seine Benennung dem Monat des Anmeldetags entspricht ([§ 3 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html)).
+
+Normen: [§ 3 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html) MarkenG, [§ 5 PatKostG](https://www.gesetze-im-internet.de/patkostg/__5.html) MarkenG
+
+Rechtsprechung: BPatG Nationale Gebühr einer internationalen Anmeldung (10 W (pat) 2/13)
+
+*Tags: Begriff, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gebühren werden mit Einreichung der Anmeldung, des Antrags oder der Vornahme der Handlung fällig ([§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html)); Jahresgebühren werden jeweils für das folgende Jahr am letzten Tag des Monats fällig, der durch seine Benennung dem Monat des Anmeldetags entspricht ([§ 3 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html)).
+
+**A:** Fälligkeit der Gebühren ([§ 3 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html))
+
+*Tags: Begriff, Umkehr, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## definition
+
+**F:** Definiere: Zahlungsfristen und Folgen der Nichtzahlung ([§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html))
+
+**A:** Anmelde-, Prüfungs- und Antragsgebühren sind binnen drei Monaten nach Fälligkeit zu zahlen, Gebühren für Rechtsbehelfe innerhalb der Rechtsbehelfsfrist ([§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)); bei Nichtzahlung gilt die Anmeldung als zurückgenommen, der Antrag als nicht gestellt und der Rechtsbehelf als nicht erhoben ([§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)).
+
+Normen: [§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+
+Rechtsprechung: BPatG Einspruchsgebühren bei gemeinsamem Einspruch (19 W (pat) 303/05); BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03); BPatG Nationale Gebühr einer internationalen Anmeldung (10 W (pat) 2/13); BPatG Sägeblatt (10 W (pat) 13/05)
+
+*Tags: Begriff, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Anmelde-, Prüfungs- und Antragsgebühren sind binnen drei Monaten nach Fälligkeit zu zahlen, Gebühren für Rechtsbehelfe innerhalb der Rechtsbehelfsfrist ([§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)); bei Nichtzahlung gilt die Anmeldung als zurückgenommen, der Antrag als nicht gestellt und der Rechtsbehelf als nicht erhoben ([§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)).
+
+**A:** Zahlungsfristen und Folgen der Nichtzahlung ([§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html))
+
+*Tags: Begriff, Umkehr, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## definition
+
+**F:** Definiere: Jahresgebühren: Zahlungsfrist und Verspätungszuschlag ([§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html))
+
+**A:** Jahresgebühren können bis zum Ablauf des zweiten Monats nach Fälligkeit ohne Zuschlag gezahlt werden; danach bis zum Ablauf des sechsten Monats nach Fälligkeit mit einem Verspätungszuschlag von 50 EUR ([§ 7 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html)); wird nicht gezahlt, erlischt das Patent rückwirkend zum Fälligkeitstag ([§ 20 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__20.html)).
+
+Normen: [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html) MarkenG, [§ 3 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html) MarkenG, [§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html) MarkenG, [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html) MarkenG, [§ 20 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__20.html) MarkenG
+
+Rechtsprechung: BPatG Sägeblatt (10 W (pat) 13/05); BPatG Jahresgebühren (keine Rückzahlung) (10 W (pat) 45/05); BGH Verdickerpolymer II (X ZB 4/14)
+
+*Tags: Begriff, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Jahresgebühren können bis zum Ablauf des zweiten Monats nach Fälligkeit ohne Zuschlag gezahlt werden; danach bis zum Ablauf des sechsten Monats nach Fälligkeit mit einem Verspätungszuschlag von 50 EUR ([§ 7 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html)); wird nicht gezahlt, erlischt das Patent rückwirkend zum Fälligkeitstag ([§ 20 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__20.html)).
+
+**A:** Jahresgebühren: Zahlungsfrist und Verspätungszuschlag ([§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html))
+
+*Tags: Begriff, Umkehr, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## definition
+
+**F:** Definiere: Kostenansatz, Erinnerung und Rückzahlung (§§ [8](https://www.gesetze-im-internet.de/patkostg/__8.html) bis [11](https://www.gesetze-im-internet.de/patkostg/__11.html) PatKostG)
+
+**A:** Die Kosten werden vom DPMA oder BPatG angesetzt ([§ 8 PatKostG](https://www.gesetze-im-internet.de/patkostg/__8.html)); gegen den Kostenansatz sind Erinnerung und Beschwerde gegeben ([§ 11 PatKostG](https://www.gesetze-im-internet.de/patkostg/__11.html)). Kosten, die bei richtiger Sachbehandlung nicht entstanden wären, werden nicht erhoben ([§ 9 PatKostG](https://www.gesetze-im-internet.de/patkostg/__9.html)); ohne Rechtsgrund gezahlte Gebühren werden zurückgezahlt ([§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html)).
+
+Normen: [§ 8 PatKostG](https://www.gesetze-im-internet.de/patkostg/__8.html) MarkenG, [§ 9 PatKostG](https://www.gesetze-im-internet.de/patkostg/__9.html) MarkenG, [§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html) MarkenG, [§ 11 PatKostG](https://www.gesetze-im-internet.de/patkostg/__11.html) MarkenG, [§ 12 PatKostG](https://www.gesetze-im-internet.de/patkostg/__12.html) MarkenG
+
+Rechtsprechung: BPatG Jahresgebühren (keine Rückzahlung) (10 W (pat) 45/05)
+
+*Tags: Begriff, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Kosten werden vom DPMA oder BPatG angesetzt ([§ 8 PatKostG](https://www.gesetze-im-internet.de/patkostg/__8.html)); gegen den Kostenansatz sind Erinnerung und Beschwerde gegeben ([§ 11 PatKostG](https://www.gesetze-im-internet.de/patkostg/__11.html)). Kosten, die bei richtiger Sachbehandlung nicht entstanden wären, werden nicht erhoben ([§ 9 PatKostG](https://www.gesetze-im-internet.de/patkostg/__9.html)); ohne Rechtsgrund gezahlte Gebühren werden zurückgezahlt ([§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html)).
+
+**A:** Kostenansatz, Erinnerung und Rückzahlung (§§ [8](https://www.gesetze-im-internet.de/patkostg/__8.html) bis [11](https://www.gesetze-im-internet.de/patkostg/__11.html) PatKostG)
+
+*Tags: Begriff, Umkehr, Patent: Kosten und Gebühren (PatKostG)*
+
+---
+
+## definition
+
+**F:** Definiere: Europäisches Patent mit Wirkung für Deutschland (Art. II IntPatÜG)
+
+**A:** Ein vom EPA erteiltes europäisches Patent hat in Deutschland dieselbe Wirkung wie ein nationales Patent (Art. 64 EPÜ); das IntPatÜG regelt Entschädigung (Art. II § 1), Übersetzungen (§§ [2](https://www.gesetze-im-internet.de/markeng/__2.html), [3](https://www.gesetze-im-internet.de/markeng/__3.html)), Nichtigkeit ([§ 6](https://www.gesetze-im-internet.de/markeng/__6.html)), Jahresgebühren ([§ 7](https://www.gesetze-im-internet.de/markeng/__7.html)), Doppelschutz (§§ [8](https://www.gesetze-im-internet.de/markeng/__8.html), [18](https://www.gesetze-im-internet.de/markeng/__18.html)) und Umwandlung ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html)). Seit dem Londoner Übereinkommen (1.5.2008) entfällt die Übersetzung der Patentschrift (Art. XI § 4).
+
+Normen: [Art. II § 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__1.html), [Art. II § 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__3.html), [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [Art. II § 7 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__7.html), [Art. XI § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_xi__4.html)
+
+Rechtsprechung: BPatG Ethylenische Hauptketten (10 W (pat) 19/09); BPatG Torasemid (3 Ni 7/06 (EU))
+
+*Tags: Begriff, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein vom EPA erteiltes europäisches Patent hat in Deutschland dieselbe Wirkung wie ein nationales Patent (Art. 64 EPÜ); das IntPatÜG regelt Entschädigung (Art. II § 1), Übersetzungen (§§ [2](https://www.gesetze-im-internet.de/markeng/__2.html), [3](https://www.gesetze-im-internet.de/markeng/__3.html)), Nichtigkeit ([§ 6](https://www.gesetze-im-internet.de/markeng/__6.html)), Jahresgebühren ([§ 7](https://www.gesetze-im-internet.de/markeng/__7.html)), Doppelschutz (§§ [8](https://www.gesetze-im-internet.de/markeng/__8.html), [18](https://www.gesetze-im-internet.de/markeng/__18.html)) und Umwandlung ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html)). Seit dem Londoner Übereinkommen (1.5.2008) entfällt die Übersetzung der Patentschrift (Art. XI § 4).
+
+**A:** Europäisches Patent mit Wirkung für Deutschland (Art. II IntPatÜG)
+
+*Tags: Begriff, Umkehr, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## definition
+
+**F:** Definiere: Doppelschutzverbot und Einrede der doppelten Inanspruchnahme (Art. II §§ [8](https://www.gesetze-im-internet.de/intpat_bkg/__8.html), [18](https://www.gesetze-im-internet.de/intpat_bkg/__18.html) IntPatÜG)
+
+**A:** Ein deutsches Patent verliert seine Wirkung, soweit für dieselbe Erfindung desselben Erfinders mit gleichem Zeitrang ein europäisches Patent mit Wirkung für Deutschland erteilt ist ([Art. II § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__8.html)); seit 1.6.2023 gilt das nicht, wenn das europäische Patent dem EPG unterliegt: Dann bleibt der Doppelschutz bestehen, und der Beklagte kann die Einrede der doppelten Inanspruchnahme erheben ([Art. II § 18 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__18.html)).
+
+Normen: [Art. II § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__8.html), [Art. II § 18 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__18.html)
+
+*Tags: Begriff, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein deutsches Patent verliert seine Wirkung, soweit für dieselbe Erfindung desselben Erfinders mit gleichem Zeitrang ein europäisches Patent mit Wirkung für Deutschland erteilt ist ([Art. II § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__8.html)); seit 1.6.2023 gilt das nicht, wenn das europäische Patent dem EPG unterliegt: Dann bleibt der Doppelschutz bestehen, und der Beklagte kann die Einrede der doppelten Inanspruchnahme erheben ([Art. II § 18 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__18.html)).
+
+**A:** Doppelschutzverbot und Einrede der doppelten Inanspruchnahme (Art. II §§ [8](https://www.gesetze-im-internet.de/intpat_bkg/__8.html), [18](https://www.gesetze-im-internet.de/intpat_bkg/__18.html) IntPatÜG)
+
+*Tags: Begriff, Umkehr, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## definition
+
+**F:** Definiere: Einheitspatent im nationalen Recht (Art. II §§ [15](https://www.gesetze-im-internet.de/intpat_bkg/__15.html) bis [20](https://www.gesetze-im-internet.de/intpat_bkg/__20.html) IntPatÜG)
+
+**A:** Für das europäische Patent mit einheitlicher Wirkung gelten die Vorschriften über europäische Patente entsprechend, soweit die Verordnung (EU) Nr. 1257/2012 nichts anderes bestimmt; nationale Nichtigkeit, Jahresgebühren an das DPMA, Doppelschutzverbot und Umwandlung sind ausgeschlossen ([Art. II § 15 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__15.html)). Zwangslizenzen erteilt das BPatG ([§ 16](https://www.gesetze-im-internet.de/markeng/__16.html)), Verzicht nur einheitlich ([§ 17](https://www.gesetze-im-internet.de/markeng/__17.html)), Vollstreckung von EPG-Entscheidungen nach der ZPO ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)).
+
+Normen: [Art. II § 15 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__15.html), [Art. II § 16 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__16.html), [Art. II § 17 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__17.html), [Art. II § 19 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__19.html), [Art. II § 20 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__20.html)
+
+*Tags: Begriff, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für das europäische Patent mit einheitlicher Wirkung gelten die Vorschriften über europäische Patente entsprechend, soweit die Verordnung (EU) Nr. 1257/2012 nichts anderes bestimmt; nationale Nichtigkeit, Jahresgebühren an das DPMA, Doppelschutzverbot und Umwandlung sind ausgeschlossen ([Art. II § 15 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__15.html)). Zwangslizenzen erteilt das BPatG ([§ 16](https://www.gesetze-im-internet.de/markeng/__16.html)), Verzicht nur einheitlich ([§ 17](https://www.gesetze-im-internet.de/markeng/__17.html)), Vollstreckung von EPG-Entscheidungen nach der ZPO ([§ 19](https://www.gesetze-im-internet.de/markeng/__19.html)).
+
+**A:** Einheitspatent im nationalen Recht (Art. II §§ [15](https://www.gesetze-im-internet.de/intpat_bkg/__15.html) bis [20](https://www.gesetze-im-internet.de/intpat_bkg/__20.html) IntPatÜG)
+
+*Tags: Begriff, Umkehr, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## definition
+
+**F:** Definiere: PCT-Anmeldung und nationale Phase (Art. III IntPatÜG)
+
+**A:** Das DPMA ist Anmeldeamt ([Art. III § 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__1.html)), Bestimmungsamt ([§ 4](https://www.gesetze-im-internet.de/markeng/__4.html)) und ausgewähltes Amt ([§ 6](https://www.gesetze-im-internet.de/markeng/__6.html)) für internationale Anmeldungen nach dem PCT; für die nationale Phase sind binnen 30 Monaten ab Prioritätstag die Übersetzung einzureichen und die nationale Gebühr zu zahlen ([Art. III § 4 Abs. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__4.html)), sonst gilt die Wirkung der Anmeldung als beendet.
+
+Normen: [Art. III § 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__1.html), [Art. III § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__4.html), [Art. III § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__6.html), [Art. III § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__8.html), [§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html) MarkenG
+
+Rechtsprechung: BPatG Nationale Gebühr einer internationalen Anmeldung (10 W (pat) 2/13)
+
+*Tags: Begriff, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das DPMA ist Anmeldeamt ([Art. III § 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__1.html)), Bestimmungsamt ([§ 4](https://www.gesetze-im-internet.de/markeng/__4.html)) und ausgewähltes Amt ([§ 6](https://www.gesetze-im-internet.de/markeng/__6.html)) für internationale Anmeldungen nach dem PCT; für die nationale Phase sind binnen 30 Monaten ab Prioritätstag die Übersetzung einzureichen und die nationale Gebühr zu zahlen ([Art. III § 4 Abs. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__4.html)), sonst gilt die Wirkung der Anmeldung als beendet.
+
+**A:** PCT-Anmeldung und nationale Phase (Art. III IntPatÜG)
+
+*Tags: Begriff, Umkehr, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
 ## schema
 
 **F:** Prüfungsschema: Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2, 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html))
@@ -5947,6 +7921,128 @@ Die Art. 56 bis 69 und [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/D
 - D. Wirkung und Rechtsmittel
 
 *Tags: Prüfungsschema, EPG: Einstweilige Maßnahmen und Beweis*
+
+---
+
+**F:** Prüfungsschema: Patentfähigkeit (§§ [1](https://www.gesetze-im-internet.de/patg/__1.html) bis [5](https://www.gesetze-im-internet.de/patg/__5.html) PatG)
+
+**A:** - A. Anspruch auslegen und gliedern
+- B. Erfindung: Technizität und Ausschlüsse ([§ 1](https://www.gesetze-im-internet.de/markeng/__1.html), [§ 1a](https://www.gesetze-im-internet.de/markeng/__1a.html), [§ 2](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 2a PatG](https://www.gesetze-im-internet.de/patg/__2a.html))
+  - 1. Technische Lehre ([§ 1 Abs. 1](https://www.gesetze-im-internet.de/markeng/__1.html))
+  - 2. Kein Ausschluss „als solches“ ([§ 1 Abs. 3, 4](https://www.gesetze-im-internet.de/markeng/__1.html))
+  - 3. Biotechnologie, ordre public, Sorten und Behandlungsverfahren (§§ [1a](https://www.gesetze-im-internet.de/markeng/__1a.html), [2](https://www.gesetze-im-internet.de/markeng/__2.html), [2a](https://www.gesetze-im-internet.de/markeng/__2a.html))
+- C. Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html))
+  - 1. Stand der Technik bestimmen ([§ 3 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__3.html))
+  - 2. Einzelvergleich: unmittelbar und eindeutig offenbart?
+  - 3. Sonderfall: zweckgebundener Stoffschutz ([§ 3 Abs. 3, 4](https://www.gesetze-im-internet.de/markeng/__3.html))
+- D. Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html))
+  - 1. Fachmann und Fachwissen bestimmen
+  - 2. Nächstliegender Stand der Technik und objektives Problem
+  - 3. Veranlassung des Fachmanns (Naheliegen)
+- E. Gewerbliche Anwendbarkeit ([§ 5 PatG](https://www.gesetze-im-internet.de/patg/__5.html))
+- F. Ergebnis und Folgen
+
+*Tags: Prüfungsschema, Patent: Patentfähigkeit*
+
+---
+
+**F:** Prüfungsschema: Patentverletzung (§§ [9](https://www.gesetze-im-internet.de/patg/__9.html), [10](https://www.gesetze-im-internet.de/patg/__10.html), [14](https://www.gesetze-im-internet.de/patg/__14.html), [139](https://www.gesetze-im-internet.de/patg/__139.html) ff. PatG)
+
+**A:** - A. Zulässigkeit: Patentstreitkammer, Aktivlegitimation
+- B. Schutzbereich ([§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html))
+  - 1. Merkmalsgliederung und Auslegung
+  - 2. Wortsinngemäße Benutzung
+  - 3. Äquivalente Benutzung (Schneidmesser-Fragen)
+- C. Benutzungshandlung im Inland (§§ [9](https://www.gesetze-im-internet.de/patg/__9.html), [10](https://www.gesetze-im-internet.de/patg/__10.html) PatG)
+  - 1. Unmittelbare Benutzung ([§ 9 S. 2](https://www.gesetze-im-internet.de/markeng/__9.html))
+  - 2. Mittelbare Benutzung ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html))
+- D. Einwendungen und Einreden
+  - 1. Schranken ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html)), Vorbenutzungsrecht ([§ 12](https://www.gesetze-im-internet.de/markeng/__12.html)), Staatsbenutzung ([§ 13](https://www.gesetze-im-internet.de/markeng/__13.html))
+  - 2. Erschöpfung
+  - 3. Lizenz, Zwangslizenz, kartellrechtlicher Einwand
+  - 4. Rechtsbestand und Aussetzung ([§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html))
+  - 5. Verjährung und Verwirkung ([§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html))
+- E. Rechtsfolgen (§§ [139](https://www.gesetze-im-internet.de/patg/__139.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG)
+  - 1. Unterlassung ([§ 139 Abs. 1](https://www.gesetze-im-internet.de/markeng/__139.html))
+  - 2. Schadensersatz ([§ 139 Abs. 2](https://www.gesetze-im-internet.de/markeng/__139.html)) und Bezifferung
+  - 3. Vernichtung, Rückruf, Auskunft, Besichtigung, Urteilsbekanntmachung
+  - 4. Kosten und Streitwert
+
+*Tags: Prüfungsschema, Patent: Wirkung, Verletzung, Schranken*
+
+---
+
+**F:** Prüfungsschema: Einspruch und Einspruchsbeschwerde (§§ [59](https://www.gesetze-im-internet.de/patg/__59.html) bis [62](https://www.gesetze-im-internet.de/patg/__62.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) ff. PatG)
+
+**A:** - A. Zulässigkeit des Einspruchs ([§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html))
+  - 1. Frist: neun Monate ab Veröffentlichung der Erteilung
+  - 2. Form und Gebühr
+  - 3. Begründung: Tatsachen im Einzelnen
+  - 4. Einspruchsberechtigung und Beitritt
+- B. Begründetheit: Widerrufsgründe ([§ 21 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__21.html))
+  - 1. Fehlende Patentfähigkeit (Nr. 1)
+  - 2. Mangelnde Ausführbarkeit (Nr. 2)
+  - 3. Widerrechtliche Entnahme (Nr. 3)
+  - 4. Unzulässige Erweiterung (Nr. 4)
+- C. Entscheidung der Patentabteilung ([§ 61 PatG](https://www.gesetze-im-internet.de/patg/__61.html))
+- D. Beschwerde zum Technischen Beschwerdesenat ([§§ 73 ff. PatG](https://www.gesetze-im-internet.de/patg/__73.html))
+  - 1. Zulässigkeit: Monatsfrist, Gebühr, Beschwer
+  - 2. Abhilfe und Vorlage ([§ 73 Abs. 3](https://www.gesetze-im-internet.de/markeng/__73.html))
+  - 3. Entscheidung ([§ 79](https://www.gesetze-im-internet.de/markeng/__79.html)) und Kosten ([§ 80](https://www.gesetze-im-internet.de/markeng/__80.html))
+
+*Tags: Prüfungsschema, Patent: Einspruch und Beschränkung*
+
+---
+
+**F:** Prüfungsschema: Nichtigkeitsklage (§§ [81](https://www.gesetze-im-internet.de/patg/__81.html) bis [84](https://www.gesetze-im-internet.de/patg/__84.html), [110](https://www.gesetze-im-internet.de/patg/__110.html) ff. PatG; [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html))
+
+**A:** - A. Zulässigkeit
+  - 1. Zuständigkeit: BPatG oder EPG?
+  - 2. Klagebefugnis und Klagesperre ([§ 81 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__81.html))
+  - 3. Klageschrift, Gebühr, Sicherheitsleistung
+- B. Nichtigkeitsgründe ([§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html); [Art. II § 6 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html))
+- C. Verfahren vor dem Nichtigkeitssenat
+  - 1. Zustellung und Widerspruch ([§ 82](https://www.gesetze-im-internet.de/markeng/__82.html))
+  - 2. Qualifizierter Hinweis, Fristen, Präklusion ([§ 83](https://www.gesetze-im-internet.de/markeng/__83.html))
+  - 3. Beschränkte Verteidigung und Hilfsanträge
+  - 4. Nebenintervention und Aussetzung des Verletzungsprozesses
+- D. Urteil, Kosten ([§ 84](https://www.gesetze-im-internet.de/markeng/__84.html)), Wirkung
+- E. Berufung zum BGH ([§§ 110 ff. PatG](https://www.gesetze-im-internet.de/patg/__110.html))
+
+*Tags: Prüfungsschema, Patent: Nichtigkeit und Zwangslizenz*
+
+---
+
+**F:** Prüfungsschema: Anmeldung und Erteilungsverfahren (§§ [34](https://www.gesetze-im-internet.de/patg/__34.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG, PatV, PatKostG)
+
+**A:** - A. Anmeldetag ([§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html))
+- B. Anmeldeunterlagen und Form ([§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), PatV)
+  - 1. Antrag, Ansprüche, Beschreibung, Zeichnungen, Zusammenfassung
+  - 2. Anmeldegebühr (Nr. 311 000) binnen drei Monaten
+  - 3. Priorität (§§ [40](https://www.gesetze-im-internet.de/markeng/__40.html), [41](https://www.gesetze-im-internet.de/markeng/__41.html)) und Erfinderbenennung ([§ 37](https://www.gesetze-im-internet.de/markeng/__37.html))
+- C. Offensichtlichkeitsprüfung, Recherche, Prüfungsantrag (§§ [42](https://www.gesetze-im-internet.de/markeng/__42.html) bis [44](https://www.gesetze-im-internet.de/markeng/__44.html))
+- D. Prüfungsverfahren (§§ [45](https://www.gesetze-im-internet.de/markeng/__45.html) bis [48](https://www.gesetze-im-internet.de/markeng/__48.html))
+  - 1. Bescheide, rechtliches Gehör, Änderungen ([§ 38](https://www.gesetze-im-internet.de/markeng/__38.html))
+  - 2. Teilung und Ausscheidung (§§ [39](https://www.gesetze-im-internet.de/markeng/__39.html), [34](https://www.gesetze-im-internet.de/markeng/__34.html) Abs. 5)
+  - 3. Zurückweisung ([§ 48](https://www.gesetze-im-internet.de/markeng/__48.html)) und Rechtsbehelfe
+- E. Erteilung ([§ 49](https://www.gesetze-im-internet.de/markeng/__49.html)), Veröffentlichung ([§ 58](https://www.gesetze-im-internet.de/markeng/__58.html)), Jahresgebühren ([§ 17](https://www.gesetze-im-internet.de/markeng/__17.html))
+
+*Tags: Prüfungsschema, Patent: Anmeldung und Erteilung*
+
+---
+
+**F:** Prüfungsschema: Fristversäumung: Rechtsfolge und Rechtsbehelf (§§ [123](https://www.gesetze-im-internet.de/patg/__123.html), [123a](https://www.gesetze-im-internet.de/patg/__123a.html) PatG; §§ [6](https://www.gesetze-im-internet.de/patkostg/__6.html), [7](https://www.gesetze-im-internet.de/patkostg/__7.html) PatKostG)
+
+**A:** - A. Frist bestimmen
+- B. Rechtsfolge der Versäumung
+- C. Rechtsbehelf wählen
+  - 1. Jahresgebühr: Nachfrist mit Zuschlag ([§ 7 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html))
+  - 2. Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html))
+  - 3. Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html))
+  - 4. Kein Rechtsbehelf
+- D. Zuständigkeit und Rechtsmittel
+
+*Tags: Prüfungsschema, Patent: Verfahren, Fristen, Rechtsmittel*
 
 ---
 
@@ -6561,6 +8657,207 @@ Welche Punkte sind hier zu prüfen?
 
 ---
 
+**F:** B. Erfindung: Technizität und Ausschlüsse ([§ 1](https://www.gesetze-im-internet.de/markeng/__1.html), [§ 1a](https://www.gesetze-im-internet.de/markeng/__1a.html), [§ 2](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 2a PatG](https://www.gesetze-im-internet.de/patg/__2a.html))
+(Patentfähigkeit (§§ [1](https://www.gesetze-im-internet.de/patg/__1.html) bis [5](https://www.gesetze-im-internet.de/patg/__5.html) PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Technische Lehre ([§ 1 Abs. 1](https://www.gesetze-im-internet.de/markeng/__1.html))
+- 2. Kein Ausschluss „als solches“ ([§ 1 Abs. 3, 4](https://www.gesetze-im-internet.de/markeng/__1.html))
+- 3. Biotechnologie, ordre public, Sorten und Behandlungsverfahren (§§ [1a](https://www.gesetze-im-internet.de/markeng/__1a.html), [2](https://www.gesetze-im-internet.de/markeng/__2.html), [2a](https://www.gesetze-im-internet.de/markeng/__2a.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html))
+(Patentfähigkeit (§§ [1](https://www.gesetze-im-internet.de/patg/__1.html) bis [5](https://www.gesetze-im-internet.de/patg/__5.html) PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Stand der Technik bestimmen ([§ 3 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__3.html))
+- 2. Einzelvergleich: unmittelbar und eindeutig offenbart?
+- 3. Sonderfall: zweckgebundener Stoffschutz ([§ 3 Abs. 3, 4](https://www.gesetze-im-internet.de/markeng/__3.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** D. Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html))
+(Patentfähigkeit (§§ [1](https://www.gesetze-im-internet.de/patg/__1.html) bis [5](https://www.gesetze-im-internet.de/patg/__5.html) PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Fachmann und Fachwissen bestimmen
+- 2. Nächstliegender Stand der Technik und objektives Problem
+- 3. Veranlassung des Fachmanns (Naheliegen)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Schutzbereich ([§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html))
+(Patentverletzung (§§ [9](https://www.gesetze-im-internet.de/patg/__9.html), [10](https://www.gesetze-im-internet.de/patg/__10.html), [14](https://www.gesetze-im-internet.de/patg/__14.html), [139](https://www.gesetze-im-internet.de/patg/__139.html) ff. PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Merkmalsgliederung und Auslegung
+- 2. Wortsinngemäße Benutzung
+- 3. Äquivalente Benutzung (Schneidmesser-Fragen)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Benutzungshandlung im Inland (§§ [9](https://www.gesetze-im-internet.de/patg/__9.html), [10](https://www.gesetze-im-internet.de/patg/__10.html) PatG)
+(Patentverletzung (§§ [9](https://www.gesetze-im-internet.de/patg/__9.html), [10](https://www.gesetze-im-internet.de/patg/__10.html), [14](https://www.gesetze-im-internet.de/patg/__14.html), [139](https://www.gesetze-im-internet.de/patg/__139.html) ff. PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Unmittelbare Benutzung ([§ 9 S. 2](https://www.gesetze-im-internet.de/markeng/__9.html))
+- 2. Mittelbare Benutzung ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** D. Einwendungen und Einreden
+(Patentverletzung (§§ [9](https://www.gesetze-im-internet.de/patg/__9.html), [10](https://www.gesetze-im-internet.de/patg/__10.html), [14](https://www.gesetze-im-internet.de/patg/__14.html), [139](https://www.gesetze-im-internet.de/patg/__139.html) ff. PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Schranken ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html)), Vorbenutzungsrecht ([§ 12](https://www.gesetze-im-internet.de/markeng/__12.html)), Staatsbenutzung ([§ 13](https://www.gesetze-im-internet.de/markeng/__13.html))
+- 2. Erschöpfung
+- 3. Lizenz, Zwangslizenz, kartellrechtlicher Einwand
+- 4. Rechtsbestand und Aussetzung ([§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html))
+- 5. Verjährung und Verwirkung ([§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** E. Rechtsfolgen (§§ [139](https://www.gesetze-im-internet.de/patg/__139.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG)
+(Patentverletzung (§§ [9](https://www.gesetze-im-internet.de/patg/__9.html), [10](https://www.gesetze-im-internet.de/patg/__10.html), [14](https://www.gesetze-im-internet.de/patg/__14.html), [139](https://www.gesetze-im-internet.de/patg/__139.html) ff. PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Unterlassung ([§ 139 Abs. 1](https://www.gesetze-im-internet.de/markeng/__139.html))
+- 2. Schadensersatz ([§ 139 Abs. 2](https://www.gesetze-im-internet.de/markeng/__139.html)) und Bezifferung
+- 3. Vernichtung, Rückruf, Auskunft, Besichtigung, Urteilsbekanntmachung
+- 4. Kosten und Streitwert
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** A. Zulässigkeit des Einspruchs ([§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html))
+(Einspruch und Einspruchsbeschwerde (§§ [59](https://www.gesetze-im-internet.de/patg/__59.html) bis [62](https://www.gesetze-im-internet.de/patg/__62.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) ff. PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Frist: neun Monate ab Veröffentlichung der Erteilung
+- 2. Form und Gebühr
+- 3. Begründung: Tatsachen im Einzelnen
+- 4. Einspruchsberechtigung und Beitritt
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Begründetheit: Widerrufsgründe ([§ 21 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__21.html))
+(Einspruch und Einspruchsbeschwerde (§§ [59](https://www.gesetze-im-internet.de/patg/__59.html) bis [62](https://www.gesetze-im-internet.de/patg/__62.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) ff. PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Fehlende Patentfähigkeit (Nr. 1)
+- 2. Mangelnde Ausführbarkeit (Nr. 2)
+- 3. Widerrechtliche Entnahme (Nr. 3)
+- 4. Unzulässige Erweiterung (Nr. 4)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** D. Beschwerde zum Technischen Beschwerdesenat ([§§ 73 ff. PatG](https://www.gesetze-im-internet.de/patg/__73.html))
+(Einspruch und Einspruchsbeschwerde (§§ [59](https://www.gesetze-im-internet.de/patg/__59.html) bis [62](https://www.gesetze-im-internet.de/patg/__62.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) ff. PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Zulässigkeit: Monatsfrist, Gebühr, Beschwer
+- 2. Abhilfe und Vorlage ([§ 73 Abs. 3](https://www.gesetze-im-internet.de/markeng/__73.html))
+- 3. Entscheidung ([§ 79](https://www.gesetze-im-internet.de/markeng/__79.html)) und Kosten ([§ 80](https://www.gesetze-im-internet.de/markeng/__80.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** A. Zulässigkeit
+(Nichtigkeitsklage (§§ [81](https://www.gesetze-im-internet.de/patg/__81.html) bis [84](https://www.gesetze-im-internet.de/patg/__84.html), [110](https://www.gesetze-im-internet.de/patg/__110.html) ff. PatG; [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Zuständigkeit: BPatG oder EPG?
+- 2. Klagebefugnis und Klagesperre ([§ 81 Abs. 1, 2](https://www.gesetze-im-internet.de/markeng/__81.html))
+- 3. Klageschrift, Gebühr, Sicherheitsleistung
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Verfahren vor dem Nichtigkeitssenat
+(Nichtigkeitsklage (§§ [81](https://www.gesetze-im-internet.de/patg/__81.html) bis [84](https://www.gesetze-im-internet.de/patg/__84.html), [110](https://www.gesetze-im-internet.de/patg/__110.html) ff. PatG; [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Zustellung und Widerspruch ([§ 82](https://www.gesetze-im-internet.de/markeng/__82.html))
+- 2. Qualifizierter Hinweis, Fristen, Präklusion ([§ 83](https://www.gesetze-im-internet.de/markeng/__83.html))
+- 3. Beschränkte Verteidigung und Hilfsanträge
+- 4. Nebenintervention und Aussetzung des Verletzungsprozesses
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Anmeldeunterlagen und Form ([§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), PatV)
+(Anmeldung und Erteilungsverfahren (§§ [34](https://www.gesetze-im-internet.de/patg/__34.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG, PatV, PatKostG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Antrag, Ansprüche, Beschreibung, Zeichnungen, Zusammenfassung
+- 2. Anmeldegebühr (Nr. 311 000) binnen drei Monaten
+- 3. Priorität (§§ [40](https://www.gesetze-im-internet.de/markeng/__40.html), [41](https://www.gesetze-im-internet.de/markeng/__41.html)) und Erfinderbenennung ([§ 37](https://www.gesetze-im-internet.de/markeng/__37.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** D. Prüfungsverfahren (§§ [45](https://www.gesetze-im-internet.de/markeng/__45.html) bis [48](https://www.gesetze-im-internet.de/markeng/__48.html))
+(Anmeldung und Erteilungsverfahren (§§ [34](https://www.gesetze-im-internet.de/patg/__34.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG, PatV, PatKostG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Bescheide, rechtliches Gehör, Änderungen ([§ 38](https://www.gesetze-im-internet.de/markeng/__38.html))
+- 2. Teilung und Ausscheidung (§§ [39](https://www.gesetze-im-internet.de/markeng/__39.html), [34](https://www.gesetze-im-internet.de/markeng/__34.html) Abs. 5)
+- 3. Zurückweisung ([§ 48](https://www.gesetze-im-internet.de/markeng/__48.html)) und Rechtsbehelfe
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Rechtsbehelf wählen
+(Fristversäumung: Rechtsfolge und Rechtsbehelf (§§ [123](https://www.gesetze-im-internet.de/patg/__123.html), [123a](https://www.gesetze-im-internet.de/patg/__123a.html) PatG; §§ [6](https://www.gesetze-im-internet.de/patkostg/__6.html), [7](https://www.gesetze-im-internet.de/patkostg/__7.html) PatKostG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Jahresgebühr: Nachfrist mit Zuschlag ([§ 7 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html))
+- 2. Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html))
+- 3. Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html))
+- 4. Kein Rechtsbehelf
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
 ## abgrenzung
 
 **F:** Worin unterscheiden sich Unterscheidungskraft und Kennzeichnungskraft?
@@ -7054,6 +9351,142 @@ Merksatz: Das EPG verbindet Verletzung und Rechtsbestand in einem Verfahren mit 
 • Art. 15 – Veröffentlichung von Gerichtsentscheidungen — EPGÜ: [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (Veröffentlichung der Entscheidung) | VerfO: [R. 118.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) | MarkenG: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html) | PatG: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html)
 
 Merksatz: Die Durchsetzungsrichtlinie ist der gemeinsame Nenner: Was im MarkenG die §§ [18](https://www.gesetze-im-internet.de/markeng/__18.html) bis [19c](https://www.gesetze-im-internet.de/markeng/__19c.html) und im PatG die §§ [140a](https://www.gesetze-im-internet.de/markeng/__140a.html) bis [140e](https://www.gesetze-im-internet.de/markeng/__140e.html) regeln, steht für das EPG in [Art. 56 bis 69 und 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)).
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Mit welchem Verfahren wird der Rechtsbestand eines Patents angegriffen, und worin unterscheiden sich Einspruch und Nichtigkeitsklage?
+(Einspruch vs. Nichtigkeitsklage)
+
+**A:** • Rechtsgrundlage — Einspruch: [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html) bis [§ 62 PatG](https://www.gesetze-im-internet.de/patg/__62.html) | Nichtigkeitsklage: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) bis [§ 84 PatG](https://www.gesetze-im-internet.de/patg/__84.html), [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
+• Zuständigkeit — Einspruch: Patentabteilung des DPMA; Beschwerde zum Technischen Beschwerdesenat | Nichtigkeitsklage: Nichtigkeitssenat des BPatG (zwei rechtskundige, drei technische Richter); Berufung zum BGH
+• Frist — Einspruch: Neun Monate ab Veröffentlichung der Erteilung, keine Wiedereinsetzung | Nichtigkeitsklage: Keine Frist, solange das Patent besteht (auch nach Erlöschen bei Rechtsschutzinteresse)
+• Antragsberechtigung — Einspruch: Jedermann; bei widerrechtlicher Entnahme nur der Verletzte | Nichtigkeitsklage: Jedermann (Popularklage); bei widerrechtlicher Entnahme nur der Verletzte; kein Rechtsmissbrauch bei paralleler Klage
+• Gründe — Einspruch: Widerrufsgründe des [§ 21 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__21.html) (abschließend) | Nichtigkeitsklage: [§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html): Widerrufsgründe plus Erweiterung des Schutzbereichs; beim europäischen Patent Art. 138 EPÜ
+• Gebühr — Einspruch: 200 EUR (Nr. 313 600), je Einsprechender, binnen der Einspruchsfrist | Nichtigkeitsklage: 4,5 Wertgebühren nach dem Streitwert (Nr. 402 100), Vorauszahlung, Sicherheitsleistung ausländischer Kläger
+• Verfahren — Einspruch: Amtsverfahren mit Untersuchungsgrundsatz, Beschluss, Kosten jeder selbst | Nichtigkeitsklage: Kontradiktorisches Verfahren nach ZPO-Regeln, qualifizierter Hinweis ([§ 83](https://www.gesetze-im-internet.de/markeng/__83.html)), Urteil, Kosten nach [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html)
+• Rechtsmittel — Einspruch: Beschwerde (ein Monat, 500 EUR), dann Rechtsbeschwerde bei Zulassung | Nichtigkeitsklage: Berufung zum BGH (ein Monat, Begründung drei Monate), Präklusion nach [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html)
+• Verhältnis zueinander — Einspruch: Während Einspruchsfrist und -verfahren ist die Nichtigkeitsklage unzulässig ([§ 81 Abs. 2](https://www.gesetze-im-internet.de/markeng/__81.html)) | Nichtigkeitsklage: Nach Ablauf der Einspruchsfrist einziger Angriff; Beitritt zum laufenden Einspruch als Alternative ([§ 59 Abs. 2](https://www.gesetze-im-internet.de/markeng/__59.html))
+• Europäisches Patent — Einspruch: Einspruch beim EPA (Art. 99 EPÜ), neun Monate, Wirkung für alle Staaten | Nichtigkeitsklage: Deutscher Teil: BPatG nach [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html) bei Opt-out oder Übergangszeit; sonst EPG ([Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))); Einheitspatent nur EPG
+
+Merksatz: Neun Monate Einspruch beim Amt, danach Nichtigkeitsklage beim Gericht: Gleiche Gründe, andere Bühne, und während der Einspruch läuft, ist die Klage gesperrt.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wie unterscheiden sich die Prüfung der Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)) und der erfinderischen Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html))?
+(Neuheit vs. erfinderische Tätigkeit)
+
+**A:** • Frage — Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)): Ist die Lehre schon bekannt? | Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)): Lag die Lehre für den Fachmann nahe?
+• Stand der Technik — Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)): Alles öffentlich Zugängliche vor dem Zeitrang, einschließlich älterer nachveröffentlichter Anmeldungen | Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)): Nur das vor dem Zeitrang Veröffentlichte; ältere nachveröffentlichte Anmeldungen bleiben außer Betracht ([§ 4 S. 2](https://www.gesetze-im-internet.de/markeng/__4.html))
+• Vergleichsmethode — Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)): Einzelvergleich mit jeder Entgegenhaltung; keine Kombination | Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)): Gesamtschau; Kombination mehrerer Quellen und des Fachwissens zulässig, wenn der Fachmann Anlass dazu hatte
+• Maßstab — Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)): Unmittelbar und eindeutig offenbart, einschließlich des selbstverständlich Mitgelesenen | Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)): Veranlassung und angemessene Erfolgserwartung; keine rückschauende Betrachtung
+• Rolle des Fachwissens — Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)): Nur zum Verständnis der Quelle, nicht zur Ergänzung | Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)): Vollständig; allgemeines Fachwissen allein ist aber noch kein Anlass
+• Ältere Anmeldungen ([§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html)) — Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)): Neuheitsschädlich | Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)): Nicht zu berücksichtigen
+• Leitentscheidungen — Neuheit ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)): Olanzapin, Glasfasern, Hohlfaserdialysator | Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)): Fischbissanzeiger, Airbag-Auslösesteuerung, Kinderbett, Papiermaschinengewebe
+
+Merksatz: Neuheit: eine Quelle, Wort für Wort. Erfinderische Tätigkeit: alle Quellen, aber nur mit Anlass.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wann liegt eine wortsinngemäße und wann eine äquivalente Benutzung der patentierten Lehre vor?
+(Wortsinngemäße vs. äquivalente Patentverletzung)
+
+**A:** • Prüfungsgegenstand — Wortsinngemäße Verletzung: Jedes Merkmal des Anspruchs im ausgelegten Sinn verwirklicht | Äquivalente Verletzung: Ein oder mehrere Merkmale nicht wortsinngemäß, aber durch abgewandelte Mittel ersetzt
+• Maßstab — Wortsinngemäße Verletzung: Sinngehalt des Anspruchs aus der Sicht des Fachmanns ([§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), Art. 69 EPÜ) | Äquivalente Verletzung: Drei Schneidmesser-Fragen: Gleichwirkung, Auffindbarkeit, Gleichwertigkeit (Orientierung am Anspruch)
+• Prüfungsschritte — Wortsinngemäße Verletzung: Merkmalsgliederung, Auslegung, Subsumtion | Äquivalente Verletzung: Für jedes abweichende Merkmal alle drei Fragen; Gleichwirkung meint gerade die Wirkung des ersetzten Merkmals (Palettenbehälter III)
+• Auswahlentscheidung — Wortsinngemäße Verletzung: Unerheblich | Äquivalente Verletzung: Offenbart die Beschreibung mehrere Wege und beansprucht nur einen, ist der andere nicht gleichwertig (Okklusionsvorrichtung, Diglycidverbindung, Pemetrexed)
+• Stand der Technik — Wortsinngemäße Verletzung: Kein Einwand (Rechtsbestand nur im Nichtigkeitsverfahren) | Äquivalente Verletzung: Formstein-Einwand: keine Äquivalenz, wenn die Ausführung zum Stand der Technik gehört oder ihm nahegelegt war
+• Rechtsgrundlage — Wortsinngemäße Verletzung: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) | Äquivalente Verletzung: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), Art. 2 Auslegungsprotokoll zu Art. 69 EPÜ
+
+Merksatz: Erst Wortsinn für alle Merkmale, dann Äquivalenz nur für die Lücken; wer in der Beschreibung die Wahl hatte und im Anspruch gewählt hat, bekommt den anderen Weg nicht mehr.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welcher Rechtsbehelf hilft nach einer versäumten Frist: Weiterbehandlung nach [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html) oder Wiedereinsetzung nach [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)?
+(Weiterbehandlung vs. Wiedereinsetzung)
+
+**A:** • Anwendungsbereich — Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)): Nur das Patentanmeldeverfahren nach Zurückweisung wegen Fristversäumung | Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)): Alle Verfahren vor DPMA und BPatG, jede Frist mit Rechtsnachteil
+• Erfasste Fristen — Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)): Vom DPMA gesetzte Fristen (Bescheidfristen) | Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)): Gesetzliche und amtsseitige Fristen, Zahlungsfristen
+• Verschulden — Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)): Unerheblich | Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)): Ohne Verschulden; Vertreterverschulden wird zugerechnet ([§ 85 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__85.html))
+• Frist für den Antrag — Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)): Ein Monat nach Zustellung des Zurückweisungsbeschlusses, nicht verlängerbar | Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)): Zwei Monate nach Wegfall des Hindernisses, spätestens ein Jahr nach Fristablauf
+• Erfordernisse — Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)): Antrag, vollständige Nachholung der Handlung, Gebühr innerhalb der Frist (BPatG Weiterbehandlung II) | Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)): Antrag mit Begründung, Glaubhaftmachung, Nachholung der Handlung innerhalb der Antragsfrist
+• Gebühr — Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)): 100 EUR (Nr. 313 000) | Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)): Gebührenfrei
+• Ausgeschlossen bei — Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)): Gesetzlichen Fristen (Prüfungsantrag, Beschwerde), Einspruch, Zahlungsfristen des PatKostG | Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)): Einspruchsfrist, Prioritätsfrist, Nachfrist der Erfinderbenennung, Wiedereinsetzungsfrist selbst ([§ 123 Abs. 1 S. 2](https://www.gesetze-im-internet.de/markeng/__123.html))
+• Wirkung gegenüber Dritten — Weiterbehandlung ([§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)): Keine Sonderregel | Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)): Zwischenbenutzungsrecht des gutgläubigen Dritten ([§ 123 Abs. 5](https://www.gesetze-im-internet.de/markeng/__123.html)); Dritter am Verfahren nicht beteiligt (Verdickerpolymer II)
+
+Merksatz: Weiterbehandlung: schnell, ohne Entschuldigung, nur bei Amtsfristen der Anmeldung. Wiedereinsetzung: überall, aber nur ohne Verschulden und nie beim Einspruch oder bei der Priorität.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wann ist welche Gebühr fällig, bis wann kann gezahlt werden, und was passiert bei Nichtzahlung?
+(Zahlungsfristen nach [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html) und [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html))
+
+**A:** • Anmelde-, Prüfungs-, Antragsgebühr — Fälligkeit: Mit Einreichung ([§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html)) | Zahlungsfrist: Drei Monate ([§ 6 Abs. 1 S. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)) | Folge der Nichtzahlung: Anmeldung gilt als zurückgenommen, Antrag als nicht gestellt ([§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)) | Rechtsbehelf: Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)); Weiterbehandlung nur bei amtsseitiger Frist
+• Einspruchs-, Beschwerde-, Erinnerungsgebühr — Fälligkeit: Mit Einlegung ([§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html)) | Zahlungsfrist: Innerhalb der Rechtsbehelfsfrist ([§ 6 Abs. 1 S. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)) | Folge der Nichtzahlung: Rechtsbehelf gilt als nicht erhoben ([§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)) | Rechtsbehelf: Wiedereinsetzung bei Beschwerde; beim Einspruch ausgeschlossen
+• Jahresgebühr — Fälligkeit: Letzter Tag des Monats, der dem Anmeldemonat entspricht ([§ 3 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html)) | Zahlungsfrist: Zwei Monate ohne, sechs Monate mit Zuschlag von 50 EUR ([§ 7 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html)) | Folge der Nichtzahlung: Erlöschen rückwirkend zum Fälligkeitstag ([§ 20 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__20.html)) | Rechtsbehelf: Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)) mit Zwischenbenutzungsrecht
+• Nationale Gebühr PCT — Fälligkeit: Mit Ablauf der 30-Monats-Frist ([Art. III § 4 Abs. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__4.html); BPatG Nationale Gebühr) | Zahlungsfrist: Keine zusätzliche Frist | Folge der Nichtzahlung: Wirkung der Anmeldung für Deutschland endet | Rechtsbehelf: Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html))
+• Wertgebühr Nichtigkeitsklage — Fälligkeit: Mit Einreichung der Klage; Vorauszahlung ([§ 5 PatKostG](https://www.gesetze-im-internet.de/patkostg/__5.html)) | Zahlungsfrist: Vom Gericht gesetzte Frist | Folge der Nichtzahlung: Klage wird nicht zugestellt ([§ 81 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__81.html)) | Rechtsbehelf: Nachzahlung; Wiedereinsetzung
+• Zahlungstag — Fälligkeit: [§ 2 PatKostZV](https://www.gesetze-im-internet.de/patkostzv_2004/__2.html): Überweisung am Tag der Gutschrift beim DPMA, SEPA-Lastschrift am Tag des Mandatseingangs (Zahlung bei Antragseingang), Bareinzahlung am Einzahlungstag
+
+Merksatz: Drei Monate für Anträge, Rechtsbehelfsfrist für Rechtsbehelfe, sechs Monate mit Zuschlag für Jahresgebühren: Wer die drei Regeln kennt, löst jede Gebührenklausur.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Auf welchen Wegen endet oder schrumpft ein Patent, und mit welcher Wirkung?
+(Widerruf, Nichtigerklärung, Beschränkung, Erlöschen)
+
+**A:** • Rechtsgrundlage — Widerruf: [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 61 PatG](https://www.gesetze-im-internet.de/patg/__61.html) | Nichtigerklärung: [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [§ 81 ff. PatG](https://www.gesetze-im-internet.de/patg/__81.html); [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html) | Beschränkung auf Antrag: [§ 64 PatG](https://www.gesetze-im-internet.de/patg/__64.html) | Erlöschen: [§ 20 PatG](https://www.gesetze-im-internet.de/patg/__20.html)
+• Auslöser — Widerruf: Einspruch eines Dritten binnen neun Monaten | Nichtigerklärung: Nichtigkeitsklage jederzeit | Beschränkung auf Antrag: Antrag des Patentinhabers | Erlöschen: Verzicht, fehlende Erfinderbenennung, Nichtzahlung der Jahresgebühr
+• Entscheidende Stelle — Widerruf: Patentabteilung, Beschwerde BPatG | Nichtigerklärung: BPatG, Berufung BGH (oder EPG) | Beschränkung auf Antrag: Patentabteilung des DPMA | Erlöschen: Kraft Gesetzes, Eintragung im Register
+• Zeitliche Wirkung — Widerruf: Ex tunc ([§ 21 Abs. 3](https://www.gesetze-im-internet.de/markeng/__21.html)) | Nichtigerklärung: Ex tunc, gegen jedermann ([§ 22 Abs. 2](https://www.gesetze-im-internet.de/markeng/__22.html) i.V.m. [§ 21 Abs. 3](https://www.gesetze-im-internet.de/markeng/__21.html)) | Beschränkung auf Antrag: Ex tunc auf den Anmeldetag | Erlöschen: Ex nunc (Verzicht) bzw. rückwirkend zum Fälligkeitstag (Jahresgebühr)
+• Teilweise möglich? — Widerruf: Ja, beschränkte Aufrechterhaltung ([§ 21 Abs. 2](https://www.gesetze-im-internet.de/markeng/__21.html)) | Nichtigerklärung: Ja, teilweise Nichtigerklärung mit beschränkten Ansprüchen | Beschränkung auf Antrag: Ja, Änderung der Ansprüche ohne Erweiterung | Erlöschen: Nein (nur Verzicht auf einzelne Ansprüche als Beschränkung)
+
+Merksatz: Widerruf und Nichtigkeit wirken zurück, Erlöschen wirkt nach vorn; die Beschränkung ist der freiwillige Rückzug auf sicheres Gelände.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Regeln gelten in Deutschland für das nationale Patent, den deutschen Teil eines europäischen Patents und das Einheitspatent?
+(Deutsches Patent, europäisches Patent (DE-Teil), Einheitspatent)
+
+**A:** • Erteilung — Deutsches Patent (PatG): DPMA nach [§§ 34 ff. PatG](https://www.gesetze-im-internet.de/patg/__34.html), Prüfungsantrag binnen sieben Jahren | Europäisches Patent, deutscher Teil (IntPatÜG): EPA nach dem EPÜ, Wirkung für Deutschland mit Erteilungshinweis (Art. 64 EPÜ) | Einheitspatent (EPatVO, IntPatÜG Art. II [§§ 15 ff.](https://www.gesetze-im-internet.de/markeng/__15.html)): EPA; Antrag auf einheitliche Wirkung binnen eines Monats ([R. 6 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html))
+• Materielles Recht — Deutsches Patent (PatG): [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) bis [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), [§ 139 ff. PatG](https://www.gesetze-im-internet.de/patg/__139.html) | Europäisches Patent, deutscher Teil (IntPatÜG): Art. 64, 69 EPÜ; [§§ 9 ff.](https://www.gesetze-im-internet.de/markeng/__9.html), 139 ff. PatG (Art. II IntPatÜG); vor dem EPG [Art. 25 bis 30 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) | Einheitspatent (EPatVO, IntPatÜG Art. II [§§ 15 ff.](https://www.gesetze-im-internet.de/markeng/__15.html)): [Art. 25 bis 30 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) über [Art. 5 Abs. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), einheitlich für alle teilnehmenden Staaten
+• Verletzungsgericht — Deutsches Patent (PatG): Patentstreitkammern der Landgerichte ([§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html)) | Europäisches Patent, deutscher Teil (IntPatÜG): Landgerichte bei Opt-out oder in der Übergangszeit; sonst EPG ([Art. 32, 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) | Einheitspatent (EPatVO, IntPatÜG Art. II [§§ 15 ff.](https://www.gesetze-im-internet.de/markeng/__15.html)): Ausschließlich EPG ([Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+• Rechtsbestand — Deutsches Patent (PatG): Einspruch ([§ 59](https://www.gesetze-im-internet.de/markeng/__59.html)), Nichtigkeitsklage BPatG ([§ 81](https://www.gesetze-im-internet.de/markeng/__81.html)) | Europäisches Patent, deutscher Teil (IntPatÜG): Einspruch EPA (Art. 99 EPÜ); Nichtigkeitsklage BPatG ([Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)) oder EPG | Einheitspatent (EPatVO, IntPatÜG Art. II [§§ 15 ff.](https://www.gesetze-im-internet.de/markeng/__15.html)): Einspruch EPA; Nichtigkeitsklage nur EPG ([Art. II § 15 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__15.html))
+• Jahresgebühren — Deutsches Patent (PatG): An das DPMA, [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html), [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html) | Europäisches Patent, deutscher Teil (IntPatÜG): An das DPMA ab dem Jahr nach dem Erteilungshinweis ([Art. II § 7 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__7.html)) | Einheitspatent (EPatVO, IntPatÜG Art. II [§§ 15 ff.](https://www.gesetze-im-internet.de/markeng/__15.html)): An das EPA nach [Art. 2 GebOEPS](https://www.epo.org/de/legal/up-upc/2022/upf.html), [R. 13 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)
+• Übersetzung — Deutsches Patent (PatG): Deutsch ([§ 126 PatG](https://www.gesetze-im-internet.de/patg/__126.html), [§ 35 Abs. 2](https://www.gesetze-im-internet.de/markeng/__35.html)) | Europäisches Patent, deutscher Teil (IntPatÜG): Seit dem Londoner Übereinkommen keine ([Art. XI § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_xi__4.html)); Altpatente Art. II § 3 | Einheitspatent (EPatVO, IntPatÜG Art. II [§§ 15 ff.](https://www.gesetze-im-internet.de/markeng/__15.html)): Übergangszeit: eine Übersetzung zur Information ([Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260))
+• Doppelschutz — Deutsches Patent (PatG): – | Europäisches Patent, deutscher Teil (IntPatÜG): Doppelschutzverbot (Art. II § 8), es sei denn das EP unterliegt dem EPG (Art. II § 18: Doppelschutz mit Einrede) | Einheitspatent (EPatVO, IntPatÜG Art. II [§§ 15 ff.](https://www.gesetze-im-internet.de/markeng/__15.html)): Doppelschutz neben deutschem Patent zulässig, Einrede der doppelten Inanspruchnahme (Art. II § 18)
+• Vollstreckung — Deutsches Patent (PatG): ZPO | Europäisches Patent, deutscher Teil (IntPatÜG): ZPO; EPG-Entscheidungen nach [Art. II § 19 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__19.html), [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) | Einheitspatent (EPatVO, IntPatÜG Art. II [§§ 15 ff.](https://www.gesetze-im-internet.de/markeng/__15.html)): EPG-Entscheidungen nach [Art. II § 19 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__19.html), [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Merksatz: Das IntPatÜG ist die Brücke: Art. II § 6 macht das europäische Patent vor dem BPatG angreifbar, Art. II §§ [15](https://www.gesetze-im-internet.de/markeng/__15.html) bis [20](https://www.gesetze-im-internet.de/markeng/__20.html) holen das Einheitspatent und das EPG ins deutsche Recht.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wie unterscheiden sich Teilung, Ausscheidung und Abzweigung, und was gilt für Zeitrang und Gebühren?
+(Teilung, Ausscheidung, Abzweigung)
+
+**A:** • Rechtsgrundlage — Teilung: [§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html) (Anmeldung), [§ 60 PatG](https://www.gesetze-im-internet.de/patg/__60.html) (Einspruch) | Ausscheidung: [§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html) | Abzweigung (Gebrauchsmuster): [§ 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html), [§ 145a PatG](https://www.gesetze-im-internet.de/patg/__145a.html)
+• Anlass — Teilung: Freie Entscheidung des Anmelders | Ausscheidung: Uneinheitlichkeit, vom DPMA beanstandet | Abzweigung (Gebrauchsmuster): Wunsch nach schnellem, ungeprüftem Schutz neben der Patentanmeldung
+• Zeitpunkt — Teilung: Jederzeit bis zur Erteilung; im Einspruchsverfahren bis zum Abschluss | Ausscheidung: Auf Aufforderung im Prüfungsverfahren | Abzweigung (Gebrauchsmuster): Bis zum Ablauf von zwei Monaten nach Erledigung der Patentanmeldung, höchstens zehn Jahre
+• Zeitrang — Teilung: Anmeldetag und Priorität der Stammanmeldung | Ausscheidung: Anmeldetag und Priorität der Stammanmeldung | Abzweigung (Gebrauchsmuster): Anmeldetag und Priorität der Patentanmeldung ([§ 5 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html))
+• Gebühren — Teilung: Anmelde- und Jahresgebühren für die Teilanmeldung nachzahlen ([§ 39 Abs. 2](https://www.gesetze-im-internet.de/markeng/__39.html)) | Ausscheidung: Zusätzlich eigene Prüfungsgebühr (BPatG Prüfungsgebühr für Ausscheidungsanmeldung) | Abzweigung (Gebrauchsmuster): Anmeldegebühr Gebrauchsmuster (30 EUR)
+• Widerruflich? — Teilung: Nein ([§ 39 Abs. 3](https://www.gesetze-im-internet.de/markeng/__39.html)), Teilungserklärung ohne gegenständliche Festlegung (Sammelhefter) | Ausscheidung: Nein | Abzweigung (Gebrauchsmuster): Abzweigungserklärung wirkt mit der Anmeldung
+
+Merksatz: Teilung ist freiwillig, Ausscheidung erzwungen, Abzweigung wechselt das Schutzrecht: In allen drei Fällen bleibt der Zeitrang, aber die Gebühren fallen neu an.
 
 *Tags: Abgrenzung*
 
@@ -11978,6 +14411,2156 @@ Ein Antrag auf Entfernung eines unbefugten Opt-out nach [R. 5A VerfO](https://ww
 
 ---
 
+## entscheidung
+
+**F:** BGH „Steuerungseinrichtung für Untersuchungsmodalitäten“ (X ZB 22/07, 2009) – Kernaussage?
+
+**A:** Ein Verfahren, das sich einer Datenverarbeitungsanlage bedient, ist jedenfalls dann technisch, wenn es in den Ablauf einer technischen Einrichtung eingebettet ist. Ob die Lehre patentfähig ist, entscheidet sich erst bei Neuheit und erfinderischer Tätigkeit, wo nur die Merkmale zählen, die die Lösung eines technischen Problems mit technischen Mitteln bestimmen.
+
+Normen: [§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 1 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG
+Fundstelle: BGH, Beschluss vom 20.01.2009 – X ZB 22/07
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Verfahren, das sich einer Datenverarbeitungsanlage bedient, ist jedenfalls dann technisch, wenn es in den Ablauf einer technischen Einrichtung eingebettet ist. Ob die Lehre patentfähig ist, entscheidet sich erst bei Neuheit und erfinderischer Tätigkeit, wo nur die Merkmale zählen, die die Lösung eines technischen Problems mit technischen Mitteln bestimmen.
+
+**A:** BGH „Steuerungseinrichtung für Untersuchungsmodalitäten“ – X ZB 22/07 (2009), BGH, Beschluss vom 20.01.2009 – X ZB 22/07
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software*
+
+---
+
+## entscheidung
+
+**F:** BGH „Dynamische Dokumentengenerierung“ (Xa ZB 20/08, 2010) – Kernaussage?
+
+**A:** Ein Verfahren über das unmittelbare Zusammenwirken der Elemente eines Datenverarbeitungssystems (Server und Client) ist stets technisch. Ob es als Programm „als solches“ vom Patentschutz ausgeschlossen ist, hängt davon ab, ob die Lehre Anweisungen enthält, die die Lösung eines konkreten technischen Problems mit technischen Mitteln zum Gegenstand haben.
+
+Normen: [§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG
+Fundstelle: BGH, Beschluss vom 22.04.2010 – Xa ZB 20/08
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Verfahren über das unmittelbare Zusammenwirken der Elemente eines Datenverarbeitungssystems (Server und Client) ist stets technisch. Ob es als Programm „als solches“ vom Patentschutz ausgeschlossen ist, hängt davon ab, ob die Lehre Anweisungen enthält, die die Lösung eines konkreten technischen Problems mit technischen Mitteln zum Gegenstand haben.
+
+**A:** BGH „Dynamische Dokumentengenerierung“ – Xa ZB 20/08 (2010), BGH, Beschluss vom 22.04.2010 – Xa ZB 20/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software*
+
+---
+
+## entscheidung
+
+**F:** BGH „Webseitenanzeige“ (X ZR 121/09, 2011) – Kernaussage?
+
+**A:** Bei Erfindungen mit Bezug zur Datenverarbeitung ist zweistufig zu prüfen: erst, ob der Gegenstand zumindest mit einem Teilaspekt auf technischem Gebiet liegt ([§ 1 Abs. 1](https://www.gesetze-im-internet.de/markeng/__1.html)), dann, ob er nicht als Programm als solches ausgeschlossen ist, was verlangt, dass ein konkretes technisches Problem mit technischen Mitteln gelöst wird. Nur solche Anweisungen tragen die erfinderische Tätigkeit.
+
+Normen: [§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 24.02.2011 – X ZR 121/09
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Bei Erfindungen mit Bezug zur Datenverarbeitung ist zweistufig zu prüfen: erst, ob der Gegenstand zumindest mit einem Teilaspekt auf technischem Gebiet liegt ([§ 1 Abs. 1](https://www.gesetze-im-internet.de/markeng/__1.html)), dann, ob er nicht als Programm als solches ausgeschlossen ist, was verlangt, dass ein konkretes technisches Problem mit technischen Mitteln gelöst wird. Nur solche Anweisungen tragen die erfinderische Tätigkeit.
+
+**A:** BGH „Webseitenanzeige“ – X ZR 121/09 (2011), BGH, Urteil vom 24.02.2011 – X ZR 121/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software*
+
+---
+
+## entscheidung
+
+**F:** BGH „Rezeptortyrosinkinase“ (X ZR 141/13, 2016) – Kernaussage?
+
+**A:** Eine Lehre zum technischen Handeln, die die Nutzung einer Entdeckung zur Herbeiführung eines bestimmten Erfolgs lehrt, ist keine bloße Entdeckung und damit dem Patentschutz zugänglich. Der Ausschluss des [§ 1 Abs. 3 Nr. 1](https://www.gesetze-im-internet.de/markeng/__1.html) greift nur für die Erkenntnis als solche.
+
+Normen: [§ 1 Abs. 3 Nr. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 1a PatG](https://www.gesetze-im-internet.de/patg/__1a.html) MarkenG
+Fundstelle: BGH, Urteil vom 19.01.2016 – X ZR 141/13
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Entdeckung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Lehre zum technischen Handeln, die die Nutzung einer Entdeckung zur Herbeiführung eines bestimmten Erfolgs lehrt, ist keine bloße Entdeckung und damit dem Patentschutz zugänglich. Der Ausschluss des [§ 1 Abs. 3 Nr. 1](https://www.gesetze-im-internet.de/markeng/__1.html) greift nur für die Erkenntnis als solche.
+
+**A:** BGH „Rezeptortyrosinkinase“ – X ZR 141/13 (2016), BGH, Urteil vom 19.01.2016 – X ZR 141/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Entdeckung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Olanzapin“ (X ZR 89/07, 2008) – Kernaussage?
+
+**A:** Neuheitsschädlich ist nur, was dem Fachmann in der Vorveröffentlichung unmittelbar und eindeutig offenbart wird, einschließlich dessen, was er als selbstverständlich mitliest; eine Ergänzung durch Fachwissen ist keine Offenbarung. Eine allgemeine Strukturformel offenbart die darunter fallenden Einzelverbindungen grundsätzlich nicht.
+
+Normen: [§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG
+Fundstelle: BGH, Urteil vom 16.12.2008 – X ZR 89/07
+
+*Tags: Rechtsprechung, BGH, Neuheit, Offenbarung, Chemie*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Neuheitsschädlich ist nur, was dem Fachmann in der Vorveröffentlichung unmittelbar und eindeutig offenbart wird, einschließlich dessen, was er als selbstverständlich mitliest; eine Ergänzung durch Fachwissen ist keine Offenbarung. Eine allgemeine Strukturformel offenbart die darunter fallenden Einzelverbindungen grundsätzlich nicht.
+
+**A:** BGH „Olanzapin“ – X ZR 89/07 (2008), BGH, Urteil vom 16.12.2008 – X ZR 89/07
+
+*Tags: Rechtsprechung, Umkehr, BGH, Neuheit, Offenbarung, Chemie*
+
+---
+
+## entscheidung
+
+**F:** BGH „Glasfasern“ (X ZR 53/11, 2011) – Kernaussage?
+
+**A:** Eine Veröffentlichung, die für eine Produktgruppe nur die Vermutung einer Gesundheitsgefahr äußert, nimmt die Verwendung eines dieser Produkte für einen bestimmten Zweck nicht neuheitsschädlich vorweg, wenn sie dem Fachmann keine Lehre zur Verwendung vermittelt.
+
+Normen: [§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG
+Fundstelle: BGH, Urteil vom 20.12.2011 – X ZR 53/11
+
+*Tags: Rechtsprechung, BGH, Neuheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Veröffentlichung, die für eine Produktgruppe nur die Vermutung einer Gesundheitsgefahr äußert, nimmt die Verwendung eines dieser Produkte für einen bestimmten Zweck nicht neuheitsschädlich vorweg, wenn sie dem Fachmann keine Lehre zur Verwendung vermittelt.
+
+**A:** BGH „Glasfasern“ – X ZR 53/11 (2011), BGH, Urteil vom 20.12.2011 – X ZR 53/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Neuheit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Hohlfaserdialysator“ (X ZR 50/23, 2025) – Kernaussage?
+
+**A:** Verlangt der Anspruch, dass Abmessungen einer mathematischen Formel genügen, ist die Neuheit schon dann genommen, wenn ein vorbekanntes Erzeugnis die Formel erfüllt, auch ohne dass die Formel im Stand der Technik genannt ist. Eine beliebige Auswahl aus mehreren Möglichkeiten begründet keine erfinderische Tätigkeit.
+
+Normen: [§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG, [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 13.05.2025 – X ZR 50/23
+
+*Tags: Rechtsprechung, BGH, Neuheit, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Verlangt der Anspruch, dass Abmessungen einer mathematischen Formel genügen, ist die Neuheit schon dann genommen, wenn ein vorbekanntes Erzeugnis die Formel erfüllt, auch ohne dass die Formel im Stand der Technik genannt ist. Eine beliebige Auswahl aus mehreren Möglichkeiten begründet keine erfinderische Tätigkeit.
+
+**A:** BGH „Hohlfaserdialysator“ – X ZR 50/23 (2025), BGH, Urteil vom 13.05.2025 – X ZR 50/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Neuheit, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fischbissanzeiger“ (Xa ZR 138/05, 2009) – Kernaussage?
+
+**A:** Maßgeblicher Fachmann ist der Konstrukteur mit Erfahrung im betroffenen Gerätebau, nicht der Anwender. Die erfinderische Tätigkeit fehlt nur, wenn der Fachmann eine Veranlassung hatte, den Stand der Technik in Richtung der Erfindung weiterzuentwickeln; das bloße Vorhandensein der Einzelmerkmale im Stand der Technik genügt nicht.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 18.06.2009 – Xa ZR 138/05
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit, Fachmann*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Maßgeblicher Fachmann ist der Konstrukteur mit Erfahrung im betroffenen Gerätebau, nicht der Anwender. Die erfinderische Tätigkeit fehlt nur, wenn der Fachmann eine Veranlassung hatte, den Stand der Technik in Richtung der Erfindung weiterzuentwickeln; das bloße Vorhandensein der Einzelmerkmale im Stand der Technik genügt nicht.
+
+**A:** BGH „Fischbissanzeiger“ – Xa ZR 138/05 (2009), BGH, Urteil vom 18.06.2009 – Xa ZR 138/05
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit, Fachmann*
+
+---
+
+## entscheidung
+
+**F:** BGH „Airbag-Auslösesteuerung“ (Xa ZR 56/05, 2009) – Kernaussage?
+
+**A:** Dass ein technischer Sachverhalt zum allgemeinen Fachwissen gehört, belegt noch nicht, dass der Fachmann Veranlassung hatte, ihn zur Lösung des Problems heranzuziehen. Es bedarf eines Anlasses im Stand der Technik oder im Fachwissen, der das Naheliegen begründet.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 30.04.2009 – Xa ZR 56/05
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Dass ein technischer Sachverhalt zum allgemeinen Fachwissen gehört, belegt noch nicht, dass der Fachmann Veranlassung hatte, ihn zur Lösung des Problems heranzuziehen. Es bedarf eines Anlasses im Stand der Technik oder im Fachwissen, der das Naheliegen begründet.
+
+**A:** BGH „Airbag-Auslösesteuerung“ – Xa ZR 56/05 (2009), BGH, Urteil vom 30.04.2009 – Xa ZR 56/05
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kinderbett“ (X ZR 59/16, 2018) – Kernaussage?
+
+**A:** Die generelle Eignung eines zum allgemeinen Fachwissen zählenden Lösungsmittels reicht als Veranlassung nur aus, wenn der Fachmann ohne weiteres erkennt, dass es für den konkreten Fall passt und keine besonderen Umstände entgegenstehen; eine Einzelfallbewertung ist stets erforderlich.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 27.03.2018 – X ZR 59/16
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die generelle Eignung eines zum allgemeinen Fachwissen zählenden Lösungsmittels reicht als Veranlassung nur aus, wenn der Fachmann ohne weiteres erkennt, dass es für den konkreten Fall passt und keine besonderen Umstände entgegenstehen; eine Einzelfallbewertung ist stets erforderlich.
+
+**A:** BGH „Kinderbett“ – X ZR 59/16 (2018), BGH, Urteil vom 27.03.2018 – X ZR 59/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Papiermaschinengewebe“ (X ZR 273/02, 2007) – Kernaussage?
+
+**A:** Die Erfindung darf bei der Prüfung der erfinderischen Tätigkeit nicht anhand von Teilaufgaben in Merkmalsgruppen zerlegt und gruppenweise als naheliegend beurteilt werden; maßgeblich ist, ob der Fachmann die Gesamtheit der Merkmale nahegelegt bekam.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 15.05.2007 – X ZR 273/02
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Erfindung darf bei der Prüfung der erfinderischen Tätigkeit nicht anhand von Teilaufgaben in Merkmalsgruppen zerlegt und gruppenweise als naheliegend beurteilt werden; maßgeblich ist, ob der Fachmann die Gesamtheit der Merkmale nahegelegt bekam.
+
+**A:** BGH „Papiermaschinengewebe“ – X ZR 273/02 (2007), BGH, Urteil vom 15.05.2007 – X ZR 273/02
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gleitlagerüberwachung“ (X ZR 73/08, 2010) – Kernaussage?
+
+**A:** Kritik in der Beschreibung des Streitpatents am Lösungsweg einer Vorveröffentlichung kann darauf hindeuten, dass der Fachmann Anlass hatte, diesen Weg zu verlassen; die Beschreibung darf aber nicht als Beleg für das Naheliegen missbraucht werden (Rückschau).
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 31.08.2010 – X ZR 73/08
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Kritik in der Beschreibung des Streitpatents am Lösungsweg einer Vorveröffentlichung kann darauf hindeuten, dass der Fachmann Anlass hatte, diesen Weg zu verlassen; die Beschreibung darf aber nicht als Beleg für das Naheliegen missbraucht werden (Rückschau).
+
+**A:** BGH „Gleitlagerüberwachung“ – X ZR 73/08 (2010), BGH, Urteil vom 31.08.2010 – X ZR 73/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Einteilige Öse“ (X ZR 65/05, 2009) – Kernaussage?
+
+**A:** Das Auffinden einer neuen technischen Lehre ist nicht schon deshalb naheliegend, weil der Fachmann die Lösung im Wege einfacher Überlegungen hätte finden können; es kommt darauf an, ob er Grund hatte, diese Überlegungen anzustellen.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 08.12.2009 – X ZR 65/05 – einteilige Öse
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das Auffinden einer neuen technischen Lehre ist nicht schon deshalb naheliegend, weil der Fachmann die Lösung im Wege einfacher Überlegungen hätte finden können; es kommt darauf an, ob er Grund hatte, diese Überlegungen anzustellen.
+
+**A:** BGH „Einteilige Öse“ – X ZR 65/05 (2009), BGH, Urteil vom 08.12.2009 – X ZR 65/05 – einteilige Öse
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Farbversorgungssystem“ (X ZR 139/10, 2014) – Kernaussage?
+
+**A:** Gehört eine maschinenbautechnische Lösung als generelles, für viele Anwendungsfälle in Betracht zu ziehendes Mittel zum allgemeinen Fachwissen, kann ihre Heranziehung naheliegend sein, wenn sich aus der Aufgabe der Anlass ergibt, nach solchen Mitteln zu suchen.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 11.03.2014 – X ZR 139/10
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Gehört eine maschinenbautechnische Lösung als generelles, für viele Anwendungsfälle in Betracht zu ziehendes Mittel zum allgemeinen Fachwissen, kann ihre Heranziehung naheliegend sein, wenn sich aus der Aufgabe der Anlass ergibt, nach solchen Mitteln zu suchen.
+
+**A:** BGH „Farbversorgungssystem“ – X ZR 139/10 (2014), BGH, Urteil vom 11.03.2014 – X ZR 139/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Escitalopram“ (Xa ZR 130/07, 2009) – Kernaussage?
+
+**A:** Ein Stoff, der als Enantiomer eines bekannten Racemats gewünscht war, ist neu und erfinderisch, wenn der Fachmann keinen gangbaren Weg zu seiner Bereitstellung kannte; die Bereitstellung selbst ist dann die erfinderische Leistung, nicht nur das Verfahren.
+
+Normen: [§ 16a PatG](https://www.gesetze-im-internet.de/patg/__16a.html) MarkenG, [§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG, [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) MarkenG
+Fundstelle: BGH, Urteil vom 10.09.2009 – Xa ZR 130/07
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit, Chemie, ESZ*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Stoff, der als Enantiomer eines bekannten Racemats gewünscht war, ist neu und erfinderisch, wenn der Fachmann keinen gangbaren Weg zu seiner Bereitstellung kannte; die Bereitstellung selbst ist dann die erfinderische Leistung, nicht nur das Verfahren.
+
+**A:** BGH „Escitalopram“ – Xa ZR 130/07 (2009), BGH, Urteil vom 10.09.2009 – Xa ZR 130/07
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit, Chemie, ESZ*
+
+---
+
+## entscheidung
+
+**F:** BGH „Carvedilol II“ (X ZR 236/01, 2006) – Kernaussage?
+
+**A:** Die Verabreichung eines Arzneimittels zur Behandlung einer Krankheit ist ein therapeutisches Verfahren und als solches vom Patentschutz ausgeschlossen; geschützt werden kann nur der zweckgebundene Stoff (zweite medizinische Indikation) oder die sinnfällige Herrichtung.
+
+Normen: [§ 2a Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__2a.html) MarkenG, [§ 3 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html) MarkenG, [§ 5 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__5.html) MarkenG
+Fundstelle: BGH, Urteil vom 19.12.2006 – X ZR 236/01
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Medizin*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Verabreichung eines Arzneimittels zur Behandlung einer Krankheit ist ein therapeutisches Verfahren und als solches vom Patentschutz ausgeschlossen; geschützt werden kann nur der zweckgebundene Stoff (zweite medizinische Indikation) oder die sinnfällige Herrichtung.
+
+**A:** BGH „Carvedilol II“ – X ZR 236/01 (2006), BGH, Urteil vom 19.12.2006 – X ZR 236/01
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Medizin*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schneidmesser I“ (X ZR 168/00, 2002) – Kernaussage?
+
+**A:** Zahlen- und Maßangaben im Patentanspruch begrenzen den Schutzgegenstand mit; sie sind wie jedes Merkmal auszulegen. Eine Verletzung mit äquivalenten Mitteln setzt voraus, dass die Abwandlung gleichwirkend ist, der Fachmann sie aufgrund seiner Fachkenntnisse auffinden konnte und seine Überlegungen am Sinngehalt des Anspruchs orientiert waren (drei Schneidmesser-Fragen).
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 12.03.2002 – X ZR 168/00
+
+*Tags: Rechtsprechung, BGH, Schutzbereich, Äquivalenz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Zahlen- und Maßangaben im Patentanspruch begrenzen den Schutzgegenstand mit; sie sind wie jedes Merkmal auszulegen. Eine Verletzung mit äquivalenten Mitteln setzt voraus, dass die Abwandlung gleichwirkend ist, der Fachmann sie aufgrund seiner Fachkenntnisse auffinden konnte und seine Überlegungen am Sinngehalt des Anspruchs orientiert waren (drei Schneidmesser-Fragen).
+
+**A:** BGH „Schneidmesser I“ – X ZR 168/00 (2002), BGH, Urteil vom 12.03.2002 – X ZR 168/00
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzbereich, Äquivalenz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Custodiol II“ (X ZR 73/01, 2002) – Kernaussage?
+
+**A:** Zahlen- und Maßangaben sind nicht von vornherein einer äquivalenten Verletzung entzogen; auch hier gelten die Schneidmesser-Fragen, doch wird der Fachmann die Angabe regelmäßig als abschließende Festlegung verstehen, so dass Abweichungen selten gleichwertig sind.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 12.03.2002 – X ZR 73/01
+
+*Tags: Rechtsprechung, BGH, Schutzbereich, Äquivalenz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Zahlen- und Maßangaben sind nicht von vornherein einer äquivalenten Verletzung entzogen; auch hier gelten die Schneidmesser-Fragen, doch wird der Fachmann die Angabe regelmäßig als abschließende Festlegung verstehen, so dass Abweichungen selten gleichwertig sind.
+
+**A:** BGH „Custodiol II“ – X ZR 73/01 (2002), BGH, Urteil vom 12.03.2002 – X ZR 73/01
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzbereich, Äquivalenz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kunststoffrohrteil“ (X ZR 43/01, 2002) – Kernaussage?
+
+**A:** Für den Schutzbereich kommt es grundsätzlich nicht auf Vorgänge im Erteilungsverfahren an; Beschränkungen im Erteilungsverfahren wirken nur, soweit sie in der Patentschrift Niederschlag gefunden haben. Die Patentschrift ist ihr eigenes Lexikon.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 12.03.2002 – X ZR 43/01 – ja (zu Leitsatz 1)
+
+*Tags: Rechtsprechung, BGH, Schutzbereich, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Für den Schutzbereich kommt es grundsätzlich nicht auf Vorgänge im Erteilungsverfahren an; Beschränkungen im Erteilungsverfahren wirken nur, soweit sie in der Patentschrift Niederschlag gefunden haben. Die Patentschrift ist ihr eigenes Lexikon.
+
+**A:** BGH „Kunststoffrohrteil“ – X ZR 43/01 (2002), BGH, Urteil vom 12.03.2002 – X ZR 43/01 – ja (zu Leitsatz 1)
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzbereich, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Bodenseitige Vereinzelungseinrichtung“ (X ZR 255/01, 2004) – Kernaussage?
+
+**A:** Ein Ausführungsbeispiel erlaubt regelmäßig keine einschränkende Auslegung eines allgemein gefassten Patentanspruchs; die Beschreibung dient der Erläuterung, nicht der Beschränkung des Anspruchs.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 07.09.2004 – X ZR 255/01
+
+*Tags: Rechtsprechung, BGH, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Ausführungsbeispiel erlaubt regelmäßig keine einschränkende Auslegung eines allgemein gefassten Patentanspruchs; die Beschreibung dient der Erläuterung, nicht der Beschränkung des Anspruchs.
+
+**A:** BGH „Bodenseitige Vereinzelungseinrichtung“ – X ZR 255/01 (2004), BGH, Urteil vom 07.09.2004 – X ZR 255/01
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Drehzahlermittlung“ (X ZR 82/03, 2004) – Kernaussage?
+
+**A:** Die Feststellung, welchen Sinngehalt der Fachmann den Anspruchsmerkmalen entnimmt, muss stets den Gesamtzusammenhang des Anspruchs und die Funktion der Merkmale im Kontext der erfindungsgemäßen Lösung berücksichtigen (funktionsorientierte Auslegung).
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 03.06.2004 – X ZR 82/03
+
+*Tags: Rechtsprechung, BGH, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Feststellung, welchen Sinngehalt der Fachmann den Anspruchsmerkmalen entnimmt, muss stets den Gesamtzusammenhang des Anspruchs und die Funktion der Merkmale im Kontext der erfindungsgemäßen Lösung berücksichtigen (funktionsorientierte Auslegung).
+
+**A:** BGH „Drehzahlermittlung“ – X ZR 82/03 (2004), BGH, Urteil vom 03.06.2004 – X ZR 82/03
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Okklusionsvorrichtung“ (X ZR 16/09, 2011) – Kernaussage?
+
+**A:** Bei Widersprüchen zwischen Anspruch und Beschreibung haben die Ansprüche Vorrang. Offenbart die Beschreibung mehrere Wege zu einer Wirkung, von denen nur einer beansprucht ist, fehlt für den nicht beanspruchten Weg die Gleichwertigkeit: Die Auswahlentscheidung des Patentinhabers schließt die Äquivalenz aus.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 10.05.2011 – X ZR 16/09
+
+*Tags: Rechtsprechung, BGH, Äquivalenz, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Bei Widersprüchen zwischen Anspruch und Beschreibung haben die Ansprüche Vorrang. Offenbart die Beschreibung mehrere Wege zu einer Wirkung, von denen nur einer beansprucht ist, fehlt für den nicht beanspruchten Weg die Gleichwertigkeit: Die Auswahlentscheidung des Patentinhabers schließt die Äquivalenz aus.
+
+**A:** BGH „Okklusionsvorrichtung“ – X ZR 16/09 (2011), BGH, Urteil vom 10.05.2011 – X ZR 16/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Äquivalenz, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Diglycidverbindung“ (X ZR 69/10, 2011) – Kernaussage?
+
+**A:** Offenbart die Beschreibung mehrere Möglichkeiten, eine technische Wirkung zu erzielen, ist aber nur eine in den Anspruch aufgenommen, so ist die Benutzung einer anderen Möglichkeit regelmäßig keine äquivalente Verletzung (Bestätigung von Okklusionsvorrichtung).
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 13.09.2011 – X ZR 69/10
+
+*Tags: Rechtsprechung, BGH, Äquivalenz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Offenbart die Beschreibung mehrere Möglichkeiten, eine technische Wirkung zu erzielen, ist aber nur eine in den Anspruch aufgenommen, so ist die Benutzung einer anderen Möglichkeit regelmäßig keine äquivalente Verletzung (Bestätigung von Okklusionsvorrichtung).
+
+**A:** BGH „Diglycidverbindung“ – X ZR 69/10 (2011), BGH, Urteil vom 13.09.2011 – X ZR 69/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Äquivalenz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Pemetrexed“ (X ZR 29/15, 2016) – Kernaussage?
+
+**A:** Eine äquivalente Verletzung ist in der Regel zu verneinen, wenn die Beschreibung mehrere Wege offenbart und nur einer beansprucht ist. Anders liegt es, wenn die Beschreibung nur beispielhaft einen Weg nennt und der Fachmann die Abwandlung als gleichwertig erkennt; der Ausschluss gilt nicht für Abwandlungen, die die Beschreibung gar nicht anspricht.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 14.06.2016 – X ZR 29/15
+
+*Tags: Rechtsprechung, BGH, Äquivalenz, Pharma*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine äquivalente Verletzung ist in der Regel zu verneinen, wenn die Beschreibung mehrere Wege offenbart und nur einer beansprucht ist. Anders liegt es, wenn die Beschreibung nur beispielhaft einen Weg nennt und der Fachmann die Abwandlung als gleichwertig erkennt; der Ausschluss gilt nicht für Abwandlungen, die die Beschreibung gar nicht anspricht.
+
+**A:** BGH „Pemetrexed“ – X ZR 29/15 (2016), BGH, Urteil vom 14.06.2016 – X ZR 29/15
+
+*Tags: Rechtsprechung, Umkehr, BGH, Äquivalenz, Pharma*
+
+---
+
+## entscheidung
+
+**F:** BGH „V-förmige Führungsanordnung“ (X ZR 76/14, 2016) – Kernaussage?
+
+**A:** Die Überlegungen des Fachmanns zum Auffinden eines gleichwirkenden Austauschmittels müssen am Patentanspruch orientiert sein; ein Mittel, das der Fachmann nur aufgrund einer abweichenden, vom Anspruch wegführenden Lösungsidee findet, ist nicht gleichwertig.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 23.08.2016 – X ZR 76/14
+
+*Tags: Rechtsprechung, BGH, Äquivalenz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Überlegungen des Fachmanns zum Auffinden eines gleichwirkenden Austauschmittels müssen am Patentanspruch orientiert sein; ein Mittel, das der Fachmann nur aufgrund einer abweichenden, vom Anspruch wegführenden Lösungsidee findet, ist nicht gleichwertig.
+
+**A:** BGH „V-förmige Führungsanordnung“ – X ZR 76/14 (2016), BGH, Urteil vom 23.08.2016 – X ZR 76/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Äquivalenz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Palettenbehälter III“ (X ZR 113/11, 2012) – Kernaussage?
+
+**A:** Gleichwirkend ist eine abweichende Lösung nur, wenn sie nicht nur die Gesamtwirkung der Erfindung im Wesentlichen erreicht, sondern gerade auch die Wirkung, die das nicht wortsinngemäß verwirklichte Merkmal beitragen soll.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 17.07.2012 – X ZR 113/11
+
+*Tags: Rechtsprechung, BGH, Äquivalenz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Gleichwirkend ist eine abweichende Lösung nur, wenn sie nicht nur die Gesamtwirkung der Erfindung im Wesentlichen erreicht, sondern gerade auch die Wirkung, die das nicht wortsinngemäß verwirklichte Merkmal beitragen soll.
+
+**A:** BGH „Palettenbehälter III“ – X ZR 113/11 (2012), BGH, Urteil vom 17.07.2012 – X ZR 113/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Äquivalenz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kreuzgestänge“ (X ZR 103/13, 2015) – Kernaussage?
+
+**A:** Das Verletzungsgericht legt das Klagepatent selbständig aus und ist an die Auslegung im Nichtigkeitsverfahren weder rechtlich noch tatsächlich gebunden; es muss sich aber mit ihr auseinandersetzen.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG, [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html) MarkenG
+Fundstelle: BGH, Urteil vom 02.06.2015 – X ZR 103/13
+
+*Tags: Rechtsprechung, BGH, Auslegung, Trennungsprinzip*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das Verletzungsgericht legt das Klagepatent selbständig aus und ist an die Auslegung im Nichtigkeitsverfahren weder rechtlich noch tatsächlich gebunden; es muss sich aber mit ihr auseinandersetzen.
+
+**A:** BGH „Kreuzgestänge“ – X ZR 103/13 (2015), BGH, Urteil vom 02.06.2015 – X ZR 103/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung, Trennungsprinzip*
+
+---
+
+## entscheidung
+
+**F:** BGH „Scheinwerferbelüftungssystem“ (X ZR 16/17, 2018) – Kernaussage?
+
+**A:** Bei der Auslegung ist zu berücksichtigen, dass sich ein Patent mit seiner Lehre vom beschriebenen Stand der Technik abgrenzen will; ein Merkmal ist im Zweifel so zu verstehen, dass es diese Abgrenzung leistet.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 27.11.2018 – X ZR 16/17
+
+*Tags: Rechtsprechung, BGH, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Bei der Auslegung ist zu berücksichtigen, dass sich ein Patent mit seiner Lehre vom beschriebenen Stand der Technik abgrenzen will; ein Merkmal ist im Zweifel so zu verstehen, dass es diese Abgrenzung leistet.
+
+**A:** BGH „Scheinwerferbelüftungssystem“ – X ZR 16/17 (2018), BGH, Urteil vom 27.11.2018 – X ZR 16/17
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Referenzkontur“ (X ZR 35/24, 2026) – Kernaussage?
+
+**A:** Zweck-, Wirkungs- und Funktionsangaben in Verfahrensansprüchen führen nicht zwingend dazu, dass das Verfahren zu dem angegebenen Zweck eingesetzt werden muss; ob eine Angabe das Verfahren definiert oder nur beispielhaft ist, ist durch Auslegung zu klären.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG
+Fundstelle: BGH, Urteil vom 09.06.2026 – X ZR 35/24
+
+*Tags: Rechtsprechung, BGH, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Zweck-, Wirkungs- und Funktionsangaben in Verfahrensansprüchen führen nicht zwingend dazu, dass das Verfahren zu dem angegebenen Zweck eingesetzt werden muss; ob eine Angabe das Verfahren definiert oder nur beispielhaft ist, ist durch Auslegung zu klären.
+
+**A:** BGH „Referenzkontur“ – X ZR 35/24 (2026), BGH, Urteil vom 09.06.2026 – X ZR 35/24
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Bildunterstützung bei Katheternavigation“ (X ZB 9/09, 2010) – Kernaussage?
+
+**A:** Zweck-, Wirkungs- oder Funktionsangaben im Anspruch beziehen sich nicht zwangsläufig auf den Gegenstand des Anspruchs; sie können ihn aber mittelbar definieren, indem sie verlangen, dass die Vorrichtung so ausgebildet ist, dass sie die Funktion erfüllen kann.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG, [§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html) MarkenG
+Fundstelle: BGH, Beschluss vom 31.08.2010 – X ZB 9/09
+
+*Tags: Rechtsprechung, BGH, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Zweck-, Wirkungs- oder Funktionsangaben im Anspruch beziehen sich nicht zwangsläufig auf den Gegenstand des Anspruchs; sie können ihn aber mittelbar definieren, indem sie verlangen, dass die Vorrichtung so ausgebildet ist, dass sie die Funktion erfüllen kann.
+
+**A:** BGH „Bildunterstützung bei Katheternavigation“ – X ZB 9/09 (2010), BGH, Beschluss vom 31.08.2010 – X ZB 9/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Flügelradzähler“ (X ZR 48/03, 2004) – Kernaussage?
+
+**A:** Ein Mittel bezieht sich auf ein wesentliches Element der Erfindung, wenn es geeignet ist, mit einem oder mehreren Anspruchsmerkmalen bei der Verwirklichung der Lehre funktional zusammenzuwirken; die subjektiven Voraussetzungen der mittelbaren Verletzung (Wissen oder Offensichtlichkeit) sind aus der Sicht des Anbieters zu prüfen.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html) MarkenG, [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+Fundstelle: BGH, Urteil vom 04.05.2004 – X ZR 48/03
+
+*Tags: Rechtsprechung, BGH, Verletzung, Mittelbare Verletzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Mittel bezieht sich auf ein wesentliches Element der Erfindung, wenn es geeignet ist, mit einem oder mehreren Anspruchsmerkmalen bei der Verwirklichung der Lehre funktional zusammenzuwirken; die subjektiven Voraussetzungen der mittelbaren Verletzung (Wissen oder Offensichtlichkeit) sind aus der Sicht des Anbieters zu prüfen.
+
+**A:** BGH „Flügelradzähler“ – X ZR 48/03 (2004), BGH, Urteil vom 04.05.2004 – X ZR 48/03
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzung, Mittelbare Verletzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fräsverfahren“ (X ZR 69/11, 2013) – Kernaussage?
+
+**A:** Bei mittelbarer Patentverletzung setzt die Feststellung der Schadensersatzpflicht die Wahrscheinlichkeit voraus, dass der Abnehmer die Erfindung unmittelbar benutzt hat; der Schaden liegt in der unmittelbaren Benutzung, nicht schon in der Lieferung.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html) MarkenG, [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG
+Fundstelle: BGH, Urteil vom 07.05.2013 – X ZR 69/11
+
+*Tags: Rechtsprechung, BGH, Mittelbare Verletzung, Schadensersatz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Bei mittelbarer Patentverletzung setzt die Feststellung der Schadensersatzpflicht die Wahrscheinlichkeit voraus, dass der Abnehmer die Erfindung unmittelbar benutzt hat; der Schaden liegt in der unmittelbaren Benutzung, nicht schon in der Lieferung.
+
+**A:** BGH „Fräsverfahren“ – X ZR 69/11 (2013), BGH, Urteil vom 07.05.2013 – X ZR 69/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Mittelbare Verletzung, Schadensersatz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Abgasreinigungsvorrichtung“ (X ZR 14/03, 2005) – Kernaussage?
+
+**A:** Die sinnfällige Herrichtung einer Vorrichtung zur Ausübung eines patentierten Verfahrens ist noch keine Anwendung des Verfahrens ([§ 9 S. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__9.html)); sie kann aber Anbieten zur Anwendung oder mittelbare Verletzung sein.
+
+Normen: [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html) MarkenG, [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+Fundstelle: BGH, Urteil vom 05.07.2005 – X ZR 14/03
+
+*Tags: Rechtsprechung, BGH, Verletzung, Verfahrensanspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die sinnfällige Herrichtung einer Vorrichtung zur Ausübung eines patentierten Verfahrens ist noch keine Anwendung des Verfahrens ([§ 9 S. 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__9.html)); sie kann aber Anbieten zur Anwendung oder mittelbare Verletzung sein.
+
+**A:** BGH „Abgasreinigungsvorrichtung“ – X ZR 14/03 (2005), BGH, Urteil vom 05.07.2005 – X ZR 14/03
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzung, Verfahrensanspruch*
+
+---
+
+## entscheidung
+
+**F:** BGH „Palettenbehälter II“ (X ZR 97/11, 2012) – Kernaussage?
+
+**A:** Erschöpfung: Gehört der Austausch eines Bestandteils zum bestimmungsgemäßen Gebrauch eines in Verkehr gebrachten Erzeugnisses, darf ihn auch ein Dritter vornehmen. Anders, wenn sich gerade in dem ausgetauschten Teil die technischen Wirkungen der Erfindung widerspiegeln; dann liegt eine unzulässige Neuherstellung vor.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+Fundstelle: BGH, Urteil vom 17.07.2012 – X ZR 97/11
+
+*Tags: Rechtsprechung, BGH, Erschöpfung, Reparatur*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Erschöpfung: Gehört der Austausch eines Bestandteils zum bestimmungsgemäßen Gebrauch eines in Verkehr gebrachten Erzeugnisses, darf ihn auch ein Dritter vornehmen. Anders, wenn sich gerade in dem ausgetauschten Teil die technischen Wirkungen der Erfindung widerspiegeln; dann liegt eine unzulässige Neuherstellung vor.
+
+**A:** BGH „Palettenbehälter II“ – X ZR 97/11 (2012), BGH, Urteil vom 17.07.2012 – X ZR 97/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erschöpfung, Reparatur*
+
+---
+
+## entscheidung
+
+**F:** BGH „Trommeleinheit“ (X ZR 55/16, 2017) – Kernaussage?
+
+**A:** Beim Austausch von Teilen eines patentgeschützten Erzeugnisses entscheidet zunächst die Verkehrsauffassung, ob der Austausch üblicher Erhalt oder Neuherstellung ist; bei Verbrauchsmaterial kommt es darauf an, ob die technischen Wirkungen der Erfindung gerade im ausgetauschten Teil liegen.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+Fundstelle: BGH, Urteil vom 24.10.2017 – X ZR 55/16
+
+*Tags: Rechtsprechung, BGH, Erschöpfung, Reparatur*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Beim Austausch von Teilen eines patentgeschützten Erzeugnisses entscheidet zunächst die Verkehrsauffassung, ob der Austausch üblicher Erhalt oder Neuherstellung ist; bei Verbrauchsmaterial kommt es darauf an, ob die technischen Wirkungen der Erfindung gerade im ausgetauschten Teil liegen.
+
+**A:** BGH „Trommeleinheit“ – X ZR 55/16 (2017), BGH, Urteil vom 24.10.2017 – X ZR 55/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erschöpfung, Reparatur*
+
+---
+
+## entscheidung
+
+**F:** BGH „Rezeptortyrosinkinase II“ (X ZR 124/15, 2016) – Kernaussage?
+
+**A:** Eine Datenfolge kommt nur dann als unmittelbares Verfahrenserzeugnis in Betracht, wenn sie als körperlich fassbares Erzeugnis mit technischen Eigenschaften anzusehen ist; das Ergebnis eines Analyseverfahrens (Information) ist kein Erzeugnis im Sinne des [§ 9 S. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html).
+
+Normen: [§ 1 Abs. 3 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG, [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+Fundstelle: BGH, Urteil vom 27.09.2016 – X ZR 124/15
+
+*Tags: Rechtsprechung, BGH, Verletzung, Verfahrenserzeugnis*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Datenfolge kommt nur dann als unmittelbares Verfahrenserzeugnis in Betracht, wenn sie als körperlich fassbares Erzeugnis mit technischen Eigenschaften anzusehen ist; das Ergebnis eines Analyseverfahrens (Information) ist kein Erzeugnis im Sinne des [§ 9 S. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__9.html).
+
+**A:** BGH „Rezeptortyrosinkinase II“ – X ZR 124/15 (2016), BGH, Urteil vom 27.09.2016 – X ZR 124/15
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzung, Verfahrenserzeugnis*
+
+---
+
+## entscheidung
+
+**F:** BGH „Wasserdichter Lederschuh“ (X ZR 27/16, 2018) – Kernaussage?
+
+**A:** Ist nach dem geschützten Verfahren ein Halbzeug in bestimmter Weise zu bearbeiten, erstreckt sich der Schutz des unmittelbaren Verfahrenserzeugnisses auf das bearbeitete Halbzeug, nicht ohne weiteres auf das aus ihm hergestellte Endprodukt.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+Fundstelle: BGH, Urteil vom 30.01.2018 – X ZR 27/16
+
+*Tags: Rechtsprechung, BGH, Verletzung, Verfahrenserzeugnis*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ist nach dem geschützten Verfahren ein Halbzeug in bestimmter Weise zu bearbeiten, erstreckt sich der Schutz des unmittelbaren Verfahrenserzeugnisses auf das bearbeitete Halbzeug, nicht ohne weiteres auf das aus ihm hergestellte Endprodukt.
+
+**A:** BGH „Wasserdichter Lederschuh“ – X ZR 27/16 (2018), BGH, Urteil vom 30.01.2018 – X ZR 27/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzung, Verfahrenserzeugnis*
+
+---
+
+## entscheidung
+
+**F:** BGH „Tintenpatrone“ (X ZR 180/05, 2008) – Kernaussage?
+
+**A:** Der Unterlassungsanspruch aus dem Patent besteht auch gegen den Vertrieb von Erzeugnissen, die der Patentinhaber oder mit seiner Zustimmung ein Dritter außerhalb des EWR in Verkehr gebracht hat; die Erschöpfung ist auf das Inverkehrbringen im EWR beschränkt.
+
+Normen: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) MarkenG
+Fundstelle: BGH, Urteil vom 20.05.2008 – X ZR 180/05
+
+*Tags: Rechtsprechung, BGH, Erschöpfung, Parallelimport*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Unterlassungsanspruch aus dem Patent besteht auch gegen den Vertrieb von Erzeugnissen, die der Patentinhaber oder mit seiner Zustimmung ein Dritter außerhalb des EWR in Verkehr gebracht hat; die Erschöpfung ist auf das Inverkehrbringen im EWR beschränkt.
+
+**A:** BGH „Tintenpatrone“ – X ZR 180/05 (2008), BGH, Urteil vom 20.05.2008 – X ZR 180/05
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erschöpfung, Parallelimport*
+
+---
+
+## entscheidung
+
+**F:** BGH „Raffvorhang“ (X ZR 69/08, 2011) – Kernaussage?
+
+**A:** Gleichartig im Sinne der Klagekonzentration des [§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html) sind nur Handlungen, die gegenüber der zuerst angegriffenen Handlung zusätzliche oder abgewandelte Merkmale aufweisen; die Vorschrift ist eng auszulegen.
+
+Normen: [§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html) MarkenG
+Fundstelle: BGH, Urteil vom 25.01.2011 – X ZR 69/08
+
+*Tags: Rechtsprechung, BGH, Verletzungsprozess*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Gleichartig im Sinne der Klagekonzentration des [§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html) sind nur Handlungen, die gegenüber der zuerst angegriffenen Handlung zusätzliche oder abgewandelte Merkmale aufweisen; die Vorschrift ist eng auszulegen.
+
+**A:** BGH „Raffvorhang“ – X ZR 69/08 (2011), BGH, Urteil vom 25.01.2011 – X ZR 69/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzungsprozess*
+
+---
+
+## entscheidung
+
+**F:** BGH „Restschadstoffentfernung“ (X ZR 114/03, 2006) – Kernaussage?
+
+**A:** Die Vorlageanordnung nach [§ 142 ZPO](https://www.gesetze-im-internet.de/zpo/__142.html) ist im Patentverletzungsprozess auch im Licht der Durchsetzungsrichtlinie großzügig anzuwenden; Geschäftsgeheimnisse rechtfertigen keine generelle Verweigerung, sondern sind durch Verfahrensgestaltung zu schützen.
+
+Normen: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG
+Fundstelle: BGH, Urteil vom 01.08.2006 – X ZR 114/03
+
+*Tags: Rechtsprechung, BGH, Beweis, Besichtigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Vorlageanordnung nach [§ 142 ZPO](https://www.gesetze-im-internet.de/zpo/__142.html) ist im Patentverletzungsprozess auch im Licht der Durchsetzungsrichtlinie großzügig anzuwenden; Geschäftsgeheimnisse rechtfertigen keine generelle Verweigerung, sondern sind durch Verfahrensgestaltung zu schützen.
+
+**A:** BGH „Restschadstoffentfernung“ – X ZR 114/03 (2006), BGH, Urteil vom 01.08.2006 – X ZR 114/03
+
+*Tags: Rechtsprechung, Umkehr, BGH, Beweis, Besichtigung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Klimaschrank“ (X ZR 68/10, 2011) – Kernaussage?
+
+**A:** Auch im Verfahren über die Nichtzulassungsbeschwerde kann der Verletzungsprozess nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html) im Hinblick auf eine Nichtigkeitsklage ausgesetzt werden; maßgeblich ist, ob die Vernichtung des Klagepatents hinreichend wahrscheinlich ist.
+
+Normen: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG
+Fundstelle: BGH, Beschluss vom 28.09.2011 – X ZR 68/10
+
+*Tags: Rechtsprechung, BGH, Trennungsprinzip, Aussetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Auch im Verfahren über die Nichtzulassungsbeschwerde kann der Verletzungsprozess nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html) im Hinblick auf eine Nichtigkeitsklage ausgesetzt werden; maßgeblich ist, ob die Vernichtung des Klagepatents hinreichend wahrscheinlich ist.
+
+**A:** BGH „Klimaschrank“ – X ZR 68/10 (2011), BGH, Beschluss vom 28.09.2011 – X ZR 68/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Trennungsprinzip, Aussetzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Adalimumab“ (X ZR 36/25, 2026) – Kernaussage?
+
+**A:** Auch wenn die Nichtigkeitsklage erst nach dem Berufungsurteil im Verletzungsprozess erhoben wurde, kommt eine Aussetzung des Nichtzulassungsbeschwerdeverfahrens ausnahmsweise in Betracht, wenn besondere Umstände dies rechtfertigen.
+
+Normen: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG
+Fundstelle: BGH, Beschluss vom 07.08.2026 – X ZR 36/25
+
+*Tags: Rechtsprechung, BGH, Aussetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Auch wenn die Nichtigkeitsklage erst nach dem Berufungsurteil im Verletzungsprozess erhoben wurde, kommt eine Aussetzung des Nichtzulassungsbeschwerdeverfahrens ausnahmsweise in Betracht, wenn besondere Umstände dies rechtfertigen.
+
+**A:** BGH „Adalimumab“ – X ZR 36/25 (2026), BGH, Beschluss vom 07.08.2026 – X ZR 36/25
+
+*Tags: Rechtsprechung, Umkehr, BGH, Aussetzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Hubgliedertor I“ (X ZR 27/06, 2009) – Kernaussage?
+
+**A:** Eine unzulässige Erweiterung liegt vor, wenn sich der Gegenstand des Patents für den Fachmann erst aufgrund eigener, von seinem Fachwissen getragener Überlegungen aus den ursprünglichen Unterlagen ergibt; Maßstab ist, was als zur Erfindung gehörend unmittelbar und eindeutig offenbart war.
+
+Normen: [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html) MarkenG, [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html) MarkenG
+Fundstelle: BGH, Urteil vom 22.12.2009 – X ZR 27/06
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine unzulässige Erweiterung liegt vor, wenn sich der Gegenstand des Patents für den Fachmann erst aufgrund eigener, von seinem Fachwissen getragener Überlegungen aus den ursprünglichen Unterlagen ergibt; Maßstab ist, was als zur Erfindung gehörend unmittelbar und eindeutig offenbart war.
+
+**A:** BGH „Hubgliedertor I“ – X ZR 27/06 (2009), BGH, Urteil vom 22.12.2009 – X ZR 27/06
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Winkelmesseinrichtung“ (Xa ZB 14/09, 2010) – Kernaussage?
+
+**A:** Ein nicht ursprünglich offenbartes Merkmal, das den Anspruch nur beschränkt (Aliud ausgeschlossen), führt nicht zwingend zum Widerruf: Das Merkmal bleibt im Anspruch, darf aber bei der Prüfung der Patentfähigkeit nicht zugunsten des Inhabers berücksichtigt werden (uneigentliche Erweiterung).
+
+Normen: [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [§ 21 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG
+Fundstelle: BGH, Beschluss vom 21.10.2010 – Xa ZB 14/09
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein nicht ursprünglich offenbartes Merkmal, das den Anspruch nur beschränkt (Aliud ausgeschlossen), führt nicht zwingend zum Widerruf: Das Merkmal bleibt im Anspruch, darf aber bei der Prüfung der Patentfähigkeit nicht zugunsten des Inhabers berücksichtigt werden (uneigentliche Erweiterung).
+
+**A:** BGH „Winkelmesseinrichtung“ – Xa ZB 14/09 (2010), BGH, Beschluss vom 21.10.2010 – Xa ZB 14/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** BGH „Rotorelemente“ (X ZR 43/13, 2015) – Kernaussage?
+
+**A:** Der Prüfung einer unzulässigen Erweiterung muss die Auslegung des geänderten Anspruchs vorausgehen. Bei der Ermittlung des Offenbarungsgehalts der Anmeldung ist wie bei der Auslegung zu fragen, was der Fachmann der Gesamtheit der Unterlagen als zur Erfindung gehörend entnimmt.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG, [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html) MarkenG
+Fundstelle: BGH, Urteil vom 12.05.2015 – X ZR 43/13
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Prüfung einer unzulässigen Erweiterung muss die Auslegung des geänderten Anspruchs vorausgehen. Bei der Ermittlung des Offenbarungsgehalts der Anmeldung ist wie bei der Auslegung zu fragen, was der Fachmann der Gesamtheit der Unterlagen als zur Erfindung gehörend entnimmt.
+
+**A:** BGH „Rotorelemente“ – X ZR 43/13 (2015), BGH, Urteil vom 12.05.2015 – X ZR 43/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Wundbehandlungsvorrichtung“ (X ZR 161/12, 2015) – Kernaussage?
+
+**A:** Ein europäisches Patent ist nicht wegen unzulässiger Erweiterung für nichtig zu erklären, wenn der Anspruch ein ursprünglich nicht offenbartes beschränkendes Merkmal enthält; das Merkmal bleibt im Anspruch und ist bei der Prüfung der Patentfähigkeit außer Acht zu lassen (Übertragung von Winkelmesseinrichtung auf [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)).
+
+Normen: [Art. II § 6 Abs. 1 Nr. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG
+Fundstelle: BGH, Urteil vom 17.02.2015 – X ZR 161/12
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung, Europäisches Patent*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein europäisches Patent ist nicht wegen unzulässiger Erweiterung für nichtig zu erklären, wenn der Anspruch ein ursprünglich nicht offenbartes beschränkendes Merkmal enthält; das Merkmal bleibt im Anspruch und ist bei der Prüfung der Patentfähigkeit außer Acht zu lassen (Übertragung von Winkelmesseinrichtung auf [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)).
+
+**A:** BGH „Wundbehandlungsvorrichtung“ – X ZR 161/12 (2015), BGH, Urteil vom 17.02.2015 – X ZR 161/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung, Europäisches Patent*
+
+---
+
+## entscheidung
+
+**F:** BGH „Überbrücktes Netzwerk“ (X ZR 98/24, 2026) – Kernaussage?
+
+**A:** Der Hinweis in der Anmeldung, dass einzelne Verfahrensschritte eines Ausführungsbeispiels nicht zwingend sind, offenbart nicht ein Verfahren, bei dem diese Schritte durch eine konkrete andere Vorgehensweise ersetzt werden; Weglassen ist nicht Ersetzen.
+
+Normen: [Art. II § 6 Abs. 1 Nr. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG
+Fundstelle: BGH, Urteil vom 28.07.2026 – X ZR 98/24
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Hinweis in der Anmeldung, dass einzelne Verfahrensschritte eines Ausführungsbeispiels nicht zwingend sind, offenbart nicht ein Verfahren, bei dem diese Schritte durch eine konkrete andere Vorgehensweise ersetzt werden; Weglassen ist nicht Ersetzen.
+
+**A:** BGH „Überbrücktes Netzwerk“ – X ZR 98/24 (2026), BGH, Urteil vom 28.07.2026 – X ZR 98/24
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Einkaufswagen II“ (X ZR 30/02, 2005) – Kernaussage?
+
+**A:** Ob der Gegenstand der erteilten Ansprüche über den Inhalt der Anmeldung hinausgeht, ist durch Vergleich des Anspruchsgegenstands mit dem Gesamtinhalt der ursprünglichen Unterlagen zu ermitteln; auch Verallgemeinerungen von Ausführungsbeispielen sind zulässig, wenn sie als zur Erfindung gehörend erkennbar waren.
+
+Normen: [Art. II § 6 Abs. 1 Nr. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html) MarkenG
+Fundstelle: BGH, Urteil vom 05.07.2005 – X ZR 30/02
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ob der Gegenstand der erteilten Ansprüche über den Inhalt der Anmeldung hinausgeht, ist durch Vergleich des Anspruchsgegenstands mit dem Gesamtinhalt der ursprünglichen Unterlagen zu ermitteln; auch Verallgemeinerungen von Ausführungsbeispielen sind zulässig, wenn sie als zur Erfindung gehörend erkennbar waren.
+
+**A:** BGH „Einkaufswagen II“ – X ZR 30/02 (2005), BGH, Urteil vom 05.07.2005 – X ZR 30/02
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Phosphatidylcholin“ (X ZB 5/16, 2017) – Kernaussage?
+
+**A:** Eine Anmeldung ist zurückzuweisen, wenn der zur Prüfung gestellte Anspruch über den Inhalt der ursprünglichen Anmeldung hinausgeht; der Anmelder kann nicht verlangen, dass das DPMA das Patent mit einem anderen, zulässigen Anspruch erteilt.
+
+Normen: [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html) MarkenG, [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html) MarkenG
+Fundstelle: BGH, Beschluss vom 25.07.2017 – X ZB 5/16
+
+*Tags: Rechtsprechung, BGH, Erteilungsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Anmeldung ist zurückzuweisen, wenn der zur Prüfung gestellte Anspruch über den Inhalt der ursprünglichen Anmeldung hinausgeht; der Anmelder kann nicht verlangen, dass das DPMA das Patent mit einem anderen, zulässigen Anspruch erteilt.
+
+**A:** BGH „Phosphatidylcholin“ – X ZB 5/16 (2017), BGH, Beschluss vom 25.07.2017 – X ZB 5/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erteilungsverfahren*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sammelhefter“ (X ZB 18/01, 2002) – Kernaussage?
+
+**A:** Die wirksame Teilung eines Patents setzt nicht voraus, dass die Teilungserklärung einen gegenständlich bestimmten Teil des Patents definiert; die Teilanmeldung wird mit der Erklärung selbständig und kann später mit Ansprüchen aus dem Gesamtinhalt der Stammanmeldung weiterverfolgt werden.
+
+Normen: [§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html) MarkenG, [§ 60 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__60.html) MarkenG
+Fundstelle: BGH, Beschluss vom 30.09.2002 – X ZB 18/01
+
+*Tags: Rechtsprechung, BGH, Teilung, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die wirksame Teilung eines Patents setzt nicht voraus, dass die Teilungserklärung einen gegenständlich bestimmten Teil des Patents definiert; die Teilanmeldung wird mit der Erklärung selbständig und kann später mit Ansprüchen aus dem Gesamtinhalt der Stammanmeldung weiterverfolgt werden.
+
+**A:** BGH „Sammelhefter“ – X ZB 18/01 (2002), BGH, Beschluss vom 30.09.2002 – X ZB 18/01
+
+*Tags: Rechtsprechung, Umkehr, BGH, Teilung, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fahrzeugscheibe“ (X ZR 49/12, 2013) – Kernaussage?
+
+**A:** Das Recht auf Inanspruchnahme der Priorität einer deutschen Anmeldung kann formlos übertragen werden, auch für eine europäische Nachanmeldung; die Übertragung muss aber vor der Nachanmeldung erfolgt sein.
+
+Normen: [§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html) MarkenG, [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html) MarkenG
+Fundstelle: BGH, Urteil vom 16.04.2013 – X ZR 49/12
+
+*Tags: Rechtsprechung, BGH, Priorität*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das Recht auf Inanspruchnahme der Priorität einer deutschen Anmeldung kann formlos übertragen werden, auch für eine europäische Nachanmeldung; die Übertragung muss aber vor der Nachanmeldung erfolgt sein.
+
+**A:** BGH „Fahrzeugscheibe“ – X ZR 49/12 (2013), BGH, Urteil vom 16.04.2013 – X ZR 49/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Priorität*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kommunikationskanal“ (X ZR 107/12, 2014) – Kernaussage?
+
+**A:** Die Priorität einer Voranmeldung kann in Anspruch genommen werden, wenn sich die Erfindung der Nachanmeldung für den Fachmann aus der Voranmeldung als zur Erfindung gehörend ergibt; es gilt derselbe Offenbarungsmaßstab wie bei der unzulässigen Erweiterung, kein „Photographie“-Erfordernis.
+
+Normen: [§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html) MarkenG, [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html) MarkenG
+Fundstelle: BGH, Urteil vom 11.02.2014 – X ZR 107/12
+
+*Tags: Rechtsprechung, BGH, Priorität*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Priorität einer Voranmeldung kann in Anspruch genommen werden, wenn sich die Erfindung der Nachanmeldung für den Fachmann aus der Voranmeldung als zur Erfindung gehörend ergibt; es gilt derselbe Offenbarungsmaßstab wie bei der unzulässigen Erweiterung, kein „Photographie“-Erfordernis.
+
+**A:** BGH „Kommunikationskanal“ – X ZR 107/12 (2014), BGH, Urteil vom 11.02.2014 – X ZR 107/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Priorität*
+
+---
+
+## entscheidung
+
+**F:** BGH „Thermoplastische Zusammensetzung“ (Xa ZR 100/05, 2010) – Kernaussage?
+
+**A:** Die Ausführbarkeit fehlt, wenn der Fachmann den beanspruchten Gegenstand nur mit unzumutbarem Aufwand oder nur durch eigene erfinderische Leistung verwirklichen kann; ein durch Parameter definierter Stoff ist ausführbar offenbart, wenn der Fachmann die Parameter mit den Angaben der Patentschrift einstellen kann.
+
+Normen: [Art. II § 6 Abs. 1 Nr. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG
+Fundstelle: BGH, Urteil vom 25.02.2010 – Xa ZR 100/05
+
+*Tags: Rechtsprechung, BGH, Ausführbarkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Ausführbarkeit fehlt, wenn der Fachmann den beanspruchten Gegenstand nur mit unzumutbarem Aufwand oder nur durch eigene erfinderische Leistung verwirklichen kann; ein durch Parameter definierter Stoff ist ausführbar offenbart, wenn der Fachmann die Parameter mit den Angaben der Patentschrift einstellen kann.
+
+**A:** BGH „Thermoplastische Zusammensetzung“ – Xa ZR 100/05 (2010), BGH, Urteil vom 25.02.2010 – Xa ZR 100/05
+
+*Tags: Rechtsprechung, Umkehr, BGH, Ausführbarkeit*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Imidazolinpyrimidon-Verbindung“ (3 Ni 7/24 (EP), 2026) – Kernaussage?
+
+**A:** Ist ein neuer Stoff beansprucht, ist ein weiterer Anspruch auf dessen medizinische Verwendung schon deshalb ausführbar, weil er durch den absoluten Stoffschutz unterlegt ist; eines gesonderten Wirksamkeitsnachweises bedarf es nicht.
+
+Normen: [Art. II § 6 Abs. 1 Nr. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
+Fundstelle: BPatG, Urteil vom 28.04.2026 – 3 Ni 7/24 (EP)
+
+*Tags: Rechtsprechung, BPatG, Ausführbarkeit, Pharma*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ist ein neuer Stoff beansprucht, ist ein weiterer Anspruch auf dessen medizinische Verwendung schon deshalb ausführbar, weil er durch den absoluten Stoffschutz unterlegt ist; eines gesonderten Wirksamkeitsnachweises bedarf es nicht.
+
+**A:** BPatG „Imidazolinpyrimidon-Verbindung“ – 3 Ni 7/24 (EP) (2026), BPatG, Urteil vom 28.04.2026 – 3 Ni 7/24 (EP)
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Ausführbarkeit, Pharma*
+
+---
+
+## entscheidung
+
+**F:** BGH „Ratschenschlüssel“ (X ZB 3/15, 2017) – Kernaussage?
+
+**A:** Dem Einspruchsverfahren kann auch beitreten, gegen wen der Patentinhaber wegen Verletzung den Erlass einer einstweiligen Verfügung beantragt hat; die Verletzungsklage im Sinne des [§ 59 Abs. 2](https://www.gesetze-im-internet.de/markeng/__59.html) umfasst das Verfügungsverfahren.
+
+Normen: [§ 59 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__59.html) MarkenG
+Fundstelle: BGH, Beschluss vom 29.08.2017 – X ZB 3/15
+
+*Tags: Rechtsprechung, BGH, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Dem Einspruchsverfahren kann auch beitreten, gegen wen der Patentinhaber wegen Verletzung den Erlass einer einstweiligen Verfügung beantragt hat; die Verletzungsklage im Sinne des [§ 59 Abs. 2](https://www.gesetze-im-internet.de/markeng/__59.html) umfasst das Verfügungsverfahren.
+
+**A:** BGH „Ratschenschlüssel“ – X ZB 3/15 (2017), BGH, Beschluss vom 29.08.2017 – X ZB 3/15
+
+*Tags: Rechtsprechung, Umkehr, BGH, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** BGH „Leistungshalbleiterbauelement“ (Xa ZB 28/08, 2009) – Kernaussage?
+
+**A:** Ein auf mangelnde Patentfähigkeit gestützter Einspruch ist zulässig, wenn er die Tatsachen, aus denen sich der Widerrufsgrund ergibt, so vollständig angibt, dass Patentabteilung und Inhaber daraus abschließende Folgerungen ziehen können; die Berufung auf eine ältere Anmeldung nach [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html) genügt.
+
+Normen: [§ 100 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__100.html) MarkenG, [§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html) MarkenG, [§ 61 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__61.html) MarkenG
+Fundstelle: BGH, Beschluss vom 30.07.2009 – Xa ZB 28/08
+
+*Tags: Rechtsprechung, BGH, Einspruch, Zulässigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein auf mangelnde Patentfähigkeit gestützter Einspruch ist zulässig, wenn er die Tatsachen, aus denen sich der Widerrufsgrund ergibt, so vollständig angibt, dass Patentabteilung und Inhaber daraus abschließende Folgerungen ziehen können; die Berufung auf eine ältere Anmeldung nach [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html) genügt.
+
+**A:** BGH „Leistungshalbleiterbauelement“ – Xa ZB 28/08 (2009), BGH, Beschluss vom 30.07.2009 – Xa ZB 28/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Einspruch, Zulässigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Ventileinrichtung“ (X ZB 1/16, 2016) – Kernaussage?
+
+**A:** Das Patentgericht darf im Einspruchsbeschwerdeverfahren nicht von Amts wegen neue Widerrufsgründe einführen, die nicht Gegenstand des Einspruchs oder des Beschwerdevorbringens waren; der Streitgegenstand wird durch die geltend gemachten Widerrufsgründe begrenzt.
+
+Normen: [§ 21 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__21.html) MarkenG, [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html) MarkenG, [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html) MarkenG, [§ 79 PatG](https://www.gesetze-im-internet.de/patg/__79.html) MarkenG
+Fundstelle: BGH, Beschluss vom 08.11.2016 – X ZB 1/16
+
+*Tags: Rechtsprechung, BGH, Einspruch, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das Patentgericht darf im Einspruchsbeschwerdeverfahren nicht von Amts wegen neue Widerrufsgründe einführen, die nicht Gegenstand des Einspruchs oder des Beschwerdevorbringens waren; der Streitgegenstand wird durch die geltend gemachten Widerrufsgründe begrenzt.
+
+**A:** BGH „Ventileinrichtung“ – X ZB 1/16 (2016), BGH, Beschluss vom 08.11.2016 – X ZB 1/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Einspruch, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schwingungsdämpfer“ (Xa ZB 36/08, 2009) – Kernaussage?
+
+**A:** Verteidigt der Patentinhaber im Einspruch nur einen von zwei nebengeordneten Ansprüchen, muss das Gericht ihn darauf hinweisen, wenn es den verteidigten Anspruch für nicht schutzfähig hält; sonst verletzt es das rechtliche Gehör (absoluter Rechtsbeschwerdegrund).
+
+Normen: [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html) MarkenG
+Fundstelle: BGH, Beschluss vom 22.09.2009 – Xa ZB 36/08
+
+*Tags: Rechtsprechung, BGH, Rechtsbeschwerde, Rechtliches Gehör*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Verteidigt der Patentinhaber im Einspruch nur einen von zwei nebengeordneten Ansprüchen, muss das Gericht ihn darauf hinweisen, wenn es den verteidigten Anspruch für nicht schutzfähig hält; sonst verletzt es das rechtliche Gehör (absoluter Rechtsbeschwerdegrund).
+
+**A:** BGH „Schwingungsdämpfer“ – Xa ZB 36/08 (2009), BGH, Beschluss vom 22.09.2009 – Xa ZB 36/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Rechtsbeschwerde, Rechtliches Gehör*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sensoranordnung“ (X ZR 109/08, 2011) – Kernaussage?
+
+**A:** Erweist sich der Gegenstand eines Anspruchs als nicht patentfähig, führt das nicht ohne weiteres zur Nichtigkeit nebengeordneter Ansprüche; der Patentinhaber kann das Patent mit den übrigen Ansprüchen verteidigen, und das Gericht muss über jeden angegriffenen Anspruch entscheiden.
+
+Normen: [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html) MarkenG, [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG, [§ 84 PatG](https://www.gesetze-im-internet.de/patg/__84.html) MarkenG
+Fundstelle: BGH, Urteil vom 29.09.2011 – X ZR 109/08
+
+*Tags: Rechtsprechung, BGH, Nichtigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Erweist sich der Gegenstand eines Anspruchs als nicht patentfähig, führt das nicht ohne weiteres zur Nichtigkeit nebengeordneter Ansprüche; der Patentinhaber kann das Patent mit den übrigen Ansprüchen verteidigen, und das Gericht muss über jeden angegriffenen Anspruch entscheiden.
+
+**A:** BGH „Sensoranordnung“ – X ZR 109/08 (2011), BGH, Urteil vom 29.09.2011 – X ZR 109/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fugenband“ (X ZR 11/13, 2015) – Kernaussage?
+
+**A:** Mangelnde Klarheit ist kein Nichtigkeitsgrund. Verteidigt der Patentinhaber das Patent im Nichtigkeitsverfahren beschränkt, ist die Klarheit des beschränkten Anspruchs jedenfalls dann nicht zu prüfen, wenn die aufgenommenen Merkmale bereits in erteilten Ansprüchen enthalten waren.
+
+Normen: [Art. II § 6 Abs. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html) MarkenG
+Fundstelle: BGH, Urteil vom 27.10.2015 – X ZR 11/13
+
+*Tags: Rechtsprechung, BGH, Nichtigkeit, Klarheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Mangelnde Klarheit ist kein Nichtigkeitsgrund. Verteidigt der Patentinhaber das Patent im Nichtigkeitsverfahren beschränkt, ist die Klarheit des beschränkten Anspruchs jedenfalls dann nicht zu prüfen, wenn die aufgenommenen Merkmale bereits in erteilten Ansprüchen enthalten waren.
+
+**A:** BGH „Fugenband“ – X ZR 11/13 (2015), BGH, Urteil vom 27.10.2015 – X ZR 11/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeit, Klarheit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Polymerschaum“ (X ZR 117/11, 2012) – Kernaussage?
+
+**A:** Die Prüfung der Patentfähigkeit im Nichtigkeitsverfahren setzt regelmäßig eine Auslegung des Anspruchs voraus, die seinen Sinngehalt in der Gesamtheit und den Beitrag der einzelnen Merkmale zum Leistungsergebnis bestimmt; das Nichtigkeitsurteil muss diese Auslegung erkennen lassen.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) MarkenG, [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG
+Fundstelle: BGH, Urteil vom 17.07.2012 – X ZR 117/11
+
+*Tags: Rechtsprechung, BGH, Nichtigkeit, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Prüfung der Patentfähigkeit im Nichtigkeitsverfahren setzt regelmäßig eine Auslegung des Anspruchs voraus, die seinen Sinngehalt in der Gesamtheit und den Beitrag der einzelnen Merkmale zum Leistungsergebnis bestimmt; das Nichtigkeitsurteil muss diese Auslegung erkennen lassen.
+
+**A:** BGH „Polymerschaum“ – X ZR 117/11 (2012), BGH, Urteil vom 17.07.2012 – X ZR 117/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeit, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Walzstraße“ (X ZR 21/12, 2013) – Kernaussage?
+
+**A:** Lässt das Patentgericht im Hinweis nach [§ 83 Abs. 1](https://www.gesetze-im-internet.de/markeng/__83.html) erkennen, dass es einen Angriff des Nichtigkeitsklägers für unbegründet hält, muss der Kläger neue Angriffsmittel innerhalb der gesetzten Frist vorbringen; in der Berufung sind sie nach [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html) ausgeschlossen, wenn die Verspätung auf Nachlässigkeit beruht.
+
+Normen: [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html) MarkenG, [§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html) MarkenG
+Fundstelle: BGH, Urteil vom 28.05.2013 – X ZR 21/12
+
+*Tags: Rechtsprechung, BGH, Nichtigkeit, Präklusion*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Lässt das Patentgericht im Hinweis nach [§ 83 Abs. 1](https://www.gesetze-im-internet.de/markeng/__83.html) erkennen, dass es einen Angriff des Nichtigkeitsklägers für unbegründet hält, muss der Kläger neue Angriffsmittel innerhalb der gesetzten Frist vorbringen; in der Berufung sind sie nach [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html) ausgeschlossen, wenn die Verspätung auf Nachlässigkeit beruht.
+
+**A:** BGH „Walzstraße“ – X ZR 21/12 (2013), BGH, Urteil vom 28.05.2013 – X ZR 21/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeit, Präklusion*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fahrzeugscheibe II“ (X ZR 41/14, 2016) – Kernaussage?
+
+**A:** Die hilfsweise Verteidigung mit geänderten Ansprüchen in der Berufungsinstanz ist sachdienlich, wenn das Patentgericht den Beklagten erst in der mündlichen Verhandlung mit einer vom Hinweis abweichenden Beurteilung konfrontiert hat.
+
+Normen: [§ 116 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__116.html) MarkenG, [§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html) MarkenG
+Fundstelle: BGH, Urteil vom 21.06.2016 – X ZR 41/14
+
+*Tags: Rechtsprechung, BGH, Nichtigkeit, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die hilfsweise Verteidigung mit geänderten Ansprüchen in der Berufungsinstanz ist sachdienlich, wenn das Patentgericht den Beklagten erst in der mündlichen Verhandlung mit einer vom Hinweis abweichenden Beurteilung konfrontiert hat.
+
+**A:** BGH „Fahrzeugscheibe II“ – X ZR 41/14 (2016), BGH, Urteil vom 21.06.2016 – X ZR 41/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeit, Berufung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Benutzerauthentifizierung“ (X ZR 65/24, 2026) – Kernaussage?
+
+**A:** Eine Nichtigkeitsklage ist nicht schon deshalb rechtsmissbräuchlich, weil sich der Kläger einem anhängigen Verfahren gegen dasselbe Patent hätte anschließen können; die Popularklage steht jedem offen. Kostenfolgen bei parallelen Klagen richten sich nach [§ 84 Abs. 2](https://www.gesetze-im-internet.de/markeng/__84.html) und [§ 121 Abs. 2](https://www.gesetze-im-internet.de/markeng/__121.html).
+
+Normen: [§ 121 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__121.html) MarkenG, [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG, [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) MarkenG
+Fundstelle: BGH, Urteil vom 02.06.2026 – X ZR 65/24
+
+*Tags: Rechtsprechung, BGH, Nichtigkeit, Popularklage*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Nichtigkeitsklage ist nicht schon deshalb rechtsmissbräuchlich, weil sich der Kläger einem anhängigen Verfahren gegen dasselbe Patent hätte anschließen können; die Popularklage steht jedem offen. Kostenfolgen bei parallelen Klagen richten sich nach [§ 84 Abs. 2](https://www.gesetze-im-internet.de/markeng/__84.html) und [§ 121 Abs. 2](https://www.gesetze-im-internet.de/markeng/__121.html).
+
+**A:** BGH „Benutzerauthentifizierung“ – X ZR 65/24 (2026), BGH, Urteil vom 02.06.2026 – X ZR 65/24
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeit, Popularklage*
+
+---
+
+## entscheidung
+
+**F:** BGH „Pemetrexed II“ (X ZR 150/18, 2020) – Kernaussage?
+
+**A:** Im Nichtigkeitsverfahren ist die Nebenintervention auf Seiten des Klägers auch in der Berufungsinstanz zulässig; sie scheitert nicht daran, dass der Nebenintervenient das Patent mit eigener Klage angreifen könnte.
+
+Normen: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG, [§ 99 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__99.html) MarkenG
+Fundstelle: BGH, Urteil vom 07.07.2020 – X ZR 150/18
+
+*Tags: Rechtsprechung, BGH, Nichtigkeit, Nebenintervention*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Im Nichtigkeitsverfahren ist die Nebenintervention auf Seiten des Klägers auch in der Berufungsinstanz zulässig; sie scheitert nicht daran, dass der Nebenintervenient das Patent mit eigener Klage angreifen könnte.
+
+**A:** BGH „Pemetrexed II“ – X ZR 150/18 (2020), BGH, Urteil vom 07.07.2020 – X ZR 150/18
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeit, Nebenintervention*
+
+---
+
+## entscheidung
+
+**F:** BGH „Streitwert im Nichtigkeitsberufungsverfahren“ (X ZR 56/04, 2005) – Kernaussage?
+
+**A:** Der Streitwert der Nichtigkeitsberufung bemisst sich nach dem gemeinen Wert des Patents im angegriffenen Umfang; wird nach teilweiser Nichtigerklärung nur noch der aufrechterhaltene Teil angegriffen, ist der Wert entsprechend geringer anzusetzen.
+
+Normen: [§ 121 PatG](https://www.gesetze-im-internet.de/patg/__121.html) MarkenG, [§ 2 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html) MarkenG
+Fundstelle: BGH, Beschluss vom 12.07.2005 – X ZR 56/04
+
+*Tags: Rechtsprechung, BGH, Streitwert, Kosten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Streitwert der Nichtigkeitsberufung bemisst sich nach dem gemeinen Wert des Patents im angegriffenen Umfang; wird nach teilweiser Nichtigerklärung nur noch der aufrechterhaltene Teil angegriffen, ist der Wert entsprechend geringer anzusetzen.
+
+**A:** BGH „Streitwert im Nichtigkeitsberufungsverfahren“ – X ZR 56/04 (2005), BGH, Beschluss vom 12.07.2005 – X ZR 56/04
+
+*Tags: Rechtsprechung, Umkehr, BGH, Streitwert, Kosten*
+
+---
+
+## entscheidung
+
+**F:** BGH „Raltegravir“ (X ZB 2/17, 2017) – Kernaussage?
+
+**A:** Zwangslizenz im Verfügungsverfahren: Der Lizenzsucher muss sich innerhalb angemessener Zeit ernsthaft um eine Lizenz zu angemessenen Bedingungen bemüht haben; das öffentliche Interesse kann bei einem Arzneimittel bejaht werden, das für bestimmte Patientengruppen ohne gleichwertige Alternative ist (Isentress).
+
+Normen: [§ 24 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__24.html) MarkenG, [§ 85 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__85.html) MarkenG
+Fundstelle: BGH, Urteil vom 11.07.2017 – X ZB 2/17
+
+*Tags: Rechtsprechung, BGH, Zwangslizenz, Pharma*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Zwangslizenz im Verfügungsverfahren: Der Lizenzsucher muss sich innerhalb angemessener Zeit ernsthaft um eine Lizenz zu angemessenen Bedingungen bemüht haben; das öffentliche Interesse kann bei einem Arzneimittel bejaht werden, das für bestimmte Patientengruppen ohne gleichwertige Alternative ist (Isentress).
+
+**A:** BGH „Raltegravir“ – X ZB 2/17 (2017), BGH, Urteil vom 11.07.2017 – X ZB 2/17
+
+*Tags: Rechtsprechung, Umkehr, BGH, Zwangslizenz, Pharma*
+
+---
+
+## entscheidung
+
+**F:** BGH „Alirocumab“ (X ZB 2/19, 2019) – Kernaussage?
+
+**A:** Umfang und Dauer der Bemühungen des Lizenzsuchers hängen vom Einzelfall ab; ein erst kurz vor dem Verfügungsantrag unterbreitetes Angebot genügt in der Regel nicht. Das öffentliche Interesse verlangt, dass das Arzneimittel therapeutische Eigenschaften hat, die andere Mittel nicht bieten.
+
+Normen: [§ 24 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__24.html) MarkenG, [§ 85 PatG](https://www.gesetze-im-internet.de/patg/__85.html) MarkenG
+Fundstelle: BGH, Urteil vom 04.06.2019 – X ZB 2/19
+
+*Tags: Rechtsprechung, BGH, Zwangslizenz, Pharma*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Umfang und Dauer der Bemühungen des Lizenzsuchers hängen vom Einzelfall ab; ein erst kurz vor dem Verfügungsantrag unterbreitetes Angebot genügt in der Regel nicht. Das öffentliche Interesse verlangt, dass das Arzneimittel therapeutische Eigenschaften hat, die andere Mittel nicht bieten.
+
+**A:** BGH „Alirocumab“ – X ZB 2/19 (2019), BGH, Urteil vom 04.06.2019 – X ZB 2/19
+
+*Tags: Rechtsprechung, Umkehr, BGH, Zwangslizenz, Pharma*
+
+---
+
+## entscheidung
+
+**F:** BGH „Carvedilol (Nebenintervention)“ (X ZR 236/01, 2006) – Kernaussage?
+
+**A:** Für die Nebenintervention im Nichtigkeitsverfahren genügt es, wenn der Nebenintervenient ein Unternehmen betreibt, das durch das Patent behindert wird; das rechtliche Interesse nach [§ 66 ZPO](https://www.gesetze-im-internet.de/zpo/__66.html) ist weit zu verstehen.
+
+Normen: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG, [§ 99 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__99.html) MarkenG
+Fundstelle: BGH, Beschluss vom 17.01.2006 – X ZR 236/01 – Carvedilol
+
+*Tags: Rechtsprechung, BGH, Nichtigkeit, Nebenintervention*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Für die Nebenintervention im Nichtigkeitsverfahren genügt es, wenn der Nebenintervenient ein Unternehmen betreibt, das durch das Patent behindert wird; das rechtliche Interesse nach [§ 66 ZPO](https://www.gesetze-im-internet.de/zpo/__66.html) ist weit zu verstehen.
+
+**A:** BGH „Carvedilol (Nebenintervention)“ – X ZR 236/01 (2006), BGH, Beschluss vom 17.01.2006 – X ZR 236/01 – Carvedilol
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeit, Nebenintervention*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Torasemid“ (3 Ni 7/06 (EU), 2006) – Kernaussage?
+
+**A:** Die Klagesperre des [§ 81 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__81.html) (Unzulässigkeit der Nichtigkeitsklage während eines anhängigen Einspruchs) gilt auch für Nichtigkeitsklagen gegen europäische Patente, solange ein Einspruchsverfahren vor dem EPA läuft.
+
+Normen: [Art. II § 6 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [§ 81 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__81.html) MarkenG
+Fundstelle: BPatG, Urteil vom 20.10.2006 – 3 Ni 7/06 (EU)
+
+*Tags: Rechtsprechung, BPatG, Nichtigkeit, Europäisches Patent*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Die Klagesperre des [§ 81 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__81.html) (Unzulässigkeit der Nichtigkeitsklage während eines anhängigen Einspruchs) gilt auch für Nichtigkeitsklagen gegen europäische Patente, solange ein Einspruchsverfahren vor dem EPA läuft.
+
+**A:** BPatG „Torasemid“ – 3 Ni 7/06 (EU) (2006), BPatG, Urteil vom 20.10.2006 – 3 Ni 7/06 (EU)
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Nichtigkeit, Europäisches Patent*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Kaffeemaschine“ (4 Ni 24/10 (EU), 2012) – Kernaussage?
+
+**A:** Ist mit der beschränkten Verteidigung keine inhaltliche Änderung der Patentansprüche verbunden, sondern nur eine Klarstellung, liegt keine Beschränkung vor; die Klarheit ist im Nichtigkeitsverfahren nur zu prüfen, soweit die Änderung sie berührt.
+
+Normen: [Art. II § 6 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html), [Art. II § 6 Abs. 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
+Fundstelle: BPatG, Urteil vom 27.03.2012 – 4 Ni 24/10 (EU)
+
+*Tags: Rechtsprechung, BPatG, Nichtigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ist mit der beschränkten Verteidigung keine inhaltliche Änderung der Patentansprüche verbunden, sondern nur eine Klarstellung, liegt keine Beschränkung vor; die Klarheit ist im Nichtigkeitsverfahren nur zu prüfen, soweit die Änderung sie berührt.
+
+**A:** BPatG „Kaffeemaschine“ – 4 Ni 24/10 (EU) (2012), BPatG, Urteil vom 27.03.2012 – 4 Ni 24/10 (EU)
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Nichtigkeit*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Weiterbehandlung II“ (10 W (pat) 22/10, 2012) – Kernaussage?
+
+**A:** Bei der Weiterbehandlung nach [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html) muss die versäumte Handlung innerhalb eines Monats nach Zustellung des Zurückweisungsbeschlusses vollständig nachgeholt und die Gebühr gezahlt werden; eine Nachholung nach Fristablauf ist nicht möglich, Wiedereinsetzung in die Weiterbehandlungsfrist bleibt möglich.
+
+Normen: [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 16.10.2012 – 10 W (pat) 22/10
+
+*Tags: Rechtsprechung, BPatG, Weiterbehandlung, Fristen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Bei der Weiterbehandlung nach [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html) muss die versäumte Handlung innerhalb eines Monats nach Zustellung des Zurückweisungsbeschlusses vollständig nachgeholt und die Gebühr gezahlt werden; eine Nachholung nach Fristablauf ist nicht möglich, Wiedereinsetzung in die Weiterbehandlungsfrist bleibt möglich.
+
+**A:** BPatG „Weiterbehandlung II“ – 10 W (pat) 22/10 (2012), BPatG, Beschluss vom 16.10.2012 – 10 W (pat) 22/10
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Weiterbehandlung, Fristen*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Weiterbehandlung“ (10 W (pat) 42/06, 2008) – Kernaussage?
+
+**A:** Ein innerhalb der Weiterbehandlungsfrist gestellter Antrag auf Verlängerung der Frist zur Nachholung der Handlung ist unbeachtlich; die Monatsfrist des [§ 123a Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__123a.html) ist nicht verlängerbar. Verhältnis zur Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)).
+
+Normen: [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html) MarkenG, [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 17.01.2008 – 10 W (pat) 42/06
+
+*Tags: Rechtsprechung, BPatG, Weiterbehandlung, Fristen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ein innerhalb der Weiterbehandlungsfrist gestellter Antrag auf Verlängerung der Frist zur Nachholung der Handlung ist unbeachtlich; die Monatsfrist des [§ 123a Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__123a.html) ist nicht verlängerbar. Verhältnis zur Wiedereinsetzung ([§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)).
+
+**A:** BPatG „Weiterbehandlung“ – 10 W (pat) 42/06 (2008), BPatG, Beschluss vom 17.01.2008 – 10 W (pat) 42/06
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Weiterbehandlung, Fristen*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Mehrfach-Funkgerät“ (10 W (pat) 36/06, 2008) – Kernaussage?
+
+**A:** Wiedereinsetzung in die Prioritätsfrist ist im Anmeldeverfahren vor dem DPMA ausgeschlossen ([§ 123 Abs. 1 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__123.html)); Art. 4 PVÜ eröffnet keine Ausnahme.
+
+Normen: [§ 123 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__123.html) MarkenG, [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 31.01.2008 – 10 W (pat) 36/06
+
+*Tags: Rechtsprechung, BPatG, Wiedereinsetzung, Priorität*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Wiedereinsetzung in die Prioritätsfrist ist im Anmeldeverfahren vor dem DPMA ausgeschlossen ([§ 123 Abs. 1 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__123.html)); Art. 4 PVÜ eröffnet keine Ausnahme.
+
+**A:** BPatG „Mehrfach-Funkgerät“ – 10 W (pat) 36/06 (2008), BPatG, Beschluss vom 31.01.2008 – 10 W (pat) 36/06
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Wiedereinsetzung, Priorität*
+
+---
+
+## entscheidung
+
+**F:** BGH „Verdickerpolymer II“ (X ZB 4/14, 2015) – Kernaussage?
+
+**A:** Am einseitigen Verfahren über einen Wiedereinsetzungsantrag des Patentinhabers (etwa nach Erlöschen wegen Nichtzahlung der Jahresgebühr) ist ein wegen Verletzung in Anspruch genommener Dritter nicht beteiligt; er kann die Wiedereinsetzung nicht anfechten, sondern nur das Zwischenbenutzungsrecht nach [§ 123 Abs. 5](https://www.gesetze-im-internet.de/markeng/__123.html) geltend machen.
+
+Normen: [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html) MarkenG, [§ 20 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__20.html) MarkenG
+Fundstelle: BGH, Beschluss vom 07.07.2015 – X ZB 4/14
+
+*Tags: Rechtsprechung, BGH, Wiedereinsetzung, Jahresgebühren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Am einseitigen Verfahren über einen Wiedereinsetzungsantrag des Patentinhabers (etwa nach Erlöschen wegen Nichtzahlung der Jahresgebühr) ist ein wegen Verletzung in Anspruch genommener Dritter nicht beteiligt; er kann die Wiedereinsetzung nicht anfechten, sondern nur das Zwischenbenutzungsrecht nach [§ 123 Abs. 5](https://www.gesetze-im-internet.de/markeng/__123.html) geltend machen.
+
+**A:** BGH „Verdickerpolymer II“ – X ZB 4/14 (2015), BGH, Beschluss vom 07.07.2015 – X ZB 4/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Wiedereinsetzung, Jahresgebühren*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Sägeblatt“ (10 W (pat) 13/05, 2007) – Kernaussage?
+
+**A:** Die Frist zur Zahlung einer Jahresgebühr nach [§ 7 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html) wird durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Patentinhabers nicht unterbrochen; [§ 240 ZPO](https://www.gesetze-im-internet.de/zpo/__240.html) gilt nicht für Zahlungsfristen des PatKostG.
+
+Normen: [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html) MarkenG, [§ 3 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html) MarkenG, [§ 7 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 30.01.2007 – 10 W (pat) 13/05
+
+*Tags: Rechtsprechung, BPatG, Jahresgebühren, PatKostG*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Die Frist zur Zahlung einer Jahresgebühr nach [§ 7 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html) wird durch die Eröffnung des Insolvenzverfahrens über das Vermögen des Patentinhabers nicht unterbrochen; [§ 240 ZPO](https://www.gesetze-im-internet.de/zpo/__240.html) gilt nicht für Zahlungsfristen des PatKostG.
+
+**A:** BPatG „Sägeblatt“ – 10 W (pat) 13/05 (2007), BPatG, Beschluss vom 30.01.2007 – 10 W (pat) 13/05
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Jahresgebühren, PatKostG*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Jahresgebühren (keine Rückzahlung)“ (10 W (pat) 45/05, 2006) – Kernaussage?
+
+**A:** Mit Rechtsgrund entrichtete Jahresgebühren (hier 19. und 20. Jahr) werden nicht zurückgezahlt, auch wenn das Patent später für nichtig erklärt wird; [§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html) erfasst nur Zahlungen ohne Rechtsgrund oder für nicht vorgenommene Handlungen.
+
+Normen: [§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html) MarkenG, [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 26.10.2006 – 10 W (pat) 45/05 – Jahresgebühren
+
+*Tags: Rechtsprechung, BPatG, Jahresgebühren, PatKostG*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Mit Rechtsgrund entrichtete Jahresgebühren (hier 19. und 20. Jahr) werden nicht zurückgezahlt, auch wenn das Patent später für nichtig erklärt wird; [§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html) erfasst nur Zahlungen ohne Rechtsgrund oder für nicht vorgenommene Handlungen.
+
+**A:** BPatG „Jahresgebühren (keine Rückzahlung)“ – 10 W (pat) 45/05 (2006), BPatG, Beschluss vom 26.10.2006 – 10 W (pat) 45/05 – Jahresgebühren
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Jahresgebühren, PatKostG*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Einspruchsgebühren bei gemeinsamem Einspruch“ (19 W (pat) 303/05, 2008) – Kernaussage?
+
+**A:** Legen mehrere Personen gemeinsam Einspruch ein, ist die Einspruchsgebühr für jeden Einsprechenden gesondert zu entrichten (Vorbemerkung zum Gebührenverzeichnis); wird nur eine Gebühr gezahlt, gilt der Einspruch der übrigen als nicht erhoben ([§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)).
+
+Normen: Anlage PatKostG, [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG, [§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 30.04.2008 – 19 W (pat) 303/05 – Einspruchsgebühren bei „gemeinsamem“ Einspruch
+
+*Tags: Rechtsprechung, BPatG, Einspruch, PatKostG*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Legen mehrere Personen gemeinsam Einspruch ein, ist die Einspruchsgebühr für jeden Einsprechenden gesondert zu entrichten (Vorbemerkung zum Gebührenverzeichnis); wird nur eine Gebühr gezahlt, gilt der Einspruch der übrigen als nicht erhoben ([§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)).
+
+**A:** BPatG „Einspruchsgebühren bei gemeinsamem Einspruch“ – 19 W (pat) 303/05 (2008), BPatG, Beschluss vom 30.04.2008 – 19 W (pat) 303/05 – Einspruchsgebühren bei „gemeinsamem“ Einspruch
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Einspruch, PatKostG*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Prüfungsgebühr für Ausscheidungsanmeldung“ (10 W (pat) 9/03, 2006) – Kernaussage?
+
+**A:** Wird wegen Uneinheitlichkeit ein Teil ausgeschieden, ist für die Ausscheidungsanmeldung eine eigene Prüfungsgebühr zu zahlen, wenn in der Stammanmeldung bereits Prüfungsantrag gestellt war; die Zahlungsfrist des [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) läuft ab Fälligkeit mit der Ausscheidungserklärung.
+
+Normen: [§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html) MarkenG, [§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html) MarkenG, [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 20.04.2006 – 10 W (pat) 9/03
+
+*Tags: Rechtsprechung, BPatG, Gebühren, Teilung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Wird wegen Uneinheitlichkeit ein Teil ausgeschieden, ist für die Ausscheidungsanmeldung eine eigene Prüfungsgebühr zu zahlen, wenn in der Stammanmeldung bereits Prüfungsantrag gestellt war; die Zahlungsfrist des [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) läuft ab Fälligkeit mit der Ausscheidungserklärung.
+
+**A:** BPatG „Prüfungsgebühr für Ausscheidungsanmeldung“ – 10 W (pat) 9/03 (2006), BPatG, Beschluss vom 20.04.2006 – 10 W (pat) 9/03
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Gebühren, Teilung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Nationale Gebühr einer internationalen Anmeldung“ (10 W (pat) 2/13, 2013) – Kernaussage?
+
+**A:** Für den Eintritt in die nationale Phase beim DPMA als Bestimmungsamt ist die nationale Gebühr binnen der Frist des [Art. III § 4 Abs. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__4.html) (30 Monate ab Priorität) zu zahlen; sie wird mit Ablauf dieser Frist fällig, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) gewährt keine zusätzliche Zahlungsfrist.
+
+Normen: [Art. III § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__4.html), [§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html) MarkenG, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 25.07.2013 – 10 W (pat) 2/13
+
+*Tags: Rechtsprechung, BPatG, PCT, PatKostG*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Für den Eintritt in die nationale Phase beim DPMA als Bestimmungsamt ist die nationale Gebühr binnen der Frist des [Art. III § 4 Abs. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__4.html) (30 Monate ab Priorität) zu zahlen; sie wird mit Ablauf dieser Frist fällig, [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) gewährt keine zusätzliche Zahlungsfrist.
+
+**A:** BPatG „Nationale Gebühr einer internationalen Anmeldung“ – 10 W (pat) 2/13 (2013), BPatG, Beschluss vom 25.07.2013 – 10 W (pat) 2/13
+
+*Tags: Rechtsprechung, Umkehr, BPatG, PCT, PatKostG*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Ethylenische Hauptketten“ (10 W (pat) 19/09, 2010) – Kernaussage?
+
+**A:** Für europäische Patente mit Erteilungshinweis vor dem 1.5.2008 bleibt das Übersetzungserfordernis des [Art. II § 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__3.html) bestehen ([Art. XI § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_xi__4.html)); ohne fristgerechte Übersetzung gelten die Wirkungen des Patents in Deutschland als von Anfang an nicht eingetreten.
+
+Normen: [Art. II § 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__3.html), [Art. XI § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_xi__4.html)
+Fundstelle: BPatG, Beschluss vom 09.09.2010 – 10 W (pat) 19/09
+
+*Tags: Rechtsprechung, BPatG, Europäisches Patent, Übersetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Für europäische Patente mit Erteilungshinweis vor dem 1.5.2008 bleibt das Übersetzungserfordernis des [Art. II § 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__3.html) bestehen ([Art. XI § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_xi__4.html)); ohne fristgerechte Übersetzung gelten die Wirkungen des Patents in Deutschland als von Anfang an nicht eingetreten.
+
+**A:** BPatG „Ethylenische Hauptketten“ – 10 W (pat) 19/09 (2010), BPatG, Beschluss vom 09.09.2010 – 10 W (pat) 19/09
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Europäisches Patent, Übersetzung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Aufreißdeckel“ (10 W (pat) 21/06, 2011) – Kernaussage?
+
+**A:** Ausnahmsweise kann eine Anmeldung trotz fehlender Beschreibung im Sinne des [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html) erteilt werden, wenn der sachliche Zusammenhang aus Ansprüchen und Zeichnungen eindeutig hervorgeht; die Formvorschriften der PatV dienen der Verständlichkeit, nicht dem Selbstzweck.
+
+Normen: [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html) MarkenG, [§ 34 Abs. 3 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html) MarkenG, [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 20.01.2011 – 10 W (pat) 21/06
+
+*Tags: Rechtsprechung, BPatG, Anmeldung, PatV*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ausnahmsweise kann eine Anmeldung trotz fehlender Beschreibung im Sinne des [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html) erteilt werden, wenn der sachliche Zusammenhang aus Ansprüchen und Zeichnungen eindeutig hervorgeht; die Formvorschriften der PatV dienen der Verständlichkeit, nicht dem Selbstzweck.
+
+**A:** BPatG „Aufreißdeckel“ – 10 W (pat) 21/06 (2011), BPatG, Beschluss vom 20.01.2011 – 10 W (pat) 21/06
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Anmeldung, PatV*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Mobilfunknetzwerk“ (10 W (pat) 43/07, 2009) – Kernaussage?
+
+**A:** Zeichnungen gehören nicht zu den Mindesterfordernissen für den Anmeldetag ([§ 35 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__35.html)); werden sie nachgereicht, verschiebt sich der Anmeldetag nur, wenn der Anmelder darauf besteht, dass die Zeichnungen Teil der Anmeldung sind.
+
+Normen: [§ 35 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__35.html) MarkenG, [§ 35a PatG](https://www.gesetze-im-internet.de/patg/__35a.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 16.06.2009 – 10 W (pat) 43/07
+
+*Tags: Rechtsprechung, BPatG, Anmeldetag*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Zeichnungen gehören nicht zu den Mindesterfordernissen für den Anmeldetag ([§ 35 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__35.html)); werden sie nachgereicht, verschiebt sich der Anmeldetag nur, wenn der Anmelder darauf besteht, dass die Zeichnungen Teil der Anmeldung sind.
+
+**A:** BPatG „Mobilfunknetzwerk“ – 10 W (pat) 43/07 (2009), BPatG, Beschluss vom 16.06.2009 – 10 W (pat) 43/07
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Anmeldetag*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Teilbeschluss“ (15 W (pat) 11/07, 2011) – Kernaussage?
+
+**A:** Die Prüfungsstelle darf den Hauptantrag nicht durch Teilbeschluss zurückweisen und über den Hilfsantrag später entscheiden; über Haupt- und Hilfsanträge ist einheitlich zu entscheiden, sonst ist der Beschluss verfahrensfehlerhaft.
+
+Normen: [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html) MarkenG, [§ 80 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__80.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 08.03.2011 – 15 W (pat) 11/07
+
+*Tags: Rechtsprechung, BPatG, Erteilungsverfahren, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Die Prüfungsstelle darf den Hauptantrag nicht durch Teilbeschluss zurückweisen und über den Hilfsantrag später entscheiden; über Haupt- und Hilfsanträge ist einheitlich zu entscheiden, sonst ist der Beschluss verfahrensfehlerhaft.
+
+**A:** BPatG „Teilbeschluss“ – 15 W (pat) 11/07 (2011), BPatG, Beschluss vom 08.03.2011 – 15 W (pat) 11/07
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Erteilungsverfahren, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Syndikusanwalt im Nichtigkeitsverfahren“ (3 Ni 10/22 / KoF 4/25, 2026) – Kernaussage?
+
+**A:** Ein Syndikusrechtsanwalt, der im Nichtigkeitsverfahren für seinen Arbeitgeber oder ein konzernverbundenes Unternehmen auftritt, kann seine Tätigkeit nicht nach dem RVG als erstattungsfähige Kosten abrechnen; er tritt in seiner Funktion als Angestellter auf.
+
+Normen: [§ 82 PatG](https://www.gesetze-im-internet.de/patg/__82.html) MarkenG, [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 02.04.2026 – 3 Ni 10/22 / KoF 4/25
+
+*Tags: Rechtsprechung, BPatG, Kosten, Nichtigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ein Syndikusrechtsanwalt, der im Nichtigkeitsverfahren für seinen Arbeitgeber oder ein konzernverbundenes Unternehmen auftritt, kann seine Tätigkeit nicht nach dem RVG als erstattungsfähige Kosten abrechnen; er tritt in seiner Funktion als Angestellter auf.
+
+**A:** BPatG „Syndikusanwalt im Nichtigkeitsverfahren“ – 3 Ni 10/22 / KoF 4/25 (2026), BPatG, Beschluss vom 02.04.2026 – 3 Ni 10/22 / KoF 4/25
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Kosten, Nichtigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Feldmausbekämpfung“ (X ZB 18/16, 2018) – Kernaussage?
+
+**A:** Im Gebrauchsmustereintragungsverfahren prüft die Gebrauchsmusterstelle, ob ein Schutzhindernis des [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html) vorliegt (hier: Verfahren); die Prüfung ist auf die Schutzhindernisse beschränkt, Neuheit und erfinderischer Schritt bleiben dem Löschungsverfahren vorbehalten.
+
+Normen: [§ 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html) MarkenG
+Fundstelle: BGH, Beschluss vom 27.03.2018 – X ZB 18/16
+
+*Tags: Rechtsprechung, BGH, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Im Gebrauchsmustereintragungsverfahren prüft die Gebrauchsmusterstelle, ob ein Schutzhindernis des [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html) vorliegt (hier: Verfahren); die Prüfung ist auf die Schutzhindernisse beschränkt, Neuheit und erfinderischer Schritt bleiben dem Löschungsverfahren vorbehalten.
+
+**A:** BGH „Feldmausbekämpfung“ – X ZB 18/16 (2018), BGH, Beschluss vom 27.03.2018 – X ZB 18/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Gebrauchsmuster*
+
+---
+
 ## norm
 
 **F:** Was regelt [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html)?
@@ -14551,7 +19134,7 @@ Die Richtlinie ist an die Mitgliedstaaten gerichtet.
 
 Diese Richtlinie betrifft die Maßnahmen, Verfahren und Rechtsbehelfe, die erforderlich sind, um die Durchsetzung der Rechte des geistigen Eigentums sicherzustellen. Im Sinne dieser Richtlinie umfasst der Begriff „Rechte des geistigen Eigentums“ auch die gewerblichen Schutzrechte.
 
-Umgesetzt in: [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
 
 Weitere Gesetze: PatG: §§ [139](https://www.gesetze-im-internet.de/patg/__139.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG; GebrMG: §§ [24](https://www.gesetze-im-internet.de/gebrmg/__24.html) bis [24e](https://www.gesetze-im-internet.de/gebrmg/__24e.html) GebrMG; DesignG: §§ [42](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG; UrhG: §§ [97](https://www.gesetze-im-internet.de/urhg/__97.html) bis [103](https://www.gesetze-im-internet.de/urhg/__103.html) UrhG; HalblSchG: [§ 9 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: §§ [37](https://www.gesetze-im-internet.de/sortschg_1985/__37.html) bis [37e](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html) SortSchG; Allgemeines Recht: ZPO (einstweiliger Rechtsschutz, Kosten), BGB (Bereicherung, GoA)
 
@@ -14567,7 +19150,7 @@ Hinweis: Die Richtlinie harmonisiert nicht das materielle Recht (das tun MarkenR
 
 Unbeschadet etwaiger Instrumente in den Rechtsvorschriften der Gemeinschaft oder der Mitgliedstaaten, die für die Rechtsinhaber günstiger sind, finden die in dieser Richtlinie vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe gemäß Artikel 3 auf jede Verletzung von Rechten des geistigen Eigentums, die im Gemeinschaftsrecht und/oder im innerstaatlichen Recht des betreffenden Mitgliedstaats vorgesehen sind, Anwendung.
 
-Umgesetzt in: [§ 19d MarkenG](https://www.gesetze-im-internet.de/markeng/__19d.html), [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Umgesetzt in: [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html) MarkenG, [§ 19d MarkenG](https://www.gesetze-im-internet.de/markeng/__19d.html), [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
 
 Weitere Gesetze: PatG: [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html); GebrMG: [§ 24g GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24g.html); DesignG: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html); UrhG: [§ 102a UrhG](https://www.gesetze-im-internet.de/urhg/__102a.html); HalblSchG: [§ 9 Abs. 4 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37g SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37g.html); Allgemeines Recht: UWG, §§ [823](https://www.gesetze-im-internet.de/bgb/__823.html), [826](https://www.gesetze-im-internet.de/bgb/__826.html), [812](https://www.gesetze-im-internet.de/bgb/__812.html) BGB, GoA bleiben unberührt (Mindestharmonisierung)
 
@@ -14583,7 +19166,7 @@ Hinweis: Abs. 1 macht die Richtlinie zur Mindestharmonisierung: Strengere nation
 
 Die Mitgliedstaaten sehen die Maßnahmen, Verfahren und Rechtsbehelfe vor, die zur Durchsetzung der Rechte des geistigen Eigentums, auf die diese Richtlinie abstellt, erforderlich sind. Diese Maßnahmen, Verfahren und Rechtsbehelfe müssen fair und gerecht sein, außerdem dürfen sie nicht unnötig kompliziert oder kostspielig sein und keine unangemessenen Fristen oder ungerechtfertigten Verzögerungen mit sich bringen.
 
-Umgesetzt in: [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) MarkenG, [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) MarkenG, [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
 
 Weitere Gesetze: PatG: [§ 139 Abs. 1 S. 3 bis 5 PatG](https://www.gesetze-im-internet.de/patg/__139.html) (Verhältnismäßigkeit des Unterlassungsanspruchs), [§ 140a Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 140b Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140b.html), [§ 140c Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__140c.html); GebrMG: [§ 24 Abs. 1 S. 3 bis 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html), [§ 24a Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html), [§ 24b Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html), [§ 24c Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); DesignG: [§ 43 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [§ 46 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html), [§ 46a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html); UrhG: [§ 98 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html), [§ 101 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html), [§ 101a Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. §§ [24a](https://www.gesetze-im-internet.de/gebrmg/__24a.html) bis [24c](https://www.gesetze-im-internet.de/gebrmg/__24c.html) GebrMG; SortSchG: [§ 37a Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html), [§ 37b Abs. 4 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html), [§ 37c Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html); Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html); Auslegungsmaßstab für alle Durchsetzungsnormen
 
@@ -14601,7 +19184,7 @@ Hinweis: Art. 3 ist die Generalklausel der Richtlinie. Der EuGH zieht sie zur Au
 
 Die Mitgliedstaaten räumen den folgenden Personen das Recht ein, die in diesem Kapitel vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe zu beantragen: a) den Inhabern der Rechte des geistigen Eigentums im Einklang mit den Bestimmungen des anwendbaren Rechts, b) allen anderen Personen, die zur Nutzung solcher Rechte befugt sind, insbesondere Lizenznehmern, soweit dies nach den Bestimmungen des anwendbaren Rechts zulässig ist und mit ihnen im Einklang steht, c) Verwertungsgesellschaften mit ordnungsgemäß anerkannter Befugnis zur Vertretung von Inhabern von Rechten des geistigen Eigentums, sow …
 
-Umgesetzt in: [§ 14 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 30 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 PatG](https://www.gesetze-im-internet.de/patg/__15.html) MarkenG, [§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 30 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
 
 Weitere Gesetze: PatG: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) („Verletzter“); Lizenz [§ 15 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html), Klagebefugnis des ausschließlichen Lizenznehmers nach der Rechtsprechung; GebrMG: [§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); Lizenz [§ 22 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__22.html); DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) („Rechtsinhaber oder anderer Berechtigter“); [§ 31 Abs. 3, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) (Lizenznehmer); UrhG: [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) („Verletzter“); Verwertungsgesellschaften nach dem VGG; HalblSchG: [§ 9 Abs. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Nutzungsrechte [§ 11 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__11.html); Allgemeines Recht: Prozessstandschaft, Abtretung (auch Zessionar ist Inhaber: EuGH Mircom)
 
@@ -14635,7 +19218,7 @@ Hinweis: Für Registerrechte braucht es keine Namensvermutung: Die Eintragung be
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur hinreichenden Begründung ihrer Ansprüche vorgelegt und die in der Verfügungsgewalt der gegnerischen Partei befindlichen Beweismittel zur Begründung ihrer Ansprüche bezeichnet hat, die Vorlage dieser Beweismittel durch die gegnerische Partei anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Für die Zwecke dieses Absatzes können die Mitgliedstaaten vorsehen, dass eine angemessen große Auswahl aus einer erheblichen Anza …
 
-Umgesetzt in: [§ 19a Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+Umgesetzt in: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 19a Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
 
 Weitere Gesetze: PatG: [§ 140c Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__140c.html); GebrMG: [§ 24c Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); DesignG: [§ 46a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html); UrhG: [§ 101a Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); SortSchG: [§ 37c Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html); Allgemeines Recht: §§ [142](https://www.gesetze-im-internet.de/zpo/__142.html), [144](https://www.gesetze-im-internet.de/zpo/__144.html) ZPO (Anordnung der Urkundenvorlage und des Augenscheins), [§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html)
 
@@ -14653,7 +19236,7 @@ Hinweis: Deutschland hat Art. 6 und 7 als materiellen Anspruch ausgestaltet ([§
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte selbst vor Einleitung eines Verfahrens in der Sache auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur Begründung ihrer Ansprüche, dass ihre Rechte an geistigem Eigentum verletzt worden sind oder verletzt zu werden drohen, vorgelegt hat, schnelle und wirksame einstweilige Maßnahmen zur Sicherung der rechtserheblichen Beweismittel hinsichtlich der behaupteten Verletzung anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Derartige Maßnahmen können die ausführliche Besch …
 
-Umgesetzt in: [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19a Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+Umgesetzt in: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19a Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
 
 Weitere Gesetze: PatG: [§ 140c Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140c.html), Abs. 5; GebrMG: [§ 24c Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html), Abs. 5; DesignG: [§ 46a Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), Abs. 5; UrhG: [§ 101a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html), Abs. 5; HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); SortSchG: [§ 37c Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html), Abs. 5; Allgemeines Recht: [§§ 485 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__485.html) (selbständiges Beweisverfahren); [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html), [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html), [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html)
 
@@ -14671,7 +19254,7 @@ Hinweis: Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besi
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte im Zusammenhang mit einem Verfahren wegen Verletzung eines Rechts des geistigen Eigentums auf einen begründeten und die Verhältnismäßigkeit wahrenden Antrag des Klägers hin anordnen können, dass Auskünfte über den Ursprung und die Vertriebswege von Waren oder Dienstleistungen, die ein Recht des geistigen Eigentums verletzen, von dem Verletzer und/oder jeder anderen Person erteilt werden, die a) nachweislich rechtsverletzende Ware in gewerblichem Ausmaß in ihrem Besitz hatte, b) nachweislich rechtsverletzende Dienstleistungen in  …
 
-Umgesetzt in: [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Umgesetzt in: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) MarkenG, [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
 
 Weitere Gesetze: PatG: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html); GebrMG: [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html); DesignG: [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html); UrhG: [§ 101 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html) (Abs. 1: Anspruch gegen den Verletzer nur bei gewerblichem Ausmaß); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html); SortSchG: [§ 37b SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html); Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) (unselbständige Auskunft zur Bezifferung); §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO (Zeugnisverweigerung = Abs. 3 lit. d)
 
@@ -14689,7 +19272,7 @@ Hinweis: Kernstück der Richtlinie. Zuordnung: Abs. 1 lit. a bis d = [§ 19 Abs.
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte die Möglichkeit haben, auf Antrag des Antragstellers a) gegen den angeblichen Verletzer eine einstweilige Maßnahme anzuordnen, um eine drohende Verletzung eines Rechts des geistigen Eigentums zu verhindern oder einstweilig und, sofern die einzelstaatlichen Rechtsvorschriften dies vorsehen, in geeigneten Fällen unter Verhängung von Zwangsgeldern die Fortsetzung angeblicher Verletzungen dieses Rechts zu untersagen oder die Fortsetzung an die Stellung von Sicherheiten zu knüpfen, die die Entschädigung des Rechtsinhabers sicherstell …
 
-Umgesetzt in: [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
+Umgesetzt in: [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) MarkenG, [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
 
 Weitere Gesetze: PatG: [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) (Sicherung); keine Dringlichkeitsvermutung; GebrMG: [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html); DesignG: [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html); UrhG: [§ 101b UrhG](https://www.gesetze-im-internet.de/urhg/__101b.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html); SortSchG: [§ 37d SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37d.html); Allgemeines Recht: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) (Abs. 1 lit. a), [§ 938 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__938.html) Sequestration (lit. b), [§§ 916 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__916.html) dinglicher Arrest (Abs. 2), [§ 920 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__920.html) Glaubhaftmachung (Abs. 3), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html) (Abs. 4), [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html) (Abs. 5), [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html) (Abs. 6), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) (Abs. 7)
 
@@ -14707,7 +19290,7 @@ Hinweis: Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG er
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag des Antragstellers anordnen können, dass in Bezug auf Waren, die nach ihren Feststellungen ein Recht des geistigen Eigentums verletzen, und gegebenenfalls in Bezug auf Materialien und Geräte, die vorwiegend zur Schaffung oder Herstellung dieser Waren gedient haben, unbeschadet etwaiger Schadensersatzansprüche des Rechtsinhabers aus der Verletzung sowie ohne Entschädigung irgendwelcher Art geeignete Maßnahmen getroffen werden. Zu diesen Maßnahmen gehören a) der Rückruf aus den Vertriebswegen, b) das endgültige Entferne …
 
-Umgesetzt in: [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html)
+Umgesetzt in: [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) MarkenG, [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html)
 
 Weitere Gesetze: PatG: [§ 140a Abs. 1 bis 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html); GebrMG: [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html); DesignG: [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) (Abs. 3: Überlassung gegen Vergütung); UrhG: [§ 98 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) (Abs. 3: Überlassung); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html); SortSchG: [§ 37a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html); Allgemeines Recht: Beseitigungsanspruch ([§ 1004 BGB](https://www.gesetze-im-internet.de/bgb/__1004.html) analog); Vollstreckung §§ [883](https://www.gesetze-im-internet.de/zpo/__883.html), [887](https://www.gesetze-im-internet.de/zpo/__887.html) ZPO
 
@@ -14725,7 +19308,7 @@ Hinweis: Abs. 1 lit. a und b sind der Rückruf- und Entfernungsanspruch des [§ 
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte bei Feststellung einer Verletzung eines Rechts des geistigen Eigentums eine Anordnung gegen den Verletzer erlassen können, die ihm die weitere Verletzung des betreffenden Rechts untersagt. Sofern dies nach dem Recht eines Mitgliedstaats vorgesehen ist, werden im Falle einer Missachtung dieser Anordnung in geeigneten Fällen Zwangsgelder verhängt, um die Einhaltung der Anordnung zu gewährleisten. Unbeschadet des Artikels 8 Absatz 3 der Richtlinie 2001/29/EG stellen die Mitgliedstaaten ferner sicher, dass die Rechtsinhaber eine Ano …
 
-Umgesetzt in: [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
 
 Weitere Gesetze: PatG: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html); GebrMG: [§ 24 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); UrhG: [§ 97 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html); HalblSchG: [§ 9 Abs. 1 S. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Allgemeines Recht: [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html) (Ordnungsgeld, Ordnungshaft); Störerhaftung nach der Rechtsprechung des BGH für Mittelspersonen
 
@@ -14757,7 +19340,7 @@ Hinweis: Fakultative Regelung; Deutschland hat sie nur im DesignG ([§ 45](https
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag der geschädigten Partei anordnen, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzungshandlung vornahm, dem Rechtsinhaber zum Ausgleich des von diesem wegen der Rechtsverletzung erlittenen tatsächlichen Schadens angemessenen Schadensersatz zu leisten hat. Bei der Festsetzung des Schadensersatzes verfahren die Gerichte wie folgt: a) Sie berücksichtigen alle in Frage kommenden Aspekte, wie die negativen wirtschaftlichen Auswirkungen, einschließlich der Gewinneinbußen für di …
 
-Umgesetzt in: [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
 
 Weitere Gesetze: PatG: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html); GebrMG: [§ 24 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); DesignG: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); UrhG: [§ 97 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) (S. 4: immaterieller Schaden); HalblSchG: [§ 9 Abs. 1 S. 2, 3 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Allgemeines Recht: Abs. 2: Eingriffskondiktion [§ 812 Abs. 1 S. 1 Alt. 2 BGB](https://www.gesetze-im-internet.de/bgb/__812.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) über [§ 20 S. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html)
 
@@ -14775,7 +19358,7 @@ Hinweis: Das Durchsetzungsgesetz hat die dreifache Schadensberechnung in allen S
 
 Die Mitgliedstaaten stellen sicher, dass die Prozesskosten und sonstigen Kosten der obsiegenden Partei in der Regel, soweit sie zumutbar und angemessen sind, von der unterlegenen Partei getragen werden, sofern Billigkeitsgründe dem nicht entgegenstehen.
 
-Umgesetzt in: [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html)
+Umgesetzt in: [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html), [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html) MarkenG, [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html) (Patentanwaltskosten), [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) (Streitwertbegünstigung); GebrMG: [§ 27 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__27.html); DesignG: [§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html); UrhG: [§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html) (Abmahnkosten, Deckelung des Gegenstandswerts); HalblSchG: –; SortSchG: –; Allgemeines Recht: [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html), RVG; Abmahnkosten aus GoA (§§ [677](https://www.gesetze-im-internet.de/bgb/__677.html), [683](https://www.gesetze-im-internet.de/bgb/__683.html), [670](https://www.gesetze-im-internet.de/bgb/__670.html) BGB) und als Schadensersatz
 
@@ -14793,7 +19376,7 @@ Hinweis: Klausurklassiker seit 2022: [§ 140 Abs. 3 MarkenG](https://www.gesetze
 
 Die Mitgliedstaaten stellen sicher, dass die Gerichte bei Verfahren wegen Verletzung von Rechten des geistigen Eigentums auf Antrag des Antragstellers und auf Kosten des Verletzers geeignete Maßnahmen zur Verbreitung von Informationen über die betreffende Entscheidung, einschließlich der Bekanntmachung und der vollständigen oder teilweisen Veröffentlichung, anordnen können. Die Mitgliedstaaten können andere, den besonderen Umständen angemessene Zusatzmaßnahmen, einschließlich öffentlichkeitswirksamer Anzeigen, vorsehen.
 
-Umgesetzt in: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+Umgesetzt in: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html) MarkenG, [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
 
 Weitere Gesetze: PatG: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html); GebrMG: [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html); DesignG: [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html); UrhG: [§ 103 UrhG](https://www.gesetze-im-internet.de/urhg/__103.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html); SortSchG: [§ 37e SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html); Allgemeines Recht: strafrechtlich [§ 143 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html); [§ 12 Abs. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__12.html) a.F. (Vorbild)
 
@@ -14811,7 +19394,7 @@ Hinweis: [§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html): Befugn
 
 Unbeschadet der in dieser Richtlinie vorgesehenen zivil- und verwaltungsrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe können die Mitgliedstaaten in Fällen von Verletzungen von Rechten des geistigen Eigentums andere angemessene Sanktionen vorsehen.
 
-Umgesetzt in: [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 143a MarkenG](https://www.gesetze-im-internet.de/markeng/__143a.html), [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
+Umgesetzt in: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) MarkenG, [§ 142a PatG](https://www.gesetze-im-internet.de/patg/__142a.html) MarkenG, [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 143a MarkenG](https://www.gesetze-im-internet.de/markeng/__143a.html), [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
 
 Weitere Gesetze: PatG: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) (Strafvorschrift); §§ [142a](https://www.gesetze-im-internet.de/patg/__142a.html), [142b](https://www.gesetze-im-internet.de/patg/__142b.html) PatG (Zollbeschlagnahme); GebrMG: [§ 25 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__25.html); §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG; DesignG: [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html); [§§ 55 ff. DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html); UrhG: §§ [106](https://www.gesetze-im-internet.de/urhg/__106.html) bis [111a](https://www.gesetze-im-internet.de/urhg/__111a.html) UrhG; [§ 111b UrhG](https://www.gesetze-im-internet.de/urhg/__111b.html); HalblSchG: [§ 10 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__10.html); [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG; SortSchG: [§ 39 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__39.html); [§ 40a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__40a.html); Allgemeines Recht: Verordnung (EU) Nr. 608/2013 (Grenzbeschlagnahme); Art. 61 TRIPS
 
@@ -15083,7 +19666,7 @@ In 21 Entscheidungen des EPG zitiert.
 
 Ein Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung a) ein Erzeugnis, das Gegenstand des Patents ist, herzustellen, anzubieten, in Verkehr zu bringen, zu gebrauchen oder zu den genannten Zwecken einzuführen oder zu besitzen; b) ein Verfahren, das Gegenstand des Patents ist, anzuwenden, oder, falls der Dritte weiß oder hätte wissen müssen, dass die Anwendung des Verfahrens ohne Zustimmung des Patentinhabers verboten ist, zur Anwendung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anzubieten; c) ein durch ein Verfahren, das …
 
-Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
 
 Hinweis: Verletzungshandlungen entsprechen [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html); das EPG legt die Begriffe („Anbieten“) autonom aus (EPG-BerG Belkin/Philips).
 
@@ -15099,7 +19682,7 @@ In 64 Entscheidungen des EPG zitiert.
 
 Ein Patent gewährt seinem Inhaber das Recht, Dritten zu verbieten, ohne seine Zustimmung im Hoheitsgebiet der Vertragsmitgliedstaaten, in denen dieses Patent Wirkung hat, anderen als zur Benutzung der patentierten Erfindung berechtigten Personen Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, zur Benutzung der Erfindung in diesem Gebiet anzubieten oder zu liefern, wenn der Dritte weiß oder hätte wissen müssen, dass diese Mittel dazu geeignet und bestimmt sind, für die Benutzung der Erfindung verwendet zu werden.
 
-Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html)
 
 Hinweis: Mittelbare Verletzung wie [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html); Verwendungsbestimmung aus objektiven Umständen (EPG-BerG Onward/Niche).
 
@@ -15115,7 +19698,7 @@ In 48 Entscheidungen des EPG zitiert.
 
 Die Rechte aus einem Patent erstrecken sich nicht auf a) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden; b) Handlungen zu Versuchszwecken, die sich auf den Gegenstand der patentierten Erfindung beziehen; c) die Verwendung biologischen Materials zum Zwecke der Züchtung, Entdeckung oder Entwicklung anderer Pflanzensorten; d) erlaubte Handlungen nach Artikel 13 Absatz 6 der Richtlinie 2001/82/EG 8 oder Artikel 10 Absatz 6 der Richtlinie 2001/83/EG 9, im Hinblick auf alle Patente, die das Erzeugnis im Sinne einer dieser Richtlinien erfassen; e) die unmittelbare …
 
-Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+Umsetzung im EPGÜ: [Art. 5 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [§ 11 PatG](https://www.gesetze-im-internet.de/patg/__11.html)
 
 Hinweis: Schrankenkatalog inkl. Bolar (lit. d), Landwirteprivileg, Schiffe/Luftfahrzeuge, Dekompilierung, Züchtung (lit. c).
 
@@ -15130,6 +19713,8 @@ In 2 Entscheidungen des EPG zitiert.
 **A:** Recht des Vorbenutzers der Erfindung
 
 Wer in einem Vertragsmitgliedstaat ein Vorbenutzungsrecht oder ein persönliches Besitzrecht an einer Erfindung erworben hätte, wenn ein nationales Patent für diese Erfindung erteilt worden wäre, hat in diesem Vertragsmitgliedstaat die gleichen Rechte auch in Bezug auf ein Patent, das diese Erfindung zum Gegenstand hat.
+
+Umsetzung im EPGÜ: [§ 12 PatG](https://www.gesetze-im-internet.de/patg/__12.html)
 
 Hinweis: Vorbenutzungsrecht besteht nur nach dem jeweiligen nationalen Recht und nur für dessen Gebiet.
 
@@ -15173,7 +19758,7 @@ In 73 Entscheidungen des EPG zitiert.
 
 Das Gericht besitzt die ausschließliche Zuständigkeit für a) Klagen wegen tatsächlicher oder drohender Verletzung von Patenten und ergänzenden Schutzzertifikaten und zugehörige Klageerwiderungen, einschließlich Widerklagen in Bezug auf Lizenzen, b) Klagen auf Feststellung der Nichtverletzung von Patenten und ergänzenden Schutzzertifikaten, c) Klagen auf Erlass von einstweiligen Maßnahmen und Sicherungsmaßnahmen und einstweiligen Verfügungen, d) Klagen auf Nichtigerklärung von Patenten und Nichtigerklärung der ergänzenden Schutzzertifikate, e) Widerklagen auf Nichtigerklärung von Patenten und N …
 
-Umsetzung im EPGÜ: [Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+Umsetzung im EPGÜ: [Art. 8 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 9 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [§ 24 PatG](https://www.gesetze-im-internet.de/patg/__24.html)
 
 Hinweis: Abschließender Katalog der ausschließlichen Zuständigkeiten; alles andere bleibt bei nationalen Gerichten (Abs. 2).
 
@@ -15433,6 +20018,8 @@ Auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel z
 
 Entspricht: [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
+Umsetzung im EPGÜ: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)
+
 Hinweis: Anordnung der Beweisvorlage („discovery light“); konkretisiert in [R. 190 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); keine Ausforschung.
 
 In 28 Entscheidungen des EPG zitiert.
@@ -15449,6 +20036,8 @@ Auf Ersuchen des Antragstellers, der alle vernünftigerweise verfügbaren Beweis
 
 Entspricht: [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
+Umsetzung im EPGÜ: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)
+
 Hinweis: Beweissicherung und Besichtigung („saisie“): [R. 192 bis 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf); auch ex parte; Sicherheitsleistung und Schadensersatz bei Aufhebung (Abs. 8).
 
 In 54 Entscheidungen des EPG zitiert.
@@ -15464,6 +20053,8 @@ In 54 Entscheidungen des EPG zitiert.
 Auf Ersuchen des Antragstellers, der alle vernünftigerweise verfügbaren Beweismittel zur Begründung der Behauptung, dass das Patent verletzt worden ist oder verletzt zu werden droht, vorgelegt hat, kann das Gericht selbst vor Einleitung eines Verfahrens in der Sache einer Partei untersagen, Vermögensgegenstände aus seinem Zuständigkeitsbereich zu verbringen oder über Vermögensgegenständen zu verfügen, unabhängig davon, ob sie sich in seinem Zuständigkeitsbereich befinden oder nicht.
 
 Entspricht: [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Umsetzung im EPGÜ: [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html)
 
 *Tags: EPG, EPGÜ*
 
@@ -15493,6 +20084,8 @@ Wird eine Patentverletzung festgestellt, so kann das Gericht gegen den Verletzer
 
 Entspricht: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
+Umsetzung im EPGÜ: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+
 Hinweis: Unterlassungsanordnung gegen Verletzer und Mittelspersonen; Zwangsgeld; nicht auf bereits begangene Handlungen beschränkt (EPG-BerG Dyson/Dreame).
 
 In 94 Entscheidungen des EPG zitiert.
@@ -15509,6 +20102,8 @@ Das Gericht kann auf Antrag des Antragstellers anordnen, dass in Bezug auf Erzeu
 
 Entspricht: [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
+Umsetzung im EPGÜ: [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html)
+
 In 39 Entscheidungen des EPG zitiert.
 
 *Tags: EPG, EPGÜ*
@@ -15520,6 +20115,8 @@ In 39 Entscheidungen des EPG zitiert.
 **A:** Entscheidung über die Gültigkeit eines Patents
 
 Das Gericht entscheidet über die Gültigkeit eines Patents auf der Grundlage einer Klage auf Nichtigerklärung oder einer Widerklage auf Nichtigerklärung.
+
+Umsetzung im EPGÜ: [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html)
 
 Hinweis: Nichtigkeitsgründe nur nach Art. 138 Abs. 1 und Art. 139 Abs. 2 EPÜ; teilweise Nichtigerklärung (Abs. 3); Wirkung ex tunc (Abs. 4).
 
@@ -15551,6 +20148,8 @@ Das Gericht kann auf einen begründeten und die Verhältnismäßigkeit wahrenden
 
 Entspricht: [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
+Umsetzung im EPGÜ: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html)
+
 In 83 Entscheidungen des EPG zitiert.
 
 *Tags: EPG, EPGÜ*
@@ -15565,7 +20164,7 @@ Das Gericht ordnet auf Antrag der geschädigten Partei an, dass der Verletzer, d
 
 Entspricht: [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
-Umsetzung im EPGÜ: [Art. 4 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260)
+Umsetzung im EPGÜ: [Art. 4 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260), [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
 
 Hinweis: Schadensersatz nur bei Verschulden (wusste oder hätte wissen müssen); Berechnung: Schaden, Verletzergewinn oder Lizenzanalogie (Abs. 3); kein Strafschadensersatz (Abs. 2).
 
@@ -15582,6 +20181,8 @@ In 54 Entscheidungen des EPG zitiert.
 Die Kosten des Rechtsstreits und sonstigen Kosten der obsiegenden Partei werden in der Regel, soweit sie zumutbar und angemessen sind, bis zu einer gemäß der Verfahrensordnung festgelegten Obergrenze von der unterlegenen Partei getragen, sofern Billigkeitsgründe dem nicht entgegenstehen.
 
 Entspricht: [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Umsetzung im EPGÜ: [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html)
 
 Hinweis: Kosten trägt die unterliegende Partei bis zur Obergrenze; Prozesskostensicherheit nur gegen den Antragsteller (Abs. 4, EPG-BerG Hefei/Grundfos).
 
@@ -15653,6 +20254,8 @@ Das Gericht kann auf Antrag des Antragstellers und auf Kosten des Verletzers gee
 
 Entspricht: [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
+Umsetzung im EPGÜ: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html)
+
 In 27 Entscheidungen des EPG zitiert.
 
 *Tags: EPG, EPGÜ*
@@ -15677,6 +20280,8 @@ In 6 Entscheidungen des EPG zitiert.
 
 Die Entscheidungen und Anordnungen des Gerichts sind in allen Vertragsmitgliedstaaten vollstreckbar. Eine Anordnung zur Vollstreckung einer Entscheidung wird der Entscheidung des Gerichts beigefügt.
 
+Umsetzung im EPGÜ: [Art. II § 19 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__19.html), [Art. II § 20 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__20.html)
+
 Hinweis: Vollstreckung nach dem Recht des Vollstreckungsstaats, Anordnung des Gerichts gilt als vollstreckbarer Titel; Zwangsgeld an das Gericht (Abs. 4).
 
 In 200 Entscheidungen des EPG zitiert.
@@ -15690,6 +20295,8 @@ In 200 Entscheidungen des EPG zitiert.
 **A:** Übergangsregelung
 
 Während einer Übergangszeit von sieben Jahren nach dem Inkrafttreten dieses Übereinkommens können Klagen wegen Verletzung bzw. auf Nichtigerklärung eines europäischen Patents oder Klagen wegen Verletzung bzw. auf Nichtigerklärung eines ergänzenden Schutzzertifikats, das zu einem durch ein europäisches Patent geschützten Erzeugnis ausgestellt worden ist, weiterhin bei nationalen Gerichten oder anderen zuständigen nationalen Behörden erhoben werden.
+
+Umsetzung im EPGÜ: [Art. II § 18 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__18.html)
 
 Hinweis: Übergangszeit sieben Jahre (verlängerbar): Wahlrecht für nationale Gerichte (Abs. 1) und Opt-out (Abs. 3), Rücknahme des Opt-out (Abs. 4).
 
@@ -17343,6 +21950,8 @@ Ein Europäisches Patent, das mit den gleichen Ansprüchen für alle teilnehmend
 
 Entspricht: [Art. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
+Umsetzung im EPGÜ: [Art. II § 15 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__15.html), [Art. II § 17 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__17.html)
+
 Hinweis: Voraussetzung: Erteilung mit denselben Ansprüchen für alle teilnehmenden Mitgliedstaaten (Abs. 1; [R. 5 Abs. 2 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)). Einheitlicher Charakter (Abs. 2): Beschränkung, Übertragung, Nichtigerklärung und Erlöschen nur für alle Staaten zugleich, Lizenzen auch für Teilgebiete.
 
 *Tags: EPG, EPatVO*
@@ -17354,6 +21963,8 @@ Hinweis: Voraussetzung: Erteilung mit denselben Ansprüchen für alle teilnehmen
 **A:** Tag des Eintritts der Wirkung
 
 Ein Europäisches Patent mit einheitlicher Wirkung wird am Tag der Veröffentlichung des Hinweises auf die Patenterteilung im Europäischen Patentblatt durch das EPA in den teilnehmenden Mitgliedstaaten wirksam.
+
+Umsetzung im EPGÜ: [Art. II § 15 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__15.html)
 
 Hinweis: Wirksam am Tag der Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt, also rückwirkend zur Eintragung. Abs. 2: Die Mitgliedstaaten sorgen dafür, dass das europäische Patent für sie nicht daneben als nationales Patent wirkt.
 
@@ -17936,5 +22547,2272 @@ Bezug: [Art. 12 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELE
 Hinweis: Überprüfung der Jahresgebührenhöhe durch den Engeren Ausschuss und Bericht über KMU und andere begünstigte Einheiten.
 
 *Tags: EPG, GebOEPS*
+
+---
+
+**F:** Was regelt [§ 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html) (Patentfähige Erfindungen; Ausschlüsse (Entdeckungen, Programme, Wiedergabe von Informationen))?
+
+**A:** Patentfähige Erfindungen; Ausschlüsse (Entdeckungen, Programme, Wiedergabe von Informationen)
+
+Patente werden für Erfindungen auf allen Gebieten der Technik erteilt, sofern sie neu sind, auf einer erfinderischen Tätigkeit beruhen und gewerblich anwendbar sind.
+
+Hinweis: Zentralnorm der Patentfähigkeit: Erfindung auf allen Gebieten der Technik (Abs. 1), Negativkatalog (Abs. 3) nur „als solche“ (Abs. 4). Prüfungsreihenfolge: Technizität, Ausschluss, Neuheit ([§ 3](https://www.gesetze-im-internet.de/markeng/__3.html)), erfinderische Tätigkeit ([§ 4](https://www.gesetze-im-internet.de/markeng/__4.html)), gewerbliche Anwendbarkeit ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)). Bei Programmen: technischer Beitrag zur Lösung eines technischen Problems (BGH Webseitenanzeige, Dynamische Dokumentengenerierung).
+
+In 3535 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 1a PatG](https://www.gesetze-im-internet.de/patg/__1a.html) (Biotechnologische Erfindungen: menschlicher Körper, Gensequenzen)?
+
+**A:** Biotechnologische Erfindungen: menschlicher Körper, Gensequenzen
+
+Der menschliche Körper in den einzelnen Phasen seiner Entstehung und Entwicklung, einschließlich der Keimzellen, sowie die bloße Entdeckung eines seiner Bestandteile, einschließlich der Sequenz oder Teilsequenz eines Gens, können keine patentierbaren Erfindungen sein.
+
+Hinweis: Umsetzung der Biopatentrichtlinie 98/44/EG: Der menschliche Körper und die bloße Entdeckung eines Gens sind nicht patentierbar (Abs. 1); isolierte Sequenzen mit angegebener Funktion schon (Abs. 2, 3); Zweckbindung bei menschlichen Gensequenzen (Abs. 4).
+
+In 6 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 2 PatG](https://www.gesetze-im-internet.de/patg/__2.html) (Ausschluss: öffentliche Ordnung, gute Sitten, Klonen, Keimbahn, Embryonen)?
+
+**A:** Ausschluss: öffentliche Ordnung, gute Sitten, Klonen, Keimbahn, Embryonen
+
+Für Erfindungen, deren gewerbliche Verwertung gegen die öffentliche Ordnung oder die guten Sitten verstoßen würde, werden keine Patente erteilt; ein solcher Verstoß kann nicht allein aus der Tatsache hergeleitet werden, dass die Verwertung durch Gesetz oder Verwaltungsvorschrift verboten ist.
+
+Hinweis: Ordre public und gute Sitten; Verstoß liegt nicht schon in einem Verbot durch Gesetz (Abs. 1 S. 2). Abs. 2 nennt die absoluten Ausschlüsse (Klonen, Keimbahn, Embryonen, Tierleiden).
+
+In 1065 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 2a PatG](https://www.gesetze-im-internet.de/patg/__2a.html) (Ausschluss: Pflanzensorten, Tierrassen, im Wesentlichen biologische Verfahren; Begriffsbestimmungen)?
+
+**A:** Ausschluss: Pflanzensorten, Tierrassen, im Wesentlichen biologische Verfahren; Begriffsbestimmungen
+
+Patente werden nicht erteilt für
+1. Pflanzensorten und Tierrassen sowie im Wesentlichen biologische Verfahren zur Züchtung von Pflanzen und Tieren und die ausschließlich durch solche Verfahren gewonnenen Pflanzen und Tiere;
+2. Verfahren zur chirurgischen oder therapeutischen Behandlung des menschlichen oder tierischen Körpers und Diagnostizierverfahren, die am menschlichen oder tierischen Körper vorgenommen werden. Dies gilt nicht für Erzeugnisse, insbesondere Stoffe oder Stoffgemische, zur Anwendung in einem der vorstehend genannten Verfahren.
+
+Hinweis: Pflanzensorten und Tierrassen sind ausgeschlossen (Sortenschutz), nicht aber Pflanzen und Tiere, wenn die Ausführung technisch nicht auf eine Sorte beschränkt ist (Abs. 2 Nr. 1). „Im Wesentlichen biologische Verfahren“ sind Kreuzung und Selektion.
+
+In 53 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html) (Neuheit, Stand der Technik, ältere Anmeldungen, Neuheitsschonfrist, zweite medizinische Indikation)?
+
+**A:** Neuheit, Stand der Technik, ältere Anmeldungen, Neuheitsschonfrist, zweite medizinische Indikation
+
+Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehört. Der Stand der Technik umfaßt alle Kenntnisse, die vor dem für den Zeitrang der Anmeldung maßgeblichen Tag durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise der Öffentlichkeit zugänglich gemacht worden sind.
+
+Hinweis: Absoluter, weltweiter Neuheitsbegriff (Abs. 1). Ältere, nachveröffentlichte Anmeldungen zählen nur für die Neuheit, nicht für [§ 4](https://www.gesetze-im-internet.de/markeng/__4.html) (Abs. 2). Neuheitsschonfrist sechs Monate nur bei offensichtlichem Missbrauch oder amtlicher Ausstellung (Abs. 5), keine allgemeine Schonfrist. Zweite medizinische Indikation als zweckgebundener Stoffschutz (Abs. 4). Offenbarungsbegriff: BGH Olanzapin.
+
+In 2587 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) (Erfinderische Tätigkeit)?
+
+**A:** Erfinderische Tätigkeit
+
+Eine Erfindung gilt als auf einer erfinderischen Tätigkeit beruhend, wenn sie sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergibt. Gehören zum Stand der Technik auch Unterlagen im Sinne des [§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html), so werden diese bei der Beurteilung der erfinderischen Tätigkeit nicht in Betracht gezogen.
+
+Hinweis: Naheliegen aus der Sicht des Fachmanns am Anmeldetag; Aufgabe-Lösungs-Ansatz ist Hilfsmittel, nicht Gesetz. Der Fachmann braucht eine Veranlassung, den Stand der Technik weiterzuentwickeln (BGH Fischbissanzeiger, Kinderbett); allgemeines Fachwissen allein genügt nicht (BGH Airbag-Auslösesteuerung).
+
+In 3233 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 5 PatG](https://www.gesetze-im-internet.de/patg/__5.html) (Gewerbliche Anwendbarkeit)?
+
+**A:** Gewerbliche Anwendbarkeit
+
+Eine Erfindung gilt als gewerblich anwendbar, wenn ihr Gegenstand auf irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft hergestellt oder benutzt werden kann.
+
+Hinweis: Gewerbliche Anwendbarkeit fehlt fast nie; praktisch relevant nur bei Verfahren zur chirurgischen oder therapeutischen Behandlung (Abs. 2 Nr. 1 i.V.m. [§ 2a Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__2a.html): seit 2005 Patentierungsausschluss, nicht mehr fehlende gewerbliche Anwendbarkeit).
+
+In 727 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html) (Recht auf das Patent; Erfinder, Miterfinder, Doppelerfindung)?
+
+**A:** Recht auf das Patent; Erfinder, Miterfinder, Doppelerfindung
+
+Das Recht auf das Patent hat der Erfinder oder sein Rechtsnachfolger. Haben mehrere gemeinsam eine Erfindung gemacht, so steht ihnen das Recht auf das Patent gemeinschaftlich zu. Haben mehrere die Erfindung unabhängig voneinander gemacht, so steht das Recht dem zu, der die Erfindung zuerst beim Deutschen Patent- und Markenamt angemeldet hat.
+
+Hinweis: Erfinderprinzip: Das Recht auf das Patent steht dem Erfinder zu, Ausnahme [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html) ArbnErfG (Inanspruchnahme durch den Arbeitgeber). Bei Doppelerfindung gilt das Prioritätsprinzip (S. 3).
+
+In 434 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 7 PatG](https://www.gesetze-im-internet.de/patg/__7.html) (Anmelder gilt als Berechtigter; Einspruch des Verletzten)?
+
+**A:** Anmelder gilt als Berechtigter; Einspruch des Verletzten
+
+Damit die sachliche Prüfung der Patentanmeldung durch die Feststellung des Erfinders nicht verzögert wird, gilt im Verfahren vor dem Deutschen Patent- und Markenamt der Anmelder als berechtigt, die Erteilung des Patents zu verlangen.
+
+Hinweis: Der Anmelder gilt im Verfahren vor dem DPMA als berechtigt (formelle Berechtigung); die materielle Berechtigung wird nur im Einspruch ([§ 21 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__21.html)) oder mit der Vindikationsklage ([§ 8](https://www.gesetze-im-internet.de/markeng/__8.html)) geklärt. Abs. 2: zwei Jahre nach Erteilung ist der Einspruch wegen widerrechtlicher Entnahme ausgeschlossen, es sei denn, der Inhaber war bösgläubig.
+
+In 121 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html) (Widerrechtliche Entnahme: Anspruch auf Abtretung oder Übertragung (Vindikation))?
+
+**A:** Widerrechtliche Entnahme: Anspruch auf Abtretung oder Übertragung (Vindikation)
+
+Der Berechtigte, dessen Erfindung von einem Nichtberechtigten angemeldet ist, oder der durch widerrechtliche Entnahme Verletzte kann vom Patentsucher verlangen, daß ihm der Anspruch auf Erteilung des Patents abgetreten wird. Hat die Anmeldung bereits zum Patent geführt, so kann er vom Patentinhaber die Übertragung des Patents verlangen. Der Anspruch kann vorbehaltlich der Sätze 4 und 5 nur innerhalb einer Frist von zwei Jahren nach der Veröffentlichung der Erteilung des Patents ([§ 58 Abs. 1](https://www.gesetze-im-internet.de/markeng/__58.html)) durch Klage geltend gemacht werden. Hat der Verletzte Einspruch wegen widerrechtlicher Entnahme ([§ 21](https://www.gesetze-im-internet.de/markeng/__21.html) A …
+
+Hinweis: Vindikation: Der Verletzte kann Abtretung der Anmeldung oder Übertragung des Patents verlangen; Frist zwei Jahre nach Erteilung, außer bei Bösgläubigkeit (S. 3, 4). Alternativ Einspruch ([§ 21 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__21.html)) und danach Nachanmeldung mit Priorität ([§ 7 Abs. 2](https://www.gesetze-im-internet.de/markeng/__7.html)).
+
+In 116 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html) (Wirkung des Patents: Herstellen, Anbieten, Inverkehrbringen, Gebrauchen, Einführen, Besitzen; Verfahren, unmittelbares Verfahrenserzeugnis)?
+
+**A:** Wirkung des Patents: Herstellen, Anbieten, Inverkehrbringen, Gebrauchen, Einführen, Besitzen; Verfahren, unmittelbares Verfahrenserzeugnis
+
+Das Patent hat die Wirkung, dass allein der Patentinhaber befugt ist, die patentierte Erfindung im Rahmen des geltenden Rechts zu benutzen. Jedem Dritten ist es verboten, ohne seine Zustimmung
+1. ein Erzeugnis, das Gegenstand des Patents ist, herzustellen, anzubieten, in Verkehr zu bringen oder zu gebrauchen oder zu den genannten Zwecken entweder einzuführen oder zu besitzen;
+2. ein Verfahren, das Gegenstand des Patents ist, anzuwenden oder, wenn der Dritte weiß oder es auf Grund der Umstände offensichtlich ist, daß die Anwendung des Verfahrens ohne Zustimmung des Patentinhabers verboten ist,  …
+
+Entspricht: [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Erzeugnisansprüche (S. 2 Nr. 1), Verfahrensansprüche (Nr. 2) und der Schutz des unmittelbaren Verfahrenserzeugnisses (Nr. 3). Ausschließlichkeitsrecht mit Verbotswirkung; Verletzungshandlungen sind abschließend aufgezählt. Erschöpfung ist ungeschrieben (BGH Palettenbehälter II: bestimmungsgemäßer Gebrauch vs. Neuherstellung).
+
+In 155 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 9a PatG](https://www.gesetze-im-internet.de/patg/__9a.html) (Schutz für biologisches Material und Verfahren mit biologischem Material)?
+
+**A:** Schutz für biologisches Material und Verfahren mit biologischem Material
+
+Betrifft das Patent biologisches Material, das auf Grund einer Erfindung mit bestimmten Eigenschaften ausgestattet ist, so erstrecken sich die Wirkungen von [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html) auf jedes biologische Material, das aus diesem biologischen Material durch generative oder vegetative Vermehrung in gleicher oder abweichender Form gewonnen wird und mit denselben Eigenschaften ausgestattet ist.
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 9c PatG](https://www.gesetze-im-internet.de/patg/__9c.html) (Landwirteprivileg: Nachbau, Nutztiere; kein Schutz beim zufälligen Eintrag)?
+
+**A:** Landwirteprivileg: Nachbau, Nutztiere; kein Schutz beim zufälligen Eintrag
+
+Wird pflanzliches Vermehrungsmaterial durch den Patentinhaber oder mit dessen Zustimmung durch einen Dritten an einen Landwirt zum Zweck des landwirtschaftlichen Anbaus in Verkehr gebracht, so darf dieser entgegen den §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html), [9a](https://www.gesetze-im-internet.de/markeng/__9a.html) und [9b](https://www.gesetze-im-internet.de/markeng/__9b.html) Satz 2 sein Erntegut für die generative oder vegetative Vermehrung durch ihn selbst im eigenen Betrieb verwenden. Für Bedingungen und Ausmaß dieser Befugnis gelten Artikel 14 der Verordnung (EG) Nr. 2100/94 in seiner jeweils geltenden Fassung sowie die auf dessen Grundlage erlassenen Durchführungsbestimmungen entsprechend. Soweit sich daraus Ansprüche des Patentin …
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html) (Mittelbare Patentverletzung)?
+
+**A:** Mittelbare Patentverletzung
+
+Das Patent hat ferner die Wirkung, daß es jedem Dritten verboten ist, ohne Zustimmung des Patentinhabers im Geltungsbereich dieses Gesetzes anderen als zur Benutzung der patentierten Erfindung berechtigten Personen Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, zur Benutzung der Erfindung im Geltungsbereich dieses Gesetzes anzubieten oder zu liefern, wenn der Dritte weiß oder es auf Grund der Umstände offensichtlich ist, daß diese Mittel dazu geeignet und bestimmt sind, für die Benutzung der Erfindung verwendet zu werden.
+
+Entspricht: [Art. 26 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Mittelbare Verletzung: Anbieten oder Liefern von Mitteln, die sich auf ein wesentliches Element der Erfindung beziehen, an Nichtberechtigte, wenn der Anbieter weiß oder es offensichtlich ist, dass die Mittel zur Benutzung bestimmt sind (Abs. 1). Doppelter Inlandsbezug. Allgemein im Handel erhältliche Erzeugnisse nur bei bewusster Veranlassung (Abs. 2). BGH Flügelradzähler.
+
+In 68 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 11 PatG](https://www.gesetze-im-internet.de/patg/__11.html) (Schranken: Privatbereich, Versuche, Bolar, Einzelzubereitung, Schiffe, Luftfahrzeuge, Züchtung)?
+
+**A:** Schranken: Privatbereich, Versuche, Bolar, Einzelzubereitung, Schiffe, Luftfahrzeuge, Züchtung
+
+Die Wirkung des Patents erstreckt sich nicht auf
+1. Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden;
+2. Handlungen zu Versuchszwecken, die sich auf den Gegenstand der patentierten Erfindung beziehen;
+2a. die Nutzung biologischen Materials zum Zweck der Züchtung, Entdeckung und Entwicklung einer neuen Pflanzensorte;
+2b. Studien und Versuche und die sich daraus ergebenden praktischen Anforderungen, die für die Erlangung einer arzneimittelrechtlichen Genehmigung für das Inverkehrbringen in der Europäischen Union oder einer arzneimittelrechtlichen Zulassung in d …
+
+Entspricht: [Art. 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Schranken abschließend: Privatbereich, Versuche (auch klinische Versuche zur Gewinnung von Erkenntnissen über den Erfindungsgegenstand: BGH Klinische Versuche I und II), Bolar-Ausnahme (Nr. 2b), Einzelzubereitung in Apotheken, Schiffe und Luftfahrzeuge (PVÜ Art. 5ter).
+
+In 33 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 12 PatG](https://www.gesetze-im-internet.de/patg/__12.html) (Vorbenutzungsrecht)?
+
+**A:** Vorbenutzungsrecht
+
+Die Wirkung des Patents tritt gegen den nicht ein, der zur Zeit der Anmeldung bereits im Inland die Erfindung in Benutzung genommen oder die dazu erforderlichen Veranstaltungen getroffen hatte. Dieser ist befugt, die Erfindung für die Bedürfnisse seines eigenen Betriebs in eigenen oder fremden Werkstätten auszunutzen. Die Befugnis kann nur zusammen mit dem Betrieb vererbt oder veräußert werden. Hat der Anmelder oder sein Rechtsvorgänger die Erfindung vor der Anmeldung anderen mitgeteilt und sich dabei seine Rechte für den Fall der Patenterteilung vorbehalten, so kann sich der, welcher die Erfi …
+
+Entspricht: [Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Vorbenutzungsrecht: Erfindungsbesitz und Benutzung oder Veranstaltungen im Inland zum Prioritätstag; nur mit dem Betrieb übertragbar (Abs. 1 S. 3); kein Vorbenutzungsrecht bei widerrechtlicher Entnahme vom Anmelder (Abs. 1 S. 2).
+
+In 49 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 13 PatG](https://www.gesetze-im-internet.de/patg/__13.html) (Staatsbenutzungsanordnung (Bundesregierung, öffentliche Wohlfahrt, Sicherheit))?
+
+**A:** Staatsbenutzungsanordnung (Bundesregierung, öffentliche Wohlfahrt, Sicherheit)
+
+Die Wirkung des Patents tritt insoweit nicht ein, als die Bundesregierung anordnet, daß die Erfindung im Interesse der öffentlichen Wohlfahrt benutzt werden soll. Sie erstreckt sich ferner nicht auf eine Benutzung der Erfindung, die im Interesse der Sicherheit des Bundes von der zuständigen obersten Bundesbehörde oder in deren Auftrag von einer nachgeordneten Stelle angeordnet wird.
+
+Hinweis: Benutzungsanordnung im Interesse der öffentlichen Wohlfahrt oder Sicherheit; Entschädigung; praktisch bedeutungslos, aber Klausurklassiker neben der Zwangslizenz ([§ 24](https://www.gesetze-im-internet.de/markeng/__24.html)).
+
+In 34 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html) (Schutzbereich: Patentansprüche, Beschreibung und Zeichnungen zur Auslegung)?
+
+**A:** Schutzbereich: Patentansprüche, Beschreibung und Zeichnungen zur Auslegung
+
+Der Schutzbereich des Patents und der Patentanmeldung wird durch die Patentansprüche bestimmt. Die Beschreibung und die Zeichnungen sind jedoch zur Auslegung der Patentansprüche heranzuziehen.
+
+Hinweis: Schutzbereich wird durch die Patentansprüche bestimmt; Beschreibung und Zeichnungen sind heranzuziehen. Parallel zu Art. 69 EPÜ und dem Auslegungsprotokoll. Äquivalenz nach den drei Schneidmesser-Fragen (Gleichwirkung, Auffindbarkeit, Gleichwertigkeit); Auswahlentscheidung: BGH Okklusionsvorrichtung, Pemetrexed.
+
+In 283 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 15 PatG](https://www.gesetze-im-internet.de/patg/__15.html) (Übertragung, Vererbung, Lizenz; Sukzessionsschutz)?
+
+**A:** Übertragung, Vererbung, Lizenz; Sukzessionsschutz
+
+Das Recht auf das Patent, der Anspruch auf Erteilung des Patents und das Recht aus dem Patent gehen auf die Erben über. Sie können beschränkt oder unbeschränkt auf andere übertragen werden.
+
+Hinweis: Anmeldung und Patent sind übertragbar und lizenzierbar. Ausschließliche und einfache Lizenz; Sukzessionsschutz (Abs. 3): Rechtsübergang lässt Lizenzen unberührt. Der ausschließliche Lizenznehmer ist aus eigenem Recht klagebefugt, der einfache nur mit Ermächtigung.
+
+In 63 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 16 PatG](https://www.gesetze-im-internet.de/patg/__16.html) (Laufzeit: 20 Jahre ab Anmeldetag)?
+
+**A:** Laufzeit: 20 Jahre ab Anmeldetag
+
+Das Patent dauert zwanzig Jahre, die mit dem Tag beginnen, der auf die Anmeldung der Erfindung folgt.
+
+Hinweis: Laufzeit 20 Jahre ab dem Tag nach der Anmeldung; Verlängerung nur über ergänzende Schutzzertifikate ([§ 16a](https://www.gesetze-im-internet.de/markeng/__16a.html)). Wirkungen der Anmeldung: Entschädigung ab Offenlegung ([§ 33](https://www.gesetze-im-internet.de/markeng/__33.html)), volle Wirkung ab Erteilungsveröffentlichung ([§ 58](https://www.gesetze-im-internet.de/markeng/__58.html)).
+
+In 99 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 16a PatG](https://www.gesetze-im-internet.de/patg/__16a.html) (Ergänzende Schutzzertifikate)?
+
+**A:** Ergänzende Schutzzertifikate
+
+Für das Patent kann nach Maßgabe von Verordnungen der Europäischen Gemeinschaften über die Schaffung von ergänzenden Schutzzertifikaten, auf die im Bundesgesetzblatt hinzuweisen ist, ein ergänzender Schutz beantragt werden, der sich an den Ablauf des Patents nach [§ 16](https://www.gesetze-im-internet.de/markeng/__16.html) unmittelbar anschließt. Für den ergänzenden Schutz sind Jahresgebühren zu zahlen.
+
+Hinweis: Ergänzende Schutzzertifikate nach den Verordnungen (EG) Nr. 469/2009 (Arzneimittel) und (EG) Nr. 1610/96 (Pflanzenschutzmittel): bis zu fünf Jahre (plus sechs Monate pädiatrisch); Verfahren [§ 49a](https://www.gesetze-im-internet.de/markeng/__49a.html), Gebühren Nr. 311 500 ff. und 312 210 ff. der Anlage zum PatKostG.
+
+In 65 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html) (Jahresgebühren)?
+
+**A:** Jahresgebühren
+
+Für jede Anmeldung und jedes Patent ist für das dritte und jedes folgende Jahr, gerechnet vom Anmeldetag an, eine Jahresgebühr zu entrichten.
+
+Hinweis: Jahresgebühren ab dem dritten Jahr, gerechnet vom Anmeldetag; Fälligkeit am letzten Tag des Monats, der dem Anmeldemonat entspricht ([§ 3 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html)), Zahlungsfrist und Verspätungszuschlag nach [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html); Nichtzahlung führt zum Erlöschen ([§ 20 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__20.html)).
+
+In 228 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 20 PatG](https://www.gesetze-im-internet.de/patg/__20.html) (Erlöschen: Verzicht, verspätete Erfinderbenennung, Nichtzahlung der Jahresgebühr)?
+
+**A:** Erlöschen: Verzicht, verspätete Erfinderbenennung, Nichtzahlung der Jahresgebühr
+
+Das Patent erlischt, wenn
+1. der Patentinhaber darauf durch schriftliche Erklärung an das Deutsche Patent- und Markenamt verzichtet oder
+2. die Jahresgebühr oder der Unterschiedsbetrag nicht rechtzeitig ([§ 7 Abs. 1](https://www.gesetze-im-internet.de/markeng/__7.html), [§ 13 Absatz 4](https://www.gesetze-im-internet.de/markeng/__13.html) oder [§ 14 Abs. 2 und 5](https://www.gesetze-im-internet.de/markeng/__14.html) des Patentkostengesetzes, [§ 23 Abs. 7 Satz 4](https://www.gesetze-im-internet.de/markeng/__23.html) dieses Gesetzes) gezahlt wird.
+
+Hinweis: Erlöschen durch Verzicht (Nr. 1), fehlende Erfinderbenennung nach Fristsetzung (Nr. 2) oder Nichtzahlung der Jahresgebühr mit Zuschlag (Nr. 3); dann Wiedereinsetzung ([§ 123](https://www.gesetze-im-internet.de/markeng/__123.html)) binnen zwei Monaten nach Wegfall des Hindernisses, spätestens ein Jahr nach Fristablauf.
+
+In 274 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html) (Widerrufsgründe: fehlende Patentfähigkeit, mangelnde Ausführbarkeit, widerrechtliche Entnahme, unzulässige Erweiterung)?
+
+**A:** Widerrufsgründe: fehlende Patentfähigkeit, mangelnde Ausführbarkeit, widerrechtliche Entnahme, unzulässige Erweiterung
+
+Das Patent wird widerrufen ([§ 61](https://www.gesetze-im-internet.de/markeng/__61.html)), wenn sich ergibt, daß
+1. der Gegenstand des Patents nach den §§ [1](https://www.gesetze-im-internet.de/markeng/__1.html) bis [5](https://www.gesetze-im-internet.de/markeng/__5.html) nicht patentfähig ist,
+2. das Patent die Erfindung nicht so deutlich und vollständig offenbart, daß ein Fachmann sie ausführen kann,
+3. der wesentliche Inhalt des Patents den Beschreibungen, Zeichnungen, Modellen, Gerätschaften oder Einrichtungen eines anderen oder einem von diesem angewendeten Verfahren ohne dessen Einwilligung entnommen worden ist (widerrechtliche Entnahme),
+4. der Gegenstand des Patents über den Inhalt der Anmeldung in der Fassung hinausgeht, in der sie bei der für die …
+
+Hinweis: Widerrufsgründe des Einspruchs: fehlende Patentfähigkeit (Nr. 1: §§ [1](https://www.gesetze-im-internet.de/markeng/__1.html) bis [5](https://www.gesetze-im-internet.de/markeng/__5.html)), mangelnde Ausführbarkeit (Nr. 2), widerrechtliche Entnahme (Nr. 3, nur der Verletzte), unzulässige Erweiterung (Nr. 4). Teilwiderruf durch Beschränkung (Abs. 2). Der Katalog ist abschließend: mangelnde Klarheit ist kein Widerrufsgrund (BGH Fugenband zur Nichtigkeit).
+
+In 2338 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html) (Nichtigkeitsgründe (Widerrufsgründe und Erweiterung des Schutzbereichs))?
+
+**A:** Nichtigkeitsgründe (Widerrufsgründe und Erweiterung des Schutzbereichs)
+
+Das Patent wird auf Antrag ([§ 81](https://www.gesetze-im-internet.de/markeng/__81.html)) für nichtig erklärt, wenn sich ergibt, daß einer der in [§ 21 Abs. 1](https://www.gesetze-im-internet.de/markeng/__21.html) aufgezählten Gründe vorliegt oder der Schutzbereich des Patents erweitert worden ist.
+
+Entspricht: [Art. 65 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Nichtigkeitsgründe = Widerrufsgründe des [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html) plus Erweiterung des Schutzbereichs (Abs. 1). Für europäische Patente gilt [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html) mit denselben Gründen aus Art. 138 EPÜ. Verteidigung mit beschränkten Ansprüchen (Abs. 2 i.V.m. [§ 21 Abs. 2](https://www.gesetze-im-internet.de/markeng/__21.html)).
+
+In 858 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 23 PatG](https://www.gesetze-im-internet.de/patg/__23.html) (Lizenzbereitschaftserklärung: halbe Jahresgebühren, Vergütung)?
+
+**A:** Lizenzbereitschaftserklärung: halbe Jahresgebühren, Vergütung
+
+Erklärt sich der Patentanmelder oder der im Register ([§ 30 Abs. 1](https://www.gesetze-im-internet.de/markeng/__30.html)) als Patentinhaber Eingetragene dem Deutschen Patent- und Markenamt gegenüber schriftlich im Sinne des [§ 125a](https://www.gesetze-im-internet.de/markeng/__125a.html) bereit, jedermann die Benutzung der Erfindung gegen angemessene Vergütung zu gestatten, so ermäßigen sich die für das Patent nach Eingang der Erklärung fällig werdenden Jahresgebühren auf die Hälfte. Die Erklärung ist im Register einzutragen und im Patentblatt zu veröffentlichen.
+
+Hinweis: Lizenzbereitschaft: Erklärung gegenüber dem DPMA, Jahresgebühren halbieren sich (Abs. 1), jeder darf gegen angemessene Vergütung benutzen (Abs. 3), Vergütung setzt die Patentabteilung fest (Abs. 4). Rücknahme nur, solange keine Benutzungsanzeige (Abs. 7). Ausgeschlossen bei eingetragener ausschließlicher Lizenz (Abs. 2).
+
+In 60 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 24 PatG](https://www.gesetze-im-internet.de/patg/__24.html) (Zwangslizenz: öffentliches Interesse, Bemühen um Lizenz, abhängige Erfindung, Nichtausübung)?
+
+**A:** Zwangslizenz: öffentliches Interesse, Bemühen um Lizenz, abhängige Erfindung, Nichtausübung
+
+Die nicht ausschließliche Befugnis zur gewerblichen Benutzung einer Erfindung wird durch das Patentgericht im Einzelfall nach Maßgabe der nachfolgenden Vorschriften erteilt (Zwangslizenz), sofern
+1. der Lizenzsucher sich innerhalb eines angemessenen Zeitraumes erfolglos bemüht hat, vom Patentinhaber die Zustimmung zu erhalten, die Erfindung zu angemessenen geschäftsüblichen Bedingungen zu benutzen, und
+2. das öffentliche Interesse die Erteilung einer Zwangslizenz gebietet.
+
+Entspricht: [Art. 32 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Zwangslizenz durch das Patentgericht ([§ 81](https://www.gesetze-im-internet.de/markeng/__81.html)): erfolgloses Bemühen um eine Lizenz zu angemessenen Bedingungen und öffentliches Interesse (Abs. 1); abhängige Erfindung mit wichtigem technischen Fortschritt (Abs. 2); Nichtausübung (Abs. 5). Einstweilige Verfügung nach [§ 85](https://www.gesetze-im-internet.de/markeng/__85.html). BGH Raltegravir, Alirocumab: Bemühen und öffentliches Interesse im Einzelfall.
+
+In 15 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 25 PatG](https://www.gesetze-im-internet.de/patg/__25.html) (Inlandsvertreter)?
+
+**A:** Inlandsvertreter
+
+Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an einem in diesem Gesetz geregelten Verfahren vor dem Deutschen Patent- und Markenamt oder dem Patentgericht nur teilnehmen und die Rechte aus einem Patent nur geltend machen, wenn er einen Rechtsanwalt oder Patentanwalt als Vertreter bestellt hat, der zur Vertretung im Verfahren vor dem Deutschen Patent- und Markenamt, dem Patentgericht und in bürgerlichen Rechtsstreitigkeiten, die das Patent betreffen, sowie zur Stellung von Strafanträgen befugt und bevollmächtigt ist.
+
+Hinweis: Wer im Inland weder Wohnsitz noch Sitz noch Niederlassung hat, kann nur mit Inlandsvertreter (Patent- oder Rechtsanwalt) am Verfahren teilnehmen; Verstoß führt zur Zurückweisung nach Fristsetzung.
+
+In 92 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 27 PatG](https://www.gesetze-im-internet.de/patg/__27.html) (Prüfungsstellen und Patentabteilungen: Zuständigkeit und Besetzung)?
+
+**A:** Prüfungsstellen und Patentabteilungen: Zuständigkeit und Besetzung
+
+Im Deutschen Patent- und Markenamt werden gebildet
+1. Prüfungsstellen für die Bearbeitung der Patentanmeldungen und für die Erteilung von Auskünften zum Stand der Technik ([§ 29 Abs. 3](https://www.gesetze-im-internet.de/markeng/__29.html));
+2. Patentabteilungen für alle Angelegenheiten, die die erteilten Patente betreffen, für die Festsetzung der Vergütung ([§ 23 Abs. 4 und 6](https://www.gesetze-im-internet.de/markeng/__23.html)) und für die Bewilligung der Verfahrenskostenhilfe im Verfahren vor dem Deutschen Patent- und Markenamt. Innerhalb ihres Geschäftskreises obliegt jeder Patentabteilung auch die Abgabe von Gutachten ([§ 29 Abs. 1 und 2](https://www.gesetze-im-internet.de/markeng/__29.html)).
+
+In 76 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 30 PatG](https://www.gesetze-im-internet.de/patg/__30.html) (Register: Eintragungen, Registerfiktion (Abs. 3), Lizenzbereitschaft, Umschreibung)?
+
+**A:** Register: Eintragungen, Registerfiktion (Abs. 3), Lizenzbereitschaft, Umschreibung
+
+Das Deutsche Patent- und Markenamt führt ein Register, das die Bezeichnung der Patentanmeldungen, in deren Akten jedermann Einsicht gewährt wird, und der erteilten Patente und ergänzender Schutzzertifikate ([§ 16a](https://www.gesetze-im-internet.de/markeng/__16a.html)) sowie Namen und Wohnort der Anmelder oder Patentinhaber und ihrer etwa nach [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html) bestellten Vertreter oder Zustellungsbevollmächtigten angibt, wobei die Eintragung eines Vertreters oder Zustellungsbevollmächtigten genügt. Auch sind darin Anfang, Ablauf, Erlöschen, Anordnung der Beschränkung, Widerruf, Erklärung der Nichtigkeit der Patente und ergänzender Schutzzertifikate ([§ 16a](https://www.gesetze-im-internet.de/markeng/__16a.html)) sow …
+
+Hinweis: Register mit Legitimationswirkung: Nach Abs. 3 S. 2 gilt der Eingetragene als Berechtigter im Verfahren vor dem DPMA und dem Patentgericht (Registerfiktion); Umschreibung nur auf Antrag mit Nachweis. Lizenzbereitschaft, ausschließliche Lizenzen und Erlöschen werden vermerkt.
+
+In 134 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 31 PatG](https://www.gesetze-im-internet.de/patg/__31.html) (Akteneinsicht)?
+
+**A:** Akteneinsicht
+
+Das Deutsche Patent- und Markenamt gewährt jedermann auf Antrag Einsicht in die Akten sowie in die zu den Akten gehörenden Modelle und Probestücke, wenn und soweit ein berechtigtes Interesse glaubhaft gemacht wird. Jedoch steht die Einsicht in das Register und die Akten von Patenten einschließlich der Akten von Beschränkungs- oder Widerrufsverfahren ([§ 64](https://www.gesetze-im-internet.de/markeng/__64.html)) jedermann frei.
+
+In 139 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 32 PatG](https://www.gesetze-im-internet.de/patg/__32.html) (Veröffentlichungen: Patentschrift, Offenlegungsschrift, Patentblatt, Register)?
+
+**A:** Veröffentlichungen: Patentschrift, Offenlegungsschrift, Patentblatt, Register
+
+Das Deutsche Patent- und Markenamt veröffentlicht
+1. die Offenlegungsschriften,
+2. die Patentschriften und
+3. das Patentblatt.
+Die Veröffentlichung kann in elektronischer Form erfolgen. Zur weiteren Verarbeitung oder Nutzung zu Zwecken der Patentinformation kann das Deutsche Patent- und Markenamt Angaben aus den in Satz 1 genannten Dokumenten an Dritte in elektronischer Form übermitteln. Die Übermittlung erfolgt nicht, soweit die Einsicht ausgeschlossen ist ([§ 31 Absatz 3b](https://www.gesetze-im-internet.de/markeng/__31.html)).
+
+In 26 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 33 PatG](https://www.gesetze-im-internet.de/patg/__33.html) (Entschädigungsanspruch aus der offengelegten Anmeldung)?
+
+**A:** Entschädigungsanspruch aus der offengelegten Anmeldung
+
+Von der Veröffentlichung des Hinweises gemäß [§ 32 Abs. 5](https://www.gesetze-im-internet.de/markeng/__32.html) an kann der Anmelder von demjenigen, der den Gegenstand der Anmeldung benutzt hat, obwohl er wußte oder wissen mußte, daß die von ihm benutzte Erfindung Gegenstand der Anmeldung war, eine nach den Umständen angemessene Entschädigung verlangen; weitergehende Ansprüche sind ausgeschlossen.
+
+Hinweis: Entschädigungsanspruch aus der offengelegten Anmeldung gegen den, der den Gegenstand benutzt, obwohl er wusste oder wissen musste, dass es sich um eine Patentanmeldung handelt; kein Unterlassungsanspruch vor Erteilung. Für europäische Anmeldungen: [Art. II § 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__1.html).
+
+In 47 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html) (Anmeldung: Einheitlichkeit, Erfordernisse, Anmeldetag, Ausscheidung)?
+
+**A:** Anmeldung: Einheitlichkeit, Erfordernisse, Anmeldetag, Ausscheidung
+
+Eine Erfindung ist zur Erteilung eines Patents beim Deutschen Patent- und Markenamt anzumelden.
+
+Hinweis: Anmeldeerfordernisse: Antrag, Ansprüche, Beschreibung, Zeichnungen, Zusammenfassung (Abs. 3), Einheitlichkeit (Abs. 5), Ausführbarkeit (Abs. 4); Ausscheidung bei Uneinheitlichkeit (Abs. 5 i.V.m. [§ 39](https://www.gesetze-im-internet.de/markeng/__39.html)). Form und Inhalt regelt die PatV (Abs. 6). Anmeldetag nach [§ 35](https://www.gesetze-im-internet.de/markeng/__35.html).
+
+In 1396 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html) (Anmeldetag, fremdsprachige Anmeldung, Übersetzungsfrist)?
+
+**A:** Anmeldetag, fremdsprachige Anmeldung, Übersetzungsfrist
+
+Der Anmeldetag der Patentanmeldung ist der Tag, an dem die Unterlagen nach [§ 34 Abs. 3 Nr. 1 und 2](https://www.gesetze-im-internet.de/markeng/__34.html) und, soweit sie jedenfalls Angaben enthalten, die dem Anschein nach als Beschreibung anzusehen sind, nach [§ 34 Abs. 3 Nr. 4](https://www.gesetze-im-internet.de/markeng/__34.html)
+1. beim Deutschen Patent- und Markenamt
+2. oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist, bei einem Patentinformationszentrum
+eingegangen sind.
+
+Hinweis: Anmeldetag: Eingang von Erteilungsantrag, Angaben zum Anmelder und einer Beschreibung (auch fremdsprachig, auch Verweis auf frühere Anmeldung). Übersetzung binnen drei (englisch/französisch: zwölf) Monaten, sonst gilt die Anmeldung als zurückgenommen (Abs. 2). Zeichnungen: [§ 35a](https://www.gesetze-im-internet.de/markeng/__35a.html).
+
+In 187 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 35a PatG](https://www.gesetze-im-internet.de/patg/__35a.html) (Fehlende Teile der Beschreibung, Zeichnungen)?
+
+**A:** Fehlende Teile der Beschreibung, Zeichnungen
+
+Ist die Anmeldung nicht oder teilweise nicht in deutscher Sprache abgefasst, so hat der Anmelder eine deutsche Übersetzung innerhalb einer Frist von drei Monaten nach Einreichung der Anmeldung nachzureichen. Wird die deutsche Übersetzung nicht innerhalb der Frist eingereicht, so gilt die Anmeldung als zurückgenommen.
+
+In 19 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 36 PatG](https://www.gesetze-im-internet.de/patg/__36.html) (Zusammenfassung)?
+
+**A:** Zusammenfassung
+
+Der Anmeldung ist eine Zusammenfassung beizufügen, die noch bis zum Ablauf von fünfzehn Monaten nach dem Anmeldetag oder, sofern für die Anmeldung ein früherer Zeitpunkt als maßgebend in Anspruch genommen wird, bis zum Ablauf von fünfzehn Monaten nach diesem Zeitpunkt nachgereicht werden kann.
+
+In 48 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html) (Erfinderbenennung, Nachfrist)?
+
+**A:** Erfinderbenennung, Nachfrist
+
+Der Anmelder hat innerhalb von fünfzehn Monaten nach dem Anmeldetag oder, sofern für die Anmeldung ein früherer Zeitpunkt als maßgebend in Anspruch genommen wird, innerhalb von fünfzehn Monaten nach diesem Zeitpunkt den oder die Erfinder zu benennen und zu versichern, daß weitere Personen seines Wissens an der Erfindung nicht beteiligt sind. Ist der Anmelder nicht oder nicht allein der Erfinder, so hat er auch anzugeben, wie das Recht auf das Patent an ihn gelangt ist. Die Richtigkeit der Angaben wird vom Deutschen Patent- und Markenamt nicht geprüft.
+
+Hinweis: Erfinderbenennung binnen 15 Monaten ab Anmeldetag bzw. Prioritätstag; Nachfrist gegen Gebühr; ohne Benennung keine Erteilung ([§ 20 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__20.html) für spätere Fälle). Erfinderpersönlichkeitsrecht: Nennung in Patentschrift und Register ([§ 63](https://www.gesetze-im-internet.de/markeng/__63.html)).
+
+In 66 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html) (Änderungen der Anmeldung; keine Erweiterung des Gegenstands)?
+
+**A:** Änderungen der Anmeldung; keine Erweiterung des Gegenstands
+
+Bis zum Beschluß über die Erteilung des Patents sind Änderungen der in der Anmeldung enthaltenen Angaben, die den Gegenstand der Anmeldung nicht erweitern, zulässig, bis zum Eingang des Prüfungsantrags ([§ 44](https://www.gesetze-im-internet.de/markeng/__44.html)) jedoch nur, soweit es sich um die Berichtigung offensichtlicher Unrichtigkeiten, um die Beseitigung der von der Prüfungsstelle bezeichneten Mängel oder um Änderungen des Patentanspruchs handelt. Aus Änderungen, die den Gegenstand der Anmeldung erweitern, können Rechte nicht hergeleitet werden.
+
+Hinweis: Änderungen bis zum Prüfungsantrag frei, danach nur zur Mängelbeseitigung; nie über den Inhalt der ursprünglichen Anmeldung hinaus (S. 1 Hs. 2). Unzulässige Erweiterung = Widerrufs- und Nichtigkeitsgrund ([§ 21 Abs. 1 Nr. 4](https://www.gesetze-im-internet.de/markeng/__21.html)); Maßstab: unmittelbar und eindeutig offenbart (BGH Hubgliedertor, Winkelmesseinrichtung).
+
+In 637 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html) (Teilung der Anmeldung)?
+
+**A:** Teilung der Anmeldung
+
+Der Anmelder kann die Anmeldung jederzeit teilen. Die Teilung ist schriftlich zu erklären. Wird die Teilung nach Stellung des Prüfungsantrags ([§ 44](https://www.gesetze-im-internet.de/markeng/__44.html)) erklärt, so gilt der abgetrennte Teil als Anmeldung, für die ein Prüfungsantrag gestellt worden ist. Für jede Teilanmeldung bleiben der Zeitpunkt der ursprünglichen Anmeldung und eine dafür in Anspruch genommene Priorität erhalten.
+
+Hinweis: Teilung jederzeit bis zur Erteilung; die Teilanmeldung behält Anmeldetag und Priorität; für die Teilanmeldung sind die Gebühren nachzuzahlen (Abs. 2). Teilungserklärung ist unwiderruflich (Abs. 3). Abgrenzung: Ausscheidung ([§ 34 Abs. 5](https://www.gesetze-im-internet.de/markeng/__34.html)) und Teilung im Einspruch ([§ 60](https://www.gesetze-im-internet.de/markeng/__60.html)).
+
+In 209 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html) (Innere Priorität (zwölf Monate, deutsche Voranmeldung))?
+
+**A:** Innere Priorität (zwölf Monate, deutsche Voranmeldung)
+
+Dem Anmelder steht innerhalb einer Frist von zwölf Monaten nach dem Anmeldetag einer beim Deutschen Patent- und Markenamt eingereichten früheren Patent- oder Gebrauchsmusteranmeldung für die Anmeldung derselben Erfindung zum Patent ein Prioritätsrecht zu, es sei denn, daß für die frühere Anmeldung schon eine inländische oder ausländische Priorität in Anspruch genommen worden ist.
+
+Hinweis: Innere Priorität: binnen zwölf Monaten Nachanmeldung derselben Erfindung mit dem Zeitrang der ersten deutschen Anmeldung; die frühere Anmeldung gilt mit der Prioritätserklärung als zurückgenommen (Abs. 5). Für Gebrauchsmuster gilt [§ 40](https://www.gesetze-im-internet.de/markeng/__40.html) über [§ 6 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__6.html).
+
+In 77 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html) (Ausländische Priorität (PVÜ), Prioritätserklärung, Nachweis)?
+
+**A:** Ausländische Priorität (PVÜ), Prioritätserklärung, Nachweis
+
+Wer nach einem Staatsvertrag die Priorität einer früheren ausländischen Anmeldung derselben Erfindung in Anspruch nimmt, hat vor Ablauf des 16. Monats nach dem Prioritätstag Zeit, Land und Aktenzeichen der früheren Anmeldung anzugeben und eine Abschrift der früheren Anmeldung einzureichen, soweit dies nicht bereits geschehen ist. Innerhalb der Frist können die Angaben geändert werden. Werden die Angaben nicht rechtzeitig gemacht, so wird der Prioritätsanspruch für die Anmeldung verwirkt.
+
+Hinweis: Ausländische Priorität nach PVÜ: Erklärung mit Zeit, Land und Aktenzeichen binnen 16 Monaten ab Prioritätstag, Prioritätsbeleg auf Aufforderung; Versäumung führt zum Verlust des Prioritätsanspruchs (Abs. 1 S. 4). Wiedereinsetzung in die Prioritätsfrist selbst ist ausgeschlossen ([§ 123 Abs. 1 S. 2](https://www.gesetze-im-internet.de/markeng/__123.html)).
+
+In 51 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html) (Offensichtlichkeitsprüfung, Mängelbeseitigung, Zurückweisung)?
+
+**A:** Offensichtlichkeitsprüfung, Mängelbeseitigung, Zurückweisung
+
+Genügt die Anmeldung den Anforderungen der §§ [34](https://www.gesetze-im-internet.de/markeng/__34.html), [36](https://www.gesetze-im-internet.de/markeng/__36.html), [37](https://www.gesetze-im-internet.de/markeng/__37.html) und [38](https://www.gesetze-im-internet.de/markeng/__38.html) offensichtlich nicht, so fordert die Prüfungsstelle den Anmelder auf, die Mängel innerhalb einer bestimmten Frist zu beseitigen. Entspricht die Anmeldung nicht den Bestimmungen über die Form und über die sonstigen Erfordernisse der Anmeldung ([§ 34 Abs. 6](https://www.gesetze-im-internet.de/markeng/__34.html)), so kann die Prüfungsstelle bis zum Beginn des Prüfungsverfahrens ([§ 44](https://www.gesetze-im-internet.de/markeng/__44.html)) von der Beanstandung dieser Mängel absehen.
+
+Hinweis: Offensichtlichkeitsprüfung: formale Mängel ([§ 34 Abs. 3 bis 5](https://www.gesetze-im-internet.de/markeng/__34.html), [§ 36](https://www.gesetze-im-internet.de/markeng/__36.html), [§ 37](https://www.gesetze-im-internet.de/markeng/__37.html)) und offensichtlich fehlende Patentfähigkeit (§§ [1](https://www.gesetze-im-internet.de/markeng/__1.html) bis [5](https://www.gesetze-im-internet.de/markeng/__5.html)); Fristsetzung, dann Zurückweisung nach [§ 48](https://www.gesetze-im-internet.de/markeng/__48.html). Unabhängig vom Prüfungsantrag.
+
+In 241 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 43 PatG](https://www.gesetze-im-internet.de/patg/__43.html) (Rechercheantrag)?
+
+**A:** Rechercheantrag
+
+Das Deutsche Patent- und Markenamt ermittelt auf Antrag den Stand der Technik, der für die Beurteilung der Patentfähigkeit der angemeldeten Erfindung in Betracht zu ziehen ist, und beurteilt vorläufig die Schutzfähigkeit der angemeldeten Erfindung nach den §§ [1](https://www.gesetze-im-internet.de/markeng/__1.html) bis [5](https://www.gesetze-im-internet.de/markeng/__5.html) und ob die Anmeldung den Anforderungen des [§ 34 Absatz 3 bis 5](https://www.gesetze-im-internet.de/markeng/__34.html) genügt (Recherche). Soweit die Ermittlung des Standes der Technik einer zwischenstaatlichen Einrichtung vollständig oder für bestimmte Sachgebiete der Technik ganz oder teilweise übertragen worden ist (Absatz 8 Nummer 1), kann beantragt werden, die Ermittlungen in der  …
+
+Hinweis: Rechercheantrag (Gebühr Nr. 311 200: 300 EUR): Ermittlung des Stands der Technik ohne Prüfung; von jedermann stellbar; Gebühr wird auf die spätere Prüfungsgebühr angerechnet (Nr. 311 300).
+
+In 102 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html) (Prüfungsantrag (sieben Jahre), Antragsberechtigung)?
+
+**A:** Prüfungsantrag (sieben Jahre), Antragsberechtigung
+
+Das Deutsche Patent- und Markenamt prüft auf Antrag, ob die Anmeldung den Anforderungen der §§ [34](https://www.gesetze-im-internet.de/markeng/__34.html), [37](https://www.gesetze-im-internet.de/markeng/__37.html) und [38](https://www.gesetze-im-internet.de/markeng/__38.html) genügt und ob der Gegenstand der Anmeldung nach den §§ [1](https://www.gesetze-im-internet.de/markeng/__1.html) bis [5](https://www.gesetze-im-internet.de/markeng/__5.html) patentfähig ist.
+
+Hinweis: Prüfungsantrag binnen sieben Jahren ab Anmeldetag, von jedem Dritten stellbar (Abs. 2); ohne Antrag gilt die Anmeldung als zurückgenommen (Abs. 4). Gebühr Nr. 311 400 (350 EUR, nach Recherche 150 EUR); Zahlungsfrist drei Monate nach Fälligkeit ([§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)).
+
+In 141 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 45 PatG](https://www.gesetze-im-internet.de/patg/__45.html) (Prüfung: Zurückweisung bei Mängeln, Unterrichtung)?
+
+**A:** Prüfung: Zurückweisung bei Mängeln, Unterrichtung
+
+Genügt die Anmeldung den Anforderungen der §§ [34](https://www.gesetze-im-internet.de/markeng/__34.html), [37](https://www.gesetze-im-internet.de/markeng/__37.html) und [38](https://www.gesetze-im-internet.de/markeng/__38.html) nicht oder sind die Anforderungen des [§ 36](https://www.gesetze-im-internet.de/markeng/__36.html) offensichtlich nicht erfüllt, so fordert die Prüfungsstelle den Anmelder auf, die Mängel innerhalb einer bestimmten Frist zu beseitigen. Satz 1 gilt nicht für Mängel, die sich auf die Zusammenfassung beziehen, wenn die Zusammenfassung bereits veröffentlicht worden ist.
+
+Hinweis: Prüfungsverfahren: Beanstandung, Bescheid mit Fristsetzung, Gelegenheit zur Äußerung; die Prüfungsstelle darf nur mit Gründen zurückweisen, zu denen der Anmelder gehört wurde ([§ 48](https://www.gesetze-im-internet.de/markeng/__48.html) i.V.m. [§ 42 Abs. 3](https://www.gesetze-im-internet.de/markeng/__42.html), rechtliches Gehör).
+
+In 165 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 46 PatG](https://www.gesetze-im-internet.de/patg/__46.html) (Ermittlungen, Anhörung, Beweisaufnahme)?
+
+**A:** Ermittlungen, Anhörung, Beweisaufnahme
+
+Die Prüfungsstelle kann jederzeit die Beteiligten laden und anhören, Zeugen, Sachverständige und Beteiligte eidlich oder uneidlich vernehmen sowie andere zur Aufklärung der Sache erforderliche Ermittlungen anstellen. Die §§ [128a](https://www.gesetze-im-internet.de/markeng/__128a.html) und [284](https://www.gesetze-im-internet.de/markeng/__284.html) Absatz 2 und 3 der Zivilprozessordnung sind entsprechend anzuwenden. Bis zum Beschluß über die Erteilung ist der Anmelder auf Antrag zu hören. Der Antrag ist schriftlich einzureichen. Wird der Antrag nicht in der vorgeschriebenen Form eingereicht, so weist sie den Antrag zurück. Der Beschluß, durch den der Antrag zurückgewiesen wird, ist selbständig nicht anfec …
+
+In 241 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 47 PatG](https://www.gesetze-im-internet.de/patg/__47.html) (Beschlüsse: Begründung, Zustellung, Rechtsmittelbelehrung)?
+
+**A:** Beschlüsse: Begründung, Zustellung, Rechtsmittelbelehrung
+
+Die Beschlüsse der Prüfungsstelle sind zu begründen und den Beteiligten von Amts wegen in Abschrift zuzustellen; eine Beglaubigung der Abschrift ist nicht erforderlich. Ausfertigungen werden nur auf Antrag eines Beteiligten und nur in Papierform erteilt. Am Ende einer Anhörung können die Beschlüsse auch verkündet werden; die Sätze 1 und 2 bleiben unberührt. Einer Begründung bedarf es nicht, wenn am Verfahren nur der Anmelder beteiligt ist und seinem Antrag stattgegeben wird.
+
+In 396 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html) (Zurückweisung der Anmeldung)?
+
+**A:** Zurückweisung der Anmeldung
+
+Die Prüfungsstelle weist die Anmeldung zurück, wenn die nach [§ 45 Abs. 1](https://www.gesetze-im-internet.de/markeng/__45.html) gerügten Mängel nicht beseitigt werden oder wenn die Prüfung ergibt, daß eine nach den §§ [1](https://www.gesetze-im-internet.de/markeng/__1.html) bis [5](https://www.gesetze-im-internet.de/markeng/__5.html) patentfähige Erfindung nicht vorliegt. [§ 42 Abs. 3 Satz 2](https://www.gesetze-im-internet.de/markeng/__42.html) ist anzuwenden.
+
+Hinweis: Zurückweisung der Anmeldung durch Beschluss; Rechtsbehelf: Beschwerde binnen eines Monats ([§ 73](https://www.gesetze-im-internet.de/markeng/__73.html)) oder Weiterbehandlung nach [§ 123a](https://www.gesetze-im-internet.de/markeng/__123a.html) bei Fristversäumung. Teilzurückweisung bei Haupt- und Hilfsanträgen: BPatG Teilbeschluss.
+
+In 617 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html) (Erteilung des Patents, Veröffentlichung im Patentblatt)?
+
+**A:** Erteilung des Patents, Veröffentlichung im Patentblatt
+
+Genügt die Anmeldung den Anforderungen der §§ [34](https://www.gesetze-im-internet.de/markeng/__34.html), [37](https://www.gesetze-im-internet.de/markeng/__37.html) und [38](https://www.gesetze-im-internet.de/markeng/__38.html), sind nach [§ 45 Abs. 1](https://www.gesetze-im-internet.de/markeng/__45.html) gerügte Mängel der Zusammenfassung beseitigt und ist der Gegenstand der Anmeldung nach den §§ [1](https://www.gesetze-im-internet.de/markeng/__1.html) bis [5](https://www.gesetze-im-internet.de/markeng/__5.html) patentfähig, so beschließt die Prüfungsstelle die Erteilung des Patents.
+
+Hinweis: Erteilungsbeschluss, wenn die Anmeldung den Erfordernissen genügt und die Erfindung patentfähig ist; Veröffentlichung im Patentblatt ([§ 58](https://www.gesetze-im-internet.de/markeng/__58.html)) mit Beginn der Einspruchsfrist und der vollen Wirkung.
+
+In 176 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 49a PatG](https://www.gesetze-im-internet.de/patg/__49a.html) (Ergänzendes Schutzzertifikat: Antrag, Prüfung, Erteilung)?
+
+**A:** Ergänzendes Schutzzertifikat: Antrag, Prüfung, Erteilung
+
+Beantragt der als Patentinhaber Eingetragene einen ergänzenden Schutz, so prüft die Patentabteilung, ob die Anmeldung der entsprechenden Verordnung der Europäischen Gemeinschaften sowie dem Absatz 5 und dem [§ 16a](https://www.gesetze-im-internet.de/markeng/__16a.html) entspricht.
+
+In 17 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 58 PatG](https://www.gesetze-im-internet.de/patg/__58.html) (Veröffentlichung der Erteilung, Wirkungseintritt, Rücknahmefiktion)?
+
+**A:** Veröffentlichung der Erteilung, Wirkungseintritt, Rücknahmefiktion
+
+Die Erteilung des Patents wird im Patentblatt veröffentlicht. Gleichzeitig wird die Patentschrift veröffentlicht. Mit der Veröffentlichung im Patentblatt treten die gesetzlichen Wirkungen des Patents ein.
+
+Hinweis: Mit der Veröffentlichung der Erteilung treten die Wirkungen des Patents ein (Abs. 1 S. 3) und beginnt die Einspruchsfrist ([§ 59](https://www.gesetze-im-internet.de/markeng/__59.html)). Wird auf das Patent verzichtet oder erlischt es, bleibt die Anmeldung bestehen (Abs. 2). Rücknahmefiktion bei Nichtzahlung der Erteilungsgebühr entfällt seit 2004 (Gebührenfreiheit der Erteilung).
+
+In 118 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html) (Einspruch: neun Monate, Widerrufsgründe, Begründung, Beitritt)?
+
+**A:** Einspruch: neun Monate, Widerrufsgründe, Begründung, Beitritt
+
+Innerhalb von neun Monaten nach der Veröffentlichung der Erteilung kann jeder, im Falle der widerrechtlichen Entnahme nur der Verletzte, gegen das Patent Einspruch erheben. Der Einspruch ist schriftlich zu erklären und zu begründen. Er kann nur auf die Behauptung gestützt werden, daß einer der in [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html) genannten Widerrufsgründe vorliege. Die Tatsachen, die den Einspruch rechtfertigen, sind im einzelnen anzugeben. Die Angaben müssen, soweit sie nicht schon in der Einspruchsschrift enthalten sind, bis zum Ablauf der Einspruchsfrist schriftlich nachgereicht werden.
+
+Hinweis: Einspruch: neun Monate nach Veröffentlichung der Erteilung, schriftlich, begründet (Tatsachen im Einzelnen), nur auf Widerrufsgründe des [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html) gestützt; jedermann (bei Nr. 3 nur der Verletzte); Gebühr 200 EUR (Nr. 313 600). Beitritt des Verletzungsbeklagten (Abs. 2). Zuständigkeit Patentabteilung; Verfahren vor dem Patentgericht nach [§ 61 Abs. 2](https://www.gesetze-im-internet.de/markeng/__61.html) nur noch für Altfälle. BGH Ratschenschlüssel (Beitritt bei einstweiliger Verfügung).
+
+In 1370 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 60 PatG](https://www.gesetze-im-internet.de/patg/__60.html) (Teilung im Einspruchsverfahren, Verzicht, Beschränkung)?
+
+**A:** Teilung im Einspruchsverfahren, Verzicht, Beschränkung
+
+(weggefallen)
+
+Hinweis: Im Einspruchsverfahren kann das Patent geteilt werden (Abs. 1); die Teilung ist unwiderruflich. BGH Sammelhefter: Teilungserklärung braucht keinen gegenständlich bestimmten Teil.
+
+In 63 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 61 PatG](https://www.gesetze-im-internet.de/patg/__61.html) (Entscheidung über den Einspruch, Aufrechterhaltung, Antrag an das Patentgericht)?
+
+**A:** Entscheidung über den Einspruch, Aufrechterhaltung, Antrag an das Patentgericht
+
+Die Patentabteilung entscheidet durch Beschluss. Auf einen zulässigen Einspruch hin entscheidet die Patentabteilung, ob und in welchem Umfang das Patent aufrechterhalten oder widerrufen wird. Nimmt der Einsprechende den Einspruch zurück, so wird das Verfahren von Amts wegen ohne den Einsprechenden fortgesetzt. Abweichend von Satz 3 ist das Verfahren beendet, wenn sich der zurückgenommene Einspruch ausschließlich auf den Widerrufsgrund der widerrechtlichen Entnahme nach [§ 21 Absatz 1 Nummer 3](https://www.gesetze-im-internet.de/markeng/__21.html) gestützt hat. In diesem Fall oder wenn das Verfahren in der Hauptsache erledigt ist, wird die Beendigun …
+
+Hinweis: Entscheidung der Patentabteilung: Widerruf, Aufrechterhaltung (auch beschränkt); Abs. 2 (Antrag auf gerichtliche Entscheidung) gilt für Einsprüche bis 2006 und ist als [§ 61 Abs. 2](https://www.gesetze-im-internet.de/markeng/__61.html) n.F. seit 2020 für Sonderfälle wieder eingeführt (Gebühr Nr. 400 000). Beschwerde nach [§ 73](https://www.gesetze-im-internet.de/markeng/__73.html) zum Technischen Beschwerdesenat.
+
+In 783 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 62 PatG](https://www.gesetze-im-internet.de/patg/__62.html) (Kostenentscheidung im Einspruchsverfahren)?
+
+**A:** Kostenentscheidung im Einspruchsverfahren
+
+In dem Beschluß nach [§ 61 Abs. 1](https://www.gesetze-im-internet.de/markeng/__61.html) kann die Patentabteilung nach billigem Ermessen bestimmen, inwieweit einem Beteiligten die durch eine Anhörung oder eine Beweisaufnahme verursachten Kosten zur Last fallen. Die Bestimmung kann auch getroffen werden, wenn ganz oder teilweise der Einspruch zurückgenommen oder auf das Patent verzichtet wird. Die Patentabteilung kann anordnen, dass die Einspruchsgebühr nach dem Patentkostengesetz ganz oder teilweise zurückgezahlt wird, wenn es der Billigkeit entspricht.
+
+Hinweis: Kosten im Einspruchsverfahren trägt jeder selbst; abweichende Kostenentscheidung nur aus Billigkeit (etwa bei unbegründetem Einspruch mit offensichtlich aussichtsloser Begründung).
+
+In 225 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 63 PatG](https://www.gesetze-im-internet.de/patg/__63.html) (Erfindernennung, Berichtigung)?
+
+**A:** Erfindernennung, Berichtigung
+
+Auf der Offenlegungsschrift ([§ 32 Abs. 2](https://www.gesetze-im-internet.de/markeng/__32.html)), auf der Patentschrift ([§ 32 Abs. 3](https://www.gesetze-im-internet.de/markeng/__32.html)) sowie in der Veröffentlichung der Erteilung des Patents ([§ 58 Abs. 1](https://www.gesetze-im-internet.de/markeng/__58.html)) ist der Erfinder mit Namen und Ortsangabe zu nennen, sofern er bereits benannt worden ist. Die Nennung ist mit Namen und Ortsangabe im Register ([§ 30 Abs. 1](https://www.gesetze-im-internet.de/markeng/__30.html)) zu vermerken. Sie unterbleibt vollständig oder hinsichtlich der Ortsangabe, wenn der vom Anmelder angegebene Erfinder es beantragt. Der Antrag kann jederzeit widerrufen werden; im Falle des Widerrufs wird die Nennung nachträglich vorgenommen. Ein Verzicht des Erfinders auf Nennung ist ohne re …
+
+Hinweis: Erfindernennung in Patentschrift, Register und Veröffentlichungen; Berichtigung auf Antrag mit Zustimmung; Verzicht des Erfinders auf Nennung ist zulässig (Abs. 1 S. 3), nicht aber ein Vorausverzicht auf das Recht selbst.
+
+In 14 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 64 PatG](https://www.gesetze-im-internet.de/patg/__64.html) (Beschränkung und Widerruf auf Antrag des Patentinhabers)?
+
+**A:** Beschränkung und Widerruf auf Antrag des Patentinhabers
+
+Das Patent kann auf Antrag des Patentinhabers widerrufen oder durch Änderung der Patentansprüche mit rückwirkender Kraft beschränkt werden.
+
+Hinweis: Beschränkung oder Widerruf auf Antrag des Patentinhabers (Zentrales Beschränkungsverfahren, Gebühr Nr. 313 700); Wirkung ex tunc (Abs. 3 i.V.m. [§ 21 Abs. 3](https://www.gesetze-im-internet.de/markeng/__21.html)). Praktisch wichtig zur Sicherung des Rechtsbestands vor einer Nichtigkeitsklage.
+
+In 73 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 65 PatG](https://www.gesetze-im-internet.de/patg/__65.html) (Bundespatentgericht: Sitz, Aufgaben, Besetzung)?
+
+**A:** Bundespatentgericht: Sitz, Aufgaben, Besetzung
+
+Für die Entscheidungen über Beschwerden gegen Beschlüsse der Prüfungsstellen oder Patentabteilungen des Deutschen Patent- und Markenamts sowie über Klagen auf Erklärung der Nichtigkeit von Patenten und in Zwangslizenzverfahren (§§ [81](https://www.gesetze-im-internet.de/markeng/__81.html), [85](https://www.gesetze-im-internet.de/markeng/__85.html) und [85a](https://www.gesetze-im-internet.de/markeng/__85a.html)) wird das Patentgericht als selbständiges und unabhängiges Bundesgericht errichtet. Es hat seinen Sitz am Sitz des Deutschen Patent- und Markenamts. Es führt die Bezeichnung "Bundespatentgericht".
+
+Hinweis: Bundespatentgericht in München: Beschwerden gegen Beschlüsse des DPMA, Nichtigkeits- und Zwangslizenzklagen ([§ 81](https://www.gesetze-im-internet.de/markeng/__81.html)). Senate: Technische und Juristische Beschwerdesenate, Nichtigkeitssenate ([§ 66](https://www.gesetze-im-internet.de/markeng/__66.html)), Marken- und Gebrauchsmuster-Beschwerdesenate.
+
+In 20 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 66 PatG](https://www.gesetze-im-internet.de/patg/__66.html) (Beschwerde- und Nichtigkeitssenate, Besetzung)?
+
+**A:** Beschwerde- und Nichtigkeitssenate, Besetzung
+
+Im Patentgericht werden gebildet
+1. Senate für die Entscheidung über Beschwerden (Beschwerdesenate);
+2. Senate für die Entscheidung über Klagen auf Erklärung der Nichtigkeit von Patenten und in Zwangslizenzverfahren (Nichtigkeitssenate).
+
+Hinweis: Besetzung: Beschwerdesenate in Patentsachen mit einem rechtskundigen und zwei technischen Richtern (Abs. 1 Nr. 1), Nichtigkeitssenate mit zwei rechtskundigen und drei technischen Richtern (Abs. 1 Nr. 2), Juristischer Beschwerdesenat mit drei rechtskundigen Richtern.
+
+In 24 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 67 PatG](https://www.gesetze-im-internet.de/patg/__67.html) (Zuständigkeit der Senate)?
+
+**A:** Zuständigkeit der Senate
+
+Der Beschwerdesenat entscheidet in der Besetzung mit
+1. einem rechtskundigen Mitglied als Vorsitzendem und zwei technischen Mitgliedern in den Fällen des [§ 23 Abs. 4](https://www.gesetze-im-internet.de/markeng/__23.html) und des [§ 50 Abs. 1 und 2](https://www.gesetze-im-internet.de/markeng/__50.html);
+2. einem technischen Mitglied als Vorsitzendem, zwei weiteren technischen Mitgliedern sowie einem rechtskundigen Mitglied in den Fällen,a)in denen die Anmeldung zurückgewiesen wurde,
+b) in denen der Einspruch als unzulässig verworfen wurde,
+c) des [§ 61 Absatz 1](https://www.gesetze-im-internet.de/markeng/__61.html) und des [§ 64 Abs. 1,
+d](https://www.gesetze-im-internet.de/markeng/__64.html)) des [§ 61 Abs. 2](https://www.gesetze-im-internet.de/markeng/__61.html) sowie
+e) der §§ [130](https://www.gesetze-im-internet.de/markeng/__130.html), [131](https://www.gesetze-im-internet.de/markeng/__131.html) und [133](https://www.gesetze-im-internet.de/markeng/__133.html);
+3.einem rechtskundigen Mitglied als Vorsitzendem, einem weiteren rechts …
+
+In 71 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html) (Beschwerde: Statthaftigkeit, Monatsfrist, Abhilfe)?
+
+**A:** Beschwerde: Statthaftigkeit, Monatsfrist, Abhilfe
+
+Gegen die Beschlüsse der Prüfungsstellen und Patentabteilungen findet die Beschwerde statt.
+
+Hinweis: Beschwerde gegen Beschlüsse der Prüfungsstellen und Patentabteilungen; Frist ein Monat ab Zustellung; Gebühr Nr. 401 100 (500 EUR), 401 300 (200 EUR); Abhilfe binnen eines Monats (Abs. 3), sonst Vorlage. Fristversäumung: Wiedereinsetzung ([§ 123](https://www.gesetze-im-internet.de/markeng/__123.html)). Gebührenzahlung binnen der Beschwerdefrist ([§ 6 Abs. 1 S. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)), sonst gilt die Beschwerde als nicht eingelegt ([§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)).
+
+In 1875 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 74 PatG](https://www.gesetze-im-internet.de/patg/__74.html) (Beschwerdeberechtigte, Beteiligte)?
+
+**A:** Beschwerdeberechtigte, Beteiligte
+
+Die Beschwerde steht den am Verfahren vor dem Deutschen Patent- und Markenamt Beteiligten zu.
+
+Hinweis: Beschwerdeberechtigt sind die Beteiligten des Verfahrens vor dem DPMA; im Einspruchsverfahren auch der Einsprechende; Beschwer erforderlich.
+
+In 60 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 75 PatG](https://www.gesetze-im-internet.de/patg/__75.html) (Aufschiebende Wirkung, Ausnahmen)?
+
+**A:** Aufschiebende Wirkung, Ausnahmen
+
+Die Beschwerde hat aufschiebende Wirkung.
+
+Hinweis: Beschwerde hat aufschiebende Wirkung (Abs. 1), nicht gegen Beschlüsse, die eine Prüfung nach [§ 42](https://www.gesetze-im-internet.de/markeng/__42.html) oder die Zurückweisung der Anmeldung betreffen, soweit Sicherheitsleistung angeordnet ist; Ausnahme Geheimhaltung.
+
+In 12 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 79 PatG](https://www.gesetze-im-internet.de/patg/__79.html) (Entscheidung über die Beschwerde, Zurückverweisung)?
+
+**A:** Entscheidung über die Beschwerde, Zurückverweisung
+
+Über die Beschwerde wird durch Beschluß entschieden.
+
+Hinweis: Das Patentgericht entscheidet durch Beschluss in der Sache selbst oder verweist zurück (Abs. 3), etwa bei fehlender Sachaufklärung oder Verletzung des rechtlichen Gehörs. Im Einspruchsbeschwerdeverfahren keine neuen Widerrufsgründe von Amts wegen (BGH Ventileinrichtung).
+
+In 1228 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 80 PatG](https://www.gesetze-im-internet.de/patg/__80.html) (Kosten des Beschwerdeverfahrens)?
+
+**A:** Kosten des Beschwerdeverfahrens
+
+Sind an dem Verfahren mehrere Personen beteiligt, so kann das Patentgericht bestimmen, daß die Kosten des Verfahrens einem Beteiligten ganz oder teilweise zur Last fallen, wenn dies der Billigkeit entspricht. Es kann insbesondere auch bestimmen, daß die den Beteiligten erwachsenen Kosten, soweit sie zur zweckentsprechenden Wahrung der Ansprüche und Rechte notwendig waren, von einem Beteiligten ganz oder teilweise zu erstatten sind.
+
+Hinweis: Kosten des Beschwerdeverfahrens: grundsätzlich jeder Beteiligte selbst; Auferlegung nach Billigkeit (Abs. 1); Rückzahlung der Beschwerdegebühr (Abs. 3), etwa bei Verfahrensfehlern des DPMA. Streitwertfestsetzung (Abs. 2).
+
+In 1008 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html) (Nichtigkeitsklage: Klageberechtigung, Zwangslizenzklage, Klagesperre bei laufendem Einspruch, Klageschrift, Sicherheitsleistung)?
+
+**A:** Nichtigkeitsklage: Klageberechtigung, Zwangslizenzklage, Klagesperre bei laufendem Einspruch, Klageschrift, Sicherheitsleistung
+
+Das Verfahren wegen Erklärung der Nichtigkeit des Patents oder des ergänzenden Schutzzertifikats oder wegen Erteilung oder Rücknahme der Zwangslizenz oder wegen der Anpassung der durch Urteil festgesetzten Vergütung für eine Zwangslizenz wird durch Klage eingeleitet. Die Klage ist gegen den im Register als Patentinhaber Eingetragenen oder gegen den Inhaber der Zwangslizenz zu richten. Die Klage gegen das ergänzende Schutzzertifikat kann mit der Klage gegen das zugrundeliegende Patent verbunden werden und auch darauf gestützt werden, daß ein Nichtigkeitsgrund ([§ 22](https://www.gesetze-im-internet.de/markeng/__22.html)) gegen das zugrundeliegende P …
+
+Hinweis: Nichtigkeitsklage vor dem BPatG (Abs. 1): Popularklage, keine Klagebefugnis nötig (außer Nr. 3: nur der Verletzte); während eines laufenden Einspruchs unzulässig (Abs. 2). Ausländische Kläger: Sicherheitsleistung (Abs. 6). Verletzungs- und Nichtigkeitsverfahren sind getrennt (Trennungsprinzip); Aussetzung des Verletzungsprozesses nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html) (BGH Klimaschrank, Adalimumab). Rechtsmissbrauch: BGH Benutzerauthentifizierung.
+
+In 487 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 82 PatG](https://www.gesetze-im-internet.de/patg/__82.html) (Zustellung der Klage, Widerspruchsfrist, Entscheidung ohne mündliche Verhandlung bei Säumnis)?
+
+**A:** Zustellung der Klage, Widerspruchsfrist, Entscheidung ohne mündliche Verhandlung bei Säumnis
+
+Das Patentgericht stellt dem Beklagten die Klage unverzüglich zu und fordert ihn auf, sich darüber innerhalb eines Monats zu erklären.
+
+Hinweis: Widerspruch des Beklagten binnen eines Monats nach Zustellung (verlängerbar); ohne Widerspruch entscheidet das Gericht ohne mündliche Verhandlung und legt das Klagevorbringen als zugestanden zugrunde (Abs. 2). Vertretung durch Patentanwalt oder Rechtsanwalt nicht zwingend, Kostenerstattung nach [§ 84 Abs. 2](https://www.gesetze-im-internet.de/markeng/__84.html).
+
+In 135 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html) (Qualifizierter Hinweis, Fristsetzung, Zurückweisung verspäteten Vorbringens)?
+
+**A:** Qualifizierter Hinweis, Fristsetzung, Zurückweisung verspäteten Vorbringens
+
+In dem Verfahren wegen Erklärung der Nichtigkeit des Patents oder des ergänzenden Schutzzertifikats weist das Patentgericht die Parteien so früh wie möglich auf Gesichtspunkte hin, die für die Entscheidung voraussichtlich von besonderer Bedeutung sein werden oder der Konzentration der Verhandlung auf die für die Entscheidung wesentlichen Fragen dienlich sind. Dieser Hinweis soll innerhalb von sechs Monaten nach Zustellung der Klage erfolgen. Ist eine Patentstreitsache anhängig, soll der Hinweis auch dem anderen Gericht von Amts wegen übermittelt werden. Das Patentgericht kann den Parteien zur  …
+
+Hinweis: Qualifizierter Hinweis (Abs. 1) mit Fristsetzung (Abs. 2) und Präklusion verspäteten Vorbringens (Abs. 4): seit 2009 Herzstück des Nichtigkeitsverfahrens; das Berufungsgericht ist an die Präklusion gebunden ([§ 117](https://www.gesetze-im-internet.de/markeng/__117.html)). BGH Walzstraße: Hinweis, Fristsetzung, Verspätung.
+
+In 847 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 84 PatG](https://www.gesetze-im-internet.de/patg/__84.html) (Urteil, Kostenentscheidung ([§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html)), Billigkeit)?
+
+**A:** Urteil, Kostenentscheidung ([§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html)), Billigkeit
+
+Über die Klage wird durch Urteil entschieden. Über die Zulässigkeit der Klage kann durch Zwischenurteil vorab entschieden werden.
+
+Hinweis: Urteil; Kosten nach [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html) (Abs. 2), Billigkeitskorrektur nur bei Verteidigung mit erst im Verfahren beschränkten Ansprüchen. Bei Nichtigerklärung: Wirkung ex tunc und inter omnes ([§ 22 Abs. 2](https://www.gesetze-im-internet.de/markeng/__22.html) i.V.m. [§ 21 Abs. 3](https://www.gesetze-im-internet.de/markeng/__21.html)).
+
+In 2997 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 85 PatG](https://www.gesetze-im-internet.de/patg/__85.html) (Einstweilige Verfügung im Zwangslizenzverfahren)?
+
+**A:** Einstweilige Verfügung im Zwangslizenzverfahren
+
+In dem Verfahren wegen Erteilung der Zwangslizenz kann dem Kläger auf seinen Antrag die Benutzung der Erfindung durch einstweilige Verfügung gestattet werden, wenn er glaubhaft macht, daß die Voraussetzungen des [§ 24 Abs. 1 bis 6](https://www.gesetze-im-internet.de/markeng/__24.html) vorliegen und daß die alsbaldige Erteilung der Erlaubnis im öffentlichen Interesse dringend geboten ist.
+
+Hinweis: Einstweilige Verfügung im Zwangslizenzverfahren bei Glaubhaftmachung der Voraussetzungen des [§ 24](https://www.gesetze-im-internet.de/markeng/__24.html) und Dringlichkeit im öffentlichen Interesse (BGH Raltegravir: Isentress); Gebühr Nr. 402 300.
+
+In 28 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 97 PatG](https://www.gesetze-im-internet.de/patg/__97.html) (Vertretung vor dem Patentgericht, Bevollmächtigte)?
+
+**A:** Vertretung vor dem Patentgericht, Bevollmächtigte
+
+Die Beteiligten können vor dem Patentgericht den Rechtsstreit selbst führen. [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html) bleibt unberührt.
+
+In 88 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 99 PatG](https://www.gesetze-im-internet.de/patg/__99.html) (Anwendung der ZPO, Akteneinsicht, Rechtsmittel)?
+
+**A:** Anwendung der ZPO, Akteneinsicht, Rechtsmittel
+
+Soweit dieses Gesetz keine Bestimmungen über das Verfahren vor dem Patentgericht enthält, sind das Gerichtsverfassungsgesetz und die Zivilprozeßordnung entsprechend anzuwenden, wenn die Besonderheiten des Verfahrens vor dem Patentgericht dies nicht ausschließen.
+
+Hinweis: Anwendung der ZPO im Verfahren vor dem Patentgericht (Abs. 1), Akteneinsicht (Abs. 3), keine Anfechtung von Zwischenentscheidungen (Abs. 2). Grundlage für Nebenintervention ([§ 66 ZPO](https://www.gesetze-im-internet.de/zpo/__66.html): BGH Carvedilol, Pemetrexed II) und Restitution.
+
+In 3725 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 100 PatG](https://www.gesetze-im-internet.de/patg/__100.html) (Rechtsbeschwerde: Zulassung, absolute Rechtsbeschwerdegründe)?
+
+**A:** Rechtsbeschwerde: Zulassung, absolute Rechtsbeschwerdegründe
+
+Gegen die Beschlüsse der Beschwerdesenate des Patentgerichts, durch die über eine Beschwerde nach [§ 73](https://www.gesetze-im-internet.de/markeng/__73.html) oder über die Aufrechterhaltung oder den Widerruf eines Patents nach [§ 61 Abs. 2](https://www.gesetze-im-internet.de/markeng/__61.html) entschieden wird, findet die Rechtsbeschwerde an den Bundesgerichtshof statt, wenn der Beschwerdesenat die Rechtsbeschwerde in dem Beschluß zugelassen hat.
+
+Hinweis: Rechtsbeschwerde zum BGH nur bei Zulassung durch das Patentgericht (Abs. 1, 2) oder bei absoluten Rechtsbeschwerdegründen (Abs. 3: Besetzung, Ausschließung, rechtliches Gehör, Vertretung, Öffentlichkeit, fehlende Gründe). Frist ein Monat ([§ 102](https://www.gesetze-im-internet.de/markeng/__102.html)); Anwaltszwang vor dem BGH ([§ 102 Abs. 5](https://www.gesetze-im-internet.de/markeng/__102.html)).
+
+In 1494 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 101 PatG](https://www.gesetze-im-internet.de/patg/__101.html) (Rechtsbeschwerdeberechtigte, Anschlussrechtsbeschwerde)?
+
+**A:** Rechtsbeschwerdeberechtigte, Anschlussrechtsbeschwerde
+
+Die Rechtsbeschwerde steht den am Beschwerdeverfahren Beteiligten zu.
+
+In 633 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 102 PatG](https://www.gesetze-im-internet.de/patg/__102.html) (Frist, Form, Begründung der Rechtsbeschwerde)?
+
+**A:** Frist, Form, Begründung der Rechtsbeschwerde
+
+Die Rechtsbeschwerde ist innerhalb eines Monats nach Zustellung des Beschlusses beim Bundesgerichtshof schriftlich einzulegen.
+
+In 645 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 107 PatG](https://www.gesetze-im-internet.de/patg/__107.html) (Entscheidung und Zurückverweisung)?
+
+**A:** Entscheidung und Zurückverweisung
+
+Die Entscheidung über die Rechtsbeschwerde ergeht durch Beschluß; sie kann ohne mündliche Verhandlung getroffen werden.
+
+In 84 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 110 PatG](https://www.gesetze-im-internet.de/patg/__110.html) (Berufung gegen Nichtigkeitsurteile: Monatsfrist, Begründung)?
+
+**A:** Berufung gegen Nichtigkeitsurteile: Monatsfrist, Begründung
+
+Gegen die Urteile der Nichtigkeitssenate des Patentgerichts ([§ 84](https://www.gesetze-im-internet.de/markeng/__84.html)) findet die Berufung an den Bundesgerichtshof statt.
+
+Hinweis: Berufung gegen Urteile der Nichtigkeitssenate zum BGH (X. Zivilsenat) binnen eines Monats, Begründung binnen drei Monaten; kein zweiter Tatsachenrichter im klassischen Sinn: neue Angriffs- und Verteidigungsmittel nur nach [§ 117](https://www.gesetze-im-internet.de/markeng/__117.html) (Präklusion).
+
+In 304 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 116 PatG](https://www.gesetze-im-internet.de/patg/__116.html) (Prüfungsumfang, Bindung an Anträge, neue Verteidigung)?
+
+**A:** Prüfungsumfang, Bindung an Anträge, neue Verteidigung
+
+Der Prüfung des Bundesgerichtshofs unterliegen nur die von den Parteien gestellten Anträge.
+
+Hinweis: Prüfungsumfang der Berufung: Anträge und Berufungsgründe; hilfsweise Verteidigung mit geänderten Ansprüchen nur bei Sachdienlichkeit (Abs. 2), etwa wenn das Patentgericht seinen Hinweis erst in der Verhandlung geändert hat (BGH Fahrzeugscheibe II).
+
+In 61 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html) (Neue Angriffs- und Verteidigungsmittel (Präklusion))?
+
+**A:** Neue Angriffs- und Verteidigungsmittel (Präklusion)
+
+Auf den Prüfungsumfang des Berufungsgerichts, die verspätet vorgebrachten, die zurückgewiesenen und die neuen Angriffs- und Verteidigungsmittel sind die §§ [529](https://www.gesetze-im-internet.de/markeng/__529.html), [530](https://www.gesetze-im-internet.de/markeng/__530.html) und [531](https://www.gesetze-im-internet.de/markeng/__531.html) der Zivilprozessordnung entsprechend anzuwenden. Dabei tritt an die Stelle des [§ 520](https://www.gesetze-im-internet.de/markeng/__520.html) der Zivilprozessordnung der [§ 112](https://www.gesetze-im-internet.de/markeng/__112.html).
+
+Hinweis: Neue Angriffs- und Verteidigungsmittel nur unter den Voraussetzungen des [§ 531 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__531.html); nach [§ 83 Abs. 4](https://www.gesetze-im-internet.de/markeng/__83.html) zurückgewiesenes Vorbringen bleibt ausgeschlossen ([§ 117 S. 2](https://www.gesetze-im-internet.de/markeng/__117.html)).
+
+In 120 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 121 PatG](https://www.gesetze-im-internet.de/patg/__121.html) (Streitwert im Nichtigkeitsverfahren, Kostenentscheidung)?
+
+**A:** Streitwert im Nichtigkeitsverfahren, Kostenentscheidung
+
+In dem Verfahren vor dem Bundesgerichtshof gelten die Bestimmungen des [§ 144](https://www.gesetze-im-internet.de/markeng/__144.html) über die Streitwertfestsetzung entsprechend.
+
+Hinweis: Streitwert des Nichtigkeitsverfahrens: gemeiner Wert des Patents bei Klageerhebung plus Schadensersatz (Regel: Verletzungsstreitwert plus 25 %); Gebühr 4,5 Gebühren nach Nr. 402 100 der Anlage zum PatKostG; Streitwertbegünstigung [§ 144](https://www.gesetze-im-internet.de/markeng/__144.html) gilt entsprechend (Abs. 2).
+
+In 850 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html) (Wiedereinsetzung in den vorigen Stand)?
+
+**A:** Wiedereinsetzung in den vorigen Stand
+
+Wer ohne Verschulden verhindert war, dem Deutschen Patent- und Markenamt oder dem Patentgericht gegenüber eine Frist einzuhalten, deren Versäumung nach gesetzlicher Vorschrift einen Rechtsnachteil zur Folge hat, ist auf Antrag wieder in den vorigen Stand einzusetzen. Dies gilt nicht für die Frist
+1. zur Erhebung des Einspruchs ([§ 59 Abs. 1](https://www.gesetze-im-internet.de/markeng/__59.html)) und zur Zahlung der Einspruchsgebühr ([§ 6 Abs. 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__6.html) des Patentkostengesetzes),
+2. für den Einsprechenden zur Einlegung der Beschwerde gegen die Aufrechterhaltung des Patents ([§ 73 Abs. 2](https://www.gesetze-im-internet.de/markeng/__73.html)) und zur Zahlung der Beschwerdegebühr ([§ 6 Abs. 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__6.html) des Paten …
+
+Hinweis: Wiedereinsetzung: unverschuldete Versäumung einer Frist mit Rechtsnachteil; Antrag binnen zwei Monaten nach Wegfall des Hindernisses mit Begründung und Nachholung der Handlung, spätestens ein Jahr nach Fristablauf (Abs. 2). Ausgeschlossen: Einspruchsfrist, Prioritätsfrist, Nachfrist der Erfinderbenennung (Abs. 1 S. 2). Verschulden des Vertreters wird zugerechnet ([§ 85 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__85.html)). Nach Wiedereinsetzung Zwischenbenutzungsrecht (Abs. 5).
+
+In 530 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html) (Weiterbehandlung der Anmeldung)?
+
+**A:** Weiterbehandlung der Anmeldung
+
+Ist nach Versäumung einer vom Deutschen Patent- und Markenamt bestimmten Frist die Patentanmeldung zurückgewiesen worden, so wird der Beschluss wirkungslos, ohne dass es seiner ausdrücklichen Aufhebung bedarf, wenn der Anmelder die Weiterbehandlung der Anmeldung beantragt und die versäumte Handlung nachholt.
+
+Hinweis: Weiterbehandlung: Bei Zurückweisung der Anmeldung wegen versäumter Frist genügt Antrag mit Nachholung der Handlung und Gebühr (100 EUR, Nr. 313 000) binnen eines Monats nach Zustellung; kein Verschuldensmaßstab. Nur für die Anmeldung, nicht für Einspruch oder Beschwerde. BPatG Weiterbehandlung II: Nachholung innerhalb der Monatsfrist.
+
+In 39 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 126 PatG](https://www.gesetze-im-internet.de/patg/__126.html) (Amtssprache Deutsch, Übersetzungen)?
+
+**A:** Amtssprache Deutsch, Übersetzungen
+
+Die Sprache vor dem Deutschen Patent- und Markenamt und dem Patentgericht ist deutsch, sofern nichts anderes bestimmt ist. Im übrigen finden die Vorschriften des Gerichtsverfassungsgesetzes über die Gerichtssprache Anwendung.
+
+Hinweis: Amtssprache Deutsch; fremdsprachige Schriftstücke sind unbeachtlich, wenn keine Übersetzung nachgereicht wird; [§ 35 Abs. 2](https://www.gesetze-im-internet.de/markeng/__35.html) für die Anmeldung, PatV [§ 14](https://www.gesetze-im-internet.de/markeng/__14.html) für Belege.
+
+In 43 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 127 PatG](https://www.gesetze-im-internet.de/patg/__127.html) (Zustellungen (VwZG), Zustellung an Vertreter)?
+
+**A:** Zustellungen (VwZG), Zustellung an Vertreter
+
+Für Zustellungen im Verfahren vor dem Deutschen Patent- und Markenamt gelten die Vorschriften des Verwaltungszustellungsgesetzes mit folgenden Maßgaben:
+1. Wird die Annahme der Zustellung durch eingeschriebenen Brief ohne gesetzlichen Grund verweigert, so gilt die Zustellung gleichwohl als bewirkt.
+2. An Empfänger, die sich im Ausland aufhalten und die entgegen dem Erfordernis des [§ 25](https://www.gesetze-im-internet.de/markeng/__25.html) keinen Inlandsvertreter bestellt haben, kann mit eingeschriebenem Brief durch Aufgabe zur Post zugestellt werden. Gleiches gilt für Empfänger, die selbst Inlandsvertreter im Sinne des [§ 25 Abs. 2](https://www.gesetze-im-internet.de/markeng/__25.html) sind. [§ 184](https://www.gesetze-im-internet.de/markeng/__184.html) Abs …
+
+In 193 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) (Unterlassung, Schadensersatz, Verhältnismäßigkeit, Verletzergewinn, Lizenzanalogie)?
+
+**A:** Unterlassung, Schadensersatz, Verhältnismäßigkeit, Verletzergewinn, Lizenzanalogie
+
+Wer entgegen den §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html) bis [13](https://www.gesetze-im-internet.de/markeng/__13.html) eine patentierte Erfindung benutzt, kann von dem Verletzten bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht. Der Anspruch ist ausgeschlossen, soweit die Inanspruchnahme aufgrund der besonderen Umstände des Einzelfalls und der Gebote von Treu und Glauben für den Verletzer oder Dritte zu einer unverhältnismäßigen, durch das Ausschließlichkeitsrecht nicht gerechtfertigten Härte führen würde. In diesem Fall ist dem Verletzten ein angemessener Ausgleich in Geld zu gewähren. D …
+
+Entspricht: [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Unterlassung (Abs. 1) bei Wiederholungs- oder Erstbegehungsgefahr, verschuldensunabhängig; Verhältnismäßigkeitseinwand seit 2021 (Abs. 1 S. 3, 4) mit Ausgleich in Geld. Schadensersatz bei Verschulden (Abs. 2) nach Wahl: konkreter Schaden, Verletzergewinn, Lizenzanalogie. Verjährung nach [§ 141](https://www.gesetze-im-internet.de/markeng/__141.html). Klagebefugnis des Lizenznehmers: [§ 15 Abs. 2](https://www.gesetze-im-internet.de/markeng/__15.html).
+
+In 76 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) (Vernichtung, Rückruf, Entfernen aus den Vertriebswegen)?
+
+**A:** Vernichtung, Rückruf, Entfernen aus den Vertriebswegen
+
+Wer entgegen den §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html) bis [13](https://www.gesetze-im-internet.de/markeng/__13.html) eine patentierte Erfindung benutzt, kann von dem Verletzten auf Vernichtung der im Besitz oder Eigentum des Verletzers befindlichen Erzeugnisse, die Gegenstand des Patents sind, in Anspruch genommen werden. Satz 1 ist auch anzuwenden, wenn es sich um Erzeugnisse handelt, die durch ein Verfahren, das Gegenstand des Patents ist, unmittelbar hergestellt worden sind.
+
+Entspricht: [Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Vernichtung, Rückruf und endgültiges Entfernen aus den Vertriebswegen; Ausschluss bei Unverhältnismäßigkeit (Abs. 4). Umsetzung von [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)).
+
+In 10 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) (Auskunft und Drittauskunft)?
+
+**A:** Auskunft und Drittauskunft
+
+Wer entgegen den §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html) bis [13](https://www.gesetze-im-internet.de/markeng/__13.html) eine patentierte Erfindung benutzt, kann von dem Verletzten auf unverzügliche Auskunft über die Herkunft und den Vertriebsweg der benutzten Erzeugnisse in Anspruch genommen werden.
+
+Entspricht: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Auskunft über Herkunft und Vertriebsweg (Abs. 1), Drittauskunft bei offensichtlicher Verletzung (Abs. 2), Umfang (Abs. 3), Unverhältnismäßigkeit (Abs. 4), einstweilige Verfügung (Abs. 7). Daneben der unselbständige Rechnungslegungsanspruch aus [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) zur Bezifferung des Schadensersatzes.
+
+In 15 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) (Vorlage und Besichtigung)?
+
+**A:** Vorlage und Besichtigung
+
+Wer mit hinreichender Wahrscheinlichkeit entgegen den §§ [9](https://www.gesetze-im-internet.de/markeng/__9.html) bis [13](https://www.gesetze-im-internet.de/markeng/__13.html) eine patentierte Erfindung benutzt, kann von dem Rechtsinhaber oder einem anderen Berechtigten auf Vorlage einer Urkunde oder Besichtigung einer Sache, die sich in seiner Verfügungsgewalt befindet, oder eines Verfahrens, das Gegenstand des Patents ist, in Anspruch genommen werden, wenn dies zur Begründung von dessen Ansprüchen erforderlich ist. Besteht die hinreichende Wahrscheinlichkeit einer in gewerblichem Ausmaß begangenen Rechtsverletzung, erstreckt sich der Anspruch auch auf die Vorlage von Bank-, Finanz- oder Handelsunter …
+
+Entspricht: [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Vorlage und Besichtigung bei hinreichender Wahrscheinlichkeit der Verletzung (Abs. 1), auch im Wege der einstweiligen Verfügung (Abs. 3) mit Geheimnisschutz (Abs. 1 S. 3); Düsseldorfer Praxis: Besichtigung durch Sachverständigen mit Verschwiegenheitspflicht. Umsetzung von [Art. 6, 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); BGH Faxkarte ([§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html)) als Vorläufer.
+
+In 7 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) (Sicherung von Schadensersatzansprüchen)?
+
+**A:** Sicherung von Schadensersatzansprüchen
+
+Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß begangenen Rechtsverletzung in den Fällen des [§ 139 Abs. 2](https://www.gesetze-im-internet.de/markeng/__139.html) auch auf Vorlage von Bank-, Finanz- oder Handelsunterlagen oder einen geeigneten Zugang zu den entsprechenden Unterlagen in Anspruch nehmen, die sich in der Verfügungsgewalt des Verletzers befinden und die für die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn ohne die Vorlage die Erfüllung des Schadensersatzanspruchs fraglich ist. Soweit der Verletzer geltend macht, dass es sich um vertrauliche Informationen handelt, trifft das Gericht die erforderlich …
+
+Entspricht: [Art. 61 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html) (Urteilsbekanntmachung)?
+
+**A:** Urteilsbekanntmachung
+
+Ist eine Klage auf Grund dieses Gesetzes erhoben worden, so kann der obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse darlegt. Art und Umfang der Bekanntmachung werden im Urteil bestimmt. Die Befugnis erlischt, wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der Rechtskraft des Urteils Gebrauch gemacht wird. Der Ausspruch nach Satz 1 ist nicht vorläufig vollstreckbar.
+
+Entspricht: [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Urteilsbekanntmachung auf Antrag der obsiegenden Partei bei berechtigtem Interesse; Umsetzung von [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html) (Verjährung der Ansprüche, Herausgabe des Erlangten)?
+
+**A:** Verjährung der Ansprüche, Herausgabe des Erlangten
+
+Auf die Verjährung der Ansprüche wegen Verletzung des Patentrechts finden die Vorschriften des Abschnitts 5 des Buches 1 des Bürgerlichen Gesetzbuchs entsprechende Anwendung. Hat der Verpflichtete durch die Verletzung auf Kosten des Berechtigten etwas erlangt, findet [§ 852](https://www.gesetze-im-internet.de/markeng/__852.html) des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
+
+Hinweis: Verjährung der Verletzungsansprüche nach den [§§ 194 ff. BGB](https://www.gesetze-im-internet.de/bgb/__194.html) (drei Jahre ab Kenntnis, zehn Jahre absolut); danach Restschadensersatz nach Bereicherungsrecht (S. 2 i.V.m. [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html)).
+
+In 7 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) (Strafvorschriften)?
+
+**A:** Strafvorschriften
+
+Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer ohne die erforderliche Zustimmung des Patentinhabers oder des Inhabers eines ergänzenden Schutzzertifikats (§§ [16a](https://www.gesetze-im-internet.de/markeng/__16a.html), [49a](https://www.gesetze-im-internet.de/markeng/__49a.html))
+1. ein Erzeugnis, das Gegenstand des Patents oder des ergänzenden Schutzzertifikats ist ([§ 9 Satz 2 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)), herstellt oder anbietet, in Verkehr bringt, gebraucht oder zu einem der genannten Zwecke entweder einführt oder besitzt oder
+2. ein Verfahren, das Gegenstand des Patents oder des entsprechenden Schutzzertifikats ist ([§ 9 Satz 2 Nr. 2](https://www.gesetze-im-internet.de/markeng/__9.html)), anwendet oder zur Anwendung im Geltungsbereich dieses Ges …
+
+Hinweis: Strafbarkeit der vorsätzlichen Patentverletzung (Abs. 1), gewerbsmäßig bis fünf Jahre (Abs. 2); Antragsdelikt (Abs. 4); Einziehung (Abs. 5); Bekanntmachung der Verurteilung (Abs. 6).
+
+In 10 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html) (Patentstreitkammern, Konzentration, Patentanwaltskosten)?
+
+**A:** Patentstreitkammern, Konzentration, Patentanwaltskosten
+
+Für alle Klagen, durch die ein Anspruch aus einem der in diesem Gesetz geregelten Rechtsverhältnisse geltend gemacht wird (Patentstreitsachen), sind die Zivilkammern der Landgerichte ohne Rücksicht auf den Streitwert ausschließlich zuständig.
+
+Hinweis: Patentstreitsachen vor den Landgerichten ohne Rücksicht auf den Streitwert (Abs. 1), Konzentration durch Landesverordnung (Abs. 2: Düsseldorf, Mannheim, München u.a.); Erstattung der Patentanwaltskosten (Abs. 3) neben dem Rechtsanwalt.
+
+In 92 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) (Streitwertbegünstigung)?
+
+**A:** Streitwertbegünstigung
+
+Macht in einer Patentstreitsache eine Partei glaubhaft, daß die Belastung mit den Prozeßkosten nach dem vollen Streitwert ihre wirtschaftliche Lage erheblich gefährden würde, so kann das Gericht auf ihren Antrag anordnen, daß die Verpflichtung dieser Partei zur Zahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage angepaßten Teil des Streitwerts bemißt. Die Anordnung hat zur Folge, daß die begünstigte Partei die Gebühren ihres Rechtsanwalts ebenfalls nur nach diesem Teil des Streitwerts zu entrichten hat. Soweit ihr Kosten des Rechtsstreits auferlegt werden oder soweit sie diese übe …
+
+Entspricht: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Streitwertbegünstigung: Auf Antrag zahlt eine Partei, deren wirtschaftliche Lage durch die vollen Kosten erheblich gefährdet würde, Gebühren nach einem angepassten Teilstreitwert; Antrag vor Verhandlung zur Hauptsache; gilt entsprechend im Nichtigkeitsverfahren ([§ 121 Abs. 2](https://www.gesetze-im-internet.de/markeng/__121.html)).
+
+In 33 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html) (Klagekonzentration: gleichartige Handlungen)?
+
+**A:** Klagekonzentration: gleichartige Handlungen
+
+Wer eine Klage nach [§ 139](https://www.gesetze-im-internet.de/markeng/__139.html) erhoben hat, kann gegen den Beklagten wegen derselben oder einer gleichartigen Handlung auf Grund eines anderen Patents nur dann eine weitere Klage erheben, wenn er ohne sein Verschulden nicht in der Lage war, auch dieses Patent in dem früheren Rechtsstreit geltend zu machen.
+
+Hinweis: Klagekonzentration: Wer wegen Verletzung eines Patents Klage erhoben hat, kann wegen derselben oder gleichartiger Handlung aus einem anderen Patent nur klagen, wenn er ohne Verschulden nicht schon in der ersten Klage darauf stützen konnte. BGH Raffvorhang: gleichartig nur bei zusätzlichen oder abgewandelten Merkmalen.
+
+In 9 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 145a PatG](https://www.gesetze-im-internet.de/patg/__145a.html) (Gebrauchsmuster, Abzweigung (Verweis))?
+
+**A:** Gebrauchsmuster, Abzweigung (Verweis)
+
+In Patentstreitsachen mit Ausnahme von selbstständigen Beweisverfahren sowie in Zwangslizenzverfahren gemäß [§ 81 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__81.html) sind die §§ [16](https://www.gesetze-im-internet.de/markeng/__16.html) bis [20](https://www.gesetze-im-internet.de/markeng/__20.html) des Gesetzes zum Schutz von Geschäftsgeheimnissen vom 18. April 2019 (BGBl. I S. 466) entsprechend anzuwenden. Als streitgegenständliche Informationen im Sinne des [§ 16 Absatz 1](https://www.gesetze-im-internet.de/markeng/__16.html) des Gesetzes zum Schutz von Geschäftsgeheimnissen gelten sämtliche von Kläger und Beklagtem in das Verfahren eingeführten Informationen.
+
+In 8 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 146 PatG](https://www.gesetze-im-internet.de/patg/__146.html) (Patentberühmung: Auskunft)?
+
+**A:** Patentberühmung: Auskunft
+
+Wer Gegenstände oder ihre Verpackung mit einer Bezeichnung versieht, die geeignet ist, den Eindruck zu erwecken, daß die Gegenstände durch ein Patent oder eine Patentanmeldung nach diesem Gesetz geschützt seien, oder wer in öffentlichen Anzeigen, auf Aushängeschildern, auf Empfehlungskarten oder in ähnlichen Kundgebungen eine Bezeichnung solcher Art verwendet, ist verpflichtet, jedem, der ein berechtigtes Interesse an der Kenntnis der Rechtslage hat, auf Verlangen Auskunft darüber zu geben, auf welches Patent oder auf welche Patentanmeldung sich die Verwendung der Bezeichnung stützt.
+
+Hinweis: Patentberühmung: Wer Gegenstände mit einer Bezeichnung versieht, die den Eindruck eines Patentschutzes erweckt, muss jedem mit berechtigtem Interesse Auskunft über das Patent geben; keine Patentberühmung ist der Hinweis „Patent angemeldet“ bei laufender Anmeldung.
+
+In 5 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 1 PatV](https://www.gesetze-im-internet.de/patv/__1.html) (Anwendungsbereich)?
+
+**A:** Anwendungsbereich
+
+Für die im Patentgesetz geregelten Verfahren vor dem Deutschen Patent- und Markenamt gelten ergänzend zu den Bestimmungen des Patentgesetzes und der DPMA-Verordnung die Bestimmungen dieser Verordnung.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+
+Hinweis: Die PatV regelt Form und Inhalt der Anmeldung ([§ 34 Abs. 6 PatG](https://www.gesetze-im-internet.de/patg/__34.html)) und der sonstigen Eingaben; sie ergänzt die DPMAV (allgemeine Verfahrensfragen, Vertreter, Fristen) und die ERVDPMAV (elektronischer Rechtsverkehr).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 3 PatV](https://www.gesetze-im-internet.de/patv/__3.html) (Form der Einreichung)?
+
+**A:** Form der Einreichung
+
+Die Anmeldung ([§ 34](https://www.gesetze-im-internet.de/markeng/__34.html) des Patentgesetzes) und die Zusammenfassung ([§ 36](https://www.gesetze-im-internet.de/markeng/__36.html) des Patentgesetzes) sind beim Deutschen Patent- und Markenamt schriftlich oder elektronisch einzureichen. Für die elektronische Einreichung ist die Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 36 PatG](https://www.gesetze-im-internet.de/patg/__36.html)
+
+Hinweis: Anmeldung und Zusammenfassung sind schriftlich einzureichen; elektronisch nach der ERVDPMAV. Anlage 2 enthält die Standards für Zeichnungen ([§ 12](https://www.gesetze-im-internet.de/markeng/__12.html)).
+
+In 3 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 4 PatV](https://www.gesetze-im-internet.de/patv/__4.html) (Anmeldung zur Erteilung eines Patents)?
+
+**A:** Anmeldung zur Erteilung eines Patents
+
+Für die schriftliche Anmeldung zur Erteilung eines Patents ist für die nachfolgend genannten Angaben das vom Deutschen Patent- und Markenamt herausgegebene Formblatt zu verwenden, sofern diese Verordnung nichts anderes bestimmt.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html)
+
+Hinweis: Der Erteilungsantrag: amtliches Formblatt, Bezeichnung der Erfindung, Angaben zum Anmelder, Antrag auf Prüfung oder Recherche, Prioritätsangaben; der Antrag muss den Willen zur Patenterteilung erkennen lassen (Anmeldetag nach [§ 35 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__35.html)).
+
+In 10 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 5 PatV](https://www.gesetze-im-internet.de/patv/__5.html) (Anmeldungsunterlagen)?
+
+**A:** Anmeldungsunterlagen
+
+Die Anmeldungsunterlagen und die Zusammenfassung dürfen im Text keine bildlichen Darstellungen enthalten. Ausgenommen sind chemische und mathematische Formeln sowie Tabellen. Phantasiebezeichnungen, Marken oder andere Bezeichnungen, die zur eindeutigen Angabe der Beschaffenheit eines Gegenstands nicht geeignet sind, dürfen nicht verwendet werden. Kann eine Angabe ausnahmsweise nur durch Verwendung einer Marke eindeutig bezeichnet werden, so ist die Bezeichnung als Marke kenntlich zu machen.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+
+Hinweis: Anmeldungsunterlagen: Ansprüche ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html)), Beschreibung ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html)), Zeichnungen ([§ 12](https://www.gesetze-im-internet.de/markeng/__12.html)), Zusammenfassung ([§ 13](https://www.gesetze-im-internet.de/markeng/__13.html)), Sequenzprotokoll ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html)); Reihenfolge und Blattzählung nach [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html).
+
+In 5 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 6 PatV](https://www.gesetze-im-internet.de/patv/__6.html) (Formerfordernisse der Anmeldung)?
+
+**A:** Formerfordernisse der Anmeldung
+
+Die Anmeldungsunterlagen sind in einer Form einzureichen, die eine elektronische Erfassung gestattet.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+
+Hinweis: Formerfordernisse: DIN A4, Ränder, einseitig, Zeilenabstand; keine Änderungen von Hand; Blätter fortlaufend nummerieren. Formmängel werden im Offensichtlichkeitsverfahren ([§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html)) beanstandet.
+
+In 15 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 7 PatV](https://www.gesetze-im-internet.de/patv/__7.html) (Benennung des Erfinders)?
+
+**A:** Benennung des Erfinders
+
+Der Anmelder muss bei schriftlicher Benennung des Erfinders das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwenden.
+
+Bezug: [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html)
+
+Hinweis: Erfinderbenennung nach [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html): gesonderte Erklärung mit Name und Anschrift jedes Erfinders und Angabe, wie das Recht auf den Anmelder übergegangen ist (etwa Inanspruchnahme nach [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html) ArbnErfG).
+
+In 8 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 8 PatV](https://www.gesetze-im-internet.de/patv/__8.html) (Nichtnennung des Erfinders; Änderungen der Erfindernennung)?
+
+**A:** Nichtnennung des Erfinders; Änderungen der Erfindernennung
+
+Der Antrag des Erfinders, ihn nicht als Erfinder zu nennen, der Widerruf dieses Antrags ([§ 63 Abs. 1 Satz 3 und 4](https://www.gesetze-im-internet.de/markeng/__63.html) des Patentgesetzes) sowie Anträge auf Berichtigung oder Nachholung der Nennung ([§ 63 Abs. 2](https://www.gesetze-im-internet.de/markeng/__63.html) des Patentgesetzes) sind schriftlich einzureichen. Die Schriftstücke müssen vom Erfinder unterzeichnet sein und die Bezeichnung der Erfindung sowie das amtliche Aktenzeichen enthalten.
+
+Bezug: [§ 63 PatG](https://www.gesetze-im-internet.de/patg/__63.html)
+
+Hinweis: Nichtnennung des Erfinders auf dessen Antrag ([§ 63 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__63.html)): Erklärung des Erfinders, jederzeit widerruflich.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html) (Patentansprüche)?
+
+**A:** Patentansprüche
+
+In den Patentansprüchen kann das, was als patentfähig unter Schutz gestellt werden soll ([§ 34 Abs. 3 Nr. 3](https://www.gesetze-im-internet.de/markeng/__34.html) des Patentgesetzes), einteilig oder nach Oberbegriff und kennzeichnendem Teil geteilt (zweiteilig) gefasst sein.♦ In beiden Fällen kann die Fassung nach Merkmalen gegliedert sein.♦
+
+Bezug: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+
+Hinweis: Patentansprüche: Was unter Schutz gestellt werden soll; ein- oder zweiteilige Fassung (Oberbegriff und kennzeichnender Teil, Abs. 1), Bezugszeichen, keine Verweisung auf die Beschreibung „wie beschrieben“ (Abs. 5), nebengeordnete und Unteransprüche (Abs. 3, 4). Der Anspruch bestimmt den Schutzbereich ([§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html)).
+
+In 30 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html) (Beschreibung)?
+
+**A:** Beschreibung
+
+Am Anfang der Beschreibung nach [§ 34 Abs. 3 Nr. 4](https://www.gesetze-im-internet.de/markeng/__34.html) des Patentgesetzes ist als Titel die in der Anmeldung nach [§ 4 Absatz 2 Nummer 2](https://www.gesetze-im-internet.de/markeng/__4.html) angegebene Bezeichnung der Erfindung anzugeben.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+
+Hinweis: Beschreibung: technisches Gebiet, Stand der Technik, Aufgabe (Problem), Lösung, Vorteile, Ausführungsbeispiele, gewerbliche Anwendbarkeit (Abs. 2); die Aufgabe darf nicht mit Lösungsmerkmalen formuliert werden. Unzulässiges Vorbringen (Abs. 4: Herabsetzung Dritter) wird gestrichen.
+
+In 28 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 11 PatV](https://www.gesetze-im-internet.de/patv/__11.html) (Darstellung von Nukleotid- und Aminosäuresequenzen; Sequenzprotokolle)?
+
+**A:** Darstellung von Nukleotid- und Aminosäuresequenzen; Sequenzprotokolle
+
+Sind in der Patentanmeldung Nukleotid- oder Aminosäuresequenzen offenbart, die nach Satz 2 in ein Sequenzprotokoll aufgenommen werden müssen, so muss die Beschreibung nach [§ 34 Absatz 3 Nummer 4](https://www.gesetze-im-internet.de/markeng/__34.html) des Patentgesetzes neben dem Hauptteil der Beschreibung ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html)) als separaten Teil ein Sequenzprotokoll enthalten. In ein Sequenzprotokoll aufgenommen werden muss jede Sequenz, die an einer beliebigen Stelle in der Anmeldung durch Aufzählung der Reste offenbart wird und dargestellt werden kann
+1. als unverzweigte Sequenz oder lineare Region einer verzweigten Sequenz aus zehn oder mehr spezifisch definie …
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+
+Hinweis: Nukleotid- und Aminosäuresequenzen sind in einem Sequenzprotokoll nach dem WIPO-Standard ST.26 darzustellen (§§ [11a](https://www.gesetze-im-internet.de/markeng/__11a.html), [11b](https://www.gesetze-im-internet.de/markeng/__11b.html) für Einreichung und Nachreichung).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 12 PatV](https://www.gesetze-im-internet.de/patv/__12.html) (Zeichnungen)?
+
+**A:** Zeichnungen
+
+Eingereichte Zeichnungen müssen den in der Anlage 2 enthaltenen Standards entsprechen.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 35a PatG](https://www.gesetze-im-internet.de/patg/__35a.html)
+
+Hinweis: Zeichnungen: Standards in Anlage 2 (Ränder, Linien, Bezugszeichen, keine Beschriftung außer Stichworten); Fotos nur, wenn Zeichnungen unmöglich sind.
+
+In 14 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 13 PatV](https://www.gesetze-im-internet.de/patv/__13.html) (Zusammenfassung)?
+
+**A:** Zusammenfassung
+
+Die Zusammenfassung nach [§ 36](https://www.gesetze-im-internet.de/markeng/__36.html) des Patentgesetzes soll aus nicht mehr als 1.500 Zeichen bestehen.
+
+Bezug: [§ 36 PatG](https://www.gesetze-im-internet.de/patg/__36.html)
+
+Hinweis: Zusammenfassung ([§ 36 PatG](https://www.gesetze-im-internet.de/patg/__36.html)): Titel, Kurzfassung des Offenbarten mit Aufgabe, Lösung, Verwendung, bis zu 1 500 Zeichen, eine Figur; dient nur der technischen Information, nicht der Auslegung ([§ 36 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__36.html)).
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 14 PatV](https://www.gesetze-im-internet.de/patv/__14.html) (Fremdsprachige Dokumente)?
+
+**A:** Fremdsprachige Dokumente
+
+Deutsche Übersetzungen von fremdsprachigen Dokumenten müssen von einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt sein.
+
+Bezug: [§ 126 PatG](https://www.gesetze-im-internet.de/patg/__126.html), [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html)
+
+Hinweis: Fremdsprachige Dokumente: deutsche Übersetzung, beglaubigt durch Rechts- oder Patentanwalt oder öffentlich beglaubigt ([§ 17](https://www.gesetze-im-internet.de/markeng/__17.html)), auf Anforderung; Anmeldungsübersetzung nach [§ 35 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__35.html).
+
+In 14 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 15 PatV](https://www.gesetze-im-internet.de/patv/__15.html) (Nachgereichte Anmeldungsunterlagen; Änderung von Anmeldungsunterlagen)?
+
+**A:** Nachgereichte Anmeldungsunterlagen; Änderung von Anmeldungsunterlagen
+
+Auf allen nach Mitteilung des amtlichen Aktenzeichens eingereichten Schriftstücken ist dieses vollständig anzubringen. Werden die Anmeldungsunterlagen im Laufe des Verfahrens geändert, so hat der Anmelder eine Reinschrift der Anmeldungsunterlagen einzureichen, die die Änderungen berücksichtigt. [§ 6 Abs. 1](https://www.gesetze-im-internet.de/markeng/__6.html) gilt entsprechend.
+
+Bezug: [§ 35a PatG](https://www.gesetze-im-internet.de/patg/__35a.html)
+
+Hinweis: Nachgereichte Unterlagen ([§ 35a PatG](https://www.gesetze-im-internet.de/patg/__35a.html), fehlende Teile): Einreichung binnen der Fristen der PatG; Bezugnahme auf die Prioritätsanmeldung möglich, wenn die Teile darin vollständig enthalten sind.
+
+In 8 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 16 PatV](https://www.gesetze-im-internet.de/patv/__16.html) (Modelle und Proben)?
+
+**A:** Modelle und Proben
+
+Modelle und Proben sind nur auf Anforderung des Deutschen Patent- und Markenamts einzureichen. Sie sind mit einer dauerhaften Beschriftung zu versehen, aus der Inhalt und Zugehörigkeit zu der entsprechenden Anmeldung hervorgehen. Dabei ist gegebenenfalls der Bezug zum Patentanspruch und der Beschreibung genau anzugeben.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+
+Hinweis: Modelle und Proben nur auf Verlangen des DPMA; biologisches Material durch Hinterlegung nach [§ 34 Abs. 8 PatG](https://www.gesetze-im-internet.de/patg/__34.html) bei einer anerkannten Hinterlegungsstelle (Budapester Vertrag).
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 19 PatV](https://www.gesetze-im-internet.de/patv/__19.html) (Form der Einreichung)?
+
+**A:** Form der Einreichung
+
+Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats und der Antrag auf Verlängerung der Laufzeit eines ergänzenden Schutzzertifikats ([§ 49a](https://www.gesetze-im-internet.de/markeng/__49a.html) des Patentgesetzes) sind auf den vom Deutschen Patent- und Markenamt herausgegebenen Formblättern einzureichen. [§ 4 Absatz 2 Nummer 1, 4 und 5](https://www.gesetze-im-internet.de/markeng/__4.html), Absatz 3, 5 und 6 sowie [§ 14 Absatz 1, 3 bis 5](https://www.gesetze-im-internet.de/markeng/__14.html) sind entsprechend anzuwenden.
+
+Bezug: [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html)
+
+Hinweis: Form der Einreichung sonstiger Eingaben (Einspruch, Anträge): schriftlich, unterschrieben; elektronische Einreichung über DPMAdirekt nach der ERVDPMAV.
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt [§ 20 PatV](https://www.gesetze-im-internet.de/patv/__20.html) (Ergänzende Schutzzertifikate für Arzneimittel)?
+
+**A:** Ergänzende Schutzzertifikate für Arzneimittel
+
+Der Antrag auf Erteilung eines ergänzenden Schutzzertifikats für Arzneimittel und der Antrag auf Verlängerung der Laufzeit eines ergänzenden Schutzzertifikats für Arzneimittel müssen jeweils die Angaben und Unterlagen enthalten, die in Artikel 8 der Verordnung (EG) Nr. 469/2009 des Europäischen Parlaments und des Rates vom 6. Mai 2009 über das ergänzende Schutzzertifikat für Arzneimittel (ABl. L 152 vom 16.6.2009, S. 1) bezeichnet sind.
+
+Bezug: [§ 16a PatG](https://www.gesetze-im-internet.de/patg/__16a.html), [§ 49a PatG](https://www.gesetze-im-internet.de/patg/__49a.html)
+
+Hinweis: Ergänzende Schutzzertifikate: Antrag auf Erteilung ([§ 49a PatG](https://www.gesetze-im-internet.de/patg/__49a.html)) mit Angaben zur Genehmigung für das Inverkehrbringen, zum Grundpatent und zum Erzeugnis; Laufzeitverlängerung (pädiatrisch) nach [§ 21](https://www.gesetze-im-internet.de/markeng/__21.html).
+
+*Tags: Patentrecht, PatV*
+
+---
+
+**F:** Was regelt Art. I IntPatÜG (Zustimmung zu den Übereinkommen)?
+
+**A:** Zustimmung zu den Übereinkommen
+
+Den folgenden Übereinkommen wird zugestimmt:
+1. dem in Straßburg am 27. November 1963 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen zur Vereinheitlichung gewisser Begriffe des materiellen Rechts der Erfindungspatente (Straßburger Patentübereinkommen);
+2. dem in Washington am 19. Juni 1970 von der Bundesrepublik Deutschland unterzeichneten Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens (Patentzusammenarbeitsvertrag);
+3. dem in München am 5. Oktober 1973 von der Bundesrepublik Deutschland unterzeichneten Übereinkommen über die Erteilung europäis …
+
+Hinweis: Zustimmungsgesetz zum Straßburger Übereinkommen (1963), zum PCT (1970) und zum EPÜ (1973); Art. II und III enthalten das nationale Ausführungsrecht, das in Klausuren als „IntPatÜG“ zitiert wird (amtliche Abkürzung IntPatÜbkG).
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__1.html) (Entschädigungsanspruch aus europäischen Patentanmeldungen)?
+
+**A:** Entschädigungsanspruch aus europäischen Patentanmeldungen
+
+Der Anmelder einer veröffentlichten europäischen Patentanmeldung, mit der für die Bundesrepublik Deutschland Schutz begehrt wird, kann von demjenigen, der den Gegenstand der Anmeldung benutzt hat, obwohl er wußte oder wissen mußte, daß die von ihm benutzte Erfindung Gegenstand der europäischen Patentanmeldung war, eine den Umständen nach angemessene Entschädigung verlangen. [§ 141](https://www.gesetze-im-internet.de/markeng/__141.html) des Patentgesetzes ist entsprechend anzuwenden. Weitergehende Ansprüche nach Artikel 67 Abs. 1 des Europäischen Patentübereinkommens sind ausgeschlossen.
+
+Bezug: [§ 33 PatG](https://www.gesetze-im-internet.de/patg/__33.html)
+
+Hinweis: Entschädigungsanspruch aus der veröffentlichten europäischen Anmeldung wie [§ 33 PatG](https://www.gesetze-im-internet.de/patg/__33.html), aber erst ab Veröffentlichung einer deutschen Übersetzung der Ansprüche oder Zugang an den Benutzer (Abs. 1); Art. 67 EPÜ.
+
+In 21 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__2.html) (Veröffentlichung von Übersetzungen der Patentansprüche europäischer Patentanmeldungen)?
+
+**A:** Veröffentlichung von Übersetzungen der Patentansprüche europäischer Patentanmeldungen
+
+Das Deutsche Patent- und Markenamt veröffentlicht auf Antrag des Anmelders die nach [§ 1 Abs. 2](https://www.gesetze-im-internet.de/markeng/__1.html) eingereichte Übersetzung.
+
+Hinweis: Veröffentlichung von Übersetzungen der Patentansprüche europäischer Anmeldungen durch das DPMA auf Antrag (Gebühr Nr. 313 800); Voraussetzung des Entschädigungsanspruchs nach [§ 1](https://www.gesetze-im-internet.de/markeng/__1.html).
+
+In 70 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 3 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__3.html) (Übermittlung von Informationen)?
+
+**A:** Übermittlung von Informationen
+
+Das Deutsche Patent- und Markenamt kann aus den bei ihm geführten Verfahren dem Europäischen Patentamt die für die Erfüllung von dessen Aufgaben in Verfahren nach dem Vierten und dem Zehnten Teil des Europäischen Patentübereinkommens erforderlichen Informationen einschließlich personenbezogener Daten elektronisch oder in anderer Form übermitteln. Die Übermittlung ist ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht oder soweit das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom  …
+
+Hinweis: Übersetzungserfordernis für europäische Patente nach Art. 65 EPÜ; für Patente mit Erteilungshinweis ab 1.5.2008 durch das Londoner Übereinkommen entfallen (Art. XI § 4). BPatG Ethylenische Hauptketten: Übergangsfrage. Gebührenpflichtige Übermittlung von Informationen an das EPA.
+
+In 50 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__4.html) (Einreichung europäischer Patentanmeldungen beim Deutschen
+Patent- und Markenamt)?
+
+**A:** Einreichung europäischer Patentanmeldungen beim Deutschen
+Patent- und Markenamt
+
+Europäische Patentanmeldungen können auch beim Deutschen Patent- und Markenamt oder gemäß [§ 34 Abs. 2](https://www.gesetze-im-internet.de/markeng/__34.html) des Patentgesetzes über ein Patentinformationszentrum eingereicht werden. Die nach dem europäischen Patentübereinkommen zu zahlenden Gebühren sind unmittelbar an das Europäische Patentamt zu entrichten.
+
+Hinweis: Einreichung europäischer Anmeldungen beim DPMA (Art. 75 Abs. 1 lit. b EPÜ) und Weiterleitung; Pflicht zur Inlandsanmeldung bei geheimhaltungsbedürftigen Erfindungen ([§ 52 PatG](https://www.gesetze-im-internet.de/patg/__52.html) entsprechend).
+
+In 62 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 5 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__5.html) (Anspruch gegen den nichtberechtigten Patentanmelder)?
+
+**A:** Anspruch gegen den nichtberechtigten Patentanmelder
+
+Der nach Artikel 60 Abs. 1 des Europäischen Patentübereinkommens Berechtigte, dessen Erfindung von einem Nichtberechtigten angemeldet ist, kann vom Patentsucher verlangen, daß ihm der Anspruch auf Erteilung des europäischen Patents abgetreten wird. Hat die Patentanmeldung bereits zum europäischen Patent geführt, so kann er vom Patentinhaber die Übertragung des Patents verlangen.
+
+Bezug: [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html)
+
+Hinweis: Anspruch gegen den nichtberechtigten Anmelder einer europäischen Anmeldung wie [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html) (Abtretung der Anmeldung; Art. 61 EPÜ).
+
+In 9 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html) (Nichtigkeit)?
+
+**A:** Nichtigkeit
+
+Das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent wird auf Antrag für nichtig erklärt, wenn die deutschen Gerichte nach Maßgabe des Übereinkommens vom 19. Februar 2013 über ein Einheitliches Patentgericht (BGBl. 2021 II S. 850, 851) weiterhin zuständig sind und wenn sich ergibt, daß
+1. der Gegenstand des europäischen Patents nach den Artikeln 52 bis 57 des Europäischen Patentübereinkommens nicht patentfähig ist,
+2. das europäische Patent die Erfindung nicht so deutlich und vollständig offenbart, daß ein Fachmann sie ausführen kann,
+3. der Gegenstand des europäische …
+
+Bezug: [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html)
+
+Hinweis: Nichtigkeit des deutschen Teils eines europäischen Patents: Gründe abschließend nach Art. 138 Abs. 1 EPÜ (Abs. 1 Nr. 1 bis 5), Verfahren nach [§§ 81 ff. PatG](https://www.gesetze-im-internet.de/patg/__81.html); beschränkte Verteidigung (Abs. 3). Zuständig bleiben die deutschen Gerichte, solange nicht das EPG ausschließlich zuständig ist (Opt-out, Übergangszeit nach [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))). Klarheit ist kein Nichtigkeitsgrund (BGH Fugenband). Die meistzitierte Vorschrift des Gesetzes in der BPatG-Rechtsprechung.
+
+In 1699 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 6a IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6a.html) (Ergänzende Schutzzertifikate)?
+
+**A:** Ergänzende Schutzzertifikate
+
+Das Deutsche Patent- und Markenamt erteilt ergänzende Schutzzertifikate nach [§ 49a](https://www.gesetze-im-internet.de/markeng/__49a.html) des Patentgesetzes auch für das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent.
+
+Bezug: [§ 16a PatG](https://www.gesetze-im-internet.de/patg/__16a.html), [§ 49a PatG](https://www.gesetze-im-internet.de/patg/__49a.html)
+
+Hinweis: Ergänzende Schutzzertifikate auf der Grundlage europäischer Patente: Nichtigkeit nach Art. 15 VO (EG) Nr. 469/2009 im Verfahren nach [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 7 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__7.html) (Jahresgebühren)?
+
+**A:** Jahresgebühren
+
+Für das mit Wirkung für die Bundesrepublik Deutschland erteilte europäische Patent sind Jahresgebühren nach [§ 17](https://www.gesetze-im-internet.de/markeng/__17.html) des Patentgesetzes zu entrichten. Sie werden jedoch erst für die Jahre geschuldet, die dem Jahr folgen, in dem der Hinweis auf die Erteilung des europäischen Patents im Europäischen Patentblatt bekanntgemacht worden ist.
+
+Bezug: [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html)
+
+Hinweis: Jahresgebühren für europäische Patente an das DPMA nach [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html) und PatKostG, beginnend mit dem Jahr, das auf das Jahr des Erteilungshinweises folgt (Art. 141 EPÜ).
+
+In 20 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__8.html) (Verbot des Doppelschutzes)?
+
+**A:** Verbot des Doppelschutzes
+
+Soweit der Gegenstand eines im Verfahren nach dem Patentgesetz erteilten Patents eine Erfindung ist, für die demselben Erfinder oder seinem Rechtsnachfolger mit Wirkung für die Bundesrepublik Deutschland ein europäisches Patent mit derselben Priorität erteilt worden ist, das auf Grund der Inanspruchnahme der Ausnahmeregelung des Artikels 83 Absatz 3 des Übereinkommens über ein Einheitliches Patentgericht nicht der ausschließlichen Gerichtsbarkeit des Einheitlichen Patentgerichts unterliegt, hat das Patent in dem Umfang, in dem es dieselbe Erfindung wie das europäische Patent schützt, von dem Z …
+
+Bezug: [§ 20 PatG](https://www.gesetze-im-internet.de/patg/__20.html)
+
+Hinweis: Verbot des Doppelschutzes: Ein deutsches Patent für dieselbe Erfindung desselben Erfinders mit gleichem Zeitrang verliert seine Wirkung, soweit ein europäisches Patent mit Wirkung für Deutschland erteilt ist, ab Ablauf der Einspruchsfrist bzw. rechtskräftigem Abschluss des Einspruchs (Abs. 1). Seit 2023 gilt das nicht mehr, wenn das europäische Patent dem EPG unterliegt ([§ 18](https://www.gesetze-im-internet.de/markeng/__18.html): Doppelschutz zulässig, Einrede der doppelten Inanspruchnahme).
+
+In 35 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 9 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__9.html) (Umwandlung)?
+
+**A:** Umwandlung
+
+Hat der Anmelder einer europäischen Patentanmeldung, mit der für die Bundesrepublik Deutschland Schutz begehrt wird, einen Umwandlungsantrag nach Artikel 135 Abs. 1 Buchstabe a des Europäischen Patentübereinkommens gestellt und hierbei angegeben, daß er für die Bundesrepublik Deutschland die Einleitung des Verfahrens zur Erteilung eines nationalen Patents wünscht, so gilt die europäische Patentanmeldung als eine mit der Stellung des Umwandlungsantrags beim Deutschen Patent- und Markenamt eingereichte nationale Patentanmeldung; Artikel 66 des Europäischen Patentübereinkommens bleibt unberührt.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html)
+
+Hinweis: Umwandlung einer europäischen Anmeldung in eine deutsche Anmeldung (Art. 135 EPÜ) bei Rücknahmefiktion wegen Übersetzungsfristversäumung; Gebühr wie Anmeldung; Übersetzung binnen drei Monaten.
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 10 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__10.html) (Zuständigkeit von Gerichten)?
+
+**A:** Zuständigkeit von Gerichten
+
+Ist nach dem Protokoll über die gerichtliche Zuständigkeit und die Anerkennung von Entscheidungen über den Anspruch auf Erteilung eines europäischen Patents die Zuständigkeit der Gerichte im Geltungsbereich dieses Gesetzes begründet, so richtet sich die örtliche Zuständigkeit nach den allgemeinen Vorschriften. Ist danach ein Gerichtsstand nicht gegeben, so ist das Gericht zuständig, in dessen Bezirk das Europäische Patentamt seinen Sitz hat.
+
+Bezug: [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html)
+
+Hinweis: Zuständigkeit der Gerichte für Klagen aus europäischen Patenten wie für deutsche Patente ([§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html)); Anerkennungsprotokoll zum EPÜ für Vindikationsstreitigkeiten.
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 15 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__15.html) (Europäisches Patent mit einheitlicher Wirkung)?
+
+**A:** Europäisches Patent mit einheitlicher Wirkung
+
+Die §§ [1](https://www.gesetze-im-internet.de/markeng/__1.html) bis [4](https://www.gesetze-im-internet.de/markeng/__4.html) und [11](https://www.gesetze-im-internet.de/markeng/__11.html) bis [14](https://www.gesetze-im-internet.de/markeng/__14.html) gelten vorbehaltlich speziellerer Vorschriften auch für das europäische Patent mit einheitlicher Wirkung nach Artikel 2 Buchstabe c der Verordnung (EU) Nr. 1257/2012 des Europäischen Parlaments und des Rates vom 17. Dezember 2012 über die Umsetzung der Verstärkten Zusammenarbeit im Bereich der Schaffung eines einheitlichen Patentschutzes (ABl. L 361 vom 31.12.2012, S. 1; L 307 vom 28.10.2014, S. 83). Die §§ [5](https://www.gesetze-im-internet.de/markeng/__5.html), [6a](https://www.gesetze-im-internet.de/markeng/__6a.html) und [10](https://www.gesetze-im-internet.de/markeng/__10.html) sind vorbehaltlich speziellerer Vorschriften auf europäische Patente mit einheitlicher Wirkung entsprechend anzuwenden.
+
+Entspricht: [Art. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257), [Art. 4 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Nationale Vorschriften für das europäische Patent mit einheitlicher Wirkung: Das Einheitspatent gilt im Inland wie ein europäisches Patent, soweit die EPatVO nichts anderes bestimmt; §§ [6](https://www.gesetze-im-internet.de/markeng/__6.html) bis [9](https://www.gesetze-im-internet.de/markeng/__9.html) sind nicht anzuwenden (keine nationale Nichtigkeit, keine Jahresgebühren an das DPMA, keine Umwandlung).
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 16 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__16.html) (Zwangslizenz an einem europäischen Patent mit einheitlicher Wirkung)?
+
+**A:** Zwangslizenz an einem europäischen Patent mit einheitlicher Wirkung
+
+Ein europäisches Patent mit einheitlicher Wirkung ist in Bezug auf die Vorschriften des Patentgesetzes, die die Erteilung einer Zwangslizenz betreffen, wie ein im Verfahren nach dem Patentgesetz erteiltes Patent zu behandeln.
+
+Bezug: [§ 24 PatG](https://www.gesetze-im-internet.de/patg/__24.html), [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html)
+
+Hinweis: Zwangslizenz am Einheitspatent nach [§ 24 PatG](https://www.gesetze-im-internet.de/patg/__24.html) mit Wirkung für Deutschland ([Art. 32 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) nennt Zwangslizenzen nicht: nationale Gerichte bleiben zuständig).
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 17 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__17.html) (Verzicht auf das europäische Patent mit einheitlicher Wirkung)?
+
+**A:** Verzicht auf das europäische Patent mit einheitlicher Wirkung
+
+[§ 20 Absatz 1 Nummer 1](https://www.gesetze-im-internet.de/markeng/__20.html) des Patentgesetzes findet auf europäische Patente mit einheitlicher Wirkung keine Anwendung.
+
+Entspricht: [Art. 3 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)
+
+Hinweis: Verzicht auf das Einheitspatent nur einheitlich gegenüber dem EPA; ein nationaler Teilverzicht ist ausgeschlossen ([Art. 3 Abs. 2 EPatVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1257)).
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 18 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__18.html) (Doppelschutz und Einrede der doppelten Inanspruchnahme)?
+
+**A:** Doppelschutz und Einrede der doppelten Inanspruchnahme
+
+Eine Klage wegen Verletzung oder drohender Verletzung eines im Verfahren nach dem Patentgesetz erteilten Patents ist als unzulässig abzuweisen,
+1. soweit Gegenstand des Patents eine Erfindung ist, für die demselben Erfinder oder seinem Rechtsnachfolger mit Wirkung für die Bundesrepublik Deutschland ein europäisches Patent oder ein europäisches Patent mit einheitlicher Wirkung mit derselben Priorität erteilt worden ist, und
+2. wenn ein Verfahren vor dem Einheitlichen Patentgericht gegen dieselbe Partei wegen Verletzung oder drohender Verletzung des europäischen Patents oder des europäischen Pat …
+
+Entspricht: [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Bezug: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+
+Hinweis: Doppelschutz seit 1.6.2023: Ein deutsches Patent bleibt neben einem europäischen Patent oder Einheitspatent bestehen, wenn das europäische Patent dem EPG unterliegt (Abs. 1). Einrede der doppelten Inanspruchnahme (Abs. 2): Wer wegen derselben Handlung bereits vor dem EPG in Anspruch genommen wurde, kann die Klage aus dem deutschen Patent abwehren.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 19 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__19.html) (Anwendung der Zivilprozessordnung für die Zwangsvollstreckung aus Entscheidungen und Anordnungen des Einheitlichen Patentgerichts)?
+
+**A:** Anwendung der Zivilprozessordnung für die Zwangsvollstreckung aus Entscheidungen und Anordnungen des Einheitlichen Patentgerichts
+
+Aus Entscheidungen und Anordnungen des Einheitlichen Patentgerichts gemäß Artikel 82 des Übereinkommens über ein Einheitliches Patentgericht, deren Vollstreckung das Einheitliche Patentgericht angeordnet hat, findet die Zwangsvollstreckung im Inland statt, ohne dass es einer Vollstreckungsklausel bedarf. Die Vorschriften über die Zwangsvollstreckung inländischer Entscheidungen sind entsprechend anzuwenden, soweit nicht in den Absätzen 3 und 4 abweichende Vorschriften enthalten sind.
+
+Entspricht: [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Vollstreckung aus Entscheidungen des EPG im Inland nach der ZPO ([Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))): Vollstreckungsklausel durch den Rechtspfleger des Landgerichts, Vollstreckungsabwehrklage nach [§ 767 ZPO](https://www.gesetze-im-internet.de/zpo/__767.html) beim EPG.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. II § 20 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__20.html) (Anwendung der Justizbeitreibungsordnung für die Beitreibung von Ansprüchen des Einheitlichen Patentgerichts)?
+
+**A:** Anwendung der Justizbeitreibungsordnung für die Beitreibung von Ansprüchen des Einheitlichen Patentgerichts
+
+Die Vorschriften der Justizbeitreibungsordnung sind auf die Beitreibung von Ordnungs- und Zwangsgeldern sowie der sonstigen dem [§ 1 Absatz 1](https://www.gesetze-im-internet.de/markeng/__1.html) der Justizbeitreibungsordnung entsprechenden Ansprüche des Einheitlichen Patentgerichts entsprechend anwendbar.
+
+Entspricht: [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+
+Hinweis: Beitreibung von Geldforderungen des EPG (Zwangsgelder, Gebühren) im Inland nach der Justizbeitreibungsordnung.
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. III § 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__1.html) (Das Deutsche Patent- und Markenamt als Anmeldeamt)?
+
+**A:** Das Deutsche Patent- und Markenamt als Anmeldeamt
+
+Das Deutsche Patent- und Markenamt ist Anmeldeamt im Sinne des Artikels 10 des Patentzusammenarbeitsvertrags. Es nimmt internationale Patentanmeldungen von Personen entgegen, die die deutsche Staatsangehörigkeit besitzen oder im Geltungsbereich dieses Gesetzes ihren Sitz oder Wohnsitz haben. Es nimmt auch internationale Anmeldungen von Personen entgegen, die die Staatsangehörigkeit eines anderen Staates besitzen oder in einem anderen Staat ihren Sitz oder Wohnsitz haben, wenn die Bundesrepublik Deutschland die Entgegennahme solcher Anmeldungen mit einem anderen Staat vereinbart hat und dies du …
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+
+Hinweis: Das DPMA als Anmeldeamt für internationale Anmeldungen (Art. 10 PCT): Übermittlungsgebühr (Nr. 313 900), Weiterleitung an das Internationale Büro; Anmelder mit Sitz oder Staatsangehörigkeit in Deutschland.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. III § 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__2.html) (Geheimhaltungsbedürftige internationale Anmeldungen)?
+
+**A:** Geheimhaltungsbedürftige internationale Anmeldungen
+
+Das Deutsche Patent- und Markenamt prüft alle bei ihm als Anmeldeamt eingereichten internationalen Anmeldungen darauf, ob mit ihnen Patentschutz für eine Erfindung nachgesucht wird, die ein Staatsgeheimnis ([§ 93](https://www.gesetze-im-internet.de/markeng/__93.html) des Strafgesetzbuches) ist. Für das Verfahren gelten die Vorschriften des Patentgesetzes entsprechend; [§ 53](https://www.gesetze-im-internet.de/markeng/__53.html) des Patentgesetzes ist anzuwenden.
+
+Bezug: [§ 50 PatG](https://www.gesetze-im-internet.de/patg/__50.html)
+
+Hinweis: Geheimhaltungsbedürftige internationale Anmeldungen: Prüfung nach [§§ 50 ff. PatG](https://www.gesetze-im-internet.de/patg/__50.html) vor der Weiterleitung.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. III § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__4.html) (Das Deutsche Patent- und Markenamt als Bestimmungsamt)?
+
+**A:** Das Deutsche Patent- und Markenamt als Bestimmungsamt
+
+Das Deutsche Patent- und Markenamt ist Bestimmungsamt, wenn in einer internationalen Anmeldung die Bundesrepublik Deutschland für ein Patent oder ein Gebrauchsmuster oder beide Schutzrechtsarten bestimmt worden ist. Dies gilt nicht, wenn der Anmelder in der internationalen Anmeldung die Erteilung eines europäischen Patents beantragt hat.
+
+Bezug: [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html), [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html)
+
+Hinweis: Das DPMA als Bestimmungsamt: Nationale Phase binnen 30 Monaten ab Priorität mit Übersetzung und nationaler Gebühr (Nr. 311 150); ohne fristgerechten Eintritt gilt die Wirkung der Anmeldung als beendet. BPatG Nationale Gebühr einer internationalen Anmeldung: Fälligkeit nach [§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html).
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. III § 5 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__5.html) (Weiterbehandlung als nationale Anmeldung)?
+
+**A:** Weiterbehandlung als nationale Anmeldung
+
+Übersendet das Internationale Büro dem Deutschen Patent- und Markenamt als Bestimmungsamt eine internationale Anmeldung, der das zuständige Anmeldeamt die Zuerkennung eines internationalen Anmeldedatums abgelehnt hat oder die dieses Amt für zurückgenommen erklärt hat, so prüft das Deutsche Patent- und Markenamt, ob die Beanstandungen des Anmeldeamts zutreffend sind, sobald der Anmelder die Gebühr nach dem Patentkostengesetz für das Anmeldeverfahren nach [§ 34](https://www.gesetze-im-internet.de/markeng/__34.html) des Patentgesetzes gezahlt und, sofern die internationale Anmeldung nicht in deutscher Sprache eingereicht worden ist, eine Übersetzung d …
+
+Hinweis: Weiterbehandlung als nationale Anmeldung (Art. 25 PCT) nach Fehlern des Anmeldeamts oder des Internationalen Büros.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. III § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__6.html) (Das Deutsche Patent- und Markenamt als ausgewähltes Amt)?
+
+**A:** Das Deutsche Patent- und Markenamt als ausgewähltes Amt
+
+Hat der Anmelder zu einer internationalen Anmeldung, für die das Deutsche Patent- und Markenamt Bestimmungsamt ist, beantragt, daß eine internationale vorläufige Prüfung der Anmeldung nach Kapitel II des Patentzusammenarbeitsvertrags durchgeführt wird, und hat er die Bundesrepublik Deutschland als Vertragsstaat angegeben, in dem er die Ergebnisse der internationalen vorläufigen Prüfung verwenden will ("ausgewählter Staat"), so ist das Deutsche Patent- und Markenamt ausgewähltes Amt.
+
+Hinweis: Das DPMA als ausgewähltes Amt (Kapitel II PCT, internationale vorläufige Prüfung): Fristen für den Eintritt in die nationale Phase.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. III § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_iii__8.html) (Veröffentlichung der internationalen Anmeldung)?
+
+**A:** Veröffentlichung der internationalen Anmeldung
+
+Die Veröffentlichung einer internationalen Anmeldung nach Artikel 21 des Patentzusammenarbeitsvertrags, für die das Deutsche Patent- und Markenamt Bestimmungsamt ist, hat die gleiche Wirkung wie die Veröffentlichung eines Hinweises nach [§ 32 Abs. 5](https://www.gesetze-im-internet.de/markeng/__32.html) des Patentgesetzes für eine beim Deutschen Patentamt eingereichte Patentanmeldung ([§ 33](https://www.gesetze-im-internet.de/markeng/__33.html) des Patentgesetzes). Ein Hinweis auf die Veröffentlichung wird im Patentblatt bekanntgemacht.
+
+Bezug: [§ 33 PatG](https://www.gesetze-im-internet.de/patg/__33.html)
+
+Hinweis: Wirkung der internationalen Veröffentlichung: Entschädigungsanspruch nach [§ 33 PatG](https://www.gesetze-im-internet.de/patg/__33.html) erst mit Veröffentlichung einer deutschen Übersetzung durch das DPMA.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [Art. XI § 4 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_xi__4.html)?
+
+**A:** 
+
+Für europäische Patente, für die der Hinweis auf die Erteilung vor dem 1. Mai 2008 im Europäischen Patentblatt veröffentlicht worden ist, bleiben Artikel II [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html) dieses Gesetzes, [§ 2 Abs. 1](https://www.gesetze-im-internet.de/markeng/__2.html) des Patentkostengesetzes vom 13. Dezember 2001 (BGBl. I S. 3656), die Verordnung über die Übertragung der Ermächtigung nach Artikel II [§ 3 Abs. 6](https://www.gesetze-im-internet.de/markeng/__3.html) des Gesetzes über internationale Patentübereinkommen vom 1. Juni 1992 (BGBl. 1992 II S. 375) und die Verordnung über die Übersetzungen europäischer Patentschriften vom 2. Juni 1992 (BGBl. 1992 II S. 395) jeweils in den Fassungen anwendbar, die im Zeitpunkt der Verö …
+
+Hinweis: Übergang zum Londoner Übereinkommen: Für europäische Patente mit Erteilungshinweis ab 1.5.2008 entfällt das Übersetzungserfordernis des Art. II § 3.
+
+*Tags: Patentrecht, IntPatÜG*
+
+---
+
+**F:** Was regelt [§ 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__1.html) (Geltungsbereich, Verordnungsermächtigungen)?
+
+**A:** Geltungsbereich, Verordnungsermächtigungen
+
+Die Gebühren des Deutschen Patent- und Markenamts und des Bundespatentgerichts werden, soweit gesetzlich nichts anderes bestimmt ist, nach diesem Gesetz erhoben. Für Auslagen in Verfahren vor dem Bundespatentgericht ist das Gerichtskostengesetz anzuwenden.
+
+Hinweis: Gilt für alle Gebühren und Auslagen des DPMA und des BPatG (Patente, Gebrauchsmuster, Marken, Designs, Topografien); Verfahrenskostenfreiheit nur, wo das Gesetz sie vorsieht. Ermächtigung für die PatKostZV (Zahlungsformen und Zahlungstag).
+
+In 72 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html) (Höhe der Gebühren)?
+
+**A:** Höhe der Gebühren
+
+Gebühren werden nach dem Gebührenverzeichnis der Anlage zu diesem Gesetz erhoben.
+
+Bezug: [§ 121 PatG](https://www.gesetze-im-internet.de/patg/__121.html)
+
+Hinweis: Höhe nach dem Gebührenverzeichnis (Anlage); im Klageverfahren (Nichtigkeit, Zwangslizenz) Wertgebühren nach dem Streitwert (Abs. 2: 4,5 Gebühren nach [§ 34 GKG](https://www.gesetze-im-internet.de/gkg_2004/__34.html)). Streitwertfestsetzung im Nichtigkeitsverfahren nach [§ 121 PatG](https://www.gesetze-im-internet.de/patg/__121.html).
+
+In 444 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 3 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html) (Fälligkeit der Gebühren)?
+
+**A:** Fälligkeit der Gebühren
+
+Die Gebühren werden mit der Einreichung einer Anmeldung, eines Antrags oder durch die Vornahme einer sonstigen Handlung oder mit der Abgabe der entsprechenden Erklärung zu Protokoll fällig, soweit gesetzlich nichts anderes bestimmt ist. Eine sonstige Handlung im Sinn dieses Gesetzes ist insbesondere
+1. die Einlegung von Rechtsbehelfen und Rechtsmitteln;
+2. der Antrag auf gerichtliche Entscheidung nach [§ 61 Abs. 2](https://www.gesetze-im-internet.de/markeng/__61.html) des Patentgesetzes;
+3. die Erklärung eines Beitritts zum Einspruchsverfahren;
+4. die Einreichung einer Klage;
+5. die Änderung einer Anmeldung oder eines Antrags, wenn sich dadurch ein …
+
+Bezug: [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html), [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html), [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html)
+
+Hinweis: Fälligkeit: mit Einreichung der Anmeldung, des Antrags oder des Rechtsbehelfs (Abs. 1); Jahresgebühren am letzten Tag des Monats, der durch seine Benennung dem Monat des Anmeldetags entspricht (Abs. 2). Wertgebühren mit Einreichung der Klage. Von der Fälligkeit laufen die Zahlungsfristen der §§ [6](https://www.gesetze-im-internet.de/markeng/__6.html), [7](https://www.gesetze-im-internet.de/markeng/__7.html).
+
+In 217 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 4 PatKostG](https://www.gesetze-im-internet.de/patkostg/__4.html) (Kostenschuldner)?
+
+**A:** Kostenschuldner
+
+Zur Zahlung der Kosten ist verpflichtet,
+1. wer die Amtshandlung veranlasst oder zu wessen Gunsten sie vorgenommen wird;
+2. wem durch Entscheidung des Deutschen Patent- und Markenamts oder des Bundespatentgerichts die Kosten auferlegt sind;
+3. wer die Kosten durch eine gegenüber dem Deutschen Patent- und Markenamt oder dem Bundespatentgericht abgegebene oder dem Deutschen Patent- und Markenamt oder dem Bundespatentgericht mitgeteilte Erklärung übernommen hat;
+4. wer für die Kostenschuld eines anderen kraft Gesetzes haftet.
+
+Hinweis: Kostenschuldner ist, wer die Amtshandlung beantragt oder das Verfahren einleitet; mehrere haften als Gesamtschuldner; Jahresgebühren kann jeder zahlen (Dritter, Lizenznehmer).
+
+In 27 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 5 PatKostG](https://www.gesetze-im-internet.de/patkostg/__5.html) (Vorauszahlung, Vorschuss)?
+
+**A:** Vorauszahlung, Vorschuss
+
+In Verfahren vor dem Deutschen Patent- und Markenamt soll die Bearbeitung erst nach Zahlung der Gebühr für das Verfahren erfolgen; das gilt auch, wenn Anträge geändert werden. Satz 1 gilt nicht für die Anträge auf Weiterleitung einer Anmeldung an das Amt der Europäischen Union für geistiges Eigentum nach [§ 62](https://www.gesetze-im-internet.de/markeng/__62.html) des Designgesetzes und die Anträge auf Weiterleitung internationaler Anmeldungen an das Internationale Büro der Weltorganisation für geistiges Eigentum nach [§ 68](https://www.gesetze-im-internet.de/markeng/__68.html) des Designgesetzes. In Verfahren vor dem Bundespatentgericht soll die Klage erst nach Zahlung der Gebühr für das Verfahren zuge …
+
+Bezug: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html)
+
+Hinweis: Vorauszahlung und Vorschuss: Bei Klagen vor dem BPatG wird die Gebühr für das Verfahren im Allgemeinen vorab fällig; ohne Zahlung binnen der gesetzten Frist wird die Klage nicht zugestellt ([§ 81 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__81.html) i.V.m. Abs. 2).
+
+In 24 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) (Zahlungsfristen, Folgen der Nichtzahlung)?
+
+**A:** Zahlungsfristen, Folgen der Nichtzahlung
+
+Ist für die Stellung eines Antrags oder die Vornahme einer sonstigen Handlung durch Gesetz eine Frist bestimmt, so ist innerhalb dieser Frist auch die Gebühr zu zahlen. Alle übrigen Gebühren sind innerhalb von drei Monaten ab Fälligkeit ([§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html)) zu zahlen, soweit gesetzlich nichts anderes bestimmt ist.
+
+Bezug: [§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html), [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html), [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html), [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html)
+
+Hinweis: Zahlungsfrist drei Monate ab Fälligkeit für Anmeldungs-, Prüfungs- und Antragsgebühren (Abs. 1 S. 1); für Rechtsbehelfe (Einspruch, Beschwerde, Erinnerung) gilt die Rechtsbehelfsfrist (Abs. 1 S. 2). Folge der Nichtzahlung: Anmeldung gilt als zurückgenommen, Antrag als nicht gestellt, Rechtsbehelf als nicht erhoben (Abs. 2). Häufigster Klausurfehler: Beschwerde ohne Gebühr binnen Monatsfrist. BPatG Einspruchsgebühren bei gemeinsamem Einspruch.
+
+In 520 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html) (Zahlungsfristen für Jahres-, Aufrechterhaltungs- und Schutzrechtsverlängerungsgebühren, Verspätungszuschlag)?
+
+**A:** Zahlungsfristen für Jahres-, Aufrechterhaltungs- und Schutzrechtsverlängerungsgebühren, Verspätungszuschlag
+
+Die Jahresgebühren für Patente, Schutzzertifikate und Patentanmeldungen und die Aufrechterhaltungsgebühren für Gebrauchsmuster und eingetragene Designs sind bis zum Ablauf des zweiten Monats nach Fälligkeit zu zahlen. Wird die Gebühr innerhalb dieser Frist nicht gezahlt, so kann sie mit dem Verspätungszuschlag noch bis zum Ablauf des sechsten Monats nach Fälligkeit gezahlt werden.
+
+Bezug: [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html), [§ 20 PatG](https://www.gesetze-im-internet.de/patg/__20.html), [§ 23 PatG](https://www.gesetze-im-internet.de/patg/__23.html)
+
+Hinweis: Jahresgebühren: Zahlung bis zum Ablauf des zweiten Monats nach Fälligkeit ohne Zuschlag, danach bis zum Ablauf des sechsten Monats mit Verspätungszuschlag von 50 EUR (Abs. 1); Nichtzahlung führt zum Erlöschen ([§ 20 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__20.html)). Vorauszahlung der nächsten Jahresgebühr bis ein Jahr vor Fälligkeit (Abs. 2). BPatG Sägeblatt: Insolvenzeröffnung unterbricht die Zahlungsfrist nicht.
+
+In 150 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 8 PatKostG](https://www.gesetze-im-internet.de/patkostg/__8.html) (Kostenansatz)?
+
+**A:** Kostenansatz
+
+Die Kosten werden angesetzt:
+1. beim Deutschen Patent- und Markenamta)bei Einreichung einer Anmeldung,
+b) bei Einreichung eines Antrags,
+c) im Fall eines Beitritts zum Einspruchsverfahren,
+d) bei Einreichung eines Antrags auf gerichtliche Entscheidung nach [§ 61 Abs. 2](https://www.gesetze-im-internet.de/markeng/__61.html) des Patentgesetzes sowie
+e) bei Einlegung eines Rechtsbehelfs oder Rechtsmittels,
+2.beim Bundespatentgericht
+a) bei Einreichung einer Klage,
+b) bei Einreichung eines Antrags auf Erlass einer einstweiligen Verfügung,
+c) im Fall eines Beitritts zum Einspruch im Beschwerdeverfahren oder im Verfahren nach [§ 61 Abs. 2](https://www.gesetze-im-internet.de/markeng/__61.html) des Patentgesetz …
+
+Hinweis: Kostenansatz durch das DPMA oder das BPatG (Kostenbeamter); Rechtsbehelf: Erinnerung und Beschwerde nach [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html).
+
+In 14 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 9 PatKostG](https://www.gesetze-im-internet.de/patkostg/__9.html) (Unrichtige Sachbehandlung)?
+
+**A:** Unrichtige Sachbehandlung
+
+Kosten, die bei richtiger Behandlung der Sache nicht entstanden wären, werden nicht erhoben.
+
+Bezug: [§ 80 PatG](https://www.gesetze-im-internet.de/patg/__80.html)
+
+Hinweis: Kosten, die bei richtiger Sachbehandlung nicht entstanden wären, werden nicht erhoben; Grundlage für die Rückzahlung von Beschwerdegebühren bei Verfahrensfehlern ([§ 80 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__80.html)).
+
+In 27 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html) (Rückzahlung von Kosten, Wegfall der Gebühr)?
+
+**A:** Rückzahlung von Kosten, Wegfall der Gebühr
+
+Vorausgezahlte Gebühren, die nicht mehr fällig werden können, und nicht verbrauchte Auslagenvorschüsse werden erstattet. Die Rückerstattung von Teilbeträgen der Jahresgebühr Nummer 312 205 bis 312 207 des Gebührenverzeichnisses ist ausgeschlossen.
+
+Bezug: [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html)
+
+Hinweis: Rückzahlung gezahlter Gebühren, wenn die Handlung nicht vorgenommen wird oder die Zahlung ohne Rechtsgrund erfolgte (Abs. 1); Wegfall der Jahresgebühr bei Rücknahme der Anmeldung oder Verzicht vor Fälligkeit (Abs. 2). BPatG Jahresgebühren: keine Rückzahlung mit Rechtsgrund entrichteter Gebühren.
+
+In 37 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 11 PatKostG](https://www.gesetze-im-internet.de/patkostg/__11.html) (Erinnerung, Beschwerde)?
+
+**A:** Erinnerung, Beschwerde
+
+Über Erinnerungen des Kostenschuldners gegen den Kostenansatz oder gegen Maßnahmen nach [§ 5 Abs. 1](https://www.gesetze-im-internet.de/markeng/__5.html) entscheidet die Stelle, die die Kosten angesetzt hat. Sie kann ihre Entscheidung von Amts wegen ändern. Die Erinnerung ist schriftlich oder zu Protokoll der Geschäftsstelle bei der Stelle einzulegen, die die Kosten angesetzt hat.
+
+Hinweis: Erinnerung gegen den Kostenansatz beim DPMA, Beschwerde zum BPatG (Juristischer Beschwerdesenat); Rechtspfleger beim BPatG.
+
+In 30 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 12 PatKostG](https://www.gesetze-im-internet.de/patkostg/__12.html) (Verjährung, Verzinsung)?
+
+**A:** Verjährung, Verzinsung
+
+Für die Verjährung und Verzinsung der Kostenforderungen und der Ansprüche auf Erstattung von Kosten gilt [§ 5](https://www.gesetze-im-internet.de/markeng/__5.html) des Gerichtskostengesetzes entsprechend.
+
+Hinweis: Verjährung der Kostenforderungen und Erstattungsansprüche nach vier Jahren ([§ 5 GKG](https://www.gesetze-im-internet.de/gkg_2004/__5.html) entsprechend); keine Verzinsung.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 14 PatKostG](https://www.gesetze-im-internet.de/patkostg/__14.html) (Übergangsvorschriften aus Anlass des Inkrafttretens dieses Gesetzes)?
+
+**A:** Übergangsvorschriften aus Anlass des Inkrafttretens dieses Gesetzes
+
+Die bisherigen Gebührensätze der Anlage zu [§ 1](https://www.gesetze-im-internet.de/markeng/__1.html) (Gebührenverzeichnis) des Patentgebührengesetzes vom 18. August 1976 in der durch Artikel 10 des Gesetzes vom 22. Dezember 1999 (BGBl. I S. 2534) geänderten Fassung, sind auch nach dem 1. Januar 2002 weiter anzuwenden,
+1. wenn die Fälligkeit der Gebühr vor dem 1. Januar 2002 liegt oder
+2. wenn für die Zahlung einer Gebühr durch Gesetz eine Zahlungsfrist festgelegt ist und das für den Beginn der Frist maßgebliche Ereignis vor dem 1. Januar 2002 liegt oder
+3. wenn die Zahlung einer nach dem 1. Januar 2002 fälligen Gebühr auf Grund bestehender Voraus …
+
+Hinweis: Übergangsrecht zum 1.1.2002 (Inkrafttreten des PatKostG); für Klausuren nur noch selten relevant, aber [§ 13](https://www.gesetze-im-internet.de/markeng/__13.html) (bisherige Gebührensätze bei früherer Fälligkeit) erklärt, warum bei Altpatenten der Gebührenstand am Fälligkeitstag maßgeblich ist.
+
+In 11 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt Anlage PatKostG ((zu [§ 2 Abs. 1](https://www.gesetze-im-internet.de/markeng/__2.html)) Gebührenverzeichnis)?
+
+**A:** (zu [§ 2 Abs. 1](https://www.gesetze-im-internet.de/markeng/__2.html)) Gebührenverzeichnis
+
+Nr. | Gebührentatbestand | Gebühr in Euro
+A. Gebühren des Deutschen Patent- und Markenamts
+(1) Sind für eine elektronische Anmeldung geringere Gebühren bestimmt als für eine Anmeldung in Papierform, werden die geringeren Gebühren nur erhoben, wenn die elektronische Anmeldung nach der jeweiligen Verordnung des Deutschen Patent- und Markenamts zulässig ist.
+(2) Die Gebühren Nummer 313 600, 323 100, 331 600, 331 610, 333 000, 333 300, 333 350, 333 400, 333 450, 346 100 und 362 100 werden für jeden Antragsteller gesondert erhoben. Für die Gebühren Nummer 331 600, 331 610, 333 000, 333 300, 333 350 …
+
+Bezug: [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html), [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html), [§ 43 PatG](https://www.gesetze-im-internet.de/patg/__43.html), [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html), [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html), [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html), [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html)
+
+Hinweis: Gebührenverzeichnis (Stand nach dem Gesetz vom 11.1.2026): Anmeldung elektronisch 40 EUR (Nr. 311 000, Papier 1,5-fach), Recherche 300 EUR (311 200), Prüfung 350 EUR bzw. 150 EUR nach Recherche (311 400, 311 300), Jahresgebühren 3. Jahr 70 EUR bis 20. Jahr 2 030 EUR (312 030 ff., halbiert bei Lizenzbereitschaft, Zuschlag 50 EUR), Weiterbehandlung 100 EUR (313 000), Einspruch 200 EUR (313 600), Beschwerde 500 EUR (401 100) bzw. 200 EUR in anderen Fällen (401 300), Nichtigkeitsklage 4,5 Wertgebühren (402 100). Gebrauchsmuster: Anmeldung 30 EUR, Löschung 300 EUR. Beträge in Klausuren immer am Verzeichnis prüfen; maßgeblich ist der bei Fälligkeit geltende Satz ([§ 13](https://www.gesetze-im-internet.de/markeng/__13.html)).
+
+*Tags: Patentrecht, PatKostG*
 
 ---

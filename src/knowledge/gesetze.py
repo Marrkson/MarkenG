@@ -38,6 +38,11 @@ LAWS = {
     "GWB": ("gwb", "§"),
     "PatKostG": ("patkostg", "§"),
     "PatKostZV": ("patkostzv_2004", "§"),
+    "PatV": ("patv", "§"),
+    # IntPatÜG (amtlich IntPatÜbkG): Paragraphen der Art. II, III und XI werden als „Art. II § 6 IntPatÜG“ zitiert
+    # und liegen unter intpat_bkg/art_ii__6.html (siehe url_for).
+    "IntPatÜG": ("intpat_bkg", "§"),
+    "IntPatÜbkG": ("intpat_bkg", "§"),
     "GmbHG": ("gmbhg", "§"),
     "FamFG": ("famfg", "§"),
     "VwZG": ("vwzg", "§"),
@@ -82,6 +87,9 @@ EU_NORM_KEYS = {"MarkenRL": "markenrl", "DurchsetzungsRL": "durchsetzungsrl", "E
                 "GebOEPS": "gebeps", "GebEPS": "gebeps", "RFeesUPP": "gebeps"}
 # Zitatköpfe für Regeln (VerfO, DOEPS): „R. 19.1 VerfO“, „Regel 262A VerfO“, „Rule 19 RoP“, „R. 6 Abs. 1 DOEPS“; ohne Gesetzesangabe nie verlinken.
 RULE_HEADS = ("R.", "Regel", "Rule")
+# Deutsche Gesetze, die als eigene Normfamilien im Graphen liegen (eunorm:<key>:<nr>): `§ 3 PatG` -> eunorm:patg:3
+DE_NORM_KEYS = {"PatG": "patg", "PatV": "patv", "IntPatÜG": "intpatueg", "IntPatÜbkG": "intpatueg", "PatKostG": "patkostg"}
+_ROMAN_HEAD = re.compile(r"^Art\.\s*([IVX]+)\s*§")
 # Ohne verlinkbare Fundstelle: nie verlinken.
 UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "GGV", "EPÜ", "ERVDPMAV", "PatAnwAPrV", "GV", "GRCh")
 
@@ -89,7 +97,7 @@ _ABBR = "|".join(sorted(list(LAWS) + list(EU_LAWS) + list(UNLINKED), key=len, re
 # Gruppen: 1 Zitatkopf (auch „R.“/„Regel“/„Rule“ für die VerfO), 2 Nummern (Ketten „9 bis 13“, „146 ff.“, Regeln
 # „262A“, „19.1“, „262.1(b)“), 3 Untergliederung (Abs., Nr., S., lit., jeweils mit Ketten „S. 3 bis 5“, „lit. a bis d“), 4 Gesetz
 _PATTERN = (
-    r"(§§|§|Art\.|\bR\.|\bRegel|\bRule)\s*"
+    r"(Art\.\s*[IVX]+\s*§|§§|§|Art\.|\bR\.|\bRegel|\bRule)\s*"
     r"(\d+[a-zA-Z]?(?:\.\d+)*(?:\([a-z0-9]+\))*(?:\s*(?:bis|,|und|ff\.|f\.|/|-|–)\s*\d+[a-zA-Z]?(?:\.\d+)*(?:\([a-z0-9]+\))*)*(?:\s*f{1,2}\.)?)"
     r"((?:\s+(?:Abs\.|Absatz|Nr\.|Nummer|Satz|S\.|lit\.|Halbsatz|Alt\.)\s*[\w§]+(?:\s*(?:bis|und|,|/|–|-)\s*(?:\d+[a-z]?|[a-z])(?![\w.]))*)*)"
     r"(?:\s+(" + _ABBR + r"))?"
@@ -115,18 +123,21 @@ def qualify(text, law):
     return "".join(out) + text[pos:]
 
 
-def url_for(nummer, law=DEFAULT_LAW):
-    """URL der Einzelvorschrift, oder None, wenn das Gesetz nicht verlinkbar ist."""
+def url_for(nummer, law=DEFAULT_LAW, artikel=None):
+    """URL der Einzelvorschrift, oder None, wenn das Gesetz nicht verlinkbar ist.
+    `artikel`: römische Artikelnummer beim IntPatÜG (Art. II § 6 -> intpat_bkg/art_ii__6.html)."""
     entry = LAWS.get(law)
     if not entry:
         return None
     slug, kind = entry
+    if artikel:
+        return BASE + slug + "/art_%s__%s.html" % (artikel.lower(), nummer)
     datei = "art_%s.html" % nummer if kind == "Art." else "__%s.html" % nummer
     return BASE + slug + "/" + datei
 
 
-def _link(nummer, law, label, fmt):
-    href = EU_LAWS.get(law) or url_for(nummer, law)
+def _link(nummer, law, label, fmt, artikel=None):
+    href = EU_LAWS.get(law) or url_for(nummer, law, artikel)
     if not href:
         return label
     if fmt == "markdown":
@@ -148,6 +159,10 @@ def linkify(text, fmt="html", escape=None):
             return label
         if law in EU_LAWS:
             return _link(None, law, label, fmt)
+        rm = _ROMAN_HEAD.match(head)
+        if rm:  # Art. II § 6 IntPatÜG
+            found = _NUM.findall(nums)
+            return _link(found[0], law, label, fmt, rm.group(1)) if law in LAWS and found else label
         if head in RULE_HEADS or (head == "Art." and law != "GG"):
             return label
         target = law or DEFAULT_LAW
@@ -185,6 +200,7 @@ def js_table():
         "eu": EU_LAWS,
         "default": DEFAULT_LAW,
         "eukeys": EU_NORM_KEYS,
+        "dekeys": DE_NORM_KEYS,
         "ruleheads": list(RULE_HEADS),
     }
 
@@ -240,6 +256,7 @@ if __name__ == "__main__":
         "Art. 9 Abs. 2 lit. c UMV entspricht § 14 Abs. 2 Nr. 3; Art. 6 PMMA bleibt frei; Art. 10 Abs. 2 MarkenRL ist der Ursprung.",
         "Streitwert nach § 51 GKG, Zuständigkeit § 140, Aussetzung § 148 ZPO.",
         "Einspruch nach R. 19.1 VerfO, Vertraulichkeit R. 262A VerfO, Zugang R. 262.1(b) RoP; Art. 33 Abs. 1 lit. a EPGÜ; Rule 19 RoP; Nr. 2 bleibt frei; R. 19 ohne Gesetz bleibt frei.",
+        "Nichtigkeit nach Art. II § 6 Abs. 1 Nr. 3 IntPatÜG, Gebühr § 6 Abs. 1 PatKostG, Form § 9 PatV, Art. I IntPatÜG bleibt frei.",
     ]
     for p in proben:
         print(linkify(p, "markdown"))

@@ -47,13 +47,14 @@ from knowledge.schemata import SCHEMATA  # noqa: E402
 from knowledge.kurse import KURSE  # noqa: E402
 from knowledge import markenrl, durchsetzungsrl  # noqa: E402
 from knowledge import upc  # noqa: E402  (zweites Wissenspaket: EPGÜ, VerfO, EPG-Entscheidungen)
-from knowledge.gesetze import EU_NORM_KEYS, RULE_HEADS  # noqa: E402
+from knowledge import patent  # noqa: E402  (drittes Wissenspaket: PatG, PatV, IntPatÜG, PatKostG, BPatG-/BGH-Rechtsprechung)
+from knowledge.gesetze import EU_NORM_KEYS, DE_NORM_KEYS, RULE_HEADS  # noqa: E402
 
-# Alle Wissenspakete in einem Graphen; IDs des UPC-Pakets sind mit upc_ / d_upc_ präfixiert.
-CASES = CASES + upc.CASES
-CONCEPTS = CONCEPTS + upc.CONCEPTS
-DISTINCTIONS = DISTINCTIONS + upc.DISTINCTIONS
-SCHEMATA = SCHEMATA + upc.SCHEMATA
+# Alle Wissenspakete in einem Graphen; IDs des UPC-Pakets sind mit upc_ / d_upc_, die des Patentpakets mit pat_ / d_pat_ präfixiert.
+CASES = CASES + upc.CASES + patent.CASES
+CONCEPTS = CONCEPTS + upc.CONCEPTS + patent.CONCEPTS
+DISTINCTIONS = DISTINCTIONS + upc.DISTINCTIONS + patent.DISTINCTIONS
+SCHEMATA = SCHEMATA + upc.SCHEMATA + patent.SCHEMATA
 
 STATUTE = ROOT / "data" / "markeng.json"
 OUT = ROOT / "graph" / "markenrecht_graph.json"
@@ -75,22 +76,38 @@ RICHTLINIEN = [
          hinweis="Deutscher Wortlaut der konsolidierten Verfahrensordnung (unifiedpatentcourt.org, Änderungen vom 4.11.2025 in Kraft seit 1.1.2026); Präambel als Sammelknoten."),
     # Einheitspatent: EPatVO, EPatÜVO, DOEPS, GebOEPS (src/knowledge/upc/einheitspatent.py; Zitierform Art. 3 EPatVO, R. 6 DOEPS)
     *upc.einheitspatent.FAMILIEN,
+    # Patentrecht: PatG, PatV, IntPatÜG, PatKostG als deutsche Normfamilien (src/knowledge/patent/gesetze_texte.py; Zitierform § 3 PatG, Art. II § 6 IntPatÜG)
+    *patent.gesetze_texte.FAMILIEN,
 ]
 RL_BY_KURZ = {r["kurz"]: r["key"] for r in RICHTLINIEN}
 RL_BY_KURZ.update({k: v for k, v in EU_NORM_KEYS.items() if v in {r["key"] for r in RICHTLINIEN}})
 RL_ZITAT = {r["key"]: r.get("zitat", "Art.") for r in RICHTLINIEN}
-_ART_KEYS = [k for k, v in RL_BY_KURZ.items() if RL_ZITAT[v] == "Art."]
+_DE_KEYS = {k: v for k, v in DE_NORM_KEYS.items() if v in {r["key"] for r in RICHTLINIEN}}
+_ART_KEYS = [k for k, v in RL_BY_KURZ.items() if RL_ZITAT[v] == "Art." and k not in _DE_KEYS]
 _RULE_KEYS = [k for k, v in RL_BY_KURZ.items() if RL_ZITAT[v] == "R."]
 
 NORM_RE = re.compile(r"§ (\d+[a-z]?)")
 EUNORM_RE = re.compile(r"Art\. (\d+[a-z]?)(?: .*)? (" + "|".join(_ART_KEYS) + r")$")
 RULE_RE = re.compile(r"(?:" + "|".join(re.escape(h) for h in RULE_HEADS) + r") (\d+[A-Za-z]?)(?:\.\d+)*(?:\([a-z0-9]+\))*(?: .*)? (" + "|".join(_RULE_KEYS) + r")$")
+DENORM_RE = re.compile(r"§ (\d+[a-z]?)(?: .*)? (" + "|".join(_DE_KEYS) + r")$")
+ROMAN_RE = re.compile(r"Art\. ([IVX]+)(?: § (\d+[a-z]?))?(?: .*)? (" + "|".join(_DE_KEYS) + r")$")
+ANLAGE_RE = re.compile(r"Anlage(?: (\d+))? (" + "|".join(_DE_KEYS) + r")$")
 
 
 def norm_id(ref: str) -> str:
     """'§ 14 Abs. 2 Nr. 2' -> 'norm:§14'; 'Art. 10 Abs. 2 MarkenRL' -> 'eunorm:markenrl:10';
     'Art. 8 Abs. 3 lit. e DurchsetzungsRL' -> 'eunorm:durchsetzungsrl:8'; 'Art. 33 Abs. 1 EPGÜ' -> 'eunorm:upca:33';
-    'R. 262A.1 VerfO' / 'Rule 19 RoP' -> 'eunorm:rop:262A' / 'eunorm:rop:19'"""
+    'R. 262A.1 VerfO' / 'Rule 19 RoP' -> 'eunorm:rop:262A' / 'eunorm:rop:19';
+    '§ 3 Abs. 1 PatG' -> 'eunorm:patg:3'; 'Art. II § 6 Abs. 1 Nr. 3 IntPatÜG' -> 'eunorm:intpatueg:II§6'; 'Anlage PatKostG' -> 'eunorm:patkostg:anlage'"""
+    m = DENORM_RE.match(ref)
+    if m:
+        return f"eunorm:{_DE_KEYS[m.group(2)]}:{m.group(1)}"
+    m = ROMAN_RE.match(ref)
+    if m:
+        return f"eunorm:{_DE_KEYS[m.group(3)]}:{m.group(1)}" + (f"§{m.group(2)}" if m.group(2) else "")
+    m = ANLAGE_RE.match(ref)
+    if m:
+        return f"eunorm:{_DE_KEYS[m.group(2)]}:anlage" + (f"_{m.group(1)}" if m.group(1) else "")
     m = EUNORM_RE.match(ref)
     if m:
         return f"eunorm:{RL_BY_KURZ[m.group(2)]}:{m.group(1)}"
@@ -134,21 +151,26 @@ def build():
                       url=f"https://www.gesetze-im-internet.de/markeng/__{p['nummer']}.html"))
     # --- EU-Richtlinien (MarkenRL, DurchsetzungsRL) ---
     zitiert = upc.entscheidungen.zitierungen()
+    zitiert_pat = patent.entscheidungen.zitierungen()
     for rl in RICHTLINIEN:
         zitat = rl.get("zitat", "Art.")
         common = dict(type="eunorm", rl=rl["key"], kurz=rl["kurz"], gesetz=rl["gesetz"], url=rl["url"], url_pdf=rl["url_pdf"], paraphrase=rl["paraphrase"], zitat=zitat)
+        if rl.get("korpus"):
+            common["korpus"] = rl["korpus"]  # Entscheidungskorpus für Zitierzähler und Rechtsprechungsansicht (patent)
         for a in rl["artikel"]:
-            nid = f"eunorm:{rl['key']}:{a['nr']}"
-            node = dict(id=nid, label=f"{zitat} {a['nr']} {rl['kurz']}", titel=a["titel"],
+            nid = f"eunorm:{rl['key']}:{a['nr'].replace(' ', '')}"
+            node = dict(id=nid, label=a.get("label") or f"{zitat} {a['nr']} {rl['kurz']}", titel=a["titel"],
                         nummer=a["nr"], kapitel=a["kapitel"], abschnitt=a["abschnitt"], absaetze=a["absaetze"], hinweis=a["hinweis"],
                         umsetzung_weitere=a.get("umsetzung_weitere", {}), **common)
-            for extra in ("titel_en", "url_en"):  # englischer Wortlaut nur per Link (url_en), sonst verdoppelt sich die App-Größe
+            for extra in ("titel_en", "url_en", "order"):  # englischer Wortlaut nur per Link (url_en), sonst verdoppelt sich die App-Größe
                 if a.get(extra):
                     node[extra] = a[extra]
             if a.get("url"):
                 node["url"] = a["url"]
             if rl["key"] in ("upca", "rop"):
                 node["zitiert"] = zitiert.get(nid, 0)
+            if rl.get("korpus") == "patent":
+                node["zitiert"] = zitiert_pat.get(nid, 0)
             add_node(node)
         if rl["erwaegungsgruende"]:
             add_node(dict(id=f"eunorm:{rl['key']}:erwaegungsgruende", label=("Präambel " if zitat == "R." else "Erwägungsgründe ") + rl["kurz"],
@@ -156,10 +178,20 @@ def build():
                           nummer="0", kapitel="Präambel", abschnitt=None,
                           absaetze=[dict(nr=e["nr"], text=e["text"]) for e in rl["erwaegungsgruende"]], hinweis="", umsetzung_weitere={}, **common))
     norm_ids = {n["id"] for n in nodes}
+    # PatG setzt die Durchsetzungsrichtlinie um: Kanten aus durchsetzungsrl.umsetzung_weitere["PatG"] (nur Zitate, keine Verneinungen)
+    for a in durchsetzungsrl.ARTIKEL:
+        txt = a.get("umsetzung_weitere", {}).get("PatG", "")
+        if not txt or txt.startswith(("–", "nicht")):
+            continue
+        for nr in dict.fromkeys(re.findall(r"§ (\d+[a-z]?)", txt)):
+            nid = f"eunorm:patg:{nr}"
+            if nid not in norm_ids:
+                raise ValueError(f"Unbekannte PatG-Umsetzungsnorm § {nr} bei Art. {a['nr']} DurchsetzungsRL")
+            add_edge(nid, f"eunorm:durchsetzungsrl:{a['nr']}", "implements", ref=f"§ {nr} PatG")
     for rl in RICHTLINIEN:
         for a in rl["artikel"]:
-            aid = f"eunorm:{rl['key']}:{a['nr']}"
-            ref_label = f"Art. {a['nr']} {rl['kurz']}"
+            aid = f"eunorm:{rl['key']}:{a['nr'].replace(' ', '')}"
+            ref_label = a.get("label") or f"Art. {a['nr']} {rl['kurz']}"
             for ref in a["umsetzung"]:
                 nid = norm_id(ref)
                 if nid not in norm_ids:
@@ -296,8 +328,11 @@ def build():
 
     graph = dict(
         meta=dict(
-            titel="Wissensgraph Markenrecht (MarkenG) und Einheitliches Patentgericht (EPGÜ, VerfO)",
-            beschreibung="Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Markenrecht sowie zum Verfahren vor dem Einheitlichen Patentgericht; verbunden über die Durchsetzungsrichtlinie 2004/48/EG.",
+            titel="Wissensgraph Markenrecht (MarkenG), Patentrecht (PatG, PatV, IntPatÜG, PatKostG) und Einheitliches Patentgericht (EPGÜ, VerfO)",
+            beschreibung="Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Marken- und Patentrecht sowie zum Verfahren vor dem Einheitlichen Patentgericht; verbunden über die Durchsetzungsrichtlinie 2004/48/EG und das IntPatÜG.",
+            patent=dict(entscheidungen=patent.entscheidungen.META["anzahl"], bpatg=patent.entscheidungen.META["bpatg"], bgh=patent.entscheidungen.META["bgh"],
+                        zeitraum=patent.entscheidungen.META["zeitraum"], quelle=patent.entscheidungen.META["quelle"],
+                        stand={k: v.get("stand", []) for k, v in patent.gesetze_texte.META.items()}),
             upc=dict(entscheidungen=upc.entscheidungen.META["anzahl"], zeitraum=upc.entscheidungen.META["zeitraum"], quelle=upc.entscheidungen.META["quelle"],
                      upca_stand=upc.upca.META["stand"], rop_stand=upc.rop.META["stand"][:160],
                      einheitspatent_stand=upc.einheitspatent.META["doeps"]["stand"], einheitspatent_quelle=upc.einheitspatent.META["doeps"].get("quelle_db", ""),

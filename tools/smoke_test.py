@@ -32,7 +32,11 @@ with sync_playwright() as pw:
               "#/karte/eunorm:upca:33", "#/karte/eunorm:rop:262A", "#/karte/eunorm:rop:erwaegungsgruende", "#/karte/eunorm:durchsetzungsrl:9", "#/karte/case:upc_coa_nanostring_10x", "#/karte/concept:upc_einstweilige_massnahmen",
               "#/karte/schema:upc_schema_verletzungsklage", "#/karte/distinction:d_upc_entsprechung_durchsetzungsrl", "#/epg", "#/epg/norm/eunorm:upca:62",
               "#/karte/eunorm:epatvo:3", "#/karte/eunorm:epatuevo:6", "#/karte/eunorm:doeps:6", "#/karte/eunorm:gebeps:2", "#/karte/concept:upc_antrag_einheitliche_wirkung",
-              "#/karte/schema:upc_schema_einheitliche_wirkung", "#/karte/distinction:d_upc_einheitspatent_buendelpatent", "#/karte/case:upc_coa_bodycap_epa_r97"] + [f"#/kurs/{k['id']}" for k in kurse]
+              "#/karte/schema:upc_schema_einheitliche_wirkung", "#/karte/distinction:d_upc_einheitspatent_buendelpatent", "#/karte/case:upc_coa_bodycap_epa_r97",
+              # Patentrecht (PatG, PatV, IntPatÜG, PatKostG, BPatG-/BGH-Korpus)
+              "#/karte/eunorm:patg:3", "#/karte/eunorm:patg:139", "#/karte/eunorm:patv:9", "#/karte/eunorm:intpatueg:II§6", "#/karte/eunorm:intpatueg:I", "#/karte/eunorm:patkostg:6", "#/karte/eunorm:patkostg:anlage",
+              "#/karte/concept:pat_aequivalenz", "#/karte/concept:pat_zahlungsfristen", "#/karte/schema:pat_schema_patentfaehigkeit", "#/karte/schema:pat_schema_fristversaeumung", "#/karte/distinction:d_pat_einspruch_nichtigkeit",
+              "#/karte/case:pat_bgh_olanzapin", "#/karte/case:pat_bpatg_saegeblatt", "#/bpatg", "#/bpatg/norm/eunorm:patg:4", "#/bpatg/norm/eunorm:intpatueg:II§6", "#/suche/q/erfinderische"] + [f"#/kurs/{k['id']}" for k in kurse]
     sample = [u for u in units if u["typ"] in ("intro", "schema")] + units[::7]
     routes += [f"#/lernen/{u['id']}" for u in sample]
     for r in routes:

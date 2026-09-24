@@ -1,20 +1,24 @@
 # IPelico – Markenrecht in Fällen: Fallkurs, Wissensgraph, Karteikarten, Lernnavigator
 
-Lernmaterial zum deutschen Markenrecht (MarkenG), aufgebaut auf einem Wissensgraphen aus
-Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen und BGH-/EuGH-Leitentscheidungen.
+Lernmaterial zum deutschen Markenrecht (MarkenG), zum Patentrecht (PatG, PatV, IntPatÜG, PatKostG) und zum Einheitlichen
+Patentgericht, aufgebaut auf einem Wissensgraphen aus Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen
+und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
 
 ## Was ist drin?
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/index.html` | **IPelico**, der Fallkurs: 24 Kurse in zwei Rechtsgebieten (Markenrecht, Einheitliches Patentgericht), 74 Kapitel, 409 Lerneinheiten (261 Fälle mit Ja/Nein, 81 Wissensfragen, 31 Prüfungsschemata, 36 Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie; Gestaltung nach `DESIGN.md` |
+| `docs/index.html` | **IPelico**, der Fallkurs: 25 Kurse in drei Rechtsgebieten (Markenrecht, Patentrecht, Einheitliches Patentgericht), 85 Kapitel, 483 Lerneinheiten (261 Fälle mit Ja/Nein, 81 Wissensfragen, 31 Prüfungsschemata, 36 Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie; Gestaltung nach `DESIGN.md` |
 | `docs/didaktik.md` | Didaktisches Konzept von IPelico und Kursaufbau |
 | `DESIGN.md`, `src/templates/ipelico/` | Gestaltungsrichtlinie (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons, Schriften) und die Assets dazu; `tools/gen_assets.py` erzeugt die Icons |
 | `docs/navigator/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (2.180 Knoten, ca. 7.500 Kanten; Markenrecht und EPG in einem Graphen) |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (2.700 Knoten, ca. 9.400 Kanten; Markenrecht, Patentrecht und EPG in einem Graphen) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
+| `data/patg.json`, `patv.json`, `intpatueg.json`, `patkostg.json` | Gesetzestexte PatG, PatV, IntPatÜG (IntPatÜbkG) und PatKostG aus der XML-Fassung von gesetze-im-internet.de (`tools/fetch_patent.py`) |
+| `data/patent_decisions.json`, `docs/patent_entscheidungen.json` | Entscheidungskorpus BPatG (Nichtigkeits-, Technische, Juristische und Gebrauchsmuster-Senate) und BGH (Patentsachen) aus der RheinIP-Datenbank: Metadaten, Leitsätze, zitierte Normen |
+| `src/knowledge/patent/` | Wissenspaket Patentrecht: Begriffe, Schemata, Abgrenzungen, Leitentscheidungen, Normfamilien mit Hinweisen und Brücken (siehe unten) |
 | `src/knowledge/markenrl.py` | Markenrechtsrichtlinie (EU) 2015/2436: alle 57 Artikel als Paraphrase je Absatz, Erwägungsgründe, Umsetzungstabelle zum MarkenG |
 | `src/knowledge/durchsetzungsrl.py` | Durchsetzungsrichtlinie 2004/48/EG: alle 22 Artikel im amtlichen Wortlaut (berichtigte Fassung ABl. L 195/16), Erwägungsgründe, je Artikel die Umsetzung in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG, SortSchG und im allgemeinen Recht; Umsetzungstabelle über alle Gesetze |
 | `src/knowledge/` | kuratiertes Fachwissen (Begriffe, Schemata, Abgrenzungen, Entscheidungen, IPWiki-Index) |
@@ -83,9 +87,38 @@ verbunden (Art. 59 bis 69 und 80 EPGÜ tragen `entspricht`-Kanten zu den Richtli
 Aktualisieren: `python3 tools/fetch_upc.py` (Postgres-Zugang aus `~/github/RheinIP/.env`; `--no-net` nutzt nur die Datenbank und
 den lokalen Cache der Normtexte), danach `python3 build.py`. Vorgehen und Datenmodell: `PLAYBOOK.md` Abschnitt 11.
 
+## Patentrecht (PatG, PatV, IntPatÜG, PatKostG, BPatG- und BGH-Rechtsprechung)
+
+Seit September 2026 enthält der Graph ein drittes Wissenspaket (`src/knowledge/patent/`), das über die Durchsetzungsrichtlinie
+(PatG §§ 139 bis 142b `implements`), das EPGÜ (`entspricht`: §§ 9 bis 12, 139 bis 140e PatG ↔ Art. 25 bis 28, 59 bis 69, 80 EPGÜ) und
+das IntPatÜG (Art. II §§ 15 bis 20 ↔ EPatVO, EPGÜ) mit den beiden anderen Paketen verbunden ist.
+
+- **Normtexte**: alle 172 Paragraphen des PatG (mit redaktionellen Stichworten, weil das Gesetz keine amtlichen Überschriften hat),
+  27 Vorschriften der PatV, 37 des IntPatÜG (Art. I, VII, X sowie die Paragraphen der Art. II, III und XI mit Artikelpräfix) und 16 des
+  PatKostG einschließlich des Gebührenverzeichnisses, im amtlichen Wortlaut aus der XML-Fassung von gesetze-im-internet.de;
+  Lern- und Klausurhinweise zu den Kernnormen; PatV, PatKostG und IntPatÜG zeigen mit `konkretisiert` auf die PatG-Vorschriften, die sie ausfüllen.
+- **Rechtsprechungskorpus**: 17.535 Entscheidungen (15.800 BPatG seit 2000, 1.735 BGH) aus der RheinIP-Datenbank mit Entscheidungsnamen,
+  Leitsätzen (1.066) und den zitierten Vorschriften aus PatG, PatV, IntPatÜG, PatKostG, GebrMG, ArbnErfG und EPÜ (Kennzeichen, ob die
+  Entscheidung die Norm auslegt); in IPelico unter `#/bpatg` (Suche, Gericht, Senat, Verfahrensart, nur mit Leitsatz), je Vorschrift unter
+  `#/bpatg/norm/…` und als Abschnitt auf jeder Lernkarte; jeder Norm-Knoten trägt die Zahl der zitierenden Entscheidungen.
+- **Kuratiert**: 77 Begriffe (Patentfähigkeit, Schutzbereich und Äquivalenz, Verletzung und Schranken, Anmeldung und Erteilung, Einspruch,
+  Nichtigkeit und Zwangslizenz, Verfahren und Fristen, Kosten, europäische und internationale Anmeldung), 86 Leitentscheidungen (BGH X./Xa.
+  Zivilsenat und BPatG; Aktenzeichen, Datum, URL und ECLI werden beim Build gegen die Datenbank geprüft), 6 Prüfungsschemata
+  (Patentfähigkeit, Patentverletzung, Einspruch, Nichtigkeitsklage, Anmeldung und Erteilung, Fristversäumung), 8 Abgrenzungen (Einspruch vs.
+  Nichtigkeitsklage, Neuheit vs. erfinderische Tätigkeit, Wortsinn vs. Äquivalenz, Weiterbehandlung vs. Wiedereinsetzung, Zahlungsfristen
+  des PatKostG, Widerruf/Nichtigkeit/Beschränkung/Erlöschen, deutsches/europäisches/Einheitspatent, Teilung/Ausscheidung/Abzweigung).
+- **Zitierweise** in Texten und `norms`-Feldern: `§ 3 Abs. 1 PatG`, `§ 9 PatV`, `Art. II § 6 Abs. 1 Nr. 3 IntPatÜG` (auch `IntPatÜbkG`),
+  `§ 6 Abs. 1 PatKostG`, `Anlage PatKostG`; alle verlinken auf gesetze-im-internet.de (IntPatÜG auf `intpat_bkg/art_ii__6.html`).
+- **Kurs „Klausurtraining TS“** (Rechtsgebiet Patentrecht): 61 Einheiten in neun Kapiteln aus den 23 TS-Klausuren der
+  Patentanwaltsprüfung 2018 bis 2025 (Anmeldung, Priorität und Teilung, Neuheit und Vorbenutzung, Einspruch, Nichtigkeit,
+  Beschwerde und Wiedereinsetzung, Verletzung und Entnahme); Klausurliste in `klausuren/README.md`.
+
+Aktualisieren: `python3 tools/fetch_patent.py` (Normtexte vom Netz, Entscheidungen aus der Datenbank; `--no-net`, `--no-db`), danach
+`python3 build.py`. Vorgehen: `PLAYBOOK.md` Abschnitt 12.
+
 ## Graph-Modell
 
-Knotentypen: `norm` (Paragraph mit Absätzen), `eunorm` (Artikel der MarkenRL als Paraphrase, der DurchsetzungsRL und des EPGÜ im Wortlaut sowie die Regeln der VerfO; Feld `rl` unterscheidet sie (`markenrl`, `durchsetzungsrl`, `upca`, `rop`), `zitat` die Zitierform (`Art.`/`R.`), `umsetzung_weitere` nennt die Parallelnormen der anderen Gesetze, `zitiert` die Zahl der EPG-Entscheidungen), `concept` (Definition + Erläuterung), `schema`,
+Knotentypen: `norm` (Paragraph des MarkenG mit Absätzen), `eunorm` (Vorschriften aller weiteren Normfamilien: MarkenRL als Paraphrase, DurchsetzungsRL, EPGÜ, VerfO, Einheitspatent-Verordnungen sowie PatG, PatV, IntPatÜG und PatKostG im Wortlaut; Feld `rl` nennt die Familie (`markenrl`, `durchsetzungsrl`, `upca`, `rop`, `epatvo`, `patg`, `intpatueg` …), `zitat` die Zitierform (`Art.`/`R.`/`§`), `korpus` den Entscheidungskorpus für `zitiert` (EPG bzw. BPatG/BGH), `umsetzung_weitere` die Parallelnormen der anderen Gesetze), `concept` (Definition + Erläuterung), `schema`,
 `step` (Prüfungspunkt, baumförmig), `case` (Entscheidung mit Kernaussage, Aktenzeichen, Fundstelle,
 dejure-Link), `distinction` (Vergleichstabelle), `source` (IPWiki-Artikel), `course`, `chapter`, `unit`
 (Fallkurs; Einheiten verweisen mit `trains`, `cites`, `applies`, `covers` auf Begriffe, Entscheidungen, Normen, Prüfungspunkte und Abgrenzungstabellen).

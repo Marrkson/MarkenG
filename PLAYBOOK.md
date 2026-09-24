@@ -320,3 +320,42 @@ anpassen und die kuratierten Abschnittsnummern prüfen.
 Neue Fassung von EPatVO/EPatÜVO/DOEPS/GebOEPS oder der UP-Richtlinien: Tabelle `UPLegaltext` neu befüllen, dann `fetch_upc.py` (mit Datenbank).
 Neue VerfO-Fassung: Cache-PDF löschen und ohne `--no-net` laufen lassen; das Deckblatt landet in `meta.stand`.
 Karteikarten entstehen für EPGÜ/VerfO nur für Vorschriften mit Begriff, Schema, Entscheidung oder Hinweis.
+
+## 12. Drittes Wissenspaket: Patentrecht (PatG, PatV, IntPatÜG, PatKostG, BPatG- und BGH-Rechtsprechung)
+
+So wurde das Patentpaket im September 2026 aufgenommen (`src/knowledge/patent/`); es folgt dem UPC-Muster aus Abschnitt 11.
+
+**Quellen.** Die Normtexte kommen aus der XML-Fassung von gesetze-im-internet.de (`<slug>/xml.zip`, vom Rechner des Nutzers erreichbar):
+`tools/fetch_patent.py` lädt `patg`, `patv`, `intpat_bkg`, `patkostg`, parst `<norm>`-Elemente (Absätze aus `<P>`, Listen `<DL>` als Zeilen,
+Tabellen als `Nr. | Tatbestand | Gebühr`) und schreibt `data/patg.json`, `patv.json`, `intpatueg.json`, `patkostg.json` (Felder `nr`, `label`,
+`titel`, `teil`, `abschnitt`, `absaetze`, `url`, `meta.stand`). Besonderheiten: Das PatG trägt weder Paragraphenüberschriften noch
+Gliederungseinheiten an den Normen (Abschnitte werden aus der Dokumentreihenfolge übernommen, Stichworte stehen kuratiert in
+`gesetze_texte.PATG_TITEL`); das IntPatÜbkG hat Artikel mit Paragraphen (`nr` = `II § 6`, Knoten-ID `eunorm:intpatueg:II§6`, URL
+`intpat_bkg/art_ii__6.html`; Art. I, VII, X sind Vorschriften ohne Paragraphen und verlinken auf den Volltextanker); das PatKostG hat das
+Gebührenverzeichnis als `Anlage` (Knoten `eunorm:patkostg:anlage`). Die Datenbank enthält PatG, PatKostG und IntPatÜG zwar ebenfalls
+(Tabelle `DeLegalProvision`), aber ohne Gliederung, ohne Absatztrennung und ohne PatV; deshalb XML für den Text, Datenbank für die Rechtsprechung.
+
+**Rechtsprechung.** `BpatgDecision` (31.849 Entscheidungen seit 2000, `senateType`, `category`, `caseName`, `headnote`, `norms`) und
+`BghDecision` (7.286, `senate`, `category`); `DeCourtNorm` liefert je Entscheidung die zitierten Normen (`law`, `paragraph`, `absatz`,
+`interpreted`, `mentions`). Ausgewählt werden alle BPatG-Entscheidungen mit `category in (patent, utility_model)` (Nichtigkeits-, Technische,
+Juristische und Gebrauchsmuster-Senate; Markensenate bleiben draußen) und alle BGH-Entscheidungen des X./Xa. Zivilsenats oder mit Zitaten aus
+PatG/PatV/IntPatÜG/PatKostG/GebrMG/ArbEG, sofern sie patentnah sind (der X. Senat entscheidet auch Reise- und Werkvertragsrecht).
+`data/patent_decisions.json` (12 MB, ohne Volltexte) trägt je Entscheidung `zitate` = {gesetz: {paragraph: {i: ausgelegt, m: nennungen}}};
+Paragraphen des IntPatÜG werden ohne Artikel erfasst und Art. II zugeordnet. `build_kurs.py` schreibt daraus `docs/patent_entscheidungen.json`
+(6 MB, Kurzschlüssel), IPelico lädt es unter `#/bpatg` nach; `entscheidungen.zitierungen()` liefert `zitiert` je Norm-Knoten.
+
+**Modell.** Die vier Gesetze sind Normfamilien in `build_graph.RICHTLINIEN` (`gesetze_texte.FAMILIEN`, `zitat="§"`, beim IntPatÜG `"Art."`,
+`korpus="patent"`, `order` je Vorschrift für die Sortierung). `build_graph.norm_id` erkennt `§ 3 Abs. 1 PatG` (DENORM_RE), `Art. II § 6 …
+IntPatÜG` (ROMAN_RE) und `Anlage PatKostG` (ANLAGE_RE); `gesetze.DE_NORM_KEYS` und die JavaScript-Fassung (`LAW.dekeys`, `normNode`) lösen
+dieselben Zitate in den Apps auf; `gesetze.CITATION` kennt den Zitatkopf `Art. II §` und verlinkt ihn. Brücken: `konkretisiert` (PatV,
+PatKostG, IntPatÜG → PatG), `entspricht` (PatG → EPGÜ, IntPatÜG → EPatVO/EPGÜ), `implements` (PatG → DurchsetzungsRL, erzeugt aus
+`durchsetzungsrl.umsetzung_weitere["PatG"]`). Leitentscheidungen (`cases.py`) nennen nur Aktenzeichen und Datum; der Helfer `e()` holt URL und
+ECLI aus dem Korpus und bricht ab, wenn die Entscheidung dort fehlt. Das ersetzt die WebSearch-Verifikation aus Abschnitt 1.
+Karteikarten entstehen wie beim EPG nur für Vorschriften mit Begriff, Schema, Entscheidung oder Hinweis. Kurs: `kurse/p01_klausurtraining_ts.py`
+(Gebiet `patg`) nach dem Muster von Kurs 12 aus den TS-Klausuren (kandidatentreff.de, `klausuren/ts/`, Abschnitt 5a); die TS-Klausuren sind
+Lehrfälle ohne zugrunde liegende Beschlüsse, Lösungsskizzen gibt es nur für 2018. Fortschreiben: neue Klausur laden, `pdftotext`, Rechtsfragen als
+Einheiten mit `step:pat_schema_…` anhängen, Tabelle in `klausuren/README.md` ergänzen.
+
+**Aktualisieren.** Neue Entscheidungen: `python3 tools/fetch_patent.py --no-net`; neue Gesetzesfassung: Zip in `~/.cache/ipelico/patent/`
+löschen und ohne `--no-net` laufen lassen, dann `PATG_TITEL` und die Hinweise auf neue oder gestrichene Paragraphen prüfen; danach `build.py`,
+Rauchtest (Routen `#/bpatg`, `#/karte/eunorm:patg:3`, `#/karte/eunorm:intpatueg:II§6` sind enthalten).

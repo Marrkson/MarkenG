@@ -1,8 +1,12 @@
-"""Parst den Markdown-Gesetzestext des MarkenG (Spiegel von gesetze-im-internet.de
-im Repository bundestag/gesetze) in eine strukturierte JSON-Datei.
+"""Holt den amtlichen Text des MarkenG (gesetze-im-internet.de, XML-Fassung `markeng/xml.zip`) und legt ihn
+strukturiert unter data/markeng.json ab (mitversioniert; `build.py` läuft ohne Netz).
 
-Ausgabe: data/markeng.json mit einer Liste aller Paragraphen inkl. Gliederung
-(Teil / Abschnitt), Überschrift, Absätzen und Volltext.
+Ausgabe: Liste aller Paragraphen mit Gliederung (Teil / Abschnitt), Überschrift, Absätzen und Volltext.
+Der XML-Parser ist derselbe wie für PatG, PatV, IntPatÜG und PatKostG (tools/fetch_patent.py).
+Bis September 2026 kam der Text aus dem Markdown-Spiegel bundestag/gesetze (Stand 2018/2019); der war nach der
+Neunummerierung (Unionsmarken §§ 119 bis 125a statt §§ 125b bis 125i, IR-Marken §§ 107 bis 118) veraltet.
+
+Aufruf:  python3 src/parse_markeng.py      (XML-Zip im Cache ~/.cache/ipelico/patent/markeng.zip, sonst aus dem Netz)
 """
 import json
 import re
@@ -10,108 +14,43 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "data" / "markeng.md"
 OUT = ROOT / "data" / "markeng.json"
+sys.path.insert(0, str(ROOT / "tools"))
 
-HEADING = re.compile(r"^(#{2,4}) (.+?)\s*$")
-PARA = re.compile(r"^§ (\d+[a-z]?) (.+)$")
-ABSATZ = re.compile(r"^\((\d+[a-z]?)\) ")
-
-
-def clean(text: str) -> str:
-    text = re.sub(r"[ \t]+", " ", text)
-    text = re.sub(r"\n{3,}", "\n\n", text)
-    return text.strip()
+import fetch_patent  # noqa: E402
 
 
-def split_absaetze(body: str):
-    """Teilt den Paragraphentext in Absätze (1), (2) ... auf."""
-    lines = body.split("\n")
-    absaetze = []
-    current = {"nr": None, "text": []}
-    for line in lines:
-        m = ABSATZ.match(line)
-        if m:
-            if current["text"]:
-                absaetze.append(current)
-            current = {"nr": m.group(1), "text": [line[m.end():]]}
-        else:
-            current["text"].append(line)
-    if current["text"]:
-        absaetze.append(current)
-    result = []
-    for a in absaetze:
-        txt = clean("\n".join(a["text"]))
-        if txt:
-            result.append({"nr": a["nr"], "text": txt})
-    return result
+def _gliederung(s):
+    """„Teil 3 Verfahren in Markenangelegenheiten“ -> „Teil 3 - Verfahren in Markenangelegenheiten“ (bisherige Schreibweise)."""
+    return re.sub(r"^((?:Teil|Abschnitt) \d+[a-z]?) ", r"\1 - ", s) if s else s
 
 
-def parse():
-    md = SRC.read_text(encoding="utf-8")
-    lines = md.split("\n")
-    meta = {}
-    sections = []
-    teil = abschnitt = None
-    cur = None
-    buf = []
-    in_front = True
-
-    def flush():
-        nonlocal cur, buf
-        if cur is not None:
-            body = clean("\n".join(buf))
-            cur["absaetze"] = split_absaetze(body)
-            cur["text"] = body
-            sections.append(cur)
-        cur, buf = None, []
-
-    for line in lines:
-        m = HEADING.match(line)
-        if m:
-            level, title = len(m.group(1)), m.group(2).strip()
-            if title.startswith("Teil "):
-                flush()
-                teil = title
-                abschnitt = None
-                continue
-            if title.startswith("Abschnitt "):
-                flush()
-                abschnitt = title
-                continue
-            pm = PARA.match(title)
-            if pm:
-                flush()
-                in_front = False
-                cur = {
-                    "id": f"§ {pm.group(1)}",
-                    "nummer": pm.group(1),
-                    "titel": pm.group(2).strip(),
-                    "teil": teil,
-                    "abschnitt": abschnitt,
-                }
-                continue
-        if in_front:
-            mm = re.match(r"^(Ausfertigungsdatum|Fundstelle|Zuletzt geändert durch|Stand)$", line.strip())
-            if mm:
-                meta["_key"] = mm.group(1)
-            elif line.startswith(":   ") and meta.get("_key"):
-                meta[meta.pop("_key")] = line[4:].strip()
+def parse(net=True):
+    d = fetch_patent.parse_gesetz(dict(key="markeng", slug="markeng", kurz="MarkenG", datei="markeng.json"), net)
+    paragraphen = []
+    for p in d["paragraphen"]:
+        if not re.fullmatch(r"\d+[a-z]?", p["nr"]):   # „§§ 161 bis 163 (weggefallen)“
             continue
-        if cur is not None:
-            buf.append(line)
-    flush()
-    meta.pop("_key", None)
+        paragraphen.append({
+            "id": f"§ {p['nr']}",
+            "nummer": p["nr"],
+            "titel": re.sub(r"\s+", " ", p["titel"]),
+            "teil": _gliederung(p["teil"]),
+            "abschnitt": _gliederung(p["abschnitt"]),
+            "absaetze": p["absaetze"],
+            "text": p["text"],
+        })
+    meta = d["meta"]
     out = {
         "gesetz": "Gesetz über den Schutz von Marken und sonstigen Kennzeichen (Markengesetz - MarkenG)",
-        "quelle": "https://www.gesetze-im-internet.de/markeng/ (Spiegel: https://github.com/bundestag/gesetze/blob/master/m/markeng/index.md)",
-        "meta": meta,
-        "paragraphen": sections,
+        "quelle": meta["quelle"] + " (XML: " + meta["quelle_xml"] + ")",
+        "meta": {"Ausfertigungsdatum": meta["ausfertigung"], "Stand": "; ".join(meta["stand"]), "builddate": meta["builddate"]},
+        "paragraphen": paragraphen,
     }
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
-    print(f"{len(sections)} Paragraphen -> {OUT.relative_to(ROOT)}")
+    print(f"{len(paragraphen)} Paragraphen -> {OUT.relative_to(ROOT)} ({out['meta']['Stand']})")
     return out
 
 
 if __name__ == "__main__":
-    parse()
+    parse(net="--no-net" not in sys.argv)

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Baut alle Artefakte neu: Gesetz parsen -> Graph -> Karteikarten -> Lernnavigator -> IPelico (Fallkurs).
+"""Baut alle Artefakte neu (Gesetzestexte liegen fertig unter data/, Abruf: src/parse_markeng.py, tools/fetch_*.py): Graph -> Karteikarten -> Lernnavigator -> IPelico (Fallkurs).
 Der Ordner docs/ ist danach die fertige Website (IPelico unter /, Navigator unter /navigator/)."""
 import runpy
 import sys
@@ -7,5 +7,5 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 sys.path.insert(0, str(ROOT / "src"))
-for script in ["parse_markeng", "build_graph", "build_flashcards", "build_html", "build_kurs"]:
+for script in ["build_graph", "build_flashcards", "build_html", "build_kurs"]:
     runpy.run_path(str(ROOT / "src" / f"{script}.py"), run_name="__main__")

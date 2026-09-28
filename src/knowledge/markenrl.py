@@ -59,7 +59,7 @@ ARTIKEL = [
         ("5", "Die Mitgliedstaaten können vorsehen, dass Abs. 4 auch gilt, wenn die Unterscheidungskraft erst nach dem Anmeldetag, aber vor der Eintragung erlangt wurde.")],
         umsetzung=["§ 3 Abs. 2", "§ 8 Abs. 2", "§ 8 Abs. 3", "§ 50"], concepts=["absolute_schutzhindernisse", "unterscheidungskraft", "freihaltebeduerfnis", "uebliche_bezeichnung", "formausschluss", "taeuschung", "boesglaeubigkeit", "verkehrsdurchsetzung"],
         cases=["eugh_chiemsee", "eugh_philips_remington", "bgh_black_friday", "bgh_ritter_sport"],
-        hinweis="Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ (§ 3 Abs. 2 MarkenG), Bösgläubigkeit als zwingender Ungültigkeitsgrund (§ 8 Abs. 2 Nr. 14 MarkenG), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen (§ 8 Abs. 2 Nr. 9 bis 13 MarkenG)."),
+        hinweis="Neu gegenüber RL 2008/95: Formausschluss auch für „andere charakteristische Merkmale“ (§ 3 Abs. 2 MarkenG), Bösgläubigkeit als zwingender Ungültigkeitsgrund (§ 8 Abs. 2 Nr. 14 MarkenG), Schutz von Ursprungsbezeichnungen, Weinbezeichnungen, Spezialitäten und Sortenbezeichnungen (§ 8 Abs. 2 Nr. 9 bis 12 MarkenG)."),
     art(5, "Relative Eintragungshindernisse oder Ungültigkeitsgründe", K2, "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe", [
         ("1", "Ausgeschlossen oder ungültig ist eine Marke, (a) die mit einer älteren Marke identisch ist und für identische Waren angemeldet wurde, oder (b) wenn wegen Identität oder Ähnlichkeit mit der älteren Marke und der Waren für das Publikum Verwechslungsgefahr besteht, einschließlich der Gefahr gedanklicher Verbindung."),
         ("2", "„Ältere Marken“ sind: Unionsmarken, nationale und Benelux-Marken, international registrierte Marken mit Wirkung im Mitgliedstaat oder in der Union, jeweils mit früherem Anmeldetag (auch Priorität), Unionsmarken mit Seniorität, Anmeldungen solcher Marken vorbehaltlich ihrer Eintragung sowie notorisch bekannte Marken im Sinne des Art. 6bis PVÜ."),
@@ -67,15 +67,15 @@ ARTIKEL = [
         ("4", "Fakultative Gründe der Mitgliedstaaten: ältere Benutzungsmarken oder sonstige im Verkehr benutzte Kennzeichen, die ein Verbietungsrecht gewähren; sonstige ältere Rechte wie Name, Bildnis, Urheberrecht, gewerbliche Schutzrechte; Verwechslungsgefahr mit einer im Ausland benutzten Marke bei bösgläubiger Anmeldung."),
         ("5", "Keine Zurückweisung oder Ungültigerklärung, wenn der Inhaber des älteren Rechts der Eintragung zustimmt."),
         ("6", "Mitgliedstaaten können abweichend vorsehen, dass vor Inkrafttreten der Umsetzungsvorschriften der RL 89/104/EWG geltende Gründe weiter anwendbar sind.")],
-        umsetzung=["§ 9", "§ 10", "§ 11", "§ 12", "§ 13", "§ 42", "§ 51", "§ 125b"], concepts=["relative_schutzhindernisse", "verwechslungsgefahr", "doppelidentitaet", "relative_schutzhindernis_bekannt", "bekanntheit_union", "prioritaet"],
+        umsetzung=["§ 9", "§ 10", "§ 11", "§ 12", "§ 13", "§ 42", "§ 51", "§ 119"], concepts=["relative_schutzhindernisse", "verwechslungsgefahr", "doppelidentitaet", "relative_schutzhindernis_bekannt", "bekanntheit_union", "prioritaet"],
         cases=["eugh_sabel_puma", "eugh_canon", "eugh_thomson_life", "bgh_springender_pudel", "eugh_iron_smith"],
         hinweis="Der Bekanntheitsschutz im Register ist jetzt zwingend und gilt ausdrücklich auch bei identischen und ähnlichen Waren; § 9 Abs. 1 Nr. 3 MarkenG wurde entsprechend geändert (Streichung von „nicht ähnlich“)."),
     art(6, "Nachträgliche Feststellung der Ungültigkeit oder des Verfalls einer Marke", K2, "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe", [
         (None, "Wurde für eine Unionsmarke die Seniorität einer nationalen Marke in Anspruch genommen, auf die verzichtet wurde oder die erloschen ist, kann die Ungültigkeit oder der Verfall dieser nationalen Marke nachträglich festgestellt werden, sofern die Voraussetzungen schon im Zeitpunkt des Verzichts oder Erlöschens vorlagen; die Seniorität entfällt dann.")],
-        umsetzung=["§ 125c"], concepts=["senioritaet", "unionsmarke"]),
+        umsetzung=["§ 120"], concepts=["senioritaet", "unionsmarke"]),
     art(7, "Eintragungshindernisse und Ungültigkeitsgründe nur für einen Teil der Waren oder Dienstleistungen", K2, "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe", [
         (None, "Liegt ein Hindernis nur für einen Teil der Waren oder Dienstleistungen vor, wird die Marke nur für diesen Teil zurückgewiesen oder für ungültig erklärt.")],
-        umsetzung=["§ 37 Abs. 5", "§ 51 Abs. 5", "§ 50"], concepts=["absolute_schutzhindernisse", "nichtigkeit"]),
+        umsetzung=["§ 37 Abs. 5", "§ 51 Abs. 5", "§ 50 Abs. 4"], concepts=["absolute_schutzhindernisse", "nichtigkeit"]),
     art(8, "Fehlende Unterscheidungskraft oder Bekanntheit einer älteren Marke als Hindernis für die Nichtigerklärung einer eingetragenen Marke", K2, "Abschnitt 2 – Eintragungshindernisse und Ungültigkeitsgründe", [
         (None, "Ein Antrag auf Nichtigerklärung aufgrund einer älteren Marke ist erfolglos, wenn er am Anmelde- oder Prioritätstag der jüngeren Marke erfolglos gewesen wäre, weil (a) die ältere Marke damals nach Art. 4 Abs. 1 lit. b, c oder d für ungültig erklärt werden konnte und noch keine Unterscheidungskraft erlangt hatte, (b) noch keine Verwechslungsgefahr bestand, weil die ältere Marke noch nicht hinreichend unterscheidungskräftig war, oder (c) die ältere Marke noch nicht bekannt war.")],
         umsetzung=["§ 51 Abs. 3", "§ 51 Abs. 4", "§ 22"], concepts=["koexistenz_22", "relative_schutzhindernis_bekannt", "kennzeichnungskraft"],
@@ -127,13 +127,13 @@ ARTIKEL = [
         ("5", "Als Benutzung gilt auch (a) die Benutzung in einer nur in unwesentlichen Bestandteilen abweichenden Form, die den kennzeichnenden Charakter nicht verändert, unabhängig davon, ob die abweichende Form ebenfalls eingetragen ist, und (b) das Anbringen der Marke auf Waren oder Verpackungen ausschließlich für den Export."),
         ("6", "Die Benutzung mit Zustimmung des Inhabers gilt als Benutzung durch den Inhaber.")],
         umsetzung=["§ 26", "§ 25", "§ 115", "§ 116", "§ 117"], concepts=["rechtserhaltende_benutzung", "ernsthafte_benutzung", "abweichende_form", "benutzungsschonfrist", "ir_benutzungsschonfrist"], cases=["eugh_ansul", "bgh_voodoo", "bgh_dorzo", "bgh_probiotik"],
-        hinweis="Die Schonfrist beginnt jetzt mit dem Abschluss des Widerspruchsverfahrens (§ 26 Abs. 5 MarkenG neu); Benutzung in abweichender Form ist auch dann rechtserhaltend, wenn die abweichende Form selbst eingetragen ist (§ 26 Abs. 3 S. 2)."),
+        hinweis="Die Schonfrist beginnt jetzt mit dem Abschluss des Widerspruchsverfahrens (§ 26 Abs. 5 MarkenG neu); Benutzung in abweichender Form ist auch dann rechtserhaltend, wenn die abweichende Form selbst eingetragen ist (§ 26 Abs. 3)."),
     art(17, "Einrede der Nichtbenutzung in Verletzungsverfahren", K2, "Abschnitt 3 – Rechte aus der Marke und Beschränkungen", [
         (None, "Der Inhaber kann die Benutzung eines Zeichens nur verbieten, soweit seine Rechte zum Zeitpunkt der Klageerhebung nicht nach Art. 19 für verfallen erklärt werden könnten; auf Verlangen des Beklagten muss der Inhaber nachweisen, dass die Marke in den fünf Jahren vor Klageerhebung ernsthaft benutzt wurde oder berechtigte Gründe vorliegen, sofern die Schonfrist bei Klageerhebung abgelaufen war.")],
         umsetzung=["§ 25"], concepts=["nichtbenutzungseinrede"], cases=["bgh_voodoo"]),
     art(18, "Zwischenrecht des Inhabers einer später eingetragenen Marke als Einwand in Verletzungsverfahren", K2, "Abschnitt 3 – Rechte aus der Marke und Beschränkungen", [
         ("1", "Der Inhaber kann die Benutzung einer später eingetragenen Marke nicht verbieten, wenn diese jüngere Marke nach Art. 8, Art. 9 Abs. 1 oder 2 oder Art. 46 Abs. 3 nicht für ungültig erklärt werden könnte."),
-        ("2", "Ebenso nicht, wenn die jüngere Unionsmarke nach Art. 53 Abs. 1, 3 oder 4, Art. 54 Abs. 1 oder 2 oder Art. 57 Abs. 2 UMV nicht für nichtig erklärt werden könnte."),
+        ("2", "Ebenso nicht, wenn die jüngere Unionsmarke nach Art. 53 Abs. 1, 3 oder 4, Art. 54 Abs. 1 oder 2 oder Art. 57 Abs. 2 GMV (heute Art. 60 Abs. 1, 3 oder 4, Art. 61 Abs. 1 oder 2 oder Art. 64 Abs. 2 UMV) nicht für nichtig erklärt werden könnte."),
         ("3", "Kann der Inhaber der älteren Marke die Benutzung der jüngeren Marke danach nicht verbieten, kann auch deren Inhaber die Benutzung der älteren Marke nicht verbieten, obwohl diese nicht mehr gegen die jüngere geltend gemacht werden kann.")],
         umsetzung=["§ 22"], concepts=["koexistenz_22"],
         hinweis="Übernahme des unionsmarkenrechtlichen Zwischenrechts (Art. 16 UMV) in das nationale Recht; § 22 MarkenG wurde neu gefasst."),
@@ -206,7 +206,7 @@ ARTIKEL = [
         umsetzung=["§ 103"], concepts=["kollektivmarke"]),
     art(32, "Benutzung von Kollektivmarken", K2, "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken", [
         (None, "Art. 16 ist erfüllt, wenn eine zur Benutzung befugte Person die Kollektivmarke ernsthaft benutzt.")],
-        umsetzung=["§ 100 Abs. 2"], concepts=["kollektivmarke", "rechtserhaltende_benutzung"]),
+        umsetzung=["§ 100"], concepts=["kollektivmarke", "rechtserhaltende_benutzung"]),
     art(33, "Änderung der Satzung der Kollektivmarke", K2, "Abschnitt 6 – Garantie- oder Gewährleistungsmarken und Kollektivmarken", [
         ("1", "Der Inhaber legt jede geänderte Satzung dem Amt vor."),
         ("2", "Die Änderung wird im Register vermerkt, sofern sie den Anforderungen des Art. 30 entspricht und keinen Zurückweisungsgrund nach Art. 31 begründet."),
@@ -251,7 +251,7 @@ ARTIKEL = [
         umsetzung=["§ 40", "§ 46"], concepts=[]),
     art(42, "Klassengebühren", K3, "Abschnitt 1 – Anmeldung und Eintragung", [
         (None, "Die Mitgliedstaaten können für Anmeldung und Verlängerung eine zusätzliche Gebühr je Klasse jenseits der ersten Klasse vorsehen.")],
-        umsetzung=["§ 32 Abs. 4"], concepts=[]),
+        umsetzung=["§ 64a"], concepts=[]),
     art(43, "Widerspruchsverfahren", K3, "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit", [
         ("1", "Die Mitgliedstaaten sehen ein effizientes und zügiges Verwaltungsverfahren vor, mit dem gegen die Anmeldung auf Grundlage der Gründe des Art. 5 Widerspruch erhoben werden kann."),
         ("2", "Widerspruch kann zumindest der Inhaber einer älteren Marke nach Art. 5 Abs. 2 und Abs. 3 lit. a sowie der Berechtigte einer Ursprungsbezeichnung erheben; ein Widerspruch kann auf mehrere ältere Rechte desselben Inhabers gestützt werden und sich gegen einen Teil der Waren richten."),
@@ -261,8 +261,8 @@ ARTIKEL = [
     art(44, "Nichtbenutzung als Einrede im Widerspruchsverfahren", K3, "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit", [
         ("1", "War die Schonfrist der älteren Marke am Anmelde- oder Prioritätstag der jüngeren Marke abgelaufen, muss der Widersprechende auf Verlangen des Anmelders nachweisen, dass die ältere Marke in den fünf Jahren vor diesem Tag ernsthaft benutzt wurde oder berechtigte Gründe vorlagen; sonst wird der Widerspruch zurückgewiesen."),
         ("2", "Bei nur teilweiser Benutzung gilt die ältere Marke für die Prüfung nur für die benutzten Waren als eingetragen."),
-        ("3", "Bei älteren Unionsmarken bestimmt sich die ernsthafte Benutzung nach Art. 15 (jetzt Art. 18) UMV.")],
-        umsetzung=["§ 43 Abs. 1", "§ 125b"], concepts=["nichtbenutzungseinrede", "benutzung_union"], cases=["eugh_leno_merken"],
+        ("3", "Bei älteren Unionsmarken bestimmt sich die ernsthafte Benutzung nach Art. 15 GMV (jetzt Art. 18 UMV).")],
+        umsetzung=["§ 43 Abs. 1", "§ 119"], concepts=["nichtbenutzungseinrede", "benutzung_union"], cases=["eugh_leno_merken"],
         hinweis="Maßgeblicher Fünfjahreszeitraum ist der vor dem Anmelde-/Prioritätstag der jüngeren Marke (§ 43 Abs. 1 S. 1 MarkenG neu)."),
     art(45, "Verfahren zur Erklärung des Verfalls oder der Nichtigkeit", K3, "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit", [
         ("1", "Unbeschadet gerichtlicher Verfahren sehen die Mitgliedstaaten ein effizientes und zügiges Verwaltungsverfahren vor den Ämtern für die Erklärung des Verfalls oder der Nichtigkeit vor."),
@@ -270,16 +270,16 @@ ARTIKEL = [
         ("3", "Antragsbefugt sind mindestens: (a) bei Verfall und absoluten Ungültigkeitsgründen jede natürliche oder juristische Person sowie Verbände; (b) bei relativen Gründen die Inhaber der älteren Rechte."),
         ("4", "Der Antrag kann sich gegen einen Teil der Waren richten."),
         ("5", "Er kann auf mehrere ältere Rechte desselben Inhabers gestützt werden."),
-        ("6", "Bei Nichtigkeit aufgrund einer Unionsmarke gilt für deren Benutzung Art. 15 (jetzt Art. 18) UMV.")],
+        ("6", "Bei Nichtigkeit aufgrund einer Unionsmarke gilt für deren Benutzung Art. 15 GMV (jetzt Art. 18 UMV).")],
         umsetzung=["§ 53", "§ 54", "§ 55"], concepts=["verfall", "nichtigkeit", "verwaltungsverfahren_loeschung"],
-        hinweis="Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 UAbs. 2). Deutschland: seit 1.5.2020 vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG), daneben Klage nach § 55 nur noch für Verfall und relative Nichtigkeit."),
+        hinweis="Umsetzungsfrist bis 14. Januar 2023 (Art. 54 Abs. 1 MarkenRL). Deutschland: seit 1.5.2020 vollständiges Verfalls- und Nichtigkeitsverfahren vor dem DPMA (§ 53 MarkenG), daneben Klage nach § 55 nur noch für Verfall und relative Nichtigkeit."),
     art(46, "Nichtbenutzung als Einrede in Verfahren zur Erklärung der Nichtigkeit", K3, "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit", [
         ("1", "Der Inhaber der jüngeren Marke kann verlangen, dass der Antragsteller die ernsthafte Benutzung seiner älteren Marke in den fünf Jahren vor Antragstellung nachweist, wenn deren Schonfrist bei Antragstellung abgelaufen war."),
         ("2", "War die Schonfrist bereits am Anmelde- oder Prioritätstag der jüngeren Marke abgelaufen, muss zusätzlich die Benutzung in den fünf Jahren vor diesem Tag nachgewiesen werden."),
         ("3", "Ohne Nachweis wird der Antrag zurückgewiesen."),
         ("4", "Bei teilweiser Benutzung gilt die ältere Marke nur für die benutzten Waren als eingetragen."),
-        ("5", "Bei älteren Unionsmarken gilt Art. 15 (jetzt Art. 18) UMV.")],
-        umsetzung=["§ 53 Abs. 6", "§ 55 Abs. 3", "§ 125b"], concepts=["nichtbenutzungseinrede", "nichtigkeit"]),
+        ("5", "Bei älteren Unionsmarken gilt Art. 15 GMV (jetzt Art. 18 UMV).")],
+        umsetzung=["§ 53 Abs. 6", "§ 55 Abs. 3", "§ 119"], concepts=["nichtbenutzungseinrede", "nichtigkeit"]),
     art(47, "Wirkungen des Verfalls und der Nichtigkeit", K3, "Abschnitt 2 – Verfahren für Widerspruch, Verfall und Nichtigkeit", [
         ("1", "Bei Verfall gelten die Wirkungen der Marke ab dem Tag der Antragstellung als nicht mehr eingetreten; auf Antrag kann ein früherer Zeitpunkt festgesetzt werden, zu dem der Verfallsgrund eintrat."),
         ("2", "Bei Nichtigkeit gelten die Wirkungen der Marke als von Anfang an nicht eingetreten.")],

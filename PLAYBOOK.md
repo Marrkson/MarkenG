@@ -12,7 +12,7 @@ Ein Rechtsgebiet ist fertig, wenn es Folgendes gibt:
 
 | Artefakt | Pfad | Erzeugt durch |
 |---|---|---|
-| Gesetzestext (Markdown + JSON) | `data/<gesetz>.md`, `data/<gesetz>.json` | `src/parse_markeng.py` (zu verallgemeinern, s. Abschnitt 8) |
+| Gesetzestext (JSON aus dem amtlichen XML) | `data/<gesetz>.json` | `src/parse_markeng.py`, `tools/fetch_patent.py` (Parser `parse_gesetz`) |
 | Kuratiertes Wissen | `src/knowledge/{concepts,schemata,distinctions,cases,ipwiki}.py` | Hand |
 | Kurse (Fallformat) | `src/knowledge/kurse/k*.py` | Hand |
 | Wissensgraph | `graph/markenrecht_graph.json` | `src/build_graph.py` |
@@ -86,10 +86,13 @@ hinweise, Fallgruppen, Abgrenzungen, Leitentscheidungen in Klammern. **Kern** ei
 der Rechtssatz in eigenen Worten, nicht der Sachverhalt.
 
 Normzitate im Text folgen einem festen Muster, weil `gesetze.py` sie erkennt und verlinkt:
-`§ 14 Abs. 2 Nr. 2` (Standardgesetz des Projekts, hier MarkenG), `§ 242 BGB`, `Art. 5 Abs. 3 GG`,
-`Art. 10 MarkenRL`, Ketten `§§ 9 bis 13`, `§§ 3, 7, 8`, `§§ 23/24`. Für ein neues Gesetz:
-Abkürzung und Slug in `LAWS` eintragen (Slug = Pfad auf gesetze-im-internet.de), das
-Standardgesetz in `DEFAULT_LAW` setzen (bei mehreren Gesetzen s. Abschnitt 8).
+`§ 242 BGB`, `Art. 5 Abs. 3 GG`, `Art. 10 MarkenRL`, `§ 139 Abs. 1 PatG`, Ketten `§§ 9 bis 13`, `§§ 3, 7, 8`, `§§ 23/24`.
+Ein nacktes `§ 14 Abs. 2 Nr. 2` ist nur im Markenpaket erlaubt (Kontextgesetz MarkenG); in den Paketen Patent, Design
+und EPG nennt jedes Zitat sein Gesetz, auch `Art.`/`R.` (`Art. 33 EPGÜ`, `R. 19.1 VerfO`). Gemischte Ketten Glied für
+Glied benennen (`§ 14 Abs. 5 MarkenG, § 97 UrhG`); nur durch „,“/„und“/„oder“ verbundene Glieder übernehmen das Gesetz
+des letzten. Ältere Fassungen mit `a.F.` kennzeichnen (bleibt unverlinkt). Für ein neues Gesetz: Abkürzung und Slug in
+`LAWS` eintragen (Slug = Pfad auf gesetze-im-internet.de, `index.html` muss 200 liefern), ggf. Langform in `LONG_LAWS`,
+dann `python3 tools/check_zitate.py --net --update`.
 
 ## 3. Graph bauen (`src/build_graph.py`)
 
@@ -190,7 +193,9 @@ Fremdgesetze gehören in den Fließtext, wo `gesetze.py` sie verlinkt.
 
 ## 7. Qualitätssicherung vor jedem Push
 
-1. `python3 build.py` ohne Fehler.
+1. `python3 build.py` ohne Fehler, `python3 tools/check_zitate.py` ohne Fehler (jedes Zitat hat ein Gesetz, Paragraph,
+   Absatz und Nummer existieren im geltenden Text). Nach Gesetzesänderungen: `python3 src/parse_markeng.py`,
+   `tools/fetch_*.py`, `python3 tools/check_zitate.py --net --update` und `python3 tools/check_links.py` (ruft jeden Link ab).
 2. Rauchtest über einen lokalen HTTP-Server (Cookies brauchen http), Python-Playwright ist installiert:
    ```bash
    (cd docs && python3 -m http.server 8791 >/dev/null 2>&1 &)

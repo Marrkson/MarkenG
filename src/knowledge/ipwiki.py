@@ -79,7 +79,7 @@ IPWIKI = [
     dict(page="markenrecht:voraussetzungen_der_rechtserhaltenden_benutzung", title="Voraussetzungen der rechtserhaltenden Benutzung", summary="Inland, ernsthaft, für die eingetragenen Waren, durch den Inhaber oder mit Zustimmung."),
     dict(page="markenrecht:benutzung_einer_marke_in_abweichender_form", title="Benutzung einer Marke in abweichender Form", summary="§ 26 Abs. 3: kennzeichnender Charakter darf nicht verändert werden."),
     dict(page="markenrecht:rechtserhaltende_benutzung_einer_dienstleistungsmarke", title="Rechtserhaltende Benutzung einer Dienstleistungsmarke", summary="Besonderheiten bei Dienstleistungen."),
-    dict(page="markenrecht:benutzungsschonfrist", title="Benutzungsschonfrist", summary="Fünf Jahre ab Eintragung."),
+    dict(page="markenrecht:benutzungsschonfrist", title="Benutzungsschonfrist", summary="Fünf Jahre ab dem Tag, ab dem kein Widerspruch mehr gegen die Marke möglich ist (§ 26 Abs. 5 MarkenG)."),
     dict(page="markenrecht:nichtbenutzungseinrede", title="Nichtbenutzungseinrede", summary="§§ 25, 43 Abs. 1 MarkenG."),
     dict(page="markenrecht:markenbenutzung", title="Markenbenutzung", summary="Übersicht zu Benutzungsformen."),
     dict(page="markenrecht:verfall", title="Verfall", summary="§ 49 MarkenG."),
@@ -102,7 +102,7 @@ IPWIKI = [
     dict(page="markenrecht:werktitelschutz", title="Werktitelschutz", summary="Entstehung und Umfang des Titelschutzes."),
     dict(page="markenrecht:kennzeichenrechtlicher_werkbegriff", title="Kennzeichenrechtlicher Werkbegriff", summary="Weiter als der urheberrechtliche Werkbegriff; auch Apps und Software."),
     dict(page="markenrecht:lizenzanalogie", title="Lizenzanalogie", summary="Schadensberechnung nach angemessener Lizenzgebühr (BTK)."),
-    dict(page="markenrecht:markenrechtsrichtlinie:rechte_aus_der_marke", title="Markenrechtsrichtlinie: Rechte aus der Marke", summary="Art. 10 RL (EU) 2015/2436."),
+    dict(page="markenrecht:markenrechtsrichtlinie:rechte_aus_der_marke", title="Markenrechtsrichtlinie: Rechte aus der Marke", summary="Art. 10 MarkenRL (RL (EU) 2015/2436)."),
 ]
 
 IPWIKI_INDEX = {i["page"]: i for i in IPWIKI}

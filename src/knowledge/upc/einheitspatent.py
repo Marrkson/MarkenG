@@ -16,6 +16,7 @@ Brücken: `entspricht` (Artikel -> Artikel gleicher Funktion in EPGÜ/EPatVO), `
 Vorschrift, die sie durchführt); beide werden in build_graph.py als Kanten `entspricht` bzw. `konkretisiert` angelegt.
 """
 import json
+import re
 from pathlib import Path
 
 from .upca import schoen
@@ -174,12 +175,36 @@ def _rl(page, nr, title, summary):
                 url=a.get("url") or UP_RL_URL + "section_%s.html" % sec, provider="UP-Richtlinien")
 
 
+_LAWS_UP = r"(?:EPatVO|EPatÜVO|DOEPS|GebOEPS|EPÜ|EPGÜ|VerfO)"
+
+
+def _zitate(text):
+    """Zitierform der EPA-Richtlinien („Regel 5 (2) a) DOEPS“, „Art. 9 (1) c) Verordnung (EU) Nr. 1257/2012“,
+    „Art. 10 (2) a) des Europäischen Patentübereinkommens“) in die Zitierform der App („R. 5 Abs. 2 lit. a DOEPS“,
+    „Art. 9 Abs. 1 lit. c EPatVO“, „Art. 10 Abs. 2 lit. a EPÜ“), damit gesetze.py sie verlinkt."""
+    t = text
+    t = re.sub(r"Verordnung \(EU\) Nr\. 1257/2012", "EPatVO", t)
+    t = re.sub(r"Verordnung \(EU\) Nr\. 1260/2012", "EPatÜVO", t)
+    t = re.sub(r"des Europäischen Patentübereinkommens", "EPÜ", t)
+    t = re.sub(r"\bRegeln?\s+(?=\d)", "R. ", t)
+    # „Art. 9 (1) c)“ -> „Art. 9 Abs. 1 lit. c“; „(1), (5) und (8)“ -> „Abs. 1, 5 und 8“
+    t = re.sub(r"((?:Art\.|R\.) \d+[a-z]?(?: (?:und|bis) \d+[a-z]?)?) \((\d+)\)((?:, \(\d+\))*(?: und \(\d+\))?)(?: ([a-z])\))?",
+               lambda m: m.group(1) + " Abs. " + m.group(2) + re.sub(r"\((\d+)\)", r"\1", m.group(3) or "") + (" lit. " + m.group(4) if m.group(4) else ""), t)
+    # „Art. 3 Abs. 2 in Verbindung mit Art. 18 Abs. 2 Satz 2 EPatVO“: Gesetz auch dem ersten Glied geben
+    t = re.sub(r"((?:Art\.|R\.) \d+[a-z]?(?: Abs\. \d+)?(?: lit\. [a-z])?) (in Verbindung mit|i\.V\.m\.) ((?:Art\.|R\.) [^;()]*? (" + _LAWS_UP + r"))",
+               r"\1 \4 \2 \3", t)
+    return t
+
+
 def _kurz(text, n=260):
-    text = text.strip()
+    text = _zitate(text.strip())
     if len(text) <= n:
         return text
     cut = text[:n]
-    return cut[:max(cut.rfind(". "), cut.rfind("; "), n - 60) + 1].strip() + " …"
+    cut = cut[:max(cut.rfind(". "), cut.rfind("; "), n - 60) + 1].strip()
+    # kein abgeschnittenes Zitat ohne Gesetz am Ende („… (Art. 2 Abs. …“)
+    cut = re.sub(r"[\s(-]*(?:Art\.|R\.)\s+\d+[a-z]?(?:\s+(?:und|bis)\s+\d+[a-z]?)?(?:\s+Abs\.\s*\d*)?(?:\s+lit\.\s*[a-z]?)?\s*$", "", cut).rstrip(" (-")
+    return cut + " …"
 
 
 UP_RICHTLINIEN = [

@@ -73,10 +73,24 @@ def _clean(s):
 
 
 def _dl(s):
-    """<DL><DT>1.</DT><DD><LA>Text</LA></DD>…</DL> -> Zeilen „1. Text“ (verschachtelt einrücken)."""
-    out = []
-    for dt, dd in re.findall(r"<DT>(.*?)</DT>\s*<DD[^>]*>(.*?)</DD>", s, re.S):
-        out.append(_clean(dt) + " " + _content(dd).replace("\n", "\n   "))
+    """<DL><DT>1.</DT><DD><LA>Text</LA></DD>…</DL> -> Zeilen „1. Text“ (verschachtelt einrücken).
+    DD-Inhalte werden mit Tiefenzählung abgegrenzt, damit verschachtelte Listen („5. … a) … b) …“) erhalten bleiben."""
+    out, pos = [], 0
+    while True:
+        m = re.compile(r"<DT>(.*?)</DT>\s*<DD[^>]*>", re.S).search(s, pos)
+        if not m:
+            break
+        depth, i = 1, m.end()
+        for t in re.compile(r"<(/?)DD\b[^>]*>").finditer(s, m.end()):
+            depth += -1 if t.group(1) else 1
+            if depth == 0:
+                i = t.start()
+                pos = t.end()
+                break
+        else:
+            pos = len(s)
+            i = len(s)
+        out.append(_clean(m.group(1)) + " " + _content(s[m.end():i]).replace("\n", "\n   "))
     return "\n".join(out)
 
 
@@ -95,10 +109,19 @@ def _content(s):
     s = re.sub(r"<noindex>.*?</noindex>", "", s, flags=re.S)
     s = re.sub(r"<FnR\b[^>]*/>|<FnR\b.*?</FnR>", "", s, flags=re.S)
     parts, pos = [], 0
-    for m in re.finditer(r"<(DL|table)\b[^>]*>.*?</\1>", s, re.S):
+    while True:
+        m = re.compile(r"<(DL|table)\b[^>]*>").search(s, pos)
+        if not m:
+            break
+        depth, end = 1, len(s)   # verschachtelte Listen: bis zum passenden schließenden Tag
+        for t in re.compile(r"<(/?)%s\b[^>]*>" % m.group(1)).finditer(s, m.end()):
+            depth += -1 if t.group(1) else 1
+            if depth == 0:
+                end = t.end()
+                break
         parts.append(_clean(s[pos:m.start()]))
-        parts.append(_dl(m.group(0)) if m.group(1) == "DL" else _table(m.group(0)))
-        pos = m.end()
+        parts.append(_dl(s[m.start():end]) if m.group(1) == "DL" else _table(s[m.start():end]))
+        pos = end
     parts.append(_clean(s[pos:]))
     return "\n".join(p for p in parts if p).strip()
 

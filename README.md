@@ -15,7 +15,7 @@ und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
 | `graph/markenrecht_graph.json` | **Wissensgraph** (3.436 Knoten, ca. 12.200 Kanten; Markenrecht, Patentrecht, Designrecht und EPG in einem Graphen) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
-| `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
+| `data/markeng.json` | Gesetzestext des MarkenG (amtliches XML von gesetze-im-internet.de, `src/parse_markeng.py`) |
 | `data/patg.json`, `patv.json`, `intpatueg.json`, `patkostg.json` | Gesetzestexte PatG, PatV, IntPatÜG (IntPatÜbkG) und PatKostG aus der XML-Fassung von gesetze-im-internet.de (`tools/fetch_patent.py`) |
 | `data/patent_decisions.json`, `docs/patent_entscheidungen.json` | Entscheidungskorpus BPatG (Nichtigkeits-, Technische, Juristische und Gebrauchsmuster-Senate) und BGH (Patentsachen) aus der RheinIP-Datenbank: Metadaten, Leitsätze, zitierte Normen |
 | `src/knowledge/patent/` | Wissenspaket Patentrecht: Begriffe, Schemata, Abgrenzungen, Leitentscheidungen, Normfamilien mit Hinweisen und Brücken (siehe unten) |
@@ -166,7 +166,7 @@ drittes Feld als Tags.
 python3 build.py
 ```
 
-Die Pipeline parst `data/markeng.md`, baut den Graphen aus `src/knowledge/` (inklusive Kursen), erzeugt die Karten und
+Die Pipeline liest die Gesetzestexte aus `data/`, baut den Graphen aus `src/knowledge/` (inklusive Kursen), erzeugt die Karten und
 rendert beide Apps aus `src/templates/app.html` und `src/templates/kurs.html`; in IPelico werden dabei das SVG-Sprite
 (Icons, Zeichen) und die Plex-Schriften aus `src/templates/ipelico/` eingebettet. Inhalte werden ausschließlich in `src/knowledge/`
 gepflegt.
@@ -205,18 +205,24 @@ für Anki).
 Die Regeln stehen nur an einer Stelle, in `src/knowledge/gesetze.py`; die JavaScript-Fassung
 für die HTML-Apps wird daraus erzeugt (`js_source`), damit beide identisch verlinken:
 
-- Ohne Gesetzesangabe gilt das MarkenG: `§ 14 Abs. 2 Nr. 2` führt zu `markeng/__14.html`.
-- Andere deutsche Gesetze werden an ihrer Abkürzung erkannt (BGB, UWG, ZPO, GG, UrhG, PatG,
-  GebrMG, DesignG, HalblSchG, SortSchG, HGB, GKG und weitere; Tabelle `LAWS` im Modul).
-- Tabellen mit einer Spalte je Gesetz: `qualify(text, law)` hängt Zitaten ohne Gesetzesangabe das
-  Gesetz der Spalte an („§ 140b“ → „§ 140b PatG“), damit sie nicht auf das MarkenG verlinken.
-- Ketten werden je Vorschrift einzeln verlinkt: `§§ 9 bis 13`, `§§ 3, 7, 8`, `§§ 23/24`,
-  `§§ 112-125`.
-- Unionsrecht (MarkenRL, DurchsetzungsRL, UMV, AEUV) steht nicht auf gesetze-im-internet.de; Zitate führen deshalb auf
-  das Dokument bei EUR-Lex. Internationale Abkommen (PMMA, PVÜ) bleiben unverlinkt.
+- Gesetz hinter dem Zitat (`§ 139 Abs. 1 PatG`, `Art. 33 EPGÜ`, `R. 19.1 VerfO`) oder als Langform in Gesetzestexten
+  (`§ 125 des Patentgesetzes`, `§ 91 der Zivilprozessordnung`); in Leitsätzen auch davor (`PatG § 9 Nr. 1, § 139`).
+- Ketten übernehmen das Gesetz des letzten Glieds, wenn nur „,“, „und“, „oder“, „sowie“, „bzw.“ dazwischen stehen
+  (`§ 4, § 1 Nr. 4 DesignG`); eine Klammer direkt nach einem Kürzel gehört zu diesem Gesetz („im UrhG (§ 98 Abs. 3)“).
+- Ohne Gesetzesangabe gilt ein Kontextgesetz: im Normtext das Gesetz selbst, in Inhalten des Markenpakets das MarkenG.
+  In den Paketen Patent, Design und EPG gibt es keins – dort muss jedes Zitat sein Gesetz nennen.
+- Verlinkt wird nur eine Vorschrift, die es gibt (`data/gesetze_paragraphen.json`); `… a.F.` bleibt unverlinkt.
+- Andere deutsche Gesetze werden an ihrer Abkürzung erkannt (Tabelle `LAWS`, rund 55 Gesetze). Unionsrecht und
+  Staatsverträge (UMV, MarkenRL, EPGÜ, VerfO, GGV, PVÜ, PMMA, TRIPS, EMRK …) führen auf das Gesamtdokument
+  (EUR-Lex, WIPO, WTO), EPÜ-Artikel und -Regeln einzeln auf epo.org.
+- Tabellen mit einer Spalte je Gesetz: `qualify(text, law)` hängt Zitaten ohne Gesetzesangabe das Gesetz der Spalte an.
+- Ketten werden je Vorschrift einzeln verlinkt: `§§ 9 bis 13`, `§§ 3, 7, 8`, `§§ 23/24`.
 - Normen-Chips tragen zusätzlich ein ↗ direkt zur amtlichen Fassung.
 
-Erkennung prüfen: `python3 src/knowledge/gesetze.py` gibt Beispielzitate mit Links aus.
+Prüfen: `python3 src/knowledge/gesetze.py` (Beispielzitate), `python3 tools/check_zitate.py` (jedes Zitat aller Inhalte:
+Gesetz vorhanden, Paragraph/Absatz/Nummer existiert im geltenden Text; `--net --update` lädt die Normtexte und schreibt
+`data/gesetze_paragraphen.json`), `python3 tools/check_links.py` (ruft jeden erzeugten Link ab).
+
 
 ## Quellen und Hinweise
 

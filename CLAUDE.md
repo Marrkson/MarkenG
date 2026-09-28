@@ -4,11 +4,13 @@
   `data/*.json` sind generiert (`python3 build.py`) und werden mitversioniert.
 - Vorgehen für neue Rechtsgebiete, Datenmodell, Konventionen und Prüfschritte: `PLAYBOOK.md`.
 - Gesetzeszitate im Text so schreiben, dass `src/knowledge/gesetze.py` sie erkennt
-  (`§ 14 Abs. 2 Nr. 2`, `§ 242 BGB`, `Art. 10 MarkenRL`); sie werden automatisch verlinkt.
+  (`§ 14 Abs. 2 Nr. 2`, `§ 242 BGB`, `Art. 10 MarkenRL`); sie werden automatisch verlinkt. Nacktes `§` nur im Markenpaket
+  (= MarkenG); in Patent, Design, EPG jedes Zitat mit Gesetz (`§ 139 PatG`, `Art. 33 EPGÜ`, `R. 19.1 VerfO`). MarkenG in der
+  Fassung von 2026 zitieren (Unionsmarken §§ 119 bis 125a, nicht §§ 125b ff.). Prüfung: `python3 tools/check_zitate.py`.
 - Gestaltung der Kursapp IPelico: `DESIGN.md` ist verbindlich (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons);
   Assets liegen in `src/templates/ipelico/` und werden als SVG-Sprite (`__SPRITE__`) und Schriften
   (`__FONTS__`) eingebettet. Icons erzeugt `tools/gen_assets.py` (Gemini + potrace).
-- Vor jedem Push: `python3 build.py` fehlerfrei, `python3 tools/smoke_test.py` über lokalen HTTP-Server
+- Vor jedem Push: `python3 build.py` und `python3 tools/check_zitate.py` fehlerfrei, `python3 tools/smoke_test.py` über lokalen HTTP-Server
   (siehe `PLAYBOOK.md` Abschnitt 7).
 - Aktenzeichen und Daten von Entscheidungen nie ungeprüft übernehmen; per WebSearch verifizieren.
 - Klausur-PDFs unter `klausuren/` sind nicht versioniert; Zuordnung Klausur → Beschluss steht in

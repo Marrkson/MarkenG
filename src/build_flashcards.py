@@ -27,7 +27,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
-from knowledge.gesetze import linkify  # noqa: E402
+from knowledge.gesetze import linkify, qualify, LAWS, EU_LAWS, ARTICLE_URLS  # noqa: E402
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
 OUTDIR = ROOT / "flashcards"
 
@@ -60,8 +60,22 @@ def outline(by_id, out, nid, depth=0, max_depth=2):
 
 
 def fmt_norms(refs):
-    """'§ 14 Abs. 2' -> '§ 14 Abs. 2 MarkenG'; EU-/EPG-Zitate tragen ihr Gesetz schon im Text."""
-    return ", ".join(r + " MarkenG" if r.startswith("§") else r for r in refs)
+    """'§ 14 Abs. 2' -> '§ 14 Abs. 2 MarkenG'; Zitate mit Gesetz ('§ 139 PatG', 'Art. 9 UMV') bleiben, wie sie sind."""
+    return ", ".join(qualify(r, "MarkenG") for r in refs)
+
+
+def card_law(node):
+    """Kontextgesetz für Zitate ohne Gesetzesangabe (wie in den Apps): Normtext -> das Gesetz selbst (MarkenRL-Karten:
+    MarkenG wegen der Umsetzungshinweise), Markenpaket -> MarkenG, Pakete Patent/Design/EPG -> keins."""
+    if node.get("type") == "norm":
+        return "MarkenG"
+    if node.get("type") == "eunorm":
+        if node.get("rl") == "markenrl":
+            return "MarkenG"
+        k = node.get("kurz")
+        return k if k in LAWS or k in EU_LAWS or k in ARTICLE_URLS else ""
+    s = node["id"].split(":", 1)[1]
+    return "" if s.startswith(("pat_", "d_pat_", "des_", "d_des_", "upc_", "d_upc_")) else "MarkenG"
 
 
 def generate(graph):
@@ -69,7 +83,7 @@ def generate(graph):
     cards = []
 
     def add(typ, front, back, tags, node, extra=None):
-        c = dict(id=f"card:{typ}:{node}", typ=typ, front=front, back=back, tags=tags, node=node)
+        c = dict(id=f"card:{typ}:{node}", typ=typ, front=front, back=back, tags=tags, node=node, law=card_law(by_id[node]))
         if extra:
             c.update(extra)
         cards.append(c)
@@ -186,8 +200,8 @@ def write(cards):
     with (OUTDIR / "karteikarten.csv").open("w", encoding="utf-8", newline="") as f:
         w = csv.writer(f, delimiter="\t", quoting=csv.QUOTE_MINIMAL)
         for c in cards:
-            front = linkify(c["front"], "html").replace("\n", "<br>")
-            back = linkify(c["back"], "html").replace("\n", "<br>")
+            front = linkify(c["front"], "html", law=c["law"]).replace("\n", "<br>")
+            back = linkify(c["back"], "html", law=c["law"]).replace("\n", "<br>")
             w.writerow([front, back, " ".join(t.replace(" ", "_") for t in c["tags"])])
     md = ["# Karteikarten Markenrecht und Einheitliches Patentgericht", "", f"{len(cards)} Karten, generiert aus graph/markenrecht_graph.json.", ""]
     current = None
@@ -195,8 +209,8 @@ def write(cards):
         if c["typ"] != current:
             current = c["typ"]
             md += [f"## {current}", ""]
-        md += [f"**F:** {linkify(c['front'], 'markdown')}", "",
-               f"**A:** {linkify(c['back'], 'markdown')}", "",
+        md += [f"**F:** {linkify(c['front'], 'markdown', law=c['law'])}", "",
+               f"**A:** {linkify(c['back'], 'markdown', law=c['law'])}", "",
                f"*Tags: {', '.join(c['tags'])}*", "", "---", ""]
     (OUTDIR / "karteikarten.md").write_text("\n".join(md), encoding="utf-8")
     from collections import Counter

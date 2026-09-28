@@ -115,7 +115,7 @@ ARTIKEL = [
         weitere={"PatG": "§ 140c Abs. 3, Abs. 5", "GebrMG": "§ 24c Abs. 3, Abs. 5", "DesignG": "§ 46a Abs. 3, Abs. 5", "UrhG": "§ 101a Abs. 3, Abs. 5", "HalblSchG": "§ 9 Abs. 2 i.V.m. § 24c GebrMG", "SortSchG": "§ 37c Abs. 3, Abs. 5",
                  "Allgemeines Recht": "§§ 485 ff. ZPO (selbständiges Beweisverfahren); §§ 935 ff. ZPO, § 937 Abs. 2 ZPO, § 921 ZPO, § 926 ZPO, § 945 ZPO"},
         concepts=["vorlage_besichtigung", "einstweilige_verfuegung"], cases=["bgh_faxkarte"],
-        hinweis="Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besichtigung (§ 19a Abs. 3), auch ohne Anhörung, mit Geheimnisschutz („Düsseldorfer Verfahren“: Besichtigung durch einen zur Verschwiegenheit verpflichteten Sachverständigen). Abs. 4 entspricht § 19a Abs. 5 (verschuldensunabhängiger Schadensersatz, wenn keine Verletzung vorlag) und allgemein § 945 ZPO."),
+        hinweis="Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besichtigung (§ 19a Abs. 3 MarkenG), auch ohne Anhörung, mit Geheimnisschutz („Düsseldorfer Verfahren“: Besichtigung durch einen zur Verschwiegenheit verpflichteten Sachverständigen). Abs. 4 entspricht § 19a Abs. 5 MarkenG (verschuldensunabhängiger Schadensersatz, wenn keine Verletzung vorlag) und allgemein § 945 ZPO."),
 
     # ---------------- Kapitel II, Abschnitt 3 ----------------
     art(8, "Recht auf Auskunft", K2, A3, [
@@ -127,7 +127,7 @@ ARTIKEL = [
                  "Allgemeines Recht": "§ 242 BGB (unselbständige Auskunft zur Bezifferung); §§ 383 bis 385 ZPO (Zeugnisverweigerung = Abs. 3 lit. d)"},
         concepts=["drittauskunft", "vernichtung_auskunft", "gewerbliches_ausmass"],
         cases=["eugh_coty_stadtsparkasse", "bgh_davidoff_hot_water_ii", "eugh_constantin_film", "eugh_new_wave", "eugh_promusicae", "eugh_mircom"],
-        hinweis="Kernstück der Richtlinie. Zuordnung: Abs. 1 lit. a bis d = § 19 Abs. 2 S. 1 Nr. 1 bis 4 MarkenG (Drittauskunft bei offensichtlicher Verletzung oder nach Klageerhebung); Abs. 2 = § 19 Abs. 3; Abs. 3 lit. d = Zeugnisverweigerungsrecht (§§ 383 bis 385 ZPO); Abs. 3 lit. e = Richtervorbehalt für Verkehrsdaten (§ 19 Abs. 9). „Adressen“ meint nur die Postanschrift (Constantin Film); das Bankgeheimnis rechtfertigt keine pauschale Verweigerung (Coty, Davidoff Hot Water II); der Anspruch kann auch in einem gesonderten Verfahren nach dem Verletzungsprozess verfolgt werden (NEW WAVE)."),
+        hinweis="Kernstück der Richtlinie. Zuordnung: Abs. 1 lit. a bis d = § 19 Abs. 2 S. 1 Nr. 1 bis 4 MarkenG (Drittauskunft bei offensichtlicher Verletzung oder nach Klageerhebung); Abs. 2 = § 19 Abs. 3 MarkenG; Abs. 3 lit. d = Zeugnisverweigerungsrecht (§§ 383 bis 385 ZPO); Abs. 3 lit. e = Richtervorbehalt für Verkehrsdaten (§ 19 Abs. 9 MarkenG). „Adressen“ meint nur die Postanschrift (Constantin Film); das Bankgeheimnis rechtfertigt keine pauschale Verweigerung (Coty, Davidoff Hot Water II); der Anspruch kann auch in einem gesonderten Verfahren nach dem Verletzungsprozess verfolgt werden (NEW WAVE)."),
 
     # ---------------- Kapitel II, Abschnitt 4 ----------------
     art(9, "Einstweilige Maßnahmen und Sicherungsmaßnahmen", K2, A4, [
@@ -142,7 +142,7 @@ ARTIKEL = [
         weitere={"PatG": "§ 140d (Sicherung); keine Dringlichkeitsvermutung", "GebrMG": "§ 24d", "DesignG": "§ 46b", "UrhG": "§ 101b", "HalblSchG": "§ 9 Abs. 2 i.V.m. § 24d GebrMG", "SortSchG": "§ 37d",
                  "Allgemeines Recht": "§§ 935 ff. ZPO (Abs. 1 lit. a), § 938 Abs. 2 ZPO Sequestration (lit. b), §§ 916 ff. ZPO dinglicher Arrest (Abs. 2), § 920 Abs. 2 ZPO Glaubhaftmachung (Abs. 3), § 937 Abs. 2 ZPO (Abs. 4), § 926 ZPO (Abs. 5), § 921 ZPO (Abs. 6), § 945 ZPO (Abs. 7)"},
         concepts=["einstweilige_verfuegung", "sicherung_schadensersatz", "mittelsperson_anordnung"], cases=["eugh_bayer_richter", "eugh_tommy_hilfiger"],
-        hinweis="Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG ergänzt nur die Dringlichkeitsvermutung des § 140 Abs. 3 (Unterlassung; erst seit dem MaMoG 2019, nicht richtliniengetrieben), die Eilauskunft (§ 19 Abs. 7) und die Vorlageverfügung (§ 19a Abs. 3). Abs. 2 (Kontosperre, Unterlagen) = § 19b MarkenG plus Arrest. Abs. 7 = § 945 ZPO, der verschuldensunabhängig haftet und damit über die Richtlinie hinausgeht (EuGH Bayer/Richter: „angemessener Ersatz“ erlaubt die Berücksichtigung eigenen Risikos des Antragsgegners)."),
+        hinweis="Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG ergänzt nur die Dringlichkeitsvermutung des § 140 Abs. 3 MarkenG (Unterlassung; erst seit dem MaMoG 2019, nicht richtliniengetrieben), die Eilauskunft (§ 19 Abs. 7 MarkenG) und die Vorlageverfügung (§ 19a Abs. 3 MarkenG). Abs. 2 (Kontosperre, Unterlagen) = § 19b MarkenG plus Arrest. Abs. 7 = § 945 ZPO, der verschuldensunabhängig haftet und damit über die Richtlinie hinausgeht (EuGH Bayer/Richter: „angemessener Ersatz“ erlaubt die Berücksichtigung eigenen Risikos des Antragsgegners)."),
 
     # ---------------- Kapitel II, Abschnitt 5 ----------------
     art(10, "Abhilfemaßnahmen", K2, A5, [
@@ -153,7 +153,7 @@ ARTIKEL = [
         weitere={"PatG": "§ 140a Abs. 1 bis 4", "GebrMG": "§ 24a", "DesignG": "§ 43 (Abs. 3: Überlassung gegen Vergütung)", "UrhG": "§ 98 (Abs. 3: Überlassung)", "HalblSchG": "§ 9 Abs. 2 i.V.m. § 24a GebrMG", "SortSchG": "§ 37a",
                  "Allgemeines Recht": "Beseitigungsanspruch (§ 1004 BGB analog); Vollstreckung §§ 883, 887 ZPO"},
         concepts=["vernichtung_auskunft"],
-        hinweis="Abs. 1 lit. a und b sind der Rückruf- und Entfernungsanspruch des § 18 Abs. 2 MarkenG (neu seit 2008), lit. c der Vernichtungsanspruch des § 18 Abs. 1; Abs. 3 ist der Verhältnismäßigkeitsvorbehalt des § 18 Abs. 3 einschließlich der Interessen Dritter (etwa gutgläubiger Abnehmer). Kein Verschulden erforderlich."),
+        hinweis="Abs. 1 lit. a und b sind der Rückruf- und Entfernungsanspruch des § 18 Abs. 2 MarkenG (neu seit 2008), lit. c der Vernichtungsanspruch des § 18 Abs. 1 MarkenG; Abs. 3 ist der Verhältnismäßigkeitsvorbehalt des § 18 Abs. 3 MarkenG einschließlich der Interessen Dritter (etwa gutgläubiger Abnehmer). Kein Verschulden erforderlich."),
     art(11, "Gerichtliche Anordnungen", K2, A5, [
         (None, "Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte bei Feststellung einer Verletzung eines Rechts des geistigen Eigentums eine Anordnung gegen den Verletzer erlassen können, die ihm die weitere Verletzung des betreffenden Rechts untersagt. Sofern dies nach dem Recht eines Mitgliedstaats vorgesehen ist, werden im Falle einer Missachtung dieser Anordnung in geeigneten Fällen Zwangsgelder verhängt, um die Einhaltung der Anordnung zu gewährleisten. Unbeschadet des Artikels 8 Absatz 3 der Richtlinie 2001/29/EG stellen die Mitgliedstaaten ferner sicher, dass die Rechtsinhaber eine Anordnung gegen Mittelspersonen beantragen können, deren Dienste von einem Dritten zwecks Verletzung eines Rechts des geistigen Eigentums in Anspruch genommen werden.")],
         umsetzung=["§ 14 Abs. 5", "§ 15 Abs. 4"],
@@ -161,7 +161,7 @@ ARTIKEL = [
                  "Allgemeines Recht": "§ 890 ZPO (Ordnungsgeld, Ordnungshaft); Störerhaftung nach der Rechtsprechung des BGH für Mittelspersonen"},
         concepts=["unterlassungsanspruch", "mittelsperson_anordnung", "stoererhaftung"],
         cases=["eugh_loreal_ebay", "eugh_tommy_hilfiger", "bgh_internet_versteigerung_ii", "bgh_kinderhochstuehle"],
-        hinweis="Satz 1 = Unterlassungsanspruch (§ 14 Abs. 5), Satz 2 = Vollstreckung über § 890 ZPO. Satz 3 verlangt Anordnungen gegen Mittelspersonen unabhängig von deren eigener Haftung; Deutschland erfüllt das mit der Störerhaftung (Unterlassung ohne Verschulden bei Verletzung zumutbarer Prüfpflichten). Die Anordnung muss auch künftige gleichartige Verletzungen verhindern, darf aber keine allgemeine Überwachungspflicht begründen (L'Oréal/eBay); Mittelsperson kann auch der Betreiber einer physischen Markthalle sein (Tommy Hilfiger)."),
+        hinweis="Satz 1 = Unterlassungsanspruch (§ 14 Abs. 5 MarkenG), Satz 2 = Vollstreckung über § 890 ZPO. Satz 3 verlangt Anordnungen gegen Mittelspersonen unabhängig von deren eigener Haftung; Deutschland erfüllt das mit der Störerhaftung (Unterlassung ohne Verschulden bei Verletzung zumutbarer Prüfpflichten). Die Anordnung muss auch künftige gleichartige Verletzungen verhindern, darf aber keine allgemeine Überwachungspflicht begründen (L'Oréal/eBay); Mittelsperson kann auch der Betreiber einer physischen Markthalle sein (Tommy Hilfiger)."),
     art(12, "Ersatzmaßnahmen", K2, A5, [
         (None, "Die Mitgliedstaaten können vorsehen, dass die zuständigen Gerichte in entsprechenden Fällen und auf Antrag der Person, der die in diesem Abschnitt vorgesehenen Maßnahmen auferlegt werden könnten, anordnen können, dass anstelle der Anwendung der genannten Maßnahmen eine Abfindung an die geschädigte Partei zu zahlen ist, sofern die betreffende Person weder vorsätzlich noch fahrlässig gehandelt hat, ihr aus der Durchführung der betreffenden Maßnahmen ein unverhältnismäßig großer Schaden entstehen würde und die Zahlung einer Abfindung an die geschädigte Partei als angemessene Entschädigung erscheint.")],
         umsetzung=[],
@@ -178,7 +178,7 @@ ARTIKEL = [
         weitere={"PatG": "§ 139 Abs. 2", "GebrMG": "§ 24 Abs. 2", "DesignG": "§ 42 Abs. 2", "UrhG": "§ 97 Abs. 2 (S. 4: immaterieller Schaden)", "HalblSchG": "§ 9 Abs. 1 S. 2, 3", "SortSchG": "§ 37 Abs. 2",
                  "Allgemeines Recht": "Abs. 2: Eingriffskondiktion § 812 Abs. 1 S. 1 Alt. 2 BGB; § 852 BGB über § 20 S. 2 MarkenG"},
         concepts=["schadensersatz", "lizenzanalogie"], cases=["eugh_liffers", "eugh_otk", "bgh_btk"],
-        hinweis="Das Durchsetzungsgesetz hat die dreifache Schadensberechnung in allen Schutzrechtsgesetzen kodifiziert (§ 14 Abs. 6 S. 2: Verletzergewinn, S. 3: Lizenzanalogie). Verschulden bleibt Voraussetzung („wusste oder hätte wissen müssen“). Der Pauschalbetrag nach lit. b ist eine Untergrenze („mindestens“), immaterieller Schaden kann hinzukommen (Liffers); strengere nationale Regeln wie die doppelte Lizenzgebühr sind zulässig (OTK). Für den schuldlosen Verletzer (Abs. 2) greift in Deutschland die Eingriffskondiktion."),
+        hinweis="Das Durchsetzungsgesetz hat die dreifache Schadensberechnung in allen Schutzrechtsgesetzen kodifiziert (§ 14 Abs. 6 S. 2 MarkenG: Verletzergewinn, S. 3: Lizenzanalogie). Verschulden bleibt Voraussetzung („wusste oder hätte wissen müssen“). Der Pauschalbetrag nach lit. b ist eine Untergrenze („mindestens“), immaterieller Schaden kann hinzukommen (Liffers); strengere nationale Regeln wie die doppelte Lizenzgebühr sind zulässig (OTK). Für den schuldlosen Verletzer (Abs. 2) greift in Deutschland die Eingriffskondiktion."),
     art(14, "Prozesskosten", K2, A6, [
         (None, "Die Mitgliedstaaten stellen sicher, dass die Prozesskosten und sonstigen Kosten der obsiegenden Partei in der Regel, soweit sie zumutbar und angemessen sind, von der unterlegenen Partei getragen werden, sofern Billigkeitsgründe dem nicht entgegenstehen.")],
         umsetzung=["§ 140 Abs. 4", "§ 142"],
@@ -194,12 +194,12 @@ ARTIKEL = [
         weitere={"PatG": "§ 140e", "GebrMG": "§ 24e", "DesignG": "§ 47", "UrhG": "§ 103", "HalblSchG": "§ 9 Abs. 2 i.V.m. § 24e GebrMG", "SortSchG": "§ 37e",
                  "Allgemeines Recht": "strafrechtlich § 143 Abs. 6 MarkenG; § 12 Abs. 3 UWG a.F. (Vorbild)"},
         concepts=["urteilsbekanntmachung"],
-        hinweis="§ 19c: Befugnis der obsiegenden Partei (auch des Beklagten) bei berechtigtem Interesse; Art und Umfang bestimmt das Urteil; Erlöschen drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar. Wortgleich in allen Schutzrechtsgesetzen."),
+        hinweis="§ 19c MarkenG: Befugnis der obsiegenden Partei (auch des Beklagten) bei berechtigtem Interesse; Art und Umfang bestimmt das Urteil; Erlöschen drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar. Wortgleich in allen Schutzrechtsgesetzen."),
 
     # ---------------- Kapitel III ----------------
     art(16, "Sanktionen der Mitgliedstaaten", K3, None, [
         (None, "Unbeschadet der in dieser Richtlinie vorgesehenen zivil- und verwaltungsrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe können die Mitgliedstaaten in Fällen von Verletzungen von Rechten des geistigen Eigentums andere angemessene Sanktionen vorsehen.")],
-        umsetzung=["§ 143", "§ 143a", "§ 144", "§ 146"],
+        umsetzung=["§ 143", "§ 144", "§ 145", "§ 146"],
         weitere={"PatG": "§ 142 (Strafvorschrift); §§ 142a, 142b (Zollbeschlagnahme)", "GebrMG": "§ 25; §§ 25a, 25b", "DesignG": "§ 51; §§ 55 ff.", "UrhG": "§§ 106 bis 111a; § 111b", "HalblSchG": "§ 10; § 9 Abs. 2 i.V.m. §§ 25a, 25b GebrMG", "SortSchG": "§ 39; § 40a",
                  "Allgemeines Recht": "Verordnung (EU) Nr. 608/2013 (Grenzbeschlagnahme); Art. 61 TRIPS"},
         concepts=["transit"],
@@ -255,43 +255,43 @@ ERWAEGUNGSGRUENDE = [
 # Umsetzungstabelle: Artikel -> Vorschriften in allen Gesetzen des gewerblichen Rechtsschutzes.
 # Reihenfolge der Spalten wie GESETZE; für die Abgrenzungs-Ansicht als distinction exportiert.
 UMSETZUNG = [
-    ("Art. 2 Abs. 1 – Günstigere Vorschriften bleiben unberührt (Mindestharmonisierung)",
+    ("Art. 2 Abs. 1 DurchsetzungsRL – Günstigere Vorschriften bleiben unberührt (Mindestharmonisierung)",
      ["§ 19d", "§ 141a", "§ 24g", "§ 50", "§ 102a", "§ 9 Abs. 4", "§ 37g", "UWG, §§ 823, 826, 812 BGB, GoA (EuGH OTK: strengere Regeln zulässig)"]),
-    ("Art. 3 – Allgemeine Verpflichtung: fair, wirksam, verhältnismäßig, abschreckend, kein Missbrauch",
+    ("Art. 3 DurchsetzungsRL – Allgemeine Verpflichtung: fair, wirksam, verhältnismäßig, abschreckend, kein Missbrauch",
      ["§ 18 Abs. 3, § 19 Abs. 4, § 19a Abs. 2, § 19b Abs. 2", "§ 139 Abs. 1 S. 3 bis 5, § 140a Abs. 4, § 140b Abs. 4, § 140c Abs. 2", "§ 24 Abs. 1 S. 3 bis 5, § 24a Abs. 3, § 24b Abs. 4, § 24c Abs. 2", "§ 43 Abs. 4, § 46 Abs. 4, § 46a Abs. 2", "§ 98 Abs. 4, § 101 Abs. 4, § 101a Abs. 2", "§ 9 Abs. 2 (§§ 24a bis 24c GebrMG)", "§ 37a Abs. 3, § 37b Abs. 4, § 37c Abs. 2", "§ 242 BGB; Auslegungsmaßstab für alle Durchsetzungsnormen (EuGH NovaText, Mircom)"]),
-    ("Art. 4 – Antragsbefugte: Inhaber, Lizenznehmer, Verwertungsgesellschaften, Verbände",
+    ("Art. 4 DurchsetzungsRL – Antragsbefugte: Inhaber, Lizenznehmer, Verwertungsgesellschaften, Verbände",
      ["§ 14 Abs. 1, § 28 Abs. 1; Lizenznehmer § 30 Abs. 3, 4", "§ 139 („Verletzter“); Lizenz § 15 Abs. 2", "§ 24; Lizenz § 22 Abs. 2", "§ 42 Abs. 1; Lizenznehmer § 31 Abs. 3, 4", "§ 97; Verwertungsgesellschaften nach VGG", "§ 9 Abs. 1", "§ 37 Abs. 1; § 11 Abs. 2", "Prozessstandschaft, Abtretung (EuGH Mircom)"]),
-    ("Art. 5 – Urheber- oder Inhabervermutung",
+    ("Art. 5 DurchsetzungsRL – Urheber- oder Inhabervermutung",
      ["– (Registervermutung § 28 Abs. 1)", "– (§ 30 Abs. 3)", "–", "–", "§ 10", "–", "–", "nur Urheberrecht und verwandte Schutzrechte"]),
-    ("Art. 6 – Beweise: Vorlage von Beweismitteln, Bank-, Finanz- und Handelsunterlagen",
+    ("Art. 6 DurchsetzungsRL – Beweise: Vorlage von Beweismitteln, Bank-, Finanz- und Handelsunterlagen",
      ["§ 19a Abs. 1", "§ 140c Abs. 1", "§ 24c Abs. 1", "§ 46a Abs. 1", "§ 101a Abs. 1", "§ 9 Abs. 2 (§ 24c GebrMG)", "§ 37c Abs. 1", "§§ 142, 144 ZPO; § 809 BGB"]),
-    ("Art. 7 – Beweissicherung: einstweilige Maßnahmen, ohne Anhörung, Schadensersatz bei Aufhebung",
+    ("Art. 7 DurchsetzungsRL – Beweissicherung: einstweilige Maßnahmen, ohne Anhörung, Schadensersatz bei Aufhebung",
      ["§ 19a Abs. 3, Abs. 5", "§ 140c Abs. 3, Abs. 5", "§ 24c Abs. 3, Abs. 5", "§ 46a Abs. 3, Abs. 5", "§ 101a Abs. 3, Abs. 5", "§ 9 Abs. 2 (§ 24c GebrMG)", "§ 37c Abs. 3, Abs. 5", "§§ 485 ff. ZPO; §§ 935 ff. ZPO, § 937 Abs. 2 ZPO, § 945 ZPO"]),
-    ("Art. 8 – Recht auf Auskunft: Verletzer und Dritte; Namen, Adressen, Mengen, Preise",
-     ["§ 19 (Abs. 2 Nr. 1 bis 4 = Art. 8 Abs. 1 lit. a bis d; Abs. 3 = Art. 8 Abs. 2; Abs. 9 Verkehrsdaten)", "§ 140b", "§ 24b", "§ 46", "§ 101 (Abs. 1: nur bei gewerblichem Ausmaß)", "§ 9 Abs. 2 (§ 24b GebrMG)", "§ 37b", "§ 242 BGB; §§ 383 bis 385 ZPO (= Art. 8 Abs. 3 lit. d)"]),
-    ("Art. 9 Abs. 1 – Einstweilige Maßnahmen: Unterlassung, auch gegen Mittelspersonen; Beschlagnahme",
+    ("Art. 8 DurchsetzungsRL – Recht auf Auskunft: Verletzer und Dritte; Namen, Adressen, Mengen, Preise",
+     ["§ 19 (Abs. 2 Nr. 1 bis 4 = Art. 8 Abs. 1 lit. a bis d DurchsetzungsRL; Abs. 3 = Art. 8 Abs. 2 DurchsetzungsRL; Abs. 9 Verkehrsdaten)", "§ 140b", "§ 24b", "§ 46", "§ 101 (Abs. 1: nur bei gewerblichem Ausmaß)", "§ 9 Abs. 2 (§ 24b GebrMG)", "§ 37b", "§ 242 BGB; §§ 383 bis 385 ZPO (= Art. 8 Abs. 3 lit. d DurchsetzungsRL)"]),
+    ("Art. 9 Abs. 1 DurchsetzungsRL – Einstweilige Maßnahmen: Unterlassung, auch gegen Mittelspersonen; Beschlagnahme",
      ["§ 140 Abs. 3 (Dringlichkeitsvermutung, seit MaMoG 2019); § 19 Abs. 7, § 19a Abs. 3", "§§ 935 ff. ZPO (keine Dringlichkeitsvermutung)", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935 ff. ZPO", "§§ 935, 938, 940 ZPO; Sequestration § 938 Abs. 2 ZPO; Störerhaftung"]),
-    ("Art. 9 Abs. 2 – Sicherung von Schadensersatz: Vermögensbeschlagnahme, Kontosperre, Unterlagen",
+    ("Art. 9 Abs. 2 DurchsetzungsRL – Sicherung von Schadensersatz: Vermögensbeschlagnahme, Kontosperre, Unterlagen",
      ["§ 19b", "§ 140d", "§ 24d", "§ 46b", "§ 101b", "§ 9 Abs. 2 (§ 24d GebrMG)", "§ 37d", "dinglicher Arrest §§ 916 ff. ZPO"]),
-    ("Art. 9 Abs. 3 bis 7 – Eilverfahren: Glaubhaftmachung, ohne Anhörung, Hauptsachefrist, Sicherheit, Schadensersatz",
+    ("Art. 9 Abs. 3 bis 7 DurchsetzungsRL – Eilverfahren: Glaubhaftmachung, ohne Anhörung, Hauptsachefrist, Sicherheit, Schadensersatz",
      ["–", "–", "–", "–", "–", "–", "–", "§ 920 Abs. 2 ZPO, § 936 ZPO; § 937 Abs. 2 ZPO; § 926 ZPO; § 921 ZPO; § 945 ZPO (verschuldensunabhängig; EuGH Bayer/Richter)"]),
-    ("Art. 10 – Abhilfemaßnahmen: Rückruf, endgültiges Entfernen, Vernichtung; Verhältnismäßigkeit",
+    ("Art. 10 DurchsetzungsRL – Abhilfemaßnahmen: Rückruf, endgültiges Entfernen, Vernichtung; Verhältnismäßigkeit",
      ["§ 18 Abs. 1 (Vernichtung), Abs. 2 (Rückruf, Entfernen), Abs. 3 (Verhältnismäßigkeit)", "§ 140a Abs. 1 bis 4", "§ 24a", "§ 43 (Abs. 3: Überlassung)", "§ 98 (Abs. 3: Überlassung)", "§ 9 Abs. 2 (§ 24a GebrMG)", "§ 37a", "§ 1004 BGB analog; Vollstreckung §§ 883, 887 ZPO"]),
-    ("Art. 11 – Gerichtliche Anordnungen: Unterlassung, Zwangsgeld, Anordnung gegen Mittelspersonen",
+    ("Art. 11 DurchsetzungsRL – Gerichtliche Anordnungen: Unterlassung, Zwangsgeld, Anordnung gegen Mittelspersonen",
      ["§ 14 Abs. 5, § 15 Abs. 4; Störerhaftung", "§ 139 Abs. 1", "§ 24 Abs. 1", "§ 42 Abs. 1", "§ 97 Abs. 1", "§ 9 Abs. 1 S. 1", "§ 37 Abs. 1", "§ 890 ZPO; Störerhaftung (BGH); Providerhaftung nach dem DDG"]),
-    ("Art. 12 – Ersatzmaßnahmen: Abfindung statt Rückruf und Vernichtung bei schuldloser Verletzung",
+    ("Art. 12 DurchsetzungsRL – Ersatzmaßnahmen: Abfindung statt Rückruf und Vernichtung bei schuldloser Verletzung",
      ["nicht genutzt", "nicht genutzt (§ 139 Abs. 1 S. 3, 4: Geldausgleich bei Härte)", "nicht genutzt (§ 24 Abs. 1 S. 3, 4)", "§ 45 (Entschädigung)", "§ 100 (Entschädigung)", "–", "–", "fakultativ (Erwägungsgrund 25)"]),
-    ("Art. 13 – Schadensersatz: Verschulden; Verletzergewinn, immaterieller Schaden; Pauschale nach Lizenzgebühr",
+    ("Art. 13 DurchsetzungsRL – Schadensersatz: Verschulden; Verletzergewinn, immaterieller Schaden; Pauschale nach Lizenzgebühr",
      ["§ 14 Abs. 6 (S. 2 Verletzergewinn, S. 3 Lizenzanalogie), § 15 Abs. 5, § 17 Abs. 2 S. 2", "§ 139 Abs. 2", "§ 24 Abs. 2", "§ 42 Abs. 2", "§ 97 Abs. 2 (S. 4: immaterieller Schaden)", "§ 9 Abs. 1 S. 2, 3", "§ 37 Abs. 2", "Abs. 2: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 852 BGB (§ 20 S. 2 MarkenG)"]),
-    ("Art. 14 – Prozesskosten: zumutbare und angemessene Kosten trägt der Unterlegene",
+    ("Art. 14 DurchsetzungsRL – Prozesskosten: zumutbare und angemessene Kosten trägt der Unterlegene",
      ["§ 140 Abs. 4 (Patentanwaltskosten; nur bei Notwendigkeit: EuGH NovaText, BGH Kosten des Patentanwalts VII); § 142", "§ 143 Abs. 3; § 144", "§ 27 Abs. 3", "§ 52 Abs. 4", "§ 97a Abs. 3 (Abmahnkosten; EuGH Koch Media)", "–", "–", "§§ 91 ff. ZPO; RVG; Abmahnkosten aus GoA"]),
-    ("Art. 15 – Veröffentlichung von Gerichtsentscheidungen",
+    ("Art. 15 DurchsetzungsRL – Veröffentlichung von Gerichtsentscheidungen",
      ["§ 19c", "§ 140e", "§ 24e", "§ 47", "§ 103", "§ 9 Abs. 2 (§ 24e GebrMG)", "§ 37e", "Befugnis erlischt drei Monate nach Rechtskraft; nicht vorläufig vollstreckbar"]),
-    ("Art. 16 – Sanktionen der Mitgliedstaaten: Strafrecht, Grenzbeschlagnahme",
-     ["§§ 143, 143a, 144; §§ 146 bis 151", "§ 142; §§ 142a, 142b", "§ 25; §§ 25a, 25b", "§ 51; §§ 55 ff.", "§§ 106 bis 111a; § 111b", "§ 10; § 9 Abs. 2 (§§ 25a, 25b GebrMG)", "§ 39; § 40a", "VO (EU) Nr. 608/2013; Art. 61 TRIPS"]),
+    ("Art. 16 DurchsetzungsRL – Sanktionen der Mitgliedstaaten: Strafrecht, Grenzbeschlagnahme",
+     ["§§ 143, 144, 145; §§ 146 bis 151", "§ 142; §§ 142a, 142b", "§ 25; §§ 25a, 25b", "§ 51; §§ 55 ff.", "§§ 106 bis 111a; § 111b", "§ 10; § 9 Abs. 2 (§§ 25a, 25b GebrMG)", "§ 39; § 40a", "VO (EU) Nr. 608/2013; Art. 61 TRIPS"]),
     ("Nicht harmonisiert: Verjährung; Haftung des Betriebsinhabers",
      ["§ 20 (BGB, § 852 BGB); § 14 Abs. 7", "§ 141", "§ 24f", "§ 49; § 44", "§ 102; § 99", "§ 9 Abs. 3", "§ 37f", "§§ 195, 199 BGB; § 852 BGB (Restschadensersatz, zehn Jahre)"]),
-    ("Art. 20 – Umsetzungsfrist 29.4.2006",
+    ("Art. 20 DurchsetzungsRL – Umsetzungsfrist 29.4.2006",
      ["–", "–", "–", "–", "–", "–", "–", "Durchsetzungsgesetz vom 7.7.2008 (BGBl. I S. 1191), in Kraft 1.9.2008, als Artikelgesetz für alle sieben Gesetze"]),
 ]
 

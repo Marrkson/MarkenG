@@ -21,7 +21,7 @@ _DATA = Path(__file__).resolve().parents[3] / "data" / "upc_rop.json"
 HINWEISE = {
     "5": "Opt-out: Antrag beim Kanzler für alle Inhaber, wirksam mit Eintragung; unwirksam, wenn bereits Klage beim EPG anhängig war (R. 5.6); Rücknahme nur, wenn noch keine nationale Klage (R. 5.8).",
     "9": "Fallmanagement-Generalklausel: Fristverlängerung (Abs. 3) nur ausnahmsweise; das Gericht kann Vorbringen als unbeachtlich behandeln (Abs. 2).",
-    "13": "Klageschrift: Inhalt lit. a bis q, insbesondere Kammerwahl (i), Angriffsmerkmale (m), Beweismittel (n); Anlagen sind gleichzeitig hochzuladen (R. 13.2).",
+    "13": "Klageschrift: Inhalt lit. a bis q, insbesondere Kammerwahl (i), Tatsachen mit verletzten Ansprüchen (l), Beweismittel (m), Verletzungsgründe und Anspruchsauslegung (n); Anlagen sind gleichzeitig hochzuladen (R. 13.2).",
     "19": "Einspruch (Preliminary objection) binnen eines Monats; abschließender Katalog (Zuständigkeit, Kammer, Sprache); Versäumnis = Anerkennung (Abs. 7).",
     "23": "Klageerwiderung drei Monate nach Zustellung; ist die Nichtigkeit einzuwenden, muss die Widerklage darin enthalten sein (R. 25).",
     "30": "Änderung des Patents: Hilfsanträge in angemessener Zahl (Abs. 1 lit. c); spätere Änderungen nur mit Erlaubnis (Abs. 2).",
@@ -43,10 +43,10 @@ HINWEISE = {
     "262A": "Schutz vertraulicher Informationen: Antrag bei Einreichung, Vertraulichkeitskreis mit mindestens einer natürlichen Person je Partei (Abs. 6), Interessenabwägung.",
     "263": "Klageänderung nur mit Erlaubnis; Ablehnung, wenn die Änderung mit angemessener Sorgfalt früher hätte erfolgen können (Abs. 2).",
     "265": "Rücknahme der Klage; Gebührenerstattung nach R. 370.9 (seit 1.1.2026: 50 % vor Abschluss des schriftlichen Verfahrens).",
-    "295": "Aussetzungsgründe: u.a. paralleles EPA-Einspruchsverfahren mit baldiger Entscheidung (lit. a), Vorabentscheidung des EuGH (lit. c), Vergleichsverhandlungen (lit. i).",
+    "295": "Aussetzungsgründe: u.a. paralleles EPA-Einspruchsverfahren mit baldiger Entscheidung (lit. a), Berufung gegen Zwischen- oder Einspruchsentscheidungen (lit. c), gemeinsamer Antrag der Parteien (lit. d), Vorabentscheidung des EuGH (lit. i), ordnungsgemäße Rechtspflege (lit. m).",
     "333": "Überprüfung verfahrensleitender Anordnungen des Berichterstatters durch den Spruchkörper; Antrag binnen 15 Tagen.",
     "354": "Vollstreckung: Anordnungen sofort vollstreckbar; Zwangsgeld (Abs. 3, 4); Sicherheitsleistung; Aufhebung wirkt zurück (EPG-BerG Kodak/Fujifilm).",
-    "370": "Gerichtsgebühren: Festgebühr plus streitwertabhängige Gebühr (Verletzungsklage, Widerklage, einstweilige Maßnahmen, Berufung); KMU-Ermäßigung (Abs. 8); Erstattung (Abs. 9).",
+    "370": "Gerichtsgebühren: Festgebühr plus streitwertabhängige Gebühr (Verletzungsklage, einstweilige Maßnahmen, Berufung; Abs. 2, 3, 5), nur Festgebühr für Nichtigkeitsklage und Widerklage auf Nichtigerklärung (Abs. 4); KMU-Ermäßigung (Abs. 8); Erstattung (Abs. 9).",
 }
 
 

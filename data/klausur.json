@@ -111,7 +111,7 @@
    "frist": "Widerspruchsgebühr",
    "laenge": "mit der Widerspruchsfrist",
    "beginn": "wie Widerspruch",
-   "norm": "§ 64a, § 6 Abs. 1 PatKostG",
+   "norm": "§ 64a MarkenG, § 6 Abs. 1 PatKostG",
    "wieder": "nein",
    "hinweis": "250 Euro; sonst gilt der Widerspruch als nicht erhoben."
   },
@@ -143,7 +143,7 @@
    "frist": "Beschwerdegebühr",
    "laenge": "mit der Beschwerdefrist",
    "beginn": "wie Beschwerde",
-   "norm": "§ 6 Abs. 2 PatKostG",
+   "norm": "§ 6 Abs. 1 und 2 PatKostG",
    "wieder": "ja",
    "hinweis": "200 Euro; sonst gilt die Beschwerde als nicht eingelegt."
   },
@@ -199,7 +199,7 @@
    "frist": "Verlängerung der Schutzdauer",
    "laenge": "6 Monate vor Ablauf, danach 6 Monate Nachfrist",
    "beginn": "Ablauf der Schutzdauer",
-   "norm": "§ 47 Abs. 3",
+   "norm": "§ 47 Abs. 6",
    "wieder": "—",
    "hinweis": "750 Euro, in der Nachfrist mit Zuschlag von 50 Euro."
   },
@@ -375,7 +375,7 @@
   },
   {
    "fehler": "Zustellungsfiktion übersehen",
-   "richtig": "Bei Einschreiben und Abholfach gilt der dritte Tag, bei öffentlicher Zustellung zwei Wochen; erst danach beginnt die Frist zu laufen."
+   "richtig": "Beim Einschreiben gilt der vierte Tag nach Aufgabe zur Post (§ 4 Abs. 2 VwZG; bis 31.12.2024 der dritte Tag), beim Abholfach der dritte Tag nach Niederlegung (§ 94 Abs. 1 Nr. 3), bei öffentlicher Zustellung zwei Wochen (§ 10 Abs. 2 VwZG); erst danach beginnt die Frist zu laufen."
   },
   {
    "fehler": "Gebührenzahlung nicht geprüft",
@@ -547,7 +547,7 @@
     "Öffentliche Zustellung und Fristbeginn",
     "Benutzung für Waren oder nur für die Dienstleistung",
     "Prägung durch den Vornamen",
-    "Sicherheitsleistung nach § 81 Abs. 6"
+    "Sicherheitsleistung (§ 81 Abs. 6 PatG bzw. § 110 ZPO)"
    ],
    "entscheidung": null,
    "status": "Lehrfall"

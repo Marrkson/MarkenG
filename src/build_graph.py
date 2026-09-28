@@ -135,7 +135,9 @@ def case_url(c):
             f"&Datum={d}.{m}.{y}&Aktenzeichen={az}")
 
 
-def build():
+def build(write=True, unknown=None):
+    """Baut den Graphen; `write=False` nur im Speicher (tools/check_zitate.py). `unknown`: Liste, in der unbekannte
+    Normzitate gesammelt werden, statt den Build abzubrechen."""
     statute = json.loads(STATUTE.read_text(encoding="utf-8"))
     nodes, edges = [], []
     seen = set()
@@ -187,6 +189,11 @@ def build():
                           nummer="0", kapitel="Präambel", abschnitt=None,
                           absaetze=[dict(nr=e["nr"], text=e["text"]) for e in rl["erwaegungsgruende"]], hinweis="", umsetzung_weitere={}, **common))
     norm_ids = {n["id"] for n in nodes}
+
+    def fehler(msg, src, ref):
+        if unknown is None:
+            raise ValueError(msg)
+        unknown.append((src, ref))
     # PatG und DesignG setzen die Durchsetzungsrichtlinie um: Kanten aus durchsetzungsrl.umsetzung_weitere (nur Zitate, keine Verneinungen)
     for gesetz, key in (("PatG", "patg"), ("DesignG", "designg")):
         for a in durchsetzungsrl.ARTIKEL:
@@ -196,7 +203,8 @@ def build():
             for nr in dict.fromkeys(re.findall(r"§ (\d+[a-z]?)", txt)):
                 nid = f"eunorm:{key}:{nr}"
                 if nid not in norm_ids:
-                    raise ValueError(f"Unbekannte {gesetz}-Umsetzungsnorm § {nr} bei Art. {a['nr']} DurchsetzungsRL")
+                    fehler(f"Unbekannte {gesetz}-Umsetzungsnorm § {nr} bei Art. {a['nr']} DurchsetzungsRL", f"eunorm:durchsetzungsrl:{a['nr']}", f"§ {nr} {gesetz}")
+                    continue
                 add_edge(nid, f"eunorm:durchsetzungsrl:{a['nr']}", "implements", ref=f"§ {nr} {gesetz}")
     for rl in RICHTLINIEN:
         for a in rl["artikel"]:
@@ -205,7 +213,8 @@ def build():
             for ref in a["umsetzung"]:
                 nid = norm_id(ref)
                 if nid not in norm_ids:
-                    raise ValueError(f"Unbekannte Umsetzungsnorm {ref} bei {ref_label}")
+                    fehler(f"Unbekannte Umsetzungsnorm {ref} bei {ref_label}", aid, ref)
+                    continue
                 add_edge(nid, aid, "implements", ref=ref)
             for c in a["concepts"]:
                 add_edge(f"concept:{c}", aid, "defined_in", ref=ref_label)
@@ -215,20 +224,23 @@ def build():
             for ref in a.get("entspricht", []):
                 nid = norm_id(ref)
                 if nid not in norm_ids:
-                    raise ValueError(f"Unbekannte Entsprechung {ref} bei {ref_label}")
+                    fehler(f"Unbekannte Entsprechung {ref} bei {ref_label}", aid, ref)
+                    continue
                 add_edge(aid, nid, "entspricht", ref=ref)
             # VerfO-Regel -> EPGÜ-Artikel („Bezug zum Übereinkommen“)
             for ref in a.get("bezug", []):
                 nid = norm_id(ref)
                 if nid not in norm_ids:
-                    raise ValueError(f"Unbekannter Bezug {ref} bei {ref_label}")
+                    fehler(f"Unbekannter Bezug {ref} bei {ref_label}", aid, ref)
+                    continue
                 add_edge(aid, nid, "konkretisiert", ref=ref)
 
     def link_norms(src, refs, rel):
         for r in refs:
             nid = norm_id(r)
             if nid not in norm_ids:
-                raise ValueError(f"Unbekannte Norm {r} in {src}")
+                fehler(f"Unbekannte Norm {r} in {src}", src, r)
+                continue
             add_edge(src, nid, rel, ref=r)
 
     # --- IPWiki-Quellen ---
@@ -334,7 +346,7 @@ def build():
     for e in edges:
         for k in ("source", "target"):
             if e[k] not in ids:
-                raise ValueError(f"Kante verweist auf unbekannten Knoten: {e}")
+                fehler(f"Kante verweist auf unbekannten Knoten: {e}", e["source"], e["target"])
 
     graph = dict(
         meta=dict(
@@ -361,6 +373,8 @@ def build():
         ),
         nodes=nodes, edges=edges,
     )
+    if not write:
+        return graph
     OUT.parent.mkdir(exist_ok=True)
     OUT.write_text(json.dumps(graph, ensure_ascii=False, indent=1), encoding="utf-8")
     print("Graph:", graph["meta"]["statistik"], "Kanten:", len(edges), "->", OUT.relative_to(ROOT))

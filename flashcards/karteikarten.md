@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht und Einheitliches Patentgericht
 
-1839 Karten, generiert aus graph/markenrecht_graph.json.
+2273 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -7168,6 +7168,56 @@ Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen
 
 ## definition
 
+**F:** Definiere: Gebrauchsmuster: Wesen und Schutzfähigkeit (§§ [1](https://www.gesetze-im-internet.de/gebrmg/__1.html) bis [3](https://www.gesetze-im-internet.de/gebrmg/__3.html) GebrMG)
+
+**A:** Als Gebrauchsmuster werden Erfindungen geschützt, die neu sind, auf einem erfinderischen Schritt beruhen und gewerblich anwendbar sind ([§ 1 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html)); ausgeschlossen sind Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) und biotechnologische Erfindungen. Es wird ohne Prüfung von Neuheit und erfinderischem Schritt eingetragen ([§ 8 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__8.html)), dauert höchstens zehn Jahre ([§ 23 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__23.html)) und gibt dieselben Ansprüche wie ein Patent ([§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html)).
+
+Normen: [§ 145a PatG](https://www.gesetze-im-internet.de/patg/__145a.html) MarkenG
+
+Rechtsprechung: BGH Feldmausbekämpfung (X ZB 18/16)
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Als Gebrauchsmuster werden Erfindungen geschützt, die neu sind, auf einem erfinderischen Schritt beruhen und gewerblich anwendbar sind ([§ 1 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html)); ausgeschlossen sind Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) und biotechnologische Erfindungen. Es wird ohne Prüfung von Neuheit und erfinderischem Schritt eingetragen ([§ 8 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__8.html)), dauert höchstens zehn Jahre ([§ 23 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__23.html)) und gibt dieselben Ansprüche wie ein Patent ([§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html)).
+
+**A:** Gebrauchsmuster: Wesen und Schutzfähigkeit (§§ [1](https://www.gesetze-im-internet.de/gebrmg/__1.html) bis [3](https://www.gesetze-im-internet.de/gebrmg/__3.html) GebrMG)
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Löschungsverfahren beim Gebrauchsmuster (§§ [15](https://www.gesetze-im-internet.de/gebrmg/__15.html) bis [17](https://www.gesetze-im-internet.de/gebrmg/__17.html) GebrMG)
+
+**A:** Jedermann kann beim DPMA die Löschung des Gebrauchsmusters beantragen, wenn der Gegenstand nicht schutzfähig ist, bereits aufgrund einer früheren Patent- oder Gebrauchsmusteranmeldung geschützt ist oder über die ursprüngliche Anmeldung hinausgeht ([§ 15 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)); bei widerrechtlicher Entnahme nur der Verletzte ([§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)). Widerspricht der Inhaber nicht binnen eines Monats, wird gelöscht ([§ 17 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html)).
+
+Normen: [§ 145a PatG](https://www.gesetze-im-internet.de/patg/__145a.html) MarkenG
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Jedermann kann beim DPMA die Löschung des Gebrauchsmusters beantragen, wenn der Gegenstand nicht schutzfähig ist, bereits aufgrund einer früheren Patent- oder Gebrauchsmusteranmeldung geschützt ist oder über die ursprüngliche Anmeldung hinausgeht ([§ 15 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)); bei widerrechtlicher Entnahme nur der Verletzte ([§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)). Widerspricht der Inhaber nicht binnen eines Monats, wird gelöscht ([§ 17 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html)).
+
+**A:** Löschungsverfahren beim Gebrauchsmuster (§§ [15](https://www.gesetze-im-internet.de/gebrmg/__15.html) bis [17](https://www.gesetze-im-internet.de/gebrmg/__17.html) GebrMG)
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
 **F:** Definiere: Gebühren des DPMA und des BPatG (PatKostG, Gebührenverzeichnis)
 
 **A:** Die Gebühren des DPMA und des BPatG richten sich nach dem Gebührenverzeichnis der Anlage zum PatKostG ([§ 2 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html)); im Klageverfahren vor dem BPatG werden Wertgebühren nach dem Streitwert erhoben ([§ 2 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__2.html)). Kostenschuldner ist, wer die Amtshandlung beantragt ([§ 4 PatKostG](https://www.gesetze-im-internet.de/patkostg/__4.html)).
@@ -7393,6 +7443,1580 @@ Das DPMA ist Anmeldeamt ([Art. III § 1 IntPatÜG](https://www.gesetze-im-intern
 **A:** PCT-Anmeldung und nationale Phase (Art. III IntPatÜG)
 
 *Tags: Begriff, Umkehr, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## definition
+
+**F:** Definiere: Design ([§ 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html))
+
+**A:** Ein Design ist die zwei- oder dreidimensionale Erscheinungsform eines ganzen Erzeugnisses oder eines Teils davon, die sich insbesondere aus den Merkmalen der Linien, Konturen, Farben, der Gestalt, Oberflächenstruktur oder der Werkstoffe des Erzeugnisses selbst oder seiner Verzierung ergibt ([§ 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html), [Art. 1 lit. a DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 3 Nr. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) MarkenG, [Art. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 1 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 2 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Rechtsprechung: BGH Sporthelm (I ZB 25/18); BGH Weinkaraffe (I ZR 124/10); EuGH Ferrari/Mansory Design (Front kit) (C-123/20); BGH Front kit II (I ZR 1/19)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Design ist die zwei- oder dreidimensionale Erscheinungsform eines ganzen Erzeugnisses oder eines Teils davon, die sich insbesondere aus den Merkmalen der Linien, Konturen, Farben, der Gestalt, Oberflächenstruktur oder der Werkstoffe des Erzeugnisses selbst oder seiner Verzierung ergibt ([§ 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html), [Art. 1 lit. a DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 3 Nr. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Design ([§ 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Erzeugnis, komplexes Erzeugnis, bestimmungsgemäße Verwendung ([§ 1 Nr. 2 bis 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html))
+
+**A:** Erzeugnis ist jeder industrielle oder handwerkliche Gegenstand einschließlich Verpackung, Ausstattung, grafischer Symbole und typografischer Schriftbilder sowie Einzelteile, die zu einem komplexen Erzeugnis zusammengebaut werden sollen; ein Computerprogramm ist kein Erzeugnis ([§ 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html)). Ein komplexes Erzeugnis besteht aus mehreren austauschbaren Bauelementen (Nr. 3); bestimmungsgemäße Verwendung ist die Verwendung durch den Endbenutzer ohne Instandhaltung, Wartung und Reparatur (Nr. 4).
+
+Normen: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) MarkenG, [§ 11 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [§ 11 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [Art. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuGH Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss) (C-361/15 P, C-405/15 P); EuGH Monz Handelsgesellschaft/Büchel (Sattelunterseite) (C-472/21)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Erzeugnis ist jeder industrielle oder handwerkliche Gegenstand einschließlich Verpackung, Ausstattung, grafischer Symbole und typografischer Schriftbilder sowie Einzelteile, die zu einem komplexen Erzeugnis zusammengebaut werden sollen; ein Computerprogramm ist kein Erzeugnis ([§ 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html)). Ein komplexes Erzeugnis besteht aus mehreren austauschbaren Bauelementen (Nr. 3); bestimmungsgemäße Verwendung ist die Verwendung durch den Endbenutzer ohne Instandhaltung, Wartung und Reparatur (Nr. 4).
+
+**A:** Erzeugnis, komplexes Erzeugnis, bestimmungsgemäße Verwendung ([§ 1 Nr. 2 bis 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Neuheit ([§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html))
+
+**A:** Ein Design gilt als neu, wenn vor dem Anmeldetag (bei Priorität: dem Prioritätstag, [§ 13 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html)) kein identisches Design offenbart worden ist; identisch sind Designs, deren Merkmale sich nur in unwesentlichen Einzelheiten unterscheiden ([§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [Art. 4 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html) MarkenG, [§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html) MarkenG, [§ 13 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html) MarkenG, [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 4 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: EuGH Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss) (C-361/15 P, C-405/15 P); BGH Verlängerte Limousinen (I ZR 89/08)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Design gilt als neu, wenn vor dem Anmeldetag (bei Priorität: dem Prioritätstag, [§ 13 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html)) kein identisches Design offenbart worden ist; identisch sind Designs, deren Merkmale sich nur in unwesentlichen Einzelheiten unterscheiden ([§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [Art. 4 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Neuheit ([§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Eigenart ([§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html))
+
+**A:** Ein Design hat Eigenart, wenn sich der Gesamteindruck, den es beim informierten Benutzer hervorruft, von dem Gesamteindruck unterscheidet, den ein anderes, vor dem Anmeldetag offenbartes Design bei diesem Benutzer hervorruft; dabei wird der Grad der Gestaltungsfreiheit des Entwerfers berücksichtigt ([§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [Art. 5 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 5 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: EuGH PepsiCo/Grupo Promer (Tazos) (C-281/10 P); EuGH Karen Millen Fashions/Dunnes Stores (C-345/13); BGH Verlängerte Limousinen (I ZR 89/08); BGH Untersetzer (I ZR 71/08)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Design hat Eigenart, wenn sich der Gesamteindruck, den es beim informierten Benutzer hervorruft, von dem Gesamteindruck unterscheidet, den ein anderes, vor dem Anmeldetag offenbartes Design bei diesem Benutzer hervorruft; dabei wird der Grad der Gestaltungsfreiheit des Entwerfers berücksichtigt ([§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [Art. 5 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Eigenart ([§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Informierter Benutzer
+
+**A:** Der informierte Benutzer ist die Maßstabsfigur für Eigenart und Schutzumfang: eine Person, die das Erzeugnis benutzt, verschiedene Designs des betreffenden Sektors kennt, über gewisse Kenntnisse der üblichen Gestaltungselemente verfügt und die Erzeugnisse mit vergleichsweise großer Aufmerksamkeit benutzt; sie steht zwischen dem Durchschnittsverbraucher des Markenrechts und dem Fachmann (EuGH PepsiCo).
+
+Normen: [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuGH PepsiCo/Grupo Promer (Tazos) (C-281/10 P); BGH Armbanduhr (I ZR 40/14); BGH Ballerinaschuh (I ZR 187/16); EuGH Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss) (C-361/15 P, C-405/15 P)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der informierte Benutzer ist die Maßstabsfigur für Eigenart und Schutzumfang: eine Person, die das Erzeugnis benutzt, verschiedene Designs des betreffenden Sektors kennt, über gewisse Kenntnisse der üblichen Gestaltungselemente verfügt und die Erzeugnisse mit vergleichsweise großer Aufmerksamkeit benutzt; sie steht zwischen dem Durchschnittsverbraucher des Markenrechts und dem Fachmann (EuGH PepsiCo).
+
+**A:** Informierter Benutzer
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Gesamteindruck
+
+**A:** Der Gesamteindruck ist der Eindruck, den das Design als Ganzes beim informierten Benutzer hervorruft; er entscheidet über Eigenart ([§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html)) und Schutzumfang ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)). Verglichen werden die Designs in ihrer Gesamtheit, wobei prägende Merkmale stärker wiegen als Nebensächlichkeiten und technisch bedingte Merkmale zurücktreten.
+
+Normen: [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH Kinderwagen II (I ZR 102/11); BGH Meda Gate (I ZR 164/17); BGH Schreibgeräte (I ZR 211/08); BGH Armbanduhr (I ZR 40/14)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Gesamteindruck ist der Eindruck, den das Design als Ganzes beim informierten Benutzer hervorruft; er entscheidet über Eigenart ([§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html)) und Schutzumfang ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)). Verglichen werden die Designs in ihrer Gesamtheit, wobei prägende Merkmale stärker wiegen als Nebensächlichkeiten und technisch bedingte Merkmale zurücktreten.
+
+**A:** Gesamteindruck
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Gestaltungsfreiheit des Entwerfers
+
+**A:** Der Grad der Gestaltungsfreiheit ist bei Eigenart und Schutzumfang zu berücksichtigen ([§ 2 Abs. 3 S. 2](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 38 Abs. 2 S. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)): Er ergibt sich aus technischen Vorgaben, gesetzlichen Anforderungen und der Musterdichte des Sektors. Große Freiheit verlangt größeren Abstand für Eigenart und gewährt größeren Schutzumfang; geringe Freiheit lässt kleine Unterschiede genügen und verengt den Schutz.
+
+Normen: [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH Untersetzer (I ZR 71/08); EuGH PepsiCo/Grupo Promer (Tazos) (C-281/10 P); BGH Kinderwagen II (I ZR 102/11)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Grad der Gestaltungsfreiheit ist bei Eigenart und Schutzumfang zu berücksichtigen ([§ 2 Abs. 3 S. 2](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 38 Abs. 2 S. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)): Er ergibt sich aus technischen Vorgaben, gesetzlichen Anforderungen und der Musterdichte des Sektors. Große Freiheit verlangt größeren Abstand für Eigenart und gewährt größeren Schutzumfang; geringe Freiheit lässt kleine Unterschiede genügen und verengt den Schutz.
+
+**A:** Gestaltungsfreiheit des Entwerfers
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Vorbekannter Formenschatz
+
+**A:** Der vorbekannte Formenschatz ist die Gesamtheit der vor dem Anmeldetag offenbarten Designs des Sektors; er ist Vergleichsmaßstab für Neuheit und Eigenart und bestimmt über die Musterdichte den Schutzumfang.
+
+Normen: [§ 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html) MarkenG, [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH Ballerinaschuh (I ZR 187/16); BGH Meda Gate (I ZR 164/17); BGH Untersetzer (I ZR 71/08); BGH Verlängerte Limousinen (I ZR 89/08)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der vorbekannte Formenschatz ist die Gesamtheit der vor dem Anmeldetag offenbarten Designs des Sektors; er ist Vergleichsmaßstab für Neuheit und Eigenart und bestimmt über die Musterdichte den Schutzumfang.
+
+**A:** Vorbekannter Formenschatz
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Offenbarung und Fachkreisklausel ([§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html))
+
+**A:** Ein Design ist offenbart, wenn es bekannt gemacht, ausgestellt, im Verkehr verwendet oder sonst der Öffentlichkeit zugänglich gemacht wurde, es sei denn, dies konnte den in der Union tätigen Fachkreisen des betreffenden Sektors im normalen Geschäftsverlauf vor dem Anmeldetag nicht bekannt sein; eine vertrauliche Mitteilung an Dritte ist keine Offenbarung ([§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html), [Art. 6 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html) MarkenG, [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: EuGH Gautzsch Großhandel/MBM Joseph Duna (Gartenpavillon) (C-479/12); EuGH Ferrari/Mansory Design (Front kit) (C-123/20); BGH Verlängerte Limousinen (I ZR 89/08); EuGH Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss) (C-361/15 P, C-405/15 P)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Design ist offenbart, wenn es bekannt gemacht, ausgestellt, im Verkehr verwendet oder sonst der Öffentlichkeit zugänglich gemacht wurde, es sei denn, dies konnte den in der Union tätigen Fachkreisen des betreffenden Sektors im normalen Geschäftsverlauf vor dem Anmeldetag nicht bekannt sein; eine vertrauliche Mitteilung an Dritte ist keine Offenbarung ([§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html), [Art. 6 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Offenbarung und Fachkreisklausel ([§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Neuheitsschonfrist ([§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html))
+
+**A:** Eine Offenbarung bleibt für Neuheit und Eigenart unberücksichtigt, wenn das Design in den zwölf Monaten vor dem Anmeldetag durch den Entwerfer, seinen Rechtsnachfolger oder als Folge von deren Handlungen durch Dritte offenbart wurde oder wenn die Offenbarung auf einem Missbrauch gegenüber dem Entwerfer beruht ([§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [Art. 6 Abs. 2, 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 7 Abs. 2, 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html) MarkenG, [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Offenbarung bleibt für Neuheit und Eigenart unberücksichtigt, wenn das Design in den zwölf Monaten vor dem Anmeldetag durch den Entwerfer, seinen Rechtsnachfolger oder als Folge von deren Handlungen durch Dritte offenbart wurde oder wenn die Offenbarung auf einem Missbrauch gegenüber dem Entwerfer beruht ([§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [Art. 6 Abs. 2, 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 7 Abs. 2, 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Neuheitsschonfrist ([§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Ausschließlich technisch bedingte Merkmale ([§ 3 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html))
+
+**A:** Erscheinungsmerkmale, die ausschließlich durch die technische Funktion des Erzeugnisses bedingt sind, sind vom Designschutz ausgeschlossen ([§ 3 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html), [Art. 7 Abs. 1 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 8 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Das ist der Fall, wenn die technische Funktion der einzige Faktor war, der die Merkmale bestimmt hat, und ästhetische Erwägungen keine Rolle spielten (EuGH DOCERAM).
+
+Normen: [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG, [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 7 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: EuGH DOCERAM/CeramTec (Zentrierstifte) (C-395/16); BGH Papierspender (I ZR 137/19); BGH Tellerschleifgerät (I ZR 167/21); EuG Lego/EUIPO – Delta Sport (Klemmbaustein) (T-515/19)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Erscheinungsmerkmale, die ausschließlich durch die technische Funktion des Erzeugnisses bedingt sind, sind vom Designschutz ausgeschlossen ([§ 3 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html), [Art. 7 Abs. 1 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 8 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Das ist der Fall, wenn die technische Funktion der einzige Faktor war, der die Merkmale bestimmt hat, und ästhetische Erwägungen keine Rolle spielten (EuGH DOCERAM).
+
+**A:** Ausschließlich technisch bedingte Merkmale ([§ 3 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Verbindungselemente und modulare Systeme ([§ 3 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__3.html), Abs. 2 DesignG)
+
+**A:** Merkmale, die zwangsläufig in genauer Form und Abmessung nachgebildet werden müssen, damit das Erzeugnis mit einem anderen mechanisch verbunden werden kann („must fit“), sind ausgeschlossen ([§ 3 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html)); die Ausnahme gilt nicht für Merkmale, die den Zusammenbau austauschbarer Teile in einem Bauteilesystem ermöglichen ([§ 3 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html), Lego-Klausel).
+
+Normen: [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG, [§ 3 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG, [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuG Lego/EUIPO – Delta Sport (Klemmbaustein) (T-515/19)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Merkmale, die zwangsläufig in genauer Form und Abmessung nachgebildet werden müssen, damit das Erzeugnis mit einem anderen mechanisch verbunden werden kann („must fit“), sind ausgeschlossen ([§ 3 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html)); die Ausnahme gilt nicht für Merkmale, die den Zusammenbau austauschbarer Teile in einem Bauteilesystem ermöglichen ([§ 3 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html), Lego-Klausel).
+
+**A:** Verbindungselemente und modulare Systeme ([§ 3 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__3.html), Abs. 2 DesignG)
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Bauelemente komplexer Erzeugnisse und Sichtbarkeit ([§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html))
+
+**A:** Ein Design an einem Bauelement eines komplexen Erzeugnisses ist nur neu und eigenartig, wenn das Bauelement bei bestimmungsgemäßer Verwendung des komplexen Erzeugnisses sichtbar bleibt und die sichtbaren Merkmale selbst neu und eigenartig sind ([§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html), [Art. 3 Abs. 3, 4 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 4 Abs. 2, 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) MarkenG, [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [Art. 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 4 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuGH Monz Handelsgesellschaft/Büchel (Sattelunterseite) (C-472/21); BGH Sattelunterseite II (I ZB 31/20); BPatG Sattelunterseite II (BPatG) (30 W (pat) 802/23); BGH Baugruppe (I ZR 67/05)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Design an einem Bauelement eines komplexen Erzeugnisses ist nur neu und eigenartig, wenn das Bauelement bei bestimmungsgemäßer Verwendung des komplexen Erzeugnisses sichtbar bleibt und die sichtbaren Merkmale selbst neu und eigenartig sind ([§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html), [Art. 3 Abs. 3, 4 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 4 Abs. 2, 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Bauelemente komplexer Erzeugnisse und Sichtbarkeit ([§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Öffentliche Ordnung, gute Sitten, Hoheitszeichen ([§ 3 Abs. 1 Nr. 3, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html))
+
+**A:** Vom Schutz ausgeschlossen sind Designs, die gegen die öffentliche Ordnung oder die guten Sitten verstoßen ([§ 3 Abs. 1 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html)), und solche, die Wappen, Flaggen, amtliche Prüfzeichen oder andere Zeichen von öffentlichem Interesse missbräuchlich benutzen (Nr. 4, Art. 6ter PVÜ).
+
+Normen: [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG, [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) MarkenG, [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) MarkenG, [Art. 9 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 8 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+*Tags: Begriff, Design: Schutzvoraussetzungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Vom Schutz ausgeschlossen sind Designs, die gegen die öffentliche Ordnung oder die guten Sitten verstoßen ([§ 3 Abs. 1 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html)), und solche, die Wappen, Flaggen, amtliche Prüfzeichen oder andere Zeichen von öffentlichem Interesse missbräuchlich benutzen (Nr. 4, Art. 6ter PVÜ).
+
+**A:** Öffentliche Ordnung, gute Sitten, Hoheitszeichen ([§ 3 Abs. 1 Nr. 3, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzvoraussetzungen*
+
+---
+
+## definition
+
+**F:** Definiere: Recht auf das eingetragene Design und formelle Berechtigung (§§ [7](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [8](https://www.gesetze-im-internet.de/geschmmg_2004/__8.html) DesignG)
+
+**A:** Das Recht auf das eingetragene Design steht dem Entwerfer oder seinem Rechtsnachfolger zu, bei mehreren Entwerfern gemeinschaftlich ([§ 7 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Anmelder und eingetragener Rechtsinhaber gelten in Verfahren als berechtigt ([§ 8 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__8.html)).
+
+Normen: [§ 7 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html) MarkenG, [§ 8 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__8.html) MarkenG, [§ 10 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__10.html) MarkenG, [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH Bolerojäckchen (I ZR 23/12)
+
+*Tags: Begriff, Design: Berechtigte und Rechtsverkehr*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Recht auf das eingetragene Design steht dem Entwerfer oder seinem Rechtsnachfolger zu, bei mehreren Entwerfern gemeinschaftlich ([§ 7 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Anmelder und eingetragener Rechtsinhaber gelten in Verfahren als berechtigt ([§ 8 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__8.html)).
+
+**A:** Recht auf das eingetragene Design und formelle Berechtigung (§§ [7](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [8](https://www.gesetze-im-internet.de/geschmmg_2004/__8.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Berechtigte und Rechtsverkehr*
+
+---
+
+## definition
+
+**F:** Definiere: Arbeitnehmerdesign ([§ 7 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html))
+
+**A:** Wird ein Design von einem Arbeitnehmer in Ausübung seiner Aufgaben oder nach Weisung des Arbeitgebers entworfen, steht das Recht am eingetragenen Design kraft Gesetzes dem Arbeitgeber zu, sofern nichts anderes vereinbart ist ([§ 7 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [Art. 14 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 7 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html) MarkenG, [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH Bolerojäckchen (I ZR 23/12)
+
+*Tags: Begriff, Design: Berechtigte und Rechtsverkehr*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wird ein Design von einem Arbeitnehmer in Ausübung seiner Aufgaben oder nach Weisung des Arbeitgebers entworfen, steht das Recht am eingetragenen Design kraft Gesetzes dem Arbeitgeber zu, sofern nichts anderes vereinbart ist ([§ 7 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [Art. 14 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Arbeitnehmerdesign ([§ 7 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html))
+
+*Tags: Begriff, Umkehr, Design: Berechtigte und Rechtsverkehr*
+
+---
+
+## definition
+
+**F:** Definiere: Ansprüche gegen Nichtberechtigte ([§ 9 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html))
+
+**A:** Ist ein Design auf einen Nichtberechtigten eingetragen, kann der Berechtigte Übertragung oder Einwilligung in die Löschung verlangen ([§ 9 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html)), nur durch Klage binnen drei Jahren ab Bekanntmachung, außer bei Bösgläubigkeit (Abs. 2); mit der Umschreibung erlöschen Lizenzen, der frühere Inhaber erhält ein Weiterbenutzungsrecht gegen Vergütung (Abs. 3).
+
+Normen: [§ 9 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html) MarkenG, [Art. 15 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 11 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+*Tags: Begriff, Design: Berechtigte und Rechtsverkehr*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ist ein Design auf einen Nichtberechtigten eingetragen, kann der Berechtigte Übertragung oder Einwilligung in die Löschung verlangen ([§ 9 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html)), nur durch Klage binnen drei Jahren ab Bekanntmachung, außer bei Bösgläubigkeit (Abs. 2); mit der Umschreibung erlöschen Lizenzen, der frühere Inhaber erhält ein Weiterbenutzungsrecht gegen Vergütung (Abs. 3).
+
+**A:** Ansprüche gegen Nichtberechtigte ([§ 9 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html))
+
+*Tags: Begriff, Umkehr, Design: Berechtigte und Rechtsverkehr*
+
+---
+
+## definition
+
+**F:** Definiere: Lizenz und Rechtsübergang (§§ [29](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html) bis [32](https://www.gesetze-im-internet.de/geschmmg_2004/__32.html) DesignG)
+
+**A:** Das eingetragene Design und die Anmeldung sind übertragbar, verpfändbar und lizenzierbar (§§ [29](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html), [30](https://www.gesetze-im-internet.de/geschmmg_2004/__30.html), [32](https://www.gesetze-im-internet.de/geschmmg_2004/__32.html) DesignG). Lizenzen können ausschließlich oder einfach und räumlich beschränkt sein ([§ 31 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)); Überschreitungen von Dauer, Nutzungsform, Erzeugnissen, Gebiet oder Qualität sind Designverletzungen ([§ 31 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)).
+
+Normen: [§ 29 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html) MarkenG, [§ 30 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__30.html) MarkenG, [§ 31 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) MarkenG, [§ 32 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__32.html) MarkenG, [Art. 32 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+*Tags: Begriff, Design: Berechtigte und Rechtsverkehr*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das eingetragene Design und die Anmeldung sind übertragbar, verpfändbar und lizenzierbar (§§ [29](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html), [30](https://www.gesetze-im-internet.de/geschmmg_2004/__30.html), [32](https://www.gesetze-im-internet.de/geschmmg_2004/__32.html) DesignG). Lizenzen können ausschließlich oder einfach und räumlich beschränkt sein ([§ 31 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)); Überschreitungen von Dauer, Nutzungsform, Erzeugnissen, Gebiet oder Qualität sind Designverletzungen ([§ 31 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)).
+
+**A:** Lizenz und Rechtsübergang (§§ [29](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html) bis [32](https://www.gesetze-im-internet.de/geschmmg_2004/__32.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Berechtigte und Rechtsverkehr*
+
+---
+
+## definition
+
+**F:** Definiere: Anmeldung beim DPMA ([§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), DesignV)
+
+**A:** Die Anmeldung ist beim DPMA (oder einem Patentinformationszentrum) einzureichen und muss Eintragungsantrag, Angaben zur Identität des Anmelders und eine bekanntmachungsfähige Wiedergabe enthalten ([§ 11 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)); Pflicht ist außerdem die Erzeugnisangabe ([§ 11 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)). Form und Inhalt regelt die DesignV (§§ [3](https://www.gesetze-im-internet.de/designv/__3.html) bis [14](https://www.gesetze-im-internet.de/designv/__14.html) DesignV).
+
+Normen: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [§ 3 DesignV](https://www.gesetze-im-internet.de/designv/__3.html) MarkenG, [§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html) MarkenG, [§ 9 DesignV](https://www.gesetze-im-internet.de/designv/__9.html) MarkenG, [§ 10 DesignV](https://www.gesetze-im-internet.de/designv/__10.html) MarkenG
+
+Rechtsprechung: BGH Sporthelm (I ZB 25/18)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Anmeldung ist beim DPMA (oder einem Patentinformationszentrum) einzureichen und muss Eintragungsantrag, Angaben zur Identität des Anmelders und eine bekanntmachungsfähige Wiedergabe enthalten ([§ 11 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)); Pflicht ist außerdem die Erzeugnisangabe ([§ 11 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)). Form und Inhalt regelt die DesignV (§§ [3](https://www.gesetze-im-internet.de/designv/__3.html) bis [14](https://www.gesetze-im-internet.de/designv/__14.html) DesignV).
+
+**A:** Anmeldung beim DPMA ([§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), DesignV)
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Anmeldetag ([§ 13 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html))
+
+**A:** Anmeldetag ist der Tag, an dem die Unterlagen mit Antrag, Identität des Anmelders und Wiedergabe beim DPMA oder einem bestimmten Patentinformationszentrum eingehen ([§ 13 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html)); bei wirksamer Priorität tritt der Prioritätstag an seine Stelle ([§ 13 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html)).
+
+Normen: [§ 13 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html) MarkenG, [§ 11 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [§ 27 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html) MarkenG, [Art. 38 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Anmeldetag ist der Tag, an dem die Unterlagen mit Antrag, Identität des Anmelders und Wiedergabe beim DPMA oder einem bestimmten Patentinformationszentrum eingehen ([§ 13 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html)); bei wirksamer Priorität tritt der Prioritätstag an seine Stelle ([§ 13 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html)).
+
+**A:** Anmeldetag ([§ 13 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html))
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Sammelanmeldung ([§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html))
+
+**A:** Bis zu 100 Designs können in einer Sammelanmeldung zusammengefasst werden ([§ 12 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html)); seit 2014 ohne Bindung an eine Warenklasse. Die Sammelanmeldung kann jederzeit unter Wahrung des Anmeldetags geteilt werden, gegebenenfalls gegen Nachzahlung der Gebührendifferenz ([§ 12 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html)).
+
+Normen: [§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html) MarkenG, [§ 16 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html) MarkenG, [§ 5 DesignV](https://www.gesetze-im-internet.de/designv/__5.html) MarkenG, [§ 12 DesignV](https://www.gesetze-im-internet.de/designv/__12.html) MarkenG, [Art. 37 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bis zu 100 Designs können in einer Sammelanmeldung zusammengefasst werden ([§ 12 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html)); seit 2014 ohne Bindung an eine Warenklasse. Die Sammelanmeldung kann jederzeit unter Wahrung des Anmeldetags geteilt werden, gegebenenfalls gegen Nachzahlung der Gebührendifferenz ([§ 12 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html)).
+
+**A:** Sammelanmeldung ([§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html))
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Wiedergabe des Designs ([§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html))
+
+**A:** Die Wiedergabe erfolgt durch fotografische oder sonstige grafische Darstellungen, bis zu zehn je Design, auf neutralem Hintergrund, ohne Beiwerk und Text ([§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html)); sie legt den Schutzgegenstand fest ([§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html)): Geschützt ist nur, was sichtbar wiedergegeben ist.
+
+Normen: [§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html) MarkenG, [§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) MarkenG, [§ 11 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [Art. 26 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Rechtsprechung: BGH Sporthelm (I ZB 25/18); BGH Sportbrille (I ZB 26/18); BGH Weinkaraffe (I ZR 124/10); BGH Schneidebrett (I ZR 16/21)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Wiedergabe erfolgt durch fotografische oder sonstige grafische Darstellungen, bis zu zehn je Design, auf neutralem Hintergrund, ohne Beiwerk und Text ([§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html)); sie legt den Schutzgegenstand fest ([§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html)): Geschützt ist nur, was sichtbar wiedergegeben ist.
+
+**A:** Wiedergabe des Designs ([§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html))
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Erzeugnisangabe und Warenklassen ([§ 11 Abs. 3, 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), [§ 9 DesignV](https://www.gesetze-im-internet.de/designv/__9.html))
+
+**A:** Die Anmeldung muss die Erzeugnisse angeben, in die das Design aufgenommen oder bei denen es verwendet werden soll ([§ 11 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)), nach der amtlichen Warenliste (Locarno-Klassifikation) mit bis zu fünf Begriffen ([§ 9 DesignV](https://www.gesetze-im-internet.de/designv/__9.html)); die Angabe und die Warenklassen haben keinen Einfluss auf den Schutzumfang ([§ 11 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)).
+
+Normen: [§ 11 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [§ 11 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [§ 9 DesignV](https://www.gesetze-im-internet.de/designv/__9.html) MarkenG, [§ 19 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__19.html) MarkenG, [Art. 36 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuGH Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss) (C-361/15 P, C-405/15 P)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Anmeldung muss die Erzeugnisse angeben, in die das Design aufgenommen oder bei denen es verwendet werden soll ([§ 11 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)), nach der amtlichen Warenliste (Locarno-Klassifikation) mit bis zu fünf Begriffen ([§ 9 DesignV](https://www.gesetze-im-internet.de/designv/__9.html)); die Angabe und die Warenklassen haben keinen Einfluss auf den Schutzumfang ([§ 11 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)).
+
+**A:** Erzeugnisangabe und Warenklassen ([§ 11 Abs. 3, 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), [§ 9 DesignV](https://www.gesetze-im-internet.de/designv/__9.html))
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Priorität (§§ [14](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html), [15](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html) DesignG)
+
+**A:** Wer die Priorität einer früheren ausländischen Anmeldung nach der PVÜ beansprucht (sechs Monate), muss binnen 16 Monaten nach dem Prioritätstag Zeit, Land und Aktenzeichen angeben und eine Abschrift einreichen ([§ 14 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html)); die Ausstellungspriorität setzt Anmeldung binnen sechs Monaten nach erstmaliger Zurschaustellung auf einer amtlichen oder bestimmten Ausstellung voraus ([§ 15 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html)).
+
+Normen: [§ 14 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html) MarkenG, [§ 15 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html) MarkenG, [§ 13 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html) MarkenG, [§ 11 DesignV](https://www.gesetze-im-internet.de/designv/__11.html) MarkenG, [Art. 41 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer die Priorität einer früheren ausländischen Anmeldung nach der PVÜ beansprucht (sechs Monate), muss binnen 16 Monaten nach dem Prioritätstag Zeit, Land und Aktenzeichen angeben und eine Abschrift einreichen ([§ 14 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html)); die Ausstellungspriorität setzt Anmeldung binnen sechs Monaten nach erstmaliger Zurschaustellung auf einer amtlichen oder bestimmten Ausstellung voraus ([§ 15 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html)).
+
+**A:** Priorität (§§ [14](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html), [15](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Prüfung, Eintragung, Bekanntmachung (§§ [16](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html) bis [20](https://www.gesetze-im-internet.de/geschmmg_2004/__20.html) DesignG)
+
+**A:** Das DPMA prüft Gebührenzahlung, Anmeldetagserfordernisse und sonstige Formerfordernisse ([§ 16 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html)) sowie die Eintragungshindernisse des [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) (kein Design, Sittenverstoß, Hoheitszeichen); Neuheit und Eigenart werden nicht geprüft. Mängel werden mit Frist gerügt, sonst wird zurückgewiesen ([§ 16 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html)); die Eintragung erfolgt ohne Prüfung der Berechtigung ([§ 19 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__19.html)) und wird mit Wiedergabe bekannt gemacht ([§ 20 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__20.html)).
+
+Normen: [§ 16 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html) MarkenG, [§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html) MarkenG, [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) MarkenG, [§ 19 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__19.html) MarkenG, [§ 20 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__20.html) MarkenG, [Art. 45 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 47 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das DPMA prüft Gebührenzahlung, Anmeldetagserfordernisse und sonstige Formerfordernisse ([§ 16 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html)) sowie die Eintragungshindernisse des [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) (kein Design, Sittenverstoß, Hoheitszeichen); Neuheit und Eigenart werden nicht geprüft. Mängel werden mit Frist gerügt, sonst wird zurückgewiesen ([§ 16 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html)); die Eintragung erfolgt ohne Prüfung der Berechtigung ([§ 19 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__19.html)) und wird mit Wiedergabe bekannt gemacht ([§ 20 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__20.html)).
+
+**A:** Prüfung, Eintragung, Bekanntmachung (§§ [16](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html) bis [20](https://www.gesetze-im-internet.de/geschmmg_2004/__20.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Aufschiebung der Bildbekanntmachung ([§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html))
+
+**A:** Mit der Anmeldung kann beantragt werden, die Bekanntmachung der Wiedergabe um 30 Monate ab Anmeldetag aufzuschieben ([§ 21 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html)); bekannt gemacht wird dann nur die Eintragung. Der Schutz muss innerhalb der Aufschiebungsfrist durch Zahlung der Erstreckungsgebühr auf die volle Schutzdauer erstreckt werden, sonst endet er mit Ablauf der 30 Monate ([§ 21 Abs. 2, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html)).
+
+Normen: [§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html) MarkenG, [§ 38 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [§ 11 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [§ 19 DesignV](https://www.gesetze-im-internet.de/designv/__19.html) MarkenG, [Art. 50 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Mit der Anmeldung kann beantragt werden, die Bekanntmachung der Wiedergabe um 30 Monate ab Anmeldetag aufzuschieben ([§ 21 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html)); bekannt gemacht wird dann nur die Eintragung. Der Schutz muss innerhalb der Aufschiebungsfrist durch Zahlung der Erstreckungsgebühr auf die volle Schutzdauer erstreckt werden, sonst endet er mit Ablauf der 30 Monate ([§ 21 Abs. 2, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html)).
+
+**A:** Aufschiebung der Bildbekanntmachung ([§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html))
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Weiterbehandlung und Wiedereinsetzung ([§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html), [§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html))
+
+**A:** Wird die Anmeldung wegen Versäumung einer vom DPMA gesetzten Frist zurückgewiesen, wird der Beschluss wirkungslos, wenn der Anmelder binnen eines Monats nach Zustellung Weiterbehandlung beantragt, die Handlung nachholt und die Gebühr zahlt ([§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html)); kein Verschuldensmaßstab, aber keine Wiedereinsetzung in diese Frist ([§ 17 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html)). Für andere Fristen gilt die Wiedereinsetzung nach [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html) entsprechend ([§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html)).
+
+Normen: [§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html) MarkenG, [§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html) MarkenG, [§ 13 DesignV](https://www.gesetze-im-internet.de/designv/__13.html) MarkenG, [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html) MarkenG
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wird die Anmeldung wegen Versäumung einer vom DPMA gesetzten Frist zurückgewiesen, wird der Beschluss wirkungslos, wenn der Anmelder binnen eines Monats nach Zustellung Weiterbehandlung beantragt, die Handlung nachholt und die Gebühr zahlt ([§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html)); kein Verschuldensmaßstab, aber keine Wiedereinsetzung in diese Frist ([§ 17 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html)). Für andere Fristen gilt die Wiedereinsetzung nach [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html) entsprechend ([§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html)).
+
+**A:** Weiterbehandlung und Wiedereinsetzung ([§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html), [§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html))
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Beschwerde zum BPatG und Rechtsbeschwerde ([§ 23 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html))
+
+**A:** Gegen Beschlüsse des DPMA in Designsachen findet die Beschwerde zum BPatG statt ([§ 23 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html); Frist ein Monat, Gebühr 200 EUR, Nr. 401 300 GV PatKostG), über die ein Senat mit drei rechtskundigen Mitgliedern entscheidet (Nichtigkeitssachen: 30. Senat). Die Rechtsbeschwerde zum BGH ist nur bei Zulassung oder wegen absoluter Verfahrensmängel statthaft ([§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html), [§ 100 PatG](https://www.gesetze-im-internet.de/patg/__100.html)).
+
+Normen: [§ 23 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html) MarkenG, [§ 58 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__58.html) MarkenG, [§ 100 PatG](https://www.gesetze-im-internet.de/patg/__100.html) MarkenG
+
+Rechtsprechung: BGH Heizkörperdesign (I ZB 10/21)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen Beschlüsse des DPMA in Designsachen findet die Beschwerde zum BPatG statt ([§ 23 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html); Frist ein Monat, Gebühr 200 EUR, Nr. 401 300 GV PatKostG), über die ein Senat mit drei rechtskundigen Mitgliedern entscheidet (Nichtigkeitssachen: 30. Senat). Die Rechtsbeschwerde zum BGH ist nur bei Zulassung oder wegen absoluter Verfahrensmängel statthaft ([§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html), [§ 100 PatG](https://www.gesetze-im-internet.de/patg/__100.html)).
+
+**A:** Beschwerde zum BPatG und Rechtsbeschwerde ([§ 23 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html))
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Entstehung, Schutzdauer, Aufrechterhaltung (§§ [27](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html), [28](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) DesignG)
+
+**A:** Der Schutz entsteht mit der Eintragung ([§ 27 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html)) und dauert bis zu 25 Jahre ab Anmeldetag ([§ 27 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html)); er wird durch Aufrechterhaltungsgebühren für das 6. bis 10., 11. bis 15., 16. bis 20. und 21. bis 25. Jahr verlängert ([§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html)), sonst endet er und das Design wird gelöscht ([§ 36 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html)).
+
+Normen: [§ 27 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html) MarkenG, [§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) MarkenG, [§ 36 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html) MarkenG, [§ 19 DesignV](https://www.gesetze-im-internet.de/designv/__19.html) MarkenG, [Art. 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+*Tags: Begriff, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Schutz entsteht mit der Eintragung ([§ 27 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html)) und dauert bis zu 25 Jahre ab Anmeldetag ([§ 27 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html)); er wird durch Aufrechterhaltungsgebühren für das 6. bis 10., 11. bis 15., 16. bis 20. und 21. bis 25. Jahr verlängert ([§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html)), sonst endet er und das Design wird gelöscht ([§ 36 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html)).
+
+**A:** Entstehung, Schutzdauer, Aufrechterhaltung (§§ [27](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html), [28](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+## definition
+
+**F:** Definiere: Nichtigkeitsgründe ([§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+
+**A:** Ein eingetragenes Design ist nichtig, wenn es kein Design ist, nicht neu ist oder keine Eigenart hat oder nach [§ 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) ausgeschlossen ist ([§ 33 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), absolute Gründe, Feststellung auf Antrag jedermanns). Es wird für nichtig erklärt, wenn es ein Urheberrecht verletzt, in den Schutzumfang eines älteren Designs fällt oder ein Zeichen mit Unterscheidungskraft benutzt ([§ 33 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), relative Gründe, nur auf Antrag des Rechtsinhabers).
+
+Normen: [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG, [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) MarkenG, [§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html) MarkenG, [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 11 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: BGH Sporthelm (I ZB 25/18); EuGH DOCERAM/CeramTec (Zentrierstifte) (C-395/16); BPatG Violette Trittleiter (30 W (pat) 801/23)
+
+*Tags: Begriff, Design: Nichtigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein eingetragenes Design ist nichtig, wenn es kein Design ist, nicht neu ist oder keine Eigenart hat oder nach [§ 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) ausgeschlossen ist ([§ 33 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), absolute Gründe, Feststellung auf Antrag jedermanns). Es wird für nichtig erklärt, wenn es ein Urheberrecht verletzt, in den Schutzumfang eines älteren Designs fällt oder ein Zeichen mit Unterscheidungskraft benutzt ([§ 33 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), relative Gründe, nur auf Antrag des Rechtsinhabers).
+
+**A:** Nichtigkeitsgründe ([§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+
+*Tags: Begriff, Umkehr, Design: Nichtigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Nichtigkeitsverfahren vor dem DPMA ([§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html))
+
+**A:** Der Antrag auf Feststellung oder Erklärung der Nichtigkeit ist schriftlich mit Tatsachen und Beweismitteln beim DPMA zu stellen ([§ 34a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html), [§ 21 DesignV](https://www.gesetze-im-internet.de/designv/__21.html); Gebühr 300 EUR je Design, Nr. 346 100 GV PatKostG). Das DPMA stellt ihn dem Inhaber zu; widerspricht dieser nicht binnen eines Monats, wird die Nichtigkeit ohne Sachprüfung festgestellt oder erklärt ([§ 34a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)); sonst entscheidet die Designabteilung nach Anhörung durch Beschluss mit Kostenentscheidung ([§ 34a Abs. 3 bis 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)).
+
+Normen: [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html) MarkenG, [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) MarkenG, [§ 34b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34b.html) MarkenG, [§ 34c DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html) MarkenG, [§ 21 DesignV](https://www.gesetze-im-internet.de/designv/__21.html) MarkenG, [§ 22 DesignV](https://www.gesetze-im-internet.de/designv/__22.html) MarkenG, [§ 23 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html) MarkenG
+
+Rechtsprechung: BGH Sporthelm (I ZB 25/18); BGH Sattelunterseite II (I ZB 31/20); BPatG Sattelunterseite II (BPatG) (30 W (pat) 802/23); BPatG Violette Trittleiter (30 W (pat) 801/23)
+
+*Tags: Begriff, Design: Nichtigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Antrag auf Feststellung oder Erklärung der Nichtigkeit ist schriftlich mit Tatsachen und Beweismitteln beim DPMA zu stellen ([§ 34a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html), [§ 21 DesignV](https://www.gesetze-im-internet.de/designv/__21.html); Gebühr 300 EUR je Design, Nr. 346 100 GV PatKostG). Das DPMA stellt ihn dem Inhaber zu; widerspricht dieser nicht binnen eines Monats, wird die Nichtigkeit ohne Sachprüfung festgestellt oder erklärt ([§ 34a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)); sonst entscheidet die Designabteilung nach Anhörung durch Beschluss mit Kostenentscheidung ([§ 34a Abs. 3 bis 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)).
+
+**A:** Nichtigkeitsverfahren vor dem DPMA ([§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html))
+
+*Tags: Begriff, Umkehr, Design: Nichtigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Nichtigkeitswiderklage und Registerprinzip (§§ [52a](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html), [52b](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html) DesignG)
+
+**A:** Im Verletzungsprozess kann sich der Beklagte auf die fehlende Rechtsgültigkeit nur durch Widerklage auf Feststellung oder Erklärung der Nichtigkeit oder durch Antrag beim DPMA berufen, nicht durch bloße Einrede ([§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html); Ausnahme: einstweilige Verfügung). Für die Widerklage ist das Designgericht zuständig, wenn sie mit der Verletzungsklage zusammenhängt ([§ 52b Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)); nach rechtskräftigem DPMA-Beschluss ist sie unzulässig ([§ 52b Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)).
+
+Normen: [§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html) MarkenG, [§ 52b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html) MarkenG, [§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html) MarkenG, [Art. 84 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 86 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuGH Karen Millen Fashions/Dunnes Stores (C-345/13); BGH Kinderwagen I (I ZR 23/10)
+
+*Tags: Begriff, Design: Nichtigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Im Verletzungsprozess kann sich der Beklagte auf die fehlende Rechtsgültigkeit nur durch Widerklage auf Feststellung oder Erklärung der Nichtigkeit oder durch Antrag beim DPMA berufen, nicht durch bloße Einrede ([§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html); Ausnahme: einstweilige Verfügung). Für die Widerklage ist das Designgericht zuständig, wenn sie mit der Verletzungsklage zusammenhängt ([§ 52b Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)); nach rechtskräftigem DPMA-Beschluss ist sie unzulässig ([§ 52b Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)).
+
+**A:** Nichtigkeitswiderklage und Registerprinzip (§§ [52a](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html), [52b](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Nichtigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Teilweise Aufrechterhaltung und Löschung (§§ [35](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html), [36](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html) DesignG)
+
+**A:** Ein Design kann in geänderter Form bestehen bleiben, wenn die Nichtigkeit nur Teile betrifft (Teilnichtigkeit oder Teilverzicht) und das Design seine Identität behält ([§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html), [Art. 11 Abs. 7 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)); eine geänderte Wiedergabe ist einzureichen. Gelöscht wird bei Schutzende, Verzicht, Einwilligung und rechtskräftiger Nichtigkeit ([§ 36 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html)).
+
+Normen: [§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html) MarkenG, [§ 36 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html) MarkenG, [§ 33 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG, [§ 20 DesignV](https://www.gesetze-im-internet.de/designv/__20.html) MarkenG
+
+*Tags: Begriff, Design: Nichtigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Design kann in geänderter Form bestehen bleiben, wenn die Nichtigkeit nur Teile betrifft (Teilnichtigkeit oder Teilverzicht) und das Design seine Identität behält ([§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html), [Art. 11 Abs. 7 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)); eine geänderte Wiedergabe ist einzureichen. Gelöscht wird bei Schutzende, Verzicht, Einwilligung und rechtskräftiger Nichtigkeit ([§ 36 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html)).
+
+**A:** Teilweise Aufrechterhaltung und Löschung (§§ [35](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html), [36](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Nichtigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Schutzgegenstand ([§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html))
+
+**A:** Der Schutz wird für diejenigen Merkmale der Erscheinungsform begründet, die in der Anmeldung sichtbar wiedergegeben sind ([§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html), ab 2027 [Art. 15 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Der Schutzgegenstand ist durch Auslegung der Wiedergabe zu ermitteln, wenn mehrere Darstellungen voneinander abweichen.
+
+Normen: [§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) MarkenG, [§ 11 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html) MarkenG, [§ 10 DesignV](https://www.gesetze-im-internet.de/designv/__10.html) MarkenG, [Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 15 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Rechtsprechung: BGH Weinkaraffe (I ZR 124/10); BGH Sporthelm (I ZB 25/18); BGH Sportbrille (I ZB 26/18); BGH Schneidebrett (I ZR 16/21)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Schutz wird für diejenigen Merkmale der Erscheinungsform begründet, die in der Anmeldung sichtbar wiedergegeben sind ([§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html), ab 2027 [Art. 15 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Der Schutzgegenstand ist durch Auslegung der Wiedergabe zu ermitteln, wenn mehrere Darstellungen voneinander abweichen.
+
+**A:** Schutzgegenstand ([§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Schutzumfang ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html))
+
+**A:** Der Schutz erstreckt sich auf jedes Design, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt; dabei wird der Grad der Gestaltungsfreiheit des Entwerfers berücksichtigt ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html), [Art. 9 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [§ 38 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 9 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: BGH Untersetzer (I ZR 71/08); BGH Kinderwagen II (I ZR 102/11); BGH Meda Gate (I ZR 164/17); BGH Ballerinaschuh (I ZR 187/16)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Schutz erstreckt sich auf jedes Design, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt; dabei wird der Grad der Gestaltungsfreiheit des Entwerfers berücksichtigt ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html), [Art. 9 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Schutzumfang ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Benutzungshandlungen und Verletzung ([§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html))
+
+**A:** Das eingetragene Design gewährt das ausschließliche Recht, es zu benutzen und Dritten die Benutzung ohne Zustimmung zu verbieten; Benutzung ist insbesondere Herstellen, Anbieten, Inverkehrbringen, Ein- und Ausfuhr, Gebrauch eines Erzeugnisses, in das das Design aufgenommen ist, und Besitz zu diesen Zwecken ([§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html), [Art. 12 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG, [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG, [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 12 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 16 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Rechtsprechung: EuGH Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento (C-488/10); BGH Kinderwagen I (I ZR 23/10)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das eingetragene Design gewährt das ausschließliche Recht, es zu benutzen und Dritten die Benutzung ohne Zustimmung zu verbieten; Benutzung ist insbesondere Herstellen, Anbieten, Inverkehrbringen, Ein- und Ausfuhr, Gebrauch eines Erzeugnisses, in das das Design aufgenommen ist, und Besitz zu diesen Zwecken ([§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html), [Art. 12 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Benutzungshandlungen und Verletzung ([§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Vermutung der Rechtsgültigkeit ([§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html))
+
+**A:** Zugunsten des Rechtsinhabers wird vermutet, dass die Anforderungen an die Rechtsgültigkeit des eingetragenen Designs erfüllt sind ([§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html), [Art. 85 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), ab 2027 [Art. 17 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)).
+
+Normen: [§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html) MarkenG, [§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html) MarkenG, [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 17 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Rechtsprechung: EuGH Karen Millen Fashions/Dunnes Stores (C-345/13); BGH Bolerojäckchen (I ZR 23/12); EuGH Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento (C-488/10)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Zugunsten des Rechtsinhabers wird vermutet, dass die Anforderungen an die Rechtsgültigkeit des eingetragenen Designs erfüllt sind ([§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html), [Art. 85 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), ab 2027 [Art. 17 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)).
+
+**A:** Vermutung der Rechtsgültigkeit ([§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Schranken ([§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html))
+
+**A:** Rechte aus dem Design können nicht geltend gemacht werden gegenüber Handlungen im privaten Bereich zu nichtgewerblichen Zwecken, Handlungen zu Versuchszwecken, Wiedergaben zum Zwecke der Zitierung oder der Lehre (bei Lauterkeit und Quellenangabe) sowie gegenüber Einrichtungen von Schiffen und Luftfahrzeugen im vorübergehenden Inlandsaufenthalt ([§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html), [Art. 13 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html) MarkenG, [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html) MarkenG, [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html) MarkenG, [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) MarkenG, [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 18 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Rechtsprechung: BGH ICE (I ZR 56/09); EuGH Nintendo/BigBen Interactive (C-24/16, C-25/16); BGH Bettgestell (I ZR 9/16)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Rechte aus dem Design können nicht geltend gemacht werden gegenüber Handlungen im privaten Bereich zu nichtgewerblichen Zwecken, Handlungen zu Versuchszwecken, Wiedergaben zum Zwecke der Zitierung oder der Lehre (bei Lauterkeit und Quellenangabe) sowie gegenüber Einrichtungen von Schiffen und Luftfahrzeugen im vorübergehenden Inlandsaufenthalt ([§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html), [Art. 13 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Schranken ([§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Zitat und Lehre ([§ 40 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html))
+
+**A:** Wiedergaben zum Zwecke der Zitierung oder der Lehre sind frei, wenn sie mit den Gepflogenheiten des redlichen Geschäftsverkehrs vereinbar sind, die normale Verwertung nicht unangemessen beeinträchtigen und die Quelle angeben ([§ 40 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html), [Art. 20 Abs. 1 lit. c GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html) MarkenG, [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH ICE (I ZR 56/09); EuGH Nintendo/BigBen Interactive (C-24/16, C-25/16)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wiedergaben zum Zwecke der Zitierung oder der Lehre sind frei, wenn sie mit den Gepflogenheiten des redlichen Geschäftsverkehrs vereinbar sind, die normale Verwertung nicht unangemessen beeinträchtigen und die Quelle angeben ([§ 40 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html), [Art. 20 Abs. 1 lit. c GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Zitat und Lehre ([§ 40 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Reparaturklausel ([§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html), [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+**A:** Es besteht kein Designschutz für ein Bauelement eines komplexen Erzeugnisses, das allein mit dem Ziel verwendet wird, die Reparatur dieses Erzeugnisses zu ermöglichen, um ihm wieder sein ursprüngliches Erscheinungsbild zu verleihen, sofern die Verbraucher über den Ursprung des Ersatzteils unterrichtet werden ([§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html), seit 2.12.2020; [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), seit 1.5.2025; [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), zwingend ab 2027).
+
+Normen: [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) MarkenG, [§ 73 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html) MarkenG, [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 14 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: EuGH Acacia/Audi und Porsche (Felgen) (C-397/16, C-435/16); BGH Kraftfahrzeugfelgen II (I ZR 226/14); BGH Schlüsselgehäuse (I ZR 116/24)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Es besteht kein Designschutz für ein Bauelement eines komplexen Erzeugnisses, das allein mit dem Ziel verwendet wird, die Reparatur dieses Erzeugnisses zu ermöglichen, um ihm wieder sein ursprüngliches Erscheinungsbild zu verleihen, sofern die Verbraucher über den Ursprung des Ersatzteils unterrichtet werden ([§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html), seit 2.12.2020; [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), seit 1.5.2025; [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), zwingend ab 2027).
+
+**A:** Reparaturklausel ([§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html), [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Vorbenutzungsrecht ([§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html))
+
+**A:** Rechte aus dem Design können nicht gegen einen Dritten geltend gemacht werden, der vor dem Anmeldetag im Inland ein identisches, unabhängig entwickeltes Design gutgläubig in Benutzung genommen oder wirkliche und ernsthafte Anstalten dazu getroffen hat; er darf das Design für die Bedürfnisse seines Betriebs weiterbenutzen ([§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html), [Art. 22 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), ab 2027 [Art. 21 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)).
+
+Normen: [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html) MarkenG, [Art. 22 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 21 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Rechtsprechung: BGH Bettgestell (I ZR 9/16)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Rechte aus dem Design können nicht gegen einen Dritten geltend gemacht werden, der vor dem Anmeldetag im Inland ein identisches, unabhängig entwickeltes Design gutgläubig in Benutzung genommen oder wirkliche und ernsthafte Anstalten dazu getroffen hat; er darf das Design für die Bedürfnisse seines Betriebs weiterbenutzen ([§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html), [Art. 22 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), ab 2027 [Art. 21 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)).
+
+**A:** Vorbenutzungsrecht ([§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Erschöpfung ([§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html))
+
+**A:** Die Rechte aus dem Design erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, das vom Rechtsinhaber oder mit seiner Zustimmung in einem Mitgliedstaat der EU oder des EWR in Verkehr gebracht wurde ([§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html), [Art. 15 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 21 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html) MarkenG, [Art. 21 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 15 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 20 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+*Tags: Begriff, Design: Schutzwirkung und Schranken*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Rechte aus dem Design erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, das vom Rechtsinhaber oder mit seiner Zustimmung in einem Mitgliedstaat der EU oder des EWR in Verkehr gebracht wurde ([§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html), [Art. 15 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 21 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Erschöpfung ([§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html))
+
+*Tags: Begriff, Umkehr, Design: Schutzwirkung und Schranken*
+
+---
+
+## definition
+
+**F:** Definiere: Beseitigung und Unterlassung ([§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html))
+
+**A:** Wer ein eingetragenes Design entgegen [§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) benutzt, kann vom Rechtsinhaber oder einem anderen Berechtigten auf Beseitigung und bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Unterlassungsanspruch besteht auch bei drohender Erstbegehung ([§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), Umsetzung von [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+Normen: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG, [§ 31 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) MarkenG, [§ 44 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__44.html) MarkenG, [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Rechtsprechung: BGH Kinderwagen I (I ZR 23/10); BGH Griffleiste (I ZR 127/24)
+
+*Tags: Begriff, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer ein eingetragenes Design entgegen [§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) benutzt, kann vom Rechtsinhaber oder einem anderen Berechtigten auf Beseitigung und bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden; der Unterlassungsanspruch besteht auch bei drohender Erstbegehung ([§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), Umsetzung von [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+**A:** Beseitigung und Unterlassung ([§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html))
+
+*Tags: Begriff, Umkehr, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Schadensersatz und Entschädigung ([§ 42 Abs. 2](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html))
+
+**A:** Bei Vorsatz oder Fahrlässigkeit ist der Verletzer zum Schadensersatz verpflichtet; der Schaden kann konkret, nach dem Verletzergewinn oder nach der angemessenen Lizenzgebühr berechnet werden ([§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))). Der schuldlose Verletzer kann Unterlassung und Vernichtung durch eine Geldentschädigung in Höhe der Lizenzgebühr abwenden, wenn ihm sonst ein unverhältnismäßiger Schaden droht ([§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html), [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+Normen: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG, [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html) MarkenG, [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) MarkenG, [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuGH Acacia/BMW (anwendbares Recht) (C-421/20)
+
+*Tags: Begriff, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei Vorsatz oder Fahrlässigkeit ist der Verletzer zum Schadensersatz verpflichtet; der Schaden kann konkret, nach dem Verletzergewinn oder nach der angemessenen Lizenzgebühr berechnet werden ([§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))). Der schuldlose Verletzer kann Unterlassung und Vernichtung durch eine Geldentschädigung in Höhe der Lizenzgebühr abwenden, wenn ihm sonst ein unverhältnismäßiger Schaden droht ([§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html), [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+**A:** Schadensersatz und Entschädigung ([§ 42 Abs. 2](https://www.gesetze-im-internet.de/markeng/__42.html), [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html))
+
+*Tags: Begriff, Umkehr, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Vernichtung, Rückruf, Überlassung ([§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html))
+
+**A:** Der Verletzte kann Vernichtung der rechtswidrig hergestellten oder verbreiteten Erzeugnisse und der vorwiegend dazu benutzten Vorrichtungen ([§ 43 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)), Rückruf und endgültiges Entfernen aus den Vertriebswegen ([§ 43 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)) oder statt der Vernichtung Überlassung gegen Vergütung bis zu den Herstellungskosten ([§ 43 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)) verlangen; ausgeschlossen bei Unverhältnismäßigkeit ([§ 43 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)). Umsetzung von [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)).
+
+Normen: [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) MarkenG, [§ 44 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__44.html) MarkenG, [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+*Tags: Begriff, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Verletzte kann Vernichtung der rechtswidrig hergestellten oder verbreiteten Erzeugnisse und der vorwiegend dazu benutzten Vorrichtungen ([§ 43 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)), Rückruf und endgültiges Entfernen aus den Vertriebswegen ([§ 43 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)) oder statt der Vernichtung Überlassung gegen Vergütung bis zu den Herstellungskosten ([§ 43 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)) verlangen; ausgeschlossen bei Unverhältnismäßigkeit ([§ 43 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)). Umsetzung von [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)).
+
+**A:** Vernichtung, Rückruf, Überlassung ([§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html))
+
+*Tags: Begriff, Umkehr, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Auskunft und Drittauskunft ([§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html))
+
+**A:** Der Verletzer schuldet unverzügliche Auskunft über Herkunft und Vertriebsweg der rechtsverletzenden Erzeugnisse ([§ 46 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)); bei offensichtlicher Verletzung oder nach Klageerhebung auch Dritte, die in gewerblichem Ausmaß Erzeugnisse besaßen, Dienstleistungen nutzten oder erbrachten ([§ 46 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)). Inhalt: Namen und Anschriften von Herstellern, Lieferanten, gewerblichen Abnehmern und Mengen und Preise ([§ 46 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)). Umsetzung von [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)).
+
+Normen: [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) MarkenG, [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) MarkenG, [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) MarkenG, [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+*Tags: Begriff, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Verletzer schuldet unverzügliche Auskunft über Herkunft und Vertriebsweg der rechtsverletzenden Erzeugnisse ([§ 46 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)); bei offensichtlicher Verletzung oder nach Klageerhebung auch Dritte, die in gewerblichem Ausmaß Erzeugnisse besaßen, Dienstleistungen nutzten oder erbrachten ([§ 46 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)). Inhalt: Namen und Anschriften von Herstellern, Lieferanten, gewerblichen Abnehmern und Mengen und Preise ([§ 46 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)). Umsetzung von [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)).
+
+**A:** Auskunft und Drittauskunft ([§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html))
+
+*Tags: Begriff, Umkehr, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Vorlage, Besichtigung, Sicherung (§§ [46a](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), [46b](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) DesignG)
+
+**A:** Bei hinreichender Wahrscheinlichkeit einer Verletzung kann der Berechtigte Vorlage einer Urkunde oder Besichtigung einer Sache verlangen, auch durch einstweilige Verfügung mit Geheimnisschutz ([§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), [Art. 6, 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))); bei Verletzung in gewerblichem Ausmaß und gefährdeter Erfüllung des Schadensersatzanspruchs auch Vorlage von Bank-, Finanz- und Handelsunterlagen ([§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html), [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+Normen: [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) MarkenG, [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) MarkenG, [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+*Tags: Begriff, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei hinreichender Wahrscheinlichkeit einer Verletzung kann der Berechtigte Vorlage einer Urkunde oder Besichtigung einer Sache verlangen, auch durch einstweilige Verfügung mit Geheimnisschutz ([§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), [Art. 6, 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))); bei Verletzung in gewerblichem Ausmaß und gefährdeter Erfüllung des Schadensersatzanspruchs auch Vorlage von Bank-, Finanz- und Handelsunterlagen ([§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html), [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+**A:** Vorlage, Besichtigung, Sicherung (§§ [46a](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), [46b](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Verjährung und Urteilsbekanntmachung (§§ [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html), [49](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) DesignG)
+
+**A:** Die Ansprüche aus §§ [42](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG verjähren nach [§§ 194 ff. BGB](https://www.gesetze-im-internet.de/bgb/__194.html) (drei Jahre ab Kenntnis, zehn Jahre absolut); danach bleibt der Restschadensersatz nach [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) ([§ 49 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html)). Die obsiegende Partei kann bei berechtigtem Interesse die Befugnis zur Urteilsbekanntmachung erhalten; sie erlischt drei Monate nach Rechtskraft ([§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html), [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+Normen: [§ 49 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) MarkenG, [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) MarkenG, [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) MarkenG, [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Rechtsprechung: EuGH Gautzsch Großhandel/MBM Joseph Duna (Gartenpavillon) (C-479/12)
+
+*Tags: Begriff, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Ansprüche aus §§ [42](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG verjähren nach [§§ 194 ff. BGB](https://www.gesetze-im-internet.de/bgb/__194.html) (drei Jahre ab Kenntnis, zehn Jahre absolut); danach bleibt der Restschadensersatz nach [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) ([§ 49 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html)). Die obsiegende Partei kann bei berechtigtem Interesse die Befugnis zur Urteilsbekanntmachung erhalten; sie erlischt drei Monate nach Rechtskraft ([§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html), [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))).
+
+**A:** Verjährung und Urteilsbekanntmachung (§§ [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html), [49](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Designstreitsachen und Gerichtsstand (§§ [52](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) bis [54](https://www.gesetze-im-internet.de/geschmmg_2004/__54.html) DesignG)
+
+**A:** Für Designstreitsachen sind die Landgerichte ohne Rücksicht auf den Streitwert ausschließlich zuständig ([§ 52 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html)), mit Konzentration bei bestimmten Designgerichten ([§ 52 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html)); Patentanwaltskosten sind nach [§ 13 RVG](https://www.gesetze-im-internet.de/rvg/__13.html) zu erstatten ([§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html)). Ansprüche, die auch auf das UWG gestützt werden, können beim Designgericht geltend gemacht werden ([§ 53 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__53.html)); Streitwertbegünstigung nach [§ 54 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__54.html).
+
+Normen: [§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) MarkenG, [§ 53 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__53.html) MarkenG, [§ 54 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__54.html) MarkenG, [§ 58 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__58.html) MarkenG, [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html) MarkenG, [Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH Griffleiste (I ZR 127/24)
+
+*Tags: Begriff, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für Designstreitsachen sind die Landgerichte ohne Rücksicht auf den Streitwert ausschließlich zuständig ([§ 52 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html)), mit Konzentration bei bestimmten Designgerichten ([§ 52 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html)); Patentanwaltskosten sind nach [§ 13 RVG](https://www.gesetze-im-internet.de/rvg/__13.html) zu erstatten ([§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html)). Ansprüche, die auch auf das UWG gestützt werden, können beim Designgericht geltend gemacht werden ([§ 53 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__53.html)); Streitwertbegünstigung nach [§ 54 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__54.html).
+
+**A:** Designstreitsachen und Gerichtsstand (§§ [52](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) bis [54](https://www.gesetze-im-internet.de/geschmmg_2004/__54.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Grenzbeschlagnahme und Strafbarkeit (§§ [51](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html), [55](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html) bis [57a](https://www.gesetze-im-internet.de/geschmmg_2004/__57a.html) DesignG)
+
+**A:** Bei offensichtlicher Verletzung unterliegen Erzeugnisse auf Antrag und gegen Sicherheitsleistung bei Ein- und Ausfuhr der Beschlagnahme durch die Zollbehörde, soweit nicht die Verordnung (EU) Nr. 608/2013 gilt ([§ 55 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html)); Verfahren, Widerspruch und Einziehung regeln §§ [56](https://www.gesetze-im-internet.de/geschmmg_2004/__56.html), [57](https://www.gesetze-im-internet.de/geschmmg_2004/__57.html) DesignG. Die vorsätzliche Designverletzung ist strafbar ([§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html), gewerbsmäßig bis fünf Jahre), ebenso die Verletzung eines Unionsgeschmacksmusters ([§ 65 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__65.html)).
+
+Normen: [§ 55 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html) MarkenG, [§ 56 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__56.html) MarkenG, [§ 57 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__57.html) MarkenG, [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html) MarkenG, [§ 65 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__65.html) MarkenG, [Art. 16 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+*Tags: Begriff, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei offensichtlicher Verletzung unterliegen Erzeugnisse auf Antrag und gegen Sicherheitsleistung bei Ein- und Ausfuhr der Beschlagnahme durch die Zollbehörde, soweit nicht die Verordnung (EU) Nr. 608/2013 gilt ([§ 55 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html)); Verfahren, Widerspruch und Einziehung regeln §§ [56](https://www.gesetze-im-internet.de/geschmmg_2004/__56.html), [57](https://www.gesetze-im-internet.de/geschmmg_2004/__57.html) DesignG. Die vorsätzliche Designverletzung ist strafbar ([§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html), gewerbsmäßig bis fünf Jahre), ebenso die Verletzung eines Unionsgeschmacksmusters ([§ 65 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__65.html)).
+
+**A:** Grenzbeschlagnahme und Strafbarkeit (§§ [51](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html), [55](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html) bis [57a](https://www.gesetze-im-internet.de/geschmmg_2004/__57a.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Rechtsfolgen und Verfahren*
+
+---
+
+## definition
+
+**F:** Definiere: Eingetragenes Unionsgeschmacksmuster ([Art. 1, 12, 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+**A:** Das eingetragene Unionsgeschmacksmuster (bis 30.4.2025: Gemeinschaftsgeschmacksmuster) entsteht durch Eintragung beim EUIPO, gilt einheitlich in der gesamten Union ([Art. 1 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), dauert fünf Jahre und ist bis 25 Jahre ab Anmeldetag verlängerbar ([Art. 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); es gewährt ein objektives Verbotsrecht wie [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) ([Art. 19 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [Art. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 35 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 37 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 52 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 62 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62.html) MarkenG, [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html) MarkenG
+
+Rechtsprechung: EuGH Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento (C-488/10); BGH Weinkaraffe (I ZR 124/10); BGH Untersetzer (I ZR 71/08)
+
+*Tags: Begriff, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das eingetragene Unionsgeschmacksmuster (bis 30.4.2025: Gemeinschaftsgeschmacksmuster) entsteht durch Eintragung beim EUIPO, gilt einheitlich in der gesamten Union ([Art. 1 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), dauert fünf Jahre und ist bis 25 Jahre ab Anmeldetag verlängerbar ([Art. 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); es gewährt ein objektives Verbotsrecht wie [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) ([Art. 19 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Eingetragenes Unionsgeschmacksmuster ([Art. 1, 12, 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Begriff, Umkehr, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## definition
+
+**F:** Definiere: Nicht eingetragenes Unionsgeschmacksmuster ([Art. 11, 19 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+**A:** Ein Design, das die Schutzvoraussetzungen erfüllt, ist ohne Eintragung für drei Jahre ab dem Tag geschützt, an dem es erstmals innerhalb der Union der Öffentlichkeit zugänglich gemacht wurde ([Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); der Schutz richtet sich nur gegen Nachahmungen, nicht gegen unabhängige Parallelschöpfungen ([Art. 19 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuGH Gautzsch Großhandel/MBM Joseph Duna (Gartenpavillon) (C-479/12); EuGH Karen Millen Fashions/Dunnes Stores (C-345/13); BGH Bolerojäckchen (I ZR 23/12); EuGH Ferrari/Mansory Design (Front kit) (C-123/20)
+
+*Tags: Begriff, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Design, das die Schutzvoraussetzungen erfüllt, ist ohne Eintragung für drei Jahre ab dem Tag geschützt, an dem es erstmals innerhalb der Union der Öffentlichkeit zugänglich gemacht wurde ([Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); der Schutz richtet sich nur gegen Nachahmungen, nicht gegen unabhängige Parallelschöpfungen ([Art. 19 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Nicht eingetragenes Unionsgeschmacksmuster ([Art. 11, 19 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Begriff, Umkehr, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## definition
+
+**F:** Definiere: Unionsgeschmacksmustergerichte und Zuständigkeit ([Art. 80 bis 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html))
+
+**A:** Verletzungsklagen und Nichtigkeitswiderklagen gehören ausschließlich vor die von den Mitgliedstaaten benannten Unionsgeschmacksmustergerichte ([Art. 80, 81 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); in Deutschland die Landgerichte, [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)). International zuständig ist das Gericht am Sitz des Beklagten, hilfsweise des Klägers, hilfsweise Spanien, alternativ das Gericht des Verletzungsorts ([Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); nur der Sitzgerichtsstand reicht unionsweit ([Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+Normen: [Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 81 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 91 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html) MarkenG
+
+Rechtsprechung: EuGH Nintendo/BigBen Interactive (C-24/16, C-25/16); BGH Kinderwagen I (I ZR 23/10); EuGH Acacia/BMW (anwendbares Recht) (C-421/20)
+
+*Tags: Begriff, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Verletzungsklagen und Nichtigkeitswiderklagen gehören ausschließlich vor die von den Mitgliedstaaten benannten Unionsgeschmacksmustergerichte ([Art. 80, 81 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); in Deutschland die Landgerichte, [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)). International zuständig ist das Gericht am Sitz des Beklagten, hilfsweise des Klägers, hilfsweise Spanien, alternativ das Gericht des Verletzungsorts ([Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); nur der Sitzgerichtsstand reicht unionsweit ([Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+**A:** Unionsgeschmacksmustergerichte und Zuständigkeit ([Art. 80 bis 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html))
+
+*Tags: Begriff, Umkehr, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## definition
+
+**F:** Definiere: Anwendbares Recht und Sanktionen ([Art. 88, 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html))
+
+**A:** Das Unionsgeschmacksmustergericht wendet die Verordnung an und ergänzend sein nationales Recht einschließlich des IPR ([Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Unterlassung, Beschlagnahme und Vernichtung folgen aus [Art. 89 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); für weitere Sanktionen verweist [Art. 89 Abs. 1 lit. d GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) auf das Recht des Mitgliedstaats, in dem die Verletzung begangen wurde.
+
+Normen: [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 90 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) MarkenG
+
+Rechtsprechung: EuGH Acacia/BMW (anwendbares Recht) (C-421/20); EuGH Nintendo/BigBen Interactive (C-24/16, C-25/16); EuGH Gautzsch Großhandel/MBM Joseph Duna (Gartenpavillon) (C-479/12)
+
+*Tags: Begriff, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Unionsgeschmacksmustergericht wendet die Verordnung an und ergänzend sein nationales Recht einschließlich des IPR ([Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Unterlassung, Beschlagnahme und Vernichtung folgen aus [Art. 89 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); für weitere Sanktionen verweist [Art. 89 Abs. 1 lit. d GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) auf das Recht des Mitgliedstaats, in dem die Verletzung begangen wurde.
+
+**A:** Anwendbares Recht und Sanktionen ([Art. 88, 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html))
+
+*Tags: Begriff, Umkehr, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## definition
+
+**F:** Definiere: Internationale Eintragung nach dem Haager Abkommen (§§ [66](https://www.gesetze-im-internet.de/geschmmg_2004/__66.html) bis [71](https://www.gesetze-im-internet.de/geschmmg_2004/__71.html) DesignG)
+
+**A:** Nach der Genfer Akte des Haager Abkommens kann ein Design mit einer Anmeldung beim Internationalen Büro der WIPO (direkt oder über das DPMA, [§ 67 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__67.html)) für viele Vertragsparteien eingetragen werden; eine Eintragung mit Benennung Deutschlands wirkt wie ein eingetragenes Design ab dem Tag der internationalen Eintragung ([§ 71 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__71.html)), sofern das DPMA nicht binnen sechs Monaten den Schutz verweigert ([§ 69 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__69.html)).
+
+Normen: [§ 66 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__66.html) MarkenG, [§ 67 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__67.html) MarkenG, [§ 69 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__69.html) MarkenG, [§ 70 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__70.html) MarkenG, [§ 71 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__71.html) MarkenG, [Art. 106a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 23 DesignV](https://www.gesetze-im-internet.de/designv/__23.html) MarkenG
+
+*Tags: Begriff, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nach der Genfer Akte des Haager Abkommens kann ein Design mit einer Anmeldung beim Internationalen Büro der WIPO (direkt oder über das DPMA, [§ 67 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__67.html)) für viele Vertragsparteien eingetragen werden; eine Eintragung mit Benennung Deutschlands wirkt wie ein eingetragenes Design ab dem Tag der internationalen Eintragung ([§ 71 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__71.html)), sofern das DPMA nicht binnen sechs Monaten den Schutz verweigert ([§ 69 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__69.html)).
+
+**A:** Internationale Eintragung nach dem Haager Abkommen (§§ [66](https://www.gesetze-im-internet.de/geschmmg_2004/__66.html) bis [71](https://www.gesetze-im-internet.de/geschmmg_2004/__71.html) DesignG)
+
+*Tags: Begriff, Umkehr, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+## definition
+
+**F:** Definiere: Richtlinie 98/71/EG (DesignRL)
+
+**A:** Die Richtlinie 98/71/EG harmonisiert das materielle Recht der eingetragenen Muster in den Mitgliedstaaten: Begriffe, Schutzvoraussetzungen, Ausschlüsse, Schutzumfang, Schutzdauer, Nichtigkeitsgründe, Rechte, Schranken und Erschöpfung ([Art. 1 bis 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)). Deutschland hat sie mit dem Geschmacksmusterreformgesetz vom 12.3.2004 (in Kraft 1.6.2004) umgesetzt; das DesignG folgt ihr fast wörtlich.
+
+Normen: [Art. 1 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 5 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 9 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 11 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 14 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 19 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: EuGH Monz Handelsgesellschaft/Büchel (Sattelunterseite) (C-472/21); BGH Sattelunterseite II (I ZB 31/20)
+
+*Tags: Begriff, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Richtlinie 98/71/EG harmonisiert das materielle Recht der eingetragenen Muster in den Mitgliedstaaten: Begriffe, Schutzvoraussetzungen, Ausschlüsse, Schutzumfang, Schutzdauer, Nichtigkeitsgründe, Rechte, Schranken und Erschöpfung ([Art. 1 bis 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)). Deutschland hat sie mit dem Geschmacksmusterreformgesetz vom 12.3.2004 (in Kraft 1.6.2004) umgesetzt; das DesignG folgt ihr fast wörtlich.
+
+**A:** Richtlinie 98/71/EG (DesignRL)
+
+*Tags: Begriff, Umkehr, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## definition
+
+**F:** Definiere: Richtlinie (EU) 2024/2823 (DesignRL 2024)
+
+**A:** Die Neufassung der Designrichtlinie vom 23.10.2024 (in Kraft seit 8.12.2024, Umsetzungsfrist 9.12.2027) modernisiert Begriffe (Bewegung, Animation, nicht körperliche Erzeugnisse), harmonisiert Schutzgegenstand, Vermutung der Rechtsgültigkeit und Vorbenutzungsrecht, erweitert die Benutzungshandlungen um 3D-Druck-Dateien und Durchfuhr, ergänzt die Schranken um Referenznutzung, Kritik und Parodie und macht die Reparaturklausel zwingend ([Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)).
+
+Normen: [Art. 2 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 16 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 18 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 26 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 36 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+*Tags: Begriff, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Neufassung der Designrichtlinie vom 23.10.2024 (in Kraft seit 8.12.2024, Umsetzungsfrist 9.12.2027) modernisiert Begriffe (Bewegung, Animation, nicht körperliche Erzeugnisse), harmonisiert Schutzgegenstand, Vermutung der Rechtsgültigkeit und Vorbenutzungsrecht, erweitert die Benutzungshandlungen um 3D-Druck-Dateien und Durchfuhr, ergänzt die Schranken um Referenznutzung, Kritik und Parodie und macht die Reparaturklausel zwingend ([Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)).
+
+**A:** Richtlinie (EU) 2024/2823 (DesignRL 2024)
+
+*Tags: Begriff, Umkehr, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## definition
+
+**F:** Definiere: Reform des Unionsgeschmacksmusters 2024 (Verordnung (EU) 2024/2822)
+
+**A:** Die Verordnung (EU) 2024/2822 ändert die GGV mit Wirkung ab 1.5.2025 (Teile ab 1.7.2026): neuer Name Unionsgeschmacksmuster, Amt EUIPO, modernisierte Begriffe, Schutzgegenstand ([Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), 3D-Druck und Durchfuhr ([Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), neue Schranken ([Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), dauerhafte Reparaturklausel ([Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) statt Art. 110), Sammelanmeldung ohne Klassenbindung ([Art. 37 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), Eintragungssymbol Ⓓ ([Art. 26a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), neue Gebührenstruktur.
+
+Normen: [Art. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 26a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 37 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH Schlüsselgehäuse (I ZR 116/24)
+
+*Tags: Begriff, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Verordnung (EU) 2024/2822 ändert die GGV mit Wirkung ab 1.5.2025 (Teile ab 1.7.2026): neuer Name Unionsgeschmacksmuster, Amt EUIPO, modernisierte Begriffe, Schutzgegenstand ([Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), 3D-Druck und Durchfuhr ([Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), neue Schranken ([Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), dauerhafte Reparaturklausel ([Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) statt Art. 110), Sammelanmeldung ohne Klassenbindung ([Art. 37 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), Eintragungssymbol Ⓓ ([Art. 26a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), neue Gebührenstruktur.
+
+**A:** Reform des Unionsgeschmacksmusters 2024 (Verordnung (EU) 2024/2822)
+
+*Tags: Begriff, Umkehr, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## definition
+
+**F:** Definiere: Kumulation mit dem Urheberrecht ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html), [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071))
+
+**A:** Design- und Urheberrechtsschutz können nebeneinander bestehen ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html), [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 96 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Ein Produktdesign ist urheberrechtlich als Werk der angewandten Kunst geschützt, wenn es eine eigene geistige Schöpfung ist, in der sich freie kreative Entscheidungen des Urhebers widerspiegeln; eine besondere ästhetische Wirkung oder ein Überragen der Durchschnittsgestaltung ist nicht erforderlich (EuGH Cofemel, Mio/konektra; BGH Geburtstagszug).
+
+Normen: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG, [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 23 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH Geburtstagszug (I ZR 143/12); BGH Seilzirkus (I ZR 53/10); EuGH Cofemel/G-Star Raw (C-683/17); EuGH Brompton Bicycle/Get2Get (Faltrad) (C-833/18)
+
+*Tags: Begriff, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Design- und Urheberrechtsschutz können nebeneinander bestehen ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html), [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 96 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Ein Produktdesign ist urheberrechtlich als Werk der angewandten Kunst geschützt, wenn es eine eigene geistige Schöpfung ist, in der sich freie kreative Entscheidungen des Urhebers widerspiegeln; eine besondere ästhetische Wirkung oder ein Überragen der Durchschnittsgestaltung ist nicht erforderlich (EuGH Cofemel, Mio/konektra; BGH Geburtstagszug).
+
+**A:** Kumulation mit dem Urheberrecht ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html), [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071))
+
+*Tags: Begriff, Umkehr, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## definition
+
+**F:** Definiere: Ergänzender wettbewerbsrechtlicher Leistungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html))
+
+**A:** Neben dem Designschutz bleibt der lauterkeitsrechtliche Nachahmungsschutz anwendbar ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html), [Art. 16 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)): Das Anbieten einer Nachahmung ist unlauter, wenn das Erzeugnis wettbewerbliche Eigenart hat und besondere Umstände hinzutreten (vermeidbare Herkunftstäuschung, Rufausbeutung oder unredliche Erlangung der Kenntnisse, [§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)).
+
+Normen: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG, [§ 53 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__53.html) MarkenG, [Art. 16 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: BGH LIKEaBIKE (I ZR 124/06); BGH Jeans (I ZR 151/02); BGH Glück (I ZR 126/22); BGH Baugruppe (I ZR 67/05)
+
+*Tags: Begriff, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Neben dem Designschutz bleibt der lauterkeitsrechtliche Nachahmungsschutz anwendbar ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html), [Art. 16 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)): Das Anbieten einer Nachahmung ist unlauter, wenn das Erzeugnis wettbewerbliche Eigenart hat und besondere Umstände hinzutreten (vermeidbare Herkunftstäuschung, Rufausbeutung oder unredliche Erlangung der Kenntnisse, [§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)).
+
+**A:** Ergänzender wettbewerbsrechtlicher Leistungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html))
+
+*Tags: Begriff, Umkehr, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## definition
+
+**F:** Definiere: Design, Marke, Patent, Gebrauchsmuster: Abgrenzung und Kumulation
+
+**A:** Ein Produkt kann zugleich als Design (Erscheinungsform), als dreidimensionale Marke (Herkunftshinweis, [§ 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)), als Werk der angewandten Kunst ([§ 2 UrhG](https://www.gesetze-im-internet.de/urhg/__2.html)), durch Patent oder Gebrauchsmuster (technische Lehre) und nach [§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html) geschützt sein; die Schutzrechte haben verschiedene Voraussetzungen, Schutzgegenstände, Laufzeiten und Schutzumfänge ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html)).
+
+Normen: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG, [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG, [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 16 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Rechtsprechung: BGH Papierspender (I ZR 137/19); BGH Geburtstagszug (I ZR 143/12); EuGH Mio und konektra (USM Haller) (C-580/23, C-795/23); BGH LIKEaBIKE (I ZR 124/06)
+
+*Tags: Begriff, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Produkt kann zugleich als Design (Erscheinungsform), als dreidimensionale Marke (Herkunftshinweis, [§ 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)), als Werk der angewandten Kunst ([§ 2 UrhG](https://www.gesetze-im-internet.de/urhg/__2.html)), durch Patent oder Gebrauchsmuster (technische Lehre) und nach [§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html) geschützt sein; die Schutzrechte haben verschiedene Voraussetzungen, Schutzgegenstände, Laufzeiten und Schutzumfänge ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html)).
+
+**A:** Design, Marke, Patent, Gebrauchsmuster: Abgrenzung und Kumulation
+
+*Tags: Begriff, Umkehr, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## definition
+
+**F:** Definiere: Anspruchsgrundlagen im Unionsrecht und in den deutschen Schutzgesetzen
+
+**A:** Die zivilrechtlichen Ansprüche bei Verletzung eines Designs, einer Marke, eines Patents, eines Gebrauchsmusters oder eines Urheberrechts folgen demselben Muster, weil sie alle die Durchsetzungsrichtlinie 2004/48/EG umsetzen: Unterlassung und Schadensersatz (Art. 11, 13), Vernichtung und Rückruf (Art. 10), Auskunft (Art. 8), Vorlage und Besichtigung (Art. 6, 7), Sicherung (Art. 9), Urteilsbekanntmachung (Art. 15). Im DesignG stehen sie in §§ [42](https://www.gesetze-im-internet.de/markeng/__42.html) bis [47](https://www.gesetze-im-internet.de/markeng/__47.html), im MarkenG in §§ [14](https://www.gesetze-im-internet.de/markeng/__14.html) bis [19c](https://www.gesetze-im-internet.de/markeng/__19c.html), im PatG in §§ [139](https://www.gesetze-im-internet.de/markeng/__139.html) bis [140e](https://www.gesetze-im-internet.de/markeng/__140e.html), im GebrMG in §§ [24](https://www.gesetze-im-internet.de/markeng/__24.html) bis [24e](https://www.gesetze-im-internet.de/markeng/__24e.html), im UrhG in §§ [97](https://www.gesetze-im-internet.de/markeng/__97.html) bis [103](https://www.gesetze-im-internet.de/markeng/__103.html).
+
+Normen: [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG, [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) MarkenG, [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) MarkenG, [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) MarkenG, [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Rechtsprechung: EuGH Acacia/BMW (anwendbares Recht) (C-421/20)
+
+*Tags: Begriff, Design: Europäischer Rahmen und Abgrenzung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die zivilrechtlichen Ansprüche bei Verletzung eines Designs, einer Marke, eines Patents, eines Gebrauchsmusters oder eines Urheberrechts folgen demselben Muster, weil sie alle die Durchsetzungsrichtlinie 2004/48/EG umsetzen: Unterlassung und Schadensersatz (Art. 11, 13), Vernichtung und Rückruf (Art. 10), Auskunft (Art. 8), Vorlage und Besichtigung (Art. 6, 7), Sicherung (Art. 9), Urteilsbekanntmachung (Art. 15). Im DesignG stehen sie in §§ [42](https://www.gesetze-im-internet.de/markeng/__42.html) bis [47](https://www.gesetze-im-internet.de/markeng/__47.html), im MarkenG in §§ [14](https://www.gesetze-im-internet.de/markeng/__14.html) bis [19c](https://www.gesetze-im-internet.de/markeng/__19c.html), im PatG in §§ [139](https://www.gesetze-im-internet.de/markeng/__139.html) bis [140e](https://www.gesetze-im-internet.de/markeng/__140e.html), im GebrMG in §§ [24](https://www.gesetze-im-internet.de/markeng/__24.html) bis [24e](https://www.gesetze-im-internet.de/markeng/__24e.html), im UrhG in §§ [97](https://www.gesetze-im-internet.de/markeng/__97.html) bis [103](https://www.gesetze-im-internet.de/markeng/__103.html).
+
+**A:** Anspruchsgrundlagen im Unionsrecht und in den deutschen Schutzgesetzen
+
+*Tags: Begriff, Umkehr, Design: Europäischer Rahmen und Abgrenzung*
 
 ---
 
@@ -8043,6 +9667,126 @@ Das DPMA ist Anmeldeamt ([Art. III § 1 IntPatÜG](https://www.gesetze-im-intern
 - D. Zuständigkeit und Rechtsmittel
 
 *Tags: Prüfungsschema, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+**F:** Prüfungsschema: Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ [1](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) bis [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) DesignG)
+
+**A:** - A. Schutzgegenstand bestimmen ([§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html))
+- B. Design und Erzeugnis ([§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html), [§ 33 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+  - 1. Erscheinungsform eines Erzeugnisses oder Teils
+  - 2. Bauelement eines komplexen Erzeugnisses: Sichtbarkeit ([§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html))
+- C. Ausschlüsse ([§ 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html), [§ 33 Abs. 1 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+  - 1. Ausschließlich technisch bedingte Merkmale ([§ 3 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__3.html))
+  - 2. Verbindungselemente und modulare Systeme ([§ 3 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__3.html), Abs. 2)
+  - 3. Öffentliche Ordnung, gute Sitten, Hoheitszeichen ([§ 3 Abs. 1 Nr. 3, 4](https://www.gesetze-im-internet.de/markeng/__3.html))
+- D. Formenschatz: Offenbarung vor dem maßgeblichen Tag (§§ [5](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html), [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [13](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html) DesignG)
+  - 1. Maßgeblicher Tag
+  - 2. Offenbarung der Entgegenhaltung ([§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html))
+  - 3. Neuheitsschonfrist ([§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html))
+- E. Neuheit ([§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [§ 33 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+- F. Eigenart ([§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [§ 33 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+  - 1. Informierter Benutzer
+  - 2. Gestaltungsfreiheit und Musterdichte
+  - 3. Gesamteindruck im Einzelvergleich
+- G. Relative Nichtigkeitsgründe ([§ 33 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+- H. Ergebnis
+
+*Tags: Prüfungsschema, Design: Schutzvoraussetzungen*
+
+---
+
+**F:** Prüfungsschema: Designverletzung (§§ [38](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) bis [49](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) DesignG)
+
+**A:** - A. Aktivlegitimation
+- B. Klagedesign: Bestand und Schutzgegenstand
+  - 1. Eingetragen und in Kraft
+  - 2. Schutzgegenstand aus der Wiedergabe ([§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html))
+- C. Benutzungshandlung des Beklagten ([§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html))
+- D. Schutzumfang: kein anderer Gesamteindruck ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html))
+  - 1. Formenschatz und Gestaltungsfreiheit
+  - 2. Gesamteindruck beim informierten Benutzer
+- E. Einwendungen und Einreden
+  - 1. Schranken ([§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html))
+  - 2. Reparaturklausel ([§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html), [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+  - 3. Vorbenutzungsrecht ([§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html))
+  - 4. Erschöpfung ([§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html))
+  - 5. Nichtigkeit nur per Widerklage oder DPMA-Antrag ([§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html))
+- F. Rechtsfolgen
+  - 1. Beseitigung und Unterlassung ([§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html))
+  - 2. Schadensersatz ([§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html))
+  - 3. Vernichtung, Rückruf, Überlassung ([§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html))
+  - 4. Auskunft, Vorlage, Sicherung, Urteilsbekanntmachung (§§ [46](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG)
+- G. Verjährung und Verfahren
+
+*Tags: Prüfungsschema, Design: Schutzwirkung und Schranken*
+
+---
+
+**F:** Prüfungsschema: Nichtigkeitsverfahren vor dem DPMA (§§ [34](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) bis [34c](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html) DesignG) und Beschwerde
+
+**A:** - A. Zulässigkeit des Antrags
+  - 1. Form und Inhalt ([§ 34a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html), [§ 21 DesignV](https://www.gesetze-im-internet.de/designv/__21.html))
+  - 2. Gebühr
+  - 3. Antragsbefugnis ([§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html))
+  - 4. Keine entgegenstehende Entscheidung
+- B. Zustellung und Widerspruch ([§ 34a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html))
+- C. Begründetheit: Nichtigkeitsgründe ([§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+  - 1. Absolute Gründe ([§ 33 Abs. 1](https://www.gesetze-im-internet.de/markeng/__33.html))
+  - 2. Relative Gründe ([§ 33 Abs. 2](https://www.gesetze-im-internet.de/markeng/__33.html))
+  - 3. Teilweise Aufrechterhaltung ([§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html))
+- D. Entscheidung ([§ 34a Abs. 3 bis 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html))
+- E. Beschwerde und Rechtsbeschwerde ([§ 23 Abs. 4, 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html))
+- F. Nebenverfahren
+  - 1. Aussetzung des Verletzungsprozesses ([§ 34b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34b.html))
+  - 2. Beitritt ([§ 34c DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html))
+  - 3. Alternative: Widerklage ([§ 52b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)) oder EUIPO-Antrag ([Art. 52 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Prüfungsschema, Design: Nichtigkeit*
+
+---
+
+**F:** Prüfungsschema: Anmeldung und Eintragung eines Designs (§§ [11](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) bis [28](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) DesignG, DesignV)
+
+**A:** - A. Berechtigung (§§ [7](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [8](https://www.gesetze-im-internet.de/geschmmg_2004/__8.html) DesignG)
+- B. Anmeldeunterlagen ([§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), §§ [3](https://www.gesetze-im-internet.de/designv/__3.html) bis [10](https://www.gesetze-im-internet.de/designv/__10.html) DesignV)
+  - 1. Mindestinhalt für den Anmeldetag ([§ 11 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html))
+  - 2. Wiedergabe ([§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html))
+  - 3. Erzeugnisangabe und Zusatzangaben
+  - 4. Sammelanmeldung ([§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html))
+- C. Zeitrang: Priorität und Neuheitsschonfrist
+  - 1. Ausländische und Ausstellungspriorität (§§ [14](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html), [15](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html) DesignG)
+  - 2. Neuheitsschonfrist ([§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html))
+- D. Gebühren (PatKostG)
+- E. Prüfung und Rechtsbehelfe
+  - 1. Prüfungsumfang (§§ [16](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html), [18](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) DesignG)
+  - 2. Mängelrüge, Zurückweisung, Weiterbehandlung ([§ 16 Abs. 3](https://www.gesetze-im-internet.de/markeng/__16.html), [§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html))
+- F. Eintragung, Bekanntmachung, Aufschiebung (§§ [19](https://www.gesetze-im-internet.de/geschmmg_2004/__19.html) bis [21](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html) DesignG)
+- G. Schutzbeginn, Schutzdauer, Aufrechterhaltung (§§ [27](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html), [28](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) DesignG)
+- H. Alternativen: Unionsgeschmacksmuster und Haager Abkommen
+
+*Tags: Prüfungsschema, Design: Anmeldung und Eintragung (DPMA)*
+
+---
+
+**F:** Prüfungsschema: Anspruch aus einem Unionsgeschmacksmuster (GGV, [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html))
+
+**A:** - A. Schutzrecht
+  - 1. Eingetragenes Unionsgeschmacksmuster ([Art. 1 Abs. 2 lit. b, 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+  - 2. Nicht eingetragenes Unionsgeschmacksmuster ([Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- B. Inhaberschaft und Aktivlegitimation ([Art. 14, 32 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- C. Verletzung ([Art. 10, 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+  - 1. Benutzungshandlung in der Union ([Art. 19 Abs. 1, 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+  - 2. Schutzumfang: kein anderer Gesamteindruck ([Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+  - 3. Beim nicht eingetragenen Muster: Nachahmung ([Art. 19 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+  - 4. Schranken und Reparaturklausel ([Art. 20 bis 22, 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- D. Zuständigkeit ([Art. 80 bis 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html))
+- E. Anwendbares Recht und Rechtsfolgen ([Art. 88, 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html))
+  - 1. Unterlassung, Beschlagnahme, Vernichtung aus der Verordnung ([Art. 89 Abs. 1 lit. a bis c GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+  - 2. Folgeansprüche nach dem Recht des Verletzungsstaats ([Art. 88 Abs. 2, 89 Abs. 1 lit. d GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+  - 3. Einstweilige Maßnahmen ([Art. 90 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Prüfungsschema, Design: Unionsgeschmacksmuster und internationales Design*
 
 ---
 
@@ -8858,6 +10602,227 @@ Welche Punkte sind hier zu prüfen?
 
 ---
 
+**F:** B. Design und Erzeugnis ([§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html), [§ 33 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+(Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ [1](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) bis [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) DesignG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Erscheinungsform eines Erzeugnisses oder Teils
+- 2. Bauelement eines komplexen Erzeugnisses: Sichtbarkeit ([§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Ausschlüsse ([§ 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html), [§ 33 Abs. 1 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+(Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ [1](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) bis [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) DesignG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Ausschließlich technisch bedingte Merkmale ([§ 3 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__3.html))
+- 2. Verbindungselemente und modulare Systeme ([§ 3 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__3.html), Abs. 2)
+- 3. Öffentliche Ordnung, gute Sitten, Hoheitszeichen ([§ 3 Abs. 1 Nr. 3, 4](https://www.gesetze-im-internet.de/markeng/__3.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** D. Formenschatz: Offenbarung vor dem maßgeblichen Tag (§§ [5](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html), [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [13](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html) DesignG)
+(Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ [1](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) bis [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) DesignG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Maßgeblicher Tag
+- 2. Offenbarung der Entgegenhaltung ([§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html))
+- 3. Neuheitsschonfrist ([§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** F. Eigenart ([§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [§ 33 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+(Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ [1](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) bis [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) DesignG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Informierter Benutzer
+- 2. Gestaltungsfreiheit und Musterdichte
+- 3. Gesamteindruck im Einzelvergleich
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Klagedesign: Bestand und Schutzgegenstand
+(Designverletzung (§§ [38](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) bis [49](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) DesignG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Eingetragen und in Kraft
+- 2. Schutzgegenstand aus der Wiedergabe ([§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** D. Schutzumfang: kein anderer Gesamteindruck ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html))
+(Designverletzung (§§ [38](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) bis [49](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) DesignG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Formenschatz und Gestaltungsfreiheit
+- 2. Gesamteindruck beim informierten Benutzer
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** E. Einwendungen und Einreden
+(Designverletzung (§§ [38](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) bis [49](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) DesignG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Schranken ([§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html))
+- 2. Reparaturklausel ([§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html), [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- 3. Vorbenutzungsrecht ([§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html))
+- 4. Erschöpfung ([§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html))
+- 5. Nichtigkeit nur per Widerklage oder DPMA-Antrag ([§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** F. Rechtsfolgen
+(Designverletzung (§§ [38](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) bis [49](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) DesignG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Beseitigung und Unterlassung ([§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html))
+- 2. Schadensersatz ([§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html))
+- 3. Vernichtung, Rückruf, Überlassung ([§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html))
+- 4. Auskunft, Vorlage, Sicherung, Urteilsbekanntmachung (§§ [46](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** A. Zulässigkeit des Antrags
+(Nichtigkeitsverfahren vor dem DPMA (§§ [34](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) bis [34c](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html) DesignG) und Beschwerde)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Form und Inhalt ([§ 34a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html), [§ 21 DesignV](https://www.gesetze-im-internet.de/designv/__21.html))
+- 2. Gebühr
+- 3. Antragsbefugnis ([§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html))
+- 4. Keine entgegenstehende Entscheidung
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Begründetheit: Nichtigkeitsgründe ([§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+(Nichtigkeitsverfahren vor dem DPMA (§§ [34](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) bis [34c](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html) DesignG) und Beschwerde)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Absolute Gründe ([§ 33 Abs. 1](https://www.gesetze-im-internet.de/markeng/__33.html))
+- 2. Relative Gründe ([§ 33 Abs. 2](https://www.gesetze-im-internet.de/markeng/__33.html))
+- 3. Teilweise Aufrechterhaltung ([§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** F. Nebenverfahren
+(Nichtigkeitsverfahren vor dem DPMA (§§ [34](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) bis [34c](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html) DesignG) und Beschwerde)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Aussetzung des Verletzungsprozesses ([§ 34b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34b.html))
+- 2. Beitritt ([§ 34c DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html))
+- 3. Alternative: Widerklage ([§ 52b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)) oder EUIPO-Antrag ([Art. 52 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** B. Anmeldeunterlagen ([§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), §§ [3](https://www.gesetze-im-internet.de/designv/__3.html) bis [10](https://www.gesetze-im-internet.de/designv/__10.html) DesignV)
+(Anmeldung und Eintragung eines Designs (§§ [11](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) bis [28](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) DesignG, DesignV))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Mindestinhalt für den Anmeldetag ([§ 11 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html))
+- 2. Wiedergabe ([§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html))
+- 3. Erzeugnisangabe und Zusatzangaben
+- 4. Sammelanmeldung ([§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Zeitrang: Priorität und Neuheitsschonfrist
+(Anmeldung und Eintragung eines Designs (§§ [11](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) bis [28](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) DesignG, DesignV))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Ausländische und Ausstellungspriorität (§§ [14](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html), [15](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html) DesignG)
+- 2. Neuheitsschonfrist ([§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** E. Prüfung und Rechtsbehelfe
+(Anmeldung und Eintragung eines Designs (§§ [11](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) bis [28](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) DesignG, DesignV))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Prüfungsumfang (§§ [16](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html), [18](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) DesignG)
+- 2. Mängelrüge, Zurückweisung, Weiterbehandlung ([§ 16 Abs. 3](https://www.gesetze-im-internet.de/markeng/__16.html), [§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** A. Schutzrecht
+(Anspruch aus einem Unionsgeschmacksmuster (GGV, [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Eingetragenes Unionsgeschmacksmuster ([Art. 1 Abs. 2 lit. b, 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- 2. Nicht eingetragenes Unionsgeschmacksmuster ([Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Verletzung ([Art. 10, 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+(Anspruch aus einem Unionsgeschmacksmuster (GGV, [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Benutzungshandlung in der Union ([Art. 19 Abs. 1, 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- 2. Schutzumfang: kein anderer Gesamteindruck ([Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- 3. Beim nicht eingetragenen Muster: Nachahmung ([Art. 19 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- 4. Schranken und Reparaturklausel ([Art. 20 bis 22, 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** E. Anwendbares Recht und Rechtsfolgen ([Art. 88, 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html))
+(Anspruch aus einem Unionsgeschmacksmuster (GGV, [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Unterlassung, Beschlagnahme, Vernichtung aus der Verordnung ([Art. 89 Abs. 1 lit. a bis c GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- 2. Folgeansprüche nach dem Recht des Verletzungsstaats ([Art. 88 Abs. 2, 89 Abs. 1 lit. d GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+- 3. Einstweilige Maßnahmen ([Art. 90 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
 ## abgrenzung
 
 **F:** Worin unterscheiden sich Unterscheidungskraft und Kennzeichnungskraft?
@@ -9487,6 +11452,187 @@ Merksatz: Das IntPatÜG ist die Brücke: Art. II § 6 macht das europäische Pat
 • Widerruflich? — Teilung: Nein ([§ 39 Abs. 3](https://www.gesetze-im-internet.de/markeng/__39.html)), Teilungserklärung ohne gegenständliche Festlegung (Sammelhefter) | Ausscheidung: Nein | Abzweigung (Gebrauchsmuster): Abzweigungserklärung wirkt mit der Anmeldung
 
 Merksatz: Teilung ist freiwillig, Ausscheidung erzwungen, Abzweigung wechselt das Schutzrecht: In allen drei Fällen bleibt der Zeitrang, aber die Gebühren fallen neu an.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Worin unterscheiden sich Patent und Gebrauchsmuster in Schutzgegenstand, Entstehung, Rechtsbestand und Durchsetzung?
+(Patent vs. Gebrauchsmuster)
+
+**A:** • Schutzgegenstand — Patent (PatG): Erzeugnisse, Verfahren, Verwendungen, biotechnologische Erfindungen ([§ 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 1a PatG](https://www.gesetze-im-internet.de/patg/__1a.html)) | Gebrauchsmuster (GebrMG): Nur Erzeugnisse und Anordnungen; keine Verfahren, keine biotechnologischen Erfindungen ([§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html))
+• Prüfung vor Eintragung — Patent (PatG): Vollprüfung auf Prüfungsantrag ([§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html)) | Gebrauchsmuster (GebrMG): Nur Formal- und Ausschlussprüfung ([§ 8 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__8.html)); Recherche auf Antrag ([§ 7 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__7.html))
+• Neuheit — Patent (PatG): Absolut: alles weltweit Zugängliche, ältere Anmeldungen ([§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)); Schonfrist nur bei Missbrauch oder Ausstellung | Gebrauchsmuster (GebrMG): Relativ: schriftliche Beschreibungen weltweit, Benutzung nur im Inland; sechs Monate Schonfrist für eigene Offenbarungen ([§ 3 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html))
+• Erfinderische Höhe — Patent (PatG): Erfinderische Tätigkeit ([§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)) | Gebrauchsmuster (GebrMG): Erfinderischer Schritt ([§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html)), nach BGH Demonstrationsschrank gleicher Maßstab
+• Laufzeit — Patent (PatG): 20 Jahre ab Anmeldetag ([§ 16 PatG](https://www.gesetze-im-internet.de/patg/__16.html)) | Gebrauchsmuster (GebrMG): 3 Jahre, verlängerbar auf 6, 8 und 10 Jahre ([§ 23 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__23.html))
+• Angriff auf den Rechtsbestand — Patent (PatG): Einspruch neun Monate ([§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html)), danach Nichtigkeitsklage BPatG ([§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html)) | Gebrauchsmuster (GebrMG): Löschungsantrag beim DPMA jederzeit ([§ 15 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)), Beschwerde zum BPatG
+• Verletzungsprozess — Patent (PatG): Rechtsbestand wird nicht geprüft (Trennungsprinzip), Aussetzung nach [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html) | Gebrauchsmuster (GebrMG): Schutzfähigkeit als Einwand im Verletzungsprozess prüfbar; Aussetzung bei Löschungsantrag ([§ 19 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__19.html))
+• Gebühren (Anmeldung) — Patent (PatG): 40 EUR elektronisch, Recherche 300 EUR, Prüfung 350 EUR | Gebrauchsmuster (GebrMG): 30 EUR elektronisch, Recherche 250 EUR, keine Prüfungsgebühr
+• Brücke — Patent (PatG): Abzweigung aus der Patentanmeldung mit deren Zeitrang ([§ 145a PatG](https://www.gesetze-im-internet.de/patg/__145a.html), [§ 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html)); Priorität gegenseitig ([§ 6 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__6.html)) | Gebrauchsmuster (GebrMG): Gebrauchsmuster als Prioritätsgrundlage für ein Patent ([§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html) über [§ 6 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__6.html))
+
+Merksatz: Das Gebrauchsmuster ist das schnelle, ungeprüfte Erzeugnisschutzrecht mit Schonfrist: ideal als Abzweigung neben der Patentanmeldung, riskant im Prozess.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wo steht die Anspruchsgrundlage für Unterlassung, Schadensersatz, Vernichtung, Auskunft und die übrigen Rechtsfolgen einer Schutzrechtsverletzung – im Unionsrecht, in jedem der deutschen Schutzgesetze und vor dem Einheitlichen Patentgericht (EPGÜ mit den zugehörigen Regeln der VerfO)?
+(Anspruchsgrundlagen nach der Durchsetzungsrichtlinie: MarkenG, PatG, GebrMG, DesignG, UrhG, Unionsschutzrechte, EPGÜ und VerfO)
+
+**A:** • Verbotsrecht / Verletzungstatbestand — Unionsrecht (Richtlinie): [Art. 10 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436); [Art. 12 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (ab 2027 [Art. 16 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)); Patente: nicht harmonisiert ([Art. 25 bis 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))) | MarkenG: [§ 14 Abs. 2 bis 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 2, 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html) | PatG: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html), [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html) | GebrMG: [§ 11 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__11.html) | DesignG: [§ 38 Abs. 1, 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) | UrhG: [§ 15 bis 23 UrhG](https://www.gesetze-im-internet.de/urhg/__15.html), [§ 97 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) | UMV / GGV (Unionsschutzrechte): [Art. 9 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); [Art. 19, 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 25 bis 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (unmittelbare und mittelbare Verletzung, Schranken [Art. 27 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)))
+• Unterlassung — Unionsrecht (Richtlinie): [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html) | PatG: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html) | GebrMG: [§ 24 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html) | DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) | UrhG: [§ 97 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) | UMV / GGV (Unionsschutzrechte): [Art. 130 Abs. 1 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); [Art. 89 Abs. 1 lit. a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 118.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Entscheidung in der Sache)
+• Beseitigung — Unionsrecht (Richtlinie): [Art. 10, 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) (Beseitigung), [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) | PatG: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html) (Beseitigung über [§ 1004 BGB](https://www.gesetze-im-internet.de/bgb/__1004.html) analog), [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) | GebrMG: [§ 24 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html), [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html) | DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) | UrhG: [§ 97 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html), [§ 98 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) | UMV / GGV (Unionsschutzrechte): [Art. 130 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) i.V.m. [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html); [Art. 89 Abs. 1 lit. d GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) i.V.m. [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 118.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+• Schadensersatz (dreifache Berechnung) — Unionsrecht (Richtlinie): [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html) | PatG: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html) | GebrMG: [§ 24 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html) | DesignG: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) | UrhG: [§ 97 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) | UMV / GGV (Unionsschutzrechte): [Art. 129 Abs. 2, 130 Abs. 2 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) i.V.m. [§ 125b Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html); [Art. 88 Abs. 2, 89 Abs. 1 lit. d GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) i.V.m. [§ 62a](https://www.gesetze-im-internet.de/markeng/__62a.html), [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 118.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Grund), [R. 125 bis 144 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (gesondertes Verfahren zur Festsetzung der Höhe)
+• Entschädigung des schuldlosen Verletzers — Unionsrecht (Richtlinie): [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) (fakultativ) | MarkenG: nicht umgesetzt | PatG: nicht umgesetzt (Verhältnismäßigkeit [§ 139 Abs. 1 S. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__139.html)) | GebrMG: nicht umgesetzt ([§ 24 Abs. 1 S. 3, 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html)) | DesignG: [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html) | UrhG: [§ 100 UrhG](https://www.gesetze-im-internet.de/urhg/__100.html) | UMV / GGV (Unionsschutzrechte): über das nationale Recht: [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html) ([Art. 88 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | EPGÜ und VerfO (europäisches Patent vor dem EPG): nicht vorgesehen
+• Vernichtung — Unionsrecht (Richtlinie): [Art. 10 Abs. 1 lit. c DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 18 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) | PatG: [§ 140a Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__140a.html) | GebrMG: [§ 24a Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html) | DesignG: [§ 43 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) | UrhG: [§ 98 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) | UMV / GGV (Unionsschutzrechte): [Art. 130 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) i.V.m. [§ 125b MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html), [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html); [Art. 89 Abs. 1 lit. c GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 64 Abs. 2 lit. e EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 118.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+• Rückruf und Entfernen aus den Vertriebswegen — Unionsrecht (Richtlinie): [Art. 10 Abs. 1 lit. a, b DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) | PatG: [§ 140a Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140a.html) | GebrMG: [§ 24a Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html) | DesignG: [§ 43 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) | UrhG: [§ 98 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) | UMV / GGV (Unionsschutzrechte): [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html) bzw. [§ 43 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) über das nationale Recht | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 64 Abs. 2 lit. b, c EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 118.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+• Überlassung gegen Vergütung — Unionsrecht (Richtlinie): [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) (Alternative zur Vernichtung) | MarkenG: – | PatG: – | GebrMG: – | DesignG: [§ 43 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) | UrhG: [§ 98 Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) | UMV / GGV (Unionsschutzrechte): über das nationale Recht: [§ 43 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): –
+• Auskunft gegen den Verletzer — Unionsrecht (Richtlinie): [Art. 8 Abs. 1 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 19 Abs. 1, 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html) | PatG: [§ 140b Abs. 1, 3 PatG](https://www.gesetze-im-internet.de/patg/__140b.html) | GebrMG: [§ 24b Abs. 1, 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html) | DesignG: [§ 46 Abs. 1, 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) | UrhG: [§ 101 Abs. 1, 3 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html) | UMV / GGV (Unionsschutzrechte): [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html) ([§ 125b Nr. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__125b.html)); [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) ([§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Antrag auf Anordnung der Auskunftserteilung)
+• Drittauskunft (gewerbliches Ausmaß) — Unionsrecht (Richtlinie): [Art. 8 Abs. 1 lit. a bis d DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html) | PatG: [§ 140b Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__140b.html) | GebrMG: [§ 24b Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html) | DesignG: [§ 46 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) | UrhG: [§ 101 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html) | UMV / GGV (Unionsschutzrechte): [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html); [§ 46 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 67 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+• Rechnungslegung zur Bezifferung — Unionsrecht (Richtlinie): nicht harmonisiert | MarkenG: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) (unselbständiger Anspruch) | PatG: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) | GebrMG: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) | DesignG: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) | UrhG: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) | UMV / GGV (Unionsschutzrechte): [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) über das nationale Recht | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 68 Abs. 3 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Auskunft über Umsätze und Gewinn), [R. 131 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Vorlage im Schadensersatzverfahren)
+• Vorlage und Besichtigung — Unionsrecht (Richtlinie): [Art. 6, 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html) | PatG: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) | GebrMG: [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html) | DesignG: [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) | UrhG: [§ 101a UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html) | UMV / GGV (Unionsschutzrechte): [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html); [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 190 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Beweisvorlage); [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 192 bis 198 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Beweissicherung, saisie), [R. 199 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inspektion)
+• Sicherung von Schadensersatzansprüchen — Unionsrecht (Richtlinie): [Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html) | PatG: [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) | GebrMG: [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html) | DesignG: [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) | UrhG: [§ 101b UrhG](https://www.gesetze-im-internet.de/urhg/__101b.html) | UMV / GGV (Unionsschutzrechte): [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html); [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 61 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 200 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Arrest von Vermögenswerten)
+• Urteilsbekanntmachung — Unionsrecht (Richtlinie): [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html) | PatG: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html) | GebrMG: [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html) | DesignG: [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) | UrhG: [§ 103 UrhG](https://www.gesetze-im-internet.de/urhg/__103.html) | UMV / GGV (Unionsschutzrechte): [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html); [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 118.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+• Haftung des Unternehmensinhabers — Unionsrecht (Richtlinie): nicht harmonisiert | MarkenG: [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html) | PatG: – ([§ 831 BGB](https://www.gesetze-im-internet.de/bgb/__831.html)) | GebrMG: – | DesignG: [§ 44 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__44.html) | UrhG: [§ 99 UrhG](https://www.gesetze-im-internet.de/urhg/__99.html) | UMV / GGV (Unionsschutzrechte): [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html); [§ 44 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__44.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): –
+• Einstweilige Maßnahmen — Unionsrecht (Richtlinie): [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) (Dringlichkeitsvermutung nur nach [§ 12 Abs. 1 UWG](https://www.gesetze-im-internet.de/uwg_2004/__12.html)) | PatG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) | GebrMG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) | DesignG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html); Auskunft [§ 46 Abs. 7 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) | UrhG: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html); [§ 101 Abs. 7 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html) | UMV / GGV (Unionsschutzrechte): [Art. 131 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); [Art. 90 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), jeweils nach nationalem Verfahrensrecht | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 205 bis 213 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (summarisches Verfahren, [R. 212 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ohne Anhörung des Antragsgegners)
+• Verjährung / Restschadensersatz — Unionsrecht (Richtlinie): nicht harmonisiert | MarkenG: [§ 20 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) | PatG: [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) | GebrMG: [§ 24f GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24f.html) | DesignG: [§ 49 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) | UrhG: [§ 102 UrhG](https://www.gesetze-im-internet.de/urhg/__102.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) | UMV / GGV (Unionsschutzrechte): [Art. 129 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) bzw. [Art. 88 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701): nationales Recht ([§ 20 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html), [§ 49 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html)) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 72 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (fünf Jahre ab Kenntnis)
+• Erschöpfung — Unionsrecht (Richtlinie): [Art. 15 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436); [Art. 15 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | MarkenG: [§ 24 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html) | PatG: nicht kodifiziert (Rechtsprechung, unionsweit) | GebrMG: nicht kodifiziert | DesignG: [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html) | UrhG: [§ 17 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__17.html) | UMV / GGV (Unionsschutzrechte): [Art. 15 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001); [Art. 21 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 29 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); Vorbenutzung [Art. 28 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
+• Zuständiges Gericht — Unionsrecht (Richtlinie): nicht harmonisiert | MarkenG: [§ 140 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) (Kennzeichenstreitsachen, Landgerichte) | PatG: [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html) (Patentstreitsachen) | GebrMG: [§ 27 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__27.html) | DesignG: [§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) (Designstreitsachen); [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html) (Unionsgeschmacksmustergerichte) | UrhG: [§ 104 UrhG](https://www.gesetze-im-internet.de/urhg/__104.html), [§ 105 UrhG](https://www.gesetze-im-internet.de/urhg/__105.html) | UMV / GGV (Unionsschutzrechte): [Art. 123 ff. UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) (Unionsmarkengerichte, [§ 119 MarkenG](https://www.gesetze-im-internet.de/markeng/__119.html)); [Art. 80 ff. GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) ([§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)) | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 32, 33 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) (EPG ausschließlich, Übergangszeit und Opt-out [Art. 83 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 5 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); Vollstreckung [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+• Patentanwaltskosten — Unionsrecht (Richtlinie): [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) | MarkenG: [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) (nur bei Notwendigkeit, EuGH NovaText) | PatG: [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html) | GebrMG: [§ 27 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__27.html) | DesignG: [§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) | UrhG: [§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html) (Abmahnkosten) | UMV / GGV (Unionsschutzrechte): [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) bzw. [§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) über das nationale Verfahrensrecht | EPGÜ und VerfO (europäisches Patent vor dem EPG): [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)); [R. 150 bis 157 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Kostenfestsetzung, [R. 152 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) Obergrenzen für Vertreterkosten)
+• Strafbarkeit — Unionsrecht (Richtlinie): [Art. 16 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) (nationale Sanktionen), Art. 61 TRIPS | MarkenG: [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 143a MarkenG](https://www.gesetze-im-internet.de/markeng/__143a.html) (Unionsmarke) | PatG: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) | GebrMG: [§ 25 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__25.html) | DesignG: [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html), [§ 65 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__65.html) (Unionsgeschmacksmuster) | UrhG: §§ [106](https://www.gesetze-im-internet.de/urhg/__106.html) bis [108b](https://www.gesetze-im-internet.de/urhg/__108b.html) UrhG | UMV / GGV (Unionsschutzrechte): [§ 143a MarkenG](https://www.gesetze-im-internet.de/markeng/__143a.html); [§ 65 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__65.html) | EPGÜ und VerfO (europäisches Patent vor dem EPG): –
+• Grenzbeschlagnahme — Unionsrecht (Richtlinie): VO (EU) Nr. 608/2013 | MarkenG: §§ [146](https://www.gesetze-im-internet.de/markeng/__146.html) bis [149](https://www.gesetze-im-internet.de/markeng/__149.html) MarkenG | PatG: §§ [142a](https://www.gesetze-im-internet.de/patg/__142a.html), [142b](https://www.gesetze-im-internet.de/patg/__142b.html) PatG | GebrMG: §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG | DesignG: §§ [55](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html) bis [57a](https://www.gesetze-im-internet.de/geschmmg_2004/__57a.html) DesignG | UrhG: [§ 111b UrhG](https://www.gesetze-im-internet.de/urhg/__111b.html) | UMV / GGV (Unionsschutzrechte): VO (EU) Nr. 608/2013 unmittelbar | EPGÜ und VerfO (europäisches Patent vor dem EPG): –
+
+Merksatz: Eine Richtlinie, ein Bauplan: Verbotsrecht ([§ 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html), [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)) plus Unterlassung/Schadensersatz ([§ 14 Abs. 5, 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html) = [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) = [§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html) = [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) = [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html)), dann Vernichtung – Auskunft – Vorlage – Sicherung – Bekanntmachung in immer derselben Reihenfolge (§§ [18](https://www.gesetze-im-internet.de/markeng/__18.html) bis [19c](https://www.gesetze-im-internet.de/markeng/__19c.html) MarkenG = §§ [140a](https://www.gesetze-im-internet.de/patg/__140a.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG = §§ [24a](https://www.gesetze-im-internet.de/gebrmg/__24a.html) bis [24e](https://www.gesetze-im-internet.de/gebrmg/__24e.html) GebrMG = §§ [43](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [46](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG = §§ [98](https://www.gesetze-im-internet.de/urhg/__98.html), [101](https://www.gesetze-im-internet.de/urhg/__101.html) bis [103](https://www.gesetze-im-internet.de/urhg/__103.html) UrhG). Unionsschutzrechte: Verordnung für das Verbot, nationales Recht für die Folgen ([Art. 129, 130 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001), [Art. 88, 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welcher Artikel der Richtlinie 98/71/EG steckt in welcher Vorschrift des DesignG, wo steht die Parallelvorschrift für das Unionsgeschmacksmuster, und was ändert die Richtlinie (EU) 2024/2823?
+(Umsetzungstabelle: Designrichtlinie, DesignG, GGV und die Neufassung 2024)
+
+**A:** • Begriffe: Design, Erzeugnis, komplexes Erzeugnis — Richtlinie 98/71/EG: [Art. 1 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) | GGV (Unionsgeschmacksmuster): [Art. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 2 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (neu: Bewegung, Animation, nicht körperliche Erzeugnisse)
+• Schutz nur durch Eintragung; Bauelemente nur bei Sichtbarkeit — Richtlinie 98/71/EG: [Art. 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 2 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html), [§ 27 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html) | GGV (Unionsgeschmacksmuster): [Art. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 4 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (daneben nicht eingetragenes Muster, [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 3 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) („übliche Verwendung“)
+• Neuheit — Richtlinie 98/71/EG: [Art. 4 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) | GGV (Unionsgeschmacksmuster): [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 4 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Eigenart, informierter Benutzer, Gestaltungsfreiheit — Richtlinie 98/71/EG: [Art. 5 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) | GGV (Unionsgeschmacksmuster): [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 5 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Offenbarung, Fachkreisklausel, Neuheitsschonfrist zwölf Monate — Richtlinie 98/71/EG: [Art. 6 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html), [§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html) | GGV (Unionsgeschmacksmuster): [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 6 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Technisch bedingte Merkmale, Verbindungselemente, modulare Systeme — Richtlinie 98/71/EG: [Art. 7 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 3 Abs. 1 Nr. 1, 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html), Abs. 2 | GGV (Unionsgeschmacksmuster): [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 7 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Öffentliche Ordnung, gute Sitten — Richtlinie 98/71/EG: [Art. 8 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 3 Abs. 1 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) | GGV (Unionsgeschmacksmuster): [Art. 9 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 8 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Schutzumfang: kein anderer Gesamteindruck — Richtlinie 98/71/EG: [Art. 9 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) | GGV (Unionsgeschmacksmuster): [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 9 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Schutzdauer 5 × 5 Jahre bis 25 Jahre — Richtlinie 98/71/EG: [Art. 10 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 27 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html), [§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) | GGV (Unionsgeschmacksmuster): [Art. 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (nicht eingetragen: drei Jahre, [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 10 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Recht auf das Design, Arbeitnehmerdesign, Vindikation — Richtlinie 98/71/EG: nicht harmonisiert ([Art. 11 Abs. 1 lit. c DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071): Nichtberechtigung) | DesignG: [§ 7 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [§ 9 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html) | GGV (Unionsgeschmacksmuster): [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 15 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 11 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 12 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Eintragungshindernisse und Nichtigkeitsgründe — Richtlinie 98/71/EG: [Art. 11 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html), [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html), [§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html) | GGV (Unionsgeschmacksmuster): [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 47 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 13 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 14 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Schutzgegenstand: sichtbar wiedergegebene Merkmale — Richtlinie 98/71/EG: nicht harmonisiert | DesignG: [§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) | GGV (Unionsgeschmacksmuster): [Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (neu 2024) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 15 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (neu)
+• Rechte aus dem Design, Benutzungshandlungen — Richtlinie 98/71/EG: [Art. 12 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) | GGV (Unionsgeschmacksmuster): [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (2024: 3D-Druck-Dateien, Durchfuhr) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 16 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (3D-Druck-Dateien, Durchfuhr)
+• Vermutung der Rechtsgültigkeit — Richtlinie 98/71/EG: nicht harmonisiert | DesignG: [§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html), [§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html) | GGV (Unionsgeschmacksmuster): [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 17 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (neu)
+• Schranken — Richtlinie 98/71/EG: [Art. 13 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html) | GGV (Unionsgeschmacksmuster): [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (2024: Referenznutzung, Kommentar, Kritik, Parodie) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 18 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Referenznutzung, Kommentar, Kritik, Parodie)
+• Reparaturklausel — Richtlinie 98/71/EG: [Art. 14 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Übergangsregelung „freeze plus“) | DesignG: [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020), [§ 73 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html) (Altrechte) | GGV (Unionsgeschmacksmuster): [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (früher [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (zwingend; Bestandsschutz bis 9.12.2032)
+• Erschöpfung — Richtlinie 98/71/EG: [Art. 15 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html) | GGV (Unionsgeschmacksmuster): [Art. 21 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 20 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Vorbenutzungsrecht — Richtlinie 98/71/EG: nicht harmonisiert | DesignG: [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html) | GGV (Unionsgeschmacksmuster): [Art. 22 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 21 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (neu)
+• Verhältnis zu anderen Schutzformen, Urheberrecht — Richtlinie 98/71/EG: [Art. 16 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) | DesignG: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) | GGV (Unionsgeschmacksmuster): [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 22 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 23 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Anmeldung, Wiedergabe, Sammelanmeldung, Anmeldetag — Richtlinie 98/71/EG: nicht harmonisiert | DesignG: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), [§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html), [§ 13 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html); §§ [3](https://www.gesetze-im-internet.de/designv/__3.html) bis [12](https://www.gesetze-im-internet.de/designv/__12.html) DesignV | GGV (Unionsgeschmacksmuster): [Art. 35 bis 38 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 25 bis 28 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (neu: Video, 3D, Disclaimer)
+• Aufschiebung der Bekanntmachung — Richtlinie 98/71/EG: nicht harmonisiert | DesignG: [§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html) (30 Monate) | GGV (Unionsgeschmacksmuster): [Art. 50 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (30 Monate) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 30 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (mindestens 30 Monate)
+• Nichtigkeitsverfahren vor dem Amt — Richtlinie 98/71/EG: nicht harmonisiert | DesignG: [§ 34a bis 34c DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html) (seit 2014) | GGV (Unionsgeschmacksmuster): [Art. 52 bis 54 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (EUIPO) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): [Art. 31 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Pflicht zum Amtsverfahren)
+• Zivilrechtliche Ansprüche bei Verletzung — Richtlinie 98/71/EG: nicht harmonisiert (DurchsetzungsRL 2004/48/EG) | DesignG: §§ [42](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html), [49](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) DesignG | GGV (Unionsgeschmacksmuster): [Art. 88, 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) i.V.m. [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): nicht harmonisiert (DurchsetzungsRL)
+• Zuständige Gerichte — Richtlinie 98/71/EG: nicht harmonisiert | DesignG: [§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) (Landgerichte) | GGV (Unionsgeschmacksmuster): [Art. 80 bis 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) ([§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): nicht harmonisiert
+• Umsetzungsfrist / Geltung — Richtlinie 98/71/EG: 28.10.2001 (Deutschland: 1.6.2004) | DesignG: Geschmacksmusterreformgesetz 2004, Modernisierung 2014, Reparaturklausel 2020 | GGV (Unionsgeschmacksmuster): seit 6.3.2002; Reform 2024 gilt seit 1.5.2025 (Teile 1.7.2026) | Richtlinie (EU) 2024/2823 (ab 9.12.2027): Umsetzung bis 9.12.2027; Richtlinie 98/71/EG wird aufgehoben
+
+Merksatz: Materielles Designrecht ist Unionsrecht in nationalem Gewand: [Art. 1 bis 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) = §§ [1](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) bis [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [27](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), [38](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html), [40](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html), [48](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html), [50](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) DesignG = [Art. 3 bis 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701). National bleiben Verfahren, Ansprüche und Gerichte; ab 2027 harmonisiert die Neufassung auch Schutzgegenstand, Vermutung, Vorbenutzung und Reparaturklausel.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Worin unterscheiden sich die beiden Schutzvoraussetzungen des [§ 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), und warum entscheidet fast immer die Eigenart?
+(Neuheit vs. Eigenart)
+
+**A:** • Norm — Neuheit: [§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Eigenart: [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+• Frage — Neuheit: Gibt es ein identisches älteres Design? | Eigenart: Ruft das Design beim informierten Benutzer einen anderen Gesamteindruck hervor als jedes ältere Design?
+• Maßstab — Neuheit: Objektiver Merkmalsvergleich | Eigenart: Informierter Benutzer (zwischen Verbraucher und Fachmann)
+• Vergleichsmaßstab — Neuheit: Jedes einzelne offenbarte Design | Eigenart: Jedes einzelne offenbarte Design; keine Merkmalscollage (EuGH Karen Millen)
+• Schwelle — Neuheit: Identisch, wenn Unterschiede nur in unwesentlichen Einzelheiten | Eigenart: Anderer Gesamteindruck; bei dichter Musterlage und geringer Gestaltungsfreiheit genügen kleine Unterschiede
+• Rolle der Gestaltungsfreiheit — Neuheit: Keine | Eigenart: Zentral: großer Spielraum verlangt großen Abstand
+• Rolle der Erzeugnisart — Neuheit: Gleichgültig (EuGH Easy Sanitary) | Eigenart: Gleichgültig für den Formenschatz; das Erzeugnis bestimmt aber den informierten Benutzer
+• Praktische Bedeutung — Neuheit: Selten entscheidend, weil die Identitätsschwelle eng ist | Eigenart: Der Hauptgrund für Nichtigkeit ([§ 33 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
+• Spiegelbild im Verletzungsprozess — Neuheit: – | Eigenart: Der Schutzumfang ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)) wird mit demselben Maßstab bestimmt: Abstand zum Formenschatz (BGH Untersetzer)
+
+Merksatz: Neuheit fragt nach dem Doppelgänger, Eigenart nach dem anderen Gesamteindruck; wer die Eigenart bejaht, hat die Neuheit meist schon mitgeprüft.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welches Schutzrecht schützt die Gestalt eines Produkts wovor, wie lange und unter welchen Voraussetzungen?
+(Schutzrechte am Produktdesign: eingetragenes Design, Unionsgeschmacksmuster, Formmarke, Urheberrecht, UWG)
+
+**A:** • Rechtsgrundlage — Eingetragenes Design (DesignG): [§ 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [§ 27 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html), [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) | Unionsgeschmacksmuster (GGV): [Art. 1, 4, 10, 11, 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Formmarke (MarkenG/UMV): [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 8](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 14 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html); [Art. 4, 7, 9 UMV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32017R1001) | Urheberrecht (UrhG): [§ 2 Abs. 1 Nr. 4](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html), [§ 4 Nr. 3](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 8](https://www.gesetze-im-internet.de/markeng/__8.html), [§ 9 UWG](https://www.gesetze-im-internet.de/uwg_2004/__9.html)
+• Entstehung — Eingetragenes Design (DesignG): Eintragung beim DPMA | Unionsgeschmacksmuster (GGV): Eintragung beim EUIPO oder (nicht eingetragen) erste Offenbarung in der Union | Formmarke (MarkenG/UMV): Eintragung beim DPMA/EUIPO oder Verkehrsgeltung | Urheberrecht (UrhG): Formlos mit der Schöpfung | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): Formlos, solange Mitbewerb besteht
+• Schutzvoraussetzung — Eingetragenes Design (DesignG): Neuheit und Eigenart (ungeprüft) | Unionsgeschmacksmuster (GGV): Neuheit und Eigenart | Formmarke (MarkenG/UMV): Unterscheidungskraft, keine technisch oder wertbedingte Form ([§ 3 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__3.html)) | Urheberrecht (UrhG): Eigene geistige Schöpfung, freie kreative Entscheidungen (EuGH Cofemel) | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): Wettbewerbliche Eigenart plus Herkunftstäuschung, Rufausbeutung oder unredliche Kenntniserlangung
+• Schutzgegenstand — Eingetragenes Design (DesignG): Sichtbar wiedergegebene Erscheinungsform ([§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html)) | Unionsgeschmacksmuster (GGV): Erscheinungsform (eingetragen: Wiedergabe; nicht eingetragen: wie offenbart) | Formmarke (MarkenG/UMV): Form als Herkunftshinweis | Urheberrecht (UrhG): Individuelle Züge des Werks | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): Konkrete Produktgestaltung, nicht die Idee (BGH Glück)
+• Schutz gegen — Eingetragenes Design (DesignG): Jede Gestaltung ohne anderen Gesamteindruck, auch unabhängige Parallelschöpfung | Unionsgeschmacksmuster (GGV): Eingetragen wie DesignG; nicht eingetragen nur gegen Nachahmung | Formmarke (MarkenG/UMV): Verwechslungsgefahr, Bekanntheitsschutz; nur kennzeichenmäßige Benutzung | Urheberrecht (UrhG): Übernahme der originalen Elemente; nur bei Kenntnis (bewusste oder unbewusste Entlehnung) | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): Unlautere Nachahmung unter Mitbewerbern
+• Dauer — Eingetragenes Design (DesignG): 25 Jahre ab Anmeldung | Unionsgeschmacksmuster (GGV): 25 Jahre; nicht eingetragen drei Jahre | Formmarke (MarkenG/UMV): Unbegrenzt bei Verlängerung und Benutzung | Urheberrecht (UrhG): 70 Jahre nach dem Tod des Urhebers | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): Solange wettbewerbliche Eigenart und Unlauterkeit bestehen
+• Prüfung durch das Amt — Eingetragenes Design (DesignG): Nur Formalien und [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) | Unionsgeschmacksmuster (GGV): Nur Formalien und [Art. 47 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Formmarke (MarkenG/UMV): Absolute Schutzhindernisse ([§ 8 MarkenG](https://www.gesetze-im-internet.de/markeng/__8.html)) | Urheberrecht (UrhG): Keine | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): Keine
+• Angriff auf den Bestand — Eingetragenes Design (DesignG): Nichtigkeitsantrag beim DPMA, Widerklage (§§ [34a](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html), [52b](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html) DesignG) | Unionsgeschmacksmuster (GGV): EUIPO-Antrag oder Widerklage ([Art. 52, 84 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); nicht eingetragen: Einrede | Formmarke (MarkenG/UMV): Löschung, Nichtigkeit ([§§ 49 ff. MarkenG](https://www.gesetze-im-internet.de/markeng/__49.html)) | Urheberrecht (UrhG): Bestreiten der Werkqualität im Prozess | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): Bestreiten der Eigenart und der Unlauterkeit
+• Typische Schwäche — Eingetragenes Design (DesignG): Ungeprüft, Wiedergabe legt den Schutz fest | Unionsgeschmacksmuster (GGV): Kurze Dauer und Beweislast beim nicht eingetragenen Muster | Formmarke (MarkenG/UMV): Hohe Hürde der Unterscheidungskraft bei Warenformen | Urheberrecht (UrhG): Hohe Hürde bei Gebrauchsgegenständen, Beweis der Kenntnis | Nachahmungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)): Kein absolutes Recht, Bekanntheit des Originals nötig
+
+Merksatz: Design schützt das Aussehen, die Marke die Herkunft, das Urheberrecht die Persönlichkeit des Schöpfers, das UWG die Lauterkeit des Wettbewerbs; alle vier können kumulieren ([§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html)).
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wann wähle ich das nationale Design, wann das Unionsgeschmacksmuster, und was leistet das nicht eingetragene Muster?
+(Eingetragenes Design vs. eingetragenes und nicht eingetragenes Unionsgeschmacksmuster)
+
+**A:** • Rechtsgrundlage — Eingetragenes Design (DesignG): [§ 27 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html), [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) | Eingetragenes Unionsgeschmacksmuster: [Art. 1 Abs. 2 lit. b, 12, 19 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Nicht eingetragenes Unionsgeschmacksmuster: [Art. 1 Abs. 2 lit. a, 11, 19 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+• Entstehung — Eingetragenes Design (DesignG): Eintragung beim DPMA | Eingetragenes Unionsgeschmacksmuster: Eintragung beim EUIPO | Nicht eingetragenes Unionsgeschmacksmuster: Erste Offenbarung in der Union ([Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), EuGH Gautzsch)
+• Gebiet — Eingetragenes Design (DesignG): Deutschland | Eingetragenes Unionsgeschmacksmuster: Gesamte Union, einheitlich ([Art. 1 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | Nicht eingetragenes Unionsgeschmacksmuster: Gesamte Union
+• Schutzdauer — Eingetragenes Design (DesignG): 25 Jahre ab Anmeldung | Eingetragenes Unionsgeschmacksmuster: 25 Jahre ab Anmeldung | Nicht eingetragenes Unionsgeschmacksmuster: 3 Jahre ab Offenbarung
+• Schutzumfang — Eingetragenes Design (DesignG): Kein anderer Gesamteindruck ([§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)) | Eingetragenes Unionsgeschmacksmuster: Kein anderer Gesamteindruck ([Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | Nicht eingetragenes Unionsgeschmacksmuster: Kein anderer Gesamteindruck ([Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+• Nachahmung erforderlich? — Eingetragenes Design (DesignG): Nein (Ausnahme: Aufschiebung, [§ 38 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)) | Eingetragenes Unionsgeschmacksmuster: Nein (Ausnahme: Aufschiebung, [Art. 19 Abs. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | Nicht eingetragenes Unionsgeschmacksmuster: Ja: Nachahmung, Kenntnis vermutet bei Kennenkönnen ([Art. 19 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+• Vermutung der Rechtsgültigkeit — Eingetragenes Design (DesignG): [§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html); Angriff nur per Widerklage oder DPMA-Antrag ([§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html)) | Eingetragenes Unionsgeschmacksmuster: [Art. 85 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); Widerklage oder EUIPO | Nicht eingetragenes Unionsgeschmacksmuster: [Art. 85 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) nur bei Darlegung von Offenbarung und Eigenart; Einrede zulässig (EuGH Karen Millen)
+• Nichtigkeit — Eingetragenes Design (DesignG): [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html), [§ 52b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html) | Eingetragenes Unionsgeschmacksmuster: [Art. 24, 25, 52, 84 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | Nicht eingetragenes Unionsgeschmacksmuster: Nur Widerklage oder Einrede ([Art. 24 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+• Gericht — Eingetragenes Design (DesignG): [§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) (Landgericht) | Eingetragenes Unionsgeschmacksmuster: Unionsgeschmacksmustergericht ([Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)), unionsweit im Sitzgerichtsstand ([Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | Nicht eingetragenes Unionsgeschmacksmuster: Unionsgeschmacksmustergericht
+• Folgeansprüche — Eingetragenes Design (DesignG): §§ [42](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG | Eingetragenes Unionsgeschmacksmuster: [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); Folgeansprüche nach dem Recht des Verletzungsstaats ([Art. 88 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)) | Nicht eingetragenes Unionsgeschmacksmuster: [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)
+• Kosten — Eingetragenes Design (DesignG): 60 EUR, Aufrechterhaltung ab dem 6. Jahr | Eingetragenes Unionsgeschmacksmuster: EUIPO-Gebühren je Muster und Verlängerung | Nicht eingetragenes Unionsgeschmacksmuster: Keine
+
+Merksatz: National für den Heimatmarkt, eingetragenes Unionsmuster für die Union, nicht eingetragenes als kostenloser Kurzschutz gegen Nachahmung, der zugleich die zwölfmonatige Schonfrist für die Eintragung startet.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wo und wie wird ein eingetragenes Design oder Unionsgeschmacksmuster angegriffen, und wie verhalten sich die Verfahren zueinander?
+(Wege zur Nichtigkeit: DPMA-Antrag, Widerklage, EUIPO)
+
+**A:** • Rechtsgrundlage — Nichtigkeitsantrag beim DPMA: [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html) | Widerklage vor dem Designgericht: [§ 52b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html) | Antrag beim EUIPO (Unionsgeschmacksmuster): [Art. 52, 53 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+• Zuständigkeit — Nichtigkeitsantrag beim DPMA: Designabteilung mit drei rechtskundigen Mitgliedern ([§ 23 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html)) | Widerklage vor dem Designgericht: Landgericht als Designgericht ([§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html)) oder Unionsgeschmacksmustergericht ([Art. 84 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) | Antrag beim EUIPO (Unionsgeschmacksmuster): Nichtigkeitsabteilung des EUIPO ([Art. 105 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+• Antragsbefugnis — Nichtigkeitsantrag beim DPMA: Jedermann (absolute Gründe), Rechtsinhaber (relative), [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) | Widerklage vor dem Designgericht: Beklagter des Verletzungsprozesses, [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) entsprechend | Antrag beim EUIPO (Unionsgeschmacksmuster): Jedermann bzw. Rechtsinhaber ([Art. 52 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+• Gründe — Nichtigkeitsantrag beim DPMA: [§ 33 Abs. 1, 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) | Widerklage vor dem Designgericht: [§ 33 Abs. 1, 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) | Antrag beim EUIPO (Unionsgeschmacksmuster): [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+• Gebühr — Nichtigkeitsantrag beim DPMA: 300 EUR je Design | Widerklage vor dem Designgericht: Gerichtskosten nach Streitwert | Antrag beim EUIPO (Unionsgeschmacksmuster): EUIPO-Gebühr
+• Besonderheit — Nichtigkeitsantrag beim DPMA: Säumnisprinzip: ohne Widerspruch binnen eines Monats wird die Nichtigkeit ohne Sachprüfung ausgesprochen ([§ 34a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)) | Widerklage vor dem Designgericht: Nur im Zusammenhang mit einer Verletzungsklage; Aussetzung und Verweisung ins DPMA auf Antrag des Inhabers ([§ 52b Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)) | Antrag beim EUIPO (Unionsgeschmacksmuster): Beteiligung des angeblichen Verletzers ([Art. 54 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); Aussetzung des Verletzungsprozesses nach [Art. 91 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) nur bei früherem Antrag (BGH Kinderwagen I)
+• Rechtsmittel — Nichtigkeitsantrag beim DPMA: Beschwerde zum BPatG (30. Senat), Rechtsbeschwerde zum BGH bei Zulassung ([§ 23 Abs. 4, 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html)) | Widerklage vor dem Designgericht: Berufung zum OLG, Revision zum BGH | Antrag beim EUIPO (Unionsgeschmacksmuster): Beschwerdekammer, EuG, EuGH
+• Verhältnis zum Verletzungsprozess — Nichtigkeitsantrag beim DPMA: Aussetzung im Ermessen, zwingend bei Nichtigkeitsüberzeugung ([§ 34b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34b.html)); Beitritt Abgemahnter ([§ 34c DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html)) | Widerklage vor dem Designgericht: Bloße Einrede ausgeschlossen ([§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html)), außer im Verfügungsverfahren | Antrag beim EUIPO (Unionsgeschmacksmuster): Beim nicht eingetragenen Muster kein Amtsverfahren: nur Widerklage oder Einrede ([Art. 24 Abs. 3, 85 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+• Wirkung — Nichtigkeitsantrag beim DPMA: Ex tunc und inter omnes mit Unanfechtbarkeit ([§ 33 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html)) | Widerklage vor dem Designgericht: Ex tunc mit Rechtskraft; Mitteilung an das DPMA ([§ 52b Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)) | Antrag beim EUIPO (Unionsgeschmacksmuster): Ex tunc für die gesamte Union ([Art. 26 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
+
+Merksatz: Amt oder Widerklage, nie bloße Einrede: Seit 2014 ist das Design ein Registerrecht wie die Marke, das nur in einem förmlichen Verfahren fällt.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Regel gilt für Ersatzteile komplexer Erzeugnisse (Kotflügel, Felgen, Scheinwerfer) in welchem Zeitraum und für welches Schutzrecht?
+(Reparaturklausel im Wandel: [§ 73 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html), [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html), [Art. 110 und 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823))
+
+**A:** • Rechtsgrundlage — DesignG bis 2020: Keine Klausel; nur [§ 73 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html) für Handlungen, die nach dem GeschmMG 1988 zulässig waren | [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020): [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html), [§ 73 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html) | [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) a.F. (bis 30.4.2025): [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) a.F. (Übergangsbestimmung) | [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (seit 1.5.2025): [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) | [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung bis 9.12.2027): [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+• Zeitlicher Geltungsbereich — DesignG bis 2020: Bis 1.12.2020 | [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020): Designs mit Anmeldung ab 2.12.2020 | [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) a.F. (bis 30.4.2025): Handlungen bis 30.4.2025 (BGH Schlüsselgehäuse) | [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (seit 1.5.2025): Handlungen ab 1.5.2025 | [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung bis 9.12.2027): Nationales Recht ab spätestens 9.12.2027
+• Erfasste Bauelemente — DesignG bis 2020: Voller Ersatzteilschutz | [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020): Formgebundene Bauelemente, von deren Erscheinungsform das Design abhängt („must match“) | [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) a.F. (bis 30.4.2025): Alle Bauelemente, auch formungebundene wie Felgen (EuGH Acacia/Audi) | [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (seit 1.5.2025): Formgebundene Bauelemente | [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung bis 9.12.2027): Formgebundene Bauelemente
+• Zweckbindung — DesignG bis 2020: – | [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020): Allein zur Reparatur, um das ursprüngliche Erscheinungsbild wiederherzustellen | [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) a.F. (bis 30.4.2025): Zur Reparatur; optische Identität mit dem Original | [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (seit 1.5.2025): Allein zur Reparatur | [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung bis 9.12.2027): Ausschließlich zur Reparatur ([Art. 16 Abs. 1 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823))
+• Unterrichtung und Sorgfaltspflichten — DesignG bis 2020: – | [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020): Ordnungsgemäße Unterrichtung der Verbraucher über den Ursprung ([§ 40a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html)) | [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) a.F. (bis 30.4.2025): Hinweis- und Sorgfaltspflichten des Herstellers und Anbieters (EuGH Acacia, BGH Kraftfahrzeugfelgen II) | [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (seit 1.5.2025): Klare, sichtbare Angabe des gewerblichen Ursprungs; keine Erfolgsgarantie für den Endgebrauch (Abs. 2, 3) | [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung bis 9.12.2027): Wie [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Abs. 2, 3)
+• Bestandsschutz für Altrechte — DesignG bis 2020: – | [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020): Kein Anwendung auf Designs mit Anmeldung vor dem 2.12.2020 ([§ 73 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html)) | [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) a.F. (bis 30.4.2025): – | [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (seit 1.5.2025): Übergangsschutz für vor dem 8.12.2024 angemeldete Muster bis 9.12.2032 | [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung bis 9.12.2027): Mitgliedstaaten dürfen Altrechte bis 9.12.2032 weiter schützen (Abs. 4)
+• Leitentscheidung — DesignG bis 2020: BGH Kraftfahrzeugfelgen (Vorlage) | [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020): – | [Art. 110 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) a.F. (bis 30.4.2025): EuGH Acacia/Audi und Porsche; BGH Kraftfahrzeugfelgen II; BGH Schlüsselgehäuse | [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (seit 1.5.2025): – | [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung bis 9.12.2027): –
+
+Merksatz: Must fit ist immer frei ([§ 3 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html)), must match nur unter der Reparaturklausel: seit 2020 national, seit 2025 dauerhaft im Unionsmuster, ab 2027 überall in der Union.
 
 *Tags: Abgrenzung*
 
@@ -16561,6 +18707,1181 @@ Im Gebrauchsmustereintragungsverfahren prüft die Gebrauchsmusterstelle, ob ein 
 
 ---
 
+## entscheidung
+
+**F:** EuGH „PepsiCo/Grupo Promer (Tazos)“ (C-281/10 P, 2011) – Kernaussage?
+
+**A:** Der informierte Benutzer steht zwischen dem Durchschnittsverbraucher und dem Fachmann: Er kennt verschiedene Muster des Sektors, weiß, welche Elemente sie üblicherweise aufweisen, und benutzt die Erzeugnisse mit vergleichsweise großer Aufmerksamkeit. Der Gesamteindruck ist nach Möglichkeit durch direkten Vergleich der Muster zu ermitteln; ein Vergleich aus der Erinnerung ist nur zulässig, wo der direkte Vergleich nicht praktikabel ist. Eine geringe Gestaltungsfreiheit führt dazu, dass schon kleine Unterschiede einen anderen Gesamteindruck erzeugen.
+
+Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: GRUR 2012, 506
+
+*Tags: Rechtsprechung, EuGH, Eigenart, Informierter Benutzer, Unionsgeschmacksmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Der informierte Benutzer steht zwischen dem Durchschnittsverbraucher und dem Fachmann: Er kennt verschiedene Muster des Sektors, weiß, welche Elemente sie üblicherweise aufweisen, und benutzt die Erzeugnisse mit vergleichsweise großer Aufmerksamkeit. Der Gesamteindruck ist nach Möglichkeit durch direkten Vergleich der Muster zu ermitteln; ein Vergleich aus der Erinnerung ist nur zulässig, wo der direkte Vergleich nicht praktikabel ist. Eine geringe Gestaltungsfreiheit führt dazu, dass schon kleine Unterschiede einen anderen Gesamteindruck erzeugen.
+
+**A:** EuGH „PepsiCo/Grupo Promer (Tazos)“ – C-281/10 P (2011), GRUR 2012, 506
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Eigenart, Informierter Benutzer, Unionsgeschmacksmuster*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Karen Millen Fashions/Dunnes Stores“ (C-345/13, 2014) – Kernaussage?
+
+**A:** Die Eigenart ist durch Vergleich mit einem oder mehreren einzelnen, konkret bestimmten älteren Mustern zu prüfen, nicht mit einer Kombination isolierter Merkmale aus mehreren älteren Mustern. Wer Rechte aus einem nicht eingetragenen Gemeinschaftsgeschmacksmuster geltend macht, muss die Eigenart nicht beweisen, sondern nur angeben, worin sie besteht ([Art. 85 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); die Vermutung der Rechtsgültigkeit greift dann.
+
+Normen: [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: GRUR 2014, 774
+
+*Tags: Rechtsprechung, EuGH, Eigenart, Nicht eingetragenes Muster, Beweislast*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Die Eigenart ist durch Vergleich mit einem oder mehreren einzelnen, konkret bestimmten älteren Mustern zu prüfen, nicht mit einer Kombination isolierter Merkmale aus mehreren älteren Mustern. Wer Rechte aus einem nicht eingetragenen Gemeinschaftsgeschmacksmuster geltend macht, muss die Eigenart nicht beweisen, sondern nur angeben, worin sie besteht ([Art. 85 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); die Vermutung der Rechtsgültigkeit greift dann.
+
+**A:** EuGH „Karen Millen Fashions/Dunnes Stores“ – C-345/13 (2014), GRUR 2014, 774
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Eigenart, Nicht eingetragenes Muster, Beweislast*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss)“ (C-361/15 P, C-405/15 P, 2017) – Kernaussage?
+
+**A:** Neuheit und Eigenart sind gegenüber jedem offenbarten älteren Muster zu prüfen, gleich für welches Erzeugnis es bestimmt ist; ein Muster ist nicht deshalb neu, weil es für eine andere Erzeugnisart verwendet wird als das ältere. Der informierte Benutzer muss das ältere Muster nicht tatsächlich kennen. Das Amt darf ältere Muster aber nicht aus mehreren Abbildungen zusammensetzen: Der Vergleich erfolgt mit dem älteren Muster, wie es offenbart wurde.
+
+Normen: [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: GRUR 2018, 74
+
+*Tags: Rechtsprechung, EuGH, Neuheit, Eigenart, Erzeugnisart*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Neuheit und Eigenart sind gegenüber jedem offenbarten älteren Muster zu prüfen, gleich für welches Erzeugnis es bestimmt ist; ein Muster ist nicht deshalb neu, weil es für eine andere Erzeugnisart verwendet wird als das ältere. Der informierte Benutzer muss das ältere Muster nicht tatsächlich kennen. Das Amt darf ältere Muster aber nicht aus mehreren Abbildungen zusammensetzen: Der Vergleich erfolgt mit dem älteren Muster, wie es offenbart wurde.
+
+**A:** EuGH „Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss)“ – C-361/15 P, C-405/15 P (2017), GRUR 2018, 74
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Neuheit, Eigenart, Erzeugnisart*
+
+---
+
+## entscheidung
+
+**F:** BGH „Verlängerte Limousinen“ (I ZR 89/08, 2010) – Kernaussage?
+
+**A:** Eigenart bedeutet Unterschiedlichkeit, ermittelt im Einzelvergleich mit jedem vorbekannten Muster; Eigentümlichkeit und Gestaltungshöhe des alten Rechts sind keine Voraussetzungen mehr. Die bloße Anmeldung eines Gemeinschaftsgeschmacksmusters macht es noch nicht der Öffentlichkeit zugänglich; erst die Bekanntmachung oder sonstige Offenbarung zählt zum Formenschatz.
+
+Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG
+Fundstelle: BGH, Urteil vom 22.04.2010 – I ZR 89/08
+
+*Tags: Rechtsprechung, BGH, Eigenart, Offenbarung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eigenart bedeutet Unterschiedlichkeit, ermittelt im Einzelvergleich mit jedem vorbekannten Muster; Eigentümlichkeit und Gestaltungshöhe des alten Rechts sind keine Voraussetzungen mehr. Die bloße Anmeldung eines Gemeinschaftsgeschmacksmusters macht es noch nicht der Öffentlichkeit zugänglich; erst die Bekanntmachung oder sonstige Offenbarung zählt zum Formenschatz.
+
+**A:** BGH „Verlängerte Limousinen“ – I ZR 89/08 (2010), BGH, Urteil vom 22.04.2010 – I ZR 89/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Eigenart, Offenbarung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Untersetzer“ (I ZR 71/08, 2010) – Kernaussage?
+
+**A:** Der Schutzumfang richtet sich nach dem Abstand des Musters zum vorbekannten Formenschatz: Je größer die Musterdichte und je geringer die Gestaltungsfreiheit, desto enger der Schutz; ein deutlicher Abstand verschafft einen weiten Schutzbereich. Worauf die Eigenart im Einzelnen beruht, ist für den Schutzumfang unerheblich. Maßgeblicher Zeitpunkt für den Gestaltungsspielraum ist die Anmeldung des Klagemusters.
+
+Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG
+Fundstelle: BGH, Urteil vom 19.05.2010 – I ZR 71/08
+
+*Tags: Rechtsprechung, BGH, Schutzumfang, Formenschatz, Gestaltungsfreiheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Schutzumfang richtet sich nach dem Abstand des Musters zum vorbekannten Formenschatz: Je größer die Musterdichte und je geringer die Gestaltungsfreiheit, desto enger der Schutz; ein deutlicher Abstand verschafft einen weiten Schutzbereich. Worauf die Eigenart im Einzelnen beruht, ist für den Schutzumfang unerheblich. Maßgeblicher Zeitpunkt für den Gestaltungsspielraum ist die Anmeldung des Klagemusters.
+
+**A:** BGH „Untersetzer“ – I ZR 71/08 (2010), BGH, Urteil vom 19.05.2010 – I ZR 71/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzumfang, Formenschatz, Gestaltungsfreiheit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kinderwagen II“ (I ZR 102/11, 2012) – Kernaussage?
+
+**A:** Der Schutzumfang wird durch die Musterdichte bei den fraglichen Erzeugnissen und durch die Ausnutzung des Gestaltungsspielraums bestimmt. Technisch bedingte Übereinstimmungen misst der informierte Benutzer für den Gesamteindruck gering bei; daraus folgt aber nicht, dass er Unterschiede in solchen Merkmalen ebenso gering gewichtet. Wer unionsweit aus dem Gemeinschaftsgeschmacksmuster und hilfsweise aus dem UWG klagt, verfolgt die Ansprüche in dieser Rangfolge.
+
+Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG
+Fundstelle: BGH, Urteil vom 12.07.2012 – I ZR 102/11
+
+*Tags: Rechtsprechung, BGH, Schutzumfang, Gesamteindruck*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Schutzumfang wird durch die Musterdichte bei den fraglichen Erzeugnissen und durch die Ausnutzung des Gestaltungsspielraums bestimmt. Technisch bedingte Übereinstimmungen misst der informierte Benutzer für den Gesamteindruck gering bei; daraus folgt aber nicht, dass er Unterschiede in solchen Merkmalen ebenso gering gewichtet. Wer unionsweit aus dem Gemeinschaftsgeschmacksmuster und hilfsweise aus dem UWG klagt, verfolgt die Ansprüche in dieser Rangfolge.
+
+**A:** BGH „Kinderwagen II“ – I ZR 102/11 (2012), BGH, Urteil vom 12.07.2012 – I ZR 102/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzumfang, Gesamteindruck*
+
+---
+
+## entscheidung
+
+**F:** BGH „Meda Gate“ (I ZR 164/17, 2019) – Kernaussage?
+
+**A:** Der Abstand des Klagemusters zum vorbekannten Formenschatz ist anhand des Gesamteindrucks der einander gegenüberstehenden Muster zu bestimmen; eine mosaikartige Gesamtschau einzelner Elemente aus verschiedenen Entgegenhaltungen ist unzulässig. Die bloße Abbildung von Entgegenhaltungen im Urteil ersetzt keine Feststellungen zu deren Gesamteindruck.
+
+Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: BGH, Urteil vom 24.01.2019 – I ZR 164/17
+
+*Tags: Rechtsprechung, BGH, Formenschatz, Gesamteindruck*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Abstand des Klagemusters zum vorbekannten Formenschatz ist anhand des Gesamteindrucks der einander gegenüberstehenden Muster zu bestimmen; eine mosaikartige Gesamtschau einzelner Elemente aus verschiedenen Entgegenhaltungen ist unzulässig. Die bloße Abbildung von Entgegenhaltungen im Urteil ersetzt keine Feststellungen zu deren Gesamteindruck.
+
+**A:** BGH „Meda Gate“ – I ZR 164/17 (2019), BGH, Urteil vom 24.01.2019 – I ZR 164/17
+
+*Tags: Rechtsprechung, Umkehr, BGH, Formenschatz, Gesamteindruck*
+
+---
+
+## entscheidung
+
+**F:** BGH „Ballerinaschuh“ (I ZR 187/16, 2018) – Kernaussage?
+
+**A:** Über das Internet dem allgemeinen Publikum angebotene Modelle gehören zum vorbekannten Formenschatz, den der informierte Benutzer kennen kann. Umstände, die den Schutzumfang schmälern, muss nicht der Kläger offenbaren; der Beklagte hat sie vorzutragen. Wer nach unberechtigter Schutzrechtsverwarnung den Vertrieb einstellt, kann Schadensersatz aus dem Eingriff in den Gewerbebetrieb verlangen.
+
+Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: BGH, Urteil vom 11.01.2018 – I ZR 187/16
+
+*Tags: Rechtsprechung, BGH, Formenschatz, Darlegungslast, Schutzrechtsverwarnung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Über das Internet dem allgemeinen Publikum angebotene Modelle gehören zum vorbekannten Formenschatz, den der informierte Benutzer kennen kann. Umstände, die den Schutzumfang schmälern, muss nicht der Kläger offenbaren; der Beklagte hat sie vorzutragen. Wer nach unberechtigter Schutzrechtsverwarnung den Vertrieb einstellt, kann Schadensersatz aus dem Eingriff in den Gewerbebetrieb verlangen.
+
+**A:** BGH „Ballerinaschuh“ – I ZR 187/16 (2018), BGH, Urteil vom 11.01.2018 – I ZR 187/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Formenschatz, Darlegungslast, Schutzrechtsverwarnung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Armbanduhr“ (I ZR 40/14, 2016) – Kernaussage?
+
+**A:** Für den Gesamteindruck nach [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) kommt es darauf an, wie der informierte Benutzer das Erzeugnis bei bestimmungsgemäßer Verwendung wahrnimmt (bei einer Armbanduhr also am Handgelenk, nicht die Rückseite); zusätzlich kann der Eindruck bei Präsentation in Werbung und Verkauf zählen.
+
+Normen: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG
+Fundstelle: BGH, Urteil vom 28.01.2016 – I ZR 40/14
+
+*Tags: Rechtsprechung, BGH, Gesamteindruck, Bestimmungsgemäße Verwendung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Für den Gesamteindruck nach [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) kommt es darauf an, wie der informierte Benutzer das Erzeugnis bei bestimmungsgemäßer Verwendung wahrnimmt (bei einer Armbanduhr also am Handgelenk, nicht die Rückseite); zusätzlich kann der Eindruck bei Präsentation in Werbung und Verkauf zählen.
+
+**A:** BGH „Armbanduhr“ – I ZR 40/14 (2016), BGH, Urteil vom 28.01.2016 – I ZR 40/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Gesamteindruck, Bestimmungsgemäße Verwendung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Violette Trittleiter“ (30 W (pat) 801/23, 2025) – Kernaussage?
+
+**A:** Eine Farbgestaltung kann die Eigenart nur ausnahmsweise begründen, etwa wenn sie ungewöhnlich oder besonders auf Erfordernisse abgestimmt ist. Unterscheidet sich ein Design mit prägenden Formmerkmalen von einem vorbekannten Muster nur in der Farbe, fehlt regelmäßig die Eigenart.
+
+Normen: [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 33 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 04.08.2025 – 30 W (pat) 801/23
+
+*Tags: Rechtsprechung, BPatG, Eigenart, Farbe, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Eine Farbgestaltung kann die Eigenart nur ausnahmsweise begründen, etwa wenn sie ungewöhnlich oder besonders auf Erfordernisse abgestimmt ist. Unterscheidet sich ein Design mit prägenden Formmerkmalen von einem vorbekannten Muster nur in der Farbe, fehlt regelmäßig die Eigenart.
+
+**A:** BPatG „Violette Trittleiter“ – 30 W (pat) 801/23 (2025), BPatG, Beschluss vom 04.08.2025 – 30 W (pat) 801/23
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Eigenart, Farbe, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Gautzsch Großhandel/MBM Joseph Duna (Gartenpavillon)“ (C-479/12, 2014) – Kernaussage?
+
+**A:** Ein Muster kann den Fachkreisen der Union auch dann bekannt sein, wenn Abbildungen nur an Händler verteilt oder das Muster nur einem Unternehmen außerhalb der Union offenbart wurde; ob das im normalen Geschäftsverlauf bekannt sein konnte, ist Tatfrage. Beim nicht eingetragenen Gemeinschaftsgeschmacksmuster trägt der Rechtsinhaber die Beweislast für die Nachahmung; Verjährung und Verwirkung der Ansprüche richten sich nach nationalem Recht.
+
+Normen: [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: GRUR 2014, 368
+
+*Tags: Rechtsprechung, EuGH, Offenbarung, Fachkreise, Nicht eingetragenes Muster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Ein Muster kann den Fachkreisen der Union auch dann bekannt sein, wenn Abbildungen nur an Händler verteilt oder das Muster nur einem Unternehmen außerhalb der Union offenbart wurde; ob das im normalen Geschäftsverlauf bekannt sein konnte, ist Tatfrage. Beim nicht eingetragenen Gemeinschaftsgeschmacksmuster trägt der Rechtsinhaber die Beweislast für die Nachahmung; Verjährung und Verwirkung der Ansprüche richten sich nach nationalem Recht.
+
+**A:** EuGH „Gautzsch Großhandel/MBM Joseph Duna (Gartenpavillon)“ – C-479/12 (2014), GRUR 2014, 368
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Offenbarung, Fachkreise, Nicht eingetragenes Muster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Bolerojäckchen“ (I ZR 23/12, 2012) – Kernaussage?
+
+**A:** Wer Rechte aus einem nicht eingetragenen Gemeinschaftsgeschmacksmuster ableitet, muss darlegen und beweisen, dass er Inhaber nach [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) ist (Entwerfer, Rechtsnachfolger oder Arbeitgeber). Eine Vermutung der Inhaberschaft zugunsten desjenigen, der das Muster erstmals in der Union offenbart hat, gibt es nicht.
+
+Normen: [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: BGH, Urteil vom 13.12.2012 – I ZR 23/12
+
+*Tags: Rechtsprechung, BGH, Nicht eingetragenes Muster, Inhaberschaft, Beweislast*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Wer Rechte aus einem nicht eingetragenen Gemeinschaftsgeschmacksmuster ableitet, muss darlegen und beweisen, dass er Inhaber nach [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) ist (Entwerfer, Rechtsnachfolger oder Arbeitgeber). Eine Vermutung der Inhaberschaft zugunsten desjenigen, der das Muster erstmals in der Union offenbart hat, gibt es nicht.
+
+**A:** BGH „Bolerojäckchen“ – I ZR 23/12 (2012), BGH, Urteil vom 13.12.2012 – I ZR 23/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nicht eingetragenes Muster, Inhaberschaft, Beweislast*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Ferrari/Mansory Design (Front kit)“ (C-123/20, 2021) – Kernaussage?
+
+**A:** Die Veröffentlichung von Abbildungen eines Gesamterzeugnisses (Fahrzeug) kann zugleich ein Muster an einem Teil oder Bauelement dieses Erzeugnisses offenbaren und so ein nicht eingetragenes Gemeinschaftsgeschmacksmuster daran entstehen lassen, sofern die Erscheinungsform des Teils in der Abbildung eindeutig erkennbar ist. Der Teil muss durch Linien, Konturen, Farben, Gestalt oder Oberfläche als abgegrenzter Teilbereich erkennbar sein.
+
+Normen: [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 4 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: GRUR 2021, 1523
+
+*Tags: Rechtsprechung, EuGH, Nicht eingetragenes Muster, Teildesign, Offenbarung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Die Veröffentlichung von Abbildungen eines Gesamterzeugnisses (Fahrzeug) kann zugleich ein Muster an einem Teil oder Bauelement dieses Erzeugnisses offenbaren und so ein nicht eingetragenes Gemeinschaftsgeschmacksmuster daran entstehen lassen, sofern die Erscheinungsform des Teils in der Abbildung eindeutig erkennbar ist. Der Teil muss durch Linien, Konturen, Farben, Gestalt oder Oberfläche als abgegrenzter Teilbereich erkennbar sein.
+
+**A:** EuGH „Ferrari/Mansory Design (Front kit)“ – C-123/20 (2021), GRUR 2021, 1523
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Nicht eingetragenes Muster, Teildesign, Offenbarung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Front kit II“ (I ZR 1/19, 2022) – Kernaussage?
+
+**A:** Nach der Vorabentscheidung des EuGH: Die Fotografie eines Fahrzeugs offenbart ein Gemeinschaftsgeschmacksmuster an einem Bauelement, wenn dessen Erscheinungsform eindeutig erkennbar ist; Eigenart hat das Bauelement, wenn es einen sichtbaren, durch Linien, Konturen, Farben, Gestalt oder Oberflächenstruktur klar abgegrenzten Teilbereich darstellt, der einen eigenen Gesamteindruck hervorruft und nicht völlig in der Gesamtform aufgeht.
+
+Normen: [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 4 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: BGH, Urteil vom 10.03.2022 – I ZR 1/19
+
+*Tags: Rechtsprechung, BGH, Nicht eingetragenes Muster, Teildesign*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Nach der Vorabentscheidung des EuGH: Die Fotografie eines Fahrzeugs offenbart ein Gemeinschaftsgeschmacksmuster an einem Bauelement, wenn dessen Erscheinungsform eindeutig erkennbar ist; Eigenart hat das Bauelement, wenn es einen sichtbaren, durch Linien, Konturen, Farben, Gestalt oder Oberflächenstruktur klar abgegrenzten Teilbereich darstellt, der einen eigenen Gesamteindruck hervorruft und nicht völlig in der Gesamtform aufgeht.
+
+**A:** BGH „Front kit II“ – I ZR 1/19 (2022), BGH, Urteil vom 10.03.2022 – I ZR 1/19
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nicht eingetragenes Muster, Teildesign*
+
+---
+
+## entscheidung
+
+**F:** EuGH „DOCERAM/CeramTec (Zentrierstifte)“ (C-395/16, 2018) – Kernaussage?
+
+**A:** Erscheinungsmerkmale sind ausschließlich technisch bedingt, wenn die technische Funktion der einzige Faktor war, der den Entwerfer zu ihnen bestimmt hat, und ästhetische Erwägungen keine Rolle spielten; das ist objektiv anhand aller Umstände des Einzelfalls zu beurteilen. Dass alternative Gestaltungen dieselbe Funktion erfüllen könnten, schließt den Ausschluss nicht aus (Absage an den Mehrheit-der-Formen-Test). Die Sicht eines objektiven Beobachters ist nicht maßgeblich.
+
+Normen: [Art. 7 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG
+Fundstelle: GRUR 2018, 612
+
+*Tags: Rechtsprechung, EuGH, Technische Bedingtheit, Ausschluss*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Erscheinungsmerkmale sind ausschließlich technisch bedingt, wenn die technische Funktion der einzige Faktor war, der den Entwerfer zu ihnen bestimmt hat, und ästhetische Erwägungen keine Rolle spielten; das ist objektiv anhand aller Umstände des Einzelfalls zu beurteilen. Dass alternative Gestaltungen dieselbe Funktion erfüllen könnten, schließt den Ausschluss nicht aus (Absage an den Mehrheit-der-Formen-Test). Die Sicht eines objektiven Beobachters ist nicht maßgeblich.
+
+**A:** EuGH „DOCERAM/CeramTec (Zentrierstifte)“ – C-395/16 (2018), GRUR 2018, 612
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Technische Bedingtheit, Ausschluss*
+
+---
+
+## entscheidung
+
+**F:** BGH „Papierspender“ (I ZR 137/19, 2020) – Kernaussage?
+
+**A:** Ein Patent oder eine Patentanmeldung für dasselbe Erzeugnis steht dem Designschutz nicht entgegen. Ansprüche, Beschreibung und Zeichnungen der Offenlegungsschrift gehören aber zu den objektiven Umständen, anhand derer nach DOCERAM zu prüfen ist, ob die Erscheinungsmerkmale ausschließlich technisch bedingt sind.
+
+Normen: [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG
+Fundstelle: BGH, Urteil vom 07.10.2020 – I ZR 137/19
+
+*Tags: Rechtsprechung, BGH, Technische Bedingtheit, Patent und Design*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Patent oder eine Patentanmeldung für dasselbe Erzeugnis steht dem Designschutz nicht entgegen. Ansprüche, Beschreibung und Zeichnungen der Offenlegungsschrift gehören aber zu den objektiven Umständen, anhand derer nach DOCERAM zu prüfen ist, ob die Erscheinungsmerkmale ausschließlich technisch bedingt sind.
+
+**A:** BGH „Papierspender“ – I ZR 137/19 (2020), BGH, Urteil vom 07.10.2020 – I ZR 137/19
+
+*Tags: Rechtsprechung, Umkehr, BGH, Technische Bedingtheit, Patent und Design*
+
+---
+
+## entscheidung
+
+**F:** BGH „Tellerschleifgerät“ (I ZR 167/21, 2023) – Kernaussage?
+
+**A:** Die Prüfung der ausschließlich technischen Bedingtheit ist für jedes den Gesamteindruck prägende Merkmal gesondert anhand aller objektiven Umstände vorzunehmen; nur wenn alle prägenden Merkmale technisch bedingt sind, ist das Muster nichtig. Bleiben gestalterisch bestimmte Merkmale, ist das Muster schutzfähig, technisch bedingte Merkmale werden beim Schutzumfang geringer gewichtet.
+
+Normen: [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG
+Fundstelle: BGH, Urteil vom 09.03.2023 – I ZR 167/21
+
+*Tags: Rechtsprechung, BGH, Technische Bedingtheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Prüfung der ausschließlich technischen Bedingtheit ist für jedes den Gesamteindruck prägende Merkmal gesondert anhand aller objektiven Umstände vorzunehmen; nur wenn alle prägenden Merkmale technisch bedingt sind, ist das Muster nichtig. Bleiben gestalterisch bestimmte Merkmale, ist das Muster schutzfähig, technisch bedingte Merkmale werden beim Schutzumfang geringer gewichtet.
+
+**A:** BGH „Tellerschleifgerät“ – I ZR 167/21 (2023), BGH, Urteil vom 09.03.2023 – I ZR 167/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Technische Bedingtheit*
+
+---
+
+## entscheidung
+
+**F:** EuG „Lego/EUIPO – Delta Sport (Klemmbaustein)“ (T-515/19, 2021) – Kernaussage?
+
+**A:** Die Rückausnahme für modulare Systeme ([Art. 8 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) gilt für Verbindungselemente nach [Art. 8 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) auch dann, wenn deren Merkmale zugleich ausschließlich technisch bedingt im Sinne des Abs. 1 sind; das EUIPO muss den Einwand prüfen. Ein Muster ist nur nichtig, wenn alle Erscheinungsmerkmale ausschließlich technisch bedingt sind; die glatte Oberseite des Steins war nicht berücksichtigt worden.
+
+Normen: [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 3 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG
+Fundstelle: GRUR-RS 2021, 5631
+
+*Tags: Rechtsprechung, EuG, Modulare Systeme, Verbindungselemente*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuG) steht für folgenden Grundsatz?
+
+Die Rückausnahme für modulare Systeme ([Art. 8 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) gilt für Verbindungselemente nach [Art. 8 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) auch dann, wenn deren Merkmale zugleich ausschließlich technisch bedingt im Sinne des Abs. 1 sind; das EUIPO muss den Einwand prüfen. Ein Muster ist nur nichtig, wenn alle Erscheinungsmerkmale ausschließlich technisch bedingt sind; die glatte Oberseite des Steins war nicht berücksichtigt worden.
+
+**A:** EuG „Lego/EUIPO – Delta Sport (Klemmbaustein)“ – T-515/19 (2021), GRUR-RS 2021, 5631
+
+*Tags: Rechtsprechung, Umkehr, EuG, Modulare Systeme, Verbindungselemente*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Monz Handelsgesellschaft/Büchel (Sattelunterseite)“ (C-472/21, 2023) – Kernaussage?
+
+**A:** Die Sichtbarkeit eines Bauelements bei bestimmungsgemäßer Verwendung ist aus der Sicht des Endbenutzers und aus der eines außenstehenden Beobachters zu beurteilen; das Bauelement muss nicht in jedem Moment der Benutzung sichtbar sein. Bestimmungsgemäße Verwendung umfasst die Hauptfunktion und die Handlungen, die der Endbenutzer üblicherweise dabei vornimmt, einschließlich Lagerung und Transport, nicht aber Instandhaltung, Wartung und Reparatur.
+
+Normen: [Art. 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 4 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) MarkenG
+Fundstelle: GRUR 2023, 482
+
+*Tags: Rechtsprechung, EuGH, Bauelemente, Sichtbarkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Die Sichtbarkeit eines Bauelements bei bestimmungsgemäßer Verwendung ist aus der Sicht des Endbenutzers und aus der eines außenstehenden Beobachters zu beurteilen; das Bauelement muss nicht in jedem Moment der Benutzung sichtbar sein. Bestimmungsgemäße Verwendung umfasst die Hauptfunktion und die Handlungen, die der Endbenutzer üblicherweise dabei vornimmt, einschließlich Lagerung und Transport, nicht aber Instandhaltung, Wartung und Reparatur.
+
+**A:** EuGH „Monz Handelsgesellschaft/Büchel (Sattelunterseite)“ – C-472/21 (2023), GRUR 2023, 482
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Bauelemente, Sichtbarkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sattelunterseite II“ (I ZB 31/20, 2023) – Kernaussage?
+
+**A:** Umsetzung der Vorabentscheidung: Die Sichtbarkeit eines Fahrradsattels beim Fahrrad als komplexem Erzeugnis ist aus Sicht des Endbenutzers und eines außenstehenden Beobachters zu beurteilen; bestimmungsgemäße Verwendung umfasst das Fahren sowie Aufbewahrung und Transport, nicht Wartung und Reparatur. Die Sache ging zur Feststellung der Sichtbarkeit der Sattelunterseite an das BPatG zurück.
+
+Normen: [Art. 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) MarkenG
+Fundstelle: BGH, Beschluss vom 15.06.2023 – I ZB 31/20
+
+*Tags: Rechtsprechung, BGH, Bauelemente, Sichtbarkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Umsetzung der Vorabentscheidung: Die Sichtbarkeit eines Fahrradsattels beim Fahrrad als komplexem Erzeugnis ist aus Sicht des Endbenutzers und eines außenstehenden Beobachters zu beurteilen; bestimmungsgemäße Verwendung umfasst das Fahren sowie Aufbewahrung und Transport, nicht Wartung und Reparatur. Die Sache ging zur Feststellung der Sichtbarkeit der Sattelunterseite an das BPatG zurück.
+
+**A:** BGH „Sattelunterseite II“ – I ZB 31/20 (2023), BGH, Beschluss vom 15.06.2023 – I ZB 31/20
+
+*Tags: Rechtsprechung, Umkehr, BGH, Bauelemente, Sichtbarkeit*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Sattelunterseite II (BPatG)“ (30 W (pat) 802/23, 2026) – Kernaussage?
+
+**A:** Kann ein Bauelement (Sattel) mehreren komplexen Erzeugnissen (Fahrrad, Motorrad) zugeordnet werden, greift der Schutzausschluss des [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) nur, wenn es bei keiner bestimmungsgemäßen Verwendung sichtbar bleibt. Bleiben die neuen und eigenartigen Merkmale zumindest bei einer bestimmungsgemäßen Verwendung eines komplexen Erzeugnisses sichtbar, besteht Designschutz.
+
+Normen: [§ 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 33 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG, [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 26.03.2026 – 30 W (pat) 802/23 – Sattelunterseite II
+
+*Tags: Rechtsprechung, BPatG, Bauelemente, Sichtbarkeit, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Kann ein Bauelement (Sattel) mehreren komplexen Erzeugnissen (Fahrrad, Motorrad) zugeordnet werden, greift der Schutzausschluss des [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) nur, wenn es bei keiner bestimmungsgemäßen Verwendung sichtbar bleibt. Bleiben die neuen und eigenartigen Merkmale zumindest bei einer bestimmungsgemäßen Verwendung eines komplexen Erzeugnisses sichtbar, besteht Designschutz.
+
+**A:** BPatG „Sattelunterseite II (BPatG)“ – 30 W (pat) 802/23 (2026), BPatG, Beschluss vom 26.03.2026 – 30 W (pat) 802/23 – Sattelunterseite II
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Bauelemente, Sichtbarkeit, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung
+
+**F:** BGH „Baugruppe“ (I ZR 67/05, 2008) – Kernaussage?
+
+**A:** Nach altem Recht waren Merkmale, die nach dem Einbau eines Bauelements in ein komplexes Erzeugnis nicht sichtbar sind, von der Beurteilung der Eigentümlichkeit nicht ausgeschlossen; nach [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) kommt es heute auf die Sichtbarkeit bei bestimmungsgemäßer Verwendung an. Beim ergänzenden Leistungsschutz ist die Frage, ob eine gemeinfreie technische Lösung übernommen wurde, nicht auf die nach dem Einbau sichtbaren Teile beschränkt.
+
+Normen: [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) MarkenG, [§ 72 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__72.html) MarkenG
+Fundstelle: BGH, Urteil vom 10.01.2008 – I ZR 67/05
+
+*Tags: Rechtsprechung, BGH, Bauelemente, Übergangsrecht, UWG*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Nach altem Recht waren Merkmale, die nach dem Einbau eines Bauelements in ein komplexes Erzeugnis nicht sichtbar sind, von der Beurteilung der Eigentümlichkeit nicht ausgeschlossen; nach [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) kommt es heute auf die Sichtbarkeit bei bestimmungsgemäßer Verwendung an. Beim ergänzenden Leistungsschutz ist die Frage, ob eine gemeinfreie technische Lösung übernommen wurde, nicht auf die nach dem Einbau sichtbaren Teile beschränkt.
+
+**A:** BGH „Baugruppe“ – I ZR 67/05 (2008), BGH, Urteil vom 10.01.2008 – I ZR 67/05
+
+*Tags: Rechtsprechung, Umkehr, BGH, Bauelemente, Übergangsrecht, UWG*
+
+---
+
+## entscheidung
+
+**F:** BGH „Weinkaraffe“ (I ZR 124/10, 2012) – Kernaussage?
+
+**A:** Schutzgegenstand des eingetragenen Gemeinschaftsgeschmacksmusters ist die in der Anmeldung sichtbar wiedergegebene Erscheinungsform; mehrere Darstellungen bilden nicht mehrere Schutzgegenstände, Unklarheiten sind durch Auslegung zu klären. Teile oder Elemente eines eingetragenen Musters genießen keinen eigenständigen Schutz.
+
+Normen: [Art. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 36 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) MarkenG
+Fundstelle: BGH, Urteil vom 08.03.2012 – I ZR 124/10
+
+*Tags: Rechtsprechung, BGH, Schutzgegenstand, Wiedergabe*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Schutzgegenstand des eingetragenen Gemeinschaftsgeschmacksmusters ist die in der Anmeldung sichtbar wiedergegebene Erscheinungsform; mehrere Darstellungen bilden nicht mehrere Schutzgegenstände, Unklarheiten sind durch Auslegung zu klären. Teile oder Elemente eines eingetragenen Musters genießen keinen eigenständigen Schutz.
+
+**A:** BGH „Weinkaraffe“ – I ZR 124/10 (2012), BGH, Urteil vom 08.03.2012 – I ZR 124/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzgegenstand, Wiedergabe*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schreibgeräte“ (I ZR 211/08, 2011) – Kernaussage?
+
+**A:** Lässt die Wiedergabe nicht erkennen, ob ein Erzeugnis ein- oder zweiteilig ist, sind einerseits mehr Entgegenhaltungen möglich, andererseits ist der Schutzumfang größer. Bei Schwarz-Weiß-Darstellung ist die angegriffene Form von ihrer Farbe zu abstrahieren, es sei denn, Kontrastfarben erzeugen einen anderen Gesamteindruck. Getrennte Klagen aus verschiedenen nationalen Mustern in verschiedenen Mitgliedstaaten sind nicht derselbe Anspruch nach der Brüssel-I-Verordnung.
+
+Normen: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) MarkenG, [§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) MarkenG, [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG
+Fundstelle: BGH, Urteil vom 24.03.2011 – I ZR 211/08
+
+*Tags: Rechtsprechung, BGH, Schutzgegenstand, Wiedergabe, Farbe*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Lässt die Wiedergabe nicht erkennen, ob ein Erzeugnis ein- oder zweiteilig ist, sind einerseits mehr Entgegenhaltungen möglich, andererseits ist der Schutzumfang größer. Bei Schwarz-Weiß-Darstellung ist die angegriffene Form von ihrer Farbe zu abstrahieren, es sei denn, Kontrastfarben erzeugen einen anderen Gesamteindruck. Getrennte Klagen aus verschiedenen nationalen Mustern in verschiedenen Mitgliedstaaten sind nicht derselbe Anspruch nach der Brüssel-I-Verordnung.
+
+**A:** BGH „Schreibgeräte“ – I ZR 211/08 (2011), BGH, Urteil vom 24.03.2011 – I ZR 211/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzgegenstand, Wiedergabe, Farbe*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sporthelm“ (I ZB 25/18, 2018) – Kernaussage?
+
+**A:** Zeigen die Darstellungen eines Einzeldesigns verschiedene Ausführungsformen mit unterschiedlichen Merkmalen (Beriemung, Farben, Dekore), geben sie nicht die Erscheinungsform „eines“ Erzeugnisses wieder; das Design hat keinen einheitlichen Schutzgegenstand und ist nach [§ 33 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) nichtig. Beansprucht der Inhaber Schutz für die abweichenden Merkmale, darf der Schutzgegenstand nicht aus der Schnittmenge der gemeinsamen Merkmale gebildet werden.
+
+Normen: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 33 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG, [§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) MarkenG, [§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html) MarkenG
+Fundstelle: BGH, Beschluss vom 20.12.2018 – I ZB 25/18
+
+*Tags: Rechtsprechung, BGH, Schutzgegenstand, Wiedergabe, Nichtigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Zeigen die Darstellungen eines Einzeldesigns verschiedene Ausführungsformen mit unterschiedlichen Merkmalen (Beriemung, Farben, Dekore), geben sie nicht die Erscheinungsform „eines“ Erzeugnisses wieder; das Design hat keinen einheitlichen Schutzgegenstand und ist nach [§ 33 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) nichtig. Beansprucht der Inhaber Schutz für die abweichenden Merkmale, darf der Schutzgegenstand nicht aus der Schnittmenge der gemeinsamen Merkmale gebildet werden.
+
+**A:** BGH „Sporthelm“ – I ZB 25/18 (2018), BGH, Beschluss vom 20.12.2018 – I ZB 25/18
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzgegenstand, Wiedergabe, Nichtigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sportbrille“ (I ZB 26/18, 2018) – Kernaussage?
+
+**A:** Eine Schwarz-Weiß-Fotografie mit Graustufen macht den Hell-Dunkel-Kontrast unabhängig von der konkreten Farbe zum Schutzgegenstand. Zeigen die Fotografien den Kontrast einmal hell-dunkel und einmal umgekehrt, fehlt ein einheitlicher Schutzgegenstand: Das Design ist nichtig.
+
+Normen: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 33 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG, [§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) MarkenG, [§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html) MarkenG
+Fundstelle: BGH, Beschluss vom 20.12.2018 – I ZB 26/18
+
+*Tags: Rechtsprechung, BGH, Schutzgegenstand, Wiedergabe, Farbe*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Schwarz-Weiß-Fotografie mit Graustufen macht den Hell-Dunkel-Kontrast unabhängig von der konkreten Farbe zum Schutzgegenstand. Zeigen die Fotografien den Kontrast einmal hell-dunkel und einmal umgekehrt, fehlt ein einheitlicher Schutzgegenstand: Das Design ist nichtig.
+
+**A:** BGH „Sportbrille“ – I ZB 26/18 (2018), BGH, Beschluss vom 20.12.2018 – I ZB 26/18
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzgegenstand, Wiedergabe, Farbe*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schneidebrett“ (I ZR 16/21, 2022) – Kernaussage?
+
+**A:** Die Auslegung eines Designs kann ergeben, dass Abweichungen zwischen den Wiedergaben außer Betracht bleiben und der Schutzgegenstand aus der Schnittmenge der allen Darstellungen gemeinsamen Merkmale besteht, auch wenn eine Darstellung zusätzliche Elemente zeigt, die die anderen nicht enthalten. Ebenso kann die Auslegung ergeben, dass sich der Schutz auf ein Teil des dargestellten Erzeugnisses beschränkt.
+
+Normen: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 33 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG, [§ 37 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) MarkenG
+Fundstelle: BGH, Urteil vom 24.03.2022 – I ZR 16/21
+
+*Tags: Rechtsprechung, BGH, Schutzgegenstand, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Auslegung eines Designs kann ergeben, dass Abweichungen zwischen den Wiedergaben außer Betracht bleiben und der Schutzgegenstand aus der Schnittmenge der allen Darstellungen gemeinsamen Merkmale besteht, auch wenn eine Darstellung zusätzliche Elemente zeigt, die die anderen nicht enthalten. Ebenso kann die Auslegung ergeben, dass sich der Schutz auf ein Teil des dargestellten Erzeugnisses beschränkt.
+
+**A:** BGH „Schneidebrett“ – I ZR 16/21 (2022), BGH, Urteil vom 24.03.2022 – I ZR 16/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schutzgegenstand, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Schalungsbrett“ (30 W (pat) 804/21, 2024) – Kernaussage?
+
+**A:** Soll nach der Beschreibung ein Hell-Dunkel-Kontrast geschützt werden und zeigt die farbige Wiedergabe zwei Bretter mit unterschiedlich eingefärbter Feder als gleichwertige Ausführungsformen, fehlt dem Einzeldesign der einheitliche Schutzgegenstand; es ist nichtig (Fortführung von Sportbrille).
+
+Normen: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 10 DesignV](https://www.gesetze-im-internet.de/designv/__10.html) MarkenG, [§ 33 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG
+Fundstelle: BPatG, Beschluss vom 03.04.2024 – 30 W (pat) 804/21
+
+*Tags: Rechtsprechung, BPatG, Schutzgegenstand, Beschreibung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Soll nach der Beschreibung ein Hell-Dunkel-Kontrast geschützt werden und zeigt die farbige Wiedergabe zwei Bretter mit unterschiedlich eingefärbter Feder als gleichwertige Ausführungsformen, fehlt dem Einzeldesign der einheitliche Schutzgegenstand; es ist nichtig (Fortführung von Sportbrille).
+
+**A:** BPatG „Schalungsbrett“ – 30 W (pat) 804/21 (2024), BPatG, Beschluss vom 03.04.2024 – 30 W (pat) 804/21
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Schutzgegenstand, Beschreibung*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento“ (C-488/10, 2012) – Kernaussage?
+
+**A:** Auch der Inhaber eines jüngeren eingetragenen Gemeinschaftsgeschmacksmusters ist „Dritter“ im Sinne des [Art. 19 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701): Der Inhaber des älteren Musters kann ihn auf Unterlassung in Anspruch nehmen, ohne zuvor die Nichtigerklärung des jüngeren Musters zu erwirken. Das Prioritätsprinzip gilt auch dann, wenn der Inhaber des jüngeren Musters bei der Anmeldung gutgläubig war.
+
+Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: GRUR 2012, 506
+
+*Tags: Rechtsprechung, EuGH, Verletzung, Jüngeres Muster, Priorität*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Auch der Inhaber eines jüngeren eingetragenen Gemeinschaftsgeschmacksmusters ist „Dritter“ im Sinne des [Art. 19 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701): Der Inhaber des älteren Musters kann ihn auf Unterlassung in Anspruch nehmen, ohne zuvor die Nichtigerklärung des jüngeren Musters zu erwirken. Das Prioritätsprinzip gilt auch dann, wenn der Inhaber des jüngeren Musters bei der Anmeldung gutgläubig war.
+
+**A:** EuGH „Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento“ – C-488/10 (2012), GRUR 2012, 506
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Verletzung, Jüngeres Muster, Priorität*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kinderwagen I“ (I ZR 23/10, 2011) – Kernaussage?
+
+**A:** Eine Aussetzung des Verletzungsprozesses nach [Art. 91 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) kommt nicht in Betracht, wenn die Verletzungsklage vor dem Nichtigkeitsantrag beim EUIPO erhoben wurde. Begehungsgefahr für Herstellen und Herstellenlassen in der Union besteht bereits, wenn ein produzierendes Unternehmen die Erzeugnisse außerhalb der Union herstellen lässt und in der Union anbietet und vertreibt.
+
+Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 91 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: BGH, Urteil vom 28.09.2011 – I ZR 23/10 – Kinderwagen
+
+*Tags: Rechtsprechung, BGH, Verletzung, Begehungsgefahr, Aussetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Aussetzung des Verletzungsprozesses nach [Art. 91 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) kommt nicht in Betracht, wenn die Verletzungsklage vor dem Nichtigkeitsantrag beim EUIPO erhoben wurde. Begehungsgefahr für Herstellen und Herstellenlassen in der Union besteht bereits, wenn ein produzierendes Unternehmen die Erzeugnisse außerhalb der Union herstellen lässt und in der Union anbietet und vertreibt.
+
+**A:** BGH „Kinderwagen I“ – I ZR 23/10 (2011), BGH, Urteil vom 28.09.2011 – I ZR 23/10 – Kinderwagen
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzung, Begehungsgefahr, Aussetzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „ICE“ (I ZR 56/09, 2011) – Kernaussage?
+
+**A:** Eine Wiedergabe zum Zwecke der Zitierung nach [§ 40 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html) setzt eine innere Verbindung zwischen dem wiedergegebenen Design und eigenen Gedanken des Zitierenden voraus: Das Design muss als Belegstelle oder Erörterungsgrundlage für eigene Ausführungen dienen (nicht erfüllt bei der bloßen Abbildung des ICE auf einem Kalender).
+
+Normen: [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html) MarkenG
+Fundstelle: BGH, Urteil vom 07.04.2011 – I ZR 56/09
+
+*Tags: Rechtsprechung, BGH, Schranken, Zitat*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Wiedergabe zum Zwecke der Zitierung nach [§ 40 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html) setzt eine innere Verbindung zwischen dem wiedergegebenen Design und eigenen Gedanken des Zitierenden voraus: Das Design muss als Belegstelle oder Erörterungsgrundlage für eigene Ausführungen dienen (nicht erfüllt bei der bloßen Abbildung des ICE auf einem Kalender).
+
+**A:** BGH „ICE“ – I ZR 56/09 (2011), BGH, Urteil vom 07.04.2011 – I ZR 56/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schranken, Zitat*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Nintendo/BigBen Interactive“ (C-24/16, C-25/16, 2017) – Kernaussage?
+
+**A:** Ein Unionsgeschmacksmustergericht, das nach der Brüssel-Ia-Verordnung im Gerichtsstand der Streitgenossenschaft zuständig ist, kann Maßnahmen für das gesamte Unionsgebiet auch gegen den in einem anderen Mitgliedstaat ansässigen Beklagten anordnen. Die Abbildung von Erzeugnissen, die ein Gemeinschaftsgeschmacksmuster verkörpern, zur Erläuterung der Verwendung eigener Zubehörprodukte ist eine zulässige Zitierung nach [Art. 20 Abs. 1 lit. c GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), wenn sie den Gepflogenheiten des redlichen Geschäftsverkehrs entspricht und die Quelle angibt. Das anwendbare Recht für Folgeansprüche ist das Recht des Landes, in dem die ursprüngliche Verletzungshandlung begangen wurde.
+
+Normen: [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+Fundstelle: GRUR 2017, 1120
+
+*Tags: Rechtsprechung, EuGH, Schranken, Zuständigkeit, Anwendbares Recht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Ein Unionsgeschmacksmustergericht, das nach der Brüssel-Ia-Verordnung im Gerichtsstand der Streitgenossenschaft zuständig ist, kann Maßnahmen für das gesamte Unionsgebiet auch gegen den in einem anderen Mitgliedstaat ansässigen Beklagten anordnen. Die Abbildung von Erzeugnissen, die ein Gemeinschaftsgeschmacksmuster verkörpern, zur Erläuterung der Verwendung eigener Zubehörprodukte ist eine zulässige Zitierung nach [Art. 20 Abs. 1 lit. c GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), wenn sie den Gepflogenheiten des redlichen Geschäftsverkehrs entspricht und die Quelle angibt. Das anwendbare Recht für Folgeansprüche ist das Recht des Landes, in dem die ursprüngliche Verletzungshandlung begangen wurde.
+
+**A:** EuGH „Nintendo/BigBen Interactive“ – C-24/16, C-25/16 (2017), GRUR 2017, 1120
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Schranken, Zuständigkeit, Anwendbares Recht*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Acacia/Audi und Porsche (Felgen)“ (C-397/16, C-435/16, 2017) – Kernaussage?
+
+**A:** Die Reparaturklausel des früheren [Art. 110 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) ist nicht auf formgebundene Bauelemente beschränkt, deren Gestalt durch das Erscheinungsbild des Gesamterzeugnisses vorgegeben ist. Sie setzt voraus, dass das Ersatzteil dem Original optisch entspricht und ausschließlich zur Reparatur zur Wiederherstellung des ursprünglichen Erscheinungsbilds verwendet wird; Hersteller und Anbieter müssen durch Hinweise, Vertragsbedingungen und Kontrollen darauf hinwirken, dass die nachgelagerten Benutzer diese Zweckbindung einhalten.
+
+Normen: [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) MarkenG
+Fundstelle: GRUR 2018, 284
+
+*Tags: Rechtsprechung, EuGH, Reparaturklausel, Ersatzteile*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Die Reparaturklausel des früheren [Art. 110 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) ist nicht auf formgebundene Bauelemente beschränkt, deren Gestalt durch das Erscheinungsbild des Gesamterzeugnisses vorgegeben ist. Sie setzt voraus, dass das Ersatzteil dem Original optisch entspricht und ausschließlich zur Reparatur zur Wiederherstellung des ursprünglichen Erscheinungsbilds verwendet wird; Hersteller und Anbieter müssen durch Hinweise, Vertragsbedingungen und Kontrollen darauf hinwirken, dass die nachgelagerten Benutzer diese Zweckbindung einhalten.
+
+**A:** EuGH „Acacia/Audi und Porsche (Felgen)“ – C-397/16, C-435/16 (2017), GRUR 2018, 284
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Reparaturklausel, Ersatzteile*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kraftfahrzeugfelgen II“ (I ZR 226/14, 2018) – Kernaussage?
+
+**A:** Die Reparaturklausel gilt für Felgen, die farblich und in der Größe den Originalfelgen entsprechen, wenn ihre Verwendung zur Reparatur eines schadhaft gewordenen Fahrzeugs notwendig ist. Der Anbieter kann sich darauf nur berufen, wenn er seine Sorgfaltspflichten erfüllt: klarer Hinweis auf Erzeugnis, Verpackung, Katalogen und Verkaufsunterlagen, dass das Teil nicht vom Rechtsinhaber stammt und nur zur Reparatur bestimmt ist, sowie zumutbare Maßnahmen gegen andere Verwendung.
+
+Normen: [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) MarkenG
+Fundstelle: BGH, Urteil vom 26.07.2018 – I ZR 226/14
+
+*Tags: Rechtsprechung, BGH, Reparaturklausel, Ersatzteile, Sorgfaltspflichten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Reparaturklausel gilt für Felgen, die farblich und in der Größe den Originalfelgen entsprechen, wenn ihre Verwendung zur Reparatur eines schadhaft gewordenen Fahrzeugs notwendig ist. Der Anbieter kann sich darauf nur berufen, wenn er seine Sorgfaltspflichten erfüllt: klarer Hinweis auf Erzeugnis, Verpackung, Katalogen und Verkaufsunterlagen, dass das Teil nicht vom Rechtsinhaber stammt und nur zur Reparatur bestimmt ist, sowie zumutbare Maßnahmen gegen andere Verwendung.
+
+**A:** BGH „Kraftfahrzeugfelgen II“ – I ZR 226/14 (2018), BGH, Urteil vom 26.07.2018 – I ZR 226/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Reparaturklausel, Ersatzteile, Sorgfaltspflichten*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schlüsselgehäuse“ (I ZR 116/24, 2025) – Kernaussage?
+
+**A:** Die Reparaturklausel erfasst auch formungebundene Bauelemente eines komplexen Erzeugnisses und ist auch dann anwendbar, wenn sich alle schutzfähigen Erscheinungsmerkmale des komplexen Erzeugnisses in dem einen zur Reparatur angebotenen Bauelement befinden; einer Aushöhlung des Schutzes beugen die Sorgfaltspflichten des Anbieters vor. Für Handlungen ab 1.5.2025 gilt [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), der die Klausel auf formgebundene Teile beschränkt.
+
+Normen: [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) MarkenG
+Fundstelle: BGH, Urteil vom 09.10.2025 – I ZR 116/24
+
+*Tags: Rechtsprechung, BGH, Reparaturklausel, Ersatzteile*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Reparaturklausel erfasst auch formungebundene Bauelemente eines komplexen Erzeugnisses und ist auch dann anwendbar, wenn sich alle schutzfähigen Erscheinungsmerkmale des komplexen Erzeugnisses in dem einen zur Reparatur angebotenen Bauelement befinden; einer Aushöhlung des Schutzes beugen die Sorgfaltspflichten des Anbieters vor. Für Handlungen ab 1.5.2025 gilt [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), der die Klausel auf formgebundene Teile beschränkt.
+
+**A:** BGH „Schlüsselgehäuse“ – I ZR 116/24 (2025), BGH, Urteil vom 09.10.2025 – I ZR 116/24
+
+*Tags: Rechtsprechung, Umkehr, BGH, Reparaturklausel, Ersatzteile*
+
+---
+
+## entscheidung
+
+**F:** BGH „Bettgestell“ (I ZR 9/16, 2017) – Kernaussage?
+
+**A:** Ein Vorbenutzungsrecht nach [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html) entsteht durch Benutzung oder durch wirkliche und ernsthafte Anstalten, also Vorbereitungshandlungen aller Art, die den ernstlichen Willen zur alsbaldigen Benutzung sicher erkennen lassen; nur im Inland getroffene Anstalten zählen. Für Altmuster (Anmeldung vor 28.10.2001) gelten die alten Schutzvoraussetzungen weiter.
+
+Normen: [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html) MarkenG, [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG, [§ 72 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__72.html) MarkenG
+Fundstelle: BGH, Urteil vom 29.06.2017 – I ZR 9/16
+
+*Tags: Rechtsprechung, BGH, Vorbenutzungsrecht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Vorbenutzungsrecht nach [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html) entsteht durch Benutzung oder durch wirkliche und ernsthafte Anstalten, also Vorbereitungshandlungen aller Art, die den ernstlichen Willen zur alsbaldigen Benutzung sicher erkennen lassen; nur im Inland getroffene Anstalten zählen. Für Altmuster (Anmeldung vor 28.10.2001) gelten die alten Schutzvoraussetzungen weiter.
+
+**A:** BGH „Bettgestell“ – I ZR 9/16 (2017), BGH, Urteil vom 29.06.2017 – I ZR 9/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vorbenutzungsrecht*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Acacia/BMW (anwendbares Recht)“ (C-421/20, 2022) – Kernaussage?
+
+**A:** Für die Folgeansprüche aus der Verletzung eines Gemeinschaftsgeschmacksmusters (Vernichtung, Rückruf, Auskunft, Schadensersatz, Kosten) verweist [Art. 88 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) auf Art. 8 Abs. 2 Rom-II-Verordnung: anwendbar ist das Recht des Staates, in dem die Verletzungshandlung begangen wurde, unabhängig davon, in welchem Mitgliedstaat geklagt wird. Klagt der Inhaber in dem Staat, in dem die Handlung begangen wurde, gilt dessen Recht (in Deutschland [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)).
+
+Normen: [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) MarkenG
+Fundstelle: GRUR 2022, 561
+
+*Tags: Rechtsprechung, EuGH, Anwendbares Recht, Folgeansprüche*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Für die Folgeansprüche aus der Verletzung eines Gemeinschaftsgeschmacksmusters (Vernichtung, Rückruf, Auskunft, Schadensersatz, Kosten) verweist [Art. 88 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) auf Art. 8 Abs. 2 Rom-II-Verordnung: anwendbar ist das Recht des Staates, in dem die Verletzungshandlung begangen wurde, unabhängig davon, in welchem Mitgliedstaat geklagt wird. Klagt der Inhaber in dem Staat, in dem die Handlung begangen wurde, gilt dessen Recht (in Deutschland [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)).
+
+**A:** EuGH „Acacia/BMW (anwendbares Recht)“ – C-421/20 (2022), GRUR 2022, 561
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Anwendbares Recht, Folgeansprüche*
+
+---
+
+## entscheidung
+
+**F:** BGH „Griffleiste“ (I ZR 127/24, 2025) – Kernaussage?
+
+**A:** Ein gegen den Insolvenzschuldner gerichteter gesetzlicher Unterlassungsanspruch wegen Schutzrechtsverletzung oder Wettbewerbsverstoßes kann nach Unterbrechung des Rechtsstreits analog [§ 86 Abs. 1 Nr. 3 InsO](https://www.gesetze-im-internet.de/inso/__86.html) auch dann aufgenommen werden, wenn Eigenverwaltung angeordnet ist.
+
+Normen: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG
+Fundstelle: BGH,  vom 31.07.2025 – I ZR 127/24
+
+*Tags: Rechtsprechung, BGH, Verfahren, Insolvenz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein gegen den Insolvenzschuldner gerichteter gesetzlicher Unterlassungsanspruch wegen Schutzrechtsverletzung oder Wettbewerbsverstoßes kann nach Unterbrechung des Rechtsstreits analog [§ 86 Abs. 1 Nr. 3 InsO](https://www.gesetze-im-internet.de/inso/__86.html) auch dann aufgenommen werden, wenn Eigenverwaltung angeordnet ist.
+
+**A:** BGH „Griffleiste“ – I ZR 127/24 (2025), BGH,  vom 31.07.2025 – I ZR 127/24
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verfahren, Insolvenz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Heizkörperdesign“ (I ZB 10/21, 2021) – Kernaussage?
+
+**A:** Hat der Beschwerdeführer eine Beschwerdebegründung angekündigt und um Mitteilung gebeten, bis wann sie eingereicht werden kann, darf das BPatG nicht allein wegen Zeitablaufs ohne Begründung entscheiden; sonst verletzt es das rechtliche Gehör ([§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html) i.V.m. [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html)). Einseitige Gespräche zwischen einem Beteiligten und einem Richter gefährden das rechtliche Gehör.
+
+Normen: [§ 100 PatG](https://www.gesetze-im-internet.de/patg/__100.html) MarkenG, [§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html) MarkenG
+Fundstelle: BGH, Beschluss vom 23.09.2021 – I ZB 10/21
+
+*Tags: Rechtsprechung, BGH, Verfahren, Rechtliches Gehör, Rechtsbeschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Hat der Beschwerdeführer eine Beschwerdebegründung angekündigt und um Mitteilung gebeten, bis wann sie eingereicht werden kann, darf das BPatG nicht allein wegen Zeitablaufs ohne Begründung entscheiden; sonst verletzt es das rechtliche Gehör ([§ 23 Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html) i.V.m. [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html)). Einseitige Gespräche zwischen einem Beteiligten und einem Richter gefährden das rechtliche Gehör.
+
+**A:** BGH „Heizkörperdesign“ – I ZB 10/21 (2021), BGH, Beschluss vom 23.09.2021 – I ZB 10/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verfahren, Rechtliches Gehör, Rechtsbeschwerde*
+
+---
+
+## entscheidung
+
+**F:** BGH „Seilzirkus“ (I ZR 53/10, 2011) – Kernaussage?
+
+**A:** Bei Gebrauchsgegenständen begründen nur Merkmale Urheberrechtsschutz als Werk der angewandten Kunst, die nicht allein technisch bedingt, sondern künstlerisch gestaltet sind; die Ausnutzung eines handwerklich-konstruktiven Spielraums oder der Austausch technischer Merkmale genügt nicht. Wer Urheberrechtsschutz beansprucht, muss darlegen, inwieweit die Gestaltung über die Funktion hinaus künstlerisch ist.
+
+Normen: [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG, [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+Fundstelle: BGH, Urteil vom 12.05.2011 – I ZR 53/10
+
+*Tags: Rechtsprechung, BGH, Urheberrecht, Angewandte Kunst*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Bei Gebrauchsgegenständen begründen nur Merkmale Urheberrechtsschutz als Werk der angewandten Kunst, die nicht allein technisch bedingt, sondern künstlerisch gestaltet sind; die Ausnutzung eines handwerklich-konstruktiven Spielraums oder der Austausch technischer Merkmale genügt nicht. Wer Urheberrechtsschutz beansprucht, muss darlegen, inwieweit die Gestaltung über die Funktion hinaus künstlerisch ist.
+
+**A:** BGH „Seilzirkus“ – I ZR 53/10 (2011), BGH, Urteil vom 12.05.2011 – I ZR 53/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Urheberrecht, Angewandte Kunst*
+
+---
+
+## entscheidung
+
+**F:** BGH „Geburtstagszug“ (I ZR 143/12, 2013) – Kernaussage?
+
+**A:** An Werke der angewandten Kunst sind keine höheren Anforderungen zu stellen als an zweckfreie Kunst: Es genügt eine Gestaltungshöhe, die kunstempfängliche Kreise als künstlerische Leistung ansehen; ein deutliches Überragen der Durchschnittsgestaltung ist nicht mehr erforderlich (Aufgabe der Silberdistel-Rechtsprechung). Grund: Seit 2004 ist das Designrecht kein Minus zum Urheberrecht mehr, sondern ein eigenständiges Schutzrecht mit anderen Voraussetzungen.
+
+Normen: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+Fundstelle: BGH, Urteil vom 13.11.2013 – I ZR 143/12
+
+*Tags: Rechtsprechung, BGH, Urheberrecht, Angewandte Kunst, Kumulation*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+An Werke der angewandten Kunst sind keine höheren Anforderungen zu stellen als an zweckfreie Kunst: Es genügt eine Gestaltungshöhe, die kunstempfängliche Kreise als künstlerische Leistung ansehen; ein deutliches Überragen der Durchschnittsgestaltung ist nicht mehr erforderlich (Aufgabe der Silberdistel-Rechtsprechung). Grund: Seit 2004 ist das Designrecht kein Minus zum Urheberrecht mehr, sondern ein eigenständiges Schutzrecht mit anderen Voraussetzungen.
+
+**A:** BGH „Geburtstagszug“ – I ZR 143/12 (2013), BGH, Urteil vom 13.11.2013 – I ZR 143/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Urheberrecht, Angewandte Kunst, Kumulation*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Cofemel/G-Star Raw“ (C-683/17, 2019) – Kernaussage?
+
+**A:** Der Werkbegriff ist unionsweit einheitlich: Ein Design ist urheberrechtlich geschützt, wenn es eine eigene geistige Schöpfung des Urhebers ist, die seine freien kreativen Entscheidungen widerspiegelt, und objektiv identifizierbar ist. Eine besondere ästhetische Wirkung ist weder erforderlich noch ausreichend. Designschutz und Urheberrecht sind kumulierbar, aber nur in bestimmten Fällen, weil beide Rechte unterschiedliche Ziele verfolgen.
+
+Normen: [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+Fundstelle: GRUR 2019, 1185
+
+*Tags: Rechtsprechung, EuGH, Urheberrecht, Kumulation, Werkbegriff*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Der Werkbegriff ist unionsweit einheitlich: Ein Design ist urheberrechtlich geschützt, wenn es eine eigene geistige Schöpfung des Urhebers ist, die seine freien kreativen Entscheidungen widerspiegelt, und objektiv identifizierbar ist. Eine besondere ästhetische Wirkung ist weder erforderlich noch ausreichend. Designschutz und Urheberrecht sind kumulierbar, aber nur in bestimmten Fällen, weil beide Rechte unterschiedliche Ziele verfolgen.
+
+**A:** EuGH „Cofemel/G-Star Raw“ – C-683/17 (2019), GRUR 2019, 1185
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Urheberrecht, Kumulation, Werkbegriff*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Brompton Bicycle/Get2Get (Faltrad)“ (C-833/18, 2020) – Kernaussage?
+
+**A:** Ein Gegenstand, dessen Form zumindest teilweise zur Erreichung eines technischen Ergebnisses erforderlich ist, kann urheberrechtlich geschützt sein, wenn er ein Originalwerk ist, dessen Form die freie schöpferische Entscheidung seines Urhebers ausdrückt; ausgeschlossen ist der Schutz nur, wenn die Form ausschließlich durch die technische Funktion bedingt ist. Die Existenz alternativer Formen ist nicht entscheidend; ein früheres Patent kann Indiz sein.
+
+Normen: [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+Fundstelle: GRUR 2020, 736
+
+*Tags: Rechtsprechung, EuGH, Urheberrecht, Technische Bedingtheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Ein Gegenstand, dessen Form zumindest teilweise zur Erreichung eines technischen Ergebnisses erforderlich ist, kann urheberrechtlich geschützt sein, wenn er ein Originalwerk ist, dessen Form die freie schöpferische Entscheidung seines Urhebers ausdrückt; ausgeschlossen ist der Schutz nur, wenn die Form ausschließlich durch die technische Funktion bedingt ist. Die Existenz alternativer Formen ist nicht entscheidend; ein früheres Patent kann Indiz sein.
+
+**A:** EuGH „Brompton Bicycle/Get2Get (Faltrad)“ – C-833/18 (2020), GRUR 2020, 736
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Urheberrecht, Technische Bedingtheit*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Mio und konektra (USM Haller)“ (C-580/23, C-795/23, 2025) – Kernaussage?
+
+**A:** Werke der angewandten Kunst unterliegen denselben unionsrechtlichen Anforderungen wie andere Werke: Originalität als Ausdruck freier kreativer Entscheidungen, die die Persönlichkeit des Urhebers widerspiegeln; die Absicht des Urhebers und die Wahrnehmung durch Fachkreise sind für sich nicht maßgeblich, technisch oder funktional bedingte Merkmale bleiben außer Betracht. Die Verletzung ist anhand der Übernahme der originalen Elemente zu prüfen, nicht anhand des Gesamteindrucks wie im Designrecht.
+
+Normen: [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+Fundstelle: GRUR 2026, 72
+
+*Tags: Rechtsprechung, EuGH, Urheberrecht, Angewandte Kunst*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Werke der angewandten Kunst unterliegen denselben unionsrechtlichen Anforderungen wie andere Werke: Originalität als Ausdruck freier kreativer Entscheidungen, die die Persönlichkeit des Urhebers widerspiegeln; die Absicht des Urhebers und die Wahrnehmung durch Fachkreise sind für sich nicht maßgeblich, technisch oder funktional bedingte Merkmale bleiben außer Betracht. Die Verletzung ist anhand der Übernahme der originalen Elemente zu prüfen, nicht anhand des Gesamteindrucks wie im Designrecht.
+
+**A:** EuGH „Mio und konektra (USM Haller)“ – C-580/23, C-795/23 (2025), GRUR 2026, 72
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Urheberrecht, Angewandte Kunst*
+
+---
+
+## entscheidung
+
+**F:** BGH „LIKEaBIKE“ (I ZR 124/06, 2009) – Kernaussage?
+
+**A:** Die wettbewerbliche Eigenart eines Erzeugnisses hängt vom Gesamteindruck ab und kann durch Merkmale begründet werden, die für sich keinen Herkunftshinweis geben. Die Übernahme technischer, dem freizuhaltenden Stand der Technik angehörender Merkmale kann unlauter sein, wenn die dadurch begründete Herkunftstäuschung durch zumutbare Maßnahmen vermeidbar ist.
+
+Normen: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+Fundstelle: BGH, Urteil vom 28.05.2009 – I ZR 124/06
+
+*Tags: Rechtsprechung, BGH, UWG, Nachahmung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die wettbewerbliche Eigenart eines Erzeugnisses hängt vom Gesamteindruck ab und kann durch Merkmale begründet werden, die für sich keinen Herkunftshinweis geben. Die Übernahme technischer, dem freizuhaltenden Stand der Technik angehörender Merkmale kann unlauter sein, wenn die dadurch begründete Herkunftstäuschung durch zumutbare Maßnahmen vermeidbar ist.
+
+**A:** BGH „LIKEaBIKE“ – I ZR 124/06 (2009), BGH, Urteil vom 28.05.2009 – I ZR 124/06
+
+*Tags: Rechtsprechung, Umkehr, BGH, UWG, Nachahmung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Jeans“ (I ZR 151/02, 2005) – Kernaussage?
+
+**A:** Ansprüche aus ergänzendem wettbewerbsrechtlichem Leistungsschutz wegen vermeidbarer Herkunftstäuschung werden nicht dadurch ausgeschlossen, dass für das Erzeugnis Schutz als nicht eingetragenes Gemeinschaftsgeschmacksmuster besteht oder bestand. Für die erforderliche gewisse Bekanntheit genügt, dass der Verkehr das Original kennt, ohne es einem namentlich bestimmten Unternehmen zuzuordnen.
+
+Normen: [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+Fundstelle: BGH, Urteil vom 15.09.2005 – I ZR 151/02
+
+*Tags: Rechtsprechung, BGH, UWG, Nachahmung, Nicht eingetragenes Muster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ansprüche aus ergänzendem wettbewerbsrechtlichem Leistungsschutz wegen vermeidbarer Herkunftstäuschung werden nicht dadurch ausgeschlossen, dass für das Erzeugnis Schutz als nicht eingetragenes Gemeinschaftsgeschmacksmuster besteht oder bestand. Für die erforderliche gewisse Bekanntheit genügt, dass der Verkehr das Original kennt, ohne es einem namentlich bestimmten Unternehmen zuzuordnen.
+
+**A:** BGH „Jeans“ – I ZR 151/02 (2005), BGH, Urteil vom 15.09.2005 – I ZR 151/02
+
+*Tags: Rechtsprechung, Umkehr, BGH, UWG, Nachahmung, Nicht eingetragenes Muster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Glück“ (I ZR 126/22, 2023) – Kernaussage?
+
+**A:** Gegenstand des Nachahmungsschutzes nach [§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html) ist die konkrete Gestaltung, nicht die abstrakte Idee (hier: Emotionsschlagwort als Produktname). Auch bei einer sich deutlich abhebenden Verpackung kann der Verkehr sich an Produkt- und Herstellerangaben orientieren, so dass eine Herkunftstäuschung ausscheidet.
+
+Normen: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+Fundstelle: BGH, Urteil vom 07.12.2023 – I ZR 126/22
+
+*Tags: Rechtsprechung, BGH, UWG, Nachahmung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Gegenstand des Nachahmungsschutzes nach [§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html) ist die konkrete Gestaltung, nicht die abstrakte Idee (hier: Emotionsschlagwort als Produktname). Auch bei einer sich deutlich abhebenden Verpackung kann der Verkehr sich an Produkt- und Herstellerangaben orientieren, so dass eine Herkunftstäuschung ausscheidet.
+
+**A:** BGH „Glück“ – I ZR 126/22 (2023), BGH, Urteil vom 07.12.2023 – I ZR 126/22
+
+*Tags: Rechtsprechung, Umkehr, BGH, UWG, Nachahmung*
+
+---
+
 ## norm
 
 **F:** Was regelt [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html)?
@@ -19134,7 +22455,7 @@ Die Richtlinie ist an die Mitgliedstaaten gerichtet.
 
 Diese Richtlinie betrifft die Maßnahmen, Verfahren und Rechtsbehelfe, die erforderlich sind, um die Durchsetzung der Rechte des geistigen Eigentums sicherzustellen. Im Sinne dieser Richtlinie umfasst der Begriff „Rechte des geistigen Eigentums“ auch die gewerblichen Schutzrechte.
 
-Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html), [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG
 
 Weitere Gesetze: PatG: §§ [139](https://www.gesetze-im-internet.de/patg/__139.html) bis [140e](https://www.gesetze-im-internet.de/patg/__140e.html) PatG; GebrMG: §§ [24](https://www.gesetze-im-internet.de/gebrmg/__24.html) bis [24e](https://www.gesetze-im-internet.de/gebrmg/__24e.html) GebrMG; DesignG: §§ [42](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis [47](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) DesignG; UrhG: §§ [97](https://www.gesetze-im-internet.de/urhg/__97.html) bis [103](https://www.gesetze-im-internet.de/urhg/__103.html) UrhG; HalblSchG: [§ 9 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: §§ [37](https://www.gesetze-im-internet.de/sortschg_1985/__37.html) bis [37e](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html) SortSchG; Allgemeines Recht: ZPO (einstweiliger Rechtsschutz, Kosten), BGB (Bereicherung, GoA)
 
@@ -19150,7 +22471,7 @@ Hinweis: Die Richtlinie harmonisiert nicht das materielle Recht (das tun MarkenR
 
 Unbeschadet etwaiger Instrumente in den Rechtsvorschriften der Gemeinschaft oder der Mitgliedstaaten, die für die Rechtsinhaber günstiger sind, finden die in dieser Richtlinie vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe gemäß Artikel 3 auf jede Verletzung von Rechten des geistigen Eigentums, die im Gemeinschaftsrecht und/oder im innerstaatlichen Recht des betreffenden Mitgliedstaats vorgesehen sind, Anwendung.
 
-Umgesetzt in: [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html) MarkenG, [§ 19d MarkenG](https://www.gesetze-im-internet.de/markeng/__19d.html), [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html)
+Umgesetzt in: [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html) MarkenG, [§ 19d MarkenG](https://www.gesetze-im-internet.de/markeng/__19d.html), [§ 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__5.html), [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html); GebrMG: [§ 24g GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24g.html); DesignG: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html); UrhG: [§ 102a UrhG](https://www.gesetze-im-internet.de/urhg/__102a.html); HalblSchG: [§ 9 Abs. 4 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37g SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37g.html); Allgemeines Recht: UWG, §§ [823](https://www.gesetze-im-internet.de/bgb/__823.html), [826](https://www.gesetze-im-internet.de/bgb/__826.html), [812](https://www.gesetze-im-internet.de/bgb/__812.html) BGB, GoA bleiben unberührt (Mindestharmonisierung)
 
@@ -19166,7 +22487,7 @@ Hinweis: Abs. 1 macht die Richtlinie zur Mindestharmonisierung: Strengere nation
 
 Die Mitgliedstaaten sehen die Maßnahmen, Verfahren und Rechtsbehelfe vor, die zur Durchsetzung der Rechte des geistigen Eigentums, auf die diese Richtlinie abstellt, erforderlich sind. Diese Maßnahmen, Verfahren und Rechtsbehelfe müssen fair und gerecht sein, außerdem dürfen sie nicht unnötig kompliziert oder kostspielig sein und keine unangemessenen Fristen oder ungerechtfertigten Verzögerungen mit sich bringen.
 
-Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) MarkenG, [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) MarkenG, [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) MarkenG, [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) MarkenG, [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 19 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) MarkenG, [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) MarkenG, [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 139 Abs. 1 S. 3 bis 5 PatG](https://www.gesetze-im-internet.de/patg/__139.html) (Verhältnismäßigkeit des Unterlassungsanspruchs), [§ 140a Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 140b Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__140b.html), [§ 140c Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__140c.html); GebrMG: [§ 24 Abs. 1 S. 3 bis 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html), [§ 24a Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html), [§ 24b Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html), [§ 24c Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); DesignG: [§ 43 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [§ 46 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html), [§ 46a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html); UrhG: [§ 98 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html), [§ 101 Abs. 4 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html), [§ 101a Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. §§ [24a](https://www.gesetze-im-internet.de/gebrmg/__24a.html) bis [24c](https://www.gesetze-im-internet.de/gebrmg/__24c.html) GebrMG; SortSchG: [§ 37a Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html), [§ 37b Abs. 4 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html), [§ 37c Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html); Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html); Auslegungsmaßstab für alle Durchsetzungsnormen
 
@@ -19184,7 +22505,7 @@ Hinweis: Art. 3 ist die Generalklausel der Richtlinie. Der EuGH zieht sie zur Au
 
 Die Mitgliedstaaten räumen den folgenden Personen das Recht ein, die in diesem Kapitel vorgesehenen Maßnahmen, Verfahren und Rechtsbehelfe zu beantragen: a) den Inhabern der Rechte des geistigen Eigentums im Einklang mit den Bestimmungen des anwendbaren Rechts, b) allen anderen Personen, die zur Nutzung solcher Rechte befugt sind, insbesondere Lizenznehmern, soweit dies nach den Bestimmungen des anwendbaren Rechts zulässig ist und mit ihnen im Einklang steht, c) Verwertungsgesellschaften mit ordnungsgemäß anerkannter Befugnis zur Vertretung von Inhabern von Rechten des geistigen Eigentums, sow …
 
-Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 PatG](https://www.gesetze-im-internet.de/patg/__15.html) MarkenG, [§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 30 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 PatG](https://www.gesetze-im-internet.de/patg/__15.html) MarkenG, [§ 28 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__28.html), [§ 30 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 30 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__30.html), [§ 31 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) MarkenG, [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) („Verletzter“); Lizenz [§ 15 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html), Klagebefugnis des ausschließlichen Lizenznehmers nach der Rechtsprechung; GebrMG: [§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); Lizenz [§ 22 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__22.html); DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) („Rechtsinhaber oder anderer Berechtigter“); [§ 31 Abs. 3, 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) (Lizenznehmer); UrhG: [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) („Verletzter“); Verwertungsgesellschaften nach dem VGG; HalblSchG: [§ 9 Abs. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Nutzungsrechte [§ 11 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__11.html); Allgemeines Recht: Prozessstandschaft, Abtretung (auch Zessionar ist Inhaber: EuGH Mircom)
 
@@ -19218,7 +22539,7 @@ Hinweis: Für Registerrechte braucht es keine Namensvermutung: Die Eintragung be
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur hinreichenden Begründung ihrer Ansprüche vorgelegt und die in der Verfügungsgewalt der gegnerischen Partei befindlichen Beweismittel zur Begründung ihrer Ansprüche bezeichnet hat, die Vorlage dieser Beweismittel durch die gegnerische Partei anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Für die Zwecke dieses Absatzes können die Mitgliedstaaten vorsehen, dass eine angemessen große Auswahl aus einer erheblichen Anza …
 
-Umgesetzt in: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 19a Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+Umgesetzt in: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 19a Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 140c Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__140c.html); GebrMG: [§ 24c Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); DesignG: [§ 46a Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html); UrhG: [§ 101a Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); SortSchG: [§ 37c Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html); Allgemeines Recht: §§ [142](https://www.gesetze-im-internet.de/zpo/__142.html), [144](https://www.gesetze-im-internet.de/zpo/__144.html) ZPO (Anordnung der Urkundenvorlage und des Augenscheins), [§ 809 BGB](https://www.gesetze-im-internet.de/bgb/__809.html)
 
@@ -19236,7 +22557,7 @@ Hinweis: Deutschland hat Art. 6 und 7 als materiellen Anspruch ausgestaltet ([§
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte selbst vor Einleitung eines Verfahrens in der Sache auf Antrag einer Partei, die alle vernünftigerweise verfügbaren Beweismittel zur Begründung ihrer Ansprüche, dass ihre Rechte an geistigem Eigentum verletzt worden sind oder verletzt zu werden drohen, vorgelegt hat, schnelle und wirksame einstweilige Maßnahmen zur Sicherung der rechtserheblichen Beweismittel hinsichtlich der behaupteten Verletzung anordnen können, sofern der Schutz vertraulicher Informationen gewährleistet wird. Derartige Maßnahmen können die ausführliche Besch …
 
-Umgesetzt in: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19a Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html)
+Umgesetzt in: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) MarkenG, [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19a Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 140c Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140c.html), Abs. 5; GebrMG: [§ 24c Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html), Abs. 5; DesignG: [§ 46a Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), Abs. 5; UrhG: [§ 101a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__101a.html), Abs. 5; HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24c GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html); SortSchG: [§ 37c Abs. 3 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37c.html), Abs. 5; Allgemeines Recht: [§§ 485 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__485.html) (selbständiges Beweisverfahren); [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html), [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html), [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html)
 
@@ -19254,7 +22575,7 @@ Hinweis: Umsetzung als einstweilige Verfügung auf Vorlage oder Duldung der Besi
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte im Zusammenhang mit einem Verfahren wegen Verletzung eines Rechts des geistigen Eigentums auf einen begründeten und die Verhältnismäßigkeit wahrenden Antrag des Klägers hin anordnen können, dass Auskünfte über den Ursprung und die Vertriebswege von Waren oder Dienstleistungen, die ein Recht des geistigen Eigentums verletzen, von dem Verletzer und/oder jeder anderen Person erteilt werden, die a) nachweislich rechtsverletzende Ware in gewerblichem Ausmaß in ihrem Besitz hatte, b) nachweislich rechtsverletzende Dienstleistungen in  …
 
-Umgesetzt in: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) MarkenG, [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html)
+Umgesetzt in: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html) MarkenG, [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19 Abs. 9 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html); GebrMG: [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html); DesignG: [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html); UrhG: [§ 101 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html) (Abs. 1: Anspruch gegen den Verletzer nur bei gewerblichem Ausmaß); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24b GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24b.html); SortSchG: [§ 37b SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37b.html); Allgemeines Recht: [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) (unselbständige Auskunft zur Bezifferung); §§ [383](https://www.gesetze-im-internet.de/zpo/__383.html) bis [385](https://www.gesetze-im-internet.de/zpo/__385.html) ZPO (Zeugnisverweigerung = Abs. 3 lit. d)
 
@@ -19272,7 +22593,7 @@ Hinweis: Kernstück der Richtlinie. Zuordnung: Abs. 1 lit. a bis d = [§ 19 Abs.
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte die Möglichkeit haben, auf Antrag des Antragstellers a) gegen den angeblichen Verletzer eine einstweilige Maßnahme anzuordnen, um eine drohende Verletzung eines Rechts des geistigen Eigentums zu verhindern oder einstweilig und, sofern die einzelstaatlichen Rechtsvorschriften dies vorsehen, in geeigneten Fällen unter Verhängung von Zwangsgeldern die Fortsetzung angeblicher Verletzungen dieses Rechts zu untersagen oder die Fortsetzung an die Stellung von Sicherheiten zu knüpfen, die die Entschädigung des Rechtsinhabers sicherstell …
 
-Umgesetzt in: [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) MarkenG, [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html)
+Umgesetzt in: [§ 140 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) MarkenG, [§ 19 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 19a Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html) (Sicherung); keine Dringlichkeitsvermutung; GebrMG: [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html); DesignG: [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html); UrhG: [§ 101b UrhG](https://www.gesetze-im-internet.de/urhg/__101b.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24d GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24d.html); SortSchG: [§ 37d SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37d.html); Allgemeines Recht: [§§ 935 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__935.html) (Abs. 1 lit. a), [§ 938 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__938.html) Sequestration (lit. b), [§§ 916 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__916.html) dinglicher Arrest (Abs. 2), [§ 920 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__920.html) Glaubhaftmachung (Abs. 3), [§ 937 Abs. 2 ZPO](https://www.gesetze-im-internet.de/zpo/__937.html) (Abs. 4), [§ 926 ZPO](https://www.gesetze-im-internet.de/zpo/__926.html) (Abs. 5), [§ 921 ZPO](https://www.gesetze-im-internet.de/zpo/__921.html) (Abs. 6), [§ 945 ZPO](https://www.gesetze-im-internet.de/zpo/__945.html) (Abs. 7)
 
@@ -19290,7 +22611,7 @@ Hinweis: Der Eilrechtsschutz läuft in Deutschland über die ZPO; das MarkenG er
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag des Antragstellers anordnen können, dass in Bezug auf Waren, die nach ihren Feststellungen ein Recht des geistigen Eigentums verletzen, und gegebenenfalls in Bezug auf Materialien und Geräte, die vorwiegend zur Schaffung oder Herstellung dieser Waren gedient haben, unbeschadet etwaiger Schadensersatzansprüche des Rechtsinhabers aus der Verletzung sowie ohne Entschädigung irgendwelcher Art geeignete Maßnahmen getroffen werden. Zu diesen Maßnahmen gehören a) der Rückruf aus den Vertriebswegen, b) das endgültige Entferne …
 
-Umgesetzt in: [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) MarkenG, [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html)
+Umgesetzt in: [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html) MarkenG, [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 18 Abs. 3 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 140a Abs. 1 bis 4 PatG](https://www.gesetze-im-internet.de/patg/__140a.html); GebrMG: [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html); DesignG: [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) (Abs. 3: Überlassung gegen Vergütung); UrhG: [§ 98 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html) (Abs. 3: Überlassung); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24a GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24a.html); SortSchG: [§ 37a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37a.html); Allgemeines Recht: Beseitigungsanspruch ([§ 1004 BGB](https://www.gesetze-im-internet.de/bgb/__1004.html) analog); Vollstreckung §§ [883](https://www.gesetze-im-internet.de/zpo/__883.html), [887](https://www.gesetze-im-internet.de/zpo/__887.html) ZPO
 
@@ -19308,7 +22629,7 @@ Hinweis: Abs. 1 lit. a und b sind der Rückruf- und Entfernungsanspruch des [§ 
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte bei Feststellung einer Verletzung eines Rechts des geistigen Eigentums eine Anordnung gegen den Verletzer erlassen können, die ihm die weitere Verletzung des betreffenden Rechts untersagt. Sofern dies nach dem Recht eines Mitgliedstaats vorgesehen ist, werden im Falle einer Missachtung dieser Anordnung in geeigneten Fällen Zwangsgelder verhängt, um die Einhaltung der Anordnung zu gewährleisten. Unbeschadet des Artikels 8 Absatz 3 der Richtlinie 2001/29/EG stellen die Mitgliedstaaten ferner sicher, dass die Rechtsinhaber eine Ano …
 
-Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html); GebrMG: [§ 24 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); DesignG: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); UrhG: [§ 97 Abs. 1 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html); HalblSchG: [§ 9 Abs. 1 S. 1 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 1 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Allgemeines Recht: [§ 890 ZPO](https://www.gesetze-im-internet.de/zpo/__890.html) (Ordnungsgeld, Ordnungshaft); Störerhaftung nach der Rechtsprechung des BGH für Mittelspersonen
 
@@ -19326,6 +22647,8 @@ Hinweis: Satz 1 = Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-i
 
 Die Mitgliedstaaten können vorsehen, dass die zuständigen Gerichte in entsprechenden Fällen und auf Antrag der Person, der die in diesem Abschnitt vorgesehenen Maßnahmen auferlegt werden könnten, anordnen können, dass anstelle der Anwendung der genannten Maßnahmen eine Abfindung an die geschädigte Partei zu zahlen ist, sofern die betreffende Person weder vorsätzlich noch fahrlässig gehandelt hat, ihr aus der Durchführung der betreffenden Maßnahmen ein unverhältnismäßig großer Schaden entstehen würde und die Zahlung einer Abfindung an die geschädigte Partei als angemessene Entschädigung erschei …
 
+Umgesetzt in: [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html) MarkenG
+
 Weitere Gesetze: PatG: nicht genutzt (aber [§ 139 Abs. 1 S. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__139.html): Ausgleich in Geld bei unverhältnismäßiger Härte); GebrMG: nicht genutzt ([§ 24 Abs. 1 S. 3, 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html)); DesignG: [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html) (Entschädigung); UrhG: [§ 100 UrhG](https://www.gesetze-im-internet.de/urhg/__100.html) (Entschädigung); HalblSchG: –; SortSchG: –; Allgemeines Recht: fakultativ (Erwägungsgrund 25)
 
 Hinweis: Fakultative Regelung; Deutschland hat sie nur im DesignG ([§ 45](https://www.gesetze-im-internet.de/markeng/__45.html)) und UrhG ([§ 100](https://www.gesetze-im-internet.de/markeng/__100.html)) umgesetzt: Der schuldlose Verletzer kann Unterlassung und Vernichtung durch eine Geldentschädigung in Höhe der angemessenen Vergütung abwenden. Im MarkenG gibt es diese Option nicht.
@@ -19340,7 +22663,7 @@ Hinweis: Fakultative Regelung; Deutschland hat sie nur im DesignG ([§ 45](https
 
 Die Mitgliedstaaten stellen sicher, dass die zuständigen Gerichte auf Antrag der geschädigten Partei anordnen, dass der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzungshandlung vornahm, dem Rechtsinhaber zum Ausgleich des von diesem wegen der Rechtsverletzung erlittenen tatsächlichen Schadens angemessenen Schadensersatz zu leisten hat. Bei der Festsetzung des Schadensersatzes verfahren die Gerichte wie folgt: a) Sie berücksichtigen alle in Frage kommenden Aspekte, wie die negativen wirtschaftlichen Auswirkungen, einschließlich der Gewinneinbußen für di …
 
-Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html)
+Umgesetzt in: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html) MarkenG, [§ 14 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__15.html), [§ 17 Abs. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__17.html), [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html); GebrMG: [§ 24 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html); DesignG: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html); UrhG: [§ 97 Abs. 2 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html) (S. 4: immaterieller Schaden); HalblSchG: [§ 9 Abs. 1 S. 2, 3 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html); SortSchG: [§ 37 Abs. 2 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37.html); Allgemeines Recht: Abs. 2: Eingriffskondiktion [§ 812 Abs. 1 S. 1 Alt. 2 BGB](https://www.gesetze-im-internet.de/bgb/__812.html); [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html) über [§ 20 S. 2 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html)
 
@@ -19358,7 +22681,7 @@ Hinweis: Das Durchsetzungsgesetz hat die dreifache Schadensberechnung in allen S
 
 Die Mitgliedstaaten stellen sicher, dass die Prozesskosten und sonstigen Kosten der obsiegenden Partei in der Regel, soweit sie zumutbar und angemessen sind, von der unterlegenen Partei getragen werden, sofern Billigkeitsgründe dem nicht entgegenstehen.
 
-Umgesetzt in: [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html), [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html) MarkenG, [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) MarkenG
+Umgesetzt in: [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html), [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html), [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html) MarkenG, [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) MarkenG, [§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html) (Patentanwaltskosten), [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html) (Streitwertbegünstigung); GebrMG: [§ 27 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__27.html); DesignG: [§ 52 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html); UrhG: [§ 97a Abs. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__97a.html) (Abmahnkosten, Deckelung des Gegenstandswerts); HalblSchG: –; SortSchG: –; Allgemeines Recht: [§§ 91 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__91.html), RVG; Abmahnkosten aus GoA (§§ [677](https://www.gesetze-im-internet.de/bgb/__677.html), [683](https://www.gesetze-im-internet.de/bgb/__683.html), [670](https://www.gesetze-im-internet.de/bgb/__670.html) BGB) und als Schadensersatz
 
@@ -19376,7 +22699,7 @@ Hinweis: Klausurklassiker seit 2022: [§ 140 Abs. 3 MarkenG](https://www.gesetze
 
 Die Mitgliedstaaten stellen sicher, dass die Gerichte bei Verfahren wegen Verletzung von Rechten des geistigen Eigentums auf Antrag des Antragstellers und auf Kosten des Verletzers geeignete Maßnahmen zur Verbreitung von Informationen über die betreffende Entscheidung, einschließlich der Bekanntmachung und der vollständigen oder teilweisen Veröffentlichung, anordnen können. Die Mitgliedstaaten können andere, den besonderen Umständen angemessene Zusatzmaßnahmen, einschließlich öffentlichkeitswirksamer Anzeigen, vorsehen.
 
-Umgesetzt in: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html) MarkenG, [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)
+Umgesetzt in: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html) MarkenG, [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html), [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html); GebrMG: [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html); DesignG: [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html); UrhG: [§ 103 UrhG](https://www.gesetze-im-internet.de/urhg/__103.html); HalblSchG: [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. [§ 24e GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24e.html); SortSchG: [§ 37e SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__37e.html); Allgemeines Recht: strafrechtlich [§ 143 Abs. 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html); [§ 12 Abs. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__12.html) a.F. (Vorbild)
 
@@ -19394,7 +22717,7 @@ Hinweis: [§ 19c](https://www.gesetze-im-internet.de/markeng/__19c.html): Befugn
 
 Unbeschadet der in dieser Richtlinie vorgesehenen zivil- und verwaltungsrechtlichen Maßnahmen, Verfahren und Rechtsbehelfe können die Mitgliedstaaten in Fällen von Verletzungen von Rechten des geistigen Eigentums andere angemessene Sanktionen vorsehen.
 
-Umgesetzt in: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) MarkenG, [§ 142a PatG](https://www.gesetze-im-internet.de/patg/__142a.html) MarkenG, [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 143a MarkenG](https://www.gesetze-im-internet.de/markeng/__143a.html), [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html)
+Umgesetzt in: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) MarkenG, [§ 142a PatG](https://www.gesetze-im-internet.de/patg/__142a.html) MarkenG, [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 143a MarkenG](https://www.gesetze-im-internet.de/markeng/__143a.html), [§ 144 MarkenG](https://www.gesetze-im-internet.de/markeng/__144.html), [§ 146 MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html), [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html) MarkenG, [§ 55 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html) MarkenG
 
 Weitere Gesetze: PatG: [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html) (Strafvorschrift); §§ [142a](https://www.gesetze-im-internet.de/patg/__142a.html), [142b](https://www.gesetze-im-internet.de/patg/__142b.html) PatG (Zollbeschlagnahme); GebrMG: [§ 25 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__25.html); §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG; DesignG: [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html); [§§ 55 ff. DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html); UrhG: §§ [106](https://www.gesetze-im-internet.de/urhg/__106.html) bis [111a](https://www.gesetze-im-internet.de/urhg/__111a.html) UrhG; [§ 111b UrhG](https://www.gesetze-im-internet.de/urhg/__111b.html); HalblSchG: [§ 10 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__10.html); [§ 9 Abs. 2 HalblSchG](https://www.gesetze-im-internet.de/halblschg/__9.html) i.V.m. §§ [25a](https://www.gesetze-im-internet.de/gebrmg/__25a.html), [25b](https://www.gesetze-im-internet.de/gebrmg/__25b.html) GebrMG; SortSchG: [§ 39 SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__39.html); [§ 40a SortSchG](https://www.gesetze-im-internet.de/sortschg_1985/__40a.html); Allgemeines Recht: Verordnung (EU) Nr. 608/2013 (Grenzbeschlagnahme); Art. 61 TRIPS
 
@@ -24814,5 +28137,2697 @@ Bezug: [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html), [§ 
 Hinweis: Gebührenverzeichnis (Stand nach dem Gesetz vom 11.1.2026): Anmeldung elektronisch 40 EUR (Nr. 311 000, Papier 1,5-fach), Recherche 300 EUR (311 200), Prüfung 350 EUR bzw. 150 EUR nach Recherche (311 400, 311 300), Jahresgebühren 3. Jahr 70 EUR bis 20. Jahr 2 030 EUR (312 030 ff., halbiert bei Lizenzbereitschaft, Zuschlag 50 EUR), Weiterbehandlung 100 EUR (313 000), Einspruch 200 EUR (313 600), Beschwerde 500 EUR (401 100) bzw. 200 EUR in anderen Fällen (401 300), Nichtigkeitsklage 4,5 Wertgebühren (402 100). Gebrauchsmuster: Anmeldung 30 EUR, Löschung 300 EUR. Beträge in Klausuren immer am Verzeichnis prüfen; maßgeblich ist der bei Fälligkeit geltende Satz ([§ 13](https://www.gesetze-im-internet.de/markeng/__13.html)).
 
 *Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) (Begriffsbestimmungen)?
+
+**A:** Begriffsbestimmungen
+
+Im Sinne dieses Gesetzes
+1. ist ein Design die zweidimensionale oder dreidimensionale Erscheinungsform eines ganzen Erzeugnisses oder eines Teils davon, die sich insbesondere aus den Merkmalen der Linien, Konturen, Farben, der Gestalt, Oberflächenstruktur oder der Werkstoffe des Erzeugnisses selbst oder seiner Verzierung ergibt;
+2. ist ein Erzeugnis jeder industrielle oder handwerkliche Gegenstand, einschließlich Verpackung, Ausstattung, grafischer Symbole und typografischer Schriftzeichen sowie von Einzelteilen, die zu einem komplexen Erzeugnis zusammengebaut werden sollen; ein Computerprogra …
+
+Entspricht: [Art. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Legaldefinitionen: Design = zwei- oder dreidimensionale Erscheinungsform eines ganzen Erzeugnisses oder eines Teils davon (Nr. 1; auch Teildesigns, Verzierungen, Farben, Oberflächen); Erzeugnis = jeder industrielle oder handwerkliche Gegenstand einschließlich Verpackung, Ausstattung, grafischer Symbole und Schriftbilder, nicht aber Computerprogramme (Nr. 2); komplexes Erzeugnis (Nr. 3); bestimmungsgemäße Verwendung durch den Endbenutzer ohne Wartung und Reparatur (Nr. 4). Entspricht [Art. 1 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+In 30 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) (Designschutz)?
+
+**A:** Designschutz
+
+Als eingetragenes Design wird ein Design geschützt, das neu ist und Eigenart hat.
+
+Entspricht: [Art. 4 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Die beiden Schutzvoraussetzungen: Neuheit (Abs. 2: kein identisches Design vor dem Anmeldetag offenbart; identisch auch bei nur unwesentlichen Unterschieden) und Eigenart (Abs. 3: anderer Gesamteindruck beim informierten Benutzer als jedes einzelne vorbekannte Design; Gestaltungsfreiheit des Entwerfers berücksichtigen). Das DPMA prüft beides nicht ([§ 16](https://www.gesetze-im-internet.de/markeng/__16.html)); sie werden erst im Nichtigkeitsverfahren ([§ 33 Abs. 1 Nr. 2](https://www.gesetze-im-internet.de/markeng/__33.html)) oder per Widerklage relevant. Leitentscheidungen: BGH Untersetzer, Kinderwagen II, EuGH PepsiCo, Karen Millen.
+
+In 21 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) (Ausschluss vom Designschutz)?
+
+**A:** Ausschluss vom Designschutz
+
+Vom Designschutz ausgeschlossen sind
+1. Erscheinungsmerkmale von Erzeugnissen, die ausschließlich durch deren technische Funktion bedingt sind;
+2. Erscheinungsmerkmale von Erzeugnissen, die zwangsläufig in ihrer genauen Form und ihren genauen Abmessungen nachgebildet werden müssen, damit das Erzeugnis, in das das Design aufgenommen oder bei dem es verwendet wird, mit einem anderen Erzeugnis mechanisch zusammengebaut oder verbunden oder in diesem, an diesem oder um dieses herum angebracht werden kann, so dass beide Erzeugnisse ihre Funktion erfüllen;
+3. Designs, die gegen die öffentliche Ordnun …
+
+Entspricht: [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 9 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Schutzausschlüsse: ausschließlich technisch bedingte Merkmale (Abs. 1 Nr. 1; EuGH DOCERAM: objektiv, ohne Mehrheit-der-Formen-Test, auch wenn andere Formen möglich wären), Verbindungselemente „must fit“ (Nr. 2), Verstoß gegen öffentliche Ordnung oder gute Sitten (Nr. 3), missbräuchliche Benutzung staatlicher Hoheitszeichen (Nr. 4, Art. 6ter PVÜ). Abs. 2: Rückausnahme für modulare Systeme (Bausteine, EuG Lego). Nr. 3 und 4 prüft das DPMA ([§ 18](https://www.gesetze-im-internet.de/markeng/__18.html)), Nr. 1 und 2 nur im Nichtigkeitsverfahren.
+
+In 10 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) (Bauelemente komplexer Erzeugnisse)?
+
+**A:** Bauelemente komplexer Erzeugnisse
+
+Ein Design, das bei einem Erzeugnis, das Bauelement eines komplexen Erzeugnisses ist, benutzt oder in dieses Erzeugnis eingefügt wird, gilt nur dann als neu und hat nur dann Eigenart, wenn das Bauelement, das in ein komplexes Erzeugnis eingefügt ist, bei dessen bestimmungsgemäßer Verwendung sichtbar bleibt und diese sichtbaren Merkmale des Bauelements selbst die Voraussetzungen der Neuheit und Eigenart erfüllen.
+
+Entspricht: [Art. 4 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Bauelemente komplexer Erzeugnisse (Ersatzteile) sind nur schutzfähig, soweit sie bei bestimmungsgemäßer Verwendung des komplexen Erzeugnisses sichtbar bleiben und die sichtbaren Merkmale selbst neu sind und Eigenart haben. EuGH Monz/Büchel (Sattelunterseite): Sichtbarkeit aus Sicht des Endbenutzers oder eines außenstehenden Beobachters, auch bei Lagern oder Transport; BGH und BPatG Sattelunterseite II: bei mehreren komplexen Erzeugnissen genügt Sichtbarkeit bei einem.
+
+In 16 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html) (Offenbarung)?
+
+**A:** Offenbarung
+
+Ein Design ist offenbart, wenn es bekannt gemacht, ausgestellt, im Verkehr verwendet oder auf sonstige Weise der Öffentlichkeit zugänglich gemacht wurde, es sei denn, dass dies den in der Gemeinschaft tätigen Fachkreisen des betreffenden Sektors im normalen Geschäftsverlauf vor dem Anmeldetag des Designs nicht bekannt sein konnte. Ein Design gilt nicht als offenbart, wenn es einem Dritten lediglich unter der ausdrücklichen oder stillschweigenden Bedingung der Vertraulichkeit bekannt gemacht wurde.
+
+Entspricht: [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Offenbarung = der Öffentlichkeit zugänglich gemacht (Bekanntmachung, Ausstellung, Verwendung im Verkehr), es sei denn, die in der Union tätigen Fachkreise des Sektors konnten das im normalen Geschäftsverlauf nicht kennen (Fachkreisklausel; EuGH Gautzsch/Duna: auch Offenbarung außerhalb der EU oder an ein einzelnes Unternehmen kann genügen, Tatfrage). Vertrauliche Mitteilung ist keine Offenbarung. Maßstab für Neuheit, Eigenart und die Priorität des nicht eingetragenen Gemeinschaftsgeschmacksmusters.
+
+In 10 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html) (Neuheitsschonfrist)?
+
+**A:** Neuheitsschonfrist
+
+Eine Offenbarung bleibt bei der Anwendung des [§ 2 Absatz 2 und 3](https://www.gesetze-im-internet.de/markeng/__2.html) unberücksichtigt, wenn ein Design während der zwölf Monate vor dem Anmeldetag durch den Entwerfer oder seinen Rechtsnachfolger oder durch einen Dritten als Folge von Informationen oder Handlungen des Entwerfers oder seines Rechtsnachfolgers der Öffentlichkeit zugänglich gemacht wurde. Dasselbe gilt, wenn das Design als Folge einer missbräuchlichen Handlung gegen den Entwerfer oder seinen Rechtsnachfolger offenbart wurde.
+
+Entspricht: [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Neuheitsschonfrist: Eigene Offenbarungen des Entwerfers oder seines Rechtsnachfolgers (und Dritter als Folge davon) in den zwölf Monaten vor dem Anmeldetag schaden nicht; ebenso missbräuchliche Offenbarungen gegen den Entwerfer. Klausurklassiker: Messe im Januar, Anmeldung im Dezember ist noch rechtzeitig; nach zwölf Monaten bleibt nur das nicht eingetragene Gemeinschaftsgeschmacksmuster (drei Jahre ab erster Offenbarung in der Union, [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+In 9 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 7 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html) (Recht auf das eingetragene Design)?
+
+**A:** Recht auf das eingetragene Design
+
+Das Recht auf das eingetragene Design steht dem Entwerfer oder seinem Rechtsnachfolger zu. Haben mehrere Personen gemeinsam ein Design entworfen, so steht ihnen das Recht auf das eingetragene Design gemeinschaftlich zu.
+
+Entspricht: [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Recht auf das eingetragene Design steht dem Entwerfer oder seinem Rechtsnachfolger zu (Abs. 1); Arbeitnehmerdesigns gehören kraft Gesetzes dem Arbeitgeber, wenn sie in Ausübung der Aufgaben oder nach Weisung entstehen (Abs. 2), ohne Inanspruchnahme und ohne Vergütung nach dem ArbnErfG. Freie Mitarbeiter und Designagenturen sind keine Arbeitnehmer: Übertragung muss vertraglich vereinbart werden.
+
+In 15 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 8 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__8.html) (Formelle Berechtigung)?
+
+**A:** Formelle Berechtigung
+
+Anmelder und Rechtsinhaber gelten in Verfahren, die ein eingetragenes Design betreffen, als berechtigt und verpflichtet.
+
+Hinweis: Formelle Berechtigung: Anmelder und eingetragener Rechtsinhaber gelten in Amts- und Gerichtsverfahren als berechtigt; die materielle Berechtigung ([§ 7](https://www.gesetze-im-internet.de/markeng/__7.html)) prüft niemand von Amts wegen. Der wahre Entwerfer ist auf [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html) verwiesen.
+
+In 7 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 9 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html) (Ansprüche gegenüber Nichtberechtigten)?
+
+**A:** Ansprüche gegenüber Nichtberechtigten
+
+Ist ein eingetragenes Design auf den Namen eines nicht nach [§ 7](https://www.gesetze-im-internet.de/markeng/__7.html) Berechtigten eingetragen, kann der Berechtigte unbeschadet anderer Ansprüche die Übertragung des eingetragenen Designs oder die Einwilligung in dessen Löschung verlangen. Soweit in die Löschung eingewilligt wird, gelten die Schutzwirkungen des eingetragenen Designs in diesem Umfang als von Anfang an nicht eingetreten. Wer von mehreren Berechtigten nicht als Rechtsinhaber eingetragen ist, kann die Einräumung seiner Mitinhaberschaft verlangen.
+
+Entspricht: [Art. 15 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Vindikation: Der Berechtigte kann vom Nichtberechtigten Übertragung des eingetragenen Designs oder Einwilligung in die Löschung verlangen (Abs. 1), nur durch Klage binnen drei Jahren ab Bekanntmachung, außer bei Bösgläubigkeit (Abs. 2). Bei Rechtsinhaberwechsel erlöschen Lizenzen; der frühere Inhaber erhält ein Weiterbenutzungsrecht gegen Vergütung (Abs. 3). Parallel: [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html), [Art. 15 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+In 9 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 10 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__10.html) (Entwerferbenennung)?
+
+**A:** Entwerferbenennung
+
+Der Entwerfer hat gegenüber dem Anmelder oder dem Rechtsinhaber das Recht, im Verfahren vor dem Deutschen Patent- und Markenamt und im Register als Entwerfer benannt zu werden. Wenn das Design das Ergebnis einer Gemeinschaftsarbeit ist, kann jeder einzelne Entwerfer seine Nennung verlangen.
+
+Entspricht: [Art. 18 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Entwerferbenennung: Anspruch des Entwerfers gegen Anmelder und Rechtsinhaber, im Verfahren und im Register genannt zu werden (Designerpersönlichkeitsrecht); bei Gemeinschaftsarbeit jeder einzelne. Nur für Anmeldungen ab 1.6.2004 ([§ 73 Abs. 4](https://www.gesetze-im-internet.de/markeng/__73.html)). Parallel: [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html) (Erfindernennung), [Art. 18 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+In 11 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html) (Anmeldung)?
+
+**A:** Anmeldung
+
+Die Anmeldung zur Eintragung eines Designs in das Register ist beim Deutschen Patent- und Markenamt einzureichen. Die Anmeldung kann auch über ein Patentinformationszentrum eingereicht werden, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist, Designanmeldungen entgegenzunehmen.
+
+Entspricht: [Art. 36 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Anmeldegebühr 60 EUR elektronisch, 70 EUR in Papierform (Nr. 341 000, 341 100 GV PatKostG), bei Aufschiebung 30 EUR (Nr. 341 400). Mindestinhalt der Anmeldung (Abs. 2): Eintragungsantrag, Identität des Anmelders, bekanntmachungsfähige Wiedergabe (bis zu zehn Darstellungen je Design, [§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html)); Erzeugnisangabe ist Pflicht (Abs. 3), bestimmt aber nicht den Schutzumfang (Abs. 6). Zusatzangaben: Beschreibung (max. 100 Wörter, [§ 10 DesignV](https://www.gesetze-im-internet.de/designv/__10.html)), Aufschiebungsantrag, Warenklassen, Entwerfer. Details in der DesignV ([§ 26](https://www.gesetze-im-internet.de/markeng/__26.html)). Die Wiedergabe bestimmt den Schutzgegenstand ([§ 37](https://www.gesetze-im-internet.de/markeng/__37.html)): Was nicht abgebildet ist, ist nicht geschützt (BGH Sporthelm, Sportbrille).
+
+In 10 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html) (Sammelanmeldung)?
+
+**A:** Sammelanmeldung
+
+Mehrere Designs können in einer Anmeldung zusammengefasst werden (Sammelanmeldung). Die Sammelanmeldung darf nicht mehr als 100 Designs umfassen.
+
+Entspricht: [Art. 37 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Sammelanmeldung: bis zu 100 Designs in einer Anmeldung, seit 2014 ohne Bindung an eine Warenklasse (Gebühr: 60 EUR elektronisch für 2 bis 10 Designs, je weiteres 6 EUR, Nr. 341 200 GV PatKostG); Teilung jederzeit möglich, Anmeldetag bleibt, Differenzgebühr nachzuzahlen (Abs. 2).
+
+In 4 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 13 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html) (Anmeldetag)?
+
+**A:** Anmeldetag
+
+Der Anmeldetag eines Designs ist der Tag, an dem die Unterlagen mit den Angaben nach [§ 11 Absatz 2](https://www.gesetze-im-internet.de/markeng/__11.html)
+1. beim Deutschen Patent- und Markenamt
+2. oder, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist, bei einem Patentinformationszentrum
+eingegangen sind.
+
+Entspricht: [Art. 38 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Anmeldetag = Eingang der Unterlagen nach [§ 11 Abs. 2](https://www.gesetze-im-internet.de/markeng/__11.html) beim DPMA oder einem bestimmten Patentinformationszentrum (Abs. 1). Bei Priorität (§§ [14](https://www.gesetze-im-internet.de/markeng/__14.html), [15](https://www.gesetze-im-internet.de/markeng/__15.html)) tritt der Prioritätstag für Neuheit, Eigenart, Neuheitsschonfrist, Aufschiebung, ältere Rechte und Vorbenutzungsrecht an die Stelle des Anmeldetags (Abs. 2).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 14 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html) (Ausländische Priorität)?
+
+**A:** Ausländische Priorität
+
+Wer nach einem Staatsvertrag die Priorität einer früheren ausländischen Anmeldung desselben Designs in Anspruch nimmt, hat vor Ablauf des 16. Monats nach dem Prioritätstag Zeit, Land und Aktenzeichen der früheren Anmeldung anzugeben und eine Abschrift der früheren Anmeldung einzureichen. Innerhalb der Frist können die Angaben geändert werden.
+
+Entspricht: [Art. 41 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 42 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Ausländische Priorität (Art. 4 PVÜ): sechs Monate ab der ersten Anmeldung; Zeit, Land, Aktenzeichen und Abschrift bis zum Ende des 16. Monats nach dem Prioritätstag nachreichen (Abs. 1). Für Nicht-Verbandsstaaten nach Bekanntmachung des BMJ (Abs. 2). Prioritätsnachweis-Frist ist keine Ausschlussfrist für die Priorität selbst, aber ohne Angaben keine Eintragung der Priorität.
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 15 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html) (Ausstellungspriorität)?
+
+**A:** Ausstellungspriorität
+
+Hat der Anmelder ein Design
+1. auf einer amtlichen oder amtlich anerkannten internationalen Ausstellung im Sinne des am 22. November 1928 in Paris unterzeichneten Abkommens über internationale Ausstellungen oder
+2. auf einer sonstigen inländischen oder ausländischen Ausstellung
+zur Schau gestellt, kann er, wenn er die Anmeldung innerhalb einer Frist von sechs Monaten seit der erstmaligen Zurschaustellung einreicht, von diesem Tag an ein Prioritätsrecht in Anspruch nehmen.
+
+Entspricht: [Art. 44 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Ausstellungspriorität: Zurschaustellung auf amtlichen oder amtlich anerkannten Ausstellungen (Nr. 1) oder im Bundesanzeiger bestimmten sonstigen Ausstellungen (Nr. 2); Anmeldung binnen sechs Monaten nach erstmaliger Zurschaustellung; sie verlängert die Prioritätsfrist des [§ 14](https://www.gesetze-im-internet.de/markeng/__14.html) nicht (Abs. 5). Praktisch selten; wichtiger ist die Neuheitsschonfrist des [§ 6](https://www.gesetze-im-internet.de/markeng/__6.html).
+
+In 5 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 16 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html) (Prüfung der Anmeldung)?
+
+**A:** Prüfung der Anmeldung
+
+Das Deutsche Patent- und Markenamt prüft, ob
+1. die Anmeldegebühren nach [§ 5 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__5.html) des Patentkostengesetzes und
+2. die Voraussetzungen für die Zuerkennung des Anmeldetages nach [§ 11 Absatz 2](https://www.gesetze-im-internet.de/markeng/__11.html) vorliegen und
+3. die Anmeldung den sonstigen Anmeldungserfordernissen entspricht.
+
+Entspricht: [Art. 45 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Prüfungsumfang des DPMA: Gebühren, Anmeldetagserfordernisse, sonstige Formerfordernisse (Abs. 1); Neuheit und Eigenart werden nicht geprüft (reines Registerrecht). Mängelrüge mit Frist (Abs. 3), bei Nichtbehebung Zurückweisung; Rechtsbehelf: Weiterbehandlung ([§ 17](https://www.gesetze-im-internet.de/markeng/__17.html)) oder Beschwerde ([§ 23 Abs. 4](https://www.gesetze-im-internet.de/markeng/__23.html)). Bei unzureichender Gebührenzahlung einer Sammelanmeldung entscheidet die Reihenfolge (Abs. 2).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html) (Weiterbehandlung der Anmeldung)?
+
+**A:** Weiterbehandlung der Anmeldung
+
+Ist nach Versäumung einer vom Deutschen Patent- und Markenamt bestimmten Frist die Designanmeldung zurückgewiesen worden, so wird der Beschluss über die Zurückweisung wirkungslos, ohne dass es seiner ausdrücklichen Aufhebung bedarf, wenn der Anmelder die Weiterbehandlung der Anmeldung beantragt und die versäumte Handlung nachholt.
+
+Entspricht: [Art. 67a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Weiterbehandlung nach Zurückweisung wegen Versäumung einer vom DPMA gesetzten Frist: Antrag und Nachholung binnen eines Monats nach Zustellung plus Gebühr (100 EUR, Nr. 346 000 GV PatKostG); kein Verschuldensmaßstab; keine Wiedereinsetzung in die Weiterbehandlungsfrist (Abs. 3). Wiedereinsetzung für andere Fristen über [§ 23 Abs. 5](https://www.gesetze-im-internet.de/markeng/__23.html) i.V.m. [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html).
+
+In 3 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) (Eintragungshindernisse)?
+
+**A:** Eintragungshindernisse
+
+Ist der Gegenstand der Anmeldung kein Design im Sinne des [§ 1 Nummer 1](https://www.gesetze-im-internet.de/markeng/__1.html) oder ist ein Design nach [§ 3 Absatz 1 Nummer 3](https://www.gesetze-im-internet.de/markeng/__3.html) oder Nummer 4 vom Designschutz ausgeschlossen, so weist das Deutsche Patent- und Markenamt die Anmeldung zurück.
+
+Entspricht: [Art. 47 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Absolute Eintragungshindernisse, die das DPMA prüft: kein Design im Sinne des [§ 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__1.html) (etwa bloße Idee, Computerprogramm) und Ausschluss nach [§ 3 Abs. 1 Nr. 3](https://www.gesetze-im-internet.de/markeng/__3.html) oder 4 (Sittenverstoß, Hoheitszeichen). Alles andere (Neuheit, Eigenart, technische Bedingtheit) bleibt dem Nichtigkeitsverfahren vorbehalten.
+
+In 3 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 19 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__19.html) (Führung des Registers, Eintragung und Designinformation)?
+
+**A:** Führung des Registers, Eintragung und Designinformation
+
+Das Register für eingetragene Designs wird vom Deutschen Patent- und Markenamt geführt.
+
+Entspricht: [Art. 48 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 72 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Registerführung und Eintragung ohne Prüfung der Berechtigung und der Richtigkeit der Angaben (Abs. 2); das DPMA bestimmt die Warenklassen (Locarno-Klassifikation). Mit der Eintragung entsteht der Schutz ([§ 27 Abs. 1](https://www.gesetze-im-internet.de/markeng/__27.html)).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 20 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__20.html) (Bekanntmachung)?
+
+**A:** Bekanntmachung
+
+Die Eintragung in das Register wird mit einer Wiedergabe des eingetragenen Designs durch das Deutsche Patent- und Markenamt bekannt gemacht. Sie erfolgt ohne Gewähr für die Vollständigkeit der Abbildung und die Erkennbarkeit der Erscheinungsmerkmale des Designs.
+
+Entspricht: [Art. 49 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Bekanntmachung der Eintragung mit Wiedergabe, ohne Gewähr für Vollständigkeit der Abbildung; ab Bekanntmachung laufen die Dreijahresfrist der Vindikation ([§ 9 Abs. 2](https://www.gesetze-im-internet.de/markeng/__9.html)) und die Sechsmonatsfrist der Schutzverweigerung bei internationalen Eintragungen. Kann elektronisch erfolgen (DPMAregister).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html) (Aufschiebung der Bekanntmachung)?
+
+**A:** Aufschiebung der Bekanntmachung
+
+Mit der Anmeldung kann für die Wiedergabe die Aufschiebung der Bekanntmachung um 30 Monate ab dem Anmeldetag beantragt werden. Wird der Antrag gestellt, so beschränkt sich die Bekanntmachung auf die Eintragung des Designs in das Register.
+
+Entspricht: [Art. 50 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Aufschiebung der Bildbekanntmachung um 30 Monate ab Anmeldetag auf Antrag mit der Anmeldung (Abs. 1; Geheimhaltung für Saisonware, Modelle vor Markteinführung). Während der Aufschiebung nur Nachahmungsschutz ([§ 38 Abs. 3](https://www.gesetze-im-internet.de/markeng/__38.html)). Erstreckung auf die volle Schutzdauer nur gegen Erstreckungsgebühr (40 EUR je Design, Nr. 341 600 GV PatKostG) innerhalb der Aufschiebungsfrist (Abs. 2), sonst endet der Schutz mit Ablauf der 30 Monate (Abs. 4).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 22 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__22.html) (Einsichtnahme in das Register)?
+
+**A:** Einsichtnahme in das Register
+
+Die Einsicht in das Register steht jedermann frei. Das Recht, die Wiedergabe eines eingetragenen Designs und die vom Deutschen Patent- und Markenamt über das eingetragene Design geführten Akten einzusehen, besteht, wenn
+1. die Wiedergabe bekannt gemacht worden ist,
+2. der Anmelder oder Rechtsinhaber seine Zustimmung erteilt hat oder
+3. ein berechtigtes Interesse glaubhaft gemacht wird.
+
+Entspricht: [Art. 74 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Registereinsicht für jedermann; Einsicht in Wiedergabe und Akten erst nach Bildbekanntmachung, mit Zustimmung oder bei berechtigtem Interesse (Abs. 1). Bei Aufschiebung bleibt die Wiedergabe geheim.
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 23 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__23.html) (Verfahrensvorschriften, Beschwerde und Rechtsbeschwerde)?
+
+**A:** Verfahrensvorschriften, Beschwerde und Rechtsbeschwerde
+
+Im Deutschen Patent- und Markenamt werden zur Durchführung der Verfahren in Designangelegenheiten eine oder mehrere Designstellen und Designabteilungen gebildet. Die Designstellen sind für die Entscheidungen im Verfahren nach diesem Gesetz mit Ausnahme des Nichtigkeitsverfahrens nach [§ 34a](https://www.gesetze-im-internet.de/markeng/__34a.html) zuständig und sind mit einem rechtskundigen Mitglied im Sinne des [§ 26 Absatz 2 Satz 2](https://www.gesetze-im-internet.de/markeng/__26.html) des Patentgesetzes zu besetzen. [§ 47](https://www.gesetze-im-internet.de/markeng/__47.html) des Patentgesetzes gilt entsprechend.
+
+Hinweis: Organisation und Rechtsmittel: Designstellen (Eintragungsverfahren, Abs. 1) und Designabteilungen mit drei rechtskundigen Mitgliedern (Nichtigkeitsverfahren nach [§ 34a](https://www.gesetze-im-internet.de/markeng/__34a.html), Abs. 2). Gegen Beschlüsse des DPMA Beschwerde zum BPatG (Abs. 4: 30. Senat für Nichtigkeitssachen, Frist ein Monat über [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html) entsprechend, Gebühr 200 EUR, Nr. 401 300 GV PatKostG), Rechtsbeschwerde zum BGH nur bei Zulassung (Abs. 5). Verweisung auf PatG-Vorschriften (§§ [100](https://www.gesetze-im-internet.de/patg/__100.html) bis [109](https://www.gesetze-im-internet.de/patg/__109.html), [123](https://www.gesetze-im-internet.de/patg/__123.html), [124](https://www.gesetze-im-internet.de/patg/__124.html), [128b](https://www.gesetze-im-internet.de/patg/__128b.html) PatG).
+
+In 18 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 24 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__24.html) (Verfahrenskostenhilfe)?
+
+**A:** Verfahrenskostenhilfe
+
+In Verfahren nach [§ 23 Absatz 1](https://www.gesetze-im-internet.de/markeng/__23.html) erhält der Anmelder auf Antrag unter entsprechender Anwendung der §§ [114](https://www.gesetze-im-internet.de/markeng/__114.html) bis [116](https://www.gesetze-im-internet.de/markeng/__116.html) der Zivilprozessordnung Verfahrenskostenhilfe, wenn hinreichende Aussicht auf Eintragung des Designs in das Register besteht. Auf Antrag ist einem Beteiligten im Verfahren nach [§ 34a](https://www.gesetze-im-internet.de/markeng/__34a.html) unter entsprechender Anwendung des [§ 132 Absatz 2](https://www.gesetze-im-internet.de/markeng/__132.html) des Patentgesetzes Verfahrenskostenhilfe zu gewähren. Auf Antrag des Rechtsinhabers kann Verfahrenskostenhilfe auch für die Kosten der Erstreckung des Schutzes nach [§ 21 Absatz 2 Satz 1](https://www.gesetze-im-internet.de/markeng/__21.html) und für die Aufrechterhaltungsgebühren nach [§ 28 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__28.html) gew …
+
+Hinweis: Verfahrenskostenhilfe im Eintragungs- und Nichtigkeitsverfahren entsprechend [§§ 114 ff. ZPO](https://www.gesetze-im-internet.de/zpo/__114.html) bei hinreichender Aussicht auf Erfolg.
+
+In 6 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 25 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__25.html) (Elektronische Verfahrensführung, Verordnungsermächtigung)?
+
+**A:** Elektronische Verfahrensführung, Verordnungsermächtigung
+
+Soweit in Verfahren vor dem Deutschen Patent- und Markenamt für Anmeldungen, Anträge oder sonstige Handlungen die Schriftform vorgesehen ist, gelten die Regelungen des [§ 130a Absatz 1, 2 Satz 1](https://www.gesetze-im-internet.de/markeng/__130a.html), Absatz 5 und 6 der Zivilprozessordnung entsprechend.
+
+Hinweis: Elektronische Verfahrensführung: Schriftform ersetzt durch [§ 130a ZPO](https://www.gesetze-im-internet.de/zpo/__130a.html) entsprechend; Einzelheiten in der ERVDPMAV (Anmeldung über DPMAdirekt, [§ 4 DesignV](https://www.gesetze-im-internet.de/designv/__4.html)).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 26 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__26.html) (Verordnungsermächtigungen)?
+
+**A:** Verordnungsermächtigungen
+
+Das Bundesministerium der Justiz und für Verbraucherschutz regelt durch Rechtsverordnung, die nicht der Zustimmung des Bundesrates bedarf,
+1. die Einrichtung und den Geschäftsgang des Deutschen Patent- und Markenamts sowie die Form des Verfahrens in Designangelegenheiten, soweit nicht durch Gesetz Bestimmungen darüber getroffen sind,
+2. die Form und die sonstigen Erfordernisse der Anmeldung und der Wiedergabe des Designs,
+3. die zulässigen Abmessungen eines nach [§ 11 Absatz 2 Satz 2](https://www.gesetze-im-internet.de/markeng/__11.html) der Anmeldung beigefügten Designabschnitts,
+4. den Inhalt und Umfang einer der Anmeldung beigefügten Beschreibun …
+
+Hinweis: Verordnungsermächtigung für die DesignV (Anmeldeerfordernisse, Wiedergabe, Register, Nichtigkeitsverfahren) und für die Übertragung von Geschäften auf Beamte des gehobenen Dienstes.
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 27 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html) (Entstehung und Dauer des Schutzes)?
+
+**A:** Entstehung und Dauer des Schutzes
+
+Der Schutz entsteht mit der Eintragung in das Register.
+
+Entspricht: [Art. 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Schutz entsteht mit Eintragung (Abs. 1; nicht mit Anmeldung, kein vorläufiger Schutz wie [§ 33 PatG](https://www.gesetze-im-internet.de/patg/__33.html)). Schutzdauer 25 Jahre ab Anmeldetag (Abs. 2) in fünf Fünfjahresabschnitten ([§ 28](https://www.gesetze-im-internet.de/markeng/__28.html)). Gemeinschaftsgeschmacksmuster: ebenfalls 25 Jahre ([Art. 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)), nicht eingetragenes drei Jahre ([Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) (Aufrechterhaltung)?
+
+**A:** Aufrechterhaltung
+
+Die Aufrechterhaltung des Schutzes wird durch Zahlung einer Aufrechterhaltungsgebühr jeweils für das 6. bis 10., 11. bis 15., 16. bis 20. und für das 21. bis 25. Jahr der Schutzdauer bewirkt. Sie wird in das Register eingetragen und bekannt gemacht.
+
+Entspricht: [Art. 50d GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Aufrechterhaltung durch Gebührenzahlung jeweils für das 6. bis 10., 11. bis 15., 16. bis 20. und 21. bis 25. Jahr (90, 120, 150 und 180 EUR je Design, Nr. 342 100 bis 342 400 GV PatKostG, Verspätungszuschlag 50 EUR; Fälligkeit und Zuschlagsfrist [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html)). Ohne Zahlung endet der Schutz (Abs. 3), Löschung nach [§ 36 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__36.html).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 29 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html) (Rechtsnachfolge)?
+
+**A:** Rechtsnachfolge
+
+Das Recht an einem eingetragenen Design kann auf andere übertragen werden oder übergehen.
+
+Entspricht: [Art. 28 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Rechtsnachfolge: Übertragung und Übergang frei möglich, im Zweifel mit dem Unternehmen (Abs. 2); Registereintragung deklaratorisch auf Antrag mit Nachweis (Abs. 3). Legitimation im Verfahren aber nur für den Eingetragenen ([§ 8](https://www.gesetze-im-internet.de/markeng/__8.html)).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 30 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__30.html) (Dingliche Rechte, Zwangsvollstreckung, Insolvenzverfahren)?
+
+**A:** Dingliche Rechte, Zwangsvollstreckung, Insolvenzverfahren
+
+Das Recht an einem eingetragenen Design kann
+1. Gegenstand eines dinglichen Rechts sein, insbesondere verpfändet werden, oder
+2. Gegenstand von Maßnahmen der Zwangsvollstreckung sein.
+
+Entspricht: [Art. 29 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 30 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 31 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Dingliche Rechte (Pfandrecht), Zwangsvollstreckung und Insolvenz: Eintragung im Register auf Antrag mit Nachweis; Verweise auf [§ 30 PatG](https://www.gesetze-im-internet.de/patg/__30.html).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 31 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html) (Lizenz)?
+
+**A:** Lizenz
+
+Der Rechtsinhaber kann Lizenzen für das gesamte Gebiet oder einen Teil des Gebiets der Bundesrepublik Deutschland erteilen. Eine Lizenz kann ausschließlich oder nicht ausschließlich sein.
+
+Entspricht: [Art. 32 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Lizenzen ausschließlich oder einfach, räumlich beschränkbar (Abs. 1); Verstoß gegen Dauer, Nutzungsform, Erzeugnisse, Gebiet oder Qualität ist Designverletzung (Abs. 2). Klagebefugnis: Lizenznehmer nur mit Zustimmung, ausschließlicher Lizenznehmer nach fruchtloser Aufforderung (Abs. 3); Beitritt zur Verletzungsklage für eigenen Schaden (Abs. 4); Sukzessionsschutz (Abs. 5). Umsetzung von [Art. 4 Abs. 1 lit. b DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)) für Lizenznehmer.
+
+In 4 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 32 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__32.html) (Angemeldete Designs)?
+
+**A:** Angemeldete Designs
+
+Die Vorschriften dieses Abschnitts gelten entsprechend für die Rechte, die durch die Anmeldung von Designs begründet werden.
+
+Hinweis: Schon die Anmeldung ist übertragbar, verpfändbar und lizenzierbar (entsprechende Anwendung der §§ [29](https://www.gesetze-im-internet.de/markeng/__29.html) bis [31](https://www.gesetze-im-internet.de/markeng/__31.html)).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) (Nichtigkeit)?
+
+**A:** Nichtigkeit
+
+Ein eingetragenes Design ist nichtig, wenn
+1. die Erscheinungsform des Erzeugnisses kein Design im Sinne des [§ 1 Nummer 1](https://www.gesetze-im-internet.de/markeng/__1.html) ist,
+2. das Design nicht neu ist oder keine Eigenart hat,
+3. das Design vom Designschutz nach [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html) ausgeschlossen ist.
+
+Entspricht: [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 26 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Nichtigkeitsgründe: absolute (Abs. 1: kein Design, fehlende Neuheit oder Eigenart, Ausschluss nach [§ 3](https://www.gesetze-im-internet.de/markeng/__3.html)), Feststellung auf Antrag jedermanns ([§ 34 S. 1](https://www.gesetze-im-internet.de/markeng/__34.html)); relative (Abs. 2: Urheberrechtsverletzung, älteres Design, Zeichen mit Unterscheidungskraft), Erklärung nur auf Antrag des Rechtsinhabers ([§ 34 S. 2](https://www.gesetze-im-internet.de/markeng/__34.html)). Wege: Beschluss des DPMA ([§ 34a](https://www.gesetze-im-internet.de/markeng/__34a.html)) oder Urteil auf Widerklage ([§ 52b](https://www.gesetze-im-internet.de/markeng/__52b.html)) (Abs. 3); Wirkung ex tunc (Abs. 4); auch nach Ende der Schutzdauer (Abs. 5). Parallel [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+In 11 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) (Antragsbefugnis)?
+
+**A:** Antragsbefugnis
+
+Zur Stellung des Antrags auf Feststellung der Nichtigkeit nach [§ 33 Absatz 1](https://www.gesetze-im-internet.de/markeng/__33.html) ist jedermann befugt. Zur Stellung des Antrags auf Erklärung der Nichtigkeit nach [§ 33 Absatz 2](https://www.gesetze-im-internet.de/markeng/__33.html) ist nur der Inhaber des betroffenen Rechts befugt. Den Nichtigkeitsgrund gemäß [§ 33 Absatz 1 Nummer 3](https://www.gesetze-im-internet.de/markeng/__33.html) in Verbindung mit [§ 3 Absatz 1 Nummer 4](https://www.gesetze-im-internet.de/markeng/__3.html) kann nur derjenige geltend machen, der von der Benutzung betroffen ist; eine Geltendmachung von Amts wegen durch die zuständige Behörde bleibt unberührt.
+
+Entspricht: [Art. 52 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Antragsbefugnis: Popularantrag für absolute Nichtigkeitsgründe; relative Gründe nur durch den Inhaber des kollidierenden Rechts; Hoheitszeichen nur durch den Betroffenen. Entspricht [Art. 11 Abs. 3 bis 5 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071).
+
+In 5 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html) (Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt)?
+
+**A:** Nichtigkeitsverfahren vor dem Deutschen Patent- und Markenamt
+
+Der Antrag ist schriftlich beim Deutschen Patent- und Markenamt einzureichen. Die zur Begründung dienenden Tatsachen und Beweismittel sind anzugeben. [§ 81 Absatz 6](https://www.gesetze-im-internet.de/markeng/__81.html) und [§ 125](https://www.gesetze-im-internet.de/markeng/__125.html) des Patentgesetzes gelten entsprechend. Der Antrag ist unzulässig, soweit über denselben Streitgegenstand zwischen den Parteien durch unanfechtbaren Beschluss oder rechtskräftiges Urteil entschieden wurde.
+
+Entspricht: [Art. 52 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 53 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Nichtigkeitsverfahren vor dem DPMA (seit 1.1.2014, vorher nur Löschungsklage vor den Landgerichten): schriftlicher, begründeter Antrag mit Gebühr (300 EUR je Design, Nr. 346 100 GV PatKostG), Zustellung und einmonatige Widerspruchsfrist des Inhabers; ohne Widerspruch wird die Nichtigkeit ohne Sachprüfung festgestellt oder erklärt (Abs. 2 S. 2, Säumnisprinzip). Bei Widerspruch streitiges Verfahren mit Anhörung, Beschluss mit Kostenentscheidung (Abs. 4, 5); Beschwerde zum BPatG ([§ 23 Abs. 4](https://www.gesetze-im-internet.de/markeng/__23.html)). Sperre bei rechtskräftiger Entscheidung über denselben Streitgegenstand (Abs. 1 S. 4). Meistzitierte Vorschrift des Gesetzes im BPatG-Korpus.
+
+In 8 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 34b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34b.html) (Aussetzung)?
+
+**A:** Aussetzung
+
+Ist oder wird während des Nichtigkeitsverfahrens ein Rechtsstreit anhängig, dessen Entscheidung vom Rechtsbestand des eingetragenen Designs abhängt, kann das Gericht die Aussetzung des Rechtsstreits anordnen. Die Aussetzung ist anzuordnen, wenn das Gericht das eingetragene Design für nichtig hält. Ist der Nichtigkeitsantrag unanfechtbar zurückgewiesen worden, ist das Gericht an diese Entscheidung nur gebunden, wenn sie zwischen denselben Parteien ergangen ist. [§ 52b Absatz 3 Satz 3](https://www.gesetze-im-internet.de/markeng/__52b.html) gilt entsprechend.
+
+Hinweis: Aussetzung des Verletzungsprozesses während eines Nichtigkeitsverfahrens im Ermessen des Gerichts; zwingend, wenn das Gericht das Design für nichtig hält. Spiegelbild des [§ 148 ZPO](https://www.gesetze-im-internet.de/zpo/__148.html) im Patentverletzungsprozess.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 34c DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34c.html) (Beitritt zum Nichtigkeitsverfahren)?
+
+**A:** Beitritt zum Nichtigkeitsverfahren
+
+Ein Dritter kann einem Nichtigkeitsverfahren beitreten, wenn über den Antrag auf Feststellung oder Erklärung der Nichtigkeit noch keine unanfechtbare Entscheidung getroffen wurde und er glaubhaft machen kann, dass
+1. gegen ihn ein Verfahren wegen Verletzung desselben eingetragenen Designs anhängig ist oder
+2. er aufgefordert wurde, eine behauptete Verletzung desselben eingetragenen Designs zu unterlassen.
+Der Beitritt kann innerhalb von drei Monaten ab Einleitung des Verfahrens nach Satz 1 Nummer 1 oder ab Zugang der Unterlassungsaufforderung nach Satz 1 Nummer 2 erklärt werden.
+
+Hinweis: Beitritt eines Dritten zum laufenden Nichtigkeitsverfahren, wenn er wegen Verletzung desselben Designs verklagt oder abgemahnt wurde (Abs. 1); im Beschwerdeverfahren wird der Beitretende Beschwerdeführer. Parallel [§ 59 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__59.html).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html) (Teilweise Aufrechterhaltung)?
+
+**A:** Teilweise Aufrechterhaltung
+
+Ein eingetragenes Design kann in geänderter Form bestehen bleiben,
+1. durch Feststellung der Teilnichtigkeit oder im Wege der Erklärung eines Teilverzichts durch den Rechtsinhaber, wenn die Nichtigkeit nach [§ 33 Absatz 1](https://www.gesetze-im-internet.de/markeng/__33.html) wegen mangelnder Neuheit oder Eigenart ([§ 2 Absatz 2](https://www.gesetze-im-internet.de/markeng/__2.html) oder Absatz 3) oder wegen Ausschlusses vom Designschutz ([§ 3](https://www.gesetze-im-internet.de/markeng/__3.html)) festzustellen ist, oder
+2. durch Erklärung der Teilnichtigkeit sowie Einwilligung in die teilweise Löschung oder Erklärung eines Teilverzichts, wenn die Erklärung der Nichtigkeit nach [§ 33 Absatz 2 Nummer 1](https://www.gesetze-im-internet.de/markeng/__33.html) oder 3 verlangt werden kann,
+sofern dann die Schutzvoraus …
+
+Entspricht: [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Teilweise Aufrechterhaltung in geänderter Form (Teilnichtigkeit oder Teilverzicht), wenn Neuheit, Eigenart oder Ausschluss nur Teile betreffen oder ältere Rechte nur teilweise entgegenstehen; die Identität des Designs muss gewahrt bleiben ([Art. 11 Abs. 7 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)). Geänderte Wiedergabe einreichen (Abs. 2).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 36 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html) (Löschung)?
+
+**A:** Löschung
+
+Ein eingetragenes Design wird gelöscht
+1. bei Beendigung der Schutzdauer;
+2. bei Verzicht auf Antrag des Rechtsinhabers, wenn die Zustimmung anderer im Register eingetragener Inhaber von Rechten am eingetragenen Design sowie des Klägers im Falle eines Verfahrens nach [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html) vorgelegt wird;
+3. auf Antrag eines Dritten, wenn dieser mit dem Antrag eine öffentliche oder öffentlich beglaubigte Urkunde mit Erklärungen nach Nummer 2 vorlegt;
+4. bei Einwilligung in die Löschung nach [§ 9](https://www.gesetze-im-internet.de/markeng/__9.html) oder [§ 33 Absatz 6 Satz 1](https://www.gesetze-im-internet.de/markeng/__33.html);
+5. auf Grund eines unanfechtbaren Beschlusses oder rechtskräftigen Urteils über die Feststel …
+
+Entspricht: [Art. 51 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Löschungstatbestände: Ende der Schutzdauer, Verzicht (mit Zustimmung eingetragener Rechtsinhaber und Vindikationskläger), Antrag eines Dritten mit Einwilligung, Einwilligung bei Nichtigkeit, rechtskräftige Nichtigkeit (Abs. 1). Teilverzicht führt zu geänderter Eintragung (Abs. 2).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) (Gegenstand des Schutzes)?
+
+**A:** Gegenstand des Schutzes
+
+Der Schutz wird für diejenigen Merkmale der Erscheinungsform eines eingetragenen Designs begründet, die in der Anmeldung sichtbar wiedergegeben sind.
+
+Entspricht: [Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Schutzgegenstand: nur die in der Anmeldung sichtbar wiedergegebenen Erscheinungsmerkmale (Abs. 1). Alles, was die Abbildung nicht zeigt (Rückseite, Farbe bei Schwarz-Weiß-Foto, Material), ist nicht geschützt; Erzeugnisangabe und Beschreibung dienen nur der Auslegung ([§ 11 Abs. 6](https://www.gesetze-im-internet.de/markeng/__11.html)). BGH Sporthelm, Sportbrille, Schalungsbrett (BPatG): Widersprüche zwischen mehreren Darstellungen gehen zu Lasten des Anmelders.
+
+In 10 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) (Rechte aus dem eingetragenen Design und Schutzumfang)?
+
+**A:** Rechte aus dem eingetragenen Design und Schutzumfang
+
+Das eingetragene Design gewährt seinem Rechtsinhaber das ausschließliche Recht, es zu benutzen und Dritten zu verbieten, es ohne seine Zustimmung zu benutzen. Eine Benutzung schließt insbesondere die Herstellung, das Anbieten, das Inverkehrbringen, die Einfuhr, die Ausfuhr, den Gebrauch eines Erzeugnisses, in das das eingetragene Design aufgenommen oder bei dem es verwendet wird, und den Besitz eines solchen Erzeugnisses zu den genannten Zwecken ein.
+
+Entspricht: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Ausschließliches Benutzungsrecht mit Beispielskatalog (Abs. 1: Herstellen, Anbieten, Inverkehrbringen, Ein- und Ausfuhr, Gebrauch, Besitz zu diesen Zwecken) ohne Verwechslungs- oder Nachahmungserfordernis (objektiver Schutz, außer bei Aufschiebung, Abs. 3). Schutzumfang (Abs. 2): jedes Design, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt; Gestaltungsfreiheit und Abstand zum vorbekannten Formenschatz bestimmen die Reichweite (BGH Untersetzer, Kinderwagen II, Weinkaraffe: großer Abstand = großer Schutzumfang).
+
+In 14 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html) (Vermutung der Rechtsgültigkeit)?
+
+**A:** Vermutung der Rechtsgültigkeit
+
+Zugunsten des Rechtsinhabers wird vermutet, dass die an die Rechtsgültigkeit eines eingetragenen Designs zu stellenden Anforderungen erfüllt sind.
+
+Entspricht: [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Vermutung der Rechtsgültigkeit: Im Verletzungsprozess muss der Beklagte die Nichtigkeit durch Widerklage oder Antrag beim DPMA geltend machen ([§ 52a](https://www.gesetze-im-internet.de/markeng/__52a.html)); die bloße Einrede fehlender Neuheit genügt nicht mehr (Ausnahme: einstweilige Verfügung). Umsetzung von [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) in das nationale Recht.
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html) (Beschränkungen der Rechte aus dem eingetragenen Design)?
+
+**A:** Beschränkungen der Rechte aus dem eingetragenen Design
+
+Rechte aus einem eingetragenen Design können nicht geltend gemacht werden gegenüber
+1. Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden;
+2. Handlungen zu Versuchszwecken;
+3. Wiedergaben zum Zwecke der Zitierung oder der Lehre, vorausgesetzt, solche Wiedergaben sind mit den Gepflogenheiten des redlichen Geschäftsverkehrs vereinbar, beeinträchtigen die normale Verwertung des eingetragenen Designs nicht über Gebühr und geben die Quelle an;
+4. Einrichtungen in Schiffen und Luftfahrzeugen, die im Ausland zugelassen sind und nur vorübergehend in das Inland gelangen …
+
+Entspricht: [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Schranken: private nichtgewerbliche Handlungen (Nr. 1), Versuche (Nr. 2), Zitat und Lehre unter Quellenangabe und ohne unangemessene Beeinträchtigung (Nr. 3; EuGH Nintendo/BigBen: Abbildung des Originalzubehörs zur Erläuterung der Kompatibilität ist zulässig), Schiffe und Luftfahrzeuge im vorübergehenden Inlandsaufenthalt (Nr. 4, 5). Entspricht [Art. 13 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+In 4 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (Reparaturklausel)?
+
+**A:** Reparaturklausel
+
+Es besteht kein Designschutz für ein in ein Erzeugnis eingebautes oder darauf angewandtes Design, das ein Bauelement eines komplexen Erzeugnisses ist und das allein mit dem Ziel verwendet wird, die Reparatur dieses komplexen Erzeugnisses zu ermöglichen, um ihm wieder sein ursprüngliches Erscheinungsbild zu verleihen. Dies gilt nicht, wenn der vorrangige Zweck, zu dem das genannte Bauelement auf den Markt gebracht wird, ein anderer als die Reparatur des komplexen Erzeugnisses ist.
+
+Entspricht: [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Reparaturklausel (seit 2.12.2020): kein Schutz für Bauelemente komplexer Erzeugnisse, die allein zur Reparatur zwecks Wiederherstellung des ursprünglichen Erscheinungsbilds verwendet werden (Abs. 1: formgebundene Ersatzteile, „must match“, etwa Kotflügel, Scheinwerfer, Felgen); Voraussetzung: Verbraucher werden über den Ursprung des Teils unterrichtet (Abs. 2). Gilt nicht für Designs, die vor dem 2.12.2020 angemeldet wurden ([§ 73 Abs. 2](https://www.gesetze-im-internet.de/markeng/__73.html); Bestandsschutz bis 2032 nach [Art. 19 Abs. 4 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)). Unionsrecht: [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (EuGH Acacia/Audi und Porsche: unabhängig von der Formgebundenheit; Sorgfaltspflichten des Herstellers).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html) (Vorbenutzungsrecht)?
+
+**A:** Vorbenutzungsrecht
+
+Rechte nach [§ 38](https://www.gesetze-im-internet.de/markeng/__38.html) können gegenüber einem Dritten, der vor dem Anmeldetag im Inland ein identisches Design, das unabhängig von einem eingetragenen Design entwickelt wurde, gutgläubig in Benutzung genommen oder wirkliche und ernsthafte Anstalten dazu getroffen hat, nicht geltend gemacht werden. Der Dritte ist berechtigt, das Design zu verwerten. Die Vergabe von Lizenzen ([§ 31](https://www.gesetze-im-internet.de/markeng/__31.html)) ist ausgeschlossen.
+
+Entspricht: [Art. 22 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Vorbenutzungsrecht: Wer vor dem Anmeldetag im Inland ein identisches, unabhängig entwickeltes Design gutgläubig benutzt oder ernsthafte Anstalten dazu getroffen hat, darf es weiterbenutzen; nicht übertragbar außer mit dem Unternehmensteil (Abs. 2). Parallel [§ 12 PatG](https://www.gesetze-im-internet.de/patg/__12.html), [Art. 22 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) (Beseitigung, Unterlassung und Schadenersatz)?
+
+**A:** Beseitigung, Unterlassung und Schadenersatz
+
+Wer entgegen [§ 38 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__38.html) ein eingetragenes Design benutzt (Verletzer), kann von dem Rechtsinhaber oder einem anderen Berechtigten (Verletzten) auf Beseitigung der Beeinträchtigung und bei Wiederholungsgefahr auf Unterlassung in Anspruch genommen werden. Der Anspruch auf Unterlassung besteht auch dann, wenn eine Zuwiderhandlung erstmalig droht.
+
+Entspricht: [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Zentrale Anspruchsgrundlage: Beseitigung und Unterlassung bei Wiederholungs- oder Erstbegehungsgefahr, verschuldensunabhängig (Abs. 1); Schadensersatz bei Vorsatz oder Fahrlässigkeit nach dreifacher Berechnung (Abs. 2: konkreter Schaden, Verletzergewinn, Lizenzanalogie). Aktivlegitimiert: Rechtsinhaber und andere Berechtigte (ausschließlicher Lizenznehmer nach [§ 31 Abs. 3](https://www.gesetze-im-internet.de/markeng/__31.html)). Gleichlautend [§ 14 Abs. 5, 6 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 97 UrhG](https://www.gesetze-im-internet.de/urhg/__97.html); Umsetzung von [Art. 11, 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)). Für Gemeinschaftsgeschmacksmuster über [§ 62a](https://www.gesetze-im-internet.de/markeng/__62a.html) und [Art. 88 Abs. 2, 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) anwendbar.
+
+In 23 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html) (Vernichtung, Rückruf und Überlassung)?
+
+**A:** Vernichtung, Rückruf und Überlassung
+
+Der Verletzte kann den Verletzer auf Vernichtung der im Besitz oder Eigentum des Verletzers befindlichen rechtswidrig hergestellten, verbreiteten oder zur rechtswidrigen Verbreitung bestimmten Erzeugnisse in Anspruch nehmen. Satz 1 ist entsprechend auf die im Eigentum des Verletzers stehenden Vorrichtungen anzuwenden, die vorwiegend zur Herstellung dieser Erzeugnisse gedient haben.
+
+Hinweis: Vernichtung der rechtswidrigen Erzeugnisse und Vorrichtungen (Abs. 1), Rückruf und Entfernen aus den Vertriebswegen (Abs. 2), alternativ Überlassung gegen Vergütung bis zu den Herstellungskosten (Abs. 3, Besonderheit des DesignG und UrhG), Verhältnismäßigkeitsvorbehalt (Abs. 4). [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); parallel [§ 18 MarkenG](https://www.gesetze-im-internet.de/markeng/__18.html), [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 98 UrhG](https://www.gesetze-im-internet.de/urhg/__98.html).
+
+In 7 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 44 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__44.html) (Haftung des Inhabers eines Unternehmens)?
+
+**A:** Haftung des Inhabers eines Unternehmens
+
+Ist in einem Unternehmen von einem Arbeitnehmer oder Beauftragten ein eingetragenes Design widerrechtlich verletzt worden, so hat der Verletzte die Ansprüche aus den §§ [42](https://www.gesetze-im-internet.de/markeng/__42.html) und [43](https://www.gesetze-im-internet.de/markeng/__43.html) mit Ausnahme des Anspruchs auf Schadenersatz auch gegen den Inhaber des Unternehmens.
+
+Hinweis: Haftung des Unternehmensinhabers für Verletzungen durch Arbeitnehmer und Beauftragte auf Unterlassung, Beseitigung und Vernichtung, nicht auf Schadensersatz (dafür [§ 831 BGB](https://www.gesetze-im-internet.de/bgb/__831.html), [§ 31 BGB](https://www.gesetze-im-internet.de/bgb/__31.html)). Parallel [§ 14 Abs. 7 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 99 UrhG](https://www.gesetze-im-internet.de/urhg/__99.html); im PatG ohne Entsprechung.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html) (Entschädigung)?
+
+**A:** Entschädigung
+
+Handelt der Verletzer weder vorsätzlich noch fahrlässig, so kann er zur Abwendung der Ansprüche nach den §§ [42](https://www.gesetze-im-internet.de/markeng/__42.html) und [43](https://www.gesetze-im-internet.de/markeng/__43.html) den Verletzten in Geld entschädigen, wenn ihm durch die Erfüllung der Ansprüche ein unverhältnismäßig großer Schaden entstehen würde und dem Verletzten die Abfindung in Geld zuzumuten ist. Als Entschädigung ist der Betrag zu zahlen, der im Falle einer vertraglichen Einräumung des Rechts als Vergütung angemessen gewesen wäre. Mit der Zahlung der Entschädigung gilt die Einwilligung des Verletzten zur Verwertung im üblichen Umfang als erteilt.
+
+Hinweis: Entschädigung in Geld statt Unterlassung und Vernichtung für den schuldlosen Verletzer bei unverhältnismäßigem Schaden und Zumutbarkeit für den Verletzten ([Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), nur im DesignG und in [§ 100 UrhG](https://www.gesetze-im-internet.de/urhg/__100.html) umgesetzt). Höhe: angemessene Lizenzgebühr; mit Zahlung gilt die Benutzung als erlaubt.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html) (Auskunft)?
+
+**A:** Auskunft
+
+Der Verletzte kann den Verletzer auf unverzügliche Auskunft über die Herkunft und den Vertriebsweg der rechtsverletzenden Erzeugnisse in Anspruch nehmen.
+
+Hinweis: Auskunft über Herkunft und Vertriebsweg gegen den Verletzer (Abs. 1) und bei offensichtlicher Verletzung oder erhobener Klage gegen Dritte in gewerblichem Ausmaß (Abs. 2: Besitzer, Dienstleister, Erbringer von Dienstleistungen); Inhalt (Abs. 3), Verhältnismäßigkeit (Abs. 4), einstweilige Verfügung (Abs. 7), Richtervorbehalt bei Verkehrsdaten (Abs. 9). [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); gleichlautend [§ 19 MarkenG](https://www.gesetze-im-internet.de/markeng/__19.html), [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html), [§ 101 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html). Daneben unselbständiger Rechnungslegungsanspruch aus [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html).
+
+In 22 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html) (Vorlage und Besichtigung)?
+
+**A:** Vorlage und Besichtigung
+
+Bei hinreichender Wahrscheinlichkeit einer Rechtsverletzung kann der Rechtsinhaber oder ein anderer Berechtigter den vermeintlichen Verletzer auf Vorlage einer Urkunde oder Besichtigung einer Sache in Anspruch nehmen, die sich in dessen Verfügungsgewalt befindet, wenn dies zur Begründung seiner Ansprüche erforderlich ist. Besteht die hinreichende Wahrscheinlichkeit einer in gewerblichem Ausmaß begangenen Rechtsverletzung, so erstreckt sich der Anspruch auch auf die Vorlage von Bank-, Finanz- oder Handelsunterlagen. Soweit der vermeintliche Verletzer geltend macht, dass es sich um vertrauliche  …
+
+Hinweis: Vorlage und Besichtigung bei hinreichender Wahrscheinlichkeit einer Verletzung (Abs. 1), auch per einstweiliger Verfügung mit Geheimnisschutz (Abs. 3); Schadensersatz bei unberechtigtem Begehren (Abs. 5). [Art. 6, 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); parallel [§ 19a MarkenG](https://www.gesetze-im-internet.de/markeng/__19a.html), [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html) (Sicherung von Schadensersatzansprüchen)?
+
+**A:** Sicherung von Schadensersatzansprüchen
+
+Der Verletzte kann den Verletzer bei einer in gewerblichem Ausmaß begangenen Rechtsverletzung in den Fällen des [§ 42 Absatz 2](https://www.gesetze-im-internet.de/markeng/__42.html) auch auf Vorlage von Bank-, Finanz- oder Handelsunterlagen oder einen geeigneten Zugang zu den entsprechenden Unterlagen in Anspruch nehmen, die sich in der Verfügungsgewalt des Verletzers befinden und die für die Durchsetzung des Schadensersatzanspruchs erforderlich sind, wenn ohne die Vorlage die Erfüllung des Schadensersatzanspruchs fraglich ist. Soweit der Verletzer geltend macht, dass es sich um vertrauliche Informationen handelt, trifft das Gericht die erforderlic …
+
+Hinweis: Sicherung von Schadensersatzansprüchen: Vorlage von Bank-, Finanz- und Handelsunterlagen bei Verletzung in gewerblichem Ausmaß und gefährdeter Erfüllung ([Art. 9 Abs. 2 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))); parallel [§ 19b MarkenG](https://www.gesetze-im-internet.de/markeng/__19b.html), [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) (Urteilsbekanntmachung)?
+
+**A:** Urteilsbekanntmachung
+
+Ist eine Klage auf Grund dieses Gesetzes erhoben worden, kann der obsiegenden Partei im Urteil die Befugnis zugesprochen werden, das Urteil auf Kosten der unterliegenden Partei öffentlich bekannt zu machen, wenn sie ein berechtigtes Interesse darlegt. Art und Umfang der Bekanntmachung werden im Urteil bestimmt. Die Befugnis erlischt, wenn von ihr nicht innerhalb von drei Monaten nach Eintritt der Rechtskraft des Urteils Gebrauch gemacht worden ist. Der Ausspruch nach Satz 1 ist nicht vorläufig vollstreckbar.
+
+Hinweis: Urteilsbekanntmachung auf Kosten des Unterlegenen bei berechtigtem Interesse; Befugnis erlischt drei Monate nach Rechtskraft. [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)); parallel [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html), [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html) (Erschöpfung)?
+
+**A:** Erschöpfung
+
+Die Rechte aus einem eingetragenen Design erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, in das ein unter den Schutzumfang des Rechts an einem eingetragenen Design fallendes Design eingefügt oder bei dem es verwendet wird, wenn das Erzeugnis vom Rechtsinhaber oder mit seiner Zustimmung in einem Mitgliedstaat der Europäischen Union oder in einem anderen Vertragsstaat des Abkommens über den Europäischen Wirtschaftsraum in den Verkehr gebracht worden ist.
+
+Entspricht: [Art. 21 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Erschöpfung: Rechte erstrecken sich nicht auf Erzeugnisse, die vom Rechtsinhaber oder mit seiner Zustimmung im EWR in Verkehr gebracht wurden (unionsweite, keine internationale Erschöpfung). Entspricht [Art. 15 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 21 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); parallel [§ 24 MarkenG](https://www.gesetze-im-internet.de/markeng/__24.html).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 49 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__49.html) (Verjährung)?
+
+**A:** Verjährung
+
+Auf die Verjährung der in den §§ [42](https://www.gesetze-im-internet.de/markeng/__42.html) bis [47](https://www.gesetze-im-internet.de/markeng/__47.html) genannten Ansprüche finden die Vorschriften des Abschnitts 5 des Buches 1 des Bürgerlichen Gesetzbuchs entsprechende Anwendung. Hat der Verpflichtete durch die Verletzung auf Kosten des Berechtigten etwas erlangt, findet [§ 852](https://www.gesetze-im-internet.de/markeng/__852.html) des Bürgerlichen Gesetzbuchs entsprechende Anwendung.
+
+Hinweis: Verjährung nach [§§ 194 ff. BGB](https://www.gesetze-im-internet.de/bgb/__194.html) (drei Jahre ab Kenntnis, zehn Jahre absolut); danach Restschadensersatz nach [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html). Parallel [§ 20 MarkenG](https://www.gesetze-im-internet.de/markeng/__20.html), [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) (Ansprüche aus anderen gesetzlichen Vorschriften)?
+
+**A:** Ansprüche aus anderen gesetzlichen Vorschriften
+
+Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
+
+Entspricht: [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Ansprüche aus anderen Vorschriften bleiben unberührt: ergänzender wettbewerbsrechtlicher Leistungsschutz ([§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)), Urheberrecht (Kumulation, [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071); BGH Geburtstagszug, EuGH Cofemel), Markenrecht (Formmarke), Gebrauchsmuster bei technischer Lehre. [Art. 16 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071), [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 51 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__51.html) (Strafvorschriften)?
+
+**A:** Strafvorschriften
+
+Wer entgegen [§ 38 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__38.html) ein eingetragenes Design benutzt, obwohl der Rechtsinhaber nicht zugestimmt hat, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+Hinweis: Strafbarkeit der vorsätzlichen Designverletzung (bis drei Jahre, gewerbsmäßig bis fünf Jahre), Antragsdelikt (Abs. 4), Einziehung (Abs. 5), Bekanntmachung der Verurteilung (Abs. 6). Parallel [§ 143 MarkenG](https://www.gesetze-im-internet.de/markeng/__143.html), [§ 142 PatG](https://www.gesetze-im-internet.de/patg/__142.html); für Gemeinschaftsgeschmacksmuster [§ 65](https://www.gesetze-im-internet.de/markeng/__65.html).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) (Designstreitsachen)?
+
+**A:** Designstreitsachen
+
+Für alle Klagen, durch die ein Anspruch aus einem der in diesem Gesetz geregelten Rechtsverhältnisse geltend gemacht wird (Designstreitsachen), sind die Landgerichte mit Ausnahme der Feststellung oder Erklärung der Nichtigkeit nach [§ 33](https://www.gesetze-im-internet.de/markeng/__33.html) ohne Rücksicht auf den Streitwert ausschließlich zuständig.
+
+Entspricht: [Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 81 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Designstreitsachen: ausschließliche Zuständigkeit der Landgerichte ohne Rücksicht auf den Streitwert (Abs. 1), Konzentration durch Landesverordnung (Abs. 2; Designgerichte wie Düsseldorf, Frankfurt, Hamburg, München), Erstattung der Patentanwaltskosten nach [§ 13 RVG](https://www.gesetze-im-internet.de/rvg/__13.html) ohne Notwendigkeitsprüfung (Abs. 4; anders [§ 140 Abs. 4 MarkenG](https://www.gesetze-im-internet.de/markeng/__140.html) nach EuGH NovaText). Ausnahme: Nichtigkeit ([§ 33](https://www.gesetze-im-internet.de/markeng/__33.html)) gehört zum DPMA oder zur Widerklage.
+
+In 3 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html) (Geltendmachung der Nichtigkeit)?
+
+**A:** Geltendmachung der Nichtigkeit
+
+Eine Partei kann sich auf die fehlende Rechtsgültigkeit eines eingetragenen Designs nur durch Erhebung einer Widerklage auf Feststellung oder Erklärung der Nichtigkeit oder durch Stellung eines Antrags nach [§ 34](https://www.gesetze-im-internet.de/markeng/__34.html) berufen. Satz 1 gilt nicht für die Geltendmachung der Nichtigkeit eines eingetragenen Designs in einstweiligen Verfügungsverfahren nach den §§ [935](https://www.gesetze-im-internet.de/markeng/__935.html) bis [945](https://www.gesetze-im-internet.de/markeng/__945.html) der Zivilprozessordnung.
+
+Entspricht: [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Nichtigkeit nur durch Widerklage oder Antrag beim DPMA, nicht als bloße Einrede (Umsetzung des Registerprinzips wie [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); Ausnahme im Verfügungsverfahren. Gilt für Streitigkeiten ab 2014 ([§ 74 Abs. 3](https://www.gesetze-im-internet.de/markeng/__74.html)).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 52b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html) (Widerklage auf Feststellung oder Erklärung der Nichtigkeit)?
+
+**A:** Widerklage auf Feststellung oder Erklärung der Nichtigkeit
+
+Die Designgerichte sind für Widerklagen auf Feststellung oder Erklärung der Nichtigkeit eines eingetragenen Designs zuständig, sofern diese im Zusammenhang mit Klagen wegen der Verletzung desselben eingetragenen Designs erhoben werden. [§ 34](https://www.gesetze-im-internet.de/markeng/__34.html) gilt entsprechend.
+
+Entspricht: [Art. 84 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 86 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Widerklage auf Nichtigkeit vor dem Designgericht im Verletzungsprozess (Abs. 1); unzulässig nach rechtskräftigem DPMA-Beschluss über denselben Streitgegenstand (Abs. 2); auf Antrag des Inhabers Aussetzung und Verweisung ins DPMA-Verfahren (Abs. 3); Mitteilung an das DPMA und Registervermerk (Abs. 4). Parallel [Art. 84 ff. GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 53 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__53.html) (Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb)?
+
+**A:** Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb
+
+Ansprüche, welche die in diesem Gesetz geregelten Rechtsverhältnisse betreffen und auch auf Vorschriften des Gesetzes gegen den unlauteren Wettbewerb gegründet werden, können abweichend von [§ 14](https://www.gesetze-im-internet.de/markeng/__14.html) des Gesetzes gegen den unlauteren Wettbewerb vor dem für die Designstreitsache zuständigen Gericht geltend gemacht werden.
+
+Hinweis: Gerichtsstand: Ansprüche, die zugleich auf das UWG gestützt werden (Nachahmungsschutz nach [§ 4 Nr. 3 UWG](https://www.gesetze-im-internet.de/uwg_2004/__4.html)), können beim Designgericht geltend gemacht werden, abweichend von [§ 14 UWG](https://www.gesetze-im-internet.de/uwg_2004/__14.html).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 54 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__54.html) (Streitwertbegünstigung)?
+
+**A:** Streitwertbegünstigung
+
+Macht in bürgerlichen Rechtsstreitigkeiten, in denen durch Klage ein Anspruch aus einem der in diesem Gesetz geregelten Rechtsverhältnisse geltend gemacht wird, eine Partei glaubhaft, dass die Belastung mit den Prozesskosten nach dem vollen Streitwert ihre wirtschaftliche Lage erheblich gefährden würde, so kann das Gericht auf ihren Antrag anordnen, dass die Verpflichtung dieser Partei zur Zahlung von Gerichtskosten sich nach einem ihrer Wirtschaftslage angepassten Teil des Streitwerts bemisst.
+
+Hinweis: Streitwertbegünstigung wie [§ 142 MarkenG](https://www.gesetze-im-internet.de/markeng/__142.html) und [§ 144 PatG](https://www.gesetze-im-internet.de/patg/__144.html): Antrag vor Verhandlung zur Hauptsache bei erheblicher Gefährdung der wirtschaftlichen Lage.
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 55 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__55.html) (Beschlagnahme bei der Ein- und Ausfuhr)?
+
+**A:** Beschlagnahme bei der Ein- und Ausfuhr
+
+Liegt eine Rechtsverletzung nach [§ 38 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__38.html) offensichtlich vor, so unterliegt das jeweilige Erzeugnis auf Antrag und gegen Sicherheitsleistung des Rechtsinhabers bei seiner Einfuhr oder Ausfuhr der Beschlagnahme durch die Zollbehörde, soweit nicht die Verordnung (EU) Nr. 608/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte geistigen Eigentums durch die Zollbehörden und zur Aufhebung der Verordnung (EG) Nr. 1383/2003 des Rates (ABl. L 181 vom 29.6.2013, S. 15) in ihrer jeweils geltenden Fassung anzuwenden ist. Das gilt für den Verkehr mit an …
+
+Hinweis: Grenzbeschlagnahme bei offensichtlicher Verletzung auf Antrag und gegen Sicherheitsleistung, soweit nicht die Verordnung (EU) Nr. 608/2013 gilt (Drittlandsware); Verfahren §§ [56](https://www.gesetze-im-internet.de/markeng/__56.html), [57](https://www.gesetze-im-internet.de/markeng/__57.html). Parallel [§§ 146 ff. MarkenG](https://www.gesetze-im-internet.de/markeng/__146.html), §§ [142a](https://www.gesetze-im-internet.de/patg/__142a.html), [142b](https://www.gesetze-im-internet.de/patg/__142b.html) PatG.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 56 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__56.html) (Einziehung, Widerspruch)?
+
+**A:** Einziehung, Widerspruch
+
+Wird der Beschlagnahme nicht spätestens nach Ablauf von zwei Wochen nach Zustellung der Mitteilung nach [§ 55 Absatz 2 Satz 1](https://www.gesetze-im-internet.de/markeng/__55.html) widersprochen, so ordnet die Zollbehörde die Einziehung der beschlagnahmten Erzeugnisse an.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 57 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__57.html) (Zuständigkeiten, Rechtsmittel)?
+
+**A:** Zuständigkeiten, Rechtsmittel
+
+Der Antrag nach [§ 55 Absatz 1](https://www.gesetze-im-internet.de/markeng/__55.html) ist bei der Generalzolldirektion zu stellen und hat Wirkung für ein Jahr, sofern keine kürzere Geltungsdauer beantragt wird; er kann wiederholt werden. Für die mit dem Antrag verbundenen Amtshandlungen werden vom Rechtsinhaber Kosten nach Maßgabe des [§ 178](https://www.gesetze-im-internet.de/markeng/__178.html) der Abgabenordnung erhoben.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 58 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__58.html) (Inlandsvertreter)?
+
+**A:** Inlandsvertreter
+
+Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann an einem in diesem Gesetz geregelten Verfahren vor dem Deutschen Patent- und Markenamt oder dem Bundespatentgericht nur teilnehmen und die Rechte aus einem eingetragenen Design nur geltend machen, wenn er einen Rechtsanwalt oder Patentanwalt als Vertreter bestellt hat, der zur Vertretung im Verfahren vor dem Deutschen Patent- und Markenamt, dem Bundespatentgericht und in bürgerlichen Rechtsstreitigkeiten, die das eingetragene Design betreffen, sowie zur Stellung von Strafanträgen befugt und bevollmächtigt ist.
+
+Entspricht: [Art. 78 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Inlandsvertreter: Wer im Inland weder Wohnsitz noch Sitz noch Niederlassung hat, braucht für Verfahren vor DPMA und BPatG und zur Geltendmachung der Rechte einen Rechts- oder Patentanwalt (Abs. 1); Gerichtsstand am Geschäftsraum des Vertreters (Abs. 2). Parallel [§ 25 PatG](https://www.gesetze-im-internet.de/patg/__25.html), [§ 96 MarkenG](https://www.gesetze-im-internet.de/markeng/__96.html).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 59 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__59.html) (Berühmung eines eingetragenen Designs)?
+
+**A:** Berühmung eines eingetragenen Designs
+
+Wer eine Bezeichnung verwendet, die geeignet ist, den Eindruck zu erwecken, dass ein Erzeugnis durch ein eingetragenes Design geschützt sei, ist verpflichtet, jedem, der ein berechtigtes Interesse an der Kenntnis der Rechtslage hat, auf Verlangen Auskunft darüber zu geben, auf welches eingetragene Design sich die Verwendung der Bezeichnung stützt.
+
+Hinweis: Designberühmung: Wer den Eindruck eines Designschutzes erweckt („geschütztes Design“, ®-ähnliche Hinweise), muss jedem mit berechtigtem Interesse Auskunft über das Design geben. Parallel [§ 146 PatG](https://www.gesetze-im-internet.de/patg/__146.html).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 62 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62.html) (Weiterleitung der Anmeldung)?
+
+**A:** Weiterleitung der Anmeldung
+
+Werden beim Deutschen Patent- und Markenamt Anmeldungen von Gemeinschaftsgeschmacksmustern nach Artikel 35 Absatz 2 der Verordnung (EG) Nr. 6/2002 des Rates vom 12. Dezember 2001 über das Gemeinschaftsgeschmacksmuster (ABl. EG 2002 Nr. L 3 S. 1) eingereicht, so vermerkt das Deutsche Patent- und Markenamt auf der Anmeldung den Tag des Eingangs und leitet die Anmeldung ohne Prüfung unverzüglich an das Harmonisierungsamt für den Binnenmarkt (Marken, Muster und Modelle) weiter.
+
+Hinweis: Anmeldungen von Gemeinschaftsgeschmacksmustern können beim DPMA eingereicht werden ([Art. 35 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); das DPMA vermerkt den Eingangstag und leitet an das EUIPO weiter.
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) (Anwendung der Vorschriften dieses Gesetzes auf Gemeinschaftsgeschmacksmuster)?
+
+**A:** Anwendung der Vorschriften dieses Gesetzes auf Gemeinschaftsgeschmacksmuster
+
+Soweit deutsches Recht anwendbar ist, sind folgende Vorschriften dieses Gesetzes auf Ansprüche des Inhabers eines Gemeinschaftsgeschmacksmusters, das nach der Verordnung (EG) Nr. 6/2002 Schutz genießt, entsprechend anzuwenden:
+1. die Vorschriften zu Ansprüchen auf Beseitigung der Beeinträchtigung ([§ 42 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__42.html)), auf Schadensersatz ([§ 42 Absatz 2](https://www.gesetze-im-internet.de/markeng/__42.html)), auf Vernichtung, auf Rückruf und Überlassung ([§ 43](https://www.gesetze-im-internet.de/markeng/__43.html)), auf Auskunft ([§ 46](https://www.gesetze-im-internet.de/markeng/__46.html)), auf Vorlage und Besichtigung ([§ 46a](https://www.gesetze-im-internet.de/markeng/__46a.html)), auf Sicherung von Schadensersatzansprüchen ([§ 46b](https://www.gesetze-im-internet.de/markeng/__46b.html)) und auf Urteilsbekanntmachung ([§ 47](https://www.gesetze-im-internet.de/markeng/__47.html)) neben den Ansprüchen nach Artikel 89 Absat …
+
+Entspricht: [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Für Ansprüche aus Gemeinschaftsgeschmacksmustern gelten, soweit deutsches Recht anwendbar ist ([Art. 88 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), EuGH Acacia/BMW: Recht des Verletzungsorts nach Art. 8 Abs. 2 Rom II), die §§ [42](https://www.gesetze-im-internet.de/markeng/__42.html) bis [47](https://www.gesetze-im-internet.de/markeng/__47.html) und [49](https://www.gesetze-im-internet.de/markeng/__49.html) entsprechend: Beseitigung, Schadensersatz, Vernichtung, Rückruf, Auskunft, Vorlage, Sicherung, Urteilsbekanntmachung, Verjährung. Unterlassung folgt direkt aus [Art. 89 Abs. 1 lit. a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html) (Gemeinschaftsgeschmacksmusterstreitsachen)?
+
+**A:** Gemeinschaftsgeschmacksmusterstreitsachen
+
+Für alle Klagen, für die die Gemeinschaftsgeschmacksmustergerichte im Sinne des Artikels 80 Absatz 1 der Verordnung (EG) Nr. 6/2002 zuständig sind (Gemeinschaftsgeschmacksmusterstreitsachen), sind als Gemeinschaftsgeschmacksmustergerichte erster Instanz die Landgerichte ohne Rücksicht auf den Streitwert ausschließlich zuständig.
+
+Entspricht: [Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Gemeinschaftsgeschmacksmustergerichte ([Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) sind die Landgerichte (Abs. 1), Konzentration wie bei Designstreitsachen; [§ 52 Abs. 4](https://www.gesetze-im-internet.de/markeng/__52.html) (Patentanwaltskosten) und §§ [53](https://www.gesetze-im-internet.de/markeng/__53.html), [54](https://www.gesetze-im-internet.de/markeng/__54.html) gelten entsprechend (Abs. 4). Internationale Zuständigkeit: [Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); unionsweite Reichweite bei Sitzgerichtsstand ([Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), EuGH Nintendo/BigBen).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 65 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__65.html) (Strafbare Verletzung eines Gemeinschaftsgeschmacksmusters)?
+
+**A:** Strafbare Verletzung eines Gemeinschaftsgeschmacksmusters
+
+Wer entgegen Artikel 19 Absatz 1 der Verordnung (EG) Nr. 6/2002 ein Gemeinschaftsgeschmacksmuster benutzt, obwohl der Inhaber nicht zugestimmt hat, wird mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe bestraft.
+
+Hinweis: Strafbare Verletzung eines Gemeinschaftsgeschmacksmusters ([Art. 19 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) wie [§ 51](https://www.gesetze-im-internet.de/markeng/__51.html).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 66 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__66.html) (Anwendung dieses Gesetzes)?
+
+**A:** Anwendung dieses Gesetzes
+
+Dieses Gesetz ist auf Eintragungen oder Registrierungen von Designs nach dem Haager Abkommen vom 6. November 1925 über die internationale Eintragung von Designs (Haager Abkommen) (RGBl. 1928 II S. 175, 203) und dessen am 2. Juni 1934 in London (RGBl. 1937 II S. 583, 617), am 28. November 1960 in Den Haag (BGBl. 1962 II S. 774) und am 2. Juli 1999 in Genf (BGBl. 2009 II S. 837 und 2016 II S. 59) unterzeichneten Fassungen (internationale Eintragungen), deren Schutz sich auf das Gebiet der Bundesrepublik Deutschland bezieht, entsprechend anzuwenden, soweit in diesem Abschnitt, dem Haager Abkommen …
+
+Entspricht: [Art. 106a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Hinweis: Haager Abkommen (Genfer Akte 1999): internationale Eintragung mit Benennung Deutschlands wird wie eine nationale Anmeldung behandelt (§§ [67](https://www.gesetze-im-internet.de/markeng/__67.html) bis [71](https://www.gesetze-im-internet.de/markeng/__71.html)); die EU ist selbst Vertragspartei (Benennung „EM“ führt zum Gemeinschaftsgeschmacksmuster, [Art. 106a ff. GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+In 19 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 67 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__67.html) (Einreichung der internationalen Anmeldung)?
+
+**A:** Einreichung der internationalen Anmeldung
+
+Die internationale Anmeldung von Designs kann nach Wahl des Anmelders entweder direkt beim Internationalen Büro der Weltorganisation für geistiges Eigentum (Internationales Büro) oder über das Deutsche Patent- und Markenamt eingereicht werden.
+
+In 1 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 69 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__69.html) (Prüfung auf Eintragungshindernisse)?
+
+**A:** Prüfung auf Eintragungshindernisse
+
+Internationale Eintragungen werden in gleicher Weise wie Designs, die zur Eintragung in das vom Deutschen Patent- und Markenamt geführte Register angemeldet sind, nach [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html) auf Eintragungshindernisse geprüft. An die Stelle der Zurückweisung der Anmeldung tritt die Schutzverweigerung.
+
+Hinweis: Prüfung internationaler Eintragungen nur auf Eintragungshindernisse nach [§ 18](https://www.gesetze-im-internet.de/markeng/__18.html); Schutzverweigerung binnen sechs Monaten ab Veröffentlichung an das Internationale Büro (Abs. 2), Stellungnahmefrist vier Monate (Abs. 3, [§ 23 DesignV](https://www.gesetze-im-internet.de/designv/__23.html)).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 70 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__70.html) (Nachträgliche Schutzentziehung)?
+
+**A:** Nachträgliche Schutzentziehung
+
+An die Stelle des Antrags oder der Widerklage auf Feststellung oder Erklärung der Nichtigkeit nach [§ 33 Absatz 1](https://www.gesetze-im-internet.de/markeng/__33.html) oder 2 tritt der Antrag oder die Widerklage auf Feststellung der Unwirksamkeit für das Gebiet der Bundesrepublik Deutschland. An die Stelle der Klage auf Einwilligung in die Löschung nach [§ 9 Absatz 1](https://www.gesetze-im-internet.de/markeng/__9.html) tritt die Klage auf Schutzentziehung. Das Gericht übermittelt dem Deutschen Patent- und Markenamt eine Ausfertigung des rechtskräftigen Urteils. [§ 35](https://www.gesetze-im-internet.de/markeng/__35.html) gilt entsprechend.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 71 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__71.html) (Wirkung der internationalen Eintragung)?
+
+**A:** Wirkung der internationalen Eintragung
+
+Eine internationale Eintragung, deren Schutz sich auf das Gebiet der Bundesrepublik Deutschland bezieht, hat ab dem Tag ihrer Eintragung dieselbe Wirkung, wie wenn sie an diesem Tag beim Deutschen Patent- und Markenamt als eingetragenes Design angemeldet und in dessen Register eingetragen worden wäre.
+
+Hinweis: Wirkung der internationalen Eintragung mit Schutzerstreckung auf Deutschland ab dem Tag der internationalen Eintragung wie ein eingetragenes Design (Abs. 1); entfällt bei Schutzverweigerung oder nachträglicher Schutzentziehung (Abs. 2).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 72 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__72.html) (Anzuwendendes Recht)?
+
+**A:** Anzuwendendes Recht
+
+Auf eingetragene Designs, die vor dem 1. Juli 1988 nach dem Geschmacksmustergesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 442- 1, veröffentlichten bereinigten Fassung, zuletzt geändert durch Artikel 8 des Gesetzes vom 23. Juli 2002 (BGBl. I S. 2850), angemeldet worden sind, finden die bis zu diesem Zeitpunkt geltenden Vorschriften weiterhin Anwendung.
+
+Hinweis: Übergangsrecht: Altmuster vor 1988 nach altem GeschmMG; für Muster vor dem 28.10.2001 (Umsetzungsfrist der DesignRL) gelten die alten Schutzvoraussetzungen (Eigentümlichkeit statt Eigenart) weiter (Abs. 2). Relevant für Nichtigkeitsanträge gegen alte Eintragungen (BGH Sattelunterseite: Design von 2011, neues Recht).
+
+In 6 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 73 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html) (Rechtsbeschränkungen)?
+
+**A:** Rechtsbeschränkungen
+
+Rechte aus einem eingetragenen Design können gegenüber Handlungen nicht geltend gemacht werden, die die Benutzung eines Bauelements zur Reparatur eines komplexen Erzeugnisses im Hinblick auf die Wiederherstellung von dessen ursprünglicher Erscheinungsform betreffen, wenn diese Handlungen nach dem Geschmacksmustergesetz in der im Bundesgesetzblatt Teil III, Gliederungsnummer 442-1, veröffentlichten bereinigten Fassung in der bis zum Ablauf des 31. Mai 2004 geltenden Fassung nicht verhindert werden konnten.
+
+Hinweis: Rechtsbeschränkungen im Übergang: Reparaturfreiheit für Altfälle nach dem GeschmMG 1988 (Abs. 1); [§ 40a](https://www.gesetze-im-internet.de/markeng/__40a.html) gilt nicht für Designs, die vor dem 2.12.2020 angemeldet wurden (Abs. 2, Bestandsschutz); Entwerferbenennung erst für Anmeldungen ab 1.6.2004 (Abs. 4).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 74 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__74.html) (Übergangsvorschriften zum Gesetz zur Modernisierung des Geschmacksmustergesetzes sowie zur Änderung der Regelungen über die Bekanntmachungen zum Ausstellungsschutz)?
+
+**A:** Übergangsvorschriften zum Gesetz zur Modernisierung des Geschmacksmustergesetzes sowie zur Änderung der Regelungen über die Bekanntmachungen zum Ausstellungsschutz
+
+Geschmacksmuster, die bis zum Inkrafttreten des Gesetzes vom 10. Oktober 2013 (BGBl. I S. 3799) am 1. Januar 2014 angemeldet oder eingetragen worden sind, werden ab diesem Zeitpunkt als eingetragene Designs bezeichnet.
+
+Hinweis: Modernisierungsgesetz 2014: Geschmacksmuster heißen eingetragene Designs (Abs. 1); das DPMA-Nichtigkeitsverfahren gilt auch für Altrechte (Abs. 2); [§ 52a](https://www.gesetze-im-internet.de/markeng/__52a.html) nur für ab 2014 anhängige Streitigkeiten (Abs. 3).
+
+In 2 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 1 DesignV](https://www.gesetze-im-internet.de/designv/__1.html) (Anwendungsbereich)?
+
+**A:** Anwendungsbereich
+
+Die Bestimmungen dieser Verordnung gelten für die im Designgesetz geregelten Verfahren vor dem Deutschen Patent- und Markenamt neben den Bestimmungen des Designgesetzes und der DPMA-Verordnung.
+
+Bezug: [§ 26 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__26.html)
+
+Hinweis: Die DesignV regelt die Form der Verfahren vor dem DPMA nach dem DesignG (Ermächtigung [§ 26 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__26.html)) neben der DPMAV; für die elektronische Einreichung gilt die ERVDPMAV.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 3 DesignV](https://www.gesetze-im-internet.de/designv/__3.html) (Inhalt der Anmeldung)?
+
+**A:** Inhalt der Anmeldung
+
+Die Anmeldung zur Eintragung eines Designs in das Designregister muss nach [§ 11 Absatz 2 und 3](https://www.gesetze-im-internet.de/markeng/__11.html) des Designgesetzes enthalten:
+1. den Antrag auf Eintragung ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)),
+2. Angaben, die erlauben, die Identität des Anmelders festzustellen ([§ 6 Absatz 1 bis 3](https://www.gesetze-im-internet.de/markeng/__6.html)),
+3. die Wiedergabe des Designs ([§ 7](https://www.gesetze-im-internet.de/markeng/__7.html)) oder im Fall des [§ 11 Absatz 2 Satz 2](https://www.gesetze-im-internet.de/markeng/__11.html) des Designgesetzes den flächenmäßigen Designabschnitt ([§ 8](https://www.gesetze-im-internet.de/markeng/__8.html)) und
+4. die Angabe der Erzeugnisse, in die das Design aufgenommen oder bei denen es verwendet werden soll ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html)).
+
+Bezug: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)
+
+Hinweis: Pflichtinhalt der Anmeldung ([§ 11 Abs. 2, 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)): Antrag auf dem Formblatt ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Identität des Anmelders ([§ 6](https://www.gesetze-im-internet.de/markeng/__6.html)), Wiedergabe ([§ 7](https://www.gesetze-im-internet.de/markeng/__7.html)), Erzeugnisangabe ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html)); optional Beschreibung ([§ 10](https://www.gesetze-im-internet.de/markeng/__10.html)), Aufschiebungsantrag, Warenklasse, Entwerfer, Priorität ([§ 11](https://www.gesetze-im-internet.de/markeng/__11.html)).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 4 DesignV](https://www.gesetze-im-internet.de/designv/__4.html) (Einreichung der Anmeldung)?
+
+**A:** Einreichung der Anmeldung
+
+Die Anmeldung kann schriftlich oder elektronisch eingereicht werden. Für die elektronische Einreichung ist die Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt maßgebend. [§ 7 Absatz 5](https://www.gesetze-im-internet.de/markeng/__7.html) bleibt unberührt.
+
+Bezug: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), [§ 25 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__25.html)
+
+Hinweis: Einreichung schriftlich oder elektronisch (DPMAdirekt); Wiedergaben abweichend von [§ 11 DPMAV](https://www.gesetze-im-internet.de/dpmav/__11.html) nur im Original oder elektronisch, nicht per Telefax, weil die Bildqualität den Schutzgegenstand bestimmt.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 5 DesignV](https://www.gesetze-im-internet.de/designv/__5.html) (Antrag auf Eintragung)?
+
+**A:** Antrag auf Eintragung
+
+Für den schriftlichen Antrag auf Eintragung eines Designs gemäß [§ 11 Absatz 2 Satz 1 Nummer 1](https://www.gesetze-im-internet.de/markeng/__11.html) des Designgesetzes muss das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwendet werden.
+
+Bezug: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), [§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html)
+
+Hinweis: Formblattzwang für den Antrag; bei Sammelanmeldungen zusätzlich Zahl der Designs und Zuordnung der Wiedergaben (Abs. 2); ein Aufschiebungsantrag erfasst alle Designs der Sammelanmeldung (Abs. 3).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 6 DesignV](https://www.gesetze-im-internet.de/designv/__6.html) (Angaben zum Anmelder, Vertreter und Entwerfer)?
+
+**A:** Angaben zum Anmelder, Vertreter und Entwerfer
+
+Die Anmeldung muss folgende Angaben zum Anmelder enthalten:
+1. wenn der Anmelder eine natürliche Person ist: a)den Vornamen und den Namen des Anmelders sowie die Anschrift des Wohnsitzes des Anmelders unter Angabe von Straße, Hausnummer, Postleitzahl und Ort oder
+b) falls die Eintragung unter der Firma des Anmelders erfolgen soll, die Firma des Anmelders, wie sie im Handelsregister eingetragen ist, sowie die Anschrift des Firmensitzes unter Angabe von Straße, Hausnummer, Postleitzahl und Ort,
+2.wenn der Anmelder eine juristische Person oder eine Personengesellschaft ist:
+a) Name oder Firma, Re …
+
+Bezug: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)
+
+Hinweis: Angaben zu Anmelder (Name, Anschrift, bei Gesellschaften Rechtsform und Vertreter), Vertreter und Entwerfer.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 7 DesignV](https://www.gesetze-im-internet.de/designv/__7.html) (Wiedergabe des Designs)?
+
+**A:** Wiedergabe des Designs
+
+Die Wiedergabe des Designs erfolgt mit Hilfe von fotografischen oder sonstigen grafischen Darstellungen. Pro Design sind bis zu zehn Darstellungen zulässig, jede darüber hinausgehende Darstellung bleibt unberücksichtigt.
+
+Bezug: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), [§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html)
+
+Hinweis: Wiedergabe: fotografische oder grafische Darstellungen, bis zu zehn je Design (Abs. 1), Dezimalnummerierung (Abs. 2: 1.1, 1.2 …), neutraler Hintergrund, mindestens 3 × 3 cm, ohne Beiwerk und erläuternden Text (Abs. 3); Flächendesigns mit Rapport (Abs. 6), Schriftzeichen mit vollständigem Zeichensatz und fünf Zeilen Text (Abs. 7). Die Wiedergabe legt den Schutzgegenstand fest ([§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html)): Unterschiedliche Ausführungen in einem Design sind unzulässig und gehen zu Lasten des Anmelders (BGH Sporthelm).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 8 DesignV](https://www.gesetze-im-internet.de/designv/__8.html) (Flächenmäßige Designabschnitte)?
+
+**A:** Flächenmäßige Designabschnitte
+
+Flächenmäßige Designabschnitte ([§ 11 Absatz 2 Satz 2](https://www.gesetze-im-internet.de/markeng/__11.html) des Designgesetzes) sind in zwei übereinstimmenden Exemplaren einzureichen.
+
+Bezug: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html), [§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html)
+
+Hinweis: Flächenmäßige Designabschnitte (Stoffmuster, Tapeten) ersetzen bei Aufschiebung die Wiedergabe ([§ 11 Abs. 2 S. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)): zwei Exemplare, DIN A4, mit vollständigem Rapport.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 9 DesignV](https://www.gesetze-im-internet.de/designv/__9.html) (Erzeugnisangabe und Klassifizierung)?
+
+**A:** Erzeugnisangabe und Klassifizierung
+
+Die Angabe der Erzeugnisse, in die das Design aufgenommen oder bei denen es verwendet werden soll ([§ 11 Absatz 3](https://www.gesetze-im-internet.de/markeng/__11.html) des Designgesetzes), richtet sich nach der amtlichen Warenliste für eingetragene Designs auf Grundlage des Abkommens von Locarno zur Errichtung einer Internationalen Klassifikation von gewerblichen Mustern und Modellen (BGBl. 1990 II S. 1677, 1679). Die Klassifizierung des einzutragenden Designs richtet sich nach der Einteilung der Klassen und Unterklassen für eingetragene Designs. Die jeweils gültigen Fassungen der Warenliste und der Einteilung der Klassen und Unterklassen werden v …
+
+Bezug: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)
+
+Hinweis: Erzeugnisangabe nach der amtlichen Warenliste (Locarno-Klassifikation), bis zu fünf Warenbegriffe, recherchetauglich; das DPMA klassifiziert von Amts wegen. Ohne Einfluss auf den Schutzumfang ([§ 11 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)), aber Indiz für das Erzeugnis und den informierten Benutzer.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 10 DesignV](https://www.gesetze-im-internet.de/designv/__10.html) (Beschreibung zur Erläuterung der Wiedergabe)?
+
+**A:** Beschreibung zur Erläuterung der Wiedergabe
+
+Wird zur Erläuterung der Wiedergabe eine Beschreibung eingereicht ([§ 11 Absatz 5 Nummer 1](https://www.gesetze-im-internet.de/markeng/__11.html) des Designgesetzes), so darf sie sich nur auf diejenigen Merkmale beziehen, die aus der Wiedergabe des Designs oder dem flächenmäßigen Designabschnitt ersichtlich sind. Insbesondere darf sie keine Angaben über die Neuheit oder Eigenart des Designs oder seine technische Funktion enthalten.
+
+Bezug: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)
+
+Hinweis: Beschreibung zur Erläuterung der Wiedergabe: höchstens 100 Wörter, nur zu Merkmalen, die aus der Wiedergabe ersichtlich sind, keine Angaben zu Neuheit oder Wert; sie kann den Schutz nicht erweitern, aber die Auslegung der Wiedergabe stützen (BPatG Schalungsbrett: Hell-Dunkel-Kontrast als Merkmal).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 11 DesignV](https://www.gesetze-im-internet.de/designv/__11.html) (Angaben bei Inanspruchnahme einer Priorität)?
+
+**A:** Angaben bei Inanspruchnahme einer Priorität
+
+Wird in der Anmeldung die Inanspruchnahme der Priorität einer früheren ausländischen Anmeldung erklärt, so sind Zeit, Land und Aktenzeichen dieser Anmeldung anzugeben und eine Abschrift dieser Anmeldung einzureichen ([§ 14 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__14.html) des Designgesetzes).
+
+Bezug: [§ 14 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html), [§ 15 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html)
+
+Hinweis: Prioritätsangaben (Zeit, Land, Aktenzeichen, Abschrift; bei Ausstellungspriorität Tag und Nachweis) binnen 16 Monaten ([§ 14 Abs. 1](https://www.gesetze-im-internet.de/markeng/__14.html), [§ 15 Abs. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__15.html)).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 12 DesignV](https://www.gesetze-im-internet.de/designv/__12.html) (Teilung einer Sammelanmeldung)?
+
+**A:** Teilung einer Sammelanmeldung
+
+Eine Sammelanmeldung kann nach [§ 12 Absatz 2](https://www.gesetze-im-internet.de/markeng/__12.html) des Designgesetzes in zwei oder mehrere Anmeldungen geteilt werden.
+
+Bezug: [§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html)
+
+Hinweis: Teilung einer Sammelanmeldung durch Erklärung mit Aktenzeichen und Designnummern; wirksam mit Zahlung des Differenzbetrags ([§ 12 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html)).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 13 DesignV](https://www.gesetze-im-internet.de/designv/__13.html) (Weiterbehandlung der Anmeldung)?
+
+**A:** Weiterbehandlung der Anmeldung
+
+Ein Antrag auf Weiterbehandlung der infolge Fristversäumnisses zurückgewiesenen Anmeldung ([§ 17 Absatz 1](https://www.gesetze-im-internet.de/markeng/__17.html) des Designgesetzes) muss folgende Angaben enthalten:
+1. das Aktenzeichen der Anmeldung,
+2. den Namen des Anmelders und
+3. das Datum des Beschlusses, auf den sich der Antrag bezieht.
+
+Bezug: [§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html)
+
+Hinweis: Inhalt des Weiterbehandlungsantrags ([§ 17 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__17.html)): Aktenzeichen, Antrag, nachgeholte Handlung; Gebühr 100 EUR, Nr. 346 000 GV PatKostG.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 14 DesignV](https://www.gesetze-im-internet.de/designv/__14.html) (Deutsche Übersetzungen)?
+
+**A:** Deutsche Übersetzungen
+
+Wird ein fremdsprachiges Schriftstück eingereicht, kann das Deutsche Patent- und Markenamt den Anmelder auffordern, innerhalb einer angemessenen Frist eine deutsche Übersetzung nachzureichen. Die Übersetzung muss von einem Rechtsanwalt oder Patentanwalt beglaubigt oder von einem öffentlich bestellten Übersetzer angefertigt sein.
+
+Hinweis: Fremdsprachige Schriftstücke: Übersetzung auf Aufforderung; ohne Übersetzung gilt das Schriftstück als nicht eingegangen (Abs. 2), verspätete Übersetzung verschiebt den Eingangstag.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 15 DesignV](https://www.gesetze-im-internet.de/designv/__15.html) (Inhalt des Designregisters)?
+
+**A:** Inhalt des Designregisters
+
+Bei der Eintragung der Anmeldung wird Folgendes in das Designregister aufgenommen:
+1. das Aktenzeichen der Anmeldung und die Registernummer,
+2. die Wiedergabe des eingetragenen Designs,
+3. die jeweilige Designnummer,
+4. der Name, gegebenenfalls die Firma einschließlich der Rechtsform, und der Wohnsitz oder Sitz des Anmelders, bei ausländischen Orten auch der Staat ([§ 6 Absatz 1 und 3](https://www.gesetze-im-internet.de/markeng/__6.html)),
+5. die Anschrift des Anmelders unter Angabe des Empfangsberechtigten,
+6. der Anmeldetag ([§ 13 Absatz 1](https://www.gesetze-im-internet.de/markeng/__13.html) und [§ 16 Absatz 3 Satz 2](https://www.gesetze-im-internet.de/markeng/__16.html) des Designgesetzes),
+7. der Tag der Eintragung,
+8. die Erzeugnisangabe ([§ 9](https://www.gesetze-im-internet.de/markeng/__9.html)),
+9. di …
+
+Bezug: [§ 19 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__19.html)
+
+Hinweis: Registerinhalt: Aktenzeichen, Registernummer, Wiedergabe, Anmeldetag, Erzeugnisangabe, Warenklassen, Inhaber, Vertreter, Entwerfer, Priorität, Aufschiebung; bei Aufschiebung ohne Wiedergabe (Abs. 4).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 19 DesignV](https://www.gesetze-im-internet.de/designv/__19.html) (Angaben bei Erstreckung und Aufrechterhaltung)?
+
+**A:** Angaben bei Erstreckung und Aufrechterhaltung
+
+Bei der Zahlung der Gebühr zur Erstreckung des Schutzes auf die Schutzdauer nach [§ 27 Absatz 2](https://www.gesetze-im-internet.de/markeng/__27.html) des Designgesetzes ([§ 21 Absatz 2 Satz 1](https://www.gesetze-im-internet.de/markeng/__21.html) des Designgesetzes) sind anzugeben:
+1. das Aktenzeichen der Eintragung,
+2. der Verwendungszweck der Zahlung und
+3. der Name des Rechtsinhabers nach [§ 6 Absatz 1](https://www.gesetze-im-internet.de/markeng/__6.html).
+
+Bezug: [§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html), [§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html)
+
+Hinweis: Angaben bei Erstreckung nach Aufschiebung ([§ 21 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html)) und bei Aufrechterhaltungsgebühren ([§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html)), auch für einzelne Designs einer Sammeleintragung.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 20 DesignV](https://www.gesetze-im-internet.de/designv/__20.html) (Verzicht auf das eingetragene Design)?
+
+**A:** Verzicht auf das eingetragene Design
+
+In der Erklärung über den Verzicht auf das eingetragene Design nach [§ 36 Absatz 1 Satz 1 Nummer 2](https://www.gesetze-im-internet.de/markeng/__36.html) und Absatz 2 des Designgesetzes sind anzugeben:
+1. die Nummer des eingetragenen Designs, auf das verzichtet wird, sowie
+2. der Name und die Anschrift des Rechtsinhabers nach [§ 6 Absatz 1](https://www.gesetze-im-internet.de/markeng/__6.html).
+
+Bezug: [§ 36 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html)
+
+Hinweis: Verzichtserklärung ([§ 36 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__36.html)) mit Designnummer; Teilverzicht mit geänderter Wiedergabe; Zustimmung eingetragener Dritter.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 21 DesignV](https://www.gesetze-im-internet.de/designv/__21.html) (Antragstellung)?
+
+**A:** Antragstellung
+
+Für den Antrag auf Feststellung oder Erklärung der Nichtigkeit eines eingetragenen Designs ([§ 34a Absatz 1](https://www.gesetze-im-internet.de/markeng/__34a.html) des Designgesetzes) soll das vom Deutschen Patent- und Markenamt herausgegebene Formblatt verwendet werden.
+
+Bezug: [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)
+
+Hinweis: Nichtigkeitsantrag ([§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)): Formblatt, Designnummer, Antragsteller, Nichtigkeitsgrund nach [§ 33 Abs. 1](https://www.gesetze-im-internet.de/markeng/__33.html) oder 2 DesignG, Tatsachen und Beweismittel; mehrere Gründe kumulierbar (Abs. 3). Entgegenhaltungen mit Datum und Nachweis der Offenbarung beifügen.
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 22 DesignV](https://www.gesetze-im-internet.de/designv/__22.html) (Verfahrensgrundsätze)?
+
+**A:** Verfahrensgrundsätze
+
+Das Deutsche Patent- und Markenamt kann bei ihm anhängige Nichtigkeitsverfahren zur gemeinsamen Behandlung und Entscheidung verbinden. Es kann ein Nichtigkeitsverfahren aussetzen, wenn dies sachdienlich ist. Eine Aussetzung kommt insbesondere in Betracht, wenn es dasselbe eingetragene Design in einem anderen Verfahren für nichtig hält. Das Deutsche Patent- und Markenamt kann eine von ihm erlassene Anordnung, die die Verbindung mehrerer Verfahren oder die Aussetzung eines Verfahrens betrifft, wieder aufheben.
+
+Bezug: [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)
+
+Hinweis: Verfahrensgrundsätze des Nichtigkeitsverfahrens: Verbindung und Aussetzung (Abs. 1), Hinweispflicht des DPMA (Abs. 2), Hinwirken auf vollständigen Vortrag (Abs. 3); gilt für Anträge ab 1.1.2014 ([§ 27 Abs. 2](https://www.gesetze-im-internet.de/markeng/__27.html)).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 23 DesignV](https://www.gesetze-im-internet.de/designv/__23.html) (Stellungnahme zur Schutzverweigerung bei internationalen Eintragungen)?
+
+**A:** Stellungnahme zur Schutzverweigerung bei internationalen Eintragungen
+
+Der Inhaber einer internationalen Eintragung nach [§ 66](https://www.gesetze-im-internet.de/markeng/__66.html) des Designgesetzes kann zu der Mitteilung über die Schutzverweigerung ([§ 69 Absatz 2](https://www.gesetze-im-internet.de/markeng/__69.html) des Designgesetzes) innerhalb einer Frist von vier Monaten ab dem Tag, an dem das Internationale Büro der Weltorganisation für geistiges Eigentum die Mitteilung absendet, gegenüber dem Deutschen Patent- und Markenamt Stellung nehmen.
+
+Bezug: [§ 69 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__69.html)
+
+Hinweis: Stellungnahme zur Schutzverweigerung bei internationalen Eintragungen binnen vier Monaten ([§ 69 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__69.html)).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [§ 25 DesignV](https://www.gesetze-im-internet.de/designv/__25.html) (Nachträgliche Schutzentziehung)?
+
+**A:** Nachträgliche Schutzentziehung
+
+Für den Antrag auf Feststellung der Unwirksamkeit einer internationalen Eintragung für das Gebiet der Bundesrepublik Deutschland ([§ 70 Absatz 1 Satz 1](https://www.gesetze-im-internet.de/markeng/__70.html) des Designgesetzes) gelten die §§ [21](https://www.gesetze-im-internet.de/markeng/__21.html) und [22](https://www.gesetze-im-internet.de/markeng/__22.html) entsprechend.
+
+Bezug: [§ 70 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__70.html)
+
+Hinweis: Nachträgliche Schutzentziehung internationaler Eintragungen ([§ 70 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__70.html)) im Verfahren nach §§ [21](https://www.gesetze-im-internet.de/markeng/__21.html), [22](https://www.gesetze-im-internet.de/markeng/__22.html).
+
+*Tags: Designrecht, DesignV*
+
+---
+
+**F:** Was regelt [Art. 1 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Begriffe)?
+
+**A:** Begriffe
+
+Im Sinne dieser Richtlinie
+a) ist ein „Muster oder Modell“ (nachstehend „Muster“ genannt) die Erscheinungsform eines ganzen Erzeugnisses oder eines Teils davon, die sich insbesondere aus den Merkmalen der Linien, Konturen, Farben, der Gestalt, Oberflächenstruktur und/oder der Werkstoffe des Erzeugnisses selbst und/oder seiner Verzierung ergibt;
+b) ist ein „Erzeugnis“ jeder industrielle oder handwerkliche Gegenstand, einschließlich — unter anderem — von Einzelteilen, die zu einem komplexen Erzeugnis zusammengebaut werden sollen, Verpackung, Ausstattung, graphischen Symbolen und typographischen  …
+
+Umgesetzt in: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 2 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Begriffe Muster, Erzeugnis, komplexes Erzeugnis: wörtlich in [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) übernommen (dort „Design“ statt „Muster“). Computerprogramme sind keine Erzeugnisse, grafische Symbole und Schriftbilder schon.
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 2 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Anwendungsbereich)?
+
+**A:** Anwendungsbereich
+
+Diese Richtlinie gilt für:
+a) die bei den Zentralbehörden für den gewerblichen Rechtsschutz der Mitgliedstaaten eingetragenen Rechte an Mustern;
+b) die beim Benelux-Musteramt eingetragenen Rechte an Mustern;
+c) die mit Wirkung für einen Mitgliedstaat international eingetragenen Rechte an Mustern;
+d) die Anmeldungen der unter den Buchstaben a), b) und
+c) genannten Rechte an Mustern.
+
+Umgesetzt in: [§ 66 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__66.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 1 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Anwendungsbereich: nationale Registermuster, Benelux-Muster und internationale Eintragungen mit Wirkung für einen Mitgliedstaat; das Gemeinschaftsgeschmacksmuster regelt die GGV parallel und weitgehend wortgleich.
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Schutzvoraussetzungen)?
+
+**A:** Schutzvoraussetzungen
+
+Die Mitgliedstaaten schützen Muster durch Eintragung und gewähren den Inhabern von Mustern nach Maßgabe dieser Richtlinie ausschließliche Rechte.
+
+Umgesetzt in: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) MarkenG, [§ 2 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG, [§ 27 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html) MarkenG, [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 3 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Schutz nur durch Eintragung (kein nationales nicht eingetragenes Design; dafür [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)); Schutzvoraussetzungen Neuheit und Eigenart; Bauelemente nur bei Sichtbarkeit bei bestimmungsgemäßer Verwendung (Abs. 3, 4 = [§ 4](https://www.gesetze-im-internet.de/markeng/__4.html), [§ 1 Nr. 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html); EuGH Monz/Büchel).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 4 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Neuheit)?
+
+**A:** Neuheit
+
+Ein Muster gilt als neu, wenn der Öffentlichkeit vor dem Tag der Anmeldung des Musters zur Eintragung oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag kein identisches Muster zugänglich gemacht worden ist. Muster gelten als identisch, wenn sich ihre Merkmale nur in unwesentlichen Einzelheiten unterscheiden.
+
+Umgesetzt in: [§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 4 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Neuheit: kein identisches Muster vor dem Anmelde- oder Prioritätstag zugänglich gemacht; unwesentliche Einzelheiten unschädlich. [§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 5 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Eigenart)?
+
+**A:** Eigenart
+
+Ein Muster hat Eigenart, wenn sich der Gesamteindruck, den es beim informierten Benutzer hervorruft, von dem Gesamteindruck unterscheidet, den ein anderes Muster bei diesem Benutzer hervorruft, das der Öffentlichkeit vor dem Tag seiner Anmeldung zur Eintragung oder, wenn eine Priorität in Anspruch genommen wird, am Prioritätstag zugänglich gemacht worden ist.
+
+Umgesetzt in: [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 5 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Eigenart: anderer Gesamteindruck beim informierten Benutzer, Gestaltungsfreiheit berücksichtigen. [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html). EuGH PepsiCo (informierter Benutzer), Karen Millen (Einzelvergleich, keine Merkmalskombination aus mehreren Mustern).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 6 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Offenbarung)?
+
+**A:** Offenbarung
+
+Im Sinne der Artikel 4 und 5 gilt ein Muster als der Öffentlichkeit zugänglich gemacht, wenn es nach der Eintragung oder auf sonstige Weise bekanntgemacht, ausgestellt, im Verkehr verwendet oder aus anderen Gründen offenbart wurde, es sei denn, daß dies den in der Gemeinschaft tätigen Fachkreisen des betreffenden Sektors im normalen Geschäftsverlauf nicht vor dem Tag der Anmeldung zur Eintragung oder, wenn eine Priorität in Anspruch genommen wird, am Prioritätstag bekannt sein konnte. Ein Muster gilt jedoch nicht als der Öffentlichkeit zugänglich gemacht, wenn es lediglich einem Dritten unter  …
+
+Umgesetzt in: [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html) MarkenG, [§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 6 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Offenbarung mit Fachkreisklausel und Vertraulichkeitsvorbehalt (Abs. 1 = [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html)); Neuheitsschonfrist zwölf Monate (Abs. 2 = [§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html)); missbräuchliche Offenbarung (Abs. 3). EuGH Gautzsch/Duna zur Offenbarung außerhalb der Union.
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 7 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Durch ihre technische Funktion bedingte Muster und Muster von Verbindungselementen)?
+
+**A:** Durch ihre technische Funktion bedingte Muster und Muster von Verbindungselementen
+
+Ein Recht an einem Muster besteht nicht an Erscheinungsmerkmalen eines Erzeugnisses, die ausschließlich durch dessen technische Funktion bedingt sind.
+
+Umgesetzt in: [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG, [§ 3 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 7 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Technisch bedingte Merkmale (Abs. 1), Verbindungselemente (Abs. 2), modulare Systeme (Abs. 3) = [§ 3 Abs. 1 Nr. 1, 2](https://www.gesetze-im-internet.de/markeng/__3.html), Abs. 2 DesignG. EuGH DOCERAM: objektiver Maßstab; EuG Lego zu Abs. 3.
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 8 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Muster, die gegen die öffentliche Ordnung oder gegen die guten Sitten verstoßen)?
+
+**A:** Muster, die gegen die öffentliche Ordnung oder gegen die guten Sitten verstoßen
+
+Es besteht kein Recht an einem Muster, wenn es gegen die öffentliche Ordnung oder gegen die guten Sitten verstößt.
+
+Umgesetzt in: [§ 3 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 8 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Ordre public und gute Sitten = [§ 3 Abs. 1 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 9 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Schutzumfang)?
+
+**A:** Schutzumfang
+
+Der Umfang des Schutzes aus einem Recht an einem Muster erstreckt sich auf jedes Muster, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt.
+
+Umgesetzt in: [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 9 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Schutzumfang: jedes Muster ohne anderen Gesamteindruck, Gestaltungsfreiheit berücksichtigen = [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html). Spiegelbild der Eigenart (Art. 5): Was Eigenart begründet, bestimmt den Schutzumfang (BGH Untersetzer).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 10 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Schutzdauer)?
+
+**A:** Schutzdauer
+
+Nach Eintragung wird ein Muster, das die Voraussetzungen des Artikels 3 Absatz 2 erfüllt, für einen oder mehrere Zeiträume von fünf Jahren, beginnend mit dem Tag der Anmeldung, als Muster geschützt. Der Rechtsinhaber kann die Schutzfrist um einen oder mehrere Zeiträume von je fünf Jahren bis zu einer Gesamtlaufzeit von 25 Jahren ab dem Tag der Anmeldung verlängern lassen.
+
+Umgesetzt in: [§ 27 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html) MarkenG, [§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 10 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Schutzdauer: Fünfjahresabschnitte bis 25 Jahre ab Anmeldung = [§ 27 Abs. 2](https://www.gesetze-im-internet.de/markeng/__27.html), [§ 28 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__28.html).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 11 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Nichtigkeitsgründe und Eintragungshindernisse)?
+
+**A:** Nichtigkeitsgründe und Eintragungshindernisse
+
+Ein Muster wird von der Eintragung ausgeschlossen, oder das Recht an einem Muster wird, wenn das Muster eingetragen worden ist, für nichtig erklärt,
+a) wenn das Muster kein Muster im Sinne des Artikels 1 Buchstabe a) ist, oder
+b) wenn es die Schutzvoraussetzungen der Artikel 3 bis 8 nicht erfüllt, oder
+c) wenn der Anmelder oder der Inhaber des Rechts an einem Muster nach dem Recht des betreffenden Mitgliedstaats nicht dazu berechtigt ist, oder
+d) wenn das Muster mit einem früheren Muster kollidiert, das der Öffentlichkeit nach dem Tag der Anmeldung oder, wenn eine Priorität in Anspruch genomme …
+
+Umgesetzt in: [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html) MarkenG, [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) MarkenG, [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html) MarkenG, [§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 13 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823), [Art. 14 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Nichtigkeitsgründe und Eintragungshindernisse: zwingende (Abs. 1: kein Muster, fehlende Schutzvoraussetzungen, Nichtberechtigung, älteres Muster) und fakultative (Abs. 2: Zeichen, Urheberrecht, Hoheitszeichen); Antragsbefugnis (Abs. 3 bis 5); Aufrechterhaltung in geänderter Form (Abs. 7). Umsetzung in §§ [18](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), [34](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html), [35](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html) DesignG; Deutschland hat alle fakultativen Gründe übernommen.
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 12 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Rechte aus dem Muster)?
+
+**A:** Rechte aus dem Muster
+
+Die Eintragung eines Musters gewährt seinem Inhaber das ausschließliche Recht, es zu benutzen und Dritten zu verbieten, es ohne seine Zustimmung zu benutzen. Die erwähnte Benutzung schließt insbesondere die Herstellung, das Anbieten, das Inverkehrbringen, die Einfuhr, die Ausfuhr oder die Benutzung eines Erzeugnisses, in das das Muster aufgenommen oder bei dem es verwendet wird, oder den Besitz des Erzeugnisses zu den genannten Zwecken ein.
+
+Umgesetzt in: [§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 16 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Rechte aus dem Muster: ausschließliches Benutzungsrecht mit Beispielskatalog = [§ 38 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 13 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Beschränkung der Rechte aus dem Muster)?
+
+**A:** Beschränkung der Rechte aus dem Muster
+
+Die Rechte aus einem Muster nach seiner Eintragung können nicht geltend gemacht werden für:
+a) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden;
+b) Handlungen zu Versuchszwecken;
+c) die Wiedergabe zum Zweck der Zitierung oder zum Zweck der Lehre, vorausgesetzt, solche Handlungen sind mit den Gepflogenheiten des redlichen Geschäftsverkehrs vereinbar, beeinträchtigen die normale Verwertung des Musters nicht über Gebühr und die Quelle wird angegeben.
+
+Umgesetzt in: [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 18 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Schranken: privat, Versuche, Zitat und Lehre, Schiffe und Luftfahrzeuge = [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html). EuGH Nintendo/BigBen zur Zitierschranke.
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 14 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Übergangsbestimmungen)?
+
+**A:** Übergangsbestimmungen
+
+Solange nicht auf Vorschlag der Kommission gemäß Artikel 18 Änderungen dieser Richtlinie angenommen worden sind, behalten die Mitgliedstaaten ihre bestehenden Rechtsvorschriften über die Benutzung des Musters eines Bauelements zur Reparatur eines komplexen Erzeugnisses im Hinblick auf die Wiederherstellung von dessen ursprünglicher Erscheinungsform bei und führen nur dann Änderungen an diesen Bestimmungen ein, wenn dadurch die Liberalisierung des Handels mit solchen Bauelementen ermöglicht wird.
+
+Umgesetzt in: [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) MarkenG, [§ 73 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Übergangsbestimmung „freeze plus“: Mitgliedstaaten behalten ihre Regeln zur Reparatur komplexer Erzeugnisse bei und dürfen sie nur liberalisieren. Deutschland hatte keine Reparaturklausel (voller Ersatzteilschutz, [§ 73 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html) für Altfälle) und hat sie erst 2020 mit [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) eingeführt; die Richtlinie (EU) 2024/2823 macht sie mit Art. 19 zwingend.
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 15 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Erschöpfung der Rechte)?
+
+**A:** Erschöpfung der Rechte
+
+Die Rechte aus einem Muster nach seiner Eintragung erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, in das ein unter den Schutzumfang des Rechts an einem Muster fallendes Muster eingefügt oder bei dem es verwendet wird, wenn das Erzeugnis vom Inhaber des Rechts an einem Muster oder mit seiner Zustimmung in der Gemeinschaft in den Verkehr gebracht worden ist.
+
+Umgesetzt in: [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 20 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Erschöpfung im Binnenmarkt = [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html) (EWR-weit, keine internationale Erschöpfung).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 16 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Verhältnis zu anderen Formen des Schutzes)?
+
+**A:** Verhältnis zu anderen Formen des Schutzes
+
+Diese Richtlinie läßt Vorschriften des Gemeinschaftsrechts oder des Rechts des betreffenden Mitgliedstaats über nicht eingetragene Rechte an Mustern, Marken oder andere Zeichen mit Unterscheidungskraft, Patente und Gebrauchsmuster, Schriftbilder, zivilrechtliche Haftung und unlauteren Wettbewerb unberührt.
+
+Umgesetzt in: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 22 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Verhältnis zu anderen Schutzformen: nicht eingetragene Rechte, Marken, Patente, Gebrauchsmuster, unlauterer Wettbewerb, Haftungsrecht bleiben unberührt = [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Verhältnis zum Urheberrecht)?
+
+**A:** Verhältnis zum Urheberrecht
+
+Das nach Maßgabe dieser Richtlinie durch ein in einem oder mit Wirkung für einen Mitgliedstaat eingetragenes Recht an einem Muster geschützte Muster ist auch nach dem Urheberrecht dieses Staates von dem Zeitpunkt an schutzfähig, an dem das Muster geschaffen oder in irgendeiner Form festgelegt wurde. In welchem Umfang und unter welchen Bedingungen ein solcher Schutz gewährt wird, wird einschließlich der erforderlichen Gestaltungshöhe von dem einzelnen Mitgliedstaat festgelegt.
+
+Umgesetzt in: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html) MarkenG
+
+Umsetzung im EPGÜ: [Art. 23 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Kumulation mit dem Urheberrecht: Muster sind auch urheberrechtlich schutzfähig; Schutzumfang und Voraussetzungen (Originalität) bestimmt der Mitgliedstaat. EuGH Cofemel und Brompton: Werkbegriff des Unionsrechts, keine erhöhte Gestaltungshöhe; BGH Geburtstagszug (Aufgabe der Stufentheorie). = [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 18 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Revision)?
+
+**A:** Revision
+
+Drei Jahre nach der in Artikel 19 genannten Umsetzungsfrist legt die Kommission einen Bericht vor, in dem die Auswirkungen dieser Richtlinie auf die Industrie der Gemeinschaft, insbesondere die am stärksten betroffenen Industriesektoren und namentlich die Hersteller von komplexen Erzeugnissen und Bauelementen, auf die Verbraucher, den Wettbewerb und das Funktionieren des Binnenmarkts analysiert werden. Spätestens ein Jahr danach wird die Kommission dem Europäischen Parlament und dem Rat die zur Vollendung des Binnenmarkts in bezug auf Bauelemente von komplexen Erzeugnissen notwendigen Änderung …
+
+Umsetzung im EPGÜ: [Art. 37 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Revisionsklausel: führte über den Vorschlag von 2004 (Reparaturklausel) und die Evaluierung 2020 schließlich zur Neufassung durch die Richtlinie (EU) 2024/2823.
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 19 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071) (Umsetzung)?
+
+**A:** Umsetzung
+
+Die Mitgliedstaaten setzen die Rechts- und Verwaltungsvorschriften, die erforderlich sind, um dieser Richtlinie bis zum 28. Oktober 2001 nachzukommen, in Kraft. Wenn die Mitgliedstaaten diese Vorschriften erlassen, nehmen sie in den Vorschriften selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf diese Richtlinie Bezug. Die Mitgliedstaaten regeln die Einzelheiten der Bezugnahme.
+
+Umsetzung im EPGÜ: [Art. 36 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823)
+
+Hinweis: Umsetzungsfrist 28.10.2001; Deutschland setzte mit dem Geschmacksmusterreformgesetz vom 12.3.2004 (in Kraft 1.6.2004) um. Für Altmuster gelten die alten Schutzvoraussetzungen ([§ 72 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__72.html)).
+
+*Tags: Designrecht, DesignRL*
+
+---
+
+**F:** Was regelt [Art. 1 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Anwendungsbereich)?
+
+**A:** Anwendungsbereich
+
+Diese Richtlinie gilt für:
+a) die bei den Zentralbehörden für den gewerblichen Rechtsschutz der Mitgliedstaaten eingetragenen Designs;
+b) die beim Benelux-Amt für geistiges Eigentum eingetragenen Designs;
+c) die mit Wirkung für einen Mitgliedstaat international eingetragenen Designs;
+d) die Anmeldungen der unter den Buchstaben a, b und c genannten Designs.
+
+Entspricht: [Art. 2 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Anwendungsbereich wie bisher; die Neufassung erfasst ausdrücklich auch die Anmeldungen.
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 2 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Begriffsbestimmungen)?
+
+**A:** Begriffsbestimmungen
+
+Für die Zwecke dieser Richtlinie bezeichnet der Ausdruck:
+1. „Amt“ die Zentralbehörde eines Mitgliedstaats für den gewerblichen Rechtsschutz oder das Benelux-Amt für geistiges Eigentum, die bzw. das mit der Eintragung von Designs betraut ist;
+2. „Register“ das von einem Amt geführte Designregister;
+3. „Design“ die Erscheinungsform eines Erzeugnisses oder eines Teils davon, die sich aus den Merkmalen, insbesondere den Linien, Konturen, Farben, der Gestalt, Oberflächenstruktur und/oder den Werkstoffen des Erzeugnisses selbst und/oder seiner Verzierung ergibt, einschließlich der Bewegung, der Zus …
+
+Entspricht: [Art. 1 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Neue Begriffe: „Design“ statt „Muster“, erstmals ausdrücklich auch Bewegung, Übergänge und Animation als Merkmale (Nr. 3: Erscheinungsform „einschließlich der Bewegung, des Übergangs oder jeder anderen Art von Animation“); Erzeugnis umfasst auch nicht körperliche Gegenstände, grafische Benutzeroberflächen und räumliche Anordnungen (Nr. 4). Muss bis 9.12.2027 in [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) umgesetzt werden.
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 3 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Schutzvoraussetzungen)?
+
+**A:** Schutzvoraussetzungen
+
+Die Mitgliedstaaten schützen Designs ausschließlich durch Eintragung dieser Designs und gewähren ihren Inhabern nach Maßgabe dieser Richtlinie ausschließliche Rechte.
+
+Entspricht: [Art. 3 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Schutzvoraussetzungen unverändert (Neuheit, Eigenart, Sichtbarkeit von Bauelementen); Begriff „übliche Verwendung“ statt „bestimmungsgemäße Verwendung“. Erwägungsgründe stellen klar, dass Merkmale nicht in jedem Moment sichtbar sein müssen.
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 7 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Durch ihre technische Funktion bedingte Designs und Designs von Verbindungselementen)?
+
+**A:** Durch ihre technische Funktion bedingte Designs und Designs von Verbindungselementen
+
+Ein Design besteht nicht an Erscheinungsmerkmalen eines Erzeugnisses, die ausschließlich durch dessen technische Funktion bedingt sind.
+
+Entspricht: [Art. 7 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Technische Bedingtheit unverändert; Erwägungsgrund 16 übernimmt EuGH DOCERAM (objektive Prüfung, Mehrheit-der-Formen ist nur ein Indiz).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 15 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Gegenstand des Schutzes)?
+
+**A:** Gegenstand des Schutzes
+
+Schutz wird für diejenigen Erscheinungsmerkmale eines eingetragenen Designs gewährt, die in der Anmeldung sichtbar wiedergegeben sind.
+
+Hinweis: Neu: Gegenstand des Schutzes sind die in der Anmeldung sichtbar wiedergegebenen Merkmale (bisher nur [§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html) national, jetzt harmonisiert).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 16 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Rechte aus dem Design)?
+
+**A:** Rechte aus dem Design
+
+Die Eintragung eines Designs gewährt seinem Inhaber das ausschließliche Recht, es zu benutzen und Dritten zu verbieten, es ohne die Zustimmung des Inhabers zu benutzen.
+
+Entspricht: [Art. 12 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Rechte aus dem Design: neu ausdrücklich das Erstellen, Herunterladen, Kopieren und Weitergeben von Dateien zur Herstellung des Erzeugnisses (3D-Druck, Abs. 2 lit. d) und das Verbot der Durchfuhr von Waren aus Drittstaaten (Abs. 3) wie im Markenrecht.
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 17 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Vermutung der Rechtsgültigkeit)?
+
+**A:** Vermutung der Rechtsgültigkeit
+
+In Verletzungsverfahren wird zugunsten des Inhabers des eingetragenen Designs davon ausgegangen, dass die in den Artikeln 3 bis 8 festgelegten Voraussetzungen für die Rechtsgültigkeit eines eingetragenen Designs erfüllt sind und dass das Design nicht unter Verstoß gegen Artikel 13 Absatz 1 Buchstabe c eingetragen wurde.
+
+Hinweis: Vermutung der Rechtsgültigkeit des eingetragenen Designs (bisher nur [§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html) national).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 18 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Beschränkung der Rechte aus dem Design)?
+
+**A:** Beschränkung der Rechte aus dem Design
+
+Die Rechte aus einem Design nach seiner Eintragung können nicht geltend gemacht werden in Bezug auf
+a) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden;
+b) Handlungen zu Versuchszwecken;
+c) Wiedergaben zum Zweck der Zitierung oder der Lehre;
+d) Handlungen, die vorgenommen werden, um ein Erzeugnis als das des Inhabers des Designs zu identifizieren oder sich auf dieses zu beziehen;
+e) Handlungen zu Zwecken der Kommentierung, Kritik oder Parodie;
+f) Einrichtungen in Schiffen und Luftfahrzeugen, die in einem anderen Land zugelassen sind und vorübergehend in das H …
+
+Entspricht: [Art. 13 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Schranken: neu ausdrücklich Handlungen zur Identifizierung oder Bezugnahme (Referenznutzung, Abs. 1 lit. d) sowie Kommentar, Kritik und Parodie (lit. e), jeweils unter dem Vorbehalt der Lauterkeit.
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Reparaturklausel)?
+
+**A:** Reparaturklausel
+
+Ein eingetragenes Design, das Bauelement eines komplexen Erzeugnisses ist, von dessen Erscheinungsform das Design des Bauelements abhängt und das im Sinne des Artikels 16 Absatz 1 ausschließlich zum Zweck der Reparatur dieses komplexen Erzeugnisses verwendet wird, um diesem wieder seine ursprüngliche Erscheinungsform zu verleihen, wird nicht geschützt.
+
+Entspricht: [Art. 14 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Reparaturklausel wird zwingend für alle Mitgliedstaaten: kein Schutz für formgebundene Bauelemente („must match“), die allein zur Reparatur des komplexen Erzeugnisses verwendet werden; Unterrichtungspflicht über den Ursprung (Abs. 2); Bestandsschutz für vor dem 8.12.2024 angemeldete Designs bis 9.12.2032 (Abs. 4). Deutschland: [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2020) genügt im Kern; [§ 73 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__73.html) muss mit dem Enddatum 2032 harmonisiert werden. Vorbild [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 20 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Erschöpfung der Rechte)?
+
+**A:** Erschöpfung der Rechte
+
+Die Rechte aus einem Design nach seiner Eintragung erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, in das ein in den Schutzumfang des Designs fallendes Design aufgenommen ist oder bei dem es verwendet wird, wenn das Erzeugnis vom Inhaber des Designs oder mit seiner Zustimmung in der Union in den Verkehr gebracht worden ist.
+
+Entspricht: [Art. 15 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Erschöpfung unverändert (unionsweit).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 21 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Vorbenutzungsrecht betreffend ein eingetragenes Design)?
+
+**A:** Vorbenutzungsrecht betreffend ein eingetragenes Design
+
+Ein Dritter hat ein Vorbenutzungsrecht, wenn er glaubhaft machen kann, dass er vor dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag innerhalb des betreffenden Mitgliedstaats ein in den Schutzumfang eines eingetragenen Designs fallendes Design, das keine Nachahmung jenes Designs ist, gutgläubig in Benutzung genommen oder wirkliche und ernsthafte Anstalten dazu getroffen hat.
+
+Hinweis: Neu harmonisiert: Vorbenutzungsrecht (bisher [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html) national, [Art. 22 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 23 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Verhältnis zum Urheberrecht)?
+
+**A:** Verhältnis zum Urheberrecht
+
+Ein nach Maßgabe dieser Richtlinie durch ein in einem oder mit Wirkung für einen Mitgliedstaat eingetragenes Design geschütztes Design ist auch nach dem Urheberrecht von dem Zeitpunkt an schutzfähig, an dem das Design geschaffen oder in irgendeiner Form festgelegt wurde, sofern die Anforderungen des Urheberrechts erfüllt sind.
+
+Entspricht: [Art. 17 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Kumulation mit dem Urheberrecht: Werk, wenn die urheberrechtlichen Voraussetzungen erfüllt sind (Kodifikation von EuGH Cofemel).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 24 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Eintragungssymbol)?
+
+**A:** Eintragungssymbol
+
+Der Inhaber eines eingetragenen Designs kann die Öffentlichkeit über die Eintragung des Designs informieren, indem er auf dem Erzeugnis, in das das Design aufgenommen oder bei dem es verwendet wird, den Buchstaben D innerhalb eines Kreises (Ⓓ)
+anbringt. Diesem Hinweis auf das Design kann die Eintragungsnummer des Designs beigefügt werden oder er kann mit der Registereintragung des Designs verlinkt werden.
+
+Hinweis: Eintragungssymbol: Ⓓ (D im Kreis) darf als Hinweis auf den Designschutz verwendet werden.
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 26 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Darstellung des Designs)?
+
+**A:** Darstellung des Designs
+
+Das Design ist in einer beliebigen Form visuell darzustellen, entweder in Schwarz-Weiß oder in Farbe. Die Wiedergabe kann statisch, dynamisch oder animiert sein und erfolgt mit allen geeigneten Mitteln unter Verwendung allgemein zugänglicher Technologien, einschließlich Zeichnungen, Fotografien, Videos, Computerbildgebung oder Computermodellierung.
+
+Hinweis: Darstellung des Designs: jede Form der visuellen Wiedergabe einschließlich Video und 3D-Modellen; Ämter müssen digitale Darstellungen akzeptieren; Verzicht auf Schutz einzelner sichtbarer Merkmale möglich (Disclaimer).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 27 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Sammelanmeldungen)?
+
+**A:** Sammelanmeldungen
+
+Mehrere Designs können in einer Sammelanmeldung für eingetragene Designs zusammengefasst werden. Diese Möglichkeit unterliegt nicht dem Erfordernis, dass alle Erzeugnisse, in die die Designs aufgenommen oder bei denen sie verwendet werden sollen, derselben Klasse der Locarno-Klassifikation angehören müssen.
+
+Hinweis: Sammelanmeldungen ohne Bindung an eine Warenklasse (so schon [§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html) seit 2014); Obergrenze bleibt dem nationalen Recht überlassen (Deutschland: 100).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 30 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Aufschiebung der Bekanntmachung)?
+
+**A:** Aufschiebung der Bekanntmachung
+
+Der Anmelder eines Designs kann mit der Anmeldung beantragen, die Bekanntmachung des eingetragenen Designs um bis zu 30 Monate ab dem Anmeldetag oder, wenn Priorität in Anspruch genommen wird, ab dem Prioritätstag aufzuschieben.
+
+Hinweis: Aufschiebung der Bekanntmachung: mindestens 30 Monate ab Anmeldetag ([§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html) entspricht).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 31 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Verfahren zur Erklärung der Nichtigkeit)?
+
+**A:** Verfahren zur Erklärung der Nichtigkeit
+
+Unbeschadet des Rechts der Parteien auf Einlegung von Rechtsmitteln bei einem Gericht können die Mitgliedstaaten für die Erklärung der Nichtigkeit des eingetragenen Designs ein effizientes und zügiges Verwaltungsverfahren bei ihren Ämtern bereitstellen.
+
+Hinweis: Nichtigkeitsverfahren: Mitgliedstaaten müssen ein effizientes Verwaltungsverfahren beim Amt vorsehen (in Deutschland seit 2014: [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 36 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung)?
+
+**A:** Umsetzung
+
+Die Mitgliedstaaten setzen die Rechts- und Verwaltungsvorschriften, die erforderlich sind, um den Artikeln 2 und 3, 6, 10 bis 19, 21, 23 bis 30 sowie 32 und 33 nachzukommen, bis zum 9. Dezember 2027 in Kraft. Sie teilen der Kommission unverzüglich den Wortlaut dieser Vorschriften mit.
+Bei Erlass dieser Vorschriften nehmen die Mitgliedstaaten in den Vorschriften selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf die vorliegende Richtlinie Bezug. In diese Vorschriften fügen sie die Erklärung ein, dass Bezugnahmen in den geltenden Rechts- und Verwaltungsvorschriften auf die du …
+
+Entspricht: [Art. 19 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
+
+Hinweis: Umsetzungsfrist 9.12.2027; die Richtlinie 98/71/EG wird mit diesem Tag aufgehoben (Art. 37).
+
+*Tags: Designrecht, DesignRL 2024*
+
+---
+
+**F:** Was regelt [Art. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Unionsgeschmacksmuster)?
+
+**A:** Unionsgeschmacksmuster
+
+Ein den Voraussetzungen dieser Verordnung entsprechendes Geschmacksmuster wird im Folgenden „Unionsgeschmacksmuster“ genannt.
+
+Hinweis: Zwei Schutzformen mit einheitlicher Wirkung in der ganzen Union (Abs. 3): nicht eingetragenes Unionsgeschmacksmuster kraft Offenbarung (Abs. 2 lit. a) und eingetragenes durch Eintragung beim EUIPO (lit. b). Seit 1.5.2025 „Unionsgeschmacksmuster“ statt „Gemeinschaftsgeschmacksmuster“ (Verordnung (EU) 2024/2822).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Begriffsbestimmungen)?
+
+**A:** Begriffsbestimmungen
+
+Für die Zwecke dieser Verordnung bezeichnet der Ausdruck
+1. „Geschmacksmuster“ die Erscheinungsform eines ganzen Erzeugnisses oder eines Teils davon, die sich aus den Merkmalen, insbesondere den Linien, Konturen, Farben, der Gestalt, Oberflächenstruktur und/oder den Werkstoffen des Erzeugnisses selbst und/oder seiner Verzierung ergibt, einschließlich der Bewegung, der Zustandsänderung oder jeder anderen Art der Animation dieser Merkmale;
+2. „Erzeugnis“ jeden industriellen oder handwerklichen Gegenstand, ausgenommen ein Computerprogramm, unabhängig davon, ob er in einem physischen Objekt verkör …
+
+Umsetzung im EPGÜ: [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html)
+
+Hinweis: Begriffe Geschmacksmuster, Erzeugnis, komplexes Erzeugnis wie [§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html); seit der Reform 2024 einschließlich Bewegung und Animation sowie nicht körperlicher Erzeugnisse.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 4 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Schutzvoraussetzungen)?
+
+**A:** Schutzvoraussetzungen
+
+Ein Geschmacksmuster wird durch ein Unionsgeschmacksmuster geschützt, wenn es neu ist und Eigenart hat.
+
+Umsetzung im EPGÜ: [§ 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html)
+
+Hinweis: Schutzvoraussetzungen Neuheit und Eigenart; Bauelemente nur bei Sichtbarkeit bei bestimmungsgemäßer Verwendung (Abs. 2, 3) = [§ 2 Abs. 1](https://www.gesetze-im-internet.de/markeng/__2.html), [§ 4 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__4.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Neuheit)?
+
+**A:** Neuheit
+
+Ein Geschmacksmuster gilt als neu, wenn der Öffentlichkeit:
+a) im Fall nicht eingetragener Unionsgeschmacksmuster vor dem Tag, an dem das Geschmacksmuster, das geschützt werden soll, erstmals der Öffentlichkeit zugänglich gemacht wird,
+b) im Fall eingetragener Unionsgeschmacksmuster vor dem Tag der Anmeldung zur Eintragung des Geschmacksmusters, das geschützt werden soll, oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag,
+kein identisches Geschmacksmuster zugänglich gemacht worden ist.
+
+Umsetzung im EPGÜ: [§ 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html)
+
+Hinweis: Neuheit: getrennte Stichtage für nicht eingetragene (erste Offenbarung) und eingetragene Muster (Anmelde- oder Prioritätstag) = [§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 6 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Eigenart)?
+
+**A:** Eigenart
+
+Ein Geschmacksmuster hat Eigenart, wenn sich der Gesamteindruck, den es beim informierten Benutzer hervorruft, von dem Gesamteindruck unterscheidet, den ein anderes Geschmacksmuster bei diesem Benutzer hervorruft, das der Öffentlichkeit zugänglich gemacht worden ist, und zwar:
+a) im Fall nicht eingetragener Unionsgeschmacksmuster vor dem Tag, an dem das Geschmacksmuster, das geschützt werden soll, erstmals der Öffentlichkeit zugänglich gemacht wird,
+b) im Fall eingetragener Unionsgeschmacksmuster vor dem Tag der Anmeldung zur Eintragung oder, wenn eine Priorität in Anspruch genommen wird, vor  …
+
+Umsetzung im EPGÜ: [§ 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html)
+
+Hinweis: Eigenart = [§ 2 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html). EuGH Karen Millen: Vergleich mit einzelnen vorbekannten Mustern, nicht mit einer Kombination; PepsiCo: informierter Benutzer.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Offenbarung)?
+
+**A:** Offenbarung
+
+Im Sinne der Artikel 5 und 6 gilt ein Geschmacksmuster als der Öffentlichkeit zugänglich gemacht, wenn es nach der Eintragung oder auf andere Weise bekannt gemacht, oder wenn es ausgestellt, im Verkehr verwendet oder auf sonstige Weise offenbart wurde, und zwar vor dem in Artikel 5 Absatz 1 Buchstabe a) und Artikel 6 Absatz 1 Buchstabe a) beziehungsweise in Artikel 5 Absatz 1 Buchstabe b) und Artikel 6 Absatz 1 Buchstabe b) genannten Zeitpunkt, es sei denn, dass dies den in der Union tätigen Fachkreisen des betreffenden Wirtschaftszweigs im normalen Geschäftsverlauf nicht bekannt sein konnte.  …
+
+Umsetzung im EPGÜ: [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html), [§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html)
+
+Hinweis: Offenbarung mit Fachkreisklausel (EuGH Gautzsch/Duna), Neuheitsschonfrist zwölf Monate (Abs. 2) = §§ [5](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html), [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html) DesignG. Für das nicht eingetragene Muster entsteht der Schutz erst mit Offenbarung in der Union (Art. 11; EuGH Gautzsch: Offenbarung außerhalb der Union genügt nicht für die Entstehung).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 8 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Durch ihre technische Funktion bedingte Geschmacksmuster und Geschmacksmuster von Verbindungselementen)?
+
+**A:** Durch ihre technische Funktion bedingte Geschmacksmuster und Geschmacksmuster von Verbindungselementen
+
+Ein Unionsgeschmacksmuster besteht nicht an Erscheinungsmerkmalen eines Erzeugnisses, die ausschließlich durch dessen technische Funktion bedingt sind.
+
+Umsetzung im EPGÜ: [§ 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html)
+
+Hinweis: Technisch bedingte Merkmale (EuGH DOCERAM), Verbindungselemente, modulare Systeme (EuG Lego) = [§ 3 Abs. 1 Nr. 1, 2](https://www.gesetze-im-internet.de/markeng/__3.html), Abs. 2 DesignG.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 9 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Geschmacksmuster, die gegen die öffentliche Ordnung oder gegen die guten Sitten verstoßen)?
+
+**A:** Geschmacksmuster, die gegen die öffentliche Ordnung oder gegen die guten Sitten verstoßen
+
+Ein Unionsgeschmacksmuster besteht nicht an einem Geschmacksmuster, wenn dieses gegen die öffentliche Ordnung oder gegen die guten Sitten verstößt.
+
+Umsetzung im EPGÜ: [§ 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html)
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Schutzumfang)?
+
+**A:** Schutzumfang
+
+Der Umfang des Schutzes aus dem Unionsgeschmacksmuster erstreckt sich auf jedes Geschmacksmuster, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt.
+
+Umsetzung im EPGÜ: [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)
+
+Hinweis: Schutzumfang wie [§ 38 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html); Gestaltungsfreiheit und Musterdichte bestimmen die Reichweite.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Schutzdauer des nicht eingetragenen Unionsgeschmacksmuster)?
+
+**A:** Schutzdauer des nicht eingetragenen Unionsgeschmacksmuster
+
+Ein Geschmacksmuster, das die im 1. Abschnitt genannten Voraussetzungen erfüllt, wird als ein nicht eingetragenes Unionsgeschmacksmuster für eine Frist von drei Jahren geschützt, beginnend mit dem Tag, an dem es der Union innerhalb der Gemeinschaft erstmals zugänglich gemacht wurde.
+
+Hinweis: Nicht eingetragenes Unionsgeschmacksmuster: drei Jahre ab erster Offenbarung in der Union; Schutz nur gegen Nachahmung (Art. 19 Abs. 2). EuGH Ferrari/Mansory: Offenbarung eines Gesamterzeugnisses kann Teile davon als eigenes Muster offenbaren, wenn sie klar erkennbar sind.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 12 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Schutzdauer des eingetragenen Unionsgeschmacksmusters)?
+
+**A:** Schutzdauer des eingetragenen Unionsgeschmacksmusters
+
+Der Schutz durch ein eingetragenes Unionsgeschmacksmuster entsteht mit der Eintragung durch das Amt.
+
+Umsetzung im EPGÜ: [§ 27 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html)
+
+Hinweis: Schutzdauer des eingetragenen Musters: fünf Jahre, verlängerbar bis 25 Jahre ab Anmeldetag ([§ 27 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__27.html)).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Recht auf das Unionsgeschmacksmuster)?
+
+**A:** Recht auf das Unionsgeschmacksmuster
+
+Das Recht auf das Unionsgeschmacksmuster steht dem Entwerfer oder seinem Rechtsnachfolger zu.
+
+Umsetzung im EPGÜ: [§ 7 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html)
+
+Hinweis: Recht auf das Unionsgeschmacksmuster: Entwerfer oder Rechtsnachfolger; Arbeitnehmermuster dem Arbeitgeber, sofern nicht anders vereinbart oder nationales Recht anderes bestimmt (Abs. 3) = [§ 7 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 15 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Geltendmachung der Berechtigung auf das Unionsgeschmacksmuster)?
+
+**A:** Geltendmachung der Berechtigung auf das Unionsgeschmacksmuster
+
+Wird ein nicht eingetragenes Unionsgeschmacksmuster von einer Person offenbart oder geltend gemacht, die hierzu nach Artikel 14 nicht berechtigt ist, oder ist ein Unionsgeschmacksmuster auf den Namen einer solchen Person angemeldet oder eingetragen worden, so kann die Person, die nach jenem Artikel berechtigt ist, unbeschadet anderer Rechtsbehelfe, die ihr offen stehen, vor dem zuständigen Gericht oder der zuständigen Behörde des betreffenden Mitgliedstaats verlangen, dass sie als rechtmäßiger Inhaber des Unionsgeschmacksmusters anerkannt wird.
+
+Umsetzung im EPGÜ: [§ 9 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html)
+
+Hinweis: Vindikation gegen den Nichtberechtigten binnen drei Jahren ab Bekanntmachung, außer bei Bösgläubigkeit = [§ 9 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__9.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 18a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Gegenstand des Schutzes)?
+
+**A:** Gegenstand des Schutzes
+
+Schutz wird für diejenigen Erscheinungsmerkmale eines eingetragenen Unionsgeschmacksmusters gewährt, die in der Anmeldung sichtbar wiedergegeben sind.
+
+Umsetzung im EPGÜ: [§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html)
+
+Hinweis: Gegenstand des Schutzes: die in der Anmeldung sichtbar wiedergegebenen Merkmale (neu 2024; [§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html)).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Rechte aus dem Unionsgeschmacksmuster)?
+
+**A:** Rechte aus dem Unionsgeschmacksmuster
+
+Ein eingetragenes Unionsgeschmacksmuster gewährt seinem Inhaber das ausschließliche Recht, es zu benutzen und Dritten zu verbieten, es ohne die Zustimmung des Inhabers zu benutzen.
+
+Umsetzung im EPGÜ: [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html)
+
+Hinweis: Rechte aus dem Muster: eingetragen = objektives Verbotsrecht (Abs. 1, 2, seit 2024 auch 3D-Druck-Dateien und Durchfuhr, Abs. 3); nicht eingetragen = nur gegen Nachahmung, mit Vermutung, wenn der Entwerfer das Muster kennen konnte (Abs. 4). Während der Aufschiebung nur Nachahmungsschutz (Abs. 5) = [§ 38 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__38.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 20 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Beschränkung der Rechte aus einem Unionsgeschmacksmuster)?
+
+**A:** Beschränkung der Rechte aus einem Unionsgeschmacksmuster
+
+Die Rechte aus einem Unionsgeschmacksmuster können nicht geltend gemacht werden in Bezug auf
+a) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden;
+b) Handlungen zu Versuchszwecken;
+c) Wiedergaben zum Zweck der Zitierung oder der Lehre;
+d) Handlungen, die vorgenommen werden, um ein Erzeugnis als das des Inhabers des Geschmacksmusters zu identifizieren oder sich auf dieses zu beziehen;
+e) Handlungen zum Zweck der Kommentierung, Kritik oder Parodie;
+f) Einrichtungen in Schiffen und Luftfahrzeugen, die in einem Drittland zugelassen sind und vorübergehend in das Ge …
+
+Umsetzung im EPGÜ: [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html)
+
+Hinweis: Schranken wie [§ 40 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40.html), seit 2024 zusätzlich Referenznutzung sowie Kommentar, Kritik und Parodie (Abs. 1 lit. d, e). EuGH Nintendo/BigBen zur Zitierschranke.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Reparaturklausel)?
+
+**A:** Reparaturklausel
+
+Ein Unionsgeschmacksmuster, das Bauelement eines komplexen Erzeugnisses ist, von dessen Erscheinungsform das Geschmacksmuster des Bauelements abhängt, und das im Sinne des Artikels 19 Absatz 1 ausschließlich zum Zweck der Reparatur dieses komplexen Erzeugnisses verwendet wird, um diesem wieder seine ursprüngliche Erscheinungsform zu verleihen, wird nicht geschützt.
+
+Umsetzung im EPGÜ: [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html)
+
+Hinweis: Reparaturklausel (ersetzt die Übergangsregelung des früheren Art. 110): kein Schutz für formgebundene Bauelemente zur Reparatur komplexer Erzeugnisse; Unterrichtung der Verbraucher; Sorgfaltspflichten des Herstellers (EuGH Acacia/Audi und Porsche: keine Beschränkung auf formgebundene Teile nach altem Art. 110, aber Hinweis- und Sorgfaltspflichten). Nationales Pendant [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 21 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Erschöpfung der Rechte)?
+
+**A:** Erschöpfung der Rechte
+
+Die Rechte aus einem Unionsgeschmacksmuster erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, in das ein in den Schutzumfang des Unionsgeschmacksmusters fallendes Geschmacksmuster aufgenommen oder bei dem es verwendet wird, wenn das Erzeugnis vom Inhaber des Unionsgeschmacksmusters oder mit dessen Zustimmung im Europäischen Wirtschaftsraum (EWR) in den Verkehr gebracht worden ist.
+
+Umsetzung im EPGÜ: [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html)
+
+Hinweis: Erschöpfung unionsweit = [§ 48 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__48.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 22 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Vorbenutzungsrecht betreffend das eingetragene Unionsgeschmacksmuster)?
+
+**A:** Vorbenutzungsrecht betreffend das eingetragene Unionsgeschmacksmuster
+
+Ein Dritter, der glaubhaft machen kann, dass er vor dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag, innerhalb der Union ein in den Schutzumfang eines eingetragenen Unionsgeschmacksmusters fallendes Geschmacksmuster, das diesem nicht nachgeahmt wurde, gutgläubig in Benutzung genommen oder wirkliche und ernsthafte Anstalten dazu getroffen hat, hat ein Vorbenutzungsrecht.
+
+Umsetzung im EPGÜ: [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html)
+
+Hinweis: Vorbenutzungsrecht = [§ 41 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__41.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 24 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Erklärung der Nichtigkeit)?
+
+**A:** Erklärung der Nichtigkeit
+
+Ein eingetragenes Unionsgeschmacksmuster wird auf Antrag beim Amt nach dem Verfahren gemäß Titel VI und Titel VII oder von einem Unionsgeschmacksmustergericht auf Widerklage im Verletzungsverfahren für nichtig erklärt.
+
+Hinweis: Nichtigerklärung: eingetragenes Muster durch das EUIPO (Antrag, Art. 52) oder auf Widerklage vor dem Unionsgeschmacksmustergericht; nicht eingetragenes nur durch Widerklage oder Einrede.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Nichtigkeitsgründe)?
+
+**A:** Nichtigkeitsgründe
+
+Ein Unionsgeschmacksmuster kann nur in folgenden Fällen für nichtig erklärt werden:
+a) es liegt kein Unionsgeschmacksmuster im Sinne von Artikel 3 Nummer 1 vor,
+b) das Unionsgeschmacksmuster erfüllt die Schutzvoraussetzungen der Artikel 4 bis 9 nicht,
+c) entsprechend einer Entscheidung des zuständigen Gerichts oder der zuständigen Behörde ist der Rechtsinhaber nicht zu dem Unionsgeschmacksmuster im Rahmen von Artikel 14 berechtigt,
+d) das Unionsgeschmacksmuster kollidiert mit einem früheren Geschmacksmuster, das der Öffentlichkeit vor oder nach dem Anmeldetag oder, wenn eine Priorität in Anspr …
+
+Umsetzung im EPGÜ: [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), [§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html)
+
+Hinweis: Nichtigkeitsgründe: kein Muster, Art. 4 bis 9 nicht erfüllt, Nichtberechtigung, älteres Muster, Zeichen mit Unterscheidungskraft, Urheberrecht, Hoheitszeichen; Antragsbefugnis (Abs. 2 bis 4); Aufrechterhaltung in geänderter Form (Abs. 6) = [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 26a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Eintragungssymbol)?
+
+**A:** Eintragungssymbol
+
+Der Inhaber eines eingetragenen Unionsgeschmacksmusters kann die Öffentlichkeit über die Eintragung des Geschmacksmusters informieren, indem er auf dem Erzeugnis, in das das Geschmacksmuster aufgenommen oder bei dem es verwendet wird, den Buchstaben D innerhalb eines Kreises anbringt. Diesem Hinweis auf das Geschmacksmuster kann die Eintragungsnummer des Geschmacksmusters beigefügt werden oder er kann mit der Eintragung des Geschmacksmusters in das Register verlinkt werden.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 32 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Lizenz)?
+
+**A:** Lizenz
+
+Das Unionsgeschmacksmuster kann für das gesamte Gebiet oder einen Teil der Union Gegenstand von Lizenzen sein. Eine Lizenz kann ausschließlich oder nicht ausschließlich sein.
+
+Umsetzung im EPGÜ: [§ 31 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 35 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Einreichung der Anmeldung)?
+
+**A:** Einreichung der Anmeldung
+
+Die Anmeldung eines Unionsgeschmacksmusters ist beim Amt einzureichen.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 36 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Erfordernisse der Anmeldung)?
+
+**A:** Erfordernisse der Anmeldung
+
+Die Anmeldung eines Unionsgeschmacksmusters muss Folgendes enthalten:
+a) einen Antrag auf Eintragung;
+b) Angaben, die es erlauben, die Identität des Anmelders festzustellen;
+c) eine hinreichend klare Wiedergabe des Geschmacksmusters, die es ermöglicht, den Gegenstand, für den Schutz beansprucht wird, zu bestimmen.
+
+Umsetzung im EPGÜ: [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html)
+
+Hinweis: Erfordernisse der Anmeldung beim EUIPO: Antrag, Anmelder, Wiedergabe, Erzeugnisangabe; Erzeugnisangabe ohne Einfluss auf den Schutzumfang (Abs. 6) = [§ 11 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__11.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 37 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Sammelanmeldungen)?
+
+**A:** Sammelanmeldungen
+
+In einer Sammelanmeldung von Unionsgeschmacksmustern können höchstens 50 Geschmacksmuster zusammengefasst werden. Jedes Geschmacksmuster einer Sammelanmeldung wird vom Amt nach einem von seinem Exekutivdirektor festzulegenden System nummeriert.
+
+Umsetzung im EPGÜ: [§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html)
+
+Hinweis: Sammelanmeldung ohne Klassenbindung (seit 2024; zuvor Einheitlichkeit der Klasse), Obergrenze 50 Muster = [§ 12 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__12.html) (100).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 38 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Anmeldetag)?
+
+**A:** Anmeldetag
+
+Der Anmeldetag eines Unionsgeschmacksmusters ist der Tag, an dem die Unterlagen mit den Angaben nach Artikel 36 Absatz 1 vom Anmelder beim Amt eingereicht worden sind, sofern innerhalb eines Monats nach Einreichung der genannten Unterlagen die in Artikel 36 Absatz 4 und Artikel 37 Absatz 2 genannten Anmeldegebühren entrichtet werden.
+
+Umsetzung im EPGÜ: [§ 13 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html)
+
+Hinweis: Anmeldetag = Eingang der Mindestunterlagen beim Amt = [§ 13 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 41 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Prioritätsrecht)?
+
+**A:** Prioritätsrecht
+
+Jede Person, die in einem oder mit Wirkung für einen Vertragsstaat der Pariser Verbandsübereinkunft oder des Übereinkommens zur Errichtung der Welthandelsorganisation ein Geschmacksmuster oder ein Gebrauchsmusters vorschriftsmäßig angemeldet hat, oder ihr Rechtsnachfolger genießt hinsichtlich der Anmeldung eines Unionsgeschmacksmusters für dieses Geschmacksmuster oder Gebrauchsmuster ein Prioritätsrecht für einen Zeitraum von sechs Monaten nach dem Tag der ersten Anmeldung.
+
+Umsetzung im EPGÜ: [§ 14 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html)
+
+Hinweis: Priorität nach der PVÜ: sechs Monate = [§ 14 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__14.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 45 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Prüfung der Formerfordernisse für die Anmeldung)?
+
+**A:** Prüfung der Formerfordernisse für die Anmeldung
+
+Das Amt prüft, ob die Anmeldung eines Unionsgeschmacksmusters den in Artikel 38 aufgeführten Anforderungen für die Zuerkennung eines Anmeldetags genügt.
+
+Umsetzung im EPGÜ: [§ 16 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__16.html)
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 47 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Eintragungshindernisse)?
+
+**A:** Eintragungshindernisse
+
+Stellt das Amt bei der Prüfung nach Artikel 45 fest, dass das Geschmacksmuster, für das Schutz beantragt wird, nicht der Begriffsbestimmung nach Artikel 3 Nummer 1 entspricht, dass es gegen die öffentliche Ordnung oder die guten Sitten verstößt oder dass es — da die zuständigen Behörden der Eintragung nicht zugestimmt haben — eine missbräuchliche Benutzung eines der in Artikel 6 der Pariser Verbandsübereinkunft aufgeführten Zeichen oder von Abzeichen, Emblemen und Wappen darstellt, die nicht im Artikel 6 jenes Übereinkommens erfasst sind und die für einen Mitgliedstaat von öffentlichem Interes …
+
+Umsetzung im EPGÜ: [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html)
+
+Hinweis: Eintragungshindernisse, die das EUIPO prüft: kein Muster, Verstoß gegen ordre public = [§ 18 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__18.html); keine Prüfung der Neuheit und Eigenart.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 50 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Aufgeschobene Bekanntmachung)?
+
+**A:** Aufgeschobene Bekanntmachung
+
+Der Anmelder eines Unionsgeschmacksmusters kann mit der Anmeldung beantragen, die Bekanntmachung des eingetragenen Unionsgeschmacksmusters um bis zu 30 Monate ab dem Anmeldetag oder, wenn Priorität in Anspruch genommen wird, ab dem Prioritätstag, aufzuschieben.
+
+Umsetzung im EPGÜ: [§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html)
+
+Hinweis: Aufschiebung der Bekanntmachung um 30 Monate = [§ 21 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__21.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 52 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Antrag auf Nichtigerklärung)?
+
+**A:** Antrag auf Nichtigerklärung
+
+Vorbehaltlich des Artikels 25 Absätze 2 bis 5 kann jede natürliche oder juristische Person sowie eine hierzu befugte Behörde beim Amt einen Antrag auf Nichtigerklärung eines eingetragenen Unionsgeschmacksmusters stellen.
+
+Umsetzung im EPGÜ: [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html), [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)
+
+Hinweis: Antrag auf Nichtigerklärung beim EUIPO: jedermann für absolute Gründe, Rechtsinhaber für relative = [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Unionsgeschmacksmustergericht)?
+
+**A:** Unionsgeschmacksmustergericht
+
+Die Mitgliedstaaten benennen für ihr Gebiet eine möglichst geringe Anzahl nationaler Gerichte erster und zweiter Instanz ( Unionsgeschmacksmustergericht ), die die ihnen durch diese Verordnung zugewiesenen Aufgaben wahrnehmen.
+
+Umsetzung im EPGÜ: [§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html), [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)
+
+Hinweis: Unionsgeschmacksmustergerichte der Mitgliedstaaten (Deutschland: Landgerichte, [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)) für Verletzungsklagen und Nichtigkeitswiderklagen.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 81 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Zuständigkeit für Verletzung und Rechtsgültigkeit)?
+
+**A:** Zuständigkeit für Verletzung und Rechtsgültigkeit
+
+Die Unionsgeschmacksmustergericht sind ausschließlich zuständig:
+a) für Klagen wegen Verletzung und — falls das nationale Recht dies zulässt — wegen drohender Verletzung eines Unionsgeschmacksmusters ;
+b) für Klagen auf Feststellung der Nichtverletzung von Unionsgeschmacksmuster , falls das nationale Recht diese zulässt;
+c) für Klagen auf Erklärung der Nichtigkeit eines nicht eingetragenen Unionsgeschmacksmusters ;
+d) für Widerklagen auf Erklärung der Nichtigkeit eines Unionsgeschmacksmusters , die im Zusammenhang mit den unter Buchstabe a) genannten Klagen erhoben werden.
+
+Umsetzung im EPGÜ: [§ 52 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html)
+
+Hinweis: Ausschließliche Zuständigkeit der Unionsgeschmacksmustergerichte für Verletzungsklagen, negative Feststellungsklagen und Nichtigkeitswiderklagen (auch beim nicht eingetragenen Muster).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Internationale Zuständigkeit)?
+
+**A:** Internationale Zuständigkeit
+
+Vorbehaltlich der Vorschriften der vorliegenden Verordnung sowie der nach Artikel 79 der vorliegenden Verordnung anzuwendenden Bestimmungen der Verordnung (EU) Nr. 1215/2012 liegt die Zuständigkeit für die Verfahren, die durch eine in Artikel 81 der vorliegenden Verordnung genannte Klage oder Widerklage anhängig gemacht werden, bei den Gerichten des Mitgliedstaats, in dem der Beklagte ansässig oder — sofern der Beklagte in keinem Mitgliedstaat ansässig ist — bei den Gerichten in einem der Mitgliedstaaten, in denen der Beklagte niedergelassen ist.
+
+Umsetzung im EPGÜ: [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)
+
+Hinweis: Internationale Zuständigkeit: Wohnsitz oder Niederlassung des Beklagten, hilfsweise des Klägers, hilfsweise Spanien (Sitz des EUIPO); alternativ Verletzungsort (Abs. 5) mit auf den Staat beschränkter Reichweite (Art. 83 Abs. 2).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Reichweite der Zuständigkeit für Verletzungen)?
+
+**A:** Reichweite der Zuständigkeit für Verletzungen
+
+Ein Unionsgeschmacksmustergericht , dessen Zuständigkeit auf Artikel 82 Absätze 1, 2, 3 oder 4 beruht, ist für die in jedem Mitgliedstaat begangenen oder drohenden Verletzungshandlungen zuständig.
+
+Umsetzung im EPGÜ: [§ 63 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63.html)
+
+Hinweis: Reichweite: Sitzgerichtsstand unionsweit, Verletzungsortgerichtsstand nur für den eigenen Staat. EuGH Nintendo/BigBen: bei mehreren Beklagten im Gerichtsstand der Streitgenossenschaft unionsweite Anordnungen.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 84 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Klage und Widerklage auf Erklärung der Nichtigkeit eines Unionsgeschmacksmusters)?
+
+**A:** Klage und Widerklage auf Erklärung der Nichtigkeit eines Unionsgeschmacksmusters
+
+Eine Klage oder Widerklage auf Erklärung der Nichtigkeit eines Unionsgeschmacksmusters kann nur auf die in Artikel 25 genannten Nichtigkeitsgründe gestützt werden.
+
+Umsetzung im EPGÜ: [§ 52b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)
+
+Hinweis: Widerklage auf Nichtigerklärung nur auf die Gründe des Art. 25; Popularwiderklage bei absoluten Gründen.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 85 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Vermutung der Rechtsgültigkeit — Einreden)?
+
+**A:** Vermutung der Rechtsgültigkeit — Einreden
+
+In Verfahren betreffend eine Verletzungsklage oder eine Klage wegen drohender Verletzung eines eingetragenen Unionsgeschmacksmusters haben die Unionsgeschmacksmustergericht von der Rechtsgültigkeit des Unionsgeschmacksmusters auszugehen. Die Rechtsgültigkeit kann vom Beklagten nur mit einer Widerklage auf Erklärung der Nichtigkeit bestritten werden. Allerdings ist der nicht im Wege der Widerklage erhobene Einwand der Nichtigkeit eines Unionsgeschmacksmusters insoweit zulässig, als sich der Beklagte darauf beruft, dass das Unionsgeschmacksmuster wegen eines ihm zustehenden älteren nationalen Mu …
+
+Umsetzung im EPGÜ: [§ 39 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__39.html), [§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html)
+
+Hinweis: Vermutung der Rechtsgültigkeit: eingetragenes Muster nur durch Widerklage angreifbar (Abs. 1); nicht eingetragenes: Kläger muss Offenbarung und Eigenart darlegen, Beklagter kann Nichtigkeit einredeweise geltend machen (Abs. 2; EuGH Karen Millen). = [§ 39](https://www.gesetze-im-internet.de/markeng/__39.html), [§ 52a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52a.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 86 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Entscheidungen über die Nichtigkeit)?
+
+**A:** Entscheidungen über die Nichtigkeit
+
+In Verfahren vor einem Unionsgeschmacksmustergericht, in dem die Rechtsgültigkeit des Unionsgeschmacksmusters mit einer Widerklage auf Nichtigerklärung angegriffen wurde:
+a) erklärt das Gericht das Unionsgeschmacksmuster für nichtig, wenn nach seinen Feststellungen einer der in Artikel 25 genannten Gründe der Aufrechterhaltung des Unionsgeschmacksmusters entgegensteht;
+b) weist das Gericht die Widerklage ab, wenn nach seinen Feststellungen keiner der in Artikel 25 genannten Gründe der Aufrechterhaltung des Unionsgeschmacksmusters entgegensteht.
+
+Umsetzung im EPGÜ: [§ 52b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__52b.html)
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Anwendbares Recht)?
+
+**A:** Anwendbares Recht
+
+Die Unionsgeschmacksmustergericht wenden die Vorschriften dieser Verordnung an.
+
+Umsetzung im EPGÜ: [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)
+
+Hinweis: Anwendbares Recht: die Verordnung, ergänzend das nationale Recht des Gerichtsstaats einschließlich IPR (Abs. 2). EuGH Acacia/BMW: für Folgeansprüche (Auskunft, Schadensersatz, Vernichtung) gilt über Art. 8 Abs. 2 Rom II das Recht des Staates, in dem die Verletzungshandlung begangen wurde; bei Klage im Verletzungsstaat also dessen Recht ([§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html)).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Sanktionen bei Verletzungsverfahren)?
+
+**A:** Sanktionen bei Verletzungsverfahren
+
+Stellt ein Unionsgeschmacksmustergericht fest, dass der Beklagte ein Unionsgeschmacksmuster verletzt hat oder zu verletzen droht, so verbietet es dem Beklagten, die Handlungen, die das Unionsgeschmacksmuster verletzen oder zu verletzen drohen, fortzusetzen, sofern einer solchen Anordnung nicht besondere Gründe entgegenstehen. Es trifft ferner nach Maßgabe seines nationalen Rechts die erforderlichen Maßnahmen, um sicherzustellen, dass dieses Verbot befolgt wird.
+
+Umsetzung im EPGÜ: [§ 42 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html)
+
+Hinweis: Sanktionen: Unterlassung direkt aus der Verordnung (Abs. 1 lit. a), Beschlagnahme, Vernichtung; weitere Sanktionen nach nationalem Recht (lit. d) = [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html) mit [§§ 42 ff. DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 90 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Einstweilige Maßnahmen einschließlich Sicherungsmaßnahmen)?
+
+**A:** Einstweilige Maßnahmen einschließlich Sicherungsmaßnahmen
+
+Bei den Gerichten eines Mitgliedstaats — einschließlich der Unionsgeschmacksmustergerichte — können in Bezug auf ein Unionsgeschmacksmuster alle einstweiligen Maßnahmen einschließlich Sicherungsmaßnahmen beantragt werden, die in dem Recht dieses Staates für nationale Musterrechte vorgesehen sind, auch wenn für die Entscheidung in der Hauptsache aufgrund dieser Verordnung ein Unionsgeschmacksmustergericht eines anderen Mitgliedstaats zuständig ist.
+
+Hinweis: Einstweilige Maßnahmen bei den Gerichten aller Mitgliedstaaten; unionsweite Wirkung nur beim nach Art. 82 Abs. 1 bis 4 zuständigen Gericht (Abs. 3).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 91 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Besondere Vorschriften über im Zusammenhang stehende Verfahren)?
+
+**A:** Besondere Vorschriften über im Zusammenhang stehende Verfahren
+
+Ist vor einem Unionsgeschmacksmustergericht eine Klage im Sinne des Artikels 81 — mit Ausnahme einer Klage auf Feststellung der Nichtverletzung — erhoben worden, so setzt es das Verfahren, soweit keine besonderen Gründe für dessen Fortsetzung bestehen, von Amts wegen nach Anhörung der Parteien oder auf Antrag einer Partei nach Anhörung der anderen Parteien aus, wenn die Rechtsgültigkeit des Unionsgeschmacksmusters bereits aufgrund einer Widerklage vor einem anderen Unionsgeschmacksmustergericht angegriffen worden ist oder wenn beim Amt bereits ein Antrag auf Erklärung der Nichtigkeit des einge …
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 96 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Verhältnis zu anderen Schutzformen nach nationalem Recht)?
+
+**A:** Verhältnis zu anderen Schutzformen nach nationalem Recht
+
+Diese Verordnung lässt Bestimmungen des Unionsrechts und des Rechts der betreffenden Mitgliedstaaten über nicht eingetragene Muster, Marken oder sonstige Zeichen mit Unterscheidungskraft, Patente und Gebrauchsmuster, Schriftbilder, zivilrechtliche Haftung und unlauteren Wettbewerb unberührt.
+
+Umsetzung im EPGÜ: [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html)
+
+Hinweis: Verhältnis zu anderen Schutzformen (nationales Design, Marke, Patent, Urheberrecht, unlauterer Wettbewerb) = [§ 50 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__50.html); Kumulation mit dem Urheberrecht (Abs. 2; EuGH Cofemel).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 106a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Anwendung der Bestimmungen)?
+
+**A:** Anwendung der Bestimmungen
+
+Sofern in diesem Titel nichts anderes vorgesehen ist, gelten diese Verordnung und alle sie betreffenden, gemäß Artikel 109 angenommenen Durchführungsverordnungen sinngemäß für Eintragungen gewerblicher Muster und Modelle nach der Genfer Akte im beim Internationalen Büro der Weltorganisation für geistiges Eigentum geführten internationalen Register (im Folgenden „internationale Eintragung“ bzw. „Internationales Büro“ genannt), in denen die Union benannt ist.
+
+Umsetzung im EPGÜ: [§ 66 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__66.html)
+
+Hinweis: Internationale Eintragungen nach der Genfer Akte des Haager Abkommens mit Benennung der EU wirken wie Anmeldungen beim EUIPO; Schutzverweigerung binnen sechs Monaten (Art. 106e).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 110a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Bestimmungen über die Erweiterung der Gemeinschaft)?
+
+**A:** Bestimmungen über die Erweiterung der Gemeinschaft
+
+Ab dem Tag des Beitritts Bulgariens, der Tschechischen Republik, Estlands, Kroatiens Zyperns, Lettlands, Litauens, Ungarns, Maltas, Polens, Rumäniens, Sloweniens und der Slowakei (im Folgenden „neuer Mitgliedstaat“ oder „neue Mitgliedstaaten“) wird ein vor dem jeweiligen Tag des Beitritts gemäß dieser Verordnung geschütztes oder angemeldetes Unionsgeschmacksmuster auf das Hoheitsgebiet dieser Mitgliedstaaten erstreckt, damit es dieselbe Wirkung in der gesamten Union hat.
+
+Hinweis: Erweiterung der Union: Muster gelten auch in neuen Mitgliedstaaten; kein Angriff wegen dort älterer Rechte, Weiterbenutzung dort möglich.
+
+*Tags: Designrecht, GGV*
 
 ---

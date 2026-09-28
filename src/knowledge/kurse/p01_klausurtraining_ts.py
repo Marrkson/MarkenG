@@ -11,7 +11,7 @@ Zitierweise: § 3 PatG, § 6 PatKostG, Art. II § 6 IntPatÜG; GebrMG-Vorschrift
 from ._helpers import intro, schema, fall, mc
 
 KURS = dict(
-    id="p01", gebiet="patg", titel="Klausurtraining TS", untertitel="Patentanwaltsprüfung: Anmeldung, Einspruch, Nichtigkeit, Beschwerde",
+    id="p01", gebiet="patent", reihe="Verfahren und Klausur", titel="Klausurtraining TS", untertitel="Patentanwaltsprüfung: Anmeldung, Einspruch, Nichtigkeit, Beschwerde",
     farbe="#2f6b4f", icon="hammer",
     beschreibung="Die Rechtsfragen der TS-Klausuren 2018 bis 2025 als Kurzfälle: Anmeldetag und Gebühren, Priorität, Teilung und Abzweigung, Neuheit und Vorbenutzung, Einspruch mit Zulässigkeit und Widerrufsgründen, Nichtigkeitsklage, Beschwerde und rechtliches Gehör, Verletzung und widerrechtliche Entnahme.",
     kapitel=[

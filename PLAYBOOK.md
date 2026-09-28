@@ -122,10 +122,11 @@ Prüfblöcke, die während der Erstellung in Bash ausgeführt wurden; sie prüfe
 
 ## 5. Kurse im Fallformat
 
-Ebene über den Kursen: Rechtsgebiete in `kurse/gebiete.py` (MarkenG, EU-Recht, Verfahren; geplant PatG, EPÜ,
-UPC, DesignG, ArbnErfG, BGB, UWG). Jeder Kurs trägt `gebiet=<id>`, der Import bricht bei unbekannter ID ab. Die App
-gruppiert die Kursliste danach und zeigt geplante Gebiete als „In Vorbereitung“. Neues Gebiet: Eintrag in
-`gebiete.py`, dann Kurse mit dieser ID anlegen; `geplant=True` entfernen, sobald der erste Kurs steht.
+Ebene über den Kursen: Rechtsgebiete in `kurse/gebiete.py`, genau fünf (EU und internationales Recht, Marken,
+Patent, DesignG, Einheitliches Patentgericht). Die App zeigt zuerst nur diese fünf als Auswahl (`#/kurse`), die
+Kurse eines Gebiets erst nach der Wahl (`#/kurse/<gebiet>`). Jeder Kurs trägt `gebiet=<id>`, der Import bricht bei
+unbekannter ID ab; optional `reihe="…"` für eine Zwischenüberschrift im Gebiet (z. B. „Verfahren und Klausur“ für
+die Klausurtrainings). Neue Inhalte werden einem der fünf Gebiete zugeordnet, kein sechstes anlegen.
 
 Didaktik: kleinste Einheit = ein Prüfungspunkt; kurzer Lebenssachverhalt mit Namen; eine Frage
 (Ja/Nein oder vier Optionen); sofortiges Feedback; Lösung im Gutachtenstil (Antwortsatz fett,
@@ -359,3 +360,42 @@ Einheiten mit `step:pat_schema_…` anhängen, Tabelle in `klausuren/README.md` 
 **Aktualisieren.** Neue Entscheidungen: `python3 tools/fetch_patent.py --no-net`; neue Gesetzesfassung: Zip in `~/.cache/ipelico/patent/`
 löschen und ohne `--no-net` laufen lassen, dann `PATG_TITEL` und die Hinweise auf neue oder gestrichene Paragraphen prüfen; danach `build.py`,
 Rauchtest (Routen `#/bpatg`, `#/karte/eunorm:patg:3`, `#/karte/eunorm:intpatueg:II§6` sind enthalten).
+
+## 13. Viertes Wissenspaket: Designrecht (DesignG, DesignV, DesignRL, DesignRL 2024, GGV, Design-Rechtsprechung)
+
+So wurde das Designpaket im September 2026 aufgenommen (`src/knowledge/design/`); es folgt dem Patentmuster aus Abschnitt 12.
+
+**Quellen.** `tools/fetch_design.py` nutzt den XML-Parser aus `fetch_patent.py` für DesignG (Slug `geschmmg_2004`, das Gesetz wurde 2014
+nur umbenannt) und DesignV (`designv`). Die EU-Texte kommen aus dem Cellar: Die Richtlinie 98/71/EG gibt es dort nur als zweispaltiges
+Amtsblatt-PDF (Antwort 300 mit Manifestationsliste, `…/DOC_1` mit `Accept: application/pdf`); das Skript extrahiert jede Seite links und
+rechts der Seitenmitte getrennt (`pdftotext -x/-W`), entfernt Kopfzeilen und Fußnoten und erkennt Artikel an alleinstehenden Zeilen
+„Artikel n“ mit folgender Titelzeile. Neuere Rechtsakte liefert der Cellar als XHTML (`Accept: application/xhtml+xml`, `Accept-Language: deu`):
+Richtlinie (EU) 2024/2823 (`32024L2823`) und die konsolidierte GGV (`02002R0006-20260701`; Änderungsmarken ►M2 … ◄ und Fußnotenanker
+werden entfernt, Gliederung aus `title-division`/`oj-ti-section`, Artikel aus `div.eli-subdivision[id^=art_]`). EUR-Lex-Adressen (`eli/…/pdf`,
+`legal-content/…/PDF`) liefern vom Rechner aus nur leere Hüllen (HTTP 202). Entscheidungen: `BpatgDecision` mit `category = 'design'` und
+`BghDecision` mit `category = 'design'` oder DesignG-/GeschmMG-Zitaten in `DeCourtNorm`; GeschmMG-Zitate ab 1.6.2004 werden dem DesignG
+zugeordnet (gleiche Zählung), ältere bleiben als `geschmmg_alt` reiner Text. EuGH-Entscheidungen stehen nicht in der Datenbank und werden
+per WebSearch (dejure, curia) verifiziert und mit der dejure-Vernetzungs-URL versehen (`cases.eu()`).
+
+**Modell.** Fünf Normfamilien in `build_graph.RICHTLINIEN`: `designg`, `designv` (Zitat `§`, `korpus="design"`), `designrl`, `designrl2024`,
+`ggv` (Zitat `Art.`). Zitierkürzel in `gesetze.py`: `DesignG`/`DesignV` in `LAWS` und `DE_NORM_KEYS`, `DesignRL`, `DesignRL 2024`
+(Kürzel mit Leerzeichen; die Regex-Alternation trägt das), `GGV`/`UGMV` in `EU_LAWS` und `EU_NORM_KEYS`. Brücken: `eurecht.UMSETZUNG_DESIGNRL`
+(DesignG `implements` DesignRL), `gesetze_texte.ENTSPRICHT_DESIGNG` (DesignG `entspricht` GGV), `ENTSPRICHT_DESIGNRL2024` (Neufassung
+`entspricht` Vorgängerartikel), `BEZUG_DESIGNV` (`konkretisiert`); die Durchsetzungsrichtlinie erzeugt build_graph aus
+`durchsetzungsrl.umsetzung_weitere["DesignG"]` (Schleife über PatG und DesignG). Der Korpus liegt als `docs/design_entscheidungen.json`
+neben der App; `kurs.html` kennt eine `KORPUS`-Map (patent, design), die Ansicht `#/bpatg/design` und `#/bpatg/norm/<id>` wählt die Datei
+nach `n.korpus`, `patRow` leitet die verlinkbaren Gesetze aus `meta.gesetze` und `LAW.dekeys` ab.
+
+**Inhalte.** Begriffe in acht Kategorien („Design: …“), fünf Schemata (`des_schema_schutzfaehigkeit`, `_designverletzung`,
+`_nichtigkeitsverfahren`, `_anmeldung`, `_unionsgeschmacksmuster`), sieben Tabellen. Die Anspruchsgrundlagentabelle
+`d_des_anspruchsgrundlagen_eu` (Spalten Unionsrecht, MarkenG, PatG, GebrMG, DesignG, UrhG, UMV/GGV, EPGÜ mit VerfO-Regeln) ist die
+gebietsübergreifende Ergänzung zu `d_durchsetzungsrl_umsetzung` (Artikel → Gesetz) und `d_upc_entsprechung_durchsetzungsrl`; Zellen werden
+spaltenweise mit `qualify` qualifiziert, Zellen mit gemischten Gesetzen tragen das Gesetz im Text. Gebührennummern der Designsachen
+(Nr. 341 000 ff., 342 100 ff., 346 000, 346 100, Beschwerde 401 300) immer am Gebührenverzeichnis in `data/patkostg.json` prüfen.
+Kurs `kurse/d01_designrecht.py` (Gebiet `designg`, automatisch eingesammelt wie die `u`-Kurse); Fälle folgen den Leitentscheidungen.
+
+**Aktualisieren.** Neue Entscheidungen: `python3 tools/fetch_design.py --no-net`. Neue Fassung von DesignG/DesignV oder eine neue
+GGV-Konsolidierung: Cache in `~/.cache/ipelico/design/` löschen (bei der GGV zusätzlich den CELEX-Stand in `EU` anpassen) und ohne `--no-net`
+laufen lassen. Nach Umsetzung der Richtlinie (EU) 2024/2823 (Frist 9.12.2027): Hinweise in `gesetze_texte.py` und `eurecht.py` sowie die
+Spalte „Richtlinie (EU) 2024/2823“ der Umsetzungstabelle anpassen, `designrl` behalten (Altfälle). Rauchtest enthält die Routen
+`#/bpatg/design`, `#/karte/eunorm:designg:2`, `#/karte/distinction:d_des_anspruchsgrundlagen_eu` (prüft EPGÜ-Spalte und VerfO-Links).

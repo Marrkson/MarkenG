@@ -396,6 +396,12 @@ const KURSE = JSON.parse(document.getElementById('kurse-data').textContent);
 const GEBIETE = JSON.parse(document.getElementById('gebiete-data').textContent); const GEB = new Map(GEBIETE.map(g=>[g.id,g]));
 const gebOf = k => GEB.get(k.gebiet)||{kurz:'',titel:''};
 const kurseIn = g => KURSE.filter(k=>k.gebiet===g.id);
+const gIcon = g => g.icon && hasIc(g.icon) ? g.icon : 'tab-kurse';
+function gmeta(g){ const ks=kurseIn(g); const u=ks.flatMap(unitsOf); return {ks,u,p:progOf(u.filter(QUIZ))}; }
+function gcard(g){ const {ks,u,p}=gmeta(g); const started=ks.some(k=>unitsOf(k).some(e=>P.u[e.id]));
+  return `<a class="kcard cthumb" href="#/kurse/${g.id}" style="--c:${esc(g.farbe)}">${ic(gIcon(g),'wm')}<span class="tag ${p.pct===100?'done':''}">${p.pct===100?ic('richtig','s')+'Abgeschlossen':started?ic('weiter','s')+'In Arbeit':esc(g.kurz)}</span><div><div class="t">${esc(g.titel)}</div><div class="s">${ks.length} ${ks.length===1?'Kurs':'Kurse'} · ${u.length} Einheiten</div><div class="bar"><i style="width:${p.pct}%"></i></div></div></a>`; }
+function grow(g){ const {ks,u,p}=gmeta(g); const started=ks.some(k=>unitsOf(k).some(e=>P.u[e.id]));
+  return `<a class="lcard glass" href="#/kurse/${g.id}" style="--c:${esc(g.farbe)}"><div class="cthumb">${ic(gIcon(g))}</div><div class="b"><span class="tag ${p.pct===100?'ok':started?'brand':''}">${p.pct===100?'Abgeschlossen':started?'In Arbeit':esc(g.kurz)}</span><div class="t">${esc(g.titel)}</div><div class="m">${ic('tab-kurse','s')}${ks.length} ${ks.length===1?'Kurs':'Kurse'} · ${u.length} Einheiten${started?` · ${p.ok} gelöst`:''}</div><div class="bar ${p.pct===100?'ok':''}"><i style="width:${p.pct}%"></i></div></div></a>`; }
 const G = JSON.parse(document.getElementById('graph-data').textContent);
 const byId = new Map(G.nodes.map(n=>[n.id,n]));
 const out = new Map(); for(const e of G.edges){ (out.get(e.source)||out.set(e.source,[]).get(e.source)).push(e); }
@@ -425,10 +431,11 @@ const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?: .*)? (\S+)$/); if(m
   m=r.match(/§ (\d+[a-z]?)/); return m?byId.get('norm:§'+m[1]):null; };
 // Quelle eines EU-/Übereinkommensknotens und Sortenbezeichnung (Richtlinie, EPGÜ, VerfO)
 const srcName = u => /eur-lex/.test(u||'') ? 'EUR-Lex' : /epo\.org/.test(u||'') ? 'epo.org' : /unifiedpatentcourt/.test(u||'') ? 'unifiedpatentcourt.org (PDF)' : /gesetze-im-internet/.test(u||'') ? 'gesetze-im-internet.de' : 'Quelle';
-const RL_FAM = {markenrl:'Richtlinie',durchsetzungsrl:'Richtlinie',upca:'EPGÜ',rop:'VerfO',epatvo:'EPatVO',epatuevo:'EPatÜVO',doeps:'DOEPS',gebeps:'GebOEPS',patg:'PatG',patv:'PatV',intpatueg:'IntPatÜG',patkostg:'PatKostG'};
+const RL_FAM = {markenrl:'Richtlinie',durchsetzungsrl:'Richtlinie',upca:'EPGÜ',rop:'VerfO',epatvo:'EPatVO',epatuevo:'EPatÜVO',doeps:'DOEPS',gebeps:'GebOEPS',patg:'PatG',patv:'PatV',intpatueg:'IntPatÜG',patkostg:'PatKostG',designg:'DesignG',designv:'DesignV',designrl:'DesignRL',designrl2024:'DesignRL 2024',ggv:'GGV'};
 const euKind = n => n.type!=='eunorm' ? null : (RL_FAM[n.rl]||n.kurz||'Richtlinie');
 const isUpc = n => n && n.type==='eunorm' && (n.rl==='upca'||n.rl==='rop'); // Zitierzähler aus dem EPG-Korpus nur für EPGÜ und VerfO
-const isPat = n => n && n.type==='eunorm' && n.korpus==='patent'; // PatG, PatV, IntPatÜG, PatKostG: Zitierzähler aus dem BPatG-/BGH-Korpus
+const KORPUS = {patent:'patent_entscheidungen.json', design:'design_entscheidungen.json'}; // Entscheidungskorpora BPatG/BGH (Patent- und Designsachen), nachgeladen
+const isPat = n => n && n.type==='eunorm' && !!KORPUS[n.korpus]; // PatG, PatV, IntPatÜG, PatKostG, DesignG, DesignV: Zitierzähler aus dem BPatG-/BGH-Korpus
 const isRl = n => n && n.type==='eunorm' && (n.rl==='markenrl'||n.rl==='durchsetzungsrl');
 const famNames = list => { const k=[...new Set(list.filter(Boolean).map(n=>n.kurz||RL_FAM[n.rl]||''))].filter(Boolean); return k.length ? k.join(', ') : ''; };
 // Eingehende Kanten und Einheiten je Knoten (für Lernkarten, Suche, Lernradar)
@@ -612,42 +619,52 @@ function vHome(){
   <nav class="quick" aria-label="Schnellzugriff">
     <a class="qa" href="#/wdh">${ic('tab-wdh')}Wiederholen${dueN?`<span class="n">${dueN}</span>`:''}</a>
     <a class="qa" href="#/suche">${ic('suche')}Nachschlagen</a>
-    <a class="qa" href="#/kurse">${ic('tab-kurse')}Alle Kurse</a>${WEAK.size?`<a class="qa" href="#/wdh">${ic('falsch')}Lernradar<span class="n">${[...WEAK.keys()].filter(i=>i.startsWith('concept:')||i.startsWith('step:')).length}</span></a>`:''}
+    <a class="qa" href="#/kurse">${ic('tab-kurse')}Rechtsgebiete</a>${WEAK.size?`<a class="qa" href="#/wdh">${ic('falsch')}Lernradar<span class="n">${[...WEAK.keys()].filter(i=>i.startsWith('concept:')||i.startsWith('step:')).length}</span></a>`:''}
     <a class="qa" href="navigator/">${ic('suche')}Navigator</a>
     <a class="qa" href="#/kurs/k12">${ic('klausur')}Klausurtraining</a>
     <a class="qa" href="navigator/#gesetz">${ic('norm')}Gesetz</a>
     <a class="qa" href="#/epg">${ic('entscheidung')}EPG-Rechtsprechung</a>
     <a class="qa" href="#/bpatg">${ic('entscheidung')}BPatG und BGH</a>
+    <a class="qa" href="#/bpatg/design">${ic('entscheidung')}Design-Rechtsprechung</a>
     <a class="qa" href="#/didaktik">${ic('tab-konzept')}Konzept</a>
     <a class="qa" href="#/profil">${ic('tab-profil')}Profil</a>
     <button class="qa" id="qtheme">${ic(dark?'hell':'dunkel')}${dark?'Hell':'Dunkel'}</button>
   </nav>
-  <div class="sh"><h2>Kurse</h2><a href="#/kurse">Alle ${KURSE.length} anzeigen</a></div>
-  <div class="hscroll" aria-label="Kurse">${GEBIETE.flatMap(kurseIn).map(kcard).join('')}</div>
+  <div class="sh"><h2>Rechtsgebiete</h2><a href="#/kurse">Alle ${KURSE.length} Kurse</a></div>
+  <div class="hscroll" aria-label="Rechtsgebiete">${GEBIETE.map(gcard).join('')}</div>
   ${last}
   <div class="stats"><div class="stat glass"><b class="mono">${all.ok}</b><span>${ic('richtig','s')}gelöst</span></div><div class="stat glass"><b class="mono">${dueN}</b><span>${ic('faellig','s')}fällig</span></div><div class="stat glass"><b class="mono">${P.s.cnt}</b><span>${ic('streak','s')}Tage Streak</span></div></div>
   <p class="meta">Fortschritt wird ${Store.mode()==='cookie'?'in einem Cookie':'im Browserspeicher'} auf diesem Gerät gespeichert.</p>`;
   document.getElementById('qtheme').onclick=()=>{ const t=document.documentElement.dataset.theme==='dark'?'light':'dark'; try{ localStorage.setItem('mgk_theme',t); }catch(e){} applyTheme(); vHome(); };
-  // Karussell beim zuletzt genutzten Kurs beginnen
-  const sc=main.querySelector('.hscroll'); const idx=GEBIETE.flatMap(kurseIn).indexOf(nk); const el=sc.children[idx]; if(el&&idx>0) sc.scrollLeft = el.offsetLeft - 16;
+  // Karussell beim Rechtsgebiet des zuletzt genutzten Kurses beginnen
+  const sc=main.querySelector('.hscroll'); const idx=GEBIETE.findIndex(g=>g.id===nk.gebiet); const el=sc.children[idx]; if(el&&idx>0) sc.scrollLeft = el.offsetLeft - 16;
 }
-function vKurse(){
-  chrome('Kurse','#/',`<div class="seg ic-seg" id="view" role="group" aria-label="Ansicht"><button data-v="grid" aria-label="Raster" title="Raster">${ic('tabelle','m')}</button><button data-v="list" aria-label="Liste" title="Liste">${ic('menu','m')}</button></div>`);
+function vKurse(gid){
+  const g = gid && GEBIETE.find(x=>x.id===gid);
+  if(gid && !g) return vKurse();
+  if(!g){
+    chrome('Rechtsgebiete','#/');
+    main.innerHTML=`<p class="lead" style="margin-top:4px">Wähle ein Rechtsgebiet. Dahinter liegen ${KURSE.length} Kurse mit ${UNITS.length} Einheiten; die Kurse bauen innerhalb eines Gebiets aufeinander auf.</p>
+      <div class="lstack">${GEBIETE.map(grow).join('')}</div>`;
+    return;
+  }
+  chrome(g.titel,'#/kurse',`<div class="seg ic-seg" id="view" role="group" aria-label="Ansicht"><button data-v="grid" aria-label="Raster" title="Raster">${ic('tabelle','m')}</button><button data-v="list" aria-label="Liste" title="Liste">${ic('menu','m')}</button></div>`);
   const render = () => { const v=viewPref(); document.querySelectorAll('#view button').forEach(b=>b.classList.toggle('on',b.dataset.v===v));
-    const groups = GEBIETE.filter(g=>!g.geplant&&kurseIn(g).length); const planned = GEBIETE.filter(g=>g.geplant||!kurseIn(g).length);
-    main.innerHTML=`<p class="lead" style="margin-top:4px">${KURSE.length} Kurse in ${groups.length} Rechtsgebieten, ${UNITS.length} Einheiten. Die Kurse bauen innerhalb eines Gebiets aufeinander auf.</p>
-      <nav class="quick" style="grid-template-rows:auto" aria-label="Rechtsgebiete">${groups.map(g=>`<a class="qa" href="#geb-${g.id}" data-geb>${esc(g.kurz)}<span class="n">${kurseIn(g).length}</span></a>`).join('')}</nav>
-      ${groups.map(g=>{ const ks=kurseIn(g); const p=progOf(ks.flatMap(unitsOf).filter(QUIZ)); return `<section class="sec" id="geb-${g.id}"><div class="sh"><h2>${esc(g.titel)}</h2><span class="meta mono">${p.ok}/${p.total}</span></div><p class="meta" style="margin:-6px 0 10px">${esc(g.beschreibung||'')}</p><div class="${v==='grid'?'lgrid':'lstack'}">${ks.map(lcard).join('')}</div></section>`; }).join('')}
-      ${planned.length?`<div class="sh"><h2>In Vorbereitung</h2></div><div class="tags" style="margin-top:0">${planned.map(g=>`<span class="tag" title="${esc(g.titel)}">${esc(g.kurz)}</span>`).join('')}</div><p class="meta">Weitere Rechtsgebiete folgen im gleichen Format: ${planned.map(g=>esc(g.titel)).join(', ')}.</p>`:''}`;
-    main.querySelectorAll('[data-geb]').forEach(a=>a.onclick=ev=>{ ev.preventDefault(); const t=document.querySelector(a.getAttribute('href')); if(t) t.scrollIntoView({behavior:'smooth',block:'start'}); }); };
+    const {ks,u,p}=gmeta(g);
+    // Reihen: Kurse ohne `reihe` zuerst, dann je Reihe ein eigener Abschnitt (z. B. „Verfahren und Klausur“)
+    const reihen=[]; for(const k of ks){ const r=k.reihe||''; let sec=reihen.find(x=>x.r===r); if(!sec){ sec={r,ks:[]}; reihen.push(sec); } sec.ks.push(k); }
+    reihen.sort((a,b)=>(a.r?1:0)-(b.r?1:0));
+    main.innerHTML=`<p class="lead" style="margin-top:4px">${esc(g.beschreibung||'')}</p>
+      <div class="mrow" style="margin:-6px 0 14px">${ic('tab-kurse','m')}<span>${ks.length} ${ks.length===1?'Kurs':'Kurse'} · ${u.length} Einheiten</span><span>·</span><span class="mono">${p.ok}/${p.total} gelöst</span></div>
+      ${reihen.map(sec=>`<section class="sec">${sec.r?`<div class="sh" style="margin-top:18px"><h2>${esc(sec.r)}</h2></div>`:''}<div class="${v==='grid'?'lgrid':'lstack'}">${sec.ks.map(lcard).join('')}</div></section>`).join('')}`; };
   render();
   document.getElementById('view').onclick=ev=>{ const b=ev.target.closest('button'); if(!b) return; try{ localStorage.setItem('mgk_view',b.dataset.v); }catch(e){} render(); };
 }
 function vKurs(id){
-  const k=KURS.get(id); if(!k) return vHome(); chrome(`Kurs ${k.nr}`,'#/kurse',streakPill());
+  const k=KURS.get(id); if(!k) return vHome(); chrome(`Kurs ${k.nr}`,`#/kurse/${k.gebiet}`,streakPill());
   const {u,p,nF,nQ}=kmeta(k); const dueK=u.filter(due).length;
   main.innerHTML=`<article class="glass card detail" style="--c:${esc(k.farbe)};margin-top:0"><div class="cthumb big">${ic(kIcon(k))}<span class="no mono">Kurs ${nn(k.nr)}</span></div><div class="inner">
-    <div class="tags" style="margin:0"><span class="tag brand">${esc(gebOf(k).titel)}</span><span class="tag ${p.pct===100?'ok':''}">${p.pct===100?ic('richtig','s')+'Abgeschlossen':ic('fall','s')+(p.done?'In Arbeit':'Neu')}</span></div><h1>${esc(k.titel)}</h1><p class="lead" style="margin-bottom:10px">${txt(k.beschreibung)}</p>
+    <div class="tags" style="margin:0"><a class="tag brand" href="#/kurse/${k.gebiet}" style="text-decoration:none">${esc(gebOf(k).titel)}</a><span class="tag ${p.pct===100?'ok':''}">${p.pct===100?ic('richtig','s')+'Abgeschlossen':ic('fall','s')+(p.done?'In Arbeit':'Neu')}</span></div><h1>${esc(k.titel)}</h1><p class="lead" style="margin-bottom:10px">${txt(k.beschreibung)}</p>
     <div class="mrow">${ic('schema','m')}<span>${k.kapitel.length} Kapitel · ${nF} Fälle${nQ?` · ${nQ} Wissensfragen`:''}</span></div>
     <div class="mrow">${ic('richtig','m')}<span class="mono">${p.ok} von ${p.total} gelöst</span>${dueK?`<span>·</span><span>${dueK} fällig</span>`:''}</div><div class="bar ${p.pct===100?'ok':''}" style="margin-top:8px"><i style="width:${p.pct}%"></i></div>
     <div class="actrow"><a class="btn primary" href="#/lernen/${(u.find(e=>!P.u[e.id])||u[0]).id}">${ic('weiter','m')}${p.done?'Fortsetzen':'Starten'}</a><a class="iconbtn lg" href="#/wdh" aria-label="Wiederholen" title="Wiederholen">${ic('tab-wdh')}</a><a class="iconbtn lg" href="navigator/" aria-label="Lernnavigator" title="Lernnavigator">${ic('suche')}</a></div></div></article>
@@ -833,7 +850,7 @@ function vKarte(id){
   else if(n.type==='distinction') sec('kern','tabelle','Gegenüberstellung',cmpTable(n));
   // 2 Norm
   if(n.type!=='norm'&&n.type!=='eunorm') sec('norm','norm','Norm',chips(normsOf));
-  else { const c=uniq(I(id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source))); sec('begriffe','begriff','Begriffe aus dieser Norm',list(c.map(x=>[x,esc(x.kategorie||'')]))); const impl = n.type==='norm' ? O(id).filter(e=>e.relation==='implements').map(e=>byId.get(e.target)) : I(id).filter(e=>e.relation==='implements').map(e=>byId.get(e.source)); sec('umsetzung','richtlinie',n.type==='norm'?'Richtlinie':'Umsetzung im MarkenG',chips(uniq(impl)));
+  else { const c=uniq(I(id).filter(e=>e.relation==='defined_in').map(e=>byId.get(e.source))); sec('begriffe','begriff','Begriffe aus dieser Norm',list(c.map(x=>[x,esc(x.kategorie||'')]))); const impl = n.type==='norm' ? O(id).filter(e=>e.relation==='implements').map(e=>byId.get(e.target)) : I(id).filter(e=>e.relation==='implements').map(e=>byId.get(e.source)); sec('umsetzung','richtlinie',n.type==='norm'?'Richtlinie':'Umgesetzt durch',chips(uniq(impl)));
     // Brücken: EPGÜ <-> Durchsetzungsrichtlinie (entspricht), VerfO -> EPGÜ (konkretisiert)
     const ents = O(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.target)); sec('entspricht','richtlinie','Entsprechung: '+famNames(ents),chips(uniq(ents)));
     const entsIn = I(id).filter(e=>e.relation==='entspricht').map(e=>byId.get(e.source)); sec('umsetzung_epg','union','Entsprechung in: '+famNames(entsIn),chips(uniq(entsIn)));
@@ -854,7 +871,7 @@ function vKarte(id){
   sec('faelle','fall',`Fälle dazu`,units.length?`<div class="glass list">${units.map(e=>unitRow(e, `Kurs ${nn(KURS.get(e.kurs).nr)} · ${CHAP.get(e.kap).titel}`)).join('')}</div>`:'');
   main.innerHTML = head + (S.length>2?`<nav class="toc" aria-label="Abschnitte">${S.map(s=>`<a class="glass pill" href="#sec-${s.key}">${ic(s.icn)}${s.title}</a>`).join('')}</nav>`:'') + S.map(s=>`<section class="sec" id="sec-${s.key}"><h2>${ic(s.icn)}${s.title}${s.key==='faelle'?`<span class="meta mono" style="margin-left:auto">${units.length}</span>`:''}</h2>${s.html}</section>`).join('') + `<p class="meta" style="margin-top:20px">Im <a href="navigator/#/${n.type}/${encodeURIComponent(id)}">Lernnavigator öffnen</a> (Graph, Karteikarten).</p>`;
   main.querySelectorAll('.toc a').forEach(a=>a.onclick=ev=>{ ev.preventDefault(); const t=document.querySelector(a.getAttribute('href')); if(t) t.scrollIntoView({behavior:'smooth',block:'start'}); });
-  if(isPat(n)&&n.zitiert){ const box=document.getElementById('pat-inline'); patLoad().then(d=>{ if(!box||!box.isConnected) return; const l=patFor(d,n).slice(0,6); box.innerHTML=l.map(patRow).join(''); }).catch(()=>{ if(box) box.innerHTML=`<div class="row"><div class="b"><div class="s">Entscheidungsdatenbank nicht geladen (nur über http erreichbar).</div></div></div>`; }); }
+  if(isPat(n)&&n.zitiert){ const box=document.getElementById('pat-inline'); patLoad(n.korpus).then(d=>{ if(!box||!box.isConnected) return; const l=patFor(d,n).slice(0,6); box.innerHTML=l.map(e=>patRow(e,d)).join(''); }).catch(()=>{ if(box) box.innerHTML=`<div class="row"><div class="b"><div class="s">Entscheidungsdatenbank nicht geladen (nur über http erreichbar).</div></div></div>`; }); }
   if(isUpc(n)&&n.zitiert){ const box=document.getElementById('epg-inline'); epgLoad().then(d=>{ if(!box||!box.isConnected) return; const l=epgFor(d,n).slice(0,6); box.innerHTML=l.map(epgRow).join(''); }).catch(()=>{ if(box) box.innerHTML=`<div class="row"><div class="b"><div class="s">Entscheidungsdatenbank nicht geladen (nur über http erreichbar).</div></div></div>`; }); }
 }
 // ---------- EPG-Rechtsprechung: Korpus aller Entscheidungen des Einheitlichen Patentgerichts (nachgeladen) ----------
@@ -885,19 +902,20 @@ function vEpg(a, b){
   }).catch(err=>{ document.getElementById('epg-box').innerHTML=`<div class="box bad"><div class="k">${ic('falsch','s')}Nicht geladen</div>Die Entscheidungsdatenbank (upc_entscheidungen.json) konnte nicht geladen werden. Sie ist nur über einen Webserver erreichbar (${esc(String(err))}).</div>`; });
 }
 // ---------- BPatG/BGH-Rechtsprechung: Korpus der Nichtigkeits- und Beschwerdesenate des BPatG und der Patentsenate des BGH (nachgeladen) ----------
-let PAT=null;
-function patLoad(){ if(PAT) return Promise.resolve(PAT); return fetch('patent_entscheidungen.json').then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).then(d=>{ PAT=d; return d; }); }
+const PATS={};
+function patLoad(k){ k=KORPUS[k]?k:'patent'; if(PATS[k]) return Promise.resolve(PATS[k]); return fetch(KORPUS[k]).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).then(d=>{ PATS[k]=d; return d; }); }
 const patPar = n => String(n.nummer).replace(' § ',' ');                       // Knoten „II § 6“ -> Korpus „II 6“
-const patRef = (k, p) => k==='intpatueg' ? `Art. ${p.replace(' ',' § ')} IntPatÜG` : `§ ${p} ${(PAT&&PAT.meta.gesetze[k])||k}`;
+const patRef = (k, p, d) => k==='intpatueg' ? `Art. ${p.replace(' ',' § ')} IntPatÜG` : `§ ${p} ${(d&&d.meta.gesetze[k])||k}`;
 function patFor(d, n){ const k=n.rl, v=patPar(n); return d.entscheidungen.filter(e=>e.n[k]&&e.n[k].includes(v)).sort((a,b)=>((b.ni[k]||[]).includes(v))-((a.ni[k]||[]).includes(v))||(b.datum||'').localeCompare(a.datum||'')); }
-function patRow(e){ const refs=[]; for(const k of ['patg','intpatueg','patkostg','patv']){ for(const p of (e.ni[k]||[])) refs.push(patRef(k,p)); } for(const k of ['patg','intpatueg','patkostg','patv']){ for(const p of (e.n[k]||[])) if(refs.indexOf(patRef(k,p))<0) refs.push(patRef(k,p)); }
+function patRow(e, d){ const keys=Object.keys((d&&d.meta.gesetze)||{}).filter(k=>LAW.dekeys[(d.meta.gesetze[k]||'')]||k==='intpatueg'); const refs=[]; for(const k of keys){ for(const p of (e.ni[k]||[])) refs.push(patRef(k,p,d)); } for(const k of keys){ for(const p of (e.n[k]||[])) if(refs.indexOf(patRef(k,p,d))<0) refs.push(patRef(k,p,d)); }
   const ns=refs.slice(0,8).map(r=>normNode(r)).filter(Boolean); const host=/bundesgerichtshof/.test(e.url)?'bundesgerichtshof.de':'bundespatentgericht.de';
   return `<details class="row epg" style="display:block"><summary class="b" style="cursor:pointer;list-style:none"><div class="t">${esc(e.g)} ${esc(e.az)}${e.name?` „${esc(e.name)}“`:''} <span class="meta mono">${epgDate(e.datum)}</span></div><div class="s">${esc(e.s)} · ${esc(e.typ||'–')} · ${esc(e.v)}</div></summary><div class="s" style="padding:6px 0 4px">${e.ls?txt(e.ls):'<i>Kein Leitsatz veröffentlicht.</i>'}${e.nt?`<div class="meta" style="margin-top:4px">${lawify(esc(e.nt))}</div>`:''}<div class="meta" style="margin-top:4px"><a href="${esc(e.url)}" target="_blank" rel="noopener">${host} ↗</a></div>${ns.length?`<div class="chips">${ns.map(x=>chip(x,x.label)).join('')}</div><div class="slot"></div>`:''}</div></details>`; }
 function vPat(a, b){
-  chrome('BPatG und BGH', a==='norm' ? '#/bpatg' : '#/', streakPill());
   const nid = a==='norm' ? decodeURIComponent(b||'') : null; const nn0 = nid ? byId.get(nid) : null;
-  main.innerHTML=`<p class="lead" style="margin-top:4px">${nn0?`Entscheidungen des Bundespatentgerichts und des Bundesgerichtshofs, die <b>${esc(nn0.label)}</b> nennen (zuerst die, die die Vorschrift auslegen).`:'Entscheidungen der Nichtigkeitssenate, der Technischen und Juristischen Beschwerdesenate und des Gebrauchsmuster-Beschwerdesenats des BPatG sowie die patentrechtliche Rechtsprechung des BGH seit 2000 mit Leitsätzen und den zitierten Vorschriften.'}</p><div id="pat-box"><p class="meta">Lade Entscheidungen …</p></div>`;
-  patLoad().then(d=>{
+  const korpus = nn0 ? (nn0.korpus||'patent') : (KORPUS[a] ? a : 'patent');
+  chrome(korpus==='design' ? 'Design: BPatG und BGH' : 'BPatG und BGH', a==='norm' ? '#/bpatg'+(korpus==='design'?'/design':'') : '#/', streakPill());
+  main.innerHTML=`<p class="lead" style="margin-top:4px">${nn0?`Entscheidungen des Bundespatentgerichts und des Bundesgerichtshofs, die <b>${esc(nn0.label)}</b> nennen (zuerst die, die die Vorschrift auslegen).`:korpus==='design'?'Beschwerden in Design- und Geschmacksmustersachen vor dem BPatG (Anmeldung, seit 2014 Nichtigkeit) und die designrechtliche Rechtsprechung des I. Zivilsenats des BGH seit 2000 mit Leitsätzen und den zitierten Vorschriften. <a href="#/bpatg">Zum Patentkorpus</a>.':'Entscheidungen der Nichtigkeitssenate, der Technischen und Juristischen Beschwerdesenate und des Gebrauchsmuster-Beschwerdesenats des BPatG sowie die patentrechtliche Rechtsprechung des BGH seit 2000 mit Leitsätzen und den zitierten Vorschriften. <a href="#/bpatg/design">Zum Designkorpus</a>.'}</p><div id="pat-box"><p class="meta">Lade Entscheidungen …</p></div>`;
+  patLoad(korpus).then(d=>{
     let list = nn0 ? patFor(d, nn0) : d.entscheidungen.slice().sort((a2,b2)=>(b2.datum||'').localeCompare(a2.datum||''));
     const senate=[...new Set(d.entscheidungen.map(e=>e.s))].sort((x,y)=>x.localeCompare(y,'de')); const arten=[...new Set(d.entscheidungen.map(e=>e.v).filter(Boolean))].sort((x,y)=>x.localeCompare(y,'de'));
     const box=document.getElementById('pat-box'); let shown=40; const state={q:'',g:'',s:'',v:'',hn:false};
@@ -905,12 +923,12 @@ function vPat(a, b){
       box.innerHTML=`<div class="sbox glass pill" role="search">${ic('suche')}<input id="pq" type="search" placeholder="Aktenzeichen, Entscheidungsname, Leitsatz, Norm …" value="${esc(state.q)}" autocomplete="off"></div>
         <div class="tags" style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px"><select id="pg" class="glass pill" style="padding:6px 10px;max-width:100%;min-width:0"><option value="">BPatG und BGH</option><option ${state.g==='BPatG'?'selected':''}>BPatG</option><option ${state.g==='BGH'?'selected':''}>BGH</option></select> <select id="ps" class="glass pill" style="padding:6px 10px;max-width:100%;min-width:0"><option value="">Alle Senate</option>${senate.map(k=>`<option ${state.s===k?'selected':''}>${esc(k)}</option>`).join('')}</select> <select id="pv" class="glass pill" style="padding:6px 10px;max-width:100%;min-width:0"><option value="">Alle Verfahrensarten</option>${arten.map(k=>`<option ${state.v===k?'selected':''}>${esc(k)}</option>`).join('')}</select> <label class="tag" style="cursor:pointer"><input type="checkbox" id="phn" ${state.hn?'checked':''}> nur mit Leitsatz</label></div>
         <p class="meta">${l.length} von ${list.length} Entscheidungen (${d.meta.bpatg} BPatG, ${d.meta.bgh} BGH, ${d.meta.mit_leitsatz} mit Leitsatz) · Quelle: ${esc(d.meta.quelle)} · Stand ${epgDate(d.meta.zeitraum&&d.meta.zeitraum[1])}</p>
-        <div class="glass list">${l.slice(0,shown).map(patRow).join('')}</div>${l.length>shown?`<p style="text-align:center"><button class="btn" id="pmore">Weitere ${Math.min(40,l.length-shown)} anzeigen</button></p>`:''}`;
+        <div class="glass list">${l.slice(0,shown).map(e=>patRow(e,d)).join('')}</div>${l.length>shown?`<p style="text-align:center"><button class="btn" id="pmore">Weitere ${Math.min(40,l.length-shown)} anzeigen</button></p>`:''}`;
       const pq=document.getElementById('pq'); pq.oninput=()=>{ state.q=pq.value; shown=40; const pos=pq.selectionStart; render(); const e2=document.getElementById('pq'); e2.focus(); e2.setSelectionRange(pos,pos); };
       document.getElementById('pg').onchange=ev=>{ state.g=ev.target.value; shown=40; render(); }; document.getElementById('ps').onchange=ev=>{ state.s=ev.target.value; shown=40; render(); }; document.getElementById('pv').onchange=ev=>{ state.v=ev.target.value; shown=40; render(); }; document.getElementById('phn').onchange=ev=>{ state.hn=ev.target.checked; shown=40; render(); };
       const m=document.getElementById('pmore'); if(m) m.onclick=()=>{ shown+=40; render(); }; };
     render();
-  }).catch(err=>{ document.getElementById('pat-box').innerHTML=`<div class="box bad"><div class="k">${ic('falsch','s')}Nicht geladen</div>Die Entscheidungsdatenbank (patent_entscheidungen.json) konnte nicht geladen werden. Sie ist nur über einen Webserver erreichbar (${esc(String(err))}).</div>`; });
+  }).catch(err=>{ document.getElementById('pat-box').innerHTML=`<div class="box bad"><div class="k">${ic('falsch','s')}Nicht geladen</div>Die Entscheidungsdatenbank (${KORPUS[korpus]}) konnte nicht geladen werden. Sie ist nur über einen Webserver erreichbar (${esc(String(err))}).</div>`; });
 }
 function notice(){ const n=document.getElementById('notice'); if(P.ack||Store.mode()!=='cookie'){ n.hidden=true; return; } n.hidden=false; n.innerHTML=`${ic('datenschutz')}<span>Fortschritt wird nur in einem Cookie auf diesem Gerät gespeichert, kein Tracking.</span><button class="btn primary" id="ack">OK</button>`; document.getElementById('ack').onclick=()=>{ P.ack=1; Store.save(P); n.hidden=true; }; }
 // Umzug von marrkson.github.io/MarkenG: tools/umzug/ liest dort Cookies und localStorage und übergibt sie

@@ -8,11 +8,11 @@ und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/index.html` | **IPelico**, der Fallkurs: 25 Kurse in drei Rechtsgebieten (Markenrecht, Patentrecht, Einheitliches Patentgericht), 85 Kapitel, 483 Lerneinheiten (261 Fälle mit Ja/Nein, 81 Wissensfragen, 31 Prüfungsschemata, 36 Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie; Gestaltung nach `DESIGN.md` |
+| `docs/index.html` | **IPelico**, der Fallkurs: 27 Kurse in fünf Rechtsgebieten zur Auswahl (EU und internationales Recht, Marken, Patent, DesignG, Einheitliches Patentgericht), 100 Kapitel, 584 Lerneinheiten (296 Fälle mit Ja/Nein, 87 Wissensfragen, 36 Prüfungsschemata, 44 Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie; Gestaltung nach `DESIGN.md` |
 | `docs/didaktik.md` | Didaktisches Konzept von IPelico und Kursaufbau |
 | `DESIGN.md`, `src/templates/ipelico/` | Gestaltungsrichtlinie (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons, Schriften) und die Assets dazu; `tools/gen_assets.py` erzeugt die Icons |
 | `docs/navigator/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (2.700 Knoten, ca. 9.400 Kanten; Markenrecht, Patentrecht und EPG in einem Graphen) |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (3.436 Knoten, ca. 12.200 Kanten; Markenrecht, Patentrecht, Designrecht und EPG in einem Graphen) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.md` / `.json` | Gesetzestext des MarkenG (Markdown-Original und geparste Fassung) |
@@ -52,7 +52,7 @@ und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
   Widerspruch und Löschung, die relativen Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3) sowie
   das Vorgehen aus einer Unionsmarke (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff.) und aus einer IR-Marke (PMMA, §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
   und Entscheidungen (violett) öffnen sich als Karte direkt an Ort und Stelle – auch verschachtelt.
-- **Karteikarten**: 1.248 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
+- **Karteikarten**: 2.273 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
   Entscheidungen, Normen). Filter nach Typ und Thema, Karten pro Schema, Tastatursteuerung,
   Fortschritt „gewusst / nicht gewusst“ im Browser (localStorage).
 - **Abgrenzungen**: Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft,
@@ -109,12 +109,41 @@ das IntPatÜG (Art. II §§ 15 bis 20 ↔ EPatVO, EPGÜ) mit den beiden anderen 
   des PatKostG, Widerruf/Nichtigkeit/Beschränkung/Erlöschen, deutsches/europäisches/Einheitspatent, Teilung/Ausscheidung/Abzweigung).
 - **Zitierweise** in Texten und `norms`-Feldern: `§ 3 Abs. 1 PatG`, `§ 9 PatV`, `Art. II § 6 Abs. 1 Nr. 3 IntPatÜG` (auch `IntPatÜbkG`),
   `§ 6 Abs. 1 PatKostG`, `Anlage PatKostG`; alle verlinken auf gesetze-im-internet.de (IntPatÜG auf `intpat_bkg/art_ii__6.html`).
-- **Kurs „Klausurtraining TS“** (Rechtsgebiet Patentrecht): 61 Einheiten in neun Kapiteln aus den 23 TS-Klausuren der
-  Patentanwaltsprüfung 2018 bis 2025 (Anmeldung, Priorität und Teilung, Neuheit und Vorbenutzung, Einspruch, Nichtigkeit,
-  Beschwerde und Wiedereinsetzung, Verletzung und Entnahme); Klausurliste in `klausuren/README.md`.
+- **Kurs „Technische Schutzrechte“** (Rechtsgebiet Patent): Grundkurs mit 47 Einheiten in acht Kapiteln (Patentfähigkeit, Neuheit und
+  erfinderische Tätigkeit, Recht auf das Patent und Erteilung, Schutzbereich und Äquivalenz, Verletzung und Rechtsfolgen, Einspruch und
+  Nichtigkeit, Gebrauchsmuster, europäisches Patent/Einheitspatent/PCT), an die Leitentscheidungen des Patentpakets angelehnt.
+- **Kurs „Klausurtraining TS“** (Rechtsgebiet Patent, Reihe „Verfahren und Klausur“, neben dem NS-Training im Gebiet Marken): 61 Einheiten in neun Kapiteln aus den
+  23 TS-Klausuren der Patentanwaltsprüfung 2018 bis 2025; Klausurliste in `klausuren/README.md`.
 
 Aktualisieren: `python3 tools/fetch_patent.py` (Normtexte vom Netz, Entscheidungen aus der Datenbank; `--no-net`, `--no-db`), danach
 `python3 build.py`. Vorgehen: `PLAYBOOK.md` Abschnitt 12.
+
+## Designrecht (DesignG, DesignV, Designrichtlinien, Unionsgeschmacksmuster, Design-Rechtsprechung)
+
+Seit September 2026 enthält der Graph ein viertes Wissenspaket (`src/knowledge/design/`), verbunden mit den anderen über die
+Durchsetzungsrichtlinie (DesignG §§ 42 bis 47 `implements`), die Richtlinie 98/71/EG (DesignG `implements` DesignRL) und die
+Verordnung über Unionsgeschmacksmuster (DesignG `entspricht` GGV).
+
+- **Normtexte**: alle 88 Paragraphen des DesignG und 27 der DesignV im amtlichen Wortlaut (XML von gesetze-im-internet.de) mit
+  Lern- und Klausurhinweisen; die Richtlinie 98/71/EG (21 Artikel, 21 Erwägungsgründe, Amtsblatt-PDF aus dem Cellar), die Neufassung
+  Richtlinie (EU) 2024/2823 (39 Artikel, 48 Erwägungsgründe; Umsetzungsfrist 9.12.2027) und die Verordnung (EG) Nr. 6/2002 über
+  Unionsgeschmacksmuster in der konsolidierten Fassung vom 1.7.2026 (158 Artikel), beide als Cellar-XHTML. Brücken: DesignRL-Artikel
+  → DesignG (Umsetzung), DesignG → GGV (Entsprechung), DesignRL 2024 → Vorgängerartikel, DesignV → DesignG.
+- **Rechtsprechungskorpus**: 168 Entscheidungen (75 BPatG in Design- und Geschmacksmustersachen seit 2000, 93 BGH des I. Zivilsenats)
+  aus der RheinIP-Datenbank mit Leitsätzen (73) und zitierten Vorschriften; in IPelico unter `#/bpatg/design`, je Paragraph unter
+  `#/bpatg/norm/…` und als Abschnitt auf den Lernkarten von DesignG und DesignV.
+- **Kuratiert**: 62 Begriffe, 47 Leitentscheidungen (29 BGH und 3 BPatG gegen die Datenbank geprüft; 15 EuGH/EuG per Websuche
+  verifiziert: PepsiCo, Karen Millen, Gautzsch, DOCERAM, Acacia, Nintendo, Ferrari, Monz, Cofemel, Brompton, Mio/konektra, Lego …),
+  5 Prüfungsschemata (Schutzfähigkeit und Nichtigkeit, Designverletzung, Nichtigkeitsverfahren, Anmeldung, Unionsgeschmacksmuster),
+  7 Abgrenzungen, darunter die **Anspruchsgrundlagentabelle** (Durchsetzungsrichtlinie → MarkenG, PatG, GebrMG, DesignG, UrhG,
+  UMV/GGV, EPGÜ mit VerfO-Regeln), die Umsetzungstabelle DesignRL → DesignG → GGV → DesignRL 2024 und die Reparaturklausel im Zeitverlauf.
+- **Zitierweise**: `§ 2 Abs. 3 DesignG`, `§ 7 DesignV`, `Art. 5 DesignRL`, `Art. 19 DesignRL 2024`, `Art. 20a GGV` (Alias `UGMV`).
+- **Kurs „Designrecht“** (Rechtsgebiet DesignG): 54 Einheiten in sieben Kapiteln (Rechtsrahmen mit Umsetzungs- und
+  Anspruchsgrundlagentabelle, Schutzvoraussetzungen, Anmeldung beim DPMA, Nichtigkeit, Schutzumfang und Verletzung, Rechtsfolgen,
+  Unionsgeschmacksmuster und Abgrenzung zu Urheberrecht und UWG).
+
+Aktualisieren: `python3 tools/fetch_design.py` (Normtexte und EU-Texte vom Netz, Entscheidungen aus der Datenbank; `--no-net`, `--no-db`),
+danach `python3 build.py`. Vorgehen: `PLAYBOOK.md` Abschnitt 13.
 
 ## Graph-Modell
 

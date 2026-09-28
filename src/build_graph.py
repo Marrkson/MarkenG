@@ -48,13 +48,15 @@ from knowledge.kurse import KURSE  # noqa: E402
 from knowledge import markenrl, durchsetzungsrl  # noqa: E402
 from knowledge import upc  # noqa: E402  (zweites Wissenspaket: EPGÜ, VerfO, EPG-Entscheidungen)
 from knowledge import patent  # noqa: E402  (drittes Wissenspaket: PatG, PatV, IntPatÜG, PatKostG, BPatG-/BGH-Rechtsprechung)
+from knowledge import design  # noqa: E402  (viertes Wissenspaket: DesignG, DesignV, DesignRL, GGV, Design-Rechtsprechung)
 from knowledge.gesetze import EU_NORM_KEYS, DE_NORM_KEYS, RULE_HEADS  # noqa: E402
 
-# Alle Wissenspakete in einem Graphen; IDs des UPC-Pakets sind mit upc_ / d_upc_, die des Patentpakets mit pat_ / d_pat_ präfixiert.
-CASES = CASES + upc.CASES + patent.CASES
-CONCEPTS = CONCEPTS + upc.CONCEPTS + patent.CONCEPTS
-DISTINCTIONS = DISTINCTIONS + upc.DISTINCTIONS + patent.DISTINCTIONS
-SCHEMATA = SCHEMATA + upc.SCHEMATA + patent.SCHEMATA
+# Alle Wissenspakete in einem Graphen; IDs des UPC-Pakets sind mit upc_ / d_upc_, die des Patentpakets mit pat_ / d_pat_,
+# die des Designpakets mit des_ / d_des_ präfixiert.
+CASES = CASES + upc.CASES + patent.CASES + design.CASES
+CONCEPTS = CONCEPTS + upc.CONCEPTS + patent.CONCEPTS + design.CONCEPTS
+DISTINCTIONS = DISTINCTIONS + upc.DISTINCTIONS + patent.DISTINCTIONS + design.DISTINCTIONS
+SCHEMATA = SCHEMATA + upc.SCHEMATA + patent.SCHEMATA + design.SCHEMATA
 
 STATUTE = ROOT / "data" / "markeng.json"
 OUT = ROOT / "graph" / "markenrecht_graph.json"
@@ -78,6 +80,10 @@ RICHTLINIEN = [
     *upc.einheitspatent.FAMILIEN,
     # Patentrecht: PatG, PatV, IntPatÜG, PatKostG als deutsche Normfamilien (src/knowledge/patent/gesetze_texte.py; Zitierform § 3 PatG, Art. II § 6 IntPatÜG)
     *patent.gesetze_texte.FAMILIEN,
+    # Designrecht: DesignG, DesignV (deutsche Normfamilien, Zitierform § 2 DesignG), Richtlinie 98/71/EG, Richtlinie (EU) 2024/2823 und
+    # die Verordnung über Unionsgeschmacksmuster (Zitierform Art. 5 DesignRL, Art. 19 DesignRL 2024, Art. 8 GGV)
+    *design.gesetze_texte.FAMILIEN,
+    *design.eurecht.FAMILIEN,
 ]
 RL_BY_KURZ = {r["kurz"]: r["key"] for r in RICHTLINIEN}
 RL_BY_KURZ.update({k: v for k, v in EU_NORM_KEYS.items() if v in {r["key"] for r in RICHTLINIEN}})
@@ -152,6 +158,7 @@ def build():
     # --- EU-Richtlinien (MarkenRL, DurchsetzungsRL) ---
     zitiert = upc.entscheidungen.zitierungen()
     zitiert_pat = patent.entscheidungen.zitierungen()
+    zitiert_des = design.entscheidungen.zitierungen()
     for rl in RICHTLINIEN:
         zitat = rl.get("zitat", "Art.")
         common = dict(type="eunorm", rl=rl["key"], kurz=rl["kurz"], gesetz=rl["gesetz"], url=rl["url"], url_pdf=rl["url_pdf"], paraphrase=rl["paraphrase"], zitat=zitat)
@@ -171,6 +178,8 @@ def build():
                 node["zitiert"] = zitiert.get(nid, 0)
             if rl.get("korpus") == "patent":
                 node["zitiert"] = zitiert_pat.get(nid, 0)
+            if rl.get("korpus") == "design":
+                node["zitiert"] = zitiert_des.get(nid, 0)
             add_node(node)
         if rl["erwaegungsgruende"]:
             add_node(dict(id=f"eunorm:{rl['key']}:erwaegungsgruende", label=("Präambel " if zitat == "R." else "Erwägungsgründe ") + rl["kurz"],
@@ -178,16 +187,17 @@ def build():
                           nummer="0", kapitel="Präambel", abschnitt=None,
                           absaetze=[dict(nr=e["nr"], text=e["text"]) for e in rl["erwaegungsgruende"]], hinweis="", umsetzung_weitere={}, **common))
     norm_ids = {n["id"] for n in nodes}
-    # PatG setzt die Durchsetzungsrichtlinie um: Kanten aus durchsetzungsrl.umsetzung_weitere["PatG"] (nur Zitate, keine Verneinungen)
-    for a in durchsetzungsrl.ARTIKEL:
-        txt = a.get("umsetzung_weitere", {}).get("PatG", "")
-        if not txt or txt.startswith(("–", "nicht")):
-            continue
-        for nr in dict.fromkeys(re.findall(r"§ (\d+[a-z]?)", txt)):
-            nid = f"eunorm:patg:{nr}"
-            if nid not in norm_ids:
-                raise ValueError(f"Unbekannte PatG-Umsetzungsnorm § {nr} bei Art. {a['nr']} DurchsetzungsRL")
-            add_edge(nid, f"eunorm:durchsetzungsrl:{a['nr']}", "implements", ref=f"§ {nr} PatG")
+    # PatG und DesignG setzen die Durchsetzungsrichtlinie um: Kanten aus durchsetzungsrl.umsetzung_weitere (nur Zitate, keine Verneinungen)
+    for gesetz, key in (("PatG", "patg"), ("DesignG", "designg")):
+        for a in durchsetzungsrl.ARTIKEL:
+            txt = a.get("umsetzung_weitere", {}).get(gesetz, "")
+            if not txt or txt.startswith(("–", "nicht")):
+                continue
+            for nr in dict.fromkeys(re.findall(r"§ (\d+[a-z]?)", txt)):
+                nid = f"eunorm:{key}:{nr}"
+                if nid not in norm_ids:
+                    raise ValueError(f"Unbekannte {gesetz}-Umsetzungsnorm § {nr} bei Art. {a['nr']} DurchsetzungsRL")
+                add_edge(nid, f"eunorm:durchsetzungsrl:{a['nr']}", "implements", ref=f"§ {nr} {gesetz}")
     for rl in RICHTLINIEN:
         for a in rl["artikel"]:
             aid = f"eunorm:{rl['key']}:{a['nr'].replace(' ', '')}"
@@ -328,11 +338,14 @@ def build():
 
     graph = dict(
         meta=dict(
-            titel="Wissensgraph Markenrecht (MarkenG), Patentrecht (PatG, PatV, IntPatÜG, PatKostG) und Einheitliches Patentgericht (EPGÜ, VerfO)",
-            beschreibung="Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Marken- und Patentrecht sowie zum Verfahren vor dem Einheitlichen Patentgericht; verbunden über die Durchsetzungsrichtlinie 2004/48/EG und das IntPatÜG.",
+            titel="Wissensgraph Markenrecht (MarkenG), Patentrecht (PatG, PatV, IntPatÜG, PatKostG), Designrecht (DesignG, DesignV, GGV) und Einheitliches Patentgericht (EPGÜ, VerfO)",
+            beschreibung="Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Marken-, Patent- und Designrecht sowie zum Verfahren vor dem Einheitlichen Patentgericht; verbunden über die Durchsetzungsrichtlinie 2004/48/EG, die Designrichtlinie und das IntPatÜG.",
             patent=dict(entscheidungen=patent.entscheidungen.META["anzahl"], bpatg=patent.entscheidungen.META["bpatg"], bgh=patent.entscheidungen.META["bgh"],
                         zeitraum=patent.entscheidungen.META["zeitraum"], quelle=patent.entscheidungen.META["quelle"],
                         stand={k: v.get("stand", []) for k, v in patent.gesetze_texte.META.items()}),
+            design=dict(entscheidungen=design.entscheidungen.META["anzahl"], bpatg=design.entscheidungen.META["bpatg"], bgh=design.entscheidungen.META["bgh"],
+                        zeitraum=design.entscheidungen.META["zeitraum"], quelle=design.entscheidungen.META["quelle"],
+                        stand={k: v.get("stand", []) for k, v in design.gesetze_texte.META.items()}, eu_stand=design.eurecht.STAND),
             upc=dict(entscheidungen=upc.entscheidungen.META["anzahl"], zeitraum=upc.entscheidungen.META["zeitraum"], quelle=upc.entscheidungen.META["quelle"],
                      upca_stand=upc.upca.META["stand"], rop_stand=upc.rop.META["stand"][:160],
                      einheitspatent_stand=upc.einheitspatent.META["doeps"]["stand"], einheitspatent_quelle=upc.einheitspatent.META["doeps"].get("quelle_db", ""),

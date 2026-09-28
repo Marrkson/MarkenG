@@ -27,6 +27,7 @@ LAWS = {
     "UrhG": ("urhg", "§"),
     "PatG": ("patg", "§"),
     "DesignG": ("geschmmg_2004", "§"),
+    "DesignV": ("designv", "§"),
     "GebrMG": ("gebrmg", "§"),
     "HGB": ("hgb", "§"),
     "TMG": ("tmg", "§"),
@@ -80,18 +81,28 @@ EU_LAWS = {
     "GebEPS": "https://www.epo.org/de/legal/up-upc/2022/upf.html",
     "GebEPS": "https://www.epo.org/de/legal/up-upc/2022/upf.html",
     "RFeesUPP": "https://www.epo.org/de/legal/up-upc/2022/upf.html",
+    # Designrecht: Richtlinie 98/71/EG (bis 9.12.2027), Richtlinie (EU) 2024/2823 (Neufassung) und die Verordnung über
+    # Unionsgeschmacksmuster (VO (EG) Nr. 6/2002, konsolidiert; weiter „GGV“ zitiert, auch UGMV)
+    "DesignRL": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071",
+    "DesignRL 2024": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823",
+    "GGV": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701",
+    "UGMV": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701",
+    "GGV-DV": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32002R2245",
+    "HMA": "https://www.wipo.int/treaties/de/registration/hague/",
 }
 # Zitierkürzel -> Schlüssel des Richtlinien-/Übereinkommensknotens im Graphen (eunorm:<key>:<nr>); Aliase erlaubt.
 EU_NORM_KEYS = {"MarkenRL": "markenrl", "DurchsetzungsRL": "durchsetzungsrl", "EPGÜ": "upca", "UPCA": "upca", "VerfO": "rop", "RoP": "rop",
                 "EPatVO": "epatvo", "EPatÜVO": "epatuevo", "EPatÜbersVO": "epatuevo", "DOEPS": "doeps", "UPR": "doeps",
-                "GebOEPS": "gebeps", "GebEPS": "gebeps", "RFeesUPP": "gebeps"}
+                "GebOEPS": "gebeps", "GebEPS": "gebeps", "RFeesUPP": "gebeps",
+                "DesignRL": "designrl", "DesignRL 2024": "designrl2024", "GGV": "ggv", "UGMV": "ggv"}
 # Zitatköpfe für Regeln (VerfO, DOEPS): „R. 19.1 VerfO“, „Regel 262A VerfO“, „Rule 19 RoP“, „R. 6 Abs. 1 DOEPS“; ohne Gesetzesangabe nie verlinken.
 RULE_HEADS = ("R.", "Regel", "Rule")
 # Deutsche Gesetze, die als eigene Normfamilien im Graphen liegen (eunorm:<key>:<nr>): `§ 3 PatG` -> eunorm:patg:3
-DE_NORM_KEYS = {"PatG": "patg", "PatV": "patv", "IntPatÜG": "intpatueg", "IntPatÜbkG": "intpatueg", "PatKostG": "patkostg"}
+DE_NORM_KEYS = {"PatG": "patg", "PatV": "patv", "IntPatÜG": "intpatueg", "IntPatÜbkG": "intpatueg", "PatKostG": "patkostg",
+                "DesignG": "designg", "DesignV": "designv"}
 _ROMAN_HEAD = re.compile(r"^Art\.\s*([IVX]+)\s*§")
 # Ohne verlinkbare Fundstelle: nie verlinken.
-UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "GGV", "EPÜ", "ERVDPMAV", "PatAnwAPrV", "GV", "GRCh")
+UNLINKED = ("GMV", "PMMA", "MMA", "PVÜ", "TRIPS", "EUV", "DSGVO", "EPÜ", "ERVDPMAV", "PatAnwAPrV", "GV", "GRCh", "GeschmMG")
 
 _ABBR = "|".join(sorted(list(LAWS) + list(EU_LAWS) + list(UNLINKED), key=len, reverse=True))
 # Gruppen: 1 Zitatkopf (auch „R.“/„Regel“/„Rule“ für die VerfO), 2 Nummern (Ketten „9 bis 13“, „146 ff.“, Regeln

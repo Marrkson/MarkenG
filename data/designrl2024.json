@@ -1,0 +1,877 @@
+{
+ "gesetz": "Richtlinie (EU) 2024/2823 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 über den rechtlichen Schutz von Designs (Neufassung)",
+ "kurz": "DesignRL 2024",
+ "meta": {
+  "stand": "ABl. L, 2024/2823, 18.11.2024; in Kraft seit 8.12.2024, Umsetzungsfrist 9.12.2027",
+  "quelle": "https://eur-lex.europa.eu/eli/dir/2024/2823/oj/deu",
+  "quelle_pdf": "https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:32024L2823"
+ },
+ "artikel": [
+  {
+   "nr": "1",
+   "titel": "Anwendungsbereich",
+   "kapitel": "KAPITEL 1 – ALLGEMEINE BESTIMMUNGEN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Diese Richtlinie gilt für:\na) die bei den Zentralbehörden für den gewerblichen Rechtsschutz der Mitgliedstaaten eingetragenen Designs;\nb) die beim Benelux-Amt für geistiges Eigentum eingetragenen Designs;\nc) die mit Wirkung für einen Mitgliedstaat international eingetragenen Designs;\nd) die Anmeldungen der unter den Buchstaben a, b und c genannten Designs."
+    },
+    {
+     "nr": "2",
+     "text": "Im Sinne dieser Richtlinie schließt die Eintragung eines Designs auch die an die Hinterlegung anschließende Bekanntmachung eines Designs durch ein Amt für den gewerblichen Rechtsschutz eines Mitgliedstaats ein, in dem diese Bekanntmachung die Entstehung eines Designrechts begründet."
+    }
+   ]
+  },
+  {
+   "nr": "2",
+   "titel": "Begriffsbestimmungen",
+   "kapitel": "KAPITEL 1 – ALLGEMEINE BESTIMMUNGEN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Für die Zwecke dieser Richtlinie bezeichnet der Ausdruck:\n1. „Amt“ die Zentralbehörde eines Mitgliedstaats für den gewerblichen Rechtsschutz oder das Benelux-Amt für geistiges Eigentum, die bzw. das mit der Eintragung von Designs betraut ist;\n2. „Register“ das von einem Amt geführte Designregister;\n3. „Design“ die Erscheinungsform eines Erzeugnisses oder eines Teils davon, die sich aus den Merkmalen, insbesondere den Linien, Konturen, Farben, der Gestalt, Oberflächenstruktur und/oder den Werkstoffen des Erzeugnisses selbst und/oder seiner Verzierung ergibt, einschließlich der Bewegung, der Zustandsänderung oder jeder anderen Art der Animation dieser Merkmale;\n4. „Erzeugnis“ jeden industriellen oder handwerklichen Gegenstand, ausgenommen ein Computerprogramm, unabhängig davon, ob er in einem physischen Objekt verkörpert ist oder eine nicht physische Form aufweist, einschließlich: a) Verpackung, Sets von Artikeln, räumlicher Anordnungen von Gegenständen, die eine Gestaltung eines Innen- oder Außenraums bilden sollen, sowie Einzelteilen, die zu einem komplexen Erzeugnis zusammengesetzt werden sollen,\nb) grafischer Arbeiten oder Symbole, Logos, Oberflächenmuster, typografischer Schriftzeichen und grafischer Benutzeroberflächen;\n5. „komplexes Erzeugnis“ ein Erzeugnis aus mehreren Bauelementen, die sich ersetzen lassen, sodass das Erzeugnis auseinander- und wieder zusammengebaut werden kann."
+    }
+   ]
+  },
+  {
+   "nr": "3",
+   "titel": "Schutzvoraussetzungen",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Mitgliedstaaten schützen Designs ausschließlich durch Eintragung dieser Designs und gewähren ihren Inhabern nach Maßgabe dieser Richtlinie ausschließliche Rechte."
+    },
+    {
+     "nr": "2",
+     "text": "Ein Design wird durch ein Designrecht geschützt, wenn es neu ist und Eigenart hat."
+    },
+    {
+     "nr": "3",
+     "text": "Ein Design, das bei einem Erzeugnis, das Bauelement eines komplexen Erzeugnisses ist, verwendet oder in dieses Erzeugnis aufgenommen wird, gilt nur dann als neu und hat nur dann Eigenart,\na) wenn das Bauelement, das in das komplexe Erzeugnis aufgenommen wurde, bei dessen üblicher Verwendung sichtbar bleibt und\nb) soweit diese sichtbaren Merkmale des Bauelements selbst die Voraussetzungen der Neuheit und Eigenart erfüllen."
+    },
+    {
+     "nr": "4",
+     "text": "„Übliche Verwendung“ im Sinne des Absatzes 3 Buchstabe a bedeutet die Verwendung durch den Endbenutzer, ausgenommen Maßnahmen der Instandhaltung, Wartung oder Reparatur."
+    }
+   ]
+  },
+  {
+   "nr": "4",
+   "titel": "Neuheit",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Ein Design gilt als neu, wenn der Öffentlichkeit vor dem Anmeldetag des Designs oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag kein identisches Design zugänglich gemacht worden ist. Designs gelten als identisch, wenn sich ihre Merkmale nur in unwesentlichen Einzelheiten unterscheiden."
+    }
+   ]
+  },
+  {
+   "nr": "5",
+   "titel": "Eigenart",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Ein Design hat Eigenart, wenn sich der Gesamteindruck, den es beim informierten Benutzer hervorruft, von dem Gesamteindruck unterscheidet, den ein anderes Design bei diesem Benutzer hervorruft, das der Öffentlichkeit vor dem Tag seiner Anmeldung oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag zugänglich gemacht worden ist."
+    },
+    {
+     "nr": "2",
+     "text": "Bei der Beurteilung der Eigenart wird der Grad der Gestaltungsfreiheit des Entwerfers bei der Entwicklung des Designs berücksichtigt."
+    }
+   ]
+  },
+  {
+   "nr": "6",
+   "titel": "Offenbarung",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Im Sinne der Artikel 4 und 5 gilt ein Design als der Öffentlichkeit zugänglich gemacht, wenn es nach der Eintragung oder auf sonstige Weise bekannt gemacht, ausgestellt, im geschäftlichen Verkehr verwendet oder auf sonstige Weise offenbart wurde, es sei denn, dass dies den in der Union tätigen Fachkreisen des betreffenden Sektors im normalen Geschäftsverlauf nicht vor dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag bekannt sein konnte. Ein Design gilt jedoch nicht als der Öffentlichkeit zugänglich gemacht, wenn es lediglich einem Dritten unter der ausdrücklichen oder stillschweigenden Bedingung der Vertraulichkeit offenbart wurde."
+    },
+    {
+     "nr": "2",
+     "text": "Eine Offenbarung bleibt bei der Anwendung der Artikel 4 und 5 unberücksichtigt, wenn das offenbarte Design, das mit einem Design, für das der Schutz eines eingetragenen Designs eines Mitgliedstaats in Anspruch genommen wird, identisch ist oder sich in seinem Gesamteindruck nicht von diesem unterscheidet, der Öffentlichkeit zugänglich gemacht wird\na) durch den Entwerfer oder den Rechtsnachfolger des Entwerfers oder durch einen Dritten als Folge von Informationen oder Handlungen des Entwerfers oder des Rechtsnachfolgers des Entwerfers und\nb) während der zwölf Monate vor dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag."
+    },
+    {
+     "nr": "3",
+     "text": "Absatz 2 gilt auch dann, wenn das Design als Folge einer missbräuchlichen Handlung gegen den Entwerfer oder seinen Rechtsnachfolger der Öffentlichkeit zugänglich gemacht wurde."
+    }
+   ]
+  },
+  {
+   "nr": "7",
+   "titel": "Durch ihre technische Funktion bedingte Designs und Designs von Verbindungselementen",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Ein Design besteht nicht an Erscheinungsmerkmalen eines Erzeugnisses, die ausschließlich durch dessen technische Funktion bedingt sind."
+    },
+    {
+     "nr": "2",
+     "text": "Ein Designrecht besteht nicht an Erscheinungsmerkmalen eines Erzeugnisses, die zwangsläufig in ihrer genauen Form und ihren genauen Abmessungen nachgebildet werden müssen, damit das Erzeugnis, in das das Design aufgenommen oder bei dem es verwendet wird, mit einem anderen Erzeugnis mechanisch zusammengebaut oder verbunden oder in diesem, an diesem oder um dieses herum angebracht werden kann, sodass beide Erzeugnisse ihre Funktion erfüllen."
+    },
+    {
+     "nr": "3",
+     "text": "Ungeachtet des Absatzes 2 dieses Artikels besteht ein Designrecht unter den in den Artikeln 4 und 5 festgelegten Voraussetzungen an einem Design, das dem Zweck dient, den Zusammenbau oder die Verbindung einer Vielzahl von untereinander austauschbaren Teilen innerhalb eines modularen Systems zu ermöglichen."
+    }
+   ]
+  },
+  {
+   "nr": "8",
+   "titel": "Designs, die gegen die öffentliche Ordnung oder gegen die guten Sitten verstoßen",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Es besteht kein Designrecht, wenn es gegen die öffentliche Ordnung oder gegen die guten Sitten verstößt."
+    }
+   ]
+  },
+  {
+   "nr": "9",
+   "titel": "Schutzumfang",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Umfang des Schutzes durch ein Design erstreckt sich auf jedes Design, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt."
+    },
+    {
+     "nr": "2",
+     "text": "Bei der Beurteilung des Schutzumfangs wird der Grad der Gestaltungsfreiheit des Entwerfers bei der Entwicklung seines Designs berücksichtigt."
+    }
+   ]
+  },
+  {
+   "nr": "10",
+   "titel": "Beginn und Dauer des Schutzes",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Schutz durch ein Design entsteht mit der Eintragung durch das Amt."
+    },
+    {
+     "nr": "2",
+     "text": "Ein Design wird für einen Zeitraum von fünf Jahren eingetragen, beginnend mit dem Anmeldetag. Der Rechtsinhaber kann die Eintragung gemäß Artikel 32 um einen oder mehrere Zeiträume von je fünf Jahren bis zu einer Gesamtschutzdauert von 25 Jahren ab dem Anmeldetag erneuern lassen."
+    }
+   ]
+  },
+  {
+   "nr": "11",
+   "titel": "Recht auf das eingetragene Design",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Das Recht auf das eingetragene Design steht dem Entwerfer oder dem Rechtsnachfolger des Entwerfers zu."
+    },
+    {
+     "nr": "2",
+     "text": "Haben mehrere Personen ein Design gemeinsam entwickelt, so steht ihnen das Recht auf das eingetragene Design gemeinsam zu."
+    },
+    {
+     "nr": "3",
+     "text": "Wird das Design von einem Arbeitnehmer in Ausübung seiner Aufgaben oder nach den Weisungen seines Arbeitgebers entworfen, so steht das Recht auf das eingetragene Design jedoch dem Arbeitgeber zu, sofern zwischen den betreffenden Parteien vertraglich nichts anderes vereinbart wurde oder sofern die nationalen Rechtsvorschriften nichts anderes vorsehen."
+    }
+   ]
+  },
+  {
+   "nr": "12",
+   "titel": "Vermutung zugunsten des eingetragenen Inhabers des Designs",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "In jedem Verfahren vor dem Amt, in dessen Zuständigkeitsbereich der Schutz beansprucht wird, sowie in allen anderen Verfahren gilt die Person als berechtigt, auf deren Namen das Design eingetragen wurde; hingegen gilt vor der Eintragung diejenige Person als berechtigt, in deren Namen die Anmeldung eingereicht wurde."
+    }
+   ]
+  },
+  {
+   "nr": "13",
+   "titel": "Eintragungshindernisse",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Ein Design wird von der Eintragung ausgeschlossen, wenn\na) das Design kein Design im Sinne des Artikels 2 Nummer 3 ist,\nb) das Design entsprechend Artikel 8 gegen die öffentliche Ordnung oder die guten Sitten verstößt oder\nc) das Design eine missbräuchliche Benutzung eines der in Artikel 6ter der Pariser Übereinkunft zum Schutz des gewerblichen Eigentums aufgeführten Zeichen darstellt, es sei denn, die zuständigen Behörden haben der Eintragung zugestimmt."
+    },
+    {
+     "nr": "2",
+     "text": "Die Mitgliedstaaten können vorsehen, dass ein Design von der Eintragung auszuschließen ist, wenn das Design eine missbräuchliche Benutzung von Abzeichen, Emblemen und Wappen darstellt, die nicht in Artikel 6ter der Pariser Übereinkunft erfasst sind und die für den betreffenden Mitgliedstaat von öffentlichem Interesse sind, es sei denn, die zuständige Behörde hat dessen Eintragung im Einklang mit dem Recht des Mitgliedstaats zugestimmt."
+    },
+    {
+     "nr": "3",
+     "text": "Die Mitgliedstaaten können vorsehen, dass ein Design von der Eintragung auszuschließen ist, wenn es eine vollständige oder teilweise Wiedergabe von Bestandteilen eines kulturellen Erbes enthält, die von nationalem Interesse sind."
+    }
+   ]
+  },
+  {
+   "nr": "14",
+   "titel": "Nichtigkeitsgründe",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Ist das Design eingetragen worden, so wird das Design in jedem der folgenden Fälle für nichtig erklärt:\na) Das Design ist kein Design im Sinne des Artikels 2 Nummer 3,\nb) das Design erfüllt nicht die Voraussetzungen der Artikel 3 bis 8,\nc) das Design wurde unter Verstoß gegen Artikel 13 Absatz 1 Buchstabe c oder Artikel 13 Absatz 2 eingetragen,\nd) entsprechend einer Entscheidung des zuständigen Gerichts oder der zuständigen Behörde ist der Inhaber des Designs nach dem Recht des betreffenden Mitgliedstaats nicht dazu berechtigt,\ne) das Design kollidiert mit einem früheren Design, das der Öffentlichkeit vor oder nach dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen wird, vor oder nach dem Prioritätstag des Designs zugänglich gemacht wurde und das seit einem vor dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag des Designs liegenden Zeitpunkt geschützt ist i) durch ein eingetragenes Unionsdesign oder eine Anmeldung eines Unionsdesigns vorbehaltlich seiner Eintragung;\nii) durch ein eingetragenes Design des betreffenden Mitgliedstaats oder durch die Anmeldung eines solchen Rechts vorbehaltlich seiner Eintragung;\niii) durch ein aufgrund internationaler Vereinbarungen mit Wirkung in dem betreffenden Mitgliedstaat eingetragenes Design oder durch eine Anmeldung eines solchen Rechts vorbehaltlich seiner Eintragung;\nf) in einem jüngeren Design wird ein Zeichen mit Unterscheidungskraft verwendet und das Unionsrecht oder das nationale Recht des betreffenden Mitgliedstaats, dem das Zeichen unterliegt, berechtigen den Rechtsinhaber des Zeichens dazu, diese Verwendung zu untersagen,\ng) das Design stellt eine unerlaubte Benutzung eines Werks dar, das nach dem Urheberrecht des betreffenden Mitgliedstaats geschützt ist."
+    },
+    {
+     "nr": "2",
+     "text": "Ist ein Design eingetragen worden, können die Mitgliedstaaten vorsehen, dass das Design für nichtig zu erklären ist, wenn das Design eine vollständige oder teilweise Wiedergabe von Bestandteilen eines kulturellen Erbes enthält, die von nationalem Interesse sind."
+    },
+    {
+     "nr": "3",
+     "text": "Die in Absatz 1 Buchstaben a und b genannten Nichtigkeitsgründe können geltend gemacht werden von\na) jeder natürlichen oder juristischen Person oder\nb) jeder Gruppe oder Organisation, die zur Vertretung der Interessen von Herstellern, Erzeugern, Dienstleistungserbringern, Händlern oder Verbrauchern gegründet wurde, sofern diese Gruppe oder Organisation nach dem für sie geltenden Recht prozessfähig ist."
+    },
+    {
+     "nr": "4",
+     "text": "Der in Absatz 1 Buchstabe c vorgesehene Nichtigkeitsgrund darf ausschließlich von Personen oder Rechtsträgern geltend gemacht werden, die von der missbräuchlichen Benutzung betroffen sind."
+    },
+    {
+     "nr": "5",
+     "text": "Der in Absatz 1 Buchstabe d vorgesehene Nichtigkeitsgrund darf ausschließlich von der Person geltend gemacht werden, die nach dem Recht des betreffenden Mitgliedstaats Anspruch auf das Design hat."
+    },
+    {
+     "nr": "6",
+     "text": "Die in Absatz 1 Buchstaben e, f und g vorgesehenen Nichtigkeitsgründe dürfen ausschließlich von folgenden Personen geltend gemacht werden:\na) dem Anmelder oder dem Inhaber des älteren Rechts;\nb) den Personen, die nach dem Unionsrecht oder dem Recht des betreffenden Mitgliedstaats berechtigt sind, das Recht auszuüben oder\nc) einem Lizenznehmer, der von dem Inhaber des älteren Rechts ermächtigt wurde."
+    },
+    {
+     "nr": "7",
+     "text": "Ein eingetragenes Design kann nicht für nichtig erklärt werden, wenn der Anmelder oder ein Inhaber eines der in Absatz 1 Buchstaben e bis g genannten Rechte der Eintragung des Designs vor der Einreichung des Antrags auf Nichtigerklärung oder der Widerklage ausdrücklich zugestimmt hat."
+    },
+    {
+     "nr": "8",
+     "text": "Ein Design kann auch noch für nichtig erklärt werden, wenn es erloschen ist oder der Verzicht darauf erklärt wurde."
+    }
+   ]
+  },
+  {
+   "nr": "15",
+   "titel": "Gegenstand des Schutzes",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Schutz wird für diejenigen Erscheinungsmerkmale eines eingetragenen Designs gewährt, die in der Anmeldung sichtbar wiedergegeben sind."
+    }
+   ]
+  },
+  {
+   "nr": "16",
+   "titel": "Rechte aus dem Design",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Eintragung eines Designs gewährt seinem Inhaber das ausschließliche Recht, es zu benutzen und Dritten zu verbieten, es ohne die Zustimmung des Inhabers zu benutzen."
+    },
+    {
+     "nr": "2",
+     "text": "Insbesondere kann Folgendes gemäß Absatz 1 verboten werden:\na) die Herstellung, das Anbieten, das Inverkehrbringen oder die Benutzung eines Erzeugnisses, in das das Design aufgenommen oder bei dem es verwendet wird;\nb) die Einfuhr oder die Ausfuhr eines Erzeugnisses gemäß Buchstabe a;\nc) der Besitz eines Erzeugnisses gemäß Buchstabe a zu den Zwecken, die in den Buchstaben a und b genannt sind;\nd) das Erstellen, Herunterladen, Kopieren und das Teilen oder Verbreiten von Medien oder Software, mit denen das Design aufgezeichnet wird, um die Herstellung eines Erzeugnisses gemäß Buchstabe a zu ermöglichen."
+    },
+    {
+     "nr": "3",
+     "text": "Der Inhaber eines eingetragenen Designs ist berechtigt, Dritten zu verbieten, im Handelsverkehr Erzeugnisse aus Drittländern in den Mitgliedstaat, in dem das Design eingetragen ist, zu verbringen, die in diesem Mitgliedstaat nicht in den Zollrechtlich freien Verkehr überführt werden, wenn in diese Erzeugnisse ein identisches Design aufgenommen ist oder ein identisches Design bei solchen Erzeugnissen verwendet wird, oder wenn das Design in seinen wesentlichen Merkmalen nicht von solchen Erzeugnissen unterschieden werden kann, und der Rechtsinhaber keine Zustimmung erteilt hat.\nDas in Unterabsatz 1 dieses Absatzes genannte Recht erlischt, wenn während eines Verfahrens, das der Feststellung dient, ob ein eingetragenes Design verletzt wurde, und das gemäß der Verordnung (EU) Nr. 608/2013 eingeleitet wurde, der zollrechtliche Anmelder oder der Besitzer der Erzeugnisse nachweist, dass der Inhaber des eingetragenen Designs nicht berechtigt ist, das Inverkehrbringen der Erzeugnisse im Land der endgültigen Bestimmung zu untersagen."
+    }
+   ]
+  },
+  {
+   "nr": "17",
+   "titel": "Vermutung der Rechtsgültigkeit",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "In Verletzungsverfahren wird zugunsten des Inhabers des eingetragenen Designs davon ausgegangen, dass die in den Artikeln 3 bis 8 festgelegten Voraussetzungen für die Rechtsgültigkeit eines eingetragenen Designs erfüllt sind und dass das Design nicht unter Verstoß gegen Artikel 13 Absatz 1 Buchstabe c eingetragen wurde."
+    },
+    {
+     "nr": "2",
+     "text": "Die Vermutung der Rechtsgültigkeit nach Absatz 1 kann auf dem Wege aller in der Gerichtsbarkeit des betreffenden Mitgliedstaats verfügbaren Verfahren, einschließlich Widerklagen, widerlegt werden."
+    }
+   ]
+  },
+  {
+   "nr": "18",
+   "titel": "Beschränkung der Rechte aus dem Design",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Rechte aus einem Design nach seiner Eintragung können nicht geltend gemacht werden in Bezug auf\na) Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden;\nb) Handlungen zu Versuchszwecken;\nc) Wiedergaben zum Zweck der Zitierung oder der Lehre;\nd) Handlungen, die vorgenommen werden, um ein Erzeugnis als das des Inhabers des Designs zu identifizieren oder sich auf dieses zu beziehen;\ne) Handlungen zu Zwecken der Kommentierung, Kritik oder Parodie;\nf) Einrichtungen in Schiffen und Luftfahrzeugen, die in einem anderen Land zugelassen sind und vorübergehend in das Hoheitsgebiet des betreffenden Mitgliedstaats gelangen;\ng) die Einfuhr von Ersatzteilen und Zubehör für die Reparatur von unter Buchstabe f genannten Schiffen und Luftfahrzeugen in dem betreffenden Mitgliedstaat;\nh) die Durchführung von Reparaturen an unter Buchstabe f genannten Schiffen und Luftfahrzeugen."
+    },
+    {
+     "nr": "2",
+     "text": "Absatz 1 Buchstaben c, d und e finden nur Anwendung, wenn die Handlungen mit Gepflogenheiten des redlichen Geschäftsverkehrs vereinbar sind und die normale Verwertung des Designs nicht unangemessen beeinträchtigen und, im Fall von Buchstabe c, wenn die Herkunft desjenigen Erzeugnisses angegeben wird, in das das Design aufgenommen oder bei dem das Design verwendet wird."
+    }
+   ]
+  },
+  {
+   "nr": "19",
+   "titel": "Reparaturklausel",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Ein eingetragenes Design, das Bauelement eines komplexen Erzeugnisses ist, von dessen Erscheinungsform das Design des Bauelements abhängt und das im Sinne des Artikels 16 Absatz 1 ausschließlich zum Zweck der Reparatur dieses komplexen Erzeugnisses verwendet wird, um diesem wieder seine ursprüngliche Erscheinungsform zu verleihen, wird nicht geschützt."
+    },
+    {
+     "nr": "2",
+     "text": "Der Hersteller oder der Verkäufer eines Bauelements eines komplexen Erzeugnisses kann sich nicht auf Absatz 1 berufen, wenn er es versäumt hat, die Verbraucher durch eine klare und sichtbare Angabe auf dem Erzeugnis oder in einer anderen geeigneten Form ordnungsgemäß über den gewerblichen Ursprung und die Identität des Herstellers des Erzeugnisses, das für die Reparatur des komplexen Erzeugnisses verwendet werden soll, zu informieren, sodass er eine bewusste Wahl zwischen konkurrierenden Erzeugnissen treffen kann, die für die Reparatur verwendet werden können."
+    },
+    {
+     "nr": "3",
+     "text": "Der Hersteller oder Verkäufer eines Bauelements eines komplexen Erzeugnisses ist nicht verpflichtet, zu gewährleisten, dass die Bauelemente, die er herstellt oder verkauft, letztlich von den Endbenutzern ausschließlich für den Zweck der Reparatur eines komplexen Erzeugnisses im Hinblick auf die Wiederherstellung dessen ursprünglicher Erscheinungsform verwendet werden."
+    },
+    {
+     "nr": "4",
+     "text": "Sehen die nationalen Rechtsvorschriften eines Mitgliedstaats am 8. Dezember 2024 einen Schutz für Design im Sinne des Absatzes 1 vor, so gewährt der Mitgliedstaat abweichend von Absatz 1 bis zum 9. Dezember 2032 diesen Schutz weiterhin für Designs, deren Eintragung vor dem 8. Dezember 2024 beantragt wurde."
+    }
+   ]
+  },
+  {
+   "nr": "20",
+   "titel": "Erschöpfung der Rechte",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Die Rechte aus einem Design nach seiner Eintragung erstrecken sich nicht auf Handlungen, die ein Erzeugnis betreffen, in das ein in den Schutzumfang des Designs fallendes Design aufgenommen ist oder bei dem es verwendet wird, wenn das Erzeugnis vom Inhaber des Designs oder mit seiner Zustimmung in der Union in den Verkehr gebracht worden ist."
+    }
+   ]
+  },
+  {
+   "nr": "21",
+   "titel": "Vorbenutzungsrecht betreffend ein eingetragenes Design",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Ein Dritter hat ein Vorbenutzungsrecht, wenn er glaubhaft machen kann, dass er vor dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag innerhalb des betreffenden Mitgliedstaats ein in den Schutzumfang eines eingetragenen Designs fallendes Design, das keine Nachahmung jenes Designs ist, gutgläubig in Benutzung genommen oder wirkliche und ernsthafte Anstalten dazu getroffen hat."
+    },
+    {
+     "nr": "2",
+     "text": "Das Vorbenutzungsrecht nach Absatz 1 berechtigt den Dritten, das Design für die Zwecke zu verwerten, für die er es vor dem Anmeldetag oder vor dem Prioritätstag des eingetragenen Designs in Benutzung genommen hat oder für die er wirkliche und ernsthafte Anstalten getroffen hat."
+    }
+   ]
+  },
+  {
+   "nr": "22",
+   "titel": "Verhältnis zu anderen Formen des Schutzes",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Diese Richtlinie lässt Vorschriften des Unionsrechts über nicht eingetragene Designs bzw. etwaige Vorschriften des Unionsrechts oder des Rechts des betreffenden Mitgliedstaats über Marken oder andere Zeichen mit Unterscheidungskraft, Patente und Gebrauchsmuster, Schriftzeichen, zivilrechtliche Haftung und unlauteren Wettbewerb unberührt."
+    }
+   ]
+  },
+  {
+   "nr": "23",
+   "titel": "Verhältnis zum Urheberrecht",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Ein nach Maßgabe dieser Richtlinie durch ein in einem oder mit Wirkung für einen Mitgliedstaat eingetragenes Design geschütztes Design ist auch nach dem Urheberrecht von dem Zeitpunkt an schutzfähig, an dem das Design geschaffen oder in irgendeiner Form festgelegt wurde, sofern die Anforderungen des Urheberrechts erfüllt sind."
+    }
+   ]
+  },
+  {
+   "nr": "24",
+   "titel": "Eintragungssymbol",
+   "kapitel": "KAPITEL 2 – MATERIELLES RECHT ZU DESIGNS",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Der Inhaber eines eingetragenen Designs kann die Öffentlichkeit über die Eintragung des Designs informieren, indem er auf dem Erzeugnis, in das das Design aufgenommen oder bei dem es verwendet wird, den Buchstaben D innerhalb eines Kreises (Ⓓ)\nanbringt. Diesem Hinweis auf das Design kann die Eintragungsnummer des Designs beigefügt werden oder er kann mit der Registereintragung des Designs verlinkt werden."
+    }
+   ]
+  },
+  {
+   "nr": "25",
+   "titel": "Anforderungen für die Anmeldung",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Anmeldung eines Designs muss mindestens Folgendes enthalten:\na) einen Antrag auf Eintragung;\nb) Angaben, die es erlauben, die Identität des Anmelders festzustellen;\nc) eine hinreichend klare Wiedergabe des Designs, die es ermöglicht, den Gegenstand, für den Schutz beansprucht wird, zu bestimmen;\nd) die Angabe derjenigen Erzeugnisse, in die das Design aufgenommen oder bei denen es verwendet werden soll."
+    },
+    {
+     "nr": "2",
+     "text": "Für die Anmeldung eines Designs sind die von dem betreffenden Mitgliedstaat festgesetzten Gebühren zu entrichten."
+    },
+    {
+     "nr": "3",
+     "text": "Die Angabe der Erzeugnisse gemäß Absatz 1 Buchstabe d berührt nicht den Schutzumfang für das Design. Dies gilt auch für eine Beschreibung zur Erläuterung der Wiedergabe und jegliche darin enthaltene verbale Verzichtserklärung, wenn eine solche Beschreibung von einem Mitgliedstaat vorgesehen ist."
+    }
+   ]
+  },
+  {
+   "nr": "26",
+   "titel": "Darstellung des Designs",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Das Design ist in einer beliebigen Form visuell darzustellen, entweder in Schwarz-Weiß oder in Farbe. Die Wiedergabe kann statisch, dynamisch oder animiert sein und erfolgt mit allen geeigneten Mitteln unter Verwendung allgemein zugänglicher Technologien, einschließlich Zeichnungen, Fotografien, Videos, Computerbildgebung oder Computermodellierung."
+    },
+    {
+     "nr": "2",
+     "text": "Die Wiedergabe muss alle Merkmale des Designs, für die Schutz beansprucht wird, in einer oder mehreren Ansichten zeigen. Darüber hinaus können andere Arten von Ansichten eingereicht werden, um spezifische Merkmale des Designs näher zu erläutern."
+    },
+    {
+     "nr": "3",
+     "text": "Enthält die Wiedergabe unterschiedliche Darstellungen des Designs oder enthält sie mehr als eine Ansicht, so müssen diese miteinander im Einklang stehen, und der Gegenstand der Eintragung wird durch alle visuellen Merkmale dieser Ansichten oder Darstellungen — in Kombination — bestimmt."
+    },
+    {
+     "nr": "4",
+     "text": "Das Design muss allein dargestellt werden, ohne sonstige zusätzliche Elemente."
+    },
+    {
+     "nr": "5",
+     "text": "Elemente, für die kein Schutz beansprucht wird, sind mit visuellen Verzichtserklärungen zu kennzeichnen. Diese visuellen Verzichtserklärungen sind einheitlich zu verwenden."
+    },
+    {
+     "nr": "6",
+     "text": "Die Zentralbehörden für den gewerblichen Rechtsschutz der Mitgliedstaaten und das Benelux-Amt für geistiges Eigentum arbeiten untereinander und mit dem Amt der Europäischen Union für geistiges Eigentum zusammen, um gemeinsame Standards für die Anforderungen an die Wiedergabe und die Mittel der Darstellung von Designs festzulegen, insbesondere in Bezug auf die Art und Anzahl der zu verwendenden Ansichten, die Arten zulässiger visueller Verzichtserklärungen sowie die technischen Spezifikationen der für die Wiedergabe, Speicherung und Anmeldung von Designs zu verwendenden Mittel, wie Formate und Größe der entsprechenden elektronischen Dateien."
+    }
+   ]
+  },
+  {
+   "nr": "27",
+   "titel": "Sammelanmeldungen",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Mehrere Designs können in einer Sammelanmeldung für eingetragene Designs zusammengefasst werden. Diese Möglichkeit unterliegt nicht dem Erfordernis, dass alle Erzeugnisse, in die die Designs aufgenommen oder bei denen sie verwendet werden sollen, derselben Klasse der Locarno-Klassifikation angehören müssen."
+    }
+   ]
+  },
+  {
+   "nr": "28",
+   "titel": "Anmeldetag",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Anmeldetag eines Designs ist der Tag, an dem der Anmelder die Unterlagen mit den Angaben nach Artikel 25 Absatz 1 Buchstaben a bis c beim Amt eingereicht hat."
+    },
+    {
+     "nr": "2",
+     "text": "Unbeschadet des Absatzes 1 des vorliegenden Artikels kann der Anmeldetag zuerkannt werden, wenn ein oder mehrere der nach Artikel 26 erforderlichen Element(e) fehlen, sofern die Wiedergabe des Designs als Ganzes im Sinne von Artikel 25 Absatz 1 Buchstabe c hinreichend klar ist."
+    },
+    {
+     "nr": "3",
+     "text": "Die Mitgliedstaaten können die Zuerkennung des Anmeldetags zudem von der Zahlung einer Gebühr gemäß Artikel 25 Absatz 2 abhängig machen."
+    }
+   ]
+  },
+  {
+   "nr": "29",
+   "titel": "Umfang der materiellrechtlichen Prüfung",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Die Ämter beschränken ihre Prüfung, ob das angemeldete Design eintragungsfähig ist, auf das Fehlen der in Artikel 13 genannten materiellrechtlichen Eintragungshindernisse."
+    }
+   ]
+  },
+  {
+   "nr": "30",
+   "titel": "Aufschiebung der Bekanntmachung",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Anmelder eines Designs kann mit der Anmeldung beantragen, die Bekanntmachung des eingetragenen Designs um bis zu 30 Monate ab dem Anmeldetag oder, wenn Priorität in Anspruch genommen wird, ab dem Prioritätstag aufzuschieben."
+    },
+    {
+     "nr": "2",
+     "text": "Ist das Design eingetragen, so sind — vorbehaltlich der Bestimmungen des nationalen Rechts zum Schutz berechtigter Interessen Dritter — weder die Wiedergabe des Designs noch Akten im Zusammenhang mit der Anmeldung öffentlich einsehbar."
+    },
+    {
+     "nr": "3",
+     "text": "Es wird ein Hinweis auf die Aufschiebung der Bekanntmachung des eingetragenen Designs veröffentlicht."
+    },
+    {
+     "nr": "4",
+     "text": "Bei Ablauf der Aufschiebungsfrist oder zu einem früheren vom Rechtsinhaber beantragten Zeitpunkt stellt das Amt alle Eintragungen im Register und die Akte betreffend die Anmeldung zur öffentlichen Einsichtnahme bereit und macht das eingetragene Design bekannt."
+    },
+    {
+     "nr": "5",
+     "text": "Der Rechtsinhaber kann die Bekanntmachung des eingetragenen Designs nach Absatz 4 verhindern, indem er einen Antrag auf Verzicht auf das eingetragene Design einreicht."
+    },
+    {
+     "nr": "6",
+     "text": "Die Mitgliedstaaten können abweichend von den Absätzen 4 und 5 vorsehen, dass das Amt das eingetragene Design nur auf Antrag des Rechtsinhabers bekanntmacht. Sieht ein Mitgliedstaat die Zahlung einer Bekanntmachungsgebühr vor, so kann der Erhalt der Zahlung dieser Gebühr als ein solcher Antrag gelten."
+    }
+   ]
+  },
+  {
+   "nr": "31",
+   "titel": "Verfahren zur Erklärung der Nichtigkeit",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Unbeschadet des Rechts der Parteien auf Einlegung von Rechtsmitteln bei einem Gericht können die Mitgliedstaaten für die Erklärung der Nichtigkeit des eingetragenen Designs ein effizientes und zügiges Verwaltungsverfahren bei ihren Ämtern bereitstellen."
+    },
+    {
+     "nr": "2",
+     "text": "Im Verwaltungsverfahren zur Erklärung der Nichtigkeit nach Absatz 1 ist vorzusehen, dass das Design zumindest aus den folgenden Gründen für nichtig zu erklären ist:\na) Das Design hätte nicht eingetragen werden dürfen, weil es nicht der Begriffsbestimmung in Artikel 2 Nummer 3 entspricht oder nicht die Voraussetzungen der Artikel 3 bis 8 erfüllt;\nb) das Design hätte aufgrund eines Verstoßes gegen Artikel 13 Absatz 1 Buchstabe c nicht eingetragen werden dürfen;\nc) das Design hätte nicht eingetragen werden dürfen, weil ein älteres Design im Sinne des Artikels 14 Absatz 1 Buchstabe e besteht."
+    },
+    {
+     "nr": "3",
+     "text": "Im Rahmen des Verwaltungsverfahrens nach Absatz 1 sind folgende Personen berechtigt, einen Antrag auf Nichtigerklärung eines Designs zu stellen:\na) im Fall von Absatz 2 Buchstabe a des vorliegenden Artikels die in Artikel 14 Absatz 3 genannten Personen, Gruppen oder Stellen;\nb) im Fall von Absatz 2 Buchstabe b des vorliegenden Artikels die in Artikel 14 Absatz 4 genannten Personen oder Rechtsträger;\nc) im Fall von Absatz 2 Buchstabe c des vorliegenden Artikels zumindest die in Artikel 14 Absatz 6 Buchstaben a und b genannten Personen."
+    }
+   ]
+  },
+  {
+   "nr": "32",
+   "titel": "Erneuerung",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Eintragung eines Designs wird auf Antrag des Inhabers des eingetragenen Designs oder einer per Gesetz oder Vertrag zum Antrag auf Erneuerung ermächtigten Person erneuert, sofern die Erneuerungsgebühren entrichtet worden sind. Die Mitgliedstaaten können vorsehen, dass der Erhalt der Zahlung der Verlängerungsgebühren als entsprechender Antrag gilt."
+    },
+    {
+     "nr": "2",
+     "text": "Das Amt unterrichtet den Inhaber des eingetragenen Designs mindestens sechs Monate im Voraus über das Erlöschen der Eintragung. Das Amt haftet nicht, wenn es die Erteilung der betreffenden Auskunft unterlässt; diese Unterlassung hat keinen Einfluss auf das Erlöschen der Eintragung."
+    },
+    {
+     "nr": "3",
+     "text": "Innerhalb eines Zeitraums von mindestens sechs Monaten unmittelbar vor Erlöschen der Eintragung sind der Antrag auf Erneuerung einzureichen und die Erneuerungsgebühren zu entrichten.\nAnderenfalls kann der Antrag noch innerhalb einer Nachfrist von sechs Monaten unmittelbar nach Erlöschen der Eintragung oder der erfolgten Erneuerung eingereicht werden. Innerhalb dieser Nachfrist sind die Erneuerungsgebühren und eine Zuschlagsgebühr zu entrichten."
+    },
+    {
+     "nr": "4",
+     "text": "Reichen bei einer Sammeleintragung die entrichteten Erneuerungsgebühren nicht aus, um alle Designs abzudecken, für die die Erneuerung beantragt wird, so wird die Eintragung für diejenigen Designs erneuert, bei denen eindeutig ist, dass sie durch den gezahlten Betrag gedeckt werden sollen."
+    },
+    {
+     "nr": "5",
+     "text": "Die Erneuerung wird am Tag nach dem Erlöschen der Eintragung wirksam. Sie wird im Register vermerkt."
+    }
+   ]
+  },
+  {
+   "nr": "33",
+   "titel": "Kommunikation mit dem Amt",
+   "kapitel": "KAPITEL 3 – VERFAHREN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Die an den Verfahren beteiligten Parteien oder gegebenenfalls ihre Vertreter geben eine offizielle Adresse für den gesamten Geschäftsverkehr mit dem Amt an. Die Mitgliedstaaten können verlangen, dass sich diese offizielle Adresse im Europäischen Wirtschaftsraum befindet."
+    }
+   ]
+  },
+  {
+   "nr": "34",
+   "titel": "Zusammenarbeit im Bereich der Eintragung, Verwaltung und Nichtigkeit von Designs",
+   "kapitel": "KAPITEL 4 – VERWALTUNGSZUSAMMENARBEIT",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Den Ämtern steht es frei, miteinander und mit dem Amt der Europäischen Union für geistiges Eigentum effektiv zusammenzuarbeiten, um die Angleichung von Vorgehensweisen und technischen Hilfsmitteln im Zusammenhang mit der Prüfung, Eintragung und Erklärung der Nichtigkeit von Designs zu fördern."
+    }
+   ]
+  },
+  {
+   "nr": "35",
+   "titel": "Zusammenarbeit in anderen Bereichen",
+   "kapitel": "KAPITEL 4 – VERWALTUNGSZUSAMMENARBEIT",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Den Ämtern steht es frei, in allen anderen als den in Artikel 34 genannten Tätigkeitsbereichen, die für den Designschutz in der Union von Belang sind, miteinander und mit dem Amt der Europäischen Union für geistiges Eigentum effektiv zusammenzuarbeiten."
+    }
+   ]
+  },
+  {
+   "nr": "36",
+   "titel": "Umsetzung",
+   "kapitel": "KAPITEL 5 – SCHLUSSBESTIMMUNGEN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Mitgliedstaaten setzen die Rechts- und Verwaltungsvorschriften, die erforderlich sind, um den Artikeln 2 und 3, 6, 10 bis 19, 21, 23 bis 30 sowie 32 und 33 nachzukommen, bis zum 9. Dezember 2027 in Kraft. Sie teilen der Kommission unverzüglich den Wortlaut dieser Vorschriften mit.\nBei Erlass dieser Vorschriften nehmen die Mitgliedstaaten in den Vorschriften selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf die vorliegende Richtlinie Bezug. In diese Vorschriften fügen sie die Erklärung ein, dass Bezugnahmen in den geltenden Rechts- und Verwaltungsvorschriften auf die durch die vorliegende Richtlinie aufgehobene Richtlinie als Bezugnahmen auf die vorliegende Richtlinie gelten. Die Mitgliedstaaten regeln die Einzelheiten dieser Bezugnahme und die Formulierung dieser Erklärung."
+    },
+    {
+     "nr": "2",
+     "text": "Die Mitgliedstaaten teilen der Kommission den Wortlaut der wichtigsten nationalen Vorschriften mit, die sie auf dem unter diese Richtlinie fallenden Gebiet erlassen."
+    }
+   ]
+  },
+  {
+   "nr": "37",
+   "titel": "Aufhebung",
+   "kapitel": "KAPITEL 5 – SCHLUSSBESTIMMUNGEN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Die Richtlinie 98/71/EG wird unbeschadet der Verpflichtungen der Mitgliedstaaten hinsichtlich der in Anhang I genannten Frist für die Umsetzung der Richtlinie in nationales Recht mit Wirkung vom 9. Dezember 2027 aufgehoben.\nBezugnahmen auf die aufgehobene Richtlinie gelten als Bezugnahmen auf die vorliegende Richtlinie und sind nach Maßgabe der Entsprechungstabelle in Anhang II zu lesen."
+    }
+   ]
+  },
+  {
+   "nr": "38",
+   "titel": "Inkrafttreten",
+   "kapitel": "KAPITEL 5 – SCHLUSSBESTIMMUNGEN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Diese Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.\nDie Artikel 4, 5, 7, 8, 9, 20 und 22 gelten ab dem 9. Dezember 2027."
+    }
+   ]
+  },
+  {
+   "nr": "39",
+   "titel": "Adressaten",
+   "kapitel": "KAPITEL 5 – SCHLUSSBESTIMMUNGEN",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Diese Richtlinie ist an die Mitgliedstaaten gerichtet.\nGeschehen zu Straßburg am 23. Oktober 2024.\nIm Namen des Europäischen Parlaments\nDie Präsidentin\nR. METSOLA\nIm Namen des Rates\nDer Präsident\nZSIGMOND B. P.\n.\nStandpunkt des Europäischen Parlaments vom 14. März 2024 (noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates vom 10. Oktober 2024.\nRichtlinie 98/71/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über den rechtlichen Schutz von Mustern und Modellen .\nVerordnung (EG) Nr. 6/2002 des Rates vom 12. Dezember 2001 über das Gemeinschaftsdesign .\n.\nVerordnung (EU) Nr. 608/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 zur Durchsetzung der Rechte geistigen Eigentums durch die Zollbehörden und zur Aufhebung der Verordnung (EG) Nr. 1383/2003 des Rates .\nUrteil des Gerichtshofs vom 20. Dezember 2017, Acacia Srl gegen Pneusgarda Srl und Audi AG und Acacia Srl und Rolando D’Amato gegen Dr. Ing. h.c. F. Porsche AG, verbundene Rechtssachen C-397/16 und C-435/16, ECLI:EU:C:2017:992.\nVerordnung (EU) 2018/1725 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe, Einrichtungen und sonstigen Stellen der Union, zum freien Datenverkehr und zur Aufhebung der Verordnung (EG) Nr. 45/2001 und des Beschlusses Nr. 1247/2002/EG .\nANHANG I\nFrist für die Umsetzung in nationales Recht (gemäß Artikel 37)\nRichtlinie Umsetzungsfrist\n98/71/EG 28. Oktober 2001\nANHANG II\nEntsprechungstabelle\nRichtlinie 98/71/EG Vorliegende Richtlinie\nArtikel 1, einleitende Worte Artikel 2, einleitende Worte\n— Artikel 2 Nummern 1 und 2\nArtikel 1 Buchstabe a Artikel 2 Nummer 3\nArtikel 1 Buchstabe b Artikel 2 Nummer 4\nArtikel 1 Buchstabe c Artikel 2 Nummer 5\nArtikel 2 Artikel 1\nArtikel 3 bis 10 Artikel 3 bis 10\n— Artikel 11 und 12\nArtikel 11 Artikel 13 und 14\n— Artikel 15\nArtikel 12 Absatz 1 Artikel 16 Absatz 1 und Absatz 2 Buchstaben a, b und c\n— Artikel 16 Absatz 2 Buchstabe d\n— Artikel 16 Absatz 3\nArtikel 12 Absatz 2 —\n— Artikel 17\nArtikel 13 Absatz 1 Buchstaben a, b und c Artikel 18 Absatz 1 Buchstaben a, b und c\n— Artikel 18 Absatz 1 Buchstaben d und e\nArtikel 13 Absatz 2 Buchstaben a, b und c Artikel 18 Absatz 1 Buchstaben f, g und h\n— Artikel 18 Absatz 2\nArtikel 14 —\n— Artikel 19\nArtikel 15 Artikel 20\n— Artikel 21\nArtikel 16 Artikel 22\nArtikel 17 Artikel 23\n— Artikel 24 bis 35\nArtikel 18 —\nArtikel 19 Artikel 36\n— Artikel 37\nArtikel 20 Artikel 38\nArtikel 21 Artikel 39\n— Anhang I\n— Anhang II\nELI: http://data.europa.eu/eli/dir/2024/2823/oj\nISSN 1977-0642 (electronic edition)"
+    }
+   ]
+  }
+ ],
+ "erwaegungsgruende": [
+  {
+   "nr": "1",
+   "text": "Die Richtlinie 98/71/EG des Europäischen Parlaments und des Rates ist erheblich zu ändern. Aus Gründen der Klarheit empfiehlt es sich, die genannte Richtlinie neu zu fassen."
+  },
+  {
+   "nr": "2",
+   "text": "Durch die Richtlinie 98/71/EG wurden zentrale Bestimmungen des materiellen Rechts der Mitgliedstaaten zu Designs angeglichen, von denen man bei Erlass der Richtlinie annahm, dass sie den freien Waren- und Dienstleistungsverkehr in der Union behindern und sich so am unmittelbarsten auf die Funktionsweise des Binnenmarkts auswirken würden."
+  },
+  {
+   "nr": "3",
+   "text": "Der Designschutz gemäß den nationalen Rechtsvorschriften der Mitgliedstaaten existiert neben dem auf Unionsebene bestehenden Designschutz der Europäischen Union (im Folgenden „Unionsdesign“), der gemäß der Verordnung (EG) Nr. 6/2002 des Rates einheitlich und unionsweit gültig ist. Die Koexistenz und Ausgewogenheit der Designschutzsysteme auf Unions- und nationaler Ebene ist fester Bestandteil der Strategie, die die Union im Bereich des Schutzes des geistigen Eigentums verfolgt."
+  },
+  {
+   "nr": "4",
+   "text": "Im Einklang mit ihrer Mitteilung vom 19. Mai 2015 mit dem Titel „Bessere Ergebnisse durch bessere Rechtsetzung — Eine Agenda“ und ihrer Verpflichtung, die Maßnahmen der Union regelmäßig zu überprüfen, führte die Kommission eine eingehende Bewertung der Designschutzsysteme in der Union durch, die eine umfassende wirtschaftliche und rechtliche Bewertung umfasste, die durch eine Reihe von Studien untermauert wurde."
+  },
+  {
+   "nr": "5",
+   "text": "In seinen Schlussfolgerungen vom 10. November 2020 zur Politik des geistigen Eigentums und zur Überarbeitung des Systems gewerblicher Muster und Modelle in der Union forderte der Rat die Kommission auf, Vorschläge für die Überarbeitung der Verordnung (EG) Nr. 6/2002 und der Richtlinie 98/71/EG zu unterbreiten. Die Überarbeitung wurde aufgrund der Notwendigkeit gefordert, die Systeme gewerblicher Muster und Modelle zu modernisieren und den Designschutz für einzelne Entwerfer und Unternehmen — insbesondere für kleine und mittlere Unternehmen (KMU) — attraktiver zu gestalten. Um diese Überarbeitung wurde insbesondere ersucht, um Änderungen anzugehen und zu prüfen, die darauf abzielen, das Zusammenspiel zwischen den Unions-, nationalen und regionalen Designschutzsystemen zu unterstützen und zu stärken und weitere Anstrengungen zur Verringerung von Unterschieden innerhalb des Designschutzsystems in der Union zu unternehmen."
+  },
+  {
+   "nr": "6",
+   "text": "Auf der Grundlage der endgültigen Ergebnisse der Bewertung kündigte die Kommission in ihrer Mitteilung vom 25. November 2020 mit dem Titel „Das Innovationspotenzial der EU optimal nutzen — Aktionsplan für geistiges Eigentum zur Förderung von Erholung und Resilienz der EU“ an, dass sie im Anschluss an die erfolgreiche Reform des Markenrechts der Union die Rechtsvorschriften der Union zum Designschutz im Hinblick darauf, das System zu vereinfachen und es besser zugänglich und effizienter zu machen sowie den Regelungsrahmen angesichts der Entwicklungen bei neuen Technologien auf dem Mark zu aktualisieren, überarbeiten werde."
+  },
+  {
+   "nr": "7",
+   "text": "In seiner Entschließung vom 11. November 2021 zu einem Aktionsplan für geistiges Eigentum zur Förderung der Erholung und Resilienz der EU begrüßte das Europäische Parlament die Bereitschaft der Kommission, die Rechtsvorschriften der Union zum Designschutz zu modernisieren, um den Übergang zur digitalen, nachhaltigen und ökologischen Wirtschaft besser zu unterstützen, forderte die Kommission auf, die Anmelde- und Nichtigkeitsverfahren in den Mitgliedstaaten weiter zu harmonisieren, und schlug vor, über die Angleichung der Richtlinie 98/71/EG und der Verordnung (EG) Nr. 6/2002 nachzudenken, um eine stärkere Rechtssicherheit zu schaffen. In dieser Entschließung stellte das Europäische Parlament zudem fest, dass das EU-System zum Schutz von Designs an das EU-Markensystem angeglichen werden sollte, damit Inhaber von Designs verhindern können, dass Waren, die gegen den Designschutz verstoßen, in das Zollgebiet der EU gelangen, und forderte die Kommission auf, es Markeninhabern zu ermöglichen, auf der Durchfuhr durch die EU befindliche Waren, die den Designschutz verletzen, aus dem Verkehr zu ziehen. Zudem wurde darin festgestellt, dass der Musterschutz für Teile, die zur Reparatur komplexer Produkte verwendet werden, nur teilweise harmonisiert ist und dass dies zu einer Fragmentierung des Binnenmarkts und zu Rechtsunsicherheit führt."
+  },
+  {
+   "nr": "8",
+   "text": "Die von der Kommission durchgeführte Konsultation und Evaluierung durch die Kommission hat gezeigt, dass es trotz der bisherigen Harmonisierung der nationalen Rechtsvorschriften noch Bereiche gibt, in denen eine weitere Harmonisierung positive Auswirkungen auf Wettbewerbsfähigkeit und Wachstum haben könnte, insbesondere aufgrund der Verbesserung des Zugangs von KMU zum Designschutzsystem."
+  },
+  {
+   "nr": "9",
+   "text": "Um einen gut funktionierenden Binnenmarkt zu gewährleisten und gegebenenfalls die Begründung, die Verwaltung und den Schutz von Designs in der Union zum Nutzen des Wachstums und der Wettbewerbsfähigkeit der Unternehmen in der Union, insbesondere der KMU, zu erleichtern und gleichzeitig den Interessen der Verbraucher gebührend Rechnung zu tragen, ist es erforderlich, die mit der Richtlinie 98/71/EG erreichte Angleichung der Rechtsvorschriften auf andere Aspekte des materiellen Rechts zu Designs auszuweiten, das für Designs, die durch Eintragung gemäß der Verordnung (EG) Nr. 6/2002 geschützt sind, gilt."
+  },
+  {
+   "nr": "10",
+   "text": "Darüber hinaus müssen die Verfahrensvorschriften angeglichen werden, um die Begründung, die Verwaltung und den Schutz von Designs in der Union zu erleichtern. Deshalb sollten bestimmte grundlegende Verfahrensvorschriften im Bereich der Eintragung von Designs in den Mitgliedstaaten und im Unionsdesignsystem angeglichen werden. In Bezug auf die nationalen Verfahren reicht es aus, allgemeine Grundsätze festzulegen, die es den Mitgliedstaaten gestatten, diese durch konkretere Regelungen auszugestalten."
+  },
+  {
+   "nr": "11",
+   "text": "Diese Richtlinie schließt nicht aus, dass auf Designs Rechtsvorschriften Anwendung finden, die einen anderen Schutz als den durch die Eintragung oder Bekanntmachung als Design erworbenen Schutz gewähren, wie die Unionsvorschriften über nicht eingetragene Designs oder die Unionsvorschriften oder nationalen Rechtsvorschriften zu Marken, Patenten und Gebrauchsmustern, unlauterem Wettbewerb oder zivilrechtlicher Haftung."
+  },
+  {
+   "nr": "12",
+   "text": "Es ist wichtig, den Grundsatz der Kumulation des Schutzes nach dem einschlägigen Recht für den Schutz eingetragener Designs und nach dem Urheberrecht festzulegen; dabei sollten Designs, die durch Designs geschützt sind, ebenfalls als urheberrechtlich geschützte Werke geschützt werden können, sofern die Anforderungen des Urheberrechts erfüllt sind."
+  },
+  {
+   "nr": "13",
+   "text": "Für die Verwirklichung der Ziele des Binnenmarkts ist es erforderlich, dass die Bedingungen für die Begründung eines eingetragenen Designs in allen Mitgliedstaaten harmonisiert sind. Zu diesem Zweck ist es notwendig, einheitliche Definitionen der Begriffe des Designs und des Erzeugnisses aufzustellen, die klar, transparent und technologisch auf dem neuesten Stand sind, auch mit Blick auf das Aufkommen neuer Designs, die nicht in physischen Erzeugnissen verkörpert sind. Obwohl die Liste der betreffenden Erzeugnisse nicht erschöpfend sein soll, ist es angebracht, Erzeugnisse zu unterscheiden, die in einem physischen Objekt verkörpert oder einer graphischen Darstellung visualisiert sind oder die sich aus der räumlichen Anordnung von Gegenständen ergeben, die eine Gestaltung eines Innen- oder Außenraums bilden sollen. In diesem Zusammenhang sollte anerkannt werden, dass Animationen wie die Bewegung oder die Zustandsänderung der Merkmale eines Erzeugnisses, zur Erscheinungsform von Designs beitragen können, insbesondere bei Designs, die nicht in einem physischen Objekt verkörpert sind. Ferner besteht Bedarf an einer einheitlichen Definition der Voraussetzungen im Hinblick auf Neuheit und Eigenart, die eingetragene Designs erfüllen müssen."
+  },
+  {
+   "nr": "14",
+   "text": "Für die Erleichterung des freien Warenverkehrs ist es erforderlich, dass eingetragene Designs dem Rechtsinhaber in allen Mitgliedstaaten grundsätzlich einen gleichwertigen Schutz gewähren."
+  },
+  {
+   "nr": "15",
+   "text": "Dem Rechtsinhaber wird Schutz durch Eintragung eines Designs für diejenigen Designmerkmale eines Erzeugnisses oder eines Teils davon gewährt, die in einer Anmeldung eines solchen Designs sichtbar wiedergegeben und der Öffentlichkeit durch Bekanntmachung oder Einsichtnahme in die die Anmeldung betreffende Akte zugänglich gemacht worden sind."
+  },
+  {
+   "nr": "16",
+   "text": "Abgesehen von der sichtbaren Wiedergabe in einer Anmeldung müssen die Designmerkmale eines Erzeugnisses zu keinem bestimmten Zeitpunkt bzw. in keiner bestimmten Verwendungssituation sichtbar sein, damit der Designschutz wirksam werden kann. Abweichend von diesem Grundsatz sollte sich der Schutz weder auf Bauelemente erstrecken, die während der üblichen Verwendung eines komplexen Erzeugnisses nicht sichtbar sind, noch auf Merkmale eines Bauelements, die nicht sichtbar sind, wenn das Bauelement eingebaut ist, oder die selbst nicht die Voraussetzungen in Bezug auf die Neuheit oder Eigenart erfüllen. Daher sollten Designmerkmale von Bauelementen eines komplexen Erzeugnisses, die aus diesen Gründen vom Schutz ausgenommen sind, bei der Beurteilung, ob andere Designmerkmale die Schutzvoraussetzungen erfüllen, nicht herangezogen werden."
+  },
+  {
+   "nr": "17",
+   "text": "Die Erzeugnisangabe sollte zwar Teil einer Anmeldung eines Designs sein, sie sollte jedoch den Schutzumfang des Designs als solchen nicht berühren. Die Erzeugnisangaben können neben der Wiedergabe des Designs jedoch dazu dienen, die Art des Erzeugnisses zu bestimmen, in das das Design aufgenommen oder bei dem es verwendet werden soll. Darüber hinaus verbessern die Erzeugnisangaben die Recherchierbarkeit von Designs im Designregister, das von einer Behörde für den gewerblichen Rechtsschutz geführt wird, und sie erhöhen die Transparenz und Zugänglichkeit eines Registers. Daher sollten vor der Eintragung genaue Erzeugnisangaben vorhanden sein, ohne dass die Anmelder von Designs übermäßig belastet werden."
+  },
+  {
+   "nr": "18",
+   "text": "Die Eigenart eines Designs sollte danach beurteilt werden, ob sich der Gesamteindruck, den der Anblick des Designs beim informierten Benutzer hervorruft, von dem unterscheidet, den ein beliebiges anderes Design, das Teil des vorbestehenden Formschatzes ist, bei diesem Nutzer hervorruft; diese Beurteilung sollte die Art des Erzeugnisses, bei dem das Design verwendet wird oder in das es aufgenommen wird, und insbesondere den Industriesektor, zu dem es gehört, und den Grad der Gestaltungsfreiheit des Entwerfers bei der Entwicklung des Designs berücksichtigen."
+  },
+  {
+   "nr": "19",
+   "text": "Technologische Innovationen sollten nicht durch den rechtlichen Designschutz für Designs, die ausschließlich aus technisch bedingten Merkmalen oder aus der Anordnung solcher Merkmale bestehen, behindert werden. Dies setzt jedoch nicht voraus, dass ein Design einen ästhetischen Gehalt aufweisen muss. Ein eingetragenes Design könnte für nichtig erklärt werden, wenn bei der Wahl der Erscheinungsmerkmale andere Erwägungen als das Erfordernis, dass das Erzeugnis seine technische Funktion erfüllt, insbesondere solche, die mit der visuellen Erscheinung zusammenhängen, keine Rolle gespielt haben."
+  },
+  {
+   "nr": "20",
+   "text": "Ebenso wenig sollte die Interoperabilität von Erzeugnissen unterschiedlichen Fabrikats dadurch behindert werden, dass sich der Schutz auf das Design mechanischer Verbindungselemente erstreckt."
+  },
+  {
+   "nr": "21",
+   "text": "Abweichend hiervon können die mechanischen Verbindungselemente von modularen Erzeugnissen ein wichtiges Element der innovativen Merkmale von modularen Erzeugnissen bilden und einen wesentlichen Marktvorteil darstellen, und sollten daher schutzfähig sein."
+  },
+  {
+   "nr": "22",
+   "text": "Es sollte kein Design bestehen, wenn es gegen die öffentliche Ordnung oder gegen die guten Sitten verstößt. Diese Richtlinie stellt jedoch keine Harmonisierung der nationalen Begriffe der öffentlichen Ordnung oder der guten Sitten dar."
+  },
+  {
+   "nr": "23",
+   "text": "Für das reibungslose Funktionieren des Binnenmarkts ist es entscheidend, die durch eingetragene Designs gewährte Schutzdauer zu vereinheitlichen."
+  },
+  {
+   "nr": "24",
+   "text": "Diese Richtlinie lässt die Anwendbarkeit der Wettbewerbsregeln der Artikel 101 und 102 des Vertrags über die Arbeitsweise der Europäischen Union unberührt."
+  },
+  {
+   "nr": "25",
+   "text": "Aus Gründen der Rechtssicherheit sollten die materiellrechtlichen Eintragungshindernisse und die Sachgründe für die Nichtigkeit eingetragener Designs in allen Mitgliedstaaten in dieser Richtlinie erschöpfend aufgezählt werden."
+  },
+  {
+   "nr": "26",
+   "text": "Um die missbräuchliche Benutzung von Symbolen von öffentlichem Interesse in einem Mitgliedstaat, die nicht in Artikel 6ter der am 20. März 1883 in Paris unterzeichneten Übereinkunft zum Schutz des gewerblichen Eigentums (im Folgenden „Pariser Übereinkunft“) genannt sind, zu verhindern, sollte es den Mitgliedstaaten jedoch freistehen, spezifische Eintragungshindernisse vorzusehen. Auch um die unzulässige Eintragung und die missbräuchliche Verwendung von Elementen, die zum kulturellen Erbe gehören und von nationalem Interesse sind, zu verhindern, sollte es den Mitgliedstaaten freistehen, spezifische Eintragungshindernisse und Nichtigkeitsgründe vorzusehen. Solche Elemente des kulturellen Erbes, im Sinne des von der Generalkonferenz der Unesco am 16. November 1972 verabschiedeten Übereinkommens zum Schutz des Kultur- und Naturerbes der Welt, oder soweit sie materielle Ausdrucksformen immateriellen Kulturerbes im Sinne des von der Generalkonferenz der Unesco auf ihrer 32. Tagung vom 17. Oktober 2003 verabschiedeten Übereinkommens zur Erhaltung des immateriellen Kulturerbes darstellen, umfassen beispielsweise Denkmäler oder Gebäudegruppen, Artefakte, handwerkliche Erzeugnisse oder Trachten."
+  },
+  {
+   "nr": "27",
+   "text": "Angesichts des zunehmenden Einsatzes von 3D-Drucktechnologien in verschiedenen Branchen, unter anderem mithilfe von künstlicher Intelligenz, sowie der sich daraus für die Inhaber von Designs ergebenden Herausforderungen, unerlaubte Nachahmungen ihrer geschützten Designs wirksam zu verhindern, ist es angemessen vorzusehen, dass das Erstellen, Herunterladen, Kopieren und Verfügbarmachen von Medien oder Software, mit denen das Design für den Zweck aufgezeichnet wird, ein Erzeugnis in einer den Schutz des Designs verletzenden Weise nachzubilden, eine Verwendung des Designs darstellt, die der Genehmigung durch den Rechtsinhaber unterliegen sollte."
+  },
+  {
+   "nr": "28",
+   "text": "Um den Designschutz zu stärken und wirksamer gegen Produktpiraterie vorzugehen, sowie im Einklang mit den internationalen Verpflichtungen der Mitgliedstaaten gemäß dem Rahmen der Welthandelsorganisation (WTO), insbesondere Artikel V des Allgemeinen Zoll- und Handelsabkommens (GATT 1947) über die Freiheit der Durchfuhr, sowie — bezüglich Generika — der von der Ministerkonferenz der WTO am 14. November 2001 verabschiedeten Erklärung von Doha über das TRIPS-Übereinkommen und die öffentliche Gesundheit, sollte der Inhaber eines eingetragenen Designs Dritten verbieten können, im Handelsverkehr Erzeugnisse aus Drittländern in den Mitgliedstaat, in dem das Design eingetragen ist, zu verbringen, die in diesem Mitgliedstaat nicht in den zollrechtlich freien Verkehr überführt werden, wenn in solche Erzeugnisse ein identisches Design aufgenommen worden ist oder ein identisches Design bei solchen Erzeugnissen verwendet wird oder wenn das Design in seinen wesentlichen Merkmalen nicht von solchen Erzeugnissen unterschieden werden kann und der Rechtsinhaber keine Zustimmung erteilt hat."
+  },
+  {
+   "nr": "29",
+   "text": "Zu diesem Zweck sollte es Inhabern eingetragener Designs erlaubt sein, die Einfuhr rechtsverletzender Erzeugnisse und die Überführung solcher Erzeugnisse in allen zollrechtlichen Situationen, einschließlich insbesondere Durchfuhr, Umladung, Lagerung, Freizonen, vorübergehende Verwahrung, aktive Veredelung oder vorübergehende Verwendung, zu verhindern, und zwar auch dann, wenn diese Erzeugnisse nicht dazu bestimmt sind, in dem betreffenden Mitgliedstaat in Verkehr gebracht zu werden. Bei der Durchführung der Zollkontrollen sollten die Zollbehörden die in der Verordnung (EU) Nr. 608/2013 des Europäischen Parlaments und des Rates vorgesehenen Befugnisse und Verfahren, auch auf Ersuchen der Rechtsinhaber, wahrnehmen. Insbesondere sollten die Zollbehörden die einschlägigen Kontrollen anhand von Kriterien der Risikoanalyse durchführen."
+  },
+  {
+   "nr": "30",
+   "text": "Die Gewährleistung einer wirksamen Durchsetzung von Designrechten muss mit der Notwendigkeit in Einklang gebracht werden, eine Behinderung des freien Handels mit rechtmäßigen Erzeugnissen zu vermeiden; daher sollte der Anspruch des Inhabers eines Designs erlöschen, wenn im Zuge eines Verfahrens, das vor der für eine Sachentscheidung über eine Verletzung des eingetragenen Designs zuständigen Justiz- oder sonstigen Behörde eingeleitet wurde, der Anmelder oder der Besitzer der Erzeugnisse in der Lage ist nachzuweisen, dass der Inhaber des eingetragenen Designs nicht berechtigt ist, das Inverkehrbringen der Erzeugnisse im Endbestimmungsland zu untersagen."
+  },
+  {
+   "nr": "31",
+   "text": "Die ausschließlichen Rechte aus einem eingetragenen Design sollten angemessenen Beschränkungen unterliegen. Neben Handlungen, die im privaten Bereich zu nichtgewerblichen Zwecken vorgenommen werden, und Handlungen, die zu Versuchszwecken durchgeführt werden, sollte eine solche Liste zulässiger Verwendungen Wiedergabehandlungen zum Zweck der Zitierung oder der Lehre, die referenzielle Nutzung im Zusammenhang mit vergleichender Werbung und die Verwendung zu Zwecken der Kommentierung, Kritik oder Parodie umfassen, sofern diese Handlungen mit den Gepflogenheiten des redlichen Geschäftsverkehrs vereinbar sind und die normale Verwertung des Designs nicht unangemessen beeinträchtigen. Eine Benutzung eines Designs durch Dritte zu künstlerischen Zwecken sollte als rechtmäßig betrachtet werden, sofern die Benutzung den anständigen Gepflogenheiten in Gewerbe oder Handel entspricht. Außerdem sollte die vorliegende Richtlinie so angewendet werden, dass den Grundrechten und Grundfreiheiten, insbesondere dem Recht auf freie Meinungsäußerung, in vollem Umfang Rechnung getragen wird."
+  },
+  {
+   "nr": "32",
+   "text": "Zweck des Designschutzes ist es, ausschließliche Rechte an der Erscheinungsform eines Erzeugnisses zu gewähren, nicht aber ein Monopol für das Erzeugnis als solches. Der Schutz von Designs, zu denen es praktisch keine Alternativen gibt, würde zu einem De-facto-Produktmonopol führen. Ein solcher Schutz würde einem Missbrauch des Systems des Designschutzes nahekommen. Wenn es Dritten erlaubt würde, Ersatzteile herzustellen und zu vertreiben, wird der Wettbewerb aufrechterhalten. Würde der Designschutz auf Ersatzteile ausgedehnt, würden solche Dritte diese Rechte verletzen, es gäbe keinen Wettbewerb mehr, und dem Inhaber des Designs würde ein De-facto-Produktmonopol eingeräumt."
+  },
+  {
+   "nr": "33",
+   "text": "Die Unterschiede in den Rechtsvorschriften der Mitgliedstaaten über die Benutzung geschützter Designs zur Reparatur eines komplexen Erzeugnisses im Hinblick auf die Wiederherstellung von dessen ursprünglicher Erscheinungsform, wenn das Erzeugnis, in das das Design aufgenommen ist oder bei dem es benutzt wird, ein formabhängiges Bauelement eines komplexen Erzeugnisses ist, wirken sich unmittelbar auf die Einrichtung und das Funktionieren des Binnenmarkts aus. Solche Unterschiede verzerren den Wettbewerb und den Handel im Binnenmarkt und führen zu Rechtsunsicherheit. Wie in der Mitteilung der Kommission vom 11. Dezember 2019 über den „europäischen Grünen Deal“ hervorgehoben wird, ist die Reparierbarkeit von Produkten ein wesentliches Element einer nachhaltigen Wirtschaft."
+  },
+  {
+   "nr": "34",
+   "text": "Für das reibungslose Funktionieren des Binnenmarkts und zur Gewährleistung eines fairen Wettbewerbs ist es daher erforderlich, die Rechtsvorschriften der Mitgliedstaaten zum Designschutz in Bezug auf die Benutzung geschützter Designs zur Ermöglichung der Reparatur eines komplexen Erzeugnisses, um diesem wieder sein ursprüngliches Erscheinungsbild zu verleihen, durch die Aufnahme einer „Reparaturklausel“ anzugleichen, wie sie bereits in der Verordnung (EG) Nr. 6/2002 enthalten ist und auf Unionsebene für Unionsdesigns gilt, die jedoch ausdrücklich nur für formabhängige Bestandteile komplexer Erzeugnisse gelten sollte. Da die beabsichtigte Wirkung dieser Reparaturklausel darin besteht, der Durchsetzung von Designrechten entgegenzustehen, wenn das Design eines Bauelements eines komplexen Erzeugnisses zur Reparatur eines komplexen Erzeugnisses verwendet wird, um diesem wieder sein ursprüngliches Erscheinungsbild zu verleihen, sollte die Reparaturklausel zu den Verteidigungsmöglichkeiten gehören, die in dieser Richtlinie im Fall einer Verletzung von Designrechten vorgesehen sind. Um sicherzustellen, dass die Verbraucher nicht irregeführt werden und in der Lage sind, zwischen konkurrierenden Erzeugnissen, die für die Reparatur verwendet werden können, eine bewusste Entscheidung zu treffen, sollte ausdrücklich vorgesehen werden, dass ein Hersteller oder Verkäufer eines Bauelements, der es versäumt hat, die Verbraucher ordnungsgemäß über den gewerblichen Ursprung und die Identität des Herstellers des Erzeugnisses zu informieren, das für die Reparatur des komplexen Erzeugnisses verwendet werden soll, die Reparaturklausel nicht geltend machen kann. Diese ausführlichen Informationen sollten durch eine klare und sichtbare Angabe auf dem Erzeugnis oder, wenn dies nicht möglich ist, auf der Verpackung oder in einem Begleitdokument des Erzeugnisses bereitgestellt werden und mindestens die Marke, unter der das Erzeugnis vermarktet wird, und den Namen des Herstellers beinhalten."
+  },
+  {
+   "nr": "35",
+   "text": "Zur Wahrung der Wirksamkeit der mit dieser Richtlinie angestrebten Liberalisierung des Anschlussmarkts für Ersatzteile und im Einklang mit der Rechtsprechung des Gerichtshofs der Europäischen Union unterliegt der Hersteller oder Verkäufer eines Bauelements eines komplexen Erzeugnisses, um von der Ausnahmeregelung vom Designschutz im Sinne der Reparaturklausel profitieren zu können, einer Sorgfaltspflicht, mit geeigneten Mitteln, insbesondere vertraglicher Art, sicherzustellen, dass die nachgelagerten Benutzer die fraglichen Bauelemente nicht für eine andere Verwendung vorsehen als zur Reparatur eines komplexen Erzeugnisses im Hinblick auf die Wiederherstellung dessen ursprünglicher Erscheinungsform. In diesem Zusammenhang kann vom Hersteller oder Verkäufer eines Bauelements eines komplexen Erzeugnisses jedoch nicht erwartet werden, dass er objektiv und unter allen Umständen gewährleistet, dass die Bauelemente, die er herstellt oder verkauft, letztlich von den Endbenutzern tatsächlich ausschließlich für den Zweck der Reparatur eines komplexen Erzeugnisses im Hinblick auf die Wiederherstellung dessen ursprünglicher Erscheinungsform verwendet werden."
+  },
+  {
+   "nr": "36",
+   "text": "Um zu vermeiden, dass unterschiedliche Bedingungen in den Mitgliedstaaten in Bezug auf die Vorbenutzung zu Unterschieden in der rechtlichen Wirkung desselben Designs in verschiedenen Mitgliedstaaten führen, sollte sichergestellt werden, dass jeder Dritte, der nachweisen kann, dass er vor dem Anmeldetag eines Designs oder, wenn eine Priorität in Anspruch genommen wird, vor dem Prioritätstag gutgläubig mit der Verwendung eines in den Schutzumfang der eingetragenen Designs fallenden Designs, das keine Nachahmung darstellt, in einem Mitgliedstaat begonnen oder zu diesem Zweck ernsthafte und wirksame Vorbereitungen getroffen hat, Anspruch auf eine begrenzte Verwertung dieses Designs hat."
+  },
+  {
+   "nr": "37",
+   "text": "Um die Vermarktung von durch Designs geschützten Erzeugnissen insbesondere für KMU und einzelne Entwerfer zu erleichtern und das Bewusstsein für die sowohl auf Unionsebene als auch auf nationaler Ebene bestehenden Regelungen zur Eintragung von Designs zu schärfen, sollte für die Inhaber von Designs und, mit deren Zustimmung, auch andere Parteien ein allgemein anerkannter Hinweis, bestehend aus dem Symbol Ⓓ , zur Verfügung stehen."
+  },
+  {
+   "nr": "38",
+   "text": "Um den Zugang zum Designschutz zu verbessern und zu vereinfachen und um die Rechtssicherheit und Berechenbarkeit zu erhöhen, sollte das Verfahren für die Eintragung von Designs in den Mitgliedstaaten effizient und transparent sein und ähnlichen Regeln wie denen folgen, die für Unionsdesigns gelten."
+  },
+  {
+   "nr": "39",
+   "text": "Es müssen grundlegende gemeinsame Regeln für die Anforderungen an und die technischen Mittel für die Darstellung von Designs in jeder Form der visuellen Wiedergabe in der Phase der Einreichung der Anmeldung festgelegt werden, wobei technische Fortschritte in Bezug auf die Visualisierung von Designs und die Bedürfnisse der Industrie der Union in Bezug auf neue digitale Designs berücksichtigt werden sollten. Darüber hinaus sollten die Mitgliedstaaten harmonisierte Standards durch die Angleichung von Vorgehensweisen."
+  },
+  {
+   "nr": "40",
+   "text": "Zur Steigerung der Effizienz ist es ebenfalls angebracht, Anmeldern von Designs das Zusammenfassen mehrerer Designs in einer Sammelanmeldung zu gestatten, ohne der Bedingung zu unterliegen, dass die Erzeugnisse, in die die Designs aufgenommen oder bei denen sie verwendet werden sollen, alle derselben Klasse der Internationalen Klassifikation für gewerbliche Muster und Modelle nach dem Abkommen von Locarno (1968) („Locarno-Klassifikation“) angehören müssen."
+  },
+  {
+   "nr": "41",
+   "text": "Die normale Bekanntmachung nach Eintragung eines Designs könnte in manchen Fällen den kommerziellen Erfolg des Designs zunichtemachen oder gefährden. Die Möglichkeit, die Bekanntmachung aufzuschieben, schafft in solchen Fällen Abhilfe. Im Interesse der Kohärenz und größerer Rechtssicherheit und somit der Unterstützung der Unternehmen bei der Senkung von Kosten für die Verwaltung von Designportfolios sollte die Aufschiebung der Bekanntmachung in der gesamten Union denselben Regeln unterliegen."
+  },
+  {
+   "nr": "42",
+   "text": "Um gleiche Wettbewerbsbedingungen für Unternehmen sicherzustellen und einen einheitlichen Zugang zum Designschutz in der gesamten Union zu gewährleisten, indem die Eintragungs- und andere Verfahrensvorschriften für Anmelder auf ein Minimum beschränkt werden, sollten alle Zentralbehörden für den gewerblichen Rechtsschutz der Mitgliedstaaten und das Benelux-Amt für geistiges Eigentum ihre materiellrechtliche Prüfung von Amts wegen auf das Nichtvorliegen der in dieser Richtlinie erschöpfend aufgezählten Eintragungshindernisse beschränken, wie es das Amt der Europäischen Union für geistiges Eigentum (EUIPO) auf Unionsebene tut."
+  },
+  {
+   "nr": "43",
+   "text": "Um ein weiteres Mittel zur Erklärung der Nichtigkeit von Designs anzubieten, sollte es den Mitgliedstaaten gestattet sein, ein Verwaltungsverfahren für die Erklärung der Nichtigkeit vorzusehen, das an das für eingetragene Unionsdesigns geltende Verfahren in angemessenem Umfang angepasst ist."
+  },
+  {
+   "nr": "44",
+   "text": "Es ist wünschenswert, dass die Zentralbehörden der Mitgliedstaaten für den gewerblichen Rechtsschutz und das Benelux-Amt für geistiges Eigentum miteinander und mit dem EUIPO in allen Bereichen der Eintragung und Verwaltung von Designs zusammenarbeiten, um die Angleichung von Vorgehensweisen und technischen Hilfsmitteln beispielsweise durch die Einrichtung und Pflege gemeinsamer oder vernetzter Datenbanken und Portale zu Abfrage- und Recherchezwecken zu fördern. Die Mitgliedstaaten sollten ferner sicherstellen, dass ihre Zentralbehörden für den gewerblichen Rechtsschutz und das Benelux-Amt für geistiges Eigentum in allen anderen Bereichen ihrer Tätigkeiten, die für den Designschutz in der Union relevant sind, untereinander und mit dem EUIPO zusammenarbeiten."
+  },
+  {
+   "nr": "45",
+   "text": "Da die Ziele dieser Richtlinie, nämlich die Förderung und Einrichtung eines gut funktionierenden Binnenmarkts und die Erleichterung der Eintragung, Verwaltung und des Schutzes von Designs in der Union zur Förderung von Wachstum und gegebenenfalls Wettbewerbsfähigkeit, von den Mitgliedstaaten nicht ausreichend verwirklicht werden können, sondern vielmehr wegen ihres Umfangs und ihrer Wirkungen auf Unionsebene besser zu verwirklichen sind, kann die Union im Einklang mit dem in Artikel 5 des Vertrags über die Europäische Union verankerten Subsidiaritätsprinzip tätig werden. Entsprechend dem in demselben Artikel genannten Grundsatz der Verhältnismäßigkeit geht diese Richtlinie nicht über das für die Verwirklichung dieser Ziele erforderliche Maß hinaus."
+  },
+  {
+   "nr": "46",
+   "text": "Der Europäische Datenschutzbeauftragte wurde gemäß Artikel 42 Absatz 1 der Verordnung (EU) 2018/1725 des Europäischen Parlaments und des Rates angehört."
+  },
+  {
+   "nr": "47",
+   "text": "Die Verpflichtung zur Umsetzung dieser Richtlinie in nationales Recht sollte nur jene Bestimmungen betreffen, die im Vergleich zu der Richtlinie 98/71/EG inhaltlich geändert wurden. Die Verpflichtung zur Umsetzung der inhaltlich unveränderten Bestimmungen ergibt sich aus der bisherigen Richtlinie."
+  },
+  {
+   "nr": "48",
+   "text": "Diese Richtlinie sollte die Verpflichtungen der Mitgliedstaaten hinsichtlich der in Anhang I der vorliegenden Richtlinie genannten Fristen für die Umsetzung der dort genannten Richtlinie in nationales Recht unberührt lassen —\nHABEN FOLGENDE RICHTLINIE ERLASSEN:"
+  }
+ ]
+}

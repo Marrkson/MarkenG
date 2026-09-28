@@ -1,0 +1,7354 @@
+{
+"meta": {
+"quelle": "RheinIP-Datenbank, Tabellen BpatgDecision und BghDecision (Designsachen), Normzitate aus DeCourtNorm",
+"anzahl": 168,
+"bpatg": 75,
+"bgh": 93,
+"mit_leitsatz": 73,
+"zeitraum": [
+"2000-01-17",
+"2026-03-26"
+],
+"hinweis": "BPatG: Beschwerden in Design- und Geschmacksmustersachen (Juristischer Beschwerdesenat, seit 2014 auch Nichtigkeitsbeschwerden zum 30. Senat); BGH: I. Zivilsenat. Normzitate sind maschinell aus dem Volltext erkannt (i = die Entscheidung legt die Norm aus); Zitate des GeschmMG in Entscheidungen ab dem 1.6.2004 werden dem DesignG zugeordnet (gleiche Paragraphenzählung), ältere bleiben getrennt."
+},
+"entscheidungen": [
+{
+"id": "30d4a81d-d17c-41b1-b81e-3e370565f151",
+"gericht": "BPatG",
+"az": "10 W (pat) 114/99",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung M 98 06 232.8 hier: wegen Verfahrenskostenhilfe",
+"name": "",
+"gebiet": "design",
+"datum": "2000-01-17",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10114-99_17012000.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10": {
+"i": true,
+"m": 7
+},
+"120": {
+"i": false,
+"m": 1
+},
+"136": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "bee5a961-47c9-4dcc-89a7-03fbd7c981dc",
+"gericht": "BPatG",
+"az": "10 W (pat) 709/99",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 498 09 027.2 wegen Feststellung des Anmeldetages",
+"name": "",
+"gebiet": "design",
+"datum": "2000-02-21",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10709-99_21022000.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"80": {
+"i": false,
+"m": 2
+},
+"50": {
+"i": false,
+"m": 1
+},
+"518": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 3
+},
+"10": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "767e778e-448e-4d0e-9917-83481595ee29",
+"gericht": "BPatG",
+"az": "10 W (pat) 716/99",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 499 02 242 wegen Feststellung des Anmeldetags",
+"name": "",
+"gebiet": "design",
+"datum": "2000-02-21",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10716-99_21022000.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "6b427f6d-0a8f-40c8-bf04-444a521c09f1",
+"gericht": "BPatG",
+"az": "10 W (pat) 701/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 499 04 375.8 wegen Feststellung des Anmeldetages",
+"name": "",
+"gebiet": "design",
+"datum": "2000-07-10",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10701-00_10072000.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"2": {
+"i": false,
+"m": 1
+},
+"50": {
+"i": true,
+"m": 3
+},
+"3": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 1
+},
+"35": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 4
+}
+}
+}
+},
+{
+"id": "c0400475-d7ff-43bc-92b0-04f87bc4b43f",
+"gericht": "BPatG",
+"az": "10 W (pat) 706/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 498 08 872.3 und weitere 29 Geschmacksmusteranmeldungen",
+"name": "",
+"gebiet": "design",
+"datum": "2000-07-10",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10706-00_10072000.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "f210e337-6ed1-45ba-8c30-106a227d0214",
+"gericht": "BPatG",
+"az": "10 W (pat) 707/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 498 08 872.3 und weitere 29 Geschmacksmusteranmeldungen wegen Ve",
+"name": "",
+"gebiet": "design",
+"datum": "2000-07-10",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10707-00_10072000.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "343d5e83-c6e4-4ee0-ba5e-41566f5d435a",
+"gericht": "BGH",
+"az": "I ZR 219/98",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": ": nein",
+"gebiet": "design",
+"datum": "2000-07-13",
+"leitsatz": ": 3-Speichen-Felgenrad GeschmMG § 1 Abs. 2 Zur Beurteilung der Eigentümlichkeit eines Geschmacksmusters.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_219-98A.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"5": {
+"i": true,
+"m": 3
+},
+"14a": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": true,
+"m": 6
+}
+}
+}
+},
+{
+"id": "ed1db244-ccd6-46e5-9744-0ee782e385e6",
+"gericht": "BPatG",
+"az": "10 W (pat) 709/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung",
+"name": "",
+"gebiet": "design",
+"datum": "2000-07-24",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10709-00_24072000.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10": {
+"i": false,
+"m": 2
+},
+"10b": {
+"i": false,
+"m": 2
+},
+"114": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "3d6e48fb-0a2e-4bff-9170-5dc698320f21",
+"gericht": "BPatG",
+"az": "10 W (pat) 701/99",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 93 02 674.9 wegen Gebührenzahlung",
+"name": "",
+"gebiet": "design",
+"datum": "2000-07-31",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10701-99_31072000.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"8c": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 3
+},
+"9": {
+"i": true,
+"m": 6
+},
+"10c": {
+"i": false,
+"m": 1
+},
+"7b": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "a5275531-2f2f-4823-9fae-11f36ce09dab",
+"gericht": "BPatG",
+"az": "10 W (pat) 705/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 499 07 738.5",
+"name": "",
+"gebiet": "design",
+"datum": "2000-10-04",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10705-00_04102000.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"7": {
+"i": true,
+"m": 4
+}
+}
+}
+},
+{
+"id": "8e5aff39-1669-4863-93c1-453f5c0620d0",
+"gericht": "BGH",
+"az": "I ZR 246/98",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": ": ja",
+"gebiet": "design",
+"datum": "2000-11-02",
+"leitsatz": ": ja Gemeinkostenanteil GeschmMG § 14a Abs. 1 Satz 2 a) Ist gemäß § 14a Abs. 1 Satz 2 GeschmMG Schadensersatz durch Herausgabe des Verletzergewinns zu leisten, dürfen Gemeinkosten nur abgezogen werden, wenn und soweit sie ausnahmsweise den schutzrechtsverletzenden Gegenständen unmittelbar zugerechnet werden können. b) Der Verletzer kann bei der Bestimmung der Höhe des Verletzergewinns nicht geltend machen, dieser beruhe teilweise auf besonderen eigenen Vertriebsleistungen.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_246-98.pdf?__blob=publicationFile",
+"zitate": {
+"urhg": {
+"97": {
+"i": false,
+"m": 1
+}
+},
+"geschmmg_alt": {
+"14a": {
+"i": true,
+"m": 14
+},
+"687": {
+"i": false,
+"m": 3
+},
+"139": {
+"i": false,
+"m": 1
+},
+"14": {
+"i": false,
+"m": 2
+},
+"97": {
+"i": false,
+"m": 1
+},
+"684": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "fd1b8dca-f1e0-44e3-af2f-e7ae9e8927d9",
+"gericht": "BPatG",
+"az": "10 W (pat) 712/99",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 498 07 202.9",
+"name": "",
+"gebiet": "design",
+"datum": "2000-11-06",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2000/10712-99_06112000.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "41abbba5-1286-468d-9078-8c2aacd54843",
+"gericht": "BPatG",
+"az": "10 W (pat) 704/99",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 97 09 688",
+"name": "",
+"gebiet": "design",
+"datum": "2001-01-10",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10704-99_10012001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": true,
+"m": 4
+},
+"8c": {
+"i": true,
+"m": 3
+},
+"73": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "d9bbb2d7-e8da-476c-b16f-bdd80b1c7876",
+"gericht": "BGH",
+"az": "I ZR 333/98",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2001-02-15",
+"leitsatz": ": : Sitz-Liegemöbel GeschmMG § 1 Abs. 2, § 7 Abs. 3 Nr. 2 Sind bei der Einzelanmeldung eines Modells als Geschmacksmuster mehrere Fotografien hinterlegt worden, die das Modell in verschiedenen Ausführungsformen zeigen, sind die hinterlegten Fotografien rechtlich als eine einzige Darstellung im Sinne des § 7 Abs. 3 Nr. 2 GeschmMG anzusehen. Abweichungen der Fotografien voneinander führen demgemäß nicht zu einer Vermehrung der Schutzgegenstände, sondern müssen bei der Bestimmung des Schutzgegenstands des Musters außer Betracht bleiben.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1998/I_ZR_333-98.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"5": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 5
+},
+"1": {
+"i": true,
+"m": 6
+},
+"14a": {
+"i": false,
+"m": 3
+}
+},
+"uwg": {
+"1": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"101a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "de4d5705-1c1d-485c-bb54-7362313da2cf",
+"gericht": "BPatG",
+"az": "10 ZA (pat) 22/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Kosten/Erinnerung",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 499 06 547.6",
+"name": "",
+"gebiet": "design",
+"datum": "2001-03-05",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10022z00_05032001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"8c": {
+"i": false,
+"m": 1
+},
+"23": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 2
+},
+"73": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "4c4b8bbe-903f-4ad5-9790-ae3fd1188c99",
+"gericht": "BPatG",
+"az": "10 W (pat) 48/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldungen M 98 02 172.9 u.a",
+"name": "",
+"gebiet": "design",
+"datum": "2001-03-26",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10048-00_26032001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"8b": {
+"i": false,
+"m": 2
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"73": {
+"i": false,
+"m": 2
+},
+"17": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "e7466046-3385-4020-a0ba-9757c7fa6a9f",
+"gericht": "BPatG",
+"az": "10 W (pat) 713/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmuster M 98 06 232.8 ua",
+"name": "",
+"gebiet": "design",
+"datum": "2001-03-26",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10713-00_26032001.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "30d04af1-486e-48c8-bffd-3b0b779bdc0d",
+"gericht": "BPatG",
+"az": "10 W (pat) 711/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 94 06 480.6 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2001-04-23",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10711-00_23042001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"8": {
+"i": false,
+"m": 2
+},
+"10a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "71593afc-80e5-4d02-b3be-19d4f01f4a1a",
+"gericht": "BPatG",
+"az": "10 W (pat) 704/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 94 08 003.8 wegen Erstreckung der Schutzdauer gemäß § 86 Abs 2 GeschmMG",
+"name": "",
+"gebiet": "design",
+"datum": "2001-06-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10704-00_30062001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"37": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+},
+"8b": {
+"i": true,
+"m": 12
+},
+"4": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 2
+},
+"34": {
+"i": false,
+"m": 1
+},
+"86": {
+"i": false,
+"m": 2
+},
+"5": {
+"i": false,
+"m": 1
+},
+"127": {
+"i": false,
+"m": 1
+},
+"17": {
+"i": false,
+"m": 1
+},
+"41": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 4
+},
+"123": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "067d2374-ae4b-4634-880f-432f93c6cfad",
+"gericht": "BPatG",
+"az": "10 W (pat) 706/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 00 024.9 wegen Beiordnung eines Vertreters",
+"name": "",
+"gebiet": "design",
+"datum": "2001-07-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10706-01_30072001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"133": {
+"i": false,
+"m": 1
+},
+"8a": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 6
+},
+"10b": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "f434439c-d5c2-4c26-8619-28b32a479d76",
+"gericht": "BGH",
+"az": "I ZB 14/01",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "betreffend die Geschmacksmusteranmeldungen Nr. M 98 02 172.9 u.a. Der I. Zivilsenat des Bundesgerichtshof",
+"name": "",
+"gebiet": "design",
+"datum": "2001-09-19",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2001/I_ZB__14-01.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "9cbd8ded-a584-4467-9dad-8a1a6bc7ae7f",
+"gericht": "BGH",
+"az": "I ZB 15/01",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "betreffend die Geschmacksmuster Nr. M 98 06 232.8 u.a. Der I. Zivilsenat des Bundesgerichtshofs hat am 19",
+"name": "",
+"gebiet": "design",
+"datum": "2001-09-19",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2001/I_ZB__15-01.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "9a6ae3c8-789e-4f8e-a76c-177af3f27f02",
+"gericht": "BPatG",
+"az": "10 W (pat) 702/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 498 12 024.4 BPatG 152 10.99",
+"name": "",
+"gebiet": "design",
+"datum": "2001-10-08",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10702-00_08102001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"128": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 10
+},
+"10": {
+"i": false,
+"m": 2
+},
+"4": {
+"i": true,
+"m": 5
+},
+"3": {
+"i": false,
+"m": 1
+},
+"5": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 4
+},
+"124": {
+"i": true,
+"m": 4
+},
+"1": {
+"i": false,
+"m": 2
+},
+"7": {
+"i": true,
+"m": 14
+},
+"90a": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"3": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 15
+},
+"145": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "67000d08-5f86-40ad-853d-32d786baec25",
+"gericht": "BPatG",
+"az": "10 W (pat) 703/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 498 12 064.3 BPatG 152 10.99",
+"name": "",
+"gebiet": "design",
+"datum": "2001-10-08",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10703-00_08102001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"127": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 2
+},
+"90a": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": true,
+"m": 5
+},
+"124": {
+"i": true,
+"m": 4
+},
+"2": {
+"i": true,
+"m": 10
+},
+"5": {
+"i": false,
+"m": 1
+},
+"146": {
+"i": false,
+"m": 1
+},
+"128": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 2
+},
+"8": {
+"i": true,
+"m": 4
+},
+"7": {
+"i": true,
+"m": 16
+}
+},
+"markeng": {
+"145": {
+"i": true,
+"m": 4
+},
+"8": {
+"i": true,
+"m": 16
+},
+"3": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "90a3b8cc-7f59-48a1-9a47-c2a22e836444",
+"gericht": "BPatG",
+"az": "10 W (pat) 710/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 499 05 456.3",
+"name": "",
+"gebiet": "design",
+"datum": "2001-10-08",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10710-00_08102001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"124": {
+"i": true,
+"m": 4
+},
+"146": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 2
+},
+"1": {
+"i": false,
+"m": 2
+},
+"8": {
+"i": true,
+"m": 4
+},
+"4": {
+"i": true,
+"m": 4
+},
+"5": {
+"i": false,
+"m": 1
+},
+"90a": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+},
+"128": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 9
+},
+"7": {
+"i": true,
+"m": 14
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"127": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"3": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 12
+},
+"145": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "8bc5b81a-9e5d-48f5-911f-e65cfd090903",
+"gericht": "BPatG",
+"az": "10 W (pat) 703/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 400 04 673.3 BPatG 154 6.70",
+"name": "",
+"gebiet": "design",
+"datum": "2001-10-15",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2001/10703-01_09072001.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"7": {
+"i": true,
+"m": 17
+},
+"3": {
+"i": false,
+"m": 1
+},
+"124": {
+"i": true,
+"m": 3
+},
+"10a": {
+"i": false,
+"m": 2
+},
+"90a": {
+"i": false,
+"m": 1
+},
+"128": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": true,
+"m": 4
+},
+"5": {
+"i": false,
+"m": 1
+},
+"123": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 9
+},
+"1": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 5
+},
+"10": {
+"i": false,
+"m": 2
+}
+},
+"markeng": {
+"3": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 13
+},
+"145": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "a165e018-f760-40a4-bca9-c0fe83df5c25",
+"gericht": "BPatG",
+"az": "10 W (pat) 707/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldungen 49902097.9",
+"name": "",
+"gebiet": "design",
+"datum": "2002-01-28",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2002/10707-00_28012002.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"114": {
+"i": false,
+"m": 2
+},
+"130": {
+"i": true,
+"m": 3
+},
+"7": {
+"i": false,
+"m": 1
+},
+"10b": {
+"i": true,
+"m": 5
+}
+}
+}
+},
+{
+"id": "75271950-6694-4702-a128-c907bff21be9",
+"gericht": "BGH",
+"az": "I ZR 265/99",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2002-02-21",
+"leitsatz": ": : Verkündet am: 21. Februar 2002 Walz Justizamtsinspektor als Urkundsbeamter der Geschäftsstelle Blendsegel UWG § 1 Zur Frage des ergänzenden wettbewerbsrechtlichen Leistungsschutzes wegen vermeidbarer Herkunftstäuschung gegen den Vertrieb eines Erzeugnisses (hier: einer Außenleuchte), das zwar an das Klagemodell erinnern kann, weil bei seiner Gestaltung ebenfalls eine gestalterische und praktische Grundidee angewendet worden ist, die sich erstmals bei dem Klagemodell findet, das aber im übrigen einen wesentlich anderen Gesamteindruck vermittelt.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/1999/I_ZR_265-99.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"1": {
+"i": true,
+"m": 4
+}
+},
+"geschmmg_alt": {
+"14a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "f713ab21-2d80-415a-a582-f06850b01ac5",
+"gericht": "BGH",
+"az": "I ZR 243/01",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2002-06-06",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2001/I_ZR_243-01.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "c882f572-2d27-4bb2-a6d2-ab9b08aad001",
+"gericht": "BGH",
+"az": "I ZR 138/00",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2002-10-31",
+"leitsatz": ": : Knabberbärchen MarkenG § 14 Abs. 2 Nr. 2; GeschmMG § 1 Abs. 2 Eine markenrechtliche Verwechslungsgefahr zwischen einer Formmarke und einer dreidimensionalen Warenform ist unabhängig von der geschmacksmusterrechtlichen Eigentümlichkeit sowohl der Formmarke als auch der angegriffenen Warenform; eine Warenform kann eigentümlich i.S. des § 1 Abs. 2 GeschmMG sein und gleichwohl dem Benutzungsverbot des § 14 Abs. 2 Nr. 2 MarkenG unterliegen.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2000/I_ZR_138-00.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10c": {
+"i": false,
+"m": 1
+},
+"13": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": true,
+"m": 4
+}
+},
+"markeng": {
+"8": {
+"i": false,
+"m": 1
+},
+"14": {
+"i": true,
+"m": 3
+},
+"4": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "32c079f2-3d33-4836-8499-1beda9ebca17",
+"gericht": "BPatG",
+"az": "10 W (pat) 710/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 400 07 441.9",
+"name": "",
+"gebiet": "design",
+"datum": "2002-11-28",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2002/10710-01_28112002.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"8": {
+"i": true,
+"m": 2
+},
+"8c": {
+"i": false,
+"m": 1
+},
+"73": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": true,
+"m": 5
+},
+"80": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "d78214b3-1a91-4127-ac39-4e90047f3509",
+"gericht": "BPatG",
+"az": "10 W (pat) 714/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 05 254.0",
+"name": "",
+"gebiet": "design",
+"datum": "2003-01-16",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10714-01_16012003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"184": {
+"i": true,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 3
+},
+"8": {
+"i": false,
+"m": 2
+},
+"10a": {
+"i": false,
+"m": 2
+},
+"10": {
+"i": false,
+"m": 2
+},
+"7": {
+"i": true,
+"m": 10
+},
+"80": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"8": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "67682c41-6d0c-45ed-8fc5-26daa1198915",
+"gericht": "BPatG",
+"az": "10 W (pat) 715/00",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 499 08 337.7 BPatG 152 10.99",
+"name": "",
+"gebiet": "design",
+"datum": "2003-01-16",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10715-00_16012003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"2": {
+"i": true,
+"m": 6
+},
+"54": {
+"i": false,
+"m": 1
+},
+"148": {
+"i": true,
+"m": 2
+},
+"8": {
+"i": false,
+"m": 3
+},
+"90a": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 2
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"124": {
+"i": true,
+"m": 4
+},
+"7": {
+"i": true,
+"m": 13
+},
+"43": {
+"i": true,
+"m": 5
+}
+},
+"markeng": {
+"8": {
+"i": true,
+"m": 6
+}
+}
+}
+},
+{
+"id": "4863ce63-6681-45ef-9d48-b05ba4d9e054",
+"gericht": "BGH",
+"az": "I ZB 1/02",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend die Geschmacksmusteranmeldung Nr. 498 12 024.4",
+"name": "",
+"gebiet": "design",
+"datum": "2003-03-20",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2002/I_ZB___1-02.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"2": {
+"i": false,
+"m": 2
+},
+"14": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 19
+},
+"7": {
+"i": false,
+"m": 2
+}
+},
+"geschmmg_alt": {
+"10a": {
+"i": false,
+"m": 2
+},
+"7": {
+"i": true,
+"m": 6
+}
+}
+}
+},
+{
+"id": "16fa2821-0ee2-4dc3-b5a6-5e541d3605e5",
+"gericht": "BGH",
+"az": "I ZB 2/02",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend die Geschmacksmusteranmeldung Nr. 498 12 064.3",
+"name": "",
+"gebiet": "design",
+"datum": "2003-03-20",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2002/I_ZB___2-02.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": false,
+"m": 2
+},
+"7": {
+"i": true,
+"m": 6
+}
+},
+"markeng": {
+"8": {
+"i": true,
+"m": 19
+},
+"1": {
+"i": false,
+"m": 1
+},
+"14": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 2
+},
+"2": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "39ba4f2f-3bf6-40fa-94ed-74e68664c0b7",
+"gericht": "BGH",
+"az": "I ZB 27/01",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend die Geschmacksmusteranmeldung Nr. 400 04 673.3",
+"name": "",
+"gebiet": "design",
+"datum": "2003-03-20",
+"leitsatz": ": : DM-Tassen GeschmMG § 7 Abs. 2 Ein Muster oder Modell, das die dekorative Abbildung gesetzlicher Zahlungsmittel zum Gegenstand hat (hier: DM-Banknoten und deutsche Münzen auf Tassen), verstößt nicht gegen die öffentliche Ordnung i.S. von § 7 Abs. 2 GeschmMG.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2001/I_ZB__27-01.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"7": {
+"i": false,
+"m": 2
+},
+"2": {
+"i": false,
+"m": 2
+},
+"1": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 19
+}
+},
+"geschmmg_alt": {
+"7": {
+"i": true,
+"m": 8
+},
+"10a": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "3c766773-8415-4eb4-9ac8-b51532562d6b",
+"gericht": "BGH",
+"az": "I ZB 29/01",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend die Geschmacksmusteranmeldung Nr. 499 05 456.3",
+"name": "Euro-Billy",
+"gebiet": "design",
+"datum": "2003-03-20",
+"leitsatz": "Dem Schutz eines Musters oder Modells, das die dekorative Abbildung gesetzlicher Zahlungsmittel zum Gegenstand hat (hier: Abbildung einer Ein-EuroMünze in einer Phantasiefigur und einem Schlüsselanhänger), stehen weder § 7 Abs. 2 GeschmMG noch die Vorschriften der Medaillenverordnung entgegen.",
+"normen_text": "GeschmMG § 7 Abs. 2",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2001/I_ZB__29-01.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"4": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 19
+},
+"2": {
+"i": true,
+"m": 3
+},
+"3": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 3
+}
+},
+"geschmmg_alt": {
+"7": {
+"i": true,
+"m": 8
+},
+"10a": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "41bdcbdf-091b-4785-b955-55831ddfc160",
+"gericht": "BPatG",
+"az": "10 W (pat) 705/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 93 02 674.9 wegen Gebührenrückzahlung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-03-28",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10705-01_28032003.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"47": {
+"i": false,
+"m": 2
+}
+},
+"geschmmg_alt": {
+"9": {
+"i": true,
+"m": 14
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"8c": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 4
+}
+},
+"patkostg": {
+"7": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "dc609309-9e51-4076-a68f-0b644df06703",
+"gericht": "BPatG",
+"az": "10 W (pat) 706/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 400 11 937.4 wegen Wiedereinsetzung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-05-15",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10706-02_15052003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10": {
+"i": true,
+"m": 4
+},
+"233": {
+"i": false,
+"m": 2
+},
+"123": {
+"i": true,
+"m": 3
+},
+"8c": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "522fa6ba-3c1d-476d-a1c7-853f6011ed5f",
+"gericht": "BPatG",
+"az": "10 W (pat) 703/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 400 11 976.5",
+"name": "",
+"gebiet": "design",
+"datum": "2003-07-31",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10703-02_31072003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"8": {
+"i": false,
+"m": 1
+},
+"80": {
+"i": false,
+"m": 1
+},
+"73": {
+"i": false,
+"m": 2
+},
+"10": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 5
+},
+"2": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"8": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "53c4b3a2-0624-44aa-b8b2-5f6c2f8483fd",
+"gericht": "BPatG",
+"az": "10 W (pat) 711/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 400 10 703.1",
+"name": "",
+"gebiet": "design",
+"datum": "2003-09-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10711-01_30092003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 6
+},
+"1": {
+"i": true,
+"m": 2
+},
+"5": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"8": {
+"i": true,
+"m": 8
+}
+}
+}
+},
+{
+"id": "e468c236-f441-4312-aa16-5d12e6d4f41d",
+"gericht": "BPatG",
+"az": "10 W (pat) 709/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 95 10 007.5 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10709-03_30102003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": true,
+"m": 3
+},
+"13": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "aa377450-8173-411d-bcb3-5d9e57074dda",
+"gericht": "BPatG",
+"az": "10 W (pat) 710/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 94 03 693.4 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10710-03_30102003.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "884f3354-9dcc-446b-81c3-cea9fae4a08d",
+"gericht": "BPatG",
+"az": "10 W (pat) 711/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 92 09 238.1 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10711-03_30102003.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "ae10c72d-11c6-4bc6-9bbd-3f9db324a076",
+"gericht": "BPatG",
+"az": "10 W (pat) 712/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 92 00 880.1 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10712-03_30102003.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "c2f24610-7bfa-412e-87ea-99fa19ee9274",
+"gericht": "BPatG",
+"az": "10 W (pat) 713/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster 499 04 054.6 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10713-03_30102003.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "f8c1984c-bbf1-4001-a23d-0f272a97317b",
+"gericht": "BPatG",
+"az": "10 W (pat) 714/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 97 01 837.6 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10714-03_30102003.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "5a8e05f8-4712-4da9-b1ea-6a7187d60000",
+"gericht": "BPatG",
+"az": "10 W (pat) 715/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 97 01 833.3 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10715-03_30102003.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "ffebc1dd-96fc-4f6a-b7bc-7d9e287a301e",
+"gericht": "BPatG",
+"az": "10 W (pat) 716/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 96 01 631.0 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10716-03_30102003.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "9210d97f-e9dd-48d3-8410-e263f78740e5",
+"gericht": "BPatG",
+"az": "10 W (pat) 717/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster 499 07 367.3 wegen Umschreibung",
+"name": "",
+"gebiet": "design",
+"datum": "2003-10-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10717-03_30102003.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "a0c909fd-d3b9-4a8d-b08a-0e9e1620b35b",
+"gericht": "BPatG",
+"az": "10 W (pat) 701/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 08 934.7",
+"name": "",
+"gebiet": "design",
+"datum": "2003-12-18",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10701-03_18122003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"2": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 2
+},
+"73": {
+"i": true,
+"m": 3
+},
+"8": {
+"i": false,
+"m": 1
+},
+"80": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 6
+}
+}
+}
+},
+{
+"id": "c0cf8165-08d4-4372-b5da-342066653fc5",
+"gericht": "BPatG",
+"az": "10 W (pat) 702/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 10 192.4",
+"name": "",
+"gebiet": "design",
+"datum": "2003-12-18",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10702-03_18122003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"80": {
+"i": false,
+"m": 1
+},
+"73": {
+"i": true,
+"m": 3
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 6
+},
+"8": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 2
+},
+"2": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "f6c91067-9227-47d4-88a3-efb176708d29",
+"gericht": "BPatG",
+"az": "10 W (pat) 703/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 09 113.9",
+"name": "",
+"gebiet": "design",
+"datum": "2003-12-18",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2003/10703-03_18122003.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": false,
+"m": 1
+},
+"73": {
+"i": false,
+"m": 2
+},
+"7": {
+"i": true,
+"m": 5
+},
+"10": {
+"i": false,
+"m": 1
+},
+"80": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "f2305151-855e-42c4-8fcf-00d43458394f",
+"gericht": "BGH",
+"az": "I ZR 163/01",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2004-01-29",
+"leitsatz": ": : Computergehäuse GeschmMG § 1 Abs. 2 a) Auf dem Warengebiet der Computergehäuse ist der taiwanesische Markt bei der Beurteilung des vorbekannten Formenschatzes von den inländischen Fachkreisen in Betracht zu ziehen. b) Allein aus der Veröffentlichung einer Gestaltung in einer Werbeanzeige in einer ausländischen Fachzeitschrift kann nicht geschlossen werden, daß diese Gestaltung schon vor dem Zeitpunkt des Erscheinens der Werbeanzeige den inländischen Verkehrskreisen bekannt war oder bekannt sein konnte und deshalb zum vorbekannten Formenschatz gehört.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2001/I_ZR_163-01.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"1": {
+"i": false,
+"m": 1
+},
+"14a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "2a21f701-267f-49cf-b58b-89a1145c8836",
+"gericht": "BGH",
+"az": "I ZR 164/01",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2004-01-29",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2001/I_ZR_164-01.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"14a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "d5cc7990-e088-4609-b330-a6150f8a9e3f",
+"gericht": "BPatG",
+"az": "10 W (pat) 704/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster 499 02 040.5 wegen Nachholung der Bildbekanntmachung",
+"name": "",
+"gebiet": "design",
+"datum": "2004-04-08",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10704-01_08042004.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"8b": {
+"i": true,
+"m": 8
+},
+"10c": {
+"i": false,
+"m": 1
+},
+"11": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": false,
+"m": 2
+},
+"41": {
+"i": false,
+"m": 1
+},
+"32": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"41": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "07e7b37a-46bf-405c-a8ed-f1e930805191",
+"gericht": "BGH",
+"az": "I ZB 15/03",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend die Geschmacksmusteranmeldung Nr. 401 01 657.9",
+"name": "Abgewandelte Verkehrszeichen",
+"gebiet": "design",
+"datum": "2004-04-22",
+"leitsatz": "a) Das im Markengesetz geregelte Schutzhindernis des Freihaltebedürfnisses (§ 8 Abs. 2 Nr. 2 MarkenG) ist im geschmacksmusterrechtlichen Eintragungsverfahren nicht zu prüfen. b) Ein Muster oder Modell, das aus der abgewandelten Abbildung eines Verkehrszeichens besteht, ist nicht wegen eines Verstoßes gegen die öffentliche Ordnung i.S. von § 7 Abs. 2 GeschmMG von der Eintragung in das Musterregister ausgeschlossen.",
+"normen_text": "GeschmMG § 7 Abs. 2",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2003/I_ZB__15-03.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": false,
+"m": 1
+},
+"41": {
+"i": false,
+"m": 1
+},
+"33": {
+"i": true,
+"m": 4
+},
+"10": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+},
+"39": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 1
+},
+"45": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 10
+}
+},
+"markeng": {
+"8": {
+"i": true,
+"m": 6
+}
+}
+}
+},
+{
+"id": "c23f6d36-f44f-4a2e-a17b-df30983c4e98",
+"gericht": "BGH",
+"az": "I ZB 16/03",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend die Geschmacksmusteranmeldung Nr. 499 08 337.7",
+"name": "Ersttagssammelblätter",
+"gebiet": "design",
+"datum": "2004-04-22",
+"leitsatz": "Ein Muster oder Modell, in das ein Postwertzeichen im Original einbezogen ist, (hier: Ersttagssammelblatt) ist nicht wegen eines Verstoßes gegen die öffentliche Ordnung i.S. von § 7 Abs. 2 GeschmMG von der Eintragung in das Musterregister ausgeschlossen.",
+"normen_text": "GeschmMG § 7 Abs. 2",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2003/I_ZB__16-03.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"10a": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 1
+},
+"43": {
+"i": false,
+"m": 2
+},
+"54": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 7
+}
+},
+"markeng": {
+"8": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "a860cd3c-20a3-4bfd-9297-282d8ea8a507",
+"gericht": "BPatG",
+"az": "10 W (pat) 720/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 06 479.4 (hier: Verfahrenskostenhilfe für das Erstreckungsve",
+"name": "",
+"gebiet": "design",
+"datum": "2004-05-13",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10720-03_13052004.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"24": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 2
+},
+"23": {
+"i": false,
+"m": 1
+},
+"27": {
+"i": false,
+"m": 1
+},
+"46": {
+"i": false,
+"m": 1
+},
+"14": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 6
+},
+"9": {
+"i": false,
+"m": 1
+},
+"135": {
+"i": false,
+"m": 1
+},
+"129": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"21": {
+"i": false,
+"m": 1
+},
+"127": {
+"i": false,
+"m": 1
+},
+"114": {
+"i": false,
+"m": 1
+},
+"130": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": true,
+"m": 17
+},
+"49": {
+"i": false,
+"m": 1
+},
+"47": {
+"i": false,
+"m": 2
+}
+},
+"markeng": {
+"61": {
+"i": false,
+"m": 1
+}
+},
+"patkostg": {
+"2": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "f812a8c7-c012-4890-a334-2f9d16a6b9b8",
+"gericht": "BPatG",
+"az": "10 W (pat) 721/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 05 601.5 (hier: Verfahrenskostenhilfe für das Erstreckungsve",
+"name": "",
+"gebiet": "design",
+"datum": "2004-05-13",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10721-03_13052004.pdf?__blob=publicationFile",
+"zitate": {
+"geschmmg_alt": {
+"2": {
+"i": false,
+"m": 2
+},
+"24": {
+"i": false,
+"m": 1
+},
+"135": {
+"i": false,
+"m": 1
+},
+"27": {
+"i": false,
+"m": 1
+},
+"21": {
+"i": false,
+"m": 1
+},
+"130": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": true,
+"m": 17
+},
+"9": {
+"i": false,
+"m": 1
+},
+"49": {
+"i": false,
+"m": 1
+},
+"129": {
+"i": false,
+"m": 1
+},
+"114": {
+"i": false,
+"m": 1
+},
+"23": {
+"i": false,
+"m": 1
+},
+"47": {
+"i": false,
+"m": 2
+},
+"46": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 6
+},
+"10a": {
+"i": false,
+"m": 1
+},
+"127": {
+"i": false,
+"m": 1
+},
+"14": {
+"i": false,
+"m": 1
+}
+},
+"patkostg": {
+"2": {
+"i": true,
+"m": 3
+}
+},
+"markeng": {
+"61": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "7db19a36-d7ed-46bc-86f0-d9f0055f77c7",
+"gericht": "BGH",
+"az": "I ZR 70/02",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Klemmhebel",
+"gebiet": "design",
+"datum": "2004-06-09",
+"leitsatz": "Zur Frage der tatrichterlichen Würdigung des vorbekannten Formenschatzes.",
+"normen_text": "GeschmMG § 5 a.F.",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2002/I_ZR__70-02.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"1": {
+"i": true,
+"m": 1
+},
+"5": {
+"i": true,
+"m": 2
+},
+"14a": {
+"i": false,
+"m": 1
+},
+"66": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "7b8b38a2-e1ea-4ddf-92b5-c1befb5fe3ef",
+"gericht": "BGH",
+"az": "I ZR 142/01",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2004-07-15",
+"leitsatz": ": : Metallbett ZPO (2002) § 559 Die nach Verkündung des Berufungsurteils erfolgte Löschung des Geschmacksmusters im Musterregister ist vom Revisionsgericht von Amts wegen zu berücksichtigen. GeschmMG (Fassung vor dem 1.6.2004) § 10c Abs. 2 Nr. 1 Ist der Musterinhaber rechtskräftig zur Einwilligung in die Löschung verurteilt worden, weil das Muster am Tag der Anmeldung nicht schutzfähig war, so entfällt mit der Löschung im Register der Geschmacksmusterschutz auch für die Vergangenheit mit Wirkung für und gegen alle.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2001/I_ZR_142-01.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"4": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": true,
+"m": 3
+}
+},
+"designg": {
+"33": {
+"i": false,
+"m": 1
+},
+"66": {
+"i": false,
+"m": 1
+},
+"10c": {
+"i": true,
+"m": 10
+},
+"7a": {
+"i": false,
+"m": 1
+},
+"22": {
+"i": false,
+"m": 2
+},
+"7": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": false,
+"m": 2
+},
+"559": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"2": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "9287e2bf-1a84-4d74-94d9-5539c8616121",
+"gericht": "BPatG",
+"az": "10 W (pat) 713/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 400 07 280.7 (hier: Wiedereinsetzung in die Frist zur Zahlung de",
+"name": "",
+"gebiet": "design",
+"datum": "2004-08-05",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10713-01_05082004.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"8c": {
+"i": false,
+"m": 2
+},
+"2": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "f6d8562b-36cc-4527-9b79-49d8c6621da3",
+"gericht": "BPatG",
+"az": "10 W (pat) 707/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 400 04 653.9 wegen Wiedereinsetzung",
+"name": "",
+"gebiet": "design",
+"datum": "2004-08-26",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10707-01_26082004.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"123": {
+"i": true,
+"m": 3
+},
+"233": {
+"i": false,
+"m": 1
+},
+"34": {
+"i": false,
+"m": 1
+},
+"73": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 1
+},
+"8c": {
+"i": true,
+"m": 4
+},
+"237": {
+"i": false,
+"m": 1
+},
+"80": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": true,
+"m": 4
+}
+}
+}
+},
+{
+"id": "be3f8f7f-61b3-4699-9365-83774549bc22",
+"gericht": "BPatG",
+"az": "10 W (pat) 702/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster",
+"name": "",
+"gebiet": "design",
+"datum": "2004-11-04",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10702-02_04112004.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"24": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 3
+},
+"10": {
+"i": false,
+"m": 1
+},
+"10b": {
+"i": true,
+"m": 3
+},
+"5": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 1
+},
+"123": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": true,
+"m": 19
+},
+"17": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "18d5cfa7-1965-4531-abb0-cb042147603d",
+"gericht": "BPatG",
+"az": "10 W (pat) 715/01",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster",
+"name": "",
+"gebiet": "design",
+"datum": "2004-11-04",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10715-01_04112004.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"17": {
+"i": true,
+"m": 4
+},
+"24": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": true,
+"m": 19
+},
+"10b": {
+"i": true,
+"m": 3
+},
+"1": {
+"i": false,
+"m": 1
+},
+"10a": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "69f15945-4a4f-42da-987c-849e4ded3a3c",
+"gericht": "BPatG",
+"az": "10 W (pat) 705/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster 400 07 285.8 wegen Berichtigung der Eintragung",
+"name": "",
+"gebiet": "design",
+"datum": "2004-11-11",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10705-03_11112004.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"2": {
+"i": false,
+"m": 2
+},
+"66": {
+"i": false,
+"m": 1
+},
+"13": {
+"i": false,
+"m": 2
+},
+"8a": {
+"i": true,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 3
+},
+"30": {
+"i": true,
+"m": 3
+},
+"10": {
+"i": false,
+"m": 1
+},
+"5": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "449ad4c5-a4d1-4580-abc0-4c207c6a0986",
+"gericht": "BPatG",
+"az": "10 W (pat) 706/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster 400 12 200.6 wegen Berichtigung der Eintragung",
+"name": "",
+"gebiet": "design",
+"datum": "2004-11-11",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10706-03_11112004.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "9809db5e-4817-4d6d-b7df-4d98442091e2",
+"gericht": "BPatG",
+"az": "10 W (pat) 707/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster 401 04 837.3 wegen Berichtigung der Eintragung",
+"name": "",
+"gebiet": "design",
+"datum": "2004-11-11",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2004/10707-03_11112004.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "53507bb6-7c9a-4d03-9d57-3f69fda846ba",
+"gericht": "BPatG",
+"az": "10 W (pat) 718/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster MR 29720 URA 778/88 wegen Aufrechterhaltung des Schutzes",
+"name": "",
+"gebiet": "design",
+"datum": "2005-01-28",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10718-03_28102004.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"16": {
+"i": true,
+"m": 4
+},
+"4": {
+"i": true,
+"m": 5
+},
+"9": {
+"i": true,
+"m": 6
+},
+"23": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": false,
+"m": 2
+},
+"66": {
+"i": true,
+"m": 7
+},
+"60": {
+"i": false,
+"m": 1
+}
+},
+"patkostg": {
+"7": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "8e4e3ed4-744d-41ad-b0ba-a19f5b9d2f6c",
+"gericht": "BPatG",
+"az": "10 W (pat) 711/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 402 00 912.6 (hier: Wiedereinsetzung in die Frist zur Inanspruch",
+"name": "",
+"gebiet": "design",
+"datum": "2005-02-03",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10711-02_03022005.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"7b": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 1
+},
+"23": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "f16afe6b-8efb-4b3a-a3ac-9de259720443",
+"gericht": "BPatG",
+"az": "10 W (pat) 712/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 402 00 913.4 (hier: Wiedereinsetzung in die Frist zur Inanspruch",
+"name": "",
+"gebiet": "design",
+"datum": "2005-02-03",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10712-02_03022005.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"10": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 1
+},
+"7b": {
+"i": false,
+"m": 1
+},
+"23": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "29745b6c-7e79-41a3-92a7-1b965aa5bdd0",
+"gericht": "BPatG",
+"az": "10 ZA (pat) 2/05",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Kosten/Erinnerung",
+"sache": "betreffend die Geschmacksmusteranmeldung 401 05 601.5 wegen Erinnerung gegen den Kostenansatz im Verfahre",
+"name": "",
+"gebiet": "design",
+"datum": "2005-02-24",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10002z05_24022005.pdf?__blob=publicationFile",
+"zitate": {
+"patkostg": {
+"4": {
+"i": false,
+"m": 2
+},
+"1": {
+"i": false,
+"m": 2
+},
+"11": {
+"i": false,
+"m": 2
+}
+},
+"designg": {
+"8": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "1e776019-63bc-4e4c-b006-0f3d438f3fe4",
+"gericht": "BPatG",
+"az": "10 W (pat) 713/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 04 722",
+"name": "",
+"gebiet": "design",
+"datum": "2005-03-03",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10713-02_03032005.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"2": {
+"i": false,
+"m": 1
+},
+"66": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 3
+},
+"10": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "3623ab4f-da53-459d-9d86-fa0ae72cb0df",
+"gericht": "BGH",
+"az": "I ZR 131/02",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Handtuchklemmen",
+"gebiet": "design",
+"datum": "2005-03-24",
+"leitsatz": "Der ergänzende wettbewerbsrechtliche Leistungsschutz gegen eine vermeidbare Herkunftstäuschung hat nicht nur zur Voraussetzung, daß das nachgeahmte Erzeugnis wettbewerbliche Eigenart besitzt. Erforderlich ist grundsätzlich auch, daß das Erzeugnis bei den maßgeblichen Verkehrskreisen eine gewisse Bekanntheit erreicht hat, da eine Herkunftstäuschung in aller Regel bereits begrifflich nicht möglich ist, wenn dem Verkehr nicht bekannt ist, daß es ein Original gibt.",
+"normen_text": "UWG § 4 Nr. 9",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2002/I_ZR_131-02.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"1": {
+"i": true,
+"m": 7
+},
+"4": {
+"i": true,
+"m": 13
+},
+"3": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"66": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "1a54e393-9255-4ad4-9c35-d63d25b71d4f",
+"gericht": "BPatG",
+"az": "10 W (pat) 709/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 400 10 822.4 wegen Verschiebung des Anmeldetags",
+"name": "",
+"gebiet": "design",
+"datum": "2005-04-21",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10709-02_21042005.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"6": {
+"i": false,
+"m": 2
+},
+"7b": {
+"i": true,
+"m": 9
+},
+"41": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "9150dfe8-7753-4f0a-964d-3b7f1e89158e",
+"gericht": "BPatG",
+"az": "10 ZA (pat) 6/04",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Kosten/Erinnerung",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung",
+"name": "",
+"gebiet": "design",
+"datum": "2005-04-28",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10006z04_28042005.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"102": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "3dfab40f-bfbf-43fe-82b7-e5571b12878a",
+"gericht": "BPatG",
+"az": "10 ZA (pat) 7/04",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Kosten/Erinnerung",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung",
+"name": "",
+"gebiet": "design",
+"datum": "2005-04-28",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10007z04_28042005.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "82045ff1-2d2b-4e62-bc2d-a5bd34011c52",
+"gericht": "BPatG",
+"az": "10 ZA (pat) 8/04",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Kosten/Erinnerung",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 499 05 456.3 wegen Erinnerung gegen den Kostenfestsetzungsbeschl",
+"name": "",
+"gebiet": "design",
+"datum": "2005-04-28",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10008z04_28042005.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "f2116846-2958-4a0f-8f6d-0dacaef02798",
+"gericht": "BGH",
+"az": "I ZR 263/02",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2005-05-23",
+"leitsatz": ": : Catwalk GeschmMG § 38 Abs. 1 Satz 2; GeschmMG a.F. §§ 14, 14a; BGB § 251 Abs. 1 Der Inhaber eines Geschmacksmusterrechts kann bereits für das Anbieten eines rechtsverletzenden Gegenstands (hier: einer Damenarmbanduhr im Katalog eines Versandhandelsunternehmens) einen nach den Grundsätzen der Lizenzanalogie zu berechnenden Schadensersatz verlangen. ZPO § 287 Abs. 1 Zu den bei der Bemessung einer entsprechenden Lizenz zu berücksichtigenden Umständen.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2002/I_ZR_263-02.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"1": {
+"i": false,
+"m": 1
+},
+"66": {
+"i": false,
+"m": 5
+},
+"5": {
+"i": true,
+"m": 3
+},
+"42": {
+"i": false,
+"m": 3
+},
+"31": {
+"i": false,
+"m": 1
+},
+"812": {
+"i": false,
+"m": 1
+},
+"38": {
+"i": true,
+"m": 4
+},
+"3": {
+"i": false,
+"m": 2
+},
+"14a": {
+"i": false,
+"m": 2
+},
+"14": {
+"i": false,
+"m": 2
+}
+},
+"markeng": {
+"15": {
+"i": false,
+"m": 1
+},
+"14": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"17": {
+"i": false,
+"m": 1
+}
+},
+"uwg": {
+"4": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "541ae102-634c-4ba7-a4dc-18b7961ceca7",
+"gericht": "BPatG",
+"az": "10 W (pat) 708/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 02 991.3 wegen Verschiebung des Anmeldetags",
+"name": "",
+"gebiet": "design",
+"datum": "2005-06-16",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10708-02_16062005.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"7": {
+"i": false,
+"m": 3
+},
+"10": {
+"i": false,
+"m": 2
+},
+"23": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "e4c61dc4-da4d-4401-bc17-09fec480e917",
+"gericht": "BGH",
+"az": "I ZR 204/04",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2005-07-21",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2004/I_ZR_204-04.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "2a2181f0-0af7-4e20-b69c-9ea941540c73",
+"gericht": "BGH",
+"az": "I ZB 20/05",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend das Geschmacksmuster MR 29720/URA 778/88",
+"name": "",
+"gebiet": "design",
+"datum": "2005-07-28",
+"leitsatz": ": : Altmuster GeschmMG § 66 Abs. 1 Die Schutzdauer eines Geschmacksmusters, das vor dem 1. Juli 1988 bei dem Deutschen Patent- und Markenamt angemeldet worden ist, weil der Urheber im Inland weder eine Niederlassung noch einen Wohnsitz hatte, konnte - ebenso wie die Schutzdauer anderer zu dieser Zeit in den alten Bundesländern angemeldeter Geschmacksmuster - höchstens 15 Jahre betragen.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2005/I_ZB__20-05.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"8": {
+"i": true,
+"m": 3
+},
+"4": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": false,
+"m": 2
+},
+"66": {
+"i": true,
+"m": 13
+},
+"23": {
+"i": false,
+"m": 1
+},
+"60": {
+"i": false,
+"m": 3
+}
+}
+}
+},
+{
+"id": "7951f239-f0b6-4d84-8b1f-fbff977636f5",
+"gericht": "BPatG",
+"az": "10 W (pat) 704/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster 498 07 531.1 wegen Gebührenpflicht der Akteneinsicht",
+"name": "",
+"gebiet": "design",
+"datum": "2005-08-11",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10704-03_11082005.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"62": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"22": {
+"i": true,
+"m": 5
+},
+"8b": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": false,
+"m": 1
+},
+"73": {
+"i": false,
+"m": 1
+},
+"67": {
+"i": false,
+"m": 1
+},
+"31": {
+"i": false,
+"m": 1
+},
+"11": {
+"i": true,
+"m": 6
+},
+"12": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 3
+},
+"23": {
+"i": false,
+"m": 3
+},
+"6": {
+"i": false,
+"m": 2
+},
+"78": {
+"i": false,
+"m": 1
+},
+"8a": {
+"i": true,
+"m": 12
+},
+"7": {
+"i": false,
+"m": 3
+}
+},
+"patkostg": {
+"3": {
+"i": true,
+"m": 3
+},
+"2": {
+"i": false,
+"m": 1
+},
+"6": {
+"i": true,
+"m": 8
+},
+"1": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "13fe2ef3-5f04-46dc-8aa4-7b007e1f9172",
+"gericht": "BPatG",
+"az": "10 W (pat) 715/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster M 96 04 430.6 wegen Wiedereinsetzung",
+"name": "",
+"gebiet": "design",
+"datum": "2005-09-01",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10715-02_01092005.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"10": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "b1cf89a1-54c6-4f8c-823c-e55303551200",
+"gericht": "BGH",
+"az": "I ZR 151/02",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Jeans",
+"gebiet": "design",
+"datum": "2005-09-15",
+"leitsatz": "a) Ansprüche aus ergänzendem wettbewerbsrechtlichem Leistungsschutz wegen vermeidbarer Herkunftstäuschung nach §§ 3, 4 Nr. 9 lit. a UWG werden nicht dadurch ausgeschlossen, dass für das Erzeugnis Schutz für ein nicht eingetragenes Gemeinschaftsgeschmacksmuster nach Art. 3 ff. der Verordnung (EG) Nr. 6/2002 des Rates vom 12. Dezember 2001 über das Gemeinschaftsgeschmacksmuster (ABl. Nr. L 3 vom 5. Januar 2002, S. 1) besteht oder bestanden hat. b) Für die Feststellung einer gewissen Bekanntheit des nachgeahmten Produkts bei der Beurteilung der vermeidbaren Herkunftstäuschung nach §§ 3, 4 Nr. 9 lit. a UWG ist auf die Bekanntheit des Erzeugnisses bei den angesprochenen Verkehrskreisen abzustellen; nicht erforderlich ist, dass der Verkehr das nachgeahmte Produkt einem namentlich bestimmten Unternehmen zuordnen kann.",
+"normen_text": "UWG § 4 Nr. 9 lit. a",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2002/I_ZR_151-02.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"4": {
+"i": true,
+"m": 13
+},
+"3": {
+"i": true,
+"m": 8
+},
+"1": {
+"i": true,
+"m": 7
+},
+"9": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "8a29c783-8d9a-4521-8c3d-c444c4b97acc",
+"gericht": "BPatG",
+"az": "10 W (pat) 705/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 401 00 254.3 wegen verspäteter Zahlung der Anmeldegebühr/Wiedere",
+"name": "",
+"gebiet": "design",
+"datum": "2005-10-13",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2005/10705-02_13102005.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"23": {
+"i": false,
+"m": 1
+},
+"8c": {
+"i": true,
+"m": 3
+},
+"10": {
+"i": false,
+"m": 3
+}
+}
+}
+},
+{
+"id": "8c459b15-fd51-48f0-b3da-b758fe297cda",
+"gericht": "BGH",
+"az": "I ZR 151/02",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2006-01-19",
+"leitsatz": ": : Jeans II UWG § 4 Nr. 9 Buchst. a; ZPO § 321a Zur Geltendmachung einer Verletzung der Pflicht zur Vorlage an den Gerichtshof der Europäischen Gemeinschaften nach Art. 234 EG im Rahmen der Anhörungsrüge nach § 321a ZPO.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2002/I_ZR_151-02A.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"4": {
+"i": true,
+"m": 7
+},
+"1": {
+"i": false,
+"m": 2
+},
+"3": {
+"i": true,
+"m": 4
+}
+}
+}
+},
+{
+"id": "05580ec2-bc30-4088-a6dc-0a0771c46497",
+"gericht": "BPatG",
+"az": "10 W (pat) 719/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 402 03 410.4 wegen Inanspruchnahme der i",
+"name": "BUNDESPATENTGERICHT",
+"gebiet": "design",
+"datum": "2006-01-26",
+"leitsatz": "Aktenzeichen: 10 W (pat) 719/03 Entscheidungsdatum: 26. Januar 2006 Rechtsbeschwerde zugelassen: nein Für eine Geschmacksmusteranmeldung kann die Priorität einer inländischen früheren Patentanmeldung nicht in Anspruch genommen werden (im Anschluss an BGHZ 86, 264 - Drucksensor).",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2006/10719-03_26012006.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"7b": {
+"i": true,
+"m": 4
+},
+"14": {
+"i": false,
+"m": 2
+},
+"66": {
+"i": false,
+"m": 3
+},
+"6": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "f9e52933-d32b-48f2-8e5c-391ef1d13630",
+"gericht": "BPatG",
+"az": "10 W (pat) 704/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster",
+"name": "",
+"gebiet": "design",
+"datum": "2006-02-08",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2006/10704-02_08022006.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"4": {
+"i": false,
+"m": 1
+},
+"17": {
+"i": false,
+"m": 2
+},
+"10a": {
+"i": false,
+"m": 2
+},
+"10b": {
+"i": false,
+"m": 2
+},
+"9": {
+"i": true,
+"m": 18
+},
+"24": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "68c8a2af-64fe-48f2-a3cf-d66ce6b5f4e5",
+"gericht": "BGH",
+"az": "I ZR 27/03",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "trademark",
+"datum": "2006-02-23",
+"leitsatz": ": : Parfümtestkäufe MarkenG § 19 Der Markeninhaber kann den Verletzer auch dann nach § 19 MarkenG auf Auskunft in Anspruch nehmen, wenn die Markenverletzung (allein) darin besteht, dass außerhalb des Europäischen Wirtschaftsraums in Verkehr gebrachte Originalware in diesen verbracht und hier vertrieben wird. Auch in diesem Fall kann der Auskunftsanspruch auf Handlungen, die der Verletzungshandlung im Kern gleichartig sind, gerichtet sein. MarkenG § 18 Abs. 1 Dem Antrag auf Vernichtung kann nur hinsichtlich solcher Gegenstände entsprochen werden, zu denen hinreichende Feststellungen dahingehend getroffen worden sind, ob der durch die Rechtsverletzung verursachte Zustand der Gegenstände nicht auf andere Weise beseitigt werden kann und die Vernichtung für den Verletzer oder den Eigentümer nicht unverhältnismäßig ist. Dies setzt in der Regel Feststellungen zum Grad des Verschuldens voraus.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2003/I_ZR__27-03.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"14": {
+"i": true,
+"m": 9
+},
+"19": {
+"i": true,
+"m": 36
+},
+"24": {
+"i": false,
+"m": 1
+},
+"18": {
+"i": true,
+"m": 8
+}
+},
+"designg": {
+"46": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"101a": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "1fb529d0-c338-46ad-9141-ab5de0ac9efd",
+"gericht": "BGH",
+"az": "I ZB 57/05",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache",
+"name": "",
+"gebiet": "design",
+"datum": "2006-05-18",
+"leitsatz": ": : Erstattung von Patentanwaltskosten GeschmMG § 15 Abs. 5 i.d.F. v. 13.12.2001; GebrMG § 27 Abs. 5 i.d.F. v. 13.12.2001; MarkenG § 140 Abs. 5 i.d.F. v. 13.12.2001; PatG § 143 Abs. 5 i.d.F. v. 13.12.2001; SortSchG § 38 Abs. 4 i.d.F. v. 13.12.2001; Gesetz zur Bereinigung von Kostenregelungen auf dem Gebiet des geistigen Eigentums vom 13. Dezember 2001 Art. 30 Abs. 1; ZPO § 91 Abs. 1 Satz 1 a) Die Vorschriften über die Erstattungsfähigkeit der Kosten eines mitwirkenden Patentanwalts finden in der Fassung des Gesetzes zur Bereinigung von Kostenregelungen auf dem Gebiet des Geistigen Eigentums vom 13. Dezember 2001 auch auf Streitverfahren Anwendung, die vor dem 1. Januar 2002 anhängig wurden, wenn die Mitwirkungshandlungen des Patentanwalts nach dem Inkrafttreten der Neuregelung (1. Januar 2002) vorgenommen worden sind. b) Zur Erstattungsfähigkeit von Reisekosten des Prozessbevollmächtigten, die angefallen sind, nachdem das am Gerichtsort bestehende Büro der überörtlichen Anwaltssozietät, der er angehört, geschlossen worden ist.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2005/I_ZB__57-05.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"15": {
+"i": true,
+"m": 4
+}
+},
+"markeng": {
+"140": {
+"i": false,
+"m": 3
+}
+}
+}
+},
+{
+"id": "3870405c-8320-4ced-a2e6-6e4727ffcfcc",
+"gericht": "BPatG",
+"az": "10 W (pat) 714/02",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldungen",
+"name": "",
+"gebiet": "design",
+"datum": "2006-06-29",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2006/10714-02_29062006.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"66": {
+"i": false,
+"m": 1
+},
+"5": {
+"i": false,
+"m": 1
+},
+"24": {
+"i": true,
+"m": 4
+},
+"10b": {
+"i": true,
+"m": 4
+},
+"130": {
+"i": false,
+"m": 1
+},
+"114": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "cae52042-31e7-4292-a5d5-eaf1d774f860",
+"gericht": "BPatG",
+"az": "10 W (pat) 708/03",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Geschmacksmusteranmeldung 402 05 049.5 wegen Anmeldetag",
+"name": "",
+"gebiet": "design",
+"datum": "2006-08-10",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2006/10708-03_10082006.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"11": {
+"i": false,
+"m": 4
+},
+"32": {
+"i": false,
+"m": 1
+},
+"5": {
+"i": false,
+"m": 1
+},
+"6": {
+"i": false,
+"m": 3
+},
+"7": {
+"i": false,
+"m": 4
+},
+"66": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "aa3124c2-760b-415a-957b-d8400a36c3fb",
+"gericht": "BGH",
+"az": "I ZR 6/04",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2006-09-21",
+"leitsatz": ": : Steckverbindergehäuse UWG § 4 Nr. 9, § 9 a) Die Grundsätze der Gemeinkostenanteil-Entscheidung (BGHZ 145, 366) sind auch für die Bemessung des sog. Verletzergewinns in Fällen des wettbewerbsrechtlichen Leistungsschutzes anzuwenden. b) Bei der Bemessung des Schadensersatzes nach diesen Grundsätzen gehören zu den Kosten, die der Produktion des rechtsverletzenden Gegenstands unmittelbar zugerechnet werden können, neben den Produktions- und Materialkosten und den Vertriebskosten die Kosten des Personals, das für die Herstellung und den Vertrieb des Nachahmungsprodukts eingesetzt ist, sowie bei Investitionen in Anlagevermögen die Kosten für Maschinen und Räumlichkeiten (anteilig bezogen auf ihre Lebensdauer), die nur für die Produktion und den Vertrieb der Nachahmungsprodukte verwendet worden sind. c) Nicht anrechenbar sind die Kosten, die unabhängig vom Umfang der Produktion und des Vertriebs durch die Unterhaltung des Betriebs entstanden sind. Hierzu zählen allgemeine Marketingkosten, die Geschäftsführergehälter, die Verwaltungskosten sowie die Kosten für Anlagevermögen, das nicht konkret der Rechtsverletzung zugerechnet werden kann. Nicht anrechenbar sind ferner Anlauf- und Entwicklungskosten sowie Kosten für die nicht mehr veräußerbaren Produkte.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2004/I_ZR___6-04.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"4": {
+"i": false,
+"m": 2
+},
+"1": {
+"i": true,
+"m": 3
+},
+"9": {
+"i": true,
+"m": 9
+}
+},
+"designg": {
+"42": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "070394b6-01f2-49fb-b904-13115f47986c",
+"gericht": "BPatG",
+"az": "10 W (pat) 701/06",
+"ecli": "",
+"senat": "10. Senat",
+"senat_typ": "Juristischer Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend das Geschmacksmuster 498 10 714.0 (Wiedereinsetzung in die Frist zur Zahlung der Aufrechterhal",
+"name": "",
+"gebiet": "design",
+"datum": "2006-11-30",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2006/10701-06_30112006.pdf?__blob=publicationFile",
+"zitate": {
+"patkostg": {
+"7": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"23": {
+"i": false,
+"m": 2
+},
+"9": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "1e3849c3-585c-4add-8482-a22ad4541b06",
+"gericht": "BGH",
+"az": "I ZR 93/04",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Windsor Estate",
+"gebiet": "trademark",
+"datum": "2007-07-19",
+"leitsatz": "a) Der aus einer Kennzeichenverletzung folgende Schadensersatzanspruch sowie der der Bezifferung dieses Anspruchs dienende Auskunftsanspruch sind zeitlich nicht durch die vom Gläubiger nachgewiesene erste Verletzungshandlung begrenzt (Aufgabe von BGH, Urt. v. 26.11.1987 - I ZR 123/85, GRUR 1988, 307 - Gaby). b) Ein Lizenznehmer, der gemäß § 30 Abs. 4 MarkenG der Verletzungsklage des Lizenzgebers beitritt, erlangt die Stellung eines einfachen Streitgenossen. Dem Lizenznehmer steht im Falle einer Markenverletzung kein eigener Schadensersatzanspruch gegen den Verletzer zu.",
+"normen_text": "MarkenG § 14 Abs. 2 Nr. 2, Abs. 5, Abs. 6, § 30",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2004/I_ZR__93-04.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"8": {
+"i": true,
+"m": 3
+},
+"13": {
+"i": false,
+"m": 2
+},
+"30": {
+"i": true,
+"m": 17
+},
+"14": {
+"i": true,
+"m": 26
+},
+"9": {
+"i": false,
+"m": 2
+},
+"19": {
+"i": true,
+"m": 3
+},
+"139": {
+"i": false,
+"m": 1
+},
+"12": {
+"i": false,
+"m": 1
+}
+},
+"uwg": {
+"9": {
+"i": false,
+"m": 2
+},
+"8": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"101a": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"46": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "c781f880-2c91-4e61-9dd6-6cef07fd47b5",
+"gericht": "BGH",
+"az": "I ZR 100/05",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Dacheindeckungsplatten",
+"gebiet": "design",
+"datum": "2007-10-18",
+"leitsatz": "Ein Muster (hier: Fassaden- und Dacheindeckungsplatten) kann auch dann eigentümlich im Sinne des § 1 Abs. 2 GeschmMG a.F. sein, wenn es zwar eine gängige geometrische Form verwendet, diese Form aber für den mit Durchschnittskönnen und der Kenntnis des betreffenden Fachgebiets ausgestatteten Mustergestalter im Hinblick auf vermeintliche funktionsbedingte Nachteile von vornherein ausscheidet.",
+"normen_text": "GeschmMG § 1 Abs. 2 a.F.",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2005/I_ZR_100-05.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"1": {
+"i": true,
+"m": 12
+},
+"10c": {
+"i": false,
+"m": 1
+},
+"66": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "25aad210-02c0-4518-86eb-5fac1b2d9b06",
+"gericht": "BGH",
+"az": "I ZR 161/04",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2007-10-18",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2004/I_ZR_161-04.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"1": {
+"i": true,
+"m": 10
+},
+"66": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "0e764ee3-40ce-4d2d-8ec1-79ba36e94db5",
+"gericht": "BGH",
+"az": "I ZR 67/05",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Baugruppe",
+"gebiet": "design",
+"datum": "2008-01-10",
+"leitsatz": "GeschmMG a.F. § 1 Abs. 2, § 10c Abs. 2 Nr. 1; GeschmMG §§ 4, 38, 42, 46; UWG § 4 Nr. 9 Buchst. a und b a) Nach § 1 Abs. 2 GeschmMG a.F. sind von der Beurteilung der Eigentümlichkeit des Musters solche Merkmale nicht grundsätzlich ausgeschlossen, die nach dem bestimmungsgemäßen Einbau eines dem Muster entsprechenden Bauelements in ein komplexes Erzeugnis nicht sichtbar sind. b) Die Beurteilung, ob die übernommene Gestaltung eine gemeinfreie technische Lösung darstellt, deren Übernahme i.S. von § 4 Nr. 9 lit. a und b UWG wettbewerbsrechtlich unbedenklich ist, ist bei einem Bauelement, das nach dem Kauf in ein komplexes Erzeugnis eingefügt wird, nicht auf die nach dem Einbau sichtbaren Teile beschränkt.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2005/I_ZR__67-05.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"4": {
+"i": true,
+"m": 4
+},
+"42": {
+"i": false,
+"m": 2
+},
+"38": {
+"i": false,
+"m": 2
+},
+"9": {
+"i": false,
+"m": 1
+},
+"10c": {
+"i": true,
+"m": 3
+},
+"46": {
+"i": false,
+"m": 2
+},
+"1": {
+"i": true,
+"m": 11
+},
+"3": {
+"i": false,
+"m": 1
+},
+"66": {
+"i": false,
+"m": 4
+},
+"8": {
+"i": false,
+"m": 1
+},
+"14a": {
+"i": false,
+"m": 1
+}
+},
+"uwg": {
+"4": {
+"i": true,
+"m": 6
+},
+"1": {
+"i": true,
+"m": 6
+},
+"8": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": true,
+"m": 5
+},
+"9": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "0ffc561f-6546-4612-a261-99ffdba3fedd",
+"gericht": "BGH",
+"az": "I ZB 105/07",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend die Geschmacksmusteranmeldung Nr. 405 05 698.2",
+"name": "",
+"gebiet": "design",
+"datum": "2008-02-14",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2007/I_ZB_105-07.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"135": {
+"i": false,
+"m": 1
+},
+"24": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "53786bd0-21eb-47f1-8d4f-4fae39f6f63a",
+"gericht": "BGH",
+"az": "I ZB 106/07",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache betreffend die Geschmacksmusteranmeldung Nr. 406 01 9940",
+"name": "",
+"gebiet": "design",
+"datum": "2008-02-14",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2007/I_ZB_106-07.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"24": {
+"i": false,
+"m": 1
+},
+"135": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "120f09ab-0f35-4e2e-898c-8710cf9e2063",
+"gericht": "BGH",
+"az": "I ZR 168/05",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2008-07-17",
+"leitsatz": ": : Kinderwärmekissen BGB §§ 242 Ba, 339 Abs. 1 Satz 2, § 343; HGB § 348 a) Eine Zusammenfassung mehrerer oder aller Verstöße zu einer einzigen Zuwiderhandlung gegen ein Unterlassungsgebot nach den Grundsätzen der natürlichen Handlungseinheit oder einer Handlung im Rechtssinne scheidet aus, wenn die Parteien eine Vertragsstrafe für jedes einzelne verkaufte Produkt vereinbart haben. b) Steht eine vereinbarte Vertragsstrafe in einem außerordentlichen Missverhältnis zur Bedeutung der Zuwiderhandlung, ist ihre Herabsetzung nach dem Grundsatz von Treu und Glauben gemäß § 242 BGB geboten, auch wenn eine Verringerung der Vertragsstrafe wegen unverhältnismäßiger Höhe nach § 343 BGB gemäß § 348 HGB ausgeschlossen ist. In diesem Fall ist die Vertragsstrafe nicht auf die nach § 343 BGB angemessene Höhe, sondern nur auf das Maß zu reduzieren, das ein Eingreifen des Gerichts nach § 242 BGB noch nicht rechtfertigen würde.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2005/I_ZR_168-05.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "75baaf75-c59e-483f-a150-20657fcff75c",
+"gericht": "BGH",
+"az": "I ZR 126/06",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2008-10-09",
+"leitsatz": ": : Gebäckpresse Verordnung (EG) Nr. 6/2002 des Rates vom 12. Dezember 2001 über das Gemeinschaftsgeschmacksmuster Art. 5 Abs. 1, Art. 7 Abs. 1, Art. 11, 110a Abs. 5 Satz 2; UWG § 4 Nr. 9 lit. a a) Der Schutz für ein nicht eingetragenes Gemeinschaftsgeschmacksmuster entsteht nach Art. 11, 110a Abs. 5 Satz 2 GGV nur, wenn das Geschmacksmuster der Öffentlichkeit auf dem Territorium der Gemeinschaft erstmals zugänglich gemacht wurde; eine Veröffentlichung außerhalb des Territoriums der Gemeinschaft genügt - auch wenn sie den Fachkreisen innerhalb der Gemeinschaft bekannt sein konnte - den Anforderungen des Art. 11 GGV nicht. b) Offenbarungshandlungen des Rechtsinhabers außerhalb der Gemeinschaft sind nach Art. 7 GGV neuheitsschädlich, wenn den in der Gemeinschaft tätigen Fachkreisen des betreffenden Wirtschaftszweigs das Geschmacksmuster im normalen Geschäftsverlauf bekannt sein konnte. c) Die für die Gefahr einer Herkunftstäuschung regelmäßig erforderliche Bekanntheit des nachgeahmten Produkts muss - ungeachtet der einem Angehörigen eines Verbandslandes der Pariser Verbandsübereinkunft nach Art. 1 Abs. 2, Art. 2 Abs. 1 PVÜ zukommenden Gleichstellung mit Inländern - auf dem inländischen Markt vorliegen; die ausschließliche Bekanntheit des nachgeahmten Produkts im Ausland reicht grundsätzlich nicht aus.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2006/I_ZR_126-06.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"1": {
+"i": true,
+"m": 4
+},
+"9": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": false,
+"m": 2
+},
+"3": {
+"i": true,
+"m": 6
+},
+"4": {
+"i": true,
+"m": 16
+}
+},
+"designg": {
+"42": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "c86d66d3-4e3c-4ab5-b99d-472dd2997352",
+"gericht": "BGH",
+"az": "I ZR 124/06",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "LIKEaBIKE",
+"gebiet": "design",
+"datum": "2009-05-28",
+"leitsatz": "Die wettbewerbliche Eigenart eines Erzeugnisses hängt von dem Gesamteindruck ab, den die konkrete Ausgestaltung oder bestimmte Merkmale des jeweiligen Erzeugnisses vermitteln. Sie kann daher durch Gestaltungsmerkmale verstärkt oder begründet werden, die für sich genommen nicht geeignet sind, im Verkehr auf die Herkunft des Erzeugnisses aus einem bestimmten Unternehmen hinzuweisen. Die Übernahme von Merkmalen eines Erzeugnisses, die dem freizuhaltenden Stand der Technik angehören und der angemessenen Lösung einer technischen Aufgabe dienen, kann wettbewerbsrechtlich unlauter sein, wenn eine dadurch hervorgerufene Gefahr einer Herkunftstäuschung durch zumutbare Maßnahmen zu vermeiden ist.",
+"normen_text": "UWG § 4 Nr. 9 lit. a",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2006/I_ZR_124-06.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"3": {
+"i": false,
+"m": 4
+},
+"1": {
+"i": true,
+"m": 1
+},
+"4": {
+"i": true,
+"m": 7
+},
+"8": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 3
+},
+"5": {
+"i": false,
+"m": 3
+}
+},
+"designg": {
+"1": {
+"i": true,
+"m": 1
+},
+"66": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "a6189697-4813-4b17-93a3-cff41da85377",
+"gericht": "BGH",
+"az": "I ZB 66/09",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache",
+"name": "",
+"gebiet": "design",
+"datum": "2010-02-25",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2009/I_ZB__66-09.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "bcb92931-ac4b-4e65-85a4-41c494fdb69f",
+"gericht": "BGH",
+"az": "I ZR 89/08",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Verlängerte Limousinen",
+"gebiet": "design",
+"datum": "2010-04-22",
+"leitsatz": "Verordnung (EG) Nr. 6/2002 des Rates vom 12. Dezember 2001 über das Gemeinschaftsgeschmacksmuster Art. 1 Abs. 1, 2 lit. b und 3, Art. 4 Abs. 1, Art. 5 Abs. 1 lit. b, Art. 6 Abs. 1 lit. b und 2, Art. 8, 10, 19 Abs. 1, Art. 21, Art. 74 Abs. 1 und 2, Art. 89 Abs. 1 lit. a und d; GeschmMG § 42 Abs. 2, § 46 Abs. 1 und 2 a) Für die Ermittlung der Eigenart i.S. von Art. 6 GGV ist maßgebliches Kriterium die Unterschiedlichkeit der Muster, die in einem Einzelvergleich mit bereits vorhandenen Mustern zu ermitteln ist. Eigentümlichkeit und Gestaltungshöhe sind nicht Voraussetzungen des Schutzes des Gemeinschaftsgeschmacksmusters. b) Ein Gemeinschaftsgeschmacksmuster wird noch nicht durch die Anmeldung der Öffentlichkeit i.S. von Art. 6, 7 GGV zugänglich gemacht. -2c) Eine Begrenzung des Schutzumfangs eines Klagemusters auf diejenigen Merkmale, durch die es sich von einem früher angemeldeten Gemeinschaftsgeschmacksmuster unterscheidet, kommt jedenfalls dann nicht in Betracht, wenn das früher angemeldete Gemeinschaftsgeschmacksmuster nicht vor dem Klagemuster der Öffentlichkeit zugänglich gemacht worden ist. d) Die Wirkungen der Erschöpfung nach Art. 21 GGV treten an konkret in Verkehr gebrachten Erzeugnissen und nicht an einzelnen ihrer Merkmale ein. e) Eine in einem Mitgliedstaat begangene Handlung, durch die ein Gemeinschaftsgeschmacksmuster verletzt wird, begründet in der Regel eine Begehungsgefahr für das gesamte Gebiet der Europäischen Union.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2008/I_ZR__89-08.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"42": {
+"i": true,
+"m": 9
+},
+"34": {
+"i": false,
+"m": 1
+},
+"46": {
+"i": false,
+"m": 6
+},
+"33": {
+"i": false,
+"m": 3
+},
+"2": {
+"i": true,
+"m": 7
+},
+"62": {
+"i": false,
+"m": 1
+},
+"38": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"14": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "7b03141b-a58d-416d-ac34-45b0b4d2b97b",
+"gericht": "BGH",
+"az": "I ZR 71/08",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Untersetzer",
+"gebiet": "design",
+"datum": "2010-05-19",
+"leitsatz": "a) Für die Bestimmung des Schutzumfangs (Art. 10 GGV) eines Gemeinschaftsgeschmacksmusters ist es grundsätzlich unerheblich, woraus sich dessen Eigenart (Art. 6 GGV) im Einzelnen ergibt. b) Bei der Bestimmung des Schutzumfangs ist nach Art. 10 Abs. 2 GGV - ebenso wie bei der Bestimmung der Eigenart nach Art. 6 Abs. 2 GGV - der Grad der Gestaltungsfreiheit des Entwerfers bei der Entwicklung seines Geschmacksmusters zu berücksichtigen. Der Schutzumfang eines Geschmacksmusters richtet sich deshalb nach dessen Abstand zum vorbekannten Formenschatz. c) Entwerfer des Geschmacksmusters im Sinne des Art. 10 Abs. 2 GGV ist - ebenso wie im Sinne des Art. 6 Abs. 2 GGV - der Entwerfer des Klagemusters. Für die Beurteilung des Gestaltungsspielraums des Entwerfers und damit des Schutzumfangs eines eingetragenen Geschmacksmusters ist daher der Zeitpunkt der Anmeldung dieses Musters zur Eintragung maßgeblich.",
+"normen_text": "GGV Art. 6, 10",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2008/I_ZR__71-08.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"2": {
+"i": false,
+"m": 2
+},
+"46": {
+"i": false,
+"m": 3
+},
+"38": {
+"i": true,
+"m": 6
+},
+"37": {
+"i": false,
+"m": 1
+},
+"42": {
+"i": true,
+"m": 4
+}
+}
+}
+},
+{
+"id": "e72dcfce-9ff0-4ddc-86b9-9187079dc3ec",
+"gericht": "BGH",
+"az": "I ZR 142/08",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2010-06-10",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2008/I_ZR_142-08.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "afdd3fa2-c544-426f-b200-c60273307089",
+"gericht": "BGH",
+"az": "I ZR 97/09",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2010-08-17",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2009/I_ZR__97-09.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"72": {
+"i": false,
+"m": 2
+},
+"1": {
+"i": true,
+"m": 1
+},
+"38": {
+"i": false,
+"m": 3
+},
+"46": {
+"i": false,
+"m": 1
+},
+"42": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": false,
+"m": 2
+},
+"3": {
+"i": false,
+"m": 1
+},
+"544": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "5ec4c40b-5624-4617-b1c6-4cd12b2d36df",
+"gericht": "BGH",
+"az": "I ZR 211/08",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Schreibgeräte",
+"gebiet": "design",
+"datum": "2011-03-24",
+"leitsatz": "Abs. 1 und 2, § 42 Abs. 1 und 2, § 46; Brüssel-I-VO Art. 27 a) Verfolgt der Kläger in getrennten Klagen vor den Gerichten verschiedener Mitgliedstaaten territorial begrenzten Rechtsschutz aus unterschiedlichen Geschmacksmustern, liegt nicht derselbe Anspruch im Sinne von Art. 27 Brüssel-I-VO vor. b) Lässt die graphische Darstellung eines Musters nicht erkennen, ob es ein- oder zweiteilig ausgestaltet ist, kann dies zur Folge haben, dass einerseits weitergehende Entgegenhaltungen aus dem vorbekannten Formenschatz möglich sind, dass andererseits aber auch ein größerer Schutzumfang des Musters besteht. c) Ist die graphische Darstellung eines Musters in Schwarz-Weiß gehalten, ist bei der Verletzungsprüfung die angegriffene Form grundsätzlich von der farblichen Gestaltung zu abstrahieren, wenn nicht bei der angegriffenen Ausführungsform Kontrastfarben verwendet werden, die zu einem von einer einheitlichen Farbgebung abweichenden Gesamteindruck führen. d) Besteht Geschmacksmusterschutz für die Erscheinungsform eines Teils eines Erzeugnisses, ist bei der Prüfung des Gesamteindrucks der Verletzungsform der entsprechende Teil zugrunde zu legen.",
+"normen_text": "GeschmMG § 1 Nr. 1, §§ 2, 11 Abs. 2 Satz 1 Nr. 3, Abs. 4 Nr. 1 und Abs. 5, § 37 Abs. 1, § 38",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2008/I_ZR_211-08.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"42": {
+"i": true,
+"m": 5
+},
+"66": {
+"i": false,
+"m": 2
+},
+"2": {
+"i": true,
+"m": 7
+},
+"46": {
+"i": false,
+"m": 2
+},
+"38": {
+"i": true,
+"m": 8
+},
+"11": {
+"i": true,
+"m": 8
+},
+"37": {
+"i": true,
+"m": 3
+},
+"6": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": true,
+"m": 3
+},
+"40": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "d89bcc15-c4cb-40e0-ac1b-8a0f8c1aaa30",
+"gericht": "BGH",
+"az": "I ZR 56/09",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "ICE",
+"gebiet": "design",
+"datum": "2011-04-07",
+"leitsatz": "Eine Wiedergabe zum Zwecke der Zitierung im Sinne des § 40 Nr. 3 GeschmMG setzt eine innere Verbindung zwischen dem wiedergegebenen Muster und eigenen Gedanken des Zitierenden voraus und erfordert daher, dass die Wiedergabe des Musters als Belegstelle oder Erörterungsgrundlage für eigene Ausführungen des Zitierenden dient.",
+"normen_text": "GeschmMG § 40 Nr. 3",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2009/I_ZR__56-09.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"23": {
+"i": true,
+"m": 5
+},
+"14": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"37": {
+"i": false,
+"m": 1
+},
+"72": {
+"i": false,
+"m": 1
+},
+"40": {
+"i": true,
+"m": 14
+},
+"42": {
+"i": true,
+"m": 6
+},
+"38": {
+"i": true,
+"m": 12
+},
+"66": {
+"i": true,
+"m": 3
+},
+"1": {
+"i": true,
+"m": 5
+}
+},
+"urhg": {
+"51": {
+"i": true,
+"m": 4
+}
+}
+}
+},
+{
+"id": "aca74509-c5a5-4384-90b0-539afc18aa3b",
+"gericht": "BGH",
+"az": "I ZR 53/10",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Seilzirkus",
+"gebiet": "design",
+"datum": "2011-05-12",
+"leitsatz": "a) Bei einem Gebrauchsgegenstand können nur solche Merkmale Urheberrechtsschutz als Werk der angewandten Kunst im Sinne des § 2 Abs. 1 Nr. 4 UrhG begründen, die nicht allein technisch bedingt, sondern auch künstlerisch gestaltet sind. Eine Gestaltung genießt keinen Urheberrechtsschutz, wenn sie allein aus zwar frei wählbaren oder austauschbaren, aber technisch bedingten Merkmalen besteht und keine künstlerische Leistung erkennen lässt. Allein durch die Ausnutzung eines handwerklich-konstruktiven Gestaltungsspielraums oder durch den Austausch eines technischen Merkmals durch ein anderes entsteht noch kein eigenschöpferisches Kunstwerk. b) Wer für einen Gebrauchsgegenstand Urheberrechtsschutz als Werk der angewandten Kunst im Sinne des § 2 Abs. 1 Nr. 4 UrhG beansprucht, muss genau und deutlich darlegen, inwieweit der Gebrauchsgegenstand über seine von der Funktion vorgegebene Form hinaus künstlerisch gestaltet ist.",
+"normen_text": "UrhG § 2 Abs. 1 Nr. 4",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2010/I_ZR__53-10.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"3": {
+"i": false,
+"m": 2
+}
+},
+"markeng": {
+"3": {
+"i": false,
+"m": 2
+}
+},
+"urhg": {
+"3": {
+"i": false,
+"m": 1
+},
+"9": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 19
+}
+},
+"uwg": {
+"4": {
+"i": true,
+"m": 5
+}
+}
+}
+},
+{
+"id": "929e1720-e05f-48ea-94f9-d5c308e60db2",
+"gericht": "BGH",
+"az": "I ZR 23/10",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Kinderwagen",
+"gebiet": "design",
+"datum": "2011-09-28",
+"leitsatz": "Abs. 1 a) Eine Verfahrensaussetzung nach Art. 91 Abs. 1 GGV kommt nicht in Betracht, wenn die Verletzungsklage nach Art. 81 Buchst. a GGV vor dem Antrag auf Nichtigerklärung nach Art. 52 GGV erhoben worden ist. b) Eine Begehungsgefahr für ein Herstellen und Herstellenlassen eines das Klagemuster verletzenden Erzeugnisses im Gebiet der Europäischen Union besteht bei einem produzierenden Unternehmen bereits dann, wenn es entsprechende Erzeugnisse außerhalb der Europäischen Union herstellen lässt und innerhalb der Europäischen Union anbietet und vertreibt.",
+"normen_text": "GGV Art. 10 Abs. 1 und 2, Art. 19 Abs. 1, Art. 89 Abs. 1 Buchst. d, Art. 91",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2010/I_ZR__23-10.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"38": {
+"i": false,
+"m": 2
+},
+"46": {
+"i": false,
+"m": 3
+},
+"42": {
+"i": true,
+"m": 3
+},
+"43": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "69e3b0c2-1028-4f90-8e4f-ee0333bf0561",
+"gericht": "BGH",
+"az": "I ZR 109/10",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2011-10-18",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2010/I_ZR_109-10.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"4": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"2": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "47ec646e-0e42-4fb4-ba33-7b0f425b69b5",
+"gericht": "BGH",
+"az": "I ZR 162/09",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Delcantos Hits",
+"gebiet": "design",
+"datum": "2012-02-02",
+"leitsatz": "a) Ein urheberrechtlicher Lizenzvertrag über die Einräumung oder Übertragung von Nutzungsrechten an einem vermeintlichen Werk ist nicht deshalb unwirksam, weil das vermeintliche Werk tatsächlich keinen Urheberrechtsschutz genießt. Der Lizenzgeber eines solchen Lizenzvertrages kann grundsätzlich die vereinbarte Vergütung beanspruchen, solange der Lizenzvertrag besteht und dem Lizenznehmer eine wirtschaftliche Vorzugsstellung verschafft. b) Den Parteien eines Lizenzvertrages ist es allerdings unbenommen, die Rechtsfolgen der Übertragung eines Scheinrechts anders zu regeln. Insbesondere können sie vereinbaren, dass ein Vergütungsanspruch nicht besteht, wenn der Lizenzgeber nicht nachweist, dass die materiellen Schutzvoraussetzungen des eingeräumten oder übertragenen Rechts vorliegen. c) Die GEMA ist nach den Bestimmungen des Berechtigungsvertrages zur Erhebung und Verrechnung von Aufführungsgebühren nur berechtigt und verpflichtet, wenn der Bezugsberechtigte in Zweifelsfällen nachweist, dass die aufgeführten Musikstücke urheberrechtlich geschützt sind.",
+"normen_text": "UrhG § 31",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2009/I_ZR_162-09.pdf?__blob=publicationFile",
+"zitate": {
+"urhg": {
+"31": {
+"i": true,
+"m": 5
+},
+"15": {
+"i": false,
+"m": 1
+},
+"62": {
+"i": false,
+"m": 1
+},
+"64": {
+"i": false,
+"m": 2
+},
+"4": {
+"i": false,
+"m": 1
+},
+"40": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 2
+},
+"6": {
+"i": false,
+"m": 1
+},
+"5": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"27": {
+"i": false,
+"m": 1
+},
+"36": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "6a05ef30-3fc5-4408-9dd2-fd2a1287f800",
+"gericht": "BGH",
+"az": "I ZR 68/11",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2012-02-23",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__68-11.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"46": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 2
+},
+"6": {
+"i": true,
+"m": 12
+},
+"38": {
+"i": false,
+"m": 2
+},
+"1": {
+"i": false,
+"m": 1
+},
+"42": {
+"i": false,
+"m": 2
+},
+"544": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "02ea82e9-8ff6-41f4-8cbc-23f626290aff",
+"gericht": "BGH",
+"az": "I ZR 124/10",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Weinkaraffe",
+"gebiet": "design",
+"datum": "2012-03-08",
+"leitsatz": "a) Schutzgegenstand des eingetragenen Gemeinschaftsgeschmacksmusters ist die in der Anmeldung sichtbar wiedergegebene Erscheinungsform eines Erzeugnisses oder eines Teils davon. Unterschiedliche Darstellungen eines Gemeinschaftsgeschmacksmusters in der Anmeldung bilden nicht mehrere Schutzgegenstände. Führen unterschiedliche Darstellungen eines Gemeinschaftsgeschmacksmusters in der Anmeldung zu Unklarheiten über den Schutzgegenstand, ist der Schutzgegenstand durch Auslegung zu ermitteln. b) Teile oder Elemente eines eingetragenen Gemeinschaftsgeschmacksmusters sind nach der Gemeinschaftsgeschmacksmusterverordnung nicht eigenständig geschützt.",
+"normen_text": "GGV Art. 3 Buchst. a, Art. 36 Abs. 1 Buchst. c Satz 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2010/I_ZR_124-10A.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"38": {
+"i": true,
+"m": 4
+},
+"37": {
+"i": true,
+"m": 8
+},
+"42": {
+"i": false,
+"m": 1
+},
+"46": {
+"i": false,
+"m": 2
+},
+"7": {
+"i": false,
+"m": 1
+},
+"52": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 5
+},
+"6": {
+"i": false,
+"m": 2
+},
+"2": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": false,
+"m": 1
+},
+"11": {
+"i": true,
+"m": 15
+}
+}
+}
+},
+{
+"id": "53dabea7-9191-4488-a9ca-1a51247a0f5f",
+"gericht": "BGH",
+"az": "I ZR 124/10",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2012-03-08",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2010/I_ZR_124-10.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "85f0c21f-7ceb-4545-bce7-b9f823027eb3",
+"gericht": "BGH",
+"az": "I ZB 77/11",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache",
+"name": "",
+"gebiet": "design",
+"datum": "2012-04-19",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZB__77-11.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"15": {
+"i": false,
+"m": 1
+},
+"17": {
+"i": false,
+"m": 1
+},
+"14": {
+"i": false,
+"m": 1
+},
+"19": {
+"i": false,
+"m": 3
+}
+},
+"urhg": {
+"94": {
+"i": false,
+"m": 1
+},
+"101": {
+"i": true,
+"m": 65
+},
+"3": {
+"i": true,
+"m": 8
+},
+"70": {
+"i": false,
+"m": 1
+},
+"97": {
+"i": false,
+"m": 1
+},
+"74": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"46": {
+"i": false,
+"m": 2
+},
+"40": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "c36d7e3e-d65a-44b1-9e1e-1b13fd7a196d",
+"gericht": "BGH",
+"az": "I ZB 80/11",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache",
+"name": "Alles kann besser werden",
+"gebiet": "other",
+"datum": "2012-04-19",
+"leitsatz": "a) Der in Fällen offensichtlicher Rechtsverletzung bestehende Anspruch aus § 101 Abs. 2 Satz 1 Nr. 3 UrhG auf Auskunft gegen eine Person, die in gewerblichem Ausmaß für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbrachte, setzt nicht voraus, dass die rechtsverletzenden Tätigkeiten das Urheberrecht oder ein anderes nach dem Urheberrechtsgesetz geschütztes Recht in gewerblichem Ausmaß verletzt haben. b) Die Begründetheit des Antrags nach § 101 Abs. 9 Satz 1 UrhG auf Gestattung der Verwendung von Verkehrsdaten zur Erteilung der Auskunft über den Namen und die Anschrift der Nutzer, denen zu bestimmten Zeitpunkten bestimmte (dynamische) IP-Adressen zugewiesen waren, setzt jedenfalls in den Fällen, in denen ein Auskunftsanspruch nach § 101 Abs. 2 Satz 1 Nr. 3 UrhG wegen einer offensichtlichen Rechtsverletzung gegen eine Person besteht, die in gewerblichem Ausmaß für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbracht hat, grundsätzlich kein besonderes und insbesondere kein gewerbliches Ausmaß der Rechtsverletzung voraus. Ein solcher Antrag ist vielmehr unter Abwägung der betroffenen Rechte des Rechtsinhabers, des Auskunftspflichtigen und der Nutzer sowie unter Berücksichtigung des Grundsatzes der Verhältnismäßigkeit in aller Regel ohne Weiteres begründet.",
+"normen_text": "UrhG § 101 Abs. 2 Satz 1 Nr. 3, § 101 Abs. 9",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZB__80-11.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"14": {
+"i": false,
+"m": 1
+},
+"15": {
+"i": false,
+"m": 1
+},
+"19": {
+"i": false,
+"m": 3
+},
+"17": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"46": {
+"i": false,
+"m": 2
+},
+"40": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"3": {
+"i": true,
+"m": 8
+},
+"101": {
+"i": true,
+"m": 70
+},
+"97": {
+"i": false,
+"m": 1
+},
+"85": {
+"i": false,
+"m": 1
+},
+"70": {
+"i": false,
+"m": 1
+},
+"74": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "d9217c1b-eaed-4418-9af5-e54748d085bb",
+"gericht": "BGH",
+"az": "I ZR 102/11",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Kinderwagen II",
+"gebiet": "design",
+"datum": "2012-07-12",
+"leitsatz": "a) Die Partei, die ihre Ansprüche sowohl auf ein Gemeinschaftsgeschmacksmuster als auch auf ein wettbewerbswidriges Verhalten der Gegenseite stützt, verfolgt ihre Ansprüche in erster Linie aus dem Gemeinschaftsgeschmacksmuster und nur hilfsweise aus einem wettbewerbswidrigen Verhalten, wenn die Klageanträge das gesamte Gebiet der Europäischen Union umfassen. b) Der Schutzumfang des Klagemusters wird durch die Musterdichte bei den fraglichen Erzeugnissen einerseits und die Ausnutzung des Gestaltungsspielraums durch den Entwerfer und den dadurch erreichten Abstand des Klagemusters vom Formenschatz andererseits bestimmt. c) Aus dem Umstand, dass der informierte Benutzer übereinstimmenden Merkmalen des Klagemusters und des angegriffenen Modells, die durch eine technische Funktion bedingt sind, für den Gesamteindruck eine eher geringe Bedeutung beimisst, folgt nicht, dass er Unterschieden in Merkmalen, die eine technische Funktion erfüllen, ebenfalls nur eine geringe Bedeutung für den Gesamteindruck beilegt.",
+"normen_text": "GGV Art. 10 Abs. 1 und 2, Art. 79 Abs. 1, Art. 89 Abs. 1 Buchst. d",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR_102-11.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"42": {
+"i": false,
+"m": 1
+},
+"46": {
+"i": false,
+"m": 1
+}
+},
+"uwg": {
+"5": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "7f5bc310-b8bb-4326-a336-613a8e944584",
+"gericht": "BGH",
+"az": "I ZR 24/11",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit betreffend das Musikwerk „Take Five“ beendet sind und mit Ablauf der Lizenz auch die Rechte bei Lizenzneh",
+"name": "Take Five",
+"gebiet": "other",
+"datum": "2012-07-19",
+"leitsatz": "Das Erlöschen der Hauptlizenz führt in aller Regel auch dann nicht zum Erlöschen der Unterlizenz, wenn der Hauptlizenznehmer dem Unterlizenznehmer ein ausschließliches Nutzungsrecht gegen Beteiligung an den Lizenzerlösen eingeräumt hat und die Hauptlizenz nicht aufgrund eines Rückrufs wegen Nichtausübung, sondern aus anderen Gründen (hier: einvernehmliche Aufhebung des Hauptlizenzvertrages) - erlischt (Fortführung von",
+"normen_text": "UrhG §§ 31, 33, 35",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2011/I_ZR__24-11.pdf?__blob=publicationFile",
+"zitate": {
+"urhg": {
+"132": {
+"i": false,
+"m": 1
+},
+"31": {
+"i": true,
+"m": 1
+},
+"41": {
+"i": true,
+"m": 3
+},
+"30": {
+"i": false,
+"m": 1
+},
+"43": {
+"i": false,
+"m": 1
+},
+"35": {
+"i": true,
+"m": 2
+},
+"42": {
+"i": false,
+"m": 1
+},
+"33": {
+"i": true,
+"m": 10
+}
+},
+"markeng": {
+"31": {
+"i": false,
+"m": 1
+},
+"30": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"31": {
+"i": false,
+"m": 1
+},
+"15": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "f6bb4f18-8a37-4a0c-a370-4d7b4dacae24",
+"gericht": "BGH",
+"az": "I ZR 70/10",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "M2Trade",
+"gebiet": "other",
+"datum": "2012-07-19",
+"leitsatz": "a) Ein urheberrechtliches Nutzungsrecht, das der Lizenzgeber einem Lizenznehmer eingeräumt hat, fällt im Regelfall, in dem die Vertragsparteien nichts anderes vereinbart haben, mit der Beendigung des Lizenzvertrages ipso iure an den Lizenzgeber zurück (Aufgabe von BGH, Urteil vom 15. April 1958 - I ZR 31/57, BGHZ 27, 90, 95 f. - Die Privatsekretärin). b) Das Erlöschen der Hauptlizenz führt in aller Regel auch dann nicht zum Erlöschen der Unterlizenz, wenn der Hauptlizenznehmer dem Unterlizenznehmer ein einfaches Nutzungsrecht gegen fortlaufende Zahlung von Lizenzgebühren eingeräumt hat und die Hauptlizenz nicht aufgrund eines Rückrufs wegen Nichtausübung, sondern aus anderen Gründen (hier: Kündigung des Hauptlizenzvertrages wegen Zahlungsverzugs) - erlischt (Fortführung von BGH, Urteil vom 26. März 2009 - I ZR 153/06, c) Beim Erlöschen der Hauptlizenz hat der Hauptlizenzgeber gegen den Hauptlizenznehmer einen Anspruch nach § 812 Abs. 1 Satz 1 Fall 2 BGB auf Abtretung des gegen den Unterlizenznehmer bestehenden Anspruchs auf ausstehende Lizenzzahlungen.",
+"normen_text": "UrhG §§ 31, 33, 35",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2010/I_ZR__70-10.pdf?__blob=publicationFile",
+"zitate": {
+"urhg": {
+"69a": {
+"i": true,
+"m": 2
+},
+"41": {
+"i": true,
+"m": 8
+},
+"26": {
+"i": false,
+"m": 1
+},
+"42": {
+"i": false,
+"m": 1
+},
+"95": {
+"i": false,
+"m": 1
+},
+"97": {
+"i": false,
+"m": 3
+},
+"17": {
+"i": false,
+"m": 1
+},
+"28": {
+"i": false,
+"m": 2
+},
+"31": {
+"i": true,
+"m": 9
+},
+"30": {
+"i": false,
+"m": 3
+},
+"9": {
+"i": false,
+"m": 1
+},
+"69f": {
+"i": false,
+"m": 1
+},
+"15": {
+"i": false,
+"m": 2
+},
+"35": {
+"i": true,
+"m": 1
+},
+"33": {
+"i": true,
+"m": 5
+},
+"27": {
+"i": false,
+"m": 1
+},
+"5": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"30": {
+"i": false,
+"m": 3
+},
+"31": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"31": {
+"i": false,
+"m": 1
+},
+"15": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "0e899d2e-7078-4606-92c7-5a0a5ea6c03a",
+"gericht": "BGH",
+"az": "I ZR 74/10",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Gartenpavillon",
+"gebiet": "design",
+"datum": "2012-08-16",
+"leitsatz": "und d Dem Gerichtshof der Europäischen Union werden zur Auslegung der Art. 7 Abs. 1 Satz 1, Art. 11 Abs. 2, Art. 19 Abs. 2 und Art. 89 Abs. 1 Buchst. a und d der Verordnung (EG) Nr. 6/2002 des Rates vom 12. Dezember 2001 über das Gemeinschaftsgeschmacksmuster (ABl. Nr. L 3 vom 5. Januar 2002, S. 1) folgende Fragen zur Vorabentscheidung vorgelegt: 1. Ist Art. 11 Abs. 2 der Verordnung (EG) Nr. 6/2002 dahin auszulegen, dass ein Geschmacksmuster den in der Union tätigen Fachkreisen des betreffenden Wirtschaftszweigs im normalen Geschäftsverlauf bekannt sein konnte, wenn Abbildungen des Geschmacksmusters an Händler verteilt wurden?",
+"normen_text": "GGV Art. 5, Art. 7 Abs. 1, Art. 11 Abs. 2, Art. 19 Abs. 2, Art. 89 Abs. 1 Buchst. a",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2010/I_ZR__74-10.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"5": {
+"i": true,
+"m": 4
+},
+"43": {
+"i": false,
+"m": 2
+},
+"46": {
+"i": false,
+"m": 1
+},
+"26": {
+"i": false,
+"m": 1
+},
+"42": {
+"i": false,
+"m": 1
+}
+},
+"uwg": {
+"11": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "511bb32b-e8dc-464b-9d47-2dae0b52c902",
+"gericht": "BGH",
+"az": "I ZR 14/12",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2012-10-18",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2012/I_ZR__14-12.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"2": {
+"i": false,
+"m": 1
+},
+"66": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": true,
+"m": 16
+},
+"544": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": true,
+"m": 4
+},
+"72": {
+"i": true,
+"m": 6
+}
+}
+}
+},
+{
+"id": "1b90f905-8018-4e84-a9b2-6f51daa15246",
+"gericht": "BGH",
+"az": "I ZR 23/12",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Bolerojäckchen",
+"gebiet": "design",
+"datum": "2012-12-13",
+"leitsatz": "Die Partei, die Rechte aus einem nicht eingetragenen Gemeinschaftsgeschmacksmuster ableitet, trägt die Darlegungs- und Beweislast dafür, dass sie Inhaberin des Rechts nach Art. 14 Abs. 1 und 3 GGV ist. Zu ihren Gunsten streitet keine Vermutung für die Inhaberschaft, wenn sie das nicht eingetragene Gemeinschaftsgeschmacksmuster erstmalig der Öffentlichkeit innerhalb der Union im Sinne des Art. 11 GGV zugänglich gemacht hat.",
+"normen_text": "GGV Art. 11, 14 Abs. 1 und 3, Art. 85 Abs. 2 Satz 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2012/I_ZR__23-12.pdf?__blob=publicationFile",
+"zitate": {
+"urhg": {
+"10": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"46": {
+"i": false,
+"m": 2
+},
+"42": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "20996e9a-33ca-42a5-b18d-b600b69a4b90",
+"gericht": "BGH",
+"az": "I ZR 143/12",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Geburtstagszug",
+"gebiet": "design",
+"datum": "2013-11-13",
+"leitsatz": "a) An den Urheberrechtsschutz von Werken der angewandten Kunst im Sinne von § 2 Abs. 1 Nr. 4, Abs. 2 UrhG sind grundsätzlich keine anderen Anforderungen zu stellen als an den Urheberrechtsschutz von Werken der zweckfreien bildenden Kunst oder des literarischen und musikalischen Schaffens. Es genügt daher, dass sie eine Gestaltungshöhe erreichen, die es nach Auffassung der für Kunst empfänglichen und mit Kunstanschauungen einigermaßen vertrauten Kreise rechtfertigt, von einer „künstlerischen“ Leistung zu sprechen. Es ist dagegen nicht erforderlich, dass sie die Durchschnittsgestaltung deutlich überragen (Aufgabe von BGH, Urteil vom 22. Juni 1995 - I ZR 119/93, GRUR 1995, 581 = WRP 1995, 908 - Silberdistel). b) Bei der Beurteilung, ob ein Werk der angewandten Kunst die für einen Urheberrechtsschutz erforderliche Gestaltungshöhe erreicht, ist zu berücksichtigen, dass die ästhetische Wirkung der Gestaltung einen Urheberrechtsschutz nur begründen kann, soweit sie nicht dem Gebrauchszweck geschuldet ist, sondern auf einer künstlerischen Leistung beruht. Darüber hinaus ist zu beachten, dass eine zwar Urheberrechtsschutz begründende, gleichwohl aber geringe Gestaltungshöhe zu einem entsprechend engen Schutzbereich des betreffenden Werkes führt. c) Der Anspruch auf Zahlung einer (weiteren) angemessenen Vergütung nach § 36 Abs. 1 UrhG aF oder § 32 Abs. 1 Satz 3, Abs. 2 Satz 2 UrhG und § 32a Abs. 1 Satz 1 UrhG ist bei der Verwertung eines Werkes der angewandten Kunst, das einem Geschmac",
+"normen_text": "UrhG § 2 Abs. 1 Nr. 4, Abs. 2, § 32 Abs. 1 Satz 3, Abs. 2 Satz 2, § 32a Abs. 1 Satz 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2012/I_ZR_143-12.pdf?__blob=publicationFile",
+"zitate": {
+"urhg": {
+"32": {
+"i": true,
+"m": 12
+},
+"2": {
+"i": true,
+"m": 45
+},
+"132": {
+"i": false,
+"m": 1
+},
+"32a": {
+"i": true,
+"m": 8
+},
+"9": {
+"i": false,
+"m": 2
+},
+"36": {
+"i": true,
+"m": 7
+},
+"64": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"1": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 4
+}
+}
+}
+},
+{
+"id": "247f06ca-4345-44f3-8129-2285b43c9143",
+"gericht": "BGH",
+"az": "I ZR 148/13",
+"ecli": "",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Motorradteile",
+"gebiet": "other",
+"datum": "2015-01-15",
+"leitsatz": "a) Eine rechtsverletzende Dauerhandlung (hier das unbefugte öffentliche Zugänglichmachen von Fotografien im Internet) ist zur Bestimmung des Beginns der Verjährung gedanklich in Einzelhandlungen (also in Tage) aufzuspalten, für die jeweils eine gesonderte Verjährungsfrist läuft. b) Mit dem Restschadensersatzanspruch aus § 102 Satz 2 UrhG, § 852 BGB kann die Herausgabe des durch die Verletzung eines Urheberrechts erlangten Gebrauchsvorteils im Wege der Zahlung einer fiktiven Lizenzgebühr verlangt werden. c) Wegen einer Verletzung des Rechts auf Anerkennung der Urheberschaft (§ 13 Satz 1 UrhG) kann nach § 97 Abs. 2 UrhG sowohl der Ersatz materiellen Schadens als auch der Ersatz immateriellen Schadens beansprucht werden. Wegen des Schadens, der nicht Vermögensschaden ist, kann der Urheber nach § 97 Abs. 2 Satz 4 UrhG eine Entschädigung in Geld verlangen, wenn und soweit dies der Billigkeit entspricht. Dies setzt voraus, dass es sich um einen schwerwiegenden Eingriff handelt und die Beeinträchtigung nicht in anderer Weise befriedigend ausgeglichen werden kann. Nur wegen des Schadens, der Vermögensschaden ist, kann der Urheber seinen Schadensersatzanspruch nach § 97 UrhG auch auf der Grundlage des Betrages berechnen, den der Verletzer als angemessene Vergütung hätte entrichten müssen, wenn er die Erlaubnis zur Nutzung des verletzten Rechts eingeholt hätte. Dabei kann die Höhe der fiktiven Lizenzgebühr, die zum Ausgleich eines durch die fehlende Urheberbenennung verursachten Schade",
+"normen_text": "BGB § 199 Abs. 1; UrhG § 13 Satz 1, §§ 97, 102 Satz 2",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2013/I_ZR_148-13.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"20": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"31": {
+"i": false,
+"m": 1
+},
+"13": {
+"i": true,
+"m": 12
+},
+"97": {
+"i": true,
+"m": 17
+},
+"11": {
+"i": true,
+"m": 5
+},
+"72": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 1
+},
+"102": {
+"i": true,
+"m": 19
+},
+"19a": {
+"i": false,
+"m": 2
+}
+},
+"designg": {
+"49": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "d7446193-ff8e-40c0-98e4-bedad7b0ace3",
+"gericht": "BGH",
+"az": "I ZR 40/14",
+"ecli": "ECLI:DE:BGH:2016:280116UIZR40.14.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Armbanduhr",
+"gebiet": "design",
+"datum": "2016-01-28",
+"leitsatz": "Für die Beurteilung des Gesamteindrucks im Sinne von § 38 Abs. 2 Satz 1 DesignG kommt es maßgeblich darauf an, wie der informierte Benutzer ein Erzeugnis, in das das Design aufgenommen oder bei dem es verwendet wird, bei dessen bestimmungsgemäßer Verwendung wahrnimmt. Darüber hinaus kann zu berücksichtigen sein, welchen Eindruck ein solches Erzeugnis bei seiner Präsentation in der Werbung und im Verkauf beim informierten Benutzer erweckt.",
+"normen_text": "DesignG § 38 Abs. 2 Satz 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2014/I_ZR__40-14.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"5": {
+"i": true,
+"m": 2
+},
+"42": {
+"i": false,
+"m": 6
+},
+"74": {
+"i": false,
+"m": 2
+},
+"52a": {
+"i": false,
+"m": 1
+},
+"72": {
+"i": false,
+"m": 6
+},
+"11": {
+"i": false,
+"m": 1
+},
+"38": {
+"i": true,
+"m": 30
+},
+"46": {
+"i": false,
+"m": 4
+},
+"18": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 3
+},
+"66": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": true,
+"m": 3
+},
+"43": {
+"i": false,
+"m": 2
+},
+"4": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"98": {
+"i": false,
+"m": 2
+}
+},
+"markeng": {
+"18": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "38942155-f8e1-4dbb-908a-a3d8e7d8b3ed",
+"gericht": "BGH",
+"az": "I ZR 226/14",
+"ecli": "ECLI:DE:BGH:2016:020616BIZR226.14.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Kraftfahrzeugfelgen",
+"gebiet": "design",
+"datum": "2016-06-02",
+"leitsatz": "Dem Gerichtshof der Europäischen Union werden zur Auslegung des Art. 110 Abs. 1 der Verordnung (EG) Nr. 6/2002 des Rates vom 12. Dezember 2001 über das Gemeinschaftsgeschmacksmuster (ABl. Nr. L 3 vom 5. Januar 2002) folgende Fragen zur Vorabentscheidung vorgelegt: 1. Ist die Anwendung der Schutzschranke im Sinne von Art. 110 Abs. 1 der Verordnung (EG) Nr. 6/2002 auf formgebundene, das heißt solche Teile beschränkt, deren Form durch das Erscheinungsbild des Gesamterzeugnisses prinzipiell unveränderlich festgelegt und damit vom Kunden nicht - wie etwa Felgen von Kraftfahrzeugen - frei wählbar ist? 2. Für den Fall, dass die Frage 1 verneint wird: Ist die Anwendung der Schutzschranke im Sinne von Art. 110 Abs. 1 der Verordnung (EG) Nr. 6/2002 allein auf das Angebot von identisch gestalteten, also auch farblich und in der Größe den Originalerzeugnissen entsprechenden Erzeugnissen beschränkt? 3. Für den Fall, dass die Frage 1 verneint wird: ECLI:DE:BGH:2016:020616BIZR226.14.0 -2Greift die Schutzschranke im Sinne von Art. 110 Abs. 1 der Verordnung (EG) Nr. 6/2002 zugunsten des Anbieters eines grundsätzlich das Klagemuster verletzenden Erzeugnisses nur dann ein, wenn dieser Anbieter objektiv sicherstellt, dass sein Erzeugnis ausschließlich zu Reparaturzwecken und nicht auch zu anderen Zwecken, etwa der Aufrüstung oder der Individualisierung des Gesamterzeugnisses erworben werden kann? 4. Falls die Frage 3 bejaht wird: Welche Maßnahmen muss der Anbieter eines grundsätzlich das Klagemu",
+"normen_text": "GGV Art. 110 Abs. 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2014/I_ZR_226-14.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "89c0069f-5776-46bb-9895-b7dd70f046c0",
+"gericht": "BGH",
+"az": "I ZR 93/15",
+"ecli": "ECLI:DE:BGH:2016:191016BIZR93.15.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Hinweisbeschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2016-10-19",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2015/I_ZR__93-15.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"12": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": false,
+"m": 1
+},
+"13": {
+"i": true,
+"m": 15
+},
+"7": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"52": {
+"i": false,
+"m": 2
+},
+"15": {
+"i": false,
+"m": 2
+}
+},
+"markeng": {
+"140": {
+"i": false,
+"m": 4
+}
+}
+}
+},
+{
+"id": "6c48293e-cdbf-4371-8ee2-bd566f83ddbe",
+"gericht": "BGH",
+"az": "I ZR 9/16",
+"ecli": "ECLI:DE:BGH:2017:290617UIZR9.16.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Bettgestell",
+"gebiet": "design",
+"datum": "2017-06-29",
+"leitsatz": "Abs. 1 und 3, § 72 Abs. 2 a) Als wirkliche und ernsthafte Anstalten, die ebenso wie die Benutzung eines Designs ein Vorbenutzungsrecht im Sinne von § 41 Abs. 1 DesignG begründen können, sind Vorbereitungshandlungen aller Art anzusehen, die auf die Benutzung des Designs gerichtet sind und den ernstlichen Willen sicher erkennen lassen, die Benutzung alsbald aufzunehmen. b) Nur im Inland getroffene wirkliche und ernsthafte Anstalten zur Benutzung eines Designs können ein Vorbenutzungsrecht im Sinne von § 41 Abs. 1 DesignG begründen.",
+"normen_text": "DesignG § 2 Abs. 1, § 13 Abs. 2, §§ 15, 41 Abs. 1, § 42 Abs. 2 Satz 1, § 46",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2016/I_ZR___9-16.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"42": {
+"i": true,
+"m": 3
+},
+"72": {
+"i": true,
+"m": 9
+},
+"34": {
+"i": false,
+"m": 1
+},
+"37": {
+"i": false,
+"m": 2
+},
+"46": {
+"i": true,
+"m": 7
+},
+"13": {
+"i": true,
+"m": 5
+},
+"41": {
+"i": true,
+"m": 50
+},
+"2": {
+"i": true,
+"m": 15
+},
+"15": {
+"i": true,
+"m": 9
+},
+"5": {
+"i": false,
+"m": 4
+},
+"7": {
+"i": false,
+"m": 1
+},
+"38": {
+"i": true,
+"m": 8
+},
+"7b": {
+"i": false,
+"m": 1
+},
+"28": {
+"i": false,
+"m": 1
+},
+"12": {
+"i": true,
+"m": 5
+},
+"6": {
+"i": true,
+"m": 4
+},
+"7a": {
+"i": false,
+"m": 1
+},
+"52a": {
+"i": false,
+"m": 1
+},
+"74": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "50550d77-d047-43ac-b80b-d6ab03b7b051",
+"gericht": "BGH",
+"az": "I ZB 96/16",
+"ecli": "ECLI:DE:BGH:2017:111017BIZB96.16.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in dem Zwangsvollstreckungsverfahren",
+"name": "",
+"gebiet": "trademark",
+"datum": "2017-10-11",
+"leitsatz": "Buchst. a; ZPO §§ 890, 935, 940 a) Die Verpflichtung zur Unterlassung einer Handlung, durch die ein fortdauernder Störungszustand geschaffen wurde, ist auch dann, wenn sie in einer einstweiligen Verfügung enthalten ist, mangels abweichender Anhaltspunkte dahin auszulegen, dass sie neben der Unterlassung derartiger Handlungen auch die Vornahme möglicher und zumutbarer Handlungen zur Beseitigung des Störungszustands umfasst. b) Eine im Verfügungsverfahren grundsätzlich unzulässige Vorwegnahme der Hauptsache liegt regelmäßig dann nicht vor, wenn der Schuldner die von ihm vertriebenen Waren aufgrund der gegen ihn ergangenen einstweiligen Verfügung nicht bei seinen Abnehmern zurückzurufen, sondern diese lediglich aufzufordern hat, die erhaltenen Waren im Hinblick auf die einstweilige Verfügung vorläufig nicht weiterzuvertreiben.",
+"normen_text": "MarkenG § 14 Abs. 5; Verordnung (EG) Nr. 207/2009 Art. 9 Abs. 1 Satz 2",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2016/I_ZB__96-16.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"14": {
+"i": true,
+"m": 3
+},
+"18": {
+"i": false,
+"m": 2
+}
+},
+"designg": {
+"43": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"98": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "517f09b3-ef35-4fef-b7b1-4ad6cc509c29",
+"gericht": "BGH",
+"az": "I ZR 187/16",
+"ecli": "ECLI:DE:BGH:2018:110118UIZR187.16.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Ballerinaschuh",
+"gebiet": "design",
+"datum": "2018-01-11",
+"leitsatz": "VO (EG) Nr. 6/2002 Art. 10 Abs. 2; BGB § 823 Abs. 1 Ai, C, § 826 B, Gi a) Modelle, die über eine Internetseite dem allgemeinen Publikum zum Kauf angeboten werden, gehören zum vorbekannten Formenschatz, von dem der interessierte Benutzer Kenntnis nehmen kann, und sind bei der Prüfung des Schutzumfangs eines Gemeinschaftsgeschmacksmusters zu berücksichtigen. b) Umstände, die den Schutzumfang eines Geschmacksmusters zu schmälern geeignet sind, gehören grundsätzlich nicht zu den Tatsachen, die der klagende Schutzrechtsinhaber von sich aus offenbaren muss. Es obliegt vielmehr dem aus dem Geschmacksmuster in Anspruch genommenen Beklagten, hierzu vorzutragen. c) Stellt derjenige, der unberechtigt wegen einer Schutzrechtsverletzung abgemahnt worden ist, infolge der Verwarnung den Vertrieb des beanstandeten Produkts ein, ist wegen des in der unberechtigten Schutzrechtsverwarnung liegenden Eingriffs in den eingerichteten und ausgeübten Gewerbebetrieb auch der Schaden ersatzfähig, der dem Verwarnten infolge der Vertriebseinstellung nach Erhebung einer Klage wegen der Schutzrechtsverletzung entsteht.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2016/I_ZR_187-16.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"14": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"98": {
+"i": false,
+"m": 1
+}
+},
+"uwg": {
+"12": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": true,
+"m": 11
+}
+},
+"designg": {
+"42": {
+"i": false,
+"m": 1
+},
+"43": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "fec6d59d-a5ee-403c-98e8-a752b204ae46",
+"gericht": "BGH",
+"az": "I ZR 76/17",
+"ecli": "ECLI:DE:BGH:2018:220318BIZR76.17.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2018-03-22",
+"leitsatz": "a) Die Aussetzung eines Rechtsstreits bis zur Zustellung einer in diesem Rechtsstreit eingereichten Streitverkündungsschrift kommt weder in direkter noch in analoger Anwendung von § 148 ZPO in Betracht. b) Trifft das Gericht eine Entscheidung, bevor eine in dem Rechtsstreit eingereichte Streitverkündungsschrift zugestellt worden ist, wird dadurch weder das Recht der streitverkündenden Partei auf ein faires Verfahren und auf wirkungsvollen Rechtsschutz noch ihr Anspruch auf rechtliches Gehör verletzt.",
+"normen_text": "GG Art. 2 Abs. 1, Art. 20 Abs. 3, Art. 103 Abs. 1; ZPO § 148",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2017/I_ZR__76-17.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"46": {
+"i": false,
+"m": 1
+},
+"42": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "93b2c716-fddb-48e2-9032-ac43d2f04128",
+"gericht": "BGH",
+"az": "I ZR 226/14",
+"ecli": "ECLI:DE:BGH:2018:260718UIZR226.14.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Kraftfahrzeugfelgen II",
+"gebiet": "design",
+"datum": "2018-07-26",
+"leitsatz": "a) Die Schutzschranke gemäß Art. 110 Abs. 1 GGV ist grundsätzlich auf Felgen von Kraftfahrzeugen anwendbar, die farblich und in der Größe den Originalfelgen entsprechen, wenn die Verwendung der Felgen notwendig ist, um ein Kraftfahrzeug zu reparieren, das etwa aufgrund des Abhandenkommens der Originalfelgen oder deren Beschädigung schadhaft geworden ist. b) Der Anbieter solcher Kraftfahrzeugfelgen kann sich auf die Schutzschranke gemäß Art. 110 Abs. 1 GGV nur dann mit Erfolg berufen, wenn er Sorgfaltspflichten erfüllt, die sich auf die Einhaltung der in Art. 110 Abs. 1 GGV geregelten Voraussetzungen durch die nachgelagerten Benutzer beziehen. c) Danach obliegt es dem Hersteller und dem Anbieter, den nachgelagerten Benutzer mit einem klaren, gut sichtbaren Hinweis auf dem Erzeugnis, auf dessen Verpackung, in den Katalogen oder in den Verkaufsunterlagen darüber zu informieren,  dass in die betreffende Felge ein Geschmacksmuster aufgenommen ist, dessen Inhaber er nicht ist, und  dass diese Felge ausschließlich dazu bestimmt ist, mit dem Ziel verwendet zu werden, die Reparatur des Kraftfahrzeugs zu ermöglichen, um diesem wieder sein ursprüngliches Erscheinungsbild zu verleihen. Der Hinweis muss in den Sprachen gegeben werden, die in den Ländern allgemein verständlich sind, an deren Einwohner sich das Angebot bestimmungsgemäß richtet. d) Der Hersteller und der Anbieter haben zudem mit geeigneten Mitteln, insbesondere vertraglicher Art, dafür zu sorgen, dass die nachgelagerten Be",
+"normen_text": "GGV Art. 110 Abs. 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2014/I_ZR_226-14A.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"42": {
+"i": false,
+"m": 1
+},
+"46": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "80e0bb6e-7a3d-4232-9837-2513b9ffeabc",
+"gericht": "BGH",
+"az": "I ZR 26/17",
+"ecli": "ECLI:DE:BGH:2018:130918UIZR26.17.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Prozessfinanzierer",
+"gebiet": "other",
+"datum": "2018-09-13",
+"leitsatz": "Die Gewinnabschöpfungsklage eines Verbraucherverbands, die von einem gewerblichen Prozessfinanzierer finanziert wird, dem eine Vergütung in Form eines Anteils am abgeschöpften Gewinn zugesagt wird, widerspricht dem Verbot unzulässiger Rechtsausübung aus § 242 BGB und ist unzulässig.",
+"normen_text": "UWG § 8 Abs. 3 Nr. 3, § 10; BGB § 242 Cd",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2017/I_ZR__26-17.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"4": {
+"i": false,
+"m": 1
+},
+"12": {
+"i": true,
+"m": 10
+},
+"3": {
+"i": true,
+"m": 6
+},
+"3a": {
+"i": false,
+"m": 1
+},
+"8": {
+"i": true,
+"m": 34
+},
+"1": {
+"i": false,
+"m": 1
+},
+"10": {
+"i": true,
+"m": 36
+}
+},
+"designg": {
+"54": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"142": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "e0742d8b-81aa-4ad8-8a96-7b843a4a6c62",
+"gericht": "BGH",
+"az": "I ZB 25/18",
+"ecli": "ECLI:DE:BGH:2018:201218BIZB25.18.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "betreffend das Design Nr. 40 2008 001 032-0001",
+"name": "Sporthelm",
+"gebiet": "design",
+"datum": "2018-12-20",
+"leitsatz": "a) Zeigen mehrere Darstellungen eines im Wege der Einzelanmeldung angemeldeten Designs verschiedene Ausführungsformen eines Erzeugnisses (hier: Sporthelm) mit unterschiedlichen Merkmalen der Erscheinungsform dieses Erzeugnisses (hier: unterschiedliche Beriemung, Ausstattung mit oder ohne Reiterknopf, verschiedene Farben, Farbkontraste, Dekore), geben sie nicht die Erscheinungsform \"eines\" Erzeugnisses sichtbar wieder. Das Design lässt in diesem Fall keinen einheitlichen Schutzgegenstand im Sinne von § 1 Nr. 1 DesignG erkennen und ist deshalb nach § 33 Abs. 1 Nr. 1 DesignG nichtig. Wird vom Designinhaber für die abweichenden Merkmale Designschutz beansprucht, ist es nicht zulässig, einen einheitlichen Schutzgegenstand auf Grundlage der Schnittmenge der allen Darstellungen gemeinsamen Merkmale zu ermitteln (Aufgabe BGH, Urteil vom 15. Februar 2001 - I ZR 333/98, GRUR 2001, 503 = WRP 2001, 946 - Sitz-Liegemöbel). b) Für die Zusammenfassung unterschiedlicher Ausführungsformen eines Erzeugnisses bietet § 12 Abs. 1 Satz 1 DesignG die Möglichkeit einer Sammelanmeldung mehrerer Designs.",
+"normen_text": "DesignG § 1 Nr. 1, § 12 Abs. 1 Satz 1, § 33 Abs. 1 Nr. 1, § 37 Abs. 1; DesignV § 7 Abs. 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2018/I_ZB__25-18.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"37": {
+"i": true,
+"m": 3
+},
+"11": {
+"i": false,
+"m": 4
+},
+"33": {
+"i": true,
+"m": 6
+},
+"34": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 4
+},
+"18": {
+"i": false,
+"m": 1
+},
+"34a": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": true,
+"m": 9
+},
+"23": {
+"i": false,
+"m": 1
+},
+"12": {
+"i": true,
+"m": 4
+}
+}
+}
+},
+{
+"id": "467cec6f-bc9f-4444-b08c-0c4ad28c20cf",
+"gericht": "BGH",
+"az": "I ZB 26/18",
+"ecli": "ECLI:DE:BGH:2018:201218BIZB26.18.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "betreffend das Design Nr. 40 2008 001 031-0001",
+"name": "Sportbrille",
+"gebiet": "design",
+"datum": "2018-12-20",
+"leitsatz": "a) Ist der Anmeldung eines Designs eine Schwarz-Weiß-Fotografie zur Wiedergabe des Designs mit einer Darstellung eines Farbkontrasts in Graustufen beigefügt, wird der daraus ersichtliche Hell-Dunkel-Kontrast unabhängig von einer konkreten Farbgebung zum Schutzgegenstand gemacht. b) Ein Einzeldesign lässt keinen einheitlichen Schutzgegenstand erkennen und ist nichtig, wenn seiner Anmeldung Schwarz-Weiß-Fotografien beigefügt sind, in denen Farbkontraste einmal in einer Hell-Dunkel-Kombination, das andere Mal umgekehrt in einer Dunkel-Hell-Kombination dargestellt werden.",
+"normen_text": "DesignG § 1 Nr. 1, § 12 Abs. 1 Satz 1, § 33 Abs. 1 Nr. 1, § 37 Abs. 1; DesignV; § 7 Abs. 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2018/I_ZB__26-18.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"34": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 4
+},
+"23": {
+"i": false,
+"m": 1
+},
+"34a": {
+"i": false,
+"m": 1
+},
+"38": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": true,
+"m": 7
+},
+"18": {
+"i": false,
+"m": 1
+},
+"11": {
+"i": false,
+"m": 5
+},
+"37": {
+"i": true,
+"m": 3
+},
+"12": {
+"i": true,
+"m": 3
+},
+"33": {
+"i": true,
+"m": 5
+}
+}
+}
+},
+{
+"id": "1d9ddd63-9496-42a9-b4ac-9ac4d62bc1a7",
+"gericht": "BGH",
+"az": "I ZR 164/17",
+"ecli": "ECLI:DE:BGH:2019:240119UIZR164.17.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Meda Gate",
+"gebiet": "design",
+"datum": "2019-01-24",
+"leitsatz": "Verordnung (EG) Nr. 6/2002 Art. 10 Bei der Beurteilung des Abstands des Klagemusters zum vorbekannten Formenschatz kommt es maßgeblich auf den jeweiligen Gesamteindruck der sich gegenüberstehenden Muster an. Eine mosaikartige Gesamtschau einzelner Elemente unterschiedlicher Entgegenhaltungen verbietet sich. Die bloße bildliche Wiedergabe von Entgegenhaltungen ersetzt dabei keine konkreten Feststellungen zu deren Gesamteindruck (Fortführung von BGH, Urteil vom 28. September 2011 - I ZR 23/10, GRUR 2012, 512 Rn. 26 - Kinderwagen I).",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2017/I_ZR_164-17.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "1fce8660-c75d-49b0-b8ed-6c93b39c60ef",
+"gericht": "BGH",
+"az": "I ZB 83/18",
+"ecli": "ECLI:DE:BGH:2019:090519BIZB83.18.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in dem Kostenfestsetzungsverfahren",
+"name": "Kosten des Patentanwalts V",
+"gebiet": "trademark",
+"datum": "2019-05-09",
+"leitsatz": "Werden in erster Linie nichtkennzeichenrechtliche Ansprüche (hier: namensrechtliche Ansprüche) und hilfsweise kennzeichenrechtliche Ansprüche (hier: markenrechtliche Ansprüche) geltend gemacht, können die Kosten, die durch die Mitwirkung eines Patentanwalts entstanden sind, nach § 104 ZPO in Verbindung mit § 140 Abs. 3 MarkenG gegen den Prozessgegner nur festgesetzt werden, wenn über die kennzeichenrechtlichen Hilfsansprüche eine gerichtliche Entscheidung mit einer entsprechenden Kostengrundentscheidung zugunsten desjenigen ergangen ist, der die Kostenfestsetzung beantragt.",
+"normen_text": "ZPO § 91, § 104; MarkenG § 140 Abs. 3",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2018/I_ZB__83-18.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"140": {
+"i": true,
+"m": 22
+}
+},
+"designg": {
+"52": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "e9ec43a0-ed51-40d6-bc5e-628275c2e584",
+"gericht": "BGH",
+"az": "I ZR 116/18",
+"ecli": "ECLI:DE:BGH:2019:190919UIZR116.18.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Chickenwings",
+"gebiet": "design",
+"datum": "2019-09-19",
+"leitsatz": "a) Hat der Geschädigte im Feststellungsverfahren keine konkreten Schadenspositionen mitgeteilt, ist der Schädiger im Betragsverfahren hinsichtlich dann erstmals geltend gemachter Schadenspositionen nicht mit dem Mitverschuldenseinwand ausgeschlossen. b) Der Einwand, der Schaden sei durch voreiliges Nachgeben unnötig vergrößert worden, bezieht sich auf die haftungsausfüllende Kausalität zwischen der Rechtsgutsverletzung und der jeweiligen Schadensposition.",
+"normen_text": "BGB § 254 Abs. 1, Abs. 2 Satz 1 G",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2018/I_ZR_116-18.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "de847f70-21c4-4c8a-bf03-66498293ebfa",
+"gericht": "BGH",
+"az": "I ZR 1/19",
+"ecli": "ECLI:DE:BGH:2020:300120BIZR1.19.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Front kit",
+"gebiet": "design",
+"datum": "2020-01-30",
+"leitsatz": "Verordnung (EG) Nr. 6/2002 Art. 4 Abs. 2 Buchst. b, Art. 6 Abs. 1, Art. 11 Abs. 1 und 2 Satz 1 Dem Gerichtshof der Europäischen Union werden zur Auslegung des Art. 11 Abs. 1 und 2 Satz 1 sowie der Art. 4 Abs. 2 Buchst. b, Art. 6 Abs. 1 Buchst. a der Verordnung (EG) Nr. 6/2002 des Rates vom 12. Dezember 2001 über das Gemeinschaftsgeschmacksmuster (ABl. L 3 vom 5. Januar 2002) folgende Fragen zur Vorabentscheidung vorgelegt: 1. Können durch die Offenbarung einer Gesamtabbildung eines Erzeugnisses gemäß Art. 11 Abs. 1 und 2 Satz 1 der Verordnung (EG) Nr. 6/2002 nicht eingetragene Gemeinschaftsgeschmacksmuster an einzelnen Teilen des Erzeugnisses entstehen? 2. Für den Fall, dass die Frage 1 bejaht wird: Welcher rechtliche Maßstab ist im Rahmen der Prüfung der Eigenart nach Art. 4 Abs. 2 Buchst. b, Art. 6 Abs. 1 der Verordnung (EG) Nr. 6/2002 bei der Ermittlung des Gesamteindrucks im Falle eines Bauelements anzulegen, das - wie etwa ein Teil einer Fahrzeugkarosserie - in ein komplexes Erzeugnis eingefügt wird? Darf insbesondere darauf abgestellt werden, ob die Erscheinungsform des Bauelements in der Wahrnehmung des informierten Benutzers nicht vollständig in der Erscheinungsform des komplexen Erzeugnisses untergeht, sondern eine gewisse Eigenständigkeit und Geschlossenheit der Form aufweist, die es ermöglicht, einen von der Gesamtform unabhängigen ästhetischen Gesamteindruck festzustellen?",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2019/I_ZR___1-19.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"1": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": false,
+"m": 1
+},
+"38": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "ab32b2c2-24ea-4e58-a3e0-3f35b6f6b5e2",
+"gericht": "BGH",
+"az": "I ZB 25/18",
+"ecli": "ECLI:DE:BGH:2020:150420BIZB25.18.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "betreffend das Design Nr. 40 2008 001 032-0001",
+"name": "",
+"gebiet": "design",
+"datum": "2020-04-15",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2018/I_ZB__25-18A.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "5c93495f-4e9a-47de-aac1-06b0ba98205b",
+"gericht": "BGH",
+"az": "I ZB 26/18",
+"ecli": "ECLI:DE:BGH:2020:150420BIZB26.18.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "betreffend das Design Nr. 40 2008 001 031-0001",
+"name": "",
+"gebiet": "design",
+"datum": "2020-04-15",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2018/I_ZB__26-18A.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "6ee920eb-1ca0-4bf0-ac15-c9dc70c4bfa8",
+"gericht": "BGH",
+"az": "I ZB 77/19",
+"ecli": "ECLI:DE:BGH:2020:230420BIZB77.19.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Designrechtsbeschwerdesache",
+"name": "",
+"gebiet": "design",
+"datum": "2020-04-23",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2019/I_ZB__77-19.pdf?__blob=publicationFile",
+"zitate": {
+"patkostg": {
+"2": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": false,
+"m": 1
+}
+},
+"markeng": {
+"90": {
+"i": false,
+"m": 2
+},
+"83": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"23": {
+"i": true,
+"m": 12
+},
+"28": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "6653f370-6c0d-4522-8d85-79e583f0f4d7",
+"gericht": "BGH",
+"az": "I ZB 25/18",
+"ecli": "ECLI:DE:BGH:2020:280520BIZB25.18.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "betreffend das Design Nr. 40 2008 001 032-0001",
+"name": "",
+"gebiet": "design",
+"datum": "2020-05-28",
+"leitsatz": "a) Der Wert des Gegenstands der anwaltlichen Tätigkeit ist gemäß § 34a Abs. 5 Satz 2 DesignG in Verbindung mit § 23 Abs. 3 Satz 2 Halbsatz 1 und § 33 Abs. 1 RVG nach billigem Ermessen zu bestimmen. b) Maßgeblich für die Festsetzung des Gegenstandswerts im Designnichtigkeitsverfahren ist das wirtschaftliche Interesse des Designinhabers an der Aufrechterhaltung seines Designs. c) Im designrechtlichen Nichtigkeitsverfahren entspricht die Festsetzung des Gegenstandswerts auf 50.000 € im Regelfall billigem Ermessen.",
+"normen_text": "DesignG § 34a Abs. 5 Satz 2; RVG § 23 Abs. 3 Satz 2 Halbsatz 1, § 33 Abs. 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2018/I_ZB__25-18B.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"54": {
+"i": false,
+"m": 1
+},
+"50": {
+"i": false,
+"m": 1
+},
+"90": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"34a": {
+"i": true,
+"m": 5
+}
+}
+}
+},
+{
+"id": "76fef277-0ec4-40e0-870a-1195883ef44a",
+"gericht": "BGH",
+"az": "I ZB 26/18",
+"ecli": "ECLI:DE:BGH:2020:280520BIZB26.18.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "betreffend das Design Nr. 40 2008 001 031-0001",
+"name": "",
+"gebiet": "design",
+"datum": "2020-05-28",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2018/I_ZB__26-18B.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"90": {
+"i": false,
+"m": 1
+},
+"54": {
+"i": false,
+"m": 1
+},
+"50": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"34a": {
+"i": false,
+"m": 3
+}
+}
+}
+},
+{
+"id": "807576b2-79ff-4094-8a2e-88eaa1ff4af7",
+"gericht": "BGH",
+"az": "I ZR 137/19",
+"ecli": "ECLI:DE:BGH:2020:071020UIZR137.19.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Papierspender",
+"gebiet": "design",
+"datum": "2020-10-07",
+"leitsatz": "Verordnung (EG) Nr. 6/2002 Art. 8 Abs. 1 a) Der Schutzfähigkeit eines Erzeugnisses als (Gemeinschafts-)Geschmacksmuster steht es nicht entgegen, dass für dasselbe Erzeugnis ein technisches Schutzrecht beantragt oder erteilt wurde (Fortführung von BGH, Urteil vom 9. Februar 1966 - Ib ZR 13/64, GRUR 1966, 681, 683 [juris Rn. 31] - Laternenflasche). b) Die Ansprüche, Beschreibungen und Zeichnungen der Patentoffenlegungsschrift für ein Erzeugnis zählen zu den für den Einzelfall maßgeblichen objektiven Umständen, die nach der Rechtsprechung des Gerichtshofs der Europäischen Union (EuGH, Urteil vom 8. März 2018 - C-395/16, GRUR 2018, 612 Rn. 38 = WRP 2018, 546 - DOCERAM) bei der gemäß Art. 8 Abs. 1 der Verordnung (EG) Nr. 6/2002 über das Gemeinschaftsgeschmacksmuster (GGV) vorzunehmenden Prüfung zu würdigen sind, ob Erscheinungsmerkmale ausschließlich durch die technische Funktion des Erzeugnisses bedingt sind. Die Patentoffenlegungsschrift kann Aufschluss darüber geben, welche Merkmale des Erzeugnisses die dem Patent zugrundeliegende technische Lehre verwirklichen und daher zumindest auch technisch bedingt sind. c) Jedoch erlaubt das Fehlen von Erwägungen zur visuellen Erscheinung des Erzeugnisses in einer Patentoffenlegungsschrift für sich genommen genauso wenig den Schluss auf die ausschließlich technische Bedingtheit eines Erscheinungsmerkmals wie das Vorhandensein von Erwägungen zu dessen technischer Funktion. Vielmehr ist in beiden Fällen zu prüfen, ob außerhalb der Patentoff",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2019/I_ZR_137-19.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"3": {
+"i": true,
+"m": 10
+}
+}
+}
+},
+{
+"id": "e87e0773-ae19-4f53-ab0b-974c49dd533a",
+"gericht": "BGH",
+"az": "I ZB 31/20",
+"ecli": "ECLI:DE:BGH:2021:010721BIZB31.20.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in der Rechtsbeschwerdesache",
+"name": "Sattelunterseite",
+"gebiet": "design",
+"datum": "2021-07-01",
+"leitsatz": "Richtlinie 98/71/EG Art. 3 Abs. 3 und 4; DesignG § 1 Nr. 4, § 4 Dem Gerichtshof der Europäischen Union werden zur Auslegung von Art. 3 Abs. 3 und 4 der Richtlinie 98/71/EG des Europäischen Parlaments und des Rates vom 13. Oktober 1998 über den rechtlichen Schutz von Mustern und Modellen (ABl. EG L 289 vom 28. Oktober 1998, S. 28) folgende Fragen zur Vorabentscheidung vorgelegt: 1. Ist ein Bauelement, das ein Muster verkörpert, bereits dann \"sichtbar\" im Sinne von Art. 3 Abs. 3 der Richtlinie 98/71/EG, wenn es objektiv möglich ist, das Design in eingebautem Zustand des Bauelements erkennen zu können, oder kommt es auf die Sichtbarkeit unter bestimmten Nutzungsbedingungen oder aus einer bestimmten Betrachterperspektive an? 2. Wenn Frage 1 dahin zu beantworten ist, dass die Sichtbarkeit unter bestimmten Nutzungsbedingungen oder aus einer bestimmten Betrachterperspektive maßgeblich ist: a) Kommt es für die Beurteilung der \"bestimmungsgemäßen Verwendung\" eines komplexen Erzeugnisses durch den Endbenutzer im Sinne von Art. 3 Abs. 3 und 4 der Richtlinie 98/71/EG auf den vom Hersteller des Bauelements oder des komplexen Erzeugnisses intendierten Verwendungszweck oder die übliche Verwendung des komplexen Erzeugnisses durch den Endbenutzer an? b) Nach welchen Kriterien ist zu beurteilen, ob die Verwendung eines komplexen Erzeugnisses durch den Endbenutzer \"bestimmungsgemäß\" im Sinne von Art. 3 Abs. 3 und 4 der Richtlinie 98/71/EG ist?",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZB__31-20.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"2": {
+"i": false,
+"m": 2
+},
+"33": {
+"i": false,
+"m": 3
+},
+"4": {
+"i": true,
+"m": 21
+},
+"1": {
+"i": true,
+"m": 9
+}
+}
+}
+},
+{
+"id": "4130b42d-0c7d-479b-b1b0-c5ba7230856a",
+"gericht": "BGH",
+"az": "I ZB 10/21",
+"ecli": "ECLI:DE:BGH:2021:230921BIZB10.21.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in dem Rechtsbeschwerdeverfahren",
+"name": "Heizkörperdesign",
+"gebiet": "design",
+"datum": "2021-09-23",
+"leitsatz": "a) Da das Bundespatentgericht im Beschwerdeverfahren daran gehindert ist, seine Entscheidung allein aufgrund des Zeitablaufs seit der Beschwerdeeinlegung zu treffen, wenn der Beschwerdeführer zugleich mit der Beschwerdeeinlegung eine Beschwerdebegründung angekündigt und mit einem weiteren Schriftsatz um Mitteilung gebeten hat, bis wann die Beschwerdebegründung eingereicht werden kann, und das Bundespatentgericht nach den Umständen dieser Bitte auch entsprechen will, darf in einem solchen Fall der Beschwerdeführer grundsätzlich davon ausgehen, dass er Gelegenheit haben wird, seine Beschwerde vor einer Entscheidung des Bundespatentgerichts zu begründen (Fortführung von BGH, GRUR-RR 2008, 457, 458 - Tramadol und BGH, GRUR 2013, 1276 Rn. 16 bis 18 - MetroLinien). b) Einseitige Gespräche zwischen einem Beteiligten und einem Mitglied des Gerichts bergen jedenfalls dann die Gefahr einer Verletzung des Anspruchs des anderen Beteiligten auf Gewährung rechtlichen Gehörs, auf ein faires Verfahren und auf Beachtung des Grundsatzes der prozessualen Waffengleichheit, wenn nicht alle Verfahrensbeteiligte von dem Gesprächsinhalt unterrichtet werden (im Anschluss an BGH, GRUR 2012, 89 Rn. 17 - Stahlschluessel und BGH, GRUR 2013, 1276 Rn. 23 - MetroLinien). ECLI:DE:BGH:2021:230921BIZB10.21.0",
+"normen_text": "DesignG § 23 Abs. 5 Satz 2; PatG § 100 Abs. 3 Nr. 3; MarkenG § 83 Abs. 3 Nr. 3; GG Art. 103 Abs. 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZB__10-21.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"83": {
+"i": true,
+"m": 3
+},
+"78": {
+"i": false,
+"m": 2
+}
+},
+"designg": {
+"6": {
+"i": false,
+"m": 2
+},
+"23": {
+"i": true,
+"m": 7
+}
+}
+}
+},
+{
+"id": "3ee31d3e-15b7-4943-9aec-b102db59223e",
+"gericht": "BGH",
+"az": "I ZR 1/19",
+"ecli": "ECLI:DE:BGH:2022:100322UIZR1.19.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Front kit II",
+"gebiet": "design",
+"datum": "2022-03-10",
+"leitsatz": "Verordnung (EG) Nr. 6/2002 Art. 3 Buchst. c, Art. 4 Abs. 2 Buchst. b, Art. 6 Abs. 1, Art. 11 Abs. 1 und 2 Satz 1 a) Durch die Veröffentlichung der Fotografie eines Fahrzeugs wird ein Gemeinschaftsgeschmacksmuster an einem Bauelement des Fahrzeugs als komplexem Erzeugnis im Sinne von Art. 3 Buchst. c und Art. 4 Abs. 2 GGV der Öffentlichkeit gemäß Art. 11 GGV zugänglich gemacht, sofern die Erscheinungsform dieses Bauelements eindeutig erkennbar ist (Anschluss an EuGH, Urteil vom 28. Oktober 2021 - C-123/20, GRUR 2021, 1523 [juris Rn. 52] = WRP 2022, 42 - Ferrari). b) Die Erscheinungsform des Bauelements hat Eigenart im Sinne von Art. 6 Abs. 1 GGV, wenn es einen sichtbaren Teilbereich des Fahrzeugs darstellt, der durch Linien, Konturen, Farben, die Gestalt oder eine besondere Oberflächenstruktur klar abgegrenzt ist. Dies setzt voraus, dass die Erscheinungsform des Bauelements geeignet sein muss, selbst einen \"Gesamteindruck\" hervorzurufen, und nicht vollständig in dem Gesamterzeugnis untergeht (Anschluss an EuGH, Urteil vom 28. Oktober 2021 - C-123/20, GRUR 2021, 1523 [juris Rn. 50] = WRP 2022, 42 - Ferrari). Auf die Merkmale einer gewissen Eigenständigkeit und Geschlossenheit der Form kommt es nicht an.",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2019/I_ZR___1-19A.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"4": {
+"i": true,
+"m": 6
+}
+}
+}
+},
+{
+"id": "57faf263-82fb-4817-8f3f-0ae50fa31ae5",
+"gericht": "BGH",
+"az": "I ZR 16/21",
+"ecli": "ECLI:DE:BGH:2022:240322UIZR16.21.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Schneidebrett",
+"gebiet": "design",
+"datum": "2022-03-24",
+"leitsatz": "a) Die Auslegung eines Designs kann zu dem Ergebnis führen, dass Abweichungen der Wiedergaben bei der Bestimmung des Schutzgegenstands außer Betracht bleiben müssen und der Schutzgegenstand gleichsam aus der Schnittmenge der allen Darstellungen gemeinsamen Merkmale besteht (Bestätigung von BGH, Urteil vom 8. März 2012 - I ZR 124/10, GRUR 2012, 1139 [juris Rn. 31] = WRP 2012, 1540 - Weinkaraffe; Beschluss vom 20. Dezember 2018 - I ZB 25/18, BGHZ 220, 344 [juris Rn. 17] - Sporthelm; Beschluss vom 20. Dezember 2018 I ZB 26/18, GRUR 2019, 835 [juris Rn. 31] = WRP 2019, 1032 - Sportbrille). Das gilt auch dann, wenn eine Darstellung Elemente enthält, die auf den anderen Darstellungen nicht zu sehen sind, so dass das in den anderen Darstellungen zu sehende Erzeugnis vollständig in der einen Darstellung enthalten ist. b) Die Auslegung eines Designs kann ergeben, dass sich der Schutzgegenstand aus mehreren Gegenständen zusammensetzt, die nach der Verkehrsauffassung ein einheitliches Erzeugnis - ein sogenanntes Kombinationserzeugnis - bilden. Dies liegt insbesondere dann nahe, wenn die abgebildeten Einzelgegenstände ästhetisch aufeinander abgestimmt sind und miteinander in einem funktionalen Zusammenhang stehen (Bestätigung von BGH, GRUR 2012, 1139 [juris Rn. 32] - Weinkaraffe). Die Auslegung kann auch lediglich aufgrund einer dieser Eigenschaften - gegebenenfalls unter Einbeziehung weiterer Umstände - zur Annahme eines Kombinationserzeugnisses führen. Maßgeblich ist, welchen Schutzgeg",
+"normen_text": "DesignG § 1 Nr. 1, § 33 Abs. 1 Nr. 1, § 37 Abs. 1",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR__16-21.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"7": {
+"i": false,
+"m": 2
+},
+"11": {
+"i": false,
+"m": 5
+},
+"37": {
+"i": true,
+"m": 10
+},
+"1": {
+"i": true,
+"m": 4
+},
+"33": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "4f547ab1-2a0f-4057-a73d-18e891f535b0",
+"gericht": "BPatG",
+"az": "30 W (pat) 802/19",
+"ecli": "ECLI:DE:BPatG:2022:081222B30Wpat802.19.0",
+"senat": "30. Senat",
+"senat_typ": "Marken- und Design-Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Nichtigkeitsbeschwerde",
+"sache": "In der Designnichtigkeitssache betreffend das Design",
+"name": "",
+"gebiet": "design",
+"datum": "2022-12-08",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2022/30802-19_19082022.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "47c65d4a-17a2-4121-91fd-e341f4a1bbb4",
+"gericht": "BGH",
+"az": "I ZR 167/21",
+"ecli": "ECLI:DE:BGH:2023:090323UIZR167.21.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Tellerschleifgerät",
+"gebiet": "design",
+"datum": "2023-03-09",
+"leitsatz": "Verordnung (EG) Nr. 6/2002 Art. 8 Abs. 1 Die gemäß Art. 8 Abs. 1 der Verordnung (EG) 6/2002 über das Gemeinschaftsgeschmacksmuster (GGV) erforderliche Prüfung, ob Erscheinungsmerkmale ausschließlich durch die technische Funktion des Erzeugnisses bedingt sind, ist für jedes den Gesamteindruck prägende Merkmal gesondert anhand aller für den Einzelfall maßgeblichen objektiven Umstände vorzunehmen (Bestätigung von EuGH, Urteil vom 8. März 2018 - C-395/16, GRUR 2018, 612 = WRP 2018, 546 - DOCERAM; Urteil vom 2. März 2023 - C-684/21, WRP 2023, 434 - Papierfabriek Doetinchem; BGH, Urteil vom 7. Oktober 2020 - I ZR 137/19, GRUR 2021, 473 = WRP 2021, 196 - Papierspender).",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2021/I_ZR_167-21.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"46": {
+"i": false,
+"m": 1
+},
+"42": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "06ebc596-46db-429b-bf40-05238f62ab3d",
+"gericht": "BGH",
+"az": "I ZB 31/20",
+"ecli": "ECLI:DE:BGH:2023:150623BIZB31.20.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in dem Rechtsbeschwerdeverfahren betreffend das Design Nr. 40 2011 004 383 - 0001",
+"name": "Sattelunterseite II",
+"gebiet": "design",
+"datum": "2023-06-15",
+"leitsatz": "Die Sichtbarkeit eines Bauelements (hier: Fahrradsattel) eines komplexen Erzeugnisses (hier: Fahrrad) bei seiner bestimmungsgemäßen Verwendung durch den Endbenutzer im Sinne von §§ 4, 1 Nr. 4 DesignG (Art. 3 Abs. 3 und 4 der Richtlinie 98/71/EG) ist aus der Sicht dieses Benutzers sowie der Sicht eines außenstehenden Beobachters zu beurteilen. Die bestimmungsgemäße Verwendung umfasst die Handlungen, die bei der hauptsächlichen Verwendung eines komplexen Erzeugnisses (hier: Benutzung als Fortbewegungsmittel) vorgenommen werden, sowie die Handlungen, die der Endbenutzer im Rahmen einer solchen Verwendung üblicherweise vorzunehmen hat (hier: Aufbewahrung und Transport), mit Ausnahme von Instandhaltung, Wartung und Reparatur (Anschluss an EuGH, Urteil vom 16. Februar 2023 - C-472/21, GRUR 2023, 482 = WRP 2023, 430 - Monz Handelsgesellschaft International).",
+"normen_text": "DesignG § 1 Nr. 4, § 4; Richtlinie 98/71/EG Art. 3 Abs. 3 und 4",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2020/I_ZB__31-20A.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"4": {
+"i": true,
+"m": 15
+},
+"2": {
+"i": false,
+"m": 1
+},
+"23": {
+"i": false,
+"m": 1
+},
+"39": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": true,
+"m": 9
+},
+"33": {
+"i": false,
+"m": 3
+}
+}
+}
+},
+{
+"id": "bfb37fd0-ed6b-4775-b510-c92deeba2161",
+"gericht": "BGH",
+"az": "I ZB 32/23",
+"ecli": "ECLI:DE:BGH:2023:091123BIZB32.23.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Rechtsbeschwerde",
+"sache": "in dem Rechtsbeschwerdeverfahren",
+"name": "",
+"gebiet": "design",
+"datum": "2023-11-09",
+"leitsatz": "a) Unter die Geschäftsgeheimnisstreitsachen im Sinn des § 16 Abs. 1 GeschGehG fallen auch selbständige Beweisverfahren. b) Soweit § 20 Abs. 5 Satz 4 GeschGehG die Anfechtbarkeit von Anordnungen nach § 16 Abs. 1 und § 19 Abs. 1 GeschGehG beschränkt, gilt dies nicht für in einem selbständigen Beweisverfahren ergangene Anordnungen. Insbesondere kann ein dem selbständigen Beweisverfahren eventuell nachfolgendes Klageverfahren nicht als Hauptsache im Sinn des § 20 Abs. 5 Satz 4 GeschGehG zu dem selbständigen Beweisverfahren angesehen werden.",
+"normen_text": "GeschGehG § 16 Abs. 1, § 20 Abs. 5 Satz 4",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2023/I_ZB__32-23.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"19a": {
+"i": false,
+"m": 5
+}
+},
+"urhg": {
+"101a": {
+"i": false,
+"m": 6
+}
+},
+"designg": {
+"46a": {
+"i": false,
+"m": 5
+}
+}
+}
+},
+{
+"id": "036ec72c-a21d-4d72-be92-7a014f2dda9e",
+"gericht": "BGH",
+"az": "I ZR 126/22",
+"ecli": "ECLI:DE:BGH:2023:071223UIZR126.22.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Glück",
+"gebiet": "design",
+"datum": "2023-12-07",
+"leitsatz": "a) Das Konzept, ein Emotionsschlagwort als Produktnamen zu verwenden, kann nicht als ein die wettbewerbliche Eigenart eines Produkts mitbestimmendes Element angesehen werden. Gegenstand des wettbewerbsrechtlichen Nachahmungsschutzes gemäß § 4 Nr. 3 UWG ist der Schutz von Waren und Dienstleistungen in ihrer konkreten Gestaltung, nicht die dahinterstehende abstrakte Idee. b) Auch wenn sich die Gestaltung der Verpackung von Produkten des täglichen Bedarfs deutlich vom Marktumfeld abhebt, ist nicht ausgeschlossen, dass sich der Verkehr auch an darauf angebrachten Produkt- und Herstellerangaben orientiert und deshalb eine Täuschung über die betriebliche Herkunft einer Produktnachahmung auszuschließen ist (Fortführung von BGH, Urteil vom 19. Oktober 2000 - I ZR 225/98, GRUR 2001, 443 = WRP 2001, 534 - Viennetta).",
+"normen_text": "UWG § 4 Nr. 3",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR_126-22.pdf?__blob=publicationFile",
+"zitate": {
+"uwg": {
+"4": {
+"i": true,
+"m": 13
+}
+}
+}
+},
+{
+"id": "591fd77d-3c5c-4cf8-b6f2-15168eb485df",
+"gericht": "BGH",
+"az": "I ZR 217/22",
+"ecli": "ECLI:DE:BGH:2024:220224UIZR217.22.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Versäumnisurteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "PIERRE CARDIN",
+"gebiet": "trademark",
+"datum": "2024-02-22",
+"leitsatz": "a) Die Vorschrift des § 19c Satz 1 MarkenG gewährt der obsiegenden Partei nicht nur bei Unterlassungsklagen, sondern auch bei Klagen auf Auskunftserteilung, Rechnungslegung und Schadensersatzfeststellung einen Anspruch auf Urteilsbekanntmachung. b) Der Begriff des \"berechtigten Interesses\" gemäß § 19c Satz 1 MarkenG ist unionsrechtskonform dahin auszulegen, dass die der obsiegenden Partei zu Gebote stehende Befugnis zur Urteilsbekanntmachung unter dem Vorbehalt der Verhältnismäßigkeit steht. c) In die Verhältnismäßigkeitsprüfung ist der Zeitablauf seit den markenrechtsverletzenden Handlungen einzustellen, weil Zweck der Urteilsbekanntmachung auch die Beseitigung fortwirkender Störungen ist. Daneben sind weitere Umstände zu berücksichtigen wie die durch den Vertrieb markenrechtsverletzender Ware verursachte Marktverwirrung, Art und Umfang der Verletzung, die öffentlichkeitswirksame Werbung für markenrechtsverletzende Produkte, die Art des Vertriebs, die Bekanntheit der Marke und der Grad des Verschuldens des Verletzers. d) Da die Veröffentlichung von in Verfahren wegen Verletzungen von Rechten des geistigen Eigentums ergangenen Gerichtsentscheidungen auch das Ziel hat, künftige Verletzer abzuschrecken und zur Sensibilisierung der breiten Öffentlichkeit beizutragen, sind im Rahmen einer unionsrechtskonformen Anwendung von § 19c MarkenG auch generalpräventive Aspekte in die Verhältnismäßigkeitsprüfung einzubeziehen.",
+"normen_text": "MarkenG § 19c",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR_217-22.pdf?__blob=publicationFile",
+"zitate": {
+"markeng": {
+"19": {
+"i": false,
+"m": 2
+},
+"149": {
+"i": false,
+"m": 1
+},
+"55": {
+"i": false,
+"m": 1
+},
+"14": {
+"i": false,
+"m": 1
+},
+"119": {
+"i": false,
+"m": 1
+},
+"19c": {
+"i": true,
+"m": 25
+}
+},
+"uwg": {
+"12": {
+"i": true,
+"m": 4
+},
+"2": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"47": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"103": {
+"i": true,
+"m": 3
+}
+}
+}
+},
+{
+"id": "d2e99554-2dd0-4504-8ed6-24752d37f829",
+"gericht": "BPatG",
+"az": "30 W (pat) 804/21",
+"ecli": "ECLI:DE:BPatG:2024:030424B30Wpat804.21.0",
+"senat": "30. Senat",
+"senat_typ": "Marken- und Design-Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Nichtigkeitsbeschwerde",
+"sache": "In der Designnichtigkeitssache betreffend das eingetragene Design 40 2010 000 959-0001 (verbundene Nichtigkeitsverfahren N 11/19 und N 2",
+"name": "Schalungsbrett",
+"gebiet": "design",
+"datum": "2024-04-03",
+"leitsatz": "Soll mit einem Einzeldesign ausweislich der Beschreibung ein Hell-Dunkel-Kontrast (hier: ein Nut- und Feder-Brett mit eingefärbter Feder) unter Schutz gestellt werden und zeigt die farbige Wiedergabe des Designs verschiedene Farbkontraste (hier: zwei Bretter mit unterschiedlich eingefärbter Feder) als gleichwertige Ausführungsformen, so ist es mangels einheitlichen Schutzgegenstandes nichtig (Fortführung von BGH, Beschluss v. 20.12.2018, I ZB 26/18, GRUR 2019, 835 – Sportbrille).",
+"normen_text": "DesingG § 1 Nr. 1",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2024/30804-21_09112023.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"4": {
+"i": true,
+"m": 3
+},
+"34a": {
+"i": false,
+"m": 3
+},
+"72": {
+"i": false,
+"m": 2
+},
+"3": {
+"i": false,
+"m": 1
+},
+"7": {
+"i": true,
+"m": 1
+},
+"11": {
+"i": false,
+"m": 5
+},
+"37": {
+"i": false,
+"m": 1
+},
+"33": {
+"i": true,
+"m": 8
+},
+"1": {
+"i": true,
+"m": 10
+},
+"2": {
+"i": true,
+"m": 6
+},
+"5": {
+"i": false,
+"m": 1
+},
+"23": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "4cbee9e5-2033-4488-a944-e41ad1ff4a9e",
+"gericht": "BPatG",
+"az": "30 W (pat) 701/22",
+"ecli": "ECLI:DE:BPatG:2024:130624B30Wpat701.22.0",
+"senat": "30. Senat",
+"senat_typ": "Marken- und Design-Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Beschwerde",
+"sache": "In der Beschwerdesache betreffend die Designanmeldung 40 2020 100 492.8",
+"name": "",
+"gebiet": "design",
+"datum": "2024-06-13",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2024/30701-22_13062024.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"7": {
+"i": true,
+"m": 3
+},
+"16": {
+"i": false,
+"m": 1
+},
+"23": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "b55b1fe8-f0c3-4ee7-b2e3-e8a7e6eecd7c",
+"gericht": "BGH",
+"az": "I ZR 122/22",
+"ecli": "ECLI:DE:BGH:2024:160824BIZR122.22.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Beschluss",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "",
+"gebiet": "design",
+"datum": "2024-08-16",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2022/I_ZR_122-22.pdf?__blob=publicationFile",
+"zitate": {}
+},
+{
+"id": "8c7fd1c0-9e11-444d-bd41-9caa63f0d053",
+"gericht": "BPatG",
+"az": "30 W (pat) 801/22",
+"ecli": "ECLI:DE:BPatG:2025:200225B30Wpat801.22.0",
+"senat": "30. Senat",
+"senat_typ": "Marken- und Design-Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Nichtigkeitsbeschwerde",
+"sache": "In der Beschwerdesache betreffend das Design 40 2020 200 567-0001 (hier: Nichtigkeitsverfahren N 57/20)",
+"name": "",
+"gebiet": "design",
+"datum": "2025-02-20",
+"leitsatz": "",
+"normen_text": "",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2025/30801-22_20022025.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"33": {
+"i": true,
+"m": 7
+},
+"52b": {
+"i": false,
+"m": 1
+},
+"3": {
+"i": false,
+"m": 1
+},
+"23": {
+"i": false,
+"m": 1
+},
+"34a": {
+"i": false,
+"m": 1
+},
+"2": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "b0258cf5-c527-403d-a190-e719f79867ec",
+"gericht": "BGH",
+"az": "I ZR 127/24",
+"ecli": "ECLI:DE:BGH:2025:310725UIZR127.24.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Griffleiste",
+"gebiet": "design",
+"datum": "2025-07-31",
+"leitsatz": "a) Bei einem gegen den Insolvenzschuldner gerichteten gesetzlichen Unterlassungsanspruch wegen Verletzung eines gewerblichen Schutzrechts des Klägers oder wegen eines Wettbewerbsverstoßes kann der durch Insolvenzeröffnung unterbrochene Rechtsstreit auch dann in analoger Anwendung des § 86 Abs. 1 Nr. 3 InsO aufgenommen werden, wenn das Insolvenzgericht keinen Insolvenzverwalter bestellt, sondern Eigenverwaltung angeordnet hat (Fortführung von",
+"normen_text": "ZPO §§ 240, 250; InsO § 86 Abs. 1 Nr. 3, § 180 Abs. 2, § 270",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR_127-24.pdf?__blob=publicationFile",
+"zitate": {
+"urhg": {
+"95a": {
+"i": false,
+"m": 1
+}
+},
+"designg": {
+"43": {
+"i": false,
+"m": 1
+},
+"42": {
+"i": false,
+"m": 1
+},
+"46": {
+"i": false,
+"m": 2
+}
+}
+}
+},
+{
+"id": "e2a3bbfa-1a76-4882-9147-559119359b55",
+"gericht": "BPatG",
+"az": "30 W (pat) 801/23",
+"ecli": "ECLI:DE:BPatG:2025:040825B30Wpat801.23.0",
+"senat": "30. Senat",
+"senat_typ": "Marken- und Design-Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Nichtigkeitsbeschwerde",
+"sache": "In der Designnichtigkeitssache betreffend das Design 40 2017 100 140-0001 (hier: Nichtigkeitsverfahren N 14/21)",
+"name": "Violette Trittleiter",
+"gebiet": "design",
+"datum": "2025-08-04",
+"leitsatz": "Eine besondere Farbgestaltung kann im Einzelfall genügen, um die Eigenart eines Designs iSv § 2 Abs. 3 DesignG zu begründen, wofür es allerdings besonderer Umstände bedarf. Dafür kann beispielsweise sprechen, dass die Farbgestaltung ungewöhnlich oder besonders auf Erfordernisse abgestimmt ist. Liegen solche besonderen Umstände jedoch nicht vor, ist die Eigenart regelmäßig zu verneinen, wenn sich ein Design mit prägenden Formmerkmalen von einem vorbekannten Muster nur in der Farbgebung unterscheidet (Ergänzung zu BPatG, Beschluss vom 18.2.2021, 30 W (pat) 806/18, GRUR-RS 2021, 19134 - pinke Radkappe).",
+"normen_text": "§ 2 Abs. 3 DesignG",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2025/30801-23_04082025.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"4": {
+"i": false,
+"m": 1
+},
+"21": {
+"i": false,
+"m": 1
+},
+"1": {
+"i": false,
+"m": 1
+},
+"33": {
+"i": true,
+"m": 5
+},
+"34a": {
+"i": false,
+"m": 2
+},
+"2": {
+"i": true,
+"m": 18
+},
+"23": {
+"i": true,
+"m": 6
+},
+"3": {
+"i": true,
+"m": 5
+}
+},
+"markeng": {
+"3": {
+"i": true,
+"m": 1
+}
+}
+}
+},
+{
+"id": "17ffe2bb-677e-453a-a619-df22888f5226",
+"gericht": "BGH",
+"az": "I ZR 116/24",
+"ecli": "ECLI:DE:BGH:2025:091025UIZR116.24.0",
+"senat": "I. Zivilsenat",
+"senat_typ": "I. Zivilsenat",
+"typ": "Urteil",
+"verfahren": "Revision/Berufung",
+"sache": "in dem Rechtsstreit",
+"name": "Schlüsselgehäuse",
+"gebiet": "design",
+"datum": "2025-10-09",
+"leitsatz": "Verordnung (EG) Nr. 6/2002 Art. 110 Abs. 1 (in der Fassung bis 30. April 2025), Art. 20a (in der Fassung ab 1. Mai 2025) a) Die Reparaturklausel gemäß Art. 110 Abs. 1 der Verordnung (EG) Nr. 6/2002 in der Fassung bis 30. April 2025 (Gemeinschaftsgeschmacksmusterverordnung, GGV) erstreckt sich auch auf formungebundene Bauelemente eines komplexen Erzeugnisses (Bestätigung von EuGH, Urteil vom 20. Dezember 2017 - C-397/16 und C-435/16, GRUR 2018, 284 [juris Rn. 30 und 54] = WRP 2018, 308 - Acacia und D'Amato). b) Die Reparaturklausel gemäß Art. 110 Abs. 1 GGV ist auch dann grundsätzlich anwendbar, wenn alle geschmacksmusterrechtlich schutzfähigen Erscheinungsmerkmale des in Rede stehenden komplexen Erzeugnisses sich in einem einzigen zur Reparatur angebotenen Bauelement befinden. Einer Aushöhlung des Geschmacksmusterschutzes wird durch die Sorgfaltspflichten hinreichend vorgebeugt, die nach der Rechtsprechung des Gerichtshofs der Europäischen Union mit einer Berufung auf die genannte Reparaturklausel einhergehen (vgl. EuGH, GRUR 2018, 284 [juris Rn. 85 bis 88] - Acacia und D'Amato). c) Die Reparaturklausel gemäß Art. 20a der Verordnung (EG) Nr. 6/2002 in der Fassung ab 1. Mai 2025 (Unionsgeschmacksmusterverordnung, UGV) ist auf formgebundene Bauelemente eines komplexen Erzeugnisses anwendbar. d) Die durch eine Zuwiderhandlung gegen ein Verbot begründete Wiederholungsgefahr entfällt bei einer Rechtsänderung, wenn das neue Recht zu einer wesentlichen qualitativen Änderung des Verb",
+"normen_text": "",
+"url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/I_ZS/2024/I_ZR_116-24.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"42": {
+"i": false,
+"m": 2
+},
+"43": {
+"i": true,
+"m": 7
+},
+"1": {
+"i": false,
+"m": 1
+},
+"46": {
+"i": false,
+"m": 1
+},
+"4": {
+"i": false,
+"m": 1
+},
+"62a": {
+"i": true,
+"m": 4
+}
+},
+"markeng": {
+"14": {
+"i": false,
+"m": 1
+}
+},
+"urhg": {
+"98": {
+"i": false,
+"m": 1
+}
+}
+}
+},
+{
+"id": "f3cdf15d-d1dd-41da-b4a0-3c606f7f3f4c",
+"gericht": "BPatG",
+"az": "30 W (pat) 802/23",
+"ecli": "ECLI:DE:BPatG:2026:260326B30wpat802.23.0",
+"senat": "30. Senat",
+"senat_typ": "Marken- und Design-Beschwerdesenat",
+"typ": "Beschluss",
+"verfahren": "Nichtigkeitsbeschwerde",
+"sache": "In der Designnichtigkeitssache betreffend das Design 40 2011 004 383 – 0001 (hier: Nichtigkeitsverfahren N 45/16)",
+"name": "Sattelunterseite II",
+"gebiet": "design",
+"datum": "2026-03-26",
+"leitsatz": "Der Schutzausschluss nach § 4 DesignG ist bei Bauelementen, die (wie hier: ein Sattel für „Fahrräder“ oder „Motorräder“) mehreren komplexen Erzeugnissen zugeordnet werden können, nur dann anzuwenden, wenn das Bauelement in allen Fällen bestimmungsgemäßer Verwendung nicht sichtbar bleibt. Bleiben die Merkmale des Bauelements, die die Voraussetzungen der Neuheit und Eigenart erfüllen, dagegen zumindest bei einer bestimmungsgemäßen Verwendung eines komplexen Erzeugnisses sichtbar, ist Designschutz zu bejahen.",
+"normen_text": "§ 33 Abs. 1 Nr. 2 DesignG; § 2 DesignG, § 4 DesignG; § 1 Nr. 4 DesignG",
+"url": "https://www.bundespatentgericht.de/SharedDocs/Entscheidungen/DE/2026/30802_23-26032026.pdf?__blob=publicationFile",
+"zitate": {
+"designg": {
+"4": {
+"i": true,
+"m": 38
+},
+"23": {
+"i": false,
+"m": 2
+},
+"33": {
+"i": true,
+"m": 5
+},
+"2": {
+"i": true,
+"m": 14
+},
+"37": {
+"i": false,
+"m": 1
+},
+"11": {
+"i": false,
+"m": 2
+},
+"1": {
+"i": true,
+"m": 5
+},
+"39": {
+"i": true,
+"m": 5
+},
+"3": {
+"i": true,
+"m": 5
+},
+"34a": {
+"i": false,
+"m": 1
+}
+}
+}
+}
+]
+}

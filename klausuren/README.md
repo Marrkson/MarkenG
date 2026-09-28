@@ -68,7 +68,7 @@ Quelle: dieselbe Seite von kandidatentreff.de. Die PDFs (Aufgaben `PAP-<Jahr>-<T
 `ts/txt/`; beide sind nicht versioniert, die URLs stehen in `ts/urls.txt`. Stand des Downloads: 24. September 2026.
 
 Daraus entstand der Kurs **„Klausurtraining TS“** (`src/knowledge/kurse/p01_klausurtraining_ts.py`, Rechtsgebiet
-`patg`) mit 61 Einheiten in neun Kapiteln (Aufbau, Anmeldung, Priorität/Teilung/Abzweigung, Neuheit und Vorbenutzung,
+`verfahren`, neben dem NS-Training) mit 61 Einheiten in neun Kapiteln (Aufbau, Anmeldung, Priorität/Teilung/Abzweigung, Neuheit und Vorbenutzung,
 Einspruch Zulässigkeit, Einspruch Widerrufsgründe, Nichtigkeitsklage, Beschwerde und Wiedereinsetzung, Verletzung und
 Entnahme). Die Einheiten verweisen auf die Begriffe, Schemata, Abgrenzungen und Leitentscheidungen des Patentpakets
 (`src/knowledge/patent/`).

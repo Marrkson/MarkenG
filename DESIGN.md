@@ -163,9 +163,11 @@ Größen: 24 (Tabbar, Buttons), 20 (Listen, Boxen), 16 (Chips, Pills).
 
 ## 8a. Mobile Struktur (Vorlage: Versicherungs-App, abgestimmt 10.09.2026)
 
-Reihenfolge Startseite: Hero → überlappende Weiter-Karte → Schnellzugriff → Kurs-Karussell mit „Alle
-anzeigen“ → Zuletzt gelernt → Kennzahlen. Route `#/kurse` zeigt alle Kurse als Liste oder Raster mit
-Umschalter in der Kopfzeile. Kursdetail wie eine Ortskarte: Bild, Kategorie, Titel, Metazeilen,
+Reihenfolge Startseite: Hero → überlappende Weiter-Karte → Schnellzugriff → Gebiets-Karussell mit „Alle
+anzeigen“ → Zuletzt gelernt → Kennzahlen. Das Karussell zeigt die fünf Rechtsgebiete (`.kcard` in
+Gebietsfarbe), nicht einzelne Kurse. Route `#/kurse` ist die Gebietsauswahl (fünf `.lcard`), `#/kurse/<gebiet>`
+zeigt die Kurse dieses Gebiets als Liste oder Raster mit Umschalter in der Kopfzeile; Zurück aus dem Kurs
+führt in sein Gebiet. Kursdetail wie eine Ortskarte: Bild, Kategorie, Titel, Metazeilen,
 Aktionszeile. Angewandte Regeln: Primäraktionen in der Daumenzone (Fußzeile der Karte, Aktionszeile,
 Tableiste), 3–5 Tabs mit Label, `touch-action: manipulation` und ohne Tap-Highlight, sichtbare
 `:active`-Skalierung, horizontale Reihen nur mit angeschnittener Folgekarte als Hinweis, sticky

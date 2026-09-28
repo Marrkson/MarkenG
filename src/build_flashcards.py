@@ -172,9 +172,9 @@ def generate(graph):
         if n.get("hinweis"):
             back += "\n\nHinweis: " + n["hinweis"]
         if n.get("zitiert"):
-            back += f"\n\nIn {n['zitiert']} Entscheidungen {'des BPatG und des BGH' if n.get('korpus') == 'patent' else 'des EPG'} zitiert."
+            back += f"\n\nIn {n['zitiert']} Entscheidungen {'des BPatG und des BGH' if n.get('korpus') in ('patent', 'design') else 'des EPG'} zitiert."
         if upc:
-            add("eunorm", f"Was regelt {n['label']}" + (f" ({n['titel']})" if n.get("titel") else "") + "?", back, ["Patentrecht" if n.get("korpus") == "patent" else "EPG", n.get("kurz", "")], n["id"])
+            add("eunorm", f"Was regelt {n['label']}" + (f" ({n['titel']})" if n.get("titel") else "") + "?", back, ["Patentrecht" if n.get("korpus") == "patent" else "Designrecht" if n.get("korpus") == "design" or n.get("rl") in ("designrl", "designrl2024", "ggv") else "EPG", n.get("kurz", "")], n["id"])
         else:
             add("eunorm", f"Was regelt {n['label']} und welche Vorschrift des MarkenG setzt ihn um?", back, ["Richtlinie", "EU", n.get("kurz", "")], n["id"])
     return cards

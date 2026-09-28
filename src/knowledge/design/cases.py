@@ -1,0 +1,176 @@
+# -*- coding: utf-8 -*-
+"""Leitentscheidungen zum Designrecht: BGH (I. Zivilsenat), BPatG (30. Senat), EuGH und EuG.
+
+BGH- und BPatG-Entscheidungen werden beim Import gegen den Korpus data/design_decisions.json geprüft (Aktenzeichen und Datum
+müssen dort vorkommen; URL und ECLI kommen aus der Datenbank). EuGH- und EuG-Entscheidungen stehen nicht in der Datenbank;
+Aktenzeichen und Daten wurden per Websuche (dejure.org, curia.europa.eu) verifiziert und erhalten die dejure-Vernetzungs-URL.
+`kern` fasst den Rechtssatz in eigenen Worten zusammen. Zitierweise in `norms`: `§ 2 Abs. 3 DesignG`, `Art. 6 GGV`, `Art. 3 DesignRL`.
+"""
+from . import entscheidungen as _k
+
+
+def e(id, name, court, date, az, kern, norms=(), concepts=(), tags=(), fundstelle=""):
+    rec = _k.by_az(az, date)
+    if rec is None:
+        raise ValueError(f"Entscheidung {az} vom {date} ({name}) nicht im Korpus data/design_decisions.json")
+    fund = fundstelle or (f"{court}, {rec['typ']} vom {date[8:]}.{date[5:7]}.{date[:4]} – {az}" + (f" – {rec['name']}" if rec.get("name") and rec["name"] != name else ""))
+    return dict(id=id, name=name, court=court, date=date, az=az, fundstelle=fund, ecli=rec.get("ecli", ""),
+                norms=list(norms), concepts=list(concepts), kern=kern, tags=list(tags), url=rec["url"])
+
+
+def eu(id, name, court, date, az, fundstelle, kern, norms=(), concepts=(), tags=()):
+    return dict(id=id, name=name, court=court, date=date, az=az, fundstelle=fundstelle, norms=list(norms), concepts=list(concepts), kern=kern, tags=list(tags))
+
+
+BGH, BPATG, EUGH, EUG = "BGH", "BPatG", "EuGH", "EuG"
+
+CASES = [
+    # ------------------------------------------------------------------ Schutzvoraussetzungen: Neuheit, Eigenart, informierter Benutzer
+    eu("des_eugh_pepsico", "PepsiCo/Grupo Promer (Tazos)", EUGH, "2011-10-20", "C-281/10 P", "GRUR 2012, 506",
+       "Der informierte Benutzer steht zwischen dem Durchschnittsverbraucher und dem Fachmann: Er kennt verschiedene Muster des Sektors, weiß, welche Elemente sie üblicherweise aufweisen, und benutzt die Erzeugnisse mit vergleichsweise großer Aufmerksamkeit. Der Gesamteindruck ist nach Möglichkeit durch direkten Vergleich der Muster zu ermitteln; ein Vergleich aus der Erinnerung ist nur zulässig, wo der direkte Vergleich nicht praktikabel ist. Eine geringe Gestaltungsfreiheit führt dazu, dass schon kleine Unterschiede einen anderen Gesamteindruck erzeugen.",
+       norms=["Art. 6 GGV", "Art. 10 GGV", "Art. 25 GGV"], concepts=["des_informierter_benutzer", "des_eigenart", "des_gestaltungsfreiheit", "des_gesamteindruck"], tags=["Eigenart", "Informierter Benutzer", "Unionsgeschmacksmuster"]),
+    eu("des_eugh_karen_millen", "Karen Millen Fashions/Dunnes Stores", EUGH, "2014-06-19", "C-345/13", "GRUR 2014, 774",
+       "Die Eigenart ist durch Vergleich mit einem oder mehreren einzelnen, konkret bestimmten älteren Mustern zu prüfen, nicht mit einer Kombination isolierter Merkmale aus mehreren älteren Mustern. Wer Rechte aus einem nicht eingetragenen Gemeinschaftsgeschmacksmuster geltend macht, muss die Eigenart nicht beweisen, sondern nur angeben, worin sie besteht (Art. 85 Abs. 2 GGV); die Vermutung der Rechtsgültigkeit greift dann.",
+       norms=["Art. 6 GGV", "Art. 85 GGV", "Art. 11 GGV"], concepts=["des_eigenart", "des_formenschatz", "des_ggm_nicht_eingetragen", "des_vermutung_rechtsgueltigkeit"], tags=["Eigenart", "Nicht eingetragenes Muster", "Beweislast"]),
+    eu("des_eugh_easy_sanitary", "Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss)", EUGH, "2017-09-21", "C-361/15 P, C-405/15 P", "GRUR 2018, 74",
+       "Neuheit und Eigenart sind gegenüber jedem offenbarten älteren Muster zu prüfen, gleich für welches Erzeugnis es bestimmt ist; ein Muster ist nicht deshalb neu, weil es für eine andere Erzeugnisart verwendet wird als das ältere. Der informierte Benutzer muss das ältere Muster nicht tatsächlich kennen. Das Amt darf ältere Muster aber nicht aus mehreren Abbildungen zusammensetzen: Der Vergleich erfolgt mit dem älteren Muster, wie es offenbart wurde.",
+       norms=["Art. 5 GGV", "Art. 6 GGV", "Art. 7 GGV"], concepts=["des_neuheit", "des_eigenart", "des_offenbarung", "des_informierter_benutzer"], tags=["Neuheit", "Eigenart", "Erzeugnisart"]),
+    e("des_bgh_verlaengerte_limousinen", "Verlängerte Limousinen", BGH, "2010-04-22", "I ZR 89/08",
+      "Eigenart bedeutet Unterschiedlichkeit, ermittelt im Einzelvergleich mit jedem vorbekannten Muster; Eigentümlichkeit und Gestaltungshöhe des alten Rechts sind keine Voraussetzungen mehr. Die bloße Anmeldung eines Gemeinschaftsgeschmacksmusters macht es noch nicht der Öffentlichkeit zugänglich; erst die Bekanntmachung oder sonstige Offenbarung zählt zum Formenschatz.",
+      norms=["Art. 6 GGV", "Art. 7 GGV", "Art. 10 GGV", "§ 2 Abs. 3 DesignG"], concepts=["des_eigenart", "des_offenbarung", "des_formenschatz"], tags=["Eigenart", "Offenbarung"]),
+    e("des_bgh_untersetzer", "Untersetzer", BGH, "2010-05-19", "I ZR 71/08",
+      "Der Schutzumfang richtet sich nach dem Abstand des Musters zum vorbekannten Formenschatz: Je größer die Musterdichte und je geringer die Gestaltungsfreiheit, desto enger der Schutz; ein deutlicher Abstand verschafft einen weiten Schutzbereich. Worauf die Eigenart im Einzelnen beruht, ist für den Schutzumfang unerheblich. Maßgeblicher Zeitpunkt für den Gestaltungsspielraum ist die Anmeldung des Klagemusters.",
+      norms=["Art. 6 GGV", "Art. 10 GGV", "§ 38 Abs. 2 DesignG"], concepts=["des_schutzumfang", "des_gestaltungsfreiheit", "des_formenschatz", "des_eigenart"], tags=["Schutzumfang", "Formenschatz", "Gestaltungsfreiheit"]),
+    e("des_bgh_kinderwagen_ii", "Kinderwagen II", BGH, "2012-07-12", "I ZR 102/11",
+      "Der Schutzumfang wird durch die Musterdichte bei den fraglichen Erzeugnissen und durch die Ausnutzung des Gestaltungsspielraums bestimmt. Technisch bedingte Übereinstimmungen misst der informierte Benutzer für den Gesamteindruck gering bei; daraus folgt aber nicht, dass er Unterschiede in solchen Merkmalen ebenso gering gewichtet. Wer unionsweit aus dem Gemeinschaftsgeschmacksmuster und hilfsweise aus dem UWG klagt, verfolgt die Ansprüche in dieser Rangfolge.",
+      norms=["Art. 10 GGV", "Art. 89 GGV", "§ 38 Abs. 2 DesignG"], concepts=["des_schutzumfang", "des_gesamteindruck", "des_formenschatz", "des_technisch_bedingt"], tags=["Schutzumfang", "Gesamteindruck"]),
+    e("des_bgh_meda_gate", "Meda Gate", BGH, "2019-01-24", "I ZR 164/17",
+      "Der Abstand des Klagemusters zum vorbekannten Formenschatz ist anhand des Gesamteindrucks der einander gegenüberstehenden Muster zu bestimmen; eine mosaikartige Gesamtschau einzelner Elemente aus verschiedenen Entgegenhaltungen ist unzulässig. Die bloße Abbildung von Entgegenhaltungen im Urteil ersetzt keine Feststellungen zu deren Gesamteindruck.",
+      norms=["Art. 10 GGV", "Art. 6 GGV"], concepts=["des_formenschatz", "des_gesamteindruck", "des_schutzumfang"], tags=["Formenschatz", "Gesamteindruck"]),
+    e("des_bgh_ballerinaschuh", "Ballerinaschuh", BGH, "2018-01-11", "I ZR 187/16",
+      "Über das Internet dem allgemeinen Publikum angebotene Modelle gehören zum vorbekannten Formenschatz, den der informierte Benutzer kennen kann. Umstände, die den Schutzumfang schmälern, muss nicht der Kläger offenbaren; der Beklagte hat sie vorzutragen. Wer nach unberechtigter Schutzrechtsverwarnung den Vertrieb einstellt, kann Schadensersatz aus dem Eingriff in den Gewerbebetrieb verlangen.",
+      norms=["Art. 10 GGV", "Art. 7 GGV"], concepts=["des_formenschatz", "des_offenbarung", "des_schutzumfang"], tags=["Formenschatz", "Darlegungslast", "Schutzrechtsverwarnung"]),
+    e("des_bgh_armbanduhr", "Armbanduhr", BGH, "2016-01-28", "I ZR 40/14",
+      "Für den Gesamteindruck nach § 38 Abs. 2 DesignG kommt es darauf an, wie der informierte Benutzer das Erzeugnis bei bestimmungsgemäßer Verwendung wahrnimmt (bei einer Armbanduhr also am Handgelenk, nicht die Rückseite); zusätzlich kann der Eindruck bei Präsentation in Werbung und Verkauf zählen.",
+      norms=["§ 38 Abs. 2 DesignG", "§ 1 DesignG"], concepts=["des_gesamteindruck", "des_informierter_benutzer", "des_schutzumfang"], tags=["Gesamteindruck", "Bestimmungsgemäße Verwendung"]),
+    e("des_bpatg_violette_trittleiter", "Violette Trittleiter", BPATG, "2025-08-04", "30 W (pat) 801/23",
+      "Eine Farbgestaltung kann die Eigenart nur ausnahmsweise begründen, etwa wenn sie ungewöhnlich oder besonders auf Erfordernisse abgestimmt ist. Unterscheidet sich ein Design mit prägenden Formmerkmalen von einem vorbekannten Muster nur in der Farbe, fehlt regelmäßig die Eigenart.",
+      norms=["§ 2 Abs. 3 DesignG", "§ 33 Abs. 1 DesignG"], concepts=["des_eigenart", "des_nichtigkeitsverfahren_dpma"], tags=["Eigenart", "Farbe", "Nichtigkeitsverfahren"]),
+    # ------------------------------------------------------------------ Offenbarung, Neuheitsschonfrist, nicht eingetragenes Muster
+    eu("des_eugh_gautzsch", "Gautzsch Großhandel/MBM Joseph Duna (Gartenpavillon)", EUGH, "2014-02-13", "C-479/12", "GRUR 2014, 368",
+       "Ein Muster kann den Fachkreisen der Union auch dann bekannt sein, wenn Abbildungen nur an Händler verteilt oder das Muster nur einem Unternehmen außerhalb der Union offenbart wurde; ob das im normalen Geschäftsverlauf bekannt sein konnte, ist Tatfrage. Beim nicht eingetragenen Gemeinschaftsgeschmacksmuster trägt der Rechtsinhaber die Beweislast für die Nachahmung; Verjährung und Verwirkung der Ansprüche richten sich nach nationalem Recht.",
+       norms=["Art. 7 GGV", "Art. 11 GGV", "Art. 19 GGV", "Art. 88 GGV", "Art. 89 GGV"], concepts=["des_offenbarung", "des_ggm_nicht_eingetragen", "des_ggm_anwendbares_recht"], tags=["Offenbarung", "Fachkreise", "Nicht eingetragenes Muster"]),
+    e("des_bgh_bolerojaeckchen", "Bolerojäckchen", BGH, "2012-12-13", "I ZR 23/12",
+      "Wer Rechte aus einem nicht eingetragenen Gemeinschaftsgeschmacksmuster ableitet, muss darlegen und beweisen, dass er Inhaber nach Art. 14 GGV ist (Entwerfer, Rechtsnachfolger oder Arbeitgeber). Eine Vermutung der Inhaberschaft zugunsten desjenigen, der das Muster erstmals in der Union offenbart hat, gibt es nicht.",
+      norms=["Art. 11 GGV", "Art. 14 GGV", "Art. 85 GGV"], concepts=["des_ggm_nicht_eingetragen", "des_entwerfer_recht", "des_vermutung_rechtsgueltigkeit"], tags=["Nicht eingetragenes Muster", "Inhaberschaft", "Beweislast"]),
+    eu("des_eugh_ferrari", "Ferrari/Mansory Design (Front kit)", EUGH, "2021-10-28", "C-123/20", "GRUR 2021, 1523",
+       "Die Veröffentlichung von Abbildungen eines Gesamterzeugnisses (Fahrzeug) kann zugleich ein Muster an einem Teil oder Bauelement dieses Erzeugnisses offenbaren und so ein nicht eingetragenes Gemeinschaftsgeschmacksmuster daran entstehen lassen, sofern die Erscheinungsform des Teils in der Abbildung eindeutig erkennbar ist. Der Teil muss durch Linien, Konturen, Farben, Gestalt oder Oberfläche als abgegrenzter Teilbereich erkennbar sein.",
+       norms=["Art. 11 GGV", "Art. 4 GGV", "Art. 6 GGV", "Art. 3 GGV"], concepts=["des_ggm_nicht_eingetragen", "des_offenbarung", "des_design_begriff"], tags=["Nicht eingetragenes Muster", "Teildesign", "Offenbarung"]),
+    e("des_bgh_front_kit_ii", "Front kit II", BGH, "2022-03-10", "I ZR 1/19",
+      "Nach der Vorabentscheidung des EuGH: Die Fotografie eines Fahrzeugs offenbart ein Gemeinschaftsgeschmacksmuster an einem Bauelement, wenn dessen Erscheinungsform eindeutig erkennbar ist; Eigenart hat das Bauelement, wenn es einen sichtbaren, durch Linien, Konturen, Farben, Gestalt oder Oberflächenstruktur klar abgegrenzten Teilbereich darstellt, der einen eigenen Gesamteindruck hervorruft und nicht völlig in der Gesamtform aufgeht.",
+      norms=["Art. 11 GGV", "Art. 6 GGV", "Art. 4 GGV"], concepts=["des_ggm_nicht_eingetragen", "des_eigenart", "des_design_begriff"], tags=["Nicht eingetragenes Muster", "Teildesign"]),
+    # ------------------------------------------------------------------ Ausschlüsse: Technik, Bauelemente, Urheberrecht
+    eu("des_eugh_doceram", "DOCERAM/CeramTec (Zentrierstifte)", EUGH, "2018-03-08", "C-395/16", "GRUR 2018, 612",
+       "Erscheinungsmerkmale sind ausschließlich technisch bedingt, wenn die technische Funktion der einzige Faktor war, der den Entwerfer zu ihnen bestimmt hat, und ästhetische Erwägungen keine Rolle spielten; das ist objektiv anhand aller Umstände des Einzelfalls zu beurteilen. Dass alternative Gestaltungen dieselbe Funktion erfüllen könnten, schließt den Ausschluss nicht aus (Absage an den Mehrheit-der-Formen-Test). Die Sicht eines objektiven Beobachters ist nicht maßgeblich.",
+       norms=["Art. 8 GGV", "§ 3 Abs. 1 DesignG", "Art. 7 DesignRL"], concepts=["des_technisch_bedingt", "des_nichtigkeit"], tags=["Technische Bedingtheit", "Ausschluss"]),
+    e("des_bgh_papierspender", "Papierspender", BGH, "2020-10-07", "I ZR 137/19",
+      "Ein Patent oder eine Patentanmeldung für dasselbe Erzeugnis steht dem Designschutz nicht entgegen. Ansprüche, Beschreibung und Zeichnungen der Offenlegungsschrift gehören aber zu den objektiven Umständen, anhand derer nach DOCERAM zu prüfen ist, ob die Erscheinungsmerkmale ausschließlich technisch bedingt sind.",
+      norms=["Art. 8 GGV", "§ 3 Abs. 1 DesignG"], concepts=["des_technisch_bedingt", "des_abgrenzung_schutzrechte"], tags=["Technische Bedingtheit", "Patent und Design"]),
+    e("des_bgh_tellerschleifgeraet", "Tellerschleifgerät", BGH, "2023-03-09", "I ZR 167/21",
+      "Die Prüfung der ausschließlich technischen Bedingtheit ist für jedes den Gesamteindruck prägende Merkmal gesondert anhand aller objektiven Umstände vorzunehmen; nur wenn alle prägenden Merkmale technisch bedingt sind, ist das Muster nichtig. Bleiben gestalterisch bestimmte Merkmale, ist das Muster schutzfähig, technisch bedingte Merkmale werden beim Schutzumfang geringer gewichtet.",
+      norms=["Art. 8 GGV", "§ 3 Abs. 1 DesignG"], concepts=["des_technisch_bedingt", "des_gesamteindruck"], tags=["Technische Bedingtheit"]),
+    eu("des_eug_lego", "Lego/EUIPO – Delta Sport (Klemmbaustein)", EUG, "2021-03-24", "T-515/19", "GRUR-RS 2021, 5631",
+       "Die Rückausnahme für modulare Systeme (Art. 8 Abs. 3 GGV) gilt für Verbindungselemente nach Art. 8 Abs. 2 GGV auch dann, wenn deren Merkmale zugleich ausschließlich technisch bedingt im Sinne des Abs. 1 sind; das EUIPO muss den Einwand prüfen. Ein Muster ist nur nichtig, wenn alle Erscheinungsmerkmale ausschließlich technisch bedingt sind; die glatte Oberseite des Steins war nicht berücksichtigt worden.",
+       norms=["Art. 8 GGV", "Art. 25 GGV", "§ 3 Abs. 2 DesignG"], concepts=["des_verbindungselemente", "des_technisch_bedingt"], tags=["Modulare Systeme", "Verbindungselemente"]),
+    eu("des_eugh_monz", "Monz Handelsgesellschaft/Büchel (Sattelunterseite)", EUGH, "2023-02-16", "C-472/21", "GRUR 2023, 482",
+       "Die Sichtbarkeit eines Bauelements bei bestimmungsgemäßer Verwendung ist aus der Sicht des Endbenutzers und aus der eines außenstehenden Beobachters zu beurteilen; das Bauelement muss nicht in jedem Moment der Benutzung sichtbar sein. Bestimmungsgemäße Verwendung umfasst die Hauptfunktion und die Handlungen, die der Endbenutzer üblicherweise dabei vornimmt, einschließlich Lagerung und Transport, nicht aber Instandhaltung, Wartung und Reparatur.",
+       norms=["Art. 3 DesignRL", "§ 4 DesignG", "§ 1 DesignG", "Art. 4 GGV"], concepts=["des_bauelement_sichtbarkeit", "des_erzeugnis"], tags=["Bauelemente", "Sichtbarkeit"]),
+    e("des_bgh_sattelunterseite_ii", "Sattelunterseite II", BGH, "2023-06-15", "I ZB 31/20",
+      "Umsetzung der Vorabentscheidung: Die Sichtbarkeit eines Fahrradsattels beim Fahrrad als komplexem Erzeugnis ist aus Sicht des Endbenutzers und eines außenstehenden Beobachters zu beurteilen; bestimmungsgemäße Verwendung umfasst das Fahren sowie Aufbewahrung und Transport, nicht Wartung und Reparatur. Die Sache ging zur Feststellung der Sichtbarkeit der Sattelunterseite an das BPatG zurück.",
+      norms=["§ 4 DesignG", "§ 1 DesignG", "Art. 3 DesignRL"], concepts=["des_bauelement_sichtbarkeit", "des_nichtigkeitsverfahren_dpma"], tags=["Bauelemente", "Sichtbarkeit"]),
+    e("des_bpatg_sattelunterseite_ii", "Sattelunterseite II (BPatG)", BPATG, "2026-03-26", "30 W (pat) 802/23",
+      "Kann ein Bauelement (Sattel) mehreren komplexen Erzeugnissen (Fahrrad, Motorrad) zugeordnet werden, greift der Schutzausschluss des § 4 DesignG nur, wenn es bei keiner bestimmungsgemäßen Verwendung sichtbar bleibt. Bleiben die neuen und eigenartigen Merkmale zumindest bei einer bestimmungsgemäßen Verwendung eines komplexen Erzeugnisses sichtbar, besteht Designschutz.",
+      norms=["§ 4 DesignG", "§ 2 DesignG", "§ 33 Abs. 1 DesignG"], concepts=["des_bauelement_sichtbarkeit", "des_nichtigkeitsverfahren_dpma"], tags=["Bauelemente", "Sichtbarkeit", "Nichtigkeitsverfahren"]),
+    e("des_bgh_baugruppe", "Baugruppe", BGH, "2008-01-10", "I ZR 67/05",
+      "Nach altem Recht waren Merkmale, die nach dem Einbau eines Bauelements in ein komplexes Erzeugnis nicht sichtbar sind, von der Beurteilung der Eigentümlichkeit nicht ausgeschlossen; nach § 4 DesignG kommt es heute auf die Sichtbarkeit bei bestimmungsgemäßer Verwendung an. Beim ergänzenden Leistungsschutz ist die Frage, ob eine gemeinfreie technische Lösung übernommen wurde, nicht auf die nach dem Einbau sichtbaren Teile beschränkt.",
+      norms=["§ 4 DesignG", "§ 72 DesignG"], concepts=["des_bauelement_sichtbarkeit", "des_uwg_nachahmung"], tags=["Bauelemente", "Übergangsrecht", "UWG"]),
+    # ------------------------------------------------------------------ Schutzgegenstand und Wiedergabe
+    e("des_bgh_weinkaraffe", "Weinkaraffe", BGH, "2012-03-08", "I ZR 124/10",
+      "Schutzgegenstand des eingetragenen Gemeinschaftsgeschmacksmusters ist die in der Anmeldung sichtbar wiedergegebene Erscheinungsform; mehrere Darstellungen bilden nicht mehrere Schutzgegenstände, Unklarheiten sind durch Auslegung zu klären. Teile oder Elemente eines eingetragenen Musters genießen keinen eigenständigen Schutz.",
+      norms=["Art. 3 GGV", "Art. 36 GGV", "§ 37 Abs. 1 DesignG"], concepts=["des_schutzgegenstand", "des_wiedergabe"], tags=["Schutzgegenstand", "Wiedergabe"]),
+    e("des_bgh_schreibgeraete", "Schreibgeräte", BGH, "2011-03-24", "I ZR 211/08",
+      "Lässt die Wiedergabe nicht erkennen, ob ein Erzeugnis ein- oder zweiteilig ist, sind einerseits mehr Entgegenhaltungen möglich, andererseits ist der Schutzumfang größer. Bei Schwarz-Weiß-Darstellung ist die angegriffene Form von ihrer Farbe zu abstrahieren, es sei denn, Kontrastfarben erzeugen einen anderen Gesamteindruck. Getrennte Klagen aus verschiedenen nationalen Mustern in verschiedenen Mitgliedstaaten sind nicht derselbe Anspruch nach der Brüssel-I-Verordnung.",
+      norms=["§ 37 Abs. 1 DesignG", "§ 38 Abs. 2 DesignG", "§ 11 DesignG"], concepts=["des_schutzgegenstand", "des_wiedergabe", "des_schutzumfang"], tags=["Schutzgegenstand", "Wiedergabe", "Farbe"]),
+    e("des_bgh_sporthelm", "Sporthelm", BGH, "2018-12-20", "I ZB 25/18",
+      "Zeigen die Darstellungen eines Einzeldesigns verschiedene Ausführungsformen mit unterschiedlichen Merkmalen (Beriemung, Farben, Dekore), geben sie nicht die Erscheinungsform „eines“ Erzeugnisses wieder; das Design hat keinen einheitlichen Schutzgegenstand und ist nach § 33 Abs. 1 Nr. 1 DesignG nichtig. Beansprucht der Inhaber Schutz für die abweichenden Merkmale, darf der Schutzgegenstand nicht aus der Schnittmenge der gemeinsamen Merkmale gebildet werden.",
+      norms=["§ 1 DesignG", "§ 33 Abs. 1 DesignG", "§ 37 Abs. 1 DesignG", "§ 7 DesignV"], concepts=["des_schutzgegenstand", "des_wiedergabe", "des_nichtigkeit"], tags=["Schutzgegenstand", "Wiedergabe", "Nichtigkeit"]),
+    e("des_bgh_sportbrille", "Sportbrille", BGH, "2018-12-20", "I ZB 26/18",
+      "Eine Schwarz-Weiß-Fotografie mit Graustufen macht den Hell-Dunkel-Kontrast unabhängig von der konkreten Farbe zum Schutzgegenstand. Zeigen die Fotografien den Kontrast einmal hell-dunkel und einmal umgekehrt, fehlt ein einheitlicher Schutzgegenstand: Das Design ist nichtig.",
+      norms=["§ 1 DesignG", "§ 33 Abs. 1 DesignG", "§ 37 Abs. 1 DesignG", "§ 7 DesignV"], concepts=["des_schutzgegenstand", "des_wiedergabe"], tags=["Schutzgegenstand", "Wiedergabe", "Farbe"]),
+    e("des_bgh_schneidebrett", "Schneidebrett", BGH, "2022-03-24", "I ZR 16/21",
+      "Die Auslegung eines Designs kann ergeben, dass Abweichungen zwischen den Wiedergaben außer Betracht bleiben und der Schutzgegenstand aus der Schnittmenge der allen Darstellungen gemeinsamen Merkmale besteht, auch wenn eine Darstellung zusätzliche Elemente zeigt, die die anderen nicht enthalten. Ebenso kann die Auslegung ergeben, dass sich der Schutz auf ein Teil des dargestellten Erzeugnisses beschränkt.",
+      norms=["§ 1 DesignG", "§ 33 Abs. 1 DesignG", "§ 37 Abs. 1 DesignG"], concepts=["des_schutzgegenstand", "des_wiedergabe"], tags=["Schutzgegenstand", "Auslegung"]),
+    e("des_bpatg_schalungsbrett", "Schalungsbrett", BPATG, "2024-04-03", "30 W (pat) 804/21",
+      "Soll nach der Beschreibung ein Hell-Dunkel-Kontrast geschützt werden und zeigt die farbige Wiedergabe zwei Bretter mit unterschiedlich eingefärbter Feder als gleichwertige Ausführungsformen, fehlt dem Einzeldesign der einheitliche Schutzgegenstand; es ist nichtig (Fortführung von Sportbrille).",
+      norms=["§ 1 DesignG", "§ 33 Abs. 1 DesignG", "§ 10 DesignV"], concepts=["des_schutzgegenstand", "des_wiedergabe", "des_nichtigkeitsverfahren_dpma"], tags=["Schutzgegenstand", "Beschreibung"]),
+    # ------------------------------------------------------------------ Verletzung, Schranken, Reparaturklausel
+    eu("des_eugh_celaya", "Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento", EUGH, "2012-02-16", "C-488/10", "GRUR 2012, 506",
+       "Auch der Inhaber eines jüngeren eingetragenen Gemeinschaftsgeschmacksmusters ist „Dritter“ im Sinne des Art. 19 Abs. 1 GGV: Der Inhaber des älteren Musters kann ihn auf Unterlassung in Anspruch nehmen, ohne zuvor die Nichtigerklärung des jüngeren Musters zu erwirken. Das Prioritätsprinzip gilt auch dann, wenn der Inhaber des jüngeren Musters bei der Anmeldung gutgläubig war.",
+       norms=["Art. 19 GGV", "Art. 10 GGV", "Art. 25 GGV"], concepts=["des_benutzung", "des_ggm_eingetragen", "des_vermutung_rechtsgueltigkeit"], tags=["Verletzung", "Jüngeres Muster", "Priorität"]),
+    e("des_bgh_kinderwagen_i", "Kinderwagen I", BGH, "2011-09-28", "I ZR 23/10",
+      "Eine Aussetzung des Verletzungsprozesses nach Art. 91 GGV kommt nicht in Betracht, wenn die Verletzungsklage vor dem Nichtigkeitsantrag beim EUIPO erhoben wurde. Begehungsgefahr für Herstellen und Herstellenlassen in der Union besteht bereits, wenn ein produzierendes Unternehmen die Erzeugnisse außerhalb der Union herstellen lässt und in der Union anbietet und vertreibt.",
+      norms=["Art. 10 GGV", "Art. 19 GGV", "Art. 89 GGV", "Art. 91 GGV"], concepts=["des_unterlassung", "des_benutzung", "des_ggm_gericht"], tags=["Verletzung", "Begehungsgefahr", "Aussetzung"]),
+    e("des_bgh_ice", "ICE", BGH, "2011-04-07", "I ZR 56/09",
+      "Eine Wiedergabe zum Zwecke der Zitierung nach § 40 Nr. 3 DesignG setzt eine innere Verbindung zwischen dem wiedergegebenen Design und eigenen Gedanken des Zitierenden voraus: Das Design muss als Belegstelle oder Erörterungsgrundlage für eigene Ausführungen dienen (nicht erfüllt bei der bloßen Abbildung des ICE auf einem Kalender).",
+      norms=["§ 40 DesignG"], concepts=["des_zitierschranke", "des_schranken"], tags=["Schranken", "Zitat"]),
+    eu("des_eugh_nintendo", "Nintendo/BigBen Interactive", EUGH, "2017-09-27", "C-24/16, C-25/16", "GRUR 2017, 1120",
+       "Ein Unionsgeschmacksmustergericht, das nach der Brüssel-Ia-Verordnung im Gerichtsstand der Streitgenossenschaft zuständig ist, kann Maßnahmen für das gesamte Unionsgebiet auch gegen den in einem anderen Mitgliedstaat ansässigen Beklagten anordnen. Die Abbildung von Erzeugnissen, die ein Gemeinschaftsgeschmacksmuster verkörpern, zur Erläuterung der Verwendung eigener Zubehörprodukte ist eine zulässige Zitierung nach Art. 20 Abs. 1 lit. c GGV, wenn sie den Gepflogenheiten des redlichen Geschäftsverkehrs entspricht und die Quelle angibt. Das anwendbare Recht für Folgeansprüche ist das Recht des Landes, in dem die ursprüngliche Verletzungshandlung begangen wurde.",
+       norms=["Art. 20 GGV", "Art. 82 GGV", "Art. 83 GGV", "Art. 88 GGV", "Art. 89 GGV"], concepts=["des_zitierschranke", "des_ggm_gericht", "des_ggm_anwendbares_recht"], tags=["Schranken", "Zuständigkeit", "Anwendbares Recht"]),
+    eu("des_eugh_acacia_audi", "Acacia/Audi und Porsche (Felgen)", EUGH, "2017-12-20", "C-397/16, C-435/16", "GRUR 2018, 284",
+       "Die Reparaturklausel des früheren Art. 110 Abs. 1 GGV ist nicht auf formgebundene Bauelemente beschränkt, deren Gestalt durch das Erscheinungsbild des Gesamterzeugnisses vorgegeben ist. Sie setzt voraus, dass das Ersatzteil dem Original optisch entspricht und ausschließlich zur Reparatur zur Wiederherstellung des ursprünglichen Erscheinungsbilds verwendet wird; Hersteller und Anbieter müssen durch Hinweise, Vertragsbedingungen und Kontrollen darauf hinwirken, dass die nachgelagerten Benutzer diese Zweckbindung einhalten.",
+       norms=["Art. 20a GGV", "§ 40a DesignG"], concepts=["des_reparaturklausel", "des_bauelement_sichtbarkeit"], tags=["Reparaturklausel", "Ersatzteile"]),
+    e("des_bgh_kraftfahrzeugfelgen_ii", "Kraftfahrzeugfelgen II", BGH, "2018-07-26", "I ZR 226/14",
+      "Die Reparaturklausel gilt für Felgen, die farblich und in der Größe den Originalfelgen entsprechen, wenn ihre Verwendung zur Reparatur eines schadhaft gewordenen Fahrzeugs notwendig ist. Der Anbieter kann sich darauf nur berufen, wenn er seine Sorgfaltspflichten erfüllt: klarer Hinweis auf Erzeugnis, Verpackung, Katalogen und Verkaufsunterlagen, dass das Teil nicht vom Rechtsinhaber stammt und nur zur Reparatur bestimmt ist, sowie zumutbare Maßnahmen gegen andere Verwendung.",
+      norms=["Art. 20a GGV", "§ 40a DesignG"], concepts=["des_reparaturklausel"], tags=["Reparaturklausel", "Ersatzteile", "Sorgfaltspflichten"]),
+    e("des_bgh_schluesselgehaeuse", "Schlüsselgehäuse", BGH, "2025-10-09", "I ZR 116/24",
+      "Die Reparaturklausel erfasst auch formungebundene Bauelemente eines komplexen Erzeugnisses und ist auch dann anwendbar, wenn sich alle schutzfähigen Erscheinungsmerkmale des komplexen Erzeugnisses in dem einen zur Reparatur angebotenen Bauelement befinden; einer Aushöhlung des Schutzes beugen die Sorgfaltspflichten des Anbieters vor. Für Handlungen ab 1.5.2025 gilt Art. 20a GGV, der die Klausel auf formgebundene Teile beschränkt.",
+      norms=["Art. 20a GGV", "§ 40a DesignG"], concepts=["des_reparaturklausel"], tags=["Reparaturklausel", "Ersatzteile"]),
+    e("des_bgh_bettgestell", "Bettgestell", BGH, "2017-06-29", "I ZR 9/16",
+      "Ein Vorbenutzungsrecht nach § 41 DesignG entsteht durch Benutzung oder durch wirkliche und ernsthafte Anstalten, also Vorbereitungshandlungen aller Art, die den ernstlichen Willen zur alsbaldigen Benutzung sicher erkennen lassen; nur im Inland getroffene Anstalten zählen. Für Altmuster (Anmeldung vor 28.10.2001) gelten die alten Schutzvoraussetzungen weiter.",
+      norms=["§ 41 DesignG", "§ 72 DesignG", "§ 42 DesignG"], concepts=["des_vorbenutzungsrecht", "des_schranken"], tags=["Vorbenutzungsrecht"]),
+    eu("des_eugh_acacia_bmw", "Acacia/BMW (anwendbares Recht)", EUGH, "2022-03-03", "C-421/20", "GRUR 2022, 561",
+       "Für die Folgeansprüche aus der Verletzung eines Gemeinschaftsgeschmacksmusters (Vernichtung, Rückruf, Auskunft, Schadensersatz, Kosten) verweist Art. 88 Abs. 2 GGV auf Art. 8 Abs. 2 Rom-II-Verordnung: anwendbar ist das Recht des Staates, in dem die Verletzungshandlung begangen wurde, unabhängig davon, in welchem Mitgliedstaat geklagt wird. Klagt der Inhaber in dem Staat, in dem die Handlung begangen wurde, gilt dessen Recht (in Deutschland § 62a DesignG).",
+       norms=["Art. 88 GGV", "Art. 89 GGV", "§ 62a DesignG"], concepts=["des_ggm_anwendbares_recht", "des_ggm_gericht"], tags=["Anwendbares Recht", "Folgeansprüche"]),
+    e("des_bgh_griffleiste", "Griffleiste", BGH, "2025-07-31", "I ZR 127/24",
+      "Ein gegen den Insolvenzschuldner gerichteter gesetzlicher Unterlassungsanspruch wegen Schutzrechtsverletzung oder Wettbewerbsverstoßes kann nach Unterbrechung des Rechtsstreits analog § 86 Abs. 1 Nr. 3 InsO auch dann aufgenommen werden, wenn Eigenverwaltung angeordnet ist.",
+      norms=["§ 42 Abs. 1 DesignG"], concepts=["des_unterlassung", "des_designstreitsachen"], tags=["Verfahren", "Insolvenz"]),
+    # ------------------------------------------------------------------ Verfahren vor DPMA und BPatG
+    e("des_bgh_heizkoerperdesign", "Heizkörperdesign", BGH, "2021-09-23", "I ZB 10/21",
+      "Hat der Beschwerdeführer eine Beschwerdebegründung angekündigt und um Mitteilung gebeten, bis wann sie eingereicht werden kann, darf das BPatG nicht allein wegen Zeitablaufs ohne Begründung entscheiden; sonst verletzt es das rechtliche Gehör (§ 23 Abs. 5 DesignG i.V.m. § 100 Abs. 3 Nr. 3 PatG). Einseitige Gespräche zwischen einem Beteiligten und einem Richter gefährden das rechtliche Gehör.",
+      norms=["§ 23 Abs. 5 DesignG", "§ 100 PatG"], concepts=["des_beschwerde_bpatg", "des_nichtigkeitsverfahren_dpma"], tags=["Verfahren", "Rechtliches Gehör", "Rechtsbeschwerde"]),
+    # ------------------------------------------------------------------ Kumulation: Urheberrecht und UWG
+    e("des_bgh_seilzirkus", "Seilzirkus", BGH, "2011-05-12", "I ZR 53/10",
+      "Bei Gebrauchsgegenständen begründen nur Merkmale Urheberrechtsschutz als Werk der angewandten Kunst, die nicht allein technisch bedingt, sondern künstlerisch gestaltet sind; die Ausnutzung eines handwerklich-konstruktiven Spielraums oder der Austausch technischer Merkmale genügt nicht. Wer Urheberrechtsschutz beansprucht, muss darlegen, inwieweit die Gestaltung über die Funktion hinaus künstlerisch ist.",
+      norms=["§ 50 DesignG", "§ 3 Abs. 1 DesignG"], concepts=["des_urheberrecht_kumulation", "des_technisch_bedingt"], tags=["Urheberrecht", "Angewandte Kunst"]),
+    e("des_bgh_geburtstagszug", "Geburtstagszug", BGH, "2013-11-13", "I ZR 143/12",
+      "An Werke der angewandten Kunst sind keine höheren Anforderungen zu stellen als an zweckfreie Kunst: Es genügt eine Gestaltungshöhe, die kunstempfängliche Kreise als künstlerische Leistung ansehen; ein deutliches Überragen der Durchschnittsgestaltung ist nicht mehr erforderlich (Aufgabe der Silberdistel-Rechtsprechung). Grund: Seit 2004 ist das Designrecht kein Minus zum Urheberrecht mehr, sondern ein eigenständiges Schutzrecht mit anderen Voraussetzungen.",
+      norms=["§ 50 DesignG"], concepts=["des_urheberrecht_kumulation", "des_abgrenzung_schutzrechte"], tags=["Urheberrecht", "Angewandte Kunst", "Kumulation"]),
+    eu("des_eugh_cofemel", "Cofemel/G-Star Raw", EUGH, "2019-09-12", "C-683/17", "GRUR 2019, 1185",
+       "Der Werkbegriff ist unionsweit einheitlich: Ein Design ist urheberrechtlich geschützt, wenn es eine eigene geistige Schöpfung des Urhebers ist, die seine freien kreativen Entscheidungen widerspiegelt, und objektiv identifizierbar ist. Eine besondere ästhetische Wirkung ist weder erforderlich noch ausreichend. Designschutz und Urheberrecht sind kumulierbar, aber nur in bestimmten Fällen, weil beide Rechte unterschiedliche Ziele verfolgen.",
+       norms=["Art. 17 DesignRL", "Art. 96 GGV", "§ 50 DesignG"], concepts=["des_urheberrecht_kumulation"], tags=["Urheberrecht", "Kumulation", "Werkbegriff"]),
+    eu("des_eugh_brompton", "Brompton Bicycle/Get2Get (Faltrad)", EUGH, "2020-06-11", "C-833/18", "GRUR 2020, 736",
+       "Ein Gegenstand, dessen Form zumindest teilweise zur Erreichung eines technischen Ergebnisses erforderlich ist, kann urheberrechtlich geschützt sein, wenn er ein Originalwerk ist, dessen Form die freie schöpferische Entscheidung seines Urhebers ausdrückt; ausgeschlossen ist der Schutz nur, wenn die Form ausschließlich durch die technische Funktion bedingt ist. Die Existenz alternativer Formen ist nicht entscheidend; ein früheres Patent kann Indiz sein.",
+       norms=["§ 50 DesignG", "Art. 8 GGV"], concepts=["des_urheberrecht_kumulation", "des_technisch_bedingt"], tags=["Urheberrecht", "Technische Bedingtheit"]),
+    eu("des_eugh_mio_konektra", "Mio und konektra (USM Haller)", EUGH, "2025-12-04", "C-580/23, C-795/23", "GRUR 2026, 72",
+       "Werke der angewandten Kunst unterliegen denselben unionsrechtlichen Anforderungen wie andere Werke: Originalität als Ausdruck freier kreativer Entscheidungen, die die Persönlichkeit des Urhebers widerspiegeln; die Absicht des Urhebers und die Wahrnehmung durch Fachkreise sind für sich nicht maßgeblich, technisch oder funktional bedingte Merkmale bleiben außer Betracht. Die Verletzung ist anhand der Übernahme der originalen Elemente zu prüfen, nicht anhand des Gesamteindrucks wie im Designrecht.",
+       norms=["§ 50 DesignG", "Art. 96 GGV"], concepts=["des_urheberrecht_kumulation", "des_abgrenzung_schutzrechte"], tags=["Urheberrecht", "Angewandte Kunst"]),
+    e("des_bgh_likeabike", "LIKEaBIKE", BGH, "2009-05-28", "I ZR 124/06",
+      "Die wettbewerbliche Eigenart eines Erzeugnisses hängt vom Gesamteindruck ab und kann durch Merkmale begründet werden, die für sich keinen Herkunftshinweis geben. Die Übernahme technischer, dem freizuhaltenden Stand der Technik angehörender Merkmale kann unlauter sein, wenn die dadurch begründete Herkunftstäuschung durch zumutbare Maßnahmen vermeidbar ist.",
+      norms=["§ 50 DesignG"], concepts=["des_uwg_nachahmung", "des_abgrenzung_schutzrechte"], tags=["UWG", "Nachahmung"]),
+    e("des_bgh_jeans", "Jeans", BGH, "2005-09-15", "I ZR 151/02",
+      "Ansprüche aus ergänzendem wettbewerbsrechtlichem Leistungsschutz wegen vermeidbarer Herkunftstäuschung werden nicht dadurch ausgeschlossen, dass für das Erzeugnis Schutz als nicht eingetragenes Gemeinschaftsgeschmacksmuster besteht oder bestand. Für die erforderliche gewisse Bekanntheit genügt, dass der Verkehr das Original kennt, ohne es einem namentlich bestimmten Unternehmen zuzuordnen.",
+      norms=["§ 50 DesignG", "Art. 96 GGV"], concepts=["des_uwg_nachahmung", "des_ggm_nicht_eingetragen"], tags=["UWG", "Nachahmung", "Nicht eingetragenes Muster"]),
+    e("des_bgh_glueck", "Glück", BGH, "2023-12-07", "I ZR 126/22",
+      "Gegenstand des Nachahmungsschutzes nach § 4 Nr. 3 UWG ist die konkrete Gestaltung, nicht die abstrakte Idee (hier: Emotionsschlagwort als Produktname). Auch bei einer sich deutlich abhebenden Verpackung kann der Verkehr sich an Produkt- und Herstellerangaben orientieren, so dass eine Herkunftstäuschung ausscheidet.",
+      norms=["§ 50 DesignG"], concepts=["des_uwg_nachahmung"], tags=["UWG", "Nachahmung"]),
+]

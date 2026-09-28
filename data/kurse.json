@@ -1,7 +1,7 @@
 [
  {
   "id": "k01",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Grundlagen des Markenrechts",
   "untertitel": "Was eine Marke ist, wie sie entsteht und was sie leistet",
   "farbe": "#1482e3",
@@ -289,7 +289,7 @@
  },
  {
   "id": "k02",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Schutzfähigkeit und absolute Schutzhindernisse",
   "untertitel": "§§ 3, 7, 8 MarkenG: Was ins Register darf",
   "farbe": "#14a085",
@@ -759,7 +759,7 @@
  },
  {
   "id": "k03",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Markenverletzung I: Aufbau und markenmäßige Benutzung",
   "untertitel": "§ 14 Abs. 2 MarkenG: Der Verletzungstatbestand",
   "farbe": "#e14b3b",
@@ -1156,7 +1156,7 @@
  },
  {
   "id": "k04",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Markenverletzung II: Verwechslungsgefahr",
   "untertitel": "§ 14 Abs. 2 Nr. 2 MarkenG: Der Kern jeder Markenklausur",
   "farbe": "#7048e8",
@@ -1551,7 +1551,7 @@
  },
  {
   "id": "k05",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Markenverletzung III: Bekanntheitsschutz",
   "untertitel": "§ 14 Abs. 2 Nr. 3 und § 9 Abs. 1 Nr. 3 MarkenG",
   "farbe": "#c9900a",
@@ -1888,7 +1888,7 @@
  },
  {
   "id": "k06",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Schranken des Markenschutzes",
   "untertitel": "§§ 20 bis 24 MarkenG: Wann der Markeninhaber nichts verbieten kann",
   "farbe": "#2f9e44",
@@ -2320,7 +2320,7 @@
  },
  {
   "id": "k07",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Benutzungszwang, Widerspruch und Löschung",
   "untertitel": "§§ 25, 26, 42, 43, 49 bis 55 MarkenG",
   "farbe": "#b36b2e",
@@ -2685,7 +2685,7 @@
  },
  {
   "id": "k08",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Geschäftliche Bezeichnungen und Domains",
   "untertitel": "§§ 5, 15 MarkenG: Unternehmenskennzeichen und Werktitel",
   "farbe": "#d6336c",
@@ -2911,7 +2911,7 @@
  },
  {
   "id": "k09",
-  "gebiet": "markeng",
+  "gebiet": "marken",
   "titel": "Rechtsfolgen und Durchsetzung",
   "untertitel": "§§ 14 Abs. 5 bis 7, 18, 19 MarkenG und Haftung Dritter",
   "farbe": "#f0801a",
@@ -4810,7 +4810,8 @@
  },
  {
   "id": "k12",
-  "gebiet": "verfahren",
+  "gebiet": "marken",
+  "reihe": "Verfahren und Klausur",
   "titel": "Klausurtraining NS",
   "untertitel": "Patentanwaltsprüfung: Widerspruch, Beschwerde, Benutzung, Löschung",
   "farbe": "#5c5f66",
@@ -6361,7 +6362,8 @@
  },
  {
   "id": "k13",
-  "gebiet": "verfahren",
+  "gebiet": "marken",
+  "reihe": "Verfahren und Klausur",
   "titel": "Wirksamkeit und Zulässigkeit",
   "untertitel": "Verfahrensrecht nach Verfahrensart: Widerspruch, Beschwerde, Amtsverfahren, Klage",
   "farbe": "#4a6d3a",
@@ -7954,8 +7956,1292 @@
   ]
  },
  {
+  "id": "p00",
+  "gebiet": "patent",
+  "titel": "Technische Schutzrechte",
+  "untertitel": "Patent und Gebrauchsmuster von der Erfindung bis zur Durchsetzung",
+  "farbe": "#2f6b4f",
+  "icon": "norm",
+  "beschreibung": "Der Grundkurs zum Patentrecht: Was ist patentfähig, wie entsteht das Patent, was schützt es, wie wird es verletzt, angegriffen und durchgesetzt – dazu das Gebrauchsmuster als schnelles Parallelrecht und der Weg über EPÜ, Einheitspatent und PCT.",
+  "kapitel": [
+   {
+    "id": "p00a",
+    "titel": "Grundlagen und Patentfähigkeit",
+    "einheiten": [
+     {
+      "id": "p00a-0",
+      "typ": "intro",
+      "titel": "Das System der technischen Schutzrechte",
+      "text": "Technische Erfindungen werden in Deutschland durch das **Patent** (PatG, 20 Jahre, geprüft) und das **Gebrauchsmuster** (GebrMG, 10 Jahre, ungeprüft, keine Verfahren) geschützt. Daneben stehen das **europäische Patent** (EPÜ, vom EPA erteilt, in Deutschland über das IntPatÜG wirksam), seit 2023 das **Einheitspatent** mit dem Einheitlichen Patentgericht und der **PCT** als Anmeldeweg. Verfahrensrecht liefern die **PatV** (Form der Anmeldung), das **PatKostG** (Gebühren und Zahlungsfristen) und die DPMAV.\n\nDer Lebenslauf eines Patents: Anmeldung (§ 34 PatG) mit Anmeldetag (§ 35), Offenlegung nach 18 Monaten (§ 32 Abs. 5) mit Entschädigungsanspruch (§ 33), Prüfung auf Antrag (§ 44), Erteilung (§ 49) mit Veröffentlichung (§ 58), Einspruch binnen neun Monaten (§ 59), danach Nichtigkeitsklage (§ 81), Jahresgebühren ab dem dritten Jahr (§ 17, § 7 PatKostG), Erlöschen (§ 20). Verletzungsansprüche (§§ 139 ff.) bestehen ab Veröffentlichung der Erteilung und werden vor den Patentstreitkammern der Landgerichte (§ 143) durchgesetzt, der Rechtsbestand getrennt davon vor DPMA und BPatG (Trennungsprinzip).\n\nDie Prüfung der Patentfähigkeit folgt immer derselben Reihenfolge: **Erfindung** (technische Lehre, § 1 Abs. 1) → **kein Ausschluss** (§ 1 Abs. 3, 4; §§ 1a, 2, 2a) → **Neuheit** (§ 3) → **erfinderische Tätigkeit** (§ 4) → **gewerbliche Anwendbarkeit** (§ 5). Vorher steht immer die Merkmalsgliederung und Auslegung des Anspruchs.",
+      "concepts": [
+       "pat_erfindung",
+       "pat_gebrauchsmuster",
+       "pat_laufzeit_jahresgebuehren"
+      ],
+      "norms": [
+       "§ 1 PatG",
+       "§ 16 PatG",
+       "§ 34 PatG",
+       "§ 58 PatG",
+       "§ 143 PatG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_patent_gebrauchsmuster"
+      ]
+     },
+     {
+      "id": "p00a-1",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Patentfähigkeit",
+      "schema": "pat_schema_patentfaehigkeit",
+      "text": "Technizität, Ausschlüsse, Neuheit im Einzelvergleich, erfinderische Tätigkeit aus der Sicht des Fachmanns, gewerbliche Anwendbarkeit.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "p00a-2",
+      "typ": "fall",
+      "titel": "Der Steuerungsalgorithmus im Röntgengerät",
+      "sachverhalt": "Die Medtec GmbH meldet ein Verfahren an, das mit einem Programm die Untersuchungsschritte eines Röntgengeräts steuert und die Reihenfolge nach dem Patientenprofil berechnet. Die Prüfungsstelle meint, ein Programm sei keine Erfindung.",
+      "frage": "Ist das Verfahren eine technische Erfindung im Sinne des § 1 Abs. 1 PatG?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein Verfahren, das sich einer Datenverarbeitungsanlage bedient und in den Ablauf einer technischen Einrichtung eingebettet ist, ist technisch; für die Technizität genügt ein technischer Teilaspekt (BGH Steuerungseinrichtung für Untersuchungsmodalitäten). Der Ausschluss für Programme „als solche“ (§ 1 Abs. 3 Nr. 3, Abs. 4 PatG) greift nicht, weil die Lehre ein technisches Gerät steuert.",
+       "Die eigentliche Hürde folgt bei § 4 PatG: Nur Merkmale, die ein konkretes technisches Problem mit technischen Mitteln lösen, tragen die erfinderische Tätigkeit; die bloße Berechnungsvorschrift nach Patientenprofil bleibt außer Betracht (BGH Webseitenanzeige). Die Prüfungsstelle muss also nicht die Technizität, sondern das Naheliegen prüfen."
+      ],
+      "merke": "Technizität ist die niedrige Hürde; Programme scheitern, wenn überhaupt, an § 4.",
+      "level": 1,
+      "concepts": [
+       "pat_technizitaet",
+       "pat_programme"
+      ],
+      "norms": [
+       "§ 1 Abs. 1 PatG",
+       "§ 1 Abs. 3 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_steuerungseinrichtung",
+       "pat_bgh_webseitenanzeige"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.2.2",
+      "distinctions": []
+     },
+     {
+      "id": "p00a-3",
+      "typ": "mc",
+      "titel": "Was ist vom Patentschutz ausgeschlossen?",
+      "sachverhalt": "",
+      "frage": "Welcher der folgenden Gegenstände ist nach dem PatG nicht patentfähig?",
+      "optionen": [
+       "Ein Verfahren zur chirurgischen Behandlung des menschlichen Körpers",
+       "Ein isoliertes menschliches Gen mit angegebener Funktion",
+       "Ein Stoff zur Verwendung in einem chirurgischen Verfahren",
+       "Eine Pflanze, deren Ausführung nicht auf eine Sorte beschränkt ist"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "Chirurgische, therapeutische und diagnostische Verfahren am menschlichen oder tierischen Körper sind ausgeschlossen (§ 2a Abs. 1 Nr. 2 PatG); Erzeugnisse zur Anwendung in solchen Verfahren nicht (§ 2a Abs. 1 Nr. 2 S. 2). Isolierte Gensequenzen mit Funktionsangabe sind patentfähig (§ 1a Abs. 2, 3), Pflanzen und Tiere, wenn die Ausführung nicht auf eine Sorte beschränkt ist (§ 2a Abs. 2 Nr. 1).",
+       "Merke: Der Ausschluss für Behandlungsverfahren war früher als fehlende gewerbliche Anwendbarkeit konstruiert (§ 5 Abs. 2 a.F.); die Verabreichung eines Medikaments ist ein therapeutisches Verfahren (BGH Carvedilol II), Schutz gibt es nur als zweckgebundener Stoffanspruch (§ 3 Abs. 3, 4)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "pat_therapeutische_verfahren",
+       "pat_biotech",
+       "pat_zweite_indikation"
+      ],
+      "norms": [
+       "§ 2a PatG",
+       "§ 1a PatG",
+       "§ 3 Abs. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_carvedilol_ii"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.2.3",
+      "distinctions": []
+     },
+     {
+      "id": "p00a-4",
+      "typ": "fall",
+      "titel": "Die Entdeckung mit Handlungsanweisung",
+      "sachverhalt": "Forscher entdecken, dass eine bestimmte Rezeptortyrosinkinase bei einer Tumorart überaktiv ist, und beanspruchen ein Verfahren, bei dem ein Hemmstoff dieser Kinase zur Herstellung eines Diagnosemittels verwendet wird.",
+      "frage": "Ist die Lehre schon deshalb ausgeschlossen, weil sie auf einer Entdeckung beruht?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Entdeckungen sind nur als solche ausgeschlossen (§ 1 Abs. 3 Nr. 1, Abs. 4 PatG). Eine Lehre zum technischen Handeln, die die Nutzung einer Entdeckung zur Herbeiführung eines bestimmten Erfolgs anweist, ist dem Patentschutz zugänglich (BGH Rezeptortyrosinkinase).",
+       "Entscheidend ist der Schritt von der Erkenntnis zur Anweisung: „Kinase X ist überaktiv“ ist Entdeckung; „verwende Hemmstoff Y zur Herstellung eines Mittels zur Diagnose der Erkrankung Z“ ist Handlungsanweisung. Die Diagnose selbst am Körper wäre nach § 2a Abs. 1 Nr. 2 ausgeschlossen, die Herstellung des Mittels nicht."
+      ],
+      "merke": "Entdeckung plus Handlungsanweisung ist Erfindung.",
+      "level": 2,
+      "concepts": [
+       "pat_technizitaet",
+       "pat_biotech"
+      ],
+      "norms": [
+       "§ 1 Abs. 3 Nr. 1 PatG",
+       "§ 1 Abs. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_rezeptortyrosinkinase"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.2.2",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p00b",
+    "titel": "Neuheit und erfinderische Tätigkeit",
+    "einheiten": [
+     {
+      "id": "p00b-0",
+      "typ": "intro",
+      "titel": "Stand der Technik: absolut, weltweit, Einzelvergleich",
+      "text": "**Neuheit** (§ 3 PatG): Die Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehört. Dazu zählt alles, was vor dem Zeitrang (Anmelde- oder Prioritätstag) irgendwo auf der Welt durch schriftliche oder mündliche Beschreibung, Benutzung oder sonst öffentlich zugänglich war (§ 3 Abs. 1), außerdem ältere deutsche, europäische und PCT-Anmeldungen mit Wirkung für Deutschland, die erst danach veröffentlicht werden (§ 3 Abs. 2). Der Vergleich erfolgt mit jeder Quelle einzeln; neuheitsschädlich ist nur, was der Fachmann ihr **unmittelbar und eindeutig** entnimmt, einschließlich des selbstverständlich Mitgelesenen, nicht aber Ergänzungen aus dem Fachwissen (BGH Olanzapin). Eine allgemeine Schonfrist gibt es nicht; nur Missbrauch und amtlich anerkannte Ausstellungen (§ 3 Abs. 5).\n\n**Erfinderische Tätigkeit** (§ 4 PatG): Die Erfindung darf sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergeben; ältere nachveröffentlichte Anmeldungen bleiben hier außer Betracht (§ 4 S. 2). Der BGH fragt, ob der Fachmann **Veranlassung** hatte, den Stand der Technik in Richtung der Erfindung weiterzuentwickeln, und ob er eine angemessene Erfolgserwartung hatte; allgemeines Fachwissen allein ist kein Anlass, generelle Lösungsmittel des Fachgebiets können es sein. Verboten ist die rückschauende Betrachtung in Kenntnis der Erfindung.",
+      "concepts": [
+       "pat_neuheit",
+       "pat_offenbarung",
+       "pat_erfinderische_taetigkeit",
+       "pat_fachmann"
+      ],
+      "norms": [
+       "§ 3 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_neuheit_erfinderische_taetigkeit"
+      ]
+     },
+     {
+      "id": "p00b-1",
+      "typ": "fall",
+      "titel": "Die Strukturformel und die Einzelverbindung",
+      "sachverhalt": "Eine Vorveröffentlichung offenbart eine allgemeine Strukturformel, unter die Tausende Verbindungen fallen, darunter Olanzapin, das aber nirgends genannt ist. Das Streitpatent beansprucht Olanzapin als Stoff.",
+      "frage": "Ist Olanzapin durch die Formel neuheitsschädlich vorweggenommen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Mit der Offenbarung einer allgemeinen Strukturformel sind die darunter fallenden Einzelverbindungen grundsätzlich nicht offenbart (BGH Olanzapin, Fortführung von Fluoran). Der Fachmann müsste die Verbindung erst auswählen; das ist keine Entnahme, sondern eine Ergänzung.",
+       "Der Offenbarungsbegriff ist einheitlich: Was neuheitsschädlich ist, ist auch als Priorität oder als ursprüngliche Offenbarung ausreichend, und umgekehrt. Deshalb ist eine Einzelverbindung, die nur in einer Formel der Anmeldung steckt, später als Anspruch eine unzulässige Erweiterung (§ 21 Abs. 1 Nr. 4). Die Neuheit von Olanzapin ist gegeben; die erfinderische Tätigkeit entscheidet sich danach, ob der Fachmann Anlass hatte, gerade diese Verbindung aus der Formel auszuwählen."
+      ],
+      "merke": "Die Formel offenbart nicht ihre Mitglieder: nicht neuheitsschädlich, aber auch keine Offenbarungsgrundlage.",
+      "level": 2,
+      "concepts": [
+       "pat_neuheit",
+       "pat_offenbarung"
+      ],
+      "norms": [
+       "§ 3 Abs. 1 PatG"
+      ],
+      "cases": [
+       "pat_bgh_olanzapin"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p00b-2",
+      "typ": "mc",
+      "titel": "Die ältere, später veröffentlichte Anmeldung",
+      "sachverhalt": "",
+      "frage": "Die X-AG meldet am 1.3.2024 ein Ventil an. Die Y-GmbH hatte am 1.12.2023 beim DPMA ein identisches Ventil angemeldet; ihre Anmeldung wird am 1.6.2025 offengelegt. Wie wirkt die Anmeldung der Y-GmbH auf die Anmeldung der X-AG?",
+      "optionen": [
+       "Sie ist neuheitsschädlich (§ 3 Abs. 2 PatG), bleibt aber für die erfinderische Tätigkeit außer Betracht (§ 4 S. 2 PatG)",
+       "Sie ist unbeachtlich, weil sie erst nach dem Anmeldetag der X-AG veröffentlicht wurde",
+       "Sie ist für Neuheit und erfinderische Tätigkeit zu berücksichtigen",
+       "Sie führt zum Doppelschutzverbot"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "§ 3 Abs. 2 PatG erweitert den Stand der Technik um Anmeldungen mit älterem Zeitrang, die erst an oder nach dem Anmeldetag veröffentlicht werden: nationale Anmeldungen (Nr. 1), europäische mit Benennung Deutschlands (Nr. 2) und internationale, für die das DPMA Bestimmungsamt ist (Nr. 3). Sie verhindern die Doppelpatentierung derselben Erfindung, zählen aber nur für die Neuheit; für das Naheliegen sind sie ausgeschlossen (§ 4 S. 2), weil der Fachmann sie am Anmeldetag nicht kennen konnte.",
+       "Die X-AG kann sich nur retten, indem sie ihren Anspruch auf ein Merkmal beschränkt, das die ältere Anmeldung nicht unmittelbar und eindeutig offenbart; ein bloß naheliegender Unterschied genügt gegenüber der älteren Anmeldung."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_neuheit"
+      ],
+      "norms": [
+       "§ 3 Abs. 2 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentfaehigkeit.3.1",
+      "distinctions": [
+       "d_pat_neuheit_erfinderische_taetigkeit"
+      ]
+     },
+     {
+      "id": "p00b-3",
+      "typ": "fall",
+      "titel": "Der Angler als Fachmann?",
+      "sachverhalt": "Das Streitpatent betrifft einen Fischbissanzeiger. Die Nichtigkeitsklägerin argumentiert, jeder erfahrene Angler hätte die beanspruchte Kombination aus bekannten Sensoren ohne weiteres zusammengestellt.",
+      "frage": "Ist der erfahrene Angler der maßgebliche Fachmann?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Maßgeblicher Fachmann ist die Person, die auf dem technischen Gebiet mit der Lösung der Aufgabe befasst ist: hier ein Konstrukteur mit Erfahrung in der Entwicklung von Angelgeräten, nicht der Anwender (BGH Fischbissanzeiger). Der Fachmann ist eine fiktive Person mit durchschnittlichen Kenntnissen und Fähigkeiten, aber ohne Erfindungsgabe.",
+       "Für das Naheliegen genügt es nicht, dass alle Einzelmerkmale im Stand der Technik vorhanden waren; der Fachmann braucht eine Veranlassung, sie in der beanspruchten Weise zu kombinieren (Fischbissanzeiger, Airbag-Auslösesteuerung). Auch die generelle Eignung eines Lösungsmittels aus dem Fachwissen reicht nur, wenn der Fachmann ohne weiteres erkennt, dass es hier passt (BGH Kinderbett)."
+      ],
+      "merke": "Fachmann ist der Entwickler, nicht der Nutzer; Naheliegen braucht Anlass, nicht nur Bausteine.",
+      "level": 2,
+      "concepts": [
+       "pat_fachmann",
+       "pat_erfinderische_taetigkeit"
+      ],
+      "norms": [
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_fischbissanzeiger",
+       "pat_bgh_kinderbett",
+       "pat_bgh_airbag_ausloesesteuerung"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.4.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00b-4",
+      "typ": "fall",
+      "titel": "Teilaufgaben und Zerlegung",
+      "sachverhalt": "Die Prüfungsstelle zerlegt den Anspruch auf ein Papiermaschinengewebe in drei Merkmalsgruppen, ordnet jeder eine „Teilaufgabe“ zu und weist nach, dass jede Gruppe für sich aus einer anderen Schrift bekannt und naheliegend sei.",
+      "frage": "Ist damit die erfinderische Tätigkeit widerlegt?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Gegenstand der Erfindung darf nicht in Merkmalsgruppen mit Teilaufgaben zerlegt und gruppenweise als naheliegend beurteilt werden; maßgeblich ist, ob der Fachmann die Gesamtheit der Merkmale in ihrer Kombination nahegelegt bekam (BGH Papiermaschinengewebe). Die Zerlegung verkennt das Zusammenwirken der Merkmale und führt zur unzulässigen Rückschau.",
+       "Richtiger Weg: Vom nächstliegenden Stand der Technik ausgehend fragen, welches objektive Problem die Erfindung löst, und ob der Fachmann Anlass hatte, den Stand der Technik gerade so weiterzuentwickeln. Kritik in der Patentschrift an einem Lösungsweg kann dabei ein Indiz sein, das aber nicht überbewertet werden darf (BGH Gleitlagerüberwachung)."
+      ],
+      "merke": "Die Erfindung ist die Kombination; Teilaufgaben sind Rückschau in Scheiben.",
+      "level": 2,
+      "concepts": [
+       "pat_erfinderische_taetigkeit",
+       "pat_aufgabe_loesung"
+      ],
+      "norms": [
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_papiermaschinengewebe",
+       "pat_bgh_gleitlagerueberwachung"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.4.2",
+      "distinctions": []
+     },
+     {
+      "id": "p00b-5",
+      "typ": "fall",
+      "titel": "Die eigene Messe, sechs Monate vorher",
+      "sachverhalt": "Ein Start-up präsentiert seinen neuen Sensor auf einer regionalen Gewerbeschau und meldet ihn vier Monate später zum Patent an. Es beruft sich auf die Neuheitsschonfrist.",
+      "frage": "Rettet die Schonfrist des § 3 Abs. 5 PatG die Neuheit?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** § 3 Abs. 5 PatG nimmt Offenbarungen innerhalb von sechs Monaten vor der Anmeldung nur aus, wenn sie auf einem offensichtlichen Missbrauch zum Nachteil des Anmelders beruhen (Nr. 1) oder auf der Zurschaustellung auf einer amtlich anerkannten internationalen Ausstellung im Sinne des Abkommens von 1928 (Nr. 2), die bei der Anmeldung erklärt werden muss. Eine regionale Gewerbeschau ist keine solche Ausstellung; die eigene Präsentation ist Stand der Technik.",
+       "Der Ausweg heißt Gebrauchsmuster: § 3 Abs. 1 S. 3 GebrMG lässt eigene Beschreibungen und Benutzungen innerhalb von sechs Monaten vor dem Anmeldetag außer Betracht. Wer die Patentanmeldung eingereicht hat, kann daraus ein Gebrauchsmuster mit deren Zeitrang abzweigen (§ 5 GebrMG) und erhält zehn Jahre Schutz für den Sensor."
+      ],
+      "merke": "Patent kennt keine allgemeine Schonfrist; das Gebrauchsmuster schon.",
+      "level": 1,
+      "concepts": [
+       "pat_neuheit",
+       "pat_gebrauchsmuster",
+       "pat_gebrauchsmuster_abzweigung"
+      ],
+      "norms": [
+       "§ 3 Abs. 5 PatG",
+       "§ 145a PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentfaehigkeit.3.1",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p00c",
+    "titel": "Recht auf das Patent, Anmeldung, Erteilung",
+    "einheiten": [
+     {
+      "id": "p00c-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Anmeldung und Erteilung",
+      "schema": "pat_schema_anmeldung_erteilung",
+      "text": "Anmeldetag, Unterlagen und Gebühren, Priorität, Prüfungsantrag, Prüfungsverfahren, Erteilung.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "p00c-1",
+      "typ": "fall",
+      "titel": "Der Anmelder ist nicht der Erfinder",
+      "sachverhalt": "Ingenieur I entwickelt in seiner Freizeit eine Kupplung und zeigt sie seinem Bekannten B. B meldet die Kupplung im eigenen Namen zum Patent an; das DPMA erteilt das Patent.",
+      "frage": "Gilt B im Erteilungsverfahren als berechtigt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Im Verfahren vor dem DPMA gilt der Anmelder als berechtigt, die Erteilung zu verlangen (§ 7 Abs. 1 PatG); das Amt prüft die materielle Berechtigung nicht. Materiell steht das Recht auf das Patent aber dem Erfinder I zu (§ 6 PatG).",
+       "I hat drei Wege: Einspruch wegen widerrechtlicher Entnahme (§ 21 Abs. 1 Nr. 3, § 59 PatG, nur er als Verletzter) mit anschließender eigener Anmeldung unter dem Zeitrang des widerrufenen Patents (§ 7 Abs. 2); Klage auf Übertragung des Patents (§ 8 PatG, Vindikation) binnen zwei Jahren nach Veröffentlichung der Erteilung, bei Bösgläubigkeit des B unbefristet; und die Erfindernennung (§ 63). Wäre I Arbeitnehmer und die Erfindung Diensterfindung, ginge das Recht über die Inanspruchnahme auf den Arbeitgeber über (§§ 6, 7 ArbnErfG)."
+      ],
+      "merke": "Formell gilt der Anmelder, materiell der Erfinder: Einspruch Nr. 3 oder Vindikation nach § 8.",
+      "level": 1,
+      "concepts": [
+       "pat_recht_auf_patent"
+      ],
+      "norms": [
+       "§ 6 PatG",
+       "§ 7 PatG",
+       "§ 8 PatG",
+       "§ 21 Abs. 1 Nr. 3 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_einspruch.2.3",
+      "distinctions": []
+     },
+     {
+      "id": "p00c-2",
+      "typ": "mc",
+      "titel": "Mindesterfordernisse für den Anmeldetag",
+      "sachverhalt": "",
+      "frage": "Welche Unterlagen müssen beim DPMA eingegangen sein, damit die Anmeldung einen Anmeldetag erhält?",
+      "optionen": [
+       "Erteilungsantrag, Angaben zur Identität des Anmelders und eine Beschreibung (auch fremdsprachig)",
+       "Antrag, Ansprüche, Beschreibung, Zeichnungen und Zusammenfassung",
+       "Antrag und Zahlung der Anmeldegebühr",
+       "Antrag, Beschreibung und Erfinderbenennung"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "§ 35 Abs. 1 PatG verlangt für den Anmeldetag nur den Antrag, die Identität des Anmelders und Angaben, die dem Anschein nach als Beschreibung anzusehen sind, auch in fremder Sprache (Übersetzung binnen drei, bei Englisch oder Französisch zwölf Monaten, § 35a). Ansprüche, Zeichnungen (§ 35a Abs. 2: Nachreichung verschiebt den Anmeldetag), Zusammenfassung und Erfinderbenennung (15 Monate, § 37) sind nachholbar; die Gebühr (40 EUR elektronisch) ist binnen drei Monaten zu zahlen (§ 6 PatKostG), sonst Rücknahmefiktion.",
+       "Der Anmeldetag ist der wichtigste Tag im Leben des Patents: Zeitrang für Neuheit und Priorität, Beginn der Laufzeit (§ 16), der Prüfungsantragsfrist (§ 44) und der Jahresgebührenrechnung (§ 3 Abs. 2 PatKostG)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "pat_anmeldetag",
+       "pat_anmeldung"
+      ],
+      "norms": [
+       "§ 35 PatG",
+       "§ 35a PatG",
+       "§ 37 PatG",
+       "§ 6 PatKostG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_anmeldung_erteilung.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00c-3",
+      "typ": "fall",
+      "titel": "Prioritätsjahr und innere Priorität",
+      "sachverhalt": "Die Robotik AG meldet am 10.5.2024 in Deutschland einen Greifer an. Am 3.4.2025 meldet sie den verbesserten Greifer erneut in Deutschland an, nimmt die Priorität der ersten Anmeldung in Anspruch und erklärt sie fristgerecht.",
+      "frage": "Gilt die Anmeldung vom 10.5.2024 mit der Prioritätserklärung als zurückgenommen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Bei der inneren Priorität (§ 40 PatG) gilt die frühere deutsche Anmeldung mit der Abgabe der Prioritätserklärung als zurückgenommen (§ 40 Abs. 5 PatG). Die Nachanmeldung erhält für die schon offenbarten Merkmale den Zeitrang 10.5.2024, für die Verbesserungen den 3.4.2025.",
+       "Die Zwölfmonatsfrist (bis 10.5.2025) ist gewahrt; die Prioritätserklärung ist binnen 16 Monaten ab Prioritätstag abzugeben (§ 40 Abs. 2 i.V.m. § 41 Abs. 1). Bei ausländischer Priorität (§ 41 PatG, PVÜ) bleibt die Voranmeldung bestehen. Die Priorität deckt nur, was in der Voranmeldung als zur Erfindung gehörend offenbart ist (BGH Kommunikationskanal); eine Wiedereinsetzung in die Prioritätsfrist ist ausgeschlossen (§ 123 Abs. 1 S. 2)."
+      ],
+      "merke": "Innere Priorität kostet die Voranmeldung; äußere nicht. Zwölf Monate, Erklärung binnen 16.",
+      "level": 2,
+      "concepts": [
+       "pat_prioritaet"
+      ],
+      "norms": [
+       "§ 40 PatG",
+       "§ 41 PatG",
+       "§ 123 Abs. 1 PatG"
+      ],
+      "cases": [
+       "pat_bgh_kommunikationskanal"
+      ],
+      "step": "step:pat_schema_anmeldung_erteilung.2.3",
+      "distinctions": []
+     },
+     {
+      "id": "p00c-4",
+      "typ": "fall",
+      "titel": "Sieben Jahre Zeit für den Prüfungsantrag",
+      "sachverhalt": "Die Solar GmbH meldet 2019 eine Zelle an, zahlt brav die Jahresgebühren, stellt aber keinen Prüfungsantrag. 2027 will sie das Patent erteilt haben.",
+      "frage": "Kann die Solar GmbH 2027 noch Prüfungsantrag stellen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Prüfungsantrag ist bis zum Ablauf von sieben Jahren nach Einreichung der Anmeldung zu stellen (§ 44 Abs. 2 PatG); wird er nicht gestellt, gilt die Anmeldung als zurückgenommen (§ 44 Abs. 4). Die Jahresgebühren halten die Anmeldung nur bis dahin am Leben.",
+       "Das Verfahren bis zur Erteilung: Offensichtlichkeitsprüfung von Amts wegen (§ 42), Rechercheantrag optional (§ 43, 300 EUR), Prüfungsantrag (350 EUR, 150 EUR nach Recherche) auch durch Dritte (§ 44 Abs. 2 S. 2), Prüfungsbescheide mit rechtlichem Gehör (§ 45), Erteilung (§ 49) oder Zurückweisung (§ 48) mit Beschwerde (§ 73) oder Weiterbehandlung (§ 123a). Wiedereinsetzung in die Prüfungsantragsfrist ist möglich, aber nur ohne Verschulden."
+      ],
+      "merke": "Ohne Prüfungsantrag binnen sieben Jahren stirbt die Anmeldung, Jahresgebühren hin oder her.",
+      "level": 1,
+      "concepts": [
+       "pat_pruefungsverfahren",
+       "pat_fristen"
+      ],
+      "norms": [
+       "§ 44 PatG",
+       "§ 42 PatG",
+       "§ 43 PatG",
+       "§ 48 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_anmeldung_erteilung.3",
+      "distinctions": []
+     },
+     {
+      "id": "p00c-5",
+      "typ": "fall",
+      "titel": "Änderung im Prüfungsverfahren",
+      "sachverhalt": "Nach einem Bescheid nimmt der Anmelder ein Merkmal aus einem Ausführungsbeispiel in den Anspruch auf, lässt aber zwei weitere Merkmale desselben Beispiels weg, die die Beschreibung als zwingend zusammengehörig darstellt.",
+      "frage": "Ist die Änderung zulässig?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Änderungen dürfen den Gegenstand der Anmeldung nicht über den Inhalt der ursprünglichen Fassung hinaus erweitern (§ 38 S. 1 PatG). Wird aus einem Ausführungsbeispiel nur ein Merkmal herausgegriffen, das nach der Beschreibung nur zusammen mit anderen wirkt, ist die Zwischenverallgemeinerung nicht offenbart; der Fachmann entnimmt sie den Unterlagen nicht unmittelbar und eindeutig (BGH Hubgliedertor I). Zulässig wäre sie nur, wenn die Beschreibung das Merkmal als für sich erfindungswesentlich erkennen lässt (Einkaufswagen II).",
+       "Wird das Patent trotzdem so erteilt, ist die unzulässige Erweiterung Widerrufs- und Nichtigkeitsgrund (§ 21 Abs. 1 Nr. 4, § 22). Vor der Prüfung ist der geänderte Anspruch auszulegen (BGH Rotorelemente). Beschränkt das nicht offenbarte Merkmal nur, bleibt es im Anspruch, wird aber bei der Patentfähigkeit nicht berücksichtigt (Winkelmesseinrichtung); ein Aliud führt zum Widerruf."
+      ],
+      "merke": "Aus dem Beispiel nur mit allen zusammengehörigen Merkmalen: keine Zwischenverallgemeinerung.",
+      "level": 2,
+      "concepts": [
+       "pat_unzulaessige_erweiterung",
+       "pat_offenbarung"
+      ],
+      "norms": [
+       "§ 38 PatG",
+       "§ 21 Abs. 1 Nr. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_hubgliedertor_i",
+       "pat_bgh_einkaufswagen_ii",
+       "pat_bgh_rotorelemente"
+      ],
+      "step": "step:pat_schema_anmeldung_erteilung.4.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00c-6",
+      "typ": "fall",
+      "titel": "Entschädigung ab Offenlegung",
+      "sachverhalt": "Die Anmeldung der Pumpen AG wird am 1.2.2025 offengelegt. Ab März 2025 vertreibt die Kopie GmbH baugleiche Pumpen, obwohl sie die Offenlegungsschrift kennt. Das Patent wird erst 2028 erteilt.",
+      "frage": "Kann die Pumpen AG die Kopie GmbH 2026 auf Unterlassung in Anspruch nehmen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Vor der Veröffentlichung der Erteilung (§ 58 Abs. 1) bestehen keine Verletzungsansprüche nach § 139 PatG. Für die Zeit ab Offenlegung gewährt § 33 Abs. 1 PatG nur einen Anspruch auf angemessene Entschädigung gegen den, der den Gegenstand benutzt, obwohl er wusste oder wissen musste, dass die Erfindung angemeldet ist; die Kopie GmbH kannte die Offenlegungsschrift.",
+       "Die Entschädigung bemisst sich nach einer angemessenen Lizenzgebühr; sie kann erst nach Erteilung gerichtlich durchgesetzt werden, bis dahin läuft die Verjährung nicht (§ 33 Abs. 3). Nach Erteilung bestehen Unterlassung, Schadensersatz und die Nebenansprüche ab dem Tag der Veröffentlichung der Erteilung. Schnellerer Schutz: Gebrauchsmuster abzweigen (§ 5 GebrMG), das mit Eintragung Unterlassungsansprüche vermittelt (§ 24 GebrMG)."
+      ],
+      "merke": "Offenlegung gibt Entschädigung, Erteilung gibt Unterlassung; dazwischen hilft das Gebrauchsmuster.",
+      "level": 1,
+      "concepts": [
+       "pat_akteneinsicht",
+       "pat_unterlassung",
+       "pat_gebrauchsmuster_abzweigung"
+      ],
+      "norms": [
+       "§ 33 PatG",
+       "§ 58 PatG",
+       "§ 139 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentverletzung.5.1",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p00d",
+    "titel": "Schutzbereich, Auslegung, Äquivalenz",
+    "einheiten": [
+     {
+      "id": "p00d-0",
+      "typ": "intro",
+      "titel": "Der Anspruch bestimmt den Schutzbereich",
+      "text": "Der Schutzbereich wird durch die **Patentansprüche** bestimmt; Beschreibung und Zeichnungen sind zur Auslegung heranzuziehen (§ 14 PatG, Art. 69 EPÜ mit Auslegungsprotokoll). Auslegung heißt: den technischen Sinngehalt jedes Merkmals aus der Sicht des Fachmanns im Gesamtzusammenhang ermitteln, mit der Patentschrift als eigenem Lexikon (BGH Kunststoffrohrteil); Ausführungsbeispiele beschränken nicht (Bodenseitige Vereinzelungseinrichtung), bei Widersprüchen gehen die Ansprüche vor (Okklusionsvorrichtung), die Abgrenzung vom beschriebenen Stand der Technik ist zu berücksichtigen (Scheinwerferbelüftungssystem).\n\nVerletzt wird **wortsinngemäß**, wenn alle Merkmale im ausgelegten Sinn verwirklicht sind, und **äquivalent**, wenn ein abgewandeltes Mittel die drei Schneidmesser-Fragen besteht: Gleichwirkung (gerade die Wirkung des ersetzten Merkmals), Auffindbarkeit ohne erfinderische Überlegungen, Gleichwertigkeit (Orientierung am Anspruch). Wer in der Beschreibung mehrere Wege zeigt und nur einen beansprucht, bekommt den anderen nicht über die Äquivalenz zurück (Okklusionsvorrichtung, Pemetrexed). Der Formstein-Einwand schließt Äquivalenz aus, wenn die Ausführung zum Stand der Technik gehört.",
+      "concepts": [
+       "pat_schutzbereich",
+       "pat_auslegung",
+       "pat_aequivalenz"
+      ],
+      "norms": [
+       "§ 14 PatG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_wortsinn_aequivalenz"
+      ]
+     },
+     {
+      "id": "p00d-1",
+      "typ": "fall",
+      "titel": "Die Zahl im Anspruch",
+      "sachverhalt": "Der Anspruch verlangt einen Schneidmesserwinkel von „9° bis 12°“. Die angegriffene Ausführung hat 8,5°, erreicht denselben Schnitteffekt, und ein Fachmann hätte die Abweichung ohne weiteres als gleichwirkend erkannt.",
+      "frage": "Kann eine Zahlenangabe äquivalent verletzt werden?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, grundsätzlich.** Zahlen- und Maßangaben bestimmen den Schutzgegenstand mit und begrenzen ihn, sind aber wie jedes andere Merkmal auszulegen; auch sie können äquivalent verletzt werden, wenn Gleichwirkung, Auffindbarkeit und Gleichwertigkeit vorliegen (BGH Schneidmesser I, Custodiol II).",
+       "Praktisch ist die Hürde hoch: Der Fachmann versteht eine Zahlenangabe regelmäßig als bewusste Festlegung des Patentinhabers, so dass Abweichungen selten als gleichwertig gelten; je exakter und je stärker begründet die Angabe, desto weniger Raum für Äquivalenz. Hat der Inhaber die Zahl im Erteilungsverfahren zur Abgrenzung vom Stand der Technik gewählt, spricht das gegen Gleichwertigkeit, obwohl Vorgänge im Erteilungsverfahren grundsätzlich nicht heranzuziehen sind (Kunststoffrohrteil)."
+      ],
+      "merke": "Zahlen sind auslegbar und äquivalenzfähig, aber der Fachmann nimmt sie beim Wort.",
+      "level": 2,
+      "concepts": [
+       "pat_aequivalenz",
+       "pat_schutzbereich"
+      ],
+      "norms": [
+       "§ 14 PatG"
+      ],
+      "cases": [
+       "pat_bgh_schneidmesser_i",
+       "pat_bgh_custodiol_ii",
+       "pat_bgh_kunststoffrohrteil"
+      ],
+      "step": "step:pat_schema_patentverletzung.2.3",
+      "distinctions": []
+     },
+     {
+      "id": "p00d-2",
+      "typ": "fall",
+      "titel": "Die Auswahlentscheidung",
+      "sachverhalt": "Die Beschreibung des Patents nennt zwei Möglichkeiten, eine Okklusionsvorrichtung zu befestigen: Klemmen oder Verschweißen. Beansprucht ist nur das Klemmen. Die Beklagte verschweißt.",
+      "frage": "Liegt eine äquivalente Verletzung vor?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Offenbart die Beschreibung mehrere Möglichkeiten, eine technische Wirkung zu erzielen, ist aber nur eine in den Anspruch aufgenommen, so ist die Benutzung der anderen keine äquivalente Verletzung: Der Fachmann orientiert sich am Anspruch und entnimmt der Auswahl, dass der Inhaber auf die nicht beanspruchte Variante verzichtet hat; es fehlt die Gleichwertigkeit (BGH Okklusionsvorrichtung, Diglycidverbindung).",
+       "Grenzen: Nennt die Beschreibung einen Weg nur beispielhaft und erkennt der Fachmann die Abwandlung als gleichwertige Verwirklichung der allgemeinen Lehre, kann Äquivalenz vorliegen; und für Abwandlungen, die die Beschreibung gar nicht anspricht, gilt der Ausschluss nicht (BGH Pemetrexed). Auch die Gleichwirkung muss sich gerade auf die Wirkung des ersetzten Merkmals beziehen (Palettenbehälter III)."
+      ],
+      "merke": "Wer die Wahl hatte und gewählt hat, hat verzichtet.",
+      "level": 2,
+      "concepts": [
+       "pat_aequivalenz"
+      ],
+      "norms": [
+       "§ 14 PatG"
+      ],
+      "cases": [
+       "pat_bgh_okklusionsvorrichtung",
+       "pat_bgh_diglycidverbindung",
+       "pat_bgh_pemetrexed",
+       "pat_bgh_palettenbehaelter_iii"
+      ],
+      "step": "step:pat_schema_patentverletzung.2.3",
+      "distinctions": []
+     },
+     {
+      "id": "p00d-3",
+      "typ": "fall",
+      "titel": "Zweckangabe im Erzeugnisanspruch",
+      "sachverhalt": "Der Anspruch lautet auf einen „Katheter zur Bildunterstützung bei der Navigation“. Die Beklagte vertreibt einen baugleichen Katheter, wirbt aber nur für die Verwendung als Drainage.",
+      "frage": "Verletzt die Beklagte den Anspruch?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Zweck-, Wirkungs- und Funktionsangaben in einem Erzeugnisanspruch beschränken den Gegenstand nicht auf die Verwendung zu diesem Zweck; sie verlangen nur, dass das Erzeugnis so ausgebildet ist, dass es die Funktion erfüllen kann (BGH Bildunterstützung bei Katheternavigation). Der baugleiche Katheter ist objektiv geeignet; die beworbene Verwendung ist unerheblich.",
+       "Anders bei Verwendungsansprüchen und der zweiten medizinischen Indikation (§ 3 Abs. 4): Dort ist der Zweck schutzbegründend, und verletzt wird nur, wer das Erzeugnis für diesen Zweck sinnfällig herrichtet (Beipackzettel, Dosierung). Bei Verfahrensansprüchen ist durch Auslegung zu klären, ob die Zweckangabe das Verfahren definiert oder nur beispielhaft ist (BGH Referenzkontur)."
+      ],
+      "merke": "Beim Erzeugnis genügt die Eignung; beim Verwendungsanspruch braucht es die Herrichtung.",
+      "level": 2,
+      "concepts": [
+       "pat_zweckangabe",
+       "pat_auslegung"
+      ],
+      "norms": [
+       "§ 14 PatG",
+       "§ 3 Abs. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_bildunterstuetzung_katheternavigation",
+       "pat_bgh_referenzkontur"
+      ],
+      "step": "step:pat_schema_patentverletzung.2.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00d-4",
+      "typ": "fall",
+      "titel": "Das Verletzungsgericht und die Auslegung des BPatG",
+      "sachverhalt": "Das BPatG hat im Nichtigkeitsverfahren ein Merkmal des Klagepatents eng ausgelegt und das Patent so aufrechterhalten. Das Landgericht legt im Verletzungsprozess weiter aus und bejaht die Verletzung.",
+      "frage": "Darf das Verletzungsgericht von der Auslegung des BPatG abweichen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Das Verletzungsgericht legt das Klagepatent selbständig aus und ist an die Auslegung im Nichtigkeitsverfahren weder rechtlich noch tatsächlich gebunden; es muss sich mit ihr aber auseinandersetzen und Abweichungen begründen (BGH Kreuzgestänge). Hintergrund ist das Trennungsprinzip: Verletzung und Rechtsbestand werden von verschiedenen Gerichten geprüft.",
+       "Das Spannungsverhältnis löst die Praxis über die Aussetzung (§ 148 ZPO) und über die Regel, dass Auslegung Rechtsfrage ist: Im Nichtigkeitsverfahren muss das Urteil die Auslegung erkennen lassen (BGH Polymerschaum), und der BGH als Berufungsgericht in Nichtigkeitssachen und Revisionsgericht in Verletzungssachen sorgt für Einheitlichkeit."
+      ],
+      "merke": "Trennungsprinzip: eigene Auslegung, aber Begründungspflicht bei Abweichung.",
+      "level": 3,
+      "concepts": [
+       "pat_auslegung",
+       "pat_trennungsprinzip"
+      ],
+      "norms": [
+       "§ 14 PatG",
+       "§ 143 PatG"
+      ],
+      "cases": [
+       "pat_bgh_kreuzgestaenge",
+       "pat_bgh_polymerschaum"
+      ],
+      "step": "step:pat_schema_patentverletzung.2.1",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p00e",
+    "titel": "Verletzung, Schranken, Rechtsfolgen",
+    "einheiten": [
+     {
+      "id": "p00e-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Patentverletzung",
+      "schema": "pat_schema_patentverletzung",
+      "text": "Aktivlegitimation, Schutzbereich, Benutzungshandlung, Einwendungen, Rechtsfolgen.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "p00e-1",
+      "typ": "mc",
+      "titel": "Welche Handlung ist keine Benutzung nach § 9 PatG?",
+      "sachverhalt": "",
+      "frage": "Die Firma F bietet einen patentierten Filter in Deutschland an, ohne ihn je geliefert zu haben; die Firma G besitzt zehn Filter im Lager für den Export; die Firma H stellt eine Vorrichtung sinnfällig her, mit der das patentierte Verfahren ausgeführt werden kann. Wer benutzt die Erfindung unmittelbar?",
+      "optionen": [
+       "F (Anbieten) und G (Besitzen zu den genannten Zwecken); H nicht, weil die Herrichtung einer Vorrichtung noch keine Anwendung des Verfahrens ist",
+       "Nur F",
+       "F, G und H",
+       "Nur G, weil Anbieten ohne Lieferung nicht zählt"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "§ 9 S. 2 Nr. 1 PatG verbietet für Erzeugnisse Herstellen, Anbieten, Inverkehrbringen, Gebrauchen, Einführen und Besitzen zu diesen Zwecken; jede Handlung ist selbständig verletzend. Anbieten erfasst jede Handlung, die die Nachfrage weckt, auch Werbung ohne Lieferbereitschaft. Besitzen zum Zweck des Inverkehrbringens oder der Ausfuhr ist erfasst. Für Verfahren (Nr. 2) sind Anwenden und Anbieten zur Anwendung verboten; die sinnfällige Herrichtung einer Vorrichtung ist noch keine Anwendung (BGH Abgasreinigungsvorrichtung), kann aber Anbieten zur Anwendung oder mittelbare Verletzung (§ 10) sein.",
+       "Nr. 3 erstreckt den Verfahrensschutz auf das unmittelbare Verfahrenserzeugnis: das Produkt am Ende des Verfahrens, nicht ein später weiterverarbeitetes (Wasserdichter Lederschuh) und keine bloße Datenfolge (Rezeptortyrosinkinase II)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "pat_benutzungshandlungen",
+       "pat_verfahrenserzeugnis"
+      ],
+      "norms": [
+       "§ 9 PatG"
+      ],
+      "cases": [
+       "pat_bgh_abgasreinigungsvorrichtung",
+       "pat_bgh_wasserdichter_lederschuh",
+       "pat_bgh_rezeptortyrosinkinase_ii"
+      ],
+      "step": "step:pat_schema_patentverletzung.3.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00e-2",
+      "typ": "fall",
+      "titel": "Der Flügelradzähler-Lieferant",
+      "sachverhalt": "Die Z-GmbH liefert Zählergehäuse, die für sich genommen nicht patentiert sind, an Installateure. Die Gehäuse sind nach Konstruktion und Bewerbung dafür bestimmt, mit einem bestimmten Flügelrad zu dem patentierten Wasserzähler zusammengebaut zu werden, was die Z-GmbH weiß.",
+      "frage": "Verletzt die Z-GmbH das Patent mittelbar?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Mittelbare Verletzung (§ 10 Abs. 1 PatG) setzt voraus, dass Mittel, die sich auf ein wesentliches Element der Erfindung beziehen, an Nichtberechtigte zur Benutzung im Inland angeboten oder geliefert werden, und dass der Lieferant weiß oder es offensichtlich ist, dass die Mittel zur Benutzung geeignet und bestimmt sind. Ein Mittel bezieht sich auf ein wesentliches Element, wenn es mit Anspruchsmerkmalen funktional zusammenwirkt (BGH Flügelradzähler); das Gehäuse tut das.",
+       "Allgemein im Handel erhältliche Erzeugnisse (Schrauben, Standardteile) sind nur erfasst, wenn der Lieferant den Abnehmer bewusst zur Verletzung veranlasst (§ 10 Abs. 2). Die mittelbare Verletzung ist ein eigener Tatbestand, keine Teilnahme; Unterlassung besteht unabhängig davon, ob die Abnehmer schon verletzt haben, Schadensersatz setzt die Wahrscheinlichkeit unmittelbarer Benutzung voraus (BGH Fräsverfahren)."
+      ],
+      "merke": "Wesentliches Element = funktionales Zusammenwirken; doppelter Inlandsbezug; Standardware nur bei Veranlassung.",
+      "level": 2,
+      "concepts": [
+       "pat_mittelbare_verletzung"
+      ],
+      "norms": [
+       "§ 10 PatG"
+      ],
+      "cases": [
+       "pat_bgh_fluegelradzaehler",
+       "pat_bgh_fraesverfahren"
+      ],
+      "step": "step:pat_schema_patentverletzung.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p00e-3",
+      "typ": "fall",
+      "titel": "Reparatur oder Neuherstellung?",
+      "sachverhalt": "Der patentierte Palettenbehälter besteht aus Gitterkorb, Palette und Kunststoff-Innenbehälter. Ein Rekonditionierer tauscht bei gebrauchten Behältern den Innenbehälter gegen einen eigenen aus und verkauft sie weiter. Die erfinderische Leistung liegt nach der Patentschrift im Gitterkorb.",
+      "frage": "Ist der Austausch des Innenbehälters vom Erschöpfungsgrundsatz gedeckt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Mit dem Inverkehrbringen durch den Patentinhaber ist das Patentrecht an dem Behälter erschöpft; bestimmungsgemäßer Gebrauch einschließlich Reparatur ist frei, Neuherstellung nicht. Gehört der Austausch eines Teils zum bestimmungsgemäßen Gebrauch, ist er zulässig, es sei denn, gerade in dem ausgetauschten Teil verkörpern sich die technischen Wirkungen der Erfindung (BGH Palettenbehälter II). Der Innenbehälter ist Verschleißteil, die Erfindung steckt im Gitterkorb.",
+       "Zweistufige Prüfung nach BGH Trommeleinheit: erst die Verkehrsauffassung, ob der Austausch üblicher Erhalt ist; dann, ob die technischen Wirkungen der Erfindung im ausgetauschten Teil liegen. Keine internationale Erschöpfung: Wer außerhalb des EWR in Verkehr gebrachte Ware nach Deutschland importiert, verletzt (BGH Tintenpatrone)."
+      ],
+      "merke": "Erschöpfung deckt Reparatur, nicht Neuherstellung; entscheidend ist, wo die Erfindung steckt.",
+      "level": 2,
+      "concepts": [
+       "pat_erschoepfung"
+      ],
+      "norms": [
+       "§ 9 PatG"
+      ],
+      "cases": [
+       "pat_bgh_palettenbehaelter_ii",
+       "pat_bgh_trommeleinheit",
+       "pat_bgh_tintenpatrone"
+      ],
+      "step": "step:pat_schema_patentverletzung.4.2",
+      "distinctions": []
+     },
+     {
+      "id": "p00e-4",
+      "typ": "mc",
+      "titel": "Schranken und Vorbenutzungsrecht",
+      "sachverhalt": "",
+      "frage": "Welche Handlung fällt nicht unter eine Schranke des § 11 oder § 12 PatG?",
+      "optionen": [
+       "Die gewerbliche Herstellung des patentierten Wirkstoffs für den Verkauf an Apotheken",
+       "Klinische Versuche mit dem patentierten Wirkstoff, um Erkenntnisse über seine Wirkung zu gewinnen",
+       "Studien zur Erlangung einer arzneimittelrechtlichen Zulassung (Bolar)",
+       "Die Weiterbenutzung durch einen Betrieb, der die Erfindung schon vor dem Prioritätstag im Inland benutzt hat"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "§ 11 PatG nimmt Handlungen im privaten Bereich (Nr. 1), Versuche, die sich auf den Gegenstand der Erfindung beziehen (Nr. 2; auch klinische Versuche zur Erkenntnisgewinnung, BGH Klinische Versuche I und II), Bolar-Studien (Nr. 2b), Einzelzubereitungen in Apotheken (Nr. 3) sowie Schiffe, Luft- und Landfahrzeuge im Transit (Nr. 4 bis 6) aus. Das Vorbenutzungsrecht (§ 12) schützt, wer am Prioritätstag Erfindungsbesitz hatte und die Erfindung im Inland benutzte oder Veranstaltungen dazu getroffen hatte; es ist nur mit dem Betrieb übertragbar.",
+       "Die gewerbliche Herstellung zum Verkauf ist der Kernfall der Verletzung. Weitere Einwendungen: Erschöpfung, Lizenz (§ 15), Lizenzbereitschaft (§ 23), Zwangslizenz (§ 24, nur durch Urteil), kartellrechtlicher FRAND-Einwand bei standardessentiellen Patenten, Verjährung (§ 141) und der Verhältnismäßigkeitseinwand gegen den Unterlassungsanspruch (§ 139 Abs. 1 S. 3)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "pat_schranken",
+       "pat_vorbenutzungsrecht"
+      ],
+      "norms": [
+       "§ 11 PatG",
+       "§ 12 PatG",
+       "§ 24 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentverletzung.4.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00e-5",
+      "typ": "fall",
+      "titel": "Unterlassung trotz Härte?",
+      "sachverhalt": "Ein Patent auf eine Funkkomponente wird von einem Fahrzeughersteller verletzt; die Komponente macht 0,1 % des Fahrzeugwerts aus, ein Umbau würde die Produktion monatelang stoppen. Der Inhaber, ein reiner Patentverwerter, verlangt sofortige Unterlassung.",
+      "frage": "Kann der Hersteller den Unterlassungsanspruch ganz oder teilweise abwehren?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, unter engen Voraussetzungen.** Seit 2021 ist der Unterlassungsanspruch ausgeschlossen, soweit seine Durchsetzung wegen der besonderen Umstände des Einzelfalls und der Gebote von Treu und Glauben für den Verletzer oder Dritte zu einer unverhältnismäßigen, durch das Ausschließlichkeitsrecht nicht gerechtfertigten Härte führen würde (§ 139 Abs. 1 S. 3 PatG); der Inhaber erhält dann einen Ausgleich in Geld (S. 4). Typische Fälle: komplexe Produkte mit geringem Anteil der Erfindung, drohende Produktionsstillstände, Interessen Dritter; Ergebnis meist eine Aufbrauch- oder Umstellungsfrist statt Anspruchsausschluss.",
+       "Der Anspruch bleibt verschuldensunabhängig; Wiederholungsgefahr wird durch die Verletzung vermutet, Erstbegehungsgefahr genügt (S. 2). Umsetzung von Art. 3 Abs. 2 Durchsetzungsrichtlinie; vor dem EPG gilt Art. 63 EPGÜ mit ähnlichem Ermessen."
+      ],
+      "merke": "Verhältnismäßigkeit als Ausnahme: Aufbrauchfrist und Geldausgleich statt sofortigem Stopp.",
+      "level": 2,
+      "concepts": [
+       "pat_unterlassung"
+      ],
+      "norms": [
+       "§ 139 Abs. 1 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentverletzung.5.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00e-6",
+      "typ": "fall",
+      "titel": "Drei Wege zum Schadensersatz",
+      "sachverhalt": "Die Verletzerin hat mit dem patentverletzenden Bauteil 2 Mio. EUR Umsatz und 300.000 EUR Gewinn gemacht; übliche Lizenzsätze in der Branche liegen bei 5 %. Die Inhaberin hat keinen eigenen Umsatzrückgang nachweisen können.",
+      "frage": "Kann die Inhaberin den Verletzergewinn von 300.000 EUR verlangen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, soweit er auf der Verletzung beruht.** Bei Verschulden (§ 139 Abs. 2 PatG; Fahrlässigkeit wird bei gewerblichen Verletzern regelmäßig bejaht) kann die Inhaberin zwischen konkretem Schaden, Herausgabe des Verletzergewinns (S. 2) und angemessener Lizenzgebühr (S. 3, hier 100.000 EUR) wählen. Der Verletzergewinn ist nur insoweit herauszugeben, wie er kausal auf der Benutzung der Erfindung beruht; bei einem Bauteil in einem komplexen Produkt ist der Anteil zu schätzen (§ 287 ZPO).",
+       "Zur Bezifferung dienen der Auskunftsanspruch (§ 140b PatG) und die Rechnungslegung aus § 242 BGB, typischerweise als Stufenklage mit Feststellung der Schadensersatzpflicht. Verjährung drei Jahre ab Kenntnis (§ 141 PatG i.V.m. §§ 195, 199 BGB), danach Restschadensersatz nach § 852 BGB. Daneben Vernichtung und Rückruf (§ 140a), Besichtigung (§ 140c) und Urteilsbekanntmachung (§ 140e)."
+      ],
+      "merke": "Wahlrecht: Schaden, Verletzergewinn oder Lizenzanalogie; erst Auskunft, dann Bezifferung.",
+      "level": 2,
+      "concepts": [
+       "pat_schadensersatz",
+       "pat_rechtsfolgen_nebenanspruche"
+      ],
+      "norms": [
+       "§ 139 Abs. 2 PatG",
+       "§ 140b PatG",
+       "§ 141 PatG"
+      ],
+      "cases": [
+       "pat_bgh_fraesverfahren"
+      ],
+      "step": "step:pat_schema_patentverletzung.5.2",
+      "distinctions": []
+     },
+     {
+      "id": "p00e-7",
+      "typ": "fall",
+      "titel": "Aussetzung wegen der Nichtigkeitsklage",
+      "sachverhalt": "Die Beklagte hat gegen das Klagepatent Nichtigkeitsklage erhoben und legt dem Landgericht eine Druckschrift vor, die nach ihrer Auffassung alle Merkmale zeigt. Sie beantragt, den Verletzungsprozess auszusetzen.",
+      "frage": "Muss das Landgericht aussetzen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein, es kann.** Das Verletzungsgericht prüft den Rechtsbestand nicht (Trennungsprinzip); es kann den Rechtsstreit nach § 148 ZPO aussetzen, wenn die Vernichtung des Patents hinreichend, nach der Praxis überwiegend, wahrscheinlich ist. Die Aussetzung ist Ermessensentscheidung und wegen des Zeitverlusts für den Inhaber die Ausnahme; eine einzelne Druckschrift genügt, wenn sie die Neuheit klar in Frage stellt.",
+       "In der Berufung und im Nichtzulassungsbeschwerdeverfahren ist der Maßstab großzügiger, und auch eine erst nach dem Berufungsurteil erhobene Nichtigkeitsklage kann ausnahmsweise zur Aussetzung führen (BGH Klimaschrank, Adalimumab). Vor dem EPG entfällt das Problem: Dort kann der Beklagte Widerklage auf Nichtigerklärung erheben (Art. 33 Abs. 3 EPGÜ)."
+      ],
+      "merke": "Kein Nichtigkeitseinwand, nur Aussetzung: Ermessen bei überwiegender Vernichtungswahrscheinlichkeit.",
+      "level": 2,
+      "concepts": [
+       "pat_aussetzung",
+       "pat_trennungsprinzip"
+      ],
+      "norms": [
+       "§ 81 PatG",
+       "§ 143 PatG"
+      ],
+      "cases": [
+       "pat_bgh_klimaschrank",
+       "pat_bgh_adalimumab"
+      ],
+      "step": "step:pat_schema_patentverletzung.4.4",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p00f",
+    "titel": "Einspruch, Beschränkung, Nichtigkeit, Zwangslizenz",
+    "einheiten": [
+     {
+      "id": "p00f-0",
+      "typ": "intro",
+      "titel": "Zwei Wege gegen den Rechtsbestand",
+      "text": "Binnen **neun Monaten** nach Veröffentlichung der Erteilung kann jedermann **Einspruch** beim DPMA einlegen (§ 59 PatG, 200 EUR je Einsprechender, Begründung mit Tatsachen im Einzelnen); die Patentabteilung widerruft, erhält aufrecht oder erhält beschränkt aufrecht (§ 61), dagegen Beschwerde zum Technischen Beschwerdesenat (§ 73, 500 EUR) und Rechtsbeschwerde zum BGH (§ 100). Danach bleibt die **Nichtigkeitsklage** vor dem BPatG (§ 81, Popularklage, 4,5 Wertgebühren, Berufung zum BGH nach § 110); während des Einspruchs ist sie gesperrt (§ 81 Abs. 2).\n\nDie Gründe sind gleich: fehlende Patentfähigkeit, mangelnde Ausführbarkeit, widerrechtliche Entnahme (nur der Verletzte), unzulässige Erweiterung (§ 21 Abs. 1) und bei der Nichtigkeit zusätzlich die Erweiterung des Schutzbereichs nach Erteilung (§ 22 Abs. 1). Der Katalog ist abschließend: mangelnde Klarheit ist kein Grund (BGH Fugenband). Der Inhaber kann sich mit **beschränkten Ansprüchen** (Hilfsanträgen) verteidigen (§ 21 Abs. 2, § 22 Abs. 2) oder das Patent selbst beim DPMA beschränken (§ 64). Für den deutschen Teil eines europäischen Patents gilt Art. II § 6 IntPatÜG mit den Gründen des Art. 138 EPÜ, sofern nicht das EPG zuständig ist.",
+      "concepts": [
+       "pat_einspruch",
+       "pat_nichtigkeitsklage",
+       "pat_widerrufsgruende",
+       "pat_nichtigkeitsgruende",
+       "pat_beschraenkte_verteidigung"
+      ],
+      "norms": [
+       "§ 59 PatG",
+       "§ 21 PatG",
+       "§ 22 PatG",
+       "§ 81 PatG",
+       "§ 64 PatG",
+       "Art. II § 6 IntPatÜG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_einspruch_nichtigkeit",
+       "d_pat_widerruf_nichtigkeit_beschraenkung"
+      ]
+     },
+     {
+      "id": "p00f-1",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Einspruch",
+      "schema": "pat_schema_einspruch",
+      "text": "Frist, Form, Gebühr, Substantiierung, Beitritt; Widerrufsgründe; Entscheidung; Beschwerde.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "p00f-2",
+      "typ": "fall",
+      "titel": "Der unklare Anspruch als Nichtigkeitsgrund?",
+      "sachverhalt": "Die Nichtigkeitsklägerin rügt, der Anspruch sei so unklar formuliert, dass der Fachmann nicht wisse, wo der Schutz endet; der Inhaber verteidigt das Patent beschränkt mit Merkmalen aus einem erteilten Unteranspruch.",
+      "frage": "Kann das Patent wegen mangelnder Klarheit für nichtig erklärt werden?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Nichtigkeitsgründe des § 22 PatG (und Art. 138 EPÜ) sind abschließend; mangelnde Klarheit (§ 34 Abs. 3 Nr. 3 PatG, Art. 84 EPÜ) gehört nicht dazu. Unklarheiten sind durch Auslegung zu bewältigen. Auch bei beschränkter Verteidigung ist die Klarheit jedenfalls nicht zu prüfen, wenn die aufgenommenen Merkmale bereits in erteilten Ansprüchen enthalten waren (BGH Fugenband; BPatG Kaffeemaschine).",
+       "Grenzen der beschränkten Verteidigung: keine unzulässige Erweiterung (§ 38), keine Erweiterung des Schutzbereichs (§ 22 Abs. 1 Alt. 2), Aufnahme von Merkmalen aus der Beschreibung ist zulässig, wenn sie ursprünglich als zur Erfindung gehörend offenbart sind. Bei mehreren nebengeordneten Ansprüchen ist über jeden angegriffenen Anspruch gesondert zu entscheiden (BGH Sensoranordnung)."
+      ],
+      "merke": "Klarheit ist Erteilungsvoraussetzung, kein Vernichtungsgrund.",
+      "level": 2,
+      "concepts": [
+       "pat_nichtigkeitsgruende",
+       "pat_beschraenkte_verteidigung"
+      ],
+      "norms": [
+       "§ 22 PatG",
+       "Art. II § 6 Abs. 3 IntPatÜG"
+      ],
+      "cases": [
+       "pat_bgh_fugenband",
+       "pat_bpatg_kaffeemaschine",
+       "pat_bgh_sensoranordnung"
+      ],
+      "step": "step:pat_schema_nichtigkeitsklage.2",
+      "distinctions": []
+     },
+     {
+      "id": "p00f-3",
+      "typ": "fall",
+      "titel": "Der qualifizierte Hinweis und die Präklusion",
+      "sachverhalt": "Das BPatG teilt im Hinweis nach § 83 Abs. 1 PatG mit, dass es den Neuheitsangriff der Klägerin für unbegründet hält, und setzt eine Frist. Die Klägerin bringt erst in der mündlichen Verhandlung eine neue Druckschrift, die sie schon lange kannte.",
+      "frage": "Kann das Gericht die neue Druckschrift zurückweisen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Nach Ablauf der gesetzten Frist vorgebrachte Angriffsmittel kann das Patentgericht zurückweisen, wenn ihre Berücksichtigung die Erledigung verzögern würde, die Verspätung nicht genügend entschuldigt ist und die Partei über die Folgen belehrt wurde (§ 83 Abs. 4 PatG). Wer den Hinweis erhält, muss reagieren; ihm bekannter Stand der Technik ist rechtzeitig einzuführen (BGH Walzstraße).",
+       "Die Präklusion wirkt in die Berufung fort: Nach § 83 Abs. 4 zurückgewiesenes Vorbringen bleibt ausgeschlossen (§ 117 S. 2 PatG), und neue Angriffs- und Verteidigungsmittel sind in der Berufung nur unter den Voraussetzungen des § 531 Abs. 2 ZPO zulässig (§ 117 S. 1). Weicht das Gericht in der Verhandlung von seinem Hinweis ab, ist eine geänderte Verteidigung in der Berufung sachdienlich (BGH Fahrzeugscheibe II)."
+      ],
+      "merke": "Hinweis, Frist, Präklusion: Wer schläft, verliert das Argument auch in der Berufung.",
+      "level": 2,
+      "concepts": [
+       "pat_qualifizierter_hinweis",
+       "pat_nichtigkeitsberufung"
+      ],
+      "norms": [
+       "§ 83 PatG",
+       "§ 117 PatG"
+      ],
+      "cases": [
+       "pat_bgh_walzstrasse",
+       "pat_bgh_fahrzeugscheibe_ii"
+      ],
+      "step": "step:pat_schema_nichtigkeitsklage.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p00f-4",
+      "typ": "mc",
+      "titel": "Beitritt, Nebenintervention, Popularklage",
+      "sachverhalt": "",
+      "frage": "Die V-GmbH wird aus dem Patent verklagt; die Einspruchsfrist ist abgelaufen, aber ein Einspruch eines Dritten läuft noch. Welchen Weg hat die V-GmbH?",
+      "optionen": [
+       "Beitritt zum laufenden Einspruchsverfahren binnen drei Monaten nach Klageerhebung (§ 59 Abs. 2 PatG); die Nichtigkeitsklage ist trotz Verletzungsklage nach § 81 Abs. 2 S. 2 PatG möglich, wird aber bei laufendem Einspruch regelmäßig ausgesetzt",
+       "Nur die Nichtigkeitsklage, weil die Einspruchsfrist abgelaufen ist",
+       "Keinen: Sie muss den Ausgang des Einspruchs abwarten",
+       "Nebenintervention im Einspruchsverfahren"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "§ 59 Abs. 2 PatG erlaubt dem Verletzungsbeklagten (auch bei einstweiliger Verfügung, BGH Ratschenschlüssel) den Beitritt zum anhängigen Einspruchsverfahren binnen drei Monaten nach Klageerhebung, mit Einspruchsgebühr und Begründung; er wird Einsprechender mit eigenen Widerrufsgründen. § 81 Abs. 2 S. 2 PatG nimmt den wegen Verletzung Verklagten von der Klagesperre aus; die Nichtigkeitsklage ist dann zulässig, in der Praxis wird sie aber bis zum Abschluss des Einspruchs ausgesetzt.",
+       "Die Nebenintervention (§ 66 ZPO) gibt es nur im Nichtigkeitsverfahren (§ 99 Abs. 1 PatG), mit weitem rechtlichem Interesse (BGH Carvedilol, Pemetrexed II). Die Nichtigkeitsklage ist Popularklage; ein Rechtsmissbrauch liegt nicht schon darin, dass sich der Kläger einem anderen Verfahren hätte anschließen können (BGH Benutzerauthentifizierung)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_beitritt",
+       "pat_nebenintervention",
+       "pat_nichtigkeitsklage"
+      ],
+      "norms": [
+       "§ 59 Abs. 2 PatG",
+       "§ 81 Abs. 2 PatG",
+       "§ 99 Abs. 1 PatG"
+      ],
+      "cases": [
+       "pat_bgh_ratschenschluessel",
+       "pat_bgh_carvedilol_nebenintervention",
+       "pat_bgh_benutzerauthentifizierung"
+      ],
+      "step": "step:pat_schema_einspruch.1.4",
+      "distinctions": []
+     },
+     {
+      "id": "p00f-5",
+      "typ": "fall",
+      "titel": "Zwangslizenz für das HIV-Medikament",
+      "sachverhalt": "Ein Pharmaunternehmen vertreibt in Deutschland ein HIV-Medikament (Isentress), das ein fremdes Patent verletzt; für bestimmte Patientengruppen gibt es keine gleichwertige Alternative. Lizenzverhandlungen über Monate blieben erfolglos, der Inhaber klagt auf Unterlassung.",
+      "frage": "Kann das Unternehmen im Wege der einstweiligen Verfügung eine Zwangslizenz erhalten?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Das Patentgericht erteilt eine Zwangslizenz, wenn sich der Lizenzsucher innerhalb eines angemessenen Zeitraums erfolglos bemüht hat, vom Inhaber eine Lizenz zu angemessenen Bedingungen zu erhalten, und das öffentliche Interesse die Erteilung gebietet (§ 24 Abs. 1 PatG); bei Dringlichkeit im Wege der einstweiligen Verfügung (§ 85 PatG). Der BGH hat das für Isentress bejaht, weil Patientengruppen ohne gleichwertige Alternative waren (BGH Raltegravir).",
+       "Die Anforderungen sind hoch: Das Bemühen muss ernsthaft und rechtzeitig sein; ein erst kurz vor dem Antrag unterbreitetes Angebot genügt nicht, und das öffentliche Interesse verlangt therapeutische Eigenschaften, die andere Mittel nicht bieten (BGH Alirocumab, verneint). Die Zwangslizenz ist nicht ausschließlich, gegen Vergütung, und wird nur für Deutschland erteilt (beim Einheitspatent über Art. II § 16 IntPatÜG). Vom kartellrechtlichen FRAND-Einwand ist sie zu unterscheiden."
+      ],
+      "merke": "Zwangslizenz: ernsthaftes Bemühen plus öffentliches Interesse; Raltegravir ja, Alirocumab nein.",
+      "level": 3,
+      "concepts": [
+       "pat_zwangslizenz"
+      ],
+      "norms": [
+       "§ 24 PatG",
+       "§ 85 PatG",
+       "Art. II § 16 IntPatÜG"
+      ],
+      "cases": [
+       "pat_bgh_raltegravir",
+       "pat_bgh_alirocumab"
+      ],
+      "step": "step:pat_schema_patentverletzung.4.3",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p00g",
+    "titel": "Gebrauchsmuster",
+    "einheiten": [
+     {
+      "id": "p00g-0",
+      "typ": "intro",
+      "titel": "Das kleine Patent",
+      "text": "Das **Gebrauchsmuster** schützt Erfindungen, die neu sind, auf einem erfinderischen Schritt beruhen und gewerblich anwendbar sind (§ 1 Abs. 1 GebrMG), aber keine **Verfahren** und keine biotechnologischen Erfindungen (§ 2 GebrMG). Es wird nach Formal- und Ausschlussprüfung **ohne Prüfung** von Neuheit und erfinderischem Schritt eingetragen (§ 8 GebrMG), meist binnen weniger Wochen; Schutzdauer drei Jahre ab Anmeldetag, verlängerbar auf sechs, acht und zehn Jahre (§ 23 GebrMG).\n\nBesonderheiten: **relativer Neuheitsbegriff** (schriftliche Beschreibungen weltweit, Benutzungen nur im Inland) mit **sechsmonatiger Neuheitsschonfrist** für eigene Offenbarungen (§ 3 Abs. 1 GebrMG); der erfinderische Schritt ist nach BGH Demonstrationsschrank kein geringerer Maßstab als die erfinderische Tätigkeit. **Abzweigung** aus einer Patentanmeldung mit deren Zeitrang (§ 5 GebrMG, § 145a PatG) bis zwei Monate nach dem Ende des Monats, in dem die Patentanmeldung erledigt ist. **Rechtsbestand**: Löschungsantrag beim DPMA (§§ 15 bis 17 GebrMG), kein Einspruch, keine Nichtigkeitsklage. **Verletzung**: dieselben Ansprüche wie beim Patent (§ 24 GebrMG), aber das Verletzungsgericht prüft die Schutzfähigkeit als Einwand, weil niemand sie vorher geprüft hat.",
+      "concepts": [
+       "pat_gebrauchsmuster",
+       "pat_gebrauchsmuster_abzweigung",
+       "pat_gebrauchsmuster_loeschung"
+      ],
+      "norms": [
+       "§ 145a PatG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_patent_gebrauchsmuster"
+      ]
+     },
+     {
+      "id": "p00g-1",
+      "typ": "fall",
+      "titel": "Verfahren als Gebrauchsmuster?",
+      "sachverhalt": "Die Feldmaus-GmbH meldet ein Gebrauchsmuster auf ein Verfahren zur Feldmausbekämpfung mit einer bestimmten Köderanordnung an. Die Gebrauchsmusterstelle weist die Anmeldung zurück.",
+      "frage": "Darf die Gebrauchsmusterstelle die Anmeldung wegen des Verfahrensanspruchs zurückweisen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Verfahren sind dem Gebrauchsmusterschutz entzogen (§ 2 Nr. 3 GebrMG). Im Eintragungsverfahren prüft die Gebrauchsmusterstelle zwar nicht Neuheit und erfinderischen Schritt, wohl aber die Schutzhindernisse des § 2 GebrMG und die formalen Erfordernisse (BGH Feldmausbekämpfung). Ein Verfahrensanspruch führt zur Beanstandung und, wenn er nicht in einen Erzeugnisanspruch (Köderanordnung als Vorrichtung) umgeschrieben wird, zur Zurückweisung.",
+       "Umgehungsversuche über „Vorrichtung zur Durchführung des Verfahrens“ sind zulässig, wenn die Vorrichtung als solche beansprucht wird; Verwendungsansprüche sind nach der Rechtsprechung des BGH ebenfalls gebrauchsmusterfähig (Arzneimittelgebrauchsmuster). Wer ein Herstellungsverfahren schützen will, braucht das Patent."
+      ],
+      "merke": "Kein Gebrauchsmuster für Verfahren; Vorrichtung und Verwendung gehen.",
+      "level": 1,
+      "concepts": [
+       "pat_gebrauchsmuster"
+      ],
+      "norms": [
+       "§ 145a PatG"
+      ],
+      "cases": [
+       "pat_bgh_feldmausbekaempfung"
+      ],
+      "step": null,
+      "distinctions": []
+     },
+     {
+      "id": "p00g-2",
+      "typ": "fall",
+      "titel": "Abzweigung nach der Zurückweisung",
+      "sachverhalt": "Die Patentanmeldung der Bohr AG wird am 3.3.2026 zurückgewiesen, der Beschluss am 10.3.2026 zugestellt; die Bohr AG legt keine Beschwerde ein. Am 20.5.2026 meldet sie ein Gebrauchsmuster mit Abzweigungserklärung an.",
+      "frage": "Ist die Abzweigung noch rechtzeitig?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Das Abzweigungsrecht besteht bis zum Ablauf von zwei Monaten nach dem Ende des Monats, in dem die Patentanmeldung erledigt ist (§ 5 Abs. 1 S. 2 GebrMG). Erledigt ist die Anmeldung mit Rechtskraft der Zurückweisung, also nach Ablauf der Beschwerdefrist am 10.4.2026; das Ende dieses Monats ist der 30.4.2026, die Abzweigungsfrist läuft bis 30.6.2026. Das Gebrauchsmuster erhält den Anmeldetag und die Priorität der Patentanmeldung.",
+       "Voraussetzungen: derselbe Anmelder, dieselbe Erfindung (kein Hinausgehen über die Patentanmeldung), Erklärung in der Gebrauchsmusteranmeldung mit Angabe des Aktenzeichens, Nachreichung einer Abschrift auf Aufforderung (§ 5 Abs. 2 GebrMG). Da das Gebrauchsmuster nicht geprüft wird, wird es auch dann eingetragen, wenn die Patentanmeldung mangels erfinderischer Tätigkeit scheiterte; im Löschungs- oder Verletzungsverfahren steht die Frage dann erneut, mit dem relativen Neuheitsbegriff und der Schonfrist."
+      ],
+      "merke": "Zwei Monate nach Monatsende der Erledigung; Zeitrang und Priorität wandern mit.",
+      "level": 2,
+      "concepts": [
+       "pat_gebrauchsmuster_abzweigung"
+      ],
+      "norms": [
+       "§ 145a PatG",
+       "§ 73 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": [
+       "d_pat_teilung_ausscheidung_abzweigung"
+      ]
+     },
+     {
+      "id": "p00g-3",
+      "typ": "fall",
+      "titel": "Löschungsantrag und Widerspruch",
+      "sachverhalt": "Die Stator GmbH beantragt die Löschung des Gebrauchsmusters GBM 444, gestützt auf ein früher angemeldetes Patent mit praktisch identischem Schutzbereich. Die Inhaberin widerspricht fristgerecht und verteidigt das Gebrauchsmuster in vollem Umfang.",
+      "frage": "Wird das Gebrauchsmuster gelöscht?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Löschungsgrund ist auch, dass der Gegenstand des Gebrauchsmusters bereits aufgrund einer früheren Patent- oder Gebrauchsmusteranmeldung geschützt ist (§ 15 Abs. 1 Nr. 2 GebrMG); die ältere Anmeldung mit identischem Schutzbereich erfüllt das. Die Gebrauchsmusterabteilung entscheidet nach Widerspruch durch Beschluss, die Kosten trägt die unterliegende Inhaberin (§ 17 Abs. 4 GebrMG i.V.m. §§ 91 ff. ZPO).",
+       "Hätte die Inhaberin nicht widersprochen, wäre ohne Sachprüfung gelöscht worden (§ 17 Abs. 1 S. 2 GebrMG); die Kosten trüge sie ebenfalls, es sei denn, sie hat keinen Anlass zum Antrag gegeben und erkennt sofort an (§ 93 ZPO entsprechend), was nach Ignorieren einer Verzichtsaufforderung ausscheidet. Gebühr 300 EUR; Beschwerde zum Gebrauchsmuster-Beschwerdesenat (§ 18 GebrMG). Gegen die ältere Anmeldung hilft der Inhaberin nichts: Das Gebrauchsmuster kennt keine Priorität aus fremden Rechten."
+      ],
+      "merke": "Löschung auch wegen älterer Anmeldung; ohne Widerspruch Löschung ohne Prüfung, Kosten beim Inhaber.",
+      "level": 2,
+      "concepts": [
+       "pat_gebrauchsmuster_loeschung"
+      ],
+      "norms": [
+       "§ 145a PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": []
+     },
+     {
+      "id": "p00g-4",
+      "typ": "mc",
+      "titel": "Neuheit beim Gebrauchsmuster",
+      "sachverhalt": "",
+      "frage": "Welche der folgenden Offenbarungen ist für ein am 1.9.2026 angemeldetes Gebrauchsmuster nicht neuheitsschädlich?",
+      "optionen": [
+       "Eine öffentliche Benutzung durch einen Wettbewerber in Mailand am 1.6.2026",
+       "Ein japanischer Fachartikel vom 1.6.2026",
+       "Eine Vorführung durch den Anmelder selbst auf einer Messe in Köln am 1.6.2026 (Schonfrist)",
+       "Eine Benutzung durch einen Wettbewerber in Köln am 1.6.2026"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "§ 3 Abs. 1 GebrMG definiert den Stand der Technik relativ: schriftliche Beschreibungen weltweit (der japanische Artikel zählt), Benutzungen nur im Inland (Köln ja, Mailand nein). Eigene Offenbarungen innerhalb von sechs Monaten vor dem Anmeldetag bleiben außer Betracht (Schonfrist, S. 3): Die Kölner Messevorführung des Anmelders vom 1.6.2026 ist damit ebenfalls unschädlich, die Frage nach der einzigen von vornherein unbeachtlichen fremden Offenbarung führt aber zur Auslandsbenutzung.",
+       "Ältere Anmeldungen nach § 3 Abs. 2 PatG gibt es beim Gebrauchsmuster nicht; stattdessen ist der Schutz aufgrund einer früheren Anmeldung Löschungsgrund (§ 15 Abs. 1 Nr. 2 GebrMG). Für das Patent wären Mailand, Japan und die eigene Messe alle neuheitsschädlich."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_gebrauchsmuster",
+       "pat_neuheit"
+      ],
+      "norms": [
+       "§ 3 Abs. 1 PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": [
+       "d_pat_patent_gebrauchsmuster"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "p00h",
+    "titel": "Europäisches Patent, Einheitspatent, PCT",
+    "einheiten": [
+     {
+      "id": "p00h-0",
+      "typ": "intro",
+      "titel": "Drei Wege nach Deutschland",
+      "text": "**Europäisches Patent** (EPÜ): Eine Anmeldung beim EPA, zentrale Prüfung und Erteilung, danach ein Bündel nationaler Patente; der deutsche Teil hat die Wirkung eines deutschen Patents (Art. 64 EPÜ), das IntPatÜG regelt Entschädigung (Art. II § 1), Nichtigkeit (Art. II § 6, Gründe des Art. 138 EPÜ), Jahresgebühren an das DPMA (Art. II § 7), Doppelschutz (Art. II §§ 8, 18) und Umwandlung (Art. II § 9). Seit dem Londoner Übereinkommen ist keine Übersetzung mehr nötig (Art. XI § 4). Einspruch beim EPA binnen neun Monaten wirkt für alle Staaten (Art. 99 EPÜ).\n\n**Einheitspatent** (VO 1257/2012): Nach Erteilung binnen eines Monats beantragte einheitliche Wirkung für die teilnehmenden Mitgliedstaaten; Jahresgebühren an das EPA; Zuständigkeit ausschließlich beim **EPG** (Art. 32 EPGÜ). Klassische europäische Patente unterliegen in der Übergangszeit wahlweise dem EPG oder den nationalen Gerichten, mit Opt-out (Art. 83 EPGÜ). Im deutschen Recht: Art. II §§ 15 bis 20 IntPatÜG (keine nationale Nichtigkeit, Doppelschutz mit Einrede, Vollstreckung nach ZPO).\n\n**PCT**: Eine internationale Anmeldung mit Recherche und optionaler vorläufiger Prüfung, dann nationale Phase binnen 30 Monaten ab Priorität beim DPMA als Bestimmungsamt (Art. III § 4 IntPatÜG: Übersetzung, nationale Gebühr) oder regionale Phase beim EPA (31 Monate).",
+      "concepts": [
+       "pat_ep_validierung",
+       "pat_einheitspatent_national",
+       "pat_pct_nationale_phase",
+       "pat_doppelschutz"
+      ],
+      "norms": [
+       "Art. II § 6 IntPatÜG",
+       "Art. II § 8 IntPatÜG",
+       "Art. II § 15 IntPatÜG",
+       "Art. III § 4 IntPatÜG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_deutsches_europaeisches_einheitspatent"
+      ]
+     },
+     {
+      "id": "p00h-1",
+      "typ": "fall",
+      "titel": "Nichtigkeitsklage gegen den deutschen Teil",
+      "sachverhalt": "Die Kühl AG will den deutschen Teil eines 2019 erteilten europäischen Patents angreifen; die Einspruchsfrist beim EPA ist abgelaufen, der Inhaber hat einen Opt-out erklärt.",
+      "frage": "Ist das BPatG für die Nichtigkeitsklage zuständig?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Der deutsche Teil eines europäischen Patents wird auf Klage nach §§ 81 ff. PatG für nichtig erklärt, wenn ein Grund des Art. 138 Abs. 1 EPÜ vorliegt (Art. II § 6 Abs. 1 IntPatÜG). Nach dem Opt-out ist das EPG nicht zuständig (Art. 83 Abs. 3 EPGÜ); ohne Opt-out hätte die Kühl AG in der Übergangszeit die Wahl zwischen BPatG und EPG, wobei die Nichtigerklärung durch das EPG für alle Vertragsmitgliedstaaten wirkt (Art. 34 EPGÜ).",
+       "Materiell gelten dieselben Maßstäbe wie beim deutschen Patent (BGH Wundbehandlungsvorrichtung zur Erweiterung, Thermoplastische Zusammensetzung zur Ausführbarkeit); Klagesperre auch bei laufendem EPA-Einspruch (BPatG Torasemid). Für ein Einheitspatent wäre die nationale Nichtigkeitsklage ausgeschlossen (Art. II § 15 IntPatÜG)."
+      ],
+      "merke": "DE-Teil des EP: BPatG nach Art. II § 6 IntPatÜG, wenn Opt-out oder Wahl; Einheitspatent nur EPG.",
+      "level": 2,
+      "concepts": [
+       "pat_nichtigkeit_ep",
+       "pat_einheitspatent_national"
+      ],
+      "norms": [
+       "Art. II § 6 IntPatÜG",
+       "Art. II § 15 IntPatÜG",
+       "Art. 83 EPGÜ"
+      ],
+      "cases": [
+       "pat_bpatg_torasemid",
+       "pat_bgh_wundbehandlungsvorrichtung"
+      ],
+      "step": "step:pat_schema_nichtigkeitsklage.1.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00h-2",
+      "typ": "fall",
+      "titel": "Doppelschutz nach dem EPGÜ",
+      "sachverhalt": "Die Sensorik GmbH hält für dieselbe Erfindung ein deutsches Patent und ein europäisches Patent ohne Opt-out. Sie klagt aus dem europäischen Patent vor dem EPG und danach aus dem deutschen Patent vor dem LG München gegen denselben Beklagten wegen derselben Lieferungen.",
+      "frage": "Kann der Beklagte die zweite Klage abwehren?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, mit der Einrede der doppelten Inanspruchnahme.** Seit 1.6.2023 verliert das deutsche Patent seine Wirkung nicht mehr, wenn das europäische Patent für dieselbe Erfindung dem EPG unterliegt (Art. II § 18 Abs. 1 IntPatÜG); der Doppelschutz besteht. Zum Ausgleich kann der Beklagte, der wegen derselben Handlung bereits vor dem EPG in Anspruch genommen wurde, die Klage aus dem deutschen Patent mit der Einrede abwehren (Art. II § 18 Abs. 2 IntPatÜG).",
+       "Bei Opt-out bleibt es beim klassischen Doppelschutzverbot: Das deutsche Patent verliert mit Ablauf der EPA-Einspruchsfrist seine Wirkung, soweit es dieselbe Erfindung schützt (Art. II § 8 IntPatÜG). Entscheidungen des EPG werden in Deutschland nach der ZPO vollstreckt (Art. II § 19 IntPatÜG, Art. 82 EPGÜ)."
+      ],
+      "merke": "EP ohne Opt-out: Doppelschutz erlaubt, aber nur eine Inanspruchnahme je Handlung.",
+      "level": 2,
+      "concepts": [
+       "pat_doppelschutz",
+       "pat_einheitspatent_national"
+      ],
+      "norms": [
+       "Art. II § 8 IntPatÜG",
+       "Art. II § 18 IntPatÜG",
+       "Art. II § 19 IntPatÜG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentverletzung.4.3",
+      "distinctions": []
+     },
+     {
+      "id": "p00h-3",
+      "typ": "fall",
+      "titel": "Die nationale Phase am 30. Monat",
+      "sachverhalt": "Die Optik KG hat eine PCT-Anmeldung mit Priorität vom 15.1.2024 eingereicht und das DPMA als Bestimmungsamt gewählt. Am 10.7.2026 reicht sie die deutsche Übersetzung ein; die nationale Gebühr überweist sie am 25.7.2026.",
+      "frage": "Hat die Optik KG die nationale Phase wirksam eingeleitet?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Für die nationale Phase sind Übersetzung und nationale Gebühr binnen 30 Monaten ab Prioritätstag einzureichen bzw. zu zahlen (Art. III § 4 Abs. 2 IntPatÜG), hier bis zum 15.7.2026. Die Gebühr (60 EUR, Nr. 311 150) wird mit Ablauf der Frist fällig; § 6 Abs. 1 PatKostG gewährt keine zusätzliche Dreimonatsfrist (BPatG Nationale Gebühr einer internationalen Anmeldung). Mit Fristablauf gilt die Wirkung der Anmeldung für Deutschland als beendet.",
+       "Rechtsbehelf: Wiedereinsetzung (§ 123 PatG) binnen zwei Monaten nach Wegfall des Hindernisses, sofern die Versäumung unverschuldet war. Alternativ hätte die Optik KG über das EPA (Euro-PCT, 31 Monate) gehen können. Danach läuft die Anmeldung wie eine deutsche: Prüfungsantrag binnen sieben Jahren ab dem internationalen Anmeldetag, Jahresgebühren ab dem dritten Jahr."
+      ],
+      "merke": "30 Monate ab Priorität für Übersetzung und Gebühr, ohne die Dreimonatsfrist des § 6 PatKostG.",
+      "level": 2,
+      "concepts": [
+       "pat_pct_nationale_phase",
+       "pat_faelligkeit"
+      ],
+      "norms": [
+       "Art. III § 4 IntPatÜG",
+       "§ 3 Abs. 1 PatKostG",
+       "§ 123 PatG"
+      ],
+      "cases": [
+       "pat_bpatg_nationale_gebuehr_pct"
+      ],
+      "step": "step:pat_schema_fristversaeumung.1",
+      "distinctions": []
+     },
+     {
+      "id": "p00h-4",
+      "typ": "mc",
+      "titel": "Wo läuft welche Frist?",
+      "sachverhalt": "",
+      "frage": "Ordnen Sie zu: Innerhalb welcher Frist sind (a) der Antrag auf einheitliche Wirkung, (b) der Einspruch beim EPA, (c) die Nichtigkeitsklage gegen den deutschen Teil beim BPatG zu stellen?",
+      "optionen": [
+       "(a) ein Monat nach Erteilungshinweis; (b) neun Monate nach Erteilungshinweis; (c) keine Frist, aber gesperrt, solange Einspruch möglich oder anhängig ist",
+       "(a) neun Monate; (b) ein Monat; (c) neun Monate",
+       "(a) drei Monate; (b) neun Monate; (c) zwei Jahre",
+       "(a) ein Monat; (b) neun Monate; (c) ein Jahr nach Ablauf der Einspruchsfrist"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "Der Antrag auf einheitliche Wirkung ist binnen eines Monats nach Bekanntmachung des Erteilungshinweises im Europäischen Patentblatt beim EPA zu stellen (R. 6 DOEPS, nicht verlängerbar). Der Einspruch beim EPA ist binnen neun Monaten nach dem Erteilungshinweis einzulegen (Art. 99 Abs. 1 EPÜ) und wirkt für alle benannten Staaten. Die Nichtigkeitsklage gegen den deutschen Teil (Art. II § 6 IntPatÜG, §§ 81 ff. PatG) kennt keine Frist, ist aber unzulässig, solange Einspruch eingelegt werden kann oder ein Einspruchsverfahren anhängig ist (§ 81 Abs. 2 PatG).",
+       "Für das Einheitspatent bleibt nach dem EPA-Einspruch nur die Nichtigkeitsklage vor der Zentralkammer des EPG (Art. 32 Abs. 1 lit. d, Art. 33 Abs. 4 EPGÜ) oder die Widerklage im Verletzungsverfahren (Art. 33 Abs. 3 EPGÜ)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_ep_validierung",
+       "pat_nichtigkeit_ep",
+       "upc_antrag_einheitliche_wirkung"
+      ],
+      "norms": [
+       "Art. II § 6 IntPatÜG",
+       "§ 81 Abs. 2 PatG",
+       "R. 6 DOEPS",
+       "Art. 32 EPGÜ"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_nichtigkeitsklage.1.1",
+      "distinctions": []
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "p01",
-  "gebiet": "patg",
+  "gebiet": "patent",
+  "reihe": "Verfahren und Klausur",
   "titel": "Klausurtraining TS",
   "untertitel": "Patentanwaltsprüfung: Anmeldung, Einspruch, Nichtigkeit, Beschwerde",
   "farbe": "#2f6b4f",
@@ -9801,6 +11087,1482 @@
       ],
       "step": "step:pat_schema_patentfaehigkeit.4.3",
       "distinctions": []
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "d01",
+  "gebiet": "designg",
+  "titel": "Designrecht",
+  "untertitel": "DesignG, DesignV, Unionsgeschmacksmuster und Designrichtlinien",
+  "farbe": "#b0562b",
+  "icon": "schema",
+  "beschreibung": "Vom Entwurf zum eingetragenen Design und zurück zur Nichtigkeit: Neuheit und Eigenart im Einzelvergleich, informierter Benutzer, technische Bedingtheit und Sichtbarkeit, Anmeldung mit Wiedergabe und Aufschiebung, Nichtigkeitsverfahren beim DPMA, Schutzumfang nach dem Gesamteindruck, Reparaturklausel, Ansprüche nach der Durchsetzungsrichtlinie und das Unionsgeschmacksmuster – mit den Leitentscheidungen von BGH, BPatG, EuGH und EuG.",
+  "kapitel": [
+   {
+    "id": "d01a",
+    "titel": "Rechtsrahmen: DesignG, Richtlinie, Unionsgeschmacksmuster",
+    "einheiten": [
+     {
+      "id": "d01a-0",
+      "typ": "intro",
+      "titel": "Drei Ebenen, ein Recht",
+      "text": "Das Designrecht schützt die **Erscheinungsform** eines Erzeugnisses: Linien, Konturen, Farben, Gestalt, Oberfläche (§ 1 Nr. 1 DesignG). Es fragt nicht nach Herkunft (Marke), nicht nach technischer Lehre (Patent) und nicht nach künstlerischer Persönlichkeit (Urheberrecht), sondern nur danach, ob eine Gestaltung **neu** ist und **Eigenart** hat (§ 2 DesignG).\n\nDas Recht ist auf drei Ebenen geregelt, die fast wortgleich sind: Die **Richtlinie 98/71/EG** (DesignRL) harmonisiert das materielle Recht der nationalen Designs; das **DesignG** setzt sie um (Geschmacksmusterreformgesetz 2004, Umbenennung in „Design“ 2014, Nichtigkeitsverfahren beim DPMA seit 2014, Reparaturklausel seit 2020); die **Verordnung (EG) Nr. 6/2002** (GGV) schafft daneben das einheitliche **Unionsgeschmacksmuster** (bis April 2025 „Gemeinschaftsgeschmacksmuster“) beim EUIPO, eingetragen oder nicht eingetragen. Seit 2024 wird das System reformiert: Die Verordnung (EU) 2024/2822 gilt seit 1.5.2025, die **Richtlinie (EU) 2024/2823** muss bis 9.12.2027 in das DesignG umgesetzt werden.\n\nFür die Klausur bedeutet das: Die Norm des DesignG zitieren, bei Auslegungsfragen die Richtlinie und die Rechtsprechung des EuGH heranziehen (richtlinienkonforme Auslegung), beim Unionsgeschmacksmuster die GGV und für die Folgeansprüche das deutsche Recht über § 62a DesignG.",
+      "concepts": [
+       "des_design_begriff",
+       "des_designrl",
+       "des_ggm_eingetragen",
+       "des_designrl_2024"
+      ],
+      "norms": [
+       "§ 1 DesignG",
+       "§ 2 DesignG",
+       "Art. 1 DesignRL",
+       "Art. 1 GGV",
+       "§ 62a DesignG"
+      ],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "d01a-1",
+      "typ": "intro",
+      "titel": "Umsetzungstabelle: Richtlinie, DesignG, GGV, Neufassung 2024",
+      "text": "Die Tabelle zeigt für jedes Thema den Artikel der Richtlinie 98/71/EG, die umsetzende Vorschrift des DesignG, die Parallelnorm der GGV und den Artikel der Neufassung 2024/2823. Sie ist der Schlüssel zum Lesen der Rechtsprechung: Der EuGH entscheidet zu Art. 6 GGV oder Art. 3 DesignRL, der BGH überträgt das auf § 2 Abs. 3 oder § 4 DesignG. Was in der Spalte „Richtlinie 98/71/EG“ als „nicht harmonisiert“ steht (Verfahren, Ansprüche, Gerichte, Schutzgegenstand, Vorbenutzung), ist rein deutsches Recht; die Neufassung holt einen Teil davon 2027 in das Unionsrecht.",
+      "concepts": [
+       "des_designrl",
+       "des_designrl_2024",
+       "des_unionsreform_2024"
+      ],
+      "norms": [
+       "Art. 3 DesignRL",
+       "Art. 5 DesignRL",
+       "Art. 19 DesignRL 2024",
+       "Art. 20a GGV"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_des_designrl_umsetzung"
+      ]
+     },
+     {
+      "id": "d01a-2",
+      "typ": "intro",
+      "titel": "Anspruchsgrundlagen: ein Bauplan für alle Schutzrechte",
+      "text": "Die Rechtsfolgen einer Verletzung sind nicht designspezifisch, sondern folgen der **Durchsetzungsrichtlinie 2004/48/EG**, die Deutschland 2008 mit einem Artikelgesetz gleichlautend in MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG und SortSchG umgesetzt hat. Wer § 42 DesignG kennt, kennt § 14 Abs. 5, 6 MarkenG und § 139 PatG; wer § 46 DesignG kennt, kennt § 19 MarkenG und § 140b PatG.\n\nDie Tabelle stellt für jeden Anspruch die Fundstelle im Unionsrecht und in jedem Gesetz nebeneinander, dazu die Unionsschutzrechte (UMV, GGV: Verordnung für das Verbot, nationales Recht für die Folgen) und das Einheitliche Patentgericht (EPGÜ mit den zugehörigen Regeln der VerfO). Zwei Besonderheiten des DesignG: die **Entschädigung** des schuldlosen Verletzers (§ 45 DesignG) und die **Überlassung** gegen Vergütung statt Vernichtung (§ 43 Abs. 3 DesignG) gibt es sonst nur im UrhG.",
+      "concepts": [
+       "des_anspruchsgrundlagen_eu",
+       "des_unterlassung",
+       "des_schadensersatz",
+       "des_ggm_anwendbares_recht"
+      ],
+      "norms": [
+       "§ 42 DesignG",
+       "§ 43 DesignG",
+       "§ 46 DesignG",
+       "§ 62a DesignG",
+       "Art. 89 GGV",
+       "Art. 11 DurchsetzungsRL",
+       "Art. 63 EPGÜ"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_des_anspruchsgrundlagen_eu"
+      ]
+     },
+     {
+      "id": "d01a-3",
+      "typ": "mc",
+      "titel": "Welche Norm zitiert man?",
+      "sachverhalt": "",
+      "frage": "Die Möbel AG klagt aus einem eingetragenen Unionsgeschmacksmuster vor dem Landgericht Düsseldorf auf Unterlassung und Schadensersatz gegen einen Händler, der die Stühle in Deutschland vertreibt. Auf welche Normen stützt sie die beiden Ansprüche richtig?",
+      "optionen": [
+       "Unterlassung: Art. 89 Abs. 1 lit. a GGV; Schadensersatz: Art. 89 Abs. 1 lit. d, Art. 88 Abs. 2 GGV i.V.m. § 62a, § 42 Abs. 2 DesignG",
+       "Beides aus § 42 DesignG, weil das Landgericht deutsches Recht anwendet",
+       "Beides aus Art. 19 GGV, weil das Unionsrecht Vorrang hat",
+       "Unterlassung aus § 42 Abs. 1 DesignG, Schadensersatz aus Art. 13 DurchsetzungsRL"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "Die GGV regelt das Verbotsrecht (Art. 19 GGV) und die Unterlassung als Sanktion selbst (Art. 89 Abs. 1 lit. a GGV). Für die weiteren Rechtsfolgen verweist Art. 89 Abs. 1 lit. d GGV auf das Recht des Mitgliedstaats, in dem die Verletzung begangen wurde, und Art. 88 Abs. 2 GGV auf das nationale Recht einschließlich IPR (Art. 8 Abs. 2 Rom-II-VO: Recht des Verletzungsorts, EuGH Acacia/BMW). Für Deutschland ordnet § 62a DesignG die entsprechende Anwendung der §§ 42 Abs. 2, 43, 46 ff., 49 DesignG an.",
+       "Die Richtlinie selbst ist nie Anspruchsgrundlage; sie wirkt nur über die Umsetzungsnormen und die richtlinienkonforme Auslegung. § 42 Abs. 1 DesignG gilt nur für das nationale eingetragene Design."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "des_anspruchsgrundlagen_eu",
+       "des_ggm_anwendbares_recht"
+      ],
+      "norms": [
+       "Art. 89 GGV",
+       "Art. 88 GGV",
+       "§ 62a DesignG",
+       "§ 42 DesignG"
+      ],
+      "cases": [
+       "des_eugh_acacia_bmw"
+      ],
+      "step": "step:des_schema_unionsgeschmacksmuster.5.2",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "d01b",
+    "titel": "Schutzvoraussetzungen: Neuheit, Eigenart, Ausschlüsse",
+    "einheiten": [
+     {
+      "id": "d01b-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Schutzfähigkeit und Nichtigkeit",
+      "schema": "des_schema_schutzfaehigkeit",
+      "text": "Erst der Schutzgegenstand aus der Wiedergabe, dann Designbegriff und Ausschlüsse, dann Formenschatz, Neuheit und Eigenart im Einzelvergleich.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "d01b-1",
+      "typ": "fall",
+      "titel": "Der Ballerinaschuh aus dem Netz",
+      "sachverhalt": "Die Schuhmanufaktur Feder lässt 2020 einen Ballerinaschuh mit geflochtenem Riemen als Design eintragen. Im Nichtigkeitsverfahren legt die Konkurrentin Trend GmbH einen Screenshot eines Online-Shops aus 2018 vor, der einen fast identischen Schuh zeigt. Feder meint, ein Internetangebot sei keine Offenbarung, weil niemand nachweisen könne, dass Fachkreise es gesehen hätten.",
+      "frage": "Gehört der 2018 im Online-Shop angebotene Schuh zum vorbekannten Formenschatz?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein Design ist offenbart, wenn es der Öffentlichkeit zugänglich gemacht wurde, es sei denn, das konnte den in der Union tätigen Fachkreisen des Sektors im normalen Geschäftsverlauf nicht bekannt sein (§ 5 DesignG, Art. 7 GGV). Modelle, die über eine Internetseite dem allgemeinen Publikum zum Kauf angeboten werden, gehören zum Formenschatz, von dem der informierte Benutzer Kenntnis nehmen kann (BGH Ballerinaschuh).",
+       "Die Fachkreisklausel ist eine Ausnahme für entlegene Offenbarungen, nicht ein Beweiserfordernis der tatsächlichen Kenntnis. Ob eine Offenbarung im normalen Geschäftsverlauf bekannt sein konnte, ist Tatfrage; auch die Verteilung an Händler oder an ein einziges Unternehmen kann genügen (EuGH Gautzsch/Duna). Die Trend GmbH muss aber Datum und Inhalt des Angebots beweisen; ein undatierter Screenshot reicht nicht."
+      ],
+      "merke": "Offenbart ist, was die Branche kennen konnte; Internetangebote zählen, Vertrauliches nicht.",
+      "level": 1,
+      "concepts": [
+       "des_offenbarung",
+       "des_formenschatz"
+      ],
+      "norms": [
+       "§ 5 DesignG",
+       "Art. 7 GGV"
+      ],
+      "cases": [
+       "des_bgh_ballerinaschuh",
+       "des_eugh_gautzsch"
+      ],
+      "step": "step:des_schema_schutzfaehigkeit.4.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-2",
+      "typ": "fall",
+      "titel": "Messe im Januar, Anmeldung im November",
+      "sachverhalt": "Designerin Nora zeigt ihre neue Leuchte im Januar 2025 auf der Möbelmesse in Köln und verkauft sie ab März. Am 20.11.2025 meldet sie das Design beim DPMA an. Ein Wettbewerber beantragt die Nichtigkeit: Die Leuchte sei bei der Anmeldung nicht mehr neu gewesen.",
+      "frage": "Ist die Eintragung wegen fehlender Neuheit nichtig?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Zwar war die Leuchte vor dem Anmeldetag offenbart (§ 5 DesignG). Eine Offenbarung durch den Entwerfer oder seinen Rechtsnachfolger in den zwölf Monaten vor dem Anmeldetag bleibt aber bei Neuheit und Eigenart unberücksichtigt (§ 6 DesignG, Art. 6 Abs. 2 DesignRL). Messe im Januar und Verkauf ab März liegen innerhalb der Schonfrist bis 20.11.2025.",
+       "Die Schonfrist ist eine Ausnahme vom Formenschatz, keine Priorität: Hätte ein Dritter zwischen Januar und November unabhängig eine gleiche Leuchte entworfen und offenbart, wäre diese Offenbarung neuheitsschädlich. Deshalb sichert die Offenbarung im Januar zugleich ein nicht eingetragenes Unionsgeschmacksmuster für drei Jahre (Art. 11 GGV), das gegen Nachahmungen schützt. Nach Ablauf der zwölf Monate wäre nur noch dieses geblieben."
+      ],
+      "merke": "Zwölf Monate Schonfrist ab der eigenen Offenbarung; sie schützt vor der eigenen Vorveröffentlichung, nicht vor fremden.",
+      "level": 1,
+      "concepts": [
+       "des_neuheitsschonfrist",
+       "des_offenbarung",
+       "des_ggm_nicht_eingetragen"
+      ],
+      "norms": [
+       "§ 6 DesignG",
+       "§ 5 DesignG",
+       "Art. 11 GGV"
+      ],
+      "cases": [],
+      "step": "step:des_schema_schutzfaehigkeit.4.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-3",
+      "typ": "fall",
+      "titel": "Das Kleid aus drei Vorbildern (Karen Millen)",
+      "sachverhalt": "Die Modekette Dunes kopiert ein gestreiftes Hemdblusenkleid der Designerin Karen und wird aus einem nicht eingetragenen Unionsgeschmacksmuster verklagt. Dunes legt drei ältere Kleider vor: Eines hat denselben Kragen, eines dieselben Streifen, eines dieselbe Manschette; alle Merkmale des Kleides seien also vorbekannt.",
+      "frage": "Fehlt dem Kleid die Eigenart, weil jedes einzelne Merkmal in einem älteren Design vorkommt?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eigenart setzt voraus, dass sich der Gesamteindruck von dem Gesamteindruck unterscheidet, den ein anderes, älteres Design beim informierten Benutzer hervorruft (§ 2 Abs. 3 DesignG, Art. 6 GGV). Der Vergleich ist mit einem oder mehreren einzelnen, konkret bestimmten älteren Designs anzustellen, nicht mit einer Kombination isolierter Merkmale aus mehreren älteren Designs (EuGH Karen Millen; BGH Meda Gate: keine mosaikartige Gesamtschau).",
+       "Dunes müsste also ein einzelnes älteres Kleid zeigen, das denselben Gesamteindruck erweckt. Beim nicht eingetragenen Muster muss Karen die Eigenart nicht beweisen; sie muss nur angeben, welche Merkmale sie begründen (Art. 85 Abs. 2 GGV). Die Eigenart wird dann vermutet, bis Dunes sie widerlegt."
+      ],
+      "merke": "Einzelvergleich: Ein älteres Design gegen das Klagedesign, nie eine Collage aus mehreren.",
+      "level": 2,
+      "concepts": [
+       "des_eigenart",
+       "des_formenschatz",
+       "des_gesamteindruck"
+      ],
+      "norms": [
+       "§ 2 Abs. 3 DesignG",
+       "Art. 6 GGV",
+       "Art. 85 GGV"
+      ],
+      "cases": [
+       "des_eugh_karen_millen",
+       "des_bgh_meda_gate"
+      ],
+      "step": "step:des_schema_schutzfaehigkeit.6.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-4",
+      "typ": "mc",
+      "titel": "Wer ist der informierte Benutzer?",
+      "sachverhalt": "",
+      "frage": "Im Nichtigkeitsverfahren um ein Design für Spielzeug-Wurfscheiben (Tazos) streiten die Parteien, aus wessen Sicht der Gesamteindruck zu beurteilen ist. Welche Beschreibung trifft den informierten Benutzer?",
+      "optionen": [
+       "Ein Kind von fünf bis zehn Jahren oder ein Marketingleiter, der die Scheiben als Werbeartikel einsetzt: eine Person, die die Designs des Sektors kennt und die Erzeugnisse mit erhöhter Aufmerksamkeit benutzt, ohne Designer oder Techniker zu sein",
+       "Der durchschnittlich informierte, aufmerksame und verständige Verbraucher wie im Markenrecht",
+       "Ein Produktdesigner mit Fachkenntnis über alle technischen Gestaltungsalternativen",
+       "Ein Richter, der die Designs nebeneinander legt"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "Der informierte Benutzer liegt zwischen dem Durchschnittsverbraucher des Markenrechts, der keine besonderen Kenntnisse hat und die Zeichen meist nicht direkt vergleicht, und dem Fachmann mit detaillierten technischen Kenntnissen. „Informiert“ heißt: Er kennt die verschiedenen Designs des Sektors, weiß, welche Elemente sie üblicherweise aufweisen, und benutzt die Erzeugnisse mit vergleichsweise großer Aufmerksamkeit (EuGH PepsiCo/Grupo Promer). Bei Spielzeug können das Kinder oder die Marketingfachleute sein, die die Scheiben einkaufen.",
+       "Der informierte Benutzer vergleicht die Designs nach Möglichkeit direkt; er nimmt das Erzeugnis bei bestimmungsgemäßer Verwendung wahr (BGH Armbanduhr). Er muss das ältere Design nicht kennen; es genügt, dass er es kennen konnte (EuGH Easy Sanitary)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "des_informierter_benutzer",
+       "des_gesamteindruck"
+      ],
+      "norms": [
+       "§ 2 Abs. 3 DesignG",
+       "Art. 6 GGV"
+      ],
+      "cases": [
+       "des_eugh_pepsico",
+       "des_bgh_armbanduhr",
+       "des_eugh_easy_sanitary"
+      ],
+      "step": "step:des_schema_schutzfaehigkeit.6.1",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-5",
+      "typ": "fall",
+      "titel": "Der Duschabfluss und die Erzeugnisart",
+      "sachverhalt": "Die Sanitär GmbH hält ein Unionsgeschmacksmuster für eine rechteckige Duschrinne mit Abdeckplatte. Im Nichtigkeitsverfahren wird ein älterer Katalog vorgelegt, der eine identische Rinne als Abfluss für industrielle Abwasseranlagen zeigt. Die Sanitär GmbH wendet ein, ein Industrieabfluss sei ein anderes Erzeugnis und deshalb unbeachtlich.",
+      "frage": "Ist das ältere Design unbeachtlich, weil es für eine andere Erzeugnisart bestimmt war?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Neuheit und Eigenart sind gegenüber jedem offenbarten älteren Design zu prüfen, unabhängig davon, für welches Erzeugnis es bestimmt war oder in welchem Sektor es verwendet wurde (EuGH Easy Sanitary Solutions/Group Nivelles). Die Erzeugnisangabe der Anmeldung bestimmt den Schutzumfang nicht (§ 11 Abs. 6 DesignG, Art. 36 Abs. 6 GGV); ebenso wenig begrenzt sie den Formenschatz.",
+       "Der informierte Benutzer der Duschrinne muss den Industrieabfluss nicht tatsächlich kennen. Das Amt darf das ältere Design aber nur so berücksichtigen, wie es offenbart wurde; es darf nicht aus mehreren Abbildungen ein Vergleichsmuster zusammensetzen."
+      ],
+      "merke": "Der Formenschatz kennt keine Warenklassen; die Erzeugnisangabe bestimmt nur den Benutzer, nicht den Vergleich.",
+      "level": 2,
+      "concepts": [
+       "des_neuheit",
+       "des_erzeugnisangabe",
+       "des_formenschatz"
+      ],
+      "norms": [
+       "§ 2 Abs. 2 DesignG",
+       "§ 11 Abs. 6 DesignG",
+       "Art. 5 GGV"
+      ],
+      "cases": [
+       "des_eugh_easy_sanitary"
+      ],
+      "step": "step:des_schema_schutzfaehigkeit.5",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-6",
+      "typ": "fall",
+      "titel": "Zentrierstifte (DOCERAM)",
+      "sachverhalt": "Die Keramik AG hält Unionsgeschmacksmuster für Zentrierstifte zum Schweißen. Die Konkurrentin CeraTec wendet im Verletzungsprozess per Widerklage ein, alle Merkmale der Stifte seien technisch bedingt. Die Keramik AG erwidert, es gebe zahlreiche andere Stiftformen, die dieselbe Funktion erfüllen, also habe der Entwerfer Gestaltungsfreiheit gehabt.",
+      "frage": "Schließt die Existenz alternativer Formen mit gleicher Funktion den Ausschluss nach § 3 Abs. 1 Nr. 1 DesignG (Art. 8 Abs. 1 GGV) aus?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Erscheinungsmerkmale sind ausschließlich technisch bedingt, wenn die technische Funktion der einzige Faktor war, der den Entwerfer zu ihnen bestimmt hat, ohne dass ästhetische Erwägungen eine Rolle spielten. Das ist objektiv anhand aller Umstände des Einzelfalls zu beurteilen; dass andere Formen dieselbe Funktion erfüllen könnten, ist dafür nicht entscheidend (EuGH DOCERAM/CeramTec, Absage an den Mehrheit-der-Formen-Test).",
+       "Objektive Umstände sind etwa Werbung, die nur die Funktion herausstellt, Patentschriften für dasselbe Erzeugnis (BGH Papierspender) oder das Fehlen jeder gestalterischen Variation. Die Prüfung erfolgt Merkmal für Merkmal; nichtig ist das Design nur, wenn alle den Gesamteindruck prägenden Merkmale technisch bedingt sind (BGH Tellerschleifgerät). Bleiben gestalterisch bestimmte Merkmale, besteht Schutz, technische Merkmale werden beim Schutzumfang gering gewichtet."
+      ],
+      "merke": "Technisch bedingt ist, was allein die Funktion diktiert hat; Alternativen beweisen keine Ästhetik.",
+      "level": 2,
+      "concepts": [
+       "des_technisch_bedingt"
+      ],
+      "norms": [
+       "§ 3 Abs. 1 DesignG",
+       "Art. 8 GGV"
+      ],
+      "cases": [
+       "des_eugh_doceram",
+       "des_bgh_tellerschleifgeraet",
+       "des_bgh_papierspender"
+      ],
+      "step": "step:des_schema_schutzfaehigkeit.3.1",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-7",
+      "typ": "mc",
+      "titel": "Der Klemmbaustein",
+      "sachverhalt": "",
+      "frage": "Ein Spielwarenhersteller beantragt beim EUIPO die Nichtigerklärung eines Unionsgeschmacksmusters für einen Klemmbaustein mit Noppen: Die Noppen und Hohlräume seien ausschließlich technisch bedingt (Art. 8 Abs. 1 GGV) und zugleich Verbindungselemente (Art. 8 Abs. 2 GGV). Wie ist die Rechtslage nach EuG Lego?",
+      "optionen": [
+       "Die Rückausnahme für modulare Systeme (Art. 8 Abs. 3 GGV, § 3 Abs. 2 DesignG) ist auch zu prüfen, wenn die Merkmale zugleich technisch bedingt im Sinne des Abs. 1 sind; nichtig ist das Design nur, wenn alle Merkmale ausgeschlossen sind",
+       "Verbindungselemente sind immer schutzlos, weil Art. 8 Abs. 2 GGV keine Ausnahme kennt",
+       "Art. 8 Abs. 3 GGV gilt nur, wenn Art. 8 Abs. 1 GGV nicht erfüllt ist",
+       "Spielzeugbausteine sind als Erzeugnisse vom Designschutz ausgenommen"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "Art. 8 Abs. 2 GGV (§ 3 Abs. 1 Nr. 2 DesignG) schließt Must-fit-Merkmale aus, Art. 8 Abs. 3 GGV (§ 3 Abs. 2 DesignG) nimmt Merkmale zurück, die den Zusammenbau austauschbarer Teile in einem modularen System ermöglichen. Das EuG hat entschieden, dass diese Rückausnahme auch dann anzuwenden ist, wenn dieselben Merkmale als ausschließlich technisch bedingt nach Abs. 1 angegriffen werden; das EUIPO hatte sie zu Unrecht nicht geprüft und zudem die glatte Oberseite des Steins übersehen. Ein Design ist nur nichtig, wenn alle Erscheinungsmerkmale ausgeschlossen sind.",
+       "Merke die Dreiteilung: Nr. 1 technisch bedingt (DOCERAM-Maßstab), Nr. 2 must fit, Abs. 2 Rückausnahme für Bausteinsysteme; formgebundene Ersatzteile (must match) sind kein Fall des § 3 DesignG, sondern von § 4 und § 40a DesignG."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "des_verbindungselemente",
+       "des_technisch_bedingt"
+      ],
+      "norms": [
+       "§ 3 Abs. 1 DesignG",
+       "§ 3 Abs. 2 DesignG",
+       "Art. 8 GGV"
+      ],
+      "cases": [
+       "des_eug_lego",
+       "des_eugh_doceram"
+      ],
+      "step": "step:des_schema_schutzfaehigkeit.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-8",
+      "typ": "fall",
+      "titel": "Die Sattelunterseite",
+      "sachverhalt": "Die Sattel GmbH hat 2011 ein Design eintragen lassen, das nur die Unterseite eines Fahrradsattels zeigt. Die Radteile KG beantragt die Nichtigkeit: Die Unterseite sei beim Fahren nicht sichtbar, der Sattel sei ein Bauelement des komplexen Erzeugnisses Fahrrad (§ 4 DesignG).",
+      "frage": "Ist das Design schon deshalb nichtig, weil die Sattelunterseite während des Fahrens nicht zu sehen ist?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Ein Bauelement eines komplexen Erzeugnisses ist schutzfähig, wenn es bei bestimmungsgemäßer Verwendung sichtbar bleibt (§ 4, § 1 Nr. 4 DesignG, Art. 3 Abs. 3, 4 DesignRL). Die Sichtbarkeit ist aus Sicht des Endbenutzers und eines außenstehenden Beobachters zu beurteilen, und das Bauelement muss nicht in jedem Moment sichtbar sein. Bestimmungsgemäße Verwendung umfasst neben dem Fahren die Handlungen, die der Endbenutzer üblicherweise dabei vornimmt, etwa Aufbewahrung und Transport, nicht aber Wartung und Reparatur (EuGH Monz/Büchel; BGH Sattelunterseite II).",
+       "Wird der Sattel beim Tragen des Rads über eine Treppe oder beim Aufhängen im Keller von unten sichtbar, genügt das. Kann das Bauelement zu mehreren komplexen Erzeugnissen gehören (Fahrrad, Motorrad), greift der Ausschluss nur, wenn es bei keinem sichtbar bleibt (BPatG Sattelunterseite II). Für das Design von 2011 gilt neues Recht (§ 72 DesignG)."
+      ],
+      "merke": "Sichtbar bei üblicher Benutzung einschließlich Lagern und Tragen, nicht nur im Betrieb; Reparatur zählt nicht.",
+      "level": 2,
+      "concepts": [
+       "des_bauelement_sichtbarkeit",
+       "des_erzeugnis"
+      ],
+      "norms": [
+       "§ 4 DesignG",
+       "§ 1 DesignG",
+       "Art. 3 DesignRL"
+      ],
+      "cases": [
+       "des_eugh_monz",
+       "des_bgh_sattelunterseite_ii",
+       "des_bpatg_sattelunterseite_ii"
+      ],
+      "step": "step:des_schema_schutzfaehigkeit.2.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-9",
+      "typ": "fall",
+      "titel": "Die violette Trittleiter",
+      "sachverhalt": "Die Haushalt GmbH lässt eine Trittleiter als Design eintragen, die sich von einem vorbekannten Modell desselben Herstellers nur durch eine violette statt graue Lackierung unterscheidet; Form, Stufen und Bügel sind identisch. Ein Wettbewerber beantragt die Feststellung der Nichtigkeit.",
+      "frage": "Hat das Design Eigenart allein wegen der abweichenden Farbe?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine besondere Farbgestaltung kann die Eigenart im Einzelfall begründen, dafür bedarf es aber besonderer Umstände, etwa einer ungewöhnlichen oder auf Erfordernisse abgestimmten Farbgebung. Unterscheidet sich ein Design mit prägenden Formmerkmalen von einem vorbekannten Muster nur in der Farbe, ist die Eigenart regelmäßig zu verneinen (BPatG Violette Trittleiter, im Anschluss an Pinke Radkappe).",
+       "Der informierte Benutzer nimmt die Leiter über ihre Form wahr; ein Farbwechsel innerhalb des Üblichen ändert den Gesamteindruck nicht. Anders läge es bei einem Design, dessen prägendes Merkmal eine Farbkombination oder ein Kontrast ist (Schwarz-Weiß-Wiedergabe schützt dann den Hell-Dunkel-Kontrast, BGH Sportbrille)."
+      ],
+      "merke": "Farbe allein trägt die Eigenart nur ausnahmsweise; die Form prägt den Gesamteindruck.",
+      "level": 1,
+      "concepts": [
+       "des_eigenart",
+       "des_gesamteindruck"
+      ],
+      "norms": [
+       "§ 2 Abs. 3 DesignG",
+       "§ 33 Abs. 1 DesignG"
+      ],
+      "cases": [
+       "des_bpatg_violette_trittleiter",
+       "des_bgh_sportbrille"
+      ],
+      "step": "step:des_schema_schutzfaehigkeit.6.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01b-10",
+      "typ": "intro",
+      "titel": "Neuheit und Eigenart nebeneinander",
+      "text": "Die beiden Schutzvoraussetzungen des § 2 DesignG werden oft in einem Atemzug genannt, prüfen aber Verschiedenes: Die **Neuheit** fragt nach dem Doppelgänger (identisch bis auf unwesentliche Einzelheiten), die **Eigenart** nach dem anderen Gesamteindruck beim informierten Benutzer unter Berücksichtigung der Gestaltungsfreiheit. Weil die Identitätsschwelle eng ist, fällt fast jede Entscheidung bei der Eigenart. Und weil § 38 Abs. 2 DesignG den Schutzumfang mit demselben Maßstab bestimmt, entscheidet der Abstand zum Formenschatz zweimal: über den Bestand und über die Reichweite des Designs.",
+      "concepts": [
+       "des_neuheit",
+       "des_eigenart",
+       "des_schutzumfang"
+      ],
+      "norms": [
+       "§ 2 Abs. 2 DesignG",
+       "§ 2 Abs. 3 DesignG",
+       "§ 38 Abs. 2 DesignG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_des_neuheit_eigenart"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "d01c",
+    "titel": "Anmeldung und Eintragung beim DPMA",
+    "einheiten": [
+     {
+      "id": "d01c-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Anmeldung und Eintragung",
+      "schema": "des_schema_anmeldung",
+      "text": "Berechtigung, Unterlagen und Wiedergabe, Anmeldetag, Priorität und Schonfrist, Gebühren, Prüfung, Rechtsbehelfe, Eintragung, Aufschiebung, Schutzdauer.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "d01c-1",
+      "typ": "fall",
+      "titel": "Der Sporthelm in fünf Varianten",
+      "sachverhalt": "Die Helm AG meldet ein einzelnes Design an und reicht sieben Fotos ein: Der Helm ist einmal mit, einmal ohne Kinnriemen abgebildet, in drei Farben, teils mit Reiterknopf, teils mit Dekorstreifen. Ein Wettbewerber beantragt die Nichtigkeit wegen fehlenden einheitlichen Schutzgegenstands.",
+      "frage": "Ist das Design nichtig, weil die Darstellungen verschiedene Ausführungsformen zeigen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Der Schutz besteht für die Merkmale, die in der Anmeldung sichtbar wiedergegeben sind (§ 37 Abs. 1 DesignG). Zeigen mehrere Darstellungen eines Einzeldesigns verschiedene Ausführungsformen mit unterschiedlichen Merkmalen (Beriemung, Reiterknopf, Farben, Dekore), geben sie nicht die Erscheinungsform „eines“ Erzeugnisses wieder; das Design lässt keinen einheitlichen Schutzgegenstand nach § 1 Nr. 1 DesignG erkennen und ist nach § 33 Abs. 1 Nr. 1 DesignG nichtig (BGH Sporthelm).",
+       "Beansprucht der Inhaber Schutz gerade für die abweichenden Merkmale, darf der Schutzgegenstand nicht aus der Schnittmenge der gemeinsamen Merkmale gebildet werden. Anders, wenn die Auslegung ergibt, dass Abweichungen unbeachtlich sind und ein einheitlicher Kern erkennbar bleibt (BGH Weinkaraffe, Schneidebrett). Richtig wäre eine Sammelanmeldung mit einem Design je Variante gewesen (§ 12 DesignG, bis zu 100 Designs)."
+      ],
+      "merke": "Eine Anmeldung, ein Design, eine Ausführungsform; Varianten gehören in die Sammelanmeldung.",
+      "level": 2,
+      "concepts": [
+       "des_wiedergabe",
+       "des_schutzgegenstand",
+       "des_sammelanmeldung"
+      ],
+      "norms": [
+       "§ 37 Abs. 1 DesignG",
+       "§ 33 Abs. 1 DesignG",
+       "§ 7 DesignV",
+       "§ 12 DesignG"
+      ],
+      "cases": [
+       "des_bgh_sporthelm",
+       "des_bgh_weinkaraffe",
+       "des_bgh_schneidebrett"
+      ],
+      "step": "step:des_schema_anmeldung.2.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01c-2",
+      "typ": "fall",
+      "titel": "Fax ohne Bild",
+      "sachverhalt": "Patentanwältin Reh faxt am 30.06.2026 für die Lampe GmbH den Eintragungsantrag mit Anmelderangaben und Erzeugnisangabe an das DPMA; die Fotos der Lampe schickt sie am 03.07.2026 per Post nach. Der Antrag nennt als gewünschten Anmeldetag den 30.06.2026.",
+      "frage": "Erhält die Anmeldung den 30.06.2026 als Anmeldetag?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Anmeldetag ist der Tag, an dem die Unterlagen mit den Angaben nach § 11 Abs. 2 DesignG eingehen: Eintragungsantrag, Identität des Anmelders und eine zur Bekanntmachung geeignete Wiedergabe (§ 13 Abs. 1 DesignG). Ohne Wiedergabe fehlt ein Mindesterfordernis; Anmeldetag ist erst der 03.07.2026. Wiedergaben sind zudem im Original oder elektronisch einzureichen, nicht per Telefax (§ 4 Abs. 2 DesignV), weil die Bildqualität den Schutzgegenstand bestimmt.",
+       "Die Erzeugnisangabe (§ 11 Abs. 3 DesignG) und die Gebühr sind für den Anmeldetag nicht erforderlich, sondern werden nach § 16 DesignG mit Frist nachgefordert. Die Anmeldegebühr (60 EUR elektronisch, 70 EUR Papier) ist binnen drei Monaten zu zahlen (§ 6 PatKostG), sonst gilt die Anmeldung als zurückgenommen."
+      ],
+      "merke": "Antrag, Anmelder, Bild: ohne Wiedergabe kein Anmeldetag.",
+      "level": 1,
+      "concepts": [
+       "des_anmeldetag",
+       "des_anmeldung",
+       "des_wiedergabe"
+      ],
+      "norms": [
+       "§ 13 DesignG",
+       "§ 11 Abs. 2 DesignG",
+       "§ 4 DesignV",
+       "§ 6 PatKostG"
+      ],
+      "cases": [],
+      "step": "step:des_schema_anmeldung.2.1",
+      "distinctions": []
+     },
+     {
+      "id": "d01c-3",
+      "typ": "mc",
+      "titel": "Gebühren einer Sammelanmeldung",
+      "sachverhalt": "",
+      "frage": "Die Textil AG meldet elektronisch 25 Stoffmuster in einer Sammelanmeldung an. Welche Anmeldegebühr fällt an?",
+      "optionen": [
+       "60 EUR für die ersten zehn Designs plus 15 × 6 EUR = 150 EUR",
+       "25 × 60 EUR = 1.500 EUR",
+       "60 EUR pauschal, weil es eine Anmeldung ist",
+       "25 × 6 EUR = 150 EUR ohne Grundgebühr"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "Für eine Sammelanmeldung (§ 12 Abs. 1 DesignG, bis zu 100 Designs) beträgt die Gebühr bei elektronischer Anmeldung 60 EUR für zwei bis zehn Designs und 6 EUR für jedes weitere Design (Nr. 341 200 GV PatKostG); in Papierform 70 EUR und 7 EUR (Nr. 341 300). Für 25 Designs also 60 + 15 × 6 = 150 EUR, fällig mit Einreichung (§ 3 Abs. 1 PatKostG), Zahlungsfrist drei Monate (§ 6 PatKostG).",
+       "Wird zu wenig gezahlt und trifft die Anmelderin keine Bestimmung, welche Designs gedeckt sein sollen, werden die Designs in der Reihenfolge der Anmeldung berücksichtigt (§ 16 Abs. 2 DesignG). Später fallen je Design Aufrechterhaltungsgebühren an (90, 120, 150, 180 EUR für die Fünfjahresabschnitte ab dem 6. Jahr, § 28 DesignG)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "des_sammelanmeldung",
+       "des_anmeldung",
+       "des_schutzdauer"
+      ],
+      "norms": [
+       "§ 12 DesignG",
+       "§ 16 Abs. 2 DesignG",
+       "§ 28 DesignG",
+       "§ 6 PatKostG"
+      ],
+      "cases": [],
+      "step": "step:des_schema_anmeldung.4",
+      "distinctions": []
+     },
+     {
+      "id": "d01c-4",
+      "typ": "fall",
+      "titel": "Aufschiebung und vergessene Erstreckung",
+      "sachverhalt": "Die Auto AG meldet am 01.03.2024 das Design einer neuen Frontpartie mit Antrag auf Aufschiebung der Bildbekanntmachung an; das Design wird eingetragen. Am 01.10.2026 bemerkt die Rechtsabteilung, dass keine Erstreckungsgebühr gezahlt wurde. Das Modell ist seit Mai 2026 auf dem Markt.",
+      "frage": "Besteht der Designschutz am 01.10.2026 noch?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Bei Aufschiebung beschränkt sich die Bekanntmachung 30 Monate lang auf die Eintragung (§ 21 Abs. 1 DesignG). Der Schutz kann auf die volle Schutzdauer erstreckt werden, wenn der Rechtsinhaber innerhalb der Aufschiebungsfrist die Erstreckungsgebühr (40 EUR je Design) entrichtet (§ 21 Abs. 2 DesignG); sonst endet die Schutzdauer mit Ablauf der Aufschiebungsfrist (§ 21 Abs. 4 DesignG). 30 Monate ab dem 01.03.2024 endeten am 01.09.2026; seither ist das Design erloschen und wird gelöscht (§ 36 Abs. 1 Nr. 1 DesignG).",
+       "Während der Aufschiebung bestand ohnehin nur Nachahmungsschutz (§ 38 Abs. 3 DesignG). Weiterbehandlung (§ 17 DesignG) hilft nicht, weil keine Amtsfrist versäumt wurde; Wiedereinsetzung nach § 23 Abs. 5 DesignG i.V.m. § 123 PatG scheitert am Verschulden einer Rechtsabteilung ohne Fristenkontrolle. Rettung: Neuanmeldung innerhalb der Neuheitsschonfrist, die mit der Markteinführung im Mai 2026 begann (§ 6 DesignG), bis Mai 2027; dazu das nicht eingetragene Unionsgeschmacksmuster für drei Jahre."
+      ],
+      "merke": "Aufschiebung heißt 30 Monate Geheimnis, aber nur mit Erstreckungsgebühr 25 Jahre Schutz.",
+      "level": 2,
+      "concepts": [
+       "des_aufschiebung",
+       "des_schutzdauer",
+       "des_weiterbehandlung",
+       "des_neuheitsschonfrist"
+      ],
+      "norms": [
+       "§ 21 DesignG",
+       "§ 38 Abs. 3 DesignG",
+       "§ 36 DesignG",
+       "§ 6 DesignG"
+      ],
+      "cases": [],
+      "step": "step:des_schema_anmeldung.6",
+      "distinctions": []
+     },
+     {
+      "id": "d01c-5",
+      "typ": "fall",
+      "titel": "Die versäumte Mängelfrist",
+      "sachverhalt": "Das DPMA fordert die Leuchten KG auf, binnen zwei Monaten eine fehlende Erzeugnisangabe nachzureichen. Die Frist verstreicht, am 10.08.2026 wird der Zurückweisungsbeschluss zugestellt. Am 05.09.2026 reicht der Patentanwalt die Erzeugnisangabe nach, beantragt Weiterbehandlung und zahlt 100 EUR.",
+      "frage": "Wird der Zurückweisungsbeschluss wirkungslos?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ist die Anmeldung nach Versäumung einer vom DPMA bestimmten Frist zurückgewiesen worden, wird der Beschluss wirkungslos, wenn der Anmelder binnen eines Monats nach Zustellung die Weiterbehandlung beantragt, die versäumte Handlung nachholt und die Weiterbehandlungsgebühr (100 EUR, Nr. 346 000 GV PatKostG) zahlt (§ 17 Abs. 1, 2 DesignG). Die Monatsfrist ab 10.08.2026 ist am 05.09.2026 gewahrt; auf ein Verschulden kommt es nicht an.",
+       "Gegen die Versäumung der Weiterbehandlungsfrist selbst gibt es keine Wiedereinsetzung (§ 17 Abs. 3 DesignG). Die Weiterbehandlung gilt nur für Amtsfristen im Anmeldeverfahren, nicht für gesetzliche Fristen wie die Gebührenzahlung nach § 6 PatKostG oder die Widerspruchsfrist im Nichtigkeitsverfahren. Alternative wäre die Beschwerde zum BPatG (§ 23 Abs. 4 DesignG, 200 EUR)."
+      ],
+      "merke": "Weiterbehandlung: ein Monat ab Zustellung, Handlung nachholen, 100 EUR, kein Verschuldensmaßstab.",
+      "level": 1,
+      "concepts": [
+       "des_weiterbehandlung",
+       "des_pruefung_dpma"
+      ],
+      "norms": [
+       "§ 17 DesignG",
+       "§ 16 Abs. 3 DesignG",
+       "§ 23 Abs. 4 DesignG"
+      ],
+      "cases": [],
+      "step": "step:des_schema_anmeldung.5.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01c-6",
+      "typ": "fall",
+      "titel": "Was prüft das DPMA?",
+      "sachverhalt": "Die Kunst GmbH meldet als Design ein Möbelstück an, das der eingetragenen Designerin eines Konkurrenten bis ins Detail gleicht und zudem eine bekannte Marke auf der Front trägt. Die Prüferin des DPMA erkennt beides, trägt das Design aber ein.",
+      "frage": "Hat das DPMA die Anmeldung zu Recht eingetragen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Das DPMA prüft nur Gebühren, Anmeldetagserfordernisse und Formerfordernisse (§ 16 Abs. 1 DesignG) sowie die Eintragungshindernisse des § 18 DesignG: kein Design im Sinne des § 1 Nr. 1 DesignG oder Ausschluss nach § 3 Abs. 1 Nr. 3 oder 4 DesignG (Sittenverstoß, Hoheitszeichen). Neuheit, Eigenart, ältere Designs und fremde Marken werden nicht geprüft; die Eintragung erfolgt ohne Prüfung der Berechtigung (§ 19 Abs. 2 DesignG).",
+       "Das eingetragene Design ist ein ungeprüftes Registerrecht mit Vermutung der Rechtsgültigkeit (§ 39 DesignG). Die Konkurrentin muss die Nichtigkeit beim DPMA beantragen: fehlende Eigenart als absoluter Grund (§ 33 Abs. 1 Nr. 2 DesignG, jedermann), das ältere Design und die Marke als relative Gründe (§ 33 Abs. 2 Nr. 2, 3 DesignG, nur der Rechtsinhaber, § 34 DesignG)."
+      ],
+      "merke": "Das DPMA prüft Form und Sitten, nicht Neuheit und Eigenart; das Register vermutet, das Nichtigkeitsverfahren entscheidet.",
+      "level": 1,
+      "concepts": [
+       "des_pruefung_dpma",
+       "des_ordre_public",
+       "des_vermutung_rechtsgueltigkeit"
+      ],
+      "norms": [
+       "§ 16 DesignG",
+       "§ 18 DesignG",
+       "§ 19 DesignG",
+       "§ 39 DesignG",
+       "§ 33 DesignG"
+      ],
+      "cases": [],
+      "step": "step:des_schema_anmeldung.5.1",
+      "distinctions": []
+     },
+     {
+      "id": "d01c-7",
+      "typ": "fall",
+      "titel": "Die Agentur und das Recht auf das Design",
+      "sachverhalt": "Die Möbel GmbH beauftragt die freie Designagentur Form & Co mit dem Entwurf eines Stuhls; ein schriftlicher Vertrag regelt nur das Honorar. Die Möbel GmbH meldet den Stuhl auf ihren Namen als Design an. Die Agentur verlangt Übertragung des Designs.",
+      "frage": "Steht das Recht auf das eingetragene Design der Agentur zu?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Das Recht auf das eingetragene Design steht dem Entwerfer oder seinem Rechtsnachfolger zu (§ 7 Abs. 1 DesignG). Nur Arbeitnehmerdesigns gehen kraft Gesetzes auf den Arbeitgeber über (§ 7 Abs. 2 DesignG); eine freie Agentur ist kein Arbeitnehmer. Ohne vertragliche Übertragung bleibt das Recht bei der Agentur; die Möbel GmbH ist Nichtberechtigte.",
+       "Die Agentur kann nach § 9 Abs. 1 DesignG Übertragung oder Einwilligung in die Löschung verlangen, durch Klage binnen drei Jahren ab Bekanntmachung, bei Bösgläubigkeit unbefristet (§ 9 Abs. 2 DesignG). Aus dem Vertragszweck folgt allenfalls eine Lizenz zugunsten der Möbel GmbH; deshalb gehört in jeden Designvertrag eine ausdrückliche Rechtsübertragung. Anders als bei Erfindungen gibt es weder Inanspruchnahme noch gesetzliche Vergütung."
+      ],
+      "merke": "Arbeitnehmer entwerfen für den Arbeitgeber, Agenturen für sich; ohne Übertragung hilft nur die Vindikation.",
+      "level": 2,
+      "concepts": [
+       "des_entwerfer_recht",
+       "des_arbeitnehmerdesign",
+       "des_vindikation"
+      ],
+      "norms": [
+       "§ 7 DesignG",
+       "§ 9 DesignG"
+      ],
+      "cases": [],
+      "step": "step:des_schema_anmeldung.1",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "d01d",
+    "titel": "Nichtigkeit: DPMA-Verfahren und Widerklage",
+    "einheiten": [
+     {
+      "id": "d01d-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Nichtigkeitsverfahren vor dem DPMA",
+      "schema": "des_schema_nichtigkeitsverfahren",
+      "text": "Zulässigkeit des Antrags, Säumnisprinzip, Nichtigkeitsgründe, Entscheidung der Designabteilung, Beschwerde zum BPatG, Alternativen.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "d01d-1",
+      "typ": "fall",
+      "titel": "Kein Widerspruch",
+      "sachverhalt": "Die Trend GmbH beantragt beim DPMA die Feststellung der Nichtigkeit eines Designs der Feder KG wegen fehlender Eigenart und zahlt 300 EUR. Das DPMA stellt den Antrag am 02.03.2026 zu. Die Feder KG, die das Design für schutzfähig hält, antwortet erst am 20.04.2026 mit einer ausführlichen Verteidigung.",
+      "frage": "Muss das DPMA die Eigenart nun in der Sache prüfen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Das DPMA fordert den Inhaber auf, sich innerhalb eines Monats nach Zustellung zum Antrag zu erklären; widerspricht er nicht innerhalb dieser Frist, wird die Nichtigkeit festgestellt oder erklärt (§ 34a Abs. 2 S. 2 DesignG). Die Frist endete am 02.04.2026; die Verteidigung vom 20.04.2026 ist verspätet, das DPMA stellt die Nichtigkeit ohne Sachprüfung fest (Säumnisprinzip).",
+       "Weiterbehandlung nach § 17 DesignG gibt es hier nicht (sie gilt nur für die Anmeldung); in Betracht kommt Wiedereinsetzung nach § 23 Abs. 5 DesignG i.V.m. § 123 PatG bei unverschuldeter Versäumung, was bei bewusster Verzögerung ausscheidet. Über die Kosten entscheidet das DPMA in diesem Fall nur auf Antrag (§ 34a Abs. 5 S. 2 DesignG). Gegen den Beschluss bleibt die Beschwerde zum BPatG (§ 23 Abs. 4 DesignG), die aber die Säumnis nicht heilt."
+      ],
+      "merke": "Ein Monat Widerspruchsfrist, sonst fällt das Design ohne Prüfung.",
+      "level": 1,
+      "concepts": [
+       "des_nichtigkeitsverfahren_dpma"
+      ],
+      "norms": [
+       "§ 34a Abs. 2 DesignG",
+       "§ 34a Abs. 5 DesignG",
+       "§ 23 Abs. 5 DesignG"
+      ],
+      "cases": [],
+      "step": "step:des_schema_nichtigkeitsverfahren.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01d-2",
+      "typ": "mc",
+      "titel": "Wer darf was beantragen?",
+      "sachverhalt": "",
+      "frage": "Die Uhren AG hält ein eingetragenes Design für ein Zifferblatt, das dem älteren eingetragenen Design der Zeit GmbH und zugleich einem urheberrechtlich geschützten Gemälde des Malers M gleicht; außerdem fehlt ihm nach Ansicht vieler die Eigenart. Wer kann welchen Nichtigkeitsgrund beim DPMA geltend machen?",
+      "optionen": [
+       "Fehlende Eigenart: jedermann (§ 33 Abs. 1 Nr. 2, § 34 S. 1 DesignG); älteres Design: nur die Zeit GmbH; Urheberrecht: nur M (§ 33 Abs. 2 Nr. 1, 2, § 34 S. 2 DesignG)",
+       "Alle Gründe kann jedermann geltend machen, weil das Nichtigkeitsverfahren ein Popularverfahren ist",
+       "Alle Gründe kann nur die Zeit GmbH als Inhaberin des ältesten Rechts geltend machen",
+       "Das DPMA prüft alle Gründe von Amts wegen, ein Antrag ist nicht nötig"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "§ 33 DesignG unterscheidet absolute Gründe (Abs. 1: kein Design, fehlende Neuheit oder Eigenart, Ausschluss nach § 3 DesignG), deren Feststellung jedermann beantragen kann (§ 34 S. 1 DesignG), und relative Gründe (Abs. 2: Urheberrecht, älteres Design, Zeichen mit Unterscheidungskraft), deren Erklärung nur der Inhaber des betroffenen Rechts beantragen kann (§ 34 S. 2 DesignG). Den Hoheitszeichen-Grund kann nur der Betroffene geltend machen (§ 34 S. 3 DesignG).",
+       "Das entspricht Art. 11 Abs. 3 bis 5 DesignRL und Art. 25 Abs. 2 bis 4 GGV. Ein Antrag kann mehrere Gründe kumulieren (§ 21 Abs. 3 DesignV). Das DPMA wird nur auf Antrag tätig; es gibt kein Amtslöschungsverfahren."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "des_nichtigkeit",
+       "des_nichtigkeitsverfahren_dpma"
+      ],
+      "norms": [
+       "§ 33 DesignG",
+       "§ 34 DesignG",
+       "§ 21 DesignV"
+      ],
+      "cases": [],
+      "step": "step:des_schema_nichtigkeitsverfahren.1.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01d-3",
+      "typ": "fall",
+      "titel": "Nur eine Einrede",
+      "sachverhalt": "Die Lampe GmbH verklagt die Licht KG vor dem Landgericht auf Unterlassung aus einem eingetragenen Design. Die Licht KG verteidigt sich allein mit dem Vortrag, das Design sei nicht neu, und legt Kataloge vor; eine Widerklage erhebt sie nicht, einen Antrag beim DPMA stellt sie nicht.",
+      "frage": "Darf das Landgericht die Klage wegen fehlender Neuheit abweisen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Zugunsten des Rechtsinhabers wird die Rechtsgültigkeit des eingetragenen Designs vermutet (§ 39 DesignG). Eine Partei kann sich auf die fehlende Rechtsgültigkeit nur durch Widerklage auf Feststellung oder Erklärung der Nichtigkeit oder durch einen Antrag beim DPMA berufen (§ 52a S. 1 DesignG); die bloße Einrede ist seit 2014 ausgeschlossen. Das Gericht muss das Design als rechtsgültig behandeln.",
+       "Ausnahme ist das einstweilige Verfügungsverfahren (§ 52a S. 2 DesignG), in dem eine Widerklage nicht möglich ist. Erhebt die Licht KG Widerklage, ist das Designgericht zuständig (§ 52b Abs. 1 DesignG); auf Antrag der Lampe GmbH kann es aussetzen und die Licht KG ins DPMA-Verfahren verweisen (§ 52b Abs. 3 DesignG). Beim nicht eingetragenen Unionsgeschmacksmuster bleibt die Einrede dagegen zulässig (Art. 85 Abs. 2 GGV)."
+      ],
+      "merke": "Registerrecht seit 2014: Nichtigkeit nur per Widerklage oder DPMA-Antrag, nie als bloße Einrede.",
+      "level": 2,
+      "concepts": [
+       "des_widerklage_nichtigkeit",
+       "des_vermutung_rechtsgueltigkeit"
+      ],
+      "norms": [
+       "§ 39 DesignG",
+       "§ 52a DesignG",
+       "§ 52b DesignG",
+       "Art. 85 GGV"
+      ],
+      "cases": [
+       "des_eugh_karen_millen"
+      ],
+      "step": "step:des_schema_designverletzung.5.5",
+      "distinctions": []
+     },
+     {
+      "id": "d01d-4",
+      "typ": "fall",
+      "titel": "Aussetzung nach Klageerhebung",
+      "sachverhalt": "Die Kinder GmbH klagt aus einem eingetragenen Unionsgeschmacksmuster für einen Kinderwagen; zwei Wochen nach Zustellung der Klage beantragt die Beklagte beim EUIPO die Nichtigerklärung und beantragt beim Gericht, das Verfahren nach Art. 91 GGV auszusetzen.",
+      "frage": "Muss das Unionsgeschmacksmustergericht das Verfahren aussetzen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Nach Art. 91 Abs. 1 GGV setzt das Gericht das Verfahren aus, wenn die Rechtsgültigkeit bereits vor dem EUIPO angegriffen ist, sofern nicht besondere Gründe für die Fortsetzung sprechen. Eine Aussetzung kommt nicht in Betracht, wenn die Verletzungsklage vor dem Antrag auf Nichtigerklärung erhoben wurde (BGH Kinderwagen I); dann ist das Gericht für die Widerklage selbst zuständig (Art. 84, 86 GGV).",
+       "Die Beklagte muss also Widerklage erheben; das Gericht kann auf Antrag des Inhabers auch dann noch aussetzen und zur Antragstellung beim EUIPO auffordern (Art. 86 Abs. 3 GGV, parallel § 52b Abs. 3 DesignG). Im nationalen Recht regelt § 34b DesignG die Aussetzung: im Ermessen, zwingend, wenn das Gericht das Design für nichtig hält."
+      ],
+      "merke": "Wer zuerst kommt: Klage vor Nichtigkeitsantrag bedeutet Widerklage statt Aussetzung.",
+      "level": 2,
+      "concepts": [
+       "des_widerklage_nichtigkeit",
+       "des_ggm_gericht"
+      ],
+      "norms": [
+       "Art. 91 GGV",
+       "Art. 84 GGV",
+       "Art. 86 GGV",
+       "§ 34b DesignG"
+      ],
+      "cases": [
+       "des_bgh_kinderwagen_i"
+      ],
+      "step": "step:des_schema_nichtigkeitsverfahren.6.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01d-5",
+      "typ": "fall",
+      "titel": "Teilweise Aufrechterhaltung",
+      "sachverhalt": "Ein eingetragenes Design zeigt einen Sessel mit einem markanten Fußkreuz. Im Nichtigkeitsverfahren stellt sich heraus, dass das Fußkreuz einem älteren Design entspricht, während Sitzschale und Armlehnen eigenartig sind. Die Inhaberin bietet an, auf das Fußkreuz zu verzichten.",
+      "frage": "Kann das Design in geänderter Form ohne das Fußkreuz aufrechterhalten werden?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein eingetragenes Design kann in geänderter Form bestehen bleiben, wenn die Nichtigkeit nur einen Teil betrifft, durch Feststellung der Teilnichtigkeit oder Erklärung eines Teilverzichts, sofern das Design in der geänderten Form die Schutzvoraussetzungen erfüllt und seine Identität behält (§ 35 Abs. 1 DesignG, Art. 11 Abs. 7 DesignRL). Eine Wiedergabe in geänderter Form ist einzureichen (§ 35 Abs. 2 DesignG, § 20 Abs. 2 DesignV).",
+       "Die geänderte Form darf nur weglassen, nicht hinzufügen; sie muss im ursprünglichen Design enthalten sein, weil sonst ein neuer Schutzgegenstand entstünde. Ob der Sessel ohne Fußkreuz noch „dasselbe“ Design ist, entscheidet der Gesamteindruck. Beim Unionsgeschmacksmuster: Art. 25 Abs. 6 GGV."
+      ],
+      "merke": "Weglassen ja, ergänzen nein: Teilaufrechterhaltung nur unter Wahrung der Identität.",
+      "level": 2,
+      "concepts": [
+       "des_teilweise_aufrechterhaltung",
+       "des_nichtigkeit"
+      ],
+      "norms": [
+       "§ 35 DesignG",
+       "§ 20 DesignV",
+       "Art. 11 DesignRL"
+      ],
+      "cases": [],
+      "step": "step:des_schema_nichtigkeitsverfahren.3.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01d-6",
+      "typ": "intro",
+      "titel": "Drei Wege zur Nichtigkeit",
+      "text": "Ein eingetragenes Design fällt nur in einem förmlichen Verfahren: durch Antrag beim DPMA (§ 34a DesignG, seit 2014, mit Säumnisprinzip), durch Widerklage im Verletzungsprozess (§ 52b DesignG) oder, beim Unionsgeschmacksmuster, durch Antrag beim EUIPO (Art. 52 GGV) oder Widerklage (Art. 84 GGV). Die Tabelle stellt Zuständigkeit, Antragsbefugnis, Gebühren, Rechtsmittel und das Verhältnis zum Verletzungsprozess nebeneinander.",
+      "concepts": [
+       "des_nichtigkeitsverfahren_dpma",
+       "des_widerklage_nichtigkeit",
+       "des_beschwerde_bpatg"
+      ],
+      "norms": [
+       "§ 34a DesignG",
+       "§ 52b DesignG",
+       "§ 23 Abs. 4 DesignG",
+       "Art. 52 GGV"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_des_nichtigkeit_wege"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "d01e",
+    "titel": "Schutzumfang, Verletzung, Schranken",
+    "einheiten": [
+     {
+      "id": "d01e-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Designverletzung",
+      "schema": "des_schema_designverletzung",
+      "text": "Aktivlegitimation, Schutzgegenstand, Benutzungshandlung, Gesamteindruck, Einwendungen, Rechtsfolgen.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "d01e-1",
+      "typ": "fall",
+      "titel": "Untersetzer im dichten Formenschatz",
+      "sachverhalt": "Die Glas GmbH hält ein Unionsgeschmacksmuster für einen runden Getränkeuntersetzer mit leicht erhabenem Rand. Auf dem Markt gibt es Hunderte runder Untersetzer mit Rand. Die Beklagte vertreibt einen Untersetzer, der sich in Randhöhe und Oberflächenstruktur erkennbar unterscheidet.",
+      "frage": "Fällt der Untersetzer der Beklagten in den Schutzumfang des Klagemusters?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Schutz erstreckt sich auf jedes Design, das beim informierten Benutzer keinen anderen Gesamteindruck erweckt; dabei ist der Grad der Gestaltungsfreiheit des Entwerfers zu berücksichtigen (§ 38 Abs. 2 DesignG, Art. 10 GGV). Der Schutzumfang richtet sich nach dem Abstand des Klagemusters zum vorbekannten Formenschatz: Bei hoher Musterdichte und geringem Abstand ist der Schutzumfang eng, so dass schon geringe Unterschiede den Gesamteindruck ändern (BGH Untersetzer, Kinderwagen II).",
+       "Maßgeblich ist der Gestaltungsspielraum des Entwerfers des Klagemusters im Zeitpunkt seiner Anmeldung; woraus sich die Eigenart im Einzelnen ergibt, ist für den Schutzumfang unerheblich. Den schutzumfangsschmälernden Formenschatz muss die Beklagte vortragen (BGH Ballerinaschuh). Ein Design, das sich weit vom Formenschatz entfernt, hätte dagegen auch gegen deutlichere Abwandlungen Schutz."
+      ],
+      "merke": "Viel Abstand, viel Schutz; wenig Abstand, wenig Schutz: Eigenart und Schutzumfang sind zwei Seiten einer Medaille.",
+      "level": 2,
+      "concepts": [
+       "des_schutzumfang",
+       "des_gestaltungsfreiheit",
+       "des_formenschatz"
+      ],
+      "norms": [
+       "§ 38 Abs. 2 DesignG",
+       "Art. 10 GGV"
+      ],
+      "cases": [
+       "des_bgh_untersetzer",
+       "des_bgh_kinderwagen_ii",
+       "des_bgh_ballerinaschuh"
+      ],
+      "step": "step:des_schema_designverletzung.4.1",
+      "distinctions": []
+     },
+     {
+      "id": "d01e-2",
+      "typ": "fall",
+      "titel": "Die Armbanduhr von hinten",
+      "sachverhalt": "Die Zeit GmbH hält ein Design für eine Armbanduhr mit auffälligem Gehäuseboden. Die angegriffene Uhr gleicht dem Klagedesign auf dem Zifferblatt, hat aber einen völlig anderen Gehäuseboden. Die Beklagte meint, der Boden präge den Gesamteindruck entscheidend.",
+      "frage": "Ist der Gehäuseboden für den Gesamteindruck maßgeblich?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Für den Gesamteindruck nach § 38 Abs. 2 S. 1 DesignG kommt es darauf an, wie der informierte Benutzer das Erzeugnis bei bestimmungsgemäßer Verwendung wahrnimmt; bei einer Armbanduhr am Handgelenk tritt der Gehäuseboden zurück und das Zifferblatt prägt (BGH Armbanduhr). Zusätzlich kann der Eindruck bei der Präsentation in Werbung und Verkauf berücksichtigt werden.",
+       "Die Gewichtung der Merkmale richtet sich also nach der Nutzungssituation, nicht nach ihrer Fläche. Übereinstimmungen in den prägenden Merkmalen (Zifferblatt) wiegen schwerer als Unterschiede in nebensächlichen (Boden); Unterschiede in technisch bedingten Merkmalen sind nicht automatisch unbeachtlich (BGH Kinderwagen II)."
+      ],
+      "merke": "Der Gesamteindruck entsteht in der Gebrauchssituation: Was der Benutzer sieht, prägt.",
+      "level": 1,
+      "concepts": [
+       "des_gesamteindruck",
+       "des_informierter_benutzer"
+      ],
+      "norms": [
+       "§ 38 Abs. 2 DesignG"
+      ],
+      "cases": [
+       "des_bgh_armbanduhr",
+       "des_bgh_kinderwagen_ii"
+      ],
+      "step": "step:des_schema_designverletzung.4.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01e-3",
+      "typ": "fall",
+      "titel": "Schwarz-Weiß gegen Neonpink",
+      "sachverhalt": "Die Schreib AG hält ein Design für einen Füllfederhalter, eingetragen mit Schwarz-Weiß-Fotografien. Die Beklagte vertreibt einen formidentischen Füller in Neonpink mit schwarzen Kontraststreifen, die das Klagedesign nicht zeigt.",
+      "frage": "Ist bei der Verletzungsprüfung von der Farbe des angegriffenen Füllers zu abstrahieren?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, grundsätzlich.** Ist die Wiedergabe des Designs in Schwarz-Weiß gehalten, ist der Schutz nicht auf eine Farbe beschränkt; bei der Verletzungsprüfung ist die angegriffene Form daher von ihrer farblichen Gestaltung zu abstrahieren (BGH Schreibgeräte). Die Form des Neonpink-Füllers fällt in den Schutzumfang.",
+       "Ausnahme: Verwendet die angegriffene Ausführungsform Kontrastfarben, die zu einem anderen Gesamteindruck führen, kann das die Verletzung ausschließen; die schwarzen Streifen sind deshalb zu prüfen. Umgekehrt schützt eine Schwarz-Weiß-Fotografie mit Graustufen den Hell-Dunkel-Kontrast unabhängig von der konkreten Farbe (BGH Sportbrille). Wer die Farbe schützen will, meldet in Farbe an, und zwar nur eine Farbe je Design."
+      ],
+      "merke": "Schwarz-Weiß schützt die Form in jeder Farbe; Kontraste können den Gesamteindruck aber verändern.",
+      "level": 2,
+      "concepts": [
+       "des_schutzgegenstand",
+       "des_schutzumfang",
+       "des_wiedergabe"
+      ],
+      "norms": [
+       "§ 37 Abs. 1 DesignG",
+       "§ 38 Abs. 2 DesignG",
+       "§ 7 DesignV"
+      ],
+      "cases": [
+       "des_bgh_schreibgeraete",
+       "des_bgh_sportbrille"
+      ],
+      "step": "step:des_schema_designverletzung.2.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01e-4",
+      "typ": "fall",
+      "titel": "Das jüngere eingetragene Muster",
+      "sachverhalt": "Die Zaun GmbH hält seit 2022 ein eingetragenes Unionsgeschmacksmuster für einen Warnpfosten. Die Pfahl KG meldet 2024 gutgläubig ein fast identisches Muster an, das das EUIPO einträgt, und vertreibt es. Die Zaun GmbH klagt auf Unterlassung, ohne zuvor die Nichtigkeit des jüngeren Musters zu betreiben.",
+      "frage": "Kann die Zaun GmbH die Pfahl KG trotz deren eigener Eintragung auf Unterlassung in Anspruch nehmen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Das Verbotsrecht des Art. 19 Abs. 1 GGV richtet sich gegen jeden „Dritten“, auch gegen den Inhaber eines später eingetragenen Unionsgeschmacksmusters; die Nichtigerklärung des jüngeren Musters ist keine Voraussetzung der Verletzungsklage (EuGH Celaya Emparanza). Das Prioritätsprinzip gilt unabhängig von der Gutgläubigkeit des jüngeren Anmelders, weil das Amt Neuheit und Eigenart nicht prüft.",
+       "Die Pfahl KG kann sich mit der Widerklage verteidigen, dass das ältere Muster nichtig sei; ihr eigenes Muster wird auf Antrag der Zaun GmbH für nichtig erklärt (Art. 25 Abs. 1 lit. d GGV). Im deutschen Recht gilt dasselbe über § 38 Abs. 1 DesignG; das jüngere Design ist relativer Nichtigkeitsgrund (§ 33 Abs. 2 Nr. 2 DesignG)."
+      ],
+      "merke": "Eintragung schützt nicht vor Verletzung: Der Ältere darf, der Jüngere muss weichen.",
+      "level": 2,
+      "concepts": [
+       "des_benutzung",
+       "des_ggm_eingetragen"
+      ],
+      "norms": [
+       "Art. 19 GGV",
+       "Art. 25 GGV",
+       "§ 38 Abs. 1 DesignG",
+       "§ 33 Abs. 2 DesignG"
+      ],
+      "cases": [
+       "des_eugh_celaya"
+      ],
+      "step": "step:des_schema_designverletzung.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01e-5",
+      "typ": "fall",
+      "titel": "Der ICE auf dem Kalender",
+      "sachverhalt": "Ein Verlag druckt in einem Wandkalender „Züge Europas“ eine Fotografie des ICE 3, dessen Kopfform als Design eingetragen ist, ohne Text außer dem Zugnamen. Die Bahn AG mahnt ab; der Verlag beruft sich auf die Zitierfreiheit.",
+      "frage": "Ist die Wiedergabe als Zitat nach § 40 Nr. 3 DesignG erlaubt?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine Wiedergabe zum Zwecke der Zitierung setzt eine innere Verbindung zwischen dem wiedergegebenen Design und eigenen Gedanken des Zitierenden voraus: Das Design muss als Belegstelle oder Erörterungsgrundlage für eigene Ausführungen dienen (BGH ICE). Ein Kalenderbild ohne eigene Auseinandersetzung ist bloße Abbildung, kein Zitat.",
+       "Die Schranke des § 40 Nr. 3 DesignG (Art. 13 DesignRL, Art. 20 Abs. 1 lit. c GGV) gilt zudem nur bei Lauterkeit, ohne unangemessene Beeinträchtigung der normalen Verwertung und mit Quellenangabe. Zulässig wäre die Abbildung in einem Sachbuch über Zugdesign oder zur Erläuterung eigenen Zubehörs (EuGH Nintendo/BigBen). Ab 2027 kommen Referenznutzung, Kommentar, Kritik und Parodie als Schranken hinzu (Art. 18 DesignRL 2024)."
+      ],
+      "merke": "Zitieren heißt belegen: ohne eigene Gedanken kein Designzitat.",
+      "level": 1,
+      "concepts": [
+       "des_zitierschranke",
+       "des_schranken"
+      ],
+      "norms": [
+       "§ 40 DesignG",
+       "Art. 20 GGV",
+       "Art. 18 DesignRL 2024"
+      ],
+      "cases": [
+       "des_bgh_ice",
+       "des_eugh_nintendo"
+      ],
+      "step": "step:des_schema_designverletzung.5.1",
+      "distinctions": []
+     },
+     {
+      "id": "d01e-6",
+      "typ": "fall",
+      "titel": "Vorbereitung im Ausland (Bettgestell)",
+      "sachverhalt": "Die Betten KG entwickelt unabhängig ein Bettgestell und lässt es ab Januar 2023 in Polen produzieren; die ersten Lieferungen nach Deutschland erfolgen im Juli 2023. Am 15.05.2023 meldet die Möbel GmbH ein identisches Design in Deutschland an und klagt später aus dem Design.",
+      "frage": "Kann sich die Betten KG auf ein Vorbenutzungsrecht nach § 41 DesignG berufen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Ein Vorbenutzungsrecht setzt voraus, dass der Dritte vor dem Anmeldetag im Inland ein identisches, unabhängig entwickeltes Design gutgläubig in Benutzung genommen oder wirkliche und ernsthafte Anstalten dazu getroffen hat (§ 41 Abs. 1 DesignG). Als Anstalten genügen Vorbereitungshandlungen aller Art, die den ernstlichen Willen zur alsbaldigen Benutzung sicher erkennen lassen; nur im Inland getroffene Anstalten zählen (BGH Bettgestell). Die Produktion in Polen vor dem 15.05.2023 begründet kein inländisches Vorbenutzungsrecht.",
+       "Hätte die Betten KG vor dem Anmeldetag in Deutschland etwa Händlerverträge geschlossen, Kataloge gedruckt oder Muster ausgeliefert, wäre das eine inländische Anstalt. Das Vorbenutzungsrecht ist nicht übertragbar außer mit dem Unternehmensteil (§ 41 Abs. 2 DesignG). Beim Unionsgeschmacksmuster gilt Art. 22 GGV entsprechend."
+      ],
+      "merke": "Vorbenutzung braucht Inland, Gutgläubigkeit und Unabhängigkeit; Auslandsproduktion reicht nicht.",
+      "level": 2,
+      "concepts": [
+       "des_vorbenutzungsrecht"
+      ],
+      "norms": [
+       "§ 41 DesignG",
+       "Art. 22 GGV"
+      ],
+      "cases": [
+       "des_bgh_bettgestell"
+      ],
+      "step": "step:des_schema_designverletzung.5.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01e-7",
+      "typ": "fall",
+      "titel": "Erschöpfung: Originale aus Übersee",
+      "sachverhalt": "Die Design GmbH verkauft ihre designgeschützten Stühle in Japan über eine Tochtergesellschaft. Ein deutscher Händler importiert dort gekaufte Originalstühle und bietet sie in Deutschland an.",
+      "frage": "Kann die Design GmbH dem Händler den Vertrieb der Originalstühle verbieten?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Die Rechte aus dem Design erstrecken sich nicht auf Erzeugnisse, die vom Rechtsinhaber oder mit seiner Zustimmung in einem Mitgliedstaat der EU oder des EWR in Verkehr gebracht wurden (§ 48 DesignG, Art. 15 DesignRL, Art. 21 GGV). Das Inverkehrbringen in Japan erschöpft das Recht nicht: Es gilt unionsweite, keine internationale Erschöpfung. Der Import und das Anbieten sind Benutzungshandlungen nach § 38 Abs. 1 DesignG.",
+       "Anders läge es, wenn die Stühle zuerst in Italien verkauft worden wären. Erschöpfung erfasst nur das konkrete Stück; Umgestaltung oder Neuherstellung aus Teilen ist nicht gedeckt. Parallel: § 24 MarkenG, Art. 15 UMV."
+      ],
+      "merke": "Erschöpfung nur im EWR: Der Weltmarkt öffnet den Binnenmarkt nicht.",
+      "level": 1,
+      "concepts": [
+       "des_erschoepfung",
+       "des_benutzung"
+      ],
+      "norms": [
+       "§ 48 DesignG",
+       "§ 38 Abs. 1 DesignG",
+       "Art. 21 GGV"
+      ],
+      "cases": [],
+      "step": "step:des_schema_designverletzung.5.4",
+      "distinctions": []
+     },
+     {
+      "id": "d01e-8",
+      "typ": "fall",
+      "titel": "Nachbaufelgen (Acacia)",
+      "sachverhalt": "Die Felgen S.r.l. stellt Leichtmetallfelgen her, die den designgeschützten Originalfelgen der Auto AG in Form, Farbe und Größe entsprechen, prägt „NOT OEM“ ein und vertreibt sie in der Union als Ersatzteile. Die Auto AG klagt aus ihrem Unionsgeschmacksmuster; die Felgen S.r.l. beruft sich auf die Reparaturklausel (Art. 110 GGV a.F., heute Art. 20a GGV).",
+      "frage": "Kann sich die Felgen S.r.l. auf die Reparaturklausel berufen, obwohl Felgen keine formgebundenen Teile sind?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, nach altem Recht.** Die Reparaturklausel des Art. 110 Abs. 1 GGV a.F. war nicht auf formgebundene Bauelemente beschränkt, deren Gestalt durch das Erscheinungsbild des Gesamterzeugnisses vorgegeben ist (EuGH Acacia/Audi und Porsche; BGH Kraftfahrzeugfelgen II, Schlüsselgehäuse). Voraussetzung ist, dass das Ersatzteil dem Original optisch entspricht und ausschließlich zur Reparatur zwecks Wiederherstellung des ursprünglichen Erscheinungsbilds verwendet wird.",
+       "Der Anbieter muss Sorgfaltspflichten erfüllen: klarer Hinweis auf Erzeugnis, Verpackung und in Verkaufsunterlagen, dass das Teil nicht vom Rechtsinhaber stammt und nur zur Reparatur bestimmt ist, Vertragsbedingungen und Kontrollen gegen andere Verwendung. Seit 1.5.2025 beschränkt Art. 20a GGV die Klausel auf Bauelemente, von deren Erscheinungsform das Design abhängt (must match); Felgen fallen dann heraus. § 40a DesignG (seit 2020) ist ebenso eng, gilt aber nicht für Designs mit Anmeldung vor dem 2.12.2020 (§ 73 Abs. 2 DesignG)."
+      ],
+      "merke": "Alte Klausel: alle Ersatzteile mit Sorgfaltspflichten; neue Klausel (§ 40a DesignG, Art. 20a GGV): nur formgebundene.",
+      "level": 3,
+      "concepts": [
+       "des_reparaturklausel",
+       "des_bauelement_sichtbarkeit"
+      ],
+      "norms": [
+       "§ 40a DesignG",
+       "§ 73 DesignG",
+       "Art. 20a GGV",
+       "Art. 19 DesignRL 2024"
+      ],
+      "cases": [
+       "des_eugh_acacia_audi",
+       "des_bgh_kraftfahrzeugfelgen_ii",
+       "des_bgh_schluesselgehaeuse"
+      ],
+      "step": "step:des_schema_designverletzung.5.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01e-9",
+      "typ": "intro",
+      "titel": "Die Reparaturklausel im Zeitverlauf",
+      "text": "Kaum eine Vorschrift des Designrechts hat sich so oft geändert wie die Reparaturklausel. Die Tabelle ordnet die fünf Rechtslagen: kein Ersatzteilprivileg im DesignG bis 2020, § 40a DesignG seit 2.12.2020 mit Bestandsschutz für Altrechte, Art. 110 GGV a.F. bis 30.4.2025 (auch Felgen), Art. 20a GGV seit 1.5.2025 (nur formgebundene Teile) und Art. 19 DesignRL 2024, der die Klausel bis 2027 unionsweit zwingend macht. In der Klausur zuerst fragen: Welches Schutzrecht, welcher Anmeldetag, welcher Handlungszeitpunkt?",
+      "concepts": [
+       "des_reparaturklausel",
+       "des_unionsreform_2024",
+       "des_designrl_2024"
+      ],
+      "norms": [
+       "§ 40a DesignG",
+       "§ 73 DesignG",
+       "Art. 20a GGV",
+       "Art. 19 DesignRL 2024",
+       "Art. 14 DesignRL"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_des_reparaturklausel"
+      ]
+     }
+    ]
+   },
+   {
+    "id": "d01f",
+    "titel": "Rechtsfolgen und Durchsetzung",
+    "einheiten": [
+     {
+      "id": "d01f-1",
+      "typ": "fall",
+      "titel": "Der gutgläubige Händler und die Entschädigung",
+      "sachverhalt": "Der Einzelhändler Bauer verkauft seit einem Jahr Vasen, die ein eingetragenes Design der Glas GmbH verletzen; er hatte sie von einem seriösen Großhändler mit Freistellungserklärung bezogen. Die Glas GmbH verlangt Unterlassung und Vernichtung des Lagerbestands im Wert von 80.000 EUR.",
+      "frage": "Kann Bauer die Ansprüche auf Unterlassung und Vernichtung durch Zahlung einer Geldentschädigung abwenden?",
+      "antwort": true,
+      "loesung": [
+       "**Ja, wenn er schuldlos war.** Handelt der Verletzer weder vorsätzlich noch fahrlässig, kann er zur Abwendung der Ansprüche nach §§ 42, 43 DesignG den Verletzten in Geld entschädigen, wenn ihm durch die Erfüllung ein unverhältnismäßig großer Schaden entstünde und dem Verletzten die Abfindung zuzumuten ist (§ 45 DesignG, Umsetzung von Art. 12 DurchsetzungsRL). Als Entschädigung ist der Betrag zu zahlen, der bei vertraglicher Einräumung des Rechts als Vergütung angemessen gewesen wäre; mit der Zahlung gilt die Benutzung als erlaubt.",
+       "Ob Bauer schuldlos war, ist streng zu prüfen: Wer Waren vertreibt, muss das Designregister prüfen; eine Freistellungserklärung entlastet nicht zwingend. Die Entschädigungsoption gibt es nur im DesignG und im UrhG (§ 100 UrhG), nicht im MarkenG oder PatG. Bei Verschulden bleibt es bei Unterlassung, Vernichtung und Schadensersatz nach dreifacher Berechnung (§ 42 Abs. 2 DesignG)."
+      ],
+      "merke": "§ 45 DesignG: Der schuldlose Verletzer kauft sich mit der Lizenzgebühr frei; im Markenrecht gibt es das nicht.",
+      "level": 2,
+      "concepts": [
+       "des_schadensersatz",
+       "des_vernichtung_rueckruf",
+       "des_anspruchsgrundlagen_eu"
+      ],
+      "norms": [
+       "§ 45 DesignG",
+       "§ 42 DesignG",
+       "§ 43 DesignG",
+       "Art. 12 DurchsetzungsRL"
+      ],
+      "cases": [],
+      "step": "step:des_schema_designverletzung.6.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01f-2",
+      "typ": "mc",
+      "titel": "Vernichtung oder Überlassung?",
+      "sachverhalt": "",
+      "frage": "Die Möbel GmbH hat gegen einen Nachahmer einen Vernichtungsanspruch für 500 Stühle. Sie würde die Stühle lieber selbst verkaufen. Welche Möglichkeit gibt ihr das DesignG?",
+      "optionen": [
+       "Sie kann statt der Vernichtung verlangen, dass ihr die Stühle gegen eine angemessene Vergütung überlassen werden, die die Herstellungskosten nicht übersteigen darf (§ 43 Abs. 3 DesignG)",
+       "Sie kann die Stühle ohne Vergütung herausverlangen, weil sie das Design verletzen",
+       "Keine: Das DesignG kennt nur Vernichtung und Rückruf",
+       "Sie kann Überlassung gegen den Marktpreis verlangen"
+      ],
+      "richtig": 0,
+      "loesung": [
+       "§ 43 DesignG setzt Art. 10 DurchsetzungsRL um: Vernichtung (Abs. 1), Rückruf und Entfernen aus den Vertriebswegen (Abs. 2) und als Alternative die Überlassung der im Eigentum des Verletzers stehenden Erzeugnisse gegen eine angemessene Vergütung, die die Herstellungskosten nicht übersteigen darf (Abs. 3). Alle Ansprüche stehen unter dem Verhältnismäßigkeitsvorbehalt des Abs. 4.",
+       "Die Überlassung gibt es im MarkenG (§ 18) und PatG (§ 140a) nicht, wohl aber im UrhG (§ 98 Abs. 3). Sie ist verschuldensunabhängig und richtet sich auch gegen den Unternehmensinhaber (§ 44 DesignG)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "des_vernichtung_rueckruf",
+       "des_anspruchsgrundlagen_eu"
+      ],
+      "norms": [
+       "§ 43 DesignG",
+       "§ 44 DesignG",
+       "Art. 10 DurchsetzungsRL"
+      ],
+      "cases": [],
+      "step": "step:des_schema_designverletzung.6.3",
+      "distinctions": []
+     },
+     {
+      "id": "d01f-3",
+      "typ": "fall",
+      "titel": "Auskunft vom Spediteur",
+      "sachverhalt": "Die Taschen GmbH entdeckt bei einem Spediteur in Hamburg 2.000 Handtaschen, die ihr eingetragenes Design offensichtlich verletzen; der Spediteur lagert sie für einen unbekannten Auftraggeber. Sie verlangt vom Spediteur Auskunft über Herkunft und Empfänger.",
+      "frage": "Schuldet der Spediteur Auskunft, obwohl er die Taschen nicht selbst vertreibt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** In Fällen offensichtlicher Rechtsverletzung besteht der Auskunftsanspruch auch gegen eine Person, die in gewerblichem Ausmaß rechtsverletzende Erzeugnisse in ihrem Besitz hatte oder Dienstleistungen für rechtsverletzende Tätigkeiten erbrachte (§ 46 Abs. 2 Nr. 1, 3 DesignG, Umsetzung von Art. 8 DurchsetzungsRL). Der Spediteur muss Namen und Anschriften von Herstellern, Lieferanten, Vorbesitzern und gewerblichen Abnehmern sowie die Mengen angeben (§ 46 Abs. 3 DesignG).",
+       "Bei offensichtlicher Verletzung kann die Auskunft per einstweiliger Verfügung angeordnet werden (§ 46 Abs. 7 DesignG). Der Anspruch ist ausgeschlossen, wenn er im Einzelfall unverhältnismäßig ist (§ 46 Abs. 4 DesignG). Gleichlautend: § 19 Abs. 2 MarkenG, § 140b Abs. 2 PatG, § 101 Abs. 2 UrhG."
+      ],
+      "merke": "Drittauskunft in gewerblichem Ausmaß: Auch der Lagerhalter muss die Kette offenlegen.",
+      "level": 1,
+      "concepts": [
+       "des_auskunft",
+       "des_anspruchsgrundlagen_eu"
+      ],
+      "norms": [
+       "§ 46 DesignG",
+       "Art. 8 DurchsetzungsRL"
+      ],
+      "cases": [],
+      "step": "step:des_schema_designverletzung.6.4",
+      "distinctions": []
+     },
+     {
+      "id": "d01f-4",
+      "typ": "fall",
+      "titel": "Patentanwaltskosten in der Designstreitsache",
+      "sachverhalt": "Die Lampe GmbH gewinnt einen Designverletzungsprozess vor dem Landgericht München, in dem neben dem Rechtsanwalt ein Patentanwalt mitgewirkt hat. Der Beklagte wendet gegen die Kostenfestsetzung ein, die Mitwirkung des Patentanwalts sei nicht notwendig gewesen.",
+      "frage": "Sind die Patentanwaltskosten unabhängig von ihrer Notwendigkeit zu erstatten?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Von den Kosten, die durch die Mitwirkung eines Patentanwalts in einer Designstreitsache entstehen, sind die Gebühren nach § 13 RVG und die notwendigen Auslagen zu erstatten (§ 52 Abs. 4 DesignG), ohne Prüfung der Notwendigkeit im Einzelfall. Designstreitsachen sind alle Klagen aus den im DesignG geregelten Rechtsverhältnissen, für die die Landgerichte ausschließlich zuständig sind (§ 52 Abs. 1 DesignG).",
+       "Im Markenrecht hat der EuGH (NovaText) die pauschale Erstattung nach § 140 Abs. 4 MarkenG a.F. als unvereinbar mit Art. 14 DurchsetzungsRL angesehen, weshalb dort seit 2021 die Notwendigkeit geprüft wird; § 52 Abs. 4 DesignG ist unverändert, muss aber richtlinienkonform als auf zumutbare und angemessene Kosten begrenzt verstanden werden. Für Unionsgeschmacksmusterstreitsachen gilt § 52 Abs. 4 DesignG entsprechend (§ 63 Abs. 4 DesignG)."
+      ],
+      "merke": "Designstreitsache: Landgericht, Patentanwalt erstattungsfähig; die Nichtigkeit bleibt beim DPMA.",
+      "level": 2,
+      "concepts": [
+       "des_designstreitsachen",
+       "des_anspruchsgrundlagen_eu"
+      ],
+      "norms": [
+       "§ 52 DesignG",
+       "§ 63 DesignG",
+       "Art. 14 DurchsetzungsRL"
+      ],
+      "cases": [],
+      "step": "step:des_schema_designverletzung.7",
+      "distinctions": []
+     },
+     {
+      "id": "d01f-5",
+      "typ": "fall",
+      "titel": "Verjährung und Restschadensersatz",
+      "sachverhalt": "Die Glas GmbH erfährt im März 2021 von einer Designverletzung durch die Vasen KG, die seit 2019 andauert, unternimmt aber nichts. Im Juni 2026 klagt sie auf Schadensersatz für den gesamten Zeitraum.",
+      "frage": "Sind die Schadensersatzansprüche für 2019 bis 2022 vollständig verloren?",
+      "antwort": false,
+      "loesung": [
+       "**Nein, nicht vollständig.** Die Ansprüche aus §§ 42 bis 47 DesignG verjähren nach den §§ 194 ff. BGB (§ 49 S. 1 DesignG): drei Jahre ab Schluss des Jahres der Kenntnis (§§ 195, 199 BGB), also mit Ablauf des 31.12.2024 für die bis dahin bekannten Handlungen; Dauerhandlungen werden dafür in Einzelakte zerlegt. Hat der Verletzer durch die Verletzung auf Kosten des Berechtigten etwas erlangt, gilt § 852 BGB entsprechend (§ 49 S. 2 DesignG): Herausgabe des Erlangten nach Bereicherungsrecht binnen zehn Jahren, in Höhe einer fiktiven Lizenzgebühr.",
+       "Der Restschadensersatz rettet also die Lizenzanalogie, nicht den Verletzergewinn oder den konkreten Schaden. Parallelnormen: § 20 MarkenG, § 141 PatG, § 102 UrhG (BGH Motorradteile). Der Unterlassungsanspruch ist unverjährt, solange die Verletzung andauert."
+      ],
+      "merke": "Drei Jahre ab Kenntnis, danach zehn Jahre Restschadensersatz in Höhe der Lizenzgebühr (§ 852 BGB).",
+      "level": 2,
+      "concepts": [
+       "des_verjaehrung",
+       "des_schadensersatz"
+      ],
+      "norms": [
+       "§ 49 DesignG",
+       "§ 42 Abs. 2 DesignG"
+      ],
+      "cases": [],
+      "step": "step:des_schema_designverletzung.7",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "d01g",
+    "titel": "Unionsgeschmacksmuster und Abgrenzung zu Urheberrecht und UWG",
+    "einheiten": [
+     {
+      "id": "d01g-0",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Anspruch aus einem Unionsgeschmacksmuster",
+      "schema": "des_schema_unionsgeschmacksmuster",
+      "text": "Schutzentstehung, Inhaberschaft, Verletzung, Zuständigkeit, anwendbares Recht mit Doppelzitat.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "d01g-1",
+      "typ": "fall",
+      "titel": "Das Bolerojäckchen ohne Nachweis",
+      "sachverhalt": "Die Mode GmbH klagt aus einem nicht eingetragenen Unionsgeschmacksmuster gegen eine Nachahmung ihres Bolerojäckchens. Sie legt dar, dass sie das Jäckchen im Februar 2025 auf einer Messe in Düsseldorf erstmals gezeigt hat, sagt aber nichts dazu, wer es entworfen hat. Die Beklagte bestreitet die Inhaberschaft.",
+      "frage": "Wird zugunsten der Mode GmbH vermutet, dass sie Inhaberin des Musters ist, weil sie es erstmals in der Union offenbart hat?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Wer Rechte aus einem nicht eingetragenen Unionsgeschmacksmuster ableitet, trägt die Darlegungs- und Beweislast dafür, dass er Inhaber nach Art. 14 GGV ist, also Entwerfer, Rechtsnachfolger oder Arbeitgeber eines Arbeitnehmerentwerfers (Art. 14 Abs. 1, 3 GGV). Eine Vermutung der Inhaberschaft zugunsten desjenigen, der das Muster erstmals in der Union offenbart hat, gibt es nicht (BGH Bolerojäckchen).",
+       "Die Vermutung des Art. 85 Abs. 2 GGV betrifft nur die Rechtsgültigkeit (Neuheit, Eigenart), wenn der Kläger Offenbarung und die Eigenart begründenden Merkmale darlegt (EuGH Karen Millen). Die Mode GmbH muss also vortragen, dass eine Angestellte das Jäckchen in Ausübung ihrer Aufgaben entworfen hat. Beim eingetragenen Design ersetzt § 8 DesignG (formelle Berechtigung) diesen Nachweis."
+      ],
+      "merke": "Nicht eingetragen heißt: Offenbarung, Zeitpunkt, Inhaberschaft und Nachahmung selbst beweisen.",
+      "level": 2,
+      "concepts": [
+       "des_ggm_nicht_eingetragen",
+       "des_entwerfer_recht",
+       "des_vermutung_rechtsgueltigkeit"
+      ],
+      "norms": [
+       "Art. 11 GGV",
+       "Art. 14 GGV",
+       "Art. 85 GGV"
+      ],
+      "cases": [
+       "des_bgh_bolerojaeckchen",
+       "des_eugh_karen_millen"
+      ],
+      "step": "step:des_schema_unionsgeschmacksmuster.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01g-2",
+      "typ": "fall",
+      "titel": "Front kit: das Teil im Ganzen (Ferrari)",
+      "sachverhalt": "Ferrari veröffentlicht 2014 Pressefotos eines Sportwagens. Ein Tuner bietet 2016 ein Frontkit an, das die V-förmige Frontpartie des Wagens nachbildet. Ferrari macht ein nicht eingetragenes Unionsgeschmacksmuster allein an der Frontpartie geltend; der Tuner meint, offenbart sei nur das ganze Auto.",
+      "frage": "Kann durch die Veröffentlichung der Gesamtabbildung ein nicht eingetragenes Muster an einem Teil des Fahrzeugs entstanden sein?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Die Veröffentlichung von Abbildungen eines Erzeugnisses kann zugleich ein Muster an einem Teil oder Bauelement dieses Erzeugnisses der Öffentlichkeit zugänglich machen (Art. 11 GGV), sofern die Erscheinungsform dieses Teils in der Abbildung eindeutig erkennbar ist (EuGH Ferrari/Mansory Design). Es muss nicht jedes Teil gesondert offenbart werden.",
+       "Der Teil muss durch Linien, Konturen, Farben, Gestalt oder Oberflächenstruktur als klar abgegrenzter Teilbereich erkennbar sein und selbst einen eigenen Gesamteindruck hervorrufen, der nicht völlig in der Gesamtform aufgeht (BGH Front kit II). Beim eingetragenen Muster gilt das nicht: Teile eines eingetragenen Musters sind nicht eigenständig geschützt (BGH Weinkaraffe); wer Teile schützen will, meldet sie als Teildesign an."
+      ],
+      "merke": "Das Ganze offenbart seine erkennbaren Teile: nicht eingetragener Schutz auch für die Front.",
+      "level": 3,
+      "concepts": [
+       "des_ggm_nicht_eingetragen",
+       "des_offenbarung",
+       "des_design_begriff"
+      ],
+      "norms": [
+       "Art. 11 GGV",
+       "Art. 4 GGV",
+       "Art. 6 GGV"
+      ],
+      "cases": [
+       "des_eugh_ferrari",
+       "des_bgh_front_kit_ii",
+       "des_bgh_weinkaraffe"
+      ],
+      "step": "step:des_schema_unionsgeschmacksmuster.1.2",
+      "distinctions": []
+     },
+     {
+      "id": "d01g-3",
+      "typ": "fall",
+      "titel": "Unionsweite Verbote gegen die Konzernmutter (Nintendo)",
+      "sachverhalt": "Die Spiele AG mit Sitz in Japan klagt vor dem Landgericht Düsseldorf aus eingetragenen Unionsgeschmacksmustern gegen die deutsche Vertriebs-GmbH und deren französische Muttergesellschaft, die das Zubehör herstellt und an die Tochter liefert. Sie beantragt ein Verbot für die gesamte Union gegen beide.",
+      "frage": "Kann das Landgericht Düsseldorf auch gegen die französische Mutter ein unionsweites Verbot aussprechen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ist das Unionsgeschmacksmustergericht für den ausländischen Mitbeklagten nach Art. 8 Nr. 1 Brüssel-Ia-VO (Gerichtsstand der Streitgenossenschaft, über Art. 79 GGV anwendbar) zuständig, kann es Maßnahmen für das gesamte Unionsgebiet anordnen, die sich auf alle Verletzungshandlungen des Mitbeklagten erstrecken (EuGH Nintendo/BigBen). Die Beschränkung auf den Gerichtsstaat gilt nur für den Verletzungsortgerichtsstand des Art. 82 Abs. 5, Art. 83 Abs. 2 GGV.",
+       "Für die Folgeansprüche gegen die französische Mutter gilt das Recht des Staates, in dem die ursprüngliche Verletzungshandlung begangen wurde (Art. 88 Abs. 2 GGV, Art. 8 Abs. 2 Rom-II-VO), bei Lieferungen aus Frankreich also französisches Recht; für die deutsche Tochter deutsches Recht über § 62a DesignG (EuGH Acacia/BMW). In Deutschland sind die Landgerichte Unionsgeschmacksmustergerichte (§ 63 DesignG)."
+      ],
+      "merke": "Sitz- und Streitgenossengerichtsstand reichen unionsweit, der Verletzungsort nur national.",
+      "level": 3,
+      "concepts": [
+       "des_ggm_gericht",
+       "des_ggm_anwendbares_recht"
+      ],
+      "norms": [
+       "Art. 82 GGV",
+       "Art. 83 GGV",
+       "Art. 88 GGV",
+       "§ 63 DesignG"
+      ],
+      "cases": [
+       "des_eugh_nintendo",
+       "des_eugh_acacia_bmw"
+      ],
+      "step": "step:des_schema_unionsgeschmacksmuster.4",
+      "distinctions": []
+     },
+     {
+      "id": "d01g-4",
+      "typ": "intro",
+      "titel": "National, eingetragen, nicht eingetragen",
+      "text": "Drei Schutzrechte für dieselbe Gestaltung: das nationale eingetragene Design (25 Jahre, Deutschland, DPMA), das eingetragene Unionsgeschmacksmuster (25 Jahre, ganze Union, EUIPO) und das nicht eingetragene Unionsgeschmacksmuster (drei Jahre ab erster Offenbarung in der Union, nur gegen Nachahmung, Beweislast beim Inhaber). Die Tabelle zeigt Entstehung, Dauer, Schutzumfang, Vermutung der Rechtsgültigkeit, Nichtigkeit, Gerichte und Folgeansprüche im Vergleich.",
+      "concepts": [
+       "des_ggm_eingetragen",
+       "des_ggm_nicht_eingetragen",
+       "des_ggm_gericht"
+      ],
+      "norms": [
+       "§ 27 DesignG",
+       "Art. 11 GGV",
+       "Art. 12 GGV",
+       "Art. 19 GGV",
+       "Art. 85 GGV"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_des_eingetragen_nicht_eingetragen"
+      ]
+     },
+     {
+      "id": "d01g-5",
+      "typ": "fall",
+      "titel": "Der Geburtstagszug und die Gestaltungshöhe",
+      "sachverhalt": "Die Spielzeugdesignerin Lena hat 1998 für die Holz GmbH einen Geburtstagszug aus Holz entworfen und 400 DM Honorar erhalten; der Zug wird ein Verkaufsschlager. 2010 verlangt sie eine angemessene Beteiligung nach § 32a UrhG. Die Holz GmbH meint, ein Spielzeug sei kein Kunstwerk, weil es die Durchschnittsgestaltung nicht deutlich überrage.",
+      "frage": "Gelten für Werke der angewandten Kunst höhere Anforderungen an die Gestaltungshöhe als für zweckfreie Kunst?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** An den Urheberrechtsschutz von Werken der angewandten Kunst (§ 2 Abs. 1 Nr. 4, Abs. 2 UrhG) sind grundsätzlich keine anderen Anforderungen zu stellen als an zweckfreie bildende Kunst: Es genügt eine Gestaltungshöhe, die es nach Auffassung kunstempfänglicher Kreise rechtfertigt, von einer künstlerischen Leistung zu sprechen; ein deutliches Überragen der Durchschnittsgestaltung ist nicht erforderlich (BGH Geburtstagszug, Aufgabe der Silberdistel-Rechtsprechung).",
+       "Grund: Seit der Reform 2004 ist das Designrecht kein Minus zum Urheberrecht mehr, sondern ein eigenständiges Schutzrecht mit anderen Voraussetzungen (Neuheit, Eigenart statt Schöpfung); die Stufentheorie hat ihre Grundlage verloren. Unionsrechtlich bestätigt: Werk ist jede eigene geistige Schöpfung, die freie kreative Entscheidungen widerspiegelt, ohne besondere ästhetische Wirkung (EuGH Cofemel, Mio/konektra). Design- und Urheberrechtsschutz kumulieren (§ 50 DesignG, Art. 17 DesignRL)."
+      ],
+      "merke": "Seit Geburtstagszug: keine Sonderhürde für angewandte Kunst; Design und Urheberrecht stehen nebeneinander.",
+      "level": 2,
+      "concepts": [
+       "des_urheberrecht_kumulation",
+       "des_abgrenzung_schutzrechte"
+      ],
+      "norms": [
+       "§ 50 DesignG",
+       "Art. 17 DesignRL",
+       "Art. 96 GGV"
+      ],
+      "cases": [
+       "des_bgh_geburtstagszug",
+       "des_eugh_cofemel",
+       "des_eugh_mio_konektra"
+      ],
+      "step": null,
+      "distinctions": []
+     },
+     {
+      "id": "d01g-6",
+      "typ": "fall",
+      "titel": "Das Faltrad (Brompton)",
+      "sachverhalt": "Die Falt AG hält seit Jahrzehnten das Urheberrecht an einem Faltrad geltend, dessen Rahmenform drei Faltpositionen ermöglicht; ein früheres Patent auf den Faltmechanismus ist abgelaufen. Ein Wettbewerber baut das Rad in gleicher Form nach und meint, die Form sei technisch bedingt und deshalb frei.",
+      "frage": "Ist der Urheberrechtsschutz ausgeschlossen, weil die Form zumindest teilweise technisch erforderlich ist?",
+      "antwort": false,
+      "loesung": [
+       "**Nein, nicht allein deshalb.** Ein Gegenstand, dessen Form zumindest teilweise zur Erreichung eines technischen Ergebnisses erforderlich ist, kann urheberrechtlich geschützt sein, wenn er ein Originalwerk ist, dessen Form die freie schöpferische Entscheidung seines Urhebers ausdrückt; ausgeschlossen ist der Schutz nur, wenn die Form ausschließlich durch die technische Funktion bedingt ist (EuGH Brompton Bicycle). Die Existenz alternativer Formen ist nicht entscheidend; das frühere Patent ist nur ein Indiz.",
+       "Das entspricht dem Maßstab des Designrechts (EuGH DOCERAM zu Art. 8 GGV, § 3 Abs. 1 Nr. 1 DesignG) und der BGH-Linie, dass technisch bedingte Merkmale keinen Urheberrechtsschutz begründen (Seilzirkus). Der Wettbewerber muss also darlegen, dass allein die Faltfunktion die Rahmenform diktiert hat; bleibt Raum für gestalterische Wahl, den der Entwerfer genutzt hat, besteht Schutz."
+      ],
+      "merke": "Technisch mitbedingt ist nicht technisch ausschließlich bedingt: Raum für freie Wahl genügt.",
+      "level": 2,
+      "concepts": [
+       "des_urheberrecht_kumulation",
+       "des_technisch_bedingt"
+      ],
+      "norms": [
+       "§ 50 DesignG",
+       "§ 3 Abs. 1 DesignG",
+       "Art. 8 GGV"
+      ],
+      "cases": [
+       "des_eugh_brompton",
+       "des_bgh_seilzirkus",
+       "des_eugh_doceram"
+      ],
+      "step": null,
+      "distinctions": []
+     },
+     {
+      "id": "d01g-7",
+      "typ": "fall",
+      "titel": "Jeans: UWG neben dem Unionsgeschmacksmuster",
+      "sachverhalt": "Die Denim GmbH vertreibt seit 2023 eine Jeans mit auffälligen Ziernähten, die in der Branche bekannt ist. 2026 verkauft ein Discounter nahezu identische Jeans. Ein eingetragenes Design gibt es nicht; das nicht eingetragene Unionsgeschmacksmuster ist nach drei Jahren abgelaufen. Die Denim GmbH stützt sich auf § 4 Nr. 3 UWG.",
+      "frage": "Sind Ansprüche aus ergänzendem wettbewerbsrechtlichem Leistungsschutz ausgeschlossen, weil das Erzeugnis als nicht eingetragenes Unionsgeschmacksmuster geschützt war?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Ansprüche aus ergänzendem wettbewerbsrechtlichem Leistungsschutz wegen vermeidbarer Herkunftstäuschung (§ 4 Nr. 3 lit. a UWG) werden nicht dadurch ausgeschlossen, dass für das Erzeugnis Schutz als nicht eingetragenes Unionsgeschmacksmuster besteht oder bestanden hat (BGH Jeans; Art. 96 Abs. 1 GGV, § 50 DesignG). Die Schutzrechte verfolgen verschiedene Ziele: Das Designrecht schützt die Gestaltung, das UWG die Lauterkeit des Wettbewerbs.",
+       "Voraussetzungen des UWG-Anspruchs: wettbewerbliche Eigenart der Jeans (Eignung, auf die Herkunft hinzuweisen, BGH LIKEaBIKE), Nachahmung und ein besonderer Umstand wie vermeidbare Herkunftstäuschung, die eine gewisse Bekanntheit des Originals verlangt, ohne dass der Verkehr den Hersteller namentlich kennen muss (BGH Jeans). Geschützt ist die konkrete Gestaltung, nicht die Idee (BGH Glück). Gerichtsstand beim Designgericht nach § 53 DesignG, wenn auch DesignG-Ansprüche geltend gemacht werden."
+      ],
+      "merke": "Designschutz und UWG kumulieren: Wenn das Muster abläuft, bleibt die Lauterkeit.",
+      "level": 2,
+      "concepts": [
+       "des_uwg_nachahmung",
+       "des_ggm_nicht_eingetragen",
+       "des_abgrenzung_schutzrechte"
+      ],
+      "norms": [
+       "§ 50 DesignG",
+       "§ 53 DesignG",
+       "Art. 96 GGV"
+      ],
+      "cases": [
+       "des_bgh_jeans",
+       "des_bgh_likeabike",
+       "des_bgh_glueck"
+      ],
+      "step": null,
+      "distinctions": []
+     },
+     {
+      "id": "d01g-8",
+      "typ": "intro",
+      "titel": "Fünf Schutzrechte am Produktdesign",
+      "text": "Dieselbe Stuhlform kann eingetragenes Design, Unionsgeschmacksmuster, dreidimensionale Marke, Werk der angewandten Kunst und Gegenstand des Nachahmungsschutzes sein. Die Tabelle vergleicht Entstehung, Voraussetzungen, Schutzgegenstand, Schutzrichtung, Dauer, Amtsprüfung und Angriff auf den Bestand. Faustregel: Design schützt das Aussehen, die Marke die Herkunft, das Urheberrecht die Schöpfung, das UWG den lauteren Wettbewerb; das Patent die Technik, die das Design gerade nicht schützt.",
+      "concepts": [
+       "des_abgrenzung_schutzrechte",
+       "des_urheberrecht_kumulation",
+       "des_uwg_nachahmung"
+      ],
+      "norms": [
+       "§ 50 DesignG",
+       "§ 3 Abs. 1 DesignG",
+       "Art. 96 GGV"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_des_schutzrechte_produktdesign"
+      ]
      }
     ]
    }

@@ -9248,6 +9248,2003 @@
   ]
  },
  {
+  "id": "p02",
+  "gebiet": "patent",
+  "titel": "Die Prüfungsrichtlinien des DPMA",
+  "untertitel": "So prüft das Amt die Patentanmeldung: von der Offensichtlichkeitsprüfung bis zur Abhilfe",
+  "farbe": "#2f6b4f",
+  "icon": "pruefungspunkt",
+  "beschreibung": "Die Richtlinien für die Prüfung von Patentanmeldungen (Ausgabe vom 2. März 2026) Abschnitt für Abschnitt: Offensichtlichkeitsprüfung, Prüfungsantrag, Auslegung und Patentfähigkeit, Änderungen, Einheitlichkeit und Teilung, Bescheide, Fristen und Anhörung, Beschluss und Abhilfe, Hinterlegung biologischen Materials, programmbezogene und KI-bezogene Erfindungen.",
+  "kapitel": [
+   {
+    "id": "p02a",
+    "titel": "Die Richtlinien und die Offensichtlichkeitsprüfung",
+    "einheiten": [
+     {
+      "id": "p02a-0",
+      "typ": "intro",
+      "titel": "Warum du die Prüfungsrichtlinien kennen musst",
+      "text": "Das PatG sagt, **was** die Prüfungsstelle prüft; die **Richtlinien für die Prüfung von Patentanmeldungen** sagen, **wie** sie es tut. Sie sind eine Verwaltungsvorschrift des DPMA, gelten in der Ausgabe vom 2. März 2026 und sollen eine einheitliche und zügige Behandlung der Schritte Offensichtlichkeitsprüfung, Recherche, Bescheid, Erteilung und Zurückweisung sichern. Für Anmelder und Vertreter sind sie der Fahrplan: Wer weiß, was der Prüfer in den Bescheid schreiben muss, wie lange die Fristen sind und wann er eine Anhörung anberaumt, führt das Verfahren statt ihm zu folgen.\n\nDie Richtlinien sind **kein Gesetz**. Sie binden die Prüfungsstellen, nicht das Bundespatentgericht und nicht den BGH; Besonderheiten des Einzelfalls und die aktuelle Rechtsprechung gehen vor. Rechtsgrundlage jeder Entscheidung bleibt das PatG mit der PatV, der DPMAV und dem PatKostG. Ihr Wert für die Prüfung: Sie fassen die Rechtsprechung des BGH zu Auslegung, Ausführbarkeit, Neuheit, erfinderischer Tätigkeit, unzulässiger Erweiterung und programmbezogenen Erfindungen in gut hundert Fußnoten zusammen.\n\nAufbau: **Abschnitt 1** Erfordernisse der Anmeldung und Offensichtlichkeitsprüfung (§ 42 PatG), **Abschnitt 2** Prüfungsverfahren vom Prüfungsantrag (§ 44 PatG) über Bescheid (§ 45 PatG), Anhörung (§ 46 PatG) und Beschluss (§§ 47 bis 49 PatG) bis zu Beschwerde und Abhilfe (§ 73 PatG), **Abschnitt 3** biotechnologische, programmbezogene und KI-bezogene Erfindungen, **Abschnitt 4** Akteneinsicht (§ 31 PatG). Dieser Kurs geht die Abschnitte in dieser Reihenfolge durch.",
+      "concepts": [
+       "pat_pruefungsrichtlinien",
+       "pat_offensichtlichkeitspruefung",
+       "pat_pruefungsverfahren"
+      ],
+      "norms": [
+       "§ 42 PatG",
+       "§ 44 PatG",
+       "§ 45 PatG",
+       "§ 49 PatG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_offensichtlichkeit_sachpruefung"
+      ]
+     },
+     {
+      "id": "p02a-1",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Prüfungsverfahren nach den Richtlinien",
+      "schema": "pat_schema_pruefungsverfahren_dpma",
+      "text": "Der Weg der Anmeldung durch die Prüfungsstelle in der Reihenfolge der Richtlinien.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "p02a-2",
+      "typ": "fall",
+      "titel": "Die Richtlinie vor Gericht",
+      "sachverhalt": "Die Prüfungsstelle weist die Anmeldung der Lumex GmbH nach dem ersten Bescheid zurück. Vor dem Bundespatentgericht rügt Lumex, nach den Prüfungsrichtlinien solle vor einer Zurückweisung in der Regel ein zweiter Bescheid oder eine Anhörung stehen; das Gericht müsse den Beschluss schon deshalb aufheben.",
+      "frage": "Ist das Bundespatentgericht an die Prüfungsrichtlinien gebunden?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Richtlinien sind eine Verwaltungsvorschrift, mit der das DPMA die Arbeit seiner Prüfungsstellen vereinheitlicht. Sie binden die Prüfer intern, sind aber kein Gesetz; das Gericht entscheidet allein nach dem PatG. Die Richtlinien sagen das selbst: Besonderheiten des Einzelfalls und die aktuelle Rechtsprechung sind stets zu berücksichtigen, und von den Leitlinien kann abgewichen werden.",
+       "Maßstab des Gerichts ist deshalb, ob die Zurückweisung das Gesetz verletzt, hier vor allem das rechtliche Gehör: Die Anmeldung darf nur aus Gründen zurückgewiesen werden, die dem Anmelder vorher mitgeteilt waren (§ 48 S. 2 PatG i.V.m. § 42 Abs. 3 S. 2 PatG). War der Zurückweisungsgrund im ersten Bescheid genannt und hat Lumex ihn nicht ausgeräumt, ist ein zweiter Bescheid rechtlich nicht geboten."
+      ],
+      "merke": "Die Richtlinien binden den Prüfer, das Gesetz bindet das Gericht.",
+      "level": 1,
+      "concepts": [
+       "pat_pruefungsrichtlinien",
+       "pat_rechtliches_gehoer"
+      ],
+      "norms": [
+       "§ 48 PatG",
+       "§ 42 Abs. 3 PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": []
+     },
+     {
+      "id": "p02a-3",
+      "typ": "fall",
+      "titel": "Ansprüche ohne Beschreibung",
+      "sachverhalt": "Erfinder Emil reicht beim DPMA ein Blatt mit seinem Namen, einem Erteilungsantrag und drei Patentansprüchen ein. Eine Beschreibung fehlt völlig. Die Prüfungsstelle will die „Anmeldung“ nach § 42 Abs. 3 PatG zurückweisen.",
+      "frage": "Ist die Zurückweisung der richtige Weg?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Ein Anmeldetag entsteht erst, wenn der Name des Anmelders, der Erteilungsantrag und Unterlagen eingegangen sind, die dem Anschein nach als Beschreibung anzusehen sind (§ 35 Abs. 1 PatG i.V.m. § 34 Abs. 3 Nr. 1, 2 und 4 PatG). Fehlt ein Mindesterfordernis, gibt es keine rechtswirksame Anmeldung, die zurückgewiesen werden könnte.",
+       "Nach den Prüfungsrichtlinien (Abschnitt 1.1) ist dann nach Gewährung rechtlichen Gehörs durch Beschluss **festzustellen, dass die Eingabe keine rechtswirksame Patentanmeldung ist**. Reicht Emil die Beschreibung nach, entsteht die Anmeldung mit dem Tag, an dem das letzte Mindesterfordernis erfüllt ist. Patentansprüche gehören nicht zu den Mindesterfordernissen; ihr Fehlen wäre nur ein Mangel nach § 42 Abs. 1 PatG."
+      ],
+      "merke": "Ohne Mindesterfordernisse keine Anmeldung: festgestellt wird, zurückgewiesen wird nicht.",
+      "level": 2,
+      "concepts": [
+       "pat_anmeldetag",
+       "pat_offensichtlichkeitspruefung"
+      ],
+      "norms": [
+       "§ 35 Abs. 1 PatG",
+       "§ 34 Abs. 3 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.1.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02a-4",
+      "typ": "fall",
+      "titel": "Die vergessenen Zeichnungen",
+      "sachverhalt": "Die Anmeldung der Rotec AG vom 3. März verweist in der Beschreibung auf die Figuren 1 bis 4, Zeichnungen liegen aber nicht bei. Auf die Aufforderung des DPMA reicht Rotec die Figuren am 20. April nach.",
+      "frage": "Verschiebt sich der Anmeldetag auf den 20. April?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Enthält die Anmeldung eine Bezugnahme auf Zeichnungen, die fehlen, fordert das DPMA den Anmelder auf, sie binnen eines Monats nachzureichen oder zu erklären, dass die Bezugnahme als nicht erfolgt gelten soll. Reicht der Anmelder die Zeichnungen nach, wird der Tag ihres Eingangs Anmeldetag (§ 35 Abs. 2 PatG); für fehlende Teile der Beschreibung gilt dasselbe (§ 35 Abs. 3 PatG).",
+       "Rotec hätte den 3. März behalten können, indem sie auf die Figuren verzichtet: Dann gilt die Bezugnahme als nicht erfolgt. Das ist die richtige Wahl, wenn in der Zwischenzeit Stand der Technik entstanden ist oder eine Priorität an dem früheren Tag hängt, setzt aber voraus, dass die Erfindung auch ohne Figuren ausführbar offenbart ist (§ 34 Abs. 4 PatG)."
+      ],
+      "merke": "Nachgereichte Zeichnungen kosten den Anmeldetag; der Verzicht auf die Bezugnahme rettet ihn.",
+      "level": 2,
+      "concepts": [
+       "pat_anmeldetag",
+       "pat_ausfuehrbarkeit"
+      ],
+      "norms": [
+       "§ 35 Abs. 2 PatG",
+       "§ 35 Abs. 3 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.1.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02a-5",
+      "typ": "mc",
+      "titel": "Was die Offensichtlichkeitsprüfung nicht leistet",
+      "sachverhalt": "",
+      "frage": "Welche Frage prüft die Prüfungsstelle in der Offensichtlichkeitsprüfung nach § 42 PatG nicht?",
+      "optionen": [
+       "Ob die Erfinderbenennung fehlt",
+       "Ob der Gegenstand gegenüber dem Stand der Technik neu ist",
+       "Ob der Gegenstand offensichtlich seinem Wesen nach keine Erfindung ist",
+       "Ob Teile der Anmeldungsunterlagen fehlen"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Die Offensichtlichkeitsprüfung ist auf die in § 42 PatG genannten Punkte beschränkt: offensichtliche Verstöße gegen die §§ 34, 36, 37 und 38 PatG (§ 42 Abs. 1 PatG) und das offensichtliche Fehlen einer Erfindung, der gewerblichen Anwendbarkeit oder ein Ausschluss nach § 1a Abs. 1 PatG, § 2 PatG oder § 2a Abs. 1 PatG (§ 42 Abs. 2 PatG). **Neuheit und erfinderische Tätigkeit werden nicht geprüft** (Prüfungsrichtlinien 1.4); dafür braucht es Recherche und Prüfungsantrag.",
+       "Ebenfalls nicht geprüft wird die materielle Berechtigung einer Priorität (Prüfungsrichtlinien 1.10). Uneinheitlichkeit wird nur gerügt, wenn die Erfindungen offensichtlich nichts miteinander zu tun haben."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "pat_offensichtlichkeitspruefung",
+       "pat_neuheit"
+      ],
+      "norms": [
+       "§ 42 Abs. 1 PatG",
+       "§ 42 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.1.3",
+      "distinctions": [
+       "d_pat_offensichtlichkeit_sachpruefung"
+      ]
+     },
+     {
+      "id": "p02a-6",
+      "typ": "fall",
+      "titel": "Der Prüfer und die Literaturrecherche",
+      "sachverhalt": "Eine Anmeldung betrifft ein Gerät, das nach der Beschreibung „Energie aus dem Raum“ gewinnt. Der Prüfer hält das für nicht gewerblich anwendbar, ist sich aber nicht sicher und bestellt in der Offensichtlichkeitsprüfung drei Fachbücher über die Bibliothek, um den Mangel zu belegen.",
+      "frage": "Ist der Mangel „offensichtlich“ im Sinne des § 42 Abs. 2 PatG?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Offensichtlich ist ein Mangel nur, wenn die Prüfungsstelle ihn auf Grund des unterbreiteten Sachverhalts **ohne weitere Sachprüfung zweifelsfrei** erkennt, er also offen zutage tritt. Die Anmeldung ist mit der eigenen Sach- und Fachkenntnis zu würdigen; nicht sofort verfügbares Material und zusätzliche Ermittlungen scheiden grundsätzlich aus (Prüfungsrichtlinien 1.4).",
+       "Wer erst nachlesen muss, hat keinen offensichtlichen Mangel vor sich. Das gilt auch für Rechtsfragen: Sie tragen eine Beanstandung nur, wenn gesicherte Rechtsprechung sie klar beantwortet. Die Frage der gewerblichen Anwendbarkeit (§ 5 PatG) und der Ausführbarkeit (§ 34 Abs. 4 PatG) gehört hier in das Prüfungsverfahren."
+      ],
+      "merke": "Offensichtlich ist, was der Prüfer sieht, nicht, was er erst suchen muss.",
+      "level": 1,
+      "concepts": [
+       "pat_offensichtlichkeitspruefung",
+       "pat_gewerbliche_anwendbarkeit"
+      ],
+      "norms": [
+       "§ 42 Abs. 2 PatG",
+       "§ 5 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.1.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02a-7",
+      "typ": "fall",
+      "titel": "Die genehmigungspflichtige Chemikalie",
+      "sachverhalt": "Die Chemox AG meldet einen Sprengstoff für den Tunnelbau an. Herstellung und Vertrieb sind in Deutschland nur mit behördlicher Erlaubnis zulässig. Der Prüfer meint, die Verwertung verstoße deshalb offensichtlich gegen die öffentliche Ordnung (§ 42 Abs. 2 Nr. 3 PatG i.V.m. § 2 Abs. 1 PatG).",
+      "frage": "Ist die Erfindung von der Patentierung ausgeschlossen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Ein Verstoß gegen die öffentliche Ordnung oder die guten Sitten kann nicht allein daraus hergeleitet werden, dass die Verwertung durch Gesetz oder Verwaltungsvorschrift verboten oder beschränkt ist (§ 2 Abs. 1 PatG). Die Vorschrift lehnt sich an Art. 4quater PVÜ an: Vertriebsbeschränkungen des nationalen Rechts hindern weder die Erteilung noch den Bestand des Patents.",
+       "Ausgeschlossen ist eine Erfindung nur, wenn ihr **bestimmungsgemäßer Gebrauch** gegen tragende Grundsätze der Rechts- und Sittenordnung verstieße, etwa gegen Vorschriften zum Schutz von Grund- und Menschenrechten (Prüfungsrichtlinien 1.6.3). Ein Sprengstoff für den Tunnelbau hat einen erlaubten Gebrauch; die Erlaubnispflicht regelt nur das Wie."
+      ],
+      "merke": "Verboten oder genehmigungspflichtig heißt noch nicht ordnungswidrig im Sinne des § 2 PatG.",
+      "level": 2,
+      "concepts": [
+       "pat_biotech",
+       "pat_offensichtlichkeitspruefung"
+      ],
+      "norms": [
+       "§ 2 Abs. 1 PatG",
+       "§ 42 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.1.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02a-8",
+      "typ": "mc",
+      "titel": "Die Erfinderbenennung",
+      "sachverhalt": "",
+      "frage": "Die Anmeldung vom 10. Januar 2026 nimmt die Priorität einer Voranmeldung vom 10. März 2025 in Anspruch. Bis wann muss die Erfinderbenennung eingereicht sein?",
+      "optionen": [
+       "Zusammen mit der Anmeldung, sonst entsteht kein Anmeldetag",
+       "Bis 10. Juni 2026 (15 Monate nach dem Prioritätstag)",
+       "Bis 10. April 2027 (15 Monate nach dem Anmeldetag)",
+       "Bis zur Stellung des Prüfungsantrags"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Der Anmelder hat den Erfinder binnen **15 Monaten** nach dem Anmeldetag zu benennen; wird eine Priorität in Anspruch genommen, läuft die Frist ab dem **Prioritätstag** (§ 37 Abs. 1 PatG). Hier also bis 10. Juni 2026. Die Frist ist auf die Offenlegung nach 18 Monaten abgestimmt (§ 31 Abs. 2 Nr. 2 PatG).",
+       "Die Erfinderbenennung gehört nicht zu den Mindesterfordernissen des Anmeldetags. Fehlt sie, ist das ein Mangel nach § 42 Abs. 1 PatG; bei außergewöhnlichen Umständen ist eine angemessene Fristverlängerung zu gewähren, längstens bis zum Erteilungsbeschluss (§ 37 Abs. 2 PatG). Der Anmelder, der sich selbst als Alleinerfinder nennt, braucht kein gesondertes Schriftstück, außer er beantragt die Nichtnennung (Prüfungsrichtlinien 1.5.1)."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "pat_erfinderbenennung",
+       "pat_fristen"
+      ],
+      "norms": [
+       "§ 37 Abs. 1 PatG",
+       "§ 37 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.1.2",
+      "distinctions": [
+       "d_pat_fristen_pruefungsrichtlinien"
+      ]
+     },
+     {
+      "id": "p02a-9",
+      "typ": "fall",
+      "titel": "Neue Ansprüche für die Offenlegungsschrift",
+      "sachverhalt": "Die Anmelderin Vela SE reicht zehn Monate nach dem Anmeldetag unaufgefordert einen überarbeiteten Anspruchssatz ein und beantragt ausdrücklich, die Offenlegungsschrift mit diesen Ansprüchen zu drucken.",
+      "frage": "Wird die Offenlegungsschrift mit den neuen Ansprüchen veröffentlicht?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Für die Offenlegung sind grundsätzlich die **ursprünglich eingereichten Unterlagen** zu verwenden (§ 32 Abs. 2 PatG). Unaufgefordert eingereichte neue Unterlagen werden zu den Akten genommen, aber nicht für die Offenlegungsschrift verwendet, auch nicht auf ausdrücklichen Antrag; der Anmelder erhält eine kurze Nachricht (Prüfungsrichtlinien 1.12).",
+       "Verwendet werden nur Unterlagen, die nachgereicht wurden, weil die ursprünglichen nicht druckfähig waren oder offensichtliche Fehler aufwiesen, oder die die Prüfungsstelle zur Behebung eines offensichtlichen Mangels verlangt hat. Dann trägt die Titelseite den Hinweis, dass der Inhalt von den am Anmeldetag eingereichten Unterlagen abweicht. Der Grund: Die Offenlegungsschrift dokumentiert den ursprünglichen Offenbarungsgehalt, an dem später § 38 PatG und § 3 Abs. 2 PatG gemessen werden."
+      ],
+      "merke": "Die Offenlegungsschrift zeigt, was am Anmeldetag da war, nicht, was der Anmelder später gern hätte.",
+      "level": 2,
+      "concepts": [
+       "pat_akteneinsicht",
+       "pat_unzulaessige_erweiterung"
+      ],
+      "norms": [
+       "§ 32 Abs. 2 PatG",
+       "§ 31 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p02b",
+    "titel": "Prüfungsantrag, Auslegung, Ausführbarkeit",
+    "einheiten": [
+     {
+      "id": "p02b-0",
+      "typ": "intro",
+      "titel": "Vom Antrag zur Sachprüfung",
+      "text": "Geprüft wird nur auf **Antrag** (§ 44 Abs. 1 PatG). Den Antrag kann der Anmelder oder jeder Dritte bis zum Ablauf von **sieben Jahren** nach Einreichung der Anmeldung stellen; die Prüfungsgebühr ist binnen drei Monaten ab Antragstellung zu zahlen, längstens bis zum Ablauf der Siebenjahresfrist (§ 44 Abs. 2 PatG), und vorher wird nicht bearbeitet (§ 5 Abs. 1 PatKostG). Wird kein Antrag gestellt, gilt die Anmeldung als zurückgenommen (§ 58 Abs. 3 PatG).\n\nDie Prüfungsstelle arbeitet die Anträge in der Reihenfolge ihres Eingangs ab; bevorzugt werden erteilungs- und zurückweisungsreife Fälle, und ein begründeter **Beschleunigungsantrag** zieht die nächste Verfahrenshandlung vor (Prüfungsrichtlinien 2.3.1, 2.3.2).\n\nGegenstand der Prüfung sind die Anforderungen der §§ 34, 37 und 38 PatG und die Patentfähigkeit nach den §§ 1 bis 5 PatG. Die Richtlinien geben die Reihenfolge vor: **erst auslegen, dann recherchieren, dann prüfen**. Der Sinngehalt des Anspruchs wird aus der Sicht des Fachmanns unter Heranziehung von Beschreibung und Zeichnungen bestimmt (§ 14 S. 2 PatG; BGH Polymerschaum). Eine Zurückweisung allein wegen mangelnder „Klarheit“, ohne Auslegung und ohne Recherche, soll es nicht geben.",
+      "concepts": [
+       "pat_pruefungsantrag",
+       "pat_auslegung",
+       "pat_ausfuehrbarkeit"
+      ],
+      "norms": [
+       "§ 44 PatG",
+       "§ 14 PatG",
+       "§ 34 Abs. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_polymerschaum"
+      ],
+      "distinctions": []
+     },
+     {
+      "id": "p02b-1",
+      "typ": "fall",
+      "titel": "Der Wettbewerber stellt den Prüfungsantrag",
+      "sachverhalt": "Die Anmeldung der Nordlicht GmbH ist offengelegt, einen Prüfungsantrag hat sie nicht gestellt. Wettbewerber Kurt will Klarheit und stellt den Antrag selbst, zahlt die Gebühr und verlangt, künftig Abschriften aller Bescheide zu erhalten.",
+      "frage": "Hat Kurt Anspruch auf Abschriften der Prüfungsbescheide?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Den Prüfungsantrag kann zwar jeder Dritte stellen, er wird dadurch aber **nicht am Prüfungsverfahren beteiligt** (§ 44 Abs. 2 S. 1 PatG). Er erhält weder Bescheide noch Beschlüsse in Abschrift; ihm wird nur der Abschluss des Verfahrens mitgeteilt (Prüfungsrichtlinien 2.1).",
+       "Kurt bleibt die Akteneinsicht, die nach der Offenlegung jedermann freisteht (§ 31 Abs. 2 PatG), und er kann dem DPMA Druckschriften nennen, die der Erteilung entgegenstehen könnten (§ 44 Abs. 3 PatG i.V.m. § 43 Abs. 3 S. 2 PatG). Dem Anmelder wird mitgeteilt, dass ein Dritter den Antrag gestellt hat. Einfluss auf das Verfahren gewinnt Kurt erst mit dem Einspruch nach der Erteilung (§ 59 PatG)."
+      ],
+      "merke": "Der Dritte darf die Prüfung anstoßen, aber nicht mitreden.",
+      "level": 1,
+      "concepts": [
+       "pat_pruefungsantrag",
+       "pat_akteneinsicht"
+      ],
+      "norms": [
+       "§ 44 Abs. 2 PatG",
+       "§ 44 Abs. 3 PatG",
+       "§ 31 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02b-2",
+      "typ": "fall",
+      "titel": "Antrag zurück, Verfahren vorbei?",
+      "sachverhalt": "Nach einem ungünstigen ersten Bescheid nimmt die Anmelderin ihren Prüfungsantrag zurück. Sie will die Anmeldung als Stand der Technik gegen Wettbewerber stehen lassen, aber keine Zurückweisung in der Akte haben.",
+      "frage": "Endet das Prüfungsverfahren mit der Rücknahme des Prüfungsantrags?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Das Prüfungsverfahren wird auch dann fortgesetzt, wenn der Antrag auf Prüfung zurückgenommen wird (§ 44 Abs. 5 S. 1 PatG). Der Prüfungsantrag setzt das Verfahren in Gang, steuert es aber nicht mehr; sonst könnte ein Dritter, der den Antrag gestellt hat, dem Anmelder die Prüfung wieder nehmen.",
+       "Will die Anmelderin eine Zurückweisung vermeiden, muss sie die **Anmeldung** zurücknehmen. Die bereits offengelegte Anmeldung bleibt Stand der Technik (§ 3 Abs. 1 PatG), der Entschädigungsanspruch aus § 33 PatG gilt dann aber als nicht entstanden (§ 58 Abs. 2 PatG)."
+      ],
+      "merke": "Den Prüfungsantrag kann man stellen, aber nicht mehr einfangen.",
+      "level": 2,
+      "concepts": [
+       "pat_pruefungsantrag"
+      ],
+      "norms": [
+       "§ 44 Abs. 5 PatG",
+       "§ 58 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02b-3",
+      "typ": "mc",
+      "titel": "Prüfungsgebühr kurz vor Toresschluss",
+      "sachverhalt": "",
+      "frage": "Die Anmeldung wurde am 15. Mai 2019 eingereicht. Der Anmelder stellt den Prüfungsantrag am 20. April 2026. Bis wann muss die Prüfungsgebühr gezahlt sein?",
+      "optionen": [
+       "Bis 20. Juli 2026 (drei Monate ab Antragstellung)",
+       "Bis 15. Mai 2026 (Ablauf der Siebenjahresfrist)",
+       "Bis 31. Mai 2026 (Monatsende)",
+       "Sofort mit dem Antrag, sonst ist er unwirksam"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Die Zahlungsfrist für die Prüfungsgebühr beträgt drei Monate ab Fälligkeit, also ab Antragstellung (§ 44 Abs. 2 S. 2 PatG, § 3 Abs. 1 PatKostG). Sie **endet aber spätestens mit Ablauf von sieben Jahren nach Einreichung der Anmeldung** (§ 44 Abs. 2 S. 3 PatG), hier also mit Ablauf des 15. Mai 2026.",
+       "Wird nicht rechtzeitig gezahlt, gilt der Prüfungsantrag als zurückgenommen (§ 6 Abs. 2 PatKostG), und weil dann bis zum Ablauf der Siebenjahresfrist kein wirksamer Antrag vorliegt, gilt die Anmeldung als zurückgenommen (§ 58 Abs. 3 PatG). Die Gebühr beträgt 350 EUR, nach einer Recherche nach § 43 PatG 150 EUR (Nr. 311 400 und 311 300 der Anlage PatKostG)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_pruefungsantrag",
+       "pat_zahlungsfristen",
+       "pat_gebuehren"
+      ],
+      "norms": [
+       "§ 44 Abs. 2 PatG",
+       "§ 58 Abs. 3 PatG",
+       "§ 6 Abs. 2 PatKostG",
+       "Anlage PatKostG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.2",
+      "distinctions": [
+       "d_pat_fristen_pruefungsrichtlinien"
+      ]
+     },
+     {
+      "id": "p02b-4",
+      "typ": "fall",
+      "titel": "Zurückweisung wegen Unklarheit",
+      "sachverhalt": "Der Anspruch der Voltaris GmbH betrifft ein Batterieüberwachungsgerät mit einem „Auswertemittel, das den Ladezustand geeignet bewertet“. Der Prüfer hält das für unklar, recherchiert nicht und weist die Anmeldung zurück, weil der Anspruch nicht angebe, was unter Schutz gestellt werden solle (§ 34 Abs. 3 Nr. 3 PatG).",
+      "frage": "Trägt die „Unklarheit“ die Zurückweisung?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Einen Zurückweisungsgrund des unklaren Patentanspruchs kennt das PatG nicht; er lässt sich auch nicht aus § 34 Abs. 3 Nr. 3 PatG ableiten (BPatG Batterieüberwachungsgerät). Die Prüfungsstelle muss den Anspruch aus der Sicht des Fachmanns **auslegen**, im Prüfungsverfahren nach denselben Grundsätzen wie im Einspruchs-, Nichtigkeits- und Verletzungsverfahren, und den so bestimmten Gegenstand recherchieren und prüfen.",
+       "Die Prüfungsrichtlinien (2.3.3) übernehmen das: Mangelnde Klarheit als einziger Zurückweisungsgrund ohne Auslegung und ohne Recherche soll unterbleiben. Ein weit gefasstes Merkmal ist breit auszulegen und fällt dann eher dem Stand der Technik zum Opfer (§§ 3, 4 PatG) oder der Ausführbarkeit (§ 34 Abs. 4 PatG); das sind die gesetzlichen Gründe, auf die die Zurückweisung zu stützen ist."
+      ],
+      "merke": "Unklar ist kein Zurückweisungsgrund: auslegen, recherchieren, dann an §§ 1 bis 5 und § 34 Abs. 4 PatG messen.",
+      "level": 2,
+      "concepts": [
+       "pat_auslegung",
+       "pat_pruefungsbescheid"
+      ],
+      "norms": [
+       "§ 34 Abs. 3 PatG",
+       "§ 48 PatG",
+       "§ 14 PatG"
+      ],
+      "cases": [
+       "pat_bpatg_batterieueberwachungsgeraet",
+       "pat_bgh_brieflocher"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02b-5",
+      "typ": "fall",
+      "titel": "Ein Weg genügt",
+      "sachverhalt": "Ein Syntheseverfahren beansprucht den Schritt „Veresterung“ allgemein. Die Beschreibung nennt genau eine Reaktionsführung, die funktioniert; die aus Lehrbüchern bekannten Veresterungen versagen bei diesem Molekül. Der Prüfer beanstandet, die Erfindung sei nicht über die ganze Anspruchsbreite ausführbar.",
+      "frage": "Ist die Erfindung ausführbar offenbart?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Die Erfindung ist so deutlich und vollständig zu offenbaren, dass ein Fachmann sie ausführen kann (§ 34 Abs. 4 PatG). Dafür genügt, dass **mindestens ein ausführbarer Weg** nacharbeitbar offenbart ist; die Beschreibung muss nicht zeigen, wie alle denkbaren Varianten zu erzielen sind (BGH Taxol). Eine allgemein bezeichnete Reaktion darf auch dann allgemein beansprucht werden, wenn bekannte Wege versagen.",
+       "Die Richtlinien (2.3.3.1) ergänzen: Es genügt, die entscheidende Richtung anzugeben; Versuche im zumutbaren Umfang schaden nicht, und nicht einmal eine praktische Ausführungsform muss als solche unmittelbar und eindeutig offenbart sein (BGH Klammernahtgerät). Ausführbarkeit ist auch nicht dasselbe wie das Erreichen aller in der Beschreibung versprochenen Vorteile (BGH Stabilisierung der Wasserqualität)."
+      ],
+      "merke": "Ausführbar ist, was der Fachmann auf einem offenbarten Weg nacharbeiten kann.",
+      "level": 2,
+      "concepts": [
+       "pat_ausfuehrbarkeit"
+      ],
+      "norms": [
+       "§ 34 Abs. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_taxol",
+       "pat_bgh_klammernahtgeraet",
+       "pat_bgh_stabilisierung_der_wasserqualitaet"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02b-6",
+      "typ": "fall",
+      "titel": "Das Merkmal aus der Zusammenfassung",
+      "sachverhalt": "Im Prüfungsverfahren will die Anmelderin den Anspruch auf eine Beschichtungsdicke von 5 µm beschränken. Dieser Wert steht nur in der Zusammenfassung, nicht in Beschreibung, Ansprüchen oder Zeichnungen.",
+      "frage": "Ist das Merkmal ursprünglich offenbart?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Erfindung kann an jeder Stelle der Anmeldungsunterlagen offenbart sein, **außer in der Zusammenfassung**. Die Zusammenfassung dient ausschließlich der technischen Unterrichtung der Öffentlichkeit (§ 36 Abs. 2 PatG; Prüfungsrichtlinien 2.3.3.1).",
+       "Die Aufnahme des Merkmals würde den Gegenstand der Anmeldung deshalb erweitern (§ 38 PatG). Dass die Zusammenfassung bis zu 15 Monate nach dem Anmeldetag nachgereicht werden kann (§ 36 Abs. 1 PatG), zeigt den Grund: Sie kann kein Träger der ursprünglichen Offenbarung sein."
+      ],
+      "merke": "Die Zusammenfassung informiert, sie offenbart nicht.",
+      "level": 1,
+      "concepts": [
+       "pat_ausfuehrbarkeit",
+       "pat_offenbarung",
+       "pat_unzulaessige_erweiterung"
+      ],
+      "norms": [
+       "§ 36 PatG",
+       "§ 34 Abs. 4 PatG",
+       "§ 38 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02b-7",
+      "typ": "fall",
+      "titel": "Schlagzähigkeit von mindestens …",
+      "sachverhalt": "Die Anmeldung offenbart drei Kunststoffmischungen mit Schlagzähigkeiten zwischen 40 und 55 Einheiten und einen Weg, sie herzustellen. Beansprucht wird eine Zusammensetzung mit einer Schlagzähigkeit „von mindestens 40“ ohne Obergrenze.",
+      "frage": "Ist die Lehre über den gesamten beanspruchten Bereich ausführbar offenbart?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Offene Bereichsangaben für physikalische Eigenschaften dürfen nicht über die dem Fachmann offenbarte Lehre hinaus so weit verallgemeinert werden, dass der Schutz auf **spekulativ beanspruchte weite Bereiche** ausgedehnt wird, zu deren Erschließung die Erfindung keinen Beitrag leistet (BGH Thermoplastische Zusammensetzung; Prüfungsrichtlinien 2.3.3.1).",
+       "Die Grenze liegt dort, wo aus dem offenbarten Lösungsweg nur noch eine Aufgabe wird. Der Anmelder kann den Bereich auf das beschränken, was die Beispiele und der offenbarte Weg tragen, solange die Grenzwerte ursprünglich offenbart sind (§ 38 PatG)."
+      ],
+      "merke": "Ein Weg genügt für die Lehre, aber nicht für einen Bereich, den die Erfindung nie betreten hat.",
+      "level": 3,
+      "concepts": [
+       "pat_ausfuehrbarkeit"
+      ],
+      "norms": [
+       "§ 34 Abs. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_thermoplastische_zusammensetzung"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02b-8",
+      "typ": "fall",
+      "titel": "Einmal Beschleunigung, immer Beschleunigung?",
+      "sachverhalt": "Ein Start-up steht vor einer Finanzierungsrunde und stellt mit dem Prüfungsantrag einen begründeten Beschleunigungsantrag. Der erste Bescheid kommt nach drei Monaten. Nach der Erwiderung hört das Start-up ein Jahr lang nichts und meint, der Antrag wirke für das ganze Verfahren.",
+      "frage": "Gilt der Beschleunigungsantrag ohne Weiteres für das gesamte Verfahren?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Auf einen begründeten Beschleunigungsantrag ist das Verfahren vordringlich zu betreiben, wenn die sonst zu erwartende Dauer zu erheblichen Nachteilen führen würde. Der Antrag gilt aber **grundsätzlich nur für die nächste Verfahrenshandlung** (Prüfungsrichtlinien 2.3.2).",
+       "Das weitere Verfahren wird nur beschleunigt, wenn sich dieses Begehren aus dem Antrag ergibt. Das Start-up sollte den Antrag also ausdrücklich auf das gesamte Verfahren richten oder mit der Erwiderung erneuern und selbst zügig handeln: Die Richtlinien zählen die fristgerechte Reaktion auf Bescheide zur Mitwirkung, die das Verfahren beschleunigt."
+      ],
+      "merke": "Beschleunigung gibt es auf Antrag und im Zweifel nur für den nächsten Schritt.",
+      "level": 1,
+      "concepts": [
+       "pat_pruefungsverfahren"
+      ],
+      "norms": [
+       "§ 44 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.2",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p02c",
+    "titel": "Patentfähigkeit in der Prüfung",
+    "einheiten": [
+     {
+      "id": "p02c-0",
+      "typ": "intro",
+      "titel": "So geht die Prüfungsstelle an die §§ 1 bis 5 PatG heran",
+      "text": "Geprüft wird der **Gegenstand des Patentanspruchs mit allen Merkmalen**. Vorher definiert die Prüfungsstelle den **Fachmann**, denn Auslegung, Neuheit und erfinderische Tätigkeit werden aus seiner Sicht beurteilt. Fachmann ist, wem man die Aufgabe normalerweise übertragen würde: der Entwickler, nicht der Anwender (BGH Fischbissanzeiger), notfalls ein Team (BGH Pfeffersäckchen).\n\n**Technizität und Ausschlüsse:** Die Erfindung muss auf einem Gebiet der Technik liegen; die Einstufung eines Merkmals als nichttechnisch ist zu begründen. Der Katalog des § 1 Abs. 3 PatG schließt nur „als solche“ aus (§ 1 Abs. 4 PatG). **Stand der Technik:** alles vor dem Zeitrang öffentlich Zugängliche (§ 3 Abs. 1 PatG) und der gesamte Inhalt älterer, nachveröffentlichter Anmeldungen (§ 3 Abs. 2 PatG). **Neuheit:** Einzelvergleich; neuheitsschädlich ist nur die Entgegenhaltung, der alle Merkmale unmittelbar und eindeutig zu entnehmen sind.\n\n**Erfinderische Tätigkeit:** Naheliegen verlangt, dass der Fachmann die Lösung entwickeln konnte **und Veranlassung hatte**, sie zu wählen. Fehlende Hinderungsgründe genügen nicht. Hilfskriterien sind nur Anlass zu kritischer Prüfung; Aggregation und beliebige Auswahl sind nicht erfinderisch. Verboten sind die zergliedernde und die rückschauende Betrachtung: Der Prüfer kennt die Erfindung schon, der Fachmann am Anmeldetag kannte sie nicht.",
+      "concepts": [
+       "pat_fachmann",
+       "pat_neuheit",
+       "pat_erfinderische_taetigkeit",
+       "pat_hilfskriterien"
+      ],
+      "norms": [
+       "§ 1 PatG",
+       "§ 3 PatG",
+       "§ 4 PatG",
+       "§ 5 PatG"
+      ],
+      "cases": [
+       "pat_bgh_fischbissanzeiger",
+       "pat_bgh_pfeffersaeckchen"
+      ],
+      "distinctions": [
+       "d_pat_neuheit_erfinderische_taetigkeit"
+      ]
+     },
+     {
+      "id": "p02c-1",
+      "typ": "schema",
+      "titel": "Prüfungsschema: Patentfähigkeit",
+      "schema": "pat_schema_patentfaehigkeit",
+      "text": "Die Prüfungsrichtlinien folgen in Abschnitt 2.3.3.2 diesem Aufbau.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "p02c-2",
+      "typ": "fall",
+      "titel": "Ein Schritt zu viel",
+      "sachverhalt": "Ein Verfahren zur Anpassung eines Implantats umfasst fünf Schritte: Vermessen, Berechnen, Fräsen, **Einsetzen des Implantats in den Kieferknochen durch den Chirurgen** und Nachvermessen. Die Anmelderin meint, vier von fünf Schritten seien rein technisch; das genüge.",
+      "frage": "Ist das Verfahren als Ganzes patentierbar?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Verfahren zur chirurgischen oder therapeutischen Behandlung des menschlichen oder tierischen Körpers und Diagnostizierverfahren am Körper sind ausgeschlossen (§ 2a Abs. 1 Nr. 2 PatG). Ein **mehrstufiges Verfahren ist als Ganzes nicht patentierbar, wenn eine der Stufen** ein solches Verfahren beinhaltet (Prüfungsrichtlinien 2.3.3.2.1).",
+       "Das ist der Unterschied zu nichttechnischen Merkmalen: Eine Mischung aus technischen und nichttechnischen Merkmalen bleibt dem Patentschutz zugänglich, die nichttechnischen Merkmale zählen nur nicht bei § 4 PatG. Der chirurgische Schritt dagegen infiziert den ganzen Anspruch. Ausweg: den Schritt streichen, soweit die ursprüngliche Offenbarung das trägt (§ 38 PatG), oder das Implantat und die Fräsvorrichtung als Erzeugnisse beanspruchen (§ 2a Abs. 1 Nr. 2 S. 2 PatG)."
+      ],
+      "merke": "Nichttechnische Merkmale werden ignoriert, ein chirurgischer Schritt sperrt den ganzen Anspruch.",
+      "level": 2,
+      "concepts": [
+       "pat_therapeutische_verfahren",
+       "pat_technizitaet"
+      ],
+      "norms": [
+       "§ 2a Abs. 1 PatG",
+       "§ 1 Abs. 3 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentfaehigkeit.2.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02c-3",
+      "typ": "fall",
+      "titel": "Die ältere Anmeldung, die es nicht mehr gibt",
+      "sachverhalt": "Anmeldung A (Anmeldetag 1.2.2024) wird am 1.8.2025 offengelegt und am 1.10.2025 zurückgenommen. Anmeldung B eines anderen Anmelders (Anmeldetag 1.6.2024) beansprucht denselben Gegenstand. B meint, eine zurückgenommene Anmeldung könne ihr nicht mehr entgegenstehen.",
+      "frage": "Bleibt A Stand der Technik nach § 3 Abs. 2 PatG?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Eine ältere, nachveröffentlichte Anmeldung ist bei der Neuheitsprüfung auch dann zu berücksichtigen, wenn sie **nach ihrer Veröffentlichung** zurückgenommen wird, zurückgewiesen wird oder als zurückgenommen gilt (BGH PALplus). § 3 Abs. 2 PatG stellt auf den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung ab, nicht auf ihr Schicksal; ob auf A je ein Patent erteilt wird, ist ohne Belang.",
+       "Maßgeblich ist der gesamte Offenbarungsgehalt von A, nicht nur ihre Ansprüche. Für die erfinderische Tätigkeit von B bleibt A außer Betracht (§ 4 S. 2 PatG). B muss also nur ein Merkmal finden, das A nicht unmittelbar und eindeutig offenbart."
+      ],
+      "merke": "Einmal als anhängige Anmeldung veröffentlicht, bleibt die ältere Anmeldung neuheitsschädlich.",
+      "level": 2,
+      "concepts": [
+       "pat_neuheit"
+      ],
+      "norms": [
+       "§ 3 Abs. 2 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_palplus"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.3.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02c-4",
+      "typ": "fall",
+      "titel": "Veröffentlicht, obwohl schon weggefallen",
+      "sachverhalt": "Anmeldung A (Anmeldetag 1.2.2024) gilt seit dem 1.7.2025 wegen nicht gezahlter Jahresgebühr als zurückgenommen. Weil die technischen Vorbereitungen abgeschlossen waren, erscheint am 7.8.2025 dennoch die Offenlegungsschrift. Anmeldung B hat den Anmeldetag 1.6.2024.",
+      "frage": "Ist A gegenüber B Stand der Technik?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die ältere Anmeldung wird Stand der Technik nach § 3 Abs. 2 PatG nur, wenn sie **zum Zeitpunkt ihrer Veröffentlichung noch anhängig** war. War sie das nicht und wurde sie dennoch veröffentlicht, wird sie erst mit dem Datum ihrer Veröffentlichung Stand der Technik (Prüfungsrichtlinien 2.3.3.2.3), also nach § 3 Abs. 1 PatG ab dem 7.8.2025.",
+       "Gegenüber B mit dem Zeitrang 1.6.2024 ist A damit weder vorveröffentlicht noch eine ältere Anmeldung im Sinne des § 3 Abs. 2 PatG. Gegenüber allen Anmeldungen mit Zeitrang nach dem 7.8.2025 ist A dagegen gewöhnlicher Stand der Technik, dann auch für die erfinderische Tätigkeit. Vergleiche den Fall davor: Dort fiel A erst nach der Veröffentlichung weg."
+      ],
+      "merke": "Die Fiktion des § 3 Abs. 2 PatG braucht eine Anmeldung, die bei der Veröffentlichung noch lebt.",
+      "level": 3,
+      "concepts": [
+       "pat_neuheit"
+      ],
+      "norms": [
+       "§ 3 Abs. 1 PatG",
+       "§ 3 Abs. 2 PatG",
+       "§ 32 Abs. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_palplus"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.3.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02c-5",
+      "typ": "fall",
+      "titel": "Mitlesen oder Hinzudenken",
+      "sachverhalt": "Die Entgegenhaltung D1 beschreibt ein Trennverfahren für Proteine mit allen Schritten des Anspruchs außer der Kühlung der Säule auf 4 °C. Der Prüfer meint, jeder Fachmann würde bei empfindlichen Proteinen kühlen; D1 sei deshalb neuheitsschädlich.",
+      "frage": "Nimmt D1 den Anspruch neuheitsschädlich vorweg?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Neuheitsschädlich ist nur, was der Fachmann der Entgegenhaltung **unmittelbar und eindeutig** entnimmt. Dazu gehört auch, was nicht ausdrücklich erwähnt, für die Ausführung der Lehre aber selbstverständlich ist und deshalb **mitgelesen** wird. Das Mitlesen erlaubt aber keine Ergänzung der Offenbarung durch das Fachwissen (BGH Proteintrennung, Olanzapin).",
+       "Dass der Fachmann kühlen **würde**, ist ein Argument des Naheliegens, nicht der Offenbarung. Der Prüfer muss den Einwand auf § 4 PatG stützen und die Veranlassung darlegen. Anders läge es nur, wenn das Verfahren von D1 ohne Kühlung gar nicht ausführbar wäre; dann wäre die Kühlung zwingend mitoffenbart."
+      ],
+      "merke": "Mitgelesen wird das Selbstverständliche, hinzugedacht wird nichts.",
+      "level": 2,
+      "concepts": [
+       "pat_offenbarung",
+       "pat_neuheit"
+      ],
+      "norms": [
+       "§ 3 Abs. 1 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_proteintrennung",
+       "pat_bgh_olanzapin"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02c-6",
+      "typ": "mc",
+      "titel": "Die Ausstellung als Schonfrist",
+      "sachverhalt": "",
+      "frage": "Die Anmelderin hat ihre Erfindung auf einer amtlich anerkannten Ausstellung gezeigt und will sich auf § 3 Abs. 5 PatG berufen. Was muss sie tun?",
+      "optionen": [
+       "Nichts; der Ausstellungsschutz wirkt von Amts wegen",
+       "Binnen sechs Monaten nach der Ausstellung anmelden, die Zurschaustellung bei der Einreichung angeben und binnen vier Monaten eine Bescheinigung vorlegen",
+       "Binnen zwölf Monaten anmelden und die Bescheinigung mit dem Prüfungsantrag vorlegen",
+       "Die Ausstellungspriorität binnen zwei Monaten nach dem Anmeldetag erklären"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Eine Offenbarung bleibt außer Betracht, wenn sie **nicht früher als sechs Monate vor Einreichung der Anmeldung** erfolgt ist und auf einen offensichtlichen Missbrauch zum Nachteil des Anmelders oder auf die Zurschaustellung auf einer amtlichen oder amtlich anerkannten Ausstellung zurückgeht (§ 3 Abs. 5 PatG). Im Ausstellungsfall muss der Anmelder die Zurschaustellung **bei der Einreichung angeben** und **binnen vier Monaten** eine Bescheinigung vorlegen.",
+       "Die anerkannten Ausstellungen werden im Bundesgesetzblatt bekannt gemacht; gewöhnliche Messen gehören nicht dazu. Die Sechsmonatsfrist rechnet vom Anmeldetag, nicht vom Prioritätstag. Eine allgemeine Neuheitsschonfrist kennt das PatG nicht; anders das Gebrauchsmuster (§ 3 Abs. 1 S. 3 GebrMG)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_neuheit",
+       "pat_fristen"
+      ],
+      "norms": [
+       "§ 3 Abs. 5 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentfaehigkeit.3.1",
+      "distinctions": [
+       "d_pat_fristen_pruefungsrichtlinien"
+      ]
+     },
+     {
+      "id": "p02c-7",
+      "typ": "fall",
+      "titel": "Nichts spricht dagegen",
+      "sachverhalt": "Der Prüfer begründet das Naheliegen so: Aus D1 sei die Öse bekannt, aus D2 die einteilige Fertigung; es seien keine Gründe ersichtlich, die den Fachmann gehindert hätten, beides zu verbinden.",
+      "frage": "Genügt diese Begründung für das Naheliegen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine Lehre ist nicht schon deshalb naheliegend, weil keine Hinderungsgründe bestanden, vom Bekannten zu ihr zu gelangen. Das Bekannte muss dem Fachmann **Anlass oder Anregung** gegeben haben, zu der vorgeschlagenen Lehre zu kommen (BGH Einteilige Öse). Können allein genügt nicht; es braucht die Veranlassung.",
+       "Die Prüfungsrichtlinien verlangen deshalb im Bescheid eine schlüssige Darlegung, weshalb der Fachmann Druckschriften miteinander oder mit seinem Fachwissen kombiniert hätte (2.4). Die Veranlassung kann aus dem Stand der Technik, aus technischen Bedürfnissen oder aus den Eigenarten des Fachgebiets folgen (BGH Installiereinrichtung II); ein generelles Lösungsmittel des Fachwissens genügt, wenn sich sein Einsatz in der konkreten Ausgangslage erkennbar als objektiv zweckmäßig darstellt (BGH Farbversorgungssystem, Kinderbett)."
+      ],
+      "merke": "„Warum nicht?“ ist keine Begründung; gefragt ist „warum gerade so?“.",
+      "level": 2,
+      "concepts": [
+       "pat_erfinderische_taetigkeit",
+       "pat_pruefungsbescheid"
+      ],
+      "norms": [
+       "§ 4 PatG",
+       "§ 45 Abs. 2 PatG"
+      ],
+      "cases": [
+       "pat_bgh_einteilige_oese",
+       "pat_bgh_installiereinrichtung_ii",
+       "pat_bgh_farbversorgungssystem",
+       "pat_bgh_kinderbett"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.4.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02c-8",
+      "typ": "fall",
+      "titel": "Das lange Bedürfnis",
+      "sachverhalt": "Die Anmelderin trägt vor, die Branche habe zwanzig Jahre auf eine solche Lösung gewartet, und ihr Produkt sei ein Markterfolg. Schon deshalb beruhe die Erfindung auf erfinderischer Tätigkeit; auf den Stand der Technik komme es nicht mehr an.",
+      "frage": "Begründen die Hilfskriterien für sich die erfinderische Tätigkeit?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Hilfskriterien (früher Beweisanzeichen) können **lediglich im Einzelfall Anlass geben**, bekannte Lösungen besonders kritisch darauf zu prüfen, ob sie vor dem Hintergrund des Fachwissens hinreichende Anhaltspunkte für ein Naheliegen bieten und nicht erst in der Rückschau eine Anregung zu enthalten scheinen (BGH Dreinahtschlauchfolienbeutel).",
+       "Die Richtlinien nennen als Hilfskriterien die sprunghafte Weiterentwicklung, die Überwindung eines Vorurteils, vergebliche Bemühungen, ein lange bestehendes Bedürfnis, einen einfachen und billigen Weg zu Massenartikeln und synergistische Effekte. Sie ersetzen die Prüfung nach § 4 PatG nicht. Ergibt der Stand der Technik eine klare Veranlassung, hilft das lange Bedürfnis nicht; fehlt sie, braucht es das Bedürfnis nicht."
+      ],
+      "merke": "Hilfskriterien schärfen den Blick, sie ersetzen die Prüfung nicht.",
+      "level": 2,
+      "concepts": [
+       "pat_hilfskriterien",
+       "pat_erfinderische_taetigkeit"
+      ],
+      "norms": [
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_dreinahtschlauchfolienbeutel"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.4.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02c-9",
+      "typ": "fall",
+      "titel": "Die Auswahl aus dem Baukasten",
+      "sachverhalt": "Für die Schaumerzeugung kennt der Fachmann vier gleichwertige Gase. Die Anmeldung wählt eines davon, ohne dass damit eine besondere Wirkung verbunden wäre. Außerdem nimmt die Lösung einen in der Fachwelt bekannten Nachteil schlicht in Kauf.",
+      "frage": "Beruht die Auswahl auf erfinderischer Tätigkeit?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine nahezu willkürliche, beliebige Auswahl aus einem bekannten Bereich oder aus mehreren dem Fachmann bekannten Alternativen begründet keine erfinderische Tätigkeit (BGH Injizierbarer Mikroschaum). Ebenso wenig genügt es, bestehende Bedenken der Fachwelt zu ignorieren und die damit verbundenen Nachteile in Kauf zu nehmen (BGH Gurtstraffer).",
+       "Auch die **Aggregation** reicht nicht: Wer für sich nicht erfinderische Maßnahmen bloß aneinanderreiht, ohne dass sie zusammenwirken, bleibt im Naheliegenden (Prüfungsrichtlinien 2.3.3.2.4). Anders bei synergistischen Effekten: Dort ist die Kombination mehr als die Summe, und die Prüfung muss von der Gesamtheit der Merkmale ausgehen."
+      ],
+      "merke": "Beliebig gewählt, bloß addiert oder nur hingenommen: nicht erfinderisch.",
+      "level": 2,
+      "concepts": [
+       "pat_hilfskriterien",
+       "pat_erfinderische_taetigkeit"
+      ],
+      "norms": [
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_injizierbarer_mikroschaum",
+       "pat_bgh_gurtstraffer"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.4.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02c-10",
+      "typ": "fall",
+      "titel": "Wurst aus zwei Betrieben",
+      "sachverhalt": "Die Erfindung betrifft ein Produktionssystem, bei dem ein Zulieferer Wursthüllen als Endlosware vorkonfektioniert und der Wursthersteller sie automatisch befüllt. Die Anmelderin meint, ein einzelner Fachmann beherrsche nicht beide Gewerke; was nur beide zusammen wüssten, sei dem Fachmann nicht zuzurechnen.",
+      "frage": "Kann ein Team als maßgeblicher Fachmann herangezogen werden?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Betrifft die Lehre ein mehrstufiges Produktionssystem, das nicht in einem einzigen Betrieb angesiedelt ist, können als Fachmann in verschiedenen Gewerken Kundige anzusehen sein, deren Kenntnisse sich **in einem Team ergänzen** (BGH Pfeffersäckchen). Auch sonst kann der Fachmann regelmäßig einen weiteren Fachmann hinzuziehen (Prüfungsrichtlinien 2.3.3.2.4).",
+       "Für die Prüfung heißt das: Der Fachmann ist am Anfang des ersten Bescheids zu definieren (Prüfungsrichtlinien 2.4.1). Wer den Bescheid angreift, prüft zuerst diese Definition, denn sie bestimmt das Fachwissen, die Auslegung und die Veranlassung. Liegen Kenntnisse auf einem fremden Fachgebiet, ist ihre Zurechnung zu begründen."
+      ],
+      "merke": "Der Fachmann ist Entwickler und notfalls ein Team; seine Definition steht am Anfang des Bescheids.",
+      "level": 1,
+      "concepts": [
+       "pat_fachmann"
+      ],
+      "norms": [
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_pfeffersaeckchen",
+       "pat_bgh_fischbissanzeiger"
+      ],
+      "step": "step:pat_schema_patentfaehigkeit.4.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02c-11",
+      "typ": "fall",
+      "titel": "Der Hinweis auf die geheime Anmeldung",
+      "sachverhalt": "Bei der Recherche findet der Prüfer eine Anmeldung eines Wettbewerbers mit älterem Zeitrang, die noch nicht offengelegt ist und den Gegenstand vorwegnimmt. Um das Verfahren abzukürzen, will er dem Anmelder sofort Aktenzeichen und Inhalt mitteilen.",
+      "frage": "Darf der Prüfer das?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Inhalt und Aktenzeichen einer älteren, noch nicht offengelegten Anmeldung dürfen dem Anmelder der jüngeren Anmeldung **erst nach deren Offenlegung** mitgeteilt werden (Prüfungsrichtlinien 2.3.3.2.3). Bis dahin steht die Einsicht nicht jedermann frei (§ 31 Abs. 2 PatG); der Prüfer würde das Geheimnis des Wettbewerbers preisgeben.",
+       "Der Prüfer stellt die Entscheidung zurück, bis die ältere Anmeldung offengelegt ist. Erst dann steht auch fest, ob sie Stand der Technik nach § 3 Abs. 2 PatG wird: nur, wenn sie bei ihrer Veröffentlichung noch anhängig ist. Praktische Folge für den Anmelder: Eine Recherche in den ersten 18 Monaten ist nie vollständig."
+      ],
+      "merke": "Ältere Rechte wirken erst, wenn sie sichtbar sind; vorher schweigt der Prüfer.",
+      "level": 2,
+      "concepts": [
+       "pat_neuheit",
+       "pat_akteneinsicht",
+       "pat_recherche_pruefung"
+      ],
+      "norms": [
+       "§ 3 Abs. 2 PatG",
+       "§ 31 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_patentfaehigkeit.3.1",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p02d",
+    "titel": "Änderungen, Einheitlichkeit, Teilung, Ansprüche, Priorität",
+    "einheiten": [
+     {
+      "id": "p02d-0",
+      "typ": "intro",
+      "titel": "Was der Anmelder im Verfahren noch ändern darf",
+      "text": "**Änderungen** sind bis zum Erteilungsbeschluss zulässig, wenn sie den Gegenstand der Anmeldung nicht erweitern; vor dem Prüfungsantrag nur zur Berichtigung offensichtlicher Unrichtigkeiten, zur Beseitigung gerügter Mängel und an den Ansprüchen (§ 38 PatG). Maßstab ist, was der Fachmann der **Gesamtheit der ursprünglichen Unterlagen** unmittelbar und eindeutig als zur Erfindung gehörend entnimmt. Innerhalb dieser Grenze dürfen die Ansprüche sogar weiter gefasst werden als in der Anmeldung.\n\n**Einheitlichkeit:** eine Erfindung oder eine Gruppe mit einer einzigen allgemeinen erfinderischen Idee (§ 34 Abs. 5 PatG). Bei Uneinheitlichkeit: **Ausscheidung** oder Verzicht. Die Ausscheidungsanmeldung entsteht mit der Erklärung, läuft in der Verfahrenslage der Stammanmeldung weiter und kostet eigene Gebühren. Die **freie Teilung** (§ 39 PatG) steht dem Anmelder jederzeit offen, verlangt aber Unterlagen und Gebühren binnen drei Monaten.\n\n**Ansprüche:** ein- oder zweiteilig (§ 9 PatV), Hauptanspruch mit den wesentlichen Merkmalen, Unteransprüche, Nebenansprüche bei gewahrter Einheitlichkeit. **Priorität:** innere (§ 40 PatG) und äußere (§ 41 PatG); die materielle Berechtigung prüft die Prüfungsstelle nur, wenn es auf Material im Prioritätsintervall ankommt.",
+      "concepts": [
+       "pat_unzulaessige_erweiterung",
+       "pat_einheitlichkeit",
+       "pat_teilung",
+       "pat_patentanspruch",
+       "pat_prioritaet"
+      ],
+      "norms": [
+       "§ 38 PatG",
+       "§ 34 Abs. 5 PatG",
+       "§ 39 PatG",
+       "§ 40 PatG",
+       "§ 41 PatG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_teilung_ausscheidung_abzweigung"
+      ]
+     },
+     {
+      "id": "p02d-1",
+      "typ": "fall",
+      "titel": "Enthält oder besteht aus",
+      "sachverhalt": "Die ursprünglichen Unterlagen beschreiben ein Reifenabdichtmittel, das Latex, ein Frostschutzmittel und einen Klebrigmacher „enthält“. Um sich vom Stand der Technik abzugrenzen, ändert die Anmelderin den Anspruch in „bestehend aus“ diesen drei Bestandteilen.",
+      "frage": "Ist die Änderung zulässig?",
+      "antwort": false,
+      "loesung": [
+       "**Nein, nicht ohne Weiteres!** Ist den ursprünglichen Unterlagen zu entnehmen, dass ein Erzeugnis bestimmte Bestandteile „enthalten“ soll, ist damit nicht offenbart, dass keine weiteren hinzugefügt werden dürfen. Für „besteht aus“ bedarf es in der Regel **weiterer Anhaltspunkte**, etwa des Hinweises, dass das ausschließliche Bestehen aus diesen Bestandteilen Vorteile hat oder erwünscht ist (BGH Reifenabdichtmittel).",
+       "Fehlen solche Anhaltspunkte, erweitert die Änderung den Gegenstand der Anmeldung: Der Anspruch enthält dann eine Lehre (den Ausschluss weiterer Stoffe), die der Fachmann den Unterlagen nicht unmittelbar und eindeutig entnimmt. Aus ihr können keine Rechte hergeleitet werden (§ 38 S. 2 PatG); streicht die Anmelderin sie nicht, ist die gesamte Anmeldung zurückzuweisen (Prüfungsrichtlinien 2.3.3.3)."
+      ],
+      "merke": "Auch eine Einschränkung kann erweitern: Maßstab ist die Offenbarung, nicht die Anspruchsbreite.",
+      "level": 3,
+      "concepts": [
+       "pat_unzulaessige_erweiterung",
+       "pat_offenbarung"
+      ],
+      "norms": [
+       "§ 38 PatG",
+       "§ 21 Abs. 1 Nr. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_reifenabdichtmittel",
+       "pat_bgh_faelschungssicheres_dokument"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.4",
+      "distinctions": []
+     },
+     {
+      "id": "p02d-2",
+      "typ": "fall",
+      "titel": "Breiter als der ursprüngliche Anspruch",
+      "sachverhalt": "Der ursprüngliche Anspruch 1 verlangt eine „Schraubverbindung“. Die Beschreibung erklärt, die Teile könnten durch Schrauben, Nieten oder Kleben verbunden werden. Im Prüfungsverfahren fasst die Anmelderin den Anspruch auf „lösbare oder unlösbare Verbindung durch Schrauben, Nieten oder Kleben“.",
+      "frage": "Ist die Erweiterung des Anspruchs gegenüber der ursprünglichen Anspruchsfassung zulässig?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Die Offenbarung ist nicht auf die Gegenstände der ursprünglich formulierten Patentansprüche beschränkt. Entscheidend ist, was der **Gesamtheit der ursprünglichen Unterlagen** als zur angemeldeten Erfindung gehörend zu entnehmen ist; innerhalb dieser Vorgaben können die Ansprüche bis zur Erteilung auch weiter gefasst werden als in der Anmeldung (BGH Fälschungssicheres Dokument, Einkaufswagen II).",
+       "Der Unterschied zum erteilten Patent: Nach der Erteilung darf der **Schutzbereich** nicht mehr erweitert werden (§ 22 Abs. 1 PatG). Im Anmeldeverfahren gibt es diese zweite Schranke nicht; hier zählt allein § 38 PatG. Wer breiter werden will, muss es vor dem Erteilungsbeschluss tun."
+      ],
+      "merke": "Vor der Erteilung begrenzt nur die ursprüngliche Offenbarung, nicht der ursprüngliche Anspruch.",
+      "level": 2,
+      "concepts": [
+       "pat_unzulaessige_erweiterung",
+       "pat_offenbarung"
+      ],
+      "norms": [
+       "§ 38 PatG",
+       "§ 22 Abs. 1 PatG"
+      ],
+      "cases": [
+       "pat_bgh_faelschungssicheres_dokument",
+       "pat_bgh_einkaufswagen_ii"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.4",
+      "distinctions": []
+     },
+     {
+      "id": "p02d-3",
+      "typ": "fall",
+      "titel": "Nicht als bevorzugt bezeichnet",
+      "sachverhalt": "Die Beschreibung erwähnt in einer Aufzählung ohne jede Hervorhebung, der Katalysator könne auch auf einem Zeolith-Träger aufgebracht sein. Die Anmelderin nimmt das Merkmal in den Anspruch auf. Der Prüfer meint, nur als vorteilhaft oder bevorzugt bezeichnete Merkmale seien als zur Erfindung gehörend offenbart.",
+      "frage": "Ist das Merkmal als zur Erfindung gehörend offenbart?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Für die Offenbarung ist nicht entscheidend, ob etwas gegenüber anderen Lösungen als vorteilhaft, zweckmäßig oder bevorzugt bezeichnet ist. Solche Hervorhebungen **erleichtern** nur die Erkenntnis, dass das Merkmal zur beanspruchten Erfindung gehört; ihr Fehlen schließt die Offenbarung nicht aus (Prüfungsrichtlinien 2.3.3.3 unter Hinweis auf die Rechtsprechung des BGH).",
+       "Zu prüfen bleibt, ob die **Kombination** offenbart ist, die nun im Anspruch steht: Merkmale eines Ausführungsbeispiels dürfen einzeln übernommen werden, wenn sie je für sich den Erfolg fördern, aber die beanspruchte Kombination muss insgesamt eine Lehre sein, die der Fachmann den ursprünglichen Unterlagen als mögliche Ausgestaltung entnimmt (BGH Schleifprodukt)."
+      ],
+      "merke": "Offenbart ist, was der Fachmann als zur Erfindung gehörend liest, mit oder ohne Ausrufezeichen.",
+      "level": 2,
+      "concepts": [
+       "pat_offenbarung",
+       "pat_unzulaessige_erweiterung"
+      ],
+      "norms": [
+       "§ 38 PatG"
+      ],
+      "cases": [
+       "pat_bgh_schleifprodukt"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.4",
+      "distinctions": []
+     },
+     {
+      "id": "p02d-4",
+      "typ": "fall",
+      "titel": "Nachbessern vor dem Prüfungsantrag",
+      "sachverhalt": "Ein Jahr nach der Anmeldung, einen Prüfungsantrag gibt es noch nicht, reicht der Anmelder eine neue Beschreibung ein, in der er die Wirkungsweise ausführlicher erläutert und zwei Absätze umstellt. Unrichtigkeiten berichtigt er damit nicht, und die Prüfungsstelle hat nichts gerügt.",
+      "frage": "Ist die Änderung der Beschreibung in diesem Verfahrensstadium zulässig?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Bis zum Eingang des Prüfungsantrags sind Änderungen nur zulässig, soweit es sich um die Berichtigung offensichtlicher Unrichtigkeiten, um die Beseitigung der von der Prüfungsstelle bezeichneten Mängel oder um Änderungen des Patentanspruchs handelt (§ 38 S. 1 PatG).",
+       "Die Ansprüche dürfte der Anmelder also schon jetzt ändern, die Beschreibung nicht. Nach dem Prüfungsantrag fällt diese Schranke; dann gilt nur noch das Verbot der Erweiterung. Für die Offenlegungsschrift bleibt es ohnehin bei den ursprünglichen Unterlagen (Prüfungsrichtlinien 1.12)."
+      ],
+      "merke": "Vor dem Prüfungsantrag: berichtigen, Mängel beheben, Ansprüche ändern. Mehr nicht.",
+      "level": 2,
+      "concepts": [
+       "pat_unzulaessige_erweiterung",
+       "pat_pruefungsantrag"
+      ],
+      "norms": [
+       "§ 38 PatG",
+       "§ 44 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.4",
+      "distinctions": []
+     },
+     {
+      "id": "p02d-5",
+      "typ": "fall",
+      "titel": "Die Ausscheidung ohne Gebühr",
+      "sachverhalt": "Auf die Rüge der Uneinheitlichkeit scheidet die Anmelderin am 2. März die Ansprüche 8 bis 12 aus. Die Anmeldegebühr für die Ausscheidungsanmeldung zahlt sie nicht. Im Juli will sie die Ansprüche 8 bis 12 wieder in der Stammanmeldung verfolgen, weil die Ausscheidungsanmeldung ja nie wirksam geworden sei.",
+      "frage": "Fällt der ausgeschiedene Teil in die Stammanmeldung zurück?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Ausscheidungsanmeldung **entsteht mit Eingang der Ausscheidungserklärung** und verselbständigt sich sofort. Sie ist gebührenrechtlich wie eine reguläre Anmeldung zu behandeln: Die Anmeldegebühr wird mit der Erklärung fällig und ist binnen drei Monaten zu zahlen (§ 3 Abs. 1 PatKostG, § 6 Abs. 1 S. 2 PatKostG). Wird nicht gezahlt, gilt die Ausscheidungsanmeldung als zurückgenommen (§ 6 Abs. 2 PatKostG).",
+       "Die Rücknahmefiktion trifft die Ausscheidungsanmeldung, nicht die Erklärung: Der ausgeschiedene Teil **fällt nicht zurück** und kann in der Stammanmeldung nicht mehr beansprucht werden (Prüfungsrichtlinien 2.3.3.4). Anders die freie Teilung: Dort gilt bei versäumter Dreimonatsfrist die Teilungserklärung als nicht abgegeben (§ 39 Abs. 3 PatG), der Teil bleibt also in der Stammanmeldung. § 39 PatG ist auf die Ausscheidung nicht entsprechend anwendbar."
+      ],
+      "merke": "Ausgeschieden ist ausgeschieden; nur die gescheiterte Teilung lässt den Teil in der Stammanmeldung.",
+      "level": 3,
+      "concepts": [
+       "pat_einheitlichkeit",
+       "pat_teilung",
+       "pat_zahlungsfristen"
+      ],
+      "norms": [
+       "§ 34 Abs. 5 PatG",
+       "§ 6 PatKostG",
+       "§ 39 Abs. 3 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.5",
+      "distinctions": [
+       "d_pat_teilung_ausscheidung_abzweigung"
+      ]
+     },
+     {
+      "id": "p02d-6",
+      "typ": "mc",
+      "titel": "Die Prüfungsgebühr der Ausscheidungsanmeldung",
+      "sachverhalt": "",
+      "frage": "In der Stammanmeldung war Prüfungsantrag gestellt. Für die Ausscheidungsanmeldung zahlt der Anmelder die Anmeldegebühr, aber nicht die Prüfungsgebühr. Was folgt?",
+      "optionen": [
+       "Die Ausscheidungsanmeldung gilt sofort als zurückgenommen",
+       "Der Prüfungsantrag für die Ausscheidungsanmeldung gilt als zurückgenommen; die Anmeldung selbst bleibt bestehen",
+       "Die Ausscheidungserklärung gilt als nicht abgegeben",
+       "Nichts; die Prüfungsgebühr der Stammanmeldung deckt die Ausscheidung ab"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Die Ausscheidungsanmeldung wird in der Verfahrenslage weitergeführt, in der sich die Stammanmeldung befand. War dort Prüfungsantrag gestellt, wird die Prüfungsgebühr mit Eingang der Ausscheidungserklärung auch für die Ausscheidungsanmeldung fällig und ist binnen drei Monaten, längstens bis zum Ablauf der Siebenjahresfrist, zu zahlen (§ 44 Abs. 2 PatG; BPatG Prüfungsgebühr für Ausscheidungsanmeldung).",
+       "Wird sie nicht gezahlt, gilt der **Prüfungsantrag** als zurückgenommen (§ 6 Abs. 2 PatKostG); zu einer Rücknahmefiktion der Ausscheidungsanmeldung führt das nicht (Prüfungsrichtlinien 2.3.3.4). Die Anmeldung kann innerhalb der Siebenjahresfrist erneut zur Prüfung gestellt werden. Daneben werden die Jahresgebühren für die zurückliegende Zeit fällig; sie können binnen zwei Monaten zuschlagfrei und bis zum Ablauf des sechsten Monats mit Zuschlag gezahlt werden (§ 7 Abs. 1 PatKostG)."
+      ],
+      "merke": "",
+      "level": 3,
+      "concepts": [
+       "pat_einheitlichkeit",
+       "pat_pruefungsantrag",
+       "pat_zahlungsfristen",
+       "pat_jahresgebuehren"
+      ],
+      "norms": [
+       "§ 44 Abs. 2 PatG",
+       "§ 6 Abs. 2 PatKostG",
+       "§ 7 Abs. 1 PatKostG"
+      ],
+      "cases": [
+       "pat_bpatg_pruefungsgebuehr_ausscheidung"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.5",
+      "distinctions": []
+     },
+     {
+      "id": "p02d-7",
+      "typ": "fall",
+      "titel": "Teilen nach dem Erteilungsbeschluss",
+      "sachverhalt": "Der Erteilungsbeschluss wird der Anmelderin am 4. Mai zugestellt. Am 20. Mai fällt ihr auf, dass ein zweiter Erfindungsaspekt nur in der Beschreibung steht. Sie erklärt die Teilung der Anmeldung.",
+      "frage": "Ist die Teilung noch möglich?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Der Anmelder kann die Anmeldung jederzeit teilen (§ 39 Abs. 1 PatG), und zwar nach den Prüfungsrichtlinien (2.3.3.5, unter Hinweis auf die Rechtsprechung des BGH) **bis zum Ablauf der Frist für die Beschwerde gegen den Erteilungsbeschluss**. Die Beschwerdefrist beträgt einen Monat ab Zustellung (§ 73 Abs. 2 PatG) und läuft hier bis zum 4. Juni.",
+       "Für die Teilanmeldung bleiben der Zeitrang der ursprünglichen Anmeldung und ihre Priorität erhalten; sie gilt als Anmeldung mit Prüfungsantrag, wenn die Teilung nach dem Prüfungsantrag erklärt wird. Die Anmelderin muss binnen drei Monaten nach Eingang der Teilungserklärung die Anmeldungsunterlagen einreichen und die Gebühren zahlen (§ 39 Abs. 2, 3 PatG)."
+      ],
+      "merke": "Die Teilung ist die letzte Chance für das, was nur in der Beschreibung steht: bis zum Ablauf der Beschwerdefrist.",
+      "level": 2,
+      "concepts": [
+       "pat_teilung"
+      ],
+      "norms": [
+       "§ 39 Abs. 1 PatG",
+       "§ 39 Abs. 3 PatG",
+       "§ 73 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.5",
+      "distinctions": []
+     },
+     {
+      "id": "p02d-8",
+      "typ": "fall",
+      "titel": "Der falsche Oberbegriff",
+      "sachverhalt": "Die Anmelderin bildet den Oberbegriff ihres zweiteiligen Anspruchs nach der Druckschrift D3. Der Prüfer hält D1 für den näheren Stand der Technik, verlangt eine Abgrenzung gegenüber D1 und droht andernfalls die Zurückweisung wegen formaler Mängel an.",
+      "frage": "Kann die Anmeldung deshalb zurückgewiesen werden?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine Anmeldung kann nicht deshalb als formal unzulässig zurückgewiesen werden, weil der Oberbegriff nicht nach dem Gegenstand gebildet ist, der nach Auffassung der Erteilungsbehörde dem Anmeldungsgegenstand „näher“ steht oder „besser“ geeignet erscheint (Prüfungsrichtlinien 2.3.3.6 unter Hinweis auf die Rechtsprechung des BGH). Der Anmelder darf die Ansprüche auch einteilig fassen (§ 9 Abs. 1 PatV).",
+       "Für die Prüfung macht die Fassung keinen Unterschied: Zu prüfen ist stets der **gesamte Anspruch** aus Oberbegriff und Kennzeichen, und bei der erfinderischen Tätigkeit ist von der Kombination aller Merkmale auszugehen. Wird die zweiteilige Fassung gewählt, soll der Oberbegriff allerdings nur von einer einzigen Druckschrift oder einem einzigen Gegenstand ausgehen."
+      ],
+      "merke": "Die Zweiteilung ist Darstellung, nicht Inhalt: Geprüft wird immer der ganze Anspruch.",
+      "level": 2,
+      "concepts": [
+       "pat_patentanspruch"
+      ],
+      "norms": [
+       "§ 9 PatV",
+       "§ 34 Abs. 3 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.6",
+      "distinctions": []
+     },
+     {
+      "id": "p02d-9",
+      "typ": "fall",
+      "titel": "Gurtstraffer zum Straffen",
+      "sachverhalt": "Anspruch 1 betrifft eine „Vorrichtung zum Straffen eines Sicherheitsgurts“ mit bestimmten Bauteilen. Eine ältere Druckschrift zeigt eine baugleiche Vorrichtung, die dort als Kabelaufroller beschrieben ist und sich zum Straffen eines Gurts eignen würde. Die Anmelderin meint, die Zweckangabe beschränke ihren Anspruch auf die Verwendung im Fahrzeug.",
+      "frage": "Beschränkt die Zweckangabe den Sachanspruch auf die genannte Verwendung?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine Zweck- oder Funktionsangabe im Sachanspruch bringt regelmäßig nur zum Ausdruck, dass die Vorrichtung für den Zweck **objektiv geeignet** sein muss; der Anspruch bleibt ein Sachanspruch und wird nicht auf die Verwendung beschränkt (BGH Gurtstraffer).",
+       "Bedeutungslos ist die Angabe trotzdem nicht: Sie definiert den Gegenstand dahin, dass er neben den räumlich-körperlichen Merkmalen so ausgebildet sein muss, dass er den Zweck erfüllen kann. Eignet sich der Kabelaufroller objektiv zum Gurtstraffen, ist er neuheitsschädlich (§ 3 Abs. 1 PatG). Will die Anmelderin die Verwendung schützen, braucht sie einen Verwendungsanspruch, der zur Kategorie der Verfahrensansprüche zählt."
+      ],
+      "merke": "„Zum“ heißt „geeignet zum“: Die Zweckangabe verlangt Eignung, nicht Verwendung.",
+      "level": 2,
+      "concepts": [
+       "pat_zweckangabe",
+       "pat_patentkategorie",
+       "pat_neuheit"
+      ],
+      "norms": [
+       "§ 14 PatG",
+       "§ 3 Abs. 1 PatG"
+      ],
+      "cases": [
+       "pat_bgh_gurtstraffer"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.6",
+      "distinctions": []
+     },
+     {
+      "id": "p02d-10",
+      "typ": "mc",
+      "titel": "Innere Priorität und das Schicksal der Voranmeldung",
+      "sachverhalt": "",
+      "frage": "Die Anmelderin meldet am 1. Februar ein Patent an und am 15. Dezember desselben Jahres eine verbesserte Fassung, für die sie die Priorität der ersten Anmeldung in Anspruch nimmt. Die erste Anmeldung ist noch anhängig. Was geschieht mit ihr?",
+      "optionen": [
+       "Sie läuft unverändert weiter; es entstehen zwei Patente",
+       "Sie gilt mit der Abgabe der Prioritätserklärung als zurückgenommen",
+       "Sie wird von Amts wegen mit der Nachanmeldung verbunden",
+       "Sie wird in ein Gebrauchsmuster umgewandelt"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Ist die frühere Anmeldung noch beim DPMA anhängig, **gilt sie mit der Abgabe der Prioritätserklärung als zurückgenommen** (§ 40 Abs. 5 S. 1 PatG). Das gilt nicht, wenn die frühere Anmeldung ein Gebrauchsmuster betrifft (§ 40 Abs. 5 S. 2 PatG). Die innere Priorität ersetzt also die alte Anmeldung durch die neue und verhindert den Doppelschutz.",
+       "Voraussetzungen: Nachanmeldung binnen zwölf Monaten nach dem Anmeldetag der früheren Anmeldung, für die nicht schon eine Priorität beansprucht wurde (§ 40 Abs. 1 PatG), und Prioritätserklärung mit Aktenzeichen binnen zwei Monaten nach dem Anmeldetag der Nachanmeldung (§ 40 Abs. 4 PatG). Wird die Priorität für eine PCT-Anmeldung mit Bestimmung Deutschlands beansprucht, tritt die Fiktion grundsätzlich erst später ein (Art. III § 4 Abs. 4 IntPatÜG)."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_prioritaet",
+       "pat_pct_nationale_phase"
+      ],
+      "norms": [
+       "§ 40 Abs. 1 PatG",
+       "§ 40 Abs. 4 PatG",
+       "§ 40 Abs. 5 PatG",
+       "Art. III § 4 IntPatÜG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.6",
+      "distinctions": [
+       "d_pat_fristen_pruefungsrichtlinien"
+      ]
+     },
+     {
+      "id": "p02d-11",
+      "typ": "fall",
+      "titel": "Zwei Prioritäten in einem Anspruch",
+      "sachverhalt": "Die Voranmeldung P1 offenbart die Merkmale A und B, die spätere Voranmeldung P2 zusätzlich das Merkmal C. Die Nachanmeldung beansprucht A+B+C in einem Anspruch und nimmt für A und B den Zeitrang von P1, für C den von P2 in Anspruch. Zwischen P1 und P2 ist ein Aufsatz erschienen, der A+B+C zeigt.",
+      "frage": "Kann der Anspruch für die Merkmale A und B den Zeitrang von P1 behalten?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine Nachanmeldung betrifft nur dann dieselbe Erfindung wie die Voranmeldung, wenn die **beanspruchte Merkmalskombination** dem Fachmann in der Voranmeldung in ihrer Gesamtheit als zur Erfindung gehörend offenbart ist. Einzelmerkmale mit unterschiedlicher Priorität können nicht in ein und demselben Anspruch kombiniert werden (BGH Luftverteiler).",
+       "Der Anspruch A+B+C hat einheitlich den Zeitrang von P2. Der Aufsatz liegt davor und ist Stand der Technik. Weil hier Material im Prioritätsintervall entscheidungserheblich ist, muss die Prüfungsstelle die materielle Berechtigung der Priorität prüfen; sonst unterbleibt das (Prüfungsrichtlinien 2.3.3.7.2). Eine Zwischenentscheidung darüber gibt es nicht, entschieden wird über die Anmeldung insgesamt."
+      ],
+      "merke": "Priorität hat die Kombination, nicht das einzelne Merkmal.",
+      "level": 3,
+      "concepts": [
+       "pat_prioritaet",
+       "pat_offenbarung"
+      ],
+      "norms": [
+       "§ 40 Abs. 3 PatG",
+       "§ 41 Abs. 1 PatG",
+       "§ 3 Abs. 1 PatG"
+      ],
+      "cases": [
+       "pat_bgh_luftverteiler"
+      ],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.6",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p02e",
+    "titel": "Bescheid, Frist, Anhörung, Beschluss, Abhilfe",
+    "einheiten": [
+     {
+      "id": "p02e-0",
+      "typ": "intro",
+      "titel": "Wie das Verfahren geführt wird",
+      "text": "**Bescheide** (§ 45 PatG) bereiten Erteilung oder Zurückweisung vor. Die Richtlinien verlangen: Fachmann am Anfang definieren, Auslegung und Annahmen mitteilen, Entgegenhaltungen im **Merkmalsvergleich mit Textstellen** erörtern, bei fehlender erfinderischer Tätigkeit die **Veranlassung** darlegen, zu allen Ansprüchen Stellung nehmen und **positive Anregungen** geben. Der erste Bescheid soll bei früh gestelltem Prüfungsantrag vier Monate vor Ablauf des Prioritätsjahres zugestellt sein; der zweite Sachbescheid soll der letzte sein.\n\n**Fristen:** ein Monat für Formmängel, vier Monate für Sachbescheide, bis zu zwölf Monate bei paralleler europäischer Anmeldung. Die erste Verlängerung gibt es auf kurze Begründung. **Anhörung:** auf Antrag zwingend (§ 46 Abs. 1 PatG), sonst nach Sachdienlichkeit; sie hat Vorrang vor weiteren Bescheiden und endet in der Regel mit einem verkündeten Beschluss.\n\n**Beschluss:** Erteilung (§ 49 PatG) oder Zurückweisung (§ 48 PatG), begründet, zugestellt, mit Rechtsmittelbelehrung (§ 47 PatG). **Beschwerde** binnen eines Monats beim DPMA (§ 73 Abs. 2 PatG); die Prüfungsstelle hilft ab, wenn sie die Beschwerde für begründet hält, sonst legt sie binnen eines Monats dem Bundespatentgericht vor (§ 73 Abs. 3 PatG).",
+      "concepts": [
+       "pat_pruefungsbescheid",
+       "pat_anhoerung",
+       "pat_beschluss_pruefungsstelle",
+       "pat_abhilfe"
+      ],
+      "norms": [
+       "§ 45 PatG",
+       "§ 46 PatG",
+       "§ 47 PatG",
+       "§ 48 PatG",
+       "§ 49 PatG",
+       "§ 73 PatG"
+      ],
+      "cases": [],
+      "distinctions": [
+       "d_pat_fristen_pruefungsrichtlinien"
+      ]
+     },
+     {
+      "id": "p02e-1",
+      "typ": "fall",
+      "titel": "„D1 nimmt alles vorweg“",
+      "sachverhalt": "Der erste Bescheid lautet im Kern: „Der Gegenstand des Anspruchs 1 ist aus D1 (48 Seiten) bekannt. Die Unteransprüche enthalten nichts Erfinderisches. Mit der Zurückweisung ist zu rechnen.“",
+      "frage": "Entspricht der Bescheid den Prüfungsrichtlinien?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Anmelder muss den Inhalt des Bescheids verstehen können. Druckschriften sind **nicht mit pauschalen Verweisen auf ihren Gesamtinhalt und bloßen Behauptungen** zu erörtern; unter Hinweis auf Textstellen und Abbildungen ist im Merkmalsvergleich darzulegen, weshalb der Stand der Technik entgegensteht (Prüfungsrichtlinien 2.4). Soll es an der erfinderischen Tätigkeit fehlen, ist die Veranlassung des Fachmanns darzulegen.",
+       "Rechtlich steht dahinter § 45 Abs. 2 PatG: Die Prüfungsstelle benachrichtigt den Anmelder **unter Angabe der Gründe**. Ein Bescheid ohne nachvollziehbare Gründe gewährt kein rechtliches Gehör; eine darauf gestützte Zurückweisung wäre angreifbar (§ 48 S. 2 PatG i.V.m. § 42 Abs. 3 S. 2 PatG). Der Anmelder sollte in der Erwiderung die konkreten Fundstellen verlangen und eine Anhörung beantragen."
+      ],
+      "merke": "Ein Bescheid ohne Fundstellen ist eine Behauptung, keine Begründung.",
+      "level": 1,
+      "concepts": [
+       "pat_pruefungsbescheid",
+       "pat_rechtliches_gehoer"
+      ],
+      "norms": [
+       "§ 45 Abs. 2 PatG",
+       "§ 48 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.4.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02e-2",
+      "typ": "fall",
+      "titel": "Der vergessene Nebenanspruch",
+      "sachverhalt": "Die Anmeldung enthält einen Vorrichtungsanspruch 1 und einen nebengeordneten Verfahrensanspruch 9 mit zusätzlichen Schritten. Der erste Bescheid befasst sich auf sechs Seiten mit Anspruch 1 und erwähnt Anspruch 9 nicht.",
+      "frage": "Genügt der erste Bescheid den Anforderungen der Richtlinien?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Im ersten Prüfungsbescheid ist eine Recherche und Stellungnahme zur Patentfähigkeit **aller beanspruchten Gegenstände** unbedingt erforderlich; zu nebengeordneten Ansprüchen ist eine ausführliche Stellungnahme unerlässlich (Prüfungsrichtlinien 2.4.1). Eine Kurzform unter Verweis auf Anspruch 1 genügt nur bei Merkmalsidentität; zu darüber hinausgehenden Merkmalen ist im Einzelnen Stellung zu nehmen.",
+       "Der Grund ist die Verfahrensökonomie: Der zweite Sachbescheid soll der letzte sein. Das gelingt nur, wenn der Anmelder nach dem ersten Bescheid weiß, welche Ansprüche gewährbar sind. Auch Unteransprüche mit Kategoriewechsel sind wie Nebenansprüche gesondert zu prüfen (Prüfungsrichtlinien 2.3.3.6)."
+      ],
+      "merke": "Der erste Bescheid deckt alle Ansprüche ab, sonst wird der zweite nicht der letzte.",
+      "level": 1,
+      "concepts": [
+       "pat_pruefungsbescheid",
+       "pat_patentanspruch"
+      ],
+      "norms": [
+       "§ 45 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.4.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02e-3",
+      "typ": "mc",
+      "titel": "Wie lang ist die Bescheidsfrist?",
+      "sachverhalt": "",
+      "frage": "Die Prüfungsstelle beanstandet in einem Sachbescheid fehlende erfinderische Tätigkeit. Welche Frist setzt sie nach den Prüfungsrichtlinien im Normalfall?",
+      "optionen": [
+       "Einen Monat",
+       "Zwei Monate",
+       "Vier Monate",
+       "Zwölf Monate"
+      ],
+      "richtig": 2,
+      "loesung": [
+       "Die Frist für die Erwiderung auf **Sachbescheide** ist im Normalfall auf **vier Monate** festzusetzen; zur Beseitigung von **Formmängeln** soll regelmäßig **ein Monat** ausreichen (Prüfungsrichtlinien 2.5). In der Offensichtlichkeitsprüfung kann die Viermonatsfrist auf zwei Monate abgekürzt werden (1.11). Bis zu zwölf Monate, auch wiederholt, sind möglich, wenn die Priorität der Anmeldung in einer anhängigen europäischen Anmeldung mit Benennung Deutschlands beansprucht wird.",
+       "Es handelt sich um amtsseitig gesetzte Fristen: Sie sind verlängerbar, die erste Verlängerung schon bei kurzer Begründung. Wird die Frist versäumt und die Anmeldung zurückgewiesen, hilft die Weiterbehandlung (§ 123a PatG). Gesetzliche Fristen bleiben davon unberührt."
+      ],
+      "merke": "",
+      "level": 1,
+      "concepts": [
+       "pat_pruefungsbescheid",
+       "pat_fristen",
+       "pat_weiterbehandlung"
+      ],
+      "norms": [
+       "§ 45 PatG",
+       "§ 123a PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.4.2",
+      "distinctions": [
+       "d_pat_fristen_pruefungsrichtlinien"
+      ]
+     },
+     {
+      "id": "p02e-4",
+      "typ": "fall",
+      "titel": "Der Antrag auf Anhörung",
+      "sachverhalt": "Nach dem zweiten Bescheid beantragt die Anmelderin schriftlich eine Anhörung. Der Prüfer hält die Sache für ausgeschrieben, lehnt die Anhörung als nicht sachdienlich ab und weist die Anmeldung zurück.",
+      "frage": "Musste die Prüfungsstelle die Anmelderin anhören?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Bis zum Beschluss über die Erteilung **ist der Anmelder auf Antrag zu hören** (§ 46 Abs. 1 S. 3 PatG); der Antrag ist schriftlich einzureichen. Auf die Sachdienlichkeit kommt es bei einem formgerechten Antrag nicht an; nur der nicht formgerechte Antrag wird zurückgewiesen. Nach den Richtlinien liegt ein Antrag in der Regel schon darin, dass der Anmelder eine Anhörung oder Vorführung vorschlägt (2.6.1).",
+       "Die Zurückweisung ohne die beantragte Anhörung verletzt das rechtliche Gehör und ist mit der Beschwerde angreifbar (§ 73 PatG); weil ein Amtsfehler die Beschwerde veranlasst hat, kommt die Rückzahlung der Beschwerdegebühr in Betracht. In der Praxis gehört der hilfsweise Antrag auf Anhörung deshalb in jede Erwiderung."
+      ],
+      "merke": "Wer die Anhörung beantragt, bekommt sie.",
+      "level": 1,
+      "concepts": [
+       "pat_anhoerung",
+       "pat_rechtliches_gehoer"
+      ],
+      "norms": [
+       "§ 46 Abs. 1 PatG",
+       "§ 73 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.4.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02e-5",
+      "typ": "fall",
+      "titel": "Rücksprache mit der Mandantin",
+      "sachverhalt": "Am Ende der Anhörung bietet der Prüfer die Erteilung mit einem eingeschränkten Anspruch an. Patentanwältin Dr. Berg bittet, die Beschlussfassung aufzuschieben, weil sie erst Rücksprache mit der Anmelderin halten müsse.",
+      "frage": "Muss die Prüfungsstelle die Beschlussfassung deshalb aufschieben?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Am Ende der Anhörung soll in der Regel ein Beschluss verkündet werden (§ 47 Abs. 1 S. 3 PatG). Die Angabe des Vertreters, eine Rücksprache mit dem Anmelder sei erforderlich, **genügt nicht** als Begründung für den Aufschub (Prüfungsrichtlinien 2.6.1).",
+       "Für die Vorbereitung bedeutet das: Der Vertreter braucht vor der Anhörung Rückfallpositionen und die Vollmacht, über sie zu entscheiden. Bleibt es bei den bisherigen Anträgen, wird über diese entschieden. An den verkündeten Beschluss ist das DPMA gebunden; Schriftsätze, die danach eingehen, werden außer bei Abhilfe nach Beschwerde nicht mehr berücksichtigt."
+      ],
+      "merke": "In die Anhörung geht man mit Hilfsanträgen und Entscheidungsvollmacht.",
+      "level": 2,
+      "concepts": [
+       "pat_anhoerung",
+       "pat_beschluss_pruefungsstelle"
+      ],
+      "norms": [
+       "§ 47 Abs. 1 PatG",
+       "§ 46 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.4.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02e-6",
+      "typ": "fall",
+      "titel": "Entscheidung nach Aktenlage mit neuer Druckschrift",
+      "sachverhalt": "Die Anmelderin beantragt Entscheidung nach Lage der Akten. Der Prüfer findet bei einer Nachrecherche die Druckschrift D5, die den Gegenstand klar vorwegnimmt, und weist die Anmeldung gestützt auf D5 zurück, ohne D5 vorher mitzuteilen.",
+      "frage": "Ist die Zurückweisung verfahrensfehlerfrei?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Zurückweisung darf nur auf Umstände gestützt werden, die dem Anmelder **vorher mitgeteilt** wurden, damit er sich innerhalb einer Frist äußern kann (§ 48 S. 2 PatG i.V.m. § 42 Abs. 3 S. 2 PatG). Das gilt nach den Richtlinien ausdrücklich auch dann, wenn der Anmelder Entscheidung nach Lage der Akten beantragt hat (2.8.2).",
+       "Der Antrag auf Entscheidung nach Aktenlage ist ein Verzicht auf weitere Äußerung zum bisherigen Verfahrensstoff, kein Verzicht auf rechtliches Gehör zu neuem Stoff. Der Prüfer muss D5 mit einem Bescheid einführen. Der Fehler führt auf die Beschwerde zur Aufhebung oder Abhilfe und regelmäßig zur Rückzahlung der Beschwerdegebühr."
+      ],
+      "merke": "Nach Aktenlage heißt: nach der Akte, die der Anmelder kennt.",
+      "level": 2,
+      "concepts": [
+       "pat_beschluss_pruefungsstelle",
+       "pat_rechtliches_gehoer"
+      ],
+      "norms": [
+       "§ 48 PatG",
+       "§ 42 Abs. 3 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.5.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02e-7",
+      "typ": "fall",
+      "titel": "Der irrtümlich erteilte Anspruch",
+      "sachverhalt": "Zwei Wochen nach Zustellung des Erteilungsbeschlusses bemerkt der Prüfer, dass er eine neuheitsschädliche Druckschrift übersehen hat. Er will den Erteilungsbeschluss von Amts wegen widerrufen und das Prüfungsverfahren fortsetzen.",
+      "frage": "Kann die Prüfungsstelle den Erteilungsbeschluss widerrufen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Der Erteilungsbeschluss kann **auch dann nicht widerrufen werden, wenn er rechtswidrig ist** (Prüfungsrichtlinien 2.8.1). Das DPMA ist an seine Beschlüsse gebunden, sobald sie verkündet oder zugestellt sind; inneramtlich tritt die Selbstbindung schon mit der Abgabe an den Dokumentenversand ein (2.8).",
+       "Die Korrektur ist Dritten überlassen: Einspruch binnen neun Monaten nach Veröffentlichung der Erteilung (§ 59 Abs. 1 PatG), danach Nichtigkeitsklage (§ 81 PatG). Der Patentinhaber selbst kann das Patent beschränken oder widerrufen lassen (§ 64 PatG). Die Prüfungsstelle kann den Beschluss nur im Wege der Abhilfe ändern, wenn der Anmelder Beschwerde einlegt."
+      ],
+      "merke": "Erteilt ist erteilt: Was der Prüfer übersieht, korrigieren Einspruch und Nichtigkeitsklage.",
+      "level": 2,
+      "concepts": [
+       "pat_beschluss_pruefungsstelle",
+       "pat_einspruch"
+      ],
+      "norms": [
+       "§ 49 PatG",
+       "§ 59 Abs. 1 PatG",
+       "§ 64 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.5.1",
+      "distinctions": []
+     },
+     {
+      "id": "p02e-8",
+      "typ": "fall",
+      "titel": "Die „Mitteilung“",
+      "sachverhalt": "Das DPMA teilt der Anmelderin in einem formlosen Schreiben mit der Überschrift „Mitteilung“ mit, ihre Prioritätserklärung sei verspätet, der Prioritätsanspruch bestehe nicht; die Akte werde ohne Priorität weitergeführt. Eine Rechtsmittelbelehrung fehlt.",
+      "frage": "Kann die Anmelderin gegen die Mitteilung Beschwerde einlegen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Beschluss im Sinne des § 73 Abs. 1 PatG ist jede Entscheidung des DPMA, die eine **abschließende Regelung mit Außenwirkung** enthält und Rechte der Beteiligten berühren kann. Auf die äußere Form und die Bezeichnung als „Verfügung“, „Bescheid“ oder „Mitteilung“ kommt es nicht an (Prüfungsrichtlinien 2.8, 2.9).",
+       "Weil die Rechtsmittelbelehrung fehlt, läuft die Monatsfrist nicht; die Beschwerde ist binnen eines Jahres seit Zustellung zulässig (§ 47 Abs. 2 S. 2, 3 PatG). Die Beschwerdegebühr beträgt 200 EUR (Nr. 401 300 der Anlage PatKostG) und ist innerhalb der Beschwerdefrist zu zahlen."
+      ],
+      "merke": "Beschluss ist, was abschließend regelt, egal was darüber steht.",
+      "level": 2,
+      "concepts": [
+       "pat_beschwerde",
+       "pat_beschluss_pruefungsstelle"
+      ],
+      "norms": [
+       "§ 73 Abs. 1 PatG",
+       "§ 47 Abs. 2 PatG",
+       "Anlage PatKostG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.6",
+      "distinctions": []
+     },
+     {
+      "id": "p02e-9",
+      "typ": "fall",
+      "titel": "Abhilfe nach nachgereichten Ansprüchen",
+      "sachverhalt": "Die Anmeldung wurde zurückgewiesen, weil die Anmelderin die vom Prüfer vorgeschlagene Einschränkung nicht aufgenommen hatte. Mit der fristgerechten Beschwerde zahlt sie die Gebühr und reicht einen Anspruchssatz ein, der die Einschränkung enthält.",
+      "frage": "Muss die Prüfungsstelle der Beschwerde abhelfen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Erachtet die Prüfungsstelle die Beschwerde für begründet, **hat** sie ihr abzuhelfen (§ 73 Abs. 3 S. 1 PatG). Die Abhilfe setzt voraus, dass die bisher aufgezeigten Zurückweisungsgründe nicht mehr bestehen, etwa weil die geforderten Änderungen vorgenommen wurden (Prüfungsrichtlinien 2.9). Die Beschwerde ist zulässig, ein Gegner ist nicht beteiligt (§ 73 Abs. 4 PatG).",
+       "Die Prüfungsstelle hebt den Zurückweisungsbeschluss auf und erteilt das Patent oder setzt die Prüfung fort. Eine Rückzahlung der Beschwerdegebühr ist hier nicht geboten: Die Beschwerde wurde nicht durch einen Amtsfehler veranlasst, sondern dadurch, dass die Anmelderin die Änderung erst jetzt vornimmt. Hilft die Prüfungsstelle nicht ab, legt sie binnen eines Monats ohne sachliche Stellungnahme dem Bundespatentgericht vor."
+      ],
+      "merke": "Abhilfe ist Pflicht, wenn der Zurückweisungsgrund entfallen ist; die Gebühr gibt es nur bei Amtsfehlern zurück.",
+      "level": 2,
+      "concepts": [
+       "pat_abhilfe",
+       "pat_beschwerde"
+      ],
+      "norms": [
+       "§ 73 Abs. 3 PatG",
+       "§ 73 Abs. 4 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.6",
+      "distinctions": []
+     },
+     {
+      "id": "p02e-10",
+      "typ": "mc",
+      "titel": "Die Beschwerdegebühr kommt zu spät",
+      "sachverhalt": "",
+      "frage": "Der Zurückweisungsbeschluss wird am 3. März mit Rechtsmittelbelehrung zugestellt. Die Beschwerde geht am 30. März ein, die Beschwerdegebühr am 10. April. Was gilt?",
+      "optionen": [
+       "Die Beschwerde ist wirksam; die Gebühr kann binnen drei Monaten gezahlt werden",
+       "Die Beschwerde gilt als nicht eingelegt",
+       "Die Beschwerde ist unbegründet",
+       "Die Prüfungsstelle kann trotzdem abhelfen, weil die Beschwerde selbst fristgerecht war"
+      ],
+      "richtig": 1,
+      "loesung": [
+       "Die Beschwerde ist binnen eines Monats nach Zustellung beim DPMA einzulegen (§ 73 Abs. 2 S. 1 PatG), hier bis zum 3. April. Ist für eine Handlung gesetzlich eine Frist bestimmt, ist **innerhalb dieser Frist auch die Gebühr** zu zahlen (§ 6 Abs. 1 S. 1 PatKostG). Wird sie nicht rechtzeitig gezahlt, gilt die Handlung als nicht vorgenommen (§ 6 Abs. 2 PatKostG): Die Beschwerde **gilt als nicht eingelegt**.",
+       "Abhilfe scheidet aus, denn abgeholfen werden darf nur einer zulässigen Beschwerde (Prüfungsrichtlinien 2.9). Es bleibt die Wiedereinsetzung in die versäumte Zahlungsfrist bei fehlendem Verschulden (§ 123 PatG). Die Dreimonatsfrist des § 6 Abs. 1 S. 2 PatKostG gilt nur für Gebühren ohne gesetzliche Handlungsfrist, etwa die Anmeldegebühr."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_beschwerde",
+       "pat_zahlungsfristen",
+       "pat_wiedereinsetzung"
+      ],
+      "norms": [
+       "§ 73 Abs. 2 PatG",
+       "§ 6 Abs. 1 PatKostG",
+       "§ 6 Abs. 2 PatKostG",
+       "§ 123 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.6",
+      "distinctions": [
+       "d_pat_zahlungsfristen_patkostg"
+      ]
+     },
+     {
+      "id": "p02e-11",
+      "typ": "fall",
+      "titel": "Der übersehene Schriftsatz",
+      "sachverhalt": "Die Anmelderin hatte fristgerecht auf den Bescheid erwidert und neue Ansprüche eingereicht. Der Schriftsatz wurde im Amt falsch zugeordnet; der Prüfer weist die Anmeldung zurück, weil keine Erwiderung eingegangen sei. Die Anmelderin legt Beschwerde ein.",
+      "frage": "Ist bei der Abhilfe die Rückzahlung der Beschwerdegebühr anzuordnen?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Wird der Beschwerde abgeholfen, kann die Prüfungsstelle anordnen, dass die Beschwerdegebühr zurückgezahlt wird (§ 73 Abs. 3 S. 2 PatG). Die Rückzahlung ist anzuordnen, wenn es nicht der Billigkeit entspricht, die Gebühr einzubehalten. Das ist der Fall, wenn der Beschwerdeführer durch einen **offensichtlichen Fehler des DPMA** veranlasst wurde, Beschwerde einzulegen, oder wenn die Beschwerde auf einer unzweckmäßigen Handhabung des Verfahrens beruht (Prüfungsrichtlinien 2.9).",
+       "Ohne den Zuordnungsfehler wäre die Beschwerde nicht nötig gewesen; zugleich liegt eine Verletzung des rechtlichen Gehörs vor. Die Anmelderin sollte die Rückzahlung in der Beschwerdeschrift ausdrücklich beantragen. Hilft die Prüfungsstelle nicht ab, entscheidet das Bundespatentgericht auch über die Rückzahlung (§ 80 Abs. 3 PatG)."
+      ],
+      "merke": "Amtsfehler als Ursache der Beschwerde: Abhilfe und Gebühr zurück.",
+      "level": 2,
+      "concepts": [
+       "pat_abhilfe",
+       "pat_rechtliches_gehoer",
+       "pat_kostenrechtsbehelfe"
+      ],
+      "norms": [
+       "§ 73 Abs. 3 PatG",
+       "§ 80 Abs. 3 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.6",
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p02f",
+    "titel": "Biotechnologie und Hinterlegung",
+    "einheiten": [
+     {
+      "id": "p02f-0",
+      "typ": "intro",
+      "titel": "Wenn Worte nicht reichen: die Hinterlegung",
+      "text": "Biotechnologische Erfindungen betreffen Erzeugnisse, die aus **biologischem Material** bestehen oder es enthalten, oder Verfahren, mit denen solches Material hergestellt, bearbeitet oder verwendet wird. Biologisches Material enthält genetische Information und kann sich selbst reproduzieren oder in einem biologischen System reproduziert werden (§ 2a Abs. 3 Nr. 1 PatG). Die maßgeblichen Vorschriften gehen auf die Biopatentrichtlinie 98/44/EG zurück, die zum 28.2.2005 umgesetzt wurde: § 1 Abs. 2 PatG, § 1a PatG, § 2 Abs. 2 PatG, § 2a PatG, §§ 9a bis 9c PatG und § 34a PatG.\n\nDas besondere Problem ist die **Ausführbarkeit** (§ 34 Abs. 4 PatG): Ein Mikroorganismus oder eine Zelllinie lässt sich oft nicht so beschreiben, dass der Fachmann ihn nacharbeiten kann. Dann ergänzt die **Hinterlegung** einer Probe bei einer anerkannten Hinterlegungsstelle die Offenbarung (§ 1 BioMatHintV; Ermächtigung in § 34 Abs. 8 PatG).\n\nDie Anforderungen in Kürze: Hinterlegung **spätestens am Anmelde- oder Prioritätstag**; Angabe der Hinterlegungsstelle und des Aktenzeichens; **Freigabeerklärung**, die bei einer Hinterlegung nach dem Budapester Vertrag entbehrlich ist; gestufter **Zugang** Dritter zu Proben mit Verpflichtungserklärung; **Aufbewahrung** mindestens fünf Jahre über die längste Schutzdauer hinaus. Fehlende Nachweise rügt die Prüfungsstelle in der Offensichtlichkeitsprüfung, wenn der Mangel offensichtlich ist, sonst im Prüfungsverfahren (Prüfungsrichtlinien 3.1.2.5).",
+      "concepts": [
+       "pat_biotech",
+       "pat_hinterlegung",
+       "pat_ausfuehrbarkeit"
+      ],
+      "norms": [
+       "§ 2a PatG",
+       "§ 34 Abs. 4 PatG",
+       "§ 34 Abs. 8 PatG",
+       "§ 1a PatG"
+      ],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "p02f-1",
+      "typ": "fall",
+      "titel": "Hinterlegung eine Woche später",
+      "sachverhalt": "Die Bioferm GmbH meldet am 12. Mai einen neuen Bakterienstamm zum Patent an, den sie nur durch seine Herkunft und seine Stoffwechselleistung beschreibt. Die Probe hinterlegt sie am 19. Mai bei einer anerkannten Hinterlegungsstelle.",
+      "frage": "Genügt die Hinterlegung den Anforderungen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Das biologische Material ist **spätestens am Anmeldetag oder, wenn eine Priorität beansprucht wird, am Prioritätstag** zu hinterlegen (§ 1 Abs. 1 BioMatHintV). Die Hinterlegung ist Teil der Offenbarung; was am Anmeldetag nicht offenbart ist, kann nicht nachgeholt werden.",
+       "Lässt sich der Stamm anhand der Beschreibung nicht nacharbeiten, fehlt die ausführbare Offenbarung (§ 34 Abs. 4 PatG), und die Anmeldung ist zurückzuweisen. Eine Nachanmeldung mit dem 19. Mai oder später als Anmeldetag ist möglich, solange der Stamm nicht der Öffentlichkeit zugänglich geworden ist. Nachholbar ist nur das **Aktenzeichen** der Hinterlegung (§ 3 Abs. 1 BioMatHintV), nicht die Hinterlegung selbst."
+      ],
+      "merke": "Die Probe ist Offenbarung: Sie muss am Anmelde- oder Prioritätstag hinterlegt sein.",
+      "level": 2,
+      "concepts": [
+       "pat_hinterlegung",
+       "pat_ausfuehrbarkeit"
+      ],
+      "norms": [
+       "§ 34 Abs. 4 PatG",
+       "§ 34 Abs. 8 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02f-2",
+      "typ": "mc",
+      "titel": "Das Aktenzeichen der Hinterlegung",
+      "sachverhalt": "",
+      "frage": "Die Anmeldung nennt die Hinterlegungsstelle und beschreibt den Stamm so, dass er der Hinterlegung eindeutig zugeordnet werden kann; das Aktenzeichen der Hinterlegung fehlt. Bis wann kann es nachgereicht werden?",
+      "optionen": [
+       "Gar nicht; es muss am Anmeldetag vorliegen",
+       "Binnen drei Monaten nach dem Anmeldetag",
+       "Binnen 16 Monaten nach dem Anmelde- oder Prioritätstag",
+       "Bis zum Erteilungsbeschluss"
+      ],
+      "richtig": 2,
+      "loesung": [
+       "Ist bereits aufgrund der Anmeldungsunterlagen eine eindeutige Zuordnung der Anmeldung zu dem hinterlegten Material möglich, kann das Aktenzeichen der Hinterlegung bei Patentanmeldungen **binnen 16 Monaten** nach dem Anmelde- oder Prioritätstag nachgereicht werden (§ 3 Abs. 1 BioMatHintV; Prüfungsrichtlinien 3.1.2.2).",
+       "Die Frist endet vor der Offenlegung nach 18 Monaten, damit die Öffentlichkeit das Material mit der Offenlegungsschrift auffinden kann. Grundsätzlich müssen die ursprünglichen Unterlagen die bekannten Merkmale des Materials, die Hinterlegungsstelle und das Aktenzeichen enthalten."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_hinterlegung",
+       "pat_fristen"
+      ],
+      "norms": [
+       "§ 34 Abs. 8 PatG",
+       "§ 31 Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02f-3",
+      "typ": "fall",
+      "titel": "Das Verfahren und sein Produkt",
+      "sachverhalt": "Beansprucht wird ein Verfahren zur Gewinnung eines abgeschwächten Virus durch eine Folge von Passagen in Zellkulturen. Das Verfahren führt nicht zuverlässig zum selben Ergebnis. Die Anmelderin hat das erhaltene Virus hinterlegt und meint, damit sei die Wiederholbarkeit ersetzt.",
+      "frage": "Ersetzt die Hinterlegung des Verfahrensprodukts den Nachweis der Wiederholbarkeit des Verfahrens?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Richtet sich die Anmeldung auf ein mikrobiologisches **Verfahren selbst**, ersetzt die Hinterlegung des Verfahrensprodukts nicht den Nachweis der Wiederholbarkeit dieses Verfahrens (Prüfungsrichtlinien 3.1.1 unter Hinweis auf BGH Tollwutvirus). Die Hinterlegung zeigt, dass es das Produkt gibt, nicht, dass der Fachmann das Verfahren mit Erfolg nacharbeiten kann.",
+       "Schutzfähig kann dagegen das **Erzeugnis** sein: Für das hinterlegte Virus und für Verfahren, die es als Ausgangsmaterial einsetzen, tritt die Hinterlegung an die Stelle der Beschreibung eines wiederholbaren Herstellungsverfahrens (§ 2a Abs. 2 Nr. 2 PatG). Die Wahl der Anspruchskategorie entscheidet also darüber, was die Hinterlegung leistet."
+      ],
+      "merke": "Die Hinterlegung offenbart das Material, nicht den Weg dorthin.",
+      "level": 3,
+      "concepts": [
+       "pat_hinterlegung",
+       "pat_ausfuehrbarkeit",
+       "pat_patentkategorie"
+      ],
+      "norms": [
+       "§ 34 Abs. 4 PatG",
+       "§ 2a Abs. 2 PatG"
+      ],
+      "cases": [],
+      "step": "step:pat_schema_pruefungsverfahren_dpma.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02f-4",
+      "typ": "fall",
+      "titel": "Die Probe für den Wettbewerber",
+      "sachverhalt": "Nach der Offenlegung beantragt die Konkurrentin Genexa beim DPMA eine Probe des hinterlegten Stamms. Die Anmelderin hatte vor Abschluss der technischen Vorbereitungen für die Offenlegung beantragt, Proben nur an einen unabhängigen Sachverständigen herauszugeben.",
+      "frage": "Erhält Genexa die Probe selbst?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Von der Offenlegung bis zur Erteilung wird das Material zwar jedermann auf Antrag durch Herausgabe einer Probe zugänglich gemacht. Der Hinterleger kann den Zugang aber dadurch beschränken, dass die Probe **nur an einen vom Antragsteller benannten unabhängigen Sachverständigen** herausgegeben wird (Expertenlösung, § 5 Abs. 1 BioMatHintV). Der Antrag war rechtzeitig, nämlich vor Abschluss der technischen Vorbereitungen für die Veröffentlichung des Offenlegungshinweises.",
+       "Der Sachverständige muss sich verpflichten, die Probe nicht weiterzugeben und nur zu Versuchszwecken zu verwenden (§ 6 BioMatHintV). Nach der Erteilung endet die Beschränkung: Dann erhält jedermann auf Antrag eine Probe, auch wenn das Patent später widerrufen oder für nichtig erklärt wird. Wird die Anmeldung zurückgewiesen oder zurückgenommen, bleibt es auf Antrag des Hinterlegers für 20 Jahre ab dem Anmeldetag bei der Expertenlösung."
+      ],
+      "merke": "Zwischen Offenlegung und Erteilung kann der Anmelder den Zugang auf einen unabhängigen Sachverständigen beschränken.",
+      "level": 3,
+      "concepts": [
+       "pat_hinterlegung",
+       "pat_akteneinsicht"
+      ],
+      "norms": [
+       "§ 34 Abs. 8 PatG",
+       "§ 32 Abs. 5 PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": []
+     },
+     {
+      "id": "p02f-5",
+      "typ": "fall",
+      "titel": "Budapester Vertrag",
+      "sachverhalt": "Die Anmelderin hat ihren Hefestamm bei einer internationalen Hinterlegungsstelle nach dem Budapester Vertrag hinterlegt. Der Prüfer fordert zusätzlich eine gesonderte Freigabeerklärung an.",
+      "frage": "Ist die gesonderte Freigabeerklärung erforderlich?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Bei einer Hinterlegung nach dem Budapester Vertrag über die internationale Anerkennung der Hinterlegung von Mikroorganismen bedarf es für die Herausgabe von Proben an Dritte **keiner gesonderten Freigabeerklärung** (Prüfungsrichtlinien 3.1.1, 3.1.2.4). Das ist der wesentliche Unterschied zur Hinterlegung bei einer sonstigen wissenschaftlich anerkannten Einrichtung.",
+       "Bei dieser zweiten Möglichkeit muss der Anmelder das Material ab dem Anmeldetag durch eine unwiderrufliche Freigabeerklärung vorbehaltlos zur Verfügung stellen (§ 4 Abs. 1 BioMatHintV); die Einrichtung muss rechtlich, wirtschaftlich und organisatorisch vom Anmelder und Hinterleger unabhängig sein (§ 2 BioMatHintV). Aufbewahrt wird nach dem Budapester Vertrag mindestens 30 Jahre ab Hinterlegung."
+      ],
+      "merke": "Budapester Vertrag: eine Hinterlegung, anerkannt in allen Vertragsstaaten, ohne Freigabeerklärung.",
+      "level": 1,
+      "concepts": [
+       "pat_hinterlegung"
+      ],
+      "norms": [
+       "§ 34 Abs. 8 PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": []
+     }
+    ]
+   },
+   {
+    "id": "p02g",
+    "titel": "Programmbezogene Erfindungen, KI, Akteneinsicht",
+    "einheiten": [
+     {
+      "id": "p02g-0",
+      "typ": "intro",
+      "titel": "Software vor der Prüfungsstelle: drei Stufen",
+      "text": "Programmbezogene (computerimplementierte) Erfindungen setzen zur Ausführung einen Computer, ein Netzwerk oder eine programmierbare Vorrichtung ein und haben mindestens ein Merkmal, das ganz oder teilweise mit einem Programm realisiert wird. Die Richtlinien fassen die Rechtsprechung des BGH zu einem **dreistufigen Ansatz** zusammen (Abschnitt 3.2.3):\n\n**Stufe 1, Technizität (§ 1 Abs. 1 PatG):** erfüllt, sobald das Verfahren die Nutzung einer Datenverarbeitungsanlage zumindest implizit lehrt; Vorrichtungen sind stets technisch. **Stufe 2, Ausschluss (§ 1 Abs. 3, 4 PatG):** Enthält die Lehre Anweisungen, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen? Ein technischer Teilaspekt genügt. **Stufe 3, Neuheit und erfinderische Tätigkeit (§§ 3, 4 PatG):** Es zählen nur die Anweisungen, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder zumindest beeinflussen.\n\nDie ersten beiden Stufen sind eine **Grobsichtung** ohne Stand der Technik; entschieden wird meist auf Stufe 3. Für **KI-bezogene Erfindungen** fehlt etablierte Rechtsprechung; das DPMA überträgt den dreistufigen Ansatz (Abschnitt 3.3). Am Ende des Kapitels steht Abschnitt 4 der Richtlinien: die Akteneinsicht.",
+      "concepts": [
+       "pat_dreistufige_pruefung",
+       "pat_programme",
+       "pat_technizitaet",
+       "pat_ki_erfindung"
+      ],
+      "norms": [
+       "§ 1 Abs. 1 PatG",
+       "§ 1 Abs. 3 PatG",
+       "§ 1 Abs. 4 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_wiedergabe_topografischer_informationen",
+       "pat_bgh_webseitenanzeige"
+      ],
+      "distinctions": []
+     },
+     {
+      "id": "p02g-1",
+      "typ": "schema",
+      "titel": "Prüfungsschema: programmbezogene Erfindung",
+      "schema": "pat_schema_programmbezogene_erfindung",
+      "text": "Drei Stufen, vorweg die Auslegung mit der Bestimmung des technischen Problems.",
+      "concepts": [],
+      "norms": [],
+      "cases": [],
+      "distinctions": []
+     },
+     {
+      "id": "p02g-2",
+      "typ": "fall",
+      "titel": "Kein Gerät im Anspruch",
+      "sachverhalt": "Beansprucht wird ein „Verfahren zur Synchronisation von Datensätzen zwischen einem Server und mehreren Clients“ mit fünf Schritten. Ein Rechner, Speicher oder Netzwerk ist im Anspruch nicht genannt. Der Prüfer verneint die Technizität, weil der Anspruch keine Hardware nenne.",
+      "frage": "Ist das Technizitätserfordernis des § 1 Abs. 1 PatG erfüllt?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein Verfahren, das die Abarbeitung von Schritten mit Hilfe elektronischer Datenverarbeitung zum Gegenstand hat, ist technisch, wenn es die Nutzung von Komponenten einer Datenverarbeitungsanlage **zumindest implizit** lehrt; die Komponenten müssen im Anspruch nicht spezifiziert sein (Prüfungsrichtlinien 3.2.3.1). Ein Verfahren, das das unmittelbare Zusammenwirken der Elemente eines Datenverarbeitungssystems betrifft, ist stets technisch (BGH Dynamische Dokumentengenerierung).",
+       "Damit ist nur die erste Stufe genommen. Auf der zweiten ist zu fragen, ob die Synchronisation ein konkretes technisches Problem mit technischen Mitteln löst, auf der dritten, ob diese Lösung neu und erfinderisch ist."
+      ],
+      "merke": "Stufe 1 ist fast immer erfüllt: Wer Daten mit einem Gerät verarbeitet, handelt technisch.",
+      "level": 1,
+      "concepts": [
+       "pat_technizitaet",
+       "pat_dreistufige_pruefung"
+      ],
+      "norms": [
+       "§ 1 Abs. 1 PatG"
+      ],
+      "cases": [
+       "pat_bgh_dynamische_dokumentengenerierung",
+       "pat_bgh_steuerungseinrichtung"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-3",
+      "typ": "fall",
+      "titel": "Die Vorrichtung zur Textanalyse",
+      "sachverhalt": "Beansprucht wird eine „Datenverarbeitungsanlage, eingerichtet zur Analyse natürlichsprachlicher Texte“ mit näher beschriebenen Programmmodulen. Der Prüfer meint, Textbearbeitung sei eine gedankliche Tätigkeit; der Anspruch sei nach § 1 Abs. 3 Nr. 3 PatG ausgeschlossen.",
+      "frage": "Greift der Ausschluss für die Vorrichtung?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Einer Datenverarbeitungsanlage, die in bestimmter Weise programmtechnisch eingerichtet ist, kommt schon aufgrund ihrer gegenständlichen Ausbildung technischer Charakter zu, auch wenn sie der Textbearbeitung dient; auf einen weiteren technischen Effekt kommt es nicht an (BGH Sprachanalyseeinrichtung). Der Ausschluss nach § 1 Abs. 3 PatG kommt im Allgemeinen **nur für Verfahren, nicht für Vorrichtungen** in Betracht (Prüfungsrichtlinien 3.2.2, 3.2.3.2).",
+       "Gewonnen ist damit wenig: Auf der dritten Stufe bleiben die Anweisungen außer Betracht, die nicht zur Lösung eines technischen Problems mit technischen Mitteln beitragen. Erschöpft sich die Lehre in der sprachlichen Analyse auf einem üblichen Rechner, fehlt es an der erfinderischen Tätigkeit (§ 4 PatG). Die vorrichtungsmäßige Einkleidung verschiebt die Prüfung, sie erspart sie nicht."
+      ],
+      "merke": "Die Vorrichtung kommt immer durch die Tür; ob sie bleibt, entscheidet § 4 PatG.",
+      "level": 2,
+      "concepts": [
+       "pat_technizitaet",
+       "pat_programme",
+       "pat_dreistufige_pruefung"
+      ],
+      "norms": [
+       "§ 1 Abs. 1 PatG",
+       "§ 1 Abs. 3 Nr. 3 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_sprachanalyseeinrichtung"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-4",
+      "typ": "fall",
+      "titel": "Lohnt sich das zweite Gerät?",
+      "sachverhalt": "Ein Verfahren erfasst automatisch die Betriebsdaten eines Computertomografen, überträgt sie an eine zentrale Datenbank und errechnet aus Vergütungsdaten und kalkulatorischen Kosten, ob sich die Anschaffung eines zweiten Geräts rentiert.",
+      "frage": "Ist das Verfahren dem Patentschutz zugänglich?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Das Verfahren ist als solches nicht dem Patentschutz zugänglich (BGH Rentabilitätsermittlung). Es bedient sich zwar technischer Geräte, löst aber kein konkretes technisches Problem: Ergebnis ist eine betriebswirtschaftliche Aussage. Ein Verfahren ist nicht schon deshalb patentierbar, weil es sich der elektronischen Datenverarbeitung bedient (§ 1 Abs. 3 Nr. 3, Abs. 4 PatG).",
+       "Der Gegenfall aus derselben Geräteklasse: Wählt das Verfahren anhand von Symptom- und Diagnosedaten Untersuchungsmodalitäten aus und **steuert es deren Einsatz**, etwa die Bildauflösung, löst es ein technisches Problem (BGH Steuerungseinrichtung für Untersuchungsmodalitäten). Entscheidend ist, ob die Datenverarbeitung auf die Technik zurückwirkt oder nur über sie Buch führt."
+      ],
+      "merke": "Daten aus der Technik für die Buchhaltung: ausgeschlossen. Daten, die die Technik steuern: zugänglich.",
+      "level": 2,
+      "concepts": [
+       "pat_programme",
+       "pat_dreistufige_pruefung"
+      ],
+      "norms": [
+       "§ 1 Abs. 3 Nr. 3 PatG",
+       "§ 1 Abs. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_rentabilitaetsermittlung",
+       "pat_bgh_steuerungseinrichtung",
+       "pat_bgh_anbieten_interaktiver_hilfe"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.3.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-5",
+      "typ": "fall",
+      "titel": "Mathematik im Cockpit",
+      "sachverhalt": "Ein Verfahren berechnet aus den Messwerten mehrerer Sensoren mit einem statistischen Schätzverfahren den Anstellwinkel eines Flugzeugs genauer, als es die Sensoren einzeln könnten. Der Prüfer hält das für eine mathematische Methode als solche.",
+      "frage": "Ist die Lehre als mathematische Methode vom Patentschutz ausgeschlossen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Eine mathematische Methode kann nur dann als nichttechnisch angesehen werden, wenn sie im Zusammenhang mit der beanspruchten Lehre **keinen Bezug zur gezielten Anwendung von Naturkräften** aufweist. Der Bezug besteht, wenn die Methode dazu dient, aus Messwerten zuverlässigere Erkenntnisse über den Zustand eines Flugzeugs zu gewinnen und damit die Funktionsweise des Systems zu beeinflussen, das diesen Zustand ermittelt (BGH Flugzeugzustand).",
+       "Für die zweite Stufe gilt bei mathematischen Methoden (§ 1 Abs. 3 Nr. 1 PatG) derselbe Maßstab wie bei Programmen. Auf der dritten Stufe zählt das Schätzverfahren dann mit, weil es die technische Lösung bestimmt. Einen Vorteil gegenüber dem Stand der Technik muss der Gegenstand nicht bieten, wenn er neu und erfinderisch ist. Für KI-Modelle, die Messwerte auswerten, ist das die wichtigste Entscheidung."
+      ],
+      "merke": "Mathematik wird technisch, wenn sie Messwerte verarbeitet und das System beeinflusst.",
+      "level": 3,
+      "concepts": [
+       "pat_dreistufige_pruefung",
+       "pat_technizitaet",
+       "pat_ki_erfindung"
+      ],
+      "norms": [
+       "§ 1 Abs. 3 Nr. 1 PatG",
+       "§ 1 Abs. 4 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_flugzeugzustand"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-6",
+      "typ": "fall",
+      "titel": "Bilder aus der Kapsel",
+      "sachverhalt": "Eine Kapselkamera liefert zwei Bildströme aus dem Darm. Die Anmeldung lehrt, beide Ströme so nebeneinander auf dem Monitor zu zeigen, dass das Auge des Arztes die Bilder in der verfügbaren Zeit noch erfassen kann. Der Prüfer sieht darin bloße Wiedergabe von Informationen (§ 1 Abs. 3 Nr. 4 PatG).",
+      "frage": "Dienen die Anweisungen der Lösung eines technischen Problems mit technischen Mitteln?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Anweisungen zur Informationswiedergabe dienen der Lösung eines technischen Problems, wenn nicht die Vermittlung bestimmter Inhalte im Blickpunkt steht, sondern eine Präsentation, die auf die **physischen Gegebenheiten der menschlichen Wahrnehmung** Rücksicht nimmt und darauf gerichtet ist, die Wahrnehmung erst zu ermöglichen, zu verbessern oder zweckmäßig zu gestalten (BGH Bildstrom).",
+       "Die Abgrenzung: **Was** gezeigt wird, ist Inhalt und bleibt außer Betracht; **wie** es gezeigt wird, damit der Mensch es überhaupt aufnehmen kann, ist Technik. Anweisungen, die auf die menschliche Vorstellung oder Verstandesfähigkeit einwirken sollen, bleiben dagegen bei der erfinderischen Tätigkeit unberücksichtigt (Prüfungsrichtlinien 3.2.3.3)."
+      ],
+      "merke": "Inhalt ist nichttechnisch, wahrnehmungsgerechte Darstellung ist technisch.",
+      "level": 3,
+      "concepts": [
+       "pat_dreistufige_pruefung",
+       "pat_programme"
+      ],
+      "norms": [
+       "§ 1 Abs. 3 Nr. 4 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_bildstrom"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.3.2",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-7",
+      "typ": "fall",
+      "titel": "Weniger Rechenschritte",
+      "sachverhalt": "Ein Routenplaner wählt aus der Kartendatenbank vorab nur die Straßen aus, die für die Route in Betracht kommen. Das spart Rechenschritte. Im Übrigen läuft das Verfahren auf üblicher Hardware mit bekannten Algorithmen. Die Anmelderin stützt die erfinderische Tätigkeit auf die Auswahlregel.",
+      "frage": "Ist die Auswahlregel bei der erfinderischen Tätigkeit zu berücksichtigen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Anweisungen zur Auswahl von Daten, deren technischer Aspekt sich darauf beschränkt, hierzu Mittel der elektronischen Datenverarbeitung einzusetzen, können bei der Beurteilung der erfinderischen Tätigkeit nicht berücksichtigt werden; das gilt **auch dann, wenn sie die Zahl der erforderlichen Rechenschritte verringern** (BGH Routenplanung).",
+       "Die Ersparnis ist Folge der inhaltlichen Auswahl, nicht einer Rücksichtnahme auf die technischen Gegebenheiten der Anlage. Anders wäre es, wenn das Programm gerade so ausgestaltet wäre, dass es auf die Arbeitsweise der Hardware Rücksicht nimmt, etwa auf begrenzten Speicher eines bestimmten Geräts; das ist eine der drei Fallgruppen technischer Mittel (Prüfungsrichtlinien 3.2.3.2). Übrig bleibt hier übliche Datenverarbeitung, die nicht auf erfinderischer Tätigkeit beruht (§ 4 PatG)."
+      ],
+      "merke": "Schneller rechnen, weil man weniger Daten wählt, ist keine technische Lösung.",
+      "level": 3,
+      "concepts": [
+       "pat_dreistufige_pruefung",
+       "pat_erfinderische_taetigkeit"
+      ],
+      "norms": [
+       "§ 4 PatG",
+       "§ 1 Abs. 3 Nr. 3 PatG"
+      ],
+      "cases": [
+       "pat_bgh_routenplanung",
+       "pat_bgh_wiedergabe_topografischer_informationen"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.4",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-8",
+      "typ": "fall",
+      "titel": "„Biegen Sie in die Goethestraße ein“",
+      "sachverhalt": "Ein Navigationssystem unterscheidet sich vom Stand der Technik nur dadurch, dass die Sprachausgabe an unübersichtlichen Kreuzungen zusätzlich den Straßennamen nennt. Die Anmelderin meint, das erhöhe die Verkehrssicherheit und sei deshalb technisch.",
+      "frage": "Trägt das Unterscheidungsmerkmal die erfinderische Tätigkeit?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Anweisung, bei der Sprachausgabe unter bestimmten Bedingungen bestimmte Detailinformationen wie Straßennamen zu berücksichtigen, betrifft den **Inhalt der wiedergegebenen Information** und ist bei der Prüfung auf erfinderische Tätigkeit nicht zu berücksichtigen (BGH Fahrzeugnavigationssystem).",
+       "Dass der Inhalt nützlich ist, macht ihn nicht technisch. Ebenso bleibt die Wahl einer für die Navigation zweckmäßigen Kartendarstellung als nichttechnische Vorgabe außer Betracht (BGH Wiedergabe topografischer Informationen). Nichttechnische Merkmale im Anspruch stehen der Patentierung zwar nicht entgegen, aber wenn sie das einzige Unterscheidungsmerkmal sind, fehlt es an der erfinderischen Tätigkeit."
+      ],
+      "merke": "Was das Gerät sagt, ist Inhalt; nur wie es technisch dazu kommt, zählt.",
+      "level": 2,
+      "concepts": [
+       "pat_dreistufige_pruefung",
+       "pat_programme",
+       "pat_erfinderische_taetigkeit"
+      ],
+      "norms": [
+       "§ 4 PatG",
+       "§ 1 Abs. 3 Nr. 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_fahrzeugnavigationssystem",
+       "pat_bgh_wiedergabe_topografischer_informationen"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.4",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-9",
+      "typ": "fall",
+      "titel": "Zurückweisung ohne Recherche",
+      "sachverhalt": "Der Prüfer hält ein Verfahren zur Preisermittlung in einem Online-Shop für eine Geschäftsmethode als solche. Er recherchiert nicht und kündigt im ersten Bescheid die Zurückweisung allein nach § 1 Abs. 3 Nr. 3 PatG an.",
+      "frage": "Entspricht dieses Vorgehen den Prüfungsrichtlinien?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die ersten beiden Stufen dienen nur einer Grobsichtung zur Ausfilterung der Fälle, in denen ein Anspruch überhaupt keine technische Anweisung enthält. Auch wenn ein Ausschlusstatbestand vorzuliegen scheint, **soll die Prüfung nicht mit der zweiten Stufe enden**; vielmehr soll regelmäßig nach treffendem Stand der Technik recherchiert und eine Beurteilung der Merkmale im Licht der Druckschriften vorgenommen werden (Prüfungsrichtlinien 3.2.3).",
+       "Der Grund ist praktisch: Der Anmelder kann den Anspruch um technische Merkmale ergänzen, und das Beschwerdegericht kann die zweite Stufe anders beurteilen. Dann soll die Akte die Prüfung auf Neuheit und erfinderische Tätigkeit schon enthalten. Eine bestimmte Prüfungsreihenfolge schreibt das Gesetz ohnehin nicht vor; die Prüfungsstelle darf den Ausschluss offenlassen und auf § 4 PatG abstellen."
+      ],
+      "merke": "Auch bei Software: recherchieren und zu §§ 3, 4 PatG Stellung nehmen.",
+      "level": 2,
+      "concepts": [
+       "pat_dreistufige_pruefung",
+       "pat_pruefungsbescheid",
+       "pat_recherche_pruefung"
+      ],
+      "norms": [
+       "§ 1 Abs. 3 Nr. 3 PatG",
+       "§ 45 Abs. 2 PatG"
+      ],
+      "cases": [
+       "pat_bgh_wiedergabe_topografischer_informationen"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.3.3",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-10",
+      "typ": "mc",
+      "titel": "Künstliche Intelligenz vor dem DPMA",
+      "sachverhalt": "",
+      "frage": "Wie prüft das DPMA nach den Prüfungsrichtlinien eine Anmeldung, die ein Verfahren zum Trainieren eines neuronalen Netzes für die Fehlererkennung an Schweißnähten betrifft?",
+      "optionen": [
+       "Gar nicht; KI-Erfindungen sind als mathematische Methoden stets ausgeschlossen",
+       "Nach einem eigenen, vom BGH entwickelten KI-Prüfungsschema",
+       "Regelmäßig wie programmbezogene Erfindungen nach dem dreistufigen Ansatz",
+       "Nur auf gewerbliche Anwendbarkeit, weil Neuheit bei KI nicht feststellbar ist"
+      ],
+      "richtig": 2,
+      "loesung": [
+       "Für KI-bezogene Erfindungen gibt es nach den Richtlinien **bislang keine etablierte Rechtsprechung**. Wegen ihrer Nähe zu programmbezogenen Erfindungen wird deren Prüfung einschließlich des **dreistufigen Ansatzes** regelmäßig übertragen (Prüfungsrichtlinien 3.3). Erfasst sind Grundlagenerfindungen (Hardware-Architekturen, Algorithmen, Modelle, Lernverfahren) und Anwendungserfindungen.",
+       "Für das Beispiel: Technizität liegt vor. Auf der zweiten Stufe spricht die Auswertung von Messdaten einer Schweißnaht für ein konkretes technisches Problem (vergleiche BGH Flugzeugzustand). Auf der dritten Stufe zählen die Merkmale des Trainings, soweit sie die technische Lösung bestimmen oder beeinflussen. Ein Lernverfahren ohne jeden Bezug zu einer technischen Anwendung hat es schwerer."
+      ],
+      "merke": "",
+      "level": 2,
+      "concepts": [
+       "pat_ki_erfindung",
+       "pat_dreistufige_pruefung"
+      ],
+      "norms": [
+       "§ 1 Abs. 3 PatG",
+       "§ 1 Abs. 4 PatG",
+       "§ 4 PatG"
+      ],
+      "cases": [
+       "pat_bgh_flugzeugzustand"
+      ],
+      "step": "step:pat_schema_programmbezogene_erfindung.5",
+      "distinctions": []
+     },
+     {
+      "id": "p02g-11",
+      "typ": "fall",
+      "titel": "Akteneinsicht vor der Offenlegung",
+      "sachverhalt": "Die Anmeldung der Helix AG ist neun Monate alt und noch nicht offengelegt; Helix hat sich mit der Akteneinsicht nicht einverstanden erklärt. Ein Wettbewerber will die Akte über DPMAregister im Internet einsehen.",
+      "frage": "Ist die elektronische Akteneinsicht möglich?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Die Akteneinsicht über das Internet kann nur gewährt werden, **soweit die Einsicht in die Akten jedermann freisteht** (§ 31 Abs. 3a PatG). In die Akten einer Patentanmeldung steht sie jedermann erst frei, wenn der Anmelder einverstanden ist und den Erfinder benannt hat oder wenn 18 Monate seit dem Anmelde- oder Prioritätstag verstrichen sind und der Offenlegungshinweis veröffentlicht ist (§ 31 Abs. 2 PatG). Die elektronische Akteneinsicht wird deshalb nur für veröffentlichte Anmeldungen angeboten (Prüfungsrichtlinien Abschnitt 4).",
+       "Vor der Offenlegung bleibt nur der Antrag nach § 31 Abs. 1 S. 1 PatG mit glaubhaft gemachtem berechtigtem Interesse, etwa nach einer Berechtigungsanfrage aus der Anmeldung. Auch nach der Offenlegung ist die Einsicht ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht, das Datenschutzinteresse offensichtlich überwiegt oder Inhalte offensichtlich gegen die öffentliche Ordnung oder die guten Sitten verstoßen (§ 31 Abs. 3b PatG)."
+      ],
+      "merke": "Online einsehbar ist nur, was jedermann einsehen darf: die offengelegte Anmeldung und das Patent.",
+      "level": 1,
+      "concepts": [
+       "pat_akteneinsicht"
+      ],
+      "norms": [
+       "§ 31 Abs. 1 PatG",
+       "§ 31 Abs. 2 PatG",
+       "§ 31 Abs. 3a PatG",
+       "§ 31 Abs. 3b PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": []
+     },
+     {
+      "id": "p02g-12",
+      "typ": "fall",
+      "titel": "Der fehlende Fachaufsatz",
+      "sachverhalt": "In der elektronischen Akte einer offengelegten Anmeldung ist die im Bescheid als D4 zitierte Veröffentlichung aus einer Fachzeitschrift nicht abrufbar. Die Einsprechende in spe möchte wissen, was in D4 steht.",
+      "frage": "Kann sie Einsicht in D4 erhalten?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Nichtpatentliteratur wird in der elektronischen Akteneinsicht aus urheberrechtlichen Gründen nicht angezeigt. In sie kann aber Einsicht genommen werden, wenn das **ausdrücklich in einem schriftlichen Antrag auf Akteneinsicht** beim DPMA beantragt wird (Prüfungsrichtlinien Abschnitt 4).",
+       "Neben der Einsicht über das Internet bestehen auf Antrag die Übersendung von Kopien aus der Akte und die Einsicht in einem Recherchesaal des DPMA fort. Für die Vorbereitung eines Einspruchs gehört der Antrag auf Einsicht in die Nichtpatentliteratur an den Anfang, denn die Einspruchsfrist von neun Monaten (§ 59 Abs. 1 PatG) wartet nicht."
+      ],
+      "merke": "Patentliteratur steht online, Fachaufsätze gibt es nur auf schriftlichen Antrag.",
+      "level": 1,
+      "concepts": [
+       "pat_akteneinsicht"
+      ],
+      "norms": [
+       "§ 31 Abs. 1 PatG",
+       "§ 59 Abs. 1 PatG"
+      ],
+      "cases": [],
+      "step": null,
+      "distinctions": []
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "p01",
   "gebiet": "patent",
   "reihe": "Verfahren und Klausur",

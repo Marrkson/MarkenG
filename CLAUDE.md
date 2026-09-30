@@ -27,6 +27,8 @@
   den Tabellen BpatgDecision/BghDecision/DeCourtNorm der RheinIP-Datenbank), beides aus `tools/fetch_patent.py` (PLAYBOOK Abschnitt 12).
   Zitierform `§ 3 Abs. 1 PatG`, `§ 9 PatV`, `Art. II § 6 Abs. 1 Nr. 3 IntPatÜG`, `§ 6 PatKostG`, `Anlage PatKostG`. Leitentscheidungen in
   `patent/cases.py` werden beim Import gegen den Korpus geprüft (Aktenzeichen + Datum); unbekannte Entscheidungen brechen den Build ab.
+  Prüfungsrichtlinien des DPMA: `data/dpma_pruefungsrichtlinien.json` (`tools/fetch_pruefungsrichtlinien.py`, PDF P 2796), als
+  `source`-Knoten in `patent/richtlinien.py` (`quellen=["prl:2.4.1"]`), Kurs `kurse/p02_pruefungsrichtlinien.py`.
 - Viertes Wissenspaket Designrecht (`src/knowledge/design/`): Normtexte `data/designg.json`, `designv.json` (XML von gesetze-im-internet.de),
   `designrl.json` (Richtlinie 98/71/EG, Cellar-PDF), `designrl2024.json` (Richtlinie (EU) 2024/2823, Cellar-XHTML), `ggv.json` (VO (EG) Nr. 6/2002
   über Unionsgeschmacksmuster, konsolidiert 1.7.2026, Cellar-XHTML) und Korpus `data/design_decisions.json` (BPatG-Designsachen, BGH I. ZS aus der

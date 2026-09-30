@@ -1,0 +1,1088 @@
+{
+ "meta": {
+  "titel": "Richtlinien für die Prüfung von Patentanmeldungen (Prüfungsrichtlinien)",
+  "herausgeber": "Deutsches Patent- und Markenamt",
+  "stand": "2. März 2026",
+  "formular": "P 2796/3.26 (2)",
+  "quelle": "https://www.dpma.de/docs/formulare/patent/p2796.pdf",
+  "abgerufen": "2026-09-28",
+  "seiten": 34,
+  "abschnitte": 80,
+  "fussnoten": 101,
+  "fussnoten_zugeordnet": 101,
+  "hinweis": "Amtlicher Wortlaut aus dem PDF (zweispaltig, je Spalte extrahiert); Fußnotenzeichen stehen als [n] im Text. Verwaltungsvorschrift ohne Gesetzeskraft: bindet die Prüfungsstellen, nicht die Gerichte."
+ },
+ "abschnitte": [
+  {
+   "nr": "",
+   "titel": "Vorbemerkung",
+   "ebene": 1,
+   "seite": 5,
+   "text": "Diese Richtlinien treten ab 2. März 2026 an die Stelle der Richtlinien für die Prüfung von Patentanmeldungen vom 6. Mai 2025. Die Richtlinien enthalten die Grundsätze, die im Prüfungsverfahren vor dem Deutschen Patent- und Markenamt (DPMA) gelten. Sie sollen eine einheitliche und zügige Behandlung der Verfahrensschritte Offensichtlichkeitsprüfung, Recherche, Bescheidserstellung, Erteilung und Zurückweisung der Anmeldung durch die Prüfungsstellen des DPMA ermöglichen. Verfügungen, die den Richtlinien entgegenstehen, werden hiermit aufgehoben. Die Veröffentlichung der Richtlinien dient dazu, die Verfahrensbeteiligten und die Öffentlichkeit zu informieren. Die Verfahrensbeteiligten sollen im Rahmen ihrer Mitwirkungspflichten die Richtlinien berücksichtigen und so die einheitliche und straffe Durchführung des Prüfungsverfahrens unterstützen. Die verfahrensförderliche Mitwirkung kann wesentlich zu einer schnelleren Verfahrensdurchführung beitragen. Dazu zählen insbesondere die fristgerechte Reaktion auf Bescheide, die zügige Einreichung von Schriftsätzen und die sehr gut vorbereitete Wahrnehmung von Anhörungsterminen. Besonderheiten des Einzelfalls und die jeweils aktuelle Rechtsprechung sind stets zu berücksichtigen. Im Einzelfall kann es aufgrund von Besonderheiten geboten sein, von allgemeinen Leitlinien abzuweichen. Aus Gründen der besseren Lesbarkeit wird in diesen Richtlinien auf eine geschlechtsneutrale Differenzierung (zum Beispiel Patentinhaber/Patentinhaberin) verzichtet. Die verwendeten personenbezogenen Bezeichnungen im Maskulinum beziehen sich in gleicher Weise auf Personen aller Geschlechter. München, im Februar 2026",
+   "fussnoten": []
+  },
+  {
+   "nr": "",
+   "titel": "Rechtsgrundlagen",
+   "ebene": 1,
+   "seite": 5,
+   "text": "Den rechtlichen Rahmen des Prüfungsverfahrens bilden im Wesentlichen:\n- das Patentgesetz (PatG)\n- die Verordnung zum Verfahren in Patentsachen vor dem Deutschen Patent- und Markenamt (PatV)\n- die Verordnung über das Deutsche Patent- und Markenamt (DPMA-Verordnung – DPMAV)\n- die Verordnung über die Wahrnehmung einzelner den Prüfungsstellen, der Gebrauchsmusterstelle, den Markenstellen und den Abteilungen des Patentamts obliegender Geschäfte (Wahrnehmungsverordnung – WahrnV)\n- das Gesetz über die Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts (Patentkostengesetz – PatKostG)\n- die Verordnung über die Zahlung der Kosten des Deutschen Patent- und Markenamts und des Bundespatentgerichts (Patentkostenzahlungsverordnung – PatKostZV)\n- die Verordnung über Verwaltungskosten beim Deutschen Patent- und Markenamt (DPMA-Verwaltungskostenverordnung – DPMAVwKostV)\n- die Verordnung über den elektronischen Rechtsverkehr beim Deutschen Patent- und Markenamt (ERVDPMAV)\n- die Verordnung über die elektronische Aktenführung bei dem Patentamt, dem Patentgericht und dem Bundesgerichtshof (EAPatV)\n- das Verwaltungszustellungsgesetz (VwZG).",
+   "fussnoten": []
+  },
+  {
+   "nr": "1",
+   "titel": "Erfordernisse der Anmeldung, Offensichtlichkeitsprüfung",
+   "ebene": 1,
+   "seite": 6,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.1",
+   "titel": "Anmeldetag, Mindesterfordernisse (§§ 34, 35 PatG)",
+   "ebene": 2,
+   "seite": 6,
+   "text": "Anmeldetag der Patentanmeldung ist der Tag, an dem die Unterlagen nach § 34 Abs. 3 Nr. 1 und 2 PatG und, soweit sie jedenfalls Angaben enthalten, die dem Anschein nach als Beschreibung anzusehen sind, nach § 34 Abs. 3 Nr. 4 PatG\n1) beim Deutschen Patent- und Markenamt (DPMA) oder\n2) bei einem Patentinformationszentrum, wenn diese Stelle durch Bekanntmachung des Bundesministeriums der Justiz und für Verbraucherschutz im Bundesgesetzblatt dazu bestimmt ist, eingegangen sind (§ 35 Abs. 1 PatG). Sind die Unterlagen nicht oder teilweise nicht in deutscher Sprache abgefasst, so gilt dies nur, wenn die deutsche Übersetzung innerhalb der Frist nach § 35a Abs. 1 Satz 1 oder § 35a Abs. 2 PatG beim DPMA eingegangen ist; andernfalls gilt die Anmeldung als zurückgenommen. Reicht der Anmelder auf eine Aufforderung nach § 35 Abs. 2 Satz 1 PatG oder auf eigene Initiative fehlende Zeichnungen oder fehlende Teile der Beschreibung nach, so wird der Tag des Eingangs der Zeichnungen oder der Teile der Beschreibung beim Deutschen Patent- und Markenamt zum Anmeldetag; andernfalls gilt jede Bezugnahme auf Zeichnungen oder die Teile der Beschreibung als nicht erfolgt (§ 35 Abs. 2, Abs. 3 PatG). Gemäß § 34 Abs. 3 Nr. 1, 2 und 4 PatG muss die Anmeldung enthalten:\n• den Namen des Anmelders,\n• einen Antrag auf Erteilung des Patents, in dem die Erfindung kurz und genau bezeichnet ist und\n• eine Beschreibung der Erfindung. Sind die in § 35 Abs. 1 PatG genannten Mindesterfordernisse erfüllt, liegt eine rechtswirksame Patentanmeldung vor. Werden diese Anforderungen nacheinander erfüllt, so liegt eine wirksame Anmeldung erst dann vor, wenn die letzte Anforderung erfüllt ist. Werden die Mindesterfordernisse nicht erfüllt, so ist für eine Zurückweisung einer derartigen „Anmeldung“ kein Raum. Vielmehr ist nach Gewährung des rechtlichen Gehörs durch Beschluss festzustellen, dass die Eingabe keine rechtswirksame Patentanmeldung ist. [1]",
+   "fussnoten": [
+    {
+     "nr": 1,
+     "text": "BPatG GRUR 1984, 804"
+    }
+   ]
+  },
+  {
+   "nr": "1.2",
+   "titel": "Offensichtlichkeitsprüfung (§ 42 PatG)",
+   "ebene": 2,
+   "seite": 6,
+   "text": "Der Umfang der Offensichtlichkeitsprüfung muss sich auf die in § 42 PatG festgelegten Erfordernisse beschränken. Ist eine rechtswirksame Anmeldung eingegangen (vgl. Abschnitt 2.1.), die jedoch offensichtlich nicht den Anforderungen der §§ 34, 36, 37 und 38 PatG genügt, fordert die Prüfungsstelle den Anmelder auf, die Mängel innerhalb einer bestimmten Frist zu beseitigen (§ 42 Abs. 1 Satz 1 PatG). Ist offensichtlich, dass der Gegenstand der Anmeldung\n1) seinem Wesen nach keine Erfindung ist,\n2) nicht gewerblich anwendbar ist oder\n3) nach § 1a Abs. 1, § 2 oder § 2a Abs. 1 PatG von der Patenterteilung ausgeschlossen ist, benachrichtigt die Prüfungsstelle den Anmelder hiervon unter Angabe der Gründe und fordert ihn auf, sich innerhalb einer bestimmten Frist zu äußern (§ 42 Abs. 2 PatG). Die Prüfungsstelle weist die Anmeldung zurück (§ 42 Abs. 3 Satz 1 PatG), wenn die nach § 42 Abs. 1 PatG gerügten Mängel nicht beseitigt werden oder wenn die Anmeldung aufrechterhalten wird, obgleich eine patentfähige Erfindung offensichtlich nicht vorliegt (§ 42 Abs. 2 Nr. 1 bis 3 PatG). Soll die Zurückweisung auf Umstände gegründet werden, die dem Patentsucher noch nicht mitgeteilt waren, so ist ihm vorher Gelegenheit zu geben, sich dazu innerhalb einer bestimmten Frist zu äußern (§ 42 Abs. 3 Satz 2 PatG).",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.3",
+   "titel": "Zuständigkeit",
+   "ebene": 2,
+   "seite": 6,
+   "text": "Die Offensichtlichkeitsprüfung nach § 42 PatG wird von den fachlich zuständigen Patentprüfern durchgeführt. Die formelle Bearbeitung von Patentanmeldungen obliegt Beamten des gehobenen und mittleren Dienstes sowie vergleichbaren Tarifbeschäftigten nach § 27 Abs. 5 PatG i. V. m. § 1 WahrnV.",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.4",
+   "titel": "Offensichtlichkeit",
+   "ebene": 2,
+   "seite": 6,
+   "text": "Bei der Prüfung nach § 42 Abs. 1 und 2 PatG sind nur Mängel zu rügen, die offensichtlich sind. Offensichtlich ist ein Mangel dann, wenn die Prüfungsstelle auf Grund des ihr unterbreiteten Sachverhalts ohne weitere Sachprüfung den Mangel zweifelsfrei als solchen erkennen kann, das heißt der Mangel offen zutage tritt. Deshalb ist der mit den Anmeldungsunterlagen dem DPMA unterbreitete Sachverhalt von der Prüfungsstelle anhand ihrer Sach- und Fachkenntnisse zu würdigen und von der Heranziehung nicht sofort verfügbaren Materials oder von zusätzlichen Ermittlungen und Nachforschungen grundsätzlich abzusehen. Das gilt nicht nur für Fragen mit mehr technischem, sondern auch für Fragen mit mehr rechtlichem Einschlag. Soweit letztere auf Grund einer gesicherten Rechtsprechung klar und zweifelsfrei beantwortet werden können, wird die Prüfungsstelle sie in der Regel zur Grundlage ihrer Untersuchung auf offensichtliche Mängel machen können, sofern sich dabei keine besonderen Probleme ergeben. [2] In der Offensichtlichkeitsprüfung werden Neuheit und erfinderische Tätigkeit nicht geprüft.",
+   "fussnoten": [
+    {
+     "nr": 2,
+     "text": "BGH BlPMZ 71, 371 Isomerisierung"
+    }
+   ]
+  },
+  {
+   "nr": "1.5",
+   "titel": "Formelle Mängel",
+   "ebene": 2,
+   "seite": 7,
+   "text": "Formelle Mängel, die im Rahmen der Offensichtlichkeitsprüfung beanstandet werden können, liegen insbesondere vor, wenn\na) der Patenterteilungsantrag unvollständig ist oder vom Inhalt der Vollmacht abweicht,\nb) zweifelhaft ist, ob das Patent für den Anmelder unter seiner Firma oder unter seinem bürgerlichen Namen beantragt wird,\nc) bei mehreren Anmeldern ohne gemeinsamen Vertreter ein Zustellungsbevollmächtigter nicht benannt ist oder die Unterschrift sämtlicher Mitanmelder nicht vorliegt,\nd) Teile der Anmeldungsunterlagen (Patentansprüche, Beschreibung, ggf. Zeichnungen sowie die Zusammenfassung – Text und ggf. Zeichnung –) nach §§ 34 und 36 PatG fehlen,\ne) die Vollmachtsurkunde für den oder die im Antrag angegebenen Vertreter unvollständig ist oder fehlt, sofern es sich nicht um einen anwaltlichen Vertreter im Sinne von § 15 Abs. 4 DPMAV oder einen anwaltlichen Vertreter dessen, der im Inland weder Wohnsitz, Sitz noch Niederlassung hat (§ 25 PatG), handelt,\nf) die Bezeichnung der Erfindung (§ 34 Abs. 3 Nr. 2 PatG) nicht kurz und genau ist, oder\ng) die Erfinderbenennung (§ 37 PatG) fehlt oder unvollständig ist.",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.5.1",
+   "titel": "Erfinderbenennung",
+   "ebene": 3,
+   "seite": 7,
+   "text": "Die Erfinderbenennung ist innerhalb von 15 Monaten nach dem Anmeldetag oder, sofern für die Anmeldung ein Prioritätstag in Anspruch genommen wird, innerhalb von 15 Monaten nach diesem Tag einzureichen, § 37 Abs. 1 Satz 1 PatG. Macht der Anmelder glaubhaft, dass er durch außergewöhnliche Umstände gehindert ist, diese Erklärung rechtzeitig abzugeben, so ist ihm eine angemessene Fristverlängerung zu gewähren (§ 37 Abs. 2 PatG). Hat sich der Anmelder als alleiniger Erfinder benannt, so muss die Erklärung nicht auf einem gesonderten Schriftstück eingereicht werden, es sei denn, ein Antrag auf Nichtnennung wird gestellt. [3]",
+   "fussnoten": [
+    {
+     "nr": 3,
+     "text": "BPatG BlPMZ 79, 181"
+    }
+   ]
+  },
+  {
+   "nr": "1.5.2",
+   "titel": "Anmeldegebühr",
+   "ebene": 3,
+   "seite": 7,
+   "text": "Für die Anmeldung wird eine Gebühr nach dem Patentkostengesetz (PatKostG) erhoben (§ 2 Abs. 1 PatKostG). Wird eine Gebühr nicht, nicht vollständig oder nicht rechtzeitig (innerhalb von drei Monaten ab Einreichung der Anmeldung) gezahlt, so gilt die Anmeldung als zurückgenommen (§§ 3, 6 PatKostG).",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.5.3",
+   "titel": "Verstöße gegen die PatV",
+   "ebene": 3,
+   "seite": 7,
+   "text": "Entspricht die Anmeldung nicht den Bestimmungen über die Form und über die sonstigen Erfordernisse der Anmeldung (§ 34 Abs. 6 PatG; PatV), so kann die Prüfungsstelle bis zum Beginn des Prüfungsverfahrens (§ 44 PatG) von der Beanstandung dieser Mängel absehen (§ 42 Abs. 1 Satz 2 PatG). Die Prüfungsstelle kann sich demnach im Rahmen der Offensichtlichkeitsprüfung auf solche Mängel beschränken, die den Druck der Offenlegungsschrift behindern oder eine sachgerechte Recherche verhindern. Im Interesse der Öffentlichkeit ist an die Qualität der Unterlagen, insbesondere an ihre Lesbarkeit, ein strenger Maßstab anzulegen.",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.5.4",
+   "titel": "Mängel bei Patentansprüchen und Beschreibung",
+   "ebene": 3,
+   "seite": 7,
+   "text": "Hinsichtlich des Inhalts und Aufbaus der Patentansprüche und der Beschreibung sind bei der Offensichtlichkeitsprüfung nur schwerwiegende Mängel zu beanstanden. Schwerwiegende Mängel liegen vor, wenn bei Herausgabe der Offenlegungsschrift eine Irreführung der Öffentlichkeit zu befürchten ist (ansonsten siehe Abschnitt 2.3.3.6.).",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.6",
+   "titel": "Erfordernisse gemäß § 42 Abs. 2 PatG",
+   "ebene": 2,
+   "seite": 7,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.6.1",
+   "titel": "Fehlen einer Erfindung gemäß § 42 Abs. 2 Nr. 1 PatG",
+   "ebene": 3,
+   "seite": 7,
+   "text": "Der Gegenstand einer Anmeldung muss auf einem Gebiet der Technik liegen und es darf sich nicht offensichtlich um einen der in § 1 Abs. 3 PatG genannten Gegenstände handeln.",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.6.2",
+   "titel": "Gewerbliche Anwendbarkeit gemäß § 42 Abs. 2 Nr. 2 PatG",
+   "ebene": 3,
+   "seite": 8,
+   "text": "Auch das Fehlen der gewerblichen Anwendbarkeit muss sich bei der Offensichtlichkeitsprüfung ohne Zweifel und weitere Nachforschungen aus den Anmeldungsunterlagen ergeben. So können in der Offensichtlichkeitsprüfung rein medizinische Heil- oder Diagnoseverfahren beanstandet werden, für die zweifelsfrei keine andere Verwendung in Frage kommt.",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.6.3",
+   "titel": "Ausschlussgründe (§ 42 Abs. 2 Nr. 3 PatG)",
+   "ebene": 3,
+   "seite": 8,
+   "text": "Die Ausschlussgründe des § 42 Abs. 2 Nr. 3 PatG beziehen sich auf die Patentierungsverbote nach § 1a Abs. 1, § 2 oder § 2a Abs. 1 PatG. Hierdurch erfasst sind insbesondere Erfindungen, deren gewerbliche Verwertung gegen die guten Sitten verstoßen würde (§ 2 PatG), der menschliche Körper in den einzelnen Phasen seiner Entstehung und Entwicklung, einschließlich der Keimzellen (§ 1a Abs. 1 PatG), Pflanzensorten und Tierrassen sowie im Wesentlichen biologische Verfahren zur Züchtung von Pflanzen und Tieren und überdies Verfahren zur chirurgischen oder therapeutischen Behandlung (§ 2a Abs. 1 PatG). Zu beachten ist hierbei, dass sich der Gesetzeswortlaut an Art. 4quater Pariser Verbandsübereinkunft (PVÜ) anlehnt. Danach kann die Erteilung eines Patents nicht deshalb verweigert und ein Patent nicht deshalb für ungültig erklärt werden, weil der Vertrieb des patentierten Erzeugnisses oder des Erzeugnisses, das das Ergebnis eines patentierten Verfahrens ist, Beschränkungen oder Begrenzungen durch die innerstaatlichen Rechtsvorschriften unterworfen ist. Ein Patentierungsverbot nach § 2 Abs. 1 PatG liegt vor, wenn der bestimmungsgemäße Gebrauch der Erfindung gegen die öffentliche Ordnung oder die guten Sitten verstoßen würde. Nicht jeder Gesetzesverstoß stellt einen Verstoß gegen die öffentliche Ordnung dar. Ein Patentierungsausschluss liegt vor, wenn gewichtige, zu den tragenden Grundsätzen der Rechts- und Sittenordnung zählende Normen oder Grundsätze betroffen sind (Vorschriften über den Schutz von Grund- und Menschenrechten, z. B. Gesetz über die Kontrolle von Kriegswaffen, BGBI. I 1990, 2507; Gesetz zum Schutze von Embryonen, BGBI. I 1990, 2746).",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.7",
+   "titel": "Einheitlichkeit",
+   "ebene": 2,
+   "seite": 8,
+   "text": "Die Offensichtlichkeitsprüfung bezweckt in diesem Zusammenhang, dass mehrere Erfindungen, die offensichtlich nichts miteinander zu tun haben, nicht in einer Anmeldung missbräuchlich zusammengefasst werden. Offensichtliche Uneinheitlichkeit ist aber zu verneinen, wenn eine technisch sinnvolle und – vor Berücksichtigung des Standes der Technik – auch einheitliche Aufgabe angegeben werden kann, zu deren Lösung alle Teile der Anmeldung erforderlich oder zumindest dienlich sind. [4]",
+   "fussnoten": [
+    {
+     "nr": 4,
+     "text": "BPatG BlPMZ 80, 118"
+    }
+   ]
+  },
+  {
+   "nr": "1.8",
+   "titel": "Abschluss der Offensichtlichkeitsprüfung",
+   "ebene": 2,
+   "seite": 8,
+   "text": "Hat die Prüfungsstelle keine offensichtlichen Mängel festgestellt, vermerkt sie dies in den Akten. Bei Feststellung offensichtlicher Mängel werden diese gerügt und der Anmelder wird zur Beseitigung innerhalb einer bestimmten Frist aufgefordert (§ 42 Abs. 1 Satz 1 PatG). Widerspricht der Anmelder der Mängelrüge und legt er die Gründe für seine Auffassung dar, soll ein weiterer Bescheid nur in Ausnahmefällen ergehen. Sind die Gründe stichhaltig, ist die Beanstandung fallen zu lassen. Wenn die vom Anmelder dargelegten Gründe nicht überzeugen und die gerügten Mängel nicht beseitigt werden, weist die Prüfungsstelle die Anmeldung zurück (§ 42 Abs. 3 Satz 1 PatG). Im Rahmen der Offensichtlichkeitsprüfung ist bei einem Schriftwechsel mit dem Anmelder darauf zu achten, dass die abschließende Entscheidung (Zurückweisung der Anmeldung oder Fallenlassen der Beanstandung) spätestens 4 Monate nach dem Anmeldetag ergeht. Dies ist insbesondere in den Fällen erforderlich, in denen eine Priorität in Anspruch genommen wird, um den Druck der Offenlegungsschrift noch mit den berichtigten Unterlagen zu ermöglichen. Ist der Abschluss der Offensichtlichkeitsprüfung nicht rechtzeitig möglich, wird die Offenlegungsschrift mit unberichtigten Unterlagen gedruckt.",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.9",
+   "titel": "Hinweis auf Teilung",
+   "ebene": 2,
+   "seite": 8,
+   "text": "Wegen der Möglichkeit der Teilung einer Anmeldung durch den Anmelder wird auf den Abschnitt 2.3.3.5. verwiesen.",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.10",
+   "titel": "Hinweis auf Prioritätsrechte",
+   "ebene": 2,
+   "seite": 8,
+   "text": "Die materielle Berechtigung der Inanspruchnahme einer Priorität, sei es einer inländischen oder einer ausländischen Priorität, ist im Rahmen der Offensichtlichkeitsprüfung nicht zu prüfen. [5]",
+   "fussnoten": [
+    {
+     "nr": 5,
+     "text": "BPatG GRUR 1986, 607 Schallsonde"
+    }
+   ]
+  },
+  {
+   "nr": "1.11",
+   "titel": "Fristgewährung",
+   "ebene": 2,
+   "seite": 8,
+   "text": "Bei der Offensichtlichkeitsprüfung nach § 42 PatG kann die Frist für die Erwiderung auf Sachbescheide von 4 Monaten auf 2 Monate abgekürzt werden, wenn andernfalls die Offensichtlichkeitsprüfung nicht vor der Offenlegung der Anmeldung abgeschlossen werden kann.",
+   "fussnoten": []
+  },
+  {
+   "nr": "1.12",
+   "titel": "Unterlagen für die Offenlegungsschrift",
+   "ebene": 2,
+   "seite": 9,
+   "text": "Offenlegungsschriften dienen der Unterrichtung der Öffentlichkeit über das Entstehen möglicher Schutzrechte. Kann die Offensichtlichkeitsprüfung nicht vor Ablauf der für die Offenlegung maßgebenden Frist (18 Monate, § 31 Abs. 2 Nr. 2 PatG) abgeschlossen werden, wird die Offenlegungsschrift mit unberichtigten Unterlagen gedruckt. Die Offenlegung ist regelmäßig auch dann durchzuführen, wenn sich die Anmeldung im Beschwerdeverfahren befindet. Ausgenommen davon sind jedoch Beschwerden gegen die Akteneinsicht selbst, deren Zeitpunkt oder den vorgesehenen Inhalt der Offenlegungsschrift. Die Offenlegungsschrift wird nicht veröffentlicht und der Hinweis gemäß § 32 Abs. 5 PatG unterbleibt, wenn die Patentschrift bereits veröffentlicht worden ist (sog. überrollende Veröffentlichung, § 32 Abs. 2 Satz 2 PatG). Das Deutsche Patent- und Markenamt kann von einer Veröffentlichung der Offenlegungsschrift absehen, soweit die Anmeldung Angaben oder Zeichnungen enthält, die offensichtlich gegen die öffentliche Ordnung oder die guten Sitten verstoßen (§ 32 Abs. 2 Satz 3 PatG). Die fehlende Veröffentlichung soll sich auf die problematischen Bestandteile der Anmeldung beschränken. Ein offensichtlich ordnungs- oder sittenwidriger Inhalt kann sich insbesondere aus einzelnen Angaben oder Zeichnungen, aus deren sachlichen Zusammenhang oder aus der hierdurch beschriebenen gewerblichen Verwertung der Erfindung ergeben. In Ausnahmefällen kann die gesamte Anmeldung nicht veröffentlicht werden, insbesondere wenn der Veröffentlichung der Anmeldung nach weitreichender Streichung der problematischen Bestandteile kein inhaltlicher Informationsgehalt für die Öffentlichkeit mehr zukäme. Für die Offenlegung sind grundsätzlich die ursprünglich eingereichten Unterlagen zu verwenden. Fehlen bei Eingang die Zeichnungen, obwohl die Anmeldung eine Bezugnahme auf Zeichnungen enthält, oder die Zusammenfassung, und werden diese Unterlagen rechtzeitig nachgereicht, sind sie in die Offenlegungsschrift aufzunehmen. Nicht druckfähige Zeichnungen sind wie fehlende Zeichnungen zu behandeln. [6] Hinsichtlich einer etwaigen Verschiebung des Anmeldetags infolge einer Nachreichung von fehlenden Zeichnungen wird auf Abschnitt 1.1. verwiesen. Ist die Anmeldung ganz oder teilweise nicht in deutscher Sprache abgefasst, ist anstelle der fremdsprachigen Unterlagen die deutsche Übersetzung in die Offenlegungsschrift aufzunehmen, wenn sie rechtzeitig eingereicht wurde und den Voraussetzungen des § 14 PatV entspricht.\nFür den Druck der Offenlegungsschrift sind, nach Prüfung auf offensichtliche Mängel durch die Prüfungsstelle, auch solche Unterlagen zu verwenden, die deshalb nachgereicht worden sind, weil die ursprünglichen Unterlagen nicht druckfähig waren oder offensichtliche Fehler aufwiesen, oder die auf Verlangen der Prüfungsstelle zur Behebung eines offensichtlichen Mangels nachgereicht worden sind. Sonstige vom Anmelder unaufgefordert eingereichte neue Unterlagen sind zu den Akten zu nehmen. Sie werden nicht für die Offenlegungsschrift verwendet, auch dann nicht, wenn der Anmelder dies ausdrücklich beantragt hat. Im letzteren Fall soll dem Anmelder eine kurze Nachricht gegeben werden. In allen Fällen, in denen der Offenlegungsschrift nicht nur die am Anmeldetag eingegangenen Unterlagen zugrunde gelegt werden, ist auf der Titelseite der Offenlegungsschrift der Hinweis anzubringen, dass der Inhalt der Schrift von den am Anmeldetag eingereichten Unterlagen abweicht.",
+   "fussnoten": [
+    {
+     "nr": 6,
+     "text": "BPatG vom 16.12.2014 – 21 W (pat) 70/09"
+    }
+   ]
+  },
+  {
+   "nr": "2",
+   "titel": "Prüfungsverfahren",
+   "ebene": 1,
+   "seite": 10,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.1",
+   "titel": "Prüfungsantrag (§ 44 PatG)",
+   "ebene": 2,
+   "seite": 10,
+   "text": "Das Prüfungsverfahren nach § 44 PatG setzt einen rechtswirksamen Prüfungsantrag voraus (§ 44 Abs. 1 PatG). Der Prüfungsantrag kann von dem Patentanmelder und jedem Dritten bis zum Ablauf von 7 Jahren nach Einreichung der Anmeldung gestellt werden (§ 44 Abs. 2 PatG). Er setzt eine anhängige Anmeldung voraus und kann auch gleichzeitig mit der Anmeldung gestellt werden. Ist der Antrag von einem Dritten gestellt worden, wird dies dem Anmelder mitgeteilt (§ 44 Abs. 3 Satz 2 PatG). Wer im Inland weder Wohnsitz, Sitz noch Niederlassung hat, kann einen wirksamen Prüfungsantrag nur stellen, wenn er einen Rechtsanwalt oder Patentanwalt als Vertreter bestellt hat, der zur Vertretung im Verfahren vor dem Patentamt befugt und bevollmächtigt ist (§ 44 Abs. 3 Satz 3 i. V. m. § 43 Abs. 2 Satz 3 i. V. m. § 25 PatG). Für den Antrag wird eine Gebühr nach dem PatKostG erhoben. Die Zahlungsfrist für die Prüfungsgebühr nach dem Patentkostengesetz beträgt 3 Monate ab Fälligkeit, das heißt ab Stellung des Prüfungsantrags beim DPMA (§ 3 Abs. 1 PatKostG). Diese Frist endet jedoch spätestens mit Ablauf von 7 Jahren nach Einreichung der Anmeldung (§ 44 Abs. 2 Satz 3 PatG). Der Prüfungsantrag wird erst bearbeitet, wenn die Gebühr gezahlt ist (§ 5 Abs. 1 PatKostG). Ist ein Rechercheantrag nach § 43 PatG vor oder zusammen mit dem Prüfungsantrag gestellt worden, beginnt das Prüfungsverfahren erst nach Erledigung des Rechercheantrags (§ 44 Abs. 3 Satz 1 PatG). Sind Anhaltspunkte dafür erkennbar, dass eine gesonderte Recherche nach § 43 PatG nicht gewollt ist, ist dies von der Prüfungsstelle mit dem Anmelder abzuklären. Ist bereits ein Prüfungsantrag eingegangen, so gelten spätere Prüfungsanträge als nicht gestellt (§ 44 Abs. 3 Satz 3 i. V. m. § 43 Abs. 5 PatG). Ein Dritter, der einen wirksamen Prüfungsantrag gestellt hat, ist am Prüfungsverfahren nicht beteiligt (§ 44 Abs. 2 PatG). Er erhält keine Abschriften der Prüfungsbescheide oder Beschlüsse. Er kann jedoch Akteneinsicht verlangen. Der Abschluss des Verfahrens ist ihm mitzuteilen. Das Prüfungsverfahren wird auch dann fortgesetzt, wenn der Prüfungsantrag zurückgenommen wird (§ 44 Abs. 5 PatG).",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.2",
+   "titel": "Formelle Behandlung des Prüfungsantrags und der Erwiderungen",
+   "ebene": 2,
+   "seite": 10,
+   "text": "Der Prüfungsantrag wird zunächst auf formelle Mängel geprüft. Nach Eingang der Gebühr wird die Akte an die für die Hauptklasse zuständige Prüfungsstelle abgegeben. Diese ist für die sachliche Prüfung der Anmeldung verantwortlich. Sie überprüft die Zuständigkeit sofort nach Eingang der Akte. Ist sie nicht zuständig, so ist unverzüglich die zuständige Prüfungsstelle festzustellen und ihr die Akte zuzuleiten. Die zuständige Prüfungsstelle ergänzt, falls erforderlich, zutreffende Nebenklassen auf dem dafür vorgesehenen Vordruck. Bei Eingang einer Erwiderung ist in entsprechender Weise zu prüfen, ob die Zuständigkeit bei der bisher zuständigen Prüfungsstelle verbleibt. Der Prüfungsantrag wird im Patentblatt veröffentlicht. Erweist sich ein Antrag eines Dritten nach der Mitteilung an den Patentanmelder als unwirksam, sind der Dritte und der Patentanmelder hierüber zu benachrichtigen (§ 44 Abs. 4 Satz 1 PatG).",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.3",
+   "titel": "Sachliche Prüfung",
+   "ebene": 2,
+   "seite": 10,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.3.1",
+   "titel": "Bearbeitungsreihenfolge",
+   "ebene": 3,
+   "seite": 10,
+   "text": "Anmeldungen werden grundsätzlich in der Reihenfolge bearbeitet, die sich aus dem zeitlichen Eingang der Prüfungsanträge ergibt. Auch Erwiderungen werden nach der Reihenfolge ihres Eingangs bearbeitet. Aus arbeitsökonomischen Gründen kann es aber zweckmäßig sein, sachlich zusammengehörende Fälle gemeinsam zu bearbeiten und von der üblichen Bearbeitungsreihenfolge abzuweichen. Anmeldungen und Erwiderungen sollten insbesondere dann bevorzugt bearbeitet werden, wenn\na) die Patenterteilung in Aussicht gestellt wurde und nunmehr unverzüglich beschlossen werden kann;\nb) der Anmelder die Beanstandungen nicht oder nicht vollständig beseitigt hat und damit die Zurückweisung geboten erscheint;\nc) im vorangegangenen Prüfungsbescheid Mängel aufgezeigt wurden, die eine Patenterteilung nicht zulassen, und nach Lage der Akten sofort erkennbar ist, dass die Darlegungen des Anmelders keinen Grund zur Änderung dieser Auffassung geben.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.3.2",
+   "titel": "Beschleunigungsanträge",
+   "ebene": 3,
+   "seite": 10,
+   "text": "Auf einen begründeten Beschleunigungsantrag ist ein Verfahren vordringlich zu betreiben, wenn die ansonsten zu erwartende Verfahrensdauer zu erheblichen Nachteilen für den Antragsteller führen würde. Beschleunigungsanträge gelten grundsätzlich nur für die nächste Verfahrenshandlung, jedoch wird das weitere Verfahren dann beschleunigt betrieben, wenn sich dieses Begehren aus dem Beschleunigungsantrag ergibt.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.3.3",
+   "titel": "Gegenstand der Prüfung",
+   "ebene": 3,
+   "seite": 10,
+   "text": "Die Anmeldung muss den Anforderungen der §§ 34, 37 und 38 PatG genügen und der Gegenstand der Anmeldung muss nach den §§ 1 bis 5 PatG patentfähig sein.\nDie Prüfung der Patentfähigkeit erfordert regelmäßig eine Auslegung des Patentanspruchs aus Sicht des jeweils zuständigen Fachmanns unter Heranziehung der Beschreibung und der Zeichnungen (vgl. § 14 Satz 2 PatG), bei der der Sinngehalt des Patentanspruchs in seiner Gesamtheit und der Beitrag, den die einzelnen Merkmale zum Leistungsergebnis der Erfindung liefern, zu bestimmen sind. [7] Der Gegenstand der Patentanmeldung ist auf Basis dieser Auslegung zu recherchieren und auf das Vorliegen der im PatG explizit und eindeutig genannten Zurückweisungsgründe zu prüfen (das heißt hier im Wesentlichen auf Patentfähigkeit nach §§ 1 bis 5 PatG und auf Ausführbarkeit nach § 34 Abs. 4 PatG). Das Heranziehen der mangelnden „Klarheit“ als einzigen Zurückweisungsgrund ohne Auslegung der Ansprüche und ohne Durchführung einer Recherche sollte nicht erfolgen.",
+   "fussnoten": [
+    {
+     "nr": 7,
+     "text": "BGH GRUR 2012, 1124 Polymerschaum"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.1",
+   "titel": "Ausführbarkeit (§ 34 Abs. 4 PatG)",
+   "ebene": 4,
+   "seite": 11,
+   "text": "Nach § 34 Abs. 4 PatG muss die Erfindung in der Anmeldung so deutlich und vollständig offenbart sein, dass ein Fachmann sie ausführen kann. Die Erfindung (Lehre zum technischen Handeln) kann an jeder Stelle der Anmeldungsunterlagen – außer der Zusammenfassung – offenbart sein. Die Zusammenfassung dient ausschließlich der technischen Unterrichtung der Öffentlichkeit (§ 36 PatG). Eine Erfindung ist ausführbar offenbart, wenn die in der Patentanmeldung enthaltenen Angaben dem fachmännischen Leser so viel an technischer Information vermitteln, dass er mit seinem Fachwissen und seinem Fachkönnen in der Lage ist, die Erfindung erfolgreich auszuführen. [8] Dabei muss lediglich die entscheidende Richtung angegeben werden, in der der Fachmann von sich aus arbeiten kann. [9] Das Gebot der deutlichen und vollständigen Offenbarung erfordert es nicht, dass die Beschreibung Hinweise darauf enthält, wie alle denkbaren Varianten, die unter die funktionelle Definition fallen, zu erzielen sind. Es genügt, wenn für den Fachmann mindestens ein ausführbarer Weg offenbart wird. [10] Es steht der Ausführbarkeit einer Erfindung aber auch nicht entgegen, wenn der Fachmann noch Versuche durchführen muss, um anhand der richtungsweisenden Angaben der Patentschrift zum angestrebten Erfolg zu kommen, solange derartige Versuche den im Einzelfall zumutbaren Umfang nicht überschreiten. [11] Die Angaben in der Patentschrift müssen dem Fachmann so viel Information vermitteln, dass er in der Lage ist, die Erfindung ohne eigenes erfinderisches Bemühen erfolgreich auszuführen Es ist nicht erforderlich, dass mindestens eine praktische Ausführungsform als solche unmittelbar und eindeutig offenbart ist. [12] Die Erfindung muss also nicht in allen Einzelheiten beschrieben sein. Jedoch dürfen Verallgemeinerungen nicht so weit gehen, dass nur noch aufgabenhafte Mittel zur Lösung des Problems vorhanden sind. Dies würde zu einer Behinderung des technischen Fortschritts führen. [13] Ebenso dürfen offene Bereichsangaben für physikalische Eigenschaften über die dem Fachmann in den Unterlagen offenbarte Lehre hinaus nicht so weit verallgemeinert werden, so dass der Schutz auf spekulativ beanspruchte weite Bereiche ausgedehnt würde, zu deren Erschließung die Erfindung keinen Beitrag leistet. [14]",
+   "fussnoten": [
+    {
+     "nr": 8,
+     "text": "BGH GRUR 2010, 916 Klammernahtgerät"
+    },
+    {
+     "nr": 9,
+     "text": "BGH GRUR 1968, 311 Garmachverfahren"
+    },
+    {
+     "nr": 10,
+     "text": "BGH GRUR 2001, 813 Taxol; BGH Mitt 2015, 563 Übertragungspapier für Tintenstrahldrucker"
+    },
+    {
+     "nr": 11,
+     "text": "BGH GRUR 1976, 213 Brillengestelle"
+    },
+    {
+     "nr": 12,
+     "text": "BGH GRUR 2010, 916 Klammernahtgerät"
+    },
+    {
+     "nr": 13,
+     "text": "BGH GRUR 1985, 31 Acrylfasern"
+    },
+    {
+     "nr": 14,
+     "text": "BGH GRUR 2010, 414 Thermoplastische Zusammensetzung"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.2",
+   "titel": "Prüfung der Patentfähigkeit nach §§ 1 bis 5 PatG",
+   "ebene": 4,
+   "seite": 11,
+   "text": "Die Erfindung, für die ein Patent erteilt werden soll, muss patentfähig sein (vgl. §§ 1 bis 5 PatG). Hierzu ist der Gegenstand des Patentanspruchs (bzw. der Patentansprüche) mit allen ihn beschreibenden Merkmalen zu prüfen, da hierdurch bestimmt wird, was nach den §§ 14 und 34 Abs. 3 Nr. 3 PatG unter Schutz gestellt werden soll. Vor der Beurteilung der Patentfähigkeit muss der maßgebliche Fachmann definiert werden, da die Prüfung, ob der Anmeldegegenstand gegenüber dem Stand der Technik neu ist und auf einer erfinderischen Tätigkeit beruht, aus der Sicht des angesprochenen Fachmanns zu erfolgen hat. Der Sinngehalt der Merkmale von Patentansprüchen ist aus dessen Sicht auszulegen, um den beanspruchten Gegenstand für die nachfolgende Überprüfung auf Patentfähigkeit festzulegen. [15] Gegebenenfalls sind die Beschreibung und die Zeichnungen zur Auslegung der Patentansprüche heranzuziehen (vgl. § 14 Satz 2 PatG). [16]",
+   "fussnoten": [
+    {
+     "nr": 15,
+     "text": "BPatG GRUR 2014, 545 Batterieüberwachungsgerät"
+    },
+    {
+     "nr": 16,
+     "text": "BGH GRUR 2001, 232 Brieflocher"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.2.1",
+   "titel": "Grundlegende Erfordernisse gemäß §§ 1 bis 5 PatG",
+   "ebene": 5,
+   "seite": 11,
+   "text": "Gemäß § 1 Abs. 1 PatG werden Patente nur für Erfindungen erteilt, die neu sind, auf einer erfinderischen Tätigkeit beruhen und gewerblich anwendbar sind. Daneben müssen sie auch auf einem Gebiet der Technik liegen. Dies ist allgemein der Fall, wenn die Erfindung eine Lehre zum planmäßigen Handeln unter Einsatz beherrschbarer Naturkräfte zur Erreichung eines kausal übersehbaren Erfolgs enthält. [17] Dabei ist es aber nicht erforderlich, dass der kausal übersehbare Erfolg unter Einsatz beherrschbarer Naturkräfte unmittelbar und ohne Zwischenschaltung menschlicher Verstandeskräfte herbeigeführt wird. Vielmehr kann eine Erfindung auch technischer Natur sein, wenn sie durch eine auf technischen Überlegungen beruhende Erkenntnis und deren Umsetzung geprägt ist. [18] Ebenso steht es der Technizität einer Lehre nicht entgegen, wenn sie unter anderem auch die menschliche Verstandestätigkeit einschaltet. [19] Die Beurteilung eines Merkmals als nichttechnisch bedarf dabei regelmäßig einer Begründung. Liegt ein Patentanspruch mit einer Kombination aus technischen und nichttechnischen Merkmalen zur Prüfung vor, so ist dessen Gegenstand grundsätzlich dem Patentschutz zugänglich. Allerdings sind nichttechnische Merkmale bei der Prüfung auf erfinderische Tätigkeit außer Acht zu lassen. [20] Von der Patentierbarkeit generell ausgenommen sind folgende Gegenstände oder Tätigkeiten, die nicht als Erfindungen im Sinne des Patentgesetzes angesehen werden (§ 1 Abs. 3 PatG):\n1) Entdeckungen sowie wissenschaftliche Theorien und mathematische Methoden (z. B.: das archimedische Prinzip, Methoden zur Auflösung eines Gleichungssystems);\n2) ästhetische Formschöpfungen (z. B. rein dekorative Gestaltungen einer Fläche oder eines Körpers);\n3) Pläne, Regeln und Verfahren für gedankliche Tätigkeiten, für Spiele oder für geschäftliche Tätigkeiten (z. B. ein Plan zum Erlernen bestimmter Fähigkeiten, ein Verfahren zur Lösung von Denksportaufgaben oder ein Plan zur Organisation einer kommerziellen Dienstleistung) sowie Programme für Datenverarbeitungsanlagen (siehe dazu im Einzelnen Abschnitt 3.2.);\n4) Wiedergabe von Informationen (z. B. Literatur, Nachrichteninhalte). Der Ausschluss für die in 1) bis 4) genannten Gegenstände oder Tätigkeiten gilt jedoch nur insoweit, als für sie als solche Schutz begehrt wird (§ 1 Abs. 3, 4 PatG), das heißt sie sind nur insoweit vom Patentschutz ausgeschlossen, als sie losgelöst von einer konkreten Umsetzung beansprucht werden. Der Ausschlusstatbestand greift nicht ein, wenn die Lehre Anweisungen enthält, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen. [21] Zu beachten sind auch die Ausnahmen von der Patentierbarkeit gemäß § 1a Abs. 1, § 2 oder § 2a Abs. 1 PatG, vgl. auch Abschnitte 1.6.3. und 3.2.. Insbesondere sind gemäß § 2a Abs. 1 Nr. 2 PatG Verfahren zur chirurgischen und therapeutischen Behandlung des menschlichen oder tierischen Körpers und Diagnostizierverfahren, die am menschlichen oder tierischen Körper vorgenommen werden, vom Patentschutz ausgenommen. Während eine Kombination aus technischen und nichttechnischen Merkmalen eine patentierbare Erfindung darstellen kann (s. o.), sind mehrstufige Verfahren aufgrund § 2a Abs. 1 Nr. 2 PatG als Ganzes nicht patentierbar, wenn eine der Stufen ein chirurgisches, therapeutisches oder diagnostisches Verfahren beinhaltet.",
+   "fussnoten": [
+    {
+     "nr": 17,
+     "text": "BGH GRUR 1969, 672 Rote Taube"
+    },
+    {
+     "nr": 18,
+     "text": "BGH GRUR 2000, 498 Logikverifikation"
+    },
+    {
+     "nr": 19,
+     "text": "BGH GRUR 2000, 1007 Sprachanalyseeinrichtung"
+    },
+    {
+     "nr": 20,
+     "text": "BGH GRUR 2011, 125 Wiedergabe topografischer Informationen und BGH GRUR 2013, 909 Fahrzeugnavigationssystem"
+    },
+    {
+     "nr": 21,
+     "text": "BGH GRUR 2002, 143 Suche fehlerhafter Zeichenketten; BGH GRUR 2010, 613 Dynamische Dokumentengenerierung; BGH GRUR 2011, 610 Webseitenanzeige"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.2.2",
+   "titel": "Stand der Technik (§ 3 PatG)",
+   "ebene": 5,
+   "seite": 12,
+   "text": "Der Stand der Technik umfasst alle Kenntnisse, die vor dem für den Zeitrang der Anmeldung maßgeblichen Tag durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise der Öffentlichkeit zugänglich gemacht worden sind (§ 3 Abs. 1 Satz 2 PatG). Nach § 3 Abs. 2 PatG gilt als Stand der Technik auch der Inhalt folgender Patentanmeldungen mit älterem Zeitrang, die erst an oder nach dem für den Zeitrang der jüngeren Anmeldung maßgeblichen Tag der Öffentlichkeit zugänglich gemacht worden sind:\n1) der nationalen Anmeldungen in der beim Deutschen Patent- und Markenamt ursprünglich eingereichten Fassung;\n2) der europäischen Anmeldungen in der bei der zuständigen Behörde ursprünglich eingereichten Fassung, wenn mit der Anmeldung für die Bundesrepublik Deutschland Schutz begehrt wird und die Benennungsgebühr für die Bundesrepublik Deutschland nach Art. 79 Abs. 2 EPÜ gezahlt ist, es sei denn, dass die europäische Patentanmeldung aus einer internationalen Anmeldung hervorgegangen ist und die in Art. 153 EPÜ Abs. 5 genannten Voraussetzungen nicht erfüllt sind;\n3) der internationalen Anmeldungen nach dem PCT in der beim Anmeldeamt ursprünglich eingereichten Fassung, wenn für die Anmeldung das Deutsche Patent- und Markenamt Bestimmungsamt ist. Somit ist der gesamte Offenbarungsgehalt älterer Anmeldungen Stand der Technik. Die Frage, ob und in welchem Umfang auf die ältere Anmeldung ein Patent erteilt wird, ist hierbei ohne Belang. Außer Betracht bleibt jedoch eine zum Stand der Technik nach § 3 Abs. 1 und 2 PatG gehörende Offenbarung der Erfindung, wenn diese Offenbarung nicht früher als 6 Monate vor Einreichung der Anmeldung erfolgt ist und zurückgeht auf einen offensichtlichen Missbrauch zum Nachteil des Anmelders oder seines Rechtsvorgängers (§ 3 Abs. 5 Nr. 1 PatG) oder eine Zur-Schau-Stellung der Erfindung durch den Anmelder auf amtlichen oder amtlich anerkannten Ausstellungen (§ 3 Abs. 5 Nr. 2 PatG). Die entsprechenden Ausstellungen werden vom Bundesministerium der Justiz und für Verbraucherschutz im Bundesgesetzblatt bekannt gemacht (§ 3 Abs. 5 Satz 3 PatG). Der Anmelder muss allerdings bei Einreichung der Anmeldung bereits angeben, dass die Erfindung zur Schau gestellt worden ist und hierüber innerhalb von 4 Monaten nach der Einreichung eine Bescheinigung vorlegen (§ 3 Abs. 5 Satz 2 PatG).",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.3.3.2.3",
+   "titel": "Neuheit (§ 3 PatG)",
+   "ebene": 5,
+   "seite": 13,
+   "text": "Bei der Neuheitsprüfung ist festzustellen, ob sich der Gegenstand der Patentanmeldung von jeder einzelnen Vorveröffentlichung und Vorbenutzung hinsichtlich der erfindungsgemäßen Merkmale in irgendeinem Punkt unterscheidet. [22] Der Gegenstand gilt als neu, wenn er bei jedem einzelnen Vergleich mit dem Stand der Technik mindestens ein Merkmal aufweist, das im betrachteten Stand der Technik fehlt. Umgekehrt ist die Neuheit nur zu verneinen, wenn einer einzigen Entgegenhaltung sämtliche Merkmale des Patentanspruchs zu entnehmen sind. [23] Maßgebend ist der Gesamtinhalt der technischen Lehre in der jeweiligen Vorveröffentlichung, also z. B. der Schrift, des Vortrags oder einer Vorbenutzung. Dabei ist unerheblich, ob etwas beiläufig oder als wesentliche Erkenntnis im Zusammenhang mit der offenbarten technischen Lehre geäußert wurde. Von Bedeutung ist vielmehr, was der einschlägige Durchschnittsfachmann im Zusammenhang mit der offenbarten technischen Lehre unmittelbar und eindeutig entnehmen konnte. Offenbart kann auch sein, was im Stand der Technik nicht ausdrücklich erwähnt ist, aus der Sicht des Fachmanns jedoch für die Lehre selbstverständlich ist und deshalb keiner besonderen Offenbarung bedarf („Mitlesen“). Die Einbeziehung von Selbstverständlichem erlaubt jedoch keine Ergänzung der Offenbarung durch das Fachwissen. Sie dient lediglich der vollständigen Ermittlung der technischen Information, die der fachkundige Leser vor dem Hintergrund seines Fachwissens dem Stand der Technik entnimmt. [24] Maßgeblicher Inhalt einer als Stand der Technik in Betracht zu ziehenden Anmeldung mit älterem Zeitrang ist der Inhalt dieser Anmeldung, wenn der ältere Zeitrang aufgrund ihres Anmeldetages besteht. Bei einer Anmeldung, deren älterer Zeitrang auf der Inanspruchnahme der Priorität einer Voranmeldung beruht, zählt zum Stand der Technik nur der Inhalt dieser Anmeldung, der nicht über den Inhalt der prioritätsbegründenden Voranmeldung hinausgeht (§ 3 Abs. 2 Satz 2 PatG).\nHat die Prüfungsstelle eine Anmeldung mit älterem Zeitrang ermittelt, die noch nicht offengelegt ist, dürfen Inhalt und Aktenzeichen dieser älteren Anmeldung dem Anmelder der jüngeren Anmeldung erst nach deren Offenlegung mitgeteilt werden. Die ältere Anmeldung wird Stand der Technik, wenn sie zum Zeitpunkt ihrer Veröffentlichung noch anhängig war. War sie zum Zeitpunkt ihrer Veröffentlichung nicht mehr anhängig und wurde dennoch veröffentlicht, wird sie mit dem Datum ihrer Veröffentlichung Stand der Technik. Sie bleibt jedoch Stand der Technik, wenn sie nach der Veröffentlichung zurückgenommen oder zurückgewiesen wird oder als zurückgenommen gilt. [25] Aus dem Stand der Technik bereits bekannte Stoffe können dennoch patentfähig sein, wenn sie zur chirurgischen oder therapeutischen Behandlung von Menschen oder Tieren oder zur Anwendung in einem Diagnostizierverfahren bei Menschen oder Tieren bestimmt sind (vgl. § 2a Abs. 1 Nr. 2 Satz 2 PatG) und ihre Anwendung zu diesem Zweck nicht bekannt war (§ 3 Abs. 3 PatG). Gleiches gilt entsprechend § 3 Abs. 4 PatG für eine neue Anwendung dieser Stoffe (zweite medizinische Indikation).",
+   "fussnoten": [
+    {
+     "nr": 22,
+     "text": "BGH GRUR 1984, 797 Zinkenkreisel"
+    },
+    {
+     "nr": 23,
+     "text": "BGH GRUR 2015, 472 Stabilisierung der Wasserqualität"
+    },
+    {
+     "nr": 24,
+     "text": "BGH GRUR 2014, 758 Proteintrennung und BGH GRUR 2008, 382 Olanzapin"
+    },
+    {
+     "nr": 25,
+     "text": "BGH GRUR 2016, 166 PALplus"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.2.4",
+   "titel": "Erfinderische Tätigkeit (§ 4 PatG)",
+   "ebene": 5,
+   "seite": 13,
+   "text": "Die Erfindung muss auf einer erfinderischen Tätigkeit beruhen. Dazu darf sie sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergeben (§ 4 PatG). Die Prüfungsstelle muss zunächst den Stand der Technik ermitteln, der dem einschlägigen Durchschnittsfachmann vor dem für den Zeitrang der Anmeldung maßgeblichen Tag zur Verfügung stand. Hiervon ausgehend ist in Verbindung mit dem Fachkönnen des Durchschnittsfachmanns unter Vermeidung einer rückschauenden Betrachtungsweise zu beurteilen, ob sich der Erfindungsgegenstand für diesen Durchschnittsfachmann (zum Anmelde- bzw. Prioritätstag) in naheliegender Weise ergibt. Der zuständige Fachmann ist derjenige, dem man die zu lösende Aufgabe oder das technische Problem normalerweise übertragen würde. Liegen die ermittelten Kenntnisse auf einem anderen Fachgebiet, ist es fraglich, ob diese dem Wissen des einschlägigen Durchschnittsfachmanns zugerechnet werden dürfen. Allerdings kann der Fachmann regelmäßig einen weiteren Fachmann hinzuziehen. [26] Auch ein Team von Fachleuten kann zur Beurteilung des Naheliegens herangezogen werden. [27] Der Fachmann zum Beurteilen des Naheliegens ist dabei nicht der Anwender, sondern der Entwickler eines Gegenstands und muss üblicherweise definiert werden. [28] Ob eine erfinderische Tätigkeit vorliegt, hängt immer vom konkreten Einzelfall ab. Die Rechtsprechung hat für diese wertende Entscheidung keine allgemeingültigen Einzelmerkmale entwickelt, aus denen zwingend in anderen Fällen auf die erfinderische Tätigkeit geschlossen werden könnte. Entscheidungen in vergleichbaren Fällen können nur Anhaltspunkte geben. Das Naheliegen setzt voraus, dass der Fachmann mit seinen Kenntnissen und Fähigkeiten in der Lage gewesen ist, den Gegenstand der Erfindung aus dem bekannten Stand der Technik zu entwickeln. Zusätzlich muss er eine Veranlassung gehabt haben, die Lösung gemäß der Erfindung zu wählen. [29] Eine neue Lehre zum technischen Handeln kann nicht schon als nicht auf einer erfinderischen Tätigkeit beruhend angesehen werden, weil lediglich keine Hinderungsgründe vorliegen, um von dem aus dem Stand der Technik Bekanntem zum Gegenstand dieser Lehre zu gelangen. Diese Wertung setzt vielmehr voraus, dass das Bekannte dem Fachmann Anlass oder Anregung gab, zu der vorgeschlagenen Lehre zu gelangen. [30] Gehört eine maschinenbautechnische Lösung als generelles, für eine Vielzahl von Anwendungsfällen in Betracht zu ziehendes Mittel zum allgemeinen Fachwissen des angesprochenen Ingenieurs, kann Veranlassung zu ihrer Heranziehung bereits bestehen, wenn sich die Nutzung ihrer Funktionalität in dem zu beurteilenden Zusammenhang als objektiv zweckmäßig darstellt. Es sei denn, besondere Umstände sind feststellbar, die eine Anwendung aus fachlicher Sicht als nicht möglich, mit Schwierigkeiten verbunden oder sonst ausgeschlossen erscheinen lassen. [31] Dabei ist aber zu beachten, dass eine generelle Eignung eines zum allgemeinen Fachwissen zählenden Lösungsmittels nur dann als Veranlassung zu seiner Heranziehung genügen kann, wenn für den Fachmann ohne weiteres erkennbar ist, dass eine technische Ausgangslage besteht, in der sich der Einsatz des betreffenden Lösungsmittels als objektiv zweckmäßig darstellt. [32] Denn der Umstand, dass die Kenntnis eines technischen Sachverhalts zum allgemeinen Fachwissen gehört, belegt noch nicht, dass es für den Fachmann nahegelegen hat, sich bei der Lösung eines bestimmten technischen Problems dieser Kenntnis zu bedienen. [33] Hilfskriterien (früher: „Beweisanzeichen“) können lediglich im Einzelfall Anlass geben, bekannte Lösungen besonders kritisch darauf zu überprüfen, ob sie vor dem Hintergrund des allgemeinen Fachwissens hinreichende Anhaltspunkte für ein Naheliegen der Erfindung bieten und nicht erst aus ex-post-Sicht eine zur Erfindung führende Anregung zu enthalten scheinen. [34] Solche Hilfskriterien für das Vorliegen einer erfinderischen Tätigkeit sind z. B. eine sprunghafte Weiterentwicklung, die Überwindung technischer Vorurteile, vergebliche Bemühungen von Fachleuten in der Vergangenheit, die Befriedigung eines lange bestehenden Bedürfnisses, ein einfacher und billiger Weg zur Herstellung von Massenartikeln, die Verbilligung von Fertigungsmethoden oder synergistische Effekte der Einzelmerkmale. Die aggregative Aneinanderreihung für sich jeweils nicht erfinderischer Maßnahmen ist jedoch naheliegend und begründet keine erfinderische Tätigkeit. Dies gilt auch für das ausschließliche Ignorieren von bestehenden Bedenken der Fachwelt und das damit verbundene Inkaufnehmen tatsächlicher oder unvorhersehbar verbundener Nachteile. [35] Auch eine nahezu völlig willkürliche und beliebige Auswahl aus einem bekannten Bereich oder die Auswahl aus mehreren, dem Fachmann bekannten Alternativen eignet sich nicht zum Begründen einer erfinderischen Tätigkeit. [36] Anmeldungen mit älterem Zeitrang haben bei der Beurteilung der erfinderischen Tätigkeit außer Betracht zu bleiben (§ 4 Satz 2 PatG). Bei der Prüfung des Anspruchs ist – unabhängig ob dieser ein- oder zweiteilig formuliert vorliegt – immer von der Kombination aller Merkmale auszugehen. Eine zergliedernde Betrachtungsweise ist unzulässig. Bei der Prüfung der Erfindung auf erfinderische Tätigkeit sind nur diejenigen Anweisungen zu berücksichtigen, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder zumindest beeinflussen. [37] Die Prüfungsstelle muss sich bei der Prüfung auf Patentfähigkeit immer bewusst sein, dass sie den zu prüfenden Gegenstand bereits kennt, während sie beurteilt, ob dieser für den Fachmann am Anmeldetag bzw. Prioritätstag nahegelegen hat. Anderenfalls liegt eine nichtzulässige rückschauende Betrachtungsweise vor.",
+   "fussnoten": [
+    {
+     "nr": 26,
+     "text": "BGH GRUR 2010, 41 Diodenbeleuchtung"
+    },
+    {
+     "nr": 27,
+     "text": "BGH GRUR 2012, 482 Pfeffersäckchen"
+    },
+    {
+     "nr": 28,
+     "text": "BGH GRUR 2009, 1039 Fischbissanzeiger"
+    },
+    {
+     "nr": 29,
+     "text": "BGH GRUR 2012, 378 Installiereinrichtung II"
+    },
+    {
+     "nr": 30,
+     "text": "BGH GRUR 2010, 407 Einteilige Öse"
+    },
+    {
+     "nr": 31,
+     "text": "BGH GRUR 2014, 647 Farbversorgungssystem"
+    },
+    {
+     "nr": 32,
+     "text": "BGH GRUR 2018, 716 Kinderbett"
+    },
+    {
+     "nr": 33,
+     "text": "BGH GRUR 2009, 743 Airbag-Auslösesteuerung"
+    },
+    {
+     "nr": 34,
+     "text": "BGH GRUR 2010, 44 Dreinahtschlauchfolienbeutel"
+    },
+    {
+     "nr": 35,
+     "text": "BGH GRUR 1996, 857 Rauchgasklappe"
+    },
+    {
+     "nr": 36,
+     "text": "BGH GRUR 2004, 47, Leitsatz 3 Blasenfreie Gummibahn I und BGH GRUR 2008, 56 Injizierbarer Mikroschaum"
+    },
+    {
+     "nr": 37,
+     "text": "BGH GRUR 2011, 125 Wiedergabe topografischer Informationen und BGH GRUR 2013, 275 Routenplanung"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.2.5",
+   "titel": "Gewerbliche Anwendbarkeit (§ 5 PatG)",
+   "ebene": 5,
+   "seite": 14,
+   "text": "Die gewerbliche Anwendbarkeit liegt vor, wenn die Herstellung oder Benutzung des Erfindungsgegenstands auf irgendeinem gewerblichen Gebiet einschließlich der Landwirtschaft möglich ist. Dies ist der Fall, wenn der Gegenstand in einem Gewerbebetrieb hergestellt wird oder technische Verwendung in einem Gewerbe finden kann.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.3.3.2.6",
+   "titel": "Recherche im Prüfungsverfahren",
+   "ebene": 5,
+   "seite": 14,
+   "text": "Mit der Recherche soll der relevante Stand der Technik so ermittelt werden, dass damit die Patentfähigkeit der angemeldeten Erfindung beurteilt werden kann. Gegenstand der Recherche ist die in den Patentansprüchen angegebene Erfindung. Die Beschreibung und die Zeichnungen sind zur Auslegung der Patentansprüche heranzuziehen. Die Recherche erstreckt sich auf die Gegenstände sämtlicher unabhängiger und abhängiger Patentansprüche. Verantwortlich für die Recherche ist die für die Hauptklasse zuständige Prüfungsstelle. Die Prüfungsstelle hat sich bei der Recherche der vorhandenen technischen Hilfsmittel sowie der durch diese verfügbaren Informationsquellen zu bedienen, soweit dies erfolgversprechend und im Hinblick auf den Aufwand vertretbar erscheint. Die Vorgaben aus Ziffer 5 der Richtlinien für die Durchführung der Recherche nach § 43 PatG (Rechercherichtlinien) betreffend die Nutzung externer elektronischer Recherchequellen gelten auch für die Recherche im Rahmen des Prüfungsverfahrens. Zeigt sich, dass ein unverhältnismäßig großer Arbeitsaufwand für eine nur noch geringe Verbesserung des bisher erzielten Rechercheergebnisses erforderlich wäre, ist die Recherche zu beenden. Um überflüssige Bescheide und damit eine Verlängerung des Verfahrens zu vermeiden, sollte die Recherche für alle vorgelegten Patentansprüche abschließend in einem Arbeitsgang entweder im Rahmen der Recherche nach § 43 PatG oder bei Stellen des Prüfungsantrags nach § 44 PatG vor dem Erstellen des Erstbescheids durchgeführt werden. Hier ist zu bedenken, dass eine Recherche vor Ablauf von 6 Monaten nach Anmeldetag wegen eines möglicherweise systemseitig fehlenden Stands der Technik zu fehlerhaften Ergebnissen führen kann. Gibt der Anmelder in seinen Beschreibungsunterlagen keinen konkreten Stand der Technik an, hat er nach § 34 Abs. 7 PatG auf Verlangen des Deutschen Patent- und Markenamts den ihm bekannten Stand der Technik anzugeben und in die Beschreibung aufzunehmen. Nicht am Verfahren beteiligte Dritte können Druckschriften angeben, die der Erteilung eines Patents entgegenstehen könnten (vgl. §§ 44 Abs. 3 Satz 3, 43 Abs. 3 Satz 2 PatG). Diese sind im Sinne einer möglichst effizienten Verfahrensführung regelmäßig mitsamt dem sie begleitenden Schriftsatz dem Anmelder alsbald nach Eingabe von Amts wegen zu übersenden. Die weitere Berücksichtigung erfolgt im Prüfungsverfahren im Rahmen der Amtsermittlung. Wegen der Recherche bei uneinheitlichen Anmeldungen wird auf den Abschnitt 2.3.3.4. verwiesen.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.3.3.3",
+   "titel": "Änderung der Unterlagen/unzulässige Erweiterung (§ 38 PatG)",
+   "ebene": 4,
+   "seite": 15,
+   "text": "Bis zum Beschluss über die Erteilung des Patents sind Änderungen der ursprünglichen Anmeldungsunterlagen zulässig, die den Gegenstand der Anmeldung nicht erweitern. Vor Stellung des Prüfungsantrags nach § 44 PatG ist dies jedoch nur zulässig, soweit es sich um die Berichtigung offensichtlicher Unrichtigkeiten, um die Beseitigung der von der Prüfungsstelle bezeichneten Mängel oder um Änderungen der Patentansprüche handelt. Aus Änderungen, die den Gegenstand der Anmeldung unzulässig erweitern, können gemäß § 38 Satz 2 PatG keine Rechte hergeleitet werden. Werden solche Änderungen vom Anmelder nicht vollständig gestrichen, ist die gesamte Anmeldung zurückzuweisen. Für die Frage der Offenbarung der Erfindung ist nicht entscheidend, ob etwas in der Beschreibung gegenüber gleichzeitig offenbarten anderen Lösungen als vorteilhaft, zweckmäßig oder bevorzugt bezeichnet ist. Die besondere Hervorhebung oder Betonung, etwa als Gegenstand einer Ausführungsform oder eines Beispiels, oder die Kennzeichnung als vorteilhaft, zweckmäßig oder bevorzugt, erleichtern lediglich die Erkenntnis, dass das betreffende Merkmal oder die engere Lehre als zu der beanspruchten Erfindung gehörend offenbart ist. Das Fehlen solcher Kriterien schließt hingegen solche Offenbarungen nicht aus. [38] Inhalt der ursprünglichen Anmeldung ist das, was der Durchschnittsfachmann den ursprünglichen Unterlagen als zur angemeldeten Erfindung gehörig entnehmen kann. Entscheidend ist, ob die ursprüngliche Offenbarung für den Durchschnittsfachmann erkennen ließ, der geänderte Lösungsvorschlag solle von vornherein von dem Schutzbegehren umfasst werden. [39] Die Ermittlung des Gesamtinhalts der Erstunterlagen hat mit den Augen des gleichen Fachmanns zu erfolgen, der auch die Patentfähigkeit beurteilt. [40] Zum Offenbarungsgehalt einer Patentanmeldung gehört nur das, was den ursprünglichen Unterlagen „unmittelbar und eindeutig“ zu entnehmen ist, nicht hingegen eine weitergehende Erkenntnis, zu der der Fachmann auf Grund seines allgemeinen Fachwissens oder durch Abwandlung der offenbarten Lehre gelangen kann. Eine unzulässige Erweiterung liegt vor, wenn der Gegenstand des Patents sich für den Fachmann erst auf Grund eigener, von seinem Fachwissen getragenen Überlegungen ergibt, nachdem er die ursprünglichen Unterlagen zur Kenntnis genommen hat. [41] Die Offenbarung ist nicht auf die Gegenstände der in der Anmeldung formulierten Patentansprüche beschränkt. Entscheidend ist vielmehr, was der Gesamtheit der ursprünglichen Unterlagen als zur angemeldeten Erfindung gehörend zu entnehmen ist. Innerhalb dieser Vorgaben können die Patentansprüche bis zur Erteilung auch weiter gefasst werden als in der Anmeldung. [42] Ist den ursprünglichen Unterlagen der Patentanmeldung zu entnehmen, dass ein Erzeugnis bestimmte Bestandteile „enthalten“ soll, ist damit nicht ohne weiteres auch als zur Erfindung gehörend offenbart, dass ihm keine weiteren Bestandteile hinzugefügt werden dürfen. Für die Offenbarung, dass es zur Erfindung gehört, dass das Erzeugnis ausschließlich aus den genannten Bestandteilen „besteht“, bedarf es vielmehr in der Regel darüber hinausgehender Anhaltspunkte in den ursprünglichen Unterlagen, wie etwa des Hinweises, dass das ausschließliche Bestehen des Erzeugnisses aus den genannten Bestandteilen besondere Vorteile hat oder sonst erwünscht ist. [43]",
+   "fussnoten": [
+    {
+     "nr": 38,
+     "text": "BGH GRUR 1990, 510 Crackkatalysator"
+    },
+    {
+     "nr": 39,
+     "text": "BGH Mitt 1996, 204 Spielfahrbahn"
+    },
+    {
+     "nr": 40,
+     "text": "BGH GRUR 1981, 812 Etikettiermaschine"
+    },
+    {
+     "nr": 41,
+     "text": "BGH GRUR 2015, 549 Schleifprodukt und BGH GRUR 2010, 509 Hubgliedertor I"
+    },
+    {
+     "nr": 42,
+     "text": "BGH GRUR 2010, 910 Fälschungssicheres Dokument und BGH GRUR 2005, 1023 Einkaufswagen II"
+    },
+    {
+     "nr": 43,
+     "text": "BGH GRUR 2011, 1109 Reifenabdichtmittel"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.4",
+   "titel": "Prüfung der Einheitlichkeit und Ausscheidung",
+   "ebene": 4,
+   "seite": 16,
+   "text": "Eine Anmeldung darf nur eine einzige Erfindung enthalten oder eine Gruppe von Erfindungen, die untereinander in der Weise verbunden sind, dass sie eine einzige allgemeine erfinderische Idee verwirklichen (§ 34 Abs. 5 PatG). Dadurch werden zum einen mit Blick auf Rechtssicherheit und Recherchierbarkeit übersichtliche, gut dokumentierte Schutzrechte geschaffen und zum anderen wird einer missbräuchlichen Vermeidung von Gebühren vorgebeugt. Die Uneinheitlichkeit ist danach zu beurteilen, ob nach dem technologischen Zusammenhang und der Übersichtlichkeit des Erfindungskomplexes eine Behandlung in verschiedenen Verfahren geboten erscheint. [44] Wird Uneinheitlichkeit festgestellt, so ist diese Beanstandung konkret zu begründen. Selbst wenn die Uneinheitlichkeit bereits ohne Bezugnahme auf den Stand der Technik erkennbar, also sozusagen offensichtlich ist, ist zur Patentfähigkeit des Anmeldungsgegenstandes sachlich Stellung zu nehmen und der hierfür in Betracht zu ziehende Stand der Technik zu nennen. Allerdings steht einem Anmelder – da für jede Erfindung eine besondere Anmeldung erforderlich ist – nur für einen der als uneinheitlich festgestellten Gegenstände eine sachliche Prüfung zu, wenn auch die Nennung weiteren Materials zu den übrigen Gegenständen aus verfahrensökonomischen Gründen zweckmäßig ist. [45] Die Prüfungsstelle fordert den Anmelder unter Hinweis auf die Möglichkeit der Zurückweisung auf, die Einheitlichkeit durch eine Ausscheidungserklärung oder durch Verzicht auf den uneinheitlichen Teil herzustellen. Mit der Ausscheidungserklärung ist der Mangel der fehlenden Einheitlichkeit derart zu beseitigen, dass eindeutig ist, was in der Stammanmeldung verbleibt. Der Gegenstand der Ausscheidungsanmeldung darf nicht über den Offenbarungsgehalt der Stammanmeldung hinausgehen. Ist die Ausscheidungserklärung unbestimmt, ist der Anmelder unter Fristsetzung zur Klarstellung aufzufordern. Unterbleibt eine Klarstellung, ist die Stammanmeldung zurückzuweisen. Die Ausscheidung eines Anmeldungsteils führt zur sofortigen verfahrensrechtlichen Verselbständigung der Ausscheidungsanmeldung, die in der Lage des Verfahrens weiter zu behandeln ist, in der sich die Stammanmeldung zur Zeit der Ausscheidung befand. [46] Eine analoge Anwendung des § 39 PatG auf die Ausscheidung kommt nicht in Betracht. Abgesehen davon, dass die Ausscheidungsanmeldung mit Eingang der Ausscheidungserklärung entsteht, ist sie wie eine reguläre Anmeldung zu behandeln, so dass die allgemeinen gebührenrechtlichen Bestimmungen maßgeblich sind. Hieraus folgt, dass der in § 3 Abs. 1 Satz 1 PatKostG genannte Fälligkeitszeitpunkt der „Einreichung der Anmeldung“ mit dem Eingang der Ausscheidungserklärung verwirklicht ist und zu diesem Zeitpunkt die Fälligkeit der Anmeldegebühr eintritt. [47] Für die Höhe der Anmeldegebühr ist die Form der Einreichung der Ausscheidungserklärung (elektronisch oder Papier) und die konkrete Anspruchszahl der Ausscheidungsanmeldung zum Zeitpunkt der Fälligkeit maßgeblich, wobei die Anmeldegebühr innerhalb von 3 Monaten ab Fälligkeit zu zahlen ist (§ 6 Abs. 1 Satz 2 PatKostG). Wird die Anmeldegebühr nicht, nicht rechtzeitig oder nicht vollständig gezahlt, gilt die Ausscheidungsanmeldung als zurückgenommen (vgl. § 6 Abs. 2 PatKostG). Dies hat zur Folge, dass der ausgeschiedene Teil nicht in die Stammanmeldung zurückfällt und daher in der Stammanmeldung nicht mehr beansprucht werden kann. Da die Ausscheidungsanmeldung in der Verfahrenslage weitergeführt wird, in der sich die Stammanmeldung zum Zeitpunkt der Ausscheidung befand, sind mit der Ausscheidungsanmeldung nicht nur die Anmeldegebühr, sondern ggf. weitere Gebühren wie die Prüfungsgebühr und Jahresgebühren zu entrichten. Sofern in der Stammanmeldung bereits ein Prüfungsantrag gestellt wurde, ist die Prüfungsgebühr mit Eingang der Ausscheidungserklärung auch für die Ausscheidungsanmeldung fällig und innerhalb der Frist des § 44 Abs. 2 Satz 2 und 3 PatG von 3 Monaten ab Fälligkeit, maximal 7 Jahre nach Einreichung der Anmeldung, zu zahlen. [48] Für den Fall, dass die Prüfungsgebühr nicht oder nicht vollständig innerhalb der Frist gezahlt wird, gilt der Prüfungsantrag als zurückgenommen (§ 6 Abs. 2 PatKostG); zu einer Rücknahmefiktion hinsichtlich der Ausscheidungsanmeldung führt die Nichtzahlung der Prüfungsgebühr indessen nicht. Die ebenfalls mit Eingang der Ausscheidungserklärung fällig werdenden Jahresgebühren für den Zeitraum vor dem Entstehen der Ausscheidungsanmeldung können gemäß § 7 Abs. 1 PatKostG bis zum Ablauf des zweiten Monats nach Fälligkeit ohne Verspätungszuschlag und bis zum Ablauf des sechsten Monats nach Fälligkeit mit Verspätungszuschlag gezahlt werden. Andernfalls gilt die Ausscheidungsanmeldung als zurückgenommen (§ 6 Abs. 2 PatKostG). Im Verfahren der Ausscheidungsanmeldung hat der Anmelder wie im Verfahren der Stammanmeldung neue Anmeldungsunterlagen einzureichen. Reicht er sie nicht innerhalb der von der Prüfungsstelle hierzu gesetzten Frist ein, ist die Ausscheidungsanmeldung zurückzuweisen. Die bisherigen Verfahrenshandlungen in der Stammakte sind auch Bestandteil der Ausscheidungsakte.",
+   "fussnoten": [
+    {
+     "nr": 44,
+     "text": "BGH GRUR 1979, 619 Tabelliermappe"
+    },
+    {
+     "nr": 45,
+     "text": "BPatG Mitt 1978, 15"
+    },
+    {
+     "nr": 46,
+     "text": "BGH GRUR 1986, 877 Kraftfahrzeuggetriebe"
+    },
+    {
+     "nr": 47,
+     "text": "BPatG GRUR 2006, 791"
+    },
+    {
+     "nr": 48,
+     "text": "BPatG GRUR 2006, 791"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.5",
+   "titel": "Freie Teilung der Anmeldung (§ 39 Abs. 1 PatG)",
+   "ebene": 4,
+   "seite": 17,
+   "text": "Der Anmelder kann seine Anmeldung jederzeit durch schriftliche Erklärung teilen und zwar bis zum Ablauf der Frist für die Beschwerde gegen den Patenterteilungsbeschluss. [49] Bei unbestimmten Teilungserklärungen ist dem Anmelder zur Klarstellung eine kurze Frist zu setzen. Die Dreimonatsfrist des § 39 Abs. 3 PatG bleibt hiervon unberührt. Für jede Teilanmeldung bleiben der Zeitrang der ursprünglichen Anmeldung und eine dafür in Anspruch genommene Priorität erhalten. Werden für die abgetrennte Anmeldung die nach den §§ 34 bis 36 PatG erforderlichen Anmeldungsunterlagen nicht innerhalb von drei Monaten nach Eingang der Teilungserklärung eingereicht oder werden die nach § 39 Abs. 2 PatG fälligen Gebühren für die abgetrennte Anmeldung nicht innerhalb dieser Frist entrichtet, so gilt die Teilungserklärung als nicht abgegeben (§ 39 Abs. 3 PatG). Die bisherigen Verfahrenshandlungen in der Stammakte sind auch Bestandteil der Teilungsakte.",
+   "fussnoten": [
+    {
+     "nr": 49,
+     "text": "BGH GRUR 2000, 688 Graustufenbild"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.6",
+   "titel": "Patentansprüche, Patentkategorie",
+   "ebene": 4,
+   "seite": 17,
+   "text": "Eine Anmeldung muss einen oder mehrere Patentansprüche enthalten, in denen angegeben ist, was als patentfähig unter Schutz gestellt werden soll (§ 34 Abs. 3 Nr. 3 PatG). Nach § 9 Abs. 1 PatV können die Patentansprüche einteilig oder in Oberbegriff und kennzeichnenden Teil gegliedert (zweiteilig) sein. In beiden Fällen kann die Fassung nach Merkmalen gegliedert sein. Wird die zweiteilige Anspruchsfassung gewählt, ist zur Bildung des Oberbegriffs regelmäßig nur vom Inhalt einer einzigen Druckschrift oder von einem einzigen der Öffentlichkeit zugänglich gemachten Gegenstand auszugehen. In den kennzeichnenden Teil des Anspruchs sind die Merkmale der Erfindung aufzunehmen, für die in Verbindung mit den Merkmalen im Oberbegriff Schutz begehrt wird. Der kennzeichnende Teil ist mit den Worten „dadurch gekennzeichnet, dass“ oder „gekennzeichnet durch“ oder durch eine sinngemäße Wendung einzuleiten.\nZu prüfen ist bei der zweiteiligen Anspruchsfassung ebenfalls der gesamte Anspruch, bestehend aus Oberbegriff und Kennzeichen, so dass bezüglich des zu prüfenden Anspruchsgegenstands kein Unterschied zwischen ein- und zweiteiliger Fassung vorliegt. Eine Anmeldung kann nicht deshalb als formal unzulässig zurückgewiesen werden, weil der Oberbegriff eines in Oberbegriff und kennzeichnenden Teil gegliederten Patentanspruchs nicht nach Maßgabe einer vorveröffentlichten Druckschrift oder eines sonstigen im Stand der Technik bekannten Gegenstandes gebildet worden ist, der nach Auffassung der Erteilungsbehörde dem Anmeldungsgegenstand „näher“ steht oder aus sonstigen Gründen zur Bildung des Oberbegriffs „besser“ geeignet erscheint als der vom Anmelder bezeichnete Gegenstand des Schutzbegehrens. [50] Nach § 14 PatG ist der Inhalt der Patentansprüche für den Schutzbereich des Patents maßgebend. Ein nur in der Beschreibung dargestellter Erfindungsbereich, der nicht hinreichend deutlich in einen Patentanspruch einbezogen ist, ist nicht unter Schutz gestellt. [51] Der Erfindungsgedanke sollte daher so abstrakt beschrieben werden, dass sämtliche denkbaren bzw. vom Anmelder gewünschten Ausführungen von ihm umfasst werden. Grenzen sind hier jedoch die ursprüngliche Offenbarung und der Stand der Technik. Bei der Abfassung von Patentansprüchen ist zwischen den Interessen des Anmelders und der Öffentlichkeit abzuwägen. Einerseits hat der Anmelder Anspruch auf eine möglichst umfassende Rechtsgewährung, andererseits soll durch eine klare Festlegung des Gegenstands im Prüfungsverfahren Rechtssicherheit für die Öffentlichkeit hergestellt werden. [52] Nicht notwendige Lösungsmerkmale sind möglichst nicht in den Hauptanspruch aufzunehmen, das heißt die Umschreibung sollte mit möglichst wenigen Merkmalen erfolgen. Eine konkrete Umschreibung anhand der verwirklichten Ausführung birgt immer die Gefahr einer zu weitgehenden Einengung des Schutzbereichs. Eine Grenze für Verallgemeinerungen wird dadurch gezogen, dass die geschützte Lehre eindeutig identifizierbar sein muss. Hierzu kann jedoch die Beschreibung zur Auslegung des Anspruchsgegenstands herangezogen werden. Zur Auslegung des Anspruchs ist die Gesamtheit der Anmeldungsunterlagen darauf zu untersuchen, ob die in den Patentansprüchen verwendeten Begriffe und beschriebenen Maßnahmen dort näher erläutert werden. [53] Der Hauptanspruch muss die wesentlichen Merkmale der Erfindung enthalten (vgl. § 9 Abs. 4 PatV). An den Hauptanspruch können sich Unteransprüche anschließen, die sich auf Ausgestaltungen bzw. spezielle Ausführungen beziehen. Zusätzliche unabhängige Patentansprüche (Nebenansprüche) sind zulässig, wenn der Grundsatz der Einheitlichkeit gewahrt ist. Unteransprüche mit Kategoriewechsel (z. B. Vorrichtung zur Durchführung eines Verfahrens) haben eine nebengeordnete Bedeutung. Sie sind daher einer gesonderten Prüfung auf Patentfähigkeit zu unterziehen. Im Erteilungsverfahren ist grundsätzlich nur der Gegenstand des Patents und damit der geschützte Gegenstand, nicht aber der Schutzumfang begrifflich festzulegen. [54] Product-by-process-Ansprüche („Stoff erhältlich durch“) sind zulässig. Dies gilt insbesondere bei chemischen Stoffen, wenn weder die Strukturformel des Stoffes bekannt ist, noch der Stoff durch feststellbare Charakteristika identifiziert werden kann. Zweck-, Wirkungs- oder Funktionsangaben zur Kennzeichnung einer Vorrichtung sind nicht generell unzulässig. Oft sind sie sogar notwendig, um die angegebenen baulichen Merkmale in einen durchschaubaren Zusammenhang zu bringen. [55] Durch den im Patentanspruch enthaltenden Hinweis auf die Eignung einer Vorrichtung bzw. Maschine für einen bestimmten Zweck kann dem Fachmann gesagt werden, wie er die einzelnen Merkmale der Vorrichtung räumlich-geometrisch ausgestalten soll, um sie für die genannte Funktion benutzen zu können. In diesem Fall sind sie als merkmalsbegründend anzusehen. [56] Eine in einem Sachanspruch enthaltene Zweck- oder Funktionsangabe für eine beanspruchte Vorrichtung bringt regelmäßig zum Ausdruck, dass die Vorrichtung für den genannten Zweck oder die genannte Funktion objektiv geeignet sein muss. Damit richtet sich der Sachanspruch auf eine Vorrichtung, mit der die genannten Zwecke oder Funktionen realisiert werden können. Zweck- und Funktionsangaben in einem Sachanspruch beschränken dessen Gegenstand regelmäßig nicht auf den angegebenen Zweck oder die angegebene Funktion. Sie sind aber gleichwohl nicht bedeutungslos. Sie definieren den Gegenstand des Patentanspruchs regelmäßig dahin, neben der Erfüllung der weiteren räumlich-körperlichen Merkmale auch so ausgebildet zu sein, dass er für den im Patentanspruch angegebenen Zweck verwendet werden oder die angegebene Funktion erfüllen kann. [57] Fakultative Merkmale wie „insbesondere, vorzugsweise oder zum Beispiel“ sind in allen Ansprüchen grundsätzlich zulässig. Sie wirken nicht einschränkend auf den beanspruchten Gegenstand des jeweiligen Anspruchs und sind für die Patentprüfung des unter Schutz zu stellenden Gegenstands nicht relevant. Patente können Erzeugnisse (Gegenstände, Vorrichtungen, Stoffe) oder Verfahren betreffen. Maßgebend für die Einordnung einer Erfindung in diese verschiedenen Patentkategorien – und damit für die Abfassung der Patentansprüche – ist der nach objektiven Gesichtspunkten zu beurteilende sachliche Offenbarungsinhalt der Anmeldung. Die an sich freie Wahl des Anmelders bezüglich der Kategorie der Ansprüche ist hierdurch begrenzt. Merkmale verschiedener Patentkategorien sollten im Hinblick auf die Schaffung eindeutiger Schutzrechte nach Möglichkeit nicht in einen einzigen Anspruch aufgenommen werden. Bei Herstellungsverfahren muss der Patentanspruch die Angabe des Ausgangsmaterials und die zeitliche Aufeinanderfolge der Einwirkungen auf das Ausgangsmaterial zum Erhalt eines definierten Endprodukts enthalten. Zusätzliche Vorrichtungsmerkmale, die den Verfahrensablauf verdeutlichen, sind zuzulassen. Arbeitsverfahren unterscheiden sich von den Herstellungsverfahren dadurch, dass sie nicht auf ein verändertes Endprodukt zielen (z. B. Messen, Fördern). Auch Verwendungsansprüche zählen zur Kategorie der Verfahrensansprüche. Sie sind auf den Schutz des Einsatzes einer zumeist bekannten Sache (Stoff, Vorrichtung) zum Erzielen einer bestimmten Wirkung bzw. eines bestimmten Endproduktes gerichtet.",
+   "fussnoten": [
+    {
+     "nr": 50,
+     "text": "BGH GRUR 1986, 237 Hüftgelenkprothese"
+    },
+    {
+     "nr": 51,
+     "text": "BGH GRUR 1987, 626 Rundfunkübertragungssystem"
+    },
+    {
+     "nr": 52,
+     "text": "BGH GRUR 1988, 757 Düngerstreuer"
+    },
+    {
+     "nr": 53,
+     "text": "BGH GRUR 1980, 984 Tomograph"
+    },
+    {
+     "nr": 54,
+     "text": "BGH GRUR 1988, 757 Düngerstreuer"
+    },
+    {
+     "nr": 55,
+     "text": "BGH GRUR 1972, 707 Streckwalze"
+    },
+    {
+     "nr": 56,
+     "text": "BGH GRUR 1981, 259 Heuwerbungsmaschine II und BGH GRUR 1979, 149 Schießbolzen"
+    },
+    {
+     "nr": 57,
+     "text": "BGH GRUR 2018, 1128 Gurtstraffer"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.7",
+   "titel": "Anmeldungen mit Inanspruchnahme einer Priorität",
+   "ebene": 4,
+   "seite": 18,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.3.3.7.1",
+   "titel": "Innere Priorität",
+   "ebene": 5,
+   "seite": 18,
+   "text": "Für die Anmeldung einer Erfindung zum Patent kann die Priorität einer oder mehrerer früherer deutscher Patent- oder Gebrauchsmusteranmeldungen derselben Erfindung in Anspruch genommen werden (innere Priorität). Dies gilt dann, wenn die Patentanmeldung innerhalb einer Frist von 12 Monaten nach dem Anmeldetag der früheren Anmeldung angemeldet wird und für die frühere Anmeldung nicht schon eine inländische oder ausländische Priorität in Anspruch genommen worden ist (siehe § 40 Abs. 1 PatG). Allerdings besteht auch die Möglichkeit, aus einer Nachanmeldung die Priorität für eine zweite Nachanmeldung in Anspruch zu nehmen, und zwar hinsichtlich der Merkmale, die noch nicht in der Erstanmeldung enthalten waren, sondern erst durch die erste Nachanmeldung offenbart worden sind, sofern Erfindungsidentität vorliegt. Insoweit ist Art. 4 F Pariser Verbandsübereinkunft (PVÜ) entsprechend anzuwenden, so dass die zweite Nachanmeldung hinsichtlich der neu eingeführten Merkmale ein neues Prioritätsrecht entstehen lässt. Allerdings gilt dann die erste Nachanmeldung ebenso wie die Erstanmeldung als zurückgenommen (§ 40 Abs. 5 PatG). Die Prioritätserklärung ist unter Angabe des Aktenzeichens der früheren Anmeldung innerhalb von 2 Monaten nach dem Anmeldetag der späteren Anmeldung abzugeben (§ 40 Abs. 4 PatG).\nIst die frühere Anmeldung, deren Priorität in Anspruch genommen wird, noch beim Deutschen Patent- und Markenamt anhängig, gilt sie mit der Abgabe der Prioritätserklärung als zurückgenommen (§ 40 Abs. 5 PatG). Die Fiktion der Rücknahme kann gemäß Art. III § 4 Abs. 4 des Gesetzes über internationale Patentübereinkommen (IntPatÜbkG) auch dann eintreten, wenn die Priorität für eine internationale Anmeldung nach dem Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens (PCT) in Anspruch genommen wird, in der die Bundesrepublik Deutschland für ein Patent bestimmt oder ausgewählt worden ist. In diesem Fall tritt die Rücknahmefiktion für die frühere Anmeldung – neben weiteren Voraussetzungen – erst nach dem Ablauf der 31-Monatsfrist nach Art. III § 4 Abs. 4 i. V. m. Abs. 2 Satz 1 IntPatÜbkG ein, es sei denn, dass ein ausdrücklicher Antrag auf vorzeitige Prüfung und Bearbeitung gemäß Art. 23 Abs. 2 oder Art 40 Abs. 2 PCT gestellt wurde. Es liegt im Ermessen der Prüfungsstelle, ob sie die frühere Anmeldung bearbeitet oder den Eintritt der Rücknahmefiktion abwartet. Ob die förmlichen Wirksamkeitsvoraussetzungen der Inanspruchnahme einer inneren Priorität vorliegen, kann im Verfahren der Nachanmeldung vorab entschieden werden; [58] über den Eintritt der Rücknahmefiktion kann im Verfahren der Voranmeldung entschieden werden. [59]",
+   "fussnoten": [
+    {
+     "nr": 58,
+     "text": "BPatG BPatGE 25/74"
+    },
+    {
+     "nr": 59,
+     "text": "BPatG BPatGE 25/41"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.7.2",
+   "titel": "Äußere Priorität",
+   "ebene": 5,
+   "seite": 19,
+   "text": "Für eine beim DPMA hinterlegte Patentanmeldung kann auch die Priorität einer ausländischen Voranmeldung in Anspruch genommen werden, die in einem Vertragsstaat der PVÜ oder nach einem entsprechenden anderen Staatsvertrag rechtswirksam eingereicht worden ist (Unionspriorität, § 41 Abs. 1 PatG). Darüber hinaus kann unter bestimmten Voraussetzungen (Feststellung der Gegenseitigkeit in einer Bekanntmachung des BMJV) die Priorität einer ausländischen Anmeldung in einem Staat, mit dem ein entsprechender Staatsvertrag nicht besteht, in Anspruch genommen werden (§ 41 Abs. 2 PatG). Bei Inanspruchnahme einer ausländischen Priorität sind die erforderlichen Angaben (Zeit, Land, Aktenzeichen und Abschrift der früheren Anmeldung) vor Ablauf des 16. Monats nach dem Prioritätstag einzureichen (§ 41 Abs. 1 PatG). Die materielle Berechtigung der Inanspruchnahme einer Priorität ist nur dann zu prüfen, wenn im Prioritätsintervall liegendes, entscheidungserhebliches Material ermittelt wird. Über die materielle Berechtigung der Inanspruchnahme findet keine Zwischenentscheidung statt; ist die Inanspruchnahme unwirksam, muss über die Anmeldung insgesamt entschieden werden.\nDer Gegenstand einer Patentanmeldung betrifft dieselbe Erfindung wie die der Voranmeldung, wenn die beanspruchte Merkmalskombination dem Fachmann in der Voranmeldung in ihrer Gesamtheit als zu der angemeldeten Erfindung gehörig offenbart ist. Einzelmerkmale mit unterschiedlicher Priorität können nicht in ein und demselben Patentanspruch miteinander kombiniert werden. [60]",
+   "fussnoten": [
+    {
+     "nr": 60,
+     "text": "BGH GRUR 2002, 146 Luftverteiler"
+    }
+   ]
+  },
+  {
+   "nr": "2.3.3.8",
+   "titel": "Weitere Aspekte der Prüfung",
+   "ebene": 4,
+   "seite": 19,
+   "text": "Bei der sachlichen Prüfung ist auch darauf zu achten, dass die Zusammenfassung nach § 36 PatG vorliegt und keine offensichtlichen Mängel aufweist, falls diese noch nicht in der Offenlegungsschrift veröffentlicht worden ist (§ 45 Abs. 1 Satz 2 PatG). Sind in der Kurzfassung mehrere Zeichnungen erwähnt und ist nicht eindeutig, welche Zeichnung die Erfindung nach Auffassung des Anmelders am deutlichsten kennzeichnet, so bestimmt die Prüfungsstelle diejenige Zeichnung, die die Erfindung am deutlichsten kennzeichnet (§ 36 Abs. 2 Satz 3 PatG). Zur Erfinderbenennung (§ 37 PatG) wird auf Abschnitt 1.5.1. verwiesen.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.4",
+   "titel": "Bescheide (§ 45 PatG)",
+   "ebene": 2,
+   "seite": 19,
+   "text": "Bescheide im Prüfungsverfahren dienen der Vorbereitung der Erteilung des Patents nach § 49 PatG oder der Zurückweisung der Anmeldung gemäß § 48 PatG. Die Anzahl der Bescheide bestimmt sich aus der Verpflichtung zur Sachaufklärung, der Gewährung des rechtlichen Gehörs und nach den besonderen Umständen des Einzelfalls. Bescheide sind sachlich und verständlich zu fassen. Erst wenn patentfähig erscheinende Ansprüche vorliegen oder wenn die Prüfungsstelle patentfähig erscheinende Ansprüche vorschlägt und das Einverständnis des Anmelders mit dem Vorschlag erwartet werden kann, sollte dieser zu einer Überarbeitung der Beschreibung aufgefordert werden. In diesem Zusammenhang wird auch auf Abschnitt 2.7.1. hingewiesen. In einem Bescheid sind nicht nur die einer Patenterteilung entgegenstehenden Gesichtspunkte darzulegen, vielmehr sollen auch positive Anregungen zur Überarbeitung der Ansprüche gegeben werden. Dadurch erhält der Anmelder ein klares Bild, ob und in welchem Umfang die Prüfungsstelle den Anmeldungsgegenstand als patentierbar ansieht. Kann die Prüfungsstelle in den Anmeldungsunterlagen keinen patentfähigen Gegenstand erkennen, soll sie darauf hinweisen, insbesondere, dass kein gewährbarer Hauptanspruch vorgeschlagen werden kann und auch bei Einreichung neuer Ansprüche mit der Zurückweisung der Anmeldung zu rechnen ist.\nDer Anmelder muss den Inhalt des Bescheids verstehen können. Druckschriften zum Stand der Technik sind nicht mit pauschalen Verweisen auf deren Gesamtinhalt und bloßen Behauptungen zu erörtern. Unter Hinweis auf Textstellen und Abbildungen ist vielmehr im Rahmen eines Merkmalsvergleichs darzulegen, weshalb z. B. ein Gegenstand des Standes der Technik dem Anmeldungsgegenstand patenthindernd entgegensteht. Sollte der Gegenstand nicht auf einer erfinderischen Tätigkeit beruhen, so ist zur Vermeidung des Vorwurfs einer rückschauenden Betrachtung eine Veranlassung des Fachmanns darzulegen, weshalb Druckschriften miteinander bzw. mit dem fachmännischen Wissen zu kombinieren sind. Eine für den jeweiligen Einzelfall schlüssige Argumentation zur erfinderischen Tätigkeit, einschließlich der für das Naheliegen hochrelevanten Fragestellung der Veranlassung des Fachmanns, ist essentiell für die Tragfähigkeit des Bescheids. Der Bescheid muss eindeutige Feststellungen bzw. Forderungen enthalten, die dem Anmelder ein unmissverständliches Bild von der Auffassung der Prüfungsstelle geben. Werden in einem Bescheid mehrere Einzelfragen behandelt, wie formale Mängel oder Patentfähigkeit (Neuheit bzw. erfinderische Tätigkeit), sollte der Bescheid zur besseren Übersichtlichkeit in nummerierte Abschnitte gegliedert sein. Die entscheidungsrelevanten Sachverhalte sind vorrangig abzuhandeln. Die in einem Prüfungsbescheid erstmals genannten Druckschriften sollen am Anfang des Bescheids in Listenform aufgeführt und mit fortlaufenden Nummern versehen werden. Sie sind im gesamten Verfahren beizubehalten. Die fortlaufenden Nummern von Entgegenhaltungen, die in einem späteren Bescheid neu genannt werden, sollten dann an die im früheren Bescheid genannte Liste anschließen. Im Interesse der leichteren Lesbarkeit der Bescheide kann es zweckmäßig sein, Entgegenhaltungen am Anfang des Bescheids zusammen mit den fortlaufenden Nummern vollständig zu zitieren.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.4.1",
+   "titel": "Erster Prüfungsbescheid",
+   "ebene": 3,
+   "seite": 20,
+   "text": "Der erste Prüfungsbescheid soll, falls es sich um eine Erstanmeldung handelt und der Anmelder frühzeitig Prüfungsantrag gestellt hat, möglichst so rechtzeitig abgesetzt werden, dass er dem Anmelder vier Monate vor Ablauf des Prioritätsjahres zugestellt werden kann. Es handelt sich hierbei um eine wichtige Dienstleistung des DPMA, die dem Anmelder bei der Entscheidung Hilfestellung geben soll, ob Nachanmeldungen im Ausland oder international sinnvoll sind. Werden trotz der vorangegangenen Offensichtlichkeitsprüfung bei Beginn der sachlichen Prüfung Formmängel festgestellt, ist diese Beanstandung mit einem vollständigen materiellen Prüfungsbescheid zu verbinden.\nEine Recherche und Stellungnahme zur Patentfähigkeit aller beanspruchten Gegenstände ist unbedingt erforderlich. Zu den Gegenständen der nebengeordneten Ansprüche ist eine ausführliche Stellungnahme zur Patentfähigkeit unerlässlich. Eine Abhandlung in Kurzform unter Verweis auf die Ausführung zum Hauptanspruch bzw. zu einem anderen unabhängigen Anspruch ist bei entsprechender Merkmalsidentität möglich; zu darüber hinausgehenden Merkmalen ist im Einzelnen Stellung zu nehmen. Am Anfang des ersten Prüfungsbescheids ist der Fachmann zu definieren, da die Sicht des maßgeblichen Fachmanns maßgeblich ist für das Verständnis des Gegenstands der Anmeldung und des relevanten Stands der Technik (vgl. Abschnitt 2.3.3.2.). Gegebenenfalls muss die Prüfungsstelle den Anmeldungsgegenstand auslegen (vgl. Abschnitt 2.3.3.2.) oder Annahmen für die Prüfung treffen. Die Auslegung bzw. die Annahmen für die Prüfung sind dem Anmelder mitzuteilen. Ausnahmen sind nur zulässig, wenn die Behebung der Formmängel nicht möglich erscheint oder eine materielle Prüfung wegen dieser Mängel nicht möglich ist. Der Anmelder soll damit eine Entscheidung treffen können, ob es überhaupt zweckmäßig ist, die Anmeldung unter Beseitigung der Formmängel weiterzuführen. Zur besseren Übersicht kann am Anfang des ersten Prüfungsbescheids, nach Nennung der relevanten Druckschriften, eine Merkmalsgliederung der unabhängigen Ansprüche vorgenommen werden. Wird bei der sachlichen Prüfung die Uneinheitlichkeit der Anmeldung festgestellt, ist dies bereits mit dem ersten Prüfungsbescheid zu beanstanden.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.4.2",
+   "titel": "Weitere Bescheide",
+   "ebene": 3,
+   "seite": 20,
+   "text": "Ein eventuell erforderlicher zweiter sachlicher Prüfungsbescheid sollte in der Regel auch der letzte sein und regelmäßig eine abschließende Entscheidung herbeiführen. Aufgrund einer strafferen Verfahrensführung ist einer Anhörung möglichst der Vorrang vor weiteren Bescheiden zu geben. Eine sorgfältig begründete Auffassung der Prüfungsstelle sollte nur auf ebenso begründete und überzeugende Gegendarstellungen des Anmelders hin oder aufgrund einer neuen Sach- oder Rechtslage geändert werden. Dies gilt auch dann, wenn inzwischen die Prüfungsstelle gewechselt hat. Die geänderte Auffassung der Prüfungsstelle ist ebenfalls zu begründen. Wegen der Einreichung erteilungsreifer Unterlagen wird auf Abschnitt 2.7.1. verwiesen.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.5",
+   "titel": "Fristgewährung",
+   "ebene": 2,
+   "seite": 21,
+   "text": "Das erklärte Ziel des DPMA ist es, sofern vom Anmelder gewünscht, das gesamte Prüfungsverfahren innerhalb einer angemessenen Zeit nach Stellen des Prüfungsantrags nach § 44 PatG mit einem Erteilungs- oder Zurückweisungsbeschluss nach §§ 48, 49 PatG abzuschließen. Zur Beschleunigung des Verfahrens kann auch der Anmelder beitragen, indem er auf einen Bescheid innerhalb gesetzter Fristen erwidert. Um überflüssige Fristverlängerungsgesuche zu vermeiden, sollte die Prüfungsstelle die erforderliche Zeitdauer für die Bearbeitung durch den Anmelder abschätzen und auf dieser Grundlage eine angemessene Frist setzen. Gegebenenfalls sollte hier ein telefonischer Kontakt der Prüfungsstelle mit dem Anmelder oder dessen Vertreter erfolgen. Telefonkontakte sind dabei – auch inhaltlich – aktenkundig zu machen. Zur Beseitigung von Formmängeln sollte regelmäßig eine Frist von einem Monat ausreichend sein. Die Frist für die Erwiderung auf Sachbescheide ist im Normalfall auf vier Monate festzusetzen. Bei der Bemessung der Frist ist auch die Geschäftslage der Prüfungsstelle zu berücksichtigen und es sind ggf. entsprechend lange Fristen zu gewähren. Im Prüfungsverfahren einer Patentanmeldung, deren Priorität in einer anhängigen europäischen Anmeldung mit Benennung der Bundesrepublik Deutschland in Anspruch genommen wird, kann eine Frist zur Erwiderung auf einen Bescheid von bis zu 12 Monaten – ggf. auch wiederholt – gewährt werden. Dies gilt auch, solange ein Einspruch gegen das entsprechende europäische Patent eingereicht werden kann oder ein Einspruchsverfahren gegen dieses nicht abgeschlossen ist. Bei der Entscheidung sind die Interessen des Anmelders und der Öffentlichkeit angemessen zu berücksichtigen. Wird auf einen Bescheid nicht fristgerecht geantwortet oder wird Antrag auf Entscheidung nach Lage der Akten gestellt, kann umgehend in der Sache entschieden werden, wenn dies sachgemäß erscheint. Eine erstmalige Fristverlängerung ist auch bei kurzer Begründung zu gewähren, weitere Fristverlängerungen bei Vorliegen einer ausreichenden Begründung. An deren Begründung sind keine strengen Anforderungen zu stellen, es sei denn, das Prüfungsverfahren würde über Gebühr verzögert. Auch hier wird im Zweifel ein telefonischer Kontakt zwischen Prüfungsstelle und Anmelder bzw. dessen Vertreter angeregt. Die Ablehnung eines Fristverlängerungsgesuches ist durch gesonderte Entscheidung zurückzuweisen, kann jedoch dann mit der Entscheidung in der Sache selbst verbunden werden, wenn mit einer ordnungsgemäßen sachlichen Erledigung des Amtsbescheids innerhalb der gesetzten Frist nicht mehr zu rechnen ist. Aus Gründen der Verfahrensökonomie ist bei einem nicht ausreichend begründeten Fristverlängerungsgesuch jedoch eine stillschweigende Fristverlängerung von einem Monat zu gewähren, wenn sich aus den Umständen, beispielsweise der Begründung des Verlängerungsgesuchs, ergibt, dass die Erledigung des Bescheids in kurzer Zeit nach Fristablauf zu erwarten ist. Der Lauf gesetzlicher Fristen wird durch die vorstehend genannten Regelungen nicht berührt.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.6",
+   "titel": "Anhörung und Telefongespräche",
+   "ebene": 2,
+   "seite": 21,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.6.1",
+   "titel": "Anhörung (§ 46 PatG)",
+   "ebene": 3,
+   "seite": 21,
+   "text": "Die Prüfungsstelle kann jederzeit die Beteiligten laden und anhören, Zeugen, Sachverständige und Beteiligte vernehmen sowie andere zur Aufklärung der Sache erforderliche Ermittlungen anstellen. § 128a ZPO ist gemäß § 46 Abs. 1 Satz 2 PatG entsprechend anzuwenden (Teilnahme an Anhörungen und Vernehmungen im Wege der Bild- und Tonüber-tragung - vgl. Abschnitt 2.6.4.). Der Prüfer leitet die Anhörung. Dritte dürfen nur mit Einverständnis des Anmelders teilnehmen. Der Anmelder ist auf Antrag zu hören. Ein entsprechender Antrag ist in der Regel bereits darin zu sehen, dass der Anmelder eine Anhörung oder Vorführung des Anmeldungsgegenstands vorschlägt. Grundsätzlich kann eine Anhörung für eine zügige Verfahrensdurchführung sachdienlich sein. Von ihr sollte insbesondere dann Gebrauch gemacht werden, wenn das Verfahren schriftlich nicht zügig durchgeführt werden kann. Da das Patentgesetz die Verkündung des Beschlusses am Ende der Anhörung zulässt (§ 47 Abs. 1 Satz 3 PatG), kann das Verfahren mit Hilfe einer Anhörung ohne weiteren Bescheid beendet werden. Eine Anhörung, erforderlichenfalls mit Vorführung des Anmeldungsgegenstandes, kann vor allem bei Unklarheiten über Aufbau und Wirkungsweise des Anmeldungsgegenstandes, bei Fragen zur Patentfähigkeit, die schriftlich nicht ausreichend geklärt werden können, aber auch bei Unstimmigkeiten im Zusammenhang mit den Anspruchsformulierungen sachdienlich sein. Für die Anhörung müssen Prüfungsstelle und Anmelder mit der Sache und dem Akteninhalt vertraut sein. Sollen bisher noch nicht erörterte Fragen besprochen werden, ist in der Ladung zur Anhörung darauf hinzuweisen. Die Prüfungsstelle kann von sich aus eine Anhörung oder eine Vorführung vorschlagen, wenn sie dies für sachdienlich bzw. verfahrensförderlich erachtet. Hat eine Anhörung vor einem Wechsel der Prüfungsstelle stattgefunden, sollte sie nur dann wiederholt werden, wenn die neue Prüfungsstelle aufgrund schwerwiegender Gründe die Auffassung ihres Vorgängers nicht teilen kann. Die neue Prüfungsstelle muss ihre abweichende Auffassung in einem Bescheid mitteilen.\nZu Beginn einer Anhörung muss sich der Anmelder oder sein Vertreter ausweisen, sofern er der Prüfungsstelle nicht persönlich bekannt ist. Von einem nicht anwaltlichen Vertreter ist regelmäßig die Vorlage einer Vollmachtsurkunde zu verlangen (§ 15 Abs. 4 DPMAV). In der Anhörung sollte die Prüfungsstelle zunächst die streitigen und unklaren Punkte erörtern. Sie kann dem Anmelder hierbei Vorschläge unterbreiten. Wird über die Frage der Patentierbarkeit Einigung erzielt, empfiehlt es sich, den Wortlaut der Patentansprüche und, wenn möglich, auch den Aufbau der Beschreibung festzulegen. Über die Anhörung und eine in ihrem Zusammenhang ggf. durchgeführte Vernehmung ist eine Niederschrift zu fertigen, die den wesentlichen Gang der Anhörung wiedergeben soll. Zu protokollieren sind:\na) Ort, Datum, Anwesende und Verlauf der Anhörung (kein Wortprotokoll mit Rede und Gegenrede),\nb) neuer Stand der Technik sowie neue rechtliche Gesichtspunkte, die in das Verfahren eingebracht worden sind,\nc) alle rechtserheblichen Erklärungen, die den beanspruchten Anmeldungsgegenstand materiell verändern oder das Verfahren berühren, insbesondere Anträge, Antragsänderungen und Antragsrücknahmen, einschließlich der Änderungen der Anmeldungsunterlagen, Verzichts-, Ausscheidungs- und Teilungserklärungen, die Zusammenführung von Anmeldungen sowie die Erklärung über ein Zusatzverhältnis. Weicht die Prüfungsstelle aufgrund der Anhörung von ihrer bisherigen Auffassung ab, muss die Niederschrift diejenigen Gründe erkennen lassen, die zu dieser Änderung geführt haben. Die Niederschrift ist von der Prüfungsstelle zu unterzeichnen. Die Beteiligten erhalten eine Abschrift der Niederschrift. Es ist zweckmäßig, die in das Protokoll aufzunehmenden rechtserheblichen Erklärungen von den Beteiligten gegenzeichnen zu lassen. Hierbei handelt es sich jedoch nicht um eine Voraussetzung der Wirksamkeit des Protokolls oder der abgegebenen Erklärung, sondern um eine Frage des Nachweises. Gemäß § 46 Abs. 2 Satz 2 PatG ist eine Niederschrift unter Anwendung der §§ 160a, 162 und 163 ZPO zu fertigen. Daher kann der Inhalt des Protokolls mit Kurzschrift oder mit einem Tonaufnahmegerät vorläufig aufgezeichnet werden. Die Aufzeichnungen müssen in diesem Falle vor Ende der Anhörung nochmals vorgelesen bzw. abgespielt werden. In der Niederschrift sind diese Tatsache und die Genehmigung der Beteiligten bzw. Einwendungen zu vermerken. Die Niederschrift des Protokolls ist im Falle der vorläufigen Aufzeichnung unverzüglich nach der Anhörung herzustellen.\nAm Ende der Anhörung sollte in der Regel ein Beschluss der Prüfungsstelle über die Anmeldung verkündet werden. Die Angabe des Vertreters, eine Rücksprache mit dem Anmelder sei erforderlich, genügt nicht als Begründung für den Aufschub der Beschlussfassung. Die Verkündung und der Tenor des verkündeten Beschlusses sind in die Niederschrift über die Anhörung aufzunehmen. Wird das Patent erteilt, sind die Unterlagen vor Verkündung in einen erteilungsreifen Zustand zu bringen. Der Beschluss ist dann zuzustellen (§ 47 Abs. 1 Satz 1 PatG). Bei der Beschlussverkündung genügt es, den Tenor des Beschlusses bekannt zu geben und auf die schriftliche Begründung zu verweisen. Wenn die Prüfungsstelle es für angemessen erachtet, teilt sie auch Hinweise auf die Begründung mündlich mit. Die schriftliche Begründung ist unverzüglich anzufertigen. An den verkündeten Beschluss ist das Deutsche Patentund Markenamt gebunden. Schriftsätze der Beteiligten, die nach der Verkündung eingehen, dürfen – außer später bei Abhilfe nach Beschwerde (vgl. Abschnitt 2.9.) – nicht mehr berücksichtigt werden.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.6.2",
+   "titel": "Vorsprache ohne Ladung",
+   "ebene": 3,
+   "seite": 22,
+   "text": "Spricht ein Anmelder oder Vertreter ohne Ladung bei der Prüfungsstelle vor, ist dies in den Akten kurz zu vermerken, insbesondere, wenn ein Beschleunigungs- oder Fristgesuch mündlich vorgebracht wird. Wird die sofortige Durchführung einer Anhörung gewünscht, entscheidet die Prüfungsstelle hierüber nach freiem Ermessen. Eine Verpflichtung zur Anhörung besteht nicht.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.6.3",
+   "titel": "Telefongespräche",
+   "ebene": 3,
+   "seite": 22,
+   "text": "Telefongespräche können ein Mittel zur erledigungsorientierten Förderung von Prüfungsverfahren sein. Fragen, die nicht unbedingt in einem schriftlichen Bescheid erörtert werden müssen, sollten deshalb durch Telefongespräche mit dem Anmelder geklärt werden. Diese Telefonate können jedoch keine Prüfungsbescheide ersetzen, in denen dem Anmelder zum Erfindungsgegenstand sachliche Stellungnahmen von erheblicher Tragweite mitgeteilt werden. Auch Anhörungen mit umfangreichen sachlichen Erörterungen können durch Telefonate nicht ersetzt werden. Ein Telefonat eignet sich in erster Linie für die kurze Erörterung der textlichen Fassung der Beschreibung, für die Klärung von Zweifelsfragen von neuen Unterlagen, für die Anforderung von Reinschriften oder ähnliche Vorgänge. Der zuständige Prüfer oder Sachbearbeiter des gehobenen Dienstes soll einen Aktenvermerk über das Telefonat fertigen.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.6.4",
+   "titel": "Teilnahme an Anhörungen und Vernehmungen im Wege der Bild- und Tonübertragung (§ 46 Abs. 1 Satz 2 PatG)",
+   "ebene": 3,
+   "seite": 23,
+   "text": "In den Verfahren vor den Zivilgerichten besteht die Möglichkeit, an Verhandlungen und Vernehmungen im Wege der Bild- und Tonübertragung teilzunehmen (§ 128a ZPO). Die entsprechende Anwendung von § 128a ZPO eröffnet der Prüfungsstelle die Möglichkeit, dem Anmelder, seinen Bevollmächtigten oder Vertretern sowie Zeugen, Sachverständigen und Beteiligten auf Antrag des Anmelders oder von Amts wegen zu gestatten, sich während einer Anhörung oder Vernehmung an einem anderen Ort aufzuhalten und dort Verfahrenshandlungen vorzunehmen. Die Anhörung und die Vernehmung werden zeitgleich in Bild und Ton an diesen Ort, ggf. an weitere Orte, sofern sich an der Anhörung Beteiligte an unterschiedlichen Orten aufhalten, und in das Sitzungszimmer übertragen (§ 46 Abs. 1 Satz 2 PatG, i. V. m. § 128a Abs. 1 und 2 ZPO). Die Entscheidung hierüber ist unanfechtbar (§ 46 Abs. 1, Satz 2 PatG i. V. m. § 128a, Abs. 3 ZPO).",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.7",
+   "titel": "Vorbereitung der Erteilung des beantragten Patents",
+   "ebene": 2,
+   "seite": 23,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.7.1",
+   "titel": "Einreichung erteilungsreifer Unterlagen",
+   "ebene": 3,
+   "seite": 23,
+   "text": "Nach § 34 Abs. 3 Nr. 4 PatG und § 10 PatV ist in der Beschreibung die Erfindung anzugeben, für die in den Patentansprüchen Schutz begehrt wird; es sind in die Beschreibung keine Angaben aufzunehmen, die zur Erläuterung der Erfindung offensichtlich nicht notwendig sind. Nach § 14 PatG sind die Beschreibung und die Zeichnungen zur Auslegung der Patentansprüche heranzuziehen. Dies ist wichtig bei der Bestimmung des Schutzbereichs. Ist im Falle einer als patentierbar erachteten Erfindung Einverständnis mit dem Anmelder über die Anspruchsfassung erzielt worden, ist daher der Anmelder verpflichtet, die Beschreibung mit den geltenden Ansprüchen in Einklang zu bringen. Außerdem hat er die sonstigen Erfordernisse nach der PatV zu erfüllen. Zur Vereinfachung können anstelle der wörtlichen Zitate des Oberbegriffs und des kennzeichnenden Teils des Hauptanspruchs bezugnehmende Hinweise auf diese Anspruchsteile in die Beschreibung aufgenommen werden. Auf Verlangen des Deutschen Patent- und Markenamts hat der Anmelder den ihm bekannten (relevanten) Stand der Technik anzugeben und in die Beschreibung aufzunehmen (§ 34 Abs. 7 PatG, § 10 Abs. 2 Nr. 2 PatV). Angabe des relevanten Standes der Technik bedeutet allerdings nicht, dass der Anmelder diesen selbst zu würdigen und zu beurteilen hat. Herabsetzende Bemerkungen über den Stand der Technik sind zu unterlassen.\nDie Bezeichnung der Erfindung, die gemäß § 10 Abs. 1 i. V. m. § 4 Abs. 2 Nr. 2 PatV am Anfang der Beschreibung anzugeben ist, sollte allen nebengeordneten Patentansprüchen Rechnung tragen. Der Anmelder ist nötigenfalls durch entsprechende Hinweise aufzufordern, die noch erforderlichen Einzelmaßnahmen vorzunehmen. Zur Beschleunigung des Verfahrens können ggf. auch konkrete Änderungsvorschläge der Prüfungsstelle beitragen. Bei Personen, die mit patentamtlichen Verfahren vertraut sind, kann jedoch in der Regel davon ausgegangen werden, dass allgemeine Hinweise auf die gesetzlichen Vorschriften genügen. Es ist zu beachten, dass die Änderungen keine unzulässigen Erweiterungen (vgl. § 38 PatG) beinhalten dürfen. Deshalb sind Forderungen nach Änderungen auf den notwendigen Umfang zu beschränken. Der Anmelder muss Reinschriften, die die Änderungen der Patentansprüche oder der Beschreibung berücksichtigen, einreichen (§ 15 Abs. 1 Satz 2 PatV). Der Anmelder hat, sofern die Änderungen nicht vom Deutschen Patent- und Markenamt vorgeschlagen worden sind, im Einzelnen anzugeben, an welcher Stelle der ursprünglichen Unterlagen die in den neuen Unterlagen beschriebenen Erfindungsmerkmale offenbart sind (§ 15 Abs. 3 PatV).",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.7.2",
+   "titel": "Redaktion der Unterlagen",
+   "ebene": 3,
+   "seite": 23,
+   "text": "Die Patentschriften sind amtliche Veröffentlichungen. Sie dürfen keine Angaben enthalten, deren Veröffentlichung gegen die öffentliche Ordnung oder die guten Sitten verstoßen würde. Für die sprachlich fehlerfreie Fassung der Patentschriften ist der Anmelder verantwortlich. Eine redaktionelle Überarbeitung der Unterlagen durch die Prüfungsstelle soll unterbleiben, wenn die eingereichten Unterlagen bereits eine klare und sprachlich vertretbare Darstellung enthalten. Insbesondere soll die Prüfungsstelle die sprachlichen Eigenheiten des Anmelders respektieren, denn diesbezügliche Überarbeitungen bergen die Gefahr einer vom Anmelder nicht gewollten oder gar unzulässigen Änderung. Erklärt sich der Anmelder in einer telefonischen Rücksprache mit einer Änderung der Beschreibung durch die Prüfungsstelle einverstanden, ist die Änderung schriftlich zu bestätigen. [61] Nach Verkündung des Erteilungsbeschlusses oder dessen Abgabe an den Dokumentenversand können – außer im Fall der Abhilfe nach Beschwerde – Änderungen in den Unterlagen nicht mehr vorgenommen werden.",
+   "fussnoten": [
+    {
+     "nr": 61,
+     "text": "BPatG, GRUR 1983, 505 Fernmündliche Beschreibungsänderung"
+    }
+   ]
+  },
+  {
+   "nr": "2.8",
+   "titel": "Beschlüsse der Prüfungsstelle (§ 47 PatG)",
+   "ebene": 2,
+   "seite": 24,
+   "text": "Ein Beschluss ist jeder Ausspruch des DPMA (z. B. der Prüfungsstelle), durch den eine abschließende Regelung ergeht, die die Rechte der Beteiligten berühren kann, und zwar auch dann, wenn der Ausspruch äußerlich nicht in der Form eines Beschlusses ergangen ist. Beschlüsse sind zu begründen und den Beteiligten von Amts wegen in Abschrift zuzustellen (§ 47 Abs. 1 Satz 1 PatG). Ausfertigungen werden nur auf Antrag eines Beteiligten und nur in Papierform erteilt (§ 47 Abs. 1 Satz 2 PatG). Aufbau und Inhalt der Beschlüsse richten sich nach den Erfordernissen des Einzelfalles. Der Beschluss enthält zu Beginn das Rubrum, in dem die Beteiligten und ggf. deren Vertreter genannt sind sowie die von der nachfolgenden Begründung getrennte Beschlussformel (Tenor), in der die eigentliche Entscheidung angegeben wird. Die nachfolgende Begründung besteht aus dem Tatbestand und den Entscheidungsgründen. Im Tatbestand sollen die erhobenen Ansprüche und die dazu vorgebrachten Angriffs- und Verteidigungsmittel unter Hervorhebung der gestellten Anträge nur ihrem wesentlichen Inhalt nach knapp dargestellt werden. Die Entscheidungsgründe enthalten eine kurze Zusammenfassung der Erwägungen, auf denen die Entscheidung in tatsächlicher und rechtlicher Hinsicht beruht. Die Begründung muss sich auf alle für die Entscheidung maßgebenden Streitpunkte erstrecken. Sie erfordert eine nähere Darlegung aller tatsächlichen und rechtlichen Überlegungen, die die Prüfungsstelle zu der getroffenen Entscheidung veranlasst haben. Unveröffentlichte Entscheidungen sollten möglichst nicht zitiert werden. Die Prüfungsstelle kann sich aber die in der unveröffentlichten Entscheidung vertretene Auffassung mit einer inhaltlichen Begründung zu eigen machen. Einer ausführlichen Begründung bedarf es dann nicht, wenn die Anmeldung zurückgewiesen wird, weil die in einem Bescheid ausdrücklich gerügten Mängel nicht beseitigt wurden und der Anmelder sich hierzu nicht geäußert hat. In diesen Fällen kann auf die Gründe des Bescheids verwiesen werden, sofern sie dort ausreichend dargelegt worden sind. Ferner bedarf es keiner Begründung, wenn nur der Anmelder am Verfahren beteiligt ist und seinem Antrag stattgegeben wird (§ 47 Abs. 1 Satz 4 PatG). Dies trifft beispielsweise auf die antragsgemäße Erteilung eines Patents und den eine Wiedereinsetzung gewährenden Beschluss zu, soweit dieser im einseitigen Verfahren erlassen wird. Im Fall der gewährten Wiedereinsetzung sind die Gründe, aus denen wiedereingesetzt wurde, in einer kurzen Aktennotiz festzuhalten. Der Abschrift eines Beschlusses ist eine Rechtsmittelbelehrung gemäß § 47 Abs. 2 Satz 1 PatG beizufügen. Ist die Belehrung unterblieben oder unrichtig erteilt, kann Beschwerde noch innerhalb eines Jahres seit Zustellung des Beschlusses eingelegt werden. Dies gilt jedoch nicht, wenn eine schriftliche Belehrung dahingehend erfolgt ist, dass eine Beschwerde nicht statthaft sei. Die Beschwerde bleibt in diesem Fall grundsätzlich zeitlich unbeschränkt zulässig. Die Belehrung muss daher, wenn sich ihre Unrichtigkeit herausstellt, berichtigt werden. Die Beschlüsse werden mit der Verkündung oder mit der förmlichen Zustellung wirksam. Inneramtlich tritt eine Selbstbindung bereits mit Abgabe des Beschlusses an den Dokumentenversand ein.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.8.1",
+   "titel": "Erteilungsbeschluss (§ 49 PatG)",
+   "ebene": 3,
+   "seite": 24,
+   "text": "Wenn der Anmeldungsgegenstand nach den §§ 1 bis 5 PatG patentfähig ist und die Anmeldung den Anforderungen der §§ 34, 37 und 38 PatG genügt sowie etwaige nach § 45 Abs. 1 PatG gerügte Mängel der Zusammenfassung beseitigt sind, beschließt die Prüfungsstelle die Erteilung des Patents. Der Erteilungsbeschluss kann auch dann nicht widerrufen werden, wenn er rechtswidrig ist. Die Erteilung wird im Patentblatt veröffentlicht. Mit der Veröffentlichung treten die gesetzlichen Wirkungen des Patents ein (§ 58 PatG).",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.8.2",
+   "titel": "Zurückweisungsbeschluss (§ 48 PatG)",
+   "ebene": 3,
+   "seite": 24,
+   "text": "Die Prüfungsstelle weist die Anmeldung zurück, wenn eine patentfähige Erfindung nach §§ 1 bis 5 PatG nicht vorliegt oder die nach § 45 Abs. 1 PatG gerügten Mängel nicht beseitigt wurden (§ 48 Satz 1 PatG). Grundsätzlich darf gemäß § 48 Satz 2 i. V. m § 42 Abs. 3 Satz 2 PatG eine Zurückweisung – auch in dem Fall, dass der Anmelder Antrag auf Entscheidung nach Lage der Akten gestellt hat – nur auf Umstände gestützt werden, die dem Patentsucher vorher mitgeteilt wurden, um ihm Gelegenheit zu geben, sich dazu innerhalb einer bestimmten Frist zu äußern.",
+   "fussnoten": []
+  },
+  {
+   "nr": "2.9",
+   "titel": "Beschwerde und Abhilfe",
+   "ebene": 2,
+   "seite": 24,
+   "text": "Nach § 73 Abs. 1 PatG findet gegen die Beschlüsse der Prüfungsstellen die Beschwerde statt. Beschlüsse im Sinne dieser Vorschrift sind alle Entscheidungen des DPMA, die eine abschließende Regelung mit Außenwirkung enthalten und daher Rechte des Beteiligten berühren können. Für die Statthaftigkeit der Beschwerde ist daher unerheblich, in welcher äußeren Form die Entscheidung ergangen ist. Mit der Beschwerde können daher nicht nur Entscheidungen angefochten werden, die ausdrücklich als „Beschluss“ bezeichnet worden sind, sondern auch solche abschließenden, mit Außenwirkung ergangenen Entscheidungen, die (gleich ob zu Recht oder nicht) als „Verfügung“, „Bescheid“ oder auch anders bezeichnet werden. [62] Die Beschwerde ist innerhalb eines Monats nach Zustellung schriftlich beim Deutschen Patent- und Markenamt einzulegen (§ 73 Abs. 2 Satz 1 PatG). Mit Einreichung der Beschwerde wird die Beschwerdegebühr nach dem Patentkostengesetz fällig (§§ 2, 3 Abs. 1 Satz 1, Satz 2 Nr. 1 PatKostG). Wird die Beschwerdegebühr nicht innerhalb der Beschwerdefrist gezahlt, gilt die Beschwerde als nicht eingelegt (§ 6 Abs. 1 Satz 1, Abs. 2 PatKostG i. V. m. § 73 Abs. 2 Satz 1 PatG). Die Prüfungsstelle hat eine Beschwerde zunächst daraufhin zu prüfen, ob sie zulässig und dann, ob sie sachlich begründet ist. Von dem Ergebnis dieser Prüfung ist es abhängig, ob der Beschwerde abzuhelfen ist. Hält die Prüfungsstelle die Beschwerde für sachlich begründet, muss sie ihr abhelfen (§ 73 Abs. 3 Satz 1 PatG). Die Abhilfe ist jedoch unzulässig, wenn dem Beschwerdeführer ein anderer an dem Verfahren Beteiligter gegenübersteht (§ 73 Abs. 4 PatG). Ein anderer Beteiligter ist z. B. der Antragsgegner im Akteneinsichtsverfahren. Ferner darf nur dann abgeholfen werden, wenn die Beschwerde zulässig ist, das heißt, wenn sie frist- und formgerecht eingelegt worden ist. Sollte bei Einreichung der Beschwerde des Anmelders in der gleichen Akte auch ein Ablehnungsgesuch des Anmelders gegen die Prüfungsstelle vorliegen, die den Zurückweisungsbeschluss erlassen hat, ist vor einer Entscheidung über die Abhilfe zunächst über das Ablehnungsgesuch zu entscheiden. [63] Die Abhilfe setzt voraus, dass die von der Prüfungsstelle bisher aufgezeigten Zurückweisungsgründe nicht mehr bestehen, beispielsweise, weil die Beschwerdebegründung die Prüfungsstelle von der anderen Auffassung überzeugt hat oder weil geforderte Änderungen vorgenommen wurden. Wird der Beschwerde abgeholfen, kann die Prüfungsstelle nach § 73 Abs. 3 Satz 2 PatG anordnen, dass die Beschwerdegebühr zurückgezahlt wird. Die Rückzahlung der Beschwerdegebühr ist dann anzuordnen, wenn es nicht der Billigkeit entspricht, die Gebühr einzubehalten. Dies ist der Fall, wenn der Beschwerdeführer durch einen offensichtlichen Fehler des Deutschen Patent- und Markenamts veranlasst worden ist, Beschwerde einzulegen. Hiermit sind also Fälle gemeint, in denen die Beschwerde ohne den gerügten Fehler nicht erforderlich gewesen wäre. Gleiches gilt auch dann, wenn die Beschwerde aufgrund einer unzweckmäßigen Handhabung des Verfahrens eingelegt wurde. Der Beschwerde ist abzuhelfen, wenn sie innerhalb eines Monats nach Einlegung mit Gründen und/oder neuen Unterlagen versehen wird und die Prüfung ergibt, dass die Beschwerde begründet ist. Andernfalls ist sie mit Ablauf der Vorlagefrist ohne sachliche Stellungnahme dem Bundespatentgericht vorzulegen (§ 73 Abs. 3 Satz 3 PatG), auch wenn weitere Eingaben angekündigt werden.",
+   "fussnoten": [
+    {
+     "nr": 62,
+     "text": "vgl. m. w. N. BGH GRUR 1972, 535 Aufhebung der Geheimhaltung"
+    },
+    {
+     "nr": 63,
+     "text": "BPatG GRUR-Prax. 2017, 176, dort insbesondere III.1."
+    }
+   ]
+  },
+  {
+   "nr": "3",
+   "titel": "Besondere Verfahrensarten und Anmeldungsgegenstände",
+   "ebene": 1,
+   "seite": 26,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.1",
+   "titel": "Anmeldungen, die biotechnologische Erfindungen zum Gegenstand haben",
+   "ebene": 2,
+   "seite": 26,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.1.1",
+   "titel": "Allgemeines",
+   "ebene": 3,
+   "seite": 26,
+   "text": "Biotechnologische Erfindungen sind Erfindungen, die ein Erzeugnis zum Gegenstand haben, das aus biologischem Material besteht oder dieses enthält, oder ein Verfahren, mit dem biologisches Material hergestellt, bearbeitet oder verwendet wird. Biologisches Material ist Material, das genetische Informationen, das heißt seinen Bauplan, enthält und sich daher selbst reproduzieren oder in einem biologischen System reproduziert werden kann (§ 2a Abs. 3 Nr. 1 PatG). Ein mikrobiologisches Verfahren ist jedes Verfahren, bei dem mikrobiologisches Material verwendet, ein Eingriff in mikrobiologisches Material durchgeführt oder mikrobiologisches Material hervorgebracht wird (§ 2a Abs. 3 Nr. 2 PatG). Biotechnologische Erfindungen sind auf der Grundlage des geltenden Patentgesetzes schutzfähig. Durch die Richtlinie 98/44/ EG des Europäischen Parlaments und des Rates über den rechtlichen Schutz biotechnologischer Erfindungen vom 6. Juli 1998 (ABI. EG Nr. L 213 S. 13-21) sind harmonisierte gemeinschaftsweite Regelungen zur Patentierung derartiger Innovationen festgeschrieben worden. Die Biopatentrichtlinie wurde durch das Gesetz zur Umsetzung der Richtlinie über den rechtlichen Schutz biotechnologischer Erfindungen (BioPatG) vom 21. Januar 2005 (BGBl I 2005, S. 146 = BlPMZ 2005, S. 93-95) in nationales Recht umgesetzt. Dieses Gesetz trat am 28. Februar 2005 in Kraft. Für die Patentprüfung wesentliche Inhalte der Biopatentrichtlinie finden sich in § 1 Abs. 2, § 1a, § 2 Abs. 2, § 2a, § 9a, § 9b, § 9c, § 11 Nr. 2a sowie § 34a des Patentgesetzes. Durch das Gesetz zur Novellierung patentrechtlicher Vorschriften und anderer Gesetze des gewerblichen Rechtsschutzes (PatNovG) vom 19. Oktober 2013 (BGBl I 2013, S. 3830-3835) wurde in § 2a Abs. 1 Nr. 1 PatG ergänzt, dass Pflanzen und Tiere, die ausschließlich durch im Wesentlichen biologische Verfahren zur Züchtung von Pflanzen und Tieren gewonnen werden, von der Patentierung ausgeschlossen sind. Zudem wurde die Verordnung über die Hinterlegung von biologischem Material in Patent- und Gebrauchsmusterverfahren (BioMatHintV) vom 24. Januar 2005 erlassen, die ebenfalls am 28. Februar 2005 in Kraft trat.\nDie Hinterlegung biologischen Materials dient dazu, die Offenbarung der Anmeldung zu ergänzen, wenn das biologische Material in der Patentanmeldung nicht so beschrieben werden kann, dass ein Fachmann die Erfindung danach ausführen kann (§ 1 Abs. 1 BioMatHintV). Die Hinterlegung hat die nach § 34 Abs. 4 PatG vorgeschriebene Offenbarung der Erfindung zu gewährleisten. Mikrobiologische Verfahren und deren Erzeugnisse (§ 2a Abs. 2 Nr. 2 PatG) sind auch dann einem Patentschutz zugänglich, wenn an Stelle einer Beschreibung, in der ein wiederholbares Herstellungsverfahren für das anmeldungsgemäß eingesetzte und/oder beanspruchte biologische Material angegeben ist, eine Probe dieses biologischen Materials hinterlegt wird. Die Hinterlegung von biologischem Material, der Zugang hierzu sowie die erneute Hinterlegung von biologischem Material werden in der BioMatHintV (entsprechend Kapitel IV der Richtlinie 98/44/ EG) abgehandelt. Richtet sich die Anmeldung auf ein mikrobiologisches Verfahren selbst, ersetzt die Hinterlegung des Verfahrensprodukts nicht den Nachweis der Wiederholbarkeit dieses Verfahrens. [64] Enthält die Anmeldung jedoch die Beschreibung eines wiederholbaren Herstellungsverfahrens für das biologische Material, bedarf es selbstverständlich keines Nachweises seiner Hinterlegung. Vektoren, wie z. B. Plasmide, müssen nicht hinterlegt werden, wenn entweder ein wiederholbares Herstellungsverfahren oder eine vollständige Nukleotidsequenz angegeben wird. Die vollständige Nukleotidsequenz ist in elektronischer Form vorzulegen (§ 11 PatV i. V. m. Anlage 1). Eine ordnungsgemäße Hinterlegung für das nationale Patentverfahren kann bei einer international anerkannten Hinterlegungsstelle nach dem Budapester Vertrag über die internationale Anerkennung der Hinterlegung von Mikroorganismen für die Zwecke von Patentverfahren vom 28. April 1977 (im folgenden „Budapester Vertrag“ genannt; BIPMZ 1981, S. 53 ff.) oder bei solchen wissenschaftlich anerkannten Einrichtungen erfolgen, welche die Gewähr für eine ordnungsgemäße Aufbewahrung und Herausgabe von Proben bieten und rechtlich, wirtschaftlich und organisatorisch vom Anmelder und vom Hinterleger unabhängig sind (§§ 2, 8 BioMatHintV). Der wesentliche Unterschied zwischen diesen beiden Möglichkeiten besteht darin, dass es bei einer Hinterlegung nach dem Budapester Vertrag für die Herausgabe einer Probe des biologischen Materials an Dritte keiner gesonderten Freigabeerklärung bedarf. Die Freigabeerklärung wird durch § 4 BioMatHintV geregelt. Durch eine hinreichend bestimmte Freigabeerklärung des Hinterlegers muss gewährleistet sein, dass die Öffentlichkeit vom Tag der ersten Veröffentlichung der Anmeldung bzw. des Patents an von dem hinterlegten biologischen Material Kenntnis nehmen kann. Von diesem Tag an muss auch die Möglichkeit des Zugriffs auf diesen Mikroorganismus ausreichend lange sichergestellt sein.",
+   "fussnoten": [
+    {
+     "nr": 64,
+     "text": "BGH GRUR 1987, 231 Tollwutvirus"
+    }
+   ]
+  },
+  {
+   "nr": "3.1.2",
+   "titel": "Die Erfordernisse einer Hinterlegung im Einzelnen",
+   "ebene": 3,
+   "seite": 27,
+   "text": "",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.1.2.1",
+   "titel": "Hinterlegungszeitpunkt",
+   "ebene": 4,
+   "seite": 27,
+   "text": "Das biologische Material ist spätestens am Anmeldeoder Prioritätstag bei einer anerkannten Hinterlegungsstelle zu hinterlegen (§ 1 Abs. 1 BioMatHintV). Anerkannt sind die internationalen Hinterlegungsstellen, die diesen Status nach Artikel 7 des Budapester Vertrags erworben haben, sowie wissenschaftlich anerkannte Einrichtungen, welche die Gewähr für eine ordnungsgemäße Aufbewahrung und Herausgabe von Proben nach Maßgabe der BioMatHintV bieten und zudem rechtlich, wirtschaftlich und organisatorisch vom Anmelder und vom Hinterleger unabhängig sind (§ 2 BioMatHintV).",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.1.2.2",
+   "titel": "Angaben zur Hinterlegungsstelle und zum hinterlegten biologischen Material",
+   "ebene": 4,
+   "seite": 27,
+   "text": "In den ursprünglichen Anmeldungsunterlagen müssen stets die einschlägigen Informationen enthalten sein, die dem Anmelder bezüglich der Merkmale des hinterlegten biologischen Materials bekannt sind, sowie die Hinterlegungsstelle und das Aktenzeichen der Hinterlegung angegeben sein (§ 1 Abs. 1 Nr. 2 u. 3 BioMatHintV). Ist das biologische Material bereits von einem Dritten hinterlegt worden, so bedarf es keiner weiteren Hinterlegung, sofern durch die erste Hinterlegung die Ausführbarkeit der weiteren Erfindung für den in § 7 BioMatHintV festgelegten Zeitraum sichergestellt ist (§ 1 Abs. 3 BioMatHintV). Ist bereits aufgrund der Anmeldungsunterlagen eine eindeutige Zuordnung der Anmeldung zu dem hinterlegten biologischen Material möglich, so kann das Aktenzeichen der Hinterlegung bei Patentanmeldungen innerhalb einer Frist von 16 Monaten nach dem Anmelde- oder Prioritätstag nachgereicht werden (§ 3 Abs. 1 BioMatHintV).",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.1.2.3",
+   "titel": "Aufbewahrungsdauer",
+   "ebene": 4,
+   "seite": 27,
+   "text": "Das hinterlegte biologische Material ist fünf Jahre ab dem Eingang des letzten Antrags auf Abgabe einer Probe aufzubewahren, mindestens jedoch fünf Jahre über die gesetzlich bestimmte maximale Schutzdauer aller Schutzrechte hinaus, die auf das hinterlegte biologische Material Bezug nehmen (§ 7 BioMatHintV). Für nach dem Budapester Vertrag hinterlegtes biologisches Material gilt eine Mindestaufbewahrungsdauer von 30 Jahren nach dem Zeitpunkt der Hinterlegung (Regel 9.1 Budapester Vertrag).",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.1.2.4",
+   "titel": "Abgabe von Proben und Verpflichtungserklärung",
+   "ebene": 4,
+   "seite": 27,
+   "text": "Der Anmelder muss das hinterlegte biologische Material der Hinterlegungsstelle ab dem Anmeldetag durch Abgabe einer unwiderruflichen Freigabeerklärung vorbehaltlos für die Herausgabe von Proben nach § 5 Bio- MatHintV zur Verfügung stellen (§ 4 Abs. 1 BioMatHintV). Die Herausgabe von Proben des biologischen Materials wird durch § 5 BioMatHintV geregelt. Bis zur Veröffentlichung des Offenlegungshinweises nach § 32 Abs. 5 PatG wird eine Probe nur für den Hinterleger oder das Deutsche Patent- und Markenamt auf Anforderung zugänglich gemacht (§ 5 Abs. 1 Nr. 1a) u.\nb) BioMatHintV). Zudem wird bis zur Veröffentlichung des Offenlegungshinweises für den Anmelder oder einen sonstigen Dritten eine Probe auf Antrag zugänglich gemacht, wenn dieser aufgrund einer Entscheidung des Deutschen Patent- und Markenamtes nach § 31 Abs. 1 Satz 1 PatG oder aufgrund der Entscheidung eines Gerichts zum Erhalt einer Probe berechtigt ist oder wenn der Hinterleger in die Abgabe der Probe schriftlich eingewilligt hat (§ 5 Abs. 1c) BioMatHintV). Ab der Offenlegung der Patentanmeldung bis zur Patent-erteilung wird das biologische Material für jedermann durch die Herausgabe einer Probe auf Antrag zugänglich gemacht (§ 5 Abs. 1 Nr. 2 BioMatHintV). Der Hinterleger kann jedoch den Zugang zu dem hinterlegten biologischen Material dadurch beschränken, dass die Herausgabe der Probe nur an einen vom Antragsteller benannten unabhängigen Sachverständigen erfolgt (sog. Expertenlösung; § 5 Abs. 1 Nr. 2 Halbsatz 2 BioMatHintV). Nach der Patenterteilung oder der Erteilung eines ergänzenden Schutzzertifikats wird eine Probe des biologischen Materials für jedermann auf Antrag zugänglich gemacht und zwar ungeachtet eines späteren Widerrufs oder einer Nichtigerklärung des Patents oder des ergänzenden Schutzzertifikats (§ 5 Abs. 1 Nr. 3 BioMatHintV). Bei einer Zurückweisung oder Zurücknahme der Anmeldung wird der in § 5 Abs. 1 Nr. 1c) und Nr. 2 BioMatHintV geregelte Zugang zu dem biologischen Material auf Antrag des Hinterlegers für die Dauer von 20 Jahren ab dem Anmeldetag nur durch Herausgabe einer Probe an einen vom Antragsteller benannten unabhängigen Sachverständigen hergestellt (§ 5 Abs. 2 BioMatHintV). Die Anträge des Hinterlegers, dass die Herausgabe der Probe nur an einen vom Antragsteller benannten unabhängigen Sachverständigen erfolgt, sind beim Deutschen Patent- und Markenamt spätestens bis zu dem Zeitpunkt zu stellen, zu dem die technischen Vorbereitungen für die Veröffentlichung des Offenlegungshinweises als abgeschlossen gelten (§ 5 Abs. 4 BioMatHintV).\nDer Antrag auf Zugang zu biologischem Material ist beim Deutschen Patent- und Markenamt unter Verwendung des hierfür herausgegebenen Formblatts zu stellen (§ 5 Abs. 5 BioMatHintV). Bei einer Hinterlegung nach dem Budapester Vertrag ist eine gesonderte Freigabeerklärung nicht erforderlich. Der Anmelder kann allerdings die Abgabe von Proben beschränken (Regel 11.2 Budapester Vertrag). Eine Probe des biologischen Materials wird nur dann herausgegeben, wenn der Antragsteller sich gegenüber dem Anmelder und im Fall der Dritthinterlegung auch gegenüber dem Hinterleger verpflichtet, für die Dauer der Wirkung sämtlicher Schutzrechte, die auf das hinterlegte biologische Material Bezug nehmen, Dritten keine Probe des Materials oder eines daraus abgeleiteten Materials zugänglich zu machen und keine Probe des Materials oder eines daraus abgeleiteten Materials zu anderen als zu Versuchszwecken zu verwenden (sog. Verpflichtungserklärung; § 6 Abs. 1 BioMatHintV). Der Anmelder oder Inhaber des Schutzrechts, im Fall der Dritthinterlegung zusätzlich der Hinterleger, können auf diese Verpflichtung des Antragstellers, die Probe des biologischen Materials nur zu Versuchszwecken zu verwenden, verzichten (§ 6 Abs. 1 Nr. 2 BioMatHintV). Falls die Probe an einen unabhängigen Sachverständigen herausgegeben wird, so hat dieser die Verpflichtungserklärung abzugeben (§ 6 Abs. 2 BioMatHintV).",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.1.2.5",
+   "titel": "Nachweis der Hinterlegungserfordernisse",
+   "ebene": 4,
+   "seite": 28,
+   "text": "Sofern der Anmeldung die erforderlichen Nachweise über die Hinterlegung nicht beigefügt sind, ist dies – wenn der Mangel offensichtlich ist – im Rahmen der Offensichtlichkeitsprüfung, sonst im Prüfungsverfahren zu beanstanden. Der Anmelder ist dann zur Vorlage geeigneter Nachweise (Hinterlegungsbescheinigung, ggf. gesonderte Freigabeerklärung) aufzufordern.",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.2",
+   "titel": "Anmeldungen, die programmbezogene Erfindungen zum Gegenstand haben (computerimplementierte Erfindungen)",
+   "ebene": 2,
+   "seite": 28,
+   "text": "Bei Anmeldungen, die programmbezogene Erfindungen zum Gegenstand haben, handelt es sich um Erfindungen mit Bezug zu Geräten und Verfahren (Programmen) der elektronischen Datenverarbeitung. Es geht dabei um Erfindungen, zu deren Ausführung ein Computer, ein Computernetzwerk oder eine sonstige programmierbare Vorrichtung eingesetzt wird und die mindestens ein Merkmal aufweisen, das ganz oder teilweise mit einem Computerprogramm realisiert wird. Derartige Erfindungen werden gemeinhin auch computerimplementierte Erfindungen genannt.",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.2.1",
+   "titel": "Die „Technizität“ gemäß § 1 Abs. 1 PatG",
+   "ebene": 3,
+   "seite": 28,
+   "text": "Gemäß § 1 Abs. 1 PatG werden Patente nur für Erfindungen erteilt, die neu sind, auf einer erfinderischen Tätigkeit beruhen und gewerblich anwendbar sind. Daneben müssen sie auch auf einem Gebiet der Technik liegen. Dies ist allgemein der Fall, wenn die Erfindung eine Lehre zum planmäßigen Handeln unter Einsatz beherrschbarer Naturkräfte zur Erreichung eines kausal übersehbaren Erfolgs enthält. [65] Dabei ist es aber nicht erforderlich, dass der kausal übersehbare Erfolg unter Einsatz beherrschbarer Naturkräfte unmittelbar und ohne Zwischenschaltung menschlicher Verstandeskräfte herbeigeführt wird. Vielmehr kann eine Erfindung auch technischer Natur sein, wenn sie durch eine auf technischen Überlegungen beruhende Erkenntnis und deren Umsetzung geprägt ist. [66] Ebenso steht es der Technizität einer Lehre nicht entgegen, wenn sie unter anderem auch die menschliche Verstandestätigkeit einschaltet. [67] Für eine programmbezogene Erfindung ist die Technizität bereits dann gegeben, wenn der Gegenstand der Anmeldung der Verarbeitung, Speicherung und Übermittlung von Daten mittels eines technischen Geräts dient. [68]",
+   "fussnoten": [
+    {
+     "nr": 65,
+     "text": "BGH GRUR 1969, 672 Rote Taube"
+    },
+    {
+     "nr": 66,
+     "text": "BGH GRUR 2000, 498 Logikverifikation"
+    },
+    {
+     "nr": 67,
+     "text": "BGH GRUR 2000, 1007 Sprachanalyseeinrichtung"
+    },
+    {
+     "nr": 68,
+     "text": "BGH GRUR 2009, 479 Steuerungseinrichtung für Untersuchungsmodalitäten"
+    }
+   ]
+  },
+  {
+   "nr": "3.2.2",
+   "titel": "Die Ausschlusstatbestände des § 1 Abs. 3, 4 PatG",
+   "ebene": 3,
+   "seite": 28,
+   "text": "Gemäß § 1 Abs. 1 PatG müssen Erfindungen neben den weiteren Patentierungsvoraussetzungen auf einem Gebiet der Technik liegen. Jedoch werden gemäß § 1 Abs. 3 PatG, insbesondere\na) Entdeckungen sowie wissenschaftliche Theorien und mathematische Methoden (§ 1 Abs. 3 Nr. 1 PatG),\nb) ästhetische Formschöpfungen (§ 1 Abs. 3 Nr. 2 PatG),\nc) Pläne, Regeln und Verfahren für gedankliche Tätigkeiten, für Spiele oder für geschäftliche Tätigkeiten sowie Programme für Datenverarbeitungsanlagen (§ 1 Abs. 3 Nr. 3 PatG),\nd) die Wiedergabe von Informationen (§ 1 Abs. 3 Nr. 4 PatG). nicht als Erfindungen im Sinne von § 1 Abs. 1 PatG angesehen.\nDiese Tätigkeiten oder Gegenstände – insbesondere auch Programme für Datenverarbeitungsanlagen – sind jedoch nur als solche vom Patentschutz ausgeschlossen (§ 1 Abs. 4 PatG). Damit sind programmbezogene Erfindungen, die im Allgemeinen auch Kombinationen der Gegenstände a) bis d) beinhalten, grundsätzlich dem Patentschutz zugänglich. Zu beachten ist allerdings, dass der Patentierungsausschluss nach § 1 Abs. 3 PatG im Allgemeinen nur für Verfahren, nicht aber für Vorrichtungen in Betracht kommt, da der BGH zumindest den Patentierungsausschluss nach § 1 Abs. 3 Nr. 3 PatG nur für Verfahren erwogen hat, nicht aber für Vorrichtungen. [69]",
+   "fussnoten": [
+    {
+     "nr": 69,
+     "text": "BGH vom 27.03.2018 – X ZB 11/17"
+    }
+   ]
+  },
+  {
+   "nr": "3.2.3",
+   "titel": "Dreistufiger Prüfungsansatz des BGH",
+   "ebene": 3,
+   "seite": 29,
+   "text": "Auf der Grundlage der §§ 1, 3 und 4 PatG hat der BGH für die Prüfung von programmbezogenen Erfindungen einen dreistufigen formalen Ansatz abgeleitet. Dabei ist in der ersten Stufe der Prüfung zunächst zu klären, ob der Gegenstand der Erfindung auf technischem Gebiet liegt (§ 1 Abs. 1 PatG). Danach wird in der zweiten Stufe untersucht, ob die Erfindung aufgrund des Vorliegens der oben genannten Tatbestände a) bis\nd) als solche vom Patentschutz ausgeschlossen ist (§ 1 Abs. 3 und 4 PatG). Diese Untersuchung wird anhand eines für diese Tatbestände einheitlichen Beurteilungskriteriums vorgenommen. Liegt kein Ausschluss vor, wird in einer dritten Stufe die Prüfung auf Neuheit und erfinderische Tätigkeit des Gegenstands derart durchgeführt, dass nur diejenigen Anweisungen berücksichtigt werden, die die Lösung eines konkreten technischen Problems mit technischen Mitteln bestimmen oder zumindest beeinflussen. [70] Die vorgelagerte Prüfung auf das Vorliegen eines Ausschlusstatbestands nach den ersten beiden Stufen erfolgt nur auf der Grundlage der zu prüfenden Patentanmeldung und regelmäßig ohne Berücksichtigung des Standes der Technik; sie dient damit einer Art Grobsichtung zur Ausfilterung derjenigen Fälle, in denen ein Patentanspruch überhaupt keine technische Anweisung enthält, die sinnvollerweise der Prüfung auf erfinderische Tätigkeit zugrunde gelegt werden kann. [71] Allerdings soll auch in den Fällen, in denen ein Ausschlusstatbestand vorzuliegen scheint, die Prüfung der Patentanmeldung nicht mit der zweiten Stufe enden; vielmehr soll regelmäßig nach treffendem Stand der Technik recherchiert und eine Beurteilung der Merkmale der Patentansprüche im Lichte der in Betracht gezogenen Druckschriften vorgenommen werden. Hinsichtlich der gesetzlichen Patentierungsvoraussetzungen und Patentierungsausschlüsse muss jedoch nicht unbedingt eine bestimmte Prüfungsreihenfolge eingehalten werden. [72]",
+   "fussnoten": [
+    {
+     "nr": 70,
+     "text": "BGH GRUR 2011, 125 Wiedergabe topografischer Informationen; BGH GRUR 2011, 610 Webseitenanzeige"
+    },
+    {
+     "nr": 71,
+     "text": "BGH GRUR 2011, 125 Wiedergabe topografischer Informationen"
+    },
+    {
+     "nr": 72,
+     "text": "BGH GRUR 2004, 667 Elektronischer Zahlungsverkehr"
+    }
+   ]
+  },
+  {
+   "nr": "3.2.3.1",
+   "titel": "Erste Stufe: Prüfung des Technizitätserfordernisses gemäß § 1 Abs. 1 PatG",
+   "ebene": 4,
+   "seite": 29,
+   "text": "Ein Verfahren, dessen Gegenstand die Abarbeitung von Verfahrensschritten mit Hilfe elektronischer Datenverarbeitung ist, erfüllt das Technizitätserfordernis nach § 1 Abs. 1 PatG im Rahmen der ersten Stufe der Prüfung bereits dann, wenn es die Nutzung von Komponenten einer Datenverarbeitungsanlage zumindest implizit lehrt und damit eine Anweisung zum technischen Handeln gibt. Es ist dabei nicht erforderlich, dass diese Komponenten im Anspruch selbst spezifiziert werden. Denn ein Verfahren, das der datenverarbeitungsmäßigen Abarbeitung von Verfahrensschritten in netzwerkmäßig verbundenen technischen Geräten dient, weist die für den Patentschutz vorauszusetzende Technizität auch dann auf, wenn diese Geräte nicht ausdrücklich im Patentanspruch genannt sind. Wenn ein Verfahren der Verarbeitung, Speicherung oder Übermittlung von Daten mittels eines technischen Gerätes dient oder das unmittelbare Zusammenwirken der Elemente eines Datenverarbeitungssystems betrifft, erfüllt es ebenfalls das Technizitätserfordernis gemäß § 1 Abs. 1 PatG; es ist dabei auch unerheblich, ob die Erfindung (prinzipielle) Abwandlungen der Arbeitsweise der Komponenten einer Datenverarbeitungsanlage lehrt. [73] Auch einer Vorrichtung (Datenverarbeitungsanlage), die in bestimmter Weise programmtechnisch eingerichtet ist, kommt bereits aufgrund ihrer gegenständlichen Ausbildung ohne Weiteres technischer Charakter zu, selbst wenn die Vorrichtung beispielsweise erfindungsgemäß der Textbearbeitung dient. Für die Beurteilung des technischen Charakters einer Vorrichtung kommt es nicht darauf an, ob mit ihr ein weiterer technischer Effekt erzielt wird, ob die Technik durch sie bereichert wird oder ob sie einen Beitrag zum Stand der Technik leistet. [74] Für die Beurteilung des Technizitätserfordernisses ist es auch nicht relevant, ob der Gegenstand einer Anmeldung neben technischen Merkmalen auch nichttechnische aufweist. [75]",
+   "fussnoten": [
+    {
+     "nr": 73,
+     "text": "BGH GRUR 2010, 613 Dynamische Dokumentengenerierung; BGH GRUR 2011, 610 Webseitenanzeige; BGH vom 29.11.2016 – X ZR 90/14"
+    },
+    {
+     "nr": 74,
+     "text": "BGH GRUR 2000, 1007 Sprachanalyseeinrichtung; BGH GRUR 2010, 613 Dynamische Dokumentengenerierung"
+    },
+    {
+     "nr": 75,
+     "text": "BGH vom 29.11.2016 – X ZR 90/14; BGH GRUR 2009, 479 Steuerungseinrichtung für Untersuchungsmodalitäten; BGH GRUR 2011, 125 Wiedergabe topografischer Informationen; BGH GRUR 2010, 613 Dynamische Dokumentengenerierung"
+    }
+   ]
+  },
+  {
+   "nr": "3.2.3.2",
+   "titel": "Zweite Stufe: Prüfung, ob eine Lösung eines konkreten technischen Problems mit technischen Mitteln vorliegt (Ausschlusstatbestände gemäß § 1 Abs. 3, 4 PatG)",
+   "ebene": 4,
+   "seite": 30,
+   "text": "Das Patentgesetz schließt die in Abschnitt 3.2.2. genannten Tätigkeiten und Gegenstände a) bis d) als solche vom Patentschutz aus. Daher ist ein auf dem Gebiet der Technik eingesetztes Verfahren nicht schon deshalb dem Patentschutz zugänglich, weil es sich zur Herbeiführung des angestrebten Erfolgs des bloßen Vorgangs der elektronischen Datenverarbeitung oder des Einsatzes eines Programms zur Steuerung einer Datenverarbeitungsanlage bedient. Eine programmbezogene Erfindung wird auch nicht schon dadurch patentierbar, dass sie in einer auf einem herkömmlichen Datenträger gespeicherten Form zum Patentschutz angemeldet wird. [76] In der zweiten Stufe der Prüfung muss nun also untersucht werden, ob die beanspruchte Lehre Anweisungen enthält, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen. Außerhalb der Technik liegende Anweisungen, insbesondere, wenn sie sich darauf beschränken zu umschreiben, wozu der Computer eingesetzt werden soll, genügen in diesem Zusammenhang grundsätzlich nicht. Jedoch greifen die Ausschlusstatbestände des § 1 Abs. 3 Nr. 3 und Nr. 4 PatG schon dann nicht ein, wenn wenigstens einem Teil der Lehre ein konkretes technisches Problem zugrunde liegt. Es ist dann unschädlich, wenn dieses Bestandteil eines umfassenderen durch die beanspruchte Lehre gelösten Problems ist, das seinerseits nicht oder nur teilweise technischen Charakter trägt. [77] Der Ausschlusstatbestand des § 1 Abs. 3 PatG kommt ferner nur für Verfahren, nicht aber für Vorrichtungen in Betracht. So hat der BGH einen Patentierungsausschluss nach § 1 Abs. 3 Nr. 3 PatG nur für Programme für Datenverarbeitungsanlagen erwogen, nicht aber für eine vorrichtungsmäßige Einkleidung einer Lehre, die sich der elektronischen Datenverarbeitung bedient. Nichts Anderes gilt für die Behandlung von Lehren, die mathematische Methoden, Regeln oder Verfahren für geschäftliche Tätigkeiten oder die Wiedergabe von Informationen zum Inhalt haben, so dass auch Vorrichtungen, die sich dieser Lehren bedienen, nicht dem Patentierungsausschluss unterfallen. [78]\nIm Rahmen der Beantwortung der Frage, ob die beanspruchte Lehre Anweisungen enthält, die der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen, ist das technische Problem selbst zu ermitteln, das auch für die Prüfung in der dritten Stufe von Bedeutung ist. Die Ermittlung des einem Patent bzw. einer Patentanmeldung zugrundeliegenden technischen Problems ist Teil der Auslegung des Patentanspruchs. Das technische Problem ist aus dem zu entwickeln, was die Erfindung tatsächlich leistet. [79] Allgemein sind im Rahmen der Auslegung der Sinngehalt des Patentanspruchs in seiner Gesamtheit und der Beitrag, den die einzelnen Merkmale zum Leistungsergebnis der Erfindung liefern, zu bestimmen. Die Bestimmung des Sinngehalts eines einzelnen Merkmals muss stets in diesem Kontext erfolgen; für das Verständnis entscheidend ist zumindest im Zweifel die Funktion, die das einzelne technische Merkmal für sich und im Zusammenwirken mit den übrigen Merkmalen des Patentanspruchs bei der Herbeiführung des erfindungsgemäßen Erfolgs hat. [80] Aus der Funktion der einzelnen Merkmale im Kontext des Patentanspruchs ist abzuleiten, welches technische Problem diese Merkmale für sich und in ihrer Gesamtheit tatsächlich lösen. [81] Dabei sind Beschreibung und Zeichnungen heranzuziehen, die die technische Lehre des Patentanspruchs erläutern und veranschaulichen; [82] sie dürfen jedoch nicht zu einer sachlichen Einengung des durch den Wortlaut des Patentanspruchs festgelegten Gegenstands führen. [83] Die in der Patentanmeldung angegebene Aufgabe der Erfindung kann einen Hinweis auf das richtige Verständnis enthalten; [84] sie ist aber als solche nicht maßgeblich und lediglich ein Hilfsmittel für die Ermittlung des objektiven technischen Problems. [85] Ob ein konkretes technisches Problem besteht und gelöst wird, beruht auf einer Wertung, die im Ergebnis nicht davon abhängen darf, ob der zu beurteilende Vorschlag neu und erfinderisch ist. [86] Bei der Bestimmung des technischen Problems (der „Aufgabe“) der Erfindung sind ferner Vorgaben, die der Fachmann von seinen Auftraggebern erhält, mit einzubeziehen, sie sind nicht der Problemlösung, sondern dem Problem selbst zuzurechnen. [87] Eine Problemlösung mit technischen Mitteln liegt etwa dann vor, wenn (i) Gerätekomponenten modifiziert, grundsätzlich abweichend oder in neuartiger („besonderer“) Weise adressiert werden, wenn (ii) der Ablauf eines Datenverarbeitungsprogramms, das zur Lösung des Problems eingesetzt wird, durch technische Gegebenheiten außerhalb der Datenverarbeitungsanlage bestimmt wird oder wenn (iii) die Lösung gerade darin besteht, ein Datenverarbeitungsprogramm so auszugestalten, dass es auf die technischen Gegebenheiten der Datenverarbeitungsanlage Rücksicht nimmt. [88] Beispielsweise löst ein Verfahren zur Verarbeitung medizinisch relevanter Daten, bei dem anhand von symptomspezifischen und/oder diagnosespezifischen Informationen Untersuchungsmodalitäten ausgewählt und an diese zugehörige Untersuchungs- oder Messprotokolle übertragen werden, ein konkretes technisches Problem, soweit es auch den Einsatz der jeweiligen Untersuchungsmodalität steuert (etwa die Einstellung der Bildauflösung bei Computertomografien). Die programmgesteuerte Einstellung solcher Geräteparameter führt einen technischen Erfolg herbei, der einem Anwendungsprogramm zur Überwachung und Regelung des Ablaufs einer technischen Einrichtung oder zur Aufarbeitung von Messergebnissen vergleichbar ist. [89] Im Gegensatz dazu stellt es keine Lösung eines technischen Problems mit technischen Mitteln dar, wenn bei einem Verfahren mittels automatischer Erfassung und Übertragung von Betriebsdaten eines ersten medizintechnischen Geräts an eine zentrale Datenbank sowie der Ermittlung von Vergütungsdaten und kalkulatorischen Kosten die Rentabilität der Anschaffung eines zweiten medizintechnischen Geräts errechnet wird [90] oder wenn die Leistung eines Verfahrens zum Auf- und Wiederfinden einer bestimmten Informationsseite im Internet lediglich in der Erfassung, Speicherung und Aufbereitung von Bedienereingaben am Rechner des Benutzers mit üblichen datentechnischen Verfahrensschritten besteht. [91] Ein Verfahren zum Betrieb eines Kommunikationssystems, bei dem von einem Kunden an seinem Rechner vorgenommene Bedienhandlungen erfasst, an einen zentralen Rechner gemeldet, dort protokolliert und mit Referenzprotokollen verglichen werden, um dem Kunden, wenn er voraussichtlich sonst keinen Auftrag erteilen wird, an seinem Rechner eine interaktive Hilfe anzubieten, ist ebenfalls als solches nicht dem Patentschutz zugänglich. [92] Nichts Anderes als für Programme für Datenverarbeitungsanlagen gilt bei der zweiten Stufe der Prüfung, wenn in Rede steht, ob eine beanspruchte Lehre als mathematische Methode (§ 1 Abs. 3 Nr. 1 PatG), als Regel oder Verfahren für geschäftliche Tätigkeiten (§ 1 Abs. 3 Nr. 3 PatG) oder als Wiedergabe von Informationen (§ 1 Abs. 3 Nr. 4 PatG) nicht als Erfindung anzusehen ist. Sofern Anweisungen beansprucht werden, mit denen ein konkretes technisches Problem gelöst wird, kommt es nicht darauf an, ob der Patentanspruch auch auf die Verwendung eines Algorithmus, einen im geschäftlichen Bereich liegenden Zweck des Verfahrens oder auf den Informationscharakter von Verfahrensergebnissen abstellt. [93] Eine mathematische Methode kann jedoch nur dann als nicht-technisch angesehen werden, wenn sie im Zusammenhang mit der beanspruchten Lehre keinen Bezug zur gezielten Anwendung von Naturkräften aufweist. Ein ausreichender Bezug zur gezielten Anwendung von Naturkräften liegt beispielsweise dann vor, wenn eine mathematische Methode zu dem Zweck herangezogen wird, anhand von zur Verfügung stehenden Messwerten zuverlässigere Erkenntnisse über den Zustand eines Flugzeugs zu gewinnen und damit die Funktionsweise des Systems, das der Ermittlung dieses Zustands dient, zu beeinflussen. [94] Anweisungen, die zwar die (visuelle) Informationswiedergabe betreffen, bei denen jedoch die Präsentation von Bildinhalten in einer Weise im Blickpunkt steht, die auf die physischen Gegebenheiten der menschlichen Wahrnehmung und Aufnahme von Informationen Rücksicht nimmt und darauf gerichtet ist, die Wahrnehmung der gezeigten Informationen durch den Menschen in bestimmter Weise überhaupt erst zu ermöglichen, zu verbessern oder zweckmäßig zu gestalten, dienen ebenfalls der Lösung eines konkreten technischen Problems mit technischen Mitteln. [95]",
+   "fussnoten": [
+    {
+     "nr": 76,
+     "text": "BGH GRUR 2002, 143 Suche fehlerhafter Zeichenketten"
+    },
+    {
+     "nr": 77,
+     "text": "BGH GRUR 2005, 141 Anbieten interaktiver Hilfe; BGH GRUR 2004, 667 Elektronischer Zahlungsverkehr; BGH GRUR 2005, 143 Rentabilitätsermittlung; BGH GRUR 2011, 610 Webseitenanzeige"
+    },
+    {
+     "nr": 78,
+     "text": "BGH vom 27.03.2018 – X ZB 11/17; BGH GRUR 2005, 143 Rentabilitätsermittlung; BGH GRUR 2005, 141 Anbieten interaktiver Hilfe"
+    },
+    {
+     "nr": 79,
+     "text": "BGH GRUR 2010, 602 Gelenkanordnung"
+    },
+    {
+     "nr": 80,
+     "text": "BGH GRUR 2012, 1124 Polymerschaum"
+    },
+    {
+     "nr": 81,
+     "text": "BGH GRUR 2010, 602 Gelenkanordnung"
+    },
+    {
+     "nr": 82,
+     "text": "BGH GRUR 2012, 1124 Polymerschaum"
+    },
+    {
+     "nr": 83,
+     "text": "BGH GRUR 2010, 602 Gelenkanordnung"
+    },
+    {
+     "nr": 84,
+     "text": "BGH GRUR 2010, 602 Gelenkanordnung"
+    },
+    {
+     "nr": 85,
+     "text": "BGH GRUR 2005, 141 Anbieten interaktiver Hilfe"
+    },
+    {
+     "nr": 86,
+     "text": "BGH GRUR 2004, 667 Elektronischer Zahlungsverkehr"
+    },
+    {
+     "nr": 87,
+     "text": "BGH GRUR 2011, 125 Wiedergabe topografischer Informationen; BGH GRUR 2010, 44 Dreinahtschlauchfolienbeutel"
+    },
+    {
+     "nr": 88,
+     "text": "BGH GRUR 2010, 613 Dynamische Dokumentengenerierung; BGH GRUR 2011, 610 Webseitenanzeige"
+    },
+    {
+     "nr": 89,
+     "text": "BGH GRUR 2009, 479 Steuerungseinrichtung für Untersuchungsmodalitäten"
+    },
+    {
+     "nr": 90,
+     "text": "BGH GRUR 2005, 143 Rentabilitätsermittlung"
+    },
+    {
+     "nr": 91,
+     "text": "BGH GRUR 2011, 610 Webseitenanzeige"
+    },
+    {
+     "nr": 92,
+     "text": "BGH GRUR 2005, 141 Anbieten interaktiver Hilfe"
+    },
+    {
+     "nr": 93,
+     "text": "BGH GRUR 2005, 141 Anbieten interaktiver Hilfe; BGH GRUR 2005, 143 Rentabilitätsermittlung; BGH GRUR 2005, 749 Aufzeichnungsträger"
+    },
+    {
+     "nr": 94,
+     "text": "BGH GRUR 2015, 983 Flugzeugzustand"
+    },
+    {
+     "nr": 95,
+     "text": "BGH GRUR 2015, 660 Bildstrom"
+    }
+   ]
+  },
+  {
+   "nr": "3.2.3.3",
+   "titel": "Dritte Stufe: Prüfung der Lösung des konkreten technischen Problems auf Neuheit und erfinderische Tätigkeit gemäß §§ 3, 4 PatG",
+   "ebene": 4,
+   "seite": 31,
+   "text": "Schutzfähig ist eine programmbezogene Erfindung ferner erst dann, wenn die Lösung des konkreten technischen Problems neu und erfinderisch ist. Daher ist der beanspruchte Gegenstand – wie bei allen anderen Erfindungen auch – daraufhin zu untersuchen, ob er gegenüber dem Stand der Technik neu ist und ob ausschließlich die die Lösung des konkreten technischen Problems mit technischen Mitteln bestimmenden oder zumindest beeinflussenden Anweisungen die erfinderische Tätigkeit der Lehre gegenüber dem Stand der Technik im Sinne des § 4 PatG stützen können; [96] die übrigen Merkmale bleiben bei der Prüfung auf erfinderische Tätigkeit außer Betracht. Außerhalb der Technik liegende Anweisungen (die z. B. die Vorgänge der bloßen Sammlung, Speicherung, Auswertung und Verwendung von Daten betreffen) sind nur in dem Umfang von Bedeutung, in dem sie auf die Lösung des technischen Problems mit technischen Mitteln Einfluss nehmen. [97] Dass ein Gegenstand unter Umständen auch Merkmale aufweist, die nicht zur Lösung eines konkreten technischen Problems mit technischen Mitteln beitragen, steht jedoch seiner Patentierung nicht entgegen. Auch können Anweisungen zur Auswahl von Daten, deren technischer Aspekt sich auf die Anweisung beschränkt, hierzu Mittel der elektronischen Datenverarbeitung einzusetzen, bei der Beurteilung der erfinderischen Tätigkeit nicht berücksichtigt werden; dies gilt auch dann, wenn solche Anweisungen zu einer Verringerung der erforderlichen Rechenschritte führen. [98] So bleibt etwa die Auswahl einer für die Navigation eines Fahrzeugs zweckmäßigen, zentralperspektivischen Darstellung positionsbezogener topografischer Informationen als nichttechnische Vorgabe für den technischen Fachmann bei der Prüfung eines Verfahrens zur Wiedergabe topografischer Informationen auf erfinderische Tätigkeit außer Betracht. [99] Dies gilt auch für die Anweisung an den Fachmann, bei der Sprachausgabe eines Navigationshinweises unter bestimmten Bedingungen bestimmte Detailinformationen wie etwa Straßennamen zu berücksichtigen; sie betrifft lediglich den Inhalt der durch das Navigationssystem optisch oder akustisch wiedergegebenen Information. [100] Bei der Prüfung der erfinderischen Tätigkeit bleiben ferner Anweisungen, die die Vermittlung bestimmter Inhalte betreffen und damit darauf zielen, auf die menschliche Vorstellung oder Verstandesfähigkeit einzuwirken, als solche unberücksichtigt. [101]",
+   "fussnoten": [
+    {
+     "nr": 96,
+     "text": "BGH GRUR 2011, 125 Wiedergabe topografischer Informationen"
+    },
+    {
+     "nr": 97,
+     "text": "BGH GRUR 2010, 613 Dynamische Dokumentengenerierung; BGH GRUR 2009, 479 Steuerungseinrichtung für Untersuchungsmodalitäten"
+    },
+    {
+     "nr": 98,
+     "text": "BGH GRUR 2013, 275 Routenplanung"
+    },
+    {
+     "nr": 99,
+     "text": "BGH GRUR 2011, 125 Wiedergabe topografischer Informationen"
+    },
+    {
+     "nr": 100,
+     "text": "BGH GRUR 2013, 909 Fahrzeugnavigationssystem"
+    },
+    {
+     "nr": 101,
+     "text": "BGH GRUR 2015, 660 Bildstrom"
+    }
+   ]
+  },
+  {
+   "nr": "3.2.4",
+   "titel": "Weitere Aspekte hinsichtlich programmbezogener Erfindungen",
+   "ebene": 3,
+   "seite": 32,
+   "text": "Die Anmeldungen sind in der deutschen Fachsprache abzufassen, können aber die üblichen fremdsprachigen Fachausdrücke aus dem Gebiet der Datenverarbeitung enthalten. Die Beschreibung kann durch Diagramme, die den Ablauf der Verarbeitung von Daten betreffen, ergänzt sein. Sie kann einen Datenflussplan enthalten, in dem die zeitliche Folge zusammengehöriger Vorgänge an den Daten und den Datenträgern angegeben wird, und einen Programmablaufplan, in dem die Gesamtheit aller beim Programmablauf möglichen Wege dargestellt wird. Kurze Auszüge aus einem Programm für Datenverarbeitungsanlagen in einer üblichen, genau bezeichneten Programmiersprache können in der Beschreibung zugelassen werden, wenn sie der Verdeutlichung dienen.",
+   "fussnoten": []
+  },
+  {
+   "nr": "3.3",
+   "titel": "Erfindungen mit einem Bezug zu Künstlicher Intelligenz",
+   "ebene": 2,
+   "seite": 32,
+   "text": "Anmeldungen, die Erfindungen mit einem Bezug zu Künstlicher Intelligenz (KI) zum Gegenstand haben, können einerseits Erfindungen betreffen, die die Grundlagen schaffen, um Künstliche Intelligenz anzuwenden oder einzusetzen (zum Beispiel KI-spezifische Hardware-Architekturen, KI-spezifische Algorithmen und Modelle, maschinelle Lernverfahren usw.). Andererseits können diese Anmeldungen auch Erfindungen betreffen, bei denen Künstliche Intelligenz für ein bestimmtes Anwendungsgebiet oder einen bestimmten Anwendungsfall eingesetzt wird. Für die Prüfung von Anmeldungen, die KI-bezogene Erfindungen zum Gegenstand haben, gibt es bislang keine etablierte Rechtsprechung. Da aber KI-bezogene Erfindungen in aller Regel eine große Nähe zu programmbezogenen Erfindungen (auch computerimplementierte Erfindungen genannt) aufweisen, wird die Herangehensweise der Prüfung von programmbezogenen Erfindungen, einschließlich des dreistufigen Prüfungsansatzes, auf die Prüfung von KI-bezogenen Erfindungen regelmäßig übertragen. Es wird deshalb auf die Ausführungen in Abschnitt 3.2. verwiesen.",
+   "fussnoten": []
+  },
+  {
+   "nr": "4",
+   "titel": "Information der Öffentlichkeit",
+   "ebene": 1,
+   "seite": 33,
+   "text": "Das DPMA gewährt nach Maßgabe des § 31 PatG jedermann Einsicht in die Akten. Dies umfasst auch eine Akteneinsicht über das Internet, soweit die Einsicht in die Akten jedermann freisteht (§ 31 Abs. 3a PatG). Die Akteneinsicht ist ausgeschlossen, soweit eine Rechtsvorschrift entgegensteht, soweit das schutzwürdige Interesse der betroffenen Person im Sinne des Artikels 4 Nummer 1 der Verordnung (EU) 679/2016 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1; L 314 vom 22.11.2016, S. 72; L 127 vom 23.5.2018, S 2) in der jeweils geltenden Fassung offensichtlich überwiegt oder in den Akten Angaben oder Zeichnungen enthalten sind, die offensichtlich gegen die öffentliche Ordnung oder die guten Sitten verstoßen (§ 31 Abs. 3b Nr. 3 PatG). Auf die Mitteilung Nr. 12/13 der Präsidentin des Deutschen Patent- und Markenamts mit Hinweisen zur Einführung der elektronischen Akteneinsicht über das Internet in Patent- und Gebrauchsmusterverfahren vom 28. November 2013 wird verwiesen.\nDie elektronische Akteneinsicht wird nur für bereits veröffentlichte Anmeldungen angeboten (§ 31 Abs. 1 Satz 2 und Abs. 2 PatG). Nichtpatentliteratur wird aus urheberrechtlichen Gründen nicht angezeigt. In diese kann Einsicht genommen werden, wenn dies ausdrücklich im Rahmen eines schriftlichen Antrags auf Akteneinsicht nach § 31 Abs. 1 Satz 2 PatG beim DPMA beantragt wird. Neben der Akteneinsicht über das Internet bestehen – auf Antrag – auch weiterhin die Möglichkeiten der Einsichtnahme durch Übersendung von Kopien aus der Akte sowie der Einsichtnahme durch Bereitstellung in einem der Recherchesäle des DPMA. Die elektronische Akteneinsicht ist – sofern die Akte für die elektronische Akteneinsicht frei geschaltet ist – über den Dienst DPMAregister möglich (https://register.dpma.de).",
+   "fussnoten": []
+  }
+ ]
+}

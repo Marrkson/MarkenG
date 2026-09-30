@@ -5567,7 +5567,7 @@
   "id": "card:definition:concept:pat_programme",
   "typ": "definition",
   "front": "Definiere: Computerprogramme und Geschäftsmethoden (§ 1 Abs. 3 Nr. 3 PatG)",
-  "back": "Programme für Datenverarbeitungsanlagen, Regeln für geistige Tätigkeiten und Geschäftsmethoden sind als solche keine Erfindungen (§ 1 Abs. 3 Nr. 3, Abs. 4 PatG). Patentfähig ist eine programmbezogene Lehre, wenn sie ein konkretes technisches Problem mit technischen Mitteln löst.\n\nNormen: § 1 Abs. 3 Nr. 3 PatG, § 1 Abs. 4 PatG\n\nRechtsprechung: BGH Dynamische Dokumentengenerierung (Xa ZB 20/08); BGH Webseitenanzeige (X ZR 121/09); BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07)",
+  "back": "Programme für Datenverarbeitungsanlagen, Regeln für geistige Tätigkeiten und Geschäftsmethoden sind als solche keine Erfindungen (§ 1 Abs. 3 Nr. 3, Abs. 4 PatG). Patentfähig ist eine programmbezogene Lehre, wenn sie ein konkretes technisches Problem mit technischen Mitteln löst.\n\nNormen: § 1 Abs. 3 Nr. 3 PatG, § 1 Abs. 4 PatG\n\nRechtsprechung: BGH Dynamische Dokumentengenerierung (Xa ZB 20/08); BGH Webseitenanzeige (X ZR 121/09); BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07); BGH Wiedergabe topografischer Informationen (X ZR 47/07)",
   "tags": [
    "Begriff",
    "Patent: Patentfähigkeit"
@@ -5749,7 +5749,7 @@
   "id": "card:definition:concept:pat_fachmann",
   "typ": "definition",
   "front": "Definiere: Fachmann (Durchschnittsfachmann)",
-  "back": "Der Fachmann ist eine fiktive Person mit den durchschnittlichen Kenntnissen und Fähigkeiten auf dem technischen Gebiet der Erfindung am Prioritätstag; er ist Maßstab für Auslegung, Neuheit, erfinderische Tätigkeit, Ausführbarkeit und Äquivalenz.\n\nNormen: § 4 PatG, § 14 PatG\n\nRechtsprechung: BGH Fischbissanzeiger (Xa ZR 138/05); BGH Airbag-Auslösesteuerung (Xa ZR 56/05); BGH Farbversorgungssystem (X ZR 139/10)",
+  "back": "Der Fachmann ist eine fiktive Person mit den durchschnittlichen Kenntnissen und Fähigkeiten auf dem technischen Gebiet der Erfindung am Prioritätstag; er ist Maßstab für Auslegung, Neuheit, erfinderische Tätigkeit, Ausführbarkeit und Äquivalenz.\n\nNormen: § 4 PatG, § 14 PatG\n\nRechtsprechung: BGH Fischbissanzeiger (Xa ZR 138/05); BGH Airbag-Auslösesteuerung (Xa ZR 56/05); BGH Farbversorgungssystem (X ZR 139/10); BGH Brieflocher (X ZR 145/98)",
   "tags": [
    "Begriff",
    "Patent: Patentfähigkeit"
@@ -5775,7 +5775,7 @@
   "id": "card:definition:concept:pat_aufgabe_loesung",
   "typ": "definition",
   "front": "Definiere: Aufgabe und Lösung (technisches Problem)",
-  "back": "Das technische Problem (Aufgabe) ist objektiv aus dem zu bestimmen, was die Erfindung gegenüber dem Stand der Technik tatsächlich leistet; es darf keine Lösungselemente enthalten und ist nicht an die in der Patentschrift formulierte Aufgabe gebunden.\n\nNormen: § 4 PatG, § 10 PatV\n\nRechtsprechung: BGH Papiermaschinengewebe (X ZR 273/02)",
+  "back": "Das technische Problem (Aufgabe) ist objektiv aus dem zu bestimmen, was die Erfindung gegenüber dem Stand der Technik tatsächlich leistet; es darf keine Lösungselemente enthalten und ist nicht an die in der Patentschrift formulierte Aufgabe gebunden.\n\nNormen: § 4 PatG, § 10 PatV\n\nRechtsprechung: BGH Papiermaschinengewebe (X ZR 273/02); BGH Gelenkanordnung (Xa ZR 36/08); BGH Dreinahtschlauchfolienbeutel (Xa ZR 22/06)",
   "tags": [
    "Begriff",
    "Patent: Patentfähigkeit"
@@ -5827,7 +5827,7 @@
   "id": "card:definition:concept:pat_ausfuehrbarkeit",
   "typ": "definition",
   "front": "Definiere: Ausführbarkeit (deutliche und vollständige Offenbarung)",
-  "back": "Die Anmeldung muss die Erfindung so deutlich und vollständig offenbaren, dass ein Fachmann sie ausführen kann (§ 34 Abs. 4 PatG); fehlende Ausführbarkeit ist Widerrufs- und Nichtigkeitsgrund (§ 21 Abs. 1 Nr. 2, § 22 PatG, Art. II § 6 Abs. 1 Nr. 2 IntPatÜG).\n\nNormen: § 34 Abs. 4 PatG, § 21 Abs. 1 Nr. 2 PatG, Art. II § 6 Abs. 1 Nr. 2 IntPatÜG\n\nRechtsprechung: BGH Thermoplastische Zusammensetzung (Xa ZR 100/05); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP))",
+  "back": "Die Anmeldung muss die Erfindung so deutlich und vollständig offenbaren, dass ein Fachmann sie ausführen kann (§ 34 Abs. 4 PatG); fehlende Ausführbarkeit ist Widerrufs- und Nichtigkeitsgrund (§ 21 Abs. 1 Nr. 2, § 22 PatG, Art. II § 6 Abs. 1 Nr. 2 IntPatÜG).\n\nNormen: § 34 Abs. 4 PatG, § 21 Abs. 1 Nr. 2 PatG, Art. II § 6 Abs. 1 Nr. 2 IntPatÜG\n\nRechtsprechung: BGH Thermoplastische Zusammensetzung (Xa ZR 100/05); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP)); BGH Klammernahtgerät (Xa ZR 126/07); BGH Taxol (X ZR 168/97)",
   "tags": [
    "Begriff",
    "Patent: Patentfähigkeit"
@@ -5905,7 +5905,7 @@
   "id": "card:definition:concept:pat_zweckangabe",
   "typ": "definition",
   "front": "Definiere: Zweck-, Wirkungs- und Funktionsangaben",
-  "back": "Zweck-, Wirkungs- und Funktionsangaben im Anspruch beschränken den Gegenstand nicht auf den genannten Zweck, können ihn aber mittelbar definieren: Die Vorrichtung muss so ausgebildet sein, dass sie die angegebene Funktion erfüllen kann.\n\nNormen: § 14 PatG, § 9 PatV\n\nRechtsprechung: BGH Bildunterstützung bei Katheternavigation (X ZB 9/09); BGH Referenzkontur (X ZR 35/24)",
+  "back": "Zweck-, Wirkungs- und Funktionsangaben im Anspruch beschränken den Gegenstand nicht auf den genannten Zweck, können ihn aber mittelbar definieren: Die Vorrichtung muss so ausgebildet sein, dass sie die angegebene Funktion erfüllen kann.\n\nNormen: § 14 PatG, § 9 PatV\n\nRechtsprechung: BGH Bildunterstützung bei Katheternavigation (X ZB 9/09); BGH Referenzkontur (X ZR 35/24); BGH Gurtstraffer (X ZR 50/16)",
   "tags": [
    "Begriff",
    "Patent: Schutzbereich und Auslegung"
@@ -6477,7 +6477,7 @@
   "id": "card:definition:concept:pat_prioritaet",
   "typ": "definition",
   "front": "Definiere: Priorität (§§ 40, 41 PatG)",
-  "back": "Innerhalb von zwölf Monaten nach einer ersten Anmeldung kann für dieselbe Erfindung deren Zeitrang beansprucht werden: innere Priorität einer deutschen Voranmeldung (§ 40 PatG) oder Unionspriorität einer ausländischen Anmeldung nach der PVÜ (§ 41 PatG); die Prioritätserklärung ist binnen zwei Monaten nach der Nachanmeldung (§ 40 Abs. 4 PatG) bzw. binnen 16 Monaten ab Prioritätstag (§ 41 Abs. 1 PatG) abzugeben.\n\nNormen: § 40 PatG, § 41 PatG, § 123 Abs. 1 PatG\n\nRechtsprechung: BGH Fahrzeugscheibe (X ZR 49/12); BGH Kommunikationskanal (X ZR 107/12); BPatG Mehrfach-Funkgerät (10 W (pat) 36/06)",
+  "back": "Innerhalb von zwölf Monaten nach einer ersten Anmeldung kann für dieselbe Erfindung deren Zeitrang beansprucht werden: innere Priorität einer deutschen Voranmeldung (§ 40 PatG) oder Unionspriorität einer ausländischen Anmeldung nach der PVÜ (§ 41 PatG); die Prioritätserklärung ist binnen zwei Monaten nach der Nachanmeldung (§ 40 Abs. 4 PatG) bzw. binnen 16 Monaten ab Prioritätstag (§ 41 Abs. 1 PatG) abzugeben.\n\nNormen: § 40 PatG, § 41 PatG, § 123 Abs. 1 PatG\n\nRechtsprechung: BGH Fahrzeugscheibe (X ZR 49/12); BGH Kommunikationskanal (X ZR 107/12); BPatG Mehrfach-Funkgerät (10 W (pat) 36/06); BGH Luftverteiler (X ZR 168/98)",
   "tags": [
    "Begriff",
    "Patent: Anmeldung und Erteilung"
@@ -6555,7 +6555,7 @@
   "id": "card:definition:concept:pat_pruefungsverfahren",
   "typ": "definition",
   "front": "Definiere: Prüfungsverfahren: Recherche, Prüfungsantrag, Erteilung (§§ 42 bis 49 PatG)",
-  "back": "Nach der Offensichtlichkeitsprüfung (§ 42 PatG) wird die Anmeldung nur auf Prüfungsantrag sachlich geprüft; der Antrag ist binnen sieben Jahren ab Anmeldetag von jedermann stellbar (§ 44 Abs. 2 PatG), sonst gilt die Anmeldung als zurückgenommen (§ 58 Abs. 3 PatG). Genügt die Anmeldung den Anforderungen, ergeht der Erteilungsbeschluss (§ 49 PatG), sonst Zurückweisung (§ 48 PatG).\n\nNormen: § 42 PatG, § 43 PatG, § 44 PatG, § 45 PatG, § 48 PatG, § 49 PatG, § 6 Abs. 1 PatKostG\n\nRechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07); BGH Phosphatidylcholin (X ZB 5/16)",
+  "back": "Nach der Offensichtlichkeitsprüfung (§ 42 PatG) wird die Anmeldung nur auf Prüfungsantrag sachlich geprüft; der Antrag ist binnen sieben Jahren ab Anmeldetag von jedermann stellbar (§ 44 Abs. 2 PatG), sonst gilt die Anmeldung als zurückgenommen (§ 58 Abs. 3 PatG). Genügt die Anmeldung den Anforderungen, ergeht der Erteilungsbeschluss (§ 49 PatG), sonst Zurückweisung (§ 48 PatG).\n\nNormen: § 42 PatG, § 43 PatG, § 44 PatG, § 45 PatG, § 48 PatG, § 49 PatG, § 6 Abs. 1 PatKostG\n\nRechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07); BGH Phosphatidylcholin (X ZB 5/16); BPatG Batterieüberwachungsgerät (15 W (pat) 33/08)",
   "tags": [
    "Begriff",
    "Patent: Anmeldung und Erteilung"
@@ -7563,6 +7563,396 @@
    "Patent: Europäische und internationale Anmeldung (IntPatÜG)"
   ],
   "node": "concept:pat_pct_nationale_phase",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_pruefungsrichtlinien",
+  "typ": "definition",
+  "front": "Definiere: Prüfungsrichtlinien des DPMA",
+  "back": "Die Richtlinien für die Prüfung von Patentanmeldungen sind eine Verwaltungsvorschrift des DPMA. Sie enthalten die Grundsätze für Offensichtlichkeitsprüfung, Recherche, Bescheid, Erteilung und Zurückweisung und sollen eine einheitliche und zügige Behandlung durch die Prüfungsstellen sichern.\n\nNormen: § 42 PatG, § 44 PatG, § 45 PatG, § 48 PatG, § 49 PatG",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_pruefungsrichtlinien",
+  "law": "",
+  "erlaeuterung": "Geltende Ausgabe vom 2. März 2026 (ersetzt die Fassung vom 6. Mai 2025). Keine Rechtsnorm: Die Richtlinien binden die Prüfungsstellen intern, nicht das Bundespatentgericht und den BGH; der Anmelder kann sich über den Gleichbehandlungsgrundsatz auf die Verwaltungspraxis berufen, Rechtsgrundlage der Entscheidung bleibt das PatG. Besonderheiten des Einzelfalls und die aktuelle Rechtsprechung gehen vor. Aufbau: 1 Offensichtlichkeitsprüfung, 2 Prüfungsverfahren, 3 Biotechnologie, programmbezogene und KI-bezogene Erfindungen, 4 Akteneinsicht. Für Recherche, Einspruch und Klassifizierung bestehen eigene Richtlinien."
+ },
+ {
+  "id": "card:begriff:concept:pat_pruefungsrichtlinien",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie Richtlinien für die Prüfung von Patentanmeldungen sind eine Verwaltungsvorschrift des DPMA. Sie enthalten die Grundsätze für Offensichtlichkeitsprüfung, Recherche, Bescheid, Erteilung und Zurückweisung und sollen eine einheitliche und zügige Behandlung durch die Prüfungsstellen sichern.",
+  "back": "Prüfungsrichtlinien des DPMA",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_pruefungsrichtlinien",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_offensichtlichkeitspruefung",
+  "typ": "definition",
+  "front": "Definiere: Offensichtlichkeitsprüfung (§ 42 PatG)",
+  "back": "Vor dem Prüfungsantrag prüft die Prüfungsstelle nur, ob die Anmeldung den §§ 34, 36, 37 und 38 PatG offensichtlich nicht genügt (§ 42 Abs. 1 PatG) oder ob offensichtlich keine Erfindung, keine gewerbliche Anwendbarkeit oder ein Patentierungsausschluss vorliegt (§ 42 Abs. 2 PatG). Offensichtlich ist, was ohne weitere Sachprüfung zweifelsfrei erkennbar ist.\n\nNormen: § 42 PatG, § 34 PatG, § 36 PatG, § 37 PatG, § 35 PatG",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_offensichtlichkeitspruefung",
+  "law": "",
+  "erlaeuterung": "Neuheit und erfinderische Tätigkeit werden nicht geprüft, ebenso nicht die materielle Berechtigung der Priorität. Verstöße gegen die PatV können bis zum Prüfungsverfahren zurückgestellt werden (§ 42 Abs. 1 S. 2 PatG). Folge nicht behobener Mängel: Zurückweisung nach rechtlichem Gehör (§ 42 Abs. 3 PatG). Die Entscheidung soll binnen vier Monaten nach dem Anmeldetag ergehen; Bescheidsfrist notfalls zwei statt vier Monate. Fehlen schon die Mindesterfordernisse des § 35 PatG, wird nicht zurückgewiesen, sondern festgestellt, dass keine wirksame Anmeldung vorliegt."
+ },
+ {
+  "id": "card:begriff:concept:pat_offensichtlichkeitspruefung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nVor dem Prüfungsantrag prüft die Prüfungsstelle nur, ob die Anmeldung den §§ 34, 36, 37 und 38 PatG offensichtlich nicht genügt (§ 42 Abs. 1 PatG) oder ob offensichtlich keine Erfindung, keine gewerbliche Anwendbarkeit oder ein Patentierungsausschluss vorliegt (§ 42 Abs. 2 PatG). Offensichtlich ist, was ohne weitere Sachprüfung zweifelsfrei erkennbar ist.",
+  "back": "Offensichtlichkeitsprüfung (§ 42 PatG)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_offensichtlichkeitspruefung",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_pruefungsantrag",
+  "typ": "definition",
+  "front": "Definiere: Prüfungsantrag (§ 44 PatG)",
+  "back": "Die sachliche Prüfung findet nur auf Antrag statt. Den Antrag können der Anmelder und jeder Dritte bis zum Ablauf von sieben Jahren nach Einreichung der Anmeldung stellen; der Dritte wird dadurch nicht Verfahrensbeteiligter (§ 44 Abs. 2 PatG).\n\nNormen: § 44 PatG, § 43 PatG, § 58 Abs. 3 PatG, § 25 PatG, § 5 Abs. 1 PatKostG, Anlage PatKostG",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_pruefungsantrag",
+  "law": "",
+  "erlaeuterung": "Prüfungsgebühr 350 EUR, nach Recherche 150 EUR (Nr. 311 400, 311 300 der Anlage PatKostG), zahlbar binnen drei Monaten ab Antragstellung, längstens bis zum Ablauf der Siebenjahresfrist; bearbeitet wird erst nach Zahlung (§ 5 Abs. 1 PatKostG). Läuft ein Rechercheantrag, beginnt die Prüfung erst nach dessen Erledigung (§ 44 Abs. 3 PatG). Spätere Prüfungsanträge gelten als nicht gestellt. Die Rücknahme des Antrags beendet das Verfahren nicht (§ 44 Abs. 5 PatG). Auswärtige brauchen einen Inlandsvertreter (§ 25 PatG). Ohne Antrag gilt die Anmeldung nach sieben Jahren als zurückgenommen (§ 58 Abs. 3 PatG)."
+ },
+ {
+  "id": "card:begriff:concept:pat_pruefungsantrag",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie sachliche Prüfung findet nur auf Antrag statt. Den Antrag können der Anmelder und jeder Dritte bis zum Ablauf von sieben Jahren nach Einreichung der Anmeldung stellen; der Dritte wird dadurch nicht Verfahrensbeteiligter (§ 44 Abs. 2 PatG).",
+  "back": "Prüfungsantrag (§ 44 PatG)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_pruefungsantrag",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_recherche_pruefung",
+  "typ": "definition",
+  "front": "Definiere: Recherche im Prüfungsverfahren",
+  "back": "Die Recherche ermittelt den Stand der Technik, der für die Patentfähigkeit der in den Ansprüchen angegebenen Erfindung maßgeblich ist; sie erstreckt sich auf alle unabhängigen und abhängigen Ansprüche und soll vor dem Erstbescheid in einem Arbeitsgang abgeschlossen sein.\n\nNormen: § 43 PatG, § 34 Abs. 7 PatG, § 44 Abs. 3 PatG",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_recherche_pruefung",
+  "law": "",
+  "erlaeuterung": "Isolierte Recherche auf Antrag nach § 43 PatG (nur der Anmelder, 300 EUR). Der Anmelder hat auf Verlangen den ihm bekannten Stand der Technik anzugeben (§ 34 Abs. 7 PatG). Jedermann kann Druckschriften nennen (§ 43 Abs. 3 S. 2 PatG, im Prüfungsverfahren über § 44 Abs. 3 PatG); sie werden dem Anmelder übersandt und von Amts wegen berücksichtigt, der Dritte wird nicht beteiligt. Bei Uneinheitlichkeit wird nur die zuerst beanspruchte Erfindung recherchiert (§ 43 Abs. 6 PatG)."
+ },
+ {
+  "id": "card:begriff:concept:pat_recherche_pruefung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie Recherche ermittelt den Stand der Technik, der für die Patentfähigkeit der in den Ansprüchen angegebenen Erfindung maßgeblich ist; sie erstreckt sich auf alle unabhängigen und abhängigen Ansprüche und soll vor dem Erstbescheid in einem Arbeitsgang abgeschlossen sein.",
+  "back": "Recherche im Prüfungsverfahren",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_recherche_pruefung",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_pruefungsbescheid",
+  "typ": "definition",
+  "front": "Definiere: Prüfungsbescheid (§ 45 PatG)",
+  "back": "Mit dem Bescheid teilt die Prüfungsstelle Mängel der Anmeldung (§ 45 Abs. 1 PatG) oder das Fehlen einer patentfähigen Erfindung (§ 45 Abs. 2 PatG) unter Angabe der Gründe mit und setzt eine Frist zur Äußerung. Er bereitet Erteilung oder Zurückweisung vor und sichert das rechtliche Gehör.\n\nNormen: § 45 PatG, § 48 PatG, § 42 Abs. 3 PatG\n\nRechtsprechung: BPatG Batterieüberwachungsgerät (15 W (pat) 33/08)",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_pruefungsbescheid",
+  "law": "",
+  "erlaeuterung": "Nach den Prüfungsrichtlinien: Fachmann definieren, Auslegung mitteilen, Entgegenhaltungen im Merkmalsvergleich mit Textstellen erörtern, bei fehlender erfinderischer Tätigkeit die Veranlassung des Fachmanns darlegen, zu allen beanspruchten Gegenständen Stellung nehmen, positive Anregungen geben. Erster Bescheid möglichst vier Monate vor Ablauf des Prioritätsjahres; der zweite Sachbescheid soll der letzte sein. Regelfristen: ein Monat für Formmängel, vier Monate für Sachbescheide. „Unklarheit“ ist kein gesetzlicher Zurückweisungsgrund (BPatG Batterieüberwachungsgerät)."
+ },
+ {
+  "id": "card:begriff:concept:pat_pruefungsbescheid",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nMit dem Bescheid teilt die Prüfungsstelle Mängel der Anmeldung (§ 45 Abs. 1 PatG) oder das Fehlen einer patentfähigen Erfindung (§ 45 Abs. 2 PatG) unter Angabe der Gründe mit und setzt eine Frist zur Äußerung. Er bereitet Erteilung oder Zurückweisung vor und sichert das rechtliche Gehör.",
+  "back": "Prüfungsbescheid (§ 45 PatG)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_pruefungsbescheid",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_anhoerung",
+  "typ": "definition",
+  "front": "Definiere: Anhörung vor der Prüfungsstelle (§ 46 PatG)",
+  "back": "Die Prüfungsstelle kann die Beteiligten jederzeit laden und anhören; bis zum Erteilungsbeschluss ist der Anmelder auf schriftlichen Antrag zu hören (§ 46 Abs. 1 PatG). Über die Anhörung ist eine Niederschrift zu fertigen (§ 46 Abs. 2 PatG); am Ende kann der Beschluss verkündet werden (§ 47 Abs. 1 S. 3 PatG).\n\nNormen: § 46 PatG, § 47 Abs. 1 PatG",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_anhoerung",
+  "law": "",
+  "erlaeuterung": "Teilnahme per Bild- und Tonübertragung in entsprechender Anwendung des § 128a ZPO (§ 46 Abs. 1 S. 2 PatG). Dritte nur mit Einverständnis des Anmelders. Nach den Prüfungsrichtlinien hat die Anhörung Vorrang vor weiteren Bescheiden, am Ende soll in der Regel entschieden werden; an den verkündeten Beschluss ist das Amt gebunden, spätere Schriftsätze bleiben außer bei Abhilfe unberücksichtigt. Telefonate ersetzen weder Sachbescheid noch Anhörung und sind aktenkundig zu machen."
+ },
+ {
+  "id": "card:begriff:concept:pat_anhoerung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie Prüfungsstelle kann die Beteiligten jederzeit laden und anhören; bis zum Erteilungsbeschluss ist der Anmelder auf schriftlichen Antrag zu hören (§ 46 Abs. 1 PatG). Über die Anhörung ist eine Niederschrift zu fertigen (§ 46 Abs. 2 PatG); am Ende kann der Beschluss verkündet werden (§ 47 Abs. 1 S. 3 PatG).",
+  "back": "Anhörung vor der Prüfungsstelle (§ 46 PatG)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_anhoerung",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_einheitlichkeit",
+  "typ": "definition",
+  "front": "Definiere: Einheitlichkeit der Anmeldung (§ 34 Abs. 5 PatG)",
+  "back": "Die Anmeldung darf nur eine einzige Erfindung enthalten oder eine Gruppe von Erfindungen, die eine einzige allgemeine erfinderische Idee verwirklichen (§ 34 Abs. 5 PatG). Das sichert übersichtliche, recherchierbare Schutzrechte und verhindert die Umgehung von Gebühren.\n\nNormen: § 34 Abs. 5 PatG, § 43 Abs. 6 PatG, § 21 Abs. 1 PatG\n\nRechtsprechung: BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03)",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_einheitlichkeit",
+  "law": "",
+  "erlaeuterung": "Maßstab: Gebietet der technologische Zusammenhang und die Übersichtlichkeit die Behandlung in verschiedenen Verfahren? In der Offensichtlichkeitsprüfung nur bei offensichtlich zusammenhanglosen Erfindungen. Die Beanstandung ist konkret zu begründen und mit einer Stellungnahme zur Patentfähigkeit zu verbinden. Abhilfe durch Ausscheidung oder Verzicht; sonst Zurückweisung. Uneinheitlichkeit ist kein Widerrufs- oder Nichtigkeitsgrund (§ 21 PatG ist abschließend)."
+ },
+ {
+  "id": "card:begriff:concept:pat_einheitlichkeit",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nDie Anmeldung darf nur eine einzige Erfindung enthalten oder eine Gruppe von Erfindungen, die eine einzige allgemeine erfinderische Idee verwirklichen (§ 34 Abs. 5 PatG). Das sichert übersichtliche, recherchierbare Schutzrechte und verhindert die Umgehung von Gebühren.",
+  "back": "Einheitlichkeit der Anmeldung (§ 34 Abs. 5 PatG)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_einheitlichkeit",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_erteilungsreife_unterlagen",
+  "typ": "definition",
+  "front": "Definiere: Erteilungsreife Unterlagen",
+  "back": "Vor der Erteilung muss der Anmelder die Beschreibung mit den geltenden Ansprüchen in Einklang bringen (§ 10 PatV), auf Verlangen den Stand der Technik angeben (§ 34 Abs. 7 PatG) und Reinschriften einreichen (§ 15 Abs. 1 PatV).\n\nNormen: § 10 PatV, § 15 PatV, § 34 Abs. 7 PatG, § 38 PatG",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_erteilungsreife_unterlagen",
+  "law": "",
+  "erlaeuterung": "Bei eigenen Änderungen ist anzugeben, wo die Merkmale ursprünglich offenbart sind (§ 15 Abs. 3 PatV). Änderungsverlangen der Prüfungsstelle beschränken sich auf das Notwendige, weil jede Anpassung eine unzulässige Erweiterung (§ 38 PatG) bewirken kann; herabsetzende Bemerkungen über den Stand der Technik unterbleiben. Nach Verkündung oder Abgabe des Erteilungsbeschlusses an den Versand sind Änderungen nur noch bei Abhilfe möglich."
+ },
+ {
+  "id": "card:begriff:concept:pat_erteilungsreife_unterlagen",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nVor der Erteilung muss der Anmelder die Beschreibung mit den geltenden Ansprüchen in Einklang bringen (§ 10 PatV), auf Verlangen den Stand der Technik angeben (§ 34 Abs. 7 PatG) und Reinschriften einreichen (§ 15 Abs. 1 PatV).",
+  "back": "Erteilungsreife Unterlagen",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_erteilungsreife_unterlagen",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_beschluss_pruefungsstelle",
+  "typ": "definition",
+  "front": "Definiere: Beschlüsse der Prüfungsstelle: Erteilung und Zurückweisung (§§ 47 bis 49 PatG)",
+  "back": "Beschluss ist jede abschließende Regelung des DPMA, die Rechte der Beteiligten berühren kann, unabhängig von ihrer Bezeichnung. Beschlüsse sind zu begründen, zuzustellen und mit einer Rechtsmittelbelehrung zu versehen (§ 47 PatG). Die Prüfungsstelle erteilt das Patent (§ 49 PatG) oder weist die Anmeldung zurück (§ 48 PatG).\n\nNormen: § 47 PatG, § 48 PatG, § 49 PatG, § 58 Abs. 1 PatG\n\nRechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07)",
+  "tags": [
+   "Begriff",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_beschluss_pruefungsstelle",
+  "law": "",
+  "erlaeuterung": "Keine Begründung, wenn nur der Anmelder beteiligt ist und seinem Antrag stattgegeben wird (§ 47 Abs. 1 S. 4 PatG). Fehlende oder unrichtige Belehrung: Beschwerde binnen eines Jahres (§ 47 Abs. 2 PatG). Der Erteilungsbeschluss ist auch bei Rechtswidrigkeit nicht widerruflich; Korrektur nur über Einspruch und Nichtigkeitsklage. Wirkungen des Patents erst mit Veröffentlichung im Patentblatt (§ 58 Abs. 1 PatG). Zurückweisung nur aus Gründen, zu denen der Anmelder sich äußern konnte (§ 48 S. 2 PatG i.V.m. § 42 Abs. 3 S. 2 PatG), auch bei Entscheidung nach Aktenlage."
+ },
+ {
+  "id": "card:begriff:concept:pat_beschluss_pruefungsstelle",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nBeschluss ist jede abschließende Regelung des DPMA, die Rechte der Beteiligten berühren kann, unabhängig von ihrer Bezeichnung. Beschlüsse sind zu begründen, zuzustellen und mit einer Rechtsmittelbelehrung zu versehen (§ 47 PatG). Die Prüfungsstelle erteilt das Patent (§ 49 PatG) oder weist die Anmeldung zurück (§ 48 PatG).",
+  "back": "Beschlüsse der Prüfungsstelle: Erteilung und Zurückweisung (§§ 47 bis 49 PatG)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "concept:pat_beschluss_pruefungsstelle",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_abhilfe",
+  "typ": "definition",
+  "front": "Definiere: Abhilfe (§ 73 Abs. 3 PatG)",
+  "back": "Hält die Stelle, deren Beschluss angefochten wird, die Beschwerde für begründet, hat sie ihr abzuhelfen; andernfalls legt sie die Beschwerde vor Ablauf eines Monats ohne sachliche Stellungnahme dem Bundespatentgericht vor (§ 73 Abs. 3 PatG). Im zweiseitigen Verfahren gibt es keine Abhilfe (§ 73 Abs. 4 PatG).\n\nNormen: § 73 Abs. 3 PatG, § 73 Abs. 4 PatG, § 6 PatKostG",
+  "tags": [
+   "Begriff",
+   "Patent: Verfahren, Fristen, Rechtsmittel"
+  ],
+  "node": "concept:pat_abhilfe",
+  "law": "",
+  "erlaeuterung": "Voraussetzungen nach den Prüfungsrichtlinien: zulässige (frist- und formgerechte) Beschwerde mit gezahlter Gebühr, Wegfall aller Zurückweisungsgründe, etwa durch überzeugende Begründung oder die geforderten Änderungen. Ein Ablehnungsgesuch gegen den Prüfer ist vorab zu bescheiden. Die Rückzahlung der Beschwerdegebühr kann angeordnet werden (§ 73 Abs. 3 S. 2 PatG) und ist geboten, wenn ein offensichtlicher Amtsfehler oder eine unzweckmäßige Verfahrensführung die Beschwerde veranlasst hat."
+ },
+ {
+  "id": "card:begriff:concept:pat_abhilfe",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nHält die Stelle, deren Beschluss angefochten wird, die Beschwerde für begründet, hat sie ihr abzuhelfen; andernfalls legt sie die Beschwerde vor Ablauf eines Monats ohne sachliche Stellungnahme dem Bundespatentgericht vor (§ 73 Abs. 3 PatG). Im zweiseitigen Verfahren gibt es keine Abhilfe (§ 73 Abs. 4 PatG).",
+  "back": "Abhilfe (§ 73 Abs. 3 PatG)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Verfahren, Fristen, Rechtsmittel"
+  ],
+  "node": "concept:pat_abhilfe",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_hilfskriterien",
+  "typ": "definition",
+  "front": "Definiere: Hilfskriterien der erfinderischen Tätigkeit (Beweisanzeichen)",
+  "back": "Hilfskriterien sind Umstände wie die Überwindung eines technischen Vorurteils, vergebliche Bemühungen der Fachwelt, ein lange bestehendes Bedürfnis, eine sprunghafte Weiterentwicklung oder synergistische Effekte. Sie ersetzen die Prüfung des § 4 PatG nicht, sondern geben Anlass, bekannte Lösungen besonders kritisch auf Anhaltspunkte für ein Naheliegen zu prüfen.\n\nNormen: § 4 PatG\n\nRechtsprechung: BGH Dreinahtschlauchfolienbeutel (Xa ZR 22/06); BGH Injizierbarer Mikroschaum (X ZR 56/03); BGH Gurtstraffer (X ZR 50/16)",
+  "tags": [
+   "Begriff",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "concept:pat_hilfskriterien",
+  "law": "",
+  "erlaeuterung": "Gegenbeispiele nach den Prüfungsrichtlinien: die bloße Aggregation für sich nicht erfinderischer Maßnahmen, das Inkaufnehmen bekannter Nachteile (BGH Gurtstraffer) und die beliebige Auswahl aus bekannten Alternativen oder Bereichen (BGH Injizierbarer Mikroschaum) begründen keine erfinderische Tätigkeit."
+ },
+ {
+  "id": "card:begriff:concept:pat_hilfskriterien",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nHilfskriterien sind Umstände wie die Überwindung eines technischen Vorurteils, vergebliche Bemühungen der Fachwelt, ein lange bestehendes Bedürfnis, eine sprunghafte Weiterentwicklung oder synergistische Effekte. Sie ersetzen die Prüfung des § 4 PatG nicht, sondern geben Anlass, bekannte Lösungen besonders kritisch auf Anhaltspunkte für ein Naheliegen zu prüfen.",
+  "back": "Hilfskriterien der erfinderischen Tätigkeit (Beweisanzeichen)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "concept:pat_hilfskriterien",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_patentkategorie",
+  "typ": "definition",
+  "front": "Definiere: Patentkategorien: Erzeugnis, Verfahren, Verwendung",
+  "back": "Patente betreffen Erzeugnisse (Gegenstände, Vorrichtungen, Stoffe) oder Verfahren (Herstellungsverfahren, Arbeitsverfahren, Verwendung). Die Kategorie bestimmt die verbotenen Benutzungshandlungen (§ 9 PatG) und richtet sich nach dem objektiven Offenbarungsgehalt der Anmeldung.\n\nNormen: § 9 PatG, § 34 Abs. 3 PatG, § 9 PatV\n\nRechtsprechung: BGH Gurtstraffer (X ZR 50/16)",
+  "tags": [
+   "Begriff",
+   "Patent: Schutzbereich und Auslegung"
+  ],
+  "node": "concept:pat_patentkategorie",
+  "law": "",
+  "erlaeuterung": "Herstellungsverfahren: Ausgangsmaterial, Abfolge der Einwirkungen, Endprodukt; Arbeitsverfahren zielen nicht auf ein verändertes Produkt (Messen, Fördern); Verwendungsansprüche schützen den Einsatz einer meist bekannten Sache zu einem bestimmten Zweck. Product-by-process-Ansprüche sind zulässig, wenn der Stoff nicht anders zu kennzeichnen ist. Merkmale verschiedener Kategorien sollen nicht in einem Anspruch vermischt werden; Unteransprüche mit Kategoriewechsel sind wie Nebenansprüche gesondert zu prüfen."
+ },
+ {
+  "id": "card:begriff:concept:pat_patentkategorie",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nPatente betreffen Erzeugnisse (Gegenstände, Vorrichtungen, Stoffe) oder Verfahren (Herstellungsverfahren, Arbeitsverfahren, Verwendung). Die Kategorie bestimmt die verbotenen Benutzungshandlungen (§ 9 PatG) und richtet sich nach dem objektiven Offenbarungsgehalt der Anmeldung.",
+  "back": "Patentkategorien: Erzeugnis, Verfahren, Verwendung",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Schutzbereich und Auslegung"
+  ],
+  "node": "concept:pat_patentkategorie",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_hinterlegung",
+  "typ": "definition",
+  "front": "Definiere: Hinterlegung biologischen Materials (BioMatHintV)",
+  "back": "Kann biologisches Material in der Anmeldung nicht so beschrieben werden, dass der Fachmann die Erfindung ausführen kann, ergänzt die Hinterlegung einer Probe bei einer anerkannten Hinterlegungsstelle die Offenbarung nach § 34 Abs. 4 PatG (§ 1 BioMatHintV; Ermächtigung in § 34 Abs. 8 PatG).\n\nNormen: § 34 Abs. 4 PatG, § 34 Abs. 8 PatG, § 2a PatG",
+  "tags": [
+   "Begriff",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "concept:pat_hinterlegung",
+  "law": "",
+  "erlaeuterung": "Hinterlegung spätestens am Anmelde- oder Prioritätstag; Angabe von Hinterlegungsstelle und Aktenzeichen in den ursprünglichen Unterlagen, Aktenzeichen bei eindeutiger Zuordnung binnen 16 Monaten nachholbar (§ 3 BioMatHintV). Freigabeerklärung (§ 4 BioMatHintV), entbehrlich bei Hinterlegung nach dem Budapester Vertrag. Zugang gestuft nach Offenlegung und Erteilung, auf Antrag nur über einen unabhängigen Sachverständigen (§ 5 BioMatHintV); Verpflichtungserklärung des Empfängers (§ 6 BioMatHintV); Aufbewahrung nach § 7 BioMatHintV."
+ },
+ {
+  "id": "card:begriff:concept:pat_hinterlegung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nKann biologisches Material in der Anmeldung nicht so beschrieben werden, dass der Fachmann die Erfindung ausführen kann, ergänzt die Hinterlegung einer Probe bei einer anerkannten Hinterlegungsstelle die Offenbarung nach § 34 Abs. 4 PatG (§ 1 BioMatHintV; Ermächtigung in § 34 Abs. 8 PatG).",
+  "back": "Hinterlegung biologischen Materials (BioMatHintV)",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "concept:pat_hinterlegung",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_dreistufige_pruefung",
+  "typ": "definition",
+  "front": "Definiere: Dreistufige Prüfung programmbezogener Erfindungen",
+  "back": "Programmbezogene Erfindungen werden in drei Stufen geprüft: (1) Technizität (§ 1 Abs. 1 PatG), (2) kein Ausschluss „als solches“ (§ 1 Abs. 3, 4 PatG), weil die Lehre ein konkretes technisches Problem mit technischen Mitteln löst, (3) Neuheit und erfinderische Tätigkeit (§§ 3, 4 PatG), wobei nur die Anweisungen zählen, die diese Lösung bestimmen oder beeinflussen.\n\nNormen: § 1 Abs. 1 PatG, § 1 Abs. 3 PatG, § 1 Abs. 4 PatG, § 3 PatG, § 4 PatG\n\nRechtsprechung: BGH Wiedergabe topografischer Informationen (X ZR 47/07); BGH Webseitenanzeige (X ZR 121/09); BGH Dynamische Dokumentengenerierung (Xa ZB 20/08); BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07)",
+  "tags": [
+   "Begriff",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "concept:pat_dreistufige_pruefung",
+  "law": "",
+  "erlaeuterung": "Stufe 1 ist fast immer erfüllt: Es genügt, dass das Verfahren die Nutzung einer Datenverarbeitungsanlage zumindest implizit lehrt; Vorrichtungen sind stets technisch (BGH Sprachanalyseeinrichtung). Stufe 2 ist Grobsichtung ohne Stand der Technik und kommt nur für Verfahren in Betracht; ein technischer Teilaspekt genügt. Technische Mittel: modifizierte Gerätekomponenten, durch äußere technische Gegebenheiten bestimmter Ablauf, Rücksicht auf die Gegebenheiten der Anlage. Stufe 3 ist die eigentliche Hürde: Inhalte, Datenauswahl und Geschäftsvorgaben bleiben außer Betracht (BGH Wiedergabe topografischer Informationen, Routenplanung, Fahrzeugnavigationssystem), wahrnehmungsgerechte Darstellung und Messwertverarbeitung zählen (BGH Bildstrom, Flugzeugzustand)."
+ },
+ {
+  "id": "card:begriff:concept:pat_dreistufige_pruefung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nProgrammbezogene Erfindungen werden in drei Stufen geprüft: (1) Technizität (§ 1 Abs. 1 PatG), (2) kein Ausschluss „als solches“ (§ 1 Abs. 3, 4 PatG), weil die Lehre ein konkretes technisches Problem mit technischen Mitteln löst, (3) Neuheit und erfinderische Tätigkeit (§§ 3, 4 PatG), wobei nur die Anweisungen zählen, die diese Lösung bestimmen oder beeinflussen.",
+  "back": "Dreistufige Prüfung programmbezogener Erfindungen",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "concept:pat_dreistufige_pruefung",
+  "law": ""
+ },
+ {
+  "id": "card:definition:concept:pat_ki_erfindung",
+  "typ": "definition",
+  "front": "Definiere: Erfindungen mit Bezug zu Künstlicher Intelligenz",
+  "back": "KI-bezogene Erfindungen schaffen entweder die Grundlagen für den Einsatz Künstlicher Intelligenz (Hardware-Architekturen, Algorithmen, Modelle, Lernverfahren) oder setzen sie für ein Anwendungsgebiet ein. Das DPMA prüft sie regelmäßig wie programmbezogene Erfindungen in drei Stufen.\n\nNormen: § 1 Abs. 3 PatG, § 1 Abs. 4 PatG, § 4 PatG, § 37 PatG\n\nRechtsprechung: BGH Flugzeugzustand (X ZB 1/15)",
+  "tags": [
+   "Begriff",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "concept:pat_ki_erfindung",
+  "law": "",
+  "erlaeuterung": "Etablierte Rechtsprechung zur Prüfung fehlt nach den Prüfungsrichtlinien (Abschnitt 3.3). Folge der Übertragung: Das Modell oder der Algorithmus als mathematische Methode trägt die erfinderische Tätigkeit nur, soweit es zur Lösung eines konkreten technischen Problems mit technischen Mitteln beiträgt (§ 1 Abs. 3 Nr. 1, Nr. 3 PatG, § 4 PatG). Erfinder kann nur eine natürliche Person sein (§ 37 PatG)."
+ },
+ {
+  "id": "card:begriff:concept:pat_ki_erfindung",
+  "typ": "begriff",
+  "front": "Welcher Begriff wird so definiert?\n\nKI-bezogene Erfindungen schaffen entweder die Grundlagen für den Einsatz Künstlicher Intelligenz (Hardware-Architekturen, Algorithmen, Modelle, Lernverfahren) oder setzen sie für ein Anwendungsgebiet ein. Das DPMA prüft sie regelmäßig wie programmbezogene Erfindungen in drei Stufen.",
+  "back": "Erfindungen mit Bezug zu Künstlicher Intelligenz",
+  "tags": [
+   "Begriff",
+   "Umkehr",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "concept:pat_ki_erfindung",
   "law": ""
  },
  {
@@ -9598,6 +9988,30 @@
   "law": ""
  },
  {
+  "id": "card:schema:schema:pat_schema_pruefungsverfahren_dpma",
+  "typ": "schema",
+  "front": "Prüfungsschema: Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ 42 bis 49, 73 PatG)",
+  "back": "- A. Wirksame Anmeldung und Offensichtlichkeitsprüfung (§§ 35, 42 PatG)\n  - 1. Mindesterfordernisse und Anmeldetag\n  - 2. Offensichtliche Formmängel (§ 42 Abs. 1 PatG)\n  - 3. Offensichtlich keine patentfähige Erfindung (§ 42 Abs. 2 PatG)\n- B. Prüfungsantrag (§ 44 PatG)\n- C. Sachprüfung\n  - 1. Fachmann definieren und Anspruch auslegen\n  - 2. Ausführbarkeit (§ 34 Abs. 4 PatG)\n  - 3. Patentfähigkeit (§§ 1 bis 5 PatG)\n  - 4. Änderungen und unzulässige Erweiterung (§ 38 PatG)\n  - 5. Einheitlichkeit, Ausscheidung, Teilung (§ 34 Abs. 5, § 39 PatG)\n  - 6. Ansprüche, Kategorie, Priorität\n- D. Bescheid, Frist, Anhörung (§§ 45, 46 PatG)\n  - 1. Prüfungsbescheid\n  - 2. Fristen\n  - 3. Anhörung\n- E. Beschluss (§§ 47 bis 49 PatG)\n  - 1. Erteilungsreife Unterlagen und Erteilung\n  - 2. Zurückweisung\n- F. Beschwerde und Abhilfe (§ 73 PatG)",
+  "tags": [
+   "Prüfungsschema",
+   "Patent: Anmeldung und Erteilung"
+  ],
+  "node": "schema:pat_schema_pruefungsverfahren_dpma",
+  "law": ""
+ },
+ {
+  "id": "card:schema:schema:pat_schema_programmbezogene_erfindung",
+  "typ": "schema",
+  "front": "Prüfungsschema: Programmbezogene und KI-bezogene Erfindungen: dreistufige Prüfung (§§ 1, 3, 4 PatG)",
+  "back": "- A. Anspruch auslegen und technisches Problem bestimmen\n- B. Erste Stufe: Technizität (§ 1 Abs. 1 PatG)\n- C. Zweite Stufe: kein Ausschluss als solches (§ 1 Abs. 3, 4 PatG)\n  - 1. Konkretes technisches Problem mit technischen Mitteln?\n  - 2. Fallgruppen technischer Mittel\n  - 3. Gegenbeispiele\n- D. Dritte Stufe: Neuheit und erfinderische Tätigkeit (§§ 3, 4 PatG)\n- E. Besonderheit: Künstliche Intelligenz",
+  "tags": [
+   "Prüfungsschema",
+   "Patent: Patentfähigkeit"
+  ],
+  "node": "schema:pat_schema_programmbezogene_erfindung",
+  "law": ""
+ },
+ {
   "id": "card:schema:schema:des_schema_schutzfaehigkeit",
   "typ": "schema",
   "front": "Prüfungsschema: Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ 1 bis 6, 33 DesignG)",
@@ -10342,6 +10756,66 @@
   "law": ""
  },
  {
+  "id": "card:schema_step:step:pat_schema_pruefungsverfahren_dpma.1",
+  "typ": "schema_step",
+  "front": "A. Wirksame Anmeldung und Offensichtlichkeitsprüfung (§§ 35, 42 PatG)\n(Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ 42 bis 49, 73 PatG))\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- 1. Mindesterfordernisse und Anmeldetag\n- 2. Offensichtliche Formmängel (§ 42 Abs. 1 PatG)\n- 3. Offensichtlich keine patentfähige Erfindung (§ 42 Abs. 2 PatG)",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:pat_schema_pruefungsverfahren_dpma.1",
+  "law": ""
+ },
+ {
+  "id": "card:schema_step:step:pat_schema_pruefungsverfahren_dpma.3",
+  "typ": "schema_step",
+  "front": "C. Sachprüfung\n(Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ 42 bis 49, 73 PatG))\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- 1. Fachmann definieren und Anspruch auslegen\n- 2. Ausführbarkeit (§ 34 Abs. 4 PatG)\n- 3. Patentfähigkeit (§§ 1 bis 5 PatG)\n- 4. Änderungen und unzulässige Erweiterung (§ 38 PatG)\n- 5. Einheitlichkeit, Ausscheidung, Teilung (§ 34 Abs. 5, § 39 PatG)\n- 6. Ansprüche, Kategorie, Priorität",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:pat_schema_pruefungsverfahren_dpma.3",
+  "law": ""
+ },
+ {
+  "id": "card:schema_step:step:pat_schema_pruefungsverfahren_dpma.4",
+  "typ": "schema_step",
+  "front": "D. Bescheid, Frist, Anhörung (§§ 45, 46 PatG)\n(Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ 42 bis 49, 73 PatG))\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- 1. Prüfungsbescheid\n- 2. Fristen\n- 3. Anhörung",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:pat_schema_pruefungsverfahren_dpma.4",
+  "law": ""
+ },
+ {
+  "id": "card:schema_step:step:pat_schema_pruefungsverfahren_dpma.5",
+  "typ": "schema_step",
+  "front": "E. Beschluss (§§ 47 bis 49 PatG)\n(Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ 42 bis 49, 73 PatG))\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- 1. Erteilungsreife Unterlagen und Erteilung\n- 2. Zurückweisung",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:pat_schema_pruefungsverfahren_dpma.5",
+  "law": ""
+ },
+ {
+  "id": "card:schema_step:step:pat_schema_programmbezogene_erfindung.3",
+  "typ": "schema_step",
+  "front": "C. Zweite Stufe: kein Ausschluss als solches (§ 1 Abs. 3, 4 PatG)\n(Programmbezogene und KI-bezogene Erfindungen: dreistufige Prüfung (§§ 1, 3, 4 PatG))\n\nWelche Punkte sind hier zu prüfen?",
+  "back": "- 1. Konkretes technisches Problem mit technischen Mitteln?\n- 2. Fallgruppen technischer Mittel\n- 3. Gegenbeispiele",
+  "tags": [
+   "Prüfungsschema",
+   "Prüfungspunkt"
+  ],
+  "node": "step:pat_schema_programmbezogene_erfindung.3",
+  "law": ""
+ },
+ {
   "id": "card:schema_step:step:des_schema_schutzfaehigkeit.2",
   "typ": "schema_step",
   "front": "B. Design und Erzeugnis (§ 1 DesignG, § 33 Abs. 1 Nr. 1 DesignG)\n(Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ 1 bis 6, 33 DesignG))\n\nWelche Punkte sind hier zu prüfen?",
@@ -10961,6 +11435,28 @@
    "Abgrenzung"
   ],
   "node": "distinction:d_pat_patent_gebrauchsmuster",
+  "law": ""
+ },
+ {
+  "id": "card:abgrenzung:distinction:d_pat_offensichtlichkeit_sachpruefung",
+  "typ": "abgrenzung",
+  "front": "Was prüft das DPMA von Amts wegen nach Eingang der Anmeldung, und was erst auf Prüfungsantrag?\n(Offensichtlichkeitsprüfung vs. Prüfungsverfahren)",
+  "back": "• Rechtsgrundlage — Offensichtlichkeitsprüfung: § 42 PatG | Prüfungsverfahren: § 44 PatG bis § 49 PatG\n• Auslöser — Offensichtlichkeitsprüfung: Von Amts wegen nach Eingang einer wirksamen Anmeldung | Prüfungsverfahren: Prüfungsantrag des Anmelders oder eines Dritten binnen sieben Jahren und Zahlung der Prüfungsgebühr\n• Prüfungsmaßstab — Offensichtlichkeitsprüfung: Nur Mängel, die ohne weitere Sachprüfung und ohne Nachforschungen zweifelsfrei erkennbar sind | Prüfungsverfahren: Vollständige Sachprüfung nach Auslegung des Anspruchs und Recherche\n• Formmängel — Offensichtlichkeitsprüfung: §§ 34, 36, 37 und 38 PatG; Verstöße gegen die PatV können zurückgestellt werden | Prüfungsverfahren: §§ 34, 37 und 38 PatG, Zusammenfassung nur bei offensichtlichen Mängeln; PatV vollständig\n• Patentfähigkeit — Offensichtlichkeitsprüfung: Nur offensichtlich fehlende Erfindung, gewerbliche Anwendbarkeit oder Ausschluss nach § 1a Abs. 1 PatG, § 2 PatG, § 2a Abs. 1 PatG; keine Neuheit, keine erfinderische Tätigkeit | Prüfungsverfahren: § 1 PatG bis § 5 PatG vollständig, dazu Ausführbarkeit nach § 34 Abs. 4 PatG\n• Einheitlichkeit — Offensichtlichkeitsprüfung: Nur wenn die Erfindungen offensichtlich nichts miteinander zu tun haben | Prüfungsverfahren: Volle Prüfung nach § 34 Abs. 5 PatG, konkret begründet und mit Stellungnahme zur Patentfähigkeit\n• Priorität — Offensichtlichkeitsprüfung: Materielle Berechtigung wird nicht geprüft | Prüfungsverfahren: Nur wenn entscheidungserhebliches Material im Prioritätsintervall liegt\n• Regelfrist für Bescheide — Offensichtlichkeitsprüfung: Vier Monate, abkürzbar auf zwei Monate; Entscheidung binnen vier Monaten nach dem Anmeldetag | Prüfungsverfahren: Ein Monat für Formmängel, vier Monate für Sachbescheide, bis zu zwölf Monate bei paralleler europäischer Anmeldung\n• Abschluss — Offensichtlichkeitsprüfung: Aktenvermerk oder Zurückweisung nach § 42 Abs. 3 PatG | Prüfungsverfahren: Erteilung nach § 49 PatG oder Zurückweisung nach § 48 PatG\n• Rechtsbehelf — Offensichtlichkeitsprüfung: Beschwerde nach § 73 PatG, Abhilfe möglich | Prüfungsverfahren: Beschwerde nach § 73 PatG, Abhilfe möglich; nach Erteilung Einspruch Dritter nach § 59 PatG\n\nMerksatz: Die Offensichtlichkeitsprüfung räumt auf, was jeder sofort sieht; ob die Erfindung neu und erfinderisch ist, erfährt der Anmelder erst auf Prüfungsantrag.",
+  "tags": [
+   "Abgrenzung"
+  ],
+  "node": "distinction:d_pat_offensichtlichkeit_sachpruefung",
+  "law": ""
+ },
+ {
+  "id": "card:abgrenzung:distinction:d_pat_fristen_pruefungsrichtlinien",
+  "typ": "abgrenzung",
+  "front": "Welche Fristen des Erteilungsverfahrens stehen im Gesetz, welche setzt die Prüfungsstelle nach den Prüfungsrichtlinien, und was folgt aus der Versäumung?\n(Fristen im Erteilungsverfahren: Gesetz und Prüfungsrichtlinien)",
+  "back": "• Übersetzung fremdsprachiger Anmeldung — Frist: Drei Monate ab Einreichung; zwölf Monate bei englischer oder französischer Fassung, längstens 15 Monate ab Prioritätstag | Grundlage: § 35a Abs. 1, 2 PatG | Art und Folge der Versäumung: Gesetzlich; Anmeldung gilt als zurückgenommen\n• Anmeldegebühr — Frist: Drei Monate ab Einreichung | Grundlage: § 3 Abs. 1 PatKostG, § 6 Abs. 1, 2 PatKostG | Art und Folge der Versäumung: Gesetzlich; Anmeldung gilt als zurückgenommen\n• Erfinderbenennung und Zusammenfassung — Frist: 15 Monate ab Anmelde- oder Prioritätstag | Grundlage: § 37 Abs. 1 PatG, § 36 Abs. 1 PatG | Art und Folge der Versäumung: Gesetzlich; Mangel nach § 42 Abs. 1 PatG, Verlängerung bei außergewöhnlichen Umständen nach § 37 Abs. 2 PatG\n• Innere Priorität — Frist: Nachanmeldung binnen zwölf Monaten, Prioritätserklärung binnen zwei Monaten nach dem Anmeldetag der Nachanmeldung | Grundlage: § 40 Abs. 1, 4 PatG | Art und Folge der Versäumung: Gesetzlich; Priorität nicht wirksam beansprucht\n• Äußere Priorität — Frist: Angaben und Abschrift vor Ablauf des 16. Monats nach dem Prioritätstag | Grundlage: § 41 Abs. 1 PatG | Art und Folge der Versäumung: Gesetzlich; Prioritätsanspruch verwirkt\n• Ausstellungsbescheinigung — Frist: Angabe bei Einreichung, Bescheinigung binnen vier Monaten | Grundlage: § 3 Abs. 5 PatG | Art und Folge der Versäumung: Gesetzlich; Ausstellung bleibt neuheitsschädlich\n• Prüfungsantrag — Frist: Sieben Jahre ab Einreichung; Gebühr drei Monate ab Antrag, längstens bis zum Ablauf der sieben Jahre | Grundlage: § 44 Abs. 2 PatG, § 58 Abs. 3 PatG | Art und Folge der Versäumung: Gesetzlich; Anmeldung gilt als zurückgenommen\n• Bescheid: Formmängel — Frist: In der Regel ein Monat | Grundlage: Prüfungsrichtlinien 2.5; § 45 Abs. 1 PatG | Art und Folge der Versäumung: Amtsseitig, verlängerbar; Zurückweisung nach § 48 PatG, Weiterbehandlung nach § 123a PatG\n• Bescheid: Sachprüfung — Frist: In der Regel vier Monate; in der Offensichtlichkeitsprüfung auf zwei Monate abkürzbar; bis zu zwölf Monate bei paralleler europäischer Anmeldung | Grundlage: Prüfungsrichtlinien 1.11 und 2.5; § 45 Abs. 2 PatG | Art und Folge der Versäumung: Amtsseitig, verlängerbar; Zurückweisung nach § 48 PatG, Weiterbehandlung nach § 123a PatG\n• Unterlagen nach Teilung — Frist: Drei Monate ab Eingang der Teilungserklärung für Unterlagen und Gebühren | Grundlage: § 39 Abs. 3 PatG | Art und Folge der Versäumung: Gesetzlich; Teilungserklärung gilt als nicht abgegeben\n• Beschwerde — Frist: Ein Monat ab Zustellung, Gebühr in derselben Frist; ein Jahr bei fehlender oder unrichtiger Belehrung | Grundlage: § 73 Abs. 2 PatG, § 47 Abs. 2 PatG | Art und Folge der Versäumung: Gesetzlich; Beschwerde gilt als nicht eingelegt (§ 6 Abs. 2 PatKostG)\n\nMerksatz: Gesetzliche Fristen laufen von selbst und enden meist in einer Fiktion; Bescheidsfristen setzt der Prüfer, sie sind verlängerbar und nach der Zurückweisung über die Weiterbehandlung zu retten.",
+  "tags": [
+   "Abgrenzung"
+  ],
+  "node": "distinction:d_pat_fristen_pruefungsrichtlinien",
   "law": ""
  },
  {
@@ -19125,6 +19621,747 @@
    "Gebrauchsmuster"
   ],
   "node": "case:pat_bgh_feldmausbekaempfung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_wiedergabe_topografischer_informationen",
+  "typ": "entscheidung",
+  "front": "BGH „Wiedergabe topografischer Informationen“ (X ZR 47/07, 2010) – Kernaussage?",
+  "back": "Ein Verfahren zur Wiedergabe topografischer Informationen mittels eines technischen Geräts ist nicht vom Patentschutz ausgeschlossen, wenn zumindest ein Teilaspekt der Lehre ein technisches Problem bewältigt. Bei der erfinderischen Tätigkeit zählen nur die Anweisungen, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder beeinflussen; die Wahl einer zweckmäßigen Darstellung ist eine nichttechnische Vorgabe und bleibt außer Betracht.\n\nNormen: § 1 Abs. 3 PatG, § 1 Abs. 4 PatG, § 4 PatG\nFundstelle: BGH, Urteil vom 26.10.2010 – X ZR 47/07",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_wiedergabe_topografischer_informationen",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_wiedergabe_topografischer_informationen",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEin Verfahren zur Wiedergabe topografischer Informationen mittels eines technischen Geräts ist nicht vom Patentschutz ausgeschlossen, wenn zumindest ein Teilaspekt der Lehre ein technisches Problem bewältigt. Bei der erfinderischen Tätigkeit zählen nur die Anweisungen, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder beeinflussen; die Wahl einer zweckmäßigen Darstellung ist eine nichttechnische Vorgabe und bleibt außer Betracht.",
+  "back": "BGH „Wiedergabe topografischer Informationen“ – X ZR 47/07 (2010), BGH, Urteil vom 26.10.2010 – X ZR 47/07",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_wiedergabe_topografischer_informationen",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_fahrzeugnavigationssystem",
+  "typ": "entscheidung",
+  "front": "BGH „Fahrzeugnavigationssystem“ (X ZR 27/12, 2013) – Kernaussage?",
+  "back": "Die Anweisung, bei der Sprachausgabe eines Navigationshinweises unter bestimmten Bedingungen bestimmte Detailinformationen wie Straßennamen zu berücksichtigen, betrifft den Inhalt der wiedergegebenen Information und ist bei der Prüfung auf erfinderische Tätigkeit nicht zu berücksichtigen.\n\nNormen: § 1 Abs. 3 Nr. 4 PatG, § 4 PatG\nFundstelle: BGH, Urteil vom 23.04.2013 – X ZR 27/12",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_fahrzeugnavigationssystem",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_fahrzeugnavigationssystem",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nDie Anweisung, bei der Sprachausgabe eines Navigationshinweises unter bestimmten Bedingungen bestimmte Detailinformationen wie Straßennamen zu berücksichtigen, betrifft den Inhalt der wiedergegebenen Information und ist bei der Prüfung auf erfinderische Tätigkeit nicht zu berücksichtigen.",
+  "back": "BGH „Fahrzeugnavigationssystem“ – X ZR 27/12 (2013), BGH, Urteil vom 23.04.2013 – X ZR 27/12",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_fahrzeugnavigationssystem",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_routenplanung",
+  "typ": "entscheidung",
+  "front": "BGH „Routenplanung“ (X ZR 3/12, 2012) – Kernaussage?",
+  "back": "Anweisungen zur Auswahl von Daten, deren technischer Aspekt sich darauf beschränkt, hierzu Mittel der elektronischen Datenverarbeitung einzusetzen, können bei der Beurteilung der erfinderischen Tätigkeit nicht berücksichtigt werden, auch wenn sie die Zahl der erforderlichen Rechenschritte verringern.\n\nNormen: § 1 Abs. 3 Nr. 3 PatG, § 4 PatG\nFundstelle: BGH, Urteil vom 18.12.2012 – X ZR 3/12",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_routenplanung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_routenplanung",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nAnweisungen zur Auswahl von Daten, deren technischer Aspekt sich darauf beschränkt, hierzu Mittel der elektronischen Datenverarbeitung einzusetzen, können bei der Beurteilung der erfinderischen Tätigkeit nicht berücksichtigt werden, auch wenn sie die Zahl der erforderlichen Rechenschritte verringern.",
+  "back": "BGH „Routenplanung“ – X ZR 3/12 (2012), BGH, Urteil vom 18.12.2012 – X ZR 3/12",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_routenplanung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_bildstrom",
+  "typ": "entscheidung",
+  "front": "BGH „Bildstrom“ (X ZR 37/13, 2015) – Kernaussage?",
+  "back": "Anweisungen zur Informationswiedergabe dienen der Lösung eines technischen Problems mit technischen Mitteln, wenn nicht die Vermittlung bestimmter Inhalte im Blickpunkt steht, sondern eine Präsentation von Bildinhalten, die auf die physischen Gegebenheiten der menschlichen Wahrnehmung Rücksicht nimmt und die Wahrnehmung erst ermöglicht, verbessert oder zweckmäßig gestaltet.\n\nNormen: § 1 Abs. 3 Nr. 4 PatG, § 4 PatG\nFundstelle: BGH, Urteil vom 26.02.2015 – X ZR 37/13",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_bildstrom",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_bildstrom",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nAnweisungen zur Informationswiedergabe dienen der Lösung eines technischen Problems mit technischen Mitteln, wenn nicht die Vermittlung bestimmter Inhalte im Blickpunkt steht, sondern eine Präsentation von Bildinhalten, die auf die physischen Gegebenheiten der menschlichen Wahrnehmung Rücksicht nimmt und die Wahrnehmung erst ermöglicht, verbessert oder zweckmäßig gestaltet.",
+  "back": "BGH „Bildstrom“ – X ZR 37/13 (2015), BGH, Urteil vom 26.02.2015 – X ZR 37/13",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_bildstrom",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_flugzeugzustand",
+  "typ": "entscheidung",
+  "front": "BGH „Flugzeugzustand“ (X ZB 1/15, 2015) – Kernaussage?",
+  "back": "Mathematische Methoden sind patentierbar, wenn sie der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen; nichttechnisch sind sie nur ohne Bezug zur gezielten Anwendung von Naturkräften. Der Bezug besteht, wenn die Methode aus Messwerten zuverlässigere Erkenntnisse über den Zustand eines Flugzeugs gewinnt und damit die Funktionsweise des Systems beeinflusst. Ein neuer und erfinderischer Gegenstand muss keinen Vorteil gegenüber dem Stand der Technik bieten.\n\nNormen: § 1 Abs. 3 Nr. 1 PatG, § 4 PatG\nFundstelle: BGH, Beschluss vom 30.06.2015 – X ZB 1/15",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_flugzeugzustand",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_flugzeugzustand",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nMathematische Methoden sind patentierbar, wenn sie der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen; nichttechnisch sind sie nur ohne Bezug zur gezielten Anwendung von Naturkräften. Der Bezug besteht, wenn die Methode aus Messwerten zuverlässigere Erkenntnisse über den Zustand eines Flugzeugs gewinnt und damit die Funktionsweise des Systems beeinflusst. Ein neuer und erfinderischer Gegenstand muss keinen Vorteil gegenüber dem Stand der Technik bieten.",
+  "back": "BGH „Flugzeugzustand“ – X ZB 1/15 (2015), BGH, Beschluss vom 30.06.2015 – X ZB 1/15",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_flugzeugzustand",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_rentabilitaetsermittlung",
+  "typ": "entscheidung",
+  "front": "BGH „Rentabilitätsermittlung“ (X ZB 34/03, 2004) – Kernaussage?",
+  "back": "Ein Verfahren, das Betriebsdaten eines medizintechnischen Geräts automatisch erfasst und an eine Datenbank überträgt, um aus Vergütungsdaten und kalkulatorischen Kosten die Rentabilität der Anschaffung eines zweiten Geräts zu errechnen, ist als solches nicht dem Patentschutz zugänglich.\n\nNormen: § 1 Abs. 3 Nr. 3 PatG, § 1 Abs. 4 PatG\nFundstelle: BGH, Beschluss vom 19.10.2004 – X ZB 34/03",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_rentabilitaetsermittlung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_rentabilitaetsermittlung",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEin Verfahren, das Betriebsdaten eines medizintechnischen Geräts automatisch erfasst und an eine Datenbank überträgt, um aus Vergütungsdaten und kalkulatorischen Kosten die Rentabilität der Anschaffung eines zweiten Geräts zu errechnen, ist als solches nicht dem Patentschutz zugänglich.",
+  "back": "BGH „Rentabilitätsermittlung“ – X ZB 34/03 (2004), BGH, Beschluss vom 19.10.2004 – X ZB 34/03",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_rentabilitaetsermittlung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_anbieten_interaktiver_hilfe",
+  "typ": "entscheidung",
+  "front": "BGH „Anbieten interaktiver Hilfe“ (X ZB 33/03, 2004) – Kernaussage?",
+  "back": "Ein Verfahren, das Bedienhandlungen eines Kunden erfasst, an einen zentralen Rechner meldet, protokolliert und mit Referenzprotokollen vergleicht, um dem Kunden eine interaktive Hilfe anzubieten, wenn er sonst voraussichtlich keinen Auftrag erteilt, ist als solches nicht dem Patentschutz zugänglich.\n\nNormen: § 1 Abs. 3 Nr. 3 PatG, § 1 Abs. 4 PatG\nFundstelle: BGH, Beschluss vom 19.10.2004 – X ZB 33/03",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_anbieten_interaktiver_hilfe",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_anbieten_interaktiver_hilfe",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEin Verfahren, das Bedienhandlungen eines Kunden erfasst, an einen zentralen Rechner meldet, protokolliert und mit Referenzprotokollen vergleicht, um dem Kunden eine interaktive Hilfe anzubieten, wenn er sonst voraussichtlich keinen Auftrag erteilt, ist als solches nicht dem Patentschutz zugänglich.",
+  "back": "BGH „Anbieten interaktiver Hilfe“ – X ZB 33/03 (2004), BGH, Beschluss vom 19.10.2004 – X ZB 33/03",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_anbieten_interaktiver_hilfe",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_sprachanalyseeinrichtung",
+  "typ": "entscheidung",
+  "front": "BGH „Sprachanalyseeinrichtung“ (X ZB 15/98, 2000) – Kernaussage?",
+  "back": "Einer Datenverarbeitungsanlage, die in bestimmter Weise programmtechnisch eingerichtet ist, kommt technischer Charakter zu, auch wenn auf ihr Texte bearbeitet werden. Dafür kommt es nicht darauf an, ob mit ihr ein weiterer technischer Effekt erzielt wird.\n\nNormen: § 1 Abs. 1 PatG\nFundstelle: BGH, Beschluss vom 11.05.2000 – X ZB 15/98",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_sprachanalyseeinrichtung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_sprachanalyseeinrichtung",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEiner Datenverarbeitungsanlage, die in bestimmter Weise programmtechnisch eingerichtet ist, kommt technischer Charakter zu, auch wenn auf ihr Texte bearbeitet werden. Dafür kommt es nicht darauf an, ob mit ihr ein weiterer technischer Effekt erzielt wird.",
+  "back": "BGH „Sprachanalyseeinrichtung“ – X ZB 15/98 (2000), BGH, Beschluss vom 11.05.2000 – X ZB 15/98",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Patentfähigkeit",
+   "Software",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_sprachanalyseeinrichtung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_klammernahtgeraet",
+  "typ": "entscheidung",
+  "front": "BGH „Klammernahtgerät“ (Xa ZR 126/07, 2010) – Kernaussage?",
+  "back": "Eine Erfindung ist ausführbar offenbart, wenn die Angaben der Anmeldung dem fachmännischen Leser so viel technische Information vermitteln, dass er sie mit seinem Fachwissen und Fachkönnen erfolgreich ausführen kann. Eine praktisch brauchbare Ausführungsform muss nicht als solche unmittelbar und eindeutig offenbart sein.\n\nNormen: § 21 Abs. 1 Nr. 2 PatG, § 34 Abs. 4 PatG\nFundstelle: BGH, Urteil vom 13.07.2010 – Xa ZR 126/07",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Ausführbarkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_klammernahtgeraet",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_klammernahtgeraet",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEine Erfindung ist ausführbar offenbart, wenn die Angaben der Anmeldung dem fachmännischen Leser so viel technische Information vermitteln, dass er sie mit seinem Fachwissen und Fachkönnen erfolgreich ausführen kann. Eine praktisch brauchbare Ausführungsform muss nicht als solche unmittelbar und eindeutig offenbart sein.",
+  "back": "BGH „Klammernahtgerät“ – Xa ZR 126/07 (2010), BGH, Urteil vom 13.07.2010 – Xa ZR 126/07",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Ausführbarkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_klammernahtgeraet",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_taxol",
+  "typ": "entscheidung",
+  "front": "BGH „Taxol“ (X ZR 168/97, 2001) – Kernaussage?",
+  "back": "Ein Verfahrensschritt in Form einer geläufigen, allgemein bezeichneten Reaktion darf allgemein beansprucht werden, auch wenn bekannte Wege versagen, sofern die Patentschrift einen ausführbaren Weg nacharbeitbar offenbart; ob dem Fachmann weitere Wege zur Verfügung standen, ist unerheblich.\n\nNormen: § 21 Abs. 1 Nr. 2 PatG, § 34 Abs. 4 PatG\nFundstelle: BGH, Urteil vom 03.05.2001 – X ZR 168/97",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Ausführbarkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_taxol",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_taxol",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEin Verfahrensschritt in Form einer geläufigen, allgemein bezeichneten Reaktion darf allgemein beansprucht werden, auch wenn bekannte Wege versagen, sofern die Patentschrift einen ausführbaren Weg nacharbeitbar offenbart; ob dem Fachmann weitere Wege zur Verfügung standen, ist unerheblich.",
+  "back": "BGH „Taxol“ – X ZR 168/97 (2001), BGH, Urteil vom 03.05.2001 – X ZR 168/97",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Ausführbarkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_taxol",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_stabilisierung_der_wasserqualitaet",
+  "typ": "entscheidung",
+  "front": "BGH „Stabilisierung der Wasserqualität“ (X ZR 76/13, 2015) – Kernaussage?",
+  "back": "Ob eine Erfindung ausführbar offenbart ist, ist eine Rechtsfrage. Die Ausführbarkeit der im Anspruch umschriebenen Lehre darf nicht mit der Erreichbarkeit der Vorteile gleichgesetzt werden, die die Beschreibung der Erfindung zuschreibt.\n\nNormen: § 21 Abs. 1 Nr. 2 PatG, § 34 Abs. 4 PatG\nFundstelle: BGH, Urteil vom 03.02.2015 – X ZR 76/13",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Ausführbarkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_stabilisierung_der_wasserqualitaet",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_stabilisierung_der_wasserqualitaet",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nOb eine Erfindung ausführbar offenbart ist, ist eine Rechtsfrage. Die Ausführbarkeit der im Anspruch umschriebenen Lehre darf nicht mit der Erreichbarkeit der Vorteile gleichgesetzt werden, die die Beschreibung der Erfindung zuschreibt.",
+  "back": "BGH „Stabilisierung der Wasserqualität“ – X ZR 76/13 (2015), BGH, Urteil vom 03.02.2015 – X ZR 76/13",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Ausführbarkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_stabilisierung_der_wasserqualitaet",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_gelenkanordnung",
+  "typ": "entscheidung",
+  "front": "BGH „Gelenkanordnung“ (Xa ZR 36/08, 2010) – Kernaussage?",
+  "back": "Die Ermittlung des technischen Problems ist Teil der Auslegung des Patentanspruchs; das Problem ist aus dem zu entwickeln, was die Erfindung tatsächlich leistet. Angaben der Beschreibung zur „Aufgabe“ können einen Hinweis auf das richtige Verständnis geben, doch hat der Patentanspruch Vorrang.\n\nNormen: § 1 PatG, § 14 PatG\nFundstelle: BGH, Urteil vom 04.02.2010 – Xa ZR 36/08",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Auslegung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_gelenkanordnung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_gelenkanordnung",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nDie Ermittlung des technischen Problems ist Teil der Auslegung des Patentanspruchs; das Problem ist aus dem zu entwickeln, was die Erfindung tatsächlich leistet. Angaben der Beschreibung zur „Aufgabe“ können einen Hinweis auf das richtige Verständnis geben, doch hat der Patentanspruch Vorrang.",
+  "back": "BGH „Gelenkanordnung“ – Xa ZR 36/08 (2010), BGH, Urteil vom 04.02.2010 – Xa ZR 36/08",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Auslegung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_gelenkanordnung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_brieflocher",
+  "typ": "entscheidung",
+  "front": "BGH „Brieflocher“ (X ZR 145/98, 2000) – Kernaussage?",
+  "back": "Für die Prüfung der Patentfähigkeit wie für den Schutzbereich sind Begriffe in den Patentansprüchen so zu deuten, wie sie der angesprochene Fachmann nach dem Gesamtinhalt der Patentschrift unter Berücksichtigung der objektiv offenbarten Lösung versteht.\n\nNormen: § 14 PatG\nFundstelle: BGH, Urteil vom 07.11.2000 – X ZR 145/98",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Auslegung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_brieflocher",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_brieflocher",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nFür die Prüfung der Patentfähigkeit wie für den Schutzbereich sind Begriffe in den Patentansprüchen so zu deuten, wie sie der angesprochene Fachmann nach dem Gesamtinhalt der Patentschrift unter Berücksichtigung der objektiv offenbarten Lösung versteht.",
+  "back": "BGH „Brieflocher“ – X ZR 145/98 (2000), BGH, Urteil vom 07.11.2000 – X ZR 145/98",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Auslegung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_brieflocher",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bpatg_batterieueberwachungsgeraet",
+  "typ": "entscheidung",
+  "front": "BPatG „Batterieüberwachungsgerät“ (15 W (pat) 33/08, 2013) – Kernaussage?",
+  "back": "Einen Zurückweisungsgrund des „unklaren Patentanspruchs“ kennt das Patentgesetz nicht; er folgt auch nicht aus § 34 Abs. 3 Nr. 3 PatG. Die Anspruchsmerkmale sind aus der Sicht des Fachmanns auszulegen, im Prüfungsverfahren nach denselben Grundsätzen wie im Einspruchs-, Nichtigkeits- und Verletzungsverfahren.\n\nNormen: § 34 Abs. 3 PatG, § 48 PatG, § 9 PatV\nFundstelle: BPatG, Beschluss vom 16.12.2013 – 15 W (pat) 33/08",
+  "tags": [
+   "Rechtsprechung",
+   "BPatG",
+   "Erteilungsverfahren",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bpatg_batterieueberwachungsgeraet",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bpatg_batterieueberwachungsgeraet",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BPatG) steht für folgenden Grundsatz?\n\nEinen Zurückweisungsgrund des „unklaren Patentanspruchs“ kennt das Patentgesetz nicht; er folgt auch nicht aus § 34 Abs. 3 Nr. 3 PatG. Die Anspruchsmerkmale sind aus der Sicht des Fachmanns auszulegen, im Prüfungsverfahren nach denselben Grundsätzen wie im Einspruchs-, Nichtigkeits- und Verletzungsverfahren.",
+  "back": "BPatG „Batterieüberwachungsgerät“ – 15 W (pat) 33/08 (2013), BPatG, Beschluss vom 16.12.2013 – 15 W (pat) 33/08",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BPatG",
+   "Erteilungsverfahren",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bpatg_batterieueberwachungsgeraet",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_proteintrennung",
+  "typ": "entscheidung",
+  "front": "BGH „Proteintrennung“ (X ZR 77/12, 2014) – Kernaussage?",
+  "back": "Offenbart ist auch, was nicht ausdrücklich erwähnt, aus der Sicht des Fachmanns aber selbstverständlich ist und deshalb mitgelesen wird. Das erlaubt keine Ergänzung der Offenbarung durch das Fachwissen, sondern dient nur der vollständigen Ermittlung der technischen Information, die der fachkundige Leser der Quelle entnimmt.\n\nNormen: § 3 Abs. 1 PatG\nFundstelle: BGH, Urteil vom 18.03.2014 – X ZR 77/12",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Neuheit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_proteintrennung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_proteintrennung",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nOffenbart ist auch, was nicht ausdrücklich erwähnt, aus der Sicht des Fachmanns aber selbstverständlich ist und deshalb mitgelesen wird. Das erlaubt keine Ergänzung der Offenbarung durch das Fachwissen, sondern dient nur der vollständigen Ermittlung der technischen Information, die der fachkundige Leser der Quelle entnimmt.",
+  "back": "BGH „Proteintrennung“ – X ZR 77/12 (2014), BGH, Urteil vom 18.03.2014 – X ZR 77/12",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Neuheit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_proteintrennung",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_palplus",
+  "typ": "entscheidung",
+  "front": "BGH „PALplus“ (X ZR 113/13, 2015) – Kernaussage?",
+  "back": "Eine ältere, nachveröffentlichte Patentanmeldung ist bei der Neuheitsprüfung auch dann zu berücksichtigen, wenn sie nach ihrer Veröffentlichung zurückgenommen wird oder als zurückgenommen gilt.\n\nNormen: § 3 Abs. 2 PatG\nFundstelle: BGH, Urteil vom 08.09.2015 – X ZR 113/13",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Neuheit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_palplus",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_palplus",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEine ältere, nachveröffentlichte Patentanmeldung ist bei der Neuheitsprüfung auch dann zu berücksichtigen, wenn sie nach ihrer Veröffentlichung zurückgenommen wird oder als zurückgenommen gilt.",
+  "back": "BGH „PALplus“ – X ZR 113/13 (2015), BGH, Urteil vom 08.09.2015 – X ZR 113/13",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Neuheit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_palplus",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_pfeffersaeckchen",
+  "typ": "entscheidung",
+  "front": "BGH „Pfeffersäckchen“ (X ZR 78/09, 2012) – Kernaussage?",
+  "back": "Betrifft das Patent ein mehrstufiges Produktionssystem, das im Allgemeinen nicht in einem einzigen Betrieb angesiedelt ist, können als maßgeblicher Fachmann in verschiedenen Gewerken Kundige anzusehen sein, deren Fachkenntnisse sich in einem Team ergänzen.\n\nNormen: § 4 PatG\nFundstelle: BGH, Urteil vom 06.03.2012 – X ZR 78/09",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Erfinderische Tätigkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_pfeffersaeckchen",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_pfeffersaeckchen",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nBetrifft das Patent ein mehrstufiges Produktionssystem, das im Allgemeinen nicht in einem einzigen Betrieb angesiedelt ist, können als maßgeblicher Fachmann in verschiedenen Gewerken Kundige anzusehen sein, deren Fachkenntnisse sich in einem Team ergänzen.",
+  "back": "BGH „Pfeffersäckchen“ – X ZR 78/09 (2012), BGH, Urteil vom 06.03.2012 – X ZR 78/09",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Erfinderische Tätigkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_pfeffersaeckchen",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_installiereinrichtung_ii",
+  "typ": "entscheidung",
+  "front": "BGH „Installiereinrichtung II“ (X ZB 6/10, 2011) – Kernaussage?",
+  "back": "In welchem Umfang der Fachmann Anregungen im Stand der Technik benötigt, um eine bekannte Lösung weiterzuentwickeln, ist eine Frage des Einzelfalls und verlangt eine Gesamtbetrachtung. Beachtlich sind nicht nur ausdrückliche Hinweise, sondern auch Eigenarten des Fachgebiets, übliche Vorgehensweisen, technische Bedürfnisse und nichttechnische Vorgaben.\n\nNormen: § 4 PatG\nFundstelle: BGH, Beschluss vom 20.12.2011 – X ZB 6/10",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Erfinderische Tätigkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_installiereinrichtung_ii",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_installiereinrichtung_ii",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nIn welchem Umfang der Fachmann Anregungen im Stand der Technik benötigt, um eine bekannte Lösung weiterzuentwickeln, ist eine Frage des Einzelfalls und verlangt eine Gesamtbetrachtung. Beachtlich sind nicht nur ausdrückliche Hinweise, sondern auch Eigenarten des Fachgebiets, übliche Vorgehensweisen, technische Bedürfnisse und nichttechnische Vorgaben.",
+  "back": "BGH „Installiereinrichtung II“ – X ZB 6/10 (2011), BGH, Beschluss vom 20.12.2011 – X ZB 6/10",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Erfinderische Tätigkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_installiereinrichtung_ii",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_dreinahtschlauchfolienbeutel",
+  "typ": "entscheidung",
+  "front": "BGH „Dreinahtschlauchfolienbeutel“ (Xa ZR 22/06, 2009) – Kernaussage?",
+  "back": "Vorgaben, die der Fachmann von seinen Auftraggebern erhält, gehören zum technischen Problem, nicht zur Lösung. Hilfskriterien (früher Beweisanzeichen) geben nur im Einzelfall Anlass, bekannte Lösungen besonders kritisch darauf zu prüfen, ob sie hinreichende Anhaltspunkte für ein Naheliegen bieten und nicht erst in der Rückschau eine Anregung zu enthalten scheinen.\n\nNormen: § 4 PatG\nFundstelle: BGH, Urteil vom 30.07.2009 – Xa ZR 22/06",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Erfinderische Tätigkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_dreinahtschlauchfolienbeutel",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_dreinahtschlauchfolienbeutel",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nVorgaben, die der Fachmann von seinen Auftraggebern erhält, gehören zum technischen Problem, nicht zur Lösung. Hilfskriterien (früher Beweisanzeichen) geben nur im Einzelfall Anlass, bekannte Lösungen besonders kritisch darauf zu prüfen, ob sie hinreichende Anhaltspunkte für ein Naheliegen bieten und nicht erst in der Rückschau eine Anregung zu enthalten scheinen.",
+  "back": "BGH „Dreinahtschlauchfolienbeutel“ – Xa ZR 22/06 (2009), BGH, Urteil vom 30.07.2009 – Xa ZR 22/06",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Erfinderische Tätigkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_dreinahtschlauchfolienbeutel",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_injizierbarer_mikroschaum",
+  "typ": "entscheidung",
+  "front": "BGH „Injizierbarer Mikroschaum“ (X ZR 56/03, 2007) – Kernaussage?",
+  "back": "Die beliebige Auswahl aus mehreren dem Fachmann zur Verfügung stehenden Möglichkeiten begründet keine erfinderische Tätigkeit (Fortführung von Blasenfreie Gummibahn I).\n\nNormen: § 4 PatG\nFundstelle: BGH, Urteil vom 22.05.2007 – X ZR 56/03 – injizierbarer Mikroschaum",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Erfinderische Tätigkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_injizierbarer_mikroschaum",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_injizierbarer_mikroschaum",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nDie beliebige Auswahl aus mehreren dem Fachmann zur Verfügung stehenden Möglichkeiten begründet keine erfinderische Tätigkeit (Fortführung von Blasenfreie Gummibahn I).",
+  "back": "BGH „Injizierbarer Mikroschaum“ – X ZR 56/03 (2007), BGH, Urteil vom 22.05.2007 – X ZR 56/03 – injizierbarer Mikroschaum",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Erfinderische Tätigkeit",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_injizierbarer_mikroschaum",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_faelschungssicheres_dokument",
+  "typ": "entscheidung",
+  "front": "BGH „Fälschungssicheres Dokument“ (Xa ZR 124/07, 2010) – Kernaussage?",
+  "back": "Zum Offenbarungsgehalt einer Anmeldung gehört bei der Prüfung der unzulässigen Erweiterung nur, was den ursprünglichen Unterlagen unmittelbar und eindeutig zu entnehmen ist, nicht eine weitergehende Erkenntnis, zu der der Fachmann aufgrund seines Fachwissens oder durch Abwandlung der offenbarten Lehre gelangen kann.\n\nNormen: § 21 Abs. 1 Nr. 4 PatG, § 38 PatG\nFundstelle: BGH, Urteil vom 08.07.2010 – Xa ZR 124/07",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Unzulässige Erweiterung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_faelschungssicheres_dokument",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_faelschungssicheres_dokument",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nZum Offenbarungsgehalt einer Anmeldung gehört bei der Prüfung der unzulässigen Erweiterung nur, was den ursprünglichen Unterlagen unmittelbar und eindeutig zu entnehmen ist, nicht eine weitergehende Erkenntnis, zu der der Fachmann aufgrund seines Fachwissens oder durch Abwandlung der offenbarten Lehre gelangen kann.",
+  "back": "BGH „Fälschungssicheres Dokument“ – Xa ZR 124/07 (2010), BGH, Urteil vom 08.07.2010 – Xa ZR 124/07",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Unzulässige Erweiterung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_faelschungssicheres_dokument",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_reifenabdichtmittel",
+  "typ": "entscheidung",
+  "front": "BGH „Reifenabdichtmittel“ (X ZR 75/08, 2011) – Kernaussage?",
+  "back": "Offenbaren die ursprünglichen Unterlagen, dass ein Erzeugnis bestimmte Bestandteile „enthalten“ soll, ist damit nicht ohne weiteres offenbart, dass keine weiteren Bestandteile hinzugefügt werden dürfen. Für „besteht aus“ bedarf es in der Regel weiterer Anhaltspunkte, etwa des Hinweises, dass das ausschließliche Bestehen aus diesen Bestandteilen Vorteile hat oder erwünscht ist.\n\nNormen: § 38 PatG\nFundstelle: BGH, Urteil vom 12.07.2011 – X ZR 75/08",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Unzulässige Erweiterung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_reifenabdichtmittel",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_reifenabdichtmittel",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nOffenbaren die ursprünglichen Unterlagen, dass ein Erzeugnis bestimmte Bestandteile „enthalten“ soll, ist damit nicht ohne weiteres offenbart, dass keine weiteren Bestandteile hinzugefügt werden dürfen. Für „besteht aus“ bedarf es in der Regel weiterer Anhaltspunkte, etwa des Hinweises, dass das ausschließliche Bestehen aus diesen Bestandteilen Vorteile hat oder erwünscht ist.",
+  "back": "BGH „Reifenabdichtmittel“ – X ZR 75/08 (2011), BGH, Urteil vom 12.07.2011 – X ZR 75/08",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Unzulässige Erweiterung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_reifenabdichtmittel",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_schleifprodukt",
+  "typ": "entscheidung",
+  "front": "BGH „Schleifprodukt“ (X ZR 119/09, 2014) – Kernaussage?",
+  "back": "Merkmale eines Ausführungsbeispiels, die zusammen oder je für sich den Erfolg der Erfindung fördern, dürfen einzeln oder gemeinsam in den Anspruch aufgenommen werden; die beanspruchte Kombination muss aber insgesamt eine Lehre sein, die der Fachmann den ursprünglichen Unterlagen als mögliche Ausgestaltung der Erfindung entnehmen kann.\n\nNormen: § 21 Abs. 1 Nr. 4 PatG, § 38 PatG\nFundstelle: BGH, Urteil vom 25.11.2014 – X ZR 119/09",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Unzulässige Erweiterung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_schleifprodukt",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_schleifprodukt",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nMerkmale eines Ausführungsbeispiels, die zusammen oder je für sich den Erfolg der Erfindung fördern, dürfen einzeln oder gemeinsam in den Anspruch aufgenommen werden; die beanspruchte Kombination muss aber insgesamt eine Lehre sein, die der Fachmann den ursprünglichen Unterlagen als mögliche Ausgestaltung der Erfindung entnehmen kann.",
+  "back": "BGH „Schleifprodukt“ – X ZR 119/09 (2014), BGH, Urteil vom 25.11.2014 – X ZR 119/09",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Unzulässige Erweiterung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_schleifprodukt",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_gurtstraffer",
+  "typ": "entscheidung",
+  "front": "BGH „Gurtstraffer“ (X ZR 50/16, 2018) – Kernaussage?",
+  "back": "Eine Zweck- oder Funktionsangabe im Sachanspruch bringt regelmäßig zum Ausdruck, dass die Vorrichtung für den Zweck oder die Funktion objektiv geeignet sein muss; der Anspruch bleibt Sachanspruch. Dass die vorgeschlagene Lösung Nachteile oder Schwierigkeiten in Kauf nimmt, begründet für sich keine Patentfähigkeit.\n\nNormen: § 14 PatG, § 4 PatG\nFundstelle: BGH, Urteil vom 24.04.2018 – X ZR 50/16",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Auslegung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_gurtstraffer",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_gurtstraffer",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEine Zweck- oder Funktionsangabe im Sachanspruch bringt regelmäßig zum Ausdruck, dass die Vorrichtung für den Zweck oder die Funktion objektiv geeignet sein muss; der Anspruch bleibt Sachanspruch. Dass die vorgeschlagene Lösung Nachteile oder Schwierigkeiten in Kauf nimmt, begründet für sich keine Patentfähigkeit.",
+  "back": "BGH „Gurtstraffer“ – X ZR 50/16 (2018), BGH, Urteil vom 24.04.2018 – X ZR 50/16",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Auslegung",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_gurtstraffer",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung:case:pat_bgh_luftverteiler",
+  "typ": "entscheidung",
+  "front": "BGH „Luftverteiler“ (X ZR 168/98, 2001) – Kernaussage?",
+  "back": "Eine Nachanmeldung betrifft nur dann dieselbe Erfindung wie die Voranmeldung, wenn die beanspruchte Merkmalskombination dem Fachmann in der Voranmeldung in ihrer Gesamtheit als zur angemeldeten Erfindung gehörend offenbart ist; Einzelmerkmale verschiedener Priorität können nicht in einem Anspruch kombiniert werden.\n\nNormen: § 40 PatG, § 41 PatG\nFundstelle: BGH, Urteil vom 11.09.2001 – X ZR 168/98",
+  "tags": [
+   "Rechtsprechung",
+   "BGH",
+   "Priorität",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_luftverteiler",
+  "law": ""
+ },
+ {
+  "id": "card:entscheidung_r:case:pat_bgh_luftverteiler",
+  "typ": "entscheidung_r",
+  "front": "Welche Entscheidung (BGH) steht für folgenden Grundsatz?\n\nEine Nachanmeldung betrifft nur dann dieselbe Erfindung wie die Voranmeldung, wenn die beanspruchte Merkmalskombination dem Fachmann in der Voranmeldung in ihrer Gesamtheit als zur angemeldeten Erfindung gehörend offenbart ist; Einzelmerkmale verschiedener Priorität können nicht in einem Anspruch kombiniert werden.",
+  "back": "BGH „Luftverteiler“ – X ZR 168/98 (2001), BGH, Urteil vom 11.09.2001 – X ZR 168/98",
+  "tags": [
+   "Rechtsprechung",
+   "Umkehr",
+   "BGH",
+   "Priorität",
+   "Prüfungsrichtlinien"
+  ],
+  "node": "case:pat_bgh_luftverteiler",
   "law": ""
  },
  {

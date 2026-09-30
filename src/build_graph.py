@@ -252,6 +252,10 @@ def build(write=True, unknown=None):
         add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"], url=w["url"], provider=w["provider"],
                       **({"titel_en": w["title_en"]} if w.get("title_en") else {})))
 
+    # Prüfungsrichtlinien des DPMA (Richtlinien für die Prüfung von Patentanmeldungen) als Quellen der Patent-Begriffe
+    for w in patent.richtlinien.QUELLEN:
+        add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"], url=w["url"], provider=w["provider"]))
+
     # --- Entscheidungen ---
     for c in CASES:
         add_node(dict(id=f"case:{c['id']}", type="case", label=f"{c['court']} – {c['name']}", name=c["name"],
@@ -354,7 +358,8 @@ def build(write=True, unknown=None):
             beschreibung="Normen, Begriffe, Prüfungsschemata, Abgrenzungen und Leitentscheidungen zum deutschen Marken-, Patent- und Designrecht sowie zum Verfahren vor dem Einheitlichen Patentgericht; verbunden über die Durchsetzungsrichtlinie 2004/48/EG, die Designrichtlinie und das IntPatÜG.",
             patent=dict(entscheidungen=patent.entscheidungen.META["anzahl"], bpatg=patent.entscheidungen.META["bpatg"], bgh=patent.entscheidungen.META["bgh"],
                         zeitraum=patent.entscheidungen.META["zeitraum"], quelle=patent.entscheidungen.META["quelle"],
-                        stand={k: v.get("stand", []) for k, v in patent.gesetze_texte.META.items()}),
+                        stand={k: v.get("stand", []) for k, v in patent.gesetze_texte.META.items()},
+                        pruefungsrichtlinien=patent.richtlinien.STAND, pruefungsrichtlinien_url=patent.richtlinien.URL),
             design=dict(entscheidungen=design.entscheidungen.META["anzahl"], bpatg=design.entscheidungen.META["bpatg"], bgh=design.entscheidungen.META["bgh"],
                         zeitraum=design.entscheidungen.META["zeitraum"], quelle=design.entscheidungen.META["quelle"],
                         stand={k: v.get("stand", []) for k, v in design.gesetze_texte.META.items()}, eu_stand=design.eurecht.STAND),

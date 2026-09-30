@@ -362,6 +362,21 @@ Karteikarten entstehen wie beim EPG nur für Vorschriften mit Begriff, Schema, E
 Lehrfälle ohne zugrunde liegende Beschlüsse, Lösungsskizzen gibt es nur für 2018. Fortschreiben: neue Klausur laden, `pdftotext`, Rechtsfragen als
 Einheiten mit `step:pat_schema_…` anhängen, Tabelle in `klausuren/README.md` ergänzen.
 
+**Prüfungsrichtlinien des DPMA (September 2026).** Die Richtlinien für die Prüfung von Patentanmeldungen (Formular P 2796, Ausgabe vom
+2.3.2026) sind keine Norm, sondern wie die UP-Richtlinien `source`-Knoten (Provider „DPMA-Prüfungsrichtlinien“, Seiten-ID `prl:2.3.3.3`,
+URL mit `#page=`). Die Datenbank enthält sie nicht (`EPOLegaltext` mit `type gl` sind die EPA-Richtlinien), deshalb lädt
+`tools/fetch_pruefungsrichtlinien.py` das PDF von dpma.de (Cache `~/.cache/ipelico/patent/p2796.pdf`) und schreibt
+`data/dpma_pruefungsrichtlinien.json`: zweispaltiges PDF, je Seite links und rechts der Mitte extrahiert (`pdftotext -layout -x/-W`),
+Fußnotenblöcke abgetrennt und als `[n]` im Text zugeordnet, Überschriften am Inhaltsverzeichnis erkannt. `patent/richtlinien.py` trägt
+kuratierte Zusammenfassungen (`KURATIERT`) und die Zuordnung Begriff → Abschnitte (`BEGRIFF_QUELLEN`, in `concepts.c()` als `quellen`
+angehängt); `build_graph` legt die Knoten an. Inhalte: Kurs `kurse/p02_pruefungsrichtlinien.py` (Kapitel entlang der Richtlinien),
+Schemata `pat_schema_pruefungsverfahren_dpma` und `pat_schema_programmbezogene_erfindung`, Tabellen `d_pat_offensichtlichkeit_sachpruefung`
+und `d_pat_fristen_pruefungsrichtlinien`, 15 Begriffe (Offensichtlichkeitsprüfung, Prüfungsantrag, Bescheid, Anhörung, Abhilfe,
+Hinterlegung, dreistufige Prüfung, KI …) und 24 Entscheidungen aus den Fußnoten (Namen aus dem Korpus verifiziert; Entscheidungen vor 2000,
+die der Korpus nicht kennt, nur als Text mit Hinweis auf die Richtlinien). `BioMatHintV` ist in `gesetze.LAWS` eingetragen; die
+Wahrnehmungsverordnung hat keinen Slug auf gesetze-im-internet.de und wird nur ausgeschrieben genannt. Neue Ausgabe: PDF im Cache löschen,
+Skript laufen lassen, Abschnittsnummern in `KURATIERT`/`BEGRIFF_QUELLEN` prüfen (der Import bricht bei unbekannten Nummern ab).
+
 **Aktualisieren.** Neue Entscheidungen: `python3 tools/fetch_patent.py --no-net`; neue Gesetzesfassung: Zip in `~/.cache/ipelico/patent/`
 löschen und ohne `--no-net` laufen lassen, dann `PATG_TITEL` und die Hinweise auf neue oder gestrichene Paragraphen prüfen; danach `build.py`,
 Rauchtest (Routen `#/bpatg`, `#/karte/eunorm:patg:3`, `#/karte/eunorm:intpatueg:II§6` sind enthalten).

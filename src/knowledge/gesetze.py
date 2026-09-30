@@ -83,6 +83,7 @@ LAWS = {
     "RDG": ("rdg", "§"),
     "EuPAG": ("eupag", "§"),
     "AMG": ("amg_1976", "§"),
+    "BioMatHintV": ("biomathintv", "§"),
 }
 # Schreibweisen in Entscheidungen und Normenketten -> Abkürzung der Tabellen
 ALIASES = {"ArbNErfG": "ArbnErfG", "ArbEG": "ArbnErfG", "EPC": "EPÜ", "TFEU": "AEUV", "EPGVerfO": "VerfO", "UPCS": "EPG-Satzung",

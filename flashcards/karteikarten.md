@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht und Einheitliches Patentgericht
 
-2273 Karten, generiert aus graph/markenrecht_graph.json.
+2362 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -5482,7 +5482,7 @@ Technisch ist eine Lehre, die den Einsatz beherrschbarer Naturkräfte zur unmitt
 
 Normen: [§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html)
 
-Rechtsprechung: BGH Dynamische Dokumentengenerierung (Xa ZB 20/08); BGH Webseitenanzeige (X ZR 121/09); BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07)
+Rechtsprechung: BGH Dynamische Dokumentengenerierung (Xa ZB 20/08); BGH Webseitenanzeige (X ZR 121/09); BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07); BGH Wiedergabe topografischer Informationen (X ZR 47/07)
 
 *Tags: Begriff, Patent: Patentfähigkeit*
 
@@ -5664,7 +5664,7 @@ Eine Erfindung beruht auf erfinderischer Tätigkeit, wenn sie sich für den Fach
 
 Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html), [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html)
 
-Rechtsprechung: BGH Fischbissanzeiger (Xa ZR 138/05); BGH Airbag-Auslösesteuerung (Xa ZR 56/05); BGH Farbversorgungssystem (X ZR 139/10)
+Rechtsprechung: BGH Fischbissanzeiger (Xa ZR 138/05); BGH Airbag-Auslösesteuerung (Xa ZR 56/05); BGH Farbversorgungssystem (X ZR 139/10); BGH Brieflocher (X ZR 145/98)
 
 *Tags: Begriff, Patent: Patentfähigkeit*
 
@@ -5690,7 +5690,7 @@ Der Fachmann ist eine fiktive Person mit den durchschnittlichen Kenntnissen und 
 
 Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html), [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html)
 
-Rechtsprechung: BGH Papiermaschinengewebe (X ZR 273/02)
+Rechtsprechung: BGH Papiermaschinengewebe (X ZR 273/02); BGH Gelenkanordnung (Xa ZR 36/08); BGH Dreinahtschlauchfolienbeutel (Xa ZR 22/06)
 
 *Tags: Begriff, Patent: Patentfähigkeit*
 
@@ -5740,7 +5740,7 @@ Eine Erfindung ist gewerblich anwendbar, wenn ihr Gegenstand auf irgendeinem gew
 
 Normen: [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [Art. II § 6 Abs. 1 Nr. 2 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
 
-Rechtsprechung: BGH Thermoplastische Zusammensetzung (Xa ZR 100/05); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP))
+Rechtsprechung: BGH Thermoplastische Zusammensetzung (Xa ZR 100/05); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP)); BGH Klammernahtgerät (Xa ZR 126/07); BGH Taxol (X ZR 168/97)
 
 *Tags: Begriff, Patent: Patentfähigkeit*
 
@@ -5818,7 +5818,7 @@ Der Patentanspruch ist aus der Sicht des Fachmanns nach seinem technischen Sinng
 
 Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html)
 
-Rechtsprechung: BGH Bildunterstützung bei Katheternavigation (X ZB 9/09); BGH Referenzkontur (X ZR 35/24)
+Rechtsprechung: BGH Bildunterstützung bei Katheternavigation (X ZB 9/09); BGH Referenzkontur (X ZR 35/24); BGH Gurtstraffer (X ZR 50/16)
 
 *Tags: Begriff, Patent: Schutzbereich und Auslegung*
 
@@ -6380,7 +6380,7 @@ Das Recht auf das Patent hat der Erfinder oder sein Rechtsnachfolger ([§ 6 PatG
 
 Normen: [§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html), [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html), [§ 123 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__123.html)
 
-Rechtsprechung: BGH Fahrzeugscheibe (X ZR 49/12); BGH Kommunikationskanal (X ZR 107/12); BPatG Mehrfach-Funkgerät (10 W (pat) 36/06)
+Rechtsprechung: BGH Fahrzeugscheibe (X ZR 49/12); BGH Kommunikationskanal (X ZR 107/12); BPatG Mehrfach-Funkgerät (10 W (pat) 36/06); BGH Luftverteiler (X ZR 168/98)
 
 *Tags: Begriff, Patent: Anmeldung und Erteilung*
 
@@ -6458,7 +6458,7 @@ Rechtsprechung: BGH Hubgliedertor I (X ZR 27/06); BGH Winkelmesseinrichtung (Xa 
 
 Normen: [§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html), [§ 43 PatG](https://www.gesetze-im-internet.de/patg/__43.html), [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html), [§ 45 PatG](https://www.gesetze-im-internet.de/patg/__45.html), [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html), [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)
 
-Rechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07); BGH Phosphatidylcholin (X ZB 5/16)
+Rechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07); BGH Phosphatidylcholin (X ZB 5/16); BPatG Batterieüberwachungsgerät (15 W (pat) 33/08)
 
 *Tags: Begriff, Patent: Anmeldung und Erteilung*
 
@@ -7443,6 +7443,380 @@ Das DPMA ist Anmeldeamt ([Art. III § 1 IntPatÜG](https://www.gesetze-im-intern
 **A:** PCT-Anmeldung und nationale Phase (Art. III IntPatÜG)
 
 *Tags: Begriff, Umkehr, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
+
+---
+
+## definition
+
+**F:** Definiere: Prüfungsrichtlinien des DPMA
+
+**A:** Die Richtlinien für die Prüfung von Patentanmeldungen sind eine Verwaltungsvorschrift des DPMA. Sie enthalten die Grundsätze für Offensichtlichkeitsprüfung, Recherche, Bescheid, Erteilung und Zurückweisung und sollen eine einheitliche und zügige Behandlung durch die Prüfungsstellen sichern.
+
+Normen: [§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html), [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html), [§ 45 PatG](https://www.gesetze-im-internet.de/patg/__45.html), [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Richtlinien für die Prüfung von Patentanmeldungen sind eine Verwaltungsvorschrift des DPMA. Sie enthalten die Grundsätze für Offensichtlichkeitsprüfung, Recherche, Bescheid, Erteilung und Zurückweisung und sollen eine einheitliche und zügige Behandlung durch die Prüfungsstellen sichern.
+
+**A:** Prüfungsrichtlinien des DPMA
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Offensichtlichkeitsprüfung ([§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html))
+
+**A:** Vor dem Prüfungsantrag prüft die Prüfungsstelle nur, ob die Anmeldung den §§ [34](https://www.gesetze-im-internet.de/patg/__34.html), [36](https://www.gesetze-im-internet.de/patg/__36.html), [37](https://www.gesetze-im-internet.de/patg/__37.html) und [38](https://www.gesetze-im-internet.de/patg/__38.html) PatG offensichtlich nicht genügt ([§ 42 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__42.html)) oder ob offensichtlich keine Erfindung, keine gewerbliche Anwendbarkeit oder ein Patentierungsausschluss vorliegt ([§ 42 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__42.html)). Offensichtlich ist, was ohne weitere Sachprüfung zweifelsfrei erkennbar ist.
+
+Normen: [§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html), [§ 34 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 36 PatG](https://www.gesetze-im-internet.de/patg/__36.html), [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html), [§ 35 PatG](https://www.gesetze-im-internet.de/patg/__35.html)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Vor dem Prüfungsantrag prüft die Prüfungsstelle nur, ob die Anmeldung den §§ [34](https://www.gesetze-im-internet.de/patg/__34.html), [36](https://www.gesetze-im-internet.de/patg/__36.html), [37](https://www.gesetze-im-internet.de/patg/__37.html) und [38](https://www.gesetze-im-internet.de/patg/__38.html) PatG offensichtlich nicht genügt ([§ 42 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__42.html)) oder ob offensichtlich keine Erfindung, keine gewerbliche Anwendbarkeit oder ein Patentierungsausschluss vorliegt ([§ 42 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__42.html)). Offensichtlich ist, was ohne weitere Sachprüfung zweifelsfrei erkennbar ist.
+
+**A:** Offensichtlichkeitsprüfung ([§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Prüfungsantrag ([§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html))
+
+**A:** Die sachliche Prüfung findet nur auf Antrag statt. Den Antrag können der Anmelder und jeder Dritte bis zum Ablauf von sieben Jahren nach Einreichung der Anmeldung stellen; der Dritte wird dadurch nicht Verfahrensbeteiligter ([§ 44 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__44.html)).
+
+Normen: [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html), [§ 43 PatG](https://www.gesetze-im-internet.de/patg/__43.html), [§ 58 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__58.html), [§ 25 PatG](https://www.gesetze-im-internet.de/patg/__25.html), [§ 5 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__5.html), Anlage PatKostG
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die sachliche Prüfung findet nur auf Antrag statt. Den Antrag können der Anmelder und jeder Dritte bis zum Ablauf von sieben Jahren nach Einreichung der Anmeldung stellen; der Dritte wird dadurch nicht Verfahrensbeteiligter ([§ 44 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__44.html)).
+
+**A:** Prüfungsantrag ([§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Recherche im Prüfungsverfahren
+
+**A:** Die Recherche ermittelt den Stand der Technik, der für die Patentfähigkeit der in den Ansprüchen angegebenen Erfindung maßgeblich ist; sie erstreckt sich auf alle unabhängigen und abhängigen Ansprüche und soll vor dem Erstbescheid in einem Arbeitsgang abgeschlossen sein.
+
+Normen: [§ 43 PatG](https://www.gesetze-im-internet.de/patg/__43.html), [§ 34 Abs. 7 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 44 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__44.html)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Recherche ermittelt den Stand der Technik, der für die Patentfähigkeit der in den Ansprüchen angegebenen Erfindung maßgeblich ist; sie erstreckt sich auf alle unabhängigen und abhängigen Ansprüche und soll vor dem Erstbescheid in einem Arbeitsgang abgeschlossen sein.
+
+**A:** Recherche im Prüfungsverfahren
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Prüfungsbescheid ([§ 45 PatG](https://www.gesetze-im-internet.de/patg/__45.html))
+
+**A:** Mit dem Bescheid teilt die Prüfungsstelle Mängel der Anmeldung ([§ 45 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__45.html)) oder das Fehlen einer patentfähigen Erfindung ([§ 45 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__45.html)) unter Angabe der Gründe mit und setzt eine Frist zur Äußerung. Er bereitet Erteilung oder Zurückweisung vor und sichert das rechtliche Gehör.
+
+Normen: [§ 45 PatG](https://www.gesetze-im-internet.de/patg/__45.html), [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), [§ 42 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__42.html)
+
+Rechtsprechung: BPatG Batterieüberwachungsgerät (15 W (pat) 33/08)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Mit dem Bescheid teilt die Prüfungsstelle Mängel der Anmeldung ([§ 45 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__45.html)) oder das Fehlen einer patentfähigen Erfindung ([§ 45 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__45.html)) unter Angabe der Gründe mit und setzt eine Frist zur Äußerung. Er bereitet Erteilung oder Zurückweisung vor und sichert das rechtliche Gehör.
+
+**A:** Prüfungsbescheid ([§ 45 PatG](https://www.gesetze-im-internet.de/patg/__45.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Anhörung vor der Prüfungsstelle ([§ 46 PatG](https://www.gesetze-im-internet.de/patg/__46.html))
+
+**A:** Die Prüfungsstelle kann die Beteiligten jederzeit laden und anhören; bis zum Erteilungsbeschluss ist der Anmelder auf schriftlichen Antrag zu hören ([§ 46 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__46.html)). Über die Anhörung ist eine Niederschrift zu fertigen ([§ 46 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__46.html)); am Ende kann der Beschluss verkündet werden ([§ 47 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__47.html)).
+
+Normen: [§ 46 PatG](https://www.gesetze-im-internet.de/patg/__46.html), [§ 47 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__47.html)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Prüfungsstelle kann die Beteiligten jederzeit laden und anhören; bis zum Erteilungsbeschluss ist der Anmelder auf schriftlichen Antrag zu hören ([§ 46 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__46.html)). Über die Anhörung ist eine Niederschrift zu fertigen ([§ 46 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__46.html)); am Ende kann der Beschluss verkündet werden ([§ 47 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__47.html)).
+
+**A:** Anhörung vor der Prüfungsstelle ([§ 46 PatG](https://www.gesetze-im-internet.de/patg/__46.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Einheitlichkeit der Anmeldung ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html))
+
+**A:** Die Anmeldung darf nur eine einzige Erfindung enthalten oder eine Gruppe von Erfindungen, die eine einzige allgemeine erfinderische Idee verwirklichen ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)). Das sichert übersichtliche, recherchierbare Schutzrechte und verhindert die Umgehung von Gebühren.
+
+Normen: [§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 43 Abs. 6 PatG](https://www.gesetze-im-internet.de/patg/__43.html), [§ 21 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__21.html)
+
+Rechtsprechung: BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Anmeldung darf nur eine einzige Erfindung enthalten oder eine Gruppe von Erfindungen, die eine einzige allgemeine erfinderische Idee verwirklichen ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)). Das sichert übersichtliche, recherchierbare Schutzrechte und verhindert die Umgehung von Gebühren.
+
+**A:** Einheitlichkeit der Anmeldung ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html))
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Erteilungsreife Unterlagen
+
+**A:** Vor der Erteilung muss der Anmelder die Beschreibung mit den geltenden Ansprüchen in Einklang bringen ([§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html)), auf Verlangen den Stand der Technik angeben ([§ 34 Abs. 7 PatG](https://www.gesetze-im-internet.de/patg/__34.html)) und Reinschriften einreichen ([§ 15 Abs. 1 PatV](https://www.gesetze-im-internet.de/patv/__15.html)).
+
+Normen: [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html), [§ 15 PatV](https://www.gesetze-im-internet.de/patv/__15.html), [§ 34 Abs. 7 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Vor der Erteilung muss der Anmelder die Beschreibung mit den geltenden Ansprüchen in Einklang bringen ([§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html)), auf Verlangen den Stand der Technik angeben ([§ 34 Abs. 7 PatG](https://www.gesetze-im-internet.de/patg/__34.html)) und Reinschriften einreichen ([§ 15 Abs. 1 PatV](https://www.gesetze-im-internet.de/patv/__15.html)).
+
+**A:** Erteilungsreife Unterlagen
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Beschlüsse der Prüfungsstelle: Erteilung und Zurückweisung (§§ [47](https://www.gesetze-im-internet.de/patg/__47.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG)
+
+**A:** Beschluss ist jede abschließende Regelung des DPMA, die Rechte der Beteiligten berühren kann, unabhängig von ihrer Bezeichnung. Beschlüsse sind zu begründen, zuzustellen und mit einer Rechtsmittelbelehrung zu versehen ([§ 47 PatG](https://www.gesetze-im-internet.de/patg/__47.html)). Die Prüfungsstelle erteilt das Patent ([§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html)) oder weist die Anmeldung zurück ([§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html)).
+
+Normen: [§ 47 PatG](https://www.gesetze-im-internet.de/patg/__47.html), [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html), [§ 58 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__58.html)
+
+Rechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07)
+
+*Tags: Begriff, Patent: Anmeldung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Beschluss ist jede abschließende Regelung des DPMA, die Rechte der Beteiligten berühren kann, unabhängig von ihrer Bezeichnung. Beschlüsse sind zu begründen, zuzustellen und mit einer Rechtsmittelbelehrung zu versehen ([§ 47 PatG](https://www.gesetze-im-internet.de/patg/__47.html)). Die Prüfungsstelle erteilt das Patent ([§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html)) oder weist die Anmeldung zurück ([§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html)).
+
+**A:** Beschlüsse der Prüfungsstelle: Erteilung und Zurückweisung (§§ [47](https://www.gesetze-im-internet.de/patg/__47.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG)
+
+*Tags: Begriff, Umkehr, Patent: Anmeldung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Abhilfe ([§ 73 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__73.html))
+
+**A:** Hält die Stelle, deren Beschluss angefochten wird, die Beschwerde für begründet, hat sie ihr abzuhelfen; andernfalls legt sie die Beschwerde vor Ablauf eines Monats ohne sachliche Stellungnahme dem Bundespatentgericht vor ([§ 73 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__73.html)). Im zweiseitigen Verfahren gibt es keine Abhilfe ([§ 73 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__73.html)).
+
+Normen: [§ 73 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__73.html), [§ 73 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__73.html), [§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)
+
+*Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Hält die Stelle, deren Beschluss angefochten wird, die Beschwerde für begründet, hat sie ihr abzuhelfen; andernfalls legt sie die Beschwerde vor Ablauf eines Monats ohne sachliche Stellungnahme dem Bundespatentgericht vor ([§ 73 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__73.html)). Im zweiseitigen Verfahren gibt es keine Abhilfe ([§ 73 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__73.html)).
+
+**A:** Abhilfe ([§ 73 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__73.html))
+
+*Tags: Begriff, Umkehr, Patent: Verfahren, Fristen, Rechtsmittel*
+
+---
+
+## definition
+
+**F:** Definiere: Hilfskriterien der erfinderischen Tätigkeit (Beweisanzeichen)
+
+**A:** Hilfskriterien sind Umstände wie die Überwindung eines technischen Vorurteils, vergebliche Bemühungen der Fachwelt, ein lange bestehendes Bedürfnis, eine sprunghafte Weiterentwicklung oder synergistische Effekte. Sie ersetzen die Prüfung des [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) nicht, sondern geben Anlass, bekannte Lösungen besonders kritisch auf Anhaltspunkte für ein Naheliegen zu prüfen.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+
+Rechtsprechung: BGH Dreinahtschlauchfolienbeutel (Xa ZR 22/06); BGH Injizierbarer Mikroschaum (X ZR 56/03); BGH Gurtstraffer (X ZR 50/16)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Hilfskriterien sind Umstände wie die Überwindung eines technischen Vorurteils, vergebliche Bemühungen der Fachwelt, ein lange bestehendes Bedürfnis, eine sprunghafte Weiterentwicklung oder synergistische Effekte. Sie ersetzen die Prüfung des [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html) nicht, sondern geben Anlass, bekannte Lösungen besonders kritisch auf Anhaltspunkte für ein Naheliegen zu prüfen.
+
+**A:** Hilfskriterien der erfinderischen Tätigkeit (Beweisanzeichen)
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Patentkategorien: Erzeugnis, Verfahren, Verwendung
+
+**A:** Patente betreffen Erzeugnisse (Gegenstände, Vorrichtungen, Stoffe) oder Verfahren (Herstellungsverfahren, Arbeitsverfahren, Verwendung). Die Kategorie bestimmt die verbotenen Benutzungshandlungen ([§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)) und richtet sich nach dem objektiven Offenbarungsgehalt der Anmeldung.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html), [§ 34 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html)
+
+Rechtsprechung: BGH Gurtstraffer (X ZR 50/16)
+
+*Tags: Begriff, Patent: Schutzbereich und Auslegung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Patente betreffen Erzeugnisse (Gegenstände, Vorrichtungen, Stoffe) oder Verfahren (Herstellungsverfahren, Arbeitsverfahren, Verwendung). Die Kategorie bestimmt die verbotenen Benutzungshandlungen ([§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)) und richtet sich nach dem objektiven Offenbarungsgehalt der Anmeldung.
+
+**A:** Patentkategorien: Erzeugnis, Verfahren, Verwendung
+
+*Tags: Begriff, Umkehr, Patent: Schutzbereich und Auslegung*
+
+---
+
+## definition
+
+**F:** Definiere: Hinterlegung biologischen Materials (BioMatHintV)
+
+**A:** Kann biologisches Material in der Anmeldung nicht so beschrieben werden, dass der Fachmann die Erfindung ausführen kann, ergänzt die Hinterlegung einer Probe bei einer anerkannten Hinterlegungsstelle die Offenbarung nach [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html) ([§ 1 BioMatHintV](https://www.gesetze-im-internet.de/biomathintv/__1.html); Ermächtigung in [§ 34 Abs. 8 PatG](https://www.gesetze-im-internet.de/patg/__34.html)).
+
+Normen: [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 34 Abs. 8 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 2a PatG](https://www.gesetze-im-internet.de/patg/__2a.html)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Kann biologisches Material in der Anmeldung nicht so beschrieben werden, dass der Fachmann die Erfindung ausführen kann, ergänzt die Hinterlegung einer Probe bei einer anerkannten Hinterlegungsstelle die Offenbarung nach [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html) ([§ 1 BioMatHintV](https://www.gesetze-im-internet.de/biomathintv/__1.html); Ermächtigung in [§ 34 Abs. 8 PatG](https://www.gesetze-im-internet.de/patg/__34.html)).
+
+**A:** Hinterlegung biologischen Materials (BioMatHintV)
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Dreistufige Prüfung programmbezogener Erfindungen
+
+**A:** Programmbezogene Erfindungen werden in drei Stufen geprüft: (1) Technizität ([§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html)), (2) kein Ausschluss „als solches“ ([§ 1 Abs. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html)), weil die Lehre ein konkretes technisches Problem mit technischen Mitteln löst, (3) Neuheit und erfinderische Tätigkeit (§§ [3](https://www.gesetze-im-internet.de/patg/__3.html), [4](https://www.gesetze-im-internet.de/patg/__4.html) PatG), wobei nur die Anweisungen zählen, die diese Lösung bestimmen oder beeinflussen.
+
+Normen: [§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 1 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+
+Rechtsprechung: BGH Wiedergabe topografischer Informationen (X ZR 47/07); BGH Webseitenanzeige (X ZR 121/09); BGH Dynamische Dokumentengenerierung (Xa ZB 20/08); BGH Steuerungseinrichtung für Untersuchungsmodalitäten (X ZB 22/07)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Programmbezogene Erfindungen werden in drei Stufen geprüft: (1) Technizität ([§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html)), (2) kein Ausschluss „als solches“ ([§ 1 Abs. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html)), weil die Lehre ein konkretes technisches Problem mit technischen Mitteln löst, (3) Neuheit und erfinderische Tätigkeit (§§ [3](https://www.gesetze-im-internet.de/patg/__3.html), [4](https://www.gesetze-im-internet.de/patg/__4.html) PatG), wobei nur die Anweisungen zählen, die diese Lösung bestimmen oder beeinflussen.
+
+**A:** Dreistufige Prüfung programmbezogener Erfindungen
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Erfindungen mit Bezug zu Künstlicher Intelligenz
+
+**A:** KI-bezogene Erfindungen schaffen entweder die Grundlagen für den Einsatz Künstlicher Intelligenz (Hardware-Architekturen, Algorithmen, Modelle, Lernverfahren) oder setzen sie für ein Anwendungsgebiet ein. Das DPMA prüft sie regelmäßig wie programmbezogene Erfindungen in drei Stufen.
+
+Normen: [§ 1 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html), [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html)
+
+Rechtsprechung: BGH Flugzeugzustand (X ZB 1/15)
+
+*Tags: Begriff, Patent: Patentfähigkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+KI-bezogene Erfindungen schaffen entweder die Grundlagen für den Einsatz Künstlicher Intelligenz (Hardware-Architekturen, Algorithmen, Modelle, Lernverfahren) oder setzen sie für ein Anwendungsgebiet ein. Das DPMA prüft sie regelmäßig wie programmbezogene Erfindungen in drei Stufen.
+
+**A:** Erfindungen mit Bezug zu Künstlicher Intelligenz
+
+*Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
 
 ---
 
@@ -9670,6 +10044,48 @@ Die zivilrechtlichen Ansprüche bei Verletzung eines Designs, einer Marke, eines
 
 ---
 
+**F:** Prüfungsschema: Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ [42](https://www.gesetze-im-internet.de/patg/__42.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) PatG)
+
+**A:** - A. Wirksame Anmeldung und Offensichtlichkeitsprüfung (§§ [35](https://www.gesetze-im-internet.de/patg/__35.html), [42](https://www.gesetze-im-internet.de/patg/__42.html) PatG)
+  - 1. Mindesterfordernisse und Anmeldetag
+  - 2. Offensichtliche Formmängel ([§ 42 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__42.html))
+  - 3. Offensichtlich keine patentfähige Erfindung ([§ 42 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__42.html))
+- B. Prüfungsantrag ([§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html))
+- C. Sachprüfung
+  - 1. Fachmann definieren und Anspruch auslegen
+  - 2. Ausführbarkeit ([§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html))
+  - 3. Patentfähigkeit (§§ [1](https://www.gesetze-im-internet.de/patg/__1.html) bis [5](https://www.gesetze-im-internet.de/patg/__5.html) PatG)
+  - 4. Änderungen und unzulässige Erweiterung ([§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html))
+  - 5. Einheitlichkeit, Ausscheidung, Teilung ([§ 34 Abs. 5](https://www.gesetze-im-internet.de/patg/__34.html), [§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html))
+  - 6. Ansprüche, Kategorie, Priorität
+- D. Bescheid, Frist, Anhörung (§§ [45](https://www.gesetze-im-internet.de/patg/__45.html), [46](https://www.gesetze-im-internet.de/patg/__46.html) PatG)
+  - 1. Prüfungsbescheid
+  - 2. Fristen
+  - 3. Anhörung
+- E. Beschluss (§§ [47](https://www.gesetze-im-internet.de/patg/__47.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG)
+  - 1. Erteilungsreife Unterlagen und Erteilung
+  - 2. Zurückweisung
+- F. Beschwerde und Abhilfe ([§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html))
+
+*Tags: Prüfungsschema, Patent: Anmeldung und Erteilung*
+
+---
+
+**F:** Prüfungsschema: Programmbezogene und KI-bezogene Erfindungen: dreistufige Prüfung (§§ [1](https://www.gesetze-im-internet.de/patg/__1.html), [3](https://www.gesetze-im-internet.de/patg/__3.html), [4](https://www.gesetze-im-internet.de/patg/__4.html) PatG)
+
+**A:** - A. Anspruch auslegen und technisches Problem bestimmen
+- B. Erste Stufe: Technizität ([§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html))
+- C. Zweite Stufe: kein Ausschluss als solches ([§ 1 Abs. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html))
+  - 1. Konkretes technisches Problem mit technischen Mitteln?
+  - 2. Fallgruppen technischer Mittel
+  - 3. Gegenbeispiele
+- D. Dritte Stufe: Neuheit und erfinderische Tätigkeit (§§ [3](https://www.gesetze-im-internet.de/patg/__3.html), [4](https://www.gesetze-im-internet.de/patg/__4.html) PatG)
+- E. Besonderheit: Künstliche Intelligenz
+
+*Tags: Prüfungsschema, Patent: Patentfähigkeit*
+
+---
+
 **F:** Prüfungsschema: Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ [1](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) bis [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) DesignG)
 
 **A:** - A. Schutzgegenstand bestimmen ([§ 37 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__37.html))
@@ -10602,6 +11018,73 @@ Welche Punkte sind hier zu prüfen?
 
 ---
 
+**F:** A. Wirksame Anmeldung und Offensichtlichkeitsprüfung (§§ [35](https://www.gesetze-im-internet.de/patg/__35.html), [42](https://www.gesetze-im-internet.de/patg/__42.html) PatG)
+(Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ [42](https://www.gesetze-im-internet.de/patg/__42.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Mindesterfordernisse und Anmeldetag
+- 2. Offensichtliche Formmängel ([§ 42 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__42.html))
+- 3. Offensichtlich keine patentfähige Erfindung ([§ 42 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__42.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Sachprüfung
+(Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ [42](https://www.gesetze-im-internet.de/patg/__42.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Fachmann definieren und Anspruch auslegen
+- 2. Ausführbarkeit ([§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html))
+- 3. Patentfähigkeit (§§ [1](https://www.gesetze-im-internet.de/patg/__1.html) bis [5](https://www.gesetze-im-internet.de/patg/__5.html) PatG)
+- 4. Änderungen und unzulässige Erweiterung ([§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html))
+- 5. Einheitlichkeit, Ausscheidung, Teilung ([§ 34 Abs. 5](https://www.gesetze-im-internet.de/patg/__34.html), [§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html))
+- 6. Ansprüche, Kategorie, Priorität
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** D. Bescheid, Frist, Anhörung (§§ [45](https://www.gesetze-im-internet.de/patg/__45.html), [46](https://www.gesetze-im-internet.de/patg/__46.html) PatG)
+(Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ [42](https://www.gesetze-im-internet.de/patg/__42.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Prüfungsbescheid
+- 2. Fristen
+- 3. Anhörung
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** E. Beschluss (§§ [47](https://www.gesetze-im-internet.de/patg/__47.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html) PatG)
+(Prüfungsverfahren nach den Prüfungsrichtlinien des DPMA (§§ [42](https://www.gesetze-im-internet.de/patg/__42.html) bis [49](https://www.gesetze-im-internet.de/patg/__49.html), [73](https://www.gesetze-im-internet.de/patg/__73.html) PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Erteilungsreife Unterlagen und Erteilung
+- 2. Zurückweisung
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** C. Zweite Stufe: kein Ausschluss als solches ([§ 1 Abs. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html))
+(Programmbezogene und KI-bezogene Erfindungen: dreistufige Prüfung (§§ [1](https://www.gesetze-im-internet.de/patg/__1.html), [3](https://www.gesetze-im-internet.de/patg/__3.html), [4](https://www.gesetze-im-internet.de/patg/__4.html) PatG))
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Konkretes technisches Problem mit technischen Mitteln?
+- 2. Fallgruppen technischer Mittel
+- 3. Gegenbeispiele
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
 **F:** B. Design und Erzeugnis ([§ 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html), [§ 33 Abs. 1 Nr. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html))
 (Schutzfähigkeit und Nichtigkeit eines eingetragenen Designs (§§ [1](https://www.gesetze-im-internet.de/geschmmg_2004/__1.html) bis [6](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [33](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html) DesignG))
 
@@ -11471,6 +11954,47 @@ Merksatz: Teilung ist freiwillig, Ausscheidung erzwungen, Abzweigung wechselt da
 • Brücke — Patent (PatG): Abzweigung aus der Patentanmeldung mit deren Zeitrang ([§ 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html)); Priorität gegenseitig ([§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html), [§ 6 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__6.html)) | Gebrauchsmuster (GebrMG): Gebrauchsmuster als Prioritätsgrundlage für ein Patent ([§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html) über [§ 6 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__6.html))
 
 Merksatz: Das Gebrauchsmuster ist das schnelle, ungeprüfte Erzeugnisschutzrecht mit Schonfrist: ideal als Abzweigung neben der Patentanmeldung, riskant im Prozess.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Was prüft das DPMA von Amts wegen nach Eingang der Anmeldung, und was erst auf Prüfungsantrag?
+(Offensichtlichkeitsprüfung vs. Prüfungsverfahren)
+
+**A:** • Rechtsgrundlage — Offensichtlichkeitsprüfung: [§ 42 PatG](https://www.gesetze-im-internet.de/patg/__42.html) | Prüfungsverfahren: [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html) bis [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html)
+• Auslöser — Offensichtlichkeitsprüfung: Von Amts wegen nach Eingang einer wirksamen Anmeldung | Prüfungsverfahren: Prüfungsantrag des Anmelders oder eines Dritten binnen sieben Jahren und Zahlung der Prüfungsgebühr
+• Prüfungsmaßstab — Offensichtlichkeitsprüfung: Nur Mängel, die ohne weitere Sachprüfung und ohne Nachforschungen zweifelsfrei erkennbar sind | Prüfungsverfahren: Vollständige Sachprüfung nach Auslegung des Anspruchs und Recherche
+• Formmängel — Offensichtlichkeitsprüfung: §§ [34](https://www.gesetze-im-internet.de/patg/__34.html), [36](https://www.gesetze-im-internet.de/patg/__36.html), [37](https://www.gesetze-im-internet.de/patg/__37.html) und [38](https://www.gesetze-im-internet.de/patg/__38.html) PatG; Verstöße gegen die PatV können zurückgestellt werden | Prüfungsverfahren: §§ [34](https://www.gesetze-im-internet.de/patg/__34.html), [37](https://www.gesetze-im-internet.de/patg/__37.html) und [38](https://www.gesetze-im-internet.de/patg/__38.html) PatG, Zusammenfassung nur bei offensichtlichen Mängeln; PatV vollständig
+• Patentfähigkeit — Offensichtlichkeitsprüfung: Nur offensichtlich fehlende Erfindung, gewerbliche Anwendbarkeit oder Ausschluss nach [§ 1a Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1a.html), [§ 2 PatG](https://www.gesetze-im-internet.de/patg/__2.html), [§ 2a Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__2a.html); keine Neuheit, keine erfinderische Tätigkeit | Prüfungsverfahren: [§ 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html) bis [§ 5 PatG](https://www.gesetze-im-internet.de/patg/__5.html) vollständig, dazu Ausführbarkeit nach [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+• Einheitlichkeit — Offensichtlichkeitsprüfung: Nur wenn die Erfindungen offensichtlich nichts miteinander zu tun haben | Prüfungsverfahren: Volle Prüfung nach [§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html), konkret begründet und mit Stellungnahme zur Patentfähigkeit
+• Priorität — Offensichtlichkeitsprüfung: Materielle Berechtigung wird nicht geprüft | Prüfungsverfahren: Nur wenn entscheidungserhebliches Material im Prioritätsintervall liegt
+• Regelfrist für Bescheide — Offensichtlichkeitsprüfung: Vier Monate, abkürzbar auf zwei Monate; Entscheidung binnen vier Monaten nach dem Anmeldetag | Prüfungsverfahren: Ein Monat für Formmängel, vier Monate für Sachbescheide, bis zu zwölf Monate bei paralleler europäischer Anmeldung
+• Abschluss — Offensichtlichkeitsprüfung: Aktenvermerk oder Zurückweisung nach [§ 42 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__42.html) | Prüfungsverfahren: Erteilung nach [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html) oder Zurückweisung nach [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html)
+• Rechtsbehelf — Offensichtlichkeitsprüfung: Beschwerde nach [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html), Abhilfe möglich | Prüfungsverfahren: Beschwerde nach [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html), Abhilfe möglich; nach Erteilung Einspruch Dritter nach [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html)
+
+Merksatz: Die Offensichtlichkeitsprüfung räumt auf, was jeder sofort sieht; ob die Erfindung neu und erfinderisch ist, erfährt der Anmelder erst auf Prüfungsantrag.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Fristen des Erteilungsverfahrens stehen im Gesetz, welche setzt die Prüfungsstelle nach den Prüfungsrichtlinien, und was folgt aus der Versäumung?
+(Fristen im Erteilungsverfahren: Gesetz und Prüfungsrichtlinien)
+
+**A:** • Übersetzung fremdsprachiger Anmeldung — Frist: Drei Monate ab Einreichung; zwölf Monate bei englischer oder französischer Fassung, längstens 15 Monate ab Prioritätstag | Grundlage: [§ 35a Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__35a.html) | Art und Folge der Versäumung: Gesetzlich; Anmeldung gilt als zurückgenommen
+• Anmeldegebühr — Frist: Drei Monate ab Einreichung | Grundlage: [§ 3 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html), [§ 6 Abs. 1, 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html) | Art und Folge der Versäumung: Gesetzlich; Anmeldung gilt als zurückgenommen
+• Erfinderbenennung und Zusammenfassung — Frist: 15 Monate ab Anmelde- oder Prioritätstag | Grundlage: [§ 37 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__37.html), [§ 36 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__36.html) | Art und Folge der Versäumung: Gesetzlich; Mangel nach [§ 42 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__42.html), Verlängerung bei außergewöhnlichen Umständen nach [§ 37 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__37.html)
+• Innere Priorität — Frist: Nachanmeldung binnen zwölf Monaten, Prioritätserklärung binnen zwei Monaten nach dem Anmeldetag der Nachanmeldung | Grundlage: [§ 40 Abs. 1, 4 PatG](https://www.gesetze-im-internet.de/patg/__40.html) | Art und Folge der Versäumung: Gesetzlich; Priorität nicht wirksam beansprucht
+• Äußere Priorität — Frist: Angaben und Abschrift vor Ablauf des 16. Monats nach dem Prioritätstag | Grundlage: [§ 41 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__41.html) | Art und Folge der Versäumung: Gesetzlich; Prioritätsanspruch verwirkt
+• Ausstellungsbescheinigung — Frist: Angabe bei Einreichung, Bescheinigung binnen vier Monaten | Grundlage: [§ 3 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__3.html) | Art und Folge der Versäumung: Gesetzlich; Ausstellung bleibt neuheitsschädlich
+• Prüfungsantrag — Frist: Sieben Jahre ab Einreichung; Gebühr drei Monate ab Antrag, längstens bis zum Ablauf der sieben Jahre | Grundlage: [§ 44 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__44.html), [§ 58 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__58.html) | Art und Folge der Versäumung: Gesetzlich; Anmeldung gilt als zurückgenommen
+• Bescheid: Formmängel — Frist: In der Regel ein Monat | Grundlage: Prüfungsrichtlinien 2.5; [§ 45 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__45.html) | Art und Folge der Versäumung: Amtsseitig, verlängerbar; Zurückweisung nach [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), Weiterbehandlung nach [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)
+• Bescheid: Sachprüfung — Frist: In der Regel vier Monate; in der Offensichtlichkeitsprüfung auf zwei Monate abkürzbar; bis zu zwölf Monate bei paralleler europäischer Anmeldung | Grundlage: Prüfungsrichtlinien 1.11 und 2.5; [§ 45 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__45.html) | Art und Folge der Versäumung: Amtsseitig, verlängerbar; Zurückweisung nach [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), Weiterbehandlung nach [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html)
+• Unterlagen nach Teilung — Frist: Drei Monate ab Eingang der Teilungserklärung für Unterlagen und Gebühren | Grundlage: [§ 39 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__39.html) | Art und Folge der Versäumung: Gesetzlich; Teilungserklärung gilt als nicht abgegeben
+• Beschwerde — Frist: Ein Monat ab Zustellung, Gebühr in derselben Frist; ein Jahr bei fehlender oder unrichtiger Belehrung | Grundlage: [§ 73 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__73.html), [§ 47 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__47.html) | Art und Folge der Versäumung: Gesetzlich; Beschwerde gilt als nicht eingelegt ([§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html))
+
+Merksatz: Gesetzliche Fristen laufen von selbst und enden meist in einer Fiktion; Bescheidsfristen setzt der Prüfer, sie sind verlängerbar und nach der Zurückweisung über die Weiterbehandlung zu retten.
 
 *Tags: Abgrenzung*
 
@@ -18700,6 +19224,631 @@ Im Gebrauchsmustereintragungsverfahren prüft die Gebrauchsmusterstelle, ob ein 
 **A:** BGH „Feldmausbekämpfung“ – X ZB 18/16 (2018), BGH, Beschluss vom 27.03.2018 – X ZB 18/16
 
 *Tags: Rechtsprechung, Umkehr, BGH, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Wiedergabe topografischer Informationen“ (X ZR 47/07, 2010) – Kernaussage?
+
+**A:** Ein Verfahren zur Wiedergabe topografischer Informationen mittels eines technischen Geräts ist nicht vom Patentschutz ausgeschlossen, wenn zumindest ein Teilaspekt der Lehre ein technisches Problem bewältigt. Bei der erfinderischen Tätigkeit zählen nur die Anweisungen, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder beeinflussen; die Wahl einer zweckmäßigen Darstellung ist eine nichttechnische Vorgabe und bleibt außer Betracht.
+
+Normen: [§ 1 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 26.10.2010 – X ZR 47/07
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Verfahren zur Wiedergabe topografischer Informationen mittels eines technischen Geräts ist nicht vom Patentschutz ausgeschlossen, wenn zumindest ein Teilaspekt der Lehre ein technisches Problem bewältigt. Bei der erfinderischen Tätigkeit zählen nur die Anweisungen, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder beeinflussen; die Wahl einer zweckmäßigen Darstellung ist eine nichttechnische Vorgabe und bleibt außer Betracht.
+
+**A:** BGH „Wiedergabe topografischer Informationen“ – X ZR 47/07 (2010), BGH, Urteil vom 26.10.2010 – X ZR 47/07
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fahrzeugnavigationssystem“ (X ZR 27/12, 2013) – Kernaussage?
+
+**A:** Die Anweisung, bei der Sprachausgabe eines Navigationshinweises unter bestimmten Bedingungen bestimmte Detailinformationen wie Straßennamen zu berücksichtigen, betrifft den Inhalt der wiedergegebenen Information und ist bei der Prüfung auf erfinderische Tätigkeit nicht zu berücksichtigen.
+
+Normen: [§ 1 Abs. 3 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 23.04.2013 – X ZR 27/12
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Anweisung, bei der Sprachausgabe eines Navigationshinweises unter bestimmten Bedingungen bestimmte Detailinformationen wie Straßennamen zu berücksichtigen, betrifft den Inhalt der wiedergegebenen Information und ist bei der Prüfung auf erfinderische Tätigkeit nicht zu berücksichtigen.
+
+**A:** BGH „Fahrzeugnavigationssystem“ – X ZR 27/12 (2013), BGH, Urteil vom 23.04.2013 – X ZR 27/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Routenplanung“ (X ZR 3/12, 2012) – Kernaussage?
+
+**A:** Anweisungen zur Auswahl von Daten, deren technischer Aspekt sich darauf beschränkt, hierzu Mittel der elektronischen Datenverarbeitung einzusetzen, können bei der Beurteilung der erfinderischen Tätigkeit nicht berücksichtigt werden, auch wenn sie die Zahl der erforderlichen Rechenschritte verringern.
+
+Normen: [§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 18.12.2012 – X ZR 3/12
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Anweisungen zur Auswahl von Daten, deren technischer Aspekt sich darauf beschränkt, hierzu Mittel der elektronischen Datenverarbeitung einzusetzen, können bei der Beurteilung der erfinderischen Tätigkeit nicht berücksichtigt werden, auch wenn sie die Zahl der erforderlichen Rechenschritte verringern.
+
+**A:** BGH „Routenplanung“ – X ZR 3/12 (2012), BGH, Urteil vom 18.12.2012 – X ZR 3/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Bildstrom“ (X ZR 37/13, 2015) – Kernaussage?
+
+**A:** Anweisungen zur Informationswiedergabe dienen der Lösung eines technischen Problems mit technischen Mitteln, wenn nicht die Vermittlung bestimmter Inhalte im Blickpunkt steht, sondern eine Präsentation von Bildinhalten, die auf die physischen Gegebenheiten der menschlichen Wahrnehmung Rücksicht nimmt und die Wahrnehmung erst ermöglicht, verbessert oder zweckmäßig gestaltet.
+
+Normen: [§ 1 Abs. 3 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 26.02.2015 – X ZR 37/13
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Anweisungen zur Informationswiedergabe dienen der Lösung eines technischen Problems mit technischen Mitteln, wenn nicht die Vermittlung bestimmter Inhalte im Blickpunkt steht, sondern eine Präsentation von Bildinhalten, die auf die physischen Gegebenheiten der menschlichen Wahrnehmung Rücksicht nimmt und die Wahrnehmung erst ermöglicht, verbessert oder zweckmäßig gestaltet.
+
+**A:** BGH „Bildstrom“ – X ZR 37/13 (2015), BGH, Urteil vom 26.02.2015 – X ZR 37/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Flugzeugzustand“ (X ZB 1/15, 2015) – Kernaussage?
+
+**A:** Mathematische Methoden sind patentierbar, wenn sie der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen; nichttechnisch sind sie nur ohne Bezug zur gezielten Anwendung von Naturkräften. Der Bezug besteht, wenn die Methode aus Messwerten zuverlässigere Erkenntnisse über den Zustand eines Flugzeugs gewinnt und damit die Funktionsweise des Systems beeinflusst. Ein neuer und erfinderischer Gegenstand muss keinen Vorteil gegenüber dem Stand der Technik bieten.
+
+Normen: [§ 1 Abs. 3 Nr. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Beschluss vom 30.06.2015 – X ZB 1/15
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Mathematische Methoden sind patentierbar, wenn sie der Lösung eines konkreten technischen Problems mit technischen Mitteln dienen; nichttechnisch sind sie nur ohne Bezug zur gezielten Anwendung von Naturkräften. Der Bezug besteht, wenn die Methode aus Messwerten zuverlässigere Erkenntnisse über den Zustand eines Flugzeugs gewinnt und damit die Funktionsweise des Systems beeinflusst. Ein neuer und erfinderischer Gegenstand muss keinen Vorteil gegenüber dem Stand der Technik bieten.
+
+**A:** BGH „Flugzeugzustand“ – X ZB 1/15 (2015), BGH, Beschluss vom 30.06.2015 – X ZB 1/15
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Rentabilitätsermittlung“ (X ZB 34/03, 2004) – Kernaussage?
+
+**A:** Ein Verfahren, das Betriebsdaten eines medizintechnischen Geräts automatisch erfasst und an eine Datenbank überträgt, um aus Vergütungsdaten und kalkulatorischen Kosten die Rentabilität der Anschaffung eines zweiten Geräts zu errechnen, ist als solches nicht dem Patentschutz zugänglich.
+
+Normen: [§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html)
+Fundstelle: BGH, Beschluss vom 19.10.2004 – X ZB 34/03
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Verfahren, das Betriebsdaten eines medizintechnischen Geräts automatisch erfasst und an eine Datenbank überträgt, um aus Vergütungsdaten und kalkulatorischen Kosten die Rentabilität der Anschaffung eines zweiten Geräts zu errechnen, ist als solches nicht dem Patentschutz zugänglich.
+
+**A:** BGH „Rentabilitätsermittlung“ – X ZB 34/03 (2004), BGH, Beschluss vom 19.10.2004 – X ZB 34/03
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Anbieten interaktiver Hilfe“ (X ZB 33/03, 2004) – Kernaussage?
+
+**A:** Ein Verfahren, das Bedienhandlungen eines Kunden erfasst, an einen zentralen Rechner meldet, protokolliert und mit Referenzprotokollen vergleicht, um dem Kunden eine interaktive Hilfe anzubieten, wenn er sonst voraussichtlich keinen Auftrag erteilt, ist als solches nicht dem Patentschutz zugänglich.
+
+Normen: [§ 1 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 1 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html)
+Fundstelle: BGH, Beschluss vom 19.10.2004 – X ZB 33/03
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Verfahren, das Bedienhandlungen eines Kunden erfasst, an einen zentralen Rechner meldet, protokolliert und mit Referenzprotokollen vergleicht, um dem Kunden eine interaktive Hilfe anzubieten, wenn er sonst voraussichtlich keinen Auftrag erteilt, ist als solches nicht dem Patentschutz zugänglich.
+
+**A:** BGH „Anbieten interaktiver Hilfe“ – X ZB 33/03 (2004), BGH, Beschluss vom 19.10.2004 – X ZB 33/03
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sprachanalyseeinrichtung“ (X ZB 15/98, 2000) – Kernaussage?
+
+**A:** Einer Datenverarbeitungsanlage, die in bestimmter Weise programmtechnisch eingerichtet ist, kommt technischer Charakter zu, auch wenn auf ihr Texte bearbeitet werden. Dafür kommt es nicht darauf an, ob mit ihr ein weiterer technischer Effekt erzielt wird.
+
+Normen: [§ 1 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html)
+Fundstelle: BGH, Beschluss vom 11.05.2000 – X ZB 15/98
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Einer Datenverarbeitungsanlage, die in bestimmter Weise programmtechnisch eingerichtet ist, kommt technischer Charakter zu, auch wenn auf ihr Texte bearbeitet werden. Dafür kommt es nicht darauf an, ob mit ihr ein weiterer technischer Effekt erzielt wird.
+
+**A:** BGH „Sprachanalyseeinrichtung“ – X ZB 15/98 (2000), BGH, Beschluss vom 11.05.2000 – X ZB 15/98
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Klammernahtgerät“ (Xa ZR 126/07, 2010) – Kernaussage?
+
+**A:** Eine Erfindung ist ausführbar offenbart, wenn die Angaben der Anmeldung dem fachmännischen Leser so viel technische Information vermitteln, dass er sie mit seinem Fachwissen und Fachkönnen erfolgreich ausführen kann. Eine praktisch brauchbare Ausführungsform muss nicht als solche unmittelbar und eindeutig offenbart sein.
+
+Normen: [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+Fundstelle: BGH, Urteil vom 13.07.2010 – Xa ZR 126/07
+
+*Tags: Rechtsprechung, BGH, Ausführbarkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Erfindung ist ausführbar offenbart, wenn die Angaben der Anmeldung dem fachmännischen Leser so viel technische Information vermitteln, dass er sie mit seinem Fachwissen und Fachkönnen erfolgreich ausführen kann. Eine praktisch brauchbare Ausführungsform muss nicht als solche unmittelbar und eindeutig offenbart sein.
+
+**A:** BGH „Klammernahtgerät“ – Xa ZR 126/07 (2010), BGH, Urteil vom 13.07.2010 – Xa ZR 126/07
+
+*Tags: Rechtsprechung, Umkehr, BGH, Ausführbarkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Taxol“ (X ZR 168/97, 2001) – Kernaussage?
+
+**A:** Ein Verfahrensschritt in Form einer geläufigen, allgemein bezeichneten Reaktion darf allgemein beansprucht werden, auch wenn bekannte Wege versagen, sofern die Patentschrift einen ausführbaren Weg nacharbeitbar offenbart; ob dem Fachmann weitere Wege zur Verfügung standen, ist unerheblich.
+
+Normen: [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+Fundstelle: BGH, Urteil vom 03.05.2001 – X ZR 168/97
+
+*Tags: Rechtsprechung, BGH, Ausführbarkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Verfahrensschritt in Form einer geläufigen, allgemein bezeichneten Reaktion darf allgemein beansprucht werden, auch wenn bekannte Wege versagen, sofern die Patentschrift einen ausführbaren Weg nacharbeitbar offenbart; ob dem Fachmann weitere Wege zur Verfügung standen, ist unerheblich.
+
+**A:** BGH „Taxol“ – X ZR 168/97 (2001), BGH, Urteil vom 03.05.2001 – X ZR 168/97
+
+*Tags: Rechtsprechung, Umkehr, BGH, Ausführbarkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Stabilisierung der Wasserqualität“ (X ZR 76/13, 2015) – Kernaussage?
+
+**A:** Ob eine Erfindung ausführbar offenbart ist, ist eine Rechtsfrage. Die Ausführbarkeit der im Anspruch umschriebenen Lehre darf nicht mit der Erreichbarkeit der Vorteile gleichgesetzt werden, die die Beschreibung der Erfindung zuschreibt.
+
+Normen: [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+Fundstelle: BGH, Urteil vom 03.02.2015 – X ZR 76/13
+
+*Tags: Rechtsprechung, BGH, Ausführbarkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ob eine Erfindung ausführbar offenbart ist, ist eine Rechtsfrage. Die Ausführbarkeit der im Anspruch umschriebenen Lehre darf nicht mit der Erreichbarkeit der Vorteile gleichgesetzt werden, die die Beschreibung der Erfindung zuschreibt.
+
+**A:** BGH „Stabilisierung der Wasserqualität“ – X ZR 76/13 (2015), BGH, Urteil vom 03.02.2015 – X ZR 76/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Ausführbarkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gelenkanordnung“ (Xa ZR 36/08, 2010) – Kernaussage?
+
+**A:** Die Ermittlung des technischen Problems ist Teil der Auslegung des Patentanspruchs; das Problem ist aus dem zu entwickeln, was die Erfindung tatsächlich leistet. Angaben der Beschreibung zur „Aufgabe“ können einen Hinweis auf das richtige Verständnis geben, doch hat der Patentanspruch Vorrang.
+
+Normen: [§ 1 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html)
+Fundstelle: BGH, Urteil vom 04.02.2010 – Xa ZR 36/08
+
+*Tags: Rechtsprechung, BGH, Auslegung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Ermittlung des technischen Problems ist Teil der Auslegung des Patentanspruchs; das Problem ist aus dem zu entwickeln, was die Erfindung tatsächlich leistet. Angaben der Beschreibung zur „Aufgabe“ können einen Hinweis auf das richtige Verständnis geben, doch hat der Patentanspruch Vorrang.
+
+**A:** BGH „Gelenkanordnung“ – Xa ZR 36/08 (2010), BGH, Urteil vom 04.02.2010 – Xa ZR 36/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Brieflocher“ (X ZR 145/98, 2000) – Kernaussage?
+
+**A:** Für die Prüfung der Patentfähigkeit wie für den Schutzbereich sind Begriffe in den Patentansprüchen so zu deuten, wie sie der angesprochene Fachmann nach dem Gesamtinhalt der Patentschrift unter Berücksichtigung der objektiv offenbarten Lösung versteht.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html)
+Fundstelle: BGH, Urteil vom 07.11.2000 – X ZR 145/98
+
+*Tags: Rechtsprechung, BGH, Auslegung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Für die Prüfung der Patentfähigkeit wie für den Schutzbereich sind Begriffe in den Patentansprüchen so zu deuten, wie sie der angesprochene Fachmann nach dem Gesamtinhalt der Patentschrift unter Berücksichtigung der objektiv offenbarten Lösung versteht.
+
+**A:** BGH „Brieflocher“ – X ZR 145/98 (2000), BGH, Urteil vom 07.11.2000 – X ZR 145/98
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Batterieüberwachungsgerät“ (15 W (pat) 33/08, 2013) – Kernaussage?
+
+**A:** Einen Zurückweisungsgrund des „unklaren Patentanspruchs“ kennt das Patentgesetz nicht; er folgt auch nicht aus [§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html). Die Anspruchsmerkmale sind aus der Sicht des Fachmanns auszulegen, im Prüfungsverfahren nach denselben Grundsätzen wie im Einspruchs-, Nichtigkeits- und Verletzungsverfahren.
+
+Normen: [§ 34 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html)
+Fundstelle: BPatG, Beschluss vom 16.12.2013 – 15 W (pat) 33/08
+
+*Tags: Rechtsprechung, BPatG, Erteilungsverfahren, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Einen Zurückweisungsgrund des „unklaren Patentanspruchs“ kennt das Patentgesetz nicht; er folgt auch nicht aus [§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html). Die Anspruchsmerkmale sind aus der Sicht des Fachmanns auszulegen, im Prüfungsverfahren nach denselben Grundsätzen wie im Einspruchs-, Nichtigkeits- und Verletzungsverfahren.
+
+**A:** BPatG „Batterieüberwachungsgerät“ – 15 W (pat) 33/08 (2013), BPatG, Beschluss vom 16.12.2013 – 15 W (pat) 33/08
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Erteilungsverfahren, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Proteintrennung“ (X ZR 77/12, 2014) – Kernaussage?
+
+**A:** Offenbart ist auch, was nicht ausdrücklich erwähnt, aus der Sicht des Fachmanns aber selbstverständlich ist und deshalb mitgelesen wird. Das erlaubt keine Ergänzung der Offenbarung durch das Fachwissen, sondern dient nur der vollständigen Ermittlung der technischen Information, die der fachkundige Leser der Quelle entnimmt.
+
+Normen: [§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html)
+Fundstelle: BGH, Urteil vom 18.03.2014 – X ZR 77/12
+
+*Tags: Rechtsprechung, BGH, Neuheit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Offenbart ist auch, was nicht ausdrücklich erwähnt, aus der Sicht des Fachmanns aber selbstverständlich ist und deshalb mitgelesen wird. Das erlaubt keine Ergänzung der Offenbarung durch das Fachwissen, sondern dient nur der vollständigen Ermittlung der technischen Information, die der fachkundige Leser der Quelle entnimmt.
+
+**A:** BGH „Proteintrennung“ – X ZR 77/12 (2014), BGH, Urteil vom 18.03.2014 – X ZR 77/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Neuheit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „PALplus“ (X ZR 113/13, 2015) – Kernaussage?
+
+**A:** Eine ältere, nachveröffentlichte Patentanmeldung ist bei der Neuheitsprüfung auch dann zu berücksichtigen, wenn sie nach ihrer Veröffentlichung zurückgenommen wird oder als zurückgenommen gilt.
+
+Normen: [§ 3 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__3.html)
+Fundstelle: BGH, Urteil vom 08.09.2015 – X ZR 113/13
+
+*Tags: Rechtsprechung, BGH, Neuheit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine ältere, nachveröffentlichte Patentanmeldung ist bei der Neuheitsprüfung auch dann zu berücksichtigen, wenn sie nach ihrer Veröffentlichung zurückgenommen wird oder als zurückgenommen gilt.
+
+**A:** BGH „PALplus“ – X ZR 113/13 (2015), BGH, Urteil vom 08.09.2015 – X ZR 113/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Neuheit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Pfeffersäckchen“ (X ZR 78/09, 2012) – Kernaussage?
+
+**A:** Betrifft das Patent ein mehrstufiges Produktionssystem, das im Allgemeinen nicht in einem einzigen Betrieb angesiedelt ist, können als maßgeblicher Fachmann in verschiedenen Gewerken Kundige anzusehen sein, deren Fachkenntnisse sich in einem Team ergänzen.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 06.03.2012 – X ZR 78/09
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Betrifft das Patent ein mehrstufiges Produktionssystem, das im Allgemeinen nicht in einem einzigen Betrieb angesiedelt ist, können als maßgeblicher Fachmann in verschiedenen Gewerken Kundige anzusehen sein, deren Fachkenntnisse sich in einem Team ergänzen.
+
+**A:** BGH „Pfeffersäckchen“ – X ZR 78/09 (2012), BGH, Urteil vom 06.03.2012 – X ZR 78/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Installiereinrichtung II“ (X ZB 6/10, 2011) – Kernaussage?
+
+**A:** In welchem Umfang der Fachmann Anregungen im Stand der Technik benötigt, um eine bekannte Lösung weiterzuentwickeln, ist eine Frage des Einzelfalls und verlangt eine Gesamtbetrachtung. Beachtlich sind nicht nur ausdrückliche Hinweise, sondern auch Eigenarten des Fachgebiets, übliche Vorgehensweisen, technische Bedürfnisse und nichttechnische Vorgaben.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Beschluss vom 20.12.2011 – X ZB 6/10
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+In welchem Umfang der Fachmann Anregungen im Stand der Technik benötigt, um eine bekannte Lösung weiterzuentwickeln, ist eine Frage des Einzelfalls und verlangt eine Gesamtbetrachtung. Beachtlich sind nicht nur ausdrückliche Hinweise, sondern auch Eigenarten des Fachgebiets, übliche Vorgehensweisen, technische Bedürfnisse und nichttechnische Vorgaben.
+
+**A:** BGH „Installiereinrichtung II“ – X ZB 6/10 (2011), BGH, Beschluss vom 20.12.2011 – X ZB 6/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Dreinahtschlauchfolienbeutel“ (Xa ZR 22/06, 2009) – Kernaussage?
+
+**A:** Vorgaben, die der Fachmann von seinen Auftraggebern erhält, gehören zum technischen Problem, nicht zur Lösung. Hilfskriterien (früher Beweisanzeichen) geben nur im Einzelfall Anlass, bekannte Lösungen besonders kritisch darauf zu prüfen, ob sie hinreichende Anhaltspunkte für ein Naheliegen bieten und nicht erst in der Rückschau eine Anregung zu enthalten scheinen.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 30.07.2009 – Xa ZR 22/06
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Vorgaben, die der Fachmann von seinen Auftraggebern erhält, gehören zum technischen Problem, nicht zur Lösung. Hilfskriterien (früher Beweisanzeichen) geben nur im Einzelfall Anlass, bekannte Lösungen besonders kritisch darauf zu prüfen, ob sie hinreichende Anhaltspunkte für ein Naheliegen bieten und nicht erst in der Rückschau eine Anregung zu enthalten scheinen.
+
+**A:** BGH „Dreinahtschlauchfolienbeutel“ – Xa ZR 22/06 (2009), BGH, Urteil vom 30.07.2009 – Xa ZR 22/06
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Injizierbarer Mikroschaum“ (X ZR 56/03, 2007) – Kernaussage?
+
+**A:** Die beliebige Auswahl aus mehreren dem Fachmann zur Verfügung stehenden Möglichkeiten begründet keine erfinderische Tätigkeit (Fortführung von Blasenfreie Gummibahn I).
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 22.05.2007 – X ZR 56/03 – injizierbarer Mikroschaum
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die beliebige Auswahl aus mehreren dem Fachmann zur Verfügung stehenden Möglichkeiten begründet keine erfinderische Tätigkeit (Fortführung von Blasenfreie Gummibahn I).
+
+**A:** BGH „Injizierbarer Mikroschaum“ – X ZR 56/03 (2007), BGH, Urteil vom 22.05.2007 – X ZR 56/03 – injizierbarer Mikroschaum
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fälschungssicheres Dokument“ (Xa ZR 124/07, 2010) – Kernaussage?
+
+**A:** Zum Offenbarungsgehalt einer Anmeldung gehört bei der Prüfung der unzulässigen Erweiterung nur, was den ursprünglichen Unterlagen unmittelbar und eindeutig zu entnehmen ist, nicht eine weitergehende Erkenntnis, zu der der Fachmann aufgrund seines Fachwissens oder durch Abwandlung der offenbarten Lehre gelangen kann.
+
+Normen: [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html)
+Fundstelle: BGH, Urteil vom 08.07.2010 – Xa ZR 124/07
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Zum Offenbarungsgehalt einer Anmeldung gehört bei der Prüfung der unzulässigen Erweiterung nur, was den ursprünglichen Unterlagen unmittelbar und eindeutig zu entnehmen ist, nicht eine weitergehende Erkenntnis, zu der der Fachmann aufgrund seines Fachwissens oder durch Abwandlung der offenbarten Lehre gelangen kann.
+
+**A:** BGH „Fälschungssicheres Dokument“ – Xa ZR 124/07 (2010), BGH, Urteil vom 08.07.2010 – Xa ZR 124/07
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Reifenabdichtmittel“ (X ZR 75/08, 2011) – Kernaussage?
+
+**A:** Offenbaren die ursprünglichen Unterlagen, dass ein Erzeugnis bestimmte Bestandteile „enthalten“ soll, ist damit nicht ohne weiteres offenbart, dass keine weiteren Bestandteile hinzugefügt werden dürfen. Für „besteht aus“ bedarf es in der Regel weiterer Anhaltspunkte, etwa des Hinweises, dass das ausschließliche Bestehen aus diesen Bestandteilen Vorteile hat oder erwünscht ist.
+
+Normen: [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html)
+Fundstelle: BGH, Urteil vom 12.07.2011 – X ZR 75/08
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Offenbaren die ursprünglichen Unterlagen, dass ein Erzeugnis bestimmte Bestandteile „enthalten“ soll, ist damit nicht ohne weiteres offenbart, dass keine weiteren Bestandteile hinzugefügt werden dürfen. Für „besteht aus“ bedarf es in der Regel weiterer Anhaltspunkte, etwa des Hinweises, dass das ausschließliche Bestehen aus diesen Bestandteilen Vorteile hat oder erwünscht ist.
+
+**A:** BGH „Reifenabdichtmittel“ – X ZR 75/08 (2011), BGH, Urteil vom 12.07.2011 – X ZR 75/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schleifprodukt“ (X ZR 119/09, 2014) – Kernaussage?
+
+**A:** Merkmale eines Ausführungsbeispiels, die zusammen oder je für sich den Erfolg der Erfindung fördern, dürfen einzeln oder gemeinsam in den Anspruch aufgenommen werden; die beanspruchte Kombination muss aber insgesamt eine Lehre sein, die der Fachmann den ursprünglichen Unterlagen als mögliche Ausgestaltung der Erfindung entnehmen kann.
+
+Normen: [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 38 PatG](https://www.gesetze-im-internet.de/patg/__38.html)
+Fundstelle: BGH, Urteil vom 25.11.2014 – X ZR 119/09
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Merkmale eines Ausführungsbeispiels, die zusammen oder je für sich den Erfolg der Erfindung fördern, dürfen einzeln oder gemeinsam in den Anspruch aufgenommen werden; die beanspruchte Kombination muss aber insgesamt eine Lehre sein, die der Fachmann den ursprünglichen Unterlagen als mögliche Ausgestaltung der Erfindung entnehmen kann.
+
+**A:** BGH „Schleifprodukt“ – X ZR 119/09 (2014), BGH, Urteil vom 25.11.2014 – X ZR 119/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gurtstraffer“ (X ZR 50/16, 2018) – Kernaussage?
+
+**A:** Eine Zweck- oder Funktionsangabe im Sachanspruch bringt regelmäßig zum Ausdruck, dass die Vorrichtung für den Zweck oder die Funktion objektiv geeignet sein muss; der Anspruch bleibt Sachanspruch. Dass die vorgeschlagene Lösung Nachteile oder Schwierigkeiten in Kauf nimmt, begründet für sich keine Patentfähigkeit.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 24.04.2018 – X ZR 50/16
+
+*Tags: Rechtsprechung, BGH, Auslegung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Zweck- oder Funktionsangabe im Sachanspruch bringt regelmäßig zum Ausdruck, dass die Vorrichtung für den Zweck oder die Funktion objektiv geeignet sein muss; der Anspruch bleibt Sachanspruch. Dass die vorgeschlagene Lösung Nachteile oder Schwierigkeiten in Kauf nimmt, begründet für sich keine Patentfähigkeit.
+
+**A:** BGH „Gurtstraffer“ – X ZR 50/16 (2018), BGH, Urteil vom 24.04.2018 – X ZR 50/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung, Prüfungsrichtlinien*
+
+---
+
+## entscheidung
+
+**F:** BGH „Luftverteiler“ (X ZR 168/98, 2001) – Kernaussage?
+
+**A:** Eine Nachanmeldung betrifft nur dann dieselbe Erfindung wie die Voranmeldung, wenn die beanspruchte Merkmalskombination dem Fachmann in der Voranmeldung in ihrer Gesamtheit als zur angemeldeten Erfindung gehörend offenbart ist; Einzelmerkmale verschiedener Priorität können nicht in einem Anspruch kombiniert werden.
+
+Normen: [§ 40 PatG](https://www.gesetze-im-internet.de/patg/__40.html), [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html)
+Fundstelle: BGH, Urteil vom 11.09.2001 – X ZR 168/98
+
+*Tags: Rechtsprechung, BGH, Priorität, Prüfungsrichtlinien*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Nachanmeldung betrifft nur dann dieselbe Erfindung wie die Voranmeldung, wenn die beanspruchte Merkmalskombination dem Fachmann in der Voranmeldung in ihrer Gesamtheit als zur angemeldeten Erfindung gehörend offenbart ist; Einzelmerkmale verschiedener Priorität können nicht in einem Anspruch kombiniert werden.
+
+**A:** BGH „Luftverteiler“ – X ZR 168/98 (2001), BGH, Urteil vom 11.09.2001 – X ZR 168/98
+
+*Tags: Rechtsprechung, Umkehr, BGH, Priorität, Prüfungsrichtlinien*
 
 ---
 

@@ -323,6 +323,56 @@ nav.tabbar a.active .ic{color:var(--brand)}
 .notice{position:fixed;left:12px;right:12px;bottom:calc(88px + env(safe-area-inset-bottom));z-index:30;padding:8px 8px 8px 14px;display:flex;gap:10px;align-items:center;font-size:13px;line-height:1.35;max-width:696px;margin:0 auto;border-radius:var(--r-md)}
 .notice .ic{color:var(--brand);width:24px;height:24px}
 .notice .btn{padding:0 16px;font-size:14px;min-height:44px;white-space:nowrap}
+.toast{font-size:14px;animation:rise .22s var(--ease)}
+.toast .ic{color:var(--tip);width:28px;height:28px}
+.toast div{flex:1}
+/* Tagesziel: Ring, Wochenpunkte, Zustand (ok = erreicht, warn = Streak in Gefahr) */
+.goal{padding:16px 16px 14px}
+.goal .top{display:flex;align-items:center;gap:14px}
+.goal .b{flex:1;min-width:0}
+.goal .k{font-size:12px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--brand-deep);display:flex;align-items:center;gap:5px}
+.goal .k .ic{color:var(--tip)}
+.goal .t{font-size:22px;font-weight:700;line-height:1.15;margin:3px 0 4px;font-variant-numeric:tabular-nums}
+.goal .b .s{font-size:14px;color:var(--muted);line-height:1.4}
+.goal.ok .b .s{color:var(--ok)}.goal.warn .b .s{color:var(--bad)}
+.goal .btn{margin-top:12px}
+.ring{flex:none;transform:rotate(-90deg)}
+.ring circle{fill:none;stroke-width:7;stroke-linecap:round}
+.ring .track{stroke:var(--line)}
+.ring .val{stroke:var(--brand);transition:stroke-dashoffset .6s var(--ease)}
+.ring.met .val{stroke:var(--ok)}
+.ring text{transform:rotate(90deg);transform-origin:40px 40px;text-anchor:middle;fill:var(--ink)}
+.ring .n{font-size:20px;font-weight:700}
+.ring.met .n{fill:var(--ok)}
+.ring .l{font-size:9px;fill:var(--muted)}
+.week{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;margin-top:14px}
+.wd{display:flex;flex-direction:column;align-items:center;gap:4px}
+.wd i{width:30px;height:30px;border-radius:50%;background:var(--def-soft);display:flex;align-items:center;justify-content:center;color:#fff;box-shadow:inset 0 0 0 1px var(--line)}
+.wd.met i{background:var(--ok);box-shadow:none}
+.wd.today i{box-shadow:inset 0 0 0 2px var(--brand)}
+.wd.today.met i{box-shadow:none}
+.wd small{font-size:11px;color:var(--muted);font-weight:600}
+.wd.today small{color:var(--ink)}
+.pill[href]{text-decoration:none;color:inherit}
+.pill.met{color:var(--ok)}.pill.met .ic{color:var(--ok)}
+.onbrand .pill.met{color:#fff}
+.esel{display:flex;align-items:center;justify-content:space-between;gap:10px;font-weight:600;font-size:15px}
+.esel select{font:inherit;color:var(--ink);background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:8px 14px;min-height:40px}
+.dayxp{display:flex;flex-direction:column;gap:6px;margin-top:10px;font-size:13px;color:var(--muted)}
+.dayxp b{color:var(--ink)}
+/* Stufe und Abzeichen */
+.lvl-card .h{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+.lvl-card .h b{font-size:17px}
+.lvl-card .bar{margin-top:10px}
+.badges{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
+.badge{padding:12px 8px;text-align:center;display:flex;flex-direction:column;align-items:center;gap:6px}
+.badge .av{width:46px;height:46px;border-radius:50%;background:var(--brand-grad);color:#fff;display:flex;align-items:center;justify-content:center;box-shadow:inset 0 1px 0 rgba(255,255,255,.4)}
+.badge .av .ic{width:24px;height:24px}
+.badge b{font-size:13px;line-height:1.25}
+.badge span{font-size:11px;color:var(--muted);line-height:1.3}
+.badge.off{opacity:.55}
+.badge.off .av{background:var(--def-soft);color:var(--muted);box-shadow:none}
+@media (max-width:360px){.badges{grid-template-columns:1fr 1fr}}
 @media (max-width:480px){.stats{gap:8px}.stat b{font-size:20px}}
 @media (min-width:760px){.hero{margin:12px 0 0;border-radius:var(--r-xl);padding-top:16px}.topbar{margin:0;padding-left:0;padding-right:0}.topbar.scrolled{margin:0 -16px;padding-left:16px;padding-right:16px}.kcard{flex-basis:44%}.hscroll,.quick{margin:0;padding-left:0;padding-right:0}}
 /* Suche */
@@ -380,6 +430,7 @@ __SPRITE__
 </div>
 <div class="tabwrap"><nav class="tabbar glass pill" id="bnav"></nav><a class="fab glass" id="fab" href="#/suche" aria-label="Suchen und Nachschlagen"></a></div>
 <div id="notice" class="notice glass" hidden></div>
+<div id="toast" class="notice toast glass" role="status" aria-live="polite" hidden></div>
 <script id="kurse-data" type="application/json">__KURSE__</script>
 <script id="gebiete-data" type="application/json">__GEBIETE__</script>
 <script id="graph-data" type="application/json">__GRAPH__</script>
@@ -451,7 +502,9 @@ const unitsFor = id => UNITS_OF.get(id)||[];
 const schemaOf = id => { let cur=id, guard=0; while(cur && guard++<20){ const p=I(cur).find(e=>e.relation==='has_step'); if(!p) return null; if(p.source.startsWith('schema:')) return byId.get(p.source); cur=p.source; } return null; };
 
 // ---------- Fortschritt: Cookie (Fallback localStorage) ----------
-const DAY = () => Math.floor(Date.now()/86400000);
+// Tagesnummer nach Ortszeit, damit Tagesziel und Streak um Mitternacht hier wechseln, nicht um 0:00 UTC
+const DAY = () => Math.floor((Date.now() - new Date().getTimezoneOffset()*60000)/86400000);
+const GOAL = 100;
 const Store = (()=>{
   const NAME='mgk_p', META='mgk_m';
   const getC = n => { const m=document.cookie.match(new RegExp('(?:^|; )'+n+'=([^;]*)')); return m?decodeURIComponent(m[1]):null; };
@@ -462,23 +515,87 @@ const Store = (()=>{
   probe();
   const rd = n => { try{ return mode==='cookie' ? getC(n) : localStorage.getItem(n); }catch(e){ return null; } };
   const wr = (n,v) => { try{ if(mode==='cookie') setC(n,v); else localStorage.setItem(n,v); }catch(e){} };
+  // Meta-Felder: letzter Zieltag, Streak, bester Streak, XP gesamt, letzte Einheit, Hinweis quittiert,
+  // Tag und XP von heute, Zieltage (mit | getrennt, die letzten 90). Alte Cookies ohne die drei letzten Felder bleiben lesbar.
   const decode = (u, m) => {
-    const p = {u:{}, s:{last:0,cnt:0,best:0}, xp:0, last:'', ack:0};
+    const p = {u:{}, s:{last:0,cnt:0,best:0}, xp:0, last:'', ack:0, t:{d:0,x:0}, g:[]};
     if(u){ for(const part of u.split('_')){ const [id,r,d,n]=part.split('.'); if(id) p.u[id]={r:+r,d:+d,n:+n||0}; } }
-    if(m){ const [last,cnt,best,xp,lastU,ack]=m.split(','); p.s={last:+last||0,cnt:+cnt||0,best:+best||0}; p.xp=+xp||0; p.last=lastU||''; p.ack=+ack||0; }
+    if(m){ const [last,cnt,best,xp,lastU,ack,td,tx,g]=m.split(','); p.s={last:+last||0,cnt:+cnt||0,best:+best||0}; p.xp=+xp||0; p.last=lastU||''; p.ack=+ack||0;
+      p.t={d:+td||0,x:+tx||0}; p.g=(g||'').split('|').map(Number).filter(Boolean); }
     return p; };
   const load = () => decode(rd(NAME), rd(META));
   const save = p => {
     wr(NAME, Object.entries(p.u).map(([id,v])=>`${id}.${v.r}.${v.d}.${v.n}`).join('_'));
-    wr(META, [p.s.last,p.s.cnt,p.s.best,p.xp,p.last,p.ack].join(','));
+    wr(META, [p.s.last,p.s.cnt,p.s.best,p.xp,p.last,p.ack,p.t.d,p.t.x,p.g.slice(-90).join('|')].join(','));
+    Push.sync(p);
   };
   const clear = () => { wr(NAME,''); wr(META,''); if(mode==='cookie'){ document.cookie='mgk_p=; max-age=0; path='+CPATH; document.cookie='mgk_m=; max-age=0; path='+CPATH; } };
   return {load, decode, save, clear, mode:()=>mode};
 })();
+// ---------- Erinnerung: Service Worker, Web Push, Cloudflare Worker (push/) ----------
+// Der Worker speichert je Gerät Push-Adresse, Zeitzone, Stunde und das Datum des letzten erreichten Tagesziels und
+// stößt stündlich die fälligen Geräte an; die App meldet ihm das erreichte Ziel (/stand), dann bleibt die Erinnerung aus.
+// Der Service Worker (sw.js) formuliert die Meldung aus dem Tagesstand in IndexedDB. Ohne Abonnement verlässt nichts das Gerät.
+const Push = (()=>{
+  const VAPID = '__VAPID__', API = '__PUSH_API__';
+  const ok = () => 'serviceWorker' in navigator && 'PushManager' in window && /^https?:$/.test(location.protocol);
+  const standalone = () => navigator.standalone === true || matchMedia('(display-mode: standalone)').matches;
+  const ios = () => /iP(hone|ad|od)/.test(navigator.userAgent) || (navigator.platform==='MacIntel' && navigator.maxTouchPoints>1);
+  const reg = () => navigator.serviceWorker.register('sw.js');
+  if(ok()) reg().catch(()=>{});
+  const idb = () => new Promise((res,rej)=>{ const o=indexedDB.open('ipelico',1); o.onupgradeneeded=()=>o.result.createObjectStore('kv'); o.onsuccess=()=>res(o.result); o.onerror=()=>rej(o.error); });
+  const sync = p => { if(!('indexedDB' in window)) return; const t=DAY(); const x=p.t.d===t?p.t.x:0; const st={d:t, x, goal:GOAL, streak:streakOf(p), at:Date.now()};
+    idb().then(db=>{ db.transaction('kv','readwrite').objectStore('kv').put(st,'heute'); }).catch(()=>{}); if(x>=GOAL) melden(); };
+  const b64 = s => Uint8Array.from(atob((s+'='.repeat((4-s.length%4)%4)).replace(/-/g,'+').replace(/_/g,'/')), c=>c.charCodeAt(0));
+  const abo = () => { try{ return JSON.parse(localStorage.getItem('mgk_abo')||'null'); }catch(e){ return null; } };
+  const setAbo = v => { try{ v ? localStorage.setItem('mgk_abo',JSON.stringify(v)) : localStorage.removeItem('mgk_abo'); }catch(e){} };
+  const tz = () => { try{ return Intl.DateTimeFormat().resolvedOptions().timeZone||'Europe/Berlin'; }catch(e){ return 'Europe/Berlin'; } };
+  const datum = () => { const d=new Date(); return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`; };
+  const api = async (method, path, body) => { let r; try{ r=await fetch(API+path,{method, headers:{'Content-Type':'application/json'}, body:JSON.stringify(body)}); }catch(e){ throw new Error('Der Erinnerungsdienst ist gerade nicht erreichbar.'); }
+    const j=await r.json().catch(()=>({})); if(!r.ok) throw new Error(j.fehler==='unbekannt' ? 'unbekannt' : (j.fehler||('Der Erinnerungsdienst antwortet mit '+r.status))); return j; };
+  const subscription = async () => { const r=await reg(); return r.pushManager.getSubscription(); };
+  // Abonnement anlegen oder (bei neuer Stunde) erneut melden; der Worker überschreibt den Eintrag
+  const subscribe = async stunde => { const perm=await Notification.requestPermission(); if(perm!=='granted') throw new Error('Mitteilungen wurden nicht erlaubt. In den Einstellungen unter Mitteilungen → IPelico lässt sich das ändern.');
+    const r=await navigator.serviceWorker.ready; const s=(await r.pushManager.getSubscription()) || await r.pushManager.subscribe({userVisibleOnly:true, applicationServerKey:b64(VAPID)});
+    await api('POST','/abo',{sub:s.toJSON(), tz:tz(), stunde}); setAbo({stunde, tz:tz(), seit:datum()}); melden(); return s; };
+  const unsubscribe = async () => { const s=await subscription(); if(s){ try{ await api('DELETE','/abo',{endpoint:s.endpoint}); }catch(e){} await s.unsubscribe(); } setAbo(null); };
+  // Erreichtes Tagesziel einmal am Tag melden; kennt der Worker das Gerät nicht mehr, Abonnement neu anlegen
+  let meldung=null;
+  const melden = () => { const a=abo(); if(!a || !ok() || a.gemeldet===datum() || meldung) return; meldung=(async()=>{ try{ const s=await subscription(); if(!s){ setAbo(null); return; }
+    try{ await api('POST','/stand',{endpoint:s.endpoint, datum:datum(), erreicht:true}); }catch(e){ if(e.message!=='unbekannt') throw e; await api('POST','/abo',{sub:s.toJSON(), tz:tz(), stunde:a.stunde}); await api('POST','/stand',{endpoint:s.endpoint, datum:datum(), erreicht:true}); }
+    a.gemeldet=datum(); setAbo(a); }catch(e){} finally{ meldung=null; } })(); };
+  return {ok, standalone, ios, sync, subscription, subscribe, unsubscribe, melden, abo, tz, configured:()=>VAPID.length>40 && /^https:/.test(API)};
+})();
 let P = Store.load();
-function touchStreak(){ const t=DAY(); if(P.s.last===t) return; P.s.cnt = (P.s.last===t-1) ? P.s.cnt+1 : 1; P.s.last=t; P.s.best=Math.max(P.s.best,P.s.cnt); }
-function record(id, ok){ const prev=P.u[id]; const n = ok ? ((prev&&prev.r===1?prev.n:0)+1) : 0; P.u[id]={r:ok?1:0,d:DAY(),n}; P.xp += ok?10:2; touchStreak(); P.last=id; Store.save(P); }
-function markSeen(id){ if(!P.u[id]) { P.u[id]={r:1,d:DAY(),n:1}; P.xp+=3; } touchStreak(); P.last=id; Store.save(P); }
+// Streak zählt Tage mit erreichtem Tagesziel (GOAL XP). Sichtbar bleibt er, solange gestern oder heute das Ziel erreicht wurde.
+const streakOf = p => p.s.last >= DAY()-1 ? p.s.cnt : 0;
+const todayXp = () => P.t.d===DAY() ? P.t.x : 0;
+const goalMet = () => todayXp() >= GOAL;
+let JUST_REACHED = false; // wird von der Ansicht nach dem Feiern zurückgesetzt
+function addXp(n){ const t=DAY(); if(P.t.d!==t) P.t={d:t,x:0}; const before=P.t.x; P.t.x+=n; P.xp+=n;
+  if(before<GOAL && P.t.x>=GOAL){ if(!P.g.includes(t)) P.g.push(t); if(P.s.last!==t){ P.s.cnt = P.s.last===t-1 ? P.s.cnt+1 : 1; P.s.last=t; } P.s.best=Math.max(P.s.best,P.s.cnt); JUST_REACHED=true; } }
+function record(id, ok){ const prev=P.u[id]; const n = ok ? ((prev&&prev.r===1?prev.n:0)+1) : 0; P.u[id]={r:ok?1:0,d:DAY(),n}; addXp(ok?10:2); P.last=id; Store.save(P); }
+function markSeen(id){ if(!P.u[id]) { P.u[id]={r:1,d:DAY(),n:1}; addXp(3); } P.last=id; Store.save(P); }
+// Stufen (Dreieckszahlen mal 100 XP) und Abzeichen; beides wird aus dem Fortschritt berechnet, nicht gespeichert
+const STUFEN = ['Erste Akte','Sachbearbeitung','Aktenkenntnis','Kandidatur','Amtsjahr','Prüfungsreife','Zulassung','Fachkunde','Senat','Lehrstuhl'];
+function level(xp){ let n=1; while(xp >= 50*(n+1)*n) n++; const lo=50*n*(n-1), hi=50*(n+1)*n; return {n, name:STUFEN[Math.min(n,STUFEN.length)-1]+(n>STUFEN.length?` ${n}`:''), lo, hi, pct:Math.round((xp-lo)/(hi-lo)*100)}; }
+function abzeichen(){ const all=progOf(UNITS.filter(QUIZ)); const kaps=[...CHAP.values()].filter(c=>{ const q=c.einheiten.filter(QUIZ); return q.length && q.every(e=>st(e)==='ok'); }).length; const kurse=KURSE.filter(k=>progOf(unitsOf(k).filter(QUIZ)).pct===100).length;
+  const streak=Math.max(P.s.best, streakOf(P)); const goals=P.g.length;
+  return [
+    {id:'erster', icn:'richtig', t:'Erster Fall', s:'Einen Fall richtig gelöst', ok:all.ok>=1},
+    {id:'ziel1', icn:'punkte', t:'Tagesziel', s:`Einmal ${GOAL} XP an einem Tag`, ok:goals>=1},
+    {id:'ziel10', icn:'punkte', t:'Zehn Zieltage', s:'An zehn Tagen das Tagesziel erreicht', ok:goals>=10},
+    {id:'streak7', icn:'streak', t:'Eine Woche', s:'7 Tage Streak', ok:streak>=7},
+    {id:'streak30', icn:'streak', t:'Ein Monat', s:'30 Tage Streak', ok:streak>=30},
+    {id:'streak100', icn:'streak', t:'Hundert Tage', s:'100 Tage Streak', ok:streak>=100},
+    {id:'faelle50', icn:'fall', t:'50 Fälle', s:'50 Fälle richtig gelöst', ok:all.ok>=50},
+    {id:'faelle200', icn:'fall', t:'200 Fälle', s:'200 Fälle richtig gelöst', ok:all.ok>=200},
+    {id:'kapitel', icn:'schema', t:'Kapitel fehlerfrei', s:'Ein Kapitel ohne offenen Fehler', ok:kaps>=1},
+    {id:'kapitel10', icn:'schema', t:'Zehn Kapitel', s:'Zehn Kapitel fehlerfrei', ok:kaps>=10},
+    {id:'kurs', icn:'klausur', t:'Kurs abgeschlossen', s:'Alle Fälle eines Kurses bearbeitet', ok:kurse>=1},
+    {id:'xp1000', icn:'feier', t:'1.000 XP', s:'1.000 Punkte gesammelt', ok:P.xp>=1000},
+    {id:'xp10000', icn:'feier', t:'10.000 XP', s:'10.000 Punkte gesammelt', ok:P.xp>=10000},
+  ]; }
 const INT=[1,3,7,14,30,60];
 const due = e => { const v=P.u[e.id]; if(!v||!QUIZ(e)) return false; if(v.r===0) return true; return v.d + INT[Math.min(v.n,INT.length-1)] <= DAY(); };
 const st = e => { const v=P.u[e.id]; return v ? (v.r===1?'ok':'bad') : 'none'; };
@@ -501,7 +618,9 @@ const Transfer = (()=>{
     if(!f || typeof f.u!=='object' || Array.isArray(f.u)) throw new Error('Das JSON enthält keinen IPelico-Fortschritt.');
     const u={}; for(const [id,v] of Object.entries(f.u)) if(ID.test(id) && v && typeof v==='object') u[id]={r:v.r?1:0, d:int(v.d), n:int(v.n)};
     const s=f.s||{};
-    const p={u, s:{last:int(s.last),cnt:int(s.cnt),best:int(s.best)}, xp:int(f.xp), last:ID.test(f.last||'')?f.last:'', ack:f.ack?1:0};
+    const t=f.t&&typeof f.t==='object'?f.t:{};
+    const p={u, s:{last:int(s.last),cnt:int(s.cnt),best:int(s.best)}, xp:int(f.xp), last:ID.test(f.last||'')?f.last:'', ack:f.ack?1:0,
+      t:{d:int(t.d),x:int(t.x)}, g:(Array.isArray(f.g)?f.g:[]).map(int).filter(Boolean).slice(-90)};
     const prefs={}; const e=o.einstellungen; if(e && typeof e==='object') for(const k of PREFS) if(k in e) prefs[k]=typeof e[k]==='string'?e[k]:null;
     const nav={}; const g=o.navigator; if(g && typeof g==='object') for(const k of NAV) if(typeof g[k]==='string') nav[k]=g[k];
     return {p, prefs, nav}; };
@@ -520,6 +639,8 @@ const Transfer = (()=>{
       for(const [id,v] of Object.entries(p.u)) if(newer(P.u[id],v)) P.u[id]=v;
       if(p.s.last>P.s.last){ P.s.last=p.s.last; P.s.cnt=p.s.cnt; P.last=p.last||P.last; } else if(p.s.last===P.s.last) P.s.cnt=Math.max(P.s.cnt,p.s.cnt);
       P.s.best=Math.max(P.s.best,p.s.best,P.s.cnt); P.xp=Math.max(P.xp,p.xp); P.ack=Math.max(P.ack,p.ack);
+      if(p.t.d>P.t.d) P.t=p.t; else if(p.t.d===P.t.d) P.t.x=Math.max(P.t.x,p.t.x);
+      P.g=[...new Set([...P.g,...p.g])].sort((a,b)=>a-b).slice(-90);
       for(const k of PREFS) if(k!=='mgk_recent' && getLS(k)==null && prefs[k]!=null) setLS(k,prefs[k]);
       if(prefs.mgk_recent){ let a=[],b=[]; try{ a=JSON.parse(getLS('mgk_recent')||'[]'); b=JSON.parse(prefs.mgk_recent); }catch(e){}
         if(Array.isArray(a)&&Array.isArray(b)){ const seen=new Set(); setLS('mgk_recent', JSON.stringify([...a,...b].filter(q=>typeof q==='string'&&!seen.has(q.toLowerCase())&&seen.add(q.toLowerCase())).slice(0,8))); } }
@@ -585,7 +706,23 @@ function chrome(title, back, extra){ top.hidden = !title; if(!title) return; top
   : `<div class="ttl">${esc(title)}</div>${extra||''}`; }
 top.addEventListener('click', ev=>{ const a=ev.target.closest('[data-back]'); if(a && history.length>1){ ev.preventDefault(); history.back(); } });
 addEventListener('scroll', ()=>top.classList.toggle('scrolled', scrollY>8), {passive:true});
-function streakPill(){ return `<span class="pill" title="Lern-Streak">${ic('streak','s')}<span class="mono">${P.s.cnt}</span></span><span class="pill" title="Punkte"><span class="mono">${P.xp}</span> XP</span>`; }
+function streakPill(){ const x=todayXp(); return `<span class="pill" title="Streak: Tage mit erreichtem Tagesziel">${ic('streak','s')}<span class="mono">${streakOf(P)}</span></span><a class="pill${x>=GOAL?' met':''}" href="#/profil" title="Heute gesammelte XP von ${GOAL}">${x>=GOAL?ic('richtig','s'):''}<span class="mono">${x}/${GOAL}</span> XP</a>`; }
+// ---------- Tagesziel: Ring, Wochenübersicht, Streak-Zustand ----------
+const WT = ['So','Mo','Di','Mi','Do','Fr','Sa'];
+function weekDots(){ const t=DAY(); let h=''; for(let i=6;i>=0;i--){ const d=t-i; const met=P.g.includes(d); const today=d===t; h+=`<span class="wd${met?' met':''}${today?' today':''}" title="${met?'Tagesziel erreicht':today?'heute':'kein Tagesziel'}"><i>${met?ic('richtig','s'):''}</i><small>${WT[new Date(d*86400000).getUTCDay()]}</small></span>`; } return `<div class="week" aria-label="Letzte sieben Tage">${h}</div>`; }
+function ring(x, size){ const r=34, c=2*Math.PI*r, pct=Math.min(1,x/GOAL); return `<svg class="ring${pct>=1?' met':''}" viewBox="0 0 80 80" style="width:${size||88}px;height:${size||88}px" role="img" aria-label="${x} von ${GOAL} XP"><circle cx="40" cy="40" r="${r}" class="track"/><circle cx="40" cy="40" r="${r}" class="val" stroke-dasharray="${c}" stroke-dashoffset="${c*(1-pct)}"/><text x="40" y="37" class="n mono">${pct>=1?'✓':x}</text><text x="40" y="52" class="l">${pct>=1?'Ziel':'von '+GOAL}</text></svg>`; }
+function streakState(){ const s=streakOf(P); const t=DAY();
+  if(goalMet()) return {cls:'ok', t:`Tagesziel erreicht. Streak: ${s} ${s===1?'Tag':'Tage'}.`};
+  if(P.s.last===t-1) return {cls:'warn', t:`Noch ${GOAL-todayXp()} XP, sonst endet dein Streak von ${s} ${s===1?'Tag':'Tagen'} heute.`};
+  if(s===0 && P.s.cnt>0 && P.s.last<t-1) return {cls:'', t:`Dein Streak von ${P.s.cnt} ${P.s.cnt===1?'Tag':'Tagen'} ist abgerissen. Mit ${GOAL} XP startet heute ein neuer.`};
+  return {cls:'', t:`Noch ${GOAL-todayXp()} XP bis zum Tagesziel. Erst dann zählt der Tag für den Streak.`}; }
+function goalCard(){ const x=todayXp(), s=streakState(); const nx=nextUnit(); const open=Math.ceil(Math.max(0,GOAL-x)/10);
+  return `<section class="glass card goal ${s.cls}" aria-label="Tagesziel"><div class="top">${ring(x)}<div class="b"><div class="k">${ic('punkte','s')}Tagesziel</div><div class="t">${x>=GOAL?'Geschafft!':`${x} von ${GOAL} XP`}</div><div class="s">${esc(s.t)}</div></div></div>${weekDots()}
+    ${x<GOAL?`<a class="btn primary block" href="#/lernen/${nx.id}">${open===1?'Noch ein Fall':`Etwa ${open} Fälle`} bis zum Ziel${ic('weiter','m')}</a>`:''}</section>`; }
+// Feier, wenn das Tagesziel gerade erreicht wurde (kurze Glaskarte über der Tableiste)
+function celebrate(){ if(!JUST_REACHED) return; JUST_REACHED=false; const s=streakOf(P); const el=document.getElementById('toast'); el.hidden=false;
+  el.innerHTML=`${ic('feier')}<div><b>Tagesziel erreicht!</b><br>${s>1?`Streak: ${s} Tage in Folge.`:'Dein Streak beginnt heute.'}</div><a class="btn primary" href="#/profil">Profil</a>`;
+  clearTimeout(celebrate.t); celebrate.t=setTimeout(()=>{ el.hidden=true; }, 6000); }
 function bnav(){ const h=location.hash||'#/'; const item=(href,icn,l)=>`<a href="${href}" class="${(href==='#/'?h==='#/'||h===''||h.startsWith('#/kurs')||h.startsWith('#/lernen')||h.startsWith('#/ende'):h.startsWith(href))?'active':''}" ${(href==='#/'?h==='#/'||h===''||h.startsWith('#/kurs'):h.startsWith(href))?'aria-current="page"':''}>${ic(icn)}${l}</a>`;
   document.getElementById('bnav').innerHTML=item('#/','tab-kurse','Kurse')+item('#/wdh','tab-wdh','Wiederholen')+item('#/profil','tab-profil','Profil')+item('#/didaktik','tab-konzept','Konzept');
   const fab=document.getElementById('fab'); const on=h.startsWith('#/suche')||h.startsWith('#/karte'); fab.classList.toggle('active',on); fab.innerHTML=ic('suche'); if(on) fab.setAttribute('aria-current','page'); else fab.removeAttribute('aria-current'); }
@@ -619,6 +756,7 @@ function vHome(){
     <div class="hi">${started?'Willkommen zurück':'Willkommen bei IPelico'}</div><div class="big">${started?'Bereit für ein paar Fälle?':'Markenrecht und EPG in Fällen'}</div>${status}</header>
   <section class="next" aria-label="Weiter lernen"><div class="body">${ic(kIcon(nk),'wm')}<div class="k">Weiter mit Kurs ${nn(nk.nr)}</div><div class="t">${esc(nk.titel)}</div><div class="s">${ic('intro','s')}<span>${esc(nc.titel)} · ${esc(nx.titel)}</span></div></div>
     <div class="foot"><div class="v mono">${all.pct}%<small>${all.ok} von ${all.total} gelöst</small></div><a class="btn primary" href="#/lernen/${nx.id}">${started?'Weiter lernen':'Loslegen'}${ic('weiter','m')}</a></div></section>
+  ${goalCard()}
   <div class="sh"><h2>Schnellzugriff</h2></div>
   <nav class="quick" aria-label="Schnellzugriff">
     <a class="qa" href="#/wdh">${ic('tab-wdh')}Wiederholen${dueN?`<span class="n">${dueN}</span>`:''}</a>
@@ -637,7 +775,7 @@ function vHome(){
   <div class="sh"><h2>Rechtsgebiete</h2><a href="#/kurse">Alle ${KURSE.length} Kurse</a></div>
   <div class="hscroll" aria-label="Rechtsgebiete">${GEBIETE.map(gcard).join('')}</div>
   ${last}
-  <div class="stats"><div class="stat glass"><b class="mono">${all.ok}</b><span>${ic('richtig','s')}gelöst</span></div><div class="stat glass"><b class="mono">${dueN}</b><span>${ic('faellig','s')}fällig</span></div><div class="stat glass"><b class="mono">${P.s.cnt}</b><span>${ic('streak','s')}Tage Streak</span></div></div>
+  <div class="stats"><div class="stat glass"><b class="mono">${all.ok}</b><span>${ic('richtig','s')}gelöst</span></div><div class="stat glass"><b class="mono">${dueN}</b><span>${ic('faellig','s')}fällig</span></div><div class="stat glass"><b class="mono">${streakOf(P)}</b><span>${ic('streak','s')}Tage Streak</span></div></div>
   <p class="meta">Fortschritt wird ${Store.mode()==='cookie'?'in einem Cookie':'im Browserspeicher'} auf diesem Gerät gespeichert.</p>`;
   document.getElementById('qtheme').onclick=()=>{ const t=document.documentElement.dataset.theme==='dark'?'light':'dark'; try{ localStorage.setItem('mgk_theme',t); }catch(e){} applyTheme(); vHome(); };
   // Karussell beim Rechtsgebiet des zuletzt genutzten Kurses beginnen
@@ -695,13 +833,13 @@ function vLernen(id){
       <div id="result" hidden><div id="fb"></div><div class="glass card"><div class="eyebrow">${ic('loesung','s')}Lösung</div><div class="loes" style="margin-top:8px">${e.loesung.map(p=>`<p>${md(p)}</p>`).join('')}</div>${e.merke?`<div class="box merke"><div class="k">${ic('merke','s')}Merke</div>${md(e.merke)}</div>`:''}${refs}</div><div class="actions" style="margin-top:16px">${nextBtn}</div></div>`;
   }
   main.innerHTML=`<div class="bar" style="margin:2px 0 16px"><i style="width:${pct}%"></i></div>${body}`;
-  const okBtn=document.getElementById('ok'); if(okBtn) okBtn.onclick=()=>{ markSeen(e.id); location.hash = next?`#/lernen/${next.id}`:`#/ende/${c.id}`; };
+  const okBtn=document.getElementById('ok'); if(okBtn) okBtn.onclick=()=>{ markSeen(e.id); celebrate(); location.hash = next?`#/lernen/${next.id}`:`#/ende/${c.id}`; };
   const answers=document.getElementById('answers'); if(answers){
     const correct = e.typ==='fall' ? (e.antwort?1:0) : e.richtig;
     const choose = v => { const ok = v===correct; record(e.id, ok); radar(); document.querySelectorAll('#result .chip[data-node]').forEach(c=>{ const w=weak(c.dataset.node); c.classList.toggle('weak',w); if(w) c.title='Lernradar: zuletzt falsch'; });
       answers.querySelectorAll('.ans').forEach(b=>{ b.disabled=true; const bv=+b.dataset.v; if(bv===correct){ b.classList.add('right'); b.insertAdjacentHTML('beforeend',ic('richtig','m')); } else if(bv===v){ b.classList.add('wrong'); b.insertAdjacentHTML('beforeend',ic('falsch','m')); } });
-      document.getElementById('fb').innerHTML=`<div class="box ${ok?'ok':'bad'}"><div class="fb">${ic(ok?'richtig':'falsch')}<span>${ok?'Richtig!':'Leider nicht. '+(e.typ==='fall'?`Richtig wäre: ${correct?'Ja':'Nein'}.`:'Die richtige Antwort ist markiert.')}</span><span class="tag ${ok?'ok':'bad'} xp mono">+${ok?10:2} XP</span></div></div>`;
-      document.getElementById('result').hidden=false; document.getElementById('result').scrollIntoView({behavior:'smooth',block:'start'}); top.querySelector('.pill').textContent=`${idx+1}/${c.einheiten.length}`; };
+      const x=todayXp(); document.getElementById('fb').innerHTML=`<div class="box ${ok?'ok':'bad'}"><div class="fb">${ic(ok?'richtig':'falsch')}<span>${ok?'Richtig!':'Leider nicht. '+(e.typ==='fall'?`Richtig wäre: ${correct?'Ja':'Nein'}.`:'Die richtige Antwort ist markiert.')}</span><span class="tag ${ok?'ok':'bad'} xp mono">+${ok?10:2} XP</span></div><div class="dayxp"><span>Heute <b class="mono">${Math.min(x,GOAL)}/${GOAL}</b> XP${x>=GOAL?' · Tagesziel erreicht':''}</span><div class="bar ${x>=GOAL?'ok':''}"><i style="width:${Math.min(100,x/GOAL*100)}%"></i></div></div></div>`;
+      document.getElementById('result').hidden=false; document.getElementById('result').scrollIntoView({behavior:'smooth',block:'start'}); top.querySelector('.pill').textContent=`${idx+1}/${c.einheiten.length}`; celebrate(); };
     answers.querySelectorAll('.ans').forEach(b=>b.onclick=()=>choose(+b.dataset.v));
     document.onkeydown = ev => { if(!location.hash.startsWith('#/lernen')) return; if(document.getElementById('result')&&!document.getElementById('result').hidden){ if(ev.key==='Enter'||ev.key==='ArrowRight'){ const a=document.querySelector('#result .btn'); if(a) a.click(); } return; }
       if(e.typ==='fall'){ if(ev.key==='j'||ev.key==='J'||ev.key==='ArrowLeft') choose(1); if(ev.key==='n'||ev.key==='N'||ev.key==='ArrowRight') choose(0); } else if(/^[1-4]$/.test(ev.key)) choose(+ev.key-1); };
@@ -719,7 +857,7 @@ function vWdh(){
   chrome('Wiederholen','',streakPill()); const d=UNITS.filter(due); const wrong=UNITS.filter(e=>st(e)==='bad');
   main.innerHTML=`<p class="lead" style="margin-top:4px">Falsch beantwortete Fälle und solche, deren Wiederholungsintervall abgelaufen ist (1, 3, 7, 14, 30, 60 Tage nach jeder richtigen Antwort).</p>
   <div class="stats"><div class="stat glass"><b class="mono">${d.length}</b><span>${ic('faellig','s')}fällig</span></div><div class="stat glass"><b class="mono">${wrong.length}</b><span>${ic('falsch','s')}falsch</span></div><div class="stat glass"><b class="mono">${UNITS.filter(e=>st(e)==='ok').length}</b><span>${ic('richtig','s')}gelöst</span></div></div>
-  ${d.length?`<a class="btn primary block" href="#/lernen/${d[0].id}">Wiederholung starten${ic('weiter','m')}</a><div class="glass list" style="margin-top:12px">${d.map(e=>unitRow(e, KURS.get(e.kurs).titel)).join('')}</div>`:`<div class="glass card empty">${ic('tab-wdh')}<div><b>Nichts fällig.</b> Wenn du heute weiterlernst, wächst dein Streak.</div></div>`}
+  ${d.length?`<a class="btn primary block" href="#/lernen/${d[0].id}">Wiederholung starten${ic('weiter','m')}</a><div class="glass list" style="margin-top:12px">${d.map(e=>unitRow(e, KURS.get(e.kurs).titel)).join('')}</div>`:`<div class="glass card empty">${ic('tab-wdh')}<div><b>Nichts fällig.</b> ${goalMet()?'Tagesziel ist erreicht, der Streak steht.':`Noch ${GOAL-todayXp()} XP bis zum Tagesziel, dann wächst dein Streak.`}</div></div>`}
   ${radarSection()}`;
 }
 function radarSection(){ const items=[...WEAK.entries()].filter(([id])=>id.startsWith('concept:')||id.startsWith('step:')).map(([id,l])=>[byId.get(id),l]).filter(x=>x[0]).sort((a,b)=>b[1].length-a[1].length);
@@ -727,20 +865,26 @@ function radarSection(){ const items=[...WEAK.entries()].filter(([id])=>id.start
   if(!items.length) return '';
   return `<div class="sh"><h2>Lernradar</h2><span class="meta">${items.length} Schwachstellen</span></div><p class="lead" style="margin-top:0">Begriffe und Prüfungspunkte, zu denen ein Fall zuletzt falsch war. Sie bleiben rot markiert, bis der Fall wieder richtig ist.</p><div class="glass list">${items.map(([n,l])=>nodeRow(n, `${l.length} ${l.length===1?'Fall':'Fälle'} falsch · ${n.type==='step'?(schemaOf(n.id)||{}).label||'Prüfungspunkt':n.kategorie||'Begriff'}`)).join('')}</div>`; }
 function vProfil(){
-  chrome('Profil','',streakPill()); const all=progOf(UNITS.filter(QUIZ)); const pref=themePref()||'system';
-  main.innerHTML=`<div class="ecard" style="margin-top:0"><div class="top"><div class="av">${MARK}</div><div><div class="name">IPelico Lernkonto</div><div class="sub">Markenrecht und EPG in Fällen · nur auf diesem Gerät</div></div></div>
-    <div class="nums"><div><b class="mono">${P.xp}</b><span>XP</span></div><div><b class="mono">${P.s.cnt}</b><span>Tage Streak</span></div><div><b class="mono">${P.s.best}</b><span>Bester Streak</span></div></div></div>
-  <div class="glass card"><b>${all.ok} von ${all.total} Fällen gelöst</b> <span class="meta">(${all.pct}% bearbeitet)</span><div class="bar" style="margin-top:8px"><i style="width:${all.pct}%"></i></div></div>
+  chrome('Profil','',streakPill()); const all=progOf(UNITS.filter(QUIZ)); const pref=themePref()||'system'; const lv=level(P.xp); const ab=abzeichen(); const nAb=ab.filter(a=>a.ok).length;
+  main.innerHTML=`<div class="ecard" style="margin-top:0"><div class="top"><div class="av">${MARK}</div><div><div class="name">Stufe ${lv.n} · ${esc(lv.name)}</div><div class="sub">IPelico Lernkonto · nur auf diesem Gerät</div></div></div>
+    <div class="nums"><div><b class="mono">${P.xp}</b><span>XP</span></div><div><b class="mono">${streakOf(P)}</b><span>Tage Streak</span></div><div><b class="mono">${P.s.best}</b><span>Bester Streak</span></div></div></div>
+  ${goalCard()}
+  <div class="glass card lvl-card"><div class="h"><b>Stufe ${lv.n}: ${esc(lv.name)}</b><span class="meta mono">${P.xp-lv.lo}/${lv.hi-lv.lo} XP</span></div><div class="bar"><i style="width:${lv.pct}%"></i></div><p class="meta" style="margin:8px 0 0">Noch ${lv.hi-P.xp} XP bis Stufe ${lv.n+1}${lv.n<STUFEN.length?` „${esc(STUFEN[lv.n])}“`:''}.</p></div>
+  <div class="sh"><h2>Abzeichen</h2><span class="meta mono">${nAb}/${ab.length}</span></div>
+  <div class="badges">${ab.map(a=>`<div class="glass badge${a.ok?'':' off'}" title="${esc(a.s)}"><span class="av">${ic(a.icn)}</span><b>${esc(a.t)}</b><span>${esc(a.s)}</span></div>`).join('')}</div>
+  <h2>Erinnerung</h2><div class="glass card" id="erinnerung"></div>
+  <h2>Fortschritt</h2><div class="glass card" style="margin-top:0"><b>${all.ok} von ${all.total} Fällen gelöst</b> <span class="meta">(${all.pct}% bearbeitet)</span><div class="bar" style="margin-top:8px"><i style="width:${all.pct}%"></i></div></div>
   <h2>Kurse</h2><div class="glass list">${KURSE.map(k=>{ const p=progOf(unitsOf(k).filter(QUIZ)); return `<a class="row" href="#/kurs/${k.id}" style="--c:${esc(k.farbe)}"><span class="no mono">${nn(k.nr)}</span><div class="b"><div class="t">${esc(k.titel)}</div><div class="s">${p.ok}/${p.total} richtig · ${p.done-p.ok} falsch</div><div class="bar ${p.pct===100?'ok':''}"><i style="width:${p.pct}%"></i></div></div></a>`; }).join('')}</div>
   <h2>Lernradar</h2><div class="glass card"><p style="margin:0 0 10px">Markiert Begriffe, Prüfungspunkte und Entscheidungen rot, zu denen ein Fall zuletzt falsch war, in Chips, Schemata, Lernkarten und Suche.</p><div class="seg" id="radar"><button data-r="1" class="${radarOn()?'on':''}">${ic('falsch','s')}An</button><button data-r="0" class="${radarOn()?'':'on'}">Aus</button></div></div>
   <h2>Darstellung und Speicherung</h2><div class="glass card"><div class="seg" id="theme"><button data-t="light" class="${pref==='light'?'on':''}">${ic('hell','s')}Hell</button><button data-t="dark" class="${pref==='dark'?'on':''}">${ic('dunkel','s')}Dunkel</button><button data-t="system" class="${pref==='system'?'on':''}">${ic('system','s')}System</button></div>
-    <p style="margin:14px 0 10px">Dein Fortschritt liegt ${Store.mode()==='cookie'?'in zwei Cookies (<code>mgk_p</code>, <code>mgk_m</code>, 1 Jahr gültig)':'im lokalen Browserspeicher (Cookies sind hier nicht verfügbar, etwa beim Öffnen als Datei)'} auf diesem Gerät. Es werden keine Daten an einen Server gesendet.</p>
+    <p style="margin:14px 0 10px">Dein Fortschritt liegt ${Store.mode()==='cookie'?'in zwei Cookies (<code>mgk_p</code>, <code>mgk_m</code>, 1 Jahr gültig)':'im lokalen Browserspeicher (Cookies sind hier nicht verfügbar, etwa beim Öffnen als Datei)'} auf diesem Gerät. Außer für eine eingeschaltete Erinnerung (siehe oben) werden keine Daten an einen Server gesendet.</p>
     <button class="btn ghost" id="reset" style="color:var(--bad)">${ic('loeschung','m')}Fortschritt löschen</button></div>
   <h2>Fortschritt übertragen</h2><div class="glass card"><p style="margin:0 0 12px">Kopiere deinen Fortschritt als JSON und füge ihn auf einem anderen Gerät oder einer anderen IPelico-Seite hier ein. <b>Zusammenführen</b> behält je Fall die neuere Antwort, <b>Überschreiben</b> ersetzt den Fortschritt und die Einstellungen dieses Geräts.</p>
     <button class="btn block" id="xcopy">${ic('register','m')}Fortschritt kopieren</button>
     <textarea id="xio" class="xio" rows="4" spellcheck="false" autocomplete="off" autocapitalize="off" aria-label="Fortschritt als JSON" placeholder='{"app":"ipelico","v":1, …} hier einfügen'></textarea>
     <div class="actions"><button class="btn primary" id="xmerge">Zusammenführen</button><button class="btn ghost" id="xover">Überschreiben</button></div>
     <p class="meta xmsg" id="xmsg" aria-live="polite" style="margin:0"></p></div>`;
+  erinnerung();
   document.getElementById('reset').onclick=()=>{ if(confirm('Gesamten Fortschritt löschen?')){ Store.clear(); P=Store.load(); route(); } };
   const xio=document.getElementById('xio'), xmsg=document.getElementById('xmsg');
   const say=(t,ok)=>{ xmsg.textContent=t; xmsg.className='meta xmsg '+(ok?'ok':'bad'); };
@@ -754,6 +898,25 @@ function vProfil(){
   document.getElementById('xover').onclick=()=>imp('over');
   document.getElementById('radar').onclick=ev=>{ const b=ev.target.closest('button'); if(!b) return; try{ localStorage.setItem('mgk_radar',b.dataset.r); }catch(e){} document.querySelectorAll('#radar button').forEach(x=>x.classList.toggle('on',x===b)); };
   document.getElementById('theme').onclick=ev=>{ const b=ev.target.closest('button'); if(!b) return; const t=b.dataset.t; try{ if(t==='system') localStorage.removeItem('mgk_theme'); else localStorage.setItem('mgk_theme',t); }catch(e){} applyTheme(); document.querySelectorAll('#theme button').forEach(x=>x.classList.toggle('on',x===b)); };
+}
+// Erinnerung: tägliche Mitteilung zur gewählten Stunde, solange das Tagesziel offen ist (Abonnement beim Worker push/)
+async function erinnerung(){ const box=document.getElementById('erinnerung'); if(!box) return;
+  const a=Push.abo(); const stunde=a&&Number.isInteger(a.stunde)?a.stunde:16;
+  const sel=`<label class="esel">Uhrzeit <select id="estd" aria-label="Erinnerungszeit">${Array.from({length:17},(_,i)=>i+6).map(h=>`<option value="${h}"${h===stunde?' selected':''}>${h}:00 Uhr</option>`).join('')}</select></label>`;
+  const intro=`<p style="margin:0 0 10px">Eine Mitteilung pro Tag auf dieses Gerät, solange das Tagesziel noch offen ist. Hast du die ${GOAL} XP schon, bleibt sie aus.</p>`;
+  if(!Push.ok()){ box.innerHTML=intro+`<p class="meta" style="margin:0">Mitteilungen brauchen die Website über https (nicht als Datei) und einen Browser mit Web Push.</p>`; return; }
+  if(!Push.configured()){ box.innerHTML=intro+`<p class="meta" style="margin:0">Noch nicht eingerichtet: Es fehlt der Erinnerungsdienst (PLAYBOOK, Abschnitt 14).</p>`; return; }
+  if(Push.ios() && !Push.standalone()){ box.innerHTML=intro+`<div class="box tip"><div class="k">${ic('tipp','s')}Auf dem iPhone</div>Mitteilungen gibt es nur für die App auf dem Home-Bildschirm: in Safari „Teilen“ → „Zum Home-Bildschirm“, dann IPelico von dort öffnen und hier einschalten.</div>`; return; }
+  let sub=null; try{ sub=await Push.subscription(); }catch(e){}
+  const say=(t,ok)=>{ const m=document.getElementById('emsg'); if(m){ m.textContent=t; m.className='meta xmsg '+(ok?'ok':'bad'); } };
+  const busy=(on)=>box.querySelectorAll('button,select').forEach(b=>b.disabled=on);
+  const datenschutz=`<p class="meta" style="margin:10px 0 0">Gespeichert werden dafür nur die Push-Adresse dieses Browsers, Zeitzone (${esc(Push.tz())}), Uhrzeit und das Datum des letzten erreichten Tagesziels; kein Name, kein Lernstand.</p>`;
+  if(!sub || !a){ box.innerHTML=intro+sel+`<button class="btn primary block" id="esub" style="margin-top:12px">${ic('faellig','m')}Erinnerung einschalten</button><p class="meta xmsg" id="emsg" aria-live="polite" style="margin:10px 0 0"></p>`+datenschutz;
+    document.getElementById('esub').onclick=async()=>{ busy(true); try{ await Push.subscribe(+document.getElementById('estd').value); erinnerung(); }catch(e){ busy(false); say(e.message||String(e),false); } }; return; }
+  box.innerHTML=intro+`<div class="box ok"><div class="k">${ic('richtig','s')}Eingeschaltet</div>Täglich um ${stunde}:00 Uhr (${esc(a.tz||Push.tz())}), nur wenn das Tagesziel noch offen ist.</div>`+sel+
+    `<div class="actions"><button class="btn ghost" id="eoff" style="color:var(--bad)">Erinnerung ausschalten</button></div><p class="meta xmsg" id="emsg" aria-live="polite" style="margin:0"></p>`+datenschutz;
+  document.getElementById('estd').onchange=async ev=>{ busy(true); try{ await Push.subscribe(+ev.target.value); erinnerung(); }catch(e){ busy(false); say(e.message||String(e),false); } };
+  document.getElementById('eoff').onclick=async()=>{ busy(true); await Push.unsubscribe(); erinnerung(); };
 }
 function vDidaktik(){
   chrome('Konzept','');
@@ -952,6 +1115,7 @@ if(location.hash.startsWith('#umzug=')){
   history.replaceState(null,'',location.pathname+location.search+'#/profil');
 }
 route();
+Push.melden();
 if(umzug){ const m=document.getElementById('xmsg'); if(m){ m.textContent=umzug.t; m.className='meta xmsg '+(umzug.ok?'ok':'bad'); m.scrollIntoView({block:'center'}); } }
 })();
 </script>

@@ -22,6 +22,9 @@ from knowledge.patent import entscheidungen as pat_entscheidungen  # noqa: E402
 from knowledge.design import entscheidungen as des_entscheidungen  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
+SW = ROOT / "src" / "templates" / "sw.js"  # Service Worker nur für Web Push (Erinnerung), wird unverändert nach docs/ kopiert
+VAPID = ROOT / "data" / "push_vapid_public.txt"  # öffentlicher VAPID-Schlüssel (__VAPID__); fehlt er, bleibt die Erinnerung aus
+PUSH_API = ROOT / "data" / "push_api.txt"  # URL des Cloudflare Workers push/ (__PUSH_API__), ohne Schrägstrich am Ende
 ASSETS = ROOT / "src" / "templates" / "ipelico"
 GRAPH = ROOT / "graph" / "markenrecht_graph.json"
 OUT = ROOT / "docs" / "index.html"
@@ -115,6 +118,26 @@ def favicon():
     return "data:image/svg+xml;base64," + base64.b64encode(p.read_bytes()).decode()
 
 
+def vapid_public():
+    if not VAPID.exists():
+        print("Hinweis: data/push_vapid_public.txt fehlt, Erinnerung bleibt ausgeschaltet (PLAYBOOK 14)")
+        return ""
+    key = VAPID.read_text(encoding="utf-8").strip()
+    if not re.fullmatch(r"[A-Za-z0-9_-]{80,100}", key):
+        raise SystemExit("data/push_vapid_public.txt: kein base64url-kodierter P-256-Schlüssel")
+    return key
+
+
+def push_api():
+    if not PUSH_API.exists():
+        print("Hinweis: data/push_api.txt fehlt, Erinnerung bleibt ausgeschaltet (PLAYBOOK 14)")
+        return ""
+    url = PUSH_API.read_text(encoding="utf-8").strip().rstrip("/")
+    if not re.fullmatch(r"https://[A-Za-z0-9.-]+(?::\d+)?(?:/[A-Za-z0-9._~-]+)*", url):
+        raise SystemExit(f"data/push_api.txt: keine https-URL ohne Abfrage: {url!r}")
+    return url
+
+
 APP_ICONS = ["apple-touch-icon.png", "icon-192.png", "icon-512.png", "icon-maskable-512.png", "favicon-32.png", "favicon-16.png", "favicon.ico"]
 
 
@@ -146,12 +169,15 @@ def build():
             .replace("__LAWJS__", js_source())
             .replace("__SPRITE__", sp)
             .replace("__FONTS__", fonts_css())
-            .replace("__FAVICON__", favicon()))
-    for ph in ("__KURSE__", "__GEBIETE__", "__GRAPH__", "__LAWJS__", "__SPRITE__", "__FONTS__", "__FAVICON__"):
+            .replace("__FAVICON__", favicon())
+            .replace("__VAPID__", vapid_public())
+            .replace("__PUSH_API__", push_api()))
+    for ph in ("__KURSE__", "__GEBIETE__", "__GRAPH__", "__LAWJS__", "__SPRITE__", "__FONTS__", "__FAVICON__", "__VAPID__", "__PUSH_API__"):
         if ph in html:
             raise SystemExit(f"Platzhalter {ph} nicht ersetzt")
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(html, encoding="utf-8")
+    (OUT.parent / "sw.js").write_text(SW.read_text(encoding="utf-8"), encoding="utf-8")
     epg = upc_entscheidungen.kompakt()
     EPG_DB.write_text(json.dumps(epg, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"EPG-Rechtsprechung: {epg['meta']['anzahl']} Entscheidungen -> {EPG_DB.relative_to(ROOT)} ({EPG_DB.stat().st_size/1024:.0f} KB)")

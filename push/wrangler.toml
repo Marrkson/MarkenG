@@ -1,0 +1,24 @@
+# Cloudflare Worker für die IPelico-Erinnerung (push/src/worker.js). Einrichtung: PLAYBOOK.md Abschnitt 14.
+#   npx wrangler login
+#   npx wrangler kv namespace create ABOS        -> id unten eintragen
+#   npx wrangler secret put VAPID_PRIVATE_KEY    -> Inhalt von data/push_vapid_private.txt
+#   npx wrangler deploy                          -> URL in data/push_api.txt eintragen, python3 build.py
+name = "ipelico-erinnerung"
+main = "src/worker.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+[triggers]
+crons = ["0 * * * *"]
+
+[[kv_namespaces]]
+binding = "ABOS"
+id = "a92f44eea9ce4a889e98e19688752de8"
+
+[vars]
+VAPID_PUBLIC_KEY = "BEZrgUkUSdYBq6C3EgFtcF4kSFwtqoSwj8aZZijn3LSBZxU9UZfEZvLJM7VYsmYz0OGdu9DRH8QrY3Aw0t7qhGs"
+VAPID_SUBJECT = "https://ipelico.com"
+ALLOW_ORIGIN = "https://ipelico.com,https://www.ipelico.com,http://localhost:8791"
+
+[observability]
+enabled = true

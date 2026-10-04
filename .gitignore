@@ -9,3 +9,7 @@ klausuren/**/txt/
 
 # Rohbilder der Asset-Generierung (tools/gen_assets.py)
 tools/gen_raw/
+
+# VAPID-Privatschlüssel für die Erinnerung (nur als GitHub-Secret VAPID_PRIVATE_KEY, nie versionieren)
+data/push_vapid_private.txt
+node_modules/

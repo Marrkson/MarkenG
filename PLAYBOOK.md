@@ -419,3 +419,39 @@ GGV-Konsolidierung: Cache in `~/.cache/ipelico/design/` löschen (bei der GGV zu
 laufen lassen. Nach Umsetzung der Richtlinie (EU) 2024/2823 (Frist 9.12.2027): Hinweise in `gesetze_texte.py` und `eurecht.py` sowie die
 Spalte „Richtlinie (EU) 2024/2823“ der Umsetzungstabelle anpassen, `designrl` behalten (Altfälle). Rauchtest enthält die Routen
 `#/bpatg/design`, `#/karte/eunorm:designg:2`, `#/karte/distinction:d_des_anspruchsgrundlagen_eu` (prüft EPGÜ-Spalte und VerfO-Links).
+
+## 14. Tagesziel, Streak, Abzeichen und die tägliche Erinnerung
+
+**Spielmechanik (nur `src/templates/kurs.html`).** XP wie bisher (+10 richtig, +2 falsch, +3 Einführung/Schema gelesen), gezählt
+pro Ortstag (`DAY()` nach Ortszeit, nicht UTC). Das Tagesziel `GOAL = 100` XP ist die einzige Bedingung für den Streak: `addXp()`
+schreibt beim Überschreiten den Tag in `P.g` (Zieltage, die letzten 90) und zählt `P.s` hoch (Vortag Zieltag → +1, sonst 1).
+`streakOf(P)` zeigt den Streak nur, wenn gestern oder heute das Ziel erreicht wurde; `streakState()` liefert die drei Zustände
+(erreicht, gefährdet, offen/abgerissen) für die Tagesziel-Karte `goalCard()` (Ring, Wochenpunkte Mo–So, Knopf „Noch n Fälle“).
+Stufen `level(xp)` nach Dreieckszahlen (50·n·(n+1)), Namen in `STUFEN`; Abzeichen `abzeichen()` werden berechnet, nie gespeichert.
+Cookie `mgk_m` hat drei neue Felder (Tag und XP von heute, Zieltage mit `|`); alte Cookies bleiben lesbar, `Transfer` führt die Felder
+zusammen. Bei jedem Speichern legt `Push.sync()` den Tagesstand unter IndexedDB `ipelico/kv/heute` ab, damit der Service Worker ihn lesen kann.
+
+**Erinnerung für alle Nutzer.** iOS kann aus einer Web-App keine Mitteilung planen; sie muss von außen per Web Push kommen. Das
+macht der Cloudflare Worker in `push/` (kostenloser Tarif reicht: stündlicher Cron, KV-Speicher). Er speichert je Gerät Push-Adresse
+und -Schlüssel des Browsers, Zeitzone, gewählte Stunde (Standard 16) und das Datum des letzten erreichten Tagesziels, sonst nichts.
+Schnittstelle: `POST /abo` (Abonnement anlegen oder Stunde ändern), `DELETE /abo`, `POST /stand` (Tagesziel heute erreicht), Cron
+`0 * * * *` schickt an alle, bei denen gerade ihre Stunde ist und das Ziel offen ist; 404/410 vom Push-Dienst löscht das Abonnement.
+Web Push (RFC 8291/8292) ist ohne Fremdbibliothek mit WebCrypto umgesetzt; `node push/test.mjs` prüft die Verschlüsselung gegen die
+RFC-Vektoren, VAPID, Pfade und den stündlichen Lauf. Die App (`Push` in `kurs.html`) registriert `sw.js`, abonniert, merkt sich
+`mgk_abo` (Stunde, Zeitzone, letzte Meldung) und meldet ein erreichtes Ziel einmal täglich (auch nachträglich beim nächsten Öffnen).
+Der Service Worker `src/templates/sw.js` → `docs/sw.js` formuliert die Meldung aus dem Tagesstand und cacht nichts; kommt doch ein
+Push bei erreichtem Ziel an (Meldung war offline), zeigt er eine kurze Bestätigung (Safari entzieht die Berechtigung nach stummen Pushes).
+
+Einrichtung des Dienstes, einmalig vom Betreiber:
+1. Schlüsselpaar: `data/push_vapid_public.txt` ist versioniert (`__VAPID__`, auch in `push/wrangler.toml` unter `VAPID_PUBLIC_KEY`),
+   `data/push_vapid_private.txt` steht in `.gitignore`. Neu erzeugen (dann müssen alle Geräte neu abonnieren):
+   `python3 -c "from cryptography.hazmat.primitives.asymmetric import ec; from cryptography.hazmat.primitives import serialization as s; import base64; k=ec.generate_private_key(ec.SECP256R1()); b=lambda x: base64.urlsafe_b64encode(x).decode().rstrip('='); open('data/push_vapid_public.txt','w').write(b(k.public_key().public_bytes(s.Encoding.X962,s.PublicFormat.UncompressedPoint))+'\n'); open('data/push_vapid_private.txt','w').write(b(k.private_numbers().private_value.to_bytes(32,'big'))+'\n')"`
+2. In `push/`: `npx wrangler login`, `npx wrangler kv namespace create ABOS` und die ausgegebene `id` in `wrangler.toml` eintragen,
+   `npx wrangler secret put VAPID_PRIVATE_KEY` (Inhalt von `data/push_vapid_private.txt`), `npx wrangler deploy`.
+   `ALLOW_ORIGIN` in `wrangler.toml` muss die Adresse der Website enthalten (CORS).
+3. Die Worker-URL (`https://ipelico-erinnerung.<konto>.workers.dev`, ohne Schrägstrich) in `data/push_api.txt` schreiben,
+   `python3 build.py`, committen. Fehlt die Datei, zeigt das Profil „noch nicht eingerichtet“.
+4. Prüfen: `curl https://…workers.dev/` antwortet „IPelico Erinnerung“; im Cloudflare-Dashboard unter Workers → Logs erscheint
+   stündlich `{"geprueft":…,"gesendet":…}`. Für einen Sofort-Test die Stunde im Profil auf die kommende volle Stunde stellen.
+Nutzer: iPhone → Safari „Zum Home-Bildschirm“, von dort öffnen → Profil → Erinnerung → Uhrzeit wählen → „Erinnerung einschalten“.
+Rauchtest prüft Tagesziel-Karte, XP-Zeile im Ergebnis, Streak-Zählung beim Erreichen des Ziels und die Profilabschnitte.

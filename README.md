@@ -33,7 +33,8 @@ und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
 
 - **Kurse → Kapitel → Einheiten**: Sachverhalt, Frage, Ja/Nein oder Auswahl, sofortiges Feedback, Lösung im Gutachtenstil, Merksatz; Begriffe, Normen und Entscheidungen inline aufklappbar.
 - **Wiederholen**: falsch beantwortete Fälle und fällige Wiederholungen (Intervalle 1, 3, 7, 14, 30, 60 Tage).
-- **Profil**: Streak, Punkte, Fortschritt je Kurs, Fortschritt löschen.
+- **Tagesziel**: 100 XP pro Tag; nur ein erreichtes Tagesziel verlängert den Streak. Ring und Wochenübersicht auf der Startseite, Stufen und Abzeichen im Profil.
+- **Profil**: Stufe, Streak, Punkte, Abzeichen, tägliche Erinnerung zur Wunschzeit (Web Push über den Cloudflare Worker `push/`, siehe `PLAYBOOK.md` 14), Fortschritt je Kurs, Fortschritt löschen.
 - Tastatur: `J`/`N`, `1`–`4`, `Enter`.
 
 ## Lernnavigator starten

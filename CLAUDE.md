@@ -36,3 +36,5 @@
   `Art. 19 DesignRL 2024`, `Art. 20a GGV`. BGH-/BPatG-Leitentscheidungen in `design/cases.py` werden gegen den Korpus geprüft; EuGH/EuG-Fälle
   per WebSearch verifizieren. Kurs `kurse/d01_designrecht.py`; Anspruchsgrundlagentabelle `d_des_anspruchsgrundlagen_eu` (MarkenG, PatG, GebrMG,
   DesignG, UrhG, UMV/GGV, EPGÜ mit VerfO-Regeln).
+- Spielmechanik und Erinnerung (Tagesziel 100 XP, Streak nur über Zieltage, Service Worker `src/templates/sw.js`, Cloudflare Worker
+  `push/` mit `node push/test.mjs`, Worker-URL in `data/push_api.txt`): `PLAYBOOK.md` Abschnitt 14. `data/push_vapid_private.txt` nie versionieren.

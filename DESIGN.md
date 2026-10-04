@@ -10,7 +10,7 @@ Ein Lernwerkzeug, das aussieht wie ein gutes juristisches Arbeitsmittel: ruhig, 
 Rhein-IP-Blau. Die Inhalte sind gegliedert wie bei AMBOSS (Akte, Wissensboxen, Chips), die
 Oberflächen folgen dem Glas-Stil (weiche Lichtflecken im Hintergrund, halbtransparente Karten mit
 großen Radien, Verlaufs-Hero, schwarze Pill-Buttons). Kein Maskottchen, keine Illustrationen, kein
-Tiermotiv. Das Zeichen ist eine Kachel mit ausgespartem „IP“; die Icons sprechen dieselbe runde Formensprache.
+Tiermotiv. Spielmechanik (Tagesziel, Streak, Stufen, Abzeichen) bleibt zurückhaltend: Zahlen, Ring, Haken, keine Konfetti. Das Zeichen ist eine Kachel mit ausgespartem „IP“; die Icons sprechen dieselbe runde Formensprache.
 
 ## 2. Farbtokens
 
@@ -137,6 +137,9 @@ Größen: 24 (Tabbar, Buttons), 20 (Listen, Boxen), 16 (Chips, Pills).
 |---|---|
 | `.topbar` | sticky, ohne Grund; runder Zurück-Knopf (44 px) + Titel 22/700, rechts Pills oder `.seg.ic-seg` (Liste/Raster). Beim Scrollen (`.scrolled`) Hintergrund `--bg` 82 % + Blur. Auf der Startseite ausgeblendet; dort trägt der Hero die Wortmarke |
 | `.hero` | Startseite: vollflächig bis unter die Statusleiste (`env(safe-area-inset-top)`), nur untere Radien r-xl, `--brand-grad` + zwei Lichtflecken, zentrierter Gruß (17) und Titel (32/700), darunter `.status`-Pille (Glas auf Verlauf, Zähler-Badge, Chevron; führt zu Wiederholung oder nächster Einheit) |
+| `.goal` | Tagesziel-Karte (Glas) direkt unter der Weiter-Karte und im Profil: Ring `.ring` (88 px, Brand, bei Ziel `--ok`) mit XP von 100, Eyebrow „Tagesziel“, Zustandstext (`.ok` grün erreicht, `.warn` rot Streak in Gefahr), Wochenpunkte `.week`/`.wd` Mo–So (erreicht grün mit Haken, heute Brand-Ring), darunter schwarze Pill „Noch n Fälle bis zum Ziel“ |
+| `.badges` / `.badge` | Abzeichen im Profil: dreispaltige Glas-Kacheln mit Verlaufskreis und Icon, gesperrt `.off` halb transparent und grau; Stufe in `.lvl-card` (Name, XP-Balken) |
+| `.toast` | Feierkarte beim Erreichen des Tagesziels, wie `.notice` über der Tableiste, Feier-Icon in `--tip`, 6 s |
 | `.next` | überlappende Karte unter dem Hero (`margin-top:-52px`, `--paper`, `--shadow-2`): Eyebrow „Weiter mit Kurs“, Titel, Meta mit Icon, Wasserzeichen-Icon; Fußzeile mit Prozentwert und schwarzer Pill „Weiter lernen“ |
 | `.quick` / `.qa` | Schnellzugriff: zweizeiliges, horizontal scrollendes Raster aus weißen Pillen (Icon Brand + Label, optional Zähler `.n`) |
 | `.hscroll` / `.kcard` | Kurs-Karussell: Hochkant-Karten 76 % Breite in Kursfarbe (`.cthumb`-Verlauf), Pill oben, Wasserzeichen-Icon, Titel/Meta/Balken unten auf Abdunklung |
@@ -163,7 +166,7 @@ Größen: 24 (Tabbar, Buttons), 20 (Listen, Boxen), 16 (Chips, Pills).
 
 ## 8a. Mobile Struktur (Vorlage: Versicherungs-App, abgestimmt 10.09.2026)
 
-Reihenfolge Startseite: Hero → überlappende Weiter-Karte → Schnellzugriff → Gebiets-Karussell mit „Alle
+Reihenfolge Startseite: Hero → überlappende Weiter-Karte → Tagesziel → Schnellzugriff → Gebiets-Karussell mit „Alle
 anzeigen“ → Zuletzt gelernt → Kennzahlen. Das Karussell zeigt die fünf Rechtsgebiete (`.kcard` in
 Gebietsfarbe), nicht einzelne Kurse. Route `#/kurse` ist die Gebietsauswahl (fünf `.lcard`), `#/kurse/<gebiet>`
 zeigt die Kurse dieses Gebiets als Liste oder Raster mit Umschalter in der Kopfzeile; Zurück aus dem Kurs

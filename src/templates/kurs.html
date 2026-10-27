@@ -475,7 +475,7 @@ __LAWJS__
 const md = s => lawify(md0(s));
 const txt = s => lawify(esc(s));
 // Kontextgesetz für Zitate ohne Gesetzesangabe in Normtext und Hinweis: das Gesetz selbst (PatG, DesignG …), Unionsrecht: der Rechtsakt selbst (nur Art./R.); Umsetzungshinweise der MarkenRL: das MarkenG
-const normLaw = n => (LAW.laws[n.kurz]||LAW.eu[n.kurz]||LAW.article[n.kurz]) ? n.kurz : '';
+const normLaw = n => { const k=LAW.aliases[n.kurz]||n.kurz; return (LAW.laws[k]||LAW.eu[k]||LAW.article[k]) ? k : ''; };
 const hinweisLaw = n => n.rl==='markenrl' ? 'MarkenG' : normLaw(n);
 const ntxt = (s, n) => lawify(esc(s), normLaw(n));
 const ic = (n, cls) => `<svg class="ic${cls?' '+cls:''}" aria-hidden="true"><use href="#ic-${n}"/></svg>`;
@@ -489,12 +489,13 @@ const QUIZ = e => e.typ==='fall'||e.typ==='mc';
 const TYPE = {fall:['fall','Fall'], mc:['quiz','Wissensfrage'], intro:['intro','Einführung'], schema:['schema','Prüfungsschema']};
 const LEVEL = ['','Basics','Fortgeschritten','Examen'];
 const nn = n => String(n).padStart(2,'0');
-const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?: .*)? (\S+)$/); if(m&&LAW.eukeys[m[2]]) return byId.get('eunorm:'+LAW.eukeys[m[2]]+':'+m[1]);
+const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?:[ (].*)? (\S+)$/); if(m&&LAW.eukeys[m[2]]) return byId.get('eunorm:'+LAW.eukeys[m[2]]+':'+m[1]);
   m=r.match(/^(?:R\.|Regel|Rule) (\d+[A-Za-z]?)(?:\.\d+)*(?:\([a-z0-9]+\))*(?: .*)? (\S+)$/); if(m&&LAW.eukeys[m[2]]) return byId.get('eunorm:'+LAW.eukeys[m[2]]+':'+m[1].toUpperCase());
   m=r.match(/^Art\. ([IVX]+)(?: § (\d+[a-z]?))?(?: .*)? (\S+)$/); if(m&&LAW.dekeys[m[3]]) return byId.get('eunorm:'+LAW.dekeys[m[3]]+':'+m[1]+(m[2]?'§'+m[2]:''));
   m=r.match(/^Anlage(?: (\d+))? (\S+)$/); if(m&&LAW.dekeys[m[2]]) return byId.get('eunorm:'+LAW.dekeys[m[2]]+':anlage'+(m[1]?'_'+m[1]:''));
   m=r.match(/^§ (\d+[a-z]?)(?: .*)? (\S+)$/); if(m&&LAW.dekeys[m[2]]) return byId.get('eunorm:'+LAW.dekeys[m[2]]+':'+m[1]);
   m=r.match(/§ (\d+[a-z]?)/); return m?byId.get('norm:§'+m[1]):null; };
+// „Art. 33 Abs. 1 EPGÜ“ und englisch „Art. 33(1) UPCA“ (docs/en/) führen beide auf eunorm:upca:33
 // Quelle eines EU-/Übereinkommensknotens und Sortenbezeichnung (Richtlinie, EPGÜ, VerfO)
 const srcName = u => /eur-lex/.test(u||'') ? 'EUR-Lex' : /epo\.org/.test(u||'') ? 'epo.org' : /unifiedpatentcourt/.test(u||'') ? 'unifiedpatentcourt.org (PDF)' : /gesetze-im-internet/.test(u||'') ? 'gesetze-im-internet.de' : 'Quelle';
 const RL_FAM = {markenrl:'Richtlinie',durchsetzungsrl:'Richtlinie',upca:'EPGÜ',rop:'VerfO',epatvo:'EPatVO',epatuevo:'EPatÜVO',doeps:'DOEPS',gebeps:'GebOEPS',patg:'PatG',patv:'PatV',intpatueg:'IntPatÜG',patkostg:'PatKostG',designg:'DesignG',designv:'DesignV',designrl:'DesignRL',designrl2024:'DesignRL 2024',ggv:'GGV'};
@@ -561,7 +562,7 @@ const Push = (()=>{
   const reg = () => navigator.serviceWorker.register('sw.js');
   if(ok()) reg().catch(()=>{});
   const idb = () => new Promise((res,rej)=>{ const o=indexedDB.open('ipelico',1); o.onupgradeneeded=()=>o.result.createObjectStore('kv'); o.onsuccess=()=>res(o.result); o.onerror=()=>rej(o.error); });
-  const sync = p => { if(!('indexedDB' in window)) return; const t=DAY(); const x=p.t.d===t?p.t.x:0; const st={d:t, x, goal:GOAL, streak:streakOf(p), at:Date.now()};
+  const sync = p => { if(!('indexedDB' in window)) return; const t=DAY(); const x=p.t.d===t?p.t.x:0; const st={d:t, x, goal:GOAL, streak:streakOf(p), at:Date.now(), lang:document.documentElement.lang};
     idb().then(db=>{ db.transaction('kv','readwrite').objectStore('kv').put(st,'heute'); }).catch(()=>{}); if(x>=GOAL) melden(); };
   const b64 = s => Uint8Array.from(atob((s+'='.repeat((4-s.length%4)%4)).replace(/-/g,'+').replace(/_/g,'/')), c=>c.charCodeAt(0));
   const abo = () => { try{ return JSON.parse(localStorage.getItem('mgk_abo')||'null'); }catch(e){ return null; } };
@@ -808,6 +809,7 @@ function vHome(){
     <a class="qa" href="#/bpatg">${ic('entscheidung')}BPatG und BGH</a>
     <a class="qa" href="#/bpatg/design">${ic('entscheidung')}Design-Rechtsprechung</a>
     <a class="qa" href="#/bpatg/arbnerfg">${ic('entscheidung')}Schiedsstelle ArbnErfG</a>
+    <a class="qa" href="en/" hreflang="en" lang="en">${ic('union')}UPC in English</a>
     <a class="qa" href="#/didaktik">${ic('tab-konzept')}Konzept</a>
     <a class="qa" href="#/profil">${ic('tab-profil')}Profil</a>
     <button class="qa" id="qtheme">${ic(dark?'hell':'dunkel')}${dark?'Hell':'Dunkel'}</button>
@@ -837,7 +839,7 @@ function vKurse(gid){
     const reihen=[]; for(const k of ks){ const r=k.reihe||''; let sec=reihen.find(x=>x.r===r); if(!sec){ sec={r,ks:[]}; reihen.push(sec); } sec.ks.push(k); }
     reihen.sort((a,b)=>(a.r?1:0)-(b.r?1:0));
     main.innerHTML=`<p class="lead" style="margin-top:4px">${esc(g.beschreibung||'')}</p>
-      <div class="mrow" style="margin:-6px 0 14px">${ic('tab-kurse','m')}<span>${ks.length} ${ks.length===1?'Kurs':'Kurse'} · ${u.length} Einheiten</span><span>·</span><span class="mono">${p.ok}/${p.total} gelöst</span></div>
+      <div class="mrow" style="margin:-6px 0 14px">${ic('tab-kurse','m')}<span>${ks.length} ${ks.length===1?'Kurs':'Kurse'} · ${u.length} Einheiten</span><span>·</span><span class="mono">${p.ok}/${p.total} gelöst</span></div>${g.id==='upc'?`<p class="meta" style="margin:-6px 0 14px"><a href="en/" hreflang="en" lang="en">${ic('union','s')} This area in English: courses, cards and case law</a></p>`:''}
       ${reihen.map(sec=>`<section class="sec">${sec.r?`<div class="sh" style="margin-top:18px"><h2>${esc(sec.r)}</h2></div>`:''}<div class="${v==='grid'?'lgrid':'lstack'}">${sec.ks.map(lcard).join('')}</div></section>`).join('')}`; };
   render();
   document.getElementById('view').onclick=ev=>{ const b=ev.target.closest('button'); if(!b) return; try{ localStorage.setItem('mgk_view',b.dataset.v); }catch(e){} render(); };

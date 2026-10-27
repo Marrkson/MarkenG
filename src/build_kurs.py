@@ -21,6 +21,8 @@ from knowledge.upc import entscheidungen as upc_entscheidungen  # noqa: E402
 from knowledge.patent import entscheidungen as pat_entscheidungen  # noqa: E402
 from knowledge.design import entscheidungen as des_entscheidungen  # noqa: E402
 from knowledge.patent import arbnerfg_entscheidungen as arb_entscheidungen  # noqa: E402
+from knowledge.upc import en as upc_en  # noqa: E402
+from knowledge.upc.en import ui as ui_en  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
 SW = ROOT / "src" / "templates" / "sw.js"  # Service Worker nur für Web Push (Erinnerung), wird unverändert nach docs/ kopiert
@@ -34,6 +36,7 @@ PAT_DB = ROOT / "docs" / "patent_entscheidungen.json"  # Entscheidungskorpus BPa
 DES_DB = ROOT / "docs" / "design_entscheidungen.json"  # Entscheidungskorpus Designsachen BPatG/BGH, nachgeladen (#/bpatg/design)
 ARB_DB = ROOT / "docs" / "arbnerfg_entscheidungen.json"  # Schiedsstelle nach dem ArbEG und BGH, nachgeladen (#/bpatg/arbnerfg)
 DATA = ROOT / "data" / "kurse.json"
+OUT_EN = ROOT / "docs" / "en" / "index.html"  # englische App: nur das Gebiet EPG (knowledge/upc/en, PLAYBOOK 17)
 
 # Icons, die das Template verwendet; fehlt eines im Sprite, bricht der Build ab.
 REQUIRED_ICONS = [
@@ -160,6 +163,64 @@ def app_icons():
     (OUT.parent / "manifest.webmanifest").write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+# Wörter, an denen deutsche Reste in der englischen Oberfläche auffallen (nur Warnung; der Rauchtest prüft den sichtbaren Text)
+_DE_RESTE = re.compile(r"[äöüÄÖÜß]|\b(?:und|nicht|oder|Fälle|Einheiten|gelöst|fällig|Kurs|Kurse|Weiter|Zurück|Lernkarte|Tagesziel|Entscheidungen)\b")
+
+
+def _ersetzen(html, paare, wo):
+    fehlt = []
+    for de, en in paare:
+        if de not in html:
+            fehlt.append(de[:110])
+        html = html.replace(de, en)
+    if fehlt:
+        raise SystemExit(f"{wo}: {len(fehlt)} Ersetzungen treffen nicht mehr (Template geändert?):\n  " + "\n  ".join(map(repr, fehlt)))
+    return html
+
+
+def _reste(html):
+    """Zeilen des englischen Templates (ohne Kommentare und eingebettete Daten), die noch deutsch aussehen."""
+    code = re.sub(r"/\*.*?\*/", "", html, flags=re.S)
+    out = []
+    for ln in code.split("\n"):
+        ln = re.sub(r"(^|\s)//.*$", "", ln)
+        if _DE_RESTE.search(ln) and "__" not in ln and not any(t in ln for t in ui_en.TOT):
+            out.append(ln.strip()[:120])
+    return out
+
+
+def build_en(graph, template):
+    """docs/en/index.html: dieselbe App mit englischer Oberfläche (ui.py) und dem englischen EPG-Paket (knowledge/upc/en)."""
+    kurse, gebiete, g = upc_en.bauen(KURSE, GEBIETE, reduced_graph(graph))
+    html = _ersetzen(template, ui_en.STRUKTUR, "ui.STRUKTUR")
+    reste = _reste(_ersetzen(html, ui_en.TEXTE, "ui.TEXTE"))
+    html = _ersetzen(html, ui_en.TEXTE, "ui.TEXTE")
+    epg = json.loads(EPG_DB.read_text(encoding="utf-8"))
+    kammern = {k: upc_en.kammer_en(k) for k in sorted({e["kammer"] for e in epg["entscheidungen"]})}
+    html = (html.replace("__KAMMERN__", embed(kammern))
+            .replace("__KURSE__", embed(kurse)).replace("__GEBIETE__", embed(gebiete)).replace("__GRAPH__", embed(g))
+            .replace("__LAWJS__", _ersetzen(js_source(), ui_en.LAWJS, "ui.LAWJS"))
+            .replace("__SPRITE__", sprite()).replace("__FONTS__", fonts_css()).replace("__FAVICON__", favicon())
+            .replace("__VAPID__", vapid_public()).replace("__PUSH_API__", push_api()))
+    for ph in ("__KURSE__", "__GEBIETE__", "__GRAPH__", "__LAWJS__", "__SPRITE__", "__FONTS__", "__FAVICON__", "__VAPID__", "__PUSH_API__", "__KAMMERN__"):
+        if ph in html:
+            raise SystemExit(f"Platzhalter {ph} in docs/en nicht ersetzt")
+    OUT_EN.parent.mkdir(parents=True, exist_ok=True)
+    OUT_EN.write_text(html, encoding="utf-8")
+    manifest = {
+        "name": "IPelico – The Unified Patent Court in cases", "short_name": "IPelico UPC", "start_url": "./", "scope": "./",
+        "display": "standalone", "background_color": "#f3f5f9", "theme_color": "#1482e3", "lang": "en",
+        "icons": [{"src": "../icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+                  {"src": "../icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+                  {"src": "../icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}],
+    }
+    (OUT_EN.parent / "manifest.webmanifest").write_text(json.dumps(manifest, ensure_ascii=False, indent=1), encoding="utf-8")
+    n = sum(len(c["einheiten"]) for k in kurse for c in k["kapitel"])
+    print(f"IPelico (englisch): {len(kurse)} Kurse, {n} Einheiten, {len(g['nodes'])} Knoten -> {OUT_EN.relative_to(ROOT)} ({OUT_EN.stat().st_size/1024:.0f} KB)")
+    if reste:
+        print(f"Hinweis: {len(reste)} Zeilen der englischen Oberfläche sehen noch deutsch aus (src/knowledge/upc/en/ui.py), z. B.:\n  " + "\n  ".join(reste[:12]))
+
+
 def build():
     graph = json.loads(GRAPH.read_text(encoding="utf-8"))
     DATA.write_text(json.dumps(KURSE, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -193,6 +254,7 @@ def build():
     ARB_DB.write_text(json.dumps(arb, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"ArbnErfG-Rechtsprechung: {arb['meta']['anzahl']} Entscheidungen -> {ARB_DB.relative_to(ROOT)} ({ARB_DB.stat().st_size/1024:.0f} KB)")
     app_icons()
+    build_en(graph, TEMPLATE.read_text(encoding="utf-8"))
     n = sum(len(k["einheiten"]) for kurs in KURSE for k in kurs["kapitel"])
     print(f"IPelico: {len(KURSE)} Kurse, {n} Einheiten, Sprite {len(sp)/1024:.0f} KB -> "
           f"{OUT.relative_to(ROOT)} ({OUT.stat().st_size/1024:.0f} KB)")

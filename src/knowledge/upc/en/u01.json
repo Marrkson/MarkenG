@@ -1,0 +1,663 @@
+{
+ "kurs:u01": {
+  "titel": "The Unified Patent Court and the Unitary Patent: structure, sources of law, transitional period",
+  "untertitel": "Art. 6 to 10 UPCA, Art. 20 to 24 UPCA, Art. 83 UPCA with R. 5, 5A RoP, the Preamble to the RoP and Art. 48 UPCA – and the Unitary Patent: UPReg, TranslReg, UPR, R. 97 RoP",
+  "beschreibung": "An introduction to the UPCA, provision by provision: structure and panels (Art. 6 to 10 UPCA), Union law and sources of law (Art. 20 to 24 UPCA), transitional period, opt-out and legacy cases (Art. 83, 32 UPCA, R. 5, 5A RoP), front-loading and representation (Preamble to the RoP, Art. 48 UPCA) – with Roku/Dolby, Silimed/Polytech, Fives/REEL, Knaus Tabbert, bioMérieux/Labrador and Suinno/Microsoft. The last chapter leads to the Unitary Patent: UPReg, TranslReg, UPR and the action under R. 97 RoP (Bodycap/EPO).",
+  "_de": "2f508096ba"
+ },
+ "kapitel:u01a": {
+  "titel": "Art. 6 to 10 UPCA: court, divisions, panels",
+  "_de": "3ac7f1d33d"
+ },
+ "einheit:u01a-0": {
+  "titel": "What the UPC is and how it is structured",
+  "text": "The **Unified Patent Court** (UPC) is a court common to the Contracting Member States for European patents with unitary effect and for classic European patents without an opt-out (Art. 1, 3 UPCA). It started operating on **1 June 2023** (Art. 89 UPCA) and comprises the **Court of First Instance**, the **Court of Appeal** in Luxembourg and the **Registry** (Art. 6 UPCA). The Court of First Instance is divided into the **central division** (Paris seat, Munich and Milan sections) and **local and regional divisions** (Art. 7 UPCA): up to four local divisions per state (Germany: Düsseldorf, Hamburg, Mannheim, Munich), plus the Nordic-Baltic regional division. The central division allocates its cases according to the IPC sections listed in **Annex II** between Paris, Munich (mechanical engineering, section F) and Milan, which took the place of London after Brexit – the Administrative Committee was entitled to order this by applying Art. 87(2) UPCA by analogy (Roku/Dolby). The Registry is located at the Court of Appeal, keeps the public **register** and maintains sub-registries at all divisions (Art. 10 UPCA). Anyone coming from German infringement litigation must above all relearn one thing: before the UPC, **infringement and validity belong in one set of proceedings** – the table shows the main differences.",
+  "abschnitt": "Overview",
+  "_de": "e856a4fb79"
+ },
+ "gruppe:u01a-1": {
+  "titel": "Milan instead of London",
+  "sachverhalt": "Dolby sues Roku before the Munich Local Division. Roku lodges a Preliminary objection and invokes its right to a court established by law: Art. 7(2) UPCA names London and Munich as the sections of the central division. The Administrative Committee, it argues, could not put Milan in London's place by a mere decision.",
+  "_de": "acb112b3a2"
+ },
+ "einheit:u01a-1a": {
+  "titel": "Art. 87(2) UPCA by analogy",
+  "frage": "Was the Administrative Committee entitled to put Milan in London's place?",
+  "loesung": [
+   "**Yes!** Art. 87(2) UPCA allows the Administrative Committee to amend the Agreement to bring it into line with an international treaty relating to patents or with **Union law**. After Brexit, London could no longer host a section. The Court of Appeal applied the provision **by analogy** to this gap and upheld the Administrative Committee's decision of 26 June 2023 (Roku/Dolby)."
+  ],
+  "merke": "Milan is the third section of the central division, based on Art. 87(2) UPCA by analogy.",
+  "abschnitt": "Art. 7 UPCA: divisions and sections",
+  "_de": "5e24ba887e"
+ },
+ "einheit:u01a-1b": {
+  "titel": "Annex II: allocation by IPC",
+  "frage": "On what basis does the central division allocate its cases between Paris, Munich and Milan?",
+  "optionen": [
+   "The patent proprietor's domicile",
+   "The IPC class of the patent (Annex II UPCA, R. 17.3 RoP)",
+   "The claimant's choice",
+   "The language of the proceedings"
+  ],
+  "loesung": [
+   "The second answer is correct. **Annex II UPCA** assigns the central division's cases to the sections according to the **IPC class** of the patent; Munich, for example, is responsible for mechanical engineering (section F) and chemistry (section C), Milan for human necessities (section A without SPCs); the former London responsibilities are thus divided between Milan and Munich. The allocation follows R. 17.3 RoP. The claimant's choice, the parties' domicile and the language play no role."
+  ],
+  "abschnitt": "Art. 7 UPCA: divisions and sections",
+  "_de": "ab55b1db01"
+ },
+ "einheit:u01a-1c": {
+  "titel": "Objecting to the wrong section",
+  "frage": "Can the defendant still object to the wrong section in the Statement of defence?",
+  "loesung": [
+   "**No!** Which section is competent is a question of the **competence of the division** (Art. 33 UPCA). It is raised by a **Preliminary objection** under R. 19.1(b) RoP, which applies mutatis mutandis to revocation actions (R. 48 RoP); without a Preliminary objection, competence is deemed accepted (R. 19.7 RoP). A breach of Art. 47 CFR as such, by contrast, is not a ground for a Preliminary objection (Roku/Dolby)."
+  ],
+  "abwandlung": "A revocation action against a mechanical engineering patent is brought before the Paris section instead of Munich.",
+  "abschnitt": "Art. 7 UPCA: divisions and sections",
+  "_de": "e4a7c95c26"
+ },
+ "gruppe:u01a-2": {
+  "titel": "Who sits on the bench?",
+  "sachverhalt": "A-GmbH sues B-AG for patent infringement before the Düsseldorf Local Division. B-AG files a counterclaim for revocation. The division wants to hear both the infringement action and the counterclaim itself.",
+  "_de": "d08529fc0b"
+ },
+ "einheit:u01a-2a": {
+  "titel": "Local division: three lawyers",
+  "frage": "What is the basic composition of the panel of the Düsseldorf Local Division?",
+  "optionen": [
+   "Two legally qualified judges and one technically qualified judge",
+   "Three German career judges",
+   "Two German judges and one legally qualified judge from the pool of judges",
+   "A single judge"
+  ],
+  "loesung": [
+   "The third answer is correct. Panels of the Court of First Instance are **multinational** and consist of **three legally qualified judges** (Art. 8(1) UPCA). In local divisions with at least 50 cases a year, such as the German ones, two judges from the host state sit with one judge from the **pool of judges** (Art. 8(3), Art. 18 UPCA)."
+  ],
+  "abschnitt": "Art. 8, 9 UPCA: composition of the panels",
+  "_de": "5afd1d5611"
+ },
+ "einheit:u01a-2b": {
+  "titel": "Technical judge for the counterclaim",
+  "frage": "Can the division hear both actions without a technically qualified judge because the technology is simple?",
+  "loesung": [
+   "**No!** If the local division hears the infringement action and the counterclaim together (option (a) of Art. 33(3) UPCA), it must request the President of the Court of First Instance to allocate a **technically qualified judge** (R. 37.3 RoP). Without a counterclaim, such a judge is allocated at the request of a party (Art. 8(5) UPCA)."
+  ],
+  "merke": "Local division: three lawyers; a technical judge on request or when the counterclaim is heard together.",
+  "abschnitt": "Art. 8, 9 UPCA: composition of the panels",
+  "_de": "afaeac9599"
+ },
+ "einheit:u01a-2c": {
+  "titel": "Composition of the central division",
+  "frage": "Does the central division sit with a technically qualified judge from the outset?",
+  "loesung": [
+   "**Yes!** The central division decides with **two legally qualified judges and one technically qualified judge** (Art. 8(6) UPCA); no request is needed. The Court of Appeal decides with five judges, three legally and two technically qualified (Art. 9(1) UPCA)."
+  ],
+  "abwandlung": "Instead of the counterclaim, B-AG brings a stand-alone revocation action before the central division.",
+  "abschnitt": "Art. 8, 9 UPCA: composition of the panels",
+  "_de": "6d2e1e9a4a"
+ },
+ "einheit:u01a-2d": {
+  "titel": "Single judge only by agreement",
+  "frage": "Can the presiding judge assign the case to a single judge if only A-GmbH agrees?",
+  "loesung": [
+   "**No!** A decision by a **single judge** requires the agreement of **both parties** (Art. 8(7) UPCA); the Statement of claim should contain a corresponding statement (R. 13.1(j) RoP)."
+  ],
+  "abschnitt": "Art. 8, 9 UPCA: composition of the panels",
+  "_de": "53f0a1571b"
+ },
+ "kapitel:u01b": {
+  "titel": "Art. 20 to 24 UPCA: Union law and sources of law",
+  "_de": "72f33ad84a"
+ },
+ "einheit:u01b-0": {
+  "titel": "The hierarchy in Art. 24 UPCA",
+  "text": "The UPC is **not an EU institution**, but a court common to the Member States and part of their judicial system. It therefore applies Union law in its entirety and respects its **primacy** (Art. 20 UPCA), refers questions to the CJEU under Art. 267 TFEU – the Court of Appeal, as the court of last instance, is obliged to refer – and is bound by the CJEU's rulings (Art. 21 UPCA). The Contracting Member States are **jointly and severally** liable for infringements of Union law by the Court of Appeal (Art. 22 UPCA); acts of the Court are attributed to each Contracting Member State (Art. 23 UPCA). Art. 24(1) UPCA ranks the **sources of law**: (a) Union law, including Regulations 1257/2012 and 1260/2012, (b) the UPCA, (c) the EPC, (d) other international agreements binding on all Contracting Member States, (e) national law. Which national law applies is determined by the Union's conflict-of-law rules (Rome II), failing which by international or national private international law rules (Art. 24(2) UPCA). In practice: **acts of infringement** are laid down in the UPCA itself (Art. 25 to 30 UPCA), the **grounds for revocation** come from the EPC (Art. 65(2) UPCA in conjunction with Art. 138, 139 EPC), and the **right based on prior use** from national law (Art. 28 UPCA). And the **Enforcement Directive 2004/48/EC** is Union law: the Court of Appeal interprets Art. 62 UPCA and R. 211 RoP in the light of Art. 9(3) IPRED (NanoString/10x).",
+  "abschnitt": "Overview",
+  "_de": "c09a0c5a64"
+ },
+ "gruppe:u01b-1": {
+  "titel": "A fundamental rights complaint in the Preliminary objection",
+  "sachverhalt": "Dolby sues Roku before the Munich Local Division. Within one month, Roku lodges a Preliminary objection: the UPC is not a court of a Member State, and its jurisdiction infringes Art. 19 TEU and Art. 267 TFEU. In addition, the proceedings infringe its right to a fair trial (Art. 47 CFR, Art. 6 ECHR).",
+  "_de": "3fcaceb348"
+ },
+ "einheit:u01b-1a": {
+  "titel": "Validity of the jurisdiction rules",
+  "frage": "Can Roku argue in the Preliminary objection that the jurisdiction rules of the UPCA are incompatible with Union law?",
+  "loesung": [
+   "**Yes!** R. 19.1 RoP contains an **exhaustive list**: (a) jurisdiction of the Court, including the opt-out, (b) competence of the division, (c) language of the Statement of claim. The jurisdiction of the Court also covers the **validity of the jurisdiction rules** themselves, i.e. whether Art. 31, 32 UPCA in conjunction with Art. 71a ff. Brussels Ia Regulation are compatible with Union law (Roku/Dolby)."
+  ],
+  "abschnitt": "Art. 20 to 23 UPCA: primacy of Union law",
+  "_de": "f46fd469dd"
+ },
+ "einheit:u01b-1b": {
+  "titel": "Not a ground: Art. 47 CFR",
+  "frage": "Can the Preliminary objection be based on a breach of Art. 47 CFR as such?",
+  "loesung": [
+   "**No!** A breach of Art. 47 CFR or Art. 6 ECHR does not concern any of the three grounds in R. 19.1 RoP. A Preliminary objection based on it is **inadmissible** (Roku/Dolby)."
+  ],
+  "merke": "The Preliminary objection has three grounds; compatibility with Union law is a question of jurisdiction, a breach of fundamental rights as such is not.",
+  "abschnitt": "Art. 20 to 23 UPCA: primacy of Union law",
+  "_de": "b2d22a3d76"
+ },
+ "einheit:u01b-1c": {
+  "titel": "Art. 19 TEU, Art. 267 TFEU",
+  "frage": "Is the allocation of patent cases to the UPC compatible with Art. 19 TEU and Art. 267 TFEU?",
+  "loesung": [
+   "**Yes!** The UPC is a court common to the Member States, respects the primacy of Union law (Art. 20 UPCA) and refers questions to the CJEU under Art. 267 TFEU (Art. 21 UPCA); the Member States are liable for its infringements of Union law (Art. 22 UPCA). Art. 19 TEU and Art. 267 TFEU are not affected; to that extent, Roku's Preliminary objection is admissible but unfounded (Roku/Dolby)."
+  ],
+  "abschnitt": "Art. 20 to 23 UPCA: primacy of Union law",
+  "_de": "047dc98afc"
+ },
+ "gruppe:u01b-2": {
+  "titel": "Prior use in France",
+  "sachverhalt": "P-GmbH sues the French company V-SA before the Düsseldorf Local Division on a European patent for Germany, France and Italy. V-SA already used the invention at its plant near Lyon before the priority date.",
+  "_de": "b67c45d044"
+ },
+ "einheit:u01b-2a": {
+  "titel": "Art. 28 UPCA as a reference",
+  "frage": "Can V-SA rely on a right based on prior use before the UPC at all?",
+  "loesung": [
+   "**Yes!** Art. 28 UPCA refers to **national law**: any person who would have had a right based on prior use in a Contracting Member State if a national patent had been granted has the same right in respect of the European patent. National law is a source of law of the Court (Art. 24(1)(e) UPCA); Art. 28 UPCA is the express reference."
+  ],
+  "abschnitt": "Art. 24, 28 UPCA: national law as a source of law",
+  "_de": "43c26462a6"
+ },
+ "einheit:u01b-2b": {
+  "titel": "Law of the state of use",
+  "frage": "Does German law apply because the action was brought in Düsseldorf?",
+  "loesung": [
+   "**No!** The decisive law is that of the state **for which** the right based on prior use is claimed, here French law for France. The location of the local division plays no role."
+  ],
+  "abschnitt": "Art. 24, 28 UPCA: national law as a source of law",
+  "_de": "53e280495e"
+ },
+ "einheit:u01b-2c": {
+  "titel": "Territorial effect",
+  "frage": "Does V-SA's right based on prior use also bar an injunction for Germany and Italy?",
+  "loesung": [
+   "**No!** The right based on prior use is **territorially** limited. It applies only to France; for Germany and Italy an injunction remains possible."
+  ],
+  "merke": "Art. 28 UPCA is the gateway to national law: prior use is examined state by state.",
+  "abschnitt": "Art. 24, 28 UPCA: national law as a source of law",
+  "_de": "83b9c0b8e4"
+ },
+ "einheit:u01b-2d": {
+  "titel": "Raising it in the Statement of defence",
+  "frage": "Must V-SA already raise the right based on prior use in the Statement of defence?",
+  "loesung": [
+   "**Yes!** The Statement of defence contains the defendant's submissions; R. 24(g) RoP expressly mentions submissions on Art. 28 UPCA. Because of front-loading, raising it later is risky."
+  ],
+  "abschnitt": "Art. 24, 28 UPCA: national law as a source of law",
+  "_de": "b83eda21e7"
+ },
+ "kapitel:u01c": {
+  "titel": "Art. 83 and 32 UPCA, R. 5, 5A RoP: transitional period, opt-out, legacy cases",
+  "_de": "3f2d5abcd0"
+ },
+ "einheit:u01c-0": {
+  "titel": "Seven years of parallel jurisdiction",
+  "text": "For **Unitary Patents**, the UPC has exclusive jurisdiction from the outset; an opt-out is excluded (Art. 3 UPCA, Art. 3 UPReg). How a Unitary Patent comes into being – request for unitary effect within one month of the mention of grant, registration by the EPO under the UPR, renewal fees under the RFeesUPP – is covered in the last chapter of this course. For classic **European bundle patents** and SPCs, a **transitional period of seven years** from 1 June 2023 applies, which may be extended by up to seven further years: infringement and revocation actions may still be brought before national courts (Art. 83(1) and 83(5) UPCA), and pending national proceedings are not affected (Art. 83(2) UPCA). The proprietor or applicant can exclude the UPC's competence entirely (**opt-out**, Art. 83(3) UPCA, R. 5 RoP): application to the Registry by **all** proprietors, for all designated states, effective upon entry in the register – but only as long as no action has yet been brought before the UPC. Withdrawal of the opt-out (**opt-in**, Art. 83(4) UPCA, R. 5.7, 5.8 RoP) is excluded once a national action has been brought; there is no second opt-out (R. 5.10 RoP). The Registrar removes unauthorised opt-outs on application under **R. 5A RoP**; who the proprietor is is determined by R. 8.5 RoP according to the law of the respective state (Silimed/Polytech). The UPC's jurisdiction reaches back in time: **legacy cases** before 1 June 2023 are covered as long as the patent had not yet lapsed at the date of entry into force (Fives/REEL; Knaus Tabbert). And above it all stand the principles of the **Preamble to the RoP**: proportionality, flexibility, fairness and equity (points 2 to 5), an oral hearing within about one year and **complete submissions as early as possible** (point 7, front-loaded).",
+  "abschnitt": "Overview",
+  "_de": "3742bf647b"
+ },
+ "gruppe:u01c-1": {
+  "titel": "The opt-out by the wrong proprietor",
+  "sachverhalt": "S-Ltda. is entered in the national registers as proprietor of a European patent; it filed an opt-out in 2023. P-GmbH applies to the Registrar under R. 5A RoP for removal of the opt-out: it claims to have acquired the patent by contract and to be the true owner.",
+  "_de": "040700021d"
+ },
+ "einheit:u01c-1a": {
+  "titel": "Presumption from the register",
+  "frage": "Is P-GmbH's assertion that it is substantively entitled sufficient?",
+  "loesung": [
+   "**No!** The application under R. 5A RoP must be substantiated. Under R. 8.5 RoP, the proprietor is the person **entitled to be registered as proprietor** under the law of the respective state; there is a rebuttable **presumption** in favour of the registered person (R. 8.5(c) RoP). A mere assertion does not rebut it (Silimed/Polytech)."
+  ],
+  "abschnitt": "R. 5A RoP: unauthorised opt-out",
+  "_de": "9a5f8be596"
+ },
+ "einheit:u01c-1b": {
+  "titel": "Burden of substantiation under national law",
+  "frage": "What must P-GmbH show if S-Ltda. itself applied for the opt-out?",
+  "optionen": [
+   "That it has paid the purchase price for the patent",
+   "That under the relevant national law S-Ltda. was not entitled to be registered, but P-GmbH was",
+   "That the patent is not valid",
+   "That it has a legitimate interest in bringing an action before the UPC"
+  ],
+  "loesung": [
+   "The second answer is correct. Where the registered person and the person who applied for the opt-out are the same, the applicant must show that the registered person was **not entitled under national law** to be registered, but that the applicant was. Otherwise, it would have to show that it was itself registered when the opt-out was applied for (Silimed/Polytech)."
+  ],
+  "abschnitt": "R. 5A RoP: unauthorised opt-out",
+  "_de": "5ea75dd720"
+ },
+ "einheit:u01c-1c": {
+  "titel": "Review under R. 5A.3 RoP",
+  "frage": "Can P-GmbH have the Registrar's rejection reviewed?",
+  "loesung": [
+   "**Yes!** An application for review by the **President of the Court of Appeal** may be lodged against the Registrar's decision within **one month** (R. 5A.3 RoP). As long as the opt-out is on the register, the UPC lacks jurisdiction; this is raised by a Preliminary objection under R. 19.1(a) RoP."
+  ],
+  "merke": "Anyone who wants to remove someone else's opt-out must rebut the presumption from the register under national law.",
+  "abschnitt": "R. 5A RoP: unauthorised opt-out",
+  "_de": "6f384d6703"
+ },
+ "gruppe:u01c-2": {
+  "titel": "Opt-out one day too late",
+  "sachverhalt": "On 3 March, W-AG files an infringement action on its bundle patent with the Hamburg Local Division. On 4 March, it files an opt-out to keep a national action open; the Registry enters it. In its Preliminary objection, the defendant K-GmbH relies on the opt-out.",
+  "_de": "8c900ad792"
+ },
+ "einheit:u01c-2a": {
+  "titel": "Blocked by a UPC action",
+  "frage": "Does the action brought on 3 March block the opt-out of 4 March?",
+  "loesung": [
+   "**Yes!** An opt-out is only possible as long as **no action has yet been brought before the Court** (Art. 83(3) UPCA, first sentence; R. 5.6 RoP). The action was brought when the Statement of claim was filed on 3 March (R. 17.4 RoP). Entry by the Registry does not cure this; the Preliminary objection is unfounded."
+  ],
+  "abschnitt": "Art. 83(3) and 83(4) UPCA: opt-out and opt-in",
+  "_de": "611761ed76"
+ },
+ "einheit:u01c-2b": {
+  "titel": "Opt-in blocked",
+  "frage": "Can W-AG now withdraw the opt-out in order to sue before the UPC?",
+  "loesung": [
+   "**No!** Withdrawal of the opt-out (opt-in) is excluded once an action has been brought before a **national** court (Art. 83(4) UPCA, R. 5.8 RoP)."
+  ],
+  "abwandlung": "The patent has been validly opted out since 2023; in 2025, W-AG sued before the Düsseldorf Regional Court (Landgericht).",
+  "abschnitt": "Art. 83(3) and 83(4) UPCA: opt-out and opt-in",
+  "_de": "f699a217c0"
+ },
+ "einheit:u01c-2c": {
+  "titel": "No second opt-out",
+  "frage": "Can a proprietor file another opt-out after a valid opt-in?",
+  "loesung": [
+   "**No!** Once the opt-out has been withdrawn, a new opt-out is excluded (R. 5.10 RoP)."
+  ],
+  "merke": "A UPC action blocks the opt-out, a national action blocks the opt-in, and there is no second opt-out.",
+  "abschnitt": "Art. 83(3) and 83(4) UPCA: opt-out and opt-in",
+  "_de": "31e9e0efb6"
+ },
+ "gruppe:u01c-3": {
+  "titel": "Infringement before 1 June 2023",
+  "sachverhalt": "In 2022, a French court found that R-SAS had infringed the F group's European patent from 2018 to 2021 and was liable for damages in principle. The patent was still in force on 1 June 2023. In 2024, the F group brings an action before the UPC for the determination of the amount of damages.",
+  "_de": "710a767eb6"
+ },
+ "einheit:u01c-3a": {
+  "titel": "Action for the determination of damages",
+  "frage": "Is the stand-alone action for the determination of damages an infringement action within the meaning of Art. 32(1)(a) UPCA?",
+  "loesung": [
+   "**Yes!** Actions for infringement also include the stand-alone action for the **determination of damages** after a national court has found infringement and liability for damages in principle (Fives/REEL)."
+  ],
+  "abschnitt": "Art. 32 UPCA: legacy cases",
+  "_de": "f648dfb517"
+ },
+ "einheit:u01c-3b": {
+  "titel": "Legacy cases",
+  "frage": "Does the UPC have jurisdiction over acts of infringement committed before 1 June 2023?",
+  "loesung": [
+   "**Yes!** Its jurisdiction covers **acts of infringement before the entry into force**, provided the patent had not yet lapsed at that date. Art. 89 UPCA only governs entry into force, not the temporal scope of application (Fives/REEL; Knaus Tabbert)."
+  ],
+  "abschnitt": "Art. 32 UPCA: legacy cases",
+  "_de": "967fa59963"
+ },
+ "einheit:u01c-3c": {
+  "titel": "Applicable law",
+  "frage": "Does it follow from the UPC's jurisdiction that the UPCA applies as substantive law for the years 2018 to 2021?",
+  "loesung": [
+   "**No!** Jurisdiction and applicable law are two separate checkpoints. For the period before 1 June 2023, the substantive law and the **prohibition of retroactivity** must be examined separately under Art. 24 UPCA (Knaus Tabbert)."
+  ],
+  "merke": "The UPC has jurisdiction over legacy cases as long as the patent was still alive on 1 June 2023; which law applies is a separate question.",
+  "abschnitt": "Art. 32 UPCA: legacy cases",
+  "_de": "c84b75bca4"
+ },
+ "kapitel:u01e": {
+  "titel": "Preamble to the RoP and Art. 48 UPCA: front-loading and representation",
+  "_de": "534aba0ea3"
+ },
+ "einheit:u01e-0": {
+  "titel": "Fair, fast and complete",
+  "text": "The **Preamble to the RoP** sets out the principles: proportionality, flexibility, fairness and equity (points 2 to 5), an oral hearing within about one year and **complete submissions as early as possible** (point 7, front-loaded). This results in fixed time limits (R. 9 RoP), the need for leave for amendments of the claim (R. 263 RoP) and the obligation to set out all facts and evidence already in the Statement of claim and the counterclaim. Representation is **mandatory** before the UPC (Art. 48 UPCA, R. 8.1 RoP): lawyers authorised to practise before a court of a Contracting Member State, or European patent attorneys with an additional qualification.",
+  "abschnitt": "Overview",
+  "_de": "14a248619a"
+ },
+ "gruppe:u01e-1": {
+  "titel": "Front-loaded",
+  "sachverhalt": "bioMérieux and Labrador are litigating infringement and validity of the same patent in parallel. In the revocation proceedings, the time limit for the statement of grounds of appeal expires earlier than in the infringement proceedings. Labrador applies under R. 9.3(a) RoP for the two time limits to be aligned.",
+  "_de": "b03859998c"
+ },
+ "einheit:u01e-1a": {
+  "titel": "No alignment of parallel time limits",
+  "frage": "Does the wish for parallel time limits justify an extension?",
+  "loesung": [
+   "**No!** Given the strict regime of time limits, an extension under R. 9.3(a) RoP is to be granted **with restraint** and only in **exceptional circumstances**. Aligning parallel time limits is not justified where more efficient means, such as hearing the cases together (R. 220.5 RoP), are available (bioMérieux/Labrador)."
+  ],
+  "abschnitt": "Preamble to the RoP, point 7: front-loading",
+  "_de": "0de1d470a2"
+ },
+ "einheit:u01e-1b": {
+  "titel": "Late attacks need leave",
+  "frage": "Can a party freely add new attacks later if they are decisive for the outcome?",
+  "loesung": [
+   "**No!** New attacks are amendments of the claim and may only be allowed if they **could not have been made earlier with reasonable diligence** and do not unreasonably hinder the other party (R. 263.2 RoP; VMR/NJOY). The Statement of claim and the counterclaim must already contain all facts and evidence (R. 13.1 RoP, R. 25.1 RoP)."
+  ],
+  "abwandlung": "On appeal, Labrador wants to introduce a new prior art document that it already knew at first instance.",
+  "abschnitt": "Preamble to the RoP, point 7: front-loading",
+  "_de": "231f30644a"
+ },
+ "einheit:u01e-1c": {
+  "titel": "No mandatory preclusion",
+  "frage": "Is it within the Court's discretion to disregard late submissions?",
+  "loesung": [
+   "**Yes!** R. 9.2 RoP leaves it to the Court's **discretion** to disregard late submissions. Proportionality and fairness (Preamble points 3 and 5; Art. 42 UPCA) may allow new arguments, for example on common general knowledge in response to the defence (VMR/NJOY)."
+  ],
+  "merke": "Front-loaded means: everything goes into the first pleading; extending a time limit is the exception, and fairness remains the corrective.",
+  "abschnitt": "Preamble to the RoP, point 7: front-loading",
+  "_de": "0f82cdaf7d"
+ },
+ "gruppe:u01e-2": {
+  "titel": "The managing director as representative",
+  "sachverhalt": "The Finnish company S-Oy sues M-Corp. before the UPC. It is represented by Mr L, a European patent attorney holding a European Patent Litigation Certificate. L is also the managing director of S-Oy and holds the majority of its shares.",
+  "_de": "c0e6cee2a4"
+ },
+ "einheit:u01e-2a": {
+  "titel": "Qualification",
+  "frage": "Does L have the qualification required to represent parties before the UPC?",
+  "loesung": [
+   "**Yes!** Parties may be represented by lawyers authorised to practise before a court of a Contracting Member State (Art. 48(1) UPCA) and by European patent attorneys with the appropriate qualification, such as the **EPLC** (Art. 48(2) UPCA). Mandatory representation is laid down in R. 8.1 RoP."
+  ],
+  "abschnitt": "Art. 48 UPCA: representation",
+  "_de": "1cdd9f7605"
+ },
+ "einheit:u01e-2b": {
+  "titel": "A corporate officer as representative",
+  "frage": "May L represent S-Oy despite his qualification?",
+  "loesung": [
+   "**No!** Representation is meant to ensure **sufficient distance** from the party. **Officers** of a legal person and persons with extensive administrative and financial powers, for example through a management position or a substantial shareholding, may not represent it, even if they are qualified (Suinno/Microsoft)."
+  ],
+  "merke": "Qualification is not enough: whoever manages or controls the party may not represent it.",
+  "abschnitt": "Art. 48 UPCA: representation",
+  "_de": "9687a54702"
+ },
+ "einheit:u01e-2c": {
+  "titel": "Employed attorney",
+  "frage": "May L represent S-Oy if he is merely an employed patent attorney of S-Oy?",
+  "loesung": [
+   "**Yes!** Mere **employment** by the party does not impair independence, as long as the representative acts as an independent adviser in accordance with the Code of Conduct (Suinno/Microsoft)."
+  ],
+  "abwandlung": "L is neither managing director nor shareholder, but an employed patent attorney in S-Oy's legal department.",
+  "abschnitt": "Art. 48 UPCA: representation",
+  "_de": "ec6eba0e7f"
+ },
+ "einheit:u01e-2d": {
+  "titel": "Exception: Art. 48(7) UPCA",
+  "frage": "Does mandatory representation also apply to actions against decisions of the EPO concerning the Unitary Patent?",
+  "loesung": [
+   "**No!** Art. 48(7) UPCA exempts proceedings under Art. 32(1)(i) UPCA, i.e. actions against decisions of the EPO, from mandatory representation; representation under Art. 48(1) and 48(2) UPCA is not required there."
+  ],
+  "abschnitt": "Art. 48 UPCA: representation",
+  "_de": "560396ae4a"
+ },
+ "kapitel:u01d": {
+  "titel": "UPReg, TranslReg, UPR: the Unitary Patent",
+  "_de": "8ee4cc608e"
+ },
+ "einheit:u01d-0": {
+  "titel": "Four texts and a set of guidelines",
+  "text": "The **European patent with unitary effect** (“Unitary Patent”) is not a new IP right under the EPC, but a European patent granted by the EPO under the EPC to which **unitary effect** in the participating Member States is attributed at the proprietor's request. Its legal basis is two EU regulations adopted under **enhanced cooperation** among 25 Member States (all except Spain and Croatia): **Regulation (EU) No 1257/2012** (UPReg) creates the Unitary Patent and entrusts its administration to the EPO (Art. 9 UPReg, Art. 143 EPC); **Regulation (EU) No 1260/2012** (TranslReg) governs translations. Both have applied since **1 June 2023**, the date of entry into force of the UPCA (Art. 18 UPReg). The procedure before the EPO has been laid down by the **Select Committee** of the Administrative Council (Art. 145 EPC) in the **Rules relating to Unitary Patent Protection** (UPR: R. 1 to 24 UPR) and the **Rules relating to Fees** (RFeesUPP, Art. 1 to 7 RFeesUPP); the practice of the Unitary Patent Protection Division is described in the EPO's **UP Guidelines** (April 2026 edition, in force since 1 April 2026, OJ EPO 2026, A6), issued under R. 3 UPR. The key features: the Unitary Patent has a **unitary character** – the same effect in all states; limitation, transfer, revocation and lapse only in respect of all of them together; licences also for parts of the territory (Art. 3(2) UPReg). It takes effect **retroactively on the date of the mention of grant** (Art. 4(1) UPReg). Substantive infringement law is not contained in the Regulation: Art. 5(3) UPReg refers to the national law of the state determined under Art. 7 UPReg – and for all Contracting Member States that means **Art. 25 to 30 UPCA**. The UPC has exclusive jurisdiction over Unitary Patents from the outset; there is no opt-out. The table compares the Unitary Patent with the bundle patent.",
+  "abschnitt": "Overview",
+  "_de": "78778289be"
+ },
+ "einheit:u01d-4": {
+  "titel": "Examination scheme: request for unitary effect",
+  "text": "Five stages: entitlement (R. 5(2) UPR); the request with its time limit, form, translation and compensation (R. 6, 9 UPR); examination and registration by the Unitary Patent Protection Division (R. 7 UPR); the remedy before the UPC (R. 23, 24 UPR, R. 97 RoP); and administration afterwards: renewal fees, licences of right, register.",
+  "abschnitt": "Overview",
+  "_de": "9af29d5027"
+ },
+ "gruppe:u01d-1": {
+  "titel": "Romania and the second generation",
+  "sachverhalt": "A-AG had its European patent registered as a Unitary Patent on 15 July 2024. The UPCA entered into force for Romania on 1 September 2024. Since 2025, a competitor has been selling the patented device in Bucharest only.",
+  "_de": "d2a6cf9d82"
+ },
+ "einheit:u01d-1a": {
+  "titel": "The map on the date of registration",
+  "frage": "Does A-AG's Unitary Patent remain limited to the 17 states of its date of registration?",
+  "loesung": [
+   "**Yes!** A Unitary Patent only has effect in the states in which the UPCA was in force **on the date of registration** (Art. 18(2) UPReg). Each later ratification creates a new **generation**: Unitary Patents registered from 1 September 2024 apply in 18 states, earlier ones remain at 17 (UP Guidelines 1.5). The territorial scope is shown in the register (R. 16(1)(g) UPR)."
+  ],
+  "abschnitt": "Art. 18 UPReg: generations",
+  "_de": "d8f60a0f15"
+ },
+ "einheit:u01d-1b": {
+  "titel": "No extension",
+  "frage": "Can A-AG request the effect for Romania subsequently?",
+  "loesung": [
+   "**No!** The territorial scope is neither extended, nor can it be requested subsequently. For Romania, A-AG would have had to validate in the classic way. Ahead of an announced accession, a **delay in registration** can be requested (OJ EPO 2024, A61); the one-month time limit for the request runs nonetheless."
+  ],
+  "merke": "Every Unitary Patent keeps the map of its date of registration.",
+  "abschnitt": "Art. 18 UPReg: generations",
+  "_de": "ad5fb263ab"
+ },
+ "einheit:u01d-1c": {
+  "titel": "Granted for 25, effective in 18",
+  "frage": "Must the patent be granted for all 25 states of the enhanced cooperation, even though it only has effect in 18?",
+  "loesung": [
+   "**Yes!** Entitlement and effect must be kept apart: the patent must be granted with the same claims for all **25** participating Member States (R. 5(2)(a) UPR), but it can only have effect in the **18** states that have currently ratified the UPCA."
+  ],
+  "abschnitt": "Art. 18 UPReg: generations",
+  "_de": "08ef064ccc"
+ },
+ "gruppe:u01d-2": {
+  "titel": "Malta is missing",
+  "sachverhalt": "B-GmbH filed a European patent application in 2006. In 2025, a patent is granted on a divisional application, designating all states that could be designated at the time. Malta, which only acceded to the EPC on 1 March 2007, is not designated. B-GmbH requests unitary effect in due time.",
+  "_de": "fcba906de3"
+ },
+ "einheit:u01d-2a": {
+  "titel": "Granted for all 25",
+  "frage": "Can unitary effect be registered for the patent?",
+  "loesung": [
+   "**No!** Only a patent granted **with the same set of claims in respect of all participating Member States** has unitary effect (Art. 3(1) UPReg, R. 5(2)(a) UPR). Malta is a participating state (Art. 2(a) UPReg), but could not be designated for a filing date before 1 March 2007 (UP Guidelines 2.1)."
+  ],
+  "abschnitt": "Art. 3 UPReg, R. 5 UPR: entitlement",
+  "_de": "9a2fd14bbd"
+ },
+ "einheit:u01d-2b": {
+  "titel": "Right to be heard before the EPO",
+  "frage": "Must the EPO hear B-GmbH before rejecting the request?",
+  "loesung": [
+   "**Yes!** The Unitary Patent Protection Division communicates the intended rejection and gives the opportunity to comment (R. 7(2) UPR, Art. 113(1) EPC). Only then does it reject the request."
+  ],
+  "abschnitt": "Art. 3 UPReg, R. 5 UPR: entitlement",
+  "_de": "a62239a39c"
+ },
+ "einheit:u01d-2c": {
+  "titel": "Way out: validation",
+  "frage": "Which route remains open to B-GmbH after the rejection?",
+  "optionen": [
+   "A second request for unitary effect without Malta",
+   "A subsequent designation of Malta at the EPO",
+   "Classic validation in the desired states",
+   "An appeal to the Enlarged Board of Appeal"
+  ],
+  "loesung": [
+   "The third answer is correct. An application to the UPC under R. 97 RoP lies against the rejection within three weeks, but here it is hopeless on the merits. In practice, what remains is **classic validation**; the time limits for it continue to run from the mention of grant."
+  ],
+  "abschnitt": "Art. 3 UPReg, R. 5 UPR: entitlement",
+  "_de": "78296d12b6"
+ },
+ "gruppe:u01d-5": {
+  "titel": "One day too late",
+  "sachverhalt": "The mention of the grant of D-SE's patent is published on 5 March. Because of a transcription error, the law firm records 6 April as the time limit for the request for unitary effect; the request is received on that day. Otherwise, the time limit monitoring works flawlessly with a four-eyes principle.",
+  "_de": "4939cde00e"
+ },
+ "einheit:u01d-5a": {
+  "titel": "One-month time limit",
+  "frage": "Is the request in time?",
+  "loesung": [
+   "**No!** The request must be filed no later than **one month** after publication of the mention of grant (R. 6(1) UPR), here by 5 April. The time limit cannot be extended."
+  ],
+  "abschnitt": "R. 6, 22 UPR: time limit and re-establishment of rights",
+  "_de": "655d1ce92e"
+ },
+ "einheit:u01d-5b": {
+  "titel": "Time limit for re-establishment",
+  "frage": "Can D-SE apply for re-establishment of rights on 20 May?",
+  "loesung": [
+   "**Yes!** The time limit under R. 6(1) UPR is open to re-establishment of rights. The request must be filed within **two months of expiry of the missed time limit**, irrespective of when the cause of non-compliance was removed (R. 22(2) UPR); 20 May falls within that period. The request for unitary effect must be completed within the time limit for the application (R. 22(3) UPR), and the application for re-establishment is deemed filed only once the fee for re-establishment has been paid (R. 22(2) UPR, Art. 2(2) RFeesUPP)."
+  ],
+  "abschnitt": "R. 6, 22 UPR: time limit and re-establishment of rights",
+  "_de": "6499b9864f"
+ },
+ "einheit:u01d-5c": {
+  "titel": "Due care",
+  "frage": "Did D-SE exercise the required due care?",
+  "loesung": [
+   "**Yes!** The standard of Art. 122 EPC applies: all due care required by the circumstances. An **isolated mistake** in an otherwise well-functioning system for monitoring time limits is excusable (UP Guidelines 5.3)."
+  ],
+  "abschnitt": "R. 6, 22 UPR: time limit and re-establishment of rights",
+  "_de": "b3d5b7bbec"
+ },
+ "einheit:u01d-5d": {
+  "titel": "Excluded for R. 7(3) UPR",
+  "frage": "Is re-establishment also available for the one-month time limit for correcting formal deficiencies under R. 7(3) UPR?",
+  "loesung": [
+   "**No!** The time limit for correcting deficiencies under R. 7(3) UPR is excluded from re-establishment (R. 22(6) UPR; Bodycap/EPO), as is the time limit for re-establishment itself. Further processing (R. 135 EPC) does not exist in the Unitary Patent procedure."
+  ],
+  "merke": "One-month time limit missed: re-establishment within two months of expiry; never for the time limit for correcting deficiencies.",
+  "abschnitt": "R. 6, 22 UPR: time limit and re-establishment of rights",
+  "_de": "6d11903bf5"
+ },
+ "gruppe:u01d-6": {
+  "titel": "The third co-proprietor",
+  "sachverhalt": "Three co-proprietors request unitary effect. Under R. 7(3) UPR, the EPO objects to the address of one co-proprietor and sets a one-month time limit; the representative replies too late. The EPO rejects the request. The co-proprietors turn to the UPC.",
+  "_de": "34f2e2d308"
+ },
+ "einheit:u01d-6a": {
+  "titel": "R. 97 RoP instead of R. 88 RoP",
+  "frage": "Is the correct remedy the action under R. 88 RoP with its two-month time limit?",
+  "loesung": [
+   "**No!** Against the rejection of a request for unitary effect, the application under **R. 97 RoP** lies: a three-week time limit, forwarding to the standing judge, decision within three weeks (R. 97.4 RoP). All other decisions of the Division are challenged under R. 88 RoP within two months."
+  ],
+  "abschnitt": "R. 97 RoP: action against the rejection",
+  "_de": "f00f68d597"
+ },
+ "einheit:u01d-6b": {
+  "titel": "No interlocutory revision",
+  "frage": "Must the EPO decide on interlocutory revision before the UPC decides?",
+  "loesung": [
+   "**No!** Interlocutory revision (R. 24 UPR, R. 91 RoP) is excluded for expedited proceedings under **R. 85.2 RoP**. The procedure under R. 97 RoP is such a proceeding; R. 97 RoP is lex specialis and does not provide for interlocutory revision (Bodycap/EPO)."
+  ],
+  "merke": "R. 97 RoP: three weeks, standing judge, no interlocutory revision by the EPO.",
+  "abschnitt": "R. 97 RoP: action against the rejection",
+  "_de": "da0f25c688"
+ },
+ "einheit:u01d-6c": {
+  "titel": "Mandatory time limit for deficiencies",
+  "frage": "Does the rejection stand on the merits?",
+  "loesung": [
+   "**Yes!** The time limit under R. 7(3) UPR cannot be extended and is excluded from re-establishment (R. 22(6) UPR); the Court of Appeal has confirmed it as mandatory. The central division has jurisdiction; representation is not mandatory (Art. 48(7) UPCA)."
+  ],
+  "abschnitt": "R. 97 RoP: action against the rejection",
+  "_de": "1e70d49871"
+ },
+ "gruppe:u01d-7": {
+  "titel": "Which translation?",
+  "sachverhalt": "E-AG's European patent was granted with German as the language of the proceedings. In 2026, E-AG requests unitary effect.",
+  "_de": "ce63271bd0"
+ },
+ "einheit:u01d-7a": {
+  "titel": "Translation into English",
+  "frage": "Which translation must E-AG file with the request?",
+  "optionen": [
+   "A translation of the claims into English and French",
+   "A full translation of the patent specification into English",
+   "Translations into the official languages of all 18 states",
+   "No translation"
+  ],
+  "loesung": [
+   "The second answer is correct. During the **transitional period** (Art. 6(3) to 6(5) TranslReg), where the language of the proceedings is German or French, a **full translation into English** must be filed; where it is English, a translation into another official language of the EU (Art. 6(1) TranslReg). It forms part of the request (R. 6(2)(d) UPR)."
+  ],
+  "abschnitt": "Art. 3, 4, 6 TranslReg: translations",
+  "_de": "ca9be76eba"
+ },
+ "einheit:u01d-7b": {
+  "titel": "For information only",
+  "frage": "Does this translation help determine the scope of protection?",
+  "loesung": [
+   "**No!** The translation serves **information purposes only** and has **no legal effect** (Art. 6(2) TranslReg). The EPO does not examine it but publishes it (R. 18 UPR). The principle remains Art. 3 TranslReg: once the patent specification has been published, no further translations are required."
+  ],
+  "abschnitt": "Art. 3, 4, 6 TranslReg: translations",
+  "_de": "18c227253e"
+ },
+ "einheit:u01d-7c": {
+  "titel": "Translation in the event of a dispute",
+  "frage": "In the event of a dispute, must E-AG provide a translation at the request of the alleged infringer?",
+  "loesung": [
+   "**Yes!** At the request of the alleged infringer, the proprietor must provide a translation into an official language of the state of the infringement or of the infringer's domicile and, at the request of the court, into the language of its proceedings, at the proprietor's own expense (Art. 4 TranslReg). For SMEs and natural persons, the court takes into account their good faith before they received the translation when assessing damages (Art. 4(4) TranslReg)."
+  ],
+  "abwandlung": "In 2027, E-AG sends a Polish SME a warning letter alleging infringement.",
+  "abschnitt": "Art. 3, 4, 6 TranslReg: translations",
+  "_de": "576400c6ad"
+ },
+ "gruppe:u01d-8": {
+  "titel": "EUR 500 for Valencia",
+  "sachverhalt": "F-S.L., a small company from Valencia, filed its European patent application in Spanish. After grant, it requests unitary effect and, at the same time, compensation for translation costs.",
+  "_de": "96701fead1"
+ },
+ "einheit:u01d-8a": {
+  "titel": "An EU seat is sufficient",
+  "frage": "Is the seat in Spain sufficient, even though Spain does not participate in the enhanced cooperation?",
+  "loesung": [
+   "**Yes!** Compensation is available where the application was filed in an **official EU language other than German, English or French** (R. 8(1) UPR) and all proprietors are natural persons, **SMEs**, universities or similar entities **with their residence or principal place of business in an EU Member State** (R. 8(2) UPR). Whether that state participates in the system is irrelevant (UP Guidelines 4.1.1)."
+  ],
+  "abschnitt": "Art. 5 TranslReg, R. 8 to 11 UPR: compensation",
+  "_de": "92ca41f8cb"
+ },
+ "einheit:u01d-8b": {
+  "titel": "EUR 500 lump sum",
+  "frage": "Does the fee reduction under R. 7a EPC exclude compensation?",
+  "loesung": [
+   "**No!** Compensation is granted in addition to the reduction under R. 7a EPC. The **lump sum of EUR 500** (R. 11 UPR, Art. 4(1) RFeesUPP) is granted after registration of unitary effect and is irrevocable thereafter (R. 10(1) and 10(2) UPR)."
+  ],
+  "abschnitt": "Art. 5 TranslReg, R. 8 to 11 UPR: compensation",
+  "_de": "bc5e7847c2"
+ },
+ "einheit:u01d-8c": {
+  "titel": "Acquired from a large company",
+  "frage": "Can F-S.L. keep the compensation if it acquired the application from a large company?",
+  "loesung": [
+   "**No!** In that case, both the original applicant and the new proprietor must meet the criteria (R. 8(4) UPR). An incorrect declaration leads to repayment plus a 50 % administrative fee, failing which the patent lapses (R. 10(4), R. 14 UPR)."
+  ],
+  "merke": "Compensation: EU seat, small applicant, application not in German, English or French.",
+  "abwandlung": "Before the request, F-S.L. acquired the application from a large Spanish company.",
+  "abschnitt": "Art. 5 TranslReg, R. 8 to 11 UPR: compensation",
+  "_de": "73334cdd23"
+ },
+ "gruppe:u01d-3": {
+  "titel": "Whose law governs the pledge?",
+  "sachverhalt": "C-Inc. from Boston filed its European patent application in 2021, without any place of business in Europe. In 2025, the patent is registered as a Unitary Patent. C-Inc. wants to pledge it as security for a loan.",
+  "_de": "cc9be51e83"
+ },
+ "einheit:u01d-3a": {
+  "titel": "Conflict rule instead of substantive law",
+  "frage": "Does the UPReg refer to a national law for the Unitary Patent as an object of property?",
+  "loesung": [
+   "**Yes!** The UPReg contains no property law of its own, but a **conflict-of-law rule**: the Unitary Patent is treated in its entirety as a national patent of the state in which the applicant had its residence or principal place of business **on the filing date** (Art. 7(1)(a) UPReg), failing that a place of business (Art. 7(1)(b) UPReg)."
+  ],
+  "abschnitt": "Art. 7 UPReg: the patent as an object of property",
+  "_de": "38a02e6929"
+ },
+ "einheit:u01d-3b": {
+  "titel": "Default rule: German law",
+  "frage": "Is the pledge governed by German law?",
+  "loesung": [
+   "**Yes!** If there is no residence or place of business in a participating state, the law of the state where the European Patent Organisation has its headquarters applies, i.e. **German law** (Art. 7(3) UPReg): §§ 1273 ff. BGB. The pledge is entered in the Register for unitary patent protection (R. 16(1)(j) UPR)."
+  ],
+  "abschnitt": "Art. 7 UPReg: the patent as an object of property",
+  "_de": "0dc8c689c0"
+ },
+ "einheit:u01d-3c": {
+  "titel": "Infringement: UPCA",
+  "frage": "Does Art. 7 UPReg also apply to the question whether a competitor infringes the patent?",
+  "loesung": [
+   "**No!** Art. 7 UPReg concerns the patent as an object of property. For infringement and remedies, the **UPCA** applies via Art. 5(3) UPReg (Art. 25 to 30 UPCA)."
+  ],
+  "merke": "Art. 7 UPReg: residence or place of business on the filing date decides, otherwise German law.",
+  "abschnitt": "Art. 7 UPReg: the patent as an object of property",
+  "_de": "9c86df9e22"
+ }
+}

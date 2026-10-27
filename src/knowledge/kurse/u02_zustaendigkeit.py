@@ -5,7 +5,7 @@ from ._helpers import intro, schema, frage, fallkette
 
 KURS = dict(
     id="u02", gebiet="upc", kompakt="fragen", titel="Zuständigkeit und Kammerwahl",
-    untertitel="Art. 31 EPGÜ mit der Brüssel-Ia-VO, Art. 33 EPGÜ mit dieselben Parteien und den drei Optionen bei der Widerklage, der Einspruch nach R. 19 bis 21 VerfO und R. 333 VerfO",
+    untertitel="Art. 31 EPGÜ mit der Brüssel-Ia-VO, Art. 33 EPGÜ mit „denselben Parteien“ und den drei Optionen bei der Widerklage, der Einspruch nach R. 19 bis 21 VerfO und R. 333 VerfO",
     farbe="#6a3d8f", icon="zulaessigkeit",
     beschreibung="Vier Stufen der Zuständigkeitsprüfung vor dem EPG: internationale Zuständigkeit nach der Brüssel-Ia-VO (Sinocare/Abbott, Dyson/Dreame, NUC/Hurom), sachliche Zuständigkeit nach Art. 32 EPGÜ, die richtige Kammer nach Art. 33 EPGÜ (Barco/Yealink, Meril/Edwards, Seoul Viosys/Emporia, Pari/Philips) und die Rüge durch den Einspruch (Roku/Dolby, Vivo/Sun Patent, Sun Patent/Vivo, Netgear/Huawei).",
     kapitel=[
@@ -25,7 +25,7 @@ KURS = dict(
                        optionen=["Nach dem EPGÜ allein", "Nach der Brüssel-Ia-VO (Art. 31 EPGÜ)",
                                  "Nach der Zivilprozessordnung des Staates, in dem die Kammer sitzt", "Nach dem EPÜ"],
                        titel="Verweis auf die Brüssel-Ia-VO"),
-                 frage("Kann das EPG die A-Ltd. verklagen, obwohl sie keinen Sitz in einem Mitgliedstaat hat?", True,
+                 frage("Kann die A-Ltd. vor dem EPG verklagt werden, obwohl sie keinen Sitz in einem Mitgliedstaat hat?", True,
                        ["**Ja!** Gegen Beklagte ohne Sitz in einem Mitgliedstaat ist das EPG zuständig, wenn der **Schadensort** im Gebiet der Vertragsmitgliedstaaten liegt (Art. 71b Nr. 2 Brüssel-Ia-VO i.V.m. Art. 7 Nr. 2 Brüssel-Ia-VO). Auf den Sitz kommt es dann nicht an."],
                        titel="Drittstaatenbeklagter"),
                  frage("Liegt der Schadensort in Deutschland, obwohl die A-Ltd. selbst nur in Asien handelt?", True,

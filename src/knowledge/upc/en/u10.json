@@ -1,0 +1,398 @@
+{
+ "kurs:u10": {
+  "titel": "UPCA and the Enforcement Directive: one directive, three statutes",
+  "untertitel": "Why Art. 59 to 69 and 80 UPCA have the same structure as §§ 139 to 140e PatG and §§ 18 to 19c MarkenG",
+  "beschreibung": "The Enforcement Directive 2004/48/EC (IPRED) is the common denominator: order to produce evidence, order to preserve evidence, information, provisional measures, corrective measures, injunction, damages, costs and publication are found in the UPCA (Art. 59 to 69, 80 UPCA), in the PatG (§§ 139 to 140e PatG) and in the MarkenG (§§ 14, 18 to 19c MarkenG). The course shows the correspondences and how the Court of Appeal interprets the UPCA in conformity with the directive: sufficient degree of certainty (NanoString/10x), preservation of evidence (Centripetal/Palo Alto), intermediaries and the notion of infringer (Belkin/Philips), information (Hurom/NUC), cost ceilings and damages without punitive character.",
+  "_de": "84f78b7ac4"
+ },
+ "kapitel:u10a": {
+  "titel": "Art. 60, 62, 63 and 67 UPCA ↔ Art. 7, 8, 9, 11 IPRED: evidence, interim relief, injunction, information",
+  "_de": "a4a2904abf"
+ },
+ "einheit:u10a-0": {
+  "titel": "One directive, three statutes",
+  "text": "The **Enforcement Directive 2004/48/EC** obliges the Member States to provide the same measures, procedures and remedies for all intellectual property rights: order to produce evidence (Art. 6 IPRED), order to preserve evidence (Art. 7 IPRED), information (Art. 8 IPRED), provisional measures (Art. 9 IPRED), corrective measures (Art. 10 IPRED), injunctions including against intermediaries (Art. 11 IPRED), damages (Art. 13 IPRED), legal costs (Art. 14 IPRED) and publication (Art. 15 IPRED) – all fair, effective, proportionate and dissuasive (Art. 3 IPRED). Germany transposed it in 2008 by the Enforcement Act, an omnibus act: in the PatG as §§ 139 to 140e PatG, in the MarkenG as §§ 14, 18, 19 to 19c MarkenG. The **UPCA** implements the same directive for the common court, in its part on the powers of the Court: **Art. 59 UPCA ↔ Art. 6 IPRED** (order to produce evidence), **Art. 60 UPCA ↔ Art. 7 IPRED** (preservation of evidence and inspection), **Art. 67 UPCA ↔ Art. 8 IPRED** (information), **Art. 62 UPCA ↔ Art. 9 IPRED** (provisional measures), **Art. 64 UPCA ↔ Art. 10 IPRED** (recall, removal, destruction), **Art. 63 UPCA ↔ Art. 11 IPRED** (injunction, intermediaries), **Art. 68 UPCA ↔ Art. 13 IPRED** (damages), **Art. 69 UPCA ↔ Art. 14 IPRED** (costs), **Art. 80 UPCA ↔ Art. 15 IPRED** (publication). Because the UPC, as a court common to the Member States, is bound by Union law (the second sentence of Art. 1 UPCA, Art. 20 UPCA) and the directive is a primary source of law under Art. 24(1)(a) UPCA, the Court of Appeal interprets the provisions of the UPCA **in conformity with the directive** and draws on the CJEU's case law on the directive. The table shows the correspondence article by article, with the rules of the RoP and the German parallel provisions. For the exam this means: if you know § 140b PatG or § 19 MarkenG, you know Art. 67 UPCA; the differences lie in the procedure (the court's discretion, application, R. 191 RoP), not in the structure.",
+  "_de": "75b55096a4"
+ },
+ "gruppe:u10a-1": {
+  "titel": "How certain is sufficiently certain?",
+  "sachverhalt": "10x Genomics applies for provisional measures against NanoString based on a Unitary Patent. The local division considers entitlement and infringement more likely than not and grants the order. NanoString appeals.",
+  "_de": "182d7784bf"
+ },
+ "einheit:u10a-1a": {
+  "titel": "Standard of proof",
+  "frage": "Is it sufficient that the court considers entitlement and infringement more likely than not?",
+  "loesung": [
+   "**Yes!** Art. 62(4) UPCA and R. 211.2 RoP require a **sufficient degree of certainty**. It exists if the court considers entitlement and infringement **more likely than not** (UPC CoA NanoString/10x)."
+  ],
+  "merke": "Sufficient degree of certainty = more likely than not (NanoString/10x).",
+  "abschnitt": "Art. 62 UPCA ↔ Art. 9 IPRED: provisional measures",
+  "_de": "c4c5752cb1"
+ },
+ "einheit:u10a-1b": {
+  "titel": "Interpretation in conformity with the directive",
+  "frage": "From what does the Court of Appeal derive this standard?",
+  "optionen": [
+   "From Art. 9(3) IPRED",
+   "From § 294 ZPO",
+   "From EPO practice"
+  ],
+  "loesung": [
+   "It interprets Art. 62(4) UPCA **in conformity with the directive**: under Art. 9(3) IPRED, the applicant must show “with a sufficient degree of certainty” that it is the rightholder and that its right is being infringed (UPC CoA NanoString/10x)."
+  ],
+  "abschnitt": "Art. 62 UPCA ↔ Art. 9 IPRED: provisional measures",
+  "_de": "08b48f6165"
+ },
+ "einheit:u10a-1c": {
+  "titel": "Validity",
+  "frage": "Is a sufficient degree of certainty lacking as soon as the patent may be invalid?",
+  "loesung": [
+   "**No!** It is only lacking if the court considers it **more likely than not** that the patent is invalid (UPC CoA NanoString/10x)."
+  ],
+  "abschnitt": "Art. 62 UPCA ↔ Art. 9 IPRED: provisional measures",
+  "_de": "4d9864eb86"
+ },
+ "einheit:u10a-1d": {
+  "titel": "Burden of proof",
+  "frage": "Who bears the burden of presentation and proof for invalidity?",
+  "optionen": [
+   "10x Genomics",
+   "NanoString",
+   "The court of its own motion"
+  ],
+  "loesung": [
+   "For entitlement and infringement the applicant bears it; for **invalidity, the defendant** does (UPC CoA NanoString/10x)."
+  ],
+  "abschnitt": "Art. 62 UPCA ↔ Art. 9 IPRED: provisional measures",
+  "_de": "52b011e293"
+ },
+ "einheit:u10a-1e": {
+  "titel": "Counterbalance",
+  "frage": "How do the RoP counterbalance the lower standard of proof?",
+  "optionen": [
+   "With balancing, urgency, security and compensation upon revocation",
+   "With a second instance on the facts",
+   "Not at all"
+  ],
+  "loesung": [
+   "With the balancing of interests (R. 211.3 RoP), urgency (R. 211.4 RoP), security (R. 211.5 RoP) and compensation if the measures are revoked (Art. 62(5) UPCA in conjunction with Art. 60(9) UPCA, Art. 9(7) IPRED)."
+  ],
+  "abschnitt": "Art. 62 UPCA ↔ Art. 9 IPRED: provisional measures",
+  "_de": "4dcf48cf2b"
+ },
+ "gruppe:u10a-2": {
+  "titel": "Preserving evidence without evidence",
+  "sachverhalt": "Centripetal suspects that Palo Alto's firewall software uses its patented method; the source code is not accessible. Without hearing the other side, it applies for an order to preserve evidence with inspection and submits product documentation and an expert opinion.",
+  "_de": "4b409c5fce"
+ },
+ "einheit:u10a-2a": {
+  "titel": "Lower threshold",
+  "frage": "Is the threshold lower than for an infringement action?",
+  "loesung": [
+   "**Yes!** The threshold is **lower**, especially for aspects to which the applicant has no access. After all, the order to preserve evidence is meant to obtain the missing evidence in the first place (UPC CoA Centripetal/Palo Alto)."
+  ],
+  "merke": "Inspection is meant to obtain the evidence in the first place.",
+  "abschnitt": "Art. 60 UPCA ↔ Art. 7 IPRED: preservation of evidence",
+  "_de": "b0ea402470"
+ },
+ "einheit:u10a-2b": {
+  "titel": "Available evidence",
+  "frage": "What must Centripetal submit?",
+  "optionen": [
+   "All reasonably available evidence",
+   "The source code",
+   "A court-appointed expert's report"
+  ],
+  "loesung": [
+   "All **reasonably available evidence** of the infringement (Art. 60(1) UPCA). Art. 7(1) IPRED uses the same formula."
+  ],
+  "abschnitt": "Art. 60 UPCA ↔ Art. 7 IPRED: preservation of evidence",
+  "_de": "090a2dd518"
+ },
+ "einheit:u10a-2c": {
+  "titel": "Plausibility",
+  "frage": "Is a mere suspicion of infringement sufficient?",
+  "loesung": [
+   "**No!** To prevent “fishing expeditions”, the infringement must be **plausible**. The standard of proof must be set neither too high nor too low (UPC CoA Centripetal/Palo Alto)."
+  ],
+  "abschnitt": "Art. 60 UPCA ↔ Art. 7 IPRED: preservation of evidence",
+  "_de": "0635647aaa"
+ },
+ "einheit:u10a-2d": {
+  "titel": "Duty of disclosure",
+  "frage": "Must Centripetal also disclose facts unfavourable to it in the application?",
+  "loesung": [
+   "**Yes!** In applications without hearing the defendant, the applicant must disclose all material facts known to it (R. 192.3 RoP; UPC CoA Ecovacs/Roborock)."
+  ],
+  "abschnitt": "Art. 60 UPCA ↔ Art. 7 IPRED: preservation of evidence",
+  "_de": "5123d00376"
+ },
+ "einheit:u10a-2e": {
+  "titel": "Protection of the defendant",
+  "frage": "How is Palo Alto protected during the inspection?",
+  "optionen": [
+   "Not at all, because preservation of evidence remains secret",
+   "By the applicant's duty to file a criminal complaint",
+   "By safeguards such as confidentiality orders"
+  ],
+  "loesung": [
+   "The inspection interferes with Art. 7 CFR and requires effective safeguards, such as confidentiality orders (R. 196 RoP, R. 262A RoP; UPC CoA Centripetal/Palo Alto)."
+  ],
+  "abschnitt": "Art. 60 UPCA ↔ Art. 7 IPRED: preservation of evidence",
+  "_de": "11ef3219ae"
+ },
+ "gruppe:u10a-3": {
+  "titel": "Managing directors and warehouse",
+  "sachverhalt": "Philips obtains an injunction against Belkin for patent-infringing chargers. Philips wants to extend the injunction to Belkin's managing directors and to the logistics provider whose warehouse is used to ship the devices.",
+  "_de": "f688cb95f9"
+ },
+ "einheit:u10a-3a": {
+  "titel": "Intermediary",
+  "frage": "Can the injunction be issued against the logistics provider as an intermediary?",
+  "loesung": [
+   "**Yes!** The second sentence of Art. 63(1) UPCA implements the third sentence of Art. 11 IPRED, which the CJEU interprets broadly (L'Oréal/eBay). A logistics provider whose services the infringer uses is an intermediary; it need not infringe itself."
+  ],
+  "merke": "Art. 63 UPCA is Art. 11 IPRED: intermediaries, yes.",
+  "abschnitt": "Art. 63 UPCA ↔ Art. 11 IPRED: infringers and intermediaries",
+  "_de": "e049ae4dcf"
+ },
+ "einheit:u10a-3b": {
+  "titel": "Not a “third party”",
+  "frage": "Is the managing director an intermediary within the meaning of the second sentence of Art. 63(1) UPCA?",
+  "loesung": [
+   "**No!** The managing director represents the company. In relation to him, the company is not a “third party” within the meaning of Art. 63 UPCA and Art. 11 IPRED; his function alone does not give rise to liability as an intermediary (UPC CoA Philips/Belkin 2024)."
+  ],
+  "abschnitt": "Art. 63 UPCA ↔ Art. 11 IPRED: infringers and intermediaries",
+  "_de": "23ad39e233"
+ },
+ "einheit:u10a-3c": {
+  "titel": "Position as officer",
+  "frage": "Is the managing director liable as a joint tortfeasor merely because of his position as an officer of the company?",
+  "loesung": [
+   "**No!** He is only liable if he deliberately uses the company to infringe or fails to intervene despite knowledge and the possibility to do so reasonably (UPC CoA Belkin/Philips 2025). Similarly, since Geschäftsführerhaftung (I ZR 242/12), the BGH limits liability to breaches of the director's own duties."
+  ],
+  "abschnitt": "Art. 63 UPCA ↔ Art. 11 IPRED: infringers and intermediaries",
+  "_de": "648b1e46ad"
+ },
+ "einheit:u10a-3d": {
+  "titel": "Autonomous notion of infringer",
+  "frage": "Is the notion of infringer interpreted autonomously?",
+  "loesung": [
+   "**Yes!** An infringer is also a person to whom acts of third parties are attributable as instigator, joint tortfeasor or accessory. Attribution follows the **autonomous interpretation** of the UPCA, not § 830 BGB (UPC CoA Belkin/Philips 2025)."
+  ],
+  "abschnitt": "Art. 63 UPCA ↔ Art. 11 IPRED: infringers and intermediaries",
+  "_de": "1211bcc0bf"
+ },
+ "gruppe:u10a-4": {
+  "titel": "Information despite appeal",
+  "sachverhalt": "The local division orders NUC to provide Hurom with information on the origin and distribution channels of the infringing products. NUC appeals and applies for suspensive effect: once the information is given, the appeal would to that extent be pointless.",
+  "_de": "17c5ae5c0d"
+ },
+ "einheit:u10a-4a": {
+  "titel": "Art. 8 IPRED",
+  "frage": "Which provision of the directive does Art. 67 UPCA correspond to?",
+  "optionen": [
+   "Art. 8 IPRED",
+   "Art. 6 IPRED",
+   "Art. 13 IPRED"
+  ],
+  "loesung": [
+   "Art. 67 UPCA mirrors **Art. 8 IPRED** (right of information). It is meant to secure precise information on origin, distribution channels and third parties involved (recital 21; UPC CoA Hurom/NUC)."
+  ],
+  "abschnitt": "Art. 67 UPCA ↔ Art. 8 IPRED: information",
+  "_de": "70237d8a6b"
+ },
+ "einheit:u10a-4b": {
+  "titel": "Only exceptionally",
+  "frage": "Is the order to communicate information suspended pending the appeal decision only exceptionally?",
+  "loesung": [
+   "**Yes!** The order to communicate information is one of the measures ensuring a **high level of protection**. Its enforcement can only be suspended under R. 223 RoP in exceptional circumstances (UPC CoA Hurom/NUC)."
+  ],
+  "merke": "Information is at the core of enforcement; suspension only exceptionally (Hurom/NUC).",
+  "abschnitt": "Art. 67 UPCA ↔ Art. 8 IPRED: information",
+  "_de": "d2dbf77d71"
+ },
+ "einheit:u10a-4c": {
+  "titel": "Partial frustration",
+  "frage": "Is it sufficient that the information partly undermines the purpose of the appeal?",
+  "loesung": [
+   "**No!** The fact that providing the information before the appeal decision partly undermines the purpose of the appeal is not enough (UPC CoA Hurom/NUC)."
+  ],
+  "abschnitt": "Art. 67 UPCA ↔ Art. 8 IPRED: information",
+  "_de": "add97e060d"
+ },
+ "einheit:u10a-4d": {
+  "titel": "Balancing",
+  "frage": "What would NUC have had to show?",
+  "optionen": [
+   "That the appeal would become devoid of purpose and an overriding interest in secrecy",
+   "Good prospects of success of the appeal",
+   "High costs of providing the information"
+  ],
+  "loesung": [
+   "NUC would have had to show that without suspensive effect the appeal would become **devoid of purpose** and that its interest in secrecy **outweighs** Hurom's interest in immediate information, for instance to prevent further infringements (UPC CoA Hurom/NUC)."
+  ],
+  "abschnitt": "Art. 67 UPCA ↔ Art. 8 IPRED: information",
+  "_de": "3845b812da"
+ },
+ "kapitel:u10b": {
+  "titel": "Art. 68, 69 and 80 UPCA ↔ Art. 13, 14, 15 IPRED: damages, costs, publication",
+  "_de": "b749406c30"
+ },
+ "einheit:u10b-0": {
+  "titel": "The same remedies, three addresses",
+  "text": "**Damages**: Art. 13(1) IPRED requires damages from an infringer who knew or reasonably should have known that he was engaging in an infringing activity, assessed either on the basis of all appropriate aspects including lost profits, the infringer's profits and moral prejudice (Art. 13(1)(a) IPRED) or as a lump sum based at least on the hypothetical royalty (Art. 13(1)(b) IPRED); for the innocent infringer, Art. 13(2) IPRED allows recovery of profits or pre-established damages. Art. 68 UPCA adopts this almost word for word and adds in Art. 68(2) UPCA that damages shall not be punitive; § 139(2) PatG and § 14(6) MarkenG contain the same three methods of calculation and require intent or negligence, which corresponds to the standard of Art. 13(1) IPRED (“knowingly, or with reasonable grounds to know”). **Costs**: Art. 14 IPRED provides that the legal costs and other expenses of the successful party are, as a general rule, borne by the unsuccessful party, insofar as they are **reasonable and proportionate** and equity does not require otherwise; Art. 69(1) UPCA repeats this and adds the **ceiling** set under the Rules of Procedure, which the CJEU in United Video Properties approved for flat rates under national law, provided that a significant and appropriate part of the actual costs is reimbursed. In German law, §§ 91 ff. ZPO with reimbursement under the RVG and the reduction of the value of the dispute under § 144 PatG do the same. **Publication**: Art. 15 IPRED, Art. 80 UPCA, § 140e PatG and § 19c MarkenG allow publication of the decision at the request of the successful party and at the infringer's expense. The differences lie in the procedure: the UPC determines the amount of damages in separate proceedings under R. 125 ff. RoP and costs under R. 150 ff. RoP – unlike the German stepped action with information, rendering of accounts and quantification.",
+  "_de": "c38d0d7d3b"
+ },
+ "gruppe:u10b-1": {
+  "titel": "The double royalty",
+  "sachverhalt": "After a final judgment, Helion claims from Solvix, in the proceedings for the determination of damages, twice the usual royalty. Solvix allegedly continued to infringe despite a warning letter; a surcharge is said to be necessary so that infringement does not pay.",
+  "_de": "e12d2ccbf9"
+ },
+ "einheit:u10b-1a": {
+  "titel": "No punitive character",
+  "frage": "Does Art. 68 UPCA rule out a punitive character of damages?",
+  "loesung": [
+   "**Yes!** The third sentence of Art. 68(2) UPCA expressly rules out punitive damages. The aim is to compensate the actual harm and to skim off the benefit (Art. 68(1) UPCA, the second sentence of Art. 68(2) UPCA)."
+  ],
+  "merke": "Art. 68(2) UPCA: compensation and disgorgement, no punishment.",
+  "abschnitt": "Art. 68 UPCA ↔ Art. 13 IPRED: damages",
+  "_de": "8ae6a6d390"
+ },
+ "einheit:u10b-1b": {
+  "titel": "“At least”",
+  "frage": "Do the words “at least” in Art. 68(3)(b) UPCA open the way to a surcharge?",
+  "loesung": [
+   "**No!** The lump sum is based on “at least” the royalty. This opens the amount to interest, the costs of pursuing the claim and the uncertainties of the licence analogy, not to a surcharge as a sanction."
+  ],
+  "abschnitt": "Art. 68 UPCA ↔ Art. 13 IPRED: damages",
+  "_de": "8a37bbcefa"
+ },
+ "einheit:u10b-1c": {
+  "titel": "Minimum harmonisation",
+  "frage": "Would the directive have permitted a double royalty?",
+  "loesung": [
+   "**Yes!** In OTK (C-367/15), the CJEU approved a national rule providing for a double royalty as a more favourable provision under Art. 2(1) IPRED. The UPCA does not use this option but lays down the opposite in Art. 68(2) UPCA."
+  ],
+  "abschnitt": "Art. 68 UPCA ↔ Art. 13 IPRED: damages",
+  "_de": "d2f10c7e94"
+ },
+ "einheit:u10b-1d": {
+  "titel": "German law",
+  "frage": "Do the PatG and the MarkenG provide for an infringer's surcharge?",
+  "loesung": [
+   "**No!** § 139(2) PatG and § 14(6) MarkenG grant the simple licence analogy as one of three methods of calculation."
+  ],
+  "abschnitt": "Art. 68 UPCA ↔ Art. 13 IPRED: damages",
+  "_de": "bc0c9f03fe"
+ },
+ "einheit:u10b-1e": {
+  "titel": "Alternatives",
+  "frage": "What can Helion do instead?",
+  "optionen": [
+   "Choose the infringer's profits or lost profits and request the laying open of books",
+   "File a criminal complaint with the UPC",
+   "Sue for the surcharge before a national court"
+  ],
+  "loesung": [
+   "Helion can choose the infringer's profits or lost profits (Art. 68(3)(a) UPCA) and request the laying open of books (R. 131.1(c), R. 141 RoP)."
+  ],
+  "abschnitt": "Art. 68 UPCA ↔ Art. 13 IPRED: damages",
+  "_de": "ee4fc1f41c"
+ },
+ "gruppe:u10b-2": {
+  "titel": "The ceiling and the directive",
+  "sachverhalt": "Ilion has prevailed against Tarsus and incurred EUR 1.2 million in representation costs. The ceiling for the value of the dispute is EUR 600,000. Ilion considers the ceiling to be contrary to the directive.",
+  "_de": "1ea453aa03"
+ },
+ "einheit:u10b-2a": {
+  "titel": "Reasonable and proportionate",
+  "frage": "Does Art. 14 IPRED require reimbursement of all actual costs?",
+  "loesung": [
+   "**No!** The unsuccessful party bears the costs “as a general rule” and only insofar as they are **reasonable and proportionate** and equity does not require otherwise (Art. 14 IPRED). Art. 69(1) UPCA adopts this."
+  ],
+  "abschnitt": "Art. 69 UPCA ↔ Art. 14 IPRED: costs",
+  "_de": "8b0979a550"
+ },
+ "einheit:u10b-2b": {
+  "titel": "United Video Properties",
+  "frage": "Are ceilings compatible with Art. 14 IPRED?",
+  "loesung": [
+   "**Yes!** According to CJEU United Video Properties (C-57/15), maximum amounts are permissible if a **significant and appropriate part** of the reasonable costs actually incurred is reimbursed. Limits that deter enforcement would be impermissible."
+  ],
+  "merke": "Ceilings yes, if a significant and appropriate part is reimbursed.",
+  "abschnitt": "Art. 69 UPCA ↔ Art. 14 IPRED: costs",
+  "_de": "77b1424119"
+ },
+ "einheit:u10b-2c": {
+  "titel": "Raising instead of disapplying",
+  "frage": "Must the UPC disapply the ceiling?",
+  "loesung": [
+   "**No!** The ceilings are graduated by the value of the dispute; the scale allows them to be raised on request where the case is particularly complex or involves several languages. Ilion must apply for this in the cost proceedings (R. 151 RoP, R. 152.2 RoP)."
+  ],
+  "abschnitt": "Art. 69 UPCA ↔ Art. 14 IPRED: costs",
+  "_de": "15ac4dc369"
+ },
+ "gruppe:u10b-3": {
+  "titel": "Which provision belongs to which?",
+  "sachverhalt": "A client asks where the measures of the Enforcement Directive are found in the UPCA and in German law.",
+  "_de": "1db7b9d8a8"
+ },
+ "einheit:u10b-3a": {
+  "titel": "Corrective measures",
+  "frage": "Where are the corrective measures under Art. 10 IPRED found?",
+  "optionen": [
+   "Art. 64 UPCA, § 140a PatG, § 18 MarkenG",
+   "Art. 59 UPCA, § 140c PatG",
+   "Art. 80 UPCA, § 140e PatG"
+  ],
+  "loesung": [
+   "Art. 10 IPRED (recall, removal, destruction) is implemented for the UPC by Art. 64 UPCA, which additionally provides for depriving the product of its infringing property; in German law by § 140a PatG and § 18 MarkenG."
+  ],
+  "abschnitt": "Overview: the correspondences",
+  "_de": "1e65b2b691"
+ },
+ "einheit:u10b-3b": {
+  "titel": "Information",
+  "frage": "Where is the right of information under Art. 8 IPRED found?",
+  "optionen": [
+   "Art. 59 UPCA, § 140c PatG",
+   "Art. 67 UPCA, § 140b PatG, § 19 MarkenG",
+   "Art. 60 UPCA, § 19a MarkenG"
+  ],
+  "loesung": [
+   "Art. 8 IPRED corresponds to Art. 67 UPCA, § 140b PatG and § 19 MarkenG. Art. 59 UPCA and § 140c PatG, by contrast, concern the order to produce evidence under Art. 6 IPRED."
+  ],
+  "abschnitt": "Overview: the correspondences",
+  "_de": "60e9935677"
+ },
+ "einheit:u10b-3c": {
+  "titel": "Provisional measures",
+  "frage": "Which provision of the UPCA corresponds to provisional measures under Art. 9 IPRED?",
+  "optionen": [
+   "Art. 60 UPCA",
+   "Art. 69 UPCA",
+   "Art. 62 UPCA"
+  ],
+  "loesung": [
+   "Art. 9 IPRED corresponds to Art. 62 UPCA and, in German law, to §§ 935 ff. ZPO. Art. 60 UPCA is the preservation of evidence under Art. 7 IPRED."
+  ],
+  "abschnitt": "Overview: the correspondences",
+  "_de": "f9645bb6ea"
+ },
+ "einheit:u10b-3d": {
+  "titel": "Publication",
+  "frage": "Where is publication under Art. 15 IPRED found?",
+  "optionen": [
+   "Art. 69 UPCA",
+   "Art. 80 UPCA, § 140e PatG, § 19c MarkenG",
+   "Art. 63 UPCA"
+  ],
+  "loesung": [
+   "Art. 15 IPRED corresponds to Art. 80 UPCA, § 140e PatG and § 19c MarkenG. Art. 69 UPCA governs costs under Art. 14 IPRED. Memory aid: the UPCA follows the course of proceedings (59, 60 – 62 – 63, 64, 67, 68 – 69 – 80)."
+  ],
+  "merke": "Evidence 59/60 ↔ 6/7, interim relief 62 ↔ 9, injunction 63 ↔ 11, corrective measures 64 ↔ 10, information 67 ↔ 8, damages 68 ↔ 13, costs 69 ↔ 14, publication 80 ↔ 15.",
+  "abschnitt": "Overview: the correspondences",
+  "_de": "5f28981853"
+ }
+}

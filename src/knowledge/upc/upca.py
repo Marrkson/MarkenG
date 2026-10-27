@@ -158,7 +158,7 @@ ENTSPRECHUNG_DISTINCTION = dict(
         ["Art. 59 EPGÜ (Anordnung der Beweisvorlage), Art. 58 EPGÜ (Vertraulichkeit)", "R. 190 VerfO, R. 262A VerfO", "§ 19a MarkenG", qualify("§ 140c", "PatG")],
         ["Art. 60 EPGÜ (Beweissicherung, Besichtigung)", "R. 192 bis 199 VerfO", "§ 19a MarkenG i.V.m. §§ 485 ff. ZPO", qualify("§ 140c", "PatG") + " i.V.m. §§ 485 ff. ZPO"],
         ["Art. 67 EPGÜ (Anordnung zur Auskunftserteilung)", "R. 191 VerfO", "§ 19 MarkenG", qualify("§ 140b", "PatG")],
-        ["Art. 62 EPGÜ (einstweilige Maßnahmen), Art. 61 EPGÜ (Arrest, Kontensperre)", "R. 205 bis 213 VerfO", "§§ 935 ff. ZPO, § 19 Abs. 7 MarkenG", "§§ 935 ff. ZPO, " + qualify("§ 140b Abs. 7", "PatG")],
+        ["Art. 62 EPGÜ (einstweilige Maßnahmen), Art. 61 EPGÜ (Arrest, Kontensperre)", "R. 205 bis 213 VerfO", "§§ 935 ff. ZPO, § 19 Abs. 7 MarkenG, § 19b MarkenG (Sicherung von Schadensersatzansprüchen, Art. 9 Abs. 2 DurchsetzungsRL)", "§§ 935 ff. ZPO, " + qualify("§ 140b Abs. 7", "PatG") + ", § 140d PatG (Art. 9 Abs. 2 DurchsetzungsRL)"],
         ["Art. 64 EPGÜ (Abhilfemaßnahmen)", "R. 118 VerfO", "§ 18 MarkenG", qualify("§ 140a", "PatG")],
         ["Art. 63 EPGÜ (Unterlassungsanordnung, Zwangsgeld)", "R. 118, R. 354 VerfO", "§ 14 Abs. 5 MarkenG, § 890 ZPO", qualify("§ 139 Abs. 1", "PatG") + ", § 890 ZPO"],
         ["Art. 68 EPGÜ (Schadensersatz, drei Berechnungsarten)", "R. 118.1, R. 125 bis 131 VerfO", "§ 14 Abs. 6 MarkenG", qualify("§ 139 Abs. 2", "PatG")],

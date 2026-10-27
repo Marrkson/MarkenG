@@ -1,0 +1,546 @@
+{
+ "kurs:u06": {
+  "titel": "Revocation, counterclaim and amendment of the patent",
+  "untertitel": "Art. 65 UPCA, Art. 138 EPC, R. 25 to 30 and 42 to 50 RoP",
+  "beschreibung": "Attacking validity before the UPC: revocation action at the central division and counterclaim before the local division, standing to sue (Pari/Philips), substantiation and defence of dependent claims (Fujifilm/Kodak), conditional counterclaim (Emboline/AorticLab), the grounds for revocation of Art. 138 EPC in the case law of the Court of Appeal (expert/Seoul Viosys, Knaus Tabbert, NanoString/10x, Meril/Edwards, Abbott/Sinocare), and amendment of the patent and the defence to it (Meril/Edwards, VMR/NJOY), stay pending EPO opposition and suspensive effect.",
+  "_de": "5f3fc0bca0"
+ },
+ "kapitel:u06a": {
+  "titel": "Art. 47(6) and Art. 33 UPCA, R. 25 and 29A RoP: revocation action and counterclaim",
+  "_de": "3b3ca5f598"
+ },
+ "einheit:u06a-0": {
+  "titel": "Examination scheme: revocation action and counterclaim for revocation",
+  "text": "Two routes to the same goal: the stand-alone revocation action at the central division (Art. 33(4) UPCA, R. 42 RoP et seq.) and the counterclaim for revocation in the Statement of defence before the local or regional division (R. 25 RoP), whose fate the division decides under Art. 33(3) UPCA. Unlike under German law, there is no bar during the opposition period: a revocation action is possible even while an EPO opposition is pending; the Court may stay the proceedings (R. 295(a) RoP, Art. 33(10) UPCA).",
+  "_de": "5b1d20be7d"
+ },
+ "gruppe:u06a-1": {
+  "titel": "Freedom to operate",
+  "sachverhalt": "Pari develops inhalation devices and is planning a product that could fall under a Philips patent. Philips has neither sent Pari a warning letter nor sued it. Pari brings a revocation action.",
+  "_de": "cc5872e795"
+ },
+ "einheit:u06a-1a": {
+  "titel": "Who may sue",
+  "frage": "Who has standing to bring a revocation action under Art. 47(6) UPCA?",
+  "optionen": [
+   "Only a person who has been warned or sued by the patent proprietor",
+   "A person concerned by the patent who is entitled to bring actions under its national law",
+   "Anyone, without further requirements"
+  ],
+  "loesung": [
+   "An action may be brought by any person **concerned** by the patent who is entitled to bring actions under the national law applicable to it (Art. 47(6) UPCA). That is not an actio popularis; but the provision does not require a warning letter or an infringement action either (CD Milan Pari/Philips)."
+  ],
+  "abschnitt": "Art. 47(6) UPCA: standing",
+  "_de": "da872b2fc3"
+ },
+ "einheit:u06a-1b": {
+  "titel": "Being concerned",
+  "frage": "Is Pari “concerned” even though there is no specific conflict with Philips?",
+  "loesung": [
+   "**Yes!** Concerned is any person who wants to clarify its **freedom to operate**, that is, anyone who is or could become active in the technical field of the patent (CD Milan Pari/Philips). Pari works in inhalation technology and is planning a product within the possible scope of protection."
+  ],
+  "merke": "Concerned is anyone who is or could become active in the field of the patent (Pari/Philips).",
+  "abschnitt": "Art. 47(6) UPCA: standing",
+  "_de": "2585e134a6"
+ },
+ "einheit:u06a-1c": {
+  "titel": "No legitimate interest requirement",
+  "frage": "Are being concerned and entitlement to sue sufficient, without a specific legitimate interest in bringing proceedings?",
+  "loesung": [
+   "**Yes!** Beyond being concerned and entitled to sue under Art. 47(6) UPCA, the UPC requires no specific legitimate interest in bringing proceedings; neither a warning letter nor an infringement action is needed (CD Milan Pari/Philips)."
+  ],
+  "abschnitt": "Art. 47(6) UPCA: standing",
+  "_de": "a630546554"
+ },
+ "einheit:u06a-1d": {
+  "titel": "Central division",
+  "frage": "Before which division does Pari bring the action?",
+  "optionen": [
+   "Before the local division at its seat",
+   "Before the central division, section according to the IPC class",
+   "Before the Court of Appeal"
+  ],
+  "loesung": [
+   "Revocation actions belong before the **central division** (Art. 33(4) UPCA). The section depends on the IPC class of the patent (Annex II UPCA, R. 17.3 RoP). The position is different if an infringement action between the same parties is already pending before a local division."
+  ],
+  "abschnitt": "Art. 47(6) UPCA: standing",
+  "_de": "de272da511"
+ },
+ "gruppe:u06a-2": {
+  "titel": "“All claims”",
+  "sachverhalt": "Fujifilm sues Kodak on a patent before the Mannheim Local Division. Kodak brings a counterclaim for revocation of “all claims” but only gives reasons for independent claim 1. Fujifilm defends dependent claims 4 and 7 in the alternative.",
+  "_de": "ddcb708cfb"
+ },
+ "einheit:u06a-2a": {
+  "titel": "Substantiation claim by claim",
+  "frage": "Must Kodak substantiate each attacked claim individually?",
+  "loesung": [
+   "**Yes!** A party seeking revocation must state the extent to which revocation is sought and substantiate this **for each attacked claim** (R. 25.1(a) to 25.1(d), R. 44 RoP; UPC CoA Fujifilm/Kodak). The reason is the front-loaded procedure: the opponent should know from the outset what it is defending against."
+  ],
+  "abschnitt": "R. 25 and 29A RoP: substantiation and dependent claims",
+  "_de": "1c342a9338"
+ },
+ "einheit:u06a-2b": {
+  "titel": "Blanket attack",
+  "frage": "Do the dependent claims fall merely because Kodak attacks “all claims”?",
+  "loesung": [
+   "**No!** A party that attacks all claims across the board but gives reasons only for the independent claim does not bring down the dependent claims. To that extent the attack is unsubstantiated (UPC CoA Fujifilm/Kodak)."
+  ],
+  "abschnitt": "R. 25 and 29A RoP: substantiation and dependent claims",
+  "_de": "26f0b6e1dd"
+ },
+ "einheit:u06a-2c": {
+  "titel": "Defence without an auxiliary request",
+  "frage": "Must Fujifilm file an Application to amend the patent in order to defend claim 4?",
+  "loesung": [
+   "**No!** Under R. 29A(c) RoP, the proprietor states in its defence, with substantiation, which dependent claims it considers valid. An application under R. 30 RoP is only needed if the **wording** of the claims is to be changed (UPC CoA Fujifilm/Kodak)."
+  ],
+  "merke": "Defend dependent claims, yes; an auxiliary request only if the wording changes (Fujifilm/Kodak).",
+  "abschnitt": "R. 25 and 29A RoP: substantiation and dependent claims",
+  "_de": "2b47799cfd"
+ },
+ "einheit:u06a-2d": {
+  "titel": "Number of combinations",
+  "frage": "Must Fujifilm expressly identify the combinations it defends?",
+  "loesung": [
+   "**Yes!** If a combination does not follow directly from the wording of the back-references, the proprietor must identify it clearly and in the language of the patent. Under the requirement of a fair trial, the number of combinations must be **reasonable** (UPC CoA Fujifilm/Kodak)."
+  ],
+  "abwandlung": "Claim 7 refers back to “any one of the preceding claims”.",
+  "abschnitt": "R. 25 and 29A RoP: substantiation and dependent claims",
+  "_de": "7261c04519"
+ },
+ "einheit:u06a-2e": {
+  "titel": "Boundary with the Application to amend",
+  "frage": "When does Fujifilm need an Application to amend the patent after all?",
+  "optionen": [
+   "As soon as it defends any dependent claims at all",
+   "If it changes the wording or proposes combinations not contained in the claims",
+   "Never; amendments are reserved to the EPO"
+  ],
+  "loesung": [
+   "An Application to amend under R. 30 RoP is required if the proprietor wants to change the wording of the granted claims or **propose combinations** not expressly contained in them, thereby limiting the scope of protection. A proprietor that only defends granted dependent claims and combinations covered by them does not need one (UPC CoA Fujifilm/Kodak)."
+  ],
+  "abschnitt": "R. 25 and 29A RoP: substantiation and dependent claims",
+  "_de": "25d94b8112"
+ },
+ "gruppe:u06a-3": {
+  "titel": "Counterclaim subject to a condition",
+  "sachverhalt": "Emboline sues AorticLab for patent infringement before a local division. AorticLab brings a counterclaim for revocation “in the event that the Court finds infringement”.",
+  "_de": "e372c085d0"
+ },
+ "einheit:u06a-3a": {
+  "titel": "Condition admissible",
+  "frage": "May the counterclaim be made subject to this condition?",
+  "loesung": [
+   "**Yes!** A counterclaim for revocation may be made subject to the condition of a finding of infringement (UPC CoA Emboline/AorticLab). The defendant can thus avoid a decision on validity if infringement is denied anyway."
+  ],
+  "merke": "The conditional counterclaim is admissible (Emboline/AorticLab).",
+  "abschnitt": "R. 25 RoP: counterclaim for revocation",
+  "_de": "86a4493460"
+ },
+ "einheit:u06a-3b": {
+  "titel": "Pendency",
+  "frage": "Is the counterclaim not yet pending until the condition occurs?",
+  "loesung": [
+   "**No!** The infringement action and the counterclaim are **separate actions**. The condition merely links them (“inter-procedural” condition) and leaves the pendency of the counterclaim unaffected (UPC CoA AorticLab/Emboline)."
+  ],
+  "abschnitt": "R. 25 RoP: counterclaim for revocation",
+  "_de": "3008d7aee6"
+ },
+ "einheit:u06a-3c": {
+  "titel": "Both instances",
+  "frage": "Can the condition also be met by the Court of Appeal?",
+  "loesung": [
+   "**Yes!** Unless otherwise stated, “the Court” means **both instances** (UPC CoA AorticLab/Emboline). The condition can therefore also be met if only the Court of Appeal finds infringement."
+  ],
+  "abschnitt": "R. 25 RoP: counterclaim for revocation",
+  "_de": "cfd53f2dee"
+ },
+ "einheit:u06a-3d": {
+  "titel": "No referral back",
+  "frage": "Does the Court of Appeal refer the counterclaim back to the local division for a decision?",
+  "loesung": [
+   "**No!** As a rule, the Court of Appeal decides the counterclaim itself (Art. 75(1) UPCA, R. 242.2(b) RoP). The fact that the first instance did not decide an issue is not an exceptional case justifying referral back (UPC CoA Emboline/AorticLab)."
+  ],
+  "abwandlung": "The local division denies infringement and does not rule on the counterclaim. The Court of Appeal finds infringement.",
+  "abschnitt": "R. 25 RoP: counterclaim for revocation",
+  "_de": "03e30885df"
+ },
+ "gruppe:u06a-4": {
+  "titel": "Counterclaim in Düsseldorf, opposition in Munich",
+  "sachverhalt": "In response to an infringement action before the Düsseldorf Local Division, the defendant brings a counterclaim for revocation. An opposition against the same patent is pending at the EPO.",
+  "_de": "7b95b4c64e"
+ },
+ "einheit:u06a-4a": {
+  "titel": "Three options",
+  "frage": "What may the local division do with the counterclaim?",
+  "optionen": [
+   "It must refer the counterclaim to the central division",
+   "It must dismiss the counterclaim because of the opposition",
+   "It may hear it itself, refer the counterclaim, or with the parties' agreement refer both actions"
+  ],
+  "loesung": [
+   "After hearing the parties, Art. 33(3) UPCA leaves the local division a choice: hear both actions itself, with a technically qualified judge from the pool; refer the counterclaim to the central division; or, with the agreement of the parties, refer both actions. It decides under R. 37 RoP, in practice almost always in favour of hearing them together."
+  ],
+  "abschnitt": "Art. 33(3) and Art. 33(10) UPCA: counterclaim and EPO opposition",
+  "_de": "255e3b460f"
+ },
+ "einheit:u06a-4b": {
+  "titel": "No opposition bar",
+  "frage": "Is the counterclaim admissible despite the pending opposition?",
+  "loesung": [
+   "**Yes!** Unlike under German law, opposition proceedings do not create a bar. Counterclaims and revocation actions are possible even while an EPO opposition is pending; the Court can only stay the proceedings (Art. 33(10) UPCA, R. 295(a) RoP)."
+  ],
+  "abschnitt": "Art. 33(3) and Art. 33(10) UPCA: counterclaim and EPO opposition",
+  "_de": "3248523cbd"
+ },
+ "einheit:u06a-4c": {
+  "titel": "Stay at the Court's discretion",
+  "frage": "Must the local division stay the proceedings until the EPO decides?",
+  "loesung": [
+   "**No!** A stay is at the discretion of the Court and requires that a **rapid** decision of the EPO may be expected (Art. 33(10) UPCA, R. 295(a) RoP). As a rule, this is decided by the Court of First Instance, not by the Court of Appeal (UPC CoA Sun Patent/Vivo)."
+  ],
+  "abschnitt": "Art. 33(3) and Art. 33(10) UPCA: counterclaim and EPO opposition",
+  "_de": "1fbad9f5d5"
+ },
+ "einheit:u06a-4d": {
+  "titel": "Rapid decision",
+  "frage": "Does a likely appeal stand in the way of a stay?",
+  "loesung": [
+   "**No!** Art. 33(10) UPCA and R. 295(a) RoP do not require a rapid **final** decision of the EPO. It is sufficient that the Opposition Division will decide rapidly, even if an appeal is likely to follow. The stay is meant to avoid inconsistencies between an infringement judgment and revocation (UPC CoA Meril/Edwards 2024)."
+  ],
+  "abwandlung": "The Opposition Division will decide in three months; an appeal is considered certain.",
+  "abschnitt": "Art. 33(3) and Art. 33(10) UPCA: counterclaim and EPO opposition",
+  "_de": "9383e2860e"
+ },
+ "einheit:u06a-4e": {
+  "titel": "Suspensive effect",
+  "frage": "Does an appeal against the decision on the counterclaim have suspensive effect?",
+  "loesung": [
+   "**Yes!** An appeal against decisions on revocation actions and counterclaims for revocation **always** has suspensive effect (Art. 74(2) UPCA). For infringement decisions it is the other way round: no suspensive effect unless the Court of Appeal orders it (Art. 74(1) UPCA, R. 223 RoP)."
+  ],
+  "abschnitt": "Art. 33(3) and Art. 33(10) UPCA: counterclaim and EPO opposition",
+  "_de": "a8027a2a7f"
+ },
+ "kapitel:u06b": {
+  "titel": "Art. 65 UPCA, Art. 138 EPC: grounds for revocation",
+  "_de": "05bd7c8cec"
+ },
+ "einheit:u06b-0": {
+  "titel": "The grounds come from the EPC, the standard from the Court of Appeal",
+  "text": "The UPC may revoke a patent, in whole or in part, only on the grounds of **Art. 138(1) and Art. 139(2) EPC** (Art. 65(2) UPCA): lack of patentability (novelty, inventive step, exclusions), insufficient disclosure, added matter, extension of the scope of protection, lack of entitlement. If the grounds affect only part of the patent, it is limited by an amendment of the claims (Art. 65(3) UPCA); it can also be maintained to the extent of individual independent claims if these do not build on each other in such a way that the fall of one forces the fall of the other (LD Hamburg Avago/Tesla). Revocation has effect **ex tunc** (Art. 65(4) UPCA). The Court of Appeal has shaped the standards within a few years: **claim interpretation** follows the same rules for infringement and validity (NanoString/10x). The **disclosure standard** “directly and unambiguously” applies equally to novelty, added matter and priority; a generic term does not automatically disclose all specific terms falling under it (Knaus Tabbert), and the skilled person does not derive dimensions from schematic drawings (Pari/Philips). For **divisional applications**, Art. 123(2) EPC applies in relation to every earlier application, including the PCT parent application (expert/Seoul Viosys); added matter is a question of law, and the Court may consider the entire application (Amgen/Regeneron). For **inventive step** there is no rigid problem-solution approach: a realistic starting point, a skilled person with an expectation of success, “would” rather than “could” (NanoString/10x, Meril/Edwards), a pointer for combinations (Fujifilm/Kodak), no premature disregard of non-technical features (Abbott/Sinocare). The central division Paris examines in three steps: objective problem, prior art with realistic starting points, obviousness (Meril/Edwards). **Sufficiency**: the skilled person must be able to reproduce the subject-matter without inventive effort and without undue burden; one way is enough (Amgen/Regeneron).",
+  "_de": "90c2c2a660"
+ },
+ "gruppe:u06b-4": {
+  "titel": "Two independent claims",
+  "sachverhalt": "P sues B before a local division on a patent with independent claims 1 and 10. B brings a counterclaim for revocation. Only claim 1 lacks novelty.",
+  "_de": "b1472de6f0"
+ },
+ "einheit:u06b-4a": {
+  "titel": "Partial revocation",
+  "frage": "Can the Court revoke the patent only in part?",
+  "loesung": [
+   "**Yes!** The patent is revoked only to the extent the grounds for revocation reach; if they affect only part of it, it is limited (Art. 65(3) UPCA)."
+  ],
+  "abschnitt": "Art. 65(3) and Art. 65(4) UPCA: scope and effect",
+  "_de": "093ccb5773"
+ },
+ "einheit:u06b-4b": {
+  "titel": "Independent claim",
+  "frage": "Can claim 10 be maintained if it does not build on claim 1?",
+  "loesung": [
+   "**Yes!** A patent can be maintained to the extent of individual independent claims if these do not build on each other in such a way that the fall of one forces the fall of the other (LD Hamburg Avago/Tesla)."
+  ],
+  "abschnitt": "Art. 65(3) and Art. 65(4) UPCA: scope and effect",
+  "_de": "82cb556507"
+ },
+ "einheit:u06b-4c": {
+  "titel": "Effect ex tunc",
+  "frage": "Does the revocation of claim 1 have effect only for the future?",
+  "loesung": [
+   "**No!** To the extent the patent is revoked, it is deemed not to have had its effects from the outset (**ex tunc**, Art. 65(4) UPCA)."
+  ],
+  "abschnitt": "Art. 65(3) and Art. 65(4) UPCA: scope and effect",
+  "_de": "6cd5e4b8d2"
+ },
+ "gruppe:u06b-1": {
+  "titel": "The divisional application",
+  "sachverhalt": "Seoul Viosys holds a patent granted on a divisional application; the chain goes back via a European parent application to a PCT application. The claim combines two features that the PCT application describes only in separate embodiments.",
+  "_de": "0b825b143f"
+ },
+ "einheit:u06b-1a": {
+  "titel": "Standard",
+  "frage": "What standard applies to added matter?",
+  "optionen": [
+   "What the skilled person derives directly and unambiguously from the application",
+   "What the application suggests to the skilled person",
+   "Solely the wording of the original claims"
+  ],
+  "loesung": [
+   "The claim must not extend beyond the content of the application as filed (Art. 138(1)(c) EPC, Art. 65(2) UPCA). What matters is what the skilled person, on the filing date, derives **directly and unambiguously** from the application as a whole, including what is implicitly disclosed (UPC CoA expert/Seoul Viosys)."
+  ],
+  "abschnitt": "Art. 138(1)(c) EPC: added matter",
+  "_de": "e8d9a2bf8b"
+ },
+ "einheit:u06b-1b": {
+  "titel": "Every earlier application",
+  "frage": "Is it sufficient that the combination appears in the immediately preceding parent application?",
+  "loesung": [
+   "**No!** For patents granted on divisional applications, the subject-matter must be disclosed in **every** earlier application in the chain, including the PCT parent application (UPC CoA expert/Seoul Viosys)."
+  ],
+  "merke": "Divisional application: Art. 123(2) EPC in relation to every earlier application (expert/Seoul Viosys).",
+  "abschnitt": "Art. 138(1)(c) EPC: added matter",
+  "_de": "0a9663f12e"
+ },
+ "einheit:u06b-1c": {
+  "titel": "Separate embodiments",
+  "frage": "Is the combination disclosed if the PCT application describes the features only separately?",
+  "loesung": [
+   "**No!** Two features from different embodiments do not yet amount to a disclosed combination as long as the skilled person does not read them as belonging together. The granted claim then extends beyond the content of the application (UPC CoA expert/Seoul Viosys)."
+  ],
+  "abschnitt": "Art. 138(1)(c) EPC: added matter",
+  "_de": "1b62511742"
+ },
+ "einheit:u06b-1d": {
+  "titel": "Question of law",
+  "frage": "Is added matter a question of law?",
+  "loesung": [
+   "**Yes!** It is a **question of law**, decided on the basis of the facts put forward, namely the claims and the application. The Court may consider the entire application and establish from its own expertise that a disclosure is lacking (UPC CoA Amgen/Regeneron)."
+  ],
+  "abschnitt": "Art. 138(1)(c) EPC: added matter",
+  "_de": "011abb108a"
+ },
+ "einheit:u06b-1e": {
+  "titel": "Limitation as a way out",
+  "frage": "Can Seoul Viosys save the patent by an amendment?",
+  "loesung": [
+   "**Yes!** The proprietor can limit the patent to an originally disclosed version by an Application to amend (R. 30, R. 50 RoP). Otherwise the patent must be revoked to that extent (Art. 65(2), 65(3) UPCA)."
+  ],
+  "abschnitt": "Art. 138(1)(c) EPC: added matter",
+  "_de": "cd3ce379c0"
+ },
+ "gruppe:u06b-2": {
+  "titel": "“Plastic”",
+  "sachverhalt": "Knaus Tabbert defends a patent for a caravan component made of a particular material with a particular structure. An earlier document mentions for the same component only “plastic” in general.",
+  "_de": "2c82fea1ac"
+ },
+ "einheit:u06b-2a": {
+  "titel": "Standard for novelty",
+  "frage": "Is only what the skilled person derives directly and unambiguously from the document novelty-destroying?",
+  "loesung": [
+   "**Yes!** Novelty-destroying is what the skilled person, reading attentively, derives **directly and unambiguously**, including what they read in as a matter of course (UPC CoA Knaus Tabbert)."
+  ],
+  "abschnitt": "Art. 138(1)(a) EPC: novelty",
+  "_de": "a0a6738ba4"
+ },
+ "einheit:u06b-2b": {
+  "titel": "Generic and specific terms",
+  "frage": "Does “plastic” disclose all materials and structures falling under it?",
+  "loesung": [
+   "**No!** A generic term does not automatically disclose all specific terms falling under it that are not mentioned (UPC CoA Knaus Tabbert). The document does not anticipate the claim; the attack shifts to inventive step."
+  ],
+  "merke": "The generic term does not disclose the specific term (Knaus Tabbert).",
+  "abschnitt": "Art. 138(1)(a) EPC: novelty",
+  "_de": "94aba95919"
+ },
+ "einheit:u06b-2c": {
+  "titel": "Uniform standard",
+  "frage": "Does the same disclosure standard apply to added matter and priority?",
+  "loesung": [
+   "**Yes!** The standard “directly and unambiguously” applies equally to novelty, added matter and priority (UPC CoA Knaus Tabbert)."
+  ],
+  "abschnitt": "Art. 138(1)(a) EPC: novelty",
+  "_de": "3c3ff36b83"
+ },
+ "einheit:u06b-2d": {
+  "titel": "Schematic drawing",
+  "frage": "Does the drawing disclose these dimensions?",
+  "loesung": [
+   "**No!** The skilled person does not derive dimensions from schematic drawings (CD Milan Pari/Philips). Only what the drawing recognisably shows as technical teaching is disclosed."
+  ],
+  "abwandlung": "The document contains a schematic drawing from which wall thicknesses could be measured.",
+  "abschnitt": "Art. 138(1)(a) EPC: novelty",
+  "_de": "f63e2647ae"
+ },
+ "einheit:u06b-2e": {
+  "titel": "Product-by-process",
+  "frage": "Does a product claim that mentions a manufacturing process remain a product claim?",
+  "loesung": [
+   "**Yes!** A product-by-process claim remains a product claim. The question is whether the process is reflected in **properties of the product**; only these count for novelty (UPC CoA Knaus Tabbert)."
+  ],
+  "abschnitt": "Art. 138(1)(a) EPC: novelty",
+  "_de": "c7c86655f1"
+ },
+ "gruppe:u06b-3": {
+  "titel": "From D1 to the invention",
+  "sachverhalt": "Meril attacks a patent of Edwards for lack of inventive step. It starts from document D1 and takes the missing feature from document D2.",
+  "_de": "d373c3d181"
+ },
+ "einheit:u06b-3a": {
+  "titel": "No rigid scheme",
+  "frage": "Does the Court of Appeal mandatorily apply the EPO's problem-solution approach?",
+  "loesung": [
+   "**No!** The Court of Appeal follows no rigid scheme (NanoString/10x, Meril/Edwards). The central division Paris examines in three steps: objective problem in the light of the patent specification, realistic starting points in the prior art, obviousness of the invention as a whole (CD Paris Meril/Edwards)."
+  ],
+  "abschnitt": "Art. 138(1)(a) EPC: inventive step",
+  "_de": "c814439fc0"
+ },
+ "einheit:u06b-3b": {
+  "titel": "Realistic starting point",
+  "frage": "May Meril choose any prior art at all as the starting point?",
+  "loesung": [
+   "**No!** The starting point must be **realistic** prior art that the skilled person would consider for the problem. Several realistic starting points are possible; choosing them is up to the parties (UPC CoA Meril/Edwards; CD Paris Meril/Edwards)."
+  ],
+  "abschnitt": "Art. 138(1)(a) EPC: inventive step",
+  "_de": "d5dbd89380"
+ },
+ "einheit:u06b-3c": {
+  "titel": "Would rather than could",
+  "frage": "Must the skilled person arrive at the invention from D1 with an expectation of success?",
+  "loesung": [
+   "**Yes!** The skilled person must arrive at the invention from there with an **expectation of success** (“would”), not merely be able to arrive at it (“could”) (UPC CoA NanoString/10x, Meril/Edwards)."
+  ],
+  "merke": "Would, not could: obvious is what the skilled person would turn to with an expectation of success.",
+  "abschnitt": "Art. 138(1)(a) EPC: inventive step",
+  "_de": "82188bcc28"
+ },
+ "einheit:u06b-3d": {
+  "titel": "Pointer",
+  "frage": "Can the motivation for the combination come from D2 itself?",
+  "loesung": [
+   "**No!** Without a pointer to combine the starting point with a further document, the motivation cannot be derived from the content of the secondary document. Without a reason, the skilled person would not consult D2 at all (UPC CoA Fujifilm/Kodak)."
+  ],
+  "abwandlung": "D1 contains no hint to look for a solution like the one in D2.",
+  "abschnitt": "Art. 138(1)(a) EPC: inventive step",
+  "_de": "5d0480173c"
+ },
+ "einheit:u06b-3e": {
+  "titel": "Non-technical features",
+  "frage": "Is such a feature disregarded as non-technical?",
+  "loesung": [
+   "**No!** A feature is not to be disregarded merely because, taken by itself, it would be non-technical. In interaction with the other features it can contribute to the technical character; the features must be assessed together (UPC CoA Abbott/Sinocare)."
+  ],
+  "abwandlung": "A claim feature, taken by itself, concerns only the display of measured values.",
+  "abschnitt": "Art. 138(1)(a) EPC: inventive step",
+  "_de": "9b4c0b73c2"
+ },
+ "kapitel:u06c": {
+  "titel": "R. 30, 43 and 50 RoP: amendment of the patent and defence",
+  "_de": "631aa327a1"
+ },
+ "einheit:u06c-0": {
+  "titel": "Auxiliary requests under R. 30 and R. 50 RoP",
+  "text": "The proprietor defends itself on two levels. First, with the **defence** (R. 29A RoP for the counterclaim, R. 49, 50.1 RoP for the revocation action): facts, evidence, reasons why the action should be dismissed, and a statement of which dependent claims or combinations it considers valid (Fujifilm/Kodak). Second, with the **Application to amend the patent** (R. 30.1, R. 50.2 RoP), which must contain the amended claims, where appropriate auxiliary requests in a reasonable number, the explanation under Art. 84 EPC and Art. 123(2), 123(3) EPC, and a statement whether the amendment is conditional or unconditional. The application belongs in the defence; **subsequent requests** are admissible only with the permission of the Court (R. 30.2 RoP), which examines whether the amendment could not have been made earlier with reasonable diligence and that the other side is not unreasonably hindered; the Court of First Instance has discretion here, and review by the Court of Appeal is limited (Meril/Edwards). The Application to amend is followed by the **claimant's defence** (R. 32, R. 43.3 RoP) with submissions under R. 44(d) to 44(h) RoP; it may not introduce new grounds for revocation or prior art against the granted version, unless an amendment of the claim under R. 263 RoP is allowed (VMR/NJOY). If other proceedings concerning the patent are pending, the competent body must be informed of the Application to amend (R. 30.3 RoP). At the end comes the decision under Art. 65(3) UPCA: limitation by the amended claims and partial revocation.",
+  "_de": "91e717bd24"
+ },
+ "gruppe:u06c-1": {
+  "titel": "Three auxiliary requests too late",
+  "sachverhalt": "In its defence to Meril's counterclaim, Edwards files four auxiliary requests. Shortly before the interim conference, Edwards files three more. They respond to objections that were already in the counterclaim.",
+  "_de": "228357bbc5"
+ },
+ "einheit:u06c-1a": {
+  "titel": "Where the application belongs",
+  "frage": "Where does the Application to amend the patent belong?",
+  "optionen": [
+   "In the defence to the counterclaim",
+   "In the oral hearing",
+   "In any written pleading before the interim conference"
+  ],
+  "loesung": [
+   "The Application to amend belongs in the **Defence to the counterclaim for revocation** (R. 30.1 RoP), and in a revocation action in the Defence to revocation (R. 50.2 RoP). In the front-loaded procedure, all lines of defence belong in the first written pleading."
+  ],
+  "abschnitt": "R. 30 and 50 RoP: Application to amend",
+  "_de": "18ab6ef3be"
+ },
+ "einheit:u06c-1b": {
+  "titel": "Subsequent requests with permission",
+  "frage": "Are subsequent auxiliary requests excluded?",
+  "loesung": [
+   "**No!** Subsequent Applications to amend are possible with the **permission of the Court** (R. 30.2, R. 50.2 RoP). The Court examines whether the amendment could not have been made earlier with reasonable diligence and whether the other side is unreasonably hindered (UPC CoA Meril/Edwards)."
+  ],
+  "abschnitt": "R. 30 and 50 RoP: Application to amend",
+  "_de": "d7f4fbb55a"
+ },
+ "einheit:u06c-1c": {
+  "titel": "No reason for the delay",
+  "frage": "Does Edwards obtain permission for the three new requests?",
+  "loesung": [
+   "**No!** The requests respond to objections that were already in the counterclaim. With reasonable diligence they could therefore have been filed with the defence; there is no justification for the delay (UPC CoA Meril/Edwards)."
+  ],
+  "merke": "Auxiliary requests go in the defence; later ones only with permission and a reason (Meril/Edwards).",
+  "abschnitt": "R. 30 and 50 RoP: Application to amend",
+  "_de": "3a8781977b"
+ },
+ "einheit:u06c-1d": {
+  "titel": "Discretion of the first instance",
+  "frage": "Does the Court of Appeal review the refusal to admit them only for errors of discretion?",
+  "loesung": [
+   "**Yes!** The Court of First Instance has **discretion** on admission. The Court of Appeal only examines whether it was exercised without error, not whether it would itself have decided differently (UPC CoA Meril/Edwards)."
+  ],
+  "abwandlung": "The local division does not admit the three requests; Edwards appeals.",
+  "abschnitt": "R. 30 and 50 RoP: Application to amend",
+  "_de": "480def4650"
+ },
+ "einheit:u06c-1e": {
+  "titel": "Content of the application",
+  "frage": "What must an Application to amend contain, among other things?",
+  "optionen": [
+   "Only the amended claims",
+   "The amended claims, the explanation under Art. 84 and 123 EPC and whether the amendment is conditional",
+   "A declaration by the EPO approving the amendment"
+  ],
+  "loesung": [
+   "The application contains the amended claims, where appropriate auxiliary requests in a reasonable number, the explanation why the amendment satisfies Art. 84 EPC and Art. 123(2), 123(3) EPC, and a statement whether it is **conditional or unconditional** (R. 30.1 RoP)."
+  ],
+  "abschnitt": "R. 30 and 50 RoP: Application to amend",
+  "_de": "5a09b99411"
+ },
+ "gruppe:u06c-2": {
+  "titel": "New documents in the defence",
+  "sachverhalt": "NJOY attacks a VMR patent on the basis of three prior art documents. VMR requests an amended version in the alternative. In its defence to that, NJOY submits two new documents.",
+  "_de": "d579df62a2"
+ },
+ "einheit:u06c-2a": {
+  "titel": "Attack on the amended version",
+  "frage": "May NJOY use the new documents against the amended version?",
+  "loesung": [
+   "**Yes!** The Application to amend is followed by the claimant's defence (R. 43.3 RoP) with submissions under R. 44(d) to 44(h) RoP. Its very purpose is to attack the **amended** version (UPC CoA VMR/NJOY)."
+  ],
+  "abschnitt": "R. 43.3 RoP: Defence to the Application to amend",
+  "_de": "ceb6bc2926"
+ },
+ "einheit:u06c-2b": {
+  "titel": "No new attack on the granted version",
+  "frage": "May NJOY thereby also mount a new attack on the granted version?",
+  "loesung": [
+   "**No!** The defence does not open the door to new grounds for revocation or prior art against the patent **as granted** (UPC CoA VMR/NJOY). Such attacks belong in the statement for revocation (R. 44 RoP)."
+  ],
+  "merke": "The defence under R. 43.3 RoP targets the amended version (VMR/NJOY).",
+  "abschnitt": "R. 43.3 RoP: Defence to the Application to amend",
+  "_de": "7e7a353574"
+ },
+ "einheit:u06c-2c": {
+  "titel": "The route via R. 263 RoP",
+  "frage": "How can NJOY nevertheless introduce new attacks on the granted version?",
+  "optionen": [
+   "Not at all",
+   "By an amendment of the claim allowed under R. 263 RoP",
+   "By a simple reference in the Rejoinder"
+  ],
+  "loesung": [
+   "Only by an **amendment of the claim** that the Court allows under R. 263 RoP (UPC CoA VMR/NJOY). The Court then examines whether the amendment could have been made earlier and whether it unreasonably hinders the other side."
+  ],
+  "abschnitt": "R. 43.3 RoP: Defence to the Application to amend",
+  "_de": "1312b60e3a"
+ },
+ "einheit:u06c-2d": {
+  "titel": "Evidence of common general knowledge",
+  "frage": "Can the textbook still be taken into account?",
+  "loesung": [
+   "**Yes!** Fairness may permit new **evidence of common general knowledge** in response to the Defence to revocation, since common general knowledge is a fact requiring proof (UPC CoA VMR/NJOY)."
+  ],
+  "abwandlung": "NJOY also submits a textbook to prove the common general knowledge on which VMR relies in its Defence to revocation.",
+  "abschnitt": "R. 43.3 RoP: Defence to the Application to amend",
+  "_de": "0edeecdd37"
+ }
+}

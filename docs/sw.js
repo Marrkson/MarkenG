@@ -23,16 +23,22 @@ self.addEventListener('push', e => {
     const st = await heute();
     const goal = (st && st.goal) || 100;
     const x = st && st.d === DAY() ? st.x : 0;
+    // Sprache der zuletzt genutzten App (de: /, en: /en/)
+    const en = !!st && st.lang === 'en';
     let title, body;
     if (x >= goal) {
-      title = 'Tagesziel geschafft';
-      body = `Streak gesichert${st.streak ? ` – ${st.streak} ${st.streak === 1 ? 'Tag' : 'Tage'}` : ''}. Bis morgen!`;
+      title = en ? 'Daily goal reached' : 'Tagesziel geschafft';
+      body = en ? `Streak secured${st.streak ? ` – ${st.streak} ${st.streak === 1 ? 'day' : 'days'}` : ''}. See you tomorrow!`
+                : `Streak gesichert${st.streak ? ` – ${st.streak} ${st.streak === 1 ? 'Tag' : 'Tage'}` : ''}. Bis morgen!`;
+    } else if (en) {
+      title = 'Time for your cases';
+      body = x ? `${goal - x} XP to your daily goal – about ${Math.ceil((goal - x) / 10)} cases.` : `No cases solved yet today. ${goal} XP keep your streak.`;
     } else {
       title = data.title || 'Zeit für deine Fälle';
       body = x ? `Noch ${goal - x} XP bis zum Tagesziel – etwa ${Math.ceil((goal - x) / 10)} Fälle.`
                : (data.body || `Heute noch keine Fälle gelöst. ${goal} XP sichern den Streak.`);
     }
-    await self.registration.showNotification(title, { body, icon: 'icon-192.png', badge: 'icon-192.png', tag: 'ipelico-tagesziel', data: { url: './#/' } });
+    await self.registration.showNotification(title, { body, icon: 'icon-192.png', badge: 'icon-192.png', tag: 'ipelico-tagesziel', data: { url: en ? './en/#/' : './#/' } });
   })());
 });
 
@@ -40,6 +46,7 @@ self.addEventListener('notificationclick', e => {
   e.notification.close();
   e.waitUntil(self.clients.matchAll({ type: 'window', includeUncontrolled: true }).then(cs => {
     const c = cs.find(c => 'focus' in c);
-    return c ? c.focus() : self.clients.openWindow('./');
+    const url = (e.notification.data && e.notification.data.url) || './';
+    return c ? c.focus() : self.clients.openWindow(url);
   }));
 });

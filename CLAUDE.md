@@ -45,3 +45,7 @@
   `push/` mit `node push/test.mjs`, Worker-URL in `data/push_api.txt`): `PLAYBOOK.md` Abschnitt 14. `data/push_vapid_private.txt` nie versionieren.
 - Normkurse und Fallketten (Jurafuchs-Format): Kapitel je Vorschrift nach `data/norm_ranking.json` (`tools/norm_ranking.py`), Fälle als
   `fallkette` mit kurzen Fragen, Längengrenzen `LIMITS` in `kurse/__init__.py` für `kompakt=True`-Kurse: `PLAYBOOK.md` Abschnitt 15.
+- Englische App für das EPG (`docs/en/`): Oberfläche `src/knowledge/upc/en/ui.py` (Ersetzungen im Template, jedes Paar muss treffen),
+  Inhalte `src/knowledge/upc/en/*.json` (nur Text, Hash `_de` des deutschen Stands). Wer EPG-Inhalte oder Oberflächentext ändert, zieht die
+  englische Fassung nach: `python3 tools/i18n_en.py status`, `export … --nur-offen`, `check`. Zitierform englisch `Art. 33(1) UPCA`,
+  `R. 19.1 RoP`, `Art. 3(1) UPReg`, `R. 6(1) UPR`, `Art. 8 IPRED`. Normtexte amtlich englisch (VerfO-Wortlaut 2022). PLAYBOOK Abschnitt 17.

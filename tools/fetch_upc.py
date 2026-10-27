@@ -401,18 +401,24 @@ def parse_rop(lines, lang):
 
 def build_rop(net):
     de, praeambel = parse_rop(_pdf_lines(Path(fetch(ROP_PDF["de"], CACHE / "rop_de.pdf", net) and CACHE / "rop_de.pdf")), "de")
-    en, _ = parse_rop(_pdf_lines(Path(fetch(ROP_PDF["en"], CACHE / "rop_en.pdf", net) and CACHE / "rop_en.pdf")), "en")
+    en, praeambel_en = parse_rop(_pdf_lines(Path(fetch(ROP_PDF["en"], CACHE / "rop_en.pdf", net) and CACHE / "rop_en.pdf")), "en")
     en_by = {r["nr"].upper(): r for r in en}
     for r in de:
         r["nr"] = r["nr"].upper()
         e = en_by.get(r["nr"])
         r["titel_en"] = e["titel"] if e else ""
         r["url"] = ROP_PDF["de"]
+        if e:  # englischer Wortlaut für die englische App (docs/en/); Seitenzahlen „- 30 -“ aus dem PDF-Umbruch entfernen
+            r["absaetze_en"] = [re.sub(r"\s+-\s\d{1,3}\s-(?=\s|$)", "", a) for a in e["absaetze"]]
+            r.update(teil_en=e["teil"], kapitel_en=e["kapitel"], abschnitt_en=e["abschnitt"], url_en=ROP_PDF["en"])
+            if len(e["absaetze"]) != len(r["absaetze"]):
+                r["hinweis_en"] = ("The English text shown is the version of 25 July 2022; this rule has since been amended "
+                                   "(the consolidated German version has %d paragraphs). Check the current text." % len(r["absaetze"]))
     head = subprocess.run(["pdftotext", "-l", "1", str(CACHE / "rop_de.pdf"), "-"], check=True, capture_output=True).stdout.decode()
     stand = " ".join(re.sub(r"\s+", " ", head).split())[:400]
     meta = dict(titel="Verfahrensordnung des Einheitlichen Patentgerichts (VerfO, RoP)", kurz="RoP", quelle=ROP_PDF["de"], quelle_en=ROP_PDF["en"],
-                stand=stand, hinweis="Deutscher Wortlaut der konsolidierten Fassung (unifiedpatentcourt.org); englische Regeltitel aus der Fassung vom 25.07.2022.")
-    return dict(meta=meta, praeambel=praeambel, regeln=de)
+                stand=stand, hinweis="Deutscher Wortlaut der konsolidierten Fassung (unifiedpatentcourt.org); englische Regeltitel und englischer Wortlaut (absaetze_en, englische App) aus der Fassung vom 25.07.2022.")
+    return dict(meta=meta, praeambel=praeambel, praeambel_en=praeambel_en, regeln=de)
 
 
 # ---------------------------------------------------------------- Entscheidungen (Postgres, RheinIP)

@@ -1,0 +1,498 @@
+{
+ "schema:upc_schema_einheitliche_wirkung": {
+  "_de": "b23b21a34f",
+  "label": "Request for unitary effect and administration of the Unitary Patent (UPReg, UPR)",
+  "beschreibung": "From the granted European patent to the Unitary Patent: entitlement, request within one month with translation, examination by the Unitary Patent Protection Division, registration with retroactive effect, legal remedy before the UPC – and afterwards renewal fees, compensation and the Register. The order follows Parts 2 to 8 of the UP Guidelines."
+ },
+ "step:upc_schema_einheitliche_wirkung.1": {
+  "_de": "26f241e52a",
+  "label": "A. Entitlement (Art. 3(1) UPReg, R. 5(2) UPR)",
+  "text": "European patent granted with the same set of claims for all 25 participating Member States (no withdrawn designation, no different set of claims under R. 138 EPC, date of filing on or after 1 March 2007); request by the proprietor or all proprietors (R. 5(1) UPR); no sanctioned proprietor (R. 5(2)(b) UPR)."
+ },
+ "step:upc_schema_einheitliche_wirkung.2": {
+  "_de": "a52c52ac8a",
+  "label": "B. Request: time limit, form, content (R. 6 UPR)"
+ },
+ "step:upc_schema_einheitliche_wirkung.2.1": {
+  "_de": "685704eac0",
+  "label": "1. One-month time limit from the mention of grant (R. 6(1) UPR)",
+  "text": "One month after publication of the mention of the grant in the European Patent Bulletin (Art. 97(3) EPC); not extendable; an early request after the decision to grant is possible; re-establishment of rights within two months of expiry of the time limit (R. 22(2) UPR)."
+ },
+ "step:upc_schema_einheitliche_wirkung.2.2": {
+  "_de": "4b5c4db7fa",
+  "label": "2. In writing, in the language of the proceedings, Form 7000 (R. 6(2) UPR)",
+  "text": "Particulars of the proprietor and representative under R. 41(2) EPC, patent number; signature of the proprietor (seat in an EPC Contracting State), representative or authorised employee; no fax; free of charge."
+ },
+ "step:upc_schema_einheitliche_wirkung.2.3": {
+  "_de": "1ac4c449b3",
+  "label": "3. Translation during the transitional period (Art. 6 TranslReg, R. 6(2)(d) UPR)",
+  "text": "Full translation of the patent specification: into English if the language of the proceedings is German or French, otherwise into another official EU language; for information only, no legal effect; transitional period of six years from 1 June 2023, at most twelve."
+ },
+ "step:upc_schema_einheitliche_wirkung.2.4": {
+  "_de": "5566d0d9e4",
+  "label": "4. At the same time: request for compensation (R. 9 UPR)",
+  "text": "Only together with the request for unitary effect; declaration on status (SME, natural person, university, public research organisation, non-profit organisation) and residence or seat in the EU; application filed in an official EU language other than DE/EN/FR; lump sum of EUR 500 after registration."
+ },
+ "step:upc_schema_einheitliche_wirkung.3": {
+  "_de": "6a2d62b81a",
+  "label": "C. Examination and registration (R. 7 UPR)"
+ },
+ "step:upc_schema_einheitliche_wirkung.3.1": {
+  "_de": "60e0675024",
+  "label": "1. Registration and taking effect (R. 7(1) UPR, Art. 4(1) UPReg)",
+  "text": "Requirements met: registration in the Register for unitary patent protection, communication of the date of registration (Form 7030); the Unitary Patent takes effect retroactively from the date of the mention of grant in the States of the current generation (Art. 18(2) UPReg)."
+ },
+ "step:upc_schema_einheitliche_wirkung.3.2": {
+  "_de": "9ed3cfcd2e",
+  "label": "2. Formal deficiencies: one-month period without re-establishment (R. 7(3) UPR)",
+  "text": "Deficiencies under R. 6(2) UPR must be corrected within a non-extendable period of one month; no re-establishment of rights (R. 22(6) UPR; Bodycap/EPO); the right to be heard at least once (Art. 113(1) EPC)."
+ },
+ "step:upc_schema_einheitliche_wirkung.3.3": {
+  "_de": "309d12d259",
+  "label": "3. Rejection (R. 7(2) and 7(3) UPR)",
+  "text": "Lack of entitlement, missed time limit without re-establishment, or deficiencies not corrected: intended rejection, opportunity to comment, final decision. Then check the national safety nets for validation (national measures relating to the Unitary Patent)."
+ },
+ "step:upc_schema_einheitliche_wirkung.4": {
+  "_de": "ba5bb98991",
+  "label": "D. Legal remedy: action before the UPC (R. 23, 24 UPR; R. 85 to 98 RoP)",
+  "text": "Against the rejection of the request for unitary effect: application to annul within three weeks, decision of the standing judge (R. 97.4 RoP), no interlocutory revision (R. 85.2 RoP). Against other decisions of the Division: action within two months (R. 88 RoP) with the possibility of interlocutory revision (R. 91 RoP). Jurisdiction Art. 32(1)(i) UPCA, powers Art. 66 UPCA; no mandatory representation (Art. 48(7) UPCA)."
+ },
+ "step:upc_schema_einheitliche_wirkung.5": {
+  "_de": "e8513636ec",
+  "label": "E. After registration: renewal fees, Register, licences"
+ },
+ "step:upc_schema_einheitliche_wirkung.5.1": {
+  "_de": "d4ddf9091a",
+  "label": "1. Renewal fees to the EPO (R. 13, 14 UPR; Art. 2 RFeesUPP)",
+  "text": "Due from the year following the mention of grant, on the last day of the month of filing; additional period of six months with a 50 % surcharge; otherwise lapse retroactive to the due date; re-establishment of rights within one year; safety periods under R. 13(4) and 13(5) UPR."
+ },
+ "step:upc_schema_einheitliche_wirkung.5.2": {
+  "_de": "630bc49283",
+  "label": "2. Licences of right (Art. 8 UPReg, R. 12 UPR)",
+  "text": "Statement to the EPO, 15 % reduction (Art. 3 RFeesUPP); excluded where there is an exclusive licence; withdrawal only against repayment; remuneration determined by the UPC (Art. 32(1)(h) UPCA)."
+ },
+ "step:upc_schema_einheitliche_wirkung.5.3": {
+  "_de": "2ffaf984d3",
+  "label": "3. Transfer, licences, patent as an object of property (Art. 3(2), 7 UPReg; R. 16 UPR)",
+  "text": "Transfer only for all States, licences also for part of the territory; registration under R. 22 to 24 EPC on production of evidence; law applicable to the patent as an object of property under Art. 7 UPReg (residence/place of business on the date of filing, otherwise German law)."
+ },
+ "schema:upc_schema_zustaendigkeit": {
+  "_de": "feadcf6443",
+  "label": "Jurisdiction of the UPC and choice of division (Art. 31 to 34 UPCA)",
+  "beschreibung": "Before any action before the UPC: does the UPC have jurisdiction at all (international, subject-matter, transitional regime), and which division is the right one? The analysis must be set out in the Statement of claim (R. 13.1(i) RoP), and the defendant can challenge it only by a Preliminary objection under R. 19 RoP."
+ },
+ "step:upc_schema_zustaendigkeit.1": {
+  "_de": "70e4e2c065",
+  "label": "A. Applicability of the UPCA (Art. 3, 83 UPCA)",
+  "text": "European patent with unitary effect, classic European patent or SPC with effect in a Contracting Member State? For classic patents: no effective opt-out (Art. 83(3) UPCA, R. 5 RoP); during the transitional period the concurrent jurisdiction of national courts remains (Art. 83(1) UPCA)."
+ },
+ "step:upc_schema_zustaendigkeit.2": {
+  "_de": "e379957c4e",
+  "label": "B. International jurisdiction (Art. 31 UPCA, Brussels Ia Regulation)",
+  "text": "The UPC is a court of a Member State (Art. 71a Brussels Ia Regulation): defendant domiciled in a Member State (Art. 4 Brussels Ia Regulation) or infringement in the territory of the Contracting Member States (Art. 7(2) Brussels Ia Regulation in conjunction with Art. 71b(2) Brussels Ia Regulation); against defendants from third States also for damage outside the EU if assets are located in the territory (Art. 71b(3) Brussels Ia Regulation). Submission by entering an appearance without contesting jurisdiction only with the first written pleading."
+ },
+ "step:upc_schema_zustaendigkeit.3": {
+  "_de": "290265785d",
+  "label": "C. Subject-matter jurisdiction (Art. 32 UPCA)",
+  "text": "Does the action fall within the exhaustive list of Art. 32(1) UPCA (infringement, non-infringement, provisional measures, revocation, counterclaim, damages for provisional protection, prior use, licence compensation, EPO decisions)? Otherwise national courts (Art. 32(2) UPCA). Old cases before 1 June 2023 and stand-alone damages actions following a national judgment are also covered."
+ },
+ "step:upc_schema_zustaendigkeit.4": {
+  "_de": "8c9fba6a47",
+  "label": "D. Competent division (Art. 33 UPCA)"
+ },
+ "step:upc_schema_zustaendigkeit.4.1": {
+  "_de": "d1f9ea1367",
+  "label": "1. Infringement action: local/regional division (Art. 33(1) UPCA)",
+  "text": "Place of infringement (point (a)) or defendant's domicile (point (b)), with no ranking; several defendants only if they have a commercial relationship and the same alleged infringement; defendants not domiciled in the territory: also the central division; no local division in the State: central division."
+ },
+ "step:upc_schema_zustaendigkeit.4.2": {
+  "_de": "790a5435c4",
+  "label": "2. Bar on parallel actions (Art. 33(2) UPCA)",
+  "text": "No second action between the same parties on the same patent before another division; the division first seised decides. Where the infringement occurred in the territories of three or more regional divisions, referral to the central division at the request of the defendant."
+ },
+ "step:upc_schema_zustaendigkeit.4.3": {
+  "_de": "09fae248a1",
+  "label": "3. Counterclaim for revocation: three options (Art. 33(3) UPCA)",
+  "text": "(a) hear both together with a technically qualified judge, (b) refer the counterclaim to the central division and continue or stay the infringement action, (c) refer both actions with the agreement of the parties. Decision under R. 37 RoP."
+ },
+ "step:upc_schema_zustaendigkeit.4.4": {
+  "_de": "63300b5a01",
+  "label": "4. Revocation action and declaratory action: central division (Art. 33(4) to 33(6) UPCA)",
+  "text": "Central division, unless an infringement action between the same parties is pending before a local division. Section according to IPC class (Annex II UPCA). A declaratory action is stayed if an infringement action follows within three months (Art. 33(6) UPCA)."
+ },
+ "step:upc_schema_zustaendigkeit.4.5": {
+  "_de": "2356ba5347",
+  "label": "5. Agreement and stay (Art. 33(7) and 33(10) UPCA)",
+  "text": "The parties may agree on any division including the central division (Art. 33(7) UPCA). Where EPO proceedings are pending in parallel, the Court may stay if a rapid decision may be expected (Art. 33(10) UPCA, R. 295(a) RoP)."
+ },
+ "step:upc_schema_zustaendigkeit.5": {
+  "_de": "eee7a03d10",
+  "label": "E. Challenge by the defendant: Preliminary objection (R. 19 to 21 RoP)",
+  "text": "Within one month of service; only jurisdiction of the Court, competence of the division and language; otherwise acceptance (R. 19.7 RoP). Decision by the judge-rapporteur or referral to the main proceedings (R. 20 RoP); appeal under R. 21 RoP; referral instead of dismissal where a competent division is named (R. 19.5 RoP, also in summary proceedings)."
+ },
+ "schema:upc_schema_verletzungsklage": {
+  "_de": "32caeb51a3",
+  "label": "Infringement action before the UPC (Art. 32(1)(a) UPCA, R. 12 ff. RoP)",
+  "beschreibung": "Opinion structure for the infringement action: admissibility (jurisdiction, parties, representation, Statement of claim, language), merits (scope of protection, act of infringement, defences, validity via the counterclaim) and remedies (Art. 63 to 69, 80 UPCA)."
+ },
+ "step:upc_schema_verletzungsklage.1": {
+  "_de": "5656f6ac7d",
+  "label": "A. Admissibility"
+ },
+ "step:upc_schema_verletzungsklage.1.1": {
+  "_de": "3a3c8d3bd4",
+  "label": "1. Jurisdiction and division",
+  "text": "Analysis according to the jurisdiction scheme (Art. 31 to 34 UPCA); particulars in the Statement of claim (R. 13.1(i) RoP); Preliminary objection of the defendant under R. 19 RoP."
+ },
+ "step:upc_schema_verletzungsklage.1.2": {
+  "_de": "6226fbe677",
+  "label": "2. Parties and standing (Art. 46, 47 UPCA)",
+  "text": "Patent proprietor (presumption from the register, R. 8.5(c) RoP), exclusive licensee after informing the proprietor (Art. 47(2) UPCA), non-exclusive licensee only with notice and express permission in the licence agreement (Art. 47(3) UPCA); defendant: infringer, joint tortfeasor, accessory, intermediary."
+ },
+ "step:upc_schema_verletzungsklage.1.3": {
+  "_de": "54d4058e6a",
+  "label": "3. Representation (Art. 48 UPCA)",
+  "text": "Lawyer or European patent attorney with an EPLC; no representation by the party's own officers."
+ },
+ "step:upc_schema_verletzungsklage.1.4": {
+  "_de": "af4556922c",
+  "label": "4. Statement of claim, fee, service (R. 13 to 16, 270 ff. RoP)",
+  "text": "Contents under R. 13.1(a) to 13.1(q) RoP, exhibits at the same time (R. 13.2 RoP), fee (R. 15 RoP), examination by the Registry (R. 16 RoP), service (R. 270 ff. RoP)."
+ },
+ "step:upc_schema_verletzungsklage.1.5": {
+  "_de": "f373273392",
+  "label": "5. Language of the proceedings (Art. 49 UPCA, R. 14 RoP)",
+  "text": "Claimant's choice under Art. 49(1) and 49(2) UPCA; change to the language of the patent (Art. 49(3) to 49(5) UPCA, R. 321 to 323 RoP)."
+ },
+ "step:upc_schema_verletzungsklage.1.6": {
+  "_de": "7e1f7da7dc",
+  "label": "6. No conflicting lis pendens, no opt-out",
+  "text": "Art. 33(2) UPCA; Art. 29 ff. Brussels Ia Regulation in relation to national courts during the transitional period (Art. 83 UPCA); an opt-out bars the UPC (Art. 83(3) UPCA)."
+ },
+ "step:upc_schema_verletzungsklage.2": {
+  "_de": "0a290968cd",
+  "label": "B. Merits: infringement"
+ },
+ "step:upc_schema_verletzungsklage.2.1": {
+  "_de": "51fa8fa034",
+  "label": "1. Scope of protection: interpretation of the patent claim (Art. 69 EPC)",
+  "text": "Claim as the decisive basis, description and drawings always to be used, from the perspective of the skilled person; feature analysis and claim interpretation in the Statement of claim (R. 13.1(n) RoP)."
+ },
+ "step:upc_schema_verletzungsklage.2.2": {
+  "_de": "0e3e030d83",
+  "label": "2. Act of use (Art. 25, 26 UPCA)",
+  "text": "Direct infringement: making, offering, placing on the market, using, importing, stocking (product, process, product of a process); indirect infringement by means relating to an essential element."
+ },
+ "step:upc_schema_verletzungsklage.2.3": {
+  "_de": "4782838cef",
+  "label": "3. Literal or equivalent",
+  "text": "All features realised; in case of a deviation, equivalence test (Article 2 of the Protocol on the Interpretation of Art. 69 EPC; Hague test Plant-e/Arkyne)."
+ },
+ "step:upc_schema_verletzungsklage.2.4": {
+  "_de": "1fc0d24dc5",
+  "label": "4. In the territory of the Contracting Member States, without consent",
+  "text": "Territorial scope Art. 34 UPCA; consent through a licence; exhaustion Art. 29 UPCA."
+ },
+ "step:upc_schema_verletzungsklage.2.5": {
+  "_de": "6568a7ca37",
+  "label": "5. No limitations and defences (Art. 27, 28 UPCA)",
+  "text": "List of limitations (private, experimental, Bolar, farmers, ships, software); national right based on prior use; FRAND defence for standard-essential patents (Art. 102 TFEU, Huawei/ZTE)."
+ },
+ "step:upc_schema_verletzungsklage.2.6": {
+  "_de": "228c88c181",
+  "label": "6. Validity: counterclaim for revocation (R. 25 RoP, Art. 65 UPCA)",
+  "text": "Invalidity must be raised as a counterclaim, not as a mere defence; options of Art. 33(3) UPCA; grounds for revocation under Art. 138 EPC; amendment of the patent (R. 30 RoP)."
+ },
+ "step:upc_schema_verletzungsklage.3": {
+  "_de": "377a28fea5",
+  "label": "C. Remedies (Art. 63 to 69, 80 UPCA)"
+ },
+ "step:upc_schema_verletzungsklage.3.1": {
+  "_de": "8407f1e2c4",
+  "label": "1. Injunction and penalty payment (Art. 63 UPCA)",
+  "text": "Discretion, proportionality (Art. 42 UPCA), scope beyond the acts committed, intermediaries; threat of a penalty payment (R. 354.3 RoP)."
+ },
+ "step:upc_schema_verletzungsklage.3.2": {
+  "_de": "f49abbb6e4",
+  "label": "2. Corrective measures, information, publication (Art. 64, 67, 80 UPCA)",
+  "text": "Recall, removal, destruction; information on origin and distribution channels; publication at the infringer's expense."
+ },
+ "step:upc_schema_verletzungsklage.3.3": {
+  "_de": "e7185fbd2f",
+  "label": "3. Damages (Art. 68 UPCA, R. 125 ff. RoP)",
+  "text": "Fault (knew or had reasonable grounds to know); calculation: loss including lost profits, infringer's profits, licence analogy; separate procedure for the determination of damages."
+ },
+ "step:upc_schema_verletzungsklage.3.4": {
+  "_de": "eaa0e584fc",
+  "label": "4. Costs and enforcement (Art. 69, 82 UPCA)",
+  "text": "Decision on the principle of costs (R. 118.5 RoP), determination under R. 150 ff. RoP; immediate enforceability, security, notice of enforcement (R. 118.8, 354 RoP)."
+ },
+ "schema:upc_schema_einstweilige_massnahmen": {
+  "_de": "cd829062a3",
+  "label": "Application for provisional measures (Art. 62 UPCA, R. 205 to 213 RoP)",
+  "beschreibung": "Interim relief before the UPC: summary proceedings with four pillars of review from R. 211 RoP (sufficient certainty, balancing of interests, urgency, security), ex parte only exceptionally."
+ },
+ "step:upc_schema_einstweilige_massnahmen.1": {
+  "_de": "0a88dd562b",
+  "label": "A. Admissibility of the application"
+ },
+ "step:upc_schema_einstweilige_massnahmen.1.1": {
+  "_de": "a76a9274f4",
+  "label": "1. Jurisdiction (Art. 32(1)(c), Art. 33 UPCA)",
+  "text": "As for the main action; referral instead of dismissal where a competent division is named (R. 19.5 RoP by analogy). Application also before or during the main action (R. 206.1 RoP)."
+ },
+ "step:upc_schema_einstweilige_massnahmen.1.2": {
+  "_de": "557b38f463",
+  "label": "2. Content of the application (R. 206.2 RoP)",
+  "text": "Particulars of the infringement, the measures requested, validity and infringement with evidence, reasons for urgency, pre-action correspondence; information on protective letters. The requirements of points (b) to (e) concern the merits."
+ },
+ "step:upc_schema_einstweilige_massnahmen.1.3": {
+  "_de": "7064a72fbb",
+  "label": "3. Protective letter of the defendant (R. 207 RoP)",
+  "text": "Pre-emptive defence; to be taken into account by the Court when deciding whether to hear the defendant."
+ },
+ "step:upc_schema_einstweilige_massnahmen.2": {
+  "_de": "df9eeed20a",
+  "label": "B. Merits (R. 211 RoP, Art. 62(2) and 62(4) UPCA)"
+ },
+ "step:upc_schema_einstweilige_massnahmen.2.1": {
+  "_de": "ca8563074d",
+  "label": "1. Sufficient certainty as to entitlement and infringement (R. 211.2 RoP)",
+  "text": "More likely than not that the applicant is entitled and the patent is infringed (interpretation under Art. 69 EPC); burden of proof on the applicant."
+ },
+ "step:upc_schema_einstweilige_massnahmen.2.2": {
+  "_de": "70e41ef085",
+  "label": "2. Validity",
+  "text": "No sufficient certainty if it is more likely than not that the patent is invalid; burden of proof on the defendant; the invalidity defence is not a counterclaim; a set of claims not yet registered is admissible."
+ },
+ "step:upc_schema_einstweilige_massnahmen.2.3": {
+  "_de": "c53bf20a48",
+  "label": "3. Necessity and balancing of interests (R. 211.3 RoP, Art. 62(2) UPCA)",
+  "text": "Can the main action be awaited? Harm to both sides, time factor, market situation."
+ },
+ "step:upc_schema_einstweilige_massnahmen.2.4": {
+  "_de": "aded672897",
+  "label": "4. No unreasonable delay (R. 211.4 RoP)",
+  "text": "Prompt application after knowledge; product changes do not justify waiting; imminent infringement requires concrete indications."
+ },
+ "step:upc_schema_einstweilige_massnahmen.3": {
+  "_de": "dd9ba2f2d8",
+  "label": "C. Procedure and decision"
+ },
+ "step:upc_schema_einstweilige_massnahmen.3.1": {
+  "_de": "716ae2d3fb",
+  "label": "1. Hearing or ex parte (R. 209, 212 RoP)",
+  "text": "Rule: hearing of the defendant; ex parte where irreparable harm or destruction of evidence is threatened; duty of disclosure (R. 206.4 RoP); review on request (R. 212.3 RoP)."
+ },
+ "step:upc_schema_einstweilige_massnahmen.3.2": {
+  "_de": "16a17d93ee",
+  "label": "2. Content of the order (Art. 62(1) and 62(3) UPCA)",
+  "text": "Injunction, conditions, seizure, guarantees, freezing of bank accounts (Art. 62(3) UPCA, freezing order under Art. 61 UPCA); scope not limited to acts already committed."
+ },
+ "step:upc_schema_einstweilige_massnahmen.3.3": {
+  "_de": "0c35d02485",
+  "label": "3. Security and consequences (R. 211.5, 213 RoP, Art. 62(5) UPCA)",
+  "text": "Security from the applicant; time limit for starting the main action (31 calendar days/20 working days); damages if revoked; costs where the matter is disposed of (R. 360 RoP)."
+ },
+ "step:upc_schema_einstweilige_massnahmen.3.4": {
+  "_de": "3e0b28f689",
+  "label": "4. Appeal (Art. 73(2)(a) UPCA, R. 220.1(c) RoP)",
+  "text": "15 days; no suspensive effect, application under R. 223 RoP possible."
+ },
+ "schema:upc_schema_beweissicherung": {
+  "_de": "c32b23fd33",
+  "label": "Order to preserve evidence and inspection (Art. 60 UPCA, R. 192 to 199 RoP)",
+  "beschreibung": "The UPC's “saisie”: preservation of evidence and inspection of premises before or during the main action, often ex parte, with a court-appointed expert."
+ },
+ "step:upc_schema_beweissicherung.1": {
+  "_de": "47a2ca6d46",
+  "label": "A. Application (R. 192 RoP)",
+  "text": "Particulars of the patent, the defendant, the measures requested and the reasons; evidence of the (threatened) infringement; ex parte: disclosure of all material facts (R. 192.3 RoP); fee (R. 192.5 RoP)."
+ },
+ "step:upc_schema_beweissicherung.2": {
+  "_de": "6a0fd80ef3",
+  "label": "B. Requirements (Art. 60(1) UPCA, R. 194 RoP)"
+ },
+ "step:upc_schema_beweissicherung.2.1": {
+  "_de": "57ae4cc136",
+  "label": "1. Reasonably available evidence of infringement",
+  "text": "Lower threshold than in the main action: plausibility of the infringement; no mere speculation, no fishing expedition."
+ },
+ "step:upc_schema_beweissicherung.2.2": {
+  "_de": "c5ac701f64",
+  "label": "2. Discretion and proportionality (R. 194.2 RoP)",
+  "text": "Urgency, risk to the evidence, protection of confidentiality, fundamental rights (Art. 7 CFR), security (Art. 60(7) UPCA)."
+ },
+ "step:upc_schema_beweissicherung.3": {
+  "_de": "ba6240c495",
+  "label": "C. Order and execution (R. 196, 197 RoP)",
+  "text": "Description, taking of samples, seizure, inspection; expert (R. 196.4, 196.5 RoP) and restriction on use (R. 196.2 RoP); ex parte with review (R. 197.3 RoP); execution within the time limit."
+ },
+ "step:upc_schema_beweissicherung.4": {
+  "_de": "18ccf5eebd",
+  "label": "D. Consequences (R. 198 RoP, Art. 60(8) and 60(9) UPCA)",
+  "text": "Main action within 31 calendar days/20 working days, otherwise revocation; damages for the defendant; appeal within 15 days (Art. 73(2)(a) UPCA)."
+ },
+ "schema:upc_schema_nichtigkeit": {
+  "_de": "87047a1765",
+  "label": "Revocation action and counterclaim for revocation (Art. 65 UPCA, R. 25, 42 ff. RoP)",
+  "beschreibung": "Attacking validity before the UPC: as a stand-alone action before the central division or as a counterclaim in the infringement action; grounds from Art. 138 EPC; defence by amending the patent."
+ },
+ "step:upc_schema_nichtigkeit.1": {
+  "_de": "5656f6ac7d",
+  "label": "A. Admissibility"
+ },
+ "step:upc_schema_nichtigkeit.1.1": {
+  "_de": "31bafc61c4",
+  "label": "1. Type of action and division",
+  "text": "Revocation action: central division (Art. 33(4) UPCA), section according to IPC; counterclaim: with the Statement of defence before the local division (R. 25 RoP), then the options of Art. 33(3) UPCA."
+ },
+ "step:upc_schema_nichtigkeit.1.2": {
+  "_de": "409df0087c",
+  "label": "2. Standing (Art. 47(6) UPCA)",
+  "text": "Any person concerned by the patent (freedom to operate suffices); an opt-out bars the action."
+ },
+ "step:upc_schema_nichtigkeit.1.3": {
+  "_de": "a44d67d3ca",
+  "label": "3. Content and substantiation (R. 44, R. 25.1 RoP)",
+  "text": "Extent of the attack, grounds, facts, evidence and prior art for each claim; fee."
+ },
+ "step:upc_schema_nichtigkeit.1.4": {
+  "_de": "41c964e8aa",
+  "label": "4. No bar from parallel EPO proceedings",
+  "text": "An opposition at the EPO is no bar; stay at the Court's discretion (R. 295(a) RoP, Art. 33(10) UPCA)."
+ },
+ "step:upc_schema_nichtigkeit.2": {
+  "_de": "8f39542b09",
+  "label": "B. Merits: grounds for revocation (Art. 65(2) UPCA, Art. 138 EPC)"
+ },
+ "step:upc_schema_nichtigkeit.2.1": {
+  "_de": "8345f7f56f",
+  "label": "1. Interpretation of the claim",
+  "text": "The same principles as for infringement (NanoString/10x)."
+ },
+ "step:upc_schema_nichtigkeit.2.2": {
+  "_de": "d2337f8bcc",
+  "label": "2. Novelty and disclosure",
+  "text": "What is directly and unambiguously disclosed; no deriving of dimensions from schematic drawings; generic terms do not disclose all species."
+ },
+ "step:upc_schema_nichtigkeit.2.3": {
+  "_de": "c4de18617c",
+  "label": "3. Inventive step",
+  "text": "Realistic starting point, expectation of success (could/would), pointer for combinations, non-technical features in interaction."
+ },
+ "step:upc_schema_nichtigkeit.2.4": {
+  "_de": "0739c85452",
+  "label": "4. Added matter and sufficiency of disclosure",
+  "text": "Gold standard against every earlier application; feasibility without undue burden."
+ },
+ "step:upc_schema_nichtigkeit.3": {
+  "_de": "100d67d4e7",
+  "label": "C. Defence: amendment of the patent (R. 30, 50 RoP)",
+  "text": "A reasonable number of auxiliary requests with the defence; later amendments only with leave; defence of dependent claims without an auxiliary request; the reply to the Application to amend the patent may not raise new grounds for revocation."
+ },
+ "step:upc_schema_nichtigkeit.4": {
+  "_de": "48e06a44bd",
+  "label": "D. Decision and effect (Art. 65(3) to 65(5) UPCA)",
+  "text": "Partial revocation to the extent of the grounds; effect ex tunc; communication to the EPO; appeal with suspensive effect (Art. 74(2) UPCA)."
+ },
+ "schema:upc_schema_berufung": {
+  "_de": "8c69f62d2e",
+  "label": "Appeal to the Court of Appeal (Art. 73 to 75 UPCA, R. 220 to 243 RoP)",
+  "beschreibung": "Admissibility, time limit, form, adverse effect and scope of review of the appeal, as well as suspensive effect and the decision of the Court of Appeal."
+ },
+ "step:upc_schema_berufung.1": {
+  "_de": "ae900f6f00",
+  "label": "A. Appealable decisions (Art. 73 UPCA, R. 220 RoP)"
+ },
+ "step:upc_schema_berufung.1.1": {
+  "_de": "bf89075bf5",
+  "label": "1. Final decisions and decisions terminating the proceedings (R. 220.1(a) and 220.1(b) RoP)",
+  "text": "Appeal without leave within two months."
+ },
+ "step:upc_schema_berufung.1.2": {
+  "_de": "eadfc063f6",
+  "label": "2. Orders under Art. 49(5), 59 to 62, 67 UPCA (R. 220.1(c) RoP)",
+  "text": "Language, production of evidence, preservation of evidence, freezing orders, provisional measures, information: 15 days."
+ },
+ "step:upc_schema_berufung.1.3": {
+  "_de": "c7ee6b7e77",
+  "label": "3. Other orders: leave to appeal or discretionary review (R. 220.2 to 220.4 RoP)",
+  "text": "Case management orders, value of the dispute, setting of penalty payments, decisions under R. 333 RoP."
+ },
+ "step:upc_schema_berufung.2": {
+  "_de": "e2a5c213c8",
+  "label": "B. Time limit and form (R. 224 to 226 RoP)",
+  "text": "Starts with service of the reasoned decision; Statement of appeal and Statement of grounds of appeal with full statement of the grounds, facts and evidence; fee (R. 228 RoP)."
+ },
+ "step:upc_schema_berufung.3": {
+  "_de": "560eb95e31",
+  "label": "C. Adverse effect, cross-appeal, intervener (R. 237, 313 RoP)",
+  "text": "Only an adversely affected party; no cross-appeal merely to change the reasoning; conditional appeal in case of a conditional counterclaim; intervener without a position of its own."
+ },
+ "step:upc_schema_berufung.4": {
+  "_de": "5dfbe0b33b",
+  "label": "D. Suspensive effect (Art. 74 UPCA, R. 223 RoP)",
+  "text": "Principle: none; exception for decisions on revocation; application showing exceptional circumstances, complete the first time."
+ },
+ "step:upc_schema_berufung.5": {
+  "_de": "b64d0ddc80",
+  "label": "E. Scope of review and new submissions (R. 222 RoP)",
+  "text": "Appeal limited to the parts challenged; new facts and evidence only at the Court's discretion (diligence, relevance, observations); discretionary decisions of the first instance only subject to limited review."
+ },
+ "step:upc_schema_berufung.6": {
+  "_de": "49deaf61c7",
+  "label": "F. Decision (Art. 75 UPCA, R. 242 RoP)",
+  "text": "Rejection, setting aside and own decision (the rule) or, exceptionally, referral back; setting aside has retroactive effect; costs; rehearing (Art. 81 UPCA) as an extraordinary remedy."
+ },
+ "schema:upc_schema_kosten": {
+  "_de": "22315cad67",
+  "label": "Costs, fees and security for costs (Art. 69 UPCA, R. 150 to 158, 370 RoP)",
+  "beschreibung": "The UPC's law on costs in the order of review: court fees on filing, security during the proceedings, decision on the principle of costs in the judgment, determination afterwards."
+ },
+ "step:upc_schema_kosten.1": {
+  "_de": "2a9c8a1496",
+  "label": "A. Court fees (R. 370 RoP)",
+  "text": "Fixed fee plus value-based fee; value of the dispute according to the claimant's interest (R. 370.6 RoP); reduction for SMEs (R. 370.8 RoP); reimbursement on withdrawal and settlement (R. 370.9 RoP)."
+ },
+ "step:upc_schema_kosten.2": {
+  "_de": "54689b457d",
+  "label": "B. Security for costs (Art. 69(4) UPCA, R. 158 RoP)",
+  "text": "Only against the applicant; risk to recovery or unduly burdensome enforcement; own financial situation, insurance; consequence of failure to provide it: decision by default."
+ },
+ "step:upc_schema_kosten.3": {
+  "_de": "708fd18f05",
+  "label": "C. Decision on the principle of costs (Art. 69(1) to 69(3) UPCA)",
+  "text": "The unsuccessful party bears reasonable and proportionate costs up to the ceiling; apportionment in case of partial success; equity exceptions; intervener treated like a main party."
+ },
+ "step:upc_schema_kosten.4": {
+  "_de": "c92055e53c",
+  "label": "D. Cost proceedings (R. 150 to 157 RoP)",
+  "text": "Application within one month of the decision (R. 151 RoP); proceedings before the judge-rapporteur (R. 156 RoP); interim award of costs in the judgment (R. 150.2 RoP); appeal against the cost decision only with leave (R. 221 RoP)."
+ },
+ "schema:upc_schema_vertraulichkeit": {
+  "_de": "9ef2856598",
+  "label": "Application for protection of confidential information (Art. 58 UPCA, R. 262A RoP)",
+  "beschreibung": "Order of review for the protection of secrets in proceedings: application on filing, substantiation, balancing, confidentiality club, continued effect."
+ },
+ "step:upc_schema_vertraulichkeit.1": {
+  "_de": "f43f21e597",
+  "label": "A. Application (R. 262A.1 to 262A.3 RoP)",
+  "text": "On filing the document; unredacted and redacted version; reasons why the restriction under Art. 58 UPCA is necessary; general references to competition are not sufficient."
+ },
+ "step:upc_schema_vertraulichkeit.2": {
+  "_de": "f10f03c0e6",
+  "label": "B. Hearing and balancing (R. 262A.4, 262A.5 RoP)",
+  "text": "Comments of the other side; granted if the grounds significantly outweigh the interest in unrestricted access; right to an effective remedy and a fair trial, interests of third parties, potential harm."
+ },
+ "step:upc_schema_vertraulichkeit.3": {
+  "_de": "f090dd004a",
+  "label": "C. Confidentiality club (R. 262A.6 RoP)",
+  "text": "No more persons than necessary, at least one natural person per party and the representatives; employees generally not excluded; admission of former employees subject to conditions."
+ },
+ "step:upc_schema_vertraulichkeit.4": {
+  "_de": "3ef22e3887",
+  "label": "D. Effect and remedies",
+  "text": "Continued effect after the end of the instance; loss of secrecy protection upon disclosure without an order; distinction from R. 262.2 RoP (public access); appeal under R. 220.2, 220.3 RoP."
+ }
+}

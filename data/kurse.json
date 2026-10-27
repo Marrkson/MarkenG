@@ -30622,7 +30622,7 @@
       ],
       "richtig": 1,
       "loesung": [
-       "Richtig ist die zweite Antwort. **Anhang II EPGÜ** weist die Verfahren der Zentralkammer nach der **IPC-Klasse** des Patents den Abteilungen zu; München ist etwa für den Maschinenbau (Sektion F) zuständig, Mailand hat die früheren Londoner Zuständigkeiten übernommen. Die Zuweisung folgt R. 17.3 VerfO. Wahl des Klägers, Parteisitz und Sprache spielen keine Rolle."
+       "Richtig ist die zweite Antwort. **Anhang II EPGÜ** weist die Verfahren der Zentralkammer nach der **IPC-Klasse** des Patents den Abteilungen zu; München ist etwa für den Maschinenbau (Sektion F) und die Chemie (Sektion C) zuständig, Mailand für den täglichen Lebensbedarf (Sektion A ohne ESZ); die früheren Londoner Zuständigkeiten sind so auf Mailand und München verteilt. Die Zuweisung folgt R. 17.3 VerfO. Wahl des Klägers, Parteisitz und Sprache spielen keine Rolle."
       ],
       "merke": "",
       "level": 2,
@@ -31093,7 +31093,7 @@
       "id": "u01c-0",
       "typ": "intro",
       "titel": "Sieben Jahre Doppelzuständigkeit",
-      "text": "Für **Einheitspatente** ist das EPG von Anfang an ausschließlich zuständig; ein Opt-out ist ausgeschlossen (Art. 3 EPGÜ, Art. 3 EPatVO). Wie das Einheitspatent entsteht – Antrag auf einheitliche Wirkung binnen eines Monats nach dem Erteilungshinweis, Eintragung durch das EPA nach der DOEPS, Jahresgebühren nach der GebOEPS – behandelt das vierte Kapitel dieses Kurses. Für klassische **europäische Bündelpatente** und ESZ gilt eine **Übergangszeit von sieben Jahren** ab dem 1. Juni 2023, verlängerbar um bis zu sieben weitere Jahre: Verletzungs- und Nichtigkeitsklagen können weiterhin vor nationalen Gerichten erhoben werden (Art. 83 Abs. 1, 5 EPGÜ), anhängige nationale Verfahren bleiben unberührt (Abs. 2). Der Inhaber oder Anmelder kann die Zuständigkeit des EPG ganz ausschließen (**Opt-out**, Art. 83 Abs. 3 EPGÜ, R. 5 VerfO): Antrag bei der Kanzlei durch **alle** Inhaber, für alle benannten Staaten, wirksam mit Eintragung im Register – aber nur, solange noch keine Klage vor dem EPG erhoben ist. Der Rücktritt vom Opt-out (**Opt-in**, Abs. 4, R. 5.7, 5.8 VerfO) ist ausgeschlossen, sobald eine nationale Klage erhoben wurde; ein zweites Opt-out gibt es nicht (R. 5.10 VerfO). Unbefugte Opt-outs entfernt der Kanzler auf Antrag nach **R. 5A VerfO**; wer Inhaber ist, bestimmt R. 8.5 VerfO nach dem Recht des jeweiligen Staates (Silimed/Polytech). Die Zuständigkeit des EPG reicht zeitlich zurück: **Altfälle** vor dem 1. Juni 2023 sind erfasst, solange das Patent bei Inkrafttreten noch nicht erloschen war (Fives/REEL; Knaus Tabbert). Und über allem stehen die Grundsätze der **Präambel der VerfO**: Verhältnismäßigkeit, Flexibilität, Fairness und Billigkeit (Nr. 2 bis 5), mündliche Verhandlung binnen etwa eines Jahres und **vollständiger Vortrag so früh wie möglich** (Nr. 7, front-loaded).",
+      "text": "Für **Einheitspatente** ist das EPG von Anfang an ausschließlich zuständig; ein Opt-out ist ausgeschlossen (Art. 3 EPGÜ, Art. 3 EPatVO). Wie das Einheitspatent entsteht – Antrag auf einheitliche Wirkung binnen eines Monats nach dem Erteilungshinweis, Eintragung durch das EPA nach der DOEPS, Jahresgebühren nach der GebOEPS – behandelt das letzte Kapitel dieses Kurses. Für klassische **europäische Bündelpatente** und ESZ gilt eine **Übergangszeit von sieben Jahren** ab dem 1. Juni 2023, verlängerbar um bis zu sieben weitere Jahre: Verletzungs- und Nichtigkeitsklagen können weiterhin vor nationalen Gerichten erhoben werden (Art. 83 Abs. 1, 5 EPGÜ), anhängige nationale Verfahren bleiben unberührt (Abs. 2). Der Inhaber oder Anmelder kann die Zuständigkeit des EPG ganz ausschließen (**Opt-out**, Art. 83 Abs. 3 EPGÜ, R. 5 VerfO): Antrag bei der Kanzlei durch **alle** Inhaber, für alle benannten Staaten, wirksam mit Eintragung im Register – aber nur, solange noch keine Klage vor dem EPG erhoben ist. Der Rücktritt vom Opt-out (**Opt-in**, Abs. 4, R. 5.7, 5.8 VerfO) ist ausgeschlossen, sobald eine nationale Klage erhoben wurde; ein zweites Opt-out gibt es nicht (R. 5.10 VerfO). Unbefugte Opt-outs entfernt der Kanzler auf Antrag nach **R. 5A VerfO**; wer Inhaber ist, bestimmt R. 8.5 VerfO nach dem Recht des jeweiligen Staates (Silimed/Polytech). Die Zuständigkeit des EPG reicht zeitlich zurück: **Altfälle** vor dem 1. Juni 2023 sind erfasst, solange das Patent bei Inkrafttreten noch nicht erloschen war (Fives/REEL; Knaus Tabbert). Und über allem stehen die Grundsätze der **Präambel der VerfO**: Verhältnismäßigkeit, Flexibilität, Fairness und Billigkeit (Nr. 2 bis 5), mündliche Verhandlung binnen etwa eines Jahres und **vollständiger Vortrag so früh wie möglich** (Nr. 7, front-loaded).",
       "concepts": [
        "upc_uebergangsregelung",
        "upc_opt_out",
@@ -31972,7 +31972,7 @@
       "frage": "Kann die D-SE am 20. Mai Wiedereinsetzung beantragen?",
       "antwort": true,
       "loesung": [
-       "**Ja!** Die Frist des R. 6 Abs. 1 DOEPS ist wiedereinsetzungsfähig. Der Antrag ist binnen **zwei Monaten nach Ablauf der versäumten Frist** zu stellen, unabhängig vom Wegfall des Hindernisses (R. 22 Abs. 2 DOEPS); der 20. Mai liegt innerhalb dieser Frist. Der Antrag auf einheitliche Wirkung ist nachzuholen und die Gebühr zu zahlen (Art. 2 Abs. 2 GebOEPS)."
+       "**Ja!** Die Frist des R. 6 Abs. 1 DOEPS ist wiedereinsetzungsfähig. Der Antrag ist binnen **zwei Monaten nach Ablauf der versäumten Frist** zu stellen, unabhängig vom Wegfall des Hindernisses (R. 22 Abs. 2 DOEPS); der 20. Mai liegt innerhalb dieser Frist. Der Antrag auf einheitliche Wirkung ist innerhalb der Antragsfrist nachzuholen (R. 22 Abs. 3 DOEPS), und der Wiedereinsetzungsantrag gilt erst mit Zahlung der Wiedereinsetzungsgebühr als gestellt (R. 22 Abs. 2 DOEPS, Art. 2 Abs. 2 GebOEPS)."
       ],
       "merke": "",
       "level": 2,
@@ -32069,7 +32069,7 @@
       "frage": "Ist der richtige Rechtsbehelf die Klage nach R. 88 VerfO mit zwei Monaten Frist?",
       "antwort": false,
       "loesung": [
-       "**Nein!** Gegen die Zurückweisung eines Antrags auf einheitliche Wirkung ist der Antrag nach **R. 97 VerfO** statthaft: drei Wochen Frist, Weiterleitung an den Eilrichter, Entscheidung binnen drei Wochen. Alle anderen Entscheidungen der Abteilung greift man nach R. 88 VerfO binnen zwei Monaten an."
+       "**Nein!** Gegen die Zurückweisung eines Antrags auf einheitliche Wirkung ist der Antrag nach **R. 97 VerfO** statthaft: drei Wochen Frist, Weiterleitung an den ständigen Richter, Entscheidung binnen drei Wochen (R. 97.4 VerfO). Alle anderen Entscheidungen der Abteilung greift man nach R. 88 VerfO binnen zwei Monaten an."
       ],
       "merke": "",
       "level": 3,
@@ -32103,9 +32103,9 @@
       "frage": "Muss das EPA vor der Entscheidung des EPG über eine Abhilfe befinden?",
       "antwort": false,
       "loesung": [
-       "**Nein!** Die Abhilfe (R. 24 DOEPS, R. 91 VerfO) ist nach **R. 85 Abs. 2 VerfO** für beschleunigte Verfahren ausgeschlossen. Das Verfahren nach R. 97 VerfO ist ein solches; R. 97 VerfO ist lex specialis und kennt keine Abhilfe (Bodycap/EPA)."
+       "**Nein!** Die Abhilfe (R. 24 DOEPS, R. 91 VerfO) ist nach **R. 85.2 VerfO** für beschleunigte Verfahren ausgeschlossen. Das Verfahren nach R. 97 VerfO ist ein solches; R. 97 VerfO ist lex specialis und kennt keine Abhilfe (Bodycap/EPA)."
       ],
-      "merke": "R. 97 VerfO: drei Wochen, Eilrichter, keine Abhilfe durch das EPA.",
+      "merke": "R. 97 VerfO: drei Wochen, ständiger Richter, keine Abhilfe durch das EPA.",
       "level": 3,
       "concepts": [
        "upc_up_rechtsbehelf",
@@ -32469,7 +32469,7 @@
   "gebiet": "upc",
   "kompakt": "fragen",
   "titel": "Zuständigkeit und Kammerwahl",
-  "untertitel": "Art. 31 EPGÜ mit der Brüssel-Ia-VO, Art. 33 EPGÜ mit dieselben Parteien und den drei Optionen bei der Widerklage, der Einspruch nach R. 19 bis 21 VerfO und R. 333 VerfO",
+  "untertitel": "Art. 31 EPGÜ mit der Brüssel-Ia-VO, Art. 33 EPGÜ mit „denselben Parteien“ und den drei Optionen bei der Widerklage, der Einspruch nach R. 19 bis 21 VerfO und R. 333 VerfO",
   "farbe": "#6a3d8f",
   "icon": "zulaessigkeit",
   "beschreibung": "Vier Stufen der Zuständigkeitsprüfung vor dem EPG: internationale Zuständigkeit nach der Brüssel-Ia-VO (Sinocare/Abbott, Dyson/Dreame, NUC/Hurom), sachliche Zuständigkeit nach Art. 32 EPGÜ, die richtige Kammer nach Art. 33 EPGÜ (Barco/Yealink, Meril/Edwards, Seoul Viosys/Emporia, Pari/Philips) und die Rüge durch den Einspruch (Roku/Dolby, Vivo/Sun Patent, Sun Patent/Vivo, Netgear/Huawei).",
@@ -32559,7 +32559,7 @@
       "typ": "fall",
       "titel": "Drittstaatenbeklagter",
       "sachverhalt": "",
-      "frage": "Kann das EPG die A-Ltd. verklagen, obwohl sie keinen Sitz in einem Mitgliedstaat hat?",
+      "frage": "Kann die A-Ltd. vor dem EPG verklagt werden, obwohl sie keinen Sitz in einem Mitgliedstaat hat?",
       "antwort": true,
       "loesung": [
        "**Ja!** Gegen Beklagte ohne Sitz in einem Mitgliedstaat ist das EPG zuständig, wenn der **Schadensort** im Gebiet der Vertragsmitgliedstaaten liegt (Art. 71b Nr. 2 Brüssel-Ia-VO i.V.m. Art. 7 Nr. 2 Brüssel-Ia-VO). Auf den Sitz kommt es dann nicht an."
@@ -34568,7 +34568,7 @@
       ],
       "step": "step:upc_schema_verletzungsklage.1.4",
       "distinctions": [],
-      "abschnitt": "R. 4 VerfO: elektronische Einreichung",
+      "abschnitt": "R. 4, 24, 25 VerfO: Einreichung und Klageerwiderung",
       "gruppe": {
        "id": "u03a-3",
        "titel": "Der falsche Workflow",
@@ -34602,7 +34602,7 @@
       ],
       "step": "step:upc_schema_verletzungsklage.1.4",
       "distinctions": [],
-      "abschnitt": "R. 4 VerfO: elektronische Einreichung",
+      "abschnitt": "R. 4, 24, 25 VerfO: Einreichung und Klageerwiderung",
       "gruppe": {
        "id": "u03a-3",
        "titel": "Der falsche Workflow",
@@ -34636,7 +34636,7 @@
       "cases": [],
       "step": "step:upc_schema_verletzungsklage.1.4",
       "distinctions": [],
-      "abschnitt": "R. 4 VerfO: elektronische Einreichung",
+      "abschnitt": "R. 4, 24, 25 VerfO: Einreichung und Klageerwiderung",
       "gruppe": {
        "id": "u03a-3",
        "titel": "Der falsche Workflow",
@@ -34668,7 +34668,7 @@
       "cases": [],
       "step": "step:upc_schema_verletzungsklage.1.4",
       "distinctions": [],
-      "abschnitt": "R. 4 VerfO: elektronische Einreichung",
+      "abschnitt": "R. 4, 24, 25 VerfO: Einreichung und Klageerwiderung",
       "gruppe": {
        "id": "u03a-3",
        "titel": "Der falsche Workflow",
@@ -34703,7 +34703,7 @@
       "cases": [],
       "step": "step:upc_schema_verletzungsklage.1.4",
       "distinctions": [],
-      "abschnitt": "R. 4 VerfO: elektronische Einreichung",
+      "abschnitt": "R. 4, 24, 25 VerfO: Einreichung und Klageerwiderung",
       "gruppe": {
        "id": "u03a-3",
        "titel": "Der falsche Workflow",
@@ -34859,7 +34859,7 @@
       "id": "u03b-0",
       "typ": "intro",
       "titel": "Wer das Verfahren leitet und in welcher Sprache",
-      "text": "Das Verfahren hat **drei Abschnitte** (Art. 52 EPGÜ, R. 10 VerfO). Im **schriftlichen Verfahren** folgen auf die Klageschrift die Klageerwiderung (drei Monate, R. 23 VerfO, Inhalt R. 24 VerfO) mit etwaiger Widerklage auf Nichtigerklärung (R. 25 VerfO), die Erwiderung des Klägers auf die Widerklage samt Replik und Änderungsantrag nach R. 30 VerfO (zwei Monate, R. 29 VerfO), dann Replik und Duplik (R. 29 VerfO). Die **Verfahrenssprache** wählt der Kläger in der Klageschrift aus den Sprachen der Kammer (Art. 49 Abs. 1, 2 EPGÜ, R. 14 VerfO); die deutschen Lokalkammern lassen Englisch zu. Die Parteien können die Patentsprache vereinbaren (Abs. 3), der Spruchkörper kann sie mit Zustimmung der Parteien wählen (Abs. 4), und der Präsident des Gerichts erster Instanz kann sie auf Antrag einer Partei aus Fairnessgründen anordnen (Abs. 5, R. 323 VerfO; TP-Link/Huawei). Vor der Zentralkammer gilt die Patentsprache (Abs. 6), vor dem Berufungsgericht die Sprache der ersten Instanz (Art. 50 EPGÜ). Verdolmetschung gibt es nur, soweit angemessen (Art. 51 Abs. 2 EPGÜ, R. 109 VerfO; 10x/Curio). Der Vorsitzende bestimmt einen rechtlich qualifizierten Richter zum **Berichterstatter** (R. 18 VerfO), der das schriftliche Verfahren und das **Zwischenverfahren** leitet (R. 331, 334 VerfO): Zwischenanhörung per Videokonferenz, Fragen, Beweisanordnungen, Streitwert, Vergleichsgespräch (R. 101 bis 106 VerfO), Abschluss binnen drei Monaten (R. 101.3 VerfO). Seine Anordnungen überprüft der Spruchkörper auf Antrag binnen 15 Tagen (**R. 333 VerfO**); er kann jede Frage an den Spruchkörper verweisen (R. 102 VerfO; Vivo/Sun Patent). Die **mündliche Verhandlung** vor dem Spruchkörper leitet der Vorsitzende (R. 111, 112 VerfO); sie ist öffentlich und wird aufgezeichnet (Art. 45 EPGÜ, R. 115 VerfO), soll einen Tag nicht überschreiten (R. 113 VerfO) und wird mindestens zwei Monate vorher anberaumt (R. 108 VerfO). Wer fernbleibt, wird auf seine Schriftsätze verwiesen (R. 116.3 VerfO); die Entscheidung ergeht schriftlich, in der Regel binnen sechs Wochen (R. 118.6 VerfO).",
+      "text": "Das Verfahren hat **drei Abschnitte** (Art. 52 EPGÜ, R. 10 VerfO). Im **schriftlichen Verfahren** folgen auf die Klageschrift die Klageerwiderung (drei Monate, R. 23 VerfO, Inhalt R. 24 VerfO) mit etwaiger Widerklage auf Nichtigerklärung (R. 25 VerfO), die Erwiderung des Klägers auf die Widerklage samt Replik auf die Klageerwiderung und Änderungsantrag nach R. 30 VerfO (zwei Monate, R. 29 lit. a VerfO), dann die Replik des Beklagten auf die Erwiderung zur Widerklage mit Duplik (zwei Monate, R. 29 lit. d VerfO) und die Duplik des Klägers (ein Monat, R. 29 lit. e VerfO). Die **Verfahrenssprache** wählt der Kläger in der Klageschrift aus den Sprachen der Kammer (Art. 49 Abs. 1, 2 EPGÜ, R. 14 VerfO); die deutschen Lokalkammern lassen Englisch zu. Die Parteien können die Patentsprache vereinbaren (Abs. 3), der Spruchkörper kann sie mit Zustimmung der Parteien wählen (Abs. 4), und der Präsident des Gerichts erster Instanz kann sie auf Antrag einer Partei aus Fairnessgründen anordnen (Abs. 5, R. 323 VerfO; TP-Link/Huawei). Vor der Zentralkammer gilt die Patentsprache (Abs. 6), vor dem Berufungsgericht die Sprache der ersten Instanz (Art. 50 EPGÜ). Verdolmetschung gibt es nur, soweit angemessen (Art. 51 Abs. 2 EPGÜ, R. 109 VerfO; 10x/Curio). Der Vorsitzende bestimmt einen rechtlich qualifizierten Richter zum **Berichterstatter** (R. 18 VerfO), der das schriftliche Verfahren und das **Zwischenverfahren** leitet (R. 331, 334 VerfO): Zwischenanhörung per Videokonferenz, Fragen, Beweisanordnungen, Streitwert, Vergleichsgespräch (R. 101 bis 106 VerfO), Abschluss binnen drei Monaten (R. 101.3 VerfO). Seine Anordnungen überprüft der Spruchkörper auf Antrag binnen 15 Tagen (**R. 333 VerfO**); er kann jede Frage an den Spruchkörper verweisen (R. 102 VerfO; Vivo/Sun Patent). Die **mündliche Verhandlung** vor dem Spruchkörper leitet der Vorsitzende (R. 111, 112 VerfO); sie ist öffentlich und wird aufgezeichnet (Art. 45 EPGÜ, R. 115 VerfO), soll einen Tag nicht überschreiten (R. 113 VerfO) und wird mindestens zwei Monate vorher anberaumt (R. 108 VerfO). Wer fernbleibt, wird auf seine Schriftsätze verwiesen (R. 116.3 VerfO); die Entscheidung ergeht schriftlich, in der Regel binnen sechs Wochen (R. 118.6 VerfO).",
       "concepts": [
        "upc_verfahrensablauf",
        "upc_verfahrenssprache",
@@ -37307,7 +37307,7 @@
       "id": "u04c-0",
       "typ": "intro",
       "titel": "Was der Beklagte noch einwenden kann",
-      "text": "Nach Auslegung und Benutzungshandlung prüft das Gericht, ob die Handlung **im Gebiet** der Vertragsmitgliedstaaten und **ohne Zustimmung** erfolgte, und dann die Einwendungen. **Art. 27 EPGÜ** zählt die Beschränkungen der Wirkung auf, umfangreicher als § 11 PatG: private Handlungen (lit. a), Versuchshandlungen (lit. b), Züchtungsprivileg (lit. c), Bolar-Ausnahme für Zulassungsstudien (lit. d), Apothekenrezepturen (lit. e), fremde Schiffe und Luftfahrzeuge (lit. f, g), Landwirteprivileg (lit. i, j) und Dekompilierung von Software (lit. k, l). Wichtig für Art. 26 EPGÜ: Wer nach Art. 27 lit. a bis e EPGÜ handelt, ist keine „berechtigte Person“ (Art. 26 Abs. 3 EPGÜ), Lieferungen an ihn können also mittelbare Verletzung sein. **Art. 28 EPGÜ** verweist das Vorbenutzungsrecht in das nationale Recht des jeweiligen Staates (in Deutschland § 12 PatG); es wirkt nur territorial. **Art. 29 EPGÜ** regelt die unionsweite, nicht die internationale Erschöpfung; berechtigte Gründe des Inhabers gegen den Weitervertrieb bleiben vorbehalten, die Beweislast für das Inverkehrbringen mit Zustimmung trägt der Beklagte (Art. 54 EPGÜ). Auf der Passivseite bestimmt **Art. 63 EPGÜ** i.V.m. Art. 25 EPGÜ autonom, wer „Verletzer“ ist: auch Anstifter, Mittäter und Gehilfen, aber der Geschäftsführer nicht schon kraft Organstellung (Belkin/Philips). Bei standardessentiellen Patenten kann der **FRAND-Einwand** aus Art. 102 AEUV den Unterlassungsanspruch sperren; die Lokalkammern Düsseldorf, Mannheim und München verlangen dafür einen lizenzwilligen Lizenzsucher (Dolby/Beko).",
+      "text": "Nach Auslegung und Benutzungshandlung prüft das Gericht, ob die Handlung **im Gebiet** der Vertragsmitgliedstaaten und **ohne Zustimmung** erfolgte, und dann die Einwendungen. **Art. 27 EPGÜ** zählt die Beschränkungen der Wirkung auf, umfangreicher als § 11 PatG: private Handlungen (lit. a), Versuchshandlungen (lit. b), Züchtungsprivileg (lit. c), Bolar-Ausnahme für Zulassungsstudien (lit. d), Apothekenrezepturen (lit. e), fremde Schiffe und Luftfahrzeuge (lit. f, g), Landwirteprivileg (lit. i, j) und Dekompilierung und Interoperabilität von Software (lit. k) und Handlungen nach Artikel 10 der Biotechnologie-Richtlinie 98/44/EG (lit. l). Wichtig für Art. 26 EPGÜ: Wer nach Art. 27 lit. a bis e EPGÜ handelt, ist keine „berechtigte Person“ (Art. 26 Abs. 3 EPGÜ), Lieferungen an ihn können also mittelbare Verletzung sein. **Art. 28 EPGÜ** verweist das Vorbenutzungsrecht in das nationale Recht des jeweiligen Staates (in Deutschland § 12 PatG); es wirkt nur territorial. **Art. 29 EPGÜ** regelt die unionsweite, nicht die internationale Erschöpfung; berechtigte Gründe des Inhabers gegen den Weitervertrieb bleiben vorbehalten, die Beweislast für das Inverkehrbringen mit Zustimmung trägt der Beklagte (Art. 54 EPGÜ). Auf der Passivseite bestimmt **Art. 63 EPGÜ** i.V.m. Art. 25 EPGÜ autonom, wer „Verletzer“ ist: auch Anstifter, Mittäter und Gehilfen, aber der Geschäftsführer nicht schon kraft Organstellung (Belkin/Philips). Bei standardessentiellen Patenten kann der **FRAND-Einwand** aus Art. 102 AEUV den Unterlassungsanspruch sperren; die Lokalkammern Düsseldorf, Mannheim und München verlangen dafür einen lizenzwilligen Lizenzsucher (Dolby/Beko).",
       "concepts": [
        "upc_beschraenkungen_wirkung",
        "upc_erschoepfung",
@@ -38625,7 +38625,7 @@
       "frage": "Muss Dreame ein Verschulden von Dyson beweisen, um Schadensersatz zu erhalten?",
       "antwort": false,
       "loesung": [
-       "**Nein!** Wird die Anordnung aufgehoben oder stellt sich heraus, dass keine Verletzung vorlag, hat der Antragsgegner Anspruch auf angemessenen Ersatz **ohne Verschulden** des Antragstellers (Art. 62 Abs. 5 EPGÜ i.V.m. Art. 60 Abs. 9 EPGÜ, R. 213.2 VerfO)."
+       "**Nein!** Wird die Anordnung aufgehoben oder stellt sich heraus, dass keine Verletzung vorlag, kann das Gericht auf Antrag des Antragsgegners anordnen, dass der Antragsteller angemessenen Ersatz leistet, **ohne dass es auf ein Verschulden** des Antragstellers ankommt (Art. 62 Abs. 5 EPGÜ i.V.m. Art. 60 Abs. 9 EPGÜ, R. 213.2 VerfO)."
       ],
       "merke": "",
       "level": 3,
@@ -38692,7 +38692,7 @@
       "id": "u05b-0",
       "typ": "intro",
       "titel": "Drei Instrumente, drei Maßstäbe",
-      "text": "Das EPGÜ gibt dem Patentinhaber drei Wege zu Beweisen in fremder Hand. Die **Beweissicherung** nach Art. 60 EPGÜ, R. 192 bis 199 VerfO (saisie-artige Beschreibung, Probenahme, Beschlagnahme, Besichtigung von Räumlichkeiten durch eine vom Gericht bestellte Person) kann schon vor dem Hauptverfahren und **ohne Anhörung** des Gegners angeordnet werden, wenn Verzögerung nicht wiedergutzumachenden Schaden droht oder Beweise vernichtet werden könnten (Art. 60 Abs. 5 EPGÜ, R. 197 VerfO). Der Maßstab ist niedriger als in der Hauptsache: „vernünftigerweise verfügbare Beweismittel“ für eine plausible Verletzung, aber keine Spekulation und keine „fishing expedition“ (Centripetal/Palo Alto). Die **Beweisvorlage** nach Art. 59 EPGÜ, R. 190 VerfO ist dagegen ein Instrument des laufenden Verfahrens: Wer alle verfügbaren Beweise vorgelegt und bestimmte Beweismittel beim Gegner oder einem Dritten bezeichnet hat, kann deren Vorlage beantragen; sie dient dem Beweis substantiierter, erheblicher und bestrittener Tatsachen, nicht der Ermittlung unbekannter Tatsachen, und ist mit Vertraulichkeitsschutz nach R. 262A VerfO zu verbinden. Beide sind vom **Antrag auf einstweilige Maßnahmen** (Art. 62 EPGÜ) zu unterscheiden, der die Verletzung unterbindet statt Beweise zu sichern. Gemeinsam ist allen Ex-parte-Anordnungen die gesteigerte **Offenlegungspflicht** des Antragstellers (R. 192.3, R. 206.4 VerfO; Ecovacs/Roborock) und das Gegenmittel des Antragsgegners: die **Schutzschrift** nach R. 207 VerfO, die das Gericht bei der Frage, ob es ohne Anhörung entscheidet, berücksichtigen muss (R. 194.6, R. 209.2 lit. d VerfO). Rechtsschutz für den Betroffenen: Überprüfung (R. 197.3, R. 212.3 VerfO), Frist zur Hauptsacheklage (31 Kalendertage oder 20 Arbeitstage, R. 198.1, R. 213.1 VerfO), Schadensersatz (Art. 60 Abs. 9 EPGÜ).",
+      "text": "Das EPGÜ gibt dem Patentinhaber drei Wege zu Beweisen in fremder Hand. Die **Beweissicherung** nach Art. 60 EPGÜ, R. 192 bis 199 VerfO (saisie-artige Beschreibung, Probenahme, Beschlagnahme, Besichtigung von Räumlichkeiten durch eine vom Gericht bestellte Person) kann schon vor dem Hauptverfahren und **ohne Anhörung** des Gegners angeordnet werden, wenn Verzögerung nicht wiedergutzumachenden Schaden droht oder Beweise vernichtet werden könnten (Art. 60 Abs. 5 EPGÜ, R. 197 VerfO). Der Maßstab ist niedriger als in der Hauptsache: „vernünftigerweise verfügbare Beweismittel“ für eine plausible Verletzung, aber keine Spekulation und keine „fishing expedition“ (Centripetal/Palo Alto). Die **Beweisvorlage** nach Art. 59 EPGÜ, R. 190 VerfO ist dagegen ein Instrument des laufenden Verfahrens: Wer alle verfügbaren Beweise vorgelegt und bestimmte Beweismittel beim Gegner oder einem Dritten bezeichnet hat, kann deren Vorlage beantragen; sie dient dem Beweis substantiierter, erheblicher und bestrittener Tatsachen, nicht der Ermittlung unbekannter Tatsachen, und ist mit Vertraulichkeitsschutz nach R. 262A VerfO zu verbinden. Beide sind vom **Antrag auf einstweilige Maßnahmen** (Art. 62 EPGÜ) zu unterscheiden, der die Verletzung unterbindet statt Beweise zu sichern. Gemeinsam ist allen Ex-parte-Anordnungen die gesteigerte **Offenlegungspflicht** des Antragstellers (R. 192.3, R. 206.4 VerfO; Ecovacs/Roborock) und das Gegenmittel des Antragsgegners: die **Schutzschrift** nach R. 207 VerfO, die das Gericht bei einstweiligen Maßnahmen berücksichtigen muss (R. 209.2 lit. d VerfO); betrifft sie das Patent eines Antrags auf Beweissicherung, kann der Antragsteller seinen Antrag zurücknehmen (R. 194.6 VerfO). Rechtsschutz für den Betroffenen: Überprüfung (R. 197.3, R. 212.3 VerfO), Frist zur Hauptsacheklage (31 Kalendertage oder 20 Arbeitstage, R. 198.1, R. 213.1 VerfO), Schadensersatz (Art. 60 Abs. 9 EPGÜ).",
       "concepts": [
        "upc_beweissicherung",
        "upc_beweisanordnung",
@@ -39070,7 +39070,7 @@
       "frage": "Hätte sich Roborock vorab schützen können?",
       "antwort": true,
       "loesung": [
-       "**Ja!** Mit einer **Schutzschrift** nach R. 207 VerfO. Das Gericht muss sie bei der Entscheidung berücksichtigen, ob es ohne Anhörung entscheidet (R. 194.6, R. 209.2 VerfO)."
+       "**Ja!** Mit einer **Schutzschrift** nach R. 207 VerfO. Sie zielt auf einstweilige Maßnahmen, die das Gericht dann unter Berücksichtigung der Schutzschrift prüft (R. 209.2 lit. d VerfO); bei der Beweissicherung kann der Antragsteller seinen Antrag zurücknehmen, wenn zu seinem Patent eine Schutzschrift vorliegt (R. 194.6 VerfO)."
       ],
       "merke": "",
       "level": 2,
@@ -47884,7 +47884,7 @@
       "id": "u10b-0",
       "typ": "intro",
       "titel": "Dieselben Rechtsfolgen, drei Adressen",
-      "text": "**Schadensersatz**: Art. 13 Abs. 1 DurchsetzungsRL verlangt Ersatz für den Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzung begeht, bemessen entweder nach allen Aspekten einschließlich Gewinneinbußen, Verletzergewinn und immateriellem Schaden (lit. a) oder als Pauschale auf Grundlage mindestens der hypothetischen Lizenzgebühr (lit. b); für den gutgläubigen Verletzer erlaubt Abs. 2 die Herausgabe der Gewinne oder eine Entschädigung. Art. 68 EPGÜ übernimmt das nahezu wörtlich und fügt in Abs. 2 hinzu, dass der Schadensersatz keinen Strafcharakter hat; § 139 Abs. 2 PatG und § 14 Abs. 6 MarkenG enthalten dieselben drei Berechnungsarten, gehen aber mit der Verschuldenshaftung nach deutschem Muster (Vorsatz oder Fahrlässigkeit) über die Richtlinie hinaus, was Art. 2 Abs. 1 DurchsetzungsRL als günstigere Regelung erlaubt. **Kosten**: Art. 14 DurchsetzungsRL will, dass die Prozesskosten und sonstigen Kosten der obsiegenden Partei in der Regel von der unterlegenen Partei getragen werden, soweit sie **zumutbar und angemessen** sind und Billigkeitsgründe nicht entgegenstehen; Art. 69 Abs. 1 EPGÜ wiederholt das und ergänzt die **Obergrenze** nach der Verfahrensordnung, die der EuGH in United Video Properties für Pauschalen des nationalen Rechts gebilligt hat, sofern ein erheblicher und angemessener Teil der tatsächlichen Kosten erstattet wird. Im deutschen Recht leisten §§ 91 ff. ZPO mit der Erstattung nach RVG und der Streitwertbegünstigung des § 144 PatG dasselbe. **Veröffentlichung**: Art. 15 DurchsetzungsRL, Art. 80 EPGÜ, § 140e PatG und § 19c MarkenG erlauben auf Antrag des Obsiegenden und auf Kosten des Verletzers die Bekanntmachung der Entscheidung. Die Unterschiede liegen im Verfahren: Das EPG setzt die Höhe des Schadensersatzes im gesonderten Verfahren nach R. 125 ff. VerfO fest, die Kosten nach R. 150 ff. VerfO – anders als die deutsche Stufenklage mit Auskunft, Rechnungslegung und Bezifferung.",
+      "text": "**Schadensersatz**: Art. 13 Abs. 1 DurchsetzungsRL verlangt Ersatz für den Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er eine Verletzung begeht, bemessen entweder nach allen Aspekten einschließlich Gewinneinbußen, Verletzergewinn und immateriellem Schaden (lit. a) oder als Pauschale auf Grundlage mindestens der hypothetischen Lizenzgebühr (lit. b); für den gutgläubigen Verletzer erlaubt Abs. 2 die Herausgabe der Gewinne oder eine Entschädigung. Art. 68 EPGÜ übernimmt das nahezu wörtlich und fügt in Abs. 2 hinzu, dass der Schadensersatz keinen Strafcharakter hat; § 139 Abs. 2 PatG und § 14 Abs. 6 MarkenG enthalten dieselben drei Berechnungsarten, und setzen Vorsatz oder Fahrlässigkeit voraus, was dem Maßstab des Art. 13 Abs. 1 DurchsetzungsRL („wusste oder vernünftigerweise hätte wissen müssen“) entspricht. **Kosten**: Art. 14 DurchsetzungsRL will, dass die Prozesskosten und sonstigen Kosten der obsiegenden Partei in der Regel von der unterlegenen Partei getragen werden, soweit sie **zumutbar und angemessen** sind und Billigkeitsgründe nicht entgegenstehen; Art. 69 Abs. 1 EPGÜ wiederholt das und ergänzt die **Obergrenze** nach der Verfahrensordnung, die der EuGH in United Video Properties für Pauschalen des nationalen Rechts gebilligt hat, sofern ein erheblicher und angemessener Teil der tatsächlichen Kosten erstattet wird. Im deutschen Recht leisten §§ 91 ff. ZPO mit der Erstattung nach RVG und der Streitwertbegünstigung des § 144 PatG dasselbe. **Veröffentlichung**: Art. 15 DurchsetzungsRL, Art. 80 EPGÜ, § 140e PatG und § 19c MarkenG erlauben auf Antrag des Obsiegenden und auf Kosten des Verletzers die Bekanntmachung der Entscheidung. Die Unterschiede liegen im Verfahren: Das EPG setzt die Höhe des Schadensersatzes im gesonderten Verfahren nach R. 125 ff. VerfO fest, die Kosten nach R. 150 ff. VerfO – anders als die deutsche Stufenklage mit Auskunft, Rechnungslegung und Bezifferung.",
       "concepts": [
        "upc_schadensersatz",
        "upc_kostenerstattung",
@@ -48003,7 +48003,7 @@
       "typ": "fall",
       "titel": "Deutsches Recht",
       "sachverhalt": "",
-      "frage": "Kennt das deutsche Recht einen Verletzerzuschlag?",
+      "frage": "Kennen PatG und MarkenG einen Verletzerzuschlag?",
       "antwort": false,
       "loesung": [
        "**Nein!** § 139 Abs. 2 PatG und § 14 Abs. 6 MarkenG gewähren die einfache Lizenzanalogie als eine von drei Berechnungsarten."
@@ -48140,7 +48140,7 @@
       "frage": "Muss das EPG die Obergrenze unangewendet lassen?",
       "antwort": false,
       "loesung": [
-       "**Nein!** Die Obergrenzen sind streitwertgestaffelt; die Tabelle erlaubt bei besonderer Komplexität oder mehreren Sprachen eine Anhebung auf Antrag. Ilion muss diese im Kostenfestsetzungsverfahren beantragen (R. 152, R. 156 VerfO)."
+       "**Nein!** Die Obergrenzen sind streitwertgestaffelt; die Tabelle erlaubt bei besonderer Komplexität oder mehreren Sprachen eine Anhebung auf Antrag. Ilion muss diese im Kostenfestsetzungsverfahren beantragen (R. 151, R. 152.2 VerfO)."
       ],
       "merke": "",
       "level": 3,

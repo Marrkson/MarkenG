@@ -11,7 +11,7 @@ Geprüft wird
 Normtexte: data/*.json (MarkenG, PatG, PatV, IntPatÜG, PatKostG, DesignG, DesignV) und für alle übrigen Gesetze der
 gesetze-im-internet-XML im Cache ~/.cache/ipelico/gesetze/ (mit --net nachladen).
 
-Aufruf:  python3 tools/check_zitate.py [--net] [--paket marken|patent|design|upc|texte] [--alle] [--json DATEI]
+Aufruf:  python3 tools/check_zitate.py [--net] [--paket marken|patent|design|upc|en|texte] [--alle] [--json DATEI]
 Ausgabe: Befunde je Knoten; Exit-Code 1 bei Fehlern (Warnungen: unverlinkte Zitate, fehlende Normtexte).
 """
 import io
@@ -31,11 +31,13 @@ import fetch_patent  # noqa: E402
 from knowledge.gesetze import LAWS, EU_LAWS, ARTICLE_URLS, DEFAULT_LAW, RULE_HEADS, G_HEAD, G_NUMS, G_SUB, _ROMAN_HEAD, resolve, href_for, _NUM  # noqa: E402
 from knowledge.kurse import KURSE  # noqa: E402
 from knowledge.klausur import DATA as KLAUSUR  # noqa: E402
+from knowledge.upc import en as upc_en  # noqa: E402
+from knowledge.gesetze import ALIASES  # noqa: E402
 
 CACHE = Path.home() / ".cache" / "ipelico" / "gesetze"
 LOCAL = {"MarkenG": "markeng", "PatG": "patg", "PatV": "patv", "IntPatÜG": "intpatueg", "IntPatÜbkG": "intpatueg",
          "PatKostG": "patkostg", "DesignG": "designg", "DesignV": "designv", "ArbnErfG": "arbnerfg"}
-PAKET_LAW = {"marken": DEFAULT_LAW, "patent": None, "design": None, "upc": None}
+PAKET_LAW = {"marken": DEFAULT_LAW, "patent": None, "design": None, "upc": None, "en": None}
 SKIP_KEYS = {"url", "url_pdf", "url_en", "id", "icon", "farbe", "concepts", "cases", "distinctions", "norms", "related",
              "ipwiki", "quellen", "tags", "az", "date", "court", "fundstelle", "rl", "korpus", "type", "schema", "step",
              "umsetzung", "entspricht", "bezug", "typ", "level", "order", "gebiet"}
@@ -220,6 +222,12 @@ def items(graph):
             for u in c["einheiten"]:
                 walk(u, "", lambda p, s: out.append((pk, "unit:" + u["id"], p, s, PAKET_LAW[pk])))
     walk(KLAUSUR, "", lambda p, s: out.append(("marken", "klausur", p, s, DEFAULT_LAW)))
+    # englische EPG-App (knowledge/upc/en): Hinweise an Normen mit der Norm als Kontextgesetz, sonst ohne
+    for datei, entries in upc_en.laden().items():
+        for key, e in entries.items():
+            fam = key.split(":")[1] if key.startswith("eunorm:") else None
+            ctx = ALIASES.get(upc_en.FAM_EN[fam]["kurz"], upc_en.FAM_EN[fam]["kurz"]) if fam else None
+            walk({k: v for k, v in e.items() if k != "_de"}, "", lambda p, s: out.append(("en", "%s:%s" % (datei, key), p, s, ctx)))
     for f, key, pk in (("patent_entscheidungen.json", "ls", "patent"), ("design_entscheidungen.json", "ls", "design"),
                        ("upc_entscheidungen.json", "leitsatz", "upc")):
         d = json.loads((ROOT / "docs" / f).read_text())
@@ -271,7 +279,7 @@ def main():
             if how == "alte Fassung":
                 continue
             href = href_for(m, law)
-            content = pk in ("marken", "patent", "design", "upc")
+            content = pk in ("marken", "patent", "design", "upc", "en")
             if law == "":
                 befunde.append(("WARNUNG", pk, nid, field, cite, "nicht verlinkbares Gesetz", around))
                 continue

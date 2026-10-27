@@ -20841,7 +20841,7 @@
      "text": "Die teilnehmenden Mitgliedstaaten sorgen für einen wirksamen Rechtsschutz vor einem zuständigen Gericht eines teilnehmenden Mitgliedstaats oder mehrerer teilnehmender Mitgliedstaaten gegen Verwaltungsentscheidungen, die das EPA in Ausübung der ihm in Absatz 1 übertragenen Aufgaben trifft."
     }
    ],
-   "hinweis": "Aufgabenkatalog des EPA nach Art. 143 EPÜ: Anträge auf einheitliche Wirkung (lit. a, g), Register (lit. b), Lizenzbereitschaft (lit. c), Übersetzungen (lit. d), Jahresgebühren (lit. e, f), Kompensation (lit. f). Abs. 3: Klagen gegen EPA-Entscheidungen zum EPG (Art. 32 Abs. 1 lit. i EPGÜ).",
+   "hinweis": "Aufgabenkatalog des EPA nach Art. 143 EPÜ: Anträge auf einheitliche Wirkung (lit. a, g), Register (lit. b), Lizenzbereitschaft (lit. c), Übersetzungen (lit. d), Jahresgebühren (lit. e), Kompensation (lit. f). Abs. 3: Klagen gegen EPA-Entscheidungen zum EPG (Art. 32 Abs. 1 lit. i EPGÜ).",
    "umsetzung_weitere": {},
    "type": "eunorm",
    "rl": "epatvo",
@@ -22129,7 +22129,7 @@
      "text": "Wird das Europäische Patentamt vom Einheitlichen Patentgericht darüber informiert, dass eine Klage auf Aufhebung oder Änderung einer Entscheidung des Europäischen Patentamts zulässig ist, und erachtet es diese für begründet, so hat es innerhalb von zwei Monaten nach Eingang der Klage a) der Klage im Sinne des Begehrens des Klägers abzuhelfen und b) dem Einheitlichen Patentgericht mitzuteilen, dass der Klage abgeholfen wurde."
     }
    ],
-   "hinweis": "Abhilfe durch das EPA binnen zwei Monaten, wenn das EPG die Klage für zulässig hält (R. 91 VerfO) – nicht im Verfahren nach R. 97 VerfO, das als lex specialis keine Abhilfe kennt (R. 85 Abs. 2 VerfO; EPG-BerG Bodycap/EPA).",
+   "hinweis": "Abhilfe durch das EPA binnen zwei Monaten, wenn das EPG die Klage für zulässig hält (R. 91 VerfO) – nicht im Verfahren nach R. 97 VerfO, das als lex specialis keine Abhilfe kennt (R. 85.2 VerfO; EPG-BerG Bodycap/EPA).",
    "umsetzung_weitere": {},
    "type": "eunorm",
    "rl": "doeps",
@@ -48830,7 +48830,7 @@
    "date": "2025-09-16",
    "az": "UPC_CoA_796/2025",
    "fundstelle": "EPG, UPC_CoA_796/2025",
-   "kern": "Der Antrag auf Aufhebung einer Entscheidung des EPA, mit der ein Antrag auf einheitliche Wirkung zurückgewiesen wurde, richtet sich allein nach R. 97 VerfO: Frist drei Wochen, Weiterleitung an den Eilrichter, Entscheidung binnen drei Wochen. Er ist ein beschleunigtes Verfahren im Sinne von R. 85 Abs. 2 VerfO, sodass die Abhilfe durch das EPA nach R. 91 VerfO (R. 24 DOEPS) nicht stattfindet; R. 97 VerfO ist lex specialis. Die Mängelfrist des R. 7 Abs. 3 DOEPS (ein Monat, nicht verlängerbar) ist zwingend und einer Wiedereinsetzung nicht zugänglich. Anordnung des Eilrichters des Berufungsgerichts (Bodycap, CNRS und Université de Rennes gegen das EPA; Verfahrenssprache Französisch).",
+   "kern": "Der Antrag auf Aufhebung einer Entscheidung des EPA, mit der ein Antrag auf einheitliche Wirkung zurückgewiesen wurde, richtet sich allein nach R. 97 VerfO: Frist drei Wochen, Weiterleitung an den ständigen Richter, Entscheidung binnen drei Wochen. Er ist ein beschleunigtes Verfahren im Sinne von R. 85 Abs. 2 VerfO, sodass die Abhilfe durch das EPA nach R. 91 VerfO (R. 24 DOEPS) nicht stattfindet; R. 97 VerfO ist lex specialis. Die Mängelfrist des R. 7 Abs. 3 DOEPS (ein Monat, nicht verlängerbar) ist zwingend und einer Wiedereinsetzung nicht zugänglich. Anordnung des Eilrichters des Berufungsgerichts (Bodycap, CNRS und Université de Rennes gegen das EPA; Verfahrenssprache Französisch).",
    "tags": [
     "Einheitspatent",
     "R. 97 VerfO",
@@ -54276,7 +54276,7 @@
    "label": "Aufbau: Gericht erster Instanz, Berufungsgericht, Kanzlei",
    "kategorie": "EPG: Grundlagen",
    "definition": "Das Gericht erster Instanz besteht aus der Zentralkammer (Sitz Paris, Abteilungen München und Mailand) sowie Lokal- und Regionalkammern in den Vertragsmitgliedstaaten (Art. 7 EPGÜ). Das Berufungsgericht hat seinen Sitz in Luxemburg (Art. 9 EPGÜ); die Kanzlei führt das Register (Art. 10 EPGÜ).",
-   "erlaeuterung": "Lokalkammern: bis zu vier je Staat (Deutschland: Düsseldorf, Hamburg, Mannheim, München). Regionalkammer: Nordisch-Baltische Kammer (Stockholm). Die Zentralkammer ist nach IPC-Sektionen aufgeteilt (Anhang II EPGÜ): Paris (u.a. Physik, Elektrotechnik), München (Maschinenbau), Mailand (seit 2024 an Stelle Londons: Chemie ohne ESZ, Pharma/Life Sciences mit Einschränkungen). Das Berufungsgericht entschied, dass der Verwaltungsausschuss Mailand nach Art. 87 Abs. 2 EPGÜ analog an die Stelle Londons setzen durfte (Roku/Dolby)."
+   "erlaeuterung": "Lokalkammern: bis zu vier je Staat (Deutschland: Düsseldorf, Hamburg, Mannheim, München). Regionalkammer: Nordisch-Baltische Kammer (Stockholm). Die Zentralkammer ist nach IPC-Sektionen aufgeteilt (Anhang II EPGÜ): Paris (IPC-Sektionen B, D, E, G, H und alle ergänzenden Schutzzertifikate), München (Sektionen C und F: Chemie, Hüttenwesen, Maschinenbau, ohne ESZ), Mailand (seit 2024 an Stelle Londons: Sektion A, täglicher Lebensbedarf einschließlich Arzneimittel und Medizinprodukte, ohne ESZ). Das Berufungsgericht entschied, dass der Verwaltungsausschuss Mailand nach Art. 87 Abs. 2 EPGÜ analog an die Stelle Londons setzen durfte (Roku/Dolby)."
   },
   {
    "id": "concept:upc_spruchkoerper",
@@ -54459,7 +54459,7 @@
    "type": "concept",
    "label": "Verfahrenssprache (Art. 49 bis 51 EPGÜ, R. 14 VerfO)",
    "kategorie": "EPG: Verfahren",
-   "definition": "Vor einer Lokal- oder Regionalkammer ist die Verfahrenssprache eine Amtssprache des Sitzstaats oder eine von der Kammer zusätzlich bestimmte EPA-Amtssprache (Art. 49 Abs. 1, 2 EPGÜ); die Parteien können die Patentsprache vereinbaren (Abs. 3), der Spruchkörper kann sie aus Gründen der Zweckmäßigkeit und Fairness auf Antrag des Beklagten anordnen (Abs. 5, R. 323 VerfO). Vor der Zentralkammer gilt die Patentsprache (Abs. 6); vor dem Berufungsgericht die Sprache der ersten Instanz (Art. 50 EPGÜ).",
+   "definition": "Vor einer Lokal- oder Regionalkammer ist die Verfahrenssprache eine Amtssprache des Sitzstaats oder eine von der Kammer zusätzlich bestimmte EPA-Amtssprache (Art. 49 Abs. 1, 2 EPGÜ); die Parteien können die Patentsprache vereinbaren (Abs. 3), der Spruchkörper kann sie mit Zustimmung der Parteien aus Gründen der Zweckmäßigkeit und Fairness bestimmen (Abs. 4), und auf Antrag einer Partei kann der Präsident des Gerichts erster Instanz nach Anhörung der anderen Parteien und des Spruchkörpers die Patentsprache anordnen (Abs. 5, R. 323 VerfO). Vor der Zentralkammer gilt die Patentsprache (Abs. 6); vor dem Berufungsgericht die Sprache der ersten Instanz (Art. 50 EPGÜ).",
    "erlaeuterung": "Die Wahl der Sprache trifft der Kläger in der Klageschrift (R. 14 VerfO); die deutschen Lokalkammern haben Englisch zugelassen. Beim Antrag nach R. 323 VerfO sind alle Umstände abzuwägen, insbesondere die Sprache des Beklagten und die Waffengleichheit (LK München TP-Link/Huawei; EPG-BerG Curio/10x). Verdolmetschung in der mündlichen Verhandlung nach Art. 51 Abs. 2 EPGÜ, R. 109 VerfO nur, soweit angemessen (LK Düsseldorf 10x/Curio). Die Sprache der Klageschrift ist Einspruchsgrund (R. 19.1 lit. c VerfO)."
   },
   {
@@ -54571,7 +54571,7 @@
    "type": "concept",
    "label": "Rechtliches Gehör, Dispositionsmaxime und Beibringungsgrundsatz (Art. 76 EPGÜ)",
    "kategorie": "EPG: Verfahren",
-   "definition": "Das Gericht entscheidet nur über die Anträge der Parteien (Art. 76 Abs. 1 EPGÜ) und stützt seine Entscheidung nur auf Gründe, Tatsachen und Beweismittel, die die Parteien vorgebracht haben (Abs. 2); das Gericht muss den Parteien Gelegenheit zur Stellungnahme geben (Art. 76 Abs. 2 EPGÜ, R. 264 VerfO).",
+   "definition": "Das Gericht entscheidet nur über die Anträge der Parteien (Art. 76 Abs. 1 EPGÜ) und stützt seine Entscheidung nur auf Gründe, Tatsachen und Beweismittel, die die Parteien vorgebracht haben oder die auf Anordnung des Gerichts in das Verfahren eingebracht wurden (Abs. 2); das Gericht muss den Parteien Gelegenheit zur Stellungnahme geben (Art. 76 Abs. 2 EPGÜ, R. 264 VerfO).",
    "erlaeuterung": "Der Anspruch auf rechtliches Gehör verpflichtet das Gericht, den wesentlichen Kern des Parteivortrags zur Kenntnis zu nehmen und in den Gründen zu behandeln; eine Verletzung ist zu vermuten, wenn die Gründe nur den Schluss zulassen, dass der Vortrag übergangen wurde (EPG-BerG Siemens/Hologic). Der Streitgegenstand wird von den Parteien bestimmt (LK Paris DexCom/Abbott). Das Gericht darf jedoch aus eigener Sachkunde feststellen, dass eine Offenbarung nicht vorliegt, ohne dass die Parteien dies vorgetragen haben (EPG-BerG zu unzulässiger Erweiterung)."
   },
   {
@@ -54891,7 +54891,7 @@
    "type": "concept",
    "label": "Wiederaufnahme des Verfahrens (Art. 81 EPGÜ, R. 245 bis 250 VerfO)",
    "kategorie": "EPG: Berufung",
-   "definition": "Nach einer rechtskräftigen Entscheidung kann das Berufungsgericht auf Antrag das Verfahren ausnahmsweise wiederaufnehmen, wenn eine Tatsache von entscheidender Bedeutung entdeckt wird, die dem Antragsteller unbekannt war, oder wenn ein grundlegender Verfahrensfehler vorliegt (Art. 81 Abs. 1 EPGÜ). Frist: zehn Jahre ab Entscheidung, zwei Monate ab Entdeckung (Abs. 2).",
+   "definition": "Nach einer rechtskräftigen Entscheidung kann das Berufungsgericht auf Antrag das Verfahren ausnahmsweise wiederaufnehmen, wenn eine Tatsache von entscheidender Bedeutung entdeckt wird, die dem Antragsteller unbekannt war – und zwar nur wegen einer Handlung, die durch Endentscheidung eines nationalen Gerichts als Straftat qualifiziert wurde –, oder wenn ein grundlegender Verfahrensfehler vorliegt (Art. 81 Abs. 1 EPGÜ). Frist: zehn Jahre ab Entscheidung, zwei Monate ab Entdeckung (Abs. 2).",
    "erlaeuterung": "Die Wiederaufnahme ist außerordentlicher Rechtsbehelf; grundlegende Verfahrensfehler nach R. 247 VerfO sind etwa die Verletzung des rechtlichen Gehörs oder eine fehlerhafte Besetzung (EPG-BerG Suinno/Microsoft). Gutgläubige Dritte werden geschützt (Art. 81 Abs. 4 EPGÜ)."
   },
   {
@@ -54987,7 +54987,7 @@
    "type": "concept",
    "label": "Klage gegen Entscheidungen des EPA zum Einheitspatent (Art. 32 Abs. 1 lit. i, Art. 66 EPGÜ; R. 85 bis 98 VerfO)",
    "kategorie": "Einheitspatent: Erteilung und Verwaltung",
-   "definition": "Gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz ist nicht die Beschwerde zu den Beschwerdekammern, sondern die Klage vor dem EPG gegeben (Art. 9 Abs. 3 EPatVO; R. 23 DOEPS; Art. 32 Abs. 1 lit. i EPGÜ). Das Gericht kann die Entscheidung aufheben oder abändern (Art. 66 EPGÜ). Die Klage ist binnen zwei Monaten nach Zustellung bei der Kanzlei einzureichen (R. 88 VerfO); gegen die Zurückweisung des Antrags auf einheitliche Wirkung gilt das beschleunigte Verfahren nach R. 97 VerfO mit einer Frist von drei Wochen und Entscheidung durch den Eilrichter binnen drei Wochen.",
+   "definition": "Gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz ist nicht die Beschwerde zu den Beschwerdekammern, sondern die Klage vor dem EPG gegeben (Art. 9 Abs. 3 EPatVO; R. 23 DOEPS; Art. 32 Abs. 1 lit. i EPGÜ). Das Gericht kann die Entscheidung aufheben oder abändern (Art. 66 EPGÜ). Die Klage ist binnen zwei Monaten nach Zustellung bei der Kanzlei einzureichen (R. 88 VerfO); gegen die Zurückweisung des Antrags auf einheitliche Wirkung gilt das beschleunigte Verfahren nach R. 97 VerfO mit einer Frist von drei Wochen und Entscheidung durch den ständigen Richter binnen drei Wochen (R. 97.4 VerfO).",
    "erlaeuterung": "Zuständig ist die Zentralkammer (Art. 33 Abs. 9 EPGÜ; Anhang II), Verfahrenssprache ist die Sprache des Patents; der Vertretungszwang gilt hier nicht (Art. 48 Abs. 7 EPGÜ). Die Abhilfe durch das EPA (R. 24 DOEPS, R. 91 VerfO: zwei Monate nach Zustellung der zulässigen Klage) ist im Verfahren nach R. 97 VerfO ausgeschlossen, weil R. 85.2 VerfO beschleunigte Verfahren ausnimmt und R. 97 VerfO lex specialis ist (EPG-BerG Bodycap/EPA). Das EPA ist an die Entscheidung des EPG gebunden (R. 1 Abs. 1 DOEPS). Anfechtbar sind auch die Zurückweisung der Kompensation, der Wiedereinsetzung und die Entscheidung über einen Rechtsverlust nach R. 112 Abs. 2 EPÜ."
   },
   {
@@ -57762,7 +57762,7 @@
      "Art. 32 Abs. 1 lit. c, Art. 62 EPGÜ; R. 205 bis 213 VerfO"
     ],
     [
-     "Volle Überzeugung nach Beweisaufnahme (Art. 54 EPGÜ)",
+     "Volle Überzeugung des Gerichts nach Beweisaufnahme; Beweislast bei der Partei, die sich auf die Tatsache beruft (Art. 54 EPGÜ)",
      "Hinreichende Sicherheit = überwiegende Wahrscheinlichkeit (R. 211.2 VerfO; NanoString/10x)"
     ],
     [
@@ -58086,8 +58086,8 @@
     [
      "Art. 62 EPGÜ (einstweilige Maßnahmen), Art. 61 EPGÜ (Arrest, Kontensperre)",
      "R. 205 bis 213 VerfO",
-     "§§ 935 ff. ZPO, § 19 Abs. 7 MarkenG",
-     "§§ 935 ff. ZPO, § 140b Abs. 7 PatG"
+     "§§ 935 ff. ZPO, § 19 Abs. 7 MarkenG, § 19b MarkenG (Sicherung von Schadensersatzansprüchen, Art. 9 Abs. 2 DurchsetzungsRL)",
+     "§§ 935 ff. ZPO, § 140b Abs. 7 PatG, § 140d PatG (Art. 9 Abs. 2 DurchsetzungsRL)"
     ],
     [
      "Art. 64 EPGÜ (Abhilfemaßnahmen)",
@@ -61673,7 +61673,7 @@
    "id": "step:upc_schema_einheitliche_wirkung.4",
    "type": "step",
    "label": "D. Rechtsbehelf: Klage vor dem EPG (R. 23, 24 DOEPS; R. 85 bis 98 VerfO)",
-   "text": "Gegen die Zurückweisung des Antrags auf einheitliche Wirkung: Antrag auf Aufhebung binnen drei Wochen, Eilrichter (R. 97 VerfO), keine Abhilfe (R. 85.2 VerfO). Gegen andere Entscheidungen der Abteilung: Klage binnen zwei Monaten (R. 88 VerfO) mit Abhilfemöglichkeit (R. 91 VerfO). Zuständigkeit Art. 32 Abs. 1 lit. i EPGÜ, Befugnis Art. 66 EPGÜ; kein Vertretungszwang (Art. 48 Abs. 7 EPGÜ).",
+   "text": "Gegen die Zurückweisung des Antrags auf einheitliche Wirkung: Antrag auf Aufhebung binnen drei Wochen, Entscheidung des ständigen Richters (R. 97.4 VerfO), keine Abhilfe (R. 85.2 VerfO). Gegen andere Entscheidungen der Abteilung: Klage binnen zwei Monaten (R. 88 VerfO) mit Abhilfemöglichkeit (R. 91 VerfO). Zuständigkeit Art. 32 Abs. 1 lit. i EPGÜ, Befugnis Art. 66 EPGÜ; kein Vertretungszwang (Art. 48 Abs. 7 EPGÜ).",
    "hinweis": "",
    "order": 4
   },
@@ -74567,7 +74567,7 @@
    "id": "course:u02",
    "type": "course",
    "label": "Zuständigkeit und Kammerwahl",
-   "untertitel": "Art. 31 EPGÜ mit der Brüssel-Ia-VO, Art. 33 EPGÜ mit dieselben Parteien und den drei Optionen bei der Widerklage, der Einspruch nach R. 19 bis 21 VerfO und R. 333 VerfO",
+   "untertitel": "Art. 31 EPGÜ mit der Brüssel-Ia-VO, Art. 33 EPGÜ mit „denselben Parteien“ und den drei Optionen bei der Widerklage, der Einspruch nach R. 19 bis 21 VerfO und R. 333 VerfO",
    "beschreibung": "Vier Stufen der Zuständigkeitsprüfung vor dem EPG: internationale Zuständigkeit nach der Brüssel-Ia-VO (Sinocare/Abbott, Dyson/Dreame, NUC/Hurom), sachliche Zuständigkeit nach Art. 32 EPGÜ, die richtige Kammer nach Art. 33 EPGÜ (Barco/Yealink, Meril/Edwards, Seoul Viosys/Emporia, Pari/Philips) und die Rüge durch den Einspruch (Roku/Dolby, Vivo/Sun Patent, Sun Patent/Vivo, Netgear/Huawei).",
    "gebiet": "upc",
    "order": 23
@@ -74611,7 +74611,7 @@
    "label": "Drittstaatenbeklagter",
    "typ": "fall",
    "level": 2,
-   "frage": "Kann das EPG die A-Ltd. verklagen, obwohl sie keinen Sitz in einem Mitgliedstaat hat?",
+   "frage": "Kann die A-Ltd. vor dem EPG verklagt werden, obwohl sie keinen Sitz in einem Mitgliedstaat hat?",
    "order": 4
   },
   {
@@ -78871,7 +78871,7 @@
    "label": "Deutsches Recht",
    "typ": "fall",
    "level": 2,
-   "frage": "Kennt das deutsche Recht einen Verletzerzuschlag?",
+   "frage": "Kennen PatG und MarkenG einen Verletzerzuschlag?",
    "order": 5
   },
   {

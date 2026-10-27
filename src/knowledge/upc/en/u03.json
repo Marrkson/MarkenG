@@ -1,0 +1,680 @@
+{
+ "kurs:u03": {
+  "titel": "The infringement action: from statement of claim to decision",
+  "untertitel": "R. 4, 9, 13, 271 to 275 RoP, Art. 49 UPCA with R. 323 RoP, R. 333 and 355 RoP, R. 263, 265, 313 RoP and Art. 76 UPCA",
+  "beschreibung": "The course of infringement proceedings under the Rules of Procedure, rule by rule: statement of claim and exhibits (Sanofi/Amgen), CMS workflows and signature (Edwards/Meril, Avago/Tesla, SharkNinja/SEB), service in third countries (NEC/TCL), extension of time limits under R. 9 RoP (SharkNinja/SEB, bioMérieux/Labrador), language of the proceedings (TP-Link/Huawei, 10x/Curio), judge-rapporteur and R. 333 RoP (Huawei/Quinn Emanuel, Vivo/Sun Patent), default (Suinno/Microsoft), amendment of the claim (VMR/NJOY, Supponor/AIM), withdrawal (Avago/Tesla, Juul/NJOY), intervention (Strabag/Swarco) and the right to be heard (Siemens/Hologic, DexCom/Abbott).",
+  "_de": "c724657e94"
+ },
+ "kapitel:u03a": {
+  "titel": "R. 4, 9, 13 and 271 to 275 RoP: statement of claim, service, time limits",
+  "_de": "5c5c5fa242"
+ },
+ "einheit:u03a-0": {
+  "titel": "Examination scheme: infringement action before the UPC",
+  "text": "Admissibility (jurisdiction, parties, representation, statement of claim, language), merits (interpretation, act of use, defences, validity) and remedies – the scheme orders the checkpoints; this course follows the path of the proceedings from the written pleading to the decision.",
+  "abschnitt": "Overview",
+  "_de": "d76d06b8d7"
+ },
+ "gruppe:u03a-1": {
+  "titel": "The forgotten exhibits",
+  "sachverhalt": "S-SA brings an infringement action against A-Inc. before the Munich Local Division. The Statement of claim refers to 40 exhibits. However, S-SA only uploads them to the CMS three weeks after the Statement of claim has been served.",
+  "_de": "e90970c0a8"
+ },
+ "einheit:u03a-1a": {
+  "titel": "R. 13.2 RoP: at the same time",
+  "frage": "Must the exhibits be lodged together with the Statement of claim?",
+  "loesung": [
+   "**Yes!** The Statement of claim must contain the particulars under R. 13.1 RoP; exhibits referred to must be lodged **at the same time** (R. 13.2 RoP). S-SA has infringed this rule."
+  ],
+  "abschnitt": "R. 13, 271 RoP: statement of claim and exhibits",
+  "_de": "993e039442"
+ },
+ "einheit:u03a-1b": {
+  "titel": "Service remains effective",
+  "frage": "Is service of the Statement of claim without the exhibits ineffective?",
+  "loesung": [
+   "**No!** Service under R. 271 RoP is effective even without the exhibits if the defendant can exercise its rights without them. It can do so because the Statement of claim itself contains the requests, the infringement allegation and the feature analysis (R. 13.1(k) to 13.1(n) RoP) (Sanofi/Amgen)."
+  ],
+  "abschnitt": "R. 13, 271 RoP: statement of claim and exhibits",
+  "_de": "c1548160f4"
+ },
+ "einheit:u03a-1c": {
+  "titel": "Time limits are extended",
+  "frage": "Are A-Inc.'s time limits for the Preliminary objection and the Statement of defence extended?",
+  "loesung": [
+   "**Yes!** The time limits for the Preliminary objection (one month, R. 19.1 RoP) and the Statement of defence (three months, R. 23 RoP) are extended by the **period during which the exhibits were not available** (Sanofi/Amgen)."
+  ],
+  "merke": "Without exhibits, service is effective, but the defendant's time limits are extended by the period without exhibits.",
+  "abschnitt": "R. 13, 271 RoP: statement of claim and exhibits",
+  "_de": "f398f60ab3"
+ },
+ "einheit:u03a-1d": {
+  "titel": "Type of exhibits irrelevant",
+  "frage": "Does the extension depend on how important the missing exhibits were?",
+  "loesung": [
+   "**No!** The **nature and content** of the exhibits do not matter (Sanofi/Amgen). This is about fairness (point 5 of the Preamble to the RoP), not about an extension of a time limit under R. 9.3(a) RoP, which the Court of Appeal grants only exceptionally (bioMérieux/Labrador)."
+  ],
+  "abschnitt": "R. 13, 271 RoP: statement of claim and exhibits",
+  "_de": "aa3f1ccf4b"
+ },
+ "gruppe:u03a-2": {
+  "titel": "E-mail to Shenzhen",
+  "sachverhalt": "N-Corp. sues T-Ltd., seated in Shenzhen, before a local division. To avoid the lengthy procedure under the Hague Service Convention, it applies for the Statement of claim to be served by e-mail on T-Ltd.'s European sales manager.",
+  "_de": "069b1c3b61"
+ },
+ "einheit:u03a-2a": {
+  "titel": "R. 274.1(a) RoP",
+  "frage": "How does the Registry, as a rule, serve a Statement of claim outside the Contracting Member States?",
+  "optionen": [
+   "By e-mail to every known address of the defendant",
+   "Under the EU Service Regulation, the Hague Service Convention or through diplomatic channels",
+   "By posting a notice at the division",
+   "By handing it to the defendant's German lawyer"
+  ],
+  "loesung": [
+   "The second answer is correct. The Registry serves under R. 274.1(a) RoP: under the EU Service Regulation where applicable, under the **Hague Service Convention**, or through diplomatic or consular channels."
+  ],
+  "abschnitt": "R. 274, 275 RoP: service in third countries",
+  "_de": "a70c887e4f"
+ },
+ "einheit:u03a-2b": {
+  "titel": "No e-mail to employees",
+  "frage": "Is the e-mail to the sales manager effective service?",
+  "loesung": [
+   "**No!** The sales manager is not authorised to accept service: he is neither a representative under R. 8.1 RoP nor an address for service under R. 271.1 RoP. A company in China cannot be served with the Statement of claim in this way (NEC/TCL)."
+  ],
+  "abschnitt": "R. 274, 275 RoP: service in third countries",
+  "_de": "92032d0335"
+ },
+ "einheit:u03a-2c": {
+  "titel": "Hague Convention first",
+  "frage": "Must N-Corp. normally attempt service under the Hague Service Convention before service by an alternative method under R. 275 RoP?",
+  "loesung": [
+   "**Yes!** Other methods of service (R. 274.1(b) RoP) and service by an alternative method under R. 275 RoP only come into consideration if service under R. 274.1(a) RoP could not be effected. Normally, **attempts at service under the Hague Service Convention** must be made first (NEC/TCL)."
+  ],
+  "merke": "Hague Convention first, then alternative service: R. 275 RoP is the fallback, not the shortcut.",
+  "abschnitt": "R. 274, 275 RoP: service in third countries",
+  "_de": "c8772965d1"
+ },
+ "einheit:u03a-2d": {
+  "titel": "No posting of a notice",
+  "frage": "Can the Court now permit public service by posting a notice at the local division?",
+  "loesung": [
+   "**No!** Public service by posting a notice is also ruled out at this stage (NEC/TCL). Moreover, no service may be effected in a manner incompatible with the law of the state of service (R. 274.2, R. 275.4 RoP)."
+  ],
+  "abwandlung": "In the alternative, N-Corp. applies for public service by posting a notice at the local division.",
+  "abschnitt": "R. 274, 275 RoP: service in third countries",
+  "_de": "c65a0b0f3c"
+ },
+ "gruppe:u03a-3": {
+  "titel": "The wrong workflow",
+  "sachverhalt": "The defendant files its Statement of defence electronically on the last day of the three-month period. It does not use the CMS workflow “Statement of defence” but uploads the pleading as an “other document”. The claimant applies for a decision by default.",
+  "_de": "9bed035f73"
+ },
+ "einheit:u03a-3a": {
+  "titel": "Duty to use the workflow",
+  "frage": "Must the parties use the specific CMS workflows?",
+  "loesung": [
+   "**Yes!** Written pleadings must be lodged electronically, and the parties are required to use the official online forms (R. 4.1 RoP, Art. 44 UPCA). According to the Munich Local Division, this also entails a duty to use the CMS workflows (Edwards/Meril)."
+  ],
+  "abschnitt": "R. 4, 24, 25 RoP: filing and Statement of defence",
+  "_de": "3fa6857eb0"
+ },
+ "einheit:u03a-3b": {
+  "titel": "Time limit observed",
+  "frage": "Has the defendant observed the time limit despite the wrong workflow?",
+  "loesung": [
+   "**Yes!** Receipt is confirmed by the electronic receipt showing the date and local time (the third sentence of R. 4.1 RoP). The wrong workflow **does not prevent compliance with the time limit**, all the more so since a generous standard applies in the Court's start-up phase (LD Hamburg, Avago/Tesla)."
+  ],
+  "merke": "The workflow is mandatory, but not a time-limit trap.",
+  "abschnitt": "R. 4, 24, 25 RoP: filing and Statement of defence",
+  "_de": "04abb467ca"
+ },
+ "einheit:u03a-3c": {
+  "titel": "No default",
+  "frage": "Can the decision by default be given?",
+  "loesung": [
+   "**No!** A decision by default under R. 355.1(a) RoP requires that a step was not taken within the time limit. That is not the case."
+  ],
+  "abschnitt": "R. 4, 24, 25 RoP: filing and Statement of defence",
+  "_de": "c34e23b42f"
+ },
+ "einheit:u03a-3d": {
+  "titel": "CMS outage",
+  "frage": "May the defendant then lodge its Statement of defence on paper?",
+  "loesung": [
+   "**Yes!** If the electronic case management system is down, documents may exceptionally be lodged on paper at the Registry; the electronic copy must be lodged as soon as practicable (R. 4.2 RoP)."
+  ],
+  "abwandlung": "On the last day of the time limit, the CMS is down.",
+  "abschnitt": "R. 4, 24, 25 RoP: filing and Statement of defence",
+  "_de": "7b2e4b9485"
+ },
+ "einheit:u03a-3e": {
+  "titel": "Counterclaim in the defence",
+  "frage": "Must the defendant include a Counterclaim for revocation in the Statement of defence?",
+  "loesung": [
+   "**Yes!** The Statement of defence contains the particulars under R. 24 RoP. If the defendant contests validity, the **Counterclaim** for revocation belongs in the Statement of defence (R. 25 RoP)."
+  ],
+  "abschnitt": "R. 4, 24, 25 RoP: filing and Statement of defence",
+  "_de": "d7f0e3bbbf"
+ },
+ "gruppe:u03a-4": {
+  "titel": "Without signature",
+  "sachverhalt": "In appeal proceedings, SEB is to comment on a confidentiality application by SharkNinja by 5 May. SEB uploads its comments on 5 May and clicks “sign submission” in the CMS; the document itself bears no electronic signature. On 6 May, SEB files it again, signed.",
+  "_de": "ac690b86c4"
+ },
+ "einheit:u03a-4a": {
+  "titel": "Signature in the document",
+  "frage": "Is the confirmation “sign submission” in the CMS sufficient as a signature under R. 4.1 RoP?",
+  "loesung": [
+   "**No!** In the interest of legal certainty, to guarantee authenticity and to exclude the possibility that the document does not originate from the authorised person, **the pleading itself** must be signed electronically. The secure login to the CMS and the click do not change this (SharkNinja/SEB)."
+  ],
+  "abschnitt": "R. 9 RoP: extension of time limits",
+  "_de": "8912258e76"
+ },
+ "einheit:u03a-4b": {
+  "titel": "Retroactive extension",
+  "frage": "Can a time limit under R. 9.3(a) RoP still be extended after it has expired?",
+  "loesung": [
+   "**Yes!** R. 9.3(a) RoP expressly allows a **retrospective** extension. The order may be made after expiry of the time limit, and the application may also be lodged after expiry (SharkNinja/SEB)."
+  ],
+  "abschnitt": "R. 9 RoP: extension of time limits",
+  "_de": "d979babb24"
+ },
+ "einheit:u03a-4c": {
+  "titel": "Excusable error",
+  "frage": "Does the Court of Appeal extend SEB's time limit to 6 May?",
+  "loesung": [
+   "**Yes!** There was no case law yet on whether the signature in the CMS suffices; the error was **excusable**. Fairness and equity (point 5 of the Preamble to the RoP) justify the extension (SharkNinja/SEB). Otherwise: extensions only with restraint, in exceptional circumstances (bioMérieux/Labrador)."
+  ],
+  "merke": "R. 9.3(a) RoP also works retrospectively, but only for good reasons.",
+  "abschnitt": "R. 9 RoP: extension of time limits",
+  "_de": "3633f72942"
+ },
+ "einheit:u03a-4d": {
+  "titel": "R. 9.4 RoP: no extension",
+  "frage": "Can the Court also extend the missed time limit for lodging the appeal?",
+  "loesung": [
+   "**No!** The Court may **not extend** the time limits in R. 198.1, R. 213.1 and R. 224.1 RoP, including the time limit for appeal (R. 9.4 RoP)."
+  ],
+  "abwandlung": "In other proceedings, SEB missed the time limit for lodging the appeal by one day.",
+  "abschnitt": "R. 9 RoP: extension of time limits",
+  "_de": "4e19fdef20"
+ },
+ "kapitel:u03b": {
+  "titel": "Art. 49 UPCA, R. 323, 333 and 355 RoP: language, judge-rapporteur, default",
+  "_de": "6c7c6e2212"
+ },
+ "einheit:u03b-0": {
+  "titel": "Who conducts the proceedings and in which language",
+  "text": "The proceedings have **three stages** (Art. 52 UPCA, R. 10 RoP). In the **written procedure**, the Statement of claim is followed by the Statement of defence (three months, R. 23 RoP, content R. 24 RoP) with any Counterclaim for revocation (R. 25 RoP), the claimant's Defence to the counterclaim for revocation together with the Reply to the Statement of defence and an Application to amend the patent under R. 30 RoP (two months, R. 29(a) RoP), then the defendant's Reply to the Defence to the counterclaim with its Rejoinder (two months, R. 29(d) RoP) and the claimant's Rejoinder (one month, R. 29(e) RoP). The claimant chooses the **language of the proceedings** in the Statement of claim from the languages of the division (Art. 49(1) and 49(2) UPCA, R. 14 RoP); the German local divisions allow English. The parties may agree on the language of the patent (Art. 49(3) UPCA), the panel may choose it with the parties' consent (Art. 49(4) UPCA), and the President of the Court of First Instance may order it on a party's application on grounds of fairness (Art. 49(5) UPCA, R. 323 RoP; TP-Link/Huawei). Before the central division, the language of the patent applies (Art. 49(6) UPCA); before the Court of Appeal, the language of the first instance (Art. 50 UPCA). Interpretation is provided only where appropriate (Art. 51(2) UPCA, R. 109 RoP; 10x/Curio). The presiding judge designates a legally qualified judge as **judge-rapporteur** (R. 18 RoP), who conducts the written procedure and the **interim procedure** (R. 331 and 334 RoP): interim conference by video conference, questions, orders on evidence, value of the dispute, settlement discussion (R. 101 to 106 RoP), completion within three months (R. 101.3 RoP). The panel reviews his orders on application within 15 days (**R. 333 RoP**); he may refer any matter to the panel (R. 102 RoP; Vivo/Sun Patent). The **oral hearing** before the panel is conducted by the presiding judge (R. 111 and 112 RoP); it is public and recorded (Art. 45 UPCA, R. 115 RoP), should not exceed one day (R. 113 RoP) and is scheduled at least two months in advance (R. 108 RoP). A party that stays away is treated as relying only on its written pleadings (R. 116.3 RoP); the decision is given in writing, as a rule within six weeks (R. 118.6 RoP).",
+  "abschnitt": "Overview",
+  "_de": "dfe064ea5a"
+ },
+ "gruppe:u03b-1": {
+  "titel": "English for all defendants",
+  "sachverhalt": "Before the Munich Local Division, H brings an infringement action in German, based on a patent in English, against five companies of the T group from China, Hong Kong, the Netherlands, Poland and Germany. With the Statement of defence, the defendants apply to change the language of the proceedings to English.",
+  "_de": "58549f03f8"
+ },
+ "einheit:u03b-1a": {
+  "titel": "The claimant's choice",
+  "frage": "Was H entitled to choose German as the language of the proceedings?",
+  "loesung": [
+   "**Yes!** The claimant chooses the language of the proceedings in the Statement of claim from the languages of the division (Art. 49(1) and 49(2) UPCA, R. 14 RoP). The German local divisions allow German and English."
+  ],
+  "abschnitt": "Art. 49 UPCA, R. 323 RoP: language of the proceedings",
+  "_de": "db77ba0fd9"
+ },
+ "einheit:u03b-1b": {
+  "titel": "Art. 49(5) UPCA",
+  "frage": "Is the claimant's choice the final word?",
+  "loesung": [
+   "**No!** On a party's application, the **President of the Court of First Instance** may, on **grounds of fairness**, order that the language of the patent becomes the language of the proceedings (Art. 49(5) UPCA). All relevant circumstances must be weighed, in particular the position of the defendant."
+  ],
+  "abschnitt": "Art. 49 UPCA, R. 323 RoP: language of the proceedings",
+  "_de": "88ff69d7a4"
+ },
+ "einheit:u03b-1c": {
+  "titel": "R. 323 RoP: procedure",
+  "frage": "Where and when do the defendants lodge the application?",
+  "optionen": [
+   "With the panel, at any time until the oral hearing",
+   "With the Court of Appeal",
+   "With the Statement of defence; the President decides after hearing the parties",
+   "With the Preliminary objection under R. 19 RoP"
+  ],
+  "loesung": [
+   "The third answer is correct. The application must be included in the **Statement of defence**; the judge-rapporteur forwards it to the President, and the other side has ten days to comment (R. 323 RoP)."
+  ],
+  "abschnitt": "Art. 49 UPCA, R. 323 RoP: language of the proceedings",
+  "_de": "d54115fac8"
+ },
+ "einheit:u03b-1d": {
+  "titel": "Working language and coordination",
+  "frage": "Do the internal working language and the coordination needs of the five defendants count in the balancing?",
+  "loesung": [
+   "**Yes!** Given the strict time limits, the **internal working language** and the **need for coordination** among several defendants are important factors (LD Munich, TP-Link/Huawei). The German subsidiary alone does not change this."
+  ],
+  "merke": "The claimant chooses the language, but fairness can switch it to the language of the patent.",
+  "abschnitt": "Art. 49 UPCA, R. 323 RoP: language of the proceedings",
+  "_de": "e159ab8ea5"
+ },
+ "einheit:u03b-1e": {
+  "titel": "Interpretation",
+  "frage": "Can H's representative demand to plead in German with interpretation?",
+  "loesung": [
+   "**No!** Interpretation is provided only where appropriate to enable a **party** to participate actively (Art. 51(2) UPCA, R. 109 RoP). Representatives who are proficient in the language of the proceedings may not plead in another language (LD Düsseldorf, 10x/Curio)."
+  ],
+  "abwandlung": "English becomes the language of the proceedings. H's representative speaks fluent English but wants to plead in German.",
+  "abschnitt": "Art. 49 UPCA, R. 323 RoP: language of the proceedings",
+  "_de": "caded13aab"
+ },
+ "gruppe:u03b-2": {
+  "titel": "The judge-rapporteur and R. 333 RoP",
+  "sachverhalt": "In infringement proceedings, the judge-rapporteur rejects the defendant's application to extend the time limit for the Rejoinder.",
+  "_de": "5c3e34fa87"
+ },
+ "einheit:u03b-2a": {
+  "titel": "No direct appeal",
+  "frage": "Can the defendant appeal directly against the rejection?",
+  "loesung": [
+   "**No!** In the written and interim procedure, the **judge-rapporteur** conducts the proceedings (R. 331.1 RoP); he extends or shortens time limits (R. 334 RoP). His case management orders cannot be appealed directly (Netgear/Huawei)."
+  ],
+  "abschnitt": "R. 331 to 334 RoP: judge-rapporteur and review",
+  "_de": "076c81d830"
+ },
+ "einheit:u03b-2b": {
+  "titel": "R. 333 RoP: 15 days",
+  "frage": "What remedy does the defendant have?",
+  "optionen": [
+   "Informal objection to the judge-rapporteur, without time limit",
+   "Application for review by the panel within 15 days",
+   "Recourse to the President of the Court of First Instance",
+   "Complaint to the Court of Appeal within one month"
+  ],
+  "loesung": [
+   "The second answer is correct. Case management orders of the judge-rapporteur or the presiding judge are reviewed by the **panel** on a reasoned application. The application must be lodged within **15 days** of service and is subject to a fee; the other side is heard (R. 333.1 to 333.3 RoP)."
+  ],
+  "abschnitt": "R. 331 to 334 RoP: judge-rapporteur and review",
+  "_de": "da33472294"
+ },
+ "einheit:u03b-2c": {
+  "titel": "Afterwards: leave",
+  "frage": "Is an appeal against the panel's decision admissible without more?",
+  "loesung": [
+   "**No!** The panel's decision is a procedural decision within the meaning of R. 220.2 RoP (R. 333.5 RoP). It can only be challenged with **leave** or by way of **discretionary review** (R. 220.3 RoP)."
+  ],
+  "merke": "Against the judge-rapporteur, go to the panel; against the panel, only leave or R. 220.3 RoP.",
+  "abschnitt": "R. 331 to 334 RoP: judge-rapporteur and review",
+  "_de": "bd0d0e77f2"
+ },
+ "einheit:u03b-2d": {
+  "titel": "Also for access to the file",
+  "frage": "Can a party whose pleadings are to be made accessible have this decision reviewed under R. 333 RoP?",
+  "loesung": [
+   "**Yes!** Decisions of the judge-rapporteur on access to pleadings under R. 262.1(b) RoP are also reviewed by the panel under R. 333 RoP; thereafter R. 220.2 and 220.3 RoP apply (Huawei/Quinn Emanuel). The Munich Local Division had still considered the application inadmissible (Huawei/MediaTek); the Court of Appeal did not follow this."
+  ],
+  "abwandlung": "The judge-rapporteur grants a law firm access to the pleadings of concluded proceedings (R. 262.1(b) RoP).",
+  "abschnitt": "R. 331 to 334 RoP: judge-rapporteur and review",
+  "_de": "054b3505d9"
+ },
+ "einheit:u03b-2e": {
+  "titel": "Referral to the panel",
+  "frage": "May the judge-rapporteur refer a question to the panel on his own initiative?",
+  "loesung": [
+   "**Yes!** The judge-rapporteur may refer any matter to the panel (R. 102.1 RoP), including in the written procedure (Vivo/Sun Patent)."
+  ],
+  "abschnitt": "R. 331 to 334 RoP: judge-rapporteur and review",
+  "_de": "b7154bfadd"
+ },
+ "gruppe:u03b-3": {
+  "titel": "Security not provided",
+  "sachverhalt": "S-Oy loses at first instance and appeals. On M-Corp.'s application, the Court of Appeal orders S-Oy to provide security for costs within six weeks (R. 158 RoP). The period expires without payment.",
+  "_de": "e798308253"
+ },
+ "einheit:u03b-3a": {
+  "titel": "R. 158.5 RoP",
+  "frage": "Do the Rules of Procedure provide for a decision by default where security is not provided?",
+  "loesung": [
+   "**Yes!** A decision by default may be given on application where the RoP provide for this in case of failure to meet a time limit (R. 355.1(a) RoP). R. 158.5 RoP expressly provides for this where security for costs is not provided."
+  ],
+  "abschnitt": "R. 355, 356 RoP: decision by default",
+  "_de": "817cb7c849"
+ },
+ "einheit:u03b-3b": {
+  "titel": "R. 355.2 RoP does not apply",
+  "frage": "Must the Court examine whether the facts justify M-Corp.'s claim?",
+  "loesung": [
+   "**No!** R. 355.2 RoP protects only the **defendant or defendant to a counterclaim**. In appeal proceedings, the **appellant is deemed to be the claimant**; the decision by default is given against it without this examination (Suinno/Microsoft)."
+  ],
+  "merke": "R. 355.2 RoP protects the defendant, not the appellant.",
+  "abschnitt": "R. 355, 356 RoP: decision by default",
+  "_de": "b6293248de"
+ },
+ "einheit:u03b-3c": {
+  "titel": "Failure to attend the hearing",
+  "frage": "Does the same apply if S-Oy, as appellant, does not appear at the oral hearing?",
+  "loesung": [
+   "**Yes!** In that case too, a decision by default may be given against the appellant under R. 355.1(b) RoP, without the examination under R. 355.2 RoP (Suinno/Microsoft)."
+  ],
+  "abwandlung": "S-Oy has provided the security but does not appear at the oral hearing.",
+  "abschnitt": "R. 355, 356 RoP: decision by default",
+  "_de": "00a7bb5c73"
+ },
+ "einheit:u03b-3d": {
+  "titel": "Setting aside under R. 356 RoP",
+  "frage": "Can S-Oy take action against the decision by default?",
+  "loesung": [
+   "**Yes!** Within one month of service, it may lodge an **application to set aside** the decision by default; it must explain the default, pay the fee and take the omitted step (R. 356 RoP). The decision by default is enforceable (R. 355.4 RoP)."
+  ],
+  "abschnitt": "R. 355, 356 RoP: decision by default",
+  "_de": "432c85cc22"
+ },
+ "einheit:u03b-3e": {
+  "titel": "R. 116 RoP",
+  "frage": "Must the Court of First Instance adjourn if a party fails to attend the oral hearing?",
+  "loesung": [
+   "**No!** A party that stays away is treated as relying only on its written pleadings; the Court is not obliged to adjourn (R. 116.2 and 116.3 RoP). It may also proceed under R. 355 RoP (R. 116.5 RoP)."
+  ],
+  "abwandlung": "In other proceedings, the defendant does not appear at the oral hearing at first instance.",
+  "abschnitt": "R. 355, 356 RoP: decision by default",
+  "_de": "8aa74bbcb6"
+ },
+ "kapitel:u03c": {
+  "titel": "R. 263, 265, 313 RoP and Art. 76 UPCA: amendment, withdrawal, intervention, right to be heard",
+  "_de": "3155530001"
+ },
+ "einheit:u03c-0": {
+  "titel": "What can happen along the way",
+  "text": "Four junctions in pending proceedings. **Amendment of the claim** (R. 263 RoP): a party may at any time apply for leave to change or amend its claim, but must explain why the amendment was not included in the original pleading; leave is refused if the amendment could have been made earlier with reasonable diligence or would unreasonably hinder the other party (R. 263.2 RoP). An unconditional limitation is always admissible (R. 263.3 RoP). New grounds of invalidity or prior art against the patent as granted in the reply to an Application to amend are amendments of the claim (VMR/NJOY). **Withdrawal** (R. 265 RoP): until the final decision, on application, after hearing the other party and not against its legitimate interest in a decision; counterclaims remain unaffected. On withdrawal before the closure of the written procedure, the Registry refunds **50 %** of the fees (R. 370.9(b) RoP) – since 1 January 2026; for actions filed earlier, still 60 % (Juul/NJOY). If the action becomes devoid of purpose, the Court disposes of it under R. 360 RoP and decides on costs according to whether the defendant gave cause for the action (LD Munich, Dolby/Roku). **Intervention** (R. 313 to 316 RoP): anyone with a legal interest may intervene in support of a party until the closure of the written procedure; the judge-rapporteur decides, the intervener is treated as a party and is bound by the decision – but it depends on its party (Strabag/Swarco). **Right to be heard** (Art. 76 UPCA, R. 264 RoP): the Court decides only on the parties' requests and only on the basis of grounds, facts and evidence on which they have had an opportunity to comment; the reasons must address the core of the submissions (Siemens/Hologic).",
+  "abschnitt": "Overview",
+  "_de": "033c625981"
+ },
+ "gruppe:u03c-1": {
+  "titel": "The belated prior art",
+  "sachverhalt": "V-GmbH brings a revocation action against a patent of N-Inc. before the central division, relying on two prior-art documents. N-Inc. files an auxiliary Application to amend the patent. In its reply to it, V-GmbH introduces a third prior-art document.",
+  "_de": "bc5f0071be"
+ },
+ "einheit:u03c-1a": {
+  "titel": "Against the amended version",
+  "frage": "May V-GmbH use the third document against the amended claims?",
+  "loesung": [
+   "**Yes!** The reply to the Application to amend (R. 43.3 RoP) serves to deal with the **amended** claims. V-GmbH is responding to them for the first time (VMR/NJOY)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "a9998575c1"
+ },
+ "einheit:u03c-1b": {
+  "titel": "Against the granted version",
+  "frage": "May it, without more, also use it to attack the patent as granted?",
+  "loesung": [
+   "**No!** New grounds of invalidity or prior art **against the patent as granted** are an **amendment of the claim**; it requires leave under R. 263 RoP (VMR/NJOY). The revocation action must already contain all grounds and evidence (R. 44 RoP)."
+  ],
+  "merke": "The Application to amend opens the door only for the amended claims.",
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "00b8249bc5"
+ },
+ "einheit:u03c-1c": {
+  "titel": "R. 263.2 RoP",
+  "frage": "What must V-GmbH show to obtain leave?",
+  "optionen": [
+   "That the document could not have been found earlier with reasonable diligence and that N-Inc. is not unreasonably hindered",
+   "That the document destroys novelty",
+   "That N-Inc. consents",
+   "That the oral hearing has not yet been scheduled"
+  ],
+  "loesung": [
+   "The first answer is correct. Leave is refused if the party does not satisfy the Court that the amendment could **not have been made earlier with reasonable diligence** **and** does **not unreasonably hinder** the other party (R. 263.2 RoP)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "2b054e57ae"
+ },
+ "einheit:u03c-1d": {
+  "titel": "Response to the defence",
+  "frage": "Can new evidence on common general knowledge be admissible as a response to the Statement of defence?",
+  "loesung": [
+   "**Yes!** Fairness remains the corrective: new evidence on common general knowledge in response to the Statement of defence can be admissible (VMR/NJOY)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "8917f682b2"
+ },
+ "einheit:u03c-1e": {
+  "titel": "No application: disregarded",
+  "frage": "Does the Court take into account the document against the granted version if no application for leave has been made?",
+  "loesung": [
+   "**No!** Without an application under R. 263 RoP, the document is disregarded to that extent; the Court may disregard late submissions (R. 9.2 RoP)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "9fc44c5e2e"
+ },
+ "gruppe:u03c-4": {
+  "titel": "Fresh start in Helsinki",
+  "sachverhalt": "AIM sues Supponor before the Helsinki Local Division. After a referral back, the proceedings practically start afresh. AIM applies under R. 263 RoP to extend the action to Germany and Spain and to add a further group company as defendant. The amended Statement of claim is attached as an exhibit.",
+  "_de": "9e65420b2c"
+ },
+ "einheit:u03c-4a": {
+  "titel": "Reasons in the application, wording in the exhibit",
+  "frage": "Must the exact wording of the amendment appear in the application itself?",
+  "loesung": [
+   "**No!** The application under R. 263.1 RoP must itself **explain** why the amendment was not included in the original pleading. The exact wording may be set out in exhibits, for example an amended Statement of claim with and without mark-ups; this even promotes legal certainty (Supponor/AIM)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "ef9524f9f4"
+ },
+ "einheit:u03c-4b": {
+  "titel": "Discretion of the first instance",
+  "frage": "Does the local division have discretion when granting leave under R. 263 RoP?",
+  "loesung": [
+   "**Yes!** Under R. 263 and R. 305 RoP, the Court of First Instance has **discretion**. The appellant must show that the division exceeded its limits and could not reasonably have decided as it did (Supponor/AIM)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "bc4930957f"
+ },
+ "einheit:u03c-4c": {
+  "titel": "Reasonable diligence",
+  "frage": "Was AIM still allowed to add Spain to the action subsequently?",
+  "loesung": [
+   "**Yes!** With reasonable diligence the extension could not have been made earlier: under the case law following GAT/LuK, AIM could not have been expected to include Spain, a non-UPC territory. The expected change in this case law, signalled by the later Advocate General's opinion in BSH/Electrolux, was a reason for the extension; R. 263.2(a) RoP is satisfied (Supponor/AIM)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "f66def1401"
+ },
+ "einheit:u03c-4d": {
+  "titel": "No unreasonable hindrance",
+  "frage": "Are the defendants unreasonably hindered if they then receive the full time limit for the Statement of defence?",
+  "loesung": [
+   "**No!** If the defendants receive the full three-month period of R. 23 RoP, the proceedings essentially start afresh. That the amended action already incorporates the known facts is exactly what the front-loaded procedure requires (Supponor/AIM)."
+  ],
+  "merke": "R. 263 RoP: reasons in the application, diligence and no unreasonable hindrance, discretion of the first instance.",
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "bd483b968d"
+ },
+ "einheit:u03c-4e": {
+  "titel": "New arguments",
+  "frage": "Is every new argument, for instance on equivalence, an amendment of the claim within the meaning of R. 263 RoP?",
+  "loesung": [
+   "**No!** Not every new argument is an amendment of the claim, in particular where the claims are still based on **the same acts and the same patent** (Supponor/AIM)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "f6fcc4a386"
+ },
+ "einheit:u03c-4f": {
+  "titel": "R. 305 RoP: new party",
+  "frage": "May the division add a further group company as defendant?",
+  "loesung": [
+   "**Yes!** Under R. 305 RoP, the Court takes into account, among other things, whether the claimant knew of the acts earlier, how the other parties are involved, how the addition affects them and how far the proceedings have advanced. The risk of conflicting decisions in separate proceedings speaks in favour of the addition (Supponor/AIM)."
+  ],
+  "abschnitt": "R. 263 RoP: amendment of the claim",
+  "_de": "042ea2f250"
+ },
+ "gruppe:u03c-5": {
+  "titel": "Withdrawal on appeal",
+  "sachverhalt": "The Hamburg Local Division dismisses Avago's infringement action against Tesla and partially revokes the patent on Tesla's counterclaims. Avago appeals. The parties then settle: Avago wants to withdraw the action, Tesla the counterclaims.",
+  "_de": "6a3586655b"
+ },
+ "einheit:u03c-5a": {
+  "titel": "Until the decision is final",
+  "frage": "Can an action still be withdrawn after the first-instance decision?",
+  "loesung": [
+   "**Yes!** Under R. 265.1 RoP, withdrawal is possible as long as there is no final decision. A final decision in this sense is only a decision that has become **final and binding**; withdrawal is therefore also admissible in appeal proceedings (Avago/Tesla)."
+  ],
+  "abschnitt": "R. 265 RoP: withdrawal",
+  "_de": "5b52edf97e"
+ },
+ "einheit:u03c-5b": {
+  "titel": "Competent: Court of Appeal",
+  "frage": "Does the Hamburg Local Division decide on the withdrawal?",
+  "loesung": [
+   "**No!** Once an appeal has been lodged, the withdrawal ends the appeal proceedings. The **Court of Appeal** is therefore competent; it declares the proceedings closed and decides on costs (R. 265.2 RoP; Avago/Tesla)."
+  ],
+  "abschnitt": "R. 265 RoP: withdrawal",
+  "_de": "fbce6152a2"
+ },
+ "einheit:u03c-5c": {
+  "titel": "Legitimate interest",
+  "frage": "Must the Court permit the withdrawal even if Tesla had a legitimate interest in a decision?",
+  "loesung": [
+   "**No!** The Court decides after hearing the other party; the withdrawal is **not permitted** if that party has a legitimate interest in a decision (R. 265.1 RoP). Here, Tesla has consented."
+  ],
+  "abschnitt": "R. 265 RoP: withdrawal",
+  "_de": "4a747061cc"
+ },
+ "einheit:u03c-5d": {
+  "titel": "Applications to amend become moot",
+  "frage": "Do Avago's Applications to amend the patent become devoid of purpose with the withdrawal of the counterclaims?",
+  "loesung": [
+   "**Yes!** With the withdrawal of the Counterclaim for revocation, the Applications to amend the patent become **devoid of purpose** (Avago/Tesla)."
+  ],
+  "abschnitt": "R. 265 RoP: withdrawal",
+  "_de": "861b027375"
+ },
+ "einheit:u03c-5e": {
+  "titel": "Counterclaim remains",
+  "frage": "Does the withdrawal of the infringement action also dispose of the counterclaim?",
+  "loesung": [
+   "**No!** The withdrawal of the action has **no effect** on counterclaims (the second sentence of R. 265.2 RoP). The Court may, however, refer the Counterclaim for revocation to the central division."
+  ],
+  "merke": "Withdrawal until the decision is final, never against a legitimate interest of the other side, and the counterclaim remains.",
+  "abwandlung": "Avago withdraws only the infringement action; Tesla maintains the counterclaim.",
+  "abschnitt": "R. 265 RoP: withdrawal",
+  "_de": "ff7f7c3bd3"
+ },
+ "einheit:u03c-5f": {
+  "titel": "Refund of fees",
+  "frage": "Does Avago get part of the court fees back?",
+  "loesung": [
+   "**Yes!** On withdrawal before the closure of the written procedure, part of the fees is refunded (R. 370.9(b) RoP); here the Court of Appeal ordered 60 %. For actions filed from 1 January 2026, it is 50 % (Juul/NJOY)."
+  ],
+  "abschnitt": "R. 265 RoP: withdrawal",
+  "_de": "815ab679c2"
+ },
+ "gruppe:u03c-2": {
+  "titel": "The contradicting intervener",
+  "sachverhalt": "S-AG loses an infringement action before a local division and appeals. Its supplier Z has intervened on its side and also appeals. After a settlement, S-AG withdraws its appeal; Z wants to continue.",
+  "_de": "bf6c7ef2d9"
+ },
+ "einheit:u03c-2a": {
+  "titel": "R. 313 RoP: intervention",
+  "frage": "Can a third party with a legal interest in the outcome intervene in the proceedings?",
+  "loesung": [
+   "**Yes!** Anyone who establishes a **legal interest** in the outcome may lodge an Application to intervene (R. 313.1 RoP), namely in **support** of a claim of a party, before the closure of the written procedure (R. 313.2 RoP)."
+  ],
+  "abschnitt": "R. 313 to 316 RoP: intervention",
+  "_de": "63456dc2ca"
+ },
+ "einheit:u03c-2b": {
+  "titel": "Status as a party",
+  "frage": "Is Z treated as a party?",
+  "loesung": [
+   "**Yes!** The intervener is treated as a party unless the Court orders otherwise (R. 315.4 RoP) and is bound by the decision (R. 316.3 RoP)."
+  ],
+  "abschnitt": "R. 313 to 316 RoP: intervention",
+  "_de": "16cff316b1"
+ },
+ "einheit:u03c-2c": {
+  "titel": "No contradiction",
+  "frage": "May Z object to S-AG's withdrawal of the appeal?",
+  "loesung": [
+   "**No!** The intervener has no position independent of the party it supports. It may not act **in contradiction to that party's procedural acts** (Strabag/Swarco)."
+  ],
+  "merke": "The intervener supports; it does not lead.",
+  "abschnitt": "R. 313 to 316 RoP: intervention",
+  "_de": "36dd4d22f9"
+ },
+ "einheit:u03c-2d": {
+  "titel": "Single appeal",
+  "frage": "Does Z's appeal survive as a separate appeal?",
+  "loesung": [
+   "**No!** Where both the party and the intervener have appealed, there is a **single appeal**. It becomes devoid of purpose after the withdrawal following the settlement (R. 360 RoP; Strabag/Swarco)."
+  ],
+  "abschnitt": "R. 313 to 316 RoP: intervention",
+  "_de": "22e675ad51"
+ },
+ "einheit:u03c-2e": {
+  "titel": "Own action",
+  "frage": "How can Z pursue its own interest in a declaration of non-infringement?",
+  "optionen": [
+   "By continuing the appeal",
+   "By challenging the settlement",
+   "By its own action for a declaration of non-infringement",
+   "Not at all"
+  ],
+  "loesung": [
+   "The third answer is correct. Anyone pursuing an own interest must **bring its own action**, for example for a declaration of non-infringement before the central division (Art. 32(1)(b) and Art. 33(4) UPCA)."
+  ],
+  "abschnitt": "R. 313 to 316 RoP: intervention",
+  "_de": "0d16d2ab3c"
+ },
+ "gruppe:u03c-3": {
+  "titel": "The core submission that was passed over",
+  "sachverhalt": "Before a local division, H-Inc. defends itself with an elaborately reasoned interpretation argument: according to the description, the feature “filter element” requires a mechanical retention function. The decision grants the action and mentions the argument in one sentence, without addressing the passages of the description.",
+  "_de": "f70ea5e17d"
+ },
+ "einheit:u03c-3a": {
+  "titel": "Art. 76(2) UPCA",
+  "frage": "Must the Court give the parties an opportunity to comment on the decisive grounds?",
+  "loesung": [
+   "**Yes!** Decisions on the merits may only be based on grounds, facts and evidence on which the parties **have had an opportunity to present their comments** (Art. 76(2) UPCA)."
+  ],
+  "abschnitt": "Art. 76 UPCA: right to be heard",
+  "_de": "b54bf18a75"
+ },
+ "einheit:u03c-3b": {
+  "titel": "Only the core",
+  "frage": "Must the Court expressly address every argument of the parties?",
+  "loesung": [
+   "**No!** The Court must **take note of** the submissions, address their essential core and deal with the central questions. Not every argument, but the **core arguments** (Siemens/Hologic)."
+  ],
+  "abschnitt": "Art. 76 UPCA: right to be heard",
+  "_de": "f8a88d551e"
+ },
+ "einheit:u03c-3c": {
+  "titel": "Wording instead of meaning",
+  "frage": "Is a violation of the right to be heard to be presumed if the reasons merely repeat the wording of the submission?",
+  "loesung": [
+   "**Yes!** A violation is to be presumed if the reasons only permit the conclusion that the submission was passed over, or if they capture at most its **wording, not its meaning** (Siemens/Hologic). Here, the interpretation argument was the core of the defence."
+  ],
+  "merke": "Reasons that merely repeat the wording of the submission support the presumption of a violation of the right to be heard.",
+  "abschnitt": "Art. 76 UPCA: right to be heard",
+  "_de": "66da8d296a"
+ },
+ "einheit:u03c-3d": {
+  "titel": "Causation on appeal",
+  "frage": "On appeal, is it sufficient to raise the objection without showing that the error may have influenced the decision?",
+  "loesung": [
+   "**No!** The appellant must show that the procedural error may have led to an **incorrect decision** (Sinocare/Abbott)."
+  ],
+  "abschnitt": "Art. 76 UPCA: right to be heard",
+  "_de": "47571cb6af"
+ },
+ "einheit:u03c-3e": {
+  "titel": "Carve-out",
+  "frage": "Does such a carve-out by the claimant also limit the defendant's attack on validity?",
+  "loesung": [
+   "**No!** Under the principle of party disposition (Art. 76(1) UPCA), the claimant determines the subject matter of the action and may carve out states. This does not, however, limit the defendant in its attack on validity (LD Paris, DexCom/Abbott)."
+  ],
+  "abwandlung": "In other proceedings, the claimant carves France out of its infringement action to avoid parallel national proceedings.",
+  "abschnitt": "Art. 76 UPCA: right to be heard",
+  "_de": "c55c6168d2"
+ }
+}

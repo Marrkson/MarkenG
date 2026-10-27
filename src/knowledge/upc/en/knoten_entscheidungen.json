@@ -1,0 +1,402 @@
+{
+ "case:upc_coa_sanofi_amgen_zustellung": {
+  "name": "Sanofi/Amgen (annexes to the statement of claim)",
+  "kern": "Under R. 271 RoP, a statement of claim can be validly served without the annexes it refers to if the defendant can exercise its rights without them. If, contrary to R. 13.2 RoP, the claimant does not upload the annexes to the CMS at the same time, the time limits for the Preliminary objection (R. 19.1 RoP) and the Statement of defence (R. 23 RoP) must be extended by the period during which the annexes were unavailable; the nature and content of the annexes are irrelevant.",
+  "_de": "fd55d42113"
+ },
+ "case:upc_coa_nec_tcl_zustellung_china": {
+  "name": "NEC/TCL (service in China)",
+  "kern": "A statement of claim cannot be served on a company in China or Hong Kong by e-mail to a person not authorised to accept service; public service by posting at the local division is also ruled out at this stage. Before service by an alternative method (R. 274.1(b) RoP) or alternative service (R. 275 RoP), attempts at service under the Hague Service Convention (R. 274.1(a)(ii) RoP) must normally be made.",
+  "_de": "5f269e1552"
+ },
+ "case:upc_coa_biomerieux_labrador_fristen": {
+  "name": "bioMérieux/Labrador (extension of time limits)",
+  "kern": "Given the strict time-limit regime of the Rules of Procedure, an extension of a time limit under R. 9.3(a) RoP is to be granted with restraint and only in exceptional circumstances. Aligning the time limit for the statement of grounds of appeal in revocation proceedings with the later time limit in parallel infringement proceedings is not justified where more efficient means, such as hearing the appeals together under R. 220.5 RoP, are available.",
+  "_de": "113b8657ef"
+ },
+ "case:upc_coa_suinno_microsoft_vertretung": {
+  "name": "Suinno/Microsoft (representation by corporate officers)",
+  "kern": "Officers of a legal person and natural persons with extensive administrative and financial powers (management position, substantial shareholding) may not represent it, even if they are qualified as representatives under Art. 48(1) UPCA or Art. 48(2) UPCA; representation is meant to ensure sufficient distance from the party. By contrast, the mere employment of the lawyer or patent attorney by the party does not impair independence as long as they act as an independent adviser under point 2.4.1 of the Code of Conduct.",
+  "_de": "a765c5fcb2"
+ },
+ "case:upc_coa_fives_reel_altfaelle": {
+  "name": "Fives/REEL (pre-UPCA cases, action for damages)",
+  "kern": "The UPC also has jurisdiction over a separate action for the determination of damages after a national court has established infringement and liability for damages in principle. Jurisdiction covers acts of infringement committed before the UPCA entered into force on 1 June 2023, provided the patent had not yet lapsed at that time.",
+  "_de": "4fe3c110fd"
+ },
+ "case:upc_coa_knaus_tabbert_altfaelle": {
+  "name": "Knaus Tabbert (pre-UPCA cases, skilled person, product-by-process)",
+  "kern": "The UPC has jurisdiction over pre-UPCA cases under Art. 32 UPCA; for the period before 1 June 2023, the applicable law and the prohibition of retroactivity must be examined separately. On the merits: if the skilled person recognises that the problem arises similarly in a neighbouring field, they will consult experts from that field. Including a manufacturing process in a product claim does not turn it into a process claim; it must be examined whether the process is reflected in properties of the product. A general term does not automatically disclose all specific sub-terms. The statement of grounds of appeal must be complete (R. 222.2, 226 RoP).",
+  "_de": "b5591a80d6"
+ },
+ "case:upc_coa_roku_dolby_einspruch": {
+  "name": "Roku/Dolby (grounds for a Preliminary objection, Milan, appeal fee)",
+  "kern": "R. 19.1 RoP contains an exhaustive list of grounds for a Preliminary objection; it includes the jurisdiction of the Court, including the validity of the rules on jurisdiction, but not an infringement of Art. 47 CFR or Art. 6 ECHR as such. Conferring jurisdiction on the UPC (Art. 31, 32 UPCA in conjunction with Art. 71a ff. Brussels Ia Regulation) does not encroach on Art. 19 TEU and Art. 267 TFEU. The Administrative Committee was entitled, applying Art. 87(2) UPCA by analogy, to replace London with Milan. The appeal fee must be paid for each set of appeal proceedings, even where the questions are the same.",
+  "_de": "1caa2362d7"
+ },
+ "case:upc_coa_vivo_sunpatent_einspruch_hauptverfahren": {
+  "name": "Vivo/Sun Patent (Preliminary objection dealt with in the main proceedings)",
+  "kern": "The decision to deal with the Preliminary objection in the main proceedings may be taken by the judge-rapporteur (R. 20.2 RoP) or by the panel if the judge-rapporteur has referred the question to it under R. 102.1 RoP; R. 102 RoP applies mutatis mutandis in the written procedure, because under R. 18, 331 RoP the judge-rapporteur is also in charge of case management there, including the order in which questions are decided (R. 334 RoP).",
+  "_de": "a6075c8fdf"
+ },
+ "case:upc_coa_sunpatent_vivo_aussetzung": {
+  "name": "Sun Patent/Vivo (stay of proceedings, R. 21 and R. 295 RoP)",
+  "kern": "A stay under R. 21.2 RoP requires that an appeal against the decision on the Preliminary objection has already been lodged; the special rules of R. 19 to 21 RoP take precedence over the general rules on stays (R. 295 ff. RoP). R. 295 RoP applies at both instances; however, a stay of first-instance proceedings is in principle decided by the Court of First Instance, which knows the circumstances better and has discretion in case management.",
+  "_de": "0a4a8021ca"
+ },
+ "case:upc_coa_barco_yealink_kammer": {
+  "name": "Barco/Yealink (competence of the division in provisional measures proceedings)",
+  "kern": "For reasons of efficiency, R. 19.5 RoP applies mutatis mutandis in proceedings for provisional measures: if the chosen local division lacks competence and the applicant names a competent one, the case is referred rather than dismissed. The competence of divisions under Art. 33 UPCA is an internal matter of the UPC outside the Brussels Ia Regulation; there is no hierarchy between the place of infringement (point (a)) and the defendant's residence (point (b)). For point (a), where there are several defendants, it is sufficient to establish acts of infringement in the territory of the division, such as an offer on a website accessible there; the examination is summary. Possible product modifications do not justify waiting under R. 211.4 RoP.",
+  "_de": "00417db759"
+ },
+ "case:upc_coa_nuc_hurom_einlassung": {
+  "name": "NUC/Hurom (entering an appearance, CMS access)",
+  "kern": "In the electronic procedure of the UPC (Art. 44 UPCA, R. 4.1 RoP), the representative's first step is to access the file in the CMS with the access code served. This access does not yet amount to entering an appearance within the meaning of Art. 26(1) Brussels Ia Regulation. Only with the first written pleading, the Preliminary objection under R. 19 RoP or the Statement of defence under R. 23 ff. RoP, does the defendant consciously decide for or against the international jurisdiction of the court seised.",
+  "_de": "089d4b6059"
+ },
+ "case:upc_coa_sinocare_abbott_zustaendigkeit": {
+  "name": "Sinocare/Abbott (jurisdiction, place of damage, objection on appeal)",
+  "kern": "A party that does not challenge jurisdiction at first instance has in principle lost that possibility on appeal (Art. 26(1) Brussels Ia Regulation, R. 19.7 RoP). If allegedly infringing products are manufactured and sold for the Contracting Member States, damage threatens there through acquisition via third parties, even if the acts are carried out outside the UPC territory; this establishes jurisdiction under Art. 71b(2) Brussels Ia Regulation in conjunction with Art. 7(2) Brussels Ia Regulation. Appellants must show that the procedural errors complained of led to an incorrect decision.",
+  "_de": "037312317a"
+ },
+ "case:upc_cfi_dyson_dreame_zustaendigkeit": {
+  "name": "Dyson/Dreame (LD Hamburg: international jurisdiction)",
+  "kern": "As a common court, the UPC has jurisdiction over all infringements in a Contracting Member State irrespective of the defendant's domicile (Art. 71b(2) Brussels Ia Regulation in conjunction with Art. 7(2) Brussels Ia Regulation). If a defendant is neither established nor active in the state of the division but belongs to the same group as co-defendants and the allegation concerns the same embodiments, the close connection required by Art. 8(1) Brussels Ia Regulation exists.",
+  "_de": "47bc7e6a4c"
+ },
+ "case:upc_coa_meril_edwards_parteien": {
+  "name": "Meril/Edwards (same parties, applications to amend, claim interpretation, inventive step)",
+  "kern": "“The same parties” in Art. 33(4) UPCA requires identity; exceptionally, two legal entities are treated as one party if their interests are so identical that a judgment against one has res judicata effect against the other. Subsequent requests to amend (R. 50.2 RoP in conjunction with R. 30.2 RoP) require leave; the Court of First Instance has discretion and review on appeal is limited. An embodiment is as a rule covered by the claim unless the patent clearly teaches the opposite. Inventive step: the starting point is a realistic piece of prior art; the skilled person must arrive at the invention with a reasonable expectation of success, not merely be able to arrive at it.",
+  "_de": "fa14c7d9ad"
+ },
+ "case:upc_cfi_seoulviosys_emporia_strohmann": {
+  "name": "Seoul Viosys/Emporia (CD Paris: straw man theory)",
+  "kern": "The straw man theory has a basis in Union law and may be relevant to the requirement of “the same parties” in Art. 33(4) UPCA. However, the fact that two companies have coordinated a joint defence strategy against an infringement action is not sufficient to regard the company involved in the second proceedings as a straw man of the first.",
+  "_de": "a5ac02d253"
+ },
+ "case:upc_cfi_pari_philips_klagebefugnis": {
+  "name": "Pari/Philips (CD Milan: standing to bring a revocation action)",
+  "kern": "Any person who wants to clarify its freedom to operate, i.e. anyone who is or could become active in the technical field of the patent, is “concerned” by the patent and entitled to bring a revocation action under Art. 47(6) UPCA. As a rule, the skilled person does not derive dimensions directly and unambiguously from schematic drawings.",
+  "_de": "2d87588651"
+ },
+ "case:upc_cfi_edwards_meril_cms": {
+  "name": "Edwards/Meril (LD Munich: CMS workflows, security for costs)",
+  "kern": "Under the second sentence of R. 4.1 RoP, the parties must use the official online forms, including the separate CMS workflows. An application for security for costs under R. 158.1 RoP requires a showing that the financial position of the other party jeopardises reimbursement or that enforcement of a costs decision appears impossible or particularly difficult.",
+  "_de": "de4c78fe2c"
+ },
+ "case:upc_cfi_avago_tesla_teilnichtigkeit": {
+  "name": "Avago/Tesla (LD Hamburg: workflows, partial revocation)",
+  "kern": "Failure to use the CMS workflow does not prevent a time limit from being met (R. 4.1 RoP); in the initial phase of the UPC a generous standard is appropriate. Under Art. 65(3) UPCA, a patent can only be revoked to the extent that the grounds for revocation extend; it can also be maintained to the extent of individual independent claims of a complete set of claims, provided these do not build on each other in such a way that the loss of one necessarily entails the loss of the other.",
+  "_de": "5e11633a66"
+ },
+ "case:upc_cfi_10x_curio_verdolmetschung": {
+  "name": "10x Genomics/Curio (LD Düsseldorf: interpretation)",
+  "kern": "Under Art. 51(2) UPCA and R. 109 RoP, the divisions provide interpretation at the request of a party to the extent deemed appropriate to assist the party at the oral hearing; it is meant to enable participants without sufficient language skills to take an active part. If the parties' representatives have command of the language of the proceedings, they may not plead in another language.",
+  "_de": "e150a59f26"
+ },
+ "case:upc_cfi_tplink_huawei_sprache": {
+  "name": "TP-Link/Huawei (LD Munich: change of the language of the proceedings)",
+  "kern": "In an application to change the language of the proceedings to the language of the patent on grounds of fairness (Art. 49(5) UPCA, R. 323 RoP), all circumstances must be weighed; given the strict time limits, the parties' internal working language and the need for coordination among several defendants are important factors.",
+  "_de": "b25908beeb"
+ },
+ "case:upc_cfi_huawei_mediatek_r333": {
+  "name": "Huawei/MediaTek (LD Munich: review under R. 333 RoP, third-party access to the file)",
+  "kern": "The local division held that an application under R. 333.1 RoP against a decision of the judge-rapporteur on third-party access to the file under R. 262.1(b) RoP was inadmissible; this has been superseded: according to UPC CoA Huawei/Quinn Emanuel (UPC-COA-52/2026, 29 June 2026), the panel reviews such decisions under R. 333 RoP, and the remedy is an appeal under R. 220.2 and 220.3 RoP. For a law firm's interest in access to the file for training and advisory purposes, an abstract assessment suffices: it is enough that access can objectively satisfy the need for information.",
+  "_de": "4cbb593c2c"
+ },
+ "case:upc_cfi_dexcom_abbott_dispositionsmaxime": {
+  "name": "DexCom/Abbott (LD Paris: principle of party disposition, carve-out)",
+  "kern": "The subject matter of the dispute is determined by the parties (Art. 76(1) UPCA); the claimant may exclude certain acts of infringement or states (“carve-out”) to avoid parallel jurisdiction during the transitional period under Art. 83 UPCA. However, this principle does not restrict the defendant in its attack on the validity of the patent.",
+  "_de": "8618495e62"
+ },
+ "case:upc_coa_siemens_hologic_gehoer": {
+  "name": "Siemens/Hologic (right to be heard)",
+  "kern": "The right to be heard under Art. 76(2) UPCA obliges the Court to take note of the parties' submissions, to deal with their essential core and to address central issues in the reasons. An infringement is to be presumed if the reasons only allow the conclusion that the submissions were completely ignored, or if at most they capture the wording but not the meaning of the submissions. Not every argument must be addressed expressly, but the core arguments must.",
+  "_de": "9fad867ae5"
+ },
+ "case:upc_coa_strabag_swarco_streithilfe": {
+  "name": "Strabag/Swarco (intervener)",
+  "kern": "The intervener may not act contrary to the acts of the party it supports; its objection to that party's withdrawal of the appeal is inadmissible. Its procedural acts are admissible only insofar as they support that party's requests; if the party drops out, the intervention becomes inadmissible. If the party and the intervener have both lodged an appeal, it is a single appeal, which becomes devoid of purpose after withdrawal by the party following a settlement under R. 360 RoP. As regards costs, the intervener is treated like the main party.",
+  "_de": "870f6e40d0"
+ },
+ "case:upc_coa_suinno_microsoft_versaeumnis": {
+  "name": "Suinno/Microsoft (decision by default against the appellant)",
+  "kern": "For R. 355.2 RoP, the appellant is deemed to be the claimant in the appeal proceedings. R. 355.2 RoP therefore does not apply where the respondent applies for a decision by default against the appellant because the appellant has failed to meet a time limit, for instance has not provided the security for costs ordered (R. 158.5 RoP), or has not appeared at the oral hearing.",
+  "_de": "45cf2413a1"
+ },
+ "case:upc_coa_suinno_microsoft_wiederaufnahme": {
+  "name": "Suinno/Microsoft (rehearing)",
+  "kern": "Applications for rehearing on the ground of a fundamental procedural defect under Art. 81(1)(b) UPCA and R. 247 RoP are limited to the defects listed there; rehearing is an extraordinary remedy against final decisions of the Court of Appeal.",
+  "_de": "d2dbc4e3a3"
+ },
+ "case:upc_cfi_dolby_roku_veranlassung": {
+  "name": "Dolby/Roku (LD Munich: costs after the matter is settled, warning letter)",
+  "kern": "Where the costs decision under R. 360 RoP depends on whether the defendant gave cause for the action, the objective view of a person in the claimant's position at the time the action was filed is decisive. A warning letter is not a requirement for the admissibility or merits of an application for provisional measures and does not remove urgency; however, its absence may lead to the applicant bearing the costs.",
+  "_de": "36c267a715"
+ },
+ "case:upc_coa_aarke_sodastream_sicherheit": {
+  "name": "Aarke/SodaStream (security for costs: criteria)",
+  "kern": "For security for costs, only the financial position of the claimant itself is decisive, not its membership of a solvent group; the claimant's willingness to reimburse and the prospects of success of the action are irrelevant. The applicant does not have to prove that enforcement is impossible; it is sufficient that enforcement of a costs decision would be unduly burdensome, for which the applicant must set out the foreign law and its application.",
+  "_de": "d9529c3c27"
+ },
+ "case:upc_coa_hefei_grundfos_sicherheit": {
+  "name": "Hefei/Grundfos (security for costs only against the applicant)",
+  "kern": "Art. 69(4) UPCA allows security for costs only against the applicant, i.e. the party that initiates the instance. At first instance, an application by the claimant is inadmissible, even if the defendant files a Counterclaim for revocation. In appeal proceedings, only the respondent is entitled to apply; in cross-appeals, each party can only request security for the costs of the other's appeal. Exception: if the defendant rightly alleges an evident error in the first-instance decision, only the defendant can request security for the appeal instance.",
+  "_de": "4af3907f5c"
+ },
+ "case:upc_coa_suinno_microsoft_prozesskostensicherheit": {
+  "name": "Suinno/Microsoft (security, conditional counterclaim after conclusion)",
+  "kern": "Confirmation of Hefei/Grundfos: security for costs only against the applicant; the infringement claimant cannot request security for the costs of the counterclaim, as it is a direct consequence of its own action. In appeal proceedings, only the respondent is entitled to apply, even if it was the claimant at first instance. The Court decides at its discretion on a stay under R. 295(m) RoP and on an extension of time limits under R. 9.3(a) RoP.",
+  "_de": "b8824fec80"
+ },
+ "case:upc_coa_syntorr_arthrex_versicherung": {
+  "name": "Syntorr/Arthrex (litigation insurance)",
+  "kern": "In the discretionary decision under Art. 69(4) UPCA and R. 158.1 RoP, it must be examined whether the claimant's financial position gives rise to a legitimate and real concern that a costs decision cannot be enforced or can only be enforced in an unduly burdensome way. An after-the-event (ATE) insurance policy covering the defendant's costs must be taken into account.",
+  "_de": "38cb86aa65"
+ },
+ "case:upc_coa_lasiddhi_athena_kmu": {
+  "name": "La Siddhi/Athena (SMEs and security for costs)",
+  "kern": "SME status or a declaration under R. 370.8 RoP does not exempt a party from security for costs under R. 158 RoP if its requirements are met. The amount of the security is to be determined in light of all circumstances, starting from the ceiling for recoverable costs (Annex A to the decision of the Administrative Committee of 24 April 2023); SME status may be taken into account.",
+  "_de": "5f72109b50"
+ },
+ "case:upc_coa_juul_njoy_gebuehren": {
+  "name": "Juul/NJOY (reimbursement of fees on withdrawal)",
+  "kern": "R. 370.9(b) RoP was amended with effect from 1 January 2026: if the action is withdrawn before the closure of the written procedure, 50 % instead of the previous 60 % of the court fees are reimbursed. The amendments apply only to actions and applications filed after 31 December 2025.",
+  "_de": "a0b7e58a46"
+ },
+ "case:upc_coa_sharkninja_kosten": {
+  "name": "SharkNinja (costs where a party partly succeeds with two patents)",
+  "kern": "If two patents are the subject of the proceedings and the action succeeds on only one, it is generally appropriate to apportion the costs in proportion to the values of the two patents (Art. 69(2) UPCA); alternatively, the unsuccessful party may bear the costs attributable to the respective patent.",
+  "_de": "20aad8d9d9"
+ },
+ "case:upc_coa_belkin_philips_anbieten": {
+  "name": "Belkin/Philips (offering, liability of managing directors, recognition)",
+  "kern": "“Offering” in Art. 25(a) UPCA is to be interpreted autonomously and in economic terms: it suffices that a product is presented in a way that allows viewers to make an offer for its supply (invitatio ad offerendum); a price, readiness or ability to deliver are not required. An infringer under Art. 63 UPCA is also anyone to whom acts of third parties are attributable as instigator, joint tortfeasor or accessory. Holding office as such does not make the managing director a joint tortfeasor; they are liable only if they deliberately use the company for the infringement or fail to intervene despite knowledge and reasonableness. Decisions of national courts are recognised under Art. 36 Brussels Ia Regulation.",
+  "_de": "f563b4061c"
+ },
+ "case:upc_coa_onward_niche_mittelbar": {
+  "name": "Onward/Niche (unregistered claim version, intended use)",
+  "kern": "Asserting a patent in an unregistered (limited) version of the claims is not ruled out from the outset even in proceedings for provisional measures; admissibility depends on the circumstances and the summary nature of the proceedings. New auxiliary requests on appeal are governed by R. 222 RoP. The intended use under Art. 26 UPCA can be inferred from objective circumstances that allow the sufficiently certain conclusion that the means are to be used by the recipient in accordance with the invention.",
+  "_de": "ea15215e50"
+ },
+ "case:upc_coa_nanostring_10x": {
+  "name": "NanoString/10x Genomics (claim interpretation, standard for provisional measures)",
+  "kern": "The requirements of R. 206.2(b) to 206.2(e) RoP concern the merits of the application. The patent claim is the decisive basis for the scope of protection under Art. 69 EPC; the description and drawings must always be used as explanatory aids, not only in cases of ambiguity; interpretation from the point of view of the skilled person must combine adequate protection with legal certainty; the same principles apply to infringement and validity. Sufficient certainty (R. 211.2 RoP, Art. 62(4) UPCA, Art. 9(3) IPRED) requires that the Court considers entitlement and infringement more likely than not; it is lacking if the Court considers invalidity more likely than not. The applicant bears the burden of presentation and proof for entitlement and infringement, the respondent for invalidity.",
+  "_de": "e09740e7a7"
+ },
+ "case:upc_coa_amgen_regeneron_auslegung": {
+  "name": "Amgen/Regeneron (dependent claims, medical use, sufficiency of disclosure)",
+  "kern": "Whether conclusions for the interpretation of the independent claim can be drawn from a dependent claim depends on the individual case; if the dependent claim merely adds a further feature, that speaks against it. In claims in medical-use format, objective suitability for the therapeutic effect is an inherent feature. Added matter is a question of law based on the facts submitted; the Court may consider the entire application. Sufficiency of disclosure: the skilled person must be able to reproduce the subject matter without inventive effort and without undue burden; one way suffices.",
+  "_de": "c6d750ab2a"
+ },
+ "case:upc_coa_expert_seoulviosys_erweiterung": {
+  "name": "expert/Seoul Viosys (added matter, divisional application)",
+  "kern": "Added matter exists if the subject matter of the granted claim extends beyond the content of the application as filed; what matters is what the skilled person, using common general knowledge, objectively derives directly and unambiguously from the application as a whole on the filing date, including what is implicitly disclosed. For patents resulting from divisional applications, this applies in relation to every earlier application, including the PCT parent application.",
+  "_de": "971da5692e"
+ },
+ "case:upc_coa_abbott_sinocare_erfinderisch": {
+  "name": "Abbott/Sinocare (non-technical features, cross-appeal)",
+  "kern": "In assessing inventive step, a claim feature is not to be disregarded merely because, taken on its own, it would be non-technical (Art. 52(2) EPC); it may contribute to the technical character through interaction with the other features, which is why the features must be assessed together. Appeal and cross-appeal (R. 220.1, R. 237 RoP) require that the party is adversely affected; a cross-appeal solely to change the reasoning is inadmissible.",
+  "_de": "1ab57c6750"
+ },
+ "case:upc_cfi_meril_edwards_erfinderisch": {
+  "name": "Meril/Edwards (CD Paris: assessment of inventive step)",
+  "kern": "The assessment of inventive step requires, first, determining the objective problem in the light of the patent specification; second, determining the prior art, represented by one or more realistic starting points (a matter for the parties); and third, asking whether it was obvious for the skilled person to arrive at the claimed solution; the invention must be considered as a whole.",
+  "_de": "d2c035a5a4"
+ },
+ "case:upc_coa_fujifilm_kodak_nichtigkeit": {
+  "name": "Fujifilm/Kodak (substantiation of the revocation action, dependent claims, pointer)",
+  "kern": "The party seeking revocation must state the extent to which revocation is sought and substantiate this for each claim attacked (R. 25.1(a) to 25.1(d) RoP). Under R. 29A(c) RoP, the patent proprietor must state with sufficient substantiation which dependent claims or combinations it considers valid, in a reasonable number; an auxiliary request under R. 30 RoP is not needed for this, but only if the wording of the claims is to be amended. Without a pointer to combine a starting point with a further document, the motivation cannot be derived from the content of that document.",
+  "_de": "6d6f78e0a4"
+ },
+ "case:upc_coa_vmr_njoy_aenderung": {
+  "name": "VMR/NJOY (defence to the Application to amend, new grounds for revocation)",
+  "kern": "An Application to amend the patent is followed by the defence under R. 43.3 RoP, which may contain submissions under R. 44(d) to 44(h) RoP and, in the alternative, non-infringement arguments. However, it does not give the claimant the opportunity to introduce new grounds for revocation or new prior art against the patent as granted, unless an amendment of the claim is allowed (R. 263 RoP). In the front-loaded procedure, new arguments are only to be admitted depending on the circumstances; fairness may permit new evidence on common general knowledge in response to the Statement of defence.",
+  "_de": "bd6698f8d0"
+ },
+ "case:upc_coa_emboline_aorticlab_bedingte_widerklage": {
+  "name": "Emboline/AorticLab (conditional counterclaim, conditional appeal)",
+  "kern": "A Counterclaim for revocation may be made conditional on a finding of infringement. If the infringement claimant appeals against the dismissal, the counterclaimant may challenge the decision not to rule on the counterclaim; it may lodge its appeal on condition that the claimant appeals, and the fee only becomes due at that point. On appeal, the counterclaim remains conditional unless the condition is dropped under R. 263 RoP by analogy and R. 222.2 RoP; if the Court of Appeal finds infringement, it will as a rule decide the counterclaim itself (Art. 75(1) UPCA, R. 242.2(b) RoP).",
+  "_de": "d4c0aeeacf"
+ },
+ "case:upc_coa_aorticlab_emboline_getrennte_klagen": {
+  "name": "AorticLab/Emboline (infringement action and counterclaim as separate actions)",
+  "kern": "Under the UPCA and the RoP, the infringement action and the Counterclaim for revocation are separate actions; the condition of a finding of infringement is an “inter-procedural” condition that requires a separate appeal (instead of a cross-appeal). The condition does not affect the pendency of the counterclaim; R. 263.3 RoP applies by analogy. “The Court” as the reference point of the condition means both instances unless stated otherwise. “Failed to decide” in R. 242.2(b) RoP covers any situation in which something relevant to the decision was not decided.",
+  "_de": "1e6c6701fc"
+ },
+ "case:upc_cfi_dolby_beko_frand": {
+  "name": "Dolby/Beko (LD Düsseldorf: FRAND defence, Art. 102 TFEU)",
+  "kern": "A dominant position under Art. 102 TFEU may arise from the fact that, without a licence under the patent in suit, no products compatible with a common standard (smart TVs) can be offered; the decisive factor is the consumer expectation that all common codecs are supported. For the FRAND negotiation programme under Huawei/ZTE, the Düsseldorf Local Division follows the Mannheim and Munich Local Divisions: the claim for an injunction is barred only if the infringer behaves as a licensee willing to take a licence.",
+  "_de": "55b95c6ce8"
+ },
+ "case:upc_coa_biolitec_lightguide_ev": {
+  "name": "Biolitec/Lightguide (necessity of provisional measures)",
+  "kern": "Provisional measures come into consideration if, by the nature of the matter, the main proceedings cannot be awaited; if they can be awaited, provisional measures are not necessary, because the main proceedings offer more procedural safeguards. In weighing the interests, the Court takes into account the time factor in addition to the damage. If measures are intended to change a market situation that was established years before the grant of the patent, the applicant must explain why they cannot wait until the main proceedings to protect its market shares or prices.",
+  "_de": "297b338e01"
+ },
+ "case:upc_cfi_nokia_sunmi_drohende_verletzung": {
+  "name": "Nokia/Sunmi (LD Munich: imminent infringement, anti-suit injunction)",
+  "kern": "An infringement is imminent within the meaning of Art. 62(1) UPCA if it has not yet occurred, but concrete circumstances give serious and tangible indications that the respondent will act unlawfully in the near future; the act of infringement must be taking concrete shape and depend only on the respondent's will. The UPC can order provisional measures against an imminent anti-suit injunction.",
+  "_de": "f68eaddd76"
+ },
+ "case:upc_coa_dyson_dreame_auslegung": {
+  "name": "Dyson/Dreame (claim interpretation, scope of the injunction)",
+  "kern": "When interpreting a feature relating to a component, its function must be taken into account, but so must the physical and spatial arrangement taught by the patent. A limitation of the injunction to the acts of infringement actually committed cannot be derived from Art. 62(1) UPCA and Art. 25(a) UPCA; a party that has infringed generally creates the risk of further infringements, including through other acts of use not yet committed.",
+  "_de": "8f17910961"
+ },
+ "case:upc_coa_merz_viatris_ev_einwand": {
+  "name": "Merz/Viatris (waiver of the invalidity defence in provisional measures proceedings)",
+  "kern": "Unlike in the main proceedings, where invalidity must be raised by way of counterclaim (R. 25.1 RoP), the invalidity defence in proceedings for provisional measures is not a separate action; waiving it is neither an amendment of the claim (R. 263 RoP) nor a withdrawal (R. 265 RoP). Under Art. 76(2) UPCA, the parties determine the grounds, facts and evidence; if a party declares that it no longer relies on certain submissions, the Court decides on the remaining basis and may order the waiving party to bear the costs thereby incurred.",
+  "_de": "9755b887af"
+ },
+ "case:upc_coa_centripetal_paloalto_beweissicherung": {
+  "name": "Centripetal/Palo Alto (standard for orders to preserve evidence)",
+  "kern": "In summary proceedings, the standard of proof must be set neither too high nor too low. The purpose of preserving evidence differs from the main proceedings: the requirement of “reasonably available evidence” under Art. 60(1) UPCA is a lower threshold than the infringement claimant's burden of proof, in particular for aspects on which no evidence is accessible to the applicant. Mere speculation is not enough; to prevent “fishing expeditions”, infringement must be plausible, especially for ex parte orders. Inspections interfere with Art. 7 CFR and require effective safeguards.",
+  "_de": "bde9869f65"
+ },
+ "case:upc_coa_ecovacs_roborock_exparte": {
+  "name": "Ecovacs/Roborock (duty of disclosure in ex parte inspection)",
+  "kern": "Preserving evidence without hearing the other party raises issues of fair trial. The applicant must disclose all material facts known to it that could influence the decision on an ex parte order, including those relating to proportionality (R. 192.3 RoP, a heightened duty in addition to R. 284 RoP). Omissions and distorted presentations of material facts cannot be compensated for by later submissions in the review proceedings.",
+  "_de": "ecd797da84"
+ },
+ "case:upc_coa_ericsson_asus_vertraulichkeit": {
+  "name": "Ericsson/ASUS (confidentiality club, employees)",
+  "kern": "In measures to protect confidential information, the right to an effective remedy and a fair trial, the legitimate interests of the parties and third parties, and possible harm must be weighed. A legal person may propose natural persons for the circle with access; access is decided on the basis of their role, the relevance of the information and trustworthiness. Employee status alone does not justify exclusion; as a rule, the party's interest in having at least one employee with full access prevails, even if “external eyes only” would better serve the protection of secrets.",
+  "_de": "b7f0f3ff35"
+ },
+ "case:upc_coa_curio_10x_262a": {
+  "name": "Curio/10x Genomics (continued effect of an order under R. 262A RoP)",
+  "kern": "An order under R. 262A RoP restricting access to information or evidence to certain persons that has not been challenged on appeal continues to apply, unless otherwise provided, after the conclusion of the proceedings and thus also during the appeal proceedings.",
+  "_de": "ffa2057b9b"
+ },
+ "case:upc_coa_eoflow_insulet_geheimnis": {
+  "name": "EOFlow/Insulet (loss of protection of secrets)",
+  "kern": "Trade secrets and other confidential information lose their character if they are disclosed to the other party without an order under R. 262A RoP or any other restriction (agreement, undertaking). An application under R. 262.2 RoP only protects against the public and does not automatically protect against disclosure by the other party.",
+  "_de": "44398dcdea"
+ },
+ "case:upc_cfi_fujifilm_kodak_vertraulichkeit": {
+  "name": "Fujifilm/Kodak (LD Düsseldorf: substantiating protection of secrets)",
+  "kern": "In an application to protect confidential information, the Court weighs the party's right to unrestricted access to the file (right to be heard) against the interest in confidentiality. The applicant must first set out with sufficient substantiation why the information deserves protection; general circumstances such as the competitive relationship are not sufficient.",
+  "_de": "fa61bba1f5"
+ },
+ "case:upc_coa_gowling_akteneinsicht": {
+  "name": "Gowling/Boehringer (third-party access to the file per instance)",
+  "kern": "Reasoned requests by third parties for access to written pleadings and evidence (R. 262.1(b) RoP) must be made to the division with which the documents were lodged; for documents of the appeal proceedings, to the Court of Appeal. The judge-rapporteur of the respective instance knows the file. The Court of Appeal obtains the first-instance file under R. 222.1 RoP without creating copies; re-filing first-instance documents on appeal is normally not required.",
+  "_de": "a5f0122f6d"
+ },
+ "case:upc_coa_kodak_fujifilm_zwangsgeld": {
+  "name": "Kodak/Fujifilm (system of penalty payments)",
+  "kern": "Under R. 354.3 RoP, an order may provide for a penalty payment; this may also be ordered separately later and build on an earlier order, without an appeal against the main decision being required. The Court sets the amount according to the importance of the order: dissuasive but proportionate; the order must specify on which event which amount becomes payable (lump sum or per period, item or act), possibly with a maximum amount that can be increased later.",
+  "_de": "27636ad274"
+ },
+ "case:upc_coa_eoflow_insulet_zwangsgeld_berufung": {
+  "name": "EOFlow/Insulet (appeal against an order imposing a penalty payment)",
+  "kern": "Orders imposing a penalty payment (Art. 82(4) UPCA, R. 354.4 RoP) are not orders under Art. 73(2)(a) UPCA or R. 220.1(c) RoP. An appeal is only admissible if the Court of First Instance grants leave or the Court of Appeal grants leave following a discretionary review under R. 220.4 RoP.",
+  "_de": "10122fb3cf"
+ },
+ "case:upc_coa_kodak_fujifilm_aufhebung_zwangsgeld": {
+  "name": "Kodak/Fujifilm (setting aside has retroactive effect, value of enforcement proceedings)",
+  "kern": "The setting aside of a first-instance injunction under Art. 75(1) UPCA, R. 242.1 RoP generally has retroactive effect; the order is deemed never to have been effective, so that penalty payments imposed for breaches before the setting aside also lose their basis. The value of the dispute is determined under R. 370.6 RoP by the interest of the party that initiated the proceedings; forfeited penalty payments are not a yardstick, as they are paid to the Court. Enforcement costs cannot be allocated on the basis of a decision deemed never to have been effective.",
+  "_de": "e7d13d927f"
+ },
+ "case:upc_coa_lepu_occlutech_vollstreckung": {
+  "name": "Lepu/Occlutech (penalty payment, platforms, geoblocking)",
+  "kern": "The addressee of an injunction must control third parties to whom it delegates tasks of implementation; if it uses a sales platform and supplies content, it must ensure that the platform's content does not breach the order. Geoblocking the purchase option is not sufficient if offering and placing on the market are prohibited as independent acts under Art. 25 UPCA. An accurate website disclaimer may suffice if no visitor can reasonably understand the content as an offer for the prohibited territories.",
+  "_de": "a82fae85c5"
+ },
+ "case:upc_coa_belkin_philips_berufungsfrist": {
+  "name": "Belkin/Philips (start of the time limit for appeal)",
+  "kern": "The time limit for lodging an appeal (R. 224 RoP) only begins to run when the Court of First Instance issues a decision with reasons (following Ballino/Kinexon, UPC_CoA_328/2024).",
+  "_de": "283b4c8f86"
+ },
+ "case:upc_coa_amycel_aufschiebend": {
+  "name": "Amycel (suspensive effect: complete application)",
+  "kern": "The principle that the parties must present their full case as early as possible (Preamble to the RoP, point 7) also applies to applications for suspensive effect under R. 223 RoP: the application must contain all grounds, facts, evidence and arguments. A later further application is inadmissible unless it is based on submissions that could not reasonably have been made in the first application.",
+  "_de": "e2c442e76c"
+ },
+ "case:upc_coa_hefei_grundfos_neues_vorbringen": {
+  "name": "Hefei/Grundfos (new submissions on appeal, claim interpretation)",
+  "kern": "Whether submissions made more specific at second instance are new depends on how general they were at first instance: making already conclusive submissions more specific is not new; deriving concrete technical information and suggestions for the first time from a document already filed is new (R. 222.2 RoP). Claim features are to be interpreted in the light of the claim as a whole; identical terms in principle have the same meaning, unless the description or the function of the features indicates a different understanding.",
+  "_de": "86c0df6c0b"
+ },
+ "case:upc_coa_bodycap_epa_r97": {
+  "name": "Bodycap/EPO (rejection of the request for unitary effect, no interlocutory revision)",
+  "kern": "An application to annul a decision of the EPO rejecting a request for unitary effect is governed solely by R. 97 RoP: time limit of three weeks, forwarding to the standing judge, decision within three weeks. It is an expedited action within the meaning of R. 85.2 RoP, so that interlocutory revision by the EPO under R. 91 RoP (R. 24 UPR) does not take place; R. 97 RoP is lex specialis. The time limit for remedying deficiencies under R. 7(3) UPR (one month, not extendable) is mandatory and not open to re-establishment of rights. Order of the standing judge of the Court of Appeal (Bodycap, CNRS and Université de Rennes v the EPO; language of the proceedings French).",
+  "_de": "b39bb10918"
+ },
+ "case:upc_coa_silimed_polytech_optout": {
+  "name": "Silimed/Polytech (removal of an unauthorised opt-out)",
+  "kern": "An application to remove an unauthorised opt-out under R. 5A RoP must show either that the person who applied for the opt-out was, at the time of the application, not the person registered as entitled in the national registers but the applicant for removal (R. 8.5(c) RoP), or, where the persons are identical, that under the relevant national law the registered person was not entitled to be registered as proprietor, but the applicant was (R. 8.5(a) RoP).",
+  "_de": "29a1ba4c90"
+ },
+ "case:upc_coa_netgear_huawei_r333": {
+  "name": "Netgear/Huawei (review of orders of the judge-rapporteur)",
+  "kern": "Case management decisions of the judge-rapporteur or the presiding judge cannot, unless otherwise provided, be appealed directly; the admissible remedy is an application for review by the panel under R. 333.1 RoP, whose admissibility the panel decides. The communication that the Preliminary objection will be dealt with in the main proceedings (R. 20.2 RoP) is such a case management decision. If the judge-rapporteur rejects the Preliminary objection and grants leave to appeal, the party may choose between lodging an appeal and applying for review under R. 333.1 RoP; if leave is not granted, review by the panel must first be requested.",
+  "_de": "cbdc549665"
+ },
+ "case:upc_coa_huawei_quinn_akteneinsicht_r333": {
+  "name": "Huawei/Quinn Emanuel (access to the file: review under R. 333 RoP)",
+  "kern": "Decisions of the judge-rapporteur on third-party access to the file under R. 262.1(b) RoP can be reviewed by the panel under R. 333 RoP; an appeal under R. 220.2 and 220.3 RoP lies against the panel's decision. The decision of the judge-rapporteur is neither a final decision (R. 220.1(a) RoP) nor a decision ending the proceedings only as regards one party (R. 220.1(b) RoP); the divergent view of the Munich Local Division has been superseded.",
+  "_de": "d31128c745"
+ },
+ "case:upc_coa_avago_tesla_ruecknahme": {
+  "name": "Avago/Tesla (withdrawal of the action in appeal proceedings)",
+  "kern": "An application to withdraw the action under R. 265 RoP can also be made in appeal proceedings; it is inadmissible only once the final decision has become final. The withdrawal is then decided by the Court of Appeal. Withdrawal of the Counterclaim for revocation renders the Applications to amend the patent devoid of purpose.",
+  "_de": "266079da08"
+ },
+ "case:upc_coa_supponor_aim_klageaenderung": {
+  "name": "Supponor/AIM Sport (amendment of the claim and adding a party)",
+  "kern": "Under R. 263 and R. 305 RoP, the Court of First Instance has discretion; the Court of Appeal only examines whether it has exceeded the limits of that discretion. The application under R. 263 RoP must itself explain why the amendment was not included in the original pleading; the exact wording may be set out in annexes, for instance an amended statement of claim with and without tracked changes. When adding a party (R. 305 RoP), relevant factors include the claimant's earlier knowledge, the involvement of the other parties, the effects on them and the stage of the proceedings.",
+  "_de": "607f55e2ef"
+ },
+ "case:upc_coa_sharkninja_seb_frist": {
+  "name": "SharkNinja/SEB (signature, retroactive extension of time limits, confidentiality)",
+  "kern": "The written pleading itself must be signed electronically (R. 4.1 RoP); the CMS upload confirmation is not sufficient. R. 9.3(a) RoP expressly permits the retroactive extension of a time limit, even on a request filed only after the time limit has expired. Market data obtained from third parties for a fee can be confidential information within the meaning of Art. 58 UPCA, R. 262A RoP.",
+  "_de": "1b6d96a0c2"
+ },
+ "case:upc_coa_belkin_philips_auskunft": {
+  "name": "Belkin/Philips (time limit for information, penalty payment despite late compliance)",
+  "kern": "The request for an order to communicate information under Art. 67(1) UPCA should include a time limit for providing the information, running from the notification under R. 118.8 RoP (in provisional measures proceedings, from service of the order); if the decision does not contain one, the claimant sets it with the notification of its intention to enforce. Because the penalty payment has not only a coercive but also a punitive character, it may also be imposed if the defendant has meanwhile provided the information, but late. The defendant must show and prove compliance. Art. 67(1)(b) UPCA also covers the purchase prices paid by the infringer; if no form is prescribed, the information may be provided in writing or electronically.",
+  "_de": "1ef841b192"
+ },
+ "case:upc_coa_philips_belkin_aufschiebend": {
+  "name": "Philips/Belkin (suspensive effect, managing director not an intermediary)",
+  "kern": "Under R. 223.2 RoP, the application for suspensive effect must be understandable on its own, so that the other party can respond and the Court of Appeal can decide; references to first-instance pleadings are only permissible with specifically identified passages. Suspensive effect comes into consideration if the contested decision is manifestly wrong because its essential findings or considerations do not stand up even on summary examination. A managing director represents the infringing company; the company is not a “third party” in relation to them within the meaning of Art. 63 UPCA and Art. 11 IPRED, so they are not liable as an intermediary merely because of their function. Security under R. 352.1 RoP must be ordered when the decision is issued.",
+  "_de": "173f5bbc2d"
+ },
+ "case:upc_coa_meril_edwards_obsiegende_partei": {
+  "name": "Meril/Edwards (successful party after a cease-and-desist declaration)",
+  "kern": "Who is the successful party within the meaning of Art. 69(1) UPCA after the defendant has given a cease-and-desist undertaking is determined by the requests and the content of the declaration. If the defendant undertakes, after the proceedings have been initiated, to comply with the claimant's requests, admissibility and merits at the time of the declaration are generally not to be examined; the declaration shows that the requests have been satisfied, and the claimant is generally the successful party.",
+  "_de": "d984b77029"
+ },
+ "case:upc_coa_meril_edwards_rechtsargument": {
+  "name": "Meril/Edwards (new legal arguments, stay pending EPO opposition)",
+  "kern": "R. 222.2 RoP covers only requests, facts and evidence, not legal submissions; a new legal argument based on the first-instance facts and evidence is admissible on appeal. Art. 33(10) UPCA is implemented in R. 295(a) RoP (before the case is ready for decision) and R. 295(g) RoP in conjunction with R. 118 RoP. For a stay, it suffices that the Opposition Division will decide rapidly, even if an appeal is likely to follow; a rapid final decision of the EPO is not required. The stay is meant to avoid conflicts between the infringement decision and revocation in the opposition.",
+  "_de": "04b9ce8ec8"
+ },
+ "case:upc_coa_icpillar_arm_neues_vorbringen": {
+  "name": "ICPillar/Arm (R. 222.2 RoP of the Court's own motion)",
+  "kern": "The Court of Appeal examines of its own motion how it exercises its discretion under R. 222.2 RoP; it may disregard late requests, facts and evidence even if the other party does not object. R. 172.1 RoP gives rise to a duty to produce available evidence; orders to produce evidence under R. 172.2 RoP are at the Court's discretion. A guarantee from a bank licensed in the USA is not adequate security under R. 158 RoP.",
+  "_de": "ee1c3edf39"
+ },
+ "case:upc_coa_hurom_nuc_auskunft": {
+  "name": "Hurom/NUC (information and suspensive effect)",
+  "kern": "Art. 67 UPCA mirrors Art. 8 IPRED, which is intended to ensure a high level of protection and precise information on origin, distribution channels and third parties involved. An order to communicate information is therefore one of the measures whose enforcement can only be suspended under R. 223 RoP in exceptional circumstances. The fact that providing the information before the appeal decision partly undermines the purpose of the appeal is not sufficient, as long as the appellant does not show that the appeal would become devoid of purpose without suspensive effect and that its interest in confidentiality outweighs the claimant's interest in immediate information.",
+  "_de": "52473efac0"
+ },
+ "case:upc_coa_bruker_10x_buecher": {
+  "name": "Bruker/10x Genomics (lay open the books, fees)",
+  "kern": "The request to lay open the books is part of the procedure for the determination of damages and compensation (R. 131.1(c), R. 141 to 144 RoP). The party making it owes the fixed fee and the value-based fee for the determination of damages.",
+  "_de": "bedced918e"
+ },
+ "case:upc_coa_hanshow_ses_kostenfrist": {
+  "name": "Hanshow/SES-imagotag (time limit for cost proceedings)",
+  "kern": "The one-month time limit for an application for a cost decision under R. 151 RoP begins with service of the decision on the merits, not of an order on provisional measures. If no main proceedings are initiated, for instance because the application for provisional measures was unsuccessful, and the applicant has been ordered to bear the costs, R. 150 and 151 RoP apply mutatis mutandis; the time limit then runs from service of the order on provisional measures. A missed time limit can only be remedied by re-establishment of rights (R. 320 RoP). Each party bears its own costs of the cost proceedings, with the exception of the court fee.",
+  "_de": "611733a2eb"
+ },
+ "case:upc_coa_hybridgenerator_infotech_zwangsgeld": {
+  "name": "Hybridgenerator/Infotech (penalty payment imposed by the panel)",
+  "kern": "An application to impose a penalty payment under R. 354.4 RoP is decided by the panel, not by a single judge.",
+  "_de": "145024ff61"
+ }
+}

@@ -534,3 +534,46 @@ Inanspruchnahme, beschränkt/unbeschränkt); viele Einigungsvorschläge betreffe
 Gesetz und PDF im Cache sind), dann Belege des Kommentars prüfen (`build.py` bricht bei verschwundenen Aktenzeichen ab), neue Leitsätze in
 `~/.cache/ipelico/arbnerfg/passagen.json` sichten und Randnummern ergänzen. Rauchtest: Routen `#/bpatg/arbnerfg`, `#/karte/eunorm:arbnerfg:42`
 (Kommentar mit dpma.de-Links), `#/karte/source:vrl:37`.
+
+## 17. Englische App für das EPG (docs/en/, Oktober 2026)
+
+IPelico gibt es für das Gebiet „Einheitliches Patentgericht“ zusätzlich auf Englisch unter `docs/en/` (Kurse u01 bis u10, Lernkarten,
+Suche, EPG-Rechtsprechung). Die übrigen Gebiete bleiben deutsch. Die englische App ist kein zweites Template, sondern wird aus
+`src/templates/kurs.html` und dem deutschen EPG-Paket erzeugt (`build_kurs.build_en`); Inhalte bleiben in `src/knowledge/`.
+
+**Oberfläche.** `src/knowledge/upc/en/ui.py`: `STRUKTUR` (nur Gebiet EPG, Icons und Service Worker aus `../`, kein Lernnavigator, keine
+BPatG-/Design-Korpora, EPG-Korpus aus `../upc_entscheidungen.json` mit englischen Kammern) und `TEXTE` (deutscher Oberflächentext ->
+englischer), `LAWJS` (Gesetzeslinks auf die englischen Fassungen bei EUR-Lex, epo.org, VerfO-PDF 2022). Jedes Paar muss im Template
+treffen, sonst bricht der Build ab: Wer Oberflächentext in `kurs.html` ändert, zieht das Paar nach. Neuer deutscher Text, für den es
+noch kein Paar gibt, erscheint als Build-Hinweis „sehen noch deutsch aus“ (Zeilen in unerreichbaren Ansichten stehen in `ui.TOT`), und
+der Rauchtest prüft den sichtbaren Text jeder englischen Ansicht auf deutsche Wörter. Fortschritt und Streak sind mit der deutschen App
+geteilt (Cookie-Pfad der Website-Wurzel, gleiche Einheiten-IDs); `sw.js` formuliert die Erinnerung in der Sprache der zuletzt genutzten
+App (`lang` im Tagesstand) und öffnet sie.
+
+**Inhalte.** Übersetzt wird nur Text, die Struktur (IDs, Antworten, Verweise, Normreferenzen) kommt immer aus dem deutschen Paket.
+`src/knowledge/upc/en/*.json`: je Kurs eine Datei (`kurs:`, `kapitel:`, `einheit:`, `gruppe:`) und fünf Knotendateien (Begriffe mit
+Kategorien, Entscheidungen, Schemata/Prüfungspunkte, Tabellen, Hinweise an Normen und Quellen). Jeder Eintrag trägt `_de`, den Hash der
+deutschen Felder. `knowledge.upc.en.bauen` bricht ab, wenn ein Eintrag oder Feld fehlt oder Listen (Optionen, Tabellen) nicht passen,
+und meldet „veraltet“, wenn sich der deutsche Text seit der Übersetzung geändert hat. Normreferenzen der Einheiten werden umgeschrieben
+(`ref_en`: `Art. 33 Abs. 1 lit. a EPGÜ` -> `Art. 33(1)(a) UPCA`), Gerichte (`court_en`: EPG-BerG -> UPC CoA, LK -> LD, ZK -> CD) und
+Kammern des Korpus (`kammer_en`) ebenfalls. Der englische Graph enthält das EPG-Paket, die Durchsetzungsrichtlinie und alles, worauf die
+EPG-Einheiten verweisen; Kanten zu anderen Paketen fallen weg.
+
+**Normtexte.** Amtlich englisch, nicht übersetzt: EPGÜ und die Einheitspatent-Rechtsakte aus `absaetze_en` der Datendateien; VerfO aus
+`data/upc_rop.json` (`absaetze_en`, `praeambel_en`, englische Gliederung; `tools/fetch_upc.py` aus dem englischen PDF vom 25.7.2022,
+die konsolidierte englische Fassung ist hinter Bot-Schutz). Regeln, deren Absatzzahl von der konsolidierten deutschen Fassung abweicht
+(R. 15, 198, 213, 234), tragen `hinweis_en` und zeigen ihn auf der Karte. Durchsetzungsrichtlinie: `data/durchsetzungsrl_en.json` aus
+`tools/fetch_durchsetzungsrl_en.py` (Cellar, berichtigte Fassung, zweispaltiges PDF spaltenweise geschnitten; Absatzzahl je Artikel wird
+gegen `durchsetzungsrl.py` geprüft).
+
+**Zitierform im englischen Text** (wird verlinkt und von `check_zitate.py --paket en` geprüft): `Art. 33(1)(a) UPCA`, `R. 19.1 RoP`,
+`Art. 3(1) UPReg` (VO 1257/2012), `Art. 6 TranslReg` (VO 1260/2012), `R. 6(1) UPR`, `Art. 2 RFeesUPP`, `Art. 8(3)(e) IPRED`, `Art. 69 EPC`,
+`Art. 71b Brussels Ia Regulation`, `Art. 47 CFR`, `Art. 20 UPC Statute`; deutsche Gesetze mit § und Klammer (`§ 139(2) PatG`). Ketten
+schreiben jede Nummer aus (`Art. 62(2) and 62(4) UPCA`, `R. 13.1(k) to 13.1(n) RoP`); „ff.“ statt „et seq.“. Aliase in `gesetze.ALIASES`
+und `EU_NORM_KEYS`, „to“/„and“/„or“ in den Zitatketten.
+
+**Pflegen.** Nach jeder Änderung an EPG-Inhalten: `python3 tools/i18n_en.py status` (fehlend/veraltet je Datei). Neue oder geänderte
+Einträge: `python3 tools/i18n_en.py export DIR --nur-offen` schreibt die deutschen Quelltexte mit `_de`; übersetzen, in die Datei unter
+`src/knowledge/upc/en/` übernehmen, `python3 tools/i18n_en.py check src/knowledge/upc/en/<datei>.json` (Form, Zitate, deutsche Zitierformen).
+Nur den Hash nachziehen, wenn die deutsche Änderung die englische Fassung nicht berührt (Tippfehler): `tools/i18n_en.py stamp <datei>:<schlüssel>`.
+Rauchtest: der Abschnitt „Englische App“ in `tools/smoke_test.py` (Ansichten, deutsche Wörter, Chips, geteilter Fortschritt, Korpus).

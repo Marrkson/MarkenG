@@ -1,0 +1,483 @@
+{
+ "distinction:d_upc_einheitspatent_buendelpatent": {
+  "label": "Unitary Patent vs. classic European patent (bundle patent)",
+  "frage": "How do the European patent with unitary effect and the classic, nationally validated European patent differ after grant?",
+  "kriterien": [
+   "Legal basis after grant",
+   "Coming into being",
+   "Territorial scope",
+   "Translations",
+   "Renewal fees",
+   "Transactions and register",
+   "Substantive law",
+   "Court",
+   "Lapse and revocation"
+  ],
+  "spalten": [
+   "Unitary Patent",
+   "Classic European patent"
+  ],
+  "rows": [
+   [
+    "Regulations (EU) No 1257/2012 and 1260/2012, UPR, RFeesUPP; practice in the UP Guidelines",
+    "Art. 64 ff. EPC and the national law of the designated states (in Germany IntPatÜG, PatG)"
+   ],
+   [
+    "Request for unitary effect to the EPO within one month of the mention of grant, registration in the Register (R. 6, 7 UPR); effect retroactive to the mention of grant (Art. 4 UPReg)",
+    "Validation state by state: translation, fees and representative under national law (Art. 65 EPC, London Agreement)"
+   ],
+   [
+    "Unitary in the participating Member States in which the UPCA was in force at registration (17, or 18 states since 1 September 2024); the generation remains fixed (Art. 18(2) UPReg)",
+    "Bundle of national rights in all designated EPC states (up to 39 plus extension and validation states), freely selectable"
+   ],
+   [
+    "Transitional period: one full translation for information purposes (Art. 6 TranslReg); none thereafter; in a dispute, translation at the proprietor's expense (Art. 4 TranslReg); compensation of EUR 500 for SMEs and others",
+    "Translation of the specification or claims depending on the state and the London Agreement; no compensation"
+   ],
+   [
+    "A single fee to the EPO under Art. 2 RFeesUPP (2nd to 20th year EUR 35 to EUR 4,855, total EUR 35,555); six-month grace period with a 50 % surcharge (R. 13 UPR); 15 % reduction for licences of right",
+    "National renewal fees per state in national currency with their own time limits and representatives (Art. 141 EPC; § 17 PatG, § 7 PatKostG)"
+   ],
+   [
+    "Transfer only for all states, licence also for parts of the territory (Art. 3(2) UPReg); central registration in the Register for unitary patent protection (R. 15, 16 UPR); law applicable to the patent as an object of property under Art. 7 UPReg",
+    "Each national part can be transferred separately and is entered in the national register (§ 30 PatG)"
+   ],
+   [
+    "Art. 25 to 30 UPCA via the reference in Art. 5(3) UPReg, uniformly for all states",
+    "National law (§§ 9 ff. PatG) or, without an opt-out, Art. 25 to 30 UPCA before the UPC"
+   ],
+   [
+    "Exclusively the UPC, no opt-out (Art. 3(a), Art. 32 UPCA); actions against EPO decisions also go to the UPC (Art. 32(1)(i) UPCA)",
+    "Transitional period until 31 May 2030 (extendable): choice between the UPC and national courts; opt-out possible (Art. 83 UPCA)"
+   ],
+   [
+    "Only for all states at once: lapse for non-payment (R. 14 UPR), revocation by the UPC with effect for all states (Art. 34, 65 UPCA); opposition at the EPO still possible",
+    "Per state: national revocation action (§ 81 PatG) or UPC revocation action for all Contracting Member States; lapse per state"
+   ]
+  ],
+  "merksatz": "One request, one register, one fee, one court – the Unitary Patent replaces the bundle with a single right, but only in the states of its generation.",
+  "_de": "39b458762d"
+ },
+ "distinction:d_upc_lokalkammer_zentralkammer": {
+  "label": "Local/regional division vs. central division",
+  "frage": "Which actions belong before the local or regional division, and which before the central division?",
+  "kriterien": [
+   "Actions within competence",
+   "Connecting factor",
+   "Composition",
+   "Language",
+   "Seat/section",
+   "Relationship between them"
+  ],
+  "spalten": [
+   "Local/regional division",
+   "Central division"
+  ],
+  "rows": [
+   [
+    "Infringement action, provisional measures, damages, prior use, compensation for licences (Art. 32(1)(a), 32(1)(c), 32(1)(f), 32(1)(g) and 32(1)(h) UPCA); Counterclaim for revocation",
+    "Revocation action, declaration of non-infringement (Art. 32(1)(b), 32(1)(d) UPCA); optionally infringement actions against defendants from non-member states; actions against EPO decisions"
+   ],
+   [
+    "Place of infringement or defendant's residence (Art. 33(1) UPCA)",
+    "IPC class of the patent (Annex II UPCA, R. 17.3 RoP)"
+   ],
+   [
+    "Three legally qualified judges; a technically qualified judge on request or in the case of a counterclaim (Art. 8(2) to 8(5) UPCA)",
+    "Two legally qualified judges and one technically qualified judge (Art. 8(6) UPCA)"
+   ],
+   [
+    "Official language of the host state or an admitted EPO language; language of the patent on request (Art. 49(1) to 49(5) UPCA)",
+    "Language of the patent (Art. 49(6) UPCA)"
+   ],
+   [
+    "Up to four local divisions per state (DE: Düsseldorf, Hamburg, Mannheim, Munich); Nordic-Baltic regional division",
+    "Paris seat; Munich and Milan sections (instead of London)"
+   ],
+   [
+    "A pending infringement action draws in the revocation action (Art. 33(4) UPCA); options in the case of a counterclaim (Art. 33(3) UPCA)",
+    "An action for a declaration of non-infringement is stayed if an infringement action is brought within three months (Art. 33(6) UPCA)"
+   ]
+  ],
+  "merksatz": "Attack on the product to the local division, attack on the patent to the central division – unless the local division is already seised.",
+  "_de": "dd004599eb"
+ },
+ "distinction:d_upc_hauptsache_einstweilig": {
+  "label": "Infringement action vs. application for provisional measures",
+  "frage": "How do main proceedings and summary proceedings before the UPC differ?",
+  "kriterien": [
+   "Legal basis",
+   "Standard of proof",
+   "Validity",
+   "Urgency",
+   "Hearing",
+   "Duration and course",
+   "Appeal",
+   "Consequences of setting aside"
+  ],
+  "spalten": [
+   "Infringement action",
+   "Provisional measures"
+  ],
+  "rows": [
+   [
+    "Art. 32(1)(a), Art. 63 ff. UPCA; R. 12 to 118 RoP",
+    "Art. 32(1)(c), Art. 62 UPCA; R. 205 to 213 RoP"
+   ],
+   [
+    "Full conviction of the Court after taking of evidence; burden of proof on the party relying on the fact (Art. 54 UPCA)",
+    "Sufficient degree of certainty = more likely than not (R. 211.2 RoP; NanoString/10x)"
+   ],
+   [
+    "Only by way of Counterclaim for revocation (R. 25 RoP); options under Art. 33(3) UPCA",
+    "Defence without a separate action; burden of proof on the respondent; can be waived at any time (Merz/Viatris)"
+   ],
+   [
+    "None",
+    "Unreasonable delay is detrimental (R. 211.4 RoP); it must not be possible to await the main proceedings (Biolitec)"
+   ],
+   [
+    "Always a written procedure with a defence (three months)",
+    "Rule: hearing; exceptionally ex parte (R. 212 RoP) with a duty of disclosure (R. 206.4 RoP)"
+   ],
+   [
+    "Aim: oral hearing within one year; interim procedure",
+    "A few weeks to months; decision by the panel or a single judge"
+   ],
+   [
+    "Two months, final decision (R. 220.1(a) RoP)",
+    "15 days, order under Art. 62 UPCA (R. 220.1(c) RoP)"
+   ],
+   [
+    "Setting aside has retroactive effect; penalty payments lapse (Kodak/Fujifilm)",
+    "No-fault liability for damages (Art. 62(5) UPCA, R. 213.2 RoP); security (R. 211.5 RoP)"
+   ]
+  ],
+  "merksatz": "Summary proceedings = probability instead of certainty, speed instead of completeness, security instead of res judicata.",
+  "_de": "5abc72601e"
+ },
+ "distinction:d_upc_r262_r262a": {
+  "label": "Third-party access to the file (R. 262 RoP) vs. protection of confidential information (R. 262A RoP)",
+  "frage": "When does R. 262 RoP apply, and when R. 262A RoP?",
+  "kriterien": [
+   "Direction of protection",
+   "Applicant",
+   "Timing",
+   "Standard of review",
+   "Effect on the other party",
+   "Remedy"
+  ],
+  "spalten": [
+   "R. 262 RoP (public access to the register)",
+   "R. 262A RoP (confidentiality within the proceedings)"
+  ],
+  "rows": [
+   [
+    "Public access to decisions (automatic) and to written pleadings/evidence (on reasoned request, R. 262.1(b) RoP)",
+    "Restriction of access by the other party and its representatives to a specific circle of persons"
+   ],
+   [
+    "Third party (represented under Art. 48 UPCA) or a party for a confidentiality request (R. 262.2 RoP)",
+    "The party lodging the document"
+   ],
+   [
+    "At any time; decision by the judge-rapporteur after hearing the parties",
+    "When lodging the document (R. 262A.3 RoP)"
+   ],
+   [
+    "Reasoned interest of the third party (including a law firm's abstract interest in training, Huawei/MediaTek); confidentiality interests",
+    "Applicant's interest significantly outweighs (R. 262A.5 RoP); right to a fair trial; at least one natural person per party (Ericsson/ASUS)"
+   ],
+   [
+    "None: an application under R. 262.2 RoP does not protect against disclosure by the other party; the secret is lost (EOFlow/Insulet)",
+    "Yes: restriction of access, continues to apply beyond the instance (Curio/10x)"
+   ],
+   [
+    "Review under R. 333 RoP, then appeal under R. 220.2, 220.3 RoP (UPC CoA 2026)",
+    "Appeal under R. 220.2, 220.3 RoP"
+   ]
+  ],
+  "merksatz": "R. 262 RoP governs what the world sees; R. 262A RoP governs what the opponent sees.",
+  "_de": "f55c0a3758"
+ },
+ "distinction:d_upc_einspruch_klageerwiderung": {
+  "label": "Preliminary objection (R. 19 RoP) vs. Statement of defence (R. 23 RoP)",
+  "frage": "What belongs in the Preliminary objection, and what in the Statement of defence?",
+  "kriterien": [
+   "Time limit",
+   "Admissible content",
+   "Consequence of failure",
+   "Decision",
+   "Remedy",
+   "Effect on the main time limit"
+  ],
+  "spalten": [
+   "Preliminary objection (R. 19 RoP)",
+   "Statement of defence (R. 23 to 25 RoP)"
+  ],
+  "rows": [
+   [
+    "One month from service of the Statement of claim (R. 19.1 RoP)",
+    "Three months from service (R. 23 RoP)"
+   ],
+   [
+    "Only: jurisdiction of the Court (including opt-out), competence of the division, language of the Statement of claim; exhaustive (Roku/Dolby)",
+    "All defences on the merits: non-infringement, limitations, exhaustion, FRAND; invalidity only by way of counterclaim (R. 25 RoP)"
+   ],
+   [
+    "Acceptance of jurisdiction (R. 19.7 RoP); objection excluded on appeal (Sinocare/Abbott)",
+    "Decision by default (R. 355 RoP) at the claimant's request"
+   ],
+   [
+    "Judge-rapporteur, where appropriate referral to the main proceedings (R. 20 RoP); referral to the competent division (R. 19.5 RoP)",
+    "Panel in the final decision"
+   ],
+   [
+    "Appeal under R. 21 RoP (if rejected, only with leave under R. 220.2 RoP); stay only once an appeal has been lodged (Sun Patent/Vivo)",
+    "Appeal against the final decision (R. 220.1(a) RoP)"
+   ],
+   [
+    "Does not affect the time limit for the Statement of defence (R. 19.6 RoP), unless the judge-rapporteur decides otherwise",
+    "Extension only in exceptional cases (R. 9.3 RoP), for instance where annexes are missing (Sanofi/Amgen)"
+   ]
+  ],
+  "merksatz": "The Preliminary objection asks “may this court hear the case?”, the Statement of defence asks “is the claimant right?”.",
+  "_de": "26f250da49"
+ },
+ "distinction:d_upc_berufung_entscheidung_anordnung": {
+  "label": "Appeal against final decisions vs. against orders",
+  "frage": "Which decisions of the Court of First Instance can be challenged, and how?",
+  "kriterien": [
+   "Subject matter",
+   "Leave",
+   "Time limit",
+   "Suspensive effect",
+   "Examples"
+  ],
+  "spalten": [
+   "Final decision (R. 220.1(a) and 220.1(b) RoP)",
+   "Order under Art. 73(2)(a) UPCA (R. 220.1(c) RoP)",
+   "Other order (R. 220.2 to 220.4 RoP)"
+  ],
+  "rows": [
+   [
+    "Decision on the merits (including the decision on the principle of costs), decision ending the proceedings, decision by default",
+    "Orders under Art. 49(5), 59, 60, 61, 62, 67 UPCA",
+    "Case management orders, value of the dispute, order imposing a penalty payment (EOFlow/Insulet), decisions under R. 333 RoP"
+   ],
+   [
+    "None",
+    "None",
+    "Leave by the Court of First Instance or discretionary review by the standing judge (R. 220.3, 220.4 RoP)"
+   ],
+   [
+    "Two months from service of the reasoned decision (R. 224.1(a) RoP)",
+    "15 days (R. 224.1(b) RoP)",
+    "15 days from leave, or application for review within 15 days"
+   ],
+   [
+    "No, except revocation decisions (Art. 74(2) UPCA); application under R. 223 RoP",
+    "No; application under R. 223 RoP",
+    "No (R. 223.5 RoP)"
+   ],
+   [
+    "Judgment on infringement and counterclaim",
+    "Provisional measure, order to preserve evidence, change of language",
+    "Extension of a time limit, confidentiality order, access to the file"
+   ]
+  ],
+  "merksatz": "Final decisions and urgent orders can be appealed freely; everything else needs leave.",
+  "_de": "9d0287d4b9"
+ },
+ "distinction:d_upc_beweissicherung_beweisvorlage": {
+  "label": "Order to preserve evidence (Art. 60 UPCA) vs. order to produce evidence (Art. 59 UPCA)",
+  "frage": "When an order to preserve evidence/inspection, and when an order to produce evidence?",
+  "kriterien": [
+   "Purpose",
+   "Timing",
+   "Standard",
+   "Procedure",
+   "Addressee",
+   "Protection of the other party"
+  ],
+  "spalten": [
+   "Order to preserve evidence and inspection (Art. 60 UPCA, R. 192 ff. RoP)",
+   "Order to produce evidence (Art. 59 UPCA, R. 190 RoP)"
+  ],
+  "rows": [
+   [
+    "Preservation of evidence at risk, inspection of premises, taking of samples (“saisie”)",
+    "Production of specified evidence in the control of the other party or third parties"
+   ],
+   [
+    "Before or during the main proceedings; often ex parte",
+    "In pending proceedings, typically in the interim procedure"
+   ],
+   [
+    "Reasonably available evidence, plausibility of infringement; no fishing expedition (Centripetal/Palo Alto)",
+    "Substantiated, relevant and disputed facts; no exploration of unknown facts (LD Düsseldorf Ecovacs/Roborock)"
+   ],
+   [
+    "Carried out by a court-appointed expert (R. 196.4, 196.5 RoP); restriction on use (R. 196.2 RoP)",
+    "Order with conditions, protection of confidentiality (R. 262A RoP)"
+   ],
+   [
+    "Alleged infringer, where appropriate third parties",
+    "Other party or third party"
+   ],
+   [
+    "Security (Art. 60(7) UPCA), damages if set aside (Art. 60(9) UPCA), review (R. 197.3 RoP), time limit for starting main proceedings (Art. 60(8) UPCA, R. 198.1 RoP)",
+    "Right to be heard before the order; confidentiality (Art. 58 UPCA)"
+   ]
+  ],
+  "merksatz": "Art. 60 UPCA secures evidence before it disappears; Art. 59 UPCA obtains evidence the opponent holds.",
+  "_de": "91a0d553d9"
+ },
+ "distinction:d_upc_epg_deutsches_verfahren": {
+  "label": "Infringement proceedings before the UPC vs. before German courts",
+  "frage": "What is different before the UPC compared with German patent infringement proceedings?",
+  "kriterien": [
+   "Validity",
+   "Territorial effect",
+   "Duration and structure of proceedings",
+   "Composition",
+   "Language",
+   "Costs",
+   "Enforcement",
+   "Remedies"
+  ],
+  "spalten": [
+   "UPC",
+   "Germany (LG/OLG, BPatG)"
+  ],
+  "rows": [
+   [
+    "Counterclaim for revocation possible before the same division (Art. 33(3)(a) UPCA); bifurcation only as an option",
+    "Bifurcation principle: revocation action only before the BPatG (§ 81 PatG); the infringement court may at most stay the proceedings (§ 148 ZPO)"
+   ],
+   [
+    "All Contracting Member States for which the patent has effect (Art. 34 UPCA)",
+    "Only the German part of the European patent"
+   ],
+   [
+    "Front-loaded, fixed time limits, oral hearing within about one year; three stages of proceedings",
+    "Statement of claim, defence, reply, rejoinder within time limits set by the court; hearing usually after 12 to 15 months"
+   ],
+   [
+    "Multinational panel, technically qualified judge from the pool",
+    "Three professional judges without technical training; court experts"
+   ],
+   [
+    "Optional: German or English before German local divisions; language of the patent on request",
+    "German (§ 184 GVG)"
+   ],
+   [
+    "Fixed fee plus value-based fee, reimbursement up to the ceiling (Art. 69 UPCA)",
+    "GKG fees based on the value of the dispute, reimbursement at RVG rates (§ 91 ZPO)"
+   ],
+   [
+    "Immediately enforceable, penalty payment imposed by the Court itself (R. 354 RoP)",
+    "Provisional enforceability against security (§ 709 ZPO), coercive measures under § 890 ZPO"
+   ],
+   [
+    "Appeal to the Court of Appeal in Luxembourg, no third instance; referral to the CJEU",
+    "Appeal to the OLG, complaint against denial of leave to appeal on points of law/appeal on points of law to the BGH"
+   ]
+  ],
+  "merksatz": "The UPC combines infringement and validity in one set of proceedings with effect for the entire territory of the Contracting Member States – that is the systemic break with Germany.",
+  "_de": "6de6ec2cf6"
+ },
+ "distinction:d_upc_entsprechung_durchsetzungsrl": {
+  "label": "Enforcement Directive: implementation in the UPCA, the RoP and German law",
+  "frage": "Which provision of the UPCA and the RoP corresponds to which article of Enforcement Directive 2004/48/EC, and where is the German implementation?",
+  "kriterien": [
+   "Art. 3 IPRED – General obligation (fair, proportionate, dissuasive)",
+   "Art. 4 IPRED – Persons entitled to apply (proprietor, licensees)",
+   "Art. 6 IPRED – Evidence / production of evidence",
+   "Art. 7 IPRED – Measures for preserving evidence",
+   "Art. 8 IPRED – Right of information",
+   "Art. 9 IPRED – Provisional and precautionary measures",
+   "Art. 10 IPRED – Corrective measures (recall, removal, destruction)",
+   "Art. 11 IPRED – Injunctions (cease and desist, intermediaries)",
+   "Art. 13 IPRED – Damages",
+   "Art. 14 IPRED – Legal costs",
+   "Art. 15 IPRED – Publication of judicial decisions"
+  ],
+  "spalten": [
+   "UPCA",
+   "RoP",
+   "MarkenG",
+   "PatG"
+  ],
+  "rows": [
+   [
+    "Art. 42 UPCA (proportionality and fairness); Preamble to the RoP, points 2 to 5",
+    "R. 1 RoP",
+    "§ 18(3), § 19(4), § 19a(2) MarkenG (proportionality) and general principles",
+    "§ 140a(4) PatG, § 140b(4) PatG, the third sentence of § 139(1) PatG"
+   ],
+   [
+    "Art. 47 UPCA (parties: proprietor, exclusive licensee, non-exclusive licensee if expressly permitted)",
+    "R. 13.1(f) RoP",
+    "§ 30(3) MarkenG",
+    "§ 15(2) PatG, § 139 PatG"
+   ],
+   [
+    "Art. 59 UPCA (order to produce evidence), Art. 58 UPCA (confidentiality)",
+    "R. 190 RoP, R. 262A RoP",
+    "§ 19a MarkenG",
+    "§ 140c PatG"
+   ],
+   [
+    "Art. 60 UPCA (order to preserve evidence, inspection)",
+    "R. 192 to 199 RoP",
+    "§ 19a MarkenG in conjunction with §§ 485 ff. ZPO",
+    "§ 140c PatG in conjunction with §§ 485 ff. ZPO"
+   ],
+   [
+    "Art. 67 UPCA (order to communicate information)",
+    "R. 191 RoP",
+    "§ 19 MarkenG",
+    "§ 140b PatG"
+   ],
+   [
+    "Art. 62 UPCA (provisional measures), Art. 61 UPCA (freezing orders, blocking of bank accounts)",
+    "R. 205 to 213 RoP",
+    "§§ 935 ff. ZPO, § 19(7) MarkenG, § 19b MarkenG (securing claims for damages, Art. 9(2) IPRED)",
+    "§§ 935 ff. ZPO, § 140b(7) PatG, § 140d PatG (Art. 9(2) IPRED)"
+   ],
+   [
+    "Art. 64 UPCA (corrective measures)",
+    "R. 118 RoP",
+    "§ 18 MarkenG",
+    "§ 140a PatG"
+   ],
+   [
+    "Art. 63 UPCA (injunction, penalty payment)",
+    "R. 118, R. 354 RoP",
+    "§ 14(5) MarkenG, § 890 ZPO",
+    "§ 139(1) PatG, § 890 ZPO"
+   ],
+   [
+    "Art. 68 UPCA (damages, three methods of calculation)",
+    "R. 118.1, R. 125 to 131 RoP",
+    "§ 14(6) MarkenG",
+    "§ 139(2) PatG"
+   ],
+   [
+    "Art. 69 UPCA (costs, ceilings, security for costs)",
+    "R. 150 to 158, R. 370 RoP",
+    "§§ 91 ff. ZPO, § 142 MarkenG (reduction of the value of the dispute)",
+    "§§ 91 ff. ZPO, § 144 PatG"
+   ],
+   [
+    "Art. 80 UPCA (publication of decisions)",
+    "R. 118.1 RoP",
+    "§ 19c MarkenG",
+    "§ 140e PatG"
+   ]
+  ],
+  "merksatz": "The Enforcement Directive is the common denominator: what §§ 18 to 19c MarkenG and §§ 140a to 140e PatG govern is found for the UPC in Art. 56 to 69 and 80 UPCA.",
+  "_de": "0ca762d2a4"
+ }
+}

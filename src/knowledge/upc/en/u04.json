@@ -1,0 +1,505 @@
+{
+ "kurs:u04": {
+  "titel": "Infringement and claim interpretation before the UPC",
+  "untertitel": "Art. 69 EPC, Art. 25 to 29 and 63 UPCA in the case law of the Court of Appeal",
+  "beschreibung": "The merits of the infringement action, feature by feature: how the Court of Appeal interprets the patent claim (NanoString/10x, Meril/Edwards, Hefei/Grundfos, Dyson/Dreame, Amgen/Regeneron), what “offering” and indirect infringement mean (Belkin/Philips, Lepu/Occlutech, Onward/Niche) and which defences remain: prior use, exhaustion, liability of managing directors, FRAND (Dolby/Beko).",
+  "_de": "e37d00ec9d"
+ },
+ "kapitel:u04a": {
+  "titel": "Art. 69 EPC, Art. 24 UPCA: interpretation of the patent claim",
+  "_de": "c5785a325c"
+ },
+ "einheit:u04a-0": {
+  "titel": "Examination scheme: infringement action before the UPC",
+  "text": "The merits always begin with the scope of protection. The UPCA contains no interpretation rule of its own; what counts is Art. 69 EPC and the Protocol on its interpretation, which the Court of Appeal has applied in a fixed formula since NanoString/10x. Only then follow the act of use (Art. 25 and 26 UPCA), territory and consent, defences (Art. 27 to 29 UPCA) and validity.",
+  "abschnitt": "Overview",
+  "_de": "a76f64e45b"
+ },
+ "gruppe:u04a-1": {
+  "titel": "Description only in case of ambiguity?",
+  "sachverhalt": "10x Genomics has obtained a provisional measures order against NanoString from the Munich Local Division. NanoString argues that the wording of the claim is unambiguous. The Court may therefore not have recourse to the description and drawings.",
+  "_de": "b0332b4803"
+ },
+ "einheit:u04a-1a": {
+  "titel": "Claim as the basis",
+  "frage": "Is the patent claim merely the starting point of interpretation?",
+  "loesung": [
+   "**No!** Under Art. 69 EPC and the Protocol on its interpretation, the claim is not merely the starting point but the **decisive basis** for the scope of protection (NanoString/10x)."
+  ],
+  "abschnitt": "Art. 69 EPC: claim, description, drawings",
+  "_de": "f916db626b"
+ },
+ "einheit:u04a-1b": {
+  "titel": "Description always",
+  "frage": "Must the Court always consult the description and drawings?",
+  "loesung": [
+   "**Yes!** The description and drawings must **always** be used as explanatory aids, not only where the wording is unclear (NanoString/10x)."
+  ],
+  "merke": "Claim = basis; description and drawings = always explanatory aids.",
+  "abschnitt": "Art. 69 EPC: claim, description, drawings",
+  "_de": "e5e6cb01a6"
+ },
+ "einheit:u04a-1c": {
+  "titel": "Skilled person",
+  "frage": "From whose perspective is the claim interpreted?",
+  "optionen": [
+   "From the perspective of the patent proprietor",
+   "From the perspective of the skilled person",
+   "From the perspective of the court as a layperson",
+   "From the perspective of the EPO examiner"
+  ],
+  "loesung": [
+   "The second answer is correct. What counts is the understanding of the **skilled person** (NanoString/10x)."
+  ],
+  "abschnitt": "Art. 69 EPC: claim, description, drawings",
+  "_de": "55c5ca8729"
+ },
+ "einheit:u04a-1d": {
+  "titel": "Protection and legal certainty",
+  "frage": "Which two aims must interpretation combine?",
+  "optionen": [
+   "Speed and cost savings",
+   "Fidelity to the wording and primacy of the drawings",
+   "Fair protection for the proprietor and legal certainty for third parties",
+   "Broad interpretation and primacy of the grant procedure"
+  ],
+  "loesung": [
+   "The third answer is correct. Interpretation combines **fair protection** for the patent proprietor with **a reasonable degree of legal certainty** for third parties (NanoString/10x)."
+  ],
+  "abschnitt": "Art. 69 EPC: claim, description, drawings",
+  "_de": "40c822e392"
+ },
+ "einheit:u04a-1e": {
+  "titel": "Same interpretation for both questions",
+  "frage": "May the Court interpret the patent more broadly for infringement than for validity?",
+  "loesung": [
+   "**No!** The **same principles** apply to infringement and validity, so that the patent is not read broadly in infringement proceedings and narrowly in revocation proceedings."
+  ],
+  "abschnitt": "Art. 69 EPC: claim, description, drawings",
+  "_de": "016f4bbd07"
+ },
+ "gruppe:u04a-2": {
+  "titel": "The embodiment that is not supposed to fit",
+  "sachverhalt": "Edwards sues Meril on a patent for a prosthetic heart valve. Meril argues that a feature of the main claim must be read so narrowly that the embodiment described in the patent specification does not fall under it. Meril's prosthesis corresponds to this embodiment.",
+  "_de": "71fe2af9ed"
+ },
+ "einheit:u04a-2a": {
+  "titel": "Rule: the embodiment is covered",
+  "frage": "Is an embodiment described in the patent specification, as a rule, covered by the claim?",
+  "loesung": [
+   "**Yes!** A described embodiment is **as a rule covered by the claim** (Meril/Edwards). The skilled person understands a feature in such a way that the embodiment described as being in accordance with the invention falls under it (Art. 69 EPC)."
+  ],
+  "abschnitt": "Art. 69 EPC: embodiments",
+  "_de": "3992c849d8"
+ },
+ "einheit:u04a-2b": {
+  "titel": "No interpretation against the embodiment",
+  "frage": "Can Meril defend itself with an interpretation that deprives the patent of its own embodiment?",
+  "loesung": [
+   "**No!** An interpretation that excludes the embodiment only comes into consideration if the patent **unambiguously** teaches the opposite. There is nothing to indicate this here (Meril/Edwards)."
+  ],
+  "merke": "The embodiment falls under the claim unless the patent unambiguously says otherwise.",
+  "abschnitt": "Art. 69 EPC: embodiments",
+  "_de": "61659c1ad7"
+ },
+ "einheit:u04a-2c": {
+  "titel": "Exception: grant procedure",
+  "frage": "Can the embodiment then be excluded from the claim?",
+  "loesung": [
+   "**Yes!** This is the exceptional case: if the embodiment was **recognisably removed from the claim** in the grant procedure, the patent unambiguously teaches that it is not covered (Meril/Edwards)."
+  ],
+  "abwandlung": "In the grant procedure, the applicant recognisably removed the embodiment from the claim.",
+  "abschnitt": "Art. 69 EPC: embodiments",
+  "_de": "5712e825b3"
+ },
+ "gruppe:u04a-3": {
+  "titel": "Interpretation rules of the Court of Appeal",
+  "sachverhalt": "A patent claims a pump with a “housing” and an impeller “arranged” in the housing; the term “housing” appears twice in the claim. Dependent claim 2 adds a sealing element.",
+  "_de": "223697eb73"
+ },
+ "einheit:u04a-3a": {
+  "titel": "Consistent terms",
+  "frage": "Does the same term within a claim, as a rule, have the same meaning?",
+  "loesung": [
+   "**Yes!** Features must be interpreted **in the light of the claim as a whole**; the same term as a rule has the same meaning, unless the description or the function of the features indicates otherwise (Hefei/Grundfos)."
+  ],
+  "abschnitt": "Art. 69 EPC: terms, components, dependent claims",
+  "_de": "027fa7ef69"
+ },
+ "einheit:u04a-3b": {
+  "titel": "Function and arrangement",
+  "frage": "For the feature “arranged”, does only the function of the impeller matter?",
+  "loesung": [
+   "**No!** The function **and** the physical and spatial arrangement of a component taught by the patent must be considered together (Dyson/Dreame)."
+  ],
+  "abschnitt": "Art. 69 EPC: terms, components, dependent claims",
+  "_de": "549e79c3a8"
+ },
+ "einheit:u04a-3c": {
+  "titel": "No argumentum e contrario",
+  "frage": "Does it necessarily follow from dependent claim 2 that the main claim does not cover a sealing element?",
+  "loesung": [
+   "**No!** Whether conclusions can be drawn from a dependent claim depends on the individual case. If it merely adds an **additional feature**, this actually speaks **against** an argumentum e contrario (Amgen/Regeneron)."
+  ],
+  "merke": "Dependent claim with an additional feature: no argumentum e contrario for the main claim.",
+  "abschnitt": "Art. 69 EPC: terms, components, dependent claims",
+  "_de": "f45fa114d9"
+ },
+ "einheit:u04a-3d": {
+  "titel": "Medical use",
+  "frage": "Is suitability for the therapeutic effect then a feature of the claim?",
+  "loesung": [
+   "**Yes!** In claims in medical use format, the objective **suitability** for the therapeutic effect is an **inherent feature** of the claim (Amgen/Regeneron)."
+  ],
+  "abwandlung": "Another patent claims an antibody for use in the treatment of a particular disease.",
+  "abschnitt": "Art. 69 EPC: terms, components, dependent claims",
+  "_de": "4b067a61c5"
+ },
+ "kapitel:u04b": {
+  "titel": "Art. 25 and 26 UPCA: direct and indirect use",
+  "_de": "295653322c"
+ },
+ "einheit:u04b-0": {
+  "titel": "Art. 25 and 26 UPCA and equivalence",
+  "text": "The acts of infringement are not set out in the EPC but in the UPCA itself: **Art. 25 UPCA** (direct use: making, offering, placing on the market, using, importing, storing a product; using or offering a process; acts relating to the product obtained directly by the process) and **Art. 26 UPCA** (indirect use: offering or supplying means relating to an essential element of the invention, where the third party knows or should have known that they are suitable and intended for putting the invention into effect). The catalogues correspond to §§ 9, 10 PatG, but are interpreted **autonomously**: “offering” is to be understood in an economic sense, a mere invitatio ad offerendum suffices, an indication of price and readiness to deliver are not required (Belkin/Philips); offering and placing on the market are separate acts, and geoblocking of the purchase option alone does not help (Lepu/Occlutech); the intended use under Art. 26 UPCA can be inferred from objective circumstances (Onward/Niche). Territorially, the prohibition applies in the territory of all Contracting Member States in which the patent has effect (Art. 34 UPCA). For **equivalent** infringement, the UPCA contains no test of its own; the Protocol on the Interpretation of Art. 69 EPC, in its second article, merely requires due account to be taken of equivalent elements. The Hague Local Division has applied a four-step test (technical equivalence, fair protection, legal certainty and obviousness to the skilled person, no anticipation by the prior art); the Court of Appeal has not yet committed itself. In the exam: literal meaning first, then set out the German Schneidmesser questions and the Hague test side by side.",
+  "abschnitt": "Overview",
+  "_de": "b529cb5e56"
+ },
+ "gruppe:u04b-1": {
+  "titel": "The prototype at the trade fair",
+  "sachverhalt": "At a trade fair in Berlin, Belkin exhibits a wireless charger that allegedly infringes a Philips patent. There is no price tag and no readiness to deliver; the staff speak of a pre-series. Interested parties can leave their contact details to receive offers.",
+  "_de": "0f9f9e56aa"
+ },
+ "einheit:u04b-1a": {
+  "titel": "Autonomous and economic",
+  "frage": "Is “offering” in Art. 25(a) UPCA understood like an offer to conclude a contract under national civil law?",
+  "loesung": [
+   "**No!** “Offering” is to be interpreted **autonomously** and **economically**, not as a binding contractual offer (Belkin/Philips)."
+  ],
+  "abschnitt": "Art. 25(a) UPCA: offering",
+  "_de": "0292ecb98a"
+ },
+ "einheit:u04b-1b": {
+  "titel": "Invitatio suffices",
+  "frage": "Is a presentation in response to which interested parties can request offers sufficient?",
+  "loesung": [
+   "**Yes!** Any act that presents an item in such a way that viewers can make an offer to acquire it is sufficient (**invitatio ad offerendum**) (Belkin/Philips)."
+  ],
+  "abschnitt": "Art. 25(a) UPCA: offering",
+  "_de": "32f4aa6a3f"
+ },
+ "einheit:u04b-1c": {
+  "titel": "No price needed",
+  "frage": "Must Belkin have stated a price or be ready to deliver?",
+  "loesung": [
+   "**No!** An indication of price, readiness to deliver or the ability to deliver are **not required** (Belkin/Philips)."
+  ],
+  "merke": "Offering = economic: a presentation suffices; price and readiness to deliver are irrelevant.",
+  "abschnitt": "Art. 25(a) UPCA: offering",
+  "_de": "a08ad7a237"
+ },
+ "einheit:u04b-1d": {
+  "titel": "Pre-series",
+  "frage": "Is there an offering even if Belkin only shows a pre-series?",
+  "loesung": [
+   "**Yes!** That it is a pre-series makes no difference, as long as the item shown as such falls under the claim. Belkin has made an offer in the territory of a Contracting Member State."
+  ],
+  "abschnitt": "Art. 25(a) UPCA: offering",
+  "_de": "23ae84ce72"
+ },
+ "gruppe:u04b-2": {
+  "titel": "Geoblocking instead of ceasing",
+  "sachverhalt": "Lepu has been ordered neither to offer nor to place on the market cardiac occluder implants in the Contracting Member States. Lepu continues to present them on an international sales platform but blocks the purchase option for visitors from the UPC territory. Occlutech applies for a penalty payment.",
+  "_de": "b005a1d416"
+ },
+ "einheit:u04b-2a": {
+  "titel": "Separate acts",
+  "frage": "Are offering and placing on the market separate acts of use?",
+  "loesung": [
+   "**Yes!** Under Art. 25 UPCA, offering and placing on the market are **separate acts**; each can be prohibited on its own (Lepu/Occlutech)."
+  ],
+  "abschnitt": "Art. 25 UPCA: offering on the internet",
+  "_de": "d579ada68f"
+ },
+ "einheit:u04b-2b": {
+  "titel": "Geoblocking is not enough",
+  "frage": "Is geoblocking the purchase option sufficient to end the offering in the UPC territory?",
+  "loesung": [
+   "**No!** Where both acts are prohibited, it is not enough to block only the conclusion of the purchase. The presentation to visitors from the UPC territory remains an **offering** (Lepu/Occlutech)."
+  ],
+  "merke": "Geoblocking blocks the purchase, not the offer.",
+  "abschnitt": "Art. 25 UPCA: offering on the internet",
+  "_de": "521a84a5e7"
+ },
+ "einheit:u04b-2c": {
+  "titel": "Control of third parties",
+  "frage": "Must Lepu also control the platform to which it supplies the content?",
+  "loesung": [
+   "**Yes!** The addressee of an injunction must **control third parties** to whom it entrusts implementation. Anyone who supplies content to a platform must ensure that it does not breach the injunction (Lepu/Occlutech)."
+  ],
+  "abschnitt": "Art. 25 UPCA: offering on the internet",
+  "_de": "6d929cd493"
+ },
+ "einheit:u04b-2d": {
+  "titel": "Disclaimer",
+  "frage": "Can a disclaimer be sufficient?",
+  "loesung": [
+   "**Yes!** An **accurate disclaimer** can suffice if no visitor can reasonably understand the content as an offer for the prohibited territories (Lepu/Occlutech)."
+  ],
+  "abwandlung": "Lepu adds to the product pages a clear notice that the implants are not available in the UPC states.",
+  "abschnitt": "Art. 25 UPCA: offering on the internet",
+  "_de": "054ac1c630"
+ },
+ "einheit:u04b-2e": {
+  "titel": "Penalty payment",
+  "frage": "Can the penalty payment be imposed in the geoblocking scenario?",
+  "loesung": [
+   "**Yes!** Mere geoblocking does not comply with the obligation to cease and desist. The penalty payment can be imposed under Art. 63(2) and Art. 82(4) UPCA and R. 354 RoP."
+  ],
+  "abschnitt": "Art. 25 UPCA: offering on the internet",
+  "_de": "dc9e9f8605"
+ },
+ "gruppe:u04b-3": {
+  "titel": "The implant and the intended use",
+  "sachverhalt": "Onward markets a spinal cord stimulation system which on its own does not realise all features of a process claim of Niche. Software and training allow the clinic only the patented use, and Onward advertises precisely this use. Niche relies on Art. 26 UPCA.",
+  "_de": "69b5b2ae5f"
+ },
+ "einheit:u04b-3a": {
+  "titel": "Elements of the provision",
+  "frage": "What does Art. 26(1) UPCA prohibit?",
+  "optionen": [
+   "Supplying means relating to an essential element that are suitable and intended for putting the invention into effect",
+   "Any supply of components to a later infringer",
+   "Only the supply of complete products",
+   "Only advertising for infringements by others"
+  ],
+  "loesung": [
+   "The first answer is correct. What is prohibited is offering or supplying **means relating to an essential element of the invention**, where the third party knows or should have known that they are **suitable and intended** for putting the invention into effect."
+  ],
+  "abschnitt": "Art. 26 UPCA: indirect use",
+  "_de": "a07ddd2015"
+ },
+ "einheit:u04b-3b": {
+  "titel": "Objective circumstances",
+  "frage": "Must Niche directly prove the clinic's intended use?",
+  "loesung": [
+   "**No!** The intention is a circumstance in the person of the recipient which the supplier usually cannot prove directly. It can be inferred from **objective circumstances** that allow a sufficiently certain conclusion as to use in accordance with the invention (Onward/Niche)."
+  ],
+  "merke": "The intended use can be inferred from objective circumstances.",
+  "abschnitt": "Art. 26 UPCA: indirect use",
+  "_de": "ea7dbb604a"
+ },
+ "einheit:u04b-3c": {
+  "titel": "Software, training, advertising",
+  "frage": "Are software, training and advertising sufficient as such circumstances?",
+  "loesung": [
+   "**Yes!** They provide only for the patented use. The intended use is obvious to Onward; the system relates to an essential element of the invention."
+  ],
+  "abschnitt": "Art. 26 UPCA: indirect use",
+  "_de": "5511216c0d"
+ },
+ "einheit:u04b-3d": {
+  "titel": "No staple commercial product",
+  "frage": "Is the system a staple commercial product within the meaning of Art. 26(2) UPCA?",
+  "loesung": [
+   "**No!** A system specifically set up for the patented use is not a staple commercial product. The exception in Art. 26(2) UPCA does not apply; there is indirect infringement."
+  ],
+  "abschnitt": "Art. 26 UPCA: indirect use",
+  "_de": "fc3248c11a"
+ },
+ "einheit:u04b-3e": {
+  "titel": "Art. 26(3) UPCA",
+  "frage": "Is the university a “person entitled”, so that the supply is not indirect infringement?",
+  "loesung": [
+   "**No!** Persons performing acts under Art. 27(a) to 27(e) UPCA are not considered parties entitled to exploit the invention (Art. 26(3) UPCA). Supplies to them can therefore constitute indirect infringement."
+  ],
+  "abwandlung": "Onward supplies the system to a university that uses it only for experiments under Art. 27(b) UPCA.",
+  "abschnitt": "Art. 26 UPCA: indirect use",
+  "_de": "18b92e3230"
+ },
+ "einheit:u04b-3f": {
+  "titel": "Limited version in summary proceedings",
+  "frage": "Was Niche allowed to assert the patent in summary proceedings in a limited version that had not been registered?",
+  "loesung": [
+   "**Yes!** In summary proceedings this was not inadmissible from the outset, provided the circumstances and the summary nature of the proceedings allow it (Onward/Niche)."
+  ],
+  "abschnitt": "Art. 26 UPCA: indirect use",
+  "_de": "3e1774aac1"
+ },
+ "kapitel:u04c": {
+  "titel": "Art. 27 to 29 and 63 UPCA: defences, liability, FRAND",
+  "_de": "1ba63c400c"
+ },
+ "einheit:u04c-0": {
+  "titel": "What the defendant can still object",
+  "text": "After interpretation and the act of use, the Court examines whether the act took place **in the territory** of the Contracting Member States and **without consent**, and then the defences. **Art. 27 UPCA** lists the limitations of the effects of the patent, more extensively than § 11 PatG: private acts ((a)), experimental acts ((b)), breeders' exemption ((c)), Bolar exemption for regulatory studies ((d)), pharmacy preparations ((e)), foreign ships and aircraft ((f), (g)), farmers' privilege ((i), (j)) decompilation and interoperability of software ((k)) and acts allowed under Article 10 of Biotech Directive 98/44/EC ((l)). Important for Art. 26 UPCA: anyone acting under Art. 27(a) to 27(e) UPCA is not a “person entitled” (Art. 26(3) UPCA), so supplies to them can constitute indirect infringement. **Art. 28 UPCA** refers the right based on prior use to the national law of the respective state (in Germany § 12 PatG); it has only territorial effect. **Art. 29 UPCA** governs Union-wide, not international, exhaustion; the proprietor's legitimate grounds to oppose further commercialisation are reserved, and the burden of proving placing on the market with consent lies on the defendant (Art. 54 UPCA). On the defendant's side, **Art. 63 UPCA** in conjunction with Art. 25 UPCA determines autonomously who is an “infringer”: also instigators, joint tortfeasors and accessories, but not the managing director merely by virtue of his corporate position (Belkin/Philips). For standard-essential patents, the **FRAND defence** under Art. 102 TFEU can bar the claim for an injunction; the Düsseldorf, Mannheim and Munich Local Divisions require a willing licensee for this (Dolby/Beko).",
+  "abschnitt": "Overview",
+  "_de": "c9a083a47d"
+ },
+ "gruppe:u04c-1": {
+  "titel": "Prior use in Germany, supplies to France",
+  "sachverhalt": "Since 2019, Roth GmbH has been hardening gear wheels by a particular process at its plant in Hesse. In 2021, a competitor files an application for this process; the patent is registered as a Unitary Patent. Before the Düsseldorf Local Division, Roth invokes a right based on prior use.",
+  "_de": "15c5edfa59"
+ },
+ "einheit:u04c-1a": {
+  "titel": "Reference to national law",
+  "frage": "Which law governs Roth GmbH's right based on prior use?",
+  "optionen": [
+   "A specific prior-use right of the UPCA",
+   "German law (§ 12 PatG) via Art. 28 UPCA",
+   "The law of the patent proprietor's seat",
+   "Art. 27 UPCA"
+  ],
+  "loesung": [
+   "The second answer is correct. Art. 28 UPCA refers to the law of the state in which the right based on prior use would have arisen had a national patent been granted, here **§ 12 PatG**."
+  ],
+  "abschnitt": "Art. 28 and 29 UPCA: prior use and exhaustion",
+  "_de": "8c48157cb0"
+ },
+ "einheit:u04c-1b": {
+  "titel": "Use in Germany",
+  "frage": "May Roth GmbH continue to use the process in Germany?",
+  "loesung": [
+   "**Yes!** Anyone who would have acquired a right based on prior use in a Contracting Member State has the same rights **in that state** also in respect of the European patent (Art. 28 UPCA). Roth may continue to use the process in Germany and offer the products there."
+  ],
+  "abschnitt": "Art. 28 and 29 UPCA: prior use and exhaustion",
+  "_de": "57e3b3086e"
+ },
+ "einheit:u04c-1c": {
+  "titel": "No effect abroad",
+  "frage": "May Roth GmbH also offer the hardened gear wheels in France and Italy?",
+  "loesung": [
+   "**No!** The right based on prior use remains **nationally and territorially** limited. Offering and placing on the market in France and Italy are acts of use under Art. 25 UPCA without justification."
+  ],
+  "merke": "Art. 28 UPCA: prior use is national law with national reach.",
+  "abschnitt": "Art. 28 and 29 UPCA: prior use and exhaustion",
+  "_de": "a34b3e83d2"
+ },
+ "einheit:u04c-1d": {
+  "titel": "No exhaustion",
+  "frage": "Does exhaustion under Art. 29 UPCA help Roth GmbH for France?",
+  "loesung": [
+   "**No!** Exhaustion requires that the product was placed on the market in the Union **by the patent proprietor or with its consent**. Roth's own gear wheels do not satisfy this."
+  ],
+  "abschnitt": "Art. 28 and 29 UPCA: prior use and exhaustion",
+  "_de": "3d5cd2d5b3"
+ },
+ "einheit:u04c-1e": {
+  "titel": "Union-wide exhaustion",
+  "frage": "Are the patent proprietor's rights in these gear wheels exhausted?",
+  "loesung": [
+   "**Yes!** Art. 29 UPCA governs **Union-wide** exhaustion: when the proprietor places the products on the market in an EU state, the rights are exhausted, even if that state does not participate in the UPC. The defendant must prove placing on the market with consent (Art. 54 UPCA); the proprietor's legitimate grounds are reserved."
+  ],
+  "abwandlung": "In France, Roth also sells gear wheels that the patent proprietor itself sold in Spain.",
+  "abschnitt": "Art. 28 and 29 UPCA: prior use and exhaustion",
+  "_de": "41cfa70e50"
+ },
+ "einheit:u04c-1f": {
+  "titel": "Jurisdiction",
+  "frage": "Does the UPC have jurisdiction over an action concerning the right based on prior use?",
+  "loesung": [
+   "**Yes!** Art. 32(1)(g) UPCA assigns to the UPC actions for a declaration of a right based on prior use."
+  ],
+  "abschnitt": "Art. 28 and 29 UPCA: prior use and exhaustion",
+  "_de": "1a82ef1758"
+ },
+ "gruppe:u04c-2": {
+  "titel": "The managing director as joint infringer",
+  "sachverhalt": "In addition to Belkin GmbH, Philips also sues its managing director personally for an injunction. By virtue of his corporate position, it argues, he is responsible for all distribution decisions. Philips submits nothing on his knowledge of the patent.",
+  "_de": "3ba24ce196"
+ },
+ "einheit:u04c-2a": {
+  "titel": "Autonomous concept of infringer",
+  "frage": "Is the term “infringer” in Art. 63 UPCA interpreted autonomously?",
+  "loesung": [
+   "**Yes!** Who is an infringer under Art. 63 UPCA in conjunction with Art. 25 UPCA is determined by **autonomous interpretation** of the UPCA (Belkin/Philips)."
+  ],
+  "abschnitt": "Art. 63 UPCA: infringer and managing director",
+  "_de": "ec1a61783b"
+ },
+ "einheit:u04c-2b": {
+  "titel": "Participants",
+  "frage": "Can someone who does not perform the act of use himself also be an infringer?",
+  "loesung": [
+   "**Yes!** This also covers anyone to whom the acts are attributable as an **instigator, joint tortfeasor or accessory** (Belkin/Philips)."
+  ],
+  "abschnitt": "Art. 63 UPCA: infringer and managing director",
+  "_de": "7f58a90639"
+ },
+ "einheit:u04c-2c": {
+  "titel": "Not by virtue of office",
+  "frage": "Is the managing director liable merely because of his corporate position?",
+  "loesung": [
+   "**No!** His corporate position alone does not make him a joint tortfeasor. He is liable only if his conduct goes beyond the duties typical of his function (Belkin/Philips)."
+  ],
+  "merke": "The managing director is not liable by virtue of office.",
+  "abschnitt": "Art. 63 UPCA: infringer and managing director",
+  "_de": "bdb958e180"
+ },
+ "einheit:u04c-2d": {
+  "titel": "Purpose or knowledge",
+  "frage": "When is the managing director personally liable?",
+  "optionen": [
+   "Whenever he is responsible for distribution",
+   "Whenever the company is liable",
+   "If he could have noticed that patents exist",
+   "If he purposefully uses the company to infringe or fails to intervene despite knowledge"
+  ],
+  "loesung": [
+   "The fourth answer is correct. He is liable if he **purposefully** uses the company to infringe or fails to intervene **despite knowledge** where intervention can reasonably be expected. Knowledge means: he recognises the infringement as such or deliberately closes his eyes to it (Belkin/Philips)."
+  ],
+  "abschnitt": "Art. 63 UPCA: infringer and managing director",
+  "_de": "09bba376df"
+ },
+ "einheit:u04c-2e": {
+  "titel": "Result",
+  "frage": "Is the action against the managing director well founded?",
+  "loesung": [
+   "**No!** Philips has submitted neither purposeful conduct nor knowledge. Unlike against intermediaries (the second sentence of Art. 63(1) UPCA), there is no order against him without his own attribution."
+  ],
+  "abschnitt": "Art. 63 UPCA: infringer and managing director",
+  "_de": "e272915b25"
+ },
+ "gruppe:u04c-3": {
+  "titel": "The FRAND defence before the UPC",
+  "sachverhalt": "Before the Düsseldorf Local Division, Dolby sues Beko on a standard-essential patent for an audio codec. Without a licence, Beko's smart TVs would not be standard-compliant. Beko invokes Art. 102 TFEU.",
+  "_de": "3d26dd9804"
+ },
+ "einheit:u04c-3a": {
+  "titel": "Power to examine",
+  "frage": "May the UPC examine the FRAND defence?",
+  "loesung": [
+   "**Yes!** The FRAND defence is a defence against the claim for an injunction in infringement proceedings. The UPC applies Union law in its entirety (Art. 20 and 24 UPCA)."
+  ],
+  "abschnitt": "Art. 63 UPCA, Art. 102 TFEU: FRAND defence",
+  "_de": "0c4db2022a"
+ },
+ "einheit:u04c-3b": {
+  "titel": "Market dominance",
+  "frage": "Can Beko contest market dominance by pointing to TVs with other codecs?",
+  "loesung": [
+   "**No!** A **dominant position** exists if, without a licence, no products compatible with a common standard can be offered. What is decisive is the **consumer expectation** that all common codecs are supported (Dolby/Beko)."
+  ],
+  "abschnitt": "Art. 63 UPCA, Art. 102 TFEU: FRAND defence",
+  "_de": "32362d599f"
+ },
+ "einheit:u04c-3c": {
+  "titel": "Willingness to take a licence",
+  "frage": "Does the defence bar the claim for an injunction as soon as Beko invokes FRAND?",
+  "loesung": [
+   "**No!** The claim is barred only if the infringer behaves as a **willing licensee** in accordance with the negotiation framework of the CJEU (Huawei/ZTE). In this, the Düsseldorf Local Division follows the Mannheim and Munich Local Divisions (Dolby/Beko)."
+  ],
+  "merke": "FRAND bars the injunction only for the willing licensee.",
+  "abschnitt": "Art. 63 UPCA, Art. 102 TFEU: FRAND defence",
+  "_de": "503941a753"
+ },
+ "einheit:u04c-3d": {
+  "titel": "No general exclusion",
+  "frage": "Can the Court also grant an injunction on a standard-essential patent?",
+  "loesung": [
+   "**Yes!** Art. 63 UPCA confers discretion, which is regularly exercised **in favour of an injunction**. There is no general exclusion for standard-essential patents."
+  ],
+  "abschnitt": "Art. 63 UPCA, Art. 102 TFEU: FRAND defence",
+  "_de": "6a20b08f63"
+ }
+}

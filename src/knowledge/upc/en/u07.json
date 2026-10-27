@@ -1,0 +1,584 @@
+{
+ "kurs:u07": {
+  "titel": "Remedies, penalty payments and enforcement",
+  "untertitel": "Injunction, corrective measures, information, damages – and how the UPC enforces its orders",
+  "beschreibung": "What the claimant obtains once infringement is established: the injunction under Art. 63 UPCA and its scope (Dyson/Dreame), corrective measures (Art. 64 UPCA), the order to communicate information (Art. 67 UPCA), publication (Art. 80 UPCA) and damages with the separate procedure for their determination (Art. 68 UPCA, R. 125 ff. RoP). In addition: the system of penalty payments under Kodak/Fujifilm, the addressee's duties regarding platforms and geoblocking (Lepu/Occlutech), the remedy against the setting of penalty payments (EOFlow/Insulet) and the retroactive effect of a set-aside order.",
+  "_de": "fb86a098fd"
+ },
+ "kapitel:u07a": {
+  "titel": "Art. 63, 64, 67 and 80 UPCA: injunction, corrective measures, information, publication",
+  "_de": "12b75cf3ec"
+ },
+ "einheit:u07a-0": {
+  "titel": "Examination scheme: infringement action before the UPC",
+  "text": "This course covers section C of the scheme: if infringement is established, the consequences are an injunction and penalty payments (Art. 63 UPCA), corrective measures, information and publication (Art. 64, 67, 80 UPCA), damages (Art. 68 UPCA) as well as costs and enforcement (Art. 69, 82 UPCA). All orders are at the Court's discretion (\"may\") and subject to proportionality under Art. 42 UPCA.",
+  "_de": "9621ee3a16"
+ },
+ "gruppe:u07a-1": {
+  "titel": "Only the offer?",
+  "sachverhalt": "The local division finds that Dreame infringes a Dyson patent by offering a robot vacuum cleaner. It prohibits Dreame from offering, placing on the market, using, importing and stocking this device.",
+  "_de": "ae511c3201"
+ },
+ "einheit:u07a-1a": {
+  "titel": "No restriction",
+  "frage": "Must the injunction be limited to the proven offering?",
+  "loesung": [
+   "**No!** Art. 63(1) UPCA allows an injunction aimed at prohibiting the **continuation of the infringement**. Neither Art. 63 UPCA nor Art. 25(a) UPCA limits it to the type of use already committed (UPC CoA Dyson/Dreame)."
+  ],
+  "merke": "Whoever has infringed once faces a prohibition of all types of use under Art. 25 UPCA.",
+  "abschnitt": "Art. 63(1) UPCA: scope of the injunction",
+  "_de": "d6791d9559"
+ },
+ "einheit:u07a-1b": {
+  "titel": "Risk of further acts",
+  "frage": "Is there also a risk of placing on the market, although Dreame has not yet sold anything?",
+  "loesung": [
+   "**Yes!** Whoever has committed one act of infringement as a rule creates the risk of continuing the infringement through other acts of use as well: whoever offers will deliver and place on the market (UPC CoA Dyson/Dreame)."
+  ],
+  "abschnitt": "Art. 63(1) UPCA: scope of the injunction",
+  "_de": "2fa416faab"
+ },
+ "einheit:u07a-1c": {
+  "titel": "One right, many acts",
+  "frage": "How do the types of use under Art. 25 UPCA relate to each other?",
+  "optionen": [
+   "Each is a separate right with its own risk of repetition",
+   "They are independent acts of the same exclusive right",
+   "Only making and placing on the market are prohibited"
+  ],
+  "loesung": [
+   "The acts of use under Art. 25 UPCA are **independent**, but they belong to **the same exclusive right**. The risk of continued infringement therefore also covers acts not yet committed (UPC CoA Dyson/Dreame)."
+  ],
+  "abschnitt": "Art. 63(1) UPCA: scope of the injunction",
+  "_de": "400fc70415"
+ },
+ "einheit:u07a-1d": {
+  "titel": "Limit of proportionality",
+  "frage": "May the injunction also cover devices whose infringement has not been established?",
+  "loesung": [
+   "**No!** The limit is proportionality (Art. 42 UPCA). The injunction must relate to the infringing embodiment and the acts to be expected, not to any other products."
+  ],
+  "abwandlung": "Dyson requests that Dreame also be prohibited from dealing in all its other robot vacuum cleaners.",
+  "abschnitt": "Art. 63(1) UPCA: scope of the injunction",
+  "_de": "e617d3a5ae"
+ },
+ "gruppe:u07a-2": {
+  "titel": "Chargers from the warehouse",
+  "sachverhalt": "The Court finds that Belkin infringes a Philips patent with chargers. The devices are shipped from the warehouse of a logistics provider. Philips applies for an injunction.",
+  "_de": "1b75184925"
+ },
+ "einheit:u07a-2a": {
+  "titel": "Discretion",
+  "frage": "Must the Court grant the injunction because infringement is established?",
+  "loesung": [
+   "**No!** Art. 63(1) UPCA says \"may\": the Court has **discretion** and examines proportionality under Art. 42 UPCA. As a rule, however, it exercises its discretion in favour of the injunction."
+  ],
+  "abschnitt": "Art. 63 UPCA: discretion, intermediaries, penalty payments",
+  "_de": "c5d4b19e2f"
+ },
+ "einheit:u07a-2b": {
+  "titel": "Intermediary",
+  "frage": "Can the injunction also be issued against the logistics provider, although it does not infringe itself?",
+  "loesung": [
+   "**Yes!** The second sentence of Art. 63(1) UPCA allows an injunction against **intermediaries** whose services are used by a third party to infringe. Liability as an infringer is not required. This implements the third sentence of Art. 11 IPRED."
+  ],
+  "merke": "Intermediaries can be addressees without infringing themselves.",
+  "abschnitt": "Art. 63 UPCA: discretion, intermediaries, penalty payments",
+  "_de": "dca4f070f1"
+ },
+ "einheit:u07a-2c": {
+  "titel": "Managing director",
+  "frage": "Is Belkin's managing director liable as a joint infringer merely because of his position as an officer?",
+  "loesung": [
+   "**No!** The mere position as an officer is not enough. The managing director is liable only if he deliberately uses the company to infringe or fails to intervene despite knowledge and where this can reasonably be expected (UPC CoA Belkin/Philips)."
+  ],
+  "abschnitt": "Art. 63 UPCA: discretion, intermediaries, penalty payments",
+  "_de": "37d956aae7"
+ },
+ "einheit:u07a-2d": {
+  "titel": "Recipient of the penalty payment",
+  "frage": "To whom is a penalty payment under Art. 63(2) UPCA paid?",
+  "optionen": [
+   "To Philips, as part of the damages",
+   "To the Court",
+   "Half to the Court and half to Philips"
+  ],
+  "loesung": [
+   "Penalty payments are **payable to the Court** (Art. 63(2), Art. 82(4) UPCA). They do not affect the claimant's claim for damages."
+  ],
+  "abschnitt": "Art. 63 UPCA: discretion, intermediaries, penalty payments",
+  "_de": "90fed46561"
+ },
+ "gruppe:u07a-3": {
+  "titel": "Conversion instead of destruction",
+  "sachverhalt": "Filter systems made by Ventra infringe a patent of Aquilon; 400 systems are still stored at Ventra. The infringing valve module can be replaced with a non-infringing one at little effort. Ventra is willing to do so.",
+  "_de": "7a3a932e41"
+ },
+ "einheit:u07a-3a": {
+  "titel": "No mandatory destruction",
+  "frage": "Must the Court order the destruction of the systems?",
+  "loesung": [
+   "**No!** The Court orders corrective measures at the request of the applicant and has **discretion** in doing so (\"may\", Art. 64(1) UPCA). The UPCA does not provide for mandatory destruction."
+  ],
+  "abschnitt": "Art. 64 UPCA: corrective measures",
+  "_de": "bec05a33c4"
+ },
+ "einheit:u07a-3b": {
+  "titel": "The list in paragraph 2",
+  "frage": "Which measure does Art. 64(2) UPCA list on an equal footing with destruction?",
+  "optionen": [
+   "A fine payable to the patent proprietor",
+   "Seizure by customs",
+   "Depriving the product of its infringing property"
+  ],
+  "loesung": [
+   "Art. 64(2) UPCA lists a declaration of infringement (point (a)), recall (point (b)), **depriving the product of its infringing property** (point (c)), definitive removal from the channels of commerce (point (d)) and destruction (point (e))."
+  ],
+  "abschnitt": "Art. 64 UPCA: corrective measures",
+  "_de": "dd74fbe6ed"
+ },
+ "einheit:u07a-3c": {
+  "titel": "Proportionality",
+  "frage": "Does Ventra's willingness to convert the systems count when the measure is chosen?",
+  "loesung": [
+   "**Yes!** Under Art. 64(4) UPCA the Court takes into account proportionality, the **willingness of the infringer to convert the material into a non-infringing state** and the interests of third parties. Here replacing the module is sufficient; destruction would be the harsher measure without any added benefit."
+  ],
+  "merke": "Art. 64(4) UPCA: destruction only if milder measures are not sufficient.",
+  "abschnitt": "Art. 64 UPCA: corrective measures",
+  "_de": "5caeef8e6e"
+ },
+ "einheit:u07a-3d": {
+  "titel": "Costs of corrective measures",
+  "frage": "Does Ventra bear the costs of the conversion?",
+  "loesung": [
+   "**Yes!** The measures are carried out **at the expense of the infringer**, unless particular reasons are invoked for not doing so (Art. 64(3) UPCA). This corresponds to Art. 10 IPRED and § 140a PatG."
+  ],
+  "abschnitt": "Art. 64 UPCA: corrective measures",
+  "_de": "5865ce5701"
+ },
+ "gruppe:u07a-4": {
+  "titel": "Information from the forwarder",
+  "sachverhalt": "The manufacturer Corvid has been found to infringe a patent of Meridian. The forwarding company Lorentz commercially stored the infringing pumps for Corvid and delivered them to dealers in three states.",
+  "_de": "38dc6bdb0f"
+ },
+ "einheit:u07a-4a": {
+  "titel": "Information from the infringer",
+  "frage": "Can Meridian require Corvid to provide information on distribution channels, quantities and prices?",
+  "loesung": [
+   "**Yes!** On a justified and proportionate request, the Court orders the infringer to inform the applicant of the origin and distribution channels, the quantities and prices and the third parties involved (Art. 67(1)(a) to 67(1)(c) UPCA)."
+  ],
+  "abschnitt": "Art. 67 UPCA: order to communicate information",
+  "_de": "8d0f3ea1a5"
+ },
+ "einheit:u07a-4b": {
+  "titel": "Information from third parties",
+  "frage": "Can Lorentz also be ordered to provide information, although it is not an infringer?",
+  "loesung": [
+   "**Yes!** Art. 67(2) UPCA extends the obligation to **any third party** who was found in possession of the infringing products on a commercial scale (point (a)) or was providing on a commercial scale services used in infringing activities (point (b)). A forwarder that stores and delivers fulfils both."
+  ],
+  "merke": "Art. 67(2) UPCA: information also from a non-infringer.",
+  "abschnitt": "Art. 67 UPCA: order to communicate information",
+  "_de": "03db0b95e2"
+ },
+ "einheit:u07a-4c": {
+  "titel": "Challenge",
+  "frage": "Can the order to communicate information be challenged only with leave?",
+  "loesung": [
+   "**No!** Orders under Art. 67 UPCA can be appealed without leave, within 15 days (Art. 73(2)(a) UPCA, R. 220.1(c) RoP)."
+  ],
+  "abschnitt": "Art. 67 UPCA: order to communicate information",
+  "_de": "1f4fc8577f"
+ },
+ "einheit:u07a-4d": {
+  "titel": "German parallel",
+  "frage": "Which German provision corresponds to Art. 67(2) UPCA?",
+  "optionen": [
+   "§ 140b(2) PatG",
+   "§ 140c PatG",
+   "§ 139(2) PatG"
+  ],
+  "loesung": [
+   "Art. 67 UPCA implements Art. 8 IPRED. In German law, information from third parties corresponds to § 140b(2) PatG and § 19(2) MarkenG. § 140c PatG, by contrast, governs production and inspection."
+  ],
+  "abschnitt": "Art. 67 UPCA: order to communicate information",
+  "_de": "58bb6a5a97"
+ },
+ "gruppe:u07a-5": {
+  "titel": "The information comes too late",
+  "sachverhalt": "Belkin has been ordered to provide Philips with information under Art. 67 UPCA; the decision does not set a time limit. Philips gives notice of its intention to enforce and sets a time limit. Belkin replies only after it has expired.",
+  "_de": "1aad5d9bdb"
+ },
+ "einheit:u07a-5a": {
+  "titel": "Time limit in the request",
+  "frage": "Should the time limit for providing information already be included in the claimant's request?",
+  "loesung": [
+   "**Yes!** The request under Art. 67(1) UPCA should as a rule include the time limit for providing the information, so that it is already stated in the decision. It runs from the notice under R. 118.8 RoP, in summary proceedings from service of the order (UPC CoA Belkin/Philips 2025)."
+  ],
+  "abschnitt": "Art. 67 UPCA, R. 118.8 RoP: time limit and content of the information",
+  "_de": "446ef29893"
+ },
+ "einheit:u07a-5b": {
+  "titel": "Time limit with the notice of enforcement",
+  "frage": "Was Philips allowed to set the time limit itself?",
+  "loesung": [
+   "**Yes!** If the decision does not set a time limit, it is for the claimant to set one with the notice of its intention to enforce under R. 118.8 RoP (UPC CoA Belkin/Philips 2025)."
+  ],
+  "abschnitt": "Art. 67 UPCA, R. 118.8 RoP: time limit and content of the information",
+  "_de": "26fb18f0f5"
+ },
+ "einheit:u07a-5c": {
+  "titel": "Late compliance",
+  "frage": "Is the penalty payment excluded because Belkin has since provided the information?",
+  "loesung": [
+   "**No!** The penalty payment is not only coercive but also has a **punitive character**. It can therefore be imposed even if the defendant has meanwhile provided the information, but late (UPC CoA Belkin/Philips 2025)."
+  ],
+  "merke": "Late information does not protect against a penalty payment (Belkin/Philips 2025).",
+  "abschnitt": "Art. 67 UPCA, R. 118.8 RoP: time limit and content of the information",
+  "_de": "3f3dc53fac"
+ },
+ "einheit:u07a-5d": {
+  "titel": "Burden of proof",
+  "frage": "Who must prove that the information has been provided in full?",
+  "optionen": [
+   "Philips",
+   "Belkin",
+   "The Court of its own motion"
+  ],
+  "loesung": [
+   "The burden of presentation and proof that the obligation to provide information has been fulfilled lies with the **defendant** (UPC CoA Belkin/Philips 2025). It knows its own business transactions."
+  ],
+  "abschnitt": "Art. 67 UPCA, R. 118.8 RoP: time limit and content of the information",
+  "_de": "e9eb3eb182"
+ },
+ "einheit:u07a-5e": {
+  "titel": "Purchase prices",
+  "frage": "Must Belkin also state the prices it paid to the manufacturer itself?",
+  "loesung": [
+   "**Yes!** Art. 67(1)(b) UPCA also covers the purchase prices paid by the infringer (manufacturer prices). If no form is ordered, Belkin may provide the information in writing or electronically (UPC CoA Belkin/Philips 2025)."
+  ],
+  "abschnitt": "Art. 67 UPCA, R. 118.8 RoP: time limit and content of the information",
+  "_de": "39951881d2"
+ },
+ "gruppe:u07a-6": {
+  "titel": "A statement on its own website",
+  "sachverhalt": "Fujifilm sues Kodak on a patent for printing plates. In case it succeeds, Fujifilm requests that Kodak be ordered to publish a statement on the infringement on its own website.",
+  "_de": "9c421994a2"
+ },
+ "einheit:u07a-6a": {
+  "titel": "Art. 80 UPCA",
+  "frage": "Is such a statement justified only in special circumstances?",
+  "loesung": [
+   "**Yes!** Ordering the infringer to publish its own statement on its website under Art. 80 UPCA is justified only in **special circumstances**: as a correction of consequences of the infringement that cannot be undone or compensated otherwise (UPC CoA Fujifilm/Kodak)."
+  ],
+  "merke": "Art. 80 UPCA: publication as a corrective tool, not as a standard consequence.",
+  "abschnitt": "Art. 80 UPCA: publication",
+  "_de": "d08b4d4faa"
+ },
+ "einheit:u07a-6b": {
+  "titel": "No penalty payment for money debts",
+  "frage": "Is a penalty payment appropriate for an enforceable money debt?",
+  "loesung": [
+   "**No!** It is not appropriate and proportionate to order a penalty payment for failure to comply with an enforceable **payment obligation** (UPC CoA Fujifilm/Kodak). Monetary claims are recovered under the law of the state of enforcement (Art. 82(3) UPCA)."
+  ],
+  "abwandlung": "Fujifilm also requests that a payment obligation of Kodak be backed by a penalty payment.",
+  "abschnitt": "Art. 80 UPCA: publication",
+  "_de": "74c9ae0318"
+ },
+ "kapitel:u07b": {
+  "titel": "Art. 68 UPCA, R. 125 to 131 RoP: damages and the procedure for their determination",
+  "_de": "5dc868eca1"
+ },
+ "einheit:u07b-0": {
+  "titel": "Two stages: liability in the decision, amount in separate proceedings",
+  "text": "Art. 68(1) UPCA obliges the infringer who **knowingly, or with reasonable grounds to know**, engaged in an infringing activity to pay appropriate damages. The aim is to compensate the actual harm: the injured party is to be placed in the position it would have been in without the infringement, the infringer must not benefit from the infringement, and damages must **not be punitive** (paragraph 2). In setting the damages, the Court takes all appropriate aspects into account, in particular the injured party's lost profits and the infringer's unfair profits, in appropriate cases also non-economic damage (Art. 68(3)(a) UPCA), or alternatively sets them as a **lump sum** on the basis of at least a hypothetical royalty (Art. 68(3)(b) UPCA). An innocent infringer owes no damages but may be ordered to recover profits or pay compensation (Art. 68(4) UPCA). This implements Art. 13 IPRED and corresponds to the three methods of calculating damages under § 139(2) PatG. Procedurally, the UPC works in two stages: in the decision on the merits, the Court awards damages on the merits of liability and may order an interim award of damages (R. 118.1, R. 119 RoP); the **amount** is determined in separate proceedings on application filed within **one year** of service of the final decision (R. 125, 126 RoP), which can be combined with a request to **lay open books** (R. 131.1(c), R. 141 ff. RoP).",
+  "_de": "f9e06b5af5"
+ },
+ "gruppe:u07b-1": {
+  "titel": "The French judgment",
+  "sachverhalt": "In 2022 a French court found REEL liable in principle for damages for infringement of a European patent of Fives. In 2024 Fives brings an action before the UPC for determination of the amount for acts from 2019 to 2022.",
+  "_de": "e75ec95e13"
+ },
+ "einheit:u07b-1a": {
+  "titel": "Action on the amount",
+  "frage": "Does the UPC have jurisdiction over an action concerning only the amount of damages?",
+  "loesung": [
+   "**Yes!** Jurisdiction over infringement actions (Art. 32(1)(a) UPCA) also covers an **independent action for the determination of damages** after a national court has established liability in principle. The UPCA itself separates liability and amount (R. 118.1, R. 125 ff. RoP; UPC CoA Fives/REEL)."
+  ],
+  "abschnitt": "Art. 68 and 32 UPCA: action for damages",
+  "_de": "e5a186b2e2"
+ },
+ "einheit:u07b-1b": {
+  "titel": "Old cases",
+  "frage": "Does it stand in the way that the acts took place before 1 June 2023?",
+  "loesung": [
+   "**No!** Jurisdiction also covers acts before the entry into force of the UPCA, provided the patent had not yet lapsed on 1 June 2023; Art. 32 UPCA contains no temporal restriction (UPC CoA Fives/REEL)."
+  ],
+  "merke": "Old cases: jurisdiction if the patent was still in force on 1 June 2023 (Fives/REEL).",
+  "abschnitt": "Art. 68 and 32 UPCA: action for damages",
+  "_de": "5447e584a8"
+ },
+ "einheit:u07b-1c": {
+  "titel": "Applicable law",
+  "frage": "Is the law applicable to 2019 to 2022 a question of jurisdiction?",
+  "loesung": [
+   "**No!** Which substantive law applies to the earlier period and whether a prohibition of retroactivity applies is a question of the **merits** (UPC CoA Knaus Tabbert). A Preliminary objection under R. 19 RoP does not help REEL in this respect."
+  ],
+  "abschnitt": "Art. 68 and 32 UPCA: action for damages",
+  "_de": "70865c68f0"
+ },
+ "gruppe:u07b-2": {
+  "titel": "The figures are missing",
+  "sachverhalt": "The local division orders Solvix to cease and desist and finds it liable for damages in principle. The decision is served on 10 March and not appealed. Helion knows neither Solvix's unit numbers nor its prices.",
+  "_de": "1aa8c1b2ca"
+ },
+ "einheit:u07b-2a": {
+  "titel": "One-year time limit",
+  "frage": "By when must Helion apply for the determination of damages?",
+  "optionen": [
+   "Within one month of the decision",
+   "Within one year of service",
+   "Only in the infringement decision itself"
+  ],
+  "loesung": [
+   "The application must be filed **within one year** of service of the final decision on infringement and validity (R. 126 RoP). The one-month time limit belongs to cost proceedings (R. 151 RoP)."
+  ],
+  "merke": "One year for damages (R. 126 RoP), one month for costs (R. 151 RoP).",
+  "abschnitt": "R. 125 to 131 RoP: procedure for the determination of damages",
+  "_de": "b1e0527446"
+ },
+ "einheit:u07b-2b": {
+  "titel": "Laying open books",
+  "frage": "Can Helion first request that the books be laid open and quantify only afterwards?",
+  "loesung": [
+   "**Yes!** The application may include a request to **lay open books** (R. 126, R. 131.1(c), R. 141 ff. RoP). Only after the books have been laid open must Helion state the redress, the calculation and the evidence (R. 131.2 RoP)."
+  ],
+  "abschnitt": "R. 125 to 131 RoP: procedure for the determination of damages",
+  "_de": "483eac19b4"
+ },
+ "einheit:u07b-2c": {
+  "titel": "Fees",
+  "frage": "Does Helion pay court fees for the request to lay open books?",
+  "loesung": [
+   "**Yes!** The request to lay open books is part of the procedure for the determination of damages. Whoever files it owes its **fixed fee and value-based fee** (UPC CoA Bruker/10x Genomics)."
+  ],
+  "abschnitt": "R. 125 to 131 RoP: procedure for the determination of damages",
+  "_de": "57c2224506"
+ },
+ "einheit:u07b-2d": {
+  "titel": "Payment in the decision",
+  "frage": "Could the local division already order a payment in the decision?",
+  "loesung": [
+   "**Yes!** The amount can be stated in the decision or determined in separate proceedings (R. 118.1 RoP). The Court can also order an interim award of damages (R. 119 RoP)."
+  ],
+  "abschnitt": "R. 125 to 131 RoP: procedure for the determination of damages",
+  "_de": "364f4a979a"
+ },
+ "einheit:u07b-2e": {
+  "titel": "No infringer surcharge",
+  "frage": "Can Helion claim twice the usual royalty because Solvix acted intentionally?",
+  "loesung": [
+   "**No!** Damages are **not punitive** (Art. 68(2) UPCA). The licence analogy under Art. 68(3)(b) UPCA is a lump sum based on \"at least\" the appropriate royalty, not a surcharge."
+  ],
+  "abwandlung": "Solvix continued to infringe despite a warning letter.",
+  "abschnitt": "R. 125 to 131 RoP: procedure for the determination of damages",
+  "_de": "f82a1d757a"
+ },
+ "kapitel:u07c": {
+  "titel": "Art. 82 UPCA, R. 354 RoP: enforcement and penalty payments",
+  "_de": "6f9c75ddf6"
+ },
+ "einheit:u07c-0": {
+  "titel": "How the UPC enforces: state of enforcement, penalty payments, retroactive effect",
+  "text": "Decisions and orders of the UPC are enforceable in **all Contracting Member States**; the enforcement procedure is governed by the law of the state of enforcement (Art. 82(1) and 82(3) UPCA). They are directly enforceable from service (R. 354.1 RoP), but the Court may make enforcement subject to the provision of security (Art. 82(2) UPCA, R. 352 RoP). There are two hurdles before a decision on the merits can be enforced: the claimant must notify the Court **which part** of the orders it intends to enforce (Notice of intention to enforce) and, where necessary, file a certified translation into the official language of the state of enforcement; only when this notice has been served on the defendant does the order become enforceable against it (R. 118.8 RoP). The UPC's real means of pressure is the **penalty payment**: orders may provide for recurring penalty payments payable to the Court in the event of non-compliance (R. 354.3 RoP, Art. 82(4) UPCA); where non-compliance is alleged, the panel of the Court of First Instance sets the penalty payment on request or of its own motion (R. 354.4 RoP), after hearing both parties in the procedure under R. 264 RoP. The Court of Appeal brought order to the system in Kodak/Fujifilm: penalty payment ordered in the decision or subsequently, determined per period, item or act, deterrent but proportionate. If the enforced order is later set aside, this has retroactive effect (Art. 75(1) UPCA) – and the party against whom it was enforced may claim compensation for the damage caused by the enforcement (R. 354.2 RoP).",
+  "_de": "75e3242d43"
+ },
+ "gruppe:u07c-1": {
+  "titel": "The forgotten penalty",
+  "sachverhalt": "The local division grants an injunction against Kodak without ordering a penalty payment. Kodak continues to supply. Fujifilm requests that the order be supplemented subsequently with a penalty payment of EUR 50,000 per infringement.",
+  "_de": "6c9465a301"
+ },
+ "einheit:u07c-1a": {
+  "titel": "Subsequent penalty order",
+  "frage": "Can the local division order the penalty payment subsequently in a separate order?",
+  "loesung": [
+   "**Yes!** Under R. 354.3 RoP, an order may provide for penalty payments in case a party fails to comply with its terms \"or an **earlier** order\". The penalty can therefore exceptionally be ordered later; as a rule, for reasons of legal certainty, it is included in the decision (UPC CoA Kodak/Fujifilm)."
+  ],
+  "merke": "R. 354.3 RoP: penalty payment in the decision or subsequently.",
+  "abschnitt": "R. 354.3 and 354.4 RoP: ordering and setting penalty payments",
+  "_de": "6dc14a3c75"
+ },
+ "einheit:u07c-1b": {
+  "titel": "No appeal needed",
+  "frage": "Does Fujifilm need to appeal the decision for this?",
+  "loesung": [
+   "**No!** A later request to order a penalty payment does not require an appeal against the decision on the merits, even if an earlier request was rejected. Circumstances may change and justify a new assessment (UPC CoA Kodak/Fujifilm)."
+  ],
+  "abschnitt": "R. 354.3 and 354.4 RoP: ordering and setting penalty payments",
+  "_de": "dc8c795347"
+ },
+ "einheit:u07c-1c": {
+  "titel": "Amount",
+  "frage": "By what standard does the Court set the amount?",
+  "optionen": [
+   "By Fujifilm's damage",
+   "By Kodak's profit",
+   "Deterrent, but proportionate to the importance of the order"
+  ],
+  "loesung": [
+   "The Court sets the amount having regard to the importance of the order (R. 354.3 RoP). It must be **deterrent** enough to create pressure, but remain within reasonable limits, i.e. be **proportionate** (UPC CoA Kodak/Fujifilm)."
+  ],
+  "abschnitt": "R. 354.3 and 354.4 RoP: ordering and setting penalty payments",
+  "_de": "234e97b9be"
+ },
+ "einheit:u07c-1d": {
+  "titel": "Specificity",
+  "frage": "Must the penalty order specify what triggers the payment?",
+  "loesung": [
+   "**Yes!** The order defines the triggering event: as a lump sum or, preferably, per period, item or act, where appropriate with a maximum amount that can be increased later. If compliance is not required immediately, the decision also states the time limit for compliance (UPC CoA Kodak/Fujifilm)."
+  ],
+  "abschnitt": "R. 354.3 and 354.4 RoP: ordering and setting penalty payments",
+  "_de": "592baa0b26"
+ },
+ "einheit:u07c-1e": {
+  "titel": "Panel",
+  "frage": "Can the judge-rapporteur alone set the penalty payment that has become due?",
+  "loesung": [
+   "**No!** The **panel** decides on setting penalty payments under R. 354.4 RoP (UPC CoA Hybridgenerator/Infotech). It first hears both parties (R. 264 RoP)."
+  ],
+  "abwandlung": "Fujifilm alleges new infringements and requests that the penalty payment be set.",
+  "abschnitt": "R. 354.3 and 354.4 RoP: ordering and setting penalty payments",
+  "_de": "61b206afbe"
+ },
+ "gruppe:u07c-2": {
+  "titel": "Geoblocking on the marketplace",
+  "sachverhalt": "Lepu is prohibited from offering and placing on the market heart occluders in three states. Lepu supplies descriptions, images and prices to a sales platform. For these states, Lepu blocks only the purchase option; the product pages remain accessible.",
+  "_de": "651e76ee9c"
+ },
+ "einheit:u07c-2a": {
+  "titel": "Control of third parties",
+  "frage": "Can Lepu shift responsibility for the platform to its operator?",
+  "loesung": [
+   "**No!** The addressee of a prohibition must **control third parties** to whom it delegates tasks. If it supplies the content itself, it must ensure that the content does not breach the order (UPC CoA Lepu/Occlutech)."
+  ],
+  "merke": "Whoever supplies content to a platform is responsible for it.",
+  "abschnitt": "R. 354.4 RoP: what compliance requires",
+  "_de": "9f1c9d0019"
+ },
+ "einheit:u07c-2b": {
+  "titel": "Geoblocking",
+  "frage": "Is blocking the purchase option sufficient to comply with the prohibition?",
+  "loesung": [
+   "**No!** Offering and placing on the market are independent acts of use (Art. 25(a) UPCA), and both are prohibited. The accessible product page remains an offer for the prohibited territories (UPC CoA Lepu/Occlutech)."
+  ],
+  "abschnitt": "R. 354.4 RoP: what compliance requires",
+  "_de": "57d5b8cc05"
+ },
+ "einheit:u07c-2c": {
+  "titel": "Concept of offering",
+  "frage": "Can a presentation without a price already be an \"offer\"?",
+  "loesung": [
+   "**Yes!** Offering is to be understood in economic terms. A presentation in response to which viewers can make an offer to acquire the product is sufficient; a price and readiness to deliver are not required (UPC CoA Belkin/Philips)."
+  ],
+  "abschnitt": "R. 354.4 RoP: what compliance requires",
+  "_de": "7ec1a969c4"
+ },
+ "einheit:u07c-2d": {
+  "titel": "Disclaimer",
+  "frage": "Can a disclaimer on the website be sufficient?",
+  "loesung": [
+   "**Yes!** An accurate **website disclaimer** can be sufficient if no visitor can reasonably understand the content as an offer for the prohibited territories (UPC CoA Lepu/Occlutech)."
+  ],
+  "abwandlung": "Lepu adds clearly: \"Not available in Germany, France and the Netherlands.\"",
+  "abschnitt": "R. 354.4 RoP: what compliance requires",
+  "_de": "dfc6f7a150"
+ },
+ "gruppe:u07c-3": {
+  "titel": "Appeal against the penalty payment",
+  "sachverhalt": "The local division sets a penalty payment against EOFlow for breaches of a provisional measure and does not grant leave to appeal. EOFlow files an appeal within 15 days.",
+  "_de": "598fe2deb4"
+ },
+ "einheit:u07c-3a": {
+  "titel": "Separate legal basis",
+  "frage": "Does the setting of a penalty payment have its own legal basis in the law of enforcement?",
+  "loesung": [
+   "**Yes!** The setting is based on Art. 82(4) UPCA and R. 354.4 RoP, i.e. on a separate legal basis in the law of enforcement, even though it enforces a provisional measure (UPC CoA EOFlow/Insulet)."
+  ],
+  "abschnitt": "Art. 73 UPCA: remedies against the penalty payment",
+  "_de": "4db4e5e29b"
+ },
+ "einheit:u07c-3b": {
+  "titel": "No appeal as of right",
+  "frage": "Is the appeal admissible without leave?",
+  "loesung": [
+   "**No!** Only orders under Art. 49(5), 59 to 62 and 67 UPCA can be appealed without leave (Art. 73(2)(a) UPCA, R. 220.1(c) RoP). For the setting of penalty payments, R. 354.4 RoP expressly refers to R. 220.2 RoP (UPC CoA EOFlow/Insulet)."
+  ],
+  "merke": "Setting of penalty payments: appeal only under R. 220.2 RoP.",
+  "abschnitt": "Art. 73 UPCA: remedies against the penalty payment",
+  "_de": "4331331291"
+ },
+ "einheit:u07c-3c": {
+  "titel": "Discretionary review",
+  "frage": "What route remains open to EOFlow?",
+  "optionen": [
+   "Request for discretionary review to the Court of Appeal",
+   "Objection to the local division",
+   "Action before the national enforcement court"
+  ],
+  "loesung": [
+   "If the Court of First Instance refuses leave, EOFlow can request a **discretionary review** from the Court of Appeal within 15 calendar days (R. 220.3 RoP). The standing judge decides on it (R. 220.4 RoP)."
+  ],
+  "abschnitt": "Art. 73 UPCA: remedies against the penalty payment",
+  "_de": "bc53507dca"
+ },
+ "gruppe:u07c-4": {
+  "titel": "Set aside – and the penalty payments?",
+  "sachverhalt": "Kodak was ordered to cease and desist; penalty payments have been set for three breaches. On Kodak's appeal, the Court of Appeal sets aside the injunction.",
+  "_de": "41344837f8"
+ },
+ "einheit:u07c-4a": {
+  "titel": "Retroactive effect",
+  "frage": "Does setting the order aside have retroactive effect?",
+  "loesung": [
+   "**Yes!** Setting aside under Art. 75(1) UPCA, R. 242.1 RoP as a rule has **retroactive** effect: the order is deemed never to have been effective (UPC CoA Kodak/Fujifilm 2026)."
+  ],
+  "abschnitt": "Art. 75 UPCA, R. 354.2 RoP: setting aside",
+  "_de": "547a92526d"
+ },
+ "einheit:u07c-4b": {
+  "titel": "Penalty payments fall away",
+  "frage": "Do the penalty payments for breaches before the order was set aside remain in place?",
+  "loesung": [
+   "**No!** With the order, the basis for every penalty payment decision falls away, including for breaches before it was set aside (UPC CoA Kodak/Fujifilm 2026)."
+  ],
+  "merke": "Setting aside has retroactive effect: the penalty payments fall with the order.",
+  "abschnitt": "Art. 75 UPCA, R. 354.2 RoP: setting aside",
+  "_de": "d4429bc92d"
+ },
+ "einheit:u07c-4c": {
+  "titel": "Enforcement costs",
+  "frage": "Must Kodak bear enforcement costs because it complied too late?",
+  "loesung": [
+   "**No!** Retroactively, Kodak was under no obligation. Whether it caused unnecessary enforcement costs cannot be assessed on the basis of a decision that was never effective (UPC CoA Kodak/Fujifilm 2026)."
+  ],
+  "abschnitt": "Art. 75 UPCA, R. 354.2 RoP: setting aside",
+  "_de": "44d4f7c6dc"
+ },
+ "einheit:u07c-4d": {
+  "titel": "Damage caused by enforcement",
+  "frage": "Can Kodak claim compensation for the damage caused by the enforcement?",
+  "loesung": [
+   "**Yes!** If an enforced decision is set aside, the Court may, on request, order the party that enforced it to provide appropriate compensation for the damage caused by the enforcement (R. 354.2 RoP)."
+  ],
+  "abschnitt": "Art. 75 UPCA, R. 354.2 RoP: setting aside",
+  "_de": "31370ecb71"
+ },
+ "einheit:u07c-4e": {
+  "titel": "Value of the dispute",
+  "frage": "Is the value of the dispute in the appeal determined by the sum of the penalty payments?",
+  "loesung": [
+   "**No!** What matters is the interest of the party that initiated the enforcement proceedings (R. 370.6 RoP). The penalty payments go to the Court and do not measure this interest (UPC CoA Kodak/Fujifilm 2026)."
+  ],
+  "abschnitt": "Art. 75 UPCA, R. 354.2 RoP: setting aside",
+  "_de": "a0c371c3cc"
+ }
+}

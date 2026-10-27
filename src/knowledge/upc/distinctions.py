@@ -41,7 +41,7 @@ DISTINCTIONS = [
          spalten=["Verletzungsklage", "Einstweilige Maßnahmen"],
          rows=[
              ["Art. 32 Abs. 1 lit. a, Art. 63 ff. EPGÜ; R. 12 bis 118 VerfO", "Art. 32 Abs. 1 lit. c, Art. 62 EPGÜ; R. 205 bis 213 VerfO"],
-             ["Volle Überzeugung nach Beweisaufnahme (Art. 54 EPGÜ)", "Hinreichende Sicherheit = überwiegende Wahrscheinlichkeit (R. 211.2 VerfO; NanoString/10x)"],
+             ["Volle Überzeugung des Gerichts nach Beweisaufnahme; Beweislast bei der Partei, die sich auf die Tatsache beruft (Art. 54 EPGÜ)", "Hinreichende Sicherheit = überwiegende Wahrscheinlichkeit (R. 211.2 VerfO; NanoString/10x)"],
              ["Nur als Widerklage auf Nichtigerklärung (R. 25 VerfO); Optionen des Art. 33 Abs. 3 EPGÜ", "Einwand ohne eigene Klage; Beweislast beim Antragsgegner; Verzicht jederzeit möglich (Merz/Viatris)"],
              ["Keine", "Unangemessene Verzögerung schadet (R. 211.4 VerfO); Hauptsache darf nicht abwartbar sein (Biolitec)"],
              ["Immer schriftliches Verfahren mit Erwiderung (drei Monate)", "Regel: Anhörung; ausnahmsweise ex parte (R. 212 VerfO) mit Offenlegungspflicht (R. 206.4 VerfO)"],

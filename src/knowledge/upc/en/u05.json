@@ -1,0 +1,593 @@
+{
+ "kurs:u05": {
+  "titel": "Provisional measures, preservation of evidence, confidentiality",
+  "untertitel": "Art. 58 to 62 UPCA, R. 190 to 213 and 262, 262A RoP",
+  "beschreibung": "Interim relief before the UPC, element by element: sufficient degree of certainty and burden of proof (NanoString/10x), necessity and the time factor (Biolitec/Lightguide), urgency (Barco/Yealink, Nokia/Sunmi), invalidity defence without a counterclaim (Merz/Viatris), scope of the order (Dyson/Dreame), protective letters and ex parte orders (Ecovacs/Roborock), preservation of evidence (Centripetal/Palo Alto), orders to produce evidence under R. 190 RoP, and confidentiality and access to the file (Ericsson/ASUS, EOFlow/Insulet, SharkNinja/SEB, Gowling/Boehringer).",
+  "_de": "1aad692dd5"
+ },
+ "kapitel:u05a": {
+  "titel": "Art. 62 UPCA, R. 205 to 213 RoP: provisional measures",
+  "_de": "3a1af04597"
+ },
+ "einheit:u05a-0": {
+  "titel": "Examination scheme: application for provisional measures",
+  "text": "Interim proceedings are summary, but not informal: the application must contain the particulars under R. 206.2 RoP; the merits follow R. 211 RoP and Art. 62(2), 62(4) UPCA. Four questions carry the examination: Is the Court sufficiently certain that the applicant is entitled and that the patent is infringed (R. 211.2 RoP)? Is the patent valid? Is the measure necessary, and does it withstand the balancing of interests (R. 211.3 RoP)? Has the applicant delayed unreasonably (R. 211.4 RoP)?",
+  "abschnitt": "Overview",
+  "_de": "b1266295a9"
+ },
+ "gruppe:u05a-1": {
+  "titel": "Who bears the burden of proof for invalidity?",
+  "sachverhalt": "10x Genomics applies to the Munich Local Division for provisional measures against NanoString. NanoString contests validity: 10x must prove that the patent is valid with a probability bordering on certainty.",
+  "_de": "93f4264f7e"
+ },
+ "einheit:u05a-1a": {
+  "titel": "More likely than not",
+  "frage": "What degree of conviction does the “sufficient degree of certainty” under R. 211.2 RoP require?",
+  "optionen": [
+   "A probability bordering on certainty",
+   "At least more likely than not",
+   "A mere possibility",
+   "Full conviction as in the main proceedings"
+  ],
+  "loesung": [
+   "The second answer is correct. Under R. 211.2 RoP, Art. 62(4) UPCA and Art. 9(3) IPRED, the Court must consider it **at least more likely than not** that the applicant is entitled and that the patent is infringed (NanoString/10x)."
+  ],
+  "abschnitt": "R. 211.2 RoP: sufficient degree of certainty",
+  "_de": "f0641df164"
+ },
+ "einheit:u05a-1b": {
+  "titel": "Burden on the applicant",
+  "frage": "Does 10x bear the burden of proof for entitlement and infringement?",
+  "loesung": [
+   "**Yes!** The **applicant** bears the burden of presentation and proof for entitlement and infringement (NanoString/10x)."
+  ],
+  "abschnitt": "R. 211.2 RoP: sufficient degree of certainty",
+  "_de": "953c78d53a"
+ },
+ "einheit:u05a-1c": {
+  "titel": "Burden on the defendant",
+  "frage": "Must 10x also prove that the patent is valid?",
+  "loesung": [
+   "**No!** The **defendant** bears the burden for lack of validity. A sufficient degree of certainty is lacking only if the Court considers it **more likely than not** that the patent is not valid (NanoString/10x)."
+  ],
+  "merke": "More likely than not on both sides: the applicant proves infringement, the defendant proves invalidity.",
+  "abschnitt": "R. 211.2 RoP: sufficient degree of certainty",
+  "_de": "db51f1196b"
+ },
+ "einheit:u05a-1d": {
+  "titel": "Summary proceedings",
+  "frage": "Would a standard of probability bordering on certainty be compatible with interim proceedings?",
+  "loesung": [
+   "**No!** Such a standard would be incompatible with the **summary** nature of the proceedings (NanoString/10x)."
+  ],
+  "abschnitt": "R. 211.2 RoP: sufficient degree of certainty",
+  "_de": "fee5a60271"
+ },
+ "einheit:u05a-1e": {
+  "titel": "R. 206.2 RoP: merits",
+  "frage": "Do the particulars under R. 206.2(b) to 206.2(e) RoP concern the merits?",
+  "loesung": [
+   "**Yes!** The requirements of R. 206.2(b) to 206.2(e) RoP concern the **merits**, not admissibility (NanoString/10x)."
+  ],
+  "abschnitt": "R. 211.2 RoP: sufficient degree of certainty",
+  "_de": "09246891c2"
+ },
+ "gruppe:u05a-2": {
+  "titel": "A market that has existed for years",
+  "sachverhalt": "Biolitec applies for provisional measures against Lightguide concerning a laser system for vein treatment. Lightguide has been selling it for years, long before the patent was granted; market shares are stable. Biolitec merely points out that every infringement causes harm.",
+  "_de": "f9c5bdcc13"
+ },
+ "einheit:u05a-2a": {
+  "titel": "Necessity",
+  "frage": "Are provisional measures necessary as soon as infringement is likely?",
+  "loesung": [
+   "**No!** They are only available if, by the nature of the case, **the main proceedings cannot be awaited**. If they can be awaited, the measures are not necessary, because the proceedings on the merits offer more procedural safeguards (Biolitec/Lightguide)."
+  ],
+  "abschnitt": "R. 211.3 RoP: necessity and balancing",
+  "_de": "65983accaf"
+ },
+ "einheit:u05a-2b": {
+  "titel": "Time factor",
+  "frage": "Does the Court also take the time factor into account when balancing the interests?",
+  "loesung": [
+   "**Yes!** In the balancing under Art. 62(2) UPCA, R. 211.3 RoP, the **time factor** counts alongside the threatened harm (Biolitec/Lightguide)."
+  ],
+  "abschnitt": "R. 211.3 RoP: necessity and balancing",
+  "_de": "4543b36654"
+ },
+ "einheit:u05a-2c": {
+  "titel": "General harm is not enough",
+  "frage": "Is it enough to point out that every infringement causes harm?",
+  "loesung": [
+   "**No!** A general reference to the harm caused by any infringement is not sufficient (Biolitec/Lightguide)."
+  ],
+  "abschnitt": "R. 211.3 RoP: necessity and balancing",
+  "_de": "dba2885e91"
+ },
+ "einheit:u05a-2d": {
+  "titel": "What must be shown",
+  "frage": "What would Biolitec have to show?",
+  "optionen": [
+   "That the patent is particularly valuable",
+   "That Lightguide is acting culpably",
+   "Why market shares or prices cannot be protected until the main proceedings",
+   "That Lightguide is insolvent"
+  ],
+  "loesung": [
+   "The third answer is correct. If measures are to change a market situation that became established years before grant, the applicant must explain why protecting its **market shares or prices** cannot wait until the main proceedings (Biolitec/Lightguide)."
+  ],
+  "merke": "Necessity means: the main proceedings cannot be awaited; a long-established market situation speaks against it.",
+  "abschnitt": "R. 211.3 RoP: necessity and balancing",
+  "_de": "3d4292058c"
+ },
+ "einheit:u05a-2e": {
+  "titel": "Unfounded, not inadmissible",
+  "frage": "Is the application rejected as inadmissible?",
+  "loesung": [
+   "**No!** Lack of necessity is a question of the **merits**; the application is to be dismissed as unfounded. Biolitec can still bring an infringement action."
+  ],
+  "abschnitt": "R. 211.3 RoP: necessity and balancing",
+  "_de": "1a35c22ab9"
+ },
+ "gruppe:u05a-3": {
+  "titel": "Urgency and threatened infringement",
+  "sachverhalt": "In January, P-AG learns of a product of W-GmbH that allegedly infringes its patent. It waits to see whether W-GmbH will modify the product and applies for provisional measures only in July. It has not sent a warning letter.",
+  "_de": "4930e6de30"
+ },
+ "einheit:u05a-3a": {
+  "titel": "Start of the period",
+  "frage": "From when does the Court count a delay under R. 211.4 RoP?",
+  "optionen": [
+   "From knowledge, or when the applicant should have known, of the infringement",
+   "From grant of the patent",
+   "From the first warning letter",
+   "From the product's market entry in all states"
+  ],
+  "loesung": [
+   "The first answer is correct. The Court takes into account any **unreasonable delay**, counted from the time when the applicant **became aware, or should have become aware,** of the infringement (R. 211.4 RoP)."
+  ],
+  "abschnitt": "R. 211.4 RoP, Art. 62(1) UPCA: urgency and threatened infringement",
+  "_de": "ff4de44428"
+ },
+ "einheit:u05a-3b": {
+  "titel": "No waiting",
+  "frage": "Was P-AG entitled to wait and see whether W-GmbH would modify its product?",
+  "loesung": [
+   "**No!** Possible product modifications by the opponent do **not justify a delay** (Barco/Yealink)."
+  ],
+  "merke": "Whoever waits for a product modification loses urgency.",
+  "abschnitt": "R. 211.4 RoP, Art. 62(1) UPCA: urgency and threatened infringement",
+  "_de": "661f45c51d"
+ },
+ "einheit:u05a-3c": {
+  "titel": "No duty to send a warning letter",
+  "frage": "Is a warning letter a prerequisite for the application?",
+  "loesung": [
+   "**No!** A warning letter is a requirement neither of admissibility nor of the merits, and its absence does not remove urgency (Dolby/Roku)."
+  ],
+  "abschnitt": "R. 211.4 RoP, Art. 62(1) UPCA: urgency and threatened infringement",
+  "_de": "b78e40ea6d"
+ },
+ "einheit:u05a-3d": {
+  "titel": "Cost risk",
+  "frage": "Can the lack of a warning letter nevertheless harm P-AG?",
+  "loesung": [
+   "**Yes!** If the opponent immediately acknowledges the claim, the lack of a warning letter can lead to the **applicant bearing the costs** (LD Munich, Dolby/Roku)."
+  ],
+  "abschnitt": "R. 211.4 RoP, Art. 62(1) UPCA: urgency and threatened infringement",
+  "_de": "b42dd60750"
+ },
+ "einheit:u05a-3e": {
+  "titel": "Threatened infringement",
+  "frage": "Is an infringement threatened within the meaning of Art. 62(1) UPCA for that reason alone?",
+  "loesung": [
+   "**No!** An infringement is **threatened** only if there are concrete, serious and tangible indications that the opponent will act unlawfully in the near future. The act must be concretely foreseeable and depend only on the opponent's will (LD Munich, Nokia/Sunmi)."
+  ],
+  "abwandlung": "W-GmbH has not yet offered anything, but has the means of production and know-how in the same field.",
+  "abschnitt": "R. 211.4 RoP, Art. 62(1) UPCA: urgency and threatened infringement",
+  "_de": "7e3b39fb89"
+ },
+ "gruppe:u05a-4": {
+  "titel": "The abandoned invalidity defence",
+  "sachverhalt": "In Merz's interim proceedings against Viatris, Viatris challenges the validity of the patent on the basis of several prior art documents. Shortly before the oral hearing, Viatris declares that it no longer relies on the invalidity defence.",
+  "_de": "4eb67509f5"
+ },
+ "einheit:u05a-4a": {
+  "titel": "Defence, not counterclaim",
+  "frage": "Must Viatris bring a counterclaim for revocation in the interim proceedings?",
+  "loesung": [
+   "**No!** In the main proceedings, invalidity must be raised by way of a **counterclaim** (R. 25.1 RoP). In proceedings for provisional measures, by contrast, it is a mere **defence**, not a separate action (Merz/Viatris)."
+  ],
+  "abschnitt": "Validity in interim proceedings",
+  "_de": "9a9294c4b7"
+ },
+ "einheit:u05a-4b": {
+  "titel": "No withdrawal",
+  "frage": "Is abandoning the defence a withdrawal under R. 265 RoP?",
+  "loesung": [
+   "**No!** Because the defence is not an action, abandoning it is neither a withdrawal (R. 265 RoP) nor an amendment of the claim (R. 263 RoP) (Merz/Viatris)."
+  ],
+  "merke": "In interim proceedings, invalidity is a defence, not a counterclaim.",
+  "abschnitt": "Validity in interim proceedings",
+  "_de": "5e3e0f94da"
+ },
+ "einheit:u05a-4c": {
+  "titel": "Remaining basis",
+  "frage": "Does the Court then decide on the remaining basis?",
+  "loesung": [
+   "**Yes!** The parties determine the grounds, facts and evidence (Art. 76(2) UPCA). If a party no longer relies on a submission, the Court decides on the remaining basis (Merz/Viatris)."
+  ],
+  "abschnitt": "Validity in interim proceedings",
+  "_de": "119943b69a"
+ },
+ "einheit:u05a-4d": {
+  "titel": "Costs of the defence",
+  "frage": "Can the Court order Viatris to bear the costs caused by the defence?",
+  "loesung": [
+   "**Yes!** It can order the party that abandons the defence to bear the costs caused by it (Merz/Viatris)."
+  ],
+  "abschnitt": "Validity in interim proceedings",
+  "_de": "bb34c46c1f"
+ },
+ "gruppe:u05a-5": {
+  "titel": "Scope of the order, security, damages",
+  "sachverhalt": "The local division issues a provisional injunction against Dreame because Dreame offered vacuum cleaners that infringe a Dyson patent. Dreame asks for the prohibition to be limited to offering.",
+  "_de": "971b67a60b"
+ },
+ "einheit:u05a-5a": {
+  "titel": "No limitation",
+  "frage": "Must the order be limited to the act actually committed?",
+  "loesung": [
+   "**No!** A limitation to the infringing act committed cannot be derived from Art. 62(1) and Art. 25(a) UPCA (Dyson/Dreame)."
+  ],
+  "abschnitt": "Art. 62(1), 62(5) UPCA, R. 211.5, 213 RoP: content and consequences",
+  "_de": "3016848ff8"
+ },
+ "einheit:u05a-5b": {
+  "titel": "Risk of infringement",
+  "frage": "Does one infringement as a rule create a risk of further infringements through other types of use?",
+  "loesung": [
+   "**Yes!** Whoever has infringed as a rule creates a risk of further infringements, including through types of use not yet engaged in (Dyson/Dreame)."
+  ],
+  "merke": "Whoever offers will also be prohibited from making and putting on the market.",
+  "abschnitt": "Art. 62(1), 62(5) UPCA, R. 211.5, 213 RoP: content and consequences",
+  "_de": "4a2576ce99"
+ },
+ "einheit:u05a-5c": {
+  "titel": "Security",
+  "frage": "Can the Court require Dyson to provide security?",
+  "loesung": [
+   "**Yes!** Under R. 211.5 RoP, the Court may order the applicant to provide security for compensation of the defendant. Unless there are special circumstances against it, the Court makes such an order."
+  ],
+  "abschnitt": "Art. 62(1), 62(5) UPCA, R. 211.5, 213 RoP: content and consequences",
+  "_de": "31b022b511"
+ },
+ "einheit:u05a-5d": {
+  "titel": "Compensation without fault",
+  "frage": "Must Dreame prove fault on the part of Dyson in order to obtain compensation?",
+  "loesung": [
+   "**No!** If the order is revoked or it turns out that there was no infringement, the Court may, at the defendant's request, order the applicant to provide appropriate compensation, **regardless of any fault** on the part of the applicant (Art. 62(5) UPCA in conjunction with Art. 60(9) UPCA, R. 213.2 RoP)."
+  ],
+  "abwandlung": "The order is later revoked because it turns out that there was no infringement.",
+  "abschnitt": "Art. 62(1), 62(5) UPCA, R. 211.5, 213 RoP: content and consequences",
+  "_de": "8170c785ec"
+ },
+ "einheit:u05a-5e": {
+  "titel": "Retroactive effect of revocation",
+  "frage": "Do penalty payments already fixed lose their basis when the order is revoked?",
+  "loesung": [
+   "**Yes!** Revocation has retroactive effect; penalty payments also lose their basis (Kodak/Fujifilm)."
+  ],
+  "abschnitt": "Art. 62(1), 62(5) UPCA, R. 211.5, 213 RoP: content and consequences",
+  "_de": "e0f9a99c51"
+ },
+ "kapitel:u05b": {
+  "titel": "Art. 59, 60 UPCA, R. 190 to 199 RoP: preservation of evidence, production of evidence, ex parte",
+  "_de": "3bd8c5655f"
+ },
+ "einheit:u05b-0": {
+  "titel": "Three instruments, three standards",
+  "text": "The UPCA gives the patent proprietor three routes to evidence in the hands of others. The **order to preserve evidence** under Art. 60 UPCA, R. 192 to 199 RoP (saisie-type detailed description, taking of samples, seizure, inspection of premises by a person appointed by the Court) can be ordered even before the main proceedings and **without hearing** the opponent, if delay is likely to cause irreparable harm or evidence could be destroyed (Art. 60(5) UPCA, R. 197 RoP). The standard is lower than in the main proceedings: “reasonably available evidence” of plausible infringement, but no speculation and no “fishing expedition” (Centripetal/Palo Alto). The **order to produce evidence** under Art. 59 UPCA, R. 190 RoP, by contrast, is an instrument of pending proceedings: a party that has presented all reasonably available evidence and specified particular evidence in the control of the opponent or a third party may request its production; it serves to prove substantiated, relevant and disputed facts, not to discover unknown facts, and is to be combined with confidentiality protection under R. 262A RoP. Both must be distinguished from the **application for provisional measures** (Art. 62 UPCA), which stops the infringement instead of securing evidence. Common to all ex parte orders is the applicant's enhanced **duty of disclosure** (R. 192.3, R. 206.4 RoP; Ecovacs/Roborock) and the defendant's countermeasure: the **protective letter** under R. 207 RoP, which the Court must take into account for provisional measures (R. 209.2(d) RoP); where it concerns the patent of an application to preserve evidence, the applicant may withdraw its application (R. 194.6 RoP). Remedies for the person affected: review (R. 197.3, R. 212.3 RoP), time limit for starting proceedings on the merits (31 calendar days or 20 working days, R. 198.1, R. 213.1 RoP), compensation (Art. 60(9) UPCA).",
+  "abschnitt": "Overview",
+  "_de": "6c63b53397"
+ },
+ "gruppe:u05b-1": {
+  "titel": "Inspection without full proof",
+  "sachverhalt": "Centripetal suspects that Palo Alto's firewalls use a patented packet filtering method. Public documents give a plausible picture, but the decisive processing takes place inside the devices. Centripetal applies for an inspection under Art. 60 UPCA.",
+  "_de": "7eb54ad713"
+ },
+ "einheit:u05b-1a": {
+  "titel": "Lower threshold",
+  "frage": "Must Centripetal prove infringement like a claimant in an infringement action?",
+  "loesung": [
+   "**No!** “Reasonably available evidence” under Art. 60(1) UPCA is a **lower threshold** than the burden of proof of an infringement claimant, especially for aspects to which the applicant has no access (Centripetal/Palo Alto)."
+  ],
+  "abschnitt": "Art. 60 UPCA, R. 192 to 199 RoP: preservation of evidence",
+  "_de": "f04248845c"
+ },
+ "einheit:u05b-1b": {
+  "titel": "Plausibility, not speculation",
+  "frage": "Is a mere suspicion of infringement sufficient?",
+  "loesung": [
+   "**No!** To prevent “fishing expeditions”, the infringement must be **plausible**, especially for orders without hearing the defendant. The standard of proof must be neither too high nor too low (Centripetal/Palo Alto)."
+  ],
+  "merke": "Preservation of evidence: the infringement must be plausible, not proven.",
+  "abschnitt": "Art. 60 UPCA, R. 192 to 199 RoP: preservation of evidence",
+  "_de": "14ed0e42c4"
+ },
+ "einheit:u05b-1c": {
+  "titel": "Result",
+  "frage": "Is the application well founded if the public material shows a plausible infringement?",
+  "loesung": [
+   "**Yes!** The requirements of Art. 60(1) UPCA are then met (Centripetal/Palo Alto)."
+  ],
+  "abschnitt": "Art. 60 UPCA, R. 192 to 199 RoP: preservation of evidence",
+  "_de": "a63dfaeb6d"
+ },
+ "einheit:u05b-1d": {
+  "titel": "Ex parte",
+  "frage": "Can the inspection be ordered without hearing Palo Alto?",
+  "loesung": [
+   "**Yes!** That is possible if a delay would cause irreparable harm or evidence could be destroyed (Art. 60(5) UPCA, R. 197 RoP)."
+  ],
+  "abschnitt": "Art. 60 UPCA, R. 192 to 199 RoP: preservation of evidence",
+  "_de": "6f4e610a09"
+ },
+ "einheit:u05b-1e": {
+  "titel": "Safeguards",
+  "frage": "Must the Court put safeguards in place for Palo Alto?",
+  "loesung": [
+   "**Yes!** Inspections interfere with Art. 7 CFR. Effective safeguards are needed, for example execution by an expert appointed by the Court (R. 196 RoP), restricting the use of the results to the proceedings (R. 196.2 RoP) and confidentiality protection (Centripetal/Palo Alto)."
+  ],
+  "abschnitt": "Art. 60 UPCA, R. 192 to 199 RoP: preservation of evidence",
+  "_de": "e07dc27cfe"
+ },
+ "einheit:u05b-1f": {
+  "titel": "R. 190 RoP: order to produce evidence",
+  "frage": "Does the order to produce evidence under R. 190 RoP serve to discover unknown facts?",
+  "loesung": [
+   "**No!** The order to produce evidence is an instrument of pending proceedings. It serves to prove **substantiated, relevant and disputed** facts, not to discover unknown facts, and is to be combined with confidentiality protection under R. 262A RoP."
+  ],
+  "abwandlung": "Instead, Centripetal requests in the pending infringement action that Palo Alto produce specific documents.",
+  "abschnitt": "Art. 60 UPCA, R. 192 to 199 RoP: preservation of evidence",
+  "_de": "b19fae0574"
+ },
+ "gruppe:u05b-2": {
+  "titel": "What the applicant concealed",
+  "sachverhalt": "Without Roborock being heard, Ecovacs obtains an inspection of Roborock's trade fair stand. In its application, Ecovacs conceals a technical report by Roborock that speaks against infringement, and the fact that Ecovacs had known the products for a long time.",
+  "_de": "06f0f64f44"
+ },
+ "einheit:u05b-2a": {
+  "titel": "Duty of disclosure",
+  "frage": "Must an applicant for an ex parte order also disclose unfavourable facts?",
+  "loesung": [
+   "**Yes!** Under R. 192.3 RoP, the applicant must disclose **all material facts known to it** that might influence the decision on an ex parte order, including facts relating to proportionality (Ecovacs/Roborock)."
+  ],
+  "abschnitt": "R. 192.3, 197, 207 RoP: ex parte and protective letter",
+  "_de": "7bf3f970ef"
+ },
+ "einheit:u05b-2b": {
+  "titel": "More than the duty of truthfulness",
+  "frage": "Does this duty go beyond the general duty of truthfulness?",
+  "loesung": [
+   "**Yes!** The enhanced duty of disclosure applies **in addition to** the general duty of truthfulness under R. 284 RoP, because orders without hearing the defendant raise issues of fair trial (Ecovacs/Roborock)."
+  ],
+  "abschnitt": "R. 192.3, 197, 207 RoP: ex parte and protective letter",
+  "_de": "81284b8e81"
+ },
+ "einheit:u05b-2c": {
+  "titel": "No cure",
+  "frage": "Can Ecovacs cure the gap by supplementary submissions in the review proceedings?",
+  "loesung": [
+   "**No!** Omissions and distorted presentations of material facts **cannot** be remedied by later submissions in the review proceedings under R. 197.3 RoP (Ecovacs/Roborock)."
+  ],
+  "merke": "Ex parte means: disclose everything material; supplementing later does not cure.",
+  "abschnitt": "R. 192.3, 197, 207 RoP: ex parte and protective letter",
+  "_de": "aaebf613d4"
+ },
+ "einheit:u05b-2d": {
+  "titel": "Revocation",
+  "frage": "Must the order be revoked?",
+  "loesung": [
+   "**Yes!** The concealed report and the long-standing knowledge concern the plausibility of the infringement, urgency and the proportionality of the ex parte order."
+  ],
+  "abschnitt": "R. 192.3, 197, 207 RoP: ex parte and protective letter",
+  "_de": "f93b2eb04c"
+ },
+ "einheit:u05b-2e": {
+  "titel": "Protective letter",
+  "frage": "Could Roborock have protected itself in advance?",
+  "loesung": [
+   "**Yes!** With a **protective letter** under R. 207 RoP. It is aimed at provisional measures, which the Court then examines taking the protective letter into account (R. 209.2(d) RoP); for an order to preserve evidence, the applicant may withdraw its application if a protective letter has been filed for its patent (R. 194.6 RoP)."
+  ],
+  "abschnitt": "R. 192.3, 197, 207 RoP: ex parte and protective letter",
+  "_de": "19c1f6348b"
+ },
+ "kapitel:u05c": {
+  "titel": "Art. 58 UPCA, R. 262, 262A RoP: confidentiality and access to the file",
+  "_de": "ad3c5342a9"
+ },
+ "einheit:u05c-0": {
+  "titel": "Two rules, two directions",
+  "text": "Proceedings before the UPC are public (Art. 45 UPCA): decisions are published, and written pleadings and evidence are available to third parties upon reasoned request (R. 262.1(b) RoP). The request must be made to the instance at which the documents were lodged; the Court of Appeal consults the first-instance file under R. 222.1 RoP without making copies (Gowling/Boehringer). Whoever requests access to the file must be represented (Art. 48 UPCA). **R. 262.2 RoP** allows a party to mark certain information as confidential vis-à-vis the **public**. To be distinguished from this is **R. 262A RoP** (Art. 58 UPCA): it restricts access to information or evidence **vis-à-vis the other party** to specific persons. The application must be made when the document is lodged and must state reasons (R. 262A.2, 262A.3 RoP); general circumstances such as the competitive relationship are not sufficient (LD Düsseldorf Fujifilm/Kodak). The Court hears the other side (R. 262A.4 RoP), weighs the right to an effective remedy and a fair trial against the interest in secrecy (R. 262A.5 RoP) and determines the confidentiality club, which must include at least one natural person from each party and their representatives (R. 262A.6 RoP; Ericsson/ASUS). An unchallenged order under R. 262A RoP continues to apply beyond the instance (Curio/10x). Whoever discloses secrets without such an order loses protection: a request under R. 262.2 RoP does not protect against the other party (EOFlow/Insulet).",
+  "abschnitt": "Overview",
+  "_de": "02f9f07741"
+ },
+ "gruppe:u05c-1": {
+  "titel": "External eyes only?",
+  "sachverhalt": "In infringement proceedings against ASUS, Ericsson submits licence agreements with third parties and requests under R. 262A RoP that access be restricted to ASUS's lawyers (“external eyes only”). ASUS names two employees of its licensing department.",
+  "_de": "87a042e4dd"
+ },
+ "einheit:u05c-1a": {
+  "titel": "Balancing",
+  "frage": "What does the Court weigh against each other when making an order under R. 262A RoP?",
+  "optionen": [
+   "Fair trial against the interest in secrecy and possible harm",
+   "Only the value of the information",
+   "Only the applicant's wishes",
+   "The number of lawyers on the other side"
+  ],
+  "loesung": [
+   "The first answer is correct. The Court must weigh the right to an **effective remedy and a fair trial**, the legitimate interests of the parties and of third parties, and possible harm (R. 262A.5 RoP; Ericsson/ASUS)."
+  ],
+  "abschnitt": "R. 262A.5, 262A.6 RoP: confidentiality club",
+  "_de": "c9ef80f0c3"
+ },
+ "einheit:u05c-1b": {
+  "titel": "At least one person",
+  "frage": "Must the confidentiality club include at least one natural person from each party?",
+  "loesung": [
+   "**Yes!** The club must not be larger than necessary, but must include **at least one natural person from each party** and their representatives (R. 262A.6 RoP)."
+  ],
+  "abschnitt": "R. 262A.5, 262A.6 RoP: confidentiality club",
+  "_de": "d952d19ca5"
+ },
+ "einheit:u05c-1c": {
+  "titel": "Employees not excluded",
+  "frage": "Does the status as an employee of a competitor alone justify exclusion?",
+  "loesung": [
+   "**No!** Employee status alone does not justify exclusion. As a rule, the party's interest in having **at least one employee** with full access prevails (Ericsson/ASUS)."
+  ],
+  "merke": "“External eyes only” is the exception; at least one employee of each party belongs in the club.",
+  "abschnitt": "R. 262A.5, 262A.6 RoP: confidentiality club",
+  "_de": "7a38bd7279"
+ },
+ "einheit:u05c-1d": {
+  "titel": "Role, relevance, trustworthiness",
+  "frage": "On what basis does the Court decide whether a particular person is given access?",
+  "optionen": [
+   "Seniority",
+   "The other side's consent",
+   "Role, relevance of the information and trustworthiness",
+   "The person's place of residence"
+  ],
+  "loesung": [
+   "The third answer is correct. What matters is the person's **role** in the proceedings, the **relevance** of the information to that role and the person's **trustworthiness** (Ericsson/ASUS)."
+  ],
+  "abschnitt": "R. 262A.5, 262A.6 RoP: confidentiality club",
+  "_de": "8fd4d36a65"
+ },
+ "einheit:u05c-1e": {
+  "titel": "Conditions",
+  "frage": "Can the Court make the employees' access subject to conditions?",
+  "loesung": [
+   "**Yes!** The club can include the named employees, where appropriate subject to conditions such as an undertaking and a restriction on use. Former employees can also be admitted under conditions (Ericsson/ASUS)."
+  ],
+  "abschnitt": "R. 262A.5, 262A.6 RoP: confidentiality club",
+  "_de": "1a3799ef06"
+ },
+ "gruppe:u05c-3": {
+  "titel": "Market data from a data provider",
+  "sachverhalt": "On appeal against SEB, SharkNinja submits sales data on kitchen appliances supplied by a data provider for a fee, and requests protection under R. 262A RoP. SEB considers the data not confidential because anyone can buy them.",
+  "_de": "be0e1669a3"
+ },
+ "einheit:u05c-3a": {
+  "titel": "Other confidential information too",
+  "frage": "Does R. 262A RoP protect only trade secrets?",
+  "loesung": [
+   "**No!** R. 262 and R. 262A RoP cover not only trade secrets but also **other confidential information** (Art. 58 UPCA: trade secrets, personal data or other confidential information) (SharkNinja/SEB)."
+  ],
+  "abschnitt": "Art. 58 UPCA: confidential information",
+  "_de": "2f909bcb98"
+ },
+ "einheit:u05c-3b": {
+  "titel": "Three elements",
+  "frage": "What are the elements of a trade secret?",
+  "optionen": [
+   "It is protected by law and registered",
+   "It is not readily accessible, has value because it is secret, and is reasonably protected",
+   "It originates from the party itself",
+   "It is older than five years"
+  ],
+  "loesung": [
+   "The second answer is correct. Under Art. 39(2) TRIPS, the information is **not generally known or readily accessible**, has **commercial value because it is secret**, and is subject to **reasonable steps to keep it secret** (SharkNinja/SEB)."
+  ],
+  "abschnitt": "Art. 58 UPCA: confidential information",
+  "_de": "99d2fd9e78"
+ },
+ "einheit:u05c-3c": {
+  "titel": "Purchased data",
+  "frage": "Are the data confidential even though anyone can acquire them for payment?",
+  "loesung": [
+   "**Yes!** The fact that companies **pay** for access shows that the data are not readily accessible and have value. The provider granting access only for a fee and for the agreed purpose constitutes reasonable steps to keep them secret (SharkNinja/SEB)."
+  ],
+  "merke": "Purchased market data can be confidential: the price proves that they are not freely accessible.",
+  "abschnitt": "Art. 58 UPCA: confidential information",
+  "_de": "b107784080"
+ },
+ "einheit:u05c-3d": {
+  "titel": "Description in the application",
+  "frage": "Must SharkNinja describe the data in detail in the application?",
+  "loesung": [
+   "**No!** Describing them as sales data from a third-party provider is sufficient; a more detailed description is not necessary, particularly since the documents in the CMS were provisionally accessible only to the main representative (SharkNinja/SEB)."
+  ],
+  "abschnitt": "Art. 58 UPCA: confidential information",
+  "_de": "e1309594d0"
+ },
+ "einheit:u05c-3e": {
+  "titel": "Marketing in the club",
+  "frage": "May two marketing employees of SEB also join the club?",
+  "loesung": [
+   "**Yes!** The data also concern SEB's own products; SEB has an interest in examining them, and marketing employees are best placed to do so. Since the data are not highly confidential, the Court of Appeal admitted four persons: two from marketing, two from the legal department (SharkNinja/SEB)."
+  ],
+  "abschnitt": "Art. 58 UPCA: confidential information",
+  "_de": "48f22d6c04"
+ },
+ "gruppe:u05c-2": {
+  "titel": "The request that does not protect",
+  "sachverhalt": "In its Statement of defence, EOFlow lodges internal design documents and requests under R. 262.2 RoP that they be treated as confidential. EOFlow does not apply for an order under R. 262A RoP; the documents go to Insulet unredacted.",
+  "_de": "43aa868739"
+ },
+ "einheit:u05c-2a": {
+  "titel": "Protection against the public",
+  "frage": "Does the request under R. 262.2 RoP protect the documents against the public?",
+  "loesung": [
+   "**Yes!** R. 262.2 RoP protects vis-à-vis the **public**, that is, against the register and access to the file by third parties (R. 262.1(b) RoP)."
+  ],
+  "abschnitt": "R. 262, 262A RoP: public and other party",
+  "_de": "f2ec4c9ce2"
+ },
+ "einheit:u05c-2b": {
+  "titel": "No protection against the other party",
+  "frage": "Does it also protect against disclosure by Insulet?",
+  "loesung": [
+   "**No!** Access by the **other party** is restricted only by an order under **R. 262A RoP** or some other restriction, such as an agreement or an undertaking (EOFlow/Insulet)."
+  ],
+  "merke": "R. 262.2 RoP protects against the public, R. 262A RoP against the other party.",
+  "abschnitt": "R. 262, 262A RoP: public and other party",
+  "_de": "cab182f014"
+ },
+ "einheit:u05c-2c": {
+  "titel": "Loss of secrecy",
+  "frage": "Do the documents lose their secret character through the unprotected disclosure?",
+  "loesung": [
+   "**Yes!** Trade secrets and other confidential information lose their character if they are disclosed to the other party **without restriction** (EOFlow/Insulet)."
+  ],
+  "abschnitt": "R. 262, 262A RoP: public and other party",
+  "_de": "8c06a8acdb"
+ },
+ "einheit:u05c-2d": {
+  "titel": "Timing and reasons",
+  "frage": "When and how should EOFlow have made the application under R. 262A RoP?",
+  "optionen": [
+   "When lodging the document, with specific reasons",
+   "At any time up to the oral hearing",
+   "Only after disclosure by the other side",
+   "In any form, if it refers to the competitive relationship"
+  ],
+  "loesung": [
+   "The first answer is correct. The application must be made **when the document is lodged** and must be substantiated with reasons (R. 262A.2, 262A.3 RoP). General circumstances such as the competitive relationship are not sufficient (LD Düsseldorf, Fujifilm/Kodak)."
+  ],
+  "abschnitt": "R. 262, 262A RoP: public and other party",
+  "_de": "315d8428f3"
+ },
+ "einheit:u05c-2e": {
+  "titel": "No cure",
+  "frage": "Can EOFlow restore the protection subsequently?",
+  "loesung": [
+   "**No!** The loss caused by the unprotected disclosure cannot be reversed subsequently."
+  ],
+  "abschnitt": "R. 262, 262A RoP: public and other party",
+  "_de": "b63dd7f9c4"
+ }
+}

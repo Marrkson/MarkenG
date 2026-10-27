@@ -235,6 +235,38 @@ with sync_playwright() as pw:
     check(pg3.evaluate("document.querySelectorAll('#main .toc a').length") > 0 or True, "")
     check(not errs2, f"Navigator pageerror: {errs2[:3]}")
     check(not errs, f"pageerror: {errs[:3]}")
+    # Englische App (docs/en/, nur EPG): Ansichten ohne Fehler, sichtbarer Text ohne deutsche Oberfläche (EPG-Leitsätze dürfen
+    # deutsch sein), alle Chips aufgelöst, gemeinsamer Fortschritt mit der deutschen App, Korpus aus ../ mit englischen Kammern
+    EN = BASE + "en/"
+    DE_WORT = r"\b(?:und|nicht|oder|der|die|das|Fälle|Einheiten|gelöst|fällig|Kurs|Weiter|Zurück|Lernkarte|Tagesziel|Begriffe|Normen|Rechtsprechung|Sachverhalt|Lösung|Merke)\b"
+    errs3 = []; pe = ctx.new_page(); pe.on("pageerror", lambda e: errs3.append(str(e)))
+    pe.goto(EN + "#/"); pe.wait_for_timeout(400)
+    en_units = pe.evaluate("JSON.parse(document.getElementById('kurse-data').textContent).flatMap(k=>k.kapitel.flatMap(c=>c.einheiten.map(e=>e.id)))")
+    en_fall = pe.evaluate("JSON.parse(document.getElementById('kurse-data').textContent).flatMap(k=>k.kapitel.flatMap(c=>c.einheiten)).filter(e=>e.typ==='fall')[5].id")
+    check(en_units and all(u.startswith("u") for u in en_units), "Englische App: nicht nur EPG-Kurse")
+    en_routes = ["#/", "#/kurse", "#/wdh", "#/profil", "#/didaktik", "#/suche", "#/suche/begriffe", "#/suche/richtlinien", "#/suche/entscheidungen", "#/suche/q/opt-out",
+                 "#/karte/eunorm:upca:33", "#/karte/eunorm:rop:262A", "#/karte/eunorm:rop:erwaegungsgruende", "#/karte/eunorm:durchsetzungsrl:9", "#/karte/case:upc_coa_nanostring_10x",
+                 "#/karte/schema:upc_schema_verletzungsklage", "#/karte/distinction:d_upc_entsprechung_durchsetzungsrl", "#/karte/eunorm:epatvo:3", "#/karte/concept:upc_antrag_einheitliche_wirkung",
+                 "#/ende/u01a"] + [f"#/kurs/u{i:02d}" for i in range(1, 11)] + [f"#/lernen/{u}" for u in en_units[::4]]
+    for r in en_routes:
+        pe.goto(EN + r); pe.wait_for_timeout(100)
+        if r.startswith("#/lernen/") and pe.is_visible(".ans"):
+            pe.click(".ans"); pe.wait_for_timeout(80)
+        t = pe.evaluate("(()=>{ const h=[...document.querySelectorAll('details.epg,#epg-inline')]; h.forEach(x=>x.style.display='none'); const t=document.body.innerText; h.forEach(x=>x.style.display=''); return t; })()")
+        hits = sorted(set(__import__("re").findall(DE_WORT, t)))
+        check(not hits, f"en {r}: deutsche Wörter {hits[:6]}")
+        check(pe.evaluate("[...document.querySelectorAll('.chips')].filter(c=>!c.children.length).length") == 0, f"en {r}: leere Chip-Zeilen")
+        check(not pe.evaluate("[...document.querySelectorAll('use')].map(u=>u.getAttribute('href')).filter(h=>!document.querySelector(h))"), f"en {r}: fehlende Symbole")
+    pe.goto(EN + "#/epg"); pe.wait_for_timeout(1500)
+    check(pe.evaluate("document.querySelectorAll('details.epg').length") >= 20, "en: EPG-Korpus nicht geladen")
+    check("Court of Appeal" in pe.inner_text("#ek"), "en: Kammern nicht englisch")
+    ctx5 = b.new_context(); pf = ctx5.new_page()  # frischer Stand, damit der Fortschritt im Cookie liegt (nicht > 4 KB)
+    pf.goto(EN + f"#/lernen/{en_fall}"); pf.wait_for_timeout(300); pf.click(".ans"); pf.wait_for_timeout(200)
+    pf.goto(BASE + "#/"); pf.wait_for_timeout(300)
+    check(pf.evaluate(f"document.cookie.includes('{en_fall}.')"), "en: Fortschritt nicht mit der deutschen App geteilt")
+    ctx5.close()
+    check(not errs3, f"en pageerror: {errs3[:3]}")
+    routes += en_routes
     b.close()
 print(f"{len(routes)} Routen geprüft,", "OK" if not fails else f"{len(fails)} Fehler")
 sys.exit(1 if fails else 0)

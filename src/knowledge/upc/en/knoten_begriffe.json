@@ -1,0 +1,596 @@
+{
+ "concept:durchsetzungsrl": {
+  "label": "Enforcement Directive 2004/48/EC (IPRED)",
+  "definition": "Directive of the European Parliament and of the Council of 29 April 2004 on the enforcement of intellectual property rights (OJ L 157, p. 45; corrigendum OJ L 195, p. 16). It does not harmonise substantive law but the civil measures, procedures and remedies for the infringement of all intellectual property rights (Art. 1 and 2 IPRED): evidence, information, provisional measures, recall and destruction, injunctions, damages, costs and publication of decisions.",
+  "erlaeuterung": "Minimum standard (Art. 2(1) IPRED: more favourable provisions remain permissible, CJEU OTK); the principles of Art. 3 IPRED (fair, effective, proportionate, dissuasive, no abuse) govern the interpretation of all enforcement provisions (CJEU NovaText, Mircom). Germany: Act to Improve the Enforcement of Intellectual Property Rights of 7 July 2008 (BGBl. I p. 1191), in force since 1 September 2008, with parallel provisions: §§ 18 to 19c MarkenG, §§ 140a to 140e PatG, §§ 24a to 24e GebrMG, §§ 43, 46 to 47 DesignG, §§ 98, 101 to 103 UrhG, §§ 37a to 37e SortSchG and § 9(2) HalblSchG (reference to the GebrMG). Exam: for every ancillary claim, keep interpretation in conformity with the Directive in mind; remedies are the part of trade mark law shaped not by the Trade Mark Directive but by this Directive.",
+  "_de": "e26455931b"
+ },
+ "kategorie:Rechtsfolgen": {
+  "kategorie": "Remedies",
+  "_de": "f646ec35d3"
+ },
+ "concept:upc_epg": {
+  "label": "Unified Patent Court (UPC)",
+  "definition": "Court common to the Contracting Member States with exclusive jurisdiction for European patents with unitary effect and for classic European patents not opted out (Art. 1, 3 and 32 UPCA). It is part of the judicial system of the Member States and bound by Union law (Art. 1(2) and Art. 20 UPCA).",
+  "erlaeuterung": "The UPC started operating on 1 June 2023 (Art. 89 UPCA). It comprises the Court of First Instance, the Court of Appeal in Luxembourg and the Registry (Art. 6 UPCA). It is not an EU institution but is treated like a national court (obligation to refer to the CJEU under Art. 21 UPCA, liability of the Contracting Member States under Art. 22 UPCA). Relevant for the exam is the distinction from the EPO (grant, opposition) and from the national courts (Art. 83 UPCA, transitional period).",
+  "_de": "10a4b34a41"
+ },
+ "kategorie:EPG: Grundlagen": {
+  "kategorie": "UPC: Basics",
+  "_de": "7bd92ed0b9"
+ },
+ "concept:upc_aufbau_gericht": {
+  "label": "Structure: Court of First Instance, Court of Appeal, Registry",
+  "definition": "The Court of First Instance comprises the central division (Paris seat, Munich and Milan sections) and local and regional divisions in the Contracting Member States (Art. 7 UPCA). The Court of Appeal has its seat in Luxembourg (Art. 9 UPCA); the Registry keeps the register (Art. 10 UPCA).",
+  "erlaeuterung": "Local divisions: up to four per state (Germany: Düsseldorf, Hamburg, Mannheim, Munich). Regional division: Nordic-Baltic division (Stockholm). The central division is divided by IPC sections (Annex II UPCA): Paris (IPC sections B, D, E, G, H and all supplementary protection certificates), Munich (sections C and F: chemistry, metallurgy, mechanical engineering, without SPCs), Milan (since 2024 in place of London: section A, human necessities including medicinal products and medical devices, without SPCs). The Court of Appeal held that the Administrative Committee was entitled to put Milan in place of London by applying Art. 87(2) UPCA by analogy (Roku/Dolby).",
+  "_de": "6e39ab2580"
+ },
+ "concept:upc_spruchkoerper": {
+  "label": "Panels and technically qualified judges",
+  "definition": "Panels have a multinational composition: local and regional divisions sit with three legally qualified judges, the central division with two legally qualified judges and one technically qualified judge (Art. 8 UPCA). A technically qualified judge from the pool of judges (Art. 18 UPCA) is allocated at the request of a party or where there is a counterclaim for revocation (Art. 8(5) and Art. 33(3)(a) UPCA).",
+  "erlaeuterung": "The judge-rapporteur (R. 18 RoP) manages the written and the interim procedure; the panel may review his orders on application (R. 333 RoP). The Court of Appeal sits in panels of five judges (three legally and two technically qualified, Art. 9(1) UPCA); in actions against decisions of the EPO under Art. 32(1)(i) UPCA it sits with three legally qualified judges (Art. 9(2) UPCA).",
+  "_de": "417bdc9093"
+ },
+ "concept:upc_rechtsquellen": {
+  "label": "Sources of law and applicable law (Art. 24 UPCA)",
+  "definition": "The Court bases its decisions, in this order, on Union law (including Regulations 1257/2012 and 1260/2012), the UPCA, the EPC, other international agreements binding on all Contracting Member States, and national law (Art. 24(1) UPCA). Which national law applies is determined by directly applicable Union law (Rome II) or by the international or national rules of private international law (Art. 24(2) and 24(3) UPCA).",
+  "erlaeuterung": "In practice: the grounds for revocation come from the EPC (Art. 65(2) UPCA in conjunction with Art. 138 and 139 EPC), the infringing acts from the UPCA itself (Art. 25 to 30 UPCA), rights based on prior use from national law (Art. 28 UPCA). Enforcement Directive 2004/48/EC is Union law and shapes Art. 56 to 69 UPCA; the Court of Appeal draws on it for interpretation (Art. 9(3) IPRED in NanoString/10x).",
+  "_de": "1fbeb035b4"
+ },
+ "concept:upc_vorrang_unionsrecht": {
+  "label": "Primacy of Union law, referral to the CJEU, liability",
+  "definition": "The Court applies Union law in its entirety and respects its primacy (Art. 20 UPCA). As a court common to the Member States it cooperates with the CJEU and refers questions under Art. 267 TFEU; the Court of Appeal is obliged to refer (Art. 21 UPCA). The Contracting Member States are jointly and severally liable for infringements of Union law (Art. 22 UPCA).",
+  "erlaeuterung": "The Court of Appeal has held that conferring jurisdiction on the UPC (Art. 31 and 32 UPCA in conjunction with Art. 71a ff. Brussels Ia Regulation) is compatible with Art. 19 TEU and Art. 267 TFEU (Roku/Dolby). A referral by the UPC to the CJEU can be a reason for a stay of proceedings (R. 295(i) and R. 266 RoP).",
+  "_de": "98345909f6"
+ },
+ "concept:upc_uebergangsregelung": {
+  "label": "Transitional regime (Art. 83 UPCA)",
+  "definition": "During a transitional period of seven years from entry into force (extendable by up to seven years), infringement and revocation actions concerning classic European patents and SPCs may still be brought before national courts (Art. 83(1) and 83(5) UPCA). Pending national proceedings are not affected (Art. 83(2) UPCA).",
+  "erlaeuterung": "During the transitional period the UPC therefore has exclusive jurisdiction only for Unitary Patents; for bundle patents there is concurrent jurisdiction unless the proprietor has opted out (Art. 83(3) UPCA). The UPC's jurisdiction covers acts of infringement before 1 June 2023 as long as the patent was still in force at entry into force (UPC CoA Fives/REEL; Knaus Tabbert: patents that have already expired can also be the subject of an action if the jurisdictional requirements are met).",
+  "_de": "369fffe4b3"
+ },
+ "concept:upc_opt_out": {
+  "label": "Opt-out (use of the derogation)",
+  "definition": "The proprietor or applicant of a classic European patent can exclude the exclusive jurisdiction of the UPC by an application to the Registry (Art. 83(3) UPCA, R. 5 RoP). The opt-out takes effect upon entry in the register, applies to the entire bundle patent and must be lodged by all proprietors; it is excluded if an action is already pending before the UPC (R. 5.6 RoP).",
+  "erlaeuterung": "Withdrawal of the opt-out (opt-in) under Art. 83(4) UPCA, R. 5.7 and 5.8 RoP is only possible if no national action has yet been brought; afterwards a renewed opt-out is excluded (R. 5.10 RoP). Unauthorised opt-outs (wrong applicant) can be removed under R. 5A RoP; the applicant must prove that he, not the person who registered the opt-out, was the substantively entitled person (UPC CoA Silimed/Polytech). Entitlement is governed by R. 8.5 RoP: decisive is who would be entitled to be registered as proprietor under national law.",
+  "_de": "55b53b5396"
+ },
+ "concept:upc_einheitspatent": {
+  "label": "European patent with unitary effect (Unitary Patent)",
+  "definition": "A European patent granted by the EPO under the EPC for which the proprietor has requested unitary effect within one month of publication of the mention of grant and which the Unitary Patent Protection Division has registered in the Register for unitary patent protection (Art. 3(1) and Art. 9 UPReg; R. 5 to 7 UPR). It provides uniform protection with equal effect in all participating Member States in which the UPCA was in force at the date of registration (Art. 3(2) and Art. 18(2) UPReg; Art. 2(f) UPCA).",
+  "erlaeuterung": "The legal bases are Regulations (EU) No 1257/2012 (UPReg) and No 1260/2012 (TranslReg) as enhanced cooperation among 25 Member States, plus, as secondary law of the Select Committee, the Rules relating to Unitary Patent Protection (UPR) and the Rules relating to Fees for Unitary Patent Protection (RFeesUPP); the EPO's practice is described in the UP Guidelines. It is required that the patent was granted with the same claims for all 25 participating states (R. 5(2) UPR). The Unitary Patent takes effect retroactively on the date of the mention of grant (Art. 4(1) UPReg) and can only be limited, transferred, revoked or lapse in respect of all states together (Art. 3(2) UPReg). For Unitary Patents the UPC has exclusive jurisdiction without any transitional regime; an opt-out is not possible. The rejection of the request for unitary effect is challenged by an action under R. 97 RoP before the UPC (UPC CoA Bodycap/EPO).",
+  "_de": "2195ed8ddf"
+ },
+ "concept:upc_verfahrensgrundsaetze": {
+  "label": "Procedural principles: proportionality, fairness, front-loading",
+  "definition": "Pursuant to Art. 41(3), 42 and 52 UPCA, the Rules of Procedure are designed for proportionality, flexibility, fairness and equity (points 2 to 5 of the Preamble to the RoP). The parties must set out their full case as early as possible (point 7 of the Preamble, “front-loaded”), so that the oral hearing can take place within one year.",
+  "erlaeuterung": "Front-loading leads to the strict rules on new submissions (R. 222.2 and 263 RoP), on extension of time limits (R. 9.3 RoP only exceptionally, UPC CoA bioMérieux/Labrador) and on the completeness of ancillary applications too, such as the application for suspensive effect (UPC CoA Amycel). The counterweights are proportionality (point 3 of the Preamble) and fairness (point 5), which may allow new submissions in individual cases (UPC CoA VMR/NJOY).",
+  "_de": "2b1d7cd5d6"
+ },
+ "concept:upc_internationale_zustaendigkeit": {
+  "label": "International jurisdiction (Art. 31 UPCA, Brussels Ia Regulation)",
+  "definition": "The international jurisdiction of the UPC is governed by the Brussels Ia Regulation (Art. 71a to 71d Brussels Ia Regulation) or the Lugano Convention (Art. 31 UPCA). The UPC is deemed a court of a Member State; it has jurisdiction over defendants domiciled in a Member State (Art. 4 Brussels Ia Regulation) and over infringements in the territory of the Contracting Member States (Art. 7(2) Brussels Ia Regulation in conjunction with Art. 71b(2) Brussels Ia Regulation), including against defendants from third states.",
+  "erlaeuterung": "For defendants from third states, jurisdiction may also extend to damage outside the EU if property of the defendant is located in the territory (Art. 71b(3) Brussels Ia Regulation, “long-arm”). The place of damage lies in the Contracting Member States if infringing products are available there, even if the act was carried out abroad (UPC CoA Sinocare/Abbott; LD Hamburg Dyson/Dreame). Entering an appearance without contesting jurisdiction under Art. 26 Brussels Ia Regulation only occurs with the first written pleading (Preliminary objection or Statement of defence), not with access to the CMS (UPC CoA NUC/Hurom).",
+  "_de": "86f53a259c"
+ },
+ "kategorie:EPG: Zuständigkeit": {
+  "kategorie": "UPC: Jurisdiction",
+  "_de": "b1a4fb2df3"
+ },
+ "concept:upc_sachliche_zustaendigkeit": {
+  "label": "Subject-matter jurisdiction (Art. 32 UPCA)",
+  "definition": "Art. 32(1) UPCA exhaustively lists the exclusive competences: infringement actions (point (a)), declarations of non-infringement (point (b)), provisional measures (point (c)), revocation actions (point (d)) and counterclaims for revocation (point (e)), damages for provisional protection (point (f)), prior use (point (g)), compensation for licences under Art. 8 UPReg (point (h)) and actions against EPO decisions on unitary effect (point (i)). The national courts remain competent for everything else (Art. 32(2) UPCA).",
+  "erlaeuterung": "Jurisdiction also covers a separate action for the determination of damages following a national infringement judgment (UPC CoA Fives/REEL) and acts of infringement before 1 June 2023 (legacy cases). Claims under employee inventor law, entitlement (vindication) claims or claims under licence agreements are not covered. Actions under Art. 32(1)(i) UPCA (decisions of the EPO) are governed by R. 85 to 98 RoP.",
+  "_de": "69a9733a1b"
+ },
+ "concept:upc_kammerzustaendigkeit": {
+  "label": "Competence of the divisions (Art. 33(1) UPCA)",
+  "definition": "Infringement actions must be brought before the local or regional division of the Contracting Member State where the infringement has occurred or may occur (Art. 33(1)(a) UPCA) or where the defendant is domiciled (Art. 33(1)(b) UPCA); actions against several defendants require a commercial relationship and the same alleged infringement. Against defendants not domiciled in a Contracting Member State, the central division may also be seised (third subparagraph of Art. 33(1) UPCA).",
+  "erlaeuterung": "There is no order of priority between Art. 33(1)(a) and 33(1)(b) UPCA; for Art. 33(1)(a) UPCA it suffices, where there are several defendants, that acts of infringement can be established in the territory of the division, for example an offer on a website accessible there; jurisdiction is examined summarily, not by full taking of evidence (UPC CoA Barco/Yealink). The competence of the divisions is an internal matter of the UPC, not governed by the Brussels Ia Regulation. If there is no local division in the state, the central division is competent (fourth subparagraph of Art. 33(1) UPCA).",
+  "_de": "9e5440603b"
+ },
+ "concept:upc_zentralkammer": {
+  "label": "Central division: revocation action and action for a declaration of non-infringement",
+  "definition": "Revocation actions (Art. 32(1)(d) UPCA) and actions for declarations of non-infringement (Art. 32(1)(b) UPCA) must be brought before the central division (Art. 33(4) UPCA), unless an infringement action between the same parties relating to the same patent is already pending before a local or regional division; in that case only that division is competent. Allocation to Paris, Munich or Milan follows the main IPC class of the patent (Annex II UPCA, R. 17.3 RoP).",
+  "erlaeuterung": "An action for a declaration of non-infringement before the central division is stayed if an infringement action is brought before a local division within three months (Art. 33(6) UPCA). The central division may also be chosen for infringement actions against defendants from third states (third subparagraph of Art. 33(1) UPCA) and, at the defendant's request, where the infringement occurred in the territories of three or more regional divisions (second subparagraph of Art. 33(2) UPCA, R. 19.4 RoP). Standing to bring a revocation action lies with any person “concerned” by the patent, for example competitors with a freedom-to-operate interest (CD Milan Pari/Philips, Art. 47(6) UPCA).",
+  "_de": "687267630a"
+ },
+ "concept:upc_widerklage_nichtigkeit": {
+  "label": "Counterclaim for revocation and the three options (Art. 33(3) UPCA)",
+  "definition": "If a counterclaim for revocation is brought in response to an infringement action (R. 25 RoP), the local or regional division has three options after hearing the parties (Art. 33(3) UPCA): (a) proceed with both actions itself, with a technically qualified judge allocated, (b) refer the counterclaim to the central division and proceed with or stay the infringement action (bifurcation), (c) with the agreement of the parties, refer the whole case to the central division.",
+  "erlaeuterung": "The decision is taken after the closure of the written procedure (R. 37 RoP); in practice the divisions almost always choose option (a). A counterclaim can be made conditional on a finding of infringement (UPC CoA Emboline/AorticLab); the infringement action and the counterclaim remain separate actions with their own fees (UPC CoA AorticLab/Emboline). If the defendant has already brought a revocation action before the central division, Art. 33(5) UPCA applies.",
+  "_de": "5747862c06"
+ },
+ "concept:upc_bifurkation": {
+  "label": "Bifurcation (separation of infringement and validity)",
+  "definition": "Bifurcation means that infringement and validity are dealt with separately by different panels, as is mandatory in the German system (infringement court/BPatG). The UPCA allows it as option (b) of Art. 33(3) UPCA but does not make it the rule; the local division may proceed with or stay the infringement action (R. 37.4 RoP).",
+  "erlaeuterung": "If the infringement action proceeds, there is a risk of an “injunction gap”: an injunction is ordered before validity has been decided. R. 37.4 RoP therefore provides that the infringement action is stayed where there is a high likelihood that the claims will be held invalid. In UPC practice, joint hearing (option (a)) is the rule; this clearly distinguishes the UPC from the German separation principle.",
+  "_de": "6e4fd38aea"
+ },
+ "concept:upc_dieselben_parteien": {
+  "label": "Lis pendens and “the same parties” (Art. 33(2) and 33(4) UPCA)",
+  "definition": "If an action between the same parties on the same patent is pending before a division, no action under Art. 32(1)(a), 32(1)(c), 32(1)(f), 32(1)(g) and 32(1)(h) UPCA may be brought before another division (Art. 33(2) UPCA); the division first seised is competent. Correspondingly, the central division is not competent for a revocation action if an infringement action between the same parties is pending before a local division (Art. 33(4) UPCA).",
+  "erlaeuterung": "“The same parties” requires identity of the parties; exceptionally, two legal entities are treated as one party if their interests are so identical that a judgment against one would have res judicata effect against the other (UPC CoA Meril/Edwards; CD Paris Seoul Viosys/Emporia on the “straw man” constellation). Membership of the same group alone is not sufficient.",
+  "_de": "03e393245e"
+ },
+ "concept:upc_einspruch_r19": {
+  "label": "Preliminary objection (R. 19 RoP)",
+  "definition": "Within one month of service of the Statement of claim, the defendant may lodge a Preliminary objection, which can only be based on the jurisdiction of the Court (including opt-out), the competence of the division chosen or the language of the Statement of claim (R. 19.1 RoP). If no objection is lodged, jurisdiction is deemed accepted (R. 19.7 RoP).",
+  "erlaeuterung": "The list is exhaustive; objections based on a violation of Art. 47 CFR or Art. 6 ECHR are admissible only insofar as they concern jurisdiction (UPC CoA Roku/Dolby, Aylo/Dish). The judge-rapporteur decides or refers the question to the main proceedings (R. 20 RoP); the panel may also take this decision (UPC CoA Vivo/Sun Patent). A stay under R. 21.2 RoP requires that an appeal has already been lodged (UPC CoA Sun Patent/Vivo). In proceedings for provisional measures R. 19.5 RoP applies accordingly: referral to the competent division instead of dismissal (UPC CoA Barco/Yealink). Anyone who does not contest jurisdiction at first instance can no longer challenge it on appeal (UPC CoA Sinocare/Abbott).",
+  "_de": "cea9353586"
+ },
+ "concept:upc_einlassung": {
+  "label": "Entering an appearance without contesting jurisdiction (Art. 26 Brussels Ia Regulation)",
+  "definition": "The international jurisdiction of the UPC is also established if the defendant enters an appearance without contesting jurisdiction (Art. 26(1) Brussels Ia Regulation in conjunction with Art. 31 UPCA and Art. 71b Brussels Ia Regulation).",
+  "erlaeuterung": "The representative's access to the file in the CMS with the access code served is not yet an appearance; only the first written pleading, i.e. the Preliminary objection under R. 19 RoP or the Statement of defence under R. 23 RoP, is the deliberate decision for or against jurisdiction (UPC CoA NUC/Hurom). For the internal competence of the divisions, R. 19.7 RoP has a corresponding effect.",
+  "_de": "c38c1d23c6"
+ },
+ "concept:upc_altfaelle": {
+  "label": "Legacy cases: acts of infringement before 1 June 2023",
+  "definition": "The UPC also has jurisdiction over acts of infringement committed before the UPCA entered into force on 1 June 2023, as long as the European patent had not lapsed at that date (UPC CoA Fives/REEL).",
+  "erlaeuterung": "The Court of Appeal confirmed jurisdiction for legacy cases in Knaus Tabbert and discussed questions of applicable law and of the prohibition of retroactivity: for the period before 1 June 2023, substantive national law is decisive unless the UPCA expressly applies retroactively; the Court applies the remedies (Art. 63 ff. UPCA) as procedural law. Exam note: subject-matter jurisdiction (Art. 32 UPCA) and applicable law (Art. 24 UPCA) must be examined separately.",
+  "_de": "f84a784e4c"
+ },
+ "concept:upc_verfahrensablauf": {
+  "label": "Course of proceedings: written procedure, interim procedure, oral procedure",
+  "definition": "Proceedings before the UPC consist of the written procedure, the interim procedure and the oral procedure (Art. 52 UPCA, R. 10 RoP). The written procedure comprises the Statement of claim, the Statement of defence (three months), the counterclaim, the Reply and the Rejoinder (R. 12 to 36 RoP); the interim procedure prepares the oral hearing (R. 101 to 110 RoP); the oral hearing should take place within one day (R. 111 to 118 RoP).",
+  "erlaeuterung": "Target: oral hearing on infringement and validity within one year of the action being brought (point 7 of the Preamble to the RoP). The judge-rapporteur manages the written and the interim procedure (R. 331 RoP), the presiding judge the oral hearing. The decision is given in writing, as a rule within six weeks (R. 118.6 RoP). Cost proceedings (R. 150 ff. RoP) and the determination of damages (R. 125 ff. RoP) follow as separate proceedings.",
+  "_de": "ef1540339b"
+ },
+ "kategorie:EPG: Verfahren": {
+  "kategorie": "UPC: Procedure",
+  "_de": "4a3c748792"
+ },
+ "concept:upc_front_loaded": {
+  "label": "Front-loaded procedure (completeness of submissions)",
+  "definition": "The parties must set out their full case as early as possible in the proceedings (second sentence of point 7 of the Preamble to the RoP). Later submissions of facts and evidence are admitted only if they could not have been made earlier with reasonable diligence and do not unreasonably hinder the other party (R. 222.2 and 263.2 RoP).",
+  "erlaeuterung": "Consequences: the Statement of claim must contain the infringing features, the evidence and the exhibits (R. 13 RoP); the counterclaim for revocation must state all grounds for revocation and prior art documents (R. 25 RoP); a reply to the Application to amend the patent may not introduce new grounds for revocation against the patent as granted (UPC CoA VMR/NJOY). The principle also applies to applications for suspensive effect (UPC CoA Amycel). Limit: proportionality and fairness may allow new arguments or evidence, for example on common general knowledge.",
+  "_de": "264eb39ac0"
+ },
+ "concept:upc_klageschrift": {
+  "label": "Statement of claim (R. 13 RoP)",
+  "definition": "The infringement action is brought by lodging the Statement of claim with the Registry or the sub-registry of the chosen division (R. 13.1 RoP). It must contain, inter alia, the parties and representatives, the patent number, information on the choice of division (point (i)), jurisdiction, the remedies sought, the facts with the claims infringed (point (l)), the evidence (point (m)), the reasons for infringement including claim interpretation (point (n)) and information on prior proceedings (point (h)); the fee must be paid (R. 15 RoP). Exhibits must be filed at the same time (R. 13.2 RoP).",
+  "erlaeuterung": "Formal examination by the Registry (R. 16 RoP), assignment to a panel and judge-rapporteur (R. 17 and 18 RoP). If exhibits are not uploaded at the same time, service is nevertheless effective, but the time limits for the Preliminary objection and the Statement of defence must be extended by the period during which the exhibits were missing (UPC CoA Sanofi/Amgen). An electronic signature and use of the CMS workflows are mandatory (R. 4 RoP; LD Munich Edwards/Meril); breaches in the initial phase were treated generously (LD Hamburg Avago/Tesla).",
+  "_de": "fa22f5e2aa"
+ },
+ "concept:upc_zustellung": {
+  "label": "Service (R. 270 to 276 RoP)",
+  "definition": "The Statement of claim is served by the Court, within the Contracting Member States electronically via the CMS or under R. 271 RoP; outside them under the EU Service Regulation, the Hague Service Convention or through diplomatic channels (R. 274 RoP). Service by an alternative method or at an alternative place is only possible with the Court's permission (R. 275 RoP).",
+  "erlaeuterung": "Service on a company in China or Hong Kong by e-mail to a person not authorised to receive it is ineffective; public service by posting a notice at the local division is also ruled out at this stage. Before alternative service, attempts at service under the Hague Service Convention must normally be made (UPC CoA NEC/TCL). Service of the Statement of claim without exhibits is effective if the defendant can exercise its rights without them (UPC CoA Sanofi/Amgen).",
+  "_de": "d9c644bb61"
+ },
+ "concept:upc_fristen": {
+  "label": "Time limits and extension of time limits (R. 9 and R. 300 RoP)",
+  "definition": "The Rules of Procedure set fixed time limits: Preliminary objection one month (R. 19.1 RoP), Statement of defence three months (R. 23 RoP), Defence to the counterclaim for revocation two months (R. 29(a) RoP), Reply two months and Rejoinder one month (R. 29(b) to 29(e) RoP), appeal two months or 15 days (R. 224 RoP). The Court may extend or shorten time limits on a reasoned request (R. 9.3 RoP); calculation under R. 300 RoP.",
+  "erlaeuterung": "Extensions of time limits are to be granted with restraint and only in exceptional circumstances; aligning parallel appeal time limits does not justify an extension if the proceedings can be heard together under R. 220.5 RoP (UPC CoA bioMérieux/Labrador). A request to shorten the time limit filed on the last day of the other party's time limit was refused (UPC CoA OPPO/Panasonic). If exhibits are missing in the CMS, the time limits are extended as a matter of fairness (Sanofi/Amgen). Missed time limits may lead to a decision by default (R. 355 RoP).",
+  "_de": "7df43712aa"
+ },
+ "concept:upc_verfahrenssprache": {
+  "label": "Language of the proceedings (Art. 49 to 51 UPCA, R. 14 RoP)",
+  "definition": "Before a local or regional division, the language of the proceedings is an official language of the host state or an official EPO language additionally designated by the division (Art. 49(1) and 49(2) UPCA); the parties may agree on the language of the patent (Art. 49(3) UPCA), the panel may, with the agreement of the parties, decide on it on grounds of convenience and fairness (Art. 49(4) UPCA), and at the request of a party the President of the Court of First Instance may, after hearing the other parties and the panel, order the language of the patent (Art. 49(5) UPCA, R. 323 RoP). Before the central division, the language of the patent applies (Art. 49(6) UPCA); before the Court of Appeal, the language of the first instance (Art. 50 UPCA).",
+  "erlaeuterung": "The claimant chooses the language in the Statement of claim (R. 14 RoP); the German local divisions have admitted English. On an application under R. 323 RoP all circumstances must be weighed, in particular the defendant's language and equality of arms (LD Munich TP-Link/Huawei; UPC CoA Curio/10x). Interpretation at the oral hearing under Art. 51(2) UPCA and R. 109 RoP only insofar as appropriate (LD Düsseldorf 10x/Curio). The language of the Statement of claim is a ground for a Preliminary objection (R. 19.1(c) RoP).",
+  "_de": "395286d3b5"
+ },
+ "concept:upc_vertretung": {
+  "label": "Representation (Art. 48 UPCA)",
+  "definition": "The parties must be represented by lawyers authorised to practise before a court of a Contracting Member State or by European patent attorneys entitled to act as representatives (European Patent Litigation Certificate or equivalent qualification) (Art. 48(1) and 48(2) UPCA); mandatory representation also applies to third parties requesting access to the file (UPC CoA Ocado).",
+  "erlaeuterung": "Officers or persons with extensive management or shareholding powers may not represent the legal entity, even if they are qualified as representatives; employment by the client, on the other hand, does not exclude representation as long as the representative advises independently (UPC CoA Suinno/Microsoft). Representatives are subject to duties of truthfulness and diligence (R. 284 and 290 RoP, Code of Conduct); in ex parte proceedings there is an enhanced duty of disclosure (R. 192.3 RoP).",
+  "_de": "b98e0867aa"
+ },
+ "concept:upc_berichterstatter": {
+  "label": "Judge-rapporteur and case management (R. 18 and 331 to 334 RoP)",
+  "definition": "The presiding judge designates a legally qualified judge of the panel as judge-rapporteur (R. 18 RoP). The judge-rapporteur is responsible for case management in the written and interim procedure (R. 331 RoP), issues case management orders (R. 334 RoP) and may refer any question to the panel (R. 102 and 331.2 RoP).",
+  "erlaeuterung": "Decisions of the judge-rapporteur (e.g. on the Preliminary objection, R. 20 RoP, or on time limits) can be reviewed by the panel on application within 15 days (R. 333 RoP); the panel's decision can be appealed under R. 220.2 and 220.3 RoP (UPC CoA on R. 262.1(b) RoP). The panel may itself decide to refer the Preliminary objection to the main proceedings (UPC CoA Vivo/Sun Patent). In the interim procedure the judge-rapporteur may schedule an interim conference (R. 103 to 105 RoP).",
+  "_de": "4186adc802"
+ },
+ "concept:upc_zwischenverfahren": {
+  "label": "Interim procedure and interim conference (R. 101 to 110 RoP)",
+  "definition": "After the closure of the written procedure, the judge-rapporteur prepares the oral hearing: he may hold an interim conference (by video conference), put questions, order the taking of evidence, set the value of the dispute and encourage a settlement (R. 101 to 106 RoP). The interim procedure should be completed within three months (R. 101.3 RoP).",
+  "erlaeuterung": "The judge-rapporteur may refer questions to the panel (R. 102 RoP) and must inform the parties of the timetable (R. 108 RoP). Expert evidence, examination of witnesses and hearing of the parties are ordered here (R. 104(e) and R. 170 ff. RoP). If the interim conference takes place in court, it is in principle public (R. 105.2 RoP); it is recorded on audio (R. 106 RoP).",
+  "_de": "63ef650e0f"
+ },
+ "concept:upc_muendliche_verhandlung": {
+  "label": "Oral hearing and decision (R. 111 to 118 RoP)",
+  "definition": "The oral hearing before the panel is public (Art. 45 UPCA) and should not exceed one day (R. 113 RoP); the presiding judge conducts it, and the Court may limit questions and record the hearing (R. 112 and 115 RoP). The decision on the merits is given in writing with reasons as soon as possible, as a rule within six weeks (R. 118.6 RoP).",
+  "erlaeuterung": "If a party fails to appear, a decision by default may be given (R. 116 and 355 RoP). The decision contains the orders under Art. 63 ff. UPCA, where applicable penalty payments and conditions (R. 118.1 and 118.8 RoP). The parties may make private transcripts from the audio recording (UPC CoA on R. 115 RoP). The decision on costs in principle is contained in the judgment (R. 118.5 RoP); the amount is determined under R. 150 ff. RoP.",
+  "_de": "99be2a2154"
+ },
+ "concept:upc_klageaenderung": {
+  "label": "Amendment and extension of the claim (R. 263 RoP)",
+  "definition": "A party may at any time apply for leave to amend or extend its claim; it must explain why the amendment was not included in the original pleading (R. 263.1 RoP). Leave is refused if the party fails to show that the amendment could not have been made earlier with reasonable diligence and that it will not unreasonably hinder the other party (R. 263.2 RoP); unconditional limitations of the claim are always admissible (R. 263.3 RoP).",
+  "erlaeuterung": "New grounds for revocation or new prior art against the patent as granted, raised in the reply to an Application to amend, are amendments of the claim and require leave (UPC CoA VMR/NJOY). By contrast, waiving the invalidity defence in proceedings for provisional measures is neither an amendment of the claim nor a withdrawal (UPC CoA Merz/Viatris). A conditional counterclaim remains pending; R. 263.3 RoP applies by analogy (UPC CoA AorticLab/Emboline).",
+  "_de": "fddc7dbaae"
+ },
+ "concept:upc_ruecknahme": {
+  "label": "Withdrawal of the action and action devoid of purpose (R. 265 and R. 360 RoP)",
+  "definition": "The claimant may withdraw the action as long as no final decision has been given; after service on the defendant only if the defendant does not object or the Court permits the withdrawal; the Court decides on costs (R. 265 RoP). If the action has become devoid of purpose, the Court may dispose of it on application (R. 360 RoP).",
+  "erlaeuterung": "Reimbursement of fees under R. 370.9 RoP: since 1 January 2026, 50 % (previously 60 %) of the fees are reimbursed if the action is withdrawn before the closure of the written procedure; the change applies only to actions filed after 31 December 2025 (UPC CoA Juul/NJOY). For the allocation of costs under R. 360 RoP, what matters is whether the defendant gave cause for the action, assessed objectively from the claimant's point of view when the action was filed (LD Munich Dolby/Roku). An intervener cannot continue the appeal of the party it supports after that party has withdrawn it (UPC CoA Strabag/Swarco).",
+  "_de": "3a39a9cc55"
+ },
+ "concept:upc_versaeumnisentscheidung": {
+  "label": "Decision by default (R. 355 to 357 RoP)",
+  "definition": "If a party fails to take a required step within the time limit or fails to appear at the oral hearing, a decision by default may be given at the request of the other party (R. 355.1 RoP); against the defendant only if the facts put forward by the claimant justify the remedy sought (R. 355.2 RoP). An application to set aside the decision by default must be lodged within one month (R. 356.1 RoP).",
+  "erlaeuterung": "In appeal proceedings the appellant is deemed the claimant; R. 355.2 RoP therefore does not protect it if the respondent requests a decision by default because the appellant has missed a time limit, for example has not provided security for costs (R. 158.5 RoP; UPC CoA Suinno/Microsoft).",
+  "_de": "f5d74ff3b7"
+ },
+ "concept:upc_streithilfe": {
+  "label": "Intervention (R. 313 to 317 RoP)",
+  "definition": "Anyone with a legal interest in the outcome of the proceedings may intervene (R. 313 RoP); the application must be reasoned and the Court decides after hearing the parties (R. 314 and 315 RoP). The intervener is bound by the decision (R. 316.3 RoP).",
+  "erlaeuterung": "The intervener has no position independent of the party it supports: it may not act contrary to that party's acts; if the supported party withdraws its appeal, the intervener's appeal also becomes devoid of purpose (R. 360 RoP), and the intervener is treated like the main party as regards costs (UPC CoA Strabag/Swarco).",
+  "_de": "3c618e1f31"
+ },
+ "concept:upc_aussetzung": {
+  "label": "Stay of proceedings (R. 295 RoP, Art. 33(10) UPCA)",
+  "definition": "The Court may stay the proceedings, inter alia, where parallel opposition or limitation proceedings are pending before the EPO and a rapid decision may be expected (R. 295(a) RoP, Art. 33(10) UPCA), in the event of a referral to the CJEU (R. 295(i) RoP), in the event of insolvency (R. 295(j) RoP), on a joint application (R. 295(d) RoP) or for other reasons of the proper administration of justice (R. 295(m) RoP).",
+  "erlaeuterung": "The stay is a discretionary decision; as a rule, a stay of first-instance proceedings is decided by the Court of First Instance, not the Court of Appeal (UPC CoA Sun Patent/Vivo). A stay under R. 21.2 RoP on account of a Preliminary objection requires that an appeal has already been lodged. Where an EPO opposition is pending in parallel, instead of staying, the Court may request the EPO to accelerate (Art. 33(10) UPCA) or make its decision subject to a condition (R. 118.2 RoP).",
+  "_de": "7d9685be72"
+ },
+ "concept:upc_prozesskostensicherheit": {
+  "label": "Security for costs (Art. 69(4) UPCA, R. 158 RoP)",
+  "definition": "At the defendant's request, the Court may order the claimant to provide security for the defendant's costs if the claimant's financial position gives rise to a legitimate concern that a cost order cannot be satisfied, or enforcement of a cost decision would be impossible or unduly burdensome (Art. 69(4) UPCA, R. 158.1 RoP). If the security is not provided, a decision by default may be given (R. 158.5 RoP).",
+  "erlaeuterung": "Only the financial position of the claimant itself is decisive, not membership of a solvent group; the applicant must show that enforcement in the state of domicile would be unduly burdensome, including the law there and its application (UPC CoA Aarke/SodaStream; LD Munich ASUS/OPPO on Taiwan). Security can only be ordered against the party initiating the proceedings, i.e. at first instance only against the claimant, on appeal only against the appellant (UPC CoA Hefei/Grundfos; Suinno/Microsoft). Litigation funding insurance must be taken into account (UPC CoA Syntorr/Arthrex); SME status does not exempt (UPC CoA La Siddhi/Athena).",
+  "_de": "a656d77cbf"
+ },
+ "concept:upc_gerichtsgebuehren": {
+  "label": "Court fees (R. 370 RoP)",
+  "definition": "A fixed fee is payable for an infringement action, an application for provisional measures and an appeal, and for values of the dispute above EUR 500,000 an additional value-based fee; a revocation action and a counterclaim for revocation incur a fixed fee (R. 370.2 to 370.5 RoP, table of court fees of the Administrative Committee). Small and micro enterprises pay only 50 % of the regular fees (R. 370.8 RoP).",
+  "erlaeuterung": "Reimbursement: 50 % on withdrawal before the closure of the written procedure (since 1 January 2026, UPC CoA Juul/NJOY), 65 % on settlement or an arbitral award in the Centre (R. 370.9 RoP); the current version no longer provides for a reimbursement where the case is heard by a single judge. The appeal fee must be paid separately for each appeal, even where the questions are identical (UPC CoA Roku/Dolby). For an appeal against a decision on a counterclaim for revocation, the fee for the counterclaim applies (UPC CoA 2026). The value of the dispute is determined by the interest of the party that initiated the action (R. 370.6 RoP).",
+  "_de": "814c80c4a3"
+ },
+ "concept:upc_streitwert": {
+  "label": "Value of the dispute (R. 370.6 RoP)",
+  "definition": "The value of the dispute is set by the Court and determines the value-based fee and the ceiling for recoverable costs (R. 370.6 RoP, guidelines of the Administrative Committee). Decisive is the interest of the party that initiated the proceedings.",
+  "erlaeuterung": "The value of the dispute on appeal may differ from that at first instance; where the defendant appeals, the claimant's interest in maintaining the decision remains decisive; forfeited penalty payments are not a yardstick because they are paid to the Court (UPC CoA Kodak/Fujifilm). Setting the value is a procedural decision to which R. 220.2 and 220.3 RoP apply, even if it appears in the operative part (UPC CoA 2026).",
+  "_de": "dab73a815a"
+ },
+ "concept:upc_kostenerstattung": {
+  "label": "Costs of the proceedings (Art. 69 UPCA, R. 150 to 157 RoP)",
+  "definition": "The unsuccessful party bears the reasonable and proportionate costs of the successful party, up to a ceiling depending on the value of the dispute; where each party succeeds in part, the costs are apportioned (Art. 69(1) and 69(2) UPCA). Costs are determined in separate cost proceedings on an application filed within one month of the decision on the merits (R. 150 and 151 RoP); an interim award of costs may be made in the judgment (R. 150.2 RoP).",
+  "erlaeuterung": "Where two patents are asserted and the party succeeds on only one, the costs are to be apportioned according to the values of the patents or allocated patent by patent (UPC CoA SharkNinja). The intervener is treated like the main party as regards costs. An application to lay open books belongs to the procedure for the determination of damages, not to the cost proceedings. The Court of Appeal decides on the costs of the appeal together with the final decision.",
+  "_de": "2f4b0a5248"
+ },
+ "concept:upc_rechtliches_gehoer": {
+  "label": "Right to be heard, party disposition and party presentation of facts (Art. 76 UPCA)",
+  "definition": "The Court decides only on the requests submitted by the parties (Art. 76(1) UPCA) and bases its decision only on grounds, facts and evidence submitted by the parties or introduced into the procedure by an order of the Court (Art. 76(2) UPCA); the Court must give the parties an opportunity to present their comments (Art. 76(2) UPCA, R. 264 RoP).",
+  "erlaeuterung": "The right to be heard obliges the Court to take note of the essential core of the parties' submissions and to deal with it in the reasons; a violation is to be presumed if the reasons only permit the conclusion that the submission was disregarded (UPC CoA Siemens/Hologic). The subject-matter of the dispute is determined by the parties (LD Paris DexCom/Abbott). However, the Court may find on the basis of its own expertise that a disclosure is lacking, without the parties having submitted this (UPC CoA on added matter).",
+  "_de": "f1c5fd46b1"
+ },
+ "concept:upc_akteneinsicht": {
+  "label": "Public register and access to the file (Art. 45 UPCA, R. 262 RoP)",
+  "definition": "Decisions and orders are published; written pleadings and evidence are made available to third parties on a reasoned request, on which the judge-rapporteur decides after hearing the parties (R. 262.1(b) RoP). Parties may request that certain information be kept confidential (R. 262.2 RoP).",
+  "erlaeuterung": "The request must be filed with the instance where the documents were lodged; the Court of Appeal obtains the first-instance file under R. 222.1 RoP without making copies (UPC CoA Gowling/Boehringer). An applicant must be represented (Art. 48 UPCA). The decision of the judge-rapporteur can be reviewed under R. 333 RoP and then appealed under R. 220.2 and 220.3 RoP (UPC CoA 2026); an application under R. 262.2 RoP does not protect against the opposing party (UPC CoA EOFlow/Insulet).",
+  "_de": "f0050e3627"
+ },
+ "concept:upc_vertraulichkeit": {
+  "label": "Protection of confidential information (Art. 58 UPCA, R. 262A RoP)",
+  "definition": "A party may apply for access to confidential information in pleadings or evidence to be restricted to specific persons (R. 262A.1 RoP); the application must be made when the document is lodged and must be reasoned (R. 262A.2 and 262A.3 RoP). The confidentiality club must include at least one natural person from each party and their representatives (R. 262A.6 RoP).",
+  "erlaeuterung": "In the proportionality assessment, the right to an effective remedy and a fair trial, the legitimate interests of the parties and of third parties and possible harm must be weighed; employee status alone does not justify exclusion, and “external eyes only” is the exception (UPC CoA Ericsson/ASUS). An order under R. 262A RoP continues to apply after the end of the instance (UPC CoA Curio/10x). Trade secrets lose their character if they are disclosed without an order (UPC CoA EOFlow/Insulet). Former employees can be admitted subject to conditions (UPC CoA 2026).",
+  "_de": "fc2bc60248"
+ },
+ "concept:upc_unmittelbare_verletzung": {
+  "label": "Direct use of the invention (Art. 25 UPCA)",
+  "definition": "The patent confers the right to prevent third parties not having the proprietor's consent from: making, offering, placing on the market, using, importing or storing the product (Art. 25(a) UPCA); using the process or offering it for use (Art. 25(b) UPCA); offering, placing on the market, using, importing or storing the product obtained directly by the process (Art. 25(c) UPCA).",
+  "erlaeuterung": "The list corresponds to § 9 PatG and the Community Patent Convention. The terms are interpreted autonomously: “offering” is to be understood in an economic sense; an invitatio ad offerendum is already sufficient, and neither a price nor readiness to deliver is required (UPC CoA Belkin/Philips). Offering and placing on the market are independent acts; geoblocking alone does not prevent a prohibited offer (UPC CoA Lepu/Occlutech). Territorially, the prohibition applies in the territory of all Contracting Member States in which the patent has effect (Art. 34 UPCA).",
+  "_de": "cb8c01a949"
+ },
+ "kategorie:EPG: Materielles Recht": {
+  "kategorie": "UPC: Substantive law",
+  "_de": "2e104cfb52"
+ },
+ "concept:upc_anbieten": {
+  "label": "Offering (Art. 25(a) UPCA)",
+  "definition": "Offering is any act that presents an object in such a way that viewers can make an offer for its transfer (purchase, rent, lease); it is to be understood in an economic sense, not as a binding contractual offer (UPC CoA Belkin/Philips).",
+  "erlaeuterung": "Neither a price nor readiness or ability to deliver is required. An offer on a website accessible in a Contracting Member State can establish the competence of the division under Art. 33(1)(a) UPCA (UPC CoA Barco/Yealink). A website disclaimer may suffice if no visitor could reasonably relate the offer to the prohibited territories (UPC CoA Lepu/Occlutech).",
+  "_de": "dc3d41c9bf"
+ },
+ "concept:upc_mittelbare_verletzung": {
+  "label": "Indirect use of the invention (Art. 26 UPCA)",
+  "definition": "It is prohibited, without consent, to offer or supply means relating to an essential element of the invention for putting it into effect, where the third party knows or should have known that those means are suitable and intended for putting the invention into effect (Art. 26(1) UPCA). Staple commercial products are excluded, unless the third party knowingly induces the person supplied to infringe (Art. 26(2) UPCA).",
+  "erlaeuterung": "Corresponds to § 10 PatG. The intended use can be inferred from objective circumstances that allow the sufficiently certain conclusion that the person supplied is to use the means in accordance with the invention (UPC CoA Onward/Niche). Persons entitled under Art. 27(a) to 27(e) UPCA are not regarded as persons entitled to exploit the invention (Art. 26(3) UPCA), so that supplies to them may constitute indirect infringement.",
+  "_de": "565cee5ade"
+ },
+ "concept:upc_auslegung_patentanspruch": {
+  "label": "Interpretation of the patent claim (Art. 69 EPC and Protocol)",
+  "definition": "The patent claim is not only the starting point but the decisive basis for the scope of protection; the description and drawings must always be used as explanatory aids, not only where there is ambiguity. The claim is to be interpreted from the perspective of the person skilled in the art; fair protection for the proprietor is to be combined with legal certainty for third parties. These principles apply equally to infringement and validity (UPC CoA NanoString/10x).",
+  "erlaeuterung": "Further rules of the Court of Appeal: features are to be interpreted in the light of the claim as a whole, and identical terms in principle have the same meaning (VusionGroup/Hanshow; Hefei/Grundfos); an embodiment is as a rule covered by the claim, unless the patent clearly teaches the contrary (Meril/Edwards); the function and the spatial-physical design of a component are to be considered together (Dyson/Dreame); conclusions from dependent claims depend on the individual case, and in medical use claims therapeutic efficacy is an inherent feature (Amgen/Regeneron); test data not disclosed in the patent are irrelevant for interpretation (UPC CoA 2025). Product-by-process features are product features (Knaus Tabbert).",
+  "_de": "47c0025c44"
+ },
+ "concept:upc_fachperson": {
+  "label": "Person skilled in the art",
+  "definition": "Standard figure for interpretation, disclosure, novelty, inventive step and sufficiency of disclosure: the person with average knowledge and skills in the technical field of the patent, equipped with the common general knowledge at the priority date.",
+  "erlaeuterung": "If the skilled person recognises that the problem arises in a similar way in a neighbouring field, it is to be assumed that he will consult experts in that field (UPC CoA Knaus Tabbert). For sufficiency it is enough that the skilled person can carry out the invention without inventive effort and without undue burden (Amgen/Regeneron). Common general knowledge is a fact and must be pleaded and proven (VMR/NJOY).",
+  "_de": "83129fc4ab"
+ },
+ "concept:upc_aequivalenz": {
+  "label": "Infringement by equivalence",
+  "definition": "Under Article 2 of the Protocol on the Interpretation of Art. 69 EPC, due account must be taken, when determining the scope of protection, of any element which is equivalent to an element specified in the claims. The UPCA contains no equivalence test of its own; the divisions draw on national traditions.",
+  "erlaeuterung": "The Hague Local Division (Plant-e/Arkyne, 22 November 2024) applied a four-step test: (1) technical equivalence (does the means solve essentially the same problem with essentially the same effect), (2) fair protection for the proprietor, (3) legal certainty for third parties (was the equivalence apparent to the skilled person), (4) novelty and inventive step of the equivalent embodiment over the prior art. The Court of Appeal has not yet taken a final position; in the exam, set out the German Schneidmesser questions and the Hague test side by side.",
+  "_de": "ffa835c7fe"
+ },
+ "concept:upc_beschraenkungen_wirkung": {
+  "label": "Limitations of the effects of the patent (Art. 27 UPCA)",
+  "definition": "Not covered are, inter alia, private acts for non-commercial purposes (Art. 27(a) UPCA), acts for experimental purposes (Art. 27(b) UPCA), the use of biological material for breeding (Art. 27(c) UPCA), studies and trials for marketing authorisations (Bolar, Art. 27(d) UPCA), extemporaneous preparation in pharmacies (Art. 27(e) UPCA), use on board foreign vessels and aircraft (Art. 27(f) and 27(g) UPCA), the farmers' privilege (Art. 27(i) and 27(j) UPCA), decompilation of software (Art. 27(k) UPCA) and acts under Article 10 of Biotech Directive 98/44/EC (Art. 27(l) UPCA).",
+  "erlaeuterung": "The list is more extensive than § 11 PatG (e.g. breeders' privilege, software). A person acting under Art. 27(a) to 27(e) UPCA is nevertheless not an “entitled person” within the meaning of Art. 26(3) UPCA, so that supplying him may constitute indirect infringement. Exhaustion (Art. 29 UPCA) and prior use (Art. 28 UPCA) are separate defences.",
+  "_de": "750c6059a9"
+ },
+ "concept:upc_vorbenutzungsrecht": {
+  "label": "Right based on prior use (Art. 28 UPCA)",
+  "definition": "Any person who, if a national patent had been granted, would have had a right based on prior use or a right of personal possession of the invention in a Contracting Member State has the same right in that state in respect of the European patent (Art. 28 UPCA).",
+  "erlaeuterung": "The right based on prior use therefore remains national and territorially limited: it is governed by the respective national law (in Germany § 12 PatG) and only has effect for the territory of the state in which it arose. The UPC has jurisdiction over actions concerning rights based on prior use (Art. 32(1)(g) UPCA).",
+  "_de": "163e16663f"
+ },
+ "concept:upc_erschoepfung": {
+  "label": "Exhaustion (Art. 29 UPCA)",
+  "definition": "The rights conferred by the European patent do not extend to acts concerning a product placed on the market in the EU by the proprietor or with his consent, unless the proprietor has legitimate grounds to oppose further commercialisation (Art. 29 UPCA).",
+  "erlaeuterung": "Union-wide exhaustion as under Art. 6 UPReg; no international exhaustion. Legitimate grounds correspond to the case law in trade mark law (alteration of the product). The burden of proof for placing on the market with consent lies in principle with the defendant (Art. 54 UPCA).",
+  "_de": "8dd9427533"
+ },
+ "concept:upc_verletzer": {
+  "label": "Infringer, joint tortfeasor and liability of the managing director (Art. 63 UPCA)",
+  "definition": "An infringer within the meaning of Art. 63 UPCA in conjunction with Art. 25 UPCA is also a person who does not carry out the acts of use himself but to whom they are attributable as instigator, joint tortfeasor or accessory; attribution is determined by autonomous interpretation of the UPCA (UPC CoA Belkin/Philips).",
+  "erlaeuterung": "Mere position as an officer does not make the managing director a joint tortfeasor; he is liable only if his conduct goes beyond the duties typical of his office, in particular if he purposefully uses the company to infringe or fails to intervene despite knowledge and reasonableness. Knowledge requires that he recognises the infringement as such or deliberately closes his eyes to it. Orders under the second sentence of Art. 63(1) UPCA are possible against intermediaries whose services are used (third sentence of Art. 11 IPRED).",
+  "_de": "0d5a697525"
+ },
+ "concept:upc_nichtigkeitsgruende": {
+  "label": "Grounds for revocation (Art. 65 UPCA, Art. 138 EPC)",
+  "definition": "The Court may revoke a patent, in whole or in part, only on the grounds of Art. 138(1) and Art. 139(2) EPC: lack of patentability (novelty, inventive step, exclusions), insufficient disclosure, added matter, extension of the scope of protection, lack of entitlement (Art. 65(2) UPCA). In the case of partial revocation the patent is limited accordingly (Art. 65(3) UPCA); revocation has effect ex tunc (Art. 65(4) UPCA).",
+  "erlaeuterung": "Partial revocation may also be pronounced to the extent of individual independent claims of a complete claim set (LD Hamburg Avago/Tesla). The claimant must substantiate its case for each claim attacked; the proprietor must state which dependent claims or combinations it defends, without necessarily having to file an auxiliary request for this (UPC CoA Fujifilm/Kodak). The grounds are the same as in EPO opposition, supplemented by Art. 138(1)(d) and 138(1)(e) EPC.",
+  "_de": "ff49e3f76a"
+ },
+ "concept:upc_unzulaessige_erweiterung": {
+  "label": "Added matter (Art. 138(1)(c) EPC)",
+  "definition": "Added matter exists if the subject-matter of the claim as granted extends beyond the content of the application as originally filed. Decisive is what the skilled person, viewing the application objectively and as at the filing date, using common general knowledge, derives directly and unambiguously from the application as a whole; implicit disclosure is included (UPC CoA expert/Seoul Viosys).",
+  "erlaeuterung": "For divisional applications the requirement applies with respect to every earlier application, i.e. also with respect to the parent application or the PCT application. The assessment is a question of law based on the facts submitted (claims and application); the Court may consider the entire document (UPC CoA Amgen/Regeneron) and find on the basis of its own expertise that a disclosure is lacking (UPC CoA 2025).",
+  "_de": "3dcde5f159"
+ },
+ "concept:upc_offenbarungsgehalt": {
+  "label": "Content of disclosure and novelty",
+  "definition": "Only what the skilled person directly derives from a prior publication on attentive reading and implicitly reads along as self-evident is novelty-destroying; a generic term does not as such disclose all specific embodiments falling under it that are not mentioned (UPC CoA Knaus Tabbert).",
+  "erlaeuterung": "The same disclosure standard (“directly and unambiguously”) applies to novelty, added matter and priority. In product-by-process claims it must be examined whether the process is reflected in particular properties of the product; without express specification, the order of process steps is in principle not mandatory.",
+  "_de": "86d7607aff"
+ },
+ "concept:upc_erfinderische_taetigkeit": {
+  "label": "Inventive step before the UPC",
+  "definition": "An invention is considered as involving an inventive step if, having regard to the state of the art, it is not obvious to the skilled person (Art. 56 EPC). The Court of Appeal does not apply a rigid problem-solution approach: the starting point is a realistic piece of prior art from which the skilled person would arrive at the invention with an expectation of success; it is not enough that he could arrive there (NanoString/10x; Meril/Edwards).",
+  "erlaeuterung": "Without a pointer to combine a starting point with a further document, the motivation cannot be derived from the content of the combined document itself (UPC CoA Fujifilm/Kodak). Non-technical features are not to be disregarded from the outset if, together with the other features, they contribute to the technical character (UPC CoA Abbott/Sinocare). The Paris central division examines along the lines of the PSA: objective problem, prior art, obviousness (Meril/Edwards 2025). Reasonable expectation of success for medical uses (Amgen/Regeneron).",
+  "_de": "c7024159e2"
+ },
+ "concept:upc_aenderung_patent": {
+  "label": "Amendment of the patent and auxiliary requests (R. 30 and R. 50 RoP)",
+  "definition": "With the Defence to the counterclaim for revocation or the defence to the revocation action, the proprietor may apply to amend the patent (R. 30.1 and R. 50.2 RoP); the application must contain the amended claims, an explanation why the amendments are admissible and an indication whether the amendment is conditional or unconditional; the number of auxiliary requests must be reasonable (R. 30.1(c) RoP). Subsequent amendments are only admissible with the leave of the Court (R. 30.2 RoP).",
+  "erlaeuterung": "For later requests the Court examines whether the amendment could not have been made earlier with reasonable diligence and does not unreasonably hinder the other party; the Court of First Instance has discretion, and review by the Court of Appeal is limited (UPC CoA Meril/Edwards). The Application to amend is followed by a defence (R. 32 and 43.3 RoP), which may not introduce new grounds for revocation against the patent as granted (VMR/NJOY). Defending dependent claims or combinations contained in them does not require an auxiliary request (Fujifilm/Kodak).",
+  "_de": "148655a4b4"
+ },
+ "concept:upc_nichtigkeitsklage": {
+  "label": "Revocation action and counterclaim (Art. 32(1)(d) and 32(1)(e) UPCA, R. 42 to 50 RoP)",
+  "definition": "The revocation action is brought before the central division (R. 42 ff. RoP; Art. 33(4) UPCA); a counterclaim for revocation must be raised in the Statement of defence (R. 25 RoP). Both must fully state the extent, grounds, facts and evidence. Any person has standing (Art. 47(6) UPCA); no legal interest in bringing proceedings as in German nullity proceedings is required, but the person must be concerned.",
+  "erlaeuterung": "Sequence: Statement for revocation, defence to revocation with Application to amend (R. 49 and 50 RoP), reply, rejoinder, interim procedure where applicable. A party can make the counterclaim conditional on a finding of infringement (UPC CoA Emboline/AorticLab). Before the UPC there is no bar during the opposition period: a revocation action is possible even while an EPO opposition is pending; the Court may stay (R. 295(a) RoP, Art. 33(10) UPCA). No additional technically qualified judge is needed, as the central division already includes one.",
+  "_de": "324b16a1c9"
+ },
+ "concept:upc_einstweilige_massnahmen": {
+  "label": "Provisional measures (Art. 62 UPCA, R. 205 to 213 RoP)",
+  "definition": "By way of order, the Court may prohibit the alleged infringer from continuing the infringement, make continuation subject to the lodging of guarantees or order the seizure of products (Art. 62(1) and 62(3) UPCA). Requirements: a sufficient degree of certainty that the applicant is entitled and that the patent is being infringed or that infringement is imminent (Art. 62(4) UPCA, R. 211.2 RoP), a weighing of interests including possible harm (Art. 62(2) UPCA, R. 211.3 RoP), no unreasonable delay (R. 211.4 RoP), security where appropriate (R. 211.5 RoP).",
+  "erlaeuterung": "The procedure is summary: the applicant bears the burden of presentation and proof for entitlement and infringement, the respondent for invalidity; the required certainty is lacking if the Court considers it more likely than not that the patent is invalid (NanoString/10x). Provisional measures require that the outcome of the main proceedings cannot be awaited; the time element is part of the weighing (Biolitec/Lightguide). The order is not limited to acts already committed (Dyson/Dreame); asserting a claim version that has not been registered is possible (Onward/Niche). If the measures are revoked: compensation under Art. 62(5) UPCA, R. 213 RoP. Time limit for bringing the main action under Art. 62(5) UPCA in conjunction with Art. 60(8) UPCA, R. 213.1 RoP (31 calendar days/20 working days).",
+  "_de": "52e99f291f"
+ },
+ "kategorie:EPG: Einstweilige Maßnahmen und Beweis": {
+  "kategorie": "UPC: Provisional measures and evidence",
+  "_de": "4221d2897e"
+ },
+ "concept:upc_hinreichende_sicherheit": {
+  "label": "Sufficient degree of certainty (R. 211.2 RoP)",
+  "definition": "The Court must at least consider it more likely than not that the applicant is entitled to commence proceedings and that the patent is infringed; the sufficient degree of certainty is lacking if the Court considers it more likely than not that the patent is not valid (UPC CoA NanoString/10x on R. 211.2 RoP in conjunction with Art. 62(4) UPCA and Art. 9(3) IPRED).",
+  "erlaeuterung": "The burden of presentation and proof for entitlement and infringement lies with the applicant, for lack of validity with the respondent. The summary nature prohibits a standard that is too high, but also one that is too low (Centripetal/Palo Alto on the preservation of evidence). An invalidity defence in summary proceedings is not a separate action; it can be waived (Merz/Viatris). An attack on validity before the EPO (pending opposition) must be taken into account but is not a bar.",
+  "_de": "272d62c2ec"
+ },
+ "concept:upc_dringlichkeit": {
+  "label": "Urgency and unreasonable delay (R. 211.4 RoP)",
+  "definition": "The Court takes into account whether the applicant filed the application without unreasonable delay after becoming aware, or when he should have become aware, of the infringement (R. 211.4 and R. 209.2(b) RoP). In addition, the matter must be so urgent that the outcome of the main proceedings cannot be awaited (UPC CoA Biolitec/Lightguide).",
+  "erlaeuterung": "The divisions have discussed different periods (one to two months from knowledge, Düsseldorf/Munich); the Court of Appeal looks at the circumstances. The proprietor need not assert all patents in one application, but waiting with information that would have enabled the application is detrimental (UPC CoA 2026). Possible product changes do not justify waiting (Barco/Yealink). Anyone who has accepted the status quo on the market for years must explain why the main proceedings cannot be awaited (Biolitec). Imminent infringement requires concrete indications (LD Munich Nokia/Sunmi).",
+  "_de": "6cd8cfe5cc"
+ },
+ "concept:upc_schutzschrift": {
+  "label": "Protective letter (R. 207 RoP)",
+  "definition": "Anyone who fears an application for provisional measures against him may file a protective letter with the Registry setting out the reasons against granting it (R. 207.1 and 207.2 RoP). It is valid for six months (renewable) and is forwarded to the applicant only after an application has been filed (R. 207.8 and 207.9 RoP).",
+  "erlaeuterung": "The protective letter is the key instrument against ex parte orders: the Court must take it into account when deciding whether to hear the defendant (R. 209.1(a) RoP, R. 209.2(d) RoP). It is kept confidential in the register until an application is received; fee under R. 207.4 RoP.",
+  "_de": "ec3ac32880"
+ },
+ "concept:upc_ex_parte": {
+  "label": "Orders without hearing the defendant (ex parte)",
+  "definition": "Provisional measures and orders to preserve evidence may be made without hearing the defendant, in particular where any delay is likely to cause irreparable harm to the applicant or where evidence may be destroyed (Art. 60(5) UPCA, Art. 62(5) UPCA in conjunction with Art. 60(5) UPCA, R. 197 and R. 212 RoP). The defendant must be informed without delay and may request a review (R. 197.3 and 212.3 RoP).",
+  "erlaeuterung": "The applicant must disclose all material facts known to him that might influence the decision, including those relating to proportionality; omissions cannot be cured by later submissions in the review proceedings (UPC CoA Ecovacs/Roborock on R. 192.3 RoP). Ex parte measures interfere with Art. 7 CFR and require effective safeguards (Centripetal/Palo Alto). A protective letter must be taken into account.",
+  "_de": "1f2cd72007"
+ },
+ "concept:upc_beweissicherung": {
+  "label": "Preservation of evidence and inspection (Art. 60 UPCA, R. 192 to 199 RoP)",
+  "definition": "On application, the Court may order prompt and effective provisional measures to preserve evidence (description, taking of samples, seizure, inspection of premises) if the applicant has presented all reasonably available evidence to support the infringement (Art. 60(1) to 60(3) UPCA). Security (Art. 60(7) UPCA) and compensation if the order is revoked (Art. 60(9) UPCA, R. 198.2 RoP) protect the defendant.",
+  "erlaeuterung": "The standard is lower than in the main proceedings: plausibility of the infringement suffices, while mere speculation and “fishing expeditions” do not; this applies especially to ex parte orders (UPC CoA Centripetal/Palo Alto). The measure is carried out by a person designated by the Court or an expert (R. 196.4 and 196.5 RoP); the evidence obtained may be used only in the proceedings (R. 196.2 RoP). Applicant's duty of disclosure (R. 192.3 RoP; Ecovacs/Roborock). Time limit for the main action: R. 198.1 RoP.",
+  "_de": "f870ddbf5b"
+ },
+ "concept:upc_beweismittel_beweislast": {
+  "label": "Means of evidence and burden of proof (Art. 53 to 55 UPCA, R. 170 to 172 RoP)",
+  "definition": "Admissible means of evidence include hearing the parties, requests for information, documents, witnesses, expert opinions, inspection, comparative tests and sworn written statements (Art. 53 UPCA, R. 170 RoP). The burden of proof lies with the party relying on the facts (Art. 54 UPCA); for process patents relating to new products, the identical product is presumed to have been obtained by the process (Art. 55 UPCA).",
+  "erlaeuterung": "The parties must name and produce evidence with their pleadings (R. 171 and 172 RoP). Party experts (R. 181 RoP) and court experts (R. 185 RoP) must be distinguished. Common general knowledge is a fact requiring proof (VMR/NJOY). In summary proceedings a lower standard of proof applies (more likely than not).",
+  "_de": "3666e77d4d"
+ },
+ "concept:upc_beweisanordnung": {
+  "label": "Order to produce evidence and order to communicate information (Art. 59 and 67 UPCA, R. 190 and 191 RoP)",
+  "definition": "If a party has presented all reasonably available evidence and specified evidence in the control of the opposing party or of a third party, the Court may order its production, subject to the protection of confidential information (Art. 59(1) UPCA, R. 190 RoP). In addition, there is the right to information on origin and distribution channels (Art. 67 UPCA, R. 191 RoP).",
+  "erlaeuterung": "R. 190 RoP serves to prove substantiated, relevant and disputed facts, not to discover unknown facts; a conditional request for the entire documentation is inadmissible; the request may be refused as premature (LD Düsseldorf Ecovacs/Roborock). Orders to produce evidence are to be combined with protection of confidentiality (R. 262A RoP). The right to information under Art. 67(2) UPCA can also be directed against third parties.",
+  "_de": "f62e19fa41"
+ },
+ "concept:upc_sicherheit_schadensersatz_ev": {
+  "label": "Security and compensation upon revocation (Art. 62(5) and Art. 60(9) UPCA)",
+  "definition": "The Court may make provisional measures subject to the applicant providing adequate security (R. 211.5 RoP). If the measures are revoked because they were unfounded, or if no main action is brought, the defendant is entitled to compensation for the damage caused by the measures (Art. 62(5) UPCA in conjunction with Art. 60(8) and 60(9) UPCA, R. 213 RoP).",
+  "erlaeuterung": "The claim for compensation does not depend on fault (cf. § 945 ZPO). If an enforced order is set aside, this has retroactive effect; the basis for penalty payments ceases to exist (UPC CoA Kodak/Fujifilm). The security also serves enforcement under R. 352 RoP.",
+  "_de": "611589b8e5"
+ },
+ "concept:upc_unterlassungsanordnung": {
+  "label": "Injunction (Art. 63 UPCA)",
+  "definition": "If the Court finds an infringement, it may prohibit the infringer from continuing it and back the order with a penalty payment (Art. 63(1) and 63(2) UPCA); intermediaries may also be addressees. The wording (“may”) opens up discretion, which in practice is regularly exercised in favour of the injunction; proportionality must be examined (Art. 42 UPCA).",
+  "erlaeuterung": "The order need not be limited to the acts actually committed; whoever has infringed creates the risk of further infringements through other forms of use (UPC CoA Dyson/Dreame). The addressee must monitor third parties it has engaged and platforms (Lepu/Occlutech). For standard-essential patents, FRAND defences under Art. 102 TFEU must be examined (LD Düsseldorf Dolby/Beko; LD Mannheim Panasonic/OPPO). Further orders: corrective measures (Art. 64 UPCA), information (Art. 67 UPCA), publication (Art. 80 UPCA).",
+  "_de": "2df5f0f8df"
+ },
+ "kategorie:EPG: Rechtsfolgen und Vollstreckung": {
+  "kategorie": "UPC: Remedies and enforcement",
+  "_de": "232c580931"
+ },
+ "concept:upc_abhilfemassnahmen": {
+  "label": "Corrective measures: recall, removal, destruction (Art. 64 UPCA)",
+  "definition": "At the request of the applicant, the Court may order that infringing products be recalled from the channels of commerce, deprived of their infringing property, definitively removed or destroyed (Art. 64(1) and 64(2) UPCA); the measures are carried out at the infringer's expense (Art. 64(3) UPCA) and must be proportionate (Art. 64(4) UPCA).",
+  "erlaeuterung": "Implements Art. 10 IPRED (cf. § 140a PatG, § 18 MarkenG). Proportionality takes into account the seriousness of the infringement and the interests of third parties; recall and destruction are specified in the operative part (R. 118 RoP).",
+  "_de": "3aee9d95f9"
+ },
+ "concept:upc_auskunft": {
+  "label": "Order to communicate information (Art. 67 UPCA)",
+  "definition": "On a justified request, the Court may order the infringer to provide information on the origin and distribution channels, quantities and prices, and the identity of third parties (Art. 67(1) UPCA); the obligation also applies to third parties who possessed infringing products on a commercial scale or provided services (Art. 67(2) UPCA).",
+  "erlaeuterung": "Corresponds to Art. 8 IPRED, § 140b PatG, § 19 MarkenG. The information serves to prepare the damages proceedings (R. 125 ff. RoP); an application to lay open books belongs to the procedure for the determination of damages (UPC CoA 2025, Chapter 4 of Part 1 of the RoP).",
+  "_de": "257c92a39e"
+ },
+ "concept:upc_schadensersatz": {
+  "label": "Damages (Art. 68 UPCA, R. 125 to 131 RoP)",
+  "definition": "An infringer who knowingly, or with reasonable grounds to know, engaged in an infringing activity must pay the injured party appropriate damages (Art. 68(1) UPCA). Damages cover all negative consequences, including lost profits, the infringer's profits and moral prejudice, or alternatively a licence analogy (Art. 68(3) UPCA); punitive damages are excluded (Art. 68(2) UPCA). An infringer acting in good faith may be ordered to hand over profits or pay compensation (Art. 68(4) UPCA).",
+  "erlaeuterung": "The amount is determined in separate proceedings after the decision on the merits (R. 125 to 131 RoP, application within one year, R. 126 RoP); production of the books can be requested there (R. 131.1(c) RoP). An interim award of damages may be made in the judgment (R. 119 RoP). Implements Art. 13 IPRED (§ 139(2) PatG with its threefold method of calculating damages).",
+  "_de": "eca020acc9"
+ },
+ "concept:upc_vollstreckung": {
+  "label": "Enforcement (Art. 82 UPCA, R. 354 RoP)",
+  "definition": "Decisions and orders of the Court are enforceable in any Contracting Member State; an order for enforcement is appended to the decision, and enforcement is governed by the law of the state of enforcement (Art. 82(1) and 82(3) UPCA). Decisions are in principle immediately enforceable, where applicable against security (R. 354.1 and 118.8 RoP); orders are enforced by the UPC itself through penalty payments (Art. 82(4) UPCA, R. 354.3 and 354.4 RoP).",
+  "erlaeuterung": "If an enforced order is set aside, this has retroactive effect: penalty payments imposed lose their basis, including for breaches before the setting aside (UPC CoA Kodak/Fujifilm 2026). The addressee must monitor third parties to which it entrusts implementation, and sales platforms (Lepu/Occlutech). Before enforcement, the creditor must give notice of its intention to enforce (R. 118.8 RoP, Notice of intention to enforce).",
+  "_de": "142542482b"
+ },
+ "concept:upc_zwangsgeld": {
+  "label": "Penalty payment (Art. 82(4) UPCA, R. 354.3 and 354.4 RoP)",
+  "definition": "An order may be combined with the threat of a penalty payment in the event of non-compliance (R. 354.3 RoP); in the event of a breach the Court sets the penalty payment, which is payable to the Court (R. 354.4 RoP, Art. 82(4) UPCA). The amount must be dissuasive but proportionate and take into account the importance of the order.",
+  "erlaeuterung": "System according to UPC CoA Kodak/Fujifilm: the penalty is usually threatened in the decision on the merits, but can also be threatened subsequently without an appeal; the penalty payment is to be determined per period, per item or per act, where applicable with a maximum amount that can later be increased. Orders setting a penalty payment are not orders under Art. 73(2)(a) UPCA; appeal only with leave (EOFlow/Insulet). Setting aside the underlying order retroactively removes the basis.",
+  "_de": "472a5cb6cf"
+ },
+ "concept:upc_berufung": {
+  "label": "Appeal (Art. 73 UPCA, R. 220 RoP)",
+  "definition": "An appeal against final decisions of the Court of First Instance lies within two months (Art. 73(1) UPCA, R. 220.1(a) and R. 220.1(b) RoP); against orders under Art. 49(5), 59 to 62 and 67 UPCA within 15 days (Art. 73(2)(a) UPCA, R. 220.1(c) RoP). Other orders can only be appealed together with the final decision or with leave of the Court of First Instance (Art. 73(2)(b) UPCA, R. 220.2 RoP); if leave is refused, the Court of Appeal may grant it after a discretionary review (R. 220.3 and 220.4 RoP).",
+  "erlaeuterung": "Only a party adversely affected by the decision may appeal; this also applies to the cross-appeal (R. 237 RoP), which is inadmissible if it only seeks to change the reasoning (UPC CoA Abbott/Sinocare). The Statement of grounds of appeal must indicate the parts contested, the grounds and the facts and evidence (R. 226 RoP). The Court of Appeal decides on the merits itself or, exceptionally, refers the case back (Art. 75 UPCA, R. 242 RoP). Orders setting the value of the dispute and penalty payments fall under R. 220.2 and 220.3 RoP (UPC CoA 2026; EOFlow/Insulet).",
+  "_de": "bdaf31aeac"
+ },
+ "kategorie:EPG: Berufung": {
+  "kategorie": "UPC: Appeal",
+  "_de": "5760530be2"
+ },
+ "concept:upc_berufungsfrist": {
+  "label": "Time limit for appeal (R. 224 RoP)",
+  "definition": "The Statement of appeal must be lodged within two months (final decision, decision terminating the proceedings) or 15 days (orders, cost decisions after leave) of service; the Statement of grounds of appeal follows within four months or 15 days (R. 224.1 and 224.2 RoP). The time limit only starts to run upon service of the decision including the reasons (UPC CoA Belkin/Philips; Ballino/Kinexon).",
+  "erlaeuterung": "In the case of a conditional counterclaim, the counterclaimant's appeal may be lodged on condition that the infringement claimant appeals; the fee only becomes due at that point (Emboline/AorticLab). Shortening the time limit (R. 225(e) and R. 9.3(b) RoP) to speed things up was refused in OPPO/Panasonic; extension only exceptionally (bioMérieux/Labrador).",
+  "_de": "110bb5f536"
+ },
+ "concept:upc_aufschiebende_wirkung": {
+  "label": "Suspensive effect of the appeal (Art. 74 UPCA, R. 223 RoP)",
+  "definition": "An appeal has no suspensive effect, except against decisions on revocation actions and counterclaims (Art. 74(1) and 74(2) UPCA). On application, the Court of Appeal may order it (Art. 74(1) UPCA, R. 223 RoP); this requires exceptional circumstances, which the applicant must demonstrate, such as a manifest error in the decision or disproportionate, irreparable harm.",
+  "erlaeuterung": "The application must contain all grounds, facts and evidence; adding to them in a second application is inadmissible (UPC CoA Amycel). The application is decided by the standing judge, also while an application for discretionary review is pending (UPC CoA 2026). A violation of the right to be heard can be an exceptional circumstance (Siemens/Hologic).",
+  "_de": "2bfdd852f5"
+ },
+ "concept:upc_neues_vorbringen_berufung": {
+  "label": "New submissions on appeal (R. 222.2 RoP)",
+  "definition": "Requests, facts and evidence not submitted at first instance may be disregarded by the Court of Appeal; in exercising its discretion it takes into account whether the party could have submitted them with reasonable diligence, their relevance for the decision and the position of the other party (R. 222.2 RoP).",
+  "erlaeuterung": "Whether more specific submissions are new depends on how general they were at first instance: clarifying a conclusive submission is not new; deriving a technical teaching for the first time from a document already filed is new (UPC CoA Hefei/Grundfos). New auxiliary requests in summary proceedings are also subject to R. 222 RoP (Onward/Niche). The Statement of grounds of appeal itself must also be complete (R. 226 RoP; Knaus Tabbert).",
+  "_de": "435c1d2fba"
+ },
+ "concept:upc_ermessensueberpruefung": {
+  "label": "Leave to appeal and discretionary review (R. 220.2 to 220.4 RoP)",
+  "definition": "Case management orders and other orders not listed in R. 220.1 RoP can only be appealed with leave of the Court of First Instance (R. 220.2 RoP). If leave is refused, a request for discretionary review may be filed with the Court of Appeal within 15 days (R. 220.3 RoP); the standing judge decides on leave (R. 220.4 RoP).",
+  "erlaeuterung": "The Court of Appeal grants leave if the order is manifestly wrong or raises a question of principle. This route applies to decisions of the panel after review under R. 333 RoP, for example on access to the file (UPC CoA 2026), on setting the value of the dispute and on setting penalty payments (EOFlow/Insulet).",
+  "_de": "dcb54b6076"
+ },
+ "concept:upc_beschwer": {
+  "label": "Adverse effect and interest in appealing",
+  "definition": "An appeal or cross-appeal can only be lodged by a party adversely affected, in whole or in part, by the decision (R. 220.1 and R. 237 RoP). A cross-appeal that only seeks to change the reasoning of a decision favourable to the party is inadmissible (UPC CoA Abbott/Sinocare).",
+  "erlaeuterung": "The conditional counterclaimant is adversely affected if the Court of First Instance did not decide on the counterclaim because the condition was not fulfilled and the infringement claimant appeals (Emboline/AorticLab). Anyone who did not contest jurisdiction at first instance can no longer rely on it on appeal (Sinocare/Abbott).",
+  "_de": "2d1b7293f6"
+ },
+ "concept:upc_wiederaufnahme": {
+  "label": "Rehearing (Art. 81 UPCA, R. 245 to 250 RoP)",
+  "definition": "After a final decision, the Court of Appeal may, on request, exceptionally grant a rehearing if a fact of a decisive nature is discovered which was unknown to the party requesting the rehearing – and only on the ground of an act qualified as a criminal offence by a final court decision of a national court –, or if there is a fundamental procedural defect (Art. 81(1) UPCA). Time limit: ten years from the decision, two months from discovery (Art. 81(2) UPCA).",
+  "erlaeuterung": "Rehearing is an extraordinary remedy; fundamental procedural defects under R. 247 RoP include, for example, a violation of the right to be heard or an incorrect composition of the panel (UPC CoA Suinno/Microsoft). Third parties acting in good faith are protected (Art. 81(4) UPCA).",
+  "_de": "1dcf01ea8b"
+ },
+ "concept:upc_up_rechtsrahmen": {
+  "label": "Legal framework of the Unitary Patent: UPReg, TranslReg, UPR, RFeesUPP, UP Guidelines",
+  "definition": "The Unitary Patent is based on two EU regulations adopted under enhanced cooperation (Art. 20 TEU): Regulation (EU) No 1257/2012 (UPReg) creates the European patent with unitary effect, Regulation (EU) No 1260/2012 (TranslReg) governs the translation arrangements. Both have been in force since 20 January 2013 and apply since 1 June 2023, the date of entry into force of the UPCA (Art. 18 UPReg, Art. 7 TranslReg). The procedure before the EPO is governed, as secondary law of the Select Committee of the Administrative Council (Art. 145 EPC), by the Rules relating to Unitary Patent Protection (UPR) and the Rules relating to Fees for Unitary Patent Protection (RFeesUPP).",
+  "erlaeuterung": "The regulations are Union law and thus the first source of law of the UPC (Art. 24(1)(a) UPCA). Substantive law is not contained in the UPReg: Art. 5(3) UPReg refers to the national law of the state determined under Art. 7 UPReg, which for all Contracting Member States is harmonised in Art. 25 to 30 UPCA. The EPO's practice is described in the UP Guidelines (April 2026 edition, in force since 1 April 2026, OJ EPO 2026, A6), issued by the President under R. 3 UPR; they are not legislation, but the EPO adheres to them until the UPC decides otherwise. 25 EU states take part in the enhanced cooperation (all except Spain and Croatia); only states that have ratified the UPCA can take part in the system (currently 18).",
+  "_de": "c526c56587"
+ },
+ "kategorie:Einheitspatent: Erteilung und Verwaltung": {
+  "kategorie": "Unitary Patent: grant and administration",
+  "_de": "d98fdf14a7"
+ },
+ "concept:upc_up_richtlinien": {
+  "label": "UP Guidelines of the EPO (Guidelines for Unitary Patent Protection)",
+  "definition": "The Guidelines for Unitary Patent Protection describe the practice of the Unitary Patent Protection Division on the request for unitary effect, fees, compensation, re-establishment of rights, interruption, register entries and procedure. The President of the EPO issues them under R. 3 UPR in conjunction with Art. 10(2)(a) EPC; the April 2026 edition applies since 1 April 2026 (OJ EPO 2026, A6) and replaces the first edition of 1 April 2025.",
+  "erlaeuterung": "Eight parts: 1 General (legal framework, UPC, territorial scope, Division), 2 Request for unitary effect, 3 Fees, 4 Compensation scheme, 5 Re-establishment of rights, 6 Interruption and stay, 7 Register (transfers, licences, licences of right), 8 Procedure before the Division (representation, time limits, legal remedies). The Guidelines are not legislation; the UPReg, TranslReg, UPR, RFeesUPP and UPCA are decisive, followed by their interpretation by the UPC. They are revised annually (each reflecting the position as at 1 December of the preceding year) and published only electronically; search, examination and opposition remain matters for the EPC Guidelines.",
+  "_de": "caf0580a34"
+ },
+ "concept:upc_up_generationen": {
+  "label": "Territorial scope and generations of Unitary Patents",
+  "definition": "A Unitary Patent has effect in the participating Member States in which the UPCA is in force on the date of registration of unitary effect (Art. 18(2) UPReg). The territorial scope remains unchanged for the entire term and is not extended to states that ratify the UPCA later; each further ratification creates a new “generation”.",
+  "erlaeuterung": "On 1 June 2023 the system started with 17 states (Austria, Belgium, Bulgaria, Denmark, Estonia, Finland, France, Germany, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Portugal, Slovenia, Sweden). Romania has been part of it since 1 September 2024: Unitary Patents registered from that date (second generation) have effect in 18 states, older ones still in 17. Before an announced accession, the proprietor may request a delay in registration in order to reach the new generation (OJ EPO 2024, A61); the one-month time limit of R. 6(1) UPR remains unaffected. The territorial scope of each Unitary Patent is shown in the register (R. 16(1)(g) UPR). However, the patent is eligible only if it was granted with the same claims for all 25 states of the enhanced cooperation, irrespective of where it then has effect.",
+  "_de": "b1af404a1a"
+ },
+ "concept:upc_antrag_einheitliche_wirkung": {
+  "label": "Request for unitary effect (R. 5 to 7 UPR)",
+  "definition": "The proprietor of the European patent files the request for unitary effect in writing in the language of the proceedings with the EPO, no later than one month after publication of the mention of grant in the European Patent Bulletin (R. 6(1) and 6(2) UPR; Art. 9(1)(g) UPReg). The request contains particulars of the proprietor and representative, the patent number and, during the transitional period, the translation under Art. 6 TranslReg. It is required that the patent was granted with the same claims for all participating Member States (R. 5(2)(a) UPR).",
+  "erlaeuterung": "The one-month time limit cannot be extended, but re-establishment of rights is available: within two months of expiry of the time limit, irrespective of when the cause of non-compliance was removed (R. 22(2) UPR). An early request is possible after the decision to grant (Form 2006A) but is processed only from the mention of grant. Where there are several proprietors, all must file the request; co-proprietors only for non-participating states cannot. If the request complies with R. 5(2) and R. 6 UPR, the Division registers unitary effect and communicates the date (R. 7(1) UPR, Form 7030); the patent has effect retroactively from the mention of grant (Art. 4(1) UPReg). Formal deficiencies under R. 6(2) UPR can be corrected within a non-extendable one-month time limit (R. 7(3) UPR), for which there is no re-establishment of rights (R. 22(6) UPR; Bodycap/EPO). If eligibility is lacking or the time limit has been missed, the request is rejected after the proprietor has been heard (R. 7(2) UPR), which can be challenged within three weeks under R. 97 RoP; national “safety nets” then sometimes still allow validation. The request is free of charge and can be withdrawn until the decision.",
+  "_de": "b1a0ceb069"
+ },
+ "concept:upc_up_uebersetzung": {
+  "label": "Translation arrangements and transitional period (TranslReg)",
+  "definition": "After publication of the specification in the EPO language of the proceedings, no further translations are required for the Unitary Patent (Art. 3 TranslReg). During a transitional period of six years from 1 June 2023, extendable to a maximum of twelve years, a full translation of the specification must however be filed with the request for unitary effect: into English if the language of the proceedings was German or French, into another official EU language if it was English (Art. 6 TranslReg, R. 6(2)(d) UPR).",
+  "erlaeuterung": "The translation serves information purposes only and has no legal effect; the EPO does not examine it but publishes it (R. 18 UPR); correction under R. 139 EPC. In a dispute, the proprietor must, at the request of the alleged infringer, provide a full translation into an official language of the state of infringement or of domicile and, at the request of the court, into the language of its proceedings, in each case at its own expense (Art. 4(1) to 4(3) TranslReg). In damages claims, the court takes into account whether an SME, a natural person or a university acted in good faith before receiving the translation (Art. 4(4) TranslReg). In addition, the compensation scheme covers the translation costs of the application phase.",
+  "_de": "ad9ec915a9"
+ },
+ "concept:upc_up_kompensation": {
+  "label": "Compensation scheme for translation costs (Art. 5 TranslReg, R. 8 to 11 UPR)",
+  "definition": "Anyone who filed the European patent application or Euro-PCT application in an official EU language other than German, English or French receives a lump sum of EUR 500 upon registration of the Unitary Patent (R. 11 UPR, Art. 4(1) RFeesUPP) if all proprietors and, where applicable, all original applicants are natural persons, SMEs, non-profit organisations, universities or public research organisations with their residence or principal place of business in an EU Member State (R. 8 UPR).",
+  "erlaeuterung": "The request must be filed together with the request for unitary effect (box in Form 7000) and contains a declaration of status (R. 9 UPR); the residence or place of business must be in the EU, not necessarily in a participating state. Compensation is granted only after registration of unitary effect and thereafter irrevocably, even if the status changes later (R. 10(1) and 10(2) UPR). In case of doubt the Division requests evidence, such as extracts from the commercial register; if the compensation was based on an incorrect declaration, it must be repaid together with an administrative fee of 50 % with the next renewal fee, failing which the patent lapses (R. 10(4) and R. 14 UPR, Art. 4(2) RFeesUPP). Compensation supplements the fee reduction under R. 7a EPC for applications filed in an admissible non-official language.",
+  "_de": "311170f5b5"
+ },
+ "concept:upc_up_jahresgebuehren": {
+  "label": "Renewal fees for the Unitary Patent (Art. 11 and 12 UPReg; R. 13 and 14 UPR; Art. 2 RFeesUPP)",
+  "definition": "A single renewal fee in euro is payable to the EPO for the Unitary Patent, due for the years following the year in which the mention of grant was published, in each case on the last day of the month corresponding to the month of filing (Art. 11 UPReg, R. 13(1) and 13(2) UPR). The amounts are set out in item 1 of Art. 2(1) RFeesUPP (2nd year EUR 35 to 20th year EUR 4,855, “True Top 4”); anyone can pay, without mandatory representation.",
+  "erlaeuterung": "Payable at the earliest three months before the due date; six-month grace period with a 50 % additional fee (R. 13(3) UPR, item 2 of Art. 2(1) RFeesUPP), calculated “from month-end to month-end”. If the fee is not paid, the patent lapses retroactively as of the due date (R. 14(1)(b) and 14(2) UPR); the EPO notes the loss of rights (R. 112 EPC), and re-establishment of rights is possible within one year from the end of the grace period (R. 22 UPR). Special features: fees falling due within three months of notification of the registration communication can be paid within that period without an additional fee (R. 13(4) UPR); fees that would have fallen due between the mention of grant and the communication only become due with the communication (R. 13(5) UPR). With a statement on licences of right, the fee is reduced by 15 % (Art. 3 RFeesUPP). The EPO retains 50 % of the revenue, the rest goes to the participating states (Art. 13 UPReg). Classic bundle patents, by contrast, pay national renewal fees per state.",
+  "_de": "3737843fce"
+ },
+ "concept:upc_up_lizenzbereitschaft": {
+  "label": "Licences of right (Art. 8 UPReg, R. 12 UPR)",
+  "definition": "The proprietor of a Unitary Patent may file a statement with the EPO that he is prepared to allow any person to use the invention as a licensee in return for appropriate consideration (Art. 8(1) UPReg, R. 12(1) UPR). A licence obtained on this basis is treated as a contractual licence (Art. 8(2) UPReg); the renewal fees are reduced by 15 % from receipt of the statement (Art. 3 RFeesUPP).",
+  "erlaeuterung": "The statement (Form 7001) is registered free of charge; it is excluded as long as an exclusive licence is registered or a request for its registration is pending (R. 12(3) UPR), and afterwards no exclusive licence can be registered (R. 12(4) UPR). Withdrawal is possible at any time but only takes effect once the entire reduction has been repaid (R. 12(2) UPR). The UPC decides on the appropriate consideration (Art. 32(1)(h) UPCA). The model is the licence-of-right declaration under § 23 PatG. To be distinguished are licensing commitments to standardisation bodies (FRAND), which the EPO merely receives and notes in the register (Art. 9(1)(c) UPReg, R. 16(1)(k) UPR).",
+  "_de": "b828414d2e"
+ },
+ "concept:upc_up_register": {
+  "label": "Register for unitary patent protection, transfers and licences",
+  "definition": "The EPO keeps the Register for unitary patent protection as a separate part of the European Patent Register (Art. 9(1)(b) UPReg, R. 15 UPR). It contains the registration of unitary effect with date and territorial scope, transfers, licences, rights in rem, limitation, revocation, lapse, licences of right and licensing commitments (R. 16 UPR). A Unitary Patent can only be transferred in respect of all states together, but can be licensed for part of the territory (Art. 3(2) UPReg).",
+  "erlaeuterung": "Entries are made on request under the EPC rules (R. 20(2)(b) UPR in conjunction with R. 22 to 24 EPC) against evidence, such as the transfer agreement; the administrative fee is waived for requests filed via MyEPO. A licence is recorded as exclusive if the proprietor and the licensee so request, and as a sub-licence if it is granted by a registered licensee. Which law applies to rights in rem and execution is determined by Art. 7 UPReg. Unitary Patents can be recognised in the register by the code “C0”; there is a separate part of the European Patent Bulletin for them (R. 17 UPR). Unlike with the bundle patent, the central registration replaces parallel registrations in the national registers.",
+  "_de": "ab058587d4"
+ },
+ "concept:upc_up_vermoegen": {
+  "label": "Unitary Patent as an object of property (Art. 7 UPReg)",
+  "definition": "As an object of property, the Unitary Patent is treated in its entirety and in all participating Member States as a national patent of the state in which, according to the European Patent Register, the applicant had his residence or principal place of business on the date of filing, or failing that a place of business (Art. 7(1) UPReg). Where there are several applicants, the first-named applicant who meets the requirement is decisive (Art. 7(2) UPReg). If none applies, German law applies as the law of the state where the EPO has its headquarters (Art. 7(3) UPReg).",
+  "erlaeuterung": "This conflict-of-laws rule governs the transfer, pledging, execution and insolvency of the Unitary Patent. An applicant from a third state may voluntarily indicate a place of business on the filing date together with the request for unitary effect (R. 16(1)(w) UPR); if there is none, German law applies. The indication is not displayed if the UPCA is not in force in the state named at the date of registration. Infringement and its legal consequences, by contrast, are governed by Art. 5(3) UPReg, which leads to the UPCA.",
+  "_de": "0539b83a71"
+ },
+ "concept:upc_up_abteilung": {
+  "label": "Unitary Patent Protection Division and proceedings before the EPO",
+  "definition": "The participating Member States have entrusted the EPO with the administration of the Unitary Patent under Art. 143 EPC (Art. 9 UPReg): requests for unitary effect, register, renewal fees, compensation, licences of right. The competent body is the Unitary Patent Protection Division, whose decisions are taken by a legally qualified member (R. 4 UPR). For the procedure, R. 20 UPR refers to the EPC: representation, right to be heard, notification, calculation of time limits, interruption, register entries.",
+  "erlaeuterung": "Particularities compared with EPC proceedings: time limits set by the Division are one to four months and cannot be extended (R. 20(4) UPR); no further processing (R. 135 EPC), but re-establishment of rights under R. 22 UPR; the request for unitary effect must be filed in the language of the proceedings, non-official languages are excluded; in request proceedings oral proceedings take place only at the proprietor's request and are not public (R. 21 UPR); a representative must be appointed specifically for the Unitary Patent, proprietors with their seat in an EPC state can act through employees, and anyone can pay renewal fees. The President may stay the registration procedure as a precaution (R. 3 UPR, sanctions cases 2024). Legal remedies lie not with the Boards of Appeal but with the UPC.",
+  "_de": "43643f3517"
+ },
+ "concept:upc_up_rechtsbehelf": {
+  "label": "Action against decisions of the EPO on the Unitary Patent (Art. 32(1)(i) and Art. 66 UPCA; R. 85 to 98 RoP)",
+  "definition": "Decisions of the Unitary Patent Protection Division are challenged not by an appeal to the Boards of Appeal but by an action before the UPC (Art. 9(3) UPReg; R. 23 UPR; Art. 32(1)(i) UPCA). The Court may annul or alter the decision (Art. 66 UPCA). The action must be lodged with the Registry within two months of service (R. 88 RoP); against the rejection of the request for unitary effect, the expedited procedure under R. 97 RoP applies, with a time limit of three weeks and a decision by the standing judge within three weeks (R. 97.4 RoP).",
+  "erlaeuterung": "The central division is competent (Art. 33(9) UPCA; Annex II UPCA), the language of the proceedings is the language of the patent; mandatory representation does not apply here (Art. 48(7) UPCA). Interlocutory revision by the EPO (R. 24 UPR, R. 91 RoP: two months after service of the admissible action) is excluded in the procedure under R. 97 RoP, because R. 85.2 RoP excludes expedited procedures and R. 97 RoP is lex specialis (UPC CoA Bodycap/EPO). The EPO is bound by the decision of the UPC (R. 1(1) UPR). The rejection of compensation, of re-establishment of rights and the decision on a loss of rights under R. 112(2) EPC can also be challenged.",
+  "_de": "a33201f7cc"
+ },
+ "concept:upc_durchsetzungsrl_bezug": {
+  "label": "UPCA and Enforcement Directive 2004/48/EC",
+  "definition": "Art. 56 to 69 and Art. 80 UPCA implement the measures, procedures and remedies of the Enforcement Directive for the UPC: order to produce evidence (Art. 59 UPCA, Art. 6 IPRED), preservation of evidence (Art. 60 UPCA, Art. 7 IPRED), information (Art. 67 UPCA, Art. 8 IPRED), provisional measures (Art. 62 UPCA, Art. 9 IPRED), corrective measures (Art. 64 UPCA, Art. 10 IPRED), injunction (Art. 63 UPCA, Art. 11 IPRED), damages (Art. 68 UPCA, Art. 13 IPRED), costs (Art. 69 UPCA, Art. 14 IPRED), publication (Art. 80 UPCA, Art. 15 IPRED). As Union law, the Directive is a source of law with priority (Art. 24(1)(a) UPCA).",
+  "erlaeuterung": "The Court of Appeal interprets the UPCA provisions in conformity with the Directive, for example the standard of a sufficient degree of certainty in light of Art. 9(3) IPRED (NanoString/10x). For the exam, the parallel to German law is valuable: the same Directive lies behind §§ 139 to 140e PatG and §§ 14, 18, 19 to 19c MarkenG. Anyone who knows trade mark law already knows the structure of the UPC's remedies.",
+  "_de": "f454c0be12"
+ }
+}

@@ -1,0 +1,611 @@
+{
+ "kurs:u09": {
+  "titel": "Appeal and remedies against decisions",
+  "untertitel": "Admissibility, time limit, adverse effect, suspensive effect, new submissions, decision and rehearing",
+  "beschreibung": "The road to Luxembourg: which decisions and orders of the Court of First Instance can be appealed freely and which need leave to appeal or discretionary review (EOFlow/Insulet), when the time limit for appeal starts (Belkin/Philips), who is adversely affected and how cross-appeals and conditional appeals work (Abbott/Sinocare, Emboline/AorticLab), what the intervener may do (Strabag/Swarco), when the appeal has suspensive effect (Amycel, Siemens/Hologic, Philips/Belkin), what may be newly submitted on appeal (Hefei/Grundfos, Meril/Edwards, ICPillar/Arm), how the Court of Appeal decides and with what retroactive effect (Kodak/Fujifilm), and when final proceedings are reopened by rehearing (Suinno/Microsoft).",
+  "_de": "ce27b7e7b3"
+ },
+ "kapitel:u09a": {
+  "titel": "Art. 73 UPCA, R. 220 and 224 RoP: admissibility and time limit",
+  "_de": "8371d71fe0"
+ },
+ "einheit:u09a-0": {
+  "titel": "Examination scheme: appeal to the Court of Appeal",
+  "text": "Six stations: admissibility (which decision or order, with or without leave), time limit and form, adverse effect including cross-appeal and intervener, suspensive effect, scope of review including new submissions, decision of the Court of Appeal.",
+  "_de": "d3dfac7cfa"
+ },
+ "einheit:u09a-1": {
+  "titel": "Three routes to the Court of Appeal",
+  "text": "Art. 73 UPCA distinguishes **decisions** and **orders**. Final decisions of the Court of First Instance and decisions which terminate the proceedings as regards one party can be appealed without more, within two months of service (Art. 73(1) UPCA, R. 220.1(a), 220.1(b) RoP, R. 224.1(a) RoP); the Statement of grounds of appeal follows within four months (R. 224.2(a) RoP). The orders listed in Art. 73(2)(a) UPCA under Art. 49(5), 59 to 62 and 67 UPCA can be appealed just as freely, i.e. change of language, order to produce evidence, order to preserve evidence, freezing order, provisional measures and order to communicate information, but here within **15 days** (R. 220.1(c) RoP, R. 224.1(b) RoP). All **other orders** – case management orders, setting the value of the dispute, imposing penalty payments, confidentiality orders, decisions under R. 333 RoP – can only be challenged together with the appeal against the final decision or where the Court of First Instance **grants leave** to appeal (Art. 73(2)(b) UPCA, R. 220.2 RoP). If leave is refused within 15 days, a request for **discretionary review** may be lodged with the Court of Appeal within a further 15 calendar days; the standing judge decides on it and may reject it without giving reasons (R. 220.3, 220.4 RoP). The appeal may be based on points of law and matters of fact (Art. 73(3) UPCA), but new facts and evidence only under the conditions of Art. 73(4) UPCA and R. 222.2 RoP. A fee is payable for every appeal (R. 228 RoP, R. 370.5 RoP).",
+  "_de": "a9b109a67f"
+ },
+ "gruppe:u09a-2": {
+  "titel": "Three orders, one judgment",
+  "sachverhalt": "In the infringement action A v B, the local division successively issues: a provisional measure under Art. 62 UPCA, the judge-rapporteur's refusal to extend a time limit and, finally, the final decision.",
+  "_de": "63fe034c9b"
+ },
+ "einheit:u09a-2a": {
+  "titel": "Final decision",
+  "frage": "Can B appeal the final decision without leave?",
+  "loesung": [
+   "**Yes!** Final decisions can be appealed without more, within **two months** of service (Art. 73(1) UPCA, R. 220.1(a) RoP, R. 224.1(a) RoP). The grounds follow within four months (R. 224.2(a) RoP)."
+  ],
+  "abschnitt": "Art. 73(1) and 73(2) UPCA: what can be appealed",
+  "_de": "aa42aafd0d"
+ },
+ "einheit:u09a-2b": {
+  "titel": "Provisional measure",
+  "frage": "Can the provisional measure also be appealed without leave?",
+  "loesung": [
+   "**Yes!** Orders under Art. 62 UPCA are among the freely appealable orders (Art. 73(2)(a) UPCA, R. 220.1(c) RoP), but here within **15 days** (R. 224.1(b) RoP). The main proceedings continue (Art. 74(3) UPCA)."
+  ],
+  "abschnitt": "Art. 73(1) and 73(2) UPCA: what can be appealed",
+  "_de": "46e77c0645"
+ },
+ "einheit:u09a-2c": {
+  "titel": "Catalogue",
+  "frage": "Which orders can be appealed without leave under Art. 73(2)(a) UPCA?",
+  "optionen": [
+   "Orders under Art. 49(5), 59 to 62 and 67 UPCA",
+   "All orders of a panel",
+   "Only orders with a penalty payment"
+  ],
+  "loesung": [
+   "Only orders under **Art. 49(5), 59 to 62 and 67 UPCA** need no leave: change of language, order to produce evidence, order to preserve evidence, freezing order, provisional measures and order to communicate information. All other orders need leave to appeal or discretionary review (R. 220.2, 220.3 RoP)."
+  ],
+  "merke": "Freely appealable: final decision and orders under Art. 49(5), 59 to 62, 67 UPCA.",
+  "abschnitt": "Art. 73(1) and 73(2) UPCA: what can be appealed",
+  "_de": "3ded53ce04"
+ },
+ "einheit:u09a-2d": {
+  "titel": "Case management order",
+  "frage": "Can B appeal the refused extension of the time limit immediately?",
+  "loesung": [
+   "**No!** Against a case management order of the judge-rapporteur, a review by the panel must first be requested (R. 333 RoP). Only the panel's decision can be appealed, with leave or after discretionary review (the first sentence of R. 220.3 RoP)."
+  ],
+  "abschnitt": "Art. 73(1) and 73(2) UPCA: what can be appealed",
+  "_de": "dc5a5278a7"
+ },
+ "gruppe:u09a-3": {
+  "titel": "Appeal against the penalty payment",
+  "sachverhalt": "The local division imposes a penalty payment on EOFlow for breaching a provisional measure and does not grant leave to appeal. EOFlow lodges an appeal and, in the alternative, requests discretionary review.",
+  "_de": "3cd511701a"
+ },
+ "einheit:u09a-3a": {
+  "titel": "No free appeal",
+  "frage": "Is the appeal admissible without leave?",
+  "loesung": [
+   "**No!** An order imposing a penalty payment under Art. 82(4) UPCA, R. 354.4 RoP is not an order under Art. 73(2)(a) UPCA, even if it enforces a provisional measure. It can only be appealed with leave or after discretionary review (UPC CoA EOFlow/Insulet)."
+  ],
+  "merke": "Enforcement is not summary proceedings: penalty payment only with leave or discretionary review.",
+  "abschnitt": "R. 220.2 to 220.4 RoP: leave to appeal and discretionary review",
+  "_de": "0058201218"
+ },
+ "einheit:u09a-3b": {
+  "titel": "Time limit",
+  "frage": "Within what time limit must discretionary review be requested?",
+  "optionen": [
+   "15 calendar days after expiry of the 15-day period for granting leave",
+   "Two months from service",
+   "One month from service"
+  ],
+  "loesung": [
+   "If the Court of First Instance does not grant leave to appeal within 15 days, discretionary review may be requested from the Court of Appeal **within 15 calendar days** of the end of that period (R. 220.3 RoP)."
+  ],
+  "abschnitt": "R. 220.2 to 220.4 RoP: leave to appeal and discretionary review",
+  "_de": "e60dbce486"
+ },
+ "einheit:u09a-3c": {
+  "titel": "Fee",
+  "frage": "Is a fee payable for the request for discretionary review?",
+  "loesung": [
+   "**Yes!** The request must contain the particulars under R. 221.2 RoP, and a fee is payable (R. 370.5(d) RoP)."
+  ],
+  "abschnitt": "R. 220.2 to 220.4 RoP: leave to appeal and discretionary review",
+  "_de": "c5deba8252"
+ },
+ "einheit:u09a-3d": {
+  "titel": "No reasons required",
+  "frage": "Must the standing judge give reasons for a rejection?",
+  "loesung": [
+   "**No!** The standing judge may reject the request **without giving reasons** (R. 220.4 RoP)."
+  ],
+  "abschnitt": "R. 220.2 to 220.4 RoP: leave to appeal and discretionary review",
+  "_de": "e8871b2717"
+ },
+ "einheit:u09a-3e": {
+  "titel": "Panel",
+  "frage": "Who decides on the appeal once it is allowed?",
+  "optionen": [
+   "The standing judge alone",
+   "A panel of the Court of Appeal",
+   "The local division"
+  ],
+  "loesung": [
+   "If the standing judge allows the request, the President of the Court of Appeal assigns the review to a **panel** of the Court of Appeal (R. 220.4 RoP)."
+  ],
+  "abwandlung": "After hearing Insulet, the standing judge allows the request.",
+  "abschnitt": "R. 220.2 to 220.4 RoP: leave to appeal and discretionary review",
+  "_de": "55a68da30a"
+ },
+ "gruppe:u09a-4": {
+  "titel": "Operative part today, reasons later",
+  "sachverhalt": "On 2 February the local division pronounces only the operative part: Belkin is ordered to cease and desist. The decision with reasons is served on 20 March. Belkin lodges its appeal on 15 May.",
+  "_de": "2413315f7a"
+ },
+ "einheit:u09a-4a": {
+  "titel": "Operative part before reasons",
+  "frage": "May the court pronounce the operative part before the reasons?",
+  "loesung": [
+   "**Yes!** The court may give its decision immediately after the oral hearing and provide the reasons later (R. 118.7 RoP)."
+  ],
+  "abschnitt": "R. 224 RoP: time limit",
+  "_de": "27dabf8179"
+ },
+ "einheit:u09a-4b": {
+  "titel": "Start of the time limit",
+  "frage": "Does the time limit for appeal start when the operative part is pronounced?",
+  "loesung": [
+   "**No!** The time limit only starts once the **decision with reasons** has been served (UPC CoA Belkin/Philips 2026, following Ballino/Kinexon). Only the reasons show whether and on what grounds the appeal can be based."
+  ],
+  "merke": "The time limit for appeal runs from service of the reasoned decision.",
+  "abschnitt": "R. 224 RoP: time limit",
+  "_de": "355ed2d3d4"
+ },
+ "einheit:u09a-4c": {
+  "titel": "In time",
+  "frage": "Is the appeal of 15 May in time?",
+  "loesung": [
+   "**Yes!** The two-month time limit (Art. 73(1) UPCA, R. 224.1(a) RoP) ran from 20 March and ended on 20 May (R. 300 RoP)."
+  ],
+  "abschnitt": "R. 224 RoP: time limit",
+  "_de": "d38790e243"
+ },
+ "einheit:u09a-4d": {
+  "titel": "Time limit for the grounds",
+  "frage": "By when must Belkin file its grounds of appeal?",
+  "optionen": [
+   "Within four months of service",
+   "Together with the Statement of appeal",
+   "Within six weeks"
+  ],
+  "loesung": [
+   "The Statement of grounds of appeal must be lodged within **four months** of service of the decision (R. 224.2(a) RoP), here by 20 July."
+  ],
+  "abschnitt": "R. 224 RoP: time limit",
+  "_de": "77804ca36d"
+ },
+ "einheit:u09a-4e": {
+  "titel": "No alignment",
+  "frage": "Will the time limit for the grounds be extended?",
+  "loesung": [
+   "**No!** Given the strict regime of time limits, extensions under R. 9.3(a) RoP are only granted in exceptional circumstances. Alignment with parallel proceedings is not one where the Court of Appeal can hear both proceedings together under R. 220.5 RoP (UPC CoA bioMérieux/Labrador)."
+  ],
+  "abwandlung": "Belkin requests that the time limit for the grounds be aligned with the later time limit in parallel proceedings.",
+  "abschnitt": "R. 224 RoP: time limit",
+  "_de": "866a1957b0"
+ },
+ "kapitel:u09b": {
+  "titel": "Art. 73(1) UPCA, R. 237 and 313 RoP: adverse effect, cross-appeal, intervener",
+  "_de": "69773515f1"
+ },
+ "einheit:u09b-0": {
+  "titel": "Who may appeal, and how: adverse effect and cross-appeal",
+  "text": "An appeal may only be brought by a party that has been **unsuccessful**, in whole or in part, in its submissions (Art. 73(1) UPCA), in the language of the RoP the “party adversely affected” (R. 220.1 RoP). A party that has missed the time limit for appeal can join by way of **cross-appeal** if another party has appealed; the cross-appeal must be contained in the Statement of response, meet the requirements of R. 225, 226 RoP and is subject to a fee (R. 237.1 to 237.4 RoP). If the appeal is withdrawn, the cross-appeal is also deemed withdrawn (R. 237.5 RoP). A cross-appeal also requires adverse effect: a party that won and only wants different reasoning is not adversely affected (UPC CoA Abbott/Sinocare). A special case is the **conditional counterclaim**: the defendant may make its Counterclaim for revocation conditional on infringement being found; if the court dismisses the infringement action and therefore does not decide on the counterclaim, the counterclaimant is adversely affected as soon as the claimant appeals, and may lodge its appeal on the condition that the claimant appeals (Emboline/AorticLab). Because the infringement action and the counterclaim are separate actions, this requires a separate appeal and not a cross-appeal (AorticLab/Emboline). The **intervener** (R. 313 ff. RoP) has no independent position: its procedural acts are only admissible insofar as they support the claims of the party it supports (Strabag/Swarco). An objection to international jurisdiction is lost on appeal if it was not raised at first instance (Art. 26(1) Brussels Ia Regulation, R. 19.7 RoP; Sinocare/Abbott).",
+  "_de": "4d046e2293"
+ },
+ "gruppe:u09b-1": {
+  "titel": "Won, but with the wrong reasoning",
+  "sachverhalt": "The central division dismisses Sinocare's revocation action against Abbott's patent. Sinocare appeals. Abbott cross-appeals to have inventive step confirmed on a different ground.",
+  "_de": "b20c90b35e"
+ },
+ "einheit:u09b-1a": {
+  "titel": "Party adversely affected",
+  "frage": "Who can appeal?",
+  "optionen": [
+   "Any party to the proceedings",
+   "A party unsuccessful, in whole or in part, in its submissions",
+   "Only the claimant"
+  ],
+  "loesung": [
+   "An appeal may only be brought by a party that has been **unsuccessful**, in whole or in part, in its submissions (Art. 73(1) UPCA), i.e. the “party adversely affected” (R. 220.1 RoP)."
+  ],
+  "abschnitt": "Art. 73(1) UPCA, R. 237 RoP: adverse effect and cross-appeal",
+  "_de": "7534f9bb0b"
+ },
+ "einheit:u09b-1b": {
+  "titel": "Operative part, not reasons",
+  "frage": "Does adverse effect follow from the operative part alone?",
+  "loesung": [
+   "**Yes!** Adverse effect follows from the **operative part**, not from the reasons. Abbott was entirely successful: the revocation action was dismissed (UPC CoA Abbott/Sinocare)."
+  ],
+  "merke": "Adverse effect lies in the operative part, not in the reasons.",
+  "abschnitt": "Art. 73(1) UPCA, R. 237 RoP: adverse effect and cross-appeal",
+  "_de": "a38e29e380"
+ },
+ "einheit:u09b-1c": {
+  "titel": "Cross-appeal inadmissible",
+  "frage": "Is Abbott's cross-appeal admissible?",
+  "loesung": [
+   "**No!** A cross-appeal also requires adverse effect (R. 237 RoP). A party that only wants to change the reasoning of a decision in its favour is not adversely affected (UPC CoA Abbott/Sinocare)."
+  ],
+  "abschnitt": "Art. 73(1) UPCA, R. 237 RoP: adverse effect and cross-appeal",
+  "_de": "91ce76c65c"
+ },
+ "einheit:u09b-1d": {
+  "titel": "Arguments in the response",
+  "frage": "Can Abbott still put forward the other ground?",
+  "loesung": [
+   "**Yes!** As respondent, Abbott can put forward in its Statement of response all grounds supporting the outcome (R. 235, 236 RoP). The Court of Appeal can confirm the dismissal on different grounds (R. 222.1 RoP)."
+  ],
+  "abschnitt": "Art. 73(1) UPCA, R. 237 RoP: adverse effect and cross-appeal",
+  "_de": "8f04ed79ee"
+ },
+ "einheit:u09b-1e": {
+  "titel": "Dependence",
+  "frage": "What happens to a cross-appeal if the appeal is withdrawn?",
+  "optionen": [
+   "It continues as an independent appeal",
+   "It is referred to the first instance",
+   "It is also deemed withdrawn"
+  ],
+  "loesung": [
+   "If the appeal is withdrawn, any cross-appeal is also deemed withdrawn (R. 237.5 RoP). The cross-appeal is contained in the Statement of response and is subject to a fee like an appeal (R. 237.2, 237.4 RoP)."
+  ],
+  "abwandlung": "Suppose Abbott were adversely affected and had cross-appealed admissibly. Sinocare withdraws its appeal.",
+  "abschnitt": "Art. 73(1) UPCA, R. 237 RoP: adverse effect and cross-appeal",
+  "_de": "730e4dcae2"
+ },
+ "gruppe:u09b-2": {
+  "titel": "The counterclaimant's conditional appeal",
+  "sachverhalt": "Emboline sues AorticLab; AorticLab files a Counterclaim for revocation in case infringement is found. The local division dismisses the action and does not decide on the counterclaim. Emboline appeals.",
+  "_de": "7b57ff4b2c"
+ },
+ "einheit:u09b-2a": {
+  "titel": "Adverse effect for the counterclaimant",
+  "frage": "Is AorticLab adversely affected although it won?",
+  "loesung": [
+   "**Yes!** The counterclaimant is adversely affected as soon as the claimant appeals: if the Court of Appeal finds infringement, the condition is met and the undecided counterclaim must be decided (UPC CoA Emboline/AorticLab)."
+  ],
+  "abschnitt": "R. 220.1 RoP: conditional appeal",
+  "_de": "fcc4e2a016"
+ },
+ "einheit:u09b-2b": {
+  "titel": "Conditional appeal",
+  "frage": "Can AorticLab make its appeal conditional on Emboline appealing?",
+  "loesung": [
+   "**Yes!** The conditional appeal is admissible. The fee only becomes due when the condition is met (UPC CoA Emboline/AorticLab)."
+  ],
+  "merke": "Conditional counterclaim, conditional appeal: separate, not as a cross-appeal.",
+  "abschnitt": "R. 220.1 RoP: conditional appeal",
+  "_de": "5ede293130"
+ },
+ "einheit:u09b-2c": {
+  "titel": "No cross-appeal",
+  "frage": "Is the cross-appeal the right route?",
+  "loesung": [
+   "**No!** The infringement action and the counterclaim are **separate actions**; the condition linking them is “inter-procedural”. A separate appeal is therefore required (UPC CoA AorticLab/Emboline)."
+  ],
+  "abschnitt": "R. 220.1 RoP: conditional appeal",
+  "_de": "e3d0b09c01"
+ },
+ "einheit:u09b-2d": {
+  "titel": "Condition remains",
+  "frage": "Does the counterclaim remain conditional on appeal?",
+  "loesung": [
+   "**Yes!** It remains conditional unless the condition is dropped under R. 263 RoP by analogy and R. 222.2 RoP (UPC CoA Emboline/AorticLab)."
+  ],
+  "abschnitt": "R. 220.1 RoP: conditional appeal",
+  "_de": "d5a9ed400f"
+ },
+ "gruppe:u09b-3": {
+  "titel": "The intervener wants to fight on",
+  "sachverhalt": "Swarco has intervened in Strabag's infringement action against a supplier in support of the defendant. Both appeal. The defendant settles with Strabag and withdraws its appeal.",
+  "_de": "1bd50ae7c2"
+ },
+ "einheit:u09b-3a": {
+  "titel": "No contradiction",
+  "frage": "Is Swarco bound by the defendant's procedural acts?",
+  "loesung": [
+   "**Yes!** The intervener supports a party (R. 313 RoP). Its procedural acts are only admissible insofar as they support that party's claims; it may not act in contradiction to it (UPC CoA Strabag/Swarco)."
+  ],
+  "abschnitt": "R. 313 RoP: intervener",
+  "_de": "6871fc0618"
+ },
+ "einheit:u09b-3b": {
+  "titel": "Single appeal",
+  "frage": "Can Swarco continue its own appeal?",
+  "loesung": [
+   "**No!** The appeals of the party and of the intervener form a **single appeal**. Once the party withdraws, it becomes devoid of purpose and is disposed of under R. 360 RoP (UPC CoA Strabag/Swarco)."
+  ],
+  "merke": "The intervener follows the party.",
+  "abschnitt": "R. 313 RoP: intervener",
+  "_de": "cebfba73e1"
+ },
+ "einheit:u09b-3c": {
+  "titel": "Costs",
+  "frage": "Is the intervener treated like the main party as regards costs?",
+  "loesung": [
+   "**Yes!** As regards costs, the intervener is treated like the main party and bears its costs of the disposed-of appeal under the rules applying to the party (UPC CoA Strabag/Swarco)."
+  ],
+  "abschnitt": "R. 313 RoP: intervener",
+  "_de": "603473f797"
+ },
+ "einheit:u09b-3d": {
+  "titel": "Own action",
+  "frage": "How can Swarco nevertheless attack the patent?",
+  "optionen": [
+   "With its own revocation action",
+   "With an application for rehearing",
+   "With a cross-appeal"
+  ],
+  "loesung": [
+   "Swarco can still bring its own **revocation action** before the central division (Art. 47(6) UPCA). The RoP do not provide for an intervener continuing the proceedings independently, unlike § 69 ZPO."
+  ],
+  "abschnitt": "R. 313 RoP: intervener",
+  "_de": "1613ed1f8a"
+ },
+ "kapitel:u09c": {
+  "titel": "Art. 74, 75 and 81 UPCA, R. 222 and 223 RoP: suspensive effect, new submissions, decision, rehearing",
+  "_de": "59cb2cdcdb"
+ },
+ "einheit:u09c-0": {
+  "titel": "What the appeal does and what the Court of Appeal does",
+  "text": "The appeal has **no suspensive effect**; first-instance decisions are enforceable despite the appeal (Art. 74(1) UPCA, R. 354.1 RoP). Exceptions: decisions on revocation actions and Counterclaims for revocation and on actions against decisions of the EPO always have suspensive effect (Art. 74(2) UPCA), and the Court of Appeal may order it on a reasoned application (Art. 74(1) UPCA, R. 223 RoP). For this it requires exceptional circumstances, such as a manifest error or disproportionate, irreparable harm; a violation of the right to be heard can be such a circumstance (Siemens/Hologic). The application must be complete (Amycel). The subject matter of the appeal proceedings is the parties' requests, facts, evidence and arguments (R. 222.1 RoP); the Court of Appeal may disregard **new submissions**, considering whether they could not reasonably have been made at first instance, how relevant they are and the position of the other party (R. 222.2 RoP; Hefei/Grundfos, Onward/Niche). The Court of Appeal dismisses the appeal or sets aside the decision in whole or in part and **replaces it with its own**, including on the costs of both instances (Art. 75(1) UPCA, R. 242.1 RoP); it may exercise all powers of the Court of First Instance and refers back only in exceptional cases (R. 242.2 RoP, R. 243 RoP). Setting aside generally has **retroactive effect**: the first-instance order is deemed never to have been effective, and penalty payments imposed lose their basis (Kodak/Fujifilm 2026). Against a final decision, only **rehearing** under Art. 81 UPCA, R. 245 ff. RoP remains: for a decisive new fact based on a criminal act, or for a fundamental procedural defect, within ten years of the decision and two months of discovery.",
+  "_de": "6a306515b1"
+ },
+ "gruppe:u09c-1": {
+  "titel": "The follow-up application",
+  "sachverhalt": "Amycel is ordered to cease and desist and appeals. Its application for suspensive effect, briefly reasoned with lost sales, is rejected. Two weeks later it files a second application with arguments it already knew.",
+  "_de": "6d539b487b"
+ },
+ "einheit:u09c-1a": {
+  "titel": "Principle",
+  "frage": "Does the injunction remain enforceable despite the appeal?",
+  "loesung": [
+   "**Yes!** The appeal has no suspensive effect unless the Court of Appeal decides otherwise on a reasoned application (Art. 74(1) UPCA). The Agreement aims at immediate enforceability."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "8a3088368b"
+ },
+ "einheit:u09c-1b": {
+  "titel": "No second application",
+  "frage": "Is the second application admissible?",
+  "loesung": [
+   "**No!** The application for suspensive effect must also be **complete** (R. 223.2 RoP, front-loaded). A further application is only admissible if it is based on submissions that could not reasonably have been made in the first one (UPC CoA Amycel)."
+  ],
+  "merke": "The application for suspensive effect has only one shot.",
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "155dfbdb88"
+ },
+ "einheit:u09c-1c": {
+  "titel": "Lost sales",
+  "frage": "Are threatened lost sales sufficient as an exceptional circumstance?",
+  "loesung": [
+   "**No!** **Exceptional circumstances** are required, such as a manifest error or disproportionate, irreparable harm. Lost sales are compensated by the claim for compensation under R. 354.2 RoP."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "dcee3df293"
+ },
+ "einheit:u09c-1d": {
+  "titel": "Right to be heard",
+  "frage": "Can a violation of the right to be heard be sufficient?",
+  "loesung": [
+   "**Yes!** A violation of the right to be heard under Art. 76(2) UPCA can be an exceptional circumstance (UPC CoA Siemens/Hologic)."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "48f5d9eeef"
+ },
+ "einheit:u09c-1e": {
+  "titel": "Extreme urgency",
+  "frage": "Who decides in cases of extreme urgency?",
+  "optionen": [
+   "The standing judge",
+   "The local division",
+   "The President of the Court of First Instance"
+  ],
+  "loesung": [
+   "In cases of extreme urgency, the application may be made at any time without formality to the **standing judge**, who has all the powers of the Court of Appeal (R. 223.4 RoP)."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "08304425e6"
+ },
+ "gruppe:u09c-4": {
+  "titel": "The managing directors in the operative part",
+  "sachverhalt": "The local division orders Belkin companies and their managing directors to cease and desist; the managing directors are held liable as intermediaries. Belkin appeals and applies for suspensive effect.",
+  "_de": "882aa7e586"
+ },
+ "einheit:u09c-4a": {
+  "titel": "Content of the application",
+  "frage": "Must the application in itself allow a decision?",
+  "loesung": [
+   "**Yes!** The application must contain the grounds, facts, evidence and arguments (R. 223.2 RoP) and in itself allow a decision. References are only permissible if the passages are specifically identified (UPC CoA Philips/Belkin)."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "16ffbb841e"
+ },
+ "einheit:u09c-4b": {
+  "titel": "Manifest error",
+  "frage": "When does the Court of Appeal generally order suspensive effect?",
+  "optionen": [
+   "If the appeal may succeed",
+   "If the essential considerations do not hold even on summary examination",
+   "Whenever the appellant offers security"
+  ],
+  "loesung": [
+   "If the contested decision is **manifestly erroneous**: if its essential findings or considerations do not hold even on summary examination (UPC CoA Philips/Belkin)."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "8fe80cbbed"
+ },
+ "einheit:u09c-4c": {
+  "titel": "Other grounds",
+  "frage": "Does it matter whether the judgment could be correct on other grounds?",
+  "loesung": [
+   "**No!** If the essential grounds do not hold, suspensive effect is generally to be ordered, even if the judgment might prove correct on other findings or considerations (UPC CoA Philips/Belkin)."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "e0e2f23359"
+ },
+ "einheit:u09c-4d": {
+  "titel": "Managing directors",
+  "frage": "Is a managing director liable as an intermediary merely because of his function?",
+  "loesung": [
+   "**No!** The managing director represents the company; the company is not a “third party” in relation to him within the meaning of Art. 63 UPCA. The order against him as an intermediary was manifestly erroneous to that extent; suspensive effect was ordered for the managing directors (UPC CoA Philips/Belkin)."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "3d8d646d57"
+ },
+ "einheit:u09c-4e": {
+  "titel": "Security for enforcement",
+  "frage": "When is security under R. 352.1 RoP to be ordered?",
+  "optionen": [
+   "When the decision is issued",
+   "Only in enforcement proceedings",
+   "Only after the appeal has been lodged"
+  ],
+  "loesung": [
+   "Security for enforcement is to be ordered **when the decision is issued** or the order is made (R. 352.1 RoP; UPC CoA Philips/Belkin)."
+  ],
+  "abschnitt": "Art. 74 UPCA, R. 223 RoP: suspensive effect",
+  "_de": "a2b1f7da45"
+ },
+ "gruppe:u09c-2": {
+  "titel": "Old document, new teaching",
+  "sachverhalt": "On appeal, Hefei bases its lack-of-inventive-step attack on document D3. At first instance, D3 only served as evidence of common general knowledge; now Hefei derives a design detail from a drawing for the first time.",
+  "_de": "c904eb101e"
+ },
+ "einheit:u09c-2a": {
+  "titel": "Elaboration",
+  "frage": "Is the elaboration of an argument that was already conclusive “new”?",
+  "loesung": [
+   "**No!** Whether a submission is new within the meaning of R. 222.2 RoP depends on how general it was at first instance. Elaborating an argument that was already conclusive is not new (UPC CoA Hefei/Grundfos)."
+  ],
+  "abschnitt": "R. 222 RoP: new submissions",
+  "_de": "f7a9280088"
+ },
+ "einheit:u09c-2b": {
+  "titel": "New teaching",
+  "frage": "Is deriving the detail from D3 new although D3 was already on file?",
+  "loesung": [
+   "**Yes!** **Deriving specific technical information for the first time** from a document already submitted is a new submission (UPC CoA Hefei/Grundfos). The Court of Appeal may disregard it."
+  ],
+  "merke": "Clarifying is allowed; a new teaching from an old document is new (Hefei/Grundfos).",
+  "abschnitt": "R. 222 RoP: new submissions",
+  "_de": "59cfb55fb8"
+ },
+ "einheit:u09c-2c": {
+  "titel": "Discretion criteria",
+  "frage": "What does the Court of Appeal take into account in exercising its discretion?",
+  "optionen": [
+   "Earlier possibility, relevance and position of the other party",
+   "Relevance only",
+   "Only the other party's consent"
+  ],
+  "loesung": [
+   "Under R. 222.2(a) to 222.2(c) RoP, what counts is whether the submission could not reasonably have been made at first instance, how relevant it is and the position of the other party. The same applies to new auxiliary requests (Onward/Niche)."
+  ],
+  "abschnitt": "R. 222 RoP: new submissions",
+  "_de": "317a9e9730"
+ },
+ "einheit:u09c-2d": {
+  "titel": "Objection to jurisdiction",
+  "frage": "Can Hefei still raise the objection?",
+  "loesung": [
+   "**No!** A party that does not challenge jurisdiction at first instance by a Preliminary objection under R. 19 RoP has entered an appearance without contesting it (Art. 26(1) Brussels Ia Regulation, R. 19.7 RoP). On appeal the objection is lost (UPC CoA Sinocare/Abbott)."
+  ],
+  "abwandlung": "For the first time on appeal, Hefei objects to the international jurisdiction of the UPC.",
+  "abschnitt": "R. 222 RoP: new submissions",
+  "_de": "e2783c5e28"
+ },
+ "gruppe:u09c-5": {
+  "titel": "New argument, new document",
+  "sachverhalt": "On appeal, Meril puts forward a legal argument it did not make at first instance. It is based solely on facts and evidence from the first instance.",
+  "_de": "45756920a7"
+ },
+ "einheit:u09c-5a": {
+  "titel": "Legal arguments are free",
+  "frage": "Can the Court of Appeal disregard the argument under R. 222.2 RoP?",
+  "loesung": [
+   "**No!** R. 222.2 RoP only covers “requests, facts and evidence”, not legal arguments. A new legal argument based on the first-instance facts is admissible (UPC CoA Meril/Edwards 2024)."
+  ],
+  "merke": "R. 222.2 RoP bars new facts, not new legal arguments.",
+  "abschnitt": "R. 222 RoP: new submissions",
+  "_de": "d5b2eef3db"
+ },
+ "einheit:u09c-5b": {
+  "titel": "Discretion of the court's own motion",
+  "frage": "Must the Court of Appeal take the document into account because Edwards does not object?",
+  "loesung": [
+   "**No!** The Court of Appeal examines **of its own motion** how to exercise its discretion under R. 222.2 RoP. It may disregard late facts and evidence even without an objection from the other party (UPC CoA ICPillar/Arm)."
+  ],
+  "abwandlung": "Meril additionally submits a document it already had at first instance. Edwards raises no objection.",
+  "abschnitt": "R. 222 RoP: new submissions",
+  "_de": "b6170463ac"
+ },
+ "einheit:u09c-5c": {
+  "titel": "Duty to produce",
+  "frage": "Did Meril have to submit the document at first instance?",
+  "loesung": [
+   "**Yes!** R. 172.1 RoP establishes a duty to produce available evidence. Whether the court itself orders production, by contrast, is at its discretion (R. 172.2 RoP; UPC CoA ICPillar/Arm)."
+  ],
+  "abschnitt": "R. 222 RoP: new submissions",
+  "_de": "c11f92c701"
+ },
+ "gruppe:u09c-3": {
+  "titel": "Rehearing after a final decision",
+  "sachverhalt": "The Court of Appeal has finally dismissed Suinno's appeal against Microsoft. Suinno requests a rehearing: the prior art was wrongly assessed, and a witness gave incomplete testimony.",
+  "_de": "68e9fa51a9"
+ },
+ "einheit:u09c-3a": {
+  "titel": "Extraordinary remedy",
+  "frage": "Is rehearing an extraordinary remedy?",
+  "loesung": [
+   "**Yes!** Rehearing under Art. 81 UPCA is an **extraordinary remedy** against final decisions, granted by the Court of Appeal only exceptionally (UPC CoA Suinno/Microsoft)."
+  ],
+  "abschnitt": "Art. 81 UPCA: rehearing",
+  "_de": "b9790f3d53"
+ },
+ "einheit:u09c-3b": {
+  "titel": "Procedural defect",
+  "frage": "Is the wrong assessment of the prior art a fundamental procedural defect?",
+  "loesung": [
+   "**No!** Requests under Art. 81(1)(b) UPCA are limited to the defects listed in R. 247 RoP, such as an improperly composed panel or a violation of the right to be heard. The assessment of the prior art is an attack on the decision on the merits (UPC CoA Suinno/Microsoft)."
+  ],
+  "merke": "Rehearing: no third instance for the assessment of evidence.",
+  "abschnitt": "Art. 81 UPCA: rehearing",
+  "_de": "057acddcbe"
+ },
+ "einheit:u09c-3c": {
+  "titel": "New fact",
+  "frage": "Does the incomplete witness testimony justify a rehearing?",
+  "loesung": [
+   "**No!** A new fact only supports a rehearing if it is based on an act that a national court has held, by a final decision, to constitute a **criminal offence** (Art. 81(1)(a) UPCA)."
+  ],
+  "abschnitt": "Art. 81 UPCA: rehearing",
+  "_de": "c7862cdfe5"
+ },
+ "einheit:u09c-3d": {
+  "titel": "No suspensive effect",
+  "frage": "Can Microsoft continue to enforce despite the request?",
+  "loesung": [
+   "**Yes!** The request has no suspensive effect unless the Court of Appeal decides otherwise (the second sentence of Art. 81(2) UPCA)."
+  ],
+  "abschnitt": "Art. 81 UPCA: rehearing",
+  "_de": "c34ca07711"
+ },
+ "einheit:u09c-3e": {
+  "titel": "Time limit",
+  "frage": "By when must the request be filed?",
+  "optionen": [
+   "Ten years from the decision, at the latest two months from discovery",
+   "One month from service",
+   "No time limit"
+  ],
+  "loesung": [
+   "Within **ten years** of the decision, but no later than **two months** after discovery of the fact or the procedural defect (the first sentence of Art. 81(2) UPCA). Users of the patent acting in good faith are protected (Art. 81(4) UPCA)."
+  ],
+  "abschnitt": "Art. 81 UPCA: rehearing",
+  "_de": "a5370f2b59"
+ }
+}

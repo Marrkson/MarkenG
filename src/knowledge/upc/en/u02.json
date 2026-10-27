@@ -1,0 +1,578 @@
+{
+ "kurs:u02": {
+  "titel": "Jurisdiction and choice of division",
+  "untertitel": "Art. 31 UPCA with the Brussels Ia Regulation, Art. 33 UPCA with “the same parties” and the three options for the counterclaim, the Preliminary objection under R. 19 to 21 RoP and R. 333 RoP",
+  "beschreibung": "Four stages of examining jurisdiction before the UPC: international jurisdiction under the Brussels Ia Regulation (Sinocare/Abbott, Dyson/Dreame, NUC/Hurom), subject-matter jurisdiction under Art. 32 UPCA, the correct division under Art. 33 UPCA (Barco/Yealink, Meril/Edwards, Seoul Viosys/Emporia, Pari/Philips) and the objection by way of the Preliminary objection (Roku/Dolby, Vivo/Sun Patent, Sun Patent/Vivo, Netgear/Huawei).",
+  "_de": "c4631a441a"
+ },
+ "kapitel:u02a": {
+  "titel": "Art. 31 UPCA: international jurisdiction",
+  "_de": "18d523bb2f"
+ },
+ "einheit:u02a-0": {
+  "titel": "Examination scheme: jurisdiction of the UPC",
+  "text": "From the applicability of the UPCA through international and subject-matter jurisdiction to the choice of division and the defendant's Preliminary objection – this is the order in which the exam tests it, and the order in which R. 13.1(i) RoP requires the information in the Statement of claim.",
+  "abschnitt": "Overview",
+  "_de": "204c9364e4"
+ },
+ "einheit:u02a-1": {
+  "titel": "Jurisdiction in four stages",
+  "text": "**First**, the applicability of the UPCA: Unitary Patent or bundle patent without an opt-out (Art. 3, 83 UPCA). **Second**, international jurisdiction: Art. 31 UPCA refers to the **Brussels Ia Regulation**, which treats the UPC as a common court in Art. 71a to 71d Brussels Ia Regulation. The UPC has jurisdiction over defendants domiciled in a Member State (Art. 4 Brussels Ia Regulation) and – irrespective of domicile – over infringements in the territory of the Contracting Member States (Art. 7(2) Brussels Ia Regulation in conjunction with Art. 71b(2) Brussels Ia Regulation): the place where the damage occurs is where infringing products are intended for the market and are acquired via third parties, even if the defendant acts in a third country (Sinocare/Abbott; Dyson/Dreame). A defendant who enters an appearance without contesting jurisdiction establishes it (Art. 26 Brussels Ia Regulation) – but only with its first written pleading, not by accessing the CMS (NUC/Hurom). **Third**, subject-matter jurisdiction: Art. 32(1) UPCA contains an exhaustive list (infringement, declarations of non-infringement, provisional measures, revocation, counterclaims, provisional protection, prior use, compensation for licences, EPO decisions); everything else – entitlement claims, employee inventions, licence agreements – remains with the national courts (Art. 32(2) UPCA). **Fourth**, the division: infringement actions go to the local or regional division at the **place of infringement** or the **defendant's domicile** (Art. 33(1) UPCA), revocation actions and actions for declarations to the **central division** (Art. 33(4) UPCA). The first table sorts the types of action; the second shows how the defendant contests jurisdiction: with the **Preliminary objection** (R. 19 RoP) within one month, not only in the Statement of defence (R. 23 RoP).",
+  "abschnitt": "Overview",
+  "_de": "9b7213742e"
+ },
+ "gruppe:u02a-2": {
+  "titel": "Made in Shenzhen, sold in Europe",
+  "sachverhalt": "A-Ltd. from Hong Kong manufactures blood glucose sensors in China and sells them to an intermediary in Singapore. Via distribution companies, they reach German pharmacies bearing a CE marking and with German instructions for use. Patent proprietor B sues A-Ltd. before a German local division.",
+  "_de": "5d98919f2f"
+ },
+ "einheit:u02a-2a": {
+  "titel": "Reference to the Brussels Ia Regulation",
+  "frage": "Which rules govern the international jurisdiction of the UPC?",
+  "optionen": [
+   "The UPCA alone",
+   "The Brussels Ia Regulation (Art. 31 UPCA)",
+   "The code of civil procedure of the state in which the division sits",
+   "The EPC"
+  ],
+  "loesung": [
+   "The second answer is correct. Art. 31 UPCA refers to the **Brussels Ia Regulation**. Art. 71a to 71d Brussels Ia Regulation treat the UPC as a **common court** of several Member States, which can have jurisdiction like a court of a Member State."
+  ],
+  "abschnitt": "Art. 31 UPCA, Art. 71b Brussels Ia Regulation: place where the damage occurs",
+  "_de": "c8050d23d8"
+ },
+ "einheit:u02a-2b": {
+  "titel": "Defendant from a third country",
+  "frage": "Can A-Ltd. be sued before the UPC, even though it is not domiciled in a Member State?",
+  "loesung": [
+   "**Yes!** The UPC has jurisdiction over defendants not domiciled in a Member State if the **place where the damage occurs** is in the territory of the Contracting Member States (Art. 71b(2) Brussels Ia Regulation in conjunction with Art. 7(2) Brussels Ia Regulation). Domicile is then irrelevant."
+  ],
+  "abschnitt": "Art. 31 UPCA, Art. 71b Brussels Ia Regulation: place where the damage occurs",
+  "_de": "f481bc2872"
+ },
+ "einheit:u02a-2c": {
+  "titel": "Place of damage: intended market",
+  "frage": "Is the place where the damage occurs in Germany, even though A-Ltd. itself only acts in Asia?",
+  "loesung": [
+   "**Yes!** If products are **manufactured and sold for the Contracting Member States**, damage threatens there through their acquisition via third parties, even if the defendant itself acts outside the territory (Sinocare/Abbott). The CE marking and the German instructions for use show which market the products are intended for."
+  ],
+  "merke": "Whoever produces for the European market infringes there: the place of damage brings the third-country defendant before the UPC.",
+  "abschnitt": "Art. 31 UPCA, Art. 71b Brussels Ia Regulation: place where the damage occurs",
+  "_de": "9b1d7a2d7e"
+ },
+ "einheit:u02a-2d": {
+  "titel": "Several defendants",
+  "frage": "Can B sue two European distribution companies of the A group together with A-Ltd.?",
+  "loesung": [
+   "**Yes!** Several defendants of the same group that distribute the same embodiments may be sued together under Art. 8(1) Brussels Ia Regulation. As a common court, the UPC has jurisdiction over all infringements in a Contracting Member State irrespective of domicile (LD Hamburg, Dyson/Dreame)."
+  ],
+  "abwandlung": "B also wants to sue two distribution companies of the A group in Germany and France that distribute the same sensors.",
+  "abschnitt": "Art. 31 UPCA, Art. 71b Brussels Ia Regulation: place where the damage occurs",
+  "_de": "9faeb1d441"
+ },
+ "einheit:u02a-2e": {
+  "titel": "Choice of division against third-country defendants",
+  "frage": "Is B limited to the local division of the place of infringement in its action against A-Ltd.?",
+  "loesung": [
+   "**No!** The **choice of division** must be distinguished from international jurisdiction. Against defendants not domiciled in a Contracting Member State, an action may be brought at the place of infringement **or before the central division** (Art. 33(1) UPCA, third subparagraph)."
+  ],
+  "abschnitt": "Art. 31 UPCA, Art. 71b Brussels Ia Regulation: place where the damage occurs",
+  "_de": "d43d0ec684"
+ },
+ "gruppe:u02a-3": {
+  "titel": "A look into the CMS",
+  "sachverhalt": "The Korean company H-Co. is sued before a local division. Its representative retrieves the file in the electronic case management system (CMS) using the access code served. Three weeks later, H-Co. lodges a Preliminary objection contesting international jurisdiction.",
+  "_de": "45f6967bb4"
+ },
+ "einheit:u02a-3a": {
+  "titel": "Jurisdiction by entering an appearance",
+  "frage": "Can H-Co. itself establish the UPC's jurisdiction by entering an appearance without objection?",
+  "loesung": [
+   "**Yes!** Under Art. 26(1) Brussels Ia Regulation, a court acquires jurisdiction where the defendant enters an appearance **without contesting jurisdiction**. This also applies to the UPC (Art. 31 UPCA)."
+  ],
+  "abschnitt": "Art. 26 Brussels Ia Regulation: appearance without objection",
+  "_de": "4cf0106310"
+ },
+ "einheit:u02a-3b": {
+  "titel": "A download is not an appearance",
+  "frage": "Does retrieving the file in the CMS already amount to entering an appearance?",
+  "loesung": [
+   "**No!** In electronic proceedings (Art. 44 UPCA, R. 4.1 RoP), access with the access code is merely the **technical first step** towards learning of the action at all. It involves no deliberate decision in favour of jurisdiction (NUC/Hurom)."
+  ],
+  "merke": "Entering an appearance is a procedural declaration, not a download.",
+  "abschnitt": "Art. 26 Brussels Ia Regulation: appearance without objection",
+  "_de": "e38a5cb8ad"
+ },
+ "einheit:u02a-3c": {
+  "titel": "The first written pleading",
+  "frage": "With what does the defendant first enter an appearance before the UPC?",
+  "optionen": [
+   "With retrieving the file in the CMS",
+   "With appointing a representative",
+   "With the first written pleading: Preliminary objection or Statement of defence",
+   "With the oral hearing"
+  ],
+  "loesung": [
+   "The third answer is correct. Only with the **first written pleading**, the Preliminary objection under R. 19 RoP or the Statement of defence under R. 23 RoP, does the defendant decide for or against jurisdiction (NUC/Hurom)."
+  ],
+  "abschnitt": "Art. 26 Brussels Ia Regulation: appearance without objection",
+  "_de": "4bc22d64c9"
+ },
+ "einheit:u02a-3d": {
+  "titel": "One-month time limit",
+  "frage": "Did H-Co. object in time?",
+  "loesung": [
+   "**Yes!** The Preliminary objection must be lodged **within one month** of service of the Statement of claim (R. 19.1 RoP). Three weeks is within the time limit."
+  ],
+  "abschnitt": "Art. 26 Brussels Ia Regulation: appearance without objection",
+  "_de": "702a37aa33"
+ },
+ "einheit:u02a-3e": {
+  "titel": "Objection on appeal",
+  "frage": "Can H-Co. still contest jurisdiction on appeal?",
+  "loesung": [
+   "**No!** Without a timely Preliminary objection, jurisdiction is deemed **accepted** (R. 19.7 RoP). The objection is then also lost on appeal (Sinocare/Abbott)."
+  ],
+  "abwandlung": "H-Co. does not lodge a Preliminary objection, defends itself on the merits and contests jurisdiction only on appeal.",
+  "abschnitt": "Art. 26 Brussels Ia Regulation: appearance without objection",
+  "_de": "6751430256"
+ },
+ "kapitel:u02c": {
+  "titel": "Art. 33 UPCA: the competent division",
+  "_de": "9f90dae875"
+ },
+ "einheit:u02c-0": {
+  "titel": "Which division?",
+  "text": "**Art. 33 UPCA** allocates actions to the divisions. Infringement actions go to the local or regional division of the **place of infringement** (Art. 33(1)(a) UPCA) or of the **defendant's domicile** (Art. 33(1)(b) UPCA); against defendants not domiciled in a Contracting Member State, also to the central division (Art. 33(1) UPCA, third subparagraph). A pending infringement action bars further infringement actions between the same parties on the same patent before other divisions (Art. 33(2) UPCA). If the defendant files a **counterclaim for revocation**, the local division has three options (Art. 33(3) UPCA). Revocation actions and actions for declarations of non-infringement belong to the **central division**, unless an infringement action between the same parties is already pending (Art. 33(4) UPCA). An opposition at the EPO is not a prerequisite for a revocation action (Art. 33(8) UPCA).",
+  "abschnitt": "Overview",
+  "_de": "5ce4ae5b89"
+ },
+ "gruppe:u02a-4": {
+  "titel": "The website can be accessed everywhere",
+  "sachverhalt": "B-NV applies to the Hamburg Local Division for provisional measures against the Chinese company Y-Ltd. and its distribution partner V-GmbH, which has its seat in Munich. Y-Ltd. offers the contested conference systems via a German-language website accessible in Germany.",
+  "_de": "7eadc3ddc6"
+ },
+ "einheit:u02a-4a": {
+  "titel": "No order of priority",
+  "frage": "Can B-NV choose freely between the place of infringement (Art. 33(1)(a) UPCA) and the defendant's domicile (Art. 33(1)(b) UPCA)?",
+  "loesung": [
+   "**Yes!** Art. 33(1) UPCA gives the claimant the **choice** between the division of the state of infringement (point (a)) and that of the defendant's domicile (point (b)). There is no order of priority (Barco/Yealink)."
+  ],
+  "abschnitt": "Art. 33(1) UPCA: place of infringement or defendant's domicile",
+  "_de": "aec347099f"
+ },
+ "einheit:u02a-4b": {
+  "titel": "State, not district",
+  "frage": "Must the infringement have been committed specifically in the district of the Hamburg Local Division?",
+  "loesung": [
+   "**No!** For Art. 33(1)(a) UPCA, what matters is the **Contracting Member State** in which the infringement has occurred or may occur, not the division's district within Germany."
+  ],
+  "abschnitt": "Art. 33(1) UPCA: place of infringement or defendant's domicile",
+  "_de": "23508f0129"
+ },
+ "einheit:u02a-4c": {
+  "titel": "Website as connecting factor",
+  "frage": "Is an offer via a website accessible in Germany sufficient as an infringement in the territory?",
+  "loesung": [
+   "**Yes!** It suffices to establish acts of infringement in the territory, such as an **offer via a website accessible there**. The examination of competence is summary; there is no full taking of evidence (Barco/Yealink)."
+  ],
+  "merke": "Place of infringement or domicile – the claimant chooses; an accessible website suffices.",
+  "abschnitt": "Art. 33(1) UPCA: place of infringement or defendant's domicile",
+  "_de": "8194293cd4"
+ },
+ "einheit:u02a-4d": {
+  "titel": "Referral instead of dismissal",
+  "frage": "If the chosen division lacks competence, is the case referred to a competent division?",
+  "loesung": [
+   "**Yes!** The competence of the division is an internal matter of the UPC. If the division lacks competence, the case is **referred** once the claimant indicates a competent division (R. 19.5 RoP), for reasons of efficiency also in summary proceedings (Barco/Yealink)."
+  ],
+  "abwandlung": "B-NV could not have shown any infringement in Germany.",
+  "abschnitt": "Art. 33(1) UPCA: place of infringement or defendant's domicile",
+  "_de": "99c859dd0a"
+ },
+ "einheit:u02a-4e": {
+  "titel": "Several defendants",
+  "frage": "Can B-NV sue several defendants at the domicile of one of them if they have no business dealings with each other?",
+  "loesung": [
+   "**No!** An action against several defendants requires a **commercial relationship** between them and **the same alleged infringement** (Art. 33(1)(b) UPCA, second sentence)."
+  ],
+  "abschnitt": "Art. 33(1) UPCA: place of infringement or defendant's domicile",
+  "_de": "3ea20c9815"
+ },
+ "gruppe:u02a-5": {
+  "titel": "The same parties",
+  "sachverhalt": "Patent proprietor E sues the Indian company M-Ltd. and its German subsidiary before a local division. Afterwards, the Italian sister company M-Srl brings a revocation action against the same patent before the central division. E considers the central division to lack competence under Art. 33(4) UPCA.",
+  "_de": "dea8819153"
+ },
+ "einheit:u02a-5a": {
+  "titel": "Identity of legal entities",
+  "frage": "Are M-Srl and the defendants “the same parties” because they belong to the same group?",
+  "loesung": [
+   "**No!** Art. 33(4) UPCA only bars the central division if an infringement action on the same patent is already pending between **the same parties**. This in principle requires **identity of the legal entities**; belonging to the same group is not sufficient (Meril/Edwards)."
+  ],
+  "abschnitt": "Art. 33(2) and 33(4) UPCA: the same parties",
+  "_de": "17c9b629b8"
+ },
+ "einheit:u02a-5b": {
+  "titel": "Exception: extension of res judicata",
+  "frage": "When are two legal entities exceptionally deemed to be the same party?",
+  "optionen": [
+   "If a judgment against one would have res judicata effect against the other",
+   "If they have instructed the same lawyers",
+   "If they belong to the same parent company",
+   "If they distribute the same products"
+  ],
+  "loesung": [
+   "The first answer is correct. Two legal entities are exceptionally one party if their interests are so identical that a judgment against one would have **res judicata** effect against the other (Meril/Edwards)."
+  ],
+  "abschnitt": "Art. 33(2) and 33(4) UPCA: the same parties",
+  "_de": "ab14a154cc"
+ },
+ "einheit:u02a-5c": {
+  "titel": "Straw man",
+  "frage": "Does M-Srl become the defendants' straw man because it coordinates its defence with them?",
+  "loesung": [
+   "**No!** The straw man doctrine can fulfil the criterion. However, a **common defence strategy** does not in itself make the second company the straw man of the first (CD Paris, Seoul Viosys/Emporia)."
+  ],
+  "abwandlung": "M-Srl and the defendants closely coordinate their defence against E.",
+  "abschnitt": "Art. 33(2) and 33(4) UPCA: the same parties",
+  "_de": "86011caded"
+ },
+ "einheit:u02a-5d": {
+  "titel": "Result",
+  "frage": "May the central division decide on M-Srl's revocation action?",
+  "loesung": [
+   "**Yes!** The bar in Art. 33(4) UPCA does not apply. The local division can take the parallel revocation action into account in its decision under Art. 33(3) UPCA and R. 118.2 RoP."
+  ],
+  "merke": "The same parties means the same legal entities; the exception requires an extension of res judicata.",
+  "abschnitt": "Art. 33(2) and 33(4) UPCA: the same parties",
+  "_de": "3a6684a67e"
+ },
+ "einheit:u02a-5e": {
+  "titel": "Art. 33(2) UPCA: the division first seised",
+  "frage": "Is the division first seised competent for a second infringement action by E against M-Ltd.?",
+  "loesung": [
+   "**Yes!** If an infringement action between the same parties on the same patent is pending, the **division first seised** is competent for further infringement actions (Art. 33(2) UPCA)."
+  ],
+  "abwandlung": "E wants to sue M-Ltd. before another local division for further deliveries.",
+  "abschnitt": "Art. 33(2) and 33(4) UPCA: the same parties",
+  "_de": "56dad36a59"
+ },
+ "gruppe:u02a-6": {
+  "titel": "Three routes for the counterclaim",
+  "sachverhalt": "Before the Düsseldorf Local Division, the defendant files a counterclaim for revocation. After the written procedure, the division decides, without hearing the parties, to hear both actions itself. It does not request a technical judge because the technology is said to be simple.",
+  "_de": "eced299a34"
+ },
+ "einheit:u02a-6a": {
+  "titel": "Hearing the parties",
+  "frage": "Must the division hear the parties before choosing one of the options under Art. 33(3) UPCA?",
+  "loesung": [
+   "**Yes!** The division decides on the three options **after hearing the parties** and at its discretion (R. 37.1 RoP; right to be heard under R. 264 RoP). The parties were not heard here."
+  ],
+  "abschnitt": "Art. 33(3) UPCA: counterclaim for revocation",
+  "_de": "ea5d3eef67"
+ },
+ "einheit:u02a-6b": {
+  "titel": "Option (a): technical judge",
+  "frage": "Can the division dispense with the technical judge when hearing both actions together?",
+  "loesung": [
+   "**No!** If the division chooses option (a), it hears both actions itself **and** requests the President of the Court of First Instance to allocate a **technically qualified judge** (R. 37.3 RoP). There is no discretion to dispense with this."
+  ],
+  "merke": "Option (a): hear both actions together, but only with a technical judge.",
+  "abschnitt": "Art. 33(3) UPCA: counterclaim for revocation",
+  "_de": "274396b5df"
+ },
+ "einheit:u02a-6c": {
+  "titel": "Option (b): bifurcation",
+  "frage": "May the division refer the counterclaim to the central division and continue the infringement action itself?",
+  "loesung": [
+   "**Yes!** That is option (b), **bifurcation**: the counterclaim is referred, and the infringement proceedings are stayed or continued. A stay should be ordered where there is a high likelihood that the patent will be revoked (R. 37.4 RoP). In practice, the divisions almost always choose option (a)."
+  ],
+  "abschnitt": "Art. 33(3) UPCA: counterclaim for revocation",
+  "_de": "47a787e039"
+ },
+ "einheit:u02a-6d": {
+  "titel": "Option (c): only with consent",
+  "frage": "Can the division refer the entire case to the central division against the will of one party?",
+  "loesung": [
+   "**No!** Option (c), referral of the entire case to the central division, requires the **agreement of the parties** (Art. 33(3)(c) UPCA)."
+  ],
+  "abschnitt": "Art. 33(3) UPCA: counterclaim for revocation",
+  "_de": "0e8b2cd8c0"
+ },
+ "einheit:u02a-6e": {
+  "titel": "Conditional counterclaim",
+  "frage": "May the defendant make its counterclaim conditional on a finding of infringement?",
+  "loesung": [
+   "**Yes!** The infringement action and the counterclaim remain **separate actions**; the counterclaim may be made conditional on a finding of infringement (Emboline/AorticLab)."
+  ],
+  "abschnitt": "Art. 33(3) UPCA: counterclaim for revocation",
+  "_de": "40ef4a0237"
+ },
+ "gruppe:u02a-7": {
+  "titel": "Freedom to operate",
+  "sachverhalt": "P-GmbH develops inhalation devices and plans to launch a new model in two years. It brings a revocation action before the central division against a patent of K-NV. K-NV has never sent it a warning letter; P-GmbH has not filed an opposition at the EPO.",
+  "_de": "2045176589"
+ },
+ "einheit:u02a-7a": {
+  "titel": "Central division",
+  "frage": "Does the stand-alone revocation action belong before the central division?",
+  "loesung": [
+   "**Yes!** Revocation actions belong to the central division (Art. 32(1)(d), Art. 33(4) UPCA). Which section – Paris, Munich or Milan – is decided by the IPC class (Annex II UPCA, R. 17.3 RoP)."
+  ],
+  "abschnitt": "Art. 33(4) and 33(8) UPCA: revocation action before the central division",
+  "_de": "ce52c249de"
+ },
+ "einheit:u02a-7b": {
+  "titel": "Being concerned",
+  "frage": "Is P-GmbH “concerned” by the patent, even though it does not yet market a product?",
+  "loesung": [
+   "**Yes!** Standing to bring the action lies with any person **concerned** by the patent (Art. 47(6) UPCA). A person is concerned if it wants to clarify its **freedom to operate**, i.e. anyone who is or could become active in the technical field of the patent (CD Milan, Pari/Philips)."
+  ],
+  "merke": "A person is concerned if it works, or wants to work, in the field.",
+  "abschnitt": "Art. 33(4) and 33(8) UPCA: revocation action before the central division",
+  "_de": "173409fb89"
+ },
+ "einheit:u02a-7c": {
+  "titel": "No warning letter needed",
+  "frage": "Does the action require a warning letter from K-NV?",
+  "loesung": [
+   "**No!** Neither a warning letter nor a product on the market is required; Art. 47(6) UPCA only requires that the claimant is concerned (Pari/Philips)."
+  ],
+  "abschnitt": "Art. 33(4) and 33(8) UPCA: revocation action before the central division",
+  "_de": "24ff54d67b"
+ },
+ "einheit:u02a-7d": {
+  "titel": "No opposition needed",
+  "frage": "Must P-GmbH first file an opposition at the EPO?",
+  "loesung": [
+   "**No!** A prior opposition at the EPO is not a prerequisite for a revocation action (Art. 33(8) UPCA)."
+  ],
+  "abschnitt": "Art. 33(4) and 33(8) UPCA: revocation action before the central division",
+  "_de": "a91f82187f"
+ },
+ "einheit:u02a-7e": {
+  "titel": "Stay because of EPO proceedings",
+  "frage": "Can the UPC stay the revocation action?",
+  "loesung": [
+   "**Yes!** If opposition proceedings are running in parallel, the Court may stay its proceedings where a **rapid decision of the EPO** may be expected (Art. 33(10) UPCA, R. 295(a) RoP)."
+  ],
+  "abwandlung": "A third party has filed an opposition at the EPO; the decision of the opposition division is expected within a few months.",
+  "abschnitt": "Art. 33(4) and 33(8) UPCA: revocation action before the central division",
+  "_de": "77a4b17bf6"
+ },
+ "kapitel:u02b": {
+  "titel": "R. 19 to 21 RoP: the Preliminary objection",
+  "_de": "c2dcbe9f7c"
+ },
+ "einheit:u02b-0": {
+  "titel": "Preliminary objection: one month, three grounds",
+  "text": "The defendant must contest jurisdiction **within one month** of service of the Statement of claim by lodging a **Preliminary objection** (R. 19.1 RoP). The grounds are exhaustive: (a) jurisdiction of the Court, including an opt-out, (b) competence of the chosen division, (c) language of the Statement of claim; a breach of Art. 47 CFR as such is not among them (Roku/Dolby). Before a regional division, the defendant may also request referral to the central division if the infringement has occurred in the territories of three or more regional divisions (R. 19.4 RoP, Art. 33(2) UPCA). If no Preliminary objection is lodged, the jurisdiction of the Court and the competence of the division are deemed **accepted** (R. 19.7 RoP) – the objection is then also lost on appeal (Sinocare/Abbott). The time limit for the Statement of defence continues to run (R. 19.6 RoP). The claimant may itself cure defects in the choice of division or language within 14 days; if it indicates a competent division, the judge-rapporteur **refers** the case (R. 19.5 RoP). The **judge-rapporteur** decides on the Preliminary objection after hearing the parties (R. 20.1 RoP) or deals with it in the main proceedings (R. 20.2 RoP) – the panel may do so too if the question has been referred to it under R. 102.1 RoP (Vivo/Sun Patent). If the judge-rapporteur allows the Preliminary objection, an appeal lies under R. 220.1(a) RoP; if he rejects it, only with leave under R. 220.2 RoP (R. 21.1 RoP). A **stay** under R. 21.2 RoP requires that an appeal has already been lodged (Sun Patent/Vivo).",
+  "abschnitt": "Overview",
+  "_de": "58372bdadf"
+ },
+ "gruppe:u02b-1": {
+  "titel": "What can the Preliminary objection raise?",
+  "sachverhalt": "B-AG is sued before a local division. Its lawyer gathers the objections and checks which of them belong in the Preliminary objection under R. 19 RoP.",
+  "_de": "cca5046143"
+ },
+ "einheit:u02b-1a": {
+  "titel": "Opt-out",
+  "frage": "Can B-AG argue in the Preliminary objection that an opt-out is registered for the patent?",
+  "loesung": [
+   "**Yes!** R. 19.1(a) RoP expressly mentions the jurisdiction of the Court, including the objection that an **opt-out** under R. 5 RoP applies. Apart from that, there is only the competence of the division (R. 19.1(b) RoP) and the language of the Statement of claim (R. 19.1(c) RoP)."
+  ],
+  "abschnitt": "R. 19 RoP: grounds and time limit",
+  "_de": "83b94a0287"
+ },
+ "einheit:u02b-1b": {
+  "titel": "Validity: counterclaim",
+  "frage": "Can B-AG argue in the Preliminary objection that the patent is obviously invalid?",
+  "loesung": [
+   "**No!** The list in R. 19.1 RoP is **exhaustive** (Roku/Dolby). B-AG challenges validity with a **counterclaim** in the Statement of defence (R. 25 RoP)."
+  ],
+  "abschnitt": "R. 19 RoP: grounds and time limit",
+  "_de": "16fc0b58e0"
+ },
+ "einheit:u02b-1c": {
+  "titel": "Standing: Statement of defence",
+  "frage": "Does the objection that the claimant, as a non-exclusive licensee, lacks standing belong in the Preliminary objection?",
+  "loesung": [
+   "**No!** Standing (Art. 47(3) UPCA) and all other objections belong in the **Statement of defence** (R. 23, 24 RoP). Formal defects of the Statement of claim are examined by the Registry (R. 16 RoP)."
+  ],
+  "abschnitt": "R. 19 RoP: grounds and time limit",
+  "_de": "e5c5ff48f2"
+ },
+ "einheit:u02b-1d": {
+  "titel": "Time limit not suspended",
+  "frage": "Does the time limit for the Statement of defence continue to run despite the Preliminary objection?",
+  "loesung": [
+   "**Yes!** The time limit for the defence continues to run (R. 19.6 RoP). The Preliminary objection must be drafted in the language of the Statement of claim (R. 19.3 RoP)."
+  ],
+  "merke": "The Preliminary objection only asks: this court, this division, this language? Everything else belongs in the Statement of defence.",
+  "abschnitt": "R. 19 RoP: grounds and time limit",
+  "_de": "4174c5eb62"
+ },
+ "einheit:u02b-1e": {
+  "titel": "Missed Preliminary objection",
+  "frage": "Can B-AG make up for it by raising the division's lack of competence in the Statement of defence?",
+  "loesung": [
+   "**No!** If no Preliminary objection is lodged, the jurisdiction of the Court and the competence of the division are deemed **accepted** (R. 19.7 RoP)."
+  ],
+  "abwandlung": "B-AG lets the one-month time limit under R. 19.1 RoP expire.",
+  "abschnitt": "R. 19 RoP: grounds and time limit",
+  "_de": "3bdd32076b"
+ },
+ "gruppe:u02b-2": {
+  "titel": "The panel decides",
+  "sachverhalt": "V-Corp. lodges a Preliminary objection to jurisdiction before a local division. The judge-rapporteur refers the question to the panel under R. 102.1 RoP. The panel orders that the Preliminary objection be dealt with only in the main proceedings.",
+  "_de": "4c554d3b48"
+ },
+ "einheit:u02b-2a": {
+  "titel": "R. 20 RoP: two routes",
+  "frage": "Must a Preliminary objection always be decided in advance?",
+  "loesung": [
+   "**No!** The judge-rapporteur either decides on the Preliminary objection (R. 20.1 RoP) or informs the parties that it will be dealt with **in the main proceedings** (R. 20.2 RoP)."
+  ],
+  "abschnitt": "R. 20 RoP: decision or main proceedings",
+  "_de": "584144f6d1"
+ },
+ "einheit:u02b-2b": {
+  "titel": "Referral to the panel",
+  "frage": "Was the judge-rapporteur entitled to refer the question to the panel?",
+  "loesung": [
+   "**Yes!** The judge-rapporteur may refer **any matter** to the panel (R. 102.1 RoP). Whatever the judge-rapporteur may do, the panel may also do after the referral (Vivo/Sun Patent)."
+  ],
+  "abschnitt": "R. 20 RoP: decision or main proceedings",
+  "_de": "a243d63522"
+ },
+ "einheit:u02b-2c": {
+  "titel": "Also in the written procedure",
+  "frage": "Does R. 102 RoP also apply in the written procedure?",
+  "loesung": [
+   "**Yes!** R. 102 RoP is located in the section on the interim procedure, but applies **mutatis mutandis in the written procedure**. There too, the judge-rapporteur is in charge of case management (R. 18, R. 331.1 RoP), including the order in which issues are decided (R. 334(e) RoP) (Vivo/Sun Patent)."
+  ],
+  "abschnitt": "R. 20 RoP: decision or main proceedings",
+  "_de": "722208a28d"
+ },
+ "einheit:u02b-2d": {
+  "titel": "Case management order",
+  "frage": "Is the order to deal with the Preliminary objection in the main proceedings a rejection of the Preliminary objection?",
+  "loesung": [
+   "**No!** It is not a rejection under R. 21.1 RoP, but a **case management** order. Where, as here, it comes from the panel, it can only be challenged with leave under R. 220.2 RoP or by way of discretionary review."
+  ],
+  "merke": "The judge-rapporteur manages the written procedure, but may refer any matter to the panel.",
+  "abschnitt": "R. 20 RoP: decision or main proceedings",
+  "_de": "036695fbb0"
+ },
+ "gruppe:u02b-4": {
+  "titel": "The judge-rapporteur as judge in his own cause",
+  "sachverhalt": "Huawei sues Netgear before the Munich Local Division. Netgear lodges a Preliminary objection. The judge-rapporteur informs the parties that the Preliminary objection will be dealt with in the main proceedings (R. 20.2 RoP). Netgear applies for review by the panel; the judge-rapporteur himself rejects this application as inadmissible.",
+  "_de": "d538f7e78e"
+ },
+ "einheit:u02b-4a": {
+  "titel": "R. 333 RoP first",
+  "frage": "Can Netgear appeal directly against the communication under R. 20.2 RoP?",
+  "loesung": [
+   "**No!** Unless otherwise provided, case management decisions of the judge-rapporteur or the presiding judge **cannot be appealed directly**. The remedy is an application for review by the **panel** (R. 333.1 RoP) (Netgear/Huawei)."
+  ],
+  "abschnitt": "R. 20, 21, 333 RoP: remedies",
+  "_de": "2c6a0da588"
+ },
+ "einheit:u02b-4b": {
+  "titel": "R. 20.2 RoP is case management",
+  "frage": "Is the communication that the Preliminary objection will be dealt with in the main proceedings a case management decision?",
+  "loesung": [
+   "**Yes!** The decision under R. 20.2 RoP is a case management decision; the panel must review it upon application under R. 333.1 RoP (Netgear/Huawei)."
+  ],
+  "abschnitt": "R. 20, 21, 333 RoP: remedies",
+  "_de": "25076c02a3"
+ },
+ "einheit:u02b-4c": {
+  "titel": "Competent: the panel",
+  "frage": "Must the panel decide on the admissibility of the application for review?",
+  "loesung": [
+   "**Yes!** The **panel** decides on the admissibility of the application under R. 333.1 RoP (Netgear/Huawei; R. 333.4 RoP). The application must be lodged within 15 days (R. 333.2 RoP)."
+  ],
+  "merke": "A review of the judge-rapporteur's decision is never decided by the judge-rapporteur himself.",
+  "abschnitt": "R. 20, 21, 333 RoP: remedies",
+  "_de": "b75b721eeb"
+ },
+ "einheit:u02b-4d": {
+  "titel": "Appeal with leave: a choice",
+  "frage": "Must Netgear apply for review by the panel before appealing?",
+  "loesung": [
+   "**No!** If the judge-rapporteur rejects the Preliminary objection, he may, by way of exception to the general rule, grant leave to appeal. Netgear then has the **choice**: appeal or application under R. 333.1 RoP (Netgear/Huawei)."
+  ],
+  "abwandlung": "The judge-rapporteur rejects the Preliminary objection and grants leave to appeal.",
+  "abschnitt": "R. 20, 21, 333 RoP: remedies",
+  "_de": "56b18510c4"
+ },
+ "einheit:u02b-4e": {
+  "titel": "Without leave: panel first",
+  "frage": "Can Netgear then immediately apply to the Court of Appeal for discretionary review?",
+  "loesung": [
+   "**No!** Without leave, Netgear must first apply for review by the panel. An appeal lies against the panel's decision if the panel grants leave (R. 220.2 RoP), otherwise discretionary review (R. 220.3 RoP) (Netgear/Huawei)."
+  ],
+  "abwandlung": "The judge-rapporteur rejects the Preliminary objection and does not grant leave to appeal.",
+  "abschnitt": "R. 20, 21, 333 RoP: remedies",
+  "_de": "0b8f6a4c76"
+ },
+ "gruppe:u02b-3": {
+  "titel": "Stay without an appeal",
+  "sachverhalt": "The judge-rapporteur rejects V-Corp.'s Preliminary objection. V-Corp. applies for leave to appeal under R. 220.2 RoP and, at the same time, for a stay of the proceedings under R. 21.2 RoP. It has not yet lodged an appeal.",
+  "_de": "18fbc0b9a1"
+ },
+ "einheit:u02b-3a": {
+  "titel": "Appeal lodged",
+  "frage": "Does a stay under R. 21.2 RoP require that an appeal has been lodged?",
+  "loesung": [
+   "**Yes!** R. 21.2 RoP allows a stay “if an appeal is lodged”. The appeal against the decision on the Preliminary objection must therefore **already have been lodged** (Sun Patent/Vivo)."
+  ],
+  "abschnitt": "R. 21 RoP: appeal and stay",
+  "_de": "e7ca254913"
+ },
+ "einheit:u02b-3b": {
+  "titel": "Application for leave is not enough",
+  "frage": "Is the application for leave to appeal sufficient?",
+  "loesung": [
+   "**No!** A mere application for leave under R. 220.2 RoP is not an appeal that has been lodged (Sun Patent/Vivo)."
+  ],
+  "abschnitt": "R. 21 RoP: appeal and stay",
+  "_de": "4095cfd03e"
+ },
+ "einheit:u02b-3c": {
+  "titel": "Precedence of the special rules",
+  "frage": "Can V-Corp. instead base the stay on R. 295(m) RoP?",
+  "loesung": [
+   "**No!** As **leges speciales**, the special rules in R. 19 to 21 RoP take precedence over the general rules on stays in R. 295 ff. RoP (Sun Patent/Vivo)."
+  ],
+  "abschnitt": "R. 21 RoP: appeal and stay",
+  "_de": "cdc67abcc5"
+ },
+ "einheit:u02b-3d": {
+  "titel": "Competent: the first instance",
+  "frage": "Who in principle decides on the stay of first-instance proceedings under R. 295 RoP?",
+  "optionen": [
+   "The Court of First Instance",
+   "The Court of Appeal",
+   "The Registrar",
+   "The President of the Court of First Instance"
+  ],
+  "loesung": [
+   "The first answer is correct. R. 295 RoP applies in both instances, but a stay of first-instance proceedings is in principle decided by the **Court of First Instance**, which knows the circumstances better and has discretion in case management (Sun Patent/Vivo)."
+  ],
+  "abschnitt": "R. 21 RoP: appeal and stay",
+  "_de": "a1db6aa349"
+ },
+ "einheit:u02b-3e": {
+  "titel": "The time limit continues to run",
+  "frage": "May V-Corp. wait with the Statement of defence until leave has been decided?",
+  "loesung": [
+   "**No!** The Preliminary objection does not suspend the time limit for the Statement of defence (R. 19.6, R. 23 RoP). V-Corp. must file its defence in time."
+  ],
+  "merke": "R. 21.2 RoP requires an appeal that has already been lodged, and the time limit for the defence continues to run.",
+  "abschnitt": "R. 21 RoP: appeal and stay",
+  "_de": "5dbc53d352"
+ }
+}

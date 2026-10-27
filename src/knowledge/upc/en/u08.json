@@ -1,0 +1,746 @@
+{
+ "kurs:u08": {
+  "titel": "Costs, fees and security for costs",
+  "untertitel": "Court fees and value of the dispute, decision on costs and cost proceedings, security for the defendant's costs – and the renewal fees, licences of right and register entries of the Unitary Patent at the EPO",
+  "beschreibung": "The money behind the proceedings: fixed fee and value-based fee under R. 370 RoP, reduction and reimbursement (Juul/NJOY, Roku/Dolby), the value of the dispute under R. 370.6 RoP (Kodak/Fujifilm), the decision on costs under Art. 69 UPCA with ceilings (SharkNinja, Strabag/Swarco), cost proceedings under R. 150 to 157 RoP with their one-month time limit, costs where the action has become devoid of purpose under R. 360 RoP (Dolby/Roku) and security for costs under Art. 69(4) UPCA, R. 158 RoP in the line Aarke/SodaStream, Hefei/Grundfos, Syntorr/Arthrex, La Siddhi/Athena and Suinno/Microsoft. The fourth chapter moves from the Court to the EPO: renewal fees of the Unitary Patent under Art. 2 RFeesUPP with grace period and lapse (R. 13, 14 UPR), 15% reduction for licences of right (Art. 8 UPReg, R. 12 UPR) and the Register for unitary patent protection (Art. 3(2) UPReg, R. 16 UPR).",
+  "_de": "33f818a786"
+ },
+ "kapitel:u08a": {
+  "titel": "R. 370 RoP: court fees and value of the dispute",
+  "_de": "5c81eae4ca"
+ },
+ "einheit:u08a-0": {
+  "titel": "Examination scheme: costs, fees and security for costs",
+  "text": "Four stations: the court fees on filing (R. 370 RoP), security for the defendant's costs during the proceedings (Art. 69(4) UPCA, R. 158 RoP), the decision on costs in the judgment (Art. 69(1) to 69(3) UPCA, R. 118.5 RoP) and cost proceedings afterwards (R. 150 to 157 RoP). The ceilings for recoverable representation costs depend on the value of the dispute (R. 152.2 RoP). Not to be confused with the renewal fees of the Unitary Patent, which are paid to the EPO (Art. 11 UPReg, R. 13 UPR, Art. 2 RFeesUPP; fourth chapter of this course).",
+  "_de": "61b9082f3e"
+ },
+ "gruppe:u08a-1": {
+  "titel": "Two patents, three defendants",
+  "sachverhalt": "Norvex brings an infringement action on two patents against three defendants; the value of the dispute is EUR 2 million. The defendants file a Counterclaim for revocation.",
+  "_de": "72b3492fd9"
+ },
+ "einheit:u08a-1a": {
+  "titel": "Fixed and value-based fee",
+  "frage": "Which fees does Norvex pay for the infringement action?",
+  "optionen": [
+   "Only a fixed fee",
+   "Fixed fee and value-based fee",
+   "Only a value-based fee"
+  ],
+  "loesung": [
+   "The infringement action incurs a **fixed fee** (R. 370.2(a) RoP). Because the value of the dispute exceeds EUR 500,000, a **value-based fee** under the table of fees is added (R. 370.3 RoP)."
+  ],
+  "abschnitt": "R. 370.2 to 370.10 RoP: fees",
+  "_de": "b40294ac70"
+ },
+ "einheit:u08a-1b": {
+  "titel": "One action, one fee",
+  "frage": "Despite two patents and three defendants, does Norvex pay only one fixed fee?",
+  "loesung": [
+   "**Yes!** If an action concerns several claimants, defendants or patents, under R. 370.7 RoP **only one** fixed fee and, where applicable, one value-based fee is payable."
+  ],
+  "merke": "One fee per action, however many patents and defendants (R. 370.7 RoP).",
+  "abschnitt": "R. 370.2 to 370.10 RoP: fees",
+  "_de": "e30cf4c6d1"
+ },
+ "einheit:u08a-1c": {
+  "titel": "Fee for the counterclaim",
+  "frage": "Is the counterclaim free of charge because it serves as a defence?",
+  "loesung": [
+   "**No!** The Counterclaim for revocation is also subject to a fee (R. 370.4(b) RoP), as is the revocation action before the central division (point (a))."
+  ],
+  "abschnitt": "R. 370.2 to 370.10 RoP: fees",
+  "_de": "797a284727"
+ },
+ "einheit:u08a-1d": {
+  "titel": "Reimbursement on withdrawal",
+  "frage": "Does Norvex get half of the court fees back?",
+  "loesung": [
+   "**No!** Reimbursement of 50% requires that the action is withdrawn **before the closure of the written procedure** (R. 370.9(b) RoP in the version applicable from 1 January 2026; UPC CoA Juul/NJOY). After the interim conference it is too late for that."
+  ],
+  "abwandlung": "Norvex withdraws the action after the interim conference.",
+  "abschnitt": "R. 370.2 to 370.10 RoP: fees",
+  "_de": "40f69e8191"
+ },
+ "einheit:u08a-1e": {
+  "titel": "Reduction for SMEs",
+  "frage": "Can Norvex, as a small enterprise, pay reduced fees?",
+  "loesung": [
+   "**Yes!** Small and micro enterprises pay reduced fees if they file the declaration under R. 370.8 RoP. If the fees threaten the party's economic existence, reimbursement under R. 370.10 RoP may be considered."
+  ],
+  "abwandlung": "Norvex is a small enterprise.",
+  "abschnitt": "R. 370.2 to 370.10 RoP: fees",
+  "_de": "02c31559d0"
+ },
+ "gruppe:u08a-2": {
+  "titel": "Four appeals, one fee?",
+  "sachverhalt": "Dolby sues Roku in four proceedings. In each, Roku challenges jurisdiction with the same Preliminary objection; the local division rejects all four. Roku files four appeals but pays only one appeal fee.",
+  "_de": "e1ae1a508f"
+ },
+ "einheit:u08a-2a": {
+  "titel": "One fee per proceeding",
+  "frage": "Is one fee enough because the legal question is identical in all four proceedings?",
+  "loesung": [
+   "**No!** The appeal fee is payable **for each appeal proceeding** (R. 370.5, R. 228 RoP). Each appeal is directed against a separate decision; identical questions do not change that (UPC CoA Roku/Dolby)."
+  ],
+  "merke": "One fee per appeal proceeding, even with the same legal question (Roku/Dolby).",
+  "abschnitt": "R. 370.5 RoP: appeal fee",
+  "_de": "f9ced4d0d4"
+ },
+ "einheit:u08a-2b": {
+  "titel": "Joint hearing",
+  "frage": "Do four fees remain payable even if the Court of Appeal hears the appeals together?",
+  "loesung": [
+   "**Yes!** A joint hearing under R. 220.5 RoP is a matter of case management, not of fees (UPC CoA Roku/Dolby)."
+  ],
+  "abschnitt": "R. 370.5 RoP: appeal fee",
+  "_de": "52bd024542"
+ },
+ "einheit:u08a-2c": {
+  "titel": "Limit of R. 370.7 RoP",
+  "frage": "Does the rule for several patents and parties in R. 370.7 RoP help Roku?",
+  "loesung": [
+   "**No!** R. 370.7 RoP privileges several patents or parties **within one action**. Several actions or appeals remain several proceedings."
+  ],
+  "abschnitt": "R. 370.5 RoP: appeal fee",
+  "_de": "741327d6ba"
+ },
+ "einheit:u08a-2d": {
+  "titel": "Consequence of non-payment",
+  "frage": "What happens if Roku does not pay the missing fees?",
+  "optionen": [
+   "Nothing, the fee will be collected later",
+   "The appeal is rejected as inadmissible",
+   "Roku loses the dispute on the merits"
+  ],
+  "loesung": [
+   "If the appellant does not pay the fee within the time limit set by the Registry, the President of the Court of Appeal rejects the appeal as **inadmissible** by decision by default (R. 229.4 RoP)."
+  ],
+  "abschnitt": "R. 370.5 RoP: appeal fee",
+  "_de": "cf4952a77f"
+ },
+ "gruppe:u08a-3": {
+  "titel": "The value of the dispute in enforcement",
+  "sachverhalt": "Penalty payments of EUR 300,000 have been set against Kodak for breaches of an injunction. Kodak appeals. Fujifilm, which is enforcing, wants the value of the dispute to be fixed at EUR 300,000.",
+  "_de": "84bc58deda"
+ },
+ "einheit:u08a-3a": {
+  "titel": "Standard",
+  "frage": "Whose interest determines the value of the dispute under R. 370.6 RoP?",
+  "optionen": [
+   "Kodak's interest in defending itself",
+   "The interest of the party that initiated the proceedings",
+   "The Court's interest in the penalty payments"
+  ],
+  "loesung": [
+   "The value of the dispute reflects the **objective interest of the party that initiated the proceedings** at the time the proceedings were initiated (R. 370.6 RoP). In enforcement proceedings, that is Fujifilm (UPC CoA Kodak/Fujifilm 2026)."
+  ],
+  "abschnitt": "R. 370.6 RoP: value of the dispute",
+  "_de": "2338e60bad"
+ },
+ "einheit:u08a-3b": {
+  "titel": "Value of the dispute on appeal",
+  "frage": "In Kodak's appeal, does Fujifilm's interest remain decisive?",
+  "loesung": [
+   "**Yes!** The value on appeal may differ from that at first instance. In an appeal by the defendant, however, the **claimant's** interest in upholding the decision remains decisive (UPC CoA Kodak/Fujifilm 2026)."
+  ],
+  "abschnitt": "R. 370.6 RoP: value of the dispute",
+  "_de": "b703d585d5"
+ },
+ "einheit:u08a-3c": {
+  "titel": "Penalty payments do not count",
+  "frage": "Is the sum of the forfeited penalty payments Fujifilm's interest?",
+  "loesung": [
+   "**No!** Penalty payments go **to the Court** (Art. 82(4) UPCA, R. 354.3 RoP), not to Fujifilm. What matters is Fujifilm's interest in compliance with the obligations that the penalty payments are meant to secure (UPC CoA Kodak/Fujifilm 2026)."
+  ],
+  "merke": "Penalty payments are not the value of the dispute; they belong to the Court.",
+  "abschnitt": "R. 370.6 RoP: value of the dispute",
+  "_de": "96e6ac8d5a"
+ },
+ "einheit:u08a-3d": {
+  "titel": "Challenge",
+  "frage": "Can Kodak challenge the setting of the value of the dispute without leave because it is in the operative part?",
+  "loesung": [
+   "**No!** Setting the value of the dispute is a procedural decision. It can only be challenged via R. 220.2 and 220.3 RoP, even if it is in the operative part (UPC CoA Kodak/Fujifilm 2026)."
+  ],
+  "abschnitt": "R. 370.6 RoP: value of the dispute",
+  "_de": "06e1c2abe8"
+ },
+ "kapitel:u08b": {
+  "titel": "Art. 69(1) to 69(3) UPCA, R. 150 to 157 and 360 RoP: decision on costs and cost proceedings",
+  "_de": "b449efd68f"
+ },
+ "einheit:u08b-0": {
+  "titel": "Who pays, how much, and in which proceedings",
+  "text": "Art. 69(1) UPCA contains the principle: the legal costs and other expenses incurred by the **successful party** shall, as a general rule, be borne by the unsuccessful party, provided they are **reasonable and proportionate** and **up to a ceiling** set by the Administrative Committee according to the value of the dispute (R. 152.2 RoP), unless equity requires otherwise. Where a party succeeds only in part or in exceptional circumstances, the Court may order that costs be apportioned equitably or that each party bear its own costs (Art. 69(2) UPCA); a party that causes unnecessary costs should bear them (Art. 69(3) UPCA). In the decision on the merits, the Court decides **in principle** on the obligation to bear costs (R. 118.5 RoP) and may award an interim reimbursement of costs (R. 150.2 RoP). The **amount** is determined in separate proceedings: application by the successful party **within one month** of the decision stating the costs (R. 151 RoP), hearing of the other side, decision by the judge-rapporteur (R. 156 RoP); recoverable are the court fees, reasonable and proportionate representation costs (R. 152 RoP), costs for witnesses and experts (R. 153, 154 RoP) and other expenses. Two finer points from case law: with two patents and success on only one, costs are to be apportioned according to the values of the patents (UPC CoA SharkNinja); an intervener is treated like the main party as regards costs (UPC CoA Strabag/Swarco). If the action becomes devoid of purpose, the Court decides on costs under R. 360 RoP according to whether the defendant gave cause for the action. Art. 69 UPCA implements Art. 14 IPRED; the German counterpart is §§ 91 ff. ZPO with the reduction of the value of the dispute under § 144 PatG.",
+  "_de": "e415adeba0"
+ },
+ "gruppe:u08b-1": {
+  "titel": "Two patents, one win",
+  "sachverhalt": "SharkNinja is sued on two patents. Patent A is infringed; SharkNinja is ordered to cease and desist. Patent B, which accounts for the larger part of the value of the dispute, is revoked on the counterclaim.",
+  "_de": "15bd56b953"
+ },
+ "einheit:u08b-1a": {
+  "titel": "Principle",
+  "frage": "Under Art. 69(1) UPCA, who as a rule bears the costs?",
+  "optionen": [
+   "The unsuccessful party, reasonable, proportionate and up to the ceiling",
+   "Each party its own costs",
+   "Always the defendant"
+  ],
+  "loesung": [
+   "The unsuccessful party as a rule bears the costs of the successful party, provided they are **reasonable and proportionate**, **up to a ceiling** based on the value of the dispute and unless equity requires otherwise (Art. 69(1) UPCA, R. 152.2 RoP)."
+  ],
+  "abschnitt": "Art. 69(1) and 69(2) UPCA: success and apportionment",
+  "_de": "12403aa6bb"
+ },
+ "einheit:u08b-1b": {
+  "titel": "Partial success",
+  "frage": "Has the claimant been fully successful because it obtained the injunction?",
+  "loesung": [
+   "**No!** The extent of success is measured by the **subject-matters of the dispute**, not by the economic result. The claimant lost on patent B; the costs are apportioned equitably (Art. 69(2) UPCA)."
+  ],
+  "abschnitt": "Art. 69(1) and 69(2) UPCA: success and apportionment",
+  "_de": "c68acc33b8"
+ },
+ "einheit:u08b-1c": {
+  "titel": "Ratio of values",
+  "frage": "How does the Court as a rule apportion the costs?",
+  "optionen": [
+   "Half each",
+   "In proportion to the values of the two patents",
+   "Entirely to the claimant"
+  ],
+  "loesung": [
+   "If two patents meet with different success, it is as a rule appropriate to apportion the costs **in proportion to the values of the patents**; alternatively, each party bears the costs attributable to the respective patent (UPC CoA SharkNinja). Here the claimant bears the larger share."
+  ],
+  "merke": "Two patents, one success: costs according to the ratio of the patents' values (SharkNinja).",
+  "abschnitt": "Art. 69(1) and 69(2) UPCA: success and apportionment",
+  "_de": "03a2173969"
+ },
+ "einheit:u08b-1d": {
+  "titel": "Costs of the counterclaim",
+  "frage": "Does this apportionment also apply to the costs of the counterclaim?",
+  "loesung": [
+   "**Yes!** The apportionment also covers the costs of the counterclaim with which SharkNinja succeeded against patent B (UPC CoA SharkNinja)."
+  ],
+  "abschnitt": "Art. 69(1) and 69(2) UPCA: success and apportionment",
+  "_de": "fc31576bde"
+ },
+ "gruppe:u08b-2": {
+  "titel": "Submission after a warning letter",
+  "sachverhalt": "Edwards sends Meril a warning letter and then applies for provisional measures. After the application is filed, Meril gives a cease-and-desist undertaking, which Edwards accepts. Both declare the proceedings settled.",
+  "_de": "dcd55df5af"
+ },
+ "einheit:u08b-2a": {
+  "titel": "Devoid of purpose",
+  "frage": "Can the Court close the proceedings as devoid of purpose?",
+  "loesung": [
+   "**Yes!** If an action has become devoid of purpose, the Court disposes of it after hearing the parties (R. 360 RoP). It decides on costs under Art. 69 UPCA; for this it must determine the successful party."
+  ],
+  "abschnitt": "Art. 69(1) UPCA, R. 360 RoP: costs where the action has become devoid of purpose",
+  "_de": "962bc35b83"
+ },
+ "einheit:u08b-2b": {
+  "titel": "No examination of the prospects of success",
+  "frage": "Must the Court examine whether the application for provisional measures was admissible and well-founded when the undertaking was given?",
+  "loesung": [
+   "**No!** If the defendant undertakes after the proceedings have been initiated to comply with the requests, this is as a rule not necessary. The undertaking itself shows that the requests have been met (UPC CoA Meril/Edwards 2024)."
+  ],
+  "abschnitt": "Art. 69(1) UPCA, R. 360 RoP: costs where the action has become devoid of purpose",
+  "_de": "18f9550dc0"
+ },
+ "einheit:u08b-2c": {
+  "titel": "Successful party",
+  "frage": "Who, then, is as a rule the successful party?",
+  "optionen": [
+   "Meril, because the application is disposed of",
+   "Edwards, because the undertaking meets the requests",
+   "Nobody; the costs are shared"
+  ],
+  "loesung": [
+   "As a rule the **claimant** is the successful party within the meaning of Art. 69(1) UPCA, because the undertaking corresponds to its requests. The requests and the content of the undertaking are decisive (UPC CoA Meril/Edwards 2024)."
+  ],
+  "merke": "Submission after the action: as a rule the claimant has succeeded (Meril/Edwards 2024).",
+  "abschnitt": "Art. 69(1) UPCA, R. 360 RoP: costs where the action has become devoid of purpose",
+  "_de": "59360d9df3"
+ },
+ "gruppe:u08b-3": {
+  "titel": "Settled without a warning letter",
+  "sachverhalt": "Dolby applies for provisional measures against Roku without a prior warning letter. After service, Roku immediately gives a cease-and-desist undertaking backed by a contractual penalty. Both declare the proceedings settled.",
+  "_de": "bae2a9f711"
+ },
+ "einheit:u08b-3a": {
+  "titel": "Warning letter not a requirement",
+  "frage": "Was the application admissible even without a prior warning letter?",
+  "loesung": [
+   "**Yes!** A warning letter is **not a requirement** for the admissibility or merits of an application for provisional measures (LD Munich Dolby/Roku)."
+  ],
+  "abschnitt": "Art. 69(2) UPCA, R. 360 RoP: having given cause",
+  "_de": "e03269b4dc"
+ },
+ "einheit:u08b-3b": {
+  "titel": "Urgency",
+  "frage": "Does the absence of a warning letter remove urgency?",
+  "loesung": [
+   "**No!** The absence of a warning letter does not remove urgency under R. 211.4 RoP (LD Munich Dolby/Roku)."
+  ],
+  "abschnitt": "Art. 69(2) UPCA, R. 360 RoP: having given cause",
+  "_de": "ca0fb9e9bb"
+ },
+ "einheit:u08b-3c": {
+  "titel": "Having given cause",
+  "frage": "What does the Court focus on in its decision on costs?",
+  "optionen": [
+   "Solely on the application's prospects of success",
+   "On the amount of the costs incurred",
+   "On whether the defendant gave cause for the application"
+  ],
+  "loesung": [
+   "What matters is whether the defendant **gave cause for the action**, assessed from the objective viewpoint of a person in the claimant's position at the time of filing (LD Munich Dolby/Roku)."
+  ],
+  "abschnitt": "Art. 69(2) UPCA, R. 360 RoP: having given cause",
+  "_de": "2bbef3604a"
+ },
+ "einheit:u08b-3d": {
+  "titel": "Cost risk",
+  "frage": "Can Dolby be ordered to bear the costs?",
+  "loesung": [
+   "**Yes!** If Roku learned of the infringement only through the application and submitted immediately, it gave no cause; the costs can then be imposed on Dolby (LD Munich Dolby/Roku). The idea corresponds to § 93 ZPO."
+  ],
+  "merke": "Whoever proceeds without a warning letter risks the costs if the other side submits immediately.",
+  "abschnitt": "Art. 69(2) UPCA, R. 360 RoP: having given cause",
+  "_de": "919b44b85a"
+ },
+ "gruppe:u08b-4": {
+  "titel": "Ilion's bill",
+  "sachverhalt": "On 5 May the local division rules against Tarsus and orders it to bear the costs. Ilion incurred representation costs of EUR 600,000; the ceiling for the value of the dispute is EUR 400,000.",
+  "_de": "aa616f19bd"
+ },
+ "einheit:u08b-4a": {
+  "titel": "One-month time limit",
+  "frage": "By when must Ilion file the application for a cost decision?",
+  "optionen": [
+   "Within one month of the decision",
+   "Within one year",
+   "Without a time limit until limitation"
+  ],
+  "loesung": [
+   "The successful party must file the application **within one month of the decision** and state the costs (R. 151 RoP). The one-year time limit applies to damages (R. 126 RoP)."
+  ],
+  "merke": "Cost proceedings: one month (R. 151 RoP).",
+  "abschnitt": "R. 150 to 157 RoP: cost proceedings",
+  "_de": "7dfc40d661"
+ },
+ "einheit:u08b-4b": {
+  "titel": "Ceiling",
+  "frage": "Does Ilion get the full EUR 600,000 reimbursed?",
+  "loesung": [
+   "**No!** Only **reasonable and proportionate** representation costs are recoverable (R. 152.1 RoP), and only **up to the ceiling** in the scale adopted by the Administrative Committee (R. 152.2 RoP). Ilion receives at most EUR 400,000."
+  ],
+  "abschnitt": "R. 150 to 157 RoP: cost proceedings",
+  "_de": "a2b3fde891"
+ },
+ "einheit:u08b-4c": {
+  "titel": "Judge-rapporteur",
+  "frage": "Does the judge-rapporteur decide alone and in writing?",
+  "loesung": [
+   "**Yes!** The **judge-rapporteur** decides in writing after the unsuccessful party has had an opportunity to comment (R. 156 RoP). The only remedy against the decision is an appeal under R. 221 RoP (R. 157 RoP)."
+  ],
+  "abschnitt": "R. 150 to 157 RoP: cost proceedings",
+  "_de": "02959bc14d"
+ },
+ "einheit:u08b-4d": {
+  "titel": "Re-establishment of rights",
+  "frage": "Can the missed time limit be remedied only by re-establishment of rights?",
+  "loesung": [
+   "**Yes!** A missed time limit under R. 151 RoP can only be remedied by **re-establishment of rights** (R. 320 RoP; UPC CoA Hanshow/SES-imagotag)."
+  ],
+  "abwandlung": "Ilion files the application only one week after the time limit has expired.",
+  "abschnitt": "R. 150 to 157 RoP: cost proceedings",
+  "_de": "69ba8dd428"
+ },
+ "einheit:u08b-4e": {
+  "titel": "Costs of summary proceedings",
+  "frage": "Does the one-month time limit for the costs of summary proceedings run from the order for provisional measures if proceedings on the merits follow?",
+  "loesung": [
+   "**No!** The time limit starts with service of the **decision on the merits**. Only if no proceedings on the merits follow, for instance after an unsuccessful application for provisional measures, do R. 150 and 151 RoP apply mutatis mutandis from service of the order (UPC CoA Hanshow/SES-imagotag)."
+  ],
+  "abschnitt": "R. 150 to 157 RoP: cost proceedings",
+  "_de": "4c58dfe392"
+ },
+ "kapitel:u08c": {
+  "titel": "Art. 69(4) UPCA, R. 158 RoP: security for costs",
+  "_de": "29b604e222"
+ },
+ "einheit:u08c-0": {
+  "titel": "Security for the defendant's costs",
+  "text": "Art. 69(4) UPCA allows the Court, at the request of the defendant, to order the **applicant** to provide adequate **security** for the legal costs and other expenses incurred by the defendant which the applicant may be liable to bear, in particular in the cases referred to in Art. 59 to 62 UPCA. R. 158.1 RoP allows the application at any time during the proceedings; the Court determines the time limit and form (deposit or bank guarantee), hears the parties beforehand (R. 158.2 RoP) and points out that a **decision by default** under R. 355 RoP may be given if security is not provided (R. 158.4, 158.5 RoP). The order can be appealed with leave under R. 220.2 RoP (R. 158.3 RoP). The Court of Appeal has sharpened the requirements in a line of decisions: the applicant must show that the claimant's financial position gives rise to concern that a cost award may not be recoverable, or that enforcement of a cost decision would be impossible or unduly burdensome (LD Munich Edwards/Meril; UPC CoA Aarke/SodaStream); what counts is the financial position of the claimant itself, not of its group; security can only be ordered **against the applicant** of the respective instance, i.e. at first instance only against the claimant and on appeal only against the appellant (Hefei/Grundfos; Suinno/Microsoft); after-the-event insurance must be taken into account (Syntorr/Arthrex); SME status does not exempt but can affect the amount, which is guided by the ceiling for recoverable costs (La Siddhi/Athena). Functionally, the provision corresponds to § 110 ZPO, but it is not limited to claimants from third countries.",
+  "_de": "db731e147a"
+ },
+ "gruppe:u08c-1": {
+  "titel": "The solvent group",
+  "sachverhalt": "Aarke, a Swedish company with low equity and losses, sues SodaStream. SodaStream applies for security for costs. Aarke points to its financially strong group.",
+  "_de": "21e288b846"
+ },
+ "einheit:u08c-1a": {
+  "titel": "Group",
+  "frage": "Does it depend solely on the financial position of Aarke itself?",
+  "loesung": [
+   "**Yes!** What matters is **solely the financial position of the claimant itself**. The parent company is not a party, and its willingness to step in is not legally secured (UPC CoA Aarke/SodaStream)."
+  ],
+  "merke": "R. 158 RoP: it is the claimant's purse that counts, not the group's.",
+  "abschnitt": "R. 158.1 RoP: requirements",
+  "_de": "48eaec2d3f"
+ },
+ "einheit:u08c-1b": {
+  "titel": "Undertaking to reimburse",
+  "frage": "Does Aarke's undertaking to reimburse any costs prevent the order?",
+  "loesung": [
+   "**No!** The claimant's mere willingness to reimburse is irrelevant (UPC CoA Aarke/SodaStream)."
+  ],
+  "abschnitt": "R. 158.1 RoP: requirements",
+  "_de": "2183e791a6"
+ },
+ "einheit:u08c-1c": {
+  "titel": "No examination of the prospects of success",
+  "frage": "Does the Court examine the prospects of success of Aarke's action?",
+  "loesung": [
+   "**No!** The prospects of success are not examined in proceedings on security for costs (UPC CoA Aarke/SodaStream)."
+  ],
+  "abschnitt": "R. 158.1 RoP: requirements",
+  "_de": "e70ae34c4e"
+ },
+ "einheit:u08c-1d": {
+  "titel": "Burden of presentation",
+  "frage": "What must SodaStream show?",
+  "optionen": [
+   "That Aarke will certainly lose the case",
+   "That Aarke's financial position endangers reimbursement or makes enforcement unduly difficult",
+   "That Aarke is established outside the EU"
+  ],
+  "loesung": [
+   "The applicant must show that the claimant's financial position endangers reimbursement or that enforcement of a cost decision would be **impossible or unduly burdensome**. It does not have to prove impossibility (UPC CoA Aarke/SodaStream)."
+  ],
+  "abschnitt": "R. 158.1 RoP: requirements",
+  "_de": "5123d70447"
+ },
+ "einheit:u08c-1e": {
+  "titel": "Seat in the EU",
+  "frage": "Is being established in another EU state sufficient for security?",
+  "loesung": [
+   "**No!** A party relying on obstacles to enforcement in the state where the claimant is established must set out the law there and how it is applied. Within the EU this rarely succeeds because of the Brussels Ia Regulation (UPC CoA Aarke/SodaStream)."
+  ],
+  "abwandlung": "What if Aarke were solvent and SodaStream merely pointed to its seat in Sweden?",
+  "abschnitt": "R. 158.1 RoP: requirements",
+  "_de": "d72956157d"
+ },
+ "gruppe:u08c-2": {
+  "titel": "Security against the counterclaimant?",
+  "sachverhalt": "Grundfos sues the Chinese manufacturer Hefei. Hefei files a Counterclaim for revocation. Grundfos requests that Hefei be ordered to provide security for the costs of the counterclaim.",
+  "_de": "7ca2c77b68"
+ },
+ "einheit:u08c-2a": {
+  "titel": "Only against the applicant",
+  "frage": "Can security under Art. 69(4) UPCA be ordered only against the applicant of the instance?",
+  "loesung": [
+   "**Yes!** Art. 69(4) UPCA allows the order only against the **applicant** who initiates the instance, and only at the request of the **defendant**. At first instance that is the claimant (UPC CoA Hefei/Grundfos)."
+  ],
+  "merke": "Security only against the party that opens the instance.",
+  "abschnitt": "Art. 69(4) UPCA: who must provide security",
+  "_de": "77dffd5bca"
+ },
+ "einheit:u08c-2b": {
+  "titel": "Counterclaim",
+  "frage": "Does the counterclaim make Hefei an applicant?",
+  "loesung": [
+   "**No!** The counterclaim is the direct consequence of the infringement action and does not make the defendant an applicant within the meaning of Art. 69(4) UPCA (UPC CoA Hefei/Grundfos; confirmed in Suinno/Microsoft)."
+  ],
+  "abschnitt": "Art. 69(4) UPCA: who must provide security",
+  "_de": "6e6d616996"
+ },
+ "einheit:u08c-2c": {
+  "titel": "Primacy of the UPCA",
+  "frage": "Does the broader wording of R. 158.1 RoP prevail?",
+  "loesung": [
+   "**No!** R. 158.1 RoP does speak of a request by \"a party\" against \"the other party\". But the rule must be interpreted in the light of the Agreement, which takes precedence (Art. 41(1) UPCA; UPC CoA Hefei/Grundfos)."
+  ],
+  "abschnitt": "Art. 69(4) UPCA: who must provide security",
+  "_de": "eea39e37b5"
+ },
+ "einheit:u08c-2d": {
+  "titel": "Appeal",
+  "frage": "Can Grundfos now request security from Hefei for the appeal?",
+  "loesung": [
+   "**Yes!** On appeal the principle applies in mirror image: the **respondent** is entitled to apply, and the appellant owes security, even if it was the defendant at first instance (UPC CoA Hefei/Grundfos)."
+  ],
+  "abwandlung": "Hefei loses at first instance and appeals.",
+  "abschnitt": "Art. 69(4) UPCA: who must provide security",
+  "_de": "e73f4df8d4"
+ },
+ "gruppe:u08c-3": {
+  "titel": "Insured and small",
+  "sachverhalt": "Syntorr, a small enterprise that has filed a declaration under R. 370.8 RoP, sues Arthrex. Arthrex applies for security for costs. Syntorr produces after-the-event insurance covering Arthrex's costs if Syntorr loses.",
+  "_de": "9eb1fefa89"
+ },
+ "einheit:u08c-3a": {
+  "titel": "Insurance counts",
+  "frage": "Must the Court take the insurance into account?",
+  "loesung": [
+   "**Yes!** The question is whether there is a **legitimate and real concern** that a cost decision may not be enforceable. Insurance covering the defendant's costs reduces this concern and must be taken into account (UPC CoA Syntorr/Arthrex)."
+  ],
+  "abschnitt": "R. 158.1 RoP: discretion and amount",
+  "_de": "49d203d930"
+ },
+ "einheit:u08c-3b": {
+  "titel": "Access to the cover",
+  "frage": "What matters with regard to the insurance?",
+  "optionen": [
+   "The amount of the premium",
+   "Whether Arthrex can actually access the cover",
+   "Where the insurer is established"
+  ],
+  "loesung": [
+   "What is decisive is that the defendant can **actually access** the cover; conditions, exclusions and the possibility of termination count for this (UPC CoA Syntorr/Arthrex)."
+  ],
+  "abschnitt": "R. 158.1 RoP: discretion and amount",
+  "_de": "2eda91ee0e"
+ },
+ "einheit:u08c-3c": {
+  "titel": "SME",
+  "frage": "Does SME status exempt from security?",
+  "loesung": [
+   "**No!** SME status and a declaration under R. 370.8 RoP do not exempt. Fee reduction and security for the other side's costs serve different purposes (UPC CoA La Siddhi/Athena)."
+  ],
+  "merke": "Insurance reduces the concern, SME status at most the amount.",
+  "abschnitt": "R. 158.1 RoP: discretion and amount",
+  "_de": "3565a94bbe"
+ },
+ "einheit:u08c-3d": {
+  "titel": "Amount",
+  "frage": "What guides the amount of the security?",
+  "optionen": [
+   "The court fees already paid",
+   "The ceiling for recoverable costs",
+   "The full value of the dispute"
+  ],
+  "loesung": [
+   "The amount is determined starting from the **ceiling for recoverable costs** in the light of all circumstances; SME status can lead to a lower security (UPC CoA La Siddhi/Athena)."
+  ],
+  "abschnitt": "R. 158.1 RoP: discretion and amount",
+  "_de": "4a8ef5e82b"
+ },
+ "gruppe:u08c-4": {
+  "titel": "Security not provided",
+  "sachverhalt": "Suinno lost against Microsoft and appealed. The Court of Appeal orders Suinno to provide security within six weeks, pointing out the consequences of default. Suinno does not pay.",
+  "_de": "b1885cb0b9"
+ },
+ "einheit:u08c-4a": {
+  "titel": "Appellant",
+  "frage": "Can security be ordered against Suinno as the appellant at all?",
+  "loesung": [
+   "**Yes!** Security is ordered against the applicant of the respective instance, i.e. on appeal against the appellant (UPC CoA Hefei/Grundfos)."
+  ],
+  "abschnitt": "R. 158.5 and 355 RoP: consequences of failure to provide security",
+  "_de": "7b47996762"
+ },
+ "einheit:u08c-4b": {
+  "titel": "Default",
+  "frage": "Can the Court give a decision by default?",
+  "loesung": [
+   "**Yes!** If the security is not provided in time, a decision by default may be given under R. 355 RoP (R. 158.5 RoP). The order must have announced this consequence (R. 158.4 RoP)."
+  ],
+  "abschnitt": "R. 158.5 and 355 RoP: consequences of failure to provide security",
+  "_de": "9105d47d5b"
+ },
+ "einheit:u08c-4c": {
+  "titel": "R. 355.2 RoP",
+  "frage": "Does R. 355.2 RoP protect Suinno because it was originally the claimant?",
+  "loesung": [
+   "**No!** In appeal proceedings the **appellant is deemed to be the claimant** within the meaning of R. 355 RoP. R. 355.2 RoP does not apply where the respondent applies for the decision by default against it (UPC CoA Suinno/Microsoft)."
+  ],
+  "merke": "On appeal the appellant is the claimant; R. 355.2 RoP does not protect it.",
+  "abschnitt": "R. 158.5 and 355 RoP: consequences of failure to provide security",
+  "_de": "55a0d6689b"
+ },
+ "einheit:u08c-4d": {
+  "titel": "Application to set aside",
+  "frage": "How can Suinno challenge the decision by default?",
+  "optionen": [
+   "Application to set aside within one month, with explanation and remedying the omission",
+   "Referral to the CJEU",
+   "Not at all, the decision cannot be challenged"
+  ],
+  "loesung": [
+   "By an **application to set aside** the decision by default within one month of service (R. 356 RoP, for the Court of Appeal via R. 357 RoP). It must explain the default, the fee must be paid and the omitted act must be performed."
+  ],
+  "abschnitt": "R. 158.5 and 355 RoP: consequences of failure to provide security",
+  "_de": "acf13c9404"
+ },
+ "kapitel:u08d": {
+  "titel": "Art. 8 and 11 UPReg, R. 12 to 16 UPR, Art. 2 RFeesUPP: renewal fees, licences of right, register",
+  "_de": "d127fe3a8d"
+ },
+ "einheit:u08d-0": {
+  "titel": "One fee, one register, one statement",
+  "text": "After registration, the EPO administers the Unitary Patent centrally (Art. 9 UPReg). **Renewal fees**: a single fee in euros to the EPO for the years following the year in which the mention of grant is published (Art. 11 UPReg, R. 13(1) UPR), due on the last day of the month containing the anniversary of the date of filing (R. 13(2) UPR, like R. 51(1) EPC), payable at the earliest three months in advance, by anyone without a representative. The amounts are set out in **Art. 2(1)(1) RFeesUPP**: from the 2nd year (EUR 35) to the 20th year (EUR 4,855), in total EUR 35,555 – the sum of the fees of the four states in which European patents were most frequently validated in 2015 (\"True Top 4\"); less than EUR 5,000 in the first ten years. Whoever fails to pay in time has a **grace period of six months with a 50% additional fee** (R. 13(3) UPR, Art. 2(1)(2) RFeesUPP); thereafter the patent lapses with retroactive effect from the due date (R. 14(1)(b) and 14(2) UPR), with re-establishment of rights within one year (R. 22 UPR). Two safety periods: fees falling due within three months of notification of the communication of registration can be paid within that period without an additional fee (R. 13(4) UPR); fees that would have fallen due between the mention of grant and the communication fall due only with the communication (R. 13(5) UPR). **Licences of right**: if the proprietor files a statement with the EPO that it is prepared to allow any person to use the invention as a licensee in return for appropriate consideration (Art. 8 UPReg, R. 12 UPR), the renewal fees are reduced by **15%** (Art. 3 RFeesUPP); the licence is treated as a contractual licence, and the UPC decides on the consideration (Art. 32(1)(h) UPCA). **Register**: the Register for unitary patent protection is part of the European Patent Register (R. 15, 16 UPR) and records transfers, licences, rights in rem and statements on licences of right; transfer only for all states, licences also for part of the territories (Art. 3(2) UPReg). Unitary Patents can be recognised by the code \"C0\".",
+  "_de": "fd02d3d243"
+ },
+ "gruppe:u08d-1": {
+  "titel": "From month-end to month-end",
+  "sachverhalt": "G-GmbH's European patent application was filed on 12 February 2021; the patent is a Unitary Patent. G-GmbH does not pay the renewal fee for the 6th year (EUR 475) in time.",
+  "_de": "8eb3e21418"
+ },
+ "einheit:u08d-1a": {
+  "titel": "Due date",
+  "frage": "When does the fee for the 6th year fall due?",
+  "optionen": [
+   "On 12 February 2026",
+   "On 28 February 2026",
+   "On 31 December 2025"
+  ],
+  "loesung": [
+   "It falls due on the **last day of the month** containing the anniversary of the date of filing (R. 13(2) UPR), here on 28 February 2026."
+  ],
+  "abschnitt": "R. 13 and 14 UPR: renewal fees",
+  "_de": "ed525d8131"
+ },
+ "einheit:u08d-1b": {
+  "titel": "Grace period",
+  "frage": "Has the patent lapsed upon expiry of the due date?",
+  "loesung": [
+   "**No!** There is a **grace period of six months** with an additional fee of 50% (R. 13(3) UPR, Art. 2(1)(2) RFeesUPP), here EUR 237.50."
+  ],
+  "abschnitt": "R. 13 and 14 UPR: renewal fees",
+  "_de": "5d5faca714"
+ },
+ "einheit:u08d-1c": {
+  "titel": "End of the grace period",
+  "frage": "Is the payment still in time?",
+  "loesung": [
+   "**Yes!** In EPO practice the grace period runs \"from month-end to month-end\": it ends on the last day of the sixth month, here on **31 August 2026** (UP Guidelines 3.11; R. 20(2)(g) UPR in conjunction with R. 131 EPC)."
+  ],
+  "abwandlung": "G-GmbH pays the fee and the additional fee on 31 August 2026.",
+  "abschnitt": "R. 13 and 14 UPR: renewal fees",
+  "_de": "ab65a9eaae"
+ },
+ "einheit:u08d-1d": {
+  "titel": "Lapse",
+  "frage": "Does the patent lapse with retroactive effect from the due date?",
+  "loesung": [
+   "**Yes!** If payment is not made within the grace period either, the Unitary Patent lapses **with retroactive effect** from the due date, here from 28 February 2026 (R. 14(1)(b) and 14(2) UPR)."
+  ],
+  "abwandlung": "G-GmbH does not pay at all.",
+  "abschnitt": "R. 13 and 14 UPR: renewal fees",
+  "_de": "a6ec361f0a"
+ },
+ "einheit:u08d-1e": {
+  "titel": "Re-establishment of rights",
+  "frage": "Can G-GmbH still request re-establishment of rights afterwards?",
+  "loesung": [
+   "**Yes!** Re-establishment must be requested within two months of the removal of the cause of non-compliance, but at the latest within one year of expiry of the unobserved time limit (R. 22 UPR)."
+  ],
+  "abschnitt": "R. 13 and 14 UPR: renewal fees",
+  "_de": "005bb25daa"
+ },
+ "gruppe:u08d-2": {
+  "titel": "Licences of right with consequences",
+  "sachverhalt": "H-AG has had an exclusive licence in favour of L-GmbH registered for its Unitary Patent. To save renewal fees, it wants to file a statement on licences of right.",
+  "_de": "250521040f"
+ },
+ "einheit:u08d-2a": {
+  "titel": "Blocked by an exclusive licence",
+  "frage": "Can the statement be registered?",
+  "loesung": [
+   "**No!** The statement under Art. 8 UPReg is excluded **as long as an exclusive licence** is registered or a request for its registration is pending (R. 12(3) UPR)."
+  ],
+  "merke": "Licences of right and an exclusive licence are mutually exclusive.",
+  "abschnitt": "Art. 8 UPReg, R. 12 UPR: licences of right",
+  "_de": "42ffe01493"
+ },
+ "einheit:u08d-2b": {
+  "titel": "15%",
+  "frage": "By how much are the renewal fees then reduced?",
+  "optionen": [
+   "By 15%",
+   "By 50%",
+   "By 25%"
+  ],
+  "loesung": [
+   "The statement (Form 7001) is registered free of charge and reduces the renewal fees falling due thereafter by **15%** (Art. 3 RFeesUPP)."
+  ],
+  "abwandlung": "The exclusive licence is deleted; H-AG files the statement.",
+  "abschnitt": "Art. 8 UPReg, R. 12 UPR: licences of right",
+  "_de": "185c02e9c6"
+ },
+ "einheit:u08d-2c": {
+  "titel": "No new exclusive licence",
+  "frage": "Can H-AG have an exclusive licence registered again afterwards?",
+  "loesung": [
+   "**No!** After the statement, no exclusive licence can be registered any longer (R. 12(4) UPR)."
+  ],
+  "abschnitt": "Art. 8 UPReg, R. 12 UPR: licences of right",
+  "_de": "6fc7778ec6"
+ },
+ "einheit:u08d-2d": {
+  "titel": "Withdrawal",
+  "frage": "Can H-AG withdraw the statement?",
+  "loesung": [
+   "**Yes!** Withdrawal is possible at any time, but takes effect only once the **full amount of the reduction** has been paid back (R. 12(2) UPR)."
+  ],
+  "abschnitt": "Art. 8 UPReg, R. 12 UPR: licences of right",
+  "_de": "fd31d0036b"
+ },
+ "einheit:u08d-2e": {
+  "titel": "Consideration",
+  "frage": "Who decides on a licensee's consideration if no agreement is reached?",
+  "optionen": [
+   "The EPO",
+   "The UPC",
+   "A national court"
+  ],
+  "loesung": [
+   "A licence obtained in this way is treated as a contractual licence (Art. 8(2) UPReg). The **UPC** decides on the appropriate consideration on an action (Art. 32(1)(h) UPCA)."
+  ],
+  "abschnitt": "Art. 8 UPReg, R. 12 UPR: licences of right",
+  "_de": "4cc0193f48"
+ },
+ "gruppe:u08d-3": {
+  "titel": "Only for Germany and Austria",
+  "sachverhalt": "I-S.p.A. holds a Unitary Patent. It wants to transfer it to K-GmbH \"for Germany and Austria\" and keep it for the other states. Both request registration with the EPO.",
+  "_de": "b85739fa16"
+ },
+ "einheit:u08d-3a": {
+  "titel": "No partial transfer",
+  "frage": "Can the EPO register the transfer for Germany and Austria only?",
+  "loesung": [
+   "**No!** The Unitary Patent has a **unitary character**: it can only be transferred, limited or revoked in respect of all participating Member States (the second subparagraph of Art. 3(2) UPReg, R. 16 UPR; UP Guidelines 7.2)."
+  ],
+  "merke": "Transfer only as a whole, licensing also in part (Art. 3(2) UPReg).",
+  "abschnitt": "Art. 3(2) UPReg, R. 16 UPR: register",
+  "_de": "772d33abe6"
+ },
+ "einheit:u08d-3b": {
+  "titel": "Partial licence",
+  "frage": "Can I-S.p.A. instead grant a licence for these two states only?",
+  "loesung": [
+   "**Yes!** Licences are permitted in respect of the whole or **part** of the territories (the third subparagraph of Art. 3(2) UPReg) and are registered on request (R. 20(2)(b) UPR in conjunction with R. 23 EPC)."
+  ],
+  "abschnitt": "Art. 3(2) UPReg, R. 16 UPR: register",
+  "_de": "d64d89cb2f"
+ },
+ "einheit:u08d-3c": {
+  "titel": "Applicable law",
+  "frage": "Which law governs the Unitary Patent as an object of property?",
+  "optionen": [
+   "The law of each participating state separately",
+   "Uniformly the law of the state determined under Art. 7 UPReg",
+   "German law, because the EPO is based in Munich"
+  ],
+  "loesung": [
+   "Uniformly the law of the state determined under **Art. 7 UPReg**, here Italian law if I-S.p.A. had its registered office in Italy on the date of filing. With a bundle patent, each national part would have to be treated separately."
+  ],
+  "abschnitt": "Art. 3(2) UPReg, R. 16 UPR: register",
+  "_de": "7ff7aaf61d"
+ }
+}

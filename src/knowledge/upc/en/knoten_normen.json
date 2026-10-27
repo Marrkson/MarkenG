@@ -1,0 +1,849 @@
+{
+ "eunorm:durchsetzungsrl:1": {
+  "_de": "a6fc20b9dd",
+  "hinweis": "The Directive does not harmonise substantive law (that is done by the Trade Marks Directive, the EUTMR, the Designs Directive etc.) but the civil enforcement of all intellectual property rights. Germany implemented it by an omnibus act (Enforcement Act of 7 July 2008, BGBl. I p. 1191, in force since 1 September 2008) in identical terms in the MarkenG, PatG, GebrMG, DesignG, UrhG, HalblSchG and SortSchG."
+ },
+ "eunorm:durchsetzungsrl:2": {
+  "_de": "fab3fc1e7d",
+  "hinweis": "Art. 2(1) IPRED makes the Directive a minimum harmonisation: stricter national sanctions (such as a flat-rate double licence fee) are permissible (CJEU OTK). Purely nationally protected rights such as company names (§ 5 MarkenG) and trade marks acquired through use are also covered."
+ },
+ "eunorm:durchsetzungsrl:3": {
+  "_de": "d1ef538727",
+  "hinweis": "Art. 3 IPRED is the general clause of the Directive. The CJEU uses it to interpret every individual provision: reimbursement only of reasonable and proportionate costs (NovaText), control of abuse in requests for information (Mircom), no general monitoring obligation for intermediaries (L'Oréal/eBay). In German law, the proportionality provisos of §§ 18(3), 19(4), 19a(2), 19b(2) MarkenG reflect Art. 3(2) IPRED."
+ },
+ "eunorm:durchsetzungsrl:4": {
+  "_de": "eeedeeadec",
+  "hinweis": "The Directive leaves it to national law whether and when licensees may sue (“in so far as permitted by, and in accordance with, the provisions of the applicable law”). § 30(3) MarkenG: consent of the proprietor, exceptionally the exclusive licensee's own right of action after formal request; § 30(4) MarkenG: joining the action to claim its own damage."
+ },
+ "eunorm:durchsetzungsrl:5": {
+  "_de": "3694ef95b0",
+  "hinweis": "Registered rights need no presumption based on the name: registration establishes the presumption of ownership (§ 28(1) MarkenG). Art. 5 IPRED has therefore been implemented only in the UrhG (§ 10 UrhG)."
+ },
+ "eunorm:durchsetzungsrl:6": {
+  "_de": "a4cbfce580",
+  "hinweis": "Germany designed Art. 6 and 7 IPRED as a substantive claim (§ 19a MarkenG: production of a document, inspection of an object; on a commercial scale also banking, financial and commercial documents), not as a mere procedural power to make orders. The requirement is a “sufficient likelihood” of infringement, not proof of it."
+ },
+ "eunorm:durchsetzungsrl:7": {
+  "_de": "010444fbd2",
+  "hinweis": "Implemented as an interim injunction to produce or to tolerate inspection (§ 19a(3) MarkenG), also without hearing the other party, with protection of secrets (“Düsseldorf procedure”: inspection by an expert bound to confidentiality). Art. 7(4) IPRED corresponds to § 19a(5) MarkenG (strict liability for damages if there was no infringement) and generally to § 945 ZPO."
+ },
+ "eunorm:durchsetzungsrl:8": {
+  "_de": "58d84015b3",
+  "hinweis": "The core of the Directive. Correspondence: Art. 8(1)(a) to 8(1)(d) IPRED = the first sentence of § 19(2) MarkenG, nos. 1 to 4 (information from third parties in case of obvious infringement or after an action has been brought); Art. 8(2) IPRED = § 19(3) MarkenG; Art. 8(3)(d) IPRED = right to refuse to testify (§§ 383 to 385 ZPO); Art. 8(3)(e) IPRED = judicial authorisation for traffic data (§ 19(9) MarkenG). “Addresses” means only the postal address (Constantin Film); banking secrecy does not justify a blanket refusal (Coty, Davidoff Hot Water II); the claim can also be pursued in separate proceedings after the infringement action (NEW WAVE)."
+ },
+ "eunorm:durchsetzungsrl:9": {
+  "_de": "84757cb552",
+  "hinweis": "In Germany, interim relief is governed by the ZPO; the MarkenG only adds the presumption of urgency in § 140(3) MarkenG (injunction; only since the MaMoG 2019, not driven by the Directive), urgent information (§ 19(7) MarkenG) and the production order (§ 19a(3) MarkenG). Art. 9(2) IPRED (freezing of bank accounts, documents) = § 19b MarkenG plus attachment (Arrest). Art. 9(7) IPRED = § 945 ZPO, which imposes strict liability and thus goes beyond the Directive (CJEU Bayer/Richter: “appropriate compensation” allows the defendant's own risk to be taken into account)."
+ },
+ "eunorm:durchsetzungsrl:10": {
+  "_de": "6306471d95",
+  "hinweis": "Art. 10(1)(a) and 10(1)(b) IPRED are the claims for recall and removal in § 18(2) MarkenG (new since 2008), Art. 10(1)(c) IPRED the claim for destruction in § 18(1) MarkenG; Art. 10(3) IPRED is the proportionality proviso of § 18(3) MarkenG, including the interests of third parties (such as purchasers in good faith). No fault required."
+ },
+ "eunorm:durchsetzungsrl:11": {
+  "_de": "8d8bb10762",
+  "hinweis": "The first sentence of Art. 11 IPRED = claim for an injunction (§ 14(5) MarkenG), second sentence = enforcement via § 890 ZPO. The third sentence of Art. 11 IPRED requires injunctions against intermediaries irrespective of their own liability; Germany meets this through Störerhaftung (injunction without fault where reasonable duties of review are breached). The injunction must also prevent future infringements of the same kind, but must not impose a general monitoring obligation (L'Oréal/eBay); the operator of a physical market hall can also be an intermediary (Tommy Hilfiger)."
+ },
+ "eunorm:durchsetzungsrl:12": {
+  "_de": "ba32f49840",
+  "hinweis": "Optional provision; Germany implemented it only in the DesignG (§ 45 DesignG) and the UrhG (§ 100 UrhG): the infringer acting without fault can avert an injunction and destruction by paying pecuniary compensation equal to the reasonable remuneration. The MarkenG does not provide this option."
+ },
+ "eunorm:durchsetzungsrl:13": {
+  "_de": "666d85f85b",
+  "hinweis": "The Enforcement Act codified the three methods of calculating damages in all IP statutes (the second sentence of § 14(6) MarkenG: infringer's profits; third sentence: licence analogy). Fault remains a requirement (“knew or had reasonable grounds to know”). The lump sum under Art. 13(1)(b) IPRED is a floor (“at least”); non-material damage may be added (Liffers); stricter national rules such as the double licence fee are permissible (OTK). For the infringer acting without fault (Art. 13(2) IPRED), German law applies unjust enrichment by interference (Eingriffskondiktion)."
+ },
+ "eunorm:durchsetzungsrl:14": {
+  "_de": "b3914aab54",
+  "hinweis": "Exam classic since 2022: § 140(3) MarkenG old version (now § 140(4) MarkenG) always allowed patent attorney costs to be reimbursed in trade mark and sign disputes; this infringes Art. 3 and 14 IPRED (CJEU NovaText). Since then the BGH has interpreted the provision in conformity with the Directive: reimbursement only if the attorney's involvement was necessary for the appropriate pursuit of the claim (Kosten des Patentanwalts VII). Warning letter costs are also “other expenses” (Koch Media); flat rates and maximum rates are permissible if a significant and appropriate part is reimbursed (United Video Properties)."
+ },
+ "eunorm:durchsetzungsrl:15": {
+  "_de": "c34938ea62",
+  "hinweis": "§ 19c MarkenG: right of the successful party (including the defendant) where it has a legitimate interest; the type and extent are determined by the judgment; expires three months after the judgment becomes final; not provisionally enforceable. Identical wording in all IP statutes."
+ },
+ "eunorm:durchsetzungsrl:16": {
+  "_de": "af06ef91bb",
+  "hinweis": "Criminal law and border seizure are not covered by the Directive (Art. 2(3)(b) and 2(3)(c) IPRED); Art. 16 IPRED merely clarifies that they remain permissible alongside it. Border seizure is governed at Union level by Regulation (EU) No 608/2013; § 146 MarkenG applies subsidiarily."
+ },
+ "eunorm:durchsetzungsrl:18": {
+  "_de": "66f90498a8",
+  "hinweis": "The Commission's 2017 Guidance (COM(2017) 708) summarises the CJEU case law on Art. 3, 6 to 11 and 13, 14 IPRED and is a good learning source."
+ },
+ "eunorm:durchsetzungsrl:20": {
+  "_de": "4c870d03ef",
+  "hinweis": "Germany missed the deadline (29 April 2006) by more than two years; in the meantime, existing law was interpreted in conformity with the Directive (e.g. § 242 BGB for information, § 809 BGB for inspection)."
+ },
+ "eunorm:durchsetzungsrl:21": {
+  "_de": "a81e09b4f9",
+  "hinweis": "Published on 30 April 2004 (OJ L 157, p. 45); because of errors in the first publication, the entire text was republished in corrected form on 2 June 2004 (OJ L 195, p. 16). The corrected version is cited."
+ },
+ "eunorm:upca:1": {
+  "_de": "1dda05b29a",
+  "hinweis": "The UPC is a court common to the Contracting Member States, not a Union institution; it is, however, subject to the same obligations under Union law as national courts (Art. 20 to 23 UPCA)."
+ },
+ "eunorm:upca:2": {
+  "_de": "c7e9d9ff4a",
+  "hinweis": "Terms to remember: “Contracting Member State” (only EU States that have ratified the UPCA), “European patent with unitary effect” and “European patent” (bundle patent, unless opted out)."
+ },
+ "eunorm:upca:3": {
+  "_de": "9346a8e850",
+  "hinweis": "Scope of application: Unitary Patents, SPCs, European bundle patents (including those granted before 1 June 2023) and applications – in each case without an opt-out (Art. 83(3) UPCA)."
+ },
+ "eunorm:upca:7": {
+  "_de": "1f15b4255c",
+  "hinweis": "Court of First Instance = central division (seat in Paris; sections in Munich and Milan) + local and regional divisions. Revocation actions are allocated by IPC class (Annex II UPCA)."
+ },
+ "eunorm:upca:8": {
+  "_de": "20a9ec4d3b",
+  "hinweis": "Multinational composition: local division three legally qualified judges; a technically qualified judge on request or in case of a counterclaim for revocation (Art. 8(5) UPCA) from the pool of judges (Art. 18 UPCA)."
+ },
+ "eunorm:upca:24": {
+  "_de": "45ff2147b1",
+  "hinweis": "Sources of law in order of rank: Union law, UPCA, EPC, other international agreements, national law (determined under Art. 24(2) UPCA according to Rome II/EU law)."
+ },
+ "eunorm:upca:25": {
+  "_de": "3497c346e9",
+  "hinweis": "The acts of infringement correspond to § 9 PatG; the UPC interprets the terms (“offering”) autonomously (UPC CoA Belkin/Philips)."
+ },
+ "eunorm:upca:26": {
+  "_de": "72c3c5ed53",
+  "hinweis": "Indirect infringement as in § 10 PatG; intended use inferred from objective circumstances (UPC CoA Onward/Niche)."
+ },
+ "eunorm:upca:27": {
+  "_de": "8f8cbd1fcf",
+  "hinweis": "List of limitations including Bolar (Art. 27(d) UPCA), farmers' privilege, ships/aircraft, decompilation, breeding (Art. 27(c) UPCA)."
+ },
+ "eunorm:upca:28": {
+  "_de": "9eb4684489",
+  "hinweis": "A right based on prior use exists only under the respective national law and only for its territory."
+ },
+ "eunorm:upca:31": {
+  "_de": "8bb04880b8",
+  "hinweis": "International jurisdiction is governed by the Brussels Ia Regulation (Art. 71a to 71d Brussels Ia Regulation) or the Lugano Convention; the UPC is a “court of a Member State”."
+ },
+ "eunorm:upca:32": {
+  "_de": "2a6a3f6253",
+  "hinweis": "Exhaustive list of exclusive competences; everything else remains with the national courts (Art. 32(2) UPCA)."
+ },
+ "eunorm:upca:33": {
+  "_de": "f036cb7a7c",
+  "hinweis": "The key exam provision: place of infringement or defendant's domicile (Art. 33(1) UPCA), bar on parallel actions (Art. 33(2) UPCA), three options for a counterclaim for revocation (Art. 33(3) UPCA), revocation action to the central division (Art. 33(4) UPCA), stay in case of EPO proceedings (Art. 33(10) UPCA)."
+ },
+ "eunorm:upca:34": {
+  "_de": "584173415e",
+  "hinweis": "Decisions cover the territory of all Contracting Member States for which the patent has effect."
+ },
+ "eunorm:upca:42": {
+  "_de": "364b9fa312",
+  "hinweis": "Proportionality and fairness as guiding principles; implementation of Art. 3 IPRED."
+ },
+ "eunorm:upca:47": {
+  "_de": "aa32520358",
+  "hinweis": "Capacity to be a party/standing: proprietor, exclusive licensee (Art. 47(2) UPCA), non-exclusive licensee only after giving notice to the proprietor and with express permission in the licence agreement (Art. 47(3) UPCA); a revocation action can be brought by “any person” (Art. 47(6) UPCA)."
+ },
+ "eunorm:upca:48": {
+  "_de": "aa7d9a3d40",
+  "hinweis": "Representation by lawyers or European patent attorneys with an EPLC; no representation by officers or decision-makers of the party (UPC CoA Suinno/Microsoft)."
+ },
+ "eunorm:upca:49": {
+  "_de": "928ac2bb81",
+  "hinweis": "Language of the proceedings at first instance: official language of the division (Art. 49(1) UPCA), additionally certain EPO languages (Art. 49(2) UPCA), by agreement or on application the language of the patent (Art. 49(3) to 49(5) UPCA)."
+ },
+ "eunorm:upca:52": {
+  "_de": "316781259c",
+  "hinweis": "Three stages of proceedings: written procedure, interim procedure, oral procedure."
+ },
+ "eunorm:upca:54": {
+  "_de": "2afb5a7d7a",
+  "hinweis": "The burden of proof lies with the party relying on the facts; exception Art. 55 UPCA (process patent, reversal of the burden of proof)."
+ },
+ "eunorm:upca:56": {
+  "_de": "f5f81118b8",
+  "hinweis": "General powers: orders subject to conditions, security, right to be heard before orders against a party."
+ },
+ "eunorm:upca:58": {
+  "_de": "134acdf0d5",
+  "hinweis": "Protection of confidential information; specified in R. 262A RoP (confidentiality club, at least one natural person per party)."
+ },
+ "eunorm:upca:59": {
+  "_de": "05bec2401a",
+  "hinweis": "Order to produce evidence (“discovery light”); specified in R. 190 RoP; no fishing expedition."
+ },
+ "eunorm:upca:60": {
+  "_de": "b3c0c3f532",
+  "hinweis": "Order to preserve evidence and inspection (“saisie”): R. 192 to 199 RoP; also ex parte (Art. 60(5) UPCA); security (Art. 60(7) UPCA), time limit for the main action (Art. 60(8) UPCA) and damages if revoked (Art. 60(9) UPCA)."
+ },
+ "eunorm:upca:62": {
+  "_de": "4ed009bd27",
+  "hinweis": "Provisional measures: “sufficient degree of certainty” (Art. 62(4) UPCA, R. 211.2 RoP), balancing of interests, urgency (R. 211.4 RoP), security, damages if revoked (Art. 62(5) UPCA)."
+ },
+ "eunorm:upca:63": {
+  "_de": "3844e112bb",
+  "hinweis": "Injunction against infringers and intermediaries; penalty payment; not limited to acts already committed (UPC CoA Dyson/Dreame)."
+ },
+ "eunorm:upca:65": {
+  "_de": "00b6a1c463",
+  "hinweis": "Grounds for revocation only under Art. 138(1) and Art. 139(2) EPC; partial revocation (Art. 65(3) UPCA); effect ex tunc (Art. 65(4) UPCA)."
+ },
+ "eunorm:upca:68": {
+  "_de": "c4ca764f21",
+  "hinweis": "Damages only in case of fault (knew or had reasonable grounds to know); calculation: loss, infringer's profits or licence analogy (Art. 68(3) UPCA); no punitive damages (Art. 68(2) UPCA)."
+ },
+ "eunorm:upca:69": {
+  "_de": "a9028195a2",
+  "hinweis": "Costs are borne by the unsuccessful party up to the ceiling; security for costs only against the applicant (Art. 69(4) UPCA, UPC CoA Hefei/Grundfos)."
+ },
+ "eunorm:upca:73": {
+  "_de": "46fa09c20e",
+  "hinweis": "Appeal against final decisions (Art. 73(1) UPCA, two months) and certain orders (Art. 73(2)(a) UPCA, 15 days); other orders only with leave (Art. 73(2)(b) UPCA)."
+ },
+ "eunorm:upca:74": {
+  "_de": "abbc556410",
+  "hinweis": "An appeal has, as a rule, no suspensive effect (exception: revocation action); suspensive effect may be ordered on application under R. 223 RoP."
+ },
+ "eunorm:upca:76": {
+  "_de": "5b68ce2532",
+  "hinweis": "Principle of party disposition (Art. 76(1) UPCA) and principle of party presentation (Art. 76(2) UPCA): the Court decides only on the requests made and only on the basis of the parties' submissions."
+ },
+ "eunorm:upca:82": {
+  "_de": "1d274dd55a",
+  "hinweis": "Enforcement under the law of the State of enforcement; the Court's order is an enforceable title; penalty payments payable to the Court (Art. 82(4) UPCA)."
+ },
+ "eunorm:upca:83": {
+  "_de": "4cafee25d2",
+  "hinweis": "Transitional period of seven years (extendable): option of national courts (Art. 83(1) UPCA) and opt-out (Art. 83(3) UPCA), withdrawal of the opt-out (Art. 83(4) UPCA)."
+ },
+ "eunorm:upca:89": {
+  "_de": "4a0def6042",
+  "hinweis": "Entry into force on 1 June 2023 (after ratification by Germany); requirement: 13 States including the three with the most European patents in effect in the year preceding signature."
+ },
+ "eunorm:rop:5": {
+  "_de": "d34c8d0da5",
+  "hinweis": "Opt-out: application to the Registrar for all proprietors, effective on entry in the register; ineffective if an action was already pending before the UPC (R. 5.6); withdrawal only if no national action has yet been brought (R. 5.8)."
+ },
+ "eunorm:rop:9": {
+  "_de": "8da5809dab",
+  "hinweis": "General case management clause: extension of time limits (R. 9.3) only exceptionally; the Court may disregard submissions (R. 9.2)."
+ },
+ "eunorm:rop:13": {
+  "_de": "24f5d240b7",
+  "hinweis": "Statement of claim: contents R. 13.1(a) to 13.1(q), in particular choice of division (R. 13.1(i)), facts with the claims infringed (R. 13.1(l)), evidence (R. 13.1(m)), reasons for infringement and claim interpretation (R. 13.1(n)); exhibits must be uploaded at the same time (R. 13.2)."
+ },
+ "eunorm:rop:19": {
+  "_de": "e4794f5c89",
+  "hinweis": "Preliminary objection within one month; exhaustive list (jurisdiction, competence of the division, language); failure = acceptance (R. 19.7)."
+ },
+ "eunorm:rop:23": {
+  "_de": "a5db55d72f",
+  "hinweis": "Statement of defence three months after service; if invalidity is to be raised, the counterclaim must be included in it (R. 25)."
+ },
+ "eunorm:rop:30": {
+  "_de": "bca4008a71",
+  "hinweis": "Application to amend the patent: a reasonable number of auxiliary requests (R. 30.1(c)); later amendments only with leave (R. 30.2)."
+ },
+ "eunorm:rop:37": {
+  "_de": "f19623bd6d",
+  "hinweis": "Decision of the local division on the three options of Art. 33(3) UPCA after the close of the written procedure."
+ },
+ "eunorm:rop:118": {
+  "_de": "76fa1b7f59",
+  "hinweis": "Decision on the merits: orders, penalty payment, security, stay in case of parallel EPO proceedings (R. 118.2), enforceability (R. 118.8)."
+ },
+ "eunorm:rop:150": {
+  "_de": "33df62bdb9",
+  "hinweis": "Cost decision as separate proceedings after the decision on the merits; application within one month (R. 151)."
+ },
+ "eunorm:rop:158": {
+  "_de": "efadad2477",
+  "hinweis": "Security for costs: risk to recovery or difficulties of enforcement; burden of proof on the applicant (UPC CoA Aarke/SodaStream)."
+ },
+ "eunorm:rop:190": {
+  "_de": "8bbb51ee79",
+  "hinweis": "Order to produce evidence under Art. 59 UPCA for substantiated, disputed facts; no fishing expedition."
+ },
+ "eunorm:rop:192": {
+  "_de": "a7f91757b0",
+  "hinweis": "Application for preserving evidence: particulars, evidence, duty of disclosure ex parte (R. 192.3, UPC CoA Ecovacs/Roborock)."
+ },
+ "eunorm:rop:206": {
+  "_de": "0a544462d0",
+  "hinweis": "Application for provisional measures: particulars of validity, infringement, urgency; a protective letter under R. 207 must be taken into account."
+ },
+ "eunorm:rop:207": {
+  "_de": "8301c430e6",
+  "hinweis": "Protective letter: effective for six months, extendable; communicated to the applicant only after the application has been filed."
+ },
+ "eunorm:rop:209": {
+  "_de": "294d306a78",
+  "hinweis": "Procedure for provisional measures: hearing of the defendant or ex parte (R. 209.1(c)), examination of urgency (R. 209.2(b))."
+ },
+ "eunorm:rop:211": {
+  "_de": "c505e845f4",
+  "hinweis": "Decision: sufficient certainty (R. 211.2 – more likely than not, UPC CoA NanoString/10x), balancing of interests (R. 211.3), unreasonable delay (R. 211.4), security (R. 211.5)."
+ },
+ "eunorm:rop:220": {
+  "_de": "1371d2091d",
+  "hinweis": "Appeal: against final decisions and listed orders (R. 220.1), otherwise only with leave (R. 220.2) or after discretionary review (R. 220.3 and 220.4)."
+ },
+ "eunorm:rop:222": {
+  "_de": "46900a63f0",
+  "hinweis": "Subject matter of the appeal: new facts and evidence only exceptionally (R. 222.2); discretion of the Court of Appeal."
+ },
+ "eunorm:rop:223": {
+  "_de": "ba2d18c379",
+  "hinweis": "Suspensive effect only on application and in exceptional circumstances; the application must be complete (UPC CoA Amycel)."
+ },
+ "eunorm:rop:224": {
+  "_de": "6137a87922",
+  "hinweis": "Time limit for appeal: two months (final decision) or 15 days (orders) from service of the reasoned decision."
+ },
+ "eunorm:rop:262": {
+  "_de": "481bd379b8",
+  "hinweis": "Public register; access to written pleadings and evidence only on reasoned request (R. 262.1(b))."
+ },
+ "eunorm:rop:262A": {
+  "_de": "3838cae844",
+  "hinweis": "Protection of confidential information: application on filing, confidentiality club with at least one natural person per party (R. 262A.6), balancing of interests."
+ },
+ "eunorm:rop:263": {
+  "_de": "5160474bd2",
+  "hinweis": "Amendment of the claim only with leave; refused if the amendment could have been made earlier with reasonable diligence (R. 263.2)."
+ },
+ "eunorm:rop:265": {
+  "_de": "db9a60ed01",
+  "hinweis": "Withdrawal of the action; reimbursement of fees under R. 370.9 (since 1 January 2026: 50 % before the close of the written procedure)."
+ },
+ "eunorm:rop:295": {
+  "_de": "87decd3c34",
+  "hinweis": "Grounds for a stay: among others, parallel EPO opposition proceedings with an early decision (R. 295(a)), appeal against interim or opposition decisions (R. 295(c)), joint request of the parties (R. 295(d)), preliminary ruling of the CJEU (R. 295(i)), proper administration of justice (R. 295(m))."
+ },
+ "eunorm:rop:333": {
+  "_de": "12d7b2e128",
+  "hinweis": "Review of case management orders of the judge-rapporteur by the panel; application within 15 days."
+ },
+ "eunorm:rop:354": {
+  "_de": "d469760125",
+  "hinweis": "Enforcement: orders immediately enforceable; penalty payment (R. 354.3 and 354.4); security; setting aside has retroactive effect (UPC CoA Kodak/Fujifilm)."
+ },
+ "eunorm:rop:370": {
+  "_de": "303dcd5e7d",
+  "hinweis": "Court fees: fixed fee plus value-based fee (infringement action, provisional measures, appeal; R. 370.2, 370.3 and 370.5), only a fixed fee for the revocation action and the counterclaim for revocation (R. 370.4); SME reduction (R. 370.8); reimbursement (R. 370.9)."
+ },
+ "eunorm:epatvo:1": {
+  "_de": "3b90cfd969",
+  "hinweis": "Enhanced cooperation under Art. 20 TEU: 25 Member States (all except Spain and Croatia). The Regulation is a “special agreement” within the meaning of Art. 142 EPC."
+ },
+ "eunorm:epatvo:2": {
+  "_de": "5cb48f27a1",
+  "hinweis": "A “participating Member State” is only an EU State taking part in the enhanced cooperation; however, the Unitary Patent can only have effect where the UPCA is in force at the time of registration (Art. 18(2) UPReg)."
+ },
+ "eunorm:epatvo:3": {
+  "_de": "486715697c",
+  "hinweis": "Requirement: grant with the same set of claims for all participating Member States (Art. 3(1) UPReg; R. 5(2) UPR). Unitary character (Art. 3(2) UPReg): limitation, transfer, revocation and lapse only for all States at once, licences also for part of the territory."
+ },
+ "eunorm:epatvo:4": {
+  "_de": "1756895027",
+  "hinweis": "Takes effect on the date of publication of the mention of grant in the European Patent Bulletin, i.e. retroactively upon registration. Art. 4(2) UPReg: the Member States ensure that the European patent does not also take effect for them as a national patent."
+ },
+ "eunorm:epatvo:5": {
+  "_de": "ba2bfc0526",
+  "hinweis": "Substantive law (acts of infringement, limitations) is not found in the Regulation but, via the reference in Art. 5(3) UPReg, in the national law of the State determined under Art. 7 UPReg – and thus, for all Contracting Member States, in Art. 25 to 30 UPCA."
+ },
+ "eunorm:epatvo:6": {
+  "_de": "95c84f4b2b",
+  "hinweis": "Union-wide exhaustion; worded identically to Art. 29 UPCA."
+ },
+ "eunorm:epatvo:7": {
+  "_de": "ba259bc556",
+  "hinweis": "Conflict rule for the Unitary Patent as an object of property: law of the participating Member State in which the applicant had its residence or principal place of business on the date of filing, alternatively a place of business (R. 16(1)(w) UPR), otherwise German law (Art. 7(3) UPReg, seat of the European Patent Organisation)."
+ },
+ "eunorm:epatvo:8": {
+  "_de": "553ed0f7a0",
+  "hinweis": "Statement on licences of right filed with the EPO; contractual licence by operation of law (Art. 8(2) UPReg). Consequence: 15 % reduction of the renewal fees (R. 12 UPR, Art. 3 RFeesUPP); the appropriate consideration is determined by the UPC (Art. 32(1)(h) UPCA)."
+ },
+ "eunorm:epatvo:9": {
+  "_de": "adf9c5ff5b",
+  "hinweis": "The EPO's list of tasks under Art. 143 EPC: requests for unitary effect (Art. 9(1)(a) and 9(1)(g) UPReg), Register (Art. 9(1)(b) UPReg), licences of right (Art. 9(1)(c) UPReg), translations (Art. 9(1)(d) UPReg), renewal fees (Art. 9(1)(e) UPReg), compensation (Art. 9(1)(f) UPReg). Art. 9(3) UPReg: actions against EPO decisions before the UPC (Art. 32(1)(i) UPCA)."
+ },
+ "eunorm:epatvo:11": {
+  "_de": "56d4a73492",
+  "hinweis": "A single renewal fee paid to the EPO, due from the year following the mention of grant; payment without mandatory representation. Implemented in R. 13 UPR."
+ },
+ "eunorm:epatvo:12": {
+  "_de": "8c0c946bda",
+  "hinweis": "Principles for the level of fees (progressive, cost-covering, SME-friendly); actually set as the sum of the four States with the most validations in 2015 (“True Top 4”) in Art. 2 RFeesUPP."
+ },
+ "eunorm:epatvo:13": {
+  "_de": "938e2990ec",
+  "hinweis": "The EPO keeps 50 % of the renewal fees; the remainder is distributed among the participating Member States according to a key set by the Select Committee."
+ },
+ "eunorm:epatvo:18": {
+  "_de": "92f7d111f6",
+  "hinweis": "In force since 20 January 2013, applicable since 1 June 2023 (entry into force of the UPCA). Art. 18(2) UPReg: unitary effect only for States in which the UPCA is in force at the time of registration – the basis for the “generations” of Unitary Patents (17 States from 1 June 2023, 18 with Romania from 1 September 2024)."
+ },
+ "eunorm:epatuevo:3": {
+  "_de": "7c481f4455",
+  "hinweis": "Principle: once the patent specification has been published in the EPO language of the proceedings (with the claims in the other two official languages, Art. 14(6) EPC), no further translations are required – as soon as the transitional period of Art. 6 TranslReg has expired."
+ },
+ "eunorm:epatuevo:4": {
+  "_de": "1d12248510",
+  "hinweis": "Translation in the event of a dispute at the proprietor's expense: at the request of the alleged infringer into an official language of the State of infringement or of domicile (Art. 4(1) TranslReg), at the request of the court into the language of the proceedings (Art. 4(2) TranslReg). Art. 4(4) TranslReg: SMEs and natural persons acting in good faith before receiving the translation – to be taken into account in damages (Art. 68 UPCA)."
+ },
+ "eunorm:epatuevo:5": {
+  "_de": "d731dd8e83",
+  "hinweis": "Compensation of translation costs in the application phase for SMEs, natural persons, non-profit organisations, universities and public research organisations having their residence or seat in the EU that filed in an official EU language other than German, English or French; lump sum of EUR 500 (R. 8 to 11 UPR, Art. 4 RFeesUPP)."
+ },
+ "eunorm:epatuevo:6": {
+  "_de": "e29d2471b6",
+  "hinweis": "Transitional period of six years from 1 June 2023, extendable to at most twelve years: a full translation of the patent specification must be filed with the request for unitary effect – into English if the language of the proceedings is German or French, into another official EU language if the language of the proceedings is English (R. 6(2)(d) UPR). For information only, no legal effect (Art. 6(2) TranslReg)."
+ },
+ "eunorm:doeps:1": {
+  "_de": "8ff103f833",
+  "hinweis": "Subject matter: proceedings before the EPO under both Regulations. R. 1(1) UPR: in actions against the Unitary Patent Protection Division, the EPO is bound by the decisions of the UPC."
+ },
+ "eunorm:doeps:3": {
+  "_de": "41ccd71881",
+  "hinweis": "Basis of the UP Guidelines: under R. 3 UPR in conjunction with Art. 10(2)(a) EPC, the President of the EPO issues the administrative instructions for the Unitary Patent Protection Division (UP Guidelines, April 2026 edition)."
+ },
+ "eunorm:doeps:4": {
+  "_de": "e46006b5c2",
+  "hinweis": "The Unitary Patent Protection Division is a separate division of the EPO; every decision is taken by one legally qualified member (R. 4(3) UPR)."
+ },
+ "eunorm:doeps:5": {
+  "_de": "9eeaea7013",
+  "hinweis": "Entitlement: request by the proprietor (R. 5(1) UPR); grant with the same set of claims for all 25 participating Member States (R. 5(2)(a) UPR) – hence no unitary effect where a designation has been withdrawn or for applications filed before 1 March 2007 (accession of Malta). R. 5(2)(b) UPR (since 15 November 2024): no unitary effect for sanctioned proprietors (14th EU sanctions package)."
+ },
+ "eunorm:doeps:6": {
+  "_de": "fe6ef0d6d4",
+  "hinweis": "The key exam provision for the Unitary Patent: time limit of one month from publication of the mention of grant, not extendable but open to re-establishment of rights (R. 22(2) UPR: two months from expiry of the time limit). In writing, in the language of the proceedings, Form 7000; contents under R. 6(2) UPR including the translation under Art. 6 TranslReg. An early request after the decision to grant is possible (Form 2006A)."
+ },
+ "eunorm:doeps:7": {
+  "_de": "b362e4a3cd",
+  "hinweis": "Examination: registration and communication of the date of registration (R. 7(1) UPR, Form 7030); intended rejection with the right to be heard (R. 7(2) UPR, Art. 113(1) EPC); deficiencies under R. 6(2) UPR can be corrected within a non-extendable one-month period (R. 7(3) UPR), for which there is no re-establishment of rights (R. 22(6) UPR; UPC CoA Bodycap/EPO)."
+ },
+ "eunorm:doeps:8": {
+  "_de": "31d524002d",
+  "hinweis": "Compensation: application filed in an official EU language other than German, English, French (R. 8(1) UPR); eligible: SMEs (Recommendation 2003/361/EC), natural persons, non-profit organisations, universities, public research organisations having their residence or seat in the EU (R. 8(2) UPR); in case of several proprietors or a transfer, all must meet the criteria (R. 8(3) and 8(4) UPR); Euro-PCT applications also qualify (R. 8(5) UPR)."
+ },
+ "eunorm:doeps:9": {
+  "_de": "af170e20db",
+  "hinweis": "The request for compensation must be filed together with the request for unitary effect (check box in Form 7000) and contains a declaration on the proprietor's status."
+ },
+ "eunorm:doeps:10": {
+  "_de": "4c020e9bda",
+  "hinweis": "Granted only after registration of unitary effect (R. 10(1) UPR), thereafter irrevocable (R. 10(2) UPR). In case of doubt, evidence (R. 10(3) UPR); in case of an incorrect declaration, repayment plus an administrative fee of 50 % (R. 10(4) UPR, Art. 4(2) RFeesUPP), otherwise lapse (R. 14 UPR)."
+ },
+ "eunorm:doeps:11": {
+  "_de": "5d721864a8",
+  "hinweis": "Lump sum under Art. 4(1) RFeesUPP: EUR 500; paid out like a refund."
+ },
+ "eunorm:doeps:12": {
+  "_de": "acdc11f74f",
+  "hinweis": "Licences of right: statement filed with the EPO (Form 7001), registered free of charge; not possible where an exclusive licence is registered (R. 12(3) UPR); thereafter no exclusive licence can be registered (R. 12(4) UPR). Withdrawal only against repayment of the entire reduction (R. 12(2) UPR)."
+ },
+ "eunorm:doeps:13": {
+  "_de": "dc7e92726e",
+  "hinweis": "Renewal fees paid to the EPO, due on the last day of the month corresponding to the month of filing (R. 13(2) UPR, as R. 51(1) EPC); payable at the earliest three months in advance; additional period of six months with a 50 % surcharge (R. 13(3) UPR, Art. 2(1)(2) RFeesUPP), calculated “from the last day of the month to the last day of the month”. R. 13(4) and 13(5) UPR: three-month safety period without surcharge after notification of the communication of registration; fees falling due between grant and that communication only become due with the communication."
+ },
+ "eunorm:doeps:14": {
+  "_de": "93efb40ef5",
+  "hinweis": "Lapse in case of non-payment, retroactive to the due date (R. 14(2) UPR); the noting of loss of rights (R. 112 EPC) can be reviewed by decision, and that decision challenged before the UPC. Re-establishment of rights under R. 22 UPR is possible (one year from the end of the additional period)."
+ },
+ "eunorm:doeps:15": {
+  "_de": "e9262c7f61",
+  "hinweis": "The Register for unitary patent protection is a separate but integrated part of the European Patent Register (Art. 127 EPC); Unitary Patents bear the code “C0” there."
+ },
+ "eunorm:doeps:16": {
+  "_de": "76157fd9de",
+  "hinweis": "Register content: among other things, date of registration of unitary effect, territorial scope (R. 16(1)(g) UPR), transfers and licences (R. 16(1)(j) UPR), licensing commitments to standardisation bodies (R. 16(1)(k) UPR), interruption (R. 16(1)(u) UPR) and the voluntary indication of the place of business on the date of filing for Art. 7 UPReg (R. 16(1)(w) UPR)."
+ },
+ "eunorm:doeps:17": {
+  "_de": "cf735a43d3",
+  "hinweis": "A separate part of the European Patent Bulletin for Unitary Patents (R. 17(1) UPR); decisions and notices on the Unitary Patent in the Official Journal of the EPO (R. 17(2) UPR)."
+ },
+ "eunorm:doeps:18": {
+  "_de": "149f8a6d1e",
+  "hinweis": "The EPO publishes the translations filed under Art. 6 TranslReg – without examining their content, because they have no legal effect."
+ },
+ "eunorm:doeps:20": {
+  "_de": "98bb039940",
+  "hinweis": "General reference to the EPC: representation (Art. 133, 134 EPC), right to be heard (Art. 113 EPC), notification (R. 125 ff. EPC), calculation of time limits (R. 131, 134 EPC), interruption (R. 142 EPC), transfers and licences (R. 22 to 24 EPC). R. 20(4) UPR: time limits set by the Division between one and four months, not extendable; no further processing (R. 135 EPC)."
+ },
+ "eunorm:doeps:21": {
+  "_de": "8084965b28",
+  "hinweis": "Oral proceedings on request or of the Division's own motion (R. 21(1) UPR); in proceedings on the request for unitary effect only at the proprietor's request and if expedient (R. 21(2) UPR); not public (R. 21(3) UPR)."
+ },
+ "eunorm:doeps:22": {
+  "_de": "03d68f9dd5",
+  "hinweis": "Re-establishment of rights (standard: all due care, case law on Art. 122 EPC): for the time limit of R. 6(1) UPR within two months of expiry of the time limit, irrespective of the removal of the cause of non-compliance (R. 22(2) UPR), otherwise two months from removal, at most one year; fee under Art. 2(2) RFeesUPP. Excluded for the time limit for re-establishment itself and for the period for correcting deficiencies under R. 7(3) UPR (R. 22(6) UPR)."
+ },
+ "eunorm:doeps:23": {
+  "_de": "cdbfa60ae3",
+  "hinweis": "Legal remedy: action before the UPC against decisions of the Unitary Patent Protection Division (Art. 32(1)(i), Art. 66 UPCA) – two months under R. 88 RoP; where the request for unitary effect is rejected, three weeks under R. 97 RoP (expedited proceedings before the standing judge)."
+ },
+ "eunorm:doeps:24": {
+  "_de": "3d5ab33a0e",
+  "hinweis": "Interlocutory revision by the EPO within two months if the UPC considers the action admissible (R. 91 RoP) – not in proceedings under R. 97 RoP, which as lex specialis provide for no interlocutory revision (R. 85.2 RoP; UPC CoA Bodycap/EPO)."
+ },
+ "eunorm:gebeps:1": {
+  "_de": "f4bebb36fc",
+  "hinweis": "The RFeesUPP governs only the fees of the Unitary Patent procedure; otherwise, payment is governed by the Rules relating to Fees under the EPC (Art. 6 RFeesUPP)."
+ },
+ "eunorm:gebeps:2": {
+  "_de": "55372ffba6",
+  "hinweis": "The fee table: renewal fees from the 2nd year (EUR 35) to the 20th year (EUR 4,855), a total of EUR 35,555 over the full term (“True Top 4”: sum of the renewal fees of the four States with the most validations in 2015); additional fee of 50 % (Art. 2(1)(2) RFeesUPP); fee for re-establishment of rights (Art. 2(2) RFeesUPP). The amount applicable on the date of payment is decisive."
+ },
+ "eunorm:gebeps:3": {
+  "_de": "9a47d9f365",
+  "hinweis": "Reduction of 15 % where a statement on licences of right has been filed (R. 12 UPR); the surcharge for late payment is calculated on the reduced fee."
+ },
+ "eunorm:gebeps:4": {
+  "_de": "e216b43276",
+  "hinweis": "Compensation of translation costs: lump sum of EUR 500 (Art. 4(1) RFeesUPP); in case of an incorrect declaration, repayment plus an administrative fee of 50 % (Art. 4(2) RFeesUPP, R. 10(4) UPR)."
+ },
+ "eunorm:gebeps:5": {
+  "_de": "f42bc66edb",
+  "hinweis": "Fees set by the President, for example for the registration of transfers and licences (waived if the request is filed via MyEPO)."
+ },
+ "eunorm:gebeps:6": {
+  "_de": "eacfc817c0",
+  "hinweis": "Reference to the Rules relating to Fees under the EPC: methods of payment, due date, deposit account; anyone can validly pay renewal fees without a representative."
+ },
+ "eunorm:gebeps:7": {
+  "_de": "e052af2938",
+  "hinweis": "Review of the level of renewal fees by the Select Committee and report on SMEs and other beneficiary entities."
+ },
+ "source:uprl:1": {
+  "_de": "1c2516ad61",
+  "label": "UP Guidelines Part 1: General",
+  "summary": "Legal framework (UPReg, TranslReg, UPR, RFeesUPP), role of the UPC, territorial scope and generations of Unitary Patents, Unitary Patent Protection Division."
+ },
+ "source:uprl:1.1": {
+  "_de": "08beaf98b4",
+  "label": "UP Guidelines 1.1: Preliminary remarks",
+  "summary": "In accordance with R. 3 UPR in conjunction with Art. 10(2)(a) EPC, the President of the European Patent Office has issued the Guidelines for Unitary Patent Protection with effect from 1 April 2025. …"
+ },
+ "source:uprl:1.2": {
+  "_de": "7026ca537c",
+  "label": "UP Guidelines 1.2: Explanatory notes",
+  "summary": "1.2.1. Overview 1.2.2. Abbreviations"
+ },
+ "source:uprl:1.3": {
+  "_de": "49c513f690",
+  "label": "UP Guidelines 1.3: Legal framework",
+  "summary": "These Guidelines give guidance on the practice in proceedings before the EPO under the UPReg, the TranslReg, the UPR and the RFeesUPP. They deal with the practice in the procedure for unitary patent protection. …"
+ },
+ "source:uprl:1.4": {
+  "_de": "cb40dd68a1",
+  "label": "UP Guidelines 1.4: The role of the Unified Patent Court",
+  "summary": "In 2013, 25 EU Member States signed the UPCA, paving the way for the establishment of the UPC as a common court with exclusive jurisdiction for infringement and revocation dispu …"
+ },
+ "source:uprl:1.5": {
+  "_de": "42baa03e99",
+  "label": "UP Guidelines 1.5: The territorial scope of Unitary Patents",
+  "summary": "17 States from 1 June 2023, 18 with Romania from 1 September 2024; the territorial scope of a generation remains the same for the entire term; postponement of registration in case of an imminent accession (OJ EPO 2024, A61)."
+ },
+ "source:uprl:1.6": {
+  "_de": "1dad2c6dc7",
+  "label": "UP Guidelines 1.6: The role of the Unitary Patent Protection Division",
+  "summary": "The participating Member States have entrusted the EPO with administrative tasks, in particular the handling of requests for unitary effect, the keeping of the Register for unitary p …"
+ },
+ "source:uprl:2": {
+  "_de": "8bce0782a7",
+  "label": "UP Guidelines Part 2: The request for unitary effect",
+  "summary": "Eligibility under R. 5(2) UPR, form and one-month time limit, requester, particulars, language, signature, translation, examination, registration, rejection and withdrawal."
+ },
+ "source:uprl:2.1": {
+  "_de": "b65756b02b",
+  "label": "UP Guidelines 2.1: Eligibility (requirements under R. 5(2) UPR)",
+  "summary": "To be eligible for unitary effect, the European patent must have been granted with the same set of claims in respect of all 25 participating Member States (R. 5(2)(a) UPR). This req …"
+ },
+ "source:uprl:2.2": {
+  "_de": "bd7a565372",
+  "label": "UP Guidelines 2.2: Requirements",
+  "summary": "2.2.1. Form and time limit 2.2.2. Persons entitled to file a request for unitary effect 2.2.3. Mandatory information to be provided in the request for unitary effect 2.2.4. Language of the request for unitary effect 2.2.5. …"
+ },
+ "source:uprl:2.3": {
+  "_de": "fcbeddbcab",
+  "label": "UP Guidelines 2.3: Filing the request for unitary effect",
+  "summary": "2.3.1. How to file the request for unitary effect 2.3.2. Acknowledgement of receipt"
+ },
+ "source:uprl:2.4": {
+  "_de": "35fec4fda9",
+  "label": "UP Guidelines 2.4: Examination of the request for unitary effect",
+  "summary": "Registration if the requirements are met; deficiencies under R. 6(2) UPR to be corrected within a non-extendable one-month period without re-establishment of rights; intended rejection with an opportunity to comment."
+ },
+ "source:uprl:2.5": {
+  "_de": "fd345fadfd",
+  "label": "UP Guidelines 2.5: Registration of the unitary effect",
+  "summary": "If the requirements of R. 5(2) UPR are met (see 2.1) and the request for unitary effect complies with the formal requirements of R. 6 UPR, the Unitary Patent Protection Division registers …"
+ },
+ "source:uprl:2.6": {
+  "_de": "a88dcbd86b",
+  "label": "UP Guidelines 2.6: Rejection of the request for unitary effect",
+  "summary": "The Unitary Patent Protection Division issues a final decision rejecting the request for unitary effect if the requirements of R. 5(2) UPR are not …"
+ },
+ "source:uprl:2.7": {
+  "_de": "de136573ec",
+  "label": "UP Guidelines 2.7: Withdrawal of the request for unitary effect",
+  "summary": "A request for unitary effect may be withdrawn as long as the Unitary Patent Protection Division has not yet taken a decision to register unitary effect or to reject the request (see Supplementary publication 3, OJ …"
+ },
+ "source:uprl:3": {
+  "_de": "69ddd391b0",
+  "label": "UP Guidelines Part 3: Fees",
+  "summary": "Types of fees under the RFeesUPP, methods of payment, due date of renewal fees, early payment, six-month additional period with a 50 % surcharge, lapse, three-month safety period under R. 13(4) UPR."
+ },
+ "source:uprl:3.1": {
+  "_de": "8350e37e6a",
+  "label": "UP Guidelines 3.1: General",
+  "summary": "The RFeesUPP lays down the amount of the fees and expenses payable to the EPO under the UPR and the fees and expenses laid down by the President of the Office (Supplementary publication 4, OJ EPO 2024, 23 OJ EPO 2022, A42). …"
+ },
+ "source:uprl:3.2": {
+  "_de": "f03e8555c7",
+  "label": "UP Guidelines 3.2: Unitary Patent fees",
+  "summary": "The fees for the Unitary Patent are in particular: - renewal fees (Art. 2(1)(1) RFeesUPP) - the additional fee for late payment of a renewal fee (Art. 2(1)(2) RFeesUPP) - the fee for re-establishment of rights …"
+ },
+ "source:uprl:3.3": {
+  "_de": "96b85cdb75",
+  "label": "UP Guidelines 3.3: Methods of payment and currency",
+  "summary": "The fees due must be paid to the EPO in euro, using one of the permitted methods of payment, i.e. by debit from a deposit account held with the EPO, credit card or bank transfer. A …"
+ },
+ "source:uprl:3.4": {
+  "_de": "b162eb6be3",
+  "label": "UP Guidelines 3.4: Due date for the payment of fees",
+  "summary": "With the exception of renewal fees (see 3.1.7 3.7), the same principle applies to the payment of Unitary Patent fees as to European patent applications, i.e. the due date is the first day …"
+ },
+ "source:uprl:3.5": {
+  "_de": "136182cb16",
+  "label": "UP Guidelines 3.5: Reduction of fees",
+  "summary": "The renewal fees are reduced by 15 % if the patent proprietor files a statement on licences of right (see 6.5 7.5). Consequently, the fee is not reduced if this statement is later withdrawn (see 6.5.2 7.5.2)."
+ },
+ "source:uprl:3.6": {
+  "_de": "37b5a4303a",
+  "label": "UP Guidelines 3.6: Refund of fees",
+  "summary": "New refund instructions must be given in the request for unitary effect. Existing refund instructions for European patent applications or patents do not apply to the Unitary Patent procedure. …"
+ },
+ "source:uprl:3.7": {
+  "_de": "1d4f4c6239",
+  "label": "UP Guidelines 3.7: Renewal fees",
+  "summary": "Renewal fees for Unitary Patents and the additional fees for their late payment must be paid to the EPO. They fall due in the years following the year in which the mention of the gr …"
+ },
+ "source:uprl:3.8": {
+  "_de": "75de6652f5",
+  "label": "UP Guidelines 3.8: Due date for renewal fees",
+  "summary": "The due date on which renewal fees for Unitary Patents must be paid is fully aligned with the system provided for European patent applications under R. 51(1) EPC. E …"
+ },
+ "source:uprl:3.9": {
+  "_de": "cc6916c4e8",
+  "label": "UP Guidelines 3.9: Early payment of renewal fees",
+  "summary": "Renewal fees may be validly paid at the earliest three months before they fall due (R. 13(2) UPR). If the renewal fee is paid on or after the date of the request for unitar …"
+ },
+ "source:uprl:3.10": {
+  "_de": "7929d518ee",
+  "label": "UP Guidelines 3.10: Additional six-month period for paying renewal fees",
+  "summary": "Additional period with a 50 % surcharge (Art. 2(1)(2) RFeesUPP); calculated from the last day of the month to the last day of the month; EPO reminder only as a courtesy service."
+ },
+ "source:uprl:3.11": {
+  "_de": "5f42cae06b",
+  "label": "UP Guidelines 3.11: Missing payment after additional six-month period for paying renewal fees",
+  "summary": "The six-month additional period under R. 13(3) UPR starts on the due date referred to in R. 13(2) UPR, even if the EPO cannot receive mail on that day because of public holidays, disruption of postal deliveries or a strike. …"
+ },
+ "source:uprl:3.12": {
+  "_de": "89ba1a1ce1",
+  "label": "UP Guidelines 3.12: Lapse of the Unitary Patent due to non-payment of the renewal fee",
+  "summary": "As a consequence of non-payment of the renewal fee and, where applicable, the additional fee, the Unitary Patent lapses (R. 14(1)(b) UPR). The lapse is then deemed to have occurred on the due date of the renewal fee (R. 14(2) UPR)."
+ },
+ "source:uprl:3.13": {
+  "_de": "e9577d7630",
+  "label": "UP Guidelines 3.13: Renewal fee falling due after re-establishment of rights or reopening of proceedings",
+  "summary": "If the renewal fee (see 3.7 and 3.8) fell due before or during the period up to the issue of a decision on re-establishment of rights in respect of the Unitary Patent or on the reopening of the proceeding …"
+ },
+ "source:uprl:3.14": {
+  "_de": "c56dc4b8b5",
+  "label": "UP Guidelines 3.14: Special features relating to renewal fees",
+  "summary": "3.14.1. Three-month safety period under R. 13(4) UPR 3.14.2. Renewal fee falling due between the grant of the European patent and the notification of the registration of unitary effect"
+ },
+ "source:uprl:4": {
+  "_de": "f5a69c5fb4",
+  "label": "UP Guidelines Part 4: Compensation scheme",
+  "summary": "Eligibility criteria (residence or seat in the EU, categories under R. 8(2) UPR, filing language), request together with the request for unitary effect, examination, rejection, doubts as to the declaration."
+ },
+ "source:uprl:4.1": {
+  "_de": "953c0f455f",
+  "label": "UP Guidelines 4.1: Eligibility requirements",
+  "summary": "4.1.1. Residence, principal place of business 4.1.2. Applicant/proprietor categories 4.1.3. Transfer of the European patent application during the grant procedure 4.1.4. Filing language requirement"
+ },
+ "source:uprl:4.2": {
+  "_de": "6f5fad7d83",
+  "label": "UP Guidelines 4.2: Filing of the request for compensation",
+  "summary": "Formal requirements The proprietor wishing to benefit from the compensation scheme must file an express request. The request for compensation must be filed together with the request for unitary effect, i.e. …"
+ },
+ "source:uprl:4.3": {
+  "_de": "9c5ed0712a",
+  "label": "UP Guidelines 4.3: Examination of the request for compensation",
+  "summary": "4.3.1. Grant of the request for compensation 4.3.2. Rejection of the request for compensation 4.3.3. Doubts as to the veracity of the declaration 4.3.4. Withdrawal of the request for compensation"
+ },
+ "source:uprl:5": {
+  "_de": "9844202b10",
+  "label": "UP Guidelines Part 5: Re-establishment of rights",
+  "summary": "Scope (late request for unitary effect, renewal fees), admissibility (time limits of R. 22 UPR), allowability (all due care), decision."
+ },
+ "source:uprl:5.1": {
+  "_de": "ef7c1c1f11",
+  "label": "UP Guidelines 5.1: Scope",
+  "summary": "Re-establishment of rights can only be requested in cases where the failure to observe the time limit has the direct consequence that the Unitary Patent lapses under R. 14(1)(b) UPR …"
+ },
+ "source:uprl:5.2": {
+  "_de": "8f7216c2a3",
+  "label": "UP Guidelines 5.2: Admissibility",
+  "summary": "The admissibility of a request for re-establishment of rights is assessed in accordance with the relevant provisions of the UPR and, the relevant case law of the UPC or, where there is none, …"
+ },
+ "source:uprl:5.3": {
+  "_de": "f6741523b7",
+  "label": "UP Guidelines 5.3: Allowability",
+  "summary": "Proprietors of a European patent or a Unitary Patent can only be granted re-establishment of rights if they demonstrate that, in attempting to meet the missed time limit, they took all due …"
+ },
+ "source:uprl:5.4": {
+  "_de": "7f481c31b6",
+  "label": "UP Guidelines 5.4: Decision on re-establishment of rights",
+  "summary": "Requests for re-establishment of rights are decided by the Unitary Patent Protection Division. If all requirements are met and the request is granted, the proprietor is informed accordingly (EPO Form 7115). …"
+ },
+ "source:uprl:6": {
+  "_de": "7dcbf0daef",
+  "label": "UP Guidelines Part 6: Interruption and resumption of proceedings, stay of registration proceedings",
+  "summary": "R. 20(2)(i) UPR in conjunction with R. 142 EPC; stay by the President under R. 3 UPR (example: EU sanctions package 2024)."
+ },
+ "source:uprl:6.1": {
+  "_de": "42d531622b",
+  "label": "UP Guidelines 6.1: Interruption and resumption of proceedings",
+  "summary": "The interruption and resumption of proceedings before the Unitary Patent Protection Division are governed by the provisions of R. 142 EPC, which applies mutatis mutandis under R. 20(2)(i) UPR in conjunction with R. 142 EPC (see …"
+ },
+ "source:uprl:6.2": {
+  "_de": "6fee3d232d",
+  "label": "UP Guidelines 6.2: Stay of registration proceedings",
+  "summary": "The President of the EPO may decide of his own motion under R. 3 UPR to stay, as a precaution, the procedure for registering unitary effect in the Register for unitary patent protection UP Register in certain cases. …"
+ },
+ "source:uprl:7": {
+  "_de": "5b7bce83c8",
+  "label": "UP Guidelines Part 7: Registration of changes of name and address, transfers, licences and other rights",
+  "summary": "Transfer only for all States, licences also for part of the territory, exclusive licence and licences of right, licensing commitments to standardisation bodies, inventor data."
+ },
+ "source:uprl:7.1": {
+  "_de": "2666a1996e",
+  "label": "UP Guidelines 7.1: General",
+  "summary": "Rights and transfers relating to Unitary Patents are registered by the Unitary Patent Protection Division in the Register for unitary patent protection UP Register at the request of a party (R. …"
+ },
+ "source:uprl:7.2": {
+  "_de": "51fac29366",
+  "label": "UP Guidelines 7.2: Transfer of the Unitary Patent",
+  "summary": "A Unitary Patent may only be transferred in respect of all participating Member States for which the Unitary Patent is registered (Art. 3(2) UPReg in conjunction with the second sentence of Art. 18(2) UPReg). …"
+ },
+ "source:uprl:7.3": {
+  "_de": "173fcd58ce",
+  "label": "UP Guidelines 7.3: Changes of name",
+  "summary": "Mere changes of name that do not affect the legal identity of the proprietor may be registered, on request and on production of appropriate evidence, in the Register for unitary patent protection UP Regist …"
+ },
+ "source:uprl:7.4": {
+  "_de": "5d4c8f5b5b",
+  "label": "UP Guidelines 7.4: Licences and other rights",
+  "summary": "7.4.1. Registration 7.4.2. Cancellation 7.4.3. Deficiencies"
+ },
+ "source:uprl:7.5": {
+  "_de": "531afb1912",
+  "label": "UP Guidelines 7.5: Statement on licences of right",
+  "summary": "Form 7001, free of charge; 15 % reduction of the renewal fees; excluded where an exclusive licence is registered; withdrawal only against repayment of the reduction."
+ },
+ "source:uprl:7.6": {
+  "_de": "9b29bc4784",
+  "label": "UP Guidelines 7.6: Licensing commitments",
+  "summary": "The EPO has been entrusted with receiving licensing commitments undertaken by the proprietor of the Unitary Patent in international standardisation bodies (Art. 9(1)(c) UPReg and R. 16(1)(k) UPR). The …"
+ },
+ "source:uprl:7.7": {
+  "_de": "fe5c61610e",
+  "label": "UP Guidelines 7.7: Changes of inventor data in the UP Register",
+  "summary": "A request to change the inventor data or the order in which the inventors are listed can be taken into account as long as the Unitary Patent proceedings before the EPO are pending is in force. …"
+ },
+ "source:uprl:8": {
+  "_de": "97371a8076",
+  "label": "UP Guidelines Part 8: Proceedings before the Unitary Patent Protection Division",
+  "summary": "Filing, representation (EPC rules), signature, languages, notification, time limits (one to four months, not extendable), oral proceedings, Register and file inspection, legal remedies."
+ },
+ "source:uprl:8.1": {
+  "_de": "986940bca2",
+  "label": "UP Guidelines 8.1: Filing requirements",
+  "summary": "8.1.1. Filing the request for unitary effect 8.1.2. Filing of subsequent documents"
+ },
+ "source:uprl:8.2": {
+  "_de": "1d7a8cef05",
+  "label": "UP Guidelines 8.2: Representation before the EPO",
+  "summary": "Representation in Unitary Patent proceedings is governed by the EPC (R. 20(2)(l) UPR in conjunction with Art. 133, 134(1), 134(5) and 134(8) EPC, and R. 151 to 153 EPC, which apply mutatis mutandis under R. 20(2)(l) UPR; see …"
+ },
+ "source:uprl:8.3": {
+  "_de": "97397e3e4f",
+  "label": "UP Guidelines 8.3: Signature of documents",
+  "summary": "8.3.1. Signature of the request for unitary effect 8.3.2. Signature of other documents 8.3.3. Form of signature"
+ },
+ "source:uprl:8.4": {
+  "_de": "838e1266e3",
+  "label": "UP Guidelines 8.4: Languages",
+  "summary": "The official languages of the EPO are German, English and French (Art. 14(1) EPC, which applies mutatis mutandis under R. 20(1) UPR in conjunction with Art. 14(1) EPC). The term \"language of the proceedings\" is defined in Art. 14(3) EPC. …"
+ },
+ "source:uprl:8.5": {
+  "_de": "b1a1c7c0e0",
+  "label": "UP Guidelines 8.5: Notification",
+  "summary": "Communications from the EPO i n the Unitary Patent procedure are subject to the same notification provisions as i n the European patent procedure (see R. 20(2)(f) UPR in conjunction with R. 125 to 130 EPC and the EPC Guidelines, E-II, 2). …"
+ },
+ "source:uprl:8.6": {
+  "_de": "dfa11abd29",
+  "label": "UP Guidelines 8.6: Time limits",
+  "summary": "8.6.1. Determination of time limits 8.6.2. Failure to observe a time limit"
+ },
+ "source:uprl:8.7": {
+  "_de": "bc5b3f1479",
+  "label": "UP Guidelines 8.7: Oral proceedings",
+  "summary": "n Oral proceedings take place either at the request of a party or, if the Unitary Patent Protection Division considers this expedient, of its own motion (R. 21(1) UPR). …"
+ },
+ "source:uprl:8.8": {
+  "_de": "eb43f3d354",
+  "label": "UP Guidelines 8.8: Publications and file inspection",
+  "summary": "8.8.1. UP Register 8.8.2. Content of the UP Register 8.8.3. Recording changes in the UP Register 8.8.4. European Patent Bulletin 8.8.5. Official Journal of the EPO 8.8.6. …"
+ },
+ "source:uprl:8.9": {
+  "_de": "30d2c1cd65",
+  "label": "UP Guidelines 8.9: Legal remedies",
+  "summary": "Action before the UPC under R. 23 UPR: two months (R. 88 RoP); where the request for unitary effect is rejected, three weeks (R. 97 RoP); interlocutory revision under R. 24 UPR only outside the R. 97 RoP procedure (UPC_CoA_796/2025)."
+ },
+ "source:upinfo:applying": {
+  "_de": "a5cc41f318",
+  "label": "EPO: Applying for a Unitary Patent",
+  "summary": "Before the EPO can register a Unitary Patent, the applicant must first obtain a European patent. A European patent application must therefore be filed and processed under the EPC. Once a European patent has been gran …"
+ },
+ "source:upinfo:compensation": {
+  "_de": "6a3d83b665",
+  "label": "EPO: Translation arrangements and compensation scheme",
+  "summary": "Translations After a transitional period, no translations will be required any more when the patent proprietor requests a Unitary Patent. During this transitional period of six years (which can be extended to a maximum of 12 years), th …"
+ },
+ "source:upinfo:cost": {
+  "_de": "7c9e164080",
+  "label": "EPO: Cost of a Unitary Patent",
+  "summary": "Renewal fees After a patent has been granted, the patent proprietor must pay renewal fees to maintain the patent. For classic European patents (EP), different renewal fees of different amounts must be paid to vari …"
+ },
+ "source:upinfo:features": {
+  "_de": "af5cc9cc29",
+  "label": "EPO: Main features",
+  "summary": "Granted European patent as the basis The Unitary Patent is based on a European patent granted by the EPO under the rules and procedures of the EPC. After grant of the European patent, for the territory of the EU Mem …"
+ },
+ "source:upinfo:legal-framework": {
+  "_de": "434e2861a2",
+  "label": "EPO: Legal framework",
+  "summary": "Legal texts on the Unitary Patent system The EPO and the UPC have jointly published a collection of all relevant legal texts ( PDF ). See also the HTML version (May 2023). EU Regulations Two EU Regulations form the leg …"
+ },
+ "source:upinfo:overview": {
+  "_de": "4d8e927879",
+  "label": "EPO: Unitary Patent",
+  "summary": "Last updated: June 2026 Ask.UP (in English) Mini web series answering the most frequent questions about the Unitary Patent Watch now European patents with unitary effect registered by the EPO from 1 September 2024 …"
+ },
+ "source:upinfo:start": {
+  "_de": "0a0d1705e7",
+  "label": "EPO: When was the Unitary Patent system launched?",
+  "summary": "The Unitary Patent system, consisting of the EU Regulations the ( No 1257/2012 and No 1260/2012 ) and the Agreement on a Unified Patent Court (UPCA), was launched on 1 June 2023. At that time, 17 Member St …"
+ }
+}

@@ -88,7 +88,10 @@ LAWS = {
 # Schreibweisen in Entscheidungen und Normenketten -> Abkürzung der Tabellen
 ALIASES = {"ArbNErfG": "ArbnErfG", "ArbEG": "ArbnErfG", "EPC": "EPÜ", "TFEU": "AEUV", "EPGVerfO": "VerfO", "UPCS": "EPG-Satzung",
            "EuGVVO": "Brüssel-Ia-VO", "Brüssel Ia-VO": "Brüssel-Ia-VO", "GbmG": "GebrMG",
-           "EPG": "EPGÜ", "EU-GRCh": "GRCh", "RpfG": "RPflG"}
+           "EPG": "EPGÜ", "EU-GRCh": "GRCh", "RpfG": "RPflG",
+           # englische Zitierformen der EPG-App (docs/en/, knowledge/upc/en)
+           "UPReg": "EPatVO", "TranslReg": "EPatÜVO", "IPRED": "DurchsetzungsRL", "TEU": "EUV", "CFR": "GRCh", "ECHR": "EMRK",
+           "Brussels Ia Regulation": "Brüssel-Ia-VO", "UPC Statute": "EPG-Satzung"}
 
 # Gesetze ohne Einzelseiten je Artikel (Link auf das Gesamtdokument); Paragraphen wie „Art. 229 § 6“ haben eigene Seiten
 WHOLE_DOC = {"EGBGB": "BJNR006049896.html"}
@@ -181,7 +184,7 @@ ARTICLE_LETTERED = {"EPÜ": ("105a", "105b", "105c", "112a", "134a", "149a")}
 # Zitierkürzel -> Schlüssel des Richtlinien-/Übereinkommensknotens im Graphen (eunorm:<key>:<nr>); Aliase erlaubt.
 EU_NORM_KEYS = {"MarkenRL": "markenrl", "DurchsetzungsRL": "durchsetzungsrl", "EPGÜ": "upca", "UPCA": "upca", "VerfO": "rop", "RoP": "rop",
                 "EPatVO": "epatvo", "EPatÜVO": "epatuevo", "EPatÜbersVO": "epatuevo", "DOEPS": "doeps", "UPR": "doeps",
-                "GebOEPS": "gebeps", "GebEPS": "gebeps", "RFeesUPP": "gebeps",
+                "GebOEPS": "gebeps", "GebEPS": "gebeps", "RFeesUPP": "gebeps", "UPReg": "epatvo", "TranslReg": "epatuevo", "IPRED": "durchsetzungsrl",
                 "DesignRL": "designrl", "DesignRL 2024": "designrl2024", "GGV": "ggv", "UGMV": "ggv"}
 # Zitatköpfe für Regeln (VerfO, DOEPS): „R. 19.1 VerfO“, „Regel 262A VerfO“, „Rule 19 RoP“, „R. 6 Abs. 1 DOEPS“; ohne Gesetzesangabe nie verlinken.
 RULE_HEADS = ("R.", "Regel", "Rule")
@@ -214,13 +217,13 @@ G_PRE, G_HEAD, G_NUMS, G_SUB, G_LAW, G_LONG, G_FOREIGN = 1, 2, 3, 4, 5, 6, 7
 _PATTERN = (
     r"(?:(?<![" + _LETTERS + r"])(" + _ABBR + r")\s+(?=§|Art\.))?"
     r"((?:Art\.|Artikel)\s*(?:[IVX]+|\d+)\s*§|§§|§|Art\.|\bR\.|\bRegel|\bRule)\s*"
-    r"(\d+" + _SUFFIX + r"(?:\.\d+)*" + _PAREN + r"(?:\s*(?:bis|,|und|ff\.|f\.|/|-|–)\s*\d+" + _SUFFIX + r"(?:\.\d+)*" + _PAREN + r")*(?:\s*f{1,2}\.)?(?: [A-I](?= ))?)"
+    r"(\d+" + _SUFFIX + r"(?:\.\d+)*" + _PAREN + r"(?:\s*(?:bis|,|und|to|and|ff\.|f\.|/|-|–)\s*\d+" + _SUFFIX + r"(?:\.\d+)*" + _PAREN + r")*(?:\s*f{1,2}\.)?(?: [A-I](?= ))?)"
     r"((?:(?:,|\s+und|\s+oder|\s+sowie)?\s+(?:" + _SUBKEYS + r")\s*[0-9A-Za-z_ÄÖÜäöüß§]+" + _PAREN + r"(?:\s*(?:bis|und|,|/|–|-)\s*(?:\d+[a-z]?|[a-z])" + _PAREN + r"(?![0-9A-Za-z_ÄÖÜäöüß.]))*)*)"
     r"(?:\s+(" + _ABBR + r")(?![" + _LETTERS + r"])|\s+(" + _LONG + r")|\s+(" + _FOREIGN + r"))?"
 )
 CITATION = re.compile(_PATTERN)
 _NUM = re.compile(r"\d+[a-z]?")
-_CHAIN = re.compile(r"\s*(?:,|und|oder|sowie|bzw\.)\s*(?:(?:die|der|den|des|dem)\s+)?")
+_CHAIN = re.compile(r"\s*(?:,|und|oder|sowie|bzw\.|and|or)\s*(?:(?:die|der|den|des|dem)\s+)?")
 _LONG_NAMES = re.compile("|".join(re.escape(k) for k in sorted(LONG_LAWS, key=len, reverse=True)))
 FOREIGN = ""  # Marker: Zitat nennt ein nicht verlinkbares Gesetz
 _ABBR_BEFORE = re.compile(r"(?<![" + _LETTERS + r"])(" + _ABBR + r")\s*\(\s*$")

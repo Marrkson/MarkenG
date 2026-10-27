@@ -9,6 +9,7 @@ und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
 | Pfad | Inhalt |
 |---|---|
 | `docs/index.html` | **IPelico**, der Fallkurs: 30 Kurse in fünf Rechtsgebieten zur Auswahl (EU und internationales Recht, Marken, Patent, DesignG, Einheitliches Patentgericht), 143 Kapitel, 1.527 Lerneinheiten (1.153 Ja/Nein-Fragen, 226 Auswahlfragen, 54 Prüfungsschemata, 94 Einführungen; davon 252 Fallketten im Jurafuchs-Format: kurzer Sachverhalt, mehrere Fragen, Abwandlungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie (über 4 KB im localStorage); Gestaltung nach `DESIGN.md` |
+| `docs/en/index.html` | **IPelico auf Englisch** für das Gebiet EPG: 10 Kurse, 518 Einheiten, Lernkarten mit dem amtlichen englischen Wortlaut von EPGÜ, VerfO (Fassung 2022), EPatVO, EPatÜVO, DOEPS, GebOEPS und DurchsetzungsRL, EPG-Rechtsprechung; Fortschritt mit der deutschen App geteilt (PLAYBOOK 17) |
 | `docs/didaktik.md` | Didaktisches Konzept von IPelico und Kursaufbau |
 | `DESIGN.md`, `src/templates/ipelico/` | Gestaltungsrichtlinie (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons, Schriften) und die Assets dazu; `tools/gen_assets.py` erzeugt die Icons |
 | `docs/navigator/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |

@@ -38,7 +38,7 @@ HINWEISE_EPATVO = {
     6: "Unionsweite Erschöpfung; wortgleich mit Art. 29 EPGÜ.",
     7: "Kollisionsnorm für das Einheitspatent als Gegenstand des Vermögens: Recht des teilnehmenden Mitgliedstaats, in dem der Anmelder am Anmeldetag Wohnsitz oder Hauptniederlassung hatte, hilfsweise eine Niederlassung (R. 16 Abs. 1 lit. w DOEPS), sonst deutsches Recht (Abs. 3, Sitz der EPO).",
     8: "Lizenzbereitschaftserklärung gegenüber dem EPA; Vertragslizenz kraft Gesetzes (Abs. 2). Folge: 15 % Ermäßigung der Jahresgebühren (R. 12 DOEPS, Art. 3 GebOEPS); die angemessene Vergütung bestimmt das EPG (Art. 32 Abs. 1 lit. h EPGÜ).",
-    9: "Aufgabenkatalog des EPA nach Art. 143 EPÜ: Anträge auf einheitliche Wirkung (lit. a, g), Register (lit. b), Lizenzbereitschaft (lit. c), Übersetzungen (lit. d), Jahresgebühren (lit. e, f), Kompensation (lit. f). Abs. 3: Klagen gegen EPA-Entscheidungen zum EPG (Art. 32 Abs. 1 lit. i EPGÜ).",
+    9: "Aufgabenkatalog des EPA nach Art. 143 EPÜ: Anträge auf einheitliche Wirkung (lit. a, g), Register (lit. b), Lizenzbereitschaft (lit. c), Übersetzungen (lit. d), Jahresgebühren (lit. e), Kompensation (lit. f). Abs. 3: Klagen gegen EPA-Entscheidungen zum EPG (Art. 32 Abs. 1 lit. i EPGÜ).",
     11: "Eine einzige Jahresgebühr an das EPA, fällig ab dem Folgejahr des Erteilungshinweises; Zahlung ohne Vertreterzwang. Durchführung in R. 13 DOEPS.",
     12: "Grundsätze der Gebührenhöhe (progressiv, kostendeckend, KMU-freundlich); tatsächlich festgesetzt als Summe der vier validierungsstärksten Staaten von 2015 („True Top 4“) in Art. 2 GebOEPS.",
     13: "Das EPA behält 50 % der Jahresgebühren, der Rest wird nach einem Schlüssel des Engeren Ausschusses an die teilnehmenden Mitgliedstaaten verteilt.",
@@ -84,7 +84,7 @@ HINWEISE_DOEPS = {
     21: "Mündliche Verhandlung auf Antrag oder von Amts wegen (Abs. 1), im Verfahren über den Antrag auf einheitliche Wirkung nur auf Antrag des Inhabers und bei Sachdienlichkeit (Abs. 2); nicht öffentlich (Abs. 3).",
     22: "Wiedereinsetzung (Maßstab: alle gebotene Sorgfalt, Rechtsprechung zu Art. 122 EPÜ): für die Frist des R. 6 Abs. 1 binnen zwei Monaten ab Fristablauf ohne Rücksicht auf den Wegfall des Hindernisses (Abs. 2), sonst zwei Monate ab Wegfall, höchstens ein Jahr; Gebühr nach Art. 2 Abs. 2 GebOEPS. Ausgeschlossen für die Wiedereinsetzungsfrist selbst und die Mängelfrist des R. 7 Abs. 3 (Abs. 6).",
     23: "Rechtsbehelf: Klage vor dem EPG gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz (Art. 32 Abs. 1 lit. i, Art. 66 EPGÜ) – zwei Monate nach R. 88 VerfO, bei Zurückweisung des Antrags auf einheitliche Wirkung drei Wochen nach R. 97 VerfO (beschleunigtes Verfahren vor dem Eilrichter).",
-    24: "Abhilfe durch das EPA binnen zwei Monaten, wenn das EPG die Klage für zulässig hält (R. 91 VerfO) – nicht im Verfahren nach R. 97 VerfO, das als lex specialis keine Abhilfe kennt (R. 85 Abs. 2 VerfO; EPG-BerG Bodycap/EPA).",
+    24: "Abhilfe durch das EPA binnen zwei Monaten, wenn das EPG die Klage für zulässig hält (R. 91 VerfO) – nicht im Verfahren nach R. 97 VerfO, das als lex specialis keine Abhilfe kennt (R. 85.2 VerfO; EPG-BerG Bodycap/EPA).",
 }
 BEZUG_DOEPS = {
     1: ["Art. 9 EPatVO"], 2: ["Art. 9 EPatVO"], 4: ["Art. 9 EPatVO"],

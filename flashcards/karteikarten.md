@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht und Einheitliches Patentgericht
 
-2679 Karten, generiert aus graph/markenrecht_graph.json.
+3014 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -9928,6 +9928,1024 @@ Die zivilrechtlichen Ansprüche bei Verletzung eines Designs, einer Marke, eines
 
 ---
 
+## definition
+
+**F:** Definiere: Stand der Technik ([Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html))
+
+**A:** Den Stand der Technik bildet alles, was vor dem Anmeldetag (bei wirksamer Priorität: dem Prioritätstag, [Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html)) der Öffentlichkeit durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise zugänglich gemacht worden ist ([Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)).
+
+Normen: [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html), [Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html)
+
+Rechtsprechung: GBK G 1/92 – Öffentliche Zugänglichkeit (G 1/92); GBK G 1/23 – Auf den Markt gebrachtes Erzeugnis (G 1/23); GBK G 3/93 – Prioritätsintervall (G 3/93)
+
+*Tags: Begriff, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Den Stand der Technik bildet alles, was vor dem Anmeldetag (bei wirksamer Priorität: dem Prioritätstag, [Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html)) der Öffentlichkeit durch schriftliche oder mündliche Beschreibung, durch Benutzung oder in sonstiger Weise zugänglich gemacht worden ist ([Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)).
+
+**A:** Stand der Technik ([Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Ältere europäische Anmeldungen ([Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html))
+
+**A:** Als Stand der Technik gilt auch der Inhalt europäischer Anmeldungen in der ursprünglich eingereichten Fassung, deren Anmeldetag (oder wirksamer Prioritätstag) vor dem maßgeblichen Tag liegt und die an oder nach diesem Tag veröffentlicht werden ([Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)).
+
+Normen: [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html), [Art. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/a56.html), [Art. 153 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html), [R. 165 EPÜ](https://www.epo.org/de/legal/epc/2020/r165.html)
+
+Rechtsprechung: GBK G 1/03 – Disclaimer (nicht offenbart) (G 1/03)
+
+*Tags: Begriff, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Als Stand der Technik gilt auch der Inhalt europäischer Anmeldungen in der ursprünglich eingereichten Fassung, deren Anmeldetag (oder wirksamer Prioritätstag) vor dem maßgeblichen Tag liegt und die an oder nach diesem Tag veröffentlicht werden ([Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)).
+
+**A:** Ältere europäische Anmeldungen ([Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Unschädliche Offenbarung ([Art. 55 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html))
+
+**A:** Eine Offenbarung bleibt außer Betracht, wenn sie höchstens sechs Monate vor Einreichung der europäischen Anmeldung erfolgte und auf einem offensichtlichen Missbrauch zum Nachteil des Anmelders oder auf einer Zurschaustellung auf einer anerkannten Ausstellung beruht ([Art. 55 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html)).
+
+Normen: [Art. 55 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html), [R. 25 EPÜ](https://www.epo.org/de/legal/epc/2020/r25.html)
+
+Rechtsprechung: GBK G 3/98 – Sechsmonatsfrist (G 3/98)
+
+*Tags: Begriff, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Offenbarung bleibt außer Betracht, wenn sie höchstens sechs Monate vor Einreichung der europäischen Anmeldung erfolgte und auf einem offensichtlichen Missbrauch zum Nachteil des Anmelders oder auf einer Zurschaustellung auf einer anerkannten Ausstellung beruht ([Art. 55 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html)).
+
+**A:** Unschädliche Offenbarung ([Art. 55 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Erste und weitere medizinische Indikation ([Art. 54 Abs. 4, 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html))
+
+**A:** Bekannte Stoffe sind für die Anwendung in einem Verfahren nach [Art. 53 lit. c EPÜ](https://www.epo.org/de/legal/epc/2020/a53.html) patentierbar, wenn diese Anwendung nicht zum Stand der Technik gehört (Abs. 4, erste Indikation), und für jede weitere spezifische Anwendung (Abs. 5).
+
+Normen: [Art. 54 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html), [Art. 54 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html), [Art. 53 EPÜ](https://www.epo.org/de/legal/epc/2020/a53.html)
+
+Rechtsprechung: GBK G 2/08 – Dosierungsanleitung (G 2/08)
+
+*Tags: Begriff, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bekannte Stoffe sind für die Anwendung in einem Verfahren nach [Art. 53 lit. c EPÜ](https://www.epo.org/de/legal/epc/2020/a53.html) patentierbar, wenn diese Anwendung nicht zum Stand der Technik gehört (Abs. 4, erste Indikation), und für jede weitere spezifische Anwendung (Abs. 5).
+
+**A:** Erste und weitere medizinische Indikation ([Art. 54 Abs. 4, 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Auslegung der Ansprüche ([Art. 69 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html))
+
+**A:** Der Schutzbereich wird durch die Ansprüche bestimmt; Beschreibung und Zeichnungen sind zur Auslegung heranzuziehen ([Art. 69 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html) mit Auslegungsprotokoll). Das gilt auch bei der Prüfung der Patentierbarkeit (G 1/24).
+
+Normen: [Art. 69 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html), [Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html)
+
+Rechtsprechung: GBK G 1/24 – Auslegung der Ansprüche (G 1/24); GBK G 1/25 – Anpassung der Beschreibung (G 1/25)
+
+*Tags: Begriff, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Schutzbereich wird durch die Ansprüche bestimmt; Beschreibung und Zeichnungen sind zur Auslegung heranzuziehen ([Art. 69 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html) mit Auslegungsprotokoll). Das gilt auch bei der Prüfung der Patentierbarkeit (G 1/24).
+
+**A:** Auslegung der Ansprüche ([Art. 69 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Anmeldetag ([Art. 80 EPÜ](https://www.epo.org/de/legal/epc/2020/a80.html), [R. 40 EPÜ](https://www.epo.org/de/legal/epc/2020/r40.html))
+
+**A:** Anmeldetag ist der Tag, an dem die Unterlagen einen Hinweis auf den Patentantrag, Angaben zur Identität des Anmelders und eine Beschreibung oder die Bezugnahme auf eine früher eingereichte Anmeldung enthalten ([Art. 80 EPÜ](https://www.epo.org/de/legal/epc/2020/a80.html), [R. 40 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r40.html)).
+
+Normen: [Art. 80 EPÜ](https://www.epo.org/de/legal/epc/2020/a80.html), [R. 40 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r40.html), [R. 40 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r40.html), [R. 58 EPÜ](https://www.epo.org/de/legal/epc/2020/r58.html)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Anmeldetag ist der Tag, an dem die Unterlagen einen Hinweis auf den Patentantrag, Angaben zur Identität des Anmelders und eine Beschreibung oder die Bezugnahme auf eine früher eingereichte Anmeldung enthalten ([Art. 80 EPÜ](https://www.epo.org/de/legal/epc/2020/a80.html), [R. 40 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r40.html)).
+
+**A:** Anmeldetag ([Art. 80 EPÜ](https://www.epo.org/de/legal/epc/2020/a80.html), [R. 40 EPÜ](https://www.epo.org/de/legal/epc/2020/r40.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Fehlende und fälschlich eingereichte Teile ([R. 56](https://www.epo.org/de/legal/epc/2020/r56.html), [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html))
+
+**A:** Fehlende Teile der Beschreibung oder fehlende Zeichnungen ([R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html)) und fälschlich eingereichte Unterlagen ([R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html)) können binnen zwei Monaten nach dem Anmeldetag oder nach Aufforderung nachgereicht werden; der Anmeldetag wird dann neu festgesetzt.
+
+Normen: [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html), [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html), [R. 58 EPÜ](https://www.epo.org/de/legal/epc/2020/r58.html)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Fehlende Teile der Beschreibung oder fehlende Zeichnungen ([R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html)) und fälschlich eingereichte Unterlagen ([R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html)) können binnen zwei Monaten nach dem Anmeldetag oder nach Aufforderung nachgereicht werden; der Anmeldetag wird dann neu festgesetzt.
+
+**A:** Fehlende und fälschlich eingereichte Teile ([R. 56](https://www.epo.org/de/legal/epc/2020/r56.html), [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Priorität ([Art. 87 bis 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html))
+
+**A:** Wer in oder für einen Verbandsstaat der PVÜ oder ein WTO-Mitglied eine Anmeldung ordnungsgemäß eingereicht hat, genießt für die europäische Nachanmeldung derselben Erfindung binnen zwölf Monaten ein Prioritätsrecht ([Art. 87 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html)); der Prioritätstag gilt als Anmeldetag für [Art. 54 Abs. 2, 3](https://www.epo.org/de/legal/epc/2020/a54.html) und [Art. 60 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a60.html) ([Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html)).
+
+Normen: [Art. 87 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html), [Art. 87 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html), [Art. 88 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html), [Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html), [R. 52 EPÜ](https://www.epo.org/de/legal/epc/2020/r52.html), [R. 53 EPÜ](https://www.epo.org/de/legal/epc/2020/r53.html)
+
+Rechtsprechung: GBK G 2/98 – Dieselbe Erfindung (G 2/98); GBK G 1/15 – Teilpriorität (G 1/15); GBK G 1/22 – Prioritätsberechtigung (G 1/22); GBK G 3/93 – Prioritätsintervall (G 3/93)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer in oder für einen Verbandsstaat der PVÜ oder ein WTO-Mitglied eine Anmeldung ordnungsgemäß eingereicht hat, genießt für die europäische Nachanmeldung derselben Erfindung binnen zwölf Monaten ein Prioritätsrecht ([Art. 87 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html)); der Prioritätstag gilt als Anmeldetag für [Art. 54 Abs. 2, 3](https://www.epo.org/de/legal/epc/2020/a54.html) und [Art. 60 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a60.html) ([Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html)).
+
+**A:** Priorität ([Art. 87 bis 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Teilpriorität (G 1/15)
+
+**A:** Ein generischer „ODER“-Anspruch kann für den Teil, der im Prioritätsdokument eindeutig und ausführbar offenbart ist, die Priorität beanspruchen, für den Rest nicht ([Art. 88 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html); G 1/15).
+
+Normen: [Art. 88 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html), [Art. 88 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html)
+
+Rechtsprechung: GBK G 1/15 – Teilpriorität (G 1/15)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein generischer „ODER“-Anspruch kann für den Teil, der im Prioritätsdokument eindeutig und ausführbar offenbart ist, die Priorität beanspruchen, für den Rest nicht ([Art. 88 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html); G 1/15).
+
+**A:** Teilpriorität (G 1/15)
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Teilanmeldung ([Art. 76 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [R. 36 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html))
+
+**A:** Eine Teilanmeldung kann zu jeder anhängigen früheren europäischen Anmeldung unmittelbar beim EPA eingereicht werden; sie gilt als am Anmeldetag der Stammanmeldung eingereicht und genießt deren Priorität, soweit sie nicht über deren Inhalt hinausgeht ([Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)).
+
+Normen: [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [R. 36 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html), [R. 51 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html)
+
+Rechtsprechung: GBK G 1/05 – Teilanmeldung mit Erweiterung (G 1/05); GBK G 1/06 – Kette von Teilanmeldungen (G 1/06); GBK G 1/09 – Anhängigkeit nach Zurückweisung (G 1/09); JBK J 4/11 – Keine Anhängigkeit während der Wiedereinsetzungsfrist (J 4/11)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Teilanmeldung kann zu jeder anhängigen früheren europäischen Anmeldung unmittelbar beim EPA eingereicht werden; sie gilt als am Anmeldetag der Stammanmeldung eingereicht und genießt deren Priorität, soweit sie nicht über deren Inhalt hinausgeht ([Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)).
+
+**A:** Teilanmeldung ([Art. 76 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [R. 36 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Anhängigkeit der Anmeldung
+
+**A:** Eine Anmeldung ist anhängig, solange über sie noch entschieden werden kann: bis zum Tag vor dem Hinweis auf die Erteilung, nach Zurückweisung bis zum Ablauf der Beschwerdefrist oder bis zum Ende des Beschwerdeverfahrens, nach Rücknahmefiktion während der Weiterbehandlungsfrist.
+
+Normen: [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html), [Art. 97 EPÜ](https://www.epo.org/de/legal/epc/2020/a97.html)
+
+Rechtsprechung: GBK G 1/09 – Anhängigkeit nach Zurückweisung (G 1/09); JBK J 4/11 – Keine Anhängigkeit während der Wiedereinsetzungsfrist (J 4/11); JBK J 18/09 – Euro-PCT ohne Eintritt nicht anhängig (J 18/09)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine Anmeldung ist anhängig, solange über sie noch entschieden werden kann: bis zum Tag vor dem Hinweis auf die Erteilung, nach Zurückweisung bis zum Ablauf der Beschwerdefrist oder bis zum Ende des Beschwerdeverfahrens, nach Rücknahmefiktion während der Weiterbehandlungsfrist.
+
+**A:** Anhängigkeit der Anmeldung
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Recht auf das Patent und Vindikation ([Art. 60, 61 EPÜ](https://www.epo.org/de/legal/epc/2020/a60.html))
+
+**A:** Das Recht auf das europäische Patent hat der Erfinder oder sein Rechtsnachfolger ([Art. 60 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a60.html)). Ist durch rechtskräftige Entscheidung ein Dritter als berechtigt anerkannt, kann er die Anmeldung als eigene weiterverfolgen, eine neue Anmeldung einreichen oder die Zurückweisung beantragen ([Art. 61 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html)).
+
+Normen: [Art. 60 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a60.html), [Art. 61 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html), [R. 14 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html), [R. 16 EPÜ](https://www.epo.org/de/legal/epc/2020/r16.html)
+
+Rechtsprechung: JBK J 14/19 – Aussetzung nur vor Erteilung (J 14/19); JBK J 20/05 – Keine Teilanmeldung während der Aussetzung (J 20/05); JBK J 9/12 – Aussetzung ab Eingang des Nachweises (J 9/12); GBK G 3/92 – Neue Anmeldung des Berechtigten (G 3/92)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das Recht auf das europäische Patent hat der Erfinder oder sein Rechtsnachfolger ([Art. 60 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a60.html)). Ist durch rechtskräftige Entscheidung ein Dritter als berechtigt anerkannt, kann er die Anmeldung als eigene weiterverfolgen, eine neue Anmeldung einreichen oder die Zurückweisung beantragen ([Art. 61 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html)).
+
+**A:** Recht auf das Patent und Vindikation ([Art. 60, 61 EPÜ](https://www.epo.org/de/legal/epc/2020/a60.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Unzulässige Erweiterung ([Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html))
+
+**A:** Anmeldung und Patent dürfen nicht so geändert werden, dass ihr Gegenstand über den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung hinausgeht ([Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)).
+
+Normen: [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html)
+
+Rechtsprechung: GBK G 2/10 – Disclaimer (offenbart) (G 2/10); GBK G 1/03 – Disclaimer (nicht offenbart) (G 1/03); GBK G 1/93 – Beschränkendes Merkmal (G 1/93)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Anmeldung und Patent dürfen nicht so geändert werden, dass ihr Gegenstand über den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung hinausgeht ([Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)).
+
+**A:** Unzulässige Erweiterung ([Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Disclaimer
+
+**A:** Ein Disclaimer nimmt einen Teil des beanspruchten Gegenstands ausdrücklich aus. Ein ursprünglich nicht offenbarter Disclaimer ist nur zulässig, um die Neuheit gegenüber [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) oder einer zufälligen Vorwegnahme wiederherzustellen oder aus nichttechnischen Gründen Ausgeschlossenes zu entfernen (G 1/03, G 1/16).
+
+Normen: [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+
+Rechtsprechung: GBK G 1/03 – Disclaimer (nicht offenbart) (G 1/03); GBK G 2/10 – Disclaimer (offenbart) (G 2/10); GBK G 1/16 – Disclaimer III (G 1/16)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Ein Disclaimer nimmt einen Teil des beanspruchten Gegenstands ausdrücklich aus. Ein ursprünglich nicht offenbarter Disclaimer ist nur zulässig, um die Neuheit gegenüber [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) oder einer zufälligen Vorwegnahme wiederherzustellen oder aus nichttechnischen Gründen Ausgeschlossenes zu entfernen (G 1/03, G 1/16).
+
+**A:** Disclaimer
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Erweiterung des Schutzbereichs ([Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html))
+
+**A:** Das erteilte Patent darf im Einspruchs-, Beschränkungs- oder Beschwerdeverfahren nicht so geändert werden, dass sein Schutzbereich erweitert wird ([Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)).
+
+Normen: [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [Art. 69 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html), [Art. 138 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a138.html)
+
+Rechtsprechung: GBK G 2/88 – Kategoriewechsel (G 2/88); GBK G 1/93 – Beschränkendes Merkmal (G 1/93)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das erteilte Patent darf im Einspruchs-, Beschränkungs- oder Beschwerdeverfahren nicht so geändert werden, dass sein Schutzbereich erweitert wird ([Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)).
+
+**A:** Erweiterung des Schutzbereichs ([Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Berichtigung von Fehlern ([R. 139](https://www.epo.org/de/legal/epc/2020/r139.html), [R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html))
+
+**A:** Sprachliche Fehler, Schreibfehler und Unrichtigkeiten in beim EPA eingereichten Unterlagen können auf Antrag berichtigt werden; in Beschreibung, Ansprüchen und Zeichnungen nur, wenn die Berichtigung offensichtlich ist ([R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html)). Fehler in Entscheidungen berichtigt [R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html).
+
+Normen: [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html), [R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html), [R. 52 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r52.html), [Art. 14 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html)
+
+Rechtsprechung: GBK G 3/89 – Berichtigung der Offenbarung (G 3/89); GBK G 1/10 – Berichtigung des Patents (G 1/10); GBK G 1/12 – Berichtigung des Beschwerdeführers (G 1/12); GBK G 11/91 – Berichtigung der Offenbarung (Parallelfall) (G 11/91)
+
+*Tags: Begriff, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Sprachliche Fehler, Schreibfehler und Unrichtigkeiten in beim EPA eingereichten Unterlagen können auf Antrag berichtigt werden; in Beschreibung, Ansprüchen und Zeichnungen nur, wenn die Berichtigung offensichtlich ist ([R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html)). Fehler in Entscheidungen berichtigt [R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html).
+
+**A:** Berichtigung von Fehlern ([R. 139](https://www.epo.org/de/legal/epc/2020/r139.html), [R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
+
+---
+
+## definition
+
+**F:** Definiere: Einheitlichkeit und Recherche ([Art. 82 EPÜ](https://www.epo.org/de/legal/epc/2020/a82.html), [R. 64](https://www.epo.org/de/legal/epc/2020/r64.html), [R. 164 EPÜ](https://www.epo.org/de/legal/epc/2020/r164.html))
+
+**A:** Die Anmeldung darf nur eine Erfindung oder eine Gruppe von Erfindungen mit einem einzigen allgemeinen erfinderischen Gedanken enthalten ([Art. 82 EPÜ](https://www.epo.org/de/legal/epc/2020/a82.html)). Bei Uneinheitlichkeit recherchiert das EPA die erste Erfindung und fordert für weitere Recherchengebühren an ([R. 64 EPÜ](https://www.epo.org/de/legal/epc/2020/r64.html)).
+
+Normen: [Art. 82 EPÜ](https://www.epo.org/de/legal/epc/2020/a82.html), [R. 64 EPÜ](https://www.epo.org/de/legal/epc/2020/r64.html), [R. 164 EPÜ](https://www.epo.org/de/legal/epc/2020/r164.html), [R. 137 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/r137.html)
+
+*Tags: Begriff, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Anmeldung darf nur eine Erfindung oder eine Gruppe von Erfindungen mit einem einzigen allgemeinen erfinderischen Gedanken enthalten ([Art. 82 EPÜ](https://www.epo.org/de/legal/epc/2020/a82.html)). Bei Uneinheitlichkeit recherchiert das EPA die erste Erfindung und fordert für weitere Recherchengebühren an ([R. 64 EPÜ](https://www.epo.org/de/legal/epc/2020/r64.html)).
+
+**A:** Einheitlichkeit und Recherche ([Art. 82 EPÜ](https://www.epo.org/de/legal/epc/2020/a82.html), [R. 64](https://www.epo.org/de/legal/epc/2020/r64.html), [R. 164 EPÜ](https://www.epo.org/de/legal/epc/2020/r164.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Prüfungsverfahren ([Art. 94 EPÜ](https://www.epo.org/de/legal/epc/2020/a94.html), [R. 70](https://www.epo.org/de/legal/epc/2020/r70.html), [R. 71 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html))
+
+**A:** Die Prüfungsabteilung prüft auf schriftlichen Antrag (Prüfungsgebühr), ob Anmeldung und Erfindung den Erfordernissen des EPÜ genügen; Mängel teilt sie in Bescheiden nach [Art. 94 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a94.html) mit.
+
+Normen: [Art. 94 EPÜ](https://www.epo.org/de/legal/epc/2020/a94.html), [R. 70 EPÜ](https://www.epo.org/de/legal/epc/2020/r70.html), [R. 70a EPÜ](https://www.epo.org/de/legal/epc/2020/r70a.html), [R. 137 EPÜ](https://www.epo.org/de/legal/epc/2020/r137.html)
+
+Rechtsprechung: GBK G 12/91 – Abschluss des schriftlichen Verfahrens (G 12/91)
+
+*Tags: Begriff, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Prüfungsabteilung prüft auf schriftlichen Antrag (Prüfungsgebühr), ob Anmeldung und Erfindung den Erfordernissen des EPÜ genügen; Mängel teilt sie in Bescheiden nach [Art. 94 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a94.html) mit.
+
+**A:** Prüfungsverfahren ([Art. 94 EPÜ](https://www.epo.org/de/legal/epc/2020/a94.html), [R. 70](https://www.epo.org/de/legal/epc/2020/r70.html), [R. 71 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Erteilung ([R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html), [Art. 97 EPÜ](https://www.epo.org/de/legal/epc/2020/a97.html))
+
+**A:** Vor der Erteilung teilt die Prüfungsabteilung die vorgesehene Fassung mit und fordert binnen vier Monaten zur Zahlung der Erteilungsgebühr und zur Übersetzung der Ansprüche in die beiden anderen Amtssprachen auf ([R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html)); dies gilt als Einverständnis (Abs. 5).
+
+Normen: [R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html), [R. 71 Abs. 6 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html), [Art. 97 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a97.html)
+
+Rechtsprechung: GBK G 1/10 – Berichtigung des Patents (G 1/10); GBK G 12/91 – Abschluss des schriftlichen Verfahrens (G 12/91)
+
+*Tags: Begriff, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Vor der Erteilung teilt die Prüfungsabteilung die vorgesehene Fassung mit und fordert binnen vier Monaten zur Zahlung der Erteilungsgebühr und zur Übersetzung der Ansprüche in die beiden anderen Amtssprachen auf ([R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html)); dies gilt als Einverständnis (Abs. 5).
+
+**A:** Erteilung ([R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html), [Art. 97 EPÜ](https://www.epo.org/de/legal/epc/2020/a97.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Einwendungen Dritter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html))
+
+**A:** Nach Veröffentlichung der Anmeldung kann jeder Dritte Einwendungen gegen die Patentierbarkeit erheben; er wird dadurch nicht Beteiligter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html), [R. 114 EPÜ](https://www.epo.org/de/legal/epc/2020/r114.html)).
+
+Normen: [Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html), [R. 114 EPÜ](https://www.epo.org/de/legal/epc/2020/r114.html)
+
+*Tags: Begriff, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nach Veröffentlichung der Anmeldung kann jeder Dritte Einwendungen gegen die Patentierbarkeit erheben; er wird dadurch nicht Beteiligter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html), [R. 114 EPÜ](https://www.epo.org/de/legal/epc/2020/r114.html)).
+
+**A:** Einwendungen Dritter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Jahresgebühren ([Art. 86 EPÜ](https://www.epo.org/de/legal/epc/2020/a86.html), [R. 51 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html))
+
+**A:** Für die europäische Anmeldung sind ab dem dritten Jahr Jahresgebühren an das EPA zu zahlen, jeweils fällig am letzten Tag des Monats, in den der Jahrestag des Anmeldetags fällt ([Art. 86 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a86.html), [R. 51 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html)).
+
+Normen: [Art. 86 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a86.html), [R. 51 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html)
+
+Rechtsprechung: JBK J 4/11 – Keine Anhängigkeit während der Wiedereinsetzungsfrist (J 4/11); JBK J 4/91 – Nachfrist für Jahresgebühren von Monatsende zu Monatsende (J 4/91)
+
+*Tags: Begriff, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für die europäische Anmeldung sind ab dem dritten Jahr Jahresgebühren an das EPA zu zahlen, jeweils fällig am letzten Tag des Monats, in den der Jahrestag des Anmeldetags fällt ([Art. 86 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a86.html), [R. 51 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html)).
+
+**A:** Jahresgebühren ([Art. 86 EPÜ](https://www.epo.org/de/legal/epc/2020/a86.html), [R. 51 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Recherche, Prüfung und Erteilung*
+
+---
+
+## definition
+
+**F:** Definiere: Fristberechnung ([R. 131](https://www.epo.org/de/legal/epc/2020/r131.html), [R. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html))
+
+**A:** Fristen beginnen mit dem auslösenden Ereignis (Zustellung, Anmeldetag); Monatsfristen enden im maßgeblichen späteren Monat an dem Tag mit derselben Zahl, fehlt er, am letzten Tag des Monats ([R. 131 Abs. 2, 4 EPÜ](https://www.epo.org/de/legal/epc/2020/r131.html)). Ist das EPA am letzten Tag geschlossen, läuft die Frist am nächsten Arbeitstag ab ([R. 134 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html)).
+
+Normen: [R. 131 EPÜ](https://www.epo.org/de/legal/epc/2020/r131.html), [R. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html), [R. 126 EPÜ](https://www.epo.org/de/legal/epc/2020/r126.html), [Art. 120 EPÜ](https://www.epo.org/de/legal/epc/2020/a120.html)
+
+Rechtsprechung: JBK J 10/20 – Vertrauen auf Fristverlängerung (J 10/20); JBK J 4/91 – Nachfrist für Jahresgebühren von Monatsende zu Monatsende (J 4/91)
+
+*Tags: Begriff, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Fristen beginnen mit dem auslösenden Ereignis (Zustellung, Anmeldetag); Monatsfristen enden im maßgeblichen späteren Monat an dem Tag mit derselben Zahl, fehlt er, am letzten Tag des Monats ([R. 131 Abs. 2, 4 EPÜ](https://www.epo.org/de/legal/epc/2020/r131.html)). Ist das EPA am letzten Tag geschlossen, läuft die Frist am nächsten Arbeitstag ab ([R. 134 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html)).
+
+**A:** Fristberechnung ([R. 131](https://www.epo.org/de/legal/epc/2020/r131.html), [R. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## definition
+
+**F:** Definiere: Zustellung ([R. 125 bis 130 EPÜ](https://www.epo.org/de/legal/epc/2020/r125.html))
+
+**A:** Das EPA stellt elektronisch, durch die Post oder durch Übergabe zu; an einen bestellten Vertreter wird zugestellt ([R. 130 EPÜ](https://www.epo.org/de/legal/epc/2020/r130.html)). Zugestellte Schriftstücke gelten an dem Tag als zugestellt, auf den sie datiert sind ([R. 126 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r126.html), [R. 127 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r127.html)).
+
+Normen: [R. 126 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r126.html), [R. 127 EPÜ](https://www.epo.org/de/legal/epc/2020/r127.html), [R. 130 EPÜ](https://www.epo.org/de/legal/epc/2020/r130.html)
+
+*Tags: Begriff, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das EPA stellt elektronisch, durch die Post oder durch Übergabe zu; an einen bestellten Vertreter wird zugestellt ([R. 130 EPÜ](https://www.epo.org/de/legal/epc/2020/r130.html)). Zugestellte Schriftstücke gelten an dem Tag als zugestellt, auf den sie datiert sind ([R. 126 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r126.html), [R. 127 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r127.html)).
+
+**A:** Zustellung ([R. 125 bis 130 EPÜ](https://www.epo.org/de/legal/epc/2020/r125.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## definition
+
+**F:** Definiere: Rechtsverlust und Entscheidung darüber ([R. 112 EPÜ](https://www.epo.org/de/legal/epc/2020/r112.html))
+
+**A:** Tritt ein Rechtsverlust ohne Entscheidung ein (z. B. Rücknahmefiktion), teilt das EPA ihn mit; der Betroffene kann binnen zwei Monaten eine beschwerdefähige Entscheidung beantragen ([R. 112 Abs. 1, 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r112.html)).
+
+Normen: [R. 112 EPÜ](https://www.epo.org/de/legal/epc/2020/r112.html), [R. 135 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)
+
+*Tags: Begriff, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Tritt ein Rechtsverlust ohne Entscheidung ein (z. B. Rücknahmefiktion), teilt das EPA ihn mit; der Betroffene kann binnen zwei Monaten eine beschwerdefähige Entscheidung beantragen ([R. 112 Abs. 1, 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r112.html)).
+
+**A:** Rechtsverlust und Entscheidung darüber ([R. 112 EPÜ](https://www.epo.org/de/legal/epc/2020/r112.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## definition
+
+**F:** Definiere: Weiterbehandlung ([Art. 121 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html), [R. 135 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html))
+
+**A:** Hat der Anmelder eine Frist gegenüber dem EPA versäumt, wird die Anmeldung auf Antrag weiterbehandelt; der Antrag ist durch Zahlung der Gebühr binnen zwei Monaten nach der Mitteilung über die Fristversäumung oder den Rechtsverlust zu stellen, die versäumte Handlung ist nachzuholen ([Art. 121 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html), [R. 135 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)).
+
+Normen: [Art. 121 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html), [R. 135 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)
+
+*Tags: Begriff, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Hat der Anmelder eine Frist gegenüber dem EPA versäumt, wird die Anmeldung auf Antrag weiterbehandelt; der Antrag ist durch Zahlung der Gebühr binnen zwei Monaten nach der Mitteilung über die Fristversäumung oder den Rechtsverlust zu stellen, die versäumte Handlung ist nachzuholen ([Art. 121 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html), [R. 135 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)).
+
+**A:** Weiterbehandlung ([Art. 121 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html), [R. 135 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## definition
+
+**F:** Definiere: Wiedereinsetzung ([Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html), [R. 136 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+
+**A:** Wer trotz Beachtung aller nach den gegebenen Umständen gebotenen Sorgfalt verhindert war, eine Frist gegenüber dem EPA einzuhalten, wird auf Antrag wieder eingesetzt, wenn die Versäumung den Rechtsverlust unmittelbar zur Folge hat ([Art. 122 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html)).
+
+Normen: [Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html), [R. 136 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html)
+
+Rechtsprechung: JBK J 5/80 – Sorgfalt des Vertreters (J 5/80); GBK G 1/86 – Wiedereinsetzung des Einsprechenden (G 1/86); JBK J 6/22 – Vollständige Begründung des Wiedereinsetzungsantrags (J 6/22); JBK J 4/11 – Keine Anhängigkeit während der Wiedereinsetzungsfrist (J 4/11)
+
+*Tags: Begriff, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer trotz Beachtung aller nach den gegebenen Umständen gebotenen Sorgfalt verhindert war, eine Frist gegenüber dem EPA einzuhalten, wird auf Antrag wieder eingesetzt, wenn die Versäumung den Rechtsverlust unmittelbar zur Folge hat ([Art. 122 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html)).
+
+**A:** Wiedereinsetzung ([Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html), [R. 136 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## definition
+
+**F:** Definiere: Vertrauensschutz (Treu und Glauben)
+
+**A:** Das EPA muss Erklärungen und Auskünfte, die es gibt, gegen sich gelten lassen; Beteiligte dürfen darauf vertrauen, dass ihnen aus irreführenden Mitteilungen des Amts kein Nachteil entsteht.
+
+Normen: [R. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html)
+
+Rechtsprechung: GBK G 2/97 – Treu und Glauben (G 2/97); JBK J 10/20 – Vertrauen auf Fristverlängerung (J 10/20)
+
+*Tags: Begriff, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das EPA muss Erklärungen und Auskünfte, die es gibt, gegen sich gelten lassen; Beteiligte dürfen darauf vertrauen, dass ihnen aus irreführenden Mitteilungen des Amts kein Nachteil entsteht.
+
+**A:** Vertrauensschutz (Treu und Glauben)
+
+*Tags: Begriff, Umkehr, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+## definition
+
+**F:** Definiere: Einspruch ([Art. 99 bis 101 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html))
+
+**A:** Innerhalb von neun Monaten nach Bekanntmachung des Hinweises auf die Erteilung kann jeder Dritte beim EPA Einspruch einlegen; er ist schriftlich einzureichen und zu begründen und gilt erst als eingelegt, wenn die Einspruchsgebühr entrichtet ist ([Art. 99 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)).
+
+Normen: [Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html), [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html), [Art. 101 EPÜ](https://www.epo.org/de/legal/epc/2020/a101.html), [R. 75 EPÜ](https://www.epo.org/de/legal/epc/2020/r75.html), [R. 76 EPÜ](https://www.epo.org/de/legal/epc/2020/r76.html), [R. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/r84.html)
+
+Rechtsprechung: GBK G 9/93 – Einspruch des Inhabers (G 9/93); GBK G 3/97 – Einspruch in fremdem Auftrag (G 3/97); GBK G 3/99 – Gemeinsamer Einspruch (G 3/99); GBK G 9/91 – Umfang der Prüfungsbefugnis (G 9/91)
+
+*Tags: Begriff, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Innerhalb von neun Monaten nach Bekanntmachung des Hinweises auf die Erteilung kann jeder Dritte beim EPA Einspruch einlegen; er ist schriftlich einzureichen und zu begründen und gilt erst als eingelegt, wenn die Einspruchsgebühr entrichtet ist ([Art. 99 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)).
+
+**A:** Einspruch ([Art. 99 bis 101 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## definition
+
+**F:** Definiere: Einspruchsgründe ([Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html))
+
+**A:** Der Einspruch kann nur darauf gestützt werden, dass der Gegenstand nicht patentierbar ist ([Art. 52 bis 57 EPÜ](https://www.epo.org/de/legal/epc/2020/a52.html)), die Erfindung nicht ausführbar offenbart ist oder der Gegenstand über den Inhalt der ursprünglichen Anmeldung hinausgeht ([Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html)).
+
+Normen: [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html), [Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html), [Art. 101 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a101.html)
+
+Rechtsprechung: GBK G 10/91 – Neue Einspruchsgründe (G 10/91); GBK G 3/14 – Klarheit geänderter Ansprüche (G 3/14)
+
+*Tags: Begriff, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Einspruch kann nur darauf gestützt werden, dass der Gegenstand nicht patentierbar ist ([Art. 52 bis 57 EPÜ](https://www.epo.org/de/legal/epc/2020/a52.html)), die Erfindung nicht ausführbar offenbart ist oder der Gegenstand über den Inhalt der ursprünglichen Anmeldung hinausgeht ([Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html)).
+
+**A:** Einspruchsgründe ([Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## definition
+
+**F:** Definiere: Stellung als Einsprechender
+
+**A:** Einsprechender ist, wer im Einspruch genannt ist; die Stellung ist nicht frei übertragbar, geht aber mit dem Geschäftsbereich, auf den sich der Einspruch bezieht, und im Erbfall über (G 4/88, G 2/04).
+
+Normen: [Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html), [R. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/r84.html)
+
+Rechtsprechung: GBK G 4/88 – Übertragung des Einspruchs (G 4/88); GBK G 2/04 – Keine freie Übertragbarkeit (G 2/04); GBK G 1/13 – Wiederaufgelebter Einsprechender (G 1/13); GBK G 8/93 – Rücknahme des Einspruchs in der Beschwerde (G 8/93)
+
+*Tags: Begriff, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Einsprechender ist, wer im Einspruch genannt ist; die Stellung ist nicht frei übertragbar, geht aber mit dem Geschäftsbereich, auf den sich der Einspruch bezieht, und im Erbfall über (G 4/88, G 2/04).
+
+**A:** Stellung als Einsprechender
+
+*Tags: Begriff, Umkehr, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## definition
+
+**F:** Definiere: Beitritt des vermeintlichen Verletzers ([Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html))
+
+**A:** Wer wegen Verletzung des Patents verklagt ist oder eine negative Feststellungsklage nach Unterlassungsaufforderung erhoben hat, kann dem anhängigen Einspruchsverfahren binnen drei Monaten nach Klageerhebung beitreten; der Beitritt gilt als Einspruch ([Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html), [R. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/r89.html)).
+
+Normen: [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html), [R. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/r89.html)
+
+Rechtsprechung: GBK G 2/24 – Beitretender ohne Beschwerdeführerstellung (G 2/24); GBK G 1/94 – Beitritt im Beschwerdeverfahren (G 1/94)
+
+*Tags: Begriff, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Wer wegen Verletzung des Patents verklagt ist oder eine negative Feststellungsklage nach Unterlassungsaufforderung erhoben hat, kann dem anhängigen Einspruchsverfahren binnen drei Monaten nach Klageerhebung beitreten; der Beitritt gilt als Einspruch ([Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html), [R. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/r89.html)).
+
+**A:** Beitritt des vermeintlichen Verletzers ([Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## definition
+
+**F:** Definiere: Beschränkung und Widerruf ([Art. 105a bis 105c EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html))
+
+**A:** Der Inhaber kann jederzeit nach der Erteilung beim EPA beantragen, sein Patent zu widerrufen oder durch Änderung der Ansprüche zu beschränken; der Antrag ist unzulässig, solange ein Einspruchsverfahren anhängig ist ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)).
+
+Normen: [Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html), [Art. 105b EPÜ](https://www.epo.org/de/legal/epc/2020/a105b.html), [R. 92 EPÜ](https://www.epo.org/de/legal/epc/2020/r92.html), [R. 93 EPÜ](https://www.epo.org/de/legal/epc/2020/r93.html), [R. 95 EPÜ](https://www.epo.org/de/legal/epc/2020/r95.html)
+
+Rechtsprechung: GBK G 9/93 – Einspruch des Inhabers (G 9/93)
+
+*Tags: Begriff, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Inhaber kann jederzeit nach der Erteilung beim EPA beantragen, sein Patent zu widerrufen oder durch Änderung der Ansprüche zu beschränken; der Antrag ist unzulässig, solange ein Einspruchsverfahren anhängig ist ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)).
+
+**A:** Beschränkung und Widerruf ([Art. 105a bis 105c EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## definition
+
+**F:** Definiere: Beschwerde ([Art. 106 bis 112 EPÜ](https://www.epo.org/de/legal/epc/2020/a106.html))
+
+**A:** Entscheidungen der Eingangsstelle, der Prüfungs- und Einspruchsabteilungen und der Rechtsabteilung sind mit der Beschwerde anfechtbar ([Art. 106 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a106.html)); beschwerdeberechtigt ist, wer durch die Entscheidung beschwert ist ([Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html)).
+
+Normen: [Art. 106 EPÜ](https://www.epo.org/de/legal/epc/2020/a106.html), [Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html), [Art. 108 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html), [Art. 109 EPÜ](https://www.epo.org/de/legal/epc/2020/a109.html), [R. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/r99.html), [R. 101 EPÜ](https://www.epo.org/de/legal/epc/2020/r101.html), [R. 103 EPÜ](https://www.epo.org/de/legal/epc/2020/r103.html)
+
+Rechtsprechung: GBK G 1/18 – Beschwerde ohne fristgerechte Gebühr (G 1/18); GBK G 1/12 – Berichtigung des Beschwerdeführers (G 1/12); GBK G 1/99 – Reformatio in peius (G 1/99); GBK G 3/03 – Rückzahlung bei Abhilfe (G 3/03)
+
+*Tags: Begriff, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Entscheidungen der Eingangsstelle, der Prüfungs- und Einspruchsabteilungen und der Rechtsabteilung sind mit der Beschwerde anfechtbar ([Art. 106 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a106.html)); beschwerdeberechtigt ist, wer durch die Entscheidung beschwert ist ([Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html)).
+
+**A:** Beschwerde ([Art. 106 bis 112 EPÜ](https://www.epo.org/de/legal/epc/2020/a106.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## definition
+
+**F:** Definiere: Überprüfungsantrag ([Art. 112a EPÜ](https://www.epo.org/de/legal/epc/2020/a112a.html))
+
+**A:** Gegen Entscheidungen der Beschwerdekammern kann ein Beteiligter, der beschwert ist, bei der Großen Beschwerdekammer Überprüfung beantragen, gestützt auf schwerwiegende Verfahrensmängel (insbesondere Verletzung des rechtlichen Gehörs) oder Straftaten ([Art. 112a EPÜ](https://www.epo.org/de/legal/epc/2020/a112a.html)).
+
+Normen: [Art. 112a EPÜ](https://www.epo.org/de/legal/epc/2020/a112a.html), [R. 104 EPÜ](https://www.epo.org/de/legal/epc/2020/r104.html), [R. 106 EPÜ](https://www.epo.org/de/legal/epc/2020/r106.html), [R. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/r107.html)
+
+*Tags: Begriff, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gegen Entscheidungen der Beschwerdekammern kann ein Beteiligter, der beschwert ist, bei der Großen Beschwerdekammer Überprüfung beantragen, gestützt auf schwerwiegende Verfahrensmängel (insbesondere Verletzung des rechtlichen Gehörs) oder Straftaten ([Art. 112a EPÜ](https://www.epo.org/de/legal/epc/2020/a112a.html)).
+
+**A:** Überprüfungsantrag ([Art. 112a EPÜ](https://www.epo.org/de/legal/epc/2020/a112a.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+## definition
+
+**F:** Definiere: Euro-PCT-Anmeldung ([Art. 153 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html), [R. 159 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html))
+
+**A:** Eine internationale Anmeldung, für die das EPA Bestimmungsamt oder ausgewähltes Amt ist, gilt als europäische Anmeldung ([Art. 153 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html)). Der Anmelder muss binnen 31 Monaten ab Anmelde- oder Prioritätstag die Handlungen der [R. 159 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html) vornehmen.
+
+Normen: [Art. 153 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html), [R. 159 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html), [R. 160 EPÜ](https://www.epo.org/de/legal/epc/2020/r160.html), [R. 161 EPÜ](https://www.epo.org/de/legal/epc/2020/r161.html), [R. 164 EPÜ](https://www.epo.org/de/legal/epc/2020/r164.html), [R. 165 EPÜ](https://www.epo.org/de/legal/epc/2020/r165.html)
+
+Rechtsprechung: GBK G 4/08 – Verfahrenssprache bei Euro-PCT (G 4/08); JBK J 18/09 – Euro-PCT ohne Eintritt nicht anhängig (J 18/09)
+
+*Tags: Begriff, EPÜ: Euro-PCT und PCT*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Eine internationale Anmeldung, für die das EPA Bestimmungsamt oder ausgewähltes Amt ist, gilt als europäische Anmeldung ([Art. 153 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html)). Der Anmelder muss binnen 31 Monaten ab Anmelde- oder Prioritätstag die Handlungen der [R. 159 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html) vornehmen.
+
+**A:** Euro-PCT-Anmeldung ([Art. 153 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html), [R. 159 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Euro-PCT und PCT*
+
+---
+
+## definition
+
+**F:** Definiere: Internationale Phase vor dem EPA (PCT)
+
+**A:** Das EPA ist Anmeldeamt, Internationale Recherchenbehörde, Behörde für die ergänzende Recherche und Behörde für die internationale vorläufige Prüfung ([Art. 151](https://www.epo.org/de/legal/epc/2020/a151.html), [Art. 152 EPÜ](https://www.epo.org/de/legal/epc/2020/a152.html)).
+
+Normen: [Art. 150 EPÜ](https://www.epo.org/de/legal/epc/2020/a150.html), [Art. 151 EPÜ](https://www.epo.org/de/legal/epc/2020/a151.html), [Art. 152 EPÜ](https://www.epo.org/de/legal/epc/2020/a152.html)
+
+*Tags: Begriff, EPÜ: Euro-PCT und PCT*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Das EPA ist Anmeldeamt, Internationale Recherchenbehörde, Behörde für die ergänzende Recherche und Behörde für die internationale vorläufige Prüfung ([Art. 151](https://www.epo.org/de/legal/epc/2020/a151.html), [Art. 152 EPÜ](https://www.epo.org/de/legal/epc/2020/a152.html)).
+
+**A:** Internationale Phase vor dem EPA (PCT)
+
+*Tags: Begriff, Umkehr, EPÜ: Euro-PCT und PCT*
+
+---
+
+## definition
+
+**F:** Definiere: Sprachen ([Art. 14 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html), [R. 3](https://www.epo.org/de/legal/epc/2020/r3.html), [R. 6 EPÜ](https://www.epo.org/de/legal/epc/2020/r6.html))
+
+**A:** Amtssprachen des EPA sind Deutsch, Englisch und Französisch; die Anmeldung kann in jeder Sprache eingereicht werden, ist dann aber binnen zwei Monaten in eine Amtssprache zu übersetzen, die Verfahrenssprache wird ([Art. 14 Abs. 1 bis 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html), [R. 6 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r6.html)).
+
+Normen: [Art. 14 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html), [R. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r3.html), [R. 6 EPÜ](https://www.epo.org/de/legal/epc/2020/r6.html)
+
+Rechtsprechung: GBK G 4/08 – Verfahrenssprache bei Euro-PCT (G 4/08); JBK J 13/14 – Teilanmeldung in falscher Sprache (J 13/14)
+
+*Tags: Begriff, EPÜ: Sprachen, Gebühren, Vertretung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Amtssprachen des EPA sind Deutsch, Englisch und Französisch; die Anmeldung kann in jeder Sprache eingereicht werden, ist dann aber binnen zwei Monaten in eine Amtssprache zu übersetzen, die Verfahrenssprache wird ([Art. 14 Abs. 1 bis 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html), [R. 6 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r6.html)).
+
+**A:** Sprachen ([Art. 14 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html), [R. 3](https://www.epo.org/de/legal/epc/2020/r3.html), [R. 6 EPÜ](https://www.epo.org/de/legal/epc/2020/r6.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Sprachen, Gebühren, Vertretung*
+
+---
+
+## definition
+
+**F:** Definiere: Gebühren: Zahlung, Ermäßigung, Rückerstattung
+
+**A:** Gebühren werden durch Überweisung auf ein Bankkonto des EPA oder durch Abbuchung von einem laufenden Konto beim EPA entrichtet; als Tag der Zahlung gilt grundsätzlich der Tag der Gutschrift ([Art. 5](https://www.epo.org/de/legal/epc/2020/f5.html), [Art. 7 Abs. 1 GebO](https://www.epo.org/de/legal/epc/2020/f7.html)).
+
+Normen: [Art. 51 EPÜ](https://www.epo.org/de/legal/epc/2020/a51.html)
+
+*Tags: Begriff, EPÜ: Sprachen, Gebühren, Vertretung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gebühren werden durch Überweisung auf ein Bankkonto des EPA oder durch Abbuchung von einem laufenden Konto beim EPA entrichtet; als Tag der Zahlung gilt grundsätzlich der Tag der Gutschrift ([Art. 5](https://www.epo.org/de/legal/epc/2020/f5.html), [Art. 7 Abs. 1 GebO](https://www.epo.org/de/legal/epc/2020/f7.html)).
+
+**A:** Gebühren: Zahlung, Ermäßigung, Rückerstattung
+
+*Tags: Begriff, Umkehr, EPÜ: Sprachen, Gebühren, Vertretung*
+
+---
+
+## definition
+
+**F:** Definiere: Vertretung ([Art. 133, 134 EPÜ](https://www.epo.org/de/legal/epc/2020/a133.html))
+
+**A:** Niemand muss sich vor dem EPA vertreten lassen, außer Beteiligte ohne Wohnsitz oder Sitz in einem Vertragsstaat; sie müssen außer für die Einreichung der Anmeldung einen zugelassenen Vertreter bestellen ([Art. 133 Abs. 1, 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a133.html)).
+
+Normen: [Art. 133 EPÜ](https://www.epo.org/de/legal/epc/2020/a133.html), [Art. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/a134.html), [R. 151 EPÜ](https://www.epo.org/de/legal/epc/2020/r151.html), [R. 152 EPÜ](https://www.epo.org/de/legal/epc/2020/r152.html)
+
+Rechtsprechung: GBK G 3/99 – Gemeinsamer Einspruch (G 3/99); TBK T 1095/06 – Eigenes Versäumnis des Vertreters (T 1095/06)
+
+*Tags: Begriff, EPÜ: Sprachen, Gebühren, Vertretung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Niemand muss sich vor dem EPA vertreten lassen, außer Beteiligte ohne Wohnsitz oder Sitz in einem Vertragsstaat; sie müssen außer für die Einreichung der Anmeldung einen zugelassenen Vertreter bestellen ([Art. 133 Abs. 1, 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a133.html)).
+
+**A:** Vertretung ([Art. 133, 134 EPÜ](https://www.epo.org/de/legal/epc/2020/a133.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Sprachen, Gebühren, Vertretung*
+
+---
+
+## definition
+
+**F:** Definiere: Validierung und Einheitspatent ([Art. 65 EPÜ](https://www.epo.org/de/legal/epc/2020/a65.html))
+
+**A:** Nach der Erteilung entfaltet das europäische Patent in jedem benannten Staat die Wirkung eines nationalen Patents ([Art. 64 EPÜ](https://www.epo.org/de/legal/epc/2020/a64.html)); ein Staat kann eine Übersetzung verlangen ([Art. 65 EPÜ](https://www.epo.org/de/legal/epc/2020/a65.html)), die meisten verzichten darauf nach dem Londoner Übereinkommen.
+
+Normen: [Art. 64 EPÜ](https://www.epo.org/de/legal/epc/2020/a64.html), [Art. 65 EPÜ](https://www.epo.org/de/legal/epc/2020/a65.html)
+
+*Tags: Begriff, EPÜ: Sprachen, Gebühren, Vertretung*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Nach der Erteilung entfaltet das europäische Patent in jedem benannten Staat die Wirkung eines nationalen Patents ([Art. 64 EPÜ](https://www.epo.org/de/legal/epc/2020/a64.html)); ein Staat kann eine Übersetzung verlangen ([Art. 65 EPÜ](https://www.epo.org/de/legal/epc/2020/a65.html)), die meisten verzichten darauf nach dem Londoner Übereinkommen.
+
+**A:** Validierung und Einheitspatent ([Art. 65 EPÜ](https://www.epo.org/de/legal/epc/2020/a65.html))
+
+*Tags: Begriff, Umkehr, EPÜ: Sprachen, Gebühren, Vertretung*
+
+---
+
 ## schema
 
 **F:** Prüfungsschema: Unterlassungsanspruch wegen Markenverletzung ([§ 14 Abs. 2, 5 MarkenG](https://www.gesetze-im-internet.de/markeng/__14.html))
@@ -10737,6 +11755,90 @@ Die zivilrechtlichen Ansprüche bei Verletzung eines Designs, einer Marke, eines
   - 3. Einstweilige Maßnahmen ([Art. 90 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701))
 
 *Tags: Prüfungsschema, Design: Unionsgeschmacksmuster und internationales Design*
+
+---
+
+**F:** Prüfungsschema: Versäumte Frist vor dem EPA: Rechtsfolge und Rechtsbehelf
+
+**A:** - 1. Frist bestimmen ([Art. 120 EPÜ](https://www.epo.org/de/legal/epc/2020/a120.html), [R. 131 EPÜ](https://www.epo.org/de/legal/epc/2020/r131.html))
+  - 1. Auslösendes Ereignis und Dauer
+  - 2. Fristende berechnen ([R. 131 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/r131.html))
+  - 3. Verlängerung ([R. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html))
+- 2. Rechtsfolge der Versäumung
+- 3. Weiterbehandlung ([Art. 121 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html), [R. 135 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html))
+  - 1. Statthaft?
+  - 2. Frist: zwei Monate nach der Mitteilung ([R. 135 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html))
+  - 3. Gebühr zahlen und versäumte Handlung nachholen
+- 4. Wiedereinsetzung ([Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html), [R. 136 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+  - 1. Statthaft?
+  - 2. Frist ([R. 136 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+  - 3. Form: Antrag, Gebühr, Begründung, Handlung nachholen ([R. 136 Abs. 1, 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+  - 4. Begründet: alle gebotene Sorgfalt
+- 5. Andere Wege
+
+*Tags: Prüfungsschema, EPÜ: Fristen und Rechtsbehelfe*
+
+---
+
+**F:** Prüfungsschema: Neuheit in Paper D: wirksamer Tag und Stand der Technik
+
+**A:** - 1. Wirksamer Tag je Anspruch ([Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html))
+  - 1. Prioritätsvoraussetzungen
+  - 2. Teilpriorität ([Art. 88 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html), G 1/15)
+- 2. Dokumente einordnen
+  - 1. [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+  - 2. [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+  - 3. Kein Stand der Technik
+- 3. Abhilfen
+
+*Tags: Prüfungsschema, EPÜ: Stand der Technik und Patentierbarkeit*
+
+---
+
+**F:** Prüfungsschema: Einspruch: Zulässigkeit und Begründetheit ([Art. 99 bis 101 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html))
+
+**A:** - 1. Statthaftigkeit
+- 2. Einsprechender
+- 3. Frist und Gebühr ([Art. 99 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html))
+- 4. Inhalt ([R. 76 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r76.html))
+- 5. Begründetheit ([Art. 100, 101 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html))
+- 6. Beitritt und Fortsetzung
+
+*Tags: Prüfungsschema, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+**F:** Prüfungsschema: Beschwerde: Zulässigkeit ([Art. 106 bis 108 EPÜ](https://www.epo.org/de/legal/epc/2020/a106.html))
+
+**A:** - 1. Beschwerdefähige Entscheidung ([Art. 106 EPÜ](https://www.epo.org/de/legal/epc/2020/a106.html))
+- 2. Beschwerdeberechtigung ([Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html))
+- 3. Frist und Gebühr ([Art. 108 Satz 1, 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html))
+- 4. Form und Begründung ([R. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/r99.html), [Art. 108 Satz 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html))
+- 5. Abhilfe und Rückzahlung ([Art. 109 EPÜ](https://www.epo.org/de/legal/epc/2020/a109.html), [R. 103 EPÜ](https://www.epo.org/de/legal/epc/2020/r103.html))
+
+*Tags: Prüfungsschema, EPÜ: Einspruch, Beschränkung, Beschwerde*
+
+---
+
+**F:** Prüfungsschema: Euro-PCT: Eintritt in die europäische Phase ([R. 159 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html))
+
+**A:** - 1. Frist: 31 Monate ab Anmelde- oder frühestem Prioritätstag ([R. 159 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html))
+- 2. Handlungen ([R. 159 Abs. 1 lit. a bis h EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html))
+- 3. Versäumung ([R. 160 EPÜ](https://www.epo.org/de/legal/epc/2020/r160.html))
+- 4. Nach dem Eintritt
+
+*Tags: Prüfungsschema, EPÜ: Euro-PCT und PCT*
+
+---
+
+**F:** Prüfungsschema: Teilanmeldung: Voraussetzungen und Gebühren ([Art. 76 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [R. 36 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html))
+
+**A:** - 1. Anhängige Stammanmeldung ([R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html))
+- 2. Anmelder, Ort, Sprache ([R. 36 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html))
+- 3. Inhalt ([Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html))
+- 4. Gebühren
+
+*Tags: Prüfungsschema, EPÜ: Anmeldung, Anmeldetag, Priorität, Änderungen*
 
 ---
 
@@ -11840,6 +12942,71 @@ Welche Punkte sind hier zu prüfen?
 
 ---
 
+**F:** 1. Frist bestimmen ([Art. 120 EPÜ](https://www.epo.org/de/legal/epc/2020/a120.html), [R. 131 EPÜ](https://www.epo.org/de/legal/epc/2020/r131.html))
+(Versäumte Frist vor dem EPA: Rechtsfolge und Rechtsbehelf)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Auslösendes Ereignis und Dauer
+- 2. Fristende berechnen ([R. 131 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/r131.html))
+- 3. Verlängerung ([R. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html))
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 3. Weiterbehandlung ([Art. 121 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html), [R. 135 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html))
+(Versäumte Frist vor dem EPA: Rechtsfolge und Rechtsbehelf)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Statthaft?
+- 2. Frist: zwei Monate nach der Mitteilung ([R. 135 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html))
+- 3. Gebühr zahlen und versäumte Handlung nachholen
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 4. Wiedereinsetzung ([Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html), [R. 136 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+(Versäumte Frist vor dem EPA: Rechtsfolge und Rechtsbehelf)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Statthaft?
+- 2. Frist ([R. 136 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+- 3. Form: Antrag, Gebühr, Begründung, Handlung nachholen ([R. 136 Abs. 1, 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+- 4. Begründet: alle gebotene Sorgfalt
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 1. Wirksamer Tag je Anspruch ([Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html))
+(Neuheit in Paper D: wirksamer Tag und Stand der Technik)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. Prioritätsvoraussetzungen
+- 2. Teilpriorität ([Art. 88 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html), G 1/15)
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
+**F:** 2. Dokumente einordnen
+(Neuheit in Paper D: wirksamer Tag und Stand der Technik)
+
+Welche Punkte sind hier zu prüfen?
+
+**A:** - 1. [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+- 2. [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+- 3. Kein Stand der Technik
+
+*Tags: Prüfungsschema, Prüfungspunkt*
+
+---
+
 ## abgrenzung
 
 **F:** Worin unterscheiden sich Unterscheidungskraft und Kennzeichnungskraft?
@@ -12691,6 +13858,88 @@ Merksatz: Amt oder Widerklage, nie bloße Einrede: Seit 2014 ist das Design ein 
 • Leitentscheidung — DesignG bis 2020: BGH Kraftfahrzeugfelgen (Vorlage) | [§ 40a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__40a.html) (seit 2.12.2020): – | Art. 110 GGV a.F. (bis 30.4.2025): EuGH Acacia/Audi und Porsche; BGH Kraftfahrzeugfelgen II; BGH Schlüsselgehäuse | [Art. 20a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (seit 1.5.2025): – | [Art. 19 DesignRL 2024](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L2823) (Umsetzung bis 9.12.2027): –
 
 Merksatz: Must fit ist immer frei ([§ 3 Abs. 1 Nr. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__3.html)), must match nur unter der Reparaturklausel: seit 2020 national, seit 2025 dauerhaft im Unionsmuster, ab 2027 überall in der Union.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welcher Rechtsbehelf hilft nach einer versäumten Frist gegenüber dem EPA?
+(Weiterbehandlung vs. Wiedereinsetzung)
+
+**A:** • Rechtsgrundlage — Weiterbehandlung: [Art. 121 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html), [R. 135 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html) | Wiedereinsetzung: [Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html), [R. 136 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html)
+• Wer — Weiterbehandlung: Nur der Anmelder | Wiedereinsetzung: Anmelder und Inhaber, ausnahmsweise der Einsprechende (G 1/86)
+• Verschulden — Weiterbehandlung: Unerheblich | Wiedereinsetzung: Alle nach den Umständen gebotene Sorgfalt
+• Antragsfrist — Weiterbehandlung: Zwei Monate nach der Mitteilung über Fristversäumung oder Rechtsverlust | Wiedereinsetzung: Zwei Monate nach Wegfall des Hindernisses, höchstens ein Jahr nach Fristablauf; Priorität: zwei Monate nach Ablauf der Prioritätsfrist
+• Antrag — Weiterbehandlung: Gebühr zahlen, versäumte Handlung nachholen | Wiedereinsetzung: Schriftlich, Gebühr, Begründung mit Glaubhaftmachung, versäumte Handlung nachholen
+• Ausgeschlossen — Weiterbehandlung: [Art. 121 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html) und [R. 135 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html) (u. a. Priorität, Beschwerde, Jahresgebührennachfrist, Übersetzung, fehlende Teile) | Wiedereinsetzung: Alle Fristen, für die Weiterbehandlung möglich ist, und die Wiedereinsetzungsfrist selbst ([R. 136 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html))
+• Verhältnis — Weiterbehandlung: Vorrangig | Wiedereinsetzung: Subsidiär
+
+Merksatz: Erst Weiterbehandlung (Gebühr genügt), nur wo sie ausgeschlossen ist Wiedereinsetzung (Sorgfalt nachweisen).
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wie unterscheidet sich vorveröffentlichter Stand der Technik von älteren europäischen Anmeldungen?
+(Stand der Technik: [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) und [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html))
+
+**A:** • Quelle — [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Alles öffentlich Zugängliche, weltweit, jede Form | [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Nur europäische Anmeldungen (und Euro-PCT-Anmeldungen nach [R. 165 EPÜ](https://www.epo.org/de/legal/epc/2020/r165.html))
+• Maßgeblicher Zeitpunkt — [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Vor dem wirksamen Tag zugänglich | [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Früherer wirksamer Tag, Veröffentlichung am oder nach dem wirksamen Tag der späteren Anmeldung
+• Inhalt — [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Was der Öffentlichkeit zugänglich war | [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Gesamtinhalt in der ursprünglich eingereichten Fassung
+• Wirkung — [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Neuheit und erfinderische Tätigkeit | [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Nur Neuheit ([Art. 56 Satz 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a56.html))
+• Euro-PCT — [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Veröffentlichte PCT-Anmeldung immer | [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Nur bei Anmeldegebühr und Übersetzung ([Art. 153 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html), [R. 165 EPÜ](https://www.epo.org/de/legal/epc/2020/r165.html))
+• Nationale Rechte — [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): – | [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Nationale ältere Rechte nur im nationalen Verfahren ([Art. 139 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a139.html))
+• Abhilfe — [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Priorität, unschädliche Offenbarung ([Art. 55 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html)) | [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html): Disclaimer (G 1/03), unterschiedliche Ansprüche je Staat entfallen seit EPÜ 2000
+
+Merksatz: Abs. 2 schadet allem, Abs. 3 nur der Neuheit – und nur mit dem Inhalt in der ursprünglich eingereichten Fassung.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Wie werden Lücken und Fehler in den Anmeldungsunterlagen behoben, und was geschieht mit dem Anmeldetag?
+(Fehlende Teile, falsche Unterlagen, Berichtigung ([R. 56](https://www.epo.org/de/legal/epc/2020/r56.html), [R. 56a](https://www.epo.org/de/legal/epc/2020/r56a.html), [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html)))
+
+**A:** • Fall — [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html): Teile der Beschreibung oder Zeichnungen fehlen | [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html): Unterlagen oder Teile fälschlich eingereicht (z. B. andere Anmeldung) | [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html): Offensichtlicher Fehler in eingereichten Unterlagen
+• Frist — [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html): Zwei Monate ab Anmeldetag oder Aufforderung | [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html): Zwei Monate ab Anmeldetag oder Aufforderung | [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html): Keine feste Frist; Prioritätserklärung nur nach [R. 52 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r52.html)
+• Anmeldetag — [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html): Neufestsetzung auf den Tag der Nachreichung | [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html): Neufestsetzung auf den Tag der Einreichung der richtigen Unterlagen | [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html): Unverändert
+• Priorität rettet — [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html): Vollständig in der Priorität enthalten, Antrag und Abschrift fristgerecht (Abs. 3) | [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html): Vollständig in der Priorität enthalten, Antrag fristgerecht (Abs. 4) | [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html): –
+• Rücknahme — [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html): Binnen eines Monats nach Mitteilung der Neudatierung (Abs. 6) | [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html): Binnen eines Monats nach Mitteilung der Neudatierung (Abs. 7) | [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html): –
+• Rechtsbehelf — [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html): Keine Weiterbehandlung ([R. 135 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)) | [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html): Keine Weiterbehandlung ([R. 135 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)) | [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html): Beschwerde gegen Zurückweisung
+
+Merksatz: Fehlt etwas: [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html). Ist etwas falsch: [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html). Ist offensichtlich verschrieben: [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html) – nur die ersten beiden kosten den Anmeldetag.
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Welche Wege gibt es vor dem EPA, auf den Bestand eines Patents oder einer Anmeldung einzuwirken?
+(Einspruch, Beschränkung, Einwendungen Dritter)
+
+**A:** • Wer — Einspruch ([Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)): Jeder Dritte, nicht der Inhaber | Beschränkung/Widerruf ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)): Nur der Inhaber | Einwendungen Dritter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html)): Jeder Dritte, auch anonym
+• Wann — Einspruch ([Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)): Neun Monate nach dem Hinweis auf die Erteilung; Beitritt nach [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html) | Beschränkung/Widerruf ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)): Jederzeit nach Erteilung, nicht während eines Einspruchsverfahrens | Einwendungen Dritter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html)): Nach Veröffentlichung, solange ein Verfahren anhängig ist
+• Gründe — Einspruch ([Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)): [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html) abschließend | Beschränkung/Widerruf ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)): Keine; Prüfung auf [Art. 84, 123 Abs. 2, 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html) | Einwendungen Dritter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html)): Patentierbarkeit, aber auch Klarheit u. a.
+• Gebühr — Einspruch ([Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)): Einspruchsgebühr | Beschränkung/Widerruf ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)): Beschränkungs- bzw. Widerrufsgebühr | Einwendungen Dritter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html)): Keine
+• Stellung im Verfahren — Einspruch ([Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)): Beteiligter | Beschränkung/Widerruf ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)): Einziger Beteiligter | Einwendungen Dritter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html)): Kein Beteiligter
+• Ergebnis — Einspruch ([Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)): Widerruf, Zurückweisung, Aufrechterhaltung in geändertem Umfang | Beschränkung/Widerruf ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)): Beschränktes oder widerrufenes Patent, ex tunc | Einwendungen Dritter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html)): Das Amt berücksichtigt sie von Amts wegen
+
+Merksatz: Der Dritte greift an (Einspruch), der Inhaber beschränkt ([Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html)), wer anonym bleiben will, wirft ein ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html)).
+
+*Tags: Abgrenzung*
+
+---
+
+**F:** Was verbietet [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), was Abs. 3, und wie verhalten sie sich zueinander?
+([Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html) und [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html))
+
+**A:** • Vergleichsmaßstab — [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Inhalt der ursprünglich eingereichten Anmeldung | [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Schutzbereich des erteilten Patents ([Art. 69 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html))
+• Zeitraum — [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Ganzes Verfahren, Anmeldung und Patent | [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Nur nach Erteilung
+• Typischer Verstoß — [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Neue Merkmalskombination, Zwischenverallgemeinerung | [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Streichung oder Ersetzung eines Merkmals, Kategoriewechsel ohne Beschränkung
+• Einspruchsgrund — [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Ja ([Art. 100 lit. c EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html)) | [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Nein
+• Nichtigkeitsgrund — [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Ja ([Art. 138 Abs. 1 lit. c EPÜ](https://www.epo.org/de/legal/epc/2020/a138.html)) | [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Ja ([Art. 138 Abs. 1 lit. d EPÜ](https://www.epo.org/de/legal/epc/2020/a138.html))
+• Kollision — [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Unentrinnbare Falle (G 1/93) | [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html): Unentrinnbare Falle (G 1/93)
+
+Merksatz: Abs. 2 schaut zurück auf die Anmeldung, Abs. 3 auf das erteilte Patent; wer beides verletzt, sitzt in der Falle.
 
 *Tags: Abgrenzung*
 
@@ -24611,6 +25860,1406 @@ Die Befugnis zur Urteilsbekanntmachung ([§ 19c MarkenG](https://www.gesetze-im-
 
 ---
 
+## entscheidung
+
+**F:** GBK „G 1/92 – Öffentliche Zugänglichkeit“ (G 1/92, 1992) – Kernaussage?
+
+**A:** Die chemische Zusammensetzung eines Erzeugnisses gehört zum Stand der Technik, wenn das Erzeugnis selbst öffentlich zugänglich ist und der Fachmann es analysieren und reproduzieren kann; ein besonderer Anlass zur Analyse ist nicht nötig.
+
+Normen: [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 18.12.1992 – G 1/92
+
+*Tags: Rechtsprechung, GBK, Neuheit, Stand der Technik*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Die chemische Zusammensetzung eines Erzeugnisses gehört zum Stand der Technik, wenn das Erzeugnis selbst öffentlich zugänglich ist und der Fachmann es analysieren und reproduzieren kann; ein besonderer Anlass zur Analyse ist nicht nötig.
+
+**A:** GBK „G 1/92 – Öffentliche Zugänglichkeit“ – G 1/92 (1992), GBK, Entscheidung/Stellungnahme vom 18.12.1992 – G 1/92
+
+*Tags: Rechtsprechung, Umkehr, GBK, Neuheit, Stand der Technik*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/23 – Auf den Markt gebrachtes Erzeugnis“ (G 1/23, 2025) – Kernaussage?
+
+**A:** Ein vor dem Anmeldetag in Verkehr gebrachtes Erzeugnis gehört zum Stand der Technik, auch wenn der Fachmann seine Zusammensetzung oder innere Struktur nicht analysieren und reproduzieren konnte; öffentlich zugängliche technische Informationen über das Erzeugnis gehören ebenfalls dazu. G 1/92 ist insoweit präzisiert.
+
+Normen: [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 02.07.2025 – G 1/23
+
+*Tags: Rechtsprechung, GBK, Neuheit, Stand der Technik*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ein vor dem Anmeldetag in Verkehr gebrachtes Erzeugnis gehört zum Stand der Technik, auch wenn der Fachmann seine Zusammensetzung oder innere Struktur nicht analysieren und reproduzieren konnte; öffentlich zugängliche technische Informationen über das Erzeugnis gehören ebenfalls dazu. G 1/92 ist insoweit präzisiert.
+
+**A:** GBK „G 1/23 – Auf den Markt gebrachtes Erzeugnis“ – G 1/23 (2025), GBK, Entscheidung/Stellungnahme vom 02.07.2025 – G 1/23
+
+*Tags: Rechtsprechung, Umkehr, GBK, Neuheit, Stand der Technik*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 2/08 – Dosierungsanleitung“ (G 2/08, 2010) – Kernaussage?
+
+**A:** [Art. 54 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) erlaubt den Schutz eines bekannten Arzneimittels für eine andere therapeutische Behandlung derselben Krankheit, auch wenn das einzige neue Merkmal eine Dosierungsanleitung ist. Ansprüche im schweizerischen Format sind für solche Erfindungen nicht mehr zulässig.
+
+Normen: [Art. 53 EPÜ](https://www.epo.org/de/legal/epc/2020/a53.html), [Art. 54 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 19.02.2010 – G 2/08
+
+*Tags: Rechtsprechung, GBK, Neuheit, Medizinische Indikation*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+[Art. 54 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) erlaubt den Schutz eines bekannten Arzneimittels für eine andere therapeutische Behandlung derselben Krankheit, auch wenn das einzige neue Merkmal eine Dosierungsanleitung ist. Ansprüche im schweizerischen Format sind für solche Erfindungen nicht mehr zulässig.
+
+**A:** GBK „G 2/08 – Dosierungsanleitung“ – G 2/08 (2010), GBK, Entscheidung/Stellungnahme vom 19.02.2010 – G 2/08
+
+*Tags: Rechtsprechung, Umkehr, GBK, Neuheit, Medizinische Indikation*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 3/98 – Sechsmonatsfrist“ (G 3/98, 2000) – Kernaussage?
+
+**A:** Die Frist von sechs Monaten für unschädliche Offenbarungen nach [Art. 55 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html) berechnet sich vom Tag der tatsächlichen Einreichung der europäischen Anmeldung; der Prioritätstag zählt nicht.
+
+Normen: [Art. 55 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 12.07.2000 – G 3/98
+
+*Tags: Rechtsprechung, GBK, Neuheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Die Frist von sechs Monaten für unschädliche Offenbarungen nach [Art. 55 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html) berechnet sich vom Tag der tatsächlichen Einreichung der europäischen Anmeldung; der Prioritätstag zählt nicht.
+
+**A:** GBK „G 3/98 – Sechsmonatsfrist“ – G 3/98 (2000), GBK, Entscheidung/Stellungnahme vom 12.07.2000 – G 3/98
+
+*Tags: Rechtsprechung, Umkehr, GBK, Neuheit*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 3/93 – Prioritätsintervall“ (G 3/93, 1994) – Kernaussage?
+
+**A:** Eine im Prioritätsintervall veröffentlichte Druckschrift mit demselben Inhalt wie das Prioritätsdokument ist Stand der Technik nach [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html), soweit der Prioritätsanspruch unwirksam ist, auch wenn er nur deshalb unwirksam ist, weil nicht dieselbe Erfindung vorliegt.
+
+Normen: [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html), [Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 16.08.1994 – G 3/93
+
+*Tags: Rechtsprechung, GBK, Priorität, Neuheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Eine im Prioritätsintervall veröffentlichte Druckschrift mit demselben Inhalt wie das Prioritätsdokument ist Stand der Technik nach [Art. 54 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html), soweit der Prioritätsanspruch unwirksam ist, auch wenn er nur deshalb unwirksam ist, weil nicht dieselbe Erfindung vorliegt.
+
+**A:** GBK „G 3/93 – Prioritätsintervall“ – G 3/93 (1994), GBK, Entscheidung/Stellungnahme vom 16.08.1994 – G 3/93
+
+*Tags: Rechtsprechung, Umkehr, GBK, Priorität, Neuheit*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 2/98 – Dieselbe Erfindung“ (G 2/98, 2001) – Kernaussage?
+
+**A:** Die Priorität ist für einen Anspruch nur anzuerkennen, wenn der Fachmann dessen Gegenstand unter Heranziehung des allgemeinen Fachwissens unmittelbar und eindeutig der früheren Anmeldung als Ganzes entnehmen kann.
+
+Normen: [Art. 87 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html), [Art. 88 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 31.05.2001 – G 2/98
+
+*Tags: Rechtsprechung, GBK, Priorität*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Die Priorität ist für einen Anspruch nur anzuerkennen, wenn der Fachmann dessen Gegenstand unter Heranziehung des allgemeinen Fachwissens unmittelbar und eindeutig der früheren Anmeldung als Ganzes entnehmen kann.
+
+**A:** GBK „G 2/98 – Dieselbe Erfindung“ – G 2/98 (2001), GBK, Entscheidung/Stellungnahme vom 31.05.2001 – G 2/98
+
+*Tags: Rechtsprechung, Umkehr, GBK, Priorität*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/15 – Teilpriorität“ (G 1/15, 2016) – Kernaussage?
+
+**A:** Ein generischer „ODER“-Anspruch hat Anspruch auf Teilpriorität für die alternativen Gegenstände, die im Prioritätsdokument erstmals, unmittelbar oder zumindest implizit, eindeutig und ausführbar offenbart sind; weitere Bedingungen gibt es nicht.
+
+Normen: [Art. 87 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html), [Art. 88 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html), [Art. 88 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 29.11.2016 – G 1/15
+
+*Tags: Rechtsprechung, GBK, Priorität*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ein generischer „ODER“-Anspruch hat Anspruch auf Teilpriorität für die alternativen Gegenstände, die im Prioritätsdokument erstmals, unmittelbar oder zumindest implizit, eindeutig und ausführbar offenbart sind; weitere Bedingungen gibt es nicht.
+
+**A:** GBK „G 1/15 – Teilpriorität“ – G 1/15 (2016), GBK, Entscheidung/Stellungnahme vom 29.11.2016 – G 1/15
+
+*Tags: Rechtsprechung, Umkehr, GBK, Priorität*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/22 – Prioritätsberechtigung“ (G 1/22, 2023) – Kernaussage?
+
+**A:** Das EPA prüft selbst, ob der Anmelder zur Inanspruchnahme der Priorität berechtigt ist. Nach dem autonomen Recht des EPÜ besteht eine widerlegbare Vermutung der Berechtigung, auch bei PCT-Anmeldungen und wenn Prioritäts- und Nachanmelder nicht identisch sind; eine gemeinsame PCT-Anmeldung von A und B begründet eine stillschweigende Übereinkunft zur Nutzung der Priorität.
+
+Normen: [Art. 87 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html), [Art. 88 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 10.10.2023 – G 1/22
+
+*Tags: Rechtsprechung, GBK, Priorität*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Das EPA prüft selbst, ob der Anmelder zur Inanspruchnahme der Priorität berechtigt ist. Nach dem autonomen Recht des EPÜ besteht eine widerlegbare Vermutung der Berechtigung, auch bei PCT-Anmeldungen und wenn Prioritäts- und Nachanmelder nicht identisch sind; eine gemeinsame PCT-Anmeldung von A und B begründet eine stillschweigende Übereinkunft zur Nutzung der Priorität.
+
+**A:** GBK „G 1/22 – Prioritätsberechtigung“ – G 1/22 (2023), GBK, Entscheidung/Stellungnahme vom 10.10.2023 – G 1/22
+
+*Tags: Rechtsprechung, Umkehr, GBK, Priorität*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/03 – Disclaimer (nicht offenbart)“ (G 1/03, 2004) – Kernaussage?
+
+**A:** Ein in der ursprünglichen Anmeldung nicht offenbarter Disclaimer kann nach [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html) zulässig sein, wenn er die Neuheit gegenüber Stand der Technik nach [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) oder einer zufälligen Vorwegnahme wiederherstellt oder Gegenstände ausklammert, die aus nichttechnischen Gründen ausgeschlossen sind; er darf nicht mehr ausschließen als nötig.
+
+Normen: [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 08.04.2004 – G 1/03
+
+*Tags: Rechtsprechung, GBK, Änderungen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ein in der ursprünglichen Anmeldung nicht offenbarter Disclaimer kann nach [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html) zulässig sein, wenn er die Neuheit gegenüber Stand der Technik nach [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) oder einer zufälligen Vorwegnahme wiederherstellt oder Gegenstände ausklammert, die aus nichttechnischen Gründen ausgeschlossen sind; er darf nicht mehr ausschließen als nötig.
+
+**A:** GBK „G 1/03 – Disclaimer (nicht offenbart)“ – G 1/03 (2004), GBK, Entscheidung/Stellungnahme vom 08.04.2004 – G 1/03
+
+*Tags: Rechtsprechung, Umkehr, GBK, Änderungen*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 2/10 – Disclaimer (offenbart)“ (G 2/10, 2011) – Kernaussage?
+
+**A:** Klammert ein Disclaimer einen ursprünglich offenbarten Gegenstand aus, verstößt die Änderung gegen [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), wenn der verbleibende Gegenstand nicht unmittelbar und eindeutig ursprünglich offenbart ist (Goldstandard).
+
+Normen: [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 30.08.2011 – G 2/10
+
+*Tags: Rechtsprechung, GBK, Änderungen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Klammert ein Disclaimer einen ursprünglich offenbarten Gegenstand aus, verstößt die Änderung gegen [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), wenn der verbleibende Gegenstand nicht unmittelbar und eindeutig ursprünglich offenbart ist (Goldstandard).
+
+**A:** GBK „G 2/10 – Disclaimer (offenbart)“ – G 2/10 (2011), GBK, Entscheidung/Stellungnahme vom 30.08.2011 – G 2/10
+
+*Tags: Rechtsprechung, Umkehr, GBK, Änderungen*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/16 – Disclaimer III“ (G 1/16, 2017) – Kernaussage?
+
+**A:** Für nicht offenbarte Disclaimer gelten allein die Kriterien aus G 1/03; der Disclaimer darf keinen technischen Beitrag leisten und für erfinderische Tätigkeit oder Ausführbarkeit nicht relevant werden. Der Goldstandard aus G 2/10 gilt für ihn nicht.
+
+Normen: [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 18.12.2017 – G 1/16
+
+*Tags: Rechtsprechung, GBK, Änderungen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Für nicht offenbarte Disclaimer gelten allein die Kriterien aus G 1/03; der Disclaimer darf keinen technischen Beitrag leisten und für erfinderische Tätigkeit oder Ausführbarkeit nicht relevant werden. Der Goldstandard aus G 2/10 gilt für ihn nicht.
+
+**A:** GBK „G 1/16 – Disclaimer III“ – G 1/16 (2017), GBK, Entscheidung/Stellungnahme vom 18.12.2017 – G 1/16
+
+*Tags: Rechtsprechung, Umkehr, GBK, Änderungen*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/93 – Beschränkendes Merkmal“ (G 1/93, 1994) – Kernaussage?
+
+**A:** Enthält ein Patent ein unzulässig erweiterndes, aber den Schutzbereich beschränkendes Merkmal, kann es weder unverändert bleiben ([Art. 100 lit. c EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html)) noch durch Streichung des Merkmals gerettet werden ([Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)) – die „unentrinnbare Falle“. Ein Merkmal ohne technischen Beitrag, das nur den Schutz einschränkt, gilt nicht als unzulässige Erweiterung.
+
+Normen: [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html), [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 02.02.1994 – G 1/93
+
+*Tags: Rechtsprechung, GBK, Änderungen, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Enthält ein Patent ein unzulässig erweiterndes, aber den Schutzbereich beschränkendes Merkmal, kann es weder unverändert bleiben ([Art. 100 lit. c EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html)) noch durch Streichung des Merkmals gerettet werden ([Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html)) – die „unentrinnbare Falle“. Ein Merkmal ohne technischen Beitrag, das nur den Schutz einschränkt, gilt nicht als unzulässige Erweiterung.
+
+**A:** GBK „G 1/93 – Beschränkendes Merkmal“ – G 1/93 (1994), GBK, Entscheidung/Stellungnahme vom 02.02.1994 – G 1/93
+
+*Tags: Rechtsprechung, Umkehr, GBK, Änderungen, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 2/88 – Kategoriewechsel“ (G 2/88, 1989) – Kernaussage?
+
+**A:** Ein Wechsel der Anspruchskategorie im Einspruchsverfahren verstößt nicht gegen [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), wenn er den Schutzbereich nicht erweitert; der Wechsel vom Stoffanspruch zum Verwendungsanspruch ist zulässig.
+
+Normen: [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [Art. 69 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 11.12.1989 – G 2/88
+
+*Tags: Rechtsprechung, GBK, Änderungen, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ein Wechsel der Anspruchskategorie im Einspruchsverfahren verstößt nicht gegen [Art. 123 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), wenn er den Schutzbereich nicht erweitert; der Wechsel vom Stoffanspruch zum Verwendungsanspruch ist zulässig.
+
+**A:** GBK „G 2/88 – Kategoriewechsel“ – G 2/88 (1989), GBK, Entscheidung/Stellungnahme vom 11.12.1989 – G 2/88
+
+*Tags: Rechtsprechung, Umkehr, GBK, Änderungen, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 3/89 – Berichtigung der Offenbarung“ (G 3/89, 1992) – Kernaussage?
+
+**A:** Beschreibung, Ansprüche und Zeichnungen dürfen nach [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html) nur berichtigt werden, wenn der Fachmann den Fehler und die richtige Fassung den ursprünglichen Unterlagen unmittelbar und eindeutig entnimmt; die Berichtigung ist feststellend und keine Erweiterung.
+
+Normen: [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 19.11.1992 – G 3/89
+
+*Tags: Rechtsprechung, GBK, Berichtigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Beschreibung, Ansprüche und Zeichnungen dürfen nach [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html) nur berichtigt werden, wenn der Fachmann den Fehler und die richtige Fassung den ursprünglichen Unterlagen unmittelbar und eindeutig entnimmt; die Berichtigung ist feststellend und keine Erweiterung.
+
+**A:** GBK „G 3/89 – Berichtigung der Offenbarung“ – G 3/89 (1992), GBK, Entscheidung/Stellungnahme vom 19.11.1992 – G 3/89
+
+*Tags: Rechtsprechung, Umkehr, GBK, Berichtigung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/10 – Berichtigung des Patents“ (G 1/10, 2012) – Kernaussage?
+
+**A:** [R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html) erlaubt nur die Berichtigung von Fehlern in Entscheidungen, nicht des Wortlauts des erteilten Patents; ein solcher Antrag des Inhabers ist zu jedem Zeitpunkt unzulässig. Fehler in der Druckfassung müssen vor Erteilung ([R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html)) gerügt werden.
+
+Normen: [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html), [R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html), [R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 23.07.2012 – G 1/10
+
+*Tags: Rechtsprechung, GBK, Berichtigung, Erteilung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+[R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html) erlaubt nur die Berichtigung von Fehlern in Entscheidungen, nicht des Wortlauts des erteilten Patents; ein solcher Antrag des Inhabers ist zu jedem Zeitpunkt unzulässig. Fehler in der Druckfassung müssen vor Erteilung ([R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html)) gerügt werden.
+
+**A:** GBK „G 1/10 – Berichtigung des Patents“ – G 1/10 (2012), GBK, Entscheidung/Stellungnahme vom 23.07.2012 – G 1/10
+
+*Tags: Rechtsprechung, Umkehr, GBK, Berichtigung, Erteilung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/24 – Auslegung der Ansprüche“ (G 1/24, 2025) – Kernaussage?
+
+**A:** Die Ansprüche sind Ausgangspunkt der Prüfung der Patentierbarkeit; Beschreibung und Zeichnungen sind bei ihrer Auslegung stets heranzuziehen, nicht erst, wenn ein Anspruch für sich genommen unklar ist.
+
+Normen: [Art. 69 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html), [Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 18.06.2025 – G 1/24
+
+*Tags: Rechtsprechung, GBK, Auslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Die Ansprüche sind Ausgangspunkt der Prüfung der Patentierbarkeit; Beschreibung und Zeichnungen sind bei ihrer Auslegung stets heranzuziehen, nicht erst, wenn ein Anspruch für sich genommen unklar ist.
+
+**A:** GBK „G 1/24 – Auslegung der Ansprüche“ – G 1/24 (2025), GBK, Entscheidung/Stellungnahme vom 18.06.2025 – G 1/24
+
+*Tags: Rechtsprechung, Umkehr, GBK, Auslegung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/25 – Anpassung der Beschreibung“ (G 1/25, 2026) – Kernaussage?
+
+**A:** Werden die Ansprüche im Verfahren vor dem EPA geändert und entsteht dadurch ein Widerspruch zur Beschreibung, der zu einem Verstoß gegen [Art. 52 bis 57 EPÜ](https://www.epo.org/de/legal/epc/2020/a52.html), [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [Art. 83 EPÜ](https://www.epo.org/de/legal/epc/2020/a83.html), [Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html) oder [Art. 123 Abs. 2, 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html) führt, ist die Beschreibung anzupassen.
+
+Normen: [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 03.09.2026 – G 1/25
+
+*Tags: Rechtsprechung, GBK, Änderungen, Prüfung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Werden die Ansprüche im Verfahren vor dem EPA geändert und entsteht dadurch ein Widerspruch zur Beschreibung, der zu einem Verstoß gegen [Art. 52 bis 57 EPÜ](https://www.epo.org/de/legal/epc/2020/a52.html), [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [Art. 83 EPÜ](https://www.epo.org/de/legal/epc/2020/a83.html), [Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html) oder [Art. 123 Abs. 2, 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html) führt, ist die Beschreibung anzupassen.
+
+**A:** GBK „G 1/25 – Anpassung der Beschreibung“ – G 1/25 (2026), GBK, Entscheidung/Stellungnahme vom 03.09.2026 – G 1/25
+
+*Tags: Rechtsprechung, Umkehr, GBK, Änderungen, Prüfung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/05 – Teilanmeldung mit Erweiterung“ (G 1/05, 2007) – Kernaussage?
+
+**A:** Eine Teilanmeldung, die bei Einreichung über den Inhalt der Stammanmeldung hinausgeht, kann später noch so geändert werden, dass sie [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html) genügt, auch wenn die Stammanmeldung nicht mehr anhängig ist; sie erhält dann Anmeldetag und Priorität der Stammanmeldung.
+
+Normen: [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 28.06.2007 – G 1/05
+
+*Tags: Rechtsprechung, GBK, Teilanmeldung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Eine Teilanmeldung, die bei Einreichung über den Inhalt der Stammanmeldung hinausgeht, kann später noch so geändert werden, dass sie [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html) genügt, auch wenn die Stammanmeldung nicht mehr anhängig ist; sie erhält dann Anmeldetag und Priorität der Stammanmeldung.
+
+**A:** GBK „G 1/05 – Teilanmeldung mit Erweiterung“ – G 1/05 (2007), GBK, Entscheidung/Stellungnahme vom 28.06.2007 – G 1/05
+
+*Tags: Rechtsprechung, Umkehr, GBK, Teilanmeldung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/06 – Kette von Teilanmeldungen“ (G 1/06, 2007) – Kernaussage?
+
+**A:** Bei einer Kette von Teilanmeldungen muss sich die gesamte Offenbarung jeder Teilanmeldung unmittelbar und eindeutig aus jeder vorangehenden Anmeldung in der ursprünglich eingereichten Fassung ableiten lassen.
+
+Normen: [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 28.06.2007 – G 1/06
+
+*Tags: Rechtsprechung, GBK, Teilanmeldung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Bei einer Kette von Teilanmeldungen muss sich die gesamte Offenbarung jeder Teilanmeldung unmittelbar und eindeutig aus jeder vorangehenden Anmeldung in der ursprünglich eingereichten Fassung ableiten lassen.
+
+**A:** GBK „G 1/06 – Kette von Teilanmeldungen“ – G 1/06 (2007), GBK, Entscheidung/Stellungnahme vom 28.06.2007 – G 1/06
+
+*Tags: Rechtsprechung, Umkehr, GBK, Teilanmeldung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/09 – Anhängigkeit nach Zurückweisung“ (G 1/09, 2010) – Kernaussage?
+
+**A:** Eine zurückgewiesene Anmeldung bleibt ohne Beschwerde bis zum Ablauf der Beschwerdefrist anhängig; bis dahin kann eine Teilanmeldung eingereicht werden ([R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)).
+
+Normen: [Art. 108 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html), [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 27.09.2010 – G 1/09
+
+*Tags: Rechtsprechung, GBK, Teilanmeldung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Eine zurückgewiesene Anmeldung bleibt ohne Beschwerde bis zum Ablauf der Beschwerdefrist anhängig; bis dahin kann eine Teilanmeldung eingereicht werden ([R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)).
+
+**A:** GBK „G 1/09 – Anhängigkeit nach Zurückweisung“ – G 1/09 (2010), GBK, Entscheidung/Stellungnahme vom 27.09.2010 – G 1/09
+
+*Tags: Rechtsprechung, Umkehr, GBK, Teilanmeldung*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 4/11 – Keine Anhängigkeit während der Wiedereinsetzungsfrist“ (J 4/11, 2011) – Kernaussage?
+
+**A:** Eine wegen Nichtzahlung einer Jahresgebühr als zurückgenommen geltende Anmeldung ist während der Frist für den Wiedereinsetzungsantrag und nach dessen Zurückweisung nicht anhängig; eine Teilanmeldung kann in dieser Zeit nicht eingereicht werden.
+
+Normen: [Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html), [Art. 86 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a86.html), [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)
+Fundstelle: JBK, Entscheidung vom 25.11.2011 – J 4/11
+
+*Tags: Rechtsprechung, JBK, Teilanmeldung, Wiedereinsetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Eine wegen Nichtzahlung einer Jahresgebühr als zurückgenommen geltende Anmeldung ist während der Frist für den Wiedereinsetzungsantrag und nach dessen Zurückweisung nicht anhängig; eine Teilanmeldung kann in dieser Zeit nicht eingereicht werden.
+
+**A:** JBK „J 4/11 – Keine Anhängigkeit während der Wiedereinsetzungsfrist“ – J 4/11 (2011), JBK, Entscheidung vom 25.11.2011 – J 4/11
+
+*Tags: Rechtsprechung, Umkehr, JBK, Teilanmeldung, Wiedereinsetzung*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 18/09 – Euro-PCT ohne Eintritt nicht anhängig“ (J 18/09, 2010) – Kernaussage?
+
+**A:** Eine internationale Anmeldung, für die die Handlungen zum Eintritt in die europäische Phase nicht vorgenommen wurden, ist vor dem EPA nicht anhängig; zu ihr kann keine Teilanmeldung nach [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html) eingereicht werden.
+
+Normen: [Art. 153 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html), [R. 159 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html), [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)
+Fundstelle: JBK, Entscheidung vom 01.09.2010 – J 18/09
+
+*Tags: Rechtsprechung, JBK, Teilanmeldung, Euro-PCT*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Eine internationale Anmeldung, für die die Handlungen zum Eintritt in die europäische Phase nicht vorgenommen wurden, ist vor dem EPA nicht anhängig; zu ihr kann keine Teilanmeldung nach [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html) eingereicht werden.
+
+**A:** JBK „J 18/09 – Euro-PCT ohne Eintritt nicht anhängig“ – J 18/09 (2010), JBK, Entscheidung vom 01.09.2010 – J 18/09
+
+*Tags: Rechtsprechung, Umkehr, JBK, Teilanmeldung, Euro-PCT*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 4/19 – Doppelpatentierung“ (G 4/19, 2021) – Kernaussage?
+
+**A:** Eine Anmeldung kann nach [Art. 97 Abs. 2](https://www.epo.org/de/legal/epc/2020/a97.html) und [Art. 125 EPÜ](https://www.epo.org/de/legal/epc/2020/a125.html) zurückgewiesen werden, wenn sie denselben Gegenstand beansprucht wie ein demselben Anmelder bereits erteiltes europäisches Patent, gleich ob es sich um parallele, Stamm-, Teil- oder Prioritätsanmeldungen handelt.
+
+Normen: [Art. 125 EPÜ](https://www.epo.org/de/legal/epc/2020/a125.html), [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [Art. 97 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a97.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 22.06.2021 – G 4/19
+
+*Tags: Rechtsprechung, GBK, Teilanmeldung, Prüfung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Eine Anmeldung kann nach [Art. 97 Abs. 2](https://www.epo.org/de/legal/epc/2020/a97.html) und [Art. 125 EPÜ](https://www.epo.org/de/legal/epc/2020/a125.html) zurückgewiesen werden, wenn sie denselben Gegenstand beansprucht wie ein demselben Anmelder bereits erteiltes europäisches Patent, gleich ob es sich um parallele, Stamm-, Teil- oder Prioritätsanmeldungen handelt.
+
+**A:** GBK „G 4/19 – Doppelpatentierung“ – G 4/19 (2021), GBK, Entscheidung/Stellungnahme vom 22.06.2021 – G 4/19
+
+*Tags: Rechtsprechung, Umkehr, GBK, Teilanmeldung, Prüfung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 9/91 – Umfang der Prüfungsbefugnis“ (G 9/91, 1993) – Kernaussage?
+
+**A:** Die Einspruchsabteilung und die Kammer prüfen nur in dem Umfang, in dem das Patent angegriffen ist; abhängige Ansprüche eines gefallenen unabhängigen Anspruchs dürfen geprüft werden, wenn ihre Gültigkeit prima facie zweifelhaft ist.
+
+Normen: [Art. 101 EPÜ](https://www.epo.org/de/legal/epc/2020/a101.html), [R. 76 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r76.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 31.03.1993 – G 9/91
+
+*Tags: Rechtsprechung, GBK, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Die Einspruchsabteilung und die Kammer prüfen nur in dem Umfang, in dem das Patent angegriffen ist; abhängige Ansprüche eines gefallenen unabhängigen Anspruchs dürfen geprüft werden, wenn ihre Gültigkeit prima facie zweifelhaft ist.
+
+**A:** GBK „G 9/91 – Umfang der Prüfungsbefugnis“ – G 9/91 (1993), GBK, Entscheidung/Stellungnahme vom 31.03.1993 – G 9/91
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 10/91 – Neue Einspruchsgründe“ (G 10/91, 1993) – Kernaussage?
+
+**A:** Die Einspruchsabteilung prüft grundsätzlich nur die vorgebrachten Gründe, ausnahmsweise weitere, die prima facie entgegenstehen; im Beschwerdeverfahren dürfen neue Einspruchsgründe nur mit Einverständnis des Inhabers geprüft werden.
+
+Normen: [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html), [Art. 114 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a114.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 31.03.1993 – G 10/91
+
+*Tags: Rechtsprechung, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Die Einspruchsabteilung prüft grundsätzlich nur die vorgebrachten Gründe, ausnahmsweise weitere, die prima facie entgegenstehen; im Beschwerdeverfahren dürfen neue Einspruchsgründe nur mit Einverständnis des Inhabers geprüft werden.
+
+**A:** GBK „G 10/91 – Neue Einspruchsgründe“ – G 10/91 (1993), GBK, Entscheidung/Stellungnahme vom 31.03.1993 – G 10/91
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 3/14 – Klarheit geänderter Ansprüche“ (G 3/14, 2015) – Kernaussage?
+
+**A:** Im Einspruchsverfahren sind geänderte Ansprüche auf Klarheit ([Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html)) nur zu prüfen, soweit gerade die Änderung den Mangel herbeiführt; die bloße Kombination erteilter Ansprüche genügt dafür nicht.
+
+Normen: [Art. 101 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a101.html), [Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 24.03.2015 – G 3/14
+
+*Tags: Rechtsprechung, GBK, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Im Einspruchsverfahren sind geänderte Ansprüche auf Klarheit ([Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html)) nur zu prüfen, soweit gerade die Änderung den Mangel herbeiführt; die bloße Kombination erteilter Ansprüche genügt dafür nicht.
+
+**A:** GBK „G 3/14 – Klarheit geänderter Ansprüche“ – G 3/14 (2015), GBK, Entscheidung/Stellungnahme vom 24.03.2015 – G 3/14
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 4/88 – Übertragung des Einspruchs“ (G 4/88, 1989) – Kernaussage?
+
+**A:** Ein anhängiger Einspruch kann zusammen mit dem Geschäftsbereich des Einsprechenden, auf den er sich bezieht, auf einen Dritten übertragen werden.
+
+Normen: [Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 24.04.1989 – G 4/88
+
+*Tags: Rechtsprechung, GBK, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ein anhängiger Einspruch kann zusammen mit dem Geschäftsbereich des Einsprechenden, auf den er sich bezieht, auf einen Dritten übertragen werden.
+
+**A:** GBK „G 4/88 – Übertragung des Einspruchs“ – G 4/88 (1989), GBK, Entscheidung/Stellungnahme vom 24.04.1989 – G 4/88
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 2/04 – Keine freie Übertragbarkeit“ (G 2/04, 2005) – Kernaussage?
+
+**A:** Die Stellung als Einsprechender ist nicht frei übertragbar; eine Tochtergesellschaft, deren Aktien veräußert werden, nimmt sie nicht mit. Bei berechtigter Unsicherheit darf die Beschwerde hilfsweise im Namen einer anderen Person eingelegt werden.
+
+Normen: [Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html), [Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 25.05.2005 – G 2/04
+
+*Tags: Rechtsprechung, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Die Stellung als Einsprechender ist nicht frei übertragbar; eine Tochtergesellschaft, deren Aktien veräußert werden, nimmt sie nicht mit. Bei berechtigter Unsicherheit darf die Beschwerde hilfsweise im Namen einer anderen Person eingelegt werden.
+
+**A:** GBK „G 2/04 – Keine freie Übertragbarkeit“ – G 2/04 (2005), GBK, Entscheidung/Stellungnahme vom 25.05.2005 – G 2/04
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 3/97 – Einspruch in fremdem Auftrag“ (G 3/97, 1999) – Kernaussage?
+
+**A:** Ein Einspruch ist nicht schon deshalb unzulässig, weil der Einsprechende für einen Dritten handelt (Strohmann); unzulässig ist er bei missbräuchlicher Gesetzesumgehung, etwa im Auftrag des Patentinhabers.
+
+Normen: [Art. 99 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 21.01.1999 – G 3/97
+
+*Tags: Rechtsprechung, GBK, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ein Einspruch ist nicht schon deshalb unzulässig, weil der Einsprechende für einen Dritten handelt (Strohmann); unzulässig ist er bei missbräuchlicher Gesetzesumgehung, etwa im Auftrag des Patentinhabers.
+
+**A:** GBK „G 3/97 – Einspruch in fremdem Auftrag“ – G 3/97 (1999), GBK, Entscheidung/Stellungnahme vom 21.01.1999 – G 3/97
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 9/93 – Einspruch des Inhabers“ (G 9/93, 1994) – Kernaussage?
+
+**A:** Der Patentinhaber kann gegen sein eigenes europäisches Patent keinen Einspruch einlegen (Aufgabe von G 1/84); zur Beschränkung dient seit 2007 [Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html).
+
+Normen: [Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html), [Art. 99 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 06.07.1994 – G 9/93
+
+*Tags: Rechtsprechung, GBK, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Der Patentinhaber kann gegen sein eigenes europäisches Patent keinen Einspruch einlegen (Aufgabe von G 1/84); zur Beschränkung dient seit 2007 [Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html).
+
+**A:** GBK „G 9/93 – Einspruch des Inhabers“ – G 9/93 (1994), GBK, Entscheidung/Stellungnahme vom 06.07.1994 – G 9/93
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 3/99 – Gemeinsamer Einspruch“ (G 3/99, 2002) – Kernaussage?
+
+**A:** Ein von mehreren Personen gemeinsam eingelegter Einspruch ist mit einer Einspruchsgebühr zulässig; die Beschwerde muss dann der gemeinsame Vertreter einlegen ([R. 151 EPÜ](https://www.epo.org/de/legal/epc/2020/r151.html)).
+
+Normen: [Art. 99 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html), [R. 151 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r151.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 18.02.2002 – G 3/99
+
+*Tags: Rechtsprechung, GBK, Einspruch, Vertretung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ein von mehreren Personen gemeinsam eingelegter Einspruch ist mit einer Einspruchsgebühr zulässig; die Beschwerde muss dann der gemeinsame Vertreter einlegen ([R. 151 EPÜ](https://www.epo.org/de/legal/epc/2020/r151.html)).
+
+**A:** GBK „G 3/99 – Gemeinsamer Einspruch“ – G 3/99 (2002), GBK, Entscheidung/Stellungnahme vom 18.02.2002 – G 3/99
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch, Vertretung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/13 – Wiederaufgelebter Einsprechender“ (G 1/13, 2014) – Kernaussage?
+
+**A:** Erlischt ein einsprechendes Unternehmen und lebt es nach nationalem Recht rückwirkend wieder auf, muss das EPA die Rückwirkung anerkennen und das Verfahren mit ihm fortsetzen.
+
+Normen: [Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html), [R. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/r84.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 25.11.2014 – G 1/13
+
+*Tags: Rechtsprechung, GBK, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Erlischt ein einsprechendes Unternehmen und lebt es nach nationalem Recht rückwirkend wieder auf, muss das EPA die Rückwirkung anerkennen und das Verfahren mit ihm fortsetzen.
+
+**A:** GBK „G 1/13 – Wiederaufgelebter Einsprechender“ – G 1/13 (2014), GBK, Entscheidung/Stellungnahme vom 25.11.2014 – G 1/13
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 2/24 – Beitretender ohne Beschwerdeführerstellung“ (G 2/24, 2025) – Kernaussage?
+
+**A:** Werden alle Beschwerden zurückgenommen, kann das Beschwerdeverfahren nicht mit einem Dritten fortgesetzt werden, der erst im Beschwerdeverfahren nach [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html) beigetreten ist; er erlangt keine Stellung als Beschwerdeführer.
+
+Normen: [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html), [Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 25.09.2025 – G 2/24
+
+*Tags: Rechtsprechung, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Werden alle Beschwerden zurückgenommen, kann das Beschwerdeverfahren nicht mit einem Dritten fortgesetzt werden, der erst im Beschwerdeverfahren nach [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html) beigetreten ist; er erlangt keine Stellung als Beschwerdeführer.
+
+**A:** GBK „G 2/24 – Beitretender ohne Beschwerdeführerstellung“ – G 2/24 (2025), GBK, Entscheidung/Stellungnahme vom 25.09.2025 – G 2/24
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/18 – Beschwerde ohne fristgerechte Gebühr“ (G 1/18, 2019) – Kernaussage?
+
+**A:** Wird die Beschwerdeschrift oder die Beschwerdegebühr nach Ablauf der Zweimonatsfrist des [Art. 108 Satz 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html) eingereicht bzw. entrichtet, gilt die Beschwerde als nicht eingelegt (nicht: unzulässig); die Gebühr wird von Amts wegen zurückgezahlt.
+
+Normen: [Art. 108 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 18.07.2019 – G 1/18
+
+*Tags: Rechtsprechung, GBK, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Wird die Beschwerdeschrift oder die Beschwerdegebühr nach Ablauf der Zweimonatsfrist des [Art. 108 Satz 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html) eingereicht bzw. entrichtet, gilt die Beschwerde als nicht eingelegt (nicht: unzulässig); die Gebühr wird von Amts wegen zurückgezahlt.
+
+**A:** GBK „G 1/18 – Beschwerde ohne fristgerechte Gebühr“ – G 1/18 (2019), GBK, Entscheidung/Stellungnahme vom 18.07.2019 – G 1/18
+
+*Tags: Rechtsprechung, Umkehr, GBK, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/12 – Berichtigung des Beschwerdeführers“ (G 1/12, 2014) – Kernaussage?
+
+**A:** Ist in der Beschwerdeschrift versehentlich die falsche Person als Beschwerdeführer genannt, kann der Name nach [R. 101 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r101.html) berichtigt werden, wenn die Erfordernisse der [R. 101 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r101.html) erfüllt sind; es gilt freie Beweiswürdigung.
+
+Normen: [R. 101 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r101.html), [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html), [R. 99 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r99.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 30.04.2014 – G 1/12
+
+*Tags: Rechtsprechung, GBK, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ist in der Beschwerdeschrift versehentlich die falsche Person als Beschwerdeführer genannt, kann der Name nach [R. 101 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r101.html) berichtigt werden, wenn die Erfordernisse der [R. 101 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r101.html) erfüllt sind; es gilt freie Beweiswürdigung.
+
+**A:** GBK „G 1/12 – Berichtigung des Beschwerdeführers“ – G 1/12 (2014), GBK, Entscheidung/Stellungnahme vom 30.04.2014 – G 1/12
+
+*Tags: Rechtsprechung, Umkehr, GBK, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/99 – Reformatio in peius“ (G 1/99, 2001) – Kernaussage?
+
+**A:** Ist der Einsprechende alleiniger Beschwerdeführer, darf er durch die Entscheidung nicht schlechter gestellt werden; ausnahmsweise darf der Inhaber Änderungen vornehmen, um einen Widerruf infolge einer unzulässigen Änderung abzuwenden.
+
+Normen: [Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html), [Art. 111 EPÜ](https://www.epo.org/de/legal/epc/2020/a111.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 02.04.2001 – G 1/99
+
+*Tags: Rechtsprechung, GBK, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ist der Einsprechende alleiniger Beschwerdeführer, darf er durch die Entscheidung nicht schlechter gestellt werden; ausnahmsweise darf der Inhaber Änderungen vornehmen, um einen Widerruf infolge einer unzulässigen Änderung abzuwenden.
+
+**A:** GBK „G 1/99 – Reformatio in peius“ – G 1/99 (2001), GBK, Entscheidung/Stellungnahme vom 02.04.2001 – G 1/99
+
+*Tags: Rechtsprechung, Umkehr, GBK, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 3/03 – Rückzahlung bei Abhilfe“ (G 3/03, 2005) – Kernaussage?
+
+**A:** Hilft die erste Instanz der Beschwerde ab, ist sie nicht befugt, einen Antrag auf Rückzahlung der Beschwerdegebühr zurückzuweisen; darüber entscheidet die Beschwerdekammer.
+
+Normen: [Art. 109 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a109.html), [R. 103 EPÜ](https://www.epo.org/de/legal/epc/2020/r103.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 28.01.2005 – G 3/03
+
+*Tags: Rechtsprechung, GBK, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Hilft die erste Instanz der Beschwerde ab, ist sie nicht befugt, einen Antrag auf Rückzahlung der Beschwerdegebühr zurückzuweisen; darüber entscheidet die Beschwerdekammer.
+
+**A:** GBK „G 3/03 – Rückzahlung bei Abhilfe“ – G 3/03 (2005), GBK, Entscheidung/Stellungnahme vom 28.01.2005 – G 3/03
+
+*Tags: Rechtsprechung, Umkehr, GBK, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 2/97 – Treu und Glauben“ (G 2/97, 1998) – Kernaussage?
+
+**A:** Der Vertrauensschutz verpflichtet die Kammer nicht, einen Beschwerdeführer auf eine noch ausstehende Beschwerdegebühr hinzuweisen, wenn nichts darauf hindeutet, dass er die Frist versehentlich versäumen wird.
+
+Normen: [Art. 108 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 12.11.1998 – G 2/97
+
+*Tags: Rechtsprechung, GBK, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Der Vertrauensschutz verpflichtet die Kammer nicht, einen Beschwerdeführer auf eine noch ausstehende Beschwerdegebühr hinzuweisen, wenn nichts darauf hindeutet, dass er die Frist versehentlich versäumen wird.
+
+**A:** GBK „G 2/97 – Treu und Glauben“ – G 2/97 (1998), GBK, Entscheidung/Stellungnahme vom 12.11.1998 – G 2/97
+
+*Tags: Rechtsprechung, Umkehr, GBK, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 5/80 – Sorgfalt des Vertreters“ (J 5/80, 1981) – Kernaussage?
+
+**A:** Wiedereinsetzung setzt voraus, dass auch der Vertreter die gebotene Sorgfalt beachtet hat. Fehler einer Hilfsperson werden ihm nicht zugerechnet, wenn er sie sorgfältig ausgewählt, eingewiesen und überwacht hat.
+
+Normen: [Art. 122 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html)
+Fundstelle: JBK, Entscheidung vom 07.07.1981 – J 5/80
+
+*Tags: Rechtsprechung, JBK, Wiedereinsetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Wiedereinsetzung setzt voraus, dass auch der Vertreter die gebotene Sorgfalt beachtet hat. Fehler einer Hilfsperson werden ihm nicht zugerechnet, wenn er sie sorgfältig ausgewählt, eingewiesen und überwacht hat.
+
+**A:** JBK „J 5/80 – Sorgfalt des Vertreters“ – J 5/80 (1981), JBK, Entscheidung vom 07.07.1981 – J 5/80
+
+*Tags: Rechtsprechung, Umkehr, JBK, Wiedereinsetzung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/86 – Wiedereinsetzung des Einsprechenden“ (G 1/86, 1987) – Kernaussage?
+
+**A:** [Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html) gilt nicht nur für Anmelder und Inhaber: Ein Einsprechender als Beschwerdeführer kann in die versäumte Frist für die Beschwerdebegründung wiedereingesetzt werden.
+
+Normen: [Art. 108 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html), [Art. 122 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 24.06.1987 – G 1/86
+
+*Tags: Rechtsprechung, GBK, Wiedereinsetzung, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+[Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html) gilt nicht nur für Anmelder und Inhaber: Ein Einsprechender als Beschwerdeführer kann in die versäumte Frist für die Beschwerdebegründung wiedereingesetzt werden.
+
+**A:** GBK „G 1/86 – Wiedereinsetzung des Einsprechenden“ – G 1/86 (1987), GBK, Entscheidung/Stellungnahme vom 24.06.1987 – G 1/86
+
+*Tags: Rechtsprechung, Umkehr, GBK, Wiedereinsetzung, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 6/22 – Vollständige Begründung des Wiedereinsetzungsantrags“ (J 6/22, 2023) – Kernaussage?
+
+**A:** Der Wiedereinsetzungsantrag muss alle Gründe und Beweismittel sofort vollständig angeben; nachträgliches Vorbringen ist ausgeschlossen. Ein Recht auf mündliche Verhandlung besteht nicht unbegrenzt.
+
+Normen: [Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html), [R. 136 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html)
+Fundstelle: JBK, Entscheidung vom 26.07.2023 – J 6/22
+
+*Tags: Rechtsprechung, JBK, Wiedereinsetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Der Wiedereinsetzungsantrag muss alle Gründe und Beweismittel sofort vollständig angeben; nachträgliches Vorbringen ist ausgeschlossen. Ein Recht auf mündliche Verhandlung besteht nicht unbegrenzt.
+
+**A:** JBK „J 6/22 – Vollständige Begründung des Wiedereinsetzungsantrags“ – J 6/22 (2023), JBK, Entscheidung vom 26.07.2023 – J 6/22
+
+*Tags: Rechtsprechung, Umkehr, JBK, Wiedereinsetzung*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 10/20 – Vertrauen auf Fristverlängerung“ (J 10/20, 2021) – Kernaussage?
+
+**A:** Auf Mitteilungen des EPA über Fristverlängerungen nach [R. 134 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html) dürfen sich Beteiligte verlassen, auch wenn tatsächlich keine allgemeine Störung des Postverkehrs vorlag (Vertrauensschutz).
+
+Normen: [R. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html)
+Fundstelle: JBK, Entscheidung vom 22.01.2021 – J 10/20
+
+*Tags: Rechtsprechung, JBK, Fristen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Auf Mitteilungen des EPA über Fristverlängerungen nach [R. 134 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html) dürfen sich Beteiligte verlassen, auch wenn tatsächlich keine allgemeine Störung des Postverkehrs vorlag (Vertrauensschutz).
+
+**A:** JBK „J 10/20 – Vertrauen auf Fristverlängerung“ – J 10/20 (2021), JBK, Entscheidung vom 22.01.2021 – J 10/20
+
+*Tags: Rechtsprechung, Umkehr, JBK, Fristen*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 14/19 – Aussetzung nur vor Erteilung“ (J 14/19, 2021) – Kernaussage?
+
+**A:** Die Voraussetzungen der Aussetzung nach [R. 14 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html) müssen vor dem Hinweis auf die Erteilung nachgewiesen werden; wann das nationale Verfahren eingeleitet ist, richtet sich nach dem Prozessrecht des angerufenen Gerichts.
+
+Normen: [Art. 61 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html), [R. 14 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html)
+Fundstelle: JBK, Entscheidung vom 19.04.2021 – J 14/19
+
+*Tags: Rechtsprechung, JBK, Berechtigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Die Voraussetzungen der Aussetzung nach [R. 14 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html) müssen vor dem Hinweis auf die Erteilung nachgewiesen werden; wann das nationale Verfahren eingeleitet ist, richtet sich nach dem Prozessrecht des angerufenen Gerichts.
+
+**A:** JBK „J 14/19 – Aussetzung nur vor Erteilung“ – J 14/19 (2021), JBK, Entscheidung vom 19.04.2021 – J 14/19
+
+*Tags: Rechtsprechung, Umkehr, JBK, Berechtigung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 4/08 – Verfahrenssprache bei Euro-PCT“ (G 4/08, 2010) – Kernaussage?
+
+**A:** Ist eine PCT-Anmeldung in einer Amtssprache des EPA eingereicht und veröffentlicht, kann beim Eintritt in die europäische Phase keine Übersetzung in eine andere Amtssprache eingereicht werden; das EPA verwendet im schriftlichen Verfahren nur die Verfahrenssprache.
+
+Normen: [Art. 14 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html), [Art. 153 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html), [R. 159 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 16.02.2010 – G 4/08
+
+*Tags: Rechtsprechung, GBK, Sprache, Euro-PCT*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ist eine PCT-Anmeldung in einer Amtssprache des EPA eingereicht und veröffentlicht, kann beim Eintritt in die europäische Phase keine Übersetzung in eine andere Amtssprache eingereicht werden; das EPA verwendet im schriftlichen Verfahren nur die Verfahrenssprache.
+
+**A:** GBK „G 4/08 – Verfahrenssprache bei Euro-PCT“ – G 4/08 (2010), GBK, Entscheidung/Stellungnahme vom 16.02.2010 – G 4/08
+
+*Tags: Rechtsprechung, Umkehr, GBK, Sprache, Euro-PCT*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 13/14 – Teilanmeldung in falscher Sprache“ (J 13/14, 2016) – Kernaussage?
+
+**A:** Eine Teilanmeldung zu einer in einer Amtssprache eingereichten Anmeldung muss in deren Verfahrenssprache eingereicht werden. Wird sie in einer anderen Sprache eingereicht, lässt sich der Mangel weder durch eine Übersetzung noch durch Berichtigung nach [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html) oder Änderung beheben; sie wird nicht als Teilanmeldung behandelt.
+
+Normen: [Art. 14 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html), [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [R. 36 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)
+Fundstelle: JBK, Entscheidung vom 13.12.2016 – J 13/14
+
+*Tags: Rechtsprechung, JBK, Teilanmeldung, Sprache*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Eine Teilanmeldung zu einer in einer Amtssprache eingereichten Anmeldung muss in deren Verfahrenssprache eingereicht werden. Wird sie in einer anderen Sprache eingereicht, lässt sich der Mangel weder durch eine Übersetzung noch durch Berichtigung nach [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html) oder Änderung beheben; sie wird nicht als Teilanmeldung behandelt.
+
+**A:** JBK „J 13/14 – Teilanmeldung in falscher Sprache“ – J 13/14 (2016), JBK, Entscheidung vom 13.12.2016 – J 13/14
+
+*Tags: Rechtsprechung, Umkehr, JBK, Teilanmeldung, Sprache*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 20/05 – Keine Teilanmeldung während der Aussetzung“ (J 20/05, 2007) – Kernaussage?
+
+**A:** Solange das Erteilungsverfahren wegen eines Vindikationsverfahrens ausgesetzt ist, kann der Anmelder keine Teilanmeldung zu dieser Anmeldung einreichen; eine solche Anmeldung wird nicht als Teilanmeldung behandelt.
+
+Normen: [Art. 76 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html), [R. 14 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html), [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)
+Fundstelle: JBK, Entscheidung vom 06.09.2007 – J 20/05
+
+*Tags: Rechtsprechung, JBK, Berechtigung, Teilanmeldung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Solange das Erteilungsverfahren wegen eines Vindikationsverfahrens ausgesetzt ist, kann der Anmelder keine Teilanmeldung zu dieser Anmeldung einreichen; eine solche Anmeldung wird nicht als Teilanmeldung behandelt.
+
+**A:** JBK „J 20/05 – Keine Teilanmeldung während der Aussetzung“ – J 20/05 (2007), JBK, Entscheidung vom 06.09.2007 – J 20/05
+
+*Tags: Rechtsprechung, Umkehr, JBK, Berechtigung, Teilanmeldung*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 9/12 – Aussetzung ab Eingang des Nachweises“ (J 9/12, 2013) – Kernaussage?
+
+**A:** Die Aussetzung nach [R. 14 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html) wirkt ab dem Tag, an dem der Nachweis der Klageerhebung beim EPA eingeht, nicht erst ab der Mitteilung an den Anmelder. Eine danach, aber vor dieser Mitteilung eingereichte Teilanmeldung ist nicht als Teilanmeldung zu behandeln.
+
+Normen: [Art. 61 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html), [R. 14 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html), [R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)
+Fundstelle: JBK, Entscheidung vom 28.06.2013 – J 9/12
+
+*Tags: Rechtsprechung, JBK, Berechtigung, Teilanmeldung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Die Aussetzung nach [R. 14 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html) wirkt ab dem Tag, an dem der Nachweis der Klageerhebung beim EPA eingeht, nicht erst ab der Mitteilung an den Anmelder. Eine danach, aber vor dieser Mitteilung eingereichte Teilanmeldung ist nicht als Teilanmeldung zu behandeln.
+
+**A:** JBK „J 9/12 – Aussetzung ab Eingang des Nachweises“ – J 9/12 (2013), JBK, Entscheidung vom 28.06.2013 – J 9/12
+
+*Tags: Rechtsprechung, Umkehr, JBK, Berechtigung, Teilanmeldung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 3/92 – Neue Anmeldung des Berechtigten“ (G 3/92, 1994) – Kernaussage?
+
+**A:** Ist einem anderen als dem Anmelder durch rechtskräftige Entscheidung eines nationalen Gerichts der Anspruch auf Erteilung zugesprochen worden, kann er nach [Art. 61 Abs. 1 lit. b EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html) eine neue Anmeldung für dieselbe Erfindung einreichen, auch wenn die ursprüngliche Anmeldung des Nichtberechtigten nicht mehr anhängig ist.
+
+Normen: [Art. 61 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html), [Art. 61 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 13.06.1994 – G 3/92
+
+*Tags: Rechtsprechung, GBK, Berechtigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Ist einem anderen als dem Anmelder durch rechtskräftige Entscheidung eines nationalen Gerichts der Anspruch auf Erteilung zugesprochen worden, kann er nach [Art. 61 Abs. 1 lit. b EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html) eine neue Anmeldung für dieselbe Erfindung einreichen, auch wenn die ursprüngliche Anmeldung des Nichtberechtigten nicht mehr anhängig ist.
+
+**A:** GBK „G 3/92 – Neue Anmeldung des Berechtigten“ – G 3/92 (1994), GBK, Entscheidung/Stellungnahme vom 13.06.1994 – G 3/92
+
+*Tags: Rechtsprechung, Umkehr, GBK, Berechtigung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 11/91 – Berichtigung der Offenbarung (Parallelfall)“ (G 11/91, 1992) – Kernaussage?
+
+**A:** Wie G 3/89: Beschreibung, Ansprüche und Zeichnungen dürfen nach [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html) nur in dem Rahmen berichtigt werden, den der Fachmann den ursprünglich eingereichten Unterlagen mit seinem allgemeinen Fachwissen unmittelbar und eindeutig entnimmt. Das allgemeine Fachwissen kann mit jedem geeigneten Beweismittel belegt werden.
+
+Normen: [Art. 123 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html), [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 19.11.1992 – G 11/91
+
+*Tags: Rechtsprechung, GBK, Berichtigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Wie G 3/89: Beschreibung, Ansprüche und Zeichnungen dürfen nach [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html) nur in dem Rahmen berichtigt werden, den der Fachmann den ursprünglich eingereichten Unterlagen mit seinem allgemeinen Fachwissen unmittelbar und eindeutig entnimmt. Das allgemeine Fachwissen kann mit jedem geeigneten Beweismittel belegt werden.
+
+**A:** GBK „G 11/91 – Berichtigung der Offenbarung (Parallelfall)“ – G 11/91 (1992), GBK, Entscheidung/Stellungnahme vom 19.11.1992 – G 11/91
+
+*Tags: Rechtsprechung, Umkehr, GBK, Berichtigung*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 12/91 – Abschluss des schriftlichen Verfahrens“ (G 12/91, 1993) – Kernaussage?
+
+**A:** Im schriftlichen Verfahren ist das Verfahren zum Erlass einer Entscheidung mit dem Tag abgeschlossen, an dem die Formalprüfungsstelle die Entscheidung an die interne Poststelle des EPA zur Zustellung abgibt. Bis dahin kann das Organ Eingaben der Beteiligten noch berücksichtigen.
+
+Normen: [Art. 97 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a97.html), [R. 71a Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r71a.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 17.12.1993 – G 12/91
+
+*Tags: Rechtsprechung, GBK, Prüfung, Erteilung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Im schriftlichen Verfahren ist das Verfahren zum Erlass einer Entscheidung mit dem Tag abgeschlossen, an dem die Formalprüfungsstelle die Entscheidung an die interne Poststelle des EPA zur Zustellung abgibt. Bis dahin kann das Organ Eingaben der Beteiligten noch berücksichtigen.
+
+**A:** GBK „G 12/91 – Abschluss des schriftlichen Verfahrens“ – G 12/91 (1993), GBK, Entscheidung/Stellungnahme vom 17.12.1993 – G 12/91
+
+*Tags: Rechtsprechung, Umkehr, GBK, Prüfung, Erteilung*
+
+---
+
+## entscheidung
+
+**F:** TBK „T 210/89 – Keine Wiedereinsetzung des Einsprechenden in die Beschwerdefrist“ (T 210/89, 1989) – Kernaussage?
+
+**A:** Ein Einsprechender, der die Frist zur Einlegung der Beschwerde versäumt hat, kann nicht nach [Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html) in den vorigen Stand eingesetzt werden. Anders liegt es nur, wenn er Beschwerde eingelegt, aber die Begründungsfrist versäumt hat (G 1/86).
+
+Normen: [Art. 108 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html), [Art. 122 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html)
+Fundstelle: TBK, Entscheidung vom 20.10.1989 – T 210/89
+
+*Tags: Rechtsprechung, TBK, Wiedereinsetzung, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (TBK) steht für folgenden Grundsatz?
+
+Ein Einsprechender, der die Frist zur Einlegung der Beschwerde versäumt hat, kann nicht nach [Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html) in den vorigen Stand eingesetzt werden. Anders liegt es nur, wenn er Beschwerde eingelegt, aber die Begründungsfrist versäumt hat (G 1/86).
+
+**A:** TBK „T 210/89 – Keine Wiedereinsetzung des Einsprechenden in die Beschwerdefrist“ – T 210/89 (1989), TBK, Entscheidung vom 20.10.1989 – T 210/89
+
+*Tags: Rechtsprechung, Umkehr, TBK, Wiedereinsetzung, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** TBK „T 1095/06 – Eigenes Versäumnis des Vertreters“ (T 1095/06, 2008) – Kernaussage?
+
+**A:** Die Rechtsprechung zum isolierten Versehen in einem sonst zuverlässigen Fristensystem hilft nicht über ein eigenes Versäumnis des zugelassenen Vertreters hinweg, wenn keine besonderen Umstände vorliegen. Die Bedeutung der Anmeldung für den Anmelder spricht nicht für die Wiedereinsetzung.
+
+Normen: [Art. 122 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html)
+Fundstelle: TBK, Entscheidung vom 07.05.2008 – T 1095/06
+
+*Tags: Rechtsprechung, TBK, Wiedereinsetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (TBK) steht für folgenden Grundsatz?
+
+Die Rechtsprechung zum isolierten Versehen in einem sonst zuverlässigen Fristensystem hilft nicht über ein eigenes Versäumnis des zugelassenen Vertreters hinweg, wenn keine besonderen Umstände vorliegen. Die Bedeutung der Anmeldung für den Anmelder spricht nicht für die Wiedereinsetzung.
+
+**A:** TBK „T 1095/06 – Eigenes Versäumnis des Vertreters“ – T 1095/06 (2008), TBK, Entscheidung vom 07.05.2008 – T 1095/06
+
+*Tags: Rechtsprechung, Umkehr, TBK, Wiedereinsetzung*
+
+---
+
+## entscheidung
+
+**F:** JBK „J 4/91 – Nachfrist für Jahresgebühren von Monatsende zu Monatsende“ (J 4/91, 1991) – Kernaussage?
+
+**A:** Die Sechsmonatsfrist zur Zahlung einer Jahresgebühr mit Zuschlag endet am letzten Tag des sechsten Monats nach Fälligkeit. Sie beginnt am Fälligkeitstag auch dann, wenn das EPA an diesem Tag geschlossen ist; eine Verlängerung des Fälligkeitstags verschiebt ihr Ende nicht.
+
+Normen: [R. 134 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html), [R. 51 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html)
+Fundstelle: JBK, Entscheidung vom 22.10.1991 – J 4/91
+
+*Tags: Rechtsprechung, JBK, Jahresgebühren, Fristen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (JBK) steht für folgenden Grundsatz?
+
+Die Sechsmonatsfrist zur Zahlung einer Jahresgebühr mit Zuschlag endet am letzten Tag des sechsten Monats nach Fälligkeit. Sie beginnt am Fälligkeitstag auch dann, wenn das EPA an diesem Tag geschlossen ist; eine Verlängerung des Fälligkeitstags verschiebt ihr Ende nicht.
+
+**A:** JBK „J 4/91 – Nachfrist für Jahresgebühren von Monatsende zu Monatsende“ – J 4/91 (1991), JBK, Entscheidung vom 22.10.1991 – J 4/91
+
+*Tags: Rechtsprechung, Umkehr, JBK, Jahresgebühren, Fristen*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 1/94 – Beitritt im Beschwerdeverfahren“ (G 1/94, 1994) – Kernaussage?
+
+**A:** Der vermeintliche Patentverletzer kann auch noch während eines anhängigen Beschwerdeverfahrens nach [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html) beitreten. Er darf seinen Beitritt auf jeden Einspruchsgrund des [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html) stützen, auch auf einen, den der Einsprechende nicht geltend gemacht hat.
+
+Normen: [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html), [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 11.05.1994 – G 1/94
+
+*Tags: Rechtsprechung, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Der vermeintliche Patentverletzer kann auch noch während eines anhängigen Beschwerdeverfahrens nach [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html) beitreten. Er darf seinen Beitritt auf jeden Einspruchsgrund des [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html) stützen, auch auf einen, den der Einsprechende nicht geltend gemacht hat.
+
+**A:** GBK „G 1/94 – Beitritt im Beschwerdeverfahren“ – G 1/94 (1994), GBK, Entscheidung/Stellungnahme vom 11.05.1994 – G 1/94
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** GBK „G 8/93 – Rücknahme des Einspruchs in der Beschwerde“ (G 8/93, 1994) – Kernaussage?
+
+**A:** Nimmt der Einsprechende, der einziger Beschwerdeführer ist, seinen Einspruch zurück, endet das Beschwerdeverfahren sofort. Auf die Zustimmung des Patentinhabers oder die Meinung der Kammer zur Rechtsbeständigkeit des Patents kommt es nicht an.
+
+Normen: [Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html), [R. 84 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r84.html)
+Fundstelle: GBK, Entscheidung/Stellungnahme vom 13.06.1994 – G 8/93
+
+*Tags: Rechtsprechung, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (GBK) steht für folgenden Grundsatz?
+
+Nimmt der Einsprechende, der einziger Beschwerdeführer ist, seinen Einspruch zurück, endet das Beschwerdeverfahren sofort. Auf die Zustimmung des Patentinhabers oder die Meinung der Kammer zur Rechtsbeständigkeit des Patents kommt es nicht an.
+
+**A:** GBK „G 8/93 – Rücknahme des Einspruchs in der Beschwerde“ – G 8/93 (1994), GBK, Entscheidung/Stellungnahme vom 13.06.1994 – G 8/93
+
+*Tags: Rechtsprechung, Umkehr, GBK, Einspruch, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** TBK „T 1178/04 – Prüfung der Einsprechendenstellung von Amts wegen“ (T 1178/04, 2007) – Kernaussage?
+
+**A:** Das EPA prüft die Stellung als Einsprechender in jedem Verfahrensstadium von Amts wegen. Das gilt auch für die Wirksamkeit einer behaupteten Übertragung des Einspruchs auf einen neuen Beteiligten.
+
+Normen: [Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)
+Fundstelle: TBK, Entscheidung vom 27.02.2007 – T 1178/04
+
+*Tags: Rechtsprechung, TBK, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (TBK) steht für folgenden Grundsatz?
+
+Das EPA prüft die Stellung als Einsprechender in jedem Verfahrensstadium von Amts wegen. Das gilt auch für die Wirksamkeit einer behaupteten Übertragung des Einspruchs auf einen neuen Beteiligten.
+
+**A:** TBK „T 1178/04 – Prüfung der Einsprechendenstellung von Amts wegen“ – T 1178/04 (2007), TBK, Entscheidung vom 27.02.2007 – T 1178/04
+
+*Tags: Rechtsprechung, Umkehr, TBK, Einspruch*
+
+---
+
 ## norm
 
 **F:** Was regelt [§ 1 MarkenG](https://www.gesetze-im-internet.de/markeng/__1.html)?
@@ -35405,5 +38054,1658 @@ Ab dem Tag des Beitritts Bulgariens, der Tschechischen Republik, Estlands, Kroat
 Hinweis: Erweiterung der Union: Muster gelten auch in neuen Mitgliedstaaten; kein Angriff wegen dort älterer Rechte, Weiterbenutzung dort möglich.
 
 *Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 14 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html) (Sprachen des Europäischen Patentamts, europäischer Patentanmeldungen und anderer Schriftstücke)?
+
+**A:** Sprachen des Europäischen Patentamts, europäischer Patentanmeldungen und anderer Schriftstücke
+
+Die Amtssprachen des Europäischen Patentamts sind Deutsch, Englisch und Französisch.
+
+Hinweis: Amtssprachen Deutsch, Englisch, Französisch. Anmeldung in jeder Sprache möglich, Übersetzung binnen zwei Monaten ([R. 6 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r6.html)); die Übersetzung kann bis zum Ende des Verfahrens mit dem Original in Übereinstimmung gebracht werden ([Art. 14 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/a14.html)). Sprachenermäßigung von 30 % auf Anmelde- und Prüfungsgebühr bei Einreichung in einer zugelassenen Nichtamtssprache für KMU (einschließlich Kleinstunternehmen), natürliche Personen, Organisationen ohne Gewinnerzielungsabsicht, Hochschulen und öffentliche Forschungseinrichtungen aus diesem Staat ([R. 7a Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r7a.html), [Art. 14 Abs. 1 GebO](https://www.epo.org/de/legal/epc/2020/f14.html)).
+
+In 42 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 51 EPÜ](https://www.epo.org/de/legal/epc/2020/a51.html) (Gebühren)?
+
+**A:** Gebühren
+
+Das Europäische Patentamt kann Gebühren für die nach diesem Übereinkommen durchgeführten amtlichen Aufgaben und Verfahren erheben.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 53 EPÜ](https://www.epo.org/de/legal/epc/2020/a53.html) (Ausnahmen von der Patentierbarkeit)?
+
+**A:** Ausnahmen von der Patentierbarkeit
+
+Europäische Patente werden nicht erteilt für:
+a) Erfindungen, deren gewerbliche Verwertung gegen die öffentliche Ordnung oder die guten Sitten verstoßen würde; ein solcher Verstoß kann nicht allein daraus hergeleitet werden, dass die Verwertung in allen oder einigen Vertragsstaaten durch Gesetz oder Verwaltungsvorschrift verboten ist;
+b) Pflanzensorten oder Tierrassen sowie im Wesentlichen biologische Verfahren zur Züchtung von Pflanzen oder Tieren. Dies gilt nicht für mikrobiologische Verfahren und die mithilfe dieser Verfahren gewonnenen Erzeugnisse;
+c) Verfahren zur chirurgischen oder thera …
+
+In 217 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 54 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) (Neuheit)?
+
+**A:** Neuheit
+
+Eine Erfindung gilt als neu, wenn sie nicht zum Stand der Technik gehört.
+
+Hinweis: Klausurnorm Nr. 1 in Paper D. Abs. 2: alles, was vor dem Anmeldetag (bei wirksamer Priorität: Prioritätstag, [Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html)) öffentlich zugänglich war. Abs. 3: ältere europäische Anmeldungen nur für die Neuheit (nicht [Art. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/a56.html)), Inhalt in der ursprünglich eingereichten Fassung, Veröffentlichung am oder nach dem Anmeldetag; Euro-PCT-Anmeldungen nur bei Anmeldegebühr und Übersetzung ([Art. 153 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html), [R. 165 EPÜ](https://www.epo.org/de/legal/epc/2020/r165.html)). Abs. 4, 5: erste und weitere medizinische Indikation.
+
+In 7075 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 55 EPÜ](https://www.epo.org/de/legal/epc/2020/a55.html) (Unschädliche Offenbarungen)?
+
+**A:** Unschädliche Offenbarungen
+
+Für die Anwendung des Artikels 54 bleibt eine Offenbarung der Erfindung außer Betracht, wenn sie nicht früher als sechs Monate vor Einreichung der europäischen Patentanmeldung erfolgt ist und unmittelbar oder mittelbar zurückgeht:
+a) auf einen offensichtlichen Missbrauch zum Nachteil des Anmelders oder seines Rechtsvorgängers oder
+b) auf die Tatsache, dass der Anmelder oder sein Rechtsvorgänger die Erfindung auf amtlichen oder amtlich anerkannten Ausstellungen im Sinn des am 22. November 1928 in Paris unterzeichneten und zuletzt am 30. November 1972 revidierten Übereinkommens über internationa …
+
+Hinweis: Unschädliche Offenbarung nur bei offensichtlichem Missbrauch oder anerkannter Ausstellung, und nur, wenn sie höchstens sechs Monate vor der Einreichung erfolgte; maßgeblich ist der tatsächliche Anmeldetag, nicht der Prioritätstag (G 3/98, G 2/99).
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/a56.html) (Erfinderische Tätigkeit)?
+
+**A:** Erfinderische Tätigkeit
+
+Eine Erfindung gilt als auf einer erfinderischen Tätigkeit beruhend, wenn sie sich für den Fachmann nicht in naheliegender Weise aus dem Stand der Technik ergibt. Gehören zum Stand der Technik auch Unterlagen im Sinn des Artikels 54 Absatz 3, so werden diese bei der Beurteilung der erfinderischen Tätigkeit nicht in Betracht gezogen.
+
+In 13101 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 60 EPÜ](https://www.epo.org/de/legal/epc/2020/a60.html) (Recht auf das europäische Patent)?
+
+**A:** Recht auf das europäische Patent
+
+Das Recht auf das europäische Patent steht dem Erfinder oder seinem Rechtsnachfolger zu. Ist der Erfinder ein Arbeitnehmer, so bestimmt sich das Recht auf das europäische Patent nach dem Recht des Staats, in dem der Arbeitnehmer überwiegend beschäftigt ist; ist nicht festzustellen, in welchem Staat der Arbeitnehmer überwiegend beschäftigt ist, so ist das Recht des Staats anzuwenden, in dem der Arbeitgeber den Betrieb unterhält, dem der Arbeitnehmer angehört.
+
+Hinweis: Recht auf das europäische Patent: Erfinder oder Rechtsnachfolger; im Verfahren vor dem EPA gilt der Anmelder als berechtigt (Abs. 3). Streit über die Berechtigung entscheiden die nationalen Gerichte (Anerkennungsprotokoll), nicht das EPA.
+
+In 29 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 61 EPÜ](https://www.epo.org/de/legal/epc/2020/a61.html) (Anmeldung europäischer Patente durch Nichtberechtigte)?
+
+**A:** Anmeldung europäischer Patente durch Nichtberechtigte
+
+Wird durch rechtskräftige Entscheidung der Anspruch auf Erteilung des europäischen Patents einer Person zugesprochen, die nicht der Anmelder ist, so kann diese Person nach Maßgabe der Ausführungsordnung
+a) die europäische Patentanmeldung anstelle des Anmelders als eigene Anmeldung weiterverfolgen,
+b) eine neue europäische Patentanmeldung für dieselbe Erfindung einreichen oder
+c) beantragen, dass die europäische Patentanmeldung zurückgewiesen wird.
+
+Hinweis: Nach rechtskräftiger nationaler Entscheidung kann der Berechtigte binnen drei Monaten die Anmeldung weiterverfolgen, eine neue Anmeldung einreichen oder die Zurückweisung beantragen ([R. 16 EPÜ](https://www.epo.org/de/legal/epc/2020/r16.html)); Aussetzung des Erteilungsverfahrens nach [R. 14 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html).
+
+In 34 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 64 EPÜ](https://www.epo.org/de/legal/epc/2020/a64.html) (Rechte aus dem europäischen Patent)?
+
+**A:** Rechte aus dem europäischen Patent
+
+Das europäische Patent gewährt seinem Inhaber ab dem Tag der Bekanntmachung des Hinweises auf seine Erteilung im Europäischen Patentblatt in jedem Vertragsstaat, für den es erteilt ist, vorbehaltlich des Absatzes 2 dieselben Rechte, die ihm ein in diesem Staat erteiltes nationales Patent gewähren würde.
+
+In 27 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 65 EPÜ](https://www.epo.org/de/legal/epc/2020/a65.html) (Übersetzung des europäischen Patents)?
+
+**A:** Übersetzung des europäischen Patents
+
+Jeder Vertragsstaat kann, wenn das vom Europäischen Patentamt erteilte, in geänderter Fassung aufrechterhaltene oder beschränkte europäische Patent nicht in einer seiner Amtssprachen abgefasst ist, vorschreiben, dass der Patentinhaber bei seiner Zentralbehörde für den gewerblichen Rechtsschutz eine Übersetzung des Patents in der erteilten, geänderten oder beschränkten Fassung nach seiner Wahl in einer seiner Amtssprachen oder, soweit dieser Staat die Verwendung einer bestimmten Amtssprache vorgeschrieben hat, in dieser Amtssprache einzureichen hat. Die Frist für die Einreichung der Übersetzung …
+
+Hinweis: Übersetzungserfordernis nur noch in Staaten, die das Londoner Übereinkommen nicht oder nur teilweise anwenden. Wird einheitliche Wirkung eingetragen (Antrag nach [R. 6 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)), entfällt die Validierung in den teilnehmenden Staaten; Übersetzungen richten sich dann nur nach [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260).
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 67 EPÜ](https://www.epo.org/de/legal/epc/2020/a67.html) (Rechte aus der europäischen Patentanmeldung nach Veröffentlichung)?
+
+**A:** Rechte aus der europäischen Patentanmeldung nach Veröffentlichung
+
+Die europäische Patentanmeldung gewährt dem Anmelder vom Tag ihrer Veröffentlichung an in den benannten Vertragsstaaten einstweilen den Schutz nach Artikel 64.
+
+In 16 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 68 EPÜ](https://www.epo.org/de/legal/epc/2020/a68.html) (Wirkung des Widerrufs oder der Beschränkung des europäischen Patents)?
+
+**A:** Wirkung des Widerrufs oder der Beschränkung des europäischen Patents
+
+Die in den Artikeln 64 und 67 vorgesehenen Wirkungen der europäischen Patentanmeldung und des darauf erteilten europäischen Patents gelten in dem Umfang, in dem das Patent im Einspruchs-, Beschränkungs- oder Nichtigkeitsverfahren widerrufen oder beschränkt worden ist, als von Anfang an nicht eingetreten.
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 69 EPÜ](https://www.epo.org/de/legal/epc/2020/a69.html) (Schutzbereich)?
+
+**A:** Schutzbereich
+
+Der Schutzbereich des europäischen Patents und der europäischen Patentanmeldung wird durch die Patentansprüche bestimmt. Die Beschreibung und die Zeichnungen sind jedoch zur Auslegung der Patentansprüche heranzuziehen.
+
+In 120 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 70 EPÜ](https://www.epo.org/de/legal/epc/2020/a70.html) (Verbindliche Fassung einer europäischen Patentanmeldung oder eines europäischen Patents)?
+
+**A:** Verbindliche Fassung einer europäischen Patentanmeldung oder eines europäischen Patents
+
+Der Wortlaut einer europäischen Patentanmeldung oder eines europäischen Patents in der Verfahrenssprache stellt in Verfahren vor dem Europäischen Patentamt sowie in jedem Vertragsstaat die verbindliche Fassung dar.
+
+In 19 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 76 EPÜ](https://www.epo.org/de/legal/epc/2020/a76.html) (Europäische Teilanmeldung)?
+
+**A:** Europäische Teilanmeldung
+
+Eine europäische Teilanmeldung ist nach Maßgabe der Ausführungsordnung unmittelbar beim Europäischen Patentamt einzureichen. Sie kann nur für einen Gegenstand eingereicht werden, der nicht über den Inhalt der früheren Anmeldung in der ursprünglich eingereichten Fassung hinausgeht; soweit diesem Erfordernis entsprochen wird, gilt die Teilanmeldung als an dem Anmeldetag der früheren Anmeldung eingereicht und genießt deren Prioritätsrecht.
+
+Hinweis: Teilanmeldung: unmittelbar beim EPA, für jede anhängige frühere Anmeldung ([R. 36 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html)), nur Gegenstand, der nicht über die Stammanmeldung hinausgeht (G 1/05, G 1/06); sie erhält Anmeldetag und Priorität der Stammanmeldung. Anhängig bis zum Tag vor dem Hinweis auf die Erteilung bzw. bis zum Ablauf der Beschwerdefrist nach Zurückweisung (G 1/09).
+
+In 791 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 80 EPÜ](https://www.epo.org/de/legal/epc/2020/a80.html) (Anmeldetag)?
+
+**A:** Anmeldetag
+
+Der Anmeldetag einer europäischen Patentanmeldung ist der Tag, an dem die in der Ausführungsordnung festgelegten Erfordernisse erfüllt sind.
+
+Hinweis: Anmeldetag nach [R. 40 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r40.html): Hinweis, dass ein Patent beantragt wird, Angaben zur Identität des Anmelders, Beschreibung oder Bezugnahme auf eine früher eingereichte Anmeldung. Ansprüche sind für den Anmeldetag nicht nötig ([R. 58 EPÜ](https://www.epo.org/de/legal/epc/2020/r58.html)).
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 82 EPÜ](https://www.epo.org/de/legal/epc/2020/a82.html) (Einheitlichkeit der Erfindung)?
+
+**A:** Einheitlichkeit der Erfindung
+
+Die europäische Patentanmeldung darf nur eine einzige Erfindung enthalten oder eine Gruppe von Erfindungen, die untereinander in der Weise verbunden sind, dass sie eine einzige allgemeine erfinderische Idee verwirklichen.
+
+In 42 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html) (Patentansprüche)?
+
+**A:** Patentansprüche
+
+Die Patentansprüche müssen den Gegenstand angeben, für den Schutz begehrt wird. Sie müssen deutlich und knapp gefasst sein und von der Beschreibung gestützt werden.
+
+In 3684 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 86 EPÜ](https://www.epo.org/de/legal/epc/2020/a86.html) (Jahresgebühren für die europäische Patentanmeldung)?
+
+**A:** Jahresgebühren für die europäische Patentanmeldung
+
+Für die europäische Patentanmeldung sind nach Maßgabe der Ausführungsordnung Jahresgebühren an das Europäische Patentamt zu entrichten. Sie werden für das dritte und jedes weitere Jahr, gerechnet vom Anmeldetag an, geschuldet. Wird eine Jahresgebühr nicht rechtzeitig entrichtet, so gilt die Anmeldung als zurückgenommen.
+
+Hinweis: Jahresgebühren ab dem dritten Jahr, gerechnet vom Anmeldetag; fällig am letzten Tag des Monats, in dem sich der Anmeldetag jährt ([R. 51 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html)). Nachfrist sechs Monate mit Zuschlag ([R. 51 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html)). Nach dem Hinweis auf die Erteilung an die nationalen Ämter.
+
+In 22 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 87 EPÜ](https://www.epo.org/de/legal/epc/2020/a87.html) (Prioritätsrecht)?
+
+**A:** Prioritätsrecht
+
+Jedermann, der in einem oder mit Wirkung für
+a) einen Vertragsstaat der Pariser Verbandsübereinkunft zum Schutz des gewerblichen Eigentums oder
+b) ein Mitglied der Welthandelsorganisation
+eine Anmeldung für ein Patent, ein Gebrauchsmuster oder ein Gebrauchszertifikat vorschriftsmäßig eingereicht hat, oder sein Rechtsnachfolger genießt für die Anmeldung derselben Erfindung zum europäischen Patent während einer Frist von zwölf Monaten nach dem Anmeldetag der ersten Anmeldung ein Prioritätsrecht.
+
+Hinweis: Priorität: erste Anmeldung in oder für einen PVÜ-/WTO-Staat, dieselbe Erfindung (G 2/98), zwölf Monate (nicht weiterbehandlungs-, aber wiedereinsetzungsfähig nach [R. 136 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html)). Teilpriorität für generische Ansprüche (G 1/15); widerlegbare Vermutung der Prioritätsberechtigung (G 1/22, G 2/22).
+
+In 303 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 88 EPÜ](https://www.epo.org/de/legal/epc/2020/a88.html) (Inanspruchnahme der Priorität)?
+
+**A:** Inanspruchnahme der Priorität
+
+Der Anmelder, der die Priorität einer früheren Anmeldung in Anspruch nehmen will, hat eine Prioritätserklärung und weitere erforderliche Unterlagen nach Maßgabe der Ausführungsordnung einzureichen.
+
+Hinweis: Prioritätserklärung möglichst bei Einreichung, spätestens binnen 16 Monaten ab dem frühesten Prioritätstag ([R. 52 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r52.html)); Berichtigung binnen 16 Monaten, jedenfalls bis vier Monate nach dem Anmeldetag ([R. 52 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r52.html)). Abschrift und Übersetzung der Prioritätsanmeldung nach [R. 53 EPÜ](https://www.epo.org/de/legal/epc/2020/r53.html).
+
+In 71 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/a89.html) (Wirkung des Prioritätsrechts)?
+
+**A:** Wirkung des Prioritätsrechts
+
+Das Prioritätsrecht hat die Wirkung, dass für die Anwendung des Artikels 54 Absätze 2 und 3 und des Artikels 60 Absatz 2 der Prioritätstag als Anmeldetag der europäischen Patentanmeldung gilt.
+
+In 39 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 90 EPÜ](https://www.epo.org/de/legal/epc/2020/a90.html) (Eingangs- und Formalprüfung)?
+
+**A:** Eingangs- und Formalprüfung
+
+Das Europäische Patentamt prüft nach Maßgabe der Ausführungsordnung, ob die Anmeldung den Erfordernissen für die Zuerkennung eines Anmeldetags genügt.
+
+In 21 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 93 EPÜ](https://www.epo.org/de/legal/epc/2020/a93.html) (Veröffentlichung der europäischen Patentanmeldung)?
+
+**A:** Veröffentlichung der europäischen Patentanmeldung
+
+Das Europäische Patentamt veröffentlicht die europäische Patentanmeldung so bald wie möglich
+a) nach Ablauf von achtzehn Monaten nach dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen worden ist, nach dem Prioritätstag oder
+b) auf Antrag des Anmelders vor Ablauf dieser Frist.
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 94 EPÜ](https://www.epo.org/de/legal/epc/2020/a94.html) (Artikel 94, – Prüfung der europäischen Patentanmeldung)?
+
+**A:** Artikel 94, – Prüfung der europäischen Patentanmeldung
+
+Das Europäische Patentamt prüft nach Maßgabe der Ausführungsordnung auf Antrag, ob die europäische Patentanmeldung und die Erfindung, die sie zum Gegenstand hat, den Erfordernissen dieses Übereinkommens genügen. Der Antrag gilt erst als gestellt, wenn die Prüfungsgebühr entrichtet worden ist.
+
+Hinweis: Prüfungsantrag bis sechs Monate nach dem Hinweis auf die Veröffentlichung des Recherchenberichts ([R. 70 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r70.html)); Bescheide nach [Art. 94 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a94.html); Fristversäumnis führt zur Rücknahmefiktion ([Art. 94 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/a94.html)), Abhilfe: Weiterbehandlung.
+
+In 38 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 97 EPÜ](https://www.epo.org/de/legal/epc/2020/a97.html) (Erteilung oder Zurückweisung)?
+
+**A:** Erteilung oder Zurückweisung
+
+Ist die Prüfungsabteilung der Auffassung, dass die europäische Patentanmeldung und die Erfindung, die sie zum Gegenstand hat, den Erfordernissen dieses Übereinkommens genügen, so beschließt sie die Erteilung des europäischen Patents, sofern die in der Ausführungsordnung genannten Voraussetzungen erfüllt sind.
+
+Hinweis: Erteilung erst nach Einverständnis mit der Fassung ([R. 71 Abs. 3 bis 5 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html)); Wirkung ab dem Tag der Bekanntmachung des Hinweises im Europäischen Patentblatt (Abs. 3) – ab da laufen Einspruchsfrist ([Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html)) und die Frist für den Antrag auf einheitliche Wirkung.
+
+In 70 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/a99.html) (Einspruch)?
+
+**A:** Einspruch
+
+Innerhalb von neun Monaten nach Bekanntmachung des Hinweises auf die Erteilung des europäischen Patents im Europäischen Patentblatt kann jedermann nach Maßgabe der Ausführungsordnung beim Europäischen Patentamt gegen dieses Patent Einspruch einlegen. Der Einspruch gilt erst als eingelegt, wenn die Einspruchsgebühr entrichtet worden ist.
+
+Hinweis: Einspruch binnen neun Monaten nach Bekanntmachung des Hinweises auf die Erteilung, schriftlich und begründet, Einspruchsgebühr; jeder Dritte, auch ein Strohmann (G 3/97), nicht der Inhaber selbst (G 9/93). Wirkt für alle benannten Staaten; Einheitspatent eingeschlossen.
+
+In 116 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 100 EPÜ](https://www.epo.org/de/legal/epc/2020/a100.html) (Einspruchsgründe)?
+
+**A:** Einspruchsgründe
+
+Der Einspruch kann nur darauf gestützt werden, dass
+a) der Gegenstand des europäischen Patents nach den Artikeln 52 bis 57 nicht patentierbar ist;
+b) das europäische Patent die Erfindung nicht so deutlich und vollständig offenbart, dass ein Fachmann sie ausführen kann;
+c) der Gegenstand des europäischen Patents über den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung oder, wenn das Patent auf einer Teilanmeldung oder einer nach Artikel 61 eingereichten neuen Anmeldung beruht, über den Inhalt der früheren Anmeldung in der ursprünglich eingereichten Fassung hinausgeht.
+
+Hinweis: Abschließende Einspruchsgründe: mangelnde Patentierbarkeit ([Art. 52 bis 57 EPÜ](https://www.epo.org/de/legal/epc/2020/a52.html)), mangelnde Ausführbarkeit, unzulässige Erweiterung. Klarheit ([Art. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/a84.html)) ist kein Einspruchsgrund; geänderte Ansprüche werden auf Klarheit nur geprüft, soweit die Änderung sie aufwirft (G 3/14).
+
+In 3713 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 101 EPÜ](https://www.epo.org/de/legal/epc/2020/a101.html) (Prüfung des Einspruchs – Widerruf oder Aufrechterhaltung des europäischen Patents)?
+
+**A:** Prüfung des Einspruchs – Widerruf oder Aufrechterhaltung des europäischen Patents
+
+Ist der Einspruch zulässig, so prüft die Einspruchsabteilung nach Maßgabe der Ausführungsordnung, ob wenigstens ein Einspruchsgrund nach Artikel 100 der Aufrechterhaltung des europäischen Patents entgegensteht. Bei dieser Prüfung fordert die Einspruchsabteilung die Beteiligten so oft wie erforderlich auf, eine Stellungnahme zu ihren Bescheiden oder zu den Schriftsätzen anderer Beteiligter einzureichen.
+
+Hinweis: Prüfung des Einspruchs; Umfang durch den Einspruch begrenzt (G 9/91), neue Einspruchsgründe im Beschwerdeverfahren nur mit Zustimmung des Inhabers (G 10/91). Aufrechterhaltung in geändertem Umfang nach [R. 82 EPÜ](https://www.epo.org/de/legal/epc/2020/r82.html).
+
+In 277 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 105 EPÜ](https://www.epo.org/de/legal/epc/2020/a105.html) (Beitritt des vermeintlichen Patentverletzers)?
+
+**A:** Beitritt des vermeintlichen Patentverletzers
+
+Jeder Dritte kann nach Ablauf der Einspruchsfrist nach Maßgabe der Ausführungsordnung dem Einspruchsverfahren beitreten, wenn er nachweist, dass
+a) gegen ihn Klage wegen Verletzung dieses Patents erhoben worden ist oder
+b) er nach einer Aufforderung des Patentinhabers, eine angebliche Patentverletzung zu unterlassen, gegen diesen Klage auf Feststellung erhoben hat, dass er das Patent nicht verletze.
+
+Hinweis: Beitritt des vermeintlichen Patentverletzers binnen drei Monaten, nachdem die Verletzungsklage gegen ihn oder seine negative Feststellungsklage (nach einer Unterlassungsaufforderung) erhoben wurde ([R. 89 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r89.html)); auch im Beschwerdeverfahren, dort aber ohne eigene Beschwerdeführerstellung (G 2/24).
+
+In 70 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 105a EPÜ](https://www.epo.org/de/legal/epc/2020/a105a.html) (Antrag auf Beschränkung oder Widerruf)?
+
+**A:** Antrag auf Beschränkung oder Widerruf
+
+Auf Antrag des Patentinhabers kann das europäische Patent widerrufen oder durch Änderung der Patentansprüche beschränkt werden. Der Antrag ist beim Europäischen Patentamt nach Maßgabe der Ausführungsordnung zu stellen. Er gilt erst als gestellt, wenn die Beschränkungs- oder Widerrufsgebühr entrichtet worden ist.
+
+Hinweis: Beschränkung oder Widerruf auf Antrag des Inhabers jederzeit nach der Erteilung, aber nicht, solange ein Einspruch anhängig ist (Abs. 2); Gebühr, Antrag nach [R. 92 EPÜ](https://www.epo.org/de/legal/epc/2020/r92.html), Mängelbeseitigung [R. 94 EPÜ](https://www.epo.org/de/legal/epc/2020/r94.html).
+
+In 25 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 105b EPÜ](https://www.epo.org/de/legal/epc/2020/a105b.html) (Beschränkung oder Widerruf des europäischen Patents)?
+
+**A:** Beschränkung oder Widerruf des europäischen Patents
+
+Das Europäische Patentamt prüft, ob die in der Ausführungsordnung festgelegten Erfordernisse für eine Beschränkung oder den Widerruf des europäischen Patents erfüllt sind.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 105c EPÜ](https://www.epo.org/de/legal/epc/2020/a105c.html) (Veröffentlichung der geänderten europäischen Patentschrift)?
+
+**A:** Veröffentlichung der geänderten europäischen Patentschrift
+
+Ist das europäische Patent nach Artikel 105b Absatz 2 beschränkt worden, so veröffentlicht das Europäische Patentamt die geänderte europäische Patentschrift so bald wie möglich nach Bekanntmachung des Hinweises auf die Beschränkung im Europäischen Patentblatt.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 106 EPÜ](https://www.epo.org/de/legal/epc/2020/a106.html) (Beschwerdefähige Entscheidungen)?
+
+**A:** Beschwerdefähige Entscheidungen
+
+Die Entscheidungen der Eingangsstelle, der Prüfungsabteilungen, der Einspruchsabteilungen und der Rechtsabteilung sind mit der Beschwerde anfechtbar. Die Beschwerde hat aufschiebende Wirkung.
+
+In 143 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/a107.html) (Beschwerdeberechtigte und Verfahrensbeteiligte)?
+
+**A:** Beschwerdeberechtigte und Verfahrensbeteiligte
+
+Jeder Verfahrensbeteiligte, der durch eine Entscheidung beschwert ist, kann Beschwerde einlegen. Die übrigen Verfahrensbeteiligten sind am Beschwerdeverfahren beteiligt.
+
+In 215 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 108 EPÜ](https://www.epo.org/de/legal/epc/2020/a108.html) (Frist und Form)?
+
+**A:** Frist und Form
+
+Die Beschwerde ist nach Maßgabe der Ausführungsordnung innerhalb von zwei Monaten nach Zustellung der Entscheidung beim Europäischen Patentamt einzulegen. Die Beschwerde gilt erst als eingelegt, wenn die Beschwerdegebühr entrichtet worden ist. Innerhalb von vier Monaten nach Zustellung der Entscheidung ist die Beschwerde nach Maßgabe der Ausführungsordnung zu begründen.
+
+Hinweis: Beschwerde binnen zwei Monaten nach Zustellung der Entscheidung, Beschwerdegebühr in derselben Frist, Begründung binnen vier Monaten. Ohne fristgerechte Gebühr gilt die Beschwerde als nicht eingelegt (G 1/18). Frist nicht weiterbehandlungsfähig ([Art. 121 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html)).
+
+In 1541 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 109 EPÜ](https://www.epo.org/de/legal/epc/2020/a109.html) (Abhilfe)?
+
+**A:** Abhilfe
+
+Erachtet das Organ, dessen Entscheidung angefochten wird, die Beschwerde für zulässig und begründet, so hat es ihr abzuhelfen. Dies gilt nicht, wenn dem Beschwerdeführer ein anderer an dem Verfahren Beteiligter gegenübersteht.
+
+In 78 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 111 EPÜ](https://www.epo.org/de/legal/epc/2020/a111.html) (Entscheidung über die Beschwerde)?
+
+**A:** Entscheidung über die Beschwerde
+
+Nach der Prüfung, ob die Beschwerde begründet ist, entscheidet die Beschwerdekammer über die Beschwerde. Die Beschwerdekammer wird entweder im Rahmen der Zuständigkeit des Organs tätig, das die angefochtene Entscheidung erlassen hat, oder verweist die Angelegenheit zur weiteren Entscheidung an dieses Organ zurück.
+
+In 2428 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 112a EPÜ](https://www.epo.org/de/legal/epc/2020/a112a.html) (Antrag auf Überprüfung durch die Große Beschwerdekammer)?
+
+**A:** Antrag auf Überprüfung durch die Große Beschwerdekammer
+
+Jeder Beteiligte an einem Beschwerdeverfahren, der durch die Entscheidung einer Beschwerdekammer beschwert ist, kann einen Antrag auf Überprüfung der Entscheidung durch die Große Beschwerdekammer stellen.
+
+Hinweis: Überprüfungsantrag gegen Entscheidungen der Beschwerdekammern nur bei schwerwiegenden Verfahrensmängeln oder Straftaten; zwei Monate, Gebühr; der Antrag hat keine aufschiebende Wirkung ([Art. 112a Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a112a.html)).
+
+In 328 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 113 EPÜ](https://www.epo.org/de/legal/epc/2020/a113.html) (Rechtliches Gehör und Grundlage der Entscheidungen)?
+
+**A:** Rechtliches Gehör und Grundlage der Entscheidungen
+
+Entscheidungen des Europäischen Patentamts dürfen nur auf Gründe gestützt werden, zu denen die Beteiligten sich äußern konnten.
+
+In 1878 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 114 EPÜ](https://www.epo.org/de/legal/epc/2020/a114.html) (Ermittlung von Amts wegen)?
+
+**A:** Ermittlung von Amts wegen
+
+In Verfahren vor dem Europäischen Patentamt ermittelt das Europäische Patentamt den Sachverhalt von Amts wegen; es ist dabei weder auf das Vorbringen noch auf die Anträge der Beteiligten beschränkt.
+
+In 732 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html) (Einwendungen Dritter)?
+
+**A:** Einwendungen Dritter
+
+In Verfahren vor dem Europäischen Patentamt kann nach Veröffentlichung der europäischen Patentanmeldung jeder Dritte nach Maßgabe der Ausführungsordnung Einwendungen gegen die Patentierbarkeit der Erfindung erheben, die Gegenstand der Anmeldung oder des Patents ist. Der Dritte ist am Verfahren nicht beteiligt.
+
+Hinweis: Einwendungen Dritter: nach Veröffentlichung, schriftlich und begründet, ohne Gebühr; der Dritte wird nicht Beteiligter ([Art. 115 EPÜ](https://www.epo.org/de/legal/epc/2020/a115.html), [R. 114 EPÜ](https://www.epo.org/de/legal/epc/2020/r114.html)).
+
+In 55 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 120 EPÜ](https://www.epo.org/de/legal/epc/2020/a120.html) (Fristen)?
+
+**A:** Fristen
+
+In der Ausführungsordnung werden bestimmt:
+a) die Fristen, die in Verfahren vor dem Europäischen Patentamt einzuhalten und nicht bereits im Übereinkommen festgelegt sind;
+b) die Art der Berechnung der Fristen sowie die Voraussetzungen, unter denen Fristen verlängert werden können;
+c) die Mindest- und die Höchstdauer der vom Europäischen Patentamt zu bestimmenden Fristen.
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 121 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html) (Weiterbehandlung der europäischen Patentanmeldung)?
+
+**A:** Weiterbehandlung der europäischen Patentanmeldung
+
+Hat der Anmelder eine gegenüber dem Europäischen Patentamt einzuhaltende Frist versäumt, so kann er die Weiterbehandlung der europäischen Patentanmeldung beantragen.
+
+Hinweis: Weiterbehandlung ist der Standardbehelf bei versäumten Fristen gegenüber dem EPA: Antrag durch Gebührenzahlung binnen zwei Monaten nach der Mitteilung über den Rechtsverlust, versäumte Handlung nachholen ([R. 135 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)). Ausgeschlossen: Prioritätsfrist, Beschwerdefrist, Überprüfungsantrag und die Fristen in [R. 135 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html).
+
+In 27 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 122 EPÜ](https://www.epo.org/de/legal/epc/2020/a122.html) (Wiedereinsetzung in den vorigen Stand)?
+
+**A:** Wiedereinsetzung in den vorigen Stand
+
+Der Anmelder oder Patentinhaber, der trotz Beachtung aller nach den gegebenen Umständen gebotenen Sorgfalt verhindert worden ist, gegenüber dem Europäischen Patentamt eine Frist einzuhalten, wird auf Antrag wieder in den vorigen Stand eingesetzt, wenn die Versäumung dieser Frist zur unmittelbaren Folge hat, dass die europäische Patentanmeldung oder ein Antrag zurückgewiesen wird, die Anmeldung als zurückgenommen gilt, das europäische Patent widerrufen wird oder der Verlust eines sonstigen Rechts oder eines Rechtsmittels eintritt.
+
+Hinweis: Wiedereinsetzung nur bei Wahrung aller nach den Umständen gebotenen Sorgfalt; zwei Monate nach Wegfall des Hindernisses, spätestens ein Jahr nach Fristablauf ([R. 136 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html)); für die Prioritätsfrist zwei Monate nach deren Ablauf. Vorrang hat die Weiterbehandlung ([R. 136 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html)).
+
+In 205 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 123 EPÜ](https://www.epo.org/de/legal/epc/2020/a123.html) (Änderungen)?
+
+**A:** Änderungen
+
+Die europäische Patentanmeldung oder das europäische Patent kann im Verfahren vor dem Europäischen Patentamt nach Maßgabe der Ausführungsordnung geändert werden. In jedem Fall ist dem Anmelder zumindest einmal Gelegenheit zu geben, von sich aus die Anmeldung zu ändern.
+
+Hinweis: Abs. 2: keine Änderung über den Inhalt der ursprünglichen Anmeldung hinaus (Goldstandard: unmittelbar und eindeutig offenbart; Disclaimer nach G 1/03, G 2/10, G 1/16). Abs. 3: nach Erteilung keine Erweiterung des Schutzbereichs; Kollision beider Absätze (G 1/93).
+
+In 8668 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 125 EPÜ](https://www.epo.org/de/legal/epc/2020/a125.html) (Heranziehung allgemeiner Grundsätze)?
+
+**A:** Heranziehung allgemeiner Grundsätze
+
+Soweit dieses Übereinkommen Vorschriften über das Verfahren nicht enthält, berücksichtigt das Europäische Patentamt die in den Vertragsstaaten im Allgemeinen anerkannten Grundsätze des Verfahrensrechts.
+
+In 60 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 133 EPÜ](https://www.epo.org/de/legal/epc/2020/a133.html) (Allgemeine Grundsätze der Vertretung)?
+
+**A:** Allgemeine Grundsätze der Vertretung
+
+Vorbehaltlich des Absatzes 2 ist niemand verpflichtet, sich in den durch dieses Übereinkommen geschaffenen Verfahren durch einen zugelassenen Vertreter vertreten zu lassen.
+
+Hinweis: Vertretungszwang nur für Beteiligte ohne Wohnsitz oder Sitz in einem Vertragsstaat (Abs. 2), ausgenommen die Einreichung der Anmeldung; Beteiligte mit Sitz in einem Vertragsstaat können durch Angestellte mit Vollmacht handeln (Abs. 3). Vollmachten: [R. 152 EPÜ](https://www.epo.org/de/legal/epc/2020/r152.html).
+
+In 31 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/a134.html) (Vertretung vor dem Europäischen Patentamt)?
+
+**A:** Vertretung vor dem Europäischen Patentamt
+
+Die Vertretung natürlicher oder juristischer Personen in den durch dieses Übereinkommen geschaffenen Verfahren kann nur durch zugelassene Vertreter wahrgenommen werden, die in einer beim Europäischen Patentamt zu diesem Zweck geführten Liste eingetragen sind.
+
+In 26 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 138 EPÜ](https://www.epo.org/de/legal/epc/2020/a138.html) (Nichtigkeit europäischer Patente)?
+
+**A:** Nichtigkeit europäischer Patente
+
+Vorbehaltlich des Artikels 139 kann das europäische Patent mit Wirkung für einen Vertragsstaat nur für nichtig erklärt werden, wenn
+a) der Gegenstand des europäischen Patents nach den Artikeln 52 bis 57 nicht patentierbar ist;
+b) das europäische Patent die Erfindung nicht so deutlich und vollständig offenbart, dass ein Fachmann sie ausführen kann;
+c) der Gegenstand des europäischen Patents über den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung oder, wenn das Patent auf einer Teilanmeldung oder einer nach Artikel 61 eingereichten neuen Anmeldung beruht, über den Inhalt der früh …
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/a139.html) (Ältere Rechte und Rechte mit gleichem Anmelde- oder Prioritätstag)?
+
+**A:** Ältere Rechte und Rechte mit gleichem Anmelde- oder Prioritätstag
+
+In jedem benannten Vertragsstaat haben eine europäische Patentanmeldung und ein europäisches Patent gegenüber einer nationalen Patentanmeldung und einem nationalen Patent die gleiche Wirkung als älteres Recht wie eine nationale Patentanmeldung und ein nationales Patent.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 141 EPÜ](https://www.epo.org/de/legal/epc/2020/a141.html) (Jahresgebühren für das europäische Patent)?
+
+**A:** Jahresgebühren für das europäische Patent
+
+Jahresgebühren für das europäische Patent können nur für die Jahre erhoben werden, die sich an das in Artikel 86 Absatz 2 genannte Jahr anschließen.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 150 EPÜ](https://www.epo.org/de/legal/epc/2020/a150.html) (Anwendung des Vertrags über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens)?
+
+**A:** Anwendung des Vertrags über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens
+
+Der Vertrag über die internationale Zusammenarbeit auf dem Gebiet des Patentwesens vom 19. Juni 1970, im Folgenden PCT genannt, ist nach Maßgabe dieses Teils anzuwenden.
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 151 EPÜ](https://www.epo.org/de/legal/epc/2020/a151.html) (Das Europäische Patentamt als Anmeldeamt)?
+
+**A:** Das Europäische Patentamt als Anmeldeamt
+
+Das Europäische Patentamt wird nach Maßgabe der Ausführungsordnung als Anmeldeamt im Sinne des PCT tätig. Artikel 75 Absatz 2 ist anzuwenden.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 152 EPÜ](https://www.epo.org/de/legal/epc/2020/a152.html) (Das Europäische Patentamt als Internationale Recherchenbehörde oder als mit der internationalen vorläufigen Prüfung beauftragte Behörde)?
+
+**A:** Das Europäische Patentamt als Internationale Recherchenbehörde oder als mit der internationalen vorläufigen Prüfung beauftragte Behörde
+
+Das Europäische Patentamt wird nach Maßgabe einer zwischen der Organisation und dem Internationalen Büro der Weltorganisation für geistiges Eigentum geschlossenen Vereinbarung als Internationale Recherchenbehörde und als mit der internationalen vorläufigen Prüfung beauftragte Behörde im Sinne des PCT für Anmelder tätig, die entweder Staatsangehörige eines Vertragsstaats dieses Übereinkommens sind oder dort ihren Wohnsitz oder Sitz haben. Diese Vereinbarung kann vorsehen, dass das Europäische Patentamt auch für andere Anmelder tätig wird.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 153 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html) (Das Europäische Patentamt als Bestimmungsamt oder ausgewähltes Amt)?
+
+**A:** Das Europäische Patentamt als Bestimmungsamt oder ausgewähltes Amt
+
+Das Europäische Patentamt ist
+a) Bestimmungsamt für jeden in der internationalen Anmeldung bestimmten Vertragsstaat dieses Übereinkommens, für den der PCT in Kraft ist und für den der Anmelder ein europäisches Patent begehrt, und
+b) ausgewähltes Amt, wenn der Anmelder einen nach Buchstabe a bestimmten Staat ausgewählt hat.
+
+Hinweis: Euro-PCT: Das EPA ist Bestimmungsamt und ausgewähltes Amt. Eintritt in die europäische Phase binnen 31 Monaten ([R. 159 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html)); die internationale Anmeldung gilt als europäische Anmeldung, als Stand der Technik nach [Art. 54 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/a54.html) aber nur, wenn die Voraussetzungen des [Art. 153 Abs. 3](https://www.epo.org/de/legal/epc/2020/a153.html) oder 4 EPÜ und der [R. 165 EPÜ](https://www.epo.org/de/legal/epc/2020/r165.html) (Anmeldegebühr, gegebenenfalls Übersetzung) erfüllt sind ([Art. 153 Abs. 5 EPÜ](https://www.epo.org/de/legal/epc/2020/a153.html)).
+
+In 29 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 164 EPÜ](https://www.epo.org/de/legal/epc/2020/a164.html) (Ausführungsordnung und Protokolle)?
+
+**A:** Ausführungsordnung und Protokolle
+
+Die Ausführungsordnung, das Anerkennungsprotokoll, das Protokoll über Vorrechte und Immunitäten, das Zentralisierungsprotokoll, das Protokoll über die Auslegung des Artikels 69 sowie das Personalstandsprotokoll sind Bestandteile des Übereinkommens.
+
+In 14 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r3.html) (Sprache im schriftlichen Verfahren)?
+
+**A:** Sprache im schriftlichen Verfahren
+
+Im schriftlichen Verfahren vor dem Europäischen Patentamt kann jeder Beteiligte sich jeder Amtssprache des Europäischen Patentamts bedienen. Die in Artikel 14 Absatz 4 vorgesehene Übersetzung kann in jeder Amtssprache des Europäischen Patentamts eingereicht werden.
+
+In 11 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 6 EPÜ](https://www.epo.org/de/legal/epc/2020/r6.html) (Einreichung von Übersetzungen)?
+
+**A:** Einreichung von Übersetzungen
+
+Eine Übersetzung nach Artikel 14 Absatz 2 ist innerhalb von zwei Monaten nach Einreichung der europäischen Patentanmeldung einzureichen.
+
+Hinweis: Übersetzung einer Anmeldung in Nichtamtssprache binnen zwei Monaten (Abs. 1), keine Weiterbehandlung ([R. 135 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)). Die Gebührenermäßigung der früheren Abs. 3 und 4 steht heute in [R. 7a EPÜ](https://www.epo.org/de/legal/epc/2020/r7a.html) und [Art. 14 GebO](https://www.epo.org/de/legal/epc/2020/f14.html).
+
+In 26 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 7 EPÜ](https://www.epo.org/de/legal/epc/2020/r7.html) (Rechtliche Bedeutung der Übersetzung der europäischen Patentanmeldung)?
+
+**A:** Rechtliche Bedeutung der Übersetzung der europäischen Patentanmeldung
+
+Das Europäische Patentamt geht, soweit nicht der Gegenbeweis erbracht wird, für die Bestimmung, ob der Gegenstand der europäischen Patentanmeldung oder des europäischen Patents über den Inhalt der Anmeldung in der ursprünglich eingereichten Fassung hinausgeht, davon aus, dass die nach Artikel 14 Absatz 2 oder [Regel 40 Absatz 3](https://www.epo.org/de/legal/epc/2020/r40.html) eingereichte Übersetzung mit dem ursprünglichen Text der Anmeldung übereinstimmt.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 7a EPÜ](https://www.epo.org/de/legal/epc/2020/r7a.html) (Gebührenermäßigung)?
+
+**A:** Gebührenermäßigung
+
+Reicht eine in Artikel 14 Absatz 4 genannte Person eine europäische Patentanmeldung oder einen Prüfungsantrag in einer dort zugelassenen Sprache ein, so wird die Anmeldegebühr bzw. die Prüfungsgebühr nach Maßgabe der Gebührenordnung ermäßigt.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 7b EPÜ](https://www.epo.org/de/legal/epc/2020/r7b.html) (Erklärung des Anspruchs auf Gebührenermäßigung)?
+
+**A:** Erklärung des Anspruchs auf Gebührenermäßigung
+
+Ein Anmelder, der eine in [Regel 7a Absatz 1](https://www.epo.org/de/legal/epc/2020/r7a.html) oder 3 genannte Gebührenermäßigung in Anspruch nehmen möchte, muss spätestens zum Zeitpunkt der ersten ermäßigten Zahlung erklären, dass er eine Person im Sinne der [Regel 7a Absatz 2](https://www.epo.org/de/legal/epc/2020/r7a.html) oder 3 ist.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 14 EPÜ](https://www.epo.org/de/legal/epc/2020/r14.html) (Aussetzung des Verfahrens)?
+
+**A:** Aussetzung des Verfahrens
+
+Weist ein Dritter nach, dass er ein Verfahren gegen den Anmelder eingeleitet hat mit dem Ziel, eine Entscheidung im Sinne des Artikels 61 Absatz 1 zu erwirken, so wird das Erteilungsverfahren ausgesetzt, es sei denn, der Dritte erklärt dem Europäischen Patentamt gegenüber schriftlich seine Zustimmung zur Fortsetzung des Verfahrens. Diese Zustimmung ist unwiderruflich. Das Erteilungsverfahren wird jedoch nicht vor Veröffentlichung der europäischen Patentanmeldung ausgesetzt.
+
+In 38 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 15 EPÜ](https://www.epo.org/de/legal/epc/2020/r15.html) (Beschränkung von Zurücknahmen)?
+
+**A:** Beschränkung von Zurücknahmen
+
+Von dem Tag an, an dem ein Dritter nachweist, dass er ein nationales Verfahren nach [Regel 14 Absatz 1](https://www.epo.org/de/legal/epc/2020/r14.html) eingeleitet hat, bis zu dem Tag, an dem das Erteilungsverfahren fortgesetzt wird, darf weder die europäische Patentanmeldung noch die Benennung eines Vertragsstaats zurückgenommen werden.
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 16 EPÜ](https://www.epo.org/de/legal/epc/2020/r16.html) (Verfahren nach Artikel 61 Absatz 1)?
+
+**A:** Verfahren nach Artikel 61 Absatz 1
+
+Eine Person, die Anspruch auf Erteilung eines europäischen Patents hat, kann von den Rechtsbehelfen nach Artikel 61 Absatz 1 nur Gebrauch machen, wenn
+a) sie dies innerhalb von drei Monaten nach Eintritt der Rechtskraft der Entscheidung tut, mit der ihr Anspruch anerkannt wird, und
+b) das europäische Patent noch nicht erteilt worden ist.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 17 EPÜ](https://www.epo.org/de/legal/epc/2020/r17.html) (Einreichung einer neuen europäischen Patentanmeldung durch den Berechtigten)?
+
+**A:** Einreichung einer neuen europäischen Patentanmeldung durch den Berechtigten
+
+Reicht die Person, der durch rechtskräftige Entscheidung der Anspruch auf Erteilung des europäischen Patents zugesprochen worden ist, nach Artikel 61 Absatz 1 b) eine neue europäische Patentanmeldung ein, so gilt die ursprüngliche Anmeldung für die darin benannten Vertragsstaaten, in denen die Entscheidung ergangen oder anerkannt worden ist oder aufgrund des Anerkennungsprotokolls anzuerkennen ist, mit dem Tag der Einreichung der neuen Anmeldung als zurückgenommen.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 22 EPÜ](https://www.epo.org/de/legal/epc/2020/r22.html) (Eintragung von Rechtsübergängen)?
+
+**A:** Eintragung von Rechtsübergängen
+
+Der Rechtsübergang einer europäischen Patentanmeldung wird auf Antrag eines Beteiligten in das Europäische Patentregister eingetragen, wenn er durch Vorlage von Dokumenten nachgewiesen wird. [Regel 2 Absatz 2](https://www.epo.org/de/legal/epc/2020/r2.html) ist entsprechend auf die Unterschrift der Vertragsparteien anzuwenden.
+
+In 30 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 25 EPÜ](https://www.epo.org/de/legal/epc/2020/r25.html) (Ausstellungsbescheinigung)?
+
+**A:** Ausstellungsbescheinigung
+
+Der Anmelder muss innerhalb von vier Monaten nach Einreichung der europäischen Patentanmeldung die in Artikel 55 Absatz 2 genannte Bescheinigung einreichen, die
+a) während der Ausstellung von der Stelle erteilt wird, die für den Schutz des gewerblichen Eigentums auf dieser Ausstellung zuständig ist;
+b) bestätigt, dass die Erfindung dort tatsächlich ausgestellt worden ist;
+c) den Tag der Eröffnung der Ausstellung angibt sowie, wenn die Erfindung erst nach diesem Tag offenbart wurde, den Tag der erstmaligen Offenbarung; und
+d) als Anlage eine Darstellung der Erfindung umfasst, die mit einem Begl …
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 36 EPÜ](https://www.epo.org/de/legal/epc/2020/r36.html) (Europäische Teilanmeldungen)?
+
+**A:** Europäische Teilanmeldungen
+
+Der Anmelder kann eine Teilanmeldung zu jeder anhängigen früheren europäischen Patentanmeldung einreichen.
+
+Hinweis: Teilanmeldung zu jeder anhängigen früheren Anmeldung; in der Verfahrenssprache der Stammanmeldung oder deren Originalsprache mit Übersetzung binnen zwei Monaten (Abs. 2); Anmelde- und Recherchengebühr binnen eines Monats (Abs. 3); fällige Jahresgebühren binnen vier Monaten ohne Zuschlag ([R. 51 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html)).
+
+In 31 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 38 EPÜ](https://www.epo.org/de/legal/epc/2020/r38.html) (Anmeldegebühr und Recherchengebühr)?
+
+**A:** Anmeldegebühr und Recherchengebühr
+
+Die Anmeldegebühr und die Recherchengebühr sind innerhalb eines Monats nach Einreichung der europäischen Patentanmeldung zu entrichten.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 39 EPÜ](https://www.epo.org/de/legal/epc/2020/r39.html) (Benennungsgebühren und Fiktion der Zurücknahme)?
+
+**A:** Benennungsgebühren und Fiktion der Zurücknahme
+
+Die Benennungsgebühr ist innerhalb von sechs Monaten nach dem Tag zu entrichten, an dem im Europäischen Patentblatt auf die Veröffentlichung des europäischen Recherchenberichts hingewiesen worden ist.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 40 EPÜ](https://www.epo.org/de/legal/epc/2020/r40.html) (Anmeldetag)?
+
+**A:** Anmeldetag
+
+Der Anmeldetag einer europäischen Patentanmeldung ist der Tag, an dem die vom Anmelder eingereichten Unterlagen enthalten:
+a) einen Hinweis, dass ein europäisches Patent beantragt wird;
+b) Angaben, die es erlauben, die Identität des Anmelders festzustellen oder mit ihm Kontakt aufzunehmen;
+c) eine Beschreibung oder eine Bezugnahme auf eine früher eingereichte Anmeldung.
+
+Hinweis: Anmeldetag: Hinweis auf Patentantrag, Identität des Anmelders, Beschreibung oder Bezugnahme. Bei Bezugnahme beglaubigte Abschrift binnen zwei Monaten (Abs. 3).
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 50 EPÜ](https://www.epo.org/de/legal/epc/2020/r50.html) (Nachgereichte Unterlagen)?
+
+**A:** Nachgereichte Unterlagen
+
+Die Regeln 42, 43 und 47 bis 49 sind auf Schriftstücke, die die Unterlagen der europäischen Patentanmeldung ersetzen, anzuwenden. [Regel 49 Absatz 2](https://www.epo.org/de/legal/epc/2020/r49.html) ist ferner auf die in [Regel 71](https://www.epo.org/de/legal/epc/2020/r71.html) genannten Übersetzungen der Patentansprüche anzuwenden.
+
+In 20 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 51 EPÜ](https://www.epo.org/de/legal/epc/2020/r51.html) (Fälligkeit)?
+
+**A:** Fälligkeit
+
+Die Jahresgebühren für die europäische Patentanmeldung sind jeweils für das kommende Jahr am letzten Tag des Monats fällig, der durch seine Benennung dem Monat entspricht, in den der Anmeldetag für diese Anmeldung fällt. Die Jahresgebühr für das dritte Jahr kann frühestens sechs Monate vor ihrer Fälligkeit wirksam entrichtet werden. Alle anderen Jahresgebühren können frühestens drei Monate vor ihrer Fälligkeit wirksam entrichtet werden.
+
+Hinweis: Fälligkeit am letzten Tag des Monats; Zahlung mit Zuschlag binnen sechs Monaten nach Fälligkeit (Abs. 2). Keine Weiterbehandlung für die Frist nach Abs. 2 ([R. 135 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html)), aber Wiedereinsetzung.
+
+In 20 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 52 EPÜ](https://www.epo.org/de/legal/epc/2020/r52.html) (Prioritätserklärung)?
+
+**A:** Prioritätserklärung
+
+Die in Artikel 88 Absatz 1 genannte Prioritätserklärung besteht aus einer Erklärung über den Tag der früheren Anmeldung und den Vertragsstaat der Pariser Verbandsübereinkunft oder das Mitglied der Welthandelsorganisation, in dem oder für den sie eingereicht worden ist, sowie aus der Angabe des Aktenzeichens. Im Fall des Artikels 87 Absatz 5 ist Satz 1 entsprechend anzuwenden.
+
+In 6 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 53 EPÜ](https://www.epo.org/de/legal/epc/2020/r53.html) (Prioritätsunterlagen)?
+
+**A:** Prioritätsunterlagen
+
+Ein Anmelder, der eine Priorität in Anspruch nimmt, hat innerhalb von sechzehn Monaten nach dem frühesten Prioritätstag eine Abschrift der früheren Anmeldung einzureichen. Diese Abschrift und der Tag der Einreichung der früheren Anmeldung sind von der Behörde, bei der die Anmeldung eingereicht worden ist, zu beglaubigen.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 55 EPÜ](https://www.epo.org/de/legal/epc/2020/r55.html) (Eingangsprüfung)?
+
+**A:** Eingangsprüfung
+
+Ergibt die Prüfung nach Artikel 90 Absatz 1, dass die Anmeldung nicht den Erfordernissen der [Regel 40 Absatz 1](https://www.epo.org/de/legal/epc/2020/r40.html) a) oder c), Absatz 2 oder Absatz 3 Satz 1 genügt, so teilt das Europäische Patentamt dem Anmelder die Mängel mit und weist ihn darauf hin, dass die Anmeldung nicht als europäische Patentanmeldung behandelt wird, wenn diese Mängel nicht innerhalb von zwei Monaten beseitigt werden. Leistet der Anmelder dem Folge, so wird ihm der vom Amt zuerkannte Anmeldetag mitgeteilt.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 56 EPÜ](https://www.epo.org/de/legal/epc/2020/r56.html) (Fehlende Teile der Beschreibung oder fehlende Zeichnungen)?
+
+**A:** Fehlende Teile der Beschreibung oder fehlende Zeichnungen
+
+Ergibt die Prüfung nach Artikel 90 Absatz 1, dass Teile der Beschreibung oder Zeichnungen, auf die in der Beschreibung oder in den Patentansprüchen Bezug genommen wird, offensichtlich fehlen, so fordert das Europäische Patentamt den Anmelder auf, die fehlenden Teile innerhalb von zwei Monaten nachzureichen. Aus der Unterlassung einer solchen Aufforderung kann der Anmelder keine Ansprüche herleiten.
+
+Hinweis: Fehlende Teile oder Zeichnungen: Nachreichung binnen zwei Monaten; Neudatierung, außer die Teile sind vollständig in der Priorität enthalten (Abs. 3) – dann bleibt der Anmeldetag.
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 56a EPÜ](https://www.epo.org/de/legal/epc/2020/r56a.html) (Fälschlicherweise eingereichte Anmeldungsunterlagen oder Teile)?
+
+**A:** Fälschlicherweise eingereichte Anmeldungsunterlagen oder Teile
+
+Ergibt die Prüfung nach Artikel 90 Absatz 1, dass die Beschreibung, die Ansprüche oder die Zeichnungen oder Teile dieser Anmeldungsunterlagen offensichtlich fälschlicherweise eingereicht wurden, so fordert das Europäische Patentamt den Anmelder auf, die richtigen Anmeldungsunterlagen oder Teile innerhalb von zwei Monaten nachzureichen. Aus der Unterlassung einer solchen Aufforderung kann der Anmelder keine Ansprüche herleiten.
+
+Hinweis: Seit 1.11.2022: fälschlich eingereichte Anmeldungsunterlagen können durch richtige ersetzt werden; Neudatierung, außer die richtigen Unterlagen sind vollständig in der Priorität enthalten (Abs. 4).
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 57 EPÜ](https://www.epo.org/de/legal/epc/2020/r57.html) (Formalprüfung)?
+
+**A:** Formalprüfung
+
+Steht der Anmeldetag einer europäischen Patentanmeldung fest, so prüft das Europäische Patentamt nach Artikel 90 Absatz 3, ob
+a) eine nach Artikel 14 Absatz 2, [Regel 36 Absatz 2 Satz 2](https://www.epo.org/de/legal/epc/2020/r36.html) oder [Regel 40 Absatz 3 Satz 2](https://www.epo.org/de/legal/epc/2020/r40.html) erforderliche Übersetzung der Anmeldung rechtzeitig eingereicht worden ist;
+b) der Antrag auf Erteilung eines europäischen Patents den Erfordernissen der [Regel 41](https://www.epo.org/de/legal/epc/2020/r41.html) entspricht;
+c) die Anmeldung einen oder mehrere Patentansprüche nach Artikel 78 Absatz 1 c) oder eine Bezugnahme auf eine früher eingereichte Anmeldung nach [Regel 40](https://www.epo.org/de/legal/epc/2020/r40.html) Absätze 1 c), 2 und 3 enthält, die zum Ausdruck bringt,  …
+
+In 7 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 58 EPÜ](https://www.epo.org/de/legal/epc/2020/r58.html) (Beseitigung von Mängeln in den Anmeldungsunterlagen)?
+
+**A:** Beseitigung von Mängeln in den Anmeldungsunterlagen
+
+Entspricht die europäische Patentanmeldung nicht den Erfordernissen der [Regel 57](https://www.epo.org/de/legal/epc/2020/r57.html) a) bis d), h) und i), so teilt das Europäische Patentamt dies dem Anmelder mit und fordert ihn auf, die festgestellten Mängel innerhalb von zwei Monaten zu beseitigen. Die Beschreibung, die Patentansprüche und die Zeichnungen können nur insoweit geändert werden, als es erforderlich ist, um diese Mängel zu beseitigen.
+
+Hinweis: Mängelbeseitigung nach der Eingangsprüfung, insbesondere fehlende Ansprüche binnen zwei Monaten ([R. 58 EPÜ](https://www.epo.org/de/legal/epc/2020/r58.html)).
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 64 EPÜ](https://www.epo.org/de/legal/epc/2020/r64.html) (Europäischer Recherchenbericht bei mangelnder Einheitlichkeit)?
+
+**A:** Europäischer Recherchenbericht bei mangelnder Einheitlichkeit
+
+Entspricht die europäische Patentanmeldung nach Auffassung des Europäischen Patentamts nicht den Anforderungen an die Einheitlichkeit der Erfindung, so erstellt es einen teilweisen Recherchenbericht für die Teile der Anmeldung, die sich auf die in den Patentansprüchen zuerst erwähnte Erfindung oder Gruppe von Erfindungen im Sinne des Artikels 82 beziehen. Es teilt dem Anmelder mit, dass für jede weitere Erfindung innerhalb einer Frist von zwei Monaten eine weitere Recherchengebühr zu entrichten ist, wenn der europäische Recherchenbericht diese Erfindung erfassen soll. Der europäische Recherche …
+
+In 18 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 70 EPÜ](https://www.epo.org/de/legal/epc/2020/r70.html) (Prüfungsantrag)?
+
+**A:** Prüfungsantrag
+
+Der Anmelder kann bis zum Ablauf von sechs Monaten nach dem Tag, an dem im Europäischen Patentblatt auf die Veröffentlichung des europäischen Recherchenberichts hingewiesen worden ist, die Prüfung der europäischen Patentanmeldung beantragen. Der Antrag kann nicht zurückgenommen werden.
+
+Hinweis: Prüfungsantrag binnen sechs Monaten nach dem Hinweis auf die Veröffentlichung des europäischen Recherchenberichts; Aufrechterhaltungserklärung nach Abs. 2, Stellungnahme zum Recherchenbericht nach [R. 70a EPÜ](https://www.epo.org/de/legal/epc/2020/r70a.html).
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 70a EPÜ](https://www.epo.org/de/legal/epc/2020/r70a.html) (Erwiderung auf den erweiterten europäischen Recherchenbericht)?
+
+**A:** Erwiderung auf den erweiterten europäischen Recherchenbericht
+
+In der dem europäischen Recherchenbericht beiliegenden Stellungnahme gibt das Europäische Patentamt dem Anmelder Gelegenheit, zum erweiterten europäischen Recherchenbericht Stellung zu nehmen, und fordert ihn gegebenenfalls auf, innerhalb der in [Regel 70 Absatz 1](https://www.epo.org/de/legal/epc/2020/r70.html) genannten Frist die Mängel zu beseitigen, die in der dem europäischen Recherchenbericht beiliegenden Stellungnahme festgestellt wurden, und die Beschreibung, die Patentansprüche und die Zeichnungen zu ändern.
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 71 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html) (Prüfungsverfahren)?
+
+**A:** Prüfungsverfahren
+
+In den Mitteilungen nach Artikel 94 Absatz 3 fordert die Prüfungsabteilung den Anmelder gegebenenfalls auf, die festgestellten Mängel zu beseitigen und die Beschreibung, die Patentansprüche und die Zeichnungen innerhalb einer zu bestimmenden Frist zu ändern.
+
+Hinweis: [R. 71 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r71.html): Mitteilung der für die Erteilung vorgesehenen Fassung; vier Monate für Erteilungsgebühr und Übersetzung der Ansprüche (Einverständnis). Änderungen oder Berichtigungen innerhalb der Frist führen zu einem neuen Bescheid (Abs. 6). Versäumnis: Rücknahmefiktion (Abs. 7), Weiterbehandlung möglich.
+
+In 71 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 71a EPÜ](https://www.epo.org/de/legal/epc/2020/r71a.html) (Abschluss des Erteilungsverfahrens)?
+
+**A:** Abschluss des Erteilungsverfahrens
+
+Die Entscheidung über die Erteilung des europäischen Patents ergeht, wenn alle Gebühren entrichtet sind, eine Übersetzung der Patentansprüche in den beiden Amtssprachen des Europäischen Patentamts eingereicht ist, die nicht die Verfahrenssprache sind, und Einverständnis mit der für die Erteilung vorgesehenen Fassung besteht. In der Entscheidung ist die ihr zugrunde liegende Fassung der europäischen Patentanmeldung anzugeben.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 75 EPÜ](https://www.epo.org/de/legal/epc/2020/r75.html) (Verzicht oder Erlöschen des Patents)?
+
+**A:** Verzicht oder Erlöschen des Patents
+
+Einspruch kann auch eingelegt werden, wenn in allen benannten Vertragsstaaten auf das europäische Patent verzichtet worden ist oder das Patent in allen diesen Staaten erloschen ist.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 76 EPÜ](https://www.epo.org/de/legal/epc/2020/r76.html) (Form und Inhalt des Einspruchs)?
+
+**A:** Form und Inhalt des Einspruchs
+
+Der Einspruch ist schriftlich einzulegen und zu begründen.
+
+In 148 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 77 EPÜ](https://www.epo.org/de/legal/epc/2020/r77.html) (Verwerfung des Einspruchs als unzulässig)?
+
+**A:** Verwerfung des Einspruchs als unzulässig
+
+Stellt die Einspruchsabteilung fest, dass der Einspruch Artikel 99 Absatz 1 oder [Regel 76 Absatz 2](https://www.epo.org/de/legal/epc/2020/r76.html) c) nicht entspricht oder das europäische Patent, gegen das Einspruch eingelegt worden ist, nicht hinreichend bezeichnet ist, so verwirft sie den Einspruch als unzulässig, sofern die Mängel nicht bis zum Ablauf der Einspruchsfrist beseitigt worden sind.
+
+In 51 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 80 EPÜ](https://www.epo.org/de/legal/epc/2020/r80.html) (Änderung des europäischen Patents)?
+
+**A:** Änderung des europäischen Patents
+
+Unbeschadet der [Regel 138](https://www.epo.org/de/legal/epc/2020/r138.html) können die Beschreibung, die Patentansprüche und die Zeichnungen geändert werden, soweit die Änderungen durch einen Einspruchsgrund nach Artikel 100 veranlasst sind, auch wenn dieser vom Einsprechenden nicht geltend gemacht worden ist.
+
+In 375 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 82 EPÜ](https://www.epo.org/de/legal/epc/2020/r82.html) (Aufrechterhaltung des europäischen Patents in geändertem Umfang)?
+
+**A:** Aufrechterhaltung des europäischen Patents in geändertem Umfang
+
+Bevor die Einspruchsabteilung die Aufrechterhaltung des europäischen Patents in geändertem Umfang beschließt, teilt sie den Beteiligten mit, in welcher Fassung sie das Patent aufrechtzuerhalten beabsichtigt, und fordert sie auf, innerhalb von zwei Monaten Stellung zu nehmen, wenn sie mit dieser Fassung nicht einverstanden sind.
+
+In 15 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 84 EPÜ](https://www.epo.org/de/legal/epc/2020/r84.html) (Fortsetzung des Einspruchsverfahrens von Amts wegen)?
+
+**A:** Fortsetzung des Einspruchsverfahrens von Amts wegen
+
+Hat der Patentinhaber in allen benannten Vertragsstaaten auf das europäische Patent verzichtet oder ist das Patent in allen diesen Staaten erloschen, so kann das Einspruchsverfahren fortgesetzt werden, wenn der Einsprechende dies innerhalb von zwei Monaten nach einer Mitteilung des Europäischen Patentamts über den Verzicht oder das Erlöschen beantragt.
+
+In 241 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 85 EPÜ](https://www.epo.org/de/legal/epc/2020/r85.html) (Rechtsübergang des europäischen Patents)?
+
+**A:** Rechtsübergang des europäischen Patents
+
+[Regel 22](https://www.epo.org/de/legal/epc/2020/r22.html) ist auf einen Rechtsübergang des europäischen Patents während der Einspruchsfrist oder der Dauer des Einspruchsverfahrens anzuwenden.
+
+In 15 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 89 EPÜ](https://www.epo.org/de/legal/epc/2020/r89.html) (Beitritt des vermeintlichen Patentverletzers)?
+
+**A:** Beitritt des vermeintlichen Patentverletzers
+
+Der Beitritt ist innerhalb von drei Monaten nach dem Tag zu erklären, an dem eine der in Artikel 105 genannten Klagen erhoben worden ist.
+
+In 27 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 90 EPÜ](https://www.epo.org/de/legal/epc/2020/r90.html) (Gegenstand des Verfahrens)?
+
+**A:** Gegenstand des Verfahrens
+
+Gegenstand des Beschränkungs- oder Widerrufsverfahrens nach Artikel 105a ist das europäische Patent in der erteilten oder im Einspruchs- oder Beschränkungsverfahren vor dem Europäischen Patentamt geänderten Fassung.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 92 EPÜ](https://www.epo.org/de/legal/epc/2020/r92.html) (Antragserfordernisse)?
+
+**A:** Antragserfordernisse
+
+Der Antrag auf Beschränkung oder Widerruf eines europäischen Patents ist schriftlich in einer der Amtssprachen des Europäischen Patentamts zu stellen. Er kann auch in einer Amtssprache eines Vertragsstaats eingereicht werden, sofern innerhalb der in [Regel 6 Absatz 2](https://www.epo.org/de/legal/epc/2020/r6.html) genannten Frist eine Übersetzung in einer der Amtssprachen des Europäischen Patentamts vorgelegt wird. Die Vorschriften des Dritten Teils der Ausführungsordnung sind auf die im Beschränkungs- oder Widerrufsverfahren eingereichten Unterlagen entsprechend anzuwenden.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 93 EPÜ](https://www.epo.org/de/legal/epc/2020/r93.html) (Vorrang des Einspruchsverfahrens)?
+
+**A:** Vorrang des Einspruchsverfahrens
+
+Der Antrag auf Beschränkung oder Widerruf gilt als nicht eingereicht, wenn im Zeitpunkt der Antragstellung ein Einspruchsverfahren in Bezug auf das Patent anhängig ist.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 95 EPÜ](https://www.epo.org/de/legal/epc/2020/r95.html) (Entscheidung über den Antrag)?
+
+**A:** Entscheidung über den Antrag
+
+Ist ein Antrag auf Widerruf zulässig, so widerruft die Prüfungsabteilung das Patent und teilt dies dem Antragsteller mit.
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 99 EPÜ](https://www.epo.org/de/legal/epc/2020/r99.html) (Inhalt der Beschwerdeschrift und der Beschwerdebegründung)?
+
+**A:** Inhalt der Beschwerdeschrift und der Beschwerdebegründung
+
+Die Beschwerdeschrift muss enthalten:
+a) den Namen und die Anschrift des Beschwerdeführers nach Maßgabe der [Regel 41 Absatz 2](https://www.epo.org/de/legal/epc/2020/r41.html) c);
+b) die Angabe der angefochtenen Entscheidung und
+c) einen Antrag, in dem der Beschwerdegegenstand festgelegt wird.
+
+In 845 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 101 EPÜ](https://www.epo.org/de/legal/epc/2020/r101.html) (Verwerfung der Beschwerde als unzulässig)?
+
+**A:** Verwerfung der Beschwerde als unzulässig
+
+Entspricht die Beschwerde nicht den Artikeln 106 bis 108, [Regel 97](https://www.epo.org/de/legal/epc/2020/r97.html) oder [Regel 99 Absatz 1](https://www.epo.org/de/legal/epc/2020/r99.html) b) oder c) oder Absatz 2, so verwirft die Beschwerdekammer sie als unzulässig, sofern die Mängel nicht vor Ablauf der Fristen nach Artikel 108 beseitigt worden sind.
+
+In 1059 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 103 EPÜ](https://www.epo.org/de/legal/epc/2020/r103.html) (Rückzahlung der Beschwerdegebühr)?
+
+**A:** Rückzahlung der Beschwerdegebühr
+
+Die Beschwerdegebühr wird in voller Höhe zurückgezahlt, wenn
+a) der Beschwerde abgeholfen oder ihr durch die Beschwerdekammer stattgegeben wird und die Rückzahlung wegen eines wesentlichen Verfahrensmangels der Billigkeit entspricht oder
+b) die Beschwerde vor Einreichung der Beschwerdebegründung und vor Ablauf der Frist für deren Einreichung zurückgenommen wird.
+
+In 1227 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 104 EPÜ](https://www.epo.org/de/legal/epc/2020/r104.html) (Weitere schwerwiegende Verfahrensmängel)?
+
+**A:** Weitere schwerwiegende Verfahrensmängel
+
+Ein schwerwiegender Verfahrensmangel nach Artikel 112a Absatz 2 d) kann vorliegen, wenn die Beschwerdekammer
+a) entgegen Artikel 116 eine vom Antragsteller beantragte mündliche Verhandlung nicht anberaumt hat oder
+b) über die Beschwerde entschieden hat, ohne über einen hierfür relevanten Antrag zu entscheiden.
+
+In 96 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 106 EPÜ](https://www.epo.org/de/legal/epc/2020/r106.html) (Rügepflicht)?
+
+**A:** Rügepflicht
+
+Ein Antrag nach Artikel 112a Absatz 2 a) bis d) ist nur zulässig, wenn der Verfahrensmangel während des Beschwerdeverfahrens beanstandet wurde und die Beschwerdekammer den Einwand zurückgewiesen hat, es sei denn, der Einwand konnte im Beschwerdeverfahren nicht erhoben werden.
+
+In 358 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 107 EPÜ](https://www.epo.org/de/legal/epc/2020/r107.html) (Inhalt des Antrags auf Überprüfung)?
+
+**A:** Inhalt des Antrags auf Überprüfung
+
+Der Antrag muss enthalten:
+a) den Namen und die Anschrift des Antragstellers nach Maßgabe der [Regel 41 Absatz 2](https://www.epo.org/de/legal/epc/2020/r41.html) c);
+b) die Angabe der zu überprüfenden Entscheidung.
+
+In 90 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 112 EPÜ](https://www.epo.org/de/legal/epc/2020/r112.html) (Feststellung eines Rechtsverlusts)?
+
+**A:** Feststellung eines Rechtsverlusts
+
+Stellt das Europäische Patentamt fest, dass ein Rechtsverlust eingetreten ist, ohne dass eine Entscheidung über die Zurückweisung der europäischen Patentanmeldung, die Erteilung, den Widerruf oder die Aufrechterhaltung des europäischen Patents oder über die Beweisaufnahme ergangen ist, so teilt es dies dem betroffenen Beteiligten mit.
+
+Hinweis: Feststellung eines Rechtsverlusts; binnen zwei Monaten kann eine beschwerdefähige Entscheidung beantragt werden (Abs. 2). Die Mitteilung setzt die Frist der Weiterbehandlung in Gang.
+
+In 58 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 114 EPÜ](https://www.epo.org/de/legal/epc/2020/r114.html) (Einwendungen Dritter)?
+
+**A:** Einwendungen Dritter
+
+Einwendungen Dritter sind schriftlich in einer Amtssprache des Europäischen Patentamts einzureichen und zu begründen. [Regel 3 Absatz 3](https://www.epo.org/de/legal/epc/2020/r3.html) ist anzuwenden.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 126 EPÜ](https://www.epo.org/de/legal/epc/2020/r126.html) (Zustellung durch Postdienste)?
+
+**A:** Zustellung durch Postdienste
+
+Alle Zustellungen durch Postdienste erfolgen mittels eingeschriebenen Briefs.
+
+Hinweis: Seit 1.11.2023 keine Zehn-Tage-Fiktion mehr: Das Schriftstück gilt als an dem Tag zugestellt, auf den es datiert ist, es sei denn, es ist nicht zugegangen. Weist das EPA einen Zugang mehr als sieben Tage nach dem Datum nach, verlängert sich die Frist um die überschießenden Tage (Abs. 2). Entsprechend für elektronische Zustellungen ([R. 127 Abs. 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r127.html)).
+
+In 173 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 127 EPÜ](https://www.epo.org/de/legal/epc/2020/r127.html) (Zustellung durch Einrichtungen zur elektronischen Nachrichtenübermittlung)?
+
+**A:** Zustellung durch Einrichtungen zur elektronischen Nachrichtenübermittlung
+
+Die Zustellung kann durch Einrichtungen zur elektronischen Nachrichtenübermittlung bewirkt werden, die der Präsident des Europäischen Patentamts unter Festlegung der Bedingungen für ihre Benutzung bestimmt.
+
+In 13 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 130 EPÜ](https://www.epo.org/de/legal/epc/2020/r130.html) (Zustellung an Vertreter)?
+
+**A:** Zustellung an Vertreter
+
+Ist ein Vertreter bestellt worden, so werden die Zustellungen an den Vertreter gerichtet.
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 131 EPÜ](https://www.epo.org/de/legal/epc/2020/r131.html) (Berechnung der Fristen)?
+
+**A:** Berechnung der Fristen
+
+Die Fristen werden nach vollen Tagen, Wochen, Monaten oder Jahren berechnet.
+
+Hinweis: Fristberechnung: Monatsfristen enden am Tag des späteren Monats mit derselben Zahl wie das auslösende Ereignis; fehlt dieser Tag, am letzten Tag des Monats (Abs. 4).
+
+In 39 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 132 EPÜ](https://www.epo.org/de/legal/epc/2020/r132.html) (Vom Europäischen Patentamt bestimmte Fristen)?
+
+**A:** Vom Europäischen Patentamt bestimmte Fristen
+
+Nimmt das Übereinkommen oder diese Ausführungsordnung auf eine "zu bestimmende Frist" Bezug, so wird diese Frist vom Europäischen Patentamt bestimmt.
+
+In 13 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 134 EPÜ](https://www.epo.org/de/legal/epc/2020/r134.html) (Verlängerung von Fristen)?
+
+**A:** Verlängerung von Fristen
+
+Läuft eine Frist an einem Tag ab, an dem eine der Annahmestellen des Europäischen Patentamts nach [Regel 35 Absatz 1](https://www.epo.org/de/legal/epc/2020/r35.html) zur Entgegennahme von Schriftstücken nicht geöffnet ist oder an dem die Post aus anderen als den in Absatz 2 genannten Gründen dort nicht zugestellt wird, so erstreckt sich die Frist auf den nächstfolgenden Tag, an dem alle Annahmestellen zur Entgegennahme von Schriftstücken geöffnet sind und an dem die Post zugestellt wird. Satz 1 ist entsprechend anzuwenden, wenn Schriftstücke, die durch vom Präsidenten des Europäischen Patentamts gemäß [Regel 2 Absatz 1](https://www.epo.org/de/legal/epc/2020/r2.html) zugelassene Einrichtunge …
+
+Hinweis: Fristverlängerung, wenn eine Annahmestelle des EPA am Fristende geschlossen ist oder die Post allgemein unterbrochen ist (Abs. 1, 2); Abs. 5: Nachweis bei Störungen des Postverkehrs.
+
+In 33 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 135 EPÜ](https://www.epo.org/de/legal/epc/2020/r135.html) (Weiterbehandlung)?
+
+**A:** Weiterbehandlung
+
+Der Antrag auf Weiterbehandlung nach Artikel 121 Absatz 1 ist durch Entrichtung der vorgeschriebenen Gebühr innerhalb von zwei Monaten nach der Mitteilung über die Fristversäumung oder einen Rechtsverlust zu stellen. Die versäumte Handlung ist innerhalb der Antragsfrist nachzuholen.
+
+Hinweis: Antrag durch Zahlung der Weiterbehandlungsgebühr binnen zwei Monaten nach der Mitteilung, versäumte Handlung in derselben Frist nachholen. Ausgeschlossen (Abs. 2): die Fristen des [Art. 121 Abs. 4 EPÜ](https://www.epo.org/de/legal/epc/2020/a121.html) sowie u. a. [R. 6 Abs. 1](https://www.epo.org/de/legal/epc/2020/r6.html), [R. 36 Abs. 2](https://www.epo.org/de/legal/epc/2020/r36.html), [R. 40 Abs. 3](https://www.epo.org/de/legal/epc/2020/r40.html), [R. 51 Abs. 2 bis 5](https://www.epo.org/de/legal/epc/2020/r51.html), [R. 52 Abs. 2 und 3](https://www.epo.org/de/legal/epc/2020/r52.html), [R. 55](https://www.epo.org/de/legal/epc/2020/r55.html), [R. 56](https://www.epo.org/de/legal/epc/2020/r56.html), [R. 58](https://www.epo.org/de/legal/epc/2020/r58.html), [R. 64](https://www.epo.org/de/legal/epc/2020/r64.html), [R. 112 Abs. 2](https://www.epo.org/de/legal/epc/2020/r112.html) und [R. 164 Abs. 1 und 2 EPÜ](https://www.epo.org/de/legal/epc/2020/r164.html) – dort hilft nur die Wiedereinsetzung.
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 136 EPÜ](https://www.epo.org/de/legal/epc/2020/r136.html) (Wiedereinsetzung)?
+
+**A:** Wiedereinsetzung
+
+Der Antrag auf Wiedereinsetzung nach Artikel 122 Absatz 1 ist innerhalb von zwei Monaten nach Wegfall des Hindernisses, spätestens jedoch innerhalb eines Jahres nach Ablauf der versäumten Frist schriftlich zu stellen. Wird Wiedereinsetzung in eine der Fristen nach Artikel 87 Absatz 1 und Artikel 112a Absatz 4 beantragt, so ist der Antrag innerhalb von zwei Monaten nach Ablauf dieser Frist zu stellen. Der Antrag auf Wiedereinsetzung gilt erst als gestellt, wenn die vorgeschriebene Gebühr entrichtet worden ist.
+
+Hinweis: Wiedereinsetzungsantrag schriftlich und begründet, Gebühr, versäumte Handlung nachholen (Abs. 2); ausgeschlossen sind Fristen, für die Weiterbehandlung möglich ist, und die Wiedereinsetzungsfrist selbst (Abs. 3).
+
+In 144 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 137 EPÜ](https://www.epo.org/de/legal/epc/2020/r137.html) (Änderung der europäischen Patentanmeldung)?
+
+**A:** Änderung der europäischen Patentanmeldung
+
+Vor Erhalt des europäischen Recherchenberichts darf der Anmelder die Beschreibung, die Patentansprüche oder die Zeichnungen der europäischen Patentanmeldung nicht ändern, sofern nichts anderes bestimmt ist.
+
+Hinweis: Änderungen vor Erhalt des Recherchenberichts nur unter [R. 137 Abs. 1 EPÜ](https://www.epo.org/de/legal/epc/2020/r137.html), danach einmal mit Erwiderung auf den Recherchenbericht ([R. 161](https://www.epo.org/de/legal/epc/2020/r161.html), [R. 70a EPÜ](https://www.epo.org/de/legal/epc/2020/r70a.html)) aus eigenem Antrieb, später nur mit Zustimmung (Abs. 3); keine Ansprüche auf nicht recherchierte Gegenstände (Abs. 5).
+
+In 190 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 138 EPÜ](https://www.epo.org/de/legal/epc/2020/r138.html) (Unterschiedliche Patentansprüche, Beschreibungen und Zeichnungen für verschiedene Staaten)?
+
+**A:** Unterschiedliche Patentansprüche, Beschreibungen und Zeichnungen für verschiedene Staaten
+
+Wird dem Europäischen Patentamt das Bestehen eines älteren Rechts nach Artikel 139 Absatz 2 mitgeteilt, so kann die europäische Patentanmeldung oder das europäische Patent für diesen Staat oder diese Staaten unterschiedliche Patentansprüche und gegebenenfalls unterschiedliche Beschreibungen und Zeichnungen enthalten.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 139 EPÜ](https://www.epo.org/de/legal/epc/2020/r139.html) (Berichtigung von Mängeln in den beim Europäischen Patentamt eingereichten Unterlagen)?
+
+**A:** Berichtigung von Mängeln in den beim Europäischen Patentamt eingereichten Unterlagen
+
+Sprachliche Fehler, Schreibfehler und Unrichtigkeiten in den beim Europäischen Patentamt eingereichten Unterlagen können auf Antrag berichtigt werden. Betrifft der Antrag auf Berichtigung jedoch die Beschreibung, die Patentansprüche oder die Zeichnungen, so muss die Berichtigung derart offensichtlich sein, dass sofort erkennbar ist, dass nichts anderes beabsichtigt sein konnte als das, was als Berichtigung vorgeschlagen wird.
+
+Hinweis: Berichtigung sprachlicher Fehler, Schreibfehler und Unrichtigkeiten; in Beschreibung, Ansprüchen und Zeichnungen nur, wenn die Berichtigung offensichtlich ist (G 3/89, G 11/91). Berichtigung der Prioritätserklärung nach [R. 52 Abs. 3 EPÜ](https://www.epo.org/de/legal/epc/2020/r52.html).
+
+In 240 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 140 EPÜ](https://www.epo.org/de/legal/epc/2020/r140.html) (Berichtigung von Fehlern in Entscheidungen)?
+
+**A:** Berichtigung von Fehlern in Entscheidungen
+
+In Entscheidungen des Europäischen Patentamts können nur sprachliche Fehler, Schreibfehler und offenbare Unrichtigkeiten berichtigt werden.
+
+In 53 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 151 EPÜ](https://www.epo.org/de/legal/epc/2020/r151.html) (Bestellung eines gemeinsamen Vertreters)?
+
+**A:** Bestellung eines gemeinsamen Vertreters
+
+Wird eine europäische Patentanmeldung von mehreren Personen eingereicht und ist im Antrag auf Erteilung eines europäischen Patents kein gemeinsamer Vertreter bezeichnet, so gilt der Anmelder, der im Antrag als Erster genannt ist, als gemeinsamer Vertreter. Ist einer der Anmelder jedoch verpflichtet, einen zugelassenen Vertreter zu bestellen, so gilt dieser Vertreter als gemeinsamer Vertreter, sofern nicht der im Antrag als Erster genannte Anmelder einen zugelassenen Vertreter bestellt hat. Entsprechendes gilt für gemeinsame Patentinhaber und mehrere Personen, die gemeinsam Einspruch einlegen o …
+
+Hinweis: Ohne Bezeichnung gilt der im Antrag erstgenannte Anmelder als gemeinsamer Vertreter; muss einer der Anmelder einen zugelassenen Vertreter bestellen, ist dieser gemeinsamer Vertreter, sofern nicht der Erstgenannte selbst einen bestellt hat (Abs. 1). Gilt ebenso für gemeinsame Einsprechende und Inhaber.
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 152 EPÜ](https://www.epo.org/de/legal/epc/2020/r152.html) (Vollmacht)?
+
+**A:** Vollmacht
+
+Der Präsident des Europäischen Patentamts bestimmt, in welchen Fällen die Vertreter vor dem Europäischen Patentamt eine unterzeichnete Vollmacht einzureichen haben.
+
+In 32 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 157 EPÜ](https://www.epo.org/de/legal/epc/2020/r157.html) (Das Europäische Patentamt als Anmeldeamt)?
+
+**A:** Das Europäische Patentamt als Anmeldeamt
+
+Das Europäische Patentamt ist als Anmeldeamt im Sinne des PCT zuständig, wenn der Anmelder Staatsangehöriger eines Vertragsstaats dieses Übereinkommens und des PCT ist oder dort seinen Wohnsitz oder Sitz hat. Wählt der Anmelder das Europäische Patentamt als Anmeldeamt, so ist die internationale Anmeldung unbeschadet des Absatzes 3 unmittelbar beim Europäischen Patentamt einzureichen. Artikel 75 Absatz 2 ist entsprechend anzuwenden.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 159 EPÜ](https://www.epo.org/de/legal/epc/2020/r159.html) (Das Europäische Patentamt als Bestimmungsamt oder ausgewähltes Amt – Erfordernisse für den Eintritt in die europäische Phase)?
+
+**A:** Das Europäische Patentamt als Bestimmungsamt oder ausgewähltes Amt – Erfordernisse für den Eintritt in die europäische Phase
+
+Für eine internationale Anmeldung nach Artikel 153 hat der Anmelder innerhalb von einunddreißig Monaten nach dem Anmeldetag oder, wenn eine Priorität in Anspruch genommen worden ist, nach dem Prioritätstag die folgenden Handlungen vorzunehmen:
+a) die gegebenenfalls nach Artikel 153 Absatz 4 erforderliche Übersetzung der internationalen Anmeldung einzureichen;
+b) die Anmeldungsunterlagen anzugeben, die dem europäischen Erteilungsverfahren in der ursprünglich eingereichten oder in geänderter Fassung zugrunde zu legen sind;
+c) die Anmeldegebühr nach Artikel 78 Absatz 2 zu entrichten;
+d) die Benen …
+
+Hinweis: 31 Monate ab Anmelde- bzw. Prioritätstag für Übersetzung, Angabe der Unterlagen, Anmeldegebühr, Benennungs- und Recherchengebühr, Prüfungsantrag und ggf. Jahresgebühr. Versäumnis: Rücknahmefiktion ([R. 160 EPÜ](https://www.epo.org/de/legal/epc/2020/r160.html)), Weiterbehandlung.
+
+In 9 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 160 EPÜ](https://www.epo.org/de/legal/epc/2020/r160.html) (Folgen der Nichterfüllung bestimmter Erfordernisse und Fiktion der Zurücknahme)?
+
+**A:** Folgen der Nichterfüllung bestimmter Erfordernisse und Fiktion der Zurücknahme
+
+Wird die Übersetzung der internationalen Anmeldung nicht rechtzeitig eingereicht oder der Prüfungsantrag nicht rechtzeitig gestellt oder wird die Anmeldegebühr, die Recherchengebühr oder die Benennungsgebühr nicht rechtzeitig entrichtet, so gilt die europäische Patentanmeldung als zurückgenommen.
+
+In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 161 EPÜ](https://www.epo.org/de/legal/epc/2020/r161.html) (Änderung der Anmeldung)?
+
+**A:** Änderung der Anmeldung
+
+Ist das Europäische Patentamt für eine Euro-PCT-Anmeldung als Internationale Recherchenbehörde und, wenn ein Antrag nach Artikel 31 PCT gestellt wurde, auch als mit der internationalen vorläufigen Prüfung beauftragte Behörde tätig gewesen, so gibt es dem Anmelder Gelegenheit, zum schriftlichen Bescheid der Internationalen Recherchenbehörde oder zum internationalen vorläufigen Prüfungsbericht Stellung zu nehmen, und fordert ihn gegebenenfalls auf, innerhalb von sechs Monaten nach der entsprechenden Mitteilung die im schriftlichen Bescheid oder im internationalen vorläufigen Prüfungsbericht fest …
+
+Hinweis: Nach Eintritt: Aufforderung zur Stellungnahme oder Änderung binnen sechs Monaten (Abs. 1), Änderungen vor der ergänzenden Recherche (Abs. 2).
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 162 EPÜ](https://www.epo.org/de/legal/epc/2020/r162.html) (Gebührenpflichtige Patentansprüche)?
+
+**A:** Gebührenpflichtige Patentansprüche
+
+Enthalten die Anmeldungsunterlagen, die dem europäischen Erteilungsverfahren zugrunde zu legen sind, mehr als fünfzehn Ansprüche, so sind für den sechzehnten und jeden weiteren Anspruch innerhalb der Frist nach [Regel 159 Absatz 1](https://www.epo.org/de/legal/epc/2020/r159.html) Anspruchsgebühren nach Maßgabe der Gebührenordnung zu entrichten.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 164 EPÜ](https://www.epo.org/de/legal/epc/2020/r164.html) (Einheitlichkeit der Erfindung und weitere Recherchen)?
+
+**A:** Einheitlichkeit der Erfindung und weitere Recherchen
+
+Ist das Europäische Patentamt der Auffassung, dass die Anmeldungsunterlagen, die der ergänzenden europäischen Recherche zugrunde zu legen sind, den Anforderungen an die Einheitlichkeit der Erfindung nicht entsprechen, so
+a) erstellt es einen teilweisen ergänzenden Recherchenbericht für die Teile der Anmeldung, die sich auf die zuerst in den Patentansprüchen erwähnte Erfindung oder Gruppe von Erfindungen im Sinne des Artikels 82 beziehen,
+b) teilt es dem Anmelder mit, dass für jede weitere Erfindung innerhalb einer Frist von zwei Monaten eine weitere Recherchengebühr zu entrichten ist, wenn der …
+
+Hinweis: Uneinheitlichkeit in der europäischen Phase: ergänzende Recherche nur der ersten Erfindung, weitere Recherchengebühren nach Abs. 1; bei EPA als ISA oder SISA: Recherche nicht recherchierter Erfindungen in der Prüfung gegen Gebühr (Abs. 2).
+
+In 18 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [R. 165 EPÜ](https://www.epo.org/de/legal/epc/2020/r165.html) (Die Euro-PCT-Anmeldung als kollidierende Anmeldung nach Artikel 54 Absatz 3)?
+
+**A:** Die Euro-PCT-Anmeldung als kollidierende Anmeldung nach Artikel 54 Absatz 3
+
+Eine Euro-PCT-Anmeldung gilt als Stand der Technik nach Artikel 54 Absatz 3, wenn die in Artikel 153 Absatz 3 oder 4 festgelegten Voraussetzungen erfüllt sind und die Anmeldegebühr nach [Regel 159 Absatz 1](https://www.epo.org/de/legal/epc/2020/r159.html) c) entrichtet worden ist.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
 
 ---

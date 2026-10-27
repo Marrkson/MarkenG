@@ -49,14 +49,15 @@ from knowledge import markenrl, durchsetzungsrl  # noqa: E402
 from knowledge import upc  # noqa: E402  (zweites Wissenspaket: EPGÜ, VerfO, EPG-Entscheidungen)
 from knowledge import patent  # noqa: E402  (drittes Wissenspaket: PatG, PatV, IntPatÜG, PatKostG, BPatG-/BGH-Rechtsprechung)
 from knowledge import design  # noqa: E402  (viertes Wissenspaket: DesignG, DesignV, DesignRL, GGV, Design-Rechtsprechung)
-from knowledge.gesetze import EU_NORM_KEYS, DE_NORM_KEYS, RULE_HEADS  # noqa: E402
+from knowledge import epc  # noqa: E402  (fünftes Wissenspaket: EPÜ und Ausführungsordnung, Beschwerdekammern, Richtlinien, Amtsblatt)
+from knowledge.gesetze import EU_NORM_KEYS, DE_NORM_KEYS, RULE_HEADS, RULE_NORM_KEYS  # noqa: E402
 
 # Alle Wissenspakete in einem Graphen; IDs des UPC-Pakets sind mit upc_ / d_upc_, die des Patentpakets mit pat_ / d_pat_,
-# die des Designpakets mit des_ / d_des_ präfixiert.
-CASES = CASES + upc.CASES + patent.CASES + design.CASES
-CONCEPTS = CONCEPTS + upc.CONCEPTS + patent.CONCEPTS + design.CONCEPTS
-DISTINCTIONS = DISTINCTIONS + upc.DISTINCTIONS + patent.DISTINCTIONS + design.DISTINCTIONS
-SCHEMATA = SCHEMATA + upc.SCHEMATA + patent.SCHEMATA + design.SCHEMATA
+# die des Designpakets mit des_ / d_des_, die des EPÜ-Pakets mit epc_ / d_epc_ präfixiert.
+CASES = CASES + upc.CASES + patent.CASES + design.CASES + epc.CASES
+CONCEPTS = CONCEPTS + upc.CONCEPTS + patent.CONCEPTS + design.CONCEPTS + epc.CONCEPTS
+DISTINCTIONS = DISTINCTIONS + upc.DISTINCTIONS + patent.DISTINCTIONS + design.DISTINCTIONS + epc.DISTINCTIONS
+SCHEMATA = SCHEMATA + upc.SCHEMATA + patent.SCHEMATA + design.SCHEMATA + epc.SCHEMATA
 
 STATUTE = ROOT / "data" / "markeng.json"
 OUT = ROOT / "graph" / "markenrecht_graph.json"
@@ -84,13 +85,19 @@ RICHTLINIEN = [
     # die Verordnung über Unionsgeschmacksmuster (Zitierform Art. 5 DesignRL, Art. 19 DesignRL 2024, Art. 8 GGV)
     *design.gesetze_texte.FAMILIEN,
     *design.eurecht.FAMILIEN,
+    # EPÜ: Artikel (Familie epc, Zitierform Art. 54 Abs. 3 EPÜ) und Regeln der Ausführungsordnung (epcr, R. 71 Abs. 3 EPÜ), beide mit Kürzel EPÜ
+    *epc.texte.FAMILIEN,
 ]
-RL_BY_KURZ = {r["kurz"]: r["key"] for r in RICHTLINIEN}
-RL_BY_KURZ.update({k: v for k, v in EU_NORM_KEYS.items() if v in {r["key"] for r in RICHTLINIEN}})
 RL_ZITAT = {r["key"]: r.get("zitat", "Art.") for r in RICHTLINIEN}
+# Kürzel -> Familie, getrennt nach Zitatkopf: Artikel und Regeln dürfen dasselbe Kürzel tragen (EPÜ: epc und epcr)
+RL_BY_KURZ = {r["kurz"]: r["key"] for r in RICHTLINIEN if RL_ZITAT[r["key"]] == "Art."}
+RL_BY_KURZ.update({k: v for k, v in EU_NORM_KEYS.items() if v in RL_ZITAT and RL_ZITAT[v] == "Art."})
+RULE_BY_KURZ = {r["kurz"]: r["key"] for r in RICHTLINIEN if RL_ZITAT[r["key"]] == "R."}
+RULE_BY_KURZ.update({k: v for k, v in EU_NORM_KEYS.items() if v in RL_ZITAT and RL_ZITAT[v] == "R."})
+RULE_BY_KURZ.update({k: v for k, v in RULE_NORM_KEYS.items() if v in RL_ZITAT})
 _DE_KEYS = {k: v for k, v in DE_NORM_KEYS.items() if v in {r["key"] for r in RICHTLINIEN}}
-_ART_KEYS = [k for k, v in RL_BY_KURZ.items() if RL_ZITAT[v] == "Art." and k not in _DE_KEYS]
-_RULE_KEYS = [k for k, v in RL_BY_KURZ.items() if RL_ZITAT[v] == "R."]
+_ART_KEYS = [k for k in RL_BY_KURZ if k not in _DE_KEYS]
+_RULE_KEYS = list(RULE_BY_KURZ)
 
 NORM_RE = re.compile(r"§ (\d+[a-z]?)")
 EUNORM_RE = re.compile(r"Art\. (\d+[a-z]?)(?: .*)? (" + "|".join(_ART_KEYS) + r")$")
@@ -119,7 +126,8 @@ def norm_id(ref: str) -> str:
         return f"eunorm:{RL_BY_KURZ[m.group(2)]}:{m.group(1)}"
     m = RULE_RE.match(ref)
     if m:
-        return f"eunorm:{RL_BY_KURZ[m.group(2)]}:{m.group(1).upper()}"
+        key = RULE_BY_KURZ[m.group(2)]
+        return f"eunorm:{key}:{m.group(1) if key in RULE_NORM_KEYS.values() else m.group(1).upper()}"   # EPÜ: R. 56a, VerfO: R. 262A
     m = NORM_RE.match(ref)
     if not m:
         raise ValueError(ref)
@@ -162,6 +170,7 @@ def build(write=True, unknown=None):
     zitiert_pat = patent.entscheidungen.zitierungen()
     zitiert_des = design.entscheidungen.zitierungen()
     zitiert_arb = patent.arbnerfg_entscheidungen.zitierungen()
+    zitiert_epa = epc.entscheidungen.zitierungen()
     for rl in RICHTLINIEN:
         zitat = rl.get("zitat", "Art.")
         common = dict(type="eunorm", rl=rl["key"], kurz=rl["kurz"], gesetz=rl["gesetz"], url=rl["url"], url_pdf=rl["url_pdf"], paraphrase=rl["paraphrase"], zitat=zitat)
@@ -172,7 +181,7 @@ def build(write=True, unknown=None):
             node = dict(id=nid, label=a.get("label") or f"{zitat} {a['nr']} {rl['kurz']}", titel=a["titel"],
                         nummer=a["nr"], kapitel=a["kapitel"], abschnitt=a["abschnitt"], absaetze=a["absaetze"], hinweis=a["hinweis"],
                         umsetzung_weitere=a.get("umsetzung_weitere", {}), **common)
-            for extra in ("titel_en", "url_en", "order", "kommentar"):  # englischer Wortlaut nur per Link (url_en), sonst verdoppelt sich die App-Größe
+            for extra in ("titel_en", "url_en", "order", "kommentar", "gl", "gl_n", "oj", "oj_n", "eqe", "grosse_kammer", "amtsblatt", "gestrichen"):  # englischer Wortlaut nur per Link (url_en), sonst verdoppelt sich die App-Größe
                 if a.get(extra):
                     node[extra] = a[extra]
             if a.get("url"):
@@ -185,6 +194,8 @@ def build(write=True, unknown=None):
                 node["zitiert"] = zitiert_des.get(nid, 0)
             if rl.get("korpus") == "arbnerfg":
                 node["zitiert"] = zitiert_arb.get(nid, 0)
+            if rl.get("korpus") == "epa":
+                node["zitiert"] = zitiert_epa.get(nid, 0)
             add_node(node)
         if rl["erwaegungsgruende"]:
             add_node(dict(id=f"eunorm:{rl['key']}:erwaegungsgruende", label=("Präambel " if zitat == "R." else "Erwägungsgründe ") + rl["kurz"],
@@ -258,6 +269,10 @@ def build(write=True, unknown=None):
     # Prüfungsrichtlinien des DPMA (Richtlinien für die Prüfung von Patentanmeldungen) als Quellen der Patent-Begriffe
     for w in patent.richtlinien.QUELLEN:
         add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"], url=w["url"], provider=w["provider"]))
+    # Richtlinien für die Prüfung im EPA (2026) als Quellen der EPÜ-Begriffe (deutscher Titel, englischer Titel für die englische App)
+    for w in epc.quellen.QUELLEN:
+        add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"], url=w["url"], provider=w["provider"],
+                      titel_en=w["title_en"], summary_en=w["summary_en"], url_en=w["url_en"]))
     # Vergütungsrichtlinien 1959 (Nr. 1 bis 43) als Quellen der ArbnErfG-Begriffe
     for w in patent.arbnerfg.QUELLEN:
         add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"], url=w["url"], provider=w["provider"]))
@@ -266,7 +281,7 @@ def build(write=True, unknown=None):
     for c in CASES:
         add_node(dict(id=f"case:{c['id']}", type="case", label=f"{c['court']} – {c['name']}", name=c["name"],
                       court=c["court"], date=c["date"], az=c["az"], fundstelle=c["fundstelle"],
-                      kern=c["kern"], tags=c["tags"], url=case_url(c)))
+                      kern=c["kern"], tags=c["tags"], url=case_url(c), **({"url_en": c["url_en"]} if c.get("url_en") else {})))
         link_norms(f"case:{c['id']}", c["norms"], "interprets")
 
     # --- Begriffe ---

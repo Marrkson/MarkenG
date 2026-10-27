@@ -1,0 +1,246 @@
+{
+ "distinction:d_epc_weiterbehandlung_wiedereinsetzung": {
+  "label": "Further processing vs. re-establishment of rights",
+  "frage": "Which remedy helps after a time limit vis-à-vis the EPO has been missed?",
+  "kriterien": [
+   "Legal basis",
+   "Who",
+   "Fault",
+   "Time limit for the request",
+   "Request",
+   "Excluded",
+   "Relationship"
+  ],
+  "spalten": [
+   "Further processing",
+   "Re-establishment of rights"
+  ],
+  "rows": [
+   [
+    "Art. 121 EPC, R. 135 EPC",
+    "Art. 122 EPC, R. 136 EPC"
+   ],
+   [
+    "Only the applicant",
+    "Applicant and proprietor, exceptionally the opponent (G 1/86)"
+   ],
+   [
+    "Irrelevant",
+    "All due care required by the circumstances"
+   ],
+   [
+    "Two months after the communication of the failure to observe a time limit or of the loss of rights",
+    "Two months after removal of the cause of non-compliance, at the latest one year after expiry of the time limit; priority: two months after expiry of the priority period"
+   ],
+   [
+    "Pay the fee, complete the omitted act",
+    "In writing, fee, statement of grounds with the facts made credible, complete the omitted act"
+   ],
+   [
+    "Art. 121(4) EPC and R. 135(2) EPC (among others priority, appeal, period for renewal fees with additional fee, translation, missing parts)",
+    "All time limits for which further processing is available, and the time limit for re-establishment itself (R. 136(3) EPC)"
+   ],
+   [
+    "Takes precedence",
+    "Subsidiary"
+   ]
+  ],
+  "merksatz": "Further processing first (paying the fee is enough); re-establishment only where further processing is ruled out (prove due care).",
+  "_de": "0bdc6a292c"
+ },
+ "distinction:d_epc_54_2_54_3": {
+  "label": "State of the art: Art. 54(2) EPC and Art. 54(3) EPC",
+  "frage": "How does prior-published state of the art differ from earlier European applications?",
+  "kriterien": [
+   "Source",
+   "Relevant date",
+   "Content",
+   "Effect",
+   "Euro-PCT",
+   "National rights",
+   "Remedy"
+  ],
+  "spalten": [
+   "Art. 54(2) EPC",
+   "Art. 54(3) EPC"
+  ],
+  "rows": [
+   [
+    "Everything made available to the public, worldwide, in any form",
+    "Only European applications (and Euro-PCT applications under R. 165 EPC)"
+   ],
+   [
+    "Available before the effective date",
+    "Earlier effective date, published on or after the effective date of the later application"
+   ],
+   [
+    "What was made available to the public",
+    "Whole contents as originally filed"
+   ],
+   [
+    "Novelty and inventive step",
+    "Novelty only (second sentence of Art. 56 EPC)"
+   ],
+   [
+    "Published PCT application always",
+    "Only with filing fee and translation (Art. 153(5) EPC, R. 165 EPC)"
+   ],
+   [
+    "–",
+    "National prior rights only in national proceedings (Art. 139(2) EPC)"
+   ],
+   [
+    "Priority, non-prejudicial disclosure (Art. 55 EPC)",
+    "Disclaimer (G 1/03); different claims per state no longer apply since EPC 2000"
+   ]
+  ],
+  "merksatz": "Paragraph 2 harms everything, paragraph 3 only novelty – and only with the content as originally filed.",
+  "_de": "a757e38e83"
+ },
+ "distinction:d_epc_r56_r56a_r139": {
+  "label": "Missing parts, erroneously filed documents, correction (R. 56, 56a and 139 EPC)",
+  "frage": "How are gaps and errors in the application documents remedied, and what happens to the filing date?",
+  "kriterien": [
+   "Situation",
+   "Time limit",
+   "Filing date",
+   "Priority saves",
+   "Withdrawal",
+   "Remedy"
+  ],
+  "spalten": [
+   "R. 56 EPC",
+   "R. 56a EPC",
+   "R. 139 EPC"
+  ],
+  "rows": [
+   [
+    "Parts of the description or drawings are missing",
+    "Documents or parts filed erroneously (e.g. a different application)",
+    "Obvious error in documents filed"
+   ],
+   [
+    "Two months from the date of filing or from the invitation",
+    "Two months from the date of filing or from the invitation",
+    "No fixed time limit; declaration of priority only under R. 52(3) EPC"
+   ],
+   [
+    "Re-dated to the date on which the missing parts are filed",
+    "Re-dated to the date on which the correct documents are filed",
+    "Unchanged"
+   ],
+   [
+    "Completely contained in the priority application, request and copy filed in time (R. 56(3) EPC)",
+    "Completely contained in the priority application, request filed in time (R. 56a(4) EPC)",
+    "–"
+   ],
+   [
+    "Within one month of notification of the re-dating (R. 56(6) EPC)",
+    "Within one month of notification of the re-dating (R. 56a(7) EPC)",
+    "–"
+   ],
+   [
+    "No further processing (R. 135(2) EPC)",
+    "No further processing (R. 135(2) EPC)",
+    "Appeal against refusal"
+   ]
+  ],
+  "merksatz": "Something missing: R. 56 EPC. Something wrong: R. 56a EPC. An obvious slip: R. 139 EPC – only the first two cost the filing date.",
+  "_de": "b821ba4ab9"
+ },
+ "distinction:d_epc_angriffe_nach_erteilung": {
+  "label": "Opposition, limitation, third-party observations",
+  "frage": "What routes exist before the EPO to affect the validity of a patent or an application?",
+  "kriterien": [
+   "Who",
+   "When",
+   "Grounds",
+   "Fee",
+   "Position in the proceedings",
+   "Outcome"
+  ],
+  "spalten": [
+   "Opposition (Art. 99 EPC)",
+   "Limitation/revocation (Art. 105a EPC)",
+   "Third-party observations (Art. 115 EPC)"
+  ],
+  "rows": [
+   [
+    "Any third party, not the proprietor",
+    "Only the proprietor",
+    "Any third party, even anonymously"
+   ],
+   [
+    "Nine months after the mention of grant; intervention under Art. 105 EPC",
+    "At any time after grant, not while opposition proceedings are pending",
+    "After publication, as long as proceedings are pending"
+   ],
+   [
+    "Art. 100 EPC (exhaustive)",
+    "None; examination for compliance with Art. 84, 123(2) and 123(3) EPC",
+    "Patentability, but also clarity etc."
+   ],
+   [
+    "Opposition fee",
+    "Limitation or revocation fee",
+    "None"
+   ],
+   [
+    "Party",
+    "Sole party",
+    "Not a party"
+   ],
+   [
+    "Revocation, rejection, maintenance in amended form",
+    "Limited or revoked patent, ex tunc",
+    "The Office takes them into account of its own motion"
+   ]
+  ],
+  "merksatz": "The third party attacks (opposition), the proprietor limits (Art. 105a EPC), and whoever wants to stay anonymous files observations (Art. 115 EPC).",
+  "_de": "e1c02d92e7"
+ },
+ "distinction:d_epc_123_2_123_3": {
+  "label": "Art. 123(2) EPC and Art. 123(3) EPC",
+  "frage": "What does Art. 123(2) EPC prohibit, what does Art. 123(3) EPC prohibit, and how do they relate to each other?",
+  "kriterien": [
+   "Yardstick",
+   "Period",
+   "Typical infringement",
+   "Ground for opposition",
+   "Ground for revocation",
+   "Conflict"
+  ],
+  "spalten": [
+   "Art. 123(2) EPC",
+   "Art. 123(3) EPC"
+  ],
+  "rows": [
+   [
+    "Content of the application as filed",
+    "Extent of protection of the granted patent (Art. 69 EPC)"
+   ],
+   [
+    "Entire proceedings, application and patent",
+    "Only after grant"
+   ],
+   [
+    "New combination of features, intermediate generalisation",
+    "Deletion or replacement of a feature, change of category without limitation"
+   ],
+   [
+    "Yes (Art. 100(c) EPC)",
+    "No"
+   ],
+   [
+    "Yes (Art. 138(1)(c) EPC)",
+    "Yes (Art. 138(1)(d) EPC)"
+   ],
+   [
+    "Inescapable trap (G 1/93)",
+    "Inescapable trap (G 1/93)"
+   ]
+  ],
+  "merksatz": "Paragraph 2 looks back at the application, paragraph 3 at the granted patent; whoever infringes both is caught in the trap.",
+  "_de": "7060d3ab6f"
+ }
+}

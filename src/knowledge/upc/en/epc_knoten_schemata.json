@@ -1,0 +1,237 @@
+{
+ "schema:epc_schema_fristversaeumnis": {
+  "label": "Missed time limit before the EPO: legal consequence and remedy",
+  "beschreibung": "The basic grid of almost every Paper D question: calculate the time limit, establish the legal consequence, then check in a fixed order whether further processing is available, otherwise re-establishment of rights, and whether other routes help (decision under R. 112(2) EPC, extension of the time limit, legitimate expectations, new application).",
+  "_de": "dbc468e5f7"
+ },
+ "step:epc_schema_fristversaeumnis.1": {
+  "label": "1. Determine the time limit (Art. 120 EPC, R. 131 EPC)",
+  "_de": "425bd16d52"
+ },
+ "step:epc_schema_fristversaeumnis.1.1": {
+  "label": "1. Triggering event and duration",
+  "text": "Notification (R. 126(2) and 127(2) EPC: date of the document), date of filing or priority, mention in the Bulletin; duration from the Convention, the Implementing Regulations or the communication.",
+  "_de": "46a0f64b3b"
+ },
+ "step:epc_schema_fristversaeumnis.1.2": {
+  "label": "2. Calculate the expiry (R. 131(4) EPC)",
+  "text": "A period in months expires on the day with the same number, otherwise on the last day of the month; for chains of time limits, always calculate from the original event.",
+  "_de": "9b521606db"
+ },
+ "step:epc_schema_fristversaeumnis.1.3": {
+  "label": "3. Extension (R. 134 EPC)",
+  "text": "Filing office closed or electronic filing unavailable: next day on which all filing offices are open (R. 134(1) EPC); general interruption of the mail (R. 134(2) EPC); exceptional occurrence in the last ten days (R. 134(5) EPC).",
+  "_de": "679f9dcba0"
+ },
+ "step:epc_schema_fristversaeumnis.2": {
+  "label": "2. Legal consequence of the failure",
+  "text": "Application deemed to be withdrawn (e.g. Art. 86(1) and 94(4) EPC, R. 71(7) EPC), loss of a right (priority, R. 53(3) EPC), document deemed not to have been filed; communication under R. 112(1) EPC.",
+  "_de": "b535764aab"
+ },
+ "step:epc_schema_fristversaeumnis.3": {
+  "label": "3. Further processing (Art. 121 EPC, R. 135 EPC)",
+  "_de": "c9ba7cee0e"
+ },
+ "step:epc_schema_fristversaeumnis.3.1": {
+  "label": "1. Available?",
+  "text": "Time limit vis-à-vis the EPO, missed by the applicant; not ruled out under Art. 121(4) EPC or R. 135(2) EPC.",
+  "_de": "6112b95cb0"
+ },
+ "step:epc_schema_fristversaeumnis.3.2": {
+  "label": "2. Time limit: two months after the communication (R. 135(1) EPC)",
+  "text": "Communication of the failure to observe a time limit or of the loss of rights; calculate the expiry under R. 131 EPC.",
+  "_de": "328966a251"
+ },
+ "step:epc_schema_fristversaeumnis.3.3": {
+  "label": "3. Pay the fee and complete the omitted act",
+  "text": "The request is deemed to be filed only on payment; without the omitted act completed it is inadmissible. No fault to be examined.",
+  "_de": "df51a329bc"
+ },
+ "step:epc_schema_fristversaeumnis.4": {
+  "label": "4. Re-establishment of rights (Art. 122 EPC, R. 136 EPC)",
+  "_de": "f80f9c656a"
+ },
+ "step:epc_schema_fristversaeumnis.4.1": {
+  "label": "1. Available?",
+  "text": "Only if further processing is not available (R. 136(3) EPC); direct loss of rights; applicant, proprietor, exceptionally the opponent (G 1/86).",
+  "_de": "53959a80f5"
+ },
+ "step:epc_schema_fristversaeumnis.4.2": {
+  "label": "2. Time limit (R. 136(1) EPC)",
+  "text": "Two months after removal of the cause of non-compliance, at the latest one year after expiry of the missed time limit; priority period and time limit for the petition for review: two months after their expiry.",
+  "_de": "52b1c6c879"
+ },
+ "step:epc_schema_fristversaeumnis.4.3": {
+  "label": "3. Form: request, fee, grounds, completing the omitted act (R. 136(1) and 136(2) EPC)",
+  "text": "All grounds and means of evidence immediately (J 6/22).",
+  "_de": "3ef050fee1"
+ },
+ "step:epc_schema_fristversaeumnis.4.4": {
+  "label": "4. Well founded: all due care",
+  "text": "Isolated mistake within a normally satisfactory system for monitoring time limits; due care of the applicant, the representative and assistants (J 5/80).",
+  "_de": "d7135f6d42"
+ },
+ "step:epc_schema_fristversaeumnis.5": {
+  "label": "5. Other routes",
+  "text": "Request a decision open to appeal if the loss of rights is disputed (R. 112(2) EPC); divisional application as long as the application is pending; new application (without priority if its period has expired); legitimate expectations.",
+  "_de": "9c931b9805"
+ },
+ "schema:epc_schema_stand_der_technik": {
+  "label": "Novelty in Paper D: effective date and state of the art",
+  "beschreibung": "For each claim, first determine the effective date (priority, partial priority), then classify each document: Art. 54(2) EPC, Art. 54(3) EPC or no state of the art at all, and finally check the remedies.",
+  "_de": "55e2152132"
+ },
+ "step:epc_schema_stand_der_technik.1": {
+  "label": "1. Effective date per claim (Art. 89 EPC)",
+  "_de": "5af0f86e3e"
+ },
+ "step:epc_schema_stand_der_technik.1.1": {
+  "label": "1. Requirements for priority",
+  "text": "First application (Art. 87(4) EPC), Paris Convention or WTO state, twelve-month period, same invention (G 2/98), entitlement (G 1/22), declaration (R. 52 EPC).",
+  "_de": "afbbc023ee"
+ },
+ "step:epc_schema_stand_der_technik.1.2": {
+  "label": "2. Partial priority (Art. 88(3) EPC, G 1/15)",
+  "text": "Split generic claims: disclosed part at the date of priority, remainder at the date of filing.",
+  "_de": "2efc23372c"
+ },
+ "step:epc_schema_stand_der_technik.2": {
+  "label": "2. Classify the documents",
+  "_de": "0b36332c08"
+ },
+ "step:epc_schema_stand_der_technik.2.1": {
+  "label": "1. Art. 54(2) EPC",
+  "text": "Made available to the public before the effective date, regardless of where and in which language; including the applicant's own publications.",
+  "_de": "b64c0ef965"
+ },
+ "step:epc_schema_stand_der_technik.2.2": {
+  "label": "2. Art. 54(3) EPC",
+  "text": "Earlier European (or Euro-PCT under R. 165 EPC) application, earlier effective date, published on or after the relevant date; novelty only.",
+  "_de": "f5569e7d2b"
+ },
+ "step:epc_schema_stand_der_technik.2.3": {
+  "label": "3. No state of the art",
+  "text": "Published after the effective date and not Art. 54(3) EPC; national prior rights (Art. 139(2) EPC); non-prejudicial disclosure (Art. 55 EPC).",
+  "_de": "ef691cbf38"
+ },
+ "step:epc_schema_stand_der_technik.3": {
+  "label": "3. Remedies",
+  "text": "Disclaimer against Art. 54(3) EPC (G 1/03), divisional application or limitation to the part entitled to priority, re-establishment in respect of the priority period, opposition against the earlier patent.",
+  "_de": "f707a55a09"
+ },
+ "schema:epc_schema_einspruch": {
+  "label": "Opposition: admissibility and merits (Art. 99 to 101 EPC)",
+  "beschreibung": "Admissibility in the order of the examination for deficiencies under R. 77 EPC, then the merits; in addition intervention and continuation of the proceedings by the EPO of its own motion.",
+  "_de": "98c45d0d37"
+ },
+ "step:epc_schema_einspruch.1": {
+  "label": "1. Available",
+  "text": "Granted European patent; also after surrender or lapse (R. 75 EPC); pending limitation proceedings are no obstacle.",
+  "_de": "b65af9af97"
+ },
+ "step:epc_schema_einspruch.2": {
+  "label": "2. Opponent",
+  "text": "Any third party, even a straw man (G 3/97), not the proprietor (G 9/93); several persons jointly with one fee (G 3/99); representation under Art. 133(2) EPC.",
+  "_de": "5415134d5f"
+ },
+ "step:epc_schema_einspruch.3": {
+  "label": "3. Time limit and fee (Art. 99(1) EPC)",
+  "text": "Nine months after the mention of grant; fee within the same period, otherwise the opposition is deemed not to have been filed; no further processing (not an applicant), no re-establishment for the opponent.",
+  "_de": "f571534941"
+ },
+ "step:epc_schema_einspruch.4": {
+  "label": "4. Content (R. 76(2) EPC)",
+  "text": "Particulars of the opponent and of the patent, extent, grounds, facts and evidence; deficiencies under R. 77 EPC partly remediable only within the opposition period.",
+  "_de": "e877fd9c65"
+ },
+ "step:epc_schema_einspruch.5": {
+  "label": "5. Merits (Art. 100 and 101 EPC)",
+  "text": "Only the grounds of Art. 100 EPC; scope of examination G 9/91, G 10/91; amended claims: Art. 84 EPC only insofar as caused by the amendment (G 3/14), Art. 123(2) and 123(3) EPC.",
+  "_de": "d0f9ef4d88"
+ },
+ "step:epc_schema_einspruch.6": {
+  "label": "6. Intervention and continuation",
+  "text": "Intervention of the assumed infringer within three months (Art. 105 EPC, R. 89 EPC); continuation by the EPO of its own motion after withdrawal or death (R. 84 EPC).",
+  "_de": "ae7aa2a6cf"
+ },
+ "schema:epc_schema_beschwerde": {
+  "label": "Appeal: admissibility (Art. 106 to 108 EPC)",
+  "beschreibung": "Examination of the admissibility of an appeal in the order of R. 101 EPC, with interlocutory revision and reimbursement of the fee.",
+  "_de": "9c4b4515b7"
+ },
+ "step:epc_schema_beschwerde.1": {
+  "label": "1. Decision open to appeal (Art. 106 EPC)",
+  "text": "Decision of the Receiving Section, an Examining or Opposition Division or the Legal Division; interlocutory decisions only together with the final decision, unless the decision allows a separate appeal (Art. 106(2) EPC).",
+  "_de": "593f5952dd"
+ },
+ "step:epc_schema_beschwerde.2": {
+  "label": "2. Entitlement to appeal (Art. 107 EPC)",
+  "text": "A party adversely affected; the other parties are parties to the appeal proceedings as of right. An intervener at the appeal stage is not an appellant (G 2/24).",
+  "_de": "cefe294547"
+ },
+ "step:epc_schema_beschwerde.3": {
+  "label": "3. Time limit and fee (first and second sentences of Art. 108 EPC)",
+  "text": "Two months after notification; both in time, otherwise the appeal is deemed not to have been filed (G 1/18).",
+  "_de": "dc03c0ec97"
+ },
+ "step:epc_schema_beschwerde.4": {
+  "label": "4. Form and grounds (R. 99 EPC, third sentence of Art. 108 EPC)",
+  "text": "Name and address of the appellant (correction under R. 101(2) EPC, G 1/12), contested decision, request; statement of grounds within four months.",
+  "_de": "5d44fea4f3"
+ },
+ "step:epc_schema_beschwerde.5": {
+  "label": "5. Interlocutory revision and reimbursement (Art. 109 EPC, R. 103 EPC)",
+  "text": "Interlocutory revision only in ex parte proceedings; reimbursement of the appeal fee under R. 103 EPC (competence G 3/03).",
+  "_de": "d235f4f869"
+ },
+ "schema:epc_schema_euro_pct": {
+  "label": "Euro-PCT: entry into the European phase (R. 159 EPC)",
+  "beschreibung": "The 31-month time limit and the acts under R. 159(1) EPC, the consequences of missing them and the procedure after entry.",
+  "_de": "202231cd66"
+ },
+ "step:epc_schema_euro_pct.1": {
+  "label": "1. Time limit: 31 months from the date of filing or the earliest date of priority (R. 159(1) EPC)",
+  "text": "Calculation of the time limit under R. 131 EPC; early processing on express request (Art. 23(2) PCT).",
+  "_de": "dc2832702d"
+ },
+ "step:epc_schema_euro_pct.2": {
+  "label": "2. Acts (R. 159(1)(a) to 159(1)(h) EPC)",
+  "text": "Translation, specification of the application documents, filing fee, designation fee, search fee, request for examination, renewal fee for the third year, exhibition certificate.",
+  "_de": "c6ef7b407d"
+ },
+ "step:epc_schema_euro_pct.3": {
+  "label": "3. Failure (R. 160 EPC)",
+  "text": "Application deemed to be withdrawn or designation deemed to be withdrawn; communication under R. 112(1) EPC, then further processing; translation missing: further processing as well.",
+  "_de": "6c32ca5b3b"
+ },
+ "step:epc_schema_euro_pct.4": {
+  "label": "4. After entry",
+  "text": "Invitation under R. 161 EPC (comments/amendments within six months), claims fees R. 162 EPC, lack of unity R. 164 EPC, state of the art under Art. 54(3) EPC via R. 165 EPC.",
+  "_de": "af97458e47"
+ },
+ "schema:epc_schema_teilanmeldung": {
+  "label": "Divisional application: requirements and fees (Art. 76 EPC, R. 36 EPC)",
+  "beschreibung": "When a divisional application is still possible, where and in which language it must be filed, what content it may have and which fees are payable.",
+  "_de": "a25db5b4ac"
+ },
+ "step:epc_schema_teilanmeldung.1": {
+  "label": "1. Pending parent application (R. 36(1) EPC)",
+  "text": "Until the day before the mention of grant; after refusal until expiry of the time limit for appeal (G 1/09); not during the time limit for re-establishment after a loss of rights (J 4/11); Euro-PCT only after entry (J 18/09).",
+  "_de": "6c0350ddad"
+ },
+ "step:epc_schema_teilanmeldung.2": {
+  "label": "2. Applicant, place, language (R. 36(2) EPC)",
+  "text": "Applicant of the parent application; filing with the EPO in Munich, The Hague or Berlin; language of the proceedings of the parent application or its original language with a translation.",
+  "_de": "a58f4af0dd"
+ },
+ "step:epc_schema_teilanmeldung.3": {
+  "label": "3. Content (Art. 76(1) EPC)",
+  "text": "Not beyond the parent application (G 1/05); in a sequence, not beyond any predecessor (G 1/06); no double patenting (G 4/19).",
+  "_de": "aa766c920d"
+ },
+ "step:epc_schema_teilanmeldung.4": {
+  "label": "4. Fees",
+  "text": "Filing fee and search fee within one month (R. 36(3) EPC), designation fee under R. 36(4) EPC, renewal fees already due within four months (R. 51(3) EPC).",
+  "_de": "416f8a8d5e"
+ }
+}

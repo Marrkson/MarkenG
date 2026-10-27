@@ -2,18 +2,18 @@
 
 Lernmaterial zum deutschen Markenrecht (MarkenG), zum Patentrecht (PatG, PatV, IntPatÜG, PatKostG) und zum Einheitlichen
 Patentgericht, aufgebaut auf einem Wissensgraphen aus Gesetzestext, Begriffen, Prüfungsschemata, Abgrenzungen, IPWiki-Verweisen
-und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
+und Leitentscheidungen von BGH, EuGH, BPatG, EPG und den Beschwerdekammern des EPA.
 
 ## Was ist drin?
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/index.html` | **IPelico**, der Fallkurs: 30 Kurse in fünf Rechtsgebieten zur Auswahl (EU und internationales Recht, Marken, Patent, DesignG, Einheitliches Patentgericht), 143 Kapitel, 1.527 Lerneinheiten (1.153 Ja/Nein-Fragen, 226 Auswahlfragen, 54 Prüfungsschemata, 94 Einführungen; davon 252 Fallketten im Jurafuchs-Format: kurzer Sachverhalt, mehrere Fragen, Abwandlungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie (über 4 KB im localStorage); Gestaltung nach `DESIGN.md` |
-| `docs/en/index.html` | **IPelico auf Englisch** für das Gebiet EPG: 10 Kurse, 518 Einheiten, Lernkarten mit dem amtlichen englischen Wortlaut von EPGÜ, VerfO (Fassung 2022), EPatVO, EPatÜVO, DOEPS, GebOEPS und DurchsetzungsRL, EPG-Rechtsprechung; Fortschritt mit der deutschen App geteilt (PLAYBOOK 17) |
+| `docs/index.html` | **IPelico**, der Fallkurs: 32 Kurse in fünf Rechtsgebieten zur Auswahl (EU und internationales Recht, Marken, Patent, DesignG, Einheitliches Patentgericht), 166 Kapitel, 1.884 Lerneinheiten (1.437 Ja/Nein-Fragen, 270 Auswahlfragen, 60 Prüfungsschemata, 117 Einführungen; davon 355 Fallketten im Jurafuchs-Format: kurzer Sachverhalt, mehrere Fragen, Abwandlungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie (über 4 KB im localStorage); Gestaltung nach `DESIGN.md` |
+| `docs/en/index.html` | **IPelico auf Englisch** für das Gebiet EPG und den EPÜ-Kurs: 11 Kurse, 871 Einheiten, Lernkarten mit dem amtlichen englischen Wortlaut von EPGÜ, VerfO (Fassung 2022), EPatVO, EPatÜVO, DOEPS, GebOEPS, DurchsetzungsRL und EPÜ, EPG-Rechtsprechung und Rechtsprechung der Beschwerdekammern; Fortschritt mit der deutschen App geteilt (PLAYBOOK 17) |
 | `docs/didaktik.md` | Didaktisches Konzept von IPelico und Kursaufbau |
 | `DESIGN.md`, `src/templates/ipelico/` | Gestaltungsrichtlinie (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons, Schriften) und die Assets dazu; `tools/gen_assets.py` erzeugt die Icons |
 | `docs/navigator/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (4.695 Knoten, ca. 19.000 Kanten; Markenrecht, Patentrecht, Designrecht und EPG in einem Graphen) |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (5.773 Knoten, ca. 21.900 Kanten; Markenrecht, Patentrecht, Designrecht, EPG und EPÜ in einem Graphen) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.json` | Gesetzestext des MarkenG (amtliches XML von gesetze-im-internet.de, `src/parse_markeng.py`) |
@@ -54,7 +54,7 @@ und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
   Widerspruch und Löschung, die relativen Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3) sowie
   das Vorgehen aus einer Unionsmarke (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff.) und aus einer IR-Marke (PMMA, §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
   und Entscheidungen (violett) öffnen sich als Karte direkt an Ort und Stelle – auch verschachtelt.
-- **Karteikarten**: 2.610 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
+- **Karteikarten**: 3.014 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
   Entscheidungen, Normen). Filter nach Typ und Thema, Karten pro Schema, Tastatursteuerung,
   Fortschritt „gewusst / nicht gewusst“ im Browser (localStorage).
 - **Abgrenzungen**: Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft,
@@ -169,6 +169,20 @@ dejure-Link), `distinction` (Vergleichstabelle), `source` (IPWiki-Artikel), `cou
 
 Kanten: `defined_in`, `related_to`, `illustrated_by`, `documented_in`, `interprets`, `implements` (MarkenG-Norm setzt einen Richtlinienartikel um), `entspricht` (EPGÜ-Artikel setzt einen Artikel der DurchsetzungsRL für das EPG um), `konkretisiert` (VerfO-Regel → EPGÜ-Artikel), `has_step`,
 `next_step`, `uses_concept`, `cites`, `applies`, `contrasts`.
+
+## EPÜ und EQE Paper D (Artikel, Regeln, Beschwerdekammern, Richtlinien, Amtsblatt)
+
+Seit Oktober 2026 enthält der Graph ein fünftes Wissenspaket (`src/knowledge/epc/`, PLAYBOOK Abschnitt 18):
+
+- **EPÜ**: alle Artikel (`Art. 54 Abs. 3 EPÜ`) und Regeln der Ausführungsordnung (`R. 71 Abs. 3 EPÜ`) im amtlichen deutschen und englischen
+  Wortlaut (epo.org), mit Hinweisen zu den prüfungsrelevanten Vorschriften. Jede Vorschrift zeigt, wie oft die Beschwerdekammern sie als
+  einschlägig nennen, welche Abschnitte der Richtlinien für die Prüfung (Ausgabe 2026) und welche Mitteilungen im Amtsblatt sie zitieren,
+  und in welchen Fragen der EQE Paper D (2015 bis 2025) sie in der Musterlösung vorkommt.
+- **Beschwerdekammern**: 17.466 Entscheidungen (alle G, J, R und die T-Entscheidungen der Verteiler A bis C, aus 49.395 in der
+  RheinIP-Datenbank) als `docs/boa_entscheidungen.json`, Ansicht `#/boa` und `#/boa/norm/…`; 56 Leitentscheidungen als Knoten.
+- **Kurs „EPÜ nach Vorschriften (EQE Paper D)“** (Rechtsgebiet Patent, Reihe „Europäisches Patent (EPÜ)“): 22 Kapitel, 353 Einheiten,
+  ausgewählt und gewichtet nach der Häufigkeit in den Paper-D-Fragen; auch englisch.
+- 40 Begriffe, 6 Prüfungsschemata (Fristversäumnis, Stand der Technik, Einspruch, Beschwerde, Euro-PCT, Teilanmeldung), 5 Abgrenzungen.
 
 ## Karteikarten in Anki importieren
 

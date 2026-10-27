@@ -26,10 +26,10 @@ KURSE = [m.KURS for m in (k01_grundlagen, k02_schutzfaehigkeit, k03_verletzung, 
                           k06_schranken, k07_benutzung_loeschung, k08_bezeichnungen, k09_rechtsfolgen, k10_eu_ir, k11_markenrl,
                           k14_durchsetzungsrl, k12_klausurtraining, k13_zulaessigkeit, p00_technische_schutzrechte, p02_pruefungsrichtlinien, p01_klausurtraining_ts)]
 
-# Kurse zum Einheitlichen Patentgericht (u01_*.py …), zum Designrecht (d01_*.py …) und weitere Patentkurse (p03_*.py …) werden
-# automatisch eingesammelt (Reihenfolge nach Kurs-ID).
+# Kurse zum Einheitlichen Patentgericht (u01_*.py …), zum Designrecht (d01_*.py …), weitere Patentkurse (p03_*.py …) und die Kurse
+# zum EPÜ (e01_*.py …) werden automatisch eingesammelt (Reihenfolge nach Kurs-ID).
 _AUTO = [_importlib.import_module(f"{__name__}.{m.name}").KURS for m in _pkgutil.iter_modules(__path__)
-         if m.name[:1] in ("u", "d", "p") and m.name[1:3].isdigit() and int(m.name[1:3]) >= (3 if m.name[0] == "p" else 0)]
+         if m.name[:1] in ("u", "d", "p", "e") and m.name[1:3].isdigit() and int(m.name[1:3]) >= (3 if m.name[0] == "p" else 0)]
 KURSE += sorted(_AUTO, key=lambda k: k["id"])
 _ids = [k["id"] for k in KURSE]
 if len(_ids) != len(set(_ids)):

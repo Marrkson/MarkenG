@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Englische Fassung des EPG-Pakets für IPelico (docs/en/): nur das Gebiet „upc“, Kurse u01–u10 mit Graph.
+"""Englische Fassung für IPelico (docs/en/): das Gebiet „upc“ (Kurse u01–u10) und der EPÜ-Kurs e01 im Gebiet „patent“, mit Graph.
 
 Übersetzt wird nur Text; Struktur (IDs, Antworten, Verweise) kommt immer aus dem deutschen Paket. Die Übersetzungen
 liegen als JSON neben dieser Datei:
@@ -9,13 +9,16 @@ liegen als JSON neben dieser Datei:
   knoten_schemata.json     Prüfungsschemata und -punkte (`schema:…`, `step:…`)
   knoten_tabellen.json     Abgrenzungstabellen (`distinction:…`)
   knoten_normen.json       Hinweise an EPGÜ/VerfO/EPatVO/…/IPRED (`eunorm:…`: hinweis) und Quellen (`source:…`)
+  e01.json, epc_knoten_*.json  EPÜ-Kurs und EPÜ-Knoten (Begriffe, Entscheidungen, Schemata, Tabellen, Hinweise an Artikeln und Regeln);
+                           die Richtlinien-Quellen (`source:epagl:…`) tragen ihren englischen Titel selbst und brauchen keine Übersetzung
 Jeder Eintrag trägt `_de`, den Hash der deutschen Felder, aus denen er übersetzt wurde (`tools/i18n_en.py`):
 fehlt ein Eintrag, bricht der Build ab; weicht der Hash ab (deutscher Text geändert), meldet er „veraltet“.
 Normtexte sind nicht übersetzt, sondern amtlich englisch: data/upca.json, up_*.json (`absaetze_en`), data/upc_rop.json
-(`absaetze_en`, Fassung 2022) und data/durchsetzungsrl_en.json (Cellar).
+(`absaetze_en`, Fassung 2022), data/durchsetzungsrl_en.json (Cellar) und data/epc.json (`absaetze_en`, epo.org).
 
 Zitierform im englischen Text: `Art. 33(1)(a) UPCA`, `R. 19.1 RoP`, `Art. 3(1) UPReg`, `Art. 6 TranslReg`, `R. 6(1) UPR`,
-`Art. 2 RFeesUPP`, `Art. 8 IPRED`, `Art. 69 EPC`, deutsche Gesetze unverändert (`§ 139 PatG`).
+`Art. 2 RFeesUPP`, `Art. 8 IPRED`, `Art. 69 EPC`, `R. 71(3) EPC`, `Art. 14(1) RFees`, `R. 80.2 PCT`, `Art. 12(4) RPBA`,
+deutsche Gesetze unverändert (`§ 139 PatG`).
 """
 import copy
 import hashlib
@@ -35,7 +38,9 @@ NODE_FIELDS = {"concept": ("label", "definition", "erlaeuterung"), "case": ("nam
                "eunorm": ("hinweis",), "source": ("label", "summary")}
 NODE_FILE = {"concept": "knoten_begriffe", "case": "knoten_entscheidungen", "schema": "knoten_schemata", "step": "knoten_schemata",
              "distinction": "knoten_tabellen", "eunorm": "knoten_normen", "source": "knoten_normen"}
-FAMILIEN = ("upca", "rop", "epatvo", "epatuevo", "doeps", "gebeps", "durchsetzungsrl")
+FAMILIEN = ("upca", "rop", "epatvo", "epatuevo", "doeps", "gebeps", "durchsetzungsrl", "epc", "epcr")
+# Kurse anderer Gebiete, die es auch englisch gibt (EPÜ-Kurs im Gebiet Patent); ihr Gebiet erscheint in der englischen App mit
+EN_KURSE = ("e01",)
 
 # Normfamilien: Kürzel, Titel und Quelle der englischen Fassung
 FAM_EN = {
@@ -46,6 +51,8 @@ FAM_EN = {
     "doeps": dict(kurz="UPR", gesetz="Rules relating to Unitary Patent Protection (UPR)", datei="up_doeps.json"),
     "gebeps": dict(kurz="RFeesUPP", gesetz="Rules relating to Fees for Unitary Patent Protection (RFeesUPP)", datei="up_gebeps.json"),
     "durchsetzungsrl": dict(kurz="IPRED", gesetz="Directive 2004/48/EC on the enforcement of intellectual property rights (IPRED)", datei="durchsetzungsrl_en.json"),
+    "epc": dict(kurz="EPC", gesetz="European Patent Convention (EPC 2000)", datei="epc.json", liste="artikel"),
+    "epcr": dict(kurz="EPC", gesetz="Implementing Regulations to the EPC", datei="epc.json", liste="regeln"),
 }
 LAW_EN = {"EPGÜ": "UPCA", "VerfO": "RoP", "EPatVO": "UPReg", "EPatÜVO": "TranslReg", "EPatÜbersVO": "TranslReg", "DOEPS": "UPR",
           "GebOEPS": "RFeesUPP", "DurchsetzungsRL": "IPRED", "EPÜ": "EPC", "AEUV": "TFEU", "EUV": "TEU", "GRCh": "CFR", "EMRK": "ECHR",
@@ -55,8 +62,13 @@ ORTE = {"München": "Munich", "Düsseldorf": "Düsseldorf", "Mannheim": "Mannhei
         "Den Haag": "The Hague", "Brüssel": "Brussels", "Wien": "Vienna", "Lissabon": "Lisbon", "Kopenhagen": "Copenhagen"}
 
 
+COURT_EPA = {"GBK": "EBA", "JBK": "LBA", "TBK": "TBA"}  # Große, Juristische, Technische Beschwerdekammer des EPA
+
+
 def court_en(c):
-    """'EPG-BerG' -> 'UPC CoA', 'EPG LK München' -> 'UPC LD Munich', 'EPG ZK Paris' -> 'UPC CD Paris'"""
+    """'EPG-BerG' -> 'UPC CoA', 'EPG LK München' -> 'UPC LD Munich', 'EPG ZK Paris' -> 'UPC CD Paris', 'GBK' -> 'EBA'"""
+    if c in COURT_EPA:
+        return COURT_EPA[c]
     if c == "EPG-BerG":
         return "UPC CoA"
     m = re.fullmatch(r"EPG (LK|ZK|RK) (.+)", c)
@@ -104,7 +116,20 @@ def _pick(obj, names):
 
 # ------------------------------------------------------------------ deutsche Quellen
 def upc_kurse(kurse):
-    return [k for k in kurse if k["gebiet"] == "upc"]
+    """Kurse der englischen App: Gebiet EPG und die Kurse in EN_KURSE."""
+    return [k for k in kurse if k["gebiet"] == "upc" or k["id"] in EN_KURSE]
+
+
+def _epc(nid_or_node):
+    """Gehört der Knoten zum EPÜ-Paket? (Übersetzungen in eigenen Dateien epc_knoten_*.json)"""
+    n = nid_or_node if isinstance(nid_or_node, dict) else {"id": nid_or_node}
+    s = n["id"].split(":", 1)[1]
+    return n.get("rl") in ("epc", "epcr") or s.startswith(("epc_", "d_epc_", "epagl:"))
+
+
+def _datei(n, typ=None):
+    f = NODE_FILE[typ or n["type"]]
+    return ("epc_" + f) if _epc(n) else f
 
 
 def _in_paket(n):
@@ -114,8 +139,8 @@ def _in_paket(n):
     if n["type"] == "eunorm":
         return n.get("rl") in FAMILIEN
     if n["type"] == "source":
-        return s.startswith(("uprl:", "upinfo:"))
-    return s.startswith(("upc_", "d_upc_"))
+        return s.startswith(("uprl:", "upinfo:", "epagl:"))
+    return s.startswith(("upc_", "d_upc_", "epc_", "d_epc_"))
 
 
 def knoten_ids(graph, kurse):
@@ -152,11 +177,11 @@ def quellen(kurse, graph):
                 put(d, "einheit:" + e["id"], _pick(e, UNIT_FIELDS))
     ids = knoten_ids(graph, kurse)
     for n in graph["nodes"]:
-        if n["id"] not in ids:
+        if n["id"] not in ids or n["id"].startswith("source:epagl:"):  # Richtlinien-Quellen tragen ihren englischen Titel selbst
             continue
-        put(NODE_FILE[n["type"]], n["id"], _pick(n, NODE_FIELDS[n["type"]]))
+        put(_datei(n), n["id"], _pick(n, NODE_FIELDS[n["type"]]))
         if n.get("kategorie"):
-            put("knoten_begriffe", "kategorie:" + n["kategorie"], {"kategorie": n["kategorie"]})
+            put(_datei(n, "concept"), "kategorie:" + n["kategorie"], {"kategorie": n["kategorie"]})
     return out
 
 
@@ -243,6 +268,9 @@ def _absaetze_en(raw):
     """'(1) …' (EPGÜ, Verordnungen, DOEPS) oder '1. …' (VerfO) -> [{nr, text}]"""
     out = []
     for a in raw:
+        if isinstance(a, dict):  # data/epc.json: bereits [{nr, text}]
+            out.append(a)
+            continue
         m = re.match(r"^\((\d+[a-z]?)\)\s+(.*)$", a) or re.match(r"^(\d{1,2})\.\s+(.*)$", a)
         out.append(dict(nr=m.group(1), text=m.group(2)) if m else dict(nr=None, text=a))
     return out
@@ -253,7 +281,7 @@ def _fam_texte():
     out = {}
     for rl, f in FAM_EN.items():
         d = json.loads((DATA / f["datei"]).read_text(encoding="utf-8"))
-        for a in d.get("artikel") or d.get("regeln"):
+        for a in (d[f["liste"]] if f.get("liste") else d.get("artikel") or d.get("regeln")):
             out[(rl, str(a["nr"]).upper())] = a
         erw = d.get("erwaegungsgruende_en") or d.get("praeambel_en")  # Erwägungsgründe/Präambel als Sammelknoten
         if erw:
@@ -272,18 +300,26 @@ def graph_en(graph, kurse, tr):
         if n["id"] not in ids:
             continue
         n = copy.deepcopy(n)
-        if n["type"] in NODE_FIELDS:
+        if n["id"].startswith("source:epagl:"):  # Richtlinien des EPA: englischer Originaltitel und Randverweise
+            n.update(label=n.pop("titel_en"), summary=n.pop("summary_en"), url=n.pop("url_en"), provider="EPO Guidelines for Examination")
+        elif n["type"] in NODE_FIELDS:
             en = t.get(n["id"], {})
             _apply(n, en, NODE_FIELDS[n["type"]])
         if n.get("kategorie"):
             n["kategorie"] = t["kategorie:" + n["kategorie"]]["kategorie"]
         if n["type"] == "case":
+            epa = n["court"] in COURT_EPA
             n["court"] = court_en(n["court"])
             n["label"] = n["court"] + " – " + n["name"]
             n["fundstelle"] = re.sub(r"^EPG\b", "UPC", n.get("fundstelle") or "")
+            if epa:  # „GBK, Entscheidung vom 29.11.2016 – G 1/15“ -> „EBA, decision of 29/11/2016 – G 1/15“
+                n["fundstelle"] = "%s, decision of %s – %s" % (n["court"], "/".join(n["date"].split("-")[::-1]), n["az"])
+                n["url"] = n.pop("url_en", n["url"])
         elif n["type"] == "eunorm":
             sammel = n["id"].endswith(":erwaegungsgruende")
             a = texte.get((n["rl"], "ERWAEGUNGSGRUENDE" if sammel else str(n["nummer"]).upper()))
+            if a is not None and n.get("gestrichen"):  # gestrichene Regel (R. 46 EPÜ)
+                a = dict(a, titel_en=a.get("titel_en") or "(deleted)", absaetze_en=[dict(nr=None, text="(deleted)")])
             if a is None or not (a.get("absaetze_en") or a.get("absaetze")):
                 raise SystemExit("kein englischer Wortlaut für %s (data/%s)" % (n["id"], FAM_EN[n["rl"]]["datei"]))
             f = FAM_EN[n["rl"]]
@@ -309,11 +345,17 @@ def graph_en(graph, kurse, tr):
 
 
 def gebiete_en(gebiete):
-    g = copy.deepcopy([x for x in gebiete if x["id"] == "upc"])
-    g[0].update(kurz="UPC", titel="Unified Patent Court (UPCA, RoP)",
-                beschreibung="Structure and jurisdiction of the UPC, infringement and revocation actions, provisional measures, evidence, "
-                             "remedies, appeal and the Unitary Patent – with the case law of the Court of Appeal.")
-    return g
+    """Gebiete der englischen App: EPG und, für den EPÜ-Kurs, Patent (als „European Patent (EPC)“)."""
+    by = {x["id"]: copy.deepcopy(x) for x in gebiete}
+    upc, pat = by["upc"], by["patent"]
+    upc.update(kurz="UPC", titel="Unified Patent Court (UPCA, RoP)",
+               beschreibung="Structure and jurisdiction of the UPC, infringement and revocation actions, provisional measures, evidence, "
+                            "remedies, appeal and the Unitary Patent – with the case law of the Court of Appeal.")
+    pat.update(kurz="EPC", titel="European Patent (EPC)",
+               beschreibung="The European Patent Convention as tested in the EQE (Paper D): filing, priority, novelty, examination and grant, "
+                            "opposition, appeal, time limits and remedies, Euro-PCT – with the case law of the Boards of Appeal, the Guidelines "
+                            "and the Official Journal.")
+    return [upc, pat]
 
 
 def bauen(kurse, gebiete, graph):

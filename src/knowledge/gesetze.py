@@ -86,7 +86,7 @@ LAWS = {
     "BioMatHintV": ("biomathintv", "§"),
 }
 # Schreibweisen in Entscheidungen und Normenketten -> Abkürzung der Tabellen
-ALIASES = {"ArbNErfG": "ArbnErfG", "ArbEG": "ArbnErfG", "EPC": "EPÜ", "TFEU": "AEUV", "EPGVerfO": "VerfO", "UPCS": "EPG-Satzung",
+ALIASES = {"ArbNErfG": "ArbnErfG", "ArbEG": "ArbnErfG", "EPC": "EPÜ", "RFees": "GebO", "RPBA": "VOBK", "TFEU": "AEUV", "EPGVerfO": "VerfO", "UPCS": "EPG-Satzung",
            "EuGVVO": "Brüssel-Ia-VO", "Brüssel Ia-VO": "Brüssel-Ia-VO", "GbmG": "GebrMG",
            "EPG": "EPGÜ", "EU-GRCh": "GRCh", "RpfG": "RPflG",
            # englische Zitierformen der EPG-App (docs/en/, knowledge/upc/en)
@@ -175,17 +175,25 @@ EU_LAWS = {
     "Rom-II-VO": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32007R0864",
     "EMRK": "https://www.echr.coe.int/documents/d/echr/convention_deu",
     "PCT": "https://www.wipo.int/pct/en/texts/articles/atoc.html",
+    # Verfahrensordnung der Beschwerdekammern des EPA (VOBK, engl. RPBA)
+    "VOBK": "https://www.epo.org/de/legal/epc/2020/rpba.html",
 }
 # Einzelvorschriften mit eigener Seite außerhalb von gesetze-im-internet.de: EPÜ-Artikel und Regeln der Ausführungsordnung
 # auf epo.org („Art. 54 EPÜ“ -> a54.html, „R. 71 EPÜ“ -> r71.html).
-ARTICLE_URLS = {"EPÜ": ("https://www.epo.org/de/legal/epc/2020/a%s.html", "https://www.epo.org/de/legal/epc/2020/r%s.html")}
+ARTICLE_URLS = {"EPÜ": ("https://www.epo.org/de/legal/epc/2020/a%s.html", "https://www.epo.org/de/legal/epc/2020/r%s.html"),
+                # Gebührenordnung zum EPÜ (GebO, engl. RFees): Artikel 1 bis 15 als Einzelseiten f1.html … f15.html
+                "GebO": ("https://www.epo.org/de/legal/epc/2020/f%s.html", "https://www.epo.org/de/legal/epc/2020/f%s.html")}
 # EPÜ-Artikel mit Buchstabenzusatz, die es wirklich gibt („Art. 53c“ in Leitsätzen meint Art. 53 lit. c und bleibt unverlinkt)
 ARTICLE_LETTERED = {"EPÜ": ("105a", "105b", "105c", "112a", "134a", "149a")}
 # Zitierkürzel -> Schlüssel des Richtlinien-/Übereinkommensknotens im Graphen (eunorm:<key>:<nr>); Aliase erlaubt.
 EU_NORM_KEYS = {"MarkenRL": "markenrl", "DurchsetzungsRL": "durchsetzungsrl", "EPGÜ": "upca", "UPCA": "upca", "VerfO": "rop", "RoP": "rop",
                 "EPatVO": "epatvo", "EPatÜVO": "epatuevo", "EPatÜbersVO": "epatuevo", "DOEPS": "doeps", "UPR": "doeps",
                 "GebOEPS": "gebeps", "GebEPS": "gebeps", "RFeesUPP": "gebeps", "UPReg": "epatvo", "TranslReg": "epatuevo", "IPRED": "durchsetzungsrl",
-                "DesignRL": "designrl", "DesignRL 2024": "designrl2024", "GGV": "ggv", "UGMV": "ggv"}
+                "DesignRL": "designrl", "DesignRL 2024": "designrl2024", "GGV": "ggv", "UGMV": "ggv",
+                # EPÜ: Artikel (eunorm:epc:54); die Regeln der Ausführungsordnung tragen dasselbe Kürzel und stehen in RULE_NORM_KEYS
+                "EPÜ": "epc", "EPC": "epc"}
+# Zitierkürzel, deren Regeln („R. 71 EPÜ“) eine eigene Familie bilden, weil die Artikel dasselbe Kürzel tragen: R. -> eunorm:epcr:71
+RULE_NORM_KEYS = {"EPÜ": "epcr", "EPC": "epcr"}
 # Zitatköpfe für Regeln (VerfO, DOEPS): „R. 19.1 VerfO“, „Regel 262A VerfO“, „Rule 19 RoP“, „R. 6 Abs. 1 DOEPS“; ohne Gesetzesangabe nie verlinken.
 RULE_HEADS = ("R.", "Regel", "Rule")
 # Deutsche Gesetze, die als eigene Normfamilien im Graphen liegen (eunorm:<key>:<nr>): `§ 3 PatG` -> eunorm:patg:3
@@ -428,6 +436,7 @@ def js_table():
         "self": list(SELF_LAW),
         "default": DEFAULT_LAW,
         "eukeys": EU_NORM_KEYS,
+        "rulekeys": RULE_NORM_KEYS,
         "dekeys": DE_NORM_KEYS,
         "ruleheads": list(RULE_HEADS),
         "paras": PARAGRAPHEN,

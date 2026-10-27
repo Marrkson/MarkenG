@@ -13,7 +13,7 @@ GEBIETE = [
     dict(id="marken", kurz="Marken", titel="Marken", farbe="#1482e3", icon="marke",
          beschreibung="Deutsches Markenrecht: Schutzfähigkeit, Verletzung, Schranken, Löschung, Kennzeichen, Rechtsfolgen; dazu Verfahrensrecht und Training an echten NS-Klausuren."),
     dict(id="patent", kurz="Patent", titel="Patent", farbe="#2f6b4f", icon="norm",
-         beschreibung="Patent und Gebrauchsmuster: Patentfähigkeit, Anmeldung und Erteilung, Schutzbereich und Verletzung, Einspruch und Nichtigkeit, europäische und internationale Anmeldung; dazu Training an echten TS-Klausuren."),
+         beschreibung="Patent und Gebrauchsmuster: Patentfähigkeit, Anmeldung und Erteilung, Schutzbereich und Verletzung, Einspruch und Nichtigkeit, europäische und internationale Anmeldung; dazu Training an echten TS-Klausuren und das EPÜ für die EQE (Paper D)."),
     dict(id="designg", kurz="DesignG", titel="DesignG", farbe="#b0562b", icon="register",
          beschreibung="Schutzvoraussetzungen, Anmeldung und Nichtigkeitsverfahren beim DPMA, Schutzumfang und Verletzung, Reparaturklausel, Unionsgeschmacksmuster und Designrichtlinien."),
     dict(id="upc", kurz="EPG", titel="Einheitliches Patentgericht (EPGÜ, VerfO)", farbe="#7a3e9d", icon="entscheidung",

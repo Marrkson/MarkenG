@@ -538,7 +538,7 @@ Gesetz und PDF im Cache sind), dann Belege des Kommentars prüfen (`build.py` br
 ## 17. Englische App für das EPG (docs/en/, Oktober 2026)
 
 IPelico gibt es für das Gebiet „Einheitliches Patentgericht“ zusätzlich auf Englisch unter `docs/en/` (Kurse u01 bis u10, Lernkarten,
-Suche, EPG-Rechtsprechung). Die übrigen Gebiete bleiben deutsch. Die englische App ist kein zweites Template, sondern wird aus
+Suche, EPG-Rechtsprechung), seit Oktober 2026 auch den EPÜ-Kurs e01 (Abschnitt 18). Die übrigen Gebiete bleiben deutsch. Die englische App ist kein zweites Template, sondern wird aus
 `src/templates/kurs.html` und dem deutschen EPG-Paket erzeugt (`build_kurs.build_en`); Inhalte bleiben in `src/knowledge/`.
 
 **Oberfläche.** `src/knowledge/upc/en/ui.py`: `STRUKTUR` (nur Gebiet EPG, Icons und Service Worker aus `../`, kein Lernnavigator, keine
@@ -577,3 +577,54 @@ Einträge: `python3 tools/i18n_en.py export DIR --nur-offen` schreibt die deutsc
 `src/knowledge/upc/en/` übernehmen, `python3 tools/i18n_en.py check src/knowledge/upc/en/<datei>.json` (Form, Zitate, deutsche Zitierformen).
 Nur den Hash nachziehen, wenn die deutsche Änderung die englische Fassung nicht berührt (Tippfehler): `tools/i18n_en.py stamp <datei>:<schlüssel>`.
 Rauchtest: der Abschnitt „Englische App“ in `tools/smoke_test.py` (Ansichten, deutsche Wörter, Chips, geteilter Fortschritt, Korpus).
+
+## 18. Fünftes Wissenspaket: EPÜ (Artikel, Regeln, Beschwerdekammern, Richtlinien, Amtsblatt) und der Kurs für EQE Paper D (Oktober 2026)
+
+So wurde das EPÜ aufgenommen (`src/knowledge/epc/`); Ziel ist die EQE (Paper D, Teil 1 bzw. Modul M2). Die Reihenfolge der Arbeit
+war: Normtext → Entscheidungen, die die Vorschrift nennen → Richtlinien → Amtsblatt → Kurs nach Prüfungshäufigkeit.
+
+**Quellen.** `tools/fetch_epc.py` schreibt fünf Dateien (alle versioniert, `build.py` braucht weder Netz noch Datenbank):
+- `data/epc.json`: Artikel und Regeln deutsch und englisch mit Teil, Kapitel, Fußnoten (daraus `grosse_kammer`, `amtsblatt`). Die
+  Datenbank (`EPOLegaltext`, type `epc`) hat nur Englisch und zieht bei geänderten Vorschriften alte und neue Fassung zusammen
+  (Änderungsmarkierungen `Del`/`New` der epo.org-Seiten, z. B. R. 154 „he they“); deshalb kommen beide Sprachen aus den HTML-Seiten
+  `epo.org/{de,en}/legal/epc/2020/<a54|r71>.html` (Cache `~/.cache/ipelico/epc/`, Gliederung aus dem Menü `oMenu` der Seiten,
+  `Del`-Spans entfernt), und der Datenbanktext dient nur der Kontrolle der Absatzzahl (Warnungen bei R. 6, 19, 46, 49, 123, 154, 155 sind
+  Markierungsreste der Datenbank). Gestrichene Vorschriften (R. 46 EPÜ) haben keine Absätze und tragen `gestrichen`.
+- `data/epc_decisions.json`: Tabelle `BoaDecision`, ohne Übersetzungen (`isTranslation`), aber mit deutschem Leitsatz/Link, wenn es eine
+  deutsche Fassung gibt. Ausgewählt: alle G, J, R, die T-Entscheidungen der Verteiler A bis C und jede in den Richtlinien zitierte;
+  `meta.zitiert` zählt die einschlägigen Vorschriften (`relevantLegalProv`, nur EPÜ 2000) über alle 49.000 Entscheidungen.
+- `data/epc_guidelines.json`: Richtlinien 2026 (type `gl`, englisch) je Abschnitt mit Randverweisen (`rand`, die Zeilen am Ende des
+  Datenbanktexts), zitierten Artikeln/Regeln und Entscheidungen. `data/epc_oj.json`: Amtsblatt seit 2008 (Beschlüsse, Mitteilungen,
+  Kammerentscheidungen mit EPÜ-Zitat). `data/eqe_d1.json`: die 54 Rechtsfragen der Paper D 2015 bis 2025 mit Thema und Rechtsgrundlagen
+  aus `~/github/EQEAnalysis/paper_D/output/D1_all_questions.json` (ohne Fragetext); `meta.rang` ist die Rangliste der Vorschriften.
+
+**Modell.** Zwei Normfamilien mit demselben Kürzel: `epc` (Artikel, `Art. 54 Abs. 3 EPÜ`) und `epcr` (Regeln, `R. 71 Abs. 3 EPÜ`).
+`build_graph` trennt Artikel- und Regelkürzel (`RL_BY_KURZ`, `RULE_BY_KURZ`, dazu `gesetze.RULE_NORM_KEYS`); EPÜ-Regeln behalten den
+Kleinbuchstaben (`eunorm:epcr:56a`), nur die VerfO-Regeln werden großgeschrieben (`262A`); die Apps lösen über `LAW.rulekeys` auf.
+GebO (engl. RFees) und VOBK (RPBA) sind keine Knoten, nur Links (`gesetze.ARTICLE_URLS["GebO"]`, `EU_LAWS["VOBK"]`). Jede Vorschrift trägt
+(`texte.py`) `zitiert`, `gl` (bis 12 Richtlinienabschnitte, Randverweise zuerst), `oj` (bis 8 neueste Amtsblattstellen), `eqe` (Paper-D-Fragen)
+und `hinweis` (`HINWEISE`, gegen den Normtext geprüft). Richtlinienabschnitte, auf die Begriffe verweisen (`gl=[…]` in `concepts.py`), werden
+`source`-Knoten (`source:epagl:e_viii_2`, deutscher Titel in `quellen.TITEL`, Zusammenfassung = Randverweise). Leitentscheidungen
+(`cases.py`, `cases_k*.py`, Helfer `eb`) werden gegen den Korpus geprüft; Gerichte GBK/JBK/TBK. `tools/check_zitate.py` prüft EPÜ-Zitate
+gegen `data/epc.json` (Artikel/Regel existiert, Absatz und Buchstabe vorhanden; in Ketten gehört die Untergliederung zur letzten Nummer).
+
+**App.** Lernkarte einer EPÜ-Vorschrift: Abschnitte „EQE Paper D“, „Rechtsprechung der Beschwerdekammern“ (nachgeladen aus
+`docs/boa_entscheidungen.json`, sortiert GBK, Verteiler A, JBK, Verteiler B), „Richtlinien für die Prüfung“ und „Amtsblatt des EPA“.
+Ansicht `#/boa` und `#/boa/norm/<id>`. Alle Oberflächentexte dieses Teils stehen im Objekt `EPA_T` in `kurs.html`; die englische App
+ersetzt es als Ganzes (`ui.EPA_T_DE`/`EPA_T_EN`, aus dem Template abgeleitet – bei Änderungen am Objekt beide anpassen).
+
+**Kurs.** `kurse/e01_epue_paper_d.py` (Gebiet Patent, Reihe „Europäisches Patent (EPÜ)“, `kompakt=True`), Kapitel je Vorschrift in den
+Modulen `_e01_a` bis `_e01_e`, sortiert nach `order` = Artikel × 100. Auswahl nach `eqe_d1.json`: Art. 54 EPÜ (15 von 54 Fragen),
+Art. 121, R. 134, Art. 122, R. 159, Art. 123, R. 131, R. 51 EPÜ … und das PCT (internationale Phase, nur im Text zitiert). Fälle an echten
+Paper-D-Fragen ausgerichtet, aber mit eigenen Sachverhalten, Daten mit Wochentag geprüft, Recht von 2026 (keine Zehn-Tage-Regel,
+R. 56a EPÜ, R. 7a EPÜ). Keine Gebührenbeträge.
+
+**Englisch.** Der EPÜ-Kurs ist Teil der englischen App (`knowledge/upc/en`: `EN_KURSE`, Gebiet Patent als „European Patent (EPC)“,
+Familien `epc`/`epcr` mit `absaetze_en` aus `data/epc.json`). Übersetzungen: `src/knowledge/upc/en/e01.json` und `epc_knoten_*.json`
+(Pflege wie Abschnitt 17, `tools/i18n_en.py`); Zitierform `Art. 54(3) EPC`, `R. 71(3) EPC`, `Art. 14(1) RFees`, `Art. 12(4) RPBA`,
+`R. 80.2 PCT`. Richtlinienquellen tragen ihren englischen Titel selbst. Fälle: GBK → EBA, JBK → LBA, TBK → TBA, Link auf die englische Fassung.
+
+**Aktualisieren.** Neue Kammerentscheidungen, Richtlinien- oder Amtsblattausgaben: Datenbank aktualisieren, `python3 tools/fetch_epc.py
+--nur boa,gl,oj --no-net` (bei neuer Richtlinienausgabe `2026` in `fetch_epc.py`, `quellen.py`, `EPA_T.gl` und `TITEL` prüfen). Neue
+EPÜ-Fassung: Cache `~/.cache/ipelico/epc/{de,en}` löschen, `--nur texte` mit Netz, dann `HINWEISE` gegen den Text prüfen. Neue Paper-D-
+oder M2-Fragen: `EQEAnalysis` fortschreiben, `--nur eqe`. Rauchtest: `#/boa`, `#/karte/eunorm:epc:54`, `#/karte/eunorm:epcr:56a`, `#/kurs/e01` (auch englisch).

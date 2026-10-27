@@ -37,7 +37,10 @@ from knowledge.gesetze import ALIASES  # noqa: E402
 CACHE = Path.home() / ".cache" / "ipelico" / "gesetze"
 LOCAL = {"MarkenG": "markeng", "PatG": "patg", "PatV": "patv", "IntPatÜG": "intpatueg", "IntPatÜbkG": "intpatueg",
          "PatKostG": "patkostg", "DesignG": "designg", "DesignV": "designv", "ArbnErfG": "arbnerfg"}
-PAKET_LAW = {"marken": DEFAULT_LAW, "patent": None, "design": None, "upc": None, "en": None}
+PAKET_LAW = {"marken": DEFAULT_LAW, "patent": None, "design": None, "upc": None, "en": None, "epc": None}
+# EPÜ (Artikel und Regeln) aus data/epc.json für die Strukturprüfung: {"Art.": {"54": [absätze]}, "R.": {"56a": […]}}
+_EPC = json.loads((ROOT / "data" / "epc.json").read_text(encoding="utf-8"))
+EPC_TEXTE = {"Art.": {a["nr"]: a for a in _EPC["artikel"]}, "R.": {r["nr"]: r for r in _EPC["regeln"]}}
 SKIP_KEYS = {"url", "url_pdf", "url_en", "id", "icon", "farbe", "concepts", "cases", "distinctions", "norms", "related",
              "ipwiki", "quellen", "tags", "az", "date", "court", "fundstelle", "rl", "korpus", "type", "schema", "step",
              "umsetzung", "entspricht", "bezug", "typ", "level", "order", "gebiet"}
@@ -152,10 +155,47 @@ def check_structure(m, law, texts):
     return probs
 
 
+def check_epc(m):
+    """Befunde für ein EPÜ-Zitat: Artikel bzw. Regel existiert (und ist nicht gestrichen), zitierte Absätze und Buchstaben kommen vor."""
+    head, nums, sub = m.group(G_HEAD), m.group(G_NUMS), m.group(G_SUB)
+    kind = "R." if head in RULE_HEADS else ("Art." if head == "Art." else None)
+    if kind is None:
+        return []
+    probs = []
+    found = _NUM.findall(nums)
+    for i, n in enumerate(found):
+        p = EPC_TEXTE[kind].get(n)
+        if p is None:
+            probs.append("%s %s EPÜ existiert nicht" % (kind, n))
+            continue
+        if not p["absaetze"]:
+            probs.append("%s %s EPÜ ist gestrichen" % (kind, n))
+            continue
+        if i != len(found) - 1:  # „Art. 84, 123 Abs. 2, 3 EPÜ“: die Untergliederung gehört zur letzten Nummer der Kette
+            continue
+        cur = p["absaetze"]
+        for k2, vals in _subparts(sub):
+            if k2 == "abs":
+                have = [a["nr"] for a in p["absaetze"]]
+                miss = [v for v in vals if v not in have]
+                if miss:
+                    probs.append("%s %s EPÜ hat keinen Abs. %s" % (kind, n, ", ".join(miss)))
+                    break
+                cur = [a for a in p["absaetze"] if a["nr"] in vals]
+            elif k2 == "lit":
+                text = "\n".join(a["text"] for a in cur)
+                miss = [v for v in vals if not _has_item(text, v, "lit")]
+                if miss:
+                    probs.append("%s %s EPÜ: lit. %s nicht gefunden" % (kind, n, ", ".join(miss)))
+                    break
+    return probs
+
+
 # ------------------------------------------------------------------ Inhalte einsammeln
 def _paket_of_id(nid, node=None):
     s = nid.split(":", 1)[1] if ":" in nid else nid
-    for pre, pk in (("d_pat_", "patent"), ("pat_", "patent"), ("d_des_", "design"), ("des_", "design"), ("d_upc_", "upc"), ("upc_", "upc")):
+    for pre, pk in (("d_pat_", "patent"), ("pat_", "patent"), ("d_des_", "design"), ("des_", "design"), ("d_upc_", "upc"), ("upc_", "upc"),
+                    ("d_epc_", "epc"), ("epc_", "epc"), ("epagl:", "epc")):
         if s.startswith(pre):
             return pk
     if node is not None and node.get("type") == "source" and node.get("provider") not in (None, "IPWiki"):
@@ -184,7 +224,7 @@ def items(graph):
             nid = parent[nid]
             n = nodes[nid]
         if n["type"] == "course":
-            return {"k": "marken", "p": "patent", "d": "design", "u": "upc"}[n["id"].split(":")[1][0]]
+            return {"k": "marken", "p": "patent", "d": "design", "u": "upc", "e": "epc"}[n["id"].split(":")[1][0]]
         return _paket_of_id(nid, n)
 
     def walk(v, path, emit):
@@ -215,7 +255,7 @@ def items(graph):
         walk({k: v for k, v in n.items() if k not in ("label",) or n["type"] != "case"}, "",
              lambda p, s: out.append((pk, n["id"], p, s, PAKET_LAW[pk])))
     for k in KURSE:
-        pk = {"k": "marken", "p": "patent", "d": "design", "u": "upc"}[k["id"][0]]
+        pk = {"k": "marken", "p": "patent", "d": "design", "u": "upc", "e": "epc"}[k["id"][0]]
         walk({x: y for x, y in k.items() if x != "kapitel"}, "", lambda p, s: out.append((pk, "course:" + k["id"], p, s, PAKET_LAW[pk])))
         for c in k["kapitel"]:
             walk({x: y for x, y in c.items() if x != "einheiten"}, "", lambda p, s: out.append((pk, "chapter:" + c["id"], p, s, PAKET_LAW[pk])))
@@ -279,14 +319,14 @@ def main():
             if how == "alte Fassung":
                 continue
             href = href_for(m, law)
-            content = pk in ("marken", "patent", "design", "upc", "en")
+            content = pk in ("marken", "patent", "design", "upc", "en", "epc")
             if law == "":
                 befunde.append(("WARNUNG", pk, nid, field, cite, "nicht verlinkbares Gesetz", around))
                 continue
             if not law or (how == "kontext" and href is None):
                 befunde.append(("FEHLER" if content else "WARNUNG", pk, nid, field, cite, "Gesetzesangabe fehlt", around))
                 continue
-            probs = check_structure(m, law, texts) if law in LAWS else []
+            probs = check_structure(m, law, texts) if law in LAWS else (check_epc(m) if law == "EPÜ" else [])
             for p in probs:
                 if pk in ("texte", "leitsaetze") and ("gibt es nicht" in p or "nicht gefunden" in p):
                     continue  # amtlicher Wortlaut/Leitsatz: Untergliederung älterer Fassungen nicht beanstanden

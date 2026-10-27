@@ -490,7 +490,7 @@ const TYPE = {fall:['fall','Fall'], mc:['quiz','Wissensfrage'], intro:['intro','
 const LEVEL = ['','Basics','Fortgeschritten','Examen'];
 const nn = n => String(n).padStart(2,'0');
 const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?:[ (].*)? (\S+)$/); if(m&&LAW.eukeys[m[2]]) return byId.get('eunorm:'+LAW.eukeys[m[2]]+':'+m[1]);
-  m=r.match(/^(?:R\.|Regel|Rule) (\d+[A-Za-z]?)(?:\.\d+)*(?:\([a-z0-9]+\))*(?: .*)? (\S+)$/); if(m&&LAW.eukeys[m[2]]) return byId.get('eunorm:'+LAW.eukeys[m[2]]+':'+m[1].toUpperCase());
+  m=r.match(/^(?:R\.|Regel|Rule) (\d+[A-Za-z]?)(?:\.\d+)*(?:\([a-z0-9]+\))*(?: .*)? (\S+)$/); if(m&&LAW.rulekeys[m[2]]) return byId.get('eunorm:'+LAW.rulekeys[m[2]]+':'+m[1]); if(m&&LAW.eukeys[m[2]]) return byId.get('eunorm:'+LAW.eukeys[m[2]]+':'+m[1].toUpperCase());
   m=r.match(/^Art\. ([IVX]+)(?: § (\d+[a-z]?))?(?: .*)? (\S+)$/); if(m&&LAW.dekeys[m[3]]) return byId.get('eunorm:'+LAW.dekeys[m[3]]+':'+m[1]+(m[2]?'§'+m[2]:''));
   m=r.match(/^Anlage(?: (\d+))? (\S+)$/); if(m&&LAW.dekeys[m[2]]) return byId.get('eunorm:'+LAW.dekeys[m[2]]+':anlage'+(m[1]?'_'+m[1]:''));
   m=r.match(/^§ (\d+[a-z]?)(?: .*)? (\S+)$/); if(m&&LAW.dekeys[m[2]]) return byId.get('eunorm:'+LAW.dekeys[m[2]]+':'+m[1]);
@@ -498,9 +498,10 @@ const normNode = r => { let m=r.match(/^Art\. (\d+[a-z]?)(?:[ (].*)? (\S+)$/); i
 // „Art. 33 Abs. 1 EPGÜ“ und englisch „Art. 33(1) UPCA“ (docs/en/) führen beide auf eunorm:upca:33
 // Quelle eines EU-/Übereinkommensknotens und Sortenbezeichnung (Richtlinie, EPGÜ, VerfO)
 const srcName = u => /eur-lex/.test(u||'') ? 'EUR-Lex' : /epo\.org/.test(u||'') ? 'epo.org' : /unifiedpatentcourt/.test(u||'') ? 'unifiedpatentcourt.org (PDF)' : /gesetze-im-internet/.test(u||'') ? 'gesetze-im-internet.de' : 'Quelle';
-const RL_FAM = {markenrl:'Richtlinie',durchsetzungsrl:'Richtlinie',upca:'EPGÜ',rop:'VerfO',epatvo:'EPatVO',epatuevo:'EPatÜVO',doeps:'DOEPS',gebeps:'GebOEPS',patg:'PatG',patv:'PatV',intpatueg:'IntPatÜG',patkostg:'PatKostG',designg:'DesignG',designv:'DesignV',designrl:'DesignRL',designrl2024:'DesignRL 2024',ggv:'GGV'};
+const RL_FAM = {markenrl:'Richtlinie',durchsetzungsrl:'Richtlinie',upca:'EPGÜ',rop:'VerfO',epatvo:'EPatVO',epatuevo:'EPatÜVO',doeps:'DOEPS',gebeps:'GebOEPS',patg:'PatG',patv:'PatV',intpatueg:'IntPatÜG',patkostg:'PatKostG',designg:'DesignG',designv:'DesignV',designrl:'DesignRL',designrl2024:'DesignRL 2024',ggv:'GGV',epc:'EPÜ',epcr:'Ausführungsordnung EPÜ'};
 const euKind = n => n.type!=='eunorm' ? null : (RL_FAM[n.rl]||n.kurz||'Richtlinie');
 const isUpc = n => n && n.type==='eunorm' && (n.rl==='upca'||n.rl==='rop'); // Zitierzähler aus dem EPG-Korpus nur für EPGÜ und VerfO
+const isEpa = n => n && n.type==='eunorm' && n.korpus==='epa'; // EPÜ und Ausführungsordnung: Beschwerdekammern, Richtlinien, Amtsblatt, Paper D
 const KORPUS = {patent:'patent_entscheidungen.json', design:'design_entscheidungen.json', arbnerfg:'arbnerfg_entscheidungen.json'}; // Entscheidungskorpora BPatG/BGH (Patent- und Designsachen), Schiedsstelle ArbEG und BGH, nachgeladen
 const KORPUS_NAME = {patent:'BPatG und BGH', design:'Design: BPatG und BGH', arbnerfg:'Schiedsstelle und BGH'};
 const KORPUS_GEN = {patent:'des BPatG und des BGH', design:'des BPatG und des BGH', arbnerfg:'der Schiedsstelle nach dem ArbnErfG und des BGH'}; // Genitiv für „Entscheidungen …“
@@ -705,16 +706,17 @@ function inlineCard(n, ref){
   let b='';
   if(n.type==='concept') b=`<h5>${esc(n.label)}</h5><p>${txt(n.definition)}</p><p class="meta">${txt(n.erlaeuterung)}</p>${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id).slice(0,6)))}${section('Verwandt',chips(related(n.id).slice(0,6)))}`;
   else if(n.type==='norm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5>${normText(n,ref)}<div class="meta"><a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
-  else if(n.type==='eunorm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)}${n.abschnitt?' · '+esc(n.abschnitt):''}${n.titel_en?' · <i>'+esc(n.titel_en)+'</i>':''}</div>${n.absaetze.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${ntxt(a.text,n)}</div>`).join('')}${n.hinweis?`<div class="box merke"><div class="k">${ic('merke','s')}${isUpc(n)?'Hinweis':'Umsetzung'}</div>${lawify(esc(n.hinweis), hinweisLaw(n))}</div>`:''}${weitereTable(n)}${upcCites(n)}<div class="meta">${n.paraphrase?'Paraphrase; Wortlaut auf':'Amtlicher Wortlaut; Quelle:'} <a href="${esc(n.url)}" target="_blank" rel="noopener">${srcName(n.url)} ↗</a></div>`;
+  else if(n.type==='eunorm') b=`<h5>${esc(n.label)} – ${esc(n.titel)}</h5><div class="meta">${esc(n.gesetz)}${n.abschnitt?' · '+esc(n.abschnitt):''}${n.titel_en?' · <i>'+esc(n.titel_en)+'</i>':''}</div>${n.absaetze.map(a=>`<div class="abs">${a.nr?`<b>(${esc(a.nr)})</b>`:''}${ntxt(a.text,n)}</div>`).join('')}${n.hinweis?`<div class="box merke"><div class="k">${ic('merke','s')}${isUpc(n)||isEpa(n)?'Hinweis':'Umsetzung'}</div>${lawify(esc(n.hinweis), hinweisLaw(n))}</div>`:''}${weitereTable(n)}${upcCites(n)}<div class="meta">${n.paraphrase?'Paraphrase; Wortlaut auf':'Amtlicher Wortlaut; Quelle:'} <a href="${esc(n.url)}" target="_blank" rel="noopener">${srcName(n.url)} ↗</a></div>`;
   else if(n.type==='distinction') b=`<h5>${esc(n.label)}</h5>`+cmpTable(n);
-  else if(n.type==='case') b=`<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta mono">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">dejure ↗</a></div><p>${txt(n.kern)}</p>${section('Normen',chips(norms(n.id)))}`;
+  else if(n.type==='case') b=`<h5>${esc(n.court)} „${esc(n.name)}“</h5><div class="meta mono">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">${/epo\.org/.test(n.url)?'epo.org':'dejure'} ↗</a></div><p>${txt(n.kern)}</p>${section('Normen',chips(norms(n.id)))}`;
   else if(n.type==='step') b=`<h5>${esc(n.label)}</h5><p>${txt(n.text)}</p>${section('Begriffe',chips(related(n.id)))}${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id)))}`;
   else if(n.type==='schema') b=`<h5>${esc(n.label)}</h5><p>${txt(n.beschreibung)}</p>`;
   const kinds={concept:'Definition',norm:'Gesetz',eunorm:'Richtlinie',case:'Entscheidung',step:'Prüfungspunkt',schema:'Prüfungsschema',distinction:'Abgrenzung / Tabelle'};
   return `<div class="inline ${n.type}"><div class="k">${euKind(n)||kinds[n.type]||n.type}<a class="lkl" href="#/karte/${encodeURIComponent(n.id)}">Lernkarte${ic('weiter','s')}</a></div>${b}</div>`;
 }
 // EPG-Rechtsprechung: Zitierzähler an EPGÜ-Artikeln und VerfO-Regeln (Korpus wird in vEpg nachgeladen)
-function upcCites(n){ if(isPat(n)){ const z=n.zitiert||0, kg=KORPUS_GEN[n.korpus]||KORPUS_GEN.patent; return `<div class="meta" style="margin-top:8px">${ic('entscheidung','s')} ${z?`In <a href="#/bpatg/norm/${encodeURIComponent(n.id)}">${z} Entscheidungen ${kg}</a> zitiert`:`Bisher in keiner Entscheidung ${kg} zitiert`}</div>`; }
+function upcCites(n){ if(isEpa(n)){ const z=n.zitiert||0; return `<div class="meta" style="margin-top:8px">${ic('entscheidung','s')} ${z?EPA_T.zitiert(z,'#/boa/norm/'+encodeURIComponent(n.id)):EPA_T.nie}${n.eqe&&n.eqe.length?` · ${ic('klausur','s')} ${EPA_T.eqeKurz(n.eqe.length)}`:''}</div>`; }
+  if(isPat(n)){ const z=n.zitiert||0, kg=KORPUS_GEN[n.korpus]||KORPUS_GEN.patent; return `<div class="meta" style="margin-top:8px">${ic('entscheidung','s')} ${z?`In <a href="#/bpatg/norm/${encodeURIComponent(n.id)}">${z} Entscheidungen ${kg}</a> zitiert`:`Bisher in keiner Entscheidung ${kg} zitiert`}</div>`; }
   if(!isUpc(n)) return ''; const z=n.zitiert||0; return `<div class="meta" style="margin-top:8px">${ic('entscheidung','s')} ${z?`In <a href="#/epg/norm/${encodeURIComponent(n.id)}">${z} Entscheidungen des EPG</a> zitiert`:'Bisher in keiner Entscheidung des EPG zitiert'}${n.url_en?` · <a href="${esc(n.url_en)}" target="_blank" rel="noopener">English ↗</a>`:''}</div>`; }
 function cmpTable(n){ return `<p class="meta"><i>${txt(n.frage)}</i></p><div class="tblw"><table class="cmp"><tr><th></th>${n.spalten.map(s=>`<th>${esc(s)}</th>`).join('')}</tr>${n.kriterien.map((k,i)=>`<tr><td><b>${esc(k)}</b></td>${n.rows[i].map(v=>`<td>${txt(v)}</td>`).join('')}</tr>`).join('')}</table></div>${n.merksatz?`<div class="box merke"><div class="k">${ic('merke','s')}Merke</div>${txt(n.merksatz)}</div>`:''}`; }
 function weitereTable(n){ const w=n.umsetzung_weitere||{}; const keys=Object.keys(w); if(!keys.length) return '';
@@ -767,7 +769,7 @@ function bnav(){ const h=location.hash||'#/'; const item=(href,icn,l)=>`<a href=
   document.getElementById('bnav').innerHTML=item('#/','tab-kurse','Kurse')+item('#/wdh','tab-wdh','Wiederholen')+item('#/profil','tab-profil','Profil')+item('#/didaktik','tab-konzept','Konzept');
   const fab=document.getElementById('fab'); const on=h.startsWith('#/suche')||h.startsWith('#/karte'); fab.classList.toggle('active',on); fab.innerHTML=ic('suche'); if(on) fab.setAttribute('aria-current','page'); else fab.removeAttribute('aria-current'); }
 function route(){ const h=decodeURIComponent(location.hash||'#/').replace(/^#\//,''); const [v,a,b]=h.split('/'); window.scrollTo(0,0); if(settle()) Store.save(P); bnav();
-  radar(); ({'':vHome,kurse:vKurse,kurs:vKurs,lernen:vLernen,wdh:vWdh,profil:vProfil,didaktik:vDidaktik,ende:vEnde,suche:vSuche,karte:vKarte,epg:vEpg,bpatg:vPat}[v]||vHome)(a,b); top.classList.toggle('scrolled', scrollY>8); notice(); }
+  radar(); ({'':vHome,kurse:vKurse,kurs:vKurs,lernen:vLernen,wdh:vWdh,profil:vProfil,didaktik:vDidaktik,ende:vEnde,suche:vSuche,karte:vKarte,epg:vEpg,boa:vBoa,bpatg:vPat}[v]||vHome)(a,b); top.classList.toggle('scrolled', scrollY>8); notice(); }
 window.addEventListener('hashchange',route);
 
 function nextUnit(){ if(P.last&&UNIT.has(P.last)){ const i=UNITS.findIndex(e=>e.id===P.last); for(let j=i+1;j<UNITS.length;j++) if(!P.u[UNITS[j].id]) return UNITS[j]; } return UNITS.find(e=>!P.u[e.id])||UNITS[0]; }
@@ -806,10 +808,11 @@ function vHome(){
     <a class="qa" href="#/kurs/k12">${ic('klausur')}Klausurtraining</a>
     <a class="qa" href="navigator/#gesetz">${ic('norm')}Gesetz</a>
     <a class="qa" href="#/epg">${ic('entscheidung')}EPG-Rechtsprechung</a>
+    <a class="qa" href="#/boa">${ic('entscheidung')}Beschwerdekammern EPA</a>
     <a class="qa" href="#/bpatg">${ic('entscheidung')}BPatG und BGH</a>
     <a class="qa" href="#/bpatg/design">${ic('entscheidung')}Design-Rechtsprechung</a>
     <a class="qa" href="#/bpatg/arbnerfg">${ic('entscheidung')}Schiedsstelle ArbnErfG</a>
-    <a class="qa" href="en/" hreflang="en" lang="en">${ic('union')}UPC in English</a>
+    <a class="qa" href="en/" hreflang="en" lang="en">${ic('union')}UPC and EPC in English</a>
     <a class="qa" href="#/didaktik">${ic('tab-konzept')}Konzept</a>
     <a class="qa" href="#/profil">${ic('tab-profil')}Profil</a>
     <button class="qa" id="qtheme">${ic(dark?'hell':'dunkel')}${dark?'Hell':'Dunkel'}</button>
@@ -839,7 +842,7 @@ function vKurse(gid){
     const reihen=[]; for(const k of ks){ const r=k.reihe||''; let sec=reihen.find(x=>x.r===r); if(!sec){ sec={r,ks:[]}; reihen.push(sec); } sec.ks.push(k); }
     reihen.sort((a,b)=>(a.r?1:0)-(b.r?1:0));
     main.innerHTML=`<p class="lead" style="margin-top:4px">${esc(g.beschreibung||'')}</p>
-      <div class="mrow" style="margin:-6px 0 14px">${ic('tab-kurse','m')}<span>${ks.length} ${ks.length===1?'Kurs':'Kurse'} · ${u.length} Einheiten</span><span>·</span><span class="mono">${p.ok}/${p.total} gelöst</span></div>${g.id==='upc'?`<p class="meta" style="margin:-6px 0 14px"><a href="en/" hreflang="en" lang="en">${ic('union','s')} This area in English: courses, cards and case law</a></p>`:''}
+      <div class="mrow" style="margin:-6px 0 14px">${ic('tab-kurse','m')}<span>${ks.length} ${ks.length===1?'Kurs':'Kurse'} · ${u.length} Einheiten</span><span>·</span><span class="mono">${p.ok}/${p.total} gelöst</span></div>${g.id==='upc'||g.id==='patent'?`<p class="meta" style="margin:-6px 0 14px"><a href="en/${g.id==='patent'?'#/kurs/e01':''}" hreflang="en" lang="en">${ic('union','s')} ${g.id==='patent'?'The EPC course (EQE Paper D) in English':'This area in English: courses, cards and case law'}</a></p>`:''}
       ${reihen.map(sec=>`<section class="sec">${sec.r?`<div class="sh" style="margin-top:18px"><h2>${esc(sec.r)}</h2></div>`:''}<div class="${v==='grid'?'lgrid':'lstack'}">${sec.ks.map(lcard).join('')}</div></section>`).join('')}`; };
   render();
   document.getElementById('view').onclick=ev=>{ const b=ev.target.closest('button'); if(!b) return; try{ localStorage.setItem('mgk_view',b.dataset.v); }catch(e){} render(); };
@@ -1056,7 +1059,7 @@ function vKarte(id){
   const wk = WEAK.get(id)||[];
   // Kopf
   let head = `<div class="lk-h"><div class="tags"><span class="tag ${n.type==='concept'?'':'brand'}">${ic(CHIP_ICON[n.type]||'begriff','s')}${kinds[n.type]}</span>${n.kategorie?`<span class="tag">${esc(n.kategorie)}</span>`:''}${n.type==='step'&&schemaOf(id)?`<span class="tag">${esc(schemaOf(id).label)}</span>`:''}</div><h1>${esc(nodeTitle(n))}</h1>`;
-  if(n.type==='case') head+=`<div class="meta mono">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">${/unifiedpatentcourt/.test(n.url)?'unifiedpatentcourt.org':/bundesgerichtshof/.test(n.url)?'bundesgerichtshof.de':/bundespatentgericht/.test(n.url)?'bundespatentgericht.de':'dejure'} ↗</a></div>`;
+  if(n.type==='case') head+=`<div class="meta mono">${esc(n.date.split('-').reverse().join('.'))} – ${esc(n.az)}${n.fundstelle?' – '+esc(n.fundstelle):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">${/unifiedpatentcourt/.test(n.url)?'unifiedpatentcourt.org':/bundesgerichtshof/.test(n.url)?'bundesgerichtshof.de':/bundespatentgericht/.test(n.url)?'bundespatentgericht.de':/epo\.org/.test(n.url)?'epo.org':'dejure'} ↗</a></div>`;
   if(n.type==='norm') head+=`<div class="meta">${esc(n.teil||'')}${n.abschnitt?' · '+esc(n.abschnitt):''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">gesetze-im-internet.de ↗</a></div>`;
   if(n.type==='eunorm') head+=`<div class="meta">${esc(n.gesetz)}${n.kapitel?' · '+esc(n.kapitel):''}${n.abschnitt?' · '+esc(n.abschnitt):''}${n.titel_en?' · <i>'+esc(n.titel_en)+'</i>':''} · <a href="${esc(n.url)}" target="_blank" rel="noopener">${srcName(n.url)} ↗</a>${n.url_en?` · <a href="${esc(n.url_en)}" target="_blank" rel="noopener">English ↗</a>`:''}</div>`;
   head+=`</div>`;
@@ -1079,6 +1082,12 @@ function vKarte(id){
     const bez = O(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.target)); sec('bezug','union','Bezug: '+famNames(bez),chips(uniq(bez)));
     const bezIn = I(id).filter(e=>e.relation==='konkretisiert').map(e=>byId.get(e.source)); sec('regeln','richtlinie','Konkretisiert in: '+famNames(bezIn),chips(uniq(bezIn)));
     if(isPat(n)) sec('bpatg','entscheidung',`Rechtsprechung ${KORPUS_GEN[n.korpus]||KORPUS_GEN.patent}`,`<div id="pat-inline" class="glass list"></div><p class="meta">${n.zitiert?`${n.zitiert} Entscheidungen nennen ${esc(n.label)}. <a href="#/bpatg/norm/${encodeURIComponent(id)}">Alle anzeigen</a>`:`Bisher in keiner Entscheidung ${KORPUS_GEN[n.korpus]||KORPUS_GEN.patent} zitiert.`}</p>`);
+    if(isEpa(n)){
+      if(n.eqe&&n.eqe.length) sec('eqe','klausur',EPA_T.eqe,`<p class="meta" style="margin-top:0">${EPA_T.eqeLead(esc(n.label))}</p><div class="glass list">${n.eqe.map(q=>`<div class="row" style="padding-top:6px;padding-bottom:6px"><div class="b"><div class="s"><b class="mono">${EPA_T.frage(q.jahr,esc(q.nr))}</b> · ${esc(q.thema)}</div></div></div>`).join('')}</div>`);
+      sec('boa','entscheidung',EPA_T.rspr,`<div id="boa-inline" class="glass list"></div><p class="meta">${n.zitiert?EPA_T.nennen(n.zitiert,esc(n.label),'#/boa/norm/'+encodeURIComponent(id)):EPA_T.nieKurz}${n.grosse_kammer&&n.grosse_kammer.length?`<br>${EPA_T.gbk}: ${n.grosse_kammer.map(esc).join(', ')}`:''}</p>`);
+      if(n.gl&&n.gl.length) sec('gl','norm',EPA_T.glT,`<div class="glass list">${n.gl.map(g=>`<a class="row" href="${esc(GL_URL(g.id))}" target="_blank" rel="noopener"><div class="b"><div class="t"><span class="mono">${esc(g.ref)}</span> ${esc(g.titel)}</div><div class="s">${g.rand?EPA_T.rand:EPA_T.imText}</div></div>${ic('extern','s')}</a>`).join('')}</div><p class="meta">${n.gl_n>n.gl.length?EPA_T.glMehr(n.gl_n,esc(n.label)):''}${EPA_T.glEn}</p>`);
+      if((n.oj&&n.oj.length)||(n.amtsblatt&&n.amtsblatt.length)) sec('oj','extern',EPA_T.ojT,`${n.oj&&n.oj.length?`<div class="glass list">${n.oj.map(o=>`<a class="row" href="${esc(EPA_T.oj(o.url))}" target="_blank" rel="noopener"><div class="b"><div class="t"><span class="mono">${EPA_T.abl} ${esc(o.ref)}</span></div><div class="s">${esc(o.titel)}</div></div>${ic('extern','s')}</a>`).join('')}</div>`:''}<p class="meta">${n.oj_n>((n.oj||[]).length)?EPA_T.ojMehr(n.oj_n,esc(n.label)):''}${n.amtsblatt&&n.amtsblatt.length?`${EPA_T.fn} ${n.amtsblatt.map(r=>EPA_T.abl+' '+esc(r)).join(', ')}.`:''}</p>`);
+    }
     if(isUpc(n)) sec('epg','entscheidung',`EPG-Rechtsprechung`,`<div id="epg-inline" class="glass list"></div><p class="meta">${n.zitiert?`${n.zitiert} Entscheidungen nennen ${esc(n.label)}. <a href="#/epg/norm/${encodeURIComponent(id)}">Alle anzeigen</a>`:'Bisher in keiner Entscheidung des EPG zitiert.'}${n.url_en?` · <a href="${esc(n.url_en)}" target="_blank" rel="noopener">English ↗</a>`:''}</p>`); }
   // 3 Prüfung
   if(n.type==='concept'||n.type==='case') { const st2 = n.type==='concept' ? stepsUsing : []; sec('pruefung','schema','Im Prüfungsschema',list(st2.map(x=>[x,esc((schemaOf(x.id)||{}).label||'')]))); }
@@ -1094,6 +1103,7 @@ function vKarte(id){
   main.innerHTML = head + (S.length>2?`<nav class="toc" aria-label="Abschnitte">${S.map(s=>`<a class="glass pill" href="#sec-${s.key}">${ic(s.icn)}${s.title}</a>`).join('')}</nav>`:'') + S.map(s=>`<section class="sec" id="sec-${s.key}"><h2>${ic(s.icn)}${s.title}${s.key==='faelle'?`<span class="meta mono" style="margin-left:auto">${units.length}</span>`:''}</h2>${s.html}</section>`).join('') + `<p class="meta" style="margin-top:20px">Im <a href="navigator/#/${n.type}/${encodeURIComponent(id)}">Lernnavigator öffnen</a> (Graph, Karteikarten).</p>`;
   main.querySelectorAll('.toc a').forEach(a=>a.onclick=ev=>{ ev.preventDefault(); const t=document.querySelector(a.getAttribute('href')); if(t) t.scrollIntoView({behavior:'smooth',block:'start'}); });
   if(isPat(n)&&n.zitiert){ const box=document.getElementById('pat-inline'); patLoad(n.korpus).then(d=>{ if(!box||!box.isConnected) return; const l=patFor(d,n).slice(0,6); box.innerHTML=l.map(e=>patRow(e,d)).join(''); }).catch(()=>{ if(box) box.innerHTML=`<div class="row"><div class="b"><div class="s">Entscheidungsdatenbank nicht geladen (nur über http erreichbar).</div></div></div>`; }); }
+  if(isEpa(n)&&n.zitiert){ const box=document.getElementById('boa-inline'); boaLoad().then(d=>{ if(!box||!box.isConnected) return; box.innerHTML=boaFor(d,n).slice(0,6).map(boaRow).join(''); }).catch(()=>{ if(box) box.innerHTML=`<div class="row"><div class="b"><div class="s">${EPA_T.nichtHttp}</div></div></div>`; }); }
   if(isUpc(n)&&n.zitiert){ const box=document.getElementById('epg-inline'); epgLoad().then(d=>{ if(!box||!box.isConnected) return; const l=epgFor(d,n).slice(0,6); box.innerHTML=l.map(epgRow).join(''); }).catch(()=>{ if(box) box.innerHTML=`<div class="row"><div class="b"><div class="s">Entscheidungsdatenbank nicht geladen (nur über http erreichbar).</div></div></div>`; }); }
 }
 // ---------- EPG-Rechtsprechung: Korpus aller Entscheidungen des Einheitlichen Patentgerichts (nachgeladen) ----------
@@ -1122,6 +1132,48 @@ function vEpg(a, b){
       const m=document.getElementById('emore'); if(m) m.onclick=()=>{ shown+=40; render(); }; };
     render();
   }).catch(err=>{ document.getElementById('epg-box').innerHTML=`<div class="box bad"><div class="k">${ic('falsch','s')}Nicht geladen</div>Die Entscheidungsdatenbank (upc_entscheidungen.json) konnte nicht geladen werden. Sie ist nur über einen Webserver erreichbar (${esc(String(err))}).</div>`; });
+}
+// ---------- Beschwerdekammern des EPA: Korpus der G-, J-, R- und der verteilten T-Entscheidungen (nachgeladen) ----------
+let BOA=null;
+// Oberflächentexte des EPÜ-Teils an einer Stelle (die englische App ersetzt dieses Objekt als Ganzes, knowledge/upc/en/ui.py)
+const EPA_T = {de:true, gl:'https://www.epo.org/de/legal/guidelines-epc/2026/', oj:u=>u, file:'boa_entscheidungen.json', kurz:'EPÜ', abl:'ABl. EPA', q:'',
+  art:{G:'Große Beschwerdekammer',J:'Juristische Beschwerdekammer',R:'Überprüfungsantrag',T:'Technische Beschwerdekammer',D:'Disziplinarkammer',W:'Beschwerdekammer (PCT)'},
+  titel:'Beschwerdekammern des EPA', alle:'Alle Kammern', verteilerAlle:'Alle Verteiler', verteiler:'Verteiler', nurLs:'nur mit Leitsatz', kein:'Kein Leitsatz veröffentlicht.',
+  suche:'Aktenzeichen, Stichwort, Leitsatz …', lade:'Lade Entscheidungen …', von:'von', entsch:'Entscheidungen', quelle:'Quelle', stand:'Stand', weitere:'Weitere', anzeigen:'anzeigen',
+  leadNorm:l=>`Entscheidungen der Beschwerdekammern, die <b>${l}</b> als einschlägige Vorschrift nennen (zuerst Große Beschwerdekammer und Verteiler A).`,
+  lead:'Alle Entscheidungen der Großen und der Juristischen Beschwerdekammer, die Überprüfungsanträge und die veröffentlichten oder an die Vorsitzenden verteilten Entscheidungen der Technischen Beschwerdekammern, mit Leitsätzen, Schlagworten und den einschlägigen Vorschriften des EPÜ.',
+  fehler:e=>`Die Entscheidungsdatenbank (boa_entscheidungen.json) konnte nicht geladen werden. Sie ist nur über einen Webserver erreichbar (${e}).`, nichtGeladen:'Nicht geladen',
+  nichtHttp:'Entscheidungsdatenbank nicht geladen (nur über http erreichbar).',
+  zitiert:(z,h)=>`In <a href="${h}">${z} Entscheidungen der Beschwerdekammern</a> genannt`, nie:'In keiner Entscheidung der Beschwerdekammern als einschlägige Vorschrift genannt',
+  eqeKurz:n=>`${n}× in EQE Paper D`, eqe:'EQE Paper D', eqeLead:l=>`Die Musterlösungen dieser Prüfungsfragen ziehen ${l} heran:`, frage:(j,nr)=>`Paper D ${j}, Frage ${nr}`,
+  rspr:'Rechtsprechung der Beschwerdekammern', nennen:(z,l,h)=>`${z} Entscheidungen nennen ${l} als einschlägige Vorschrift. <a href="${h}">Alle anzeigen</a>`, nieKurz:'In keiner Entscheidung als einschlägige Vorschrift genannt.',
+  gbk:'Große Beschwerdekammer (Fußnote im EPÜ)', glT:'Richtlinien für die Prüfung', rand:'Rechtsgrundlage am Rand', imText:'im Text zitiert',
+  glMehr:(z,l)=>`${z} Abschnitte der Richtlinien (Ausgabe 2026) nennen ${l}; hier die wichtigsten. `, glEn:'Titel in der englischen Originalfassung.',
+  ojT:'Amtsblatt des EPA', ojMehr:(z,l)=>`${z} Beschlüsse und Mitteilungen seit 2008 nennen ${l}; hier die neuesten. `, fn:'Fußnoten im EPÜ:'};
+const GL_URL = id => EPA_T.gl+id+'.html';
+function boaLoad(){ if(BOA) return Promise.resolve(BOA); return fetch(EPA_T.file).then(r=>{ if(!r.ok) throw new Error(r.status); return r.json(); }).then(d=>{ BOA=d; return d; }); }
+const boaRank = e => e.az[0]==='G' ? 4 : e.v==='A' ? 3 : e.az[0]==='J' ? 2 : e.v==='B' ? 1 : 0;
+function boaFor(d, n){ const k=n.rl==='epc'?'a':'r', v=String(n.nummer); return d.entscheidungen.filter(e=>(e[k]||[]).includes(v)).sort((a,b)=>boaRank(b)-boaRank(a)||(b.d||'').localeCompare(a.d||'')); }
+function boaRow(e){ const de=EPA_T.de&&e.de; const ls=(de&&de.ls)||e.ls, sw=(de&&de.sw)||e.sw, url=(de&&de.u)||e.u;
+  const ns=[...(e.a||[]).slice(0,4).map(x=>`Art. ${x} ${EPA_T.kurz}`),...(e.r||[]).slice(0,4).map(x=>`R. ${x} ${EPA_T.kurz}`)].map(r=>normNode(r)).filter(Boolean);
+  return `<details class="row epg" style="display:block"><summary class="b" style="cursor:pointer;list-style:none"><div class="t">${esc(e.az)}${e.h?` „${esc(e.h)}“`:''} <span class="meta mono">${epgDate(e.d)}</span></div><div class="s">${esc(EPA_T.art[e.az[0]]||'')}${e.k&&'GR'.indexOf(e.az[0])<0?' '+esc(e.k):''} · ${EPA_T.verteiler} ${esc(e.v||'–')}${e.t?' · '+esc(e.t):''}</div></summary><div class="s" style="padding:6px 0 4px">${sw?`<div class="meta" style="margin-bottom:4px">${esc(sw)}</div>`:''}${ls?lawify(esc(ls),'EPÜ'):`<i>${EPA_T.kein}</i>`}<div class="meta" style="margin-top:4px"><a href="${esc(url)}" target="_blank" rel="noopener">epo.org ↗</a></div>${ns.length?`<div class="chips">${ns.map(x=>chip(x,x.label)).join('')}</div><div class="slot"></div>`:''}</div></details>`; }
+function vBoa(a, b){
+  const nid = a==='norm' ? decodeURIComponent(b||'') : null; const nn0 = nid ? byId.get(nid) : null;
+  chrome(EPA_T.titel, a==='norm' ? '#/boa' : '#/', streakPill());
+  main.innerHTML=`<p class="lead" style="margin-top:4px">${nn0?EPA_T.leadNorm(esc(nn0.label)):EPA_T.lead}</p><div id="boa-box"><p class="meta">${EPA_T.lade}</p></div>`;
+  boaLoad().then(d=>{
+    let list = nn0 ? boaFor(d, nn0) : d.entscheidungen.slice().sort((x,y)=>(y.d||'').localeCompare(x.d||''));
+    const box=document.getElementById('boa-box'); let shown=40; const state={q:'',k:'',v:'',hn:false};
+    const render=()=>{ const f=fold(state.q); const l=list.filter(e=>(!state.k||e.az[0]===state.k)&&(!state.v||e.v===state.v)&&(!state.hn||e.ls)&&(!f||fold(e.az+' '+(e.h||'')+' '+(e.t||'')+' '+(e.sw||'')+' '+(e.ls||'')+' '+((e.de&&e.de.ls)||'')).includes(f)));
+      box.innerHTML=`<div class="sbox glass pill" role="search">${ic('suche')}<input id="bq" type="search" placeholder="${EPA_T.suche}" value="${esc(state.q)}" autocomplete="off"></div>
+        <div class="tags" style="margin:8px 0;display:flex;flex-wrap:wrap;gap:6px"><select id="bk" class="glass pill" style="padding:6px 10px;max-width:100%;min-width:0"><option value="">${EPA_T.alle}</option>${['G','J','R','T'].map(k=>`<option value="${k}" ${state.k===k?'selected':''}>${esc(EPA_T.art[k])}</option>`).join('')}</select> <select id="bv" class="glass pill" style="padding:6px 10px;max-width:100%;min-width:0"><option value="">${EPA_T.verteilerAlle}</option>${['A','B','C','D'].map(k=>`<option ${state.v===k?'selected':''}>${k}</option>`).join('')}</select> <label class="tag" style="cursor:pointer"><input type="checkbox" id="bhn" ${state.hn?'checked':''}> ${EPA_T.nurLs}</label></div>
+        <p class="meta">${l.length} ${EPA_T.von} ${list.length} ${EPA_T.entsch} · ${EPA_T.quelle}: ${EPA_T.q||esc(d.meta.quelle)} · ${EPA_T.stand} ${epgDate(d.meta.zeitraum&&d.meta.zeitraum[1])}</p>
+        <div class="glass list">${l.slice(0,shown).map(boaRow).join('')}</div>${l.length>shown?`<p style="text-align:center"><button class="btn" id="bmore">${EPA_T.weitere} ${Math.min(40,l.length-shown)} ${EPA_T.anzeigen}</button></p>`:''}`;
+      const bq=document.getElementById('bq'); bq.oninput=()=>{ state.q=bq.value; shown=40; const pos=bq.selectionStart; render(); const e2=document.getElementById('bq'); e2.focus(); e2.setSelectionRange(pos,pos); };
+      document.getElementById('bk').onchange=ev=>{ state.k=ev.target.value; shown=40; render(); }; document.getElementById('bv').onchange=ev=>{ state.v=ev.target.value; shown=40; render(); }; document.getElementById('bhn').onchange=ev=>{ state.hn=ev.target.checked; shown=40; render(); };
+      const m=document.getElementById('bmore'); if(m) m.onclick=()=>{ shown+=40; render(); }; };
+    render();
+  }).catch(err=>{ document.getElementById('boa-box').innerHTML=`<div class="box bad"><div class="k">${ic('falsch','s')}${EPA_T.nichtGeladen}</div>${EPA_T.fehler(esc(String(err)))}</div>`; });
 }
 // ---------- Kommentar aus der Rechtsprechung (ArbnErfG): Randnummern mit Belegen aus dem Korpus ----------
 function kommentarHtml(n){ return `<p class="meta" style="margin-top:0">Auslegung durch die Schiedsstelle beim DPMA und den BGH, je Randnummer mit den tragenden Entscheidungen.</p>`+n.kommentar.map(r=>`<div class="box kom" id="rn-${r.rn}"><div class="k"><span class="mono">Rn. ${r.rn}</span> ${esc(r.titel)}${r.absatz?` <span class="tag">${esc(r.absatz)}</span>`:''}</div>${lawify(esc(r.text),'')}<div class="meta" style="margin-top:6px">${r.belege.map(b=>`<a href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.g==='Schiedsstelle'?'Schiedsst.':b.g)} ${esc(b.az)}${b.name?` „${esc(b.name)}“`:''}, ${epgDate(b.datum)}</a>`).join(' · ')}</div></div>`).join(''); }

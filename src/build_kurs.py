@@ -21,6 +21,7 @@ from knowledge.upc import entscheidungen as upc_entscheidungen  # noqa: E402
 from knowledge.patent import entscheidungen as pat_entscheidungen  # noqa: E402
 from knowledge.design import entscheidungen as des_entscheidungen  # noqa: E402
 from knowledge.patent import arbnerfg_entscheidungen as arb_entscheidungen  # noqa: E402
+from knowledge.epc import entscheidungen as boa_entscheidungen  # noqa: E402
 from knowledge.upc import en as upc_en  # noqa: E402
 from knowledge.upc.en import ui as ui_en  # noqa: E402
 
@@ -35,6 +36,7 @@ EPG_DB = ROOT / "docs" / "upc_entscheidungen.json"  # Entscheidungskorpus des EP
 PAT_DB = ROOT / "docs" / "patent_entscheidungen.json"  # Entscheidungskorpus BPatG/BGH, nachgeladen (#/bpatg)
 DES_DB = ROOT / "docs" / "design_entscheidungen.json"  # Entscheidungskorpus Designsachen BPatG/BGH, nachgeladen (#/bpatg/design)
 ARB_DB = ROOT / "docs" / "arbnerfg_entscheidungen.json"  # Schiedsstelle nach dem ArbEG und BGH, nachgeladen (#/bpatg/arbnerfg)
+BOA_DB = ROOT / "docs" / "boa_entscheidungen.json"  # Beschwerdekammern des EPA (G, J, R, T mit Verteiler A bis C), nachgeladen (#/boa)
 DATA = ROOT / "data" / "kurse.json"
 OUT_EN = ROOT / "docs" / "en" / "index.html"  # englische App: nur das Gebiet EPG (knowledge/upc/en, PLAYBOOK 17)
 
@@ -253,6 +255,9 @@ def build():
     arb = arb_entscheidungen.kompakt()
     ARB_DB.write_text(json.dumps(arb, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"ArbnErfG-Rechtsprechung: {arb['meta']['anzahl']} Entscheidungen -> {ARB_DB.relative_to(ROOT)} ({ARB_DB.stat().st_size/1024:.0f} KB)")
+    boa = boa_entscheidungen.kompakt()
+    BOA_DB.write_text(json.dumps(boa, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"Beschwerdekammern EPA: {boa['meta']['anzahl']} Entscheidungen -> {BOA_DB.relative_to(ROOT)} ({BOA_DB.stat().st_size/1024:.0f} KB)")
     app_icons()
     build_en(graph, TEMPLATE.read_text(encoding="utf-8"))
     n = sum(len(k["einheiten"]) for kurs in KURSE for k in kurs["kapitel"])

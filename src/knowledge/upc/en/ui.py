@@ -4,9 +4,13 @@
 `build_kurs.build_en` wendet die Paare der Reihe nach an; jedes Paar muss mindestens einmal treffen, sonst bricht der Build ab
 (dann hat sich das deutsche Template geändert und das Paar ist nachzuziehen). Neue deutsche Oberflächentexte findet
 `build_kurs` als Warnung („deutsche Reste“), der Rauchtest prüft den sichtbaren Text jeder englischen Ansicht.
-Daneben gibt es strukturelle Änderungen der englischen App: nur das Gebiet EPG, gemeinsamer Fortschritt mit der deutschen
-App (Cookie-Pfad eine Ebene höher), Service Worker und Icons der deutschen App, kein Lernnavigator, EPG-Korpus aus ../.
+Daneben gibt es strukturelle Änderungen der englischen App: nur die Gebiete EPG und (für den EPÜ-Kurs e01) Patent, gemeinsamer
+Fortschritt mit der deutschen App (Cookie-Pfad eine Ebene höher), Service Worker und Icons der deutschen App, kein Lernnavigator,
+EPG-Korpus und Korpus der Beschwerdekammern aus ../.
 """
+
+EPA_T_DE = 'const EPA_T = {de:true, gl:\'https://www.epo.org/de/legal/guidelines-epc/2026/\', oj:u=>u, file:\'boa_entscheidungen.json\', kurz:\'EPÜ\', abl:\'ABl. EPA\', q:\'\',\n  art:{G:\'Große Beschwerdekammer\',J:\'Juristische Beschwerdekammer\',R:\'Überprüfungsantrag\',T:\'Technische Beschwerdekammer\',D:\'Disziplinarkammer\',W:\'Beschwerdekammer (PCT)\'},\n  titel:\'Beschwerdekammern des EPA\', alle:\'Alle Kammern\', verteilerAlle:\'Alle Verteiler\', verteiler:\'Verteiler\', nurLs:\'nur mit Leitsatz\', kein:\'Kein Leitsatz veröffentlicht.\',\n  suche:\'Aktenzeichen, Stichwort, Leitsatz …\', lade:\'Lade Entscheidungen …\', von:\'von\', entsch:\'Entscheidungen\', quelle:\'Quelle\', stand:\'Stand\', weitere:\'Weitere\', anzeigen:\'anzeigen\',\n  leadNorm:l=>`Entscheidungen der Beschwerdekammern, die <b>${l}</b> als einschlägige Vorschrift nennen (zuerst Große Beschwerdekammer und Verteiler A).`,\n  lead:\'Alle Entscheidungen der Großen und der Juristischen Beschwerdekammer, die Überprüfungsanträge und die veröffentlichten oder an die Vorsitzenden verteilten Entscheidungen der Technischen Beschwerdekammern, mit Leitsätzen, Schlagworten und den einschlägigen Vorschriften des EPÜ.\',\n  fehler:e=>`Die Entscheidungsdatenbank (boa_entscheidungen.json) konnte nicht geladen werden. Sie ist nur über einen Webserver erreichbar (${e}).`, nichtGeladen:\'Nicht geladen\',\n  nichtHttp:\'Entscheidungsdatenbank nicht geladen (nur über http erreichbar).\',\n  zitiert:(z,h)=>`In <a href="${h}">${z} Entscheidungen der Beschwerdekammern</a> genannt`, nie:\'In keiner Entscheidung der Beschwerdekammern als einschlägige Vorschrift genannt\',\n  eqeKurz:n=>`${n}× in EQE Paper D`, eqe:\'EQE Paper D\', eqeLead:l=>`Die Musterlösungen dieser Prüfungsfragen ziehen ${l} heran:`, frage:(j,nr)=>`Paper D ${j}, Frage ${nr}`,\n  rspr:\'Rechtsprechung der Beschwerdekammern\', nennen:(z,l,h)=>`${z} Entscheidungen nennen ${l} als einschlägige Vorschrift. <a href="${h}">Alle anzeigen</a>`, nieKurz:\'In keiner Entscheidung als einschlägige Vorschrift genannt.\',\n  gbk:\'Große Beschwerdekammer (Fußnote im EPÜ)\', glT:\'Richtlinien für die Prüfung\', rand:\'Rechtsgrundlage am Rand\', imText:\'im Text zitiert\',\n  glMehr:(z,l)=>`${z} Abschnitte der Richtlinien (Ausgabe 2026) nennen ${l}; hier die wichtigsten. `, glEn:\'Titel in der englischen Originalfassung.\',\n  ojT:\'Amtsblatt des EPA\', ojMehr:(z,l)=>`${z} Beschlüsse und Mitteilungen seit 2008 nennen ${l}; hier die neuesten. `, fn:\'Fußnoten im EPÜ:\'};'
+EPA_T_EN = 'const EPA_T = {de:false, gl:\'https://www.epo.org/en/legal/guidelines-epc/2026/\', oj:u=>u.replace(\'/de/legal/\',\'/en/legal/\'), file:\'../boa_entscheidungen.json\', kurz:\'EPC\', abl:\'OJ EPO\', q:\'RheinIP database, table BoaDecision (decisions of the EPO Boards of Appeal, epo.org)\',\n  art:{G:\'Enlarged Board of Appeal\',J:\'Legal Board of Appeal\',R:\'Petition for review\',T:\'Technical Board of Appeal\',D:\'Disciplinary Board of Appeal\',W:\'Board of Appeal (PCT)\'},\n  titel:\'Boards of Appeal of the EPO\', alle:\'All boards\', verteilerAlle:\'All distribution codes\', verteiler:\'Distribution\', nurLs:\'with headnote only\', kein:\'No headnote published.\',\n  suche:\'Case number, catchword, headnote …\', lade:\'Loading decisions …\', von:\'of\', entsch:\'decisions\', quelle:\'Source\', stand:\'as of\', weitere:\'Show\', anzeigen:\'more\',\n  leadNorm:l=>`Decisions of the Boards of Appeal that list <b>${l}</b> among the relevant legal provisions (Enlarged Board and distribution A first).`,\n  lead:\'All decisions of the Enlarged Board and the Legal Board of Appeal, petitions for review and the published or distributed decisions of the Technical Boards of Appeal, with headnotes, keywords and the relevant EPC provisions.\',\n  fehler:e=>`The decision database (boa_entscheidungen.json) could not be loaded. It is only available via a web server (${e}).`, nichtGeladen:\'Not loaded\',\n  nichtHttp:\'Decision database not loaded (only available via http).\',\n  zitiert:(z,h)=>`Listed in <a href="${h}">${z} decisions of the Boards of Appeal</a>`, nie:\'Not listed as a relevant provision in any decision of the Boards of Appeal\',\n  eqeKurz:n=>`${n}× in EQE Paper D`, eqe:\'EQE Paper D\', eqeLead:l=>`The model answers to these exam questions rely on ${l}:`, frage:(j,nr)=>`Paper D ${j}, question ${nr}`,\n  rspr:\'Case law of the Boards of Appeal\', nennen:(z,l,h)=>`${z} decisions list ${l} as a relevant provision. <a href="${h}">Show all</a>`, nieKurz:\'Not listed as a relevant provision in any decision.\',\n  gbk:\'Enlarged Board of Appeal (EPC footnote)\', glT:\'Guidelines for Examination\', rand:\'Legal basis in the margin\', imText:\'cited in the text\',\n  glMehr:(z,l)=>`${z} sections of the Guidelines (2026 edition) cite ${l}; the most relevant are listed. `, glEn:\'\',\n  ojT:\'Official Journal of the EPO\', ojMehr:(z,l)=>`${z} decisions and notices since 2008 cite ${l}; the most recent are listed. `, fn:\'EPC footnotes:\'};'
 
 # Struktur: gilt vor den Texten
 STRUKTUR = [
@@ -26,8 +30,6 @@ STRUKTUR = [
     ("const norms=[...e.upca.slice(0,3).map(x=>`Art. ${x} EPGÜ`),...e.rop.slice(0,3).map(x=>`R. ${x} VerfO`)];",
      "const norms=[...e.upca.slice(0,3).map(x=>`Art. ${x} UPCA`),...e.rop.slice(0,3).map(x=>`R. ${x} RoP`)];"),
     # Nur ein Gebiet: Gebietsauswahl führt direkt zu den EPG-Kursen
-    ("const g = gid && GEBIETE.find(x=>x.id===gid);", "const g = GEBIETE.find(x=>x.id===gid) || GEBIETE[0];"),
-    ("chrome(g.titel,'#/kurse',", "chrome(g.titel,'#/',"),
     # Schnellzugriff: nur, was es auf Englisch gibt
     ("""    <a class="qa" href="navigator/">${ic('suche')}Navigator</a>
     <a class="qa" href="#/kurs/k12">${ic('klausur')}Klausurtraining</a>
@@ -37,10 +39,10 @@ STRUKTUR = [
     <a class="qa" href="#/bpatg/design">${ic('entscheidung')}Design-Rechtsprechung</a>
     <a class="qa" href="#/bpatg/arbnerfg">${ic('entscheidung')}Schiedsstelle ArbnErfG</a>
 """, ""),
-    ("""<a class="qa" href="en/" hreflang="en" lang="en">${ic('union')}UPC in English</a>""",
+    ("""<a class="qa" href="en/" hreflang="en" lang="en">${ic('union')}UPC and EPC in English</a>""",
      """<a class="qa" href="../" hreflang="de" lang="de">${ic('union')}Deutsch: alle Gebiete</a>"""),
-    ("""${g.id==='upc'?`<p class="meta" style="margin:-6px 0 14px"><a href="en/" hreflang="en" lang="en">${ic('union','s')} This area in English: courses, cards and case law</a></p>`:''}""",
-     """<p class="meta" style="margin:-6px 0 14px"><a href="../#/kurse/upc" hreflang="de" lang="de">${ic('union','s')} Dieses Gebiet auf Deutsch</a> · <a href="../" hreflang="de" lang="de">IPelico auf Deutsch: Marken, Patent, Design</a></p>"""),
+    ("""${g.id==='upc'||g.id==='patent'?`<p class="meta" style="margin:-6px 0 14px"><a href="en/${g.id==='patent'?'#/kurs/e01':''}" hreflang="en" lang="en">${ic('union','s')} ${g.id==='patent'?'The EPC course (EQE Paper D) in English':'This area in English: courses, cards and case law'}</a></p>`:''}""",
+     """<p class="meta" style="margin:-6px 0 14px"><a href="../#/kurse/${g.id}" hreflang="de" lang="de">${ic('union','s')} Dieses Gebiet auf Deutsch</a> · <a href="../" hreflang="de" lang="de">IPelico auf Deutsch: Marken, Patent, Design</a></p>"""),
     ("""<a class="iconbtn lg" href="navigator/" aria-label="Lernnavigator" title="Lernnavigator">${ic('suche')}</a>""", ""),
     ("""  <p><a class="btn ghost" href="navigator/">${ic('suche','m')}Zum Lernnavigator: Schemata, Begriffe, Rechtsprechung, Gesetz</a></p>
 """, ""),
@@ -52,13 +54,16 @@ STRUKTUR = [
     ("const epgDate = s => s ? s.split('-').reverse().join('.') : '–';", "const epgDate = s => s ? s.split('-').reverse().join('/') : '–';"),
     (".date.split('-').reverse().join('.')", ".date.split('-').reverse().join('/')"),
     ("localeCompare(b[1].t,'de')", "localeCompare(b[1].t,'en')"),
-    # Korpora BPatG/BGH, Design, Schiedsstelle gibt es nur deutsch: Ansicht nicht erreichbar
-    ("karte:vKarte,epg:vEpg,bpatg:vPat}", "karte:vKarte,epg:vEpg}"),
+    # Korpora BPatG/BGH, Design, Schiedsstelle gibt es nur deutsch: Ansicht nicht erreichbar; Beschwerdekammern des EPA (EPÜ-Kurs) schon
+    ("karte:vKarte,epg:vEpg,boa:vBoa,bpatg:vPat}", "karte:vKarte,epg:vEpg,boa:vBoa}"),
+    ("ggv:'GGV',epc:'EPÜ',epcr:'Ausführungsordnung EPÜ'}", "ggv:'GGV',epc:'EPC',epcr:'EPC Implementing Regulations'}"),
+    # EPÜ-Teil: alle Oberflächentexte stehen im Objekt EPA_T (Beschwerdekammern, Richtlinien, Amtsblatt, Paper D)
+    (EPA_T_DE, EPA_T_EN),
 ]
 
 # Zeilen, die in der englischen App nicht erreichbar sind (Patent-, Design-, ArbnErfG-Korpus) oder kein Oberflächentext sind;
 # der Build meldet dort keine deutschen Reste
-TOT = ("KORPUS", "umzug", "Kein Leitsatz veröffentlicht", "isPat(n)", "kommentarHtml", "patRef", "patRow", "pat-box", "korpus==='arbnerfg'", "proG", "const fold", "const RL_FAM")
+TOT = ("KORPUS", "umzug", "Kein Leitsatz veröffentlicht", "isPat(n)", "kommentarHtml", "patRef", "patRow", "pat-box", "korpus==='arbnerfg'", "proG", "const fold", "const RL_FAM", "lawify(esc(ls),'EPÜ')")
 
 TEXTE = [
     # Kopf, Tableiste
@@ -99,6 +104,7 @@ TEXTE = [
     ("${ic('tab-kurse')}Rechtsgebiete</a>", "${ic('tab-kurse')}Courses</a>"),
     ("${ic('falsch')}Lernradar<span", "${ic('falsch')}Learning radar<span"),
     ("${ic('entscheidung')}EPG-Rechtsprechung</a>", "${ic('entscheidung')}UPC case law</a>"),
+    ("${ic('entscheidung')}Beschwerdekammern EPA</a>", "${ic('entscheidung')}EPO Boards of Appeal</a>"),
     ("${ic('tab-konzept')}Konzept</a>", "${ic('tab-konzept')}Concept</a>"),
     ("${ic('tab-profil')}Profil</a>", "${ic('tab-profil')}Profile</a>"),
     ("${dark?'Hell':'Dunkel'}", "${dark?'Light':'Dark'}"),
@@ -303,10 +309,10 @@ TEXTE = [
     ("${ic('norm','s')}ganzen ${esc(n.label)} anzeigen</span>", "${ic('norm','s')}show all of ${esc(n.label)}</span>"),
     ("${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id).slice(0,6)))}${section('Verwandt',chips(related(n.id).slice(0,6)))}",
      "${section('Provisions',chips(norms(n.id)))}${section('Case law',chips(cases(n.id).slice(0,6)))}${section('Related',chips(related(n.id).slice(0,6)))}"),
-    ("${isUpc(n)?'Hinweis':'Umsetzung'}</div>", "${isUpc(n)?'Note':'Note'}</div>"),
+    ("${isUpc(n)||isEpa(n)?'Hinweis':'Umsetzung'}</div>", "${isUpc(n)||isEpa(n)?'Note':'Note'}</div>"),
     ("${n.paraphrase?'Paraphrase; Wortlaut auf':'Amtlicher Wortlaut; Quelle:'}", "${n.paraphrase?'Paraphrase; wording on':'Official text; source:'}"),
     ("<p>${txt(n.kern)}</p>${section('Normen',chips(norms(n.id)))}", "<p>${txt(n.kern)}</p>${section('Provisions',chips(norms(n.id)))}"),
-    ("dejure ↗</a></div><p>", "unifiedpatentcourt.org ↗</a></div><p>"),
+    ("'epo.org':'dejure'} ↗</a></div><p>", "'epo.org':'unifiedpatentcourt.org'} ↗</a></div><p>"),
     ("<p>${txt(n.text)}</p>${section('Begriffe',chips(related(n.id)))}${section('Normen',chips(norms(n.id)))}${section('Rechtsprechung',chips(cases(n.id)))}`;",
      "<p>${txt(n.text)}</p>${section('Concepts',chips(related(n.id)))}${section('Provisions',chips(norms(n.id)))}${section('Case law',chips(cases(n.id)))}`;"),
     ("const kinds={concept:'Definition',norm:'Gesetz',eunorm:'Richtlinie',case:'Entscheidung',step:'Prüfungspunkt',schema:'Prüfungsschema',distinction:'Abgrenzung / Tabelle'};",
@@ -386,8 +392,8 @@ TEXTE = [
     ('<button class="btn" id="emore">Weitere ${Math.min(40,l.length-shown)} anzeigen</button>', '<button class="btn" id="emore">Show ${Math.min(40,l.length-shown)} more</button>'),
     ("${ic('falsch','s')}Nicht geladen</div>Die Entscheidungsdatenbank (upc_entscheidungen.json) konnte nicht geladen werden. Sie ist nur über einen Webserver erreichbar (${esc(String(err))}).",
      "${ic('falsch','s')}Not loaded</div>The decision database (upc_entscheidungen.json) could not be loaded. It is only available through a web server (${esc(String(err))})."),
-    ("box.innerHTML=`<div class=\"row\"><div class=\"b\"><div class=\"s\">Entscheidungsdatenbank nicht geladen (nur über http erreichbar).</div></div></div>`; }); }\n  if(isUpc",
-     "box.innerHTML=`<div class=\"row\"><div class=\"b\"><div class=\"s\">Decision database not loaded (only available over http).</div></div></div>`; }); }\n  if(isUpc"),
+    ("box.innerHTML=`<div class=\"row\"><div class=\"b\"><div class=\"s\">Entscheidungsdatenbank nicht geladen (nur über http erreichbar).</div></div></div>`; }); }\n  if(isEpa",
+     "box.innerHTML=`<div class=\"row\"><div class=\"b\"><div class=\"s\">Decision database not loaded (only available over http).</div></div></div>`; }); }\n  if(isEpa"),
     # Hinweis, Umzug
     ("<span>Fortschritt wird nur in einem Cookie auf diesem Gerät gespeichert, kein Tracking.</span>", "<span>Progress is stored only in a cookie on this device. No tracking.</span>"),
 ]

@@ -49,3 +49,9 @@
   Inhalte `src/knowledge/upc/en/*.json` (nur Text, Hash `_de` des deutschen Stands). Wer EPG-Inhalte oder Oberflächentext ändert, zieht die
   englische Fassung nach: `python3 tools/i18n_en.py status`, `export … --nur-offen`, `check`. Zitierform englisch `Art. 33(1) UPCA`,
   `R. 19.1 RoP`, `Art. 3(1) UPReg`, `R. 6(1) UPR`, `Art. 8 IPRED`. Normtexte amtlich englisch (VerfO-Wortlaut 2022). PLAYBOOK Abschnitt 17.
+- Fünftes Wissenspaket EPÜ (`src/knowledge/epc/`): Artikel und Regeln aus `data/epc.json` (epo.org deutsch/englisch, DB-Kontrolle), Korpus der
+  Beschwerdekammern `data/epc_decisions.json` (Tabelle `BoaDecision`), Richtlinien 2026 `data/epc_guidelines.json` und Amtsblatt `data/epc_oj.json`
+  (Tabelle `EPOLegaltext`), Paper-D-Rangliste `data/eqe_d1.json`; alles aus `tools/fetch_epc.py`. Zitierform `Art. 54 Abs. 3 EPÜ`, `R. 71 Abs. 3 EPÜ`
+  (Familien `epc`/`epcr`), `Art. 14 Abs. 1 GebO`, `Art. 12 Abs. 4 VOBK`, `R. 80.2 PCT` (nur Text). Kurs `kurse/e01_epue_paper_d.py` (Gebiet Patent, auch
+  englisch: `src/knowledge/upc/en/e01.json`, `epc_knoten_*.json`), Ansicht `#/boa`. Leitentscheidungen `epc/cases*.py` werden gegen den Korpus geprüft.
+  PLAYBOOK Abschnitt 18.

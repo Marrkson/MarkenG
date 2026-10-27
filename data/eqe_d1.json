@@ -1,0 +1,1316 @@
+{
+ "meta": {
+  "titel": "EQE Paper D, Teil 1 (Rechtsfragen)",
+  "quelle": "Prüfungsaufgaben und Prüferberichte der EQE 2015 bis 2025 (EPA), ausgewertet in ~/github/EQEAnalysis (paper_D/output/D1_all_questions.json); hier ohne Fragetext",
+  "jahre": [
+   2015,
+   2016,
+   2017,
+   2018,
+   2019,
+   2021,
+   2022,
+   2023,
+   2024,
+   2025
+  ],
+  "fragen": 54,
+  "rang": {
+   "a54": 15,
+   "a121": 6,
+   "r134": 6,
+   "a122": 5,
+   "r159": 5,
+   "a123": 5,
+   "r131": 5,
+   "r51": 5,
+   "r136": 4,
+   "a99": 4,
+   "r126": 4,
+   "a153": 4,
+   "r71": 4,
+   "r135": 4,
+   "a76": 4,
+   "a94": 4,
+   "a105a": 4,
+   "r139": 3,
+   "r70": 3,
+   "a84": 3,
+   "r164": 3,
+   "a133": 3,
+   "a80": 3,
+   "r40": 3,
+   "a87": 3,
+   "r58": 3,
+   "a114": 3,
+   "r36": 3,
+   "a86": 3,
+   "r56": 2,
+   "a14": 2,
+   "r161": 2,
+   "r137": 2,
+   "r6": 2,
+   "a115": 2,
+   "a100": 2,
+   "r92": 2,
+   "a65": 2,
+   "a101": 2,
+   "r93": 2,
+   "r112": 2,
+   "r151": 2,
+   "r53": 1,
+   "a151": 1,
+   "r30": 1,
+   "a108": 1,
+   "r100": 1,
+   "r103": 1,
+   "r22": 1,
+   "r85": 1,
+   "a56": 1,
+   "a78": 1,
+   "a67": 1,
+   "a105": 1,
+   "r89": 1,
+   "a113": 1,
+   "a61": 1,
+   "r14": 1,
+   "r16": 1,
+   "r57": 1,
+   "a9": 1,
+   "a11": 1,
+   "a92": 1,
+   "r10": 1,
+   "r157": 1,
+   "a105b": 1,
+   "r95": 1,
+   "r138": 1,
+   "a1": 1,
+   "r71a": 1,
+   "a83": 1,
+   "r67": 1,
+   "a100a": 1,
+   "r80": 1,
+   "r84": 1,
+   "r98": 1,
+   "a107": 1,
+   "r101": 1,
+   "a53": 1,
+   "a152": 1,
+   "a2": 1,
+   "a79": 1,
+   "r39": 1,
+   "r70a": 1,
+   "r50": 1,
+   "r77": 1,
+   "r86": 1,
+   "a52": 1,
+   "r76": 1,
+   "a141": 1,
+   "r13": 1,
+   "r52": 1,
+   "r56a": 1,
+   "a111": 1,
+   "a164": 1
+  }
+ },
+ "fragen": [
+  {
+   "jahr": 2015,
+   "nr": "1",
+   "punkte": 9,
+   "thema": "Late filing of drawings, Missing drawings, Priority claim validity, Re-dating",
+   "recht": "EPC",
+   "rechtsgrundlage": "Rule 56(2), (3), (4) EPC; Art. 122 EPC; Rule 136 EPC",
+   "a": [
+    "122"
+   ],
+   "r": [
+    "56",
+    "136"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2015,
+   "nr": "2",
+   "punkte": 8,
+   "thema": "Loss of priority rights, Non-prejudicial disclosures, Prior art effect, Opposition",
+   "recht": "EPC",
+   "rechtsgrundlage": "Rule 53(3) EPC; Art. 54(2) EPC; Art. 99(1) EPC",
+   "a": [
+    "54",
+    "99"
+   ],
+   "r": [
+    "53"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2015,
+   "nr": "3",
+   "punkte": 9,
+   "thema": "PCT Applicants, Nationality/Residence, Competent Receiving Office",
+   "recht": "PCT",
+   "rechtsgrundlage": "Art. 8(1) PCT; Art. 9(1) PCT; Rule 19.1 PCT; Art. 151 EPC",
+   "a": [
+    "151"
+   ],
+   "r": [],
+   "pct_a": [
+    "8",
+    "9"
+   ],
+   "pct_r": [
+    "19.1"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2015,
+   "nr": "4",
+   "punkte": 7,
+   "thema": "Correction of errors, Translation vs Original text, Rule 139",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 14(2) EPC; Rule 139 EPC; G 3/89",
+   "a": [
+    "14"
+   ],
+   "r": [
+    "139"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 3/89"
+   ]
+  },
+  {
+   "jahr": 2015,
+   "nr": "5",
+   "punkte": 7,
+   "thema": "Sequence listings, Late furnishing, Legal consequences",
+   "recht": "EPC",
+   "rechtsgrundlage": "Rule 30(1), (3) EPC; Art. 121 EPC",
+   "a": [
+    "121"
+   ],
+   "r": [
+    "30"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2016,
+   "nr": "1",
+   "punkte": 6,
+   "thema": "Calculation of time limits for appeal and reimbursement of appeal fee",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 108 EPC; Rule 126(2) EPC; Rule 103(1)(b) EPC",
+   "a": [
+    "108"
+   ],
+   "r": [
+    "100",
+    "103",
+    "126"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2016,
+   "nr": "2",
+   "punkte": 10,
+   "thema": "PCT priority claim validity and translation requirements upon filing",
+   "recht": "PCT",
+   "rechtsgrundlage": "Art. 8 PCT; Rule 80.5 PCT; Rule 12.3 PCT; Rule 48.3 PCT",
+   "a": [],
+   "r": [],
+   "pct_a": [
+    "8",
+    "11"
+   ],
+   "pct_r": [
+    "12.3",
+    "48.3",
+    "80.5"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2016,
+   "nr": "3",
+   "punkte": 7,
+   "thema": "Euro-PCT entry, national route closure, early processing, and acceleration",
+   "recht": "Both",
+   "rechtsgrundlage": "Art. 45(2) PCT; Art. 23(2) PCT; Art. 153(4) EPC; Rule 159(1) EPC; PACE programme",
+   "a": [
+    "153"
+   ],
+   "r": [
+    "70",
+    "159",
+    "161"
+   ],
+   "pct_a": [
+    "23",
+    "45"
+   ],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2016,
+   "nr": "4",
+   "punkte": 9,
+   "thema": "Supplementary European Search, Unity of Invention, Claims fees",
+   "recht": "EPC",
+   "rechtsgrundlage": "Rule 164(1) EPC; Art. 84 EPC; Rule 137(5) EPC; Rule 71(4) EPC",
+   "a": [
+    "84"
+   ],
+   "r": [
+    "71",
+    "137",
+    "164"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2016,
+   "nr": "5",
+   "punkte": 8,
+   "thema": "Art. 54(3) prior art status, Further Processing, Opposition",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 99 EPC; Art. 54(3) EPC; Art. 153(5) EPC; Art. 121 EPC; Rule 135 EPC",
+   "a": [
+    "54",
+    "99",
+    "121",
+    "153"
+   ],
+   "r": [
+    "135"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2017,
+   "nr": "1",
+   "punkte": 6,
+   "thema": "Euro-PCT: Unity of invention, non-payment of additional search fees, entry into European phase, Rule 164 EPC",
+   "recht": "Both",
+   "rechtsgrundlage": "Art. 153(7), Rule 159, Rule 164(2) EPC; Art. 22, 23(2) PCT",
+   "a": [
+    "76"
+   ],
+   "r": [
+    "159",
+    "164"
+   ],
+   "pct_a": [
+    "22",
+    "23"
+   ],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2017,
+   "nr": "2",
+   "punkte": 6,
+   "thema": "Opposition: Transfer of patent, representation, transfer of opposition",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 133(2) EPC; Rule 22, Rule 85 EPC; G 4/88",
+   "a": [
+    "133"
+   ],
+   "r": [
+    "22",
+    "85"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 4/88"
+   ]
+  },
+  {
+   "jahr": 2017,
+   "nr": "3",
+   "punkte": 4,
+   "thema": "Filing: Date of filing requirements, missing applicant details, filing by reference",
+   "recht": "EPC",
+   "rechtsgrundlage": "Rule 40(1)(b), Rule 40(1)(c), Rule 40(2), Rule 40(3) EPC; Art. 80 EPC",
+   "a": [
+    "80"
+   ],
+   "r": [
+    "40"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2017,
+   "nr": "4",
+   "punkte": 6,
+   "thema": "Patentability: Priority, Novelty, Inventive Step, Public Availability",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 54(2), Art. 56, Art. 87(1) EPC; T 1553/06",
+   "a": [
+    "54",
+    "56",
+    "87"
+   ],
+   "r": [],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2017,
+   "nr": "5",
+   "punkte": 10,
+   "thema": "PCT: Correction of priority claim, Restoration of priority right",
+   "recht": "PCT / EPC",
+   "rechtsgrundlage": "Rule 26bis.1, Rule 26bis.3, Rule 49ter.1 PCT; Art. 122 EPC",
+   "a": [
+    "122"
+   ],
+   "r": [
+    "159"
+   ],
+   "pct_a": [],
+   "pct_r": [
+    "26bis.1",
+    "26bis.3",
+    "49ter.1"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2017,
+   "nr": "6",
+   "punkte": 8,
+   "thema": "Fees: Filing fees, Language reduction, Deposit account replenishment",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 78(2), Rule 6(1), Rule 6(3), Rule 6(4) EPC; Art. 14(1) RFees; ADA",
+   "a": [
+    "78"
+   ],
+   "r": [
+    "6"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [
+    "14"
+   ],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2018,
+   "nr": "1",
+   "punkte": 10,
+   "thema": "Missing parts of application (PCT); Incorporation by reference; Provisional protection (EPC)",
+   "recht": "Both",
+   "rechtsgrundlage": "Rule 20.3, 20.6, 20.7 PCT; Art. 21(2)(b) PCT; Art. 67, 153(3) and (4) EPC",
+   "a": [
+    "67",
+    "153"
+   ],
+   "r": [],
+   "pct_a": [
+    "21"
+   ],
+   "pct_r": [
+    "20.3",
+    "20.6",
+    "20.7"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2018,
+   "nr": "2",
+   "punkte": 8,
+   "thema": "Intervention of the assumed infringer; Grounds for opposition; Clarity of amendments (G 3/14)",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 105, Rule 89 EPC; Art. 54(3) EPC; G 3/14",
+   "a": [
+    "54",
+    "84",
+    "105"
+   ],
+   "r": [
+    "89"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 3/14"
+   ]
+  },
+  {
+   "jahr": 2018,
+   "nr": "3",
+   "punkte": 8,
+   "thema": "Date of filing; Missing description; Language of proceedings; Representation",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 80, Rule 40, Rule 56(2) EPC; Art. 133(2), Rule 58 EPC",
+   "a": [
+    "80",
+    "133"
+   ],
+   "r": [
+    "40",
+    "56",
+    "58"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2018,
+   "nr": "4",
+   "punkte": 6,
+   "thema": "Missed time limit for Appeal; Re-establishment of rights; Opponent status",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 122, Rule 136 EPC; G 1/86",
+   "a": [
+    "122"
+   ],
+   "r": [
+    "136"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 1/86"
+   ]
+  },
+  {
+   "jahr": 2018,
+   "nr": "5",
+   "punkte": 8,
+   "thema": "Amendment after Rule 71(3) approval; Resumption of proceedings; Third party observations",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 113(2), Art. 115, Art. 114(1) EPC; G 12/91",
+   "a": [
+    "54",
+    "113",
+    "114",
+    "115"
+   ],
+   "r": [],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 12/91"
+   ]
+  },
+  {
+   "jahr": 2019,
+   "nr": "1",
+   "punkte": 9,
+   "thema": "Entitlement proceedings (Art. 61 EPC), stay of proceedings, resumption, and filing a divisional application",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 61 EPC, Rule 16(1)(b) EPC, Rule 14(1) EPC, Rule 14(4) EPC, Rule 14(2) EPC, Rule 16(1)(a) EPC, Art. 61(1)(a) EPC, Rule 71(6) EPC, Art. 76(1) EPC, Rule 36(1) EPC",
+   "a": [
+    "61",
+    "76"
+   ],
+   "r": [
+    "14",
+    "16",
+    "36",
+    "71"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2019,
+   "nr": "2",
+   "punkte": 7,
+   "thema": "Third party observations regarding clarity and novelty in PCT vs EPC phases",
+   "recht": "Both",
+   "rechtsgrundlage": "GL/PCT-EPO E-II, Art. 6 PCT, Art. 33.2 PCT, Art. 115 EPC, GL E-VI, 3",
+   "a": [
+    "84",
+    "115"
+   ],
+   "r": [],
+   "pct_a": [
+    "6",
+    "33.2"
+   ],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2019,
+   "nr": "3",
+   "punkte": 9,
+   "thema": "Missing claims at filing, incorporation by reference, and priority validity in PCT vs EPC",
+   "recht": "Both",
+   "rechtsgrundlage": "Art. 11.1(iii)(e) PCT, Rule 20.7(a) PCT, Rule 20.3 PCT, Rule 4.18 PCT, Rule 20.6(a) PCT, Rule 20.3(b)(ii) PCT, Art. 33(2) PCT, Art. 80 EPC, Rule 40 EPC, Rule 57(c) EPC, Rule 58 EPC, Art. 123(2) EPC, Art. 54(2) EPC",
+   "a": [
+    "54",
+    "80",
+    "123"
+   ],
+   "r": [
+    "40",
+    "57",
+    "58"
+   ],
+   "pct_a": [
+    "11",
+    "11.1",
+    "33"
+   ],
+   "pct_r": [
+    "4.18",
+    "20.3",
+    "20.6",
+    "20.7"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2019,
+   "nr": "4",
+   "punkte": 7,
+   "thema": "Opposition, validity of priority (first application), and prior art effect",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 99(1) EPC, Rule 131(4) EPC, Art. 87(1) EPC, Art. 87(4) EPC, Art. 54(2) EPC, Art. 100(a) EPC, GL F-VI 1.4, GL F-VI 3.4",
+   "a": [
+    "54",
+    "87",
+    "99",
+    "100"
+   ],
+   "r": [
+    "131"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2019,
+   "nr": "5",
+   "punkte": 8,
+   "thema": "PCT fees, deposit accounts, insufficient funds, and the 10-day fail-safe rule",
+   "recht": "PCT",
+   "rechtsgrundlage": "Rule 40.1(ii) PCT, Rule 80.2 PCT, GL A-X 4.3, GL A-X 4.2.4, AAD 8, Art. 17(3)(a) PCT, Art. 7(3) RFees, ADA 4.1",
+   "a": [],
+   "r": [],
+   "pct_a": [
+    "17"
+   ],
+   "pct_r": [
+    "40.1",
+    "80.2"
+   ],
+   "rfees": [
+    "7"
+   ],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2021,
+   "nr": "1",
+   "punkte": 9,
+   "thema": "Divisional applications, language requirements, and remedies (Further Processing)",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 94(3), Art. 94(4), Rule 126(2), Rule 131(4), Rule 36(1), Rule 36(2), Art. 121(3), Rule 36(3), Art. 86(1), Rule 51(3) EPC",
+   "a": [
+    "86",
+    "94",
+    "121"
+   ],
+   "r": [
+    "36",
+    "51",
+    "126",
+    "131"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2021,
+   "nr": "2",
+   "punkte": 8,
+   "thema": "Euro-PCT entry and restoration of priority right (unintentional vs due care)",
+   "recht": "Both",
+   "rechtsgrundlage": "Art. 8(2)(a) PCT, Art. 4C(1) Paris Convention, Rule 49ter.2 PCT, Rule 159(1) EPC, Rule 80.2 PCT, Rule 80.5 PCT",
+   "a": [],
+   "r": [
+    "159"
+   ],
+   "pct_a": [
+    "8",
+    "22"
+   ],
+   "pct_r": [
+    "49ter.2",
+    "80.2",
+    "80.5"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2021,
+   "nr": "3",
+   "punkte": 7,
+   "thema": "Refund of search and examination fees",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 92, Rule 58, Rule 70(2), Rule 10(4), Art. 94(3) EPC; RFees Art. 9(1), RFees Art. 11(a), RFees Art. 11(b)",
+   "a": [
+    "9",
+    "11",
+    "92",
+    "94"
+   ],
+   "r": [
+    "10",
+    "58",
+    "70"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [
+    "9",
+    "11"
+   ],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2021,
+   "nr": "4",
+   "punkte": 8,
+   "thema": "Novelty (Art. 54(3)), Partial Priority (G1/15), and Disclaimers",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 54(3), Art. 54(2), Art. 87(1), Art. 123(2) EPC; G1/16, G1/15",
+   "a": [
+    "54",
+    "87",
+    "123"
+   ],
+   "r": [],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 1/15",
+    "G 1/16"
+   ]
+  },
+  {
+   "jahr": 2021,
+   "nr": "5",
+   "punkte": 10,
+   "thema": "PCT Receiving Office competence, language of filing, and translations",
+   "recht": "Both",
+   "rechtsgrundlage": "Rule 157(2) EPC; Rule 19.4, Rule 19.1, Rule 12.3, Rule 80.2, Rule 80.5, Rule 26.3ter, Rule 26.2 PCT",
+   "a": [],
+   "r": [
+    "157"
+   ],
+   "pct_a": [],
+   "pct_r": [
+    "12.3",
+    "19.1",
+    "19.4",
+    "26.2",
+    "26.3",
+    "80.2",
+    "80.5"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2021,
+   "nr": "6",
+   "punkte": 8,
+   "thema": "Limitation procedure (Art. 105a) and Art. 123(3) EPC compliance",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 105a(1), Rule 92(2), Rule 138, Art. 105b(2), Art. 123(3), Rule 95(2) EPC, Guidelines H-IV 3.4",
+   "a": [
+    "105a",
+    "105b",
+    "123"
+   ],
+   "r": [
+    "92",
+    "95",
+    "138"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2022,
+   "nr": "1",
+   "punkte": 8,
+   "thema": "Missed time limit for Article 94(3) response, loss of rights, re-establishment of rights, and payment of renewal fees",
+   "recht": "EPC",
+   "rechtsgrundlage": "Article 94(3), 94(4), 121(1), 122(1), 86(1) EPC; Rule 51(1), 51(2), 51(4)(a), 126(2), 134(1), 135(1), 136(1)-(3) EPC",
+   "a": [
+    "86",
+    "94",
+    "121",
+    "122"
+   ],
+   "r": [
+    "51",
+    "126",
+    "134",
+    "135",
+    "136"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2022,
+   "nr": "2",
+   "punkte": 10,
+   "thema": "Rule 71(3) communication, correction of errors under Rule 139, Rule 71(6) procedure, grant fees, renewal fees, and validation in the Netherlands",
+   "recht": "EPC",
+   "rechtsgrundlage": "Rule 51(2), 71(3), 71(4), 71(6), 71a(1), 126(2), 139 EPC; Article 65(1)-(2) EPC; London Agreement Art 1(2)-(3); Guidelines C-V, 4.3",
+   "a": [
+    "1",
+    "65"
+   ],
+   "r": [
+    "51",
+    "71",
+    "71a",
+    "126",
+    "139"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2022,
+   "nr": "3",
+   "punkte": 8,
+   "thema": "Supplementary International Search (SISR) and Euro-PCT entry with non-unitary subject matter (Rule 164(2))",
+   "recht": "Both",
+   "rechtsgrundlage": "PCT Rules 45bis.1, 45bis.2, 45bis.3, 45bis.5, 80.5; Article 153(7) EPC; Rule 161(1), 164(2) EPC; Guidelines B-II, 4.3.1",
+   "a": [
+    "153"
+   ],
+   "r": [
+    "161",
+    "164"
+   ],
+   "pct_a": [],
+   "pct_r": [
+    "45bis.1",
+    "45bis.2",
+    "45bis.3",
+    "45bis.5",
+    "80.5"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2022,
+   "nr": "4",
+   "punkte": 6,
+   "thema": "Sufficiency of disclosure, incorporation by reference of withdrawn application, priority validity, and Article 54(3) prior art",
+   "recht": "EPC",
+   "rechtsgrundlage": "Article 54(3), 83 EPC; Rule 67(2) EPC; Guidelines F-III, 8, H-IV, 2.2.1; Case Law II.D.3.1.6",
+   "a": [
+    "54",
+    "83"
+   ],
+   "r": [
+    "67"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2022,
+   "nr": "5",
+   "punkte": 5,
+   "thema": "Priority validity, obvious errors in prior art disclosure, and novelty of ranges",
+   "recht": "EPC",
+   "rechtsgrundlage": "Article 54(2) EPC; Rule 134(1) EPC; G1/15, G3/93; Guidelines G-IV, 9",
+   "a": [
+    "54"
+   ],
+   "r": [
+    "134"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 1/15",
+    "G 3/93"
+   ]
+  },
+  {
+   "jahr": 2022,
+   "nr": "6",
+   "punkte": 8,
+   "thema": "Continuation of opposition proceedings ex officio, withdrawal of appeal, and limitation proceedings under Article 105a",
+   "recht": "EPC",
+   "rechtsgrundlage": "Article 100a, 101(3)(a), 105a(1)-(2), 114(1) EPC; Rule 80, 84(2), 92, 93(1) EPC; G8/93; Guidelines D-VII, 5.2, 5.3",
+   "a": [
+    "54",
+    "100a",
+    "101",
+    "105a",
+    "114"
+   ],
+   "r": [
+    "80",
+    "84",
+    "92",
+    "93"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 8/93"
+   ]
+  },
+  {
+   "jahr": 2023,
+   "nr": "1",
+   "punkte": 10,
+   "thema": "Divisional applications; Added subject-matter; Unsearched subject-matter",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 76(1), Art. 123(2), Rule 137(5) EPC; GL H-V, 3.1",
+   "a": [
+    "76",
+    "123"
+   ],
+   "r": [
+    "137"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2023,
+   "nr": "2",
+   "punkte": 10,
+   "thema": "PCT Priority; Correction of priority claim; Demand time limit",
+   "recht": "PCT",
+   "rechtsgrundlage": "Rule 26bis.2(c)(ii), Rule 54bis.1, Rule 91.1 PCT",
+   "a": [],
+   "r": [],
+   "pct_a": [],
+   "pct_r": [
+    "26bis.2",
+    "54bis.1",
+    "91.1"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2023,
+   "nr": "3",
+   "punkte": 7,
+   "thema": "Revocation proceedings; Opposition; Relationship between proceedings",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 105a, Rule 93(1), Rule 98 EPC",
+   "a": [
+    "105a"
+   ],
+   "r": [
+    "93",
+    "98"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2023,
+   "nr": "4",
+   "punkte": 7,
+   "thema": "Appeal; Admissibility; Correction of name of appellant",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 107, Rule 101(2), Rule 139 EPC; G 1/12",
+   "a": [
+    "107"
+   ],
+   "r": [
+    "101",
+    "139"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 1/12"
+   ]
+  },
+  {
+   "jahr": 2023,
+   "nr": "5",
+   "punkte": 11,
+   "thema": "PCT Receiving Office; Missing Abstract; Review by Designated Office",
+   "recht": "PCT",
+   "rechtsgrundlage": "Art. 14(1)(b), Art. 24(1), Art. 25, Rule 38.2 PCT",
+   "a": [],
+   "r": [],
+   "pct_a": [
+    "14",
+    "24",
+    "25"
+   ],
+   "pct_r": [
+    "26.1",
+    "38.2"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2023,
+   "nr": "6",
+   "punkte": 10,
+   "thema": "Novelty (Art. 54(3)); Amendments; Second medical use",
+   "recht": "EPC",
+   "rechtsgrundlage": "Art. 54(3), Art. 54(4), Art. 123(2) EPC; G 2/88",
+   "a": [
+    "53",
+    "54",
+    "123"
+   ],
+   "r": [],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 2/88"
+   ]
+  },
+  {
+   "jahr": 2024,
+   "nr": "1",
+   "punkte": 14,
+   "thema": "PCT filing language at SPTO, translation for ISA (EPO), amendments under Art 19/34 or Rule 91, language of amendments",
+   "recht": "Both",
+   "rechtsgrundlage": "Rule 12.1(a) PCT, Rule 19.4 PCT, Article 152 EPC, Rule 12.3 PCT, Rule 80.5 PCT, Article 19(1) PCT, Rule 46 PCT, Rule 48.3 PCT, Rule 91 PCT, Rule 12.2 PCT",
+   "a": [
+    "152"
+   ],
+   "r": [],
+   "pct_a": [
+    "19"
+   ],
+   "pct_r": [
+    "12.1",
+    "12.2",
+    "12.3",
+    "19.4",
+    "46",
+    "46.1",
+    "46.2",
+    "46.3",
+    "48.3",
+    "80.5",
+    "91",
+    "91.1",
+    "91.2"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2024,
+   "nr": "2",
+   "punkte": 12,
+   "thema": "Loss of rights (deemed withdrawal), Further Processing, Re-establishment of rights, omitted acts (exam fee, designation fee, reply to search opinion)",
+   "recht": "EPC",
+   "rechtsgrundlage": "Article 94(1) EPC, Rule 70(1) EPC, Article 79(2) EPC, Rule 39(1) EPC, Rule 70a(1) EPC, Rule 112(1) EPC, Article 121 EPC, Rule 135(1) EPC, Article 122(1) EPC, Rule 136(1) EPC, Rule 51(1) EPC",
+   "a": [
+    "2",
+    "79",
+    "94",
+    "121",
+    "122"
+   ],
+   "r": [
+    "39",
+    "51",
+    "70",
+    "70a",
+    "112",
+    "131",
+    "134",
+    "135",
+    "136"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [
+    "2"
+   ],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2024,
+   "nr": "3",
+   "punkte": 9,
+   "thema": "Joint opposition, representation (Non-EPC resident), common representative, language of proceedings/translation, signature deficiencies",
+   "recht": "EPC",
+   "rechtsgrundlage": "Guidelines A-VIII 1.4, Article 133(2) EPC, Rule 77(2) EPC, Rule 134(1) EPC, Rule 151(1) EPC, Article 14(4) EPC, Rule 6(2) EPC, Rule 50(3) EPC, Rule 86 EPC",
+   "a": [
+    "14",
+    "133"
+   ],
+   "r": [
+    "6",
+    "50",
+    "77",
+    "86",
+    "134",
+    "151"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2024,
+   "nr": "4",
+   "punkte": 11,
+   "thema": "Opposition, late-filed evidence (Art 54(3)), extent of opposition (G9/91), limitation procedure (Art 105a)",
+   "recht": "EPC",
+   "rechtsgrundlage": "Article 99(1) EPC, Rule 76(2)(c) EPC, Article 114(2) EPC, G9/91, Article 100(a) EPC, Article 54(3) EPC, Article 101(3)(a) EPC, Article 105a EPC",
+   "a": [
+    "52",
+    "54",
+    "99",
+    "100",
+    "101",
+    "105a",
+    "114"
+   ],
+   "r": [
+    "76"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [
+    "2"
+   ],
+   "entscheidungen": [
+    "G 9/91"
+   ]
+  },
+  {
+   "jahr": 2024,
+   "nr": "5",
+   "punkte": 9,
+   "thema": "Validation (UK, Poland), London Agreement, Unitary Patent request",
+   "recht": "EPC",
+   "rechtsgrundlage": "Article 86(2) EPC, Article 141(2) EPC, Article 65(1) EPC, National Law Tables, Rule 6 UPR, Rule 13 UPR",
+   "a": [
+    "65",
+    "86",
+    "141"
+   ],
+   "r": [
+    "13"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2025,
+   "nr": "1",
+   "punkte": 8,
+   "thema": "Delaying regional phase entry by withdrawing priority",
+   "recht": "Both",
+   "rechtsgrundlage": "Rule 90bis.3(a) PCT, Rule 90bis.3(c) PCT, Rule 80.2 PCT, Rule 80.5 PCT, Rule 90.2(b) PCT, Rule 151(1) EPC, Rule 90bis.5 PCT, Rule 159(1) EPC, Rule 90bis.3(d) PCT, Article 54(3) EPC",
+   "a": [
+    "54"
+   ],
+   "r": [
+    "151",
+    "159"
+   ],
+   "pct_a": [],
+   "pct_r": [
+    "80.2",
+    "80.5",
+    "90.2",
+    "90bis.3",
+    "90bis.5"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2025,
+   "nr": "2",
+   "punkte": 7,
+   "thema": "Correction of erroneously filed application documents (Rule 56a) and Priority Claiming",
+   "recht": "EPC",
+   "rechtsgrundlage": "Rule 56a(3) EPC, Rule 56a(4) EPC, Rule 131(4) EPC, Rule 134(1) EPC, Article 54(3) EPC, Rule 52(2) EPC",
+   "a": [
+    "54"
+   ],
+   "r": [
+    "52",
+    "56a",
+    "131",
+    "134"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2025,
+   "nr": "3",
+   "punkte": 9,
+   "thema": "Rule 71(3) response after appeal remittal, Res Judicata, and Divisional Applications",
+   "recht": "EPC",
+   "rechtsgrundlage": "Rule 71(3) EPC, Rule 71(6) EPC, Rule 71(7) EPC, Article 111(2) EPC, Article 164(2) EPC, Rule 112 EPC, Rule 36(1) EPC, Article 121 EPC, Rule 135(1) EPC, Rule 131(4) EPC, Rule 134(1) EPC, Article 76(1) EPC",
+   "a": [
+    "76",
+    "111",
+    "121",
+    "164"
+   ],
+   "r": [
+    "36",
+    "71",
+    "112",
+    "131",
+    "134",
+    "135"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": [
+    "G 4/19"
+   ]
+  },
+  {
+   "jahr": 2025,
+   "nr": "4",
+   "punkte": 10,
+   "thema": "Automatic Debit Orders (ADA) and Fee Payments",
+   "recht": "Both",
+   "rechtsgrundlage": "Annex A.2 to ADA 2024, Annex A.1 to ADA 2024 (AAD), Rule 51(1) EPC",
+   "a": [],
+   "r": [
+    "51"
+   ],
+   "pct_a": [],
+   "pct_r": [],
+   "rfees": [],
+   "entscheidungen": []
+  },
+  {
+   "jahr": 2025,
+   "nr": "5",
+   "punkte": 11,
+   "thema": "PCT Non-unity, Supplementary International Search (SIS), and Chapter II Demand",
+   "recht": "PCT",
+   "rechtsgrundlage": "Rule 66.1(e) PCT, Rule 40.2(b) PCT, Rule 40.1(ii) PCT, Rule 45bis.1(a) PCT, Rule 45bis.1(b) PCT, Rule 45bis.2 PCT, Rule 45bis.3 PCT, Rule 45bis.5(b) PCT, Article 31(6) PCT, Rule 54bis.1(a) PCT, Rule 80.2 PCT, Rules 57 and 58 PCT, Article 34 PCT",
+   "a": [],
+   "r": [],
+   "pct_a": [
+    "31",
+    "34"
+   ],
+   "pct_r": [
+    "40.1",
+    "40.2",
+    "45bis.1",
+    "45bis.2",
+    "45bis.3",
+    "45bis.5",
+    "54bis.1",
+    "57",
+    "58",
+    "66.1",
+    "68.2",
+    "80.2"
+   ],
+   "rfees": [],
+   "entscheidungen": []
+  }
+ ]
+}

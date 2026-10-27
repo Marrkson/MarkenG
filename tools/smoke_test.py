@@ -42,7 +42,11 @@ with sync_playwright() as pw:
               "#/karte/eunorm:designg:2", "#/karte/eunorm:designg:40a", "#/karte/eunorm:designv:7", "#/karte/eunorm:designrl:5", "#/karte/eunorm:designrl:erwaegungsgruende", "#/karte/eunorm:designrl2024:19", "#/karte/eunorm:ggv:20a", "#/karte/eunorm:ggv:89",
               "#/karte/concept:des_eigenart", "#/karte/concept:des_anspruchsgrundlagen_eu", "#/karte/schema:des_schema_schutzfaehigkeit", "#/karte/schema:des_schema_designverletzung", "#/karte/distinction:d_des_anspruchsgrundlagen_eu", "#/karte/distinction:d_des_designrl_umsetzung",
               "#/karte/case:des_bgh_untersetzer", "#/karte/case:des_eugh_doceram", "#/karte/case:des_bpatg_sattelunterseite_ii", "#/bpatg/design", "#/bpatg/norm/eunorm:designg:2", "#/suche/q/eigenart",
-              "#/bpatg/arbnerfg", "#/bpatg/norm/eunorm:arbnerfg:9", "#/karte/eunorm:arbnerfg:42", "#/karte/case:arb_sst_hochschulklinikum", "#/karte/source:vrl:37"] + [f"#/kurs/{k['id']}" for k in kurse] + [f"#/kurse/{g}" for g in pg.evaluate("JSON.parse(document.getElementById('gebiete-data').textContent).map(g=>g.id)")]
+              "#/bpatg/arbnerfg", "#/bpatg/norm/eunorm:arbnerfg:9", "#/karte/eunorm:arbnerfg:42", "#/karte/case:arb_sst_hochschulklinikum", "#/karte/source:vrl:37",
+              # EPÜ (Artikel, Regeln, Beschwerdekammern, Richtlinien, Amtsblatt, Paper D)
+              "#/karte/eunorm:epc:54", "#/karte/eunorm:epc:105a", "#/karte/eunorm:epcr:56a", "#/karte/eunorm:epcr:46", "#/karte/concept:epc_weiterbehandlung",
+              "#/karte/schema:epc_schema_fristversaeumnis", "#/karte/distinction:d_epc_weiterbehandlung_wiedereinsetzung", "#/karte/case:epc_g_1_15",
+              "#/karte/source:epagl:e_viii_2", "#/boa", "#/boa/norm/eunorm:epc:122", "#/suche/q/teilanmeldung"] + [f"#/kurs/{k['id']}" for k in kurse] + [f"#/kurse/{g}" for g in pg.evaluate("JSON.parse(document.getElementById('gebiete-data').textContent).map(g=>g.id)")]
     sample = [u for u in units if u["typ"] in ("intro", "schema")] + units[::7]
     routes += [f"#/lernen/{u['id']}" for u in sample]
     for r in routes:
@@ -224,18 +228,35 @@ with sync_playwright() as pw:
     check(pg.evaluate("document.querySelectorAll('#sec-kommentar .box.kom').length") >= 2, "Lernkarte ArbnErfG: Kommentar fehlt")
     check(pg.evaluate("!!document.querySelector('#sec-kommentar a[href*=\"dpma.de\"]')"), "Lernkarte ArbnErfG: Belege ohne Link auf dpma.de")
     check(pg.evaluate("document.querySelectorAll('#pat-inline details.epg').length") >= 1, "Lernkarte ArbnErfG: Rechtsprechung nicht nachgeladen")
+    # EPÜ: Korpus der Beschwerdekammern, Abschnitte der Lernkarte (Paper D, Kammern, Richtlinien, Amtsblatt)
+    pg.goto(BASE + "#/boa"); pg.wait_for_timeout(2500)
+    check(pg.evaluate("document.querySelectorAll('details.epg').length") >= 20, "Beschwerdekammern: keine Entscheidungen geladen")
+    pg.fill("#bq", "G 1/15"); pg.wait_for_timeout(500)
+    check(pg.evaluate("document.querySelectorAll('details.epg').length") >= 1, "Beschwerdekammern: Suche ohne Treffer")
+    pg.goto(BASE + "#/boa/norm/eunorm:epcr:136"); pg.wait_for_timeout(1500)
+    check(pg.evaluate("document.querySelectorAll('details.epg').length") >= 5, "Beschwerdekammern je Regel leer")
+    pg.goto(BASE + "#/karte/eunorm:epc:54"); pg.wait_for_timeout(1500)
+    check(pg.evaluate("document.querySelectorAll('#boa-inline details.epg').length") >= 1, "Lernkarte EPÜ: Kammerrechtsprechung nicht nachgeladen")
+    for sec_id in ("eqe", "gl", "oj"):
+        check(pg.evaluate(f"!!document.querySelector('#sec-{sec_id} .row')"), f"Lernkarte EPÜ: Abschnitt {sec_id} fehlt")
+    check(pg.evaluate("!!document.querySelector('#sec-gl a[href*=\"guidelines-epc/2026\"]')"), "Lernkarte EPÜ: Richtlinien ohne Link")
+    pg.goto(BASE + "#/karte/concept:epc_weiterbehandlung"); pg.wait_for_timeout(300)
+    check(pg.evaluate("!!document.querySelector('#sec-quellen a[href*=\"guidelines-epc\"]')"), "Lernkarte EPÜ-Begriff: Quelle Richtlinien fehlt")
+    pg.goto(BASE + "#/karte/case:epc_g_1_15"); pg.wait_for_timeout(300)
+    check("epo.org" in pg.inner_text(".lk-h"), "Entscheidung der Beschwerdekammern ohne Link auf epo.org")
     # Lernnavigator: EPGÜ- und VerfO-Ansichten ohne Fehler
     errs2 = []; pg3 = ctx.new_page(); pg3.on("pageerror", lambda e: errs2.append(str(e)))
     for r in ["#/start", "#/richtlinie/upca", "#/richtlinie/rop", "#/eunorm/eunorm:rop:19", "#/eunorm/eunorm:upca:62", "#/case/case:upc_coa_belkin_philips_anbieten", "#/search/Einspruch", "#/cases",
               "#/richtlinie/epatvo", "#/richtlinie/doeps", "#/richtlinie/gebeps", "#/eunorm/eunorm:doeps:13", "#/concept/concept:upc_up_jahresgebuehren", "#/sources",
               "#/richtlinie/designg", "#/richtlinie/ggv", "#/richtlinie/designrl2024", "#/eunorm/eunorm:designg:40a", "#/eunorm/eunorm:designrl:5", "#/distinction/distinction:d_des_anspruchsgrundlagen_eu", "#/case/case:des_eugh_doceram",
-              "#/richtlinie/arbnerfg", "#/eunorm/eunorm:arbnerfg:9"]:
+              "#/richtlinie/arbnerfg", "#/eunorm/eunorm:arbnerfg:9", "#/richtlinie/epc", "#/richtlinie/epcr", "#/eunorm/eunorm:epc:54", "#/eunorm/eunorm:epcr:71",
+              "#/concept/concept:epc_prioritaet"]:
         pg3.goto(BASE + "navigator/" + r); pg3.wait_for_timeout(250)
         check(pg3.evaluate("document.getElementById('main').innerText.length") > 200, f"Navigator {r}: leer")
     check(pg3.evaluate("document.querySelectorAll('#main .toc a').length") > 0 or True, "")
     check(not errs2, f"Navigator pageerror: {errs2[:3]}")
     check(not errs, f"pageerror: {errs[:3]}")
-    # Englische App (docs/en/, nur EPG): Ansichten ohne Fehler, sichtbarer Text ohne deutsche Oberfläche (EPG-Leitsätze dürfen
+    # Englische App (docs/en/, EPG und EPÜ-Kurs): Ansichten ohne Fehler, sichtbarer Text ohne deutsche Oberfläche (EPG-Leitsätze dürfen
     # deutsch sein), alle Chips aufgelöst, gemeinsamer Fortschritt mit der deutschen App, Korpus aus ../ mit englischen Kammern
     EN = BASE + "en/"
     DE_WORT = r"\b(?:und|nicht|oder|der|die|das|Fälle|Einheiten|gelöst|fällig|Kurs|Weiter|Zurück|Lernkarte|Tagesziel|Begriffe|Normen|Rechtsprechung|Sachverhalt|Lösung|Merke)\b"
@@ -243,16 +264,19 @@ with sync_playwright() as pw:
     pe.goto(EN + "#/"); pe.wait_for_timeout(400)
     en_units = pe.evaluate("JSON.parse(document.getElementById('kurse-data').textContent).flatMap(k=>k.kapitel.flatMap(c=>c.einheiten.map(e=>e.id)))")
     en_fall = pe.evaluate("JSON.parse(document.getElementById('kurse-data').textContent).flatMap(k=>k.kapitel.flatMap(c=>c.einheiten)).filter(e=>e.typ==='fall')[5].id")
-    check(en_units and all(u.startswith("u") for u in en_units), "Englische App: nicht nur EPG-Kurse")
+    check(en_units and all(u.startswith(("u", "e01")) for u in en_units), "Englische App: nicht nur EPG- und EPÜ-Kurse")
+    check(any(u.startswith("e01") for u in en_units), "Englische App: EPÜ-Kurs fehlt")
     en_routes = ["#/", "#/kurse", "#/wdh", "#/profil", "#/didaktik", "#/suche", "#/suche/begriffe", "#/suche/richtlinien", "#/suche/entscheidungen", "#/suche/q/opt-out",
                  "#/karte/eunorm:upca:33", "#/karte/eunorm:rop:262A", "#/karte/eunorm:rop:erwaegungsgruende", "#/karte/eunorm:durchsetzungsrl:9", "#/karte/case:upc_coa_nanostring_10x",
                  "#/karte/schema:upc_schema_verletzungsklage", "#/karte/distinction:d_upc_entsprechung_durchsetzungsrl", "#/karte/eunorm:epatvo:3", "#/karte/concept:upc_antrag_einheitliche_wirkung",
-                 "#/ende/u01a"] + [f"#/kurs/u{i:02d}" for i in range(1, 11)] + [f"#/lernen/{u}" for u in en_units[::4]]
+                 "#/ende/u01a", "#/kurs/e01", "#/kurse/patent", "#/kurse/upc", "#/karte/eunorm:epc:54", "#/karte/eunorm:epcr:71", "#/karte/eunorm:epcr:46",
+                 "#/karte/case:epc_g_1_15", "#/karte/concept:epc_weiterbehandlung", "#/karte/schema:epc_schema_einspruch", "#/karte/distinction:d_epc_54_2_54_3",
+                 "#/karte/source:epagl:e_viii_3", "#/boa/norm/eunorm:epcr:135"] + [f"#/kurs/u{i:02d}" for i in range(1, 11)] + [f"#/lernen/{u}" for u in en_units[::4]]
     for r in en_routes:
         pe.goto(EN + r); pe.wait_for_timeout(100)
         if r.startswith("#/lernen/") and pe.is_visible(".ans"):
             pe.click(".ans"); pe.wait_for_timeout(80)
-        t = pe.evaluate("(()=>{ const h=[...document.querySelectorAll('details.epg,#epg-inline')]; h.forEach(x=>x.style.display='none'); const t=document.body.innerText; h.forEach(x=>x.style.display=''); return t; })()")
+        t = pe.evaluate("(()=>{ const h=[...document.querySelectorAll('details.epg,#epg-inline,#boa-inline')]; h.forEach(x=>x.style.display='none'); const t=document.body.innerText; h.forEach(x=>x.style.display=''); return t; })()")
         hits = sorted(set(__import__("re").findall(DE_WORT, t)))
         check(not hits, f"en {r}: deutsche Wörter {hits[:6]}")
         check(pe.evaluate("[...document.querySelectorAll('.chips')].filter(c=>!c.children.length).length") == 0, f"en {r}: leere Chip-Zeilen")
@@ -260,6 +284,9 @@ with sync_playwright() as pw:
     pe.goto(EN + "#/epg"); pe.wait_for_timeout(1500)
     check(pe.evaluate("document.querySelectorAll('details.epg').length") >= 20, "en: EPG-Korpus nicht geladen")
     check("Court of Appeal" in pe.inner_text("#ek"), "en: Kammern nicht englisch")
+    pe.goto(EN + "#/boa"); pe.wait_for_timeout(2500)
+    check(pe.evaluate("document.querySelectorAll('details.epg').length") >= 20, "en: Korpus der Beschwerdekammern nicht geladen")
+    check("Enlarged Board" in pe.inner_text("#bk"), "en: Beschwerdekammern nicht englisch")
     ctx5 = b.new_context(); pf = ctx5.new_page()  # frischer Stand, damit der Fortschritt im Cookie liegt (nicht > 4 KB)
     pf.goto(EN + f"#/lernen/{en_fall}"); pf.wait_for_timeout(300); pf.click(".ans"); pf.wait_for_timeout(200)
     pf.goto(BASE + "#/"); pf.wait_for_timeout(300)

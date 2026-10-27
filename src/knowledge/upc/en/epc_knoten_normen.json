@@ -1,0 +1,190 @@
+{
+ "eunorm:epc:14": {
+  "hinweis": "Official languages German, English, French. An application may be filed in any language, with a translation within two months (R. 6(1) EPC); throughout the proceedings the translation may be brought into conformity with the original (Art. 14(2) EPC). Language-based reduction of 30 % of the filing fee and the examination fee for filing in an admissible non-official language, for SMEs (including micro-entities), natural persons, non-profit organisations, universities and public research organisations from that state (R. 7a(1) EPC, Art. 14(1) RFees).",
+  "_de": "62f2ec42b6"
+ },
+ "eunorm:epc:54": {
+  "hinweis": "Exam provision no. 1 in Paper D. Art. 54(2) EPC: everything made available to the public before the date of filing (where priority is validly claimed: the date of priority, Art. 89 EPC). Art. 54(3) EPC: earlier European applications for novelty only (not Art. 56 EPC), content as originally filed, published on or after the date of filing; Euro-PCT applications only with filing fee and translation (Art. 153(5) EPC, R. 165 EPC). Art. 54(4) and 54(5) EPC: first and further medical use.",
+  "_de": "96e7820f85"
+ },
+ "eunorm:epc:55": {
+  "hinweis": "Non-prejudicial disclosure only in the case of an evident abuse or a recognised exhibition, and only if it occurred no earlier than six months before filing; what counts is the actual date of filing, not the date of priority (G 3/98, G 2/99).",
+  "_de": "229fd02132"
+ },
+ "eunorm:epc:60": {
+  "hinweis": "Right to a European patent: the inventor or his successor in title; in proceedings before the EPO the applicant is deemed to be entitled (Art. 60(3) EPC). Disputes over entitlement are decided by the national courts (Protocol on Recognition), not by the EPO.",
+  "_de": "f6231c44e5"
+ },
+ "eunorm:epc:61": {
+  "hinweis": "After a final national decision, the entitled person may within three months prosecute the application, file a new application or request that the application be refused (R. 16 EPC); stay of the grant proceedings under R. 14 EPC.",
+  "_de": "097aff04cc"
+ },
+ "eunorm:epc:65": {
+  "hinweis": "Translation requirements now apply only in states that do not apply the London Agreement or apply it only in part. Where unitary effect is registered (request under R. 6 UPR), validation in the participating states is not needed; translations are then governed only by Art. 6 TranslReg.",
+  "_de": "e2c24c50a3"
+ },
+ "eunorm:epc:76": {
+  "hinweis": "Divisional application: filed directly with the EPO, in respect of any pending earlier application (R. 36(1) EPC), only for subject-matter that does not extend beyond the parent application (G 1/05, G 1/06); it receives the filing date and priority of the parent application. Pending until the day before the mention of grant or, after refusal, until expiry of the time limit for appeal (G 1/09).",
+  "_de": "0fdbb3138d"
+ },
+ "eunorm:epc:80": {
+  "hinweis": "Date of filing under R. 40(1) EPC: indication that a patent is sought, information identifying the applicant, a description or a reference to a previously filed application. Claims are not needed for a date of filing (R. 58 EPC).",
+  "_de": "566a7a5e80"
+ },
+ "eunorm:epc:86": {
+  "hinweis": "Renewal fees from the third year, calculated from the date of filing; due on the last day of the month containing the anniversary of the date of filing (R. 51(1) EPC). Six-month period of grace with additional fee (R. 51(2) EPC). After the mention of grant, payable to the national offices.",
+  "_de": "b3ef93328a"
+ },
+ "eunorm:epc:87": {
+  "hinweis": "Priority: first application in or for a Paris Convention or WTO state, same invention (G 2/98), twelve months (no further processing, but re-establishment under R. 136(1) EPC). Partial priority for generic claims (G 1/15); rebuttable presumption of entitlement to priority (G 1/22, G 2/22).",
+  "_de": "9e5c6e621b"
+ },
+ "eunorm:epc:88": {
+  "hinweis": "Declaration of priority preferably on filing, at the latest within 16 months of the earliest date of priority (R. 52(2) EPC); correction within 16 months, in any case up to four months after the date of filing (R. 52(3) EPC). Copy and translation of the priority application under R. 53 EPC.",
+  "_de": "911c50a14b"
+ },
+ "eunorm:epc:94": {
+  "hinweis": "Request for examination up to six months after the mention of the publication of the search report (R. 70(1) EPC); communications under Art. 94(3) EPC; failure to reply in time leads to the application being deemed to be withdrawn (Art. 94(4) EPC), remedy: further processing.",
+  "_de": "de2e095792"
+ },
+ "eunorm:epc:97": {
+  "hinweis": "Grant only after approval of the text (R. 71(3) to 71(5) EPC); takes effect on the date of publication of the mention in the European Patent Bulletin (Art. 97(3) EPC) – from then on the opposition period (Art. 99 EPC) and the time limit for requesting unitary effect run.",
+  "_de": "907b22db3a"
+ },
+ "eunorm:epc:99": {
+  "hinweis": "Opposition within nine months of publication of the mention of grant, in writing and reasoned, opposition fee; any third party, even a straw man (G 3/97), but not the proprietor himself (G 9/93). Applies to all designated states; the Unitary Patent included.",
+  "_de": "bea9d56f31"
+ },
+ "eunorm:epc:100": {
+  "hinweis": "Exhaustive grounds for opposition: lack of patentability (Art. 52 to 57 EPC), insufficiency of disclosure, added matter. Clarity (Art. 84 EPC) is not a ground for opposition; amended claims are examined for clarity only to the extent that the amendment raises it (G 3/14).",
+  "_de": "9cbf6d82b4"
+ },
+ "eunorm:epc:101": {
+  "hinweis": "Examination of the opposition; scope limited by the opposition (G 9/91), fresh grounds for opposition in appeal proceedings only with the proprietor's consent (G 10/91). Maintenance in amended form under R. 82 EPC.",
+  "_de": "64e79bdd5e"
+ },
+ "eunorm:epc:105": {
+  "hinweis": "Intervention of the assumed infringer within three months of the date on which infringement proceedings were instituted against him or on which he instituted proceedings for a declaration of non-infringement (after a request to cease the alleged infringement) (R. 89(1) EPC); also in appeal proceedings, but there without acquiring the status of an appellant (G 2/24).",
+  "_de": "dd3a2e2712"
+ },
+ "eunorm:epc:105a": {
+  "hinweis": "Limitation or revocation at the proprietor's request at any time after grant, but not while opposition proceedings are pending (Art. 105a(2) EPC); fee, request under R. 92 EPC, correction of deficiencies R. 94 EPC.",
+  "_de": "fb1d91913f"
+ },
+ "eunorm:epc:108": {
+  "hinweis": "Appeal within two months of notification of the decision, appeal fee within the same period, statement of grounds within four months. Without a fee paid in time, the appeal is deemed not to have been filed (G 1/18). No further processing for this time limit (Art. 121(4) EPC).",
+  "_de": "741ee3fb2f"
+ },
+ "eunorm:epc:112a": {
+  "hinweis": "Petition for review of decisions of the Boards of Appeal only for fundamental procedural defects or criminal acts; two months, fee; the petition has no suspensive effect (Art. 112a(3) EPC).",
+  "_de": "4829fc4b99"
+ },
+ "eunorm:epc:115": {
+  "hinweis": "Third-party observations: after publication, in writing and reasoned, free of charge; the third party does not become a party (Art. 115 EPC, R. 114 EPC).",
+  "_de": "0d9d280ddb"
+ },
+ "eunorm:epc:121": {
+  "hinweis": "Further processing is the standard remedy for missed time limits vis-à-vis the EPO: request by paying the fee within two months of the communication of the loss of rights, completing the omitted act (R. 135(1) EPC). Ruled out: priority period, time limit for appeal, petition for review and the time limits in R. 135(2) EPC.",
+  "_de": "603b4078f0"
+ },
+ "eunorm:epc:122": {
+  "hinweis": "Re-establishment of rights only where all due care required by the circumstances was taken; two months after removal of the cause of non-compliance, at the latest one year after expiry of the time limit (R. 136(1) EPC); for the priority period two months after its expiry. Further processing takes precedence (R. 136(3) EPC).",
+  "_de": "6335aa22f7"
+ },
+ "eunorm:epc:123": {
+  "hinweis": "Art. 123(2) EPC: no amendment beyond the content of the application as filed (gold standard: directly and unambiguously disclosed; disclaimers under G 1/03, G 2/10, G 1/16). Art. 123(3) EPC: after grant no extension of the extent of protection; conflict between the two paragraphs (G 1/93).",
+  "_de": "8e5b9c8e7e"
+ },
+ "eunorm:epc:133": {
+  "hinweis": "Mandatory representation only for parties without residence or principal place of business in a Contracting State (Art. 133(2) EPC), except for filing the application; parties with their place of business in a Contracting State may act through an employee holding an authorisation (Art. 133(3) EPC). Authorisations: R. 152 EPC.",
+  "_de": "a8cec0cd1b"
+ },
+ "eunorm:epc:153": {
+  "hinweis": "Euro-PCT: the EPO is designated Office and elected Office. Entry into the European phase within 31 months (R. 159(1) EPC); the international application is deemed to be a European application, but counts as state of the art under Art. 54(3) EPC only if the requirements of Art. 153(3) EPC or Art. 153(4) EPC and of R. 165 EPC (filing fee, translation where required) are met (Art. 153(5) EPC).",
+  "_de": "6c17d638b0"
+ },
+ "eunorm:epcr:6": {
+  "hinweis": "Translation of an application in a non-official language within two months (R. 6(1) EPC), no further processing (R. 135(2) EPC). The fee reduction formerly contained in paragraphs 3 and 4 of R. 6 EPC is now in R. 7a EPC and Art. 14 RFees.",
+  "_de": "b3ee43182f"
+ },
+ "eunorm:epcr:36": {
+  "hinweis": "Divisional application in respect of any pending earlier application; in the language of the proceedings of the parent application or in its original language with a translation within two months (R. 36(2) EPC); filing fee and search fee within one month (R. 36(3) EPC); renewal fees already due within four months without additional fee (R. 51(3) EPC).",
+  "_de": "49b3141ceb"
+ },
+ "eunorm:epcr:40": {
+  "hinweis": "Date of filing: indication that a patent is sought, identity of the applicant, description or reference. In the case of a reference, a certified copy within two months (R. 40(3) EPC).",
+  "_de": "8dc53a2670"
+ },
+ "eunorm:epcr:51": {
+  "hinweis": "Due on the last day of the month; payment with additional fee within six months of the due date (R. 51(2) EPC). No further processing for the time limit under R. 51(2) EPC (R. 135(2) EPC), but re-establishment of rights.",
+  "_de": "0cfd4621bd"
+ },
+ "eunorm:epcr:56": {
+  "hinweis": "Missing parts or drawings: filing within two months; re-dating, unless the parts are completely contained in the priority application (R. 56(3) EPC) – then the date of filing is kept.",
+  "_de": "c6e127a54f"
+ },
+ "eunorm:epcr:56a": {
+  "hinweis": "Since 1 November 2022: erroneously filed application documents can be replaced by the correct ones; re-dating, unless the correct documents are completely contained in the priority application (R. 56a(4) EPC).",
+  "_de": "834c46c6d0"
+ },
+ "eunorm:epcr:58": {
+  "hinweis": "Correction of deficiencies after the examination on filing, in particular missing claims within two months (R. 58 EPC).",
+  "_de": "8fea03944d"
+ },
+ "eunorm:epcr:70": {
+  "hinweis": "Request for examination within six months of the mention of the publication of the European search report; confirmation under R. 70(2) EPC, response to the search opinion under R. 70a EPC.",
+  "_de": "37abf24de4"
+ },
+ "eunorm:epcr:71": {
+  "hinweis": "R. 71(3) EPC: communication of the text intended for grant; four months for the fee for grant and the translation of the claims (approval). Amendments or corrections requested within the time limit lead to a new communication (R. 71(6) EPC). Failure: the application is deemed to be withdrawn (R. 71(7) EPC), further processing available.",
+  "_de": "40db6ad243"
+ },
+ "eunorm:epcr:112": {
+  "hinweis": "Noting of loss of rights; within two months a decision open to appeal may be requested (R. 112(2) EPC). The communication triggers the time limit for further processing.",
+  "_de": "8cbcd696a6"
+ },
+ "eunorm:epcr:126": {
+  "hinweis": "Since 1 November 2023 no ten-day fiction any more: the document is deemed to be notified on the date it bears, unless it has failed to reach the addressee. If the EPO establishes that it reached the addressee more than seven days after that date, the time limit is extended by the number of days by which the seven days were exceeded (R. 126(2) EPC). The same applies to electronic notification (R. 127(2) EPC).",
+  "_de": "dd6868a6ea"
+ },
+ "eunorm:epcr:131": {
+  "hinweis": "Calculation of time limits: periods expressed in months expire in the relevant subsequent month on the day with the same number as the day of the triggering event; if there is no such day, on the last day of that month (R. 131(4) EPC).",
+  "_de": "883ff89508"
+ },
+ "eunorm:epcr:134": {
+  "hinweis": "Extension of time limits where a filing office of the EPO is closed on the last day of the period or the mail is generally interrupted (R. 134(1) and 134(2) EPC); R. 134(5) EPC: evidence in the case of dislocations in the delivery of mail.",
+  "_de": "07e04cdd1f"
+ },
+ "eunorm:epcr:135": {
+  "hinweis": "Request by paying the fee for further processing within two months of the communication, completing the omitted act within the same period. Ruled out (R. 135(2) EPC): the time limits of Art. 121(4) EPC and, among others, R. 6(1), 36(2), 40(3), 51(2) to 51(5), 52(2) and 52(3), 55, 56, 58, 64, 112(2), 164(1) and 164(2) EPC – there only re-establishment of rights helps.",
+  "_de": "2f09741e5f"
+ },
+ "eunorm:epcr:136": {
+  "hinweis": "Request for re-establishment in writing and reasoned, fee, completing the omitted act (R. 136(2) EPC); ruled out for time limits for which further processing is available and for the time limit for re-establishment itself (R. 136(3) EPC).",
+  "_de": "cc2585e50d"
+ },
+ "eunorm:epcr:137": {
+  "hinweis": "Amendments before receipt of the search report only within the limits of R. 137(1) EPC; afterwards once of the applicant's own volition together with the response to the search report (R. 161 and 70a EPC), later only with consent (R. 137(3) EPC); no claims to unsearched subject-matter (R. 137(5) EPC).",
+  "_de": "8124589fb8"
+ },
+ "eunorm:epcr:139": {
+  "hinweis": "Correction of linguistic errors, errors of transcription and mistakes; in the description, claims and drawings only if the correction is obvious (G 3/89, G 11/91). Correction of the declaration of priority under R. 52(3) EPC.",
+  "_de": "a00162740f"
+ },
+ "eunorm:epcr:151": {
+  "hinweis": "Without designation, the applicant first named in the request is deemed to be the common representative; if one of the applicants is obliged to appoint a professional representative, this representative is deemed to be the common representative, unless the first-named applicant has appointed a professional representative (R. 151(1) EPC). The same applies to joint opponents and proprietors.",
+  "_de": "8044e33aee"
+ },
+ "eunorm:epcr:159": {
+  "hinweis": "31 months from the date of filing or priority for the translation, specification of the application documents, filing fee, designation fee and search fee, request for examination and, where applicable, renewal fee. Failure: the application is deemed to be withdrawn (R. 160 EPC), further processing.",
+  "_de": "b931dea4bb"
+ },
+ "eunorm:epcr:161": {
+  "hinweis": "After entry: invitation to comment or amend within six months (R. 161(1) EPC), amendments before the supplementary European search (R. 161(2) EPC).",
+  "_de": "1654a5d9d6"
+ },
+ "eunorm:epcr:164": {
+  "hinweis": "Lack of unity in the European phase: supplementary search only of the first invention, further search fees under R. 164(1) EPC; where the EPO was ISA or SISA: search of unsearched inventions in examination against a fee (R. 164(2) EPC).",
+  "_de": "ff9eec3b94"
+ }
+}

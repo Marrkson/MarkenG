@@ -1,0 +1,282 @@
+{
+ "case:epc_g_1_92": {
+  "name": "G 1/92 – Availability to the public",
+  "kern": "The chemical composition of a product is state of the art when the product as such is available to the public and can be analysed and reproduced by the skilled person; no particular reason to analyse it is required.",
+  "_de": "50224f92c9"
+ },
+ "case:epc_g_1_23": {
+  "name": "G 1/23 – Product put on the market",
+  "kern": "A product put on the market before the date of filing forms part of the state of the art even if the skilled person could not analyse and reproduce its composition or internal structure; technical information about the product made available to the public also forms part of it. G 1/92 is clarified to that extent.",
+  "_de": "9d485060d4"
+ },
+ "case:epc_g_2_08": {
+  "name": "G 2/08 – Dosage regime",
+  "kern": "Art. 54(5) EPC allows protection of a known medicament for a different therapeutic treatment of the same illness, even if the only novel feature is a dosage regime. Claims in Swiss-type form are no longer allowable for such inventions.",
+  "_de": "f0d3f59715"
+ },
+ "case:epc_g_3_98": {
+  "name": "G 3/98 – Six-month period",
+  "kern": "The six-month period for non-prejudicial disclosures under Art. 55(1) EPC is calculated from the date of actual filing of the European application; the date of priority does not count.",
+  "_de": "d4fa79c7d2"
+ },
+ "case:epc_g_3_93": {
+  "name": "G 3/93 – Priority interval",
+  "kern": "A document published during the priority interval with the same content as the priority document is state of the art under Art. 54(2) EPC to the extent that the priority claim is invalid, even if it is invalid only because the invention is not the same.",
+  "_de": "0700ef3add"
+ },
+ "case:epc_g_2_98": {
+  "name": "G 2/98 – Same invention",
+  "kern": "Priority is to be acknowledged for a claim only if the skilled person can derive its subject-matter directly and unambiguously, using common general knowledge, from the previous application as a whole.",
+  "_de": "05f499ab6e"
+ },
+ "case:epc_g_1_15": {
+  "name": "G 1/15 – Partial priority",
+  "kern": "A generic \"OR\" claim is entitled to partial priority for the alternative subject-matter disclosed for the first time, directly or at least implicitly, unambiguously and in an enabling manner in the priority document; no further conditions apply.",
+  "_de": "b3064d0b88"
+ },
+ "case:epc_g_1_22": {
+  "name": "G 1/22 – Entitlement to priority",
+  "kern": "The EPO itself assesses whether the applicant is entitled to claim priority. Under the autonomous law of the EPC there is a rebuttable presumption of entitlement, also for PCT applications and where the priority applicant and the subsequent applicant are not identical; a joint PCT application by A and B implies an agreement allowing the priority to be relied on.",
+  "_de": "61db9da943"
+ },
+ "case:epc_g_1_03": {
+  "name": "G 1/03 – Disclaimer (undisclosed)",
+  "kern": "A disclaimer not disclosed in the application as filed may be allowable under Art. 123(2) EPC if it restores novelty over state of the art under Art. 54(3) EPC or over an accidental anticipation, or removes subject-matter excluded for non-technical reasons; it must not exclude more than necessary.",
+  "_de": "c2a988ad84"
+ },
+ "case:epc_g_2_10": {
+  "name": "G 2/10 – Disclaimer (disclosed)",
+  "kern": "If a disclaimer excludes subject-matter disclosed in the application as filed, the amendment infringes Art. 123(2) EPC if the subject-matter remaining in the claim is not directly and unambiguously disclosed in the application as filed (gold standard).",
+  "_de": "b4690baf55"
+ },
+ "case:epc_g_1_16": {
+  "name": "G 1/16 – Disclaimer III",
+  "kern": "For undisclosed disclaimers only the criteria of G 1/03 apply; the disclaimer must not provide a technical contribution or become relevant for inventive step or sufficiency of disclosure. The gold standard of G 2/10 does not apply to it.",
+  "_de": "03fe938676"
+ },
+ "case:epc_g_1_93": {
+  "name": "G 1/93 – Limiting feature",
+  "kern": "If a patent contains a feature that constitutes added matter but limits the extent of protection, it can neither remain unchanged (Art. 100(c) EPC) nor be saved by deleting the feature (Art. 123(3) EPC) – the \"inescapable trap\". A feature that makes no technical contribution and merely limits the protection is not regarded as added matter.",
+  "_de": "6f1f66c3d9"
+ },
+ "case:epc_g_2_88": {
+  "name": "G 2/88 – Change of category",
+  "kern": "A change of claim category in opposition proceedings does not infringe Art. 123(3) EPC if it does not extend the extent of protection; a change from a claim to a substance to a use claim is allowable.",
+  "_de": "c2d5747829"
+ },
+ "case:epc_g_3_89": {
+  "name": "G 3/89 – Correction of the disclosure",
+  "kern": "The description, claims and drawings may be corrected under R. 139 EPC only if the skilled person derives the error and the correct version directly and unambiguously from the documents as filed; the correction is of a declaratory nature and does not extend the content.",
+  "_de": "5f7febb274"
+ },
+ "case:epc_g_1_10": {
+  "name": "G 1/10 – Correction of the patent",
+  "kern": "R. 140 EPC only allows the correction of errors in decisions, not of the text of the granted patent; such a request by the proprietor is inadmissible at any time. Errors in the text intended for grant must be raised before grant (R. 71(3) EPC).",
+  "_de": "bcd1c2a8ab"
+ },
+ "case:epc_g_1_24": {
+  "name": "G 1/24 – Interpretation of the claims",
+  "kern": "The claims are the starting point for assessing patentability; the description and drawings must always be consulted when interpreting them, not only when a claim read in isolation is unclear.",
+  "_de": "97de51cd32"
+ },
+ "case:epc_g_1_25": {
+  "name": "G 1/25 – Adaptation of the description",
+  "kern": "If the claims are amended in proceedings before the EPO and this creates an inconsistency with the description that leads to non-compliance with Art. 52 to 57 EPC, Art. 76(1) EPC, Art. 83 EPC, Art. 84 EPC, Art. 123(2) EPC or Art. 123(3) EPC, the description must be adapted.",
+  "_de": "8a43f69722"
+ },
+ "case:epc_g_1_05": {
+  "name": "G 1/05 – Divisional application with added matter",
+  "kern": "A divisional application which, as filed, extends beyond the content of the parent application can still be amended later so as to comply with Art. 76(1) EPC, even if the parent application is no longer pending; it then receives the filing date and priority of the parent application.",
+  "_de": "111c3ef252"
+ },
+ "case:epc_g_1_06": {
+  "name": "G 1/06 – Sequence of divisional applications",
+  "kern": "In a sequence of divisional applications, the entire disclosure of each divisional must be directly and unambiguously derivable from each preceding application as filed.",
+  "_de": "93b3849247"
+ },
+ "case:epc_g_1_09": {
+  "name": "G 1/09 – Pendency after refusal",
+  "kern": "A refused application remains pending, if no appeal is filed, until expiry of the time limit for appeal; until then a divisional application can be filed (R. 36(1) EPC).",
+  "_de": "4cbe59a58a"
+ },
+ "case:epc_j_4_11": {
+  "name": "J 4/11 – No pendency during the time limit for re-establishment",
+  "kern": "An application deemed to be withdrawn for non-payment of a renewal fee is not pending during the time limit for requesting re-establishment of rights or after that request has been refused; a divisional application cannot be filed during that time.",
+  "_de": "2540d4685d"
+ },
+ "case:epc_j_18_09": {
+  "name": "J 18/09 – Euro-PCT not pending without entry",
+  "kern": "An international application for which the acts required for entry into the European phase have not been performed is not pending before the EPO; no divisional application under R. 36(1) EPC can be filed in respect of it.",
+  "_de": "ae3fcca989"
+ },
+ "case:epc_g_4_19": {
+  "name": "G 4/19 – Double patenting",
+  "kern": "An application can be refused under Art. 97(2) and 125 EPC if it claims the same subject-matter as a European patent already granted to the same applicant, irrespective of whether parallel, parent, divisional or priority applications are concerned.",
+  "_de": "3c0cc53a31"
+ },
+ "case:epc_g_9_91": {
+  "name": "G 9/91 – Power to examine",
+  "kern": "The Opposition Division and the Board examine only to the extent to which the patent is opposed; dependent claims of a fallen independent claim may be examined if their validity is prima facie in doubt.",
+  "_de": "57dc46c93d"
+ },
+ "case:epc_g_10_91": {
+  "name": "G 10/91 – Fresh grounds for opposition",
+  "kern": "The Opposition Division in principle examines only the grounds put forward, exceptionally further grounds that prima facie prejudice maintenance; in appeal proceedings fresh grounds for opposition may be examined only with the proprietor's consent.",
+  "_de": "826e8d3670"
+ },
+ "case:epc_g_3_14": {
+  "name": "G 3/14 – Clarity of amended claims",
+  "kern": "In opposition proceedings, amended claims are to be examined for clarity (Art. 84 EPC) only to the extent that the amendment itself introduces the deficiency; the mere combination of granted claims is not enough for that.",
+  "_de": "f4b805eeb4"
+ },
+ "case:epc_g_4_88": {
+  "name": "G 4/88 – Transfer of the opposition",
+  "kern": "A pending opposition can be transferred to a third party together with the opponent's business assets to which it relates.",
+  "_de": "2b2172e945"
+ },
+ "case:epc_g_2_04": {
+  "name": "G 2/04 – No free transferability",
+  "kern": "The status as an opponent cannot be freely transferred; a subsidiary whose shares are sold does not take it along. Where there is justifiable legal uncertainty, the appeal may be filed as an auxiliary request in the name of a different person.",
+  "_de": "d0c2d56b53"
+ },
+ "case:epc_g_3_97": {
+  "name": "G 3/97 – Opposition on behalf of a third party",
+  "kern": "An opposition is not inadmissible merely because the opponent is acting on behalf of a third party (straw man); it is inadmissible in the case of an abuse of law (circumvention of the law), for example on behalf of the proprietor.",
+  "_de": "3a53ad5d10"
+ },
+ "case:epc_g_9_93": {
+  "name": "G 9/93 – Opposition by the proprietor",
+  "kern": "The proprietor cannot file an opposition against his own European patent (departing from G 1/84); since 2007 Art. 105a EPC serves for limitation.",
+  "_de": "7283ab00c3"
+ },
+ "case:epc_g_3_99": {
+  "name": "G 3/99 – Joint opposition",
+  "kern": "An opposition filed jointly by several persons is admissible with one opposition fee; the appeal must then be filed by the common representative (R. 151 EPC).",
+  "_de": "551e05b584"
+ },
+ "case:epc_g_1_13": {
+  "name": "G 1/13 – Revived opponent",
+  "kern": "If an opponent company ceases to exist and is revived with retroactive effect under national law, the EPO must recognise the retroactive effect and continue the proceedings with it.",
+  "_de": "44a606d1cd"
+ },
+ "case:epc_g_2_24": {
+  "name": "G 2/24 – Intervener without appellant status",
+  "kern": "If all appeals are withdrawn, the appeal proceedings cannot be continued with a third party who intervened under Art. 105 EPC only during the appeal proceedings; the intervener does not acquire the status of an appellant.",
+  "_de": "febe798c72"
+ },
+ "case:epc_g_1_18": {
+  "name": "G 1/18 – Appeal without fee paid in time",
+  "kern": "If the notice of appeal is filed or the appeal fee is paid after expiry of the two-month time limit under the first sentence of Art. 108 EPC, the appeal is deemed not to have been filed (not: inadmissible); the fee is reimbursed ex officio.",
+  "_de": "d3abd113ea"
+ },
+ "case:epc_g_1_12": {
+  "name": "G 1/12 – Correction of the appellant",
+  "kern": "If the wrong person was named as appellant in the notice of appeal by mistake, the name can be corrected under R. 101(2) EPC if the requirements of R. 101(1) EPC are met; the principle of free evaluation of evidence applies.",
+  "_de": "f00285bd6f"
+ },
+ "case:epc_g_1_99": {
+  "name": "G 1/99 – Reformatio in peius",
+  "kern": "If the opponent is the sole appellant, the decision must not put it in a worse position; exceptionally, the proprietor may make amendments to avoid revocation resulting from an inadmissible amendment.",
+  "_de": "68f55b96f5"
+ },
+ "case:epc_g_3_03": {
+  "name": "G 3/03 – Reimbursement on interlocutory revision",
+  "kern": "If the department of first instance grants interlocutory revision, it has no power to refuse a request for reimbursement of the appeal fee; the Board of Appeal decides on it.",
+  "_de": "6d5addf57e"
+ },
+ "case:epc_g_2_97": {
+  "name": "G 2/97 – Good faith",
+  "kern": "The protection of legitimate expectations does not oblige the Board to notify an appellant of a missing appeal fee if there is no indication that the appellant will inadvertently miss the time limit.",
+  "_de": "7b17eb2829"
+ },
+ "case:epc_j_5_80": {
+  "name": "J 5/80 – Due care of the representative",
+  "kern": "Re-establishment of rights requires that the representative, too, has taken all due care. Errors of an assistant are not imputed to him if he selected, instructed and supervised the assistant with due care.",
+  "_de": "ce93820711"
+ },
+ "case:epc_g_1_86": {
+  "name": "G 1/86 – Re-establishment of the opponent",
+  "kern": "Art. 122 EPC does not apply only to applicants and proprietors: an opponent who is an appellant can have its rights re-established in respect of the missed time limit for filing the statement of grounds of appeal.",
+  "_de": "edf2f2dfe3"
+ },
+ "case:epc_j_6_22": {
+  "name": "J 6/22 – Complete substantiation of the request for re-establishment",
+  "kern": "The request for re-establishment must state all grounds and means of evidence immediately and completely; later submissions are excluded. There is no unlimited right to oral proceedings.",
+  "_de": "eab3118e5e"
+ },
+ "case:epc_j_10_20": {
+  "name": "J 10/20 – Reliance on an extension of time limits",
+  "kern": "Parties may rely on EPO announcements of extensions of time limits under R. 134(4) EPC, even if there was in fact no general dislocation in the delivery of mail (protection of legitimate expectations).",
+  "_de": "877ee278d5"
+ },
+ "case:epc_j_14_19": {
+  "name": "J 14/19 – Stay only before grant",
+  "kern": "The requirements for a stay under R. 14(1) EPC must be proven before the mention of grant; when national proceedings are deemed to have been instituted is governed by the procedural law of the court seised.",
+  "_de": "948df9d39a"
+ },
+ "case:epc_g_4_08": {
+  "name": "G 4/08 – Language of the proceedings for Euro-PCT",
+  "kern": "If a PCT application was filed and published in an official language of the EPO, no translation into another official language can be filed on entry into the European phase; in written proceedings the EPO uses only the language of the proceedings.",
+  "_de": "373e409ed1"
+ },
+ "case:epc_j_13_14": {
+  "name": "J 13/14 – Divisional application in the wrong language",
+  "kern": "A divisional application relating to an application filed in an official language must be filed in the language of the proceedings of that application. If it is filed in another language, the deficiency can be remedied neither by a translation nor by correction under R. 139 EPC or amendment; it is not treated as a divisional application.",
+  "_de": "e85aa58c35"
+ },
+ "case:epc_j_20_05": {
+  "name": "J 20/05 – No divisional application during suspension",
+  "kern": "As long as the grant proceedings are suspended because of entitlement proceedings, the applicant cannot file a divisional application relating to that application; such an application is not treated as a divisional application.",
+  "_de": "a5a9f31a3c"
+ },
+ "case:epc_j_9_12": {
+  "name": "J 9/12 – Suspension from receipt of the evidence",
+  "kern": "Suspension under R. 14(1) EPC takes effect from the date on which evidence of the institution of proceedings is received by the EPO, not only from the communication to the applicant. A divisional application filed after that date but before the communication is not to be treated as a divisional application.",
+  "_de": "3304af3fc4"
+ },
+ "case:epc_g_3_92": {
+  "name": "G 3/92 – New application by the entitled person",
+  "kern": "Where a final decision of a national court has recognised a person other than the applicant as entitled to the grant, that person may file a new application for the same invention under Art. 61(1)(b) EPC, even if the original application of the non-entitled person is no longer pending.",
+  "_de": "198b5a8eb9"
+ },
+ "case:epc_g_11_91": {
+  "name": "G 11/91 – Correction of the disclosure (parallel case)",
+  "kern": "As in G 3/89: the description, claims and drawings may be corrected under R. 139 EPC only within the limits of what the skilled person, using common general knowledge, derives directly and unambiguously from the documents as filed. Common general knowledge may be proven by any suitable means of evidence.",
+  "_de": "cc7e9686e8"
+ },
+ "case:epc_g_12_91": {
+  "name": "G 12/91 – Completion of the written procedure",
+  "kern": "In written proceedings, the procedure for issuing a decision is completed on the date on which the formalities section hands the decision over to the EPO's internal postal service for notification. Until then, the department may still take the parties' submissions into account.",
+  "_de": "0255d55e04"
+ },
+ "case:epc_t_210_89": {
+  "name": "T 210/89 – No re-establishment of the opponent in the time limit for appeal",
+  "kern": "An opponent who has missed the time limit for filing an appeal cannot have his rights re-established under Art. 122 EPC. The position differs only where he has filed an appeal but missed the time limit for the statement of grounds (G 1/86).",
+  "_de": "e7df800039"
+ },
+ "case:epc_t_1095_06": {
+  "name": "T 1095/06 – Representative's own failure",
+  "kern": "The case law on an isolated mistake in an otherwise satisfactory system for monitoring time limits does not help to overcome a failure of the professional representative himself in the absence of special circumstances. The importance of the application to the applicant does not argue in favour of re-establishment.",
+  "_de": "7a649ab3c3"
+ },
+ "case:epc_j_4_91": {
+  "name": "J 4/91 – Grace period for renewal fees from month end to month end",
+  "kern": "The six-month period for paying a renewal fee with additional fee ends on the last day of the sixth month after the due date. It begins on the due date even if the EPO is closed on that day; an extension of the due date does not postpone its end.",
+  "_de": "c184fb1bfa"
+ },
+ "case:epc_g_1_94": {
+  "name": "G 1/94 – Intervention in appeal proceedings",
+  "kern": "The assumed infringer may intervene under Art. 105 EPC even during pending appeal proceedings. He may base his intervention on any ground for opposition under Art. 100 EPC, including one not invoked by the opponent.",
+  "_de": "3cae617ef1"
+ },
+ "case:epc_g_8_93": {
+  "name": "G 8/93 – Withdrawal of the opposition in appeal",
+  "kern": "If the opponent who is the sole appellant withdraws his opposition, the appeal proceedings are terminated immediately. Neither the patent proprietor's consent nor the board's view on the validity of the patent is relevant.",
+  "_de": "aed7f1616c"
+ },
+ "case:epc_t_1178_04": {
+  "name": "T 1178/04 – Examination of opponent status of the EPO's own motion",
+  "kern": "The EPO examines the status of a party as opponent of its own motion at every stage of the proceedings. This also applies to the validity of an alleged transfer of the opposition to a new party.",
+  "_de": "4fa3d16f27"
+ }
+}

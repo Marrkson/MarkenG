@@ -427,8 +427,12 @@ pro Ortstag (`DAY()` nach Ortszeit, nicht UTC). Das Tagesziel `GOAL = 100` XP is
 schreibt beim Überschreiten den Tag in `P.g` (Zieltage, die letzten 90) und zählt `P.s` hoch (Vortag Zieltag → +1, sonst 1).
 `streakOf(P)` zeigt den Streak nur, wenn gestern oder heute das Ziel erreicht wurde; `streakState()` liefert die drei Zustände
 (erreicht, gefährdet, offen/abgerissen) für die Tagesziel-Karte `goalCard()` (Ring, Wochenpunkte Mo–So, Knopf „Noch n Fälle“).
+Streak-Retter: Wer in einer Kalenderwoche (Mo–So) an `SAVER_DAYS = 4` Tagen (mehr als die Hälfte) irgendwelche XP sammelt, bekommt
+einen Retter (`P.r.n`, höchstens `SAVER_MAX = 2`, je Woche einmal, `P.r.w`); Lerntage stehen in `P.a`. `settle()` (beim Seitenwechsel und
+vor jedem `addXp`) überbrückt die Tage ohne Tagesziel zwischen `P.s.last` und gestern automatisch, wenn die Retter für die ganze Lücke
+reichen: `P.s.last` rückt auf gestern, der Streak zählt nicht weiter, die Tage landen in `P.f` (Wochenpunkte in `--tip`, Zeile `saverLine()`).
 Stufen `level(xp)` nach Dreieckszahlen (50·n·(n+1)), Namen in `STUFEN`; Abzeichen `abzeichen()` werden berechnet, nie gespeichert.
-Cookie `mgk_m` hat drei neue Felder (Tag und XP von heute, Zieltage mit `|`); alte Cookies bleiben lesbar, `Transfer` führt die Felder
+Cookie `mgk_m` hat sieben neue Felder (Tag und XP von heute, Zieltage mit `|`, Retter-Vorrat und -Woche, Lerntage, überbrückte Tage); alte Cookies bleiben lesbar, `Transfer` führt die Felder
 zusammen. Bei jedem Speichern legt `Push.sync()` den Tagesstand unter IndexedDB `ipelico/kv/heute` ab, damit der Service Worker ihn lesen kann.
 
 **Erinnerung für alle Nutzer.** iOS kann aus einer Web-App keine Mitteilung planen; sie muss von außen per Web Push kommen. Das

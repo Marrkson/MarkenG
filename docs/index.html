@@ -359,6 +359,9 @@ nav.tabbar a.active .ic{color:var(--brand)}
 .wd.met i{background:var(--ok);box-shadow:none}
 .wd.today i{box-shadow:inset 0 0 0 2px var(--brand)}
 .wd.today.met i{box-shadow:none}
+.wd.saved i{background:var(--tip);box-shadow:none}
+.saver{display:flex;align-items:center;gap:6px;margin-top:12px;font-size:13px;color:var(--muted)}
+.saver .ic{color:var(--tip)}.saver b{color:var(--ink)}.saver small{margin-left:auto;font-size:12px}
 .wd small{font-size:11px;color:var(--muted);font-weight:600}
 .wd.today small{color:var(--ink)}
 .pill[href]{text-decoration:none;color:inherit}
@@ -1547,17 +1550,19 @@ const Store = (()=>{
   const rd = n => { try{ if(mode!=='cookie') return LS.get(n); const c=getC(n), l=LS.get(n); return l && (!c || l.length>c.length) ? l : c; }catch(e){ return null; } };
   const wr = (n,v) => { try{ if(mode!=='cookie') return LS.set(n,v); if(encodeURIComponent(v).length<=3800){ setC(n,v); LS.del(n); } else { LS.set(n,v); setC(n,''); } }catch(e){} };
   // Meta-Felder: letzter Zieltag, Streak, bester Streak, XP gesamt, letzte Einheit, Hinweis quittiert,
-  // Tag und XP von heute, Zieltage (mit | getrennt, die letzten 90). Alte Cookies ohne die drei letzten Felder bleiben lesbar.
+  // Tag und XP von heute, Zieltage (mit | getrennt, die letzten 90), Streak-Retter (Anzahl, zuletzt gutgeschriebene Woche),
+  // Lerntage (die letzten 14) und überbrückte Tage (die letzten 90). Alte Cookies ohne die hinteren Felder bleiben lesbar.
   const decode = (u, m) => {
-    const p = {u:{}, s:{last:0,cnt:0,best:0}, xp:0, last:'', ack:0, t:{d:0,x:0}, g:[]};
+    const p = {u:{}, s:{last:0,cnt:0,best:0}, xp:0, last:'', ack:0, t:{d:0,x:0}, g:[], r:{n:0,w:0}, a:[], f:[]};
     if(u){ for(const part of u.split('_')){ const [id,r,d,n]=part.split('.'); if(id) p.u[id]={r:+r,d:+d,n:+n||0}; } }
-    if(m){ const [last,cnt,best,xp,lastU,ack,td,tx,g]=m.split(','); p.s={last:+last||0,cnt:+cnt||0,best:+best||0}; p.xp=+xp||0; p.last=lastU||''; p.ack=+ack||0;
-      p.t={d:+td||0,x:+tx||0}; p.g=(g||'').split('|').map(Number).filter(Boolean); }
+    if(m){ const [last,cnt,best,xp,lastU,ack,td,tx,g,rn,rw,a,f]=m.split(','); p.s={last:+last||0,cnt:+cnt||0,best:+best||0}; p.xp=+xp||0; p.last=lastU||''; p.ack=+ack||0;
+      p.t={d:+td||0,x:+tx||0}; p.g=(g||'').split('|').map(Number).filter(Boolean);
+      p.r={n:+rn||0,w:+rw||0}; p.a=(a||'').split('|').map(Number).filter(Boolean); p.f=(f||'').split('|').map(Number).filter(Boolean); }
     return p; };
   const load = () => decode(rd(NAME), rd(META));
   const save = p => {
     wr(NAME, Object.entries(p.u).map(([id,v])=>`${id}.${v.r}.${v.d}.${v.n}`).join('_'));
-    wr(META, [p.s.last,p.s.cnt,p.s.best,p.xp,p.last,p.ack,p.t.d,p.t.x,p.g.slice(-90).join('|')].join(','));
+    wr(META, [p.s.last,p.s.cnt,p.s.best,p.xp,p.last,p.ack,p.t.d,p.t.x,p.g.slice(-90).join('|'),p.r.n,p.r.w,p.a.slice(-14).join('|'),p.f.slice(-90).join('|')].join(','));
     Push.sync(p);
   };
   const clear = () => { wr(NAME,''); wr(META,''); if(mode==='cookie'){ document.cookie='mgk_p=; max-age=0; path='+CPATH; document.cookie='mgk_m=; max-age=0; path='+CPATH; } };
@@ -1602,8 +1607,19 @@ let P = Store.load();
 const streakOf = p => p.s.last >= DAY()-1 ? p.s.cnt : 0;
 const todayXp = () => P.t.d===DAY() ? P.t.x : 0;
 const goalMet = () => todayXp() >= GOAL;
+// Streak-Retter: Wer in einer Kalenderwoche (Mo–So) an mehr als der Hälfte der Tage gelernt hat (irgendwelche XP), bekommt einen,
+// höchstens SAVER_MAX auf Vorrat. Tage ohne Tagesziel zwischen letztem Zieltag und gestern überbrückt settle() automatisch,
+// aber nur, wenn die Retter für die ganze Lücke reichen; sonst ist der Streak ohnehin weg und die Retter bleiben erhalten.
+const SAVER_DAYS = 4, SAVER_MAX = 2;
+const WEEK = d => Math.floor((d+3)/7);  // Tag 0 (1.1.1970) war ein Donnerstag; Wochen beginnen montags
+const activeThisWeek = () => { const w=WEEK(DAY()); return P.a.filter(d=>WEEK(d)===w).length; };
+function settle(){ const t=DAY(), gap=t-1-P.s.last; if(P.s.cnt<1 || gap<1 || gap>P.r.n) return false;
+  for(let d=P.s.last+1; d<t; d++) if(!P.f.includes(d)) P.f.push(d); P.r.n-=gap; P.s.last=t-1; return true; }
 let JUST_REACHED = false; // wird von der Ansicht nach dem Feiern zurückgesetzt
-function addXp(n){ const t=DAY(); if(P.t.d!==t) P.t={d:t,x:0}; const before=P.t.x; P.t.x+=n; P.xp+=n;
+let JUST_SAVER = false;
+function addXp(n){ const t=DAY(); settle(); if(P.t.d!==t) P.t={d:t,x:0}; const before=P.t.x; P.t.x+=n; P.xp+=n;
+  if(!P.a.includes(t)){ P.a.push(t); P.a=P.a.slice(-14); const w=WEEK(t);
+    if(P.r.w!==w && activeThisWeek()>=SAVER_DAYS){ P.r.w=w; if(P.r.n<SAVER_MAX){ P.r.n++; JUST_SAVER=true; } } }
   if(before<GOAL && P.t.x>=GOAL){ if(!P.g.includes(t)) P.g.push(t); if(P.s.last!==t){ P.s.cnt = P.s.last===t-1 ? P.s.cnt+1 : 1; P.s.last=t; } P.s.best=Math.max(P.s.best,P.s.cnt); JUST_REACHED=true; } }
 function record(id, ok){ const prev=P.u[id]; const n = ok ? ((prev&&prev.r===1?prev.n:0)+1) : 0; P.u[id]={r:ok?1:0,d:DAY(),n}; addXp(ok?10:2); P.last=id; Store.save(P); }
 function markSeen(id){ if(!P.u[id]) { P.u[id]={r:1,d:DAY(),n:1}; addXp(3); } P.last=id; Store.save(P); }
@@ -1651,7 +1667,8 @@ const Transfer = (()=>{
     const s=f.s||{};
     const t=f.t&&typeof f.t==='object'?f.t:{};
     const p={u, s:{last:int(s.last),cnt:int(s.cnt),best:int(s.best)}, xp:int(f.xp), last:ID.test(f.last||'')?f.last:'', ack:f.ack?1:0,
-      t:{d:int(t.d),x:int(t.x)}, g:(Array.isArray(f.g)?f.g:[]).map(int).filter(Boolean).slice(-90)};
+      t:{d:int(t.d),x:int(t.x)}, g:(Array.isArray(f.g)?f.g:[]).map(int).filter(Boolean).slice(-90),
+      r:{n:Math.min(SAVER_MAX,int((f.r||{}).n)), w:int((f.r||{}).w)}, a:(Array.isArray(f.a)?f.a:[]).map(int).filter(Boolean).slice(-14), f:(Array.isArray(f.f)?f.f:[]).map(int).filter(Boolean).slice(-90)};
     const prefs={}; const e=o.einstellungen; if(e && typeof e==='object') for(const k of PREFS) if(k in e) prefs[k]=typeof e[k]==='string'?e[k]:null;
     const nav={}; const g=o.navigator; if(g && typeof g==='object') for(const k of NAV) if(typeof g[k]==='string') nav[k]=g[k];
     return {p, prefs, nav}; };
@@ -1672,6 +1689,9 @@ const Transfer = (()=>{
       P.s.best=Math.max(P.s.best,p.s.best,P.s.cnt); P.xp=Math.max(P.xp,p.xp); P.ack=Math.max(P.ack,p.ack);
       if(p.t.d>P.t.d) P.t=p.t; else if(p.t.d===P.t.d) P.t.x=Math.max(P.t.x,p.t.x);
       P.g=[...new Set([...P.g,...p.g])].sort((a,b)=>a-b).slice(-90);
+      // Streak-Retter: neuere Woche gewinnt; bei gleicher Woche der kleinere Vorrat (ein Gerät hat einen schon eingesetzt)
+      if(p.r.w>P.r.w) P.r=p.r; else if(p.r.w===P.r.w) P.r.n=Math.min(P.r.n,p.r.n);
+      P.a=[...new Set([...P.a,...p.a])].sort((a,b)=>a-b).slice(-14); P.f=[...new Set([...P.f,...p.f])].sort((a,b)=>a-b).slice(-90);
       for(const k of PREFS) if(k!=='mgk_recent' && getLS(k)==null && prefs[k]!=null) setLS(k,prefs[k]);
       if(prefs.mgk_recent){ let a=[],b=[]; try{ a=JSON.parse(getLS('mgk_recent')||'[]'); b=JSON.parse(prefs.mgk_recent); }catch(e){}
         if(Array.isArray(a)&&Array.isArray(b)){ const seen=new Set(); setLS('mgk_recent', JSON.stringify([...a,...b].filter(q=>typeof q==='string'&&!seen.has(q.toLowerCase())&&seen.add(q.toLowerCase())).slice(0,8))); } }
@@ -1740,24 +1760,31 @@ addEventListener('scroll', ()=>top.classList.toggle('scrolled', scrollY>8), {pas
 function streakPill(){ const x=todayXp(); return `<span class="pill" title="Streak: Tage mit erreichtem Tagesziel">${ic('streak','s')}<span class="mono">${streakOf(P)}</span></span><a class="pill${x>=GOAL?' met':''}" href="#/profil" title="Heute gesammelte XP von ${GOAL}">${x>=GOAL?ic('richtig','s'):''}<span class="mono">${x}/${GOAL}</span> XP</a>`; }
 // ---------- Tagesziel: Ring, Wochenübersicht, Streak-Zustand ----------
 const WT = ['So','Mo','Di','Mi','Do','Fr','Sa'];
-function weekDots(){ const t=DAY(); let h=''; for(let i=6;i>=0;i--){ const d=t-i; const met=P.g.includes(d); const today=d===t; h+=`<span class="wd${met?' met':''}${today?' today':''}" title="${met?'Tagesziel erreicht':today?'heute':'kein Tagesziel'}"><i>${met?ic('richtig','s'):''}</i><small>${WT[new Date(d*86400000).getUTCDay()]}</small></span>`; } return `<div class="week" aria-label="Letzte sieben Tage">${h}</div>`; }
+function weekDots(){ const t=DAY(); let h=''; for(let i=6;i>=0;i--){ const d=t-i; const met=P.g.includes(d); const saved=!met&&P.f.includes(d); const today=d===t; h+=`<span class="wd${met?' met':''}${saved?' saved':''}${today?' today':''}" title="${met?'Tagesziel erreicht':saved?'Streak-Retter eingesetzt':today?'heute':'kein Tagesziel'}"><i>${met?ic('richtig','s'):saved?ic('streak','s'):''}</i><small>${WT[new Date(d*86400000).getUTCDay()]}</small></span>`; } return `<div class="week" aria-label="Letzte sieben Tage">${h}</div>`; }
 function ring(x, size){ const r=34, c=2*Math.PI*r, pct=Math.min(1,x/GOAL); return `<svg class="ring${pct>=1?' met':''}" viewBox="0 0 80 80" style="width:${size||88}px;height:${size||88}px" role="img" aria-label="${x} von ${GOAL} XP"><circle cx="40" cy="40" r="${r}" class="track"/><circle cx="40" cy="40" r="${r}" class="val" stroke-dasharray="${c}" stroke-dashoffset="${c*(1-pct)}"/><text x="40" y="37" class="n mono">${pct>=1?'✓':x}</text><text x="40" y="52" class="l">${pct>=1?'Ziel':'von '+GOAL}</text></svg>`; }
 function streakState(){ const s=streakOf(P); const t=DAY();
   if(goalMet()) return {cls:'ok', t:`Tagesziel erreicht. Streak: ${s} ${s===1?'Tag':'Tage'}.`};
+  if(P.s.last===t-1 && P.r.n>0) return {cls:'warn', t:`Noch ${GOAL-todayXp()} XP, sonst setzt morgen ein Streak-Retter ein und hält deinen Streak von ${s} ${s===1?'Tag':'Tagen'}.`};
   if(P.s.last===t-1) return {cls:'warn', t:`Noch ${GOAL-todayXp()} XP, sonst endet dein Streak von ${s} ${s===1?'Tag':'Tagen'} heute.`};
   if(s===0 && P.s.cnt>0 && P.s.last<t-1) return {cls:'', t:`Dein Streak von ${P.s.cnt} ${P.s.cnt===1?'Tag':'Tagen'} ist abgerissen. Mit ${GOAL} XP startet heute ein neuer.`};
   return {cls:'', t:`Noch ${GOAL-todayXp()} XP bis zum Tagesziel. Erst dann zählt der Tag für den Streak.`}; }
+function saverLine(){ const n=P.r.n, a=activeThisWeek(), got=P.r.w===WEEK(DAY());
+  const sub = got ? 'diese Woche verdient' : n>=SAVER_MAX ? 'Vorrat voll' : `Lerntage diese Woche ${a}/${SAVER_DAYS}`;
+  return `<div class="saver" title="Ein Streak-Retter überbrückt automatisch einen Tag ohne Tagesziel. Verdient wird er mit ${SAVER_DAYS} Lerntagen in einer Woche (Mo–So), höchstens ${SAVER_MAX} auf Vorrat.">${ic('streak','s')}<span>Streak-Retter <b class="mono">${n}/${SAVER_MAX}</b></span><small>${sub}</small></div>`; }
 function goalCard(){ const x=todayXp(), s=streakState(); const nx=nextUnit(); const open=Math.ceil(Math.max(0,GOAL-x)/10);
-  return `<section class="glass card goal ${s.cls}" aria-label="Tagesziel"><div class="top">${ring(x)}<div class="b"><div class="k">${ic('punkte','s')}Tagesziel</div><div class="t">${x>=GOAL?'Geschafft!':`${x} von ${GOAL} XP`}</div><div class="s">${esc(s.t)}</div></div></div>${weekDots()}
+  return `<section class="glass card goal ${s.cls}" aria-label="Tagesziel"><div class="top">${ring(x)}<div class="b"><div class="k">${ic('punkte','s')}Tagesziel</div><div class="t">${x>=GOAL?'Geschafft!':`${x} von ${GOAL} XP`}</div><div class="s">${esc(s.t)}</div></div></div>${weekDots()}${saverLine()}
     ${x<GOAL?`<a class="btn primary block" href="#/lernen/${nx.id}">${open===1?'Noch ein Fall':`Etwa ${open} Fälle`} bis zum Ziel${ic('weiter','m')}</a>`:''}</section>`; }
 // Feier, wenn das Tagesziel gerade erreicht wurde (kurze Glaskarte über der Tableiste)
-function celebrate(){ if(!JUST_REACHED) return; JUST_REACHED=false; const s=streakOf(P); const el=document.getElementById('toast'); el.hidden=false;
-  el.innerHTML=`${ic('feier')}<div><b>Tagesziel erreicht!</b><br>${s>1?`Streak: ${s} Tage in Folge.`:'Dein Streak beginnt heute.'}</div><a class="btn primary" href="#/profil">Profil</a>`;
+function celebrate(){ if(!JUST_REACHED && !JUST_SAVER) return; const s=streakOf(P); const el=document.getElementById('toast'); el.hidden=false;
+  const saver = JUST_SAVER ? `Streak-Retter verdient: ${SAVER_DAYS} Lerntage diese Woche.` : '';
+  el.innerHTML = JUST_REACHED ? `${ic('feier')}<div><b>Tagesziel erreicht!</b><br>${s>1?`Streak: ${s} Tage in Folge.`:'Dein Streak beginnt heute.'}${saver?` ${saver}`:''}</div><a class="btn primary" href="#/profil">Profil</a>`
+    : `${ic('streak')}<div><b>Streak-Retter verdient!</b><br>${SAVER_DAYS} Lerntage diese Woche. Er hält deinen Streak an einem Tag ohne Tagesziel.</div><a class="btn primary" href="#/profil">Profil</a>`;
+  JUST_REACHED=false; JUST_SAVER=false;
   clearTimeout(celebrate.t); celebrate.t=setTimeout(()=>{ el.hidden=true; }, 6000); }
 function bnav(){ const h=location.hash||'#/'; const item=(href,icn,l)=>`<a href="${href}" class="${(href==='#/'?h==='#/'||h===''||h.startsWith('#/kurs')||h.startsWith('#/lernen')||h.startsWith('#/ende'):h.startsWith(href))?'active':''}" ${(href==='#/'?h==='#/'||h===''||h.startsWith('#/kurs'):h.startsWith(href))?'aria-current="page"':''}>${ic(icn)}${l}</a>`;
   document.getElementById('bnav').innerHTML=item('#/','tab-kurse','Kurse')+item('#/wdh','tab-wdh','Wiederholen')+item('#/profil','tab-profil','Profil')+item('#/didaktik','tab-konzept','Konzept');
   const fab=document.getElementById('fab'); const on=h.startsWith('#/suche')||h.startsWith('#/karte'); fab.classList.toggle('active',on); fab.innerHTML=ic('suche'); if(on) fab.setAttribute('aria-current','page'); else fab.removeAttribute('aria-current'); }
-function route(){ const h=decodeURIComponent(location.hash||'#/').replace(/^#\//,''); const [v,a,b]=h.split('/'); window.scrollTo(0,0); bnav();
+function route(){ const h=decodeURIComponent(location.hash||'#/').replace(/^#\//,''); const [v,a,b]=h.split('/'); window.scrollTo(0,0); if(settle()) Store.save(P); bnav();
   radar(); ({'':vHome,kurse:vKurse,kurs:vKurs,lernen:vLernen,wdh:vWdh,profil:vProfil,didaktik:vDidaktik,ende:vEnde,suche:vSuche,karte:vKarte,epg:vEpg,bpatg:vPat}[v]||vHome)(a,b); top.classList.toggle('scrolled', scrollY>8); notice(); }
 window.addEventListener('hashchange',route);
 

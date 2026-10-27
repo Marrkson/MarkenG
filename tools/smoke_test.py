@@ -112,6 +112,19 @@ with sync_playwright() as pw:
     check(pgg.query_selector(".badges .badge:not(.off)") is not None and pgg.query_selector("#erinnerung") is not None, "Profil: Abzeichen oder Erinnerung fehlen")
     check("Stufe" in pgg.inner_text(".ecard"), "Profil: Stufe fehlt")
     ctxg.close()
+    # Streak-Retter: überbrückt vorgestern verpassten Tag; vier Lerntage in der Woche bringen einen neuen
+    woche = [heute - (heute + 3) % 7 + i for i in range(7)]
+    lern = [d for d in woche if d != heute][:3]
+    ctxr = b.new_context(viewport={"width": 390, "height": 844}); pgr = ctxr.new_page()
+    pgr.goto(BASE); pgr.evaluate("document.cookie='mgk_m=%d,3,5,500,,1,%d,0,%d,1,0,%s,; path=/'" % (heute - 2, heute - 2, heute - 2, "|".join(map(str, lern))))
+    pgr.goto(BASE + "#/"); pgr.reload(); pgr.wait_for_timeout(300)
+    check(pgr.evaluate("parseInt(document.querySelector('.hero .pill .mono').textContent)") == 3, "Streak-Retter hält den Streak nicht")
+    check(pgr.query_selector(".goal .wd.saved") is not None and "0/2" in pgr.inner_text(".goal .saver"), "Streak-Retter: Tag nicht markiert oder nicht verbraucht")
+    pgr.goto(BASE + f"#/lernen/{fall['id']}"); pgr.wait_for_timeout(200); pgr.click(".ans"); pgr.wait_for_timeout(300)
+    check(pgr.is_visible("#toast") and "Streak-Retter verdient" in pgr.inner_text("#toast"), "Streak-Retter nach vier Lerntagen nicht verdient")
+    m = pgr.evaluate("decodeURIComponent((document.cookie.match(/mgk_m=([^;]*)/)||[])[1]||'')").split(",")
+    check(m[0] == str(heute - 1) and m[9:11] == ["1", str((heute + 3) // 7)] and m[12] == str(heute - 1), f"Cookie mit Streak-Retter falsch: {m}")
+    ctxr.close()
     # Suche, Lernkarte, Lernradar
     pg.goto(BASE + f"#/lernen/{fall['id']}"); pg.wait_for_timeout(200)
     wrong = pg.evaluate("(()=>{const e=JSON.parse(document.getElementById('kurse-data').textContent).flatMap(k=>k.kapitel.flatMap(c=>c.einheiten)).find(u=>u.id==='%s'); return e.antwort?0:1;})()" % fall["id"])

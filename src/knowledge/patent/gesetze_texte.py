@@ -289,3 +289,7 @@ for _f in _FAM:
     FAMILIEN.append(dict(key=_f["key"], kurz=_f["kurz"], aliase=_f["aliase"], titel=_f["titel"], gesetz=_f["gesetz"], artikel=arts,
                          erwaegungsgruende=[], url=_j["meta"]["quelle"], url_pdf=_j["meta"]["quelle_xml"], paraphrase=False,
                          zitat="Art." if _f["key"] == "intpatueg" else "§", hinweis=_f["hinweis"], stand="; ".join(_j["meta"]["stand"]), korpus="patent"))
+
+# Arbeitnehmererfinderrecht: eigene Normfamilie mit Kommentar und eigenem Korpus (Schiedsstelle, BGH), siehe arbnerfg.py
+from .arbnerfg import FAMILIE as _ARBNERFG  # noqa: E402
+FAMILIEN.append(_ARBNERFG)

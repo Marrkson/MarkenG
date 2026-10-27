@@ -12,4 +12,4 @@ from .concepts import CONCEPTS  # noqa: F401
 from .cases import CASES  # noqa: F401
 from .schemata import SCHEMATA  # noqa: F401
 from .distinctions import DISTINCTIONS  # noqa: F401
-from . import gesetze_texte, entscheidungen, richtlinien  # noqa: F401
+from . import gesetze_texte, entscheidungen, richtlinien, arbnerfg, arbnerfg_entscheidungen  # noqa: F401

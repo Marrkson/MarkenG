@@ -366,3 +366,6 @@ CASES = [
 # Leitentscheidungen der Normkurse (eigene Module, damit die Kapitel unabhängig gepflegt werden können)
 from . import cases_p03a as _p03a, cases_p03b as _p03b  # noqa: E402
 CASES += _p03a.CASES + _p03b.CASES
+# Leitentscheidungen zum ArbnErfG (Schiedsstelle, BGH; geprüft gegen data/arbnerfg_decisions.json)
+from .arbnerfg_kommentar import CASES as _arb  # noqa: E402
+CASES += _arb

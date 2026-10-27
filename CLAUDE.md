@@ -36,6 +36,11 @@
   `Art. 19 DesignRL 2024`, `Art. 20a GGV`. BGH-/BPatG-Leitentscheidungen in `design/cases.py` werden gegen den Korpus geprüft; EuGH/EuG-Fälle
   per WebSearch verifizieren. Kurs `kurse/d01_designrecht.py`; Anspruchsgrundlagentabelle `d_des_anspruchsgrundlagen_eu` (MarkenG, PatG, GebrMG,
   DesignG, UrhG, UMV/GGV, EPGÜ mit VerfO-Regeln).
+- Arbeitnehmererfinderrecht (Teil des Patentpakets): `data/arbnerfg.json` (XML), `data/arbnerfg_vergrl.json` (Vergütungsrichtlinien 1959,
+  PDF dpma.de), `data/arbnerfg_decisions.json` (Tabelle `SchiedsstelleDecision` + BGH/BPatG mit ArbEG-Zitaten) aus `tools/fetch_arbnerfg.py`.
+  Kommentar aus der Rechtsprechung in `src/knowledge/patent/arbnerfg_kommentar/` (`rn()` prüft Belege gegen den Korpus), Kurs `kurse/p04_arbnerfg.py`.
+  Zitierform `§ 9 Abs. 2 ArbnErfG` (nie „ArbEG“ im eigenen Text), Richtlinien als „RL Nr. 34“ (`source:vrl:34`); Altfälle (Meldung vor
+  1.10.2009) nach ArbnErfG a.F. (§ 43 Abs. 3 ArbnErfG). PLAYBOOK Abschnitt 16.
 - Spielmechanik und Erinnerung (Tagesziel 100 XP, Streak nur über Zieltage, Service Worker `src/templates/sw.js`, Cloudflare Worker
   `push/` mit `node push/test.mjs`, Worker-URL in `data/push_api.txt`): `PLAYBOOK.md` Abschnitt 14. `data/push_vapid_private.txt` nie versionieren.
 - Normkurse und Fallketten (Jurafuchs-Format): Kapitel je Vorschrift nach `data/norm_ranking.json` (`tools/norm_ranking.py`), Fälle als

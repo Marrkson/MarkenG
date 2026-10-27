@@ -20,6 +20,7 @@ from knowledge.kurse import KURSE, GEBIETE  # noqa: E402
 from knowledge.upc import entscheidungen as upc_entscheidungen  # noqa: E402
 from knowledge.patent import entscheidungen as pat_entscheidungen  # noqa: E402
 from knowledge.design import entscheidungen as des_entscheidungen  # noqa: E402
+from knowledge.patent import arbnerfg_entscheidungen as arb_entscheidungen  # noqa: E402
 
 TEMPLATE = ROOT / "src" / "templates" / "kurs.html"
 SW = ROOT / "src" / "templates" / "sw.js"  # Service Worker nur für Web Push (Erinnerung), wird unverändert nach docs/ kopiert
@@ -31,6 +32,7 @@ OUT = ROOT / "docs" / "index.html"
 EPG_DB = ROOT / "docs" / "upc_entscheidungen.json"  # Entscheidungskorpus des EPG, von IPelico nachgeladen (#/epg)
 PAT_DB = ROOT / "docs" / "patent_entscheidungen.json"  # Entscheidungskorpus BPatG/BGH, nachgeladen (#/bpatg)
 DES_DB = ROOT / "docs" / "design_entscheidungen.json"  # Entscheidungskorpus Designsachen BPatG/BGH, nachgeladen (#/bpatg/design)
+ARB_DB = ROOT / "docs" / "arbnerfg_entscheidungen.json"  # Schiedsstelle nach dem ArbEG und BGH, nachgeladen (#/bpatg/arbnerfg)
 DATA = ROOT / "data" / "kurse.json"
 
 # Icons, die das Template verwendet; fehlt eines im Sprite, bricht der Build ab.
@@ -187,6 +189,9 @@ def build():
     des = des_entscheidungen.kompakt()
     DES_DB.write_text(json.dumps(des, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     print(f"Design-Rechtsprechung: {des['meta']['anzahl']} Entscheidungen -> {DES_DB.relative_to(ROOT)} ({DES_DB.stat().st_size/1024:.0f} KB)")
+    arb = arb_entscheidungen.kompakt()
+    ARB_DB.write_text(json.dumps(arb, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    print(f"ArbnErfG-Rechtsprechung: {arb['meta']['anzahl']} Entscheidungen -> {ARB_DB.relative_to(ROOT)} ({ARB_DB.stat().st_size/1024:.0f} KB)")
     app_icons()
     n = sum(len(k["einheiten"]) for kurs in KURSE for k in kurs["kapitel"])
     print(f"IPelico: {len(KURSE)} Kurse, {n} Einheiten, Sprite {len(sp)/1024:.0f} KB -> "

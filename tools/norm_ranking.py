@@ -2,14 +2,14 @@
 # -*- coding: utf-8 -*-
 """Rangliste der Vorschriften nach Auslegungen in der Rechtsprechung: Grundlage für die Gliederung der Normkurse.
 
-Je Gesetz (PatG, GebrMG, DesignG, EPGÜ, VerfO) und je Paragraph/Absatz bzw. Artikel/Regel: Zahl der Entscheidungen, die die
+Je Gesetz (PatG, GebrMG, DesignG, EPGÜ, VerfO, ArbnErfG mit Vergütungsrichtlinien) und je Paragraph/Absatz bzw. Artikel/Regel: Zahl der Entscheidungen, die die
 Vorschrift auslegen (`ausgelegt`), die sie nennen (`genannt`), davon BGH bzw. EPG-Berufungsgericht, und die führenden
 Entscheidungen mit Leitsatz (BGH/Berufungsgericht zuerst, dann neueste). Kapitel und Unterkapitel eines Normkurses folgen den
 oberen Plätzen dieser Liste (PLAYBOOK Abschnitt 15).
 
 Quellen: Tabelle DeCourtNorm der RheinIP-Datenbank (Absatzebene, `interpreted`) mit BghDecision/BpatgDecision; ohne Datenbank
 (--no-db) die Paragraphenzählung aus data/patent_decisions.json und data/design_decisions.json. EPG: data/upc_decisions.json
-(Zitatzählung je Artikel/Regel, keine Absatzebene).
+(Zitatzählung je Artikel/Regel, keine Absatzebene). ArbnErfG: data/arbnerfg_decisions.json (Schiedsstelle, BGH; tools/fetch_arbnerfg.py).
 
 Aufruf:  python3 tools/norm_ranking.py [--no-db] [--top 40]     Ausgabe: data/norm_ranking.json
 """
@@ -109,15 +109,42 @@ def _upc(top):
     return out
 
 
+def _arb(top):
+    """ArbnErfG (je Paragraph und Absatz) und Vergütungsrichtlinien (je Nummer) aus data/arbnerfg_decisions.json (Schiedsstelle, BGH, BPatG);
+    ausgelegt = Vorschrift in Normenkette, Leitsatz oder Schlagworten (fetch_arbnerfg.py), bgh = davon BGH."""
+    d = json.loads((ROOT / "data" / "arbnerfg_decisions.json").read_text())["entscheidungen"]
+    out = {}
+    for key, law, kopf in (("arbnerfg", "ArbnErfG", "§"), ("vergrl", "Vergütungsrichtlinien", "RL Nr.")):
+        stats = collections.defaultdict(lambda: dict(ausgelegt=0, genannt=0, bgh=0, beispiele=[]))
+        for e in d:
+            for nr, z in e["zitate"].get(key, {}).items():
+                for k in [(nr, "")] + [(nr, a) for a in z.get("abs", {})]:
+                    s = stats[k]
+                    s["genannt"] += 1
+                    s["ausgelegt"] += bool(z["i"])
+                    s["bgh"] += e["gericht"] == "BGH"
+                    if z["i"] and e["leitsatz"]:
+                        s["beispiele"].append(dict(gericht=e["gericht"], az=e["az"], datum=e["datum"], name=e["name"] or e["schlagworte"][:80],
+                                                   leitsatz=e["leitsatz"][:400], url=e["url"]))
+        rows = []
+        for (nr, ab), s in stats.items():
+            bsp = sorted(s.pop("beispiele"), key=lambda b: (b["gericht"] != "BGH", b["datum"] or ""), reverse=False)
+            bsp = sorted(bsp, key=lambda b: (b["gericht"] != "BGH", -int((b["datum"] or "0")[:4])))
+            sub = (" Abs. " + ab if ab.isdigit() else " " + ab) if ab else ""
+            rows.append(dict(norm=f"{kopf} {nr}{sub}" + (f" {law}" if key == "arbnerfg" else ""), par=nr, absatz=ab, **s, beispiele=bsp[:N_BEISPIELE]))
+        out[law] = sorted(rows, key=lambda r: (-r["ausgelegt"], -r["genannt"]) if key == "arbnerfg" else -r["genannt"])[:top]
+    return out
+
+
 def main():
     top = int(sys.argv[sys.argv.index("--top") + 1]) if "--top" in sys.argv else 40
     de = _de_json(top) if "--no-db" in sys.argv else _de_db(top)
     data = dict(meta=dict(hinweis="ausgelegt = Entscheidungen, die die Vorschrift auslegen (DeCourtNorm.interpreted; EPG: mindestens dreimal zitiert); "
                                   "bgh = davon BGH bzw. EPG-Berufungsgericht", quelle="RheinIP-Datenbank" if "--no-db" not in sys.argv else "data/*_decisions.json"),
-                **de, **_upc(top))
+                **de, **_upc(top), **_arb(top))
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
-    for law in ("PatG", "GebrMG", "DesignG", "EPGÜ", "VerfO"):
-        print(f"{law:8} " + ", ".join(f"{r['norm'].rsplit(' ', 1)[0]} ({r['ausgelegt']})" for r in data.get(law, [])[:15]))
+    for law in ("PatG", "GebrMG", "DesignG", "EPGÜ", "VerfO", "ArbnErfG", "Vergütungsrichtlinien"):
+        print(f"{law:8} " + ", ".join(f"{r['norm'] if law.startswith('Verg') else r['norm'].rsplit(' ', 1)[0]} ({r['genannt' if law.startswith('Verg') else 'ausgelegt']})" for r in data.get(law, [])[:15]))
     print(f"-> {OUT.relative_to(ROOT)} ({OUT.stat().st_size // 1024} KB)")
 
 

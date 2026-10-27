@@ -404,3 +404,7 @@ CONCEPTS = [
       "Etablierte Rechtsprechung zur Prüfung fehlt nach den Prüfungsrichtlinien (Abschnitt 3.3). Folge der Übertragung: Das Modell oder der Algorithmus als mathematische Methode trägt die erfinderische Tätigkeit nur, soweit es zur Lösung eines konkreten technischen Problems mit technischen Mitteln beiträgt (§ 1 Abs. 3 Nr. 1, Nr. 3 PatG, § 4 PatG). Erfinder kann nur eine natürliche Person sein (§ 37 PatG).",
       norms=["§ 1 Abs. 3 PatG", "§ 1 Abs. 4 PatG", "§ 4 PatG", "§ 37 PatG"], cases=["pat_bgh_flugzeugzustand"], related=["pat_dreistufige_pruefung", "pat_programme", "pat_erfinderbenennung"]),
 ]
+
+# Arbeitnehmererfinderrecht (ArbnErfG, Vergütungsrichtlinien)
+from .concepts_arb import CONCEPTS as _ARB  # noqa: E402
+CONCEPTS += _ARB

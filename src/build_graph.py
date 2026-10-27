@@ -161,6 +161,7 @@ def build(write=True, unknown=None):
     zitiert = upc.entscheidungen.zitierungen()
     zitiert_pat = patent.entscheidungen.zitierungen()
     zitiert_des = design.entscheidungen.zitierungen()
+    zitiert_arb = patent.arbnerfg_entscheidungen.zitierungen()
     for rl in RICHTLINIEN:
         zitat = rl.get("zitat", "Art.")
         common = dict(type="eunorm", rl=rl["key"], kurz=rl["kurz"], gesetz=rl["gesetz"], url=rl["url"], url_pdf=rl["url_pdf"], paraphrase=rl["paraphrase"], zitat=zitat)
@@ -171,7 +172,7 @@ def build(write=True, unknown=None):
             node = dict(id=nid, label=a.get("label") or f"{zitat} {a['nr']} {rl['kurz']}", titel=a["titel"],
                         nummer=a["nr"], kapitel=a["kapitel"], abschnitt=a["abschnitt"], absaetze=a["absaetze"], hinweis=a["hinweis"],
                         umsetzung_weitere=a.get("umsetzung_weitere", {}), **common)
-            for extra in ("titel_en", "url_en", "order"):  # englischer Wortlaut nur per Link (url_en), sonst verdoppelt sich die App-Größe
+            for extra in ("titel_en", "url_en", "order", "kommentar"):  # englischer Wortlaut nur per Link (url_en), sonst verdoppelt sich die App-Größe
                 if a.get(extra):
                     node[extra] = a[extra]
             if a.get("url"):
@@ -182,6 +183,8 @@ def build(write=True, unknown=None):
                 node["zitiert"] = zitiert_pat.get(nid, 0)
             if rl.get("korpus") == "design":
                 node["zitiert"] = zitiert_des.get(nid, 0)
+            if rl.get("korpus") == "arbnerfg":
+                node["zitiert"] = zitiert_arb.get(nid, 0)
             add_node(node)
         if rl["erwaegungsgruende"]:
             add_node(dict(id=f"eunorm:{rl['key']}:erwaegungsgruende", label=("Präambel " if zitat == "R." else "Erwägungsgründe ") + rl["kurz"],
@@ -254,6 +257,9 @@ def build(write=True, unknown=None):
 
     # Prüfungsrichtlinien des DPMA (Richtlinien für die Prüfung von Patentanmeldungen) als Quellen der Patent-Begriffe
     for w in patent.richtlinien.QUELLEN:
+        add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"], url=w["url"], provider=w["provider"]))
+    # Vergütungsrichtlinien 1959 (Nr. 1 bis 43) als Quellen der ArbnErfG-Begriffe
+    for w in patent.arbnerfg.QUELLEN:
         add_node(dict(id=f"source:{w['page']}", type="source", label=w["title"], summary=w["summary"], url=w["url"], provider=w["provider"]))
 
     # --- Entscheidungen ---

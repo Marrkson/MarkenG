@@ -34,7 +34,7 @@ from knowledge.klausur import DATA as KLAUSUR  # noqa: E402
 
 CACHE = Path.home() / ".cache" / "ipelico" / "gesetze"
 LOCAL = {"MarkenG": "markeng", "PatG": "patg", "PatV": "patv", "IntPatÜG": "intpatueg", "IntPatÜbkG": "intpatueg",
-         "PatKostG": "patkostg", "DesignG": "designg", "DesignV": "designv"}
+         "PatKostG": "patkostg", "DesignG": "designg", "DesignV": "designv", "ArbnErfG": "arbnerfg"}
 PAKET_LAW = {"marken": DEFAULT_LAW, "patent": None, "design": None, "upc": None}
 SKIP_KEYS = {"url", "url_pdf", "url_en", "id", "icon", "farbe", "concepts", "cases", "distinctions", "norms", "related",
              "ipwiki", "quellen", "tags", "az", "date", "court", "fundstelle", "rl", "korpus", "type", "schema", "step",

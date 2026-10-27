@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht und Einheitliches Patentgericht
 
-2610 Karten, generiert aus graph/markenrecht_graph.json.
+2679 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -7837,6 +7837,514 @@ KI-bezogene Erfindungen schaffen entweder die Grundlagen für den Einsatz Künst
 **A:** Erfindungen mit Bezug zu Künstlicher Intelligenz
 
 *Tags: Begriff, Umkehr, Patent: Patentfähigkeit*
+
+---
+
+## definition
+
+**F:** Definiere: Diensterfindung ([§ 4 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html))
+
+**A:** Diensterfindungen sind während der Dauer des Arbeitsverhältnisses gemachte Erfindungen, die entweder aus der dem Arbeitnehmer im Betrieb obliegenden Tätigkeit entstanden sind (Auftragserfindung) oder maßgeblich auf Erfahrungen oder Arbeiten des Betriebs beruhen (Erfahrungserfindung), [§ 4 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html).
+
+Normen: [§ 4 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html), [§ 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__2.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Diensterfindungen sind während der Dauer des Arbeitsverhältnisses gemachte Erfindungen, die entweder aus der dem Arbeitnehmer im Betrieb obliegenden Tätigkeit entstanden sind (Auftragserfindung) oder maßgeblich auf Erfahrungen oder Arbeiten des Betriebs beruhen (Erfahrungserfindung), [§ 4 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html).
+
+**A:** Diensterfindung ([§ 4 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Freie Erfindung (§§ [4](https://www.gesetze-im-internet.de/arbnerfg/__4.html), [18](https://www.gesetze-im-internet.de/arbnerfg/__18.html), [19](https://www.gesetze-im-internet.de/arbnerfg/__19.html) ArbnErfG)
+
+**A:** Freie Erfindungen sind alle Erfindungen eines Arbeitnehmers, die keine Diensterfindungen sind ([§ 4 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html)), sowie frei gewordene Diensterfindungen ([§ 8 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html)). Der Arbeitnehmer muss sie dem Arbeitgeber mitteilen ([§ 18 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__18.html)) und vor anderweitiger Verwertung ein nichtausschließliches Benutzungsrecht anbieten, wenn sie in den Arbeitsbereich des Betriebs fällt ([§ 19 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__19.html)).
+
+Normen: [§ 4 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html), [§ 18 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__18.html), [§ 19 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__19.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Freie Erfindungen sind alle Erfindungen eines Arbeitnehmers, die keine Diensterfindungen sind ([§ 4 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html)), sowie frei gewordene Diensterfindungen ([§ 8 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html)). Der Arbeitnehmer muss sie dem Arbeitgeber mitteilen ([§ 18 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__18.html)) und vor anderweitiger Verwertung ein nichtausschließliches Benutzungsrecht anbieten, wenn sie in den Arbeitsbereich des Betriebs fällt ([§ 19 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__19.html)).
+
+**A:** Freie Erfindung (§§ [4](https://www.gesetze-im-internet.de/arbnerfg/__4.html), [18](https://www.gesetze-im-internet.de/arbnerfg/__18.html), [19](https://www.gesetze-im-internet.de/arbnerfg/__19.html) ArbnErfG)
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Technischer Verbesserungsvorschlag (§§ [3](https://www.gesetze-im-internet.de/arbnerfg/__3.html), [20](https://www.gesetze-im-internet.de/arbnerfg/__20.html) ArbnErfG)
+
+**A:** Technische Verbesserungsvorschläge sind Vorschläge für technische Neuerungen, die nicht patent- oder gebrauchsmusterfähig sind ([§ 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__3.html)). Gewähren sie dem Arbeitgeber eine ähnliche Vorzugsstellung wie ein gewerbliches Schutzrecht (qualifizierter Verbesserungsvorschlag), hat der Arbeitnehmer einen Anspruch auf angemessene Vergütung, sobald der Arbeitgeber sie verwertet ([§ 20 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__20.html)).
+
+Normen: [§ 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__3.html), [§ 20 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__20.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Technische Verbesserungsvorschläge sind Vorschläge für technische Neuerungen, die nicht patent- oder gebrauchsmusterfähig sind ([§ 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__3.html)). Gewähren sie dem Arbeitgeber eine ähnliche Vorzugsstellung wie ein gewerbliches Schutzrecht (qualifizierter Verbesserungsvorschlag), hat der Arbeitnehmer einen Anspruch auf angemessene Vergütung, sobald der Arbeitgeber sie verwertet ([§ 20 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__20.html)).
+
+**A:** Technischer Verbesserungsvorschlag (§§ [3](https://www.gesetze-im-internet.de/arbnerfg/__3.html), [20](https://www.gesetze-im-internet.de/arbnerfg/__20.html) ArbnErfG)
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Erfindungsmeldung ([§ 5 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__5.html))
+
+**A:** Der Arbeitnehmer muss eine Diensterfindung unverzüglich gesondert in Textform melden und dabei kenntlich machen, dass es sich um die Meldung einer Erfindung handelt ([§ 5 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__5.html)). Die Meldung beschreibt Aufgabe, Lösung und Zustandekommen und nennt Mitarbeiter und deren Anteil ([§ 5 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__5.html)).
+
+Normen: [§ 5 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__5.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Arbeitnehmer muss eine Diensterfindung unverzüglich gesondert in Textform melden und dabei kenntlich machen, dass es sich um die Meldung einer Erfindung handelt ([§ 5 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__5.html)). Die Meldung beschreibt Aufgabe, Lösung und Zustandekommen und nennt Mitarbeiter und deren Anteil ([§ 5 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__5.html)).
+
+**A:** Erfindungsmeldung ([§ 5 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__5.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Inanspruchnahme der Diensterfindung (§§ [6](https://www.gesetze-im-internet.de/arbnerfg/__6.html), [7](https://www.gesetze-im-internet.de/arbnerfg/__7.html) ArbnErfG)
+
+**A:** Der Arbeitgeber kann eine Diensterfindung durch Erklärung gegenüber dem Arbeitnehmer in Anspruch nehmen ([§ 6 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__6.html)); seit dem 1.10.2009 gilt sie als in Anspruch genommen, wenn er sie nicht binnen vier Monaten nach Eingang der ordnungsgemäßen Meldung in Textform freigibt ([§ 6 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__6.html)). Mit der Inanspruchnahme gehen alle vermögenswerten Rechte auf den Arbeitgeber über ([§ 7 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__7.html)).
+
+Normen: [§ 6 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__6.html), [§ 7 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__7.html), [§ 43 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__43.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Arbeitgeber kann eine Diensterfindung durch Erklärung gegenüber dem Arbeitnehmer in Anspruch nehmen ([§ 6 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__6.html)); seit dem 1.10.2009 gilt sie als in Anspruch genommen, wenn er sie nicht binnen vier Monaten nach Eingang der ordnungsgemäßen Meldung in Textform freigibt ([§ 6 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__6.html)). Mit der Inanspruchnahme gehen alle vermögenswerten Rechte auf den Arbeitgeber über ([§ 7 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__7.html)).
+
+**A:** Inanspruchnahme der Diensterfindung (§§ [6](https://www.gesetze-im-internet.de/arbnerfg/__6.html), [7](https://www.gesetze-im-internet.de/arbnerfg/__7.html) ArbnErfG)
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Freigabe ([§ 8 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html))
+
+**A:** Gibt der Arbeitgeber eine Diensterfindung durch Erklärung in Textform frei, wird sie frei ([§ 8 S. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html)); der Arbeitnehmer kann über sie ohne die Beschränkungen der §§ [18](https://www.gesetze-im-internet.de/arbnerfg/__18.html), [19](https://www.gesetze-im-internet.de/arbnerfg/__19.html) ArbnErfG verfügen ([§ 8 S. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html)).
+
+Normen: [§ 8 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Gibt der Arbeitgeber eine Diensterfindung durch Erklärung in Textform frei, wird sie frei ([§ 8 S. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html)); der Arbeitnehmer kann über sie ohne die Beschränkungen der §§ [18](https://www.gesetze-im-internet.de/arbnerfg/__18.html), [19](https://www.gesetze-im-internet.de/arbnerfg/__19.html) ArbnErfG verfügen ([§ 8 S. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html)).
+
+**A:** Freigabe ([§ 8 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Vergütungsanspruch ([§ 9 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html))
+
+**A:** Der Arbeitnehmer hat gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald dieser die Diensterfindung in Anspruch genommen hat ([§ 9 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)). Maßgebend sind die wirtschaftliche Verwertbarkeit, Aufgaben und Stellung des Arbeitnehmers im Betrieb und der Anteil des Betriebs am Zustandekommen ([§ 9 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)).
+
+Normen: [§ 9 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html), [§ 11 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__11.html)
+
+Rechtsprechung: Schiedsstelle Hochschulklinikum (Arb.Erf. 12/23)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Arbeitnehmer hat gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald dieser die Diensterfindung in Anspruch genommen hat ([§ 9 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)). Maßgebend sind die wirtschaftliche Verwertbarkeit, Aufgaben und Stellung des Arbeitnehmers im Betrieb und der Anteil des Betriebs am Zustandekommen ([§ 9 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)).
+
+**A:** Vergütungsanspruch ([§ 9 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Erfindungswert
+
+**A:** Der Erfindungswert ist der Preis, den der Arbeitgeber einem freien Erfinder für die Erfindung zahlen würde (wirtschaftliche Verwertbarkeit, [§ 9 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)). Er wird nach der Lizenzanalogie, dem erfassbaren betrieblichen Nutzen oder durch Schätzung ermittelt (RL Nr. 3).
+
+Normen: [§ 9 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Erfindungswert ist der Preis, den der Arbeitgeber einem freien Erfinder für die Erfindung zahlen würde (wirtschaftliche Verwertbarkeit, [§ 9 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)). Er wird nach der Lizenzanalogie, dem erfassbaren betrieblichen Nutzen oder durch Schätzung ermittelt (RL Nr. 3).
+
+**A:** Erfindungswert
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Lizenzanalogie (RL Nr. 6 bis 11)
+
+**A:** Bei der Lizenzanalogie ist der Erfindungswert die Bezugsgröße (meist der Umsatz mit erfindungsgemäßen Produkten) multipliziert mit dem Lizenzsatz, den vernünftige Vertragspartner für eine vergleichbare freie Erfindung vereinbart hätten (RL Nr. 6, 7; Formel E = B × L, RL Nr. 39).
+
+Normen: [§ 9 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html), [§ 11 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__11.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Bei der Lizenzanalogie ist der Erfindungswert die Bezugsgröße (meist der Umsatz mit erfindungsgemäßen Produkten) multipliziert mit dem Lizenzsatz, den vernünftige Vertragspartner für eine vergleichbare freie Erfindung vereinbart hätten (RL Nr. 6, 7; Formel E = B × L, RL Nr. 39).
+
+**A:** Lizenzanalogie (RL Nr. 6 bis 11)
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Anteilsfaktor (RL Nr. 30 bis 38)
+
+**A:** Der Anteilsfaktor ist der Prozentsatz des Erfindungswerts, der dem Arbeitnehmer verbleibt, weil er keine freie Erfindung gemacht hat. Er ergibt sich aus der Summe der Wertzahlen für die Stellung der Aufgabe (a, RL Nr. 31), die Lösung der Aufgabe (b, RL Nr. 32) und die Aufgaben und Stellung im Betrieb (c, RL Nr. 33 bis 36) nach der Tabelle in RL Nr. 37.
+
+Normen: [§ 9 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Anteilsfaktor ist der Prozentsatz des Erfindungswerts, der dem Arbeitnehmer verbleibt, weil er keine freie Erfindung gemacht hat. Er ergibt sich aus der Summe der Wertzahlen für die Stellung der Aufgabe (a, RL Nr. 31), die Lösung der Aufgabe (b, RL Nr. 32) und die Aufgaben und Stellung im Betrieb (c, RL Nr. 33 bis 36) nach der Tabelle in RL Nr. 37.
+
+**A:** Anteilsfaktor (RL Nr. 30 bis 38)
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Feststellung und Festsetzung der Vergütung ([§ 12 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html))
+
+**A:** Art und Höhe der Vergütung sollen in angemessener Frist nach der Inanspruchnahme durch Vereinbarung festgestellt werden ([§ 12 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)). Kommt keine Vereinbarung zustande, muss der Arbeitgeber die Vergütung durch begründete Erklärung in Textform festsetzen und entsprechend zahlen, spätestens drei Monate nach Erteilung des Schutzrechts ([§ 12 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)).
+
+Normen: [§ 12 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Art und Höhe der Vergütung sollen in angemessener Frist nach der Inanspruchnahme durch Vereinbarung festgestellt werden ([§ 12 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)). Kommt keine Vereinbarung zustande, muss der Arbeitgeber die Vergütung durch begründete Erklärung in Textform festsetzen und entsprechend zahlen, spätestens drei Monate nach Erteilung des Schutzrechts ([§ 12 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)).
+
+**A:** Feststellung und Festsetzung der Vergütung ([§ 12 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Anpassung der Vergütung ([§ 12 Abs. 6 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html))
+
+**A:** Arbeitgeber und Arbeitnehmer können voneinander die Einwilligung in eine andere Regelung der Vergütung verlangen, wenn sich Umstände wesentlich ändern, die für die Feststellung oder Festsetzung maßgebend waren ([§ 12 Abs. 6 S. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)). Eine bereits geleistete Vergütung kann nicht zurückgefordert werden ([§ 12 Abs. 6 S. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)).
+
+Normen: [§ 12 Abs. 6 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Arbeitgeber und Arbeitnehmer können voneinander die Einwilligung in eine andere Regelung der Vergütung verlangen, wenn sich Umstände wesentlich ändern, die für die Feststellung oder Festsetzung maßgebend waren ([§ 12 Abs. 6 S. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)). Eine bereits geleistete Vergütung kann nicht zurückgefordert werden ([§ 12 Abs. 6 S. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)).
+
+**A:** Anpassung der Vergütung ([§ 12 Abs. 6 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Unbilligkeit ([§ 23 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html))
+
+**A:** Vereinbarungen über Diensterfindungen, freie Erfindungen oder Verbesserungsvorschläge, die nach dem Gesetz zulässig sind, sind unwirksam, soweit sie in erheblichem Maße unbillig sind; dasselbe gilt für die Festsetzung der Vergütung ([§ 23 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html)). Die Unbilligkeit muss spätestens bis zum Ablauf von sechs Monaten nach Beendigung des Arbeitsverhältnisses in Textform geltend gemacht werden ([§ 23 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html)).
+
+Normen: [§ 23 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html), [§ 22 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__22.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Vereinbarungen über Diensterfindungen, freie Erfindungen oder Verbesserungsvorschläge, die nach dem Gesetz zulässig sind, sind unwirksam, soweit sie in erheblichem Maße unbillig sind; dasselbe gilt für die Festsetzung der Vergütung ([§ 23 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html)). Die Unbilligkeit muss spätestens bis zum Ablauf von sechs Monaten nach Beendigung des Arbeitsverhältnisses in Textform geltend gemacht werden ([§ 23 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html)).
+
+**A:** Unbilligkeit ([§ 23 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Anmeldepflicht des Arbeitgebers (§§ [13](https://www.gesetze-im-internet.de/arbnerfg/__13.html), [14](https://www.gesetze-im-internet.de/arbnerfg/__14.html) ArbnErfG)
+
+**A:** Der Arbeitgeber ist verpflichtet und allein berechtigt, eine gemeldete Diensterfindung im Inland zur Erteilung eines Schutzrechts anzumelden, und zwar unverzüglich ([§ 13 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__13.html)). Nach der Inanspruchnahme ist er berechtigt, sie auch im Ausland anzumelden ([§ 14 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__14.html)); für Staaten, in denen er nicht anmelden will, muss er sie freigeben ([§ 14 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__14.html)).
+
+Normen: [§ 13 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__13.html), [§ 14 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__14.html), [§ 17 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__17.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Der Arbeitgeber ist verpflichtet und allein berechtigt, eine gemeldete Diensterfindung im Inland zur Erteilung eines Schutzrechts anzumelden, und zwar unverzüglich ([§ 13 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__13.html)). Nach der Inanspruchnahme ist er berechtigt, sie auch im Ausland anzumelden ([§ 14 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__14.html)); für Staaten, in denen er nicht anmelden will, muss er sie freigeben ([§ 14 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__14.html)).
+
+**A:** Anmeldepflicht des Arbeitgebers (§§ [13](https://www.gesetze-im-internet.de/arbnerfg/__13.html), [14](https://www.gesetze-im-internet.de/arbnerfg/__14.html) ArbnErfG)
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Aufgabe von Anmeldung oder Schutzrecht ([§ 16 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__16.html))
+
+**A:** Will der Arbeitgeber vor Erfüllung des Vergütungsanspruchs die Anmeldung nicht weiterverfolgen oder das Schutzrecht nicht aufrechterhalten, muss er dies dem Arbeitnehmer mitteilen und ihm auf Verlangen und auf dessen Kosten das Recht übertragen ([§ 16 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__16.html)). Verlangt der Arbeitnehmer nicht binnen drei Monaten die Übertragung, darf der Arbeitgeber das Recht aufgeben ([§ 16 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__16.html)).
+
+Normen: [§ 16 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__16.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Will der Arbeitgeber vor Erfüllung des Vergütungsanspruchs die Anmeldung nicht weiterverfolgen oder das Schutzrecht nicht aufrechterhalten, muss er dies dem Arbeitnehmer mitteilen und ihm auf Verlangen und auf dessen Kosten das Recht übertragen ([§ 16 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__16.html)). Verlangt der Arbeitnehmer nicht binnen drei Monaten die Übertragung, darf der Arbeitgeber das Recht aufgeben ([§ 16 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__16.html)).
+
+**A:** Aufgabe von Anmeldung oder Schutzrecht ([§ 16 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__16.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Schiedsstelle nach dem ArbnErfG (§§ [28](https://www.gesetze-im-internet.de/arbnerfg/__28.html) bis [36](https://www.gesetze-im-internet.de/arbnerfg/__36.html) ArbnErfG)
+
+**A:** Die Schiedsstelle beim DPMA kann in allen Streitfällen zwischen Arbeitgeber und Arbeitnehmer auf Grund des ArbnErfG angerufen werden; sie hat zu versuchen, eine gütliche Einigung herbeizuführen ([§ 28 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__28.html)). Sie macht einen Einigungsvorschlag, der verbindlich wird, wenn nicht binnen eines Monats schriftlich widersprochen wird ([§ 34 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__34.html)).
+
+Normen: [§ 28 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__28.html), [§ 34 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__34.html), [§ 37 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__37.html), [§ 39 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__39.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Die Schiedsstelle beim DPMA kann in allen Streitfällen zwischen Arbeitgeber und Arbeitnehmer auf Grund des ArbnErfG angerufen werden; sie hat zu versuchen, eine gütliche Einigung herbeizuführen ([§ 28 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__28.html)). Sie macht einen Einigungsvorschlag, der verbindlich wird, wenn nicht binnen eines Monats schriftlich widersprochen wird ([§ 34 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__34.html)).
+
+**A:** Schiedsstelle nach dem ArbnErfG (§§ [28](https://www.gesetze-im-internet.de/arbnerfg/__28.html) bis [36](https://www.gesetze-im-internet.de/arbnerfg/__36.html) ArbnErfG)
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Hochschulerfindung ([§ 42 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html))
+
+**A:** Für Erfindungen der an einer Hochschule Beschäftigten gelten Sonderregeln: Publikationsfreiheit nach rechtzeitiger Anzeige ([§ 42 Nr. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)), keine Meldepflicht bei Ablehnung der Offenbarung ([§ 42 Nr. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)), Benutzungsrecht für Lehre und Forschung ([§ 42 Nr. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)) und eine Vergütung von 30 % der durch die Verwertung erzielten Einnahmen ([§ 42 Nr. 4 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)).
+
+Normen: [§ 42 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)
+
+Rechtsprechung: Schiedsstelle Hochschulklinikum (Arb.Erf. 12/23)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Für Erfindungen der an einer Hochschule Beschäftigten gelten Sonderregeln: Publikationsfreiheit nach rechtzeitiger Anzeige ([§ 42 Nr. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)), keine Meldepflicht bei Ablehnung der Offenbarung ([§ 42 Nr. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)), Benutzungsrecht für Lehre und Forschung ([§ 42 Nr. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)) und eine Vergütung von 30 % der durch die Verwertung erzielten Einnahmen ([§ 42 Nr. 4 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html)).
+
+**A:** Hochschulerfindung ([§ 42 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Übergangsrecht: Erfindungen vor dem 1.10.2009 ([§ 43 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__43.html))
+
+**A:** Auf Erfindungen, die vor dem 1.10.2009 gemeldet wurden, sind die Vorschriften des ArbnErfG in der bis dahin geltenden Fassung anzuwenden ([§ 43 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__43.html)). Maßgeblich ist der Zeitpunkt der Meldung, nicht der Fertigstellung.
+
+Normen: [§ 43 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__43.html), [§ 6 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__6.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Auf Erfindungen, die vor dem 1.10.2009 gemeldet wurden, sind die Vorschriften des ArbnErfG in der bis dahin geltenden Fassung anzuwenden ([§ 43 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__43.html)). Maßgeblich ist der Zeitpunkt der Meldung, nicht der Fertigstellung.
+
+**A:** Übergangsrecht: Erfindungen vor dem 1.10.2009 ([§ 43 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__43.html))
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Auskunft und Rechnungslegung
+
+**A:** Zur Berechnung der Vergütung kann der Arbeitnehmererfinder vom Arbeitgeber Auskunft und Rechnungslegung nach [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) verlangen, soweit er die Angaben benötigt und der Arbeitgeber sie ohne unzumutbaren Aufwand geben kann.
+
+Normen: [§ 9 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html), [§ 12 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Zur Berechnung der Vergütung kann der Arbeitnehmererfinder vom Arbeitgeber Auskunft und Rechnungslegung nach [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) verlangen, soweit er die Angaben benötigt und der Arbeitgeber sie ohne unzumutbaren Aufwand geben kann.
+
+**A:** Auskunft und Rechnungslegung
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Miterfinder und Miterfinderanteil
+
+**A:** Haben mehrere Arbeitnehmer an einer Diensterfindung mitgewirkt, ist die Vergütung für jeden gesondert festzustellen; der Arbeitgeber muss allen die Gesamthöhe und die Anteile bekanntgeben ([§ 12 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)). Miterfinder ist, wer einen schöpferischen Beitrag zur Lösung geleistet hat; der Anteil bemisst sich nach dem Gewicht der Beiträge.
+
+Normen: [§ 12 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html), [§ 12 Abs. 5 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Haben mehrere Arbeitnehmer an einer Diensterfindung mitgewirkt, ist die Vergütung für jeden gesondert festzustellen; der Arbeitgeber muss allen die Gesamthöhe und die Anteile bekanntgeben ([§ 12 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html)). Miterfinder ist, wer einen schöpferischen Beitrag zur Lösung geleistet hat; der Anteil bemisst sich nach dem Gewicht der Beiträge.
+
+**A:** Miterfinder und Miterfinderanteil
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## definition
+
+**F:** Definiere: Vorrats-, Sperr- und nicht verwertete Patente (RL Nr. 18 bis 24)
+
+**A:** Auch nicht benutzte Diensterfindungen können einen Erfindungswert haben: Sperrpatente, die Wettbewerber von einer Nachahmung abhalten (RL Nr. 18), und Vorrats- oder Ausbaupatente, deren spätere Verwertung zu erwarten ist (RL Nr. 21). Wirtschaftlich nicht verwertbare Erfindungen haben keinen Erfindungswert (RL Nr. 22).
+
+Normen: [§ 9 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)
+
+*Tags: Begriff, Patent: Arbeitnehmererfindungen (ArbnErfG)*
+
+---
+
+## begriff
+
+**F:** Welcher Begriff wird so definiert?
+
+Auch nicht benutzte Diensterfindungen können einen Erfindungswert haben: Sperrpatente, die Wettbewerber von einer Nachahmung abhalten (RL Nr. 18), und Vorrats- oder Ausbaupatente, deren spätere Verwertung zu erwarten ist (RL Nr. 21). Wirtschaftlich nicht verwertbare Erfindungen haben keinen Erfindungswert (RL Nr. 22).
+
+**A:** Vorrats-, Sperr- und nicht verwertete Patente (RL Nr. 18 bis 24)
+
+*Tags: Begriff, Umkehr, Patent: Arbeitnehmererfindungen (ArbnErfG)*
 
 ---
 
@@ -22655,6 +23163,31 @@ Fundstelle: BGH, Urteil vom 03.11.2020 – X ZR 85/19
 
 ## entscheidung
 
+**F:** Schiedsstelle „Hochschulklinikum“ (Arb.Erf. 12/23, 2026) – Kernaussage?
+
+**A:** Ein Universitätsklinikum ist Hochschule im Sinne des [§ 42 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html); Beschäftigte ist das gesamte Personal. Die Vergütung richtet sich ausschließlich nach [§ 42 Nr. 4 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html) (30 % der Einnahmen); dazu zählen alle geldwerten Vorteile aus der Verwertung, auch ein erfasster betrieblicher Nutzen, ohne Kürzung durch einen Umrechnungsfaktor.
+
+Normen: [§ 42 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html), [§ 9 Abs. 1 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html)
+Fundstelle: Schiedsstelle, TeilEinigungsvorschlag vom 16.06.2026 – Arb.Erf. 12/23
+
+*Tags: Rechtsprechung, Schiedsstelle, Hochschule, Vergütung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (Schiedsstelle) steht für folgenden Grundsatz?
+
+Ein Universitätsklinikum ist Hochschule im Sinne des [§ 42 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html); Beschäftigte ist das gesamte Personal. Die Vergütung richtet sich ausschließlich nach [§ 42 Nr. 4 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html) (30 % der Einnahmen); dazu zählen alle geldwerten Vorteile aus der Verwertung, auch ein erfasster betrieblicher Nutzen, ohne Kürzung durch einen Umrechnungsfaktor.
+
+**A:** Schiedsstelle „Hochschulklinikum“ – Arb.Erf. 12/23 (2026), Schiedsstelle, TeilEinigungsvorschlag vom 16.06.2026 – Arb.Erf. 12/23
+
+*Tags: Rechtsprechung, Umkehr, Schiedsstelle, Hochschule, Vergütung*
+
+---
+
+## entscheidung
+
 **F:** EuGH „PepsiCo/Grupo Promer (Tazos)“ (C-281/10 P, 2011) – Kernaussage?
 
 **A:** Der informierte Benutzer steht zwischen dem Durchschnittsverbraucher und dem Fachmann: Er kennt verschiedene Muster des Sektors, weiß, welche Elemente sie üblicherweise aufweisen, und benutzt die Erzeugnisse mit vergleichsweise großer Aufmerksamkeit. Der Gesamteindruck ist nach Möglichkeit durch direkten Vergleich der Muster zu ermitteln; ein Vergleich aus der Erinnerung ist nur zulässig, wo der direkte Vergleich nicht praktikabel ist. Eine geringe Gestaltungsfreiheit führt dazu, dass schon kleine Unterschiede einen anderen Gesamteindruck erzeugen.
@@ -31839,6 +32372,338 @@ Bezug: [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html), [§ 
 Hinweis: Gebührenverzeichnis (Stand nach dem Gesetz vom 11.1.2026): Anmeldung elektronisch 40 EUR (Nr. 311 000, Papier 1,5-fach), Recherche 300 EUR (311 200), Prüfung 350 EUR bzw. 150 EUR nach Recherche (311 400, 311 300), Jahresgebühren 3. Jahr 70 EUR bis 20. Jahr 2 030 EUR (312 030 ff., halbiert bei Lizenzbereitschaft, Zuschlag 50 EUR), Weiterbehandlung 100 EUR (313 000), Einspruch 200 EUR (313 600), Beschwerde 500 EUR (401 100) bzw. 200 EUR in anderen Fällen (401 300), Nichtigkeitsklage 4,5 Wertgebühren (402 100). Gebrauchsmuster: Anmeldung 30 EUR, Löschung 300 EUR. Beträge in Klausuren immer am Verzeichnis prüfen; maßgeblich ist der bei Fälligkeit geltende Satz ([§ 13](https://www.gesetze-im-internet.de/patkostg/__13.html)).
 
 *Tags: Patentrecht, PatKostG*
+
+---
+
+**F:** Was regelt [§ 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__2.html) (Erfindungen)?
+
+**A:** Erfindungen
+
+Erfindungen im Sinne dieses Gesetzes sind nur Erfindungen, die patent- oder gebrauchsmusterfähig sind.
+
+In 106 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__3.html) (Technische Verbesserungsvorschläge)?
+
+**A:** Technische Verbesserungsvorschläge
+
+Technische Verbesserungsvorschläge im Sinne dieses Gesetzes sind Vorschläge für sonstige technische Neuerungen, die nicht patent- oder gebrauchsmusterfähig sind.
+
+In 13 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 4 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__4.html) (Diensterfindungen und freie Erfindungen)?
+
+**A:** Diensterfindungen und freie Erfindungen
+
+Erfindungen von Arbeitnehmern im Sinne dieses Gesetzes können gebundene oder freie Erfindungen sein.
+
+Hinweis: Diensterfindung = gebundene Erfindung (Abs. 2): aus der Tätigkeit im Betrieb entstanden (Nr. 1) oder maßgeblich auf Erfahrungen oder Arbeiten des Betriebs beruhend (Nr. 2), jeweils während der Dauer des Arbeitsverhältnisses. Alles andere ist freie Erfindung (Abs. 3) mit Mitteilungs- und Anbietungspflicht (§§ [18](https://www.gesetze-im-internet.de/arbnerfg/__18.html), [19](https://www.gesetze-im-internet.de/arbnerfg/__19.html) ArbnErfG).
+
+In 41 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 5 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__5.html) (Meldepflicht)?
+
+**A:** Meldepflicht
+
+Der Arbeitnehmer, der eine Diensterfindung gemacht hat, ist verpflichtet, sie unverzüglich dem Arbeitgeber gesondert in Textform zu melden und hierbei kenntlich zu machen, daß es sich um die Meldung einer Erfindung handelt. Sind mehrere Arbeitnehmer an dem Zustandekommen der Erfindung beteiligt, so können sie die Meldung gemeinsam abgeben. Der Arbeitgeber hat den Zeitpunkt des Eingangs der Meldung dem Arbeitnehmer unverzüglich in Textform zu bestätigen.
+
+Hinweis: Meldung gesondert, in Textform, als Erfindungsmeldung kenntlich, unverzüglich (Abs. 1). Mängel muss der Arbeitgeber binnen zwei Monaten beanstanden, sonst gilt die Meldung als ordnungsgemäß (Abs. 3); erst die ordnungsgemäße Meldung setzt die Frist des [§ 6 Abs. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__6.html) in Gang.
+
+In 138 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 6 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__6.html) (Inanspruchnahme)?
+
+**A:** Inanspruchnahme
+
+Der Arbeitgeber kann eine Diensterfindung durch Erklärung gegenüber dem Arbeitnehmer in Anspruch nehmen.
+
+Hinweis: Seit 1.10.2009 Inanspruchnahmefiktion: Gibt der Arbeitgeber die Diensterfindung nicht binnen vier Monaten nach Eingang der ordnungsgemäßen Meldung in Textform frei, gilt sie als in Anspruch genommen (Abs. 2). Für vorher gemeldete Erfindungen gilt altes Recht ([§ 43 Abs. 3 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__43.html)): schriftliche, fristgebundene Inanspruchnahmeerklärung, beschränkte oder unbeschränkte Inanspruchnahme.
+
+In 175 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 7 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__7.html) (Wirkung der Inanspruchnahme)?
+
+**A:** Wirkung der Inanspruchnahme
+
+Mit der Inanspruchnahme gehen alle vermögenswerten Rechte an der Diensterfindung auf den Arbeitgeber über.
+
+In 179 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 8 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__8.html) (Frei gewordene Diensterfindungen)?
+
+**A:** Frei gewordene Diensterfindungen
+
+Eine Diensterfindung wird frei, wenn der Arbeitgeber sie durch Erklärung in Textform freigibt. Über eine frei gewordene Diensterfindung kann der Arbeitnehmer ohne die Beschränkungen der §§ [18](https://www.gesetze-im-internet.de/arbnerfg/__18.html) und [19](https://www.gesetze-im-internet.de/arbnerfg/__19.html) verfügen.
+
+In 38 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 9 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__9.html) (Vergütung bei Inanspruchnahme)?
+
+**A:** Vergütung bei Inanspruchnahme
+
+Der Arbeitnehmer hat gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald der Arbeitgeber die Diensterfindung in Anspruch genommen hat.
+
+Hinweis: Anspruchsgrundlage der Erfindervergütung. Vergütung = Erfindungswert × Anteilsfaktor (RL Nr. 39); Erfindungswert meist nach der Lizenzanalogie (RL Nr. 6 ff.), Anteilsfaktor aus Stellung der Aufgabe, Lösung und Stellung im Betrieb (RL Nr. 30 ff.). Auskunft und Rechnungslegung aus [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html).
+
+In 356 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 11 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__11.html) (Vergütungsrichtlinien)?
+
+**A:** Vergütungsrichtlinien
+
+Das Bundesministerium für Arbeit und Soziales erläßt nach Anhörung der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer (§ 12 des Tarifvertragsgesetzes) Richtlinien über die Bemessung der Vergütung.
+
+In 85 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 12 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__12.html) (Feststellung oder Festsetzung der Vergütung)?
+
+**A:** Feststellung oder Festsetzung der Vergütung
+
+Die Art und Höhe der Vergütung soll in angemessener Frist nach Inanspruchnahme der Diensterfindung durch Vereinbarung zwischen dem Arbeitgeber und dem Arbeitnehmer festgestellt werden.
+
+Hinweis: Feststellung durch Vereinbarung (Abs. 1), sonst Festsetzung durch begründete Erklärung in Textform, spätestens drei Monate nach Erteilung (Abs. 3); Widerspruch binnen zwei Monaten in Textform, sonst verbindlich (Abs. 4). Anpassung bei wesentlich geänderten Umständen (Abs. 6), Rückzahlung nie.
+
+In 140 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 13 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__13.html) (Schutzrechtsanmeldung im Inland)?
+
+**A:** Schutzrechtsanmeldung im Inland
+
+Der Arbeitgeber ist verpflichtet und allein berechtigt, eine gemeldete Diensterfindung im Inland zur Erteilung eines Schutzrechts anzumelden. Eine patentfähige Diensterfindung hat er zur Erteilung eines Patents anzumelden, sofern nicht bei verständiger Würdigung der Verwertbarkeit der Erfindung der Gebrauchsmusterschutz zweckdienlicher erscheint. Die Anmeldung hat unverzüglich zu geschehen.
+
+Hinweis: Der Arbeitgeber muss die gemeldete Diensterfindung unverzüglich im Inland anmelden (Abs. 1); Ausnahmen in Abs. 2 (Freigabe, Zustimmung, Betriebsgeheimnis nach [§ 17 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__17.html)). Versäumt er es, kann der Arbeitnehmer nach Fristsetzung selbst anmelden (Abs. 3).
+
+In 84 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 14 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__14.html) (Schutzrechtsanmeldung im Ausland)?
+
+**A:** Schutzrechtsanmeldung im Ausland
+
+Nach Inanspruchnahme der Diensterfindung ist der Arbeitgeber berechtigt, diese auch im Ausland zur Erteilung von Schutzrechten anzumelden.
+
+In 47 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 16 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__16.html) (Aufgabe der Schutzrechtsanmeldung oder des Schutzrechts)?
+
+**A:** Aufgabe der Schutzrechtsanmeldung oder des Schutzrechts
+
+Wenn der Arbeitgeber vor Erfüllung des Anspruchs des Arbeitnehmers auf angemessene Vergütung die Anmeldung der Diensterfindung zur Erteilung eines Schutzrechts nicht weiterverfolgen oder das auf die Diensterfindung erteilte Schutzrecht nicht aufrechterhalten will, hat er dies dem Arbeitnehmer mitzuteilen und ihm auf dessen Verlangen und Kosten das Recht zu übertragen sowie die zur Wahrung des Rechts erforderlichen Unterlagen auszuhändigen.
+
+Hinweis: Aufgabe von Anmeldung oder Schutzrecht vor Erfüllung des Vergütungsanspruchs: erst dem Arbeitnehmer mitteilen und auf Verlangen übertragen (Abs. 1, 2); Vorbehalt eines nichtausschließlichen Benutzungsrechts gegen angemessene Vergütung (Abs. 3).
+
+In 93 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 17 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__17.html) (Betriebsgeheimnisse)?
+
+**A:** Betriebsgeheimnisse
+
+Wenn berechtigte Belange des Betriebes es erfordern, eine gemeldete Diensterfindung nicht bekanntwerden zu lassen, kann der Arbeitgeber von der Erwirkung eines Schutzrechts absehen, sofern er die Schutzfähigkeit der Diensterfindung gegenüber dem Arbeitnehmer anerkennt.
+
+In 30 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 18 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__18.html) (Mitteilungspflicht)?
+
+**A:** Mitteilungspflicht
+
+Der Arbeitnehmer, der während der Dauer des Arbeitsverhältnisses eine freie Erfindung gemacht hat, hat dies dem Arbeitgeber unverzüglich durch Erklärung in Textform mitzuteilen. Dabei muß über die Erfindung und, wenn dies erforderlich ist, auch über ihre Entstehung so viel mitgeteilt werden, daß der Arbeitgeber beurteilen kann, ob die Erfindung frei ist.
+
+In 26 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 19 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__19.html) (Anbietungspflicht)?
+
+**A:** Anbietungspflicht
+
+Bevor der Arbeitnehmer eine freie Erfindung während der Dauer des Arbeitsverhältnisses anderweitig verwertet, hat er zunächst dem Arbeitgeber mindestens ein nichtausschließliches Recht zur Benutzung der Erfindung zu angemessenen Bedingungen anzubieten, wenn die Erfindung im Zeitpunkt des Angebots in den vorhandenen oder vorbereiteten Arbeitsbereich des Betriebes des Arbeitgebers fällt. Das Angebot kann gleichzeitig mit der Mitteilung nach [§ 18](https://www.gesetze-im-internet.de/arbnerfg/__18.html) abgegeben werden.
+
+In 3 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 20 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__20.html)?
+
+**A:** 
+
+Für technische Verbesserungsvorschläge, die dem Arbeitgeber eine ähnliche Vorzugsstellung gewähren wie ein gewerbliches Schutzrecht, hat der Arbeitnehmer gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald dieser sie verwertet. Die Bestimmungen der §§ [9](https://www.gesetze-im-internet.de/arbnerfg/__9.html) und [12](https://www.gesetze-im-internet.de/arbnerfg/__12.html) sind sinngemäß anzuwenden.
+
+Hinweis: Qualifizierter technischer Verbesserungsvorschlag (Vorzugsstellung wie ein Schutzrecht): Vergütung, sobald der Arbeitgeber ihn verwertet; §§ [9](https://www.gesetze-im-internet.de/arbnerfg/__9.html) und [12](https://www.gesetze-im-internet.de/arbnerfg/__12.html) ArbnErfG gelten sinngemäß (Abs. 1). Einfache Verbesserungsvorschläge: Tarifvertrag oder Betriebsvereinbarung (Abs. 2).
+
+In 43 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 22 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__22.html) (Unabdingbarkeit)?
+
+**A:** Unabdingbarkeit
+
+Die Vorschriften dieses Gesetzes können zuungunsten des Arbeitnehmers nicht abgedungen werden. Zulässig sind jedoch Vereinbarungen über Diensterfindungen nach ihrer Meldung, über freie Erfindungen und technische Verbesserungsvorschläge ([§ 20 Abs. 1](https://www.gesetze-im-internet.de/arbnerfg/__20.html)) nach ihrer Mitteilung.
+
+Hinweis: Unabdingbar zuungunsten des Arbeitnehmers; Vereinbarungen nach der Meldung (Diensterfindung) oder Mitteilung (freie Erfindung, Verbesserungsvorschlag) sind zulässig, stehen aber unter [§ 23 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html).
+
+In 54 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 23 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__23.html) (Unbilligkeit)?
+
+**A:** Unbilligkeit
+
+Vereinbarungen über Diensterfindungen, freie Erfindungen oder technische Verbesserungsvorschläge ([§ 20 Abs. 1](https://www.gesetze-im-internet.de/arbnerfg/__20.html)), die nach diesem Gesetz zulässig sind, sind unwirksam, soweit sie in erheblichem Maße unbillig sind. Das gleiche gilt für die Festsetzung der Vergütung ([§ 12 Abs. 4](https://www.gesetze-im-internet.de/arbnerfg/__12.html)).
+
+Hinweis: Vereinbarungen nach [§ 22 S. 2 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__22.html) und Festsetzungen sind unwirksam, soweit sie in erheblichem Maße unbillig sind (Abs. 1); geltend zu machen durch Erklärung in Textform bis spätestens sechs Monate nach Ende des Arbeitsverhältnisses (Abs. 2).
+
+In 67 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 28 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__28.html) (Gütliche Einigung)?
+
+**A:** Gütliche Einigung
+
+In allen Streitfällen zwischen Arbeitgeber und Arbeitnehmer auf Grund dieses Gesetzes kann jederzeit die Schiedsstelle angerufen werden. Die Schiedsstelle hat zu versuchen, eine gütliche Einigung herbeizuführen.
+
+Hinweis: In allen Streitfällen auf Grund des ArbnErfG kann die Schiedsstelle beim DPMA angerufen werden; Ziel ist eine gütliche Einigung (Einigungsvorschlag, [§ 34 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__34.html)).
+
+In 407 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 34 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__34.html) (Einigungsvorschlag der Schiedsstelle)?
+
+**A:** Einigungsvorschlag der Schiedsstelle
+
+Die Schiedsstelle faßt ihre Beschlüsse mit Stimmenmehrheit, [§ 196 Abs. 2 des Gerichtsverfassungsgesetzes](https://www.gesetze-im-internet.de/gvg/__196.html) ist anzuwenden.
+
+Hinweis: Der Einigungsvorschlag gilt als angenommen und wird verbindlich, wenn nicht binnen eines Monats nach Zustellung schriftlich widersprochen wird (Abs. 3).
+
+In 38 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 37 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__37.html) (Voraussetzungen für die Erhebung der Klage)?
+
+**A:** Voraussetzungen für die Erhebung der Klage
+
+Rechte oder Rechtsverhältnisse, die in diesem Gesetz geregelt sind, können im Wege der Klage erst geltend gemacht werden, nachdem ein Verfahren vor der Schiedsstelle vorausgegangen ist.
+
+Hinweis: Klage erst nach einem Verfahren vor der Schiedsstelle (Abs. 1), außer in den Fällen des Abs. 2 (u. a. Ausscheiden des Arbeitnehmers, sechs Monate seit Anrufung, Verzicht beider Parteien nach Entstehen des Streits).
+
+In 72 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 39 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__39.html) (Zuständigkeit)?
+
+**A:** Zuständigkeit
+
+Für alle Rechtsstreitigkeiten über Erfindungen eines Arbeitnehmers sind die für Patentstreitsachen zuständigen Gerichte ([§ 143 des Patentgesetzes](https://www.gesetze-im-internet.de/patg/__143.html)) ohne Rücksicht auf den Streitwert ausschließlich zuständig. Die Vorschriften über das Verfahren in Patentstreitsachen sind anzuwenden.
+
+In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 42 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__42.html) (Besondere Bestimmungen für Erfindungen an Hochschulen)?
+
+**A:** Besondere Bestimmungen für Erfindungen an Hochschulen
+
+Für Erfindungen der an einer Hochschule Beschäftigten gelten folgende besonderen Bestimmungen:
+1. Der Erfinder ist berechtigt, die Diensterfindung im Rahmen seiner Lehr- und Forschungstätigkeit zu offenbaren, wenn er dies dem Dienstherrn rechtzeitig, in der Regel zwei Monate zuvor, angezeigt hat. [§ 24 Abs. 2](https://www.gesetze-im-internet.de/arbnerfg/__24.html) findet insoweit keine Anwendung.
+2. Lehnt ein Erfinder aufgrund seiner Lehr- und Forschungsfreiheit die Offenbarung seiner Diensterfindung ab, so ist er nicht verpflichtet, die Erfindung dem Dienstherrn zu melden. Will der Erfinder seine Erfindung zu einem späteren Zeitpunkt offenbaren, so …
+
+Hinweis: Hochschulerfinder: Publikationsfreiheit nach Anzeige (Nr. 1), negative Publikationsfreiheit (Nr. 2), Benutzungsrecht für Lehre und Forschung (Nr. 3), Vergütung pauschal 30 % der Verwertungseinnahmen (Nr. 4).
+
+In 21 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 43 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__43.html) (Übergangsvorschrift)?
+
+**A:** Übergangsvorschrift
+
+[§ 42](https://www.gesetze-im-internet.de/arbnerfg/__42.html) in der am 7. Februar 2002 (BGBl. I S. 414) geltenden Fassung dieses Gesetzes findet nur Anwendung auf Erfindungen, die nach dem 6. Februar 2002 gemacht worden sind. Abweichend von Satz 1 ist in den Fällen, in denen sich Professoren, Dozenten oder wissenschaftliche Assistenten an einer wissenschaftlichen Hochschule zur Übertragung der Rechte an einer Erfindung gegenüber einem Dritten vor dem 18. Juli 2001 vertraglich verpflichtet haben, [§ 42 des Gesetzes über Arbeitnehmererfindungen](https://www.gesetze-im-internet.de/arbnerfg/__42.html) in der bis zum 6. Februar 2002 geltenden Fassung bis zum 7. Februar 2003 weiter anzuwenden.
+
+Hinweis: Übergangsrecht: Auf Erfindungen, die vor dem 1.10.2009 gemeldet wurden, ist das ArbnErfG in der bis dahin geltenden Fassung anzuwenden (Abs. 3); die Schiedsstelle prüft deshalb stets zuerst den Meldezeitpunkt.
+
+In 98 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
 
 ---
 

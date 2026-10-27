@@ -493,3 +493,44 @@ auslegt, und lernt nicht nur das Ergebnis eines Falls.
 
 **Fortschritt.** Der Cookie `mgk_p` wächst mit jeder beantworteten Einheit. Browser verwerfen Cookies über 4 KB stillschweigend. Über 3.800
 Zeichen schreibt `Store` deshalb in den localStorage; gelesen wird der längere der beiden Stände. Der Rauchtest prüft beides.
+
+## 16. Arbeitnehmererfinderrecht: ArbnErfG, Vergütungsrichtlinien, Schiedsstelle und Kommentar aus der Rechtsprechung (Oktober 2026)
+
+So wurde das ArbnErfG aufgenommen (Teil des Patentpakets, `src/knowledge/patent/`); neu ist der **Kommentar aus der Rechtsprechung**, der
+als Muster für weitere Gesetze dienen kann.
+
+**Quellen.** `tools/fetch_arbnerfg.py` schreibt `data/arbnerfg.json` (XML von gesetze-im-internet.de mit dem Parser aus `fetch_patent.py`; die
+Datenbank hat das ArbEG in `DeLegalProvision` nur ohne Absatztrennung, Stand 2022), `data/arbnerfg_vergrl.json` (Richtlinien für die Vergütung
+von Arbeitnehmererfindungen im privaten Dienst vom 20.7.1959/1.9.1983, PDF von dpma.de: weder in der Datenbank noch auf gesetze-im-internet.de;
+Nummern „(n)“ am Zeilenanfang, zentrierte Zwischenüberschriften entfernt, gesperrte Überschriften über `SPERRSATZ`, Seite je Nummer für `#page=`)
+und `data/arbnerfg_decisions.json`: alle Veröffentlichungen der Schiedsstelle nach dem ArbEG beim DPMA (Tabelle `SchiedsstelleDecision`, seit
+2000, mit Leitsatz, Schlagworten, Normenkette und Volltext) sowie die Entscheidungen von BGH und BPatG, deren Volltext das ArbEG zitiert. Die
+Schiedsstelle steht nicht in `DeCourtNorm`; das Skript zählt die Zitate aller Entscheidungen mit dem Zitaterkenner aus `gesetze.py` im Volltext
+(Ketten, Absätze, „RL Nr. 34“ für die Richtlinien), „ausgelegt“ = Vorschrift in Normenkette, Leitsatz oder Schlagworten (beim BGH zusätzlich
+`DeCourtNorm.interpreted`). Je Paragraph legt es die zitierenden Textstellen in `~/.cache/ipelico/arbnerfg/passagen.json` ab (nicht versioniert).
+
+**Kommentar.** Arbeitsweise: Normtext lesen → je Paragraph alle Entscheidungen sammeln, die ihn zitieren, Leitsätze der auslegenden zuerst,
+Textstellen nach Absätzen → Randnummern verdichten. Format `src/knowledge/patent/arbnerfg_kommentar/` (Module a bis e nach Gesetzesteilen):
+`KOMMENTAR = {"9": [rn(titel, text, belege=[…], absatz="Abs. 2"), …]}`; `rn` prüft jeden Beleg gegen den Korpus (`arbnerfg_entscheidungen.beleg`,
+Aktenzeichen allein oder mit Datum, wenn mehrdeutig) und hängt URL, Gericht und Datum an. Die Randnummern stehen am Normknoten (`kommentar`,
+von `build_graph` durchgereicht) und erscheinen in IPelico als Abschnitt „Kommentar aus der Rechtsprechung“ der Lernkarte (Belege verlinkt auf
+dpma.de bzw. bundesgerichtshof.de), im Navigator unter dem Wortlaut. Leitentscheidungen derselben Module (`ea`, IDs `arb_sst_…`, `arb_bgh_…`)
+sind `case`-Knoten. Teilprüfung während der Arbeit: Zitate mit Gesetz, Absätze existieren, Belege im Korpus, Längen (siehe Skript im Verlauf
+der Erstellung, vollständig dann `check_zitate.py`).
+
+**Modell und App.** Normfamilie `arbnerfg` (`patent/arbnerfg.py`, in `gesetze_texte.FAMILIEN` angehängt, `korpus="arbnerfg"`), Zitierform
+`§ 9 Abs. 2 ArbnErfG` (Aliase ArbEG, ArbNErfG in `gesetze.ALIASES` und `DE_NORM_KEYS`). Vergütungsrichtlinien als `source`-Knoten
+(`source:vrl:30`, Provider „Vergütungsrichtlinien“), Begriffe verweisen über `arbnerfg.BEGRIFF_QUELLEN`; im Text „RL Nr. 30“ (kein
+Gesetzeszitat). 20 Begriffe in `patent/concepts_arb.py` (Kategorie „Patent: Arbeitnehmererfindungen (ArbnErfG)“). Korpus als
+`docs/arbnerfg_entscheidungen.json` (`KORPUS.arbnerfg` in `kurs.html`, Ansicht `#/bpatg/arbnerfg`, Gerichtsfilter aus den Daten, Schlagworte
+`sw`). Rangliste: `tools/norm_ranking.py` schreibt auch `ArbnErfG` und `Vergütungsrichtlinien` nach `data/norm_ranking.json`.
+
+**Kurs.** `kurse/p04_arbnerfg.py` („ArbnErfG nach Vorschriften“, Gebiet `patent`, `kompakt=True`), Kapitel in `_p04_a.py` bis `_p04_e.py`
+parallel zu den Kommentarmodulen, sortiert nach `order` = Paragraph × 100. Jede Frage einer Fallkette nimmt eine Randnummer des Kommentars auf.
+Wichtig für Inhalte: Für Erfindungen, die vor dem 1.10.2009 gemeldet wurden, gilt das ArbnErfG a.F. (§ 43 Abs. 3 ArbnErfG; schriftliche
+Inanspruchnahme, beschränkt/unbeschränkt); viele Einigungsvorschläge betreffen Altfälle.
+
+**Aktualisieren.** Neue Einigungsvorschläge: Tabelle `SchiedsstelleDecision` befüllen, `python3 tools/fetch_arbnerfg.py` (mit `--no-net`, wenn
+Gesetz und PDF im Cache sind), dann Belege des Kommentars prüfen (`build.py` bricht bei verschwundenen Aktenzeichen ab), neue Leitsätze in
+`~/.cache/ipelico/arbnerfg/passagen.json` sichten und Randnummern ergänzen. Rauchtest: Routen `#/bpatg/arbnerfg`, `#/karte/eunorm:arbnerfg:42`
+(Kommentar mit dpma.de-Links), `#/karte/source:vrl:37`.

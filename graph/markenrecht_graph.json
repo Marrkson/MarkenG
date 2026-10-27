@@ -208,6 +208,17 @@
     "artikel": 16
    },
    {
+    "key": "arbnerfg",
+    "kurz": "ArbnErfG",
+    "titel": "Gesetz über Arbeitnehmererfindungen (ArbnErfG)",
+    "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+    "quelle": "https://www.gesetze-im-internet.de/arbnerfg/",
+    "pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+    "paraphrase": false,
+    "hinweis": "Amtlicher Wortlaut von gesetze-im-internet.de (XML); in Entscheidungen meist „ArbEG“ zitiert. Kommentar je Vorschrift aus den Einigungsvorschlägen der Schiedsstelle beim DPMA und der Rechtsprechung des BGH.",
+    "artikel": 49
+   },
+   {
     "key": "designg",
     "kurz": "DesignG",
     "titel": "Designgesetz (DesignG)",
@@ -271,18 +282,18 @@
   },
   "statistik": {
    "norm": 190,
-   "eunorm": 1117,
-   "concept": 368,
+   "eunorm": 1166,
+   "concept": 389,
    "schema": 42,
    "step": 516,
-   "case": 476,
+   "case": 477,
    "distinction": 47,
-   "source": 239,
-   "course": 30,
-   "chapter": 143,
-   "unit": 1527
+   "source": 282,
+   "course": 31,
+   "chapter": 144,
+   "unit": 1531
   },
-  "kanten": 18990
+  "kanten": 19129
  },
  "nodes": [
   {
@@ -30836,6 +30847,1561 @@
    "zitiert": 0
   },
   {
+   "id": "eunorm:arbnerfg:1",
+   "label": "§ 1 ArbnErfG",
+   "titel": "Anwendungsbereich",
+   "nummer": "1",
+   "kapitel": "Erster Abschnitt Anwendungsbereich und Begriffsbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Diesem Gesetz unterliegen die Erfindungen und technischen Verbesserungsvorschläge von Arbeitnehmern im privaten und im öffentlichen Dienst, von Beamten und Soldaten."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__1.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 1,
+   "zitiert": 44
+  },
+  {
+   "id": "eunorm:arbnerfg:2",
+   "label": "§ 2 ArbnErfG",
+   "titel": "Erfindungen",
+   "nummer": "2",
+   "kapitel": "Erster Abschnitt Anwendungsbereich und Begriffsbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Erfindungen im Sinne dieses Gesetzes sind nur Erfindungen, die patent- oder gebrauchsmusterfähig sind."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__2.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 2,
+   "zitiert": 106
+  },
+  {
+   "id": "eunorm:arbnerfg:3",
+   "label": "§ 3 ArbnErfG",
+   "titel": "Technische Verbesserungsvorschläge",
+   "nummer": "3",
+   "kapitel": "Erster Abschnitt Anwendungsbereich und Begriffsbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Technische Verbesserungsvorschläge im Sinne dieses Gesetzes sind Vorschläge für sonstige technische Neuerungen, die nicht patent- oder gebrauchsmusterfähig sind."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__3.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 3,
+   "zitiert": 13
+  },
+  {
+   "id": "eunorm:arbnerfg:4",
+   "label": "§ 4 ArbnErfG",
+   "titel": "Diensterfindungen und freie Erfindungen",
+   "nummer": "4",
+   "kapitel": "Erster Abschnitt Anwendungsbereich und Begriffsbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Erfindungen von Arbeitnehmern im Sinne dieses Gesetzes können gebundene oder freie Erfindungen sein."
+    },
+    {
+     "nr": "2",
+     "text": "Gebundene Erfindungen (Diensterfindungen) sind während der Dauer des Arbeitsverhältnisses gemachte Erfindungen, die entweder\n1. aus der dem Arbeitnehmer im Betrieb oder in der öffentlichen Verwaltung obliegenden Tätigkeit entstanden sind oder\n2. maßgeblich auf Erfahrungen oder Arbeiten des Betriebes oder der öffentlichen Verwaltung beruhen."
+    },
+    {
+     "nr": "3",
+     "text": "Sonstige Erfindungen von Arbeitnehmern sind freie Erfindungen. Sie unterliegen jedoch den Beschränkungen der §§ 18 und 19."
+    },
+    {
+     "nr": "4",
+     "text": "Die Absätze 1 bis 3 gelten entsprechend für Erfindungen von Beamten und Soldaten."
+    }
+   ],
+   "hinweis": "Diensterfindung = gebundene Erfindung (Abs. 2): aus der Tätigkeit im Betrieb entstanden (Nr. 1) oder maßgeblich auf Erfahrungen oder Arbeiten des Betriebs beruhend (Nr. 2), jeweils während der Dauer des Arbeitsverhältnisses. Alles andere ist freie Erfindung (Abs. 3) mit Mitteilungs- und Anbietungspflicht (§§ 18, 19 ArbnErfG).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__4.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 4,
+   "zitiert": 41
+  },
+  {
+   "id": "eunorm:arbnerfg:5",
+   "label": "§ 5 ArbnErfG",
+   "titel": "Meldepflicht",
+   "nummer": "5",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Arbeitnehmer, der eine Diensterfindung gemacht hat, ist verpflichtet, sie unverzüglich dem Arbeitgeber gesondert in Textform zu melden und hierbei kenntlich zu machen, daß es sich um die Meldung einer Erfindung handelt. Sind mehrere Arbeitnehmer an dem Zustandekommen der Erfindung beteiligt, so können sie die Meldung gemeinsam abgeben. Der Arbeitgeber hat den Zeitpunkt des Eingangs der Meldung dem Arbeitnehmer unverzüglich in Textform zu bestätigen."
+    },
+    {
+     "nr": "2",
+     "text": "In der Meldung hat der Arbeitnehmer die technische Aufgabe, ihre Lösung und das Zustandekommen der Diensterfindung zu beschreiben. Vorhandene Aufzeichnungen sollen beigefügt werden, soweit sie zum Verständnis der Erfindung erforderlich sind. Die Meldung soll dem Arbeitnehmer dienstlich erteilte Weisungen oder Richtlinien, die benutzten Erfahrungen oder Arbeiten des Betriebes, die Mitarbeiter sowie Art und Umfang ihrer Mitarbeit angeben und soll hervorheben, was der meldende Arbeitnehmer als seinen eigenen Anteil ansieht."
+    },
+    {
+     "nr": "3",
+     "text": "Eine Meldung, die den Anforderungen des Absatzes 2 nicht entspricht, gilt als ordnungsgemäß, wenn der Arbeitgeber nicht innerhalb von zwei Monaten erklärt, daß und in welcher Hinsicht die Meldung einer Ergänzung bedarf. Er hat den Arbeitnehmer, soweit erforderlich, bei der Ergänzung der Meldung zu unterstützen."
+    }
+   ],
+   "hinweis": "Meldung gesondert, in Textform, als Erfindungsmeldung kenntlich, unverzüglich (Abs. 1). Mängel muss der Arbeitgeber binnen zwei Monaten beanstanden, sonst gilt die Meldung als ordnungsgemäß (Abs. 3); erst die ordnungsgemäße Meldung setzt die Frist des § 6 Abs. 2 ArbnErfG in Gang.",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__5.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 5,
+   "zitiert": 138
+  },
+  {
+   "id": "eunorm:arbnerfg:6",
+   "label": "§ 6 ArbnErfG",
+   "titel": "Inanspruchnahme",
+   "nummer": "6",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Arbeitgeber kann eine Diensterfindung durch Erklärung gegenüber dem Arbeitnehmer in Anspruch nehmen."
+    },
+    {
+     "nr": "2",
+     "text": "Die Inanspruchnahme gilt als erklärt, wenn der Arbeitgeber die Diensterfindung nicht bis zum Ablauf von vier Monaten nach Eingang der ordnungsgemäßen Meldung (§ 5 Abs. 2 Satz 1 und 3) gegenüber dem Arbeitnehmer durch Erklärung in Textform freigibt."
+    }
+   ],
+   "hinweis": "Seit 1.10.2009 Inanspruchnahmefiktion: Gibt der Arbeitgeber die Diensterfindung nicht binnen vier Monaten nach Eingang der ordnungsgemäßen Meldung in Textform frei, gilt sie als in Anspruch genommen (Abs. 2). Für vorher gemeldete Erfindungen gilt altes Recht (§ 43 Abs. 3 ArbnErfG): schriftliche, fristgebundene Inanspruchnahmeerklärung, beschränkte oder unbeschränkte Inanspruchnahme.",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__6.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 6,
+   "zitiert": 175
+  },
+  {
+   "id": "eunorm:arbnerfg:7",
+   "label": "§ 7 ArbnErfG",
+   "titel": "Wirkung der Inanspruchnahme",
+   "nummer": "7",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Mit der Inanspruchnahme gehen alle vermögenswerten Rechte an der Diensterfindung auf den Arbeitgeber über."
+    },
+    {
+     "nr": "2",
+     "text": "Verfügungen, die der Arbeitnehmer über eine Diensterfindung vor der Inanspruchnahme getroffen hat, sind dem Arbeitgeber gegenüber unwirksam, soweit seine Rechte beeinträchtigt werden."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__7.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 7,
+   "zitiert": 179
+  },
+  {
+   "id": "eunorm:arbnerfg:8",
+   "label": "§ 8 ArbnErfG",
+   "titel": "Frei gewordene Diensterfindungen",
+   "nummer": "8",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Eine Diensterfindung wird frei, wenn der Arbeitgeber sie durch Erklärung in Textform freigibt. Über eine frei gewordene Diensterfindung kann der Arbeitnehmer ohne die Beschränkungen der §§ 18 und 19 verfügen."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__8.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 8,
+   "zitiert": 38
+  },
+  {
+   "id": "eunorm:arbnerfg:9",
+   "label": "§ 9 ArbnErfG",
+   "titel": "Vergütung bei Inanspruchnahme",
+   "nummer": "9",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Arbeitnehmer hat gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald der Arbeitgeber die Diensterfindung in Anspruch genommen hat."
+    },
+    {
+     "nr": "2",
+     "text": "Für die Bemessung der Vergütung sind insbesondere die wirtschaftliche Verwertbarkeit der Diensterfindung, die Aufgaben und die Stellung des Arbeitnehmers im Betrieb sowie der Anteil des Betriebes an dem Zustandekommen der Diensterfindung maßgebend."
+    }
+   ],
+   "hinweis": "Anspruchsgrundlage der Erfindervergütung. Vergütung = Erfindungswert × Anteilsfaktor (RL Nr. 39); Erfindungswert meist nach der Lizenzanalogie (RL Nr. 6 ff.), Anteilsfaktor aus Stellung der Aufgabe, Lösung und Stellung im Betrieb (RL Nr. 30 ff.). Auskunft und Rechnungslegung aus § 242 BGB.",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__9.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 9,
+   "zitiert": 356
+  },
+  {
+   "id": "eunorm:arbnerfg:10",
+   "label": "§ 10 ArbnErfG",
+   "titel": "(weggefallen)",
+   "nummer": "10",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "-"
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__10.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 10,
+   "zitiert": 5
+  },
+  {
+   "id": "eunorm:arbnerfg:11",
+   "label": "§ 11 ArbnErfG",
+   "titel": "Vergütungsrichtlinien",
+   "nummer": "11",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Das Bundesministerium für Arbeit und Soziales erläßt nach Anhörung der Spitzenorganisationen der Arbeitgeber und der Arbeitnehmer (§ 12 des Tarifvertragsgesetzes) Richtlinien über die Bemessung der Vergütung."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__11.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 11,
+   "zitiert": 85
+  },
+  {
+   "id": "eunorm:arbnerfg:12",
+   "label": "§ 12 ArbnErfG",
+   "titel": "Feststellung oder Festsetzung der Vergütung",
+   "nummer": "12",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Art und Höhe der Vergütung soll in angemessener Frist nach Inanspruchnahme der Diensterfindung durch Vereinbarung zwischen dem Arbeitgeber und dem Arbeitnehmer festgestellt werden."
+    },
+    {
+     "nr": "2",
+     "text": "Wenn mehrere Arbeitnehmer an der Diensterfindung beteiligt sind, ist die Vergütung für jeden gesondert festzustellen. Die Gesamthöhe der Vergütung und die Anteile der einzelnen Erfinder an der Diensterfindung hat der Arbeitgeber den Beteiligten bekanntzugeben."
+    },
+    {
+     "nr": "3",
+     "text": "Kommt eine Vereinbarung über die Vergütung in angemessener Frist nach Inanspruchnahme der Diensterfindung nicht zustande, so hat der Arbeitgeber die Vergütung durch eine begründete Erklärung in Textform an den Arbeitnehmer festzusetzen und entsprechend der Festsetzung zu zahlen. Die Vergütung ist spätestens bis zum Ablauf von drei Monaten nach Erteilung des Schutzrechts festzusetzen."
+    },
+    {
+     "nr": "4",
+     "text": "Der Arbeitnehmer kann der Festsetzung innerhalb von zwei Monaten durch Erklärung in Textform widersprechen, wenn er mit der Festsetzung nicht einverstanden ist. Widerspricht er nicht, so wird die Festsetzung für beide Teile verbindlich."
+    },
+    {
+     "nr": "5",
+     "text": "Sind mehrere Arbeitnehmer an der Diensterfindung beteiligt, so wird die Festsetzung für alle Beteiligten nicht verbindlich, wenn einer von ihnen der Festsetzung mit der Begründung widerspricht, daß sein Anteil an der Diensterfindung unrichtig festgesetzt sei. Der Arbeitgeber ist in diesem Falle berechtigt, die Vergütung für alle Beteiligten neu festzusetzen."
+    },
+    {
+     "nr": "6",
+     "text": "Arbeitgeber und Arbeitnehmer können voneinander die Einwilligung in eine andere Regelung der Vergütung verlangen, wenn sich Umstände wesentlich ändern, die für die Feststellung oder Festsetzung der Vergütung maßgebend waren. Rückzahlung einer bereits geleisteten Vergütung kann nicht verlangt werden. Die Absätze 1 bis 5 sind nicht anzuwenden."
+    }
+   ],
+   "hinweis": "Feststellung durch Vereinbarung (Abs. 1), sonst Festsetzung durch begründete Erklärung in Textform, spätestens drei Monate nach Erteilung (Abs. 3); Widerspruch binnen zwei Monaten in Textform, sonst verbindlich (Abs. 4). Anpassung bei wesentlich geänderten Umständen (Abs. 6), Rückzahlung nie.",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__12.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 12,
+   "zitiert": 140
+  },
+  {
+   "id": "eunorm:arbnerfg:13",
+   "label": "§ 13 ArbnErfG",
+   "titel": "Schutzrechtsanmeldung im Inland",
+   "nummer": "13",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Arbeitgeber ist verpflichtet und allein berechtigt, eine gemeldete Diensterfindung im Inland zur Erteilung eines Schutzrechts anzumelden. Eine patentfähige Diensterfindung hat er zur Erteilung eines Patents anzumelden, sofern nicht bei verständiger Würdigung der Verwertbarkeit der Erfindung der Gebrauchsmusterschutz zweckdienlicher erscheint. Die Anmeldung hat unverzüglich zu geschehen."
+    },
+    {
+     "nr": "2",
+     "text": "Die Verpflichtung des Arbeitgebers zur Anmeldung entfällt,\n1. wenn die Diensterfindung frei geworden ist (§ 8);\n2. wenn der Arbeitnehmer der Nichtanmeldung zustimmt;\n3. wenn die Voraussetzungen des § 17 vorliegen."
+    },
+    {
+     "nr": "3",
+     "text": "Genügt der Arbeitgeber nach Inanspruchnahme der Diensterfindung seiner Anmeldepflicht nicht und bewirkt er die Anmeldung auch nicht innerhalb einer ihm vom Arbeitnehmer gesetzten angemessenen Nachfrist, so kann der Arbeitnehmer die Anmeldung der Diensterfindung für den Arbeitgeber auf dessen Namen und Kosten bewirken."
+    },
+    {
+     "nr": "4",
+     "text": "Ist die Diensterfindung frei geworden, so ist nur der Arbeitnehmer berechtigt, sie zur Erteilung eines Schutzrechts anzumelden. Hatte der Arbeitgeber die Diensterfindung bereits zur Erteilung eines Schutzrechts angemeldet, so gehen die Rechte aus der Anmeldung auf den Arbeitnehmer über."
+    }
+   ],
+   "hinweis": "Der Arbeitgeber muss die gemeldete Diensterfindung unverzüglich im Inland anmelden (Abs. 1); Ausnahmen in Abs. 2 (Freigabe, Zustimmung, Betriebsgeheimnis nach § 17 ArbnErfG). Versäumt er es, kann der Arbeitnehmer nach Fristsetzung selbst anmelden (Abs. 3).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__13.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 13,
+   "zitiert": 84
+  },
+  {
+   "id": "eunorm:arbnerfg:14",
+   "label": "§ 14 ArbnErfG",
+   "titel": "Schutzrechtsanmeldung im Ausland",
+   "nummer": "14",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Nach Inanspruchnahme der Diensterfindung ist der Arbeitgeber berechtigt, diese auch im Ausland zur Erteilung von Schutzrechten anzumelden."
+    },
+    {
+     "nr": "2",
+     "text": "Für ausländische Staaten, in denen der Arbeitgeber Schutzrechte nicht erwerben will, hat er dem Arbeitnehmer die Diensterfindung freizugeben und ihm auf Verlangen den Erwerb von Auslandsschutzrechten zu ermöglichen. Die Freigabe soll so rechtzeitig vorgenommen werden, daß der Arbeitnehmer die Prioritätsfristen der zwischenstaatlichen Verträge auf dem Gebiet des gewerblichen Rechtsschutzes ausnutzen kann."
+    },
+    {
+     "nr": "3",
+     "text": "Der Arbeitgeber kann sich gleichzeitig mit der Freigabe nach Absatz 2 ein nichtausschließliches Recht zur Benutzung der Diensterfindung in den betreffenden ausländischen Staaten gegen angemessene Vergütung vorbehalten und verlangen, daß der Arbeitnehmer bei der Verwertung der freigegebenen Erfindung in den betreffenden ausländischen Staaten die Verpflichtungen des Arbeitgebers aus den im Zeitpunkt der Freigabe bestehenden Verträgen über die Diensterfindung gegen angemessene Vergütung berücksichtigt."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__14.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 14,
+   "zitiert": 47
+  },
+  {
+   "id": "eunorm:arbnerfg:15",
+   "label": "§ 15 ArbnErfG",
+   "titel": "Gegenseitige Rechte und Pflichten beim Erwerb von Schutzrechten",
+   "nummer": "15",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Arbeitgeber hat dem Arbeitnehmer zugleich mit der Anmeldung der Diensterfindung zur Erteilung eines Schutzrechts Abschriften der Anmeldeunterlagen zu geben. Er hat ihn von dem Fortgang des Verfahrens zu unterrichten und ihm auf Verlangen Einsicht in den Schriftwechsel zu gewähren."
+    },
+    {
+     "nr": "2",
+     "text": "Der Arbeitnehmer hat den Arbeitgeber auf Verlangen beim Erwerb von Schutzrechten zu unterstützen und die erforderlichen Erklärungen abzugeben."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__15.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 15,
+   "zitiert": 26
+  },
+  {
+   "id": "eunorm:arbnerfg:16",
+   "label": "§ 16 ArbnErfG",
+   "titel": "Aufgabe der Schutzrechtsanmeldung oder des Schutzrechts",
+   "nummer": "16",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Wenn der Arbeitgeber vor Erfüllung des Anspruchs des Arbeitnehmers auf angemessene Vergütung die Anmeldung der Diensterfindung zur Erteilung eines Schutzrechts nicht weiterverfolgen oder das auf die Diensterfindung erteilte Schutzrecht nicht aufrechterhalten will, hat er dies dem Arbeitnehmer mitzuteilen und ihm auf dessen Verlangen und Kosten das Recht zu übertragen sowie die zur Wahrung des Rechts erforderlichen Unterlagen auszuhändigen."
+    },
+    {
+     "nr": "2",
+     "text": "Der Arbeitgeber ist berechtigt, das Recht aufzugeben, sofern der Arbeitnehmer nicht innerhalb von drei Monaten nach Zugang der Mitteilung die Übertragung des Rechts verlangt."
+    },
+    {
+     "nr": "3",
+     "text": "Gleichzeitig mit der Mitteilung nach Absatz 1 kann sich der Arbeitgeber ein nichtausschließliches Recht zur Benutzung der Diensterfindung gegen angemessene Vergütung vorbehalten."
+    }
+   ],
+   "hinweis": "Aufgabe von Anmeldung oder Schutzrecht vor Erfüllung des Vergütungsanspruchs: erst dem Arbeitnehmer mitteilen und auf Verlangen übertragen (Abs. 1, 2); Vorbehalt eines nichtausschließlichen Benutzungsrechts gegen angemessene Vergütung (Abs. 3).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__16.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 16,
+   "zitiert": 93
+  },
+  {
+   "id": "eunorm:arbnerfg:17",
+   "label": "§ 17 ArbnErfG",
+   "titel": "Betriebsgeheimnisse",
+   "nummer": "17",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "1. Diensterfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Wenn berechtigte Belange des Betriebes es erfordern, eine gemeldete Diensterfindung nicht bekanntwerden zu lassen, kann der Arbeitgeber von der Erwirkung eines Schutzrechts absehen, sofern er die Schutzfähigkeit der Diensterfindung gegenüber dem Arbeitnehmer anerkennt."
+    },
+    {
+     "nr": "2",
+     "text": "Erkennt der Arbeitgeber die Schutzfähigkeit der Diensterfindung nicht an, so kann er von der Erwirkung eines Schutzrechts absehen, wenn er zur Herbeiführung einer Einigung über die Schutzfähigkeit der Diensterfindung die Schiedsstelle (§ 29) anruft."
+    },
+    {
+     "nr": "3",
+     "text": "Bei der Bemessung der Vergütung für eine Erfindung nach Absatz 1 sind auch die wirtschaftlichen Nachteile zu berücksichtigen, die sich für den Arbeitnehmer daraus ergeben, daß auf die Diensterfindung kein Schutzrecht erteilt worden ist."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__17.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 17,
+   "zitiert": 30
+  },
+  {
+   "id": "eunorm:arbnerfg:18",
+   "label": "§ 18 ArbnErfG",
+   "titel": "Mitteilungspflicht",
+   "nummer": "18",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "2. Freie Erfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Arbeitnehmer, der während der Dauer des Arbeitsverhältnisses eine freie Erfindung gemacht hat, hat dies dem Arbeitgeber unverzüglich durch Erklärung in Textform mitzuteilen. Dabei muß über die Erfindung und, wenn dies erforderlich ist, auch über ihre Entstehung so viel mitgeteilt werden, daß der Arbeitgeber beurteilen kann, ob die Erfindung frei ist."
+    },
+    {
+     "nr": "2",
+     "text": "Bestreitet der Arbeitgeber nicht innerhalb von drei Monaten nach Zugang der Mitteilung durch Erklärung in Textform an den Arbeitnehmer, daß die ihm mitgeteilte Erfindung frei sei, so kann die Erfindung nicht mehr als Diensterfindung in Anspruch genommen werden (§ 6)."
+    },
+    {
+     "nr": "3",
+     "text": "Eine Verpflichtung zur Mitteilung freier Erfindungen besteht nicht, wenn die Erfindung offensichtlich im Arbeitsbereich des Betriebes des Arbeitgebers nicht verwendbar ist."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__18.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 18,
+   "zitiert": 26
+  },
+  {
+   "id": "eunorm:arbnerfg:19",
+   "label": "§ 19 ArbnErfG",
+   "titel": "Anbietungspflicht",
+   "nummer": "19",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "2. Freie Erfindungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Bevor der Arbeitnehmer eine freie Erfindung während der Dauer des Arbeitsverhältnisses anderweitig verwertet, hat er zunächst dem Arbeitgeber mindestens ein nichtausschließliches Recht zur Benutzung der Erfindung zu angemessenen Bedingungen anzubieten, wenn die Erfindung im Zeitpunkt des Angebots in den vorhandenen oder vorbereiteten Arbeitsbereich des Betriebes des Arbeitgebers fällt. Das Angebot kann gleichzeitig mit der Mitteilung nach § 18 abgegeben werden."
+    },
+    {
+     "nr": "2",
+     "text": "Nimmt der Arbeitgeber das Angebot innerhalb von drei Monaten nicht an, so erlischt das Vorrecht."
+    },
+    {
+     "nr": "3",
+     "text": "Erklärt sich der Arbeitgeber innerhalb der Frist des Absatzes 2 zum Erwerb des ihm angebotenen Rechts bereit, macht er jedoch geltend, daß die Bedingungen des Angebots nicht angemessen seien, so setzt das Gericht auf Antrag des Arbeitgebers oder des Arbeitnehmers die Bedingungen fest."
+    },
+    {
+     "nr": "4",
+     "text": "Der Arbeitgeber oder der Arbeitnehmer kann eine andere Festsetzung der Bedingungen beantragen, wenn sich Umstände wesentlich ändern, die für die vereinbarten oder festgesetzten Bedingungen maßgebend waren."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__19.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 19,
+   "zitiert": 3
+  },
+  {
+   "id": "eunorm:arbnerfg:20",
+   "label": "§ 20 ArbnErfG",
+   "titel": "",
+   "nummer": "20",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "3. Technische Verbesserungsvorschläge",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Für technische Verbesserungsvorschläge, die dem Arbeitgeber eine ähnliche Vorzugsstellung gewähren wie ein gewerbliches Schutzrecht, hat der Arbeitnehmer gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald dieser sie verwertet. Die Bestimmungen der §§ 9 und 12 sind sinngemäß anzuwenden."
+    },
+    {
+     "nr": "2",
+     "text": "Im übrigen bleibt die Behandlung technischer Verbesserungsvorschläge der Regelung durch Tarifvertrag oder Betriebsvereinbarung überlassen."
+    }
+   ],
+   "hinweis": "Qualifizierter technischer Verbesserungsvorschlag (Vorzugsstellung wie ein Schutzrecht): Vergütung, sobald der Arbeitgeber ihn verwertet; §§ 9 und 12 ArbnErfG gelten sinngemäß (Abs. 1). Einfache Verbesserungsvorschläge: Tarifvertrag oder Betriebsvereinbarung (Abs. 2).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__20.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 20,
+   "zitiert": 43
+  },
+  {
+   "id": "eunorm:arbnerfg:21",
+   "label": "§ 21 ArbnErfG",
+   "titel": "(weggefallen)",
+   "nummer": "21",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "4. Gemeinsame Bestimmungen",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "-"
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__21.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 21,
+   "zitiert": 3
+  },
+  {
+   "id": "eunorm:arbnerfg:22",
+   "label": "§ 22 ArbnErfG",
+   "titel": "Unabdingbarkeit",
+   "nummer": "22",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "4. Gemeinsame Bestimmungen",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Die Vorschriften dieses Gesetzes können zuungunsten des Arbeitnehmers nicht abgedungen werden. Zulässig sind jedoch Vereinbarungen über Diensterfindungen nach ihrer Meldung, über freie Erfindungen und technische Verbesserungsvorschläge (§ 20 Abs. 1) nach ihrer Mitteilung."
+    }
+   ],
+   "hinweis": "Unabdingbar zuungunsten des Arbeitnehmers; Vereinbarungen nach der Meldung (Diensterfindung) oder Mitteilung (freie Erfindung, Verbesserungsvorschlag) sind zulässig, stehen aber unter § 23 ArbnErfG.",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__22.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 22,
+   "zitiert": 54
+  },
+  {
+   "id": "eunorm:arbnerfg:23",
+   "label": "§ 23 ArbnErfG",
+   "titel": "Unbilligkeit",
+   "nummer": "23",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "4. Gemeinsame Bestimmungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Vereinbarungen über Diensterfindungen, freie Erfindungen oder technische Verbesserungsvorschläge (§ 20 Abs. 1), die nach diesem Gesetz zulässig sind, sind unwirksam, soweit sie in erheblichem Maße unbillig sind. Das gleiche gilt für die Festsetzung der Vergütung (§ 12 Abs. 4)."
+    },
+    {
+     "nr": "2",
+     "text": "Auf die Unbilligkeit einer Vereinbarung oder einer Festsetzung der Vergütung können sich Arbeitgeber und Arbeitnehmer nur berufen, wenn sie die Unbilligkeit spätestens bis zum Ablauf von sechs Monaten nach Beendigung des Arbeitsverhältnisses durch Erklärung in Textform gegenüber dem anderen Teil geltend machen."
+    }
+   ],
+   "hinweis": "Vereinbarungen nach § 22 S. 2 ArbnErfG und Festsetzungen sind unwirksam, soweit sie in erheblichem Maße unbillig sind (Abs. 1); geltend zu machen durch Erklärung in Textform bis spätestens sechs Monate nach Ende des Arbeitsverhältnisses (Abs. 2).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__23.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 23,
+   "zitiert": 67
+  },
+  {
+   "id": "eunorm:arbnerfg:24",
+   "label": "§ 24 ArbnErfG",
+   "titel": "Geheimhaltungspflicht",
+   "nummer": "24",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "4. Gemeinsame Bestimmungen",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Der Arbeitgeber hat die ihm gemeldete oder mitgeteilte Erfindung eines Arbeitnehmers so lange geheimzuhalten, als dessen berechtigte Belange dies erfordern."
+    },
+    {
+     "nr": "2",
+     "text": "Der Arbeitnehmer hat eine Diensterfindung so lange geheimzuhalten, als sie nicht frei geworden ist (§ 8)."
+    },
+    {
+     "nr": "3",
+     "text": "Sonstige Personen, die auf Grund dieses Gesetzes von einer Erfindung Kenntnis erlangt haben, dürfen ihre Kenntnis weder auswerten noch bekanntgeben."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__24.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 24,
+   "zitiert": 5
+  },
+  {
+   "id": "eunorm:arbnerfg:25",
+   "label": "§ 25 ArbnErfG",
+   "titel": "Verpflichtungen aus dem Arbeitsverhältnis",
+   "nummer": "25",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "4. Gemeinsame Bestimmungen",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Sonstige Verpflichtungen, die sich für den Arbeitgeber und den Arbeitnehmer aus dem Arbeitsverhältnis ergeben, werden durch die Vorschriften dieses Gesetzes nicht berührt, soweit sich nicht daraus, daß die Erfindung frei geworden ist (§ 8), etwas anderes ergibt."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__25.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 25,
+   "zitiert": 0
+  },
+  {
+   "id": "eunorm:arbnerfg:26",
+   "label": "§ 26 ArbnErfG",
+   "titel": "Auflösung des Arbeitsverhältnisses",
+   "nummer": "26",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "4. Gemeinsame Bestimmungen",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Die Rechte und Pflichten aus diesem Gesetz werden durch die Auflösung des Arbeitsverhältnisses nicht berührt."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__26.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 26,
+   "zitiert": 10
+  },
+  {
+   "id": "eunorm:arbnerfg:27",
+   "label": "§ 27 ArbnErfG",
+   "titel": "Insolvenzverfahren",
+   "nummer": "27",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "4. Gemeinsame Bestimmungen",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Wird nach Inanspruchnahme der Diensterfindung das Insolvenzverfahren über das Vermögen des Arbeitgebers eröffnet, so gilt folgendes:\n1. Veräußert der Insolvenzverwalter die Diensterfindung mit dem Geschäftsbetrieb, so tritt der Erwerber für die Zeit von der Eröffnung des Insolvenzverfahrens an in die Vergütungspflicht des Arbeitgebers ein.\n2. Verwertet der Insolvenzverwalter die Diensterfindung im Unternehmen des Schuldners, so hat er dem Arbeitnehmer eine angemessene Vergütung für die Verwertung aus der Insolvenzmasse zu zahlen.\n3. In allen anderen Fällen hat der Insolvenzverwalter dem Arbeitnehmer die Diensterfindung sowie darauf bezogene Schutzrechtspositionen spätestens nach Ablauf eines Jahres nach Eröffnung des Insolvenzverfahrens anzubieten; im Übrigen gilt § 16 entsprechend. Nimmt der Arbeitnehmer das Angebot innerhalb von zwei Monaten nach dessen Zugang nicht an, kann der Insolvenzverwalter die Erfindung ohne Geschäftsbetrieb veräußern oder das Recht aufgeben. Im Fall der Veräußerung kann der Insolvenzverwalter mit dem Erwerber vereinbaren, dass sich dieser verpflichtet, dem Arbeitnehmer die Vergütung nach § 9 zu zahlen. Wird eine solche Vereinbarung nicht getroffen, hat der Insolvenzverwalter dem Arbeitnehmer die Vergütung aus dem Veräußerungserlös zu zahlen.\n4. Im Übrigen kann der Arbeitnehmer seine Vergütungsansprüche nach den §§ 9 bis 12 nur als Insolvenzgläubiger geltend machen."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__27.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 27,
+   "zitiert": 7
+  },
+  {
+   "id": "eunorm:arbnerfg:28",
+   "label": "§ 28 ArbnErfG",
+   "titel": "Gütliche Einigung",
+   "nummer": "28",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "In allen Streitfällen zwischen Arbeitgeber und Arbeitnehmer auf Grund dieses Gesetzes kann jederzeit die Schiedsstelle angerufen werden. Die Schiedsstelle hat zu versuchen, eine gütliche Einigung herbeizuführen."
+    }
+   ],
+   "hinweis": "In allen Streitfällen auf Grund des ArbnErfG kann die Schiedsstelle beim DPMA angerufen werden; Ziel ist eine gütliche Einigung (Einigungsvorschlag, § 34 ArbnErfG).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__28.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 28,
+   "zitiert": 407
+  },
+  {
+   "id": "eunorm:arbnerfg:29",
+   "label": "§ 29 ArbnErfG",
+   "titel": "Errichtung der Schiedsstelle",
+   "nummer": "29",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Schiedsstelle wird beim Deutschen Patent- und Markenamt errichtet."
+    },
+    {
+     "nr": "2",
+     "text": "Die Schiedsstelle kann außerhalb ihres Sitzes zusammentreten."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__29.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 29,
+   "zitiert": 8
+  },
+  {
+   "id": "eunorm:arbnerfg:30",
+   "label": "§ 30 ArbnErfG",
+   "titel": "Besetzung der Schiedsstelle",
+   "nummer": "30",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Schiedsstelle besteht aus einem Vorsitzenden oder seinem Vertreter und zwei Beisitzern."
+    },
+    {
+     "nr": "2",
+     "text": "Der Vorsitzende und sein Vertreter sollen die Befähigung zum Richteramt nach dem Deutschen Richtergesetz besitzen. Sie werden vom Bundesministerium der Justiz und für Verbraucherschutz für die Dauer von vier Jahren berufen. Eine Wiederberufung ist zulässig."
+    },
+    {
+     "nr": "3",
+     "text": "Die Beisitzer sollen auf dem Gebiet der Technik, auf das sich die Erfindung oder der technische Verbesserungsvorschlag bezieht, besondere Erfahrung besitzen. Sie werden vom Präsidenten des Deutschen Patent- und Markenamts aus den Mitgliedern oder Hilfsmitgliedern des Patentamts für den einzelnen Streitfall berufen."
+    },
+    {
+     "nr": "4",
+     "text": "Auf Antrag eines Beteiligten ist die Besetzung der Schiedsstelle um je einen Beisitzer aus Kreisen der Arbeitgeber und der Arbeitnehmer zu erweitern. Diese Beisitzer werden vom Präsidenten des Deutschen Patent- und Markenamts aus Vorschlagslisten ausgewählt und für den einzelnen Streitfall bestellt. Zur Einreichung von Vorschlagslisten sind berechtigt die in § 11 genannten Spitzenorganisationen, ferner die Gewerkschaften und die selbständigen Vereinigungen von Arbeitnehmern mit sozial- oder berufspolitischer Zwecksetzung, die keiner dieser Spitzenorganisationen angeschlossen sind, wenn ihnen eine erhebliche Zahl von Arbeitnehmern angehört, von denen nach der ihnen im Betrieb obliegenden Tätigkeit erfinderische Leistungen erwartet werden."
+    },
+    {
+     "nr": "5",
+     "text": "Der Präsident des Deutschen Patent- und Markenamts soll den Beisitzer nach Absatz 4 aus der Vorschlagsliste derjenigen Organisation auswählen, welcher der Beteiligte angehört, wenn der Beteiligte seine Zugehörigkeit zu einer Organisation vor der Auswahl der Schiedsstelle mitgeteilt hat."
+    },
+    {
+     "nr": "6",
+     "text": "Die Dienstaufsicht über die Schiedsstelle führt der Vorsitzende, die Dienstaufsicht über den Vorsitzenden der Präsident des Deutschen Patent- und Markenamts. Die Mitglieder der Schiedsstelle sind an Weisungen nicht gebunden."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__30.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 30,
+   "zitiert": 4
+  },
+  {
+   "id": "eunorm:arbnerfg:31",
+   "label": "§ 31 ArbnErfG",
+   "titel": "Anrufung der Schiedsstelle",
+   "nummer": "31",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Anrufung der Schiedsstelle erfolgt durch schriftlichen Antrag. Der Antrag soll in zwei Stücken eingereicht werden. Er soll eine kurze Darstellung des Sachverhalts sowie Namen und Anschrift des anderen Beteiligten enthalten."
+    },
+    {
+     "nr": "2",
+     "text": "Der Antrag wird vom Vorsitzenden der Schiedsstelle dem anderen Beteiligten mit der Aufforderung zugestellt, sich innerhalb einer bestimmten Frist zu dem Antrag schriftlich zu äußern."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__31.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 31,
+   "zitiert": 16
+  },
+  {
+   "id": "eunorm:arbnerfg:32",
+   "label": "§ 32 ArbnErfG",
+   "titel": "Antrag auf Erweiterung der Schiedsstelle",
+   "nummer": "32",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von demjenigen, der die Schiedsstelle anruft, zugleich mit der Anrufung (§ 31 Abs. 1), von dem anderen Beteiligten innerhalb von zwei Wochen nach Zustellung des die Anrufung enthaltenden Antrags (§ 31 Abs. 2) zu stellen."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__32.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 32,
+   "zitiert": 2
+  },
+  {
+   "id": "eunorm:arbnerfg:33",
+   "label": "§ 33 ArbnErfG",
+   "titel": "Verfahren vor der Schiedsstelle",
+   "nummer": "33",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Auf das Verfahren vor der Schiedsstelle sind §§ 41 bis 48, 1042 Abs. 1 und § 1050 der Zivilprozeßordnung sinngemäß anzuwenden. § 1042 Abs. 2 der Zivilprozeßordnung ist mit der Maßgabe sinngemäß anzuwenden, daß auch Patentanwälte und Erlaubnisscheininhaber (Artikel 3 des Zweiten Gesetzes zur Änderung und Überleitung von Vorschriften auf dem Gebiet des gewerblichen Rechtsschutzes vom 2. Juli 1949 - WiGBl. S. 179) sowie Verbandsvertreter im Sinne des § 11 des Arbeitsgerichtsgesetzes von der Schiedsstelle nicht zurückgewiesen werden dürfen."
+    },
+    {
+     "nr": "2",
+     "text": "Im übrigen bestimmt die Schiedsstelle das Verfahren selbst."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__33.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 33,
+   "zitiert": 28
+  },
+  {
+   "id": "eunorm:arbnerfg:34",
+   "label": "§ 34 ArbnErfG",
+   "titel": "Einigungsvorschlag der Schiedsstelle",
+   "nummer": "34",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Die Schiedsstelle faßt ihre Beschlüsse mit Stimmenmehrheit, § 196 Abs. 2 des Gerichtsverfassungsgesetzes ist anzuwenden."
+    },
+    {
+     "nr": "2",
+     "text": "Die Schiedsstelle hat den Beteiligten einen Einigungsvorschlag zu machen. Der Einigungsvorschlag ist zu begründen und von sämtlichen Mitgliedern der Schiedsstelle zu unterschreiben. Auf die Möglichkeit des Widerspruchs und die Folgen bei Versäumung der Widerspruchsfrist ist in dem Einigungsvorschlag hinzuweisen. Der Einigungsvorschlag ist den Beteiligten zuzustellen."
+    },
+    {
+     "nr": "3",
+     "text": "Der Einigungsvorschlag gilt als angenommen und eine dem Inhalt des Vorschlags entsprechende Vereinbarung als zustande gekommen, wenn nicht innerhalb eines Monats nach Zustellung des Vorschlages ein schriftlicher Widerspruch eines der Beteiligten bei der Schiedsstelle eingeht."
+    },
+    {
+     "nr": "4",
+     "text": "Ist einer der Beteiligten durch unabwendbaren Zufall verhindert worden, den Widerspruch rechtzeitig einzulegen, so ist er auf Antrag wieder in den vorigen Stand einzusetzen. Der Antrag muß innerhalb eines Monats nach Wegfall des Hindernisses schriftlich bei der Schiedsstelle eingereicht werden. Innerhalb dieser Frist ist der Widerspruch nachzuholen. Der Antrag muß die Tatsachen, auf die er gestützt wird, und die Mittel angeben, mit denen diese Tatsachen glaubhaft gemacht werden. Ein Jahr nach Zustellung des Einigungsvorschlages kann die Wiedereinsetzung nicht mehr beantragt und der Widerspruch nicht mehr nachgeholt werden."
+    },
+    {
+     "nr": "5",
+     "text": "Über den Wiedereinsetzungsantrag entscheidet die Schiedsstelle. Gegen die Entscheidung der Schiedsstelle findet die sofortige Beschwerde nach den Vorschriften der Zivilprozeßordnung an das für den Sitz des Antragstellers zuständige Landgericht statt."
+    }
+   ],
+   "hinweis": "Der Einigungsvorschlag gilt als angenommen und wird verbindlich, wenn nicht binnen eines Monats nach Zustellung schriftlich widersprochen wird (Abs. 3).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__34.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 34,
+   "zitiert": 38
+  },
+  {
+   "id": "eunorm:arbnerfg:35",
+   "label": "§ 35 ArbnErfG",
+   "titel": "Erfolglose Beendigung des Schiedsverfahrens",
+   "nummer": "35",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Das Verfahren vor der Schiedsstelle ist erfolglos beendet,\n1. wenn sich der andere Beteiligte innerhalb der ihm nach § 31 Abs. 2 gesetzten Frist nicht geäußert hat;\n2. wenn er es abgelehnt hat, sich auf das Verfahren vor der Schiedsstelle einzulassen;\n3. wenn innerhalb der Frist des § 34 Abs. 3 ein schriftlicher Widerspruch eines der Beteiligten bei der Schiedsstelle eingegangen ist."
+    },
+    {
+     "nr": "2",
+     "text": "Der Vorsitzende der Schiedsstelle teilt die erfolglose Beendigung des Schiedsverfahrens den Beteiligten mit."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__35.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 35,
+   "zitiert": 12
+  },
+  {
+   "id": "eunorm:arbnerfg:36",
+   "label": "§ 36 ArbnErfG",
+   "titel": "Kosten des Schiedsverfahrens",
+   "nummer": "36",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "5. Schiedsverfahren",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Im Verfahren vor der Schiedsstelle werden keine Gebühren oder Auslagen erhoben."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__36.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 36,
+   "zitiert": 5
+  },
+  {
+   "id": "eunorm:arbnerfg:37",
+   "label": "§ 37 ArbnErfG",
+   "titel": "Voraussetzungen für die Erhebung der Klage",
+   "nummer": "37",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "6. Gerichtliches Verfahren",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Rechte oder Rechtsverhältnisse, die in diesem Gesetz geregelt sind, können im Wege der Klage erst geltend gemacht werden, nachdem ein Verfahren vor der Schiedsstelle vorausgegangen ist."
+    },
+    {
+     "nr": "2",
+     "text": "Dies gilt nicht,\n1. wenn mit der Klage Rechte aus einer Vereinbarung (§§ 12, 19, 22, 34) geltend gemacht werden oder die Klage darauf gestützt wird, daß die Vereinbarung nicht rechtswirksam sei;\n2. wenn seit der Anrufung der Schiedsstelle sechs Monate verstrichen sind;\n3. wenn der Arbeitnehmer aus dem Betrieb des Arbeitgebers ausgeschieden ist;\n4. wenn die Parteien vereinbart haben, von der Anrufung der Schiedsstelle abzusehen. Diese Vereinbarung kann erst getroffen werden, nachdem der Streitfall (§ 28) eingetreten ist. Sie bedarf der Schriftform."
+    },
+    {
+     "nr": "3",
+     "text": "Einer Vereinbarung nach Absatz 2 Nr. 4 steht es gleich, wenn beide Parteien zur Hauptsache mündlich verhandelt haben, ohne geltend zu machen, daß die Schiedsstelle nicht angerufen worden ist."
+    },
+    {
+     "nr": "4",
+     "text": "Der vorherigen Anrufung der Schiedsstelle bedarf es ferner nicht für Anträge auf Anordnung eines Arrestes oder einer einstweiligen Verfügung."
+    },
+    {
+     "nr": "5",
+     "text": "Die Klage ist nach Erlaß eines Arrestes oder einer einstweiligen Verfügung ohne die Beschränkung des Absatzes 1 zulässig, wenn der Partei nach den §§ 926, 936 der Zivilprozeßordnung eine Frist zur Erhebung der Klage bestimmt worden ist."
+    }
+   ],
+   "hinweis": "Klage erst nach einem Verfahren vor der Schiedsstelle (Abs. 1), außer in den Fällen des Abs. 2 (u. a. Ausscheiden des Arbeitnehmers, sechs Monate seit Anrufung, Verzicht beider Parteien nach Entstehen des Streits).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__37.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 37,
+   "zitiert": 72
+  },
+  {
+   "id": "eunorm:arbnerfg:38",
+   "label": "§ 38 ArbnErfG",
+   "titel": "Klage auf angemessene Vergütung",
+   "nummer": "38",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "6. Gerichtliches Verfahren",
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Besteht Streit über die Höhe der Vergütung, so kann die Klage auch auf Zahlung eines vom Gericht zu bestimmenden angemessenen Betrages gerichtet werden."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__38.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 38,
+   "zitiert": 1
+  },
+  {
+   "id": "eunorm:arbnerfg:39",
+   "label": "§ 39 ArbnErfG",
+   "titel": "Zuständigkeit",
+   "nummer": "39",
+   "kapitel": "Zweiter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im privaten Dienst",
+   "abschnitt": "6. Gerichtliches Verfahren",
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "Für alle Rechtsstreitigkeiten über Erfindungen eines Arbeitnehmers sind die für Patentstreitsachen zuständigen Gerichte (§ 143 des Patentgesetzes) ohne Rücksicht auf den Streitwert ausschließlich zuständig. Die Vorschriften über das Verfahren in Patentstreitsachen sind anzuwenden."
+    },
+    {
+     "nr": "2",
+     "text": "Ausgenommen von der Regelung des Absatzes 1 sind Rechtsstreitigkeiten, die ausschließlich Ansprüche auf Leistung einer festgestellten oder festgesetzten Vergütung für eine Erfindung zum Gegenstand haben."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__39.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 39,
+   "zitiert": 8
+  },
+  {
+   "id": "eunorm:arbnerfg:40",
+   "label": "§ 40 ArbnErfG",
+   "titel": "Arbeitnehmer im öffentlichen Dienst",
+   "nummer": "40",
+   "kapitel": "Dritter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im öffentlichen Dienst, von Beamten und Soldaten",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Auf Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern, die in Betrieben und Verwaltungen des Bundes, der Länder, der Gemeinden und sonstigen Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts beschäftigt sind, sind die Vorschriften für Arbeitnehmer im privaten Dienst mit folgender Maßgabe anzuwenden:\n1. An Stelle der Inanspruchnahme der Diensterfindung kann der Arbeitgeber eine angemessene Beteiligung an dem Ertrag der Diensterfindung in Anspruch nehmen, wenn dies vorher vereinbart worden ist. Über die Höhe der Beteiligung können im voraus bindende Abmachungen getroffen werden. Kommt eine Vereinbarung über die Höhe der Beteiligung nicht zustande, so hat der Arbeitgeber sie festzusetzen. § 12 Abs. 3 bis 6 ist entsprechend anzuwenden.\n2. Die Behandlung von technischen Verbesserungsvorschlägen nach § 20 Abs. 2 kann auch durch Dienstvereinbarung geregelt werden; Vorschriften, nach denen die Einigung über die Dienstvereinbarung durch die Entscheidung einer höheren Dienststelle oder einer dritten Stelle ersetzt werden kann, finden keine Anwendung.\n3. Dem Arbeitnehmer können im öffentlichen Interesse durch allgemeine Anordnung der zuständigen obersten Dienstbehörde Beschränkungen hinsichtlich der Art der Verwertung der Diensterfindung auferlegt werden.\n4. Zur Einreichung von Vorschlagslisten für Arbeitgeberbeisitzer (§ 30 Abs. 4) sind auch die Bundesregierung und die Landesregierungen berechtigt.\n5. Soweit öffentliche Verwaltungen eigene Schiedsstellen zur Beilegung von Streitigkeiten auf Grund dieses Gesetzes errichtet haben, finden die Vorschriften der §§ 29 bis 32 keine Anwendung."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__40.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 40,
+   "zitiert": 2
+  },
+  {
+   "id": "eunorm:arbnerfg:41",
+   "label": "§ 41 ArbnErfG",
+   "titel": "Beamte, Soldaten",
+   "nummer": "41",
+   "kapitel": "Dritter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im öffentlichen Dienst, von Beamten und Soldaten",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Auf Erfindungen und technische Verbesserungsvorschläge von Beamten und Soldaten sind die Vorschriften für Arbeitnehmer im öffentlichen Dienst entsprechend anzuwenden."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__41.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 41,
+   "zitiert": 5
+  },
+  {
+   "id": "eunorm:arbnerfg:42",
+   "label": "§ 42 ArbnErfG",
+   "titel": "Besondere Bestimmungen für Erfindungen an Hochschulen",
+   "nummer": "42",
+   "kapitel": "Dritter Abschnitt Erfindungen und technische Verbesserungsvorschläge von Arbeitnehmern im öffentlichen Dienst, von Beamten und Soldaten",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Für Erfindungen der an einer Hochschule Beschäftigten gelten folgende besonderen Bestimmungen:\n1. Der Erfinder ist berechtigt, die Diensterfindung im Rahmen seiner Lehr- und Forschungstätigkeit zu offenbaren, wenn er dies dem Dienstherrn rechtzeitig, in der Regel zwei Monate zuvor, angezeigt hat. § 24 Abs. 2 findet insoweit keine Anwendung.\n2. Lehnt ein Erfinder aufgrund seiner Lehr- und Forschungsfreiheit die Offenbarung seiner Diensterfindung ab, so ist er nicht verpflichtet, die Erfindung dem Dienstherrn zu melden. Will der Erfinder seine Erfindung zu einem späteren Zeitpunkt offenbaren, so hat er dem Dienstherrn die Erfindung unverzüglich zu melden.\n3. Dem Erfinder bleibt im Fall der Inanspruchnahme der Diensterfindung ein nichtausschließliches Recht zur Benutzung der Diensterfindung im Rahmen seiner Lehr- und Forschungstätigkeit.\n4. Verwertet der Dienstherr die Erfindung, beträgt die Höhe der Vergütung 30 vom Hundert der durch die Verwertung erzielten Einnahmen.\n5. § 40 Nr. 1 findet keine Anwendung."
+    }
+   ],
+   "hinweis": "Hochschulerfinder: Publikationsfreiheit nach Anzeige (Nr. 1), negative Publikationsfreiheit (Nr. 2), Benutzungsrecht für Lehre und Forschung (Nr. 3), Vergütung pauschal 30 % der Verwertungseinnahmen (Nr. 4).",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__42.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 42,
+   "kommentar": [
+    {
+     "rn": 1,
+     "titel": "Hochschulbegriff",
+     "text": "Hochschule im Sinne des § 42 ArbnErfG ist jede Einrichtung, die nach Landesrecht staatliche Hochschule ist. Ein Universitätsklinikum gehört unabhängig von seiner Rechtsform dazu, weil Forschung, Lehre und Krankenversorgung dort verfassungsrechtlich geboten verzahnt sind. Beschäftigte sind alle, die dort arbeiten: Beamte und Angestellte, wissenschaftliches, technisches und sonstiges Personal.",
+     "absatz": "",
+     "belege": [
+      {
+       "az": "Arb.Erf. 12/23",
+       "datum": "2026-06-16",
+       "g": "Schiedsstelle",
+       "typ": "TeilEinigungsvorschlag",
+       "name": "",
+       "url": "https://www.dpma.de/docs/dpma/schiedsstelle/2026/arb_erf_12_23_ev_16062026.pdf"
+      }
+     ]
+    },
+    {
+     "rn": 2,
+     "titel": "30 % der Einnahmen",
+     "text": "Für Hochschulbeschäftigte bestimmt sich die Höhe der Vergütung ausnahmslos nach § 42 Nr. 4 ArbnErfG, nicht nach § 9 Abs. 2 ArbnErfG: Es gibt weder Erfindungswert noch Anteilsfaktor. Einnahmen sind alle geldwerten Vorteile, die der Hochschule aus der Verwertung zufließen, auch ein ersparter betrieblicher Nutzen; ihn über einen „Umrechnungsfaktor“ (Lizenzsatz) zu kürzen, ist systemwidrig.",
+     "absatz": "Nr. 4",
+     "belege": [
+      {
+       "az": "Arb.Erf. 12/23",
+       "datum": "2026-06-16",
+       "g": "Schiedsstelle",
+       "typ": "TeilEinigungsvorschlag",
+       "name": "",
+       "url": "https://www.dpma.de/docs/dpma/schiedsstelle/2026/arb_erf_12_23_ev_16062026.pdf"
+      }
+     ]
+    }
+   ],
+   "zitiert": 21
+  },
+  {
+   "id": "eunorm:arbnerfg:43",
+   "label": "§ 43 ArbnErfG",
+   "titel": "Übergangsvorschrift",
+   "nummer": "43",
+   "kapitel": "Vierter Abschnitt Übergangs- und Schlußbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": "1",
+     "text": "§ 42 in der am 7. Februar 2002 (BGBl. I S. 414) geltenden Fassung dieses Gesetzes findet nur Anwendung auf Erfindungen, die nach dem 6. Februar 2002 gemacht worden sind. Abweichend von Satz 1 ist in den Fällen, in denen sich Professoren, Dozenten oder wissenschaftliche Assistenten an einer wissenschaftlichen Hochschule zur Übertragung der Rechte an einer Erfindung gegenüber einem Dritten vor dem 18. Juli 2001 vertraglich verpflichtet haben, § 42 des Gesetzes über Arbeitnehmererfindungen in der bis zum 6. Februar 2002 geltenden Fassung bis zum 7. Februar 2003 weiter anzuwenden."
+    },
+    {
+     "nr": "2",
+     "text": "Für die vor dem 7. Februar 2002 von den an einer Hochschule Beschäftigten gemachten Erfindungen sind die Vorschriften des Gesetzes über Arbeitnehmererfindungen in der bis zum 6. Februar 2002 geltenden Fassung anzuwenden. Das Recht der Professoren, Dozenten und wissenschaftlichen Assistenten an einer wissenschaftlichen Hochschule, dem Dienstherrn ihre vor dem 6. Februar 2002 gemachten Erfindungen anzubieten, bleibt unberührt."
+    },
+    {
+     "nr": "3",
+     "text": "Auf Erfindungen, die vor dem 1. Oktober 2009 gemeldet wurden, sind die Vorschriften dieses Gesetzes in der bis zum 30. September 2009 geltenden Fassung weiter anzuwenden. Für technische Verbesserungsvorschläge gilt Satz 1 entsprechend."
+    }
+   ],
+   "hinweis": "Übergangsrecht: Auf Erfindungen, die vor dem 1.10.2009 gemeldet wurden, ist das ArbnErfG in der bis dahin geltenden Fassung anzuwenden (Abs. 3); die Schiedsstelle prüft deshalb stets zuerst den Meldezeitpunkt.",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__43.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 43,
+   "zitiert": 98
+  },
+  {
+   "id": "eunorm:arbnerfg:44",
+   "label": "§ 44 ArbnErfG",
+   "titel": "(weggefallen)",
+   "nummer": "44",
+   "kapitel": "Vierter Abschnitt Übergangs- und Schlußbestimmungen",
+   "abschnitt": null,
+   "absaetze": [],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__44.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 44,
+   "zitiert": 0
+  },
+  {
+   "id": "eunorm:arbnerfg:45",
+   "label": "§ 45 ArbnErfG",
+   "titel": "Durchführungsbestimmungen",
+   "nummer": "45",
+   "kapitel": "Vierter Abschnitt Übergangs- und Schlußbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Das Bundesministerium der Justiz und für Verbraucherschutz wird ermächtigt, im Einvernehmen mit dem Bundesministerium für Arbeit und Soziales die für die Erweiterung der Besetzung der Schiedsstelle (§ 30 Abs. 4 und 5) erforderlichen Durchführungsbestimmungen zu erlassen. Insbesondere kann es bestimmen,\n1. welche persönlichen Voraussetzungen Personen erfüllen müssen, die als Beisitzer aus Kreisen der Arbeitgeber oder der Arbeitnehmer vorgeschlagen werden;\n2. wie die auf Grund der Vorschlagslisten ausgewählten Beisitzer für ihre Tätigkeit zu entschädigen sind."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__45.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 45,
+   "zitiert": 0
+  },
+  {
+   "id": "eunorm:arbnerfg:46",
+   "label": "§ 46 ArbnErfG",
+   "titel": "Außerkrafttreten von Vorschriften",
+   "nummer": "46",
+   "kapitel": "Vierter Abschnitt Übergangs- und Schlußbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Mit dem Inkrafttreten dieses Gesetzes werden folgende Vorschriften aufgehoben, soweit sie nicht bereits außer Kraft getreten sind:\n1. die Verordnung über die Behandlung von Erfindungen von Gefolgschaftsmitgliedern vom 12. Juli 1942 (Reichsgesetzbl. I S. 466);\n2. die Durchführungsverordnung zur Verordnung über die Behandlung von Erfindungen von Gefolgschaftsmitgliedern vom 20. März 1943 (Reichsgesetzbl. I S. 257)."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__46.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 46,
+   "zitiert": 0
+  },
+  {
+   "id": "eunorm:arbnerfg:47",
+   "label": "§ 47 ArbnErfG",
+   "titel": "(weggefallen)",
+   "nummer": "47",
+   "kapitel": "Vierter Abschnitt Übergangs- und Schlußbestimmungen",
+   "abschnitt": null,
+   "absaetze": [],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__47.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 47,
+   "zitiert": 0
+  },
+  {
+   "id": "eunorm:arbnerfg:48",
+   "label": "§ 48 ArbnErfG",
+   "titel": "(weggefallen)",
+   "nummer": "48",
+   "kapitel": "Vierter Abschnitt Übergangs- und Schlußbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "-"
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__48.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 48,
+   "zitiert": 0
+  },
+  {
+   "id": "eunorm:arbnerfg:49",
+   "label": "§ 49 ArbnErfG",
+   "titel": "Inkrafttreten",
+   "nummer": "49",
+   "kapitel": "Vierter Abschnitt Übergangs- und Schlußbestimmungen",
+   "abschnitt": null,
+   "absaetze": [
+    {
+     "nr": null,
+     "text": "Dieses Gesetz tritt am 1. Oktober 1957 in Kraft."
+    }
+   ],
+   "hinweis": "",
+   "umsetzung_weitere": {},
+   "type": "eunorm",
+   "rl": "arbnerfg",
+   "kurz": "ArbnErfG",
+   "gesetz": "ArbnErfG (Gesetz über Arbeitnehmererfindungen vom 25.7.1957, zuletzt geändert 7.7.2021)",
+   "url": "https://www.gesetze-im-internet.de/arbnerfg/__49.html",
+   "url_pdf": "https://www.gesetze-im-internet.de/arbnerfg/xml.zip",
+   "paraphrase": false,
+   "zitat": "§",
+   "korpus": "arbnerfg",
+   "order": 49,
+   "zitiert": 0
+  },
+  {
    "id": "eunorm:designg:1",
    "label": "§ 1 DesignG",
    "titel": "Begriffsbestimmungen",
@@ -43825,6 +45391,350 @@
    "provider": "DPMA-Prüfungsrichtlinien"
   },
   {
+   "id": "source:vrl:1",
+   "type": "source",
+   "label": "RL Nr. 1: Zweck: Anhaltspunkte, keine verbindlichen Vorschriften",
+   "summary": "Die Richtlinien sollen dazu dienen, die angemessene Vergütung zu ermitteln, die dem Arbeitnehmer für unbeschränkt oder beschränkt in Anspruch genommene Diensterfindungen (§ 9 Abs. 1 und § 10 Abs. 1 des Gesetzes) und für technische Verbesserungsvorschläge im Sinne des § 20 Abs. 1 des Gesetzes zusteht; sie sind keine verbindlichen Vorschriften, sondern geben nur Anhaltspunkte für die Vergütung. Wenn im Einzelfall die bisherige betriebliche Praxis für die Arbeitnehmer günstiger war, sollen die Richtlinien nicht zum Anlaß für eine Verschlechterung genommen werden.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=1",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:2",
+   "type": "source",
+   "label": "RL Nr. 2: Aufbau: Erfindungswert × Anteilsfaktor; kein doppelter Ansatz",
+   "summary": "Nach § 9 Abs. 2 des Gesetzes sind für die Bemessung der Vergütung insbesondere die wirtschaftliche Verwertbarkeit der Diensterfindung, die Aufgaben und die Stellung des Arbeitnehmers im Betrieb sowie der Anteil des Betriebes am Zustandekommen der Diensterfindung maßgebend. Hiernach wird bei der Ermittlung der Vergütung in der Regel so zu verfahren sein, daß zunächst die wirtschaftliche Verwertbarkeit der Erfindung ermittelt wird. Die wirtschaftliche Verwertbarkeit (im folgenden als Erfindungswert bezeichnet) wird im ersten Teil der Richtlinien behandelt). Da es sich hier jedoch nicht um eine freie Erfindung handelt, sondern um eine Erfindung, die entweder aus der dem Arbeitnehmer im Betrieb obliegenden Tätigkeit entstanden ist oder maßgeblich auf Erfahrungen oder Arbeiten des Betriebes beruht, ist ein Abzug zu machen, der den Aufgaben und der Stellung des Arbeitnehmers im Betrieb sowie dem Anteil des Betriebes am Zustandekommen der Diensterfindung entspricht. Dieser Abzug wird im Zweiten Teil der Richtlinien behandelt; der Anteil am Erfindungswert, der sich für den Arbeitnehmer unter Berücksichtigung des Abzugs ergibt, wird hierbei in Form eines in Prozenten ausgedrückten Anteilsfaktors ermittelt. Der dritte Teil der Richtlinien behandelt die rechnerische Ermittlung der Vergütung sowie Fragen der Zahlungsart und Zahlungsdauer. Bei jeder Vergütungsberechnung ist darauf zu achten, daß derselbe Gesichtspunkt für eine Erhöhung oder Ermäßigung der Vergütung nicht mehrfach berücksichtigt werden darf. Die einzelnen Absätze der Richtlinien sind mit Randnummern versehen, um die Zitierung zu erleichtern.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=1",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:3",
+   "type": "source",
+   "label": "RL Nr. 3: Drei Methoden: Lizenzanalogie, erfassbarer Nutzen, Schätzung",
+   "summary": "Bei betrieblich benutzten Erfindungen kann der Erfindungswert in der Regel (über Ausnahmen vgl. Nummer 4) nach drei verschiedenen Methoden ermittelt werden: a) Ermittlung des Erfindungswertes nach der Lizenzanalogie (Nummer 6 ff.): Bei dieser Methode wird der Lizenzsatz, der für vergleichbare Fälle bei freien Erfindungen in der Praxis üblich ist, der Ermittlung des Erfindungswertes zugrunde gelegt. Der in Prozenten oder als bestimmter Geldbetrag je Stück oder Gewichtseinheit (vgl. Nummer 39) ausgedrückte Lizenzsatz wird auf eine bestimmte Bezugsgröße (Umsatz oder Erzeugung) bezogen. Dann ist der Erfindungswert die mit dem Lizenzsatz multiplizierte Bezugsgröße. b) Ermittlung des Erfindungswertes nach dem erfaßbaren betrieblichen Nutzen (Nummer 12): Der Erfindungswert kann ferner nach dem erfaßbaren Nutzen ermittelt werden, der dem Betrieb aus der Benutzung der Erfindung erwachsen ist. c) Schätzung des Erfindungswertes (Nummer 13): Schließlich kann der Erfindungswert geschätzt werden.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=3",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:4",
+   "type": "source",
+   "label": "RL Nr. 4: Andere Analogiemethoden (Kaufpreisanalogie)",
+   "summary": "Neben der Methode der Lizenzanalogie nach Nummer 3 a kommen im Einzelfall auch andere Analogiemethoden in Betracht. So kann anstatt von dem analogen Lizenzsatz von der Analogie zum Kaufpreis ausgegangen werden, wenn eine Gesamtabfindung (vgl. Nummer 40) angezeigt ist und der Kaufpreis bekannt ist, der in vergleichbaren Fällen mit freien Erfindern üblicherweise vereinbart wird. Für die Vergleichbarkeit und die Notwendigkeit, den Kaufpreis auf das Maß zu bringen, das für die zu beurteilende Diensterfindung richtig ist, gilt das unter Nummer 9 Gesagte entsprechend.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=3",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:5",
+   "type": "source",
+   "label": "RL Nr. 5: Wahl der Methode",
+   "summary": "Welche der unter Nummer 3 und 4 aufgeführten Methoden anzuwenden ist, hängt von den Umständen des einzelnen Falles ab. Wenn der Industriezweig mit Lizenzsätzen oder Kaufpreisen vertraut ist, die für die Übernahme eines ähnlichen Erzeugnisses oder Verfahrens üblicherweise vereinbart wird, kann von der Lizenzanalogie ausgegangen werden. Die Ermittlung des Erfindungswertes nach dem erfaßbaren betrieblichen Nutzen kommt vor allem bei Erfindungen in Betracht, mit deren Hilfe Ersparnisse erzielt werden, sowie bei Verbesserungserfindungen, wenn die Verbesserung nicht derart ist, daß der mit dem verbesserten Gegenstand erzielte Umsatz als Bewertungsgrundlage dienen kann; sie kann ferner bei Erfindungen angewandt werden, die nur innerbetrieblich verwendete Erzeugnisse, Maschinen oder Vorrichtungen betreffen, und bei Erfindungen, die nur innerbetrieblich verwendete Verfahren betreffen, bei denen der Umsatz keine genügende Bewertungsgrundlage darstellt. Die Methode der Ermittlung des Erfindungswertes nach dem erfaßbaren betrieblichen Nutzen hat den Nachteil, daß der Nutzen oft schwer zu ermitteln ist und die Berechnungen des Nutzens schwer überprüfbar sind. In manchen Fällen wird sich allerdings der Nutzen aus einer Verbilligung des Ausgangsmaterials, aus einer Senkung der Lohn-, Energie- oder Instandsetzungskosten oder aus einer Erhöhung der Ausbeute errechnen lassen. Bei der Wahl dieser Methode ist ferner zu berücksichtigen, daß sich für den Arbeitgeber auf Grund der Auskunfts- und Rechnungslegungspflichten, die ihm nach § 242 des Bürgerlichen Gesetzbuches obliegen können, eine Pflicht zu einer weitergehenden Darlegung betrieblicher Rechnungsvorgänge ergeben kann als bei der Ermittlung des Erfindungswertes nach der Lizenzanalogie. Der Erfindungswert wird nur dann zu schätzen sein, wenn er mit Hilfe der Methoden unter Nummer 3 a und b oder Nummer 4 nicht oder nur mit unverhältnismäßig hohen Aufwendungen ermittelt werden kann (z. B. bei Arbeitsschutzmitteln und -vorrichtungen, sofern sie nicht allgemein verwertbar sind). Es kann ferner ratsam sein, eine der Berechnungsmethoden zur Überprüfung des Ergebnisses heranzuziehen, das mit Hilfe der anderen Methoden gefunden ist.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=3",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:6",
+   "type": "source",
+   "label": "RL Nr. 6: Lizenzanalogie: Vergleichbarkeit",
+   "summary": "Bei dieser Methode ist zu prüfen, wieweit man einen Vergleich ziehen kann. Dabei ist zu beachten, ob und wieweit in den Merkmalen, die die Höhe des Lizenzsatzes beeinflussen, Übereinstimmung besteht. In Betracht zu ziehen sind insbesondere die Verbesserung oder Verschlechterung der Wirkungsweise, der Bauform, des Gewichts, des Raumbedarfs, der Genauigkeit, der Betriebssicherheit, die Verbilligung oder Verteuerung der Herstellung, vor allem der Werkstoffe und der Arbeitsstunden; die Erweiterung oder Beschränkung der Verwendbarkeit; die Frage, ob sich die Erfindung ohne weiteres in die laufende Fertigung einreihen läßt oder ob Herstellungs- und Konstruktionsänderungen notwendig sind, ob eine sofortige Verwertung möglich ist oder ob noch umfangreiche Versuche vorgenommen werden müssen; die erwartete Umsatzsteigerung, die Möglichkeit des Übergangs von Einzelanfertigung zur Serienherstellung, zusätzliche oder vereinfachte Werbungsmöglichkeiten, günstige Preisgestaltung. Es ist ferner zu prüfen, welcher Schutzumfang dem Schutzrecht zukommt, das auf den Gegenstand der Erfindung erteilt ist, und ob sich der Besitz des Schutzrechts für den Betrieb technisch und wirtschaftlich auswirkt. Vielfach wird auch beim Abschluß eines Lizenzvertrages mit einem kleinen Unternehmen ein höherer Lizenzsatz vereinbart als beim Abschluß mit einer gut eingeführten Großfirma, weil bei dieser im allgemeinen ein höherer Umsatz erwartet wird als bei kleineren Unternehmen. Außerdem ist bei dem Vergleich zu berücksichtigen, wer in den ähnlichen Fällen, die zum Vergleich herangezogen werden, die Kosten des Schutzrechts trägt.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=4",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:7",
+   "type": "source",
+   "label": "RL Nr. 7: Bezugsgröße: Umsatz oder Erzeugung",
+   "summary": "Wenn man mit dem einem freien Erfinder üblicherweise gezahlten Lizenzsatz vergleicht, so muß von derselben Bezugsgröße ausgegangen werden; als Bezugsgrößen kommen Umsatz oder Erzeugung in Betracht. Ferner ist zu berücksichtigen, ob im Analogiefall der Rechnungswert des das Werk verlassenden Erzeugnisses oder der betriebsinterne Verrechnungswert von Zwischenerzeugnissen der Ermittlung des Umsatzwertes zugrunde gelegt worden ist. Bei der Berechnung des Erfindungswertes mit Hilfe des Umsatzes oder der Erzeugung wird im allgemeinen von dem tatsächlich erzielten Umsatz oder der tatsächlich erzielten Erzeugung auszugehen sein. Mitunter wird jedoch auch von einem vereinbarten Mindestumsatz oder aber von der Umsatzsteigerung ausgegangen werden können, die durch die Erfindung erzielt worden ist.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=4",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:8",
+   "type": "source",
+   "label": "RL Nr. 8: Gesamtvorrichtung oder wertbeeinflusster Teil",
+   "summary": "Beeinflußt eine Erfindung eine Vorrichtung, die aus verschiedenen Teilen zusammengesetzt ist, so kann der Ermittlung des Erfindungswertes entweder der Wert der ganzen Vorrichtung oder nur der wertbeeinflußte Teil zugrunde gelegt werden. Es ist hierbei zu berücksichtigen, auf welcher Grundlage die Lizenz in dem betreffenden Industriezweig üblicherweise vereinbart wird, und ob üblicherweise der patentierte Teil allein oder nur in Verbindung mit der Gesamtvorrichtung bewertet wird. Dies wird häufig davon abhängen, ob durch die Benutzung der Erfindung nur der Teil oder die Gesamtvorrichtung im Wert gestiegen ist.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=5",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:9",
+   "type": "source",
+   "label": "RL Nr. 9: Erhöhung oder Ermäßigung des Lizenzsatzes",
+   "summary": "Stellt sich bei dem Vergleich heraus, daß sich die Diensterfindung und die zum Vergleich herangezogenen freien Erfindungen nicht in den genannten Gesichtspunkten entsprechen, so ist der Lizenzsatz entsprechend zu erhöhen oder zu ermäßigen. Es ist jedoch nicht gerechtfertigt, den Lizenzsatz mit der Begründung zu ermäßigen, es handele sich um eine Diensterfindung; dieser Gesichtspunkt wird erst bei der Ermittlung des Anteilsfaktors berücksichtigt.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=5",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:10",
+   "type": "source",
+   "label": "RL Nr. 10: Übliche Lizenzsätze je Industriezweig",
+   "summary": "Anhaltspunkte für die Bestimmung des Lizenzsatzes in den einzelnen Industriezweigen können daraus entnommen werden, daß z. B. im allgemeinen in der Elektroindustrie ein Lizenzsatz von 1/2 - 5%, in der Maschinen- und Werkzeugindustrie ein Lizenzsatz von 1/3 - 10%, in der chemischen Industrie ein Lizenzsatz von 2 - 5%, auf pharmazeutischem Gebiet ein Lizenzsatz von 2 - 10% vom Umsatz üblich ist.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=5",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:11",
+   "type": "source",
+   "label": "RL Nr. 11: Abstaffelung bei hohen Umsätzen",
+   "summary": "Für den Fall besonders hoher Umsätze kann die nachfolgende, bei Umsätzen über 3 Millionen DM einsetzende Staffel als Anhalt für eine Ermäßigung des Lizenzsatzes dienen, wobei jedoch im Einzelfall zu berücksichtigen ist, ob und in welcher Höhe in den verschiedenen Industriezweigen solche Ermäßigungen des Lizenzsatzes bei freien Erfindungen üblich sind: Bei einem Gesamtumsatz von 0-3 Millionen DM keine Ermäßigung des Lizenzsatzes, von 3-5 Millionen DM 10% ige Ermäßigung des Lizenzsatzes für den 3 Millionen DM übersteigenden Umsatz, von 5-10 Millionen DM 20% ige Ermäßigung des Lizenzsatzes für den 5 Millionen DM übersteigenden Umsatz, von 10-20 Millionen DM 30% ige Ermäßigung des Lizenzsatzes für den 10 Millionen DM übersteigenden Umsatz, von 20-30 Millionen DM 40% ige Ermäßigung des Lizenzsatzes für den 20 Millionen DM übersteigenden Umsatz, von 30-40 Millionen DM 50% ige Ermäßigung des Lizenzsatzes für den 30 Millionen DM übersteigenden Umsatz, von 40-50 Millionen DM 60% ige Ermäßigung des Lizenzsatzes für den 40 Millionen DM übersteigenden Umsatz, von 50-60 Millionen DM 65% ige Ermäßigung des Lizenzsatzes für den 50 Millionen DM übersteigenden Umsatz, von 60-80 Millionen DM 70% ige Ermäßigung des Lizenzsatzes für den 60 Millionen DM übersteigenden Umsatz, von 80-100 Millionen DM 75% ige Ermäßigung des Lizenzsatzes für den 80 Millionen DM übersteigenden Umsatz, von 100 Millionen DM 80% ige Ermäßigung des Lizenzsatzes für den 100 Millionen DM übersteigenden Umsatz. Beispiel: Bei einem Umsatz von 10 Millionen DM ist der Lizenzsatz wie folgt zu ermäßigen: Bis 3 Millionen DM keine Ermäßigung, für den 3 Millionen DM übersteigenden Umsatz von 2 Millionen um 10%, für den 5 Millionen DM übersteigenden Umsatz von 5 Millionen um 20%. Da bei Einzelstücken mit sehr hohem Wert in aller Regel bereits der Lizenzsatz herabgesetzt wird, ist in derartigen Fällen der Lizenzsatz nicht nach der vorstehenden Staffel zu ermäßigen, wenn schon ein einziges unter Verwendung der Erfindung hergestelltes Erzeugnis oder, sofern dem Erfindungswert nur der von der Erfindung wertbeeinflußte Teil des Erzeugnisses zugrunde gelegt wird, dieser Teil einen Wert von mehr als 3 Millionen DM hat. Dasselbe gilt, wenn wenige solcher Erzeugnisse oder nur wenige solcher Teile des Erzeugnisses einen Wert von mehr als 3 Millionen DM haben.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=5",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:12",
+   "type": "source",
+   "label": "RL Nr. 12: Erfassbarer betrieblicher Nutzen",
+   "summary": "Unter dem erfaßbaren betrieblichen Nutzen (vgl. zur Anwendung dieser Methode Nummer 5) ist die durch den Einsatz der Erfindung verursachte Differenz zwischen Kosten und Erträgen zu verstehen. Die Ermittlung dieses Betrages ist durch Kosten- und Ertragsvergleich nach betriebswirtschaftlichen Grundsätzen vorzunehmen. Hierbei sind die Grundsätze für die Preisbildung bei öffentlichen Aufträgen anzuwenden (vgl. die Verordnung PR Nr. 30/53 über die Preise bei öffentlichen Aufträgen vom 21. November 1953 und die Leitsätze für die Preisermittlung auf Grund von Selbstkosten), so daß also auch kalkulatorische Zinsen und Einzelwagnisse, ein betriebsnotwendiger Gewinn und gegebenenfalls ein kalkulatorischer Unternehmerlohn zu berücksichtigen sind. Der so ermittelte Betrag stellt den Erfindungswert dar. Kosten, die vor der Fertigstellung der Erfindung auf die Erfindung verwandt worden sind, sind bei der Ermittlung des Erfindungswertes nicht abzusetzen. Sie sind vielmehr bei der Ermittlung des Anteilsfaktors im Zweiten Teil der Richtlinien zu berücksichtigen, und zwar, soweit es sich um die Kosten für die Arbeitskraft des Erfinders selbst handelt, entsprechend der Tabelle c in Nummer 34, soweit es sich um sonstige Kosten vor der Fertigstellung der Erfindung handelt, entsprechend der Tabelle b in Nummer 32 (technische Hilfsmittel).",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=6",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:13",
+   "type": "source",
+   "label": "RL Nr. 13: Schätzung",
+   "summary": "In einer Reihe von Fällen versagen die dargestellten Methoden zur Ermittlung des Erfindungswertes, weil keine ähnlichen Fälle vorliegen oder weil ein Nutzen nicht erfaßt werden kann. In solchen oder ähnlichen Fällen muß der Erfindungswert geschätzt werden (vgl. zur Anwendung der Schätzungsmethode den letzten Absatz der Nummer 5). Hierbei kann von dem Preis ausgegangen werden, den der Betrieb hätte aufwenden müssen, wenn er die Erfindung von einem freien Erfinder hätte erwerben wollen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=7",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:14",
+   "type": "source",
+   "label": "RL Nr. 14: Lizenzvergabe: Nettolizenzeinnahme",
+   "summary": "Wird die Erfindung nicht betrieblich benutzt, sondern durch Vergabe von Lizenzen verwertet, so ist der Erfindungswert gleich der Nettolizenzeinnahme. Um den Nettobetrag festzustellen, sind von der Bruttolizenzeinnahme die Kosten der Entwicklung nach Fertigstellung der Erfindung abzuziehen sowie die Kosten, die aufgewandt wurden, um die Erfindung betriebsreif zu machen; ferner sind die auf die Lizenzvergabe im Einzelfall entfallenden Kosten der Patent- und Lizenzverwaltung, der Schutzrechtsübertragung, sowie die mit der Lizenzvergabe zusammenhängenden Aufwendungen (z. B. Steuern, mit Ausnahme der inländischen reinen Ertragssteuern, Verhandlungskosten) abzuziehen. Soweit solche Kosten entstanden sind, wird außerdem ein entsprechender Anteil an den Gemeinkosten des Arbeitgebers zu berücksichtigen sein, soweit die Gemeinkosten nicht schon in den vorgenannten Kosten enthalten sind. Ferner ist bei der Ermittlung der Nettolizenzeinnahme darauf zu achten, ob im Einzelfall der Arbeitgeber als Lizenzgeber ein Risiko insofern eingeht, als er auch in der Zukunft Aufwendungen durch die Verteidigung der Schutzrechte, durch die Verfolgung von Verletzungen und aus der Einhaltung von Gewährleistungen haben kann. Soweit die Einnahmen nicht auf der Lizenzvergabe, sondern auf der Übermittlung besonderer Erfahrungen (know how) beruht, sind diese Einnahmen bei der Berechnung des Erfindungswertes von der Bruttolizenzeinnahme ebenfalls abzuziehen, wenn diese Erfahrungen nicht als technische Verbesserungsvorschläge im Sinne des § 20 Abs. 1 des Gesetzes anzusehen sind. Bei der Beurteilung der Frage, ob und wieweit die Einnahme auf der Übermittlung besonderer Erfahrungen beruht, ist nicht allein auf den Inhalt des Lizenzvertrages abzustellen; vielmehr ist das tatsächliche Verhältnis des Wertes der Lizenz zu dem der Übermittlung besonderer Erfahrungen zu berücksichtigen. Eine Ermäßigung nach der Staffel in Nummer 11 ist nur insoweit angemessen, als sie auch dem Lizenznehmer des Arbeitgebers eingeräumt worden ist.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=7",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:15",
+   "type": "source",
+   "label": "RL Nr. 15: Lizenzeinnahmen: Abzüge und Umrechnung",
+   "summary": "Macht die Berechnung dieser Unkosten und Aufgaben große Schwierigkeiten, so kann es zweckmäßig sein, in Analogie zu den üblichen Arten der vertraglichen Ausgestaltung zwischen einem freien Erfinder als Lizenzgeber und dem Arbeitgeber als Lizenznehmer zu verfahren. In der Praxis wird ein freier Erfinder wegen der bezeichneten Kosten und Aufgaben eines Generallizenznehmers (Lizenznehmer einer ausschließlichen unbeschränkten Lizenz) mit etwa 20 bis 50%, in besonderen Fällen auch mit mehr als 50% und in Ausnahmefällen sogar mit über 75% der Bruttolizenzeinnahme beteiligt, die durch die Verwertung einer Erfindung erzielt wird. Zu berücksichtigen ist im einzelnen, ob bei der Lizenzvergabe ausschließliche unbeschränkte Lizenzen oder einfache oder beschränkte Lizenzen erteilt werden. Bei der Vergabe einer ausschließlichen unbeschränkten Lizenz behält der Arbeitgeber kein eigenes Benutzungsrecht, wird im allgemeinen auch keine eigenen weiteren Erfahrungen laufend zu übermitteln haben. Hier wird daher der Erfindungswert eher bei 50% und mehr anzusetzen sein. Bei der Vergabe einer einfachen oder beschränkten Lizenz wird bei gleichzeitiger Benutzung der Erfindung durch den Arbeitgeber, wenn damit die laufende Übermittlung von eigenen Erfahrungen verbunden ist, der Erfindungswert eher an der unteren Grenze liegen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=8",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:16",
+   "type": "source",
+   "label": "RL Nr. 16: Verkauf der Erfindung",
+   "summary": "Wird die Erfindung verkauft, so ist der Erfindungswert ebenfalls durch Verminderung des Bruttoertrages auf den Nettoertrag zu ermitteln. Im Gegensatz zur Lizenzvergabe wird hierbei jedoch in den meisten Fällen nicht damit zu rechnen sein, daß noch zukünftige Aufgaben und Belastungen des Arbeitgebers als Verkäufer zu berücksichtigen sind. Bei der Ermittlung des Nettoertrages sind alle Aufwendungen für die Entwicklung der Erfindung, nachdem sie fertiggestellt worden ist, für ihre Betriebsreifmachung, die Kosten der Schutzrechtserlangung und -übertragung, die mit dem Verkauf zusammenhängenden Aufwendungen (z.B. Steuern, mit Ausnahme der inländischen reinen Ertragssteuern, Verhandlungskosten) sowie ein entsprechender Anteil an den Gemeinkosten des Arbeitgebers, soweit sie nicht schon in den vorgenannten Kosten enthalten sind, zu berücksichtigen. Soweit der Kaufpreis nicht auf der Übertragung des Schutzrechts, sondern auf der Übermittlung besonderer Erfahrungen (know how) beruht, sind diese Einnahmen bei der Berechnung des Erfindungswertes ebenfalls von dem Bruttoertrag abzuziehen, wenn diese Erfahrungen nicht als technische Verbesserungsvorschläge im Sinne des § 20 Abs. 1 des Gesetzes anzusehen sind. Bei der Beurteilung der Frage, ob und wieweit der Kaufpreis auf der Übermittlung besonderer Erfahrungen beruht, ist nicht allein auf den Inhalt des Kaufvertrages abzustellen; vielmehr ist das tatsächliche Verhältnis des Wertes des Schutzrechts zu dem der Übermittlung besonderer Erfahrungen zu berücksichtigen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=8",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:17",
+   "type": "source",
+   "label": "RL Nr. 17: Austauschverträge",
+   "summary": "Wird die Erfindung durch einen Austauschvertrag verwertet, so kann versucht werden, zunächst den Gesamtnutzen des Vertrages für den Arbeitgeber zu ermitteln, um sodann durch Abschätzung der Quote, die auf die in Anspruch genommene Diensterfindung entfällt, ihren Anteil am Gesamtnutzen zu ermitteln. Ist dies untunlich, so wird der Erfindungswert nach Nummer 13 geschätzt werden müssen. Soweit Gegenstand des Austauschvertrages nicht die Überlassung von Schutzrechten oder von Benutzungsrechten, sondern die Überlassung besonderer Erfahrungen (know how) ist, ist dies bei der Ermittlung des Gesamtnutzens des Vertrages zu berücksichtigen, soweit diese Erfahrungen nicht als technische Verbesserungsvorschläge im Sinne des § 20 Abs. 1 des Gesetzes anzusehen sind. Bei der Beurteilung der Frage, ob und wieweit die Übermittlung besonderer Erfahrungen Gegenstand des Austauschvertrages sind, ist nicht allein auf den Inhalt des Vertrages abzustellen; vielmehr ist das tatsächliche Verhältnis des Wertes der Schutzrechte zu dem der Übermittlung besonderer Erfahrungen zu berücksichtigen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=8",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:18",
+   "type": "source",
+   "label": "RL Nr. 18: Sperrpatente",
+   "summary": "Einen besonderen Fall der Verwertung einer Diensterfindung bilden die Sperrpatente. Darunter versteht man im allgemeinen Patente, die nur deshalb angemeldet und aufrechterhalten werden, um zu verhindern, daß ein Wettbewerber die Erfindung verwertet und dadurch die eigene laufende oder bevorstehende Erzeugung beeinträchtigt. Bei diesen Patenten unterbleibt die Benutzung, weil entweder ein gleichartiges Patent schon im Betrieb benutzt wird oder ohne Bestehen eines Patentes eine der Erfindung entsprechende Erzeugung schon im Betrieb läuft oder das Anlaufen einer solchen Erzeugung bevorsteht. Wenn schon eine Erfindung im Betrieb benutzt wird, die mit Hilfe der zweiten Erfindung umgangen werden kann, und wenn die wirtschaftliche Tragweite beider Erfindungen ungefähr gleich ist, werden nach der Verwertung der ersten Erfindung Anhaltspunkte für den Erfindungswert bezüglich der zweiten gefunden werden können. Die Summe der Werte beider Erfindungen kann jedoch höher sein als der Erfindungswert der ersten Erfindung. Durch Schätzung kann ermittelt werden, welcher Anteil des Umsatzes, der Erzeugung oder des Nutzens bei Anwendung der zweiten Erfindung auf diese entfallen würde. Selbst wenn man hierbei zu einer annähernden Gleichwertigkeit der beiden Erfindungen kommt, ist es angemessen, für die zweite Erfindung weniger als die Hälfte der Summe der Werte beider Erfindungen anzusetzen, weil es als ein besonderer Vorteil benutzter Erfindungen anzusehen ist, wenn sie sich schon in der Praxis bewährt haben und auf dem Markt eingeführt sind. Eine zweite Erfindung, mit der es möglich ist, die erste zu umgehen, kann für den Schutzumfang der ersten Erfindung eine Schwäche offenbaren, die bei der Feststellung des Erfindungswertes für die erste Erfindung nicht immer berücksichtigt worden ist. Deshalb kann der Anlaß für eine Neufestsetzung der Vergütung nach § 12 Abs. 6 des Gesetzes vorliegen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=9",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:19",
+   "type": "source",
+   "label": "RL Nr. 19: Schutzrechtskomplexe",
+   "summary": "Werden bei einem Verfahren oder Erzeugnis mehrere Erfindungen benutzt, so soll, wenn es sich hierbei um einen einheitlich zu wertenden Gesamtkomplex handelt, zunächst der Wert des Gesamtkomplexes, gegebenenfalls einschließlich nicht benutzter Sperrschutzrechte, bestimmt werden. Der so bestimmte Gesamterfindungswert ist auf die einzelnen Erfindungen aufzuteilen. Dabei ist zu berücksichtigen, welchen Einfluß die einzelnen Erfindungen auf die Gesamtgestaltung des mit dem Schutzrechtskomplex belasteten Gegenstandes haben.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=9",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:20",
+   "type": "source",
+   "label": "RL Nr. 20: Nicht verwertete Erfindungen",
+   "summary": "Nicht verwertete Erfindungen sind Erfindungen, die weder betrieblich benutzt noch als Sperrpatent noch außerbetrieblich durch Vergabe von Lizenzen, Verkauf oder Tausch verwertet werden. Die Frage nach ihrem Wert hängt davon ab, aus welchen Gründen die Verwertung unterbleibt (vgl. Nummer 21-24).",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=9",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:21",
+   "type": "source",
+   "label": "RL Nr. 21: Vorrats- und Ausbaupatente",
+   "summary": "Vorratspatente sind Patente für Erfindungen, die im Zeitpunkt der Erteilung des Patents noch nicht verwertet werden oder noch nicht verwertbar sind, mit deren späterer Verwertung oder Verwertbarkeit aber zu rechnen ist. Von ihrer Verwertung wird z.B. deshalb abgesehen, weil der Fortschritt der technischen Entwicklung abgewartet werden soll, bis die Verwertung des Patents möglich erscheint. Erfindungen dieser Art werden bis zu ihrer praktischen Verwertung \"auf Vorrat\" gehalten. Sie haben wegen der begründeten Erwartung ihrer Verwertbarkeit einen Erfindungswert. Vorratspatente, die lediglich bestehende Patente verbessern, werden als Ausbaupatente bezeichnet. Der Wert der Vorrats- und Ausbaupatente wird frei geschätzt werden müssen, wobei die Art der voraussichtlichen späteren Verwertung und die Höhe des alsdann voraussichtlich zu erzielenden Nutzens Anhaltspunkte ergeben können. Bei einer späteren Verwertung wird häufig der Anlaß für eine Neufestsetzung der Vergütung nach § 12 Abs. 6 des Gesetzes gegeben sein. Ob verwertbare Vorratspatente, die nicht verwertet werden, zu vergüten sind, richtet sich nach Nummer 24.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=9",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:22",
+   "type": "source",
+   "label": "RL Nr. 22: Nicht verwertbare Erfindungen",
+   "summary": "Erfindungen, die nicht verwertet werden, weil sie wirtschaftlich nicht verwertbar sind und bei denen auch mit ihrer späteren Verwertbarkeit nicht zu rechnen ist, haben keinen Erfindungswert. Aus der Tatsache, daß ein Schutzrecht erteilt worden ist, ergibt sich nichts Gegenteiliges; denn die Prüfung durch das Patentamt bezieht sich zwar auf Neuheit, Fortschrittlichkeit und Erfindungshöhe, nicht aber darauf, ob die Erfindung mit wirtschaftlichem Erfolg verwertet werden kann. Erfindungen, die betrieblich nicht benutzt, nicht als Sperrpatent oder durch Lizenzvergabe, Verkauf oder Tausch verwertet werden können und auch als Vorratspatent keinen Wert haben, sollten dem Erfinder freigegeben werden.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=10",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:23",
+   "type": "source",
+   "label": "RL Nr. 23: Verwertbarkeit noch nicht feststellbar",
+   "summary": "Nicht immer wird sofort festzustellen sein, ob eine Erfindung wirtschaftlich verwertbar ist oder ob mit ihrer späteren Verwertbarkeit zu rechnen ist. Dazu wird es vielmehr in einer Reihe von Fällen einer gewissen Zeit der Prüfung und Erprobung bedürfen. Wenn und solange der Arbeitgeber die Erfindung prüft und erprobt und dabei die wirtschaftliche Verwertbarkeit noch nicht feststeht, ist die Zahlung einer Vergütung in der Regel nicht angemessen. Zwar besteht die Möglichkeit, daß sich eine Verwertbarkeit ergibt. Diese Möglichkeit wird aber dadurch angemessen abgegolten, daß der Arbeitgeber auf seine Kosten die Erfindung überprüft und erprobt und damit seinerseits dem Erfinder die Gelegenheit einräumt, bei günstigem Prüfungsergebnis eine Vergütung zu erhalten. Die Frist, die dem Betrieb zur Feststellung der wirtschaftlichen Verwertbarkeit billigerweise gewährt werden muß, wird von Fall zu Fall verschieden sein, sollte aber drei bis fünf Jahre nach Patenterteilung nur in besonderen Ausnahmefällen überschreiten. Wird die Erfindung nach Ablauf dieser Frist nicht freigegeben, so wird vielfach eine tatsächliche Vermutung dafür sprechen, daß ihr ein Wert zukommt, sei es auch nur als Vorratsoder Ausbaupatent.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=10",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:24",
+   "type": "source",
+   "label": "RL Nr. 24: Verwertbarkeit nicht ausgenutzt",
+   "summary": "Wird die Erfindung ganz oder teilweise nicht verwertet, obwohl sie verwertbar ist, so sind bei der Ermittlung des Erfindungswertes die unausgenutzten Verwertungsmöglichkeiten im Rahmen der bei verständiger Würdigung bestehenden wirtschaftlichen Möglichkeiten zu berücksichtigen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=10",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:25",
+   "type": "source",
+   "label": "RL Nr. 25: Beschränkte Inanspruchnahme",
+   "summary": "Für die Bewertung des nichtausschließlichen Rechts zur Benutzung der Diensterfindung gilt das für die Bewertung der unbeschränkt in Anspruch genommenen Diensterfindung Gesagte entsprechend. Bei der Ermittlung des Erfindungswertes ist jedoch allein auf die tatsächliche Verwertung durch den Arbeitgeber abzustellen; die unausgenutzte wirtschaftliche Verwertbarkeit (vgl. Nummer 24) ist nicht zu berücksichtigen. Wird der Erfindungswert mit Hilfe des erfaßbaren betrieblichen Nutzens ermittelt, so unterscheidet sich im übrigen die Ermittlung des Erfindungswertes bei der beschränkten Inanspruchnahme nicht von der bei der unbeschränkten Inanspruchnahme. Bei der Ermittlung des Erfindungswertes nach der Lizenzanalogie ist nach Möglichkeit von den für nichtausschließliche Lizenzen mit freien Erfindern üblicherweise vereinbarten Sätzen auszugehen. Sind solche Erfahrungssätze für nichtausschließliche Lizenzen nicht bekannt, so kann auch von einer Erfindung ausgegangen werden, für die eine ausschließliche Lizenz erteilt worden ist; dabei ist jedoch zu beachten, daß die in der Praxis für nichtausschließliche Lizenzen gezahlten Lizenzsätze in der Regel, keinesfalls aber in allen Fällen, etwas niedriger sind als die für ausschließliche Lizenzen gezahlten Sätze. Hat der Arbeitnehmer Lizenzen vergeben, so können die in diesen Lizenzverträgen vereinbarten Lizenzsätze in geeigneten Fällen als Maßstab für den Erfindungswert herangezogen werden. Hat der Arbeitnehmer kein Schutzrecht erwirkt, so wirkt diese Tatsache nicht mindernd auf die Vergütung, jedoch ist eine Vergütung nicht oder nicht mehr zu zahlen, wenn die Erfindung so weit bekannt geworden ist, daß sie infolge des Fehlens eines Schutzrechts auch von Wettbewerbern berechtigerweise benutzt wird.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=11",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:26",
+   "type": "source",
+   "label": "RL Nr. 26: Absatz im Ausland, ausländische Schutzrechte",
+   "summary": "Wird das Ausland vom Inlandsbetrieb aus beliefert, so ist bei der Berechnung des Erfindungswertes nach dem erfaßbaren betrieblichen Nutzen der Nutzen wie im Inland zu erfassen. Ebenso ist bei der Berechnung des Erfindungswertes nach der Lizenzanalogie der Umsatz oder die Erzeugung auch insoweit zu berücksichtigen, als das Ausland vom Inland aus beliefert wird. Bei zusätzlicher Verwertung im Ausland (z.B. Erzeugung im Ausland, Lizenzvergaben im Ausland) erhöht sich der Erfindungswert entsprechend, sofern dort ein entsprechendes Schutzrecht besteht. Auch im Ausland ist eine nicht ausgenutzte Verwertbarkeit oder eine unausgenutzte weitere Verwertbarkeit nach den gleichen Grundsätzen wie im Inland zu behandeln (vgl. Nummer 24). Sofern weder der Arbeitgeber noch der Arbeitnehmer Schutzrechte im Ausland erworben haben, handelt es sich um schutzrechtsfreies Gebiet, auf dem Wettbewerber tätig werden können, so daß für eine etwaige Benutzung des Erfindungsgegenstandes in dem schutzrechtsfreien Land sowie für den Vertrieb des in dem schutzrechtsfreien Land hergestellten Erzeugnisses im allgemeinen eine Vergütung nicht verlangt werden kann.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=11",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:27",
+   "type": "source",
+   "label": "RL Nr. 27: Betriebsgeheime Erfindungen (§ 17)",
+   "summary": "Betriebsgeheime Erfindungen sind ebenso wie geschützte Erfindungen zu vergüten. Dabei sind nach § 17 Abs. 4 des Gesetzes auch die wirtschaftlichen Nachteile zu berücksichtigen, die sich für den Arbeitnehmer dadurch ergeben, daß auf die Diensterfindung kein Schutzrecht erteilt worden ist. Die Beeinträchtigung kann u. a. darin liegen, daß der Erfinder nicht als solcher bekannt wird oder daß die Diensterfindung nur in beschränktem Umfang ausgewertet werden kann. Eine Beeinträchtigung kann auch darin liegen, daß die Diensterfindung vorzeitig bekannt und mangels Rechtsschutzes durch andere Wettbewerber ausgewertet wird.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=11",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:28",
+   "type": "source",
+   "label": "RL Nr. 28: Gebrauchsmusterfähige Erfindungen",
+   "summary": "Bei der Ermittlung des Erfindungswertes für gebrauchsmusterfähige Diensterfindungen können grundsätzlich dieselben Methoden angewandt werden wie bei patentfähigen Diensterfindungen. Wird der Erfindungswert nach dem erfaßbaren betrieblichen Nutzen ermittelt, so ist hierbei nach denselben Grundsätzen wie bei patentfähigen Diensterfindungen zu verfahren. Wird dagegen von der Lizenzanalogie ausgegangen, so ist nach Möglichkeit von den für gebrauchsmusterfähigen Erfindungen in vergleichbaren Fällen üblichen Lizenzen auszugehen. Sind solche Lizenzsätze für gebrauchsmusterfähige Erfindungen freier Erfinder nicht bekannt, so kann bei der Lizenzanalogie auch von den für vergleichbare patentfähige Erfindungen üblichen Lizenzsätzen ausgegangen werden; dabei ist jedoch Folgendes zu beachten: In der Praxis werden vielfach die für Gebrauchsmuster an freie Erfinder üblicherweise gezahlten Lizenzen niedriger sein als die für patentfähige Erfindungen; dies beruht u.a. auf dem im allgemeinen engeren Schutzumfang sowie auf der kürzeren gesetzlichen Schutzdauer des Gebrauchsmusters. Die ungeklärte Schutzfähigkeit des Gebrauchsmusters kann jedoch bei Diensterfindungen nur dann zuungunsten des Arbeitnehmers berücksichtigt werden, wenn im Einzelfall bestimmte Bedenken gegen die Schutzfähigkeit eine Herabsetzung des Analogielizenzsatzes angemessen erscheinen lassen. Wird in in diesem Falle das Gebrauchsmuster nicht angegriffen oder erfolgreich verteidigt, so wird im allgemeinen der Anlaß für eine Neufestsetzung der Vergütung nach § 12 Abs. 6 des Gesetzes vorliegen. Wird eine patentfähige Erfindung nach § 13 Abs. 1 Satz 2 des Gesetzes als Gebrauchsmuster angemeldet, so ist der Erfindungswert wie bei einer patentfähigen Erfindung zu bemessen, wobei jedoch die kürzere gesetzliche Schutzdauer des Gebrauchsmuster zu berücksichtigen ist.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=12",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:29",
+   "type": "source",
+   "label": "RL Nr. 29: Technische Verbesserungsvorschläge",
+   "summary": "Nach § 20 Abs. 1 des Gesetzes hat der Arbeitnehmer für technische Verbesserungsvorschläge, die dem Arbeitgeber eine ähnliche Vorzugsstellung gewähren wie ein gewerbliches Schutzrecht, gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald dieser sie verwertet. Eine solche Vorzugsstellung gewähren technische Verbesserungsvorschläge, die von Dritten nicht nachgeahmt werden können (z.B. Anwendung von Geheimverfahren; Verwendung von Erzeugnissen, die nicht analysiert werden können). Der technische Verbesserungsvorschlag als solcher muß die Vorzugsstellung gewähren; wird er an einem Gerät verwandt, das schon eine solche Vorzugsstellung genießt, so ist der Vorschlag nur insoweit vergütungspflichtig, als er für sich betrachtet, also abgesehen von der schon bestehenden Vorzugsstellung, die Vorzugsstellung gewähren würde. Bei der Ermittlung des Wertes des technischen Verbesserungsvorschlages im Sinne des § 20 Abs.1 des Gesetzes sind dieselben Methoden anzuwenden wie bei der Ermittlung des Erfindungswertes für schutzfähige Erfindungen. Dabei ist jedoch allein auf die tatsächliche Verwertung durch den Arbeitgeber abzustellen; die unausgenutzte wirtschaftliche Verwertbarkeit (Nummer 24) ist nicht zu berücksichtigen. Sobald die Vorzugsstellung wegfällt, weil die technische Neuerung so weit bekannt geworden ist, daß sie auch von Wettbewerbern berechtigterweise benutzt wird, ist eine Vergütung nicht oder nicht mehr zu zahlen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=12",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:30",
+   "type": "source",
+   "label": "RL Nr. 30: Anteilsfaktor: Grundsatz",
+   "summary": "Von dem im Ersten Teil ermittelten Erfindungswert ist mit Rücksicht darauf, daß es sich nicht um eine freie Erfindung handelt, ein entsprechender Abzug zu machen. Der Anteil, der sich für den Arbeitnehmer unter Berücksichtigung dieses Abzugs an dem Erfindungswert ergibt, wird in Form eines in Prozenten ausgedrückten Anteilsfaktors ermittelt. Der Anteilsfaktor wird bestimmt: Die im folgenden hinter den einzelnen Gruppen der Tabellen a), b) und c) eingefügten Wertzahlen dienen der Berechnung des Anteilsfaktors nach der Tabelle unter Nummer 37. Soweit im Einzelfall eine zwischen den einzelnen Gruppen liegende Bewertung angemessen erscheint, können Zwischenwerte gebildet werden (z.B. 3,5).",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=13",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:31",
+   "type": "source",
+   "label": "RL Nr. 31: Stellung der Aufgabe (Wertzahl a)",
+   "summary": "Der Anteil des Arbeitnehmers am Zustandekommen der Diensterfindung ist um so größer, je größer seine Initiative bei der Aufgabenstellung und je größer seine Beteiligung bei der Erkenntnis der betrieblichen Mängel und Bedürfnisse ist. Diese Gesichtspunkte können in folgenden 6 Gruppen berücksichtigt werden: Der Arbeitnehmer ist zu der Erfindung veranlaßt worden: 1. weil der Betrieb ihm eine Aufgabe unter unmittelbarer Angabe des beschrittenen Lösungsweges gestellt hat (1); 2. weil der Betrieb ihm eine Aufgabe ohne unmittelbare Angabe des beschrittenen Lösungsweges gestellt hat (2); 3. ohne daß der Betrieb ihm eine Aufgabe gestellt hat, jedoch durch die infolge der Betriebszugehörigkeit erlangte Kenntnis von Mängeln und Bedürfnissen, wenn der Erfinder diese Mängel und Bedürfnisse nicht selbst festgestellt hat (3); 4. ohne daß der Betrieb ihm eine Aufgabe gestellt hat, jedoch durch die infolge der Betriebszugehörigkeit erlangte Kenntnis von Mängeln und Bedürfnissen, wenn der Erfinder diese Mängel und Bedürfnisse selbst festgestellt hat (4); 5. weil er sich innerhalb seines Aufgabenbereichs eine Aufgabe gestellt hat (5); 6. weil er sich außerhalb seines Aufgabenbereichs eine Aufgabe gestellt hat (6). Bei Gruppe 1 macht es keinen Unterschied, ob der Betrieb den Erfinder schon bei der Aufgabenstellung oder erst später auf den beschrittenen Lösungsweg unmittelbar hingewiesen hat, es sei denn, daß der Erfinder von sich aus den Lösungsweg bereits beschritten hatte. Ist bei einer Erfindung, die in Gruppe 3 oder 4 einzuordnen ist, der Erfinder vom Betrieb später auf den beschrittenen Lösungsweg hingewiesen worden, so kann es angemessen sein, die Erfindung niedriger einzuordnen, es sei denn, daß der Erfinder von sich aus den Lösungsweg bereits beschritten hatte. Liegt in Gruppe 3 oder 4 die Aufgabe außerhalb des Aufgabenbereichs des Erfinders, so wird es angemessen sein, die Erfindung höher einzuordnen. Ferner ist zu berücksichtigen, daß auch in der Aufgabenstellung allein schon eine unmittelbare Angabe des beschrittenen Lösungsweges liegen kann, wenn die Aufgabe sehr eng gestellt ist. Andererseits sind ganz allgemeine Anweisungen (z. B. auf Erfindungen bedacht zu sein) noch nicht als Stellung der Aufgabe im Sinne dieser Tabelle anzusehen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=13",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:32",
+   "type": "source",
+   "label": "RL Nr. 32: Lösung der Aufgabe (Wertzahl b)",
+   "summary": "Bei der Ermittlung der Wertzahlen für die Lösung der Aufgabe sind folgende Gesichtspunkte zu beachten: 1. Die Lösung wird mit Hilfe der dem Erfinder beruflichgeläufigen Überlegungen gefunden; 2. sie wird auf Grund betrieblicher Arbeiten oder Kenntnisse gefunden; 3. der Betrieb unterstützt den Erfinder mit technischen Hilfsmitteln. Liegen bei einer Erfindung alle diese Merkmale vor, so erhält die Erfindung für die Lösung der Aufgabe die Wertzahl 1; liegt keines dieser Merkmale vor, so erhält sie die Wertzahl 6. Sind bei einer Erfindung die angeführten drei Merkmale teilweise verwirklicht, so kommt ihr für die Lösung der Aufgabe eine zwischen 1 und 6 liegende Wertzahl zu. Bei der Ermittlung der Wertzahl für die Lösung der Aufgabe sind die Verhältnisse des Einzelfalles auch im Hinblick auf die Bedeutung der angeführten drei Merkmale (z. B. das Ausmaß der Unterstützung mit technischen Hilfsmitteln) zu berücksichtigen. Beruflich geläufige Überlegungen im Sinne dieser Nummer sind solche, die aus Kenntnissen und Erfahrungen des Arbeitnehmers stammen, die er zur Erfüllung der ihm übertragenen Tätigkeiten haben muß. Betriebliche Arbeiten oder Kenntnisse im Sinne dieser Nummer sind innerbetriebliche Erkenntnisse, Arbeiten, Anregungen, Erfahrungen, Hinweise usw., die dem Erfinder zur Lösung hingeführt oder sie ihm wesentlich erleichtert haben. Technische Hilfsmittel im Sinne dieser Nummer sind Energien, Rohstoffe und Geräte des Betriebes, deren Bereitstellung wesentlich zum Zustandekommen der Diensterfindung beigetragen hat. Wie technische Hilfsmittel ist auch die Bereitstellung von Arbeitskräften zu werten. Die Arbeitskraft des Erfinders selbst sowie die allgemeinen, ohnehin entstandenen Aufwendungen für Forschung, Laboreinrichtungen und Apparaturen sind nicht als technische Hilfsmittel in diesem Sinne anzusehen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=14",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:33",
+   "type": "source",
+   "label": "RL Nr. 33: Aufgaben und Stellung im Betrieb (Wertzahl c)",
+   "summary": "Der Anteil des Arbeitnehmers verringert sich um so mehr, je größer der ihm durch seine Stellung ermöglichte Einblick in die Erzeugung und Entwicklung des Betriebes ist und je mehr von ihm angesichts seiner Stellung und des ihm z. Z. der Erfindungsmeldung gezahlten Arbeitsentgelts erwartet werden kann, daß er an der technischen Entwicklung des Betriebes mitarbeitet. Stellung im Betrieb bedeutet nicht die nominelle, sondern die tatsächliche Stellung des Arbeitnehmers, die ihm unter Berücksichtigung der ihm obliegenden Aufgaben und der ihm ermöglichten Einblicke in das Betriebsgeschehen zukommt.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=14",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:34",
+   "type": "source",
+   "label": "RL Nr. 34: Gruppen der Arbeitnehmer",
+   "summary": "Man kann folgende Gruppen von Arbeitnehmern unterscheiden, wobei die Wertzahl um so höher ist, je geringer die Leistungserwartung ist: 8. Gruppe: Hierzu gehören Arbeitnehmer, die im wesentlichen ohne Vorbildung für die im Betrieb ausgeübte Tätigkeit sind (z. B. ungelernte Arbeiter, Hilfsarbeiter, Angelernte, Lehrlinge) (8). 7. Gruppe: Zu dieser Gruppe sind die Arbeitnehmer zu rechnen, die eine handwerklich - technische Ausbildung erhalten haben (z. B. Facharbeiter, Laboranten, Monteure, einfache Zeichner), auch wenn sie schon mit kleineren Aufsichtspflichten betraut sind (z. B. Vorarbeiter, Untermeister, Schichtmeister, Kolonnenführer). Von diesen Personen wird im allgemeinen erwartet, daß sie die ihnen übertragenen Aufgaben mit einem gewissen technischen Verständnis ausführen. Andererseits ist zu berücksichtigen, daß von dieser Berufsgruppe in der Regel die Lösung konstruktiver oder verfahrensmäßiger technischer Aufgaben nicht erwartet wird (7). 6. Gruppe: Hierher gehören die Personen, die als untere betriebliche Führungskräfte eingesetzt werden (z. B. Meister, Obermeister, Werkmeister) oder eine etwas gründlichere technische Ausbildung erhalten haben (z. B. Chemotechniker, Techniker). Von diesen Arbeitnehmern wird in der Regel schon erwartet, daß sie Vorschläge zur Rationalisierung innerhalb der ihnen obliegenden Tätigkeit machen und auf einfache technische Neuerungen bedacht sind (6). 5. Gruppe: Zu dieser Gruppe sind die Arbeitnehmer zu rechnen, die eine gehobene technische Ausbildung erhalten haben, sei es auf Universitäten oder technischen Hochschulen, sei es auf höheren technischen Lehranstalten oder in Ingenieur- oder entsprechenden Fachschulen, wenn sie in der Fertigung tätig sind. Von diesen Arbeitnehmern wird ein reges technisches Interesse sowie die Fähigkeit erwartet, gewisse konstruktive oder verfahrensmäßige Aufgaben zu lösen (5). 4. Gruppe: Hierher gehören die in der Fertigung leitend Tätigen (Gruppenleiter, d.h. Ingenieure und Chemiker, denen andere Ingenieure oder Chemiker unterstellt sind) und die in der Entwicklung tätigen Ingenieure und Chemiker (4). 3. Gruppe: Zu dieser Gruppe sind in der Fertigung der Leiter einer ganzen Fertigungsgruppe (z. B. technischer Abteilungsleiter und Werkleiter) zu zählen, in der Entwicklung die Gruppenleiter von Konstruktionsbüros und Entwicklungslaboratorien und in der Forschung die Ingenieure und Chemiker (3). 2. Gruppe: Hier sind die Leiter der Entwicklungsabteilungen einzuordnen sowie die Gruppenleiter in der Forschung (2). 1. Gruppe: Zur Spitzengruppe gehören die Leiter der gesamten Forschungsabteilung eines Unternehmens und die technischen Leiter größerer Betriebe (1). Die vorstehende Tabelle kann nur Anhaltspunkte geben. Die Einstufung in die einzelnen Gruppen muß jeweils im Einzelfall nach Maßgabe der tatsächlichen Verhältnisse unter Berücksichtigung der Ausführungen in Nummer 33, 35 und 36 vorgenommen werden. In kleineren Betrieben sind z. B. vielfach die Leiter von Forschungsabteilungen nicht in Gruppe 1, sondern - je nach den Umständen des Einzelfalles - in die Gruppen 2, 3 oder 4 einzuordnen. Auch die Abstufung nach der Tätigkeit in Fertigung, Entwicklung oder Forschung ist nicht stets berechtigt, weil z. B. in manchen Betrieben die in der Entwicklung tätigen Arbeitnehmer Erfindungen näher stehen als die in der Forschung tätigen Arbeitnehmer.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=15",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:35",
+   "type": "source",
+   "label": "RL Nr. 35: Leitende Angestellte",
+   "summary": "Wenn die Gehaltshöhe gegenüber dem Aufgabengebiet Unterschiede zeigt, kann es berechtigt sein, den Erfinder in eine höhere oder tiefere Gruppe einzustufen, weil Gehaltshöhe und Leistungserwartung miteinander in Verbindung stehen. Dies ist besonders zu berücksichtigen im Verhältnis zwischen jüngeren und älteren Arbeitnehmern der gleichen Gruppe. In der Regel wächst das Gehalt eines Arbeitnehmers mit seinem Alter, wobei weitgehend der Gesichtspunkt maßgebend ist, daß die zunehmende Erfahrung auf Grund langjähriger Tätigkeit eine höhere Leistung erwarten läßt. Hiernach kann also ein höher bezahlter älterer Angestellter einer bestimmten Gruppe eher in die nächstniedrigere einzustufen sein, während ein jüngerer, geringer bezahlter Angestellter der nächsthöheren Gruppe zuzurechnen ist. Es ist weiter zu berücksichtigen, daß zum Teil gerade bei leitenden Angestellten nicht erwartet wird, daß sie sich mit technischen Einzelfragen befassen. Besonders in größeren Firmen stehen leitende Angestellte zum Teil der technischen Entwicklung ferner als Entwicklungs- oder Betriebsingenieure. In solchen Fällen ist daher gleichfalls eine Berichtigung der Gruppeneinteilung angebracht. Auch die Vorbildung wird in der Regel ein Anhaltspunkt für die Einstufung des Arbeitnehmers sein. Sie ist aber hierauf dann ohne Einfluß, wenn der Arbeitnehmer nicht entsprechend seiner Vorbildung im Betrieb eingesetzt wird. Andererseits ist auch zu berücksichtigen, daß Arbeitnehmer, die sich ohne entsprechende Vorbildung eine größere technische Erfahrung zugeeignet haben und demgemäß im Betrieb eingesetzt und bezahlt werden, in eine entsprechend niedrigere Gruppe (also mit niedrigerer Wertzahl, z. B. von Gruppe 6 in Gruppe 5) eingestuft werden müssen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=16",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:36",
+   "type": "source",
+   "label": "RL Nr. 36: Wertzahl c: Abweichungen",
+   "summary": "Von Arbeitnehmern, die kaufmännisch tätig sind und keine technische Vorbildung haben, werden im allgemeinen keine technischen Leistungen erwartet. Etwas anderes kann mitunter für die sogenannten technischen Kaufleute und die höheren kaufmännischen Angestellten (kaufmännische Abteilungsleiter, Verwaltungs- und kaufmännische Direktoren) gelten. Wie diese Personen einzustufen sind, muß von Fall zu Fall entschieden werden.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=16",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:37",
+   "type": "source",
+   "label": "RL Nr. 37: Tabelle des Anteilsfaktors",
+   "summary": "Für die Berechnung des Anteilsfaktors gilt folgende Tabelle: a+b+c = 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 (20) A = 2 4 7 10 13 15 18 21 25 32 39 47 55 63 72 81 90 (100) In dieser Tabelle bedeuten: a = Wertzahlen, die sich aus der Stellung der Aufgabe ergeben, b = Wertzahlen, die sich aus der Lösung der Aufgabe ergeben, c = Wertzahlen, die sich aus Aufgaben und Stellung im Betrieb ergeben, A = Anteilsfaktor (Anteil des Arbeitnehmers am Erfindungswert in Prozenten). Die Summe, die sich aus den Wertzahlen a, b und c ergibt, braucht keine ganze Zahl zu sein. Sind als Wertzahlen Zwischenwerte (z. B. 3,5) gebildet worden, so ist als Anteilsfaktor eine Zahl zu ermitteln, die entsprechend zwischen den angegebenen Zahlen liegt. Die Zahlen 20 und 100 sind in Klammern gesetzt, weil zumindest in diesem Fall eine freie Erfindung vorliegt.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=16",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:38",
+   "type": "source",
+   "label": "RL Nr. 38: Wegfall der Vergütung",
+   "summary": "Ist der Anteilsfaktor sehr niedrig, so kann, wenn der Erfindungswert gleichfalls gering ist, die nach den vorstehenden Richtlinien zu ermittelnde Vergütung bis auf einen Anerkennungsbetrag sinken oder ganz wegfallen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=17",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:39",
+   "type": "source",
+   "label": "RL Nr. 39: Formel V = E × A",
+   "summary": "Die Berechnung der Vergütung aus Erfindungswert und Anteilsfaktor kann in folgender Formel ausgedrückt werden: V=E·A Dabei bedeuten: V = die zu zahlende Vergütung, E = den Erfindungswert, A = den Anteilsfaktor in Prozenten. Die Ermittlung des Erfindungswertes nach der Lizenzanalogie kann in folgender Formel ausgedrückt werden: E=B · L Dabei bedeuten: E = den Erfindungswert, B = die Bezugsgröße, L = Lizenzsatz in Prozenten. In dieser Formel kann die Bezugsgröße ein Geldbetrag oder eine Stückzahl sein. Ist die Bezugsgröße ein bestimmter Geldbetrag, so ist der Lizenzsatz ein Prozentsatz (z. B. 3% von 100.000,- DM). Ist die Bezugsgröße dagegen eine Stückzahl oder eine Gewichtseinheit, so ist der Lizenzsatz ein bestimmter Geldbetrag je Stück oder Gewichtseinheit (z. B. 0,10 DM je Stück oder Gewichtseinheit des umgesetzten Erzeugnisses). Insgesamt ergibt sich hiernach für die Ermittlung der Vergütung bei Anwendung der Lizenzanalogie folgende Formel: V=B · L · A Hierbei ist für B jeweils die entsprechende Bezugsgröße (Umsatz, Erzeugung) einzusetzen. Sie kann sich auf die gesamte Laufdauer des Schutzrechts (oder die gesamte sonst nach Nummer 42 in Betracht kommende Zeit) oder auf einen bestimmten periodisch wiederkehrenden Zeitabschnitt (z. B. 1 Jahr) beziehen; entsprechend ergibt sich aus der Formel die Vergütung für die gesamte Laufdauer (V) oder den bestimmten Zeitabschnitt (beim jährlicher Ermittlung im folgenden Vj bezeichnet). Wird z. B. die Vergütung unter Anwendung der Lizenzanalogie in Verbindung mit dem Umsatz ermittelt, so lautet die Formel für die Berechnung der Vergütung: V=U·L·A oder bei jährlicher Ermittlung Vj = Uj · L · A Beispiel: Bei einem Jahresumsatz von 400 000.- DM, einem Lizenzsatz von 3% und einem Anteilsfaktor von (a + b + c = 8 =) 15% ergibt sich folgende Rechnung: Vj = 400 000 . 3 · 15 100 · 100 Die Vergütung für ein Jahr beträgt in diesem Fall 1800.- DM.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=17",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:40",
+   "type": "source",
+   "label": "RL Nr. 40: Laufende Zahlung oder Gesamtabfindung",
+   "summary": "Die Vergütung kann in Form einer laufenden Beteiligung bemessen werden. Hängt ihre Höhe von dem Umsatz, der Erzeugung oder dem erfaßbaren betrieblichen Nutzen ab, so wird die Vergütung zweckmäßig nachkalkulatorisch errechnet; in diesem Fall empfiehlt sich die jährliche Abrechnung, wobei - soweit dies angemessen erscheint - entsprechende Abschlagszahlungen zu leisten sein werden. Wird die Diensterfindung durch Lizenzvergabe verwertet, so wird die Zahlung der Vergütung im allgemeinen der Zahlung der Lizenzen anzupassen sein. Manchmal wird die Zahlung einer einmaligen oder mehrmaligen festen Summe (Gesamtabfindung) als angemessen anzusehen sein. Dies gilt insbesondere für folgende Fälle: a) Wenn es sich um kleinere Erfindungen handelt, für die eine jährliche Abrechnung wegen des dadurch entstehenden Aufwandes nicht angemessen erscheint, b) wenn die Diensterfindung als Vorrats- oder Ausbaupatent verwertet wird. c) Ist der Diensterfinder in einer Stellung, in der er auf den Einsatz seiner Erfindung oder die Entwicklung weiterer verwandter Erfindungen im Betrieb einen maßgeblichen Einfluß ausüben kann, so ist zur Vermeidung von Interessengegensätzen ebenfalls zu empfehlen, die Vergütung in Form einmaliger oder mehrmaliger fester Beträge zu zahlen. In der Praxis findet sich manchmal eine Verbindung beider Zahlungsarten derart, daß der Lizenznehmer eine einmalige Zahlung leistet und der Lizenzgeber im übrigen laufend an den Erträgen der Erfindung beteiligt wird. Auch eine solche Regelung kann eine angemessene Art der Vergütungsregelung darstellen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=18",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:41",
+   "type": "source",
+   "label": "RL Nr. 41: Zahlungsweise",
+   "summary": "Nur ein geringer Teil der Patente wird in der Praxis für die Gesamtlaufdauer von 18 Jahren aufrechterhalten. Bei patentfähigen Erfindungen hat es sich bei der Gesamtabfindung häufig als berechtigt erwiesen, im allgemeinen eine durchschnittliche Laufdauer des Patents von einem Drittel der Gesamtlaufdauer, also von 6 Jahren, für die Ermittlung der einmaligen festen Vergütung zugrunde zu legen. Bei einer wesentlichen Änderung der Umstände, die für die Feststellung oder Festsetzung der Vergütung maßgebend waren, können nach § 12 Abs. 6 des Gesetzes Arbeitgeber und Arbeitnehmer voneinander die Einwilligung in eine andere Regelung der Vergütung verlangen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=18",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:42",
+   "type": "source",
+   "label": "RL Nr. 42: Maßgebende Zeit: Dauer",
+   "summary": "Die Zeit, die für die Berechnung der Vergütung bei laufender Zahlung maßgebend ist, endet bei der unbeschränkten Inanspruchnahme in der Regel mit dem Wegfall des Schutzrechts. Dasselbe gilt bei der beschränkten Inanspruchnahme, wenn ein Schutzrecht erwirkt ist. Wegen der Dauer der Vergütung bei beschränkter Inanspruchnahme wird im übrigen auf Nummer 25 verwiesen. In Ausnahmefällen kann der Gesichtspunkt der Angemessenheit der Vergütung auch eine Zahlung über die Laufdauer des Schutzrechts hinaus gerechtfertigt erscheinen lassen. Dies gilt beispielsweise dann, wenn eine Erfindung erst in den letzten Jahren der Laufdauer eines Schutzrechts praktisch ausgewertet worden ist und die durch das Patent während seiner Laufzeit dem Patentinhaber vermittelte Vorzugsstellung auf dem Markt auf Grund besonderer Umstände noch weiter andauert. Solche besonderen Umstände können z. B. darin liegen, daß die Erfindung ein geschütztes Verfahren betrifft, für dessen Ausübung hohe betriebsinterne Erfahrungen notwendig sind, die nicht ohne weiteres bei Ablauf des Schutzrechts Wettbewerbern zur Verfügung stehen.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=19",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
+   "id": "source:vrl:43",
+   "type": "source",
+   "label": "RL Nr. 43: Vergütung nach Ablauf",
+   "summary": "Ist das Schutzrecht vernichtbar, so bleibt dennoch der Arbeitgeber bis zur Nichtigkeitserklärung zur Vergütungszahlung verpflichtet, weil bis dahin der Arbeitgeber eine tatsächliche Nutzungsmöglichkeit und günstigere Geschäftsstellung hat, die er ohne die Inanspruchnahme nicht hätte. Die offenbar oder wahrscheinlich gewordene Nichtigkeit ist für den Vergütungsanspruch der tatsächlichen Vernichtung dann gleichzustellen, wenn nach den Umständen das Schutzrecht seine bisherige wirtschaftliche Wirkung so weit verloren hat, daß dem Arbeitgeber die Vergütungszahlung nicht mehr zugemutet werden kann. Dies ist besonders dann der Fall, wenn Wettbewerber, ohne eine Verletzungsklage befürchten zu müssen, nach dem Schutzrecht arbeiten.",
+   "url": "https://www.dpma.de/docs/dpma/richtlinienfuerdieverguetungvonarbeitnehmererfindungen.pdf#page=19",
+   "provider": "Vergütungsrichtlinien"
+  },
+  {
    "id": "case:bgh_rocher_kugel",
    "type": "case",
    "label": "BGH – ROCHER-Kugel",
@@ -50440,6 +52350,22 @@
    "url": "https://www.bundesgerichtshof.de/SharedDocs/Entscheidungen/DE/Zivilsenate/X_ZS/2019/X_ZR__85-19.pdf?__blob=publicationFile"
   },
   {
+   "id": "case:arb_sst_hochschulklinikum",
+   "type": "case",
+   "label": "Schiedsstelle – Hochschulklinikum",
+   "name": "Hochschulklinikum",
+   "court": "Schiedsstelle",
+   "date": "2026-06-16",
+   "az": "Arb.Erf. 12/23",
+   "fundstelle": "Schiedsstelle, TeilEinigungsvorschlag vom 16.06.2026 – Arb.Erf. 12/23",
+   "kern": "Ein Universitätsklinikum ist Hochschule im Sinne des § 42 ArbnErfG; Beschäftigte ist das gesamte Personal. Die Vergütung richtet sich ausschließlich nach § 42 Nr. 4 ArbnErfG (30 % der Einnahmen); dazu zählen alle geldwerten Vorteile aus der Verwertung, auch ein erfasster betrieblicher Nutzen, ohne Kürzung durch einen Umrechnungsfaktor.",
+   "tags": [
+    "Hochschule",
+    "Vergütung"
+   ],
+   "url": "https://www.dpma.de/docs/dpma/schiedsstelle/2026/arb_erf_12_23_ev_16062026.pdf"
+  },
+  {
    "id": "case:des_eugh_pepsico",
    "type": "case",
    "label": "EuGH – PepsiCo/Grupo Promer (Tazos)",
@@ -53823,6 +55749,174 @@
    "kategorie": "Patent: Patentfähigkeit",
    "definition": "KI-bezogene Erfindungen schaffen entweder die Grundlagen für den Einsatz Künstlicher Intelligenz (Hardware-Architekturen, Algorithmen, Modelle, Lernverfahren) oder setzen sie für ein Anwendungsgebiet ein. Das DPMA prüft sie regelmäßig wie programmbezogene Erfindungen in drei Stufen.",
    "erlaeuterung": "Etablierte Rechtsprechung zur Prüfung fehlt nach den Prüfungsrichtlinien (Abschnitt 3.3). Folge der Übertragung: Das Modell oder der Algorithmus als mathematische Methode trägt die erfinderische Tätigkeit nur, soweit es zur Lösung eines konkreten technischen Problems mit technischen Mitteln beiträgt (§ 1 Abs. 3 Nr. 1, Nr. 3 PatG, § 4 PatG). Erfinder kann nur eine natürliche Person sein (§ 37 PatG)."
+  },
+  {
+   "id": "concept:arb_diensterfindung",
+   "type": "concept",
+   "label": "Diensterfindung (§ 4 Abs. 2 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Diensterfindungen sind während der Dauer des Arbeitsverhältnisses gemachte Erfindungen, die entweder aus der dem Arbeitnehmer im Betrieb obliegenden Tätigkeit entstanden sind (Auftragserfindung) oder maßgeblich auf Erfahrungen oder Arbeiten des Betriebs beruhen (Erfahrungserfindung), § 4 Abs. 2 ArbnErfG.",
+   "erlaeuterung": "Erfindung im Sinne des Gesetzes ist nur, was patent- oder gebrauchsmusterfähig ist (§ 2 ArbnErfG); im Streit um die Vergütung genügt die Schutzfähigkeit im Zweifel, solange das Schutzrecht nicht rechtskräftig versagt ist. „Gemacht“ ist die Erfindung, wenn sie fertig ist, d. h. der Erfinder sie technisch ausführen kann. Nach dem Ausscheiden fertiggestellte Erfindungen sind frei, außer der Arbeitnehmer hat die Fertigstellung treuwidrig hinausgezögert."
+  },
+  {
+   "id": "concept:arb_freie_erfindung",
+   "type": "concept",
+   "label": "Freie Erfindung (§§ 4, 18, 19 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Freie Erfindungen sind alle Erfindungen eines Arbeitnehmers, die keine Diensterfindungen sind (§ 4 Abs. 3 ArbnErfG), sowie frei gewordene Diensterfindungen (§ 8 ArbnErfG). Der Arbeitnehmer muss sie dem Arbeitgeber mitteilen (§ 18 ArbnErfG) und vor anderweitiger Verwertung ein nichtausschließliches Benutzungsrecht anbieten, wenn sie in den Arbeitsbereich des Betriebs fällt (§ 19 ArbnErfG).",
+   "erlaeuterung": "Die Mitteilungspflicht entfällt, wenn die Erfindung offensichtlich im Arbeitsbereich des Betriebs nicht verwendbar ist (§ 18 Abs. 3 ArbnErfG). Bestreitet der Arbeitgeber nicht binnen drei Monaten, dass die mitgeteilte Erfindung frei ist, kann er sie nicht mehr als Diensterfindung in Anspruch nehmen (§ 18 Abs. 2 ArbnErfG)."
+  },
+  {
+   "id": "concept:arb_tvv",
+   "type": "concept",
+   "label": "Technischer Verbesserungsvorschlag (§§ 3, 20 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Technische Verbesserungsvorschläge sind Vorschläge für technische Neuerungen, die nicht patent- oder gebrauchsmusterfähig sind (§ 3 ArbnErfG). Gewähren sie dem Arbeitgeber eine ähnliche Vorzugsstellung wie ein gewerbliches Schutzrecht (qualifizierter Verbesserungsvorschlag), hat der Arbeitnehmer einen Anspruch auf angemessene Vergütung, sobald der Arbeitgeber sie verwertet (§ 20 Abs. 1 ArbnErfG).",
+   "erlaeuterung": "Die Vorzugsstellung setzt eine faktische Monopolstellung voraus: Wettbewerber können die Neuerung nicht nachahmen, weil sie geheim bleibt oder nicht analysierbar ist (RL Nr. 29). Sie endet, sobald die Neuerung bekannt wird. Einfache Verbesserungsvorschläge regeln Tarifvertrag und Betriebsvereinbarung (betriebliches Vorschlagswesen, § 20 Abs. 2 ArbnErfG)."
+  },
+  {
+   "id": "concept:arb_erfindungsmeldung",
+   "type": "concept",
+   "label": "Erfindungsmeldung (§ 5 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Der Arbeitnehmer muss eine Diensterfindung unverzüglich gesondert in Textform melden und dabei kenntlich machen, dass es sich um die Meldung einer Erfindung handelt (§ 5 Abs. 1 ArbnErfG). Die Meldung beschreibt Aufgabe, Lösung und Zustandekommen und nennt Mitarbeiter und deren Anteil (§ 5 Abs. 2 ArbnErfG).",
+   "erlaeuterung": "Beanstandet der Arbeitgeber die Meldung nicht binnen zwei Monaten, gilt sie als ordnungsgemäß (§ 5 Abs. 3 ArbnErfG). Die ordnungsgemäße Meldung setzt die Viermonatsfrist der Inanspruchnahme in Gang (§ 6 Abs. 2 ArbnErfG). Eine Patentanmeldung des Arbeitgebers mit dem Arbeitnehmer als Erfinder kann eine fehlende Meldung ersetzen, wenn der Arbeitgeber dadurch die Kenntnis erlangt hat, die die Meldung vermitteln soll."
+  },
+  {
+   "id": "concept:arb_inanspruchnahme",
+   "type": "concept",
+   "label": "Inanspruchnahme der Diensterfindung (§§ 6, 7 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Der Arbeitgeber kann eine Diensterfindung durch Erklärung gegenüber dem Arbeitnehmer in Anspruch nehmen (§ 6 Abs. 1 ArbnErfG); seit dem 1.10.2009 gilt sie als in Anspruch genommen, wenn er sie nicht binnen vier Monaten nach Eingang der ordnungsgemäßen Meldung in Textform freigibt (§ 6 Abs. 2 ArbnErfG). Mit der Inanspruchnahme gehen alle vermögenswerten Rechte auf den Arbeitgeber über (§ 7 Abs. 1 ArbnErfG).",
+   "erlaeuterung": "Für vor dem 1.10.2009 gemeldete Erfindungen gilt altes Recht (§ 43 Abs. 3 ArbnErfG): schriftliche Inanspruchnahme binnen vier Monaten, beschränkt (nur Benutzungsrecht) oder unbeschränkt; ohne Erklärung wurde die Erfindung frei. Verfügungen des Arbeitnehmers vor der Inanspruchnahme sind dem Arbeitgeber gegenüber unwirksam, soweit sie seine Rechte beeinträchtigen (§ 7 Abs. 2 ArbnErfG)."
+  },
+  {
+   "id": "concept:arb_freigabe",
+   "type": "concept",
+   "label": "Freigabe (§ 8 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Gibt der Arbeitgeber eine Diensterfindung durch Erklärung in Textform frei, wird sie frei (§ 8 S. 1 ArbnErfG); der Arbeitnehmer kann über sie ohne die Beschränkungen der §§ 18, 19 ArbnErfG verfügen (§ 8 S. 2 ArbnErfG).",
+   "erlaeuterung": "Die Freigabe ist eine einseitige, empfangsbedürftige Erklärung. Sie ist zu unterscheiden von der Aufgabe eines bereits angemeldeten Schutzrechts nach § 16 ArbnErfG (Übertragungsangebot) und von der Freigabe für das Ausland (§ 14 Abs. 2 ArbnErfG)."
+  },
+  {
+   "id": "concept:arb_verguetungsanspruch",
+   "type": "concept",
+   "label": "Vergütungsanspruch (§ 9 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Der Arbeitnehmer hat gegen den Arbeitgeber einen Anspruch auf angemessene Vergütung, sobald dieser die Diensterfindung in Anspruch genommen hat (§ 9 Abs. 1 ArbnErfG). Maßgebend sind die wirtschaftliche Verwertbarkeit, Aufgaben und Stellung des Arbeitnehmers im Betrieb und der Anteil des Betriebs am Zustandekommen (§ 9 Abs. 2 ArbnErfG).",
+   "erlaeuterung": "Die Vergütungsrichtlinien (§ 11 ArbnErfG) setzen das in die Formel Vergütung = Erfindungswert × Anteilsfaktor um (RL Nr. 39). Der Anspruch ist eine Sonderleistung neben dem Arbeitslohn; er entsteht dem Grunde nach mit der Inanspruchnahme und wird mit der Verwertung fällig. Hilfsansprüche auf Auskunft und Rechnungslegung folgen aus § 242 BGB."
+  },
+  {
+   "id": "concept:arb_erfindungswert",
+   "type": "concept",
+   "label": "Erfindungswert",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Der Erfindungswert ist der Preis, den der Arbeitgeber einem freien Erfinder für die Erfindung zahlen würde (wirtschaftliche Verwertbarkeit, § 9 Abs. 2 ArbnErfG). Er wird nach der Lizenzanalogie, dem erfassbaren betrieblichen Nutzen oder durch Schätzung ermittelt (RL Nr. 3).",
+   "erlaeuterung": "Vorrang hat die Lizenzanalogie, wenn die Branche Lizenzsätze kennt (RL Nr. 5). Bei Lizenzvergabe oder Verkauf ist der Erfindungswert die Nettoeinnahme (RL Nr. 14, 16). Nicht verwertete, aber verwertbare Erfindungen sind nach den unausgenutzten Möglichkeiten zu bewerten (RL Nr. 24); Vorratspatente nach RL Nr. 21."
+  },
+  {
+   "id": "concept:arb_lizenzanalogie",
+   "type": "concept",
+   "label": "Lizenzanalogie (RL Nr. 6 bis 11)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Bei der Lizenzanalogie ist der Erfindungswert die Bezugsgröße (meist der Umsatz mit erfindungsgemäßen Produkten) multipliziert mit dem Lizenzsatz, den vernünftige Vertragspartner für eine vergleichbare freie Erfindung vereinbart hätten (RL Nr. 6, 7; Formel E = B × L, RL Nr. 39).",
+   "erlaeuterung": "Zu klären sind die technisch-wirtschaftliche Bezugsgröße (ganze Vorrichtung oder wertbeeinflusster Teil, RL Nr. 8), der branchenübliche Lizenzsatz (Anhaltspunkte RL Nr. 10) und bei hohen Umsätzen die Abstaffelung (RL Nr. 11), die nur bei branchenüblicher Kausalität der Umsätze aus anderen Gründen als der Erfindung angewandt wird. Ein Abschlag „weil Diensterfindung“ ist unzulässig (RL Nr. 9); er gehört in den Anteilsfaktor."
+  },
+  {
+   "id": "concept:arb_anteilsfaktor",
+   "type": "concept",
+   "label": "Anteilsfaktor (RL Nr. 30 bis 38)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Der Anteilsfaktor ist der Prozentsatz des Erfindungswerts, der dem Arbeitnehmer verbleibt, weil er keine freie Erfindung gemacht hat. Er ergibt sich aus der Summe der Wertzahlen für die Stellung der Aufgabe (a, RL Nr. 31), die Lösung der Aufgabe (b, RL Nr. 32) und die Aufgaben und Stellung im Betrieb (c, RL Nr. 33 bis 36) nach der Tabelle in RL Nr. 37.",
+   "erlaeuterung": "Typisch sind Anteilsfaktoren zwischen 10 und 25 %. Je höher die Leistungserwartung an den Arbeitnehmer und je mehr der Betrieb beigetragen hat, desto niedriger der Faktor. Derselbe Gesichtspunkt darf nicht doppelt (im Erfindungswert und im Anteilsfaktor) berücksichtigt werden (RL Nr. 2)."
+  },
+  {
+   "id": "concept:arb_festsetzung",
+   "type": "concept",
+   "label": "Feststellung und Festsetzung der Vergütung (§ 12 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Art und Höhe der Vergütung sollen in angemessener Frist nach der Inanspruchnahme durch Vereinbarung festgestellt werden (§ 12 Abs. 1 ArbnErfG). Kommt keine Vereinbarung zustande, muss der Arbeitgeber die Vergütung durch begründete Erklärung in Textform festsetzen und entsprechend zahlen, spätestens drei Monate nach Erteilung des Schutzrechts (§ 12 Abs. 3 ArbnErfG).",
+   "erlaeuterung": "Widerspricht der Arbeitnehmer nicht binnen zwei Monaten in Textform, wird die Festsetzung verbindlich (§ 12 Abs. 4 ArbnErfG). Bei mehreren Erfindern ist die Vergütung für jeden gesondert festzustellen (§ 12 Abs. 2 ArbnErfG). Vereinbarung und Festsetzung können wegen erheblicher Unbilligkeit unwirksam sein (§ 23 ArbnErfG) oder an wesentlich veränderte Umstände angepasst werden (§ 12 Abs. 6 ArbnErfG)."
+  },
+  {
+   "id": "concept:arb_anpassung",
+   "type": "concept",
+   "label": "Anpassung der Vergütung (§ 12 Abs. 6 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Arbeitgeber und Arbeitnehmer können voneinander die Einwilligung in eine andere Regelung der Vergütung verlangen, wenn sich Umstände wesentlich ändern, die für die Feststellung oder Festsetzung maßgebend waren (§ 12 Abs. 6 S. 1 ArbnErfG). Eine bereits geleistete Vergütung kann nicht zurückgefordert werden (§ 12 Abs. 6 S. 2 ArbnErfG).",
+   "erlaeuterung": "Wesentlich ist eine Änderung, die ein Festhalten an der Regelung unzumutbar macht (Gedanke der Störung der Geschäftsgrundlage), etwa eine unerwartete Umsatzentwicklung bei einer Pauschalabfindung. Die Nichtigerklärung des Schutzrechts wirkt für die Zukunft; bis dahin bleibt die Vergütung geschuldet (RL Nr. 43)."
+  },
+  {
+   "id": "concept:arb_unbilligkeit",
+   "type": "concept",
+   "label": "Unbilligkeit (§ 23 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Vereinbarungen über Diensterfindungen, freie Erfindungen oder Verbesserungsvorschläge, die nach dem Gesetz zulässig sind, sind unwirksam, soweit sie in erheblichem Maße unbillig sind; dasselbe gilt für die Festsetzung der Vergütung (§ 23 Abs. 1 ArbnErfG). Die Unbilligkeit muss spätestens bis zum Ablauf von sechs Monaten nach Beendigung des Arbeitsverhältnisses in Textform geltend gemacht werden (§ 23 Abs. 2 ArbnErfG).",
+   "erlaeuterung": "Maßstab ist ein objektives Missverhältnis zwischen der vereinbarten und der gesetzlich geschuldeten Vergütung zum Zeitpunkt der Vereinbarung; die Schiedsstelle geht bei einer Abweichung von etwa der Hälfte davon aus. Abzugrenzen von der Unabdingbarkeit des § 22 ArbnErfG (Vereinbarungen vor der Meldung) und von der Anpassung nach § 12 Abs. 6 ArbnErfG (spätere Änderung der Umstände)."
+  },
+  {
+   "id": "concept:arb_schutzrechtsanmeldung",
+   "type": "concept",
+   "label": "Anmeldepflicht des Arbeitgebers (§§ 13, 14 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Der Arbeitgeber ist verpflichtet und allein berechtigt, eine gemeldete Diensterfindung im Inland zur Erteilung eines Schutzrechts anzumelden, und zwar unverzüglich (§ 13 Abs. 1 ArbnErfG). Nach der Inanspruchnahme ist er berechtigt, sie auch im Ausland anzumelden (§ 14 Abs. 1 ArbnErfG); für Staaten, in denen er nicht anmelden will, muss er sie freigeben (§ 14 Abs. 2 ArbnErfG).",
+   "erlaeuterung": "Die Anmeldepflicht entfällt bei Freigabe, mit Zustimmung des Arbeitnehmers oder bei einem Betriebsgeheimnis nach § 17 ArbnErfG (§ 13 Abs. 2 ArbnErfG). Verletzt der Arbeitgeber sie, kann der Arbeitnehmer nach Fristsetzung selbst anmelden (§ 13 Abs. 3 ArbnErfG) und Schadensersatz verlangen."
+  },
+  {
+   "id": "concept:arb_aufgabe_schutzrecht",
+   "type": "concept",
+   "label": "Aufgabe von Anmeldung oder Schutzrecht (§ 16 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Will der Arbeitgeber vor Erfüllung des Vergütungsanspruchs die Anmeldung nicht weiterverfolgen oder das Schutzrecht nicht aufrechterhalten, muss er dies dem Arbeitnehmer mitteilen und ihm auf Verlangen und auf dessen Kosten das Recht übertragen (§ 16 Abs. 1 ArbnErfG). Verlangt der Arbeitnehmer nicht binnen drei Monaten die Übertragung, darf der Arbeitgeber das Recht aufgeben (§ 16 Abs. 2 ArbnErfG).",
+   "erlaeuterung": "Der Arbeitgeber kann sich bei der Mitteilung ein nichtausschließliches Benutzungsrecht gegen angemessene Vergütung vorbehalten (§ 16 Abs. 3 ArbnErfG). Lässt er ein Schutzrecht ohne Angebot verfallen, schuldet er Schadensersatz; die Pflicht besteht nur, solange der Vergütungsanspruch nicht vollständig erfüllt ist (z. B. durch Pauschalabfindung)."
+  },
+  {
+   "id": "concept:arb_schiedsstelle",
+   "type": "concept",
+   "label": "Schiedsstelle nach dem ArbnErfG (§§ 28 bis 36 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Die Schiedsstelle beim DPMA kann in allen Streitfällen zwischen Arbeitgeber und Arbeitnehmer auf Grund des ArbnErfG angerufen werden; sie hat zu versuchen, eine gütliche Einigung herbeizuführen (§ 28 ArbnErfG). Sie macht einen Einigungsvorschlag, der verbindlich wird, wenn nicht binnen eines Monats schriftlich widersprochen wird (§ 34 Abs. 3 ArbnErfG).",
+   "erlaeuterung": "Das Verfahren ist kostenfrei (§ 36 ArbnErfG). Klage ist erst nach einem Schiedsverfahren zulässig (§ 37 Abs. 1 ArbnErfG), außer in den Fällen des § 37 Abs. 2 ArbnErfG, namentlich wenn der Arbeitnehmer aus dem Betrieb ausgeschieden ist. Ausschließlich zuständig für die Klage sind die Patentstreitkammern der Landgerichte (§ 39 Abs. 1 ArbnErfG)."
+  },
+  {
+   "id": "concept:arb_hochschulerfindung",
+   "type": "concept",
+   "label": "Hochschulerfindung (§ 42 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Für Erfindungen der an einer Hochschule Beschäftigten gelten Sonderregeln: Publikationsfreiheit nach rechtzeitiger Anzeige (§ 42 Nr. 1 ArbnErfG), keine Meldepflicht bei Ablehnung der Offenbarung (§ 42 Nr. 2 ArbnErfG), Benutzungsrecht für Lehre und Forschung (§ 42 Nr. 3 ArbnErfG) und eine Vergütung von 30 % der durch die Verwertung erzielten Einnahmen (§ 42 Nr. 4 ArbnErfG).",
+   "erlaeuterung": "Die 30 % beziehen sich auf die Bruttoeinnahmen der Hochschule aus der Verwertung, ohne Abzug von Kosten und ohne Anteilsfaktor. Ob eine Einrichtung „Hochschule“ ist (etwa ein Universitätsklinikum), entscheidet die Verzahnung von Forschung, Lehre und Krankenversorgung, nicht die Rechtsform."
+  },
+  {
+   "id": "concept:arb_altrecht",
+   "type": "concept",
+   "label": "Übergangsrecht: Erfindungen vor dem 1.10.2009 (§ 43 Abs. 3 ArbnErfG)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Auf Erfindungen, die vor dem 1.10.2009 gemeldet wurden, sind die Vorschriften des ArbnErfG in der bis dahin geltenden Fassung anzuwenden (§ 43 Abs. 3 ArbnErfG). Maßgeblich ist der Zeitpunkt der Meldung, nicht der Fertigstellung.",
+   "erlaeuterung": "Altes Recht heißt vor allem: Inanspruchnahme nur durch schriftliche Erklärung binnen vier Monaten (sonst wird die Erfindung frei), Wahl zwischen beschränkter und unbeschränkter Inanspruchnahme, Schriftform statt Textform. Viele Einigungsvorschläge der Schiedsstelle betreffen noch Altfälle; ihre Aussagen zur Inanspruchnahme sind deshalb am Meldedatum zu messen."
+  },
+  {
+   "id": "concept:arb_auskunft",
+   "type": "concept",
+   "label": "Auskunft und Rechnungslegung",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Zur Berechnung der Vergütung kann der Arbeitnehmererfinder vom Arbeitgeber Auskunft und Rechnungslegung nach § 242 BGB verlangen, soweit er die Angaben benötigt und der Arbeitgeber sie ohne unzumutbaren Aufwand geben kann.",
+   "erlaeuterung": "Umfang nach der Berechnungsmethode: bei der Lizenzanalogie Umsätze mit erfindungsgemäßen Produkten, nicht Gewinne oder Kosten; beim erfassbaren betrieblichen Nutzen weitergehende Kostenangaben (RL Nr. 5). Grenzen setzen Geheimhaltungsinteressen und die Verhältnismäßigkeit (BGH Türinnenverstärkung, Ramipril)."
+  },
+  {
+   "id": "concept:arb_miterfinder",
+   "type": "concept",
+   "label": "Miterfinder und Miterfinderanteil",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Haben mehrere Arbeitnehmer an einer Diensterfindung mitgewirkt, ist die Vergütung für jeden gesondert festzustellen; der Arbeitgeber muss allen die Gesamthöhe und die Anteile bekanntgeben (§ 12 Abs. 2 ArbnErfG). Miterfinder ist, wer einen schöpferischen Beitrag zur Lösung geleistet hat; der Anteil bemisst sich nach dem Gewicht der Beiträge.",
+   "erlaeuterung": "Rein handwerkliche Mitwirkung nach Anweisung begründet keine Miterfinderschaft. Widerspricht ein Miterfinder der Festsetzung mit der Begründung, sein Anteil sei unrichtig, wird sie für alle unverbindlich (§ 12 Abs. 5 ArbnErfG). Die Erfinderbenennung im Patent (§ 37 PatG) ist für den Anteil nur ein Indiz."
+  },
+  {
+   "id": "concept:arb_vorratspatent",
+   "type": "concept",
+   "label": "Vorrats-, Sperr- und nicht verwertete Patente (RL Nr. 18 bis 24)",
+   "kategorie": "Patent: Arbeitnehmererfindungen (ArbnErfG)",
+   "definition": "Auch nicht benutzte Diensterfindungen können einen Erfindungswert haben: Sperrpatente, die Wettbewerber von einer Nachahmung abhalten (RL Nr. 18), und Vorrats- oder Ausbaupatente, deren spätere Verwertung zu erwarten ist (RL Nr. 21). Wirtschaftlich nicht verwertbare Erfindungen haben keinen Erfindungswert (RL Nr. 22).",
+   "erlaeuterung": "Hält der Arbeitgeber ein Schutzrecht über eine Prüfungszeit von in der Regel drei bis fünf Jahren aufrecht, ohne es freizugeben, spricht eine tatsächliche Vermutung für einen Wert (RL Nr. 23). Die Schiedsstelle setzt für Vorratspatente meist einen Jahrespauschalbetrag an."
   },
   {
    "id": "concept:des_design_begriff",
@@ -71858,13 +73952,64 @@
    "order": 14
   },
   {
+   "id": "course:p04",
+   "type": "course",
+   "label": "ArbnErfG nach Vorschriften",
+   "untertitel": "Arbeitnehmererfindungen von der Meldung bis zur Schiedsstelle: wie Schiedsstelle und BGH das Gesetz auslegen",
+   "beschreibung": "Ein Kapitel je Vorschrift des Gesetzes über Arbeitnehmererfindungen: Diensterfindung und freie Erfindung, Meldung, Inanspruchnahme und Freigabe, Vergütung mit Erfindungswert und Anteilsfaktor nach den Vergütungsrichtlinien, Festsetzung und Anpassung, Schutzrechtsanmeldung und Aufgabe, Verbesserungsvorschläge, Unbilligkeit, Schiedsverfahren und Klage, Hochschulerfindungen. Jeder Fall ist ein kurzer Sachverhalt mit mehreren Fragen nach Einigungsvorschlägen der Schiedsstelle und Urteilen des BGH.",
+   "gebiet": "patent",
+   "order": 21
+  },
+  {
+   "id": "chapter:p04n42",
+   "type": "chapter",
+   "label": "§ 42 ArbnErfG: Erfindungen an Hochschulen",
+   "order": 1
+  },
+  {
+   "id": "unit:p04n42-0",
+   "type": "unit",
+   "label": "Sonderrecht der Hochschulerfinder",
+   "typ": "intro",
+   "level": 0,
+   "frage": "",
+   "order": 1
+  },
+  {
+   "id": "unit:p04n42-1a",
+   "type": "unit",
+   "label": "Hochschule und Beschäftigte",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Gilt für M die Sonderregel für Hochschulerfinder, obwohl U ein Klinikum in eigener Rechtsform ist und M kein Wissenschaftler?",
+   "order": 2
+  },
+  {
+   "id": "unit:p04n42-1b",
+   "type": "unit",
+   "label": "Bemessung",
+   "typ": "fall",
+   "level": 1,
+   "frage": "Berechnet sich die Vergütung nach Erfindungswert und Anteilsfaktor?",
+   "order": 3
+  },
+  {
+   "id": "unit:p04n42-1c",
+   "type": "unit",
+   "label": "Einnahmen",
+   "typ": "fall",
+   "level": 2,
+   "frage": "Darf U die Ersparnis vor Anwendung der 30 % mit einem Umrechnungsfaktor (Lizenzsatz) kürzen?",
+   "order": 4
+  },
+  {
    "id": "course:u01",
    "type": "course",
    "label": "Das Einheitliche Patentgericht und das Einheitspatent: Aufbau, Rechtsquellen, Übergangszeit",
    "untertitel": "Art. 6 bis 10 EPGÜ, Art. 20 bis 24 EPGÜ, Art. 83 EPGÜ mit R. 5, 5A VerfO, Präambel der VerfO und Art. 48 EPGÜ – und das Einheitspatent: EPatVO, EPatÜVO, DOEPS, R. 97 VerfO",
    "beschreibung": "Der Einstieg in das EPGÜ, Vorschrift für Vorschrift: Aufbau und Spruchkörper (Art. 6 bis 10 EPGÜ), Unionsrecht und Rechtsquellen (Art. 20 bis 24 EPGÜ), Übergangszeit, Opt-out und Altfälle (Art. 83, 32 EPGÜ, R. 5, 5A VerfO), Front-loading und Vertretung (Präambel VerfO, Art. 48 EPGÜ) – mit Roku/Dolby, Silimed/Polytech, Fives/REEL, Knaus Tabbert, bioMérieux/Labrador und Suinno/Microsoft. Das letzte Kapitel führt zum Einheitspatent: EPatVO, EPatÜVO, DOEPS und die Klage nach R. 97 VerfO (Bodycap/EPA).",
    "gebiet": "upc",
-   "order": 21
+   "order": 22
   },
   {
    "id": "chapter:u01a",
@@ -72425,7 +74570,7 @@
    "untertitel": "Art. 31 EPGÜ mit der Brüssel-Ia-VO, Art. 33 EPGÜ mit dieselben Parteien und den drei Optionen bei der Widerklage, der Einspruch nach R. 19 bis 21 VerfO und R. 333 VerfO",
    "beschreibung": "Vier Stufen der Zuständigkeitsprüfung vor dem EPG: internationale Zuständigkeit nach der Brüssel-Ia-VO (Sinocare/Abbott, Dyson/Dreame, NUC/Hurom), sachliche Zuständigkeit nach Art. 32 EPGÜ, die richtige Kammer nach Art. 33 EPGÜ (Barco/Yealink, Meril/Edwards, Seoul Viosys/Emporia, Pari/Philips) und die Rüge durch den Einspruch (Roku/Dolby, Vivo/Sun Patent, Sun Patent/Vivo, Netgear/Huawei).",
    "gebiet": "upc",
-   "order": 22
+   "order": 23
   },
   {
    "id": "chapter:u02a",
@@ -72929,7 +75074,7 @@
    "untertitel": "R. 4, 9, 13, 271 bis 275 VerfO, Art. 49 EPGÜ mit R. 323 VerfO, R. 333 und 355 VerfO, R. 263, 265, 313 VerfO und Art. 76 EPGÜ",
    "beschreibung": "Der Gang des Verletzungsverfahrens nach der Verfahrensordnung, Regel für Regel: Klageschrift und Anlagen (Sanofi/Amgen), CMS-Workflows und Signatur (Edwards/Meril, Avago/Tesla, SharkNinja/SEB), Zustellung in Drittstaaten (NEC/TCL), Fristverlängerung nach R. 9 VerfO (SharkNinja/SEB, bioMérieux/Labrador), Verfahrenssprache (TP-Link/Huawei, 10x/Curio), Berichterstatter und R. 333 VerfO (Huawei/Quinn Emanuel, Vivo/Sun Patent), Versäumnis (Suinno/Microsoft), Klageänderung (VMR/NJOY, Supponor/AIM), Rücknahme (Avago/Tesla, Juul/NJOY), Streithilfe (Strabag/Swarco) und rechtliches Gehör (Siemens/Hologic, DexCom/Abbott).",
    "gebiet": "upc",
-   "order": 23
+   "order": 24
   },
   {
    "id": "chapter:u03a",
@@ -73514,7 +75659,7 @@
    "untertitel": "Art. 69 EPÜ, Art. 25 bis 29 und 63 EPGÜ in der Rechtsprechung des Berufungsgerichts",
    "beschreibung": "Die Begründetheit der Verletzungsklage, Merkmal für Merkmal: Wie das Berufungsgericht den Patentanspruch auslegt (NanoString/10x, Meril/Edwards, Hefei/Grundfos, Dyson/Dreame, Amgen/Regeneron), was „Anbieten“ und mittelbare Verletzung bedeuten (Belkin/Philips, Lepu/Occlutech, Onward/Niche) und welche Einwendungen bleiben: Vorbenutzung, Erschöpfung, Geschäftsführerhaftung, FRAND (Dolby/Beko).",
    "gebiet": "upc",
-   "order": 24
+   "order": 25
   },
   {
    "id": "chapter:u04a",
@@ -73946,7 +76091,7 @@
    "untertitel": "Art. 58 bis 62 EPGÜ, R. 190 bis 213 und 262, 262A VerfO",
    "beschreibung": "Der Eilrechtsschutz vor dem EPG, Merkmal für Merkmal: hinreichende Sicherheit und Beweislast (NanoString/10x), Notwendigkeit und Zeitfaktor (Biolitec/Lightguide), Dringlichkeit (Barco/Yealink, Nokia/Sunmi), Nichtigkeitseinwand ohne Widerklage (Merz/Viatris), Reichweite der Anordnung (Dyson/Dreame), Schutzschrift und Ex-parte-Anordnungen (Ecovacs/Roborock), Beweissicherung (Centripetal/Palo Alto), Beweisvorlage nach R. 190 VerfO sowie Vertraulichkeit und Akteneinsicht (Ericsson/ASUS, EOFlow/Insulet, SharkNinja/SEB, Gowling/Boehringer).",
    "gebiet": "upc",
-   "order": 25
+   "order": 26
   },
   {
    "id": "chapter:u05a",
@@ -74450,7 +76595,7 @@
    "untertitel": "Art. 65 EPGÜ, Art. 138 EPÜ, R. 25 bis 30 und 42 bis 50 VerfO",
    "beschreibung": "Der Angriff auf den Rechtsbestand vor dem EPG: Nichtigkeitsklage bei der Zentralkammer und Widerklage vor der Lokalkammer, Klagebefugnis (Pari/Philips), Substantiierung und Verteidigung von Unteransprüchen (Fujifilm/Kodak), bedingte Widerklage (Emboline/AorticLab), die Nichtigkeitsgründe des Art. 138 EPÜ in der Rechtsprechung des Berufungsgerichts (expert/Seoul Viosys, Knaus Tabbert, NanoString/10x, Meril/Edwards, Abbott/Sinocare) sowie Änderung des Patents und Erwiderung (Meril/Edwards, VMR/NJOY), Aussetzung bei EPA-Einspruch und aufschiebende Wirkung.",
    "gebiet": "upc",
-   "order": 26
+   "order": 27
   },
   {
    "id": "chapter:u06a",
@@ -74909,7 +77054,7 @@
    "untertitel": "Unterlassung, Abhilfe, Auskunft, Schadensersatz – und wie das EPG seine Anordnungen durchsetzt",
    "beschreibung": "Was der Kläger nach festgestellter Verletzung bekommt: die Unterlassungsanordnung nach Art. 63 EPGÜ und ihre Reichweite (Dyson/Dreame), Abhilfemaßnahmen (Art. 64 EPGÜ), Auskunft (Art. 67 EPGÜ), Veröffentlichung (Art. 80 EPGÜ) und Schadensersatz mit dem gesonderten Festsetzungsverfahren (Art. 68 EPGÜ, R. 125 ff. VerfO). Dazu das System der Zwangsgelder nach Kodak/Fujifilm, die Pflichten des Adressaten bei Plattformen und Geoblocking (Lepu/Occlutech), der Rechtsweg gegen die Zwangsgeldfestsetzung (EOFlow/Insulet) und die Rückwirkung der Aufhebung.",
    "gebiet": "upc",
-   "order": 27
+   "order": 28
   },
   {
    "id": "chapter:u07a",
@@ -75395,7 +77540,7 @@
    "untertitel": "Gerichtsgebühren und Streitwert, Kostengrundentscheidung und Kostenfestsetzung, Sicherheit für die Kosten des Beklagten – und die Jahresgebühren, Lizenzbereitschaft und Registereintragungen des Einheitspatents beim EPA",
    "beschreibung": "Das Geld hinter dem Verfahren: Festgebühr und streitwertabhängige Gebühr nach R. 370 VerfO, Ermäßigung und Erstattung (Juul/NJOY, Roku/Dolby), der Streitwert nach R. 370.6 VerfO (Kodak/Fujifilm), die Kostengrundentscheidung nach Art. 69 EPGÜ mit Obergrenzen (SharkNinja, Strabag/Swarco), die Kostenfestsetzung nach R. 150 bis 157 VerfO mit ihrer Monatsfrist, die Kosten bei Erledigung nach R. 360 VerfO (Dolby/Roku) und die Prozesskostensicherheit nach Art. 69 Abs. 4 EPGÜ, R. 158 VerfO in der Linie Aarke/SodaStream, Hefei/Grundfos, Syntorr/Arthrex, La Siddhi/Athena und Suinno/Microsoft. Das vierte Kapitel wechselt vom Gericht zum EPA: Jahresgebühren des Einheitspatents nach Art. 2 GebOEPS mit Nachfrist und Erlöschen (R. 13, 14 DOEPS), 15 % Ermäßigung bei Lizenzbereitschaft (Art. 8 EPatVO, R. 12 DOEPS) und das Register für den einheitlichen Patentschutz (Art. 3 Abs. 2 EPatVO, R. 16 DOEPS).",
    "gebiet": "upc",
-   "order": 28
+   "order": 29
   },
   {
    "id": "chapter:u08a",
@@ -75995,7 +78140,7 @@
    "untertitel": "Statthaftigkeit, Frist, Beschwer, aufschiebende Wirkung, neues Vorbringen, Entscheidung und Wiederaufnahme",
    "beschreibung": "Der Weg nach Luxemburg: Welche Entscheidungen und Anordnungen des Gerichts erster Instanz frei anfechtbar sind und welche die Zulassung oder die Ermessensüberprüfung brauchen (EOFlow/Insulet), wann die Berufungsfrist beginnt (Belkin/Philips), wer beschwert ist und wie Anschlussberufung und bedingte Berufung funktionieren (Abbott/Sinocare, Emboline/AorticLab), was der Streithelfer darf (Strabag/Swarco), wann die Berufung aufschiebende Wirkung hat (Amycel, Siemens/Hologic, Philips/Belkin), was in der Berufung neu vorgebracht werden darf (Hefei/Grundfos, Meril/Edwards, ICPillar/Arm), wie das Berufungsgericht entscheidet und zurückwirkt (Kodak/Fujifilm) und wann ein rechtskräftiges Verfahren wiederaufgenommen wird (Suinno/Microsoft).",
    "gebiet": "upc",
-   "order": 29
+   "order": 30
   },
   {
    "id": "chapter:u09a",
@@ -76499,7 +78644,7 @@
    "untertitel": "Warum Art. 59 bis 69 und 80 EPGÜ dieselbe Struktur haben wie §§ 139 bis 140e PatG und §§ 18 bis 19c MarkenG",
    "beschreibung": "Die Durchsetzungsrichtlinie 2004/48/EG ist der gemeinsame Nenner: Beweisvorlage, Beweissicherung, Auskunft, einstweilige Maßnahmen, Abhilfe, Unterlassung, Schadensersatz, Kosten und Veröffentlichung stehen im EPGÜ (Art. 59 bis 69, 80), im PatG (§§ 139 bis 140e) und im MarkenG (§§ 14, 18 bis 19c). Der Kurs zeigt die Entsprechungen und wie das Berufungsgericht das EPGÜ richtlinienkonform auslegt: hinreichende Sicherheit (NanoString/10x), Beweissicherung (Centripetal/Palo Alto), Mittelspersonen und Verletzerbegriff (Belkin/Philips), Auskunft (Hurom/NUC), Kostenobergrenzen und Schadensersatz ohne Strafcharakter.",
    "gebiet": "upc",
-   "order": 30
+   "order": 31
   },
   {
    "id": "chapter:u10a",
@@ -86858,6 +89003,18 @@
    "target": "eunorm:patg:14",
    "relation": "interprets",
    "ref": "§ 14 PatG"
+  },
+  {
+   "source": "case:arb_sst_hochschulklinikum",
+   "target": "eunorm:arbnerfg:42",
+   "relation": "interprets",
+   "ref": "§ 42 ArbnErfG"
+  },
+  {
+   "source": "case:arb_sst_hochschulklinikum",
+   "target": "eunorm:arbnerfg:9",
+   "relation": "interprets",
+   "ref": "§ 9 Abs. 1 ArbnErfG"
   },
   {
    "source": "case:des_eugh_pepsico",
@@ -102388,6 +104545,634 @@
    "relation": "documented_in"
   },
   {
+   "source": "concept:arb_diensterfindung",
+   "target": "eunorm:arbnerfg:4",
+   "relation": "defined_in",
+   "ref": "§ 4 Abs. 2 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_diensterfindung",
+   "target": "eunorm:arbnerfg:2",
+   "relation": "defined_in",
+   "ref": "§ 2 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_diensterfindung",
+   "target": "concept:arb_freie_erfindung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_diensterfindung",
+   "target": "concept:arb_erfindungsmeldung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_diensterfindung",
+   "target": "concept:arb_tvv",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_freie_erfindung",
+   "target": "eunorm:arbnerfg:4",
+   "relation": "defined_in",
+   "ref": "§ 4 Abs. 3 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_freie_erfindung",
+   "target": "eunorm:arbnerfg:18",
+   "relation": "defined_in",
+   "ref": "§ 18 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_freie_erfindung",
+   "target": "eunorm:arbnerfg:19",
+   "relation": "defined_in",
+   "ref": "§ 19 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_freie_erfindung",
+   "target": "concept:arb_diensterfindung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_freie_erfindung",
+   "target": "concept:arb_freigabe",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_tvv",
+   "target": "eunorm:arbnerfg:3",
+   "relation": "defined_in",
+   "ref": "§ 3 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_tvv",
+   "target": "eunorm:arbnerfg:20",
+   "relation": "defined_in",
+   "ref": "§ 20 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_tvv",
+   "target": "concept:arb_diensterfindung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_tvv",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_tvv",
+   "target": "source:vrl:29",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungsmeldung",
+   "target": "eunorm:arbnerfg:5",
+   "relation": "defined_in",
+   "ref": "§ 5 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_erfindungsmeldung",
+   "target": "concept:arb_inanspruchnahme",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_erfindungsmeldung",
+   "target": "concept:arb_diensterfindung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_inanspruchnahme",
+   "target": "eunorm:arbnerfg:6",
+   "relation": "defined_in",
+   "ref": "§ 6 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_inanspruchnahme",
+   "target": "eunorm:arbnerfg:7",
+   "relation": "defined_in",
+   "ref": "§ 7 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_inanspruchnahme",
+   "target": "eunorm:arbnerfg:43",
+   "relation": "defined_in",
+   "ref": "§ 43 Abs. 3 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_inanspruchnahme",
+   "target": "concept:arb_erfindungsmeldung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_inanspruchnahme",
+   "target": "concept:arb_freigabe",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_inanspruchnahme",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_inanspruchnahme",
+   "target": "concept:arb_altrecht",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_freigabe",
+   "target": "eunorm:arbnerfg:8",
+   "relation": "defined_in",
+   "ref": "§ 8 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_freigabe",
+   "target": "concept:arb_inanspruchnahme",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_freigabe",
+   "target": "concept:arb_aufgabe_schutzrecht",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "eunorm:arbnerfg:9",
+   "relation": "defined_in",
+   "ref": "§ 9 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "eunorm:arbnerfg:11",
+   "relation": "defined_in",
+   "ref": "§ 11 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "concept:arb_erfindungswert",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "concept:arb_anteilsfaktor",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "concept:arb_festsetzung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "concept:arb_auskunft",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "source:vrl:1",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "source:vrl:2",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "source:vrl:39",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "eunorm:arbnerfg:9",
+   "relation": "defined_in",
+   "ref": "§ 9 Abs. 2 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "concept:arb_lizenzanalogie",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "concept:arb_anteilsfaktor",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "concept:arb_vorratspatent",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "source:vrl:3",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "source:vrl:5",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "source:vrl:12",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "source:vrl:13",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "source:vrl:14",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "source:vrl:16",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "source:vrl:20",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_erfindungswert",
+   "target": "source:vrl:24",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "eunorm:arbnerfg:9",
+   "relation": "defined_in",
+   "ref": "§ 9 Abs. 2 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "eunorm:arbnerfg:11",
+   "relation": "defined_in",
+   "ref": "§ 11 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "concept:arb_erfindungswert",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "concept:arb_anteilsfaktor",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "source:vrl:6",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "source:vrl:7",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "source:vrl:8",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "source:vrl:9",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "source:vrl:10",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_lizenzanalogie",
+   "target": "source:vrl:11",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "eunorm:arbnerfg:9",
+   "relation": "defined_in",
+   "ref": "§ 9 Abs. 2 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "concept:arb_erfindungswert",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "source:vrl:30",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "source:vrl:31",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "source:vrl:32",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "source:vrl:33",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "source:vrl:34",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "source:vrl:35",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_anteilsfaktor",
+   "target": "source:vrl:37",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_festsetzung",
+   "target": "eunorm:arbnerfg:12",
+   "relation": "defined_in",
+   "ref": "§ 12 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_festsetzung",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_festsetzung",
+   "target": "concept:arb_anpassung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_festsetzung",
+   "target": "concept:arb_unbilligkeit",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_festsetzung",
+   "target": "source:vrl:40",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_festsetzung",
+   "target": "source:vrl:41",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_anpassung",
+   "target": "eunorm:arbnerfg:12",
+   "relation": "defined_in",
+   "ref": "§ 12 Abs. 6 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_anpassung",
+   "target": "concept:arb_festsetzung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_anpassung",
+   "target": "concept:arb_unbilligkeit",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_unbilligkeit",
+   "target": "eunorm:arbnerfg:23",
+   "relation": "defined_in",
+   "ref": "§ 23 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_unbilligkeit",
+   "target": "eunorm:arbnerfg:22",
+   "relation": "defined_in",
+   "ref": "§ 22 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_unbilligkeit",
+   "target": "concept:arb_festsetzung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_unbilligkeit",
+   "target": "concept:arb_anpassung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_schutzrechtsanmeldung",
+   "target": "eunorm:arbnerfg:13",
+   "relation": "defined_in",
+   "ref": "§ 13 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_schutzrechtsanmeldung",
+   "target": "eunorm:arbnerfg:14",
+   "relation": "defined_in",
+   "ref": "§ 14 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_schutzrechtsanmeldung",
+   "target": "eunorm:arbnerfg:17",
+   "relation": "defined_in",
+   "ref": "§ 17 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_schutzrechtsanmeldung",
+   "target": "concept:arb_aufgabe_schutzrecht",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_schutzrechtsanmeldung",
+   "target": "concept:arb_inanspruchnahme",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_aufgabe_schutzrecht",
+   "target": "eunorm:arbnerfg:16",
+   "relation": "defined_in",
+   "ref": "§ 16 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_aufgabe_schutzrecht",
+   "target": "concept:arb_schutzrechtsanmeldung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_aufgabe_schutzrecht",
+   "target": "concept:arb_freigabe",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_schiedsstelle",
+   "target": "eunorm:arbnerfg:28",
+   "relation": "defined_in",
+   "ref": "§ 28 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_schiedsstelle",
+   "target": "eunorm:arbnerfg:34",
+   "relation": "defined_in",
+   "ref": "§ 34 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_schiedsstelle",
+   "target": "eunorm:arbnerfg:37",
+   "relation": "defined_in",
+   "ref": "§ 37 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_schiedsstelle",
+   "target": "eunorm:arbnerfg:39",
+   "relation": "defined_in",
+   "ref": "§ 39 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_schiedsstelle",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_hochschulerfindung",
+   "target": "eunorm:arbnerfg:42",
+   "relation": "defined_in",
+   "ref": "§ 42 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_hochschulerfindung",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_hochschulerfindung",
+   "target": "concept:arb_diensterfindung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_altrecht",
+   "target": "eunorm:arbnerfg:43",
+   "relation": "defined_in",
+   "ref": "§ 43 Abs. 3 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_altrecht",
+   "target": "eunorm:arbnerfg:6",
+   "relation": "defined_in",
+   "ref": "§ 6 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_altrecht",
+   "target": "concept:arb_inanspruchnahme",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_altrecht",
+   "target": "concept:arb_erfindungsmeldung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_auskunft",
+   "target": "eunorm:arbnerfg:9",
+   "relation": "defined_in",
+   "ref": "§ 9 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_auskunft",
+   "target": "eunorm:arbnerfg:12",
+   "relation": "defined_in",
+   "ref": "§ 12 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_auskunft",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_auskunft",
+   "target": "concept:arb_lizenzanalogie",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_miterfinder",
+   "target": "eunorm:arbnerfg:12",
+   "relation": "defined_in",
+   "ref": "§ 12 Abs. 2 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_miterfinder",
+   "target": "eunorm:arbnerfg:12",
+   "relation": "defined_in",
+   "ref": "§ 12 Abs. 5 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_miterfinder",
+   "target": "concept:arb_festsetzung",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_miterfinder",
+   "target": "concept:arb_verguetungsanspruch",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_vorratspatent",
+   "target": "eunorm:arbnerfg:9",
+   "relation": "defined_in",
+   "ref": "§ 9 Abs. 2 ArbnErfG"
+  },
+  {
+   "source": "concept:arb_vorratspatent",
+   "target": "concept:arb_erfindungswert",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_vorratspatent",
+   "target": "concept:arb_aufgabe_schutzrecht",
+   "relation": "related_to"
+  },
+  {
+   "source": "concept:arb_vorratspatent",
+   "target": "source:vrl:18",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_vorratspatent",
+   "target": "source:vrl:21",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_vorratspatent",
+   "target": "source:vrl:22",
+   "relation": "documented_in"
+  },
+  {
+   "source": "concept:arb_vorratspatent",
+   "target": "source:vrl:23",
+   "relation": "documented_in"
+  },
+  {
    "source": "concept:des_design_begriff",
    "target": "eunorm:designg:1",
    "relation": "defined_in",
@@ -107402,6 +110187,16 @@
   {
    "source": "concept:pat_klagekonzentration",
    "target": "case:pat_bgh_fensterfluegel",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:arb_hochschulerfindung",
+   "target": "case:arb_sst_hochschulklinikum",
+   "relation": "illustrated_by"
+  },
+  {
+   "source": "concept:arb_verguetungsanspruch",
+   "target": "case:arb_sst_hochschulklinikum",
    "relation": "illustrated_by"
   },
   {
@@ -161351,6 +164146,101 @@
    "target": "norm:§15",
    "relation": "applies",
    "ref": "§ 15 Abs. 2 GebrMG"
+  },
+  {
+   "source": "course:p04",
+   "target": "chapter:p04n42",
+   "relation": "has_chapter",
+   "order": 1
+  },
+  {
+   "source": "chapter:p04n42",
+   "target": "unit:p04n42-0",
+   "relation": "has_unit",
+   "order": 1
+  },
+  {
+   "source": "unit:p04n42-0",
+   "target": "concept:arb_hochschulerfindung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:p04n42-0",
+   "target": "eunorm:arbnerfg:42",
+   "relation": "applies",
+   "ref": "§ 42 ArbnErfG"
+  },
+  {
+   "source": "chapter:p04n42",
+   "target": "unit:p04n42-1a",
+   "relation": "has_unit",
+   "order": 2
+  },
+  {
+   "source": "unit:p04n42-1a",
+   "target": "concept:arb_hochschulerfindung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:p04n42-1a",
+   "target": "case:arb_sst_hochschulklinikum",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:p04n42-1a",
+   "target": "eunorm:arbnerfg:42",
+   "relation": "applies",
+   "ref": "§ 42 ArbnErfG"
+  },
+  {
+   "source": "chapter:p04n42",
+   "target": "unit:p04n42-1b",
+   "relation": "has_unit",
+   "order": 3
+  },
+  {
+   "source": "unit:p04n42-1b",
+   "target": "concept:arb_hochschulerfindung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:p04n42-1b",
+   "target": "case:arb_sst_hochschulklinikum",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:p04n42-1b",
+   "target": "eunorm:arbnerfg:42",
+   "relation": "applies",
+   "ref": "§ 42 ArbnErfG"
+  },
+  {
+   "source": "unit:p04n42-1b",
+   "target": "eunorm:arbnerfg:9",
+   "relation": "applies",
+   "ref": "§ 9 Abs. 2 ArbnErfG"
+  },
+  {
+   "source": "chapter:p04n42",
+   "target": "unit:p04n42-1c",
+   "relation": "has_unit",
+   "order": 4
+  },
+  {
+   "source": "unit:p04n42-1c",
+   "target": "concept:arb_hochschulerfindung",
+   "relation": "trains"
+  },
+  {
+   "source": "unit:p04n42-1c",
+   "target": "case:arb_sst_hochschulklinikum",
+   "relation": "cites"
+  },
+  {
+   "source": "unit:p04n42-1c",
+   "target": "eunorm:arbnerfg:42",
+   "relation": "applies",
+   "ref": "§ 42 ArbnErfG"
   },
   {
    "source": "course:u01",

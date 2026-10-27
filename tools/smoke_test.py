@@ -41,7 +41,8 @@ with sync_playwright() as pw:
               # Designrecht (DesignG, DesignV, DesignRL, DesignRL 2024, GGV, Design-Korpus)
               "#/karte/eunorm:designg:2", "#/karte/eunorm:designg:40a", "#/karte/eunorm:designv:7", "#/karte/eunorm:designrl:5", "#/karte/eunorm:designrl:erwaegungsgruende", "#/karte/eunorm:designrl2024:19", "#/karte/eunorm:ggv:20a", "#/karte/eunorm:ggv:89",
               "#/karte/concept:des_eigenart", "#/karte/concept:des_anspruchsgrundlagen_eu", "#/karte/schema:des_schema_schutzfaehigkeit", "#/karte/schema:des_schema_designverletzung", "#/karte/distinction:d_des_anspruchsgrundlagen_eu", "#/karte/distinction:d_des_designrl_umsetzung",
-              "#/karte/case:des_bgh_untersetzer", "#/karte/case:des_eugh_doceram", "#/karte/case:des_bpatg_sattelunterseite_ii", "#/bpatg/design", "#/bpatg/norm/eunorm:designg:2", "#/suche/q/eigenart"] + [f"#/kurs/{k['id']}" for k in kurse] + [f"#/kurse/{g}" for g in pg.evaluate("JSON.parse(document.getElementById('gebiete-data').textContent).map(g=>g.id)")]
+              "#/karte/case:des_bgh_untersetzer", "#/karte/case:des_eugh_doceram", "#/karte/case:des_bpatg_sattelunterseite_ii", "#/bpatg/design", "#/bpatg/norm/eunorm:designg:2", "#/suche/q/eigenart",
+              "#/bpatg/arbnerfg", "#/bpatg/norm/eunorm:arbnerfg:9", "#/karte/eunorm:arbnerfg:42", "#/karte/case:arb_sst_hochschulklinikum", "#/karte/source:vrl:37"] + [f"#/kurs/{k['id']}" for k in kurse] + [f"#/kurse/{g}" for g in pg.evaluate("JSON.parse(document.getElementById('gebiete-data').textContent).map(g=>g.id)")]
     sample = [u for u in units if u["typ"] in ("intro", "schema")] + units[::7]
     routes += [f"#/lernen/{u['id']}" for u in sample]
     for r in routes:
@@ -215,11 +216,20 @@ with sync_playwright() as pw:
     check(pg.evaluate("!!document.querySelector('#sec-umsetzung .chip.eunorm')"), "Lernkarte DesignRL: Umsetzung im DesignG fehlt")
     pg.goto(BASE + "#/karte/distinction:d_des_anspruchsgrundlagen_eu"); pg.wait_for_timeout(300)
     check(pg.evaluate("[...document.querySelectorAll('table th')].some(t=>/EPGÜ/.test(t.textContent))") and pg.evaluate("[...document.querySelectorAll('table td a.lawlink')].some(a=>/VerfO/.test(a.textContent))"), "Anspruchsgrundlagentabelle: EPGÜ-Spalte oder VerfO-Links fehlen")
+    # ArbnErfG: Korpus Schiedsstelle/BGH, Kommentar mit Belegen auf der Lernkarte, Vergütungsrichtlinien als Quelle
+    pg.goto(BASE + "#/bpatg/arbnerfg"); pg.wait_for_timeout(1500)
+    check(pg.evaluate("document.querySelectorAll('details.epg').length") >= 20, "ArbnErfG-Korpus: keine Entscheidungen geladen")
+    check("Schiedsstelle" in pg.inner_text("#pat-box"), "ArbnErfG-Korpus: Gerichtsfilter ohne Schiedsstelle")
+    pg.goto(BASE + "#/karte/eunorm:arbnerfg:42"); pg.wait_for_timeout(1200)
+    check(pg.evaluate("document.querySelectorAll('#sec-kommentar .box.kom').length") >= 2, "Lernkarte ArbnErfG: Kommentar fehlt")
+    check(pg.evaluate("!!document.querySelector('#sec-kommentar a[href*=\"dpma.de\"]')"), "Lernkarte ArbnErfG: Belege ohne Link auf dpma.de")
+    check(pg.evaluate("document.querySelectorAll('#pat-inline details.epg').length") >= 1, "Lernkarte ArbnErfG: Rechtsprechung nicht nachgeladen")
     # Lernnavigator: EPGÜ- und VerfO-Ansichten ohne Fehler
     errs2 = []; pg3 = ctx.new_page(); pg3.on("pageerror", lambda e: errs2.append(str(e)))
     for r in ["#/start", "#/richtlinie/upca", "#/richtlinie/rop", "#/eunorm/eunorm:rop:19", "#/eunorm/eunorm:upca:62", "#/case/case:upc_coa_belkin_philips_anbieten", "#/search/Einspruch", "#/cases",
               "#/richtlinie/epatvo", "#/richtlinie/doeps", "#/richtlinie/gebeps", "#/eunorm/eunorm:doeps:13", "#/concept/concept:upc_up_jahresgebuehren", "#/sources",
-              "#/richtlinie/designg", "#/richtlinie/ggv", "#/richtlinie/designrl2024", "#/eunorm/eunorm:designg:40a", "#/eunorm/eunorm:designrl:5", "#/distinction/distinction:d_des_anspruchsgrundlagen_eu", "#/case/case:des_eugh_doceram"]:
+              "#/richtlinie/designg", "#/richtlinie/ggv", "#/richtlinie/designrl2024", "#/eunorm/eunorm:designg:40a", "#/eunorm/eunorm:designrl:5", "#/distinction/distinction:d_des_anspruchsgrundlagen_eu", "#/case/case:des_eugh_doceram",
+              "#/richtlinie/arbnerfg", "#/eunorm/eunorm:arbnerfg:9"]:
         pg3.goto(BASE + "navigator/" + r); pg3.wait_for_timeout(250)
         check(pg3.evaluate("document.getElementById('main').innerText.length") > 200, f"Navigator {r}: leer")
     check(pg3.evaluate("document.querySelectorAll('#main .toc a').length") > 0 or True, "")

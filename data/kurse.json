@@ -30407,6 +30407,136 @@
   ]
  },
  {
+  "id": "p04",
+  "gebiet": "patent",
+  "kompakt": true,
+  "titel": "ArbnErfG nach Vorschriften",
+  "untertitel": "Arbeitnehmererfindungen von der Meldung bis zur Schiedsstelle: wie Schiedsstelle und BGH das Gesetz auslegen",
+  "farbe": "#2f6b4f",
+  "icon": "norm",
+  "beschreibung": "Ein Kapitel je Vorschrift des Gesetzes über Arbeitnehmererfindungen: Diensterfindung und freie Erfindung, Meldung, Inanspruchnahme und Freigabe, Vergütung mit Erfindungswert und Anteilsfaktor nach den Vergütungsrichtlinien, Festsetzung und Anpassung, Schutzrechtsanmeldung und Aufgabe, Verbesserungsvorschläge, Unbilligkeit, Schiedsverfahren und Klage, Hochschulerfindungen. Jeder Fall ist ein kurzer Sachverhalt mit mehreren Fragen nach Einigungsvorschlägen der Schiedsstelle und Urteilen des BGH.",
+  "kapitel": [
+   {
+    "id": "p04n42",
+    "titel": "§ 42 ArbnErfG: Erfindungen an Hochschulen",
+    "einheiten": [
+     {
+      "id": "p04n42-0",
+      "typ": "intro",
+      "titel": "Sonderrecht der Hochschulerfinder",
+      "text": "§ 42 ArbnErfG passt das Gesetz an die Wissenschaftsfreiheit an. Der Erfinder darf seine Diensterfindung nach Anzeige veröffentlichen (Nr. 1), muss sie nicht melden, wenn er die Offenbarung ablehnt (Nr. 2), und behält ein Benutzungsrecht für Lehre und Forschung (Nr. 3). Die Vergütung ist pauschal: 30 % der durch die Verwertung erzielten Einnahmen (Nr. 4).",
+      "concepts": [
+       "arb_hochschulerfindung"
+      ],
+      "norms": [
+       "§ 42 ArbnErfG"
+      ],
+      "cases": [],
+      "distinctions": [],
+      "abschnitt": "Überblick"
+     },
+     {
+      "id": "p04n42-1a",
+      "typ": "fall",
+      "titel": "Hochschule und Beschäftigte",
+      "sachverhalt": "",
+      "frage": "Gilt für M die Sonderregel für Hochschulerfinder, obwohl U ein Klinikum in eigener Rechtsform ist und M kein Wissenschaftler?",
+      "antwort": true,
+      "loesung": [
+       "**Ja!** Ein Universitätsklinikum ist wegen der Verzahnung von Forschung, Lehre und Krankenversorgung Hochschule im Sinne des § 42 ArbnErfG, gleich in welcher Rechtsform. Beschäftigte sind alle, auch nichtwissenschaftliches Personal (Schiedsstelle Hochschulklinikum)."
+      ],
+      "merke": "Uniklinikum = Hochschule; jeder Beschäftigte = Hochschulerfinder.",
+      "level": 1,
+      "concepts": [
+       "arb_hochschulerfindung"
+      ],
+      "norms": [
+       "§ 42 ArbnErfG"
+      ],
+      "cases": [
+       "arb_sst_hochschulklinikum"
+      ],
+      "step": null,
+      "distinctions": [],
+      "abschnitt": "Nr. 4: Vergütung",
+      "gruppe": {
+       "id": "p04n42-1",
+       "titel": "Die Sterilisationsschleuse",
+       "sachverhalt": "Medizintechniker M, angestellt am Universitätsklinikum U, entwickelt eine Schleuse, die die Sterilisation von OP-Besteck verkürzt. U nutzt sie selbst und spart jährlich 200.000 Euro. M verlangt eine Vergütung.",
+       "n": 3
+      },
+      "schritt": 1
+     },
+     {
+      "id": "p04n42-1b",
+      "typ": "fall",
+      "titel": "Bemessung",
+      "sachverhalt": "",
+      "frage": "Berechnet sich die Vergütung nach Erfindungswert und Anteilsfaktor?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Für Hochschulbeschäftigte gilt ausnahmslos § 42 Nr. 4 ArbnErfG: **30 % der Einnahmen** aus der Verwertung, ohne Erfindungswert und Anteilsfaktor nach § 9 Abs. 2 ArbnErfG (Schiedsstelle Hochschulklinikum)."
+      ],
+      "merke": "Hochschule: 30 % der Einnahmen statt Erfindungswert × Anteilsfaktor.",
+      "level": 1,
+      "concepts": [
+       "arb_hochschulerfindung"
+      ],
+      "norms": [
+       "§ 42 ArbnErfG",
+       "§ 9 Abs. 2 ArbnErfG"
+      ],
+      "cases": [
+       "arb_sst_hochschulklinikum"
+      ],
+      "step": null,
+      "distinctions": [],
+      "abschnitt": "Nr. 4: Vergütung",
+      "gruppe": {
+       "id": "p04n42-1",
+       "titel": "Die Sterilisationsschleuse",
+       "sachverhalt": "Medizintechniker M, angestellt am Universitätsklinikum U, entwickelt eine Schleuse, die die Sterilisation von OP-Besteck verkürzt. U nutzt sie selbst und spart jährlich 200.000 Euro. M verlangt eine Vergütung.",
+       "n": 3
+      },
+      "schritt": 2
+     },
+     {
+      "id": "p04n42-1c",
+      "typ": "fall",
+      "titel": "Einnahmen",
+      "sachverhalt": "",
+      "frage": "Darf U die Ersparnis vor Anwendung der 30 % mit einem Umrechnungsfaktor (Lizenzsatz) kürzen?",
+      "antwort": false,
+      "loesung": [
+       "**Nein!** Einnahmen sind alle geldwerten Vorteile aus der Verwertung, auch ein ersparter betrieblicher Nutzen. Ein Umrechnungsfaktor bildet den Lizenzsatz der Lizenzanalogie nach und gehört zu § 9 Abs. 2 ArbnErfG; bei § 42 Nr. 4 ArbnErfG ist er systemwidrig (Schiedsstelle Hochschulklinikum)."
+      ],
+      "merke": "Ersparnis zählt voll als Einnahme.",
+      "level": 2,
+      "concepts": [
+       "arb_hochschulerfindung"
+      ],
+      "norms": [
+       "§ 42 ArbnErfG"
+      ],
+      "cases": [
+       "arb_sst_hochschulklinikum"
+      ],
+      "step": null,
+      "distinctions": [],
+      "abschnitt": "Nr. 4: Vergütung",
+      "gruppe": {
+       "id": "p04n42-1",
+       "titel": "Die Sterilisationsschleuse",
+       "sachverhalt": "Medizintechniker M, angestellt am Universitätsklinikum U, entwickelt eine Schleuse, die die Sterilisation von OP-Besteck verkürzt. U nutzt sie selbst und spart jährlich 200.000 Euro. M verlangt eine Vergütung.",
+       "n": 3
+      },
+      "schritt": 3
+     }
+    ]
+   }
+  ]
+ },
+ {
   "id": "u01",
   "gebiet": "upc",
   "kompakt": "fragen",

@@ -187,7 +187,7 @@ EU_NORM_KEYS = {"MarkenRL": "markenrl", "DurchsetzungsRL": "durchsetzungsrl", "E
 RULE_HEADS = ("R.", "Regel", "Rule")
 # Deutsche Gesetze, die als eigene Normfamilien im Graphen liegen (eunorm:<key>:<nr>): `§ 3 PatG` -> eunorm:patg:3
 DE_NORM_KEYS = {"PatG": "patg", "PatV": "patv", "IntPatÜG": "intpatueg", "IntPatÜbkG": "intpatueg", "PatKostG": "patkostg",
-                "DesignG": "designg", "DesignV": "designv"}
+                "DesignG": "designg", "DesignV": "designv", "ArbnErfG": "arbnerfg", "ArbEG": "arbnerfg", "ArbNErfG": "arbnerfg"}
 # „Art. II § 6 IntPatÜG“, „Art. 229 § 6 EGBGB“ (Artikelgesetze mit Paragraphen): Seite art_ii__6.html bzw. art_229__6.html
 _ROMAN_HEAD = re.compile(r"^(?:Art\.|Artikel)\s*([IVX]+|\d+)\s*§")
 # Ohne verlinkbare Fundstelle (aufgehoben): nie verlinken, nie auf das Kontextgesetz zurückfallen.

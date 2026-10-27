@@ -4,7 +4,8 @@
   (cd docs && python3 -m http.server 8791 &) ; python3 tools/smoke_test.py [http://localhost:8791/]
 
 Prüft: keine pageerror, alle <use>-Referenzen lösen auf, keine leeren Chip-Zeilen, Gesetzeslinks mit href,
-Antwortfluss inkl. Tastatur, Cookie-Kompatibilität mit dem alten Format, Theme-Umschaltung.
+Antwortfluss inkl. Tastatur, Fallketten (Kopf, „Nächste Frage“, Abwandlung, Gruppierung), Cookie-Kompatibilität mit dem
+alten Format, Fortschritt über 4 KB im localStorage, Theme-Umschaltung.
 """
 import json, sys
 from playwright.sync_api import sync_playwright
@@ -68,6 +69,29 @@ with sync_playwright() as pw:
         pg.goto(BASE + f"#/lernen/{mc['id']}"); pg.wait_for_timeout(200); pg.keyboard.press("2"); pg.wait_for_timeout(150)
         check(pg.is_visible("#result"), "MC-Tastatur 2 ohne Ergebnis")
     check(pg.evaluate("document.cookie.includes('mgk_p=')"), "Cookie mgk_p nicht gesetzt")
+    # Fallkette: Sachverhalt, „Frage i von n“, Fortschrittspunkte, „Nächste Frage“, Abwandlung, Gruppierung in der Kapitelliste
+    kette = pg.evaluate("JSON.parse(document.getElementById('kurse-data').textContent).flatMap(k=>k.kapitel.flatMap(c=>c.einheiten)).filter(e=>e.gruppe).map(e=>({id:e.id,s:e.schritt,n:e.gruppe.n,abw:!!e.abwandlung}))")
+    check(kette, "keine Fallkette in den Kursen")
+    if kette:
+        k1 = next(x for x in kette if x["s"] == 1)
+        pg.goto(BASE + f"#/lernen/{k1['id']}"); pg.wait_for_timeout(200)
+        check(pg.is_visible(".box.sv") and pg.query_selector_all(".dots i") and "Frage 1 von" in pg.inner_text("main"), "Fallkette: Kopf (Sachverhalt, Frage 1 von n, Punkte) fehlt")
+        pg.click(".ans"); pg.wait_for_timeout(200)
+        check("Nächste Frage" in pg.inner_text("#result .actions"), "Fallkette: „Nächste Frage“ fehlt")
+        pg.keyboard.press("Enter"); pg.wait_for_timeout(200)
+        check("Frage 2 von" in pg.inner_text("main"), "Fallkette: Frage 2 folgt nicht")
+        abw = next((x for x in kette if x["abw"]), None)
+        if abw:
+            pg.goto(BASE + f"#/lernen/{abw['id']}"); pg.wait_for_timeout(200)
+            check(pg.is_visible(".box.abw"), "Fallkette: Abwandlung nicht angezeigt")
+        kid = pg.evaluate(f"(()=>{{const k=JSON.parse(document.getElementById('kurse-data').textContent).find(k=>k.kapitel.some(c=>c.einheiten.some(e=>e.id==='{k1['id']}')));return k.id}})()")
+        pg.goto(BASE + f"#/kurs/{kid}"); pg.wait_for_timeout(200)
+        check(pg.query_selector_all(".chap .fallh") and pg.query_selector_all(".row.kq"), "Kapitelliste: Fallketten nicht gruppiert")
+    # Großer Fortschritt (> 4 KB) bleibt erhalten (localStorage statt Cookie)
+    big = "_".join(f"{u['id']}.1.20300.2" for u in units[:400])
+    pg.evaluate("s=>{ document.cookie='mgk_p=; max-age=0; path=/'; localStorage.setItem('mgk_p', s); }", big); pg.reload(); pg.wait_for_timeout(300)
+    pg.goto(BASE + f"#/lernen/{fall['id']}"); pg.wait_for_timeout(200); pg.click(".ans"); pg.wait_for_timeout(200)
+    check(len(pg.evaluate("localStorage.getItem('mgk_p')||''")) > 4000, "großer Fortschritt nicht im localStorage")
     # Tagesziel: Karte auf der Startseite, XP-Zeile im Ergebnis, Streak wächst nur beim Erreichen von 100 XP
     pg.goto(BASE + "#/"); pg.wait_for_timeout(200)
     check(pg.query_selector(".goal .ring") is not None and pg.query_selector(".goal .week .wd.today") is not None, "Tagesziel-Karte fehlt")

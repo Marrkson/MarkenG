@@ -80,7 +80,7 @@ CASES = [
       "Beim Antrag auf Änderung der Verfahrenssprache in die Patentsprache aus Fairnessgründen (Art. 49 Abs. 5 EPGÜ, R. 323 VerfO) sind alle Umstände abzuwägen; angesichts der strengen Fristen sind die interne Arbeitssprache der Parteien und der Koordinierungsbedarf mehrerer Beklagter wichtige Faktoren.",
       norms=["Art. 49 Abs. 5 EPGÜ", "R. 323 VerfO"], concepts=["upc_verfahrenssprache"], tags=["Verfahrenssprache"], url=U + "160376", patent="EP3678321"),
     e("upc_cfi_huawei_mediatek_r333", "Huawei/MediaTek (LK München: Überprüfung nach R. 333 VerfO, Drittakteneinsicht)", "EPG LK München", "2026-03-26", "UPC_CFI_1234/2025",
-      "Ein Antrag nach R. 333.1 VerfO gegen eine Entscheidung des Berichterstatters über die Drittakteneinsicht nach R. 262.1(b) VerfO ist unstatthaft, wenn der Spruchkörper für dieses Verfahren nicht zuständig ist. Für das Fortbildungs- und Beratungsinteresse einer Kanzlei an der Akteneinsicht genügt eine abstrakte Betrachtung: Es reicht, dass die Einsicht objektiv das Informationsbedürfnis befriedigen kann.",
+      "Die Lokalkammer hielt einen Antrag nach R. 333.1 VerfO gegen eine Entscheidung des Berichterstatters über die Drittakteneinsicht nach R. 262.1(b) VerfO für unstatthaft; das ist überholt: Nach EPG-BerG Huawei/Quinn Emanuel (UPC-COA-52/2026, 29.6.2026) überprüft der Spruchkörper solche Entscheidungen nach R. 333 VerfO, Rechtsmittel ist die Berufung nach R. 220.2 und 220.3 VerfO. Für das Fortbildungs- und Beratungsinteresse einer Kanzlei an der Akteneinsicht genügt eine abstrakte Betrachtung: Es reicht, dass die Einsicht objektiv das Informationsbedürfnis befriedigen kann.",
       norms=["R. 333 VerfO", "R. 262.1 VerfO"], concepts=["upc_berichterstatter", "upc_akteneinsicht", "upc_ermessensueberpruefung"], tags=["Fallmanagement", "Akteneinsicht"], url=U + "183054", patent="EP3905840"),
     e("upc_cfi_dexcom_abbott_dispositionsmaxime", "DexCom/Abbott (LK Paris: Dispositionsmaxime, Carve-out)", "EPG LK Paris", "2024-07-04", "UPC_CFI_230/2023",
       "Der Streitgegenstand wird von den Parteien bestimmt (Art. 76 Abs. 1 EPGÜ); der Kläger kann bestimmte Verletzungshandlungen oder Staaten ausklammern („carve-out“), um parallele Zuständigkeiten in der Übergangszeit nach Art. 83 EPGÜ zu vermeiden. Dieser Grundsatz beschränkt aber nicht den Beklagten in seinem Angriff auf den Rechtsbestand des Patents.",
@@ -223,3 +223,7 @@ CASES = [
       "Ein Antrag auf Entfernung eines unbefugten Opt-out nach R. 5A VerfO muss entweder darlegen, dass der Antragsteller des Opt-out bei Antragstellung nicht die in den nationalen Registern als berechtigt eingetragene Person war, sondern der Antragsteller der Entfernung (R. 8.5(c) VerfO), oder bei Personenidentität, dass die eingetragene Person nach dem jeweiligen nationalen Recht nicht berechtigt war, als Inhaber eingetragen zu werden, sondern der Antragsteller (R. 8.5(a) VerfO).",
       norms=["R. 5A VerfO", "R. 8 VerfO", "Art. 83 Abs. 3 EPGÜ"], concepts=["upc_opt_out"], tags=["Opt-out"], url=U + "183630", patent="EP2581193"),
 ]
+
+# Leitentscheidungen der überarbeiteten Kurse u01 bis u10 (gegen den Korpus geprüft)
+from . import cases_ua as _ua, cases_ub as _ub  # noqa: E402
+CASES += _ua.CASES + _ub.CASES

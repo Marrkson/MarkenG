@@ -224,6 +224,13 @@ h3{font-size:16px;margin:14px 0 6px;font-weight:600}
 .chap .h .b{flex:1;min-width:0}
 .chap .h .t{font-weight:600;font-size:16px}
 .chap .h .bar{margin-top:6px}
+.chap .abs{font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding:14px 10px 4px}
+.chap .fallh{display:flex;align-items:center;gap:8px;padding:12px 10px 2px;font-weight:600;font-size:15px}
+.chap .fallh .ic{color:var(--brand-deep)}.chap .fallh .meta{margin-left:auto;font-weight:400}
+.row.kq{padding-left:26px}.row.kq .ty{width:28px;height:28px}.row.kq .t{font-weight:500;font-size:14px}
+.chap .fallh+.row{border-top:none}
+.box.abw{--x:var(--tip);--xs:var(--tip-soft)}
+.dots{display:flex;gap:6px;margin:10px 0 0}.dots i{width:22px;height:5px;border-radius:3px;background:var(--line)}.dots i.ok{background:var(--ok)}.dots i.bad{background:var(--bad)}.dots i.cur{background:var(--brand)}
 /* Wissensboxen */
 .box{border-left:4px solid var(--x);background:var(--xs);border-radius:0 var(--r-md) var(--r-md) 0;padding:12px 14px;margin:12px 0;font-size:15px;line-height:1.55}
 .box .k{color:var(--x);display:flex;align-items:center;gap:6px;font-size:12px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;margin-bottom:4px}
@@ -513,8 +520,10 @@ const Store = (()=>{
   let mode = 'cookie';
   const probe = () => { try{ setC('mgk_t','1'); const ok = getC('mgk_t')==='1'; document.cookie='mgk_t=; max-age=0; path='+CPATH; if(!ok) mode='local'; }catch(e){ mode='local'; } };
   probe();
-  const rd = n => { try{ return mode==='cookie' ? getC(n) : localStorage.getItem(n); }catch(e){ return null; } };
-  const wr = (n,v) => { try{ if(mode==='cookie') setC(n,v); else localStorage.setItem(n,v); }catch(e){} };
+  // Browser verwerfen Cookies über 4 KB stillschweigend; längere Stände gehen in den localStorage (gelesen wird der längere)
+  const LS = { get:n=>{ try{ return localStorage.getItem(n); }catch(e){ return null; } }, set:(n,v)=>{ try{ localStorage.setItem(n,v); }catch(e){} }, del:n=>{ try{ localStorage.removeItem(n); }catch(e){} } };
+  const rd = n => { try{ if(mode!=='cookie') return LS.get(n); const c=getC(n), l=LS.get(n); return l && (!c || l.length>c.length) ? l : c; }catch(e){ return null; } };
+  const wr = (n,v) => { try{ if(mode!=='cookie') return LS.set(n,v); if(encodeURIComponent(v).length<=3800){ setC(n,v); LS.del(n); } else { LS.set(n,v); setC(n,''); } }catch(e){} };
   // Meta-Felder: letzter Zieltag, Streak, bester Streak, XP gesamt, letzte Einheit, Hinweis quittiert,
   // Tag und XP von heute, Zieltage (mit | getrennt, die letzten 90). Alte Cookies ohne die drei letzten Felder bleiben lesbar.
   const decode = (u, m) => {
@@ -737,8 +746,8 @@ function kcard(k){ const {p,all}=kmeta(k);
 function lcard(k){ const {p,all} = kmeta(k);
   return `<a class="lcard glass" href="#/kurs/${k.id}" style="--c:${esc(k.farbe)}"><div class="cthumb">${ic(kIcon(k))}</div><div class="b"><span class="tag ${p.pct===100?'ok':p.done?'brand':''}">${p.pct===100?'Abgeschlossen':p.done?'In Arbeit':'Kurs '+nn(k.nr)}</span><div class="t">${esc(k.titel)}</div><div class="m">${ic('fall','s')}${all} Einheiten · ${p.ok} gelöst</div><div class="bar ${p.pct===100?'ok':''}"><i style="width:${p.pct}%"></i></div></div></a>`; }
 const viewPref = () => { try{ return localStorage.getItem('mgk_view')||'list'; }catch(e){ return 'list'; } };
-function unitRow(e, sub){ const s=st(e); const [icn,label]=TYPE[e.typ]||TYPE.fall;
-  return `<a class="row" href="#/lernen/${e.id}"><span class="ty ${e.typ}" title="${label}">${ic(icn,'m')}</span><div class="b"><div class="t">${esc(e.titel)}${e.level?`<span class="lvl">${LEVEL[e.level]}</span>`:''}</div>${sub?`<div class="s">${esc(sub)}</div>`:''}</div><span class="st ${s}">${s==='ok'?ic('richtig','m'):s==='bad'?ic('falsch','m'):ic('offen','m')}</span></a>`; }
+function unitRow(e, sub, kq){ const s=st(e); const [icn,label]=TYPE[e.typ]||TYPE.fall;
+  return `<a class="row${kq?' kq':''}" href="#/lernen/${e.id}"><span class="ty ${e.typ}" title="${label}">${ic(icn,'m')}</span><div class="b"><div class="t">${esc(e.titel)}${e.level?`<span class="lvl">${LEVEL[e.level]}</span>`:''}</div>${sub?`<div class="s">${esc(sub)}</div>`:''}</div><span class="st ${s}">${s==='ok'?ic('richtig','m'):s==='bad'?ic('falsch','m'):ic('offen','m')}</span></a>`; }
 const nodeRow = (n, sub) => { const [icn]=[CHIP_ICON[n.type]||'begriff']; const label = n.type==='case' ? n.court+' „'+n.name+'“' : n.label; return `<a class="row" href="#/karte/${encodeURIComponent(n.id)}"><span class="ty ${n.type==='step'||n.type==='schema'?'schema':n.type==='unit'?'fall':''}">${ic(icn,'m')}</span><div class="b"><div class="t">${esc(label)}</div>${sub?`<div class="s">${sub}</div>`:''}</div>${weak(n.id)?'<span class="rd" title="Lernradar"></span>':''}<span class="chev">${ic('weiter','m')}</span></a>`; };
 
 function vHome(){
@@ -811,8 +820,15 @@ function vKurs(id){
     <div class="mrow">${ic('richtig','m')}<span class="mono">${p.ok} von ${p.total} gelöst</span>${dueK?`<span>·</span><span>${dueK} fällig</span>`:''}</div><div class="bar ${p.pct===100?'ok':''}" style="margin-top:8px"><i style="width:${p.pct}%"></i></div>
     <div class="actrow"><a class="btn primary" href="#/lernen/${(u.find(e=>!P.u[e.id])||u[0]).id}">${ic('weiter','m')}${p.done?'Fortsetzen':'Starten'}</a><a class="iconbtn lg" href="#/wdh" aria-label="Wiederholen" title="Wiederholen">${ic('tab-wdh')}</a><a class="iconbtn lg" href="navigator/" aria-label="Lernnavigator" title="Lernnavigator">${ic('suche')}</a></div></div></article>
   <div class="sh"><h2>Kapitel</h2><span class="meta mono">${p.ok}/${p.total}</span></div>
-  ${k.kapitel.map((c,i)=>{ const cp=progOf(c.einheiten.filter(QUIZ)); return `<div class="glass chap" style="margin-top:0"><div class="h"><span class="n mono">${i+1}</span><div class="b"><div class="t">${esc(c.titel)}</div><div class="bar ${cp.pct===100?'ok':''}"><i style="width:${cp.pct}%"></i></div></div><span class="meta mono">${cp.ok}/${cp.total}</span></div><div class="list" style="padding-top:0">${c.einheiten.map(e=>unitRow(e)).join('')}</div></div>`; }).join('')}`;
+  ${k.kapitel.map((c,i)=>{ const cp=progOf(c.einheiten.filter(QUIZ)); return `<div class="glass chap" style="margin-top:0"><div class="h"><span class="n mono">${i+1}</span><div class="b"><div class="t">${esc(c.titel)}</div><div class="bar ${cp.pct===100?'ok':''}"><i style="width:${cp.pct}%"></i></div></div><span class="meta mono">${cp.ok}/${cp.total}</span></div><div class="list" style="padding-top:0">${chapUnits(c)}</div></div>`; }).join('')}`;
 }
+// Kapitelliste: Zwischenüberschrift je Abschnitt (Absatz/Tatbestandsmerkmal), Fallketten unter ihrem Falltitel
+function chapUnits(c){ let ab='', gr='', out='';
+  for(const e of c.einheiten){
+    if((e.abschnitt||'')!==ab){ ab=e.abschnitt||''; if(ab) out+=`<div class="abs">${esc(ab)}</div>`; }
+    if(e.gruppe){ if(e.gruppe.id!==gr){ gr=e.gruppe.id; const q=c.einheiten.filter(x=>x.gruppe&&x.gruppe.id===gr); out+=`<div class="fallh">${ic('sachverhalt','s')}<span>${esc(e.gruppe.titel)}</span><span class="meta mono">${q.filter(x=>st(x)==='ok').length}/${q.length}</span></div>`; } out+=unitRow(e,'',true); }
+    else { gr=''; out+=unitRow(e); } }
+  return out; }
 function vLernen(id){
   const e=UNIT.get(id); if(!e) return vHome(); const c=CHAP.get(e.kap), k=KURS.get(e.kurs);
   const idx=c.einheiten.indexOf(e); const next=c.einheiten[idx+1];
@@ -821,14 +837,15 @@ function vLernen(id){
   const dists = (e.distinctions||[]).map(x=>byId.get('distinction:'+x)).filter(Boolean);
   const refs = section('Begriffe',chips(e.concepts.map(x=>byId.get('concept:'+x))))+section('Normen',chips(e.norms.map(r=>({node:normNode(r),ref:r}))))+section('Rechtsprechung',chips(e.cases.map(x=>byId.get('case:'+x))))+(e.step?section('Im Prüfungsschema',chips([byId.get(e.step)])):'')+(dists.length&&e.typ!=='intro'?section('Tabellen',chips(dists)):'');
   const tables = e.typ==='intro' ? dists.map(d=>`<div class="glass card"><h3 style="margin:0 0 6px">${esc(d.label)}</h3>${cmpTable(d)}</div>`).join('') : '';
-  const nextBtn = next ? `<a class="btn primary block" href="#/lernen/${next.id}">Weiter${ic('weiter','m')}</a>` : `<a class="btn primary block" href="#/ende/${c.id}">Kapitel abschließen${ic('richtig','m')}</a>`;
+  const sameCase = next && e.gruppe && next.gruppe && next.gruppe.id===e.gruppe.id;
+  const nextBtn = next ? `<a class="btn primary block" href="#/lernen/${next.id}">${sameCase?'Nächste Frage':'Weiter'}${ic('weiter','m')}</a>` : `<a class="btn primary block" href="#/ende/${c.id}">Kapitel abschließen${ic('richtig','m')}</a>`;
   const [icn,label]=TYPE[e.typ]||TYPE.fall; const lvl=LEVEL[e.level]||'';
   let body='';
   if(e.typ==='intro'){ body=`<span class="tag brand">${ic('intro','s')}Einführung</span><h1>${esc(e.titel)}</h1><div class="glass card intro"><p style="margin:0">${md(e.text)}</p>${refs}</div>${tables}<div class="actions" style="margin-top:20px"><button class="btn primary block" id="ok">Verstanden, weiter${ic('weiter','m')}</button></div>`; }
   else if(e.typ==='schema'){ const s=byId.get('schema:'+e.schema); body=`<span class="tag brand">${ic('schema','s')}Prüfungsschema</span><h1>${esc(e.titel)}</h1>${e.text?`<p class="lead">${md(e.text)}</p>`:''}<div class="glass card"><div class="meta" style="margin-bottom:8px">${txt(s?s.beschreibung:'')}</div>${schemaTree('schema:'+e.schema)}</div><div class="actions" style="margin-top:20px"><button class="btn primary block" id="ok">Gelesen, weiter${ic('weiter','m')}</button></div>`; }
   else {
     const prev=P.u[e.id];
-    body=`<div class="tags" style="margin:0"><span class="tag brand">${ic(icn,'s')}${label}</span>${lvl?`<span class="tag">${lvl}</span>`:''}${prev?`<span class="tag ${prev.r?'ok':'bad'}">${ic(prev.r?'richtig':'falsch','s')}zuletzt ${prev.r?'richtig':'falsch'}</span>`:''}</div><h1>${esc(e.titel)}</h1>${e.sachverhalt?`<div class="box sv"><div class="k">${ic('sachverhalt','s')}Sachverhalt</div>${txt(e.sachverhalt)}</div>`:''}<div class="frage">${txt(e.frage)}</div>
+    body=`<div class="tags" style="margin:0"><span class="tag brand">${ic(icn,'s')}${label}</span>${lvl?`<span class="tag">${lvl}</span>`:''}${prev?`<span class="tag ${prev.r?'ok':'bad'}">${ic(prev.r?'richtig':'falsch','s')}zuletzt ${prev.r?'richtig':'falsch'}</span>`:''}</div>${e.gruppe?caseHead(e,c):`<h1>${esc(e.titel)}</h1>${e.sachverhalt?`<div class="box sv"><div class="k">${ic('sachverhalt','s')}Sachverhalt</div>${txt(e.sachverhalt)}</div>`:''}`}<div class="frage">${txt(e.frage)}</div>
       <div class="answers ${e.typ==='fall'?'yn':''}" id="answers">${e.typ==='fall'?`<button class="ans" data-v="1">Ja</button><button class="ans" data-v="0">Nein</button>`:e.optionen.map((o,i)=>`<button class="ans" data-v="${i}"><span class="mono" style="color:var(--muted)">${i+1}</span>${txt(o)}</button>`).join('')}</div>
       <div id="result" hidden><div id="fb"></div><div class="glass card"><div class="eyebrow">${ic('loesung','s')}Lösung</div><div class="loes" style="margin-top:8px">${e.loesung.map(p=>`<p>${md(p)}</p>`).join('')}</div>${e.merke?`<div class="box merke"><div class="k">${ic('merke','s')}Merke</div>${md(e.merke)}</div>`:''}${refs}</div><div class="actions" style="margin-top:16px">${nextBtn}</div></div>`;
   }
@@ -845,6 +862,10 @@ function vLernen(id){
       if(e.typ==='fall'){ if(ev.key==='j'||ev.key==='J'||ev.key==='ArrowLeft') choose(1); if(ev.key==='n'||ev.key==='N'||ev.key==='ArrowRight') choose(0); } else if(/^[1-4]$/.test(ev.key)) choose(+ev.key-1); };
   } else document.onkeydown=null;
 }
+// Fallkette: Falltitel, Fortschritt der Fragen, gemeinsamer Sachverhalt, Abwandlungen bis zu dieser Frage
+function caseHead(e,c){ const q=c.einheiten.filter(x=>x.gruppe&&x.gruppe.id===e.gruppe.id); const abw=q.filter(x=>x.abwandlung&&x.schritt<=e.schritt);
+  return `<h1>${esc(e.gruppe.titel)}</h1><div class="meta">Frage ${e.schritt} von ${e.gruppe.n}</div><div class="dots">${q.map(x=>`<i class="${x===e?'cur':st(x)==='ok'?'ok':st(x)==='bad'?'bad':''}"></i>`).join('')}</div>
+    <div class="box sv"><div class="k">${ic('sachverhalt','s')}Sachverhalt</div>${txt(e.gruppe.sachverhalt)}</div>${abw.map(x=>`<div class="box abw"><div class="k">${ic('tipp','s')}Abwandlung</div>${txt(x.abwandlung)}</div>`).join('')}`; }
 function vEnde(cid){
   const c=CHAP.get(cid); if(!c) return vHome(); const k=KURS.get(c.kurs); const q=c.einheiten.filter(QUIZ); const p=progOf(q); const wrong=q.filter(e=>st(e)==='bad');
   const ki=k.kapitel.indexOf(c); const nextC=k.kapitel[ki+1]; const nk=KURSE[KURSE.indexOf(k)+1];
@@ -922,7 +943,7 @@ function vDidaktik(){
   chrome('Konzept','');
   const pr=(icn,t,p)=>`<div class="glass card principle"><div class="tile">${ic(icn)}</div><div><h3>${t}</h3><p>${p}</p></div></div>`;
   main.innerHTML=`<p class="lead" style="margin-top:4px">IPelico folgt der Falldidaktik moderner Jura-Lernapps, übertragen auf das Markengesetz.</p>
-  ${pr('fall','Kleinste Einheiten','Jeder Fall behandelt genau einen Prüfungspunkt. Der Sachverhalt ist wenige Sätze lang und bildet einen echten Lebenssachverhalt ab, oft angelehnt an eine BGH- oder EuGH-Entscheidung.')}
+  ${pr('fall','Kleinste Einheiten','Jede Frage behandelt genau einen Prüfungspunkt. Der Sachverhalt ist wenige Sätze lang und bildet einen echten Lebenssachverhalt ab, oft angelehnt an eine BGH-, EuGH- oder EPG-Entscheidung. Größere Fälle sind in Fragen zerlegt, die den Fall Schritt für Schritt lösen, mit Abwandlungen wie im Klausurgutachten.')}
   ${pr('richtig','Frage, Antwort, sofortiges Feedback','Du entscheidest dich (Ja/Nein oder Auswahl), bekommst sofort Richtig oder Falsch und dann die Lösung im Gutachtenstil: Definition, Subsumtion, Ergebnis. Der Merksatz fasst die Regel in einem Satz zusammen.')}
   ${pr('schema','Aufeinander aufbauend','Jedes Kapitel beginnt mit einer Einführung oder dem Prüfungsschema, danach folgen die Fälle in der Reihenfolge der Prüfung. Die Kurse bauen aufeinander auf: Grundlagen, Schutzfähigkeit, Verletzung, Schranken, Verfahren, EU und IR.')}
   ${pr('suche','Vernetzt','Begriffe, Normen und Entscheidungen lassen sich in jeder Lösung inline aufklappen. Sie stammen aus dem Wissensgraphen, der auch den Lernnavigator und die Karteikarten speist.')}
@@ -940,7 +961,7 @@ const nodeTitle = n => n.type==='case' ? `${n.court} „${n.name}“` : (n.type=
 const numKey = n => { if(n.order!=null) return [n.order, '']; const m=String(n.nummer||'').match(/^(\d+)([A-Za-z]?)/); return m ? [+m[1], m[2]] : [0, String(n.nummer)]; };
 const nodeText = n => n.type==='concept'?n.definition : n.type==='step'?n.text : n.type==='schema'?n.beschreibung : n.type==='case'?n.kern : n.type==='distinction'?n.frage : (n.absaetze||[]).map(a=>a.text).join(' ');
 const INDEX = G.nodes.filter(n=>KINDS[n.type]).map(n=>({id:n.id,type:n.type,t:nodeTitle(n)+(n.type==='case'?' '+n.az:''),s:nodeText(n),ft:fold(nodeTitle(n)+(n.type==='case'?' '+n.az:'')),fs:fold(nodeText(n))}));
-for(const e of UNITS) INDEX.push({id:e.id,type:'unit',t:e.titel,s:e.frage||e.text||'',ft:fold(e.titel),fs:fold(e.frage||e.sachverhalt||e.text||''),unit:e});
+for(const e of UNITS) INDEX.push({id:e.id,type:'unit',t:e.titel,s:e.frage||e.text||'',ft:fold(e.titel),fs:fold((e.gruppe?e.gruppe.titel+' '+e.gruppe.sachverhalt+' ':'')+(e.frage||e.sachverhalt||e.text||'')),unit:e});
 function search(q){ const f=fold(q).trim(); if(f.length<2) return []; const words=f.split(/\s+/).filter(Boolean); const out=[];
   for(const it of INDEX){ let sc=0; for(const w of words){ if(it.ft.startsWith(w)) sc+=10; else if(it.ft.includes(w)) sc+=6; else if(it.fs.includes(w)) sc+=2; else { sc=0; break; } } if(sc){ if(weak(it.id)) sc+=1; out.push([sc,it]); } }
   out.sort((a,b)=>b[0]-a[0]||a[1].t.localeCompare(b[1].t,'de')); return out; }

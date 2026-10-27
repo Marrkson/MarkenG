@@ -59,3 +59,14 @@ def kompakt():
             upca=sorted(e["upca"], key=int), rop=sorted(e["rop"], key=lambda x: (int(re.match(r"\d+", x).group()), x)),
         ))
     return dict(meta=dict(quelle=META["quelle"], anzahl=len(out), zeitraum=META["zeitraum"], hinweis=META["hinweis"]), entscheidungen=out)
+
+
+_BY_DOCKET = {}
+for _e in ENTSCHEIDUNGEN:
+    _BY_DOCKET.setdefault(_e["docket"], []).append(_e)
+
+
+def by_docket(az, datum=None):
+    """Entscheidung zu einem EPG-Aktenzeichen (optional mit Datum) oder None."""
+    hits = [h for h in _BY_DOCKET.get(az, []) if not datum or h["date"] == datum]
+    return hits[0] if hits else None

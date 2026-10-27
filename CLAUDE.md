@@ -38,3 +38,5 @@
   DesignG, UrhG, UMV/GGV, EPGÜ mit VerfO-Regeln).
 - Spielmechanik und Erinnerung (Tagesziel 100 XP, Streak nur über Zieltage, Service Worker `src/templates/sw.js`, Cloudflare Worker
   `push/` mit `node push/test.mjs`, Worker-URL in `data/push_api.txt`): `PLAYBOOK.md` Abschnitt 14. `data/push_vapid_private.txt` nie versionieren.
+- Normkurse und Fallketten (Jurafuchs-Format): Kapitel je Vorschrift nach `data/norm_ranking.json` (`tools/norm_ranking.py`), Fälle als
+  `fallkette` mit kurzen Fragen, Längengrenzen `LIMITS` in `kurse/__init__.py` für `kompakt=True`-Kurse: `PLAYBOOK.md` Abschnitt 15.

@@ -114,7 +114,7 @@ CASES = [
       "Soll nach der Beschreibung ein Hell-Dunkel-Kontrast geschützt werden und zeigt die farbige Wiedergabe zwei Bretter mit unterschiedlich eingefärbter Feder als gleichwertige Ausführungsformen, fehlt dem Einzeldesign der einheitliche Schutzgegenstand; es ist nichtig (Fortführung von Sportbrille).",
       norms=["§ 1 DesignG", "§ 33 Abs. 1 DesignG", "§ 10 DesignV"], concepts=["des_schutzgegenstand", "des_wiedergabe", "des_nichtigkeitsverfahren_dpma"], tags=["Schutzgegenstand", "Beschreibung"]),
     # ------------------------------------------------------------------ Verletzung, Schranken, Reparaturklausel
-    eu("des_eugh_celaya", "Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento", EUGH, "2012-02-16", "C-488/10", "GRUR 2012, 506",
+    eu("des_eugh_celaya", "Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento", EUGH, "2012-02-16", "C-488/10", "GRUR 2012, 510",
        "Auch der Inhaber eines jüngeren eingetragenen Gemeinschaftsgeschmacksmusters ist „Dritter“ im Sinne des Art. 19 Abs. 1 GGV: Der Inhaber des älteren Musters kann ihn auf Unterlassung in Anspruch nehmen, ohne zuvor die Nichtigerklärung des jüngeren Musters zu erwirken. Das Prioritätsprinzip gilt auch dann, wenn der Inhaber des jüngeren Musters bei der Anmeldung gutgläubig war.",
        norms=["Art. 19 GGV", "Art. 10 GGV", "Art. 25 GGV"], concepts=["des_benutzung", "des_ggm_eingetragen", "des_vermutung_rechtsgueltigkeit"], tags=["Verletzung", "Jüngeres Muster", "Priorität"]),
     e("des_bgh_kinderwagen_i", "Kinderwagen I", BGH, "2011-09-28", "I ZR 23/10",
@@ -174,3 +174,7 @@ CASES = [
       "Gegenstand des Nachahmungsschutzes nach § 4 Nr. 3 UWG ist die konkrete Gestaltung, nicht die abstrakte Idee (hier: Emotionsschlagwort als Produktname). Auch bei einer sich deutlich abhebenden Verpackung kann der Verkehr sich an Produkt- und Herstellerangaben orientieren, so dass eine Herkunftstäuschung ausscheidet.",
       norms=["§ 50 DesignG"], concepts=["des_uwg_nachahmung"], tags=["UWG", "Nachahmung"]),
 ]
+
+# Leitentscheidungen des Normkurses d02
+from . import cases_d02 as _d02  # noqa: E402
+CASES += _d02.CASES

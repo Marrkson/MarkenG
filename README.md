@@ -8,11 +8,11 @@ und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/index.html` | **IPelico**, der Fallkurs: 28 Kurse in fünf Rechtsgebieten zur Auswahl (EU und internationales Recht, Marken, Patent, DesignG, Einheitliches Patentgericht), 107 Kapitel, 658 Lerneinheiten (428 Fälle mit Ja/Nein, 123 Wissensfragen, 47 Prüfungsschemata, 60 Einführungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie; Gestaltung nach `DESIGN.md` |
+| `docs/index.html` | **IPelico**, der Fallkurs: 30 Kurse in fünf Rechtsgebieten zur Auswahl (EU und internationales Recht, Marken, Patent, DesignG, Einheitliches Patentgericht), 143 Kapitel, 1.527 Lerneinheiten (1.153 Ja/Nein-Fragen, 226 Auswahlfragen, 54 Prüfungsschemata, 94 Einführungen; davon 252 Fallketten im Jurafuchs-Format: kurzer Sachverhalt, mehrere Fragen, Abwandlungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie (über 4 KB im localStorage); Gestaltung nach `DESIGN.md` |
 | `docs/didaktik.md` | Didaktisches Konzept von IPelico und Kursaufbau |
 | `DESIGN.md`, `src/templates/ipelico/` | Gestaltungsrichtlinie (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons, Schriften) und die Assets dazu; `tools/gen_assets.py` erzeugt die Icons |
 | `docs/navigator/index.html` | **Lernnavigator** (eigenständige HTML-Datei, offline nutzbar): Prüfungsschemata zum Durchklicken mit Definitionen, Normtext und Entscheidungen inline; Begriffe; Abgrenzungen; Rechtsprechung; Gesetz; Karteikarten-Modus; Graph-Explorer |
-| `graph/markenrecht_graph.json` | **Wissensgraph** (3.667 Knoten, ca. 13.200 Kanten; Markenrecht, Patentrecht, Designrecht und EPG in einem Graphen) |
+| `graph/markenrecht_graph.json` | **Wissensgraph** (4.695 Knoten, ca. 19.000 Kanten; Markenrecht, Patentrecht, Designrecht und EPG in einem Graphen) |
 | `flashcards/karteikarten.csv` | **Karteikarten** für Anki (Tab-getrennt: Vorderseite, Rückseite, Tags) |
 | `flashcards/karteikarten.md` / `.json` | dieselben Karten als Markdown bzw. JSON |
 | `data/markeng.json` | Gesetzestext des MarkenG (amtliches XML von gesetze-im-internet.de, `src/parse_markeng.py`) |
@@ -53,7 +53,7 @@ und Leitentscheidungen von BGH, EuGH, BPatG und EPG.
   Widerspruch und Löschung, die relativen Schutzhindernisse im Register ([§ 9 Abs. 1 Nr. 1](https://www.gesetze-im-internet.de/markeng/__9.html)-3) sowie
   das Vorgehen aus einer Unionsmarke (UMV, [§ 125b](https://www.gesetze-im-internet.de/markeng/__125b.html) ff.) und aus einer IR-Marke (PMMA, §§ [112](https://www.gesetze-im-internet.de/markeng/__112.html)-[125](https://www.gesetze-im-internet.de/markeng/__125.html)). Jeder Prüfungspunkt lässt sich aufklappen; Begriffe (rot), Normen (blau)
   und Entscheidungen (violett) öffnen sich als Karte direkt an Ort und Stelle – auch verschachtelt.
-- **Karteikarten**: 2.362 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
+- **Karteikarten**: 2.610 Karten (Definitionen, Umkehrkarten, Schemata, Prüfungspunkte, Abgrenzungen,
   Entscheidungen, Normen). Filter nach Typ und Thema, Karten pro Schema, Tastatursteuerung,
   Fortschritt „gewusst / nicht gewusst“ im Browser (localStorage).
 - **Abgrenzungen**: Vergleichstabellen, z.B. Kennzeichnungskraft vs. Unterscheidungskraft,
@@ -81,7 +81,9 @@ verbunden (Art. 59 bis 69 und 80 EPGÜ tragen `entspricht`-Kanten zu den Richtli
   (Zuständigkeit, Verletzungsklage, einstweilige Maßnahmen, Beweissicherung, Nichtigkeit, Berufung, Kosten, Vertraulichkeit),
   8 Abgrenzungen (u.a. Lokal- vs. Zentralkammer, Einspruch vs. Klageerwiderung, R. 262 vs. R. 262A, EPG vs. deutsches Verfahren).
 - **Kurse 15 bis 24** (Rechtsgebiet „EPG“): Grundlagen, Zuständigkeit, Verletzungsverfahren, Verletzung und Auslegung, einstweilige
-  Maßnahmen und Beweis, Nichtigkeit, Rechtsfolgen und Vollstreckung, Kosten, Berufung, EPGÜ und Durchsetzungsrichtlinie.
+  Maßnahmen und Beweis, Nichtigkeit, Rechtsfolgen und Vollstreckung, Kosten, Berufung, EPGÜ und Durchsetzungsrichtlinie. Seit Oktober 2026
+  sind alle Fälle Fallketten: kurzer Sachverhalt, danach mehrere kurze Fragen zu je einem Auslegungselement der Kernnorm des Kapitels
+  (Maßstab, Beweislast, Grenzfall, Abwandlung); die Kapiteltitel nennen die Kernvorschriften (`kompakt="fragen"`, PLAYBOOK Abschnitt 15).
 - **Zitierweise** in Texten und `norms`-Feldern: `Art. 33 Abs. 1 EPGÜ`, `R. 19.1 VerfO`, `R. 262A VerfO` (auch `UPCA`, `RoP`);
   `Art. … EPGÜ` verlinkt auf EUR-Lex, `R. … VerfO` auf das VerfO-PDF.
 
@@ -149,6 +151,10 @@ Verordnung über Unionsgeschmacksmuster (DesignG `entspricht` GGV).
 - **Kurs „Designrecht“** (Rechtsgebiet DesignG): 54 Einheiten in sieben Kapiteln (Rechtsrahmen mit Umsetzungs- und
   Anspruchsgrundlagentabelle, Schutzvoraussetzungen, Anmeldung beim DPMA, Nichtigkeit, Schutzumfang und Verletzung, Rechtsfolgen,
   Unionsgeschmacksmuster und Abgrenzung zu Urheberrecht und UWG).
+- **Normkurse „PatG und GebrMG nach Vorschriften“ (p03) und „DesignG nach Vorschriften“ (d02)** im Jurafuchs-Format: ein Kapitel je
+  Vorschrift (p03: 22 Kapitel von § 1 PatG bis § 145 PatG und GebrMG; d02: 12 Kapitel von § 1 DesignG bis § 47 DesignG und GGV), Unterkapitel
+  je Absatz oder Tatbestandsmerkmal, Fallketten mit Grundfall und Abwandlungen nach BGH-, BPatG- und EuGH-Entscheidungen. Auswahl der
+  Vorschriften nach der Zahl der Entscheidungen, die sie auslegen (`tools/norm_ranking.py` → `data/norm_ranking.json`).
 
 Aktualisieren: `python3 tools/fetch_design.py` (Normtexte und EU-Texte vom Netz, Entscheidungen aus der Datenbank; `--no-net`, `--no-db`),
 danach `python3 build.py`. Vorgehen: `PLAYBOOK.md` Abschnitt 13.

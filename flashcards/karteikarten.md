@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht und Einheitliches Patentgericht
 
-2362 Karten, generiert aus graph/markenrecht_graph.json.
+2610 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -3134,6 +3134,8 @@ Das Gericht erster Instanz besteht aus der Zentralkammer (Sitz Paris, Abteilunge
 
 Normen: [Art. 8 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 9 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 18 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 18 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
+Rechtsprechung: EPG-BerG Hybridgenerator/Infotech (Zwangsgeld durch den Spruchkörper) (APL_13146/2025)
+
 *Tags: Begriff, EPG: Grundlagen*
 
 ---
@@ -3596,7 +3598,7 @@ Das Verfahren vor dem EPG besteht aus dem schriftlichen Verfahren, dem Zwischenv
 
 Normen: [R. 13 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 25 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025); EPG-BerG Amycel (aufschiebende Wirkung: vollständiger Antrag) (UPC-COA-0000935/2025); EPG-BerG Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung) (UPC_CoA_623/2025)
+Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025); EPG-BerG Amycel (aufschiebende Wirkung: vollständiger Antrag) (UPC-COA-0000935/2025); EPG-BerG Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung) (UPC_CoA_623/2025); EPG-BerG Supponor/AIM Sport (Klageänderung und Parteierweiterung) (APL_9191/2025)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -3674,7 +3676,7 @@ Die Klageschrift wird vom Gericht zugestellt, innerhalb der Vertragsmitgliedstaa
 
 Normen: [R. 9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 300 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 23 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 29 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 224 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG bioMérieux/Labrador (Fristverlängerung) (UPC-COA-0000937/2025); EPG-BerG Sanofi/Amgen (Anlagen zur Klageschrift) (UPC_CoA_320/2023)
+Rechtsprechung: EPG-BerG bioMérieux/Labrador (Fristverlängerung) (UPC-COA-0000937/2025); EPG-BerG Sanofi/Amgen (Anlagen zur Klageschrift) (UPC_CoA_320/2023); EPG-BerG SharkNinja/SEB (Signatur, rückwirkende Fristverlängerung, Vertraulichkeit) (UPC-CoA-61/2026); EPG-BerG Hanshow/SES-imagotag (Frist für die Kostenfestsetzung) (APL_57918/2024)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -3752,7 +3754,7 @@ Die Parteien müssen sich durch Anwälte, die bei einem Gericht eines Vertragsmi
 
 Normen: [R. 18 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 102 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 331 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 334 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Vivo/Sun Patent (Einspruch ins Hauptverfahren) (UPC-COA-0000904/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Drittakteneinsicht) (UPC_CFI_1234/2025)
+Rechtsprechung: EPG-BerG Vivo/Sun Patent (Einspruch ins Hauptverfahren) (UPC-COA-0000904/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Drittakteneinsicht) (UPC_CFI_1234/2025); EPG-BerG Netgear/Huawei (Überprüfung von Anordnungen des Berichterstatters) (APL_595643/2023); EPG-BerG Huawei/Quinn Emanuel (Akteneinsicht: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) (UPC-COA-52/2026)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -3828,7 +3830,7 @@ Die mündliche Verhandlung vor dem Spruchkörper ist öffentlich ([Art. 45 EPGÜ
 
 Normen: [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025); EPG-BerG Merz/Viatris (Verzicht auf den Nichtigkeitseinwand im Eilverfahren) (UPC-COA-0000917/2025); EPG-BerG AorticLab/Emboline (Verletzungsklage und Widerklage als getrennte Klagen) (UPC-COA-0000123/2026)
+Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025); EPG-BerG Merz/Viatris (Verzicht auf den Nichtigkeitseinwand im Eilverfahren) (UPC-COA-0000917/2025); EPG-BerG AorticLab/Emboline (Verletzungsklage und Widerklage als getrennte Klagen) (UPC-COA-0000123/2026); EPG-BerG Supponor/AIM Sport (Klageänderung und Parteierweiterung) (APL_9191/2025)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -3854,7 +3856,7 @@ Eine Partei kann jederzeit die Zulassung einer Klageänderung oder -erweiterung 
 
 Normen: [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 370.9 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Juul/NJOY (Gebührenerstattung bei Rücknahme) (UPC_CoA_237/2025); EPG LK München Dolby/Roku (LK München: Kosten bei Erledigung, Abmahnung) (UPC_CFI_58/2025); EPG-BerG Strabag/Swarco (Streithelfer) (UPC_CoA_70/2025)
+Rechtsprechung: EPG-BerG Juul/NJOY (Gebührenerstattung bei Rücknahme) (UPC_CoA_237/2025); EPG LK München Dolby/Roku (LK München: Kosten bei Erledigung, Abmahnung) (UPC_CFI_58/2025); EPG-BerG Strabag/Swarco (Streithelfer) (UPC_CoA_70/2025); EPG-BerG Avago/Tesla (Klagerücknahme im Berufungsverfahren) (App_66724/2024)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -3932,7 +3934,7 @@ Wer ein rechtliches Interesse am Ausgang des Verfahrens hat, kann als Streithelf
 
 Normen: [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 118.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 21 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Sun Patent/Vivo (Aussetzung, [R. 21](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) und [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) (UPC_CoA_757/2025); EPG-BerG bioMérieux/Labrador (Fristverlängerung) (UPC-COA-0000937/2025); EPG-BerG Suinno/Microsoft (Sicherheit, bedingte Widerklage nach Abschluss) (UPC-COA-0000021/2026)
+Rechtsprechung: EPG-BerG Sun Patent/Vivo (Aussetzung, [R. 21](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) und [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) (UPC_CoA_757/2025); EPG-BerG bioMérieux/Labrador (Fristverlängerung) (UPC-COA-0000937/2025); EPG-BerG Suinno/Microsoft (Sicherheit, bedingte Widerklage nach Abschluss) (UPC-COA-0000021/2026); EPG-BerG Meril/Edwards (neue Rechtsargumente, Aussetzung bei EPA-Einspruch) (APL_50205/2024)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -3984,7 +3986,7 @@ Auf Antrag des Beklagten kann das Gericht dem Kläger aufgeben, Sicherheit für 
 
 Normen: [R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 371 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 15 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 228 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Juul/NJOY (Gebührenerstattung bei Rücknahme) (UPC_CoA_237/2025); EPG-BerG Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr) (UPC_CoA_288/2025); EPG-BerG La Siddhi/Athena (KMU und Prozesskostensicherheit) (UPC_CoA_48/2026)
+Rechtsprechung: EPG-BerG Juul/NJOY (Gebührenerstattung bei Rücknahme) (UPC_CoA_237/2025); EPG-BerG Roku/Dolby (Einspruchsgründe, Mailand, Berufungsgebühr) (UPC_CoA_288/2025); EPG-BerG La Siddhi/Athena (KMU und Prozesskostensicherheit) (UPC_CoA_48/2026); EPG-BerG Avago/Tesla (Klagerücknahme im Berufungsverfahren) (App_66724/2024)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -4036,7 +4038,7 @@ Der Streitwert wird vom Gericht festgesetzt und bestimmt die streitwertabhängig
 
 Normen: [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 150 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 152 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 156 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 157 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG SharkNinja (Kosten bei teilweisem Obsiegen mit zwei Patenten) (UPC-COA-0000061/2026); EPG-BerG Strabag/Swarco (Streithelfer) (UPC_CoA_70/2025); EPG LK München Dolby/Roku (LK München: Kosten bei Erledigung, Abmahnung) (UPC_CFI_58/2025)
+Rechtsprechung: EPG-BerG SharkNinja (Kosten bei teilweisem Obsiegen mit zwei Patenten) (UPC-COA-0000061/2026); EPG-BerG Strabag/Swarco (Streithelfer) (UPC_CoA_70/2025); EPG LK München Dolby/Roku (LK München: Kosten bei Erledigung, Abmahnung) (UPC_CFI_58/2025); EPG-BerG Meril/Edwards (obsiegende Partei nach Unterlassungserklärung) (APL_83/2024)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -4088,7 +4090,7 @@ Das Gericht entscheidet nur über die Anträge der Parteien ([Art. 76 Abs. 1 EPG
 
 Normen: [Art. 45 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Gowling/Boehringer (Akteneinsicht Dritter je Instanz) (UPC-COA-0000009/2026); EPG-BerG EOFlow/Insulet (Verlust des Geheimnisschutzes) (UPC-COA-0000930/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Drittakteneinsicht) (UPC_CFI_1234/2025)
+Rechtsprechung: EPG-BerG Gowling/Boehringer (Akteneinsicht Dritter je Instanz) (UPC-COA-0000009/2026); EPG-BerG EOFlow/Insulet (Verlust des Geheimnisschutzes) (UPC-COA-0000930/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Drittakteneinsicht) (UPC_CFI_1234/2025); EPG-BerG Huawei/Quinn Emanuel (Akteneinsicht: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) (UPC-COA-52/2026)
 
 *Tags: Begriff, EPG: Verfahren*
 
@@ -4366,7 +4368,7 @@ Die Rechte aus dem europäischen Patent erstrecken sich nicht auf Handlungen, di
 
 Normen: [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 25 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
-Rechtsprechung: EPG-BerG Belkin/Philips (Anbieten, Geschäftsführerhaftung, Anerkennung) (UPC_CoA_19/2025)
+Rechtsprechung: EPG-BerG Belkin/Philips (Anbieten, Geschäftsführerhaftung, Anerkennung) (UPC_CoA_19/2025); EPG-BerG Philips/Belkin (aufschiebende Wirkung, Geschäftsführer keine Mittelsperson) (App_53031/2024)
 
 *Tags: Begriff, EPG: Materielles Recht*
 
@@ -4702,7 +4704,7 @@ Auf Antrag kann das Gericht schnelle und wirksame einstweilige Maßnahmen zur Si
 
 Normen: [Art. 53 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 54 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 55 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 170 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 171 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 172 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 181 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025)
+Rechtsprechung: EPG-BerG VMR/NJOY (Erwiderung auf Änderungsantrag, neue Nichtigkeitsgründe) (UPC_CoA_71/2025); EPG-BerG ICPillar/Arm ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) von Amts wegen) (APL_33746/2024)
 
 *Tags: Begriff, EPG: Einstweilige Maßnahmen und Beweis*
 
@@ -4778,7 +4780,7 @@ Das Gericht kann einstweilige Maßnahmen von einer angemessenen Sicherheit des A
 
 Normen: [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 42 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Dyson/Dreame (Auslegung, Reichweite der Unterlassungsanordnung) (UPC_CoA_789/2025); EPG-BerG Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking) (UPC-COA-0000087/2026); EPG LK Düsseldorf Dolby/Beko (LK Düsseldorf: FRAND-Einwand, [Art. 102 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)) (UPC_CFI_135/2024)
+Rechtsprechung: EPG-BerG Dyson/Dreame (Auslegung, Reichweite der Unterlassungsanordnung) (UPC_CoA_789/2025); EPG-BerG Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking) (UPC-COA-0000087/2026); EPG LK Düsseldorf Dolby/Beko (LK Düsseldorf: FRAND-Einwand, [Art. 102 AEUV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E/TXT)) (UPC_CFI_135/2024); EPG-BerG Philips/Belkin (aufschiebende Wirkung, Geschäftsführer keine Mittelsperson) (App_53031/2024)
 
 *Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
 
@@ -4828,6 +4830,8 @@ Auf Antrag kann das Gericht anordnen, dass verletzende Erzeugnisse aus den Vertr
 
 Normen: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 191 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
+Rechtsprechung: EPG-BerG Belkin/Philips (Auskunftsfrist, Zwangsgeld trotz verspäteter Erfüllung) (APL_68523/2024); EPG-BerG Hurom/NUC (Auskunft und aufschiebende Wirkung) (App_23407/2025)
+
 *Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
 
 ---
@@ -4852,7 +4856,7 @@ Auf begründeten Antrag kann das Gericht dem Verletzer aufgeben, Auskunft über 
 
 Normen: [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 119 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 125 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 126 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 131 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Fives/REEL (Altfälle, Schadensersatzklage) (UPC_CoA_30/2024)
+Rechtsprechung: EPG-BerG Fives/REEL (Altfälle, Schadensersatzklage) (UPC_CoA_30/2024); EPG-BerG Bruker/10x Genomics (Offenlegung der Bücher, Gebühren) (UPC_CoA_681/2025)
 
 *Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
 
@@ -4878,7 +4882,7 @@ Der Verletzer, der wusste oder vernünftigerweise hätte wissen müssen, dass er
 
 Normen: [Art. 82 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 118.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 352 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung) (UPC-COA-0000028/2026); EPG-BerG Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking) (UPC-COA-0000087/2026); EPG-BerG Kodak/Fujifilm (System der Zwangsgelder) (UPC_CoA_699/2025)
+Rechtsprechung: EPG-BerG Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung) (UPC-COA-0000028/2026); EPG-BerG Lepu/Occlutech (Zwangsgeld, Plattformen, Geoblocking) (UPC-COA-0000087/2026); EPG-BerG Kodak/Fujifilm (System der Zwangsgelder) (UPC_CoA_699/2025); EPG-BerG Belkin/Philips (Auskunftsfrist, Zwangsgeld trotz verspäteter Erfüllung) (APL_68523/2024)
 
 *Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
 
@@ -4904,7 +4908,7 @@ Entscheidungen und Anordnungen des Gerichts sind in jedem Vertragsmitgliedstaat 
 
 Normen: [Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [Art. 63 Abs. 2 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01))
 
-Rechtsprechung: EPG-BerG Kodak/Fujifilm (System der Zwangsgelder) (UPC_CoA_699/2025); EPG-BerG EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung) (UPC_CoA_930/2025); EPG-BerG Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung) (UPC-COA-0000028/2026)
+Rechtsprechung: EPG-BerG Kodak/Fujifilm (System der Zwangsgelder) (UPC_CoA_699/2025); EPG-BerG EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung) (UPC_CoA_930/2025); EPG-BerG Kodak/Fujifilm (Aufhebung wirkt zurück, Streitwert der Vollstreckung) (UPC-COA-0000028/2026); EPG-BerG Belkin/Philips (Auskunftsfrist, Zwangsgeld trotz verspäteter Erfüllung) (APL_68523/2024)
 
 *Tags: Begriff, EPG: Rechtsfolgen und Vollstreckung*
 
@@ -4982,7 +4986,7 @@ Die Berufungsschrift ist binnen zwei Monaten (Endentscheidung, verfahrensbeenden
 
 Normen: [Art. 74 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Amycel (aufschiebende Wirkung: vollständiger Antrag) (UPC-COA-0000935/2025); EPG-BerG Siemens/Hologic (rechtliches Gehör) (UPC-COA-0000093/2026)
+Rechtsprechung: EPG-BerG Amycel (aufschiebende Wirkung: vollständiger Antrag) (UPC-COA-0000935/2025); EPG-BerG Siemens/Hologic (rechtliches Gehör) (UPC-COA-0000093/2026); EPG-BerG Philips/Belkin (aufschiebende Wirkung, Geschäftsführer keine Mittelsperson) (App_53031/2024); EPG-BerG Hurom/NUC (Auskunft und aufschiebende Wirkung) (App_23407/2025)
 
 *Tags: Begriff, EPG: Berufung*
 
@@ -5008,7 +5012,7 @@ Die Berufung hat keine aufschiebende Wirkung, außer bei Entscheidungen über Ni
 
 Normen: [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 226 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung) (UPC_CoA_623/2025); EPG-BerG Onward/Niche (nicht eingetragene Anspruchsfassung, Verwendungsbestimmung) (UPC-COA-0000898/2025); EPG-BerG Knaus Tabbert (Altfälle, Fachperson, product-by-process) (UPC_CoA_365/2025)
+Rechtsprechung: EPG-BerG Hefei/Grundfos (neues Vorbringen in der Berufung, Auslegung) (UPC_CoA_623/2025); EPG-BerG Onward/Niche (nicht eingetragene Anspruchsfassung, Verwendungsbestimmung) (UPC-COA-0000898/2025); EPG-BerG Knaus Tabbert (Altfälle, Fachperson, product-by-process) (UPC_CoA_365/2025); EPG-BerG Meril/Edwards (neue Rechtsargumente, Aussetzung bei EPA-Einspruch) (APL_50205/2024)
 
 *Tags: Begriff, EPG: Berufung*
 
@@ -5034,7 +5038,7 @@ Anträge, Tatsachen und Beweismittel, die in erster Instanz nicht vorgebracht wu
 
 Normen: [R. 220.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 220.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 
-Rechtsprechung: EPG-BerG EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung) (UPC_CoA_930/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Drittakteneinsicht) (UPC_CFI_1234/2025)
+Rechtsprechung: EPG-BerG EOFlow/Insulet (Berufung gegen Zwangsgeldfestsetzung) (UPC_CoA_930/2025); EPG LK München Huawei/MediaTek (LK München: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Drittakteneinsicht) (UPC_CFI_1234/2025); EPG-BerG Netgear/Huawei (Überprüfung von Anordnungen des Berichterstatters) (APL_595643/2023); EPG-BerG Huawei/Quinn Emanuel (Akteneinsicht: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) (UPC-COA-52/2026)
 
 *Tags: Begriff, EPG: Berufung*
 
@@ -5404,7 +5408,7 @@ Gegen Entscheidungen der Abteilung für den einheitlichen Patentschutz ist nicht
 
 Normen: [Art. 24 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 59 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 60 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 62 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 64 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 68 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 69 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 80 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 7 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 9 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 14 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 15 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
-Rechtsprechung: EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023)
+Rechtsprechung: EPG-BerG NanoString/10x Genomics (Auslegung, Maßstab einstweiliger Maßnahmen) (UPC_CoA_335/2023); EPG-BerG Hurom/NUC (Auskunft und aufschiebende Wirkung) (App_23407/2025)
 
 *Tags: Begriff, EPG: Grundlagen*
 
@@ -5612,7 +5616,7 @@ Offenbart ist, was der Fachmann einer Quelle als technische Information unmittel
 
 Normen: [§ 3 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html), [§ 3 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html)
 
-Rechtsprechung: BGH Carvedilol II (X ZR 236/01); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP))
+Rechtsprechung: BGH Carvedilol II (X ZR 236/01); BPatG Imidazolinpyrimidon-Verbindung (3 Ni 7/24 (EP)); BGH Fructoseintoleranz (X ZB 3/25)
 
 *Tags: Begriff, Patent: Patentfähigkeit*
 
@@ -5690,7 +5694,7 @@ Der Fachmann ist eine fiktive Person mit den durchschnittlichen Kenntnissen und 
 
 Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html), [§ 10 PatV](https://www.gesetze-im-internet.de/patv/__10.html)
 
-Rechtsprechung: BGH Papiermaschinengewebe (X ZR 273/02); BGH Gelenkanordnung (Xa ZR 36/08); BGH Dreinahtschlauchfolienbeutel (Xa ZR 22/06)
+Rechtsprechung: BGH Papiermaschinengewebe (X ZR 273/02); BGH Gelenkanordnung (Xa ZR 36/08); BGH Dreinahtschlauchfolienbeutel (Xa ZR 22/06); BGH Mirabegron (X ZR 92/23)
 
 *Tags: Begriff, Patent: Patentfähigkeit*
 
@@ -5870,6 +5874,8 @@ Eine vom Wortsinn abweichende Ausführung verletzt das Patent äquivalent, wenn 
 
 Normen: [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html), [§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html)
 
+Rechtsprechung: BGH Dipeptidyl-Peptidase-Inhibitoren (X ZB 8/12)
+
 *Tags: Begriff, Patent: Schutzbereich und Auslegung*
 
 ---
@@ -5894,7 +5900,7 @@ Der Patentanspruch gibt an, was unter Schutz gestellt werden soll ([§ 34 Abs. 3
 
 Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
 
-Rechtsprechung: BGH Abgasreinigungsvorrichtung (X ZR 14/03); BGH Rezeptortyrosinkinase II (X ZR 124/15); BGH Palettenbehälter II (X ZR 97/11)
+Rechtsprechung: BGH Abgasreinigungsvorrichtung (X ZR 14/03); BGH Rezeptortyrosinkinase II (X ZR 124/15); BGH Palettenbehälter II (X ZR 97/11); BGH Kunststoffbügel (X ZR 169/04)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -5920,7 +5926,7 @@ Das Patent hat die Wirkung, dass allein der Inhaber befugt ist, die Erfindung zu
 
 Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html), [§ 139 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
 
-Rechtsprechung: BGH Rezeptortyrosinkinase II (X ZR 124/15); BGH Wasserdichter Lederschuh (X ZR 27/16)
+Rechtsprechung: BGH Rezeptortyrosinkinase II (X ZR 124/15); BGH Wasserdichter Lederschuh (X ZR 27/16); BGH MPEG-2-Videosignalcodierung (X ZR 33/10)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -5946,7 +5952,7 @@ Der Schutz eines Verfahrenspatents erstreckt sich auf das durch das Verfahren un
 
 Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html), [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html), [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 143 PatG](https://www.gesetze-im-internet.de/patg/__143.html)
 
-Rechtsprechung: BGH Kreuzgestänge (X ZR 103/13)
+Rechtsprechung: BGH Kreuzgestänge (X ZR 103/13); BGH Blasenfreie Gummibahn II (X ZR 114/00)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -5972,7 +5978,7 @@ Eine Patentverletzung liegt vor, wenn ein Dritter ohne Zustimmung des Inhabers e
 
 Normen: [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html)
 
-Rechtsprechung: BGH Flügelradzähler (X ZR 48/03); BGH Fräsverfahren (X ZR 69/11); BGH Abgasreinigungsvorrichtung (X ZR 14/03)
+Rechtsprechung: BGH Flügelradzähler (X ZR 48/03); BGH Fräsverfahren (X ZR 69/11); BGH Abgasreinigungsvorrichtung (X ZR 14/03); BGH Scheibenbremse II (X ZR 10/20)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -6022,6 +6028,8 @@ Die Wirkung des Patents erstreckt sich nicht auf Handlungen im privaten Bereich 
 
 Normen: [§ 12 PatG](https://www.gesetze-im-internet.de/patg/__12.html)
 
+Rechtsprechung: BGH Desmopressin (X ZR 131/09); BGH Nabenschaltung III (X ZR 129/09); BGH Faserstoffbahn (X ZR 61/21); BGH Füllstoff (Xa ZR 18/08)
+
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
 ---
@@ -6046,7 +6054,7 @@ Das Patent wirkt nicht gegen den, der die Erfindung zum Zeitpunkt der Anmeldung 
 
 Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
 
-Rechtsprechung: BGH Palettenbehälter II (X ZR 97/11); BGH Trommeleinheit (X ZR 55/16); BGH Tintenpatrone (X ZR 180/05)
+Rechtsprechung: BGH Palettenbehälter II (X ZR 97/11); BGH Trommeleinheit (X ZR 55/16); BGH MPEG-2-Videosignalcodierung (X ZR 33/10); BGH Scheibenbremse II (X ZR 10/20)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -6072,7 +6080,7 @@ Mit dem Inverkehrbringen eines patentgeschützten Erzeugnisses im EWR durch den 
 
 Normen: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
 
-Rechtsprechung: BGH Tintenpatrone (X ZR 180/05)
+Rechtsprechung: BGH Tintenpatrone (X ZR 180/05); BGH Abdichtsystem (X ZR 120/15); BGH Ultraschallwandler (X ZR 47/19); BGH Wärmetauscher (X ZR 114/13)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -6098,7 +6106,7 @@ Wer entgegen §§ [9](https://www.gesetze-im-internet.de/patg/__9.html) bis [13]
 
 Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html), [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html)
 
-Rechtsprechung: BGH Fräsverfahren (X ZR 69/11)
+Rechtsprechung: BGH Fräsverfahren (X ZR 69/11); BGH Tintenpatrone (X ZR 180/05); BGH Kunststoffbügel (X ZR 169/04); BGH Antriebsscheibenaufzug (X ZR 247/02)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -6124,7 +6132,7 @@ Wer die Verletzung vorsätzlich oder fahrlässig begeht, ist zum Ersatz des Scha
 
 Normen: [§ 140a PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html), [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html), [§ 140d PatG](https://www.gesetze-im-internet.de/patg/__140d.html), [§ 140e PatG](https://www.gesetze-im-internet.de/patg/__140e.html)
 
-Rechtsprechung: BGH Restschadstoffentfernung (X ZR 114/03)
+Rechtsprechung: BGH Restschadstoffentfernung (X ZR 114/03); BGH Abdichtsystem (X ZR 120/15); BGH MP3-Player-Import (Xa ZR 2/08); BGH Werkzeuggriff (X ZR 76/18)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -6150,7 +6158,7 @@ Neben Unterlassung und Schadensersatz stehen dem Verletzten Vernichtung, Rückru
 
 Normen: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)
 
-Rechtsprechung: BGH Restschadstoffentfernung (X ZR 114/03)
+Rechtsprechung: BGH Restschadstoffentfernung (X ZR 114/03); BGH Lichtbogenschnürung (X ZB 37/08); BGH Ästhetische Behandlung (X ZB 9/21); BGH Rohrmuffe (X ZR 7/12)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -6228,7 +6236,7 @@ Das Verletzungsgericht kann den Rechtsstreit aussetzen, wenn ein Einspruchs- ode
 
 Normen: [§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html)
 
-Rechtsprechung: BGH Raffvorhang (X ZR 69/08)
+Rechtsprechung: BGH Raffvorhang (X ZR 69/08); BGH Fensterflügel (X ZR 85/19)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -6253,6 +6261,8 @@ Wer wegen Verletzung eines Patents Klage erhoben hat, kann gegen den Beklagten w
 **A:** Das Recht auf das Patent, der Anspruch auf Erteilung und das Patent sind übertragbar und können ganz oder teilweise Gegenstand ausschließlicher oder einfacher Lizenzen sein ([§ 15 Abs. 1, 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html)); ein Rechtsübergang lässt zuvor erteilte Lizenzen unberührt ([§ 15 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__15.html), Sukzessionsschutz).
 
 Normen: [§ 15 PatG](https://www.gesetze-im-internet.de/patg/__15.html), [§ 30 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__30.html), [§ 23 PatG](https://www.gesetze-im-internet.de/patg/__23.html)
+
+Rechtsprechung: BGH Cinch-Stecker (X ZR 86/10)
 
 *Tags: Begriff, Patent: Wirkung, Verletzung, Schranken*
 
@@ -6356,6 +6366,8 @@ Die Beschreibung nennt das technische Gebiet, den Stand der Technik, die Aufgabe
 
 Normen: [§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html), [§ 7 PatG](https://www.gesetze-im-internet.de/patg/__7.html), [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html), [Art. II § 5 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__5.html)
 
+Rechtsprechung: BPatG Fondue-Einrichtung (11 W (pat) 5/13); BGH Brustimplantat (X ZR 1/21); BGH Mitralklappenprothese (X ZR 38/19); BGH Blendschutzbehang (Xa ZR 86/06)
+
 *Tags: Begriff, Patent: Anmeldung und Erteilung*
 
 ---
@@ -6406,7 +6418,7 @@ Innerhalb von zwölf Monaten nach einer ersten Anmeldung kann für dieselbe Erfi
 
 Normen: [§ 39 PatG](https://www.gesetze-im-internet.de/patg/__39.html), [§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
 
-Rechtsprechung: BGH Sammelhefter (X ZB 18/01); BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03)
+Rechtsprechung: BGH Sammelhefter (X ZB 18/01); BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03); BGH Gepulste Laserstrahlung (X ZR 143/23)
 
 *Tags: Begriff, Patent: Anmeldung und Erteilung*
 
@@ -6507,6 +6519,8 @@ Das DPMA führt das Register mit Anmeldungen, Patenten, Inhabern, Vertretern, Li
 **A:** Einsicht in die Akten der Anmeldung steht jedermann frei, sobald die Anmeldung offengelegt ist oder der Anmelder zugestimmt hat ([§ 31 PatG](https://www.gesetze-im-internet.de/patg/__31.html)); die Offenlegungsschrift wird 18 Monate nach dem Anmelde- oder Prioritätstag veröffentlicht ([§ 31 Abs. 2 Nr. 2](https://www.gesetze-im-internet.de/patg/__31.html), [§ 32 Abs. 2, 5 PatG](https://www.gesetze-im-internet.de/patg/__32.html)).
 
 Normen: [§ 31 PatG](https://www.gesetze-im-internet.de/patg/__31.html), [§ 32 PatG](https://www.gesetze-im-internet.de/patg/__32.html), [§ 33 PatG](https://www.gesetze-im-internet.de/patg/__33.html)
+
+Rechtsprechung: BGH Akteneinsicht XXIII (X ZR 110/17)
 
 *Tags: Begriff, Patent: Anmeldung und Erteilung*
 
@@ -6634,7 +6648,7 @@ Innerhalb von neun Monaten nach Veröffentlichung der Erteilung kann jeder Einsp
 
 Normen: [§ 21 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [Art. II § 6 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__6.html)
 
-Rechtsprechung: BGH Winkelmesseinrichtung (Xa ZB 14/09); BGH Ventileinrichtung (X ZB 1/16)
+Rechtsprechung: BGH Winkelmesseinrichtung (Xa ZB 14/09); BGH Ventileinrichtung (X ZB 1/16); BGH Schweißheizung (X ZB 43/08)
 
 *Tags: Begriff, Patent: Einspruch und Beschränkung*
 
@@ -6788,7 +6802,7 @@ Der mit Wirkung für Deutschland erteilte deutsche Teil eines europäischen Pate
 
 Normen: [§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html), [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html)
 
-Rechtsprechung: BGH Walzstraße (X ZR 21/12); BGH Fahrzeugscheibe II (X ZR 41/14)
+Rechtsprechung: BGH Walzstraße (X ZR 21/12); BGH Fahrzeugscheibe II (X ZR 41/14); BGH Kabelwickelband (X ZR 1/23); BGH Photokatalytische Titandioxidschicht (X ZR 81/14)
 
 *Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
 
@@ -6944,7 +6958,7 @@ Der Streitwert bemisst sich nach dem gemeinen Wert des Patents bei Klageerhebung
 
 Normen: [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html), [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html), [§ 62 PatG](https://www.gesetze-im-internet.de/patg/__62.html), [§ 80 PatG](https://www.gesetze-im-internet.de/patg/__80.html)
 
-Rechtsprechung: BPatG Syndikusanwalt im Nichtigkeitsverfahren (3 Ni 10/22 / KoF 4/25)
+Rechtsprechung: BPatG Syndikusanwalt im Nichtigkeitsverfahren (3 Ni 10/22 / KoF 4/25); BGH Doppelvertretung im Nichtigkeitsverfahren (X ZB 11/12); BGH Doppelvertretung im Patentnichtigkeitsverfahren II (X ZB 7/21); BGH Tischgrill (X ZB 12/20)
 
 *Tags: Begriff, Patent: Nichtigkeit und Zwangslizenz*
 
@@ -6970,7 +6984,7 @@ Im Nichtigkeitsverfahren werden die Kosten nach [§§ 91 ff. ZPO](https://www.ge
 
 Normen: [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html), [§ 74 PatG](https://www.gesetze-im-internet.de/patg/__74.html), [§ 75 PatG](https://www.gesetze-im-internet.de/patg/__75.html), [§ 79 PatG](https://www.gesetze-im-internet.de/patg/__79.html), [§ 80 PatG](https://www.gesetze-im-internet.de/patg/__80.html), [§ 6 Abs. 1 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html), [§ 6 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)
 
-Rechtsprechung: BGH Ventileinrichtung (X ZB 1/16); BPatG Teilbeschluss (15 W (pat) 11/07)
+Rechtsprechung: BGH Ventileinrichtung (X ZB 1/16); BPatG Teilbeschluss (15 W (pat) 11/07); BPatG Formularmäßige Mitteilung II (10 W (pat) 25/12); BPatG Dünnwandige Domsegmente (11 W (pat) 34/24)
 
 *Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
 
@@ -6996,7 +7010,7 @@ Gegen Beschlüsse der Prüfungsstellen und Patentabteilungen findet die Beschwer
 
 Normen: [§ 100 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 101 PatG](https://www.gesetze-im-internet.de/patg/__101.html), [§ 102 PatG](https://www.gesetze-im-internet.de/patg/__102.html), [§ 107 PatG](https://www.gesetze-im-internet.de/patg/__107.html)
 
-Rechtsprechung: BGH Schwingungsdämpfer (Xa ZB 36/08); BGH Leistungshalbleiterbauelement (Xa ZB 28/08)
+Rechtsprechung: BGH Schwingungsdämpfer (Xa ZB 36/08); BGH Leistungshalbleiterbauelement (Xa ZB 28/08); BGH Gruppierungssystem (X ZB 1/18); BGH Werkstück (X ZB 3/10)
 
 *Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
 
@@ -7022,7 +7036,7 @@ Gegen Beschlüsse der Beschwerdesenate findet die Rechtsbeschwerde zum BGH statt
 
 Normen: [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), [§ 100 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 99 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__99.html), [§ 80 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__80.html)
 
-Rechtsprechung: BGH Schwingungsdämpfer (Xa ZB 36/08)
+Rechtsprechung: BGH Schwingungsdämpfer (Xa ZB 36/08); BGH Werkstück (X ZB 3/10); BGH Sorbitol (X ZB 6/11); BGH Steckverbindung (X ZB 10/11)
 
 *Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
 
@@ -7048,7 +7062,7 @@ Beteiligte müssen Gelegenheit haben, sich zu allen entscheidungserheblichen Tat
 
 Normen: [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html)
 
-Rechtsprechung: BGH Verdickerpolymer II (X ZB 4/14); BPatG Mehrfach-Funkgerät (10 W (pat) 36/06); BPatG Weiterbehandlung (10 W (pat) 42/06)
+Rechtsprechung: BGH Verdickerpolymer II (X ZB 4/14); BPatG Mehrfach-Funkgerät (10 W (pat) 36/06); BPatG Weiterbehandlung (10 W (pat) 42/06); BGH Verspätete Zahlung der Einspruchsgebühr (X ZB 2/04)
 
 *Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
 
@@ -7099,6 +7113,8 @@ Ist eine Anmeldung wegen Versäumung einer vom DPMA bestimmten Frist zurückgewi
 **A:** Gesetzliche Fristen: Übersetzung drei Monate ([§ 35a Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__35a.html)), Erfinderbenennung 15 Monate ([§ 37 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__37.html)), Prioritätserklärung 16 Monate ([§ 41 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__41.html)), Prüfungsantrag sieben Jahre ([§ 44 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__44.html)), Einspruch neun Monate ([§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html)), Beschwerde und Rechtsbeschwerde ein Monat ([§ 73 Abs. 2](https://www.gesetze-im-internet.de/patg/__73.html), [§ 102 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__102.html)), Berufung ein Monat plus drei Monate Begründung ([§ 110 Abs. 3](https://www.gesetze-im-internet.de/patg/__110.html), [§ 112 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__112.html)), Wiedereinsetzung zwei Monate/ein Jahr ([§ 123 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__123.html)), Weiterbehandlung ein Monat ([§ 123a Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__123a.html)); Zahlungsfristen nach §§ [6](https://www.gesetze-im-internet.de/patkostg/__6.html), [7](https://www.gesetze-im-internet.de/patkostg/__7.html) PatKostG.
 
 Normen: [§ 35a PatG](https://www.gesetze-im-internet.de/patg/__35a.html), [§ 37 PatG](https://www.gesetze-im-internet.de/patg/__37.html), [§ 41 PatG](https://www.gesetze-im-internet.de/patg/__41.html), [§ 44 PatG](https://www.gesetze-im-internet.de/patg/__44.html), [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html), [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html), [§ 110 PatG](https://www.gesetze-im-internet.de/patg/__110.html), [§ 123 PatG](https://www.gesetze-im-internet.de/patg/__123.html), [§ 123a PatG](https://www.gesetze-im-internet.de/patg/__123a.html), [§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html), [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html)
+
+Rechtsprechung: BGH Bergbaumaschine (X ZB 17/12); BPatG Vorrichtung zum Brechen von Steinen (14 W (pat) 7/25)
 
 *Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
 
@@ -7174,7 +7190,7 @@ Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen
 
 Normen: [§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html), [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html), [§ 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)
 
-Rechtsprechung: BGH Feldmausbekämpfung (X ZB 18/16)
+Rechtsprechung: BGH Feldmausbekämpfung (X ZB 18/16); BGH Demonstrationsschrank (X ZB 27/05); BGH Signalfolge (X ZB 9/03); BPatG Lithiumsilikat-Glaskeramik (35 W (pat) 412/16)
 
 *Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
 
@@ -7199,6 +7215,8 @@ Als Gebrauchsmuster werden Erfindungen geschützt, die neu sind, auf einem erfin
 **A:** Jedermann kann beim DPMA die Löschung des Gebrauchsmusters beantragen, wenn der Gegenstand nicht schutzfähig ist, bereits aufgrund einer früheren Patent- oder Gebrauchsmusteranmeldung geschützt ist oder über die ursprüngliche Anmeldung hinausgeht ([§ 15 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)); bei widerrechtlicher Entnahme nur der Verletzte ([§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)). Widerspricht der Inhaber nicht binnen eines Monats, wird gelöscht ([§ 17 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html)).
 
 Normen: [§ 15 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 16 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__16.html), [§ 17 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html)
+
+Rechtsprechung: BGH Feuchtigkeitsabsorptionsbehälter (X ZB 1/11); BPatG Tür- und Fenstersensor (35 W (pat) 424/22); BGH Tischgrill (X ZB 12/20); BGH Tintenstrahldrucker (X ZB 2/12)
 
 *Tags: Begriff, Patent: Verfahren, Fristen, Rechtsmittel*
 
@@ -7302,7 +7320,7 @@ Anmelde-, Prüfungs- und Antragsgebühren sind binnen drei Monaten nach Fälligk
 
 Normen: [§ 7 PatKostG](https://www.gesetze-im-internet.de/patkostg/__7.html), [§ 3 Abs. 2 PatKostG](https://www.gesetze-im-internet.de/patkostg/__3.html), [§ 10 PatKostG](https://www.gesetze-im-internet.de/patkostg/__10.html), [§ 17 PatG](https://www.gesetze-im-internet.de/patg/__17.html), [§ 20 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__20.html)
 
-Rechtsprechung: BPatG Sägeblatt (10 W (pat) 13/05); BPatG Jahresgebühren (keine Rückzahlung) (10 W (pat) 45/05); BGH Verdickerpolymer II (X ZB 4/14)
+Rechtsprechung: BPatG Sägeblatt (10 W (pat) 13/05); BPatG Jahresgebühren (keine Rückzahlung) (10 W (pat) 45/05); BGH Verdickerpolymer II (X ZB 4/14); BPatG Überwachungsvorrichtung (10 W (pat) 40/06)
 
 *Tags: Begriff, Patent: Kosten und Gebühren (PatKostG)*
 
@@ -7379,6 +7397,8 @@ Ein vom EPA erteiltes europäisches Patent hat in Deutschland dieselbe Wirkung w
 **A:** Ein deutsches Patent verliert seine Wirkung, soweit für dieselbe Erfindung desselben Erfinders mit gleichem Zeitrang ein europäisches Patent mit Wirkung für Deutschland erteilt ist ([Art. II § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__8.html)); seit 1.6.2023 gilt das nicht, wenn das europäische Patent dem EPG unterliegt: Dann bleibt der Doppelschutz bestehen, und der Beklagte kann die Einrede der doppelten Inanspruchnahme erheben ([Art. II § 18 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__18.html)).
 
 Normen: [Art. II § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__8.html), [Art. II § 18 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__18.html)
+
+Rechtsprechung: BGH Kornfeinung (X ZB 18/06); BGH Formkörper mit Durchtrittsöffnungen (X ZA 1/11)
 
 *Tags: Begriff, Patent: Europäische und internationale Anmeldung (IntPatÜG)*
 
@@ -7600,7 +7620,7 @@ Die Prüfungsstelle kann die Beteiligten jederzeit laden und anhören; bis zum E
 
 Normen: [§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 43 Abs. 6 PatG](https://www.gesetze-im-internet.de/patg/__43.html), [§ 21 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__21.html)
 
-Rechtsprechung: BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03)
+Rechtsprechung: BPatG Prüfungsgebühr für Ausscheidungsanmeldung (10 W (pat) 9/03); BPatG Fördermittelantrieb (19 W (pat) 66/04)
 
 *Tags: Begriff, Patent: Anmeldung und Erteilung*
 
@@ -7650,7 +7670,7 @@ Vor der Erteilung muss der Anmelder die Beschreibung mit den geltenden Ansprüch
 
 Normen: [§ 47 PatG](https://www.gesetze-im-internet.de/patg/__47.html), [§ 48 PatG](https://www.gesetze-im-internet.de/patg/__48.html), [§ 49 PatG](https://www.gesetze-im-internet.de/patg/__49.html), [§ 58 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__58.html)
 
-Rechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07)
+Rechtsprechung: BPatG Teilbeschluss (15 W (pat) 11/07); BPatG Elektronisches Steuergerät (20 W (pat) 8/14)
 
 *Tags: Begriff, Patent: Anmeldung und Erteilung*
 
@@ -7726,7 +7746,7 @@ Hilfskriterien sind Umstände wie die Überwindung eines technischen Vorurteils,
 
 Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html), [§ 34 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html), [§ 9 PatV](https://www.gesetze-im-internet.de/patv/__9.html)
 
-Rechtsprechung: BGH Gurtstraffer (X ZR 50/16)
+Rechtsprechung: BGH Gurtstraffer (X ZR 50/16); BPatG Lithiumsilikat-Glaskeramik (35 W (pat) 412/16)
 
 *Tags: Begriff, Patent: Schutzbereich und Auslegung*
 
@@ -7880,7 +7900,7 @@ Erzeugnis ist jeder industrielle oder handwerkliche Gegenstand einschließlich V
 
 Normen: [§ 2 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__2.html), [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html), [§ 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__6.html), [§ 13 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__13.html), [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 4 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
 
-Rechtsprechung: EuGH Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss) (C-361/15 P, C-405/15 P); BGH Verlängerte Limousinen (I ZR 89/08)
+Rechtsprechung: EuGH Easy Sanitary Solutions und EUIPO/Group Nivelles (Duschabfluss) (C-361/15 P, C-405/15 P); BGH Verlängerte Limousinen (I ZR 89/08); BGH Gebäckpresse (I ZR 126/06)
 
 *Tags: Begriff, Design: Schutzvoraussetzungen*
 
@@ -8188,7 +8208,7 @@ Vom Schutz ausgeschlossen sind Designs, die gegen die öffentliche Ordnung oder 
 
 Normen: [§ 7 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [§ 8 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__8.html), [§ 10 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__10.html), [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
 
-Rechtsprechung: BGH Bolerojäckchen (I ZR 23/12)
+Rechtsprechung: BGH Bolerojäckchen (I ZR 23/12); EuGH FEIA/Cul de Sac (Auftragsentwurf) (C-32/08)
 
 *Tags: Begriff, Design: Berechtigte und Rechtsverkehr*
 
@@ -8214,7 +8234,7 @@ Das Recht auf das eingetragene Design steht dem Entwerfer oder seinem Rechtsnach
 
 Normen: [§ 7 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html), [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
 
-Rechtsprechung: BGH Bolerojäckchen (I ZR 23/12)
+Rechtsprechung: BGH Bolerojäckchen (I ZR 23/12); EuGH FEIA/Cul de Sac (Auftragsentwurf) (C-32/08)
 
 *Tags: Begriff, Design: Berechtigte und Rechtsverkehr*
 
@@ -8263,6 +8283,8 @@ Ist ein Design auf einen Nichtberechtigten eingetragen, kann der Berechtigte Üb
 **A:** Das eingetragene Design und die Anmeldung sind übertragbar, verpfändbar und lizenzierbar (§§ [29](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html), [30](https://www.gesetze-im-internet.de/geschmmg_2004/__30.html), [32](https://www.gesetze-im-internet.de/geschmmg_2004/__32.html) DesignG). Lizenzen können ausschließlich oder einfach und räumlich beschränkt sein ([§ 31 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)); Überschreitungen von Dauer, Nutzungsform, Erzeugnissen, Gebiet oder Qualität sind Designverletzungen ([§ 31 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)).
 
 Normen: [§ 29 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html), [§ 30 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__30.html), [§ 31 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html), [§ 32 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__32.html), [Art. 32 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
+
+Rechtsprechung: EuGH Thomas Philipps/Grüne Welle (Lizenznehmer) (C-419/15)
 
 *Tags: Begriff, Design: Berechtigte und Rechtsverkehr*
 
@@ -8560,7 +8582,7 @@ Der Schutz entsteht mit der Eintragung ([§ 27 Abs. 1 DesignG](https://www.geset
 
 Normen: [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html), [§ 35 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__35.html), [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 11 DesignRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:31998L0071)
 
-Rechtsprechung: BGH Sporthelm (I ZB 25/18); EuGH DOCERAM/CeramTec (Zentrierstifte) (C-395/16); BPatG Violette Trittleiter (30 W (pat) 801/23)
+Rechtsprechung: BGH Sporthelm (I ZB 25/18); EuGH DOCERAM/CeramTec (Zentrierstifte) (C-395/16); BPatG Violette Trittleiter (30 W (pat) 801/23); BPatG Kühlergitter-Emblemhalterung (30 W (pat) 801/22)
 
 *Tags: Begriff, Design: Nichtigkeit*
 
@@ -8894,7 +8916,7 @@ Die Rechte aus dem Design erstrecken sich nicht auf Handlungen, die ein Erzeugni
 
 Normen: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), [§ 31 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html), [§ 44 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__44.html), [Art. 89 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
-Rechtsprechung: BGH Kinderwagen I (I ZR 23/10); BGH Griffleiste (I ZR 127/24)
+Rechtsprechung: BGH Kinderwagen I (I ZR 23/10); BGH Griffleiste (I ZR 127/24); BGH Produkte zur Wundversorgung (I ZB 96/16)
 
 *Tags: Begriff, Design: Rechtsfolgen und Verfahren*
 
@@ -8920,7 +8942,7 @@ Wer ein eingetragenes Design entgegen [§ 38 Abs. 1 DesignG](https://www.gesetze
 
 Normen: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), [§ 45 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__45.html), [§ 62a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__62a.html), [Art. 13 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 12 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 88 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
 
-Rechtsprechung: EuGH Acacia/BMW (anwendbares Recht) (C-421/20)
+Rechtsprechung: EuGH Acacia/BMW (anwendbares Recht) (C-421/20); EuGH Thomas Philipps/Grüne Welle (Lizenznehmer) (C-419/15); BGH Gemeinkostenanteil (I ZR 246/98); BGH Windsor Estate (I ZR 93/04)
 
 *Tags: Begriff, Design: Rechtsfolgen und Verfahren*
 
@@ -8946,6 +8968,8 @@ Bei Vorsatz oder Fahrlässigkeit ist der Verletzer zum Schadensersatz verpflicht
 
 Normen: [§ 43 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html), [§ 44 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__44.html), [Art. 10 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
 
+Rechtsprechung: BGH Produkte zur Wundversorgung (I ZB 96/16)
+
 *Tags: Begriff, Design: Rechtsfolgen und Verfahren*
 
 ---
@@ -8969,6 +8993,8 @@ Der Verletzte kann Vernichtung der rechtswidrig hergestellten oder verbreiteten 
 **A:** Der Verletzer schuldet unverzügliche Auskunft über Herkunft und Vertriebsweg der rechtsverletzenden Erzeugnisse ([§ 46 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)); bei offensichtlicher Verletzung oder nach Klageerhebung auch Dritte, die in gewerblichem Ausmaß Erzeugnisse besaßen, Dienstleistungen nutzten oder erbrachten ([§ 46 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)). Inhalt: Namen und Anschriften von Herstellern, Lieferanten, gewerblichen Abnehmern und Mengen und Preise ([§ 46 Abs. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)). Umsetzung von [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)).
 
 Normen: [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html), [§ 46a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46a.html), [§ 46b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46b.html), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 6 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01))
+
+Rechtsprechung: BGH Windsor Estate (I ZR 93/04); BGH Alles kann besser werden (I ZB 80/11)
 
 *Tags: Begriff, Design: Rechtsfolgen und Verfahren*
 
@@ -15931,7 +15957,7 @@ Beim Antrag auf Änderung der Verfahrenssprache in die Patentsprache aus Fairnes
 
 **F:** EPG LK München „Huawei/MediaTek (LK München: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Drittakteneinsicht)“ (UPC_CFI_1234/2025, 2026) – Kernaussage?
 
-**A:** Ein Antrag nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegen eine Entscheidung des Berichterstatters über die Drittakteneinsicht nach [R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist unstatthaft, wenn der Spruchkörper für dieses Verfahren nicht zuständig ist. Für das Fortbildungs- und Beratungsinteresse einer Kanzlei an der Akteneinsicht genügt eine abstrakte Betrachtung: Es reicht, dass die Einsicht objektiv das Informationsbedürfnis befriedigen kann.
+**A:** Die Lokalkammer hielt einen Antrag nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegen eine Entscheidung des Berichterstatters über die Drittakteneinsicht nach [R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) für unstatthaft; das ist überholt: Nach EPG-BerG Huawei/Quinn Emanuel (UPC-COA-52/2026, 29.6.2026) überprüft der Spruchkörper solche Entscheidungen nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Rechtsmittel ist die Berufung nach [R. 220.2 und 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf). Für das Fortbildungs- und Beratungsinteresse einer Kanzlei an der Akteneinsicht genügt eine abstrakte Betrachtung: Es reicht, dass die Einsicht objektiv das Informationsbedürfnis befriedigen kann.
 
 Normen: [R. 262.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
 Fundstelle: EPG, UPC_CFI_1234/2025, EP3905840
@@ -15944,7 +15970,7 @@ Fundstelle: EPG, UPC_CFI_1234/2025, EP3905840
 
 **F:** Welche Entscheidung (EPG LK München) steht für folgenden Grundsatz?
 
-Ein Antrag nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegen eine Entscheidung des Berichterstatters über die Drittakteneinsicht nach [R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist unstatthaft, wenn der Spruchkörper für dieses Verfahren nicht zuständig ist. Für das Fortbildungs- und Beratungsinteresse einer Kanzlei an der Akteneinsicht genügt eine abstrakte Betrachtung: Es reicht, dass die Einsicht objektiv das Informationsbedürfnis befriedigen kann.
+Die Lokalkammer hielt einen Antrag nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegen eine Entscheidung des Berichterstatters über die Drittakteneinsicht nach [R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) für unstatthaft; das ist überholt: Nach EPG-BerG Huawei/Quinn Emanuel (UPC-COA-52/2026, 29.6.2026) überprüft der Spruchkörper solche Entscheidungen nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Rechtsmittel ist die Berufung nach [R. 220.2 und 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf). Für das Fortbildungs- und Beratungsinteresse einer Kanzlei an der Akteneinsicht genügt eine abstrakte Betrachtung: Es reicht, dass die Einsicht objektiv das Informationsbedürfnis befriedigen kann.
 
 **A:** EPG LK München „Huawei/MediaTek (LK München: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), Drittakteneinsicht)“ – UPC_CFI_1234/2025 (2026), EPG, UPC_CFI_1234/2025, EP3905840
 
@@ -17079,6 +17105,356 @@ Ein Antrag auf Entfernung eines unbefugten Opt-out nach [R. 5A VerfO](https://ww
 
 ## entscheidung
 
+**F:** EPG-BerG „Netgear/Huawei (Überprüfung von Anordnungen des Berichterstatters)“ (APL_595643/2023, 2024) – Kernaussage?
+
+**A:** Verfahrensleitende Entscheidungen des Berichterstatters oder des Vorsitzenden sind, soweit nichts anderes bestimmt ist, nicht unmittelbar mit der Berufung anfechtbar; statthaft ist der Antrag auf Überprüfung durch den Spruchkörper nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), über dessen Zulässigkeit der Spruchkörper entscheidet. Die Mitteilung, der Einspruch werde im Hauptverfahren behandelt ([R. 20.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), ist eine solche verfahrensleitende Entscheidung. Weist der Berichterstatter den Einspruch zurück und lässt er die Berufung zu, kann die Partei wählen, ob sie Berufung einlegt oder die Überprüfung nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) beantragt; lässt er sie nicht zu, ist zunächst die Überprüfung durch den Spruchkörper zu beantragen.
+
+Normen: [R. 20 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 21 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, APL_595643/2023, EP3611989
+
+*Tags: Rechtsprechung, EPG-BerG, Einspruch, Berichterstatter*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Verfahrensleitende Entscheidungen des Berichterstatters oder des Vorsitzenden sind, soweit nichts anderes bestimmt ist, nicht unmittelbar mit der Berufung anfechtbar; statthaft ist der Antrag auf Überprüfung durch den Spruchkörper nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), über dessen Zulässigkeit der Spruchkörper entscheidet. Die Mitteilung, der Einspruch werde im Hauptverfahren behandelt ([R. 20.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)), ist eine solche verfahrensleitende Entscheidung. Weist der Berichterstatter den Einspruch zurück und lässt er die Berufung zu, kann die Partei wählen, ob sie Berufung einlegt oder die Überprüfung nach [R. 333.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) beantragt; lässt er sie nicht zu, ist zunächst die Überprüfung durch den Spruchkörper zu beantragen.
+
+**A:** EPG-BerG „Netgear/Huawei (Überprüfung von Anordnungen des Berichterstatters)“ – APL_595643/2023 (2024), EPG, APL_595643/2023, EP3611989
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Einspruch, Berichterstatter*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Huawei/Quinn Emanuel (Akteneinsicht: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))“ (UPC-COA-52/2026, 2026) – Kernaussage?
+
+**A:** Entscheidungen des Berichterstatters über die Akteneinsicht Dritter nach [R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) können nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) vom Spruchkörper überprüft werden; gegen dessen Entscheidung ist die Berufung nach [R. 220.2 und 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegeben. Die Entscheidung des Berichterstatters ist weder Endentscheidung ([R. 220.1(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) noch eine das Verfahren nur für eine Partei beendende Entscheidung ([R. 220.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); die abweichende Auffassung der Lokalkammer München ist überholt.
+
+Normen: [R. 220 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 262.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-COA-52/2026, EP4142215
+
+*Tags: Rechtsprechung, EPG-BerG, Fallmanagement, Akteneinsicht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Entscheidungen des Berichterstatters über die Akteneinsicht Dritter nach [R. 262.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) können nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) vom Spruchkörper überprüft werden; gegen dessen Entscheidung ist die Berufung nach [R. 220.2 und 220.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gegeben. Die Entscheidung des Berichterstatters ist weder Endentscheidung ([R. 220.1(a) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) noch eine das Verfahren nur für eine Partei beendende Entscheidung ([R. 220.1(b) VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); die abweichende Auffassung der Lokalkammer München ist überholt.
+
+**A:** EPG-BerG „Huawei/Quinn Emanuel (Akteneinsicht: Überprüfung nach [R. 333 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf))“ – UPC-COA-52/2026 (2026), EPG, UPC-COA-52/2026, EP4142215
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Fallmanagement, Akteneinsicht*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Avago/Tesla (Klagerücknahme im Berufungsverfahren)“ (App_66724/2024, 2025) – Kernaussage?
+
+**A:** Ein Antrag auf Rücknahme der Klage nach [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) kann auch im Berufungsverfahren gestellt werden; erst nach Rechtskraft der Endentscheidung ist er unzulässig. Über die Rücknahme entscheidet dann das Berufungsgericht. Die Rücknahme der Nichtigkeitswiderklage macht die Anträge auf Änderung des Patents gegenstandslos.
+
+Normen: [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, App_66724/2024, EP1612910
+
+*Tags: Rechtsprechung, EPG-BerG, Rücknahme, Berufung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Ein Antrag auf Rücknahme der Klage nach [R. 265 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) kann auch im Berufungsverfahren gestellt werden; erst nach Rechtskraft der Endentscheidung ist er unzulässig. Über die Rücknahme entscheidet dann das Berufungsgericht. Die Rücknahme der Nichtigkeitswiderklage macht die Anträge auf Änderung des Patents gegenstandslos.
+
+**A:** EPG-BerG „Avago/Tesla (Klagerücknahme im Berufungsverfahren)“ – App_66724/2024 (2025), EPG, App_66724/2024, EP1612910
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Rücknahme, Berufung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Supponor/AIM Sport (Klageänderung und Parteierweiterung)“ (APL_9191/2025, 2025) – Kernaussage?
+
+**A:** Bei [R. 263](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) und [R. 305 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) hat das Gericht erster Instanz Ermessen; das Berufungsgericht prüft nur, ob es dessen Grenzen überschritten hat. Der Antrag nach [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) muss selbst begründen, weshalb die Änderung nicht im ursprünglichen Schriftsatz stand; der genaue Wortlaut darf in Anlagen stehen, etwa einer geänderten Klageschrift mit und ohne Änderungsmarkierungen. Beim Hinzufügen einer Partei ([R. 305 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) zählen u.a. frühere Kenntnis des Klägers, Beteiligung der übrigen Parteien, Auswirkungen auf sie und der Verfahrensstand.
+
+Normen: [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 305 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, APL_9191/2025
+
+*Tags: Rechtsprechung, EPG-BerG, Klageänderung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Bei [R. 263](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) und [R. 305 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) hat das Gericht erster Instanz Ermessen; das Berufungsgericht prüft nur, ob es dessen Grenzen überschritten hat. Der Antrag nach [R. 263 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) muss selbst begründen, weshalb die Änderung nicht im ursprünglichen Schriftsatz stand; der genaue Wortlaut darf in Anlagen stehen, etwa einer geänderten Klageschrift mit und ohne Änderungsmarkierungen. Beim Hinzufügen einer Partei ([R. 305 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) zählen u.a. frühere Kenntnis des Klägers, Beteiligung der übrigen Parteien, Auswirkungen auf sie und der Verfahrensstand.
+
+**A:** EPG-BerG „Supponor/AIM Sport (Klageänderung und Parteierweiterung)“ – APL_9191/2025 (2025), EPG, APL_9191/2025
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Klageänderung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „SharkNinja/SEB (Signatur, rückwirkende Fristverlängerung, Vertraulichkeit)“ (UPC-CoA-61/2026, 2026) – Kernaussage?
+
+**A:** Der Schriftsatz selbst muss elektronisch signiert sein ([R. 4.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); die Bestätigung des Uploads im CMS genügt nicht. [R. 9.3 lit. a VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) erlaubt ausdrücklich die rückwirkende Fristverlängerung, auch auf einen erst nach Fristablauf gestellten Antrag. Von Dritten gegen Entgelt bezogene Marktdaten können vertrauliche Informationen im Sinne von [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) sein.
+
+Normen: [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 9.3 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC-CoA-61/2026, EP3689198
+
+*Tags: Rechtsprechung, EPG-BerG, Fristen, Vertraulichkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Schriftsatz selbst muss elektronisch signiert sein ([R. 4.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)); die Bestätigung des Uploads im CMS genügt nicht. [R. 9.3 lit. a VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) erlaubt ausdrücklich die rückwirkende Fristverlängerung, auch auf einen erst nach Fristablauf gestellten Antrag. Von Dritten gegen Entgelt bezogene Marktdaten können vertrauliche Informationen im Sinne von [Art. 58 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 262A VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) sein.
+
+**A:** EPG-BerG „SharkNinja/SEB (Signatur, rückwirkende Fristverlängerung, Vertraulichkeit)“ – UPC-CoA-61/2026 (2026), EPG, UPC-CoA-61/2026, EP3689198
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Fristen, Vertraulichkeit*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Belkin/Philips (Auskunftsfrist, Zwangsgeld trotz verspäteter Erfüllung)“ (APL_68523/2024, 2025) – Kernaussage?
+
+**A:** Der Antrag auf Auskunft nach [Art. 67 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) soll eine Frist für die Auskunftserteilung enthalten, die ab der Mitteilung nach [R. 118.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (im Eilverfahren ab Zustellung der Anordnung) läuft; fehlt sie in der Entscheidung, setzt der Kläger sie mit der Mitteilung der Vollstreckungsabsicht. Weil das Zwangsgeld nicht nur Beuge-, sondern auch Strafcharakter hat, kann es auch verhängt werden, wenn der Beklagte die Auskunft inzwischen, aber verspätet erteilt hat. Die Erfüllung hat der Beklagte darzulegen und zu beweisen. [Art. 67 Abs. 1 lit. b EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) umfasst auch die vom Verletzer gezahlten Einkaufspreise; ist keine Form vorgeschrieben, darf die Auskunft schriftlich oder elektronisch erteilt werden.
+
+Normen: [Art. 67 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 82 Abs. 4 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 118.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, APL_68523/2024, EP2867997
+
+*Tags: Rechtsprechung, EPG-BerG, Auskunft, Zwangsgeld, Vollstreckung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Antrag auf Auskunft nach [Art. 67 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) soll eine Frist für die Auskunftserteilung enthalten, die ab der Mitteilung nach [R. 118.8 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (im Eilverfahren ab Zustellung der Anordnung) läuft; fehlt sie in der Entscheidung, setzt der Kläger sie mit der Mitteilung der Vollstreckungsabsicht. Weil das Zwangsgeld nicht nur Beuge-, sondern auch Strafcharakter hat, kann es auch verhängt werden, wenn der Beklagte die Auskunft inzwischen, aber verspätet erteilt hat. Die Erfüllung hat der Beklagte darzulegen und zu beweisen. [Art. 67 Abs. 1 lit. b EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) umfasst auch die vom Verletzer gezahlten Einkaufspreise; ist keine Form vorgeschrieben, darf die Auskunft schriftlich oder elektronisch erteilt werden.
+
+**A:** EPG-BerG „Belkin/Philips (Auskunftsfrist, Zwangsgeld trotz verspäteter Erfüllung)“ – APL_68523/2024 (2025), EPG, APL_68523/2024, EP2867997
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Auskunft, Zwangsgeld, Vollstreckung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Philips/Belkin (aufschiebende Wirkung, Geschäftsführer keine Mittelsperson)“ (App_53031/2024, 2024) – Kernaussage?
+
+**A:** Der Antrag auf aufschiebende Wirkung muss nach [R. 223.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) aus sich heraus verständlich sein, sodass der Gegner erwidern und das Berufungsgericht entscheiden kann; Verweise auf erstinstanzliche Schriftsätze sind nur mit konkret bezeichneten Textstellen zulässig. Aufschiebende Wirkung kommt in Betracht, wenn die angefochtene Entscheidung evident fehlerhaft ist, weil ihre tragenden Feststellungen oder Erwägungen schon bei summarischer Prüfung nicht halten. Ein Geschäftsführer vertritt das verletzende Unternehmen; dieses ist ihm gegenüber nicht „Dritter“ im Sinne von [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) und [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), sodass er nicht allein wegen seiner Funktion als Mittelsperson haftet. Sicherheit nach [R. 352.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist mit Erlass der Entscheidung anzuordnen.
+
+Normen: [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [Art. 63 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 74 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 352 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, App_53031/2024, EP2867997
+
+*Tags: Rechtsprechung, EPG-BerG, Berufung, aufschiebende Wirkung, Mittelsperson*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Antrag auf aufschiebende Wirkung muss nach [R. 223.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) aus sich heraus verständlich sein, sodass der Gegner erwidern und das Berufungsgericht entscheiden kann; Verweise auf erstinstanzliche Schriftsätze sind nur mit konkret bezeichneten Textstellen zulässig. Aufschiebende Wirkung kommt in Betracht, wenn die angefochtene Entscheidung evident fehlerhaft ist, weil ihre tragenden Feststellungen oder Erwägungen schon bei summarischer Prüfung nicht halten. Ein Geschäftsführer vertritt das verletzende Unternehmen; dieses ist ihm gegenüber nicht „Dritter“ im Sinne von [Art. 63 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) und [Art. 11 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), sodass er nicht allein wegen seiner Funktion als Mittelsperson haftet. Sicherheit nach [R. 352.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ist mit Erlass der Entscheidung anzuordnen.
+
+**A:** EPG-BerG „Philips/Belkin (aufschiebende Wirkung, Geschäftsführer keine Mittelsperson)“ – App_53031/2024 (2024), EPG, App_53031/2024, EP2867997
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Berufung, aufschiebende Wirkung, Mittelsperson*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Meril/Edwards (obsiegende Partei nach Unterlassungserklärung)“ (APL_83/2024, 2024) – Kernaussage?
+
+**A:** Wer nach Abgabe einer Unterlassungs- und Verpflichtungserklärung durch den Beklagten obsiegende Partei im Sinne von [Art. 69 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist, bestimmt sich nach den Anträgen und dem Inhalt der Erklärung. Verpflichtet sich der Beklagte nach Einleitung des Verfahrens, den Anträgen des Klägers nachzukommen, sind Zulässigkeit und Begründetheit im Zeitpunkt der Erklärung in der Regel nicht zu prüfen; die Erklärung zeigt, dass die Anträge erfüllt wurden, und der Kläger ist in der Regel obsiegende Partei.
+
+Normen: [Art. 69 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 360 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, APL_83/2024, EP3763331
+
+*Tags: Rechtsprechung, EPG-BerG, Kosten, Erledigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Wer nach Abgabe einer Unterlassungs- und Verpflichtungserklärung durch den Beklagten obsiegende Partei im Sinne von [Art. 69 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist, bestimmt sich nach den Anträgen und dem Inhalt der Erklärung. Verpflichtet sich der Beklagte nach Einleitung des Verfahrens, den Anträgen des Klägers nachzukommen, sind Zulässigkeit und Begründetheit im Zeitpunkt der Erklärung in der Regel nicht zu prüfen; die Erklärung zeigt, dass die Anträge erfüllt wurden, und der Kläger ist in der Regel obsiegende Partei.
+
+**A:** EPG-BerG „Meril/Edwards (obsiegende Partei nach Unterlassungserklärung)“ – APL_83/2024 (2024), EPG, APL_83/2024, EP3763331
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Kosten, Erledigung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Meril/Edwards (neue Rechtsargumente, Aussetzung bei EPA-Einspruch)“ (APL_50205/2024, 2024) – Kernaussage?
+
+**A:** [R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) erfasst nur Anträge, Tatsachen und Beweismittel, nicht rechtliche Ausführungen; ein neues Rechtsargument auf Grundlage der erstinstanzlichen Tatsachen und Beweise ist in der Berufung zulässig. [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist in [R. 295 lit. a VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (vor Entscheidungsreife) und [R. 295 lit. g VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) i.V.m. [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) umgesetzt. Für die Aussetzung genügt, dass die Einspruchsabteilung rasch entscheiden wird, auch wenn wahrscheinlich Beschwerde folgt; eine rasche rechtskräftige Entscheidung des EPA ist nicht erforderlich. Die Aussetzung soll Widersprüche zwischen Verletzungsentscheidung und Widerruf im Einspruch vermeiden.
+
+Normen: [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 295 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, APL_50205/2024
+
+*Tags: Rechtsprechung, EPG-BerG, Berufung, neues Vorbringen, Aussetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+[R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) erfasst nur Anträge, Tatsachen und Beweismittel, nicht rechtliche Ausführungen; ein neues Rechtsargument auf Grundlage der erstinstanzlichen Tatsachen und Beweise ist in der Berufung zulässig. [Art. 33 Abs. 10 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) ist in [R. 295 lit. a VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (vor Entscheidungsreife) und [R. 295 lit. g VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) i.V.m. [R. 118 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) umgesetzt. Für die Aussetzung genügt, dass die Einspruchsabteilung rasch entscheiden wird, auch wenn wahrscheinlich Beschwerde folgt; eine rasche rechtskräftige Entscheidung des EPA ist nicht erforderlich. Die Aussetzung soll Widersprüche zwischen Verletzungsentscheidung und Widerruf im Einspruch vermeiden.
+
+**A:** EPG-BerG „Meril/Edwards (neue Rechtsargumente, Aussetzung bei EPA-Einspruch)“ – APL_50205/2024 (2024), EPG, APL_50205/2024
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Berufung, neues Vorbringen, Aussetzung*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „ICPillar/Arm ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) von Amts wegen)“ (APL_33746/2024, 2024) – Kernaussage?
+
+**A:** Das Berufungsgericht prüft von Amts wegen, wie es sein Ermessen nach [R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ausübt; es kann verspätete Anträge, Tatsachen und Beweismittel auch dann außer Acht lassen, wenn die Gegenseite nicht widerspricht. Aus [R. 172.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) folgt die Pflicht, verfügbare Beweismittel vorzulegen; Beweisanordnungen nach [R. 172.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) stehen im Ermessen des Gerichts. Die Bürgschaft einer in den USA zugelassenen Bank ist keine angemessene Sicherheit nach [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf).
+
+Normen: [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 172 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 222 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, APL_33746/2024, EP3000239
+
+*Tags: Rechtsprechung, EPG-BerG, Berufung, neues Vorbringen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Das Berufungsgericht prüft von Amts wegen, wie es sein Ermessen nach [R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ausübt; es kann verspätete Anträge, Tatsachen und Beweismittel auch dann außer Acht lassen, wenn die Gegenseite nicht widerspricht. Aus [R. 172.1 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) folgt die Pflicht, verfügbare Beweismittel vorzulegen; Beweisanordnungen nach [R. 172.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) stehen im Ermessen des Gerichts. Die Bürgschaft einer in den USA zugelassenen Bank ist keine angemessene Sicherheit nach [R. 158 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf).
+
+**A:** EPG-BerG „ICPillar/Arm ([R. 222.2 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) von Amts wegen)“ – APL_33746/2024 (2024), EPG, APL_33746/2024, EP3000239
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Berufung, neues Vorbringen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Hurom/NUC (Auskunft und aufschiebende Wirkung)“ (App_23407/2025, 2025) – Kernaussage?
+
+**A:** [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) spiegelt [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), der ein hohes Schutzniveau und genaue Informationen über Herkunft, Vertriebswege und beteiligte Dritte sichern soll. Die Auskunft gehört daher zu den Maßnahmen, deren Vollstreckung nur unter außergewöhnlichen Umständen nach [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ausgesetzt werden kann. Dass die Auskunft vor der Berufungsentscheidung den Zweck der Berufung teilweise unterläuft, genügt nicht, solange der Berufungskläger nicht zeigt, dass die Berufung ohne aufschiebende Wirkung gegenstandslos würde und sein Geheimhaltungsinteresse das Interesse des Klägers an sofortiger Information überwiegt.
+
+Normen: [Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 74 Abs. 1 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)), [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, App_23407/2025, EP2028981
+
+*Tags: Rechtsprechung, EPG-BerG, Auskunft, aufschiebende Wirkung, Durchsetzungsrichtlinie*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+[Art. 67 EPGÜ](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:42013A0620(01)) spiegelt [Art. 8 DurchsetzungsRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32004L0048R(01)), der ein hohes Schutzniveau und genaue Informationen über Herkunft, Vertriebswege und beteiligte Dritte sichern soll. Die Auskunft gehört daher zu den Maßnahmen, deren Vollstreckung nur unter außergewöhnlichen Umständen nach [R. 223 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) ausgesetzt werden kann. Dass die Auskunft vor der Berufungsentscheidung den Zweck der Berufung teilweise unterläuft, genügt nicht, solange der Berufungskläger nicht zeigt, dass die Berufung ohne aufschiebende Wirkung gegenstandslos würde und sein Geheimhaltungsinteresse das Interesse des Klägers an sofortiger Information überwiegt.
+
+**A:** EPG-BerG „Hurom/NUC (Auskunft und aufschiebende Wirkung)“ – App_23407/2025 (2025), EPG, App_23407/2025, EP2028981
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Auskunft, aufschiebende Wirkung, Durchsetzungsrichtlinie*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Bruker/10x Genomics (Offenlegung der Bücher, Gebühren)“ (UPC_CoA_681/2025, 2025) – Kernaussage?
+
+**A:** Der Antrag auf Offenlegung der Bücher ist Teil des Verfahrens zur Festsetzung von Schadensersatz und Entschädigung ([R. 131.1 lit. c](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 141 bis 144 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Wer ihn stellt, schuldet die Festgebühr und die streitwertabhängige Gebühr für die Festsetzung des Schadensersatzes.
+
+Normen: [R. 131 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 141 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 370 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, UPC_CoA_681/2025
+
+*Tags: Rechtsprechung, EPG-BerG, Schadensersatz, Gebühren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Der Antrag auf Offenlegung der Bücher ist Teil des Verfahrens zur Festsetzung von Schadensersatz und Entschädigung ([R. 131.1 lit. c](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 141 bis 144 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)). Wer ihn stellt, schuldet die Festgebühr und die streitwertabhängige Gebühr für die Festsetzung des Schadensersatzes.
+
+**A:** EPG-BerG „Bruker/10x Genomics (Offenlegung der Bücher, Gebühren)“ – UPC_CoA_681/2025 (2025), EPG, UPC_CoA_681/2025
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Schadensersatz, Gebühren*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Hanshow/SES-imagotag (Frist für die Kostenfestsetzung)“ (APL_57918/2024, 2025) – Kernaussage?
+
+**A:** Die Monatsfrist für den Antrag auf Kostenfestsetzung nach [R. 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) beginnt mit Zustellung der Sachentscheidung, nicht einer Anordnung über einstweilige Maßnahmen. Wird kein Hauptsacheverfahren eingeleitet, etwa weil der Eilantrag erfolglos war, und ist der Antragsteller zur Kostentragung verurteilt, gelten [R. 150 und 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) entsprechend; die Frist läuft dann ab Zustellung der Eilanordnung. Eine versäumte Frist kann nur durch Wiedereinsetzung ([R. 320 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) geheilt werden. Die eigenen Kosten des Kostenfestsetzungsverfahrens trägt jede Partei selbst, mit Ausnahme der Gerichtsgebühr.
+
+Normen: [R. 150 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf), [R. 320 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, APL_57918/2024, EP3883277
+
+*Tags: Rechtsprechung, EPG-BerG, Kosten, Fristen*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Die Monatsfrist für den Antrag auf Kostenfestsetzung nach [R. 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) beginnt mit Zustellung der Sachentscheidung, nicht einer Anordnung über einstweilige Maßnahmen. Wird kein Hauptsacheverfahren eingeleitet, etwa weil der Eilantrag erfolglos war, und ist der Antragsteller zur Kostentragung verurteilt, gelten [R. 150 und 151 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) entsprechend; die Frist läuft dann ab Zustellung der Eilanordnung. Eine versäumte Frist kann nur durch Wiedereinsetzung ([R. 320 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)) geheilt werden. Die eigenen Kosten des Kostenfestsetzungsverfahrens trägt jede Partei selbst, mit Ausnahme der Gerichtsgebühr.
+
+**A:** EPG-BerG „Hanshow/SES-imagotag (Frist für die Kostenfestsetzung)“ – APL_57918/2024 (2025), EPG, APL_57918/2024, EP3883277
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Kosten, Fristen*
+
+---
+
+## entscheidung
+
+**F:** EPG-BerG „Hybridgenerator/Infotech (Zwangsgeld durch den Spruchkörper)“ (APL_13146/2025, 2025) – Kernaussage?
+
+**A:** Über einen Antrag auf Festsetzung von Zwangsgeld nach [R. 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) entscheidet der Spruchkörper, nicht ein Einzelrichter.
+
+Normen: [R. 354 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf)
+Fundstelle: EPG, APL_13146/2025, EP4238202
+
+*Tags: Rechtsprechung, EPG-BerG, Zwangsgeld, Vollstreckung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EPG-BerG) steht für folgenden Grundsatz?
+
+Über einen Antrag auf Festsetzung von Zwangsgeld nach [R. 354.4 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) entscheidet der Spruchkörper, nicht ein Einzelrichter.
+
+**A:** EPG-BerG „Hybridgenerator/Infotech (Zwangsgeld durch den Spruchkörper)“ – APL_13146/2025 (2025), EPG, APL_13146/2025, EP4238202
+
+*Tags: Rechtsprechung, Umkehr, EPG-BerG, Zwangsgeld, Vollstreckung*
+
+---
+
+## entscheidung
+
 **F:** BGH „Steuerungseinrichtung für Untersuchungsmodalitäten“ (X ZB 22/07, 2009) – Kernaussage?
 
 **A:** Ein Verfahren, das sich einer Datenverarbeitungsanlage bedient, ist jedenfalls dann technisch, wenn es in den Ablauf einer technischen Einrichtung eingebettet ist. Ob die Lehre patentfähig ist, entscheidet sich erst bei Neuheit und erfinderischer Tätigkeit, wo nur die Merkmale zählen, die die Lösung eines technischen Problems mit technischen Mitteln bestimmen.
@@ -17856,7 +18232,7 @@ Ein Mittel bezieht sich auf ein wesentliches Element der Erfindung, wenn es geei
 
 **F:** BGH „Fräsverfahren“ (X ZR 69/11, 2013) – Kernaussage?
 
-**A:** Bei mittelbarer Patentverletzung setzt die Feststellung der Schadensersatzpflicht die Wahrscheinlichkeit voraus, dass der Abnehmer die Erfindung unmittelbar benutzt hat; der Schaden liegt in der unmittelbaren Benutzung, nicht schon in der Lieferung.
+**A:** Die für die Feststellung der Schadensersatzpflicht nötige Schadenswahrscheinlichkeit ist bei mittelbarer Patentverletzung in der Regel schon zu bejahen, wenn zumindest eine rechtswidrige und schuldhafte mittelbare Verletzungshandlung stattgefunden hat (Bestätigung von Deckenheizung), auch wenn sie nur im Anbieten eines Mittels nach [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html) bestand. Solange die Übertragung des Patents nicht eingetragen ist, macht allein der eingetragene Inhaber die Ansprüche gerichtlich geltend ([§ 30 Abs. 3 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__30.html)); für die Sachlegitimation zählt die materielle Rechtslage.
 
 Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html), [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
 Fundstelle: BGH, Urteil vom 07.05.2013 – X ZR 69/11
@@ -17869,7 +18245,7 @@ Fundstelle: BGH, Urteil vom 07.05.2013 – X ZR 69/11
 
 **F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
 
-Bei mittelbarer Patentverletzung setzt die Feststellung der Schadensersatzpflicht die Wahrscheinlichkeit voraus, dass der Abnehmer die Erfindung unmittelbar benutzt hat; der Schaden liegt in der unmittelbaren Benutzung, nicht schon in der Lieferung.
+Die für die Feststellung der Schadensersatzpflicht nötige Schadenswahrscheinlichkeit ist bei mittelbarer Patentverletzung in der Regel schon zu bejahen, wenn zumindest eine rechtswidrige und schuldhafte mittelbare Verletzungshandlung stattgefunden hat (Bestätigung von Deckenheizung), auch wenn sie nur im Anbieten eines Mittels nach [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html) bestand. Solange die Übertragung des Patents nicht eingetragen ist, macht allein der eingetragene Inhaber die Ansprüche gerichtlich geltend ([§ 30 Abs. 3 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__30.html)); für die Sachlegitimation zählt die materielle Rechtslage.
 
 **A:** BGH „Fräsverfahren“ – X ZR 69/11 (2013), BGH, Urteil vom 07.05.2013 – X ZR 69/11
 
@@ -18006,12 +18382,12 @@ Ist nach dem geschützten Verfahren ein Halbzeug in bestimmter Weise zu bearbeit
 
 **F:** BGH „Tintenpatrone“ (X ZR 180/05, 2008) – Kernaussage?
 
-**A:** Der Unterlassungsanspruch aus dem Patent besteht auch gegen den Vertrieb von Erzeugnissen, die der Patentinhaber oder mit seiner Zustimmung ein Dritter außerhalb des EWR in Verkehr gebracht hat; die Erschöpfung ist auf das Inverkehrbringen im EWR beschränkt.
+**A:** Der Patentinhaber behält den Unterlassungsanspruch gegen den Verletzer, auch wenn er eine ausschließliche Lizenz vergeben hat. Er kann den Verletzer unabhängig vom Lizenznehmer auf Schadensersatz in Anspruch nehmen (beide sind nicht Mitgläubiger) und hat einen eigenen Anspruch auf Auskunft und Rechnungslegung, um eine Schadensberechnungsart zu wählen und den Anspruch zu beziffern.
 
-Normen: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Normen: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 15 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html)
 Fundstelle: BGH, Urteil vom 20.05.2008 – X ZR 180/05
 
-*Tags: Rechtsprechung, BGH, Erschöpfung, Parallelimport*
+*Tags: Rechtsprechung, BGH, Aktivlegitimation, Lizenz, Schadensersatz*
 
 ---
 
@@ -18019,11 +18395,11 @@ Fundstelle: BGH, Urteil vom 20.05.2008 – X ZR 180/05
 
 **F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
 
-Der Unterlassungsanspruch aus dem Patent besteht auch gegen den Vertrieb von Erzeugnissen, die der Patentinhaber oder mit seiner Zustimmung ein Dritter außerhalb des EWR in Verkehr gebracht hat; die Erschöpfung ist auf das Inverkehrbringen im EWR beschränkt.
+Der Patentinhaber behält den Unterlassungsanspruch gegen den Verletzer, auch wenn er eine ausschließliche Lizenz vergeben hat. Er kann den Verletzer unabhängig vom Lizenznehmer auf Schadensersatz in Anspruch nehmen (beide sind nicht Mitgläubiger) und hat einen eigenen Anspruch auf Auskunft und Rechnungslegung, um eine Schadensberechnungsart zu wählen und den Anspruch zu beziffern.
 
 **A:** BGH „Tintenpatrone“ – X ZR 180/05 (2008), BGH, Urteil vom 20.05.2008 – X ZR 180/05
 
-*Tags: Rechtsprechung, Umkehr, BGH, Erschöpfung, Parallelimport*
+*Tags: Rechtsprechung, Umkehr, BGH, Aktivlegitimation, Lizenz, Schadensersatz*
 
 ---
 
@@ -18606,9 +18982,9 @@ Die Prüfung der Patentfähigkeit im Nichtigkeitsverfahren setzt regelmäßig ei
 
 **F:** BGH „Walzstraße“ (X ZR 21/12, 2013) – Kernaussage?
 
-**A:** Lässt das Patentgericht im Hinweis nach [§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html) erkennen, dass es einen Angriff des Nichtigkeitsklägers für unbegründet hält, muss der Kläger neue Angriffsmittel innerhalb der gesetzten Frist vorbringen; in der Berufung sind sie nach [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html) ausgeschlossen, wenn die Verspätung auf Nachlässigkeit beruht.
+**A:** Lässt das Patentgericht im Hinweis nach [§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html) erkennen, dass es die Argumentation des Nichtigkeitsklägers in einem Punkt für zutreffend hält, hat der Kläger in der Regel keine Veranlassung, dazu in erster Instanz weitere Angriffsmittel vorzutragen; sie sind in der Berufung nicht wegen Nachlässigkeit ausgeschlossen. Die erstmals in der Berufung verteidigte geänderte Fassung ist nach [§ 116 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__116.html) in der Regel zulässig, wenn der Beklagte damit einer abweichenden Rechtsauffassung des BGH Rechnung trägt und das Patent auf das beschränkt, was nach Auffassung des Patentgerichts schon aus der erteilten Fassung folgte.
 
-Normen: [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html), [§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html)
+Normen: [§ 116 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__116.html), [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html), [§ 83 PatG](https://www.gesetze-im-internet.de/patg/__83.html)
 Fundstelle: BGH, Urteil vom 28.05.2013 – X ZR 21/12
 
 *Tags: Rechtsprechung, BGH, Nichtigkeit, Präklusion*
@@ -18619,7 +18995,7 @@ Fundstelle: BGH, Urteil vom 28.05.2013 – X ZR 21/12
 
 **F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
 
-Lässt das Patentgericht im Hinweis nach [§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html) erkennen, dass es einen Angriff des Nichtigkeitsklägers für unbegründet hält, muss der Kläger neue Angriffsmittel innerhalb der gesetzten Frist vorbringen; in der Berufung sind sie nach [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html) ausgeschlossen, wenn die Verspätung auf Nachlässigkeit beruht.
+Lässt das Patentgericht im Hinweis nach [§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html) erkennen, dass es die Argumentation des Nichtigkeitsklägers in einem Punkt für zutreffend hält, hat der Kläger in der Regel keine Veranlassung, dazu in erster Instanz weitere Angriffsmittel vorzutragen; sie sind in der Berufung nicht wegen Nachlässigkeit ausgeschlossen. Die erstmals in der Berufung verteidigte geänderte Fassung ist nach [§ 116 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__116.html) in der Regel zulässig, wenn der Beklagte damit einer abweichenden Rechtsauffassung des BGH Rechnung trägt und das Patent auf das beschränkt, was nach Auffassung des Patentgerichts schon aus der erteilten Fassung folgte.
 
 **A:** BGH „Walzstraße“ – X ZR 21/12 (2013), BGH, Urteil vom 28.05.2013 – X ZR 21/12
 
@@ -19854,6 +20230,2431 @@ Eine Nachanmeldung betrifft nur dann dieselbe Erfindung wie die Voranmeldung, we
 
 ## entscheidung
 
+**F:** BGH „Entsperrbild“ (X ZR 110/13, 2015) – Kernaussage?
+
+**A:** Anweisungen, die die Vermittlung bestimmter Inhalte betreffen und auf die menschliche Vorstellung zielen, bleiben bei der erfinderischen Tätigkeit außer Betracht. Informationsbezogene Merkmale sind aber darauf zu untersuchen, ob die wiedergegebene Information zugleich ein technisches Lösungsmittel verkörpert (hier: optische Anzeige, dass der Entsperrbefehl erkannt und ausgeführt wird); dieses ist zu berücksichtigen.
+
+Normen: [§ 1 Abs. 3 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 25.08.2015 – X ZR 110/13
+
+*Tags: Rechtsprechung, BGH, Patentfähigkeit, Software*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Anweisungen, die die Vermittlung bestimmter Inhalte betreffen und auf die menschliche Vorstellung zielen, bleiben bei der erfinderischen Tätigkeit außer Betracht. Informationsbezogene Merkmale sind aber darauf zu untersuchen, ob die wiedergegebene Information zugleich ein technisches Lösungsmittel verkörpert (hier: optische Anzeige, dass der Entsperrbefehl erkannt und ausgeführt wird); dieses ist zu berücksichtigen.
+
+**A:** BGH „Entsperrbild“ – X ZR 110/13 (2015), BGH, Urteil vom 25.08.2015 – X ZR 110/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Patentfähigkeit, Software*
+
+---
+
+## entscheidung
+
+**F:** BGH „Oberflächendefekte“ (X ZR 99/23, 2025) – Kernaussage?
+
+**A:** Präsentationsfolien, die in einem frei zugänglichen Workshop gezeigt und den Teilnehmern ohne Geheimhaltungspflicht als Ausdruck überlassen wurden, gehören zum Stand der Technik. Ihr Offenbarungsgehalt ist unabhängig von einschränkenden mündlichen Erläuterungen des Referenten zu würdigen.
+
+Normen: [§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html)
+Fundstelle: BGH, Urteil vom 29.07.2025 – X ZR 99/23
+
+*Tags: Rechtsprechung, BGH, Neuheit, Stand der Technik*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Präsentationsfolien, die in einem frei zugänglichen Workshop gezeigt und den Teilnehmern ohne Geheimhaltungspflicht als Ausdruck überlassen wurden, gehören zum Stand der Technik. Ihr Offenbarungsgehalt ist unabhängig von einschränkenden mündlichen Erläuterungen des Referenten zu würdigen.
+
+**A:** BGH „Oberflächendefekte“ – X ZR 99/23 (2025), BGH, Urteil vom 29.07.2025 – X ZR 99/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Neuheit, Stand der Technik*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sorafenib-Tosylat“ (X ZR 83/21, 2023) – Kernaussage?
+
+**A:** Die Offenbarung von über 100 Wirkstoffen, die allein oder als Salz mit zahlreichen Salzbildnern zur Krebsbehandlung geeignet sein sollen, offenbart ein bestimmtes Salz eines einzelnen Wirkstoffs nicht unmittelbar und eindeutig. Das Tosylat war aber nahegelegt, weil eine Präformulierungsstudie mit Salzscreening wegen der schlechten Löslichkeit auf der Hand lag. Die Darlegungs- und Beweislast für die Voraussetzungen einer wirksamen Prioritätsinanspruchnahme liegt im Nichtigkeitsverfahren beim Kläger.
+
+Normen: [§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 28.11.2023 – X ZR 83/21
+
+*Tags: Rechtsprechung, BGH, Neuheit, Chemie*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Offenbarung von über 100 Wirkstoffen, die allein oder als Salz mit zahlreichen Salzbildnern zur Krebsbehandlung geeignet sein sollen, offenbart ein bestimmtes Salz eines einzelnen Wirkstoffs nicht unmittelbar und eindeutig. Das Tosylat war aber nahegelegt, weil eine Präformulierungsstudie mit Salzscreening wegen der schlechten Löslichkeit auf der Hand lag. Die Darlegungs- und Beweislast für die Voraussetzungen einer wirksamen Prioritätsinanspruchnahme liegt im Nichtigkeitsverfahren beim Kläger.
+
+**A:** BGH „Sorafenib-Tosylat“ – X ZR 83/21 (2023), BGH, Urteil vom 28.11.2023 – X ZR 83/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Neuheit, Chemie*
+
+---
+
+## entscheidung
+
+**F:** BGH „Aufbaupfosten“ (X ZR 8/22, 2024) – Kernaussage?
+
+**A:** Anders als bei der unzulässigen Erweiterung kommt es für die Neuheit nicht darauf an, ob ein Gegenstand in der Entgegenhaltung als zur Erfindung gehörend offenbart ist; es genügt, dass er dort unmittelbar und eindeutig offenbart ist.
+
+Normen: [§ 3 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__3.html)
+Fundstelle: BGH, Urteil vom 06.02.2024 – X ZR 8/22
+
+*Tags: Rechtsprechung, BGH, Neuheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Anders als bei der unzulässigen Erweiterung kommt es für die Neuheit nicht darauf an, ob ein Gegenstand in der Entgegenhaltung als zur Erfindung gehörend offenbart ist; es genügt, dass er dort unmittelbar und eindeutig offenbart ist.
+
+**A:** BGH „Aufbaupfosten“ – X ZR 8/22 (2024), BGH, Urteil vom 06.02.2024 – X ZR 8/22
+
+*Tags: Rechtsprechung, Umkehr, BGH, Neuheit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fructoseintoleranz“ (X ZB 3/25, 2026) – Kernaussage?
+
+**A:** Im Einspruchs- oder Nichtigkeitsverfahren darf die Ausführbarkeit nicht allein mangels Beweismitteln verneint werden. Beansprucht das Patent zweckgebundenen Stoffschutz ([§ 3 Abs. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html)), muss sich aus der Anmeldung aber zumindest eine hinreichende Erwartung ergeben, dass der Stoff die beanspruchte Eignung hat; rein theoretische Schlussfolgerungen ohne tatsächliche Anhaltspunkte genügen nicht.
+
+Normen: [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 3 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html)
+Fundstelle: BGH, Beschluss vom 25.02.2026 – X ZB 3/25
+
+*Tags: Rechtsprechung, BGH, Medizin, Ausführbarkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Im Einspruchs- oder Nichtigkeitsverfahren darf die Ausführbarkeit nicht allein mangels Beweismitteln verneint werden. Beansprucht das Patent zweckgebundenen Stoffschutz ([§ 3 Abs. 3, 4 PatG](https://www.gesetze-im-internet.de/patg/__3.html)), muss sich aus der Anmeldung aber zumindest eine hinreichende Erwartung ergeben, dass der Stoff die beanspruchte Eignung hat; rein theoretische Schlussfolgerungen ohne tatsächliche Anhaltspunkte genügen nicht.
+
+**A:** BGH „Fructoseintoleranz“ – X ZB 3/25 (2026), BGH, Beschluss vom 25.02.2026 – X ZB 3/25
+
+*Tags: Rechtsprechung, Umkehr, BGH, Medizin, Ausführbarkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fingerelement“ (X ZR 72/23, 2025) – Kernaussage?
+
+**A:** Ist ein Funktionsprinzip seit vielen Jahrzehnten bekannt, bedarf es in der Regel einer zusätzlichen Anregung, um es erstmals bei Vorrichtungen einzusetzen, deren Zweck, Aufbau und Funktionsweise ebenfalls seit Jahrzehnten bekannt sind (hier: axial bewegliche Lagerung einer Gewindeschnecke aus einer Patentschrift von 1936 in einer Fingerprothese).
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 22.07.2025 – X ZR 72/23
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ist ein Funktionsprinzip seit vielen Jahrzehnten bekannt, bedarf es in der Regel einer zusätzlichen Anregung, um es erstmals bei Vorrichtungen einzusetzen, deren Zweck, Aufbau und Funktionsweise ebenfalls seit Jahrzehnten bekannt sind (hier: axial bewegliche Lagerung einer Gewindeschnecke aus einer Patentschrift von 1936 in einer Fingerprothese).
+
+**A:** BGH „Fingerelement“ – X ZR 72/23 (2025), BGH, Urteil vom 22.07.2025 – X ZR 72/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Mirabegron“ (X ZR 92/23, 2024) – Kernaussage?
+
+**A:** Das technische Problem ist so allgemein und neutral zu formulieren, dass sich die Frage nach Anregungen im Stand der Technik erst bei der erfinderischen Tätigkeit stellt; Elemente der Lösung dürfen nicht einfließen. Es darf nicht unterstellt werden, dass die Befassung mit einer bestimmten Aufgabe (hier: neue Indikation für einen bekannten Wirkstoff) nahelag.
+
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Urteil vom 25.06.2024 – X ZR 92/23
+
+*Tags: Rechtsprechung, BGH, Erfinderische Tätigkeit, Medizin*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das technische Problem ist so allgemein und neutral zu formulieren, dass sich die Frage nach Anregungen im Stand der Technik erst bei der erfinderischen Tätigkeit stellt; Elemente der Lösung dürfen nicht einfließen. Es darf nicht unterstellt werden, dass die Befassung mit einer bestimmten Aufgabe (hier: neue Indikation für einen bekannten Wirkstoff) nahelag.
+
+**A:** BGH „Mirabegron“ – X ZR 92/23 (2024), BGH, Urteil vom 25.06.2024 – X ZR 92/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erfinderische Tätigkeit, Medizin*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gepulste Laserstrahlung“ (X ZR 143/23, 2025) – Kernaussage?
+
+**A:** Eine Verallgemeinerung ist unzulässig, wenn den ursprünglich eingereichten Unterlagen (bei einer Teilanmeldung: der Stammanmeldung) zu entnehmen ist, dass einzelne Merkmale in untrennbarem Zusammenhang stehen, der Anspruch sie aber nicht in ihrer Gesamtheit vorsieht. Zulässig ist es dagegen, von mehreren je für sich förderlichen Merkmalen eines Ausführungsbeispiels nur einzelne aufzunehmen.
+
+Normen: [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html)
+Fundstelle: BGH, Urteil vom 13.11.2025 – X ZR 143/23
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine Verallgemeinerung ist unzulässig, wenn den ursprünglich eingereichten Unterlagen (bei einer Teilanmeldung: der Stammanmeldung) zu entnehmen ist, dass einzelne Merkmale in untrennbarem Zusammenhang stehen, der Anspruch sie aber nicht in ihrer Gesamtheit vorsieht. Zulässig ist es dagegen, von mehreren je für sich förderlichen Merkmalen eines Ausführungsbeispiels nur einzelne aufzunehmen.
+
+**A:** BGH „Gepulste Laserstrahlung“ – X ZR 143/23 (2025), BGH, Urteil vom 13.11.2025 – X ZR 143/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Procalcitonin-Schwellenwert“ (X ZR 109/19, 2021) – Kernaussage?
+
+**A:** Nennt die Anmeldung für ein Diagnoseverfahren mit einem Marker als bevorzugt Schwellenwerte aus einem bestimmten Bereich, trägt sie kein Patent, das einen deutlich weiteren Bereich beansprucht, wenn sie keine Hinweise enthält, welche weiteren Wertebereiche ebenfalls vorteilhaft in Betracht kommen.
+
+Normen: [§ 21 Abs. 1 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 22 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__22.html)
+Fundstelle: BGH, Urteil vom 14.12.2021 – X ZR 109/19
+
+*Tags: Rechtsprechung, BGH, Unzulässige Erweiterung, Medizin*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Nennt die Anmeldung für ein Diagnoseverfahren mit einem Marker als bevorzugt Schwellenwerte aus einem bestimmten Bereich, trägt sie kein Patent, das einen deutlich weiteren Bereich beansprucht, wenn sie keine Hinweise enthält, welche weiteren Wertebereiche ebenfalls vorteilhaft in Betracht kommen.
+
+**A:** BGH „Procalcitonin-Schwellenwert“ – X ZR 109/19 (2021), BGH, Urteil vom 14.12.2021 – X ZR 109/19
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unzulässige Erweiterung, Medizin*
+
+---
+
+## entscheidung
+
+**F:** BGH „Borrelioseassay“ (X ZR 11/15, 2017) – Kernaussage?
+
+**A:** Ein In-vitro-Testverfahren mit einem durch seine Sequenz definierten Polypeptid oder mit nicht näher bestimmten Segmenten davon ist insgesamt ausführbar offenbart, wenn es mit dem Polypeptid voller Länge mit praktisch brauchbarem Ergebnis ausgeführt werden kann, auch wenn besser geeignete Segmente nur mit erfinderischem Bemühen auffindbar sind.
+
+Normen: [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+Fundstelle: BGH, Urteil vom 17.01.2017 – X ZR 11/15
+
+*Tags: Rechtsprechung, BGH, Ausführbarkeit, Biotechnologie*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein In-vitro-Testverfahren mit einem durch seine Sequenz definierten Polypeptid oder mit nicht näher bestimmten Segmenten davon ist insgesamt ausführbar offenbart, wenn es mit dem Polypeptid voller Länge mit praktisch brauchbarem Ergebnis ausgeführt werden kann, auch wenn besser geeignete Segmente nur mit erfinderischem Bemühen auffindbar sind.
+
+**A:** BGH „Borrelioseassay“ – X ZR 11/15 (2017), BGH, Urteil vom 17.01.2017 – X ZR 11/15
+
+*Tags: Rechtsprechung, Umkehr, BGH, Ausführbarkeit, Biotechnologie*
+
+---
+
+## entscheidung
+
+**F:** BGH „Dipeptidyl-Peptidase-Inhibitoren“ (X ZB 8/12, 2013) – Kernaussage?
+
+**A:** Der Anmelder darf über die Ausführungsbeispiele hinaus verallgemeinern, um die Erfindung in vollem Umfang zu erfassen. Ausführbar offenbart ist ein verallgemeinerter Anspruch, wenn er nicht über das hinausgeht, was dem Fachmann als allgemeinste Form der Lehre erscheint, die das Problem löst. Eine funktionelle Umschreibung von Stoffen im Verwendungsanspruch ist zulässig, auch wenn sie künftig bereitgestellte Stoffe erfasst.
+
+Normen: [§ 21 Abs. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 34 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+Fundstelle: BGH, Beschluss vom 11.09.2013 – X ZB 8/12
+
+*Tags: Rechtsprechung, BGH, Ausführbarkeit, Medizin*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Anmelder darf über die Ausführungsbeispiele hinaus verallgemeinern, um die Erfindung in vollem Umfang zu erfassen. Ausführbar offenbart ist ein verallgemeinerter Anspruch, wenn er nicht über das hinausgeht, was dem Fachmann als allgemeinste Form der Lehre erscheint, die das Problem löst. Eine funktionelle Umschreibung von Stoffen im Verwendungsanspruch ist zulässig, auch wenn sie künftig bereitgestellte Stoffe erfasst.
+
+**A:** BGH „Dipeptidyl-Peptidase-Inhibitoren“ – X ZB 8/12 (2013), BGH, Beschluss vom 11.09.2013 – X ZB 8/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Ausführbarkeit, Medizin*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Fördermittelantrieb“ (19 W (pat) 66/04, 2007) – Kernaussage?
+
+**A:** Eine einzige allgemeine erfinderische Idee ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)) fehlt jedenfalls, wenn für das mit jeder Erfindung objektiv Erreichte kein technischer Zusammenhang ersichtlich ist. Erkennt die Prüfungsstelle die Uneinheitlichkeit schon aus den Unterlagen, bedarf es keiner Recherche zu allen Erfindungen.
+
+Normen: [§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)
+Fundstelle: BPatG, Beschluss vom 13.08.2007 – 19 W (pat) 66/04
+
+*Tags: Rechtsprechung, BPatG, Einheitlichkeit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Eine einzige allgemeine erfinderische Idee ([§ 34 Abs. 5 PatG](https://www.gesetze-im-internet.de/patg/__34.html)) fehlt jedenfalls, wenn für das mit jeder Erfindung objektiv Erreichte kein technischer Zusammenhang ersichtlich ist. Erkennt die Prüfungsstelle die Uneinheitlichkeit schon aus den Unterlagen, bedarf es keiner Recherche zu allen Erfindungen.
+
+**A:** BPatG „Fördermittelantrieb“ – 19 W (pat) 66/04 (2007), BPatG, Beschluss vom 13.08.2007 – 19 W (pat) 66/04
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Einheitlichkeit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Automatisches Fahrzeuggetriebe“ (X ZB 4/02, 2003) – Kernaussage?
+
+**A:** Ein Einspruch gegen ein Patent mit mehreren Nebenansprüchen ist auch dann zulässig, wenn der Einsprechende nur die Patentfähigkeit eines Nebenanspruchs angreift; Widerrufsgründe gegen sämtliche Nebenansprüche muss er nicht vortragen.
+
+Normen: [§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html)
+Fundstelle: BGH, Beschluss vom 13.03.2003 – X ZB 4/02
+
+*Tags: Rechtsprechung, BGH, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Einspruch gegen ein Patent mit mehreren Nebenansprüchen ist auch dann zulässig, wenn der Einsprechende nur die Patentfähigkeit eines Nebenanspruchs angreift; Widerrufsgründe gegen sämtliche Nebenansprüche muss er nicht vortragen.
+
+**A:** BGH „Automatisches Fahrzeuggetriebe“ – X ZB 4/02 (2003), BGH, Beschluss vom 13.03.2003 – X ZB 4/02
+
+*Tags: Rechtsprechung, Umkehr, BGH, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kornfeinung“ (X ZB 18/06, 2007) – Kernaussage?
+
+**A:** Für den Einspruch gegen ein deutsches Patent bedarf es keines besonderen Rechtsschutzbedürfnisses, auch wenn das Patent wegen des Doppelschutzverbots nach bestandskräftiger Erteilung eines europäischen Patents keine Wirkung mehr hat.
+
+Normen: [Art. II § 8 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__8.html), [§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html)
+Fundstelle: BGH, Beschluss vom 30.10.2007 – X ZB 18/06
+
+*Tags: Rechtsprechung, BGH, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Für den Einspruch gegen ein deutsches Patent bedarf es keines besonderen Rechtsschutzbedürfnisses, auch wenn das Patent wegen des Doppelschutzverbots nach bestandskräftiger Erteilung eines europäischen Patents keine Wirkung mehr hat.
+
+**A:** BGH „Kornfeinung“ – X ZB 18/06 (2007), BGH, Beschluss vom 30.10.2007 – X ZB 18/06
+
+*Tags: Rechtsprechung, Umkehr, BGH, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Gabelschlüssel“ (11 W (pat) 28/13, 2016) – Kernaussage?
+
+**A:** Reichen die innerhalb der Einspruchsfrist gemachten Angaben nicht aus, um die Identität des Einsprechenden zweifelsfrei festzustellen, ist der Einspruch unzulässig; ein häufiger Name mit einer Millionenstadt ohne Anschrift genügt nicht.
+
+Normen: [§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html)
+Fundstelle: BPatG, Beschluss vom 11.08.2016 – 11 W (pat) 28/13
+
+*Tags: Rechtsprechung, BPatG, Einspruch*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Reichen die innerhalb der Einspruchsfrist gemachten Angaben nicht aus, um die Identität des Einsprechenden zweifelsfrei festzustellen, ist der Einspruch unzulässig; ein häufiger Name mit einer Millionenstadt ohne Anschrift genügt nicht.
+
+**A:** BPatG „Gabelschlüssel“ – 11 W (pat) 28/13 (2016), BPatG, Beschluss vom 11.08.2016 – 11 W (pat) 28/13
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Einspruch*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Fondue-Einrichtung“ (11 W (pat) 5/13, 2013) – Kernaussage?
+
+**A:** Ein auf widerrechtliche Entnahme gestützter Einspruch ist mangels Einspruchsberechtigung unzulässig, wenn Einsprechender und Patentinhaber Mitberechtigte an der Erfindung sind, etwa aus einer GbR, die sie für die gemeinsame Entwicklung gebildet haben; wer Erfinder ist, bleibt dann offen.
+
+Normen: [§ 21 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html)
+Fundstelle: BPatG, Beschluss vom 12.12.2013 – 11 W (pat) 5/13
+
+*Tags: Rechtsprechung, BPatG, Einspruch, Widerrechtliche Entnahme*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ein auf widerrechtliche Entnahme gestützter Einspruch ist mangels Einspruchsberechtigung unzulässig, wenn Einsprechender und Patentinhaber Mitberechtigte an der Erfindung sind, etwa aus einer GbR, die sie für die gemeinsame Entwicklung gebildet haben; wer Erfinder ist, bleibt dann offen.
+
+**A:** BPatG „Fondue-Einrichtung“ – 11 W (pat) 5/13 (2013), BPatG, Beschluss vom 12.12.2013 – 11 W (pat) 5/13
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Einspruch, Widerrechtliche Entnahme*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schweißheizung“ (X ZB 43/08, 2011) – Kernaussage?
+
+**A:** Das Patent ist wegen widerrechtlicher Entnahme auch dann zu widerrufen, wenn sein Gegenstand nicht patentfähig ist. Formlose Anhörungen Beteiligter sind in der Niederschrift zu vermerken; ein am Verfahren nicht beteiligter Miterfinder ist als Zeuge zu vernehmen.
+
+Normen: [§ 21 Abs. 1 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__21.html), [§ 46 PatG](https://www.gesetze-im-internet.de/patg/__46.html), [§ 59 PatG](https://www.gesetze-im-internet.de/patg/__59.html)
+Fundstelle: BGH, Beschluss vom 22.02.2011 – X ZB 43/08
+
+*Tags: Rechtsprechung, BGH, Einspruch, Widerrechtliche Entnahme*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das Patent ist wegen widerrechtlicher Entnahme auch dann zu widerrufen, wenn sein Gegenstand nicht patentfähig ist. Formlose Anhörungen Beteiligter sind in der Niederschrift zu vermerken; ein am Verfahren nicht beteiligter Miterfinder ist als Zeuge zu vernehmen.
+
+**A:** BGH „Schweißheizung“ – X ZB 43/08 (2011), BGH, Beschluss vom 22.02.2011 – X ZB 43/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Einspruch, Widerrechtliche Entnahme*
+
+---
+
+## entscheidung
+
+**F:** BGH „Verspätete Zahlung der Einspruchsgebühr“ (X ZB 2/04, 2004) – Kernaussage?
+
+**A:** Der Einspruch ist eine sonstige Handlung im Sinne von [§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html); wird die Einspruchsgebühr nicht fristgerecht gezahlt, gilt der Einspruch als nicht erhoben. Eine Wiedereinsetzung in die Zahlungsfrist ist ausgeschlossen.
+
+Normen: [§ 123 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__123.html), [§ 59 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__59.html), [§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html)
+Fundstelle: BGH, Beschluss vom 11.10.2004 – X ZB 2/04
+
+*Tags: Rechtsprechung, BGH, Einspruch, Wiedereinsetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Einspruch ist eine sonstige Handlung im Sinne von [§ 6 PatKostG](https://www.gesetze-im-internet.de/patkostg/__6.html); wird die Einspruchsgebühr nicht fristgerecht gezahlt, gilt der Einspruch als nicht erhoben. Eine Wiedereinsetzung in die Zahlungsfrist ist ausgeschlossen.
+
+**A:** BGH „Verspätete Zahlung der Einspruchsgebühr“ – X ZB 2/04 (2004), BGH, Beschluss vom 11.10.2004 – X ZB 2/04
+
+*Tags: Rechtsprechung, Umkehr, BGH, Einspruch, Wiedereinsetzung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Formularmäßige Mitteilung II“ (10 W (pat) 25/12, 2013) – Kernaussage?
+
+**A:** Ob ein mit der Beschwerde anfechtbarer Beschluss vorliegt, richtet sich nach dem materiellen Gehalt, nicht nach der Form. Eine im Rahmen der elektronischen Aktenführung erstellte Mitteilung hat die Qualität eines Beschlusses nur, wenn sie die elektronische Signatur des Entscheidungsträgers trägt; sonst ist die Beschwerde nicht statthaft.
+
+Normen: [§ 73 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__73.html)
+Fundstelle: BPatG, Beschluss vom 26.08.2013 – 10 W (pat) 25/12
+
+*Tags: Rechtsprechung, BPatG, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ob ein mit der Beschwerde anfechtbarer Beschluss vorliegt, richtet sich nach dem materiellen Gehalt, nicht nach der Form. Eine im Rahmen der elektronischen Aktenführung erstellte Mitteilung hat die Qualität eines Beschlusses nur, wenn sie die elektronische Signatur des Entscheidungsträgers trägt; sonst ist die Beschwerde nicht statthaft.
+
+**A:** BPatG „Formularmäßige Mitteilung II“ – 10 W (pat) 25/12 (2013), BPatG, Beschluss vom 26.08.2013 – 10 W (pat) 25/12
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Dünnwandige Domsegmente“ (11 W (pat) 34/24, 2025) – Kernaussage?
+
+**A:** Die Beschwerde im Erteilungsbeschwerdeverfahren setzt voraus, dass die Anmeldung noch anhängig ist. Ist sie vor oder nach Einlegung der Beschwerde weggefallen (hier: Rücknahmefiktion wegen nicht gezahlter Jahresgebühr), ist die Beschwerde mangels Beschwer nach [§ 79 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__79.html) als unzulässig zu verwerfen.
+
+Normen: [§ 73 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__73.html), [§ 79 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__79.html)
+Fundstelle: BPatG, Beschluss vom 13.01.2025 – 11 W (pat) 34/24
+
+*Tags: Rechtsprechung, BPatG, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Die Beschwerde im Erteilungsbeschwerdeverfahren setzt voraus, dass die Anmeldung noch anhängig ist. Ist sie vor oder nach Einlegung der Beschwerde weggefallen (hier: Rücknahmefiktion wegen nicht gezahlter Jahresgebühr), ist die Beschwerde mangels Beschwer nach [§ 79 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__79.html) als unzulässig zu verwerfen.
+
+**A:** BPatG „Dünnwandige Domsegmente“ – 11 W (pat) 34/24 (2025), BPatG, Beschluss vom 13.01.2025 – 11 W (pat) 34/24
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Elektronisches Steuergerät“ (20 W (pat) 8/14, 2014) – Kernaussage?
+
+**A:** Die bloße Annahme der Prüfungsstelle, der Anspruch sei nach [§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html) unklar, genügt der Begründungspflicht des [§ 47 Abs. 1 S. 1 PatG](https://www.gesetze-im-internet.de/patg/__47.html) nicht. Der Begründungsmangel ist ein wesentlicher Verfahrensmangel, der die Zurückverweisung nach [§ 79 Abs. 3 S. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__79.html) und die Rückzahlung der Beschwerdegebühr rechtfertigt.
+
+Normen: [§ 47 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__47.html), [§ 79 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__79.html), [§ 80 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__80.html)
+Fundstelle: BPatG, Beschluss vom 07.04.2014 – 20 W (pat) 8/14
+
+*Tags: Rechtsprechung, BPatG, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Die bloße Annahme der Prüfungsstelle, der Anspruch sei nach [§ 34 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__34.html) unklar, genügt der Begründungspflicht des [§ 47 Abs. 1 S. 1 PatG](https://www.gesetze-im-internet.de/patg/__47.html) nicht. Der Begründungsmangel ist ein wesentlicher Verfahrensmangel, der die Zurückverweisung nach [§ 79 Abs. 3 S. 1 Nr. 2 PatG](https://www.gesetze-im-internet.de/patg/__79.html) und die Rückzahlung der Beschwerdegebühr rechtfertigt.
+
+**A:** BPatG „Elektronisches Steuergerät“ – 20 W (pat) 8/14 (2014), BPatG, Beschluss vom 07.04.2014 – 20 W (pat) 8/14
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gruppierungssystem“ (X ZB 1/18, 2021) – Kernaussage?
+
+**A:** Der Grundsatz, dass das Einspruchsverfahren nach Rücknahme des Einspruchs von Amts wegen fortgesetzt wird ([§ 61 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__61.html)), gilt auch für ein nachfolgendes, vom Patentinhaber eingeleitetes Beschwerde- oder Rechtsbeschwerdeverfahren. Der Einsprechende kann dem Rechtsbeschwerdeverfahren nicht dadurch die Grundlage entziehen, dass er seine Beschwerde zurücknimmt.
+
+Normen: [§ 100 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 61 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__61.html), [§ 73 PatG](https://www.gesetze-im-internet.de/patg/__73.html)
+Fundstelle: BGH, Beschluss vom 23.02.2021 – X ZB 1/18
+
+*Tags: Rechtsprechung, BGH, Einspruch, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Grundsatz, dass das Einspruchsverfahren nach Rücknahme des Einspruchs von Amts wegen fortgesetzt wird ([§ 61 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__61.html)), gilt auch für ein nachfolgendes, vom Patentinhaber eingeleitetes Beschwerde- oder Rechtsbeschwerdeverfahren. Der Einsprechende kann dem Rechtsbeschwerdeverfahren nicht dadurch die Grundlage entziehen, dass er seine Beschwerde zurücknimmt.
+
+**A:** BGH „Gruppierungssystem“ – X ZB 1/18 (2021), BGH, Beschluss vom 23.02.2021 – X ZB 1/18
+
+*Tags: Rechtsprechung, Umkehr, BGH, Einspruch, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** BGH „Aufzeichnungsträger“ (X ZR 188/01, 2005) – Kernaussage?
+
+**A:** Ist die Schutzdauer des Streitpatents abgelaufen, ist die Nichtigkeitsklage nur zulässig, soweit der Kläger ein Rechtsschutzbedürfnis an der Nichtigerklärung hat; das ist für nebengeordnete Ansprüche jeweils gesondert zu prüfen. Die Wiedergabe von Informationen schließt Patentschutz nicht aus, wenn die Lehre ein konkretes technisches Problem mit technischen Mitteln löst.
+
+Normen: [§ 1 Abs. 3 Nr. 4 PatG](https://www.gesetze-im-internet.de/patg/__1.html), [§ 22 PatG](https://www.gesetze-im-internet.de/patg/__22.html), [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html)
+Fundstelle: BGH, Urteil vom 19.05.2005 – X ZR 188/01
+
+*Tags: Rechtsprechung, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ist die Schutzdauer des Streitpatents abgelaufen, ist die Nichtigkeitsklage nur zulässig, soweit der Kläger ein Rechtsschutzbedürfnis an der Nichtigerklärung hat; das ist für nebengeordnete Ansprüche jeweils gesondert zu prüfen. Die Wiedergabe von Informationen schließt Patentschutz nicht aus, wenn die Lehre ein konkretes technisches Problem mit technischen Mitteln löst.
+
+**A:** BGH „Aufzeichnungsträger“ – X ZR 188/01 (2005), BGH, Urteil vom 19.05.2005 – X ZR 188/01
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Rechtsschutzbedürfnis bei Schweigen des Patentinhabers“ (2 Ni 18/16 (EP), 2018) – Kernaussage?
+
+**A:** Das Rechtsschutzbedürfnis des Nichtigkeitsklägers nach Ablauf der Schutzdauer besteht fort, solange der Patentinhaber auf die Aufforderung, zu erklären, ob er für die Vergangenheit noch Rechte aus dem Patent gegen den Kläger geltend machen will, schweigt.
+
+Normen: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html), [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
+Fundstelle: BPatG, Beschluss vom 20.02.2018 – 2 Ni 18/16 (EP) – Rechtsschutzbedürfnis bei Schweigen des Patentinhabers über Geltendmachung von Rechten aus dem Streitpatent
+
+*Tags: Rechtsprechung, BPatG, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Das Rechtsschutzbedürfnis des Nichtigkeitsklägers nach Ablauf der Schutzdauer besteht fort, solange der Patentinhaber auf die Aufforderung, zu erklären, ob er für die Vergangenheit noch Rechte aus dem Patent gegen den Kläger geltend machen will, schweigt.
+
+**A:** BPatG „Rechtsschutzbedürfnis bei Schweigen des Patentinhabers“ – 2 Ni 18/16 (EP) (2018), BPatG, Beschluss vom 20.02.2018 – 2 Ni 18/16 (EP) – Rechtsschutzbedürfnis bei Schweigen des Patentinhabers über Geltendmachung von Rechten aus dem Streitpatent
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kabelwickelband“ (X ZR 1/23, 2025) – Kernaussage?
+
+**A:** Hat das Patentgericht im Hinweis nach [§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html) dargelegt, dass das Klagevorbringen unzureichend sein könnte, muss der Kläger neue Angriffsmittel schon in erster Instanz vortragen. Dass das Patentgericht auch diese für unzureichend hält, rechtfertigt nicht die Zulassung weiterer Angriffsmittel in der Berufung; das gilt auch für Dokumente außerhalb gängiger Recherchedatenbanken.
+
+Normen: [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html), [§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html)
+Fundstelle: BGH, Urteil vom 14.01.2025 – X ZR 1/23
+
+*Tags: Rechtsprechung, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Hat das Patentgericht im Hinweis nach [§ 83 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__83.html) dargelegt, dass das Klagevorbringen unzureichend sein könnte, muss der Kläger neue Angriffsmittel schon in erster Instanz vortragen. Dass das Patentgericht auch diese für unzureichend hält, rechtfertigt nicht die Zulassung weiterer Angriffsmittel in der Berufung; das gilt auch für Dokumente außerhalb gängiger Recherchedatenbanken.
+
+**A:** BGH „Kabelwickelband“ – X ZR 1/23 (2025), BGH, Urteil vom 14.01.2025 – X ZR 1/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung
+
+**F:** BGH „Photokatalytische Titandioxidschicht“ (X ZR 81/14, 2016) – Kernaussage?
+
+**A:** Verteidigt der Beklagte erst in der mündlichen Verhandlung eine neue Fassung mit weiteren Merkmalen aus einem Unteranspruch, darf ein dort vorgebrachtes neues Angriffsmittel des Klägers jedenfalls dann nicht nach [§ 83 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__83.html) als verspätet zurückgewiesen werden, wenn schon der qualifizierte Hinweis dem Beklagten Anlass gab, diese Fassung innerhalb der Frist zu formulieren.
+
+Normen: [§ 83 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__83.html)
+Fundstelle: BGH, Beschluss vom 23.08.2016 – X ZR 81/14
+
+*Tags: Rechtsprechung, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Verteidigt der Beklagte erst in der mündlichen Verhandlung eine neue Fassung mit weiteren Merkmalen aus einem Unteranspruch, darf ein dort vorgebrachtes neues Angriffsmittel des Klägers jedenfalls dann nicht nach [§ 83 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__83.html) als verspätet zurückgewiesen werden, wenn schon der qualifizierte Hinweis dem Beklagten Anlass gab, diese Fassung innerhalb der Frist zu formulieren.
+
+**A:** BGH „Photokatalytische Titandioxidschicht“ – X ZR 81/14 (2016), BGH, Beschluss vom 23.08.2016 – X ZR 81/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung
+
+**F:** BGH „Einspritzventil“ (X ZR 51/13, 2015) – Kernaussage?
+
+**A:** Angriffs- und Verteidigungsmittel, die das Patentgericht nicht nach [§ 83 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__83.html) zurückgewiesen hat, können auch im Berufungsverfahren nicht zurückgewiesen werden. Ein erst nach dem Hinweis geltend gemachter, vom Patentgericht sachlich beschiedener Nichtigkeitsgrund fällt ohne weiteres im Berufungsverfahren an.
+
+Normen: [§ 117 PatG](https://www.gesetze-im-internet.de/patg/__117.html), [§ 83 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__83.html)
+Fundstelle: BGH, Urteil vom 09.06.2015 – X ZR 51/13
+
+*Tags: Rechtsprechung, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Angriffs- und Verteidigungsmittel, die das Patentgericht nicht nach [§ 83 Abs. 4 PatG](https://www.gesetze-im-internet.de/patg/__83.html) zurückgewiesen hat, können auch im Berufungsverfahren nicht zurückgewiesen werden. Ein erst nach dem Hinweis geltend gemachter, vom Patentgericht sachlich beschiedener Nichtigkeitsgrund fällt ohne weiteres im Berufungsverfahren an.
+
+**A:** BGH „Einspritzventil“ – X ZR 51/13 (2015), BGH, Urteil vom 09.06.2015 – X ZR 51/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung
+
+**F:** BGH „Doppelvertretung im Nichtigkeitsverfahren“ (X ZB 11/12, 2012) – Kernaussage?
+
+**A:** Die Zuziehung eines Rechtsanwalts neben einem Patentanwalt im Nichtigkeitsverfahren ist typischerweise notwendig im Sinne von [§ 91 Abs. 1 S. 1 ZPO](https://www.gesetze-im-internet.de/zpo/__91.html) (in Verbindung mit [§ 84 Abs. 2 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)), wenn zeitgleich ein Verletzungsrechtsstreit über das Streitpatent anhängig ist, an dem die Partei oder ein mit ihr wirtschaftlich verbundener Dritter beteiligt ist. [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html) gilt im Nichtigkeitsverfahren nicht entsprechend.
+
+Normen: [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
+Fundstelle: BGH, Beschluss vom 18.12.2012 – X ZB 11/12
+
+*Tags: Rechtsprechung, BGH, Nichtigkeitsverfahren, Kosten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Zuziehung eines Rechtsanwalts neben einem Patentanwalt im Nichtigkeitsverfahren ist typischerweise notwendig im Sinne von [§ 91 Abs. 1 S. 1 ZPO](https://www.gesetze-im-internet.de/zpo/__91.html) (in Verbindung mit [§ 84 Abs. 2 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)), wenn zeitgleich ein Verletzungsrechtsstreit über das Streitpatent anhängig ist, an dem die Partei oder ein mit ihr wirtschaftlich verbundener Dritter beteiligt ist. [§ 143 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__143.html) gilt im Nichtigkeitsverfahren nicht entsprechend.
+
+**A:** BGH „Doppelvertretung im Nichtigkeitsverfahren“ – X ZB 11/12 (2012), BGH, Beschluss vom 18.12.2012 – X ZB 11/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeitsverfahren, Kosten*
+
+---
+
+## entscheidung
+
+**F:** BGH „Doppelvertretung im Patentnichtigkeitsverfahren II“ (X ZB 7/21, 2023) – Kernaussage?
+
+**A:** Die bloße Ankündigung einer Inanspruchnahme aus dem angegriffenen Patent, eine Schutzschrift des Nichtigkeitsklägers oder eine Strafanzeige wegen Patentverletzung genügen bei typisierender Betrachtung nicht, um eine Doppelvertretung durch Patent- und Rechtsanwalt im Nichtigkeitsverfahren als notwendig anzusehen.
+
+Normen: [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
+Fundstelle: BGH, Beschluss vom 07.11.2023 – X ZB 7/21
+
+*Tags: Rechtsprechung, BGH, Nichtigkeitsverfahren, Kosten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die bloße Ankündigung einer Inanspruchnahme aus dem angegriffenen Patent, eine Schutzschrift des Nichtigkeitsklägers oder eine Strafanzeige wegen Patentverletzung genügen bei typisierender Betrachtung nicht, um eine Doppelvertretung durch Patent- und Rechtsanwalt im Nichtigkeitsverfahren als notwendig anzusehen.
+
+**A:** BGH „Doppelvertretung im Patentnichtigkeitsverfahren II“ – X ZB 7/21 (2023), BGH, Beschluss vom 07.11.2023 – X ZB 7/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeitsverfahren, Kosten*
+
+---
+
+## entscheidung
+
+**F:** BGH „Werkstück“ (X ZB 3/10, 2011) – Kernaussage?
+
+**A:** Von einer in einem gerichtlichen Hinweis geäußerten Rechtsauffassung darf das Gericht in der Endentscheidung nur abweichen, wenn für die Beteiligten erkennbar wird, dass sich die Grundlage des Hinweises geändert hat oder das Gericht nun eine andere Beurteilung erwägt; sonst ist das rechtliche Gehör verletzt.
+
+Normen: [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 18 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__18.html)
+Fundstelle: BGH, Beschluss vom 16.06.2011 – X ZB 3/10
+
+*Tags: Rechtsprechung, BGH, Rechtsbeschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Von einer in einem gerichtlichen Hinweis geäußerten Rechtsauffassung darf das Gericht in der Endentscheidung nur abweichen, wenn für die Beteiligten erkennbar wird, dass sich die Grundlage des Hinweises geändert hat oder das Gericht nun eine andere Beurteilung erwägt; sonst ist das rechtliche Gehör verletzt.
+
+**A:** BGH „Werkstück“ – X ZB 3/10 (2011), BGH, Beschluss vom 16.06.2011 – X ZB 3/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Rechtsbeschwerde*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sorbitol“ (X ZB 6/11, 2012) – Kernaussage?
+
+**A:** Auch wenn die Verhandlung im Einspruchsverfahren auf einen Widerrufsgrund konzentriert war, weil das Patentgericht zunächst diesem zuneigte, darf der Patentinhaber nicht annehmen, allein dieser Grund sei entscheidungserheblich; ein Gehörsverstoß liegt dann nicht vor.
+
+Normen: [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html)
+Fundstelle: BGH, Beschluss vom 28.11.2012 – X ZB 6/11
+
+*Tags: Rechtsprechung, BGH, Rechtsbeschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Auch wenn die Verhandlung im Einspruchsverfahren auf einen Widerrufsgrund konzentriert war, weil das Patentgericht zunächst diesem zuneigte, darf der Patentinhaber nicht annehmen, allein dieser Grund sei entscheidungserheblich; ein Gehörsverstoß liegt dann nicht vor.
+
+**A:** BGH „Sorbitol“ – X ZB 6/11 (2012), BGH, Beschluss vom 28.11.2012 – X ZB 6/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Rechtsbeschwerde*
+
+---
+
+## entscheidung
+
+**F:** BGH „Steckverbindung“ (X ZB 10/11, 2012) – Kernaussage?
+
+**A:** Schematische Zeichnungen in Patentschriften offenbaren regelmäßig nur das Prinzip, nicht exakte Abmessungen. Das Gericht muss einen Beteiligten nicht eigens darauf hinweisen, dass es eine Zeichnung nur als schematische Darstellung ansieht.
+
+Normen: [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 3 PatG](https://www.gesetze-im-internet.de/patg/__3.html)
+Fundstelle: BGH, Beschluss vom 16.10.2012 – X ZB 10/11
+
+*Tags: Rechtsprechung, BGH, Rechtsbeschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Schematische Zeichnungen in Patentschriften offenbaren regelmäßig nur das Prinzip, nicht exakte Abmessungen. Das Gericht muss einen Beteiligten nicht eigens darauf hinweisen, dass es eine Zeichnung nur als schematische Darstellung ansieht.
+
+**A:** BGH „Steckverbindung“ – X ZB 10/11 (2012), BGH, Beschluss vom 16.10.2012 – X ZB 10/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Rechtsbeschwerde*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kommunikationsrouter“ (X ZB 19/12, 2014) – Kernaussage?
+
+**A:** Der Technische Beschwerdesenat verfügt grundsätzlich über die nötige technische Sachkunde; ein Gutachten kann im Einzelfall geboten sein. Eine Gehörsrüge wegen eines unterbliebenen Gutachtens hat nur Erfolg, wenn aufgezeigt wird, warum sich dem Gericht die Notwendigkeit eines Gutachtens hätte aufdrängen müssen.
+
+Normen: [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html)
+Fundstelle: BGH, Beschluss vom 26.08.2014 – X ZB 19/12
+
+*Tags: Rechtsprechung, BGH, Rechtsbeschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Technische Beschwerdesenat verfügt grundsätzlich über die nötige technische Sachkunde; ein Gutachten kann im Einzelfall geboten sein. Eine Gehörsrüge wegen eines unterbliebenen Gutachtens hat nur Erfolg, wenn aufgezeigt wird, warum sich dem Gericht die Notwendigkeit eines Gutachtens hätte aufdrängen müssen.
+
+**A:** BGH „Kommunikationsrouter“ – X ZB 19/12 (2014), BGH, Beschluss vom 26.08.2014 – X ZB 19/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Rechtsbeschwerde*
+
+---
+
+## entscheidung
+
+**F:** BGH „Feuchtigkeitsabsorptionsbehälter“ (X ZB 1/11, 2012) – Kernaussage?
+
+**A:** Die Rechtsbeschwerde kann beschränkt zugelassen werden; bei Gebrauchsmustern auch in Bezug auf einzelne Löschungsgründe.
+
+Normen: [§ 100 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 18 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__18.html)
+Fundstelle: BGH, Beschluss vom 17.07.2012 – X ZB 1/11
+
+*Tags: Rechtsprechung, BGH, Rechtsbeschwerde, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Rechtsbeschwerde kann beschränkt zugelassen werden; bei Gebrauchsmustern auch in Bezug auf einzelne Löschungsgründe.
+
+**A:** BGH „Feuchtigkeitsabsorptionsbehälter“ – X ZB 1/11 (2012), BGH, Beschluss vom 17.07.2012 – X ZB 1/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Rechtsbeschwerde, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Akteneinsicht XXIII“ (X ZR 110/17, 2018) – Kernaussage?
+
+**A:** Einsicht in die Akten eines Nichtigkeitsverfahrens erfordert regelmäßig kein eigenes Interesse des Antragstellers. Ein Widerspruch führt nur dann zur Darlegungslast des Antragstellers, wenn die widersprechende Partei ein eigenes entgegenstehendes Interesse aufzeigt. Das Interesse eines Privatgutachters, nicht namentlich bekannt zu werden, tritt in der Regel zurück.
+
+Normen: [§ 31 PatG](https://www.gesetze-im-internet.de/patg/__31.html), [§ 99 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__99.html)
+Fundstelle: BGH, Beschluss vom 14.02.2018 – X ZR 110/17
+
+*Tags: Rechtsprechung, BGH, Akteneinsicht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Einsicht in die Akten eines Nichtigkeitsverfahrens erfordert regelmäßig kein eigenes Interesse des Antragstellers. Ein Widerspruch führt nur dann zur Darlegungslast des Antragstellers, wenn die widersprechende Partei ein eigenes entgegenstehendes Interesse aufzeigt. Das Interesse eines Privatgutachters, nicht namentlich bekannt zu werden, tritt in der Regel zurück.
+
+**A:** BGH „Akteneinsicht XXIII“ – X ZR 110/17 (2018), BGH, Beschluss vom 14.02.2018 – X ZR 110/17
+
+*Tags: Rechtsprechung, Umkehr, BGH, Akteneinsicht*
+
+---
+
+## entscheidung
+
+**F:** BGH „Später Widerhall“ (X ZR 98/23, 2025) – Kernaussage?
+
+**A:** Ein Parteiwechsel und der Beitritt einer weiteren Klägerin können im Nichtigkeitsverfahren erklärt werden, solange der Rechtsstreit anhängig ist. Eine wirksame Beitrittserklärung verliert ihre Wirkung nicht dadurch, dass der erste Kläger die Klage zurücknimmt und diese Rücknahme dem Beklagten früher zugestellt wird.
+
+Normen: [§ 81 PatG](https://www.gesetze-im-internet.de/patg/__81.html), [§ 99 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__99.html)
+Fundstelle: BGH, Urteil vom 15.07.2025 – X ZR 98/23
+
+*Tags: Rechtsprechung, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Parteiwechsel und der Beitritt einer weiteren Klägerin können im Nichtigkeitsverfahren erklärt werden, solange der Rechtsstreit anhängig ist. Eine wirksame Beitrittserklärung verliert ihre Wirkung nicht dadurch, dass der erste Kläger die Klage zurücknimmt und diese Rücknahme dem Beklagten früher zugestellt wird.
+
+**A:** BGH „Später Widerhall“ – X ZR 98/23 (2025), BGH, Urteil vom 15.07.2025 – X ZR 98/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeitsverfahren*
+
+---
+
+## entscheidung
+
+**F:** BGH „Bergbaumaschine“ (X ZB 17/12, 2013) – Kernaussage?
+
+**A:** Ein Anwalt muss durch allgemeine Anweisungen sicherstellen, dass sein Büropersonal im Fristenkalender eingetragene Fristen nicht eigenmächtig ändert oder löscht, besonders bei ungewöhnlicher Verfahrensgestaltung; das gilt auch für Validierungsfristen. Die bloße Anweisung, erkennbare Probleme mit dem Anwalt zu klären, genügt nicht.
+
+Normen: [§ 123 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__123.html)
+Fundstelle: BGH, Beschluss vom 29.10.2013 – X ZB 17/12
+
+*Tags: Rechtsprechung, BGH, Wiedereinsetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Anwalt muss durch allgemeine Anweisungen sicherstellen, dass sein Büropersonal im Fristenkalender eingetragene Fristen nicht eigenmächtig ändert oder löscht, besonders bei ungewöhnlicher Verfahrensgestaltung; das gilt auch für Validierungsfristen. Die bloße Anweisung, erkennbare Probleme mit dem Anwalt zu klären, genügt nicht.
+
+**A:** BGH „Bergbaumaschine“ – X ZB 17/12 (2013), BGH, Beschluss vom 29.10.2013 – X ZB 17/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Wiedereinsetzung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Vorrichtung zum Brechen von Steinen“ (14 W (pat) 7/25, 2026) – Kernaussage?
+
+**A:** An die Büroorganisation eines Anwalts im Umgang mit fristauslösenden Postsendungen von DPMA und BPatG sind strenge Anforderungen zu stellen. Der Wiedereinsetzungsantrag muss innerhalb der Antragsfrist eine geschlossene Schilderung der Abläufe, der Büroorganisation sowie der Auswahl und Kontrolle der Hilfskräfte enthalten; pauschales Bestreiten des durch Empfangsbestätigung belegten Zugangs genügt nicht.
+
+Normen: [§ 123 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__123.html), [§ 123 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__123.html), [§ 73 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__73.html)
+Fundstelle: BPatG, Beschluss vom 23.03.2026 – 14 W (pat) 7/25
+
+*Tags: Rechtsprechung, BPatG, Wiedereinsetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+An die Büroorganisation eines Anwalts im Umgang mit fristauslösenden Postsendungen von DPMA und BPatG sind strenge Anforderungen zu stellen. Der Wiedereinsetzungsantrag muss innerhalb der Antragsfrist eine geschlossene Schilderung der Abläufe, der Büroorganisation sowie der Auswahl und Kontrolle der Hilfskräfte enthalten; pauschales Bestreiten des durch Empfangsbestätigung belegten Zugangs genügt nicht.
+
+**A:** BPatG „Vorrichtung zum Brechen von Steinen“ – 14 W (pat) 7/25 (2026), BPatG, Beschluss vom 23.03.2026 – 14 W (pat) 7/25
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Wiedereinsetzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gehäusestruktur“ (X ZB 14/08, 2008) – Kernaussage?
+
+**A:** Ist gegen einen Beschluss der Prüfungsstelle oder Patentabteilung Beschwerde eingelegt, ist das Patentamt außer für die Abhilfe für andere Entscheidungen nicht mehr zuständig; das gilt auch für die Entscheidung über ein Wiedereinsetzungsgesuch.
+
+Normen: [§ 123 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__123.html), [§ 73 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__73.html)
+Fundstelle: BGH, Beschluss vom 16.12.2008 – X ZB 14/08
+
+*Tags: Rechtsprechung, BGH, Wiedereinsetzung, Beschwerde*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ist gegen einen Beschluss der Prüfungsstelle oder Patentabteilung Beschwerde eingelegt, ist das Patentamt außer für die Abhilfe für andere Entscheidungen nicht mehr zuständig; das gilt auch für die Entscheidung über ein Wiedereinsetzungsgesuch.
+
+**A:** BGH „Gehäusestruktur“ – X ZB 14/08 (2008), BGH, Beschluss vom 16.12.2008 – X ZB 14/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Wiedereinsetzung, Beschwerde*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Überwachungsvorrichtung“ (10 W (pat) 40/06, 2009) – Kernaussage?
+
+**A:** In besonders gelagerten Ausnahmefällen ist die Wiedereinsetzung in die Frist zur Zahlung einer Jahresgebühr trotz Ablaufs der Jahresausschlussfrist des [§ 123 Abs. 2 S. 4 PatG](https://www.gesetze-im-internet.de/patg/__123.html) nicht ausgeschlossen, etwa wenn das Patentamt den Inhaber, der verspätet gezahlt hatte, vor Fristablauf weder durch Registereintrag noch durch Rücküberweisung vom Rechtsverlust in Kenntnis gesetzt hat.
+
+Normen: [§ 123 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__123.html)
+Fundstelle: BPatG, Beschluss vom 26.02.2009 – 10 W (pat) 40/06
+
+*Tags: Rechtsprechung, BPatG, Wiedereinsetzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+In besonders gelagerten Ausnahmefällen ist die Wiedereinsetzung in die Frist zur Zahlung einer Jahresgebühr trotz Ablaufs der Jahresausschlussfrist des [§ 123 Abs. 2 S. 4 PatG](https://www.gesetze-im-internet.de/patg/__123.html) nicht ausgeschlossen, etwa wenn das Patentamt den Inhaber, der verspätet gezahlt hatte, vor Fristablauf weder durch Registereintrag noch durch Rücküberweisung vom Rechtsverlust in Kenntnis gesetzt hat.
+
+**A:** BPatG „Überwachungsvorrichtung“ – 10 W (pat) 40/06 (2009), BPatG, Beschluss vom 26.02.2009 – 10 W (pat) 40/06
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Wiedereinsetzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Demonstrationsschrank“ (X ZB 27/05, 2006) – Kernaussage?
+
+**A:** Der erfinderische Schritt ([§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html)) ist wie die erfinderische Tätigkeit kein quantitatives, sondern ein qualitatives Kriterium und das Ergebnis einer Wertung. Bei seiner Beurteilung kann auf die patentrechtlichen Grundsätze zurückgegriffen werden, unter Berücksichtigung des abweichend definierten Stands der Technik ([§ 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)).
+
+Normen: [§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html), [§ 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Fundstelle: BGH, Beschluss vom 20.06.2006 – X ZB 27/05 – ja (zu LS a - c)
+
+*Tags: Rechtsprechung, BGH, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der erfinderische Schritt ([§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html)) ist wie die erfinderische Tätigkeit kein quantitatives, sondern ein qualitatives Kriterium und das Ergebnis einer Wertung. Bei seiner Beurteilung kann auf die patentrechtlichen Grundsätze zurückgegriffen werden, unter Berücksichtigung des abweichend definierten Stands der Technik ([§ 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)).
+
+**A:** BGH „Demonstrationsschrank“ – X ZB 27/05 (2006), BGH, Beschluss vom 20.06.2006 – X ZB 27/05 – ja (zu LS a - c)
+
+*Tags: Rechtsprechung, Umkehr, BGH, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Signalfolge“ (X ZB 9/03, 2004) – Kernaussage?
+
+**A:** Aus dem Fehlen eines beständigen körperlichen Substrats folgt nicht, dass eine Erfindung als Verfahren im Sinne von [§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html) einzuordnen ist. Einem Schutzanspruch auf eine Signalfolge, die ein Programm zum Ablauf auf einem Rechner darstellt, steht der Ausschluss von Verfahren nicht entgegen.
+
+Normen: [§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html), [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)
+Fundstelle: BGH, Beschluss vom 17.02.2004 – X ZB 9/03
+
+*Tags: Rechtsprechung, BGH, Gebrauchsmuster, Software*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Aus dem Fehlen eines beständigen körperlichen Substrats folgt nicht, dass eine Erfindung als Verfahren im Sinne von [§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html) einzuordnen ist. Einem Schutzanspruch auf eine Signalfolge, die ein Programm zum Ablauf auf einem Rechner darstellt, steht der Ausschluss von Verfahren nicht entgegen.
+
+**A:** BGH „Signalfolge“ – X ZB 9/03 (2004), BGH, Beschluss vom 17.02.2004 – X ZB 9/03
+
+*Tags: Rechtsprechung, Umkehr, BGH, Gebrauchsmuster, Software*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Lithiumsilikat-Glaskeramik“ (35 W (pat) 412/16, 2018) – Kernaussage?
+
+**A:** Der Ausschluss von Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) greift nicht, wenn sich in einem Verwendungsanspruch, der nicht auf ein Arbeits- oder Herstellungsverfahren gerichtet ist, stoffliche oder gegenständliche Eigenschaften eines Stoffs oder einer Vorrichtung manifestieren.
+
+Normen: [§ 15 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)
+Fundstelle: BPatG, Beschluss vom 06.11.2018 – 35 W (pat) 412/16
+
+*Tags: Rechtsprechung, BPatG, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Der Ausschluss von Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) greift nicht, wenn sich in einem Verwendungsanspruch, der nicht auf ein Arbeits- oder Herstellungsverfahren gerichtet ist, stoffliche oder gegenständliche Eigenschaften eines Stoffs oder einer Vorrichtung manifestieren.
+
+**A:** BPatG „Lithiumsilikat-Glaskeramik“ – 35 W (pat) 412/16 (2018), BPatG, Beschluss vom 06.11.2018 – 35 W (pat) 412/16
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Trocknung von Klärschlamm“ (35 W (pat) 411/23, 2026) – Kernaussage?
+
+**A:** Ein großer zeitlicher Abstand zwischen einer Druckschrift von 1921 und einer Internetveröffentlichung von 2018 steht ihrer Kombination durch die Fachperson nicht zwingend entgegen, besonders auf Gebieten mit langen Entwicklungszyklen; zu prüfen ist aber sorgfältig, ob der ältere Ansatz noch erkennbar im Umfeld der jüngeren Lehre lag.
+
+Normen: [§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html), [§ 15 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)
+Fundstelle: BPatG, Beschluss vom 03.02.2026 – 35 W (pat) 411/23
+
+*Tags: Rechtsprechung, BPatG, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ein großer zeitlicher Abstand zwischen einer Druckschrift von 1921 und einer Internetveröffentlichung von 2018 steht ihrer Kombination durch die Fachperson nicht zwingend entgegen, besonders auf Gebieten mit langen Entwicklungszyklen; zu prüfen ist aber sorgfältig, ob der ältere Ansatz noch erkennbar im Umfeld der jüngeren Lehre lag.
+
+**A:** BPatG „Trocknung von Klärschlamm“ – 35 W (pat) 411/23 (2026), BPatG, Beschluss vom 03.02.2026 – 35 W (pat) 411/23
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Toilettendeckel aus Schichtverbundstoff“ (35 W (pat) 402/23, 2025) – Kernaussage?
+
+**A:** Bei einem in den Geltungsbereich des GebrMG importierten Gegenstand, dessen Erfindung von außen nicht erkennbar ist (etwa eine Schichtung), ist die technische Lehre erst ab dem Zeitpunkt zugänglich, zu dem der Gegenstand Endkunden in Verkaufsräumen zum Kauf angeboten wird.
+
+Normen: [§ 3 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)
+Fundstelle: BPatG, Beschluss vom 19.08.2025 – 35 W (pat) 402/23 – sname:
+
+*Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Neuheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Bei einem in den Geltungsbereich des GebrMG importierten Gegenstand, dessen Erfindung von außen nicht erkennbar ist (etwa eine Schichtung), ist die technische Lehre erst ab dem Zeitpunkt zugänglich, zu dem der Gegenstand Endkunden in Verkaufsräumen zum Kauf angeboten wird.
+
+**A:** BPatG „Toilettendeckel aus Schichtverbundstoff“ – 35 W (pat) 402/23 (2025), BPatG, Beschluss vom 19.08.2025 – 35 W (pat) 402/23 – sname:
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Gebrauchsmuster, Neuheit*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Tür- und Fenstersensor“ (35 W (pat) 424/22, 2025) – Kernaussage?
+
+**A:** Für die Neuheitsschonfrist ([§ 3 Abs. 1 S. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)) muss eine lückenlose Kette der Wissensvermittlung vom Erfinder zum Inhaber und zu den Vorveröffentlichungen nachgewiesen sein; der Nachweis kann in bestimmten Fällen auch durch Anscheinsbeweis geführt werden. Eine unwirksame Teilrücknahme des Widerspruchs bindet den Inhaber nicht an eine unzulässige Anspruchsfassung.
+
+Normen: [§ 17 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html), [§ 3 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)
+Fundstelle: BPatG, Beschluss vom 10.12.2025 – 35 W (pat) 424/22
+
+*Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Neuheit*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Für die Neuheitsschonfrist ([§ 3 Abs. 1 S. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)) muss eine lückenlose Kette der Wissensvermittlung vom Erfinder zum Inhaber und zu den Vorveröffentlichungen nachgewiesen sein; der Nachweis kann in bestimmten Fällen auch durch Anscheinsbeweis geführt werden. Eine unwirksame Teilrücknahme des Widerspruchs bindet den Inhaber nicht an eine unzulässige Anspruchsfassung.
+
+**A:** BPatG „Tür- und Fenstersensor“ – 35 W (pat) 424/22 (2025), BPatG, Beschluss vom 10.12.2025 – 35 W (pat) 424/22
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Gebrauchsmuster, Neuheit*
+
+---
+
+## entscheidung
+
+**F:** BGH „Tischgrill“ (X ZB 12/20, 2023) – Kernaussage?
+
+**A:** Auch im Löschungsverfahren ist es unzulässig, einen mit Teil-Löschungsantrag angegriffenen Anspruch durch Kombination mit einem nicht angegriffenen Unteranspruch zu verteidigen; zulässig ist die Ergänzung um nur einen Teil von dessen Merkmalen. Hat der Inhaber schon vor dem Antrag geänderte Ansprüche eingereicht und sein Schutzbegehren darauf beschränkt, fehlt insoweit regelmäßig der Anlass für einen Löschungsantrag ([§ 17 Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html) mit [§ 84 Abs. 2 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) und [§ 93 ZPO](https://www.gesetze-im-internet.de/zpo/__93.html)); für ein weitergehendes, erfolgreiches Begehren gilt das in der Regel nicht.
+
+Normen: [§ 15 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 17 Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html), [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
+Fundstelle: BGH, Beschluss vom 12.09.2023 – X ZB 12/20
+
+*Tags: Rechtsprechung, BGH, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Auch im Löschungsverfahren ist es unzulässig, einen mit Teil-Löschungsantrag angegriffenen Anspruch durch Kombination mit einem nicht angegriffenen Unteranspruch zu verteidigen; zulässig ist die Ergänzung um nur einen Teil von dessen Merkmalen. Hat der Inhaber schon vor dem Antrag geänderte Ansprüche eingereicht und sein Schutzbegehren darauf beschränkt, fehlt insoweit regelmäßig der Anlass für einen Löschungsantrag ([§ 17 Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html) mit [§ 84 Abs. 2 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) und [§ 93 ZPO](https://www.gesetze-im-internet.de/zpo/__93.html)); für ein weitergehendes, erfolgreiches Begehren gilt das in der Regel nicht.
+
+**A:** BGH „Tischgrill“ – X ZB 12/20 (2023), BGH, Beschluss vom 12.09.2023 – X ZB 12/20
+
+*Tags: Rechtsprechung, Umkehr, BGH, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Tintenstrahldrucker“ (X ZB 2/12, 2013) – Kernaussage?
+
+**A:** Die Löschung eines Gebrauchsmusters unterbleibt, wenn ein ursprünglich nicht als zur Erfindung gehörend offenbartes Merkmal den Gegenstand nur beschränkt und keinen Schutz für ein Aliud begründet. Dass das Merkmal auch in nicht offenbarten Ausgestaltungen verwirklicht sein kann, in denen das Ziel der Erfindung womöglich nicht erreicht wird, ändert daran nicht zwingend etwas.
+
+Normen: [§ 15 Abs. 1 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 15 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)
+Fundstelle: BGH, Beschluss vom 06.08.2013 – X ZB 2/12
+
+*Tags: Rechtsprechung, BGH, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Löschung eines Gebrauchsmusters unterbleibt, wenn ein ursprünglich nicht als zur Erfindung gehörend offenbartes Merkmal den Gegenstand nur beschränkt und keinen Schutz für ein Aliud begründet. Dass das Merkmal auch in nicht offenbarten Ausgestaltungen verwirklicht sein kann, in denen das Ziel der Erfindung womöglich nicht erreicht wird, ändert daran nicht zwingend etwas.
+
+**A:** BGH „Tintenstrahldrucker“ – X ZB 2/12 (2013), BGH, Beschluss vom 06.08.2013 – X ZB 2/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Formkörper mit Durchtrittsöffnungen“ (X ZA 1/11, 2011) – Kernaussage?
+
+**A:** Stützt das Patentgericht die Löschung nach [§ 15 Abs. 1 Nr. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html) auf ein älteres Patent, liegt kein Begründungsmangel vor, wenn es sich nicht mit der theoretischen Möglichkeit einer künftigen Nichtigerklärung dieses Patents auseinandersetzt.
+
+Normen: [§ 100 Abs. 3 Nr. 6 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 15 Abs. 1 Nr. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)
+Fundstelle: BGH, Beschluss vom 10.08.2011 – X ZA 1/11
+
+*Tags: Rechtsprechung, BGH, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Stützt das Patentgericht die Löschung nach [§ 15 Abs. 1 Nr. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html) auf ein älteres Patent, liegt kein Begründungsmangel vor, wenn es sich nicht mit der theoretischen Möglichkeit einer künftigen Nichtigerklärung dieses Patents auseinandersetzt.
+
+**A:** BGH „Formkörper mit Durchtrittsöffnungen“ – X ZA 1/11 (2011), BGH, Beschluss vom 10.08.2011 – X ZA 1/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Grill und Holzkohlekammer“ (35 W (pat) 434/18, 2020) – Kernaussage?
+
+**A:** Zur Akte nachgereichte Schutzansprüche ändern das eingetragene Gebrauchsmuster nicht unmittelbar; der Löschungsantrag ist gegen die eingetragenen Schutzansprüche zu richten. Die Grundsätze zur beschränkten Verteidigung eines nur teilweise angegriffenen Patents gelten im Löschungsverfahren entsprechend.
+
+Normen: [§ 15 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 16 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__16.html), [§ 17 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html)
+Fundstelle: BPatG, Beschluss vom 12.10.2020 – 35 W (pat) 434/18
+
+*Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Zur Akte nachgereichte Schutzansprüche ändern das eingetragene Gebrauchsmuster nicht unmittelbar; der Löschungsantrag ist gegen die eingetragenen Schutzansprüche zu richten. Die Grundsätze zur beschränkten Verteidigung eines nur teilweise angegriffenen Patents gelten im Löschungsverfahren entsprechend.
+
+**A:** BPatG „Grill und Holzkohlekammer“ – 35 W (pat) 434/18 (2020), BPatG, Beschluss vom 12.10.2020 – 35 W (pat) 434/18
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Vorrichtung zur Immobilisierung“ (35 W (pat) 440/23, 2025) – Kernaussage?
+
+**A:** Ist das Gebrauchsmuster während des Löschungsbeschwerdeverfahrens erloschen und hat der Inhaber den Antragsteller von allen Ansprüchen freigestellt, tritt Erledigung der Hauptsache ein, auch wenn widerrechtliche Entnahme ([§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)) geltend gemacht ist; eine dennoch weiterverfolgte Beschwerde ist mangels Beschwer unzulässig.
+
+Normen: [§ 13 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__13.html), [§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)
+Fundstelle: BPatG, Beschluss vom 19.11.2025 – 35 W (pat) 440/23 – sname:
+
+*Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Ist das Gebrauchsmuster während des Löschungsbeschwerdeverfahrens erloschen und hat der Inhaber den Antragsteller von allen Ansprüchen freigestellt, tritt Erledigung der Hauptsache ein, auch wenn widerrechtliche Entnahme ([§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)) geltend gemacht ist; eine dennoch weiterverfolgte Beschwerde ist mangels Beschwer unzulässig.
+
+**A:** BPatG „Vorrichtung zur Immobilisierung“ – 35 W (pat) 440/23 (2025), BPatG, Beschluss vom 19.11.2025 – 35 W (pat) 440/23 – sname:
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Gebrauchsmuster, Löschung*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Doppelvertretungskosten im Gebrauchsmuster-Löschungsverfahren“ (35 W (pat) 1/14, 2017) – Kernaussage?
+
+**A:** Für die Erstattungsfähigkeit der Kosten einer Doppelvertretung durch Patent- und Rechtsanwalt im Gebrauchsmusterlöschungsverfahren gelten die für das Patentnichtigkeitsverfahren entwickelten Grundsätze.
+
+Normen: [§ 17 Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html), [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
+Fundstelle: BPatG, Beschluss vom 17.05.2017 – 35 W (pat) 1/14
+
+*Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Kosten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Für die Erstattungsfähigkeit der Kosten einer Doppelvertretung durch Patent- und Rechtsanwalt im Gebrauchsmusterlöschungsverfahren gelten die für das Patentnichtigkeitsverfahren entwickelten Grundsätze.
+
+**A:** BPatG „Doppelvertretungskosten im Gebrauchsmuster-Löschungsverfahren“ – 35 W (pat) 1/14 (2017), BPatG, Beschluss vom 17.05.2017 – 35 W (pat) 1/14
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Gebrauchsmuster, Kosten*
+
+---
+
+## entscheidung
+
+**F:** BGH „Brustimplantat“ (X ZR 1/21, 2022) – Kernaussage?
+
+**A:** Ob der Berechtigte nach [§ 8 S. 1 und 2 PatG](https://www.gesetze-im-internet.de/patg/__8.html) Übertragung oder nur Mitberechtigung verlangen kann, ergibt ein prüfender Vergleich der angemeldeten mit der angeblich entnommenen Lehre; zuerst ist festzustellen, inwieweit beide Lehren übereinstimmen.
+
+Normen: [Art. II § 5 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__5.html), [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html)
+Fundstelle: BGH, Urteil vom 26.07.2022 – X ZR 1/21
+
+*Tags: Rechtsprechung, BGH, Vindikation, Widerrechtliche Entnahme*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ob der Berechtigte nach [§ 8 S. 1 und 2 PatG](https://www.gesetze-im-internet.de/patg/__8.html) Übertragung oder nur Mitberechtigung verlangen kann, ergibt ein prüfender Vergleich der angemeldeten mit der angeblich entnommenen Lehre; zuerst ist festzustellen, inwieweit beide Lehren übereinstimmen.
+
+**A:** BGH „Brustimplantat“ – X ZR 1/21 (2022), BGH, Urteil vom 26.07.2022 – X ZR 1/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vindikation, Widerrechtliche Entnahme*
+
+---
+
+## entscheidung
+
+**F:** BGH „Mitralklappenprothese“ (X ZR 38/19, 2020) – Kernaussage?
+
+**A:** Ob und inwieweit eine widerrechtliche Entnahme vorliegt, lässt sich in der Gesamtschau nur auf der Grundlage festgestellter Übereinstimmungen zwischen der als entnommen geltend gemachten und der angemeldeten Lehre beurteilen; ein bloßer Gesamteindruck genügt nicht.
+
+Normen: [Art. II § 5 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__5.html), [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html)
+Fundstelle: BGH, Urteil vom 04.08.2020 – X ZR 38/19
+
+*Tags: Rechtsprechung, BGH, Vindikation, Widerrechtliche Entnahme*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ob und inwieweit eine widerrechtliche Entnahme vorliegt, lässt sich in der Gesamtschau nur auf der Grundlage festgestellter Übereinstimmungen zwischen der als entnommen geltend gemachten und der angemeldeten Lehre beurteilen; ein bloßer Gesamteindruck genügt nicht.
+
+**A:** BGH „Mitralklappenprothese“ – X ZR 38/19 (2020), BGH, Urteil vom 04.08.2020 – X ZR 38/19
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vindikation, Widerrechtliche Entnahme*
+
+---
+
+## entscheidung
+
+**F:** BGH „Blendschutzbehang“ (Xa ZR 86/06, 2009) – Kernaussage?
+
+**A:** Beruht eine Anmeldung nur teilweise auf dem Beitrag eines anderen, kann dieser Einräumung einer Mitberechtigung verlangen, auch wenn die Anmeldung teilbar wäre. Die Mitberechtigung besteht nur an der Anmeldung als Ganzer, nicht an einzelnen Ansprüchen.
+
+Normen: [§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html), [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html)
+Fundstelle: BGH, Urteil vom 12.03.2009 – Xa ZR 86/06
+
+*Tags: Rechtsprechung, BGH, Vindikation, Mitberechtigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Beruht eine Anmeldung nur teilweise auf dem Beitrag eines anderen, kann dieser Einräumung einer Mitberechtigung verlangen, auch wenn die Anmeldung teilbar wäre. Die Mitberechtigung besteht nur an der Anmeldung als Ganzer, nicht an einzelnen Ansprüchen.
+
+**A:** BGH „Blendschutzbehang“ – Xa ZR 86/06 (2009), BGH, Urteil vom 12.03.2009 – Xa ZR 86/06
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vindikation, Mitberechtigung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schneidbrennerstromdüse“ (X ZR 139/03, 2006) – Kernaussage?
+
+**A:** Der Anspruch auf Einräumung einer Mitberechtigung ist gegenüber dem Anspruch des Alleinerfinders auf volle Übertragung ein Minus; er ist im Übertragungsverlangen von vornherein enthalten.
+
+Normen: [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html)
+Fundstelle: BGH, Urteil vom 11.04.2006 – X ZR 139/03
+
+*Tags: Rechtsprechung, BGH, Vindikation, Mitberechtigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Anspruch auf Einräumung einer Mitberechtigung ist gegenüber dem Anspruch des Alleinerfinders auf volle Übertragung ein Minus; er ist im Übertragungsverlangen von vornherein enthalten.
+
+**A:** BGH „Schneidbrennerstromdüse“ – X ZR 139/03 (2006), BGH, Urteil vom 11.04.2006 – X ZR 139/03
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vindikation, Mitberechtigung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Schweißbrennerreinigung“ (X ZR 214/02, 2005) – Kernaussage?
+
+**A:** Nach Ablauf der Fristen des [§ 8 S. 3 und 4 PatG](https://www.gesetze-im-internet.de/patg/__8.html) kann der Verletzungsbeklagte die widerrechtliche Entnahme nur einem Patentinhaber entgegenhalten, der beim Erwerb des Patents nicht in gutem Glauben war; der gutgläubige Inhaber handelt nicht arglistig, wenn er seine verfestigte Rechtsstellung nutzt.
+
+Normen: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html)
+Fundstelle: BGH, Urteil vom 01.02.2005 – X ZR 214/02 – Schweißbrennerreinigung
+
+*Tags: Rechtsprechung, BGH, Widerrechtliche Entnahme, Einwand*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Nach Ablauf der Fristen des [§ 8 S. 3 und 4 PatG](https://www.gesetze-im-internet.de/patg/__8.html) kann der Verletzungsbeklagte die widerrechtliche Entnahme nur einem Patentinhaber entgegenhalten, der beim Erwerb des Patents nicht in gutem Glauben war; der gutgläubige Inhaber handelt nicht arglistig, wenn er seine verfestigte Rechtsstellung nutzt.
+
+**A:** BGH „Schweißbrennerreinigung“ – X ZR 214/02 (2005), BGH, Urteil vom 01.02.2005 – X ZR 214/02 – Schweißbrennerreinigung
+
+*Tags: Rechtsprechung, Umkehr, BGH, Widerrechtliche Entnahme, Einwand*
+
+---
+
+## entscheidung
+
+**F:** BGH „Automatisierte Wärmebehandlung“ (X ZR 9/23, 2024) – Kernaussage?
+
+**A:** Der Vindikationsanspruch aus [Art. II § 5 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__5.html) verjährt in der regelmäßigen Frist des [§ 195 BGB](https://www.gesetze-im-internet.de/bgb/__195.html), nicht in dreißig Jahren; die Frist beginnt frühestens mit dem Schluss des Jahres der Patenterteilung. Ansprüche auf Schadensersatz und Herausgabe von Nutzungsvorteilen bleiben von der Verjährung unberührt.
+
+Normen: [Art. II § 5 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__5.html), [§ 8 PatG](https://www.gesetze-im-internet.de/patg/__8.html)
+Fundstelle: BGH, Urteil vom 19.03.2024 – X ZR 9/23
+
+*Tags: Rechtsprechung, BGH, Vindikation, Verjährung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Vindikationsanspruch aus [Art. II § 5 Abs. 1 IntPatÜG](https://www.gesetze-im-internet.de/intpat_bkg/art_ii__5.html) verjährt in der regelmäßigen Frist des [§ 195 BGB](https://www.gesetze-im-internet.de/bgb/__195.html), nicht in dreißig Jahren; die Frist beginnt frühestens mit dem Schluss des Jahres der Patenterteilung. Ansprüche auf Schadensersatz und Herausgabe von Nutzungsvorteilen bleiben von der Verjährung unberührt.
+
+**A:** BGH „Automatisierte Wärmebehandlung“ – X ZR 9/23 (2024), BGH, Urteil vom 19.03.2024 – X ZR 9/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vindikation, Verjährung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Beschichtungsverfahren“ (X ZR 163/12, 2016) – Kernaussage?
+
+**A:** Miterfinder stehen in Bruchteilsgemeinschaft. Meldet einer die Erfindung allein im eigenen Namen an, ist das keine notwendige Erhaltungsmaßnahme; der übergangene Mitberechtigte hat einen Schadensersatzanspruch, der auch einen Ausgleich für gezogene Gebrauchsvorteile umfassen kann.
+
+Normen: [§ 33 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__33.html), [§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html)
+Fundstelle: BGH, Urteil vom 27.09.2016 – X ZR 163/12
+
+*Tags: Rechtsprechung, BGH, Miterfinder*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Miterfinder stehen in Bruchteilsgemeinschaft. Meldet einer die Erfindung allein im eigenen Namen an, ist das keine notwendige Erhaltungsmaßnahme; der übergangene Mitberechtigte hat einen Schadensersatzanspruch, der auch einen Ausgleich für gezogene Gebrauchsvorteile umfassen kann.
+
+**A:** BGH „Beschichtungsverfahren“ – X ZR 163/12 (2016), BGH, Urteil vom 27.09.2016 – X ZR 163/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Miterfinder*
+
+---
+
+## entscheidung
+
+**F:** BGH „Sektionaltor II“ (X ZR 85/14, 2017) – Kernaussage?
+
+**A:** Ob ein Mitberechtigter für die Nutzung der Erfindung durch einen anderen einen billigen Ausgleich in Geld erhält, kann auch von den Gründen abhängen, aus denen er selbst nicht genutzt hat. Für die Zeit vor der Erteilung steht er nicht besser als gegenüber Dritten nach [§ 33 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__33.html); diese Entschädigung umfasst nicht die Herausgabe des Verletzergewinns.
+
+Normen: [§ 33 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__33.html), [§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html)
+Fundstelle: BGH, Urteil vom 16.05.2017 – X ZR 85/14
+
+*Tags: Rechtsprechung, BGH, Miterfinder, Entschädigung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ob ein Mitberechtigter für die Nutzung der Erfindung durch einen anderen einen billigen Ausgleich in Geld erhält, kann auch von den Gründen abhängen, aus denen er selbst nicht genutzt hat. Für die Zeit vor der Erteilung steht er nicht besser als gegenüber Dritten nach [§ 33 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__33.html); diese Entschädigung umfasst nicht die Herausgabe des Verletzergewinns.
+
+**A:** BGH „Sektionaltor II“ – X ZR 85/14 (2017), BGH, Urteil vom 16.05.2017 – X ZR 85/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Miterfinder, Entschädigung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Rollenantriebseinheit“ (X ZR 223/98, 2000) – Kernaussage?
+
+**A:** Miterfinder bilden eine Gemeinschaft nach [§§ 741 ff. BGB](https://www.gesetze-im-internet.de/bgb/__741.html), wenn sie ihr Innenverhältnis nicht anders geregelt haben; jeder kann über seinen Anteil an der Erfindung frei verfügen.
+
+Normen: [§ 6 PatG](https://www.gesetze-im-internet.de/patg/__6.html)
+Fundstelle: BGH, Urteil vom 17.10.2000 – X ZR 223/98
+
+*Tags: Rechtsprechung, BGH, Miterfinder*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Miterfinder bilden eine Gemeinschaft nach [§§ 741 ff. BGB](https://www.gesetze-im-internet.de/bgb/__741.html), wenn sie ihr Innenverhältnis nicht anders geregelt haben; jeder kann über seinen Anteil an der Erfindung frei verfügen.
+
+**A:** BGH „Rollenantriebseinheit“ – X ZR 223/98 (2000), BGH, Urteil vom 17.10.2000 – X ZR 223/98
+
+*Tags: Rechtsprechung, Umkehr, BGH, Miterfinder*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kunststoffbügel“ (X ZR 169/04, 2006) – Kernaussage?
+
+**A:** Wer einen schutzrechtsverletzenden Gegenstand einem Handelsunternehmen zur Aufnahme in dessen Listung vorstellt, bietet ihn an ([§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html), [§ 11 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__11.html)). Der Schadensersatz für das Anbieten umfasst auch den Schaden aus Lieferungen Dritter, die das Angebot adäquat verursacht hat.
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 16.05.2006 – X ZR 169/04
+
+*Tags: Rechtsprechung, BGH, Anbieten, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Wer einen schutzrechtsverletzenden Gegenstand einem Handelsunternehmen zur Aufnahme in dessen Listung vorstellt, bietet ihn an ([§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html), [§ 11 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__11.html)). Der Schadensersatz für das Anbieten umfasst auch den Schaden aus Lieferungen Dritter, die das Angebot adäquat verursacht hat.
+
+**A:** BGH „Kunststoffbügel“ – X ZR 169/04 (2006), BGH, Urteil vom 16.05.2006 – X ZR 169/04
+
+*Tags: Rechtsprechung, Umkehr, BGH, Anbieten, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Simvastatin“ (X ZR 76/05, 2006) – Kernaussage?
+
+**A:** Ein Angebot während der Schutzdauer verletzt das Patent auch dann, wenn die angebotenen Geschäfte und Lieferungen erst nach Ablauf des Schutzes ausgeführt werden sollen.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 05.12.2006 – X ZR 76/05 – Simvastatin
+
+*Tags: Rechtsprechung, BGH, Anbieten, Pharma*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Angebot während der Schutzdauer verletzt das Patent auch dann, wenn die angebotenen Geschäfte und Lieferungen erst nach Ablauf des Schutzes ausgeführt werden sollen.
+
+**A:** BGH „Simvastatin“ – X ZR 76/05 (2006), BGH, Urteil vom 05.12.2006 – X ZR 76/05 – Simvastatin
+
+*Tags: Rechtsprechung, Umkehr, BGH, Anbieten, Pharma*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kupplung für optische Geräte“ (X ZR 179/02, 2003) – Kernaussage?
+
+**A:** Das Verteilen eines Werbeprospekts mit der Abbildung eines patentgemäßen Erzeugnisses ist in aller Regel ein Anbieten; ob der Prospekt die Merkmale des Patents erkennen lässt, ist gleichgültig, wenn das abgebildete Erzeugnis sie objektiv aufweist.
+
+Normen: [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 16.09.2003 – X ZR 179/02 – Kupplung für optische Geräte
+
+*Tags: Rechtsprechung, BGH, Anbieten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das Verteilen eines Werbeprospekts mit der Abbildung eines patentgemäßen Erzeugnisses ist in aller Regel ein Anbieten; ob der Prospekt die Merkmale des Patents erkennen lässt, ist gleichgültig, wenn das abgebildete Erzeugnis sie objektiv aufweist.
+
+**A:** BGH „Kupplung für optische Geräte“ – X ZR 179/02 (2003), BGH, Urteil vom 16.09.2003 – X ZR 179/02 – Kupplung für optische Geräte
+
+*Tags: Rechtsprechung, Umkehr, BGH, Anbieten*
+
+---
+
+## entscheidung
+
+**F:** BGH „MPEG-2-Videosignalcodierung“ (X ZR 33/10, 2012) – Kernaussage?
+
+**A:** Eine durch ein patentiertes Codierverfahren erzeugte Videodatenfolge kann unmittelbares Verfahrenserzeugnis ([§ 9 S. 2 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__9.html)) sein; der Schutz erfasst auch Datenträger mit dieser Datenfolge. Ist ein solcher Datenträger mit Zustimmung in Verkehr gebracht, ist die Herstellung weiterer Datenträger bestimmungsgemäßer Gebrauch (Erschöpfung).
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 21.08.2012 – X ZR 33/10
+
+*Tags: Rechtsprechung, BGH, Verfahrenserzeugnis, Erschöpfung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine durch ein patentiertes Codierverfahren erzeugte Videodatenfolge kann unmittelbares Verfahrenserzeugnis ([§ 9 S. 2 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__9.html)) sein; der Schutz erfasst auch Datenträger mit dieser Datenfolge. Ist ein solcher Datenträger mit Zustimmung in Verkehr gebracht, ist die Herstellung weiterer Datenträger bestimmungsgemäßer Gebrauch (Erschöpfung).
+
+**A:** BGH „MPEG-2-Videosignalcodierung“ – X ZR 33/10 (2012), BGH, Urteil vom 21.08.2012 – X ZR 33/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verfahrenserzeugnis, Erschöpfung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Scheibenbremse II“ (X ZR 10/20, 2022) – Kernaussage?
+
+**A:** Der Einbau von Ersatzteilen ist nur dann eine die Erschöpfung verdrängende Neuherstellung, wenn sich die technischen Wirkungen der Erfindung in diesen Teilen widerspiegeln, weil sie in besonderer, auf die Erfindung abgestimmter Weise ausgestaltet sind; dass sie bloß verschleißen, genügt nicht.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 08.11.2022 – X ZR 10/20
+
+*Tags: Rechtsprechung, BGH, Erschöpfung, Ersatzteile*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Einbau von Ersatzteilen ist nur dann eine die Erschöpfung verdrängende Neuherstellung, wenn sich die technischen Wirkungen der Erfindung in diesen Teilen widerspiegeln, weil sie in besonderer, auf die Erfindung abgestimmter Weise ausgestaltet sind; dass sie bloß verschleißen, genügt nicht.
+
+**A:** BGH „Scheibenbremse II“ – X ZR 10/20 (2022), BGH, Urteil vom 08.11.2022 – X ZR 10/20
+
+*Tags: Rechtsprechung, Umkehr, BGH, Erschöpfung, Ersatzteile*
+
+---
+
+## entscheidung
+
+**F:** BGH „Pipettensystem“ (X ZR 38/06, 2007) – Kernaussage?
+
+**A:** Ein Anspruchsmerkmal ist kein wesentliches Element im Sinne des [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html), wenn es zur Lösung des technischen Problems nichts beiträgt. Der Austausch eines Teils ist Neuherstellung, wenn die technischen Wirkungen der Erfindung gerade in diesem Teil in Erscheinung treten, nicht schon, wenn das Teil bloß Objekt der verbesserten Funktionsweise ist.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 27.02.2007 – X ZR 38/06
+
+*Tags: Rechtsprechung, BGH, Mittelbare Verletzung, Erschöpfung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Anspruchsmerkmal ist kein wesentliches Element im Sinne des [§ 10 PatG](https://www.gesetze-im-internet.de/patg/__10.html), wenn es zur Lösung des technischen Problems nichts beiträgt. Der Austausch eines Teils ist Neuherstellung, wenn die technischen Wirkungen der Erfindung gerade in diesem Teil in Erscheinung treten, nicht schon, wenn das Teil bloß Objekt der verbesserten Funktionsweise ist.
+
+**A:** BGH „Pipettensystem“ – X ZR 38/06 (2007), BGH, Urteil vom 27.02.2007 – X ZR 38/06
+
+*Tags: Rechtsprechung, Umkehr, BGH, Mittelbare Verletzung, Erschöpfung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Abdichtsystem“ (X ZR 120/15, 2017) – Kernaussage?
+
+**A:** Ein ausländischer Lieferant, der einen ausländischen Abnehmer beliefert, muss dessen Weitervertrieb nicht ohne weiteres überwachen; konkrete Anhaltspunkte für Lieferungen ins Inland begründen aber eine Prüfungspflicht. Rückruf und endgültiges Entfernen aus den Vertriebswegen ([§ 140a Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140a.html)) können nebeneinander und auch gegen Verletzer im Ausland verlangt werden.
+
+Normen: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 140a Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 16.05.2017 – X ZR 120/15
+
+*Tags: Rechtsprechung, BGH, Auslandslieferung, Rückruf*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein ausländischer Lieferant, der einen ausländischen Abnehmer beliefert, muss dessen Weitervertrieb nicht ohne weiteres überwachen; konkrete Anhaltspunkte für Lieferungen ins Inland begründen aber eine Prüfungspflicht. Rückruf und endgültiges Entfernen aus den Vertriebswegen ([§ 140a Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140a.html)) können nebeneinander und auch gegen Verletzer im Ausland verlangt werden.
+
+**A:** BGH „Abdichtsystem“ – X ZR 120/15 (2017), BGH, Urteil vom 16.05.2017 – X ZR 120/15
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslandslieferung, Rückruf*
+
+---
+
+## entscheidung
+
+**F:** BGH „Ultraschallwandler“ (X ZR 47/19, 2021) – Kernaussage?
+
+**A:** Hat ein ausländischer Hersteller einen ausländischen Abnehmer trotz konkreter Anhaltspunkte für einen Weitervertrieb ins Inland beliefert, bestehen Ansprüche wegen Lieferungen an andere Abnehmer nur, soweit dort dieselben charakteristischen Umstände vorliegen; diese sind im Antrag und im Urteil konkret zu umschreiben.
+
+Normen: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 08.06.2021 – X ZR 47/19
+
+*Tags: Rechtsprechung, BGH, Auslandslieferung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Hat ein ausländischer Hersteller einen ausländischen Abnehmer trotz konkreter Anhaltspunkte für einen Weitervertrieb ins Inland beliefert, bestehen Ansprüche wegen Lieferungen an andere Abnehmer nur, soweit dort dieselben charakteristischen Umstände vorliegen; diese sind im Antrag und im Urteil konkret zu umschreiben.
+
+**A:** BGH „Ultraschallwandler“ – X ZR 47/19 (2021), BGH, Urteil vom 08.06.2021 – X ZR 47/19
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslandslieferung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Audiosignalcodierung“ (X ZR 69/13, 2015) – Kernaussage?
+
+**A:** Ein Mittel bezieht sich nicht schon deshalb auf ein wesentliches Element, weil es einen dem Anspruch vorgelagerten, notwendigen Verfahrensschritt ausführt. Wer im Ausland an einen Dritten liefert, der das Mittel mit seinem Wissen und Wollen nach Deutschland weiterliefert, veranlasst eine Lieferung im Inland.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html)
+Fundstelle: BGH, Urteil vom 03.02.2015 – X ZR 69/13
+
+*Tags: Rechtsprechung, BGH, Mittelbare Verletzung, Inlandsbezug*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Mittel bezieht sich nicht schon deshalb auf ein wesentliches Element, weil es einen dem Anspruch vorgelagerten, notwendigen Verfahrensschritt ausführt. Wer im Ausland an einen Dritten liefert, der das Mittel mit seinem Wissen und Wollen nach Deutschland weiterliefert, veranlasst eine Lieferung im Inland.
+
+**A:** BGH „Audiosignalcodierung“ – X ZR 69/13 (2015), BGH, Urteil vom 03.02.2015 – X ZR 69/13
+
+*Tags: Rechtsprechung, Umkehr, BGH, Mittelbare Verletzung, Inlandsbezug*
+
+---
+
+## entscheidung
+
+**F:** BGH „Haubenstretchautomat“ (X ZR 173/02, 2007) – Kernaussage?
+
+**A:** Die Voraussetzungen der mittelbaren Verletzung müssen im Zeitpunkt des Angebots oder der Lieferung vorliegen; offensichtlich ist die Bestimmung, wenn die drohende Verletzung aus objektivierter Sicht des Lieferanten so deutlich ist, dass die Lieferung einer wissentlichen Patentgefährdung gleichsteht. Ein Verbot, die Mittel an Abnehmer ohne strafbewehrte Unterlassungserklärung zu vertreiben, setzt besondere Umstände voraus. Zu ersetzen ist der Schaden aus der unmittelbaren Verletzung durch den Abnehmer.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html), [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+Fundstelle: BGH, Urteil vom 09.01.2007 – X ZR 173/02
+
+*Tags: Rechtsprechung, BGH, Mittelbare Verletzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Voraussetzungen der mittelbaren Verletzung müssen im Zeitpunkt des Angebots oder der Lieferung vorliegen; offensichtlich ist die Bestimmung, wenn die drohende Verletzung aus objektivierter Sicht des Lieferanten so deutlich ist, dass die Lieferung einer wissentlichen Patentgefährdung gleichsteht. Ein Verbot, die Mittel an Abnehmer ohne strafbewehrte Unterlassungserklärung zu vertreiben, setzt besondere Umstände voraus. Zu ersetzen ist der Schaden aus der unmittelbaren Verletzung durch den Abnehmer.
+
+**A:** BGH „Haubenstretchautomat“ – X ZR 173/02 (2007), BGH, Urteil vom 09.01.2007 – X ZR 173/02
+
+*Tags: Rechtsprechung, Umkehr, BGH, Mittelbare Verletzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Funkuhr II“ (X ZR 53/04, 2007) – Kernaussage?
+
+**A:** Eine mittelbare Verletzung kann auch in der Lieferung von Mitteln ins Ausland liegen, wenn sie dort zur Herstellung erfindungsgemäßer Erzeugnisse beitragen sollen, die zur Lieferung nach Deutschland bestimmt sind.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html)
+Fundstelle: BGH, Urteil vom 30.01.2007 – X ZR 53/04
+
+*Tags: Rechtsprechung, BGH, Mittelbare Verletzung, Inlandsbezug*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Eine mittelbare Verletzung kann auch in der Lieferung von Mitteln ins Ausland liegen, wenn sie dort zur Herstellung erfindungsgemäßer Erzeugnisse beitragen sollen, die zur Lieferung nach Deutschland bestimmt sind.
+
+**A:** BGH „Funkuhr II“ – X ZR 53/04 (2007), BGH, Urteil vom 30.01.2007 – X ZR 53/04
+
+*Tags: Rechtsprechung, Umkehr, BGH, Mittelbare Verletzung, Inlandsbezug*
+
+---
+
+## entscheidung
+
+**F:** BGH „Antriebsscheibenaufzug“ (X ZR 247/02, 2005) – Kernaussage?
+
+**A:** Die Bestimmung eines Mittels zur patentgemäßen Verwendung kann sich aus Bedienungsanleitungen ergeben, die auf diese Verwendung hinweisen. Bei mittelbarer Verletzung ist der Schaden zu ersetzen, der durch die unmittelbare Verletzung des Abnehmers entsteht.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html), [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+Fundstelle: BGH, Urteil vom 07.06.2005 – X ZR 247/02 – Antriebsscheibenaufzug
+
+*Tags: Rechtsprechung, BGH, Mittelbare Verletzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Bestimmung eines Mittels zur patentgemäßen Verwendung kann sich aus Bedienungsanleitungen ergeben, die auf diese Verwendung hinweisen. Bei mittelbarer Verletzung ist der Schaden zu ersetzen, der durch die unmittelbare Verletzung des Abnehmers entsteht.
+
+**A:** BGH „Antriebsscheibenaufzug“ – X ZR 247/02 (2005), BGH, Urteil vom 07.06.2005 – X ZR 247/02 – Antriebsscheibenaufzug
+
+*Tags: Rechtsprechung, Umkehr, BGH, Mittelbare Verletzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Deckenheizung“ (X ZR 153/03, 2006) – Kernaussage?
+
+**A:** Die mittelbare Verletzung setzt nicht voraus, dass der Abnehmer sich schon zur erfindungsgemäßen Verwendung entschlossen hat; es genügt, dass der Lieferant dies weiß oder es offensichtlich ist (hinreichend sichere Erwartung). Welche Vorsorge bei auch patentfrei nutzbaren Mitteln geboten ist, ist eine Frage des Einzelfalls.
+
+Normen: [§ 10 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__10.html)
+Fundstelle: BGH, Urteil vom 13.06.2006 – X ZR 153/03 – Deckenheizung
+
+*Tags: Rechtsprechung, BGH, Mittelbare Verletzung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die mittelbare Verletzung setzt nicht voraus, dass der Abnehmer sich schon zur erfindungsgemäßen Verwendung entschlossen hat; es genügt, dass der Lieferant dies weiß oder es offensichtlich ist (hinreichend sichere Erwartung). Welche Vorsorge bei auch patentfrei nutzbaren Mitteln geboten ist, ist eine Frage des Einzelfalls.
+
+**A:** BGH „Deckenheizung“ – X ZR 153/03 (2006), BGH, Urteil vom 13.06.2006 – X ZR 153/03 – Deckenheizung
+
+*Tags: Rechtsprechung, Umkehr, BGH, Mittelbare Verletzung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Desmopressin“ (X ZR 131/09, 2012) – Kernaussage?
+
+**A:** Das Vorbenutzungsrecht setzt selbständigen Erfindungsbesitz voraus: Die Lehre muss objektiv fertig und subjektiv als ausführbar erkannt sein. Es genügt planmäßiges Handeln, das alle Merkmale verwirklicht; die Kenntnis der in der Beschreibung genannten Vorteile ist nicht erforderlich.
+
+Normen: [§ 12 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__12.html)
+Fundstelle: BGH, Urteil vom 12.06.2012 – X ZR 131/09
+
+*Tags: Rechtsprechung, BGH, Vorbenutzungsrecht, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das Vorbenutzungsrecht setzt selbständigen Erfindungsbesitz voraus: Die Lehre muss objektiv fertig und subjektiv als ausführbar erkannt sein. Es genügt planmäßiges Handeln, das alle Merkmale verwirklicht; die Kenntnis der in der Beschreibung genannten Vorteile ist nicht erforderlich.
+
+**A:** BGH „Desmopressin“ – X ZR 131/09 (2012), BGH, Urteil vom 12.06.2012 – X ZR 131/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vorbenutzungsrecht, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Nabenschaltung III“ (X ZR 129/09, 2012) – Kernaussage?
+
+**A:** Die Übertragung eines abgrenzbaren Betriebsteils steht der Übertragung des Betriebs gleich ([§ 12 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__12.html)); dass der Übernehmer Teile der Herstellung in fremden Werkstätten vornehmen lässt, schließt den Übergang nicht aus.
+
+Normen: [§ 12 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__12.html)
+Fundstelle: BGH, Urteil vom 22.05.2012 – X ZR 129/09
+
+*Tags: Rechtsprechung, BGH, Vorbenutzungsrecht, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Übertragung eines abgrenzbaren Betriebsteils steht der Übertragung des Betriebs gleich ([§ 12 Abs. 1 S. 3 PatG](https://www.gesetze-im-internet.de/patg/__12.html)); dass der Übernehmer Teile der Herstellung in fremden Werkstätten vornehmen lässt, schließt den Übergang nicht aus.
+
+**A:** BGH „Nabenschaltung III“ – X ZR 129/09 (2012), BGH, Urteil vom 22.05.2012 – X ZR 129/09
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vorbenutzungsrecht, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Faserstoffbahn“ (X ZR 61/21, 2023) – Kernaussage?
+
+**A:** Verwirklichte der vorbenutzte Gegenstand alle Merkmale eines unabhängigen Schutzanspruchs, kann auch seine Modifikation vom Vorbenutzungsrecht gedeckt sein, selbst wenn ihm Merkmale fehlten, die der beschränkte Klageantrag zusätzlich verlangt.
+
+Normen: [§ 12 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__12.html)
+Fundstelle: BGH, Urteil vom 20.06.2023 – X ZR 61/21
+
+*Tags: Rechtsprechung, BGH, Vorbenutzungsrecht, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Verwirklichte der vorbenutzte Gegenstand alle Merkmale eines unabhängigen Schutzanspruchs, kann auch seine Modifikation vom Vorbenutzungsrecht gedeckt sein, selbst wenn ihm Merkmale fehlten, die der beschränkte Klageantrag zusätzlich verlangt.
+
+**A:** BGH „Faserstoffbahn“ – X ZR 61/21 (2023), BGH, Urteil vom 20.06.2023 – X ZR 61/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vorbenutzungsrecht, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Füllstoff“ (Xa ZR 18/08, 2009) – Kernaussage?
+
+**A:** Ein Vorbenutzungsrecht ist in aller Regel ausgeschlossen, wenn Benutzer und Erfinder in vertraglicher Beziehung stehen und der Erfindungsbesitz im Zusammenhang mit der Erfüllung dieses Vertrags erlangt wurde.
+
+Normen: [§ 12 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__12.html)
+Fundstelle: BGH, Urteil vom 10.09.2009 – Xa ZR 18/08
+
+*Tags: Rechtsprechung, BGH, Vorbenutzungsrecht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Vorbenutzungsrecht ist in aller Regel ausgeschlossen, wenn Benutzer und Erfinder in vertraglicher Beziehung stehen und der Erfindungsbesitz im Zusammenhang mit der Erfüllung dieses Vertrags erlangt wurde.
+
+**A:** BGH „Füllstoff“ – Xa ZR 18/08 (2009), BGH, Urteil vom 10.09.2009 – Xa ZR 18/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vorbenutzungsrecht*
+
+---
+
+## entscheidung
+
+**F:** BGH „Biegevorrichtung“ (X ZR 32/99, 2001) – Kernaussage?
+
+**A:** Dem Vorbenutzer sind Weiterentwicklungen, die über den Umfang der bisherigen Benutzung hinausgehen, jedenfalls dann verwehrt, wenn sie in den Gegenstand der geschützten Erfindung eingreifen.
+
+Normen: [§ 12 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__12.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 13.11.2001 – X ZR 32/99 – Biegevorrichtung
+
+*Tags: Rechtsprechung, BGH, Vorbenutzungsrecht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Dem Vorbenutzer sind Weiterentwicklungen, die über den Umfang der bisherigen Benutzung hinausgehen, jedenfalls dann verwehrt, wenn sie in den Gegenstand der geschützten Erfindung eingreifen.
+
+**A:** BGH „Biegevorrichtung“ – X ZR 32/99 (2001), BGH, Urteil vom 13.11.2001 – X ZR 32/99 – Biegevorrichtung
+
+*Tags: Rechtsprechung, Umkehr, BGH, Vorbenutzungsrecht*
+
+---
+
+## entscheidung
+
+**F:** BGH „Luftkappensystem“ (X ZR 74/14, 2015) – Kernaussage?
+
+**A:** Nennt die Patentschrift zwei nur graduell verschiedene Maßnahmen (Blockieren und Drosseln) undifferenziert als Ausgangspunkt, folgt aus der Nennung der stärkeren im Anspruch nicht ohne weiteres, dass die schwächere nicht genügt. Der Formstein-Einwand hat nur bei äquivalenter Verletzung Bedeutung.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html)
+Fundstelle: BGH, Urteil vom 13.10.2015 – X ZR 74/14
+
+*Tags: Rechtsprechung, BGH, Auslegung, Formstein-Einwand*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Nennt die Patentschrift zwei nur graduell verschiedene Maßnahmen (Blockieren und Drosseln) undifferenziert als Ausgangspunkt, folgt aus der Nennung der stärkeren im Anspruch nicht ohne weiteres, dass die schwächere nicht genügt. Der Formstein-Einwand hat nur bei äquivalenter Verletzung Bedeutung.
+
+**A:** BGH „Luftkappensystem“ – X ZR 74/14 (2015), BGH, Urteil vom 13.10.2015 – X ZR 74/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung, Formstein-Einwand*
+
+---
+
+## entscheidung
+
+**F:** BGH „Pumpeinrichtung“ (X ZR 1/05, 2007) – Kernaussage?
+
+**A:** Für die äquivalente Verletzung genügt es nicht, einzelne Merkmale isoliert auf ein gleichwertiges Ersatzmittel zu prüfen; die angegriffene Ausführung ist, soweit für die patentgemäße Lösung bedeutsam, als Gesamtheit zu erfassen.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html)
+Fundstelle: BGH, Urteil vom 17.04.2007 – X ZR 1/05 – Pumpeinrichtung
+
+*Tags: Rechtsprechung, BGH, Äquivalenz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Für die äquivalente Verletzung genügt es nicht, einzelne Merkmale isoliert auf ein gleichwertiges Ersatzmittel zu prüfen; die angegriffene Ausführung ist, soweit für die patentgemäße Lösung bedeutsam, als Gesamtheit zu erfassen.
+
+**A:** BGH „Pumpeinrichtung“ – X ZR 1/05 (2007), BGH, Urteil vom 17.04.2007 – X ZR 1/05 – Pumpeinrichtung
+
+*Tags: Rechtsprechung, Umkehr, BGH, Äquivalenz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Wärmetauscher“ (X ZR 114/13, 2016) – Kernaussage?
+
+**A:** Unteransprüche können zur Auslegung des Hauptanspruchs beitragen, engen ihn aber regelmäßig nicht ein. Eine Aufbrauchfrist kommt nur in Betracht, wenn die sofortige Durchsetzung des Unterlassungsanspruchs wegen besonderer Umstände eine unverhältnismäßige, durch das Ausschließlichkeitsrecht nicht gerechtfertigte Härte wäre und deshalb treuwidrig.
+
+Normen: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html)
+Fundstelle: BGH, Urteil vom 10.05.2016 – X ZR 114/13 – Wärmetauscher
+
+*Tags: Rechtsprechung, BGH, Auslegung, Aufbrauchfrist*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Unteransprüche können zur Auslegung des Hauptanspruchs beitragen, engen ihn aber regelmäßig nicht ein. Eine Aufbrauchfrist kommt nur in Betracht, wenn die sofortige Durchsetzung des Unterlassungsanspruchs wegen besonderer Umstände eine unverhältnismäßige, durch das Ausschließlichkeitsrecht nicht gerechtfertigte Härte wäre und deshalb treuwidrig.
+
+**A:** BGH „Wärmetauscher“ – X ZR 114/13 (2016), BGH, Urteil vom 10.05.2016 – X ZR 114/13 – Wärmetauscher
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auslegung, Aufbrauchfrist*
+
+---
+
+## entscheidung
+
+**F:** BGH „Glasfasern II“ (X ZR 30/14, 2015) – Kernaussage?
+
+**A:** Der gesetzliche Vertreter einer Gesellschaft, die ein patentverletzendes Erzeugnis herstellt oder erstmals im Inland in Verkehr bringt, haftet auf Schadensersatz, wenn er die möglichen und zumutbaren Maßnahmen unterlässt, die Geschäftstätigkeit so zu organisieren, dass keine technischen Schutzrechte Dritter verletzt werden; näheren Vortrag dazu braucht der Kläger regelmäßig nicht.
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 15.12.2015 – X ZR 30/14
+
+*Tags: Rechtsprechung, BGH, Geschäftsführerhaftung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der gesetzliche Vertreter einer Gesellschaft, die ein patentverletzendes Erzeugnis herstellt oder erstmals im Inland in Verkehr bringt, haftet auf Schadensersatz, wenn er die möglichen und zumutbaren Maßnahmen unterlässt, die Geschäftstätigkeit so zu organisieren, dass keine technischen Schutzrechte Dritter verletzt werden; näheren Vortrag dazu braucht der Kläger regelmäßig nicht.
+
+**A:** BGH „Glasfasern II“ – X ZR 30/14 (2015), BGH, Urteil vom 15.12.2015 – X ZR 30/14
+
+*Tags: Rechtsprechung, Umkehr, BGH, Geschäftsführerhaftung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Kabelschloss“ (X ZR 130/12, 2013) – Kernaussage?
+
+**A:** Beim Verletzergewinn ist nur der Anteil herauszugeben, der auf der Benutzung der Erfindung beruht; dabei zählt, ob die erfindungsgemäße Ausgestaltung und ihre Vorteile für die Abnehmer erkennbar waren oder werblich herausgestellt wurden.
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+Fundstelle: BGH, Beschluss vom 03.09.2013 – X ZR 130/12
+
+*Tags: Rechtsprechung, BGH, Verletzergewinn*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Beim Verletzergewinn ist nur der Anteil herauszugeben, der auf der Benutzung der Erfindung beruht; dabei zählt, ob die erfindungsgemäße Ausgestaltung und ihre Vorteile für die Abnehmer erkennbar waren oder werblich herausgestellt wurden.
+
+**A:** BGH „Kabelschloss“ – X ZR 130/12 (2013), BGH, Beschluss vom 03.09.2013 – X ZR 130/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzergewinn*
+
+---
+
+## entscheidung
+
+**F:** BGH „Polsterumarbeitungsmaschine“ (X ZR 30/21, 2023) – Kernaussage?
+
+**A:** Für den Verletzergewinn zählen alle Gewinne, die mit der Verletzung in ursächlichem Zusammenhang stehen, auch aus Zusatzgeschäften (etwa Verbrauchsmaterial), die selbst keine Benutzung sind, und aus Vorgängen nach Erlöschen des Patents. Das gilt auch für den Restschadensersatz nach [§ 141 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__141.html).
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html)
+Fundstelle: BGH, Urteil vom 14.11.2023 – X ZR 30/21
+
+*Tags: Rechtsprechung, BGH, Verletzergewinn, Zusatzgeschäfte*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Für den Verletzergewinn zählen alle Gewinne, die mit der Verletzung in ursächlichem Zusammenhang stehen, auch aus Zusatzgeschäften (etwa Verbrauchsmaterial), die selbst keine Benutzung sind, und aus Vorgängen nach Erlöschen des Patents. Das gilt auch für den Restschadensersatz nach [§ 141 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__141.html).
+
+**A:** BGH „Polsterumarbeitungsmaschine“ – X ZR 30/21 (2023), BGH, Urteil vom 14.11.2023 – X ZR 30/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzergewinn, Zusatzgeschäfte*
+
+---
+
+## entscheidung
+
+**F:** BGH „Verdampfungstrockneranlage“ (X ZR 104/22, 2024) – Kernaussage?
+
+**A:** Gewinne aus einem Vertrag, der ursächlich auf ein patentverletzendes Angebot im Inland zurückgeht, zählen zum Schaden, auch wenn der Vertrag im patentfreien Ausland erfüllt wird. Der Einwand rechtmäßigen Alternativverhaltens greift grundsätzlich nicht; die Lizenzanalogie setzt keine Lizenzierungspraxis der Branche voraus.
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 07.05.2024 – X ZR 104/22
+
+*Tags: Rechtsprechung, BGH, Schadensberechnung, Anbieten*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Gewinne aus einem Vertrag, der ursächlich auf ein patentverletzendes Angebot im Inland zurückgeht, zählen zum Schaden, auch wenn der Vertrag im patentfreien Ausland erfüllt wird. Der Einwand rechtmäßigen Alternativverhaltens greift grundsätzlich nicht; die Lizenzanalogie setzt keine Lizenzierungspraxis der Branche voraus.
+
+**A:** BGH „Verdampfungstrockneranlage“ – X ZR 104/22 (2024), BGH, Urteil vom 07.05.2024 – X ZR 104/22
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schadensberechnung, Anbieten*
+
+---
+
+## entscheidung
+
+**F:** BGH „Cinch-Stecker“ (X ZR 86/10, 2011) – Kernaussage?
+
+**A:** Der Patentinhaber, der eine ausschließliche Lizenz vergeben hat, hat eigene Ansprüche gegen den Verletzer, wenn ihm aus der Lizenzvergabe fortdauernde materielle Vorteile erwachsen, etwa als Alleingesellschafter des Lizenznehmers.
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 15 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__15.html)
+Fundstelle: BGH, Urteil vom 05.04.2011 – X ZR 86/10
+
+*Tags: Rechtsprechung, BGH, Aktivlegitimation, Lizenz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Patentinhaber, der eine ausschließliche Lizenz vergeben hat, hat eigene Ansprüche gegen den Verletzer, wenn ihm aus der Lizenzvergabe fortdauernde materielle Vorteile erwachsen, etwa als Alleingesellschafter des Lizenznehmers.
+
+**A:** BGH „Cinch-Stecker“ – X ZR 86/10 (2011), BGH, Urteil vom 05.04.2011 – X ZR 86/10
+
+*Tags: Rechtsprechung, Umkehr, BGH, Aktivlegitimation, Lizenz*
+
+---
+
+## entscheidung
+
+**F:** BGH „MP3-Player-Import“ (Xa ZR 2/08, 2009) – Kernaussage?
+
+**A:** Verletzer ist auch, wer die Benutzung durch einen Dritten ermöglicht oder fördert, obwohl er sich mit zumutbarem Aufwand Kenntnis von der Verletzung verschaffen kann. Den Spediteur trifft keine generelle Prüfungspflicht, wohl aber bei konkreten Anhaltspunkten für eine Schutzrechtsverletzung.
+
+Normen: [§ 139 Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 140a Abs. 1 PatG](https://www.gesetze-im-internet.de/patg/__140a.html), [§ 9 PatG](https://www.gesetze-im-internet.de/patg/__9.html)
+Fundstelle: BGH, Urteil vom 17.09.2009 – Xa ZR 2/08
+
+*Tags: Rechtsprechung, BGH, Passivlegitimation, Spediteur*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Verletzer ist auch, wer die Benutzung durch einen Dritten ermöglicht oder fördert, obwohl er sich mit zumutbarem Aufwand Kenntnis von der Verletzung verschaffen kann. Den Spediteur trifft keine generelle Prüfungspflicht, wohl aber bei konkreten Anhaltspunkten für eine Schutzrechtsverletzung.
+
+**A:** BGH „MP3-Player-Import“ – Xa ZR 2/08 (2009), BGH, Urteil vom 17.09.2009 – Xa ZR 2/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Passivlegitimation, Spediteur*
+
+---
+
+## entscheidung
+
+**F:** BGH „Temperaturwächter“ (X ZR 150/98, 2000) – Kernaussage?
+
+**A:** Ansprüche wegen Patentverletzung können verwirkt sein, wenn sich der Verletzer wegen langjähriger Duldung darauf einrichten durfte und eingerichtet hat, dass der Inhaber sein Recht nicht mehr geltend macht; Zeit- und Umstandsmoment stehen in Wechselwirkung.
+
+Normen: [§ 139 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+Fundstelle: BGH, Urteil vom 19.12.2000 – X ZR 150/98
+
+*Tags: Rechtsprechung, BGH, Verwirkung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ansprüche wegen Patentverletzung können verwirkt sein, wenn sich der Verletzer wegen langjähriger Duldung darauf einrichten durfte und eingerichtet hat, dass der Inhaber sein Recht nicht mehr geltend macht; Zeit- und Umstandsmoment stehen in Wechselwirkung.
+
+**A:** BGH „Temperaturwächter“ – X ZR 150/98 (2000), BGH, Urteil vom 19.12.2000 – X ZR 150/98
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verwirkung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Blasenfreie Gummibahn II“ (X ZR 114/00, 2003) – Kernaussage?
+
+**A:** Nach Treu und Glauben kann die nicht beweisbelastete Partei verpflichtet sein, Tatsachen zu spezifizieren, die dem Gegner nicht oder nur unter unverhältnismäßigen Erschwerungen zugänglich sind, wenn ihr dies ohne weiteres möglich und zumutbar ist; das gilt auch im Patentverletzungsprozess.
+
+Normen: [§ 139 Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__139.html)
+Fundstelle: BGH, Urteil vom 30.09.2003 – X ZR 114/00 – Blasenfreie Gummibahn II
+
+*Tags: Rechtsprechung, BGH, Beweislast, Verfahrenspatent*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Nach Treu und Glauben kann die nicht beweisbelastete Partei verpflichtet sein, Tatsachen zu spezifizieren, die dem Gegner nicht oder nur unter unverhältnismäßigen Erschwerungen zugänglich sind, wenn ihr dies ohne weiteres möglich und zumutbar ist; das gilt auch im Patentverletzungsprozess.
+
+**A:** BGH „Blasenfreie Gummibahn II“ – X ZR 114/00 (2003), BGH, Urteil vom 30.09.2003 – X ZR 114/00 – Blasenfreie Gummibahn II
+
+*Tags: Rechtsprechung, Umkehr, BGH, Beweislast, Verfahrenspatent*
+
+---
+
+## entscheidung
+
+**F:** BGH „Werkzeuggriff“ (X ZR 76/18, 2018) – Kernaussage?
+
+**A:** Ist der Schuldner zur Auskunft über Vertriebsweg und gewerbliche Abnehmer verurteilt, überwiegt regelmäßig das Interesse des Gläubigers an der Durchsetzung; eine Einstellung der Zwangsvollstreckung wegen eines nicht zu ersetzenden Nachteils scheidet aus, auch wenn das Patent abgelaufen ist.
+
+Normen: [§ 140b PatG](https://www.gesetze-im-internet.de/patg/__140b.html)
+Fundstelle: BGH, Beschluss vom 25.09.2018 – X ZR 76/18
+
+*Tags: Rechtsprechung, BGH, Auskunft*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ist der Schuldner zur Auskunft über Vertriebsweg und gewerbliche Abnehmer verurteilt, überwiegt regelmäßig das Interesse des Gläubigers an der Durchsetzung; eine Einstellung der Zwangsvollstreckung wegen eines nicht zu ersetzenden Nachteils scheidet aus, auch wenn das Patent abgelaufen ist.
+
+**A:** BGH „Werkzeuggriff“ – X ZR 76/18 (2018), BGH, Beschluss vom 25.09.2018 – X ZR 76/18
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auskunft*
+
+---
+
+## entscheidung
+
+**F:** BGH „Lichtbogenschnürung“ (X ZB 37/08, 2009) – Kernaussage?
+
+**A:** Ist im selbständigen Beweisverfahren ein Gutachten zur Patentverletzung erstellt, sind Geheimhaltungsinteressen in der Regel dadurch zu wahren, dass zunächst nur zur Verschwiegenheit verpflichtete Anwälte Einsicht erhalten; dem Inhaber selbst darf es erst nach Anhörung des Gegners freigegeben werden.
+
+Normen: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)
+Fundstelle: BGH, Beschluss vom 16.11.2009 – X ZB 37/08
+
+*Tags: Rechtsprechung, BGH, Besichtigung, Geheimnisschutz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ist im selbständigen Beweisverfahren ein Gutachten zur Patentverletzung erstellt, sind Geheimhaltungsinteressen in der Regel dadurch zu wahren, dass zunächst nur zur Verschwiegenheit verpflichtete Anwälte Einsicht erhalten; dem Inhaber selbst darf es erst nach Anhörung des Gegners freigegeben werden.
+
+**A:** BGH „Lichtbogenschnürung“ – X ZB 37/08 (2009), BGH, Beschluss vom 16.11.2009 – X ZB 37/08
+
+*Tags: Rechtsprechung, Umkehr, BGH, Besichtigung, Geheimnisschutz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Ästhetische Behandlung“ (X ZB 9/21, 2023) – Kernaussage?
+
+**A:** Gegen die Entscheidung über die Herausgabe eines Besichtigungsgutachtens ([§ 140c Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140c.html), [§ 24c Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html)) ist die sofortige Beschwerde statthaft. Wie wahrscheinlich die Verletzung ist, zählt nur, wenn der Antragsgegner berechtigte Geheimhaltungsinteressen dargelegt hat.
+
+Normen: [§ 140c Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140c.html)
+Fundstelle: BGH, Beschluss vom 01.08.2023 – X ZB 9/21
+
+*Tags: Rechtsprechung, BGH, Besichtigung, Gebrauchsmuster*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Gegen die Entscheidung über die Herausgabe eines Besichtigungsgutachtens ([§ 140c Abs. 3 PatG](https://www.gesetze-im-internet.de/patg/__140c.html), [§ 24c Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24c.html)) ist die sofortige Beschwerde statthaft. Wie wahrscheinlich die Verletzung ist, zählt nur, wenn der Antragsgegner berechtigte Geheimhaltungsinteressen dargelegt hat.
+
+**A:** BGH „Ästhetische Behandlung“ – X ZB 9/21 (2023), BGH, Beschluss vom 01.08.2023 – X ZB 9/21
+
+*Tags: Rechtsprechung, Umkehr, BGH, Besichtigung, Gebrauchsmuster*
+
+---
+
+## entscheidung
+
+**F:** BGH „Rohrmuffe“ (X ZR 7/12, 2012) – Kernaussage?
+
+**A:** Das Gericht muss die Vorlage einer Urkunde ([§ 142 ZPO](https://www.gesetze-im-internet.de/zpo/__142.html)) oder die Begutachtung eines Gegenstands im Besitz der nicht beweisbelasteten Partei ([§ 144 ZPO](https://www.gesetze-im-internet.de/zpo/__144.html)) allenfalls anordnen, wenn die Voraussetzungen eines Anspruchs aus [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) vorliegen.
+
+Normen: [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html)
+Fundstelle: BGH, Beschluss vom 18.12.2012 – X ZR 7/12
+
+*Tags: Rechtsprechung, BGH, Besichtigung, Vorlage*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Das Gericht muss die Vorlage einer Urkunde ([§ 142 ZPO](https://www.gesetze-im-internet.de/zpo/__142.html)) oder die Begutachtung eines Gegenstands im Besitz der nicht beweisbelasteten Partei ([§ 144 ZPO](https://www.gesetze-im-internet.de/zpo/__144.html)) allenfalls anordnen, wenn die Voraussetzungen eines Anspruchs aus [§ 140c PatG](https://www.gesetze-im-internet.de/patg/__140c.html) vorliegen.
+
+**A:** BGH „Rohrmuffe“ – X ZR 7/12 (2012), BGH, Beschluss vom 18.12.2012 – X ZR 7/12
+
+*Tags: Rechtsprechung, Umkehr, BGH, Besichtigung, Vorlage*
+
+---
+
+## entscheidung
+
+**F:** BGH „Spannungsversorgungsvorrichtung“ (X ZR 109/16, 2019) – Kernaussage?
+
+**A:** Auch nach Verjährung des Schadensersatzanspruchs hat der Verletzer den durch die Verletzung erzielten Gewinn nach Bereicherungsrecht herauszugeben ([§ 141 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__141.html), [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html)) und darüber Rechnung zu legen, einschließlich Gestehungskosten und Werbung.
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html)
+Fundstelle: BGH, Urteil vom 26.03.2019 – X ZR 109/16
+
+*Tags: Rechtsprechung, BGH, Verjährung, Restschadensersatz*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Auch nach Verjährung des Schadensersatzanspruchs hat der Verletzer den durch die Verletzung erzielten Gewinn nach Bereicherungsrecht herauszugeben ([§ 141 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__141.html), [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html)) und darüber Rechnung zu legen, einschließlich Gestehungskosten und Werbung.
+
+**A:** BGH „Spannungsversorgungsvorrichtung“ – X ZR 109/16 (2019), BGH, Urteil vom 26.03.2019 – X ZR 109/16
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verjährung, Restschadensersatz*
+
+---
+
+## entscheidung
+
+**F:** BGH „Aufschlussgerät“ (X ZR 145/23, 2024) – Kernaussage?
+
+**A:** Der auf [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) gestützte Anspruch auf Auskunft und Rechnungslegung verjährt nicht vor dem Hauptanspruch, dem er dient, auch nicht, wenn dieser rechtskräftig festgestellt ist. Bei zusammengesetzten Vorrichtungen erstreckt er sich grundsätzlich auf die mit der Gesamtvorrichtung erzielten Umsätze und Gewinne.
+
+Normen: [§ 139 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__139.html), [§ 141 PatG](https://www.gesetze-im-internet.de/patg/__141.html)
+Fundstelle: BGH, Urteil vom 08.10.2024 – X ZR 145/23
+
+*Tags: Rechtsprechung, BGH, Verjährung, Rechnungslegung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der auf [§ 242 BGB](https://www.gesetze-im-internet.de/bgb/__242.html) gestützte Anspruch auf Auskunft und Rechnungslegung verjährt nicht vor dem Hauptanspruch, dem er dient, auch nicht, wenn dieser rechtskräftig festgestellt ist. Bei zusammengesetzten Vorrichtungen erstreckt er sich grundsätzlich auf die mit der Gesamtvorrichtung erzielten Umsätze und Gewinne.
+
+**A:** BGH „Aufschlussgerät“ – X ZR 145/23 (2024), BGH, Urteil vom 08.10.2024 – X ZR 145/23
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verjährung, Rechnungslegung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Fensterflügel“ (X ZR 85/19, 2020) – Kernaussage?
+
+**A:** [§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html) gilt weder unmittelbar noch entsprechend, wenn derselbe Beklagte erneut aus demselben Patent verklagt wird; einer zweiten Klage aus demselben Patent können aber Rechtshängigkeit oder Rechtskraft der ersten entgegenstehen.
+
+Normen: [§ 14 PatG](https://www.gesetze-im-internet.de/patg/__14.html), [§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html)
+Fundstelle: BGH, Urteil vom 03.11.2020 – X ZR 85/19
+
+*Tags: Rechtsprechung, BGH, Verletzungsprozess, Klagenkonzentration*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+[§ 145 PatG](https://www.gesetze-im-internet.de/patg/__145.html) gilt weder unmittelbar noch entsprechend, wenn derselbe Beklagte erneut aus demselben Patent verklagt wird; einer zweiten Klage aus demselben Patent können aber Rechtshängigkeit oder Rechtskraft der ersten entgegenstehen.
+
+**A:** BGH „Fensterflügel“ – X ZR 85/19 (2020), BGH, Urteil vom 03.11.2020 – X ZR 85/19
+
+*Tags: Rechtsprechung, Umkehr, BGH, Verletzungsprozess, Klagenkonzentration*
+
+---
+
+## entscheidung
+
 **F:** EuGH „PepsiCo/Grupo Promer (Tazos)“ (C-281/10 P, 2011) – Kernaussage?
 
 **A:** Der informierte Benutzer steht zwischen dem Durchschnittsverbraucher und dem Fachmann: Er kennt verschiedene Muster des Sektors, weiß, welche Elemente sie üblicherweise aufweisen, und benutzt die Erzeugnisse mit vergleichsweise großer Aufmerksamkeit. Der Gesamteindruck ist nach Möglichkeit durch direkten Vergleich der Muster zu ermitteln; ein Vergleich aus der Erinnerung ist nur zulässig, wo der direkte Vergleich nicht praktikabel ist. Eine geringe Gestaltungsfreiheit führt dazu, dass schon kleine Unterschiede einen anderen Gesamteindruck erzeugen.
@@ -20559,7 +23360,7 @@ Soll nach der Beschreibung ein Hell-Dunkel-Kontrast geschützt werden und zeigt 
 **A:** Auch der Inhaber eines jüngeren eingetragenen Gemeinschaftsgeschmacksmusters ist „Dritter“ im Sinne des [Art. 19 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701): Der Inhaber des älteren Musters kann ihn auf Unterlassung in Anspruch nehmen, ohne zuvor die Nichtigerklärung des jüngeren Musters zu erwirken. Das Prioritätsprinzip gilt auch dann, wenn der Inhaber des jüngeren Musters bei der Anmeldung gutgläubig war.
 
 Normen: [Art. 10 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 19 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 25 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
-Fundstelle: GRUR 2012, 506
+Fundstelle: GRUR 2012, 510
 
 *Tags: Rechtsprechung, EuGH, Verletzung, Jüngeres Muster, Priorität*
 
@@ -20571,7 +23372,7 @@ Fundstelle: GRUR 2012, 506
 
 Auch der Inhaber eines jüngeren eingetragenen Gemeinschaftsgeschmacksmusters ist „Dritter“ im Sinne des [Art. 19 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701): Der Inhaber des älteren Musters kann ihn auf Unterlassung in Anspruch nehmen, ohne zuvor die Nichtigerklärung des jüngeren Musters zu erwirken. Das Prioritätsprinzip gilt auch dann, wenn der Inhaber des jüngeren Musters bei der Anmeldung gutgläubig war.
 
-**A:** EuGH „Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento“ – C-488/10 (2012), GRUR 2012, 506
+**A:** EuGH „Celaya Emparanza y Galdos/Proyectos Integrales de Balizamiento“ – C-488/10 (2012), GRUR 2012, 510
 
 *Tags: Rechtsprechung, Umkehr, EuGH, Verletzung, Jüngeres Muster, Priorität*
 
@@ -21024,6 +23825,256 @@ Gegenstand des Nachahmungsschutzes nach [§ 4 Nr. 3 UWG](https://www.gesetze-im-
 **A:** BGH „Glück“ – I ZR 126/22 (2023), BGH, Urteil vom 07.12.2023 – I ZR 126/22
 
 *Tags: Rechtsprechung, Umkehr, BGH, UWG, Nachahmung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gebäckpresse“ (I ZR 126/06, 2008) – Kernaussage?
+
+**A:** Ein nicht eingetragenes Gemeinschaftsgeschmacksmuster entsteht nur, wenn das Muster der Öffentlichkeit erstmals innerhalb der Union zugänglich gemacht wird; eine Veröffentlichung außerhalb der Union (hier: im chinesischen Musterregister) genügt nicht, auch wenn die Fachkreise in der Union sie kennen konnten ([Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Dieselbe Veröffentlichung kann aber nach [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) neuheitsschädlich sein, wenn sie den in der Union tätigen Fachkreisen im normalen Geschäftsverlauf bekannt sein konnte.
+
+Normen: [Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 5 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__5.html)
+Fundstelle: BGH, Urteil vom 09.10.2008 – I ZR 126/06 – Gebäckpresse (GRUR 2009, 79)
+
+*Tags: Rechtsprechung, BGH, Nicht eingetragenes Muster, Offenbarung, Drittstaat*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein nicht eingetragenes Gemeinschaftsgeschmacksmuster entsteht nur, wenn das Muster der Öffentlichkeit erstmals innerhalb der Union zugänglich gemacht wird; eine Veröffentlichung außerhalb der Union (hier: im chinesischen Musterregister) genügt nicht, auch wenn die Fachkreise in der Union sie kennen konnten ([Art. 11 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). Dieselbe Veröffentlichung kann aber nach [Art. 7 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) neuheitsschädlich sein, wenn sie den in der Union tätigen Fachkreisen im normalen Geschäftsverlauf bekannt sein konnte.
+
+**A:** BGH „Gebäckpresse“ – I ZR 126/06 (2008), BGH, Urteil vom 09.10.2008 – I ZR 126/06 – Gebäckpresse (GRUR 2009, 79)
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nicht eingetragenes Muster, Offenbarung, Drittstaat*
+
+---
+
+## entscheidung
+
+**F:** EuGH „FEIA/Cul de Sac (Auftragsentwurf)“ (C-32/08, 2009) – Kernaussage?
+
+**A:** Die Arbeitgeberregel des [Art. 14 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) gilt nicht für Geschmacksmuster, die im Auftrag eines Dritten entworfen werden. Das Recht auf das Gemeinschaftsgeschmacksmuster steht dann nach [Art. 14 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) dem Entwerfer zu, sofern es nicht vertraglich auf einen Rechtsnachfolger übertragen wurde. Für das eingetragene Design gilt dasselbe: [§ 7 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html) erfasst nur Arbeitnehmer.
+
+Normen: [Art. 14 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 7 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html)
+Fundstelle: GRUR 2009, 867
+
+*Tags: Rechtsprechung, EuGH, Inhaberschaft, Auftragsentwurf*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Die Arbeitgeberregel des [Art. 14 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) gilt nicht für Geschmacksmuster, die im Auftrag eines Dritten entworfen werden. Das Recht auf das Gemeinschaftsgeschmacksmuster steht dann nach [Art. 14 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) dem Entwerfer zu, sofern es nicht vertraglich auf einen Rechtsnachfolger übertragen wurde. Für das eingetragene Design gilt dasselbe: [§ 7 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__7.html) erfasst nur Arbeitnehmer.
+
+**A:** EuGH „FEIA/Cul de Sac (Auftragsentwurf)“ – C-32/08 (2009), GRUR 2009, 867
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Inhaberschaft, Auftragsentwurf*
+
+---
+
+## entscheidung
+
+**F:** BPatG „Kühlergitter-Emblemhalterung“ (30 W (pat) 801/22, 2025) – Kernaussage?
+
+**A:** Willigt die Designinhaberin innerhalb der Widerspruchsfrist in die Löschung ein ([§ 33 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html)), steht das einem sofortigen Anerkenntnis gleich; über [§ 34a Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html) und [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) ist der Rechtsgedanke des [§ 93 ZPO](https://www.gesetze-im-internet.de/zpo/__93.html) anwendbar. Die Kosten trägt dann der Antragsteller, wenn er die Inhaberin nicht zuvor unter Angabe der Nichtigkeitsgründe und mit Frist zum Verzicht aufgefordert hat. Die bloße Berufung auf das Design in der Antwort auf eine markenrechtliche Abmahnung macht die Aufforderung nicht entbehrlich.
+
+Normen: [§ 33 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html), [§ 34a Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html), [§ 34a Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html), [§ 84 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
+Fundstelle: BPatG, Beschluss vom 20.02.2025 – 30 W (pat) 801/22
+
+*Tags: Rechtsprechung, BPatG, Nichtigkeitsverfahren, Kosten, Verzichtsaufforderung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BPatG) steht für folgenden Grundsatz?
+
+Willigt die Designinhaberin innerhalb der Widerspruchsfrist in die Löschung ein ([§ 33 Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html)), steht das einem sofortigen Anerkenntnis gleich; über [§ 34a Abs. 5 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html) und [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) ist der Rechtsgedanke des [§ 93 ZPO](https://www.gesetze-im-internet.de/zpo/__93.html) anwendbar. Die Kosten trägt dann der Antragsteller, wenn er die Inhaberin nicht zuvor unter Angabe der Nichtigkeitsgründe und mit Frist zum Verzicht aufgefordert hat. Die bloße Berufung auf das Design in der Antwort auf eine markenrechtliche Abmahnung macht die Aufforderung nicht entbehrlich.
+
+**A:** BPatG „Kühlergitter-Emblemhalterung“ – 30 W (pat) 801/22 (2025), BPatG, Beschluss vom 20.02.2025 – 30 W (pat) 801/22
+
+*Tags: Rechtsprechung, Umkehr, BPatG, Nichtigkeitsverfahren, Kosten, Verzichtsaufforderung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gegenstandswert Sporthelm“ (I ZB 25/18, 2020) – Kernaussage?
+
+**A:** Der Gegenstandswert im Designnichtigkeitsverfahren ist nach billigem Ermessen zu bestimmen (heute [§ 34a Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html) mit [§ 23 Abs. 3 Satz 2 RVG](https://www.gesetze-im-internet.de/rvg/__23.html)). Maßgeblich ist das wirtschaftliche Interesse des Designinhabers an der Aufrechterhaltung seines Designs; im Regelfall entspricht ein Wert von 50.000 € billigem Ermessen.
+
+Normen: [§ 34a Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)
+Fundstelle: BGH, Beschluss vom 28.05.2020 – I ZB 25/18 – Gegenstandswert Sporthelm (GRUR 2020, 1016)
+
+*Tags: Rechtsprechung, BGH, Nichtigkeitsverfahren, Gegenstandswert*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Gegenstandswert im Designnichtigkeitsverfahren ist nach billigem Ermessen zu bestimmen (heute [§ 34a Abs. 6 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html) mit [§ 23 Abs. 3 Satz 2 RVG](https://www.gesetze-im-internet.de/rvg/__23.html)). Maßgeblich ist das wirtschaftliche Interesse des Designinhabers an der Aufrechterhaltung seines Designs; im Regelfall entspricht ein Wert von 50.000 € billigem Ermessen.
+
+**A:** BGH „Gegenstandswert Sporthelm“ – I ZB 25/18 (2020), BGH, Beschluss vom 28.05.2020 – I ZB 25/18 – Gegenstandswert Sporthelm (GRUR 2020, 1016)
+
+*Tags: Rechtsprechung, Umkehr, BGH, Nichtigkeitsverfahren, Gegenstandswert*
+
+---
+
+## entscheidung
+
+**F:** EuGH „Thomas Philipps/Grüne Welle (Lizenznehmer)“ (C-419/15, 2016) – Kernaussage?
+
+**A:** Der Lizenznehmer kann Ansprüche wegen Verletzung eines eingetragenen Gemeinschaftsgeschmacksmusters geltend machen, auch wenn die Lizenz nicht im Register eingetragen ist ([Art. 33 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). In einem Verletzungsverfahren, das er nach [Art. 32 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) selbst anhängig macht, kann er Ersatz seines eigenen Schadens verlangen.
+
+Normen: [Art. 32 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 33 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 31 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)
+Fundstelle: GRUR 2016, 1163
+
+*Tags: Rechtsprechung, EuGH, Lizenz, Aktivlegitimation*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
+
+Der Lizenznehmer kann Ansprüche wegen Verletzung eines eingetragenen Gemeinschaftsgeschmacksmusters geltend machen, auch wenn die Lizenz nicht im Register eingetragen ist ([Art. 33 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). In einem Verletzungsverfahren, das er nach [Art. 32 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) selbst anhängig macht, kann er Ersatz seines eigenen Schadens verlangen.
+
+**A:** EuGH „Thomas Philipps/Grüne Welle (Lizenznehmer)“ – C-419/15 (2016), GRUR 2016, 1163
+
+*Tags: Rechtsprechung, Umkehr, EuGH, Lizenz, Aktivlegitimation*
+
+---
+
+## entscheidung
+
+**F:** BGH „Gemeinkostenanteil“ (I ZR 246/98, 2000) – Kernaussage?
+
+**A:** Wird Schadensersatz als Herausgabe des Verletzergewinns verlangt, dürfen Gemeinkosten nur abgezogen werden, wenn und soweit sie ausnahmsweise den schutzrechtsverletzenden Gegenständen unmittelbar zugerechnet werden können. Der Verletzer kann nicht einwenden, der Gewinn beruhe teilweise auf eigenen Vertriebsleistungen. Die zum Geschmacksmustergesetz a.F. ergangene Entscheidung prägt die Berechnung nach [§ 42 Abs. 2 Satz 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis heute.
+
+Normen: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html)
+Fundstelle: BGH, Urteil vom 02.11.2000 – I ZR 246/98 – : ja
+
+*Tags: Rechtsprechung, BGH, Schadensersatz, Verletzergewinn*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Wird Schadensersatz als Herausgabe des Verletzergewinns verlangt, dürfen Gemeinkosten nur abgezogen werden, wenn und soweit sie ausnahmsweise den schutzrechtsverletzenden Gegenständen unmittelbar zugerechnet werden können. Der Verletzer kann nicht einwenden, der Gewinn beruhe teilweise auf eigenen Vertriebsleistungen. Die zum Geschmacksmustergesetz a.F. ergangene Entscheidung prägt die Berechnung nach [§ 42 Abs. 2 Satz 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) bis heute.
+
+**A:** BGH „Gemeinkostenanteil“ – I ZR 246/98 (2000), BGH, Urteil vom 02.11.2000 – I ZR 246/98 – : ja
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schadensersatz, Verletzergewinn*
+
+---
+
+## entscheidung
+
+**F:** BGH „Windsor Estate“ (I ZR 93/04, 2007) – Kernaussage?
+
+**A:** Der Schadensersatzanspruch aus einer Schutzrechtsverletzung und der Auskunftsanspruch zu seiner Bezifferung sind zeitlich nicht auf die Zeit ab der ersten nachgewiesenen Verletzungshandlung begrenzt (Aufgabe von BGH Gaby). Zum Markenrecht ergangen, gilt der Satz für alle Schutzrechte mit gleich gebauten Ansprüchen, auch für [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html).
+
+Normen: [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), [§ 46 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)
+Fundstelle: BGH, Urteil vom 19.07.2007 – I ZR 93/04
+
+*Tags: Rechtsprechung, BGH, Schadensersatz, Auskunft, Markenrecht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Schadensersatzanspruch aus einer Schutzrechtsverletzung und der Auskunftsanspruch zu seiner Bezifferung sind zeitlich nicht auf die Zeit ab der ersten nachgewiesenen Verletzungshandlung begrenzt (Aufgabe von BGH Gaby). Zum Markenrecht ergangen, gilt der Satz für alle Schutzrechte mit gleich gebauten Ansprüchen, auch für [§ 42 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html).
+
+**A:** BGH „Windsor Estate“ – I ZR 93/04 (2007), BGH, Urteil vom 19.07.2007 – I ZR 93/04
+
+*Tags: Rechtsprechung, Umkehr, BGH, Schadensersatz, Auskunft, Markenrecht*
+
+---
+
+## entscheidung
+
+**F:** BGH „Produkte zur Wundversorgung“ (I ZB 96/16, 2017) – Kernaussage?
+
+**A:** Ein Unterlassungsgebot, das einen fortdauernden Störungszustand betrifft, verpflichtet mangels abweichender Anhaltspunkte auch zu möglichen und zumutbaren Handlungen zur Beseitigung, auch in einer einstweiligen Verfügung. Im Verfügungsverfahren muss der Schuldner ausgelieferte Ware nicht zurückrufen, seine Abnehmer aber auffordern, sie vorläufig nicht weiterzuvertreiben. Zum Markenrecht ergangen; übertragbar auf [§ 42 Abs. 1](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) und [§ 43 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html).
+
+Normen: [§ 42 Abs. 1 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html), [§ 43 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html)
+Fundstelle: BGH, Beschluss vom 11.10.2017 – I ZB 96/16 – Produkte zur Wundversorgung (GRUR 2018, 292)
+
+*Tags: Rechtsprechung, BGH, Unterlassung, Rückruf, Einstweilige Verfügung*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Ein Unterlassungsgebot, das einen fortdauernden Störungszustand betrifft, verpflichtet mangels abweichender Anhaltspunkte auch zu möglichen und zumutbaren Handlungen zur Beseitigung, auch in einer einstweiligen Verfügung. Im Verfügungsverfahren muss der Schuldner ausgelieferte Ware nicht zurückrufen, seine Abnehmer aber auffordern, sie vorläufig nicht weiterzuvertreiben. Zum Markenrecht ergangen; übertragbar auf [§ 42 Abs. 1](https://www.gesetze-im-internet.de/geschmmg_2004/__42.html) und [§ 43 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__43.html).
+
+**A:** BGH „Produkte zur Wundversorgung“ – I ZB 96/16 (2017), BGH, Beschluss vom 11.10.2017 – I ZB 96/16 – Produkte zur Wundversorgung (GRUR 2018, 292)
+
+*Tags: Rechtsprechung, Umkehr, BGH, Unterlassung, Rückruf, Einstweilige Verfügung*
+
+---
+
+## entscheidung
+
+**F:** BGH „Alles kann besser werden“ (I ZB 80/11, 2012) – Kernaussage?
+
+**A:** Der Auskunftsanspruch gegen Dritte, die in gewerblichem Ausmaß für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbringen (hier [§ 101 Abs. 2 Satz 1 Nr. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html)), setzt nicht voraus, dass die Rechtsverletzung selbst ein gewerbliches Ausmaß hat. Die Vorschrift ist wortgleich mit [§ 46 Abs. 2 Satz 1 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html).
+
+Normen: [§ 46 Abs. 2 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html)
+Fundstelle: BGH, Beschluss vom 19.04.2012 – I ZB 80/11
+
+*Tags: Rechtsprechung, BGH, Auskunft, Drittauskunft, Urheberrecht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Der Auskunftsanspruch gegen Dritte, die in gewerblichem Ausmaß für rechtsverletzende Tätigkeiten genutzte Dienstleistungen erbringen (hier [§ 101 Abs. 2 Satz 1 Nr. 3 UrhG](https://www.gesetze-im-internet.de/urhg/__101.html)), setzt nicht voraus, dass die Rechtsverletzung selbst ein gewerbliches Ausmaß hat. Die Vorschrift ist wortgleich mit [§ 46 Abs. 2 Satz 1 Nr. 3 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__46.html).
+
+**A:** BGH „Alles kann besser werden“ – I ZB 80/11 (2012), BGH, Beschluss vom 19.04.2012 – I ZB 80/11
+
+*Tags: Rechtsprechung, Umkehr, BGH, Auskunft, Drittauskunft, Urheberrecht*
+
+---
+
+## entscheidung
+
+**F:** BGH „PIERRE CARDIN“ (I ZR 217/22, 2024) – Kernaussage?
+
+**A:** Die Befugnis zur Urteilsbekanntmachung ([§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)) kann der obsiegenden Partei nicht nur bei Unterlassungsklagen, sondern auch bei Klagen auf Auskunft, Rechnungslegung und Feststellung der Schadensersatzpflicht zugesprochen werden. Das berechtigte Interesse steht unter dem Vorbehalt der Verhältnismäßigkeit; einzustellen sind unter anderem der Zeitablauf seit der Verletzung und die Marktverwirrung. [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) ist gleich gefasst.
+
+Normen: [§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html), [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html)
+Fundstelle: BGH, Versäumnisurteil vom 22.02.2024 – I ZR 217/22
+
+*Tags: Rechtsprechung, BGH, Urteilsbekanntmachung, Markenrecht*
+
+---
+
+## entscheidung_r
+
+**F:** Welche Entscheidung (BGH) steht für folgenden Grundsatz?
+
+Die Befugnis zur Urteilsbekanntmachung ([§ 19c MarkenG](https://www.gesetze-im-internet.de/markeng/__19c.html)) kann der obsiegenden Partei nicht nur bei Unterlassungsklagen, sondern auch bei Klagen auf Auskunft, Rechnungslegung und Feststellung der Schadensersatzpflicht zugesprochen werden. Das berechtigte Interesse steht unter dem Vorbehalt der Verhältnismäßigkeit; einzustellen sind unter anderem der Zeitablauf seit der Verletzung und die Marktverwirrung. [§ 47 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__47.html) ist gleich gefasst.
+
+**A:** BGH „PIERRE CARDIN“ – I ZR 217/22 (2024), BGH, Versäumnisurteil vom 22.02.2024 – I ZR 217/22
+
+*Tags: Rechtsprechung, Umkehr, BGH, Urteilsbekanntmachung, Markenrecht*
 
 ---
 
@@ -24908,6 +27959,18 @@ In 4 Entscheidungen des EPG zitiert.
 
 ---
 
+**F:** Was regelt [R. 141 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Inhalt des Antrags auf Offenlegung der Bücher)?
+
+**A:** Inhalt des Antrags auf Offenlegung der Bücher
+
+Hat der Antragsteller einen Antrag gemäß [Regel 131.1(c)](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) gestellt, gelten die Regeln 134 bis 136 entsprechend. Der Antrag muss enthalten: (a) die Angaben gemäß [Regel 131.1(a)](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) und (b), (b) genaue Angaben zu den vom Gericht angeforderten Informationen, welche die andere Partei gemäß [Regel 191](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) übermittelt hat, (c) eine Beschreibung der im Besitz der unterlegenen Partei befindlichen Informationen, zu denen der Antragsteller Zugang fordert, insbesondere Unterlagen zu mit den patentverletzenden Erzeugnissen erzielten Umsätzen und Gewinnen oder zum Umfang der Anwendung des patentverletzenden Verfahren …
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
 **F:** Was regelt [R. 150 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Gesondertes Verfahren zur Kostenfestsetzung)?
 
 **A:** Gesondertes Verfahren zur Kostenfestsetzung
@@ -25364,6 +28427,18 @@ In 10 Entscheidungen des EPG zitiert.
 
 ---
 
+**F:** Was regelt [R. 229 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Prüfung der Formerfordernisse der Berufungsschrift)?
+
+**A:** Prüfung der Formerfordernisse der Berufungsschrift
+
+Die Kanzlei prüft nach Einreichung der Berufungsschrift so bald wie möglich, ob die Anforderungen der Regeln 224.1, 225, 227 und 228 erfüllt sind.
+
+In 20 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
 **F:** Was regelt [R. 237 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Anschlussberufung)?
 
 **A:** Anschlussberufung
@@ -25600,6 +28675,18 @@ In 8 Entscheidungen des EPG zitiert.
 
 ---
 
+**F:** Was regelt [R. 305 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Parteiänderung)?
+
+**A:** Parteiänderung
+
+Das Gericht kann auf Antrag einer Partei anordnen, dass eine Person (a) als Partei hinzugefügt wird, (b) als Partei ausscheidet, (c) eine andere Partei ersetzt.
+
+In 23 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
 **F:** Was regelt [R. 313 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Streithilfeantrag)?
 
 **A:** Streithilfeantrag
@@ -25643,6 +28730,18 @@ In 23 Entscheidungen des EPG zitiert.
 Der Berichterstatter oder der Vorsitzende Richter kann von Amts wegen nach Anhörung der Parteien oder auf einen mit einer Begründung versehenen Antrag einer Partei jede Person, die vom Ergebnis des Rechtsstreits betroffen ist, dazu auffordern, dem Gericht innerhalb einer festzusetzenden Frist mitzuteilen, ob sie dem Verfahren als Streithelfer beitreten möchte.
 
 In 8 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, VerfO*
+
+---
+
+**F:** Was regelt [R. 320 VerfO](https://www.unifiedpatentcourt.org/sites/default/files/upc_documents/Consolidated%20Rules%20of%20Procedure%20UPC_DE.pdf) (Wiedereinsetzung in den vorigen Stand)?
+
+**A:** Wiedereinsetzung in den vorigen Stand
+
+Hat eine Partei eine nach dieser Verfahrensordnung oder vom Gericht festgelegte Frist trotz aller gebotenen Sorgfalt aus einem Grund, auf den sie keinen Einfluss hat, versäumt, und als unmittelbare Folge des Fristversäumnisses ein Recht oder ein Rechtsmittel verloren, kann der maßgebliche Spruchkörper des Gerichts auf Antrag dieser Partei eine Wiedereinsetzung in den vorigen Stand gewähren.
+
+In 20 Entscheidungen des EPG zitiert.
 
 *Tags: EPG, VerfO*
 
@@ -27786,6 +30885,16 @@ Auf die Verjährung der Ansprüche wegen Verletzung des Patentrechts finden die 
 Hinweis: Verjährung der Verletzungsansprüche nach den [§§ 194 ff. BGB](https://www.gesetze-im-internet.de/bgb/__194.html) (drei Jahre ab Kenntnis, zehn Jahre absolut); danach Restschadensersatz nach Bereicherungsrecht (S. 2 i.V.m. [§ 852 BGB](https://www.gesetze-im-internet.de/bgb/__852.html)).
 
 In 7 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 141a PatG](https://www.gesetze-im-internet.de/patg/__141a.html) (Verhältnis zur Zollverordnung)?
+
+**A:** Verhältnis zur Zollverordnung
+
+Ansprüche aus anderen gesetzlichen Vorschriften bleiben unberührt.
 
 *Tags: Patentrecht, PatG*
 
@@ -31104,6 +34213,16 @@ Der Inhaber eines eingetragenen Unionsgeschmacksmusters kann die Öffentlichkeit
 Das Unionsgeschmacksmuster kann für das gesamte Gebiet oder einen Teil der Union Gegenstand von Lizenzen sein. Eine Lizenz kann ausschließlich oder nicht ausschließlich sein.
 
 Umsetzung im EPGÜ: [§ 31 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 33 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Wirkung gegenüber Dritten)?
+
+**A:** Wirkung gegenüber Dritten
+
+Die in den Artikeln 28, 29 und 32 bezeichneten Rechtshandlungen hinsichtlich eines Unionsgeschmacksmusters haben gegenüber Dritten in allen Mitgliedstaaten erst Wirkung, wenn sie in das Register eingetragen worden sind. Gleichwohl kann eine Rechtshandlung, die noch nicht eingetragen ist, Dritten entgegengehalten werden, die Rechte an dem eingetragenen Unionsgeschmacksmuster nach dem Zeitpunkt der Rechtshandlung erworben haben, aber zum Zeitpunkt des Erwerbs dieser Rechte von der Rechtshandlung Kenntnis hatten.
 
 *Tags: Designrecht, GGV*
 

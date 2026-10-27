@@ -118,7 +118,7 @@ CASES = [
       "Ein Mittel bezieht sich auf ein wesentliches Element der Erfindung, wenn es geeignet ist, mit einem oder mehreren Anspruchsmerkmalen bei der Verwirklichung der Lehre funktional zusammenzuwirken; die subjektiven Voraussetzungen der mittelbaren Verletzung (Wissen oder Offensichtlichkeit) sind aus der Sicht des Anbieters zu prüfen.",
       norms=["§ 10 Abs. 1 PatG", "§ 9 PatG"], concepts=["pat_mittelbare_verletzung"], tags=["Verletzung", "Mittelbare Verletzung"]),
     e("pat_bgh_fraesverfahren", "Fräsverfahren", BGH, "2013-05-07", "X ZR 69/11",
-      "Bei mittelbarer Patentverletzung setzt die Feststellung der Schadensersatzpflicht die Wahrscheinlichkeit voraus, dass der Abnehmer die Erfindung unmittelbar benutzt hat; der Schaden liegt in der unmittelbaren Benutzung, nicht schon in der Lieferung.",
+      "Die für die Feststellung der Schadensersatzpflicht nötige Schadenswahrscheinlichkeit ist bei mittelbarer Patentverletzung in der Regel schon zu bejahen, wenn zumindest eine rechtswidrige und schuldhafte mittelbare Verletzungshandlung stattgefunden hat (Bestätigung von Deckenheizung), auch wenn sie nur im Anbieten eines Mittels nach § 10 Abs. 1 PatG bestand. Solange die Übertragung des Patents nicht eingetragen ist, macht allein der eingetragene Inhaber die Ansprüche gerichtlich geltend (§ 30 Abs. 3 S. 2 PatG); für die Sachlegitimation zählt die materielle Rechtslage.",
       norms=["§ 10 Abs. 1 PatG", "§ 139 Abs. 2 PatG"], concepts=["pat_mittelbare_verletzung", "pat_schadensersatz"], tags=["Mittelbare Verletzung", "Schadensersatz"]),
     e("pat_bgh_abgasreinigungsvorrichtung", "Abgasreinigungsvorrichtung", BGH, "2005-07-05", "X ZR 14/03",
       "Die sinnfällige Herrichtung einer Vorrichtung zur Ausübung eines patentierten Verfahrens ist noch keine Anwendung des Verfahrens (§ 9 S. 2 Nr. 2 PatG); sie kann aber Anbieten zur Anwendung oder mittelbare Verletzung sein.",
@@ -136,8 +136,8 @@ CASES = [
       "Ist nach dem geschützten Verfahren ein Halbzeug in bestimmter Weise zu bearbeiten, erstreckt sich der Schutz des unmittelbaren Verfahrenserzeugnisses auf das bearbeitete Halbzeug, nicht ohne weiteres auf das aus ihm hergestellte Endprodukt.",
       norms=["§ 9 PatG"], concepts=["pat_verfahrenserzeugnis"], tags=["Verletzung", "Verfahrenserzeugnis"]),
     e("pat_bgh_tintenpatrone", "Tintenpatrone", BGH, "2008-05-20", "X ZR 180/05",
-      "Der Unterlassungsanspruch aus dem Patent besteht auch gegen den Vertrieb von Erzeugnissen, die der Patentinhaber oder mit seiner Zustimmung ein Dritter außerhalb des EWR in Verkehr gebracht hat; die Erschöpfung ist auf das Inverkehrbringen im EWR beschränkt.",
-      norms=["§ 9 PatG", "§ 139 Abs. 1 PatG"], concepts=["pat_erschoepfung", "pat_unterlassung"], tags=["Erschöpfung", "Parallelimport"]),
+      "Der Patentinhaber behält den Unterlassungsanspruch gegen den Verletzer, auch wenn er eine ausschließliche Lizenz vergeben hat. Er kann den Verletzer unabhängig vom Lizenznehmer auf Schadensersatz in Anspruch nehmen (beide sind nicht Mitgläubiger) und hat einen eigenen Anspruch auf Auskunft und Rechnungslegung, um eine Schadensberechnungsart zu wählen und den Anspruch zu beziffern.",
+      norms=["§ 139 Abs. 1 PatG", "§ 139 Abs. 2 PatG", "§ 15 Abs. 2 PatG"], concepts=["pat_unterlassung", "pat_schadensersatz"], tags=["Aktivlegitimation", "Lizenz", "Schadensersatz"]),
     e("pat_bgh_raffvorhang", "Raffvorhang", BGH, "2011-01-25", "X ZR 69/08",
       "Gleichartig im Sinne der Klagekonzentration des § 145 PatG sind nur Handlungen, die gegenüber der zuerst angegriffenen Handlung zusätzliche oder abgewandelte Merkmale aufweisen; die Vorschrift ist eng auszulegen.",
       norms=["§ 145 PatG"], concepts=["pat_klagekonzentration"], tags=["Verletzungsprozess"]),
@@ -210,8 +210,8 @@ CASES = [
       "Die Prüfung der Patentfähigkeit im Nichtigkeitsverfahren setzt regelmäßig eine Auslegung des Anspruchs voraus, die seinen Sinngehalt in der Gesamtheit und den Beitrag der einzelnen Merkmale zum Leistungsergebnis bestimmt; das Nichtigkeitsurteil muss diese Auslegung erkennen lassen.",
       norms=["§ 81 PatG", "§ 14 PatG"], concepts=["pat_nichtigkeitsklage", "pat_auslegung"], tags=["Nichtigkeit", "Auslegung"]),
     e("pat_bgh_walzstrasse", "Walzstraße", BGH, "2013-05-28", "X ZR 21/12",
-      "Lässt das Patentgericht im Hinweis nach § 83 Abs. 1 PatG erkennen, dass es einen Angriff des Nichtigkeitsklägers für unbegründet hält, muss der Kläger neue Angriffsmittel innerhalb der gesetzten Frist vorbringen; in der Berufung sind sie nach § 117 PatG ausgeschlossen, wenn die Verspätung auf Nachlässigkeit beruht.",
-      norms=["§ 83 PatG", "§ 117 PatG"], concepts=["pat_nichtigkeitsklage", "pat_qualifizierter_hinweis", "pat_nichtigkeitsberufung"], tags=["Nichtigkeit", "Präklusion"]),
+      "Lässt das Patentgericht im Hinweis nach § 83 Abs. 1 PatG erkennen, dass es die Argumentation des Nichtigkeitsklägers in einem Punkt für zutreffend hält, hat der Kläger in der Regel keine Veranlassung, dazu in erster Instanz weitere Angriffsmittel vorzutragen; sie sind in der Berufung nicht wegen Nachlässigkeit ausgeschlossen. Die erstmals in der Berufung verteidigte geänderte Fassung ist nach § 116 Abs. 2 PatG in der Regel zulässig, wenn der Beklagte damit einer abweichenden Rechtsauffassung des BGH Rechnung trägt und das Patent auf das beschränkt, was nach Auffassung des Patentgerichts schon aus der erteilten Fassung folgte.",
+      norms=["§ 83 PatG", "§ 116 Abs. 2 PatG", "§ 117 PatG"], concepts=["pat_nichtigkeitsklage", "pat_qualifizierter_hinweis", "pat_nichtigkeitsberufung"], tags=["Nichtigkeit", "Präklusion"]),
     e("pat_bgh_fahrzeugscheibe_ii", "Fahrzeugscheibe II", BGH, "2016-06-21", "X ZR 41/14",
       "Die hilfsweise Verteidigung mit geänderten Ansprüchen in der Berufungsinstanz ist sachdienlich, wenn das Patentgericht den Beklagten erst in der mündlichen Verhandlung mit einer vom Hinweis abweichenden Beurteilung konfrontiert hat.",
       norms=["§ 116 Abs. 2 PatG", "§ 83 PatG"], concepts=["pat_nichtigkeitsberufung", "pat_beschraenkte_verteidigung"], tags=["Nichtigkeit", "Berufung"]),
@@ -362,3 +362,7 @@ CASES = [
       "Eine Nachanmeldung betrifft nur dann dieselbe Erfindung wie die Voranmeldung, wenn die beanspruchte Merkmalskombination dem Fachmann in der Voranmeldung in ihrer Gesamtheit als zur angemeldeten Erfindung gehörend offenbart ist; Einzelmerkmale verschiedener Priorität können nicht in einem Anspruch kombiniert werden.",
       norms=["§ 40 PatG", "§ 41 PatG"], concepts=["pat_prioritaet", "pat_offenbarung"], tags=["Priorität", "Prüfungsrichtlinien"]),
 ]
+
+# Leitentscheidungen der Normkurse (eigene Module, damit die Kapitel unabhängig gepflegt werden können)
+from . import cases_p03a as _p03a, cases_p03b as _p03b  # noqa: E402
+CASES += _p03a.CASES + _p03b.CASES

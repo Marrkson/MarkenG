@@ -455,3 +455,37 @@ Einrichtung des Dienstes, einmalig vom Betreiber:
    stündlich `{"geprueft":…,"gesendet":…}`. Für einen Sofort-Test die Stunde im Profil auf die kommende volle Stunde stellen.
 Nutzer: iPhone → Safari „Zum Home-Bildschirm“, von dort öffnen → Profil → Erinnerung → Uhrzeit wählen → „Erinnerung einschalten“.
 Rauchtest prüft Tagesziel-Karte, XP-Zeile im Ergebnis, Streak-Zählung beim Erreichen des Ziels und die Profilabschnitte.
+
+## 15. Normkurse und Fallketten (Jurafuchs-Format, Oktober 2026)
+
+**Vorbild.** Jurafuchs ordnet nach Anspruchsgrundlagen: Rechtsgebiet „Deliktsrecht“ → Kapitel „§ 823 Abs. 1 BGB“ (58 Fälle) → Fälle in der
+Reihenfolge der Tatbestandsmerkmale (Rechtsgut, Handlung, Kausalität, Rechtswidrigkeit, Verschulden, Schaden). Ein Fall hat zwei bis vier Sätze
+Sachverhalt und danach mehrere kurze Fragen. Abwandlungen sind eigene Fälle oder Fragen („Samenzellen I – materieller Schaden“, „II –
+Schmerzensgeld“). IPelico übernimmt das so: Gebiet → Normkurs → Kapitel je Vorschrift → `abschnitt` je Absatz/Tatbestandsmerkmal → Fallketten.
+
+**Auswahl der Vorschriften aus der Rechtsprechung.** `python3 tools/norm_ranking.py` (Datenbank; `--no-db` aus den Korpus-JSONs) zählt je
+Paragraph und Absatz, wie viele Entscheidungen ihn auslegen (`DeCourtNorm.interpreted`), davon BGH, und schreibt die führenden Entscheidungen mit
+Leitsatz nach `data/norm_ranking.json`; für EPGÜ/VerfO zählt es die Zitate aus `data/upc_decisions.json` (Berufungsgericht zuerst). Kapitel
+entstehen für die oberen Plätze. Daneben stehen immer die Anspruchsgrundlagen der Verletzungsklage, auch wenn sie seltener ausgelegt werden. Beim
+BPatG dominieren Verfahrensnormen (§§ 73, 79, 123 PatG), beim BGH § 4, § 14, § 9, § 10 und § 139 PatG; deshalb beide Spalten (`ausgelegt`, `bgh`)
+ansehen. Kurse: `p03_patg_normen.py` (Kapitel aus `_p03_rechtsbestand.py` und `_p03_verletzung.py`, sortiert nach `order` = Paragraph × 100),
+`d02_designg_normen.py`. Neue Entscheidungen der Normkurse stehen in eigenen Modulen (`patent/cases_p03a.py`, `cases_p03b.py`,
+`design/cases_d02.py`, `upc/cases_ua.py`, `cases_ub.py`; EPG-Helfer `ev` prüft Aktenzeichen und Datum gegen den Korpus).
+
+**Fallketten.** `fallkette(id, titel, sachverhalt, [frage(…), …], abschnitt=…)` (`kurse/_helpers.py`) erzeugt aus einem Sachverhalt zwei bis sechs
+Einheiten (`<id>a`, `<id>b`, …) mit gemeinsamem `gruppe`-Feld. Jede Frage ist eine eigene Ja/Nein- oder MC-Einheit und wird einzeln bewertet und
+wiederholt. `abwandlung` ändert den Sachverhalt ab dieser Frage. Die App zeigt den Falltitel, „Frage i von n“ mit Fortschrittspunkten, den Sachverhalt
+und die bisherigen Abwandlungen. Der Knopf heißt „Nächste Frage“, solange der Fall weitergeht. In der Kapitelliste stehen die Fragen eingerückt unter
+dem Falltitel, Abschnitte als Zwischenüberschrift. Unit-IDs nur aus Buchstaben, Ziffern und `-`, weil `_` und `.` die Felder im Fortschritts-Cookie trennen.
+
+**Längengrenzen.** Für Fallketten und Kurse mit `kompakt=True` (p03, d02) prüft `kurse/__init__.py` beim Import die Grenzen in `LIMITS`:
+Sachverhalt höchstens 70 Wörter, Frage 35, Lösung 90 (alle Absätze), Abwandlung 35, Merke 30, MC-Option 30, Intro/Schema-Text 130. Zielwerte
+sind Sachverhalt 25 bis 50 und Lösung 35 bis 70 Wörter. Anlass waren die EPG-Kurse: Sachverhalt mit Frage hatte dort im Median 70 bis 90 Wörter,
+die Lösung 120 bis 190; in den Markenkursen sind es 32 und 60. Die EPG-Kurse tragen `kompakt="fragen"`: Ihre Einführungen und Kapitel
+bleiben ausführlich (Rückmeldung des Nutzers: zu lang und zu schwer waren die Fragen, nicht die Kapitel), nur die Fragen sind begrenzt. Lange Altfälle
+werden in Fallketten zerlegt, nicht gekürzt. Jede Frage nimmt ein Auslegungselement der Kernnorm des Kapitels auf: Bedeutung eines Merkmals,
+Maßstab, Beweislast, Grenzfall. Abwandlungen zeigen die Grenzen der Auslegung. So bekommt der Lernende ein Gefühl dafür, wie das Gericht die Norm
+auslegt, und lernt nicht nur das Ergebnis eines Falls.
+
+**Fortschritt.** Der Cookie `mgk_p` wächst mit jeder beantworteten Einheit. Browser verwerfen Cookies über 4 KB stillschweigend. Über 3.800
+Zeichen schreibt `Store` deshalb in den localStorage; gelesen wird der längere der beiden Stände. Der Rauchtest prüft beides.

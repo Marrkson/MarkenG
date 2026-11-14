@@ -8,7 +8,7 @@ und Leitentscheidungen von BGH, EuGH, BPatG, EPG und den Beschwerdekammern des E
 
 | Pfad | Inhalt |
 |---|---|
-| `docs/index.html` | **IPelico**, der Fallkurs: 32 Kurse in fünf Rechtsgebieten zur Auswahl (EU und internationales Recht, Marken, Patent, DesignG, Einheitliches Patentgericht), 166 Kapitel, 1.884 Lerneinheiten (1.437 Ja/Nein-Fragen, 270 Auswahlfragen, 60 Prüfungsschemata, 117 Einführungen; davon 355 Fallketten im Jurafuchs-Format: kurzer Sachverhalt, mehrere Fragen, Abwandlungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie (über 4 KB im localStorage); Gestaltung nach `DESIGN.md` |
+| `docs/index.html` | **IPelico**, der Fallkurs: 37 Kurse in fünf Rechtsgebieten zur Auswahl (EU und internationales Recht, Marken, Patent, DesignG, Einheitliches Patentgericht), 214 Kapitel, 2.593 Lerneinheiten (1.860 Ja/Nein-Fragen, 458 Auswahlfragen, 60 Prüfungsschemata, 215 Einführungen; davon 429 Fallketten im Jurafuchs-Format: kurzer Sachverhalt, mehrere Fragen, Abwandlungen), sofortiges Feedback, Wiederholung, Streak und Punkte; Fortschritt per Cookie (über 4 KB im localStorage); Gestaltung nach `DESIGN.md` |
 | `docs/en/index.html` | **IPelico auf Englisch** für das Gebiet EPG und den EPÜ-Kurs: 11 Kurse, 871 Einheiten, Lernkarten mit dem amtlichen englischen Wortlaut von EPGÜ, VerfO (Fassung 2022), EPatVO, EPatÜVO, DOEPS, GebOEPS, DurchsetzungsRL und EPÜ, EPG-Rechtsprechung und Rechtsprechung der Beschwerdekammern; Fortschritt mit der deutschen App geteilt (PLAYBOOK 17) |
 | `docs/didaktik.md` | Didaktisches Konzept von IPelico und Kursaufbau |
 | `DESIGN.md`, `src/templates/ipelico/` | Gestaltungsrichtlinie (Glas-Stil, Rhein-IP-Blau, Zeichen, Icons, Schriften) und die Assets dazu; `tools/gen_assets.py` erzeugt die Icons |
@@ -123,6 +123,7 @@ das IntPatÜG (Art. II §§ 15 bis 20 ↔ EPatVO, EPGÜ) mit den beiden anderen 
   (`data/dpma_pruefungsrichtlinien.json` aus `tools/fetch_pruefungsrichtlinien.py`) und hängen als „Quellen“ an den Patent-Begriffen;
   dazu die Schemata „Prüfungsverfahren nach den Prüfungsrichtlinien“ und „Programmbezogene Erfindung: dreistufige Prüfung“ sowie 24
   weitere BGH-/BPatG-Entscheidungen aus den Fußnoten der Richtlinien (gegen den Korpus geprüft).
+- **Reihe „Anspruchsgrundlagen für die Klausur“** (November 2026): fünf Kurse, ein Kapitel je Anspruchsgrundlage bzw. Rechtsbehelf mit Prüfungsschema in Lösungssprache (AGL → V1 … mit Norm → ⇒), Definitionen mit Quelle, Drill zu Normenketten und Fristen (Frist · Berechnung · Verschiebung) und Klausurfällen in Schemareihenfolge: p05 Patent (14 Kapitel, 242 Einheiten), p06 Gebrauchsmuster (7, 107), k15 Marken (11, 134), d03 Design (8, 108), p07 ArbnErfG (8, 118). Grundlage sind die Klausurlösungen unter `klausuren/loesungen/`; die zugehörige Liste der klausurrelevanten Normen und Definitionen steht in `klausuren/normenliste.md`.
 - **Kurs „Klausurtraining TS“** (Rechtsgebiet Patent, Reihe „Verfahren und Klausur“, neben dem NS-Training im Gebiet Marken): 61 Einheiten in neun Kapiteln aus den
   23 TS-Klausuren der Patentanwaltsprüfung 2018 bis 2025; Klausurliste in `klausuren/README.md`.
 

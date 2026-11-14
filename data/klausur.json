@@ -268,8 +268,14 @@
    "norm": "§ 47"
   },
   {
+   "nr": "401 100",
+   "tatbestand": "Beschwerde zum BPatG in Verfalls- und Nichtigkeitsverfahren (Nr. 401 100 Ziff. 3 Anlage PatKostG)",
+   "betrag": "500 €",
+   "norm": "§ 66"
+  },
+  {
    "nr": "401 300",
-   "tatbestand": "Beschwerde zum BPatG in Markensachen",
+   "tatbestand": "Beschwerde zum BPatG in Markensachen in anderen Fällen (Anmeldung, Widerspruch)",
    "betrag": "200 €",
    "norm": "§ 66"
   },
@@ -856,7 +862,7 @@
    "gericht": 1
   },
   "fristen": 14,
-  "gebuehren": 11,
+  "gebuehren": 12,
   "tenor": 12
  }
 }

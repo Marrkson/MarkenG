@@ -1175,7 +1175,7 @@ KAPITEL = [
               "dem Zeitrang bleiben außer Betracht (**Neuheitsschonfrist**, § 3 Abs. 1 S. 3 GebrMG). Neuheit und erfinderischen Schritt prüft "
               "das DPMA bei der Eintragung nicht; sie werden erst im Löschungs- oder Verletzungsverfahren geklärt.",
               concepts=["pat_gebrauchsmuster", "pat_neuheit", "pat_erfinderische_taetigkeit"],
-              norms=["§ 1 GebrMG", "§ 2 GebrMG", "§ 3 GebrMG"], abschnitt="Überblick"),
+              norms=[], abschnitt="Überblick"),
         *fallkette("p03g1-1", "Der Demonstrationsschrank",
             "D war Inhaberin eines Gebrauchsmusters auf einen Demonstrationsschrank für den naturwissenschaftlichen Unterricht, dessen Kammer von "
             "zwei Vertikalsäulen gehalten wird. Nach Erlöschen streiten die Beteiligten über die Unwirksamkeit. D meint, für den erfinderischen "
@@ -1199,7 +1199,7 @@ KAPITEL = [
                    cases=["pat_bpatg_trocknung_von_klaerschlamm"]),
             ],
             abschnitt="§ 1 GebrMG: Erfinderischer Schritt", level=2, concepts=["pat_gebrauchsmuster", "pat_erfinderische_taetigkeit"],
-            norms=["§ 1 Abs. 1 GebrMG"], cases=["pat_bgh_demonstrationsschrank"]),
+            norms=[], cases=["pat_bgh_demonstrationsschrank"]),
         *fallkette("p03g1-2", "Die Signalfolge",
             "A meldet ein Gebrauchsmuster für ein System zur variablen Tarifierung von Internetgebühren an. Ein Schutzanspruch richtet sich auf "
             "eine Signalfolge, die ein Programm zum Ablauf auf einem Rechner darstellt. Die Gebrauchsmusterstelle weist die Anmeldung insoweit "
@@ -1208,7 +1208,7 @@ KAPITEL = [
                    ["**Ja!** Neuheit, erfinderischen Schritt und gewerbliche Anwendbarkeit prüft das DPMA nicht. Die Ausschlüsse des § 2 GebrMG, "
                     "etwa für **Verfahren**, gehören dagegen zur Eintragungsprüfung (BGH Feldmausbekämpfung)."],
                    merke="Eingetragen wird ungeprüft, aber nicht ohne Blick auf § 2 GebrMG.", titel="Prüfung bei Eintragung",
-                   norms=["§ 8 GebrMG"], cases=["pat_bgh_feldmausbekaempfung"]),
+                   norms=[], cases=["pat_bgh_feldmausbekaempfung"]),
              frage("Ist die Signalfolge als Verfahren nach § 2 Nr. 3 GebrMG ausgeschlossen?", False,
                    ["**Nein!** Aus dem Fehlen eines beständigen **körperlichen Substrats** folgt nicht, dass die Erfindung ein Verfahren ist. Einem "
                     "Anspruch auf eine Signalfolge, die ein Programm darstellt, steht § 2 Nr. 3 GebrMG nicht entgegen (BGH Signalfolge)."],
@@ -1221,7 +1221,7 @@ KAPITEL = [
                    cases=["pat_bpatg_lithiumsilikat_glaskeramik"]),
             ],
             abschnitt="§ 2 Nr. 3 GebrMG: Keine Verfahren", level=2, concepts=["pat_gebrauchsmuster", "pat_patentkategorie"],
-            norms=["§ 2 GebrMG"], cases=["pat_bgh_signalfolge"]),
+            norms=[], cases=["pat_bgh_signalfolge"]),
         *fallkette("p03g1-3", "Der importierte Toilettendeckel",
             "T hält ein Gebrauchsmuster auf einen Toilettendeckel aus einer MDF-Kernschicht mit dekorativen Grafik- und Schutzschichten. "
             "Antragstellerin L stützt die Löschung auf baugleiche Deckel, die ein Händler vor dem Zeitrang nach Deutschland importiert hat; "
@@ -1242,7 +1242,7 @@ KAPITEL = [
                    norms=["§ 3 Abs. 1 PatG"]),
             ],
             abschnitt="§ 3 Abs. 1 S. 2 GebrMG: Stand der Technik", level=2, concepts=["pat_gebrauchsmuster", "pat_neuheit"],
-            norms=["§ 3 Abs. 1 GebrMG"], cases=["pat_bpatg_toilettendeckel"]),
+            norms=[], cases=["pat_bpatg_toilettendeckel"]),
         *fallkette("p03g1-4", "Der eigene Fenstersensor",
             "Professor I entwickelt einen Tür- und Fenstersensor mit Reflexlichtschranke. Eine Tochtergesellschaft, deren Geschäftsführer er ist, "
             "stellt das Produkt drei Wochen vor dem Anmeldetag auf ihre Website. Danach meldet die J-AG, deren Vorstand I ist, ein Gebrauchsmuster "
@@ -1264,7 +1264,7 @@ KAPITEL = [
                    norms=["§ 3 Abs. 5 PatG"]),
             ],
             abschnitt="§ 3 Abs. 1 S. 3 GebrMG: Neuheitsschonfrist", level=2, concepts=["pat_gebrauchsmuster", "pat_neuheit"],
-            norms=["§ 3 Abs. 1 GebrMG"], cases=["pat_bpatg_tuer_und_fenstersensor"]),
+            norms=[], cases=["pat_bpatg_tuer_und_fenstersensor"]),
     ]),
     # ================================================================== §§ 15 bis 17 GebrMG
     dict(id="p03g15", order=21500, titel="§§ 15 bis 17 GebrMG: Löschung", einheiten=[
@@ -1278,7 +1278,7 @@ KAPITEL = [
               "Monats**, wird gelöscht (§ 17 Abs. 1 GebrMG); sonst entscheidet die Gebrauchsmusterabteilung durch Beschluss und auch über die "
               "Kosten (§ 17 Abs. 3, 4 GebrMG).",
               concepts=["pat_gebrauchsmuster_loeschung", "pat_gebrauchsmuster"],
-              norms=["§ 15 Abs. 1 GebrMG", "§ 16 GebrMG", "§ 17 Abs. 1 GebrMG", "§ 17 Abs. 4 GebrMG"], abschnitt="Überblick"),
+              norms=[], abschnitt="Überblick"),
         *fallkette("p03g15-1", "Der Löschungsantrag",
             "F hält ein Gebrauchsmuster auf einen Formkörper mit Durchtrittsöffnungen. Antragstellerin A beantragt beim DPMA schriftlich die "
             "Löschung und legt dar, dass derselbe Gegenstand bereits durch ein Patent aus einer früheren Anmeldung geschützt ist.",
@@ -1296,7 +1296,7 @@ KAPITEL = [
                     "nicht rechtzeitig, erfolgt die Löschung ohne Sachprüfung (§ 17 Abs. 1 GebrMG)."],
                    optionen=["Das DPMA prüft die Schutzfähigkeit von Amts wegen", "Die Frist verlängert sich automatisch",
                              "Der Antrag gilt als zurückgenommen", "Das Gebrauchsmuster wird gelöscht"],
-                   merke="Kein Widerspruch, Löschung.", titel="Fehlender Widerspruch", norms=["§ 17 Abs. 1 GebrMG"]),
+                   merke="Kein Widerspruch, Löschung.", titel="Fehlender Widerspruch", norms=[]),
              frage("Muss das BPatG im Beschwerdeverfahren erörtern, dass das ältere Patent theoretisch später für nichtig erklärt werden könnte?", False,
                    ["**Nein!** Stützt das Gericht die Löschung nach § 15 Abs. 1 Nr. 2 GebrMG auf ein älteres Patent, muss es sich mit der **bloß "
                     "theoretischen Möglichkeit** von dessen künftiger Nichtigerklärung nicht auseinandersetzen; ein Begründungsmangel liegt nicht vor "
@@ -1304,7 +1304,7 @@ KAPITEL = [
                    merke="Älteres Schutzrecht zählt, wie es besteht.", titel="Älteres Patent", level=3, norms=["§ 100 Abs. 3 Nr. 6 PatG"]),
             ],
             abschnitt="§ 15 Abs. 1 GebrMG, §§ 16, 17 GebrMG: Antrag und Verfahren", level=1, concepts=["pat_gebrauchsmuster_loeschung"],
-            norms=["§ 15 Abs. 1 Nr. 2 GebrMG", "§ 16 GebrMG"], cases=["pat_bgh_formkoerper_mit_durchtrittsoeffnungen"]),
+            norms=[], cases=["pat_bgh_formkoerper_mit_durchtrittsoeffnungen"]),
         *fallkette("p03g15-2", "Das eingefügte Druckermerkmal",
             "T hält ein Gebrauchsmuster auf einen Tintenstrahldrucker. Schutzanspruch 1 enthält ein Merkmal, das in der ursprünglichen "
             "Anmeldung nicht als zur Erfindung gehörend offenbart war; es engt den Gegenstand aber nur ein. Antragstellerin E beantragt die "
@@ -1322,10 +1322,10 @@ KAPITEL = [
              frage("Kann das Gebrauchsmuster teilweise gelöscht werden, wenn nur einzelne Schutzansprüche nicht schutzfähig sind?", True,
                    ["**Ja!** Betreffen die Löschungsgründe nur einen Teil, wird nur in diesem Umfang gelöscht; die Beschränkung kann durch Änderung "
                     "der Schutzansprüche erfolgen (§ 15 Abs. 3 GebrMG)."],
-                   merke="Teillöschung durch geänderte Schutzansprüche.", titel="Teillöschung", norms=["§ 15 Abs. 3 GebrMG"]),
+                   merke="Teillöschung durch geänderte Schutzansprüche.", titel="Teillöschung", norms=[]),
             ],
             abschnitt="§ 15 Abs. 1 Nr. 3, Abs. 3 GebrMG: Erweiterung und Teillöschung", level=2,
-            concepts=["pat_gebrauchsmuster_loeschung", "pat_unzulaessige_erweiterung"], norms=["§ 15 Abs. 1 Nr. 3 GebrMG"],
+            concepts=["pat_gebrauchsmuster_loeschung", "pat_unzulaessige_erweiterung"], norms=[],
             cases=["pat_bgh_tintenstrahldrucker"]),
         *fallkette("p03g15-3", "Der Holzkohlegrill",
             "G mahnt Händlerin H aus einem Gebrauchsmuster auf einen Grill mit Holzkohlekammer ab. H kündigt einen Löschungsantrag an. Daraufhin "
@@ -1346,10 +1346,10 @@ KAPITEL = [
                     "Inhaber sein Schutzbegehren schon **vor dem Antrag** auf die neuen Ansprüche beschränkt, fehlte insoweit der **Anlass** zum "
                     "Löschungsantrag (BGH Tischgrill)."],
                    merke="Vorab beschränkt: kein Anlass, Antragsteller trägt die Kosten.", titel="Kosten bei Anerkenntnis", level=3,
-                   norms=["§ 17 Abs. 4 GebrMG", "§ 84 Abs. 2 PatG"], concepts=["pat_kostenerstattung"]),
+                   norms=["§ 84 Abs. 2 PatG"], concepts=["pat_kostenerstattung"]),
             ],
             abschnitt="§ 17 Abs. 4 GebrMG: Verteidigung und Kosten", level=2, concepts=["pat_gebrauchsmuster_loeschung"],
-            norms=["§ 15 Abs. 3 GebrMG", "§ 17 Abs. 4 GebrMG"], cases=["pat_bgh_tischgrill"]),
+            norms=[], cases=["pat_bgh_tischgrill"]),
         *fallkette("p03g15-4", "Die entnommene Vorrichtung",
             "B meint, das Gebrauchsmuster des C auf eine Vorrichtung zur Immobilisierung beruhe auf ihrer Erfindung, und beantragt die Löschung "
             "wegen widerrechtlicher Entnahme. Während der Beschwerde erlischt das Gebrauchsmuster; C stellt B von allen Ansprüchen frei. B "
@@ -1357,7 +1357,7 @@ KAPITEL = [
             [frage("Kann sich nur B auf die widerrechtliche Entnahme stützen?", True,
                    ["**Ja!** Im Fall der widerrechtlichen Entnahme (§ 13 Abs. 2 GebrMG) steht der Löschungsanspruch **nur dem Verletzten** zu "
                     "(§ 15 Abs. 2 GebrMG)."],
-                   merke="Entnahme: nur der Verletzte.", titel="Antragsbefugnis bei Entnahme", norms=["§ 13 Abs. 2 GebrMG"]),
+                   merke="Entnahme: nur der Verletzte.", titel="Antragsbefugnis bei Entnahme", norms=[]),
              frage("Ist die Hauptsache nach Erlöschen und Freistellung erledigt?", True,
                    ["**Ja!** Mit Erlöschen und Freistellung tritt **Erledigung der Hauptsache** ein, auch beim Löschungsgrund der Entnahme. "
                     "Verfolgt B die Löschung oder Feststellung der Unwirksamkeit weiter, ist ihre Beschwerde **mangels Beschwer** unzulässig (BPatG "
@@ -1371,6 +1371,6 @@ KAPITEL = [
                    cases=["pat_bpatg_doppelvertretung_gebrauchsmuster", "pat_bgh_doppelvertretung_i"]),
             ],
             abschnitt="§ 15 Abs. 2 GebrMG, § 17 GebrMG: Entnahme, Erledigung, Kosten", level=2, concepts=["pat_gebrauchsmuster_loeschung"],
-            norms=["§ 15 Abs. 2 GebrMG"], cases=["pat_bpatg_immobilisierung_erledigung"]),
+            norms=[], cases=["pat_bpatg_immobilisierung_erledigung"]),
     ]),
 ]

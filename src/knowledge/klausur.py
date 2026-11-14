@@ -152,7 +152,8 @@ GEBUEHREN = [
     dict(nr="333 400", tatbestand="Antrag auf Erklärung des Verfalls", betrag="100 €", norm="§ 49, § 53"),
     dict(nr="333 450", tatbestand="Weiterverfolgung des Verfallsantrags nach Widerspruch des Inhabers", betrag="300 €", norm="§ 53 Abs. 5"),
     dict(nr="332 100", tatbestand="Verlängerung der Schutzdauer (bis drei Klassen)", betrag="750 €", norm="§ 47"),
-    dict(nr="401 300", tatbestand="Beschwerde zum BPatG in Markensachen", betrag="200 €", norm="§ 66"),
+    dict(nr="401 100", tatbestand="Beschwerde zum BPatG in Verfalls- und Nichtigkeitsverfahren (Nr. 401 100 Ziff. 3 Anlage PatKostG)", betrag="500 €", norm="§ 66"),
+    dict(nr="401 300", tatbestand="Beschwerde zum BPatG in Markensachen in anderen Fällen (Anmeldung, Widerspruch)", betrag="200 €", norm="§ 66"),
     dict(nr="401 200", tatbestand="Beschwerde gegen einen Kostenfestsetzungsbeschluss", betrag="50 €", norm="§ 63"),
 ]
 

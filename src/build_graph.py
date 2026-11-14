@@ -131,6 +131,11 @@ def norm_id(ref: str) -> str:
     m = NORM_RE.match(ref)
     if not m:
         raise ValueError(ref)
+    # Ohne Gesetzesangabe oder mit „MarkenG“ ist das MarkenG gemeint; jedes andere Gesetz ohne eigene Knoten (GebrMG, ZPO, BGB …)
+    # darf nicht stillschweigend auf den gleichnamigen MarkenG-Paragraphen fallen.
+    law = re.match(r"§ \d+[a-z]?(?: (?:Abs|S|Satz|Nr|Hs|lit|Alt)\.? ?[\w.]+(?:,? ?\d+)*)* ?(.*)$", ref).group(1).strip()
+    if law and law != "MarkenG":
+        raise ValueError(f"{ref}: kein Normknoten für dieses Gesetz (nur im Text zitieren)")
     return f"norm:§{m.group(1)}"
 
 

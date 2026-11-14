@@ -113,3 +113,35 @@ Erledigung bei Verzicht, Abzweigung mit Gebrauchsmuster-Schonfrist).
 cd klausuren/ts && while read u; do curl -sL -A "Mozilla/5.0" -O "$u"; done < urls.txt
 mkdir -p txt && for f in *.pdf; do pdftotext -layout "$f" "txt/${f%.pdf}.txt"; done
 ```
+
+# Klausuren Rechtspraxis 1 und 2 (RP1, RP2) und JSON-Sammlung aller vier Klausurarten
+
+Seit II/2018 besteht die schriftliche Prüfung aus vier Klausuren nach § 40 Abs. 1 S. 2 PatAnwAPrV: **TS** (Technische
+Schutzrechte, 4 Std.), **NS** (Nichttechnische Schutzrechte, 4 Std.), **RP1** und **RP2** (Rechtspraxis 1 und 2, je 3 Std.).
+Die Aufgaben RP1/RP2 von II/2018 bis III/2023 liegen unter `rp1/` und `rp2/` (URLs in `urls.txt`, Stand 14. November 2026,
+ohne Lösungshinweise). Die älteren Klausuren im Format „wiss./prakt.“ (bis I/2018) gehören zu keiner der vier Arten und
+sind nicht erfasst.
+
+`tools/klausuren_json.py` schreibt je Klausurart eine Datei `json/klausuren_{ts,ns,rp1,rp2}.json` (je 17 Klausuren,
+II/2018 bis III/2023). Jede Klausur hat `id`, `jahr`, `termin`, Deckblattangaben, `dokumente` (Aufgabe, bei NS II/2018
+zusätzlich die Anlage) mit Text je Seite und einen `volltext`.
+
+- **Text** stammt aus der Textebene der PDFs (alle sind aus Word erzeugt, keine Scans), nicht aus OCR.
+- **Bilder** (Marken, Designdarstellungen, Patentzeichnungen, Produktfotos, Kalenderblätter) liegen als
+  `<art>/bilder/<id>/<id>_S<seite>_B<nr>.png` vor und stehen auf der jeweiligen Seite unter `bilder` mit Pfad relativ zu
+  `klausuren/`; der Bildtext ist mit tesseract (deu+eng) erkannt (`ocr`). Bei Kalenderblättern ist die OCR der Tageszahlen
+  unbrauchbar (`hinweis`), dort das Bild ansehen.
+- **Seitenbilder** `<id>_S<seite>_seite.png` (150 dpi) gibt es für jede Seite mit Bild oder Vektorzeichnung; sie zeigen
+  Anordnung und Beschriftung (z. B. Gegenüberstellungen in Tabellen). Die einzige reine Vektorzeichnung ist TS I/2022 S. 9
+  (Figur 1), sie gibt es nur als Seitenbild.
+
+JSON und Bilder sind wie die PDFs nicht versioniert (`.gitignore`).
+
+```bash
+cd klausuren/rp1 && while read u; do curl -sL -A "Mozilla/5.0" -O "$u"; done < urls.txt   # ebenso rp2
+python3 tools/klausuren_json.py klausuren <tessdata-Verzeichnis> <tmp-Verzeichnis>
+```
+
+# Normenliste und Kurse „Anspruchsgrundlagen für die Klausur“
+
+Aus den Lösungen unter `loesungen/` (17 TS, je eine NS, RP1, RP2; Stand 14. November 2026) entstand `normenliste.md`: je Bereich (Patent, Gebrauchsmuster, Marken, Design, ArbnErfG) die Anspruchsgrundlagen mit Normenkette und Klausurfundstellen, Definitionen mit Quelle, Fristen mit Berechnungs- und Verschiebungsnorm und Hilfsnormen. Dazu gehören die Kurse p05, p06, k15, d03 und p07 (`src/knowledge/kurse/`, Reihe „Anspruchsgrundlagen für die Klausur“). Für Marken, Design und ArbnErfG gibt es bisher nur je eine Lösung; diese Teile stützen sich zusätzlich auf die Aufgabentexte in `json/` und die bestehenden Kurse. Neue Lösungen sollten in Liste und Kurse nachgetragen werden.

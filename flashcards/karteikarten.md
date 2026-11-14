@@ -1,6 +1,6 @@
 # Karteikarten Markenrecht und Einheitliches Patentgericht
 
-3014 Karten, generiert aus graph/markenrecht_graph.json.
+3037 Karten, generiert aus graph/markenrecht_graph.json.
 
 ## definition
 
@@ -7160,9 +7160,7 @@ Das Bundespatentgericht in München entscheidet über Beschwerden gegen Beschlü
 
 **F:** Definiere: Gebrauchsmuster und Abzweigung (Verhältnis zum PatG)
 
-**A:** Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen außer Verfahren ([§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) mit zehnjähriger Laufzeit; aus einer Patentanmeldung kann binnen zwei Monaten nach deren Erledigung ein Gebrauchsmuster mit gleichem Zeitrang abgezweigt werden ([§ 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html)).
-
-Normen: [§ 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html)
+**A:** Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen außer Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) mit zehnjähriger Laufzeit; aus einer Patentanmeldung kann bis zum Ablauf von zwei Monaten nach dem Ende des Monats, in dem sie erledigt oder ein Einspruchsverfahren abgeschlossen ist, spätestens bis zum Ablauf des zehnten Jahres nach ihrem Anmeldetag, ein Gebrauchsmuster mit gleichem Zeitrang abgezweigt werden ([§ 5 Abs. 1 S. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html)).
 
 Rechtsprechung: BGH Feldmausbekämpfung (X ZB 18/16)
 
@@ -7174,7 +7172,7 @@ Rechtsprechung: BGH Feldmausbekämpfung (X ZB 18/16)
 
 **F:** Welcher Begriff wird so definiert?
 
-Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen außer Verfahren ([§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) mit zehnjähriger Laufzeit; aus einer Patentanmeldung kann binnen zwei Monaten nach deren Erledigung ein Gebrauchsmuster mit gleichem Zeitrang abgezweigt werden ([§ 5 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html)).
+Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen außer Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) mit zehnjähriger Laufzeit; aus einer Patentanmeldung kann bis zum Ablauf von zwei Monaten nach dem Ende des Monats, in dem sie erledigt oder ein Einspruchsverfahren abgeschlossen ist, spätestens bis zum Ablauf des zehnten Jahres nach ihrem Anmeldetag, ein Gebrauchsmuster mit gleichem Zeitrang abgezweigt werden ([§ 5 Abs. 1 S. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__5.html)).
 
 **A:** Gebrauchsmuster und Abzweigung (Verhältnis zum PatG)
 
@@ -7187,8 +7185,6 @@ Das Gebrauchsmuster ist ein ungeprüftes Schutzrecht für technische Erfindungen
 **F:** Definiere: Gebrauchsmuster: Wesen und Schutzfähigkeit (§§ [1](https://www.gesetze-im-internet.de/gebrmg/__1.html) bis [3](https://www.gesetze-im-internet.de/gebrmg/__3.html) GebrMG)
 
 **A:** Als Gebrauchsmuster werden Erfindungen geschützt, die neu sind, auf einem erfinderischen Schritt beruhen und gewerblich anwendbar sind ([§ 1 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html)); ausgeschlossen sind Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) und biotechnologische Erfindungen. Es wird ohne Prüfung von Neuheit und erfinderischem Schritt eingetragen ([§ 8 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__8.html)), dauert höchstens zehn Jahre ([§ 23 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__23.html)) und gibt dieselben Ansprüche wie ein Patent ([§ 24 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__24.html)).
-
-Normen: [§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html), [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html), [§ 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)
 
 Rechtsprechung: BGH Feldmausbekämpfung (X ZB 18/16); BGH Demonstrationsschrank (X ZB 27/05); BGH Signalfolge (X ZB 9/03); BPatG Lithiumsilikat-Glaskeramik (35 W (pat) 412/16)
 
@@ -7213,8 +7209,6 @@ Als Gebrauchsmuster werden Erfindungen geschützt, die neu sind, auf einem erfin
 **F:** Definiere: Löschungsverfahren beim Gebrauchsmuster (§§ [15](https://www.gesetze-im-internet.de/gebrmg/__15.html) bis [17](https://www.gesetze-im-internet.de/gebrmg/__17.html) GebrMG)
 
 **A:** Jedermann kann beim DPMA die Löschung des Gebrauchsmusters beantragen, wenn der Gegenstand nicht schutzfähig ist, bereits aufgrund einer früheren Patent- oder Gebrauchsmusteranmeldung geschützt ist oder über die ursprüngliche Anmeldung hinausgeht ([§ 15 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)); bei widerrechtlicher Entnahme nur der Verletzte ([§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)). Widerspricht der Inhaber nicht binnen eines Monats, wird gelöscht ([§ 17 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html)).
-
-Normen: [§ 15 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 16 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__16.html), [§ 17 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html)
 
 Rechtsprechung: BGH Feuchtigkeitsabsorptionsbehälter (X ZB 1/11); BPatG Tür- und Fenstersensor (35 W (pat) 424/22); BGH Tischgrill (X ZB 12/20); BGH Tintenstrahldrucker (X ZB 2/12)
 
@@ -21340,8 +21334,6 @@ Ein Syndikusrechtsanwalt, der im Nichtigkeitsverfahren für seinen Arbeitgeber o
 **F:** BGH „Feldmausbekämpfung“ (X ZB 18/16, 2018) – Kernaussage?
 
 **A:** Im Gebrauchsmustereintragungsverfahren prüft die Gebrauchsmusterstelle, ob ein Schutzhindernis des [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html) vorliegt (hier: Verfahren); die Prüfung ist auf die Schutzhindernisse beschränkt, Neuheit und erfinderischer Schritt bleiben dem Löschungsverfahren vorbehalten.
-
-Normen: [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html), [§ 8 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__8.html)
 Fundstelle: BGH, Beschluss vom 27.03.2018 – X ZB 18/16
 
 *Tags: Rechtsprechung, BGH, Gebrauchsmuster*
@@ -22716,7 +22708,7 @@ Die bloße Ankündigung einer Inanspruchnahme aus dem angegriffenen Patent, eine
 
 **A:** Von einer in einem gerichtlichen Hinweis geäußerten Rechtsauffassung darf das Gericht in der Endentscheidung nur abweichen, wenn für die Beteiligten erkennbar wird, dass sich die Grundlage des Hinweises geändert hat oder das Gericht nun eine andere Beurteilung erwägt; sonst ist das rechtliche Gehör verletzt.
 
-Normen: [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 18 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__18.html)
+Normen: [§ 100 Abs. 3 Nr. 3 PatG](https://www.gesetze-im-internet.de/patg/__100.html)
 Fundstelle: BGH, Beschluss vom 16.06.2011 – X ZB 3/10
 
 *Tags: Rechtsprechung, BGH, Rechtsbeschwerde*
@@ -22816,7 +22808,7 @@ Der Technische Beschwerdesenat verfügt grundsätzlich über die nötige technis
 
 **A:** Die Rechtsbeschwerde kann beschränkt zugelassen werden; bei Gebrauchsmustern auch in Bezug auf einzelne Löschungsgründe.
 
-Normen: [§ 100 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 18 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__18.html)
+Normen: [§ 100 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__100.html)
 Fundstelle: BGH, Beschluss vom 17.07.2012 – X ZB 1/11
 
 *Tags: Rechtsprechung, BGH, Rechtsbeschwerde, Gebrauchsmuster*
@@ -22991,7 +22983,7 @@ In besonders gelagerten Ausnahmefällen ist die Wiedereinsetzung in die Frist zu
 
 **A:** Der erfinderische Schritt ([§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html)) ist wie die erfinderische Tätigkeit kein quantitatives, sondern ein qualitatives Kriterium und das Ergebnis einer Wertung. Bei seiner Beurteilung kann auf die patentrechtlichen Grundsätze zurückgegriffen werden, unter Berücksichtigung des abweichend definierten Stands der Technik ([§ 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)).
 
-Normen: [§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html), [§ 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html), [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
+Normen: [§ 4 PatG](https://www.gesetze-im-internet.de/patg/__4.html)
 Fundstelle: BGH, Beschluss vom 20.06.2006 – X ZB 27/05 – ja (zu LS a - c)
 
 *Tags: Rechtsprechung, BGH, Gebrauchsmuster*
@@ -23015,8 +23007,6 @@ Der erfinderische Schritt ([§ 1 GebrMG](https://www.gesetze-im-internet.de/gebr
 **F:** BGH „Signalfolge“ (X ZB 9/03, 2004) – Kernaussage?
 
 **A:** Aus dem Fehlen eines beständigen körperlichen Substrats folgt nicht, dass eine Erfindung als Verfahren im Sinne von [§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html) einzuordnen ist. Einem Schutzanspruch auf eine Signalfolge, die ein Programm zum Ablauf auf einem Rechner darstellt, steht der Ausschluss von Verfahren nicht entgegen.
-
-Normen: [§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html), [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)
 Fundstelle: BGH, Beschluss vom 17.02.2004 – X ZB 9/03
 
 *Tags: Rechtsprechung, BGH, Gebrauchsmuster, Software*
@@ -23040,8 +23030,6 @@ Aus dem Fehlen eines beständigen körperlichen Substrats folgt nicht, dass eine
 **F:** BPatG „Lithiumsilikat-Glaskeramik“ (35 W (pat) 412/16, 2018) – Kernaussage?
 
 **A:** Der Ausschluss von Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)) greift nicht, wenn sich in einem Verwendungsanspruch, der nicht auf ein Arbeits- oder Herstellungsverfahren gerichtet ist, stoffliche oder gegenständliche Eigenschaften eines Stoffs oder einer Vorrichtung manifestieren.
-
-Normen: [§ 15 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__2.html)
 Fundstelle: BPatG, Beschluss vom 06.11.2018 – 35 W (pat) 412/16
 
 *Tags: Rechtsprechung, BPatG, Gebrauchsmuster*
@@ -23065,8 +23053,6 @@ Der Ausschluss von Verfahren ([§ 2 Nr. 3 GebrMG](https://www.gesetze-im-interne
 **F:** BPatG „Trocknung von Klärschlamm“ (35 W (pat) 411/23, 2026) – Kernaussage?
 
 **A:** Ein großer zeitlicher Abstand zwischen einer Druckschrift von 1921 und einer Internetveröffentlichung von 2018 steht ihrer Kombination durch die Fachperson nicht zwingend entgegen, besonders auf Gebieten mit langen Entwicklungszyklen; zu prüfen ist aber sorgfältig, ob der ältere Ansatz noch erkennbar im Umfeld der jüngeren Lehre lag.
-
-Normen: [§ 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__1.html), [§ 15 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)
 Fundstelle: BPatG, Beschluss vom 03.02.2026 – 35 W (pat) 411/23
 
 *Tags: Rechtsprechung, BPatG, Gebrauchsmuster*
@@ -23090,8 +23076,6 @@ Ein großer zeitlicher Abstand zwischen einer Druckschrift von 1921 und einer In
 **F:** BPatG „Toilettendeckel aus Schichtverbundstoff“ (35 W (pat) 402/23, 2025) – Kernaussage?
 
 **A:** Bei einem in den Geltungsbereich des GebrMG importierten Gegenstand, dessen Erfindung von außen nicht erkennbar ist (etwa eine Schichtung), ist die technische Lehre erst ab dem Zeitpunkt zugänglich, zu dem der Gegenstand Endkunden in Verkaufsräumen zum Kauf angeboten wird.
-
-Normen: [§ 3 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)
 Fundstelle: BPatG, Beschluss vom 19.08.2025 – 35 W (pat) 402/23 – sname:
 
 *Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Neuheit*
@@ -23115,8 +23099,6 @@ Bei einem in den Geltungsbereich des GebrMG importierten Gegenstand, dessen Erfi
 **F:** BPatG „Tür- und Fenstersensor“ (35 W (pat) 424/22, 2025) – Kernaussage?
 
 **A:** Für die Neuheitsschonfrist ([§ 3 Abs. 1 S. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)) muss eine lückenlose Kette der Wissensvermittlung vom Erfinder zum Inhaber und zu den Vorveröffentlichungen nachgewiesen sein; der Nachweis kann in bestimmten Fällen auch durch Anscheinsbeweis geführt werden. Eine unwirksame Teilrücknahme des Widerspruchs bindet den Inhaber nicht an eine unzulässige Anspruchsfassung.
-
-Normen: [§ 17 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html), [§ 3 Abs. 1 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__3.html)
 Fundstelle: BPatG, Beschluss vom 10.12.2025 – 35 W (pat) 424/22
 
 *Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Neuheit*
@@ -23141,7 +23123,7 @@ Für die Neuheitsschonfrist ([§ 3 Abs. 1 S. 3 GebrMG](https://www.gesetze-im-in
 
 **A:** Auch im Löschungsverfahren ist es unzulässig, einen mit Teil-Löschungsantrag angegriffenen Anspruch durch Kombination mit einem nicht angegriffenen Unteranspruch zu verteidigen; zulässig ist die Ergänzung um nur einen Teil von dessen Merkmalen. Hat der Inhaber schon vor dem Antrag geänderte Ansprüche eingereicht und sein Schutzbegehren darauf beschränkt, fehlt insoweit regelmäßig der Anlass für einen Löschungsantrag ([§ 17 Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html) mit [§ 84 Abs. 2 S. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html) und [§ 93 ZPO](https://www.gesetze-im-internet.de/zpo/__93.html)); für ein weitergehendes, erfolgreiches Begehren gilt das in der Regel nicht.
 
-Normen: [§ 15 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 17 Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html), [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
+Normen: [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
 Fundstelle: BGH, Beschluss vom 12.09.2023 – X ZB 12/20
 
 *Tags: Rechtsprechung, BGH, Gebrauchsmuster, Löschung*
@@ -23165,8 +23147,6 @@ Auch im Löschungsverfahren ist es unzulässig, einen mit Teil-Löschungsantrag 
 **F:** BGH „Tintenstrahldrucker“ (X ZB 2/12, 2013) – Kernaussage?
 
 **A:** Die Löschung eines Gebrauchsmusters unterbleibt, wenn ein ursprünglich nicht als zur Erfindung gehörend offenbartes Merkmal den Gegenstand nur beschränkt und keinen Schutz für ein Aliud begründet. Dass das Merkmal auch in nicht offenbarten Ausgestaltungen verwirklicht sein kann, in denen das Ziel der Erfindung womöglich nicht erreicht wird, ändert daran nicht zwingend etwas.
-
-Normen: [§ 15 Abs. 1 Nr. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 15 Abs. 3 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)
 Fundstelle: BGH, Beschluss vom 06.08.2013 – X ZB 2/12
 
 *Tags: Rechtsprechung, BGH, Gebrauchsmuster, Löschung*
@@ -23191,7 +23171,7 @@ Die Löschung eines Gebrauchsmusters unterbleibt, wenn ein ursprünglich nicht a
 
 **A:** Stützt das Patentgericht die Löschung nach [§ 15 Abs. 1 Nr. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html) auf ein älteres Patent, liegt kein Begründungsmangel vor, wenn es sich nicht mit der theoretischen Möglichkeit einer künftigen Nichtigerklärung dieses Patents auseinandersetzt.
 
-Normen: [§ 100 Abs. 3 Nr. 6 PatG](https://www.gesetze-im-internet.de/patg/__100.html), [§ 15 Abs. 1 Nr. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)
+Normen: [§ 100 Abs. 3 Nr. 6 PatG](https://www.gesetze-im-internet.de/patg/__100.html)
 Fundstelle: BGH, Beschluss vom 10.08.2011 – X ZA 1/11
 
 *Tags: Rechtsprechung, BGH, Gebrauchsmuster, Löschung*
@@ -23215,8 +23195,6 @@ Stützt das Patentgericht die Löschung nach [§ 15 Abs. 1 Nr. 2 GebrMG](https:/
 **F:** BPatG „Grill und Holzkohlekammer“ (35 W (pat) 434/18, 2020) – Kernaussage?
 
 **A:** Zur Akte nachgereichte Schutzansprüche ändern das eingetragene Gebrauchsmuster nicht unmittelbar; der Löschungsantrag ist gegen die eingetragenen Schutzansprüche zu richten. Die Grundsätze zur beschränkten Verteidigung eines nur teilweise angegriffenen Patents gelten im Löschungsverfahren entsprechend.
-
-Normen: [§ 15 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html), [§ 16 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__16.html), [§ 17 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html)
 Fundstelle: BPatG, Beschluss vom 12.10.2020 – 35 W (pat) 434/18
 
 *Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Löschung*
@@ -23240,8 +23218,6 @@ Zur Akte nachgereichte Schutzansprüche ändern das eingetragene Gebrauchsmuster
 **F:** BPatG „Vorrichtung zur Immobilisierung“ (35 W (pat) 440/23, 2025) – Kernaussage?
 
 **A:** Ist das Gebrauchsmuster während des Löschungsbeschwerdeverfahrens erloschen und hat der Inhaber den Antragsteller von allen Ansprüchen freigestellt, tritt Erledigung der Hauptsache ein, auch wenn widerrechtliche Entnahme ([§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)) geltend gemacht ist; eine dennoch weiterverfolgte Beschwerde ist mangels Beschwer unzulässig.
-
-Normen: [§ 13 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__13.html), [§ 15 Abs. 2 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__15.html)
 Fundstelle: BPatG, Beschluss vom 19.11.2025 – 35 W (pat) 440/23 – sname:
 
 *Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Löschung*
@@ -23266,7 +23242,7 @@ Ist das Gebrauchsmuster während des Löschungsbeschwerdeverfahrens erloschen un
 
 **A:** Für die Erstattungsfähigkeit der Kosten einer Doppelvertretung durch Patent- und Rechtsanwalt im Gebrauchsmusterlöschungsverfahren gelten die für das Patentnichtigkeitsverfahren entwickelten Grundsätze.
 
-Normen: [§ 17 Abs. 4 GebrMG](https://www.gesetze-im-internet.de/gebrmg/__17.html), [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
+Normen: [§ 84 Abs. 2 PatG](https://www.gesetze-im-internet.de/patg/__84.html)
 Fundstelle: BPatG, Beschluss vom 17.05.2017 – 35 W (pat) 1/14
 
 *Tags: Rechtsprechung, BPatG, Gebrauchsmuster, Kosten*
@@ -25714,7 +25690,7 @@ Der Gegenstandswert im Designnichtigkeitsverfahren ist nach billigem Ermessen zu
 
 **F:** EuGH „Thomas Philipps/Grüne Welle (Lizenznehmer)“ (C-419/15, 2016) – Kernaussage?
 
-**A:** Der Lizenznehmer kann Ansprüche wegen Verletzung eines eingetragenen Gemeinschaftsgeschmacksmusters geltend machen, auch wenn die Lizenz nicht im Register eingetragen ist ([Art. 33 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). In einem Verletzungsverfahren, das er nach [Art. 32 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) selbst anhängig macht, kann er Ersatz seines eigenen Schadens verlangen.
+**A:** Der Lizenznehmer kann Ansprüche wegen Verletzung eines eingetragenen Gemeinschaftsgeschmacksmusters geltend machen, auch wenn die Lizenz nicht im Register eingetragen ist (damals Art. 33 Abs. 2 GGV a.F., heute [Art. 33 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). In einem Verletzungsverfahren, das er nach [Art. 32 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) selbst anhängig macht, kann er Ersatz seines eigenen Schadens verlangen.
 
 Normen: [Art. 32 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 33 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [§ 31 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__31.html)
 Fundstelle: GRUR 2016, 1163
@@ -25727,7 +25703,7 @@ Fundstelle: GRUR 2016, 1163
 
 **F:** Welche Entscheidung (EuGH) steht für folgenden Grundsatz?
 
-Der Lizenznehmer kann Ansprüche wegen Verletzung eines eingetragenen Gemeinschaftsgeschmacksmusters geltend machen, auch wenn die Lizenz nicht im Register eingetragen ist ([Art. 33 Abs. 2 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). In einem Verletzungsverfahren, das er nach [Art. 32 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) selbst anhängig macht, kann er Ersatz seines eigenen Schadens verlangen.
+Der Lizenznehmer kann Ansprüche wegen Verletzung eines eingetragenen Gemeinschaftsgeschmacksmusters geltend machen, auch wenn die Lizenz nicht im Register eingetragen ist (damals Art. 33 Abs. 2 GGV a.F., heute [Art. 33 Abs. 1 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)). In einem Verletzungsverfahren, das er nach [Art. 32 Abs. 3 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) selbst anhängig macht, kann er Ersatz seines eigenen Schadens verlangen.
 
 **A:** EuGH „Thomas Philipps/Grüne Welle (Lizenznehmer)“ – C-419/15 (2016), GRUR 2016, 1163
 
@@ -27271,7 +27247,7 @@ Nach diesem Gesetz werden geschützt:
 2. geschäftliche Bezeichnungen,
 3. geographische Herkunftsangaben.
 
-Zugehörige Begriffe: Gebrauchsmuster: Wesen und Schutzfähigkeit (§§ [1](https://www.gesetze-im-internet.de/gebrmg/__1.html) bis [3](https://www.gesetze-im-internet.de/gebrmg/__3.html) GebrMG), Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Marke, Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)
+Zugehörige Begriffe: Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Marke, Markenrechtsrichtlinie (EU) 2015/2436 (MarkenRL)
 
 *Tags: Gesetz*
 
@@ -27283,7 +27259,7 @@ Zugehörige Begriffe: Gebrauchsmuster: Wesen und Schutzfähigkeit (§§ [1](http
 
 Der Schutz von Marken, geschäftlichen Bezeichnungen und geographischen Herkunftsangaben nach diesem Gesetz schließt die Anwendung anderer Vorschriften zum Schutz dieser Kennzeichen nicht aus.
 
-Zugehörige Begriffe: Gebrauchsmuster: Wesen und Schutzfähigkeit (§§ [1](https://www.gesetze-im-internet.de/gebrmg/__1.html) bis [3](https://www.gesetze-im-internet.de/gebrmg/__3.html) GebrMG), Verhältnis MarkenG – UWG – [§ 12 BGB](https://www.gesetze-im-internet.de/bgb/__12.html)
+Zugehörige Begriffe: Verhältnis MarkenG – UWG – [§ 12 BGB](https://www.gesetze-im-internet.de/bgb/__12.html)
 
 *Tags: Gesetz*
 
@@ -27295,7 +27271,7 @@ Zugehörige Begriffe: Gebrauchsmuster: Wesen und Schutzfähigkeit (§§ [1](http
 
 Als Marke können alle Zeichen, insbesondere Wörter einschließlich Personennamen, Abbildungen, Buchstaben, Zahlen, Klänge, dreidimensionale Gestaltungen einschließlich der Form einer Ware oder ihrer Verpackung sowie sonstige Aufmachungen einschließlich Farben und Farbzusammenstellungen geschützt werden, die geeignet sind, Waren oder Dienstleistungen eines Unternehmens von denjenigen anderer Unternehmen zu unterscheiden.
 
-Zugehörige Begriffe: Abstrakte Farbmarke, Formausschluss ([§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html)), Formmarke / dreidimensionale Marke, Gebrauchsmuster: Wesen und Schutzfähigkeit (§§ [1](https://www.gesetze-im-internet.de/gebrmg/__1.html) bis [3](https://www.gesetze-im-internet.de/gebrmg/__3.html) GebrMG), Herkunftsfunktion, Marke, Markenfähigkeit ([§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html))
+Zugehörige Begriffe: Abstrakte Farbmarke, Formausschluss ([§ 3 Abs. 2](https://www.gesetze-im-internet.de/markeng/__3.html)), Formmarke / dreidimensionale Marke, Herkunftsfunktion, Marke, Markenfähigkeit ([§ 3 Abs. 1](https://www.gesetze-im-internet.de/markeng/__3.html))
 
 *Tags: Gesetz*
 
@@ -27322,7 +27298,7 @@ Zugehörige Begriffe: Entstehung des Markenschutzes ([§ 4](https://www.gesetze-
 
 Als geschäftliche Bezeichnungen werden Unternehmenskennzeichen und Werktitel geschützt.
 
-Zugehörige Begriffe: Domainname als Kennzeichen, Firmenschlagwort / Firmenbestandteil, Gebrauchsmuster und Abzweigung (Verhältnis zum PatG), Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Unternehmenskennzeichen ([§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html)), Werktitel ([§ 5 Abs. 3](https://www.gesetze-im-internet.de/markeng/__5.html))
+Zugehörige Begriffe: Domainname als Kennzeichen, Firmenschlagwort / Firmenbestandteil, Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Unternehmenskennzeichen ([§ 5 Abs. 2](https://www.gesetze-im-internet.de/markeng/__5.html)), Werktitel ([§ 5 Abs. 3](https://www.gesetze-im-internet.de/markeng/__5.html))
 
 *Tags: Gesetz*
 
@@ -27459,7 +27435,7 @@ Zugehörige Begriffe: Transitverbot ([§ 14a MarkenG](https://www.gesetze-im-int
 
 Der Erwerb des Schutzes einer geschäftlichen Bezeichnung gewährt ihrem Inhaber ein ausschließliches Recht.
 
-Zugehörige Begriffe: Bekannte Marke ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)), Benutzung im geschäftlichen Verkehr, Branchennähe, Domainname als Kennzeichen, Firmenmäßiger Gebrauch, Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Löschungsverfahren beim Gebrauchsmuster (§§ [15](https://www.gesetze-im-internet.de/gebrmg/__15.html) bis [17](https://www.gesetze-im-internet.de/gebrmg/__17.html) GebrMG), Recht der Gleichnamigen
+Zugehörige Begriffe: Bekannte Marke ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-im-internet.de/markeng/__14.html)), Benutzung im geschäftlichen Verkehr, Branchennähe, Domainname als Kennzeichen, Firmenmäßiger Gebrauch, Geschäftliche Bezeichnungen ([§ 5](https://www.gesetze-im-internet.de/markeng/__5.html)), Recht der Gleichnamigen, Unterlassungsanspruch ([§ 14 Abs. 5](https://www.gesetze-im-internet.de/markeng/__14.html))
 
 *Tags: Gesetz*
 
@@ -27471,7 +27447,7 @@ Zugehörige Begriffe: Bekannte Marke ([§ 14 Abs. 2 Nr. 3](https://www.gesetze-i
 
 Erweckt die Wiedergabe einer eingetragenen Marke in einem Wörterbuch, einem Lexikon oder einem ähnlichen Nachschlagewerk den Eindruck, daß es sich bei der Marke um eine Gattungsbezeichnung für die Waren oder Dienstleistungen handelt, für die die Marke eingetragen ist, kann der Inhaber der Marke vom Verleger des Werkes verlangen, daß der Wiedergabe der Marke ein Hinweis beigefügt wird, daß es sich um eine eingetragene Marke handelt.
 
-Zugehörige Begriffe: Löschungsverfahren beim Gebrauchsmuster (§§ [15](https://www.gesetze-im-internet.de/gebrmg/__15.html) bis [17](https://www.gesetze-im-internet.de/gebrmg/__17.html) GebrMG), Wiedergabe in Nachschlagewerken ([§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
+Zugehörige Begriffe: Wiedergabe in Nachschlagewerken ([§ 16 MarkenG](https://www.gesetze-im-internet.de/markeng/__16.html), [Art. 12 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -27483,7 +27459,7 @@ Zugehörige Begriffe: Löschungsverfahren beim Gebrauchsmuster (§§ [15](https:
 
 Ist eine Marke entgegen [§ 11](https://www.gesetze-im-internet.de/markeng/__11.html) für den Agenten oder Vertreter des Inhabers der Marke ohne dessen Zustimmung angemeldet oder eingetragen worden, so ist der Inhaber der Marke berechtigt, von dem Agenten oder Vertreter die Übertragung des durch die Anmeldung oder Eintragung der Marke begründeten Rechts zu verlangen.
 
-Zugehörige Begriffe: Agentenmarke (§§ [11](https://www.gesetze-im-internet.de/markeng/__11.html), [17](https://www.gesetze-im-internet.de/markeng/__17.html) MarkenG, [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436)), Löschungsverfahren beim Gebrauchsmuster (§§ [15](https://www.gesetze-im-internet.de/gebrmg/__15.html) bis [17](https://www.gesetze-im-internet.de/gebrmg/__17.html) GebrMG)
+Zugehörige Begriffe: Agentenmarke (§§ [11](https://www.gesetze-im-internet.de/markeng/__11.html), [17](https://www.gesetze-im-internet.de/markeng/__17.html) MarkenG, [Art. 13 MarkenRL](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32015L2436))
 
 *Tags: Gesetz*
 
@@ -28126,6 +28102,16 @@ Zugehörige Begriffe: Beteiligten-, Prozess- und Postulationsfähigkeit, Rechtsb
 Im Verfahren über die Rechtsbeschwerde gelten die Vorschriften der Zivilprozessordnung über Ausschließung und Ablehnung der Gerichtspersonen (§§ [41](https://www.gesetze-im-internet.de/zpo/__41.html) bis [49](https://www.gesetze-im-internet.de/zpo/__49.html)), über Prozessbevollmächtigte und Beistände (§§ [78](https://www.gesetze-im-internet.de/zpo/__78.html) bis [90](https://www.gesetze-im-internet.de/zpo/__90.html)), über Zustellungen von Amts wegen (§§ [166](https://www.gesetze-im-internet.de/zpo/__166.html) bis [190](https://www.gesetze-im-internet.de/zpo/__190.html)), über Ladungen, Termine und Fristen (§§ [214](https://www.gesetze-im-internet.de/zpo/__214.html) bis [229](https://www.gesetze-im-internet.de/zpo/__229.html)) und über Wiedereinsetzung in den vorigen Stand (§§ [233](https://www.gesetze-im-internet.de/zpo/__233.html) bis [238](https://www.gesetze-im-internet.de/zpo/__238.html)) entsprechend. Im Falle der Wiedereinsetzung in den vorigen Stand gilt [§ 91 Abs. 8](https://www.gesetze-im-internet.de/markeng/__91.html) entsprechend. Auf Antrag ist einem Beteiligten unter entsprechender Anwendung des [§ 138 des Patentgesetzes](https://www.gesetze-im-internet.de/patg/__138.html) Verfahrenskostenhilfe zu bewilligen.
 
 Zugehörige Begriffe: Rechtsbeschwerde zum BGH ([§ 83 MarkenG](https://www.gesetze-im-internet.de/markeng/__83.html))
+
+*Tags: Gesetz*
+
+---
+
+**F:** Was regelt [§ 90 MarkenG](https://www.gesetze-im-internet.de/markeng/__90.html)?
+
+**A:** Kostenentscheidung
+
+Sind an dem Verfahren mehrere Personen beteiligt, so kann der Bundesgerichtshof bestimmen, daß die Kosten des Verfahrens einschließlich der den Beteiligten erwachsenen Kosten, soweit sie zur zweckentsprechenden Wahrung der Ansprüche und Rechte notwendig waren, einem Beteiligten ganz oder teilweise zur Last fallen, wenn dies der Billigkeit entspricht. Die Bestimmung kann auch getroffen werden, wenn der Beteiligte die Rechtsbeschwerde, die Anmeldung der Marke, den Widerspruch oder den Antrag auf Erklärung des Verfalls oder der Nichtigkeit ganz oder teilweise zurücknimmt oder wenn die Eintragung der Marke wegen Verzichts oder wegen Nichtverlängerung der Schutzdauer ganz oder teilweise im Regist …
 
 *Tags: Gesetz*
 
@@ -33752,6 +33738,18 @@ In 28 Entscheidungen des BPatG und des BGH zitiert.
 
 ---
 
+**F:** Was regelt [§ 87 PatG](https://www.gesetze-im-internet.de/patg/__87.html) (Amtsermittlung, Aufklärung, Beweisaufnahme)?
+
+**A:** Amtsermittlung, Aufklärung, Beweisaufnahme
+
+Das Patentgericht erforscht den Sachverhalt von Amts wegen. Es ist an das Vorbringen und die Beweisanträge der Beteiligten nicht gebunden.
+
+In 114 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
 **F:** Was regelt [§ 94 PatG](https://www.gesetze-im-internet.de/patg/__94.html) (Ausfertigung, Zustellung von Entscheidungen)?
 
 **A:** Ausfertigung, Zustellung von Entscheidungen
@@ -33828,6 +33826,18 @@ In 645 Entscheidungen des BPatG und des BGH zitiert.
 
 ---
 
+**F:** Was regelt [§ 104 PatG](https://www.gesetze-im-internet.de/patg/__104.html) (Mündliche Verhandlung vor dem BGH)?
+
+**A:** Mündliche Verhandlung vor dem BGH
+
+Der Bundesgerichtshof hat von Amts wegen zu prüfen, ob die Rechtsbeschwerde an sich statthaft und ob sie in der gesetzlichen Form und Frist eingelegt und begründet ist. Mangelt es an einem dieser Erfordernisse, so ist die Rechtsbeschwerde als unzulässig zu verwerfen.
+
+In 15 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
 **F:** Was regelt [§ 107 PatG](https://www.gesetze-im-internet.de/patg/__107.html) (Entscheidung und Zurückverweisung)?
 
 **A:** Entscheidung und Zurückverweisung
@@ -33835,6 +33845,18 @@ In 645 Entscheidungen des BPatG und des BGH zitiert.
 Die Entscheidung über die Rechtsbeschwerde ergeht durch Beschluß; sie kann ohne mündliche Verhandlung getroffen werden.
 
 In 84 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 108 PatG](https://www.gesetze-im-internet.de/patg/__108.html) (Entscheidungsgründe, Bindung des Patentgerichts)?
+
+**A:** Entscheidungsgründe, Bindung des Patentgerichts
+
+Im Falle der Aufhebung des angefochtenen Beschlusses ist die Sache zur anderweiten Verhandlung und Entscheidung an das Patentgericht zurückzuverweisen.
+
+In 44 Entscheidungen des BPatG und des BGH zitiert.
 
 *Tags: Patentrecht, PatG*
 
@@ -33861,6 +33883,18 @@ In 304 Entscheidungen des BPatG und des BGH zitiert.
 Der Berufungskläger muss die Berufung begründen.
 
 In 23 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 113 PatG](https://www.gesetze-im-internet.de/patg/__113.html) (Berufungssenat, Vorbereitung)?
+
+**A:** Berufungssenat, Vorbereitung
+
+Vor dem Bundesgerichtshof müssen sich die Parteien durch einen Rechtsanwalt oder einen Patentanwalt als Bevollmächtigten vertreten lassen. Dem Bevollmächtigten ist es gestattet, mit einem technischen Beistand zu erscheinen.
+
+In 14 Entscheidungen des BPatG und des BGH zitiert.
 
 *Tags: Patentrecht, PatG*
 
@@ -33933,6 +33967,30 @@ Ist nach Versäumung einer vom Deutschen Patent- und Markenamt bestimmten Frist 
 Hinweis: Weiterbehandlung: Bei Zurückweisung der Anmeldung wegen versäumter Frist genügt Antrag mit Nachholung der Handlung und Gebühr (100 EUR, Nr. 313 000) binnen eines Monats nach Zustellung; kein Verschuldensmaßstab. Nur für die Anmeldung, nicht für Einspruch oder Beschwerde. BPatG Weiterbehandlung II: Nachholung innerhalb der Monatsfrist.
 
 In 39 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 125 PatG](https://www.gesetze-im-internet.de/patg/__125.html) (Zeugen und Sachverständige, Beweisaufnahme)?
+
+**A:** Zeugen und Sachverständige, Beweisaufnahme
+
+Wird der Einspruch oder die Klage auf Erklärung der Nichtigkeit des Patents auf die Behauptung gestützt, dass der Gegenstand des Patents nach [§ 3](https://www.gesetze-im-internet.de/patg/__3.html) nicht patentfähig sei, so kann das Deutsche Patent- und Markenamt oder das Patentgericht verlangen, dass Urschriften, Ablichtungen oder beglaubigte Abschriften der im Einspruch oder in der Klage erwähnten Druckschriften, die im Deutschen Patent- und Markenamt und im Patentgericht nicht vorhanden sind, in je einem Stück für das Deutsche Patent- und Markenamt oder das Patentgericht und für die am Verfahren Beteiligten eingereicht werden.
+
+In 9 Entscheidungen des BPatG und des BGH zitiert.
+
+*Tags: Patentrecht, PatG*
+
+---
+
+**F:** Was regelt [§ 125a PatG](https://www.gesetze-im-internet.de/patg/__125a.html) (Elektronische Dokumente, elektronische Akte)?
+
+**A:** Elektronische Dokumente, elektronische Akte
+
+Soweit in Verfahren vor dem Deutschen Patent- und Markenamt für Anmeldungen, Anträge oder sonstige Handlungen die Schriftform vorgesehen ist, gelten die Regelungen des [§ 130a Absatz 1, 2 Satz 1, Absatz 5 und 6 der Zivilprozessordnung](https://www.gesetze-im-internet.de/zpo/__130a.html) entsprechend.
+
+In 664 Entscheidungen des BPatG und des BGH zitiert.
 
 *Tags: Patentrecht, PatG*
 
@@ -35272,6 +35330,45 @@ In 67 Entscheidungen des EPG zitiert.
 
 ---
 
+**F:** Was regelt [§ 24 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__24.html) (Geheimhaltungspflicht)?
+
+**A:** Geheimhaltungspflicht
+
+Der Arbeitgeber hat die ihm gemeldete oder mitgeteilte Erfindung eines Arbeitnehmers so lange geheimzuhalten, als dessen berechtigte Belange dies erfordern.
+
+In 5 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 26 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__26.html) (Auflösung des Arbeitsverhältnisses)?
+
+**A:** Auflösung des Arbeitsverhältnisses
+
+Die Rechte und Pflichten aus diesem Gesetz werden durch die Auflösung des Arbeitsverhältnisses nicht berührt.
+
+In 10 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 27 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__27.html) (Insolvenzverfahren)?
+
+**A:** Insolvenzverfahren
+
+Wird nach Inanspruchnahme der Diensterfindung das Insolvenzverfahren über das Vermögen des Arbeitgebers eröffnet, so gilt folgendes:
+1. Veräußert der Insolvenzverwalter die Diensterfindung mit dem Geschäftsbetrieb, so tritt der Erwerber für die Zeit von der Eröffnung des Insolvenzverfahrens an in die Vergütungspflicht des Arbeitgebers ein.
+2. Verwertet der Insolvenzverwalter die Diensterfindung im Unternehmen des Schuldners, so hat er dem Arbeitnehmer eine angemessene Vergütung für die Verwertung aus der Insolvenzmasse zu zahlen.
+3. In allen anderen Fällen hat der Insolvenzverwalter dem Arbeit …
+
+In 7 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
 **F:** Was regelt [§ 28 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__28.html) (Gütliche Einigung)?
 
 **A:** Gütliche Einigung
@@ -35286,6 +35383,30 @@ In 407 Entscheidungen des EPG zitiert.
 
 ---
 
+**F:** Was regelt [§ 30 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__30.html) (Besetzung der Schiedsstelle)?
+
+**A:** Besetzung der Schiedsstelle
+
+Die Schiedsstelle besteht aus einem Vorsitzenden oder seinem Vertreter und zwei Beisitzern.
+
+In 4 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 32 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__32.html) (Antrag auf Erweiterung der Schiedsstelle)?
+
+**A:** Antrag auf Erweiterung der Schiedsstelle
+
+Der Antrag auf Erweiterung der Besetzung der Schiedsstelle ist von demjenigen, der die Schiedsstelle anruft, zugleich mit der Anrufung ([§ 31 Abs. 1](https://www.gesetze-im-internet.de/arbnerfg/__31.html)), von dem anderen Beteiligten innerhalb von zwei Wochen nach Zustellung des die Anrufung enthaltenden Antrags ([§ 31 Abs. 2](https://www.gesetze-im-internet.de/arbnerfg/__31.html)) zu stellen.
+
+In 2 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
 **F:** Was regelt [§ 34 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__34.html) (Einigungsvorschlag der Schiedsstelle)?
 
 **A:** Einigungsvorschlag der Schiedsstelle
@@ -35295,6 +35416,33 @@ Die Schiedsstelle faßt ihre Beschlüsse mit Stimmenmehrheit, [§ 196 Abs. 2 des
 Hinweis: Der Einigungsvorschlag gilt als angenommen und wird verbindlich, wenn nicht binnen eines Monats nach Zustellung schriftlich widersprochen wird (Abs. 3).
 
 In 38 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 35 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__35.html) (Erfolglose Beendigung des Schiedsverfahrens)?
+
+**A:** Erfolglose Beendigung des Schiedsverfahrens
+
+Das Verfahren vor der Schiedsstelle ist erfolglos beendet,
+1. wenn sich der andere Beteiligte innerhalb der ihm nach [§ 31 Abs. 2](https://www.gesetze-im-internet.de/arbnerfg/__31.html) gesetzten Frist nicht geäußert hat;
+2. wenn er es abgelehnt hat, sich auf das Verfahren vor der Schiedsstelle einzulassen;
+3. wenn innerhalb der Frist des [§ 34 Abs. 3](https://www.gesetze-im-internet.de/arbnerfg/__34.html) ein schriftlicher Widerspruch eines der Beteiligten bei der Schiedsstelle eingegangen ist.
+
+In 12 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, ArbnErfG*
+
+---
+
+**F:** Was regelt [§ 36 ArbnErfG](https://www.gesetze-im-internet.de/arbnerfg/__36.html) (Kosten des Schiedsverfahrens)?
+
+**A:** Kosten des Schiedsverfahrens
+
+Im Verfahren vor der Schiedsstelle werden keine Gebühren oder Auslagen erhoben.
+
+In 5 Entscheidungen des EPG zitiert.
 
 *Tags: EPG, ArbnErfG*
 
@@ -36353,6 +36501,16 @@ Der Antrag nach [§ 55 Absatz 1](https://www.gesetze-im-internet.de/geschmmg_200
 
 ---
 
+**F:** Was regelt [§ 57a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__57a.html) (Verfahren nach der Verordnung (EU) Nr. 608/2013)?
+
+**A:** Verfahren nach der Verordnung (EU) Nr. 608/2013
+
+Für das Verfahren nach der Verordnung (EU) Nr. 608/2013 gilt [§ 56 Absatz 5](https://www.gesetze-im-internet.de/geschmmg_2004/__56.html) und [§ 57 Absatz 1](https://www.gesetze-im-internet.de/geschmmg_2004/__57.html) entsprechend, soweit die Verordnung keine Bestimmungen enthält, die dem entgegenstehen.
+
+*Tags: Designrecht, DesignG*
+
+---
+
 **F:** Was regelt [§ 58 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__58.html) (Inlandsvertreter)?
 
 **A:** Inlandsvertreter
@@ -36419,6 +36577,16 @@ Für alle Klagen, für die die Gemeinschaftsgeschmacksmustergerichte im Sinne de
 Entspricht: [Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), [Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)
 
 Hinweis: Gemeinschaftsgeschmacksmustergerichte ([Art. 80 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701)) sind die Landgerichte (Abs. 1), Konzentration wie bei Designstreitsachen; [§ 52 Abs. 4](https://www.gesetze-im-internet.de/geschmmg_2004/__52.html) (Patentanwaltskosten) und §§ [53](https://www.gesetze-im-internet.de/geschmmg_2004/__53.html), [54](https://www.gesetze-im-internet.de/geschmmg_2004/__54.html) gelten entsprechend (Abs. 4). Internationale Zuständigkeit: [Art. 82 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701); unionsweite Reichweite bei Sitzgerichtsstand ([Art. 83 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701), EuGH Nintendo/BigBen).
+
+*Tags: Designrecht, DesignG*
+
+---
+
+**F:** Was regelt [§ 63b DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__63b.html) (Örtliche Zuständigkeit der Gemeinschaftsgeschmacksmustergerichte)?
+
+**A:** Örtliche Zuständigkeit der Gemeinschaftsgeschmacksmustergerichte
+
+Sind nach Artikel 82 der Verordnung (EG) Nr. 6/2002 deutsche Gemeinschaftsgeschmacksmustergerichte international zuständig, so gelten für die örtliche Zuständigkeit dieser Gerichte die Vorschriften entsprechend, die anzuwenden wären, wenn es sich um eine beim Deutschen Patent- und Markenamt eingereichte Anmeldung eines Designs oder um ein im Register des Deutschen Patent- und Markenamts eingetragenes Design handelte. Ist eine Zuständigkeit danach nicht begründet, so ist das Gericht örtlich zuständig, bei dem der Kläger seinen allgemeinen Gerichtsstand hat.
 
 *Tags: Designrecht, DesignG*
 
@@ -37710,11 +37878,48 @@ Hinweis: Nichtigkeitsgründe: kein Muster, [Art. 4 bis 9](https://eur-lex.europa
 
 ---
 
+**F:** Was regelt [Art. 26 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Wirkung der Nichtigkeit)?
+
+**A:** Wirkung der Nichtigkeit
+
+Die in dieser Verordnung vorgesehenen Wirkungen des Unionsgeschmacksmusters gelten von Anfang an als nicht eingetreten, wenn es für nichtig erklärt wird.
+
+Umsetzung im EPGÜ: [§ 33 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__33.html)
+
+*Tags: Designrecht, GGV*
+
+---
+
 **F:** Was regelt [Art. 26a GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Eintragungssymbol)?
 
 **A:** Eintragungssymbol
 
 Der Inhaber eines eingetragenen Unionsgeschmacksmusters kann die Öffentlichkeit über die Eintragung des Geschmacksmusters informieren, indem er auf dem Erzeugnis, in das das Geschmacksmuster aufgenommen oder bei dem es verwendet wird, den Buchstaben D innerhalb eines Kreises anbringt. Diesem Hinweis auf das Geschmacksmuster kann die Eintragungsnummer des Geschmacksmusters beigefügt werden oder er kann mit der Eintragung des Geschmacksmusters in das Register verlinkt werden.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 27 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Gleichstellung des Unionsgeschmacksmusters mit dem Geschmacksmusterrecht eines Mitgliedstaats)?
+
+**A:** Gleichstellung des Unionsgeschmacksmusters mit dem Geschmacksmusterrecht eines Mitgliedstaats
+
+Soweit in den Artikeln 28 bis 32 nichts anderes bestimmt ist, wird das Unionsgeschmacksmuster als Vermögensgegenstand in seiner Gesamtheit und für das gesamte Gebiet der Union wie ein nationales Geschmacksmusterrecht des Mitgliedstaats behandelt, in dem:
+a) der Inhaber zum maßgebenden Zeitpunkt seinen Wohnsitz oder Sitz hat, oder
+b) wenn Buchstabe a) nicht anwendbar ist, der Inhaber zum maßgebenden Zeitpunkt eine Niederlassung hat.
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 28 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Übergang des eingetragenen Unionsgeschmacksmusters)?
+
+**A:** Übergang des eingetragenen Unionsgeschmacksmusters
+
+Die Übertragung eines eingetragenen Unionsgeschmacksmusters muss schriftlich erfolgen und von den Vertragsparteien unterzeichnet werden, es sei denn, sie beruht auf einer gerichtlichen Entscheidung.
+Erfüllt die Übertragung eines eingetragenen Unionsgeschmacksmusters, die in Unterabsatz 1 genannten Anforderungen nicht, ist sie nichtig.
+
+Umsetzung im EPGÜ: [§ 29 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__29.html)
 
 *Tags: Designrecht, GGV*
 
@@ -37851,6 +38056,16 @@ Hinweis: Aufschiebung der Bekanntmachung um 30 Monate = [§ 21 DesignG](https://
 
 ---
 
+**F:** Was regelt [Art. 50e GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Änderung)?
+
+**A:** Änderung
+
+Die Wiedergabe des eingetragenen Unionsgeschmacksmusters darf außer in unwesentlichen Einzelheiten weder während der Dauer der Eintragung noch bei ihrer Erneuerung im Register geändert werden.
+
+*Tags: Designrecht, GGV*
+
+---
+
 **F:** Was regelt [Art. 52 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Antrag auf Nichtigerklärung)?
 
 **A:** Antrag auf Nichtigerklärung
@@ -37860,6 +38075,28 @@ Vorbehaltlich des Artikels 25 Absätze 2 bis 5 kann jede natürliche oder jurist
 Umsetzung im EPGÜ: [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html), [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)
 
 Hinweis: Antrag auf Nichtigerklärung beim EUIPO: jedermann für absolute Gründe, Rechtsinhaber für relative = [§ 34 DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34.html).
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 53 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Prüfung des Antrags)?
+
+**A:** Prüfung des Antrags
+
+Gelangt das Amt zu dem Ergebnis, dass der Antrag auf Nichtigerklärung zulässig ist, so prüft es, ob die in Artikel 25 genannten Nichtigkeitsgründe der Aufrechterhaltung des eingetragenen Unionsgeschmacksmusters entgegenstehen.
+
+Umsetzung im EPGÜ: [§ 34a DesignG](https://www.gesetze-im-internet.de/geschmmg_2004/__34a.html)
+
+*Tags: Designrecht, GGV*
+
+---
+
+**F:** Was regelt [Art. 79 GGV](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0006-20260701) (Anwendung der Unionsvorschriften über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen)?
+
+**A:** Anwendung der Unionsvorschriften über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen
+
+Soweit in dieser Verordnung nichts anderes bestimmt ist, sind die Unionsvorschriften über die gerichtliche Zuständigkeit und die Anerkennung und Vollstreckung von Entscheidungen in Zivil- und Handelssachen auf Verfahren betreffend Unionsgeschmacksmuster und Anmeldungen von Unionsgeschmacksmustern sowie auf Verfahren, die gleichzeitige oder aufeinanderfolgende Klagen aus Unionsgeschmacksmustern und aus nationalen Geschmacksmustern betreffen, anzuwenden.
 
 *Tags: Designrecht, GGV*
 
@@ -38192,6 +38429,18 @@ Jeder Vertragsstaat kann, wenn das vom Europäischen Patentamt erteilte, in geä
 Hinweis: Übersetzungserfordernis nur noch in Staaten, die das Londoner Übereinkommen nicht oder nur teilweise anwenden. Wird einheitliche Wirkung eingetragen (Antrag nach [R. 6 DOEPS](https://www.epo.org/de/legal/up-upc/2022/upr.html)), entfällt die Validierung in den teilnehmenden Staaten; Übersetzungen richten sich dann nur nach [Art. 6 EPatÜVO](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32012R1260).
 
 In 1 Entscheidungen des EPG zitiert.
+
+*Tags: EPG, EPÜ*
+
+---
+
+**F:** Was regelt [Art. 66 EPÜ](https://www.epo.org/de/legal/epc/2020/a66.html) (Wirkung der europäischen Patentanmeldung als nationale Anmeldung)?
+
+**A:** Wirkung der europäischen Patentanmeldung als nationale Anmeldung
+
+Eine europäische Patentanmeldung, der ein Anmeldetag zuerkannt worden ist, hat in den benannten Vertragsstaaten die Wirkung einer vorschriftsmäßigen nationalen Anmeldung, gegebenenfalls mit der für die europäische Patentanmeldung in Anspruch genommenen Priorität.
+
+In 2 Entscheidungen des EPG zitiert.
 
 *Tags: EPG, EPÜ*
 

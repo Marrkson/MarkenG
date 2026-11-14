@@ -6,6 +6,9 @@ __pycache__/
 # Klausur-PDFs (urheberrechtlich geschützt, per klausuren/ns/urls.txt neu ladbar)
 klausuren/**/*.pdf
 klausuren/**/txt/
+klausuren/**/bilder/
+klausuren/json/
+klausuren/loesungen/
 
 # Rohbilder der Asset-Generierung (tools/gen_assets.py)
 tools/gen_raw/

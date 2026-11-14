@@ -36,7 +36,7 @@ CASES = [
     # ------------------------------------------------------------------ Aktivlegitimation, Schadensersatz, Folgeansprüche
     eu("des_eugh_thomas_philipps", "Thomas Philipps/Grüne Welle (Lizenznehmer)", EUGH, "2016-06-22", "C-419/15", "GRUR 2016, 1163",
        "Der Lizenznehmer kann Ansprüche wegen Verletzung eines eingetragenen Gemeinschaftsgeschmacksmusters geltend machen, auch wenn die "
-       "Lizenz nicht im Register eingetragen ist (Art. 33 Abs. 2 GGV). In einem Verletzungsverfahren, das er nach Art. 32 Abs. 3 GGV selbst "
+       "Lizenz nicht im Register eingetragen ist (damals Art. 33 Abs. 2 GGV a.F., heute Art. 33 Abs. 1 GGV). In einem Verletzungsverfahren, das er nach Art. 32 Abs. 3 GGV selbst "
        "anhängig macht, kann er Ersatz seines eigenen Schadens verlangen.",
        norms=["Art. 32 GGV", "Art. 33 GGV", "§ 31 DesignG"], concepts=["des_lizenz", "des_schadensersatz"], tags=["Lizenz", "Aktivlegitimation"]),
     e("des_bgh_gemeinkostenanteil", "Gemeinkostenanteil", BGH, "2000-11-02", "I ZR 246/98",

@@ -284,7 +284,7 @@ CASES = [
       norms=["§ 82 PatG", "§ 84 Abs. 2 PatG"], concepts=["pat_kostenerstattung"], tags=["Kosten", "Nichtigkeit"]),
     e("pat_bgh_feldmausbekaempfung", "Feldmausbekämpfung", BGH, "2018-03-27", "X ZB 18/16",
       "Im Gebrauchsmustereintragungsverfahren prüft die Gebrauchsmusterstelle, ob ein Schutzhindernis des § 2 GebrMG vorliegt (hier: Verfahren); die Prüfung ist auf die Schutzhindernisse beschränkt, Neuheit und erfinderischer Schritt bleiben dem Löschungsverfahren vorbehalten.",
-      norms=["§ 2 GebrMG", "§ 8 GebrMG"], concepts=["pat_gebrauchsmuster_abzweigung"], tags=["Gebrauchsmuster"]),
+      norms=[], concepts=["pat_gebrauchsmuster_abzweigung"], tags=["Gebrauchsmuster"]),
     # ------------------------------------------------------------------ Entscheidungen aus den Fußnoten der DPMA-Prüfungsrichtlinien (Ausgabe 2.3.2026)
     e("pat_bgh_wiedergabe_topografischer_informationen", "Wiedergabe topografischer Informationen", BGH, "2010-10-26", "X ZR 47/07",
       "Ein Verfahren zur Wiedergabe topografischer Informationen mittels eines technischen Geräts ist nicht vom Patentschutz ausgeschlossen, wenn zumindest ein Teilaspekt der Lehre ein technisches Problem bewältigt. Bei der erfinderischen Tätigkeit zählen nur die Anweisungen, die die Lösung des technischen Problems mit technischen Mitteln bestimmen oder beeinflussen; die Wahl einer zweckmäßigen Darstellung ist eine nichttechnische Vorgabe und bleibt außer Betracht.",
